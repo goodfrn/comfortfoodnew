@@ -1,29 +1,29 @@
 baseURL: "https://comfortfood.uk/"
 
 site:
-  name: "Comfort-Food"
+  name: "Comfort Food"
   language: "en"
-  tagline: Chef & Créatrice
-  description: Recettes maison faciles et gourmandes
-  author: "Sandra"
-  email: "contact@comfortfood.com"
+  tagline: "Home Cooking Made Simple"
+  description: "Discover soul-warming recipes that bring comfort to your kitchen and joy to your table"
+  author: "Emma Kitchen"
+  email: "goodfrn792@gmail.com"
   
 navigation: 
   menu_items:
-    home: "Accueil"
-    recipes: "Recettes"
-    categories: "Catégories"
-    about: "A propos"
+    home: "Home"
+    recipes: "Recipes"
+    categories: "Categories"
+    about: "About"
     contact: "Contact"
   page_titles:
-    home: "Accueil"
-    recipes: "Nos Recettes"
-    categories: "Toutes les Catégories"
-    about: "A Propos de Nous"
-    contact: "Nous Contacter"
+    home: "Home"
+    recipes: "Our Recipes"
+    categories: "All Categories"
+    about: "About Us"
+    contact: "Get in Touch"
 
 branding:
-  logo_text: "Z" 
+  logo_text: "CF" 
   
 
 colors:
@@ -36,44 +36,44 @@ colors:
   brand_color: "#ea580c"  
 
 social:
-  facebook: "https://facebook.com/ta-page"
-  instagram: "https://instagram.com/ta-page"
-  pinterest: "https://pinterest.com/ta-page"
-  twitter: "https://twitter.com/ta-page"
+  facebook: "https://facebook.com/comfortfooduk"
+  instagram: "https://instagram.com/comfortfood.uk"
+  pinterest: "https://pinterest.com/comfortfooduk"
+  twitter: "https://twitter.com/comfortfooduk"
 
 header:
-  search_placeholder: Rechercher une recette d'exception...
-  search_placeholder_mobile: Rechercher une recette...
-  follow_button_text: Suivez-moi
-  menu_aria_label: Ouvrir le menu
+  search_placeholder: "Search for comfort food recipes..."
+  search_placeholder_mobile: "Find recipes..."
+  follow_button_text: "Follow Us"
+  menu_aria_label: "Open menu"
   search_aria_label: Rechercher
 
 hero:
-  badge_text: Nouvelle recette chaque jour
-  title_line1: Plongez dans
-  title_line2: l'Art de la Cuisine
-  subtitle: Chaque jour, une création gourmande pensée pour enchanter vos papilles et sublimer votre quotidien.
-  subtitle_highlight: enchanter vos papilles
-  cta_primary_text: Surprends-moi !
+  badge_text: "Fresh recipes weekly"
+  title_line1: "Welcome to"
+  title_line2: "Comfort Food Heaven"
+  subtitle: "Discover heartwarming recipes that turn everyday ingredients into extraordinary meals, bringing families together one dish at a time."
+  subtitle_highlight: "heartwarming recipes"
+  cta_primary_text: "Inspire Me!"
   cta_primary_url: /random/
-  cta_secondary_text: Explorer les recettes
+  cta_secondary_text: "Browse All Recipes"
   cta_secondary_url: /recipes/
   scroll_indicator: true
 
 homepage:
   latest_recipes:
-    title: Dernières recettes
-    description: Testées, retravaillées et choisies avec soin pour inspirer votre cuisine au quotidien. Vous allez forcément en adopter plus d'une.
+    title: "Latest comfort creations"
+    description: "Tried, tested, and perfected recipes designed to warm your heart and satisfy your soul. Each one crafted with love for your kitchen."
   popular_recipes:
-    title: Recettes populaires
-    empty_message: Aucune recette populaire disponible pour le moment.
+    title: "Most loved recipes"
+    empty_message: "Popular recipes coming soon - stay tuned for comfort food favourites!"
   categories_section:
-    title: Explorer par catégorie
+    title: "Explore by category"
   newsletter:
-    title: Reçois nos recettes les plus aimées ✨
-    description: Des idées simples, des plats de saison, directement dans ta boîte mail. Une fois par semaine. Jamais de spam, juste de la bonne cuisine.
-    email_placeholder: Ton adresse email
-    button_text: Je m'abonne
+    title: "Get our best comfort recipes 🍲"
+    description: "Weekly doses of comfort food inspiration, seasonal favourites, and kitchen tips delivered straight to your inbox. Pure comfort, no spam."
+    email_placeholder: "Your email address"
+    button_text: "Join the family"
     form_action: "https://formspree.io/f/XXXXX"
   filters:
     category_label: Catégorie
@@ -85,36 +85,36 @@ homepage:
     reset_button: Réinitialiser
     
 about_page:
-  title: "A propos"
+  title: "About"
   
 about_section:
   title: Qui suis-je
   title_accent: "?"
-  chef_name: Amelia Feuss
+  chef_name: "Emma Kitchen"
   chef_intro: Je m'appelle Amelia Feuss, chef passionnée depuis plus de dix ans.
   cta_text: Mon parcours
   cta_url: /about/
-  image_alt: Portrait d'Amelia Feuss, chef passionnée
+  image_alt: "Emma Kitchen, comfort food enthusiast and recipe creator"
 
 list_pages:
-  recipes_title: Nos meilleures recettes
-  recipes_description: Testées, retravaillées et choisies avec soir pour inspirer votre cuisine au quotidien. Vous allez forcément en adopter plus d'une.
-  categories_title_prefix: "Recettes :"
-  no_recipes: Aucune recette trouvée pour cette catégorie.
+  recipes_title: "Our comfort food collection"
+  recipes_description: "Hand-picked recipes that celebrate the art of home cooking. From quick weeknight dinners to weekend treats, find your next family favourite."
+  categories_title_prefix: "Recipes:"
+  no_recipes: "No recipes found in this category yet."
   breadcrumb:
-    home: Accueil
-    categories: Catégories
+    home: "Home"
+    categories: "Categories"
 
 recipe_page:
-  author_prefix: Par
-  published_prefix: Publié le
+  author_prefix: "By"
+  published_prefix: "Published on"
   sections:
-    ingredients: Ingrédients
-    instructions: Instructions
-    tips: Conseils de chef
-    faq: Questions fréquentes
-    related: Vous aimerez aussi
-    discover: Inspiration gourmande
+    ingredients: "Ingredients"
+    instructions: "Method"
+    tips: "Chef's notes"
+    faq: "Common questions"
+    related: "You might also love"
+    discover: "More comfort food"
   summary_labels:
     prep: Préparation
     cook: Cuisson
@@ -124,48 +124,48 @@ recipe_page:
   about_sidebar_title: Qui suis-je ?
   about_sidebar_text: Je suis Amelia, passionnée de chimie et de cuisine. J'adore tester des recettes, comprendre les réactions et les rendre délicieuses, accessibles… et parfois un peu magiques.
   sectionsTitle:
-    ingredients_note: "À propos des ingrédients"
-    instructions_note: "Conseils de cuisson"
-    keywords: "Mots-clés"
+    ingredients_note: "About the ingredients"
+    instructions_note: "Cooking tips"
+    keywords: "Recipe tags"
   nutritionSection:
-    title: "Informations nutritionnelles"
-    subtitle: "(valeurs approximatives)"
+    title: "Nutritional information"
+    subtitle: "(approximate values per serving)"
   nutritionLabels:
     calories: "Calories"
-    proteinContent: "Protéines"
-    carbohydrateContent: "Glucides"
-    fatContent: "Lipides"  
+    proteinContent: "Protein"
+    carbohydrateContent: "Carbs"
+    fatContent: "Fat"  
   
 footer:
-  description: Découvrez un univers culinaire d'exception où chaque recette raconte une histoire, chaque saveur éveille vos sens et chaque plat devient un moment inoubliable.
-  navigation_title: Navigation
-  categories_title: Catégories
-  social_title: Suivez-nous
-  newsletter_title: Newsletter
-  newsletter_description: Recevez nos dernières recettes exclusives et nos conseils de chef directement dans votre boîte mail.
-  newsletter_placeholder: votre@email.com
-  newsletter_button: S'abonner
-  copyright_prefix: ©
-  copyright_suffix: . Tous droits réservés.
-  copyright_tagline: Créé avec ❤️ pour les passionnés de cuisine d'exception
-  scroll_top_label: Retour en haut
+  description: "Welcome to Comfort Food, where every recipe tells a story of home, warmth, and the simple joy of sharing delicious meals with the people you love."
+  navigation_title: "Navigation"
+  categories_title: "Recipe Categories"
+  social_title: "Connect with us"
+  newsletter_title: "Weekly comfort"
+  newsletter_description: "Join thousands of home cooks receiving our best comfort food recipes and kitchen wisdom every week."
+  newsletter_placeholder: "goodfrn792@gmail.com"
+  newsletter_button: "Subscribe"
+  copyright_prefix: "©"
+  copyright_suffix: ". All rights reserved."
+  copyright_tagline: "Made with 🧡 for comfort food lovers everywhere"
+  scroll_top_label: "Back to top"
   social_descriptions:
-    pinterest: "Nous suivre"
-    instagram: "Nous suivre"
-    facebook: "Nous suivre"
+    pinterest: "Follow us"
+    instagram: "Follow us"
+    facebook: "Follow us"
   legal_links:
     privacy: "/politique-confidentialite/"
     terms: "/conditions-utilisation/"
     legal: "/mentions-legales/"
     contact: "/contact/"
   legal_links_text:
-    privacy: "Politique de confidentialité"
-    terms: "Conditions d'utilisation"
-    legal: "Mentions légales"
+    privacy: "Privacy Policy"
+    terms: "Terms of Use"
+    legal: "Legal Notice"
     contact: "Contact"
 
 categories_page:
-  title: Toutes les catégories
+  title: "All recipe categories"
 
 params:
   analytics:
@@ -175,7 +175,7 @@ params:
 categories_system:
   site_type: "recipes"
   main_section: "recipes"
-  section_title: "Recettes"
+  section_title: "Recipes"
   categories_config:
     mode: "auto"
     categories_list:
@@ -210,18 +210,18 @@ categories_system:
 
 
 tags_page:
-  all_tags_title: Tous les tags
-  title_prefix: Recettes taguées
-  no_recipes: Aucune recette pour ce tag.
+  all_tags_title: "All recipe tags"
+  title_prefix: "Recipes tagged with"
+  no_recipes: "No recipes found for this tag."
 
 contact_page:
-  title: "Nous Contacter"
-  subtitle: "N'hésitez pas à nous écrire"
+  title: "Get in Touch"
+  subtitle: "We'd love to hear from you"
   form:
-    name_label: Nom
-    email_label: Email
-    message_label: Message
-    submit_button: Envoyer
+    name_label: "Your Name"
+    email_label: "Email Address"
+    message_label: "Your Message"
+    submit_button: "Send Message"
     form_action: "https://formspree.io/f/xwpoynkj"
 
 random_page:
@@ -233,10 +233,10 @@ random_page:
 
 components:
   search:
-    no_results: Aucun résultat trouvé
-    loading: Recherche en cours...
-    clear_label: Effacer la recherche
-    no_results_emoji: 🔍
+    no_results: "No recipes found"
+    loading: "Searching recipes..."
+    clear_label: "Clear search"
+    no_results_emoji: "🔍"
     loading_emoji: ⏳
     recipe_emoji: 🍽️
     time_emoji: ⏱️
