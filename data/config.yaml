@@ -117,10 +117,11 @@ recipe_page:
     discover: "More comfort food"
     view_all_recipes: "View all recipes →"
   summary_labels:
-    prep: Préparation
-    cook: Cuisson
-    total: Total
-    servings: Portions
+    prep: "Prep:"
+    cook: "Cook:"
+    total: "Total:"
+    servings: "Servings:"
+    cuisine: "Cuisine:"
   chef_note_title: Note de la cheffe
   about_sidebar_title: "Who am I?
   about_sidebar_text: "I'm Emma, passionate about food chemistry and home cooking. I love testing recipes, understanding the science behind flavors, and making them delicious, accessible... and sometimes a little magical."
