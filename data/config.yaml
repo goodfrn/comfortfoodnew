@@ -27,13 +27,13 @@ branding:
   
 
 colors:
-  primary: #ea580c
-  primary_dark: #c2410c
-  primary_light: #fb7c47
-  secondary: #f7f0d8
-  background: #ffffff
-  text: #18181b
-  brand_color: #ea580c 
+  primary: "#d97706"
+  primary_dark: "#92400e"
+  primary_light: "#fbbf24"
+  secondary: "#fef3c7"
+  background: "#fffbeb"
+  text: "#1c1917"
+  brand_color: "#d97706"
 
 social:
   facebook: "https://facebook.com/comfortfooduk"
