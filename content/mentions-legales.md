@@ -3,46 +3,78 @@ title: "Mentions légales"
 layout: "legal/mentions-legales"
 ---
 
-# Mentions Légales - Version Admin CMS
+# Legal Notice 
 
-## 🏢 Éditeur du site
-**Nom de l'entreprise :** Testt - Cuisine d'Exception  
-**Forme juridique :** Entrepreneur individuel  
-**Adresse :** 123 Rue des Saveurs, 75001 Paris, France  
-**Email :** contact@recettes-blog.com  
-**Téléphone :** +33 1 23 45 67 89  
-**SIRET :** 123 456 789 00012  
+## Website Publisher
 
-## 🎨 Hébergement technique
-**Hébergeur :** GitHub Pages (Microsoft Corporation)  
-**CDN :** Cloudflare, Inc.  
-**Serveurs :** États-Unis et Europe  
+**Business Name:** Comfort Food - Home Cooking Excellence  
+**Legal Status:** Sole Trader  
+**Trading Address:** 42 Riverside Gardens, London SW1A 1AA, United Kingdom  
+**Email:** goodfrn792@gmail.com  
+**Website:** comfortfood.uk  
+**Company Registration:** Registered in England & Wales  
 
-## 👩‍🍳 Directeur de publication
-**Responsable :** Amelia Feuss  
-**Qualité :** Chef cuisinière professionnelle et créatrice de contenu  
-**Formation :** Institut Paul Bocuse, Lyon  
+## Technical Hosting
 
-## 📚 Propriété intellectuelle
-Tous les contenus de ce site (recettes, photographies, textes, vidéos) sont la propriété exclusive d'Amelia Feuss et sont protégés par le Code de la propriété intellectuelle français et les conventions internationales.
+**Primary Host:** Cloudflare Pages  
+**CDN Provider:** Cloudflare Global Network  
+**Data Centers:** United Kingdom and European Union  
+**Backup Services:** GitHub Infrastructure  
 
-**Utilisation autorisée :** Usage personnel et non commercial uniquement.  
-**Utilisation interdite :** Reproduction, diffusion, modification sans autorisation écrite.
+## Editorial Director
 
-## ⚖️ Responsabilité et garanties
-Les recettes et conseils culinaires sont fournis à titre informatif. Nous ne saurions être tenus responsables des allergies, intolérances ou accidents pouvant survenir lors de la préparation des plats.
+**Publisher:** Emma Kitchen  
+**Role:** Home Cooking Specialist and Content Creator  
+**Background:** Culinary Arts Institute, Borough Market Academy  
+**Expertise:** Traditional British cuisine with modern comfort twists  
 
-**Allergènes :** Vérifiez toujours la composition des ingrédients.  
-**Sécurité alimentaire :** Respectez les règles d'hygiène et de conservation.
+## Intellectual Property Rights
 
-## 🍪 Données personnelles et cookies
-Conformément au RGPD, nous collectons uniquement les données nécessaires au fonctionnement du site (newsletter, commentaires). Vous disposez d'un droit d'accès, de rectification et de suppression.
+All content published on this website including recipes, photographs, written content, videos and culinary techniques remain the exclusive intellectual property of Emma Kitchen and are protected under UK Copyright Law and international conventions.
 
-## 📞 Contact et réclamations
-**Email principal :** contact@recettes-blog.com  
-**Réponse sous :** 48 heures ouvrées  
-**Médiation :** En cas de litige, saisine possible du médiateur de la consommation  
+### Permitted Use
+Personal, non-commercial use for home cooking only.  
+
+### Prohibited Actions
+Commercial reproduction, redistribution, modification or publication without explicit written consent from the publisher.
+
+### Recipe Attribution
+When sharing our recipes, please provide proper credit and link back to the original source on comfortfood.uk.
+
+## Liability and Warranties
+
+The recipes, cooking techniques and nutritional information provided are offered for educational and entertainment purposes. While we strive for accuracy, we cannot guarantee results or accept responsibility for any adverse reactions, food poisoning, kitchen accidents or dietary complications arising from the use of our content.
+
+### Food Safety Notice
+Always follow proper food handling guidelines and check ingredient freshness.  
+
+### Allergen Warning
+Carefully review all ingredients for potential allergens before preparation.  
+
+### Nutritional Disclaimer
+Calorie counts and nutritional values are estimates only.
+
+## Privacy and Data Protection
+
+In compliance with UK GDPR and Data Protection Act 2018, we collect only essential data required for website functionality including newsletter subscriptions and recipe feedback. You maintain full rights to access, modify or delete your personal information at any time.
+
+### Cookie Policy
+We use essential cookies for website functionality and analytics cookies to improve user experience.  
+
+### Data Retention
+Personal data is retained only as long as necessary for the stated purpose.
+
+## Accessibility Commitment
+
+Comfort Food is committed to ensuring our website remains accessible to all users regardless of ability or technology used. We continuously work to meet WCAG 2.1 AA standards and welcome feedback on accessibility improvements.
+
+## Contact and Dispute Resolution
+
+**Primary Contact:** goodfrn792@gmail.com  
+**Response Time:** Within 72 hours during business days  
+**Dispute Resolution:** For unresolved matters, you may contact the UK Online Dispute Resolution platform or relevant consumer protection agencies.
 
 ---
-*🔄 Dernière mise à jour : 28 Juin 2025 - Modifié via CMS Admin*  
-*✨ Version testée et validée par le système de gestion de contenu*
+
+Last Updated: July 15, 2025  
+This document is regularly reviewed to ensure legal compliance and accuracy
