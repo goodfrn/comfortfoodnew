@@ -4,7 +4,7 @@
  * ✅ CORS sécurisé pour domaines personnalisés
  * ✅ Détection repo via registry 
  * ✅ Gestion domaines normalisée
- * ✅ Auto-modification sécurisée
+ * ✅ Auto-modification sécurisée 
  */
 
 // ===================================================================
