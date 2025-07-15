@@ -336,8 +336,16 @@ const SAFE_FIELDS = [
   'recipe_page.sections.related', 'recipe_page.sections.discover', 'recipe_page.sections.view_all_recipes', 'recipe_page.summary_labels.prep', 
   'recipe_page.summary_labels.cook', 'recipe_page.summary_labels.total', 'recipe_page.summary_labels.servings', 'recipe_page.summary_labels.cuisine',
   
-  // 🔍 SEARCH COMPONENTS (4 champs)
+  // 🔍 SEARCH COMPONENTS (7 champs)
   'components.search.no_results', 'components.search.loading', 'components.search.clear_label', 'components.search.no_results_emoji',
+  // cta_buttons COMPONENTS (4 champs)
+  'components.cta_buttons.pin_label'
+  'components.cta_buttons.pin_aria_label'
+  'components.cta_buttons.share_label'
+  'components.cta_buttons.share_aria_label'
+  'components.cta_buttons.print_label'
+  'components.cta_buttons.print_aria_label'
+  'components.cta_buttons.copy_link'
 
   // 🏷️ SYSTÈME DE CATÉGORIES (version simple)
   'categories_system.site_type',
