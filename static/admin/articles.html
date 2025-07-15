@@ -1,0 +1,1915 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Recipe Editor - Administration</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        :root {
+            --color-bg: #ffffff;
+            --color-text: #1a202c;
+            --color-text-secondary: #6b7280;
+            --primary: #2563eb;
+            --primary-hover: #1d4ed8;
+            --border: #e5e7eb;
+            --border-light: #f3f4f6;
+            --success: #059669;
+            --warning: #d97706;
+            --error: #dc2626;
+            --shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+            --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+            --font-serif: 'Georgia', serif;
+        }
+
+        /* === BASE STYLES === */
+        * {
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: #f8fafc;
+            color: var(--color-text);
+        }
+
+        /* === LAYOUT COMPONENTS === */
+        .admin-header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            background: white;
+            border-bottom: 1px solid var(--border);
+            padding: 0 2rem;
+            height: 64px;
+            z-index: 1000;
+            box-shadow: var(--shadow);
+        }
+
+        .admin-header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .admin-brand {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--color-text);
+        }
+
+        .admin-nav {
+            display: flex;
+            gap: 0.5rem;
+        }
+
+        .nav-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.5rem 1rem;
+            background: transparent;
+            border: 1px solid var(--border);
+            border-radius: 0.375rem;
+            color: var(--color-text);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .nav-button:hover {
+            background: var(--border-light);
+        }
+
+        .nav-button.primary {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: white;
+        }
+
+        .nav-button.primary:hover {
+            background: var(--primary-hover);
+        }
+
+        .nav-button.active {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: white;
+        }
+
+        /* === STATUS BAR === */
+        .status-indicator {
+            position: fixed;
+            bottom: 2rem;
+            right: 2rem;
+            padding: 0.75rem 1rem;
+            background: var(--color-text);
+            color: white;
+            border-radius: 0.5rem;
+            font-size: 0.875rem;
+            z-index: 1000;
+            box-shadow: var(--shadow-lg);
+            transition: all 0.2s ease;
+        }
+
+        .status-indicator.saving {
+            background: var(--warning);
+        }
+
+        .status-indicator.saved {
+            background: var(--success);
+        }
+
+        .status-indicator.error {
+            background: var(--error);
+        }
+
+        /* === MAIN CONTENT === */
+        .admin-main {
+            margin-top: 64px;
+            min-height: calc(100vh - 64px);
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        /* === RECIPE LIST VIEW === */
+        .recipes-grid {
+            max-width: 1000px;
+            margin: 0 auto;
+        }
+
+        .recipes-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 2rem;
+        }
+
+        .page-title {
+            font-size: 2rem;
+            font-weight: 700;
+            color: var(--color-text);
+        }
+
+        .recipe-card {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+            margin-bottom: 1rem;
+            cursor: pointer;
+            transition: all 0.15s ease;
+            box-shadow: var(--shadow);
+        }
+
+        .recipe-card:hover {
+            border-color: var(--primary);
+            box-shadow: var(--shadow-lg);
+        }
+
+        .recipe-card-content {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .recipe-info {
+            flex: 1;
+        }
+
+        .recipe-title {
+            font-size: 1.25rem;
+            font-weight: 600;
+            color: var(--color-text);
+            margin-bottom: 0.5rem;
+        }
+
+        .recipe-meta {
+            font-size: 0.875rem;
+            color: var(--color-text-secondary);
+            line-height: 1.5;
+        }
+
+        .recipe-actions {
+            margin-left: 1rem;
+        }
+
+        /* === EDITOR VIEW === */
+        .editor-container {
+            background: white;
+            border-radius: 0.75rem;
+            box-shadow: var(--shadow);
+            overflow: hidden;
+        }
+
+        .editor-content {
+            padding: 3rem;
+        }
+
+        /* === BREADCRUMB === */
+        .breadcrumb {
+            margin-bottom: 2rem;
+        }
+
+        .breadcrumb-list {
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+            font-size: 0.875rem;
+            color: var(--color-text-secondary);
+        }
+
+        .breadcrumb-link {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .breadcrumb-link:hover {
+            text-decoration: underline;
+        }
+
+        .breadcrumb-separator {
+            color: var(--color-text-secondary);
+        }
+
+        /* === FORM ELEMENTS === */
+        .form-section {
+            margin-bottom: 3rem;
+        }
+
+        .section-title {
+            font-size: 1.5rem;
+            font-weight: 600;
+            color: var(--color-text);
+            margin-bottom: 1.5rem;
+            font-family: var(--font-serif);
+        }
+
+        .form-grid {
+            display: grid;
+            gap: 2rem;
+        }
+
+        .form-grid.two-cols {
+            grid-template-columns: 1fr 1fr;
+        }
+
+        .form-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .form-label {
+            font-size: 0.875rem;
+            font-weight: 500;
+            color: var(--color-text);
+        }
+
+        .form-input {
+            padding: 0.75rem;
+            border: 1px solid var(--border);
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+            transition: border-color 0.15s ease;
+        }
+
+        .form-input:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 0 3px rgb(37 99 235 / 0.1);
+        }
+
+        /* === EDITABLE CONTENT === */
+        .editable-field {
+            position: relative;
+            min-height: 1.5rem;
+            padding: 0.5rem;
+            border-radius: 0.375rem;
+            transition: all 0.15s ease;
+        }
+
+        .editable-field:hover {
+            background: rgb(59 130 246 / 0.05);
+            box-shadow: 0 0 0 1px rgb(59 130 246 / 0.2);
+        }
+
+        .editable-field:focus {
+            background: rgb(59 130 246 / 0.1);
+            box-shadow: 0 0 0 2px var(--primary);
+            outline: none;
+        }
+
+        .editable-field.large {
+            font-size: 2.5rem;
+            font-weight: 700;
+            line-height: 1.2;
+            font-family: var(--font-serif);
+        }
+
+        .editable-field.medium {
+            font-size: 1.125rem;
+            line-height: 1.6;
+        }
+
+        .editable-field.italic {
+            font-style: italic;
+            color: var(--color-text-secondary);
+        }
+
+        /* === LISTS === */
+        .editable-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .list-item {
+            position: relative;
+            padding: 1rem;
+            border-bottom: 1px solid var(--border-light);
+            transition: all 0.15s ease;
+        }
+
+        .list-item:hover {
+            background: rgb(59 130 246 / 0.05);
+        }
+
+        .list-item.numbered {
+            padding-left: 3rem;
+            counter-increment: item-counter;
+        }
+
+        .list-item.numbered::before {
+            content: counter(item-counter);
+            position: absolute;
+            left: 1rem;
+            top: 50%;
+            transform: translateY(-50%);
+            width: 1.5rem;
+            height: 1.5rem;
+            background: var(--primary);
+            color: white;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 0.75rem;
+            font-weight: 600;
+        }
+
+        .numbered-list {
+            counter-reset: item-counter;
+        }
+
+        /* === REMOVABLE ITEMS === */
+        .removable-item {
+            position: relative;
+        }
+
+        .remove-button {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            width: 1.5rem;
+            height: 1.5rem;
+            background: var(--error);
+            color: white;
+            border: none;
+            border-radius: 50%;
+            font-size: 0.75rem;
+            cursor: pointer;
+            opacity: 0;
+            transition: opacity 0.15s ease;
+        }
+
+        .removable-item:hover .remove-button {
+            opacity: 1;
+        }
+
+        /* === TAGS AND KEYWORDS === */
+        .tags-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            align-items: center;
+        }
+
+        .tag-item {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.25rem 0.75rem;
+            background: var(--border-light);
+            border: 1px solid var(--border);
+            border-radius: 9999px;
+            font-size: 0.875rem;
+            font-weight: 500;
+        }
+
+        .tag-item.removable {
+            padding-right: 2rem;
+            position: relative;
+        }
+
+        .add-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.25rem 0.75rem;
+            background: rgb(59 130 246 / 0.1);
+            border: 1px solid rgb(59 130 246 / 0.2);
+            border-radius: 9999px;
+            color: var(--primary);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .add-button:hover {
+            background: rgb(59 130 246 / 0.2);
+        }
+
+        /* === CARDS === */
+        .content-card {
+            background: white;
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            padding: 2rem;
+            box-shadow: var(--shadow);
+        }
+
+        .content-card.highlight {
+            background: linear-gradient(to right, #f8fafc 0%, #f1f5f9 50%, #f8fafc 100%);
+        }
+
+        .sidebar-card {
+            background: rgb(248 250 252);
+            border: 1px solid var(--border);
+            border-radius: 0.75rem;
+            padding: 1.5rem;
+        }
+
+        /* === IMAGE UPLOAD === */
+        .image-container {
+            position: relative;
+            border-radius: 0.75rem;
+            overflow: hidden;
+        }
+
+        .recipe-image {
+            width: 100%;
+            height: auto;
+            object-fit: cover;
+            border-radius: 0.75rem;
+        }
+
+        .image-overlay {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+        }
+
+        /* === ACTION BUTTONS === */
+        .action-bar {
+            display: flex;
+            gap: 0.75rem;
+            margin-top: 1.5rem;
+        }
+
+        .action-button {
+            display: inline-flex;
+            align-items: center;
+            padding: 0.5rem 1rem;
+            background: var(--primary);
+            color: white;
+            border: none;
+            border-radius: 0.375rem;
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.15s ease;
+        }
+
+        .action-button:hover {
+            background: var(--primary-hover);
+        }
+
+        .action-button.secondary {
+            background: transparent;
+            color: var(--color-text);
+            border: 1px solid var(--border);
+        }
+
+        .action-button.secondary:hover {
+            background: var(--border-light);
+        }
+
+        /* === RESPONSIVE === */
+        @media (max-width: 1024px) {
+            .form-grid.two-cols {
+                grid-template-columns: 1fr;
+            }
+            
+            .admin-header {
+                padding: 0 1rem;
+            }
+            
+            .container {
+                padding: 1rem;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .admin-header-content {
+                flex-direction: column;
+                height: auto;
+                padding: 1rem 0;
+                gap: 1rem;
+            }
+            
+            .admin-header {
+                height: auto;
+            }
+            
+            .admin-main {
+                margin-top: 120px;
+            }
+            
+            .admin-nav {
+                flex-wrap: wrap;
+            }
+            
+            .editable-field.large {
+                font-size: 1.875rem;
+            }
+        }
+
+        /* === UTILITY CLASSES === */
+        .sr-only {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            white-space: nowrap;
+            border: 0;
+        }
+
+        .hidden {
+            display: none !important;
+        }
+
+        .text-muted {
+            color: var(--color-text-secondary);
+        }
+    </style>
+</head>
+<body>
+   <!-- Header administrateur -->
+   <header class="admin-header">
+       <div class="admin-header-content">
+           <div class="admin-brand">
+               Recipe Administration
+           </div>
+           <nav class="admin-nav">
+               <button class="nav-button" onclick="showRecipesList()">
+                   All Recipes
+               </button>
+               <button class="nav-button" onclick="promptLoadRecipe()">
+                   Load Recipe
+               </button>
+               <button class="nav-button primary" onclick="saveRecipe()">
+                   Save Changes
+               </button>
+               <button class="nav-button" onclick="toggleEditMode()">
+                   Edit Mode
+               </button>
+               <button class="nav-button" onclick="validateRecipe()">
+                   Validate
+               </button>
+           </nav>
+       </div>
+   </header>
+
+   <!-- Indicateur de statut -->
+   <div class="status-indicator" id="status-indicator">
+       Ready
+   </div>
+
+   <!-- Vue principale -->
+   <main class="admin-main">
+       
+       <!-- Vue liste des recettes -->
+       <div class="container hidden" id="recipes-list-view">
+           <div class="recipes-grid">
+               <div class="recipes-header">
+                   <h1 class="page-title">Recipe Collection</h1>
+                   <button class="action-button" onclick="createNewRecipe()">
+                       Create New Recipe
+                   </button>
+               </div>
+               <div id="recipes-container">
+                   <!-- Chargé dynamiquement -->
+               </div>
+           </div>
+       </div>
+
+       <!-- Vue éditeur de recette -->
+       <div class="container" id="recipe-editor-view">
+           <div class="editor-container">
+               <div class="editor-content">
+                   
+                   <!-- Fil d'Ariane -->
+                   <nav class="breadcrumb">
+                       <ol class="breadcrumb-list">
+                           <li>
+                               <a href="/" class="breadcrumb-link">Home</a>
+                           </li>
+                           <li class="breadcrumb-separator">›</li>
+                           <li>
+                               <a href="/categories/" class="breadcrumb-link">Categories</a>
+                           </li>
+                           <li class="breadcrumb-separator">›</li>
+                           <li>
+                               <span class="editable-field" contenteditable="true" data-field="categories.0">Desserts</span>
+                           </li>
+                       </ol>
+                   </nav>
+
+                   <!-- Titre principal -->
+                   <div class="form-section">
+                       <h1 class="editable-field large" 
+                           contenteditable="true" 
+                           data-field="title"
+                           placeholder="Recipe Title">
+                           Delicious Cherry Almond Maple Crisp Recipe
+                       </h1>
+                   </div>
+
+                   <!-- Section header avec image et infos -->
+                   <div class="form-section">
+                       <div class="form-grid two-cols">
+                           
+                           <!-- Image -->
+                           <div class="form-group">
+                               <label class="form-label">Recipe Image</label>
+                               <div class="image-container">
+                                   <img src="/assets/images/cherry-almond-maple-crisp.png" 
+                                        alt="Recipe image" 
+                                        class="recipe-image"
+                                        id="recipe-image">
+                                   <div class="image-overlay">
+                                       <button class="nav-button" onclick="changeImage()">
+                                           Change Image
+                                       </button>
+                                   </div>
+                               </div>
+                               <input type="text" 
+                                      class="form-input"
+                                      placeholder="Image filename (e.g., image.jpg)"
+                                      data-field="image"
+                                      value="cherry-almond-maple-crisp.png">
+                           </div>
+                           
+                           <!-- Informations de base -->
+                           <div class="form-group">
+                               <label class="form-label">Recipe Information</label>
+                               
+                               <div class="form-group">
+                                   <label class="form-label">Author</label>
+                                   <div class="editable-field" 
+                                        contenteditable="true" 
+                                        data-field="author"
+                                        placeholder="Recipe author">
+                                       Amelia Feuss.
+                                   </div>
+                               </div>
+
+                               <div class="form-group">
+                                   <label class="form-label">Publication Date</label>
+                                   <div class="editable-field" 
+                                        contenteditable="true" 
+                                        data-field="date"
+                                        placeholder="Publication date">
+                                       29 juin 2025
+                                   </div>
+                               </div>
+
+                               <div class="form-group">
+                                   <label class="form-label">Description</label>
+                                   <div class="editable-field medium italic" 
+                                        contenteditable="true" 
+                                        data-field="description"
+                                        placeholder="Recipe description">
+                                       Indulge in this cherry almond maple crisp, a comforting dessert loaded with juicy cherries and the distinct aroma of almonds.
+                                   </div>
+                               </div>
+
+                               <!-- Temps et portions -->
+                               <div class="form-grid two-cols">
+                                   <div class="form-group">
+                                       <label class="form-label">Prep Time</label>
+                                       <div class="editable-field" 
+                                            contenteditable="true" 
+                                            data-field="prepTime"
+                                            placeholder="10 min">
+                                           10 min
+                                       </div>
+                                   </div>
+                                   <div class="form-group">
+                                       <label class="form-label">Cook Time</label>
+                                       <div class="editable-field" 
+                                            contenteditable="true" 
+                                            data-field="cookTime"
+                                            placeholder="45 min">
+                                           45 min
+                                       </div>
+                                   </div>
+                                   <div class="form-group">
+                                       <label class="form-label">Total Time</label>
+                                       <div class="editable-field" 
+                                            contenteditable="true" 
+                                            data-field="totalTime"
+                                            placeholder="55 min">
+                                           55 min
+                                       </div>
+                                   </div>
+                                   <div class="form-group">
+                                       <label class="form-label">Servings</label>
+                                       <div class="editable-field" 
+                                            contenteditable="true" 
+                                            data-field="recipeYield"
+                                            placeholder="8 servings">
+                                           8 servings
+                                       </div>
+                                   </div>
+                               </div>
+
+                               <!-- Tags -->
+                               <div class="form-group">
+                                   <label class="form-label">Tags</label>
+                                   <div class="tags-container" id="tags-container">
+                                       <span class="tag-item removable">
+                                           <span class="editable-field" contenteditable="true" data-field="tags.0">cherry crisp</span>
+                                           <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                                       </span>
+                                       <button class="add-button" onclick="addTag()">
+                                           Add Tag
+                                       </button>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+
+                   <!-- Introduction -->
+                   <div class="form-section">
+                       <label class="form-label">Introduction</label>
+                       <div class="editable-field medium" 
+                            contenteditable="true" 
+                            data-field="introduction"
+                            placeholder="Recipe introduction">
+                           Welcome to my kitchen, where the magic of baking truly comes alive! Today, I'm thrilled to share a delightful recipe for Cherry Almond Maple Crisp.
+                       </div>
+                   </div>
+
+                   <!-- Contenu principal en deux colonnes -->
+                   <div class="form-grid two-cols">
+                       
+                       <!-- Colonne principale -->
+                       <div>
+                           
+                           <!-- Ingrédients -->
+                           <div class="form-section">
+                               <div class="content-card">
+                                   <h2 class="section-title">Ingredients</h2>
+                                   <ul class="editable-list" id="ingredients-list">
+                                       <li class="list-item removable-item" 
+                                           contenteditable="true" 
+                                           data-field="ingredients.0" 
+                                           draggable="true">
+                                           980 grams frozen cherries
+                                           <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                                       </li>
+                                       <li class="list-item removable-item" 
+                                           contenteditable="true" 
+                                           data-field="ingredients.1" 
+                                           draggable="true">
+                                           60 millilitres maple syrup
+                                           <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                                       </li>
+                                   </ul>
+                                   <div class="action-bar">
+                                       <button class="action-button" onclick="addIngredient()">
+                                           Add Ingredient
+                                       </button>
+                                   </div>
+                               </div>
+                           </div>
+
+                           <!-- Note sur les ingrédients -->
+                           <div class="form-section">
+                               <div class="content-card highlight">
+                                   <h3 class="section-title">About the Ingredients</h3>
+                                   <div class="editable-field" 
+                                        contenteditable="true" 
+                                        data-field="ingredientsNote"
+                                        placeholder="Notes about ingredients">
+                                       The beauty of this cherry almond maple crisp lies in its simplicity, made from wholesome ingredients you probably already have in your pantry.
+                                   </div>
+                               </div>
+                           </div>
+                           
+                           <!-- Instructions -->
+                           <div class="form-section">
+                               <div class="content-card">
+                                   <h2 class="section-title">Instructions</h2>
+                                   <ol class="editable-list numbered-list" id="instructions-list">
+                                       <li class="list-item numbered removable-item" 
+                                           contenteditable="true" 
+                                           data-field="instructions.0" 
+                                           draggable="true">
+                                           In a large mixing bowl, combine frozen cherries, maple syrup, lemon juice, and vanilla extract.
+                                           <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                                       </li>
+                                       <li class="list-item numbered removable-item" 
+                                           contenteditable="true" 
+                                           data-field="instructions.1" 
+                                           draggable="true">
+                                           Transfer the cherry filling to a baking dish; a nine-inch square pan works great.
+                                           <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                                       </li>
+                                   </ol>
+                                   <div class="action-bar">
+                                       <button class="action-button" onclick="addInstruction()">
+                                           Add Step
+                                       </button>
+                                   </div>
+                               </div>
+                           </div>
+
+                           <!-- Note sur les instructions -->
+                           <div class="form-section">
+                               <div class="content-card highlight">
+                                   <h3 class="section-title">Cooking Tips</h3>
+                                   <div class="editable-field" 
+                                        contenteditable="true" 
+                                        data-field="instructionsNote"
+                                        placeholder="Cooking tips and advice">
+                                       To get the most out of this delicious cherry almond maple crisp, make sure to toss your cherries gently but thoroughly.
+                                   </div>
+                               </div>
+                           </div>
+
+                           <!-- Conseils -->
+                           <div class="form-section">
+                               <div class="content-card">
+                                   <h2 class="section-title">Tips & Advice</h2>
+                                   <ul class="editable-list" id="tips-list">
+                                       <li class="list-item removable-item">
+                                           <div class="editable-field" 
+                                                contenteditable="true" 
+                                                data-field="tips.0">
+                                               This cherry almond maple crisp is highly customizable! Feel free to swap frozen cherries for other fruits.
+                                           </div>
+                                           <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                                       </li>
+                                   </ul>
+                                   <div class="action-bar">
+                                       <button class="action-button" onclick="addTip()">
+                                           Add Tip
+                                       </button>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+
+                       <!-- Sidebar -->
+                       <div>
+                           
+                           <!-- Informations nutritionnelles -->
+                           <div class="form-section">
+                               <div class="sidebar-card">
+                                   <h3 class="section-title">Nutritional Information</h3>
+                                   <div class="form-group">
+                                       <div class="form-grid two-cols">
+                                           <div>
+                                               <label class="form-label">Calories</label>
+                                               <div class="editable-field" 
+                                                    contenteditable="true" 
+                                                    data-field="nutrition.calories"
+                                                    placeholder="280 calories">
+                                                   280 calories
+                                               </div>
+                                           </div>
+                                           <div>
+                                               <label class="form-label">Protein</label>
+                                               <div class="editable-field" 
+                                                    contenteditable="true" 
+                                                    data-field="nutrition.proteinContent"
+                                                    placeholder="5g">
+                                                   5g
+                                               </div>
+                                           </div>
+                                           <div>
+                                               <label class="form-label">Carbs</label>
+                                               <div class="editable-field" 
+                                                    contenteditable="true" 
+                                                    data-field="nutrition.carbohydrateContent"
+                                                    placeholder="40g">
+                                                   40g
+                                               </div>
+                                           </div>
+                                           <div>
+                                               <label class="form-label">Fat</label>
+                                               <div class="editable-field" 
+                                                    contenteditable="true" 
+                                                    data-field="nutrition.fatContent"
+                                                    placeholder="10g">
+                                                   10g
+                                               </div>
+                                           </div>
+                                       </div>
+                                   </div>
+                               </div>
+                           </div>
+
+                           <!-- Mots-clés -->
+                           <div class="form-section">
+                               <div class="sidebar-card">
+                                   <h3 class="section-title">Keywords</h3>
+                                   <div class="tags-container" id="keywords-container">
+                                       <span class="tag-item removable">
+                                           <span class="editable-field" contenteditable="true" data-field="keywords.0">cherry</span>
+                                           <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                                       </span>
+                                       <button class="add-button" onclick="addKeyword()">
+                                           Add Keyword
+                                       </button>
+                                   </div>
+                               </div>
+                           </div>
+                       </div>
+                   </div>
+               </div>
+           </div>
+       </div>
+   </main>
+    <script>
+        const CONFIG = {
+            API_BASE: 'https://blog-config-api.kasri-elmehdi.workers.dev'
+        };
+        
+        let currentRecipe = {};
+        let allRecipes = [];
+        let editMode = true;
+        
+        // =========================================
+        // GESTION DES VUES
+        // =========================================
+        function showRecipesList() {
+            updateURL(null);  // ✅ AJOUTE CETTE LIGNE
+            document.getElementById('recipes-list-view').classList.remove('hidden');
+            document.getElementById('recipe-editor-view').classList.add('hidden');
+            loadAllRecipes();
+        }
+        
+        function showRecipeEditor() {
+            document.getElementById('recipes-list-view').classList.add('hidden');
+            document.getElementById('recipe-editor-view').classList.remove('hidden');
+        }
+        
+        function createNewRecipe() {
+            currentRecipe = {
+                title: 'New Recipe',
+                slug: 'new-recipe',
+                author: 'Chef',
+                description: 'Recipe description...',
+                introduction: 'Recipe introduction...',
+                ingredients: ['New ingredient'],
+                instructions: ['New step'],
+                tags: ['new'],
+                keywords: ['recipe'],
+                tips: ['New tip'],
+                date: new Date().toISOString().split('T')[0]
+            };
+
+            updateURL('new-recipe');
+            populateEditor(currentRecipe);
+            showRecipeEditor();
+            updateStatus('New recipe created');
+        }
+        function promptLoadRecipe() {
+            const slug = prompt('Enter recipe slug to load:');
+            if (slug) {
+                loadAndEditRecipe(slug);
+            }
+        }
+
+        // =========================================
+        // CHARGEMENT LISTE DES RECETTES
+        // =========================================
+        async function loadAllRecipes() {
+            updateStatus('Loading recipes...', 'saving');
+            
+            try {
+                const response = await fetch(`${CONFIG.API_BASE}/api/list-articles`);
+                const result = await response.json();
+                
+                if (result.success) {
+                    allRecipes = result.articles;
+                    displayRecipesList(allRecipes);
+                    updateStatus(`${allRecipes.length} recipes loaded`, 'saved');
+                } else {
+                    throw new Error(result.error);
+                }
+            } catch (error) {
+                updateStatus('Error loading recipes: ' + error.message, 'error');
+            }
+        }
+        
+        function displayRecipesList(recipes) {
+            const container = document.getElementById('recipes-container');
+            if (!container) return;
+            
+            container.innerHTML = '';
+            
+            recipes.forEach(recipe => {
+                const card = document.createElement('div');
+                card.className = 'recipe-card';
+                card.onclick = () => loadAndEditRecipe(recipe.slug);
+                
+                card.innerHTML = `
+                    <div class="recipe-card-content">
+                        <div class="recipe-info">
+                            <div class="recipe-title">${recipe.title}</div>
+                            <div class="recipe-meta">
+                                <div>By ${recipe.author} • ${recipe.date}</div>
+                                <div>Categories: ${recipe.categories?.join(', ') || 'General'}</div>
+                            </div>
+                        </div>
+                        <div class="recipe-actions">
+                            <button class="nav-button" onclick="event.stopPropagation(); loadAndEditRecipe('${recipe.slug}')">
+                                Edit
+                            </button>
+                        </div>
+                    </div>
+                `;
+                
+                container.appendChild(card);
+            });
+        }
+        
+        function loadAndEditRecipe(slug) {
+            updateURL(slug); 
+            loadRecipe(slug);
+            showRecipeEditor();
+        }
+        
+        // =========================================
+        // GESTION DU MODE ÉDITION
+        // =========================================
+        function toggleEditMode() {
+            editMode = !editMode;
+            const editables = document.querySelectorAll('.editable-field');
+            editables.forEach(el => {
+                el.contentEditable = editMode;
+                el.style.opacity = editMode ? '1' : '0.7';
+            });
+            
+            // Activer/désactiver boutons d'ajout
+            const addButtons = document.querySelectorAll('.action-button, .add-button');
+            addButtons.forEach(btn => {
+                btn.style.display = editMode ? 'inline-flex' : 'none';
+            });
+            
+            updateStatus(editMode ? 'Edit mode enabled' : 'Read-only mode');
+        }
+        
+        // =========================================
+        // CHARGEMENT RECETTE
+        // =========================================
+        async function loadRecipe(slug) {
+           if (!slug) {
+               updateStatus('No recipe slug provided', 'error');
+               return;
+           }
+           
+           updateStatus('Loading recipe...', 'saving');
+           
+           try {
+               const response = await fetch(`${CONFIG.API_BASE}/api/get-article?slug=${slug}`);
+               const result = await response.json();
+               
+               if (result.success) {
+                   currentRecipe = result.article;
+                   populateEditor(currentRecipe);
+                   updateStatus('Recipe loaded successfully', 'saved');
+               } else {
+                   throw new Error(result.error);
+               }
+           } catch (error) {
+               updateStatus('Loading error: ' + error.message, 'error');
+           }
+        }
+        
+        function populateEditor(recipe) {
+            // Champs simples
+            setFieldValue('title', recipe.title);
+            setFieldValue('author', recipe.author);
+            setFieldValue('description', recipe.description);
+            setFieldValue('introduction', recipe.introduction);
+            setFieldValue('date', recipe.date);
+            
+            // Catégories
+            if (recipe.categories && recipe.categories.length > 0) {
+                setFieldValue('categories.0', recipe.categories[0]);
+            }
+            
+            // Temps
+            setFieldValue('prepTime', formatTime(recipe.prepTime));
+            setFieldValue('cookTime', formatTime(recipe.cookTime));
+            setFieldValue('totalTime', formatTime(recipe.totalTime));
+            setFieldValue('recipeYield', recipe.recipeYield);
+            
+            // Image
+            const imageInput = document.querySelector('[data-field="image"]');
+            if (imageInput) imageInput.value = recipe.image || '';
+            updateRecipeImage(recipe.image);
+            
+            // Listes
+            populateList('ingredients-list', recipe.ingredients, 'ingredients');
+            populateList('instructions-list', recipe.instructions, 'instructions');
+            populateTags(recipe.tags);
+            populateKeywords(recipe.keywords);
+            populateTips(recipe.tips);
+            
+            // Notes sections
+            if (recipe.ingredientsNote && recipe.ingredientsNote !== "About These Ingredients") {
+                setFieldValue('ingredientsNote', recipe.ingredientsNote);
+            }
+            if (recipe.instructionsNote && recipe.instructionsNote !== "Cooking Tips") {
+                setFieldValue('instructionsNote', recipe.instructionsNote);
+            }
+            
+            // Nutrition
+            if (recipe.nutrition) {
+                setFieldValue('nutrition.calories', recipe.nutrition.calories);
+                setFieldValue('nutrition.proteinContent', recipe.nutrition.proteinContent);
+                setFieldValue('nutrition.carbohydrateContent', recipe.nutrition.carbohydrateContent);
+                setFieldValue('nutrition.fatContent', recipe.nutrition.fatContent);
+            }
+        }
+        
+        function setFieldValue(field, value) {
+            const element = document.querySelector(`[data-field="${field}"]`);
+            if (element && value) {
+                element.textContent = value;
+            }
+        }
+        
+        function populateList(listId, items, fieldPrefix) {
+            const list = document.getElementById(listId);
+            if (!list || !items) return;
+            
+            list.innerHTML = '';  // ← Assure-toi que cette ligne est là
+            
+            items.forEach((item, index) => {
+                const li = document.createElement('li');
+                li.className = list.classList.contains('numbered-list') ? 
+                    'list-item numbered removable-item' : 
+                    'list-item removable-item';
+                li.contentEditable = true;
+                li.setAttribute('data-field', `${fieldPrefix}.${index}`);
+                li.textContent = item;  // ← Juste le texte, pas de bouton ici
+                li.draggable = true;
+                
+                // Ajouter UN SEUL bouton suppression
+                const removeBtn = document.createElement('button');
+                removeBtn.className = 'remove-button';
+                removeBtn.textContent = '×';
+                removeBtn.onclick = () => removeElement(li);
+                li.appendChild(removeBtn);
+                
+                list.appendChild(li);
+            });
+        }
+        
+        function populateTags(tags) {
+            const container = document.getElementById('tags-container');
+            if (!container || !tags) return;
+            
+            // Trouver le bouton d'ajout
+            const addButton = container.querySelector('.add-button');
+            if (!addButton) return;
+            
+            // Supprimer tous les tags existants
+            container.querySelectorAll('.tag-item').forEach(tag => tag.remove());
+            
+            tags.forEach((tag, index) => {
+                const span = document.createElement('span');
+                span.className = 'tag-item removable';
+                span.innerHTML = `
+                    <span class="editable-field" contenteditable="true" data-field="tags.${index}">${tag}</span>
+                    <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                `;
+                
+                try {
+                    container.insertBefore(span, addButton);
+                } catch (e) {
+                    console.warn('Error inserting tag:', e);
+                    container.appendChild(span);
+                }
+            });
+        }
+        
+        function populateKeywords(keywords) {
+            const container = document.getElementById('keywords-container');
+            if (!container || !keywords) return;
+            
+            // Trouver le bouton d'ajout
+            const addButton = container.querySelector('.add-button');
+            if (!addButton) return;
+            
+            // Supprimer tous les mots-clés existants
+            container.querySelectorAll('.tag-item').forEach(keyword => keyword.remove());
+            
+            keywords.forEach((keyword, index) => {
+                const span = document.createElement('span');
+                span.className = 'tag-item removable';
+                span.innerHTML = `
+                    <span class="editable-field" contenteditable="true" data-field="keywords.${index}">${keyword}</span>
+                    <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                `;
+                
+                try {
+                    container.insertBefore(span, addButton);
+                } catch (e) {
+                    console.warn('Error inserting keyword:', e);
+                    container.appendChild(span);
+                }
+            });
+        }
+        
+        function populateTips(tips) {
+            const list = document.getElementById('tips-list');
+            if (!list || !tips) return;
+            
+            list.innerHTML = '';
+            tips.forEach((tip, index) => {
+                const li = document.createElement('li');
+                li.className = 'list-item removable-item';
+                li.innerHTML = `
+                    <div class="editable-field" contenteditable="true" data-field="tips.${index}">${tip}</div>
+                    <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+                `;
+                list.appendChild(li);
+            });
+        }
+        
+        // =========================================
+        // SAUVEGARDE
+        // =========================================
+        async function saveRecipe() {
+            updateStatus('Saving changes...', 'saving');
+            
+            try {
+                const data = collectData();
+                console.log('Data to save:', data);
+                
+                const response = await fetch(`${CONFIG.API_BASE}/api/save-article`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify(data)
+                });
+                
+                if (!response.ok) {
+                    const errorText = await response.text();
+                    console.error('HTTP Error:', response.status);
+                    console.error('Error details:', errorText);
+                    throw new Error(`HTTP ${response.status}: ${errorText}`);
+                }
+                
+                const result = await response.json();
+                
+                if (result.success) {
+                    updateStatus('Saved successfully!', 'saved');
+                    setTimeout(() => updateStatus('Ready to edit'), 3000);
+                } else {
+                    throw new Error(result.error);
+                }
+            } catch (error) {
+                console.error('Complete error:', error);
+                updateStatus('Save error: ' + error.message, 'error');
+            }
+        }
+        
+        function collectData() {
+           const data = {
+               title: cleanTextContent(getFieldValue('title'), 'Recipe Title') || 'Recipe Title',
+               slug: currentRecipe.slug || generateSlug(getFieldValue('title')),
+               author: cleanTextContent(getFieldValue('author'), 'Recipe author'),
+               description: cleanTextContent(getFieldValue('description'), 'Recipe description'),
+               introduction: cleanTextContent(getFieldValue('introduction'), 'Recipe introduction'),
+               prepTime: convertTimeToISO(cleanTextContent(getFieldValue('prepTime'), '10 min')),
+               cookTime: convertTimeToISO(cleanTextContent(getFieldValue('cookTime'), '45 min')),
+               totalTime: convertTimeToISO(cleanTextContent(getFieldValue('totalTime'), '55 min')),
+               recipeYield: cleanTextContent(getFieldValue('recipeYield'), '8 servings'),
+               image: document.querySelector('[data-field="image"]')?.value || '',
+               date: getFieldValue('date') || currentRecipe.date || new Date().toISOString().split('T')[0],
+               categories: [getFieldValue('categories.0') || 'General'],
+               ingredients: collectList('ingredients'),
+               instructions: collectList('instructions'),
+               tags: collectList('tags'),
+               keywords: collectList('keywords'),
+               tips: collectList('tips'),
+               nutrition: {
+                   calories: cleanTextContent(getFieldValue('nutrition.calories'), '280 calories'),
+                   proteinContent: cleanTextContent(getFieldValue('nutrition.proteinContent'), '5g'),
+                   carbohydrateContent: cleanTextContent(getFieldValue('nutrition.carbohydrateContent'), '40g'),
+                   fatContent: cleanTextContent(getFieldValue('nutrition.fatContent'), '10g')
+               },
+               // Notes sections
+               ingredientsNote: cleanTextContent(getFieldValue('ingredientsNote'), 'Notes about ingredients'),
+               instructionsNote: cleanTextContent(getFieldValue('instructionsNote'), 'Cooking tips and advice'),
+               
+               // Content requis par l'API
+               content: currentRecipe.content || 'Recipe content',
+               
+               // Conserver les champs avancés existants
+               metaDescription: currentRecipe.metaDescription || '',
+               ogDescription: currentRecipe.ogDescription || '',
+               focusKeyphrase: currentRecipe.focusKeyphrase || '',
+               cuisine: currentRecipe.cuisine || '',
+               secondaryKeywords: currentRecipe.secondaryKeywords || [],
+               breadcrumb: currentRecipe.breadcrumb || [],
+               faq: currentRecipe.faq || [],
+               draft: currentRecipe.draft || false
+           };
+           
+           // Debug pour voir ce qui est envoyé
+           console.log('🔍 Title:', data.title);
+           console.log('🔍 Content:', data.content);
+           console.log('🔍 Title length:', data.title?.length);
+           console.log('🔍 Content length:', data.content?.length);
+           console.log('🔍 Full data:', data);
+           
+           return data;
+        }
+        
+        function getFieldValue(field) {
+            const element = document.querySelector(`[data-field="${field}"]`);
+            return element ? element.textContent.trim() : '';
+        }
+        
+        function collectList(type) {
+            const elements = document.querySelectorAll(`[data-field^="${type}."]`);
+            return Array.from(elements).map(el => el.textContent.trim()).filter(text => text);
+        }
+        
+        // =========================================
+        // AJOUT D'ÉLÉMENTS
+        // =========================================
+        function addIngredient() {
+            const list = document.getElementById('ingredients-list');
+            if (!list) return;
+            
+            const count = list.children.length;
+            const li = document.createElement('li');
+            li.className = 'list-item removable-item';
+            li.contentEditable = true;
+            li.setAttribute('data-field', `ingredients.${count}`);
+            li.textContent = '';  // ← VIDE au lieu de 'New ingredient'
+            li.draggable = true;
+            
+            // Ajouter bouton suppression
+            const removeBtn = document.createElement('button');
+            removeBtn.className = 'remove-button';
+            removeBtn.textContent = '×';
+            removeBtn.onclick = () => removeElement(li);
+            li.appendChild(removeBtn);
+            
+            list.appendChild(li);
+            li.focus();  // Focus automatique pour taper directement
+        }
+        
+        function addInstruction() {
+            const list = document.getElementById('instructions-list');
+            if (!list) return;
+            
+            const count = list.children.length;
+            const li = document.createElement('li');
+            li.className = 'list-item numbered removable-item';
+            li.contentEditable = true;
+            li.setAttribute('data-field', `instructions.${count}`);
+            li.textContent = '';  // ← VIDE au lieu de 'New step'
+            li.draggable = true;
+            
+            // Ajouter bouton suppression
+            const removeBtn = document.createElement('button');
+            removeBtn.className = 'remove-button';
+            removeBtn.textContent = '×';
+            removeBtn.onclick = () => removeElement(li);
+            li.appendChild(removeBtn);
+            
+            list.appendChild(li);
+            li.focus();  // Focus automatique
+        }
+        
+        function addTip() {
+            const list = document.getElementById('tips-list');
+            if (!list) return;
+            
+            const count = list.children.length;
+            const li = document.createElement('li');
+            li.className = 'list-item removable-item';
+            li.innerHTML = `
+                <div class="editable-field" contenteditable="true" data-field="tips.${count}"></div>
+                <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+            `;
+            // ← DIV VIDE au lieu de 'New tip'
+            
+            list.appendChild(li);
+            const editableDiv = li.querySelector('.editable-field');
+            editableDiv.focus();  // Focus automatique
+        }
+        
+        function addTag() {
+            const container = document.getElementById('tags-container');
+            if (!container) return;
+            
+            const addButton = container.querySelector('.add-button');
+            if (!addButton) return;
+            
+            const count = container.querySelectorAll('.tag-item').length;
+            
+            const span = document.createElement('span');
+            span.className = 'tag-item removable';
+            span.innerHTML = `
+                <span class="editable-field" contenteditable="true" data-field="tags.${count}"></span>
+                <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+            `;
+            // ← SPAN VIDE au lieu de 'new tag'
+            
+            try {
+                container.insertBefore(span, addButton);
+            } catch (e) {
+                console.warn('Error inserting tag:', e);
+                container.appendChild(span);
+            }
+            
+            const editableSpan = span.querySelector('.editable-field');
+            editableSpan.focus();  // Focus automatique
+        }
+        
+        function addKeyword() {
+            const container = document.getElementById('keywords-container');
+            if (!container) return;
+            
+            const addButton = container.querySelector('.add-button');
+            if (!addButton) return;
+            
+            const count = container.querySelectorAll('.tag-item').length;
+            
+            const span = document.createElement('span');
+            span.className = 'tag-item removable';
+            span.innerHTML = `
+                <span class="editable-field" contenteditable="true" data-field="keywords.${count}"></span>
+                <button class="remove-button" onclick="removeElement(this.parentElement)">×</button>
+            `;
+            // ← SPAN VIDE au lieu de 'new keyword'
+            
+            try {
+                container.insertBefore(span, addButton);
+            } catch (e) {
+                console.warn('Error inserting keyword:', e);
+                container.appendChild(span);
+            }
+            
+            const editableSpan = span.querySelector('.editable-field');
+            editableSpan.focus();  // Focus automatique
+        }
+        
+        // =========================================
+        // SUPPRESSION D'ÉLÉMENTS
+        // =========================================
+        function removeElement(element) {
+            if (confirm('Remove this item?')) {
+                const list = element.parentNode;
+                element.remove();
+                
+                // Réorganiser les data-fields si c'est une liste
+                if (list.classList.contains('editable-list') || list.id.includes('-list')) {
+                    reorderDataFields(list);
+                }
+                
+                updateStatus('Item removed');
+            }
+        }
+        
+        // =========================================
+        // GESTION IMAGE
+        // =========================================
+        function changeImage() {
+            const newImage = prompt('Enter image filename (e.g., image.jpg):');
+            if (newImage) {
+                document.querySelector('[data-field="image"]').value = newImage;
+                updateRecipeImage(newImage);
+            }
+        }
+        
+        function updateRecipeImage(imageName) {
+            const img = document.getElementById('recipe-image');
+            if (img && imageName) {
+                img.src = `/assets/images/${imageName}`;
+                img.alt = getFieldValue('title') || 'Recipe image';
+            }
+        }
+        
+        // =========================================
+        // VALIDATION
+        // =========================================
+        function validateRecipe() {
+            const data = collectData();
+            const errors = [];
+            
+            if (!data.title?.trim()) errors.push('Missing title');
+            if (!data.ingredients?.length) errors.push('No ingredients');
+            if (!data.instructions?.length) errors.push('No instructions');
+            
+            if (errors.length > 0) {
+                updateStatus('Validation errors: ' + errors.join(', '), 'error');
+                return false;
+            }
+            
+            updateStatus('Recipe is valid', 'saved');
+            return true;
+        }
+        
+        // =========================================
+        // UTILITAIRES
+        // =========================================
+        function formatTime(timeString) {
+            if (!timeString) return '';
+            
+            // Convertir PT10M en "10 min"
+            const match = timeString.match(/PT(\d+)M/);
+            if (match) {
+                return `${match[1]} min`;
+            }
+            
+            // Convertir PT1H30M en "1h 30min"
+            const hourMatch = timeString.match(/PT(\d+)H(\d+)M/);
+            if (hourMatch) {
+                return `${hourMatch[1]}h ${hourMatch[2]}min`;
+            }
+            
+            return timeString;
+        }
+        
+        function convertTimeToISO(timeString) {
+            if (!timeString) return '';
+            
+            // Convertir "10 min" en PT10M
+            const minMatch = timeString.match(/(\d+)\s*min/);
+            if (minMatch) {
+                return `PT${minMatch[1]}M`;
+            }
+            
+            // Convertir "1h 30min" en PT1H30M
+            const hourMinMatch = timeString.match(/(\d+)h\s*(\d+)min/);
+            if (hourMinMatch) {
+                return `PT${hourMinMatch[1]}H${hourMinMatch[2]}M`;
+            }
+            
+            // Convertir "1h" en PT1H
+            const hourMatch = timeString.match(/(\d+)h/);
+            if (hourMatch) {
+                return `PT${hourMatch[1]}H`;
+            }
+            
+            return timeString;
+        }
+        
+        function generateSlug(title) {
+            return title
+                .toLowerCase()
+                .replace(/[^a-z0-9\s-]/g, '')
+                .replace(/\s+/g, '-')
+                .replace(/-+/g, '-')
+                .replace(/^-|-$/g, '');
+        }
+        
+        function updateStatus(message, type = '') {
+            const statusBar = document.getElementById('status-indicator');
+            if (statusBar) {
+                statusBar.textContent = message;
+                statusBar.className = `status-indicator ${type}`;
+            } else {
+                console.log(`[${type.toUpperCase()}] ${message}`);
+            }
+        }
+        
+        function cleanTextContent(text, placeholder) {
+            if (!text || text.trim() === '' || text === placeholder) {
+                return '';
+            }
+            return text.trim();
+        }
+        
+        function reorderDataFields(list) {
+            const items = list.querySelectorAll('li');
+            if (items.length === 0) return;
+            
+            const fieldPrefix = items[0]?.getAttribute('data-field')?.split('.')[0];
+            if (!fieldPrefix) return;
+            
+            items.forEach((item, index) => {
+                item.setAttribute('data-field', `${fieldPrefix}.${index}`);
+            });
+        }
+        // =========================================
+        // NETTOYAGE DES CHAMPS VIDES
+        // =========================================
+        function cleanEmptyFields() {
+            // Supprimer les tags vides
+            document.querySelectorAll('[data-field^="tags."]').forEach(el => {
+                if (!el.textContent.trim()) {
+                    el.parentElement.remove();
+                }
+            });
+            
+            // Supprimer les keywords vides
+            document.querySelectorAll('[data-field^="keywords."]').forEach(el => {
+                if (!el.textContent.trim()) {
+                    el.parentElement.remove();
+                }
+            });
+            
+            // Réorganiser les indices après suppression
+            reorderTagsAndKeywords();
+        }
+        
+        function reorderTagsAndKeywords() {
+            // Réorganiser les tags
+            const tags = document.querySelectorAll('[data-field^="tags."]');
+            tags.forEach((tag, index) => {
+                tag.setAttribute('data-field', `tags.${index}`);
+            });
+            
+            // Réorganiser les keywords
+            const keywords = document.querySelectorAll('[data-field^="keywords."]');
+            keywords.forEach((keyword, index) => {
+                keyword.setAttribute('data-field', `keywords.${index}`);
+            });
+        }
+        
+        // =========================================
+        // AUTO-SAUVEGARDE
+        // =========================================
+        let saveTimeout;
+        function autoSave() {
+            clearTimeout(saveTimeout);
+            saveTimeout = setTimeout(() => {
+                updateStatus('Auto-saving...', 'saving');
+                saveRecipe();
+            }, 2000);
+        }
+        
+        // =========================================
+        // GESTION DES LISTES (Drag & Drop)
+        // =========================================
+        function enableSortable() {
+            const lists = document.querySelectorAll('.editable-list');
+            lists.forEach(list => {
+                list.addEventListener('dragstart', handleDragStart);
+                list.addEventListener('dragover', handleDragOver);
+                list.addEventListener('drop', handleDrop);
+            });
+        }
+        
+        let draggedElement = null;
+        
+        function handleDragStart(e) {
+            if (e.target.tagName === 'LI') {
+                draggedElement = e.target;
+                e.target.style.opacity = '0.5';
+            }
+        }
+        
+        function handleDragOver(e) {
+            e.preventDefault();
+        }
+        
+        function handleDrop(e) {
+            e.preventDefault();
+            if (draggedElement && e.target.tagName === 'LI') {
+                const list = e.target.parentNode;
+                const afterElement = getDragAfterElement(list, e.clientY);
+                
+                if (afterElement == null) {
+                    list.appendChild(draggedElement);
+                } else {
+                    list.insertBefore(draggedElement, afterElement);
+                }
+                
+                // Réorganiser les data-fields
+                reorderDataFields(list);
+            }
+            
+            if (draggedElement) {
+                draggedElement.style.opacity = '';
+                draggedElement = null;
+            }
+        }
+        
+        function getDragAfterElement(container, y) {
+            const draggableElements = [...container.querySelectorAll('li:not(.dragging)')];
+            
+            return draggableElements.reduce((closest, child) => {
+                const box = child.getBoundingClientRect();
+                const offset = y - box.top - box.height / 2;
+                
+                if (offset < 0 && offset > closest.offset) {
+                    return { offset: offset, element: child };
+                } else {
+                    return closest;
+                }
+            }, { offset: Number.NEGATIVE_INFINITY }).element;
+        }
+        
+        // =========================================
+        // GESTION DES PLACEHOLDERS
+        // =========================================
+        function handlePlaceholders() {
+            const editables = document.querySelectorAll('.editable-field[placeholder]');
+            
+            editables.forEach(element => {
+                // Gérer le focus/blur pour les placeholders
+                element.addEventListener('focus', function() {
+                    if (this.textContent === this.getAttribute('placeholder')) {
+                        this.textContent = '';
+                        this.style.color = '';
+                    }
+                });
+                
+                element.addEventListener('blur', function() {
+                    if (this.textContent.trim() === '') {
+                        this.textContent = this.getAttribute('placeholder');
+                        this.style.color = '#9ca3af';
+                    }
+                });
+                
+                // Initialiser les placeholders vides
+                if (element.textContent.trim() === '') {
+                    element.textContent = element.getAttribute('placeholder');
+                    element.style.color = '#9ca3af';
+                }
+            });
+        }
+        
+        // =========================================
+        // EVENT LISTENERS
+        // =========================================
+        function initializeEventListeners() {
+           // Écouter les changements
+           document.addEventListener('input', function(e) {
+               if (e.target.matches('.editable-field, [data-field]')) {
+                   updateStatus('Changes detected...');
+                   // Pas d'auto-save, juste indiquer qu'il y a des changements
+               }
+           });
+        
+           // ✅ NOUVEAU : Gérer les champs vides au blur
+           document.addEventListener('blur', function(e) {
+               if (e.target.matches('.editable-field[data-field^="tags."], .editable-field[data-field^="keywords."]')) {
+                   if (!e.target.textContent.trim()) {
+                       // Supprimer le tag/keyword vide après un petit délai
+                       setTimeout(() => {
+                           if (!e.target.textContent.trim()) {
+                               e.target.parentElement.remove();
+                               reorderTagsAndKeywords();
+                               updateStatus('Empty field removed');
+                           }
+                       }, 200);
+                   }
+               }
+           }, true);
+        
+           // Raccourcis clavier
+           document.addEventListener('keydown', function(e) {
+               // Ctrl+S pour sauvegarder
+               if (e.ctrlKey && e.key === 's') {
+                   e.preventDefault();
+                   saveRecipe();
+               }
+               
+               // Ctrl+L pour charger
+               if (e.ctrlKey && e.key === 'l') {
+                   e.preventDefault();
+                   const slug = prompt('Recipe slug to load:');
+                   if (slug) {
+                       loadRecipe(slug);
+                   }
+               }
+               
+               // Escape pour sortir du mode édition
+               if (e.key === 'Escape') {
+                   e.target.blur();
+               }
+               
+               // ✅ NOUVEAU : Delete ou Backspace sur champ vide = suppression
+               if ((e.key === 'Delete' || e.key === 'Backspace') && 
+                   e.target.matches('.editable-field[data-field^="tags."], .editable-field[data-field^="keywords."]') &&
+                   !e.target.textContent.trim()) {
+                   e.preventDefault();
+                   e.target.parentElement.remove();
+                   reorderTagsAndKeywords();
+                   updateStatus('Empty field removed');
+               }
+           });
+        
+           // ✅ NOUVEAU : Gérer la navigation navigateur (bouton précédent/suivant)
+           window.addEventListener('popstate', function(e) {
+               const urlParams = new URLSearchParams(window.location.search);
+               const slug = urlParams.get('recipe');
+               
+               if (slug) {
+                   loadRecipe(slug);
+                   showRecipeEditor();
+               } else {
+                   showRecipesList();
+               }
+           });
+        }
+        // =========================================
+        // GESTION URL
+        // =========================================
+        function updateURL(slug) {
+            if (slug) {
+                const newUrl = `${window.location.pathname}?recipe=${slug}`;
+                window.history.pushState({ slug: slug }, '', newUrl);
+            } else {
+                const newUrl = window.location.pathname;
+                window.history.pushState({ slug: null }, '', newUrl);
+            }
+        }
+        
+        // =========================================
+        // INITIALISATION
+        // =========================================
+        function initializeWYSIWYG() {
+            console.log('Recipe Editor initializing...');
+            
+            // Initialiser les event listeners
+            initializeEventListeners();
+            
+            // Gérer les placeholders
+            handlePlaceholders();
+            
+            // Activer drag & drop
+            enableSortable();
+            
+            // Rendre les éléments de liste draggables
+            const listItems = document.querySelectorAll('.list-item');
+            listItems.forEach(item => {
+                item.draggable = true;
+            });
+            
+            // ✅ NOUVEAU : Vérifier l'URL pour savoir quoi charger
+            const urlParams = new URLSearchParams(window.location.search);
+            const slug = urlParams.get('recipe');
+            
+            if (slug) {
+                // ✅ CORRECTION : Charger la recette de l'URL au refresh
+                loadRecipe(slug);
+                showRecipeEditor();
+                updateStatus('Ready to edit - Use Ctrl+S to save');
+            } else {
+                showRecipesList();
+                updateStatus('Ready to edit - Select a recipe');
+            }
+            
+            console.log('Recipe Editor initialized successfully!');
+        }
+        
+        // Auto-initialisation quand le DOM est prêt
+        if (document.readyState === 'loading') {
+            document.addEventListener('DOMContentLoaded', initializeWYSIWYG);
+        } else {
+            initializeWYSIWYG();
+        }
+    </script>
+</body>
+</html>

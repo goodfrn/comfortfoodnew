@@ -1,0 +1,133 @@
+baseURL = "https://recettes-blog-test.pages.dev/"
+languageCode = "fr"
+title = "Testt"
+
+############################################################################### 
+#  Pagination, taxonomies, permaliens 
+###############################################################################
+[pagination]
+  pagerSize = 12
+
+[taxonomies]
+  category = "categories"
+  tag      = "tags"
+
+[permalinks]
+  recipes = "/recipes/:slug/"
+  legal = "/:slug/"
+
+###############################################################################
+#  Build – Pipeline Tailwind CLI natif (pas PostCSS)
+###############################################################################
+[build]
+  writeStats = true
+
+  [build.buildStats]
+    enable = true
+
+  [[build.cachebusters]]
+    source = "assets/notwatching/hugo_stats\\.json"
+    target = "css"
+
+  [[build.cachebusters]]
+    source = "(postcss|tailwind)\\.config\\.js"
+    target = "css"
+
+[module]
+  [[module.mounts]]
+    source = "assets"
+    target = "assets"
+
+  [[module.mounts]]
+    disableWatch = true
+    source = "hugo_stats.json"
+    target = "assets/notwatching/hugo_stats.json"
+
+[outputs]
+  home = ["HTML", "JSON", "ROBOTS"]
+
+[outputFormats]
+  [outputFormats.ROBOTS]
+    mediaType = "text/plain"
+    baseName = "robots"
+    isPlainText = true
+    notAlternative = true
+
+[minify]
+  # autres options…
+  [minify.tdewolff.html]
+    keepQuotes = true   # ← conserve toujours les guillemets
+
+###############################################################################
+#  Pages liées (recommandations)
+###############################################################################
+[related]
+  includeNewer = true
+  threshold    = 80
+
+[[related.indices]]
+  name   = "tags"
+  weight = 100
+
+[[related.indices]]
+  name   = "categories"
+  weight = 80
+
+###############################################################################
+#  Paramètres personnalisables
+###############################################################################
+[params]
+  description   = "Recettes maison faciles et gourmandes"
+  defaultImage  = "/img/cover-default.jpg"
+  twitterHandle = "@TonCompteX"
+
+[params.analytics]
+  ga4 = ""
+
+[params.ui]
+  primary     = "#0f52ba"
+  radius_card = "0.75rem"
+  summary_bg  = "hsl(210 20% 98%)"
+
+  showSave    = true
+  showPin     = true
+  showPrint   = true
+
+[params.ui.labels]
+  tips = "Tips & Variations"
+  faq  = "FAQ"
+
+###############################################################################
+#  Menus principaux
+###############################################################################
+[[menu.main]]
+  identifier = "home"     
+  name       = "Accueil"
+  url        = "/"
+  weight     = 1
+
+[[menu.main]]
+  identifier = "recipes"  
+  name       = "Recettes"
+  url        = "/recipes/"
+  weight     = 2
+
+[[menu.main]]
+  identifier = "categories"
+  name       = "Catégories"
+  url        = "/categories/"
+  weight     = 3
+
+[[menu.main]]
+  identifier = "about"     
+  name       = "À propos"
+  url        = "/about/"
+  weight     = 4
+
+[[menu.main]]
+  identifier = "contact" 
+  name       = "Contact"
+  url        = "/contact/"
+  weight     = 5
+
+

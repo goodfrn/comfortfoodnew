@@ -1,0 +1,60 @@
+{{/* layouts/random/list.html - VERSION CENTRALISÉE */}}
+
+{{ $config := .Site.Data.config }}
+{{ $random_page := $config.random_page }}
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Surprise… | {{ .Site.Title }}</title>
+
+  {{/* On récupère et mélange toutes les recettes */}}
+  {{ $all := where .Site.RegularPages "Section" "recipes" }}
+  {{ $pick := index (shuffle $all) 0 }}
+
+  <!-- Fallback meta-refresh si JS désactivé -->
+  <noscript>
+    <meta http-equiv="refresh" content="{{ $random_page.redirect_delay }};url={{ $pick.Permalink }}">
+  </noscript>
+
+  <!-- Styles inline minimaux pour l'écran de redirection -->
+  <style>
+    body { display:flex;align-items:center;justify-content:center;height:100vh;margin:0;
+           font:1rem sans-serif;background:#111;color:#fff; }
+    .msg { text-align:center; }
+    a { color:#4fc3f7; text-decoration:underline; }
+    .countdown { font-size: 1.5rem; font-weight: bold; margin-top: 0.5rem; }
+  </style>
+  <!-- Redirection via JS après X secondes, remplace l'historique -->
+  <script>
+    setTimeout(function() {
+      window.location.replace("{{ $pick.Permalink }}");
+    }, {{ mul $random_page.redirect_delay 1000 }});
+  </script>
+</head>
+<body>
+  <div class="msg">
+    <p>{{ $random_page.loading_message }}</p>
+    <p>{{ $random_page.redirect_message }} <span class="countdown">{{ $random_page.redirect_delay }}</span> {{ $random_page.redirect_unit }}</p>
+    <p>{{ $random_page.fallback_message }} <a href="{{ $pick.Permalink }}">clique ici</a>.</p>
+  </div>
+
+  <!-- Compte-à-rebours JavaScript -->
+  <script>
+    (function() {
+      var seconds = {{ $random_page.redirect_delay }};
+      var el = document.querySelector('.countdown');
+      var interval = setInterval(function() {
+        seconds--;
+        if (seconds <= 0) {
+          clearInterval(interval);
+        } else {
+          el.textContent = seconds;
+        }
+      }, 1000);
+    })();
+  </script>
+</body>
+</html>

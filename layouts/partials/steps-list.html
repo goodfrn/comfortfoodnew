@@ -1,0 +1,6 @@
+<!-- ===== layouts/partials/steps-list.html ===== -->
+<ol id="steps-list" class="list-decimal list-inside space-y-2">
+  {{ range .Params.instructions }}
+    <li>{{ . }}</li>
+  {{ end }}
+</ol>

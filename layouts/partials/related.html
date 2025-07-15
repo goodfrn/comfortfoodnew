@@ -1,0 +1,90 @@
+{{/*  layouts/partials/related.html  */}}
+
+{{ $config := .Site.Data.config }}
+{{ $recipe_page := $config.recipe_page }}
+
+{{/* Récupère jusqu'à 4 pages liées, hors page courante */}}
+{{ $related := first 4 ( .Site.RegularPages.Related . ) }}
+{{ if gt (len $related) 0 }} 
+  <section class="border-t border-gray-100 pt-8 mt-12">
+    <div class="flex items-center justify-between mb-6">
+      <h2 class="text-lg font-medium" style="color: var(--color-text); font-family: var(--font-serif);">
+        {{ $recipe_page.sections.related }}
+      </h2>
+      <a href="/recipes/" class="text-sm font-medium hover:underline" style="color: var(--primary);">
+        Voir toutes les recettes →
+      </a>
+    </div>
+
+    <div class="space-y-4">
+      {{ range $related }}
+        <a href="{{ .RelPermalink }}" class="group flex items-center gap-4 p-3 -mx-3 rounded-lg hover:bg-gray-50 transition-colors duration-200 block">
+          <!-- Image compacte style NYT -->
+          <div class="flex-shrink-0">
+            {{ with .Params.image }}
+              {{ $img := resources.Get (printf "images/%s" .) }}
+              {{ if $img }}
+                {{/* Petites vignettes optimisées */}}
+                {{ $webp := $img.Fill "80x80 q80 webp" }}
+                {{ $fallback := $img.Fill "80x80 q85" }}
+                
+                <picture>
+                  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+                  <img src="{{ $fallback.RelPermalink }}" 
+                       alt="{{ $.Title }}" 
+                       class="w-20 h-20 object-cover rounded-lg group-hover:scale-105 transition-transform duration-200"
+                       loading="lazy"
+                       width="80" 
+                       height="80">
+                </picture>
+              {{ else }}
+                <div class="w-20 h-20 bg-gray-200 rounded-lg flex items-center justify-center">
+                  <svg class="w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 002 2z"/>
+                  </svg>
+                </div>
+              {{ end }}
+            {{ end }}
+          </div>
+
+          <!-- Contenu style magazine -->
+          <div class="flex-1 min-w-0">
+            <h3 class="font-medium text-sm leading-snug mb-1 line-clamp-2 group-hover:text-gray-900 transition-colors" style="color: var(--color-text); font-family: var(--font-serif);">
+              {{ .Title }}
+            </h3>
+            
+            <!-- Meta info discrète -->
+            <div class="flex items-center gap-3 text-xs" style="color: var(--color-text-muted);">
+              {{ with .Params.totalTime }}
+                <span class="flex items-center gap-1">
+                  <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <circle cx="12" cy="12" r="10"/>
+                    <polyline points="12,6 12,12 16,14"/>
+                  </svg>
+                  {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
+                </span>
+              {{ end }}
+              
+              {{ with .Params.nutrition.calories }}
+                <span>{{ . }} calories</span>
+              {{ end }}
+              
+              {{ with index .Params.categories 0 }}
+                <span class="px-2 py-0.5 rounded-full text-xs" style="background-color: var(--color-bg-alt); color: var(--color-text-muted);">
+                  {{ . }}
+                </span>
+              {{ end }}
+            </div>
+          </div>
+
+          <!-- Chevron discret -->
+          <div class="flex-shrink-0 opacity-0 group-hover:opacity-100 transition-opacity">
+            <svg class="w-4 h-4" style="color: var(--color-text-muted);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+            </svg>
+          </div>
+        </a>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

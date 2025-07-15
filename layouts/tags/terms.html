@@ -1,0 +1,18 @@
+{{/* layouts/tags/terms.html - VERSION SAFE AVEC DEBUG */}}
+
+{{ define "title" }}Tous les tags{{ end }}
+
+{{ define "main" }}
+<main class="max-w-4xl mx-auto px-4 py-16">
+  <h1 class="text-3xl font-bold mb-8">Tous les tags</h1>
+  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
+    {{ range .Data.Terms.Alphabetical }}
+      <a href="{{ .Page.RelPermalink }}"
+         class="block p-4 bg-white rounded-lg shadow hover:shadow-lg transition">
+        <span class="text-lg font-medium">{{ .Term }}</span>
+        <span class="text-sm text-gray-500">({{ len .Pages }})</span>
+      </a>
+    {{ end }}
+  </div>
+</main>
+{{ end }}

@@ -1,0 +1,48 @@
+{{/* layouts/partials/optimized-img.html */}}
+{{- $src      := .src -}}
+{{- $alt      := .alt | default "" -}}
+{{- $cls      := .class | default "" -}}
+{{- $width    := .width | default 0 -}}
+{{- $height   := .height | default 0 -}}
+{{- $sizes    := .sizes | default "100vw" -}}
+
+{{- /* 1. Récupération de la ressource */ -}}
+{{- $orig := resources.Get (printf "images/%s" $src) -}}
+
+{{- if $orig -}}
+  {{- /* 2. Redimensionnement si width/height spécifiés */ -}}
+  {{- if and (gt $width 0) (gt $height 0) -}}
+    {{- $orig = $orig | images.Resize (printf "%dx%d" $width $height) -}}
+  {{- else if gt $width 0 -}}
+    {{- $orig = $orig | images.Resize (printf "%dx" $width) -}}
+  {{- else if gt $height 0 -}}
+    {{- $orig = $orig | images.Resize (printf "x%d" $height) -}}
+  {{- end -}}
+
+  {{- /* 3. Génération des formats optimisés */ -}}
+  {{- $avif := $orig | images.Convert "avif" | fingerprint -}}
+  {{- $webp := $orig | images.Convert "webp" | fingerprint -}}
+  {{- $fallback := $orig | fingerprint -}}
+
+  <picture>
+    {{- /* AVIF en premier (meilleure compression) */ -}}
+    <source srcset="{{ $avif.Permalink }}" type="image/avif">
+    {{- /* WebP en second */ -}}
+    <source srcset="{{ $webp.Permalink }}" type="image/webp">
+    {{- /* Fallback original */ -}}
+    <img
+      src="{{ $fallback.Permalink }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      class="bg-gray-200 animate-pulse {{ $cls }}"
+      {{- if gt $width 0 }} width="{{ $width }}"{{ end }}
+      {{- if gt $height 0 }} height="{{ $height }}"{{ end }}
+      sizes="{{ $sizes }}"
+    >
+  </picture>
+{{- else -}}
+  {{- /* Image non trouvée */ -}}
+  <div class="bg-red-100 border border-red-400 text-red-700 px-4 py-3 rounded">
+    Image non trouvée : {{ $src }}
+  </div>
+{{- end -}}

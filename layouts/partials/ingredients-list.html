@@ -1,0 +1,7 @@
+
+<!-- ===== layouts/partials/ingredients-list.html ===== -->
+<ul id="ingredients-list" class="list-disc list-inside space-y-1">
+  {{ range .Params.ingredients }}
+    <li>{{ . }}</li>
+  {{ end }}
+</ul>

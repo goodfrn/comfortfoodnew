@@ -1,0 +1,23 @@
+{{ define "main" }}
+
+{{ $config := .Site.Data.config }}
+{{ $tags_page := $config.tags_page }}
+
+  <section class="container mx-auto px-4 py-24 bg-white">
+    <h1 class="text-2xl font-bold mb-6">{{ $tags_page.title_prefix }} « {{ .Title }} »</h1>
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{ range .Pages }}
+        <div class="bg-white shadow-md rounded-xl overflow-hidden p-4 transform transition hover:-translate-y-1">
+          <h2 class="text-lg font-semibold mb-2">
+            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          </h2>
+          {{ with .Params.description }}
+            <p class="text-sm text-gray-600">{{ . }}</p>
+          {{ end }}
+        </div>
+      {{ else }}
+        <p class="text-center text-gray-600">{{ $tags_page.no_recipes }}</p>
+      {{ end }}
+    </div>
+  </section>
+{{ end }}

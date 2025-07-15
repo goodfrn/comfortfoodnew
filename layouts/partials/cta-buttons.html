@@ -1,0 +1,97 @@
+<!-- layouts/partials/cta-buttons.html - VERSION ÉLÉGANTE -->
+
+{{ $config := .Site.Data.config }}
+{{ $cta_buttons := $config.components.cta_buttons }}
+{{ $share_menu := $config.components.share_menu }}
+
+<div class="flex items-center gap-4">
+  
+  <!-- Bouton Pinterest - Rouge élégant -->
+  <button type="button" class="group flex items-center gap-2 px-4 py-2.5 bg-red-500 hover:bg-red-600 text-white rounded-lg font-medium transition-all duration-200 shadow-sm hover:shadow-md" id="pinterestPinButton" aria-label="{{ $cta_buttons.pin_aria_label }}">
+    <svg class="w-4 h-4 transition-transform group-hover:scale-110" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+      <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.024-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.89 2.745.097.119.112.22.082.34-.09.394-.293 1.199-.334 1.363-.053.225-.172.271-.402.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.357-.629-2.748-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24.009 12.017 24.009c6.624 0 11.99-5.367 11.99-11.988C24.007 5.367 18.641.001.001 12.017.001z"/>
+    </svg>
+    <span class="text-sm font-medium">Pin</span>
+  </button>
+  
+  <!-- Bouton Partager avec menu déroulant -->
+  <div class="relative">
+    <button type="button" class="group flex items-center gap-2 px-4 py-2.5 bg-slate-100 hover:bg-slate-200 text-slate-700 hover:text-slate-900 rounded-lg font-medium transition-all duration-200 shadow-sm hover:shadow-md" id="shareButton" aria-label="{{ $cta_buttons.share_aria_label }}">
+      <svg class="w-4 h-4 transition-transform group-hover:scale-110" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+        <circle cx="18" cy="5" r="3"/>
+        <circle cx="6" cy="12" r="3"/>
+        <circle cx="18" cy="19" r="3"/>
+        <line x1="8.59" y1="13.51" x2="15.42" y2="17.49"/>
+        <line x1="15.41" y1="6.51" x2="8.59" y2="10.49"/>
+      </svg>
+      <span class="text-sm font-medium">Partager</span>
+    </button>
+    
+    <!-- Menu de partage élégant -->
+    <div class="absolute top-full left-0 mt-2 w-48 bg-white rounded-xl shadow-lg border border-gray-200 py-2 z-50 opacity-0 invisible transition-all duration-200" id="shareMenu" role="menu">
+      
+      <!-- Email -->
+      <button type="button" class="flex items-center gap-3 w-full px-4 py-2.5 text-gray-700 hover:bg-gray-50 hover:text-gray-900 transition-colors" id="emailButton" role="menuitem">
+        <svg class="w-4 h-4 text-blue-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/>
+          <polyline points="22,6 12,13 2,6"/>
+        </svg>
+        <span class="text-sm font-medium">Email</span>
+      </button>
+      
+      <!-- WhatsApp -->
+      <button type="button" class="flex items-center gap-3 w-full px-4 py-2.5 text-gray-700 hover:bg-gray-50 hover:text-gray-900 transition-colors" id="whatsappButton" role="menuitem">
+        <svg class="w-4 h-4 text-green-500" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893A11.821 11.821 0 0020.465 3.488"/>
+        </svg>
+        <span class="text-sm font-medium">WhatsApp</span>
+      </button>
+      
+      <!-- Pinterest -->
+      <button type="button" class="flex items-center gap-3 w-full px-4 py-2.5 text-gray-700 hover:bg-gray-50 hover:text-gray-900 transition-colors" id="pinterestButton" role="menuitem">
+        <svg class="w-4 h-4 text-red-500" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.024-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.89 2.745.097.119.112.22.082.34-.09.394-.293 1.199-.334 1.363-.053.225-.172.271-.402.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.357-.629-2.748-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24.009 12.017 24.009c6.624 0 11.99-5.367 11.99-11.988C24.007 5.367 18.641.001.001 12.017.001z"/>
+        </svg>
+        <span class="text-sm font-medium">Pinterest</span>
+      </button>
+      
+      <!-- Instagram -->
+      <button type="button" class="flex items-center gap-3 w-full px-4 py-2.5 text-gray-700 hover:bg-gray-50 hover:text-gray-900 transition-colors" id="instagramButton" role="menuitem">
+        <svg class="w-4 h-4 text-pink-500" viewBox="0 0 24 24" fill="currentColor">
+          <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.024-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.89 2.745.097.119.112.22.082.34-.09.394-.293 1.199-.334 1.363-.053.225-.172.271-.402.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.357-.629-2.748-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24.009 12.017 24.009c6.624 0 11.99-5.367 11.99-11.988C24.007 5.367 18.641.001.001 12.017.001z"/>
+        </svg>
+        <span class="text-sm font-medium">Instagram</span>
+      </button>
+      
+      <!-- Copier le lien -->
+      <button type="button" class="flex items-center gap-3 w-full px-4 py-2.5 text-gray-700 hover:bg-gray-50 hover:text-gray-900 transition-colors" id="copyLinkButton" role="menuitem">
+        <svg class="w-4 h-4 text-gray-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.72"/>
+          <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.72-1.72"/>
+        </svg>
+        <span class="text-sm font-medium">Copier le lien</span>
+      </button>
+      
+    </div>
+  </div>
+
+  <!-- Bouton Imprimer -->
+  <button type="button" class="group flex items-center gap-2 px-4 py-2.5 bg-stone-100 hover:bg-stone-200 text-stone-700 hover:text-stone-900 rounded-lg font-medium transition-all duration-200 shadow-sm hover:shadow-md" id="printButton" aria-label="{{ $cta_buttons.print_aria_label }}">
+    <svg class="w-4 h-4 transition-transform group-hover:scale-110" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <polyline points="6,9 6,2 18,2 18,9"/>
+      <path d="M6,18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2H20a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2H18"/>
+      <rect x="6" y="14" width="12" height="8"/>
+    </svg>
+    <span class="text-sm font-medium">Imprimer</span>
+  </button>
+</div>
+{{/* ------------------------------------------------------------------
+     ► Script JS CTA (minify + fingerprint)
+     ► Injecté une seule fois grâce à Scratch
+   ------------------------------------------------------------------ */}}
+{{- if not (.Scratch.Get "CtaButtonsJS") }}
+  {{- $ctaJS := resources.Get "js/modules/cta-buttons.js" | resources.Minify | resources.Fingerprint }}
+  <script type="module" src="{{ $ctaJS.RelPermalink }}"></script>
+  {{- .Scratch.Set "CtaButtonsJS" true }}
+{{- end }}
+

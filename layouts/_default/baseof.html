@@ -1,0 +1,74 @@
+<!DOCTYPE HTML>
+<html lang="{{ .Site.Data.config.site.language | default .Site.Language.Lang }}">
+<head>
+  <meta charset="UTF-8"> 
+  <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
+  <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="canonical" href="{{ .Permalink }}">
+  {{ partial "head-meta.html" . }}
+  
+  {{/* ---------- CSS via Hugo Pipes (BLOQUANT – Fix CLS) ---------- */}}
+  {{ $css := resources.Get "css/style.compiled.css" | resources.ExecuteAsTemplate "main.processed.css" . }}
+  {{ if hugo.IsProduction }}
+    {{ $css = $css | resources.Fingerprint "sha512" }}
+    <link rel="stylesheet"
+          href="{{ $css.RelPermalink }}"
+          integrity="{{ $css.Data.Integrity }}"
+          crossorigin="anonymous">
+  {{ else }}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+  {{ end }}
+  
+  {{/* Préconnexion pour Plausible */}}
+  {{ with .Site.Params.analytics.plausibleDomain }}
+    <link rel="preconnect" href="https://plausible.io">
+    <link rel="dns-prefetch" href="https://plausible.io">
+  {{ end }}
+  {{/* Plausible Analytics */}}
+  {{ with .Site.Params.analytics.plausibleDomain }}
+    <script defer data-domain="{{ . }}" src="https://plausible.io/js/script.js"></script>
+  {{ end }}
+</head>
+<body class="flex flex-col min-h-screen leading-relaxed antialiased">
+  {{ $config := .Site.Data.config }}
+  <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 bg-primary text-white px-4 py-2 rounded">
+    {{ $config.components.accessibility.skip_to_content | default "Aller au contenu principal" }}
+  </a>
+  
+  {{ partial "header.html" . }}
+  
+  <main id="main" class="flex-grow w-full max-w-7xl mx-auto px-4 py-8">
+    {{ block "main" . }}{{ end }}
+  </main>
+  
+  {{ partial "footer.html" . }}
+  
+  {{/* ---------- JS via Hugo Pipes ---------- */}}
+  {{ $fuseJS := resources.Get "vendors/fuse/fuse.min.js" }}
+  {{ $mainJS := resources.Get "js/main.compiled.js" }}
+  
+  {{ if hugo.IsProduction }}
+    {{ if $fuseJS }}
+      {{ $fuseJS = $fuseJS | resources.Fingerprint "sha512" }}
+      <script src="{{ $fuseJS.RelPermalink }}"
+              integrity="{{ $fuseJS.Data.Integrity }}"
+              crossorigin="anonymous" defer></script>
+    {{ end }}
+    
+    {{ if $mainJS }}
+      {{ $mainJS = $mainJS | resources.Minify | resources.Fingerprint "sha512" }}
+      <script src="{{ $mainJS.RelPermalink }}"
+              integrity="{{ $mainJS.Data.Integrity }}"
+              crossorigin="anonymous" defer></script>
+    {{ end }}
+  {{ else }}
+    {{ if $fuseJS }}
+      <script src="{{ $fuseJS.RelPermalink }}" defer></script>
+    {{ end }}
+    {{ if $mainJS }}
+      <script src="{{ $mainJS.RelPermalink }}" defer></script>
+    {{ end }}
+  {{ end }}
+</body>
+</html>

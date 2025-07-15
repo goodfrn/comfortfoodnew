@@ -1,0 +1,38 @@
+{{ define "main" }}
+{{ $config := .Site.Data.config }}
+{{ $categories_page := $config.categories_page }}
+{{ $categoriesSystem := $config.categories_system }}
+
+<section class="container mx-auto px-4 py-24 min-h-screen" style="background-color: var(--color-bg);">
+  <h2 class="font-semibold section-title mb-12 text-center" style="color: var(--primary); font-family: var(--font-serif);">
+    {{ $categories_page.title }}
+  </h2>
+
+  <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 mb-16">
+    {{ range $term := .Data.Terms.Alphabetical }}
+      {{ if gt $term.Count 0 }}
+        
+        {{/* 🎯 NOUVEAU : Récupérer le nom personnalisé */}}
+        {{ $slug := $term.Page.Title | lower | urlize }}
+        {{ $displayName := $term.Page.Title }}
+        
+        {{/* Chercher dans la config s'il y a un nom personnalisé */}}
+        {{ range $categoriesSystem.categories_config.categories_list }}
+          {{ if eq .slug $slug }}
+            {{ $displayName = .name }}
+          {{ end }}
+        {{ end }}
+        
+        <div class="group bg-white shadow-md rounded-xl overflow-hidden transform transition-transform duration-200 hover:-translate-y-1 hover:shadow-xl hover:z-10">
+          <a href="{{ $term.Page.RelPermalink }}" class="block p-6 text-center h-full w-full">
+            <span class="text-lg font-semibold block" style="color: var(--primary); font-family: var(--font-serif);">
+              {{ $displayName }}  {{/* 🎯 UTILISE LE NOM PERSONNALISÉ */}}
+            </span>
+            <p class="text-sm mt-1" style="color: var(--color-text-muted);">({{ $term.Count }})</p>
+          </a>
+        </div>
+      {{ end }}
+    {{ end }}
+  </div>
+</section>
+{{ end }}

@@ -1,0 +1,179 @@
+{{ define "main" }}
+{{ $config := .Site.Data.config }}
+{{ $list_pages := $config.list_pages }}
+{{ $breadcrumb := $config.list_pages.breadcrumb }}
+{{ $categoriesSystem := $config.categories_system }}
+
+<section class="container mx-auto px-4 relative" style="background-color: var(--color-bg); min-height: 100vh; padding-top: 96px;">
+  
+  <!-- 📍 Fil d'Ariane PLUS HAUT (position absolue) -->
+  <div class="absolute top-4 left-0 right-0">
+    <div class="container mx-auto px-4">
+      <nav class="text-sm text-gray-500" aria-label="Fil d'Ariane">
+        <ol class="flex flex-wrap items-center gap-1 text-[0.95rem] sm:text-base font-medium">
+          <li>
+            <a href="/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.home }}</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          <li>
+            <a href="/categories/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.categories }}</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          <li class="font-normal" style="color: var(--color-text);">
+            {{/* 🎯 Nom personnalisé dans le breadcrumb */}}
+            {{ $slug := .Title | lower | urlize }}
+            {{ $displayName := .Title }}
+            {{ range $categoriesSystem.categories_config.categories_list }}
+              {{ if eq .slug $slug }}
+                {{ $displayName = .name }}
+              {{ end }}
+            {{ end }}
+            {{ $displayName }}
+          </li>
+        </ol>
+      </nav>
+    </div>
+  </div>
+
+  <!-- 🏷️ Titre EXACTEMENT à 96px du haut -->
+  <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-center mb-8" style="color: var(--primary); font-family: var(--font-serif);">
+    {{/* 🎯 Nom personnalisé dans le titre */}}
+    {{ $slug := .Title | lower | urlize }}
+    {{ $displayName := .Title }}
+    {{ range $categoriesSystem.categories_config.categories_list }}
+      {{ if eq .slug $slug }}
+        {{ $displayName = .name }}
+      {{ end }}
+    {{ end }}
+    {{ $list_pages.categories_title_prefix }} {{ $displayName }}
+  </h1>
+
+  <!-- 🧱 Grille de recettes PREMIUM -->
+  {{ $pages := .Pages }}
+  {{ $p := .Paginate $pages }}
+  
+  {{ if gt (len $p.Pages) 0 }}
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{ range $p.Pages }}
+        
+        <!-- 🏆 CARTE PREMIUM STYLÉE -->
+        <a href="{{ .RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
+          
+          <!-- Image optimisée -->
+          <div class="relative overflow-hidden aspect-[4/3]">
+            {{ with .Params.image }}
+              {{ $img := resources.Get (printf "images/%s" .) }}
+              {{ if $img }}
+                {{ $webp := $img.Fill "600x400 q80 webp" }}
+                {{ $fallback := $img.Fill "600x400 q85" }}
+                
+                <picture>
+                  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+                  <img src="{{ $fallback.RelPermalink }}" 
+                       alt="{{ $.Title }}" 
+                       class="w-full h-full object-cover"
+                       loading="lazy"
+                       width="600" 
+                       height="400">
+                </picture>
+              {{ else }}
+                <img src="/{{ . }}" 
+                     alt="{{ $.Title }}" 
+                     class="w-full h-full object-cover"
+                     loading="lazy">
+              {{ end }}
+            {{ end }}
+            
+            <!-- Badge catégorie -->
+            {{ with index .Params.categories 0 }}
+              <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
+                <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">
+                  {{ . }}
+                </span>
+              </div>
+            {{ end }}
+          </div>
+          
+          <!-- Contenu premium -->
+          <div class="p-6 space-y-4">
+            
+            <!-- Titre élégant -->
+            <h3 class="font-serif text-xl leading-tight font-medium" 
+                style="color: var(--color-text); font-family: 'Times New Roman', serif;">
+              {{ .Title }}
+            </h3>
+            
+            <!-- Métriques sophistiquées -->
+            <div class="flex items-center justify-between pt-2 border-t border-gray-100">
+              
+              <!-- Temps -->
+              {{ with .Params.totalTime }}
+                <div class="flex items-center space-x-1.5">
+                  <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
+                    <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                  </div>
+                  <span class="text-sm font-medium text-gray-700">
+                    {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
+                  </span>
+                </div>
+              {{ end }}
+              
+              <!-- Portions -->
+              {{ with .Params.recipeYield }}
+                <div class="flex items-center space-x-1.5">
+                  <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
+                    <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                  </div>
+                  <span class="text-sm font-medium text-gray-700">
+                    {{ . }}
+                  </span>
+                </div>
+              {{ end }}
+              
+              <!-- Calories -->
+              {{ with .Params.nutrition.calories }}
+                <div class="flex items-center space-x-1.5">
+                  <div class="w-4 h-4 rounded-full bg-orange-100 flex items-center justify-center">
+                    <div class="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
+                  </div>
+                  <span class="text-sm font-medium text-gray-700">
+                    {{ . }} cal
+                  </span>
+                </div>
+              {{ end }}
+            </div>
+            
+            <!-- Tags premium -->
+            {{ if .Params.tags }}
+              <div class="flex flex-wrap gap-2 pt-3">
+                {{ range first 3 .Params.tags }}
+                  <span class="px-2.5 py-1 bg-gray-50 rounded-full">
+                    <span class="text-xs font-medium text-gray-600">{{ . }}</span>
+                  </span>
+                {{ end }}
+              </div>
+            {{ end }}
+            
+            <!-- Footer editorial -->
+            <div class="flex justify-end pt-4 border-t border-gray-50">
+              <time class="text-xs text-gray-400 font-medium" datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "Jan 2, 2006" }}
+              </time>
+            </div>
+          </div>
+          
+        </a>
+
+      {{ end }}
+    </div>
+    
+    <!-- Pagination -->
+    {{ partial "pagination.html" $p }}
+  {{ else }}
+    <p class="text-center mt-12" style="color: var(--color-text-secondary);">
+      {{ $list_pages.no_recipes }}
+    </p>
+  {{ end }}
+
+</section>
+{{ end }}

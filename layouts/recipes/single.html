@@ -1,0 +1,394 @@
+{{ define "main" }}
+{{ $config := .Site.Data.config }}
+{{ $breadcrumb := $config.list_pages.breadcrumb }}
+{{ $recipe_page := $config.recipe_page }}
+ 
+{{ if eq .Section "recipes" }}
+{{ partial "recipe-jsonld.html" . }}
+{{ end }}
+
+<section class="container mx-auto px-4 relative" style="background-color: var(--color-bg); min-height: 100vh; padding-top: 96px;">
+  
+  <!-- 📍 Fil d'Ariane PLUS HAUT (position absolue) -->
+  <div class="absolute top-4 left-0 right-0">
+    <div class="container mx-auto px-4">
+      <nav class="text-sm text-gray-500" aria-label="Fil d'Ariane">
+        <ol class="flex flex-wrap items-center gap-1 text-[0.95rem] sm:text-base font-medium">
+          <li>
+            <a href="/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.home }}</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          <li>
+            <a href="/categories/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.categories }}</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          {{ with index .Params.categories 0 }}
+            {{ $cat := . }}
+            {{ $catSlug := $cat | lower | urlize }}
+            {{ $displayName := $cat }}
+            
+            {{/* 🎯 Chercher le nom personnalisé */}}
+            {{ $categoriesSystem := $config.categories_system }}
+            {{ range $categoriesSystem.categories_config.categories_list }}
+              {{ if eq .slug $catSlug }}
+                {{ $displayName = .name }}
+              {{ end }}
+            {{ end }}
+            
+            {{ $catTerm := site.Taxonomies.categories.Get $cat }}
+            {{ if $catTerm }}
+              <li>
+                <a href="{{ $catTerm.Page.RelPermalink }}" class="hover:underline font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
+              </li>
+            {{ else }}
+              <!-- Fallback: utiliser la méthode directe -->
+              <li>
+                <a href="{{ printf "/categories/%s/" $catSlug }}" class="hover:underline font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ol>
+      </nav>
+    </div>
+  </div>
+
+  <!-- 🍳 Titre recette distinctif EXACTEMENT à 96px du haut -->
+  <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-left mb-8" style="color: var(--color-text); font-family: var(--font-serif);">
+    {{ .Title }}
+  </h1>
+
+  <!-- 📱 Contenu recette avec layout grid -->
+  <div class="max-w-6xl mx-auto">
+    
+    <!-- En-tête recette : image + infos organisées -->
+    <div class="grid grid-cols-1 lg:grid-cols-[1fr_1fr] gap-8 sm:gap-12 items-start mb-12">
+      
+      <!-- Image -->
+      {{ with .Params.image }}
+        <div class="w-full max-w-md mx-auto lg:mx-0 lg:max-w-none">
+          {{/* VERSION SIMPLIFIÉE : WebP + Fallback JPG seulement */}}
+          {{ $img := resources.Get (printf "images/%s" .) }}
+          {{ if $img }}
+            {{/* Générer WebP + Fallback JPG */}}
+            {{ $webp := $img.Fill "800x600 q80 webp" }}
+            {{ $fallback := $img.Fill "800x600 q85" }}
+            
+            <picture>
+              <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+              <img src="{{ $fallback.RelPermalink }}" 
+                   alt="{{ $.Title }}" 
+                   class="rounded-2xl shadow-lg w-full h-auto object-cover"
+                   loading="eager"
+                   width="800" 
+                   height="600">
+            </picture>
+          {{ else }}
+            {{/* Fallback si image non trouvée */}}
+            <div class="w-full h-80 bg-gray-200 rounded-2xl flex items-center justify-center">
+              <span class="text-gray-400">Image de recette non trouvée</span>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+      
+      <!-- Infos recette organisées -->
+      <div class="flex flex-col gap-6">
+        
+        <!-- Auteur et date -->
+        {{ if or .Params.author .Date }}
+          <div class="space-y-2">
+            {{ with .Params.author }}
+              <p class="text-lg font-semibold" style="color: var(--color-text);">
+                {{ $recipe_page.author_prefix }} {{ . }}
+              </p>
+            {{ end }}
+            {{ if .Date }}
+              <p class="text-base italic" style="color: var(--color-text-secondary);">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">
+                  {{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}
+                </time>
+              </p>
+            {{ end }}
+          </div>
+        {{ end }}
+
+        <!-- Description -->
+        {{ $intro := .Params.description | default .Summary }}
+        {{ with $intro }}
+          <div class="text-lg italic leading-relaxed" style="color: var(--color-text-secondary);">
+            {{ . | markdownify }}
+          </div>
+        {{ end }}
+
+        <!-- Infos recette simples (ancien style) -->
+        <div class="grid grid-cols-2 gap-4 text-sm">
+          {{ with .Params.prepTime }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">Préparation:</span>
+              <span class="text-slate-600">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.cookTime }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">Cuisson:</span>
+              <span class="text-slate-600">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.totalTime }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">Total:</span>
+              <span class="text-slate-600">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.recipeYield }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">Portions:</span>
+              <span class="text-slate-600">{{ . }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.cuisine }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">Cuisine:</span>
+              <span class="text-slate-600">{{ . }}</span>
+            </div>
+          {{ end }}
+        </div>
+
+        <!-- Tags -->
+        {{ with .Params.tags }}
+          <div class="flex flex-wrap gap-2">
+            {{ range . }}
+              <span class="px-3 py-1 bg-slate-100 text-slate-700 rounded-full text-sm font-medium border border-slate-200">
+                #{{ . }}
+              </span>
+            {{ end }}
+          </div>
+        {{ end }}
+
+        <!-- Boutons CTA -->
+        {{ partial "cta-buttons.html" . }}
+      </div>
+    </div>
+
+    <!-- INTRODUCTION COMPLÈTE -->
+    {{ with .Params.introduction }}
+      <div class="max-w-6xl mx-auto mb-12">
+        <div class="text-xl leading-relaxed text-slate-800 font-light" style="font-family: 'Georgia', serif; line-height: 1.6;">
+          {{ . | markdownify }}
+        </div>
+      </div>
+    {{ end }}
+
+    <!-- Corps recette : ingrédients + instructions -->
+    <div class="grid lg:grid-cols-[2fr_1fr] gap-6 sm:gap-8 lg:gap-12 items-start">
+      
+      <!-- Colonne principale -->
+      <div class="w-full space-y-8">
+        
+        <!-- SECTION INGRÉDIENTS -->
+        <div class="card card--large" id="ingredients">
+          <h2 class="section__title">{{ $recipe_page.sections.ingredients }}</h2>
+          <div class="recipe-list recipe-list--ingredients">
+            {{ range .Params.ingredients }}
+              {{ if strings.Contains . "===" }}
+                {{ $content := . | replaceRE "===(.+)===" "$1" }}
+                <h3 class="font-bold text-lg mt-4 mb-2 text-gray-800">{{ $content }}</h3>
+                <ul class="list-disc list-inside space-y-1">
+              {{ else }}
+                <li class="recipe-list__item">{{ . }}</li>
+              {{ end }}
+            {{ end }}
+            </ul>
+          </div>
+        </div>
+        
+        <!-- NOTE INGRÉDIENTS (gradient horizontal) -->
+        {{ with .Params.ingredientsNote }}
+          <div class="relative -mx-0 sm:-mx-6 lg:-mx-8">
+            <div class="relative py-8 px-6 sm:px-8 lg:px-12" style="background: linear-gradient(to right, transparent 0%, #f8fafc 20%, #f1f5f9 30%, #f1f5f9 70%, #f8fafc 80%, transparent 100%);">
+              <div class="max-w-4xl mx-auto">
+                <h3 class="text-2xl font-normal mb-6 text-gray-800 tracking-wide" style="font-family: 'Charter', 'Palatino', serif; font-style: italic;">
+                  {{ $recipe_page.sectionsTitle.ingredients_note }}
+                </h3>
+                <div class="prose prose-gray prose-xl max-w-none">
+                  <div class="text-gray-700 leading-relaxed text-lg" style="font-family: 'SF Pro Text', 'Helvetica Neue', sans-serif; line-height: 1.8; font-weight: 400;">
+                    {{ . | markdownify }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+        
+        <!-- SECTION INSTRUCTIONS -->
+        <div class="card card--large" id="steps">
+          <h2 class="section__title">{{ $recipe_page.sections.instructions }}</h2>
+          <div class="recipe-list recipe-list--steps">
+            {{ range .Params.instructions }}
+              {{ if strings.Contains . "===" }}
+                {{ $content := . | replaceRE "===(.+)===" "$1" }}
+                <h3 class="font-bold text-lg mt-6 mb-3 text-gray-800">{{ $content }}</h3>
+                <ol class="recipe-list recipe-list--steps">
+              {{ else }}
+                <li class="recipe-list__item">{{ . }}</li>
+              {{ end }}
+            {{ end }}
+            </ol>
+          </div>
+        </div>
+        
+        <!-- NOTE INSTRUCTIONS (gradient horizontal) -->
+        {{ with .Params.instructionsNote }}
+          <div class="relative -mx-0 sm:-mx-6 lg:-mx-8">
+            <div class="relative py-8 px-6 sm:px-8 lg:px-12" style="background: linear-gradient(to right, transparent 0%, #f8fafc 20%, #f1f5f9 30%, #f1f5f9 70%, #f8fafc 80%, transparent 100%);">
+              <div class="max-w-4xl mx-auto">
+                <h3 class="text-2xl font-normal mb-6 text-gray-800 tracking-wide" style="font-family: 'Charter', 'Palatino', serif; font-style: italic;">
+                  {{ $recipe_page.sectionsTitle.instructions_note }}
+                </h3>
+                <div class="prose prose-gray prose-xl max-w-none">
+                  <div class="text-gray-700 leading-relaxed text-lg" style="font-family: 'SF Pro Text', 'Helvetica Neue', sans-serif; line-height: 1.8; font-weight: 400;">
+                    {{ . | markdownify }}
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        {{ end }}
+
+        <!-- SECTION TIPS -->
+        {{ with .Params.tips }}
+          <div class="card card--large" id="tips">
+            <h2 class="section__title">{{ $recipe_page.sections.tips }}</h2>
+            <ul class="space-y-4">
+              {{ range . }}
+                <li class="flex items-start gap-3 p-4 bg-white border border-gray-200 rounded-lg shadow-sm">
+                  <span class="text-gray-500 text-lg flex-shrink-0 mt-0.5">💡</span>
+                  <span class="text-gray-700 leading-relaxed">{{ . }}</span>
+                </li>
+              {{ end }}
+            </ul>
+          </div>
+        {{ end }}
+        
+        {{ with .Params.faq }}
+          <div class="card card--large" id="faq">
+            <h2 class="section__title">{{ $recipe_page.sections.faq }}</h2>
+            <div class="space-y-4">
+              {{ range . }}
+                {{ if strings.Contains . "q:" }}
+                  {{ $parts := split . "a:" }}
+                  {{ $question := index $parts 0 | replaceRE "q:\\s*" "" | strings.TrimSpace }}
+                  {{ $answer := index $parts 1 | strings.TrimSpace }}
+                  
+                  <details class="p-5 bg-stone-50 border border-stone-200 rounded-lg shadow-sm">
+                    <summary class="font-medium cursor-pointer text-stone-800 hover:text-stone-900">
+                      {{ $question }}
+                    </summary>
+                    <p class="mt-4 text-stone-700 leading-relaxed">{{ $answer }}</p>
+                  </details>
+                {{ end }}
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+        
+        <!-- Articles liés -->
+        {{ partial "related.html" . }}
+        
+        <!-- Commentaires -->
+        {{ partial "comments.html" . }}
+      </div>
+
+      <!-- Colonne latérale -->
+      <aside class="space-y-6 w-full">
+        
+        <!-- INFORMATIONS NUTRITIONNELLES -->
+        {{ with .Params.nutrition }}
+          <div class="card bg-slate-50 border border-slate-200">
+            <!-- Titre centralisé avec sous-titre -->
+            <div class="text-center mb-4">
+              <h3 class="text-base sm:text-lg font-semibold text-slate-800" style="font-family: var(--font-serif);">
+                {{ $recipe_page.nutritionSection.title }}
+              </h3>
+              <p class="text-xs text-slate-500 mt-1">
+                {{ $recipe_page.nutritionSection.subtitle }}
+              </p>
+            </div>
+            
+            <!-- Valeurs nutritionnelles -->
+            <div class="grid grid-cols-1 gap-3 text-sm">
+              {{ with .calories }}
+                <div class="flex justify-between py-2 border-b border-slate-200">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.calories }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .proteinContent }}
+                <div class="flex justify-between py-2 border-b border-slate-200">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.proteinContent }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .carbohydrateContent }}
+                <div class="flex justify-between py-2 border-b border-slate-200">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .fatContent }}
+                <div class="flex justify-between py-2">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.fatContent }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+
+        <!-- MOTS-CLÉS -->
+        {{ with .Params.keywords }}
+          <div class="card bg-stone-50 border border-stone-200">
+            <h3 class="text-base sm:text-lg font-semibold mb-3 text-stone-800" style="font-family: var(--font-serif);">
+              {{ $recipe_page.sectionsTitle.keywords }}
+            </h3>
+            <div class="flex flex-wrap gap-2">
+              {{ range . }}
+                <span class="px-3 py-1 bg-stone-100 border border-stone-200 rounded-full text-xs font-medium text-stone-600">
+                  {{ . }}
+                </span>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+        
+        <!-- Note de la cheffe -->
+        {{ with .Params.note }}
+          <div class="card" style="background-color: var(--color-bg-alt); border-left: 4px solid var(--primary);">
+            <h3 class="text-base sm:text-lg font-semibold mb-2" style="color: var(--color-text); font-family: var(--font-serif);">
+              {{ $recipe_page.chef_note_title }}
+            </h3>
+            <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary);">
+              {{ . | markdownify }}
+            </p>
+          </div>
+        {{ end }}
+
+        <!-- À propos -->
+        <div class="card">
+          <h3 class="text-base sm:text-lg font-semibold mb-2" style="color: var(--color-text); font-family: var(--font-serif);">
+            {{ $recipe_page.about_sidebar_title }}
+          </h3>
+          <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary);">
+            {{ $recipe_page.about_sidebar_text }}
+          </p>
+        </div>
+      </aside>
+      
+    </div>
+  </div>
+
+</section>
+
+<!-- Navigation sticky conservée -->
+{{ partial "recipe-sticky-nav.html" . }}
+{{ end }}

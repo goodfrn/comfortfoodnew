@@ -1,0 +1,48 @@
+# Hugo
+public/
+resources/
+.hugo_build.lock
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Fichiers compilés
+assets/**/*.compiled.*
+assets/css/style.compiled.css
+assets/js/main.compiled.js
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Environnement
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.parcel-cache/
+
+# Temporaires
+*.tmp
+*.temp
+*.bak
+
+# Hugo stats (généré automatiquement)
+hugo_stats.json
+hugo_extended_*.tar.gz

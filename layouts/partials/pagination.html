@@ -1,0 +1,56 @@
+{{/* layouts/partials/pagination.html */}}
+{{ $p := . }}
+{{ if gt $p.TotalPages 1 }}
+<nav aria-label="Pagination" class="flex justify-center items-center space-x-2 mt-8">
+
+  {{/* ← Prev */}}
+  {{ if $p.HasPrev }}
+    <a href="{{ $p.Prev.URL }}"
+       class="px-3 py-1 rounded bg-gray-200 hover:bg-primary/10 text-gray-800 transition">
+      ←
+    </a>
+  {{ else }}
+    <span class="px-3 py-1 rounded bg-gray-100 text-gray-400 cursor-not-allowed">←</span>
+  {{ end }}
+
+  {{ $window := 2 }}
+  {{ $lastIdx := sub $p.TotalPages 1 }}
+  {{ range $i, $pager := $p.Pagers }}
+    {{ $num := add $i 1 }}
+    {{ $min := sub $p.PageNumber $window }}
+    {{ $max := add $p.PageNumber $window }}
+
+    {{ if or (eq $num 1) (eq $num $p.TotalPages) (and (ge $num $min) (le $num $max)) }}
+      {{ if and (gt $i 1) (eq $num (add $min 1)) }}
+        <span class="px-2 text-gray-500">…</span>
+      {{ end }}
+
+      {{ if eq $p.PageNumber $num }}
+        <span aria-current="page"
+              class="px-3 py-1 rounded bg-primary text-white transition">
+          {{ $num }}
+        </span>
+      {{ else }}
+        <a href="{{ $pager.URL }}"
+           class="px-3 py-1 rounded bg-gray-200 hover:bg-primary/10 text-gray-800 transition">
+          {{ $num }}
+        </a>
+      {{ end }}
+
+      {{ if and (lt $i $lastIdx) (eq $num (sub $max 1)) }}
+        <span class="px-2 text-gray-500">…</span>
+      {{ end }}
+    {{ end }}
+  {{ end }}
+
+  {{/* → Next */}}
+  {{ if $p.HasNext }}
+    <a href="{{ $p.Next.URL }}"
+       class="px-3 py-1 rounded bg-gray-200 hover:bg-primary/10 text-gray-800 transition">
+      →
+    </a>
+  {{ else }}
+    <span class="px-3 py-1 rounded bg-gray-100 text-gray-400 cursor-not-allowed">→</span>
+  {{ end }}
+</nav>
+{{ end }}

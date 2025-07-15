@@ -1,0 +1,53 @@
+<!-- layouts/partials/recipe-sticky-nav.html - VERSION AVEC MÊME ICÔNE PINTEREST -->
+
+{{ $config      := .Site.Data.config }}
+{{ $sticky_nav  := $config.components.sticky_nav }}
+
+<nav id="stickyNav"
+     class="fixed bottom-4 left-1/2 -translate-x-1/2 z-50
+            bg-white/90 backdrop-blur-md shadow-md
+            rounded-full px-6 py-2 lg:px-8 lg:py-3 flex gap-6 lg:gap-8
+            text-xs lg:text-sm font-medium select-none">
+
+  <a href="#ingredients" data-target="ingredients" class="navLink flex items-center gap-1 lg:gap-2">
+    <svg class="w-4 h-4 lg:w-5 lg:h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+      <path d="M4 6h16M4 12h16M4 18h16"/>
+    </svg>
+    {{ $sticky_nav.ingredients }}
+  </a>
+
+  <a href="#steps" data-target="steps" class="navLink flex items-center gap-1 lg:gap-2">
+    <svg class="w-4 h-4 lg:w-5 lg:h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+      <path d="M6 9l6 6 6-6"/>
+    </svg>
+    {{ $sticky_nav.steps }}
+  </a>
+
+  {{ with .Params.faq }}
+    <a href="#faq" data-target="faq" class="navLink flex items-center gap-1 lg:gap-2">
+      <svg class="w-4 h-4 lg:w-5 lg:h-5" fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24">
+        <path d="M12 18h.01M12 14a4 4 0 1 0-4-4"/>
+      </svg>
+      {{ $sticky_nav.faq }}
+    </a>
+  {{ end }}
+
+  <button type="button" id="navPinBtn" data-target="pin" class="navLink flex items-center gap-1 lg:gap-2">
+    <!-- MÊME ICÔNE PINTEREST QUE LES CTA BUTTONS -->
+    <svg id="navPinIcon" class="w-4 h-4 lg:w-5 lg:h-5" fill="currentColor" viewBox="0 0 24 24">
+      <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.024-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.89 2.745.097.119.112.22.082.34-.09.394-.293 1.199-.334 1.363-.053.225-.172.271-.402.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.357-.629-2.748-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24.009 12.017 24.009c6.624 0 11.99-5.367 11.99-11.988C24.007 5.367 18.641.001.001 12.017.001z"/>
+    </svg>
+    Pin
+  </button>
+</nav>
+
+{{/* ------------------------------------------------------------------
+     ► Script JS via Hugo Pipes (minify + fingerprint)
+     ► Injecté une seule fois grâce à Scratch
+   ------------------------------------------------------------------ */}}
+{{- if not (.Scratch.Get "RecipeStickyNavJS") }}
+  {{- $stickyJS := resources.Get "js/modules/recipe-sticky-nav.js" | resources.Minify | resources.Fingerprint }}
+  <script type="module" src="{{ $stickyJS.RelPermalink }}"></script>
+  {{- .Scratch.Set "RecipeStickyNavJS" true }}
+{{- end }}
+

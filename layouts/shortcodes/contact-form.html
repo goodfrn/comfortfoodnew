@@ -1,0 +1,55 @@
+{{ $config := .Site.Data.config }}
+{{ $contact_page := $config.contact_page }}
+
+<form
+  id="contact-form"
+  action="{{ $contact_page.form.form_action }}"
+  method="POST"
+  class="max-w-xl mx-auto bg-white p-6 rounded-lg shadow-md space-y-4"
+>
+  <div>
+    <label for="name" class="block text-sm font-medium" style="color: var(--color-text);">{{ $contact_page.form.name_label }}</label>
+    <input
+      type="text"
+      name="name"
+      id="name"
+      required
+      class="form-input mt-1"
+    >
+  </div>
+
+  <div>
+    <label for="email" class="block text-sm font-medium" style="color: var(--color-text);">{{ $contact_page.form.email_label }}</label>
+    <input
+      type="email"
+      name="_replyto"
+      id="email"
+      required
+      class="form-input mt-1"
+    >
+  </div>
+
+  <div>
+    <label for="message" class="block text-sm font-medium" style="color: var(--color-text);">{{ $contact_page.form.message_label }}</label>
+    <textarea
+      name="message"
+      id="message"
+      rows="5"
+      required
+      class="form-input mt-1"
+    ></textarea>
+  </div>
+
+  <!-- Honeypot anti-spam -->
+  <input type="text" name="_gotcha" class="hidden">
+
+  <button
+    type="submit"
+    class="btn-form"
+  >
+    {{ $contact_page.form.submit_button }}
+  </button>
+</form>
+
+<div id="form-status" class="max-w-xl mx-auto mt-4 text-center text-sm" style="color: var(--color-text-secondary);"></div>
+

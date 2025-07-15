@@ -1,0 +1,22 @@
+{{/* Génération automatique du menu des catégories */}}
+{{ $config := site.Data.config.categories_system }}
+{{ $mainSection := $config.main_section | default "recipes" }}
+
+<div class="categories-dropdown">
+  {{ range site.Taxonomies.categories.ByCount }}
+    {{ $slug := .Page.Title | lower | urlize }}
+    {{ $displayName := .Page.Title }}
+    
+    {{/* Cherche un nom personnalisé dans la config */}}
+    {{ range $config.categories_config.categories_list }}
+      {{ if eq .slug $slug }}
+        {{ $displayName = .name }}
+      {{ end }}
+    {{ end }}
+    
+    <a href="{{ .Page.RelPermalink }}" class="block px-4 py-2 hover:bg-gray-100 flex justify-between items-center">
+      <span>{{ $displayName }}</span>
+      <span class="text-sm text-gray-500">({{ .Count }})</span>
+    </a>
+  {{ end }}
+</div>

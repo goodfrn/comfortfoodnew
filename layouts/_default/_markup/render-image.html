@@ -1,0 +1,40 @@
+{{/* layouts/_default/_markup/render-image.html - Rendu optimisé des images Markdown */}}
+{{ $img := resources.Get .Destination }}
+{{ $alt := .Text | default "Image" }}
+{{ $title := .Title }}
+
+{{ if $img }}
+  {{/* Image trouvée dans assets */}} 
+  {{ $webp := $img.Resize "1200x webp q85" }}
+  {{ $avif := $img.Resize "1200x avif q80" }}
+  {{ $fallback := $img.Resize "1200x q85" }}
+  
+  <picture>
+    <source srcset="{{ $avif.RelPermalink }}" 
+            type="image/avif"
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 80vw, 1200px">
+    <source srcset="{{ $webp.RelPermalink }}" 
+            type="image/webp"
+            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 80vw, 1200px">
+    <img 
+      src="{{ $fallback.RelPermalink }}" 
+      alt="{{ $alt }}"
+      {{ with $title }}title="{{ . }}"{{ end }}
+      loading="lazy"
+      width="{{ $img.Width }}"
+      height="{{ $img.Height }}"
+      class="rounded-lg shadow-md"
+      sizes="(max-width: 640px) 100vw, (max-width: 1024px) 80vw, 1200px"
+    >
+  </picture>
+{{ else }}
+  {{/* Image dans static ou externe */}}
+  <img 
+    src="{{ .Destination | safeURL }}" 
+    alt="{{ $alt }}"
+    {{ with $title }}title="{{ . }}"{{ end }}
+    loading="lazy"
+    decoding="async"
+    class="rounded-lg shadow-md"
+  >
+{{ end }}

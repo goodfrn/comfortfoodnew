@@ -1,0 +1,18 @@
+name = "blog-config-api"
+main = "functions/update-config.js"
+compatibility_date = "2024-01-01"
+
+[env.production.vars]
+ENVIRONMENT = "production"
+
+# KV Storage pour le registry des sites
+[[kv_namespaces]]
+binding = "SITES_REGISTRY"
+id = "15a0d8a24dbf49c0b26f5104cc19c4c4"
+preview_id = "4e35c69190244850983c2292e619de61"
+
+# Variables d'environnement production
+[env.production]
+[[env.production.kv_namespaces]]
+binding = "SITES_REGISTRY"
+id = "15a0d8a24dbf49c0b26f5104cc19c4c4"

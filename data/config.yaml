@@ -1,0 +1,294 @@
+baseURL: "https://recettes-blog-test.pagestest.dev/"
+
+site:
+  name: "Testt"
+  language: fr
+  tagline: Chef & Créatrice
+  description: Recettes maison faciles et gourmandes
+  author: Amelia Feuss 
+  email: contact@recettes-blog.com
+  
+navigation: 
+  menu_items:
+    home: "Accueil"
+    recipes: "Recettes"
+    categories: "Catégories"
+    about: "A propos"
+    contact: "Contact"
+  page_titles:
+    home: "Accueil"
+    recipes: "Nos Recettes"
+    categories: "Toutes les Catégories"
+    about: "A Propos de Nous"
+    contact: "Nous Contacter"
+
+branding:
+  logo_text: "Z" 
+  
+
+colors:
+  primary: "#ea580c"
+  primary_dark: "#c2410c"
+  primary_light: "#fb7c47"
+  secondary: "#f7f0d8"
+  background: "#ffffff"
+  text: "#18181b"
+  brand_color: "#ea580c"  
+
+social:
+  facebook: "https://facebook.com/ta-page"
+  instagram: "https://instagram.com/ta-page"
+  pinterest: "https://pinterest.com/ta-page"
+  twitter: "https://twitter.com/ta-page"
+
+header:
+  search_placeholder: Rechercher une recette d'exception...
+  search_placeholder_mobile: Rechercher une recette...
+  follow_button_text: Suivez-moi
+  menu_aria_label: Ouvrir le menu
+  search_aria_label: Rechercher
+
+hero:
+  badge_text: Nouvelle recette chaque jour
+  title_line1: Plongez dans
+  title_line2: l'Art de la Cuisine
+  subtitle: Chaque jour, une création gourmande pensée pour enchanter vos papilles et sublimer votre quotidien.
+  subtitle_highlight: enchanter vos papilles
+  cta_primary_text: Surprends-moi !
+  cta_primary_url: /random/
+  cta_secondary_text: Explorer les recettes
+  cta_secondary_url: /recipes/
+  scroll_indicator: true
+
+homepage:
+  latest_recipes:
+    title: Dernières recettes
+    description: Testées, retravaillées et choisies avec soin pour inspirer votre cuisine au quotidien. Vous allez forcément en adopter plus d'une.
+  popular_recipes:
+    title: Recettes populaires
+    empty_message: Aucune recette populaire disponible pour le moment.
+  categories_section:
+    title: Explorer par catégorie
+  newsletter:
+    title: Reçois nos recettes les plus aimées ✨
+    description: Des idées simples, des plats de saison, directement dans ta boîte mail. Une fois par semaine. Jamais de spam, juste de la bonne cuisine.
+    email_placeholder: Ton adresse email
+    button_text: Je m'abonne
+    form_action: "https://formspree.io/f/XXXXX"
+  filters:
+    category_label: Catégorie
+    category_all: Toutes catégories
+    tag_label: Tag
+    tag_all: Tous tags
+    time_label: Durée max (min)
+    time_placeholder: Durée
+    reset_button: Réinitialiser
+    
+about_page:
+  title: "A propos"
+  
+about_section:
+  title: Qui suis-je
+  title_accent: "?"
+  chef_name: Amelia Feuss
+  chef_intro: Je m'appelle Amelia Feuss, chef passionnée depuis plus de dix ans.
+  cta_text: Mon parcours
+  cta_url: /about/
+  image_alt: Portrait d'Amelia Feuss, chef passionnée
+
+list_pages:
+  recipes_title: Nos meilleures recettes
+  recipes_description: Testées, retravaillées et choisies avec soir pour inspirer votre cuisine au quotidien. Vous allez forcément en adopter plus d'une.
+  categories_title_prefix: "Recettes :"
+  no_recipes: Aucune recette trouvée pour cette catégorie.
+  breadcrumb:
+    home: Accueil
+    categories: Catégories
+
+recipe_page:
+  author_prefix: Par
+  published_prefix: Publié le
+  sections:
+    ingredients: Ingrédients
+    instructions: Instructions
+    tips: Conseils de chef
+    faq: Questions fréquentes
+    related: Vous aimerez aussi
+    discover: Inspiration gourmande
+  summary_labels:
+    prep: Préparation
+    cook: Cuisson
+    total: Total
+    servings: Portions
+  chef_note_title: Note de la cheffe
+  about_sidebar_title: Qui suis-je ?
+  about_sidebar_text: Je suis Amelia, passionnée de chimie et de cuisine. J'adore tester des recettes, comprendre les réactions et les rendre délicieuses, accessibles… et parfois un peu magiques.
+  sectionsTitle:
+    ingredients_note: "À propos des ingrédients"
+    instructions_note: "Conseils de cuisson"
+    keywords: "Mots-clés"
+  nutritionSection:
+    title: "Informations nutritionnelles"
+    subtitle: "(valeurs approximatives)"
+  nutritionLabels:
+    calories: "Calories"
+    proteinContent: "Protéines"
+    carbohydrateContent: "Glucides"
+    fatContent: "Lipides"  
+  
+footer:
+  description: Découvrez un univers culinaire d'exception où chaque recette raconte une histoire, chaque saveur éveille vos sens et chaque plat devient un moment inoubliable.
+  navigation_title: Navigation
+  categories_title: Catégories
+  social_title: Suivez-nous
+  newsletter_title: Newsletter
+  newsletter_description: Recevez nos dernières recettes exclusives et nos conseils de chef directement dans votre boîte mail.
+  newsletter_placeholder: votre@email.com
+  newsletter_button: S'abonner
+  copyright_prefix: ©
+  copyright_suffix: . Tous droits réservés.
+  copyright_tagline: Créé avec ❤️ pour les passionnés de cuisine d'exception
+  scroll_top_label: Retour en haut
+  social_descriptions:
+    pinterest: "Nous suivre"
+    instagram: "Nous suivre"
+    facebook: "Nous suivre"
+  legal_links:
+    privacy: "/politique-confidentialite/"
+    terms: "/conditions-utilisation/"
+    legal: "/mentions-legales/"
+    contact: "/contact/"
+  legal_links_text:
+    privacy: "Politique de confidentialité"
+    terms: "Conditions d'utilisation"
+    legal: "Mentions légales"
+    contact: "Contact"
+
+categories_page:
+  title: Toutes les catégories
+
+params:
+  analytics:
+    ga4: "G-XXXXXXXXXX"  
+
+# Configuration des catégories dynamiques
+categories_system:
+  site_type: "recipes"
+  main_section: "recipes"
+  section_title: "Recettes"
+  categories_config:
+    mode: "auto"
+    categories_list:
+      - slug: "entrees"
+        name: "Entrées"
+        weight: 1
+      - slug: "salades" 
+        name: "Salades"
+        weight: 2
+      - slug: "plats-principaux"
+        name: "Plats principaux"
+        weight: 3
+      - slug: "accompagnements"
+        name: "Accompagnements"
+        weight: 4
+      - slug: "desserts"
+        name: "Desserts"
+        weight: 5
+      - slug: "boissons"
+        name: "Boissons"
+        weight: 6
+      - slug: "aaaaaa"
+        name: "Apéritifs Gourmands"
+        weight: 7
+      - slug: "sauces"
+        name: "Sauces & Dips"
+        weight: 8
+      - slug: "vegetalien"
+        name: "Végan & Végétarien"
+        weight: 9
+
+
+
+tags_page:
+  all_tags_title: Tous les tags
+  title_prefix: Recettes taguées
+  no_recipes: Aucune recette pour ce tag.
+
+contact_page:
+  title: "Nous Contacter"
+  subtitle: "N'hésitez pas à nous écrire"
+  form:
+    name_label: Nom
+    email_label: Email
+    message_label: Message
+    submit_button: Envoyer
+    form_action: "https://formspree.io/f/xwpoynkj"
+
+random_page:
+  loading_message: On cherche une recette pour toi… 🍳
+  redirect_message: Tu seras redirigé dans
+  redirect_unit: s.
+  fallback_message: Si ça prend trop longtemps, clique ici.
+  redirect_delay: 3
+
+components:
+  search:
+    no_results: Aucun résultat trouvé
+    loading: Recherche en cours...
+    clear_label: Effacer la recherche
+    no_results_emoji: 🔍
+    loading_emoji: ⏳
+    recipe_emoji: 🍽️
+    time_emoji: ⏱️
+  cta_buttons:
+    pin_label: Pin
+    pin_aria_label: Enregistrer sur Pinterest
+    share_label: Partager
+    share_aria_label: Partager
+    print_label: Imprimer
+    print_aria_label: Imprimer la recette
+    copy_link: Copier le lien
+    email: Email
+    save_label: Save
+    link_copied: Lien copié !
+    share_subject: "Découvrez cette recette :"
+  share_menu:
+    copy_link: Copier le lien
+    email: Email
+    pinterest: Pinterest
+    facebook: Facebook
+    twitter: X (Twitter)
+    whatsapp: WhatsApp
+    reddit: Reddit
+  sticky_nav:
+    ingredients: Ingredients
+    steps: Steps
+    faq: FAQ
+    save: Save
+  notifications:
+    menu_closed: Menu fermé
+    search_cleared: Recherche effacée
+    error_occurred: Une erreur est survenue. Veuillez rafraîchir la page.
+  contact_form:
+    sending: Envoi en cours…
+    success: Merci ! Ton message a bien été envoyé.
+    error: Oups ! Une erreur est survenue.
+    network_error: Impossible d'envoyer le message. Vérifie ta connexion.
+
+  accessibility:
+    skip_to_content: Aller au contenu principal
+
+technical:
+  analytics:
+    plausible_domain: recettes-blog-test.pages.dev
+  default_images:
+    hero: hero-bg.jpg
+    chef: chef.jpg
+    placeholder: placeholder.jpg
+  pagination:
+    per_page: 12
+  animations:
+    hero_redirect_delay: 3000
+    transition_duration: 300
+
+

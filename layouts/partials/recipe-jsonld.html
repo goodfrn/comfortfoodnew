@@ -1,0 +1,71 @@
+{{- /* layouts/partials/recipe-jsonld.html - VERSION CORRIGÉE */ -}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Recipe",
+  "name": "{{ .Title }}",
+  "image": [ "{{ .Site.BaseURL }}{{ .Params.image }}" ],
+  "author": {
+    "@type": "Person",
+    "name": "{{ with .Params.author }}{{ . }}{{ else }}{{ .Site.Params.author }}{{ end }}"
+  },
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "description": "{{ with .Params.description }}{{ . }}{{ else }}{{ .Summary }}{{ end }}",
+  "prepTime": "{{ .Params.prepTime }}",
+  "cookTime": "{{ .Params.cookTime }}",
+  "totalTime": "{{ .Params.totalTime }}",
+  "recipeYield": "{{ with .Params.recipeYield }}{{ . }}{{ else }}{{ "" }}{{ end }}",
+  "recipeCategory": "{{ with .Params.categories }}{{ index . 0 }}{{ else }}{{ "" }}{{ end }}",
+  "recipeCuisine": "{{ with .Params.cuisine }}{{ . }}{{ else }}{{ "" }}{{ end }}",
+  "keywords": [
+    {{- if .Params.focusKeyphrase }}"{{ .Params.focusKeyphrase }}"{{ if or .Params.keywords .Params.secondaryKeywords }},{{ end }}{{ end }}
+    {{- range $i, $item := .Params.keywords -}}
+      {{- if $i }},{{ end }}"{{ $item }}"
+    {{- end -}}
+    {{- if and .Params.keywords .Params.secondaryKeywords }},{{ end }}
+    {{- range $i, $item := .Params.secondaryKeywords -}}
+      {{- if $i }},{{ end }}"{{ $item }}"
+    {{- end -}}
+  ],
+  "recipeIngredient": [
+    {{- range $i, $item := .Params.ingredients -}}
+      {{- if not (hasPrefix $item "===") -}}
+        {{- if $i }},{{ end }}"{{ $item }}"
+      {{- end -}}
+    {{- end -}}
+  ],
+  "recipeInstructions": [
+    {{- $stepIndex := 0 -}}
+    {{- range $step := .Params.instructions -}}
+      {{- if not (hasPrefix $step "===") -}}
+        {{- if ne $stepIndex 0 }},{{ end }}
+        { "@type": "HowToStep", "text": "{{ $step }}" }
+        {{- $stepIndex = add $stepIndex 1 -}}
+      {{- end -}}
+    {{- end -}}
+  ],
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {{- range $i, $item := .Params.breadcrumb -}}
+        {{- if $i }},{{ end }}
+        {
+          "@type": "ListItem",
+          "position": {{ add $i 1 }},
+          "name": "{{ $item }}",
+          "item": "{{- if eq $i 0 }}{{ $.Site.BaseURL }}{{- else if eq $i 1 }}{{ $.Site.BaseURL }}recipes/{{- else }}{{ $.Permalink }}{{- end }}"
+        }
+      {{- end -}}
+    ]
+  }
+  {{- with .Params.nutrition }},
+  "nutrition": {
+    "@type": "NutritionInformation"
+    {{- with .calories }}, "calories": "{{ . }}"{{ end }}
+    {{- with .fatContent }}, "fatContent": "{{ . }}"{{ end }}
+    {{- with .carbohydrateContent }}, "carbohydrateContent": "{{ . }}"{{ end }}
+    {{- with .proteinContent }}, "proteinContent": "{{ . }}"{{ end }}
+  }
+  {{- end }}
+}
+</script>

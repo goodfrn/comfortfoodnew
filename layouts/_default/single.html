@@ -1,0 +1,143 @@
+{{ define "main" }}
+{{ $config := .Site.Data.config }}
+{{ $breadcrumb := $config.list_pages.breadcrumb }}
+{{ $recipe_page := $config.recipe_page }}
+
+<section class="container mx-auto px-4 relative" style="background-color: var(--color-bg); min-height: 100vh; padding-top: 96px;">
+
+<!-- 📍 Fil d'Ariane PLUS HAUT (position absolue) -->
+<div class="absolute top-4 left-0 right-0">
+<div class="container mx-auto px-4">
+<nav class="text-sm text-gray-500" aria-label="Fil d'Ariane">
+<ol class="flex flex-wrap items-center gap-1 text-[0.95rem] sm:text-base font-medium">
+<li>
+<a href="/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.home }}</a>
+<span class="mx-1 text-gray-400">→</span>
+</li>
+<!-- Section dynamique selon le type de page -->
+ {{ if eq .Section "recipes" }}
+<li>
+<a href="/categories/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.categories }}</a>
+<span class="mx-1 text-gray-400">→</span>
+</li>
+ {{ with index .Params.categories 0 }}
+<li>
+<a href="{{ printf "/categories/%s/" (. | urlize) }}" class="hover:underline font-semibold" style="color: var(--primary);">{{ . }}</a>
+<span class="mx-1 text-gray-400">→</span>
+</li>
+ {{ end }}
+ {{ else if .Section }}
+<li>
+<a href="{{ printf "/%s/" .Section }}" class="hover:underline font-semibold" style="color: var(--primary);">{{ .Section | title }}</a>
+<span class="mx-1 text-gray-400">→</span>
+</li>
+ {{ end }}
+<li class="font-normal" style="color: var(--color-text);">
+  {{ if and .File (eq .File.BaseFileName "contact") }}
+    {{ $config.footer.legal_links_text.contact | default .Title }}
+  {{ else if and .File (eq .File.BaseFileName "index") (eq .Section "about") }}
+    {{ $config.navigation.menu_items.about | default .Title }}
+  {{ else if or (in .RelPermalink "/mentions-legales/") (in .RelPermalink "/legal/") }}
+    {{ $config.footer.legal_links_text.legal | default .Title }}
+  {{ else if or (in .RelPermalink "/politique-confidentialite/") (in .RelPermalink "/privacy/") }}
+    {{ $config.footer.legal_links_text.privacy | default .Title }}
+  {{ else if or (in .RelPermalink "/conditions-utilisation/") (in .RelPermalink "/terms/") }}
+    {{ $config.footer.legal_links_text.terms | default .Title }}
+  {{ else }}
+    {{ .Title }}
+  {{ end }}
+</li>
+</ol>
+</nav>
+</div>
+</div>
+
+<!-- 🔍 DÉFINIR LES VARIABLES LÉGALES D'ABORD -->
+{{ $isLegalPage := false }}
+{{ $legalType := "" }}
+
+<!-- Détection par URL -->
+{{ if or (in .RelPermalink "/mentions-legales/") (in .RelPermalink "/legal/") }}
+  {{ $isLegalPage = true }}
+  {{ $legalType = "mentions_legales" }}
+{{ else if or (in .RelPermalink "/politique-confidentialite/") (in .RelPermalink "/privacy/") }}
+  {{ $isLegalPage = true }}
+  {{ $legalType = "politique_confidentialite" }}
+{{ else if or (in .RelPermalink "/conditions-utilisation/") (in .RelPermalink "/terms/") }}
+  {{ $isLegalPage = true }}
+  {{ $legalType = "conditions_utilisation" }}
+{{ end }}
+
+{{ if not $isLegalPage }}
+  <!-- 🏷️ Titre EXACTEMENT à 96px du haut pour TOUTES les autres pages (PAS les légales) -->
+  <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-center mb-4" style="color: var(--primary); font-family: var(--font-serif);">
+    {{ if and .File (eq .File.BaseFileName "contact") }}
+      {{ $config.contact_page.title | default .Title }}
+    {{ else if and .File (eq .File.BaseFileName "index") (eq .Section "about") }}
+      {{ $config.about_page.title | default .Title }}
+    {{ else }}
+      {{ .Title }}
+    {{ end }}
+  </h1>
+{{ end }}
+
+<!-- Sous-titre pour la page Contact -->
+{{ if and .File (eq .File.BaseFileName "contact") }}
+  {{ with $config.contact_page.subtitle }}
+    <p class="text-center mb-8 text-lg" style="color: var(--color-text-secondary);">{{ . }}</p>
+  {{ end }}
+{{ end }}
+
+{{ if $isLegalPage }}
+  <!-- ✅ CONTENU LÉGAL DEPUIS LES FICHIERS .MD -->
+  <article class="prose prose-lg max-w-none mx-auto" style="color: var(--color-text);">
+    <!-- Titre depuis le front matter -->
+    <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-center mb-4" style="color: var(--primary); font-family: var(--font-serif);">
+      {{ .Title }}
+    </h1>
+    
+    <div class="text-center mb-8" style="color: var(--color-text-secondary);">
+      <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-sm">
+        Dernière mise à jour : {{ now.Format "02 January 2006" }}
+      </time>
+    </div>
+
+    <!-- ✅ CONTENU DEPUIS LE FICHIER .MD -->
+    <div class="max-w-4xl mx-auto" style="color: var(--color-text); line-height: 1.7;">
+      {{ .Content }}
+    </div>
+  </article>
+
+{{ else }}
+  <!-- 📄 Contenu normal pour les autres pages -->
+  <article class="prose prose-lg max-w-none mx-auto" style="color: var(--color-text);">
+    <div class="text-center mb-8" style="color: var(--color-text-secondary);">
+     {{ if .Date }}
+    <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-sm">
+     {{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}
+    </time>
+     {{ end }}
+     {{ if and .Date .Params.author }}
+    <span class="mx-2">•</span>
+     {{ end }}
+     {{ with .Params.author }}
+    <span class="text-sm">{{ $recipe_page.author_prefix }} {{ . }}</span>
+     {{ end }}
+    </div>
+
+    <!-- Description si présente -->
+     {{ with .Params.description }}
+    <div class="text-xl text-center mb-8 italic max-w-3xl mx-auto" style="color: var(--color-text-secondary);">
+     {{ . | markdownify }}
+    </div>
+     {{ end }}
+
+    <!-- Contenu principal -->
+    <div class="max-w-4xl mx-auto" style="color: var(--color-text); line-height: 1.7;">
+     {{ .Content }}
+    </div>
+  </article>
+{{ end }}
+
+</section>
+{{ end }}

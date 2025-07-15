@@ -1,0 +1,22 @@
+{{/* ---------- shortcode  {{< img src="chef.jpg" alt="..." class="..." priority="high" >}} ---------- */}}
+
+{{- $src     := .Get "src" -}}
+{{- $alt     := .Get "alt"   | default "" -}}
+{{- $class   := .Get "class" | default "" -}}
+{{- $prio    := .Get "priority" | default "" -}}
+
+{{- $orig := resources.Get (printf "images/%s" $src) -}}
+{{- $avif := $orig | images.Fill "800x600 q75" | images.Convert "avif" | images.Fingerprint -}}
+{{- $webp := $orig | images.Fill "800x600 q75" | images.Convert "webp" | images.Fingerprint -}}
+{{- $jpeg := $orig | images.Fill "800x600 q80" | images.Fingerprint -}}
+
+<picture>
+  <source type="image/avif" srcset="{{ $avif.RelPermalink }}">
+  <source type="image/webp" srcset="{{ $webp.RelPermalink }}">
+  <img
+    src="{{ $jpeg.RelPermalink }}"
+    width="800" height="600"
+    {{ if eq $prio "high" }} fetchpriority="high"{{ end }}
+    class="{{ $class }}"
+    alt="{{ $alt }}">
+</picture>

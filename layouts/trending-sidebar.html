@@ -1,0 +1,104 @@
+{{/*  layouts/partials/trending-sidebar.html  */}}
+
+{{ $config := .Site.Data.config }}
+
+{{/* Récupère les recettes avec le plus de vues cette semaine */}}
+{{ $trending := first 4 ( where .Site.RegularPages ".Params.weeklyViews" ">" 0 | sort ".Params.weeklyViews" "desc" ) }}
+
+{{ if gt (len $trending) 0 }} 
+  <aside class="bg-white border border-gray-100 rounded-xl p-4 sticky top-8 shadow-sm">
+    <!-- Header avec animation -->
+    <div class="flex items-center gap-2 mb-4 pb-3 border-b border-gray-100">
+      <span class="text-lg animate-pulse">🔥</span>
+      <h3 class="text-sm font-semibold" style="color: var(--color-text); font-family: var(--font-serif);">
+        Tendance cette semaine
+      </h3>
+    </div>
+
+    <!-- Liste compacte -->
+    <div class="space-y-3">
+      {{ range $index, $recipe := $trending }}
+        <a href="{{ .RelPermalink }}" class="group block hover:bg-gray-50 -mx-2 px-2 py-2 rounded-lg transition-all duration-200">
+          
+          <!-- Ranking + Image + Info -->
+          <div class="flex items-center gap-3">
+            
+            <!-- Numéro tendance -->
+            <div class="flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold" 
+                 style="background: {{ if eq $index 0 }}#ff4444{{ else if eq $index 1 }}#ff8800{{ else if eq $index 2 }}#ffaa00{{ else }}var(--gray-300){{ end }}; color: white;">
+              {{ add $index 1 }}
+            </div>
+
+            <!-- Image mini -->
+            <div class="flex-shrink-0">
+              {{ with .Params.image }}
+                {{ $img := resources.Get (printf "images/%s" .) }}
+                {{ if $img }}
+                  {{ $thumb := $img.Fill "40x40 q75 webp" }}
+                  <img src="{{ $thumb.RelPermalink }}" 
+                       alt="{{ $recipe.Title }}" 
+                       class="w-10 h-10 object-cover rounded-lg group-hover:scale-105 transition-transform duration-200"
+                       loading="lazy">
+                {{ else }}
+                  <div class="w-10 h-10 bg-gray-200 rounded-lg"></div>
+                {{ end }}
+              {{ end }}
+            </div>
+
+            <!-- Contenu -->
+            <div class="flex-1 min-w-0">
+              <h4 class="text-xs font-medium leading-tight mb-1 line-clamp-2 group-hover:text-gray-900" 
+                  style="color: var(--color-text); font-family: var(--font-serif);">
+                {{ .Title }}
+              </h4>
+              
+              <!-- Métriques killer -->
+              <div class="flex items-center gap-2 text-xs" style="color: var(--color-text-muted);">
+                <!-- Vues cette semaine -->
+                {{ with .Params.weeklyViews }}
+                  <span class="flex items-center gap-1 font-medium" style="color: var(--primary);">
+                    👀 {{ . | lang.NumFmt 0 }}
+                  </span>
+                {{ end }}
+                
+                <!-- Temps -->
+                {{ with .Params.totalTime }}
+                  <span class="flex items-center gap-1">
+                    ⏱️ {{ . | replaceRE "^PT(\\d+)M$" "$1min" }}
+                  </span>
+                {{ end }}
+                
+                <!-- Calories -->
+                {{ with .Params.nutrition.calories }}
+                  <span>🔥 {{ . }}cal</span>
+                {{ end }}
+              </div>
+            </div>
+
+            <!-- Badge trending pour #1 -->
+            {{ if eq $index 0 }}
+              <div class="flex-shrink-0">
+                <span class="text-xs px-1.5 py-0.5 rounded-full font-medium text-white bg-red-500 animate-pulse">
+                  HOT
+                </span>
+              </div>
+            {{ end }}
+
+          </div>
+        </a>
+      {{ end }}
+    </div>
+
+    <!-- Footer call-to-action -->
+    <div class="mt-4 pt-3 border-t border-gray-100">
+      <a href="/recipes/?sort=trending" 
+         class="text-xs font-medium flex items-center justify-center gap-1 py-2 rounded-lg hover:bg-gray-50 transition-colors" 
+         style="color: var(--primary);">
+        Voir le top complet 📈
+      </a>
+    </div>
+  </aside>
+{{ end }}
+
+
+{{/* GA4 INTEGRATION - Tracking géré dans analytics.html */}}
