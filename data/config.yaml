@@ -1,12 +1,12 @@
-baseURL: "https://recettes-blog-test.pagestest.dev/"
+baseURL: "https://comfortfood.uk/"
 
 site:
-  name: "Testt"
-  language: fr
+  name: "Comfort-Food"
+  language: "en"
   tagline: Chef & Créatrice
   description: Recettes maison faciles et gourmandes
-  author: Amelia Feuss 
-  email: contact@recettes-blog.com
+  author: "Sandra"
+  email: "contact@comfortfood.com"
   
 navigation: 
   menu_items:
