@@ -115,6 +115,7 @@ recipe_page:
     faq: "Common questions"
     related: "You might also love"
     discover: "More comfort food"
+    view_all_recipes: "View all recipes →"
   summary_labels:
     prep: Préparation
     cook: Cuisson
