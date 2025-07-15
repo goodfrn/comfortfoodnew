@@ -8,7 +8,7 @@ focusKeyphrase: "Cabbage and Beef Layers"
 date: 2025-07-15
 draft: false
 image: cabbage-and-beef-layers.png
-author: "Amelia Feuss."
+author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT145M
 totalTime: PT170M
