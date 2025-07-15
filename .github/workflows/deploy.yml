@@ -1,0 +1,80 @@
+name: Deploy to GitHub Pages + Cloudflare (Optimized)
+
+on:
+ push:
+   branches: [ main ]
+ workflow_dispatch:
+
+permissions:
+ contents: read
+ pages: write
+ id-token: write
+
+concurrency:
+ group: "pages"
+ cancel-in-progress: false
+
+jobs:
+ build-and-deploy:
+   runs-on: ubuntu-latest
+   
+   steps:
+     - name: Checkout
+       uses: actions/checkout@v4
+       
+     - name: Setup Node.js
+       uses: actions/setup-node@v4
+       with:
+         node-version: '20'
+         cache: 'npm'
+         
+     - name: Cache Hugo resources
+       uses: actions/cache@v3
+       with:
+         path: |
+           resources/_gen
+           public
+           .hugo_build.lock
+         key: hugo-cache-${{ hashFiles('assets/**', 'content/**', 'data/**', 'layouts/**') }}
+         restore-keys: |
+           hugo-cache-
+         
+     - name: Install dependencies
+       run: npm ci
+       
+     - name: Build assets
+       run: |
+         npm run build:css
+         npm run build:js
+       
+     - name: Setup Hugo
+       uses: peaceiris/actions-hugo@v3
+       with:
+         hugo-version: 'latest'
+         extended: true
+         
+     - name: Build site (Optimized)
+       run: |
+         echo "🚀 Starting optimized build..."
+         
+         if [ -d "resources/_gen" ] && [ -d "public" ]; then
+           echo "📦 Cache found - doing incremental build"
+           hugo --minify --quiet
+         else
+           echo "🏗️ No cache - doing full build"
+           hugo --gc --minify
+         fi
+         
+         echo "✅ Build complete!"
+         
+     - name: Setup Pages
+       uses: actions/configure-pages@v4
+       
+     - name: Upload artifact
+       uses: actions/upload-pages-artifact@v3
+       with:
+         path: './public'
+         
+     - name: Deploy to GitHub Pages
+       id: deployment
+       uses: actions/deploy-pages@v4
