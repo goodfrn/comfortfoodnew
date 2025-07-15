@@ -95,14 +95,8 @@
     <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-center mb-4" style="color: var(--primary); font-family: var(--font-serif);">
       {{ .Title }}
     </h1>
-    
-    <div class="text-center mb-8" style="color: var(--color-text-secondary);">
-      <time datetime="{{ .Date.Format "2006-01-02" }}" class="text-sm">
-        Dernière mise à jour : {{ now.Format "02 January 2006" }}
-      </time>
-    </div>
 
-    <!-- ✅ CONTENU DEPUIS LE FICHIER .MD -->
+    <!-- ✅ CONTENU DEPUIS LE FICHIER .MD (SANS DATE AUTOMATIQUE) -->
     <div class="max-w-4xl mx-auto" style="color: var(--color-text); line-height: 1.7;">
       {{ .Content }}
     </div>
