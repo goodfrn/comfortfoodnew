@@ -8,7 +8,7 @@ focusKeyphrase: "Thai Noodles recipe"
 date: 2025-07-15
 draft: false
 image: authentic-thai-noodles.png
-author: "Amelia Feuss."
+author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT35M
 totalTime: PT55M
