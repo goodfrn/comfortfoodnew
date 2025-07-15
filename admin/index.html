@@ -1,0 +1,3135 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Interface de Configuration</title>
+    <link rel="stylesheet" href="admin.css?v=2">
+</head>
+<body>
+    <!-- Badge Mode -->
+    <div class="mode-badge" id="mode-badge">Détection...</div>
+
+    <!-- Toast Container -->
+    <div class="toast-container" id="toast-container"></div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loading-overlay">
+        <div class="loading-content">
+            <div class="spinner"></div>
+            <div class="loading-text" id="loading-text">Chargement...</div>
+        </div>
+    </div>
+
+    <!-- Container Principal -->
+    <div class="admin-container">
+        
+        <!-- Sidebar -->
+        <aside class="sidebar" id="sidebar">
+            <button class="sidebar-toggle" onclick="toggleSidebar()" id="sidebar-toggle">
+                <span id="toggle-icon">←</span>
+            </button>
+
+            <div class="logo">
+                <div class="logo-icon">A</div>
+                <div class="logo-text">Administration</div>
+            </div>
+
+            <nav class="nav">
+                <!-- Section Configuration -->
+                <div class="nav-section">
+                    <div class="nav-title">Configuration</div>
+                    <a class="nav-item" onclick="showSection('dashboard')" data-section="dashboard">
+                        <span class="nav-icon">■</span>
+                        <span class="nav-text">Tableau de Bord</span>
+                    </a>
+                    <a class="nav-item" onclick="showSection('identity')" data-section="identity">
+                        <span class="nav-icon">◆</span>
+                        <span class="nav-text">Identité du Site</span>
+                    </a>
+                    <a class="nav-item" onclick="showSection('design')" data-section="design">
+                        <span class="nav-icon">●</span>
+                        <span class="nav-text">Design & Couleurs</span>
+                    </a>
+                    <a class="nav-item" onclick="showSection('content')" data-section="content">
+                        <span class="nav-icon">▲</span>
+                        <span class="nav-text">Contenu</span>
+                    </a>
+                    <a class="nav-item" onclick="showSection('interface')" data-section="interface">
+                        <span class="nav-icon">▼</span>
+                        <span class="nav-text">Interface</span>
+                    </a>
+                    <a class="nav-item" onclick="showSection('pages')" data-section="pages">
+                        <span class="nav-icon">▪</span>
+                        <span class="nav-text">Pages & Contenus</span>
+                    </a>
+                    <a class="nav-item" onclick="window.open('./articles.html', '_blank')" data-section="articles">
+                        <span class="nav-icon">📝</span>
+                        <span class="nav-text">Articles</span>
+                    </a>
+                    <a class="nav-item" onclick="showSection('pinterest')" data-section="pinterest">
+                        <span class="nav-icon">📌</span>
+                        <span class="nav-text">Pinterest Auto</span>
+                        <span class="nav-badge" id="pinterest-count">0</span>
+                    </a>       
+                </div>
+                
+                <!-- Section Mode Master -->
+                <div class="nav-section" id="master-nav" style="display: none;">
+                    <div class="nav-title">Gestion Multi-Sites</div>
+                    <a class="nav-item" onclick="showSection('sites')" data-section="sites">
+                        <span class="nav-icon">◼</span>
+                        <span class="nav-text">Mes Sites</span>
+                        <span class="nav-badge" id="sites-count">0</span>
+                    </a>
+                    <a class="nav-item" onclick="showSection('monitoring')" data-section="monitoring">
+                        <span class="nav-icon">▣</span>
+                        <span class="nav-text">Monitoring</span>
+                    </a>
+                </div>
+
+                <!-- Section Expert -->
+                <div class="nav-section">
+                    <div class="nav-title">Expert</div>
+                    <a class="nav-item" onclick="showSection('yaml')" data-section="yaml">
+                        <span class="nav-icon">◈</span>
+                        <span class="nav-text">Mode YAML</span>
+                    </a>
+                </div>
+            </nav>
+        </aside>
+
+        <!-- Contenu Principal -->
+        <main class="main-content">
+            <!-- Header -->
+            <header class="header">
+                <div class="header-left">
+                    <div class="site-info">
+                        <h1 id="site-name">Chargement...</h1>
+                        <div class="site-badge" id="site-badge">...</div>
+                    </div>
+                    <div class="page-info">
+                        <h2 id="page-title">Tableau de Bord</h2>
+                        <div class="page-subtitle" id="page-subtitle">Vue d'ensemble de votre site</div>
+                    </div>
+                </div>
+                <div class="status-bar">
+                    <div class="status-item">
+                        <div class="status-dot success"></div>
+                        <span>En ligne</span>
+                    </div>
+                    <div class="status-item" id="config-status">
+                        <div class="status-dot warning"></div>
+                        <span>Configuration...</span>
+                    </div>
+                </div>
+            </header>
+
+            <!-- Contenu -->
+            <div class="content">
+                
+                <!-- Dashboard -->
+                <section id="section-dashboard" class="section active">
+                    <div class="dashboard-grid">
+                        <div class="stat-card">
+                            <div class="stat-number" id="fields-count">Chargement</div>
+                            <div class="stat-label">Champs Configurables</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number" id="modified-count">0</div>
+                            <div class="stat-label">Modifications en Attente</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number" id="total-sites">1</div>
+                            <div class="stat-label">Sites Gérés</div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Actions Rapides</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="action-grid">
+                                <button class="btn btn-primary" onclick="quickEdit('identity')">Modifier l'Identité</button>
+                                <button class="btn btn-primary" onclick="quickEdit('design')">Changer les Couleurs</button>
+                                <button class="btn btn-success" onclick="loadConfig()">Recharger la Config</button>
+                                <button class="btn btn-success" onclick="saveAllChanges()" id="save-all-btn">Sauvegarder Tout</button>
+                                <button class="btn btn-primary" onclick="notifyGoogleForThisSite()">📊 Indexer sur Google</button>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Identité du Site -->
+                <section id="section-identity" class="section">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Informations Principales <span class="card-badge">6 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('identity')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Nom du Site
+                                        <div class="label-desc">Le nom principal qui apparaît partout</div>
+                                    </label>
+                                    <input type="text" class="input" id="site.name" data-field="site.name" data-section="identity" placeholder="Mon Site Web">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Slogan/Tagline
+                                        <div class="label-desc">Phrase accrocheuse sous le nom</div>
+                                    </label>
+                                    <input type="text" class="input" id="site.tagline" data-field="site.tagline" data-section="identity" placeholder="Expert & Créateur">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="label">
+                                    Description du Site
+                                    <div class="label-desc">Description complète pour le SEO</div>
+                                </label>
+                                <textarea class="input textarea" id="site.description" data-field="site.description" data-section="identity" rows="3" placeholder="Décrivez votre site en quelques phrases..."></textarea>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Auteur/Propriétaire
+                                        <div class="label-desc">Votre nom ou nom d'entreprise</div>
+                                    </label>
+                                    <input type="text" class="input" id="site.author" data-field="site.author" data-section="identity" placeholder="Jean Dupont">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Email de Contact
+                                        <div class="label-desc">Email principal visible publiquement</div>
+                                    </label>
+                                    <input type="email" class="input" id="site.email" data-field="site.email" data-section="identity" placeholder="contact@monsite.com">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="label">
+                                    Langue du Site
+                                    <div class="label-desc">Langue principale du contenu</div>
+                                </label>
+                                <select class="input" id="site.language" data-field="site.language" data-section="identity">
+                                    <option value="fr">Français</option>
+                                    <option value="en">English</option>
+                                    <option value="es">Español</option>
+                                    <option value="de">Deutsch</option>
+                                    <option value="it">Italiano</option>
+                                    <option value="pt">Português</option>
+                                    <option value="nl">Nederlands</option>
+                                    <option value="sv">Svenska</option>
+                                    <option value="da">Dansk</option>
+                                    <option value="no">Norsk</option>
+                                    <option value="fi">Suomi</option>
+                                    <option value="pl">Polski</option>
+                                    <option value="cs">Čeština</option>
+                                    <option value="hu">Magyar</option>
+                                    <option value="ru">Русский</option>
+                                    <option value="tr">Türkçe</option>
+                                    <option value="ar">العربية</option>
+                                    <option value="ja">日本語</option>
+                                    <option value="ko">한국어</option>
+                                </select>
+                            </div>
+                            <div class="form-group">
+                                <label class="label">
+                                    URL du Site
+                                    <div class="label-desc">Url (ex: https://monsite.com/)</div>
+                                </label>
+                                <input type="url" class="input" id="baseURL" data-field="baseURL" data-section="identity" placeholder="https://monsite.com/">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Réseaux Sociaux <span class="card-badge">7 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('identity')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Facebook
+                                        <div class="label-desc">URL complète de votre page</div>
+                                    </label>
+                                    <input type="url" class="input" id="social.facebook" data-field="social.facebook" data-section="identity" placeholder="https://facebook.com/votre-page">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Instagram
+                                        <div class="label-desc">URL complète de votre profil</div>
+                                    </label>
+                                    <input type="url" class="input" id="social.instagram" data-field="social.instagram" data-section="identity" placeholder="https://instagram.com/votre-profil">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Twitter/X
+                                        <div class="label-desc">URL complète de votre profil</div>
+                                    </label>
+                                    <input type="url" class="input" id="social.twitter" data-field="social.twitter" data-section="identity" placeholder="https://twitter.com/votre-profil">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Pinterest
+                                        <div class="label-desc">URL complète de votre profil</div>
+                                    </label>
+                                    <input type="url" class="input" id="social.pinterest" data-field="social.pinterest" data-section="identity" placeholder="https://pinterest.com/votre-profil">
+                                </div>
+                            </div>
+
+                            <h4 class="section-subtitle">Descriptions Réseaux Sociaux</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Description Pinterest
+                                        <div class="label-desc">Texte affiché sous Pinterest</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.social_descriptions.pinterest" data-field="footer.social_descriptions.pinterest" data-section="identity" placeholder="Suivez-nous sur Pinterest">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Description Instagram
+                                        <div class="label-desc">Texte affiché sous Instagram</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.social_descriptions.instagram" data-field="footer.social_descriptions.instagram" data-section="identity" placeholder="Nos créations visuelles">
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label class="label">
+                                    Description Facebook
+                                    <div class="label-desc">Texte affiché sous Facebook</div>
+                                </label>
+                                <input type="text" class="input" id="footer.social_descriptions.facebook" data-field="footer.social_descriptions.facebook" data-section="identity" placeholder="Rejoignez la communauté">
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Design & Couleurs -->
+                <section id="section-design" class="section">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Image de Marque <span class="card-badge">3 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('design')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label class="label">
+                                    Logo Texte
+                                    <div class="label-desc">Lettre ou texte court (ex: "M" pour "Mario")</div>
+                                </label>
+                                <input type="text" class="input" id="branding.logo_text" data-field="branding.logo_text" data-section="design" placeholder="M" maxlength="3">
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Principal - Ligne 1
+                                        <div class="label-desc">Première ligne du grand titre</div>
+                                    </label>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Palette de Couleurs <span class="card-badge">6 couleurs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('design')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="color-grid">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Couleur Principale
+                                        <div class="label-desc">Couleur de base de votre marque</div>
+                                    </label>
+                                    <input type="color" class="input color-input" id="colors.primary" data-field="colors.primary" data-section="design" value="#2d3748">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Couleur Foncée
+                                        <div class="label-desc">Version foncée (boutons actifs)</div>
+                                    </label>
+                                    <input type="color" class="input color-input" id="colors.primary_dark" data-field="colors.primary_dark" data-section="design" value="#1a202c">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Couleur Claire
+                                        <div class="label-desc">Version claire (arrière-plans)</div>
+                                    </label>
+                                    <input type="color" class="input color-input" id="colors.primary_light" data-field="colors.primary_light" data-section="design" value="#4a5568">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Couleur Secondaire
+                                        <div class="label-desc">Couleur d'accent</div>
+                                    </label>
+                                    <input type="color" class="input color-input" id="colors.secondary" data-field="colors.secondary" data-section="design" value="#e2e8f0">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Arrière-plan
+                                        <div class="label-desc">Couleur de fond principal</div>
+                                    </label>
+                                    <input type="color" class="input color-input" id="colors.background" data-field="colors.background" data-section="design" value="#ffffff">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Couleur du Texte
+                                        <div class="label-desc">Couleur du texte principal</div>
+                                    </label>
+                                    <input type="color" class="input color-input" id="colors.text" data-field="colors.text" data-section="design" value="#1a202c">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Contenu -->
+                <section id="section-content" class="section">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Section Hero <span class="card-badge">6 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('content')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label class="label">
+                                    Badge Texte
+                                    <div class="label-desc">Petit texte au-dessus du titre</div>
+                                </label>
+                                <input type="text" class="input" id="hero.badge_text" data-field="hero.badge_text" data-section="content" placeholder="Nouveau">
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre - Ligne 1
+                                        <div class="label-desc">Première ligne du titre principal</div>
+                                    </label>
+                                    <input type="text" class="input" id="hero.title_line1" data-field="hero.title_line1" data-section="content" placeholder="Bienvenue sur">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre - Ligne 2
+                                        <div class="label-desc">Deuxième ligne du titre principal</div>
+                                    </label>
+                                    <input type="text" class="input" id="hero.title_line2" data-field="hero.title_line2" data-section="content" placeholder="Notre Site">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Sous-titre
+                                        <div class="label-desc">Description sous le titre</div>
+                                    </label>
+                                    <input type="text" class="input" id="hero.subtitle" data-field="hero.subtitle" data-section="content" placeholder="Découvrez notre univers">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Sous-titre Highlight
+                                        <div class="label-desc">Partie mise en évidence du sous-titre</div>
+                                    </label>
+                                    <input type="text" class="input" id="hero.subtitle_highlight" data-field="hero.subtitle_highlight" data-section="content" placeholder="extraordinaire">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="label">
+                                    Texte Bouton Principal
+                                    <div class="label-desc">Texte du bouton d'action</div>
+                                </label>
+                                <input type="text" class="input" id="hero.cta_primary_text" data-field="hero.cta_primary_text" data-section="content" placeholder="Découvrir">
+                            </div>
+                            <div class="form-group">
+                                <label class="label">
+                                    Texte Bouton Secondaire
+                                    <div class="label-desc">Texte du bouton secondaire</div>
+                                </label>
+                                <input type="text" class="input" id="hero.cta_secondary_text" data-field="hero.cta_secondary_text" data-section="content" placeholder="Explorer les recettes">
+                            </div>                    
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Page d'Accueil <span class="card-badge">9 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('content')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <h4 class="section-subtitle">Derniers Articles</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Section
+                                        <div class="label-desc">Titre de la section derniers articles</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.latest_recipes.title" data-field="homepage.latest_recipes.title" data-section="content" placeholder="Derniers Articles">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Description Section
+                                        <div class="label-desc">Description sous le titre</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.latest_recipes.description" data-field="homepage.latest_recipes.description" data-section="content" placeholder="Découvrez nos dernières publications">
+                                </div>
+                            </div>
+
+                            <h4 class="section-subtitle">Articles Populaires</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Section
+                                        <div class="label-desc">Titre de la section articles populaires</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.popular_recipes.title" data-field="homepage.popular_recipes.title" data-section="content" placeholder="Articles Populaires">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Message Vide
+                                        <div class="label-desc">Message si aucun article populaire</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.popular_recipes.empty_message" data-field="homepage.popular_recipes.empty_message" data-section="content" placeholder="Aucun article populaire pour le moment">
+                                </div>
+                            </div>
+
+                            <h4 class="section-subtitle">Newsletter</h4>
+                            <div class="form-group">
+                                <label class="label">
+                                    Titre Newsletter
+                                    <div class="label-desc">Titre de la section newsletter</div>
+                                </label>
+                                <input type="text" class="input" id="homepage.newsletter.title" data-field="homepage.newsletter.title" data-section="content" placeholder="Restez informé">
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Description Newsletter
+                                        <div class="label-desc">Description de la newsletter</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.newsletter.description" data-field="homepage.newsletter.description" data-section="content" placeholder="Recevez nos dernières actualités">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Placeholder Email
+                                        <div class="label-desc">Texte dans le champ email</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.newsletter.email_placeholder" data-field="homepage.newsletter.email_placeholder" data-section="content" placeholder="Votre adresse email">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Texte Bouton Newsletter
+                                        <div class="label-desc">Texte du bouton d'inscription</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.newsletter.button_text" data-field="homepage.newsletter.button_text" data-section="content" placeholder="S'abonner">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Section Catégories
+                                        <div class="label-desc">Titre de la section catégories</div>
+                                    </label>
+                                    <input type="text" class="input" id="homepage.categories_section.title" data-field="homepage.categories_section.title" data-section="content" placeholder="Catégories">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Infos Chef <span class="card-badge">2 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('content')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Nom du Chef
+                                        <div class="label-desc">Nom affiché sur le site</div>
+                                    </label>
+                                    <input type="text" class="input" id="about_section.chef_name" data-field="about_section.chef_name" data-section="content" placeholder="Amelia Feuss">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Alt Image Chef
+                                        <div class="label-desc">Description de l'image pour l'accessibilité</div>
+                                    </label>
+                                    <input type="text" class="input" id="about_section.image_alt" data-field="about_section.image_alt" data-section="content" placeholder="Portrait d'Amelia Feuss">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+                <!-- Interface -->
+                <section id="section-interface" class="section">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Navigation <span class="card-badge">10 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('interface')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <h4 class="section-subtitle">Éléments de Menu</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Menu Accueil
+                                        <div class="label-desc">Texte du lien accueil</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.menu_items.home" data-field="navigation.menu_items.home" data-section="interface" placeholder="Accueil">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Menu Articles
+                                        <div class="label-desc">Texte du lien articles</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.menu_items.recipes" data-field="navigation.menu_items.recipes" data-section="interface" placeholder="Articles">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Menu Catégories
+                                        <div class="label-desc">Texte du lien catégories</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.menu_items.categories" data-field="navigation.menu_items.categories" data-section="interface" placeholder="Catégories">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Menu À Propos
+                                        <div class="label-desc">Texte du lien à propos</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.menu_items.about" data-field="navigation.menu_items.about" data-section="interface" placeholder="À Propos">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="label">
+                                    Menu Contact
+                                    <div class="label-desc">Texte du lien contact</div>
+                                </label>
+                                <input type="text" class="input" id="navigation.menu_items.contact" data-field="navigation.menu_items.contact" data-section="interface" placeholder="Contact">
+                            </div>
+
+                            <h4 class="section-subtitle">Titres de Pages</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page Accueil
+                                        <div class="label-desc">Titre de la page d'accueil</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.page_titles.home" data-field="navigation.page_titles.home" data-section="interface" placeholder="Accueil">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page Articles
+                                        <div class="label-desc">Titre de la page articles</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.page_titles.recipes" data-field="navigation.page_titles.recipes" data-section="interface" placeholder="Tous les Articles">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page Catégories
+                                        <div class="label-desc">Titre de la page catégories</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.page_titles.categories" data-field="navigation.page_titles.categories" data-section="interface" placeholder="Catégories">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page À Propos
+                                        <div class="label-desc">Titre de la page à propos</div>
+                                    </label>
+                                    <input type="text" class="input" id="navigation.page_titles.about" data-field="navigation.page_titles.about" data-section="interface" placeholder="À Propos de Nous">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="label">
+                                    Titre Page Contact
+                                    <div class="label-desc">Titre de la page contact</div>
+                                </label>
+                                <input type="text" class="input" id="navigation.page_titles.contact" data-field="navigation.page_titles.contact" data-section="interface" placeholder="Nous Contacter">
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Header & Recherche <span class="card-badge">4 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('interface')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Placeholder Recherche
+                                        <div class="label-desc">Texte dans le champ de recherche</div>
+                                    </label>
+                                    <input type="text" class="input" id="header.search_placeholder" data-field="header.search_placeholder" data-section="interface" placeholder="Rechercher...">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Placeholder Mobile
+                                        <div class="label-desc">Texte recherche sur mobile</div>
+                                    </label>
+                                    <input type="text" class="input" id="header.search_placeholder_mobile" data-field="header.search_placeholder_mobile" data-section="interface" placeholder="Recherche">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Texte Bouton Suivre
+                                        <div class="label-desc">Texte du bouton de suivi</div>
+                                    </label>
+                                    <input type="text" class="input" id="header.follow_button_text" data-field="header.follow_button_text" data-section="interface" placeholder="Suivre">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Label Menu (Accessibilité)
+                                        <div class="label-desc">Label aria pour le menu</div>
+                                    </label>
+                                    <input type="text" class="input" id="header.menu_aria_label" data-field="header.menu_aria_label" data-section="interface" placeholder="Menu principal">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Composants de Recherche <span class="card-badge">4 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('interface')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Message Aucun Résultat
+                                        <div class="label-desc">Message si aucun résultat trouvé</div>
+                                    </label>
+                                    <input type="text" class="input" id="components.search.no_results" data-field="components.search.no_results" data-section="interface" placeholder="Aucun résultat trouvé">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Message Chargement
+                                        <div class="label-desc">Message pendant le chargement</div>
+                                    </label>
+                                    <input type="text" class="input" id="components.search.loading" data-field="components.search.loading" data-section="interface" placeholder="Recherche en cours...">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Label Effacer
+                                        <div class="label-desc">Label du bouton effacer</div>
+                                    </label>
+                                    <input type="text" class="input" id="components.search.clear_label" data-field="components.search.clear_label" data-section="interface" placeholder="Effacer">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Emoji Aucun Résultat
+                                        <div class="label-desc">Emoji affiché si aucun résultat</div>
+                                    </label>
+                                    <input type="text" class="input" id="components.search.no_results_emoji" data-field="components.search.no_results_emoji" data-section="interface" placeholder="🔍" maxlength="2">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Pages & Contenus -->
+                <section id="section-pages" class="section">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Pages de Listing <span class="card-badge">6 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('pages')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page Articles
+                                        <div class="label-desc">Titre de la page de tous les articles</div>
+                                    </label>
+                                    <input type="text" class="input" id="list_pages.recipes_title" data-field="list_pages.recipes_title" data-section="pages" placeholder="Tous nos Articles">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Description Page Articles
+                                        <div class="label-desc">Description de la page articles</div>
+                                    </label>
+                                    <input type="text" class="input" id="list_pages.recipes_description" data-field="list_pages.recipes_description" data-section="pages" placeholder="Découvrez tous nos articles">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Préfixe Titre Catégorie
+                                        <div class="label-desc">Texte avant le nom de catégorie</div>
+                                    </label>
+                                    <input type="text" class="input" id="list_pages.categories_title_prefix" data-field="list_pages.categories_title_prefix" data-section="pages" placeholder="Catégorie :">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Message Aucun Article
+                                        <div class="label-desc">Message si aucun article dans la catégorie</div>
+                                    </label>
+                                    <input type="text" class="input" id="list_pages.no_recipes" data-field="list_pages.no_recipes" data-section="pages" placeholder="Aucun article dans cette catégorie">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Breadcrumb Accueil
+                                        <div class="label-desc">Texte accueil dans le fil d'ariane</div>
+                                    </label>
+                                    <input type="text" class="input" id="list_pages.breadcrumb.home" data-field="list_pages.breadcrumb.home" data-section="pages" placeholder="Accueil">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Breadcrumb Catégories
+                                        <div class="label-desc">Texte catégories dans le fil d'ariane</div>
+                                    </label>
+                                    <input type="text" class="input" id="list_pages.breadcrumb.categories" data-field="list_pages.breadcrumb.categories" data-section="pages" placeholder="Catégories">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Pages Spéciales <span class="card-badge">8 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('pages')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page Catégories
+                                        <div class="label-desc">Titre de la page catégories</div>
+                                    </label>
+                                    <input type="text" class="input" id="categories_page.title" data-field="categories_page.title" data-section="pages" placeholder="Toutes les Catégories">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page Tags
+                                        <div class="label-desc">Titre de la page de tous les tags</div>
+                                    </label>
+                                    <input type="text" class="input" id="tags_page.all_tags_title" data-field="tags_page.all_tags_title" data-section="pages" placeholder="Tous les Tags">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Préfixe Titre Tag
+                                        <div class="label-desc">Texte avant le nom du tag</div>
+                                    </label>
+                                    <input type="text" class="input" id="tags_page.title_prefix" data-field="tags_page.title_prefix" data-section="pages" placeholder="Tag :">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Message Aucun Article Tag
+                                        <div class="label-desc">Message si aucun article pour ce tag</div>
+                                    </label>
+                                    <input type="text" class="input" id="tags_page.no_recipes" data-field="tags_page.no_recipes" data-section="pages" placeholder="Aucun article avec ce tag">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page À Propos
+                                        <div class="label-desc">Titre de la page à propos complète</div>
+                                    </label>
+                                    <input type="text" class="input" id="about_page.title" data-field="about_page.title" data-section="pages" placeholder="À Propos de Nous">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Meta Description À Propos
+                                        <div class="label-desc">Description SEO de la page à propos</div>
+                                    </label>
+                                    <input type="text" class="input" id="about_page.meta_description" data-field="about_page.meta_description" data-section="pages" placeholder="Découvrez notre histoire et notre équipe">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Page Contact
+                                        <div class="label-desc">Titre principal de la page contact</div>
+                                    </label>
+                                    <input type="text" class="input" id="contact_page.title" data-field="contact_page.title" data-section="pages" placeholder="Contactez-nous">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Sous-titre Contact
+                                        <div class="label-desc">Sous-titre de la page contact</div>
+                                    </label>
+                                    <input type="text" class="input" id="contact_page.subtitle" data-field="contact_page.subtitle" data-section="pages" placeholder="Nous serions ravis de vous entendre">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Formulaire de Contact <span class="card-badge">4 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('pages')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Label Nom
+                                        <div class="label-desc">Label du champ nom</div>
+                                    </label>
+                                    <input type="text" class="input" id="contact_page.form.name_label" data-field="contact_page.form.name_label" data-section="pages" placeholder="Nom complet">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Label Email
+                                        <div class="label-desc">Label du champ email</div>
+                                    </label>
+                                    <input type="text" class="input" id="contact_page.form.email_label" data-field="contact_page.form.email_label" data-section="pages" placeholder="Adresse email">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Label Message
+                                        <div class="label-desc">Label du champ message</div>
+                                    </label>
+                                    <input type="text" class="input" id="contact_page.form.message_label" data-field="contact_page.form.message_label" data-section="pages" placeholder="Votre message">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Bouton Envoyer
+                                        <div class="label-desc">Texte du bouton d'envoi</div>
+                                    </label>
+                                    <input type="text" class="input" id="contact_page.form.submit_button" data-field="contact_page.form.submit_button" data-section="pages" placeholder="Envoyer le message">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Pages Légales <span class="card-badge">3 champs</span></h3>
+                            <div>
+                                <button class="btn btn-sm btn-success" onclick="saveSection('pages')">Sauvegarder cette section</button>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label class="label">
+                                    Mentions Légales
+                                    <div class="label-desc">Contenu complet des mentions légales</div>
+                                </label>
+                                <textarea class="input textarea" id="legal_pages.mentions_legales.content" data-field="legal_pages.mentions_legales.content" data-section="pages" rows="8" placeholder="Chargement depuis la configuration..."></textarea>
+                            </div>
+                    
+                            <div class="form-group">
+                                <label class="label">
+                                    Politique de Confidentialité
+                                    <div class="label-desc">Contenu complet de la politique de confidentialité</div>
+                                </label>
+                                <textarea class="input textarea" id="legal_pages.politique_confidentialite.content" data-field="legal_pages.politique_confidentialite.content" data-section="pages" rows="8" placeholder="Chargement depuis la configuration..."></textarea>
+                            </div>
+                    
+                            <div class="form-group">
+                                <label class="label">
+                                    Conditions d'Utilisation
+                                    <div class="label-desc">Contenu complet des conditions d'utilisation</div>
+                                </label>
+                                <textarea class="input textarea" id="legal_pages.conditions_utilisation.content" data-field="legal_pages.conditions_utilisation.content" data-section="pages" rows="8" placeholder="Chargement depuis la configuration..."></textarea>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Footer <span class="card-badge">19 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('pages')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label class="label">
+                                    Description Footer
+                                    <div class="label-desc">Description principale du footer</div>
+                                </label>
+                                <textarea class="input textarea" id="footer.description" data-field="footer.description" data-section="pages" rows="3" placeholder="Description de votre site dans le footer"></textarea>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Navigation Footer
+                                        <div class="label-desc">Titre de la section navigation</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.navigation_title" data-field="footer.navigation_title" data-section="pages" placeholder="Navigation">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Catégories Footer
+                                        <div class="label-desc">Titre de la section catégories</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.categories_title" data-field="footer.categories_title" data-section="pages" placeholder="Catégories">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Réseaux Sociaux
+                                        <div class="label-desc">Titre de la section réseaux sociaux</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.social_title" data-field="footer.social_title" data-section="pages" placeholder="Suivez-nous">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Titre Newsletter Footer
+                                        <div class="label-desc">Titre de la newsletter dans le footer</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.newsletter_title" data-field="footer.newsletter_title" data-section="pages" placeholder="Newsletter">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Description Newsletter Footer
+                                        <div class="label-desc">Description de la newsletter</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.newsletter_description" data-field="footer.newsletter_description" data-section="pages" placeholder="Restez informé de nos actualités">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Placeholder Newsletter Footer
+                                        <div class="label-desc">Placeholder du champ email</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.newsletter_placeholder" data-field="footer.newsletter_placeholder" data-section="pages" placeholder="Votre email">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Bouton Newsletter Footer
+                                        <div class="label-desc">Texte du bouton newsletter</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.newsletter_button" data-field="footer.newsletter_button" data-section="pages" placeholder="S'inscrire">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Tagline Copyright
+                                        <div class="label-desc">Phrase principale du copyright</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.copyright_tagline" data-field="footer.copyright_tagline" data-section="pages" placeholder="Tous droits réservés">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Préfixe Copyright
+                                        <div class="label-desc">Texte avant l'année (ex: Copyright)</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.copyright_prefix" data-field="footer.copyright_prefix" data-section="pages" placeholder="©">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Suffixe Copyright
+                                        <div class="label-desc">Texte après l'année</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.copyright_suffix" data-field="footer.copyright_suffix" data-section="pages" placeholder="- Tous droits réservés">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="label">
+                                    Label Retour Haut
+                                    <div class="label-desc">Texte du bouton retour en haut</div>
+                                </label>
+                                <input type="text" class="input" id="footer.scroll_top_label" data-field="footer.scroll_top_label" data-section="pages" placeholder="Retour en haut">
+                            </div>
+
+                            <h4 class="section-subtitle">Liens Légaux Footer</h4>
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Texte Lien Confidentialité
+                                        <div class="label-desc">Texte du lien vers la politique de confidentialité</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.legal_links_text.privacy" data-field="footer.legal_links_text.privacy" data-section="pages" placeholder="Confidentialité">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Texte Lien Conditions
+                                        <div class="label-desc">Texte du lien vers les conditions</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.legal_links_text.terms" data-field="footer.legal_links_text.terms" data-section="pages" placeholder="Conditions">
+                                </div>
+                            </div>
+
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Texte Lien Mentions Légales
+                                        <div class="label-desc">Texte du lien vers les mentions légales</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.legal_links_text.legal" data-field="footer.legal_links_text.legal" data-section="pages" placeholder="Mentions légales">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Texte Lien Contact Footer
+                                        <div class="label-desc">Texte du lien contact dans le footer</div>
+                                    </label>
+                                    <input type="text" class="input" id="footer.legal_links_text.contact" data-field="footer.legal_links_text.contact" data-section="pages" placeholder="Contact">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Système de Catégories <span class="card-badge">3 champs</span></h3>
+                            <button class="btn btn-sm btn-success" onclick="saveSection('pages')">Sauvegarder cette section</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-row">
+                                <div class="form-group">
+                                    <label class="label">
+                                        Type de Site
+                                        <div class="label-desc">Type principal du site (ex: blog, recettes)</div>
+                                    </label>
+                                    <input type="text" class="input" id="categories_system.site_type" data-field="categories_system.site_type" data-section="pages" placeholder="blog">
+                                </div>
+                                <div class="form-group">
+                                    <label class="label">
+                                        Section Principale
+                                        <div class="label-desc">Nom de la section principale</div>
+                                    </label>
+                                    <input type="text" class="input" id="categories_system.main_section" data-field="categories_system.main_section" data-section="pages" placeholder="articles">
+                                </div>
+                            </div>
+
+                            <div class="form-group">
+                                <label class="label">
+                                    Titre Section
+                                    <div class="label-desc">Titre affiché pour la section</div>
+                                </label>
+                                <input type="text" class="input" id="categories_system.section_title" data-field="categories_system.section_title" data-section="pages" placeholder="Articles">
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Sites (Mode Master uniquement) -->
+                <section id="section-sites" class="section">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Gestion des Sites</h3>
+                            <button class="btn btn-sm btn-primary" onclick="refreshSites()">Actualiser la Liste</button>
+                        </div>
+                        <div class="card-body">
+                            <div class="sites-grid" id="sites-grid">
+                                <!-- Sites chargés dynamiquement -->
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Monitoring -->
+                <section id="section-monitoring" class="section">
+                    <div class="dashboard-grid">
+                        <div class="stat-card">
+                            <div class="stat-number" id="monitor-sites">-</div>
+                            <div class="stat-label">Sites Actifs</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number" id="monitor-deploys">-</div>
+                            <div class="stat-label">Déploiements Aujourd'hui</div>
+                        </div>
+                        <div class="stat-card">
+                            <div class="stat-number" id="monitor-uptime">-</div>
+                            <div class="stat-label">Disponibilité</div>
+                        </div>
+                    </div>
+
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">État des Services</h3>
+                        </div>
+                        <div class="card-body">
+                            <div class="status-bar">
+                                <div class="status-item">
+                                    <div class="status-dot success"></div>
+                                    <span>GitHub API</span>
+                                </div>
+                                <div class="status-item">
+                                    <div class="status-dot success"></div>
+                                    <span>Cloudflare Workers</span>
+                                </div>
+                                <div class="status-item">
+                                    <div class="status-dot success"></div>
+                                    <span>GitHub Pages</span>
+                                </div>
+                                <div class="status-item">
+                                    <div class="status-dot warning"></div>
+                                    <span>Configuration API</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+
+                <!-- Mode YAML -->
+                <section id="section-yaml" class="section">
+                    <div class="card">
+                        <div class="card-header">
+                            <h3 class="card-title">Configuration YAML</h3>
+                            <div>
+                                <button class="btn btn-sm btn-secondary" onclick="loadYamlConfig()">Charger</button>
+                                <button class="btn btn-sm btn-secondary" onclick="copyYamlConfig()">Copier</button>
+                                <button class="btn btn-sm btn-secondary" onclick="downloadYamlConfig()">Télécharger</button>
+                                <button class="btn btn-sm btn-success" onclick="saveYamlConfig()">Sauvegarder</button>
+                            </div>
+                        </div>
+                        <div class="card-body">
+                            <div class="form-group">
+                                <label class="label">
+                                    Configuration Complète
+                                    <div class="label-desc">Modifiez directement la configuration YAML. Sauvegardez pour appliquer les changements.</div>
+                                </label>
+                                <textarea id="yaml-content" placeholder="# Chargez la configuration existante ou collez votre YAML ici
+
+site:
+  name: &quot;Mon Site&quot;
+  tagline: &quot;Expert &amp; Créateur&quot;
+  description: &quot;Description de mon site&quot;
+
+colors:
+  primary: &quot;#2d3748&quot;
+  secondary: &quot;#e2e8f0&quot;
+
+# ... configuration complète
+"></textarea>
+                            </div>
+                        </div>
+                    </div>
+                </section>
+            </div>
+        </main>
+    </div>
+
+    <!-- Modal Nouveau Site -->
+    <div class="modal" id="new-site-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 class="modal-title">Créer un Nouveau Site</h3>
+                <button class="modal-close" onclick="closeNewSiteModal()">&times;</button>
+            </div>
+            <div class="modal-body">
+               <form id="new-site-form">
+                   <div class="form-group">
+                       <label class="label">
+                           Niche du Site
+                           <div class="label-desc">Catégorie de votre site pour optimiser le contenu</div>
+                       </label>
+                       <select class="input" id="new-site-niche" required>
+                           <option value="">Sélectionnez une niche...</option>
+                           <option value="restaurant">Restaurant & Gastronomie</option>
+                           <option value="blog">Blog Personnel</option>
+                           <option value="business">Business & Entreprise</option>
+                           <option value="real-estate">Immobilier</option>
+                           <option value="beauty">Beauté & Wellness</option>
+                           <option value="ecommerce">E-commerce</option>
+                           <option value="marketing">Marketing & SEO</option>
+                           <option value="finance">Finance & Crypto</option>
+                           <option value="health">Santé & Médecine</option>
+                           <option value="education">Éducation & Formation</option>
+                           <option value="legal">Juridique & Droit</option>
+                           <option value="tech">Tech & SaaS</option>
+                           <option value="portfolio">Portfolio Créatif</option>
+                           <option value="news">News & Média</option>
+                           <option value="gaming">Gaming & Divertissement</option>
+                           <option value="other">Autre</option>
+                       </select>
+                   </div>
+               
+                   <div class="form-group" id="custom-niche-group" style="display: none;">
+                       <label class="label">
+                           Niche Personnalisée
+                           <div class="label-desc">Décrivez votre niche en quelques mots</div>
+                       </label>
+                       <input type="text" class="input" id="new-custom-niche" placeholder="Ma niche spécifique...">
+                   </div>
+               
+                   <div class="form-group">
+                       <label class="label">Configuration du domaine</label>
+                       
+                       <!-- Boutons toggle -->
+                       <div style="display: flex; gap: 10px; margin-bottom: 15px;">
+                           <button type="button" class="domain-toggle active" data-type="auto" onclick="selectDomainType('auto')">
+                               🔄 Automatique
+                           </button>
+                           <button type="button" class="domain-toggle" data-type="new" onclick="selectDomainType('new')">
+                               🌐 Nouveau domaine
+                           </button>
+                           <button type="button" class="domain-toggle" data-type="subdomain" onclick="selectDomainType('subdomain')">
+                               📂 Sous-domaine
+                           </button>
+                       </div>
+                       
+                       <!-- Config automatique -->
+                       <div id="auto-config" class="domain-config">
+                           <div style="padding: 15px; background: #e3f2fd; border-radius: 8px; text-align: center;">
+                               🔄 Domaine automatique (.workers.dev)
+                           </div>
+                       </div>
+                       
+                       <!-- Config nouveau domaine -->
+                       <div id="new-config" class="domain-config hidden">
+                           <select class="input" id="new-site-domain">
+                               <option value="">Choisir un domaine libre...</option>
+                           </select>
+                       </div>
+                       
+                       <!-- Config sous-domaine -->
+                       <div id="subdomain-config" class="domain-config hidden">
+                           <div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
+                               <input type="text" class="input" id="subdomain-prefix" placeholder="Nom du site" style="flex: 1;">
+                               <span style="font-weight: bold;">.</span>
+                               <select class="input" id="parent-domain" style="flex: 1;">
+                                   <option value="">Choisir domaine parent...</option>
+                               </select>
+                           </div>
+                           <div style="padding: 10px; background: #f8f9fa; border-radius: 6px; font-family: monospace; color: #28a745; text-align: center;" id="subdomain-preview">
+                               Résultat : nom-du-site.domaine-parent.com
+                           </div>
+                       </div>
+                   </div>
+               
+                   <div class="form-group" id="site-name-group">
+                       <label class="label">
+                           <span id="site-name-label">Nom du Site</span>
+                           <div class="label-desc" id="site-name-desc">Le nom qui apparaîtra sur votre site</div>
+                       </label>
+                       <input type="text" class="input" id="new-site-name" required placeholder="Mon Site Web">
+                   </div>
+               
+                   <input type="hidden" id="new-repo-name">
+                   <input type="hidden" id="new-site-language" value="fr">
+               
+                   <div class="form-actions">
+                       <button type="button" class="btn btn-primary" onclick="createNewSite()">Créer le Site</button>
+                       <button type="button" class="btn btn-secondary" onclick="closeNewSiteModal()">Annuler</button>
+                   </div>
+               </form>
+            </div>
+        </div>
+    </div>
+
+    <script>
+    if (!window.location.pathname.endsWith('/')) {
+      window.location.replace(window.location.href + '/');
+    }
+    const CONFIG = {
+        API_BASE: 'https://blog-config-api.kasri-elmehdi.workers.dev/api',
+        ADMIN_MODE: {
+            MASTER: 'master',
+            CLONE: 'clone'
+        }
+    };
+    
+    // Langues supportées (simple et professionnel)
+    const SUPPORTED_LANGUAGES = [
+        { code: 'fr', name: 'Français' },
+        { code: 'en', name: 'English' },
+        { code: 'es', name: 'Español' },
+        { code: 'de', name: 'Deutsch' },
+        { code: 'it', name: 'Italiano' },
+        { code: 'pt', name: 'Português' },
+        { code: 'nl', name: 'Nederlands' },
+        { code: 'sv', name: 'Svenska' },
+        { code: 'da', name: 'Dansk' },
+        { code: 'no', name: 'Norsk' },
+        { code: 'fi', name: 'Suomi' },
+        { code: 'pl', name: 'Polski' },
+        { code: 'cs', name: 'Čeština' },
+        { code: 'hu', name: 'Magyar' },
+        { code: 'ru', name: 'Русский' },
+        { code: 'tr', name: 'Türkçe' },
+        { code: 'ar', name: 'العربية' },
+        { code: 'ja', name: '日本語' },
+        { code: 'ko', name: '한국어' }
+    ];
+    
+    // État global
+    let currentConfig = {};
+    let modifiedFields = new Set();
+    let originalValues = new Map();
+    let adminMode = null;
+    let sitesData = {};
+    let totalFields = 0;
+    
+    // =========================================
+    // INITIALISATION
+    // =========================================
+    document.addEventListener('DOMContentLoaded', function() {
+        console.log('Administration initialisée');
+        
+        setupResponsive();
+        createOverlay();
+        detectAdminMode();
+        loadConfig();
+        setupGlobalEvents();
+        setupKeyboardShortcuts();
+        
+        // 🆕 RESTAURER LA PAGE ACTIVE
+        const savedPage = localStorage.getItem('admin_current_page');
+        if (savedPage && savedPage !== 'dashboard') {
+            // Attendre que tout soit chargé
+            setTimeout(() => {
+                showSection(savedPage);
+            }, 500);
+        }
+        
+        setTimeout(() => {
+            initializeNewSiteModal();
+            setupTouchEvents();
+        }, 1000);
+    });
+    
+    // =========================================
+    // DÉTECTION MODE ADMIN & SITE INFO
+    // =========================================
+    function detectAdminMode() {
+        const hostname = window.location.hostname;
+        const modeBadge = document.getElementById('mode-badge');
+        const masterNav = document.getElementById('master-nav');
+        const siteNameEl = document.getElementById('site-name');
+        const siteBadgeEl = document.getElementById('site-badge');
+        
+        const siteName = hostname.replace('.pages.dev', '').replace('.workers.dev', '').replace('.kasri-elmehdi.workers.dev', '');
+        if (siteNameEl) siteNameEl.textContent = siteName || 'Site Local';
+        if (siteBadgeEl) siteBadgeEl.textContent = hostname;
+        
+        if (hostname.includes('recettes-blog-test') || hostname.includes('localhost')) {
+            adminMode = CONFIG.ADMIN_MODE.MASTER;
+            modeBadge.textContent = 'Site Principal';
+            modeBadge.className = 'mode-badge master';
+            if (masterNav) masterNav.style.display = 'block';
+            console.log('Mode MASTER détecté');
+        } else {
+            adminMode = CONFIG.ADMIN_MODE.CLONE;
+            modeBadge.textContent = 'Site Dérivé';
+            modeBadge.className = 'mode-badge clone';
+            if (masterNav) masterNav.style.display = 'none';
+            console.log('Mode CLONE détecté');
+        }
+    }
+    
+    // =========================================
+    // GESTION RESPONSIVE
+    // =========================================
+    function setupResponsive() {
+        let isMobile = window.innerWidth < 1024;
+        
+        handleResponsiveChange(isMobile);
+        
+        window.addEventListener('resize', debounce(() => {
+            const newIsMobile = window.innerWidth < 1024;
+            if (newIsMobile !== isMobile) {
+                isMobile = newIsMobile;
+                handleResponsiveChange(isMobile);
+            }
+        }, 250));
+    }
+    
+    function handleResponsiveChange(isMobile) {
+        const sidebar = document.getElementById('sidebar');
+        const overlay = document.getElementById('sidebar-overlay');
+        
+        if (isMobile) {
+            sidebar?.classList.remove('collapsed');
+            sidebar?.classList.remove('mobile-open');
+            overlay?.classList.remove('active');
+            document.body.style.overflow = '';
+        } else {
+            sidebar?.classList.remove('mobile-open');
+            overlay?.classList.remove('active');
+            document.body.style.overflow = '';
+        }
+    }
+    
+    function setupTouchEvents() {
+        let startX = 0;
+        let startY = 0;
+        
+        document.addEventListener('touchstart', (e) => {
+            startX = e.touches[0].clientX;
+            startY = e.touches[0].clientY;
+        }, { passive: true });
+        
+        document.addEventListener('touchmove', (e) => {
+            if (!startX || !startY) return;
+            
+            const currentX = e.touches[0].clientX;
+            const currentY = e.touches[0].clientY;
+            const diffX = startX - currentX;
+            const diffY = startY - currentY;
+            
+            if (Math.abs(diffX) > Math.abs(diffY) && Math.abs(diffX) > 50) {
+                const isMobile = window.innerWidth < 1024;
+                if (!isMobile) return;
+                
+                const sidebar = document.getElementById('sidebar');
+                
+                if (diffX > 0 && startX < 50) {
+                    toggleSidebar();
+                } else if (diffX < 0 && sidebar?.classList.contains('mobile-open')) {
+                    closeSidebar();
+                }
+                
+                startX = 0;
+                startY = 0;
+            }
+        }, { passive: true });
+    }
+    
+    // =========================================
+    // CHARGEMENT CONFIGURATION
+    // =========================================
+    async function loadConfig() {
+       showLoading('Chargement de la configuration');
+       
+       try {
+           const response = await fetch(`${CONFIG.API_BASE}/get-config`);
+    
+           if (!response.ok) {
+               throw new Error(`Erreur HTTP: ${response.status}`);
+           }
+    
+           const result = await response.json();
+           
+              
+           console.log('🔍 DEBUG COMPTAGE:');
+           console.log('result.config:', result.config);
+           console.log('Object.keys(result.config):', Object.keys(result.config));
+           console.log('Length:', Object.keys(result.config).length);
+           
+           if (result.success && result.config) {
+               currentConfig = result.config;
+               totalFields = Object.keys(result.config).length;
+               
+               populateFormFields(result.config);
+               updateFieldsCount(totalFields);
+               updateConfigStatus('success', 'Configuration chargée');
+               showToast('Configuration chargée avec succès', 'success');
+               
+               if (result.config['site.name']) {
+                   const siteNameEl = document.getElementById('site-name');
+                   if (siteNameEl) siteNameEl.textContent = result.config['site.name'];
+               }
+               
+               // ✅ AJOUT : Charger baseURL
+               if (result.config['baseURL']) {
+                   const baseURLField = document.getElementById('baseURL');
+                   if (baseURLField) {
+                       baseURLField.value = result.config['baseURL'];
+                       // Ajouter aux valeurs originales pour la détection de modification
+                       originalValues.set('baseURL', result.config['baseURL']);
+                   }
+               }
+               
+           } else {
+               throw new Error(result.error || 'Erreur lors du chargement');
+           }
+    
+       } catch (error) {
+           console.error('Erreur loadConfig:', error);
+           updateConfigStatus('danger', 'Erreur configuration');
+           
+           if (error.message.includes('fetch')) {
+               showToast('Impossible de contacter le serveur', 'error');
+           } else {
+               showToast('Erreur: ' + error.message, 'error');
+           }
+       } finally {
+           hideLoading();
+       }
+    }
+    
+    // =========================================
+    // REMPLISSAGE DES FORMULAIRES
+    // =========================================
+    function populateFormFields(config) {
+        console.log('Remplissage des champs');
+        
+        originalValues.clear();
+        
+        Object.entries(config).forEach(([fieldName, value]) => {
+            const field = document.getElementById(fieldName);
+            if (field) {
+                field.value = value;
+                field.classList.remove('modified');
+                originalValues.set(fieldName, value);
+            } else {
+                console.warn(`Champ non trouvé: ${fieldName}`);
+            }
+        });
+    
+        modifiedFields.clear();
+        updateSaveFab();
+        updateModifiedCount();
+    }
+    
+    // =========================================
+    // GESTION DES MODIFICATIONS
+    // =========================================
+    function setupGlobalEvents() {
+        document.querySelectorAll('[data-field]').forEach(field => {
+            if (!originalValues.has(field.dataset.field)) {
+                originalValues.set(field.dataset.field, field.value);
+            }
+            
+            field.addEventListener('input', function() {
+                checkFieldModification(this);
+            });
+            
+            field.addEventListener('change', function() {
+                checkFieldModification(this);
+            });
+        });
+    
+        const modal = document.getElementById('new-site-modal');
+        if (modal) {
+            modal.addEventListener('click', function(e) {
+                if (e.target === modal) {
+                    closeNewSiteModal();
+                }
+            });
+        }
+    
+        const newSiteForm = document.getElementById('new-site-form');
+        if (newSiteForm) {
+            newSiteForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                createNewSite();
+            });
+        }
+    }
+    
+    function checkFieldModification(field) {
+        const fieldName = field.dataset.field;
+        if (!fieldName) return;
+        
+        const originalValue = originalValues.get(fieldName) || '';
+        const currentValue = field.value;
+        
+        if (currentValue !== originalValue) {
+            if (!modifiedFields.has(fieldName)) {
+                modifiedFields.add(fieldName);
+                field.classList.add('modified');
+                console.log(`Modifié: ${fieldName}`);
+            }
+        } else {
+            if (modifiedFields.has(fieldName)) {
+                modifiedFields.delete(fieldName);
+                field.classList.remove('modified');
+                console.log(`Restauré: ${fieldName}`);
+            }
+        }
+        
+        updateSaveFab();
+        updateModifiedCount();
+    }
+    
+    function updateSaveFab() {
+        const saveAllBtn = document.getElementById('save-all-btn');
+        
+        if (modifiedFields.size > 0) {
+            if (saveAllBtn) {
+                saveAllBtn.style.background = 'var(--warning)';
+                saveAllBtn.textContent = `Sauvegarder (${modifiedFields.size})`;
+            }
+        } else {
+            if (saveAllBtn) {
+                saveAllBtn.style.background = 'var(--success)';
+                saveAllBtn.textContent = 'Sauvegarder Tout';
+            }
+        }
+    }
+    
+    function updateModifiedCount() {
+        const countEl = document.getElementById('modified-count');
+        if (countEl) {
+            countEl.textContent = modifiedFields.size;
+        }
+    }
+    
+    function updateFieldsCount(count) {
+        const countEl = document.getElementById('fields-count');
+        if (countEl) {
+            countEl.textContent = count || 'Chargement';
+        }
+    }
+    
+    // =========================================
+    // SAUVEGARDE PAR SECTION
+    // =========================================
+    async function saveSection(sectionName) {
+        const sectionFields = Array.from(modifiedFields).filter(fieldName => {
+            const field = document.getElementById(fieldName);
+            return field && field.dataset.section === sectionName;
+        });
+        
+        if (sectionFields.length === 0) {
+            showToast('Aucune modification dans cette section', 'warning');
+            return;
+        }
+        
+        showLoading(`Sauvegarde de la section ${sectionName}`);
+        
+        try {
+            const fieldsToSave = {};
+            
+            sectionFields.forEach(fieldName => {
+                const field = document.getElementById(fieldName);
+                if (field && field.value.trim()) {
+                    fieldsToSave[fieldName] = field.value.trim();
+                }
+            });
+    
+            console.log('Sauvegarde section:', fieldsToSave);
+    
+            const response = await fetch(`${CONFIG.API_BASE}/update-config`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(fieldsToSave)
+            });
+    
+            if (!response.ok) {
+                const errorData = await response.json();
+                throw new Error(errorData.error || `Erreur HTTP: ${response.status}`);
+            }
+    
+            const result = await response.json();
+            console.log('Sauvegarde section réussie:', result);
+    
+            sectionFields.forEach(fieldName => {
+                const field = document.getElementById(fieldName);
+                if (field) {
+                    field.classList.remove('modified');
+                    modifiedFields.delete(fieldName);
+                    originalValues.set(fieldName, field.value);
+                }
+            });
+    
+            updateSaveFab();
+            updateModifiedCount();
+            updateConfigStatus('success', 'Section sauvegardée');
+            
+            showToast(`Section ${sectionName} sauvegardée (${Object.keys(fieldsToSave).length} champs)`, 'success');
+    
+        } catch (error) {
+            console.error('Erreur sauvegarde section:', error);
+            showToast('Erreur lors de la sauvegarde: ' + error.message, 'error');
+        } finally {
+            hideLoading();
+        }
+    }
+    
+    // =========================================
+    // SAUVEGARDE GLOBALE
+    // =========================================
+    async function saveAllChanges() {
+        if (modifiedFields.size === 0) {
+            showToast('Aucune modification à sauvegarder', 'warning');
+            return;
+        }
+    
+        showLoading(`Sauvegarde de ${modifiedFields.size} modifications`);
+    
+        try {
+            const fieldsToSave = {};
+            
+            modifiedFields.forEach(fieldName => {
+                const field = document.getElementById(fieldName);
+                if (field && field.value.trim()) {
+                    fieldsToSave[fieldName] = field.value.trim();
+                }
+            });
+    
+            console.log('Sauvegarde globale:', fieldsToSave);
+    
+            const response = await fetch(`${CONFIG.API_BASE}/update-config`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(fieldsToSave)
+            });
+    
+            if (!response.ok) {
+                const errorData = await response.json();
+                throw new Error(errorData.error || `Erreur HTTP: ${response.status}`);
+            }
+    
+            const result = await response.json();
+            console.log('Sauvegarde globale réussie:', result);
+    
+            modifiedFields.forEach(fieldName => {
+                const field = document.getElementById(fieldName);
+                if (field) {
+                    field.classList.remove('modified');
+                    originalValues.set(fieldName, field.value);
+                }
+            });
+    
+            modifiedFields.clear();
+            updateSaveFab();
+            updateModifiedCount();
+            updateConfigStatus('success', 'Sauvegardé');
+            
+            showToast(`${Object.keys(fieldsToSave).length} modifications sauvegardées`, 'success');
+    
+        } catch (error) {
+            console.error('Erreur sauvegarde globale:', error);
+            showToast('Erreur lors de la sauvegarde: ' + error.message, 'error');
+        } finally {
+            hideLoading();
+        }
+    }
+    
+    // =========================================
+    // NAVIGATION
+    // =========================================
+    function showSection(sectionName) {
+        console.log(`Affichage section: ${sectionName}`);
+    
+        document.querySelectorAll('.section').forEach(section => {
+            section.classList.remove('active');
+        });
+    
+        document.querySelectorAll('.nav-item').forEach(item => {
+            item.classList.remove('active');
+        });
+    
+        const targetSection = document.getElementById(`section-${sectionName}`);
+        if (targetSection) {
+            targetSection.classList.add('active');
+        }
+    
+        const activeNavItem = document.querySelector(`[data-section="${sectionName}"]`);
+        if (activeNavItem) {
+            activeNavItem.classList.add('active');
+        }
+    
+        updatePageHeader(sectionName);
+    
+        // 🆕 SAUVEGARDER LA PAGE COURANTE
+        localStorage.setItem('admin_current_page', sectionName);
+    
+        if (sectionName === 'sites' && adminMode === CONFIG.ADMIN_MODE.MASTER) {
+            loadSites();
+        }
+    }
+    
+    function updatePageHeader(sectionName) {
+        const titles = {
+            'dashboard': { title: 'Tableau de Bord', subtitle: 'Vue d\'ensemble de votre site' },
+            'identity': { title: 'Identité du Site', subtitle: 'Informations principales et réseaux sociaux' },
+            'design': { title: 'Design & Couleurs', subtitle: 'Image de marque et palette de couleurs' },
+            'content': { title: 'Contenu', subtitle: 'Textes de la page d\'accueil et sections' },
+            'interface': { title: 'Interface', subtitle: 'Navigation, menus et textes d\'interface' },
+            'pages': { title: 'Pages & Contenus', subtitle: 'Pages légales et contenus complets' },
+            'sites': { title: 'Gestion des Sites', subtitle: 'Créer et gérer vos sites multiples' },
+            'monitoring': { title: 'Monitoring', subtitle: 'Surveillance en temps réel de vos sites' },
+            'yaml': { title: 'Mode Expert YAML', subtitle: 'Configuration avancée directe' }
+        };
+    
+        const pageData = titles[sectionName] || { title: 'Administration', subtitle: 'Interface d\'administration' };
+        
+        const titleEl = document.getElementById('page-title');
+        const subtitleEl = document.getElementById('page-subtitle');
+        
+        if (titleEl) titleEl.textContent = pageData.title;
+        if (subtitleEl) subtitleEl.textContent = pageData.subtitle;
+    }
+    
+    function toggleSidebar() {
+        const sidebar = document.getElementById('sidebar');
+        const overlay = document.getElementById('sidebar-overlay') || createOverlay();
+        const isMobile = window.innerWidth < 1024;
+        
+        if (isMobile) {
+            sidebar?.classList.toggle('mobile-open');
+            overlay?.classList.toggle('active');
+            document.body.style.overflow = sidebar?.classList.contains('mobile-open') ? 'hidden' : '';
+        } else {
+            sidebar?.classList.toggle('collapsed');
+            const toggleIcon = document.getElementById('toggle-icon');
+            if (toggleIcon) {
+                toggleIcon.textContent = sidebar?.classList.contains('collapsed') ? '→' : '←';
+            }
+        }
+    }
+    
+    function createOverlay() {
+        const overlay = document.createElement('div');
+        overlay.id = 'sidebar-overlay';
+        overlay.className = 'sidebar-overlay';
+        overlay.onclick = closeSidebar;
+        document.body.appendChild(overlay);
+        return overlay;
+    }
+    
+    function closeSidebar() {
+        const sidebar = document.getElementById('sidebar');
+        const overlay = document.getElementById('sidebar-overlay');
+        sidebar?.classList.remove('mobile-open');
+        overlay?.classList.remove('active');
+        document.body.style.overflow = '';
+    }
+    
+    function quickEdit(section) {
+        showSection(section);
+        showToast(`Accès rapide à la section ${section}`, 'success');
+    }
+    
+    // =========================================
+    // GESTION DES SITES (MODE MASTER)
+    // =========================================
+    async function loadSites() {
+        if (adminMode !== CONFIG.ADMIN_MODE.MASTER) return;
+    
+        showLoading('Chargement des sites');
+    
+        try {
+            const response = await fetch(`${CONFIG.API_BASE}/list-sites`);
+            
+            if (!response.ok) {
+                throw new Error(`Erreur HTTP: ${response.status}`);
+            }
+    
+            const result = await response.json();
+            console.log('Sites chargés:', result);
+    
+            sitesData = result.sites || {};
+            displaySites(sitesData);
+            updateSitesCount(Object.keys(sitesData).length);
+    
+        } catch (error) {
+            console.error('Erreur chargement sites:', error);
+            showToast('Erreur lors du chargement des sites: ' + error.message, 'error');
+        } finally {
+            hideLoading();
+        }
+    }
+    
+    function displaySites(sites) {
+        const sitesGrid = document.getElementById('sites-grid');
+        if (!sitesGrid) return;
+    
+        sitesGrid.innerHTML = '';
+    
+        const newSiteCard = document.createElement('div');
+        newSiteCard.className = 'site-card';
+        newSiteCard.style.border = '2px dashed var(--primary)';
+        newSiteCard.style.cursor = 'pointer';
+        newSiteCard.onclick = openNewSiteModal;
+        newSiteCard.innerHTML = `
+            <div style="padding: 3rem; text-align: center; color: var(--primary);">
+                <div style="font-size: 3rem; margin-bottom: 1rem;">+</div>
+                <h3 style="margin-bottom: 0.5rem;">Créer un Nouveau Site</h3>
+                <p style="color: var(--gray-500);">Configuration rapide</p>
+            </div>
+        `;
+        sitesGrid.appendChild(newSiteCard);
+    
+        Object.values(sites).forEach(site => {
+            const siteCard = createSiteCard(site);
+            sitesGrid.appendChild(siteCard);
+        });
+    }
+    
+    function createSiteCard(site) {
+        const card = document.createElement('div');
+        card.className = 'site-card';
+        card.innerHTML = `
+            <div class="site-card-header">
+                <div class="site-name">${site.name}</div>
+                <div class="site-url">${site.domain}</div>
+            </div>
+            <div class="site-card-body">
+                <div class="site-actions">
+                    <a href="${site.admin_url}" class="btn btn-primary btn-sm" target="_blank">
+                        Admin
+                    </a>
+                    <a href="${site.deployment_url}" class="btn btn-secondary btn-sm" target="_blank">
+                        Voir le Site
+                    </a>
+                    <a href="${site.github_url}" class="btn btn-secondary btn-sm" target="_blank">
+                        GitHub
+                    </a>
+                    <button class="btn btn-danger btn-sm" onclick="confirmDeleteSite('${site.id}', '${site.name}')">
+                        Supprimer
+                    </button>
+                </div>
+            </div>
+        `;
+        return card;
+    }
+    
+    function updateSitesCount(count) {
+        const countEl = document.getElementById('sites-count');
+        const totalSitesEl = document.getElementById('total-sites');
+        
+        if (countEl) countEl.textContent = count;
+        if (totalSitesEl) totalSitesEl.textContent = count;
+    }
+    
+    function refreshSites() {
+        loadSites();
+        showToast('Liste des sites actualisée', 'success');
+    }
+    
+    // =========================================
+    // NOUVEAU SITE MODAL
+    // =========================================
+    function initializeNewSiteModal() {
+        setupNicheLogic();
+        setupDomainLogic();
+        setupAutoGeneration();
+        console.log('Formulaire de création initialisé');
+    }
+    
+    function setupNicheLogic() {
+        const nicheSelect = document.getElementById('new-site-niche');
+        const customNicheGroup = document.getElementById('custom-niche-group');
+        
+        if (nicheSelect && customNicheGroup) {
+            nicheSelect.addEventListener('change', function() {
+                if (this.value === 'other') {
+                    customNicheGroup.style.display = 'block';
+                    document.getElementById('new-custom-niche').required = true;
+                } else {
+                    customNicheGroup.style.display = 'none';
+                    document.getElementById('new-custom-niche').required = false;
+                }
+            });
+        }
+    }
+    
+    function setupLanguageDropdown() {
+        const searchInput = document.getElementById('language-search');
+        const dropdown = document.getElementById('language-dropdown');
+        const hiddenInput = document.getElementById('new-site-language');
+        
+        if (!searchInput || !dropdown || !hiddenInput) return;
+        
+        populateLanguageDropdown('');
+        
+        searchInput.addEventListener('focus', function() {
+            dropdown.classList.add('show');
+            this.style.borderRadius = 'var(--radius-lg) var(--radius-lg) 0 0';
+        });
+        
+        searchInput.addEventListener('blur', function() {
+            setTimeout(() => {
+                dropdown.classList.remove('show');
+                this.style.borderRadius = 'var(--radius-lg)';
+            }, 200);
+        });
+        
+        searchInput.addEventListener('input', function() {
+            populateLanguageDropdown(this.value);
+        });
+        
+        document.addEventListener('click', function(e) {
+            if (!e.target.closest('.searchable-select')) {
+                dropdown.classList.remove('show');
+                searchInput.style.borderRadius = 'var(--radius-lg)';
+            }
+        });
+    }
+    
+    function populateLanguageDropdown(searchTerm) {
+        const dropdown = document.getElementById('language-dropdown');
+        if (!dropdown) return;
+        
+        const filteredLanguages = SUPPORTED_LANGUAGES.filter(lang => 
+            lang.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+            lang.code.toLowerCase().includes(searchTerm.toLowerCase())
+        );
+        
+        dropdown.innerHTML = '';
+        
+        filteredLanguages.forEach(lang => {
+            const item = document.createElement('div');
+            item.className = 'dropdown-item';
+            item.innerHTML = `
+                <span class="language-name">${lang.name}</span>
+            `;
+            
+            item.addEventListener('click', function() {
+                selectLanguage(lang);
+            });
+            
+            dropdown.appendChild(item);
+        });
+        
+        if (filteredLanguages.length === 0) {
+            dropdown.innerHTML = '<div class="dropdown-item">Aucune langue trouvée</div>';
+        }
+    }
+    
+    function selectLanguage(language) {
+        const searchInput = document.getElementById('language-search');
+        const hiddenInput = document.getElementById('new-site-language');
+        const dropdown = document.getElementById('language-dropdown');
+        
+        if (searchInput && hiddenInput && dropdown) {
+            searchInput.value = language.name;
+            hiddenInput.value = language.code;
+            dropdown.classList.remove('show');
+            searchInput.style.borderRadius = 'var(--radius-lg)';
+            
+            console.log(`Langue sélectionnée: ${language.name} (${language.code})`);
+        }
+    }
+    
+    function setupAutoGeneration() {
+        const siteNameInput = document.getElementById('new-site-name');
+        const repoNameHidden = document.getElementById('new-repo-name');
+        
+        if (siteNameInput && repoNameHidden) {
+            siteNameInput.addEventListener('input', function() {
+                const techName = this.value
+                    .toLowerCase()
+                    .replace(/[^a-z0-9\s-]/g, '')
+                    .replace(/\s+/g, '-')
+                    .replace(/-+/g, '-')
+                    .replace(/^-|-$/g, '');
+                repoNameHidden.value = techName;
+            });
+        }
+    }
+    function setupDomainLogic() {
+        // Initialiser en mode auto
+        selectDomainType('auto');
+        
+        // Preview en temps réel pour sous-domaines
+        const subdomainPrefix = document.getElementById('subdomain-prefix');
+        const parentDomain = document.getElementById('parent-domain');
+        
+        if (subdomainPrefix && parentDomain) {
+            [subdomainPrefix, parentDomain].forEach(el => {
+                el.addEventListener('input', updateSubdomainPreview);
+                el.addEventListener('change', updateSubdomainPreview);
+            });
+        }
+    }
+    
+    function selectDomainType(type) {
+        // Retirer active de tous les boutons
+        document.querySelectorAll('.domain-toggle').forEach(btn => btn.classList.remove('active'));
+        
+        // Activer le bouton cliqué
+        const activeButton = document.querySelector(`[data-type="${type}"]`);
+        if (activeButton) activeButton.classList.add('active');
+        
+        // Cacher toutes les configs
+        document.querySelectorAll('.domain-config').forEach(config => config.classList.add('hidden'));
+        
+        // Afficher la config choisie
+        const targetConfig = document.getElementById(`${type}-config`);
+        if (targetConfig) targetConfig.classList.remove('hidden');
+        
+        // Charger les données selon le type
+        if (type === 'new') {
+            loadAvailableDomains();
+            updateSiteNameLabel('normal');
+        } else if (type === 'subdomain') {
+            loadAllDomains();
+            updateSiteNameLabel('subdomain');
+        } else {
+            updateSiteNameLabel('normal');
+        }
+    }
+    
+    function updateSiteNameLabel(mode) {
+    }
+    
+    async function loadAllDomains() {
+        const parentSelect = document.getElementById('parent-domain');
+        
+        try {
+            const response = await fetch(`${CONFIG.API_BASE}/list-domains`);
+            const result = await response.json();
+            
+            if (result.success) {
+                parentSelect.innerHTML = '<option value="">Choisir domaine parent...</option>';
+                result.domains.forEach(domain => {
+                    const option = document.createElement('option');
+                    option.value = domain;
+                    option.textContent = domain;
+                    parentSelect.appendChild(option);
+                });
+            }
+        } catch (error) {
+            console.error('Erreur chargement domaines:', error);
+        }
+    }
+    
+    function updateSubdomainPreview() {
+        const prefix = document.getElementById('subdomain-prefix').value.trim();
+        const parent = document.getElementById('parent-domain').value;
+        const preview = document.getElementById('subdomain-preview');
+        
+        if (preview) {
+            if (prefix && parent) {
+                preview.textContent = `Résultat : https://${prefix}.${parent}/`;
+                preview.style.color = '#28a745';
+            } else {
+                preview.textContent = 'Résultat : nom-du-site.domaine-parent.com';
+                preview.style.color = '#6c757d';
+            }
+        }
+    }
+
+    async function loadAvailableDomains() {
+        const domainSelect = document.getElementById('new-site-domain');
+        if (!domainSelect) return;
+        
+        try {
+            console.log('🌐 Chargement des domaines Cloudflare...');
+            
+            const response = await fetch(`${CONFIG.API_BASE}/list-domains`);
+            
+            if (!response.ok) {
+                throw new Error(`Erreur HTTP: ${response.status}`);
+            }
+            
+            const result = await response.json();
+            
+            if (result.success && result.domains) {
+                // Remettre l'option automatique + ajouter les domaines
+                domainSelect.innerHTML = '<option value="">Automatique (.workers.dev)</option>';
+                
+                // Ajouter chaque domaine Cloudflare
+                result.domains.forEach(domain => {
+                    const option = document.createElement('option');
+                    option.value = `https://${domain}/`;
+                    option.textContent = domain;
+                    domainSelect.appendChild(option);
+                });
+                
+                console.log(`✅ ${result.domains.length} domaines chargés`);
+            } else {
+                // Si erreur, remettre juste l'option automatique
+                domainSelect.innerHTML = '<option value="">Automatique (.workers.dev)</option>';
+                console.warn('⚠️ Aucun domaine trouvé, utilisation automatique uniquement');
+            }
+            
+        } catch (error) {
+            console.error('❌ Erreur chargement domaines:', error);
+            console.warn('⚠️ Utilisation du domaine automatique uniquement');
+        }
+    }
+    
+
+    
+    
+    function openNewSiteModal() {
+        const modal = document.getElementById('new-site-modal');
+        if (modal) {
+            modal.classList.add('show');
+            resetNewSiteForm();
+            
+            const firstInput = document.getElementById('new-site-niche');
+            if (firstInput) {
+                setTimeout(() => firstInput.focus(), 100);
+            }
+        }
+    }
+    
+    function closeNewSiteModal() {
+        const modal = document.getElementById('new-site-modal');
+        if (modal) {
+            modal.classList.remove('show');
+            resetNewSiteForm();
+        }
+    }
+    
+    function resetNewSiteForm() {
+        const fields = [
+            'new-site-niche', 'new-custom-niche', 'new-site-name', 
+            'new-repo-name', 'language-search', 'new-site-language', 'new-site-domain'
+        ];
+        
+        fields.forEach(fieldId => {
+            const field = document.getElementById(fieldId);
+            if (field) field.value = '';
+        });
+        
+        const customNicheGroup = document.getElementById('custom-niche-group');
+        if (customNicheGroup) {
+            customNicheGroup.style.display = 'none';
+            const customInput = document.getElementById('new-custom-niche');
+            if (customInput) customInput.required = false;
+        }
+        
+        const dropdown = document.getElementById('language-dropdown');
+        if (dropdown) {
+            dropdown.classList.remove('show');
+        }
+    }
+
+    
+    function getFinalDomain() {
+       const activeButton = document.querySelector('.domain-toggle.active');
+       if (!activeButton) return '';
+       
+       const type = activeButton.getAttribute('data-type');
+       
+       if (type === 'new') {
+           return document.getElementById('new-site-domain').value || '';
+       } else if (type === 'subdomain') {
+           const prefix = document.getElementById('subdomain-prefix').value.trim();
+           const parent = document.getElementById('parent-domain').value;
+           
+           if (prefix && parent) {
+               return `https://${prefix}.${parent}/`;
+           }
+       }
+       
+       return ''; // Auto (.workers.dev)
+    }
+    
+    async function createNewSite() {
+       const siteData = {
+           site_name: document.getElementById('new-site-name')?.value,
+           repo_name: document.getElementById('new-repo-name')?.value,
+           niche: document.getElementById('new-site-niche')?.value,
+           custom_niche: document.getElementById('new-custom-niche')?.value || '',
+           domain: getFinalDomain()
+       };
+    
+       if (!siteData.site_name || !siteData.repo_name || !siteData.niche) {
+           showToast('Veuillez remplir tous les champs requis', 'error');
+           return;
+       }
+    
+       if (siteData.niche === 'other' && !siteData.custom_niche) {
+           showToast('Veuillez spécifier votre niche personnalisée', 'error');
+           return;
+       }
+    
+       // Validation spécifique sous-domaine
+       const activeButton = document.querySelector('.domain-toggle.active');
+       const domainType = activeButton?.getAttribute('data-type');
+       
+       if (domainType === 'subdomain') {
+           const prefix = document.getElementById('subdomain-prefix').value.trim();
+           const parent = document.getElementById('parent-domain').value;
+           
+           if (!prefix || !parent) {
+               showToast('Veuillez configurer le sous-domaine complet', 'error');
+               return;
+           }
+       }
+    
+       console.log('Création site:', siteData);
+       closeNewSiteModal();
+       showLoading('Création du site en cours');
+    
+       try {
+           const response = await fetch(`${CONFIG.API_BASE}/clone-site`, {
+               method: 'POST',
+               headers: {
+                   'Content-Type': 'application/json'
+               },
+               body: JSON.stringify(siteData)
+           });
+    
+           if (!response.ok) {
+               const errorData = await response.json();
+               throw new Error(errorData.error || `Erreur HTTP: ${response.status}`);
+           }
+    
+           const result = await response.json();
+           console.log('Site créé:', result);
+           
+           // 🎯 AFFICHER LES CREDENTIALS
+           if (result.admin_credentials) {
+               showSiteCredentialsModal(result);
+           } else {
+               showToast(`Site "${siteData.site_name}" créé avec succès`, 'success');
+           }
+           
+           closeNewSiteModal();
+           
+           setTimeout(() => {
+               loadSites();
+           }, 2000);
+    
+       } catch (error) {
+           console.error('Erreur création site:', error);
+           showToast('Erreur lors de la création: ' + error.message, 'error');
+       } finally {
+           hideLoading();
+       }
+    }
+    
+    async function confirmDeleteSite(siteId, siteName) {
+        if (!confirm(`Êtes-vous sûr de vouloir supprimer le site "${siteName}" ?\n\nCette action est irréversible.`)) {
+            return;
+        }
+    
+        showLoading('Suppression en cours');
+    
+        try {
+            const response = await fetch(`${CONFIG.API_BASE}/delete-site`, {
+                method: 'DELETE',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ site_id: siteId })
+            });
+    
+            if (!response.ok) {
+                const errorData = await response.json();
+                throw new Error(errorData.error || `Erreur HTTP: ${response.status}`);
+            }
+    
+            const result = await response.json();
+            console.log('Site supprimé:', result);
+    
+            showToast(`Site "${siteName}" supprimé avec succès`, 'success');
+    
+            setTimeout(() => {
+                loadSites();
+            }, 1000);
+    
+        } catch (error) {
+            console.error('Erreur suppression site:', error);
+            showToast('Erreur lors de la suppression: ' + error.message, 'error');
+        } finally {
+            hideLoading();
+        }
+    }
+    
+    // =========================================
+    // MODE YAML EXPERT
+    // =========================================
+    async function loadYamlConfig() {
+        showLoading('Chargement de la configuration YAML');
+    
+        try {
+            const response = await fetch(`${CONFIG.API_BASE}/get-config`);
+            
+            if (!response.ok) {
+                throw new Error(`Erreur HTTP: ${response.status}`);
+            }
+    
+            const result = await response.json();
+            
+            if (result.success && result.config) {
+                const yamlContent = generateYamlFromConfig(result.config);
+                const yamlTextarea = document.getElementById('yaml-content');
+                
+                if (yamlTextarea) {
+                    yamlTextarea.value = yamlContent;
+                    showToast('Configuration YAML chargée', 'success');
+                }
+            } else {
+                throw new Error(result.error || 'Erreur lors du chargement');
+            }
+    
+        } catch (error) {
+            console.error('Erreur loadYamlConfig:', error);
+            showToast('Erreur: ' + error.message, 'error');
+        } finally {
+            hideLoading();
+        }
+    }
+    
+    function generateYamlFromConfig(config) {
+        const sections = {};
+        
+        Object.entries(config).forEach(([fieldName, value]) => {
+    
+            // 🚫 EXCLURE les pages légales du YAML
+            if (fieldName.startsWith('legal_pages.')) {
+                return; // Skip ce champ
+            }
+
+
+            
+            const parts = fieldName.split('.');
+            
+            if (parts.length === 2) {
+                const [section, field] = parts;
+                if (!sections[section]) sections[section] = {};
+                sections[section][field] = value;
+            } else if (parts.length === 3) {
+                const [section, subsection, field] = parts;
+                if (!sections[section]) sections[section] = {};
+                if (!sections[section][subsection]) sections[section][subsection] = {};
+                sections[section][subsection][field] = value;
+            } else if (parts.length === 4) {
+                const [section, subsection, subsubsection, field] = parts;
+                if (!sections[section]) sections[section] = {};
+                if (!sections[section][subsection]) sections[section][subsection] = {};
+                if (!sections[section][subsection][subsubsection]) sections[section][subsection][subsubsection] = {};
+                sections[section][subsection][subsubsection][field] = value;
+            }
+        });
+    
+        let yaml = '# Configuration complète - Tous les champs autorisés\n\n';
+        
+        Object.entries(sections).forEach(([sectionName, sectionData]) => {
+            yaml += `${sectionName}:\n`;
+            
+            Object.entries(sectionData).forEach(([key, value]) => {
+                if (typeof value === 'object' && value !== null) {
+                    yaml += `  ${key}:\n`;
+                    Object.entries(value).forEach(([subKey, subValue]) => {
+                        if (typeof subValue === 'object' && subValue !== null) {
+                            yaml += `    ${subKey}:\n`;
+                            Object.entries(subValue).forEach(([subSubKey, subSubValue]) => {
+                                yaml += `      ${subSubKey}: "${subSubValue}"\n`;
+                            });
+                        } else {
+                            yaml += `    ${subKey}: "${subValue}"\n`;
+                        }
+                    });
+                } else {
+                    yaml += `  ${key}: "${value}"\n`;
+                }
+            });
+            
+            yaml += '\n';
+        });
+        
+        return yaml;
+    }
+    
+    async function saveYamlConfig() {
+        const yamlTextarea = document.getElementById('yaml-content');
+        
+        if (!yamlTextarea || !yamlTextarea.value.trim()) {
+            showToast('Le contenu YAML est vide', 'error');
+            return;
+        }
+    
+        showLoading('Analyse et sauvegarde du YAML');
+    
+        try {
+            const yamlContent = yamlTextarea.value;
+            const parsedConfig = parseYamlContent(yamlContent);
+    
+            console.log('Configuration parsée:', parsedConfig);
+    
+            if (Object.keys(parsedConfig).length === 0) {
+                throw new Error('Aucun champ valide trouvé dans le YAML');
+            }
+    
+            const response = await fetch(`${CONFIG.API_BASE}/update-config`, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(parsedConfig)
+            });
+    
+            if (!response.ok) {
+                const errorData = await response.json();
+                throw new Error(errorData.error || `Erreur HTTP: ${response.status}`);
+            }
+    
+            const result = await response.json();
+            console.log('Sauvegarde YAML réussie:', result);
+    
+            showToast(`Configuration YAML sauvegardée (${Object.keys(parsedConfig).length} champs)`, 'success');
+    
+            setTimeout(() => {
+                loadConfig();
+            }, 1000);
+    
+        } catch (error) {
+            console.error('Erreur YAML:', error);
+            showToast('Erreur YAML: ' + error.message, 'error');
+        } finally {
+            hideLoading();
+        }
+    }
+    
+    function parseYamlContent(yamlContent) {
+        const config = {};
+        const lines = yamlContent.split('\n');
+        
+        let currentSection = '';
+        let currentSubsection = '';
+        let currentSubSubsection = '';
+        
+        lines.forEach(line => {
+            const trimmedLine = line.trim();
+            const indentLevel = line.length - line.trimStart().length;
+            
+            if (!trimmedLine || trimmedLine.startsWith('#')) return;
+            
+            if (indentLevel === 0 && trimmedLine.endsWith(':') && !trimmedLine.includes(' ')) {
+                currentSection = trimmedLine.replace(':', '');
+                currentSubsection = '';
+                currentSubSubsection = '';
+                return;
+            }
+            
+            if (indentLevel === 2 && trimmedLine.endsWith(':') && !trimmedLine.includes(' ')) {
+                currentSubsection = trimmedLine.replace(':', '');
+                currentSubSubsection = '';
+                return;
+            }
+            
+            if (indentLevel === 4 && trimmedLine.endsWith(':') && !trimmedLine.includes(' ')) {
+                currentSubSubsection = trimmedLine.replace(':', '');
+                return;
+            }
+            
+            if (trimmedLine.includes(':')) {
+                const colonIndex = trimmedLine.indexOf(':');
+                const key = trimmedLine.substring(0, colonIndex).trim();
+                let value = trimmedLine.substring(colonIndex + 1).trim();
+                
+                if ((value.startsWith('"') && value.endsWith('"')) || 
+                    (value.startsWith("'") && value.endsWith("'"))) {
+                    value = value.slice(1, -1);
+                }
+                
+                let fieldName = '';
+                if (currentSubSubsection) {
+                    fieldName = `${currentSection}.${currentSubsection}.${currentSubSubsection}.${key}`;
+                } else if (currentSubsection) {
+                    fieldName = `${currentSection}.${currentSubsection}.${key}`;
+                } else if (currentSection) {
+                    fieldName = `${currentSection}.${key}`;
+                }
+                
+                if (fieldName && value) {
+                    config[fieldName] = value;
+                }
+            }
+        });
+        
+        return config;
+    }
+    
+    function copyYamlConfig() {
+        const yamlTextarea = document.getElementById('yaml-content');
+        
+        if (!yamlTextarea || !yamlTextarea.value.trim()) {
+            showToast('Aucun contenu YAML à copier', 'error');
+            return;
+        }
+    
+        navigator.clipboard.writeText(yamlTextarea.value).then(() => {
+            showToast('Configuration copiée dans le presse-papiers', 'success');
+        }).catch(err => {
+            console.error('Erreur copie:', err);
+            showToast('Erreur lors de la copie', 'error');
+        });
+    }
+    
+    function downloadYamlConfig() {
+        const yamlTextarea = document.getElementById('yaml-content');
+        
+        if (!yamlTextarea || !yamlTextarea.value.trim()) {
+            showToast('Aucun contenu YAML à télécharger', 'error');
+            return;
+        }
+    
+        const blob = new Blob([yamlTextarea.value], { type: 'text/yaml' });
+        const url = URL.createObjectURL(blob);
+        
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'config.yaml';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+        
+        showToast('Configuration téléchargée', 'success');
+    }
+    
+    // =========================================
+    // INTERFACE UTILISATEUR
+    // =========================================
+    function showLoading(message) {
+        const loadingOverlay = document.getElementById('loading-overlay');
+        const loadingText = document.getElementById('loading-text');
+        
+        if (loadingOverlay) {
+            loadingOverlay.classList.add('show');
+        }
+        
+        if (loadingText) {
+            loadingText.textContent = message;
+        }
+    }
+    
+    function hideLoading() {
+        const loadingOverlay = document.getElementById('loading-overlay');
+        if (loadingOverlay) {
+            loadingOverlay.classList.remove('show');
+        }
+    }
+    
+    function showToast(message, type = 'success') {
+        const toastContainer = document.getElementById('toast-container');
+        if (!toastContainer) return;
+    
+        const toast = document.createElement('div');
+        toast.className = `toast ${type}`;
+        toast.innerHTML = `
+            <div class="toast-content">${message}</div>
+        `;
+    
+        toastContainer.appendChild(toast);
+    
+        setTimeout(() => {
+            toast.classList.add('show');
+        }, 100);
+    
+        setTimeout(() => {
+            toast.classList.remove('show');
+            setTimeout(() => {
+                if (toast.parentNode) {
+                    toast.parentNode.removeChild(toast);
+                }
+            }, 300);
+        }, 4000);
+    }
+    
+    function updateConfigStatus(type, message) {
+        const statusEl = document.getElementById('config-status');
+        if (!statusEl) return;
+    
+        const dotEl = statusEl.querySelector('.status-dot');
+        const textEl = statusEl.querySelector('span');
+    
+        if (dotEl) {
+            dotEl.className = `status-dot ${type}`;
+        }
+        
+        if (textEl) {
+            textEl.textContent = message;
+        }
+    }
+    
+    // =========================================
+    // RACCOURCIS CLAVIER
+    // =========================================
+    function setupKeyboardShortcuts() {
+        document.addEventListener('keydown', function(e) {
+            if (e.ctrlKey && e.key === 's') {
+                e.preventDefault();
+                saveAllChanges();
+            }
+            
+            if (e.key === 'Escape') {
+                closeNewSiteModal();
+            }
+            
+            if (e.ctrlKey && e.key === 'n' && adminMode === CONFIG.ADMIN_MODE.MASTER) {
+                e.preventDefault();
+                openNewSiteModal();
+            }
+            
+            if (e.ctrlKey && e.key === 'r') {
+                e.preventDefault();
+                loadConfig();
+            }
+            
+            if (e.ctrlKey && e.key >= '1' && e.key <= '8') {
+                e.preventDefault();
+                const sections = ['dashboard', 'identity', 'design', 'content', 'interface', 'pages', 'sites', 'yaml'];
+                const sectionIndex = parseInt(e.key) - 1;
+                if (sections[sectionIndex]) {
+                    showSection(sections[sectionIndex]);
+                }
+            }
+        });
+    }
+    
+    // =========================================
+    // VALIDATION FORMULAIRES
+    // =========================================
+    function validateField(field) {
+        const value = field.value.trim();
+        const fieldType = field.type;
+        const isRequired = field.hasAttribute('required');
+        
+        field.classList.remove('error', 'success');
+        
+        if (isRequired && !value) {
+            field.classList.add('error');
+            return false;
+        }
+        
+        switch (fieldType) {
+            case 'email':
+                const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+                if (value && !emailRegex.test(value)) {
+                    field.classList.add('error');
+                    return false;
+                }
+                break;
+                
+            case 'url':
+                if (value && !isValidUrl(value)) {
+                    field.classList.add('error');
+                    return false;
+                }
+                break;
+        }
+        
+        if (value) {
+            field.classList.add('success');
+        }
+        
+        return true;
+    }
+    
+    function isValidUrl(string) {
+        try {
+            new URL(string);
+            return true;
+        } catch (_) {
+            return false;
+        }
+    }
+    
+    // =========================================
+    // GESTION DES ERREURS
+    // =========================================
+    function handleGlobalError(error) {
+        console.error('Erreur globale:', error);
+        showToast('Une erreur inattendue s\'est produite', 'error');
+        hideLoading();
+    }
+    
+    window.addEventListener('error', function(e) {
+        handleGlobalError(e.error);
+    });
+    
+    window.addEventListener('unhandledrejection', function(e) {
+        handleGlobalError(e.reason);
+    });
+    
+    // =========================================
+    // UTILITAIRES
+    // =========================================
+    function debounce(func, wait) {
+        let timeout;
+        return function executedFunction(...args) {
+            const later = () => {
+                clearTimeout(timeout);
+                func(...args);
+            };
+            clearTimeout(timeout);
+            timeout = setTimeout(later, wait);
+        };
+    }
+    
+    function throttle(func, limit) {
+        let lastFunc;
+        let lastRan;
+        return function(...args) {
+            if (!lastRan) {
+                func.apply(this, args);
+                lastRan = Date.now();
+            } else {
+                clearTimeout(lastFunc);
+                lastFunc = setTimeout(() => {
+                    if ((Date.now() - lastRan) >= limit) {
+                        func.apply(this, args);
+                        lastRan = Date.now();
+                    }
+                }, limit - (Date.now() - lastRan));
+            }
+        }
+    }
+    
+    // =========================================
+    // API HELPERS
+    // =========================================
+    async function apiRequest(endpoint, options = {}) {
+        const defaultOptions = {
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        };
+        
+        const finalOptions = { ...defaultOptions, ...options };
+        
+        try {
+            const response = await fetch(`${CONFIG.API_BASE}${endpoint}`, finalOptions);
+            
+            if (!response.ok) {
+                const errorData = await response.json().catch(() => ({}));
+                throw new Error(errorData.error || `HTTP ${response.status}`);
+            }
+            
+            return await response.json();
+        } catch (error) {
+            console.error(`API Error (${endpoint}):`, error);
+            throw error;
+        }
+    }
+    
+    // =========================================
+    // FONCTIONS DE MONITORING
+    // =========================================
+    function updateMonitoringStats() {
+        const monitorSites = document.getElementById('monitor-sites');
+        const monitorDeploys = document.getElementById('monitor-deploys');
+        const monitorUptime = document.getElementById('monitor-uptime');
+        
+        if (monitorSites && sitesData) {
+            monitorSites.textContent = Object.keys(sitesData).length;
+        }
+        
+        if (monitorDeploys) {
+            monitorDeploys.textContent = Math.floor(Math.random() * 10);
+        }
+        
+        if (monitorUptime) {
+            monitorUptime.textContent = '99.9%';
+        }
+    }
+
+    // 🆕 FONCTION D'INDEXATION GOOGLE
+    async function notifyGoogleForThisSite() {
+        const currentDomain = window.location.hostname;
+        const sitemapUrl = `https://${currentDomain}/sitemap.xml`;
+        const googlePingUrl = `https://www.google.com/ping?sitemap=${encodeURIComponent(sitemapUrl)}`;
+        
+        // 🆕 MODAL DE CONFIRMATION
+        const confirmMessage = `📊 Vérification avant envoi :
+    
+    🌐 Site détecté : ${currentDomain}
+    📄 Sitemap : ${sitemapUrl}  
+    🔗 URL Google : ${googlePingUrl}
+    
+    ✅ Les URLs sont-elles correctes ?`;
+    
+        if (confirm(confirmMessage)) {
+            try {
+                showToast(`📡 Envoi notification à Google...`, 'success');
+                window.open(googlePingUrl, '_blank');
+                showToast('✅ Notification envoyée !', 'success');
+            } catch (error) {
+                showToast('❌ Erreur notification Google', 'error');
+            }
+        } else {
+            showToast('❌ Notification annulée', 'warning');
+        }
+    }
+    // =========================================
+    // NETTOYAGE À LA FERMETURE
+    // =========================================
+    window.addEventListener('beforeunload', function(e) {
+        if (modifiedFields.size > 0) {
+            e.preventDefault();
+            e.returnValue = 'Vous avez des modifications non sauvegardées. Voulez-vous vraiment quitter ?';
+            return e.returnValue;
+        }
+    });
+    
+    // =========================================
+    // INITIALISATION FINALE
+    // =========================================
+    function initializeAdvancedFeatures() {
+        console.log('Initialisation des fonctionnalités avancées');
+        
+        document.querySelectorAll('input, textarea, select').forEach(field => {
+            field.addEventListener('blur', () => validateField(field));
+        });
+        
+        updateMonitoringStats();
+        
+        setInterval(updateMonitoringStats, 30000);
+        
+        console.log('Administration complètement initialisée');
+    }
+    
+    // =========================================
+    // EXPORT GLOBAL POUR DEBUGGING
+    // =========================================
+    window.AdminInterface = {
+        CONFIG,
+        currentConfig,
+        modifiedFields,
+        adminMode,
+        sitesData,
+        loadConfig,
+        saveAllChanges,
+        saveSection,
+        showSection,
+        showToast,
+        apiRequest
+    };
+    // =========================================
+    // AFFICHAGE DES CREDENTIALS APRÈS CRÉATION
+    // =========================================
+    function showSiteCredentialsModal(result) {
+        // Créer la modal des credentials
+        const modal = document.createElement('div');
+        modal.className = 'modal show';
+        modal.id = 'credentials-modal';
+        modal.style.zIndex = '10000';
+        modal.innerHTML = `
+            <div class="modal-content" style="max-width: 600px;">
+                <div class="modal-header" style="background: var(--success); color: white; border-radius: var(--radius-xl) var(--radius-xl) 0 0;">
+                    <h2 class="modal-title" style="color: white; margin: 0; display: flex; align-items: center; gap: var(--space-2);">
+                        🎉 Site créé avec succès !
+                    </h2>
+                </div>
+                <div class="modal-body" style="padding: var(--space-8);">
+                    <div class="credentials-info">
+                        <div class="card" style="background: var(--gray-50); border: 1px solid var(--success); margin-bottom: var(--space-6);">
+                            <div class="card-body" style="padding: var(--space-4);">
+                                <h3 style="color: var(--success); margin-bottom: var(--space-4); font-size: 1.125rem;">🌐 Accès à votre site</h3>
+                                <div style="background: var(--white); padding: var(--space-4); border-radius: var(--radius-lg); border: 1px solid var(--gray-200);">
+                                    <strong>URL publique :</strong><br>
+                                    <a href="${result.primary_url}" target="_blank" style="color: var(--primary); text-decoration: none; font-weight: 600;">${result.primary_url}</a>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="card" style="background: #fef3f2; border: 1px solid #fecaca; margin-bottom: var(--space-6);">
+                            <div class="card-body" style="padding: var(--space-4);">
+                                <h3 style="color: #dc2626; margin-bottom: var(--space-4); font-size: 1.125rem;">🔐 Interface d'administration</h3>
+                                
+                                <div style="background: var(--white); padding: var(--space-4); border-radius: var(--radius-lg); border: 1px solid #fecaca; margin-bottom: var(--space-4);">
+                                    <strong>URL Admin :</strong><br>
+                                    <a href="${result.admin_url}" target="_blank" style="color: var(--primary); text-decoration: none; font-weight: 600; word-break: break-all;">${result.admin_url}</a>
+                                </div>
+                                
+                                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: var(--space-4);">
+                                    <div style="background: var(--white); padding: var(--space-3); border-radius: var(--radius-lg); border: 1px solid #fecaca;">
+                                        <strong>Nom d'utilisateur :</strong><br>
+                                        <code style="background: var(--gray-100); padding: var(--space-1) var(--space-2); border-radius: var(--radius-sm); font-weight: 600;">${result.admin_credentials.username}</code>
+                                    </div>
+                                    <div style="background: var(--white); padding: var(--space-3); border-radius: var(--radius-lg); border: 1px solid #fecaca;">
+                                        <strong>Mot de passe :</strong><br>
+                                        <code style="background: var(--gray-100); padding: var(--space-1) var(--space-2); border-radius: var(--radius-sm); font-weight: 600; word-break: break-all;">${result.admin_credentials.password}</code>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="card" style="background: #fffbeb; border: 1px solid #fbbf24;">
+                            <div class="card-body" style="padding: var(--space-4); text-align: center;">
+                                <div style="color: #92400e; font-weight: 600; margin-bottom: var(--space-2);">
+                                    ⚠️ IMPORTANT
+                                </div>
+                                <div style="color: #92400e; font-size: 0.875rem; line-height: 1.5;">
+                                    Sauvegardez ces informations maintenant !<br>
+                                    Elles ne seront plus affichées après fermeture.
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-header" style="border-top: 1px solid var(--gray-200); border-radius: 0 0 var(--radius-xl) var(--radius-xl); justify-content: center; gap: var(--space-3);">
+                    <button class="btn btn-secondary" onclick="copyCredentials('${result.admin_credentials.username}', '${result.admin_credentials.password}', '${result.admin_url}')">
+                        📋 Copier les infos
+                    </button>
+                    <button class="btn btn-success" onclick="closeCredentialsModal()">
+                        ✅ J'ai sauvegardé
+                    </button>
+                </div>
+            </div>
+        `;
+        
+        document.body.appendChild(modal);
+        
+        // Fermer en cliquant en dehors
+        modal.addEventListener('click', function(e) {
+            if (e.target === modal) {
+                closeCredentialsModal();
+            }
+        });
+    }
+    
+    function copyCredentials(username, password, adminUrl) {
+        const text = `🔐 Accès Admin - ${new Date().toLocaleDateString()}
+    
+    URL Admin: ${adminUrl}
+    Nom d'utilisateur: ${username}
+    Mot de passe: ${password}
+    
+    ⚠️ Gardez ces informations en sécurité !`;
+        
+        navigator.clipboard.writeText(text).then(() => {
+            showToast('Informations copiées dans le presse-papiers', 'success');
+        }).catch(() => {
+            // Fallback pour les navigateurs plus anciens
+            const textArea = document.createElement('textarea');
+            textArea.value = text;
+            document.body.appendChild(textArea);
+            textArea.select();
+            document.execCommand('copy');
+            document.body.removeChild(textArea);
+            showToast('Informations copiées', 'success');
+        });
+    }
+    
+    function closeCredentialsModal() {
+        const modal = document.getElementById('credentials-modal');
+        if (modal) {
+            modal.style.opacity = '0';
+            setTimeout(() => {
+                if (modal.parentNode) {
+                    modal.parentNode.removeChild(modal);
+                }
+            }, 300);
+        }
+    }
+    
+    console.log('Interface d\'administration chargée et prête');
+    </script>
+</body>
+</html>
