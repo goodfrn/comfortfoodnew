@@ -122,8 +122,8 @@ recipe_page:
     total: Total
     servings: Portions
   chef_note_title: Note de la cheffe
-  about_sidebar_title: Qui suis-je ?
-  about_sidebar_text: Je suis Amelia, passionnée de chimie et de cuisine. J'adore tester des recettes, comprendre les réactions et les rendre délicieuses, accessibles… et parfois un peu magiques.
+  about_sidebar_title: "Who am I?
+  about_sidebar_text: "I'm Emma, passionate about food chemistry and home cooking. I love testing recipes, understanding the science behind flavors, and making them delicious, accessible... and sometimes a little magical."
   sectionsTitle:
     ingredients_note: "About the ingredients"
     instructions_note: "Cooking tips"
