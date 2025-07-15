@@ -329,11 +329,12 @@ const SAFE_FIELDS = [
 
   // 🍽️ RECIPE PAGE (section complète à ajouter)
   'recipe_page.author_prefix', 'recipe_page.published_prefix', 'recipe_page.sections.ingredients', 'recipe_page.sections.instructions',
-  'recipe_page.sections.tips', 'recipe_page.sections.faq', 'recipe_page.chef_note_title', 'recipe_page.about_sidebar_title',
+  'recipe_page.sections.tips', 'recipe_page.sections.faq', 'recipe_page.chef_note_title', 'recipe_page.about_sidebar_title', 'recipe_page.about_sidebar_text', 
   'recipe_page.sectionsTitle.ingredients_note', 'recipe_page.sectionsTitle.instructions_note', 'recipe_page.sectionsTitle.keywords',
   'recipe_page.nutritionSection.title', 'recipe_page.nutritionSection.subtitle', 'recipe_page.nutritionLabels.calories',
   'recipe_page.nutritionLabels.proteinContent', 'recipe_page.nutritionLabels.carbohydrateContent', 'recipe_page.nutritionLabels.fatContent',
-  'recipe_page.sections.related', 'recipe_page.sections.discover', 'recipe_page.sections.view_all_recipes',
+  'recipe_page.sections.related', 'recipe_page.sections.discover', 'recipe_page.sections.view_all_recipes', 'recipe_page.summary_labels.prep', 
+  'recipe_page.summary_labels.cook', 'recipe_page.summary_labels.total', 'recipe_page.summary_labels.servings', 'recipe_page.summary_labels.cuisine',
   
   // 🔍 SEARCH COMPONENTS (4 champs)
   'components.search.no_results', 'components.search.loading', 'components.search.clear_label', 'components.search.no_results_emoji',
