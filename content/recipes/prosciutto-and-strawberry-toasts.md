@@ -8,7 +8,7 @@ focusKeyphrase: "Prosciutto and Strawberry Toasts"
 date: 2025-07-15
 draft: false
 image: prosciutto-and-strawberry-toasts.png
-author: "Amelia Feuss."
+author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT15M
 totalTime: PT25M
