@@ -8,7 +8,7 @@ focusKeyphrase: "Beef Burger with Chipotle Cheese"
 date: 2025-07-15
 draft: false
 image: beef-burger-chipotle-cheese.png
-author: "Amelia Feuss."
+author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT30M
 totalTime: PT45M
