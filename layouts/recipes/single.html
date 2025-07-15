@@ -124,31 +124,31 @@
         <div class="grid grid-cols-2 gap-4 text-sm">
           {{ with .Params.prepTime }}
             <div class="flex items-center gap-2">
-              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.prep }}</span>
+              <span class="font-medium text-slate-700">Prep:</span>
               <span class="text-slate-600">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
             </div>
           {{ end }}
           {{ with .Params.cookTime }}
             <div class="flex items-center gap-2">
-              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.cook }}</span>
+              <span class="font-medium text-slate-700">Cook:</span>
               <span class="text-slate-600">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
             </div>
           {{ end }}
           {{ with .Params.totalTime }}
             <div class="flex items-center gap-2">
-              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.total }}</span>
+              <span class="font-medium text-slate-700">Total:</span>
               <span class="text-slate-600">{{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}</span>
             </div>
           {{ end }}
           {{ with .Params.recipeYield }}
             <div class="flex items-center gap-2">
-              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.servings }}</span>
+              <span class="font-medium text-slate-700">Servings:</span>
               <span class="text-slate-600">{{ . }}</span>
             </div>
           {{ end }}
           {{ with .Params.cuisine }}
             <div class="flex items-center gap-2">
-              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.cuisine }}</span>
+              <span class="font-medium text-slate-700">Cuisine:</span>
               <span class="text-slate-600">{{ . }}</span>
             </div>
           {{ end }}
