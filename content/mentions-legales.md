@@ -1,5 +1,4 @@
 ---
-title: "Mentions légales"
 layout: "legal/mentions-legales"
 ---
 
