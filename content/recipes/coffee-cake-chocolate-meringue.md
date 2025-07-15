@@ -8,7 +8,7 @@ focusKeyphrase: "Coffee Cake with Chocolate Meringue"
 date: 2025-07-15
 draft: false
 image: coffee-cake-chocolate-meringue.png
-author: "Amelia Feuss."
+author: "Emma Kitchen"
 prepTime: PT30M
 cookTime: PT20M
 totalTime: PT50M
