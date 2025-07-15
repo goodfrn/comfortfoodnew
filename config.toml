@@ -1,6 +1,6 @@
 baseURL = "https://comfortfood.uk/"
 languageCode = "en"
-title = "Comfort-Food"
+title = "Comfort Food"
 
 ############################################################################### 
 #  Pagination, taxonomies, permaliens 
