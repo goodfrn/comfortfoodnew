@@ -1,5 +1,4 @@
 ---
-title: "Politique de confidentialité"
 layout: "legal/politique-confidentialite"
 ---
 
