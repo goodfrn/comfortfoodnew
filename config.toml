@@ -1,6 +1,6 @@
-baseURL = "https://recettes-blog-test.pages.dev/"
-languageCode = "fr"
-title = "Testt"
+baseURL = "https://comfortfood.uk/"
+languageCode = "en"
+title = "Comfort-Food"
 
 ############################################################################### 
 #  Pagination, taxonomies, permaliens 
