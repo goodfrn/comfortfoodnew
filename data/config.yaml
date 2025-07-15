@@ -244,12 +244,12 @@ components:
     time_emoji: ⏱️
   cta_buttons:
     pin_label: Pin
-    pin_aria_label: Enregistrer sur Pinterest
-    share_label: Partager
-    share_aria_label: Partager
-    print_label: Imprimer
-    print_aria_label: Imprimer la recette
-    copy_link: Copier le lien
+    pin_aria_label: Save to Pinterest
+    share_label: Share
+    share_aria_label: Share this recipe
+    print_label: Print
+    print_aria_label: Print recipe
+    copy_link: Copy link
     email: Email
     save_label: Save
     link_copied: Lien copié !
