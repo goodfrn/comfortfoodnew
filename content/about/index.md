@@ -1,39 +1,53 @@
----
-title: "À propos"
-date: 2025-05-18T10:00:00+00:00 
----
+markdown# About
 
-Bonjour, je suis **Amelia Feuss**.
+Hello, I'm **Emma Kitchen**.
 
-Je suis docteure en chimie, passionnée de cuisine, et convaincue que la précision scientifique peut rendre la cuisine plus simple, plus savoureuse, et surtout plus accessible. Mon amour pour les recettes vient de loin des dimanches passés avec ma grand-mère, des voyages en Méditerranée, et de toutes ces odeurs qui restent longtemps après qu’un plat a été partagé.
+I'm passionate about comfort food - those dishes that warm your heart and bring back cherished memories. I believe the best recipes are the ones that make you feel at home, no matter where you are.
 
----
-
-## Ce que tu trouveras ici
-
-World Recipes est une collection vivante de recettes de saison, accessibles et fiables. Tu y trouveras des plats du quotidien, des desserts de fête, des idées végétariennes, sans gluten, et bien plus.  
-Chaque recette est testée, retravaillée et expliquée étape par étape, avec soin. Je veux que tu réussisses du premier coup.
-
-Nous publions régulièrement de nouvelles recettes et visuels pour te guider, t’inspirer, t’aider à cuisiner mieux, et surtout à prendre du plaisir.
+My love for cooking began in my grandmother's kitchen, where I learned that cooking is an act of love. Today, I share these comforting recipes that have been tested, perfected, and designed to bring joy to your everyday meals.
 
 ---
 
-## Pour les vrais passionné·es
+## What you'll find here
 
-Les abonné·es à notre newsletter ont accès à des contenus exclusifs : des collections thématiques, des tutoriels vidéo, des recettes triées par niveau ou par occasion, et une boîte à recettes pour sauvegarder leurs coups de cœur.  
+**Comfort Food** is a carefully curated collection of heartwarming recipes that never go out of style. You'll discover soul-warming soups, hearty casseroles, indulgent desserts, and everything in between - all designed to make your kitchen feel like the heart of your home.
 
-Toutes nos recettes incluent des évaluations, des commentaires, des astuces de lecteurs. Parce qu’on apprend aussi en cuisinant ensemble.
+Every recipe is thoroughly tested and explained step-by-step with care. I want you to succeed from the very first try.
+
+We regularly publish new recipes and helpful guides to inspire you, help you cook better, and most importantly, find joy in creating delicious comfort food.
 
 ---
 
-## Nos valeurs
+## For true food lovers
 
-Je crois en la confiance.  
-Je crois qu’une bonne recette doit marcher pour tout le monde, peu importe le niveau.  
-Je crois que cuisiner chez soi est un acte de soin, de créativité, de liberté.
+Newsletter subscribers get access to exclusive content: seasonal recipe collections, cooking tips and techniques, meal planning guides, and a personal recipe box to save your favorites.
 
-C’est pourquoi chaque recette est testée plusieurs fois. Rien n’est publié au hasard. Tout est là pour t’aider à te sentir bien en cuisine, et à donner du goût à ton quotidien.
+All our recipes include ratings, comments, and reader tips. Because we learn best when we cook together.
 
-Merci d’être là.
+---
 
-— **Amelia**
+## My values
+
+I believe in trust.
+
+I believe that a good recipe should work for everyone, regardless of cooking experience.
+
+I believe that cooking at home is an act of self-care, creativity, and love.
+
+That's why every recipe is tested multiple times. Nothing is published by chance. Everything here is designed to help you feel confident in the kitchen and bring comfort to your daily life.
+
+Thank you for being here.
+
+— **Emma** 💕
+
+---
+
+## Get in touch
+
+Have a question about a recipe? Want to share how your dish turned out? Or have a special request?
+
+**Email:** goodfrn792@gmail.com
+
+I love hearing from people who cook my recipes. Your photos and feedback are my greatest motivation to keep creating quality content.
+
+*Let's cook together and spread the comfort of good food!* 
