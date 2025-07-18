@@ -1,4 +1,6 @@
-
+---
+title: "À propos"
+---
 
 Hello, I'm **Emma Kitchen**.
 
