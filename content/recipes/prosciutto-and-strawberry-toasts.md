@@ -12,7 +12,7 @@ author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT15M
 totalTime: PT25M
-recipeYield: 4 servings
+recipeYield: 4
 categories: ["Appetizers"]
 tags:
 - "appetizer"
