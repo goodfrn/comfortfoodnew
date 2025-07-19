@@ -61,7 +61,8 @@
   {{- with .Params.nutrition }},
   "nutrition": {
     "@type": "NutritionInformation"
-    {{- with .calories }}, "calories": {{ . | int }}{{ end }}
+    {{- $cal := .calories | replaceRE "[^0-9]" "" }}
+    {{- if $cal }}, "calories": {{ $cal | int }}{{ end }}
     {{- with .fatContent }}, "fatContent": "{{ . }}"{{ end }}
     {{- with .carbohydrateContent }}, "carbohydrateContent": "{{ . }}"{{ end }}
     {{- with .proteinContent }}, "proteinContent": "{{ . }}"{{ end }}
