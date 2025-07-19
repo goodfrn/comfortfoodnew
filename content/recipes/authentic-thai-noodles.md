@@ -26,7 +26,7 @@ keywords:
 - "sriracha sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
- calories: "480"
+ calories: 480
  fatContent: "25g"
  carbohydrateContent: "40g"
  proteinContent: "28g"
