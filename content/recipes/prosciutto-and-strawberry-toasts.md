@@ -26,7 +26,7 @@ keywords:
 - "balsamic glaze"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
- calories: "250"
+ calories: 250
  fatContent: "15g"
  carbohydrateContent: "20g"
  proteinContent: "10g"
