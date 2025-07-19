@@ -26,7 +26,7 @@ keywords:
 - "hearty baking"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
- calories: "420"
+ calories: 420
  fatContent: "18g"
  carbohydrateContent: "40g"
  proteinContent: "35g"
