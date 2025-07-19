@@ -1,13 +1,16 @@
-/* Service Worker pour cache offline */
+/* Service Worker universel pour sites Hugo */
 
-const CACHE_NAME = 'recettes-blog-v1';
+// ✅ NOM DYNAMIQUE basé sur le domaine
+const SITE_NAME = self.location.hostname.replace(/\./g, '-');
+const CACHE_NAME = `hugo-site-${SITE_NAME}-v1`;
+
 const urlsToCache = [
   '/', 
   '/css/style.compiled.css',
   '/js/main.compiled.js',
   '/fonts/Inter-400.woff2',
-  '/fonts/Inter-600.woff2',
-  '/offline.html'
+  '/fonts/Inter-600.woff2'
+  // ✅ SUPPRIMÉ: offline.html
 ];
 
 // Installation
@@ -15,7 +18,7 @@ self.addEventListener('install', event => {
   event.waitUntil(
     caches.open(CACHE_NAME)
       .then(cache => {
-        console.log('Cache ouvert');
+        console.log(`Cache ouvert: ${CACHE_NAME}`);
         return cache.addAll(urlsToCache);
       })
   );
@@ -43,6 +46,12 @@ self.addEventListener('activate', event => {
 self.addEventListener('fetch', event => {
   const { request } = event;
   const url = new URL(request.url);
+  
+  // ✅ NOUVEAU: Skip requêtes non-GET
+  if (request.method !== 'GET') {
+    event.respondWith(fetch(request));
+    return;
+  }
   
   // Cache-first pour les assets statiques
   if (request.destination === 'style' || 
@@ -80,9 +89,12 @@ async function cacheFirst(request) {
   
   try {
     const response = await fetch(request);
-    if (response.ok) {
+    
+    // ✅ CORRIGÉ: Vérifier que c'est GET avant de cacher
+    if (response.ok && request.method === 'GET') {
       cache.put(request, response.clone());
     }
+    
     return response;
   } catch (error) {
     console.error('Fetch failed:', error);
@@ -93,10 +105,13 @@ async function cacheFirst(request) {
 async function networkFirst(request) {
   try {
     const response = await fetch(request);
-    if (response.ok) {
+    
+    // ✅ CORRIGÉ: Vérifier que c'est GET avant de cacher
+    if (response.ok && request.method === 'GET') {
       const cache = await caches.open(CACHE_NAME);
       cache.put(request, response.clone());
     }
+    
     return response;
   } catch (error) {
     const cached = await caches.match(request);
@@ -104,11 +119,7 @@ async function networkFirst(request) {
       return cached;
     }
     
-    // Fallback page offline
-    if (request.mode === 'navigate') {
-      return caches.match('/offline.html');
-    }
-    
+    // ✅ SIMPLIFIÉ: Pas de page offline, juste throw l'erreur
     throw error;
   }
 }
