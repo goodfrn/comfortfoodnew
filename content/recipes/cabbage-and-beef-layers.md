@@ -12,7 +12,7 @@ author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT145M
 totalTime: PT170M
-recipeYield: 6 servings
+recipeYield: 6
 categories: ["Main Dishes"]
 tags:
 - "cabbage"
