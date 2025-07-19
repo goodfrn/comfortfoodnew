@@ -36,10 +36,10 @@ colors:
   brand_color: "#d97706"
 
 social:
-  facebook: "https://facebook.com/comfortfooduk"
-  instagram: "https://instagram.com/comfortfood.uk"
+  facebook: "https://facebook.com/"
+  instagram: "https://instagram.com/"
   pinterest: "https://www.pinterest.com/Comfortfood00/"
-  twitter: "https://twitter.com/comfortfooduk"
+  twitter: "https://twitter.com/"
 
 header:
   search_placeholder: "Search for comfort food recipes..."
