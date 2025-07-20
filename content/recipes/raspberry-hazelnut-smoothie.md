@@ -4,7 +4,7 @@ slug: "raspberry-hazelnut-smoothie"
 description: "This smoothie has banana, raspberries, and yogurt. A sweet mix. Hazelnut butter adds richness. Maple syrup for sweetness. Cold and refreshing. Blend until smooth. Perfect for breakfast or a snack. Healthy ingredients. Fruit and nut combo. Satisfies hunger. Nutrient-packed drink."
 metaDescription: "Raspberry Hazelnut Smoothie is a rich blend of bananas, raspberries, & yogurt. Sweet & creamy, perfect for breakfast or any snack on the go"
 ogDescription: "Enjoy this Raspberry Hazelnut Smoothie, a delightful mix of banana and raspberries for a refreshing start to your day, healthy and satisfying."
-focusKeyphrase: "Raspberry Hazelnut Smoothie"
+focusKeyphrase: "Raspberry Hazelnut Smoothie" 
 date: 2025-07-15
 draft: false
 image: raspberry-hazelnut-smoothie.png
