@@ -1,0 +1,98 @@
+---
+title: "Pork Pineapple Fritters"
+slug: "pork-pineapple-fritters"
+description: "Thin pork strips in pineapple tempura batter. Tangy-spicy sauce with star anise and cayenne. Fried golden brown. Sesame seeds finish. Serve with Asian veggie salad. Slightly tweaked seasoning, bold flavor, variation on classic deep-fried pork fritters with tropical twist."
+metaDescription: "Pork Pineapple Fritters with crispy texture and tangy sauce. A flavorful twist on traditional pork fritters, perfect for a unique meal."
+ogDescription: "Discover Pork Pineapple Fritters, a fusion dish with crispy bites and sweet sauce. Perfect for a tasty twist on classic fritters."
+focusKeyphrase: "Pork Pineapple Fritters"
+date: 2025-07-21
+draft: false
+image: pork-pineapple-fritters.png
+author: "Emma"
+prepTime: PT35M
+cookTime: PT30M
+totalTime: PT1H5M
+recipeYield: "About 24 fritters"
+categories: ["Appetizers"]
+tags:
+- "Asian cuisine"
+- "fritters"
+- "pork recipes"
+- "deep-fried"
+- "appetizers"
+keywords:
+- "pork fritters"
+- "pineapple sauce"
+- "fried snacks"
+breadcrumb: ["Home", "Recipes", "Appetizers"]
+nutrition: 
+ calories: "320"
+ fatContent: "18g"
+ carbohydrateContent: "26g"
+ proteinContent: "22g"
+ingredients:
+- "=== Sauce ==="
+- "12 ml (2 1/2 tsp) corn or tapioca starch"
+- "20 ml (1 1/3 tbsp) water"
+- "140 ml (2/3 cup) brown sugar"
+- "20 ml (1 1/3 tbsp) rice vinegar"
+- "270 ml (1 cup plus 2 tbsp) diced pineapple"
+- "3 cloves garlic, minced"
+- "12 ml (2 1/2 tsp) grated ginger"
+- "95 ml (1/2 cup) beef stock"
+- "90 ml (just under 1/2 cup) pineapple juice"
+- "35 ml (2 1/3 tbsp) soy sauce"
+- "7 ml (1 1/2 tsp) toasted sesame oil"
+- "2 star anise pods"
+- "1 pinch smoked paprika"
+- ""
+- "=== Tempura batter ==="
+- "Peanut or vegetable oil for frying"
+- "180 ml (3/4 cup) tapioca starch"
+- "300 ml (1 1/4 cups) all-purpose flour"
+- "20 ml (1 1/3 tbsp) sugar"
+- "6 ml (1 1/4 tsp) baking powder"
+- "5 ml (1 tsp) curry powder"
+- "1 pinch salt"
+- "200 ml (just under 1 cup) pineapple juice"
+- "140 ml (slightly less than 2/3 cup) cold water"
+- "650 g (1 7/16 lb) pork steaks, thinly sliced"
+- "20 ml (1 1/3 tbsp) black or white sesame seeds"
+instructions:
+- "=== Prepare sauce ==="
+- "Mix starch and water in small bowl. Set aside."
+- "Combine sugar and vinegar in saucepan. Heat until sugar caramelizes to amber tone."
+- "Add pineapple, garlic, ginger, stock, pineapple juice, soy sauce, sesame oil, star anise, smoked paprika. Bring to boil."
+- "Simmer gently 6 minutes."
+- "Stir in starch mixture, cook 3 minutes whisking constantly until thickened. Keep warm."
+- ""
+- "=== Batter and frying ==="
+- "Heat oil in deep fryer or heavy pot to high heat (about 180–190 °C)."
+- "Preheat oven to 95 °C (200 °F). Line baking tray with paper towels."
+- "Whisk dry ingredients in bowl: tapioca starch, flour, sugar, baking powder, curry powder, salt."
+- "Add pineapple juice and water gradually, whisk to smooth batter."
+- "Toss pork slices in batter until well coated."
+- "Drop a heaping 50 ml (3 1/3 tbsp) of batter-fried pork for each fritter into hot oil, fry 4 to 6 minutes until golden crisp. Fry 4–6 at once, don’t overcrowd."
+- "Drain and transfer to baking tray; keep in oven to stay warm and crunchy."
+- ""
+- "=== Assembly ==="
+- "Just before serving, toss hot pork fritters in warm sauce to coat evenly."
+- "Bring to brief boil to marry flavors."
+- "Sprinkle generously with sesame seeds."
+- "Serve alongside crisp Asian vegetable salad."
+introduction: "Pork strips, pineapple, batter — mix. Sweet, sour, spicy, crisp. Sauce thickened with starch, star anise gives subtle licorice background. Smoked paprika instead of cayenne adds warm depth. Fried in hot peanut oil for crunch. Batter has more starch and flour, a bit more curry powder, more pineapple juice, water swapped slightly. Star anise remains, but the sauce is a touch sweeter with brown sugar, vinegar dosage raised. Fry time nudged to 4–6 minutes for perfect gold. Serve hot. Sesame seeds for crunch and nuttiness. Asian salad balances richness."
+ingredientsNote: "Measurements shifted up or down roughly 30%. Starches changed — tapioca and corn mix for sauce thickener. Brown sugar over white for richer caramel notes. Smoked paprika replaces cayenne to give smoky warmth, more mellow. Added curry powder increased slightly for paprika's flavor to shine. Water in batter balanced with pineapple juice for moisture and tang. Pork preference: thin-cut pork steaks maintain chew and absorb sauce better. Sesame seeds can be toasted black or white. Oil recommendations focus on peanut or vegetable due to high heat tolerance. Keep ingredients chilled for batter to crisp better on frying."
+instructionsNote: "Adjust heating times ±5% from original. Caramelizing sugar until amber is key for flavor base. Stir starch slurry in carefully or sauce lumps. Don't rush frying small batches; overcrowding lowers oil temp, soggy crust. Oven at 95 °C low temp keeps fritters crisp, warm without losing crunch. Toss pork in batter thoroughly for even coat but don't soak too long — prevents gummy texture. Quick boil after mixing sauce and beignets melds flavors. Final sesame sprinkle adds to aroma and texture contrast. Serve immediately with fresh, crisp salad for acidic bite."
+tips:
+- "Keep oil hot, about 180-190 °C. Check with a small batter drop. If it sizzles, ready. Don't overcrowd pan. Overcrowding lowers temp. Soggy instead of crispy."
+- "Pineapple juice adds sweetness but balance with other flavors. Use good quality fruit. Fresh is best. Adjust sauce sweetness to your taste. Add vinegar for tang."
+- "Batter mixing is important, but don’t overdo it. Whisk gently to avoid lumps. Too much mixing makes it tough. Chill batter beforehand. Cold helps achieve crispiness."
+- "Star anise in sauce gives a unique background taste. Don't skip it. Adds depth to sauce. Try using other spices if needed. But star anise works best here."
+- "Serve immediately. These fritters become soggy over time. The sauce is thick, coating well but timing is key. Make salad right before serving. Freshness is crucial."
+faq:
+- "q: How to store leftover fritters a: Keep in airtight container. Fridge is best. But they lose crunch. Can reheat in oven. Not in microwave."
+- "q: Can I use different meat a: Yes, chicken or shrimp works too. Both absorb flavors better than pork. Adjust cooking time for different meats."
+- "q: What if the batter is too thick a: Thin with more cold water. But make it too runny and fritters won't hold shape. Aim for smooth, coat should be even."
+- "q: Can I freeze these fritters a: Yes, freeze after frying. Use parchment paper between layers. Reheat straight from freezer but correct frying time."
+
+---
