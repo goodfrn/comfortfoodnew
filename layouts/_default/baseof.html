@@ -16,12 +16,26 @@
   {{ $css := resources.Get "css/style.compiled.css" | resources.ExecuteAsTemplate "main.processed.css" . }}
   {{ if hugo.IsProduction }}
     {{ $css = $css | resources.Fingerprint "sha512" }}
-    <link rel="stylesheet"
+    <link rel="preload"
           href="{{ $css.RelPermalink }}"
+          as="style"
           integrity="{{ $css.Data.Integrity }}"
-          crossorigin="anonymous">
+          crossorigin="anonymous"
+          onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet"
+            href="{{ $css.RelPermalink }}"
+            integrity="{{ $css.Data.Integrity }}"
+            crossorigin="anonymous">
+    </noscript>
   {{ else }}
-    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    <link rel="preload" 
+          href="{{ $css.RelPermalink }}" 
+          as="style" 
+          onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+      <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    </noscript>
   {{ end }}
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
