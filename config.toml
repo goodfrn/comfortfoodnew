@@ -126,12 +126,12 @@ title = "Comfort Food"
   weight     = 5
 
 ###############################################################################
-#  Optimisations de performance
+#  Optimisations de performance (SECTION UNIFIÉE)
 ###############################################################################
 [caches]
   [caches.assets]
     dir = ":cacheDir/:project"
-    maxAge = "24h"
+    maxAge = "48h"              # Cache optimisé pour dev
   [caches.getcsv]
     dir = ":cacheDir/:project"
     maxAge = "1h"
@@ -140,7 +140,7 @@ title = "Comfort Food"
     maxAge = "1h"
   [caches.getresource]
     dir = ":cacheDir/:project"
-    maxAge = "1h"
+    maxAge = "24h"              # Cache plus long pour éviter recalculs
   [caches.images]
     dir = ":cacheDir/:project"
     maxAge = "24h"
@@ -149,7 +149,7 @@ title = "Comfort Food"
     maxAge = "24h"
 
 ###############################################################################
-#  Optimisation complète des assets (SECTION UNIFIÉE)
+#  Optimisation complète des assets
 ###############################################################################
 [minify]
   disableCSS = false
@@ -202,19 +202,9 @@ title = "Comfort Food"
     disableDate = false
     disableLatLong = true
 
-  
 ###############################################################################
-#  Builds plus rapides (à ajouter à la fin)
+#  Mode développement optimisé
 ###############################################################################
-
-# Cache plus long pour éviter les recalculs
-[caches.getresource]
-  maxAge = "24h"        # Au lieu de 1h
-
-[caches.assets]  
-  maxAge = "48h"        # Au lieu de 24h
-
-# Mode développement sans certaines optimisations lourdes
 [environments.development]
   [environments.development.build]
     writeStats = false          # Pas de stats en dev
