@@ -8,11 +8,11 @@
   <link rel="canonical" href="{{ .Permalink }}">
   {{ partial "head-meta.html" . }}
   
-  {{/* ---------- PRELOAD CSS pour améliorer LCP ---------- */}}
+  {{/* ---------- CSS critique avec preload sécurisé ---------- */}}
   {{ $css := resources.Get "css/style.compiled.css" | resources.ExecuteAsTemplate "main.processed.css" . }}
   {{ if hugo.IsProduction }}
     {{ $css = $css | resources.Fingerprint "sha512" }}
-    {{/* Preload CSS critique */}}
+    {{/* Preload CSS avec hash cohérent */}}
     <link rel="preload" href="{{ $css.RelPermalink }}" as="style">
     <link rel="stylesheet"
           href="{{ $css.RelPermalink }}"
@@ -22,17 +22,8 @@
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
   
-  {{/* ---------- PRELOAD JS modules en production ---------- */}}
-  {{ if hugo.IsProduction }}
-    {{ $fuseJS := resources.Get "vendors/fuse/fuse.min.js" | resources.Fingerprint "sha512" }}
-    {{ $mainJS := resources.Get "js/main.compiled.js" | resources.Minify | resources.Fingerprint "sha512" }}
-    {{ if $fuseJS }}
-      <link rel="preload" href="{{ $fuseJS.RelPermalink }}" as="script">
-    {{ end }}
-    {{ if $mainJS }}
-      <link rel="preload" href="{{ $mainJS.RelPermalink }}" as="script">
-    {{ end }}
-  {{ end }}
+  {{/* ---------- PAS de preload JS pour éviter les conflicts ---------- */}}
+  {{/* Les scripts defer sont suffisamment rapides */}}
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
   {{/* ---------- Script critique inline (évite FOUC) ---------- */}}
