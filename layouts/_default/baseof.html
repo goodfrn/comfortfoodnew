@@ -8,12 +8,10 @@
   <link rel="canonical" href="{{ .Permalink }}">
   {{ partial "head-meta.html" . }}
   
-  {{/* ---------- CSS critique avec preload sécurisé ---------- */}}
+  {{/* ---------- CSS via Hugo Pipes (BLOQUANT – Fix CLS) ---------- */}}
   {{ $css := resources.Get "css/style.compiled.css" | resources.ExecuteAsTemplate "main.processed.css" . }}
   {{ if hugo.IsProduction }}
     {{ $css = $css | resources.Fingerprint "sha512" }}
-    {{/* Preload CSS avec hash cohérent */}}
-    <link rel="preload" href="{{ $css.RelPermalink }}" as="style">
     <link rel="stylesheet"
           href="{{ $css.RelPermalink }}"
           integrity="{{ $css.Data.Integrity }}"
@@ -21,19 +19,8 @@
   {{ else }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
-  
-  {{/* ---------- PAS de preload JS pour éviter les conflicts ---------- */}}
-  {{/* Les scripts defer sont suffisamment rapides */}}
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
-  {{/* ---------- Script critique inline (évite FOUC) ---------- */}}
-  <script>
-    // Détection thème sombre si vous l'utilisez
-    if ('theme' in localStorage && localStorage.theme === 'dark') {
-      document.documentElement.classList.add('dark');
-    }
-  </script>
-  
   {{/* ---------- Google Analytics - Placé juste après <body> ---------- */}}
   {{ partial "analytics.html" . }}
     
@@ -50,7 +37,7 @@
   
   {{ partial "footer.html" . }}
   
-  {{/* ---------- JS via Hugo Pipes OPTIMISÉ ---------- */}}
+  {{/* ---------- JS via Hugo Pipes ---------- */}}
   {{ $fuseJS := resources.Get "vendors/fuse/fuse.min.js" }}
   {{ $mainJS := resources.Get "js/main.compiled.js" }}
   
@@ -59,16 +46,14 @@
       {{ $fuseJS = $fuseJS | resources.Fingerprint "sha512" }}
       <script src="{{ $fuseJS.RelPermalink }}"
               integrity="{{ $fuseJS.Data.Integrity }}"
-              crossorigin="anonymous" 
-              defer></script>
+              crossorigin="anonymous" defer></script>
     {{ end }}
     
     {{ if $mainJS }}
       {{ $mainJS = $mainJS | resources.Minify | resources.Fingerprint "sha512" }}
       <script src="{{ $mainJS.RelPermalink }}"
               integrity="{{ $mainJS.Data.Integrity }}"
-              crossorigin="anonymous" 
-              defer></script>
+              crossorigin="anonymous" defer></script>
     {{ end }}
   {{ else }}
     {{ if $fuseJS }}
