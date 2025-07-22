@@ -1,55 +1,68 @@
-// assets/js/modules/recipe-sticky-nav.js - Version avec export
+// assets/js/modules/recipe-sticky-nav.js - Version OPTIMISÉE
 export function initStickyNav() {
-  console.log('Sticky Nav JavaScript chargé');
   const nav = document.getElementById('stickyNav');
-  if (!nav) {
-    console.log('Sticky nav NOT found');
-    return;
-  }
-  console.log('Sticky nav trouvé');
+  if (!nav) return;
   
-  // —— Highlight au scroll ——
+  // Cache des éléments pour éviter les requêtes DOM répétées
   const sections = ['ingredients', 'steps', 'faq'];
+  const sectionElements = sections.map(id => ({
+    id,
+    element: document.getElementById(id)
+  })).filter(item => item.element);
+  
+  const navLinks = document.querySelectorAll('#stickyNav .navLink');
+  
+  // Throttle pour limiter les calculs
+  let ticking = false;
+  let currentActive = 'ingredients';
   
   function highlightNav() {
-    let active = 'ingredients';
-    for (const id of sections) {
-      const el = document.getElementById(id);
-      if (el && el.getBoundingClientRect().top <= 120) {
-        active = id;
+    // ✅ GROUPE TOUTES LES LECTURES d'abord
+    const positions = sectionElements.map(({ id, element }) => ({
+      id,
+      top: element.getBoundingClientRect().top
+    }));
+    
+    // ✅ Calcul de l'active sans toucher au DOM
+    let newActive = 'ingredients';
+    for (const { id, top } of positions) {
+      if (top <= 120) {
+        newActive = id;
       }
     }
     
-    // Mettre à jour les liens actifs
-    document.querySelectorAll('#stickyNav .navLink').forEach(a => {
-      const isActive = a.dataset.target === active;
-      if (isActive) {
-        a.classList.add('text-red-500');
-        a.classList.remove('text-gray-600');
-      } else {
-        a.classList.add('text-gray-600');
-        a.classList.remove('text-red-500');
-      }
-    });
+    // ✅ Ne met à jour que si ça a changé (évite les écritures inutiles)
+    if (newActive !== currentActive) {
+      currentActive = newActive;
+      
+      // ✅ GROUPE TOUTES LES ÉCRITURES
+      navLinks.forEach(link => {
+        const isActive = link.dataset.target === currentActive;
+        // Utilisation de toggle pour moins d'opérations DOM
+        link.classList.toggle('text-red-500', isActive);
+        link.classList.toggle('text-gray-600', !isActive);
+      });
+    }
+    
+    ticking = false;
   }
   
-  document.addEventListener('scroll', () => requestAnimationFrame(highlightNav));
+  function onScroll() {
+    if (!ticking) {
+      requestAnimationFrame(highlightNav);
+      ticking = true;
+    }
+  }
+  
+  // ✅ Throttled scroll listener
+  document.addEventListener('scroll', onScroll, { passive: true });
   highlightNav(); // Init
   
-  // —— Toggle Pin ——  
+  // —— Pinterest Pin (inchangé) ——  
   const pinBtn = document.getElementById('navPinBtn');
-  const pinIcon = document.getElementById('navPinIcon');
-  
-  if (!pinBtn) {
-    console.log('Pin button NOT found');
-    return;
-  }
-  console.log('Pin button trouvé');
+  if (!pinBtn) return;
   
   function togglePin() {
-    // OUVRIR PINTEREST POUR ÉPINGLER SUR LE COMPTE DU VISITEUR
-    console.log('Opening Pinterest to pin to user account');
-    
     const url = encodeURIComponent(window.location.href);
     const description = encodeURIComponent(document.title);
     const image = document.querySelector('meta[property="og:image"]')?.content || '';
@@ -61,10 +74,8 @@ export function initStickyNav() {
   
   pinBtn.addEventListener('click', function(e) {
     e.preventDefault();
-    console.log('Pin button clicked - opening Pinterest');
     togglePin();
   });
   
-  // Couleur par défaut pour le bouton Pinterest
   pinBtn.classList.add('text-red-500');
 }
