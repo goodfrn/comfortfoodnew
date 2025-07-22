@@ -201,3 +201,23 @@ title = "Comfort Food"
     excludeFields = ""
     disableDate = false
     disableLatLong = true
+
+  
+###############################################################################
+#  Builds plus rapides (à ajouter à la fin)
+###############################################################################
+
+# Cache plus long pour éviter les recalculs
+[caches.getresource]
+  maxAge = "24h"        # Au lieu de 1h
+
+[caches.assets]  
+  maxAge = "48h"        # Au lieu de 24h
+
+# Mode développement sans certaines optimisations lourdes
+[environments.development]
+  [environments.development.build]
+    writeStats = false          # Pas de stats en dev
+    
+  [environments.development.build.buildStats]
+    enable = false             # Pas de tracking en dev
