@@ -53,18 +53,10 @@ jobs:
          hugo-version: 'latest'
          extended: true
          
-     - name: Build site (Optimized)
+     - name: Build site (Fixed)
        run: |
-         echo "🚀 Starting optimized build..."
-         
-         if [ -d "resources/_gen" ] && [ -d "public" ]; then
-           echo "📦 Cache found - doing incremental build"
-           hugo --minify --quiet
-         else
-           echo "🏗️ No cache - doing full build"
-           hugo --gc --minify
-         fi
-         
+         echo "🚀 Building Hugo site..."
+         hugo --gc --minify
          echo "✅ Build complete!"
          
      - name: Setup Pages
