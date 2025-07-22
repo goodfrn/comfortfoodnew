@@ -19,18 +19,11 @@
   {{ else }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
-  
-  {{/* Préconnexion pour Plausible */}}
-  {{ with .Site.Params.analytics.plausibleDomain }}
-    <link rel="preconnect" href="https://plausible.io">
-    <link rel="dns-prefetch" href="https://plausible.io">
-  {{ end }}
-  {{/* Plausible Analytics */}}
-  {{ with .Site.Params.analytics.plausibleDomain }}
-    <script defer data-domain="{{ . }}" src="https://plausible.io/js/script.js"></script>
-  {{ end }}
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
+  {{/* ---------- Google Analytics - Placé juste après <body> ---------- */}}
+  {{ partial "analytics.html" . }}
+    
   {{ $config := .Site.Data.config }}
   <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 bg-primary text-white px-4 py-2 rounded">
     {{ $config.components.accessibility.skip_to_content | default "Aller au contenu principal" }}
@@ -72,3 +65,4 @@
   {{ end }}
 </body>
 </html>
+
