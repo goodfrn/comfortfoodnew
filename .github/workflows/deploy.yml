@@ -1,19 +1,15 @@
 name: Deploy to GitHub Pages + Cloudflare (Optimized)
-
 on:
  push:
    branches: [ main ]
  workflow_dispatch:
-
 permissions:
  contents: read
  pages: write
  id-token: write
-
 concurrency:
  group: "pages"
  cancel-in-progress: false
-
 jobs:
  build-and-deploy:
    runs-on: ubuntu-latest
@@ -28,16 +24,15 @@ jobs:
          node-version: '20'
          cache: 'npm'
          
-     - name: Cache Hugo resources
+     - name: Cache Hugo resources (FIXED)
        uses: actions/cache@v3
        with:
          path: |
-           resources/_gen
            public
            .hugo_build.lock
-         key: hugo-cache-${{ hashFiles('assets/**', 'content/**', 'data/**', 'layouts/**') }}
+         key: hugo-cache-v2-${{ hashFiles('assets/**', 'content/**', 'data/**', 'layouts/**') }}
          restore-keys: |
-           hugo-cache-
+           hugo-cache-v2-
          
      - name: Install dependencies
        run: npm ci
@@ -50,8 +45,14 @@ jobs:
      - name: Setup Hugo
        uses: peaceiris/actions-hugo@v3
        with:
-         hugo-version: 'latest'
+         hugo-version: '0.131.0'
          extended: true
+         
+     - name: Clear Hugo image cache
+       run: |
+         echo "🗑️ Clearing Hugo resources cache..."
+         rm -rf resources/_gen/
+         echo "✅ Cache cleared!"
          
      - name: Build site (Fixed)
        run: |
