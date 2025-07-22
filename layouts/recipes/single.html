@@ -271,26 +271,26 @@
         {{ end }}
         
         {{ with .Params.faq }}
-          <div class="card card--large" id="faq">
-            <h2 class="section__title">{{ $recipe_page.sections.faq }}</h2>
-            <div class="space-y-4">
-              {{ range . }}
-                {{ if strings.Contains . "q:" }}
-                  {{ $parts := split . "a:" }}
-                  {{ $question := index $parts 0 | replaceRE "q:\\s*" "" | trim " " }}
-                  {{ $answer := index $parts 1 | trim " " }}
-                  
-                  <details class="p-5 bg-stone-50 border border-stone-200 rounded-lg shadow-sm">
-                    <summary class="font-medium cursor-pointer text-stone-800 hover:text-stone-900">
-                      {{ $question }}
-                    </summary>
-                    <p class="mt-4 text-stone-700 leading-relaxed">{{ $answer }}</p>
-                  </details>
-                {{ end }}
-              {{ end }}
-            </div>
-          </div>
-        {{ end }}
+         <div class="card card--large" id="faq">
+           <h2 class="section__title">{{ $recipe_page.sections.faq }}</h2>
+           <div class="space-y-4">
+             {{ range . }}
+               {{ if strings.Contains . "q:" }}
+                 {{ $parts := split . "a:" }}
+                 {{ $question := index $parts 0 | replaceRE "q:\\s*" "" }}
+                 {{ $answer := index $parts 1 }}
+                 
+                 <details class="p-5 bg-stone-50 border border-stone-200 rounded-lg shadow-sm">
+                   <summary class="font-medium cursor-pointer text-stone-800 hover:text-stone-900">
+                     {{ $question }}
+                   </summary>
+                   <p class="mt-4 text-stone-700 leading-relaxed">{{ $answer }}</p>
+                 </details>
+               {{ end }}
+             {{ end }}
+           </div>
+         </div>
+       {{ end }}
         
         <!-- Articles liés -->
         {{ partial "related.html" . }}
