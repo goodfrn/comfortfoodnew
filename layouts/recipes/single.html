@@ -66,21 +66,19 @@
       <!-- Image -->
       {{ with .Params.image }}
         <div class="w-full max-w-md mx-auto lg:mx-0 lg:max-w-none">
-          {{/* VERSION SIMPLIFIÉE : WebP + Fallback JPG seulement */}}
           {{ $img := resources.Get (printf "images/%s" .) }}
           {{ if $img }}
-            {{/* Taille EXACTE avec WebP + fallback JPEG */}}
-            {{ $webp := $img.Fill "348x261 q80 webp" }}
-            {{ $fallback := $img.Fill "348x261 q85" }}
+            {{/* 🎯 OPTIMISÉ : Taille exacte + compression réduite */}}
+            {{ $webp := $img.Fill "392x261 q65 webp" }}
+            {{ $fallback := $img.Fill "392x261 q70" }}
             
             <picture>
               <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
               <img src="{{ $fallback.RelPermalink }}" 
                    alt="{{ $.Title }}" 
                    class="rounded-2xl shadow-lg w-full h-auto object-cover"
-                   loading="eager"
-                   fetchpriority="high"
-                   width="348" 
+                   loading="lazy"
+                   width="392" 
                    height="261">
             </picture>
           {{ else }}
@@ -91,6 +89,7 @@
           {{ end }}
         </div>
       {{ end }}
+
       
       <!-- Infos recette organisées -->
       <div class="flex flex-col gap-6">
