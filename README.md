@@ -298,3 +298,8 @@ gopkg.in/yaml.v3="v3.0.1"
 software.sslmate.com/src/go-pkcs12="v0.2.0"
 ```
 </details>
+
+## Performance Optimizations Applied
+- Images: q65/q70 compression
+- CSS: PurgeCSS optimization
+- JS: Removed unused libraries
