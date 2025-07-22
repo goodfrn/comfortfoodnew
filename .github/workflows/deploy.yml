@@ -24,15 +24,16 @@ jobs:
          node-version: '20'
          cache: 'npm'
          
-     - name: Cache Hugo resources (FIXED)
+     - name: Cache Hugo resources
        uses: actions/cache@v3
        with:
          path: |
+           resources/_gen
            public
            .hugo_build.lock
-         key: hugo-cache-v2-${{ hashFiles('assets/**', 'content/**', 'data/**', 'layouts/**') }}
+         key: hugo-cache-${{ hashFiles('assets/**', 'content/**', 'data/**', 'layouts/**') }}
          restore-keys: |
-           hugo-cache-v2-
+           hugo-cache-
          
      - name: Install dependencies
        run: npm ci
@@ -48,13 +49,7 @@ jobs:
          hugo-version: '0.131.0'
          extended: true
          
-     - name: Clear Hugo image cache
-       run: |
-         echo "🗑️ Clearing Hugo resources cache..."
-         rm -rf resources/_gen/
-         echo "✅ Cache cleared!"
-         
-     - name: Build site (Fixed)
+     - name: Build site
        run: |
          echo "🚀 Building Hugo site..."
          hugo --gc --minify
