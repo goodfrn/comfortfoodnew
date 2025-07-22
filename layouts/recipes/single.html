@@ -69,9 +69,9 @@
           {{/* VERSION SIMPLIFIÉE : WebP + Fallback JPG seulement */}}
           {{ $img := resources.Get (printf "images/%s" .) }}
           {{ if $img }}
-            {{/* Générer WebP + Fallback JPG */}}
-            {{ $webp := $img.Fill "800x600 q80 webp" }}
-            {{ $fallback := $img.Fill "800x600 q85" }}
+            {{/* Taille EXACTE avec WebP + fallback JPEG */}}
+            {{ $webp := $img.Fill "348x261 q80 webp" }}
+            {{ $fallback := $img.Fill "348x261 q85" }}
             
             <picture>
               <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
@@ -79,8 +79,8 @@
                    alt="{{ $.Title }}" 
                    class="rounded-2xl shadow-lg w-full h-auto object-cover"
                    loading="eager"
-                   width="800" 
-                   height="600">
+                   width="348" 
+                   height="261">
             </picture>
           {{ else }}
             {{/* Fallback si image non trouvée */}}
