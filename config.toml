@@ -53,11 +53,6 @@ title = "Comfort Food"
     isPlainText = true
     notAlternative = true
 
-[minify]
-  # autres options…
-  [minify.tdewolff.html]
-    keepQuotes = true   # ← conserve toujours les guillemets
-
 ###############################################################################
 #  Pages liées (recommandations)
 ###############################################################################
@@ -154,7 +149,7 @@ title = "Comfort Food"
     maxAge = "24h"
 
 ###############################################################################
-#  Optimisation des assets
+#  Optimisation complète des assets (SECTION UNIFIÉE)
 ###############################################################################
 [minify]
   disableCSS = false
@@ -163,9 +158,11 @@ title = "Comfort Food"
   disableJSON = false
   disableSVG = false
   disableXML = false
+  
   [minify.tdewolff.css]
     keepCSS2 = true
     precision = 0
+    
   [minify.tdewolff.html]
     keepComments = false
     keepConditionalComments = true
@@ -174,15 +171,19 @@ title = "Comfort Food"
     keepEndTags = true
     keepQuotes = true
     keepWhitespace = false
+    
   [minify.tdewolff.js]
     keepVarNames = false
     precision = 0
+    
   [minify.tdewolff.json]
     keepNumbers = false
     precision = 0
+    
   [minify.tdewolff.svg]
     keepComments = false
     precision = 0
+    
   [minify.tdewolff.xml]
     keepWhitespace = false
 
@@ -190,16 +191,13 @@ title = "Comfort Food"
 #  Optimisation des images
 ###############################################################################
 [imaging]
-  # Format par défaut pour les images redimensionnées
   resampleFilter = "CatmullRom"
   quality = 85
   hint = "photo"
   anchor = "smart"
   
-  # Formats supportés
   [imaging.exif]
     includeFields = ""
     excludeFields = ""
     disableDate = false
     disableLatLong = true
-
