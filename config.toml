@@ -130,4 +130,76 @@ title = "Comfort Food"
   url        = "/contact/"
   weight     = 5
 
+###############################################################################
+#  Optimisations de performance
+###############################################################################
+[caches]
+  [caches.assets]
+    dir = ":cacheDir/:project"
+    maxAge = "24h"
+  [caches.getcsv]
+    dir = ":cacheDir/:project"
+    maxAge = "1h"
+  [caches.getjson]
+    dir = ":cacheDir/:project"
+    maxAge = "1h"
+  [caches.getresource]
+    dir = ":cacheDir/:project"
+    maxAge = "1h"
+  [caches.images]
+    dir = ":cacheDir/:project"
+    maxAge = "24h"
+  [caches.modules]
+    dir = ":cacheDir/:project"
+    maxAge = "24h"
+
+###############################################################################
+#  Optimisation des assets
+###############################################################################
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  [minify.tdewolff.css]
+    keepCSS2 = true
+    precision = 0
+  [minify.tdewolff.html]
+    keepComments = false
+    keepConditionalComments = true
+    keepDefaultAttrVals = true
+    keepDocumentTags = true
+    keepEndTags = true
+    keepQuotes = true
+    keepWhitespace = false
+  [minify.tdewolff.js]
+    keepVarNames = false
+    precision = 0
+  [minify.tdewolff.json]
+    keepNumbers = false
+    precision = 0
+  [minify.tdewolff.svg]
+    keepComments = false
+    precision = 0
+  [minify.tdewolff.xml]
+    keepWhitespace = false
+
+###############################################################################
+#  Optimisation des images
+###############################################################################
+[imaging]
+  # Format par défaut pour les images redimensionnées
+  resampleFilter = "CatmullRom"
+  quality = 85
+  hint = "photo"
+  anchor = "smart"
+  
+  # Formats supportés
+  [imaging.exif]
+    includeFields = ""
+    excludeFields = ""
+    disableDate = false
+    disableLatLong = true
 
