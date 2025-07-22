@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html lang="{{ .Site.Data.config.site.language | default .Site.Language.Lang }}">
 <head>
-  <meta charset="UTF-8"> 
+  <meta charset="UTF-8">  
   <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
