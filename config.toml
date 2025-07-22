@@ -82,7 +82,7 @@ title = "Comfort Food"
   twitterHandle = "@TonCompteX"
 
 [params.analytics]
-  ga4 = ""
+  ga4 = "G-JHKHXM8ZTK"
 
 [params.ui]
   primary     = "#0f52ba"
