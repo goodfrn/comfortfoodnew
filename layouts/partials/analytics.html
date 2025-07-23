@@ -1,12 +1,31 @@
 {{ if not hugo.IsServer }}
   {{ with site.Params.analytics.ga4 }}
-    <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id={{ . }}"></script> 
+    <!-- Google Analytics DIFFÉRÉ -->
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-      gtag('config', '{{ . }}');
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+
+    // Fonction pour charger GA4
+    function loadGA4() {
+      var script = document.createElement('script');
+      script.async = true;
+      script.src = 'https://www.googletagmanager.com/gtag/js?id={{ . }}';
+      document.head.appendChild(script);
+      
+      script.onload = function() {
+        gtag('js', new Date());
+        gtag('config', '{{ . }}');
+      };
+    }
+
+    // Charger GA4 après le LCP (2 secondes)
+    if (document.readyState === 'complete') {
+      setTimeout(loadGA4, 2000);
+    } else {
+      window.addEventListener('load', function() {
+        setTimeout(loadGA4, 2000);
+      });
+    }
     </script>
   {{ end }}
 {{ end }}
