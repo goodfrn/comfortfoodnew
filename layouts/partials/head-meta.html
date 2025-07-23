@@ -49,7 +49,8 @@ gtag('js', new Date());
 gtag('config', '{{ .Site.Params.analytics.ga4 }}');
 </script>
 
-<!-- 3. GTM différé pour tracking avancé (remplacez GTM-XXXXXXX par votre ID) -->
+<!-- 3. GTM différé pour tracking avancé -->
+{{ if .Site.Params.analytics.gtm }}
 <script>
 function loadGTM() {
   (function(w,d,s,l,i){
@@ -60,7 +61,7 @@ function loadGTM() {
     j.async=true;j.src=
     'https://www.googletagmanager.com/gtm.js?id='+i+dl;
     f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-XXXXXXX');
+  })(window,document,'script','dataLayer','{{ .Site.Params.analytics.gtm }}');
 }
 
 // Charger GTM après le LCP (2 secondes)
