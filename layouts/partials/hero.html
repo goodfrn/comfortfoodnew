@@ -1,4 +1,4 @@
-{{/* layouts/partials/hero.html – Version CENTRALISÉE avec config.yaml */}}
+{{/* layouts/partials/hero.html – Version PERFORMANCE OPTIMISÉE */}}
 
 {{ $config := .Site.Data.config }}
 {{ $hero := $config.hero }}
@@ -12,40 +12,40 @@
 {{ $imgMobile := resources.Get $srcMobile }}
 
 {{ if and $imgDesktop $imgMobile }}
-  <section class="hero relative overflow-hidden min-h-screen flex items-center justify-center">
+  <section class="hero relative overflow-hidden min-h-screen flex items-center justify-center bg-gradient-to-br from-gray-200 to-gray-300">
     {{/*------------------------------------------
-          Picture avec image mobile dédiée
+          Background gris immédiat (0ms render delay)
     -------------------------------------------*/}}
-    <picture class="absolute inset-0 w-full h-full z-0">
-      {{/* Mobile : image déjà optimisée */}}
+    <div class="absolute inset-0 w-full h-full bg-gradient-to-br from-gray-100 via-gray-200 to-gray-300 z-0"></div>
+    
+    {{/*------------------------------------------
+          Picture optimisé WebP mobile + desktop
+    -------------------------------------------*/}}
+    <picture class="absolute inset-0 w-full h-full z-5">
+      {{/* Mobile : convertit en WebP */}}
+      {{ $mobileWebP := $imgMobile.Fill "450x600 q40 webp" }}
       <source 
         media="(max-width: 768px)" 
-        srcset="{{ $imgMobile.RelPermalink }}"
-        type="image/jpeg">
+        srcset="{{ $mobileWebP.RelPermalink }}"
+        type="image/webp">
       
       {{/* Desktop : WebP responsive optimisé */}}
       <source 
-        srcset="{{ ($imgDesktop.Fill "800x450 q45 webp").RelPermalink }} 800w,
-                {{ ($imgDesktop.Fill "1200x675 q45 webp").RelPermalink }} 1200w,
-                {{ ($imgDesktop.Fill "1600x900 q45 webp").RelPermalink }} 1600w"
+        srcset="{{ ($imgDesktop.Fill "800x450 q40 webp").RelPermalink }} 800w,
+                {{ ($imgDesktop.Fill "1200x675 q40 webp").RelPermalink }} 1200w,
+                {{ ($imgDesktop.Fill "1600x900 q40 webp").RelPermalink }} 1600w"
         sizes="(min-width: 769px) 100vw"
         type="image/webp">
-      
-      {{/* Desktop : JPG fallback */}}
-      <source 
-        srcset="{{ ($imgDesktop.Fill "800x450 q50").RelPermalink }} 800w,
-                {{ ($imgDesktop.Fill "1200x675 q50").RelPermalink }} 1200w,
-                {{ ($imgDesktop.Fill "1600x900 q50").RelPermalink }} 1600w"
-        sizes="(min-width: 769px) 100vw">
         
       <img
-        class="w-full h-full object-cover scale-105 transition-transform duration-[2000ms] ease-out"
-        src="{{ ($imgDesktop.Fill "1200x675 q50").RelPermalink }}"
+        class="w-full h-full object-cover opacity-0 transition-opacity duration-300"
+        src="{{ ($imgDesktop.Fill "1200x675 q40 webp").RelPermalink }}"
         loading="eager"
         fetchpriority="high"
         alt="Découvre ta recette du jour"
         width="1600"
-        height="900">
+        height="900"
+        onload="this.style.opacity='1'">
     </picture>
 
     <!-- --- Overlays et design inchangés --- -->
@@ -82,19 +82,6 @@
 
       <!-- Boutons CTA - CENTRALISÉS -->
       <div class="flex justify-center items-center opacity-0 animate-scale-in animation-delay-300">
-          {{/* BOUTON "SURPRENDS-MOI" COMMENTÉ
-          <a href="{{ $hero.cta_primary_url | default "/random/" }}"
-             class="group relative inline-flex items-center justify-center px-8 py-4 text-lg font-semibold text-slate-900 brand rounded-full shadow-hero-button hover:shadow-hero-button-hover hover:scale-105 transform transition-all duration-300 ease-bounce-in overflow-hidden">
-            <div class="absolute inset-0 bg-gradient-to-r from-yellow-400 to-amber-300 rounded-full scale-0 group-hover:scale-100 transition-transform duration-300 ease-out"></div>
-            <span class="relative z-10 flex items-center">
-              {{ $hero.cta_primary_text | default "Surprends-moi !" }}
-              <svg class="w-5 h-5 ml-2 transform group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6"/>
-              </svg>
-            </span>
-          </a>
-          */}}
-        
           <a href="{{ $hero.cta_secondary_url | default "/recipes/" }}"
              class="group inline-flex items-center justify-center px-8 py-4 text-lg font-medium text-white border-2 border-white/30 hover:border-white rounded-full glass hover:glass backdrop-blur-sm transition-all duration-300">
           <span class="flex items-center">
