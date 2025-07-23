@@ -47,7 +47,7 @@
    ------------------------------------------------------------------ */}}
 {{- if not (.Scratch.Get "RecipeStickyNavJS") }}
   {{- $stickyJS := resources.Get "js/modules/recipe-sticky-nav.js" | resources.Minify | resources.Fingerprint }}
-  <script type="module" src="{{ $stickyJS.RelPermalink }}"></script>
+  <script type="module" defer src="{{ $stickyJS.RelPermalink }}"></script>
   {{- .Scratch.Set "RecipeStickyNavJS" true }}
 {{- end }}
 
