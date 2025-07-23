@@ -5,37 +5,26 @@
   <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <!-- Resource hints pour accélérer les connexions -->
   <link rel="dns-prefetch" href="//fonts.googleapis.com">
   <link rel="dns-prefetch" href="//fonts.gstatic.com">  
   <link rel="dns-prefetch" href="//www.googletagmanager.com">
   <link rel="dns-prefetch" href="//www.google-analytics.com">
+  
   <link rel="canonical" href="{{ .Permalink }}">
   {{ partial "head-meta.html" . }}
   
-  {{/* ---------- CSS via Hugo Pipes (BLOQUANT – Fix CLS) ---------- */}}
+  {{/* ---------- CSS via Hugo Pipes (SYNCHRONE - STABLE) ---------- */}}
   {{ $css := resources.Get "css/style.compiled.css" | resources.ExecuteAsTemplate "main.processed.css" . }}
   {{ if hugo.IsProduction }}
     {{ $css = $css | resources.Fingerprint "sha512" }}
-    <link rel="preload"
+    <link rel="stylesheet"
           href="{{ $css.RelPermalink }}"
-          as="style"
           integrity="{{ $css.Data.Integrity }}"
-          crossorigin="anonymous"
-          onload="this.onload=null;this.rel='stylesheet'">
-    <noscript>
-      <link rel="stylesheet"
-            href="{{ $css.RelPermalink }}"
-            integrity="{{ $css.Data.Integrity }}"
-            crossorigin="anonymous">
-    </noscript>
+          crossorigin="anonymous">
   {{ else }}
-    <link rel="preload" 
-          href="{{ $css.RelPermalink }}" 
-          as="style" 
-          onload="this.onload=null;this.rel='stylesheet'">
-    <noscript>
-      <link rel="stylesheet" href="{{ $css.RelPermalink }}">
-    </noscript>
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
