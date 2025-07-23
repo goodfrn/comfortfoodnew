@@ -91,7 +91,7 @@
    ------------------------------------------------------------------ */}}
 {{- if not (.Scratch.Get "CtaButtonsJS") }}
   {{- $ctaJS := resources.Get "js/modules/cta-buttons.js" | resources.Minify | resources.Fingerprint }}
-  <script type="module" src="{{ $ctaJS.RelPermalink }}"></script>
+  <script type="module" defer src="{{ $ctaJS.RelPermalink }}"></script>
   {{- .Scratch.Set "CtaButtonsJS" true }}
 {{- end }}
 
