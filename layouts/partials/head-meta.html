@@ -33,43 +33,31 @@
 {{ if eq .Section "recipes" }}
   {{ partial "recipe-jsonld.html" . }}
 {{ end }}
-
-<!-- Google Analytics OPTIMISÉ : GA4 + GTM différé -->
+<!-- Google Analytics DIFFÉRÉ -->
 {{ if .Site.Params.analytics.ga4 }}
-<!-- 1. DataLayer init (léger) -->
 <script>
 window.dataLayer = window.dataLayer || [];
-</script>
-
-<!-- 2. GA4 direct (léger et rapide) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.ga4 }}"></script>
-<script>
 function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', '{{ .Site.Params.analytics.ga4 }}');
-</script>
 
-<!-- 3. GTM différé pour tracking avancé -->
-{{ if .Site.Params.analytics.gtm }}
-<script>
-function loadGTM() {
-  (function(w,d,s,l,i){
-    w[l]=w[l]||[];w[l].push({'gtm.start':
-    new Date().getTime(),event:'gtm.js'});
-    var f=d.getElementsByTagName(s)[0],
-    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
-    j.async=true;j.src=
-    'https://www.googletagmanager.com/gtm.js?id='+i+dl;
-    f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','{{ .Site.Params.analytics.gtm }}');
+// Fonction pour charger GA4
+function loadGA4() {
+  var script = document.createElement('script');
+  script.async = true;
+  script.src = 'https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.ga4 }}';
+  document.head.appendChild(script);
+  
+  script.onload = function() {
+    gtag('js', new Date());
+    gtag('config', '{{ .Site.Params.analytics.ga4 }}');
+  };
 }
 
-// Charger GTM après le LCP (2 secondes)
+// Charger GA4 après le LCP (1,5 secondes)
 if (document.readyState === 'complete') {
-  setTimeout(loadGTM, 2000);
+  setTimeout(loadGA4, 1500);
 } else {
   window.addEventListener('load', function() {
-    setTimeout(loadGTM, 2000);
+    setTimeout(loadGA4, 1500);
   });
 }
 </script>
