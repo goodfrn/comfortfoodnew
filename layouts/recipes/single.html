@@ -189,9 +189,11 @@
         <div class="card card--large" id="ingredients">
           <h2 class="section__title">{{ $recipe_page.sections.ingredients }}</h2>
           <div class="recipe-list recipe-list--ingredients">
+            <ul class="space-y-1">
             {{ range .Params.ingredients }}
               {{ if strings.Contains . "===" }}
                 {{ $content := . | replaceRE "===(.+)===" "$1" }}
+                </ul>
                 <h3 class="font-bold text-lg mt-4 mb-2 text-gray-800">{{ $content }}</h3>
                 <ul class="list-disc list-inside space-y-1">
               {{ else }}
@@ -224,11 +226,13 @@
         <div class="card card--large" id="steps">
           <h2 class="section__title">{{ $recipe_page.sections.instructions }}</h2>
           <div class="recipe-list recipe-list--steps">
+            <ol class="space-y-2">
             {{ range .Params.instructions }}
               {{ if strings.Contains . "===" }}
                 {{ $content := . | replaceRE "===(.+)===" "$1" }}
+                </ol>
                 <h3 class="font-bold text-lg mt-6 mb-3 text-gray-800">{{ $content }}</h3>
-                <ol class="recipe-list recipe-list--steps">
+                <ol class="recipe-list recipe-list--steps space-y-2">
               {{ else }}
                 <li class="recipe-list__item">{{ . }}</li>
               {{ end }}
@@ -254,7 +258,6 @@
             </div>
           </div>
         {{ end }}
-
         <!-- SECTION TIPS -->
         {{ with .Params.tips }}
           <div class="card card--large" id="tips">
