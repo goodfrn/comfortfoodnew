@@ -1,11 +1,9 @@
-<!-- layouts/partials/search-input.html - VERSION NETTOYÉE -->
-
+<!-- layouts/partials/search-input.html - VERSION CORRIGÉE ARIA -->
 <div class="search">
   <!-- Libellé masqué pour l'accessibilité -->
   <label for="search-{{ .TargetID }}" class="sr-only">
     {{ .Placeholder | default site.Data.config.header.search_aria_label }}
   </label>
-
   <!-- Icône de recherche -->
   <svg
     class="search__icon"
@@ -19,8 +17,7 @@
       stroke-width="2"
       d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
   </svg>
-
-  <!-- Champ de recherche - UNIQUEMENT ton CSS custom -->
+  <!-- Champ de recherche - ARIA CORRIGÉ -->
   <input
     id="search-{{ .TargetID }}"
     name="search-{{ .TargetID }}"
@@ -30,10 +27,11 @@
     placeholder="{{ .Placeholder | default site.Data.config.header.search_placeholder }}"
     aria-label="{{ .Placeholder | default site.Data.config.header.search_aria_label }}"
     class="search__input"
-    aria-expanded="false" />
-
+    role="combobox"
+    aria-expanded="false"
+    aria-autocomplete="list"
+    aria-controls="search-results-{{ .TargetID }}" />
   <!-- Bouton de suppression intégré dans ton CSS (pas besoin de HTML séparé) -->
-
   <!-- Zone d'affichage des résultats -->
   <ul
     id="search-results-{{ .TargetID }}"
