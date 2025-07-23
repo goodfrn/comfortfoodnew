@@ -1,9 +1,7 @@
 {{/* layouts/partials/head-meta.html */}}
-
 {{ $title       := .Title | default .Site.Title }}
 {{ $description := cond (isset .Params "description") .Params.description .Site.Params.description }}
 {{ $image       := cond (isset .Params "image") (index .Params.image 0) .Site.Params.defaultImage }}
-
 <meta name="p:domain_verify" content="453d2158161f1b0d737b40ca58eb854c"/>
 <!-- OpenGraph -->
 <meta property="og:type"        content="{{ if .IsHome }}website{{ else if eq .Section "recipes" }}article{{ else }}website{{ end }}">
@@ -12,19 +10,16 @@
 <meta property="og:url"         content="{{ .Permalink }}">
 <meta property="og:image"       content="{{ $image | absURL }}">
 <meta property="og:site_name"   content="{{ .Site.Title }}">
-
 {{ with .Params.tags }}
   {{ range . }}
     <meta property="article:tag" content="{{ . }}">
   {{ end }}
 {{ end }}
-
 {{ with .Params.categories }}
   {{ range . }}
     <meta property="article:section" content="{{ . }}">
   {{ end }}
 {{ end }}
-
 <!-- Twitter Card -->
 <meta name="twitter:card"        content="summary_large_image">
 <meta name="twitter:title"       content="{{ $title }}">
@@ -32,22 +27,49 @@
 <meta name="twitter:image"       content="{{ $image | absURL }}">
 <meta name="twitter:site"        content="@{{ .Site.Params.twitter }}">
 <meta name="twitter:creator"     content="@{{ with .Params.authorTwitter }}{{ . }}{{ else }}{{ .Site.Params.twitter }}{{ end }}">
-
 <!-- Sécurité -->
 <meta name="referrer" content="strict-origin-when-cross-origin">
-
 <!-- JSON-LD for Recipe -->
 {{ if eq .Section "recipes" }}
   {{ partial "recipe-jsonld.html" . }}
 {{ end }}
 
-<!-- Google Analytics -->
+<!-- Google Analytics OPTIMISÉ : GA4 + GTM différé -->
 {{ if .Site.Params.analytics.ga4 }}
+<!-- 1. DataLayer init (léger) -->
+<script>
+window.dataLayer = window.dataLayer || [];
+</script>
+
+<!-- 2. GA4 direct (léger et rapide) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id={{ .Site.Params.analytics.ga4 }}"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', '{{ .Site.Params.analytics.ga4 }}');
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', '{{ .Site.Params.analytics.ga4 }}');
+</script>
+
+<!-- 3. GTM différé pour tracking avancé (remplacez GTM-XXXXXXX par votre ID) -->
+<script>
+function loadGTM() {
+  (function(w,d,s,l,i){
+    w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});
+    var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';
+    j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;
+    f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-XXXXXXX');
+}
+
+// Charger GTM après le LCP (2 secondes)
+if (document.readyState === 'complete') {
+  setTimeout(loadGTM, 2000);
+} else {
+  window.addEventListener('load', function() {
+    setTimeout(loadGTM, 2000);
+  });
+}
 </script>
 {{ end }}
