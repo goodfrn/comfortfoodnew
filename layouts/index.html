@@ -27,13 +27,13 @@
         <!-- 🏆 CARTE PREMIUM STYLÉE -->
         <a href="{{ .RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
           
-          <!-- Image optimisée -->
+<!-- Image optimisée -->
           <div class="relative overflow-hidden aspect-[4/3]">
             {{ with .Params.image }}
               {{ $img := resources.Get (printf "images/%s" .) }}
               {{ if $img }}
-                {{ $webp := $img.Fill "600x400 q80 webp" }}
-                {{ $fallback := $img.Fill "600x400 q85" }}
+                {{ $webp := $img.Fill "400x300 q50 webp" }}
+                {{ $fallback := $img.Fill "400x300 q60" }}
                 
                 <picture>
                   <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
@@ -41,8 +41,8 @@
                        alt="{{ $.Title }}" 
                        class="w-full h-full object-cover"
                        loading="lazy"
-                       width="600" 
-                       height="400">
+                       width="400" 
+                       height="300">
                 </picture>
               {{ else }}
                 <img src="/{{ . }}" 
@@ -163,13 +163,13 @@
           <!-- 🏆 CARTE PREMIUM STYLÉE -->
           <a href="{{ $item.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
             
-            <!-- Image optimisée -->
+<!-- Image optimisée -->
             <div class="relative overflow-hidden aspect-[4/3]">
               {{ with $item.Params.image }}
                 {{ $img := resources.Get (printf "images/%s" .) }}
                 {{ if $img }}
-                  {{ $webp := $img.Fill "600x400 q80 webp" }}
-                  {{ $fallback := $img.Fill "600x400 q85" }}
+                  {{ $webp := $img.Fill "400x300 q50 webp" }}
+                  {{ $fallback := $img.Fill "400x300 q60" }}
                   
                   <picture>
                     <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
@@ -177,8 +177,8 @@
                          alt="{{ $item.Title }}" 
                          class="w-full h-full object-cover"
                          loading="lazy"
-                         width="600" 
-                         height="400">
+                         width="400" 
+                         height="300">
                   </picture>
                 {{ else }}
                   <img src="/{{ . }}" 
