@@ -77,7 +77,8 @@
               <img src="{{ $fallback.RelPermalink }}" 
                    alt="{{ $.Title }}" 
                    class="rounded-2xl shadow-lg w-full h-auto object-cover"
-                   loading="lazy"
+                   loading="eager"
+                   fetchpriority="high"
                    width="392" 
                    height="261">
             </picture>
