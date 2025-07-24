@@ -24,16 +24,15 @@ jobs:
          node-version: '20'
          cache: 'npm'
          
-     - name: Cache Hugo resources
+     - name: Cache Hugo content and images
        uses: actions/cache@v3
        with:
          path: |
            resources/_gen
-           public
-           .hugo_build.lock
-         key: hugo-cache-${{ hashFiles('assets/**', 'content/**', 'data/**', 'layouts/**') }}
+           public/images
+         key: hugo-content-cache-v1
          restore-keys: |
-           hugo-cache-
+           hugo-content-cache-
          
      - name: Install dependencies
        run: npm ci
