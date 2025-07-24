@@ -1,0 +1,95 @@
+---
+title: "Rhubarb Raspberry Tartelettes"
+slug: "rhubarb-raspberry-tartelettes"
+description: "Small tart bases topped with a rhubarb and raspberry mousse frozen into rings then filled with fruit purée and fresh raspberries. The dough mixes almond powder and is baked to slightly golden. Gelatin sets the mousse, which freezes before assembling. Tangy, refreshing, with floral garnishes optional. Variations replace rhubarb with tart cherry and almonds with pistachios. The purée boils then blends, cream whips lightly with sugar added for texture, freezing gives shape and then softens in fridge."
+metaDescription: "Rhubarb Raspberry Tartelettes are refined tart bases topped with a tangy mousse and fresh raspberries. A treat for summer elegance."
+ogDescription: "Enjoy Rhubarb Raspberry Tartelettes with refreshing mousse and vibrant raspberries. Ideal for warm days and special occasions."
+focusKeyphrase: "Rhubarb Raspberry Tartelettes"
+date: 2025-07-24
+draft: false
+image: rhubarb-raspberry-tartelettes.png
+author: "Emma"
+prepTime: PT35M
+cookTime: PT20M
+totalTime: PT1H10M
+recipeYield: "6 servings"
+categories: ["Desserts"]
+tags:
+- "dessert"
+- "tart"
+- "fruit"
+- "summer"
+- "elegant"
+keywords:
+- "rhubarb"
+- "raspberry"
+- "pastry"
+breadcrumb: ["Home", "Recipes", "Desserts"]
+nutrition: 
+ calories: "230"
+ fatContent: "14g"
+ carbohydrateContent: "20g"
+ proteinContent: "3g"
+ingredients:
+- "=== Rhubarb Raspberry Purée ==="
+- "90 g rhubarb fresh/frozen diced"
+- "25 g raspberries fresh/frozen"
+- "30 g sugar"
+- "30 ml water"
+- "6 ml lemon juice"
+- "=== Mousse ==="
+- "2 ml gelatin"
+- "10 ml cold water"
+- "50 ml rhubarb raspberry purée"
+- "120 ml 35% whipping cream"
+- "20 ml sugar"
+- "=== Sablés ==="
+- "60 g all-purpose flour"
+- "25 g almond flour"
+- "0.5 ml salt"
+- "65 g unsalted butter softened"
+- "45 g sugar"
+- "1 egg yolk"
+- "=== Garnish ==="
+- "150 g fresh raspberries halved"
+- "Edible flowers (optional)"
+instructions:
+- "=== Fruit Purée ==="
+- "Put rhubarb, raspberries, sugar, water, lemon juice in a saucepan. Boil briefly then simmer until fruit breaks down, about 15 minutes. Blend until smooth. Cool. Purée lasts a week sealed in fridge. Let warm slightly before mousse."
+- "=== Mousse ==="
+- "Sprinkle gelatin over cold water. Wait 6 minutes. Microwave 20 seconds or until dissolved; no lumps."
+- "Mix purée and gelatin carefully."
+- "Whip cream slowly with sugar until soft peaks form but not stiff. Fold cream gently into purée."
+- "Spread mousse into 6 silicone donut molds or similar cavities with spatula. Freeze 2 hours or until firm enough to pop out."
+- "Remove mousse rings carefully, keep frozen until mounting."
+- "=== Sablés ==="
+- "Sift flour, almond flour, salt together in bowl."
+- "Cream butter and sugar till pale. Add yolk, mix smooth."
+- "Add dry ingredients gradually with spoon or mixer low speed. Dough slightly sticky, form into disk, wrap plastic. Chill 1 hour or up to 3 days."
+- "Heat oven 160 C (320 F), rack mid-level. Line tray with parchment or silicone mat."
+- "Roll dough on floured surface to 3 mm thickness, approx 25x15 cm rectangle."
+- "Cut 6 rounds with 7.5 cm cutter. Freeze rounds 8 minutes on tray to firm."
+- "Bake 10-13 minutes until edges golden. Cool 30 minutes on tray."
+- "=== Assembly ==="
+- "Set sablés on plate or individual dishes."
+- "Place mousse rings on sablés. Let thaw in fridge 1.5 to 2 hours or 40 minutes room temp."
+- "Fill ring centers with purée left over."
+- "Arrange raspberry halves around mousse ring; face cut sides in or out, mix for texture."
+- "Optional flowers scattered on top."
+- "Store tartelettes covered in fridge maximum 1 day."
+introduction: "Rings of mousse made from rhubarb and raspberry purée. Cold gelatin holds it set. Light whipped cream folded in adds richness. Tart bases of short, almond-enriched dough baked until just golden. A fresh fruit filling nestles inside frozen rings, melting slowly onto baked crackers. The tangy purée comes from stewing rhubarb and raspberries, sweetened lightly and pureed smooth. The mousse freezes then softens atop sablés before serving. A subtle almond flavor in dough but you can swap pistachio powder. Chilling dough a bit eases rolling and cutting. Raspberries brighten presentation and flavor. Serve cool or room temp, fresh and floral garnishes invite summer elegance. Makes a neat six servings, refined yet straightforward."
+ingredientsNote: "Use fresh or frozen rhubarb and raspberries interchangeably, adjusting cooking times if needed; frozen fruits release more liquid. Sugar quantities lowered slightly from classic for subtle tartness. Lemon juice sharpens the fruit profile but can be omitted for softer flavor. Gelatin dosage reduced by 20% to yield softer mousse texture, melting smoothly on tongue. Almond powder adds texture and aroma in sablés; pistachio powder can replace for a nutty twist and green hue. Butter must be softened but not melted for proper dough consistency. Egg yolk binds dough while keeping crumb tender. Dough can rest up to 3 days wrapped, aiding flavor development. Rolled dough thickness critical for crisp but tender crunch, over-thinning leads to brittle."
+instructionsNote: "Start with poaching purée ingredients in one pot to save cleanup. Use a small blender or immersion mixer directly, skip if smoothness less critical. Gelatin needs proper blooming for texture, timing can vary with temperature. Melt gelatin gently; overheating kills strength. Fold cream in by hand to retain airy volume, overmixing collapses. Pour mousse into silicone molds for easier demolding, otherwise use parchment-lined cavity tins. Freeze set time shortened slightly, 2 hours enough at low freezer temps. Dough first mixed dry and wet separately to control texture; rest period essential for elasticity. Freeze shaped dough briefly before baking prevents spreading. Baking time varies; watch for pale golden edges, bottoms slightly more colored. Assembly delicate: keep mousse cold, thaw slowly to maintain shape. Garnishes are decorative but balance tart fruits visually and physically. Tartelettes best fresh but keep one day in sealed container fully chilled to prevent sogginess."
+tips:
+- "Use fresh or frozen fruit for purée. Frozen needs longer cooking. More water from frozen can change texture. Adjust as needed."
+- "Whip cream until soft peaks. Too stiff, heavy mousse. Fold gently into purée. Airy volume important. Careful with overmixing."
+- "Chill dough for easier handling. Dough consistency crucial. Rest time allows gluten to relax. Use flour for rolling."
+- "Watch baking time. Edges should be golden, not too dark. Thin dough leads to crisp yet tender texture. Keep an eye on it."
+- "Freeze mousse rings as stated. Especially vital to hold shape. Thaw gently, avoid breaking servings. Keep mousse cold until serving."
+faq:
+- "q: What if my mousse is too soft? a: Check gelatin blooming. Ensure dissolved without lumps. Fold in cream lightly. Refrigerate longer. May help."
+- "q: How to store leftovers? a: Best to eat fresh. Can keep in fridge up to one day. Use sealed container. Prevents sogginess."
+- "q: What if I can't find rhubarb? a: Try tart cherries instead. Offers different taste but similar texture. Adjust sugar based on fruit sweetness."
+- "q: How can I make my dough richer? a: Add extra yolk for smoother texture. Also more butter, but less flour. Balance carefully for best outcome."
+
+---
