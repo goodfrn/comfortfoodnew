@@ -37,7 +37,7 @@ ingredients:
 - "2 tbsp freshly squeezed lime juice"
 - "1 tbsp finely chopped fresh mint leaves"
 instructions:
-- "Rinse all berries gently. Drain well."
+- "Rinse all berries gently, Drain well."
 - "Mix pineapple cubes with quartered strawberries and raspberries in a large bowl."
 - "In a small bowl, blend maple syrup and lime juice thoroughly."
 - "Pour syrup mixture over fruit. Toss lightly but thoroughly to coat every piece."
