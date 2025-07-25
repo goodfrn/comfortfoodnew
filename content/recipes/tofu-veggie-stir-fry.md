@@ -62,9 +62,9 @@ tips:
 - "Add toasted sesame oil after vegetables soften, not during browning. Sesame oil aroma volatile, add late to preserve fragrance. Stir quickly to coat everything. Splash, don’t pour too much or sesame overtakes dish. Toast almonds dry beforehand till color shifts light brown, crunch amplifies. Add almonds at last to keep crunch intact."
 - "Simmer sauce on medium-low heat, fast boil breaks starch thickening. Stir nonstop when sauce enters wok; starch settles fast on bottom. Sauce thickens as it cools a bit, don’t overcook. Watch veggies closely during simmer, avoid soggy texture. Season with salt and pepper last, taste often because tamari already salty."
 faq:
-- "q What if tofu sticks to wok? a Heat wok and oil properly first. Use enough oil. Don’t move tofu too quick but don’t let it burn. If stuck, loosen with spatula gently. Cooking temp matters, adjust flame lower if smoke rises fast."
-- "q Can I swap broccolini for broccoli? a Yes but stalks thicker, might need longer cook. Par-cook broccoli or slice thin. Texture different, broccoli crunchier, broccolini tender. Adjust time and slices for balanced softness."
-- "q How to keep veggies crisp-tender? a Slice thin. Toss fast over high heat. Don’t cover wok or add water early. Simmer sauce short time, medium-low. Don’t overdo simmer, pull off heat as soon as sauce thickens and veggies still snap."
-- "q Best way to store leftovers? a Cool quickly, store airtight in fridge up to 3 days. Reheat gently in skillet or microwave low power. Sauce thickens when cold, add splash water or broth to loosen. Freeze possible but tofu may change texture. Thaw well before reheating."
+- "q: What if tofu sticks to wok? a: Heat wok and oil properly first. Use enough oil. Don’t move tofu too quick but don’t let it burn. If stuck, loosen with spatula gently. Cooking temp matters, adjust flame lower if smoke rises fast."
+- "q: Can I swap broccolini for broccoli? a: Yes but stalks thicker, might need longer cook. Par-cook broccoli or slice thin. Texture different, broccoli crunchier, broccolini tender. Adjust time and slices for balanced softness."
+- "q: How to keep veggies crisp-tender? a: Slice thin. Toss fast over high heat. Don’t cover wok or add water early. Simmer sauce short time, medium-low. Don’t overdo simmer, pull off heat as soon as sauce thickens and veggies still snap."
+- "q: Best way to store leftovers? a: Cool quickly, store airtight in fridge up to 3 days. Reheat gently in skillet or microwave low power. Sauce thickens when cold, add splash water or broth to loosen. Freeze possible but tofu may change texture. Thaw well before reheating."
 
 ---
