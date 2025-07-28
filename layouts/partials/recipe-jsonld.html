@@ -10,6 +10,7 @@
   "url": "{{ .Site.BaseURL }}",
   "description": "{{ .Site.Params.description }}"
 }
+</script>
 
 {{- else if and .Params.ingredients .Params.instructions -}}
 {{- /* Only generate Recipe schema if page has ingredients and instructions */ -}}
