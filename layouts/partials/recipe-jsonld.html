@@ -57,7 +57,7 @@
           "@type": "ListItem",
           "position": {{ add $i 1 }},
           "name": "{{ $item }}",
-          "item": "{{- if eq $i 0 }}{{ $.Site.BaseURL }}{{- else if eq $i 1 }}{{ $.Site.BaseURL }}recipes/{{- else }}{{ $.Permalink }}{{- end }}"
+          "item": "{{- if eq $i 0 }}{{ $.Site.BaseURL }}{{- else if eq $i 1 }}{{ $.Site.BaseURL }}recipes/{{- else if eq $i 2 }}{{ $.Site.BaseURL }}categories/{{ lower $item | urlize }}/{{- else }}{{ $.Permalink }}{{- end }}"
         }
       {{- end -}}
     ]
