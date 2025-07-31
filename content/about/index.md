@@ -1,3 +1,9 @@
+---
+title: "About"
+---
+
+![Emma](/images/chef.jpg "Emma" =80x80)
+
 # About Comfort Food
 
 Hello, I'm **Emma**, the creator behind **Comfort Food**. I'm passionate about home cooking and creating recipes that bring warmth and joy to everyday meals.
