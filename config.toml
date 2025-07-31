@@ -72,7 +72,7 @@ title = "Comfort Food"
 #  Paramètres personnalisables
 ###############################################################################
 [params]
-  description   = "Recettes maison faciles et gourmandes"
+  description   = "Discover soul-warming recipes that bring comfort to your kitchen and joy to your table"
   defaultImage  = "/img/cover-default.jpg"
   twitterHandle = "@TonCompteX"
 
