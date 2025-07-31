@@ -99,8 +99,16 @@
         {{ if or .Params.author .Date }}
           <div class="bg-orange-50 border-l-4 border-orange-400 p-4 mb-6 rounded-r-lg">
             <div class="flex items-center gap-3">
-              <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center text-white font-bold">
-                EK
+              <div class="w-10 h-10 rounded-full overflow-hidden">
+                {{ $emma := resources.Get "images/chef.jpg" }}
+                {{ if $emma }}
+                  {{ $emmaSmall := $emma.Fill "40x40" }}
+                  <img src="{{ $emmaSmall.RelPermalink }}" alt="Emma" class="w-full h-full object-cover">
+                {{ else }}
+                  <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center text-white font-bold">
+                    E
+                  </div>
+                {{ end }}
               </div>
               <div>
                 <p class="text-lg font-bold text-gray-900">
@@ -390,10 +398,18 @@
         {{ end }}
 
         <!-- À propos -->
-        <div class="card">
+         <div class="card">
           <h3 class="text-base sm:text-lg font-semibold mb-2" style="color: var(--color-text); font-family: var(--font-serif);">
             {{ $recipe_page.about_sidebar_title }}
           </h3>
+          <div class="flex items-center gap-3 mb-3">
+            {{ $emma := resources.Get "images/chef.jpg" }}
+            {{ if $emma }}
+              {{ $emmaMedium := $emma.Fill "48x48" }}
+              <img src="{{ $emmaMedium.RelPermalink }}" alt="Emma" class="w-12 h-12 rounded-full object-cover">
+            {{ end }}
+            <div class="text-sm font-medium text-gray-700">Emma</div>
+          </div>
           <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary);">
             {{ $recipe_page.about_sidebar_text }}
           </p>
