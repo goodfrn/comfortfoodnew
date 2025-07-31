@@ -402,13 +402,16 @@
           <h3 class="text-base sm:text-lg font-semibold mb-2" style="color: var(--color-text); font-family: var(--font-serif);">
             {{ $recipe_page.about_sidebar_title }}
           </h3>
-          <div class="flex items-center gap-3 mb-3">
+          <div class="flex items-center gap-4 mb-4">
             {{ $emma := resources.Get "images/chef.png" }}
             {{ if $emma }}
-              {{ $emmaMedium := $emma.Fill "48x48" }}
-              <img src="{{ $emmaMedium.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-12 h-12 rounded-full object-cover">
+              {{ $emmaMedium := $emma.Fill "80x80" }}
+              <img src="{{ $emmaMedium.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-20 h-20 rounded-full object-cover border-2 border-orange-200">
             {{ end }}
-            <div class="text-sm font-medium text-gray-700">{{ $config.about_section.chef_name }}</div>
+            <div>
+              <div class="text-base font-semibold text-gray-800">{{ $config.about_section.chef_name }}</div>
+              <div class="text-xs text-gray-500">Recipe Creator</div>
+            </div>
           </div>
           <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary);">
             {{ $recipe_page.about_sidebar_text }}
