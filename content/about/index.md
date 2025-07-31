@@ -3,7 +3,7 @@ title: "About"
 ---
 
 <div style="display: flex; align-items: center; gap: 1rem; margin-bottom: 2rem;">
-  <img src="/images/chef.jpg" alt="Emma" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
+  <img src="/images/chef.png" alt="Emma" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover;">
   <div>
     <h2 style="margin: 0; font-size: 1.5rem; font-weight: bold;">Emma</h2>
     <p style="margin: 0; color: #666;">Recipe Creator & Home Cooking Enthusiast</p>
