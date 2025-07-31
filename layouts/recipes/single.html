@@ -100,7 +100,7 @@
           <div class="bg-orange-50 border-l-4 border-orange-400 p-4 mb-6 rounded-r-lg">
             <div class="flex items-center gap-3">
               <div class="w-10 h-10 rounded-full overflow-hidden">
-                {{ $emma := resources.Get "images/chef.jpg" }}
+                {{ $emma := resources.Get "images/chef.png" }}
                 {{ if $emma }}
                   {{ $emmaSmall := $emma.Fill "40x40" }}
                   <img src="{{ $emmaSmall.RelPermalink }}" alt="Emma" class="w-full h-full object-cover">
@@ -403,7 +403,7 @@
             {{ $recipe_page.about_sidebar_title }}
           </h3>
           <div class="flex items-center gap-3 mb-3">
-            {{ $emma := resources.Get "images/chef.jpg" }}
+            {{ $emma := resources.Get "images/chef.png" }}
             {{ if $emma }}
               {{ $emmaMedium := $emma.Fill "48x48" }}
               <img src="{{ $emmaMedium.RelPermalink }}" alt="Emma" class="w-12 h-12 rounded-full object-cover">
