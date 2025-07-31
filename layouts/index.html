@@ -325,6 +325,7 @@
     
     <!-- Formulaire newsletter avec BOUTON MIGRÉ -->
     <form action="{{ $homepage.newsletter.form_action }}" method="POST" class="max-w-lg mx-auto flex flex-col sm:flex-row sm:items-center gap-4">
+      <input type="hidden" name="_language" value="en">
       <label for="newsletter-email" class="sr-only">Adresse email</label>
       <input id="newsletter-email" type="email" name="email" required placeholder="{{ $homepage.newsletter.email_placeholder }}" class="w-full sm:flex-grow px-4 py-3 border rounded-lg focus:outline-none focus:ring-2" style="border-color: var(--color-text-muted); color: var(--color-text);">
       <!-- BOUTON NEWSLETTER MIGRÉ -->
