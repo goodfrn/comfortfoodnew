@@ -417,7 +417,7 @@ class App {
     
     // Notification utilisateur (si critique)
     if (error.critical) {
-      this.showNotification('Une erreur est survenue. Veuillez rafraîchir la page.', 'error');
+      this.showNotification('An error occurred. Please refresh the page.', 'error');
     }
   }
 
