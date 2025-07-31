@@ -223,17 +223,18 @@ components:
     faq: FAQ
     save: Save
 
-notifications:
-    menu_closed: "Menu closed"
-    search_cleared: "Search cleared"
-    error_occurred: "An error occurred. Please refresh the page."
-  contact_form:
-    sending: "Sending..."
-    success: "Thank you! Your message has been sent."
-    error: "Oops! An error occurred."
-    network_error: "Unable to send message. Please check your connection."
-  accessibility:
-    skip_to_content: "Skip to main content"
+  notifications:
+      menu_closed: "Menu closed"
+      search_cleared: "Search cleared"
+      error_occurred: "An error occurred. Please refresh the page."
+    contact_form:
+      sending: "Sending..."
+      success: "Thank you! Your message has been sent."
+      error: "Oops! An error occurred."
+      network_error: "Unable to send message. Please check your connection."
+    accessibility:
+      skip_to_content: "Skip to main content"
+    
 technical:
   default_images:
     hero: hero-bg.jpg
