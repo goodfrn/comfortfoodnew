@@ -1,53 +1,46 @@
 ---
-layout: "legal/conditions-utilisation"
+layout: "legal/mentions-legales"
 ---
 
-# Terms of Service
+# Legal Notice 
 
-## Agreement Acceptance
+## Website Publisher
 
-By accessing and using the Comfort Food website (comfortfood.uk), you agree to be bound by these Terms of Service. If you disagree with any part of these terms, please discontinue use of our website immediately.
+**Website:** Comfort Food (comfortfood.uk)  
+**Publisher:** Emma  
+**Email:** goodfrn792@gmail.com  
+**Status:** Personal website
 
-## Website Purpose and Content
+## Hosting
 
-Comfort Food is dedicated to sharing home cooking inspiration and building a community of food enthusiasts who appreciate comfort cooking.
+**Host:** Cloudflare Pages  
+**Data Centers:** United Kingdom and European Union  
 
-### Content Scope
-- Original recipes developed and tested by Emma
-- Cooking techniques and kitchen tips for home cooks  
-- Seasonal menu suggestions and meal planning advice
+## Intellectual Property Rights
 
-## User Responsibilities
+All content published on this website including recipes, photographs, and written content remains the exclusive property of Emma and is protected under UK Copyright Law.
 
-### Acceptable Use
-- Use website content for personal, non-commercial cooking purposes
-- Respect intellectual property rights of all published material
-- Provide accurate information when subscribing to newsletters or leaving comments
-- Maintain respectful communication in all interactions
+### Permitted Use
+Personal, non-commercial use for home cooking only.  
 
-### Prohibited Activities
-- Commercial use of recipes without explicit written permission
-- Copying or redistributing content to other websites or publications
-- Posting offensive, harmful or inappropriate content in comments sections
+### Recipe Attribution
+When sharing our recipes, please provide proper credit and link back to comfortfood.uk.
 
-## Content Accuracy and Disclaimers
+## Liability and Warranties
 
-While we strive for accuracy in all recipes and cooking advice, Comfort Food cannot guarantee perfect results in every kitchen environment. Always exercise personal judgment and food safety practices when preparing our recipes.
+The recipes and cooking information provided are for educational purposes. We cannot guarantee results or accept responsibility for any adverse reactions or kitchen accidents arising from the use of our content.
 
-## Intellectual Property Protection
+Always follow proper food handling guidelines and check ingredients for allergens.
 
-All original content including recipe formulations, cooking methods, photography and written descriptions remains the exclusive property of Emma and Comfort Food.
+## Privacy and Data Protection
 
-## Communication
+We collect only essential data required for website functionality including newsletter subscriptions and recipe feedback. You maintain full rights to access, modify or delete your personal information.
 
-**Contact:** goodfrn792@gmail.com  
-**Response Time:** We aim to respond to inquiries within 72 hours during business days.
+## Contact
 
-## Terms Modification Policy
-
-We reserve the right to update these Terms of Service. Significant changes will be announced through our newsletter and website banner.
+**Email:** goodfrn792@gmail.com  
+**Response Time:** Within 72 hours during business days  
 
 ---
 
-Last Updated: July 31, 2025  
-Comfort Food - Bringing families together through home cooking
+Last Updated: July 31, 2025
