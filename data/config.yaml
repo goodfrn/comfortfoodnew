@@ -1,6 +1,6 @@
 baseURL: "https://comfortfood.uk/"
 
-site:
+site: 
   name: "Comfort Food"
   language: "en"
   tagline: "Home Cooking Made Simple"
