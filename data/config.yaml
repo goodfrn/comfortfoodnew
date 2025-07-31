@@ -36,17 +36,17 @@ colors:
   brand_color: "#d97706"
 
 social:
-  facebook: "https://facebook.com/comfortfood00"
-  instagram: "https://instagram.com/comfortfood00"
+  facebook: "https://www.facebook.com/profile.php?id=61578689713037"
+  instagram: "https://www.instagram.com/emmaaa_kitchen/"
   pinterest: "https://www.pinterest.com/Comfortfood00/"
-  twitter: "https://twitter.com/comfortfood00"
+  twitter: "https://x.com/comfortfood__"
 
 header:
   search_placeholder: "Search for comfort food recipes..."
   search_placeholder_mobile: "Find recipes..."
   follow_button_text: "Follow Us"
   menu_aria_label: "Open menu"
-  search_aria_label: Rechercher
+  search_aria_label: Search
 
 hero:
   badge_text: "Fresh recipes weekly"
@@ -75,26 +75,18 @@ homepage:
     email_placeholder: "Your email address"
     button_text: "Join the family"
     form_action: "https://formspree.io/f/XXXXX"
-  filters:
-    category_label: Catégorie
-    category_all: Toutes catégories
-    tag_label: Tag
-    tag_all: Tous tags
-    time_label: Durée max (min)
-    time_placeholder: Durée
-    reset_button: Réinitialiser
     
 about_page:
   title: "About"
   
 about_section:
-  title: Qui suis-je
-  title_accent: "?"
-  chef_name: "Emma Kitchen"
-  chef_intro: Je m'appelle Amelia Feuss, chef passionnée depuis plus de dix ans.
-  cta_text: Mon parcours
-  cta_url: /about/
-  image_alt: "Emma Kitchen, comfort food enthusiast and recipe creator"
+title: Who is Emma
+title_accent: "?"
+chef_name: "Emma Kitchen"
+chef_intro: I'm Emma Kitchen, passionate chef for over ten years.
+cta_text: My journey
+cta_url: /about/
+image_alt: "Emma Kitchen, comfort food enthusiast and recipe creator"
 
 list_pages:
   recipes_title: "Our comfort food collection"
@@ -178,37 +170,6 @@ categories_system:
   site_type: "recipes"
   main_section: "recipes"
   section_title: "Recipes"
-  categories_config:
-    mode: "auto"
-    categories_list:
-      - slug: "entrees"
-        name: "Entrées"
-        weight: 1
-      - slug: "salades" 
-        name: "Salades"
-        weight: 2
-      - slug: "plats-principaux"
-        name: "Plats principaux"
-        weight: 3
-      - slug: "accompagnements"
-        name: "Accompagnements"
-        weight: 4
-      - slug: "desserts"
-        name: "Desserts"
-        weight: 5
-      - slug: "boissons"
-        name: "Boissons"
-        weight: 6
-      - slug: "aaaaaa"
-        name: "Apéritifs Gourmands"
-        weight: 7
-      - slug: "sauces"
-        name: "Sauces & Dips"
-        weight: 8
-      - slug: "vegetalien"
-        name: "Végan & Végétarien"
-        weight: 9
-
 
 
 tags_page:
@@ -226,12 +187,6 @@ contact_page:
     submit_button: "Send Message"
     form_action: "https://formspree.io/f/xwpoynkj"
 
-random_page:
-  loading_message: On cherche une recette pour toi… 🍳
-  redirect_message: Tu seras redirigé dans
-  redirect_unit: s.
-  fallback_message: Si ça prend trop longtemps, clique ici.
-  redirect_delay: 3
 
 components:
   search:
@@ -252,10 +207,10 @@ components:
     copy_link: Copy link
     email: Email
     save_label: Save
-    link_copied: Lien copié !
-    share_subject: "Découvrez cette recette :"
+    link_copied: Link copied!
+    share_subject: "Check out this recipe :"
   share_menu:
-    copy_link: Copier le lien
+    copy_link: Copy link
     email: Email
     pinterest: Pinterest
     facebook: Facebook
@@ -267,22 +222,19 @@ components:
     steps: Steps
     faq: FAQ
     save: Save
-  notifications:
-    menu_closed: Menu fermé
-    search_cleared: Recherche effacée
-    error_occurred: Une erreur est survenue. Veuillez rafraîchir la page.
+
+notifications:
+    menu_closed: "Menu closed"
+    search_cleared: "Search cleared"
+    error_occurred: "An error occurred. Please refresh the page."
   contact_form:
-    sending: Envoi en cours…
-    success: Merci ! Ton message a bien été envoyé.
-    error: Oups ! Une erreur est survenue.
-    network_error: Impossible d'envoyer le message. Vérifie ta connexion.
-
+    sending: "Sending..."
+    success: "Thank you! Your message has been sent."
+    error: "Oops! An error occurred."
+    network_error: "Unable to send message. Please check your connection."
   accessibility:
-    skip_to_content: Aller au contenu principal
-
+    skip_to_content: "Skip to main content"
 technical:
-  analytics:
-    plausible_domain: recettes-blog-test.pages.dev
   default_images:
     hero: hero-bg.jpg
     chef: chef.jpg
