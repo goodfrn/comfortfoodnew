@@ -103,7 +103,7 @@
                 {{ $emma := resources.Get "images/chef.png" }}
                 {{ if $emma }}
                   {{ $emmaSmall := $emma.Fill "40x40" }}
-                  <img src="{{ $emmaSmall.RelPermalink }}" alt="Emma" class="w-full h-full object-cover">
+                  <img src="{{ $emmaSmall.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-full h-full object-cover">
                 {{ else }}
                   <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center text-white font-bold">
                     E
@@ -406,9 +406,9 @@
             {{ $emma := resources.Get "images/chef.png" }}
             {{ if $emma }}
               {{ $emmaMedium := $emma.Fill "48x48" }}
-              <img src="{{ $emmaMedium.RelPermalink }}" alt="Emma" class="w-12 h-12 rounded-full object-cover">
+              <img src="{{ $emmaMedium.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-12 h-12 rounded-full object-cover">
             {{ end }}
-            <div class="text-sm font-medium text-gray-700">Emma</div>
+            <div class="text-sm font-medium text-gray-700">{{ $config.about_section.chef_name }}</div>
           </div>
           <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary);">
             {{ $recipe_page.about_sidebar_text }}
