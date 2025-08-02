@@ -82,11 +82,11 @@ about_page:
 about_section:
   title: Who is Emma
   title_accent: "?"
-  chef_name: "Emma Kitchen"
-  chef_intro: I'm Emma Kitchen, passionate chef for over ten years.
+  chef_name: "Emma"
+  chef_intro: I'm Emma, passionate chef for over ten years.
   cta_text: My journey
   cta_url: /about/
-  image_alt: "Emma Kitchen, comfort food enthusiast and recipe creator"
+  image_alt: "Emma, comfort food enthusiast and recipe creator"
 
 list_pages:
   recipes_title: "Our comfort food collection"
