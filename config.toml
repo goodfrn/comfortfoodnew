@@ -74,7 +74,7 @@ title = "Comfort Food"
 [params]
   description   = "Discover soul-warming recipes that bring comfort to your kitchen and joy to your table"
   defaultImage  = "/img/cover-default.jpg"
-  twitterHandle = "@TonCompteX"
+  twitterHandle = "@comfortfood__"
 
 [params.analytics]
   ga4 = "G-JHKHXM8ZTK"
