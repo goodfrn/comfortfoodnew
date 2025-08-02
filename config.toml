@@ -10,7 +10,7 @@ title = "Comfort Food"
 
 [taxonomies]
   category = "categories"
-  tag      = "tags"
+#  tag      = "tags"
 
 [permalinks]
   recipes = "/recipes/:slug/"
