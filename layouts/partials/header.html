@@ -7,7 +7,7 @@
 <!-- ===== Header avec Z-INDEX UNIFIÉ ===== -->
 <header class="relative" style="z-index: var(--z-fixed);">
   <!-- Effet de fond subtil -->
-  <div class="absolute inset-0 bg-gradient-to-r from-transparent via-amber-500/5 to-transparent"></div>
+  <!--  <div class="absolute inset-0 bg-gradient-to-r from-transparent via-amber-500/5 to-transparent"></div>-->
   
   <!-- Particules minimalistes -->
   <div class="absolute inset-0 overflow-hidden pointer-events-none">
@@ -16,7 +16,7 @@
   </div>
 
   <!-- ===== Barre du haut : logo, recherche, réseaux sociaux ===== -->
-  <div class="relative backdrop-blur-xl bg-white/80 border-b border-slate-200/50 shadow-sm" style="z-index: var(--z-fixed);">
+  <div class="relative backdrop-blur-xl bg-white/80 border-b border-slate-200/50" style="z-index: var(--z-fixed);">
     <div class="max-w-7xl mx-auto px-6 flex justify-between items-center py-6">
       
       <!-- Logo sophistiqué -->
@@ -78,9 +78,9 @@
   </div>
 
   <!-- ===== Navigation principale ===== -->
-  <nav class="bg-white/80 border-b border-slate-200/50 shadow-sm">
+  <nav class="bg-white/80 border-b border-slate-200/50">
     <div class="max-w-7xl mx-auto px-6">
-      <ul class="flex space-x-8 font-semibold text-lg text-slate-800">
+      <ul class="flex space-x-8 font-semibold text-lg text-slate-800" style="justify-content:center; padding: 13px;">
         <li><a href="/" class="hover:text-amber-700 transition-colors">Home</a></li>
         <li><a href="/recipes/" class="hover:text-amber-700 transition-colors">Recipes</a></li>
         <li class="relative group">
