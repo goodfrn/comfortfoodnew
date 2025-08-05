@@ -27,13 +27,13 @@ branding:
   
 
 colors:
-  primary: "#d97706"
-  primary_dark: "#92400e"
-  primary_light: "#fbbf24"
-  secondary: "#fef3c7"
-  background: "#fefefe"
-  text: "#1c1917"
-  brand_color: "#d97706"
+  primary: "#fddd44"        
+  primary_dark: "#d4af00"   
+  primary_light: "#fff76b"  
+  secondary: "#fff9e6"      
+  background: "#fefefe"     
+  text: "#1c1917"          
+  brand_color: "#fddd44" 
 
 social:
   facebook: "https://www.facebook.com/profile.php?id=61578689713037"
