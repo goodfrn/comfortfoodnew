@@ -37,7 +37,7 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
             </svg>
           </div>
-          {{ partial "search-input.html" (dict "Placeholder" ($header.search_placeholder | default "Search recipes...") "TargetID" "input" "Class" "w-full pl-10 sm:pl-12 pr-4 py-2 sm:py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 transition-all duration-300 backdrop-blur-sm text-sm sm:text-base") }}
+          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder "TargetID" "input" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-amber-400/50 focus:border-amber-400 transition-all duration-300 backdrop-blur-sm") }}
         </div>
       </div>
 
@@ -82,25 +82,18 @@
           <a href="/" class="transition-colors {{ if .IsHome }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Home</a>
           {{ if .IsHome }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
         </li>
+        <li class="relative group">
+          <a href="/categories/" class="transition-colors {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Categories</a>
+          {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+        </li>
         <li class="relative">
           <a href="/recipes/" class="transition-colors {{ if eq .Section "recipes" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Recipes</a>
           {{ if eq .Section "recipes" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
         </li>
-        <li class="relative group">
-          <a href="/categories/" class="transition-colors {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Categories</a>
-          {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-          
-          <!-- Submenu -->
-          <ul class="absolute left-0 mt-2 w-48 bg-white border border-slate-200 rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200" style="z-index: var(--z-dropdown);">
-            <li><a href="/categories/breakfast/" class="block px-4 py-3 transition-colors text-base font-normal rounded-t-lg" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Breakfast</a></li>
-            <li><a href="/categories/lunch/" class="block px-4 py-3 transition-colors text-base font-normal" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Lunch</a></li>
-            <li><a href="/categories/dinner/" class="block px-4 py-3 transition-colors text-base font-normal" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Dinner</a></li>
-            <li><a href="/categories/desserts/" class="block px-4 py-3 transition-colors text-base font-normal rounded-b-lg" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Desserts</a></li>
-          </ul>
-        </li>
+
         <li class="relative">
-          <a href="/about/" class="transition-colors {{ if eq .Type "about" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">About</a>
-          {{ if eq .Type "about" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+          <a href="/about-us/" class="transition-colors {{ if eq .RelPermalink "/about-us/" }}active-link{{ end }}">About Us</a>
+          {{ if eq .RelPermalink "/about-us/" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
         </li>
         <li class="relative">
           <a href="/contact/" class="transition-colors {{ if eq .Type "contact" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Contact</a>
