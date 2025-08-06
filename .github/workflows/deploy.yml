@@ -51,7 +51,7 @@ jobs:
      - name: Build site
        run: |
          echo "🚀 Building Hugo site..."
-         hugo --gc --minify
+         hugo --minify
          echo "✅ Build complete!"
          
      - name: Setup Pages
