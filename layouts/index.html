@@ -114,7 +114,7 @@
             <!-- Tags premium -->
             {{ if .Params.tags }}
               <div class="flex flex-wrap gap-2 pt-3">
-                {{ range first 3 .Params.tags }}
+                {{ range first 2 .Params.tags }}
                   <span class="px-2.5 py-1 bg-gray-50 rounded-full">
                     <span class="text-xs font-medium text-gray-600">{{ . }}</span>
                   </span>
@@ -145,6 +145,10 @@
     <h2 class="section__title">
       {{ $homepage.popular_recipes.title }}
     </h2>
+   
+    <p class="text-base text-center mb-8 max-w-2xl mx-auto" style="color: var(--color-text-secondary);">
+      Our community's all-time favorites - these beloved recipes have earned their place through countless successful kitchen adventures.
+    </p>
     
     <!-- Grille recettes avec CARTES PREMIUM -->
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
@@ -250,7 +254,7 @@
               <!-- Tags premium -->
               {{ if $item.Params.tags }}
                 <div class="flex flex-wrap gap-2 pt-3">
-                  {{ range first 3 $item.Params.tags }}
+                  {{ range first 2 $item.Params.tags }}
                     <span class="px-2.5 py-1 bg-gray-50 rounded-full">
                       <span class="text-xs font-medium text-gray-600">{{ . }}</span>
                     </span>
@@ -284,7 +288,11 @@
     <!-- 🏷️ Titre avec classe section__title -->
     <h2 class="section__title">
       {{ $homepage.categories_section.title }}
-    </h2>    
+    </h2>  
+   
+    <p class="text-base text-center mb-8 max-w-2xl mx-auto" style="color: var(--color-text-secondary);">
+      Explore our curated collection of recipe categories, from comfort classics to international cuisines and dietary preferences.
+    </p>
     <!-- Grille catégories avec CARDS  -->
 
     <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 justify-center">
