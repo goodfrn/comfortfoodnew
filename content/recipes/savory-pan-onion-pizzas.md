@@ -1,0 +1,97 @@
+---
+title: "Savory Pan Onion Pizzas"
+slug: "savory-pan-onion-pizzas"
+description: "A twist on pan pizzas with caramelized onions and a rich savory sauce. Dough rests overnight for better texture. Semolina adds a subtle crunch under melted mozzarella and cheddar blend. White wine and a mix of onion soup seasoning and barbecue sauce create depth. Six small 15 cm pizzas, each layered with thyme sprigs. Cooking times adjusted by a few minutes, letting aroma and bubbling cheese guide you. Avoid soggy dough by pre-oiling pans, proofing dough properly, knowing when onions are golden enough to move on. Easy substitutions for cheese and seasoning included. Prep a day ahead for fullest flavor development."
+metaDescription: "Savory Pan Onion Pizzas with caramelized onions, nutmeg and white pepper, slow proofed dough, layered mozzarella and cheddar, topped with thyme sprigs for rich flavor."
+ogDescription: "Caramelized onions with nutmeg and white pepper layered on small pan pizzas. Slow proof dough, mozzarella and cheddar mix, thyme finish. Crispy edges and deep aroma."
+focusKeyphrase: "pan onion pizzas"
+date: 2025-08-06
+draft: false
+image: savory-pan-onion-pizzas.png
+author: "Emma"
+prepTime: PT50M
+cookTime: PT40M
+totalTime: PT1H30M
+recipeYield: "6 pizzas"
+categories: ["Pizza and Flatbreads"]
+tags:
+- "pizza"
+- "onions"
+- "caramelized"
+- "pan pizza"
+- "mozzarella"
+- "cheddar"
+- "homemade dough"
+keywords:
+- "pan pizza"
+- "caramelized onions"
+- "mozzarella cheddar blend"
+breadcrumb: ["Home", "Recipes", "Pizza and Flatbreads"]
+nutrition: 
+ calories: "480"
+ fatContent: "18g"
+ carbohydrateContent: "58g"
+ proteinContent: "20g"
+ingredients:
+- "=== Dough ==="
+- "380 ml cold water"
+- "8 ml instant yeast"
+- "480 g unbleached all-purpose flour"
+- "65 g fine cornmeal"
+- "9 ml salt"
+- ""
+- "=== Topping ==="
+- "850 g chopped yellow onions"
+- "50 ml vegetable oil"
+- "2.5 ml ground nutmeg"
+- "3 ml white pepper"
+- "280 ml dry white wine"
+- "1 packet (55 g) onion soup mix"
+- "1 packet (45 g) barbecue sauce mix"
+- "550 g shredded mozzarella"
+- "550 g shredded sharp cheddar"
+- "6 sprigs fresh thyme leaves"
+instructions:
+- "=== Dough Preparation ==="
+- "Mix water with yeast until foamy, about 3 minutes. Float small bubbles signal active yeast."
+- "Combine flour, cornmeal, salt in a big bowl or stand mixer with dough hook. Stir in yeast mixture. Expect a loose dough; rest 20 minutes to hydrate and rest gluten. Notice slight tackiness before kneading."
+- "Knead by hand or mixer about 6 minutes until smooth but not sticky. Use flour sparingly; dough should be soft and elastic not stiff."
+- "Form dough into a ball, oil lightly, cover tightly. Refrigerate minimum 20 hours. This long cold ferment thickens flavor, improves chew. I've tried shorter times—less taste complexity, more bland."
+- "Before using, divide dough into 6 equal pieces. Shape each into smaller balls. Let proof covered 60–70 minutes in warm spot until doubles. No rush here. Dough that’s underproofed springs back; overproofed collapses in oven."
+- "Lightly oil six 15 cm cake pans. Press dough balls into pans to edges, create even base. Cover again with damp towel. Proof another 1.5 to 2 hours until dough pushes back slowly and puffy. Avoid cold drafts; stalls rising."
+- ""
+- "=== Cooking the Topping ==="
+- "Heat oil medium in heavy pan. Toss in onions, stir to coat. Sprinkle nutmeg and white pepper."
+- "Cover, cook 6–9 minutes until softened, releasing sweet onion aroma. Uncover, lower heat to medium-low. Stir every few minutes, let onions caramelize evenly—don't rush. Avoid burning by adjusting heat; dark brown with a little stick to pan is good. I tap pan bottom with spatula to dislodge stuck bits—adds flavor."
+- "In cup, whisk wine with onion soup and barbecue sauce mixes until smooth."
+- "Add wine mix to onions. Increase heat slightly, simmer stirring until thickening—sauce coats spoon. About 10–12 minutes here. If too thin, cook longer. Taste to balance salt and sweetness."
+- "Cool mixture fully in fridge minimum 2 hours. Hot topping on dough? Problem. Softens too much, makes crust soggy."
+- ""
+- "=== Baking ==="
+- "Place oven rack low. Preheat convection oven to 220 C (430 F). If no convection, add 10 minutes to bake time and rotate halfway."
+- "Spread 120 ml (just under ½ cup) onion mixture per crust evenly over dough. Sprinkle 90 g mozzarella around edges, sharp cheddar 90 g in center. Leaves thyme over top."
+- "Pop in oven. Bake 18–23 minutes watching cheese brown, edges firm up, crust turning golden. Listen for faint bubbling and scent—both signs of doneness. If crust edges pale at 20-minute mark, nudge oven temp slightly upward or move pan lower."
+- "Rest pizzas 5 minutes before unmolding. Cheese will set slightly, doh will crisp more at bottom."
+- ""
+- "=== Extras and Tips ==="
+- "Swap cheddar for aged gouda for smoky edge, or part fontina for gooey melt. Substitute cornmeal with semolina or polenta based on texture preference; I prefer cornmeal for slight crunch but semolina adds rustic graininess."
+- "If no barbecue sauce mix, replace with smoked paprika and a pinch of cayenne. Adds mild heat and complexity."
+- "Too sticky dough? Chill 10 minutes before shaping. If dough tight and resists stretch, let rest 15 minutes uncovered to relax gluten."
+- "To speed topping cooling, spread on baking sheet thin layer, then refrigerate uncovered to avoid clumps."
+- "If oven space limited, bake pizzas one after another; keep cooked pizzas wrapped loosely in foil to maintain moisture."
+introduction: "Caramelized onions, that deep umami hit. Braised slow with nutmeg and pepper until sweet-dark gold, barely sticky. The dough isn't rushed: soaked overnight, rested again to cushion toppings and heat. Cheese? Think juicy mozzarella edges but a strong cheddar core—balance of mellow goo and sharp bite. White wine in sauce thickens the onion mix and ties in a hint of acidity. There's a little twist—smoky barbecue flavor sneaks in via sauce mix, forgetting plain old onion soup mix. Timing? Use sight and smell, not strict clock watching. Crust crisp, cheese bubbling, smell rich enough to snag anyone nearby. Definitely no soggy bottoms or bland middles here. Just layers of textures and flavors working hard together."
+ingredientsNote: "The dough hydration is key: colder water slows yeast activity, allowing flavor to develop better over 20+ hours. Cornmeal adds crunch underfoot but semolina can replace for coarser texture. Yeast amount tweaked slightly down from usual 7.5 ml to 8 ml for better rise after slow ferment. Onion soup mix replaced with smoky barbecue powder—adds unexpected warmth without overcommenting. Cheese quantities trimmed 10% for less ooze but still gooey pockets. Nutmeg and white pepper doses balanced to not overwhelm onion sweetness. Wine amount upped slightly for a thicker sauce that clings not pools. Salt moved from 7.5 ml to 9 ml emphasizes dough flavor against rich toppings. Pay attention to dough feel during kneading; stickiness means too wet, flour more. Avoid overcovering proofing dough; breathable but damp is best environment."
+instructionsNote: "Yeast activation step small but crucial; little bubbles mean live yeast. Let flour and cornmeal mingle before adding water so hydration is even—neglecting this can cause lumpy dough. Resting the dough 20 minutes pre-knead relaxes gluten, making kneading easier. Refrigerate dough for at least 20 hours, but no more than 30 or yeast fatigue can cause dense crust. Dough should be smooth but slightly tacky when done kneading; dry dough = tough crust. In final proof stages, dough rise not just height, but gentle spring back back-check shows readiness. Onion caramelization slow wins the race; fast frying burns sugars. Wine plus spice mix thickening stage not rushed—should coat spoon, glossy and rich. Cool topping fully before assembly to avoid wetting dough. Baking low in oven ensures well-cooked bottom crust and crispy edges. Cheese layering helps keep crust edges from burning by shielding with mozzarella. Let pizza rest post-bake on rack to keep bottom crisp; no soggy trays. Common pitfall: baking with hot topping (never), underproofed dough doughy middles."
+tips:
+- "Hydrate dough with cold water, slows yeast, deeper flavor develops over 20 plus hours. Dough feels tacky before kneading, don’t add flour too fast. Knead until smooth and elastic not stiff, soft is key. Proof warm, watch dough spring back gently; underproof stays tight, overproof collapses in oven. Separate proof stages control crumb and chew."
+- "Caramelize onions low and slow medium low heat. Keep stirring every few minutes or risk burning sugars. Nutmeg plus white pepper brings out sweet spice but delicate enough not to cover onions. Dark brown with slight stick okay, scrape stuck bits for flavor, noise tells progress. Sauce thickens with wine, coats spoon, don’t rush this or topping gets watery."
+- "Cool onion mix fully before spreading. Hot topping softens dough crust, ruins base crispness. Pre-oil pans heavily; stops sticking and helps crust brown. Press dough out to pan edges evenly, cover with damp cloth. Proof twice, first bulk then final after shaping. Missing final proof makes dense middle, bubbling but doughy."
+- "Cheese layering matters. Mozzarella shields edges to prevent burning, cheddar center adds sharpness and gooey pockets. Can swap cheddar with gouda for smoky edge or fontina for more melt. Cornmeal adds crunch base, semolina swap for coarse rustic texture. Barbecue powder can replace onion soup mix if needed, adds smoky heat without masking onions."
+- "Oven rack low, convection preferred. If no convection add bake time and rotate pans. Listen for bubbling cheese and smell, more reliable than timer. Pale crust edges at 20 mins means raise temp or lower pan. Rest pizzas on rack after bake for 5 minutes, cheese sets, bottom crisps. Avoid soggy dough by cold ferment, full proof, no hot topping. Supervising heat key all stages."
+faq:
+- "q: How to know when dough proofed right? a: Look for gentle spring back, not jiggly or hard. Underproof pops back fast. Overproof feels slack, sinks in oven. Not always height, texture counts. Hard to gauge? Tap dough; should feel soft not tight, like breathing but slow."
+- "q: Can I skip chilling dough overnight? a: You lose flavor depth and texture. Dough ferments less, more bland results. Shorter time means less chew complexity but faster. If rushed, proof extra time warm but risk sticky dough. Not recommended but workable in pinch."
+- "q: What if onions burn or brown too dark? a: Lower heat immediately, add splash water if sticky. Burnt bits taste bitter. Toss bits if too much black, but some dark stuck bits add character. Stir early but do not rush caramelization, takes attention."
+- "q: How to store leftover pizzas? a: Wrap loose in foil or parchment, fridge up to 3 days. Reheat on rack or skillet so bottom stays crisp. Avoid microwaves or sealed containers that steam crust soggy. Freeze slices in airtight wrap, later toast in oven or pan for best texture."
+
+---
