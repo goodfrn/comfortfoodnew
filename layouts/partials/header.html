@@ -62,13 +62,11 @@
         </a>
         {{ end }}
 
-        <!-- Burger Button (mobile only) -->
-        <button id="mobile-menu-button" class="md:hidden relative w-10 h-10 rounded-lg flex items-center justify-center transition-all duration-200" style="background-color: var(--color-bg-alt);" aria-label="Menu">
-          <div class="burger-icon">
-            <span class="burger-line top" style="background-color: var(--primary);"></span>
-            <span class="burger-line middle" style="background-color: var(--primary);"></span>
-            <span class="burger-line bottom" style="background-color: var(--primary);"></span>
-          </div>
+        <!-- Menu Button Simple (mobile) -->
+        <button class="md:hidden w-10 h-10 rounded-lg flex flex-col items-center justify-center space-y-1 transition-all duration-200" style="background-color: var(--color-bg-alt);" onclick="toggleMobileMenu()" aria-label="Menu">
+          <span class="w-5 h-0.5 rounded" style="background-color: var(--primary);"></span>
+          <span class="w-5 h-0.5 rounded" style="background-color: var(--primary);"></span>
+          <span class="w-5 h-0.5 rounded" style="background-color: var(--primary);"></span>
         </button>
       </div>
     </div>
@@ -122,185 +120,21 @@
     </div>
   </nav>
 
-  <!-- ===== Menu Mobile Overlay ===== -->
-  <div id="mobile-menu" class="md:hidden fixed inset-0 bg-black/20 backdrop-blur-sm opacity-0 invisible transition-all duration-300" style="z-index: var(--z-overlay);">
-    <div class="absolute right-0 top-0 h-full w-80 max-w-[85vw] bg-white shadow-2xl transform translate-x-full transition-transform duration-300">
-      
-      <!-- Header menu mobile -->
-      <div class="flex items-center justify-between p-6 border-b border-gray-200">
-        <div class="flex items-center space-x-3">
-          <div class="w-8 h-8 brand rounded-full flex items-center justify-center">
-            <span class="text-white font-bold text-sm">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
-          </div>
-          <span class="font-semibold text-slate-900">Menu</span>
-        </div>
-        <button id="mobile-menu-close" class="w-8 h-8 rounded-lg flex items-center justify-center transition-colors" style="background-color: var(--color-bg-alt);">
-          <svg class="w-5 h-5" style="color: var(--primary);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
-          </svg>
-        </button>
-      </div>
-
-      <!-- Navigation mobile -->
-      <nav class="py-6">
-        <ul class="space-y-2 px-6">
-          <li>
-            <a href="/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if .IsHome }}mobile-active{{ end }}" style="transition: all 0.3s;">
-              <span class="font-semibold">Home</span>
-              {{ if .IsHome }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-            </a>
-          </li>
-          <li>
-            <a href="/recipes/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if eq .Section "recipes" }}mobile-active{{ end }}" style="transition: all 0.3s;">
-              <span class="font-semibold">Recipes</span>
-              {{ if eq .Section "recipes" }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-            </a>
-          </li>
-          <li>
-            <a href="/categories/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}mobile-active{{ end }}" style="transition: all 0.3s;">
-              <span class="font-semibold">Categories</span>
-              {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-            </a>
-          </li>
-          <li>
-            <a href="/about/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if eq .RelPermalink "/about/" }}mobile-active{{ end }}" style="transition: all 0.3s;">
-              <span class="font-semibold">About Us</span>
-              {{ if eq .RelPermalink "/about/" }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-            </a>
-          </li>
-          <li>
-            <a href="/contact/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if eq .RelPermalink "/contact/" }}mobile-active{{ end }}" style="transition: all 0.3s;">
-              <span class="font-semibold">Contact</span>
-              {{ if eq .RelPermalink "/contact/" }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-            </a>
-          </li>
-        </ul>
-
-        <!-- Réseaux sociaux mobile -->
-        <div class="px-6 mt-8 pt-6 border-t border-gray-200">
-          <p class="text-sm font-semibold text-slate-600 mb-4">Follow Us</p>
-          <div class="flex space-x-3">
-            {{ with $social.facebook }}
-            <a href="{{ . }}" target="_blank" rel="noopener" class="w-10 h-10 bg-gray-100 rounded-full flex items-center justify-center text-slate-600 transition-colors" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--primary)'; this.style.color='white'" onmouseout="this.style.backgroundColor=''; this.style.color=''">
-              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.46h-1.261c-1.243 0-1.632.771-1.632 1.562v1.876h2.773l-.443 2.89h-2.33V21.877C18.343 21.128 22 17.005 22 12"></path>
-              </svg>
-            </a>
-            {{ end }}
-            {{ with $social.pinterest }}
-            <a href="{{ . }}" target="_blank" rel="noopener" class="w-10 h-10 rounded-full flex items-center justify-center text-white transition-colors" style="background-color: var(--primary); transition: all 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform=''">
-              <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-                <path d="M12 0C5.373 0 0 5.373 0 12s5.373 12 12 12 12-5.373 12-12S18.627 0 12 0zm0 19c-.721 0-1.418-.109-2.073-.312.286-.482.637-1.159.637-1.728 0-.49.198-1.868.198-1.868s-.398-.797-.398-1.973c0-1.848 1.072-3.225 2.408-3.225 1.135 0 1.683.852 1.683 1.872 0 1.141-.727 2.846-.727 2.846-.462 1.958.308 3.554 2.09 3.554 2.513 0 4.209-2.643 4.209-5.768 0-2.387-1.606-4.168-4.291-4.168-3.145 0-5.136 2.289-5.136 4.851 0 .884.256 1.495.681 1.977.188.223.215.312.146.565-.05.186-.166.658-.215.842-.07.267-.285.363-.658.2-1.829-.758-2.679-2.777-2.679-5.04 0-3.748 2.995-8.278 8.954-8.278 4.787 0 7.954 3.428 7.954 7.108 0 4.897-2.72 8.572-6.749 8.572-1.362 0-2.645-.746-3.085-1.616z"/>
-              </svg>
-            </a>
-            {{ end }}
-          </div>
-        </div>
-      </nav>
+  <!-- ===== Menu Mobile Simple ===== -->
+  <div id="mobile-nav" class="md:hidden hidden bg-white border-b border-slate-200">
+    <div class="px-4 py-2 space-y-1">
+      <a href="/" class="block px-4 py-2 rounded {{ if .IsHome }}font-semibold{{ end }}" style="color: {{ if .IsHome }}var(--primary){{ else }}var(--color-text){{ end }}">Home</a>
+      <a href="/recipes/" class="block px-4 py-2 rounded {{ if eq .Section "recipes" }}font-semibold{{ end }}" style="color: {{ if eq .Section "recipes" }}var(--primary){{ else }}var(--color-text){{ end }}">Recipes</a>
+      <a href="/categories/" class="block px-4 py-2 rounded {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}font-semibold{{ end }}" style="color: {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}var(--primary){{ else }}var(--color-text){{ end }}">Categories</a>
+      <a href="/about/" class="block px-4 py-2 rounded {{ if eq .RelPermalink "/about/" }}font-semibold{{ end }}" style="color: {{ if eq .RelPermalink "/about/" }}var(--primary){{ else }}var(--color-text){{ end }}">About Us</a>
+      <a href="/contact/" class="block px-4 py-2 rounded {{ if eq .RelPermalink "/contact/" }}font-semibold{{ end }}" style="color: {{ if eq .RelPermalink "/contact/" }}var(--primary){{ else }}var(--color-text){{ end }}">Contact</a>
     </div>
   </div>
 </header>
 
-<!-- ===== CSS & JavaScript ===== -->
-<style>
-/* Burger Animation */
-.burger-icon {
-  width: 20px;
-  height: 14px;
-  position: relative;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.burger-line {
-  display: block;
-  width: 100%;
-  height: 2px;
-  border-radius: 1px;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  transform-origin: center;
-}
-
-.burger-icon.active .top {
-  transform: rotate(45deg) translate(3px, 3px);
-}
-
-.burger-icon.active .middle {
-  opacity: 0;
-  transform: scale(0);
-}
-
-.burger-icon.active .bottom {
-  transform: rotate(-45deg) translate(3px, -3px);
-}
-
-/* Active states */
-.active-link {
-  color: var(--primary) !important;
-}
-
-.mobile-active {
-  background-color: var(--color-bg-alt);
-  color: var(--primary);
-}
-
-/* Menu mobile animations */
-#mobile-menu.show {
-  opacity: 1;
-  visibility: visible;
-}
-
-#mobile-menu.show > div {
-  transform: translateX(0);
-}
-</style>
-
 <script>
-document.addEventListener('DOMContentLoaded', function() {
-  const menuButton = document.getElementById('mobile-menu-button');
-  const mobileMenu = document.getElementById('mobile-menu');
-  const closeButton = document.getElementById('mobile-menu-close');
-  
-  if (menuButton && mobileMenu && closeButton) {
-    const burgerIcon = menuButton.querySelector('.burger-icon');
-
-    function openMenu() {
-      mobileMenu.classList.add('show');
-      if (burgerIcon) burgerIcon.classList.add('active');
-      document.body.style.overflow = 'hidden';
-    }
-
-    function closeMenu() {
-      mobileMenu.classList.remove('show');
-      if (burgerIcon) burgerIcon.classList.remove('active');
-      document.body.style.overflow = '';
-    }
-
-    menuButton.addEventListener('click', openMenu);
-    closeButton.addEventListener('click', closeMenu);
-    
-    // Fermer en cliquant sur l'overlay
-    mobileMenu.addEventListener('click', function(e) {
-      if (e.target === mobileMenu) {
-        closeMenu();
-      }
-    });
-
-    // Hover effects pour mobile menu links
-    const mobileLinks = document.querySelectorAll('#mobile-menu nav a');
-    mobileLinks.forEach(link => {
-      if (!link.classList.contains('mobile-active')) {
-        link.addEventListener('mouseenter', function() {
-          this.style.backgroundColor = 'var(--color-bg-alt)';
-          this.style.color = 'var(--primary)';
-        });
-        link.addEventListener('mouseleave', function() {
-          this.style.backgroundColor = '';
-          this.style.color = '';
-        });
-      }
-    });
-  }
-});
+function toggleMobileMenu() {
+  const menu = document.getElementById('mobile-nav');
+  menu.classList.toggle('hidden');
+}
 </script>
