@@ -71,11 +71,27 @@
               {{ .Title }}
             </h3>
             
+            <!-- BY AUTEUR -->
+            <p class="text-sm text-gray-500 mt-1">
+              by {{ .Params.author | default "Chef" }}
+            </p>
+            
             <!-- Métriques sophistiquées -->
             <div class="flex items-center justify-between pt-2 border-t border-gray-100">
               
-              <!-- Temps -->
-              {{ with .Params.totalTime }}
+              <!-- Temps avec logique de fallback -->
+              {{ $displayTime := .Params.totalTime }}
+              {{ if not $displayTime }}
+                {{ if and .Params.prepTime .Params.cookTime }}
+                  {{ $displayTime = printf "%s + %s" .Params.prepTime .Params.cookTime }}
+                {{ else if .Params.prepTime }}
+                  {{ $displayTime = .Params.prepTime }}
+                {{ else if .Params.cookTime }}
+                  {{ $displayTime = .Params.cookTime }}
+                {{ end }}
+              {{ end }}
+              
+              {{ with $displayTime }}
                 <div class="flex items-center space-x-1.5">
                   <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
                     <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
@@ -134,149 +150,15 @@
 
       {{ end }}
     </div>
-  </div>
-</section>
-
-<!-- SECTION MIGRÉE : Recettes populaires -->
-<section class="section">
-  <div class="container">
-    
-    <!-- 🏷️ Titre avec classe section__title -->
-    <h2 class="section__title">
-      {{ $homepage.popular_recipes.title }}
-    </h2>
-   
-    <p class="text-base text-center mb-8 max-w-2xl mx-auto" style="color: var(--color-text-secondary);">
-      Our community's all-time favorites - these beloved recipes have earned their place through countless successful kitchen adventures.
-    </p>
-    
-    <!-- Grille recettes avec CARTES PREMIUM -->
-    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {{ $all := where .Site.RegularPages "Section" "recipes" }}
-      {{ $count := len $all }}
-      {{ if gt $count 0 }}
-        {{ $week := div now.Unix 604800 }}
-        {{ $offset := mod $week $count }}
-        {{ $limit := 6 }}
-        {{ if lt $count 6 }}{{ $limit = $count }}{{ end }}
-
-        {{ range $i := seq 0 (sub $limit 1) }}
-          {{ $idx := mod (add $offset $i) $count }}
-          {{ $item := index $all $idx }}
-          
-          <!-- 🏆 CARTE PREMIUM STYLÉE -->
-          <a href="{{ $item.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
-            
-<!-- Image optimisée -->
-            <div class="relative overflow-hidden aspect-[4/3]">
-              {{ with $item.Params.image }}
-                {{ $img := resources.Get (printf "images/%s" .) }}
-                {{ if $img }}
-                  {{ $webp := $img.Fill "400x300 q50 webp" }}
-                  {{ $fallback := $img.Fill "400x300 q60" }}
-                  
-                  <picture>
-                    <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                    <img src="{{ $fallback.RelPermalink }}" 
-                         alt="{{ $item.Title }}" 
-                         class="w-full h-full object-cover"
-                         loading="lazy"
-                         width="400" 
-                         height="300">
-                  </picture>
-                {{ else }}
-                  <img src="/{{ . }}" 
-                       alt="{{ $item.Title }}" 
-                       class="w-full h-full object-cover"
-                       loading="lazy">
-                {{ end }}
-              {{ end }}
-              
-              <!-- Badge catégorie -->
-              {{ with index $item.Params.categories 0 }}
-                <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
-                  <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">
-                    {{ . }}
-                  </span>
-                </div>
-              {{ end }}
-            </div>
-            
-            <!-- Contenu premium -->
-            <div class="p-6 space-y-4">
-              
-              <!-- Titre élégant -->
-              <h3 class="font-serif text-xl leading-tight font-medium" 
-                  style="color: var(--color-text); font-family: 'Times New Roman', serif;">
-                {{ $item.Title }}
-              </h3>
-              
-              <!-- Métriques sophistiquées -->
-              <div class="flex items-center justify-between pt-2 border-t border-gray-100">
-                
-                <!-- Temps -->
-                {{ with $item.Params.totalTime }}
-                  <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
-                    </div>
-                    <span class="text-sm font-medium text-gray-700">
-                      {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
-                    </span>
-                  </div>
-                {{ end }}
-                
-                <!-- Portions -->
-                {{ with $item.Params.recipeYield }}
-                  <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
-                    </div>
-                    <span class="text-sm font-medium text-gray-700">
-                      {{ . }}
-                    </span>
-                  </div>
-                {{ end }}
-                
-                <!-- Calories -->
-                {{ with $item.Params.nutrition.calories }}
-                  <div class="flex items-center space-x-1.5">
-                    <div class="w-4 h-4 rounded-full bg-orange-100 flex items-center justify-center">
-                      <div class="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
-                    </div>
-                    <span class="text-sm font-medium text-gray-700">
-                      {{ . }} cal
-                    </span>
-                  </div>
-                {{ end }}
-              </div>
-              
-              <!-- Tags premium -->
-              {{ if $item.Params.tags }}
-                <div class="flex flex-wrap gap-2 pt-3">
-                  {{ range first 2 $item.Params.tags }}
-                    <span class="px-2.5 py-1 bg-gray-50 rounded-full">
-                      <span class="text-xs font-medium text-gray-600">{{ . }}</span>
-                    </span>
-                  {{ end }}
-                </div>
-              {{ end }}
-              
-              <!-- Footer editorial -->
-              <div class="flex justify-end pt-4 border-t border-gray-50">
-                <time class="text-xs text-gray-400 font-medium" datetime="{{ $item.Date.Format "2006-01-02" }}">
-                  {{ $item.Date.Format "Jan 2, 2006" }}
-                </time>
-              </div>
-            </div>
-            
-          </a>
-        {{ end }}
-      {{ else }}
-        <p class="text-center col-span-full" style="color: var(--color-text-secondary);">
-          {{ $homepage.popular_recipes.empty_message }}
-        </p>
-      {{ end }}
+    <!-- Bouton voir toutes les recettes -->
+    <div class="text-center mt-8">
+      <a href="/recipes/" class="inline-flex items-center px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:shadow-lg transform hover:-translate-y-1" 
+         style="background-color: var(--primary); color: white; font-family: var(--font-serif);">
+        View All Recipes
+        <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+        </svg>
+      </a>
     </div>
   </div>
 </section>
@@ -367,6 +249,176 @@
       <a href="/categories/" class="inline-flex items-center px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:shadow-lg transform hover:-translate-y-1" 
          style="background-color: var(--primary); color: white; font-family: var(--font-serif);">
         View All Categories
+        <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>
+
+<!-- SECTION MIGRÉE : Recettes populaires -->
+<section class="section">
+  <div class="container">
+    
+    <!-- 🏷️ Titre avec classe section__title -->
+    <h2 class="section__title">
+      {{ $homepage.popular_recipes.title }}
+    </h2>
+   
+    <p class="text-base text-center mb-8 max-w-2xl mx-auto" style="color: var(--color-text-secondary);">
+      Our community's all-time favorites - these beloved recipes have earned their place through countless successful kitchen adventures.
+    </p>
+    
+    <!-- Grille recettes avec CARTES PREMIUM -->
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {{ $all := where .Site.RegularPages "Section" "recipes" }}
+      {{ $count := len $all }}
+      {{ if gt $count 0 }}
+        {{ $week := div now.Unix 604800 }}
+        {{ $offset := mod $week $count }}
+        {{ $limit := 6 }}
+        {{ if lt $count 6 }}{{ $limit = $count }}{{ end }}
+
+        {{ range $i := seq 0 (sub $limit 1) }}
+          {{ $idx := mod (add $offset $i) $count }}
+          {{ $item := index $all $idx }}
+          
+          <!-- 🏆 CARTE PREMIUM STYLÉE -->
+          <a href="{{ $item.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
+            
+<!-- Image optimisée -->
+            <div class="relative overflow-hidden aspect-[4/3]">
+              {{ with $item.Params.image }}
+                {{ $img := resources.Get (printf "images/%s" .) }}
+                {{ if $img }}
+                  {{ $webp := $img.Fill "400x300 q50 webp" }}
+                  {{ $fallback := $img.Fill "400x300 q60" }}
+                  
+                  <picture>
+                    <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
+                    <img src="{{ $fallback.RelPermalink }}" 
+                         alt="{{ $item.Title }}" 
+                         class="w-full h-full object-cover"
+                         loading="lazy"
+                         width="400" 
+                         height="300">
+                  </picture>
+                {{ else }}
+                  <img src="/{{ . }}" 
+                       alt="{{ $item.Title }}" 
+                       class="w-full h-full object-cover"
+                       loading="lazy">
+                {{ end }}
+              {{ end }}
+              
+              <!-- Badge catégorie -->
+              {{ with index $item.Params.categories 0 }}
+                <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
+                  <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">
+                    {{ . }}
+                  </span>
+                </div>
+              {{ end }}
+            </div>
+            
+            <!-- Contenu premium -->
+            <div class="p-6 space-y-4">
+              
+              <!-- Titre élégant -->
+              <h3 class="font-serif text-xl leading-tight font-medium" 
+                  style="color: var(--color-text); font-family: 'Times New Roman', serif;">
+                {{ $item.Title }}
+              </h3>
+              
+              <!-- BY AUTEUR -->
+              <p class="text-sm text-gray-500 mt-1">
+                by {{ $item.Params.author | default "Chef" }}
+              </p>
+              
+              <!-- Métriques sophistiquées -->
+              <div class="flex items-center justify-between pt-2 border-t border-gray-100">
+                
+                <!-- Temps avec logique de fallback -->
+                {{ $displayTime := $item.Params.totalTime }}
+                {{ if not $displayTime }}
+                  {{ if and $item.Params.prepTime $item.Params.cookTime }}
+                    {{ $displayTime = printf "%s + %s" $item.Params.prepTime $item.Params.cookTime }}
+                  {{ else if $item.Params.prepTime }}
+                    {{ $displayTime = $item.Params.prepTime }}
+                  {{ else if $item.Params.cookTime }}
+                    {{ $displayTime = $item.Params.cookTime }}
+                  {{ end }}
+                {{ end }}
+                
+                {{ with $displayTime }}
+                  <div class="flex items-center space-x-1.5">
+                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
+                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                    </div>
+                    <span class="text-sm font-medium text-gray-700">
+                      {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
+                    </span>
+                  </div>
+                {{ end }}
+                
+                <!-- Portions -->
+                {{ with $item.Params.recipeYield }}
+                  <div class="flex items-center space-x-1.5">
+                    <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
+                      <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+                    </div>
+                    <span class="text-sm font-medium text-gray-700">
+                      {{ . }}
+                    </span>
+                  </div>
+                {{ end }}
+                
+                <!-- Calories -->
+                {{ with $item.Params.nutrition.calories }}
+                  <div class="flex items-center space-x-1.5">
+                    <div class="w-4 h-4 rounded-full bg-orange-100 flex items-center justify-center">
+                      <div class="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
+                    </div>
+                    <span class="text-sm font-medium text-gray-700">
+                      {{ . }} cal
+                    </span>
+                  </div>
+                {{ end }}
+              </div>
+              
+              <!-- Tags premium -->
+              {{ if $item.Params.tags }}
+                <div class="flex flex-wrap gap-2 pt-3">
+                  {{ range first 2 $item.Params.tags }}
+                    <span class="px-2.5 py-1 bg-gray-50 rounded-full">
+                      <span class="text-xs font-medium text-gray-600">{{ . }}</span>
+                    </span>
+                  {{ end }}
+                </div>
+              {{ end }}
+              
+              <!-- Footer editorial -->
+              <div class="flex justify-end pt-4 border-t border-gray-50">
+                <time class="text-xs text-gray-400 font-medium" datetime="{{ $item.Date.Format "2006-01-02" }}">
+                  {{ $item.Date.Format "Jan 2, 2006" }}
+                </time>
+              </div>
+            </div>
+            
+          </a>
+        {{ end }}
+      {{ else }}
+        <p class="text-center col-span-full" style="color: var(--color-text-secondary);">
+          {{ $homepage.popular_recipes.empty_message }}
+        </p>
+      {{ end }}
+    </div>
+    <!-- Bouton découvrir plus -->
+    <div class="text-center mt-8">
+      <a href="/recipes/" class="inline-flex items-center px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:shadow-lg transform hover:-translate-y-1" 
+         style="background-color: var(--primary); color: white; font-family: var(--font-serif);">
+        Discover More Recipes
         <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
         </svg>
