@@ -64,8 +64,8 @@
             {{ with .Params.image }}
               {{ $img := resources.Get (printf "images/%s" .) }}
               {{ if $img }}
-                {{ $webp := $img.Fill "600x400 q80 webp" }}
-                {{ $fallback := $img.Fill "600x400 q85" }}
+                {{ $webp := $img.Fill "400x300 q50 webp" }}
+                {{ $fallback := $img.Fill "400x300 q60" }}
                 
                 <picture>
                   <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
@@ -73,8 +73,8 @@
                        alt="{{ $.Title }}" 
                        class="w-full h-full object-cover"
                        loading="lazy"
-                       width="600" 
-                       height="400">
+                       width="400" 
+                       height="300">
                 </picture>
               {{ else }}
                 <img src="/{{ . }}" 
@@ -95,7 +95,7 @@
           </div>
           
           <!-- Contenu premium -->
-          <div class="p-6 space-y-4 border border-gray-100">
+          <div class="p-6 space-y-4">
             
             <!-- Titre élégant -->
             <h3 class="font-serif text-xl leading-tight font-medium" 
@@ -103,11 +103,27 @@
               {{ .Title }}
             </h3>
             
+            <!-- BY AUTEUR -->
+            <p class="text-sm text-gray-500 mt-1">
+              by {{ .Params.author | default "Chef" }}
+            </p>
+            
             <!-- Métriques sophistiquées -->
             <div class="flex items-center justify-between pt-2 border-t border-gray-100">
               
-              <!-- Temps -->
-              {{ with .Params.totalTime }}
+              <!-- Temps avec logique de fallback -->
+              {{ $displayTime := .Params.totalTime }}
+              {{ if not $displayTime }}
+                {{ if and .Params.prepTime .Params.cookTime }}
+                  {{ $displayTime = printf "%s + %s" .Params.prepTime .Params.cookTime }}
+                {{ else if .Params.prepTime }}
+                  {{ $displayTime = .Params.prepTime }}
+                {{ else if .Params.cookTime }}
+                  {{ $displayTime = .Params.cookTime }}
+                {{ end }}
+              {{ end }}
+              
+              {{ with $displayTime }}
                 <div class="flex items-center space-x-1.5">
                   <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
                     <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
@@ -146,7 +162,7 @@
             <!-- Tags premium -->
             {{ if .Params.tags }}
               <div class="flex flex-wrap gap-2 pt-3">
-                {{ range first 3 .Params.tags }}
+                {{ range first 2 .Params.tags }}
                   <span class="px-2.5 py-1 bg-gray-50 rounded-full">
                     <span class="text-xs font-medium text-gray-600">{{ . }}</span>
                   </span>
