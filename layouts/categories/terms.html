@@ -36,7 +36,7 @@
         <a href="{{ $term.Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
           
           <!-- Image avec overlay -->
-          <div class="relative overflow-hidden aspect-[16/9] h-32">
+          <div class="relative overflow-hidden aspect-[16/9] h-32 rounded-xl">
             {{ with $firstRecipe }}
               {{ with .Params.image }}
                 {{ $img := resources.Get (printf "images/%s" .) }}
@@ -55,7 +55,7 @@
               {{ end }}
             {{ else }}
               <!-- Image par défaut si pas de recette -->
-              <div class="w-full h-full bg-gray-200 flex items-center justify-center">
+              <div class="w-full h-full bg-gray-200 flex items-center justify-center rounded-xl">
                 <span class="text-gray-400 text-xs">{{ $displayName }}</span>
               </div>
             {{ end }}
@@ -63,9 +63,9 @@
             <!-- Overlay gradient sophistiqué -->
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
             
-            <!-- Titre de catégorie positionné en bas (hover) -->
+            <!-- Titre de catégorie positionné en bas (toujours visible) -->
             <div class="absolute bottom-0 left-0 right-0 p-3">
-              <h3 class="font-serif text-sm font-bold text-white transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500" 
+              <h3 class="font-serif text-sm font-bold text-white transition-all duration-500" 
                   style="font-family: var(--font-serif); text-shadow: 0 2px 8px rgba(0,0,0,0.7);">
                 {{ $displayName }}
               </h3>
@@ -74,14 +74,8 @@
           
           <!-- Zone de contenu épurée -->
           <div class="p-3 border border-gray-100">
-            <!-- Titre visible par défaut (couleur texte standard) -->
-            <h3 class="font-serif text-sm font-medium text-center group-hover:text-opacity-70 transition-all duration-300" 
-                style="color: var(--color-text); font-family: var(--font-serif);">
-              {{ $displayName }}
-            </h3>
-            
-            <!-- Petit indicateur subtil -->
-            <div class="flex justify-center mt-2">
+            <!-- Petit indicateur subtil seulement -->
+            <div class="flex justify-center">
               <div class="w-8 h-0.5 bg-gray-200 group-hover:bg-current transition-colors duration-300" style="background-color: var(--primary);"></div>
             </div>
           </div>
