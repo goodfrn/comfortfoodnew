@@ -12,8 +12,8 @@
     <div class="absolute top-8 right-40 w-1 h-1 rounded-full animate-pulse animation-delay-1000" style="background-color: var(--primary); opacity: 0.2;"></div>
   </div>
 
-  <!-- ===== Barre du haut : logo, recherche, burger ===== -->
-  <div class="relative backdrop-blur-xl bg-white/80 border-b border-slate-200/50" style="z-index: var(--z-fixed);">
+  <!-- ===== Barre du haut : logo, recherche (desktop), burger (mobile) ===== -->
+  <div class="relative backdrop-blur-xl bg-white/80 border-b border-slate-200/50 shadow-sm" style="z-index: var(--z-fixed);">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 flex justify-between items-center py-4 sm:py-6">
       
       <!-- Logo sophistiqué -->
@@ -29,31 +29,19 @@
         </div>
       </a>
 
-     <!-- Barre de recherche desktop -->
-     <div class="hidden md:block flex-1 max-w-lg mx-8">
-       <div class="relative group">
-         <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-           <svg class="h-5 w-5 text-slate-400 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="transition: color 0.2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">
-             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-           </svg>
-         </div>
-         {{ partial "search-input.html" (dict "Placeholder" ($header.search_placeholder | default "Search recipes...") "TargetID" "search-desktop" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 transition-all duration-300 backdrop-blur-sm" "Style" "focus:ring-color: var(--primary); focus:border-color: var(--primary);") }}
-       </div>
-     </div>
+      <!-- Barre de recherche (desktop only) -->
+      <div class="hidden md:block flex-1 max-w-lg mx-8">
+        <div class="relative group">
+          <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+            <svg class="h-5 w-5 text-slate-400 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="transition: color 0.2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+            </svg>
+          </div>
+          {{ partial "search-input.html" (dict "Placeholder" ($header.search_placeholder | default "Search recipes...") "TargetID" "search-desktop" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 transition-all duration-300 backdrop-blur-sm" "Style" "focus:ring-color: var(--primary); focus:border-color: var(--primary);") }}
+        </div>
+      </div>
 
-     <!-- Barre de recherche mobile -->
-     <div class="md:hidden flex-1 max-w-xs mx-3">
-       <div class="relative group">
-         <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-           <svg class="h-4 w-4 text-slate-400 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="transition: color 0.2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">
-             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-           </svg>
-         </div>
-         {{ partial "search-input.html" (dict "Placeholder" ($header.search_placeholder | default "Search...") "TargetID" "search-mobile" "Class" "w-full pl-10 pr-3 py-2 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 transition-all duration-300 backdrop-blur-sm text-sm" "Style" "focus:ring-color: var(--primary); focus:border-color: var(--primary);") }}
-       </div>
-     </div>
-
-      <!-- Burger Button (mobile) + Social (desktop) -->
+      <!-- Réseaux sociaux + Burger -->
       <div class="flex items-center space-x-2 sm:space-x-4">
         
         <!-- Réseaux sociaux (desktop only) -->
@@ -74,8 +62,8 @@
         </a>
         {{ end }}
 
-        <!-- Burger Button -->
-        <button id="mobile-menu-button" class="lg:hidden relative w-10 h-10 rounded-lg flex items-center justify-center transition-all duration-200" style="background-color: var(--color-bg-alt);" aria-label="Menu">
+        <!-- Burger Button (mobile only) -->
+        <button id="mobile-menu-button" class="md:hidden relative w-10 h-10 rounded-lg flex items-center justify-center transition-all duration-200" style="background-color: var(--color-bg-alt);" aria-label="Menu">
           <div class="burger-icon">
             <span class="burger-line top" style="background-color: var(--primary);"></span>
             <span class="burger-line middle" style="background-color: var(--primary);"></span>
@@ -86,37 +74,56 @@
     </div>
   </div>
 
+  <!-- ===== Barre de recherche mobile séparée ===== -->
+  <div class="md:hidden bg-white/80 border-b border-slate-200/50 px-4 py-3">
+    <div class="relative group">
+      <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+        <svg class="h-5 w-5 text-slate-400 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="transition: color 0.2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+        </svg>
+      </div>
+      {{ partial "search-input.html" (dict "Placeholder" ($header.search_placeholder | default "Search recipes...") "TargetID" "search-mobile" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 transition-all duration-300 backdrop-blur-sm" "Style" "focus:ring-color: var(--primary); focus:border-color: var(--primary);") }}
+    </div>
+  </div>
+
   <!-- ===== Navigation Desktop ===== -->
-  <nav class="hidden lg:block bg-white/80 border-b border-slate-200/50">
+  <nav class="hidden md:block bg-white/80 border-b border-slate-200/50">
     <div class="max-w-7xl mx-auto px-6">
       <ul class="flex space-x-8 font-semibold text-lg text-slate-800 justify-center py-4">
         <li class="relative">
           <a href="/" class="transition-colors {{ if .IsHome }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Home</a>
           {{ if .IsHome }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
         </li>
-        <li class="relative group">
-          <a href="/categories/" class="transition-colors {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Categories</a>
-          {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-        </li>
         <li class="relative">
           <a href="/recipes/" class="transition-colors {{ if eq .Section "recipes" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Recipes</a>
           {{ if eq .Section "recipes" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
         </li>
-
-        <li class="relative">
-          <a href="/about/" class="transition-colors {{ if eq .RelPermalink "/about-us/" }}active-link{{ end }}">About Us</a>
-          {{ if eq .RelPermalink "/about-us/" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+        <li class="relative group">
+          <a href="/categories/" class="transition-colors {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Categories</a>
+          {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+          
+          <!-- Submenu -->
+          <ul class="absolute left-0 mt-2 w-48 bg-white border border-slate-200 rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200" style="z-index: var(--z-dropdown);">
+            <li><a href="/categories/breakfast/" class="block px-4 py-3 transition-colors text-base font-normal rounded-t-lg" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Breakfast</a></li>
+            <li><a href="/categories/lunch/" class="block px-4 py-3 transition-colors text-base font-normal" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Lunch</a></li>
+            <li><a href="/categories/dinner/" class="block px-4 py-3 transition-colors text-base font-normal" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Dinner</a></li>
+            <li><a href="/categories/desserts/" class="block px-4 py-3 transition-colors text-base font-normal rounded-b-lg" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Desserts</a></li>
+          </ul>
         </li>
         <li class="relative">
-          <a href="/contact/" class="transition-colors {{ if eq .Type "contact" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Contact</a>
-          {{ if eq .Type "contact" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+          <a href="/about/" class="transition-colors {{ if eq .RelPermalink "/about/" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">About Us</a>
+          {{ if eq .RelPermalink "/about/" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+        </li>
+        <li class="relative">
+          <a href="/contact/" class="transition-colors {{ if eq .RelPermalink "/contact/" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Contact</a>
+          {{ if eq .RelPermalink "/contact/" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
         </li>
       </ul>
     </div>
   </nav>
 
   <!-- ===== Menu Mobile Overlay ===== -->
-  <div id="mobile-menu" class="lg:hidden fixed inset-0 bg-black/20 backdrop-blur-sm opacity-0 invisible transition-all duration-300" style="z-index: var(--z-overlay);">
+  <div id="mobile-menu" class="md:hidden fixed inset-0 bg-black/20 backdrop-blur-sm opacity-0 invisible transition-all duration-300" style="z-index: var(--z-overlay);">
     <div class="absolute right-0 top-0 h-full w-80 max-w-[85vw] bg-white shadow-2xl transform translate-x-full transition-transform duration-300">
       
       <!-- Header menu mobile -->
@@ -156,15 +163,15 @@
             </a>
           </li>
           <li>
-            <a href="/about/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if eq .Type "about" }}mobile-active{{ end }}" style="transition: all 0.3s;">
-              <span class="font-semibold">About</span>
-              {{ if eq .Type "about" }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+            <a href="/about/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if eq .RelPermalink "/about/" }}mobile-active{{ end }}" style="transition: all 0.3s;">
+              <span class="font-semibold">About Us</span>
+              {{ if eq .RelPermalink "/about/" }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
             </a>
           </li>
           <li>
-            <a href="/contact/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if eq .Type "contact" }}mobile-active{{ end }}" style="transition: all 0.3s;">
+            <a href="/contact/" class="flex items-center justify-between py-3 px-4 rounded-lg transition-colors {{ if eq .RelPermalink "/contact/" }}mobile-active{{ end }}" style="transition: all 0.3s;">
               <span class="font-semibold">Contact</span>
-              {{ if eq .Type "contact" }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
+              {{ if eq .RelPermalink "/contact/" }}<div class="w-2 h-2 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
             </a>
           </li>
         </ul>
@@ -193,3 +200,107 @@
     </div>
   </div>
 </header>
+
+<!-- ===== CSS & JavaScript ===== -->
+<style>
+/* Burger Animation */
+.burger-icon {
+  width: 20px;
+  height: 14px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.burger-line {
+  display: block;
+  width: 100%;
+  height: 2px;
+  border-radius: 1px;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  transform-origin: center;
+}
+
+.burger-icon.active .top {
+  transform: rotate(45deg) translate(3px, 3px);
+}
+
+.burger-icon.active .middle {
+  opacity: 0;
+  transform: scale(0);
+}
+
+.burger-icon.active .bottom {
+  transform: rotate(-45deg) translate(3px, -3px);
+}
+
+/* Active states */
+.active-link {
+  color: var(--primary) !important;
+}
+
+.mobile-active {
+  background-color: var(--color-bg-alt);
+  color: var(--primary);
+}
+
+/* Menu mobile animations */
+#mobile-menu.show {
+  opacity: 1;
+  visibility: visible;
+}
+
+#mobile-menu.show > div {
+  transform: translateX(0);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const menuButton = document.getElementById('mobile-menu-button');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const closeButton = document.getElementById('mobile-menu-close');
+  
+  if (menuButton && mobileMenu && closeButton) {
+    const burgerIcon = menuButton.querySelector('.burger-icon');
+
+    function openMenu() {
+      mobileMenu.classList.add('show');
+      if (burgerIcon) burgerIcon.classList.add('active');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeMenu() {
+      mobileMenu.classList.remove('show');
+      if (burgerIcon) burgerIcon.classList.remove('active');
+      document.body.style.overflow = '';
+    }
+
+    menuButton.addEventListener('click', openMenu);
+    closeButton.addEventListener('click', closeMenu);
+    
+    // Fermer en cliquant sur l'overlay
+    mobileMenu.addEventListener('click', function(e) {
+      if (e.target === mobileMenu) {
+        closeMenu();
+      }
+    });
+
+    // Hover effects pour mobile menu links
+    const mobileLinks = document.querySelectorAll('#mobile-menu nav a');
+    mobileLinks.forEach(link => {
+      if (!link.classList.contains('mobile-active')) {
+        link.addEventListener('mouseenter', function() {
+          this.style.backgroundColor = 'var(--color-bg-alt)';
+          this.style.color = 'var(--primary)';
+        });
+        link.addEventListener('mouseleave', function() {
+          this.style.backgroundColor = '';
+          this.style.color = '';
+        });
+      }
+    });
+  }
+});
+</script>
