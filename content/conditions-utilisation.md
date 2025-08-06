@@ -6,7 +6,7 @@ layout: "legal/conditions-utilisation"
 
 ## Agreement Acceptance
 
-By accessing and using the Comfort Food website (comfortfood.uk), you agree to be bound by these Terms of Service. If you disagree with any part of these terms, please discontinue use of our website immediately.
+By accessing and using the Comfort Food website (comfortfood.uk), you agree to be bound by these Terms of Service. If you disagree with any part of these terms, please discontinue use of our website immediately. 
 
 ## Website Purpose and Content
 
