@@ -1,0 +1,95 @@
+---
+title: "Herbed Pork Filet Creamy Pasta Salad"
+slug: "herbed-pork-filet-salad"
+description: "Pork filet marinated with fresh herbs and lemon, roasted to juicy rosé, paired with a creamy yogurt pasta salad studded with green beans, olives, and a fresh herb kick. Substituted mint with basil, feta with ricotta salata. Added toasted pine nuts to salad for crunch and swapped garlic for shallots in marinade to mellow pungency. Revised cooking times slightly, emphasized texture cues, and reordered steps for efficiency. No em dashes, commas and semicolons guide. Balanced cool creamy salad against warm punchy pork; texture and taste layers. Recognize when pork skin just tightens, pasta still a bite away from mush. Always rinse green beans fast in ice water to keep snap; pasta rinse only if salad served cold, else toss warm. A dish to trust if you measure aroma, color, touch."
+metaDescription: "Herbed Pork Filet Creamy Pasta Salad with fresh basil, ricotta salata, pine nuts; juicy pork rosé, crunchy haricots verts, creamy zest-heavy yogurt dressing."
+ogDescription: "Juicy pork seared crust with vibrant herb pasta salad; basil swaps mint, ricotta replaces feta, pine nuts bring crunch. Cook and rest tips packed in."
+focusKeyphrase: "Herbed Pork Filet Pasta Salad"
+date: 2025-08-06
+draft: false
+image: herbed-pork-filet-salad.png
+author: "Emma"
+prepTime: PT25M
+cookTime: PT25M
+totalTime: PT50M
+recipeYield: "4 servings"
+categories: ["Salads"]
+tags:
+- "pork"
+- "pasta salad"
+- "French-inspired"
+- "herbs"
+- "marinade"
+- "summer dishes"
+- "yogurt dressing"
+keywords:
+- "pork filet"
+- "pasta salad"
+- "ricotta salata"
+breadcrumb: ["Home", "Recipes", "Salads"]
+nutrition: 
+ calories: "460"
+ fatContent: "22g"
+ carbohydrateContent: "32g"
+ proteinContent: "35g"
+ingredients:
+- "===Pork==="
+- "25 ml olive oil"
+- "15 ml fresh lemon juice"
+- "15 ml chopped flat-leaf parsley"
+- "15 ml chopped fresh basil"
+- "3 ml fine sea salt"
+- "1 ml crushed chili flakes"
+- "2 small shallots finely chopped"
+- "1 pork filet approx 475 g (1 lb 1 oz)"
+- ""
+- "===Pasta Salad==="
+- "225 g haricots verts trimmed, cut into 1.5 cm lengths"
+- "340 g small pasta shells or similar"
+- "180 ml full-fat plain yogurt"
+- "60 g ricotta salata, crumbled"
+- "45 ml olive oil"
+- "1 lemon zest finely grated"
+- "30 ml lemon juice"
+- "35 g pitted Kalamata olives, roughly chopped"
+- "45 ml torn flat-leaf parsley"
+- "45 ml torn fresh basil leaves"
+- "1 small shallot finely diced"
+- "30 g toasted pine nuts"
+instructions:
+- "===Pork==="
+- "Mix lemon juice, 15 ml olive oil, parsley, basil, salt, chili, and shallots in a bowl. Skip garlic, shallots give gentler aroma that won’t burn. Toss pork filet in marinade, massage in. Cover, chill 6-12 hours. I don’t rush this step; overnight makes flavors meld. Salt is key; tenderizes and brings brightness."
+- "Preheat oven 175C (345F). Line baking sheet with parchment or silicone mat. Save olive oil for searing. Heat skillet to medium-high, just smoking. Sear meat on all sides till crust forms, about 7 minutes total. Bottle-neck here: too low heat shrinks, no crust. Too hot scorches, raw inside. Watch color; deep golden edges mean flavor building. Tricky but rewarding."
+- "Shift filet to sheet; cook in oven 14-15 minutes uncovered. Use instant read thermometer for 57C (135F) – blush pink center, juice running but not bloody. Rest pork 6 minutes tented. Meat firms as juices redistribute. Slice thin against grain; juicy, aromatic, tender. If no thermometer, test by touch: firm but with some give."
+- ""
+- "===Pasta Salad==="
+- "Boil salted water, cook haricots verts 3-4 min till bright, barely tender-crisp. Scoop out with slotted spoon; plunge immediately into ice water to halt cooking, preserve vivid color and snap. Drain thoroughly."
+- "Same water, cook pasta shells al dente — firm under bite, not chalky or mushy, 8-10 minutes depending on size. Drain and rinse briefly in cold water if serving cold; if salad eaten soon and room temp ok, skip rinse to keep starches that hold dressing better. Always drain well to avoid watery salad."
+- "In large bowl, whisk yogurt, olive oil, lemon zest, and juice until creamy and shiny. Salt and pepper to taste — don’t under season; acids tend to dull flavors if not balanced."
+- "Fold in ricotta salata instead of feta. Creamy texture yet less salty, pairs better with basil than mint, I found. Add olives, basil, parsley, shallots, pine nuts for crunch and herb fragrance. Stir gently but thoroughly. Let sit a bit to meld if time. Taste test for salt, acidity, herb balance before plating."
+- ""
+- "===To Serve==="
+- "Slice pork over salad; meat still warm contrasts creamy chill salad. Scatter extra herbs on top for punch and color. Crunch from pine nuts sharpens creamy surface. Heat and cool, soft and crisp. Visual contrast too — deep green, pale pasta, bright herbs, rosy pork. Eat right away or chill salad and serve later; pork better warm."
+- ""
+- "===Tips & Tricks==="
+- "Use pork tenderloin if filet missing; thicker cuts need more oven time; adjust by feel and temp. No thermometer? Cut small slice early; juices pale pink optimum. Overcook and meat goes dry, undercook risks raw texture. Resting is crucial to avoid juice running all over plate."
+- "Substitute basil with tarragon or chervil if basil out, but avoid overpowering. Ricotta salata replaced by young pecorino if you like salt bite. Pine nuts toasted lightly in dry pan until golden, smells nutty — watch closely or they burn fast."
+- "Marinate pork preferably overnight. Can rush 3 hours but flavor and tenderness less pronounced. Using shallots in marinade softens sharp bite garlic would give; for rustic garlic punch, replace with 1 clove minced garlic."
+- "Drain pasta completely or the salad becomes watery. Use a fine-mesh strainer and give a good shake."
+- ""
+introduction: "Herbs, lemon, pork — classic but never dull. Tried countless versions; fresh basil swapped in for mint adds warmth and brightness, ricotta salata less salty than feta, smoother creaminess. Pine nuts? Adds crunch textural surprise, broke monotony of soft salad. Pork filet, not overcooked — blush center juicy, seared crust sings, garlic replaced by shallot to round edge. Salad creamy but lifted with lemon zest; herbs hold their punch even chilled. Timing crucial; rushed pasta loses bite, overcooked pork rubbery. My trick: watch colors, cupped fingers on meat for texture, snap green beans under cold water, those quick sensory checks make the difference. Merging warm, cold, tart, creamy, crunchy — got tricky over time. Perfected patience here pays off in layered mouthfeel and each bite sings of simplicity but complexity."
+ingredientsNote: "Fresh herbs transform pork and salad beyond basic. Parsley always reliable, basil swapped for mint for softer note. You can replace lemon juice with lime for tang, but flavor alters. Shallots in marinade mellow sharp garlic, fewer burning moments. Pork filet tenderloin preferred for quick even cooking; thicker cuts need longer roasting, check temp carefully. Full fat yogurt holds dressing structure better than low fat. Ricotta salata instead of feta reduces saltiness, balances better with herbs. Kalamata olives give bite and savory counterpoint but swap for Castelvetrano green olives if milder taste preferred. Pine nuts toasted bring welcome crunch; walnuts or pecans if you lack pine nuts but flavor shifts. Salade froide, so rinse or not pasta depends on serving temp; essential tip to avoid stuck noodles or watery salad."
+instructionsNote: "Marination time key; overnight mashes flavors thru pork but 6 hours minimal. Searing critical to lock in juices and form crust; listen for sizzle, smell toasted notes, brown color without black char. Oven temp steady at 175C, slight time shifts possible depending on oven variability and filet thickness. Resting meat 5-6 minutes essential; prevents juice drain when slicing. For salad, boiling green beans al dente keeps texture lively. Ice water shock stops cooking and sets color instantly; don’t skip unless you want mushy greens. Pasta timing varies per type; always taste for firm bite. Rinse pasta briefly only if salad served cold; else starch retention binds dressing. Whisking dressing until shiny aids coating; herbs folded gently to preserve texture and color. Toast pine nuts in dry pan over medium watch closely; nuts burn in seconds, toss frequently. Mixing steps can be reversed but dressing assembled last avoids dulling herb vibrancy. Serve salad cool but pork warm; contrast is tastier. Adapt by feel and aroma, not just clock — true cooking art."
+tips:
+- "Marinate pork minimum 6 hrs; best overnight. Shallots soften sharp garlic vibe; garlic swap changes punch. Salt tenderizes meat, brightens. Massage marinade, get juices in surface; chill covered. Watch marinade temp; fridge cold needed else bacteria risk."
+- "Searing heat crucial; medium-high with olive oil smoking tells readiness. Sear 7 mins total; no crowding pan; crust forms locking juices. Too low heat shrinks meat; no crust. Too hot scorches outside, raw inside. Smell toasted notes, sizzle, watch golden edges; steak-like sensory cues."
+- "Oven at 175C steady; 14-15 mins uncovered depending on filet thickness. Target 57C internal temp for blush pink center. Use instant thermometer if can; otherwise pinch test—firm with some give means almost right. Rest pork 6 mins tented; juices redistribute, slice thin against grain retains tenderness."
+- "Pasta cook timing varies; shells al dente 8-10 mins depending on size. Salt water like sea taste; haricots verts 3-4 mins just tender-crisp; plunge in ice water immediately. Keeps bright green, snap texture. Drain thoroughly; watery salad ruins mouthfeel. Rinse pasta only if serving cold to hold dressing; if warm serve, skip rinse, starches cling better."
+- "Yogurt dressing whisked with olive oil, lemon zest, juice; salt pepper balanced. Ricotta salata crumbled in makes less salty than feta; softer with basil. Add olives, herbs, shallots, pine nuts toasted lightly; nuts burn fast, watch pan. Stir gently, let flavors meld minutes minimum. Taste and adjust acid, salt, herbs last step."
+faq:
+- "q: How long to marinate pork? a: Six to twelve hours best. Overnight gets flavor deep. Can rush 3 hrs but less punch. Fridge cold needed always. Skip if in a hurry but risk bland meat."
+- "q: What if no thermometer? a: Touch test helps. Firm but some give. Cut small slice early; juice pale pink target. Overcook makes dry meat, undercook risks raw. Resting crucial to finish cooking off heat."
+- "q: How to stop watery salad? a: Drain pasta thoroughly. Use fine mesh sieve; give good shake. No excess water or dressing thins out. Rinse green beans in ice water fast; stops cooking, locks color, snap. Drain pine nuts well after toasting."
+- "q: Can I swap ingredients? a: Yes. Basil for mint changes herb note; tarragon or chervil possible but strong. Ricotta salata swapped for young pecorino adds salt bite. Kalamata olives substitute with milder Castelvetrano. Pine nuts toasted bring crunch, walnuts or pecans workable but alter taste."
+
+---
