@@ -284,11 +284,11 @@
     <!-- 🏷️ Titre avec classe section__title -->
     <h2 class="section__title">
       {{ $homepage.categories_section.title }}
-    </h2>
-    
-    <!-- Grille catégories avec CARDS MIGRÉES -->
-    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 gap-6 justify-center">
-      {{ range sort .Site.Taxonomies.categories "Count" "desc" }}
+    </h2>    
+    <!-- Grille catégories avec CARDS  -->
+
+    <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 justify-center">
+      {{ range first 10 (sort .Site.Taxonomies.categories "Count" "desc") }}
         {{/* 🎯 LOGIQUE IDENTIQUE aux autres templates */}}
         {{ $slug := .Page.Title | lower | urlize }}
         {{ $displayName := .Page.Title }}
@@ -301,10 +301,68 @@
           {{ end }}
         {{ end }}
         
-        <a href="{{ .Page.RelPermalink }}" class="card--compact card flex items-center justify-center text-center text-base font-semibold min-h-[96px] hover:scale-105 transform transition duration-300" style="color: var(--color-text); font-family: var(--font-serif);">
-          {{ $displayName }}  {{/* ← MAINTENANT AFFICHE "Apéritifs Gourmands" */}}
+        {{/* 🎯 Récupérer la première recette de cette catégorie */}}
+        {{ $categoryPages := where $.Site.RegularPages "Section" "recipes" }}
+        {{ $categoryPages = where $categoryPages "Params.categories" "intersect" (slice $slug) }}
+        {{ if eq (len $categoryPages) 0 }}
+          {{/* Essayer avec le displayName si slug ne marche pas */}}
+          {{ $categoryPages = where $.Site.RegularPages "Params.categories" "intersect" (slice $displayName) }}
+        {{ end }}
+        {{ $firstRecipe := index $categoryPages 0 }}
+        
+        <!-- 🏆 CARTE CATÉGORIE PREMIUM COMPACTE -->
+        <a href="{{ .Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
+          
+          <!-- Image avec overlay -->
+          <div class="relative overflow-hidden aspect-[16/9] h-32 rounded-xl">
+            {{ with $firstRecipe }}
+              {{ with .Params.image }}
+                {{ $img := resources.Get (printf "images/%s" .) }}
+                {{ if $img }}
+                  {{ $resized := $img.Fill "400x225 q85" }}
+                  <img src="{{ $resized.RelPermalink }}" 
+                       alt="{{ $displayName }}" 
+                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                       loading="lazy">
+                {{ else }}
+                  <img src="/{{ . }}" 
+                       alt="{{ $displayName }}" 
+                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                       loading="lazy">
+                {{ end }}
+              {{ end }}
+            {{ else }}
+              <!-- Image par défaut si pas de recette -->
+              <div class="w-full h-full bg-gray-200 flex items-center justify-center rounded-xl">
+                <span class="text-gray-400 text-xs">{{ $displayName }}</span>
+              </div>
+            {{ end }}
+            
+            <!-- Overlay gradient sophistiqué -->
+            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+            
+            <!-- Titre de catégorie positionné en bas (animation hover) -->
+            <div class="absolute bottom-0 left-0 right-0 p-3">
+              <h3 class="font-serif text-sm font-bold text-white transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500" 
+                  style="font-family: var(--font-serif); text-shadow: 0 2px 8px rgba(0,0,0,0.7);">
+                {{ $displayName }}
+              </h3>
+            </div>
+          </div>
+          
         </a>
       {{ end }}
+    </div>
+    
+    <!-- Bouton voir toutes les catégories -->
+    <div class="text-center mt-8">
+      <a href="/categories/" class="inline-flex items-center px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:shadow-lg transform hover:-translate-y-1" 
+         style="background-color: var(--primary); color: white; font-family: var(--font-serif);">
+        View All Categories
+        <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+        </svg>
+      </a>
     </div>
   </div>
 </section>
