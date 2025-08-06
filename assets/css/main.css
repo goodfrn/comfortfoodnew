@@ -386,7 +386,7 @@ p {
 }
 
 .section__title {
-  font-size: var(--text-2xl);
+  font-size: var(--text-4xl);
   font-weight: 700;
   text-align: center;
   margin-bottom: var(--space-6);
