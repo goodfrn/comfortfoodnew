@@ -13,7 +13,7 @@ navigation:
     home: "Home"
     recipes: "Recipes"
     categories: "Categories"
-    about: "About"
+    about: "About us"
     contact: "Contact"
   page_titles:
     home: "Home"
@@ -77,7 +77,7 @@ homepage:
     form_action: "https://formspree.io/f/xvgqqbdp"
     
 about_page:
-  title: "About"
+  title: "About us"
   
 about_section:
   title: Who is Emma
@@ -85,7 +85,7 @@ about_section:
   chef_name: "Emma"
   chef_intro: I'm Emma, passionate chef for over ten years.
   cta_text: My journey
-  cta_url: /about/
+  cta_url: /about-us/
   image_alt: "Emma, comfort food enthusiast and recipe creator"
 
 list_pages:
