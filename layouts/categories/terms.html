@@ -26,6 +26,10 @@
         {{/* 🎯 Récupérer la première recette de cette catégorie */}}
         {{ $categoryPages := where $.Site.RegularPages "Section" "recipes" }}
         {{ $categoryPages = where $categoryPages "Params.categories" "intersect" (slice $slug) }}
+        {{ if eq (len $categoryPages) 0 }}
+          {{/* Essayer avec le displayName si slug ne marche pas */}}
+          {{ $categoryPages = where $.Site.RegularPages "Params.categories" "intersect" (slice $displayName) }}
+        {{ end }}
         {{ $firstRecipe := index $categoryPages 0 }}
         
         <!-- 🏆 CARTE CATÉGORIE PREMIUM COMPACTE -->
