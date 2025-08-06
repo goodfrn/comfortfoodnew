@@ -97,13 +97,13 @@ title = "Comfort Food"
 ###############################################################################
 [[menu.main]]
   identifier = "home"     
-  name       = "Accueil"
+  name       = "Home"
   url        = "/"
   weight     = 1
 
 [[menu.main]]
   identifier = "recipes"  
-  name       = "Recettes"
+  name       = "Recipes"
   url        = "/recipes/"
   weight     = 2
 
@@ -115,8 +115,8 @@ title = "Comfort Food"
 
 [[menu.main]]
   identifier = "about"     
-  name       = "À propos"
-  url        = "/about/"
+  name       = "About us"
+  url        = "/about-us/"
   weight     = 4
 
 [[menu.main]]
