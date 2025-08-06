@@ -7,12 +7,12 @@
   <h2 class="font-semibold section-title mb-12 text-center" style="color: var(--primary); font-family: var(--font-serif);">
     {{ $categories_page.title }}
   </h2>
-
-  <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-6 mb-16">
+  
+  <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 mb-16">
     {{ range $term := .Data.Terms.Alphabetical }}
       {{ if gt $term.Count 0 }}
         
-        {{/* 🎯 NOUVEAU : Récupérer le nom personnalisé */}}
+        {{/* 🎯 Récupérer le nom personnalisé */}}
         {{ $slug := $term.Page.Title | lower | urlize }}
         {{ $displayName := $term.Page.Title }}
         
@@ -23,14 +23,67 @@
           {{ end }}
         {{ end }}
         
-        <div class="group bg-white shadow-md rounded-xl overflow-hidden transform transition-transform duration-200 hover:-translate-y-1 hover:shadow-xl hover:z-10">
-          <a href="{{ $term.Page.RelPermalink }}" class="block p-6 text-center h-full w-full">
-            <span class="text-lg font-semibold block" style="color: var(--primary); font-family: var(--font-serif);">
-              {{ $displayName }}  {{/* 🎯 UTILISE LE NOM PERSONNALISÉ */}}
-            </span>
-            <p class="text-sm mt-1" style="color: var(--color-text-muted);">({{ $term.Count }})</p>
-          </a>
-        </div>
+        {{/* 🎯 Récupérer la première recette de cette catégorie */}}
+        {{ $categoryPages := where $.Site.RegularPages "Section" "recipes" }}
+        {{ $categoryPages = where $categoryPages "Params.categories" "intersect" (slice $slug) }}
+        {{ $firstRecipe := index $categoryPages 0 }}
+        
+        <!-- 🏆 CARTE CATÉGORIE PREMIUM COMPACTE -->
+        <a href="{{ $term.Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
+          
+          <!-- Image avec overlay -->
+          <div class="relative overflow-hidden aspect-[16/9] h-32">
+            {{ with $firstRecipe }}
+              {{ with .Params.image }}
+                {{ $img := resources.Get (printf "images/%s" .) }}
+                {{ if $img }}
+                  {{ $resized := $img.Fill "400x225 q85" }}
+                  <img src="{{ $resized.RelPermalink }}" 
+                       alt="{{ $displayName }}" 
+                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                       loading="lazy">
+                {{ else }}
+                  <img src="/{{ . }}" 
+                       alt="{{ $displayName }}" 
+                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
+                       loading="lazy">
+                {{ end }}
+              {{ end }}
+            {{ else }}
+              <!-- Image par défaut si pas de recette -->
+              <div class="w-full h-full bg-gray-200 flex items-center justify-center">
+                <span class="text-gray-400 text-xs">{{ $displayName }}</span>
+              </div>
+            {{ end }}
+            
+            <!-- Overlay gradient sophistiqué -->
+            <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-0 group-hover:opacity-100 transition-opacity duration-500"></div>
+            
+            <!-- Titre de catégorie positionné en bas (hover) -->
+            <div class="absolute bottom-0 left-0 right-0 p-3">
+              <h3 class="font-serif text-sm font-bold text-white transform translate-y-4 group-hover:translate-y-0 transition-transform duration-500" 
+                  style="font-family: var(--font-serif); text-shadow: 0 2px 8px rgba(0,0,0,0.7);">
+                {{ $displayName }}
+              </h3>
+            </div>
+          </div>
+          
+          <!-- Zone de contenu épurée -->
+          <div class="p-3 border border-gray-100">
+            <!-- Titre visible par défaut (couleur texte standard) -->
+            <h3 class="font-serif text-sm font-medium text-center group-hover:text-opacity-70 transition-all duration-300" 
+                style="color: var(--color-text); font-family: var(--font-serif);">
+              {{ $displayName }}
+            </h3>
+            
+            <!-- Petit indicateur subtil -->
+            <div class="flex justify-center mt-2">
+              <div class="w-8 h-0.5 bg-gray-200 group-hover:bg-current transition-colors duration-300" style="background-color: var(--primary);"></div>
+            </div>
+          </div>
+          
+        </a>
+        
       {{ end }}
     {{ end }}
   </div>
