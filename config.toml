@@ -105,13 +105,13 @@ title = "Comfort Food"
   identifier = "recipes"  
   name       = "Recipes"
   url        = "/recipes/"
-  weight     = 2
+  weight     = 3
 
 [[menu.main]]
   identifier = "categories"
   name       = "Catégories"
   url        = "/categories/"
-  weight     = 3
+  weight     = 2
 
 [[menu.main]]
   identifier = "about"     
