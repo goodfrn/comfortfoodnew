@@ -627,6 +627,22 @@ p {
   flex-shrink: 0;
 }
 
+/* États actifs pour la navigation */
+.nav-link.active {
+  color: #1e293b !important; /* text-slate-900 */
+}
+
+.nav-link.active::after {
+  width: 100% !important;
+  opacity: 1 !important;
+}
+
+.nav-link-mobile.active {
+  color: #1e293b !important;
+  background-color: #fef3c7 !important; /* bg-amber-50 */
+  border-left: 4px solid var(--primary) !important;
+}
+
 /* ===================================================================
    6. UTILITAIRES (non redondants avec Tailwind)
    =================================================================== */
