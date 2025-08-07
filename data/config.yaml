@@ -49,16 +49,16 @@ header:
   search_aria_label: Search
 
 hero:
-  badge_text: "Fresh recipes weekly"
-  title_line1: "Welcome to"
-  title_line2: "Comfort Food Heaven"
-  subtitle: "Discover heartwarming recipes that turn everyday ingredients into extraordinary meals, bringing families together one dish at a time."
-  subtitle_highlight: "heartwarming recipes"
-  cta_primary_text: "Inspire Me!"
+  badge_text: "New comfort recipes daily"
+  title_line1: "Where Every Meal"
+  title_line2: "Feels Like Home"
+  subtitle: "Transform simple ingredients into soul-warming dishes that create lasting memories around your table."
+  subtitle_highlight: "soul-warming dishes"
+  cta_primary_text: "Find My Recipe"
   cta_primary_url: /random/
-  cta_secondary_text: "Browse All Recipes"
+  cta_secondary_text: "Explore Comfort Classics"
   cta_secondary_url: /recipes/
-  scroll_indicator: true
+  scroll_indicator: false
 
 homepage:
   latest_recipes:
