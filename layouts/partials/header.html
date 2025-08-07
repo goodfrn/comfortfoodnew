@@ -1,4 +1,4 @@
-<!-- layouts/partials/header.html - VERSION OPTIMISÉE AVEC NOUVELLES COULEURS -->
+<!-- layouts/partials/header.html - REDESIGN PREMIUM AVEC SYSTÈME CSS UNIFIÉ -->
 
 {{ $config := .Site.Data.config }}
 {{ $site := $config.site }}
@@ -6,151 +6,162 @@
 {{ $social := $config.social }}
 {{ $header := $config.header }} 
 
-<!-- ===== Header avec Z-INDEX UNIFIÉ ===== -->
-<header class="relative" style="z-index: var(--z-fixed);">
-  <!-- Effet de fond subtil -->
-  <div class="absolute inset-0 bg-gradient-to-r from-transparent via-blue-500/5 to-transparent"></div>
+<!-- ===== Header Premium Minimaliste ===== -->
+<header class="relative glass" style="z-index: var(--z-fixed);">
   
-  <!-- Particules minimalistes -->
-  <div class="absolute inset-0 overflow-hidden pointer-events-none">
-    <div class="absolute top-4 left-32 w-1 h-1 bg-blue-400/30 rounded-full animate-pulse"></div>
-    <div class="absolute top-8 right-40 w-1 h-1 bg-blue-400/20 rounded-full animate-pulse animation-delay-1000"></div>
-  </div>
-
-  <!-- ===== Barre du haut : logo, recherche, réseaux sociaux ===== -->
-  <div class="relative backdrop-blur-xl bg-white/80 border-b border-slate-200/50 shadow-sm" style="z-index: var(--z-fixed);">
-    <div class="max-w-7xl mx-auto px-6 flex justify-between items-center h-16">
+  <!-- ===== Barre supérieure unifiée ===== -->
+  <div class="container" style="z-index: var(--z-fixed);">
+    <div class="flex items-center justify-between" style="min-height: 80px; padding: var(--space-4) 0;">
       
-      <!-- Logo sophistiqué -->
-      <a href="{{ .Site.BaseURL }}" class="group flex items-center space-x-3 no-underline" aria-label="Accueil">
-        <div class="w-10 h-10 brand rounded-full flex items-center justify-center transform group-hover:scale-105 transition-all duration-300 shadow-lg">
-          <span class="text-white font-bold text-lg">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
+      <!-- Logo Premium -->
+      <a href="{{ .Site.BaseURL }}" class="group flex items-center no-underline" aria-label="Accueil" style="gap: var(--space-4);">
+        <div class="brand flex items-center justify-center transform group-hover:scale-105 transition-all duration-300" style="width: 48px; height: 48px; border-radius: var(--radius-full); box-shadow: var(--shadow-primary);">
+          <span class="text-white font-bold" style="font-size: var(--text-xl);">
+            {{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}
+          </span>
         </div>
         <div class="hidden sm:block">
-          <div class="text-2xl font-bold text-slate-900 group-hover:text-blue-700 transition-colors duration-300">
+          <div class="brand-text group-hover:brand-text-hover font-bold transition-colors duration-300" style="font-size: var(--text-3xl); font-family: var(--font-serif);">
             {{ $site.name | default .Site.Title }}
           </div>
-          <p class="text-xs text-slate-500 tracking-wider uppercase">{{ $site.tagline }}</p>
+          <p class="text-xs tracking-wider uppercase" style="color: var(--color-text-muted);">
+            {{ $site.tagline }}
+          </p>
         </div>
       </a>
 
-      <!-- Barre de recherche avec NOUVELLES CLASSES -->
-      <div class="hidden md:block flex-1 max-w-lg mx-8">
-        <div class="relative group">
-          <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <svg class="h-5 w-5 text-slate-400 group-focus-within:text-blue-500 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-            </svg>
-          </div>
-          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder "TargetID" "input" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-400/50 focus:border-blue-400 transition-all duration-300 backdrop-blur-sm") }}
-        </div>
-      </div>
+      <!-- Navigation Desktop Premium -->
+      <nav class="hidden md:flex items-center" style="gap: var(--space-8);" aria-label="Menu principal">
+        {{ range .Site.Menus.main }}
+          {{ $displayName := .Name }}
+          {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
+          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
+          {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
+          {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
+          {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
+          
+          <a href="{{ .URL }}" class="relative group no-underline font-medium transition-all duration-300 {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}brand-text font-bold{{ else }}brand-text-hover{{ end }}" style="font-size: var(--text-lg); font-family: var(--font-serif);" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+            {{ $displayName }}
+            
+            <!-- Surlignement Premium -->
+            {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}
+            <span class="absolute left-0 right-0 brand animate-scale-in" style="bottom: -8px; height: 3px; border-radius: var(--radius-full);"></span>
+            <span class="absolute left-1/2 transform -translate-x-1/2 brand animate-breathe" style="bottom: -2px; width: 6px; height: 6px; border-radius: var(--radius-full);"></span>
+            {{ else }}
+            <span class="absolute left-1/2 transform -translate-x-1/2 brand transition-all duration-300 group-hover:left-0 group-hover:right-0 group-hover:transform-none" style="bottom: -8px; height: 2px; width: 0; border-radius: var(--radius-full); group-hover: width: 100%;"></span>
+            {{ end }}
+          </a>
+        {{ end }}
+      </nav>
 
-      <!-- Réseaux sociaux élégants avec nouvelles couleurs -->
-      <div class="flex items-center space-x-4">
-        <div class="hidden sm:flex items-center space-x-3">
+      <!-- Actions Premium -->
+      <div class="flex items-center" style="gap: var(--space-3);">
+        
+        <!-- Recherche Desktop (inchangée) -->
+        <div class="hidden md:block" style="width: 320px;">
+          <div class="relative group">
+            <div class="absolute inset-y-0 left-0 flex items-center pointer-events-none" style="padding-left: var(--space-4);">
+              <svg class="text-slate-400 group-focus-within:brand-text transition-colors duration-200" style="width: 20px; height: 20px;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+              </svg>
+            </div>
+            {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder "TargetID" "input" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-amber-400/50 focus:border-amber-400 transition-all duration-300 backdrop-blur-sm") }}
+          </div>
+        </div>
+
+        <!-- Réseaux sociaux Premium -->
+        <div class="hidden sm:flex items-center" style="gap: var(--space-2);">
           {{ with $social.facebook }}
-          <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="w-10 h-10 bg-white/60 hover:bg-blue-50 rounded-full flex items-center justify-center text-slate-600 hover:text-blue-600 transition-all duration-300 backdrop-blur-sm border border-slate-200/50 hover:border-blue-200 hover:scale-105 transform">
-            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+          <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="glass hover:brand-text transition-all duration-300 hover:scale-105 transform flex items-center justify-center" style="width: 44px; height: 44px; border-radius: var(--radius-full); color: var(--color-text-muted);">
+            <svg style="width: 20px; height: 20px;" fill="currentColor" viewBox="0 0 24 24">
               <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
             </svg>
           </a>
           {{ end }}
         </div>
         
-        <!-- Badge Pinterest avec nouvelles couleurs -->
+        <!-- CTA Premium -->
         {{ with $social.pinterest }}
-        <a href="{{ . }}" target="_blank" rel="noopener" class="group relative inline-flex items-center px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 rounded-full text-white text-sm font-medium tracking-wide hover:shadow-lg transform hover:scale-105 transition-all duration-300">
-          <span class="relative z-10">{{ $header.follow_button_text }}</span>
-          <div class="absolute inset-0 bg-gradient-to-r from-blue-700 to-indigo-700 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+        <a href="{{ . }}" target="_blank" rel="noopener" class="btn-hero hidden sm:inline-flex" style="padding: var(--space-3) var(--space-6);">
+          {{ $header.follow_button_text }}
         </a>
         {{ end }}
+
+        <!-- Menu Mobile Toggle -->
+        <button id="mobile-menu-toggle" type="button" class="btn btn--ghost md:hidden" aria-controls="mobile-menu" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
+          <svg id="menu-icon" style="width: 24px; height: 24px;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+          <svg id="close-icon" class="is-hidden" style="width: 24px; height: 24px;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
       </div>
     </div>
   </div>
 
-  <!-- ===== Navigation principale avec Z-INDEX UNIFIÉ et SURLIGNEMENT AMÉLIORÉ ===== -->
-  <nav class="relative backdrop-blur-xl bg-white/70 border-b border-slate-200/30" style="z-index: var(--z-sticky);" aria-label="Menu principal">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="hidden md:flex justify-center items-center h-16 space-x-12">
-        {{ range .Site.Menus.main }}
-          {{ $displayName := .Name }}
-          {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
-          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
-          {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
-          {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
-          {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
-          
-          <a href="{{ .URL }}" class="relative group {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-blue-700 font-semibold{{ else }}text-slate-700 hover:text-blue-600{{ end }} font-medium text-lg tracking-wide transition-all duration-300 no-underline" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
-            {{ $displayName }}
-            
-            <!-- Surlignement sous la section active -->
-            {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}
-            <span class="absolute -bottom-4 left-0 right-0 h-1 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full animate-fade-in-up"></span>
-            <span class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-2 h-2 bg-blue-500 rounded-full animate-bounce"></span>
-            {{ else }}
-            <!-- Animation hover pour les éléments non-actifs -->
-            <span class="absolute -bottom-4 left-1/2 transform -translate-x-1/2 h-1 w-0 bg-gradient-to-r from-blue-400 to-indigo-400 rounded-full transition-all duration-300 group-hover:w-full group-hover:left-0 group-hover:transform-none"></span>
-            {{ end }}
-          </a>
-        {{ end }}
-      </div>
-
-      <!-- Menu mobile avec BOUTONS MIGRÉS -->
-      <div class="flex items-center justify-between md:hidden h-16">
-        <button id="mobile-menu-toggle" type="button" class="btn btn--ghost hover:bg-blue-50 hover:text-blue-600" aria-controls="mobile-menu" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
-          <svg id="menu-icon" class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+  <!-- ===== Menu Mobile Premium ===== -->
+  <div class="md:hidden glass border-t transform transition-all duration-300 ease-in-out is-hidden" style="z-index: var(--z-overlay); border-color: var(--color-border);" id="mobile-menu">
+    
+    <!-- Recherche Mobile -->
+    <div class="container" style="padding: var(--space-4) var(--container-padding);">
+      <div class="relative">
+        <div class="absolute inset-y-0 left-0 flex items-center pointer-events-none" style="padding-left: var(--space-4);">
+          <svg class="text-slate-400" style="width: 20px; height: 20px;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
           </svg>
-          <svg id="close-icon" class="h-6 w-6 is-hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
-          </svg>
-        </button>
-        
-        <!-- Recherche mobile avec BOUTON MIGRÉ -->
-        <button id="mobile-search-toggle" class="btn btn--ghost md:hidden hover:bg-blue-50 hover:text-blue-600" aria-label="{{ $header.search_aria_label }}">
-          <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
-          </svg>
-        </button>
-      </div>
-    </div>
-
-    <!-- Menu mobile déroulant avec nouvelles couleurs -->
-    <div class="hidden md:hidden bg-white/90 backdrop-blur-sm border-t border-slate-200/50 transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay);" id="mobile-menu">
-      <div class="px-6 py-4 space-y-3">
-        {{ range .Site.Menus.main }}
-          {{ $displayName := .Name }}
-          {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
-          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
-          {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
-          {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
-          {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
-          
-          <a href="{{ .URL }}" class="relative block px-4 py-3 rounded-xl {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-blue-700 bg-blue-50 border-l-4 border-blue-500 font-semibold{{ else }}text-slate-700 hover:text-blue-600 hover:bg-blue-50/50{{ end }} font-medium transition-all duration-200 no-underline" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
-            {{ $displayName }}
-            
-            <!-- Indicateur mobile pour section active -->
-            {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}
-            <span class="absolute right-3 top-1/2 transform -translate-y-1/2 w-2 h-2 bg-blue-500 rounded-full animate-pulse"></span>
-            {{ end }}
-          </a>
-        {{ end }}
-      </div>
-    </div>
-
-    <!-- Barre de recherche mobile avec nouvelles couleurs -->
-    <div class="hidden md:hidden bg-white/95 backdrop-blur-sm border-t border-slate-200/50 transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay);" id="mobile-search">
-      <div class="px-6 py-4">
-        <div class="relative">
-          <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <svg class="h-5 w-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-            </svg>
-          </div>
-          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder_mobile "TargetID" "mobile-input" "Class" "w-full pl-12 pr-4 py-3 bg-white border border-slate-200 rounded-xl text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-400/50 focus:border-blue-400 transition-all duration-300") }}
         </div>
+        {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder_mobile "TargetID" "mobile-input" "Class" "form-input pl-12") }}
       </div>
     </div>
-  </nav>
+
+    <!-- Navigation Mobile Premium -->
+    <nav class="container" style="padding: 0 var(--container-padding) var(--space-6);" aria-label="Menu mobile">
+      <div style="display: flex; flex-direction: column; gap: var(--space-2);">
+        {{ range .Site.Menus.main }}
+          {{ $displayName := .Name }}
+          {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
+          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
+          {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
+          {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
+          {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
+          
+          <a href="{{ .URL }}" class="card card--compact no-underline font-medium transition-all duration-200 {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}brand-text border-l-4{{ else }}brand-text-hover{{ end }}" style="font-size: var(--text-lg); font-family: var(--font-serif); {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}border-color: var(--primary); background: var(--color-bg-alt);{{ end }}" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+            
+            <div class="flex items-center justify-between">
+              {{ $displayName }}
+              
+              {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}
+              <span class="brand animate-pulse" style="width: 8px; height: 8px; border-radius: var(--radius-full);"></span>
+              {{ else }}
+              <svg class="transition-transform duration-200 group-hover:translate-x-1" style="width: 16px; height: 16px; color: var(--color-text-muted);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
+              </svg>
+              {{ end }}
+            </div>
+          </a>
+        {{ end }}
+      </div>
+
+      <!-- CTA Mobile -->
+      {{ with $social.pinterest }}
+      <div style="margin-top: var(--space-6);">
+        <a href="{{ . }}" target="_blank" rel="noopener" class="btn-hero w-full">
+          {{ $header.follow_button_text }}
+        </a>
+      </div>
+      {{ end }}
+
+      <!-- Social Mobile -->
+      <div class="flex justify-center" style="margin-top: var(--space-4);">
+        {{ with $social.facebook }}
+        <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="glass hover:brand-text transition-all duration-300 flex items-center justify-center" style="width: 48px; height: 48px; border-radius: var(--radius-full); color: var(--color-text-muted);">
+          <svg style="width: 24px; height: 24px;" fill="currentColor" viewBox="0 0 24 24">
+            <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+          </svg>
+        </a>
+        {{ end }}
+      </div>
+    </nav>
+  </div>
 </header>
