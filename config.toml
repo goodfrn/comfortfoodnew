@@ -116,7 +116,7 @@ title = "Comfort Food"
 [[menu.main]]
   identifier = "about"     
   name       = "About us"
-  url        = "/about-us/"
+  url        = "/about/"
   weight     = 4
 
 [[menu.main]]
