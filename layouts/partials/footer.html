@@ -68,8 +68,8 @@
               {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
               {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
               
-              <a href="{{ .URL }}" class="group flex items-center text-slate-300 hover:text-amber-700 transition-all duration-300 no-underline">
-                <div class="w-1.5 h-1.5 bg-amber-400/50 rounded-full mr-3 group-hover:bg-amber-700 transition-colors duration-300"></div>
+              <a href="{{ .URL }}" class="group flex items-center text-slate-300 hover:text-amber-600 transition-all duration-300 no-underline">
+                <div class="w-1.5 h-1.5 bg-amber-400/50 rounded-full mr-3 group-hover:bg-amber-600 transition-colors duration-300"></div>
                 <span class="font-medium">{{ $displayName }}</span>
               </a>
             {{ end }}
@@ -84,9 +84,9 @@
           </div>
           <div class="space-y-4">
             {{ range first 6 .Site.Taxonomies.categories.ByCount }}
-              <a href="{{ .Page.Permalink }}" class="group flex items-center text-slate-300 hover:text-amber-700 transition-all duration-300 no-underline">
+              <a href="{{ .Page.Permalink }}" class="group flex items-center text-slate-300 hover:text-amber-600 transition-all duration-300 no-underline">
                 <div class="flex items-center">
-                  <div class="w-1.5 h-1.5 bg-amber-400/50 rounded-full mr-3 group-hover:bg-amber-700 transition-colors duration-300"></div>
+                  <div class="w-1.5 h-1.5 bg-amber-400/50 rounded-full mr-3 group-hover:bg-amber-600 transition-colors duration-300"></div>
                   {{ $slug := .Page.Title | lower | urlize }}
                   {{ $displayName := .Page.Title }}
                   {{ $categoriesSystem := $config.categories_system }}
@@ -176,16 +176,16 @@
         </div>
         
         <nav class="flex flex-wrap justify-center gap-6 text-sm">
-          <a href="{{ $config.footer.legal_links.legal }}" class="text-slate-400 hover:text-amber-700 transition-colors duration-300 no-underline font-medium">
+          <a href="{{ $config.footer.legal_links.legal }}" class="text-slate-400 hover:text-amber-600 transition-colors duration-300 no-underline font-medium">
             {{ $config.footer.legal_links_text.legal }}
           </a>
-          <a href="{{ $config.footer.legal_links.privacy }}" class="text-slate-400 hover:text-amber-700 transition-colors duration-300 no-underline font-medium">
+          <a href="{{ $config.footer.legal_links.privacy }}" class="text-slate-400 hover:text-amber-600 transition-colors duration-300 no-underline font-medium">
             {{ $config.footer.legal_links_text.privacy }}
           </a>
-          <a href="{{ $config.footer.legal_links.terms }}" class="text-slate-400 hover:text-amber-700 transition-colors duration-300 no-underline font-medium">
+          <a href="{{ $config.footer.legal_links.terms }}" class="text-slate-400 hover:text-amber-600 transition-colors duration-300 no-underline font-medium">
             {{ $config.footer.legal_links_text.terms }}
           </a>
-          <a href="{{ $config.footer.legal_links.contact }}" class="text-slate-400 hover:text-amber-700 transition-colors duration-300 no-underline font-medium">
+          <a href="{{ $config.footer.legal_links.contact }}" class="text-slate-400 hover:text-amber-600 transition-colors duration-300 no-underline font-medium">
             {{ $config.footer.legal_links_text.contact }}
           </a>
         </nav>
