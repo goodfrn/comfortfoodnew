@@ -1,3 +1,5 @@
+<!-- layouts/partials/header.html - VERSION AVEC COULEURS PERSONNALISÉES -->
+
 {{ $config := .Site.Data.config }}
 {{ $site := $config.site }}
 {{ $branding := $config.branding }}
@@ -6,135 +8,159 @@
 
 <!-- ===== Header avec Z-INDEX UNIFIÉ ===== -->
 <header class="relative" style="z-index: var(--z-fixed);">
-  <!-- Particules minimalistes -->
+  <!-- Effet de fond subtil avec couleurs personnalisées -->
+  <div class="absolute inset-0" style="background: linear-gradient(to right, transparent, rgba(55, 65, 81, 0.05), transparent);"></div>
+  
+  <!-- Particules minimalistes avec couleurs personnalisées -->
   <div class="absolute inset-0 overflow-hidden pointer-events-none">
-    <div class="absolute top-4 left-32 w-1 h-1 rounded-full animate-pulse" style="background-color: var(--primary); opacity: 0.3;"></div>
-    <div class="absolute top-8 right-40 w-1 h-1 rounded-full animate-pulse animation-delay-1000" style="background-color: var(--primary); opacity: 0.2;"></div>
+    <div class="absolute top-4 left-32 w-1 h-1 rounded-full animate-pulse" style="background-color: rgba(55, 65, 81, 0.3);"></div>
+    <div class="absolute top-8 right-40 w-1 h-1 rounded-full animate-pulse" style="background-color: rgba(55, 65, 81, 0.2); animation-delay: 1s;"></div>
   </div>
 
-  <!-- ===== Barre du haut : logo, recherche (desktop), burger (mobile) ===== -->
-  <div class="relative backdrop-blur-xl bg-white/80 border-b border-slate-200/50 shadow-sm" style="z-index: var(--z-fixed);">
-    <div class="max-w-7xl mx-auto px-4 sm:px-6 flex justify-between items-center py-4 sm:py-6">
+  <!-- ===== Barre du haut : logo, recherche, réseaux sociaux ===== -->
+  <div class="relative backdrop-blur-xl border-b shadow-sm" style="z-index: var(--z-fixed); background-color: rgba(254, 254, 254, 0.8); border-color: rgba(107, 114, 128, 0.3);">
+    <div class="max-w-7xl mx-auto px-6 flex justify-between items-center h-16">
       
-      <!-- Logo sophistiqué -->
+      <!-- Logo sophistiqué avec couleurs personnalisées -->
       <a href="{{ .Site.BaseURL }}" class="group flex items-center space-x-3 no-underline" aria-label="Accueil">
-        <div class="w-8 h-8 sm:w-10 sm:h-10 brand rounded-full flex items-center justify-center transform group-hover:scale-105 transition-all duration-300 shadow-lg">
-          <span class="text-white font-bold text-sm sm:text-lg">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
+        <div class="w-10 h-10 rounded-full flex items-center justify-center transform group-hover:scale-105 transition-all duration-300 shadow-lg" style="background-color: var(--brand-color);">
+          <span class="text-white font-bold text-lg">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
         </div>
         <div class="hidden sm:block">
-          <div class="text-xl sm:text-2xl font-bold text-slate-900 transition-colors duration-300" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">
+          <div class="text-2xl font-bold group-hover:opacity-80 transition-colors duration-300" style="color: var(--text);">
             {{ $site.name | default .Site.Title }}
           </div>
-          <p class="text-xs text-slate-500 tracking-wider uppercase hidden lg:block">{{ $site.tagline }}</p>
+          <p class="text-xs tracking-wider uppercase" style="color: var(--primary-light);">{{ $site.tagline }}</p>
         </div>
       </a>
 
-      <!-- Barre de recherche (desktop only) -->
+      <!-- Barre de recherche avec couleurs personnalisées -->
       <div class="hidden md:block flex-1 max-w-lg mx-8">
         <div class="relative group">
           <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <svg class="h-5 w-5 text-slate-400 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="transition: color 0.2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">
+            <svg class="h-5 w-5 transition-colors duration-200" style="color: var(--primary-light);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
             </svg>
           </div>
-          {{ partial "search-input.html" (dict "Placeholder" ($header.search_placeholder | default "Search recipes...") "TargetID" "search-desktop" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 transition-all duration-300 backdrop-blur-sm" "Style" "focus:ring-color: var(--primary); focus:border-color: var(--primary);") }}
+          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder "TargetID" "input" "Class" "w-full pl-12 pr-4 py-3 border rounded-full transition-all duration-300 backdrop-blur-sm focus:outline-none focus:ring-2") }}
+          <style>
+            #input {
+              background-color: rgba(254, 254, 254, 0.6);
+              border-color: rgba(107, 114, 128, 0.3);
+              color: var(--text);
+            }
+            #input::placeholder {
+              color: var(--primary-light);
+            }
+            #input:focus {
+              border-color: var(--primary);
+              box-shadow: 0 0 0 2px rgba(55, 65, 81, 0.2);
+            }
+            #input:focus + .absolute svg {
+              color: var(--primary);
+            }
+          </style>
         </div>
       </div>
 
-      <!-- Réseaux sociaux + Burger -->
-      <div class="flex items-center space-x-2 sm:space-x-4">
-        
-        <!-- Réseaux sociaux (desktop only) -->
-        <div class="hidden lg:flex items-center space-x-3">
+      <!-- Réseaux sociaux avec couleurs personnalisées -->
+      <div class="flex items-center space-x-4">
+        <div class="hidden sm:flex items-center space-x-3">
           {{ with $social.facebook }}
-          <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="w-10 h-10 bg-white/60 rounded-full flex items-center justify-center text-slate-600 transition-colors" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">
+          <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="w-10 h-10 rounded-full flex items-center justify-center transition-all duration-300 backdrop-blur-sm border hover:scale-105 transform" style="background-color: rgba(254, 254, 254, 0.6); border-color: rgba(107, 114, 128, 0.3); color: var(--primary-light);" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.borderColor='var(--primary-light)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='rgba(254, 254, 254, 0.6)'; this.style.borderColor='rgba(107, 114, 128, 0.3)'; this.style.color='var(--primary-light)';">
             <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.46h-1.261c-1.243 0-1.632.771-1.632 1.562v1.876h2.773l-.443 2.89h-2.33V21.877C18.343 21.128 22 17.005 22 12"></path>
+              <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
             </svg>
           </a>
           {{ end }}
         </div>
         
-        <!-- Badge Pinterest (desktop only) -->
+        <!-- Badge Pinterest avec couleurs personnalisées -->
         {{ with $social.pinterest }}
-        <a href="{{ . }}" target="_blank" rel="noopener" class="hidden sm:inline-flex group relative items-center px-3 sm:px-4 py-2 brand rounded-full text-white text-xs sm:text-sm font-medium tracking-wide transition-all duration-200" style="background-color: var(--primary);" onmouseover="this.style.boxShadow='var(--shadow-lg)'" onmouseout="this.style.boxShadow=''">
-          <span class="relative z-10">{{ $header.follow_button_text | default "Follow" }}</span>
+        <a href="{{ . }}" target="_blank" rel="noopener" class="group relative inline-flex items-center px-4 py-2 rounded-full text-white text-sm font-medium tracking-wide hover:shadow-lg transform hover:scale-105 transition-all duration-300" style="background-color: var(--brand-color);" onmouseover="this.style.backgroundColor='var(--primary-dark)';" onmouseout="this.style.backgroundColor='var(--brand-color)';">
+          <span class="relative z-10">{{ $header.follow_button_text }}</span>
         </a>
         {{ end }}
+      </div>
+    </div>
+  </div>
 
-        <!-- Menu Button Simple (mobile) -->
-        <button class="md:hidden w-10 h-10 rounded-lg flex flex-col items-center justify-center space-y-1 transition-all duration-200" style="background-color: var(--color-bg-alt);" onclick="toggleMobileMenu()" aria-label="Menu">
-          <span class="w-5 h-0.5 rounded" style="background-color: var(--primary);"></span>
-          <span class="w-5 h-0.5 rounded" style="background-color: var(--primary);"></span>
-          <span class="w-5 h-0.5 rounded" style="background-color: var(--primary);"></span>
+  <!-- ===== Navigation principale avec couleurs personnalisées ===== -->
+  <nav class="sticky top-0 backdrop-blur-xl border-b" style="z-index: var(--z-sticky); background-color: rgba(254, 254, 254, 0.7); border-color: rgba(107, 114, 128, 0.2);" aria-label="Menu principal">
+    <div class="max-w-7xl mx-auto px-6">
+      <div class="hidden md:flex justify-center items-center h-16 space-x-12">
+        {{ range .Site.Menus.main }}
+          {{ $displayName := .Name }}
+          {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
+          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
+          {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
+          {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about | default "About Us" }}{{ end }}
+          {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
+          
+          <a href="{{ .URL }}" class="relative font-medium text-lg tracking-wide transition-all duration-300 no-underline {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}underline underline-offset-4{{ end }}" style="color: {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--primary){{ else }}var(--text){{ end }}; text-decoration-color: var(--primary);" onmouseover="this.style.color='var(--primary)';" onmouseout="this.style.color='{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--primary){{ else }}var(--text){{ end }}';" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+            {{ $displayName }}
+            <span class="absolute bottom-[-8px] left-1/2 h-0.5 transition-all duration-300 transform -translate-x-1/2 {{ if not (or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .)) }}w-0 hover:w-full{{ else }}w-0{{ end }}" style="background: linear-gradient(to right, var(--primary), var(--primary-dark));"></span>
+          </a>
+        {{ end }}
+      </div>
+
+      <!-- Menu mobile avec boutons personnalisés -->
+      <div class="flex items-center justify-between md:hidden h-16">
+        <button id="mobile-menu-toggle" type="button" class="w-10 h-10 rounded-lg flex items-center justify-center transition-all duration-200" style="color: var(--primary-light); background-color: transparent;" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='var(--primary-light)';" aria-controls="mobile-nav" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
+          <svg id="menu-icon" class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+          <svg id="close-icon" class="h-6 w-6" style="display: none;" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
+        
+        <!-- Recherche mobile avec couleurs personnalisées -->
+        <button id="mobile-search-toggle" class="w-10 h-10 rounded-lg flex items-center justify-center transition-all duration-200 md:hidden" style="color: var(--primary-light); background-color: transparent;" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='transparent'; this.style.color='var(--primary-light)';" aria-label="{{ $header.search_aria_label }}">
+          <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
         </button>
       </div>
     </div>
-  </div>
-
-  <!-- ===== Barre de recherche mobile séparée ===== -->
-  <div class="md:hidden bg-white/80 border-b border-slate-200/50 px-4 py-3">
-    <div class="relative group">
-      <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-        <svg class="h-5 w-5 text-slate-400 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24" style="transition: color 0.2s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-        </svg>
-      </div>
-      {{ partial "search-input.html" (dict "Placeholder" ($header.search_placeholder | default "Search recipes...") "TargetID" "search-mobile" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 transition-all duration-300 backdrop-blur-sm" "Style" "focus:ring-color: var(--primary); focus:border-color: var(--primary);") }}
-    </div>
-  </div>
-
-  <!-- ===== Navigation Desktop ===== -->
-  <nav class="hidden md:block bg-white/80 border-b border-slate-200/50">
-    <div class="max-w-7xl mx-auto px-6">
-      <ul class="flex space-x-8 font-semibold text-lg text-slate-800 justify-center py-4">
-        <li class="relative">
-          <a href="/" class="transition-colors {{ if .IsHome }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Home</a>
-          {{ if .IsHome }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-        </li>
-        <li class="relative">
-          <a href="/recipes/" class="transition-colors {{ if eq .Section "recipes" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Recipes</a>
-          {{ if eq .Section "recipes" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-        </li>
-        <li class="relative group">
-          <a href="/categories/" class="transition-colors {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Categories</a>
-          {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-          
-          <!-- Submenu -->
-          <ul class="absolute left-0 mt-2 w-48 bg-white border border-slate-200 rounded-lg shadow-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200" style="z-index: var(--z-dropdown);">
-            <li><a href="/categories/breakfast/" class="block px-4 py-3 transition-colors text-base font-normal rounded-t-lg" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Breakfast</a></li>
-            <li><a href="/categories/lunch/" class="block px-4 py-3 transition-colors text-base font-normal" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Lunch</a></li>
-            <li><a href="/categories/dinner/" class="block px-4 py-3 transition-colors text-base font-normal" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Dinner</a></li>
-            <li><a href="/categories/desserts/" class="block px-4 py-3 transition-colors text-base font-normal rounded-b-lg" style="transition: all 0.3s;" onmouseover="this.style.backgroundColor='var(--color-bg-alt)'; this.style.color='var(--primary)'" onmouseout="this.style.backgroundColor=''; this.style.color=''">Desserts</a></li>
-          </ul>
-        </li>
-        <li class="relative">
-          <a href="/about/" class="transition-colors {{ if eq .RelPermalink "/about/" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">About Us</a>
-          {{ if eq .RelPermalink "/about/" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-        </li>
-        <li class="relative">
-          <a href="/contact/" class="transition-colors {{ if eq .RelPermalink "/contact/" }}active-link{{ end }}" style="transition: color 0.3s;" onmouseover="this.style.color='var(--primary)'" onmouseout="this.style.color=''">Contact</a>
-          {{ if eq .RelPermalink "/contact/" }}<div class="absolute bottom-0 left-0 right-0 h-0.5 rounded-full" style="background-color: var(--primary);"></div>{{ end }}
-        </li>
-      </ul>
-    </div>
   </nav>
 
-  <!-- ===== Menu Mobile Simple ===== -->
-  <div id="mobile-nav" class="md:hidden hidden bg-white border-b border-slate-200">
+  <!-- ===== Menu Mobile Simple avec couleurs personnalisées ===== -->
+  <div id="mobile-nav" class="md:hidden border-b" style="display: none; background-color: var(--background); border-color: rgba(107, 114, 128, 0.2);">
     <div class="px-4 py-2 space-y-1">
-      <a href="/" class="block px-4 py-2 rounded {{ if .IsHome }}font-semibold{{ end }}" style="color: {{ if .IsHome }}var(--primary){{ else }}var(--color-text){{ end }}">Home</a>
-      <a href="/recipes/" class="block px-4 py-2 rounded {{ if eq .Section "recipes" }}font-semibold{{ end }}" style="color: {{ if eq .Section "recipes" }}var(--primary){{ else }}var(--color-text){{ end }}">Recipes</a>
-      <a href="/categories/" class="block px-4 py-2 rounded {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}font-semibold{{ end }}" style="color: {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}var(--primary){{ else }}var(--color-text){{ end }}">Categories</a>
-      <a href="/about/" class="block px-4 py-2 rounded {{ if eq .RelPermalink "/about/" }}font-semibold{{ end }}" style="color: {{ if eq .RelPermalink "/about/" }}var(--primary){{ else }}var(--color-text){{ end }}">About Us</a>
-      <a href="/contact/" class="block px-4 py-2 rounded {{ if eq .RelPermalink "/contact/" }}font-semibold{{ end }}" style="color: {{ if eq .RelPermalink "/contact/" }}var(--primary){{ else }}var(--color-text){{ end }}">Contact</a>
+      <a href="{{ .Site.BaseURL }}" class="block px-4 py-2 rounded transition-colors duration-200 {{ if .IsHome }}font-semibold{{ end }}" style="color: {{ if .IsHome }}var(--primary){{ else }}var(--text){{ end }}; background-color: {{ if .IsHome }}var(--secondary){{ else }}transparent{{ end }};" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='{{ if .IsHome }}var(--secondary){{ else }}transparent{{ end }}'; this.style.color='{{ if .IsHome }}var(--primary){{ else }}var(--text){{ end }}';">{{ $config.navigation.menu_items.home | default "Home" }}</a>
+      <a href="{{ .Site.BaseURL }}recipes/" class="block px-4 py-2 rounded transition-colors duration-200 {{ if eq .Section "recipes" }}font-semibold{{ end }}" style="color: {{ if eq .Section "recipes" }}var(--primary){{ else }}var(--text){{ end }}; background-color: {{ if eq .Section "recipes" }}var(--secondary){{ else }}transparent{{ end }};" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='{{ if eq .Section "recipes" }}var(--secondary){{ else }}transparent{{ end }}'; this.style.color='{{ if eq .Section "recipes" }}var(--primary){{ else }}var(--text){{ end }}';">{{ $config.navigation.menu_items.recipes | default "Recipes" }}</a>
+      <a href="{{ .Site.BaseURL }}categories/" class="block px-4 py-2 rounded transition-colors duration-200 {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}font-semibold{{ end }}" style="color: {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}var(--primary){{ else }}var(--text){{ end }}; background-color: {{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}var(--secondary){{ else }}transparent{{ end }};" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='{{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}var(--secondary){{ else }}transparent{{ end }}'; this.style.color='{{ if in (slice "taxonomyTerm" "taxonomy") .Kind }}var(--primary){{ else }}var(--text){{ end }}';">{{ $config.navigation.menu_items.categories | default "Categories" }}</a>
+      <a href="{{ .Site.BaseURL }}about/" class="block px-4 py-2 rounded transition-colors duration-200 {{ if eq .RelPermalink "/about/" }}font-semibold{{ end }}" style="color: {{ if eq .RelPermalink "/about/" }}var(--primary){{ else }}var(--text){{ end }}; background-color: {{ if eq .RelPermalink "/about/" }}var(--secondary){{ else }}transparent{{ end }};" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='{{ if eq .RelPermalink "/about/" }}var(--secondary){{ else }}transparent{{ end }}'; this.style.color='{{ if eq .RelPermalink "/about/" }}var(--primary){{ else }}var(--text){{ end }}';">{{ $config.navigation.menu_items.about | default "About Us" }}</a>
+      <a href="{{ .Site.BaseURL }}contact/" class="block px-4 py-2 rounded transition-colors duration-200 {{ if eq .RelPermalink "/contact/" }}font-semibold{{ end }}" style="color: {{ if eq .RelPermalink "/contact/" }}var(--primary){{ else }}var(--text){{ end }}; background-color: {{ if eq .RelPermalink "/contact/" }}var(--secondary){{ else }}transparent{{ end }};" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='{{ if eq .RelPermalink "/contact/" }}var(--secondary){{ else }}transparent{{ end }}'; this.style.color='{{ if eq .RelPermalink "/contact/" }}var(--primary){{ else }}var(--text){{ end }}';">{{ $config.navigation.menu_items.contact | default "Contact" }}</a>
+    </div>
+  </div>
+
+  <!-- Barre de recherche mobile avec couleurs personnalisées -->
+  <div class="md:hidden backdrop-blur-sm border-t transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay); display: none; background-color: rgba(254, 254, 254, 0.95); border-color: rgba(107, 114, 128, 0.3);" id="mobile-search">
+    <div class="px-6 py-4">
+      <div class="relative">
+        <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+          <svg class="h-5 w-5" style="color: var(--primary-light);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+          </svg>
+        </div>
+        {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder_mobile "TargetID" "mobile-input" "Class" "w-full pl-12 pr-4 py-3 border rounded-xl transition-all duration-300 focus:outline-none focus:ring-2") }}
+        <style>
+          #mobile-input {
+            background-color: var(--background);
+            border-color: rgba(107, 114, 128, 0.3);
+            color: var(--text);
+          }
+          #mobile-input::placeholder {
+            color: var(--primary-light);
+          }
+          #mobile-input:focus {
+            border-color: var(--primary);
+            box-shadow: 0 0 0 2px rgba(55, 65, 81, 0.2);
+          }
+        </style>
+      </div>
     </div>
   </div>
 </header>
-
-<script>
-function toggleMobileMenu() {
-  const menu = document.getElementById('mobile-nav');
-  menu.classList.toggle('hidden');
-}
-</script>
