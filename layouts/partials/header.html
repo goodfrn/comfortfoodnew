@@ -1,4 +1,4 @@
-<!-- layouts/partials/header.html - HEADER PROPRE ET FONCTIONNEL -->
+<!-- layouts/partials/header.html  -->
 
 {{ $config := .Site.Data.config }}
 {{ $site := $config.site }}
@@ -6,29 +6,27 @@
 {{ $social := $config.social }}
 {{ $header := $config.header }} 
 
-<!-- ===== Header Clean ===== -->
-<header class="bg-white shadow-sm border-b" style="border-color: var(--color-border); z-index: var(--z-fixed);">
+<!-- ===== Header Professional ===== -->
+<header class="bg-white shadow-sm border-b" style="border-color: var(--color-border);">
   
-  <!-- === Barre principale === -->
-  <div class="container mx-auto px-6 py-4">
-    <div class="flex items-center justify-between">
+  <!-- Main Header Bar -->
+  <div class="container mx-auto px-4 md:px-6">
+    <div class="flex items-center h-16 md:h-20">
       
       <!-- Logo -->
-      <a href="{{ .Site.BaseURL }}" class="flex items-center space-x-3 no-underline group">
+      <a href="{{ .Site.BaseURL }}" class="flex items-center space-x-3 no-underline flex-shrink-0">
         <div class="brand w-10 h-10 rounded-lg flex items-center justify-center shadow-sm">
           <span class="text-white font-bold text-lg">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
         </div>
-        <div class="hidden md:block">
-          <h1 class="text-xl font-bold m-0 brand-text group-hover:opacity-80 transition-opacity">
-            {{ $site.name | default .Site.Title }}
-          </h1>
-          <p class="text-sm m-0" style="color: var(--primary-light);">{{ $site.tagline }}</p>
+        <div class="hidden sm:block">
+          <h1 class="text-lg md:text-xl font-bold m-0 brand-text">{{ $site.name | default .Site.Title }}</h1>
+          <p class="text-xs text-gray-500 m-0">{{ $site.tagline }}</p>
         </div>
       </a>
 
-      <!-- Barre de recherche FIXE -->
-      <div class="flex-1 max-w-xl mx-6">
-        <div class="search relative">
+      <!-- Desktop Search -->
+      <div class="hidden md:flex flex-1 max-w-2xl mx-6">
+        <div class="search relative w-full">
           <svg class="search__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
           </svg>
@@ -37,45 +35,37 @@
             type="search" 
             placeholder="{{ $header.search_placeholder | default "Rechercher une recette..." }}" 
             class="search__input"
-            autocomplete="off" 
-            role="combobox" 
-            aria-expanded="false" 
-            aria-haspopup="listbox"
+            autocomplete="off"
           >
           <div id="search-results-input" class="search__results" hidden></div>
         </div>
       </div>
 
-      <!-- Actions -->
-      <div class="flex items-center space-x-3">
-        
-        <!-- Pinterest -->
+      <!-- Desktop Actions -->
+      <div class="hidden md:flex items-center space-x-4">
         {{ with $social.pinterest }}
-        <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn--primary px-4 py-2 text-sm">
-          <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
-            <path d="M12 0C5.374 0 0 5.374 0 12s5.374 12 12 12c.35 0 .697-.016 1.042-.046-.011-.175-.021-.351-.021-.529 0-1.958.727-3.708 1.917-5.076-.451-.021-.872-.084-1.27-.186-2.043-.523-3.542-2.297-3.542-4.458 0-2.508 2.032-4.541 4.541-4.541s4.541 2.032 4.541 4.541c0 2.161-1.499 3.935-3.542 4.458-.398.102-.819.165-1.27.186 1.19 1.368 1.917 3.118 1.917 5.076 0 .178-.01.354-.021.529.345.03.692.046 1.042.046 6.626 0 12-5.374 12-12S18.626 0 12 0z"/>
-          </svg>
+        <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn--primary">
           {{ $header.follow_button_text | default "Follow" }}
         </a>
         {{ end }}
-
-        <!-- Menu mobile toggle -->
-        <button id="mobile-menu-toggle" class="btn btn--ghost md:hidden p-2" aria-expanded="false" aria-controls="mobile-menu">
-          <svg id="menu-icon" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
-          </svg>
-          <svg id="close-icon" class="w-6 h-6 is-hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
-          </svg>
-        </button>
       </div>
+
+      <!-- Mobile Menu Button -->
+      <button id="mobile-menu-toggle" class="md:hidden btn btn--ghost ml-auto" aria-label="Menu">
+        <svg id="menu-icon" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+        </svg>
+        <svg id="close-icon" class="w-6 h-6 is-hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+        </svg>
+      </button>
     </div>
   </div>
 
-  <!-- === Navigation Desktop Sticky === -->
+  <!-- Desktop Navigation -->
   <nav class="sticky top-0 bg-white/95 backdrop-blur-sm border-t hidden md:block" style="border-color: var(--color-border); z-index: var(--z-sticky);">
-    <div class="container mx-auto px-6 py-3">
-      <div class="flex justify-center space-x-8">
+    <div class="container mx-auto px-6">
+      <div class="flex justify-center space-x-8 py-4">
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
@@ -84,9 +74,7 @@
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about | default "About Us" }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
-          <a href="{{ .URL }}" 
-             class="px-4 py-2 font-medium text-base rounded-lg transition-all duration-200 no-underline {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}nav-active{{ else }}nav-link{{ end }}" 
-             aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+          <a href="{{ .URL }}" class="nav-link {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}nav-active{{ end }}">
             {{ $displayName }}
           </a>
         {{ end }}
@@ -94,11 +82,28 @@
     </div>
   </nav>
 
-  <!-- === Menu Mobile === -->
+  <!-- Mobile Menu -->
   <div id="mobile-menu" class="md:hidden bg-white border-t" style="display: none; border-color: var(--color-border);">
     
-    <!-- Navigation mobile -->
-    <nav class="p-4 space-y-2">
+    <!-- Mobile Search -->
+    <div class="p-4 border-b" style="border-color: var(--color-border);">
+      <div class="search relative">
+        <svg class="search__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+        </svg>
+        <input 
+          id="search-mobile-input" 
+          type="search" 
+          placeholder="{{ $header.search_placeholder_mobile | default "Rechercher..." }}" 
+          class="search__input"
+          autocomplete="off"
+        >
+        <div id="search-results-mobile-input" class="search__results" hidden></div>
+      </div>
+    </div>
+    
+    <!-- Mobile Navigation -->
+    <nav class="p-4 space-y-1">
       {{ range .Site.Menus.main }}
         {{ $displayName := .Name }}
         {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
@@ -107,21 +112,17 @@
         {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about | default "About Us" }}{{ end }}
         {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
         
-        <a href="{{ .URL }}" 
-           class="block px-4 py-3 rounded-lg font-medium transition-all duration-200 no-underline {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}mobile-nav-active{{ else }}mobile-nav-link{{ end }}" 
-           aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+        <a href="{{ .URL }}" class="mobile-nav-link {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}mobile-nav-active{{ end }}">
           {{ $displayName }}
         </a>
       {{ end }}
     </nav>
 
-    <!-- Réseaux sociaux mobile -->
-    <div class="p-4 border-t flex justify-center" style="border-color: var(--color-border);">
-      {{ with $social.facebook }}
-      <a href="{{ . }}" target="_blank" rel="noopener" class="w-10 h-10 rounded-lg flex items-center justify-center mx-2 transition-colors" style="background-color: var(--secondary); color: var(--primary);">
-        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-          <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
-        </svg>
+    <!-- Mobile Social -->
+    <div class="p-4 border-t flex justify-center space-x-4" style="border-color: var(--color-border);">
+      {{ with $social.pinterest }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn--primary btn--sm">
+        {{ $header.follow_button_text | default "Follow" }}
       </a>
       {{ end }}
     </div>
@@ -130,14 +131,22 @@
 </header>
 
 <style>
-/* Navigation states */
+/* Navigation Links */
 .nav-link {
+  display: block;
+  padding: 0.5rem 1rem;
+  font-weight: 500;
   color: var(--color-text);
+  text-decoration: none;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
 }
+
 .nav-link:hover {
   color: var(--primary);
   background-color: var(--secondary);
 }
+
 .nav-active {
   color: var(--primary);
   background-color: var(--secondary);
@@ -147,14 +156,22 @@
   text-underline-offset: 3px;
 }
 
-/* Mobile navigation */
+/* Mobile Navigation */
 .mobile-nav-link {
+  display: block;
+  padding: 0.75rem 1rem;
+  font-weight: 500;
   color: var(--color-text);
+  text-decoration: none;
+  border-radius: 0.5rem;
+  transition: all 0.2s ease;
 }
+
 .mobile-nav-link:hover {
   color: var(--primary);
   background-color: var(--secondary);
 }
+
 .mobile-nav-active {
   color: var(--primary);
   background-color: var(--secondary);
