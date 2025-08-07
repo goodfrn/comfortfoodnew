@@ -70,8 +70,8 @@
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
-          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
           {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
+          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
@@ -107,8 +107,8 @@
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
-          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
           {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
+          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
