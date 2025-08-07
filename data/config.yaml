@@ -73,7 +73,7 @@ homepage:
     title: "Get our best comfort recipes 🍲"
     description: "Weekly doses of comfort food inspiration, seasonal favourites, and kitchen tips delivered straight to your inbox. Pure comfort, no spam."
     email_placeholder: "Your email address"
-    button_text: "Join the family"
+    button_text: "Join us"
     form_action: "https://formspree.io/f/xvgqqbdp"
     
 about_page:
