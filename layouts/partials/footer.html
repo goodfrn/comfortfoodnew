@@ -84,7 +84,7 @@
           </div>
           <div class="space-y-4">
             {{ range first 6 .Site.Taxonomies.categories.ByCount }}
-              <a href="{{ .Page.Permalink }}" class="group flex items-center justify-between text-slate-300 hover:text-amber-700 transition-all duration-300 no-underline">
+              <a href="{{ .Page.Permalink }}"<a href="{{ .Page.Permalink }}" class="group flex items-center text-slate-300 hover:text-amber-700 transition-all duration-300 no-underline">
                 <div class="flex items-center">
                   <div class="w-1.5 h-1.5 bg-amber-400/50 rounded-full mr-3 group-hover:bg-amber-400 transition-colors duration-300"></div>
                   {{ $slug := .Page.Title | lower | urlize }}
@@ -97,9 +97,6 @@
                   {{ end }}           
                   <span class="font-medium">{{ $displayName }}</span>
                 </div>
-                <span class="text-xs bg-slate-700/50 text-slate-400 px-2 py-1 rounded-full group-hover:bg-amber-500/20 group-hover:text-amber-300 transition-all duration-300">
-                  {{ .Count }}
-                </span>
               </a>
             {{ end }}
           </div>
