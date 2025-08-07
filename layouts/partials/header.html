@@ -1,4 +1,4 @@
-<!-- layouts/partials/header.html - VERSION AVEC ESPACEMENTS UNIFORMISÉS -->
+<!-- layouts/partials/header.html - VERSION OPTIMISÉE AVEC NOUVELLES COULEURS -->
 
 {{ $config := .Site.Data.config }}
 {{ $site := $config.site }}
@@ -9,12 +9,12 @@
 <!-- ===== Header avec Z-INDEX UNIFIÉ ===== -->
 <header class="relative" style="z-index: var(--z-fixed);">
   <!-- Effet de fond subtil -->
-  <div class="absolute inset-0 bg-gradient-to-r from-transparent via-amber-500/5 to-transparent"></div>
+  <div class="absolute inset-0 bg-gradient-to-r from-transparent via-blue-500/5 to-transparent"></div>
   
   <!-- Particules minimalistes -->
   <div class="absolute inset-0 overflow-hidden pointer-events-none">
-    <div class="absolute top-4 left-32 w-1 h-1 bg-amber-400/30 rounded-full animate-pulse"></div>
-    <div class="absolute top-8 right-40 w-1 h-1 bg-amber-400/20 rounded-full animate-pulse animation-delay-1000"></div>
+    <div class="absolute top-4 left-32 w-1 h-1 bg-blue-400/30 rounded-full animate-pulse"></div>
+    <div class="absolute top-8 right-40 w-1 h-1 bg-blue-400/20 rounded-full animate-pulse animation-delay-1000"></div>
   </div>
 
   <!-- ===== Barre du haut : logo, recherche, réseaux sociaux ===== -->
@@ -27,30 +27,30 @@
           <span class="text-white font-bold text-lg">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
         </div>
         <div class="hidden sm:block">
-          <div class="text-2xl font-bold text-slate-900 group-hover:text-amber-700 transition-colors duration-300">
+          <div class="text-2xl font-bold text-slate-900 group-hover:text-blue-700 transition-colors duration-300">
             {{ $site.name | default .Site.Title }}
           </div>
           <p class="text-xs text-slate-500 tracking-wider uppercase">{{ $site.tagline }}</p>
         </div>
       </a>
 
-      <!-- Barre de recherche avec espacements uniformisés -->
+      <!-- Barre de recherche avec NOUVELLES CLASSES -->
       <div class="hidden md:block flex-1 max-w-lg mx-8">
         <div class="relative group">
           <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <svg class="h-5 w-5 text-slate-400 group-focus-within:text-amber-500 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg class="h-5 w-5 text-slate-400 group-focus-within:text-blue-500 transition-colors duration-200" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
             </svg>
           </div>
-          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder "TargetID" "input" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-amber-400/50 focus:border-amber-400 transition-all duration-300 backdrop-blur-sm") }}
+          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder "TargetID" "input" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border border-slate-200/50 rounded-full text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-400/50 focus:border-blue-400 transition-all duration-300 backdrop-blur-sm") }}
         </div>
       </div>
 
-      <!-- Réseaux sociaux avec espacements uniformisés -->
+      <!-- Réseaux sociaux élégants avec nouvelles couleurs -->
       <div class="flex items-center space-x-4">
         <div class="hidden sm:flex items-center space-x-3">
           {{ with $social.facebook }}
-          <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="w-10 h-10 bg-white/60 hover:bg-amber-50 rounded-full flex items-center justify-center text-slate-600 hover:text-amber-600 transition-all duration-300 backdrop-blur-sm border border-slate-200/50 hover:border-amber-200 hover:scale-105 transform">
+          <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="w-10 h-10 bg-white/60 hover:bg-blue-50 rounded-full flex items-center justify-center text-slate-600 hover:text-blue-600 transition-all duration-300 backdrop-blur-sm border border-slate-200/50 hover:border-blue-200 hover:scale-105 transform">
             <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
               <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
             </svg>
@@ -58,21 +58,21 @@
           {{ end }}
         </div>
         
-        <!-- Badge Pinterest avec espacement cohérent -->
+        <!-- Badge Pinterest avec nouvelles couleurs -->
         {{ with $social.pinterest }}
-        <a href="{{ . }}" target="_blank" rel="noopener" class="group relative inline-flex items-center px-4 py-2 brand rounded-full text-white text-sm font-medium tracking-wide hover:shadow-lg transform hover:scale-105 transition-all duration-300 animate-bounce ml-4">
+        <a href="{{ . }}" target="_blank" rel="noopener" class="group relative inline-flex items-center px-4 py-2 bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 rounded-full text-white text-sm font-medium tracking-wide hover:shadow-lg transform hover:scale-105 transition-all duration-300">
           <span class="relative z-10">{{ $header.follow_button_text }}</span>
-          <div class="absolute inset-0 bg-gradient-to-r from-amber-500 to-amber-600 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
+          <div class="absolute inset-0 bg-gradient-to-r from-blue-700 to-indigo-700 rounded-full opacity-0 group-hover:opacity-100 transition-opacity duration-300"></div>
         </a>
         {{ end }}
       </div>
     </div>
   </div>
 
-  <!-- ===== Navigation principale avec espacements uniformisés ===== -->
+  <!-- ===== Navigation principale avec Z-INDEX UNIFIÉ et SURLIGNEMENT AMÉLIORÉ ===== -->
   <nav class="relative backdrop-blur-xl bg-white/70 border-b border-slate-200/30" style="z-index: var(--z-sticky);" aria-label="Menu principal">
     <div class="max-w-7xl mx-auto px-6">
-      <div class="hidden md:flex justify-center items-center h-16 space-x-8">
+      <div class="hidden md:flex justify-center items-center h-16 space-x-12">
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
@@ -81,15 +81,24 @@
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
-          <a href="{{ .URL }}" class="relative {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-slate-900 after:w-full{{ else }}text-slate-700{{ end }} hover:text-amber-700 font-medium text-lg tracking-wide transition-all duration-300 no-underline after:content-[''] after:absolute after:bottom-[-8px] after:left-1/2 after:h-0.5 after:bg-gradient-to-r after:from-amber-400 after:to-amber-600 after:transition-all after:duration-300 after:transform after:-translate-x-1/2 {{ if not (or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .)) }}after:w-0 hover:after:w-full{{ end }}" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+          <a href="{{ .URL }}" class="relative group {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-blue-700 font-semibold{{ else }}text-slate-700 hover:text-blue-600{{ end }} font-medium text-lg tracking-wide transition-all duration-300 no-underline" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
             {{ $displayName }}
+            
+            <!-- Surlignement sous la section active -->
+            {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}
+            <span class="absolute -bottom-4 left-0 right-0 h-1 bg-gradient-to-r from-blue-500 to-indigo-500 rounded-full animate-fade-in-up"></span>
+            <span class="absolute -bottom-2 left-1/2 transform -translate-x-1/2 w-2 h-2 bg-blue-500 rounded-full animate-bounce"></span>
+            {{ else }}
+            <!-- Animation hover pour les éléments non-actifs -->
+            <span class="absolute -bottom-4 left-1/2 transform -translate-x-1/2 h-1 w-0 bg-gradient-to-r from-blue-400 to-indigo-400 rounded-full transition-all duration-300 group-hover:w-full group-hover:left-0 group-hover:transform-none"></span>
+            {{ end }}
           </a>
         {{ end }}
       </div>
 
-      <!-- Menu mobile avec espacements uniformisés -->
+      <!-- Menu mobile avec BOUTONS MIGRÉS -->
       <div class="flex items-center justify-between md:hidden h-16">
-        <button id="mobile-menu-toggle" type="button" class="btn btn--ghost" aria-controls="mobile-menu" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
+        <button id="mobile-menu-toggle" type="button" class="btn btn--ghost hover:bg-blue-50 hover:text-blue-600" aria-controls="mobile-menu" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
           <svg id="menu-icon" class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
           </svg>
@@ -98,8 +107,8 @@
           </svg>
         </button>
         
-        <!-- Recherche mobile -->
-        <button id="mobile-search-toggle" class="btn btn--ghost md:hidden" aria-label="{{ $header.search_aria_label }}">
+        <!-- Recherche mobile avec BOUTON MIGRÉ -->
+        <button id="mobile-search-toggle" class="btn btn--ghost md:hidden hover:bg-blue-50 hover:text-blue-600" aria-label="{{ $header.search_aria_label }}">
           <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
           </svg>
@@ -107,9 +116,9 @@
       </div>
     </div>
 
-    <!-- Menu mobile déroulant avec espacements uniformisés -->
+    <!-- Menu mobile déroulant avec nouvelles couleurs -->
     <div class="hidden md:hidden bg-white/90 backdrop-blur-sm border-t border-slate-200/50 transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay);" id="mobile-menu">
-      <div class="px-6 py-4 space-y-2">
+      <div class="px-6 py-4 space-y-3">
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
@@ -118,14 +127,19 @@
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
-          <a href="{{ .URL }}" class="block px-4 py-3 rounded-xl {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-slate-900 bg-amber-50{{ else }}text-slate-700 hover:text-amber-700 hover:bg-amber-50/50{{ end }} font-medium transition-all duration-200 no-underline" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+          <a href="{{ .URL }}" class="relative block px-4 py-3 rounded-xl {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-blue-700 bg-blue-50 border-l-4 border-blue-500 font-semibold{{ else }}text-slate-700 hover:text-blue-600 hover:bg-blue-50/50{{ end }} font-medium transition-all duration-200 no-underline" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
             {{ $displayName }}
+            
+            <!-- Indicateur mobile pour section active -->
+            {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}
+            <span class="absolute right-3 top-1/2 transform -translate-y-1/2 w-2 h-2 bg-blue-500 rounded-full animate-pulse"></span>
+            {{ end }}
           </a>
         {{ end }}
       </div>
     </div>
 
-    <!-- Barre de recherche mobile avec espacements uniformisés -->
+    <!-- Barre de recherche mobile avec nouvelles couleurs -->
     <div class="hidden md:hidden bg-white/95 backdrop-blur-sm border-t border-slate-200/50 transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay);" id="mobile-search">
       <div class="px-6 py-4">
         <div class="relative">
@@ -134,99 +148,9 @@
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
             </svg>
           </div>
-          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder_mobile "TargetID" "mobile-input" "Class" "w-full pl-12 pr-4 py-3 bg-white border border-slate-200 rounded-xl text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-amber-400/50 focus:border-amber-400 transition-all duration-300") }}
+          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder_mobile "TargetID" "mobile-input" "Class" "w-full pl-12 pr-4 py-3 bg-white border border-slate-200 rounded-xl text-slate-700 placeholder-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-400/50 focus:border-blue-400 transition-all duration-300") }}
         </div>
       </div>
     </div>
   </nav>
 </header>
-
-<style>
-/* Règles CSS additionnelles pour assurer la cohérence des espacements */
-:root {
-  --spacing-xs: 0.25rem;    /* 4px - space-1 */
-  --spacing-sm: 0.5rem;     /* 8px - space-2 */
-  --spacing-md: 0.75rem;    /* 12px - space-3 */
-  --spacing-lg: 1rem;       /* 16px - space-4 */
-  --spacing-xl: 1.5rem;     /* 24px - space-6 */
-  --spacing-2xl: 2rem;      /* 32px - space-8 */
-}
-
-/* Uniformisation des hauteurs */
-header .h-16 {
-  height: 4rem; /* 64px - cohérent partout */
-}
-
-/* Uniformisation des paddings horizontaux */
-header .px-6 {
-  padding-left: 1.5rem;
-  padding-right: 1.5rem;
-}
-
-/* Uniformisation des espaces entre éléments */
-header .space-x-3 > * + * {
-  margin-left: var(--spacing-md);
-}
-
-header .space-x-4 > * + * {
-  margin-left: var(--spacing-lg);
-}
-
-header .space-x-8 > * + * {
-  margin-left: var(--spacing-2xl);
-}
-
-/* Uniformisation des marges internes des boutons */
-header .px-4 {
-  padding-left: var(--spacing-lg);
-  padding-right: var(--spacing-lg);
-}
-
-header .py-2 {
-  padding-top: var(--spacing-sm);
-  padding-bottom: var(--spacing-sm);
-}
-
-header .py-3 {
-  padding-top: var(--spacing-md);
-  padding-bottom: var(--spacing-md);
-}
-
-header .py-4 {
-  padding-top: var(--spacing-lg);
-  padding-bottom: var(--spacing-lg);
-}
-
-/* Uniformisation des espaces dans le menu mobile */
-header .space-y-2 > * + * {
-  margin-top: var(--spacing-sm);
-}
-
-/* Assurer que tous les éléments cliquables ont la même taille minimale */
-header button,
-header a[role="button"] {
-  min-height: 2.5rem; /* 40px minimum pour l'accessibilité */
-  min-width: 2.5rem;
-}
-
-/* Uniformisation des bordures */
-header .border-slate-200\/50 {
-  border-color: rgb(226 232 240 / 0.5);
-}
-
-/* Cohérence des rayons de bordure */
-header .rounded-full {
-  border-radius: 9999px;
-}
-
-header .rounded-xl {
-  border-radius: 0.75rem;
-}
-
-/* Uniformisation des transitions */
-header .transition-all {
-  transition-property: all;
-  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-  transition-duration: 300ms;
-}
-</style>
