@@ -1,4 +1,4 @@
-<!-- layouts/partials/header.html - VERSION MIGRÉE VERS NOUVEAU CSS -->
+<!-- layouts/partials/header.html - HEADER PROPRE ET FONCTIONNEL -->
 
 {{ $config := .Site.Data.config }}
 {{ $site := $config.site }}
@@ -6,89 +6,76 @@
 {{ $social := $config.social }}
 {{ $header := $config.header }} 
 
-<!-- ===== Header avec Z-INDEX UNIFIÉ ===== -->
-<header class="relative" style="z-index: var(--z-fixed);">
-  <!-- Effet de fond subtil -->
-  <div class="absolute inset-0 bg-gradient-to-r from-transparent via-slate-500/5 to-transparent" style="background: linear-gradient(to right, transparent, rgba(55, 65, 81, 0.05), transparent);"></div>
+<!-- ===== Header Clean ===== -->
+<header class="bg-white shadow-sm border-b" style="border-color: var(--color-border); z-index: var(--z-fixed);">
   
-  <!-- Particules minimalistes -->
-  <div class="absolute inset-0 overflow-hidden pointer-events-none">
-    <div class="absolute top-4 left-32 w-1 h-1 rounded-full animate-pulse" style="background-color: rgba(55, 65, 81, 0.3);"></div>
-    <div class="absolute top-8 right-40 w-1 h-1 rounded-full animate-pulse animation-delay-1000" style="background-color: rgba(55, 65, 81, 0.2);"></div>
-  </div>
-
-  <!-- ===== Barre du haut : logo, recherche, réseaux sociaux ===== -->
-  <div class="relative backdrop-blur-xl bg-white/80 border-b shadow-sm" style="z-index: var(--z-fixed); border-color: rgba(107, 114, 128, 0.3);">
-    <div class="max-w-7xl mx-auto px-6 flex justify-between items-center h-20">
+  <!-- === Barre principale === -->
+  <div class="container mx-auto px-6 py-4">
+    <div class="flex items-center justify-between">
       
-      <!-- Logo sophistiqué -->
-      <a href="{{ .Site.BaseURL }}" class="group flex items-center space-x-4 no-underline" aria-label="Accueil">
-        <div class="w-12 h-12 brand rounded-xl flex items-center justify-center transform group-hover:scale-105 transition-all duration-300 shadow-lg">
-          <span class="text-white font-bold text-xl">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
+      <!-- Logo -->
+      <a href="{{ .Site.BaseURL }}" class="flex items-center space-x-3 no-underline group">
+        <div class="brand w-10 h-10 rounded-lg flex items-center justify-center shadow-sm">
+          <span class="text-white font-bold text-lg">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
         </div>
-        <div class="hidden sm:block">
-          <div class="text-2xl font-bold transition-colors duration-300" style="color: var(--color-text);" onmouseover="this.style.color='var(--primary)';" onmouseout="this.style.color='var(--color-text)';">
+        <div class="hidden md:block">
+          <h1 class="text-xl font-bold m-0 brand-text group-hover:opacity-80 transition-opacity">
             {{ $site.name | default .Site.Title }}
-          </div>
-          <p class="text-xs tracking-wider uppercase" style="color: var(--primary-light);">{{ $site.tagline }}</p>
+          </h1>
+          <p class="text-sm m-0" style="color: var(--primary-light);">{{ $site.tagline }}</p>
         </div>
       </a>
 
-      <!-- Barre de recherche avec NOUVELLES CLASSES -->
-      <div class="hidden md:block flex-1 max-w-lg mx-8">
-        <div class="relative group">
-          <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <svg class="h-5 w-5 transition-colors duration-200" style="color: var(--primary-light);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-            </svg>
-          </div>
-          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder "TargetID" "input" "Class" "w-full pl-12 pr-4 py-3 bg-white/60 border rounded-full backdrop-blur-sm focus:outline-none focus:ring-2 transition-all duration-300") }}
-          <style>
-            #input {
-              border-color: rgba(107, 114, 128, 0.3);
-              color: var(--color-text);
-            }
-            #input::placeholder {
-              color: var(--primary-light);
-            }
-            #input:focus {
-              border-color: var(--primary);
-              box-shadow: 0 0 0 2px rgba(55, 65, 81, 0.2);
-            }
-          </style>
+      <!-- Barre de recherche FIXE -->
+      <div class="flex-1 max-w-xl mx-6">
+        <div class="search relative">
+          <svg class="search__icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
+          </svg>
+          <input 
+            id="search-input" 
+            type="search" 
+            placeholder="{{ $header.search_placeholder | default "Rechercher une recette..." }}" 
+            class="search__input"
+            autocomplete="off" 
+            role="combobox" 
+            aria-expanded="false" 
+            aria-haspopup="listbox"
+          >
+          <div id="search-results-input" class="search__results" hidden></div>
         </div>
       </div>
 
-      <!-- Réseaux sociaux élégants -->
-      <div class="flex items-center space-x-4">
-        <div class="hidden sm:flex items-center space-x-4">
-          {{ with $social.facebook }}
-          <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="w-11 h-11 bg-white/60 rounded-xl flex items-center justify-center backdrop-blur-sm border transition-all duration-300 hover:scale-105 transform" style="border-color: rgba(107, 114, 128, 0.3); color: var(--primary-light);" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.borderColor='var(--primary-light)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='rgba(255, 255, 255, 0.6)'; this.style.borderColor='rgba(107, 114, 128, 0.3)'; this.style.color='var(--primary-light)';">
-            <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
-              <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
-            </svg>
-          </a>
-          {{ end }}
-        </div>
+      <!-- Actions -->
+      <div class="flex items-center space-x-3">
         
-        <!-- Badge Pinterest sophistiqué -->
+        <!-- Pinterest -->
         {{ with $social.pinterest }}
-        <a href="{{ . }}" target="_blank" rel="noopener" class="group relative inline-flex items-center px-6 py-3 brand rounded-xl text-white text-sm font-medium tracking-wide hover:shadow-lg transform hover:scale-105 transition-all duration-300">
+        <a href="{{ . }}" target="_blank" rel="noopener" class="btn btn--primary px-4 py-2 text-sm">
           <svg class="w-4 h-4 mr-2" fill="currentColor" viewBox="0 0 24 24">
             <path d="M12 0C5.374 0 0 5.374 0 12s5.374 12 12 12c.35 0 .697-.016 1.042-.046-.011-.175-.021-.351-.021-.529 0-1.958.727-3.708 1.917-5.076-.451-.021-.872-.084-1.27-.186-2.043-.523-3.542-2.297-3.542-4.458 0-2.508 2.032-4.541 4.541-4.541s4.541 2.032 4.541 4.541c0 2.161-1.499 3.935-3.542 4.458-.398.102-.819.165-1.27.186 1.19 1.368 1.917 3.118 1.917 5.076 0 .178-.01.354-.021.529.345.03.692.046 1.042.046 6.626 0 12-5.374 12-12S18.626 0 12 0z"/>
           </svg>
-          <span class="relative z-10">Suivez-nous</span>
-          <div class="absolute inset-0 rounded-xl opacity-0 group-hover:opacity-100 transition-opacity duration-300" style="background: linear-gradient(135deg, var(--primary-dark), var(--primary));"></div>
+          {{ $header.follow_button_text | default "Follow" }}
         </a>
         {{ end }}
+
+        <!-- Menu mobile toggle -->
+        <button id="mobile-menu-toggle" class="btn btn--ghost md:hidden p-2" aria-expanded="false" aria-controls="mobile-menu">
+          <svg id="menu-icon" class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
+          </svg>
+          <svg id="close-icon" class="w-6 h-6 is-hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
+          </svg>
+        </button>
       </div>
     </div>
   </div>
 
-  <!-- ===== Navigation principale STICKY avec Z-INDEX UNIFIÉ ===== -->
-  <nav class="sticky top-0 backdrop-blur-xl bg-white/70 border-b" style="z-index: var(--z-sticky); border-color: rgba(107, 114, 128, 0.2);" aria-label="Menu principal">
-    <div class="max-w-7xl mx-auto px-6">
-      <div class="hidden md:flex justify-center items-center h-16 space-x-12">
+  <!-- === Navigation Desktop Sticky === -->
+  <nav class="sticky top-0 bg-white/95 backdrop-blur-sm border-t hidden md:block" style="border-color: var(--color-border); z-index: var(--z-sticky);">
+    <div class="container mx-auto px-6 py-3">
+      <div class="flex justify-center space-x-8">
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
@@ -97,78 +84,82 @@
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about | default "About Us" }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
-          <a href="{{ .URL }}" class="relative font-medium text-lg tracking-wide transition-all duration-300 no-underline {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}underline underline-offset-4{{ end }}" style="color: {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--primary){{ else }}var(--color-text){{ end }}; {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-decoration-color: var(--primary);{{ end }}" onmouseover="this.style.color='var(--primary)';" onmouseout="this.style.color='{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--primary){{ else }}var(--color-text){{ end }}';" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
-            {{ $displayName }}
-            {{ if not (or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .)) }}
-            <span class="absolute bottom-[-8px] left-1/2 h-0.5 w-0 transition-all duration-300 transform -translate-x-1/2 hover:w-full" style="background: linear-gradient(to right, var(--primary), var(--primary-dark));"></span>
-            {{ end }}
-          </a>
-        {{ end }}
-      </div>
-
-      <!-- Menu mobile avec BOUTONS MIGRÉS -->
-      <div class="flex items-center justify-between md:hidden h-16">
-        <button id="mobile-menu-toggle" type="button" class="btn btn--ghost" aria-controls="mobile-menu" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
-          <svg id="menu-icon" class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
-          </svg>
-          <svg id="close-icon" class="h-6 w-6 is-hidden" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/>
-          </svg>
-        </button>
-        
-        <!-- Recherche mobile avec BOUTON MIGRÉ -->
-        <button id="mobile-search-toggle" class="btn btn--ghost md:hidden" aria-label="{{ $header.search_aria_label }}">
-          <svg class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"/>
-          </svg>
-        </button>
-      </div>
-    </div>
-
-    <!-- Menu mobile déroulant avec Z-INDEX UNIFIÉ -->
-    <div class="hidden md:hidden bg-white/90 backdrop-blur-sm border-t transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay); border-color: rgba(107, 114, 128, 0.3);" id="mobile-menu">
-      <div class="px-6 py-6 space-y-3">
-        {{ range .Site.Menus.main }}
-          {{ $displayName := .Name }}
-          {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
-          {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
-          {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
-          {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about | default "About Us" }}{{ end }}
-          {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
-          
-          <a href="{{ .URL }}" class="block px-6 py-4 rounded-xl font-medium transition-all duration-200 no-underline {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}font-semibold{{ end }}" style="color: {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--primary){{ else }}var(--color-text){{ end }}; background-color: {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--secondary){{ else }}transparent{{ end }};" onmouseover="this.style.backgroundColor='var(--secondary)'; this.style.color='var(--primary)';" onmouseout="this.style.backgroundColor='{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--secondary){{ else }}transparent{{ end }}'; this.style.color='{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}var(--primary){{ else }}var(--color-text){{ end }}';" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+          <a href="{{ .URL }}" 
+             class="px-4 py-2 font-medium text-base rounded-lg transition-all duration-200 no-underline {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}nav-active{{ else }}nav-link{{ end }}" 
+             aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
             {{ $displayName }}
           </a>
         {{ end }}
-      </div>
-    </div>
-
-    <!-- Barre de recherche mobile avec Z-INDEX UNIFIÉ -->
-    <div class="hidden md:hidden bg-white/95 backdrop-blur-sm border-t transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay); border-color: rgba(107, 114, 128, 0.3);" id="mobile-search">
-      <div class="px-6 py-6">
-        <div class="relative">
-          <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
-            <svg class="h-5 w-5" style="color: var(--primary-light);" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
-            </svg>
-          </div>
-          {{ partial "search-input.html" (dict "Placeholder" $header.search_placeholder_mobile "TargetID" "mobile-input" "Class" "w-full pl-12 pr-4 py-3 bg-white border rounded-xl focus:outline-none focus:ring-2 transition-all duration-300") }}
-          <style>
-            #mobile-input {
-              border-color: rgba(107, 114, 128, 0.3);
-              color: var(--color-text);
-            }
-            #mobile-input::placeholder {
-              color: var(--primary-light);
-            }
-            #mobile-input:focus {
-              border-color: var(--primary);
-              box-shadow: 0 0 0 2px rgba(55, 65, 81, 0.2);
-            }
-          </style>
-        </div>
       </div>
     </div>
   </nav>
+
+  <!-- === Menu Mobile === -->
+  <div id="mobile-menu" class="md:hidden bg-white border-t" style="display: none; border-color: var(--color-border);">
+    
+    <!-- Navigation mobile -->
+    <nav class="p-4 space-y-2">
+      {{ range .Site.Menus.main }}
+        {{ $displayName := .Name }}
+        {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
+        {{ if eq .Identifier "recipes" }}{{ $displayName = $config.navigation.menu_items.recipes }}{{ end }}
+        {{ if eq .Identifier "categories" }}{{ $displayName = $config.navigation.menu_items.categories }}{{ end }}
+        {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about | default "About Us" }}{{ end }}
+        {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
+        
+        <a href="{{ .URL }}" 
+           class="block px-4 py-3 rounded-lg font-medium transition-all duration-200 no-underline {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}mobile-nav-active{{ else }}mobile-nav-link{{ end }}" 
+           aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+          {{ $displayName }}
+        </a>
+      {{ end }}
+    </nav>
+
+    <!-- Réseaux sociaux mobile -->
+    <div class="p-4 border-t flex justify-center" style="border-color: var(--color-border);">
+      {{ with $social.facebook }}
+      <a href="{{ . }}" target="_blank" rel="noopener" class="w-10 h-10 rounded-lg flex items-center justify-center mx-2 transition-colors" style="background-color: var(--secondary); color: var(--primary);">
+        <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
+          <path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/>
+        </svg>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+
 </header>
+
+<style>
+/* Navigation states */
+.nav-link {
+  color: var(--color-text);
+}
+.nav-link:hover {
+  color: var(--primary);
+  background-color: var(--secondary);
+}
+.nav-active {
+  color: var(--primary);
+  background-color: var(--secondary);
+  font-weight: 600;
+  text-decoration: underline;
+  text-decoration-color: var(--primary);
+  text-underline-offset: 3px;
+}
+
+/* Mobile navigation */
+.mobile-nav-link {
+  color: var(--color-text);
+}
+.mobile-nav-link:hover {
+  color: var(--primary);
+  background-color: var(--secondary);
+}
+.mobile-nav-active {
+  color: var(--primary);
+  background-color: var(--secondary);
+  font-weight: 600;
+  border-left: 3px solid var(--primary);
+  padding-left: calc(1rem - 3px);
+}
+</style>
