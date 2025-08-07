@@ -22,14 +22,11 @@
     <div class="max-w-7xl mx-auto px-8 flex justify-between items-center h-16">
       
       <!-- Logo sophistiqué -->
-      <a href="{{ .Site.BaseURL }}" class="group flex items-center space-x-4 no-underline" aria-label="Accueil">
-        <div class="w-12 h-12 brand rounded-full flex items-center justify-center transform group-hover:scale-105 transition-all duration-300 shadow-lg">
-          <span class="text-white font-bold text-xl">{{ $branding.logo_text | default (substr ($site.name | default .Site.Title) 0 1) }}</span>
+      <a href="{{ .Site.BaseURL }}" class="group flex items-center no-underline" aria-label="Accueil">
+        <div class="text-3xl font-serif font-bold transition-all duration-300 group-hover:scale-105">
+          <span style="color: #f59e0b;">Comfort</span><span style="color: #d97706;">Food</span>
         </div>
-        <div class="hidden sm:block">
-          <div class="text-2xl font-bold text-slate-900 transition-colors duration-300">
-            {{ $site.name | default .Site.Title }}
-          </div>
+        <div class="hidden sm:block ml-4">
           <p class="text-xs text-slate-500 tracking-wider uppercase">{{ $site.tagline }}</p>
         </div>
       </a>
