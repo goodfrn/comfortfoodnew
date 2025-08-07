@@ -22,7 +22,7 @@
     <div class="max-w-7xl mx-auto px-8 flex justify-between items-center h-16">
       
       <!-- Logo sophistiqué -->
-      <a href="{{ .Site.BaseURL }}" class="group flex items-center no-underline" aria-label="Accueil">
+      <a href="{{ .Site.BaseURL }}" class="group flex items-center no-underline sm:justify-start justify-center flex-1 sm:flex-none" aria-label="Accueil">
         <div class="text-3xl font-serif font-bold transition-all duration-300 group-hover:scale-105">
           <span style="color: #f59e0b;">Comfort</span><span style="color: #d97706;">Food</span>
         </div>
@@ -41,7 +41,7 @@
       </div>
 
       <!-- Réseaux sociaux élégants -->
-      <div class="flex items-center space-x-5">
+      <div class="hidden sm:flex items-center space-x-5">
         <div class="hidden sm:flex items-center space-x-4">
           {{ with $social.facebook }}
           <a href="{{ . }}" target="_blank" rel="noopener" aria-label="Facebook" class="w-11 h-11 bg-white/60 hover:bg-amber-50 rounded-full flex items-center justify-center text-slate-600 hover:text-amber-600 transition-all duration-300 backdrop-blur-sm border border-slate-200/50 hover:border-amber-200 hover:scale-105 transform">
