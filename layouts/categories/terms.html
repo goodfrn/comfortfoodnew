@@ -8,7 +8,7 @@
     {{ $categories_page.title }}
   </h2>
   
-  <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4 mb-16">
+  <div class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 space-y-4 sm:space-y-0 sm:gap-4 justify-center">
     {{ range $term := .Data.Terms.Alphabetical }}
       {{ if gt $term.Count 0 }}
         
@@ -33,10 +33,10 @@
         {{ $firstRecipe := index $categoryPages 0 }}
         
         <!-- 🏆 CARTE CATÉGORIE PREMIUM COMPACTE -->
-        <a href="{{ $term.Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
+        <a href="{{ .Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
           
           <!-- Image avec overlay -->
-          <div class="relative overflow-hidden aspect-[16/9] h-32 rounded-xl">
+          <div class="relative overflow-hidden h-32 rounded-xl">
             {{ with $firstRecipe }}
               {{ with .Params.image }}
                 {{ $img := resources.Get (printf "images/%s" .) }}
@@ -63,27 +63,18 @@
             <!-- Overlay gradient sophistiqué -->
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-100 transition-opacity duration-500"></div>
             
-            <!-- Titre de catégorie positionné en bas (toujours visible) -->
+            <!-- Titre de catégorie positionné en bas (animation hover) -->
             <div class="absolute bottom-0 left-0 right-0 p-2 sm:p-3">
              <h3 class="font-serif text-sm sm:text-base font-bold text-white transition-all duration-500 opacity-90 group-hover:opacity-100" 
                  style="font-family: var(--font-serif); text-shadow: 0 2px 8px rgba(0,0,0,0.8); display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.2; width: 100%; max-width: 100%;">
                {{ $displayName }}
-             </h3>
-            </div>
+            </h3>
           </div>
-          
-          <!-- Zone de contenu épurée -->
-          <div class="p-3 border border-gray-100">
-            <!-- Petit indicateur subtil seulement -->
-            <div class="flex justify-center">
-              <div class="w-8 h-0.5 bg-gray-200 group-hover:bg-current transition-colors duration-300" style="background-color: var(--primary);"></div>
-            </div>
-          </div>
-          
-        </a>
-        
+        </div>
+      </a>
       {{ end }}
-    {{ end }}
-  </div>
+    </div>
+  {{ end }}
+</div>
 </section>
 {{ end }}
