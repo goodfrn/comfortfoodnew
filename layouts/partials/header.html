@@ -81,7 +81,7 @@
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
-          <a href="{{ .URL }}" class="relative {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-slate-900 after:w-full after:opacity-100{{ else }}text-slate-700 after:w-0 after:opacity-0{{ end }} hover:text-amber-700 font-medium text-lg tracking-wide transition-all duration-300 no-underline after:content-[''] after:absolute after:bottom-[-8px] after:left-1/2 after:h-0.5 after:bg-gradient-to-r after:from-amber-400 after:to-amber-600 after:transition-all after:duration-300 after:transform after:-translate-x-1/2 hover:after:w-full hover:after:opacity-100" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+          <a href="{{ .URL }}" class="nav-link relative text-slate-700 hover:text-amber-700 font-medium text-lg tracking-wide transition-all duration-300 no-underline after:content-[''] after:absolute after:bottom-[-8px] after:left-1/2 after:h-0.5 after:bg-gradient-to-r after:from-amber-400 after:to-amber-600 after:transition-all after:duration-300 after:transform after:-translate-x-1/2 after:w-0 after:opacity-0 hover:after:w-full hover:after:opacity-100" aria-current="false">
             {{ $displayName }}
           </a>
         {{ end }}
@@ -118,7 +118,7 @@
           {{ if eq .Identifier "about" }}{{ $displayName = $config.navigation.menu_items.about }}{{ end }}
           {{ if eq .Identifier "contact" }}{{ $displayName = $config.navigation.menu_items.contact }}{{ end }}
           
-          <a href="{{ .URL }}" class="block px-5 py-3 rounded-xl {{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}text-slate-900 bg-amber-50 border-l-4 border-amber-500{{ else }}text-slate-700 hover:text-amber-700 hover:bg-amber-50/50{{ end }} font-medium transition-all duration-200 no-underline" aria-current="{{ if or ($.Page.IsMenuCurrent "main" .) ($.Page.HasMenuCurrent "main" .) }}page{{ else }}false{{ end }}">
+          <a href="{{ .URL }}" class="nav-link-mobile block px-5 py-3 rounded-xl text-slate-700 hover:text-amber-700 hover:bg-amber-50/50 font-medium transition-all duration-200 no-underline" aria-current="false">
             {{ $displayName }}
           </a>
         {{ end }}
