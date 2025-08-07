@@ -169,6 +169,10 @@ class App {
         }
       });
     }
+
+
+
+    
     
     // Toggle menu
     toggle.addEventListener('click', (e) => {
@@ -219,6 +223,20 @@ class App {
         }
       });
     }
+
+
+    // Script pour marquer le lien actif
+    document.addEventListener('DOMContentLoaded', function() {
+      const currentPath = window.location.pathname;
+      const navLinks = document.querySelectorAll('.nav-link, .nav-link-mobile');
+      
+      navLinks.forEach(link => {
+        if (link.getAttribute('href') === currentPath || 
+            (currentPath.startsWith(link.getAttribute('href')) && link.getAttribute('href') !== '/')) {
+          link.classList.add('active');
+        }
+      });
+    });
     
     // Fermer en cliquant ailleurs
     document.addEventListener('click', (event) => {
