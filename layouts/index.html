@@ -447,8 +447,12 @@
       <label for="newsletter-email" class="sr-only">Adresse email</label>
       <input id="newsletter-email" type="email" name="email" required placeholder="{{ $homepage.newsletter.email_placeholder }}" class="w-full sm:flex-grow px-4 py-3 border rounded-lg focus:outline-none focus:ring-2" style="border-color: var(--color-text-muted); color: var(--color-text);">
       <!-- BOUTON NEWSLETTER MIGRÉ -->
-      <button type="submit" class="btn btn--primary btn--lg">
+      <button type="submit" class="inline-flex items-center px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:shadow-lg transform hover:-translate-y-1" 
+              style="background-color: var(--primary); color: white; font-family: var(--font-serif);">
         {{ $homepage.newsletter.button_text }}
+        <svg class="ml-2 w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
+        </svg>
       </button>
     </form>
   </div>
