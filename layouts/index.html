@@ -204,7 +204,7 @@
         <a href="{{ .Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
           
           <!-- Image avec overlay -->
-          <div class="relative overflow-hidden aspect-[16/9] h-32 rounded-xl">
+          <div class="relative overflow-hidden h-32 rounded-xl">
             {{ with $firstRecipe }}
               {{ with .Params.image }}
                 {{ $img := resources.Get (printf "images/%s" .) }}
