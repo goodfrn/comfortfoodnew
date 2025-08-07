@@ -90,49 +90,49 @@
           {{ end }}
         </div>
       {{ end }}
-
+        <!-- Auteur et date -->
+      {{ if or .Params.author .Date }}
+        <div class="bg-orange-50 border-l-4 border-orange-400 p-4 mb-6 rounded-r-lg">
+          <div class="flex items-center gap-3">
+            <div class="w-10 h-10 rounded-full overflow-hidden">
+              {{ $emma := resources.Get "images/chef.png" }}
+              {{ if $emma }}
+                {{ $emmaSmall := $emma.Fill "40x40" }}
+                <img src="{{ $emmaSmall.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-full h-full object-cover">
+              {{ else }}
+                <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center text-white font-bold">
+                  E
+                </div>
+              {{ end }}
+            </div>
+            <div>
+              <p class="text-lg font-bold text-gray-900">
+                {{ $recipe_page.author_prefix }} 
+                {{ .Params.author | default "Emma " }}
+              </p>
+              <p class="text-sm text-gray-600">Certified Culinary Professional</p>
+            </div>
+          </div>
+          
+          {{ if .Date }}
+            <div class="flex items-center gap-2 text-sm text-gray-600 mt-3">
+              <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                <path d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zM4 7h12v9H4V7z"/>
+              </svg>
+              <time datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}
+              </time>
+              <span class="mx-2">•</span>
+              <span>Recipe tested & approved</span>
+            </div>
+          {{ end }}
+        </div>
+      {{ end }}
+ 
       
       <!-- Infos recette organisées -->
       <div class="flex flex-col gap-6">
         
-        <!-- Auteur et date -->
-        {{ if or .Params.author .Date }}
-          <div class="bg-orange-50 border-l-4 border-orange-400 p-4 mb-6 rounded-r-lg">
-            <div class="flex items-center gap-3">
-              <div class="w-10 h-10 rounded-full overflow-hidden">
-                {{ $emma := resources.Get "images/chef.png" }}
-                {{ if $emma }}
-                  {{ $emmaSmall := $emma.Fill "40x40" }}
-                  <img src="{{ $emmaSmall.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-full h-full object-cover">
-                {{ else }}
-                  <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center text-white font-bold">
-                    E
-                  </div>
-                {{ end }}
-              </div>
-              <div>
-                <p class="text-lg font-bold text-gray-900">
-                  {{ $recipe_page.author_prefix }} 
-                  {{ .Params.author | default "Emma " }}
-                </p>
-                <p class="text-sm text-gray-600">Certified Culinary Professional</p>
-              </div>
-            </div>
-            
-            {{ if .Date }}
-              <div class="flex items-center gap-2 text-sm text-gray-600 mt-3">
-                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
-                  <path d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zM4 7h12v9H4V7z"/>
-                </svg>
-                <time datetime="{{ .Date.Format "2006-01-02" }}">
-                  {{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}
-                </time>
-                <span class="mx-2">•</span>
-                <span>Recipe tested & approved</span>
-              </div>
-            {{ end }}
-          </div>
-        {{ end }}
         <!-- Description -->
         {{ $intro := .Params.description | default .Summary }}
         {{ with $intro }}
