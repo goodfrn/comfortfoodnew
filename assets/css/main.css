@@ -493,7 +493,7 @@ p {
 @media (max-width: 768px) {
   /* Modifie la barre de recherche quand les résultats sont visibles */
   .search__input:focus {
-    border-radius: var(--radius-full) var(--radius-full) 0 0;
+    border-radius: var(--radius-full);
   }
   
   .search__results {
