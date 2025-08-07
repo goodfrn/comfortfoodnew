@@ -1,2 +1,0 @@
-# Redirection vers Ezoic Ads.txt Manager
-<meta http-equiv="refresh" content="0; url=https://srv.adstxtmanager.com/76794/comfortfood.uk">
