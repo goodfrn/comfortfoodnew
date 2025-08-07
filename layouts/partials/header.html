@@ -19,7 +19,7 @@
 
   <!-- ===== Barre du haut : logo, recherche, réseaux sociaux ===== -->
   <div class="relative backdrop-blur-xl bg-white/80 border-b border-slate-200/50 shadow-sm" style="z-index: var(--z-fixed);">
-    <div class="max-w-7xl mx-auto px-8 flex justify-between items-center h-20">
+    <div class="max-w-7xl mx-auto px-8 flex justify-between items-center h-16">
       
       <!-- Logo sophistiqué -->
       <a href="{{ .Site.BaseURL }}" class="group flex items-center space-x-4 no-underline" aria-label="Accueil">
@@ -72,7 +72,7 @@
   <!-- ===== Navigation principale avec Z-INDEX UNIFIÉ ===== -->
   <nav class="relative backdrop-blur-xl bg-white/70 border-b border-slate-200/30" style="z-index: var(--z-sticky);" aria-label="Menu principal">
     <div class="max-w-7xl mx-auto px-8">
-      <div class="hidden md:flex justify-center items-center h-18 space-x-14">
+      <div class="hidden md:flex justify-center items-center h-16 space-x-14">
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
@@ -88,7 +88,7 @@
       </div>
 
       <!-- Menu mobile avec BOUTONS MIGRÉS -->
-      <div class="flex items-center justify-between md:hidden h-18 px-2">
+      <div class="flex items-center justify-between md:hidden h-16 px-2">
         <button id="mobile-menu-toggle" type="button" class="btn btn--ghost" aria-controls="mobile-menu" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
           <svg id="menu-icon" class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
