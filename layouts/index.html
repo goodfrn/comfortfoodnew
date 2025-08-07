@@ -177,7 +177,7 @@
     </p>
     <!-- Grille catégories avec CARDS  -->
 
-    <div class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-0 sm:gap-4 justify-center">
+    <div class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 space-y-4 sm:space-y-0 sm:gap-4 justify-center">
       {{ range first 10 (sort .Site.Taxonomies.categories "Count" "desc") }}
         {{/* 🎯 LOGIQUE IDENTIQUE aux autres templates */}}
         {{ $slug := .Page.Title | lower | urlize }}
