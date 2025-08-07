@@ -56,7 +56,7 @@ hero:
   subtitle_highlight: "soul-warming dishes"
   cta_primary_text: "Find My Recipe"
   cta_primary_url: /random/
-  cta_secondary_text: "Explore Comfort Classics"
+  cta_secondary_text: "Explore Recipes"
   cta_secondary_url: /recipes/
   scroll_indicator: false
 
