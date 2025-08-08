@@ -18,7 +18,7 @@ export function initStickyNav() {
         e.preventDefault();
         const target = document.getElementById(this.dataset.target);
         if (target) {
-          const targetPosition = target.offsetTop - 128;
+          const targetPosition = target.offsetTop - 120;
           window.scrollTo({ top: targetPosition, behavior: 'smooth' });
         }
       });
