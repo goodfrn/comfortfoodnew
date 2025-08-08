@@ -82,7 +82,7 @@
       </div>
 
       <!-- Menu mobile avec BOUTONS MIGRÉS -->
-      <div class="flex items-center justify-between md:hidden h-16 px-1">
+      <div class="flex items-center justify-between md:hidden h-16 px-4">
         <button id="mobile-menu-toggle" type="button" class="btn btn--ghost" aria-controls="mobile-menu" aria-expanded="false" aria-label="{{ $header.menu_aria_label }}">
           <svg id="menu-icon" class="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16"/>
@@ -103,7 +103,7 @@
 
     <!-- Menu mobile déroulant avec Z-INDEX UNIFIÉ -->
     <div class="hidden md:hidden bg-white/90 backdrop-blur-sm border-t border-slate-200/50 transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay);" id="mobile-menu">
-      <div class="px-8 py-5 space-y-4">
+      <div class="px-4 py-5 space-y-4">
         {{ range .Site.Menus.main }}
           {{ $displayName := .Name }}
           {{ if eq .Identifier "home" }}{{ $displayName = $config.navigation.menu_items.home }}{{ end }}
@@ -121,7 +121,7 @@
 
     <!-- Barre de recherche mobile avec Z-INDEX UNIFIÉ -->
     <div class="hidden md:hidden bg-white/95 backdrop-blur-sm border-t border-slate-200/50 transform transition-all duration-300 ease-in-out" style="z-index: var(--z-overlay);" id="mobile-search">
-      <div class="px-8 py-5">
+      <div class="px-4 py-5">
         <div class="relative">
           <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
             <svg class="h-5 w-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
