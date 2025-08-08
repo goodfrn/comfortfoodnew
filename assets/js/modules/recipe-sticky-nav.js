@@ -11,7 +11,19 @@ export function initStickyNav() {
   })).filter(item => item.element);
   
   const navLinks = document.querySelectorAll('#stickyNav .navLink');
-  
+  // ✅ AJOUT - Gestion des clics avec offset
+  navLinks.forEach(link => {
+    if (link.dataset.target && link.dataset.target !== 'pin') {
+      link.addEventListener('click', function(e) {
+        e.preventDefault();
+        const target = document.getElementById(this.dataset.target);
+        if (target) {
+          const targetPosition = target.offsetTop - 130;
+          window.scrollTo({ top: targetPosition, behavior: 'smooth' });
+        }
+      });
+    }
+  });
   // Throttle pour limiter les calculs
   let ticking = false;
   let currentActive = 'ingredients';
