@@ -2,7 +2,7 @@
 title: "Spinach Ricotta Lasagna Revamp"
 slug: "spinach-ricotta-lasagna"
 description: "Ricotta and spinach layers in a homemade tomato sauce with oregano replaced by thyme, lasagna sheets swapped for whole wheat, finished with smoked gouda and pecorino cheeses instead of parmesan and mozzarella. Cream replaced by whole milk. Cook times shifted slightly to catch all bubbling and browning right. Added a touch of lemon zest to brighten the filling. Leaves you with a hearty, creamy yet slightly tangy bake. Vegetables wilted not mushy, sauce thick enough to cling but not drown. A bit rustic, a bit sharp. Works well frozen at the assembly stage. Ready for a weekend project or a weeknight rescue."
-metaDescription: "Spinach Ricotta Lasagna Revamp swaps oregano for thyme, whole wheat noodles, smoked gouda, pecorino; lemon zest brightens filling, baking cues signal doneness."
+metaDescription: "Spinach Ricotta Lasagna Revamp swaps oregano for thyme, whole wheat noodles, smoked gouda, pecorino; lemon zest brightens filling.. baking cues signal doneness."
 ogDescription: "Layers of spinach ricotta with thyme, smoky gouda, pecorino, whole wheat noodles. Watch bubbling sauce and browned cheese for that chewy, hearty finish."
 focusKeyphrase: "Spinach Ricotta Lasagna"
 date: 2025-08-08
