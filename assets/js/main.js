@@ -3,7 +3,6 @@
 // Import des modules
 import { initSearch } from './modules/search.js';
 import { initContactForm } from './modules/contact-form.js';
-import { initRandomHome } from './modules/random-home.js';
 import { initStickyNav } from './modules/recipe-sticky-nav.js';
 import { initCTAButtons } from './modules/cta-buttons.js';
 
@@ -66,12 +65,7 @@ class App {
   // Modules spécifiques aux pages
   initPageModules() {
     const { pathname } = window.location;
-    
-    // Page d'accueil avec redirection aléatoire
-    if (document.body.dataset.randomRecipes) {
-      this.modules.set('randomHome', initRandomHome());
-    }
-    
+
     // Pages de recettes
     if (pathname.includes('/recipes/') && document.getElementById('stickyNav')) {
       this.modules.set('stickyNav', initStickyNav());
