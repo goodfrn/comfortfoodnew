@@ -1,5 +1,5 @@
 ---
-title: "Kohlrabi Apple Salad Remix"
+title: "Kohlrabi Apple Salad Remix" 
 slug: "kohlrabi-apple-salad-remix"
 description: "Crunchy kohlrabi thinly sliced, tossed with diced pear instead of apple, plus arugula swapped for frisée. Red grapes swapped for halved fresh figs, lending earthiness. Pecorino replaced by shaved Manchego for nuttier notes. Lemon juice cut back slightly; white wine vinegar now apple cider vinegar. Marinated briefly for texture contrast; oil dressing with olive and walnut oil blend for aromatic depth. Salt gently lifts flavors. Quick, bright, textural contrast salad that wakes you up."
 metaDescription: "Kohlrabi Apple Salad Remix swaps apple for pear, figs for grapes, Manchego in place of pecorino—bright, crisp, textured salad with lemon and apple cider vinegar lift."
