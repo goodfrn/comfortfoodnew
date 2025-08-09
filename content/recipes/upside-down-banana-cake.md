@@ -44,7 +44,7 @@ ingredients:
 - "360 ml (1 1/2 cups) all-purpose flour"
 - "8 ml (1 1/2 tsp) baking powder"
 instructions:
-- "1. Set oven to 185 °C (365 °F). Get sturdy 8" tube pan ready. No non-stick layer here — butter base crucial."
+- "1. Set oven to 185 °C (365 °F). Get sturdy 8 tube pan ready. No non-stick layer here — butter base crucial."
 - "2. Beat half softened butter with brown sugar in bowl until creamy, grainy sheen visible, not melted. Press evenly into pan bottom. Now, pile pineapple chunks as base layer, scatter pecans on top. The fruit will bubble and add contrast to dense cake."
 - "3. Mix eggs, almond extract, and milk in separate bowl. Grab wooden spoon or mixer; eggs loosen batter, milk hydrates flour, almond heightens fruit notes."
 - "4. In another vessel, whip remaining butter with granulated sugar, creamy but hold air. Stir in banana purée, add dry flour and baking powder alternated with milk-egg mix. Avoid over-mixing — tender crumb collapses; stop when just combined but no lumps."
