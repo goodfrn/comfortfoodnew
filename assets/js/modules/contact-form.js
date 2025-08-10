@@ -15,7 +15,6 @@ export function initContactForm() {
     ----------------------------------------------------------- */
     if (!form.checkValidity()) {
       status.textContent = 'Merci de remplir tous les champs requis !';
-      form.reportValidity();                            // fait clignoter les champs invalides
       return;
     }
 
