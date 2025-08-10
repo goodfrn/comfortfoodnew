@@ -37,14 +37,14 @@ export function initContactForm() {
       });
 
       if (res.ok) {
-        status.textContent = 'Merci ! Ton message a bien été envoyé.';
+        status.textContent = 'Thank you! Your message has been sent successfully.';
         form.reset();
       } else {
         const { error } = await res.json().catch(() => ({}));
-        status.textContent = error ?? 'Oups ! Une erreur est survenue.';
+        status.textContent = error ?? 'Oops! An error occurred.';
       }
     } catch (_) {
-      status.textContent = 'Impossible d’envoyer le message. Vérifie ta connexion.';
+      status.textContent = 'Failed to send message. Check your internet connection.';
     } finally {
       submitBtn?.removeAttribute('disabled');           // toujours réactiver
     }
