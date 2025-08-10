@@ -1,0 +1,96 @@
+---
+title: "Brunch Salad with Creamy Italian Dressing"
+slug: "brunch-salad-dressing"
+description: "Brunch salad with crunchy savory granola and a creamy herb dressing. Toasted mixed seeds tossed with maple syrup and oil to golden, layered on a crisp lettuce base with feta and egg whites. Avocado wedges add richness. Dressing smooth with Greek yogurt, mayo, fresh herbs, garlic, citrus, and tangy vinegar. Textures contrast, flavors bright yet rich. Granola stays crisp, dressing thick but lively. Simple ingredients with a twist. Adjust timings by eye, bake granola till golden and smelling toasty. Blend dressing until creamy, no lumps. Salad tossed gently to keep leaves intact. Serve with optional Rösti mimosa for added brunch flair."
+metaDescription: "Brunch Salad with creamy Italian dressing, crunchy savory granola, feta, egg whites, avocado wedges. Layered textures, fresh herbs, balanced acidity, crisp leaves. Serve fresh."
+ogDescription: "Crunchy granola, creamy herb dressing, crisp lettuce, feta, egg whites, avocado wedges. Bright, layered Italian-inspired brunch salad to serve fresh and crisp."
+focusKeyphrase: "Brunch Salad with Creamy Italian Dressing"
+date: 2025-08-10
+draft: false
+image: brunch-salad-dressing.png
+author: "Emma"
+prepTime: PT35M
+cookTime: PT30M
+totalTime: PT65M
+recipeYield: "6 servings"
+categories: ["Salads"]
+tags:
+- "brunch"
+- "Italian-inspired"
+- "salad"
+- "granola"
+- "herb dressing"
+- "avocado"
+- "feta"
+- "protein"
+- "easy meals"
+keywords:
+- "brunch salad"
+- "creamy Italian dressing"
+- "savory granola"
+breadcrumb: ["Home", "Recipes", "Salads"]
+nutrition: 
+ calories: "320"
+ fatContent: "25g"
+ carbohydrateContent: "10g"
+ proteinContent: "8g"
+ingredients:
+- "=== Savory Granola ==="
+- "60 g (1/3 cup) pumpkin seeds"
+- "60 g (1/3 cup) sunflower seeds"
+- "25 g (3 tbsp) sesame seeds"
+- "25 ml (1 1/2 tbsp) maple syrup"
+- "15 ml (3 tsp) vegetable oil"
+- "0.5 ml (1/8 tsp) kosher salt"
+- "1 ml (1/4 tsp) cracked black pepper"
+- "=== Dressing ==="
+- "150 ml (2/3 cup) Greek yogurt"
+- "150 ml (2/3 cup) mayonnaise"
+- "1 small garlic clove rough chopped"
+- "8 g (2 tbsp) chopped chives"
+- "35 ml (2 tbsp) chopped basil leaves"
+- "35 ml (2 tbsp) chopped flat-leaf parsley"
+- "12 ml (2 1/2 tsp) fresh lemon juice"
+- "5 ml (1 tsp) granulated sugar"
+- "5 ml (1 tsp) white wine vinegar"
+- "2 ml (1/2 tsp) salt"
+- "=== Salad ==="
+- "5 bibb lettuces or 1 romaine heart torn"
+- "3 hard-cooked egg whites chopped"
+- "70 g (1/2 cup) feta cheese crumbled"
+- "60 to 90 ml (1/4 to 1/3 cup) dressing"
+- "1 firm ripe avocado cut into 10 wedges"
+- "45 ml (3 tbsp) savory granola"
+- "8 g (2 tbsp) chopped chives"
+instructions:
+- "=== Savory Granola ==="
+- "1. Center oven rack and preheat oven to 160°C (320°F). Line baking sheet with parchment or silicone mat."
+- "2. Toss seeds, maple syrup, oil, salt, pepper in bowl until evenly slicked. Spread in thin layer on pan. Oven crackles and smells nutty after 20-25 minutes."
+- "3. Stir granola gently halfway through baking for even toasting. Watch closely last 5 minutes; golden edges signal done. Cool completely on rack to crisp."
+- "4. Granola keeps 3-4 weeks sealed at room temp. Use as needed to maintain crunch."
+- "=== Dressing ==="
+- "5. In blender or food processor, pulse yogurt, mayo, garlic until uniform fine texture. Add herbs, lemon juice, sugar, vinegar, salt. Blend again to creamy consistency without visible herb lumps. Stop once smooth but still speckled green."
+- "6. Taste test; adjust acidity with more lemon or vinegar if muted. Chilling intensifies flavors. Store in airtight container up to 5 days refrigerated."
+- "=== Salad ==="
+- "7. Wash and dry lettuce thoroughly. Tear leaves into bite-sized pieces; no bruising. Place in large bowl."
+- "8. Add chopped egg whites and feta cheese. Gently fold with 50 ml dressing to coat leaves evenly but lightly. Overmixing bruises leaves and softens texture."
+- "9. Divide dressed salad onto plates or serving bowl. Arrange avocado wedges on top. Scatter savory granola for crunch surprise. Sprinkle with fresh chives for brightness."
+- "10. Serve immediately to keep granola crisp and lettuce fresh. Reserve extra dressing for drizzling if desired."
+- "Bonus tip: If pressed for time, use toasted mixed nuts instead of seeds. Substitute sour cream for Greek yogurt but thin dressing with splash water to avoid heaviness."
+- "Optional: Pair with crispy Rösti mimosa on side for hearty brunch combo."
+introduction: "Skipping the usual breakfast drag. Crunchy seeds caramelizing under heat. That aroma fills the kitchen, warm caramel notes cutting through morning chill. Granola not sweet here but savory, salty, toasted to a perfect edge where seeds almost pop. Dressing? Thick spoonable creaminess burbling with fresh herbs and garlic punch. Not your everyday mayo mix — it sings. Tossed salad base crisp and light. Feta throws in sharp saltiness, egg whites add softness without weight. Avocado wedges dripping butter richness, granola scatter adds snap and chew. Brunch but not fussy, approachable and packed with layers of texture and herb brightness. Takes effort but worth every minute; timing adjusted by senses not clocks. Fork dives in, crunch melds with creamy, leafy fold. I’ve done this many ways, this combo nails it — no soggy spoil, no blandness, just lively bites."
+ingredientsNote: "Seed selection matters—fresh pumpkin, sunflower give smoky, slightly sweet base. Sesame seeds brown quickly; watch for color shift but don’t let burn. Maple syrup for balancing bitter nuttiness; honey could work but changes flavor. Vegetable oil neutral; olive oil too strong, overpowering dressing herbs. Salt and pepper crucial here; lack of salt blunts flavor drastically. Dressing uses Greek yogurt for tart cream body; replace with full-fat sour cream but thin with splash water for drizzle ease. Mayo adds fat richness and binds herbs. Herbs best fresh; frozen herbs water down dressing, lose punch. Garlic smell is strong raw, mince roughly to avoid overpowering. Lemon juice brightens but add gradually, acidity masks creamy flavors if too much. Lettuce washed and spun dry, crucial to avoid watery salad. Avocado ripe but firm, no mushy spots else texture spoils. Granola can be stored airtight 3-4 weeks; stale seeds ruin textural game. Make in one batch, no leftovers in fridge. Egg whites limit heavy mouthfeel and layer soft mild protein. Use non-reactive bowls to avoid discoloration of herbs or dairy."
+instructionsNote: "Start with granola prep—timing by eye crucial here. Seeds sizzling, popping aromas fill the room, edges turning gold, slight amber color signals to remove, not full brown or will taste bitter. Stir halfway through to avoid burnt spots. Cool granola on wire rack so steam escapes; soggy granola from trapping heat ruins crunch. Dressing blended smooth but stop before herb bits completely vanish; unevenness adds rustic touch and herb bursts. Garlic chopped coarse to prevent raw harshness; blending smooths intensity. Assemble salad just before serving. Toss gently; bruised leaves brown fast. Add avocado wedges last to maintain shape and color. Sprinkle granola atop right before plating so loses no crunch. Leftover dressing thickens in fridge; stir well when reusing. If salad sits too long, granola softens, and leaves wilt—serve immediately. When mixing, use large bowl to avoid crushing. Rösti mimosa optional, but crisp potato rounds add smoky rhythm to soft, creamy salad. Timing crucial—granola and dressing made ahead, salad assembled last minute. Efficiency tip: prep seeds and dressing day before. Salad prep just before serving for freshness."
+tips:
+- "Watch granola closely near end baking; golden edges give best crunch cues. Stir midway for even toasting. Warm granola traps moisture—cool fully on rack to keep crisp. Overbaking turns bitter fast; smell nutty not burnt. Use fresh seeds; pumpkin, sunflower need to smell vibrant not stale. Maple syrup helps balance bitter notes but honey shifts flavor, test small batch before swapping."
+- "Chilling dressing intensifies flavors; blend yogurt and mayo first smooth, then herbs chopped last keep some texture. Garlic coarse chop slows harsh bite release; blend until creamy but not fully uniform helps herb bursts last longer. Adjust acidity by taste—slowly add lemon juice or vinegar. Overly sharp dressing masks fresh creaminess, so balance key. Store airtight up to five days, stir before use so herbs remix evenly."
+- "Lettuce prep critical. Wash thoroughly, spin dry or pat carefully to avoid watery salad and wilt. Tear leaves gently, bite-size; bruised leaves oxidize fast and discolor. Hold off dressing until just before serving to keep crispness intact. Fold dressing lightly with spatula, not heavy toss to avoid bruising fragile leaves. Avocado wedges last add richness but avoid mushy parts—they spoil texture quickly if overripe."
+- "If pressed for time, swapped toasted nuts work instead of seeds—nuts brown differently so watch closely. Sour cream swap for Greek yogurt adds richness but thin with water splash or dressing thickens too much. Mayonnaise adds fat and binding; homemade differs from store-bought so expect slight taste shifts. Herbs best fresh; frozen herbs add water, dull dressing punch. Rough chop basil, parsley, chives last minute for max aroma."
+- "Granola storing: airtight container, cool dry spot, 3-4 weeks max before stale. Seeds age fast; rancid ruins texture instantly. Baking sheet lining choice affects bake—parchment or silicone mat recommended for easy cleanup and avoiding seed sticking. Serve salad immediately once dressed; leftover dressing thickens in fridge but stir well before use. Granola sprinkled last keeps crunch intact. Optional crispy Rösti mimosa works to add smoky texture contrast."
+faq:
+- "q: How to know granola is done? a: Look for edges golden, not brown. Smell nutty, toasted, not burnt. Oven crackling sound dies down near finish. Stir halfway to avoid uneven spots. Cool fully or it softens dressing and salad leaves."
+- "q: Can I replace Greek yogurt with sour cream? a: Yes but add small water splash to thin dressing. Sour cream richer and heavier; changes mouthfeel. Mayo ratio stays same. Lemon juice might need less. Adjust by taste not recipe exactness."
+- "q: Why does lettuce get soggy fast? a: Mostly water trapped from washing or overdressing early. Spin dry thoroughly, fold dressing just before serving gentle toss only. Bruised torn edges brown and wilt quicker. Use loose leaf types; romaine holds better than bibb in dressing puddles."
+- "q: How to store leftover dressing and granola? a: Dressing airtight jar, fridge up to 5 days; stir before reuse. Granola sealed dry container, room temp 3-4 weeks avoid humidity. Don’t refrigerate granola, moisture ruins crunch. If salad held longer, keep components separate then combine freshly before serving."
+
+---
