@@ -14,7 +14,7 @@ export function initContactForm() {
        1️⃣  Validation simple (HTML5) avant d’envoyer quoi que ce soit
     ----------------------------------------------------------- */
     if (!form.checkValidity()) {
-      status.textContent = 'Merci de remplir tous les champs requis !';
+      status.textContent = 'Please fill in all required fields.';
       return;
     }
 
