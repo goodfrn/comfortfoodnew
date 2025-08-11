@@ -1,0 +1,98 @@
+---
+title: "Neapolitan Pizza Sandwiches"
+slug: "neapolitan-pizza-sandwiches"
+description: "Hand-stretched dough folded with savory fillings, baked on a hot stone for a crisp crust. Parmesan oil brushed twice for savory depth. Ricotta swapped with whipped goat cheese, pistachios replaced by toasted pumpkin seeds for earthiness. Smoked turkey replaces mortadella, arugula swapped with baby kale for bite. Citrus twist via orange zest instead of lemon. Technique focuses on dough handling, quick baking with frequent turns. Visual cues prioritize golden crust, aroma of toasted garlic and rosemary. Practical tips on dough elasticity and quick oil infusion included. Oven time adjusted with 3–4 minute bake, balancing chew and char."
+metaDescription: "Neapolitan Pizza Sandwiches hand-stretched dough folded with savory fillings, baked on a hot stone. Parmesan oil brushed twice adds deep savory notes."
+ogDescription: "Quick Neapolitan Pizza Sandwiches with whipped goat cheese, toasted pumpkin seeds, smoked turkey, and baby kale. Crisp crust, fragrant garlic-rosemary oil."
+focusKeyphrase: "Neapolitan Pizza Sandwiches"
+date: 2025-08-11
+draft: false
+image: neapolitan-pizza-sandwiches.png
+author: "Emma"
+prepTime: PT25M
+cookTime: PT15M
+totalTime: PT40M
+recipeYield: "4 servings"
+categories: ["Sandwiches and Wraps"]
+tags:
+- "Italian influenced"
+- "handheld"
+- "savory sandwiches"
+- "dough handling"
+- "quick bake"
+keywords:
+- "pizza sandwiches"
+- "whipped goat cheese"
+- "toasted pumpkin seeds"
+breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
+nutrition: 
+ calories: "420"
+ fatContent: "28g"
+ carbohydrateContent: "28g"
+ proteinContent: "17g"
+ingredients:
+- "=== Parmesan oil ==="
+- "100 ml olive oil"
+- "12 g grated fresh Parmesan cheese"
+- "3 garlic cloves minced"
+- "12 ml chopped fresh rosemary"
+- "1 ml crushed red pepper flakes"
+- ""
+- "=== Pizza sandwiches ==="
+- "4 hand-stretched pizza dough balls"
+- "230 ml whipped goat cheese (softened)"
+- "30 g toasted pumpkin seeds coarsely chopped"
+- "1 orange zest finely grated"
+- "200 g smoked turkey thinly sliced"
+- "40 g baby kale leaves"
+instructions:
+- "=== Preparing the oven and oil ==="
+- "Heat pizza oven or stone to high, about 30 min with door shut. Aim for a glowing hot deck; you want quick crust blistering without drying the dough."
+- "Whisk olive oil, Parmesan, garlic, rosemary, and crushed pepper together. Season lightly; Parmesan brings saltiness. Set aside for at least 15 minutes. Garlic and rosemary infuse slowly, so prep early."
+- ""
+- "=== Dough & assembly ==="
+- "Flour counter lightly. Stretch one dough ball to ~26 cm diameter. Work quickly but gently to keep air bubbles intact. Excess flour will burn; brush some off carefully."
+- "Brush this dough round with half the parmesan oil evenly—this locks moisture, adds flavor layers. Fold dough over to make a semicircle. Seal edges by pressing firmly."
+- "Transfer sandwich onto a floured pizza peel."
+- ""
+- "=== Baking ==="
+- "Slide sandwich onto hot stone. Bake 3–4 minutes, rotate every minute to prevent hotspots. Watch the crust: golden with small dark spots, bubbly texture indicates readiness. If edge turns too dark fast, lower temp next round."
+- "Remove carefully with peel. Place on work surface, let cool 2 min to avoid filling meltdown."
+- ""
+- "=== Final layering ==="
+- "Open sandwich carefully without tearing. Brush remaining parmesan oil inside—adds moisture and richness."
+- "Spread generous layer of whipped goat cheese. Sprinkle pumpkin seeds and orange zest for crunch and zing."
+- "Add smoked turkey slices evenly; finish with handful of baby kale for peppery freshness."
+- "Fold closed, slice in half with a sharp knife. Serve warm or at room temp."
+- ""
+- "=== Tips and substitutions ==="
+- "Goat cheese adds tang and lightness compared to ricotta—nice twist if you enjoy complexity. Pumpkin seeds can be swapped with chopped walnuts or almonds for texture. Smoked turkey simulates mortadella's fatty savoriness but lighter; prosciutto or soppressata work too."
+- "Baby kale stands up better than arugula to heat but you can revert if preferred."
+- "If you lack a pizza stone, preheat heavy baking sheet, baking time might be a bit longer; watch crust color closely."
+- "For dough issues—if sticky, chill briefly or dust hands sparsely with flour. Avoid over-flouring dough surface to maintain crispness."
+- "Oil infusion step improves aroma and binding of flavors; don’t skip or reduce garlic/rosemary intensity—flavor anchors here."
+- "The fold seals in steam, giving a delicate airy inside. If crust is tough, likely overbaked or dough stretched too thin."
+- "Experiment with zest and seed combos; lime zest can brighten for summer; toasted sesame seeds add nuttiness."
+- "Keep rotating during bake for uniform color and blistering—hot spots are enemy of balance."
+- ""
+- "=== Storage and reheating ==="
+- "Sandwiches are best fresh but can be wrapped and stored in fridge up to 2 days. Reheat in toaster oven or skillet to bring crisp texture back; microwave yields soggy crust."
+- ""
+- "Keep an eye on baking time, dough thickness, and your oven quirks. Smell is key—aroma of toasted garlic and rosemary tells you when to pull out. Crisp golden crust with supple interior texture is your goal, no burnt edges."
+- "Salty-sweet mix from cheese and citrus zest contrast with savory turkey and fresh green bite. Texture is crunch from seeds, softness from cheese, chew from crust. A layered bite, complex despite its simplicity."
+introduction: "Started messing around with these pizza sandwiches when craving something handheld but more interesting than your average sub. Found ricotta a bit bland so switched to whipped goat cheese—gives this slight tang and lighter mouthfeel. Toasted pumpkin seeds for crunch instead of pistachios; cheaper, nuttier, and super easy to toast on stove. Smoked turkey swapped in; closer to deli meats I had on hand but holds flavor without overpowering. Added orange zest over lemon for a floral note that rose above thyme or rosemary. Quick bakings, 3-4 minutes with rotations—watch dough for blistering not overburns. Oil brushing techniques worth emphasizing to maintain moist crust in heat. Essential to let sandwiches cool a few before folding back—avoids tear and cheesy meltdown. Baby kale sturdy enough for heat, better than arugula here. The smell wafting from garlic-rosemary oil toasting hits a solid high point before baking even done. Fast, vibrant, packed with texture. Just the way I like it."
+ingredientsNote: "Olive oil is your foundation for the parmesan oil—extra virgin for best flavor but plain works okay too. Parmesan cheese grated finely to release umami fully without gritty texture—freshly grated always, no pregrated. Garlic minced very fine to avoid harsh bites or burnt bits. Fresh rosemary, ideally stripped from stems and finely chopped to evenly disperse flavor. Crushed red pepper flakes: controlled since too much can overpower pizza sandwich. Dough—homemade or good quality store bought, but hand-stretched is the goal. Thickness matters: too thin and it crisps to cracker, too thick and everything takes forever to cook properly. Whipped goat cheese preferred here for tang and lighter texture versus ricotta’s density—room temp helps spreading. If allergic or avoiding dairy? Use a cashew-based spread or mild hummus as alternative—different profile but creamy. Toasted pumpkin seeds for crunch and depth, replacing pistachios which are richer but more costly. Toast lightly on dry pan; smell is your guide. Smoked turkey introduces a warm, savory note, close substitute for mortadella; prosciutto or speck possible. Baby kale stands up to heat more than arugula, which wilts and can get slimy. Zest from orange adds fragrance distinct from lemon but lemon works well if preferred. Keep all ingredients fresh, herbaceous and vibrant—this sandwich relies on freshness to sing. Salt and pepper added sparingly—mostly rely on parmesan and cured meats seasoning."
+instructionsNote: "Heating the pizza oven properly is non-negotiable; too low and crust turns leathery, too hot and dough burns before inside cooks. Aim for glowing heat and hot stone. Infusing the oil with garlic and rosemary takes time, so get this going early to maximize aroma; fresh herbs behave differently from dried—hold off adding salt till end to avoid broken emulsion. Dough stretching is art and science: flour surface just enough; too much creates dry burnt spots. Handle dough gently to preserve bubbles—trapping air yields lighter crust. Brush half the oil before folding—it locks moisture and adds a protective barrier against drying, then fold into semicircle and seal edges firmly to prevent fillings leaking during baking. Bake with frequent rotations; each oven is different, so don't rely on clock alone. Look for golden crust with random dark spots, bubbly texture; hot stone crackling sounds can signal high heat. Open carefully after baking; dough will be hot and pliable but fragile. Brush with remaining oil inside—important for moisture and boosting flavor continuity. Spread whipped goat cheese evenly for smooth layer, sprinkle pumpkin seeds and zest right after so oil captures their aroma. Layer smoked turkey neatly to prevent overfilling; baby kale last for texture and freshness. Fold gently and slice with a sharp serrated knife to avoid squashing sandwich. Serve soon for best texture. If leftovers, reheating crispy crust is tricky—skillet reheating preferred over microwave which soggifies. Watch oil doses, garlic finely minced to avoid burnt bits, dough elasticity, and baking visually for great results. The folding technique traps steam and keeps inside soft while crust crisps. Experiment with zest and seed swaps, but keep balance intact. Timing varies with dough thickness and oven power—trust your eyes, nose, and finger tap on crust for doneness."
+tips:
+- "Heat that stone real good—30 min with door closed. You want glowing deck not simmering ember. Dough blisters best when smoke and crackle start, no drying out. Frequent rotation stops hot spots, watch crust color; bubble texture means good chew inside."
+- "Oil infusion needs time. Garlic minced fine or it burns. Rosemary chopped small for even spread. Mix oil and Parmesan just before use or broken emulsion happens. Brush half on dough before fold—locks moisture, avoids dryness, seals flavor in sandwich every layer matters."
+- "Dough stretching—flour sparingly. Too much burns fast, too little sticks like glue. Keep bubbles intact or sandwich turns dense. Fold gently but seal firm, edges must hold or fillings leak and burn on stone. Serrated knife for slicing, prevents squash, messy sandwich no fun."
+- "Pumpkin seeds toasted dry pan, smell guides timing. Substitute chopped walnuts or almonds for different crunch, even sunflower for budget. Goat cheese gives tang and lightness, swap for cashew spread if dairy-free but texture changes. Orange zest cuts through richness better than lemon, try lime for summer tweak."
+- "Oven quirks matter. No stone? Heavy baking sheet works though longer bake needed. Watch time 3, then 4 minutes max. Edge darkens too fast? Lower heat. Let sandwich cool 2 min before refolding; hot cheese melts out, tears dough integrity. Reheat in skillet preferred; microwave ruins crisp."
+faq:
+- "q: How do I know when stone is ready? a: Wait for visible glow—red-hot deck, crackling sound—not just warm. Door shut traps heat. Flick flour drop; quick brown means ready. No burn means not hot enough."
+- "q: Can I substitute smoked turkey? a: Yes; prosciutto, soppressata, or speck bring similar fat and savor. Turkey lighter, less oily. Adjust salt since cured meats vary. Pick what suits taste or fridge stock, keep thin slices for even bake."
+- "q: Dough sticks or tears during fold? a: Flour counter lightly. Dough temper room warm helps stretch elasticity. Avoid over-stretching thin zones. Brush edges with oil to seal better. Chill sticky dough briefly, dust hands sparsely, not overdo or burn risk."
+- "q: How to store leftovers? a: Wrap tight, fridge up to 2 days max or sandwich sogs out. Reheat on skillet for crisp restoration. Microwave kills crust texture quick. Alternatively, oven toaster for few minutes, but watch carefully—not too hot or burn."
+
+---
