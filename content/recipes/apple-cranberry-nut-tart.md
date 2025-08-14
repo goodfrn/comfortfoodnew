@@ -45,7 +45,7 @@ instructions:
 - "1 In a bowl combine pecans chopped apricots and flour. Hold aside."
 - "2 Brown butter in a heavy skillet over medium heat. Swirling; once foam settles, add coconut sugar. It should bubble, thicken 2-3 minutes. Before burning, toss in sliced apples. Stir gently, soften 4-5 minutes. Apples will glisten but retain some shape. Sprinkle cinnamon. Toss in nut mixture, fold to coat. Remove from heat; cool slightly."
 - "3 Position oven rack low to bottom third. Preheat oven to 190°C 375°F."
-- "4 Roll one crust into a 9" tart pan. Press carefully, patch thin spots to avoid leaks. Fill with apple mixture evenly. Coat edges lightly with milk."
+- "4 Roll one crust into a 9 tart pan. Press carefully, patch thin spots to avoid leaks. Fill with apple mixture evenly. Coat edges lightly with milk."
 - "5 Cut second crust into 2 cm 3/4 inch strips. Brush milk on each. Weave lattice over filling tightly, sealing all edges neatly by pinching or using fork tines to avoid puffing or shrinks. Trim excess dough carefully."
 - "6 Set tart on rimmed baking sheet to catch drips; tart can bubble over. Bake 42-45 minutes. Crust will brown golden but watch—darker spots signal near done. Filling will bubble and spill slightly, almost jammy but still fresh-tasting. Cool on rack; flavors settle while tart firms."
 - "7 Serve warm or cooled for firmer slices."
