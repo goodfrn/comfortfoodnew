@@ -1,0 +1,97 @@
+---
+title: "Chocolate Swirl Babka"
+slug: "chocolate-swirled-babka"
+description: "Yeasted brioche dough with dark chocolate and espresso filling, twisted and baked in a loaf pan. Uses bread flour and coconut sugar for depth, swaps corn syrup for honey. A rich, tender crumb with pronounced chocolate aroma and a hint of coffee bitterness. Texture tender but firm. A glossy egg wash finish. Perfect for morning coffee or afternoon snack. Yielding 8 slices with moderate sweetness and balanced bitterness. Baking time varies by oven; cues include deep golden crust and crackling sound when tapping the loaf."
+metaDescription: "Chocolate Swirl Babka with rich cocoa filling and espresso notes. Tender crumb, sticky dough, fold edges to trap filling. Bake till crackle, golden sheen."
+ogDescription: "Tender babka, dark chocolate chunks, espresso depth. Sticky dough, folded edges trap filling. Listen for crackle, bake golden sheen, slice after cooling."
+focusKeyphrase: "Chocolate Swirl Babka"
+date: 2025-08-16
+draft: false
+image: chocolate-swirled-babka.png
+author: "Emma"
+prepTime: PT35M
+cookTime: PT40M
+totalTime: PT1H15M
+recipeYield: "8 servings"
+categories: ["Breakfast"]
+tags:
+- "yeast bread"
+- "chocolate"
+- "espresso"
+- "baking tips"
+- "folded dough"
+- "breakfast"
+- "snack"
+keywords:
+- "babka"
+- "chocolate bread"
+- "espresso powder"
+breadcrumb: ["Home", "Recipes", "Breakfast"]
+nutrition: 
+ calories: "420"
+ fatContent: "18"
+ carbohydrateContent: "55"
+ proteinContent: "7"
+ingredients:
+- "=== Dough ==="
+- "480 ml bread flour (about 2 cups plus 2 tablespoons)"
+- "1.5 ml fine sea salt (1/3 teaspoon)"
+- "130 ml warm oat milk (just under 1/2 cup)"
+- "25 ml coconut sugar (approx 1 1/2 tablespoons)"
+- "4 ml instant yeast (a scant teaspoon)"
+- "2 eggs at room temp"
+- "140 ml unsalted butter, softened, diced"
+- "=== Filling ==="
+- "30 ml melted butter"
+- "25 ml cacao powder (dark Dutch-processed if possible)"
+- "30 ml honey (liquid, raw if you have, replaces corn syrup)"
+- "100 ml bittersweet chocolate chunks (rough chopped, about 1/2 cup)"
+- "1 tsp instant espresso powder (optional, adds depth)"
+- "=== Egg wash ==="
+- "1 egg"
+- "15 ml water (1 tablespoon)"
+instructions:
+- "=== Dough Preparation ==="
+- "Warm oat milk until lukewarm, about body temperature. Milk temp matters; too hot kills yeast, too cold slows rise. In mixing bowl, combine bread flour and salt evenly. Make well in center."
+- "Add warm milk, sprinkle yeast and coconut sugar over surface—not stirred—let bloom for 3 minutes until frothy. Crack eggs into well, start kneading with paddle or by hand for 2 minutes, sticky mass forms."
+- "Add softened butter cubes gradually. Knead until dough smooth; 3–5 minutes total. Sticky but elastic, soft tug without tearing. Dump into lightly oiled bowl, cover with plastic wrap or damp towel. Place in warm spot for 1 hour or until doubled. Watch rise, not clock. Humidity helps; fridge slows rise dramatically."
+- "=== Filling and Rolling ==="
+- "Butter a 24 x 10 cm loaf pan thoroughly. Oven rack in middle."
+- "Mix melted butter, cacao powder, honey, and espresso powder into a spreadable paste. Dark, shiny, fragrant with deep cacao aroma."
+- "Turn risen dough onto floured surface, punch gently to deflate. Roll into rectangle about 45 x 20 cm (18 x 8 inches). Spread chocolate mix evenly but leave a 1 cm edge bare to prevent leaks. Hands messy, resist licking now."
+- "Sprinkle chocolate chunks evenly over paste. Fold sides towards center overlapping slightly. Unlike single roll, fold edges into center—two flaps meeting—to trap filling better."
+- "Place folded dough seam down in greased pan. Cover loosely with plastic wrap or damp towel. Set aside to proof 25–35 minutes until dough puffs past rim about 2 cm. Ambient temp affects timing heavily."
+- "=== Baking and Finishing ==="
+- "Preheat oven to 175°C (347°F). Oven hotness varies; use visual cues."
+- "Beat egg with water fluidly; brush carefully over dough. Not too thick or it flakes. Gives that golden sheen you want."
+- "Bake 35–40 minutes. Don’t panic if crust browns quickly; can tent with foil midway. Listen for soft crackle as loaf cools. Toothpick test inside should emerge with a few moist crumbs—not wet dough."
+- "Let cool in pan 15 minutes before removing. Warm crumb but hold shape; slicing hot causes collapsing."
+- "=== Notes & Tips ==="
+- "Bread flour gives stronger crumb. Oat milk adds slight sweetness and moisture, works well if dairy sensitive."
+- "Coconut sugar deepens caramel notes versus white sugar; swap back if unavailable."
+- "Honey replaces corn syrup; less glossy but more flavor complexity. Watch spreadability, heat butter enough."
+- "Espresso powder optional but don’t skip if you like chocolate complexity."
+- "If dough sticks too much during shaping, chill briefly or dust lightly; too much flour toughens crumb."
+- "Watch proofing carefully; over-proofed dough deflates in oven, under-proofed dense crumb."
+- "Egg wash ensures color and slight crunch. Can add pinch of salt or cinnamon for twist."
+- "Chocolate chunks melt unevenly, gives pockets of gooey goodness. Mini chips less dramatic."
+- "Use high-quality dark chocolate for filling; bitter notes offset sugar."
+- "If oven unreliable, use thermal probe; loaf internal temp ~92°C (197°F) when done."
+- "Cool completely for best slicing; warm slices tear easily. Alternatively, slice warm and toast."
+- "Leftover babka holds 3 days covered, reheat before serving. Wrapping tight prevents drying."
+introduction: "Babka revisited. Past attempts with plain sugar gave dullness; coconut sugar added an unexpected toasted profile. Switched oat milk for creamier crumb, no dairy fuss. Honey instead of corn syrup keeps filling sticky but adds floral notes; careful warming needed or honey's too thick to spread evenly—heat butter more if needed. Fold edges inward to trap filling better; learned from too-messy ooze last time. The dough’s sticky; patience kneading vital—gloves help, or wet hands for less mess. Hold off slicing hot; it’s a wreck if crumb’s too tender. Listen for the deep crackle after baking, that’s the secret sign of done. Espresso powder optional but worth it; draws out chocolate’s known bitterness, no more one-note sweetness. So many tweaks but it’s worth probing dough feel and timing per your kitchen environment."
+ingredientsNote: "Use bread flour if you want stronger gluten framework; all-purpose okay but denser crumb. Salt isn’t negotiable—balances sweetness. Yeast quantity slightly reduced to adjust for sugar type; coconut sugar ferments differently—tastes better but slower rise sometimes. Oat milk chosen for mellow flavor and extra moisture; cow’s milk works but adjust liquid slightly if richer milk. Butter room temp, not melted—a common blunder leads to greasy dough or poor gluten development. Honey demands gentle warming; avoid overheating or it caramelizes prematurely. Cocoa powder best Dutch-process for dark color and less acidity, but not mandatory. Espresso powder dried instant; too much and it dominates—just a teaspoon. Chocolate chunks lure molten pockets, mini-chips lack surprise texture. Egg wash with water thins the glaze; milk adds richness but risks too much browning."
+instructionsNote: "Forget strict timing; proof by eye and touch. Dough should double—not triple or triple—feel pillowy, not overly soft. Kneading crucial; dough’s sticky at first but will smooth, indicating developed gluten. Flour sparingly while rolling; too much chokes crumb. Heating filling butter just enough allows better spread; test by rubbing cocoa paste between fingers—it should spread without tearing dough. Folding by rolling edges inward differs from rolling log; helps human-proof filling spill. Proof in warm draft-free spot; a bit of humidity speeds rise. Egg wash evenly; avoid pooling which can burn. Baking color varies—medium-dark amber crust signals done, not scorched black. For sour-dough or natural starters swap yeast for adjusted ferment time; keep dough hydration to mimic pointer texture. Remove promptly from pan to cool on rack prevents sogginess. Slice with serrated blade—press gently, no sawing. Hot slices collapse; patience pays."
+tips:
+- "Dough sticky at start, patience kneading key. Use wet hands or gloves. Butter softened, not melted; melted butter ruins gluten. Knead 3 to 5 minutes till smooth but don’t overdo. Watch dough feel, not clock. Sticky but elastic is what you want, tug gently—if it tears, knead some more."
+- "Filling spread needs right thickness; heat butter just enough to loosen cocoa paste. Too hot and honey caramelizes, too cold and paste tears dough. Rub between fingers test. Leave 1 cm bare edges; prevents ooze. Fold edges inward, two flaps meet center. Traps filling better than rolling like jelly roll. Keeps chunks inside pockets—less mess when baking."
+- "Proof dough in warm, draft-free spot. Around one hour or until doubled—not triple. Fridge slows rise dramatically, humidity helps rise swell. Watch dough puff 2 cm over pan rim when shaped, that’s your proof end point. Under-proof means dense crumb, over-proof dough deflates in oven causing flat crust and dry crumb."
+- "Egg wash needs thin consistency; beat egg with water fluidly. Avoid thick globs or pooling—burns easily. Brush gently and evenly, gives glossy amber sheen and slight crunch crust. Skip milk addition if you want less browning. Bake 35 to 40 minutes, listen for soft crackling as loaf cools. That sound tells done, crumb still moist but set."
+- "Chill dough briefly if too sticky during shaping. Add flour sparingly, too much toughens crumb. Use serrated blade to slice after cooling 15 minutes in pan. Slicing hot collapses crumb. Chocolate chunks melt unevenly—mini chips less impact but easier shaping. Espresso powder optional but drawn bitterness balances sweetness; don’t skip if you prefer complexity."
+faq:
+- "q: How to handle sticky dough? a: Use wet hands or gloves. Knead enough for elasticity. Too dry flour ruins crumb. Sticky at first normal. Knead till smooth and slightly tacky. Don’t overload flour or crumb tough."
+- "q: Can I substitute oat milk? a: Cow’s milk works but reduce liquid a little. Almond or soy might change texture slightly. Oat milk adds sweetness and moisture. Adjust hydration if needed. Butter temp matters more than milk swap."
+- "q: What causes dough to not rise enough? a: Too hot milk kills yeast; too cold slows rise. Low humidity or cold spot inside kitchen slows proof. Under-proofed dough makes dense, heavy crumb and poor oven spring. Watch for dough doubling, not clock time."
+- "q: How to store leftovers? a: Keep covered at room temp up to 3 days. Wrap tight to avoid drying. Refrigerate if room too warm but expect slight crumb drying. Reheat slices before eating for softer texture. Freezing an option; thaw fully before warming."
+
+---
