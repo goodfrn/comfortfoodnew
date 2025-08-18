@@ -1,0 +1,95 @@
+---
+title: "Hansel Gretel Cake House"
+slug: "hansel-gretel-cake"
+description: "A layered chocolate cake built like a fairy tale house. Uses cocoa and a touch of espresso powder for depth. Butter replaced partly with oil to soften texture. Baked in square and loaf pans for structure. Vanilla swapped for almond extract, adds a twist. Frosting thickened with cream cheese for tang and stability. Candy decorations optional but classic for charm. Requires eyes on batter and layers to avoid dryness. Assembly needs patience and steady hands to hold the roof. Serves sixteen, a crowd pleaser with a rustic, homemade vibe."
+metaDescription: "Hansel Gretel Cake House layers chocolate and almond notes with oil and butter balance, espresso hints, and cream cheese frosting for a rustic crowd-pleaser."
+ogDescription: "Stacked chocolate-almond layers with a tangy cream cheese frost, espresso whispers, and candy accents. Moist crumb meets sturdy house form, patience required."
+focusKeyphrase: "Hansel Gretel Cake House"
+date: 2025-08-18
+draft: false
+image: hansel-gretel-cake.png
+author: "Emma"
+prepTime: PT45M
+cookTime: PT35M
+totalTime: PT1H20M
+recipeYield: "16 servings"
+categories: ["Desserts"]
+tags:
+- "chocolate cake"
+- "layered cake"
+- "cream cheese frosting"
+- "French-inspired dessert"
+- "holiday baking"
+- "fairy tale dessert"
+keywords:
+- "layered chocolate cake"
+- "almond extract dessert"
+- "espresso powder in cake"
+breadcrumb: ["Home", "Recipes", "Desserts"]
+nutrition: 
+ calories: "370"
+ fatContent: "20g"
+ carbohydrateContent: "45g"
+ proteinContent: "5g"
+ingredients:
+- "=== Cake ==="
+- "200 ml softened unsalted butter"
+- "250 ml vegetable oil"
+- "400 ml granulated sugar"
+- "8 ml almond extract"
+- "4 large eggs"
+- "525 ml all-purpose flour"
+- "15 ml baking powder"
+- "125 ml unsweetened cocoa powder"
+- "1 pinch salt"
+- "375 ml whole milk"
+- "5 ml espresso powder (optional)"
+- "=== Frosting ==="
+- "750 ml powdered sugar"
+- "120 ml cream cheese softened"
+- "60 ml heavy cream 35%"
+- "Assorted colorful candies for decoration, e.g., jelly beans, licorice strips, candy canes"
+instructions:
+- "=== Prepare Cake ==="
+- "Preheat oven to 175°C. Grease two 20 cm square pans and one 20 x 10 cm loaf pan; oil preferred for easy release."
+- "In a large bowl, beat butter, oil, and sugar until fluffy. Incorporate almond extract."
+- "Add eggs one by one, beating well after each. Batter looks glossy and thick."
+- "Sift flour, baking powder, salt, and cocoa; fold into batter alternating with milk. End with dry ingredients."
+- "Dissolve espresso powder in milk before adding if using. Gives chocolate a subtle richness."
+- "Divide batter evenly in pans. Level with spatula, tap pans gently to remove air bubbles."
+- "Bake in center rack for 28–33 minutes, test with a skewer for clean exit but moist crumbs. Avoid overbaking or dryness sets in."
+- "Cool cakes in pans for 10 minutes. Run a knife around edges, invert onto racks until fully cool. Firm but tender texture is goal."
+- "=== Frosting ==="
+- "Beat cream cheese and cream until creamy but not runny."
+- "Gradually add powdered sugar, whip until smooth, thick enough to spread but still light."
+- "Chill briefly if too soft. Frosting handles like a spreadable mousse."
+- "=== Assembly ==="
+- "Trim cake tops lightly to even surfaces. Three square cakes form house walls. Stack each layer with frosting in between; press gently but firmly."
+- "Slice loaf cake diagonal into two triangles for roof. Spread frosting on angled sides, sandwich pieces to create roof peak."
+- "Attach roof atop stacked squares with more frosting as glue."
+- "Use remaining frosting to cover exterior—patch any cracks—that helps candies stick and seals moisture."
+- "Decorate with bright candies to mimic windows, doors, rooftops. Licorice sticks make strong edges but use sparingly to avoid overpowering sweetness."
+- "Refrigerate 30 min to firm up before cutting. Room temp softens frosting fast."
+- "=== Tips and possible fixes ==="
+- "If batter feels too dense, a splash more milk loosens. Overmixed batter toughens cake—fold gently."
+- "Butter/oil combo balances flavor and texture; fully oil makes crumb heavier."
+- "Watch oven vents and placement; uneven baking skews layers."
+- "Frosting too soft? Chill, then remix with sugar or add a pinch of cornstarch."
+- "Candy melts? Pat dry frosting surface or refrigerate first."
+- "Store leftovers covered, frosting protects cake moisture."
+introduction: "Chocolate cake? Yes. But also a house. The aroma of chocolate and almond swirling early on hints at something richer than usual. Butter and oil together—not a mistake but a shortcut I learned from too crumbly attempts. Think layers that stick but don't fall apart. Espresso powder? Just a whisper, wakes the cocoa without coffee bitterness. Frosting with cream cheese adds tang and steadiness, less like glue more like delicious mortar. Candy decorations from the childhood stash bring color and personality. Watch oven temps closely. Too hot, edges dry before center cooks. Patience stacking—crumbly cake hates rough hands, be gentle and use frosting as your glue. After construction, refrigerate or it softens too fast. Serve outdoors if possible. Humidity kills crisp textures."
+ingredientsNote: "Switched half butter to vegetable oil; helps the cake stay moist longer but expect a softer crumb and slightly different mouthfeel. Almond extract replaces vanilla for a nutty but not overpowering aroma. Espresso powder is optional but really sharpens chocolate notes. Flour amount cut by 30%, otherwise browning risk increases, cake gets dry or dense. Use fresh baking powder; old batches mean flat cake and heavy layers. For frosting, cream cheese makes it tangy and thick, better than pure buttercream that’s too sweet and runny here; tempered heavy cream adds loft. If cream cheese unavailable, mascarpone or Greek yogurt thickened with powdered sugar can work but expect different texture. Candy decorations are classic but chewy fruit pieces also work, as do nuts if no allergy concerns. Pan choice matters; loaf pan roof angles well, squares make sturdier walls for stacking."
+instructionsNote: "Start preheating promptly, oven temp fluctuates so check often. Greasing pans with oil eases cake release, wax paper liners can over-moisturize bottom layers—skip them. Beat butter and sugar thoroughly until pale, grainy bits dissolve; dull beaters or cold butter spoil creaminess and cake density. Eggs one at a time prevents separation; important for batter texture. Alternate flour and milk gently, fold to trap air. Espresso powder blooms when dissolved into milk first, otherwise grainy flavor. Test cake readiness by toothpick but focus on scent and color—edges pull away slightly, center springs back. Cooling in pan locks steam, influencing moistness; after 10 mins invert as cake firms up faster. Frosting needs some chill time when warm to prevent sliding off cake surfaces during assembly. Decorate after crumb coat sets, otherwise candy sinks. Let cake rest to develop flavor—better the next day. Store airtight to avoid drying out."
+tips:
+- "Butter and oil blend strange first but works. Half softened butter for flavor, half veg oil for moist crumb. You lose a bit of structure; expect softer feel, crumb more tender. Watch batter density, add splash milk if thick spots appear. Folding dry ingredients with milk alternated traps air. Don’t overmix here or crumb firms ugly."
+- "Eggs add one at a time no rush. Helps emulsify better, keeps batter glossy slick. Batter feels alive, light but thick. Skip cold eggs; slow temp kills rise. Espresso powder blooms in milk first. Skip dry adding—the bitter dust ruins smooth cocoa notes. Always test center with toothpick; moist crumbs not wet mess."
+- "Pan greasing with oil best, skip wax paper liners—they lock moisture too much, cake soggy bottom layer. Bake on center rack; uneven oven ruins layers. If edges shrivel early, oven too hot or vent blocked. Tap pans gently after filling; air bubbles ruin crumb, cause rough texture. Cool cakes in pan till firm, ten minutes tops, then invert fast. Steam inside holds softness."
+- "Cream cheese frosting thick but not stiff. Beat cream to lightly whipped, then cream cheese smooth. Add sugar gradually. Chill if floppy or warm kitchen, frosting runs off cake easily. Mascarpone or Greek yogurt swaps okay but texture shifts. Heavy cream adds lightness punch; skip or cut back if frost too loose. Candy melts? Pat dry frosting or refrigerate cake before."
+- "Assembly tricky. Trim tops for flat walls first; three squares stack stable. Loaf cut diagonal into roof triangles. Frost angled edges to glue, hold steady 'till set. Exterior frosting spreads thick, patches cracks—candies stick better this way. Skip overloading licorice sticks; flavor dominates quick. Refrigerate fully 30 min minimum before slicing. Room temp too soft, catastrophe follows."
+faq:
+- "q: How to fix dry cake? a: Add splash milk next batch, batter too thick means dry crumb. Fold gently, avoid overmix. Oven timing critical; test often with skewer. Oven hot spots can brown edges fast. Try swapping old baking powder; stale kills rise."
+- "q: Can I omit espresso powder? a: Yes, but loses subtle chocolate depth. Add coffee extract if you want same effect. Skip completely means flavor flattens. Cocoa can taste duller without that faint bitterness. For kids, omit safely; taste simpler but not worse."
+- "q: Frosting too runny, what now? a: Chill then remix with powdered sugar slowly. Cornstarch pinch stabilizes but can dull flavor. Cream cheese temp matters—too warm melts frosting slow. Beat cream firmer for body. Mascarpone or thick yogurt alternative but expect looser texture overall."
+- "q: How to store leftovers? a: Wrap tight, fridge best to avoid drying. Room temp only if short term. Avoid cling wrap touching frost or candy melts might stick weird. Freeze slices wrapped airtight, thaw gently. Candy can soften stored with moisture. Cover cake fully or frost crust dries fast."
+
+---
