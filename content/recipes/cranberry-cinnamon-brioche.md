@@ -1,0 +1,96 @@
+---
+title: "Cranberry Cinnamon Brioche Crown"
+slug: "cranberry-cinnamon-brioche"
+description: "A rich brioche woven into a ring filled with tart cranberries simmered in cinnamon syrup. Yeast dough slow-chilled overnight for flavor depth and texture. Dough kiln-soft butter and eggs create tender crumb. Filling bubbling with fresh cranberries, spiced warm; some crushed for rustic bite. Braided crown shaped around ramekin, proofed till puffed, golden as toasted sugar sprinkles. Baking releases cinnamon notes, glossy crust cracks slightly. A twist replaces water with orange juice, pepped with a hint of cardamom in syrup, elevating aroma and zing. Uncomplicated steps yet demands intuition for dough softness, proof rise, and doneness cues. Even crumb and balanced tart-sweet finish guaranteed. Twelve slices, perfect as breakfast treat or teatime’s star."
+metaDescription: "Cranberry Cinnamon Brioche Crown braided and baked golden with tart cranberry-cinnamon filling, orange juice swap, proofing cues, layered textures, scent hints."
+ogDescription: "Braided brioche ring filled with tart-sweet cranberries simmered in cinnamon syrup, proofed slow. Orange juice lifts flavors, crust crackles, aroma fills kitchen."
+focusKeyphrase: "Cranberry Cinnamon Brioche Crown"
+date: 2025-09-27
+draft: false
+image: cranberry-cinnamon-brioche.png
+author: "Emma"
+prepTime: PT55M
+cookTime: PT28M
+totalTime: PT1H45M
+recipeYield: "12 servings"
+categories: ["Breakfast"]
+tags:
+- "French baking"
+- "braided bread"
+- "cinnamon recipes"
+- "cranberries"
+- "yeast bread"
+keywords:
+- "brioche bread"
+- "cranberry filling"
+- "yeast dough tips"
+breadcrumb: ["Home", "Recipes", "Breakfast"]
+nutrition: 
+ calories: "290"
+ fatContent: "12g"
+ carbohydrateContent: "38g"
+ proteinContent: "6g"
+ingredients:
+- "=== Brioche dough ==="
+- "125 ml (1/2 cup and 1 tbsp) lukewarm water replaced by fresh orange juice"
+- "7 ml (1 1/4 tsp) instant yeast"
+- "460 g (3 cups and 2 tbsp) unbleached all-purpose flour"
+- "50 g (1/5 cup) sugar"
+- "6 ml (1 1/4 tsp) salt"
+- "75 ml (1/3 cup) milk"
+- "2 eggs"
+- "120 g (1/2 cup minus 1 tbsp) unsalted butter softened"
+- "=== Filling ==="
+- "110 g (1 cup plus 1 tbsp) fresh or frozen cranberries"
+- "100 g (1/2 cup) sugar"
+- "55 ml (1/4 cup plus 1 tbsp) water"
+- "2 cinnamon sticks 10 cm (4 inches)"
+- "Pinch of ground cardamom optional"
+- "5 ml (1 tsp) turbinado sugar for dusting"
+instructions:
+- "=== Prepare dough ==="
+- "Mix orange juice with yeast in small bowl. Let sit about 5 minutes until foamy and dissolved. Use orange juice to replace water; adds brightness."
+- "In mixer bowl fitted with dough hook, combine 460 g flour, sugar, salt. Add yeast mixture, milk, eggs. Mix 4-6 minutes medium speed till shaggy dough starts forming."
+- "Add butter cubes gradually, knead until well incorporated. Incorporate remaining 10-15 g flour to loosen dough if sticky, aims for soft but elastic dough."
+- "Scrape into lightly oiled bowl, cover with plastic wrap. Refrigerate minimum 7 hours up to overnight for flavor development and easier shaping."
+- "=== Make filling ==="
+- "In saucepan, combine cranberries, sugar, water, cinnamon sticks, and cardamom pinch. Bring to gentle boil over medium heat, reduce to simmer for 8-12 minutes."
+- "Syrup should thicken, coat back of spoon. Remove from heat, discard cinnamon sticks. Slightly mash half berries with fork; leave some whole for texture. Cool to room temp."
+- "=== Shape brioche ==="
+- "Line baking sheet with silicone mat or parchment. Butter a 10 cm (4-inch) ramekin on outside. Invert onto baking sheet center—creates ring form."
+- "Flour surface, roll dough out to approx 48 x 28 cm rectangle. Spread cooled cranberry filling evenly skipping edges for seam strength."
+- "Roll dough tightly along longer side without crushing filling into a long tube. Position seam side up."
+- "Slice rolled log lengthwise to 2 halves leaving 2.5 cm (1 inch) uncut at one end—preserves ring integrity."
+- "Braid halves carefully twist exposing cranberry side up, pinching ends together, looping ends under braid to form closed circle."
+- "Place around inverted ramekin on tray. Cover with damp towel. Proof at room temp 40-50 minutes till dough visibly swollen, finger poke leaves slow spring back."
+- "=== Bake ==="
+- "Preheat oven to 175 °C (350 °F), rack middle position."
+- "(Optional) Dust top with turbinado sugar for caramelized crunch."
+- "Bake 23-28 minutes, until deep golden crust and hollow sound when tapped underneath."
+- "Cool on rack at least 15 minutes before unmolding. Aroma should lift cinnamon and citrus notes."
+- "=== Notes ==="
+- "Use bread flour if available for stronger gluten and better rise. Otherwise all-purpose is fine, flour amounts may vary slightly. Adjust flour to keep dough soft but manageable."
+- "On slow mixer speed to avoid overworking yeast. Butter rooms temp ensures smooth incorporation. Cold butter chunks risk greasy specks."
+- "Proof visually, primarily. Dough should double or nearly, feel billowy."
+- "Oven temps vary; color beats clock. If browning too fast, tent foil last 5 minutes."
+- "Cranberries may burst unevenly; gently press half to keep distinct texture contrast."
+- "Orange juice swap cuts yeast harshness, adds floral layer. Cardamom optional, but subtle spike worth trying."
+- "If no ramekin, place glass or can around center carefully; helps braid keep shape during proof."
+- "Overproofed dough deflates, underproof yields dense crumb. Touch test essential."
+- "Cooling fully prevents gummy crumb. Wrap airtight, brioche best within 2 days or frozen tightly sealed."
+introduction: "Yeast dough chills slow O/N sugars meld with butter softness. Not just sugar rubbing smooth but layering textures. Cranberries bubbled in cinnamon syrup—always stirring, smelling sharp spice warming kitchen. Orange juice swap brightens yeast’s wet bite—learned that last winter when yeast felt dull. Dough rolling praised meaty effort, filling slightly tart, half berries crushed for rustic punch. Braid techniques a dance of tension and softness; shape must hold or unravel backstage mess. Proof feels more than timed rise, poke with finger—bounce back means life still inside. Baking crackle, sugar caramelize, crust colors golden deep—eyes tell more than timer beeps. Cool on rack, steam escapes, crumb tight beats gummy traps. Twelve slices fanned on platter, fleeting seconds before aromas vanish. A crown fitting for morning or whispered teatime indulgence. Practice makes perfect; dough lessons never stop."
+ingredientsNote: "Swapped water for fresh orange juice; acid brightens yeast activity and deepens flavor. Cardamom bit optional but no regrets adding that nuance sometimes missing with cinnamon alone. Butter softened not melted—melting fat ruins gluten structure, cream it well into dough avoid greasy spots. Flour varies per batch—start lower, add gradually, look for tacky not sticky feel—dough should stretch, bounce back, gentle pull tight but pliable. Frozen cranberries fine but thaw before cooking; they bleed liquid fast, may dilute syrup—hold fire till thick coat. Sugar ratios balanced to let cranberries tartness shine, can adjust up slightly if preferred sweeter layers. Turbinado or demerara sugar dusting adds crunch and visual sparkle; plain granulated fine but loses rustic textured bite. If no ramekin, upside canned vegetables with smooth sides help ring shape stay round during proof. Refrigerating dough slow-ferments for flavor, brings clean yeast, mellows sugar, builds tensile dough with tight crumb—skip fridge, risk bland flavor and sticky handling."
+instructionsNote: "Yeast proofing first step, watch foamy bubbles surface—if none, replace yeast. Use mixer with dough hook saves time, build gluten gently; mixing 5 minutes enough without overheating dough. Incorporate butter gradually—slow add lets dough emulsify fat better, prevents greasy clumps. Rest dough bulk in fridge overnight; cold retards yeast but develops flavor, easier to shape. Syrup reduction must coat spoon back thickly—thin syrup means runny filling and soggier dough; simmer patiently, low medium heat. After rolling, cut lengthwise carefully—not all the way, keep anchor to retain ring shape. When braiding, keep filling side up for pretty twisted view, pinch ends tight, tuck under; else bread spills filling during bake. Proof visually—finger test beats clock; poke and look for slow bounce back. Oven temps vary, gold crust rather than exact time. Sugar dusting optional but caramelizes under heat, adds crackly top texture. Cooling on rack prevents steam sogging crust—key for brioche texture. Unmold carefully, use offset spatula to lift ring from ramekin base. Serve warm, slight crumb stretch with tart-sweet cranberry contrasts best enjoyed fresh but freezes well."
+tips:
+- "Swapping water with fresh orange juice not just flavor tweak but yeast boost; acidity brightens yeast activity, watch proof times—might shorten slightly. Butter softened room temp must be truly soft not melted; melted fat breaks gluten strands, leads to greasy crumb. Knead gradually adding flour sparingly; dough should feel tacky not wet or stiff. I add last 10-15 g flour only if sticky, aim elastic texture; bounce back on poke key for readiness."
+- "Proof dough in fridge overnight slow-ferments sugars, builds flavor complexly, texture tightens yet remains soft. Cover tight with plastic wrap to avoid drying. When proofing later after shaping, finger poke test beats timer; slow spring back means dough alive, finger poke leaves quick rebound—overproof loses spring, underproof denser crumb. Ambient temps vary; adjust times accordingly."
+- "Cranberry filling syrup thick enough to coat back of spoon; too thin makes soggy dough, wait longer simmer low-medium heat. Removing cinnamon sticks before rolling avoids bitter notes. Crushing half berries adds rustic texture contrast. Cool filling fully before spreading or dough sogs. Cardamom pinch subtle but adds warm spike if using."
+- "Roll dough rectangle evenly to 48x28 cm approx. Spread filling skipping edges for clean seam. Roll tightly along long side; loose roll means filling escapes during bake. Slicing rolled log lengthwise but leaving 2.5 cm uncut at one end anchors ring shape during braiding. Twist braid exposing filling side up—pattern visible when baked. Pinch ends firmly, tuck under for closed circle; else filling leaks and shape falls apart."
+- "Baking at 175 °C middle rack critical; too hot burns crust too quick, too low prevents crust color and caramelization. Sugar dusting optional but caramelizes adding crunch and shine. Cool on rack fully; warm brioche fragile, steam escaping stops gummy crumb. Unmolding carefully with offset spatula preserves shape. Store brioche wrapped airtight, best eaten within 2 days, freezes well tightly sealed."
+faq:
+- "q: Can I use plain water instead of orange juice? a: Yes plain water works but less bright citrus note. Orange juice adds acid helps yeast bloom quicker, cuts yeast harshness. Without it proof might take a bit longer. Could try lemon juice pinch too but alters flavor. Water neutral, no lift in aroma."
+- "q: How do I know if dough is over or underproofed? a: Finger poke test main guide. Slow spring back means good proof. Fast bounce back means underproofed—needs more time. No spring or collapsing means overproofed—gluten broken down, will deflate in oven, crumb dense. Adjust next batch proof times. Don’t rely on clock only."
+- "q: What if cranberry filling is too runny? a: Cook longer simmer low till syrup coats spoon. Stir frequently avoid burning bottom. If still thin, add small amount sugar for thickening without extra moisture. Drain excess liquid before spreading. Use fresh or thaw frozen cranberries fully drained to prevent watery mix."
+- "q: How to store leftover brioche? a: Wrap airtight at room temp if eating soon - soft crust lasts 1-2 days. Refrigeration toughens crust and crumb. Freeze tightly in plastic wrap plus bag. Defrost sealed then warm slightly to revive texture but avoid overheating or drying out. Reheat wrapped in foil mid oven temp improves crumb softness."
+
+---
