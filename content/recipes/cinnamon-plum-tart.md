@@ -1,0 +1,97 @@
+---
+title: "Cinnamon Plum Tart"
+slug: "cinnamon-plum-tart"
+description: "Sweet tart with cinnamon custard and macerated plums on a buttery short crust. Pastry dough baked blind till golden, filled with rich spiced cream thickened vigorously on stove and chilled. Red plums thinly sliced, soaked briefly in simple syrup before layering. Careful texture contrast, balance of tart and sweet. A twist with lightly toasted almond flour replacing some wheat for extra crumb. Egg yolks and whole egg included for creamy custard body. Oven temp adjusted a bit lower to prevent overbrowning. Quick maceration of plums preserves tartness without sogginess."
+metaDescription: "Cinnamon Plum Tart with crumbly shortcrust, spiced custard, tart-sweet macerated plums. Almond flour twist adds moist crumb, slow bake keeps crust crisp."
+ogDescription: "Cinnamon Plum Tart with buttery crust, cinnamon-laced custard, and thin plum slices soaked in syrup. Chill well to meld flavors and set filling right."
+focusKeyphrase: "Cinnamon Plum Tart"
+date: 2025-09-30
+draft: false
+image: cinnamon-plum-tart.png
+author: "Emma"
+prepTime: PT50M
+cookTime: PT45M
+totalTime: PT1H35M
+recipeYield: "8 servings"
+categories: ["Desserts"]
+tags:
+- "French-inspired"
+- "pastry"
+- "custard"
+- "fruit tart"
+- "baking"
+- "plums"
+keywords:
+- "cinnamon tart"
+- "plum dessert"
+- "almond flour tart"
+breadcrumb: ["Home", "Recipes", "Desserts"]
+nutrition: 
+ calories: "340"
+ fatContent: "20g"
+ carbohydrateContent: "35g"
+ proteinContent: "5g"
+ingredients:
+- "=== Sweet shortcrust pastry ==="
+- "142 g (1 cup minus 1 Tbsp) all-purpose flour"
+- "2 ml (1/2 tsp) baking powder"
+- "85 g (6 Tbsp) cold butter, softened"
+- "30 g (3 Tbsp) powdered sugar"
+- "1 egg, room temperature"
+- "30 g almond flour (substitute for 1/5 flour)"
+- "=== Cinnamon pastry cream ==="
+- "53 g (1/4 cup minus 1 tsp) granulated sugar"
+- "25 ml (1 1/2 Tbsp) cornstarch"
+- "1 ml (1/4 tsp) ground cinnamon"
+- "1 egg"
+- "2 egg yolks"
+- "240 ml (1 cup) whole milk"
+- "125 ml (1/2 cup) 35 percent cream"
+- "=== Macerated plums ==="
+- "120 ml (1/2 cup) water"
+- "100 g (1/2 cup minus 1 Tbsp) granulated sugar"
+- "3 red plums"
+instructions:
+- "=== Shortcrust pastry ==="
+- "1. Blend flour, almond flour, baking powder dry in bowl. Use chilled almond flour or finely ground blanched almonds for subtle texture, no gritty bits. Dry ingredients sifted prevents lumpy dough later."
+- "2. Cream butter with powdered sugar using electric mixer until pale and fluffy—you want air folded, not melted. Add room-temp egg, whip smooth. Important to avoid overbeating; too watery dough. Fold in dry ingredients slowly at low speed or by wooden spoon till barely combined. Dough should hold together, not sticky but pliable."
+- "3. Press dough evenly inside 23-cm (9-in) removable bottom tart pan, including edges. No air pockets—use fingertips to smooth. Chill in fridge for 35 minutes; colder dough prevents shrinking. Don’t skip or risk misshapen crust."
+- "4. Preheat oven to 190°C (375°F). Dock dough base with fork—punctures keep crust crisp, not puffy."
+- "5. Line tart shell with foil or parchment. Fill with dried beans or ceramic baking beads for blind baking. Bake 18 minutes covered, then remove weights and foil; bake 7 more minutes until edges gold. Watch closely to avoid dark spots; browning edges signal readiness. Let cool to room temperature on wire rack."
+- "=== Cinnamon pastry cream ==="
+- "6. Off heat, whisk together sugar, cornstarch, cinnamon. Add whole egg plus yolks; mix well till smooth paste. Slowly whisk in milk and cream."
+- "7. Transfer mixture to saucepan, medium heat. Constantly stir, scraping sides and bottom so no lumps or scorched spots. Mixture thickens with slow bubbling—once custard holds thick ribbon and no raw starch taste, remove from stove promptly. Overcooking ruins texture—be vigilant."
+- "8. Press cream through fine sieve to remove any clumps. Cover surface with plastic wrap touching custard to avoid skin forming. Chill minimum 3.5 hours (chilling thickens), preferably overnight for best texture."
+- "=== Macerated plums ==="
+- "9. Bring water and sugar to boil in small pot until sugar dissolves into clear syrup. Pull from heat."
+- "10. Thinly slice plums around pit—aim for even thickness 3-4 mm. I like to use a sharp knife, take extra care not to crush fruit."
+- "11. Briefly soak slices in hot syrup exactly 2-3 minutes for balanced softness without breaking down. Remove with slotted spoon to draining plate, reserved syrup can be saved for glazing or cocktails."
+- "=== Assembly and finishing ==="
+- "12. Pour chilled custard evenly into cooled crust, smooth top gently with offset spatula."
+- "13. Scatter plum slices randomly but tightly covering cream. No precise pattern needed—this rustic look lets fruit shine, juice stains add character."
+- "14. Refrigerate tart at least 1 hour before serving; flavors meld, filling firms slightly but remains creamy. Tartness of plum with spiced cream invites bites. If you want shine, brush fruit lightly with leftover syrup."
+- "=== Tips and tweaks ==="
+- " - Can swap plums for peaches or nectarines. Adjust sugar in syrup if fruit is very sweet."
+- " - Almond flour tweak adds moist crumb without overpowering flavor; skip if allergic or unavailable, replace with extra flour."
+- " - Avoid overbaking crust or edges get tough. Use baking weights for flat base, else it bubbles."
+- " - Custard starchy if cooked too fast; patience key to silky finish."
+- " - Chill tart to firm filling before slicing clean wedges."
+- " - If no pastry cream, mascarpone or thick yogurt dollops under fruit gives similar richness but less silky."
+- " - Let sour cream sit at room temp 20 min before mixing if substituting cream; improves blend."
+- " - Overripe plums over-macerate and bleed color badly; choose firm, ripe fruit."
+introduction: "Shortcrust, crumbly but sturdy. No settling edges. Butter and sugar creamed till pale. Egg binds slick. Almond flour twist adds something unexpected, more tender crumb without nutty shout—it’s subtle, sneaky. Baking low and slow, watching color edges; shell crack or soggy? Not on my watch. Cinnamon custard trickiest part. Raw smell fades as mixture thickens. Constant whisk, no breaks or lumps. Thick but still pliable. Passing through sieve taught me patience alone saves smoothness. Plums. Red, ripe but firm. Cut thin, then dunk in syrup just before plopping over custard. Too long? Mush. Too short? Tart shock. A dance with timing. Cool, then chill, flavors marry. Slice reveals creamy custard, tart fruit. Memories of past fails teach—never rush custard, always chill dough."
+ingredientsNote: "Use cold butter, softened not melted. Powdered sugar for that tender, delicate touch instead of granulated, less grainy. Almond flour (blanched ground almonds) optional but elevates texture; skip if allergies. Flour mix sifted to avoid lumps, adding baking powder gives slight lift but not puffy. Eggs room temp blend better. For custard, fresh eggs crucial—flavor and texture depend on freshness. Cinnamon is aromatic but subtle; do not overpower. Cornstarch essential thickener, don't skip or use too much or custard clamps. Plums should be firm ripe, not mushy or underripe acidic. Syrup quick dissolve keeps fruit shiny and moist. Fruit substitution possible with peaches or apricots, adjust syrup sugar for sweetness accordingly. Experiment with adding zest of lemon or orange in custard for twist—adds brightness that cuts richness."
+instructionsNote: "Blind bake crust to avoid sogginess under wet custard; weighing dough avoids bubbling or shrinking. Watch crust color, edges deeper gold means done but don’t burn. Docking with fork essential; traps steam escaping. Custard slow cooked, constant stirring avoids lumps and burning—don’t walk away. Texture changes from milky fluid to soft pudding visible and audible as it thickens, no guessing. Pass through sieve if needed, no lumps tolerated. Plastic wrap tight to custard surface prevents skin, chilling thickens custard to sliceable firmness. Plums soaked just long enough for glaze absorption, no mush. Assemble carefully once custard cold; warm filling melts fruit, colors run. Chill final tart minimum hour; firm, set, flavors married. Sound of knife cutting through gives tactile confirmation of doneness. Slice with sharp knife dipped in hot water for neat edges. Store refrigerated—custard won’t stand room temp long."
+tips:
+- "Keep butter cold but not hard frozen. Butter softened just right creates flaky layers, not greasy mess. Powdered sugar beats granulated for delicate crumb, less graininess. Almond flour swapped in small amount adds crumb texture without nutty blast; must be finely ground blanched almonds to avoid grit. Dough gets lumpy with uneven dry ingredients—sift flour and baking powder first, no shortcuts."
+- "Blind bake crust with weights or dried beans; skipping this means soggy bottom. Use foil to cover dough, trap heat evenly. Watch color edges—gold, not dark brown. Dock with fork for steam escape; no bubbles, no blistered crust. Chill shaped dough minimum 30 minutes for shrink prevention; warm dough ruins shape, trust that. Oven temps tweaked lower than usual to avoid edge burn."
+- "Whisk sugar, cornstarch, cinnamon dry first to prevent lumps. Add eggs off heat to avoid scrambling. Constant stir on medium heat, low bubble until custard thickens to slow-pouring ribbon, no raw starch taste. Remove just before boiling solidifies—overcooked custard rubbery, grainy. Press mixture through sieve, plastic wrap pressed to surface avoids skin forming. Chill custard several hours, overnight if possible."
+- "Slice plums thin, sharp knife essential; thick slices tough, thin mush. Soak briefly (2-3 minutes) in hot syrup just off boil for soft but intact slices—watch timing, too long splits fruit. Reserve syrup for glazing or drinks. Arrange slices loosely but covering custard evenly, rustic look better than forced pattern."
+- "Substitute peaches or nectarines for plums; adjust syrup sugar according to fruit sweetness. No almond flour? Use all-purpose flour only, expect firmer crumb. If no pastry cream, dollop mascarpone or thick yogurt—texture less silky but similar richness. Overripe plums make tart watery, bleed red juices badly. Freshness impacts final texture and flavor sharpness."
+faq:
+- "q: How to avoid soggy crust? a: Blind bake crust with foil and weights. Dock dough well to vent steam. Chill dough before baking. Watch edges color, take out once gold. Thick custard leaks moisture if crust not baked well."
+- "q: Can I replace almond flour? a: Yes, swap fully for all-purpose flour but crumb changes. Almond flour adds moistness and tenderness, skip if allergy. No effect on baking powder usage. Texture firmer, less delicate without almond component."
+- "q: What if custard lumps form? a: Stir constantly on medium heat, scrape pan edges. Add eggs off heat to prevent curdling. If lumps appear, strain through fine sieve. Overcooking clumps starch and ruins texture; remove heat once thickened ribbon stage hits."
+- "q: How to store leftover tart? a: Keep refrigerated covered. Custard and fruit don’t last long room temp, risk spoilage. Wrap tightly or place in airtight container. Can freeze whole tart but crust may soften. Best eaten within 2 days chilled."
+
+---
