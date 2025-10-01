@@ -9,7 +9,10 @@
 <meta property="og:title"       content="{{ $title }}">
 <meta property="og:description" content="{{ $description }}">
 <meta property="og:url"         content="{{ .Permalink }}">
-<meta property="og:image"       content="{{ $image | absURL }}">
+{{/* Image OG gérée dans baseof.html pour les recettes */}}
+{{ if ne .Section "recipes" }}
+  <meta property="og:image"     content="{{ $image | absURL }}">
+{{ end }}
 <meta property="og:site_name"   content="{{ .Site.Title }}">
 {{ with .Params.tags }}
   {{ range . }}
@@ -25,7 +28,9 @@
 <meta name="twitter:card"        content="summary_large_image">
 <meta name="twitter:title"       content="{{ $title }}">
 <meta name="twitter:description" content="{{ $description }}">
-<meta name="twitter:image"       content="{{ $image | absURL }}">
+{{ if ne .Section "recipes" }}
+  <meta name="twitter:image"     content="{{ $image | absURL }}">
+{{ end }}
 <meta name="twitter:site"        content="@{{ .Site.Params.twitter }}">
 <meta name="twitter:creator"     content="@{{ with .Params.authorTwitter }}{{ . }}{{ else }}{{ .Site.Params.twitter }}{{ end }}">
 <!-- Sécurité -->
@@ -34,19 +39,16 @@
 {{ if eq .Section "recipes" }}
   {{ partial "recipe-jsonld.html" . }}
 {{ end }}
-
 <!-- EZOIC SCRIPTS - REVENUS MAXIMISÉS -->
 <!-- Privacy Scripts FIRST -->
 <script src="https://cmp.gatekeeperconsent.com/min.js" data-cfasync="false"></script>
 <script src="https://the.gatekeeperconsent.com/cmp.min.js" data-cfasync="false"></script>
-
 <!-- Header Script -->
 <script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
 <script>
 window.ezstandalone = window.ezstandalone || {};
 ezstandalone.cmd = ezstandalone.cmd || [];
 </script>
-
 <!-- Google Analytics DIFFÉRÉ -->
 {{ if .Site.Params.analytics.ga4 }}
 <script>
