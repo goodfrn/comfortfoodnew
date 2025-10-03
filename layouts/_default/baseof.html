@@ -12,14 +12,7 @@
   <link rel="dns-prefetch" href="//www.googletagmanager.com">
   <link rel="dns-prefetch" href="//www.google-analytics.com">
   
-  {{/* Canonical URL - gère correctement la pagination */}}
-  {{ $canonical := .Permalink }}
-  {{ if .IsHome }}
-    {{ $canonical = "/" | absURL }}
-  {{ else if in .RelPermalink "/page/" }}
-    {{ $canonical = .RelPermalink | absURL }}
-  {{ end }}
-  <link rel="canonical" href="{{ $canonical }}">
+  <link rel="canonical" href="{{ .Permalink }}">
   {{ partial "head-meta.html" . }}
 
 
