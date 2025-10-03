@@ -16,8 +16,10 @@
   {{ $canonical := .Permalink }}
   {{ if .IsHome }}
     {{ $canonical = "/" | absURL }}
-  {{ else if and .Paginator (or (eq .Kind "section") (eq .Kind "taxonomy") (eq .Kind "term")) }}
-    {{ $canonical = .Paginator.URL | absURL }}
+  {{ else if isset . "Paginator" }}
+    {{ if .Paginator }}
+      {{ $canonical = .Paginator.URL | absURL }}
+    {{ end }}
   {{ end }}
   <link rel="canonical" href="{{ $canonical }}">
   {{ partial "head-meta.html" . }}
