@@ -1,0 +1,97 @@
+---
+title: "Stuffed Sufganiyot with Twist"
+slug: "stuffed-sufganiyot"
+description: "Yeast dough fried golden, filled with luscious vanilla custard or strawberry jelly. The dough enriched with brandy and orange zest for depth. Proper fermentation crucial for airy texture. Frying at steady 350°F oil temp ensures crisp exterior and fluffy middle. Filling technique using pastry bag prevents mess. Toss in cinnamon sugar after frying or dust with powdered sugar for that classic finish. Substitute orange brandy for rum, or dairy milk with almond milk for twists. Perfect for holiday baking chaos and eager hands needing quick wins."
+metaDescription: "Stuffed Sufganiyot with Twist—airy fried doughnut rounds filled with thick vanilla custard or vibrant strawberry jelly; brandy, orange zest heighten flavor layers."
+ogDescription: "Yeasty rounds fried to crisp gold, filled gently with chilled custard or sweet jelly. Orange zest and brandy add depth. Watch proofing and oil temp for best texture."
+focusKeyphrase: "Stuffed Sufganiyot"
+date: 2025-10-11
+draft: false
+image: stuffed-sufganiyot.png
+author: "Emma"
+prepTime: PT20M
+cookTime: PT20M
+totalTime: PT2H30M
+recipeYield: "16 servings"
+categories: ["Desserts"]
+tags:
+- "jewish cuisine"
+- "holiday baking"
+- "yeast dough"
+- "fried doughnuts"
+- "custard filling"
+- "strawberry jelly"
+- "oil frying"
+keywords:
+- "fried yeast dough"
+- "vanilla custard filling"
+- "strawberry jelly doughnuts"
+breadcrumb: ["Home", "Recipes", "Desserts"]
+nutrition: 
+ calories: "280"
+ fatContent: "12g"
+ carbohydrateContent: "35g"
+ proteinContent: "5g"
+ingredients:
+- "2 1/4 teaspoons active dry yeast"
+- "1 tablespoon all-purpose flour + more for dusting"
+- "1 tablespoon granulated sugar + 3 tablespoons sugar total"
+- "2 1/2 tablespoons warm water, about 110°F"
+- "2 large egg yolks"
+- "1 whole large egg"
+- "3/4 cup warm whole milk, can swap almond milk"
+- "Zest of 1 orange"
+- "1 tablespoon fresh orange juice"
+- "1 tablespoon brandy or dark rum alternative"
+- "1 teaspoon kosher salt"
+- "1 teaspoon pure vanilla extract"
+- "Up to 2 cups all-purpose flour (start with 1 3/4 cups)"
+- "6 tablespoons unsalted butter, room temperature"
+- "Vegetable oil for frying (canola or peanut oil best)"
+- "Strawberry jelly"
+- "Vanilla custard (chilled)"
+- "Powdered sugar for dusting"
+- "Optional: cinnamon sugar mix"
+instructions:
+- "=== Planning Ahead ==="
+- "Custard first if that’s your filling, it needs at least 2-3 hours chilling to thicken. Don’t skimp, lukewarm custard = sloppy filling later. Jelly can wait. Set that refrigeration timer right now."
+- "=== Yeast Activation ==="
+- "Mix yeast, 1 tablespoon flour, 1 tablespoon sugar, and 2 tablespoons warm water in stand mixer bowl fitted with dough hook. Warm, not hot water wakes yeast, smells yeasty in 5 to 7 minutes, foamy surface shows it’s alive."
+- "=== Dough Assembly ==="
+- "Add egg yolks, whole egg, milk, orange zest and juice, brandy (or your swap), salt, vanilla extract, and 2 cups minus 1 tablespoon sugar. Low speed mix just until combined—forget rushing, want the dough shaggy not stiff."
+- "=== Butter and Flour Integration ==="
+- "Drop softened butter one tablespoon at a time into dough, beat between additions. Little butter lumps in dough okay, melts on kneading. Slowly add remaining flour, stopping when dough pulls cleanly from bowl sides and climbs hook. Stop. Might be shy of full 2 cups. Dough softness key. Too much flour? Dry mess, no puff."
+- "=== Kneading and First Rise ==="
+- "Turn out dough onto lightly floured surface. Knead 5 minutes until non-sticky, smooth but yielding. Butter a bowl with soft butter, roll dough ball over surface to coat well. Cover loosely with breathable towel, store in warm draft-free zone. Double rise signals readiness. Usually 1 1/2 hours but watch, not clock."
+- "=== Shaping Sufganiyot ==="
+- "Flour your board. Roll dough evenly to 3/4 inch thick, thickness for puff and filling room, thinner means dense or collapse. Use a sharp 2-inch round cutter, press and twist slightly to seal edges for neat rounds. No dull edges—turtle shapes not attractive. Re-roll scraps once. Toss any extra."
+- "=== Proofing Again ==="
+- "Place rounds on parchment lined sheet, cover with towel again, let rest 40-50 minutes. They puff but won’t double. Look for soft, almost pillowy feel, slight spring back on touch."
+- "=== Oil Preparation ==="
+- "Use a heavy pot with at least 4 inches oil depth. Heat oil to steady 350°F—no thermometer? Test with small dough flake; quick steady bubbling, golden in a minute means ready. Overheated? Burns outside raw inside; too cool? Greasy, soggy treats."
+- "=== Frying Sufganiyot ==="
+- "Fry in small batches, 3-4 pieces to keep oil temp steady. Float and color in about 60 seconds per side. Color cues: golden, no pale yellow. Drain on paper towels immediately. Best texture while warm. "
+- "=== Post Fry Coating ==="
+- "Once slightly cooled, roll in cinnamon sugar mix or dust powdered sugar lightly. Sticky sugar easier on warm dough; cooling too long means sugar won’t stick well."
+- "=== Filling Technique ==="
+- "Fit pastry bag with large round tip, fill with your filling. Using a tall glass to hold bag steady helps with control. Poke clean hole center, pipe filling until puff swells slightly or juice escapes. Be gentle—too much filling bursts dough."
+- "=== Final Touches and Serving ==="
+- "Dust again if needed with powdered sugar. Serve warm for best mouthfeel. Filling cold can cool dough quickly. Everyone loves that contrast."
+- "=== Troubleshooting Notes ==="
+- "If dough doubles then shrinks in proofing, over-proofed, punch and reshape quickly. Oil smoking? Too hot, reduce heat immediately or pull off heat briefly. Dumb cutter edges? Use sharp knife or thin metal ring instead."
+introduction: "Custard chilling, dough proofing, and frying chaos—there’s art to these airy poofs. Learned the hard way: no custard rush, no skipping yeast bloom. Orange zest and brandy tang hits unexpectedly, not cloying. Sharp cutter edge is non-negotiable, sloppy rounds turn into doughy blobs or worse, 'turtles'. Heat oil precisely or risk oillogged mess. Fried tight, golden on both sides, drain on paper towels while you prep your filling. Filling too soon? Splatter. Too late? Dough cools, filling feels odd. Familiar scents of citrus, deep fried bread, vanilla custard linger through the kitchen. Worth the patience—trust me. "
+ingredientsNote: "Yeast activation depends on warm water temperature; too hot kills yeast, too cold slows rise. Butter should be softened, not melted, for even incorporation. Orange zest and brandy can be swapped—try limoncello for a sharper citrus or rum for deeper flavor. Flour amount varies with humidity; go by feel not exact cups. Milk alternative like almond milk works if dairy-free, but alters richness. Sugar can be reduced or replaced but expect texture change. Frying oil choice matters—neutral oils with high smoke points preferred. Cinnamon sugar coating adds warm spice but sugar alone dusting works well. Filling temperature key—chilled custard thick, jelly room temp."
+instructionsNote: "Start chill custard hours ahead or the filling will fail big time. Yeast bloom visible as thick foam and yeasty aroma, do not rush this. Butter lumps in dough okay, kneading irons them out. Dough softness and elasticity judged by touch, sticky is bad, stiff is limiting rise. Roll dough evenly for consistent poofs. Use sharp cutter and twist to seal edges or fillings leak during frying. Proof rounds after cutting but before frying so dough gets light, but watch closely—over proofing ruins texture. Oil temperature exact 350°F ensures crispy outside inside soft. Test oil temp without thermometer using dough flake method. Fry small batches, too many cool oil. Fill doughnuts from center with pastry bag—pierce dough first for neat filling insertion. Dust with sugar immediately while warm for best adhesion. Serve fresh; leftovers lose that magic crunch and fill combo."
+tips:
+- "Activate yeast in warm water not hot—110°F tops. Overheated water kills yeast fast; under too slow rise takes forever. Look for foamy yeast surface, smells yeasty like bread proof. Mix flour and sugar well before adding water. Timing 5 to 7 minutes max here. No fake bubbles."
+- "Butter goes softened - never melted. Add slowly one tablespoon at a time. Dough looks lumpy after each addition, okay. Kneading melts lumps later. Flour varies—humidity messes with exact cups. Dough needs to pull clean from bowl sides, sticky means add flour bit by bit, stiff means cut flour down. Dough feel guides best, not measuring obsession."
+- "Proof dough covered with towel, warm draft-free. Double rise tells when ready but watch texture—if shrinks, it’s overproofed. Punch down quickly. Airy dough feels light, soft spring back, not mush. Use your fingers, light touch critical here. Proof temps matter too, aim 75-80°F environment for ideal activity."
+- "Use sharp cutter, no dull edges. Twist cutter slightly on press to seal edges or filling seeps during frying. No turtle shapes or odd rounds—those traps catch oil, burst doughnuts, sloppy. Re-roll scraps once only, then toss excess. Thickness must be 3/4 inch exactly, thinner for puff and filling room, thicker means dense."
+- "Oil temp must hang steady at 350°F. Too hot burns crust raw inside; too cool soaks oil, limp doughnuts. No thermometer? Drop small dough flake in, steady bubbling, golden in 60 seconds means ready. Fry 3-4 pieces max per batch. Drain on paper towels immediately to stop oil soaking. Serve warm, sugar sticks better when dough still warm."
+faq:
+- "q: How do I know when yeast is active? a: Smell yeasty aroma; foam forms in 5 to 7 minutes on water surface. Water temp matters—too hot kills, too cold no foam. Look for thick bubbles that don’t burst quick. If no foam, discard yeast and restart. Wait times vary with room temp."
+- "q: Can I swap fillings? a: Yes, custard must be chilled a few hours, thick texture avoids runny filling. Jelly easier, room temp ok. Custard rushed equals sloppy mess. For dairy-free, almond milk replaces whole milk but expect different mouthfeel. Brandy swap with rum or limoncello for citrus twist. Fruit jams work too."
+- "q: What if dough overproofs? a: Punch down quickly then reshape and proof again briefly. Overproofed dough smells sour, collapses when poked. Leads to flat, heavy sufganiyot. Keep environment warm, not hot. Use brief rests not long slow ones. Watch dough texture over clock."
+- "q: How best to store leftovers? a: Room temp in airtight container good for a day. Refrigerate fills texture firmer, custard thickens but dough gets tougher. Reheat briefly in toaster oven for crisp outside; microwave clogs crust fast. Freeze only if no immediate use, but fresh always preferred for crunch and softness."
+
+---
