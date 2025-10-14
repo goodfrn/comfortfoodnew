@@ -64,34 +64,12 @@
 <!-- En-tête recette : image + infos organisées -->
     <div class="grid grid-cols-1 lg:grid-cols-[1fr_1fr] gap-8 sm:gap-12 items-start mb-12">
       
-      <!-- Colonne gauche : Image + Byline -->
-      <div class="w-full max-w-md mx-auto lg:mx-0 lg:max-w-none">
         <!-- Image -->
         {{ with .Params.image }}
-          {{ $img := resources.Get (printf "images/%s" .) }}
-          {{ if $img }}
-            {{/* 🎯 OPTIMISÉ : Taille exacte + compression réduite */}}
-            {{ $webp := $img.Fill "392x261 q65 webp" }}
-            {{ $fallback := $img.Fill "392x261 q70" }}
-            
-            <picture>
-              <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-              <img src="{{ $fallback.RelPermalink }}" 
-                   alt="{{ $.Title }}" 
-                   class="rounded-2xl shadow-lg w-full h-auto object-cover"
-                   loading="eager"
-                   fetchpriority="high" 
-                   width="392" 
-                   height="261">
-            </picture>
-          {{ else }}
-            {{/* Fallback si image non trouvée */}}
-            <div class="w-full h-80 bg-gray-200 rounded-2xl flex items-center justify-center">
-              <span class="text-gray-400">Image de recette non trouvée</span>
-            </div>
-          {{ end }}
+          <div class="rounded-2xl shadow-lg overflow-hidden" style="aspect-ratio: 3/2;">
+            {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
+          </div>
         {{ end }}
-
         <!-- Byline sous l'image -->
         {{ if or .Params.author .Date }}
           <div class="bg-orange-50 border-l-4 border-orange-400 p-4 mb-6 rounded-r-lg mt-4">

@@ -35,31 +35,20 @@
         <!-- 🏆 CARTE CATÉGORIE PREMIUM COMPACTE -->
         <a href="{{ .Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
           
-          <!-- Image avec overlay -->
+<!-- Image avec overlay -->
           <div class="relative overflow-hidden h-32 rounded-xl">
             {{ with $firstRecipe }}
               {{ with .Params.image }}
-                {{ $img := resources.Get (printf "images/%s" .) }}
-                {{ if $img }}
-                  {{ $resized := $img.Fill "400x225 q85" }}
-                  <img src="{{ $resized.RelPermalink }}" 
-                       alt="{{ $displayName }}" 
-                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                       loading="lazy">
-                {{ else }}
-                  <img src="/{{ . }}" 
-                       alt="{{ $displayName }}" 
-                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                       loading="lazy">
-                {{ end }}
+                <div class="group-hover:scale-105 transition-transform duration-700">
+                  {{ partial "recipe-image.html" (dict "image" . "title" $displayName) }}
+                </div>
               {{ end }}
             {{ else }}
               <!-- Image par défaut si pas de recette -->
               <div class="w-full h-full bg-gray-200 flex items-center justify-center rounded-xl">
                 <span class="text-gray-400 text-xs">{{ $displayName }}</span>
               </div>
-            {{ end }}
-            
+            {{ end }}            
             <!-- Overlay gradient sophistiqué -->
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-100 transition-opacity duration-500"></div>
             

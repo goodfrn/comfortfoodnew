@@ -29,19 +29,12 @@
               {{ add $index 1 }}
             </div>
 
-            <!-- Image mini -->
+<!-- Image mini -->
             <div class="flex-shrink-0">
               {{ with .Params.image }}
-                {{ $img := resources.Get (printf "images/%s" .) }}
-                {{ if $img }}
-                  {{ $thumb := $img.Fill "40x40 q75 webp" }}
-                  <img src="{{ $thumb.RelPermalink }}" 
-                       alt="{{ $recipe.Title }}" 
-                       class="w-10 h-10 object-cover rounded-lg group-hover:scale-105 transition-transform duration-200"
-                       loading="lazy">
-                {{ else }}
-                  <div class="w-10 h-10 bg-gray-200 rounded-lg"></div>
-                {{ end }}
+                <div class="w-10 h-10 rounded-lg overflow-hidden group-hover:scale-105 transition-transform duration-200">
+                  {{ partial "recipe-image.html" (dict "image" . "title" $recipe.Title) }}
+                </div>
               {{ end }}
             </div>
 

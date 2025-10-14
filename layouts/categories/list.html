@@ -59,31 +59,11 @@
         <!-- 🏆 CARTE PREMIUM STYLÉE -->
         <a href="{{ .RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
           
-          <!-- Image optimisée -->
+<!-- Image optimisée -->
           <div class="relative overflow-hidden aspect-[4/3]">
             {{ with .Params.image }}
-              {{ $img := resources.Get (printf "images/%s" .) }}
-              {{ if $img }}
-                {{ $webp := $img.Fill "400x300 q50 webp" }}
-                {{ $fallback := $img.Fill "400x300 q60" }}
-                
-                <picture>
-                  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                  <img src="{{ $fallback.RelPermalink }}" 
-                       alt="{{ $.Title }}" 
-                       class="w-full h-full object-cover"
-                       loading="lazy"
-                       width="400" 
-                       height="300">
-                </picture>
-              {{ else }}
-                <img src="/{{ . }}" 
-                     alt="{{ $.Title }}" 
-                     class="w-full h-full object-cover"
-                     loading="lazy">
-              {{ end }}
-            {{ end }}
-            
+              {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
+            {{ end }}            
             <!-- Badge catégorie -->
             {{ with index .Params.categories 0 }}
               <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
