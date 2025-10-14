@@ -30,26 +30,7 @@
 <!-- Image optimisée -->
           <div class="relative overflow-hidden aspect-[4/3]">
             {{ with .Params.image }}
-              {{ $img := resources.Get (printf "images/%s" .) }}
-              {{ if $img }}
-                {{ $webp := $img.Fill "400x300 q50 webp" }}
-                {{ $fallback := $img.Fill "400x300 q60" }}
-                
-                <picture>
-                  <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                  <img src="{{ $fallback.RelPermalink }}" 
-                       alt="{{ $.Title }}" 
-                       class="w-full h-full object-cover"
-                       loading="lazy"
-                       width="400" 
-                       height="300">
-                </picture>
-              {{ else }}
-                <img src="/{{ . }}" 
-                     alt="{{ $.Title }}" 
-                     class="w-full h-full object-cover"
-                     loading="lazy">
-              {{ end }}
+              {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
             {{ end }}
             
             <!-- Badge catégorie -->
@@ -203,31 +184,20 @@
         <!-- 🏆 CARTE CATÉGORIE PREMIUM COMPACTE -->
         <a href="{{ .Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
           
-          <!-- Image avec overlay -->
+<!-- Image avec overlay -->
           <div class="relative overflow-hidden h-32 rounded-xl">
             {{ with $firstRecipe }}
               {{ with .Params.image }}
-                {{ $img := resources.Get (printf "images/%s" .) }}
-                {{ if $img }}
-                  {{ $resized := $img.Fill "400x225 q85" }}
-                  <img src="{{ $resized.RelPermalink }}" 
-                       alt="{{ $displayName }}" 
-                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                       loading="lazy">
-                {{ else }}
-                  <img src="/{{ . }}" 
-                       alt="{{ $displayName }}" 
-                       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
-                       loading="lazy">
-                {{ end }}
+                <div class="group-hover:scale-105 transition-transform duration-700">
+                  {{ partial "recipe-image.html" (dict "image" . "title" $displayName) }}
+                </div>
               {{ end }}
             {{ else }}
               <!-- Image par défaut si pas de recette -->
               <div class="w-full h-full bg-gray-200 flex items-center justify-center rounded-xl">
                 <span class="text-gray-400 text-xs">{{ $displayName }}</span>
               </div>
-            {{ end }}
-            
+            {{ end }}            
             <!-- Overlay gradient sophistiqué -->
             <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent opacity-100 transition-opacity duration-500"></div>
             
@@ -290,28 +260,8 @@
 <!-- Image optimisée -->
             <div class="relative overflow-hidden aspect-[4/3]">
               {{ with $item.Params.image }}
-                {{ $img := resources.Get (printf "images/%s" .) }}
-                {{ if $img }}
-                  {{ $webp := $img.Fill "400x300 q50 webp" }}
-                  {{ $fallback := $img.Fill "400x300 q60" }}
-                  
-                  <picture>
-                    <source srcset="{{ $webp.RelPermalink }}" type="image/webp">
-                    <img src="{{ $fallback.RelPermalink }}" 
-                         alt="{{ $item.Title }}" 
-                         class="w-full h-full object-cover"
-                         loading="lazy"
-                         width="400" 
-                         height="300">
-                  </picture>
-                {{ else }}
-                  <img src="/{{ . }}" 
-                       alt="{{ $item.Title }}" 
-                       class="w-full h-full object-cover"
-                       loading="lazy">
-                {{ end }}
-              {{ end }}
-              
+                {{ partial "recipe-image.html" (dict "image" . "title" $item.Title) }}
+              {{ end }}              
               <!-- Badge catégorie -->
               {{ with index $item.Params.categories 0 }}
                 <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
