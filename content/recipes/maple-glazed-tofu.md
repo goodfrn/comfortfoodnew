@@ -7,7 +7,7 @@ ogDescription: "Tofu crisped with cornstarch, coated in bubbling maple-tamari gl
 focusKeyphrase: "maple glazed tofu"
 date: 2025-08-08
 draft: false
-image: maple-glazed-tofu.png
+image: maple-glazed-tofu.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT14M

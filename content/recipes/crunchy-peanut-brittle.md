@@ -7,7 +7,7 @@ ogDescription: "Airy peanut brittle with baking soda foam. Dry roasted nuts, map
 focusKeyphrase: "peanut brittle"
 date: 2025-08-13
 draft: false
-image: crunchy-peanut-brittle.png
+image: crunchy-peanut-brittle.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT12M

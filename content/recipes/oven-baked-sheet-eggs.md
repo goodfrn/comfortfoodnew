@@ -7,7 +7,7 @@ ogDescription: "Crack eggs on sheet pan, bake 6-10 mins for runny to set yolks. 
 focusKeyphrase: "oven-baked sheet eggs"
 date: 2025-10-06
 draft: false
-image: oven-baked-sheet-eggs.png
+image: oven-baked-sheet-eggs.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT11M

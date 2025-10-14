@@ -7,7 +7,7 @@ ogDescription: "Chunky, herby Chermoula twist. Parsley and mint punch. Cumin sha
 focusKeyphrase: "Chermoula sauce with parsley and mint"
 date: 2025-08-03
 draft: false
-image: twisted-chermoula-sauce.png
+image: twisted-chermoula-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

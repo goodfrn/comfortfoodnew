@@ -7,7 +7,7 @@ ogDescription: "Grilled skewers threaded with chicken, spicy chorizo, green oliv
 focusKeyphrase: "Chicken Chorizo Olive Skewers"
 date: 2025-09-25
 draft: false
-image: chicken-chorizo-olive-skewers.png
+image: chicken-chorizo-olive-skewers.jpg
 author: "Emma"
 prepTime: PT32M
 cookTime: PT18M

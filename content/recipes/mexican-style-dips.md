@@ -7,7 +7,7 @@ ogDescription: "Quick layered vegan dips with guacamole, bruschetta, diced cucum
 focusKeyphrase: "Mexican-style layered dips"
 date: 2025-09-24
 draft: false
-image: mexican-style-dips.png
+image: mexican-style-dips.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

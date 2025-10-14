@@ -7,7 +7,7 @@ ogDescription: "Layer crispy tofu with nutty toasted orzo salad plus punchy pars
 focusKeyphrase: "Grilled tofu orzo stack"
 date: 2025-08-04
 draft: false
-image: grilled-tofu-orzo-stack.png
+image: grilled-tofu-orzo-stack.jpg
 author: "Emma"
 prepTime: PT28M
 cookTime: PT55M

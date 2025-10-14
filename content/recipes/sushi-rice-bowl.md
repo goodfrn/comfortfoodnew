@@ -7,7 +7,7 @@ ogDescription: "Master rice texture and fish freshness in this sushi rice fish b
 focusKeyphrase: "Sushi Rice Fish Bowl"
 date: 2025-09-27
 draft: false
-image: sushi-rice-bowl.png
+image: sushi-rice-bowl.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT18M

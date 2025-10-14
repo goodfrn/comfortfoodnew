@@ -7,7 +7,7 @@ ogDescription: "Creamy smoked salmon spread with fresh dill, chives, and capers.
 focusKeyphrase: "smoked salmon spread"
 date: 2025-10-12
 draft: false
-image: smoked-salmon-spread-remix.png
+image: smoked-salmon-spread-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Rustic raspberry whoopie pies, tender cocoa bases with cream che
 focusKeyphrase: "Raspberry Whoopie Pies"
 date: 2025-08-06
 draft: false
-image: raspberry-whoopie-pies.png
+image: raspberry-whoopie-pies.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Shrimp soaked in fiery lime and honey marinade, quick sauté or 
 focusKeyphrase: "Spicy chili marinated shrimp"
 date: 2025-09-26
 draft: false
-image: spicy-chili-marinated-shrimp.png
+image: spicy-chili-marinated-shrimp.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT11M

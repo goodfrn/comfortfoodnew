@@ -7,7 +7,7 @@ ogDescription: "Chewy wild rice tossed with black beans, jicama crunch, pear swe
 focusKeyphrase: "Wild Rice Black Bean Salad"
 date: 2025-08-07
 draft: false
-image: wild-rice-black-bean-salad.png
+image: wild-rice-black-bean-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

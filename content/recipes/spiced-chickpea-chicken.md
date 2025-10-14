@@ -7,7 +7,7 @@ ogDescription: "Layers of chicken thighs seared with smoked paprika, chickpeas w
 focusKeyphrase: "Spiced Chickpea Chicken Fatteh"
 date: 2025-08-01
 draft: false
-image: spiced-chickpea-chicken.png
+image: spiced-chickpea-chicken.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT22M

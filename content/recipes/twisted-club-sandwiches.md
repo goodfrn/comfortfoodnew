@@ -7,7 +7,7 @@ ogDescription: "Bacon crackles, eggs baked in mayo, layers of tomato and crisp l
 focusKeyphrase: "Twisted Club Sandwiches"
 date: 2025-09-27
 draft: false
-image: twisted-club-sandwiches.png
+image: twisted-club-sandwiches.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

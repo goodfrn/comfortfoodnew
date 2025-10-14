@@ -7,7 +7,7 @@ ogDescription: "Halved tender new potatoes tossed with smashed eggs, green onion
 focusKeyphrase: "Rustic Gnocchi Potato Salad"
 date: 2025-08-06
 draft: false
-image: rustic-gnocchi-salad.png
+image: rustic-gnocchi-salad.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT22M

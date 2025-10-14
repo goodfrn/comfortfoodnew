@@ -7,7 +7,7 @@ ogDescription: "Small snail skewers grilled fast with Pernod, herbs, garlic butt
 focusKeyphrase: "Pastis Snail Mini Skewers"
 date: 2025-07-25
 draft: false
-image: pastis-snail-skewers.png
+image: pastis-snail-skewers.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

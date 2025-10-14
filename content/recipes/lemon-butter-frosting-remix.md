@@ -7,7 +7,7 @@ ogDescription: "Tangy, light lemon butter frosting remix using yuzu and almond m
 focusKeyphrase: "lemon butter frosting remix"
 date: 2025-08-05
 draft: false
-image: lemon-butter-frosting-remix.png
+image: lemon-butter-frosting-remix.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT6M

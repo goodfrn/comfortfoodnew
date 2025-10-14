@@ -7,7 +7,7 @@ ogDescription: "Brown frozen beef patties crisp, simmer in mushroom sauce thicke
 focusKeyphrase: "smashed beef patties with mushrooms"
 date: 2025-09-25
 draft: false
-image: smashed-beef-patties.png
+image: smashed-beef-patties.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT33M

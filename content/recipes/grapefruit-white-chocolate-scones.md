@@ -7,7 +7,7 @@ ogDescription: "Flaky white chocolate scones infused with grapefruit zest and ju
 focusKeyphrase: "Grapefruit White Chocolate Scones"
 date: 2025-07-27
 draft: false
-image: grapefruit-white-chocolate-scones.png
+image: grapefruit-white-chocolate-scones.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT28M

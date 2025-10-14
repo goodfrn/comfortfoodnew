@@ -7,7 +7,7 @@ ogDescription: "Four beef steaks with layered American or Asian spice rubs. Gril
 focusKeyphrase: "spiced beef steaks"
 date: 2025-09-21
 draft: false
-image: spiced-beef-steaks.png
+image: spiced-beef-steaks.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

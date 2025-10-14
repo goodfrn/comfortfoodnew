@@ -7,7 +7,7 @@ ogDescription: "Enjoy Pineapple Basil Popsicles with fresh flavors. Frozen pinea
 focusKeyphrase: "Pineapple Basil Popsicles"
 date: 2025-07-21
 draft: false
-image: pineapple-basil-popsicles.png
+image: pineapple-basil-popsicles.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT4M

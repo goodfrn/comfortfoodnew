@@ -7,7 +7,7 @@ ogDescription: "Seared veal roast rubbed with Dijon mustard, slow-cooked creamy 
 focusKeyphrase: "veal mustard leeks roast"
 date: 2025-08-07
 draft: false
-image: veal-mustard-leeks-roast.png
+image: veal-mustard-leeks-roast.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT1H5M

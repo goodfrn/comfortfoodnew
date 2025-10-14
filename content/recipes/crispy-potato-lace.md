@@ -7,7 +7,7 @@ ogDescription: "Thin Yukon Gold potato slices layered with fresh herbs, brushed 
 focusKeyphrase: "Crispy Potato Lace"
 date: 2025-07-25
 draft: false
-image: crispy-potato-lace.png
+image: crispy-potato-lace.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

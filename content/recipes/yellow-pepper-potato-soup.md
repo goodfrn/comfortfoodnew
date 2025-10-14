@@ -7,7 +7,7 @@ ogDescription: "Bright roasted yellow peppers mix with soft potatoes and smoky c
 focusKeyphrase: "Yellow Pepper Potato Soup"
 date: 2025-08-18
 draft: false
-image: yellow-pepper-potato-soup.png
+image: yellow-pepper-potato-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

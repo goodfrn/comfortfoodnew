@@ -7,7 +7,7 @@ ogDescription: "Slow cook veal cubes with fennel, sage, pearl onions, chanterell
 focusKeyphrase: "Veal Blanquette with fennel and chanterelles"
 date: 2025-08-16
 draft: false
-image: twist-veal-blanquette.png
+image: twist-veal-blanquette.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT2H

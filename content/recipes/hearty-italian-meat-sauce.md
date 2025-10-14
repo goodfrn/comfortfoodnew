@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked Italian Meat Sauce with sweet/spicy sausage, lean be
 focusKeyphrase: "Hearty Italian Meat Sauce"
 date: 2025-07-29
 draft: false
-image: hearty-italian-meat-sauce.png
+image: hearty-italian-meat-sauce.jpg
 author: "Emma"
 prepTime: PT42M
 cookTime: PT3H10M

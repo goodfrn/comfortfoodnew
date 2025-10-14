@@ -7,7 +7,7 @@ ogDescription: "Experience the bold flavors of Tangy Tonkatsu Sauce. Ideal for s
 focusKeyphrase: "Tonkatsu Sauce"
 date: 2025-07-19
 draft: false
-image: tangy-tonkatsu-sauce.png
+image: tangy-tonkatsu-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy Oreo crust, peppermint cream cheese layer, creamy puddin
 focusKeyphrase: "Candy Cane Lush Remix dessert"
 date: 2025-10-10
 draft: false
-image: candy-cane-lush-remix.png
+image: candy-cane-lush-remix.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT0M

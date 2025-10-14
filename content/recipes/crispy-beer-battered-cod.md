@@ -7,7 +7,7 @@ ogDescription: "Fry cod in pale ale batter, garlic, smoked paprika. Monitor temp
 focusKeyphrase: "beer battered cod"
 date: 2025-09-30
 draft: false
-image: crispy-beer-battered-cod.png
+image: crispy-beer-battered-cod.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT17M

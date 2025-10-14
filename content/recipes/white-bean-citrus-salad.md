@@ -7,7 +7,7 @@ ogDescription: "Bright white bean salad with citrus punch, kalamata olives, yell
 focusKeyphrase: "white bean citrus salad"
 date: 2025-07-29
 draft: false
-image: white-bean-citrus-salad.png
+image: white-bean-citrus-salad.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT5M

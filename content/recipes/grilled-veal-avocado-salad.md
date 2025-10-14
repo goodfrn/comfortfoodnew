@@ -7,7 +7,7 @@ ogDescription: "Sear veal chops on hot grill, steam thin beet slices in foil, to
 focusKeyphrase: "grilled veal with avocado beet salad"
 date: 2025-08-14
 draft: false
-image: grilled-veal-avocado-salad.png
+image: grilled-veal-avocado-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

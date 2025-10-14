@@ -7,7 +7,7 @@ ogDescription: "No bake creamy bars with shredded coconut, almond extract swap, 
 focusKeyphrase: "Almond Joy Bars Remix"
 date: 2025-10-07
 draft: false
-image: almond-joy-bars-remix.png
+image: almond-joy-bars-remix.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT0M

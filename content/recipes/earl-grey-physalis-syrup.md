@@ -7,7 +7,7 @@ ogDescription: "Earl Grey and Physalis Syrup. A blend of sweet physalis, tea, ci
 focusKeyphrase: "Earl Grey Physalis Syrup"
 date: 2025-07-19
 draft: false
-image: earl-grey-physalis-syrup.png
+image: earl-grey-physalis-syrup.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT5M

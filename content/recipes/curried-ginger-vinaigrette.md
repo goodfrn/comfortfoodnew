@@ -7,7 +7,7 @@ ogDescription: "Elevate salads with Curried Ginger Vinaigrette; a zesty blend of
 focusKeyphrase: "Curried Ginger Vinaigrette"
 date: 2025-07-24
 draft: false
-image: curried-ginger-vinaigrette.png
+image: curried-ginger-vinaigrette.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Chilled barley salad roasted peppers, feta, mint, arugula. Rinse
 focusKeyphrase: "barley salad roasted peppers feta"
 date: 2025-08-15
 draft: false
-image: barley-salad-roasted-peppers.png
+image: barley-salad-roasted-peppers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT32M

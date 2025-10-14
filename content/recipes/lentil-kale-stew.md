@@ -7,7 +7,7 @@ ogDescription: "Rustic lentil and kale stew done quick in pressure cooker. Earth
 focusKeyphrase: "Lentil kale stew"
 date: 2025-08-03
 draft: false
-image: lentil-kale-stew.png
+image: lentil-kale-stew.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT25M

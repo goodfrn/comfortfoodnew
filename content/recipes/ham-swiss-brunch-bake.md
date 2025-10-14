@@ -7,7 +7,7 @@ ogDescription: "Layered ham and Swiss bake on crescent dough with green onion eg
 focusKeyphrase: "Ham Swiss Brunch Bake"
 date: 2025-10-09
 draft: false
-image: ham-swiss-brunch-bake.png
+image: ham-swiss-brunch-bake.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

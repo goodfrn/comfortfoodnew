@@ -7,7 +7,7 @@ ogDescription: "Sweet and tart persimmon chutney with ginger, cranberries, and w
 focusKeyphrase: "Persimmon Ginger Chutney"
 date: 2025-07-29
 draft: false
-image: persimmon-ginger-chutney.png
+image: persimmon-ginger-chutney.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT40M

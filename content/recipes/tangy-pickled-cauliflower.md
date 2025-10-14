@@ -7,7 +7,7 @@ ogDescription: "Crunchy cauliflower fast-pickled using honey, vinegar, and aroma
 focusKeyphrase: "Tangy Pickled Cauliflower"
 date: 2025-08-01
 draft: false
-image: tangy-pickled-cauliflower.png
+image: tangy-pickled-cauliflower.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT8M

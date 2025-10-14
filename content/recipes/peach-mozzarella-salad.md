@@ -7,7 +7,7 @@ ogDescription: "Lush stone fruits, creamy mozzarella, burrata, spicy harissa, cr
 focusKeyphrase: "Peach Mozzarella Salad"
 date: 2025-07-29
 draft: false
-image: peach-mozzarella-salad.png
+image: peach-mozzarella-salad.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT0M

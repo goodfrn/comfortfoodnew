@@ -7,7 +7,7 @@ ogDescription: "Savory potato bake with browned sweet onions, tangy yogurt, crea
 focusKeyphrase: "Crunchy Chicken Potato Bake"
 date: 2025-10-13
 draft: false
-image: crunchy-chicken-potato-bake.png
+image: crunchy-chicken-potato-bake.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT1H10M

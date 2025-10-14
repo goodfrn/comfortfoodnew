@@ -7,7 +7,7 @@ ogDescription: "White chocolate ganache rolled in two coconut textures. Toasted 
 focusKeyphrase: "Snowball Truffles"
 date: 2025-08-15
 draft: false
-image: snowball-truffles.png
+image: snowball-truffles.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT6M

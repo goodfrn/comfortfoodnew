@@ -7,7 +7,7 @@ ogDescription: "Steamed clams in white wine with a crunchy pancetta parsley crum
 focusKeyphrase: "Clams White Wine Bacon Crumble"
 date: 2025-08-18
 draft: false
-image: clams-white-wine-crumble.png
+image: clams-white-wine-crumble.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

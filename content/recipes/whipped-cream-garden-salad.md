@@ -7,7 +7,7 @@ ogDescription: "Light greens meet airy whipped cream, mint, and cucumber for a r
 focusKeyphrase: "Whipped Cream Garden Salad"
 date: 2025-08-18
 draft: false
-image: whipped-cream-garden-salad.png
+image: whipped-cream-garden-salad.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Discover Froggy Chocolate Milk, a unique chilled chocolate drink
 focusKeyphrase: "Froggy Chocolate Milk"
 date: 2025-07-25
 draft: false
-image: froggy-chocolate-milk.png
+image: froggy-chocolate-milk.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT6M

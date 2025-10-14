@@ -7,7 +7,7 @@ ogDescription: "Light mousse, finger lime bursts, ginger cookies soften tender. 
 focusKeyphrase: "Clementine Cream Sandwiches"
 date: 2025-08-10
 draft: false
-image: clementine-cream-sandwiches.png
+image: clementine-cream-sandwiches.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

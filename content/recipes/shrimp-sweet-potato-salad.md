@@ -7,7 +7,7 @@ ogDescription: "Air-fried sweet potatoes with garlic shrimp, radishes, and citru
 focusKeyphrase: "shrimp sweet potato salad"
 date: 2025-08-17
 draft: false
-image: shrimp-sweet-potato-salad.png
+image: shrimp-sweet-potato-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

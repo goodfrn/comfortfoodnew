@@ -7,7 +7,7 @@ ogDescription: "Deep caramelized shallots meet creamy Greek yogurt and mayo. Smo
 focusKeyphrase: "caramelized shallot dip"
 date: 2025-09-23
 draft: false
-image: caramelized-shallot-dip.png
+image: caramelized-shallot-dip.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT18M

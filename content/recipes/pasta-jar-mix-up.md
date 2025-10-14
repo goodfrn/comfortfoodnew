@@ -7,7 +7,7 @@ ogDescription: "Layer dry pasta, herbs, spices in jar. Simmer with water, watch 
 focusKeyphrase: "Pasta Jar Mix Up"
 date: 2025-08-08
 draft: false
-image: pasta-jar-mix-up.png
+image: pasta-jar-mix-up.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

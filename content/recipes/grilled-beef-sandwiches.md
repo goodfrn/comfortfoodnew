@@ -7,7 +7,7 @@ ogDescription: "Seared striploin steak sandwiches with pickled fennel and roast 
 focusKeyphrase: "Grilled beef sandwiches with pickled fennel"
 date: 2025-08-14
 draft: false
-image: grilled-beef-sandwiches.png
+image: grilled-beef-sandwiches.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT13M

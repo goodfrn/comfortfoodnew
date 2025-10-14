@@ -7,7 +7,7 @@ ogDescription: "Three bold Vietnamese sauces: tart-salty fish sauce base, sharp 
 focusKeyphrase: "Vietnamese hot pot sauces"
 date: 2025-08-15
 draft: false
-image: vietnamese-fondue-sauces.png
+image: vietnamese-fondue-sauces.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT0M

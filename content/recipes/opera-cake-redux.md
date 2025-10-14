@@ -7,7 +7,7 @@ ogDescription: "Opera Cake Redux with toasted hazelnut sponge, espresso soaked l
 focusKeyphrase: "Opera Cake Redux"
 date: 2025-08-16
 draft: false
-image: opera-cake-redux.png
+image: opera-cake-redux.jpg
 author: "Emma"
 prepTime: PT1H15M
 cookTime: PT15M

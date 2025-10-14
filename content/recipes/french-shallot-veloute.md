@@ -7,7 +7,7 @@ ogDescription: "Savor the rich flavors of French Shallot Velouté a velvety soup
 focusKeyphrase: "French Shallot Velouté"
 date: 2025-07-20
 draft: false
-image: french-shallot-veloute.png
+image: french-shallot-veloute.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT35M

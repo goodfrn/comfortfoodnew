@@ -7,7 +7,7 @@ ogDescription: "Poach chicken gently for tender bites. Apples caramelize with on
 focusKeyphrase: "Caribbean chicken curry"
 date: 2025-08-28
 draft: false
-image: chicken-curry-reworked.png
+image: chicken-curry-reworked.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT1H30M

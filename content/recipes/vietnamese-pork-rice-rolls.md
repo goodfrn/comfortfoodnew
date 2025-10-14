@@ -7,7 +7,7 @@ ogDescription: "Chunky pork browned with sesame oil, wrapped in supple rice pape
 focusKeyphrase: "Vietnamese pork rice rolls"
 date: 2025-09-06
 draft: false
-image: vietnamese-pork-rice-rolls.png
+image: vietnamese-pork-rice-rolls.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT10M

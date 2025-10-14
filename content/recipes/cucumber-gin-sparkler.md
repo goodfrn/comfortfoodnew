@@ -7,7 +7,7 @@ ogDescription: "Fresh cucumber, lime, gin, chilled elderflower tonic. Slow juice
 focusKeyphrase: "Cucumber Gin Sparkler"
 date: 2025-08-19
 draft: false
-image: cucumber-gin-sparkler.png
+image: cucumber-gin-sparkler.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "A savory Toasted Herb Panko recipe for herb-infused breadcrumbs.
 focusKeyphrase: "Toasted Herb Panko"
 date: 2025-07-22
 draft: false
-image: toasted-herb-panko.png
+image: toasted-herb-panko.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT25M

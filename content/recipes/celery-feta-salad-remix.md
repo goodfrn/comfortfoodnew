@@ -7,7 +7,7 @@ ogDescription: "Enjoy a twist on a classic salad! Celery, feta, and tart apples 
 focusKeyphrase: "Celery Feta Salad Remix"
 date: 2025-07-18
 draft: false
-image: celery-feta-salad-remix.png
+image: celery-feta-salad-remix.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT0M

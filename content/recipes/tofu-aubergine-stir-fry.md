@@ -7,7 +7,7 @@ ogDescription: "Crispy tofu, soft eggplant, and crunchy veggies in this Tofu Aub
 focusKeyphrase: "Tofu Aubergine Stir-Fry"
 date: 2025-07-20
 draft: false
-image: tofu-aubergine-stir-fry.png
+image: tofu-aubergine-stir-fry.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

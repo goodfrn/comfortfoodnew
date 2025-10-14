@@ -7,7 +7,7 @@ ogDescription: "Sticky, bite-sized sausages glazed with maple and brown rice syr
 focusKeyphrase: "Maple Cocktail Sausage Fingers"
 date: 2025-07-25
 draft: false
-image: maple-cocktail-sausage-fingers.png
+image: maple-cocktail-sausage-fingers.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Moist banana loaf with layered dark chocolate chunks, maple syru
 focusKeyphrase: "banana chocolate loaf"
 date: 2025-08-08
 draft: false
-image: banana-chocolate-loaf-remix.png
+image: banana-chocolate-loaf-remix.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

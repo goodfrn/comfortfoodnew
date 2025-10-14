@@ -7,7 +7,7 @@ ogDescription: "Giant Bob’s Pretzels. Huge pretzels. Crispy outside, chewy ins
 focusKeyphrase: "giant pretzels"
 date: 2025-07-25
 draft: false
-image: giant-bobs-pretzels.png
+image: giant-bobs-pretzels.jpg
 author: "Emma"
 prepTime: PT2H15M
 cookTime: PT7M

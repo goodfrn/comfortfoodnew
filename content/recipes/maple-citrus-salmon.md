@@ -7,7 +7,7 @@ ogDescription: "Roast salmon with crisp skin topped by tart pomegranate, agave s
 focusKeyphrase: "Maple Citrus Salmon"
 date: 2025-08-07
 draft: false
-image: maple-citrus-salmon.png
+image: maple-citrus-salmon.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT18M

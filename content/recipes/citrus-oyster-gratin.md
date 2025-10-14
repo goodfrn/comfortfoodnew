@@ -7,7 +7,7 @@ ogDescription: "Indulge in the Citrus Oyster Gratin Twist with creamy citrus but
 focusKeyphrase: "Citrus Oyster Gratin"
 date: 2025-07-20
 draft: false
-image: citrus-oyster-gratin.png
+image: citrus-oyster-gratin.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

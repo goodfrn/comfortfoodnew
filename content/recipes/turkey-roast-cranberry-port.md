@@ -7,7 +7,7 @@ ogDescription: "Juicy turkey roast stuffed with soaked dried cranberries. Sear f
 focusKeyphrase: "turkey roast cranberry port"
 date: 2025-09-29
 draft: false
-image: turkey-roast-cranberry-port.png
+image: turkey-roast-cranberry-port.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H10M

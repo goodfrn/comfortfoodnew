@@ -7,7 +7,7 @@ ogDescription: "Deep seared beef chunks with beets, thickened red wine sauce, pa
 focusKeyphrase: "Beef Beet Ragout Penne"
 date: 2025-08-16
 draft: false
-image: beef-beet-ragout.png
+image: beef-beet-ragout.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT3H10M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Lenten Brioche with Apricots. Soft, slightly sweet wi
 focusKeyphrase: "Lenten Brioche"
 date: 2025-07-24
 draft: false
-image: lenten-brioche-apricots.png
+image: lenten-brioche-apricots.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

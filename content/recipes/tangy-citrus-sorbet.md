@@ -7,7 +7,7 @@ ogDescription: "Bright lime-grapefruit sorbet with mint oils released during chu
 focusKeyphrase: "citrus sorbet with lime and grapefruit"
 date: 2025-08-18
 draft: false
-image: tangy-citrus-sorbet.png
+image: tangy-citrus-sorbet.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Chewy red velvet cookies stuffed with whipped cream cheese. Chil
 focusKeyphrase: "Stuffed Red Velvet Cookies"
 date: 2025-10-06
 draft: false
-image: stuffed-red-velvet-cookies.png
+image: stuffed-red-velvet-cookies.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT14M

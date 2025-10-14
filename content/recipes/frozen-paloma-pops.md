@@ -7,7 +7,7 @@ ogDescription: "Icy ruby grapefruit pops with vodka and yuzu punch. Mint-infused
 focusKeyphrase: "Frozen Paloma Pops"
 date: 2025-08-18
 draft: false
-image: frozen-paloma-pops.png
+image: frozen-paloma-pops.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT7M

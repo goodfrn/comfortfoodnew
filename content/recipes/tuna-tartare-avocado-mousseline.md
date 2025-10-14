@@ -7,7 +7,7 @@ ogDescription: "Raw tuna meets creamy avocado mousseline with horseradish, toast
 focusKeyphrase: "Tuna Tartare Avocado Mousseline"
 date: 2025-08-03
 draft: false
-image: tuna-tartare-avocado-mousseline.png
+image: tuna-tartare-avocado-mousseline.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT5M

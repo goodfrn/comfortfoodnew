@@ -7,7 +7,7 @@ ogDescription: "Savor Leek and Ham Puffs with creamy filling and flaky pastry. I
 focusKeyphrase: "Leek and Ham Puffs"
 date: 2025-07-16
 draft: false
-image: leek-and-ham-puffs.png
+image: leek-and-ham-puffs.jpg
 author: "Emma Kitchen"
 prepTime: PT40M
 cookTime: PT30M

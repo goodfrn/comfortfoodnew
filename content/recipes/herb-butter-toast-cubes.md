@@ -7,7 +7,7 @@ ogDescription: "Delicious Herb Butter Toast Cubes. Crunchy, melt-in-your-mouth s
 focusKeyphrase: "Herb Butter Toast Cubes"
 date: 2025-07-18
 draft: false
-image: herb-butter-toast-cubes.png
+image: herb-butter-toast-cubes.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT10M

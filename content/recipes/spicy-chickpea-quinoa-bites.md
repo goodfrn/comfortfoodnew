@@ -7,7 +7,7 @@ ogDescription: "Golden, crisp chickpea quinoa bites with a smoky kick and olives
 focusKeyphrase: "spicy chickpea quinoa bites"
 date: 2025-08-13
 draft: false
-image: spicy-chickpea-quinoa-bites.png
+image: spicy-chickpea-quinoa-bites.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT25M

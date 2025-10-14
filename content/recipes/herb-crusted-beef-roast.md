@@ -7,7 +7,7 @@ ogDescription: "Bone-in beef rib roast rubbed with fresh herbs, smoked salt, pin
 focusKeyphrase: "Herb-Crusted Beef Rib Roast"
 date: 2025-07-26
 draft: false
-image: herb-crusted-beef-roast.png
+image: herb-crusted-beef-roast.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Sauté riced cauliflower with salt and pepper, add lemon brightn
 focusKeyphrase: "riced cauliflower"
 date: 2025-10-13
 draft: false
-image: quick-riced-cauliflower.png
+image: quick-riced-cauliflower.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT10M

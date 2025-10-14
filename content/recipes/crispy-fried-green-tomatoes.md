@@ -7,7 +7,7 @@ ogDescription: "Green tomatoes coated in salted cornmeal, fried till golden cris
 focusKeyphrase: "fried green tomatoes"
 date: 2025-10-13
 draft: false
-image: crispy-fried-green-tomatoes.png
+image: crispy-fried-green-tomatoes.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Grilled chicken with papaya strips, mint, and a thick coconut cu
 focusKeyphrase: "Curried Chicken Subs with Papaya"
 date: 2025-08-19
 draft: false
-image: curried-mango-chicken-subs.png
+image: curried-mango-chicken-subs.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

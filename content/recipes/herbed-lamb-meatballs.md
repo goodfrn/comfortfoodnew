@@ -7,7 +7,7 @@ ogDescription: "Lamb meatballs with herbs, roasted to crisp crust, tossed orzo b
 focusKeyphrase: "Herbed Lamb Meatballs"
 date: 2025-10-11
 draft: false
-image: herbed-lamb-meatballs.png
+image: herbed-lamb-meatballs.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

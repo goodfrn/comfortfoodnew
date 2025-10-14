@@ -7,7 +7,7 @@ ogDescription: "Popcorn coated in olive oil, nutritional yeast, lime zest, white
 focusKeyphrase: "vegan pepper popcorn"
 date: 2025-08-07
 draft: false
-image: zesty-vegan-pepper-popcorn.png
+image: zesty-vegan-pepper-popcorn.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT6M

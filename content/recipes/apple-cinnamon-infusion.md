@@ -7,7 +7,7 @@ ogDescription: "Warm up with this Apple Cinnamon Infusion. Citrus, spice, and a 
 focusKeyphrase: "Apple Cinnamon Infusion"
 date: 2025-07-17
 draft: false
-image: apple-cinnamon-infusion.png
+image: apple-cinnamon-infusion.jpg
 author: "Emma Kitchen"
 prepTime: PT5M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Flaky Shortcrust Twist offers a vegan, nut-free dough for savory
 focusKeyphrase: "Flaky Shortcrust Twist"
 date: 2025-07-19
 draft: false
-image: flaky-shortcrust-twist.png
+image: flaky-shortcrust-twist.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

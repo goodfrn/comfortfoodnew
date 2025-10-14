@@ -7,7 +7,7 @@ ogDescription: "Discover the Twisted Cobb Salad, a fresh take blending yogurt, f
 focusKeyphrase: "Twisted Cobb Salad"
 date: 2025-07-20
 draft: false
-image: twisted-cobb-salad.png
+image: twisted-cobb-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

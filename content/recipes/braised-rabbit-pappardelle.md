@@ -7,7 +7,7 @@ ogDescription: "Rabbit chunks braised slow in wine, herbs, and stock. Tossed wit
 focusKeyphrase: "Braised Rabbit Pappardelle"
 date: 2025-07-29
 draft: false
-image: braised-rabbit-pappardelle.png
+image: braised-rabbit-pappardelle.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H40M

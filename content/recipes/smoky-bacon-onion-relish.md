@@ -7,7 +7,7 @@ ogDescription: "Crisp bacon, softened onions, smoky mustard, tangy vinegar meld 
 focusKeyphrase: "Smoky Bacon Onion Relish"
 date: 2025-10-11
 draft: false
-image: smoky-bacon-onion-relish.png
+image: smoky-bacon-onion-relish.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT14M

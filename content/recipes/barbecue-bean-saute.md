@@ -7,7 +7,7 @@ ogDescription: "Sizzle three bean colors on a blazing grill or hot pan until bli
 focusKeyphrase: "barbecue bean sauté"
 date: 2025-08-12
 draft: false
-image: barbecue-bean-saute.png
+image: barbecue-bean-saute.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

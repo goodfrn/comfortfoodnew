@@ -7,7 +7,7 @@ ogDescription: "Crunchy toasted baguette with sautéed zucchini, fresh oregano, 
 focusKeyphrase: "Zucchini Feta Bruschettas"
 date: 2025-09-28
 draft: false
-image: zucchini-feta-bruschettas.png
+image: zucchini-feta-bruschettas.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT12M

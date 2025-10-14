@@ -7,7 +7,7 @@ ogDescription: "Crunchy mozzarella sandwich, panko crust, green olive punch inst
 focusKeyphrase: "Anchovy Mozzarella Sandwich"
 date: 2025-08-09
 draft: false
-image: crunchy-anchovy-mozzarella-sandwich.png
+image: crunchy-anchovy-mozzarella-sandwich.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

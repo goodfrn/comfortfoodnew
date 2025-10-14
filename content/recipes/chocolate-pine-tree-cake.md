@@ -7,7 +7,7 @@ ogDescription: "Rich chocolate pine tree-shaped cake using buttermilk and crème
 focusKeyphrase: "Chocolate Pine Tree Cake"
 date: 2025-07-25
 draft: false
-image: chocolate-pine-tree-cake.png
+image: chocolate-pine-tree-cake.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Brown sugar syrup bubbling under tender apple dice; cake batter 
 focusKeyphrase: "apple air fryer puddings"
 date: 2025-09-24
 draft: false
-image: air-fryer-puddings.png
+image: air-fryer-puddings.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

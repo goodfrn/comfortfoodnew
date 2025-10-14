@@ -7,7 +7,7 @@ ogDescription: "Crunchy oat crust meets cinnamon apple topping baked to golden a
 focusKeyphrase: "Apple Crumble Squares"
 date: 2025-09-27
 draft: false
-image: apple-crumble-squares.png
+image: apple-crumble-squares.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

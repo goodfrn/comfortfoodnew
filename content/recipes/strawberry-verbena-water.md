@@ -7,7 +7,7 @@ ogDescription: "Chilled water infused with fresh mint, strawberries, lemon slice
 focusKeyphrase: "Strawberry Verbena Water"
 date: 2025-08-13
 draft: false
-image: strawberry-verbena-water.png
+image: strawberry-verbena-water.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

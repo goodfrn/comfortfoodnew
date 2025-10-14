@@ -7,7 +7,7 @@ ogDescription: "Grill squash then simmer in broth till tender. Blend silky, toas
 focusKeyphrase: "roasted spiced squash soup"
 date: 2025-09-28
 draft: false
-image: roasted-spiced-squash-soup.png
+image: roasted-spiced-squash-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

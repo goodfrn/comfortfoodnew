@@ -7,7 +7,7 @@ ogDescription: "Chunky vegetarian chili with edamame and snap peas. Black beans 
 focusKeyphrase: "Vegetarian Edamame Chili"
 date: 2025-08-10
 draft: false
-image: vegetarian-edamame-chili.png
+image: vegetarian-edamame-chili.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT35M

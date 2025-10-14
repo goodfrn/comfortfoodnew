@@ -7,7 +7,7 @@ ogDescription: "Tangy strawberry and rhubarb loaf. Floured fruit stops sinking. 
 focusKeyphrase: "Strawberry Rhubarb Loaf"
 date: 2025-10-12
 draft: false
-image: strawberry-rhubarb-loaf.png
+image: strawberry-rhubarb-loaf.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT55M

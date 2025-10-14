@@ -7,7 +7,7 @@ ogDescription: "Choux filled with mint whipped cream, rich chocolate dough with 
 focusKeyphrase: "Mint Chocolate Profiteroles"
 date: 2025-08-15
 draft: false
-image: mint-chocolate-profiteroles.png
+image: mint-chocolate-profiteroles.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT50M

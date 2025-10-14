@@ -7,7 +7,7 @@ ogDescription: "Chilled Spicy Tuna Vermicelli Salad, fresh, quick, and flavorful
 focusKeyphrase: "Spicy Tuna Vermicelli Salad"
 date: 2025-07-19
 draft: false
-image: spicy-tuna-vermicelli-salad.png
+image: spicy-tuna-vermicelli-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Floral lilac meets elderflower syrup with raspberry tang, vodka 
 focusKeyphrase: "Lilac Fizz Lemonade"
 date: 2025-07-25
 draft: false
-image: lilac-fizz-lemonade.png
+image: lilac-fizz-lemonade.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT8M

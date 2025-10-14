@@ -7,7 +7,7 @@ ogDescription: "Tangy Asian Mignonette Twist. Bright flavors with soy and ginger
 focusKeyphrase: "Asian Mignonette Twist"
 date: 2025-07-19
 draft: false
-image: asian-mignonette-twist.png
+image: asian-mignonette-twist.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

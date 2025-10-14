@@ -7,7 +7,7 @@ ogDescription: "Whip chilled coconut cream with vanilla bean paste. Fold in cond
 focusKeyphrase: "Vanilla Coconut Ice Cream"
 date: 2025-08-15
 draft: false
-image: vanilla-coconut-ice-cream.png
+image: vanilla-coconut-ice-cream.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

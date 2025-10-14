@@ -7,7 +7,7 @@ ogDescription: "Sear tender beef hearts just right. Roasted roots caramelize cri
 focusKeyphrase: "Filet Mignon Hearts with Aphrodisiac Sauce"
 date: 2025-09-27
 draft: false
-image: filet-mignon-hearts.png
+image: filet-mignon-hearts.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT55M

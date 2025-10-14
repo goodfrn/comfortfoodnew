@@ -7,7 +7,7 @@ ogDescription: "Baked chicken taquitos with black beans and melted cheese, baked
 focusKeyphrase: "baked chicken taquitos"
 date: 2025-10-13
 draft: false
-image: baked-chicken-taquitos.png
+image: baked-chicken-taquitos.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

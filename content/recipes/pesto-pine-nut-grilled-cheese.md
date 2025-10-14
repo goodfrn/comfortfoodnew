@@ -7,7 +7,7 @@ ogDescription: "Crunchy buttered sourdough grilled cheese layered with Jarlsberg
 focusKeyphrase: "Pesto Pine Nut Grilled Cheese"
 date: 2025-10-06
 draft: false
-image: pesto-pine-nut-grilled-cheese.png
+image: pesto-pine-nut-grilled-cheese.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT6M

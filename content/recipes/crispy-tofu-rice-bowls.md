@@ -7,7 +7,7 @@ ogDescription: "Golden tofu with crisp snow peas and cucumbers, cool rice noodle
 focusKeyphrase: "crispy tofu rice bowls"
 date: 2025-09-26
 draft: false
-image: crispy-tofu-rice-bowls.png
+image: crispy-tofu-rice-bowls.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Nutty pistachio filling meets tender brioche dough browned in bu
 focusKeyphrase: "Pistachio Brioche Twist"
 date: 2025-08-19
 draft: false
-image: pistachio-brioche-twist.png
+image: pistachio-brioche-twist.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Simmer rhubarb and blackcurrants with less sugar, watch bubbling
 focusKeyphrase: "Red Berry Twist Syrup"
 date: 2025-08-03
 draft: false
-image: red-berry-twist-syrup.png
+image: red-berry-twist-syrup.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

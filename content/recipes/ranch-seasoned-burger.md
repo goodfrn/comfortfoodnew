@@ -7,7 +7,7 @@ ogDescription: "Juicy ranch spiced burgers, chilled then grilled till brown edge
 focusKeyphrase: "ranch seasoned burger"
 date: 2025-10-11
 draft: false
-image: ranch-seasoned-burger.png
+image: ranch-seasoned-burger.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT14M

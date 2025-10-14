@@ -7,7 +7,7 @@ ogDescription: "Sausage browned, garlic sniffs, tomatoes reduce down. Wine degla
 focusKeyphrase: "Spicy Sausage Orecchiette"
 date: 2025-09-28
 draft: false
-image: spicy-sausage-orecchiette.png
+image: spicy-sausage-orecchiette.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT22M

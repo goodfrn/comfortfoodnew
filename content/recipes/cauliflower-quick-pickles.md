@@ -7,7 +7,7 @@ ogDescription: "Crunchy cauliflower florets in tangy brine with honey, mustard s
 focusKeyphrase: "Cauliflower Quick Pickles"
 date: 2025-08-01
 draft: false
-image: cauliflower-quick-pickles.png
+image: cauliflower-quick-pickles.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

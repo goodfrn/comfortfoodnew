@@ -7,7 +7,7 @@ ogDescription: "Sweet potatoes baked in salt, creamy cheese mash with smoked gou
 focusKeyphrase: "Cheddar stuffed sweet potatoes"
 date: 2025-08-10
 draft: false
-image: twisty-cheddar-stuffed-potatoes.png
+image: twisty-cheddar-stuffed-potatoes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H5M

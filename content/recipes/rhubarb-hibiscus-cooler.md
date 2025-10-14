@@ -7,7 +7,7 @@ ogDescription: "Tart rhubarb, rose hips steeped long. Fresh ginger, lime juice, 
 focusKeyphrase: "Rhubarb Hibiscus Cooler"
 date: 2025-07-25
 draft: false
-image: rhubarb-hibiscus-cooler.png
+image: rhubarb-hibiscus-cooler.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

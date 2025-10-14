@@ -7,7 +7,7 @@ ogDescription: "Tender pork confit cooked slow in goose fat, marinated hours wit
 focusKeyphrase: "slow pork confit"
 date: 2025-09-30
 draft: false
-image: slow-pork-confit.png
+image: slow-pork-confit.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H30M

@@ -7,7 +7,7 @@ ogDescription: "Layered chocolate pudding cake with bittersweet chunks, molasses
 focusKeyphrase: "chocolate pudding cake"
 date: 2025-07-29
 draft: false
-image: moms-chocolate-pudding.png
+image: moms-chocolate-pudding.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

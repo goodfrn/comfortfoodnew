@@ -7,7 +7,7 @@ ogDescription: "Golden crispy calamari rings flash fried with seasoned panko and
 focusKeyphrase: "Crunchy Fried Calamari Rings"
 date: 2025-10-13
 draft: false
-image: crunchy-fried-calamari.png
+image: crunchy-fried-calamari.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT12M

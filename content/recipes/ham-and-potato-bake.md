@@ -7,7 +7,7 @@ ogDescription: "This Ham and Potato Bake combines creamy potatoes with cheese. D
 focusKeyphrase: "Ham and Potato Bake"
 date: 2025-07-15
 draft: false
-image: ham-and-potato-bake.png
+image: ham-and-potato-bake.jpg
 author: "Emma Kitchen"
 prepTime: PT30M
 cookTime: PT55M

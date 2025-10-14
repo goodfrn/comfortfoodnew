@@ -7,7 +7,7 @@ ogDescription: "Soft washed-rind cheese melting slow, mushrooms seared till edge
 focusKeyphrase: "Melted cheese with mushroom sauté"
 date: 2025-08-15
 draft: false
-image: melted-cheese-mushrooms.png
+image: melted-cheese-mushrooms.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Bright red meets pale yellow in this shaken lemonade rum cocktai
 focusKeyphrase: "Tipsy Bunny Cooler"
 date: 2025-10-11
 draft: false
-image: tipsy-bunny-cooler.png
+image: tipsy-bunny-cooler.jpg
 author: "Emma"
 prepTime: PT3M
 cookTime: PT0M

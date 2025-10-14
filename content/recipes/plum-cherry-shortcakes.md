@@ -7,7 +7,7 @@ ogDescription: "Tangy plum-cherry compote thickens gently. Flaky shortcakes with
 focusKeyphrase: "Plum Cherry Shortcakes"
 date: 2025-08-03
 draft: false
-image: plum-cherry-shortcakes.png
+image: plum-cherry-shortcakes.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT25M

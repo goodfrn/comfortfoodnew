@@ -7,7 +7,7 @@ ogDescription: "Roasted peppers meet asparagus and spicy harissa in pasta tossed
 focusKeyphrase: "pasta with roasted peppers and asparagus"
 date: 2025-08-12
 draft: false
-image: pasta-with-roasted-peppers.png
+image: pasta-with-roasted-peppers.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

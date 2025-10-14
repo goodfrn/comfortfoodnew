@@ -7,7 +7,7 @@ ogDescription: "Pork medallions seared crusty, grilled corn kernels charred for 
 focusKeyphrase: "Grilled Corn Slaw Pork Medallions"
 date: 2025-08-09
 draft: false
-image: grilled-corn-slaw-pork.png
+image: grilled-corn-slaw-pork.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy pickled carrots with fennel aroma and subtle sweetness. 
 focusKeyphrase: "quick pickled carrots"
 date: 2025-08-07
 draft: false
-image: quick-pickled-carrots.png
+image: quick-pickled-carrots.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT5M

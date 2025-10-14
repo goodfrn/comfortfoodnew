@@ -7,7 +7,7 @@ ogDescription: "Airy, thick Japanese-style pancakes made by folding whipped whit
 focusKeyphrase: "Fluffy Japanese Pancakes"
 date: 2025-07-28
 draft: false
-image: fluffy-japanese-pancakes.png
+image: fluffy-japanese-pancakes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

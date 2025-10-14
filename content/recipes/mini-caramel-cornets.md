@@ -7,7 +7,7 @@ ogDescription: "Sticky mini-cornets piped with whipped caramel cream. Boiled syr
 focusKeyphrase: "Mini-Caramel Cornets"
 date: 2025-07-27
 draft: false
-image: mini-caramel-cornets.png
+image: mini-caramel-cornets.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

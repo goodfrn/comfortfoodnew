@@ -7,7 +7,7 @@ ogDescription: "Rustic Potato Veggie Ratatouille blends soft cubes and crisp veg
 focusKeyphrase: "Potato Veggie Ratatouille"
 date: 2025-09-23
 draft: false
-image: potato-veggie-ratatouille.png
+image: potato-veggie-ratatouille.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

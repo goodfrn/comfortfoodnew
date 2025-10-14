@@ -7,7 +7,7 @@ ogDescription: "Cubed squash roasted butter and nutmeg, thin lamb leg browned; c
 focusKeyphrase: "Roasted Butternut Squash Lamb Canapés"
 date: 2025-09-23
 draft: false
-image: roasted-squash-lamb-canapes.png
+image: roasted-squash-lamb-canapes.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT32M

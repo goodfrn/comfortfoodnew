@@ -7,7 +7,7 @@ ogDescription: "Rustic molasses gingerbread loaf rich with warming spices, moist
 focusKeyphrase: "molasses gingerbread loaf"
 date: 2025-10-07
 draft: false
-image: molasses-gingerbread-loaf.png
+image: molasses-gingerbread-loaf.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

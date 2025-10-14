@@ -7,7 +7,7 @@ ogDescription: "Rustic Meat Pâté layering roasted celeriac, spiced pork, apric
 focusKeyphrase: "Rustic Meat Pâté"
 date: 2025-08-04
 draft: false
-image: rustic-meat-pate.png
+image: rustic-meat-pate.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT55M

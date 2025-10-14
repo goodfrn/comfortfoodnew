@@ -7,7 +7,7 @@ ogDescription: "Bite-size chocolate cupcakes bursting with tart currants and a t
 focusKeyphrase: "Mini Chocolate Surprise Cupcakes"
 date: 2025-08-08
 draft: false
-image: mini-chocolate-cupcakes.png
+image: mini-chocolate-cupcakes.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT20M

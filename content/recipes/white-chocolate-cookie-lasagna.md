@@ -7,7 +7,7 @@ ogDescription: "Layered no-bake dessert with Oreo crust, fluffy cream cheese, wh
 focusKeyphrase: "White Chocolate Cookie Lasagna"
 date: 2025-10-10
 draft: false
-image: white-chocolate-cookie-lasagna.png
+image: white-chocolate-cookie-lasagna.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT0M

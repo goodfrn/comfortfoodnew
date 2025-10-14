@@ -7,7 +7,7 @@ ogDescription: "Creamy goat cheese dip whipped with Greek yogurt, dill, tarragon
 focusKeyphrase: "Herb Goat Cheese Dip"
 date: 2025-08-13
 draft: false
-image: herb-goat-cheese-dip.png
+image: herb-goat-cheese-dip.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

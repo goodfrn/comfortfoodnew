@@ -7,7 +7,7 @@ ogDescription: "Indulge in Clam Chowder Twist - creamy, smoky, and filled with c
 focusKeyphrase: "clam chowder"
 date: 2025-07-24
 draft: false
-image: clam-chowder-twist.png
+image: clam-chowder-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

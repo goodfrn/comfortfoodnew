@@ -7,7 +7,7 @@ ogDescription: "Smoky lentils, tender roasted carrots, and turmeric couscous pil
 focusKeyphrase: "Roasted Carrots Lentil Couscous"
 date: 2025-08-14
 draft: false
-image: roasted-carrots-lentil-couscous.png
+image: roasted-carrots-lentil-couscous.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Egg-dipped bread layered with peanut butter and raspberry jam, f
 focusKeyphrase: "Peanut Butter Jam French Toast Sandwiches"
 date: 2025-09-29
 draft: false
-image: peanut-butter-jam-french-toast.png
+image: peanut-butter-jam-french-toast.jpg
 author: "Emma"
 prepTime: PT14M
 cookTime: PT12M

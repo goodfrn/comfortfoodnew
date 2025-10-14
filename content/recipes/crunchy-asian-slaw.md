@@ -7,7 +7,7 @@ ogDescription: "Crunchy cabbage slaw with sweet honey vinegar dressing, toasted 
 focusKeyphrase: "Asian cabbage slaw"
 date: 2025-09-29
 draft: false
-image: crunchy-asian-slaw.png
+image: crunchy-asian-slaw.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT7M

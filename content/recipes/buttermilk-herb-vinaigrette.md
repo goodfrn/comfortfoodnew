@@ -7,7 +7,7 @@ ogDescription: "Tangy, creamy buttermilk vinaigrette with fresh herbs and maple 
 focusKeyphrase: "Buttermilk Herb Vinaigrette"
 date: 2025-08-02
 draft: false
-image: buttermilk-herb-vinaigrette.png
+image: buttermilk-herb-vinaigrette.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

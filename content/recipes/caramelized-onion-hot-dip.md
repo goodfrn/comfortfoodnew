@@ -7,7 +7,7 @@ ogDescription: "Savory hot dip featuring deeply caramelized onions, tangy sour c
 focusKeyphrase: "caramelized onion hot dip"
 date: 2025-08-02
 draft: false
-image: caramelized-onion-hot-dip.png
+image: caramelized-onion-hot-dip.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT22M

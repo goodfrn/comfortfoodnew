@@ -7,7 +7,7 @@ ogDescription: "Layer creamy peanut butter heat-thickened, tart roasted jam, and
 focusKeyphrase: "Peanut Butter Jelly Sundaes"
 date: 2025-08-14
 draft: false
-image: peanut-butter-jelly-sundaes.png
+image: peanut-butter-jelly-sundaes.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

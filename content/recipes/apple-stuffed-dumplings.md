@@ -7,7 +7,7 @@ ogDescription: "Dough balls wrapped around spiced apples, poached in maple syrup
 focusKeyphrase: "maple dumplings with apples"
 date: 2025-08-11
 draft: false
-image: apple-stuffed-dumplings.png
+image: apple-stuffed-dumplings.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

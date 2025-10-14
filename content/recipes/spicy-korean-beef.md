@@ -7,7 +7,7 @@ ogDescription: "Hear the sizzle, see caramelized beef with toasted sesame oil, g
 focusKeyphrase: "spicy Korean beef skillet"
 date: 2025-10-11
 draft: false
-image: spicy-korean-beef.png
+image: spicy-korean-beef.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT17M

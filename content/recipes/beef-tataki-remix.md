@@ -7,7 +7,7 @@ ogDescription: "Quick-seared beef tenderloin bathed in citrus-soy marinade, hari
 focusKeyphrase: "Beef Tataki"
 date: 2025-08-06
 draft: false
-image: beef-tataki-remix.png
+image: beef-tataki-remix.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT4M

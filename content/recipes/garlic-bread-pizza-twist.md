@@ -7,7 +7,7 @@ ogDescription: "Crunchy garlic butter baked French bread topped with marinara, m
 focusKeyphrase: "Garlic Bread Pizza Twist"
 date: 2025-10-11
 draft: false
-image: garlic-bread-pizza-twist.png
+image: garlic-bread-pizza-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT20M

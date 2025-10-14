@@ -7,7 +7,7 @@ ogDescription: "Crunchy pepperoni cheese logs with melty mozzarella center and p
 focusKeyphrase: "Pepperoni Cheese Logs"
 date: 2025-10-11
 draft: false
-image: pepperoni-cheese-logs.png
+image: pepperoni-cheese-logs.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT16M

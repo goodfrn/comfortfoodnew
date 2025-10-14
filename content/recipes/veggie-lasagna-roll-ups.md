@@ -7,7 +7,7 @@ ogDescription: "Layers of zucchini slices, ricotta-egg filling, mushrooms nestle
 focusKeyphrase: "Veggie Lasagna Roll-ups"
 date: 2025-10-14
 draft: false
-image: veggie-lasagna-roll-ups.png
+image: veggie-lasagna-roll-ups.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT28M

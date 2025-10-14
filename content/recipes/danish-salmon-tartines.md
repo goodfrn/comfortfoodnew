@@ -7,7 +7,7 @@ ogDescription: "Open-faced rye bread topped with creamy salmon mix, roasted carr
 focusKeyphrase: "Danish salmon tartines"
 date: 2025-08-16
 draft: false
-image: danish-salmon-tartines.png
+image: danish-salmon-tartines.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

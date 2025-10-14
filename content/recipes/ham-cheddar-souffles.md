@@ -7,7 +7,7 @@ ogDescription: "Light ham and cheddar souffles with fluffy whites folded into a 
 focusKeyphrase: "Ham Cheddar Souffles"
 date: 2025-10-10
 draft: false
-image: ham-cheddar-souffles.png
+image: ham-cheddar-souffles.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT28M

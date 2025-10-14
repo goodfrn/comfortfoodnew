@@ -7,7 +7,7 @@ ogDescription: "Crunchy buttery shortbread with mini chips folded in. Chill the 
 focusKeyphrase: "Chunky Chocolate Chip Shortbread"
 date: 2025-10-12
 draft: false
-image: chunky-chocolate-chip-shortbread.png
+image: chunky-chocolate-chip-shortbread.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

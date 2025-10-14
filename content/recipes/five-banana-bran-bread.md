@@ -7,7 +7,7 @@ ogDescription: "Moist banana bran loaf with oat flour, yogurt, and light brown s
 focusKeyphrase: "banana bran bread"
 date: 2025-09-24
 draft: false
-image: five-banana-bran-bread.png
+image: five-banana-bran-bread.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Charred tomato base simmers with shallots, roasted pepper, caper
 focusKeyphrase: "smoky tomato tuna sauce"
 date: 2025-08-09
 draft: false
-image: smoky-tomato-tuna-sauce.png
+image: smoky-tomato-tuna-sauce.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

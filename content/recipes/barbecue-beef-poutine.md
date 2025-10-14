@@ -7,7 +7,7 @@ ogDescription: "Crispy potato wedges, smoky cumin beef barbecue sauce, gooey che
 focusKeyphrase: "Barbecue Beef Poutine"
 date: 2025-07-28
 draft: false
-image: barbecue-beef-poutine.png
+image: barbecue-beef-poutine.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

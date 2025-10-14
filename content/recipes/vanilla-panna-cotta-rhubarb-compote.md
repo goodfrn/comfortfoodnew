@@ -7,7 +7,7 @@ ogDescription: "Silky vanilla panna cotta set with gelatin, paired with tart rhu
 focusKeyphrase: "Vanilla Panna Cotta Rhubarb Compote"
 date: 2025-09-29
 draft: false
-image: vanilla-panna-cotta-rhubarb-compote.png
+image: vanilla-panna-cotta-rhubarb-compote.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT14M

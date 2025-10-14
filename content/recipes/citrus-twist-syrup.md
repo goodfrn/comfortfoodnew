@@ -7,7 +7,7 @@ ogDescription: "Citrus Twist Syrup captures the essence of freshness. Use lime, 
 focusKeyphrase: "Citrus Twist Syrup"
 date: 2025-07-24
 draft: false
-image: citrus-twist-syrup.png
+image: citrus-twist-syrup.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT7M

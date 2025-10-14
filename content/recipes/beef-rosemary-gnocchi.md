@@ -7,7 +7,7 @@ ogDescription: "Slow-braised beef and veal meld smoky paprika, thyme, and pan-se
 focusKeyphrase: "Beef Rosemary Gnocchi"
 date: 2025-08-12
 draft: false
-image: beef-rosemary-gnocchi.png
+image: beef-rosemary-gnocchi.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT6H

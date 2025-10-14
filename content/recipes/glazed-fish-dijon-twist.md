@@ -7,7 +7,7 @@ ogDescription: "Bright grilled citrus with honey-maple mustard glaze on seared w
 focusKeyphrase: "Glazed Fish Dijon Twist"
 date: 2025-08-05
 draft: false
-image: glazed-fish-dijon-twist.png
+image: glazed-fish-dijon-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy green beans with smoky bacon, lemon brightness, fresh he
 focusKeyphrase: "Green Beans Bacon Twist"
 date: 2025-10-12
 draft: false
-image: green-beans-bacon-twist.png
+image: green-beans-bacon-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT22M

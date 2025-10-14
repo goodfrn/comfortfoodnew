@@ -7,7 +7,7 @@ ogDescription: "Juicy chicken breasts rolled tight with crunchy julienne roots, 
 focusKeyphrase: "Chicken Roulades Autumn Veg"
 date: 2025-08-13
 draft: false
-image: chicken-roulades-autumn-veg.png
+image: chicken-roulades-autumn-veg.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Layer thin Yukon Gold potatoes with garlic cream and Gruyere che
 focusKeyphrase: "garlic roasted potato gratin"
 date: 2025-08-14
 draft: false
-image: garlic-roasted-potato-gratin.png
+image: garlic-roasted-potato-gratin.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H35M

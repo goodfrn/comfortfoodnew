@@ -7,7 +7,7 @@ ogDescription: "Whip ricotta with honey, cream and spices. Chill for hours, text
 focusKeyphrase: "Sweet Ricotta with Honey Cinnamon"
 date: 2025-08-17
 draft: false
-image: sweet-ricotta-honey.png
+image: sweet-ricotta-honey.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Grill chicken cubes, chorizo slices, and olives with warming spi
 focusKeyphrase: "Chicken Chorizo Olive Skewers"
 date: 2025-09-25
 draft: false
-image: chicken-chorizo-skewers.png
+image: chicken-chorizo-skewers.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

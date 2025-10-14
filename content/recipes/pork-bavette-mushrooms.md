@@ -7,7 +7,7 @@ ogDescription: "Pan-seared pork bavette with fragrant mushroom-apricot sauce. Ba
 focusKeyphrase: "pork bavette with mushrooms"
 date: 2025-08-08
 draft: false
-image: pork-bavette-mushrooms.png
+image: pork-bavette-mushrooms.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

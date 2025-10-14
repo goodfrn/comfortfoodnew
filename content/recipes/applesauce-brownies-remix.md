@@ -7,7 +7,7 @@ ogDescription: "Dense brownies with applesauce moisture, pecans toasted, chocola
 focusKeyphrase: "Applesauce Brownies Remix"
 date: 2025-10-05
 draft: false
-image: applesauce-brownies-remix.png
+image: applesauce-brownies-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Curried chicken salad on crisp toasted rye. Turmeric punch, fres
 focusKeyphrase: "curried chicken salad toasts"
 date: 2025-08-19
 draft: false
-image: curried-chicken-salad-toasts.png
+image: curried-chicken-salad-toasts.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Sharp grapefruit notes meet gently sweet peach ice cubes in chil
 focusKeyphrase: "grapefruit wine peach ice cubes"
 date: 2025-08-07
 draft: false
-image: grapefruit-wine-peach-ice-cubes.png
+image: grapefruit-wine-peach-ice-cubes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

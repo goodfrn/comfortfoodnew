@@ -7,7 +7,7 @@ ogDescription: "Discover Ham Waffles Poached Eggs. Waffles with spinach, thin ha
 focusKeyphrase: "Ham Waffles Poached Eggs"
 date: 2025-07-20
 draft: false
-image: ham-waffles-poached-eggs.png
+image: ham-waffles-poached-eggs.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT22M

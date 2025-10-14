@@ -7,7 +7,7 @@ ogDescription: "Crack peppercorns, swap cloves for star anise, coconut milk crea
 focusKeyphrase: "Spiced Masala Chai"
 date: 2025-08-14
 draft: false
-image: spiced-masala-chai.png
+image: spiced-masala-chai.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy the rich flavors of Veal Escalopes Marsala Spinach with wi
 focusKeyphrase: "Veal Escalopes Marsala Spinach"
 date: 2025-07-19
 draft: false
-image: veal-escalopes-marsala-spinach.png
+image: veal-escalopes-marsala-spinach.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

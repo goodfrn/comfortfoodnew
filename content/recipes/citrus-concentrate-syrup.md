@@ -7,7 +7,7 @@ ogDescription: "Bright citrus zest rubbed with sugar, soaked to draw oils. Add j
 focusKeyphrase: "citrus concentrate syrup"
 date: 2025-09-26
 draft: false
-image: citrus-concentrate-syrup.png
+image: citrus-concentrate-syrup.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT2H55M

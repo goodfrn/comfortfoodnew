@@ -7,7 +7,7 @@ ogDescription: "Speedy pinto bean chili with fire-roasted tomatoes, smoked papri
 focusKeyphrase: "pinto bean chili"
 date: 2025-07-26
 draft: false
-image: quick-pinto-chili.png
+image: quick-pinto-chili.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

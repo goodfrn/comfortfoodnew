@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked veal cubes with mushrooms, herbs, fennel and a silky
 focusKeyphrase: "veal stew creamy mushroom sauce"
 date: 2025-08-16
 draft: false
-image: veal-stew-mushroom-sauce.png
+image: veal-stew-mushroom-sauce.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT2H15M

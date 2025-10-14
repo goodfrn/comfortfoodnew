@@ -7,7 +7,7 @@ ogDescription: "Nutty baklava stacked thick with buttered phyllo, honey syrup po
 focusKeyphrase: "Honey Nut Baklava"
 date: 2025-10-13
 draft: false
-image: honey-nut-baklava.png
+image: honey-nut-baklava.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H15M

@@ -7,7 +7,7 @@ ogDescription: "Kabocha pumpkin cake with layered dark ganache made from coconut
 focusKeyphrase: "Pumpkin Spice Cake with Dark Ganache"
 date: 2025-08-11
 draft: false
-image: pumpkin-spice-cake.png
+image: pumpkin-spice-cake.jpg
 author: "Emma"
 prepTime: PT60M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Quick carrot jam with orange and cinnamon. Watch bubbles, soft c
 focusKeyphrase: "spiced carrot jam"
 date: 2025-09-23
 draft: false
-image: yogurt-spiced-carrot-jam.png
+image: yogurt-spiced-carrot-jam.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Sear chicken livers till golden but tender inside; gentle radish
 focusKeyphrase: "seared chicken livers with radishes and peas"
 date: 2025-08-17
 draft: false
-image: chicken-livers-radishes-peas.png
+image: chicken-livers-radishes-peas.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT20M

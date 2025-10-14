@@ -7,7 +7,7 @@ ogDescription: "Savor Mini Meatloaf Cupcakes with mashed potato tops and crispy 
 focusKeyphrase: "mini meatloaf cupcakes"
 date: 2025-10-11
 draft: false
-image: mini-meatloaf-cupcakes.png
+image: mini-meatloaf-cupcakes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT28M

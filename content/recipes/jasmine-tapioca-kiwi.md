@@ -7,7 +7,7 @@ ogDescription: "Soft tapioca pearls soak jasmine tea notes, coconut cream, and g
 focusKeyphrase: "jasmine tapioca kiwi"
 date: 2025-09-28
 draft: false
-image: jasmine-tapioca-kiwi.png
+image: jasmine-tapioca-kiwi.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT18M

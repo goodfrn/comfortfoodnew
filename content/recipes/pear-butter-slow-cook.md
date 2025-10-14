@@ -7,7 +7,7 @@ ogDescription: "Slow-simmered Anjou pears cooked down to a soft, spreadable butt
 focusKeyphrase: "Pear Butter Slow-Cook"
 date: 2025-09-19
 draft: false
-image: pear-butter-slow-cook.png
+image: pear-butter-slow-cook.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT3H10M

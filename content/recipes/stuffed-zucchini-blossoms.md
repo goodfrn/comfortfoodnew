@@ -7,7 +7,7 @@ ogDescription: "Delightful Stuffed Zucchini Blossoms filled with creamy veggie f
 focusKeyphrase: "Stuffed Zucchini Blossoms"
 date: 2025-07-18
 draft: false
-image: stuffed-zucchini-blossoms.png
+image: stuffed-zucchini-blossoms.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Chocolate cake with condensed milk soak, thick caramel drizzle, 
 focusKeyphrase: "Better Than Anything Chocolate Cake"
 date: 2025-10-05
 draft: false
-image: better-than-anything-cake.png
+image: better-than-anything-cake.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT28M

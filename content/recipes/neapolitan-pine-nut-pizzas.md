@@ -7,7 +7,7 @@ ogDescription: "Enjoy Neapolitan Pine Nut Pizzas, a delicious blend of spicy sop
 focusKeyphrase: "Neapolitan Pine Nut Pizzas"
 date: 2025-07-19
 draft: false
-image: neapolitan-pine-nut-pizzas.png
+image: neapolitan-pine-nut-pizzas.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT4M

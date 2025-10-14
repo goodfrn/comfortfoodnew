@@ -7,7 +7,7 @@ ogDescription: "Indulge in Cognac Foie Gras Pots - a simple recipe with rich fla
 focusKeyphrase: "Cognac Foie Gras Pots"
 date: 2025-07-19
 draft: false
-image: cognac-foie-gras-pots.png
+image: cognac-foie-gras-pots.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT45M

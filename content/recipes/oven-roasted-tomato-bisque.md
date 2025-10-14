@@ -7,7 +7,7 @@ ogDescription: "Roast tomatoes close, hear crackle, smell shift. Tarragon twist,
 focusKeyphrase: "oven-roasted tomato bisque"
 date: 2025-08-07
 draft: false
-image: oven-roasted-tomato-bisque.png
+image: oven-roasted-tomato-bisque.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT30M

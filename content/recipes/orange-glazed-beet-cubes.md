@@ -7,7 +7,7 @@ ogDescription: "Whole beets simmered slow, peeled, diced, then glazed with zesty
 focusKeyphrase: "Orange-Glazed Beet Cubes"
 date: 2025-08-04
 draft: false
-image: orange-glazed-beet-cubes.png
+image: orange-glazed-beet-cubes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT65M

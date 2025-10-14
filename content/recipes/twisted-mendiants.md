@@ -7,7 +7,7 @@ ogDescription: "Semisweet chocolate discs with nuts and fruits. Peppermint adds 
 focusKeyphrase: "Twisted Mendiants"
 date: 2025-08-19
 draft: false
-image: twisted-mendiants.png
+image: twisted-mendiants.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Brioche slices soaked in egg-maple custard, pan caramelized with
 focusKeyphrase: "maple caramelized french toast"
 date: 2025-09-29
 draft: false
-image: maple-caramelized-french-toast.png
+image: maple-caramelized-french-toast.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT45M

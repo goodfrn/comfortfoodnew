@@ -7,7 +7,7 @@ ogDescription: "A baked cornstarch omelette with a silkier texture. Watch for go
 focusKeyphrase: "oven-baked cornstarch omelette"
 date: 2025-08-28
 draft: false
-image: oven-baked-cornstarch-omelette.png
+image: oven-baked-cornstarch-omelette.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT25M

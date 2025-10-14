@@ -7,7 +7,7 @@ ogDescription: "Spiced crust, fresh blueberries, Greek yogurt, and rosemary gel√
 focusKeyphrase: "Wild Blueberry Cheesecake"
 date: 2025-08-19
 draft: false
-image: wild-blueberry-cheesecake-twist.png
+image: wild-blueberry-cheesecake-twist.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT1H20M

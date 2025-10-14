@@ -7,7 +7,7 @@ ogDescription: "Enjoy Silken Tofu Peanut Bowls. Crunchy, creamy. Vegan delight w
 focusKeyphrase: "Silken Tofu Peanut Bowls"
 date: 2025-07-23
 draft: false
-image: silken-tofu-peanut-bowls.png
+image: silken-tofu-peanut-bowls.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT3M

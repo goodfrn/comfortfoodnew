@@ -7,7 +7,7 @@ ogDescription: "Smoky pancetta, grilled mussels popping open, tangy roasted toma
 focusKeyphrase: "Grilled Mussel Spaghetti"
 date: 2025-08-19
 draft: false
-image: grilled-mussel-spaghetti.png
+image: grilled-mussel-spaghetti.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

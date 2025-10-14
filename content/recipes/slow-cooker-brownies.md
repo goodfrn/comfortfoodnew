@@ -7,7 +7,7 @@ ogDescription: "Slow cooker slow bake, rich chocolate melted gently with butter,
 focusKeyphrase: "Slow Cooker Chocolate Brownies"
 date: 2025-08-06
 draft: false
-image: slow-cooker-brownies.png
+image: slow-cooker-brownies.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT2H10M

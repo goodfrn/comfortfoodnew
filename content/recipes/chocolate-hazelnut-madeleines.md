@@ -7,7 +7,7 @@ ogDescription: "Nutty almond flour, cinnamon hint, dark chocolate batters whippe
 focusKeyphrase: "Chocolate Hazelnut Madeleines"
 date: 2025-08-07
 draft: false
-image: chocolate-hazelnut-madeleines.png
+image: chocolate-hazelnut-madeleines.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT10M

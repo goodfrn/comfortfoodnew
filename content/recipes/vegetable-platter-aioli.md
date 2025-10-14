@@ -7,7 +7,7 @@ ogDescription: "Dive into this Vegetable Platter with Garlic Aioli. Fresh veggie
 focusKeyphrase: "Vegetable Platter with Garlic Aioli"
 date: 2025-07-25
 draft: false
-image: vegetable-platter-aioli.png
+image: vegetable-platter-aioli.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT45M

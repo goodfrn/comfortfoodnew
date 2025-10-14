@@ -7,7 +7,7 @@ ogDescription: "Chilled vanilla white mocha with white chocolate, thick cold foa
 focusKeyphrase: "vanilla white mocha chill"
 date: 2025-10-14
 draft: false
-image: vanilla-white-mocha.png
+image: vanilla-white-mocha.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

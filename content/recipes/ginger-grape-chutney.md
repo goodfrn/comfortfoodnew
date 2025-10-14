@@ -7,7 +7,7 @@ ogDescription: "Tangy chutney with grapes, raisins, candied ginger, warmed by ci
 focusKeyphrase: "Ginger Grape Chutney"
 date: 2025-08-04
 draft: false
-image: ginger-grape-chutney.png
+image: ginger-grape-chutney.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Creamy spicy pasta layered with shredded chicken, bacon, cheddar
 focusKeyphrase: "Jalapeno Popper Chicken Pasta"
 date: 2025-10-12
 draft: false
-image: jalapeno-popper-chicken-pasta.png
+image: jalapeno-popper-chicken-pasta.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

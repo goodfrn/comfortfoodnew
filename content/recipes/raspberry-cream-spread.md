@@ -7,7 +7,7 @@ ogDescription: "Rich raspberry cream spread whipped with apple purée, butter, a
 focusKeyphrase: "Raspberry Cream Spread"
 date: 2025-08-04
 draft: false
-image: raspberry-cream-spread.png
+image: raspberry-cream-spread.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT5M

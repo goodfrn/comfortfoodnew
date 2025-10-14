@@ -7,7 +7,7 @@ ogDescription: "Rustic loaf with chewy cranberries and bittersweet chocolate. Lo
 focusKeyphrase: "Cran-Choco Rustic Loaf"
 date: 2025-07-27
 draft: false
-image: cran-choco-loaf.png
+image: cran-choco-loaf.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H

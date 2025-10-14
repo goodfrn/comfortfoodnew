@@ -7,7 +7,7 @@ ogDescription: "A rustic salad mixing crackling guanciale, soft lentils, crisp a
 focusKeyphrase: "Spinach Lentil Asparagus Salad"
 date: 2025-08-13
 draft: false
-image: spinach-lentil-asparagus-salad.png
+image: spinach-lentil-asparagus-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

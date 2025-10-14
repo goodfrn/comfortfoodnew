@@ -7,7 +7,7 @@ ogDescription: "Chocolate cake layers meet salted caramel buttercream. Toasted c
 focusKeyphrase: "Salted Caramel Chocolate Cake"
 date: 2025-07-29
 draft: false
-image: salted-caramel-chocolate-cake.png
+image: salted-caramel-chocolate-cake.jpg
 author: "Emma"
 prepTime: PT1H35M
 cookTime: PT1H25M

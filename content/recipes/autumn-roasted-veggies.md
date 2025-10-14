@@ -7,7 +7,7 @@ ogDescription: "Delicious Autumn Roasted Veggies and Pear. A mix of seasonal veg
 focusKeyphrase: "Autumn Roasted Veggies and Pear"
 date: 2025-07-16
 draft: false
-image: autumn-roasted-veggies.png
+image: autumn-roasted-veggies.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT30M

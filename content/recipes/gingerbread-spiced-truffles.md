@@ -7,7 +7,7 @@ ogDescription: "Milk chocolate ganache with bourbon, gingerbread spices. Rolled,
 focusKeyphrase: "Gingerbread-Spiced Truffles"
 date: 2025-07-29
 draft: false
-image: gingerbread-spiced-truffles.png
+image: gingerbread-spiced-truffles.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT7M

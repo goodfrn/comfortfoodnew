@@ -7,7 +7,7 @@ ogDescription: "Discover Avocados with Sour Cream Twist. A fresh and tangy treat
 focusKeyphrase: "Avocados with Sour Cream Twist"
 date: 2025-07-21
 draft: false
-image: avocados-sour-cream-twist.png
+image: avocados-sour-cream-twist.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

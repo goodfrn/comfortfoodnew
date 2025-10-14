@@ -7,7 +7,7 @@ ogDescription: "Spinach pesto dolloped on firm eggs; roasted garlic mellows, chi
 focusKeyphrase: "Herbed Pesto Egg Dollops"
 date: 2025-10-09
 draft: false
-image: herbed-pesto-egg-dollops.png
+image: herbed-pesto-egg-dollops.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT12M

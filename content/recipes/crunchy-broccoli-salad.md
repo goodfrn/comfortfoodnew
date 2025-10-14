@@ -7,7 +7,7 @@ ogDescription: "Big chunks broccoli snap, smoky pancetta hits, dried cherries zi
 focusKeyphrase: "Crunchy Broccoli Salad"
 date: 2025-10-11
 draft: false
-image: crunchy-broccoli-salad.png
+image: crunchy-broccoli-salad.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Frozen raspberries, prosecco bubbles, and maple syrup blend in p
 focusKeyphrase: "Frozen Sangria Slush"
 date: 2025-08-11
 draft: false
-image: frozen-sangria-slush.png
+image: frozen-sangria-slush.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Chunky fresh tomato sauce simmered gently with garlic, shallots,
 focusKeyphrase: "fresh tomato sauce"
 date: 2025-08-04
 draft: false
-image: fresh-tomato-sauce.png
+image: fresh-tomato-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

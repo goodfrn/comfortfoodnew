@@ -7,7 +7,7 @@ ogDescription: "Stack colorful Lego-inspired cake blocks with almond aroma, trim
 focusKeyphrase: "Lego Block Cake"
 date: 2025-09-25
 draft: false
-image: lego-block-cake.png
+image: lego-block-cake.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT48M

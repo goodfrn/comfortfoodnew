@@ -7,7 +7,7 @@ ogDescription: "Forget butter and nutmeg. Olive oil and shallots lead here. Whit
 focusKeyphrase: "béchamel sauce twist"
 date: 2025-08-06
 draft: false
-image: twist-on-bechamel.png
+image: twist-on-bechamel.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT20M

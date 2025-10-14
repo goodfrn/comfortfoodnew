@@ -7,7 +7,7 @@ ogDescription: "Smoky gouda, roasted peppers, crispy pancetta, and curried mayo 
 focusKeyphrase: "Curry Omelette Breakfast Sandwiches"
 date: 2025-07-30
 draft: false
-image: curry-omelette-sandwiches.png
+image: curry-omelette-sandwiches.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

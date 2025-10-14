@@ -7,7 +7,7 @@ ogDescription: "Discover Sea Buckthorn Fruit Chutney. A perfect mix of sweet, ta
 focusKeyphrase: "Sea Buckthorn Fruit Chutney"
 date: 2025-07-20
 draft: false
-image: sea-buckthorn-chutney.png
+image: sea-buckthorn-chutney.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT25M

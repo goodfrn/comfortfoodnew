@@ -7,7 +7,7 @@ ogDescription: "Delicious Sesame Salmon Wonton Soup. Flavors of ginger, snow pea
 focusKeyphrase: "Sesame Salmon Wonton Soup"
 date: 2025-07-23
 draft: false
-image: sesame-salmon-wonton-soup.png
+image: sesame-salmon-wonton-soup.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Baked macaroni with diced sausage, corn, sharp cheddar, and crun
 focusKeyphrase: "Chorizo Corn Macaroni Bake"
 date: 2025-08-15
 draft: false
-image: chorizo-corn-macaroni.png
+image: chorizo-corn-macaroni.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT45M

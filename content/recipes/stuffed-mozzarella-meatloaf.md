@@ -7,7 +7,7 @@ ogDescription: "Mozzarella-stuffed meatloaf baked at 340°F, pork-beef blend, pe
 focusKeyphrase: "stuffed mozzarella meatloaf"
 date: 2025-10-04
 draft: false
-image: stuffed-mozzarella-meatloaf.png
+image: stuffed-mozzarella-meatloaf.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

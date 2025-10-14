@@ -7,7 +7,7 @@ ogDescription: "Golden croquettes with white beans and tuna. Crispy panko crust,
 focusKeyphrase: "white bean tuna croquettes"
 date: 2025-08-10
 draft: false
-image: white-bean-tuna-croquettes.png
+image: white-bean-tuna-croquettes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

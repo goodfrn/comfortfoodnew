@@ -7,7 +7,7 @@ ogDescription: "Custardy bread pudding meets juicy blueberries; baked till golde
 focusKeyphrase: "Blueberry Bread Pudding Maple Sauce"
 date: 2025-09-29
 draft: false
-image: blueberry-bread-pudding.png
+image: blueberry-bread-pudding.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H20M

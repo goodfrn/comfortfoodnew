@@ -7,7 +7,7 @@ ogDescription: "Pan-fried Italian sausage patties packed with fennel, garlic, pa
 focusKeyphrase: "Italian sausage patties"
 date: 2025-09-26
 draft: false
-image: homemade-italian-sausage.png
+image: homemade-italian-sausage.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT14M

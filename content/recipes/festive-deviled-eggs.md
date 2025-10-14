@@ -7,7 +7,7 @@ ogDescription: "Steamed eggs, layered fillings, salty roe, crunchy cucumber, and
 focusKeyphrase: "festive deviled egg platter"
 date: 2025-08-19
 draft: false
-image: festive-deviled-eggs.png
+image: festive-deviled-eggs.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

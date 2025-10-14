@@ -7,7 +7,7 @@ ogDescription: "Meatballs with veal and beef, sweet sausage slices, basil, garli
 focusKeyphrase: "Nancy's Meatball Sauce Mix"
 date: 2025-07-28
 draft: false
-image: nancys-meatball-sauce.png
+image: nancys-meatball-sauce.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT2H40M

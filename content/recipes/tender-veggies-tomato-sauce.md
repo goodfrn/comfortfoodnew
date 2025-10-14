@@ -7,7 +7,7 @@ ogDescription: "Roasted zucchini and red pepper sautéed with garlic, onion, sim
 focusKeyphrase: "tender veggies tomato sauce"
 date: 2025-08-13
 draft: false
-image: tender-veggies-tomato-sauce.png
+image: tender-veggies-tomato-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

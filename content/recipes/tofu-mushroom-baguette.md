@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Tofu Mushroom Baguette packed with roasted tofu, shiitak
 focusKeyphrase: "Tofu Mushroom Baguette"
 date: 2025-07-18
 draft: false
-image: tofu-mushroom-baguette.png
+image: tofu-mushroom-baguette.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT25M

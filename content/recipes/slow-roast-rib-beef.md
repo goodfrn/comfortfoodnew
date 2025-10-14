@@ -7,7 +7,7 @@ ogDescription: "Slow roast rib beef low at 140 C with pork fat and horseradish. 
 focusKeyphrase: "slow roast rib beef"
 date: 2025-08-18
 draft: false
-image: slow-roast-rib-beef.png
+image: slow-roast-rib-beef.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H45M

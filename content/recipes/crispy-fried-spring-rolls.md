@@ -7,7 +7,7 @@ ogDescription: "Golden-fried spring rolls stuffed with pork, shiitake, and veggi
 focusKeyphrase: "Crispy Fried Spring Rolls"
 date: 2025-09-24
 draft: false
-image: crispy-fried-spring-rolls.png
+image: crispy-fried-spring-rolls.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT30M

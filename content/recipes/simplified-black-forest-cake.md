@@ -7,7 +7,7 @@ ogDescription: "Black Forest with rum & espresso punch, almond flour moisture, g
 focusKeyphrase: "Simplified Black Forest Cake"
 date: 2025-08-13
 draft: false
-image: simplified-black-forest-cake.png
+image: simplified-black-forest-cake.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT50M

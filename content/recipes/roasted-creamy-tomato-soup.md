@@ -7,7 +7,7 @@ ogDescription: "Caramelized roasted tomatoes merge with basil and cream, simmere
 focusKeyphrase: "creamy tomato soup"
 date: 2025-10-13
 draft: false
-image: roasted-creamy-tomato-soup.png
+image: roasted-creamy-tomato-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

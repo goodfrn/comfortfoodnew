@@ -7,7 +7,7 @@ ogDescription: "Crispy pork chops with sharp Pecorino crust, layered buttered po
 focusKeyphrase: "Sheet Pan Pork Chops"
 date: 2025-10-01
 draft: false
-image: sheet-pan-pork-chops.png
+image: sheet-pan-pork-chops.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

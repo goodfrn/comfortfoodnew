@@ -7,7 +7,7 @@ ogDescription: "Golden fritters with wine-soaked raisins, citrus punch, pine nut
 focusKeyphrase: "carnival fritters"
 date: 2025-09-25
 draft: false
-image: carnival-fritters.png
+image: carnival-fritters.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT25M

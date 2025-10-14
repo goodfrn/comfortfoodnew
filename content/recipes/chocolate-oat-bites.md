@@ -7,7 +7,7 @@ ogDescription: "Browned butter, oats, almonds, espresso meet dark cocoa in these
 focusKeyphrase: "Chocolate Oat Bites"
 date: 2025-08-10
 draft: false
-image: chocolate-oat-bites.png
+image: chocolate-oat-bites.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT5M

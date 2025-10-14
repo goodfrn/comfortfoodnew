@@ -7,7 +7,7 @@ ogDescription: "Golden seared halibut with earthy shiitake, bright peas, and ten
 focusKeyphrase: "Seared Halibut with Mushrooms and Greens"
 date: 2025-07-27
 draft: false
-image: seared-halibut-mushrooms.png
+image: seared-halibut-mushrooms.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT17M

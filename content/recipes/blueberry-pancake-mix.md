@@ -7,7 +7,7 @@ ogDescription: "Dry pancake mix uses whole wheat, potassium bicarbonate, coconut
 focusKeyphrase: "blueberry pancake mix"
 date: 2025-08-08
 draft: false
-image: blueberry-pancake-mix.png
+image: blueberry-pancake-mix.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT6M

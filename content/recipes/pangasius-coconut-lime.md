@@ -7,7 +7,7 @@ ogDescription: "Tangy lime and earthy turmeric meet tender pangasius in a coconu
 focusKeyphrase: "Pangasius Coconut Lime"
 date: 2025-08-17
 draft: false
-image: pangasius-coconut-lime.png
+image: pangasius-coconut-lime.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

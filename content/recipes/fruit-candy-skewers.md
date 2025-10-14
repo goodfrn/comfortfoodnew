@@ -7,7 +7,7 @@ ogDescription: "Enjoy playful Fruit Candy Skewers combining sweet fruits and col
 focusKeyphrase: "Fruit Candy Skewers"
 date: 2025-07-20
 draft: false
-image: fruit-candy-skewers.png
+image: fruit-candy-skewers.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT3M

@@ -7,7 +7,7 @@ ogDescription: "Tart crust from yogurt dough; crushed tapioca swells in bubbling
 focusKeyphrase: "Cherry Pie with Yogurt Crust"
 date: 2025-09-29
 draft: false
-image: cherry-pie-yogurt-crust.png
+image: cherry-pie-yogurt-crust.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT47M

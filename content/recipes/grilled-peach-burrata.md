@@ -7,7 +7,7 @@ ogDescription: "Smoky grilled peaches paired with creamy burrata, confit cherry 
 focusKeyphrase: "Grilled Peach Burrata"
 date: 2025-08-17
 draft: false
-image: grilled-peach-burrata.png
+image: grilled-peach-burrata.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Crisp smoked ham steaks in sage mustard cream sauce with wine an
 focusKeyphrase: "smoked ham steaks with sage cream"
 date: 2025-08-16
 draft: false
-image: smoked-ham-steaks.png
+image: smoked-ham-steaks.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT28M

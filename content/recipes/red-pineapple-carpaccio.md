@@ -7,7 +7,7 @@ ogDescription: "Thin pineapple slices infused in pomegranate with raspberry burs
 focusKeyphrase: "Red Pineapple Carpaccio"
 date: 2025-09-23
 draft: false
-image: red-pineapple-carpaccio.png
+image: red-pineapple-carpaccio.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT0M

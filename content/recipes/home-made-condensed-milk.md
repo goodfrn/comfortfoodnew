@@ -7,7 +7,7 @@ ogDescription: "Slow simmer milk with sugar, skim foam, avoid stirring once bubb
 focusKeyphrase: "homemade condensed milk"
 date: 2025-10-12
 draft: false
-image: home-made-condensed-milk.png
+image: home-made-condensed-milk.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT35M

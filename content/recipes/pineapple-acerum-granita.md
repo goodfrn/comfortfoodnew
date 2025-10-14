@@ -7,7 +7,7 @@ ogDescription: "Ripe pineapple meets maple spirit and whipped coconut cream in t
 focusKeyphrase: "Pineapple Acerum Granita"
 date: 2025-08-18
 draft: false
-image: pineapple-acerum-granita.png
+image: pineapple-acerum-granita.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Braised Pork Corn Quesadillas filled with smoky flavo
 focusKeyphrase: "Braised Pork Corn Quesadillas"
 date: 2025-07-21
 draft: false
-image: braised-pork-quesadillas.png
+image: braised-pork-quesadillas.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

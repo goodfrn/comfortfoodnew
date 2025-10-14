@@ -7,7 +7,7 @@ ogDescription: "Mussels steamed fast in green sauce from white wine, herbs, kale
 focusKeyphrase: "Green Salsa Mussels"
 date: 2025-08-13
 draft: false
-image: green-salsa-mussels.png
+image: green-salsa-mussels.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Delicious Pear Ricotta Blue Canapés. Quick to prepare, bursting
 focusKeyphrase: "Pear Ricotta Blue Canapés"
 date: 2025-07-17
 draft: false
-image: pear-ricotta-blue-canapes.png
+image: pear-ricotta-blue-canapes.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT0M

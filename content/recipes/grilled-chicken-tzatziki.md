@@ -7,7 +7,7 @@ ogDescription: "Grilled chicken, herby parsley yogurt dip for adults, garlic lem
 focusKeyphrase: "grilled chicken tzatziki"
 date: 2025-07-28
 draft: false
-image: grilled-chicken-tzatziki.png
+image: grilled-chicken-tzatziki.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT13M

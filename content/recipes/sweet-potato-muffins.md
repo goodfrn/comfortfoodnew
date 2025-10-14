@@ -7,7 +7,7 @@ ogDescription: "Delicious Sweet Potato Muffins. Nutrient-rich and perfect for br
 focusKeyphrase: "Sweet Potato Muffins"
 date: 2025-07-21
 draft: false
-image: sweet-potato-muffins.png
+image: sweet-potato-muffins.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT32M

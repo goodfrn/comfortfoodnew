@@ -7,7 +7,7 @@ ogDescription: "Noodles rinsed cold, tofu soaking up soy, tangy tahini dressing 
 focusKeyphrase: "Rice Noodle Salad with Tahini"
 date: 2025-09-26
 draft: false
-image: rice-noodle-salad.png
+image: rice-noodle-salad.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT3M

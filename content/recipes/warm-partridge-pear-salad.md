@@ -7,7 +7,7 @@ ogDescription: "Warm Partridge Pear Salad combines warm confit partridge, fresh 
 focusKeyphrase: "Warm Partridge Pear Salad"
 date: 2025-07-20
 draft: false
-image: warm-partridge-pear-salad.png
+image: warm-partridge-pear-salad.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT13M

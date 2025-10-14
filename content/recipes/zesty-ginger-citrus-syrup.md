@@ -7,7 +7,7 @@ ogDescription: "Bright ginger syrup with lemon zest. Heat gently, steep off heat
 focusKeyphrase: "Ginger Citrus Syrup"
 date: 2025-08-06
 draft: false
-image: zesty-ginger-citrus-syrup.png
+image: zesty-ginger-citrus-syrup.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Bold seitan, caramelized crust, slow simmer veggie stew with gla
 focusKeyphrase: "Seitan Bourguignon"
 date: 2025-09-26
 draft: false
-image: seitan-bourguignon-twist.png
+image: seitan-bourguignon-twist.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT1H20M

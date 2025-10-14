@@ -7,7 +7,7 @@ ogDescription: "French fougasse swapped bacon for pancetta, thyme for sugar. Cri
 focusKeyphrase: "Savory Herb Fougasse"
 date: 2025-08-07
 draft: false
-image: savory-herb-fougasse.png
+image: savory-herb-fougasse.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT28M

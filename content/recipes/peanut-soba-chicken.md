@@ -7,7 +7,7 @@ ogDescription: "Soba noodles tossed with chicken, bell pepper, green beans in a 
 focusKeyphrase: "Peanut Soba Chicken"
 date: 2025-08-14
 draft: false
-image: peanut-soba-chicken.png
+image: peanut-soba-chicken.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Bright, ruby red Strawberry Thyme Gin Smash blends muddled fruit
 focusKeyphrase: "Strawberry Thyme Gin Smash"
 date: 2025-09-24
 draft: false
-image: strawberry-thyme-gin-smash.png
+image: strawberry-thyme-gin-smash.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

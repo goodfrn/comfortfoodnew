@@ -7,7 +7,7 @@ ogDescription: "Roasted garlic soft and caramelized with broccoli and cauliflowe
 focusKeyphrase: "Garlic-Roasted Broccoli Purée"
 date: 2025-07-27
 draft: false
-image: garlic-roasted-broccoli-puree.png
+image: garlic-roasted-broccoli-puree.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT1H

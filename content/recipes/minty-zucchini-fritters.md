@@ -7,7 +7,7 @@ ogDescription: "Crunchy zucchini fritters with ricotta and herbs, pan-fried cris
 focusKeyphrase: "Minty Zucchini Fritters"
 date: 2025-08-04
 draft: false
-image: minty-zucchini-fritters.png
+image: minty-zucchini-fritters.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

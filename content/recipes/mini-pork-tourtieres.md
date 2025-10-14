@@ -7,7 +7,7 @@ ogDescription: "Flaky golden mini pork pies with spiced veal or pork filling, sa
 focusKeyphrase: "Mini Pork Tourtières"
 date: 2025-09-29
 draft: false
-image: mini-pork-tourtieres.png
+image: mini-pork-tourtieres.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT40M

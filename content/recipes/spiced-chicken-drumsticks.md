@@ -7,7 +7,7 @@ ogDescription: "Smoky sweet chicken drumsticks coated in bold spices. Marinate o
 focusKeyphrase: "Spiced Chicken Drumsticks"
 date: 2025-07-25
 draft: false
-image: spiced-chicken-drumsticks.png
+image: spiced-chicken-drumsticks.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H25M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy yellow beans, spicy rocket, tomatoes with zingy vinaigre
 focusKeyphrase: "Yellow Bean Rocket Salad"
 date: 2025-09-01
 draft: false
-image: yellow-bean-rocket-salad.png
+image: yellow-bean-rocket-salad.jpg
 author: "Emma"
 prepTime: PT8M
 cookTime: PT3M

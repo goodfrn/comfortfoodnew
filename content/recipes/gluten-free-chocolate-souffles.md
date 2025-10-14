@@ -7,7 +7,7 @@ ogDescription: "Light, airy chocolate soufflés using potato starch and lime zes
 focusKeyphrase: "gluten-free chocolate soufflés"
 date: 2025-08-07
 draft: false
-image: gluten-free-chocolate-souffles.png
+image: gluten-free-chocolate-souffles.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Try this Irish Steel-Cut Oats Twist. Rich texture, warming cinna
 focusKeyphrase: "Irish Steel-Cut Oats"
 date: 2025-07-19
 draft: false
-image: irish-steel-cut-oats.png
+image: irish-steel-cut-oats.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT15M

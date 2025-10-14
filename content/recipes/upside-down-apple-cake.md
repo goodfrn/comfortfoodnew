@@ -7,7 +7,7 @@ ogDescription: "Toasted walnuts, almond milk swap, spice warmth, creamy caramel.
 focusKeyphrase: "upside-down apple cake caramel"
 date: 2025-08-09
 draft: false
-image: upside-down-apple-cake.png
+image: upside-down-apple-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

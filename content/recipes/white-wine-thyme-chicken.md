@@ -7,7 +7,7 @@ ogDescription: "Brined roast chicken with thyme, fennel, crisp skin from dry fri
 focusKeyphrase: "White Wine Thyme Roast Chicken"
 date: 2025-09-27
 draft: false
-image: white-wine-thyme-chicken.png
+image: white-wine-thyme-chicken.jpg
 author: "Emma"
 prepTime: PT70M
 cookTime: PT75M

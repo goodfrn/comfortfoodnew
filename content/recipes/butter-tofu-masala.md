@@ -7,7 +7,7 @@ ogDescription: "Firm tofu browned, sauce thick and fragrant with spices, creamy 
 focusKeyphrase: "Butter Tofu Masala"
 date: 2025-09-25
 draft: false
-image: butter-tofu-masala.png
+image: butter-tofu-masala.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT32M

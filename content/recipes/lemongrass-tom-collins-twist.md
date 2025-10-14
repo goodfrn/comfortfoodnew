@@ -7,7 +7,7 @@ ogDescription: "Lemongrass Tom Collins Twist is a bright gin cocktail using yuzu
 focusKeyphrase: "Lemongrass Tom Collins Twist"
 date: 2025-07-23
 draft: false
-image: lemongrass-tom-collins-twist.png
+image: lemongrass-tom-collins-twist.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Citrus Fennel Salad with zesty lemon juice and toasted p
 focusKeyphrase: "Citrus Fennel Salad"
 date: 2025-07-22
 draft: false
-image: citrus-fennel-salad.png
+image: citrus-fennel-salad.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT4M

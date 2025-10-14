@@ -7,7 +7,7 @@ ogDescription: "Cold fusilli, chilled sauce of cucumber, tomato, garlic, jalape√
 focusKeyphrase: "Twisted Fusilli Gazpacho"
 date: 2025-07-27
 draft: false
-image: twisted-fusilli-gazpacho.png
+image: twisted-fusilli-gazpacho.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

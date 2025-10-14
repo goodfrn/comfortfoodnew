@@ -7,7 +7,7 @@ ogDescription: "Shredded duck confit rolls with crisp cucumber, herbs and quick 
 focusKeyphrase: "Duck Confit Spring Rolls"
 date: 2025-08-05
 draft: false
-image: duck-confit-spring-rolls.png
+image: duck-confit-spring-rolls.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT5M

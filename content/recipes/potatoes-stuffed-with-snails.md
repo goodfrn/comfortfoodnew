@@ -7,7 +7,7 @@ ogDescription: "Snails nestled in buttered new potatoes with herbs, lime, and he
 focusKeyphrase: "Potatoes stuffed with snails"
 date: 2025-09-26
 draft: false
-image: potatoes-stuffed-with-snails.png
+image: potatoes-stuffed-with-snails.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

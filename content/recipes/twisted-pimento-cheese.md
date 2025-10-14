@@ -7,7 +7,7 @@ ogDescription: "Sharp manchego cheese swaps cheddar in this creamy pimento chees
 focusKeyphrase: "pimento cheese with manchego"
 date: 2025-10-11
 draft: false
-image: twisted-pimento-cheese.png
+image: twisted-pimento-cheese.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT0M

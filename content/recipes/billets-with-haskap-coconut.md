@@ -7,7 +7,7 @@ ogDescription: "Whipped egg whites fold into haskap syrup-sweetened batter, roll
 focusKeyphrase: "Billets with Haskap and Coconut"
 date: 2025-08-11
 draft: false
-image: billets-with-haskap-coconut.png
+image: billets-with-haskap-coconut.jpg
 author: "Emma"
 prepTime: PT1H10M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Golden tart edge crackling, juicy stone fruits dusted with sugar
 focusKeyphrase: "Rustic Stone Fruit Tart"
 date: 2025-09-28
 draft: false
-image: rustic-stone-fruit-tart.png
+image: rustic-stone-fruit-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

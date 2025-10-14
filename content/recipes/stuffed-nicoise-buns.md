@@ -7,7 +7,7 @@ ogDescription: "Tuna and asparagus stuffed buns with zesty vinaigrette, radish c
 focusKeyphrase: "Stuffed Niçoise Buns"
 date: 2025-09-26
 draft: false
-image: stuffed-nicoise-buns.png
+image: stuffed-nicoise-buns.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

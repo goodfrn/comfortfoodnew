@@ -7,7 +7,7 @@ ogDescription: "Enjoy the rich and comforting Maple Unemployed Pudding with coco
 focusKeyphrase: "Maple Unemployed Pudding"
 date: 2025-07-24
 draft: false
-image: maple-unemployed-pudding.png
+image: maple-unemployed-pudding.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT30M

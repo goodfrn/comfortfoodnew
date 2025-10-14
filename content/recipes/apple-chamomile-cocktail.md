@@ -7,7 +7,7 @@ ogDescription: "Chill green apple juice with herbaceous chamomile, subtle ginger
 focusKeyphrase: "Apple Chamomile Cocktail Twist"
 date: 2025-08-07
 draft: false
-image: apple-chamomile-cocktail.png
+image: apple-chamomile-cocktail.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT4M

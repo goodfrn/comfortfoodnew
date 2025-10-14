@@ -7,7 +7,7 @@ ogDescription: "Slow baked white beans with aged Pecorino rind simmered in veggi
 focusKeyphrase: "Baked White Beans Soft Eggs"
 date: 2025-08-11
 draft: false
-image: baked-white-beans-soft-eggs.png
+image: baked-white-beans-soft-eggs.jpg
 author: "Emma"
 prepTime: PT15H
 cookTime: PT1H35M

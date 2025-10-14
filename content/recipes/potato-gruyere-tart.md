@@ -7,7 +7,7 @@ ogDescription: "Thin potato slices, layers of Manchego and Gruyère, browned but
 focusKeyphrase: "Potato Gruyère tart"
 date: 2025-08-18
 draft: false
-image: potato-gruyere-tart.png
+image: potato-gruyere-tart.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

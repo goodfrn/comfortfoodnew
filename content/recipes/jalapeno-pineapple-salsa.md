@@ -7,7 +7,7 @@ ogDescription: "Bold jalapeno heat with sweet pineapple chunks, zingy lime zest,
 focusKeyphrase: "Jalapeno Pineapple Salsa"
 date: 2025-10-07
 draft: false
-image: jalapeno-pineapple-salsa.png
+image: jalapeno-pineapple-salsa.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

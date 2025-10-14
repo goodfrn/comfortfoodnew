@@ -7,7 +7,7 @@ ogDescription: "Dense strawberry brownie base with fluffy cream cheese frosting,
 focusKeyphrase: "Strawberry Gelatin Brownies"
 date: 2025-10-14
 draft: false
-image: strawberry-gelatin-brownies.png
+image: strawberry-gelatin-brownies.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT28M

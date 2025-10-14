@@ -7,7 +7,7 @@ ogDescription: "Layered pumpkin pie—cream cheese base, pumpkin pudding, and wh
 focusKeyphrase: "No-Bake Pumpkin Pie"
 date: 2025-10-10
 draft: false
-image: no-bake-pumpkin-pie.png
+image: no-bake-pumpkin-pie.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

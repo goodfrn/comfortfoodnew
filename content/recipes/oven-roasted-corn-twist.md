@@ -7,7 +7,7 @@ ogDescription: "Roast corn low and slow at 345F with basil-grapeseed oil blend. 
 focusKeyphrase: "oven roasted corn"
 date: 2025-10-10
 draft: false
-image: oven-roasted-corn-twist.png
+image: oven-roasted-corn-twist.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT35M

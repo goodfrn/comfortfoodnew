@@ -7,7 +7,7 @@ ogDescription: "Fast vegan parmesan crumb, cashews not almonds; layered texture,
 focusKeyphrase: "Vegan Parmesan Twist"
 date: 2025-08-17
 draft: false
-image: vegan-parmesan-twist.png
+image: vegan-parmesan-twist.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

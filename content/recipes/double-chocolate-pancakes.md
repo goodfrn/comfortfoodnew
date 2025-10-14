@@ -7,7 +7,7 @@ ogDescription: "Fluffy double chocolate pancakes with dark chunks and whipped wh
 focusKeyphrase: "double chocolate pancakes"
 date: 2025-09-25
 draft: false
-image: double-chocolate-pancakes.png
+image: double-chocolate-pancakes.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT45M

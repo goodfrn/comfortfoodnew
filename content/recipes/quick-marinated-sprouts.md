@@ -7,7 +7,7 @@ ogDescription: "Crunchy sprouts blanched just right, mixed with syrupy sesame ma
 focusKeyphrase: "marinated bean sprouts"
 date: 2025-09-23
 draft: false
-image: quick-marinated-sprouts.png
+image: quick-marinated-sprouts.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT5M

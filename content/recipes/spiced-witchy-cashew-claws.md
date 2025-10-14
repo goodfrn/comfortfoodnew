@@ -7,7 +7,7 @@ ogDescription: "Crunchy cashews roasted with smoky paprika, coriander, honey-sri
 focusKeyphrase: "Spiced Cashew Claws"
 date: 2025-08-12
 draft: false
-image: spiced-witchy-cashew-claws.png
+image: spiced-witchy-cashew-claws.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Chunky aubergine, smoky mushrooms, sweet peppers sweat slow. Bas
 focusKeyphrase: "Twisted Ratatouille"
 date: 2025-09-23
 draft: false
-image: twisted-ratatouille.png
+image: twisted-ratatouille.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

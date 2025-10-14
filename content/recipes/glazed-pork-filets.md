@@ -7,7 +7,7 @@ ogDescription: "Pork filets rubbed with herbs, garlic, seared then roasted. Apri
 focusKeyphrase: "Glazed Pork Filets"
 date: 2025-07-27
 draft: false
-image: glazed-pork-filets.png
+image: glazed-pork-filets.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT22M

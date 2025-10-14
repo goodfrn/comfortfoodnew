@@ -7,7 +7,7 @@ ogDescription: "Quick yogurt bagels air fried for crisp crust and chewy crumb. S
 focusKeyphrase: "air fryer yogurt bagels"
 date: 2025-08-18
 draft: false
-image: air-fryer-yogurt-bagels.png
+image: air-fryer-yogurt-bagels.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

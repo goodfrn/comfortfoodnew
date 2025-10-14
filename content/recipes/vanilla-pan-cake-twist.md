@@ -7,7 +7,7 @@ ogDescription: "Tender pan cake with coconut oil, almond milk. Watch edges pull 
 focusKeyphrase: "vanilla pan cake"
 date: 2025-08-06
 draft: false
-image: vanilla-pan-cake-twist.png
+image: vanilla-pan-cake-twist.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Spiced butter under turkey skin, dry brined 48 hrs. Hot oven sta
 focusKeyphrase: "Spiced Butter Roast Turkey"
 date: 2025-08-06
 draft: false
-image: spiced-butter-roast-turkey.png
+image: spiced-butter-roast-turkey.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT2H15M

@@ -7,7 +7,7 @@ ogDescription: "Fold cherry pie filling with mandarins, marshmallows, nuts. Chil
 focusKeyphrase: "Cherry Pineapple Fluff"
 date: 2025-10-12
 draft: false
-image: cherry-pineapple-fluff.png
+image: cherry-pineapple-fluff.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Thin crêpes filled with spicy chipotle sausage, caramelized oni
 focusKeyphrase: "Savory Breakfast Burrito Crêpes"
 date: 2025-07-26
 draft: false
-image: savory-breakfast-burrito.png
+image: savory-breakfast-burrito.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT32M

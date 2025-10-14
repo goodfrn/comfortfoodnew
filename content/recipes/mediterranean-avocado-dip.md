@@ -7,7 +7,7 @@ ogDescription: "Crunchy pita chips paired with mashed avocado yogurt dip, hummus
 focusKeyphrase: "Mediterranean avocado dip"
 date: 2025-08-17
 draft: false
-image: mediterranean-avocado-dip.png
+image: mediterranean-avocado-dip.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

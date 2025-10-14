@@ -7,7 +7,7 @@ ogDescription: "Indulge in Veal Rack with Wild Mushroom Sauce. Tender meat and d
 focusKeyphrase: "veal rack recipe"
 date: 2025-07-24
 draft: false
-image: veal-rack-wild-mushroom.png
+image: veal-rack-wild-mushroom.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT55M

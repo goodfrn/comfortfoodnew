@@ -7,7 +7,7 @@ ogDescription: "Quick Pickled Shallots offer a bright flavor twist. Perfect for 
 focusKeyphrase: "Quick Pickled Shallots"
 date: 2025-07-21
 draft: false
-image: quick-pickled-shallots.png
+image: quick-pickled-shallots.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT5M

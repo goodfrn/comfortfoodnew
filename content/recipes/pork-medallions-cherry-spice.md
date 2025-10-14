@@ -7,7 +7,7 @@ ogDescription: "Sear pork medallions crisp coated flour. Cherry sauce reduced sy
 focusKeyphrase: "Pork medallions cherry sauce"
 date: 2025-08-05
 draft: false
-image: pork-medallions-cherry-spice.png
+image: pork-medallions-cherry-spice.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

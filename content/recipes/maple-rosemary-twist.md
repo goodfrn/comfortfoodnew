@@ -7,7 +7,7 @@ ogDescription: "Savor the unique Maple Rosemary Twist cocktail, combining zesty 
 focusKeyphrase: "Maple Rosemary Twist"
 date: 2025-07-23
 draft: false
-image: maple-rosemary-twist.png
+image: maple-rosemary-twist.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT12M

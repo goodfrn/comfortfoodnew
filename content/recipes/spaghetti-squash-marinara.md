@@ -7,7 +7,7 @@ ogDescription: "Roasted spaghetti squash slices meet a spicy rum-infused tomato 
 focusKeyphrase: "Spaghetti squash marinara"
 date: 2025-08-04
 draft: false
-image: spaghetti-squash-marinara.png
+image: spaghetti-squash-marinara.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

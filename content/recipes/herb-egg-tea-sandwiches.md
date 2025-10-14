@@ -7,7 +7,7 @@ ogDescription: "Bite-sized herb egg sandwiches with sharp cheddar, shallots, fre
 focusKeyphrase: "Herb Egg Tea Sandwiches"
 date: 2025-07-28
 draft: false
-image: herb-egg-tea-sandwiches.png
+image: herb-egg-tea-sandwiches.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

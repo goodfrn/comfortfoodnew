@@ -7,7 +7,7 @@ ogDescription: "Hearty Italian Wedding Soup with rye-panko meatballs, kale, and 
 focusKeyphrase: "Italian wedding soup"
 date: 2025-10-06
 draft: false
-image: rustic-italian-wedding-soup.png
+image: rustic-italian-wedding-soup.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT33M

@@ -7,7 +7,7 @@ ogDescription: "Sear fig halves in ghee, caramelize coconut sugar edges. Serve o
 focusKeyphrase: "Caramelized figs honey yogurt"
 date: 2025-08-12
 draft: false
-image: caramelized-figs-yogurt.png
+image: caramelized-figs-yogurt.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT6M

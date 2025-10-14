@@ -7,7 +7,7 @@ ogDescription: "Crackling biscuits with lemon bite, macerated berries juicy but 
 focusKeyphrase: "Lemon Strawberry Shortcake"
 date: 2025-08-02
 draft: false
-image: lemon-strawberry-shortcake.png
+image: lemon-strawberry-shortcake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

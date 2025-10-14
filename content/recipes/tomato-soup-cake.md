@@ -7,7 +7,7 @@ ogDescription: "Dense cake, tart cherries, pecans crunch. Cream cheese glaze wit
 focusKeyphrase: "Tomato Soup Cake"
 date: 2025-08-28
 draft: false
-image: tomato-soup-cake.png
+image: tomato-soup-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Chopped herbs, lemon zest, honey, Tabasco heat, and crunchy cape
 focusKeyphrase: "parsley vierge sauce remix"
 date: 2025-09-25
 draft: false
-image: parsley-vierge-sauce-remix.png
+image: parsley-vierge-sauce-remix.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

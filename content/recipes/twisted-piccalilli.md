@@ -7,7 +7,7 @@ ogDescription: "Chunky pickled relish with cauliflower, pearl onions, fresh chil
 focusKeyphrase: "Twisted Piccalilli"
 date: 2025-08-06
 draft: false
-image: twisted-piccalilli.png
+image: twisted-piccalilli.jpg
 author: "Emma"
 prepTime: PT1H15M
 cookTime: PT40M

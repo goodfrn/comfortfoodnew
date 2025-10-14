@@ -7,7 +7,7 @@ ogDescription: "Discover Rustic Pici Pasta recipe using spelt and chickpea flour
 focusKeyphrase: "Rustic Pici Pasta"
 date: 2025-07-17
 draft: false
-image: rustic-pici-pasta.png
+image: rustic-pici-pasta.jpg
 author: "Emma Kitchen"
 prepTime: PT40M
 cookTime: PT7M

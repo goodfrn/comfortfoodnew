@@ -7,7 +7,7 @@ ogDescription: "Moist cake with tangy lemon, soft meringue folds, coconut sugar 
 focusKeyphrase: "Bubblegum Cake Remix"
 date: 2025-08-17
 draft: false
-image: bubblegum-cake-remix.png
+image: bubblegum-cake-remix.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT42M

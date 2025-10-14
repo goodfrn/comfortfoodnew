@@ -7,7 +7,7 @@ ogDescription: "Roasted yellow pepper soup with tomato ice cubes. Toasted bread 
 focusKeyphrase: "yellow pepper gazpacho"
 date: 2025-08-04
 draft: false
-image: yellow-pepper-gazpacho.png
+image: yellow-pepper-gazpacho.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

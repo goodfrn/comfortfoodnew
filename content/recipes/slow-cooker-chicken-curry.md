@@ -7,7 +7,7 @@ ogDescription: "Chunky chicken stewed low with turmeric and coconut milk. Fresh 
 focusKeyphrase: "slow cooker chicken curry"
 date: 2025-10-09
 draft: false
-image: slow-cooker-chicken-curry.png
+image: slow-cooker-chicken-curry.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT4H15M

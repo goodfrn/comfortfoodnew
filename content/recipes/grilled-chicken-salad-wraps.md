@@ -7,7 +7,7 @@ ogDescription: "Juicy grilled chicken, sharp mustard punch, crisp lettuce ribbon
 focusKeyphrase: "grilled chicken salad wraps"
 date: 2025-08-15
 draft: false
-image: grilled-chicken-salad-wraps.png
+image: grilled-chicken-salad-wraps.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT15M

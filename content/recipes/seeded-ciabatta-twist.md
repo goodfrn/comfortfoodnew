@@ -7,7 +7,7 @@ ogDescription: "Ciabatta twists with mixed seeds, chewy crumb, lively levain; ta
 focusKeyphrase: "Seeded Ciabatta Twist"
 date: 2025-08-09
 draft: false
-image: seeded-ciabatta-twist.png
+image: seeded-ciabatta-twist.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT20M

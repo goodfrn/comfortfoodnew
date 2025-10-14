@@ -7,7 +7,7 @@ ogDescription: "Sticky oat burgers with pumpkin and sunflower seeds, browned cri
 focusKeyphrase: "Oat Sunflower Burgers"
 date: 2025-08-16
 draft: false
-image: oat-sunflower-burgers.png
+image: oat-sunflower-burgers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

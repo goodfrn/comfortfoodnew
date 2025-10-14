@@ -7,7 +7,7 @@ ogDescription: "Enjoy Indian Spiced Beef Burgers. Ground beef, Indian spices, an
 focusKeyphrase: "Indian Spiced Beef Burgers"
 date: 2025-07-15
 draft: false
-image: indian-spiced-beef-burgers.png
+image: indian-spiced-beef-burgers.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT25M

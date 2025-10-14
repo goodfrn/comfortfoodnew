@@ -7,7 +7,7 @@ ogDescription: "Lime, cumin, ghee, and bird’s eye chillies fire up chicken thi
 focusKeyphrase: "Spicy Citrusy Grilled Chicken"
 date: 2025-08-03
 draft: false
-image: spicy-citrusy-grilled-chicken.png
+image: spicy-citrusy-grilled-chicken.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in Creamy Pasta Delight with artichokes and kale. A rich
 focusKeyphrase: "Creamy Pasta Delight"
 date: 2025-07-16
 draft: false
-image: creamy-pasta-delight.png
+image: creamy-pasta-delight.jpg
 author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT25M

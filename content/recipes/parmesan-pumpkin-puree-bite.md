@@ -7,7 +7,7 @@ ogDescription: "Roast kabocha pumpkin until fork soft, mash chunky, melt pecorin
 focusKeyphrase: "Parmesan pumpkin purée bite"
 date: 2025-08-15
 draft: false
-image: parmesan-pumpkin-puree-bite.png
+image: parmesan-pumpkin-puree-bite.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

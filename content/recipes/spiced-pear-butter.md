@@ -7,7 +7,7 @@ ogDescription: "Discover Spiced Pear Butter Twist, a rich mix of pears, spices, 
 focusKeyphrase: "Spiced Pear Butter"
 date: 2025-07-20
 draft: false
-image: spiced-pear-butter.png
+image: spiced-pear-butter.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H25M

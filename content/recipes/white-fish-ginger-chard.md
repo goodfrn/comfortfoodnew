@@ -7,7 +7,7 @@ ogDescription: "Savor tender white fish in a ginger-infused broth with chard. Li
 focusKeyphrase: "White Fish Ginger Chard"
 date: 2025-07-21
 draft: false
-image: white-fish-ginger-chard.png
+image: white-fish-ginger-chard.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

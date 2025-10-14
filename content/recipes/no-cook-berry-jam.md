@@ -7,7 +7,7 @@ ogDescription: "No-Cook Berry Jam with Orange and Pink Pepper. Vibrant, tangy sp
 focusKeyphrase: "no-cook berry jam"
 date: 2025-07-19
 draft: false
-image: no-cook-berry-jam.png
+image: no-cook-berry-jam.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

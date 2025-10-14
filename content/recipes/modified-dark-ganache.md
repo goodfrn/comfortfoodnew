@@ -7,7 +7,7 @@ ogDescription: "Dark ganache with bittersweet chocolate, coconut cream, almond b
 focusKeyphrase: "dark ganache with coconut cream"
 date: 2025-08-13
 draft: false
-image: modified-dark-ganache.png
+image: modified-dark-ganache.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

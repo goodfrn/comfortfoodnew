@@ -7,7 +7,7 @@ ogDescription: "Roasted cherry tomatoes with sherry vinegar and maple, crispy-ed
 focusKeyphrase: "Burrata Toasts with Roasted Tomatoes and Fried Egg"
 date: 2025-07-26
 draft: false
-image: burrata-toasts.png
+image: burrata-toasts.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT18M

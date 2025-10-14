@@ -7,7 +7,7 @@ ogDescription: "Vanilla cupcakes topped with orange frosting, red licorice legs,
 focusKeyphrase: "spider cupcakes twist"
 date: 2025-08-15
 draft: false
-image: spider-cupcakes.png
+image: spider-cupcakes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Curried Fish Stew with Veggies is a delicious fusion meal with m
 focusKeyphrase: "Curried Fish Stew"
 date: 2025-07-16
 draft: false
-image: curried-fish-stew.png
+image: curried-fish-stew.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT35M

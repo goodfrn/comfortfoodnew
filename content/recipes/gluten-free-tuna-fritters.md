@@ -7,7 +7,7 @@ ogDescription: "Crunchy tuna fritters bound with eggs, pumpkin, masa flour and s
 focusKeyphrase: "gluten-free tuna fritters"
 date: 2025-08-02
 draft: false
-image: gluten-free-tuna-fritters.png
+image: gluten-free-tuna-fritters.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

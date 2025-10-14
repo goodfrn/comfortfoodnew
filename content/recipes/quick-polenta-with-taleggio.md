@@ -7,7 +7,7 @@ ogDescription: "Velvety polenta with stringy Taleggio cheese pockets, garlic aro
 focusKeyphrase: "Quick Polenta with Taleggio"
 date: 2025-08-14
 draft: false
-image: quick-polenta-with-taleggio.png
+image: quick-polenta-with-taleggio.jpg
 author: "Emma"
 prepTime: PT8M
 cookTime: PT15M

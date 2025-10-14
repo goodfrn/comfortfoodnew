@@ -7,7 +7,7 @@ ogDescription: "Dense pound cake, olive oil replaces butter, cinnamon swaps vani
 focusKeyphrase: "Twisted Butter Pound Cake"
 date: 2025-07-30
 draft: false
-image: twisted-butter-pound-cake.png
+image: twisted-butter-pound-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

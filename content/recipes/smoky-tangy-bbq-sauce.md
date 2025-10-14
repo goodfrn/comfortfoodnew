@@ -7,7 +7,7 @@ ogDescription: "Smoky Tangy BBQ Sauce blending apricot sweetness, chipotle spice
 focusKeyphrase: "Smoky Tangy BBQ Sauce"
 date: 2025-08-03
 draft: false
-image: smoky-tangy-bbq-sauce.png
+image: smoky-tangy-bbq-sauce.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT15M

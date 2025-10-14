@@ -7,7 +7,7 @@ ogDescription: "Smoky paprika crusted roast fish with creamy carrot purée and c
 focusKeyphrase: "spiced roast fish with carrot purée"
 date: 2025-09-27
 draft: false
-image: spiced-roast-fish.png
+image: spiced-roast-fish.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

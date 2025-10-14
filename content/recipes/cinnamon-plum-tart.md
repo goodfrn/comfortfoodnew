@@ -7,7 +7,7 @@ ogDescription: "Cinnamon Plum Tart with buttery crust, cinnamon-laced custard, a
 focusKeyphrase: "Cinnamon Plum Tart"
 date: 2025-09-30
 draft: false
-image: cinnamon-plum-tart.png
+image: cinnamon-plum-tart.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT45M

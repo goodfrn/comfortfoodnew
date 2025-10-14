@@ -7,7 +7,7 @@ ogDescription: "Pineapple halves filled with fruit cubes, scattered flaky lime g
 focusKeyphrase: "Stuffed Pineapple with Lime Granita"
 date: 2025-07-30
 draft: false
-image: stuffed-pineapple-granita.png
+image: stuffed-pineapple-granita.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT0M

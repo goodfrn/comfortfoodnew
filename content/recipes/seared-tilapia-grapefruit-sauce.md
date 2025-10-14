@@ -7,7 +7,7 @@ ogDescription: "Quick seared tilapia with tangy grapefruit sauce featuring shall
 focusKeyphrase: "Seared Tilapia with Grapefruit Sauce"
 date: 2025-08-02
 draft: false
-image: seared-tilapia-grapefruit-sauce.png
+image: seared-tilapia-grapefruit-sauce.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT10M

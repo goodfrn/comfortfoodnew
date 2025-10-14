@@ -7,7 +7,7 @@ ogDescription: "Grilled tofu and veggies wrapped in tortillas with sesame mayo. 
 focusKeyphrase: "Tofu Veggie Wraps"
 date: 2025-07-21
 draft: false
-image: tofu-veggie-wraps.png
+image: tofu-veggie-wraps.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT20M

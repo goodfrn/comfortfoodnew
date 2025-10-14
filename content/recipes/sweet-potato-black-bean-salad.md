@@ -7,7 +7,7 @@ ogDescription: "Roasted sweet potatoes meeting black beans, corn, cumin, lime, a
 focusKeyphrase: "Sweet Potato Black Bean Salad"
 date: 2025-10-13
 draft: false
-image: sweet-potato-black-bean-salad.png
+image: sweet-potato-black-bean-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

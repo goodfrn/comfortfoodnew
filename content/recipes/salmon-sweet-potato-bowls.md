@@ -7,7 +7,7 @@ ogDescription: "Salmon bowls with roasted sweet potatoes, red quinoa, zucchini s
 focusKeyphrase: "Salmon Sweet Potato Bowls"
 date: 2025-07-29
 draft: false
-image: salmon-sweet-potato-bowls.png
+image: salmon-sweet-potato-bowls.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT28M

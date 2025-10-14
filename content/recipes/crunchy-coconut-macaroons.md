@@ -7,7 +7,7 @@ ogDescription: "Egg whites whipped thick, toasted coconut folded in. Cinnamon ad
 focusKeyphrase: "Crunchy Coconut Macaroons"
 date: 2025-10-12
 draft: false
-image: crunchy-coconut-macaroons.png
+image: crunchy-coconut-macaroons.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT27M

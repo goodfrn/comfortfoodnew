@@ -7,7 +7,7 @@ ogDescription: "Flaky coconut oil crust, tart lemon curd, frozen raspberries dra
 focusKeyphrase: "Lemon Raspberry Bars"
 date: 2025-08-04
 draft: false
-image: lemon-raspberry-bars.png
+image: lemon-raspberry-bars.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT45M

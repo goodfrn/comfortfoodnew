@@ -7,7 +7,7 @@ ogDescription: "Indulge in Lactose-Free Strawberry Ice Cream Twist made with coc
 focusKeyphrase: "lactose-free ice cream"
 date: 2025-07-21
 draft: false
-image: lactose-free-strawberry-ice-cream.png
+image: lactose-free-strawberry-ice-cream.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT10M

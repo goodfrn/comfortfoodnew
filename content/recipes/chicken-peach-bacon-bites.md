@@ -7,7 +7,7 @@ ogDescription: "Delicious Chicken Peach Bacon Bites. A crowd-pleaser appetizer. 
 focusKeyphrase: "Chicken Peach Bacon Bites"
 date: 2025-07-19
 draft: false
-image: chicken-peach-bacon-bites.png
+image: chicken-peach-bacon-bites.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

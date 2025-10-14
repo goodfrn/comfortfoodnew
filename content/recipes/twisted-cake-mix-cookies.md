@@ -7,7 +7,7 @@ ogDescription: "Browned butter crackles, flax egg chew, brown sugar adds sweet c
 focusKeyphrase: "Browned Butter Cake Mix Cookies"
 date: 2025-10-06
 draft: false
-image: twisted-cake-mix-cookies.png
+image: twisted-cake-mix-cookies.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT9M

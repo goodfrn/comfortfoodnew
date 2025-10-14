@@ -7,7 +7,7 @@ ogDescription: "Crunchy Italian-style rings with cardamom spice, lemon zest, and
 focusKeyphrase: "Anise-Spiced Italian Rings"
 date: 2025-08-13
 draft: false
-image: anise-spiced-italian-rings.png
+image: anise-spiced-italian-rings.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT14M

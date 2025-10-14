@@ -7,7 +7,7 @@ ogDescription: "Spiced rum-soaked apples folded into airy batter. Coconut oil ad
 focusKeyphrase: "Rum Apple Tart with Salted Caramel"
 date: 2025-08-03
 draft: false
-image: rum-apple-tart.png
+image: rum-apple-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Quick microwave toasting of pecans and hazelnuts with salt and s
 focusKeyphrase: "Microwave toasted nuts"
 date: 2025-07-28
 draft: false
-image: microwave-toasted-nuts.png
+image: microwave-toasted-nuts.jpg
 author: "Emma"
 prepTime: PT05M
 cookTime: PT03M

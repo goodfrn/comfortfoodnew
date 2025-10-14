@@ -7,7 +7,7 @@ ogDescription: "Crisp cucumber ribbons tossed in tangy sesame dressing. Bright l
 focusKeyphrase: "Sesame Cucumber Salad"
 date: 2025-09-29
 draft: false
-image: sesame-cucumber-salad.png
+image: sesame-cucumber-salad.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Blanched tofu seared to golden crust, simmered in creamy tomato 
 focusKeyphrase: "Tofu Butter Chicken Style"
 date: 2025-09-25
 draft: false
-image: tofu-butter-chicken.png
+image: tofu-butter-chicken.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

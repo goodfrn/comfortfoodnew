@@ -7,7 +7,7 @@ ogDescription: "Enjoy Roasted Pumpkin with Coriander Twist. Velvety pumpkin, cru
 focusKeyphrase: "Roasted Pumpkin with Coriander Twist"
 date: 2025-07-23
 draft: false
-image: roasted-pumpkin-coriander.png
+image: roasted-pumpkin-coriander.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

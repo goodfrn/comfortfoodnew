@@ -7,7 +7,7 @@ ogDescription: "Flavorful Sesame Salmon Edamame Bowl combines salmon, spicy mayo
 focusKeyphrase: "Sesame Salmon Edamame Bowl"
 date: 2025-07-21
 draft: false
-image: sesame-salmon-edamame-bowl.png
+image: sesame-salmon-edamame-bowl.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Winter veggies roast slow with pork meatballs. Beef stock thicke
 focusKeyphrase: "baked pork meatballs winter vegetables"
 date: 2025-09-25
 draft: false
-image: baked-pork-meatballs.png
+image: baked-pork-meatballs.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT1H10M

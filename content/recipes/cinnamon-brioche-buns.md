@@ -7,7 +7,7 @@ ogDescription: "Indulge in Cinnamon Brioche Buns. Rich brioche dough, cinnamon f
 focusKeyphrase: "Cinnamon Brioche Buns"
 date: 2025-07-23
 draft: false
-image: cinnamon-brioche-buns.png
+image: cinnamon-brioche-buns.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT30M

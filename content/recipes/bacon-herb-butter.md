@@ -7,7 +7,7 @@ ogDescription: "Bacon and herb butter with Dijon, smoked paprika, fresh thyme. C
 focusKeyphrase: "spiced bacon-herb butter"
 date: 2025-07-25
 draft: false
-image: bacon-herb-butter.png
+image: bacon-herb-butter.jpg
 author: "Emma"
 prepTime: PT8M
 cookTime: PT4M

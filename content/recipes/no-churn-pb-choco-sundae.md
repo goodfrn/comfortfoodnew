@@ -7,7 +7,7 @@ ogDescription: "Layered no-churn ice cream sundae with peanut butter shards vani
 focusKeyphrase: "No-Churn Peanut Butter Chocolate Sundae"
 date: 2025-08-03
 draft: false
-image: no-churn-pb-choco-sundae.png
+image: no-churn-pb-choco-sundae.jpg
 author: "Emma"
 prepTime: PT70M
 cookTime: PT15M

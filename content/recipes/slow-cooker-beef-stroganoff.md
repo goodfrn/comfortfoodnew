@@ -7,7 +7,7 @@ ogDescription: "Slow Cooker Beef Stroganoff Twist brings tender beef and earthy 
 focusKeyphrase: "Slow Cooker Beef Stroganoff"
 date: 2025-07-19
 draft: false
-image: slow-cooker-beef-stroganoff.png
+image: slow-cooker-beef-stroganoff.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT3H45M

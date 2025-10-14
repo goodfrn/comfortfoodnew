@@ -7,7 +7,7 @@ ogDescription: "Ground pork, oats, fresh herbs plus cider and ginger make hearty
 focusKeyphrase: "Rustic Breakfast Sausage Patties"
 date: 2025-08-16
 draft: false
-image: rustic-breakfast-sausage.png
+image: rustic-breakfast-sausage.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

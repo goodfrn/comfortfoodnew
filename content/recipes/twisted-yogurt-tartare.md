@@ -7,7 +7,7 @@ ogDescription: "Tangy yogurt base, crisp pickled radish crunch, sharp shallots, 
 focusKeyphrase: "yogurt tartare"
 date: 2025-09-30
 draft: false
-image: twisted-yogurt-tartare.png
+image: twisted-yogurt-tartare.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

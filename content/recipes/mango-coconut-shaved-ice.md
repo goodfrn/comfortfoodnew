@@ -7,7 +7,7 @@ ogDescription: "Mango Coconut Shaved Ice with chewy tapioca pearls and fresh man
 focusKeyphrase: "Mango Coconut Shaved Ice"
 date: 2025-07-18
 draft: false
-image: mango-coconut-shaved-ice.png
+image: mango-coconut-shaved-ice.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Golden edges, soft centers. Beat butter-sugar fluffy, fold dry g
 focusKeyphrase: "Sugar Crunch Cookies"
 date: 2025-09-28
 draft: false
-image: sugar-crunch-cookies.png
+image: sugar-crunch-cookies.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT13M

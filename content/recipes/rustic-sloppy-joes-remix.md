@@ -7,7 +7,7 @@ ogDescription: "Lean turkey swapped, green bell pepper sharpens, smoked paprika 
 focusKeyphrase: "Rustic Sloppy Joes Remix"
 date: 2025-08-09
 draft: false
-image: rustic-sloppy-joes-remix.png
+image: rustic-sloppy-joes-remix.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

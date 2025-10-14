@@ -7,7 +7,7 @@ ogDescription: "Fresh young coconut blended with near boiling water makes creamy
 focusKeyphrase: "homemade coconut milk"
 date: 2025-10-01
 draft: false
-image: homemade-coconut-milk.png
+image: homemade-coconut-milk.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

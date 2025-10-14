@@ -7,7 +7,7 @@ ogDescription: "Dumplings filled with soft apple chunks bathe in bubbling cinnam
 focusKeyphrase: "Maple Stuffed Apple Dumplings"
 date: 2025-08-11
 draft: false
-image: maple-stuffed-apple-dumplings.png
+image: maple-stuffed-apple-dumplings.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Dive into Citrus Creamy Fruit Dip—a zesty twist on classic fru
 focusKeyphrase: "Citrus Creamy Fruit Dip"
 date: 2025-07-19
 draft: false
-image: citrus-creamy-fruit-dip.png
+image: citrus-creamy-fruit-dip.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

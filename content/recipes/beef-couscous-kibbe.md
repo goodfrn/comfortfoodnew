@@ -7,7 +7,7 @@ ogDescription: "Raw beef Couscous Kibbé split ground, diced meat, mint, olive o
 focusKeyphrase: "Beef Couscous Kibbé"
 date: 2025-09-13
 draft: false
-image: beef-couscous-kibbe.png
+image: beef-couscous-kibbe.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT0M

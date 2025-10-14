@@ -7,7 +7,7 @@ ogDescription: "Rich fresh pasta dough with eggs, olive oil, semolina. Knead tac
 focusKeyphrase: "fresh egg pasta dough"
 date: 2025-08-12
 draft: false
-image: fresh-egg-pasta-dough.png
+image: fresh-egg-pasta-dough.jpg
 author: "Emma"
 prepTime: PT28M
 cookTime: PT0M

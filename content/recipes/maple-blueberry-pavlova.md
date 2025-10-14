@@ -7,7 +7,7 @@ ogDescription: "Experience the layers of Maple Blueberry Pavlova—crisp meringu
 focusKeyphrase: "Maple Blueberry Pavlova"
 date: 2025-07-21
 draft: false
-image: maple-blueberry-pavlova.png
+image: maple-blueberry-pavlova.jpg
 author: "Emma"
 prepTime: PT1H15M
 cookTime: PT2H5M

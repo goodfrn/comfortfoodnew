@@ -7,7 +7,7 @@ ogDescription: "Thin potato layers, slow-caramelized onions, vermouth, thyme bak
 focusKeyphrase: "Rustic Baker Potatoes"
 date: 2025-09-28
 draft: false
-image: rustic-baker-potatoes.png
+image: rustic-baker-potatoes.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT2H15M

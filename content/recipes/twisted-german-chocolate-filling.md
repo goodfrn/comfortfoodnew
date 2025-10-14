@@ -7,7 +7,7 @@ ogDescription: "Nutty almond, toasted coconut filling cooked slow to thick custa
 focusKeyphrase: "German chocolate custard filling"
 date: 2025-08-03
 draft: false
-image: twisted-german-chocolate-filling.png
+image: twisted-german-chocolate-filling.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

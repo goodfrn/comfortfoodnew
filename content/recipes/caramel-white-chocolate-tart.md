@@ -7,7 +7,7 @@ ogDescription: "Layers of caramelized white chocolate cream, cocoa meringues, ta
 focusKeyphrase: "Caramel White Chocolate Tangerine Tart"
 date: 2025-07-27
 draft: false
-image: caramel-white-chocolate-tart.png
+image: caramel-white-chocolate-tart.jpg
 author: "Emma"
 prepTime: PT75M
 cookTime: PT3H

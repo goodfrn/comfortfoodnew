@@ -7,7 +7,7 @@ ogDescription: "Fresh raspberries pulsed chunky, maple syrup sweetened, arrowroo
 focusKeyphrase: "Strawberry Tart Sundae Remix"
 date: 2025-08-15
 draft: false
-image: strawberry-tart-sundae.png
+image: strawberry-tart-sundae.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT6M

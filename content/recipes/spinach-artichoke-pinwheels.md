@@ -7,7 +7,7 @@ ogDescription: "Creamy spinach artichoke filling rolled in flaky puff pastry. Ch
 focusKeyphrase: "spinach artichoke pinwheels"
 date: 2025-10-14
 draft: false
-image: spinach-artichoke-pinwheels.png
+image: spinach-artichoke-pinwheels.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT14M

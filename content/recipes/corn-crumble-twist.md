@@ -7,7 +7,7 @@ ogDescription: "Try this Corn Crumble Twist, a dairy-free crumble dessert combin
 focusKeyphrase: "Corn Crumble Twist"
 date: 2025-07-20
 draft: false
-image: corn-crumble-twist.png
+image: corn-crumble-twist.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT70M

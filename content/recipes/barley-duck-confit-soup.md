@@ -7,7 +7,7 @@ ogDescription: "Rustic barley soup with shredded duck confit, fresh rosemary, ve
 focusKeyphrase: "Barley Duck Confit Soup"
 date: 2025-08-01
 draft: false
-image: barley-duck-confit-soup.png
+image: barley-duck-confit-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

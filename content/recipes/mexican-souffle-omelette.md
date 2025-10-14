@@ -7,7 +7,7 @@ ogDescription: "Fluffy baked Mexican-style soufflé omelette with melted Montere
 focusKeyphrase: "Mexican soufflé omelette"
 date: 2025-08-05
 draft: false
-image: mexican-souffle-omelette.png
+image: mexican-souffle-omelette.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

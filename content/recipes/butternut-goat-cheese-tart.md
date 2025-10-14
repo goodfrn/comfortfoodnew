@@ -7,7 +7,7 @@ ogDescription: "Tender butternut squash layered on puff pastry, topped with fres
 focusKeyphrase: "butternut goat cheese tart"
 date: 2025-09-28
 draft: false
-image: butternut-goat-cheese-tart.png
+image: butternut-goat-cheese-tart.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

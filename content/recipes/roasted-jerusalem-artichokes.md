@@ -7,7 +7,7 @@ ogDescription: "Crispy roasted Jerusalem artichokes tossed in browned butter and
 focusKeyphrase: "roasted Jerusalem artichokes"
 date: 2025-09-24
 draft: false
-image: roasted-jerusalem-artichokes.png
+image: roasted-jerusalem-artichokes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

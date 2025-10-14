@@ -7,7 +7,7 @@ ogDescription: "Grilled chicken layered with crunchy romaine, creamy avocado, ro
 focusKeyphrase: "Chicken Taco Salad"
 date: 2025-09-26
 draft: false
-image: chicken-taco-salad.png
+image: chicken-taco-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

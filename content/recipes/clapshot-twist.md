@@ -7,7 +7,7 @@ ogDescription: "Rustic Clapshot Twist mashed roots with butter and crème fraîc
 focusKeyphrase: "Clapshot Twist"
 date: 2025-09-01
 draft: false
-image: clapshot-twist.png
+image: clapshot-twist.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT35M

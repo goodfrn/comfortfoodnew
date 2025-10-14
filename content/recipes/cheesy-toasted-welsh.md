@@ -7,7 +7,7 @@ ogDescription: "Melted gruyère on toasted sourdough, tangy Dijon and paprika, c
 focusKeyphrase: "Cheesy Toasted Welsh"
 date: 2025-08-17
 draft: false
-image: cheesy-toasted-welsh.png
+image: cheesy-toasted-welsh.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT12M

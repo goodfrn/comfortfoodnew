@@ -7,7 +7,7 @@ ogDescription: "Poached chicken breasts with autumn root vegetables, lemon zest,
 focusKeyphrase: "Autumn Chicken Pot"
 date: 2025-07-26
 draft: false
-image: autumn-chicken-pot.png
+image: autumn-chicken-pot.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

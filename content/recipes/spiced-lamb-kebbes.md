@@ -7,7 +7,7 @@ ogDescription: "Lamb and bulgur cones filled with a spiced nutty mix, fried cris
 focusKeyphrase: "Spiced Lamb Kebbés"
 date: 2025-08-09
 draft: false
-image: spiced-lamb-kebbes.png
+image: spiced-lamb-kebbes.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT20M

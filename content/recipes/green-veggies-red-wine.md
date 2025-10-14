@@ -7,7 +7,7 @@ ogDescription: "Sautéed kale, green beans, cauliflower meld with crispy pancett
 focusKeyphrase: "Green Veggies Red Wine Sauté"
 date: 2025-08-03
 draft: false
-image: green-veggies-red-wine.png
+image: green-veggies-red-wine.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

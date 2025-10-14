@@ -7,7 +7,7 @@ ogDescription: "Eggnog fudge mixing white chocolate, marshmallow cream, and spic
 focusKeyphrase: "Eggnog White Chocolate Fudge"
 date: 2025-10-09
 draft: false
-image: eggnog-white-chocolate-fudge.png
+image: eggnog-white-chocolate-fudge.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT16M

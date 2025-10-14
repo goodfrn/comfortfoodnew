@@ -7,7 +7,7 @@ ogDescription: "Sole filets crisped in olive oil, steamed broccoli finished in p
 focusKeyphrase: "Sole filets with anchovy lemon mayo"
 date: 2025-09-28
 draft: false
-image: sole-filets-with-anchovy-mayo.png
+image: sole-filets-with-anchovy-mayo.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

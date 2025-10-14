@@ -7,7 +7,7 @@ ogDescription: "Browned tofu, crisp green beans, chewy udon noodles tossed in a 
 focusKeyphrase: "Tofu Udon with Green Beans"
 date: 2025-07-30
 draft: false
-image: tofu-udon.png
+image: tofu-udon.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

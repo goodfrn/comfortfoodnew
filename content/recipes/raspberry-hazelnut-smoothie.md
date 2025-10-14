@@ -7,7 +7,7 @@ ogDescription: "Enjoy this Raspberry Hazelnut Smoothie, a delightful mix of bana
 focusKeyphrase: "Raspberry Hazelnut Smoothie" 
 date: 2025-07-15
 draft: false
-image: raspberry-hazelnut-smoothie.png
+image: raspberry-hazelnut-smoothie.jpg
 author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT10M

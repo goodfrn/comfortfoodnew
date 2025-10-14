@@ -7,7 +7,7 @@ ogDescription: "Vegan coconut macarons made without eggs or gluten. Crisp edges,
 focusKeyphrase: "Vegan coconut macarons"
 date: 2025-09-26
 draft: false
-image: coconut-macarons.png
+image: coconut-macarons.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Warm up with savory vegetable soup featuring crisp pancetta crou
 focusKeyphrase: "Vegetable Soup with Bacon Croutons"
 date: 2025-07-27
 draft: false
-image: vegetable-soup-with-bacon.png
+image: vegetable-soup-with-bacon.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

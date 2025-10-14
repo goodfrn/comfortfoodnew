@@ -7,7 +7,7 @@ ogDescription: "Discover Roasted Salmon with Mushrooms Orange Twist, an earthy, 
 focusKeyphrase: "Roasted Salmon with Mushrooms"
 date: 2025-07-19
 draft: false
-image: roasted-salmon-with-mushrooms.png
+image: roasted-salmon-with-mushrooms.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT30M

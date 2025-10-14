@@ -7,7 +7,7 @@ ogDescription: "Sweet caramel base, soft apple layers and moist cake. Flip skill
 focusKeyphrase: "Caramel Apple Upside Cake"
 date: 2025-10-11
 draft: false
-image: caramel-apple-cake.png
+image: caramel-apple-cake.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT48M

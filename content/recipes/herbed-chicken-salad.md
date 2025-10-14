@@ -7,7 +7,7 @@ ogDescription: "Enjoy Herbed Chicken & Crispy Shallot Salad. Perfect blend of ro
 focusKeyphrase: "Herbed Chicken & Crispy Shallot Salad"
 date: 2025-07-21
 draft: false
-image: herbed-chicken-salad.png
+image: herbed-chicken-salad.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT1H10M

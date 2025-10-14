@@ -7,7 +7,7 @@ ogDescription: "Cold pasta packed with tuna flakes, manchego cubes, fresh corn c
 focusKeyphrase: "Tuna Pasta Salad Remix"
 date: 2025-08-09
 draft: false
-image: tuna-pasta-salad-remix.png
+image: tuna-pasta-salad-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

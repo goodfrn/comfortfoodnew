@@ -7,7 +7,7 @@ ogDescription: "Chunky green pesto with blanched spinach, parsley, toasted walnu
 focusKeyphrase: "Parsley Spinach Pesto"
 date: 2025-09-27
 draft: false
-image: twisted-parsley-spinach-pesto.png
+image: twisted-parsley-spinach-pesto.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT9M

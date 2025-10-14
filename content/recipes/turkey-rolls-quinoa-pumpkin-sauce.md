@@ -7,7 +7,7 @@ ogDescription: "Turkey escalopes rolled thin, stuffed with cinnamon-spiced quino
 focusKeyphrase: "Turkey Rolls Quinoa Pumpkin Sauce"
 date: 2025-08-10
 draft: false
-image: turkey-rolls-quinoa-pumpkin-sauce.png
+image: turkey-rolls-quinoa-pumpkin-sauce.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT1H20M

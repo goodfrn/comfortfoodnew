@@ -7,7 +7,7 @@ ogDescription: "Delicious Almond Paste Pear Cake featuring wine-poached pears in
 focusKeyphrase: "Almond Paste Pear Cake"
 date: 2025-07-19
 draft: false
-image: almond-paste-pear-cake.png
+image: almond-paste-pear-cake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H20M

@@ -7,7 +7,7 @@ ogDescription: "Crispy hash browns meet juicy sirloin, sautéed peppers, and egg
 focusKeyphrase: "Steak hash omelet"
 date: 2025-10-08
 draft: false
-image: oven-baked-steak-hash.png
+image: oven-baked-steak-hash.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT22M

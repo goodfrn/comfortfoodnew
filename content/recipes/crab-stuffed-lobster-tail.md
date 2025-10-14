@@ -7,7 +7,7 @@ ogDescription: "Lobster tails stuffed with seasoned crab blend, baked to opaque 
 focusKeyphrase: "Crab-Stuffed Lobster Tail"
 date: 2025-10-11
 draft: false
-image: crab-stuffed-lobster-tail.png
+image: crab-stuffed-lobster-tail.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT14M

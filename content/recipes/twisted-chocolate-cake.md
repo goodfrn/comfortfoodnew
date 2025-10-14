@@ -7,7 +7,7 @@ ogDescription: "Layered chocolate cake soaked in cinnamon syrup, almond essence,
 focusKeyphrase: "Twisted Chocolate Cake"
 date: 2025-08-05
 draft: false
-image: twisted-chocolate-cake.png
+image: twisted-chocolate-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

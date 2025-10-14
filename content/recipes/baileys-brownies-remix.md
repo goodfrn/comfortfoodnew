@@ -7,7 +7,7 @@ ogDescription: "Brownies blended with Baileys Irish Cream - moisture, twist, the
 focusKeyphrase: "Baileys brownies"
 date: 2025-10-04
 draft: false
-image: baileys-brownies-remix.png
+image: baileys-brownies-remix.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT48M

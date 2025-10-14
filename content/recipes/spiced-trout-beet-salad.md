@@ -7,7 +7,7 @@ ogDescription: "Sear trout with chili-lime dressing tossed through golden and re
 focusKeyphrase: "Spiced Trout and Beet Salad"
 date: 2025-07-29
 draft: false
-image: spiced-trout-beet-salad.png
+image: spiced-trout-beet-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT10M

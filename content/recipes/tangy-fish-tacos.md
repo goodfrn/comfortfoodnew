@@ -7,7 +7,7 @@ ogDescription: "Quick fish tacos packed with tender cod, tangy lime, tropical fr
 focusKeyphrase: "Tangy Fish Tacos"
 date: 2025-08-06
 draft: false
-image: tangy-fish-tacos.png
+image: tangy-fish-tacos.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

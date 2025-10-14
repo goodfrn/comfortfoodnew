@@ -7,7 +7,7 @@ ogDescription: "Try the Tofu Bacon Sandwich. Crispy tofu, fresh avocado, and rom
 focusKeyphrase: "Tofu Bacon Sandwich"
 date: 2025-07-15
 draft: false
-image: tofu-bacon-sandwich.png
+image: tofu-bacon-sandwich.jpg
 author: "Emma Kitchen"
 prepTime: PT30M
 cookTime: PT45M

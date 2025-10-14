@@ -7,7 +7,7 @@ ogDescription: "Experience the juicy Pork Chops Citrus Fennel. Easy marinade com
 focusKeyphrase: "Pork Chops Citrus Fennel"
 date: 2025-07-19
 draft: false
-image: pork-chops-citrus-fennel.png
+image: pork-chops-citrus-fennel.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

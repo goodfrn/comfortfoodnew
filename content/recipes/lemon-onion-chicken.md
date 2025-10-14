@@ -7,7 +7,7 @@ ogDescription: "Browned chicken thighs with softened onions, lemon zest slices, 
 focusKeyphrase: "Lemon Onion Chicken"
 date: 2025-07-27
 draft: false
-image: lemon-onion-chicken.png
+image: lemon-onion-chicken.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

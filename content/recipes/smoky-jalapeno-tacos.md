@@ -7,7 +7,7 @@ ogDescription: "Sear flank steak with smoky paprika, stack with creamy avocado c
 focusKeyphrase: "Smoky Jalapeño Flank Steak Tacos"
 date: 2025-10-12
 draft: false
-image: smoky-jalapeno-tacos.png
+image: smoky-jalapeno-tacos.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT8M

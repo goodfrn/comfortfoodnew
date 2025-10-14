@@ -7,7 +7,7 @@ ogDescription: "Chunky Nordic shrimp mixed with diced avocado, harissa mayo and 
 focusKeyphrase: "Nordic Shrimp Avocado Burgers"
 date: 2025-08-02
 draft: false
-image: shrimp-avocado-burgers.png
+image: shrimp-avocado-burgers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT7M

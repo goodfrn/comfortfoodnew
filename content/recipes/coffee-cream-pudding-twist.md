@@ -7,7 +7,7 @@ ogDescription: "Indulge in Coffee Cream Pudding Twist. A creamy, coffee-infused 
 focusKeyphrase: "Coffee Cream Pudding"
 date: 2025-07-16
 draft: false
-image: coffee-cream-pudding-twist.png
+image: coffee-cream-pudding-twist.jpg
 author: "Emma Kitchen"
 prepTime: PT18M
 cookTime: PT12M

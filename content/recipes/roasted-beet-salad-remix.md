@@ -7,7 +7,7 @@ ogDescription: "Crunchy toasted walnuts with cinnamon, creamy goat cheese and ro
 focusKeyphrase: "roasted beet salad"
 date: 2025-10-09
 draft: false
-image: roasted-beet-salad-remix.png
+image: roasted-beet-salad-remix.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT1H55M

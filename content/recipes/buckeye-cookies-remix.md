@@ -7,7 +7,7 @@ ogDescription: "Dense chocolate cookies with peanut butter centers dipped in cho
 focusKeyphrase: "Buckeye Cookies"
 date: 2025-10-11
 draft: false
-image: buckeye-cookies-remix.png
+image: buckeye-cookies-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

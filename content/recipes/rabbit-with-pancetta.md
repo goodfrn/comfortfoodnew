@@ -7,7 +7,7 @@ ogDescription: "Indulge in Rabbit with Pancetta and Mushrooms. A classic French 
 focusKeyphrase: "Rabbit with Pancetta and Mushrooms"
 date: 2025-07-19
 draft: false
-image: rabbit-with-pancetta.png
+image: rabbit-with-pancetta.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT1H5M

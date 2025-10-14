@@ -7,7 +7,7 @@ ogDescription: "Fluffy shaved pineapple ice with honey-macerated lime slices on 
 focusKeyphrase: "pineapple lime basil shaved ice"
 date: 2025-08-02
 draft: false
-image: pineapple-lime-basil-shaved-ice.png
+image: pineapple-lime-basil-shaved-ice.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT0M

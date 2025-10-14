@@ -7,7 +7,7 @@ ogDescription: "Soft Yukon Gold tubers loaded with broccoli and smoked chorizo. 
 focusKeyphrase: "Stuffed Potatoes Broccoli Sausage"
 date: 2025-08-11
 draft: false
-image: stuffed-potatoes-broccoli-sausage.png
+image: stuffed-potatoes-broccoli-sausage.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

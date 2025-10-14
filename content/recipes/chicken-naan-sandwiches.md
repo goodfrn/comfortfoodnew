@@ -7,7 +7,7 @@ ogDescription: "Bold herb potatoes, sticky shish taouk chicken, creamy garlic sa
 focusKeyphrase: "Chicken Naan Sandwiches"
 date: 2025-09-23
 draft: false
-image: chicken-naan-sandwiches.png
+image: chicken-naan-sandwiches.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT45M

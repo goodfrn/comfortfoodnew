@@ -7,7 +7,7 @@ ogDescription: "Bell peppers filled with spiced beef, sweet potatoes, beans. Gar
 focusKeyphrase: "curried beef stuffed peppers"
 date: 2025-08-04
 draft: false
-image: curried-beef-stuffed-peppers.png
+image: curried-beef-stuffed-peppers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H15M

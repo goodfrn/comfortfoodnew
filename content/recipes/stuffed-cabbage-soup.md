@@ -7,7 +7,7 @@ ogDescription: "Savory stuffed cabbage soup—ground turkey, quinoa, smoky papri
 focusKeyphrase: "Instant Pot Stuffed Cabbage Soup"
 date: 2025-10-11
 draft: false
-image: stuffed-cabbage-soup.png
+image: stuffed-cabbage-soup.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT17M

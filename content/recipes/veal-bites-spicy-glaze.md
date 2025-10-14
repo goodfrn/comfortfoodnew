@@ -7,7 +7,7 @@ ogDescription: "Small veal balls coated in thick tangy sticky sauce with ketchup
 focusKeyphrase: "Veal Bites in Spicy Glaze"
 date: 2025-07-25
 draft: false
-image: veal-bites-spicy-glaze.png
+image: veal-bites-spicy-glaze.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT18M

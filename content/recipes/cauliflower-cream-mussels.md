@@ -7,7 +7,7 @@ ogDescription: "Mussels steamed fast in crisp wine, cauliflower and taters cooke
 focusKeyphrase: "Cauliflower Cream Mussels"
 date: 2025-08-02
 draft: false
-image: cauliflower-cream-mussels.png
+image: cauliflower-cream-mussels.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

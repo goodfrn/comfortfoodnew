@@ -7,7 +7,7 @@ ogDescription: "Leftover turkey stuffing meets quinoa in colorful bell peppers. 
 focusKeyphrase: "stuffed bell peppers with turkey stuffing"
 date: 2025-09-27
 draft: false
-image: stuffed-bell-peppers-remix.png
+image: stuffed-bell-peppers-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT50M

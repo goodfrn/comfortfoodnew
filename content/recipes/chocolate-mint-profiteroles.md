@@ -7,7 +7,7 @@ ogDescription: "Light choux puffs filled with mint cream, topped with glossy dar
 focusKeyphrase: "Chocolate Mint Profiteroles"
 date: 2025-08-15
 draft: false
-image: chocolate-mint-profiteroles.png
+image: chocolate-mint-profiteroles.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT40M

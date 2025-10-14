@@ -7,7 +7,7 @@ ogDescription: "Slow heat, careful tempering, warm spices blended into creamy al
 focusKeyphrase: "Classic Spiced Eggnog"
 date: 2025-10-14
 draft: false
-image: classic-spiced-eggnog.png
+image: classic-spiced-eggnog.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT17M

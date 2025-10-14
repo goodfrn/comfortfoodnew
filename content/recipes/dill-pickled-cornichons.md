@@ -7,7 +7,7 @@ ogDescription: "Crunchy Kirby cucumbers, star anise licorice hints, sharp brine,
 focusKeyphrase: "Dill Pickled Cornichons"
 date: 2025-08-11
 draft: false
-image: dill-pickled-cornichons.png
+image: dill-pickled-cornichons.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT12M

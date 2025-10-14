@@ -7,7 +7,7 @@ ogDescription: "Dense oatmeal cake, whole wheat, browned sugar edges crackling g
 focusKeyphrase: "Chunky Oatmeal Cake"
 date: 2025-10-12
 draft: false
-image: chunky-oatmeal-cake.png
+image: chunky-oatmeal-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT45M

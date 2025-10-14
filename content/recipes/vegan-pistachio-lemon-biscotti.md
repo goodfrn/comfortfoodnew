@@ -7,7 +7,7 @@ ogDescription: "Vegan pistachio lemon biscotti baked twice—crispy, nutty, tart
 focusKeyphrase: "vegan pistachio lemon biscotti"
 date: 2025-09-28
 draft: false
-image: vegan-pistachio-lemon-biscotti.png
+image: vegan-pistachio-lemon-biscotti.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT43M

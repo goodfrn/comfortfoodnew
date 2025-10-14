@@ -7,7 +7,7 @@ ogDescription: "Quick no-bake chocolate cheesecake with fluffy cream cheese, mel
 focusKeyphrase: "No Bake Choco Cheesecake"
 date: 2025-10-12
 draft: false
-image: no-bake-choco-cheesecake.png
+image: no-bake-choco-cheesecake.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT0M

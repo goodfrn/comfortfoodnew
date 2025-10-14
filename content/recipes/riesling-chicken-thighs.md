@@ -7,7 +7,7 @@ ogDescription: "Slow-braised chicken thighs with riesling, shiitake mushrooms, a
 focusKeyphrase: "riesling chicken thighs"
 date: 2025-08-18
 draft: false
-image: riesling-chicken-thighs.png
+image: riesling-chicken-thighs.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H20M

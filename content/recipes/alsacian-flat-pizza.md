@@ -7,7 +7,7 @@ ogDescription: "Crispy Alsacian Flat Pizza layered with smoky pancetta, roasted 
 focusKeyphrase: "Alsacian Flat Pizza"
 date: 2025-09-28
 draft: false
-image: alsacian-flat-pizza.png
+image: alsacian-flat-pizza.jpg
 author: "Emma"
 prepTime: PT9M
 cookTime: PT15M

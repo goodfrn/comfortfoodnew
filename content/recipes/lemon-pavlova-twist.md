@@ -7,7 +7,7 @@ ogDescription: "Crunchy meringue dries low and slow overnight. Sharp citrus with
 focusKeyphrase: "Lemon Pavlova"
 date: 2025-08-14
 draft: false
-image: lemon-pavlova-twist.png
+image: lemon-pavlova-twist.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT4H45M

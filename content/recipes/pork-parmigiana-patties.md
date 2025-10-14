@@ -7,7 +7,7 @@ ogDescription: "Sear pork patties for crust, simmer in tomato sauce with oregano
 focusKeyphrase: "Pork Parmigiana Patties"
 date: 2025-09-28
 draft: false
-image: pork-parmigiana-patties.png
+image: pork-parmigiana-patties.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT28M

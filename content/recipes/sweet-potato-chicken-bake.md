@@ -7,7 +7,7 @@ ogDescription: "Cheddar-topped sweet potato chicken bake with sautéed veggies a
 focusKeyphrase: "Sweet Potato Chicken Bake"
 date: 2025-08-13
 draft: false
-image: sweet-potato-chicken-bake.png
+image: sweet-potato-chicken-bake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT45M

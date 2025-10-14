@@ -7,7 +7,7 @@ ogDescription: "Savory bagel-spiced tart layered with smoked trout, herbed cream
 focusKeyphrase: "Smoked salmon bagel tart"
 date: 2025-08-01
 draft: false
-image: smoked-salmon-tart.png
+image: smoked-salmon-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Chunky peanut butter fudge with almond twist, chocolate cream la
 focusKeyphrase: "Chunky Peanut Butter Chocolate Fudge"
 date: 2025-10-12
 draft: false
-image: chunky-peanut-butter-fudge.png
+image: chunky-peanut-butter-fudge.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

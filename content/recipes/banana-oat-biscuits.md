@@ -7,7 +7,7 @@ ogDescription: "Vegan banana oat biscuits with chocolate chunks. Flax and hemp b
 focusKeyphrase: "banana oat breakfast biscuits"
 date: 2025-08-17
 draft: false
-image: banana-oat-biscuits.png
+image: banana-oat-biscuits.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT25M

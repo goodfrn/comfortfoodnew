@@ -7,7 +7,7 @@ ogDescription: "Earthy beets, creamy rice, ricotta dollop, honey drizzle. Layere
 focusKeyphrase: "Beet Risotto"
 date: 2025-10-11
 draft: false
-image: beet-risotto-twist.png
+image: beet-risotto-twist.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT38M

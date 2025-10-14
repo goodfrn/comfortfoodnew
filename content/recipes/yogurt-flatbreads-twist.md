@@ -7,7 +7,7 @@ ogDescription: "Quick yogurt flatbreads with honey and baking powder. No yeast, 
 focusKeyphrase: "yogurt flatbreads"
 date: 2025-09-26
 draft: false
-image: yogurt-flatbreads-twist.png
+image: yogurt-flatbreads-twist.jpg
 author: "Emma"
 prepTime: PT28M
 cookTime: PT9M

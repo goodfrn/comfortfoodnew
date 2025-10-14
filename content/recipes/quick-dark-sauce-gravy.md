@@ -7,7 +7,7 @@ ogDescription: "Deep, quick brown sauce made by slowly caramelizing onion and ga
 focusKeyphrase: "Quick Dark Sauce Gravy"
 date: 2025-08-05
 draft: false
-image: quick-dark-sauce-gravy.png
+image: quick-dark-sauce-gravy.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

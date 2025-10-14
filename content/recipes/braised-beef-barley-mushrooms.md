@@ -7,7 +7,7 @@ ogDescription: "Slow-braised beef cubes with cremini and shiitake, whole grain b
 focusKeyphrase: "Braised Beef Barley Mushrooms"
 date: 2025-08-11
 draft: false
-image: braised-beef-barley-mushrooms.png
+image: braised-beef-barley-mushrooms.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H40M

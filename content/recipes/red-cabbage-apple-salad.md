@@ -7,7 +7,7 @@ ogDescription: "Cabbage sliced thin, fennel snap, thyme aroma brightens. Cranber
 focusKeyphrase: "red cabbage apple salad"
 date: 2025-08-08
 draft: false
-image: red-cabbage-apple-salad.png
+image: red-cabbage-apple-salad.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT0M

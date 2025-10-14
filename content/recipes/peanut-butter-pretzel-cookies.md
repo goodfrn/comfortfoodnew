@@ -7,7 +7,7 @@ ogDescription: "Crunchy peanut pretzel cookies packed with dark cocoa, peanut bu
 focusKeyphrase: "Peanut Butter Pretzel Choc Cookies"
 date: 2025-07-29
 draft: false
-image: peanut-butter-pretzel-cookies.png
+image: peanut-butter-pretzel-cookies.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT11M

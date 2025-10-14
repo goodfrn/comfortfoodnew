@@ -7,7 +7,7 @@ ogDescription: "Slow-braised beef with smoky bacon, peppers, cherry tomatoes. Wi
 focusKeyphrase: "braised beef with peppers and cherry tomatoes"
 date: 2025-09-25
 draft: false
-image: braised-beef-with-peppers.png
+image: braised-beef-with-peppers.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT3H

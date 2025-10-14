@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked turkey breast bathed in butter, oregano swapped for 
 focusKeyphrase: "slow cooker turkey breast"
 date: 2025-10-10
 draft: false
-image: butter-basted-slow-cooker-turkey.png
+image: butter-basted-slow-cooker-turkey.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT5H30M

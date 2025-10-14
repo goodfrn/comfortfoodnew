@@ -7,7 +7,7 @@ ogDescription: "Quick broil chicken breasts with vibrant veg; couscous simmers i
 focusKeyphrase: "Curried Chicken Veg Traybake"
 date: 2025-09-24
 draft: false
-image: curried-chicken-veg-traybake.png
+image: curried-chicken-veg-traybake.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Spiced Cajun Shrimp Skewers. Smoky flavor. Fast prep. Great for 
 focusKeyphrase: "Cajun shrimp skewers"
 date: 2025-07-17
 draft: false
-image: spiced-cajun-shrimp-skewers.png
+image: spiced-cajun-shrimp-skewers.jpg
 author: "Emma Kitchen"
 prepTime: PT1H5M
 cookTime: PT6M

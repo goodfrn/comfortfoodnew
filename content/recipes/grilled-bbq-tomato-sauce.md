@@ -7,7 +7,7 @@ ogDescription: "Roasted and grilled plum tomatoes bring smoky depth to a thick s
 focusKeyphrase: "Grilled BBQ Tomato Sauce"
 date: 2025-09-03
 draft: false
-image: grilled-bbq-tomato-sauce.png
+image: grilled-bbq-tomato-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT115M

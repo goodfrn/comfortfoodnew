@@ -7,7 +7,7 @@ ogDescription: "Bright asparagus tossed in garlicky vinaigrette, topped with fin
 focusKeyphrase: "Asparagus Mimosa Remix"
 date: 2025-08-10
 draft: false
-image: asparagus-mimosa-remix.png
+image: asparagus-mimosa-remix.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT4M

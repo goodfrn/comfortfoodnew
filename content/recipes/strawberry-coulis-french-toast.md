@@ -7,7 +7,7 @@ ogDescription: "Crunchy edges meet cinnamon warmth; strawberry coulis strained f
 focusKeyphrase: "Strawberry Coulis French Toast"
 date: 2025-09-25
 draft: false
-image: strawberry-coulis-french-toast.png
+image: strawberry-coulis-french-toast.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Layers of cream cheese and whipped chocolate top a prebaked crus
 focusKeyphrase: "Chocolate Cream Cheese Pie"
 date: 2025-10-09
 draft: false
-image: chocolate-cream-cheese-pie.png
+image: chocolate-cream-cheese-pie.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

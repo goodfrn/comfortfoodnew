@@ -7,7 +7,7 @@ ogDescription: "Shake cranberry juice, vodka, triple sec, blackcurrant liqueur, 
 focusKeyphrase: "Purple Cran Vodka Twist"
 date: 2025-07-30
 draft: false
-image: purple-cran-vodka-twist.png
+image: purple-cran-vodka-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Bold spices, browned beef, creamy coconut milk. Snap peas, cherr
 focusKeyphrase: "Spiced Indian Chili"
 date: 2025-08-05
 draft: false
-image: spiced-indian-chili.png
+image: spiced-indian-chili.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

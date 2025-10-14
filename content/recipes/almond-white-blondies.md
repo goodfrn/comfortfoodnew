@@ -7,7 +7,7 @@ ogDescription: "Chewy almond white blondies with pecans, brown sugar, cream chee
 focusKeyphrase: "Almond White Blondies"
 date: 2025-08-06
 draft: false
-image: almond-white-blondies.png
+image: almond-white-blondies.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT38M

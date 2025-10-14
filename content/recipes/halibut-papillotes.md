@@ -7,7 +7,7 @@ ogDescription: "Tender halibut cooked in papillote layered with thin spicy pickl
 focusKeyphrase: "Halibut Papillotes"
 date: 2025-07-27
 draft: false
-image: halibut-papillotes.png
+image: halibut-papillotes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

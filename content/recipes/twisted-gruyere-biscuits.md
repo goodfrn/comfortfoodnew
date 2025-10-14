@@ -7,7 +7,7 @@ ogDescription: "Crunchy Gruyère thyme spelt biscuits. Olive oil replaces butter
 focusKeyphrase: "Gruyère thyme spelt biscuits"
 date: 2025-08-18
 draft: false
-image: twisted-gruyere-biscuits.png
+image: twisted-gruyere-biscuits.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

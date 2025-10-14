@@ -7,7 +7,7 @@ ogDescription: "Try Grilled Flank Steak and Broccoli Pepper Stir for a smoky, sa
 focusKeyphrase: "Grilled Flank Steak"
 date: 2025-07-24
 draft: false
-image: grilled-flank-steak.png
+image: grilled-flank-steak.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT22M

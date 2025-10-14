@@ -7,7 +7,7 @@ ogDescription: "Smoky chipotle jackfruit tofu bake with sticky tomato glaze. Cri
 focusKeyphrase: "jackfruit tofu BBQ pull"
 date: 2025-08-02
 draft: false
-image: jackfruit-tofu-bbq-pull.png
+image: jackfruit-tofu-bbq-pull.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

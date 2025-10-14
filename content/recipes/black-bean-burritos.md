@@ -7,7 +7,7 @@ ogDescription: "Savor burritos with garlic-sautéed beans, creamy avocado mash, 
 focusKeyphrase: "black bean burritos"
 date: 2025-09-23
 draft: false
-image: black-bean-burritos.png
+image: black-bean-burritos.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT55M

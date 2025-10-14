@@ -7,7 +7,7 @@ ogDescription: "Golden filo-wrapped asparagus spiked with tarragon and lemon zes
 focusKeyphrase: "filo wrapped asparagus"
 date: 2025-08-17
 draft: false
-image: crunchy-wrapped-asparagus.png
+image: crunchy-wrapped-asparagus.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

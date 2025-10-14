@@ -7,7 +7,7 @@ ogDescription: "Chunks of curry-spiked chicken, crunchy cucumber and herbs layer
 focusKeyphrase: "Curried Chicken Toasts"
 date: 2025-08-19
 draft: false
-image: curried-chicken-toasts.png
+image: curried-chicken-toasts.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Juicy shrimp brined in salt sugar water, seared in butter garlic
 focusKeyphrase: "Garlic Lemon Brined Shrimp"
 date: 2025-10-02
 draft: false
-image: garlic-lemon-brined-shrimp.png
+image: garlic-lemon-brined-shrimp.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT14M

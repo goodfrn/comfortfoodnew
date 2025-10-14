@@ -7,7 +7,7 @@ ogDescription: "Roast pork ribs seared crusted with pepper-fennel, paired with g
 focusKeyphrase: "pork rib roast mushroom sauce"
 date: 2025-09-23
 draft: false
-image: pork-rib-roast.png
+image: pork-rib-roast.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H20M

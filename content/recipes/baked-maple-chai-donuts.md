@@ -7,7 +7,7 @@ ogDescription: "Light baked donuts with chai spice, maple syrup, and subtle whol
 focusKeyphrase: "baked maple chai donuts"
 date: 2025-08-09
 draft: false
-image: baked-maple-chai-donuts.png
+image: baked-maple-chai-donuts.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

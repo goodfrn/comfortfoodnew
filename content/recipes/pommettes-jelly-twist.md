@@ -7,7 +7,7 @@ ogDescription: "Clear jelly from tart pommettes. Slow simmer, gravity drip juice
 focusKeyphrase: "pommettes jelly"
 date: 2025-09-29
 draft: false
-image: pommettes-jelly-twist.png
+image: pommettes-jelly-twist.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H15M

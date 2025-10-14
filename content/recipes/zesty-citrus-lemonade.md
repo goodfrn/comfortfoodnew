@@ -7,7 +7,7 @@ ogDescription: "Bright citrus punch with fresh lemon and orange zest. Hot simple
 focusKeyphrase: "Zesty Citrus Lemonade"
 date: 2025-09-29
 draft: false
-image: zesty-citrus-lemonade.png
+image: zesty-citrus-lemonade.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Golden croquettes with juicy chicken thighs, smoky paprika and a
 focusKeyphrase: "crispy chicken croquettes"
 date: 2025-08-18
 draft: false
-image: crispy-chicken-croquettes.png
+image: crispy-chicken-croquettes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT45M

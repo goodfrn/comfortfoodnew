@@ -7,7 +7,7 @@ ogDescription: "Cream cheese whipped with sugars and molasses or maple syrup; wa
 focusKeyphrase: "Gingerbread Cream Cheese Dip"
 date: 2025-10-14
 draft: false
-image: gingerbread-cream-cheese-dip.png
+image: gingerbread-cream-cheese-dip.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Floral chive blossom butter rolled with tarragon and fresh petal
 focusKeyphrase: "Chive Blossom Butter"
 date: 2025-07-29
 draft: false
-image: chive-blossom-butter.png
+image: chive-blossom-butter.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

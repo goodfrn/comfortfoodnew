@@ -7,7 +7,7 @@ ogDescription: "Rich cheesecake swaps oats for graham crackers. Ricotta joins cr
 focusKeyphrase: "Cheesecake with fruity sauce"
 date: 2025-07-30
 draft: false
-image: cheesecake-fruity-sauce.png
+image: cheesecake-fruity-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H10M

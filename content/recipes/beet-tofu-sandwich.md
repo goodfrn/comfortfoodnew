@@ -7,7 +7,7 @@ ogDescription: "Layer crunch, tang, and earth with beet-glazed tofu, dill pickle
 focusKeyphrase: "Beet Tofu Deli Sandwich"
 date: 2025-08-18
 draft: false
-image: beet-tofu-sandwich.png
+image: beet-tofu-sandwich.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT40M

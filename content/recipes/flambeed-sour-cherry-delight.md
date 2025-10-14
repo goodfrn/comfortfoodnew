@@ -7,7 +7,7 @@ ogDescription: "Sour cherries browned in butter, brown sugar, flambéed with bra
 focusKeyphrase: "Flambéed sour cherries"
 date: 2025-08-17
 draft: false
-image: flambeed-sour-cherry-delight.png
+image: flambeed-sour-cherry-delight.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT6M

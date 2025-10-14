@@ -7,7 +7,7 @@ ogDescription: "Light vanilla almond cake using cake flour, sour cream, almond e
 focusKeyphrase: "Vanilla Almond Cake"
 date: 2025-10-12
 draft: false
-image: vanilla-almond-cake.png
+image: vanilla-almond-cake.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT32M

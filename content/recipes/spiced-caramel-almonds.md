@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spiced Caramel Almonds for a crunchy, sweet snack. Warm, s
 focusKeyphrase: "spiced caramel almonds"
 date: 2025-07-21
 draft: false
-image: spiced-caramel-almonds.png
+image: spiced-caramel-almonds.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT15M

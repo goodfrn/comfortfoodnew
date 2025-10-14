@@ -7,7 +7,7 @@ ogDescription: "Torn Romaine coated lightly in bright miso-lemon dressing. Crisp
 focusKeyphrase: "Rustic Caesar Salad"
 date: 2025-09-28
 draft: false
-image: rustic-caesar-salad.png
+image: rustic-caesar-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

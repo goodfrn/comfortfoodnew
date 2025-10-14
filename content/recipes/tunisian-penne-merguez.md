@@ -7,7 +7,7 @@ ogDescription: "Spicy merguez sausage hits tender penne with harissa heat, brigh
 focusKeyphrase: "Tunisian Penne Merguez"
 date: 2025-08-12
 draft: false
-image: tunisian-penne-merguez.png
+image: tunisian-penne-merguez.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

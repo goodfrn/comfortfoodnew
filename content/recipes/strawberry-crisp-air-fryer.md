@@ -7,7 +7,7 @@ ogDescription: "Strawberries thickened with arrowroot, crisped under crunchy oat
 focusKeyphrase: "Strawberry Crisp Air Fryer"
 date: 2025-08-03
 draft: false
-image: strawberry-crisp-air-fryer.png
+image: strawberry-crisp-air-fryer.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT23M

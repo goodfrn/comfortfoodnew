@@ -7,7 +7,7 @@ ogDescription: "Fresh corn kernels scraped sharp. Creamy avocado last. Lime, jal
 focusKeyphrase: "avocado corn salad"
 date: 2025-10-06
 draft: false
-image: avocado-corn-salad.png
+image: avocado-corn-salad.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT8M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy cauliflower crust, almond flour base. Provolone melt, th
 focusKeyphrase: "Cauliflower Crust Pizza Remix"
 date: 2025-08-17
 draft: false
-image: cauliflower-crust-pizza.png
+image: cauliflower-crust-pizza.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT22M

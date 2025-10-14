@@ -7,7 +7,7 @@ ogDescription: "Browning veal undisturbed for crust, simmered tomatoes with grat
 focusKeyphrase: "Veal Bolognese with Cheddar"
 date: 2025-09-24
 draft: false
-image: veal-bolognese-sauce.png
+image: veal-bolognese-sauce.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

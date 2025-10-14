@@ -7,7 +7,7 @@ ogDescription: "Chill a mix of al dente rotini, crisp veggies, creamy cheese, an
 focusKeyphrase: "Cold Rotini Salad"
 date: 2025-10-13
 draft: false
-image: cold-rotini-salad.png
+image: cold-rotini-salad.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT8M

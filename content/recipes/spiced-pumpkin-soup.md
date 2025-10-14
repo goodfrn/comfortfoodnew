@@ -7,7 +7,7 @@ ogDescription: "Roasted pumpkin, smoky paprika, and coconut cream swirl make a w
 focusKeyphrase: "Spiced pumpkin soup"
 date: 2025-07-28
 draft: false
-image: spiced-pumpkin-soup.png
+image: spiced-pumpkin-soup.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H15M

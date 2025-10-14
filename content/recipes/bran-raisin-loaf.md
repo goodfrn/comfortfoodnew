@@ -7,7 +7,7 @@ ogDescription: "Bran loaf swapping raisins with apricots, honey and coconut oil.
 focusKeyphrase: "Bran Raisin Loaf Twist"
 date: 2025-08-06
 draft: false
-image: bran-raisin-loaf.png
+image: bran-raisin-loaf.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT35M

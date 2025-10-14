@@ -7,7 +7,7 @@ ogDescription: "Carrots cooked sous vide at 88 °C, buttered with shallots; salt
 focusKeyphrase: "Sous vide buttered carrots"
 date: 2025-08-04
 draft: false
-image: sous-vide-buttered-carrots.png
+image: sous-vide-buttered-carrots.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT35M

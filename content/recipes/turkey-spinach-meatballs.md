@@ -7,7 +7,7 @@ ogDescription: "Enjoy Turkey Spinach Meatballs with a zesty tomato salad. Perfec
 focusKeyphrase: "Turkey Spinach Meatballs"
 date: 2025-07-16
 draft: false
-image: turkey-spinach-meatballs.png
+image: turkey-spinach-meatballs.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT25M

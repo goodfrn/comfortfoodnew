@@ -7,7 +7,7 @@ ogDescription: "Spicy pale ale cocktail with smoky chipotle, lime juice, mezcal 
 focusKeyphrase: "Bleeding Blonde Beer cocktail"
 date: 2025-08-13
 draft: false
-image: bleeding-blonde-beer.png
+image: bleeding-blonde-beer.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

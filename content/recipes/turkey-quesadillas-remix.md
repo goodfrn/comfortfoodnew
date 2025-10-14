@@ -7,7 +7,7 @@ ogDescription: "Sautéed mushrooms, shredded turkey, cranberry jam, and Québec 
 focusKeyphrase: "turkey quesadillas"
 date: 2025-09-27
 draft: false
-image: turkey-quesadillas-remix.png
+image: turkey-quesadillas-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

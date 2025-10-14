@@ -7,7 +7,7 @@ ogDescription: "Lobster chunks, tender pasta, garlic-fennel aroma, wine reduced 
 focusKeyphrase: "lobster tagliolini pasta"
 date: 2025-08-18
 draft: false
-image: lobster-spaghetti-delight.png
+image: lobster-spaghetti-delight.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

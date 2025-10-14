@@ -7,7 +7,7 @@ ogDescription: "Layers of spicy merguez, rich chili, and cornstarch-thickened ch
 focusKeyphrase: "Spicy Chili Dog Bake"
 date: 2025-09-29
 draft: false
-image: spicy-chili-dog-bake.png
+image: spicy-chili-dog-bake.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT50M

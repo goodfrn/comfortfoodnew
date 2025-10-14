@@ -7,7 +7,7 @@ ogDescription: "Louisiana-inspired spaghetti jambalaya using chicken thigh, Ando
 focusKeyphrase: "spaghetti jambalaya"
 date: 2025-08-10
 draft: false
-image: spaghetti-jambalaya-twist.png
+image: spaghetti-jambalaya-twist.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

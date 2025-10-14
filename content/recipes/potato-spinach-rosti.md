@@ -7,7 +7,7 @@ ogDescription: "Enjoy Potato Spinach Rösti, a crispy delightful Swiss treat wit
 focusKeyphrase: "Potato Spinach Rösti"
 date: 2025-07-16
 draft: false
-image: potato-spinach-rosti.png
+image: potato-spinach-rosti.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT35M

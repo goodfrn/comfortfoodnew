@@ -7,7 +7,7 @@ ogDescription: "Slow cooked sauerkraut soup with smoky pancetta, tender roots, a
 focusKeyphrase: "sauerkraut soup"
 date: 2025-08-04
 draft: false
-image: rustic-sauerkraut-soup.png
+image: rustic-sauerkraut-soup.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT6H30M

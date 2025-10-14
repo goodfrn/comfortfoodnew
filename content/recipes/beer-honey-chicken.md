@@ -7,7 +7,7 @@ ogDescription: "Grill chicken breasts pounded thin, marinated in honey, beer, so
 focusKeyphrase: "Beer Honey Chicken"
 date: 2025-10-12
 draft: false
-image: beer-honey-chicken.png
+image: beer-honey-chicken.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

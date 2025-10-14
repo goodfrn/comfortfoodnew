@@ -7,7 +7,7 @@ ogDescription: "Gooey bars with pockets of bitter dark chips, brown sugar carame
 focusKeyphrase: "Chunky Chip Dream Bars"
 date: 2025-10-11
 draft: false
-image: chunky-chip-dream-bars.png
+image: chunky-chip-dream-bars.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT28M

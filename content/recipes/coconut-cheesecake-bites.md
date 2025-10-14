@@ -7,7 +7,7 @@ ogDescription: "Chill batter firm to roll. Use toasted coconut flakes quick on w
 focusKeyphrase: "Coconut Cheesecake Bites"
 date: 2025-10-13
 draft: false
-image: coconut-cheesecake-bites.png
+image: coconut-cheesecake-bites.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

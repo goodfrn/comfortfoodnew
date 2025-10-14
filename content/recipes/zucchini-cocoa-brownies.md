@@ -7,7 +7,7 @@ ogDescription: "Dense cocoa brownies loaded with shredded zucchini, chocolate ch
 focusKeyphrase: "zucchini cocoa brownies"
 date: 2025-10-11
 draft: false
-image: zucchini-cocoa-brownies.png
+image: zucchini-cocoa-brownies.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Flaky fish meets cumin, harissa heat, pine nuts crunch. Couscous
 focusKeyphrase: "Tunisian Fish Couscous"
 date: 2025-08-09
 draft: false
-image: tunisian-fish-couscous.png
+image: tunisian-fish-couscous.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

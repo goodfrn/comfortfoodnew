@@ -7,7 +7,7 @@ ogDescription: "Smoky grilled eggs nestled in spiced black bean-tomato sauce, to
 focusKeyphrase: "Grilled Ranch Eggs Black Beans"
 date: 2025-09-27
 draft: false
-image: grilled-ranch-eggs.png
+image: grilled-ranch-eggs.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

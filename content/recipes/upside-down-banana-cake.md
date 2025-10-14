@@ -7,7 +7,7 @@ ogDescription: "Dense banana cake with caramel pineapple, pecans and almond extr
 focusKeyphrase: "upside-down banana cake"
 date: 2025-08-09
 draft: false
-image: upside-down-banana-cake.png
+image: upside-down-banana-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Savor Passionfruit Coconut Pudding. Creamy, tropical dessert. Id
 focusKeyphrase: "Passionfruit Coconut Pudding"
 date: 2025-07-21
 draft: false
-image: passionfruit-coconut-pudding.png
+image: passionfruit-coconut-pudding.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT45M

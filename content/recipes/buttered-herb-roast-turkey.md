@@ -7,7 +7,7 @@ ogDescription: "Juicy butter-herb turkey with cavity stuffing, gentle roasting, 
 focusKeyphrase: "Buttered Herb Roast Turkey"
 date: 2025-10-05
 draft: false
-image: buttered-herb-roast-turkey.png
+image: buttered-herb-roast-turkey.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT3H10M

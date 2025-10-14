@@ -7,7 +7,7 @@ ogDescription: "Savor the bold flavors of a Modified Muffuletta Sandwich. With m
 focusKeyphrase: "Modified Muffuletta Sandwich"
 date: 2025-07-16
 draft: false
-image: modified-muffuletta-sandwich.png
+image: modified-muffuletta-sandwich.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT25M

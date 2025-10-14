@@ -7,7 +7,7 @@ ogDescription: "Bold browned beef infused with toasted chili and cumin. Tomato-c
 focusKeyphrase: "Pressure Cooker Spiced Beef"
 date: 2025-10-03
 draft: false
-image: pressure-cooker-spiced-beef.png
+image: pressure-cooker-spiced-beef.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT11M

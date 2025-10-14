@@ -7,7 +7,7 @@ ogDescription: "Creamy chicken and white beans meld with green chilis and jalape
 focusKeyphrase: "White Bean Chili"
 date: 2025-10-11
 draft: false
-image: white-bean-chili.png
+image: white-bean-chili.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT27M

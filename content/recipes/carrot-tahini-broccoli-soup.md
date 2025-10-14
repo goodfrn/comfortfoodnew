@@ -7,7 +7,7 @@ ogDescription: "Roasted carrot soup with smoky paprika, tahini-maple drizzle, an
 focusKeyphrase: "Carrot Tahini Broccoli Soup"
 date: 2025-08-07
 draft: false
-image: carrot-tahini-broccoli-soup.png
+image: carrot-tahini-broccoli-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

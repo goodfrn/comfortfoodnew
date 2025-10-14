@@ -7,7 +7,7 @@ ogDescription: "Indulge in Altered Chocolate Berry Crêpes. Made with dark choco
 focusKeyphrase: "chocolate berry crêpes"
 date: 2025-07-19
 draft: false
-image: altered-chocolate-berry-crepes.png
+image: altered-chocolate-berry-crepes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

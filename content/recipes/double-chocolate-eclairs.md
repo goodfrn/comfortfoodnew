@@ -7,7 +7,7 @@ ogDescription: "Savor Double Chocolate Éclairs with a blend of white chocolate 
 focusKeyphrase: "Double Chocolate Éclairs"
 date: 2025-07-21
 draft: false
-image: double-chocolate-eclairs.png
+image: double-chocolate-eclairs.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT35M

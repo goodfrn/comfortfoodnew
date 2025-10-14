@@ -7,7 +7,7 @@ ogDescription: "Tender potatoes simmered in wine, cream, greens, topped with del
 focusKeyphrase: "Sole Potato Gratin"
 date: 2025-08-05
 draft: false
-image: sole-potato-gratin.png
+image: sole-potato-gratin.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H

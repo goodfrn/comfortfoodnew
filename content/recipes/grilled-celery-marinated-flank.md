@@ -7,7 +7,7 @@ ogDescription: "Crunchy charred celery grilled alongside thin-sliced marinated f
 focusKeyphrase: "marinated flank steak with grilled celery"
 date: 2025-09-29
 draft: false
-image: grilled-celery-marinated-flank.png
+image: grilled-celery-marinated-flank.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT32M

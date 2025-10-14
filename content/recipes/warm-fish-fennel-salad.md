@@ -7,7 +7,7 @@ ogDescription: "Seared white fish meets crisp fennel, green grapes, and Turkish 
 focusKeyphrase: "Warm Fish Fennel Salad"
 date: 2025-07-28
 draft: false
-image: warm-fish-fennel-salad.png
+image: warm-fish-fennel-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

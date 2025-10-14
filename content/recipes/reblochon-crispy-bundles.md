@@ -7,7 +7,7 @@ ogDescription: "Crispy phyllo bundles stuffed with apple-raclette mix, smoky pap
 focusKeyphrase: "Reblochon Crispy Bundles"
 date: 2025-08-14
 draft: false
-image: reblochon-crispy-bundles.png
+image: reblochon-crispy-bundles.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

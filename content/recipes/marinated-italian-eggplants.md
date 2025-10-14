@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked eggplants soaked in sharp vinegar bath. Garlic-infus
 focusKeyphrase: "Marinated Italian Eggplants"
 date: 2025-09-26
 draft: false
-image: marinated-italian-eggplants.png
+image: marinated-italian-eggplants.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT58M

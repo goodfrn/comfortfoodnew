@@ -7,7 +7,7 @@ ogDescription: "Enjoy a cool Clementine Mint Infusion, a delightful blend of cle
 focusKeyphrase: "Clementine Mint Infusion"
 date: 2025-07-15
 draft: false
-image: clementine-mint-infusion.png
+image: clementine-mint-infusion.jpg
 author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Dense fudgy almond chocolate cake, gluten-free with hazelnut cru
 focusKeyphrase: "gluten-free almond chocolate cake"
 date: 2025-07-26
 draft: false
-image: gluten-free-almond-chocolate-cake.png
+image: gluten-free-almond-chocolate-cake.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

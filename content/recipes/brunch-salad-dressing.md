@@ -7,7 +7,7 @@ ogDescription: "Crunchy granola, creamy herb dressing, crisp lettuce, feta, egg 
 focusKeyphrase: "Brunch Salad with Creamy Italian Dressing"
 date: 2025-08-10
 draft: false
-image: brunch-salad-dressing.png
+image: brunch-salad-dressing.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

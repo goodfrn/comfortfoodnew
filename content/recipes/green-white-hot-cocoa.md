@@ -7,7 +7,7 @@ ogDescription: "Creamy green white chocolate hot cocoa. Melt chocolate slow, sti
 focusKeyphrase: "green white hot cocoa"
 date: 2025-10-11
 draft: false
-image: green-white-hot-cocoa.png
+image: green-white-hot-cocoa.jpg
 author: "Emma"
 prepTime: PT3M
 cookTime: PT6M

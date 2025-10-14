@@ -7,7 +7,7 @@ ogDescription: "Bright citrus zing meets light fortified wine. Fresh grapefruit 
 focusKeyphrase: "Orange-Port Splash"
 date: 2025-08-01
 draft: false
-image: orange-port-splash.png
+image: orange-port-splash.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

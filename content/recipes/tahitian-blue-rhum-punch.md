@@ -7,7 +7,7 @@ ogDescription: "Aged rum meets pineapple and coconut cream. Blue curaçao bright
 focusKeyphrase: "Tahitian Blue Rhum Punch"
 date: 2025-07-29
 draft: false
-image: tahitian-blue-rhum-punch.png
+image: tahitian-blue-rhum-punch.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

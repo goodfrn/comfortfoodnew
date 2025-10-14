@@ -7,7 +7,7 @@ ogDescription: "Baked risotto with leeks, spinach, Parmesan, ricotta. Oven cooks
 focusKeyphrase: "Oven Risotto Leek Spinach"
 date: 2025-09-29
 draft: false
-image: oven-risotto-leek-spinach.png
+image: oven-risotto-leek-spinach.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT27M

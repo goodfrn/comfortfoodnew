@@ -7,7 +7,7 @@ ogDescription: "This Oat Cream Delight is a creamy bowl of oats with a twist. Ca
 focusKeyphrase: "Oat Cream Delight"
 date: 2025-07-23
 draft: false
-image: oat-cream-delight.png
+image: oat-cream-delight.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT15M

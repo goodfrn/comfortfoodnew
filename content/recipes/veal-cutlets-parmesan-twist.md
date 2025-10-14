@@ -7,7 +7,7 @@ ogDescription: "Crunchy pecorino-panko crusted veal cutlets, seared in avocado o
 focusKeyphrase: "Veal cutlets pecorino crust"
 date: 2025-08-01
 draft: false
-image: veal-cutlets-parmesan-twist.png
+image: veal-cutlets-parmesan-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

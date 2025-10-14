@@ -7,7 +7,7 @@ ogDescription: "Crunchy bites with cereal, nuts, fruit, melted milk chocolate, r
 focusKeyphrase: "Crunchy Cocoa Bites"
 date: 2025-07-30
 draft: false
-image: crunchy-cocoa-bites.png
+image: crunchy-cocoa-bites.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

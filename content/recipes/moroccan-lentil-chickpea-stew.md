@@ -7,7 +7,7 @@ ogDescription: "Hearty lentil chickpea stew simmered slow in saffron broth with 
 focusKeyphrase: "Moroccan Lentil Chickpea Stew"
 date: 2025-08-10
 draft: false
-image: moroccan-lentil-chickpea-stew.png
+image: moroccan-lentil-chickpea-stew.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT65M

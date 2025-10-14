@@ -7,7 +7,7 @@ ogDescription: "Crunchy asparagus bundles grilled on rosemary skewers with garli
 focusKeyphrase: "Grilled Herb Asparagus Bundles"
 date: 2025-08-15
 draft: false
-image: grilled-herb-asparagus.png
+image: grilled-herb-asparagus.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT17M

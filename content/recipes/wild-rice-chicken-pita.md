@@ -7,7 +7,7 @@ ogDescription: "Crunchy pitas stuffed with wild rice, chicken, tart cranberries,
 focusKeyphrase: "wild rice chicken pita"
 date: 2025-09-28
 draft: false
-image: wild-rice-chicken-pita.png
+image: wild-rice-chicken-pita.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT55M

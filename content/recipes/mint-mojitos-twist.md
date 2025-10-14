@@ -7,7 +7,7 @@ ogDescription: "Silver tequila, lime syrup steeped slow, mint muddled lightly. C
 focusKeyphrase: "Mint Mojitos Twist"
 date: 2025-10-10
 draft: false
-image: mint-mojitos-twist.png
+image: mint-mojitos-twist.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT12M

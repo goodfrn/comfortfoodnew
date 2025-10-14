@@ -7,7 +7,7 @@ ogDescription: "Crunchy sesame chicken drumsticks baked with brown sugar and avo
 focusKeyphrase: "Crispy Sesame Chicken Drums"
 date: 2025-07-28
 draft: false
-image: crispy-sesame-chicken-drums.png
+image: crispy-sesame-chicken-drums.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Moist tangy loaf with strawberry bursts and crisp lemon glaze. Y
 focusKeyphrase: "strawberry lemon yogurt bread"
 date: 2025-10-04
 draft: false
-image: strawberry-lemon-yogurt-bread.png
+image: strawberry-lemon-yogurt-bread.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT40M

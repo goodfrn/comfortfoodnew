@@ -7,7 +7,7 @@ ogDescription: "Fresh chunky veggies meet tangy yogurt and whole-grain mustard. 
 focusKeyphrase: "chunky raïta salad"
 date: 2025-09-28
 draft: false
-image: chunky-raita-salad.png
+image: chunky-raita-salad.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Flaked snapper with blanched green beans, cherry tomatoes, and f
 focusKeyphrase: "Warm Fish Green Bean Salad"
 date: 2025-08-16
 draft: false
-image: warm-fish-green-bean-salad.png
+image: warm-fish-green-bean-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

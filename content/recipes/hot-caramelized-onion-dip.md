@@ -7,7 +7,7 @@ ogDescription: "Creamy dip with rich caramelized onions, a whiskey kick, and tan
 focusKeyphrase: "Hot Caramelized Onion Dip"
 date: 2025-08-01
 draft: false
-image: hot-caramelized-onion-dip.png
+image: hot-caramelized-onion-dip.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

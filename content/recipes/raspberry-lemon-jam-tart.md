@@ -7,7 +7,7 @@ ogDescription: "Rectangular tart. Buttery crust crisp, tangy raspberry-lemon fil
 focusKeyphrase: "Raspberry Lemon Jam Tart"
 date: 2025-08-05
 draft: false
-image: raspberry-lemon-jam-tart.png
+image: raspberry-lemon-jam-tart.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT30M

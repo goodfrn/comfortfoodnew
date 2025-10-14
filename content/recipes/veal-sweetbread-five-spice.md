@@ -7,7 +7,7 @@ ogDescription: "Short poach veal sweetbreads, sear in duck fat, glaze with star 
 focusKeyphrase: "Veal Sweetbread Five-Spice"
 date: 2025-09-28
 draft: false
-image: veal-sweetbread-five-spice.png
+image: veal-sweetbread-five-spice.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

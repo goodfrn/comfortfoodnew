@@ -7,7 +7,7 @@ ogDescription: "Enjoy Quick Pickled Kimchi Salad. Fresh, crunchy veggies tossed 
 focusKeyphrase: "Quick Pickled Kimchi Salad"
 date: 2025-07-21
 draft: false
-image: quick-pickled-kimchi-salad.png
+image: quick-pickled-kimchi-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

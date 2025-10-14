@@ -7,7 +7,7 @@ ogDescription: "Less Sweet Chocolate Cake with almond flour, honey glaze swaps m
 focusKeyphrase: "Less Sweet Chocolate Cake"
 date: 2025-09-28
 draft: false
-image: less-sweet-chocolate-cake.png
+image: less-sweet-chocolate-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT34M

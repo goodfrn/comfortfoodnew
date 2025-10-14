@@ -7,7 +7,7 @@ ogDescription: "Fresh oysters served cold on ice, topped with a tangy vegetable 
 focusKeyphrase: "Maple Vegetable Mignonette Oysters"
 date: 2025-07-29
 draft: false
-image: maple-vegetable-mignonette.png
+image: maple-vegetable-mignonette.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT0M

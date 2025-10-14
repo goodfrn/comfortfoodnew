@@ -7,7 +7,7 @@ ogDescription: "Rustic French cabbage soup layered with lemon-rubbed bread, Gruy
 focusKeyphrase: "Country Cabbage Soup"
 date: 2025-07-29
 draft: false
-image: country-cabbage-soup.png
+image: country-cabbage-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

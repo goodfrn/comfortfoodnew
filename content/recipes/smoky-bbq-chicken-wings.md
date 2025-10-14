@@ -7,7 +7,7 @@ ogDescription: "Chop wings at joints, marinade overnight in smoky blend with pap
 focusKeyphrase: "Smoky BBQ chicken wings"
 date: 2025-08-15
 draft: false
-image: smoky-bbq-chicken-wings.png
+image: smoky-bbq-chicken-wings.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in hearty Golden Honey Potatoes. Sweet, rich, and perfec
 focusKeyphrase: "Golden Honey Potatoes"
 date: 2025-07-20
 draft: false
-image: golden-honey-potatoes.png
+image: golden-honey-potatoes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H20M

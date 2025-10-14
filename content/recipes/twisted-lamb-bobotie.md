@@ -7,7 +7,7 @@ ogDescription: "Layered lamb and beef bobotie—bread soaked, walnuts swapped in
 focusKeyphrase: "Twisted Lamb Bobotie"
 date: 2025-09-27
 draft: false
-image: twisted-lamb-bobotie.png
+image: twisted-lamb-bobotie.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT75M

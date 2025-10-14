@@ -7,7 +7,7 @@ ogDescription: "Sweet potato slices soaked in butter-brown sugar glaze, topped w
 focusKeyphrase: "Candied Sweet Potatoes Pecan Twist"
 date: 2025-10-06
 draft: false
-image: candied-sweet-potatoes.png
+image: candied-sweet-potatoes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H

@@ -7,7 +7,7 @@ ogDescription: "Crisp tart shells, ricotta cream, juicy herb tomatoes. Watch cru
 focusKeyphrase: "Tomato Ricotta Tartlets"
 date: 2025-09-24
 draft: false
-image: tomato-ricotta-tartlets.png
+image: tomato-ricotta-tartlets.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT25M

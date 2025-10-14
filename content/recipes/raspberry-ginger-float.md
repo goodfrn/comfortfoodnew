@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Raspberry Ginger Float, a refreshing mix of raspberry so
 focusKeyphrase: "Raspberry Ginger Float"
 date: 2025-07-23
 draft: false
-image: raspberry-ginger-float.png
+image: raspberry-ginger-float.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

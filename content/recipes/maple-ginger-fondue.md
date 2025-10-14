@@ -7,7 +7,7 @@ ogDescription: "Velvety maple ginger fondue thickened with arrowroot, coconut cr
 focusKeyphrase: "maple ginger fondue"
 date: 2025-08-19
 draft: false
-image: maple-ginger-fondue.png
+image: maple-ginger-fondue.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

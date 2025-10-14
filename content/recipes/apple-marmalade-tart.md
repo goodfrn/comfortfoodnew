@@ -7,7 +7,7 @@ ogDescription: "Flaky apple tart with apricot jam, crunchy crust from cold butte
 focusKeyphrase: "Apple Marmalade Tart"
 date: 2025-09-10
 draft: false
-image: apple-marmalade-tart.png
+image: apple-marmalade-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT55M

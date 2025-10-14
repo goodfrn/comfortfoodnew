@@ -7,7 +7,7 @@ ogDescription: "Delight in Grilled Tomatillo Guacamole, featuring roasted tomati
 focusKeyphrase: "Grilled Tomatillo Guacamole"
 date: 2025-07-24
 draft: false
-image: grilled-tomatillo-guacamole.png
+image: grilled-tomatillo-guacamole.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT22M

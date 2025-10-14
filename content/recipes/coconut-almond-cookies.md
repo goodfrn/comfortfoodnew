@@ -7,7 +7,7 @@ ogDescription: "Deliciously crispy Coconut Almond Cookies. Made with almond flou
 focusKeyphrase: "Coconut Almond Cookies"
 date: 2025-07-16
 draft: false
-image: coconut-almond-cookies.png
+image: coconut-almond-cookies.jpg
 author: "Emma Kitchen"
 prepTime: PT12M
 cookTime: PT15M

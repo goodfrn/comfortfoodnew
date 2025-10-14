@@ -7,7 +7,7 @@ ogDescription: "Savor the Asparagus Pea Puff Tart. Fresh asparagus, peas, creamy
 focusKeyphrase: "Asparagus Pea Puff Tart"
 date: 2025-07-21
 draft: false
-image: asparagus-pea-puff-tart.png
+image: asparagus-pea-puff-tart.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT30M

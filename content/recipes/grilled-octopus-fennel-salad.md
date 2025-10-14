@@ -7,7 +7,7 @@ ogDescription: "Savor the Grilled Octopus Fennel Salad with smoky octopus, aspar
 focusKeyphrase: "Grilled Octopus Fennel Salad"
 date: 2025-07-20
 draft: false
-image: grilled-octopus-fennel-salad.png
+image: grilled-octopus-fennel-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

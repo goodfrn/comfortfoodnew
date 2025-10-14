@@ -7,7 +7,7 @@ ogDescription: "Crunchy Asian Slaw packed with toasted noodles, almonds, tangy v
 focusKeyphrase: "Toasted Crunchy Asian Slaw"
 date: 2025-10-06
 draft: false
-image: toasted-crunchy-slaw.png
+image: toasted-crunchy-slaw.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

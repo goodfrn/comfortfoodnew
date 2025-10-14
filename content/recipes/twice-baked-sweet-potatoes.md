@@ -7,7 +7,7 @@ ogDescription: "Sweet potatoes scooped and mashed with butter, cream cheese, cin
 focusKeyphrase: "twice baked sweet potatoes"
 date: 2025-10-04
 draft: false
-image: twice-baked-sweet-potatoes.png
+image: twice-baked-sweet-potatoes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H15M

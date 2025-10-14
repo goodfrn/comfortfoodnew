@@ -7,7 +7,7 @@ ogDescription: "Bake Dress-Up Doll Cookies and make fun doll shapes with colorfu
 focusKeyphrase: "Dress-Up Doll Cookies"
 date: 2025-07-17
 draft: false
-image: dress-up-doll-cookies.png
+image: dress-up-doll-cookies.jpg
 author: "Emma Kitchen"
 prepTime: PT42M
 cookTime: PT7M

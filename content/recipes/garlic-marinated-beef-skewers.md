@@ -7,7 +7,7 @@ ogDescription: "Beef cubes marinated in garlic, tamari, and smoked paprika. Gril
 focusKeyphrase: "Garlic marinated beef skewers"
 date: 2025-08-03
 draft: false
-image: garlic-marinated-beef-skewers.png
+image: garlic-marinated-beef-skewers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

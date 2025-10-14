@@ -7,7 +7,7 @@ ogDescription: "Chilled Almond Soup. A delicious blend of garlic and almonds, se
 focusKeyphrase: "Chilled Almond Soup"
 date: 2025-07-16
 draft: false
-image: chilled-almond-soup.png
+image: chilled-almond-soup.jpg
 author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT25M

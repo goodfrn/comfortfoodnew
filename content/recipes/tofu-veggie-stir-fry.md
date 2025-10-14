@@ -7,7 +7,7 @@ ogDescription: "Sear tofu in avocado oil. Stir-fry broccolini, parsnips, mushroo
 focusKeyphrase: "Tofu Veggie Stir-Fry"
 date: 2025-07-25
 draft: false
-image: tofu-veggie-stir-fry.png
+image: tofu-veggie-stir-fry.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

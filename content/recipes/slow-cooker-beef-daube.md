@@ -7,7 +7,7 @@ ogDescription: "Slow cooked beef chunks braised with parsnips, smoky chorizo, ka
 focusKeyphrase: "Slow Cooker Beef Daube Revival"
 date: 2025-08-04
 draft: false
-image: slow-cooker-beef-daube.png
+image: slow-cooker-beef-daube.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT7H

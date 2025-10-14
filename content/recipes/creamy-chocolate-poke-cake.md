@@ -7,7 +7,7 @@ ogDescription: "Dense butter cake punctured with vanilla-almond pudding, sealed 
 focusKeyphrase: "Creamy Chocolate Poke Cake"
 date: 2025-10-07
 draft: false
-image: creamy-chocolate-poke-cake.png
+image: creamy-chocolate-poke-cake.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT32M

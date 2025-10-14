@@ -7,7 +7,7 @@ ogDescription: "Yeasty rounds fried to crisp gold, filled gently with chilled cu
 focusKeyphrase: "Stuffed Sufganiyot"
 date: 2025-10-11
 draft: false
-image: stuffed-sufganiyot.png
+image: stuffed-sufganiyot.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

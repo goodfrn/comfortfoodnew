@@ -7,7 +7,7 @@ ogDescription: "Delicious Zesty Ricotta Veggie Tart with ricotta, orange zest, a
 focusKeyphrase: "Zesty Ricotta Veggie Tart"
 date: 2025-07-21
 draft: false
-image: zesty-ricotta-tart.png
+image: zesty-ricotta-tart.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT30M

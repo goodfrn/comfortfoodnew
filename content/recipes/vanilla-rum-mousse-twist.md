@@ -7,7 +7,7 @@ ogDescription: "Airy vanilla rum mousse with cardamom, agar agar set custard, wh
 focusKeyphrase: "Vanilla Rum Mousse Twist"
 date: 2025-09-24
 draft: false
-image: vanilla-rum-mousse-twist.png
+image: vanilla-rum-mousse-twist.jpg
 author: "Emma"
 prepTime: PT32M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy Creamy Potato Gratin. Layers of tender potatoes. Infused
 focusKeyphrase: "Crunchy Creamy Potato Gratin"
 date: 2025-07-20
 draft: false
-image: crunchy-cream-potato-gratin.png
+image: crunchy-cream-potato-gratin.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT2H40M

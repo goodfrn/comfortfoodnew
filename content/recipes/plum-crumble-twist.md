@@ -7,7 +7,7 @@ ogDescription: "Crunchy almond plum crumble with cardamom; arrowroot keeps juice
 focusKeyphrase: "plum crumble almond topping"
 date: 2025-09-29
 draft: false
-image: plum-crumble-twist.png
+image: plum-crumble-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

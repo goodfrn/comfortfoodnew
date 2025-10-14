@@ -7,7 +7,7 @@ ogDescription: "Crunchy oat topping with browned butter. Apples coated thick wit
 focusKeyphrase: "spiced apple crumble"
 date: 2025-10-07
 draft: false
-image: easy-spiced-apple-crumble.png
+image: easy-spiced-apple-crumble.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

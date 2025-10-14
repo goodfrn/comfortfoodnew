@@ -7,7 +7,7 @@ ogDescription: "Blister red and golden peppers until crackling; peel tight skins
 focusKeyphrase: "charred red pepper dip"
 date: 2025-08-19
 draft: false
-image: charred-red-pepper-dip.png
+image: charred-red-pepper-dip.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT55M

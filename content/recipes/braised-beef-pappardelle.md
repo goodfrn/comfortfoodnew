@@ -7,7 +7,7 @@ ogDescription: "Slow-braised brisket with roasted garlic and Madeira, pappardell
 focusKeyphrase: "braised beef brisket pappardelle"
 date: 2025-08-13
 draft: false
-image: braised-beef-pappardelle.png
+image: braised-beef-pappardelle.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT2H15M

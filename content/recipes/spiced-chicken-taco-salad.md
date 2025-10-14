@@ -7,7 +7,7 @@ ogDescription: "Grilled smoky chicken breast over shredded iceberg, crisp pepper
 focusKeyphrase: "spiced chicken taco salad"
 date: 2025-07-26
 draft: false
-image: spiced-chicken-taco-salad.png
+image: spiced-chicken-taco-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Layered s'mores cake with coarse cracker crumbs, coconut oil, si
 focusKeyphrase: "S'mores Cake Remix"
 date: 2025-09-30
 draft: false
-image: smores-cake-remix.png
+image: smores-cake-remix.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT45M

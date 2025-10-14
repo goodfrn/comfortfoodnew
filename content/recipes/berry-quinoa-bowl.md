@@ -7,7 +7,7 @@ ogDescription: "Start your morning right with a Berry Quinoa Bowl. Creamy yogurt
 focusKeyphrase: "Berry Quinoa Bowl recipe"
 date: 2025-07-24
 draft: false
-image: berry-quinoa-bowl.png
+image: berry-quinoa-bowl.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT0M

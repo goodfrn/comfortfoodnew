@@ -7,7 +7,7 @@ ogDescription: "Blackened chicken breasts with smoky paprika, spice crust, butte
 focusKeyphrase: "smoky blackened chicken"
 date: 2025-10-12
 draft: false
-image: smoky-blackened-chicken.png
+image: smoky-blackened-chicken.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT23M

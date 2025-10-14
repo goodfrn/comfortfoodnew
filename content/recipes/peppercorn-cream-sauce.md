@@ -7,7 +7,7 @@ ogDescription: "Butter melted; bouillon darkens pan. Whiskey stirs warmth. Peppe
 focusKeyphrase: "Peppercorn Cream Sauce"
 date: 2025-10-10
 draft: false
-image: peppercorn-cream-sauce.png
+image: peppercorn-cream-sauce.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT12M

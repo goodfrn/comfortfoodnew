@@ -7,7 +7,7 @@ ogDescription: "Toasted coconut and cardamom-infused white chocolate ganache tru
 focusKeyphrase: "Snowball Coconut Truffles"
 date: 2025-08-15
 draft: false
-image: snowball-coconut-truffles.png
+image: snowball-coconut-truffles.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT5M

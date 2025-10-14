@@ -7,7 +7,7 @@ ogDescription: "Icy lemon granita made creamy with coconut milk, topped with sho
 focusKeyphrase: "Lemon Granita Affogato"
 date: 2025-09-30
 draft: false
-image: lemon-granita-affogato.png
+image: lemon-granita-affogato.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT6M

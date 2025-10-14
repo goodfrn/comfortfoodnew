@@ -7,7 +7,7 @@ ogDescription: "Lightly spiced Indian red lentil soup with coconut milk, tamarin
 focusKeyphrase: "Indian red lentil soup"
 date: 2025-07-28
 draft: false
-image: indian-red-lentil-soup.png
+image: indian-red-lentil-soup.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT28M

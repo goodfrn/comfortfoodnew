@@ -7,7 +7,7 @@ ogDescription: "Small clams meet smoky pancetta, fennel crunch, juicy plums, bri
 focusKeyphrase: "Clams in white wine tomato fennel"
 date: 2025-08-08
 draft: false
-image: clams-in-white-wine.png
+image: clams-in-white-wine.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

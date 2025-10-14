@@ -7,7 +7,7 @@ ogDescription: "Bake these zoodle egg nests with zucchini, eggs, mozzarella, and
 focusKeyphrase: "zoodle egg nests"
 date: 2025-10-13
 draft: false
-image: zoodle-egg-nests.png
+image: zoodle-egg-nests.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

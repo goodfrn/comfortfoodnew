@@ -7,7 +7,7 @@ ogDescription: "Crunchy kohlrabi meets pear, figs, and Manchego. Bright lemon ju
 focusKeyphrase: "Kohlrabi Apple Salad Remix"
 date: 2025-08-09
 draft: false
-image: kohlrabi-apple-salad-remix.png
+image: kohlrabi-apple-salad-remix.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT0M

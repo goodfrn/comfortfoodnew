@@ -7,7 +7,7 @@ ogDescription: "Enjoy Oat Jam Muffin Crispies with raspberry jam in a crunchy, c
 focusKeyphrase: "Oat Jam Muffin Crispies"
 date: 2025-07-17
 draft: false
-image: oat-jam-muffin-crispies.png
+image: oat-jam-muffin-crispies.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT20M

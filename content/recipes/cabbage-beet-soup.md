@@ -7,7 +7,7 @@ ogDescription: "Slow caramelized onions, tangy vinegar, chunky beets and cabbage
 focusKeyphrase: "Cabbage Beet Soup"
 date: 2025-09-27
 draft: false
-image: cabbage-beet-soup.png
+image: cabbage-beet-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

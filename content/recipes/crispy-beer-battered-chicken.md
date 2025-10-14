@@ -7,7 +7,7 @@ ogDescription: "Enjoy Crunchy fried chicken with a unique beer batter. Dill pick
 focusKeyphrase: "beer-battered chicken"
 date: 2025-07-16
 draft: false
-image: crispy-beer-battered-chicken.png
+image: crispy-beer-battered-chicken.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT40M

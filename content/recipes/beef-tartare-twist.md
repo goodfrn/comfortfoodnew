@@ -7,7 +7,7 @@ ogDescription: "Discover the Beef Tartare Twist with chilled sirloin, roasted ma
 focusKeyphrase: "Beef Tartare"
 date: 2025-07-20
 draft: false
-image: beef-tartare-twist.png
+image: beef-tartare-twist.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT27M

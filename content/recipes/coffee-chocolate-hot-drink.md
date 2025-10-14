@@ -7,7 +7,7 @@ ogDescription: "Dark chocolate, espresso, creamy foam spiked with Irish cream. W
 focusKeyphrase: "Coffee Chocolate Hot Drink"
 date: 2025-09-23
 draft: false
-image: coffee-chocolate-hot-drink.png
+image: coffee-chocolate-hot-drink.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

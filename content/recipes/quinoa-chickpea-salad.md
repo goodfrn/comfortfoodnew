@@ -7,7 +7,7 @@ ogDescription: "Crunchy walnuts, smoky spiced chickpeas, fresh fennel, peppery a
 focusKeyphrase: "Quinoa Chickpea Almond Salad"
 date: 2025-08-02
 draft: false
-image: quinoa-chickpea-salad.png
+image: quinoa-chickpea-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

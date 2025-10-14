@@ -7,7 +7,7 @@ ogDescription: "Crisp edges, tender crumb, buttermilk tang. Pulse cold butter pr
 focusKeyphrase: "rustic spelt shortcakes"
 date: 2025-08-19
 draft: false
-image: quick-rustic-shortcakes.png
+image: quick-rustic-shortcakes.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

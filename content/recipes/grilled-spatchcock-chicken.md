@@ -7,7 +7,7 @@ ogDescription: "Spatchcock grilled chicken with cumin marinade and pesto mayo. C
 focusKeyphrase: "Grilled spatchcock chicken"
 date: 2025-09-25
 draft: false
-image: grilled-spatchcock-chicken.png
+image: grilled-spatchcock-chicken.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H20M

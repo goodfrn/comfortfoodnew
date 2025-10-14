@@ -7,7 +7,7 @@ ogDescription: "Crunchy edges crackled tops sugar sparkle chewy centers Cardamom
 focusKeyphrase: "Double Ginger Crunch Cookies"
 date: 2025-08-14
 draft: false
-image: double-ginger-crunch-cookies.png
+image: double-ginger-crunch-cookies.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT12M

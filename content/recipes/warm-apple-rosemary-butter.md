@@ -7,7 +7,7 @@ ogDescription: "Simmer apple cider with rosemary and butter for a cozy warm mock
 focusKeyphrase: "Warm Apple Rosemary Butter Mocktail"
 date: 2025-09-23
 draft: false
-image: warm-apple-rosemary-butter.png
+image: warm-apple-rosemary-butter.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT12M

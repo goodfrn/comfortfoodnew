@@ -7,7 +7,7 @@ ogDescription: "Try this Braised Beets with Citrus Twist recipe. Bold flavors fr
 focusKeyphrase: "Braised Beets with Citrus Twist"
 date: 2025-07-20
 draft: false
-image: braised-beets-citrus.png
+image: braised-beets-citrus.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT22M

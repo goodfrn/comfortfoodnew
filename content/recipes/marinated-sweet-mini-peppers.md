@@ -7,7 +7,7 @@ ogDescription: "Roast colorful mini sweet peppers, peel skins, marinate with app
 focusKeyphrase: "marinated sweet mini peppers"
 date: 2025-08-04
 draft: false
-image: marinated-sweet-mini-peppers.png
+image: marinated-sweet-mini-peppers.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Roasted squash stuffed with pancetta, red potatoes, Manchego, ca
 focusKeyphrase: "Stuffed Cheese Potato Squash"
 date: 2025-08-07
 draft: false
-image: stuffed-cheese-potato-squash.png
+image: stuffed-cheese-potato-squash.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT55M

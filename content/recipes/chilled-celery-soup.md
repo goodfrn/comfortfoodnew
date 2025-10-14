@@ -7,7 +7,7 @@ ogDescription: "Cold celery soup with subtle sweetness from parsnip, silky textu
 focusKeyphrase: "Chilled Celery Soup"
 date: 2025-08-14
 draft: false
-image: chilled-celery-soup.png
+image: chilled-celery-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

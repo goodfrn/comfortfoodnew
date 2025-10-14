@@ -7,7 +7,7 @@ ogDescription: "Cream cheese base whipped with lemon gelatin, folded peaches and
 focusKeyphrase: "Peach Fluff Remix"
 date: 2025-10-12
 draft: false
-image: peach-fluff-remix.png
+image: peach-fluff-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

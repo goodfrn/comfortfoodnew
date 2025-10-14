@@ -7,7 +7,7 @@ ogDescription: "Tender salmon cooked with garlic, lemon. Fluffy bulgur taboulé 
 focusKeyphrase: "Cold Salmon Taboulé Peas"
 date: 2025-07-26
 draft: false
-image: cold-salmon-taboule.png
+image: cold-salmon-taboule.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

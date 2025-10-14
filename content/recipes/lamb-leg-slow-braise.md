@@ -7,7 +7,7 @@ ogDescription: "Boneless lamb leg slow cooked with garlic, sherry, caramelized r
 focusKeyphrase: "Lamb Leg Slow Braise"
 date: 2025-07-29
 draft: false
-image: lamb-leg-slow-braise.png
+image: lamb-leg-slow-braise.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT6H40M

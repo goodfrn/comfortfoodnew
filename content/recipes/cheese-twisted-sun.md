@@ -7,7 +7,7 @@ ogDescription: "Flaky puff pastry wrapped around ricotta and cheddar, twisted 16
 focusKeyphrase: "Cheese Twisted Sun puff pastry"
 date: 2025-08-09
 draft: false
-image: cheese-twisted-sun.png
+image: cheese-twisted-sun.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT20M

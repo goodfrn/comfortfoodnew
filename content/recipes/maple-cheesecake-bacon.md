@@ -7,7 +7,7 @@ ogDescription: "Dense maple cheesecake with spiced gingersnap crust, sticky cand
 focusKeyphrase: "maple cheesecake candied bacon"
 date: 2025-10-12
 draft: false
-image: maple-cheesecake-bacon.png
+image: maple-cheesecake-bacon.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT75M

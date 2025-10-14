@@ -7,7 +7,7 @@ ogDescription: "Enjoy Strawberry White Chocolate Bites, a pastry treat bursting 
 focusKeyphrase: "Strawberry White Chocolate Bites"
 date: 2025-07-15
 draft: false
-image: strawberry-white-chocolate-bites.png
+image: strawberry-white-chocolate-bites.jpg
 author: "Emma Kitchen"
 prepTime: PT35M
 cookTime: PT30M

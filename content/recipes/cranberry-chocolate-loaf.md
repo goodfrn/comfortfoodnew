@@ -7,7 +7,7 @@ ogDescription: "Rustic loaf with cranberries, semi-sweet chocolate chunks. Cold 
 focusKeyphrase: "cranberry chocolate loaf"
 date: 2025-09-23
 draft: false
-image: cranberry-chocolate-loaf.png
+image: cranberry-chocolate-loaf.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Delicious Potato Topinambour Salad with crunchy pecans and a cit
 focusKeyphrase: "Potato Topinambour Salad"
 date: 2025-07-21
 draft: false
-image: potato-topinambour-salad.png
+image: potato-topinambour-salad.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT25M

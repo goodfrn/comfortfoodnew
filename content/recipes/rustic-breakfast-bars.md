@@ -7,7 +7,7 @@ ogDescription: "Rustic Breakfast Bars packed with oat clusters, tahini, and toas
 focusKeyphrase: "Rustic Breakfast Bars"
 date: 2025-08-03
 draft: false
-image: rustic-breakfast-bars.png
+image: rustic-breakfast-bars.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT24M

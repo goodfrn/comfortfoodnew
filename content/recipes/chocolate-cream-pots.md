@@ -7,7 +7,7 @@ ogDescription: "Dark chocolate custard with orange twist. Thickened with cornsta
 focusKeyphrase: "Chocolate Cream Pots with Orange"
 date: 2025-07-28
 draft: false
-image: chocolate-cream-pots.png
+image: chocolate-cream-pots.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

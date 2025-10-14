@@ -7,7 +7,7 @@ ogDescription: "Coarse, smoky dry rub with toasted cumin, cracked pepper, chipot
 focusKeyphrase: "smoky citrus dry rub"
 date: 2025-08-03
 draft: false
-image: smoky-citrus-dry-rub.png
+image: smoky-citrus-dry-rub.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Brown butter and bananas, sour cream tang, pecan crunch. Bake sl
 focusKeyphrase: "Brown Butter Banana Cake"
 date: 2025-09-15
 draft: false
-image: brown-butter-banana-cake.png
+image: brown-butter-banana-cake.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT55M

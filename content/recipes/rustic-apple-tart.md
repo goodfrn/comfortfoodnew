@@ -7,7 +7,7 @@ ogDescription: "Crisp crust, fragrant cardamom-ginger apples bubble bubbling in 
 focusKeyphrase: "Rustic Apple Tart"
 date: 2025-08-16
 draft: false
-image: rustic-apple-tart.png
+image: rustic-apple-tart.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

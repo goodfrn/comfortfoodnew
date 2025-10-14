@@ -7,7 +7,7 @@ ogDescription: "Crunchy ciabatta cubes, turkey bacon lardons, tofu mayo dressing
 focusKeyphrase: "Light Caesar Salad Twist"
 date: 2025-08-05
 draft: false
-image: light-caesar-salad-twist.png
+image: light-caesar-salad-twist.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

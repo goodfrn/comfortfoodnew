@@ -7,7 +7,7 @@ ogDescription: "Savor Pork Medallions with Tangerine Glaze. Quick meal, impressi
 focusKeyphrase: "Pork Medallions Tangerine Glaze"
 date: 2025-07-24
 draft: false
-image: pork-medallions-tangerine-glaze.png
+image: pork-medallions-tangerine-glaze.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

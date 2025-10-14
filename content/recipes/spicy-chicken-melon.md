@@ -7,7 +7,7 @@ ogDescription: "Bold chicken meets fresh cantaloupe cubes, zesty lime, and smoky
 focusKeyphrase: "Spicy chicken with melon and chorizo"
 date: 2025-08-05
 draft: false
-image: spicy-chicken-melon.png
+image: spicy-chicken-melon.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Thin blood orange slices simmered in syrup till translucent, air
 focusKeyphrase: "candied blood oranges"
 date: 2025-09-26
 draft: false
-image: candied-blood-oranges.png
+image: candied-blood-oranges.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT45M

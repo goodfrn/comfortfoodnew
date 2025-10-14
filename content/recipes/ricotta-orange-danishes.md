@@ -7,7 +7,7 @@ ogDescription: "Enjoy Ricotta Orange Danishes—flaky pastry, creamy filling, le
 focusKeyphrase: "Ricotta Orange Danishes"
 date: 2025-07-21
 draft: false
-image: ricotta-orange-danishes.png
+image: ricotta-orange-danishes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

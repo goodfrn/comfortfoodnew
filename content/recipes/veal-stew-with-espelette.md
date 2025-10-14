@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked veal cubes, sweat onions and peppers, Espelette or s
 focusKeyphrase: "veal stew with Espelette chili"
 date: 2025-08-28
 draft: false
-image: veal-stew-with-espelette.png
+image: veal-stew-with-espelette.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H5M

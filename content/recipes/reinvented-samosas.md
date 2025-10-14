@@ -7,7 +7,7 @@ ogDescription: "Crispy samosas without frying. Sweet potato, eggplant filling fo
 focusKeyphrase: "Reinvented samosas without frying"
 date: 2025-08-18
 draft: false
-image: reinvented-samosas.png
+image: reinvented-samosas.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT35M

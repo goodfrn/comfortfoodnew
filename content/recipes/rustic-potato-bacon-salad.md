@@ -7,7 +7,7 @@ ogDescription: "Warm potato salad with crispy pancetta, tangy cider vinegar, gra
 focusKeyphrase: "Rustic Potato Bacon Salad"
 date: 2025-08-04
 draft: false
-image: rustic-potato-bacon-salad.png
+image: rustic-potato-bacon-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

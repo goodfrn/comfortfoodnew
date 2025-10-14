@@ -7,7 +7,7 @@ ogDescription: "Vibrant red pepper and habanero sauce sweetened with honey and b
 focusKeyphrase: "Tangy Sweet Pepper Sauce"
 date: 2025-08-19
 draft: false
-image: tangy-sweet-pepper-sauce.png
+image: tangy-sweet-pepper-sauce.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Rustic French-Italian stew. Sausage, escargots, mushrooms simmer
 focusKeyphrase: "Spicy Sausage Escargots"
 date: 2025-07-25
 draft: false
-image: spicy-sausage-escargots.png
+image: spicy-sausage-escargots.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

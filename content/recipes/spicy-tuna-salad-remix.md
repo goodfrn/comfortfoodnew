@@ -7,7 +7,7 @@ ogDescription: "Creamy tuna lumps meet tangy Dijon and crunchy cucumber with lem
 focusKeyphrase: "Spicy tuna salad"
 date: 2025-10-11
 draft: false
-image: spicy-tuna-salad-remix.png
+image: spicy-tuna-salad-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

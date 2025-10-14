@@ -7,7 +7,7 @@ ogDescription: "Browned chicken, shiitake mushrooms, cherry tomatoes, and pepper
 focusKeyphrase: "Rocket Chicken Spätzle"
 date: 2025-08-20
 draft: false
-image: rocket-chicken-spatzle.png
+image: rocket-chicken-spatzle.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

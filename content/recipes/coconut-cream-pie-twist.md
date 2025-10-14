@@ -7,7 +7,7 @@ ogDescription: "Toasted coconut crunch meets thickened coconut custard and whipp
 focusKeyphrase: "coconut cream pie"
 date: 2025-10-05
 draft: false
-image: coconut-cream-pie-twist.png
+image: coconut-cream-pie-twist.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

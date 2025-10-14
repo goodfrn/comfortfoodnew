@@ -7,7 +7,7 @@ ogDescription: "Browned beef meets creamy mushroom sauce, thawed hash browns, an
 focusKeyphrase: "beef hash brown bake"
 date: 2025-10-12
 draft: false
-image: beef-hash-brown-bake.png
+image: beef-hash-brown-bake.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

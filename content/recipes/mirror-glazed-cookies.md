@@ -7,7 +7,7 @@ ogDescription: "Crisp lime cookies, glossy aquafaba glaze with turmeric hue. Wat
 focusKeyphrase: "Mirror-Glazed Cookies"
 date: 2025-08-20
 draft: false
-image: mirror-glazed-cookies.png
+image: mirror-glazed-cookies.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

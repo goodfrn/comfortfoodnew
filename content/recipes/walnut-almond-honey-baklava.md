@@ -7,7 +7,7 @@ ogDescription: "Crunchy phyllo layers cradling toasted walnuts and almonds, driz
 focusKeyphrase: "Walnut Almond Honey Baklava"
 date: 2025-09-14
 draft: false
-image: walnut-almond-honey-baklava.png
+image: walnut-almond-honey-baklava.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H5M

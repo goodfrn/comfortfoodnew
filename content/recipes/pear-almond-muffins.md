@@ -7,7 +7,7 @@ ogDescription: "Moist pear almond muffins, sweetened with maple syrup and spiced
 focusKeyphrase: "pear almond muffins"
 date: 2025-09-30
 draft: false
-image: pear-almond-muffins.png
+image: pear-almond-muffins.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT28M

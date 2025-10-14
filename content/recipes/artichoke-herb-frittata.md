@@ -7,7 +7,7 @@ ogDescription: "Tender artichokes cooked in wine and broth combined with eggs, g
 focusKeyphrase: "Artichoke Herb Frittata"
 date: 2025-07-30
 draft: false
-image: artichoke-herb-frittata.png
+image: artichoke-herb-frittata.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

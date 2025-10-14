@@ -7,7 +7,7 @@ ogDescription: "Chilled red wine meets spiced tequila and cranberry juice. Cinna
 focusKeyphrase: "Twisted Red Sangria"
 date: 2025-08-05
 draft: false
-image: twisted-red-sangria.png
+image: twisted-red-sangria.jpg
 author: "Emma"
 prepTime: PT8M
 cookTime: PT0M

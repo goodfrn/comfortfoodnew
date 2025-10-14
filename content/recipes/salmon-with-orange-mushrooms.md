@@ -7,7 +7,7 @@ ogDescription: "Roast salmon with a vibrant mushroom medley. A quick and healthy
 focusKeyphrase: "Salmon with Orange Mushrooms"
 date: 2025-07-19
 draft: false
-image: salmon-with-orange-mushrooms.png
+image: salmon-with-orange-mushrooms.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

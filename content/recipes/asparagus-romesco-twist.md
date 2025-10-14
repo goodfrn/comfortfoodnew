@@ -7,7 +7,7 @@ ogDescription: "Romesco sauce with peeled roasted peppers, hazelnuts, toasted qu
 focusKeyphrase: "Asparagus Romesco"
 date: 2025-08-02
 draft: false
-image: asparagus-romesco-twist.png
+image: asparagus-romesco-twist.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Chocolate Blueberry Pudding Cake layered with cocoa, blueberries
 focusKeyphrase: "Chocolate Blueberry Pudding Cake"
 date: 2025-07-24
 draft: false
-image: chocolate-blueberry-cake.png
+image: chocolate-blueberry-cake.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT55M

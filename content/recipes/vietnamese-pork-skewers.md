@@ -7,7 +7,7 @@ ogDescription: "Charred pork skewers infused with tangy lime, tamari instead of 
 focusKeyphrase: "Vietnamese Pork Skewers"
 date: 2025-08-13
 draft: false
-image: vietnamese-pork-skewers.png
+image: vietnamese-pork-skewers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT17M

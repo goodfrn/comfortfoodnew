@@ -7,7 +7,7 @@ ogDescription: "Pear and Date Muffins with cream cheese filling. Delightful blen
 focusKeyphrase: "Pear and Date Muffins"
 date: 2025-07-15
 draft: false
-image: pear-and-date-muffins.png
+image: pear-and-date-muffins.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT30M

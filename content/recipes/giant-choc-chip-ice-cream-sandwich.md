@@ -7,7 +7,7 @@ ogDescription: "Dense choc chip cookies hold soft vanilla and mint chip ice crea
 focusKeyphrase: "Giant Choc Chip Ice Cream Sandwich"
 date: 2025-08-10
 draft: false
-image: giant-choc-chip-ice-cream-sandwich.png
+image: giant-choc-chip-ice-cream-sandwich.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT30M

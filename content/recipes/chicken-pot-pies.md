@@ -7,7 +7,7 @@ ogDescription: "Small individual chicken pies baked crisp in puff pastry. Creamy
 focusKeyphrase: "Chicken Pot Pies in Ramekins"
 date: 2025-08-14
 draft: false
-image: chicken-pot-pies.png
+image: chicken-pot-pies.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT40M

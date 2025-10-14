@@ -7,7 +7,7 @@ ogDescription: "Crisp asparagus, tender fingerling potatoes, smoky trout, sharp 
 focusKeyphrase: "Potato Asparagus Smoked Trout Salad"
 date: 2025-08-18
 draft: false
-image: potato-asparagus-smoked-trout.png
+image: potato-asparagus-smoked-trout.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

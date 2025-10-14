@@ -7,7 +7,7 @@ ogDescription: "Indulge in Caramel Banana French Toast with soft brioche, warmed
 focusKeyphrase: "Caramel Banana French Toast"
 date: 2025-07-18
 draft: false
-image: caramel-banana-french-toast.png
+image: caramel-banana-french-toast.jpg
 author: "Emma"
 prepTime: PT27M
 cookTime: PT33M

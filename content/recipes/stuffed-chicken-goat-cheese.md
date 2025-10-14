@@ -7,7 +7,7 @@ ogDescription: "Indulge in Stuffed Chicken with Goat Cheese & Red Cabbage. A ble
 focusKeyphrase: "Stuffed Chicken with Goat Cheese"
 date: 2025-07-17
 draft: false
-image: stuffed-chicken-goat-cheese.png
+image: stuffed-chicken-goat-cheese.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT1H10M

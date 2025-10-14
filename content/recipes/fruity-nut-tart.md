@@ -7,7 +7,7 @@ ogDescription: "Crunchy nuts toasted just right, marzipan blended with fruit, br
 focusKeyphrase: "fruity nut tart"
 date: 2025-09-26
 draft: false
-image: fruity-nut-tart.png
+image: fruity-nut-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT38M

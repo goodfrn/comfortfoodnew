@@ -7,7 +7,7 @@ ogDescription: "Enjoy the Citrus Aperol Twist cocktail. A refreshing blend of Ap
 focusKeyphrase: "Citrus Aperol Twist recipe"
 date: 2025-07-20
 draft: false
-image: citrus-aperol-twist.png
+image: citrus-aperol-twist.jpg
 author: "Emma"
 prepTime: PT4M
 cookTime: PT5M

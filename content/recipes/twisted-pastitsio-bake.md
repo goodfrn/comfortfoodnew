@@ -7,7 +7,7 @@ ogDescription: "Enjoy Twisted Pastitsio Bake, a comforting Mediterranean meal. L
 focusKeyphrase: "Twisted Pastitsio Bake"
 date: 2025-07-20
 draft: false
-image: twisted-pastitsio-bake.png
+image: twisted-pastitsio-bake.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT1H40M

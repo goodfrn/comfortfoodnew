@@ -7,7 +7,7 @@ ogDescription: "Juicy sous vide pork loin at 66 °C, honey instead of maple, tam
 focusKeyphrase: "sous vide pork loin"
 date: 2025-09-12
 draft: false
-image: sous-vide-maple-pork.png
+image: sous-vide-maple-pork.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT4H15M

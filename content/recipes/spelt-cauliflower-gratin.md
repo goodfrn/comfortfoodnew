@@ -7,7 +7,7 @@ ogDescription: "Chewy spelt, just-tender cauliflower, creamy béchamel spiked wi
 focusKeyphrase: "spelt cauliflower gratin"
 date: 2025-08-12
 draft: false
-image: spelt-cauliflower-gratin.png
+image: spelt-cauliflower-gratin.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT50M

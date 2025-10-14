@@ -7,7 +7,7 @@ ogDescription: "Rich shrimp curry swapping zucchini with firm eggplant. Mint and
 focusKeyphrase: "Spicy Shrimp Curry"
 date: 2025-08-15
 draft: false
-image: spicy-shrimp-curry.png
+image: spicy-shrimp-curry.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Smoky spiced pork chili topped with folded cheddar tortillas. Cr
 focusKeyphrase: "Spiced Pork Chili Pot Pie"
 date: 2025-07-26
 draft: false
-image: spiced-pork-chili-pie.png
+image: spiced-pork-chili-pie.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT43M

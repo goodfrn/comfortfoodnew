@@ -7,7 +7,7 @@ ogDescription: "Slow simmered rice with honey and lemon zest, folded butter and 
 focusKeyphrase: "Creamy Citrus Rice Pudding"
 date: 2025-10-03
 draft: false
-image: creamy-citrus-rice-pudding.png
+image: creamy-citrus-rice-pudding.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT28M

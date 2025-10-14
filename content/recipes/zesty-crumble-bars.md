@@ -7,7 +7,7 @@ ogDescription: "Crunchy oat-cake crust, tart lemon custard layering, crumbly top
 focusKeyphrase: "zesty crumble bars"
 date: 2025-10-12
 draft: false
-image: zesty-crumble-bars.png
+image: zesty-crumble-bars.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

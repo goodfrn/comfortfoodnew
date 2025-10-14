@@ -7,7 +7,7 @@ ogDescription: "Flaky tart crusts filled with smoky turkey, tender endives, gruy
 focusKeyphrase: "Endive Ham Mini Quiches"
 date: 2025-08-02
 draft: false
-image: endive-ham-mini-quiches.png
+image: endive-ham-mini-quiches.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT30M

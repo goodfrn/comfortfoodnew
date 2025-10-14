@@ -7,7 +7,7 @@ ogDescription: "Three Cheese Puffs. Cheesy, crispy, and awesome for parties. Cre
 focusKeyphrase: "Three Cheese Puffs"
 date: 2025-07-15
 draft: false
-image: three-cheese-puffs.png
+image: three-cheese-puffs.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT30M

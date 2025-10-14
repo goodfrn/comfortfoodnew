@@ -7,7 +7,7 @@ ogDescription: "Crunchy cabbage layers with tangy yuzu dressing. Salt draws mois
 focusKeyphrase: "crunchy cabbage salad"
 date: 2025-08-16
 draft: false
-image: crunchy-cabbage-salad.png
+image: crunchy-cabbage-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT0M

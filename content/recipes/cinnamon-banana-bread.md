@@ -7,7 +7,7 @@ ogDescription: "Swirled cinnamon sugar and buttery streusel top this banana brea
 focusKeyphrase: "cinnamon banana bread twist"
 date: 2025-10-07
 draft: false
-image: cinnamon-banana-bread.png
+image: cinnamon-banana-bread.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT55M

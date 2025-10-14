@@ -7,7 +7,7 @@ ogDescription: "Apple Caramel Cookies packed with chewy oat flour, browned butte
 focusKeyphrase: "Apple Caramel Cookies"
 date: 2025-08-15
 draft: false
-image: apple-caramel-cookies.png
+image: apple-caramel-cookies.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT45M

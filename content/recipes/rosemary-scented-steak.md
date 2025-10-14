@@ -7,7 +7,7 @@ ogDescription: "Discover Rosemary Scented Steak – a flavorful fusion of herbs 
 focusKeyphrase: "Rosemary Scented Steak"
 date: 2025-07-19
 draft: false
-image: rosemary-scented-steak.png
+image: rosemary-scented-steak.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT16M

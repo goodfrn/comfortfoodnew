@@ -7,7 +7,7 @@ ogDescription: "Bold sausage balls with smoked paprika replacing Italian seasoni
 focusKeyphrase: "smoky sausage balls"
 date: 2025-10-04
 draft: false
-image: twisted-sausage-balls.png
+image: twisted-sausage-balls.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT22M

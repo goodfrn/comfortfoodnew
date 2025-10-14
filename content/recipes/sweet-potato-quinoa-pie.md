@@ -7,7 +7,7 @@ ogDescription: "Hearty sweet potato and quinoa base; carrot-leek sauté; broccol
 focusKeyphrase: "Sweet Potato Quinoa Pie"
 date: 2025-08-13
 draft: false
-image: sweet-potato-quinoa-pie.png
+image: sweet-potato-quinoa-pie.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

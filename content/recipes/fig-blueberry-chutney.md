@@ -7,7 +7,7 @@ ogDescription: "Slow-simmered chutney melding apricots, blueberries, shallots, a
 focusKeyphrase: "Fig Blueberry Chutney"
 date: 2025-09-25
 draft: false
-image: fig-blueberry-chutney.png
+image: fig-blueberry-chutney.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

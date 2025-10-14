@@ -7,7 +7,7 @@ ogDescription: "Stale croissants meet pistachio paste and lemon-maple glaze. Gol
 focusKeyphrase: "Pistachio Maple Croissants"
 date: 2025-08-09
 draft: false
-image: pistachio-maple-croissants.png
+image: pistachio-maple-croissants.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

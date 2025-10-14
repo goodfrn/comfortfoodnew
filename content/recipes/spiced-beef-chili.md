@@ -7,7 +7,7 @@ ogDescription: "Robust Tex-Mex chili with smoky punch, coffee earthy note, and t
 focusKeyphrase: "spiced beef chili"
 date: 2025-08-10
 draft: false
-image: spiced-beef-chili.png
+image: spiced-beef-chili.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H10M

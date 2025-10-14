@@ -7,7 +7,7 @@ ogDescription: "Fold airy cream gently into melted chocolate. Freeze firm. Dip f
 focusKeyphrase: "Frozen Chocolate Bites"
 date: 2025-08-18
 draft: false
-image: frozen-chocolate-bites.png
+image: frozen-chocolate-bites.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

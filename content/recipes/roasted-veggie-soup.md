@@ -7,7 +7,7 @@ ogDescription: "Roasted Veggie Soup Twist offers hearty flavors, simple ingredie
 focusKeyphrase: "Roasted Veggie Soup"
 date: 2025-07-18
 draft: false
-image: roasted-veggie-soup.png
+image: roasted-veggie-soup.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT30M

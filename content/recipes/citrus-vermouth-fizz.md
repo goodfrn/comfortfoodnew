@@ -7,7 +7,7 @@ ogDescription: "Chilly Citrus Vermouth Fizz. 3 parts white vermouth, tonic water
 focusKeyphrase: "Citrus Vermouth Fizz"
 date: 2025-07-27
 draft: false
-image: citrus-vermouth-fizz.png
+image: citrus-vermouth-fizz.jpg
 author: "Emma"
 prepTime: PT4M
 cookTime: PT0M

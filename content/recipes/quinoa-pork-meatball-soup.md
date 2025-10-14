@@ -7,7 +7,7 @@ ogDescription: "Hearty quinoa pork meatball soup with spiced glaze, ginger broth
 focusKeyphrase: "quinoa pork meatball soup"
 date: 2025-09-29
 draft: false
-image: quinoa-pork-meatball-soup.png
+image: quinoa-pork-meatball-soup.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

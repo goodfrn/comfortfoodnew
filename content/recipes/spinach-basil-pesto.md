@@ -7,7 +7,7 @@ ogDescription: "Chunky spinach basil pesto with nutty pumpkin seeds, parmesan, o
 focusKeyphrase: "spinach basil pesto"
 date: 2025-08-28
 draft: false
-image: spinach-basil-pesto.png
+image: spinach-basil-pesto.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT5M

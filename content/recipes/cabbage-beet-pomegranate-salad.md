@@ -7,7 +7,7 @@ ogDescription: "Crunchy cabbage, lime-soaked golden beet, zingy ginger-lime dres
 focusKeyphrase: "cabbage beet pomegranate salad"
 date: 2025-09-29
 draft: false
-image: cabbage-beet-pomegranate-salad.png
+image: cabbage-beet-pomegranate-salad.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT0M

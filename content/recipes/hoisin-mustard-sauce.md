@@ -7,7 +7,7 @@ ogDescription: "Mix hoisin, grainy mustard, avocado oil slow. Maple syrup adds e
 focusKeyphrase: "Hoisin Mustard Sauce Remix"
 date: 2025-08-04
 draft: false
-image: hoisin-mustard-sauce.png
+image: hoisin-mustard-sauce.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

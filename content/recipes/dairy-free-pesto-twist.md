@@ -7,7 +7,7 @@ ogDescription: "Roasted cashews meet fresh basil and lemon juice. Nutritional ye
 focusKeyphrase: "dairy-free pesto"
 date: 2025-08-28
 draft: false
-image: dairy-free-pesto-twist.png
+image: dairy-free-pesto-twist.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT0M

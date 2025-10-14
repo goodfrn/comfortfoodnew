@@ -7,7 +7,7 @@ ogDescription: "Experience Lobster Croque-Monsieur Twist A delectable blend of c
 focusKeyphrase: "Lobster Croque-Monsieur"
 date: 2025-07-18
 draft: false
-image: lobster-croque-monsieur.png
+image: lobster-croque-monsieur.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT22M

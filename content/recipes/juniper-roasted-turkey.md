@@ -7,7 +7,7 @@ ogDescription: "Halved turkey dry-brined with juniper and coriander, butter tuck
 focusKeyphrase: "Juniper Roasted Turkey"
 date: 2025-08-03
 draft: false
-image: juniper-roasted-turkey.png
+image: juniper-roasted-turkey.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT1H20M

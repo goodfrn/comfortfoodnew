@@ -7,7 +7,7 @@ ogDescription: "Southern chicken bog with shredded meat, browned sausage, and ri
 focusKeyphrase: "Hearty Chicken Bog"
 date: 2025-10-12
 draft: false
-image: hearty-chicken-bog.png
+image: hearty-chicken-bog.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H25M

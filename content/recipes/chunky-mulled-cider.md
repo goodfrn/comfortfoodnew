@@ -7,7 +7,7 @@ ogDescription: "Warm cider with bruised spices, fennel seed licorice hit, simmer
 focusKeyphrase: "Chunky Mulled Apple Cider"
 date: 2025-10-12
 draft: false
-image: chunky-mulled-cider.png
+image: chunky-mulled-cider.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "French-style pork leg smoked slow with paprika, cumin dry rub, b
 focusKeyphrase: "Dry-Rubbed Porc Méchoui"
 date: 2025-08-09
 draft: false
-image: dry-rubbed-pork-mechoui.png
+image: dry-rubbed-pork-mechoui.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT8H30M

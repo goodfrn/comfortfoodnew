@@ -7,7 +7,7 @@ ogDescription: "Air whipped eggs, trimmed layers, red cocoa frosting. Baking cue
 focusKeyphrase: "Rainbow Layer Cake"
 date: 2025-09-27
 draft: false
-image: rainbow-layer-cake.png
+image: rainbow-layer-cake.jpg
 author: "Emma"
 prepTime: PT1H20M
 cookTime: PT55M

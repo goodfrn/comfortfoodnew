@@ -7,7 +7,7 @@ ogDescription: "Bold spicy pork tteokbokki with crunchy peppers, chewy rice cake
 focusKeyphrase: "Spicy Pork Rice Cakes"
 date: 2025-09-28
 draft: false
-image: spicy-pork-rice-cakes.png
+image: spicy-pork-rice-cakes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT22M

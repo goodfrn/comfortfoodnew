@@ -7,7 +7,7 @@ ogDescription: "Lamb cubes grilled with granny smith apples. Honey-mustard glaze
 focusKeyphrase: "honey-mustard lamb skewers"
 date: 2025-08-13
 draft: false
-image: honey-mustard-lamb-skewers.png
+image: honey-mustard-lamb-skewers.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT22M

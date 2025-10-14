@@ -7,7 +7,7 @@ ogDescription: "Three steamed egg fillings: smoked salmon cream, wasabi-mayo cru
 focusKeyphrase: "Holiday Deviled Eggs Trio"
 date: 2025-08-19
 draft: false
-image: holiday-deviled-eggs-trio.png
+image: holiday-deviled-eggs-trio.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

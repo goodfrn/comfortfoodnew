@@ -7,7 +7,7 @@ ogDescription: "Try these Goat Cheese Beet Crackers topped with creamy cheese, s
 focusKeyphrase: "Goat Cheese Beet Crackers"
 date: 2025-07-16
 draft: false
-image: goat-cheese-beet-crackers.png
+image: goat-cheese-beet-crackers.jpg
 author: "Emma Kitchen"
 prepTime: PT16M
 cookTime: PT2M

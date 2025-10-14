@@ -7,7 +7,7 @@ ogDescription: "Indulge in a hearty Tagliatelle with Pork Shanks. Tender pork, v
 focusKeyphrase: "Tagliatelle with Pork Shanks"
 date: 2025-07-20
 draft: false
-image: tagliatelle-with-pork-shanks.png
+image: tagliatelle-with-pork-shanks.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

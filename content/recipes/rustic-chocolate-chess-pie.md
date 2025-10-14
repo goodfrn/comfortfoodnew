@@ -7,7 +7,7 @@ ogDescription: "Deep chocolate custard pie with a subtle tang from buttermilk. W
 focusKeyphrase: "Rustic Chocolate Chess Pie"
 date: 2025-10-11
 draft: false
-image: rustic-chocolate-chess-pie.png
+image: rustic-chocolate-chess-pie.jpg
 author: "Emma"
 prepTime: PT16M
 cookTime: PT50M

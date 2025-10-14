@@ -7,7 +7,7 @@ ogDescription: "Roast chicken breasts on a sheet pan with lemon-honey mustard gl
 focusKeyphrase: "citrus chicken sheet pan"
 date: 2025-10-11
 draft: false
-image: sheet-pan-citrus-chicken.png
+image: sheet-pan-citrus-chicken.jpg
 author: "Emma"
 prepTime: PT14M
 cookTime: PT27M

@@ -7,7 +7,7 @@ ogDescription: "Chunky, rustic Tomato White Bean Soup with smoked paprika warmth
 focusKeyphrase: "Tomato White Bean Soup"
 date: 2025-08-02
 draft: false
-image: tomato-white-bean-soup.png
+image: tomato-white-bean-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

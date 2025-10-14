@@ -7,7 +7,7 @@ ogDescription: "Crunchy tofu cubes coated in sticky hoisin glaze, sprinkled pean
 focusKeyphrase: "Sticky Tofu Bites"
 date: 2025-08-04
 draft: false
-image: sticky-tofu-bites.png
+image: sticky-tofu-bites.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

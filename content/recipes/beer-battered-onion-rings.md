@@ -7,7 +7,7 @@ ogDescription: "Crispy beer battered onion rings using pale ale and split flour.
 focusKeyphrase: "beer battered onion rings"
 date: 2025-09-29
 draft: false
-image: beer-battered-onion-rings.png
+image: beer-battered-onion-rings.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Crispy curried tofu meets tangy red cabbage slaw and creamy avoc
 focusKeyphrase: "curried tofu avocado wraps"
 date: 2025-08-04
 draft: false
-image: curried-tofu-avocado-wraps.png
+image: curried-tofu-avocado-wraps.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

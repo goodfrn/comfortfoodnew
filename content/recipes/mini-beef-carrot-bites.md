@@ -7,7 +7,7 @@ ogDescription: "Enjoy Mini Beef Carrot Bites with unique flavors of parsnip and 
 focusKeyphrase: "Mini Beef Carrot Bites"
 date: 2025-07-20
 draft: false
-image: mini-beef-carrot-bites.png
+image: mini-beef-carrot-bites.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

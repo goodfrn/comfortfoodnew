@@ -7,7 +7,7 @@ ogDescription: "Steamed broccoli and cauliflower pureed creamy with bright green
 focusKeyphrase: "baby broccoli purée"
 date: 2025-09-26
 draft: false
-image: baby-broccoli-puree.png
+image: baby-broccoli-puree.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT9M

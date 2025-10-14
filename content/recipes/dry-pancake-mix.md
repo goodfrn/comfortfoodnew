@@ -7,7 +7,7 @@ ogDescription: "Whisk dry mix well, cinnamon scent bright. Store airtight, no fr
 focusKeyphrase: "dry pancake mix"
 date: 2025-10-12
 draft: false
-image: dry-pancake-mix.png
+image: dry-pancake-mix.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT4M

@@ -7,7 +7,7 @@ ogDescription: "Bourbon meets apple vermouth and fiery ginger beer. Shake crushe
 focusKeyphrase: "Whisky Ginger Fizz"
 date: 2025-09-29
 draft: false
-image: whisky-ginger-fizz.png
+image: whisky-ginger-fizz.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

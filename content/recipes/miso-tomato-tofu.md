@@ -7,7 +7,7 @@ ogDescription: "Firm tofu cubes simmered in tangy miso-tomato sauce with snap pe
 focusKeyphrase: "Miso Tomato Tofu"
 date: 2025-08-04
 draft: false
-image: miso-tomato-tofu.png
+image: miso-tomato-tofu.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

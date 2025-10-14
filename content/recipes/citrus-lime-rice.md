@@ -7,7 +7,7 @@ ogDescription: "Zesty basmati rice toasted in light oil; maple syrup, citrus zes
 focusKeyphrase: "Citrus Lime Rice"
 date: 2025-08-08
 draft: false
-image: citrus-lime-rice.png
+image: citrus-lime-rice.jpg
 author: "Emma"
 prepTime: PT8M
 cookTime: PT27M

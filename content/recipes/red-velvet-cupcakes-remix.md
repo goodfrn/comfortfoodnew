@@ -7,7 +7,7 @@ ogDescription: "Red Velvet Cupcakes Remix. Beet powder color. Apple cider vinega
 focusKeyphrase: "Red Velvet Cupcakes"
 date: 2025-07-27
 draft: false
-image: red-velvet-cupcakes-remix.png
+image: red-velvet-cupcakes-remix.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT20M

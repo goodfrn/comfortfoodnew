@@ -7,7 +7,7 @@ ogDescription: "Smoky mezcal meets elderflower's floral pop and sparkling apple 
 focusKeyphrase: "Twisted Coney Island Tea"
 date: 2025-08-12
 draft: false
-image: twisted-coney-island-tea.png
+image: twisted-coney-island-tea.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT1M

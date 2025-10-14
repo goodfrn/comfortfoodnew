@@ -7,7 +7,7 @@ ogDescription: "Charred yellow and red pepper soup paired on plate. Creamy from 
 focusKeyphrase: "Two-Tone Pepper Soup"
 date: 2025-08-09
 draft: false
-image: two-tone-pepper-soup.png
+image: two-tone-pepper-soup.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

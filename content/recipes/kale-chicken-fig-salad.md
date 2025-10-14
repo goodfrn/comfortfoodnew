@@ -7,7 +7,7 @@ ogDescription: "Seared chicken hit with fennel, chili flakes, layered into kale,
 focusKeyphrase: "Kale Chicken Fig Salad"
 date: 2025-08-07
 draft: false
-image: kale-chicken-fig-salad.png
+image: kale-chicken-fig-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

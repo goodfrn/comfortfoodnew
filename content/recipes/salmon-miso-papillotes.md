@@ -7,7 +7,7 @@ ogDescription: "Grill salmon with miso glaze, asparagus, potatoes wrapped in foi
 focusKeyphrase: "Salmon Miso Papillotes"
 date: 2025-08-16
 draft: false
-image: salmon-miso-papillotes.png
+image: salmon-miso-papillotes.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

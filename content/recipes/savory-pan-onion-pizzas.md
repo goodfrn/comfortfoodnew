@@ -7,7 +7,7 @@ ogDescription: "Caramelized onions with nutmeg and white pepper layered on small
 focusKeyphrase: "pan onion pizzas"
 date: 2025-08-06
 draft: false
-image: savory-pan-onion-pizzas.png
+image: savory-pan-onion-pizzas.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT40M

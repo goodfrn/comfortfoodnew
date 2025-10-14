@@ -7,7 +7,7 @@ ogDescription: "Enjoy a chilled vegan Orange-Vanilla Citrus Swirl smoothie that'
 focusKeyphrase: "Orange-Vanilla Citrus Swirl"
 date: 2025-07-21
 draft: false
-image: orange-vanilla-citrus-swirl.png
+image: orange-vanilla-citrus-swirl.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT5M

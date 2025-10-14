@@ -7,7 +7,7 @@ ogDescription: "Sizzle of apple chunks meets crisp golden batter; cinnamon sugar
 focusKeyphrase: "Apple Fritters"
 date: 2025-10-05
 draft: false
-image: crunchy-apple-fritters.png
+image: crunchy-apple-fritters.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT16M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy the fresh and vibrant Grilled Veg Chimichurri Salad. Perfe
 focusKeyphrase: "Grilled Veg Chimichurri Salad"
 date: 2025-07-24
 draft: false
-image: grilled-veg-chimichurri-salad.png
+image: grilled-veg-chimichurri-salad.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT14M

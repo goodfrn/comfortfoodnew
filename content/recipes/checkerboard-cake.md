@@ -7,7 +7,7 @@ ogDescription: "Layers of vanilla and chocolate cake with caramel glue. Checkerb
 focusKeyphrase: "checkerboard cake"
 date: 2025-09-26
 draft: false
-image: checkerboard-cake.png
+image: checkerboard-cake.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT40M

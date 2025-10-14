@@ -7,7 +7,7 @@ ogDescription: "Orzo with thawed peas, diced apricot, pistachios; lime-mustard d
 focusKeyphrase: "orzo salad peas apricot"
 date: 2025-08-19
 draft: false
-image: orzo-salad-peas-apricot.png
+image: orzo-salad-peas-apricot.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

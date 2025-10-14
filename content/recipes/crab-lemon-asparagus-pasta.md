@@ -7,7 +7,7 @@ ogDescription: "Farfalle tossed with crab, asparagus, lemon zest, and creamy sau
 focusKeyphrase: "Crab Lemon Asparagus Pasta"
 date: 2025-09-17
 draft: false
-image: crab-lemon-asparagus-pasta.png
+image: crab-lemon-asparagus-pasta.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

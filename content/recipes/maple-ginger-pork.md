@@ -7,7 +7,7 @@ ogDescription: "Juicy pork chops grilled, coated in sticky maple-ginger glaze. F
 focusKeyphrase: "maple ginger pork quinoa"
 date: 2025-09-26
 draft: false
-image: maple-ginger-pork.png
+image: maple-ginger-pork.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT27M

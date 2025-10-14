@@ -7,7 +7,7 @@ ogDescription: "Thin sausage slices sizzle; spinach wilts fast. Tangy tomato sau
 focusKeyphrase: "spaghetti with chorizo spinach"
 date: 2025-09-27
 draft: false
-image: spaghetti-with-chorizo.png
+image: spaghetti-with-chorizo.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Velvety asparagus and mussels in white wine broth. Crispy garlic
 focusKeyphrase: "Asparagus Mussel Soup"
 date: 2025-08-05
 draft: false
-image: creamy-asparagus-mussel-soup.png
+image: creamy-asparagus-mussel-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

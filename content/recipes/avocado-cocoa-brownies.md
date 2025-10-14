@@ -7,7 +7,7 @@ ogDescription: "Brownie biscuits swap butter for avocado, blending almond and al
 focusKeyphrase: "Avocado cocoa brownie biscuits"
 date: 2025-09-29
 draft: false
-image: avocado-cocoa-brownies.png
+image: avocado-cocoa-brownies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

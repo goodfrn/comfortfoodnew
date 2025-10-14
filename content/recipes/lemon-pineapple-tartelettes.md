@@ -7,7 +7,7 @@ ogDescription: "Crisp tart shells filled with lemon-pineapple custard and crowne
 focusKeyphrase: "lemon pineapple tartelettes"
 date: 2025-08-06
 draft: false
-image: lemon-pineapple-tartelettes.png
+image: lemon-pineapple-tartelettes.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Savor the Spicy BBQ Chicken Subs with shredded chicken, crunchy 
 focusKeyphrase: "Spicy BBQ Chicken Subs"
 date: 2025-07-20
 draft: false
-image: spicy-bbq-chicken-subs.png
+image: spicy-bbq-chicken-subs.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

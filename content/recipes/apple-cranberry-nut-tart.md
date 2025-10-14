@@ -7,7 +7,7 @@ ogDescription: "Nutty pecans, tart apples, chewy apricots mingle with browned bu
 focusKeyphrase: "Apple Cranberry Nut Tart"
 date: 2025-08-14
 draft: false
-image: apple-cranberry-nut-tart.png
+image: apple-cranberry-nut-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT50M

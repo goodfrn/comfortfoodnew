@@ -7,7 +7,7 @@ ogDescription: "Layered chicken with hash browns and sharp cheddar. Creamy, vegg
 focusKeyphrase: "Chunky Chicken Hash Casserole"
 date: 2025-10-12
 draft: false
-image: chunky-chicken-hash.png
+image: chunky-chicken-hash.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT65M

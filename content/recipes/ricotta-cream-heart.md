@@ -7,7 +7,7 @@ ogDescription: "Light ricotta cream with maple syrup and lemon zest. Whipped whi
 focusKeyphrase: "Ricotta Cream Heart"
 date: 2025-07-29
 draft: false
-image: ricotta-cream-heart.png
+image: ricotta-cream-heart.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT0M

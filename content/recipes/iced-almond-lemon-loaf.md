@@ -7,7 +7,7 @@ ogDescription: "Zesty almond lemon loaf with a tangy yogurt glaze. Moist crumb f
 focusKeyphrase: "almond lemon loaf"
 date: 2025-10-11
 draft: false
-image: iced-almond-lemon-loaf.png
+image: iced-almond-lemon-loaf.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

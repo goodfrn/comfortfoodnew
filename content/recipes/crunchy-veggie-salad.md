@@ -7,7 +7,7 @@ ogDescription: "Crunchy veggie layers, lime-ginger zing, dried cherries, toasted
 focusKeyphrase: "Crunchy Veggie Salad"
 date: 2025-08-17
 draft: false
-image: crunchy-veggie-salad.png
+image: crunchy-veggie-salad.jpg
 author: "Emma"
 prepTime: PT8M
 cookTime: PT7M

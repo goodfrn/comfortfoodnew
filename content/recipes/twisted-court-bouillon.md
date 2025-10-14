@@ -7,7 +7,7 @@ ogDescription: "Bright aromatic broth with carrot, celery, fennel option; white 
 focusKeyphrase: "Twisted Court-Bouillon"
 date: 2025-08-02
 draft: false
-image: twisted-court-bouillon.png
+image: twisted-court-bouillon.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

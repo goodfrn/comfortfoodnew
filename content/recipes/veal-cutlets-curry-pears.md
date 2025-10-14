@@ -7,7 +7,7 @@ ogDescription: "Pan-seared veal cutlets crusted with ginger-flour, topped with p
 focusKeyphrase: "veal cutlets with curry pears"
 date: 2025-09-23
 draft: false
-image: veal-cutlets-curry-pears.png
+image: veal-cutlets-curry-pears.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT12M

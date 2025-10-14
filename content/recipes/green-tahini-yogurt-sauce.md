@@ -7,7 +7,7 @@ ogDescription: "Whip up this Green Tahini Yogurt Sauce. It's fresh, creamy, and 
 focusKeyphrase: "Green Tahini Yogurt Sauce"
 date: 2025-07-21
 draft: false
-image: green-tahini-yogurt-sauce.png
+image: green-tahini-yogurt-sauce.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy ciabatta pressed with sharp cheddar and roasted turkey, 
 focusKeyphrase: "Ham Cheese Panini Twist"
 date: 2025-08-11
 draft: false
-image: ham-cheese-panini-twist.png
+image: ham-cheese-panini-twist.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT8M

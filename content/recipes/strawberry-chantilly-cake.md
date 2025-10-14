@@ -7,7 +7,7 @@ ogDescription: "Light sponge, tangy macerated strawberries soaked with lime juic
 focusKeyphrase: "Strawberry Chantilly Cake"
 date: 2025-08-17
 draft: false
-image: strawberry-chantilly-cake.png
+image: strawberry-chantilly-cake.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT30M

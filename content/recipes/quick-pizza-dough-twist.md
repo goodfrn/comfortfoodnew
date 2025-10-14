@@ -7,7 +7,7 @@ ogDescription: "Bread flour and maple syrup in dough. Hand knead, warm humid ris
 focusKeyphrase: "pizza dough with maple syrup"
 date: 2025-09-28
 draft: false
-image: quick-pizza-dough-twist.png
+image: quick-pizza-dough-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

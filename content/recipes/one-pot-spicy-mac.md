@@ -7,7 +7,7 @@ ogDescription: "Creamy, smoky mac and cheese with pancetta, fresh garlic, sharp 
 focusKeyphrase: "One-Pot Spicy Mac Cheese"
 date: 2025-08-05
 draft: false
-image: one-pot-spicy-mac.png
+image: one-pot-spicy-mac.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT35M

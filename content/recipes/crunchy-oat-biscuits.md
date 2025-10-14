@@ -7,7 +7,7 @@ ogDescription: "Crunchy oat biscuits made with maple syrup and coconut oil. Cinn
 focusKeyphrase: "crunchy oat biscuits"
 date: 2025-08-19
 draft: false
-image: crunchy-oat-biscuits.png
+image: crunchy-oat-biscuits.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

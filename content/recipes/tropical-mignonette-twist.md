@@ -7,7 +7,7 @@ ogDescription: "Bright papaya, crunchy bell pepper, sharp white wine vinegar mix
 focusKeyphrase: "Tropical mignonette twist"
 date: 2025-09-23
 draft: false
-image: tropical-mignonette-twist.png
+image: tropical-mignonette-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

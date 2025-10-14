@@ -7,7 +7,7 @@ ogDescription: "Flaky savory dough using cake flour and pork fat. Buttermilk + b
 focusKeyphrase: "Savory Brisée Dough"
 date: 2025-08-02
 draft: false
-image: savory-brisee-dough.png
+image: savory-brisee-dough.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

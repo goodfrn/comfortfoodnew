@@ -7,7 +7,7 @@ ogDescription: "Rim honey thick, toast coconut light. Shake 12 seconds with crus
 focusKeyphrase: "Twisted Grinch Shots"
 date: 2025-10-07
 draft: false
-image: twisted-grinch-shots.png
+image: twisted-grinch-shots.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

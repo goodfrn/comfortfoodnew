@@ -7,7 +7,7 @@ ogDescription: "Crunchy Oreo topping meets soft, chewy cookie bars speckled with
 focusKeyphrase: "Funfetti Oreo Cookie Bars"
 date: 2025-10-12
 draft: false
-image: funfetti-oreo-cookie-bars.png
+image: funfetti-oreo-cookie-bars.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Layer dry, swap cacao for carob, cranberries not chocolate. Bake
 focusKeyphrase: "brownies in a jar"
 date: 2025-08-17
 draft: false
-image: brownies-in-a-jar.png
+image: brownies-in-a-jar.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

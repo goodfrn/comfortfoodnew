@@ -7,7 +7,7 @@ ogDescription: "Crunchy outside, tender inside macarons with coffee aroma and ca
 focusKeyphrase: "Coffee Caramel Macarons"
 date: 2025-07-25
 draft: false
-image: coffee-caramel-macarons.png
+image: coffee-caramel-macarons.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Juicy duck cubes threaded with tart apple, basted in honey soy g
 focusKeyphrase: "Duck Honey-Glazed Apple Skewers"
 date: 2025-09-23
 draft: false
-image: duck-honey-glazed-apple-skewers.png
+image: duck-honey-glazed-apple-skewers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

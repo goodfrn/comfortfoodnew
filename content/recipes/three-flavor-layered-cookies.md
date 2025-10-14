@@ -7,7 +7,7 @@ ogDescription: "Layer thin butter, chocolate, and molasses doughs. Chill, slice,
 focusKeyphrase: "layered cookies with butter chocolate and molasses"
 date: 2025-09-11
 draft: false
-image: three-flavor-layered-cookies.png
+image: three-flavor-layered-cookies.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT12M

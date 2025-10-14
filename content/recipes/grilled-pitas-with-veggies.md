@@ -7,7 +7,7 @@ ogDescription: "Crunchy grilled pitas topped with creamy pea blend and warm snap
 focusKeyphrase: "Grilled Pitas with Green Veggies"
 date: 2025-08-04
 draft: false
-image: grilled-pitas-with-veggies.png
+image: grilled-pitas-with-veggies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT12M

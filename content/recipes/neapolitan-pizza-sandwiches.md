@@ -7,7 +7,7 @@ ogDescription: "Quick Neapolitan Pizza Sandwiches with whipped goat cheese, toas
 focusKeyphrase: "Neapolitan Pizza Sandwiches"
 date: 2025-08-11
 draft: false
-image: neapolitan-pizza-sandwiches.png
+image: neapolitan-pizza-sandwiches.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

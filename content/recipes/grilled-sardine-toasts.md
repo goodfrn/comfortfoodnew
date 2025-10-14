@@ -7,7 +7,7 @@ ogDescription: "Crunchy grilled baguette layered with sardines, grilled zucchini
 focusKeyphrase: "grilled sardine toasts"
 date: 2025-08-06
 draft: false
-image: grilled-sardine-toasts.png
+image: grilled-sardine-toasts.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT8M

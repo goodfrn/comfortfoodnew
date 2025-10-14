@@ -7,7 +7,7 @@ ogDescription: "Enjoy Chilled Green Soup, a vibrant mix of herbs and vegetables.
 focusKeyphrase: "Chilled Green Soup"
 date: 2025-07-16
 draft: false
-image: chilled-green-soup.png
+image: chilled-green-soup.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT25M

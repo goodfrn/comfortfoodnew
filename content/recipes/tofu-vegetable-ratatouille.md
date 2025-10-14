@@ -7,7 +7,7 @@ ogDescription: "Discover the bold flavors of Tofu Vegetable Ratatouille Remix. A
 focusKeyphrase: "Tofu Vegetable Ratatouille"
 date: 2025-07-20
 draft: false
-image: tofu-vegetable-ratatouille.png
+image: tofu-vegetable-ratatouille.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Ferment napa cabbage with smoked paprika and Asian pear for tang
 focusKeyphrase: "rustic fermented kimchi"
 date: 2025-08-14
 draft: false
-image: rustic-fermented-kimchi.png
+image: rustic-fermented-kimchi.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT5M

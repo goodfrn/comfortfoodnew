@@ -7,7 +7,7 @@ ogDescription: "Slow roasted leg of lamb with port and smoked paprika. Fat crisp
 focusKeyphrase: "roast leg of lamb"
 date: 2025-08-09
 draft: false
-image: roast-leg-of-lamb.png
+image: roast-leg-of-lamb.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT2H15M

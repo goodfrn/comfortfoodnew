@@ -7,7 +7,7 @@ ogDescription: "Layer chilled glasses with frozen Greek yogurt, honey-macerated 
 focusKeyphrase: "Twisted Fruity Sundae Brunch"
 date: 2025-08-10
 draft: false
-image: twisted-fruity-sundae.png
+image: twisted-fruity-sundae.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

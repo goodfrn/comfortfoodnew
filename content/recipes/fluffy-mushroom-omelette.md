@@ -7,7 +7,7 @@ ogDescription: "Oven-baked fluffy omelette packed with sautéed mushrooms, thyme
 focusKeyphrase: "Fluffy Mushroom Omelette"
 date: 2025-08-09
 draft: false
-image: fluffy-mushroom-omelette.png
+image: fluffy-mushroom-omelette.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT14M

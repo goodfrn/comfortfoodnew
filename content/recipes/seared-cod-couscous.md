@@ -7,7 +7,7 @@ ogDescription: "Crispy seared cod meets fluffy pesto couscous with grapefruit fo
 focusKeyphrase: "Seared Cod Couscous Grapefruit"
 date: 2025-09-27
 draft: false
-image: seared-cod-couscous.png
+image: seared-cod-couscous.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

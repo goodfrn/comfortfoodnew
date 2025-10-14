@@ -7,7 +7,7 @@ ogDescription: "Silky corn custard set with gelatin topped with caramelized corn
 focusKeyphrase: "corn cream caramel cornflakes"
 date: 2025-09-29
 draft: false
-image: corn-cream-caramel-cornflakes.png
+image: corn-cream-caramel-cornflakes.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Tangy pineapple filling pooled over a firm oat crust, toasted co
 focusKeyphrase: "Pineapple Coconut Bars"
 date: 2025-09-29
 draft: false
-image: pineapple-coconut-bars.png
+image: pineapple-coconut-bars.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

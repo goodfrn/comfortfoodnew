@@ -7,7 +7,7 @@ ogDescription: "Mixed berries, diced apples, gingery crust with coconut sugar. B
 focusKeyphrase: "Four Fruits Ginger Tart"
 date: 2025-07-30
 draft: false
-image: four-fruits-ginger-tart.png
+image: four-fruits-ginger-tart.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT45M

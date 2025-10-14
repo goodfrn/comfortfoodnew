@@ -7,7 +7,7 @@ ogDescription: "Yellow soybeans soaked and blitzed, simmered with vanilla and co
 focusKeyphrase: "soy bean drink"
 date: 2025-08-02
 draft: false
-image: soy-bean-drink-remix.png
+image: soy-bean-drink-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT30M

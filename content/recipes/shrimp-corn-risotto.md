@@ -7,7 +7,7 @@ ogDescription: "Indulge in Shrimp Corn Risotto, a creamy rice dish where shellfi
 focusKeyphrase: "Shrimp Corn Risotto"
 date: 2025-07-16
 draft: false
-image: shrimp-corn-risotto.png
+image: shrimp-corn-risotto.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT35M

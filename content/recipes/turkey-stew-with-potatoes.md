@@ -7,7 +7,7 @@ ogDescription: "Brown turkey thigh cubes carefully; add peppers and Yukon Gold p
 focusKeyphrase: "turkey stew with potatoes and peppers"
 date: 2025-09-26
 draft: false
-image: turkey-stew-with-potatoes.png
+image: turkey-stew-with-potatoes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

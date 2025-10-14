@@ -7,7 +7,7 @@ ogDescription: "Tomatillos and peppers simmer to spicy thick salsa. Chunky, smok
 focusKeyphrase: "Chunky Fiery Salsa"
 date: 2025-08-10
 draft: false
-image: chunky-fiery-salsa.png
+image: chunky-fiery-salsa.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT40M

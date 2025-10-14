@@ -7,7 +7,7 @@ ogDescription: "Sausage balls atop slow simmered veggies in rich tomato broth. B
 focusKeyphrase: "Sausage balls slowcooked veggies"
 date: 2025-08-02
 draft: false
-image: sausage-balls-veggies.png
+image: sausage-balls-veggies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT8H35M

@@ -7,7 +7,7 @@ ogDescription: "Rectangular tart, tender crust, melty 65% dark chocolate filling
 focusKeyphrase: "Warm Melty Chocolate Tart"
 date: 2025-07-29
 draft: false
-image: warm-melty-chocolate-tart.png
+image: warm-melty-chocolate-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT28M

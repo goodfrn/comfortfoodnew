@@ -7,7 +7,7 @@ ogDescription: "Deep amber onions meet creamy gouda, crème fraîche, smoked pap
 focusKeyphrase: "Caramelized Onion Hot Dip"
 date: 2025-08-01
 draft: false
-image: caramelized-onion-dip.png
+image: caramelized-onion-dip.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

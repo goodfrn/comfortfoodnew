@@ -7,7 +7,7 @@ ogDescription: "Experience the delight of Warm Haddock White Bean Salad. Fresh, 
 focusKeyphrase: "Warm Haddock White Bean Salad"
 date: 2025-07-23
 draft: false
-image: warm-haddock-white-bean-salad.png
+image: warm-haddock-white-bean-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT8M

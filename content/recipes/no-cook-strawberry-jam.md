@@ -7,7 +7,7 @@ ogDescription: "Make vibrant no-heat strawberry jam with frozen mixed berries, c
 focusKeyphrase: "no-cook strawberry jam"
 date: 2025-08-08
 draft: false
-image: no-cook-strawberry-jam.png
+image: no-cook-strawberry-jam.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

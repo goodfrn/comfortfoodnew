@@ -7,7 +7,7 @@ ogDescription: "Enjoy chewy Molasses Banana Cookies with warming spices and rich
 focusKeyphrase: "Molasses Banana Cookies"
 date: 2025-07-19
 draft: false
-image: molasses-banana-cookies.png
+image: molasses-banana-cookies.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Grill pork chops with a tangy orange marinade and smoky paprika.
 focusKeyphrase: "Pork Chops Pineapple Grill"
 date: 2025-08-16
 draft: false
-image: pork-chops-pineapple-grill.png
+image: pork-chops-pineapple-grill.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

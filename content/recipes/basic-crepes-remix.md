@@ -7,7 +7,7 @@ ogDescription: "Use oat milk, honey, vanilla tweak. Thin batter, swirl fast, edg
 focusKeyphrase: "Basic Crepes Remix"
 date: 2025-08-07
 draft: false
-image: basic-crepes-remix.png
+image: basic-crepes-remix.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT13M

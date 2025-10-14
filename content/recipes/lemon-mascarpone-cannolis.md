@@ -7,7 +7,7 @@ ogDescription: "Crunchy cannoli shells rolled paper-thin, fried crisp. Filling w
 focusKeyphrase: "Lemon Mascarpone Cannolis"
 date: 2025-08-03
 draft: false
-image: lemon-mascarpone-cannolis.png
+image: lemon-mascarpone-cannolis.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT30M

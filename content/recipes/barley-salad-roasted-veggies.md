@@ -7,7 +7,7 @@ ogDescription: "Roasted pepper barley salad with smoky halloumi, capers, cherry 
 focusKeyphrase: "barley salad with roasted veggies"
 date: 2025-08-15
 draft: false
-image: barley-salad-roasted-veggies.png
+image: barley-salad-roasted-veggies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

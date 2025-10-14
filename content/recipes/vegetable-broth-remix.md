@@ -7,7 +7,7 @@ ogDescription: "Slow simmer veggies and herbs with smoked paprika for intense, c
 focusKeyphrase: "vegetable broth simmer"
 date: 2025-08-07
 draft: false
-image: vegetable-broth-remix.png
+image: vegetable-broth-remix.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT55M

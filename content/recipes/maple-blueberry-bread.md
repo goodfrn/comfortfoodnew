@@ -7,7 +7,7 @@ ogDescription: "Rustic loaf loaded with blueberries, maple syrup ribbons, soft t
 focusKeyphrase: "Maple Blueberry Quick Bread"
 date: 2025-09-25
 draft: false
-image: maple-blueberry-bread.png
+image: maple-blueberry-bread.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT1H15M

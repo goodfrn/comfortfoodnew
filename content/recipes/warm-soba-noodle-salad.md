@@ -7,7 +7,7 @@ ogDescription: "Delightful Warm Soba Noodle Salad featuring veggie spirals, spic
 focusKeyphrase: "Warm Soba Noodle Salad"
 date: 2025-07-24
 draft: false
-image: warm-soba-noodle-salad.png
+image: warm-soba-noodle-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT30M

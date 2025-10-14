@@ -7,7 +7,7 @@ ogDescription: "Baked cupcakes in cones with lemon pudding, coconut oil. Batter 
 focusKeyphrase: "ice cream cone cupcakes"
 date: 2025-10-09
 draft: false
-image: ice-cream-cone-cupcakes.png
+image: ice-cream-cone-cupcakes.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT18M

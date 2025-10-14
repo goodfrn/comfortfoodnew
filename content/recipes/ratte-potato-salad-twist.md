@@ -7,7 +7,7 @@ ogDescription: "Crunchy kettle chips on warm fingerling potatoes in a lemon-hone
 focusKeyphrase: "Ratte potato salad"
 date: 2025-08-07
 draft: false
-image: ratte-potato-salad-twist.png
+image: ratte-potato-salad-twist.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

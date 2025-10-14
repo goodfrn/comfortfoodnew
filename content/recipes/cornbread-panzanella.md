@@ -7,7 +7,7 @@ ogDescription: "Crunchy cornbread meets lemon-maple zing, softened onion, arugul
 focusKeyphrase: "Cornbread Panzanella"
 date: 2025-09-10
 draft: false
-image: cornbread-panzanella.png
+image: cornbread-panzanella.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Rustic focaccia topped with milk-simmered potatoes, melted gruye
 focusKeyphrase: "Smoked Meat Potato Focaccia"
 date: 2025-08-02
 draft: false
-image: smoked-meat-potato-focaccia.png
+image: smoked-meat-potato-focaccia.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT45M

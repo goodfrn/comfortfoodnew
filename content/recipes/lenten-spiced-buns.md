@@ -7,7 +7,7 @@ ogDescription: "Rustic buns with warm spices, apricots, maple syrup sweetness. M
 focusKeyphrase: "Lenten Spiced Buns"
 date: 2025-08-07
 draft: false
-image: lenten-spiced-buns.png
+image: lenten-spiced-buns.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

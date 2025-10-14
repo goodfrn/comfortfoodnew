@@ -7,7 +7,7 @@ ogDescription: "Seared sirloin meets sautéed mushrooms, garlic-chili oil, hoisi
 focusKeyphrase: "Beef Mushroom Noodles"
 date: 2025-08-28
 draft: false
-image: beef-mushroom-noodles.png
+image: beef-mushroom-noodles.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT8M

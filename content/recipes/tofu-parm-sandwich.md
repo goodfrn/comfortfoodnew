@@ -7,7 +7,7 @@ ogDescription: "Crunchy panko tofu with vegan cheddar and tangy marinara, layere
 focusKeyphrase: "tofu parm sandwich"
 date: 2025-08-10
 draft: false
-image: tofu-parm-sandwich.png
+image: tofu-parm-sandwich.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT22M

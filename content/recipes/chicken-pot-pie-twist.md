@@ -7,7 +7,7 @@ ogDescription: "Golden crust, flaky edges. Sharp shallots, white wine splash. Ch
 focusKeyphrase: "Chicken Pot Pie Twist"
 date: 2025-09-19
 draft: false
-image: chicken-pot-pie-twist.png
+image: chicken-pot-pie-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H

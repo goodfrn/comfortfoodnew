@@ -7,7 +7,7 @@ ogDescription: "Vegan pie crust using canola oil and flax egg. Lighter flour, ap
 focusKeyphrase: "Sunflower Oil Pie Dough"
 date: 2025-08-16
 draft: false
-image: sunflower-oil-pie-dough.png
+image: sunflower-oil-pie-dough.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

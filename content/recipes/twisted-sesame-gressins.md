@@ -7,7 +7,7 @@ ogDescription: "Crunchy Italian gressins twisted with black sesame and flax seed
 focusKeyphrase: "Twisted Sesame Gressins"
 date: 2025-07-29
 draft: false
-image: twisted-sesame-gressins.png
+image: twisted-sesame-gressins.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT14M

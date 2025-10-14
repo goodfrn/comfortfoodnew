@@ -7,7 +7,7 @@ ogDescription: "Chilled lychee granita with lemon, mango, mint, raspberries. Fre
 focusKeyphrase: "Lychee Lime Granita"
 date: 2025-07-26
 draft: false
-image: lychee-lime-granita.png
+image: lychee-lime-granita.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT6H30M

@@ -7,7 +7,7 @@ ogDescription: "Aquafaba whipped to soft peaks with powder sugar and lemon juice
 focusKeyphrase: "aquafaba royal icing"
 date: 2025-08-03
 draft: false
-image: fluffy-royal-icing-remix.png
+image: fluffy-royal-icing-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

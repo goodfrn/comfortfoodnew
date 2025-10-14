@@ -7,7 +7,7 @@ ogDescription: "Warm diced chicken, rich brown sauce, bright tender peas. Buns s
 focusKeyphrase: "hot chicken sandwich"
 date: 2025-09-07
 draft: false
-image: hot-chicken-sandwich.png
+image: hot-chicken-sandwich.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT5M

@@ -7,7 +7,7 @@ ogDescription: "Discover Warm Potato Snail Salad, a delightful dish mixing tende
 focusKeyphrase: "Warm Potato Snail Salad"
 date: 2025-07-23
 draft: false
-image: warm-potato-snail-salad.png
+image: warm-potato-snail-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

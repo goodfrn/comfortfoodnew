@@ -7,7 +7,7 @@ ogDescription: "Warm cumin-toast meets crisp cucumber, chickpeas, goat cheese in
 focusKeyphrase: "Chunky Veggie Chickpea Couscous Salad"
 date: 2025-08-06
 draft: false
-image: chunky-veggie-chickpea-salad.png
+image: chunky-veggie-chickpea-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

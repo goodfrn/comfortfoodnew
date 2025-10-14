@@ -7,7 +7,7 @@ ogDescription: "Peppery watercress meets toasted pistachios, basil brightness, a
 focusKeyphrase: "Watercress Basil Vinaigrette"
 date: 2025-08-14
 draft: false
-image: watercress-basil-vinaigrette.png
+image: watercress-basil-vinaigrette.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

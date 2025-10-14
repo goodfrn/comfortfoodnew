@@ -7,7 +7,7 @@ ogDescription: "Brown sausage, wilt spinach, burst tomatoes. Onion and fennel se
 focusKeyphrase: "Sauteed Spinach Sausage Pasta"
 date: 2025-10-13
 draft: false
-image: sauteed-spinach-sausage-pasta.png
+image: sauteed-spinach-sausage-pasta.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Earthy kale, chickpeas swapped white beans. Zucchini, leek saut√
 focusKeyphrase: "Green Minestrone Soup"
 date: 2025-08-14
 draft: false
-image: green-minestrone-soup.png
+image: green-minestrone-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

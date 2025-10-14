@@ -7,7 +7,7 @@ ogDescription: "Savory dumplings with pork and shiitake. A crunchy twist from ba
 focusKeyphrase: "Grilled Dumplings Satay"
 date: 2025-07-21
 draft: false
-image: grilled-dumplings-satay.png
+image: grilled-dumplings-satay.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT55M

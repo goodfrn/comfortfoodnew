@@ -7,7 +7,7 @@ ogDescription: "Ginger and marmalade meet in a softly steamed pudding. Coconut o
 focusKeyphrase: "Spiced Marmalade Ginger Pudding"
 date: 2025-08-09
 draft: false
-image: spiced-marmalade-ginger-pudding.png
+image: spiced-marmalade-ginger-pudding.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT55M

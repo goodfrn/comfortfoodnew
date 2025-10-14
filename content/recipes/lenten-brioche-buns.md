@@ -7,7 +7,7 @@ ogDescription: "Try Lenten Brioche with Apricot Raisins. Soft, enriched dough ba
 focusKeyphrase: "Lenten Brioche"
 date: 2025-07-24
 draft: false
-image: lenten-brioche-buns.png
+image: lenten-brioche-buns.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

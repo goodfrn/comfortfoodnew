@@ -7,7 +7,7 @@ ogDescription: "Thin slices of cured omble trout with sharp cranberry vinegar, c
 focusKeyphrase: "Omble Crudo Cranberry"
 date: 2025-09-23
 draft: false
-image: crudo-cranberry.png
+image: crudo-cranberry.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT15M

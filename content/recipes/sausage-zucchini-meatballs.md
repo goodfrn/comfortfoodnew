@@ -7,7 +7,7 @@ ogDescription: "Sausage Zucchini Meatballs Orzo Broccoli brings you comforting m
 focusKeyphrase: "Sausage Zucchini Meatballs"
 date: 2025-07-19
 draft: false
-image: sausage-zucchini-meatballs.png
+image: sausage-zucchini-meatballs.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

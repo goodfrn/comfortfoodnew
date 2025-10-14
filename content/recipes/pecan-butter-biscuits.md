@@ -7,7 +7,7 @@ ogDescription: "Crunchy pecan biscuits with cardamom, buttery richness, crisp ed
 focusKeyphrase: "pecan butter biscuits"
 date: 2025-09-25
 draft: false
-image: pecan-butter-biscuits.png
+image: pecan-butter-biscuits.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT13M

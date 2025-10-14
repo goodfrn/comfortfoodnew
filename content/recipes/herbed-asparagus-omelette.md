@@ -7,7 +7,7 @@ ogDescription: "Eggs whipped light, asparagus blanched just right. Fresh herbs s
 focusKeyphrase: "Herbed Asparagus Omelette"
 date: 2025-08-10
 draft: false
-image: herbed-asparagus-omelette.png
+image: herbed-asparagus-omelette.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT28M

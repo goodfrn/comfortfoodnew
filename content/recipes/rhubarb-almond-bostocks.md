@@ -7,7 +7,7 @@ ogDescription: "Nutty pistachios, marzipan cream, toasted brioche. Timing by vis
 focusKeyphrase: "rhubarb almond bostocks"
 date: 2025-08-08
 draft: false
-image: rhubarb-almond-bostocks.png
+image: rhubarb-almond-bostocks.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT45M

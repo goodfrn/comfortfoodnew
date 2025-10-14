@@ -7,7 +7,7 @@ ogDescription: "Walnut and Pecorino Romano pesto with lemon-lime zing; chunkier 
 focusKeyphrase: "Herb Citrus Pesto"
 date: 2025-08-05
 draft: false
-image: herb-citrus-pesto.png
+image: herb-citrus-pesto.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

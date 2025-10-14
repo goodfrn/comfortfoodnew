@@ -7,7 +7,7 @@ ogDescription: "Red Velvet Yule Log rolled tight, almond aroma, luscious Italian
 focusKeyphrase: "Red Velvet Yule Log"
 date: 2025-08-05
 draft: false
-image: red-velvet-yule-log.png
+image: red-velvet-yule-log.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT25M

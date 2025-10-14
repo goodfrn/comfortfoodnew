@@ -7,7 +7,7 @@ ogDescription: "Quick air fryer quiche with tortilla crust, bacon, kale and sun-
 focusKeyphrase: "Tortilla Quiche Airfryer"
 date: 2025-09-28
 draft: false
-image: tortilla-quiche-airfryer.png
+image: tortilla-quiche-airfryer.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

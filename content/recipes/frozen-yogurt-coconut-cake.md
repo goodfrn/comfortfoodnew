@@ -7,7 +7,7 @@ ogDescription: "Try this Frozen Yogurt Oat-Coconut Cake. Layers of coconut crumb
 focusKeyphrase: "Frozen Yogurt Oat-Coconut Cake"
 date: 2025-07-19
 draft: false
-image: frozen-yogurt-coconut-cake.png
+image: frozen-yogurt-coconut-cake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT16M

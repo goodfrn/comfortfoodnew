@@ -7,7 +7,7 @@ ogDescription: "Tangy South Carolina mustard BBQ sauce with molasses swap, smoky
 focusKeyphrase: "South Carolina mustard BBQ sauce"
 date: 2025-08-15
 draft: false
-image: mustard-bbq-sauce-twist.png
+image: mustard-bbq-sauce-twist.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT12M

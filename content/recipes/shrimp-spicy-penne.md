@@ -7,7 +7,7 @@ ogDescription: "Penne tossed with spicy tomato, seared shrimp, lemon zest, basil
 focusKeyphrase: "Shrimp Spicy Penne"
 date: 2025-07-25
 draft: false
-image: shrimp-spicy-penne.png
+image: shrimp-spicy-penne.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "White fish with crunchy spiced crust over sticky glazed carrots;
 focusKeyphrase: "fish in spiced crust"
 date: 2025-08-09
 draft: false
-image: fish-in-spiced-crust.png
+image: fish-in-spiced-crust.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT35M

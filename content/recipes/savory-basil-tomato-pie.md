@@ -7,7 +7,7 @@ ogDescription: "Layers of tomato, basil, mozzarella baked golden brown. Salt and
 focusKeyphrase: "basil tomato pie"
 date: 2025-10-04
 draft: false
-image: savory-basil-tomato-pie.png
+image: savory-basil-tomato-pie.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT45M

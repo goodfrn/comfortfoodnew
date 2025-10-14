@@ -7,7 +7,7 @@ ogDescription: "Delicious Ginger Orange Tofu in a ginger-infused sauce, served o
 focusKeyphrase: "Ginger Orange Tofu"
 date: 2025-07-21
 draft: false
-image: ginger-orange-tofu.png
+image: ginger-orange-tofu.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

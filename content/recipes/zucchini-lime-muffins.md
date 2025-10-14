@@ -7,7 +7,7 @@ ogDescription: "Moist zucchini lime muffins using grated zucchini drained well, 
 focusKeyphrase: "zucchini lime muffins"
 date: 2025-08-16
 draft: false
-image: zucchini-lime-muffins.png
+image: zucchini-lime-muffins.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

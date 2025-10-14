@@ -7,7 +7,7 @@ ogDescription: "Bold turmeric infused broth with chicken, shrimp, vibrant veggie
 focusKeyphrase: "turmeric hot pot"
 date: 2025-08-10
 draft: false
-image: turmeric-hot-pot.png
+image: turmeric-hot-pot.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT25M

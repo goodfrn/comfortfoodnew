@@ -7,7 +7,7 @@ ogDescription: "Mezcal meets elderflower and citrus in Green Fizz Twist. Sparkli
 focusKeyphrase: "Green Fizz Twist cocktail"
 date: 2025-08-16
 draft: false
-image: green-fizz-twist.png
+image: green-fizz-twist.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

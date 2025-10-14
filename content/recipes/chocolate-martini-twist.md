@@ -7,7 +7,7 @@ ogDescription: "Chocolate Martini Twist is a unique cocktail with dark chocolate
 focusKeyphrase: "Chocolate Martini Twist"
 date: 2025-07-20
 draft: false
-image: chocolate-martini-twist.png
+image: chocolate-martini-twist.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

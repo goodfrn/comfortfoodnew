@@ -7,7 +7,7 @@ ogDescription: "Indulge in a Smoky Turkey Melt. Turkey, ham, and bacon blend wit
 focusKeyphrase: "Smoky Turkey Melt"
 date: 2025-07-23
 draft: false
-image: smoky-turkey-melt.png
+image: smoky-turkey-melt.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

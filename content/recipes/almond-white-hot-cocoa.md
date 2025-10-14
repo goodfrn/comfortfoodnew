@@ -7,7 +7,7 @@ ogDescription: "Slow milk heat, white chocolate chunks melted glossy. Almond ext
 focusKeyphrase: "Almond White Hot Cocoa"
 date: 2025-10-13
 draft: false
-image: almond-white-hot-cocoa.png
+image: almond-white-hot-cocoa.jpg
 author: "Emma"
 prepTime: PT3M
 cookTime: PT9M

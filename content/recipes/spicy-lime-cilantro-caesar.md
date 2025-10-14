@@ -7,7 +7,7 @@ ogDescription: "Kick up a Caesar with lime, cilantro salt rim, and harissa shrim
 focusKeyphrase: "Spicy Lime Cilantro Caesar"
 date: 2025-08-03
 draft: false
-image: spicy-lime-cilantro-caesar.png
+image: spicy-lime-cilantro-caesar.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

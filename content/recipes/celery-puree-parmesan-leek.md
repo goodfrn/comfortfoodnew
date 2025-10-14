@@ -7,7 +7,7 @@ ogDescription: "Velvety celery root and stalk purée with sautéed leek and Peco
 focusKeyphrase: "Celery Purée with Parmesan and Leek"
 date: 2025-08-05
 draft: false
-image: celery-puree-parmesan-leek.png
+image: celery-puree-parmesan-leek.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

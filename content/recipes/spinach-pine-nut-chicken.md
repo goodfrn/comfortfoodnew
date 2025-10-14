@@ -7,7 +7,7 @@ ogDescription: "Juicy chicken rolls stuffed with spinach, pine nuts, dried cranb
 focusKeyphrase: "Spinach Pine Nut Chicken Rolls"
 date: 2025-10-12
 draft: false
-image: spinach-pine-nut-chicken.png
+image: spinach-pine-nut-chicken.jpg
 author: "Emma"
 prepTime: PT16M
 cookTime: PT22M

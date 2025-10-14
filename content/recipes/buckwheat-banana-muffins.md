@@ -7,7 +7,7 @@ ogDescription: "Dense muffins packed with buckwheat, almonds, and bittersweet ch
 focusKeyphrase: "buckwheat banana almond muffins"
 date: 2025-08-10
 draft: false
-image: buckwheat-banana-muffins.png
+image: buckwheat-banana-muffins.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT25M

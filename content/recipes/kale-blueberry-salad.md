@@ -7,7 +7,7 @@ ogDescription: "Massaged kale softens down tough stalks, blueberries burst sweet
 focusKeyphrase: "Kale Blueberry Salad"
 date: 2025-10-10
 draft: false
-image: kale-blueberry-salad.png
+image: kale-blueberry-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Try Korean Kiwi Beef Skewers. Quick marinade. Juicy beef, fresh 
 focusKeyphrase: "Korean Kiwi Beef Skewers"
 date: 2025-07-21
 draft: false
-image: korean-kiwi-beef-skewers.png
+image: korean-kiwi-beef-skewers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT10M

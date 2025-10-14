@@ -7,7 +7,7 @@ ogDescription: "Discover Twisted Croque-Madame. Creamy béchamel, smoked turkey,
 focusKeyphrase: "Twisted Croque-Madame recipe"
 date: 2025-07-23
 draft: false
-image: twisted-croque-madame.png
+image: twisted-croque-madame.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Roasted spaghetti squash strands tossed with spicy chistorra, mu
 focusKeyphrase: "Spaghetti Squash Paella Twist"
 date: 2025-08-19
 draft: false
-image: spaghetti-squash-paella.png
+image: spaghetti-squash-paella.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H15M

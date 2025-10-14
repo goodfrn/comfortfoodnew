@@ -7,7 +7,7 @@ ogDescription: "Basil Rum Slush A vibrant cocktail blending rum, basil, and ging
 focusKeyphrase: "Basil Rum Slush"
 date: 2025-07-16
 draft: false
-image: basil-rum-slush.png
+image: basil-rum-slush.jpg
 author: "Emma Kitchen"
 prepTime: PT5M
 cookTime: PT15M

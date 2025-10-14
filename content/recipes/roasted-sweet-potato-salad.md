@@ -7,7 +7,7 @@ ogDescription: "Chunks of roasted sweet potatoes, crisp broccoli, spicy chipotle
 focusKeyphrase: "Roasted sweet potato broccoli salad"
 date: 2025-08-05
 draft: false
-image: roasted-sweet-potato-salad.png
+image: roasted-sweet-potato-salad.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

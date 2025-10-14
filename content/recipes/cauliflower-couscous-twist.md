@@ -7,7 +7,7 @@ ogDescription: "Grainy cauliflower, toasted nuts, and bursts of tart apple mingl
 focusKeyphrase: "Cauliflower couscous"
 date: 2025-08-19
 draft: false
-image: cauliflower-couscous-twist.png
+image: cauliflower-couscous-twist.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT55M

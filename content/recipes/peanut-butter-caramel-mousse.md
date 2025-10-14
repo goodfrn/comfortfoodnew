@@ -7,7 +7,7 @@ ogDescription: "Indulge in Peanut Butter Caramel Mousse. Silky custard meets cru
 focusKeyphrase: "Peanut Butter Caramel Mousse"
 date: 2025-07-19
 draft: false
-image: peanut-butter-caramel-mousse.png
+image: peanut-butter-caramel-mousse.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Juicy berries, rhubarb, apples topped with a cakey crust made wi
 focusKeyphrase: "Four Fruit Pudding"
 date: 2025-09-08
 draft: false
-image: four-fruit-pudding.png
+image: four-fruit-pudding.jpg
 author: "Emma"
 prepTime: PT32M
 cookTime: PT44M

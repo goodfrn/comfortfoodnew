@@ -7,7 +7,7 @@ ogDescription: "Brown Sugar Pecan Cake baked slow low with toasted nuts. Caramel
 focusKeyphrase: "Brown Sugar Pecan Cake"
 date: 2025-10-05
 draft: false
-image: brown-sugar-pecan-cake.png
+image: brown-sugar-pecan-cake.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H5M

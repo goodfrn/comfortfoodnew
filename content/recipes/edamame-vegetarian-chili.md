@@ -7,7 +7,7 @@ ogDescription: "Chunky chili with edamame, smoky chipotle, and sweet potatoes si
 focusKeyphrase: "Edamame Vegetarian Chili"
 date: 2025-08-10
 draft: false
-image: edamame-vegetarian-chili.png
+image: edamame-vegetarian-chili.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

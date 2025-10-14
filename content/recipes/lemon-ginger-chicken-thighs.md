@@ -7,7 +7,7 @@ ogDescription: "Savor Lemon Ginger Chicken Thighs grilled to perfection. A zesty
 focusKeyphrase: "lemon ginger chicken thighs"
 date: 2025-07-18
 draft: false
-image: lemon-ginger-chicken-thighs.png
+image: lemon-ginger-chicken-thighs.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

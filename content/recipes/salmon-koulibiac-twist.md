@@ -7,7 +7,7 @@ ogDescription: "Rustic Russian-inspired salmon wrapped in flaky spelt pastry wit
 focusKeyphrase: "Salmon Koulibiac"
 date: 2025-08-14
 draft: false
-image: salmon-koulibiac-twist.png
+image: salmon-koulibiac-twist.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT45M

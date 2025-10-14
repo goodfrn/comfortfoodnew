@@ -7,7 +7,7 @@ ogDescription: "A chilled blend of aloe gel, melon chunks, lime juice, and maple
 focusKeyphrase: "Melon Aloe Refresher"
 date: 2025-08-12
 draft: false
-image: melon-aloe-refresher.png
+image: melon-aloe-refresher.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT0M

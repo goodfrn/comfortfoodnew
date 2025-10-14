@@ -7,7 +7,7 @@ ogDescription: "Eggs brined with cider vinegar, shallots, and pink peppercorns b
 focusKeyphrase: "pickled eggs with shallots"
 date: 2025-09-26
 draft: false
-image: pickled-eggs.png
+image: pickled-eggs.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT6M

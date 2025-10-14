@@ -7,7 +7,7 @@ ogDescription: "A vibrant salad that combines roasted pancetta, grape tomatoes, 
 focusKeyphrase: "Twisted White Bean Panzanella"
 date: 2025-07-21
 draft: false
-image: twisted-white-bean-panzanella.png
+image: twisted-white-bean-panzanella.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT22M

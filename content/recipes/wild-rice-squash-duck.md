@@ -7,7 +7,7 @@ ogDescription: "Wild rice layered with roasted squash and shallots, earthy mushr
 focusKeyphrase: "Wild Rice Squash Duck Bowls"
 date: 2025-08-19
 draft: false
-image: wild-rice-squash-duck.png
+image: wild-rice-squash-duck.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT55M

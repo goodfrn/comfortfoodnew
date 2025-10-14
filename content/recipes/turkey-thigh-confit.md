@@ -7,7 +7,7 @@ ogDescription: "Slow-baked turkey thighs in aromatic duck fat, cumin-mustard spi
 focusKeyphrase: "turkey thigh confit"
 date: 2025-08-05
 draft: false
-image: turkey-thigh-confit.png
+image: turkey-thigh-confit.jpg
 author: "Emma"
 prepTime: PT12H
 cookTime: PT3H10M

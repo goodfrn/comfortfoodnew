@@ -7,7 +7,7 @@ ogDescription: "Instant Pot broccoli cheddar soup with kale and parsnips. Nutmeg
 focusKeyphrase: "Broccoli Cheddar Soup Instant Pot"
 date: 2025-10-12
 draft: false
-image: broccoli-cheddar-soup-ip.png
+image: broccoli-cheddar-soup-ip.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

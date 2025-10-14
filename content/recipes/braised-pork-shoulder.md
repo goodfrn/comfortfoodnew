@@ -7,7 +7,7 @@ ogDescription: "Discover the fusion of orange and cinnamon in this braised pork 
 focusKeyphrase: "braised pork shoulder"
 date: 2025-07-18
 draft: false
-image: braised-pork-shoulder.png
+image: braised-pork-shoulder.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT3H10M

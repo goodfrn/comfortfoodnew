@@ -7,7 +7,7 @@ ogDescription: "Bright bars with tart lime curd and chewy cranberries. Buttery c
 focusKeyphrase: "Tart Lime Cranberry Bars"
 date: 2025-08-02
 draft: false
-image: tart-lime-cranberry-bars.png
+image: tart-lime-cranberry-bars.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT38M

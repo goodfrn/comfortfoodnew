@@ -7,7 +7,7 @@ ogDescription: "Rustic red potato mash meets slow-browned sweet Italian sausages
 focusKeyphrase: "red potato mash sausages"
 date: 2025-09-24
 draft: false
-image: red-potato-mash-sausages.png
+image: red-potato-mash-sausages.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT32M

@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked duck gizzards crisp at edges, zested bright with lem
 focusKeyphrase: "Duck gizzards with thyme-citrus twist"
 date: 2025-08-19
 draft: false
-image: duck-gizzards-thyme.png
+image: duck-gizzards-thyme.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT25M

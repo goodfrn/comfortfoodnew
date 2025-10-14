@@ -7,7 +7,7 @@ ogDescription: "Crunchy bread, savory sausage browned just right, spinach wilted
 focusKeyphrase: "creamy beans with sausage"
 date: 2025-09-29
 draft: false
-image: one-pot-creamy-beans-sausage.png
+image: one-pot-creamy-beans-sausage.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT22M

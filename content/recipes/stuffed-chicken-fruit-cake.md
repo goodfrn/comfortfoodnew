@@ -7,7 +7,7 @@ ogDescription: "Roasted whole chicken stuffed with spiced turkey mix, diced frui
 focusKeyphrase: "Stuffed Chicken Fruit Cake"
 date: 2025-08-09
 draft: false
-image: stuffed-chicken-fruit-cake.png
+image: stuffed-chicken-fruit-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H35M

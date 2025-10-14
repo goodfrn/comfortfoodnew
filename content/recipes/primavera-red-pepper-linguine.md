@@ -7,7 +7,7 @@ ogDescription: "Primavera Red Pepper Linguine, a fresh and light dish. Packed wi
 focusKeyphrase: "Primavera Red Pepper Linguine"
 date: 2025-07-23
 draft: false
-image: primavera-red-pepper-linguine.png
+image: primavera-red-pepper-linguine.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

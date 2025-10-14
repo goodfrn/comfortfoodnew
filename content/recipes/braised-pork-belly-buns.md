@@ -7,7 +7,7 @@ ogDescription: "Experience savory Braised Pork Belly Buns, filled with tender po
 focusKeyphrase: "Braised Pork Belly Buns"
 date: 2025-07-20
 draft: false
-image: braised-pork-belly-buns.png
+image: braised-pork-belly-buns.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT2H10M

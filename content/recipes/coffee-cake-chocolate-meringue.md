@@ -7,7 +7,7 @@ ogDescription: "Explore Coffee Cake with Chocolate Meringue. Enjoy smooth butter
 focusKeyphrase: "Coffee Cake with Chocolate Meringue"
 date: 2025-07-15
 draft: false
-image: coffee-cake-chocolate-meringue.png
+image: coffee-cake-chocolate-meringue.jpg
 author: "Emma Kitchen"
 prepTime: PT30M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Rustic celery root purée. Parsnip, carrot add sweet layers; whi
 focusKeyphrase: "celery root purée"
 date: 2025-08-01
 draft: false
-image: celery-root-puree.png
+image: celery-root-puree.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT30M

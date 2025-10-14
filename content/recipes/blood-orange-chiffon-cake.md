@@ -7,7 +7,7 @@ ogDescription: "Airy Blood Orange Chiffon with cardamom spice, olive oil, and cr
 focusKeyphrase: "Blood Orange Chiffon Cake"
 date: 2025-08-02
 draft: false
-image: blood-orange-chiffon-cake.png
+image: blood-orange-chiffon-cake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT50M

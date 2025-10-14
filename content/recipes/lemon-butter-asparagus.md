@@ -7,7 +7,7 @@ ogDescription: "Delicious Lemon Butter Asparagus Twist - tender asparagus cooked
 focusKeyphrase: "Lemon Butter Asparagus Twist"
 date: 2025-07-24
 draft: false
-image: lemon-butter-asparagus.png
+image: lemon-butter-asparagus.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

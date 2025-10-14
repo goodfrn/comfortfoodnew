@@ -7,7 +7,7 @@ ogDescription: "Sausage chunks browned, fennel soft, kale wilted. Layers pressed
 focusKeyphrase: "Rustic Sausage Shepherds Pie"
 date: 2025-08-08
 draft: false
-image: rustic-shepherds-pie.png
+image: rustic-shepherds-pie.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT1H10M

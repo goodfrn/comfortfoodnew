@@ -7,7 +7,7 @@ ogDescription: "Flaky puff pastry layered with a spicy tomato paste and garlic m
 focusKeyphrase: "Tomato Puff Pastry Bites"
 date: 2025-09-27
 draft: false
-image: tomato-puff-pastry-bites.png
+image: tomato-puff-pastry-bites.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

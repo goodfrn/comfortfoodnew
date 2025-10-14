@@ -7,7 +7,7 @@ ogDescription: "Chewy mochi skin meets frozen coconut milk ice cream or sorbet. 
 focusKeyphrase: "glutinous rice mochi ice cream"
 date: 2025-09-25
 draft: false
-image: glutinous-rice-mochi.png
+image: glutinous-rice-mochi.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT4M

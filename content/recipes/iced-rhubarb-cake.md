@@ -7,7 +7,7 @@ ogDescription: "Tangy rhubarb pieces fold gently in batter topped by cinnamon cr
 focusKeyphrase: "Iced Rhubarb Cake"
 date: 2025-08-15
 draft: false
-image: iced-rhubarb-cake.png
+image: iced-rhubarb-cake.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy tortillas topped with smoky chipotle salsa, a melty ched
 focusKeyphrase: "Mexican tortilla pie"
 date: 2025-10-08
 draft: false
-image: crispy-mexican-tortilla-pie.png
+image: crispy-mexican-tortilla-pie.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT12M

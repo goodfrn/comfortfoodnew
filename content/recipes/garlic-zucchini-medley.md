@@ -7,7 +7,7 @@ ogDescription: "Zucchini chunks and garlic sizzle in olive oil before oregano, c
 focusKeyphrase: "garlic zucchini medley"
 date: 2025-08-17
 draft: false
-image: garlic-zucchini-medley.png
+image: garlic-zucchini-medley.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT9M

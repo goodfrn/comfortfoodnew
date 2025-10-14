@@ -7,7 +7,7 @@ ogDescription: "Mini orange bundts with almond flour swap, coconut oil, boosted 
 focusKeyphrase: "mini orange bundt cakes"
 date: 2025-07-26
 draft: false
-image: mini-orange-bundts.png
+image: mini-orange-bundts.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT22M

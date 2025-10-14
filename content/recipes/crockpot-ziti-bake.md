@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked ziti with beef, ricotta, mozzarella. Layers bubble, 
 focusKeyphrase: "Crockpot Ziti Bake"
 date: 2025-10-06
 draft: false
-image: crockpot-ziti-bake.png
+image: crockpot-ziti-bake.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT6H30M

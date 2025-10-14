@@ -7,7 +7,7 @@ ogDescription: "Chunky pork with liver, rum, juniper, cassis liqueur, baked slow
 focusKeyphrase: "Pork Cassis Terrine"
 date: 2025-07-28
 draft: false
-image: pork-cassis-terrine.png
+image: pork-cassis-terrine.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT1H10M

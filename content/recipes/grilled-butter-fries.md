@@ -7,7 +7,7 @@ ogDescription: "Crispy grilled butter fries with cheddar cheese melting inside f
 focusKeyphrase: "grilled butter fries"
 date: 2025-10-10
 draft: false
-image: grilled-butter-fries.png
+image: grilled-butter-fries.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT28M

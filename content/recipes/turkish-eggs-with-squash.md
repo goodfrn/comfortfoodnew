@@ -7,7 +7,7 @@ ogDescription: "Roasted delicata squash half-moons topped with poached eggs, chi
 focusKeyphrase: "Turkish eggs with roasted squash"
 date: 2025-08-03
 draft: false
-image: turkish-eggs-with-squash.png
+image: turkish-eggs-with-squash.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Experience delicious Barley Cabbage Rolls Twist with vegetables,
 focusKeyphrase: "Barley Cabbage Rolls"
 date: 2025-07-20
 draft: false
-image: barley-cabbage-rolls.png
+image: barley-cabbage-rolls.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT2H10M

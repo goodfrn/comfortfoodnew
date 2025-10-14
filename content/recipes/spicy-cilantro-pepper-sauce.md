@@ -7,7 +7,7 @@ ogDescription: "Discover Spicy Cilantro-Pepper Sauce - a vibrant, spicy mix for 
 focusKeyphrase: "Spicy Cilantro-Pepper Sauce"
 date: 2025-07-16
 draft: false
-image: spicy-cilantro-pepper-sauce.png
+image: spicy-cilantro-pepper-sauce.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT10M

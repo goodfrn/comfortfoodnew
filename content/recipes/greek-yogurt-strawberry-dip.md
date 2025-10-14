@@ -7,7 +7,7 @@ ogDescription: "Chill out with tangy Greek yogurt swirled with zesty strawberry 
 focusKeyphrase: "Greek yogurt strawberry dip"
 date: 2025-09-30
 draft: false
-image: greek-yogurt-strawberry-dip.png
+image: greek-yogurt-strawberry-dip.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT0M

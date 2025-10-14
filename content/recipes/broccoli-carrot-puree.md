@@ -7,7 +7,7 @@ ogDescription: "A cozy and healthy Broccoli Carrot Puree with a hint of ginger f
 focusKeyphrase: "Broccoli Carrot Puree"
 date: 2025-07-24
 draft: false
-image: broccoli-carrot-puree.png
+image: broccoli-carrot-puree.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

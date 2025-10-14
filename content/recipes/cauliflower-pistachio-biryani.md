@@ -7,7 +7,7 @@ ogDescription: "Discover Cauliflower Pistachio Biryani, a quick, gluten-free, an
 focusKeyphrase: "Cauliflower Pistachio Biryani"
 date: 2025-07-16
 draft: false
-image: cauliflower-pistachio-biryani.png
+image: cauliflower-pistachio-biryani.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT35M

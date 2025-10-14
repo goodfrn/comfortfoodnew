@@ -7,7 +7,7 @@ ogDescription: "Indulge in Maple Rum Babas. Light, fluffy, soaked in spiced syru
 focusKeyphrase: "Maple Rum Babas"
 date: 2025-07-25
 draft: false
-image: maple-rum-babas.png
+image: maple-rum-babas.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

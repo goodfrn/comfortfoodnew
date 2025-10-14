@@ -7,7 +7,7 @@ ogDescription: "Enjoy a Date Tart Remix featuring a flaky crust, rich filling, a
 focusKeyphrase: "Date Tart Remix"
 date: 2025-07-21
 draft: false
-image: date-tart-remix.png
+image: date-tart-remix.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT55M

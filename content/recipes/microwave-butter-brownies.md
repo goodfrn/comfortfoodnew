@@ -7,7 +7,7 @@ ogDescription: "Fudgy Microwave Butter Brownies with espresso powder and vanilla
 focusKeyphrase: "Microwave Butter Brownies"
 date: 2025-10-11
 draft: false
-image: microwave-butter-brownies.png
+image: microwave-butter-brownies.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT28M

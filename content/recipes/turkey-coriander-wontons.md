@@ -7,7 +7,7 @@ ogDescription: "Delicious Turkey Coriander Wontons. Ground turkey with fresh cil
 focusKeyphrase: "Turkey Coriander Wontons"
 date: 2025-07-20
 draft: false
-image: turkey-coriander-wontons.png
+image: turkey-coriander-wontons.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Ground beef sizzles with garlic and onions, tossed in a soy-hois
 focusKeyphrase: "beef noodles"
 date: 2025-10-11
 draft: false
-image: beef-noodles-remix.png
+image: beef-noodles-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT19M

@@ -7,7 +7,7 @@ ogDescription: "Tangy, crunchy antipasto blend with olives, chili heat, herbs, a
 focusKeyphrase: "Spicy Antipasto Mix"
 date: 2025-09-29
 draft: false
-image: spicy-antipasto-mix.png
+image: spicy-antipasto-mix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

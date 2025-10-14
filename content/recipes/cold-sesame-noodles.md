@@ -7,7 +7,7 @@ ogDescription: "Nutty sesame sauce coats chilled noodles with cubes of smoky tof
 focusKeyphrase: "Cold Sesame Noodles"
 date: 2025-09-25
 draft: false
-image: cold-sesame-noodles.png
+image: cold-sesame-noodles.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT22M

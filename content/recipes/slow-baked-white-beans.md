@@ -7,7 +7,7 @@ ogDescription: "Long soak, low heat baked white beans with aromatic herbs and te
 focusKeyphrase: "slow-baked white beans"
 date: 2025-09-27
 draft: false
-image: slow-baked-white-beans.png
+image: slow-baked-white-beans.jpg
 author: "Emma"
 prepTime: PT720M
 cookTime: PT105M

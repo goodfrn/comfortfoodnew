@@ -7,7 +7,7 @@ ogDescription: "Fluffy lemon pancakes folded with whipped egg whites, tangy kefi
 focusKeyphrase: "Lemon Souffle Pancakes"
 date: 2025-10-13
 draft: false
-image: lemon-souffle-pancakes.png
+image: lemon-souffle-pancakes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT12M

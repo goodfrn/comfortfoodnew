@@ -7,7 +7,7 @@ ogDescription: "Quick spiced pickled Persian cucumbers with lemongrass and chili
 focusKeyphrase: "spiced pickled cucumbers"
 date: 2025-08-03
 draft: false
-image: spiced-pickled-cucumbers.png
+image: spiced-pickled-cucumbers.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT4M

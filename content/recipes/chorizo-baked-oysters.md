@@ -7,7 +7,7 @@ ogDescription: "Oysters baked under spicy andouille and bubbly Gouda. Zucchini s
 focusKeyphrase: "Chorizo Baked Oysters"
 date: 2025-09-28
 draft: false
-image: chorizo-baked-oysters.png
+image: chorizo-baked-oysters.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT15M

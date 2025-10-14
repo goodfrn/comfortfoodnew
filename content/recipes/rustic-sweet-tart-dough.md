@@ -7,7 +7,7 @@ ogDescription: "Flaky tart dough with spelt flour, cold ghee, and coconut sugar.
 focusKeyphrase: "Rustic Sweet Tart Dough"
 date: 2025-08-07
 draft: false
-image: rustic-sweet-tart-dough.png
+image: rustic-sweet-tart-dough.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT10M

@@ -7,7 +7,7 @@ ogDescription: "Savory chicken meets juicy peaches, roasted peppers, and spicy s
 focusKeyphrase: "Spicy Peach Chicken"
 date: 2025-10-04
 draft: false
-image: spicy-peach-chicken.png
+image: spicy-peach-chicken.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT16M

@@ -7,7 +7,7 @@ ogDescription: "Zesty lemon lime layers with coconut oil, mascarpone-cheese fros
 focusKeyphrase: "Lemon Velvet Cake"
 date: 2025-10-14
 draft: false
-image: lemon-velvet-cake-remix.png
+image: lemon-velvet-cake-remix.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT28M

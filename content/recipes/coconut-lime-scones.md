@@ -7,7 +7,7 @@ ogDescription: "Enjoy Coconut Lime Scones with flavors of coconut and zesty lime
 focusKeyphrase: "Coconut Lime Scones"
 date: 2025-07-21
 draft: false
-image: coconut-lime-scones.png
+image: coconut-lime-scones.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

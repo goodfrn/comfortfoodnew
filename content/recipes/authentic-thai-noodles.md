@@ -7,7 +7,7 @@ ogDescription: "Thai Noodles with chicken, tofu, and a tangy sauce. Easy one-pan
 focusKeyphrase: "Thai Noodles recipe"
 date: 2025-07-15
 draft: false
-image: authentic-thai-noodles.png
+image: authentic-thai-noodles.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT35M

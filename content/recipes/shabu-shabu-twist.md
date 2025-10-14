@@ -7,7 +7,7 @@ ogDescription: "Shabu-Shabu Twist swaps beef broth for miso depth, uses thin por
 focusKeyphrase: "Shabu-Shabu Twist"
 date: 2025-08-10
 draft: false
-image: shabu-shabu-twist.png
+image: shabu-shabu-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

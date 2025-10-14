@@ -7,7 +7,7 @@ ogDescription: "Crunchy corn shells filled with smoky chipotle chicken, sweet ma
 focusKeyphrase: "Spiced Chicken Tacos"
 date: 2025-08-07
 draft: false
-image: spiced-chicken-tacos.png
+image: spiced-chicken-tacos.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT15M

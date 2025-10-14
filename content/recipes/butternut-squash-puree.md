@@ -7,7 +7,7 @@ ogDescription: "Cubed squash browning edges, garlic scent fills kitchen. Coconut
 focusKeyphrase: "butternut squash purée"
 date: 2025-08-12
 draft: false
-image: butternut-squash-puree.png
+image: butternut-squash-puree.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

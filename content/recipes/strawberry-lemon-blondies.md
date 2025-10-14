@@ -7,7 +7,7 @@ ogDescription: "Zesty lemon meets tender blondies with fresh strawberries folded
 focusKeyphrase: "Strawberry lemon blondies"
 date: 2025-10-03
 draft: false
-image: strawberry-lemon-blondies.png
+image: strawberry-lemon-blondies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

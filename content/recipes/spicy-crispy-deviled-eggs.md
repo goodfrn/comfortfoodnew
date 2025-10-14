@@ -7,7 +7,7 @@ ogDescription: "Make Spicy Crispy Deviled Eggs for a unique and delicious take o
 focusKeyphrase: "Spicy Crispy Deviled Eggs"
 date: 2025-07-23
 draft: false
-image: spicy-crispy-deviled-eggs.png
+image: spicy-crispy-deviled-eggs.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

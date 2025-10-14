@@ -7,7 +7,7 @@ ogDescription: "Dense spiced cake base, creamy pumpkin topping with a wobble, cr
 focusKeyphrase: "Spiced Pumpkin Squares"
 date: 2025-07-26
 draft: false
-image: spiced-pumpkin-squares.png
+image: spiced-pumpkin-squares.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT1H

@@ -7,7 +7,7 @@ ogDescription: "Bright grapefruit swirl with cardamom spice, brown sugar depth, 
 focusKeyphrase: "grapefruit loaf twist"
 date: 2025-08-03
 draft: false
-image: grapefruit-loaf-twist.png
+image: grapefruit-loaf-twist.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT50M

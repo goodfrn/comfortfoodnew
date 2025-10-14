@@ -7,7 +7,7 @@ ogDescription: "Clear, fragrant broth simmered low hours with turmeric. Vermicel
 focusKeyphrase: "Rustic Chicken Noodle Soup"
 date: 2025-08-06
 draft: false
-image: rustic-chicken-noodle-soup.png
+image: rustic-chicken-noodle-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H15M

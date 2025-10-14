@@ -7,7 +7,7 @@ ogDescription: "Rustic bars with dense pumpkin and molasses swirl. Gingersnap cr
 focusKeyphrase: "Molasses Pumpkin Cheesecake Bars"
 date: 2025-08-18
 draft: false
-image: molasses-pumpkin-cheesecake.png
+image: molasses-pumpkin-cheesecake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

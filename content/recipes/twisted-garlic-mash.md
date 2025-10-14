@@ -7,7 +7,7 @@ ogDescription: "Red potatoes boiled in stock with shallots, olive oil, cream. Ma
 focusKeyphrase: "Twisted Garlic Mash"
 date: 2025-08-01
 draft: false
-image: twisted-garlic-mash.png
+image: twisted-garlic-mash.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

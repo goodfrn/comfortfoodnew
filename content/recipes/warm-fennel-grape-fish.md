@@ -7,7 +7,7 @@ ogDescription: "A unique warm salad with fish and fennel. Fresh flavors combine 
 focusKeyphrase: "Warm Fennel Grape Fish Salad"
 date: 2025-07-22
 draft: false
-image: warm-fennel-grape-fish.png
+image: warm-fennel-grape-fish.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

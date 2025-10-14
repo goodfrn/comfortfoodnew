@@ -7,7 +7,7 @@ ogDescription: "Chicken thighs grilled crisp then moved to indirect heat; pepper
 focusKeyphrase: "grilled rosemary chicken"
 date: 2025-08-08
 draft: false
-image: grilled-rosemary-chicken.png
+image: grilled-rosemary-chicken.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

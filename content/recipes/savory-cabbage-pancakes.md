@@ -7,7 +7,7 @@ ogDescription: "Crunchy cabbage meets shrimp, bacon, and umami-packed layers. Go
 focusKeyphrase: "Savory cabbage pancakes"
 date: 2025-09-28
 draft: false
-image: savory-cabbage-pancakes.png
+image: savory-cabbage-pancakes.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT12M

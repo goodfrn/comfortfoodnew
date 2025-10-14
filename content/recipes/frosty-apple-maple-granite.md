@@ -7,7 +7,7 @@ ogDescription: "Chill out with Frosty Apple-Maple Granité. Sharp apple cider vi
 focusKeyphrase: "Apple-Maple Granité"
 date: 2025-07-27
 draft: false
-image: frosty-apple-maple-granite.png
+image: frosty-apple-maple-granite.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT3M

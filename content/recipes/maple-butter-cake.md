@@ -7,7 +7,7 @@ ogDescription: "Indulge in Maple Butter Cake with cinnamon notes and creamy mapl
 focusKeyphrase: "Maple Butter Cake"
 date: 2025-07-20
 draft: false
-image: maple-butter-cake.png
+image: maple-butter-cake.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT25M

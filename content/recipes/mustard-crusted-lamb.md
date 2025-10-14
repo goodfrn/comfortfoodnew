@@ -7,7 +7,7 @@ ogDescription: "Slow-roasted lamb shoulder coated with robust mustard plus maple
 focusKeyphrase: "mustard-crusted lamb shoulder"
 date: 2025-08-04
 draft: false
-image: mustard-crusted-lamb.png
+image: mustard-crusted-lamb.jpg
 author: "Emma"
 prepTime: PT1H15M
 cookTime: PT11H30M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy, spicy southern-style pepper slaw tossed with fresh toma
 focusKeyphrase: "spicy pepper slaw"
 date: 2025-10-13
 draft: false
-image: spicy-pepper-slaw.png
+image: spicy-pepper-slaw.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT0M

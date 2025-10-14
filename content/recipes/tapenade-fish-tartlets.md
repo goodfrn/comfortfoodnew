@@ -7,7 +7,7 @@ ogDescription: "Flaky puff pastry with bold black olive tapenade and tender cod 
 focusKeyphrase: "tapenade fish tartlets"
 date: 2025-08-09
 draft: false
-image: tapenade-fish-tartlets.png
+image: tapenade-fish-tartlets.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Rustic rabbit stew. Browning with patience. Dark rum deglaze. Ca
 focusKeyphrase: "rabbit stew Caribbean rum"
 date: 2025-09-29
 draft: false
-image: rabbit-seventh-heaven.png
+image: rabbit-seventh-heaven.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

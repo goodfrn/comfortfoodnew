@@ -7,7 +7,7 @@ ogDescription: "Salmon poached in horseradish-infused milk, thickened with arrow
 focusKeyphrase: "salmon poached horseradish milk"
 date: 2025-08-02
 draft: false
-image: salmon-poached-horseradish-milk.png
+image: salmon-poached-horseradish-milk.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Ground beef stuffed zucchini baked with rich tomato sauce and mo
 focusKeyphrase: "stuffed zucchini gratin"
 date: 2025-09-29
 draft: false
-image: stuffed-zucchini-gratin.png
+image: stuffed-zucchini-gratin.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT48M

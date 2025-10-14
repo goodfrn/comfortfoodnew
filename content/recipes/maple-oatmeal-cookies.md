@@ -7,7 +7,7 @@ ogDescription: "Chewy oatmeal cookies with rich maple glaze, cinnamon, and brown
 focusKeyphrase: "maple oatmeal cookies"
 date: 2025-10-13
 draft: false
-image: maple-oatmeal-cookies.png
+image: maple-oatmeal-cookies.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Chicken seared, juices clear, topped with tangy peach, jalapeño
 focusKeyphrase: "grilled chicken peach salsa"
 date: 2025-10-11
 draft: false
-image: grilled-chicken-peach-salsa.png
+image: grilled-chicken-peach-salsa.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT6M

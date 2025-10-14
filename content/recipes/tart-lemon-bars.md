@@ -7,7 +7,7 @@ ogDescription: "Crisp crust baked twice, tangy lemon-lime custard set by sight a
 focusKeyphrase: "Tart Lemon Bars"
 date: 2025-08-04
 draft: false
-image: tart-lemon-bars.png
+image: tart-lemon-bars.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

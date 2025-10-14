@@ -7,7 +7,7 @@ ogDescription: "Indulge in the rich flavors of Torchon Foie Gras Twist. Perfectl
 focusKeyphrase: "Torchon Foie Gras Twist"
 date: 2025-07-19
 draft: false
-image: torchon-foie-gras.png
+image: torchon-foie-gras.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

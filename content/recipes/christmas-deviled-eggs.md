@@ -7,7 +7,7 @@ ogDescription: "Steamed eggs transformed three ways: smoky blini, zesty sushi, t
 focusKeyphrase: "Christmas Deviled Eggs Trio"
 date: 2025-08-19
 draft: false
-image: christmas-deviled-eggs.png
+image: christmas-deviled-eggs.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Crispy pastillas filled with turkey, warm spices, apricots, and 
 focusKeyphrase: "Spiced Turkey Pastillas"
 date: 2025-08-05
 draft: false
-image: spiced-turkey-pastillas.png
+image: spiced-turkey-pastillas.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT25M

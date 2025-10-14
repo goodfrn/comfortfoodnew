@@ -7,7 +7,7 @@ ogDescription: "Mini Crab Sliders offer spicy, creamy flavors in a small package
 focusKeyphrase: "Mini Crab Sliders"
 date: 2025-07-20
 draft: false
-image: mini-crab-sliders.png
+image: mini-crab-sliders.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT4M

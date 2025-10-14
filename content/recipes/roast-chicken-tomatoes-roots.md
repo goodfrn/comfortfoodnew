@@ -7,7 +7,7 @@ ogDescription: "Whole bird roasted with roots and tomatoes; maple butter caramel
 focusKeyphrase: "roast chicken with tomatoes and roots"
 date: 2025-08-28
 draft: false
-image: roast-chicken-tomatoes-roots.png
+image: roast-chicken-tomatoes-roots.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT2H10M

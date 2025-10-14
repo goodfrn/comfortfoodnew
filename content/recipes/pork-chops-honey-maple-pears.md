@@ -7,7 +7,7 @@ ogDescription: "Pan-seared pork chops with sticky honey maple glaze, tender cara
 focusKeyphrase: "Honey Maple Glazed Pork Chops with Caramelized Pears"
 date: 2025-08-04
 draft: false
-image: pork-chops-honey-maple-pears.png
+image: pork-chops-honey-maple-pears.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

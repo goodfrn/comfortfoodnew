@@ -7,7 +7,7 @@ ogDescription: "Taste vibrant Berry Fennel Burrata Salad with creamy burrata, fr
 focusKeyphrase: "Berry Fennel Burrata Salad"
 date: 2025-07-20
 draft: false
-image: berry-fennel-burrata.png
+image: berry-fennel-burrata.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT0M

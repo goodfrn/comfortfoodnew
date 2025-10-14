@@ -7,7 +7,7 @@ ogDescription: "Hearty portobello caps filled with crisp bacon and crunchy crout
 focusKeyphrase: "Stuffed portobello mushrooms"
 date: 2025-09-26
 draft: false
-image: stuffed-portobello-mushrooms.png
+image: stuffed-portobello-mushrooms.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

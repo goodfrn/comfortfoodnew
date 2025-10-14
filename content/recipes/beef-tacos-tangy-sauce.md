@@ -7,7 +7,7 @@ ogDescription: "Beef Tacos with Tangy Sauce enjoy satisfying textures and flavor
 focusKeyphrase: "beef tacos"
 date: 2025-07-23
 draft: false
-image: beef-tacos-tangy-sauce.png
+image: beef-tacos-tangy-sauce.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

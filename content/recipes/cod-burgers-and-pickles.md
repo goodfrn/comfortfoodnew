@@ -7,7 +7,7 @@ ogDescription: "Crunchy cod and tangy fried pickles with sharp wasabi mayo. Spar
 focusKeyphrase: "battered cod with fried pickles"
 date: 2025-08-07
 draft: false
-image: cod-burgers-and-pickles.png
+image: cod-burgers-and-pickles.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT12M

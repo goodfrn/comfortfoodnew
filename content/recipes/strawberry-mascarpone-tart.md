@@ -7,7 +7,7 @@ ogDescription: "Savor the delightful flavors of this Strawberry Mascarpone Tart 
 focusKeyphrase: "Strawberry Mascarpone Tart"
 date: 2025-07-19
 draft: false
-image: strawberry-mascarpone-tart.png
+image: strawberry-mascarpone-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT25M

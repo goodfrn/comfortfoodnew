@@ -7,7 +7,7 @@ ogDescription: "Roasted chicken breasts in lemon-fennel mayo, manchego cheese un
 focusKeyphrase: "Chicken Romano Lemon Roast"
 date: 2025-08-07
 draft: false
-image: chicken-romano-lemon-roast.png
+image: chicken-romano-lemon-roast.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

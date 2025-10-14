@@ -7,7 +7,7 @@ ogDescription: "Thin julienned carrots tossed in apple cider vinegar, maple syru
 focusKeyphrase: "Tangy Pickled Carrots"
 date: 2025-07-26
 draft: false
-image: tangy-pickled-carrots.png
+image: tangy-pickled-carrots.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Golden yeast doughnuts filled with salted caramel cream, topped 
 focusKeyphrase: "Salted Caramel Doughnuts"
 date: 2025-09-18
 draft: false
-image: salted-caramel-doughnuts.png
+image: salted-caramel-doughnuts.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT30M

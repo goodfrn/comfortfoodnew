@@ -7,7 +7,7 @@ ogDescription: "Sticky, nutty fudge with mini marshmallows melting into chewy su
 focusKeyphrase: "Marshmallow pecan fudge"
 date: 2025-08-08
 draft: false
-image: marshmallow-pecan-fudge.png
+image: marshmallow-pecan-fudge.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

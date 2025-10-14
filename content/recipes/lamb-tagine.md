@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked lamb with ras-el-hanout, turmeric, dried fruits blen
 focusKeyphrase: "Lamb Tagine with Spiced Tea"
 date: 2025-08-14
 draft: false
-image: lamb-tagine.png
+image: lamb-tagine.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT4H30M

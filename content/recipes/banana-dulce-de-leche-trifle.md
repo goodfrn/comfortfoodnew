@@ -7,7 +7,7 @@ ogDescription: "Layered trifle with bananas, dulce de leche, oat crumble, and wh
 focusKeyphrase: "Banana Dulce de Leche Trifle"
 date: 2025-08-08
 draft: false
-image: banana-dulce-de-leche-trifle.png
+image: banana-dulce-de-leche-trifle.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Slow simmered chicken with rehydrated morels, whisky, cream, and
 focusKeyphrase: "Chicken with Morels"
 date: 2025-09-27
 draft: false
-image: chicken-with-morels-twist.png
+image: chicken-with-morels-twist.jpg
 author: "Emma"
 prepTime: PT32M
 cookTime: PT1H10M

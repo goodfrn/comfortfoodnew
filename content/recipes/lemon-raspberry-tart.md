@@ -7,7 +7,7 @@ ogDescription: "Yuzu brightens the lemon raspberry filling; flaky cornmeal crust
 focusKeyphrase: "Lemon Raspberry Tart"
 date: 2025-08-05
 draft: false
-image: lemon-raspberry-tart.png
+image: lemon-raspberry-tart.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT30M

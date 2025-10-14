@@ -7,7 +7,7 @@ ogDescription: "Tangy pomegranate jelly with ginger’s bite and maple sweetness
 focusKeyphrase: "Pomegranate Ginger Jelly"
 date: 2025-08-12
 draft: false
-image: pomegranate-ginger-jelly.png
+image: pomegranate-ginger-jelly.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT17M

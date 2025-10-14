@@ -7,7 +7,7 @@ ogDescription: "Enjoy Maple-Roasted Baby Potatoes. Sweet and savory. Great textu
 focusKeyphrase: "maple-roasted baby potatoes"
 date: 2025-07-21
 draft: false
-image: maple-roasted-potatoes.png
+image: maple-roasted-potatoes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

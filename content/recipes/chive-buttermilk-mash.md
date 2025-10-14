@@ -7,7 +7,7 @@ ogDescription: "Chunky potatoes boiled till fork tender, steam dried low heat, b
 focusKeyphrase: "Chive Buttermilk Mash"
 date: 2025-08-02
 draft: false
-image: chive-buttermilk-mash.png
+image: chive-buttermilk-mash.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

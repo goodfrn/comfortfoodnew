@@ -7,7 +7,7 @@ ogDescription: "Almond flour adds moist crumb to vanilla shortbread. Baking soda
 focusKeyphrase: "Vanilla Almond Shortbread"
 date: 2025-08-03
 draft: false
-image: vanilla-almond-shortbread.png
+image: vanilla-almond-shortbread.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Savor the rich flavors of Herbed Creamy Squash Fettuccine, featu
 focusKeyphrase: "Herbed Creamy Squash Fettuccine"
 date: 2025-07-19
 draft: false
-image: herbed-creamy-squash-fettuccine.png
+image: herbed-creamy-squash-fettuccine.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

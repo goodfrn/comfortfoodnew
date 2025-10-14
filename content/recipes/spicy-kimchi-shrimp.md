@@ -7,7 +7,7 @@ ogDescription: "Quick, spicy, and nutty. Spicy Kimchi Shrimp Sauté with shrimp,
 focusKeyphrase: "Spicy Kimchi Shrimp Sauté"
 date: 2025-07-20
 draft: false
-image: spicy-kimchi-shrimp.png
+image: spicy-kimchi-shrimp.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT10M

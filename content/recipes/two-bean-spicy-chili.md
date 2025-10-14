@@ -7,7 +7,7 @@ ogDescription: "Enjoy Two-Bean Spicy Chili. Loaded with beef, beans, and spices.
 focusKeyphrase: "Two-Bean Spicy Chili"
 date: 2025-07-16
 draft: false
-image: two-bean-spicy-chili.png
+image: two-bean-spicy-chili.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT50M

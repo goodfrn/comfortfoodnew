@@ -7,7 +7,7 @@ ogDescription: "Fish, clams, fennel, capers meld with roasted pepper purée. But
 focusKeyphrase: "Sicilian-style walleye clams"
 date: 2025-08-13
 draft: false
-image: sicilian-style-walleye-clams.png
+image: sicilian-style-walleye-clams.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

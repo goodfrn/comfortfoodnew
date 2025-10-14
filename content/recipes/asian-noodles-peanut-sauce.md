@@ -7,7 +7,7 @@ ogDescription: "Rice noodles coated in peanut-tahini sauce, smoky chipotle heat,
 focusKeyphrase: "Asian noodles with peanut sauce"
 date: 2025-07-27
 draft: false
-image: asian-noodles-peanut-sauce.png
+image: asian-noodles-peanut-sauce.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT22M

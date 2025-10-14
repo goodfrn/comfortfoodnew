@@ -7,7 +7,7 @@ ogDescription: "Swap pork shoulder for beef in shabu-shabu with kombu broth, dai
 focusKeyphrase: "Japanese shabu-shabu pork"
 date: 2025-08-10
 draft: false
-image: japanese-shabu-shabu-twist.png
+image: japanese-shabu-shabu-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

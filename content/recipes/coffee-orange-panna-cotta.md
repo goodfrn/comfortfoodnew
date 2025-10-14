@@ -7,7 +7,7 @@ ogDescription: "Cream and milk infused overnight with coffee. Orange zest mixes 
 focusKeyphrase: "Coffee Orange Panna Cotta"
 date: 2025-07-27
 draft: false
-image: coffee-orange-panna-cotta.png
+image: coffee-orange-panna-cotta.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT8M

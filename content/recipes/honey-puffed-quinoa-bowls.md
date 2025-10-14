@@ -7,7 +7,7 @@ ogDescription: "Crunchy honey puffed quinoa toasted with browned butter layered 
 focusKeyphrase: "Honey Puffed Quinoa Vanilla Yogurt Bowls"
 date: 2025-09-24
 draft: false
-image: honey-puffed-quinoa-bowls.png
+image: honey-puffed-quinoa-bowls.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT9M

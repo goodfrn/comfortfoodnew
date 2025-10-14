@@ -7,7 +7,7 @@ ogDescription: "Crunchy pumpkin seeds, chopped sun-dried tomatoes, olives swap c
 focusKeyphrase: "Sun-dried tomato pumpkin pesto"
 date: 2025-09-25
 draft: false
-image: sun-dried-tomato-pesto.png
+image: sun-dried-tomato-pesto.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT2M

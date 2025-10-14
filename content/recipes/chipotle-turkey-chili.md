@@ -7,7 +7,7 @@ ogDescription: "Smoky chipotle and tender turkey cube up in this thick chili wit
 focusKeyphrase: "chipotle turkey chili"
 date: 2025-08-16
 draft: false
-image: chipotle-turkey-chili.png
+image: chipotle-turkey-chili.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT45M

@@ -7,7 +7,7 @@ ogDescription: "Black tea replaces espresso, cream cheese plus ricotta stand in 
 focusKeyphrase: "Twisted tiramisu with black tea"
 date: 2025-08-08
 draft: false
-image: twisted-tiramisu.png
+image: twisted-tiramisu.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT0M

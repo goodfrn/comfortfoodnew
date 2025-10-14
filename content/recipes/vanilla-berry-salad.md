@@ -7,7 +7,7 @@ ogDescription: "Cold vanilla syrup coats fresh berries—raspberries, blackberri
 focusKeyphrase: "Vanilla Berry Salad"
 date: 2025-08-03
 draft: false
-image: vanilla-berry-salad.png
+image: vanilla-berry-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT7M

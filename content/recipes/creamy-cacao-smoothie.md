@@ -7,7 +7,7 @@ ogDescription: "Cold creamy blend with banana, avocado, cacao powder, nut protei
 focusKeyphrase: "Creamy Cacao Nut Smoothie"
 date: 2025-07-25
 draft: false
-image: creamy-cacao-smoothie.png
+image: creamy-cacao-smoothie.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

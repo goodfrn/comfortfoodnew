@@ -7,7 +7,7 @@ ogDescription: "Jarred wild mushroom risotto with sun-dried tomatoes and smoky p
 focusKeyphrase: "wild mushroom risotto jar"
 date: 2025-09-25
 draft: false
-image: wild-mushroom-risotto.png
+image: wild-mushroom-risotto.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT40M

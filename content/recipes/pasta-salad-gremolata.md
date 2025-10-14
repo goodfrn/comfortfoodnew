@@ -7,7 +7,7 @@ ogDescription: "Cold pasta salad with cilantro-lime gremolata, diced tomato, Man
 focusKeyphrase: "Pasta Salad with Gremolata"
 date: 2025-07-25
 draft: false
-image: pasta-salad-gremolata.png
+image: pasta-salad-gremolata.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

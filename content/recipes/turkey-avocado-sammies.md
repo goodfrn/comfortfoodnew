@@ -7,7 +7,7 @@ ogDescription: "Smoky ham and ripe avocado stack on soft bread with spicy mayo a
 focusKeyphrase: "Turkey Avocado Sammies"
 date: 2025-09-27
 draft: false
-image: turkey-avocado-sammies.png
+image: turkey-avocado-sammies.jpg
 author: "Emma"
 prepTime: PT14M
 cookTime: PT0M

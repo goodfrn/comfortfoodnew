@@ -7,7 +7,7 @@ ogDescription: "Enjoy Honey Glazed Lamb Chops grilled to perfection. Sweet glaze
 focusKeyphrase: "Honey Glazed Lamb Chops"
 date: 2025-07-15
 draft: false
-image: honey-glazed-lamb-chops.png
+image: honey-glazed-lamb-chops.jpg
 author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT25M

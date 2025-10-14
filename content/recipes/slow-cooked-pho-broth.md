@@ -7,7 +7,7 @@ ogDescription: "Roast, toast, simmer low long; marrow bones brown, spices bliste
 focusKeyphrase: "slow cooked pho broth"
 date: 2025-08-28
 draft: false
-image: slow-cooked-pho-broth.png
+image: slow-cooked-pho-broth.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT8H30M

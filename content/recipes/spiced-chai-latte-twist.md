@@ -7,7 +7,7 @@ ogDescription: "Gently simmer oat milk with black tea, green peppercorns, star a
 focusKeyphrase: "spiced chai latte twist"
 date: 2025-08-03
 draft: false
-image: spiced-chai-latte-twist.png
+image: spiced-chai-latte-twist.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT15M

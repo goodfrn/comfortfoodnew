@@ -7,7 +7,7 @@ ogDescription: "Cold grapefruit ice cube infused with rosemary. Elderflower toni
 focusKeyphrase: "grapefruit tonic twist"
 date: 2025-08-06
 draft: false
-image: grapefruit-tonic-twist.png
+image: grapefruit-tonic-twist.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

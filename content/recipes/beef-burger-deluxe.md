@@ -7,7 +7,7 @@ ogDescription: "Rich sirloin patties grilled longer, topped smoky cheddar melted
 focusKeyphrase: "Beef Burger Deluxe"
 date: 2025-07-28
 draft: false
-image: beef-burger-deluxe.png
+image: beef-burger-deluxe.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

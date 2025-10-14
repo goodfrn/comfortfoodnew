@@ -7,7 +7,7 @@ ogDescription: "Ricotta swaps mascarpone, amaretto adds almond warmth. Ladyfinge
 focusKeyphrase: "Ricotta coffee tiramisu"
 date: 2025-08-06
 draft: false
-image: ricotta-coffee-tiramisu.png
+image: ricotta-coffee-tiramisu.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT20M

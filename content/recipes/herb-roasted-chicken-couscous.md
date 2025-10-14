@@ -7,7 +7,7 @@ ogDescription: "Two chickens roast over veggies with spicy harissa, chickpeas, t
 focusKeyphrase: "herb-roasted chicken couscous"
 date: 2025-08-02
 draft: false
-image: herb-roasted-chicken-couscous.png
+image: herb-roasted-chicken-couscous.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT1H50M

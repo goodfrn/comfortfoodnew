@@ -7,7 +7,7 @@ ogDescription: "Discover Pork Pineapple Fritters, a fusion dish with crispy bite
 focusKeyphrase: "Pork Pineapple Fritters"
 date: 2025-07-21
 draft: false
-image: pork-pineapple-fritters.png
+image: pork-pineapple-fritters.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Marinate beef chunks and veggies separately; skew, grill 10-14 m
 focusKeyphrase: "beef and veggie kabobs"
 date: 2025-10-12
 draft: false
-image: beef-and-veggie-kabobs.png
+image: beef-and-veggie-kabobs.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

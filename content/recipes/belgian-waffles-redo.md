@@ -7,7 +7,7 @@ ogDescription: "Slow yeast rise, coarse sugar crunch, cream and oil base. Cook w
 focusKeyphrase: "Belgian waffles overnight rise"
 date: 2025-08-15
 draft: false
-image: belgian-waffles-redo.png
+image: belgian-waffles-redo.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

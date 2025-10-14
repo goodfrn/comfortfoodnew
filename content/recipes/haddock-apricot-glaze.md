@@ -7,7 +7,7 @@ ogDescription: "Seared haddock with tangy apricot-soy sauce, fresh spinach wilte
 focusKeyphrase: "Haddock Apricot Glaze"
 date: 2025-08-13
 draft: false
-image: haddock-apricot-glaze.png
+image: haddock-apricot-glaze.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

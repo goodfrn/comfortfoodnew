@@ -7,7 +7,7 @@ ogDescription: "Juicy turkey breast roast, stuffed with sweet-savory mix of saus
 focusKeyphrase: "Turkey pineapple roast"
 date: 2025-08-08
 draft: false
-image: turkey-pineapple-roast.png
+image: turkey-pineapple-roast.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT2H40M

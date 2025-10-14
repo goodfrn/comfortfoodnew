@@ -7,7 +7,7 @@ ogDescription: "Dense strawberry loaf with fresh fruit bursts. Buttermilk adds t
 focusKeyphrase: "Strawberry Loaf Cake"
 date: 2025-10-06
 draft: false
-image: strawberry-loaf-cake.png
+image: strawberry-loaf-cake.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

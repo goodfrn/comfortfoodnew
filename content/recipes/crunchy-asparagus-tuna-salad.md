@@ -7,7 +7,7 @@ ogDescription: "Crunchy asparagus meets creamy eggs and toasted garlic panko. Tu
 focusKeyphrase: "Crunchy Asparagus Tuna Salad"
 date: 2025-08-09
 draft: false
-image: crunchy-asparagus-tuna-salad.png
+image: crunchy-asparagus-tuna-salad.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT10M

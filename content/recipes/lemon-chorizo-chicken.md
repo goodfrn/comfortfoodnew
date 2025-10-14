@@ -7,7 +7,7 @@ ogDescription: "Crispy chicken flattened and rubbed with lime and salt, roasted 
 focusKeyphrase: "Lemon Chorizo Roast Chicken"
 date: 2025-08-28
 draft: false
-image: lemon-chorizo-chicken.png
+image: lemon-chorizo-chicken.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H20M

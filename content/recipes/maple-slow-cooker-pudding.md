@@ -7,7 +7,7 @@ ogDescription: "Slow cooked maple pudding, rounded with bourbon and cardamom. Wh
 focusKeyphrase: "Maple Slow Cooker Pudding"
 date: 2025-08-11
 draft: false
-image: maple-slow-cooker-pudding.png
+image: maple-slow-cooker-pudding.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H55M

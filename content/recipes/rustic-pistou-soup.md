@@ -7,7 +7,7 @@ ogDescription: "Chunky veggie soup meets punchy pistou of basil, garlic, pecorin
 focusKeyphrase: "Rustic Pistou Soup"
 date: 2025-09-29
 draft: false
-image: rustic-pistou-soup.png
+image: rustic-pistou-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

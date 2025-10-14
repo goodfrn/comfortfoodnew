@@ -7,7 +7,7 @@ ogDescription: "Hands-on baked mac and cheese swapping cheddar for smoked Gouda.
 focusKeyphrase: "baked macaroni cheese"
 date: 2025-10-13
 draft: false
-image: rustic-baked-macaroni.png
+image: rustic-baked-macaroni.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT21M

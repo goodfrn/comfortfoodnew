@@ -7,7 +7,7 @@ ogDescription: "Low heat, constant whisk; honey softens sharp edges, vanilla war
 focusKeyphrase: "lemon curd with honey"
 date: 2025-10-12
 draft: false
-image: tangy-lemon-curd-remix.png
+image: tangy-lemon-curd-remix.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT12M

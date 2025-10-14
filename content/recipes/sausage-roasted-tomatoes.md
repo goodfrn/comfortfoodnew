@@ -7,7 +7,7 @@ ogDescription: "Sausage Roasted Tomatoes are tender tomatoes stuffed with spicy 
 focusKeyphrase: "Sausage Roasted Tomatoes"
 date: 2025-07-23
 draft: false
-image: sausage-roasted-tomatoes.png
+image: sausage-roasted-tomatoes.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT27M

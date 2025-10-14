@@ -7,7 +7,7 @@ ogDescription: "Create vibrant Grapefruit Rosemary Syrup. Perfect for cocktails 
 focusKeyphrase: "grapefruit rosemary syrup"
 date: 2025-07-24
 draft: false
-image: grapefruit-rosemary-syrup.png
+image: grapefruit-rosemary-syrup.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT7M

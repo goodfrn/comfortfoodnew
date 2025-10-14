@@ -7,7 +7,7 @@ ogDescription: "Brown gravy, roasted chicken wings, Marsala, bourbon, toasted ry
 focusKeyphrase: "brown chicken gravy"
 date: 2025-08-12
 draft: false
-image: hearty-brown-chicken-gravy.png
+image: hearty-brown-chicken-gravy.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H15M

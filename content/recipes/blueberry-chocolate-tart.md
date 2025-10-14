@@ -7,7 +7,7 @@ ogDescription: "Crunchy browned butter crust meets coconut cream custard, whippe
 focusKeyphrase: "Blueberry Chocolate Tart"
 date: 2025-08-23
 draft: false
-image: blueberry-chocolate-tart.png
+image: blueberry-chocolate-tart.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT35M

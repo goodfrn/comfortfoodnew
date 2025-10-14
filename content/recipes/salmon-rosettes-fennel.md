@@ -7,7 +7,7 @@ ogDescription: "Thin salmon slices fold into flower shapes on a tender fennel cr
 focusKeyphrase: "Salmon rosettes"
 date: 2025-08-08
 draft: false
-image: salmon-rosettes-fennel.png
+image: salmon-rosettes-fennel.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

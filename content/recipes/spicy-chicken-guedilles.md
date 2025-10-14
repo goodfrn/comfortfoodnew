@@ -7,7 +7,7 @@ ogDescription: "Bold French-Canadian Guédilles with smoky paprika chicken, chip
 focusKeyphrase: "Spicy Chicken Guédilles"
 date: 2025-08-05
 draft: false
-image: spicy-chicken-guedilles.png
+image: spicy-chicken-guedilles.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT17M

@@ -7,7 +7,7 @@ ogDescription: "Delight in Fluffy Cinnamon-Chocolate Pancakes. Spelt base, rich 
 focusKeyphrase: "Cinnamon Chocolate Pancakes"
 date: 2025-07-23
 draft: false
-image: fluffy-cinnamon-chocolate-pancakes.png
+image: fluffy-cinnamon-chocolate-pancakes.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT45M

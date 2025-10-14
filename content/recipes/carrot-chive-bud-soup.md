@@ -7,7 +7,7 @@ ogDescription: "Light broth with carrot chive buds simmered slow. Tender carrot 
 focusKeyphrase: "Carrot Chive Bud Soup"
 date: 2025-08-03
 draft: false
-image: carrot-chive-bud-soup.png
+image: carrot-chive-bud-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

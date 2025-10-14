@@ -7,7 +7,7 @@ ogDescription: "Indulge in Duck Breast Red Wine Cocoa. A rich dish with chocolat
 focusKeyphrase: "Duck Breast Red Wine Cocoa"
 date: 2025-07-21
 draft: false
-image: duck-breast-red-wine.png
+image: duck-breast-red-wine.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT35M

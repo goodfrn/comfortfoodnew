@@ -7,7 +7,7 @@ ogDescription: "Tender cauliflower, nutty spelt grains stewed with white wine an
 focusKeyphrase: "Cauliflower Spelt Gratin"
 date: 2025-08-17
 draft: false
-image: cauliflower-spelt-gratin.png
+image: cauliflower-spelt-gratin.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT50M

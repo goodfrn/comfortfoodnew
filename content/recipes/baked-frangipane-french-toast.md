@@ -7,7 +7,7 @@ ogDescription: "Indulge in Baked Frangipane French Toast. A delicious twist on c
 focusKeyphrase: "Baked Frangipane French Toast"
 date: 2025-07-18
 draft: false
-image: baked-frangipane-french-toast.png
+image: baked-frangipane-french-toast.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

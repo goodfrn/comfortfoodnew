@@ -7,7 +7,7 @@ ogDescription: "Handmade spinach pasta meets smoked ricotta haddock filling, tos
 focusKeyphrase: "Spinach Haddock Ravioli"
 date: 2025-08-07
 draft: false
-image: pan-seared-haddock-ravioli.png
+image: pan-seared-haddock-ravioli.jpg
 author: "Emma"
 prepTime: PT1H25M
 cookTime: PT10M

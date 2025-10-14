@@ -7,7 +7,7 @@ ogDescription: "Zesty buttermilk creamy Parmesan Peppercorn dressing. Tangy, pep
 focusKeyphrase: "Parmesan Peppercorn dressing"
 date: 2025-10-13
 draft: false
-image: creamy-parmesan-peppercorn.png
+image: creamy-parmesan-peppercorn.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

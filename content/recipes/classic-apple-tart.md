@@ -7,7 +7,7 @@ ogDescription: "Make Classic Apple Tart with a buttery crust and fresh apple fil
 focusKeyphrase: "Classic Apple Tart"
 date: 2025-07-15
 draft: false
-image: classic-apple-tart.png
+image: classic-apple-tart.jpg
 author: "Emma Kitchen"
 prepTime: PT40M
 cookTime: PT55M

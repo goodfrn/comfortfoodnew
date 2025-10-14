@@ -7,7 +7,7 @@ ogDescription: "Flaky crust meets caramelized leeks and quick-seared shrimp. Her
 focusKeyphrase: "Leek shrimp quiche"
 date: 2025-08-16
 draft: false
-image: leek-shrimp-quiche.png
+image: leek-shrimp-quiche.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Tangy zucchini feta spread with roasted garlic, mint, and smoked
 focusKeyphrase: "zucchini feta dip"
 date: 2025-08-18
 draft: false
-image: zucchini-feta-dip.png
+image: zucchini-feta-dip.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

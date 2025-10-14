@@ -7,7 +7,7 @@ ogDescription: "Enjoy Tagliatelles with Fennel and Crunch. A unique pasta dish c
 focusKeyphrase: "Tagliatelles with Fennel and Crunch"
 date: 2025-07-19
 draft: false
-image: tagliatelles-with-fennel.png
+image: tagliatelles-with-fennel.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

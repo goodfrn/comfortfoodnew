@@ -7,7 +7,7 @@ ogDescription: "Indulge in Amaretto Cherry Hazelnut Brownies with rich layers of
 focusKeyphrase: "Amaretto Cherry Hazelnut Brownies"
 date: 2025-07-21
 draft: false
-image: amaretto-cherry-brownies.png
+image: amaretto-cherry-brownies.jpg
 author: "Emma"
 prepTime: PT1H5M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Spicy Tangy Antipasto is a zesty mediterranean dish with bold fl
 focusKeyphrase: "spicy tangy antipasto"
 date: 2025-07-19
 draft: false
-image: spicy-tangy-antipasto.png
+image: spicy-tangy-antipasto.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

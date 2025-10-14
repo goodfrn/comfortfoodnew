@@ -7,7 +7,7 @@ ogDescription: "Grilled shrimp meets warm bacon dressing tossed with fresh spina
 focusKeyphrase: "spinach salad with shrimp"
 date: 2025-10-10
 draft: false
-image: spinach-salad-shrimp.png
+image: spinach-salad-shrimp.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

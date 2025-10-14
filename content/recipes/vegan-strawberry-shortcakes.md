@@ -7,7 +7,7 @@ ogDescription: "Whipped coconut cream atop tender oat shortcakes with juicy stra
 focusKeyphrase: "Vegan Strawberry Shortcakes"
 date: 2025-08-18
 draft: false
-image: vegan-strawberry-shortcakes.png
+image: vegan-strawberry-shortcakes.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT22M

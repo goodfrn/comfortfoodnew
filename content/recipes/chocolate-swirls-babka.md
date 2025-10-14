@@ -7,7 +7,7 @@ ogDescription: "Babka braided soft brioche with rich dark chocolate, espresso po
 focusKeyphrase: "Chocolate Swirl Babka"
 date: 2025-08-16
 draft: false
-image: chocolate-swirls-babka.png
+image: chocolate-swirls-babka.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

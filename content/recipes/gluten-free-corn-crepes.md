@@ -7,7 +7,7 @@ ogDescription: "Gluten-free corn crepes—crispy edges, golden spots, quick flip
 focusKeyphrase: "gluten-free corn crepes"
 date: 2025-09-30
 draft: false
-image: gluten-free-corn-crepes.png
+image: gluten-free-corn-crepes.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT12M

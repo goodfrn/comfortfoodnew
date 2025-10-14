@@ -7,7 +7,7 @@ ogDescription: "Enjoy a unique Banana Cream Tart Twist with a gluten-free oat cr
 focusKeyphrase: "Banana Cream Tart Twist"
 date: 2025-07-19
 draft: false
-image: banana-cream-tart.png
+image: banana-cream-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT25M

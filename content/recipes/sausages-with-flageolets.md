@@ -7,7 +7,7 @@ ogDescription: "Slow poach sausages with tender flageolet beans, creamy tomato s
 focusKeyphrase: "Sausages with Flageolets"
 date: 2025-09-24
 draft: false
-image: sausages-with-flageolets.png
+image: sausages-with-flageolets.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT2H55M

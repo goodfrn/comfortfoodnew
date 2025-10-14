@@ -7,7 +7,7 @@ ogDescription: "Rustic meatballs baked then simmered in rich tomato sauce. Whipp
 focusKeyphrase: "Italian meatballs"
 date: 2025-10-05
 draft: false
-image: large-italian-meatballs.png
+image: large-italian-meatballs.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

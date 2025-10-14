@@ -7,7 +7,7 @@ ogDescription: "Crunchy cucumber ribbons, creamy avocado, crumbled feta tossed w
 focusKeyphrase: "Cucumber Feta Avocado Salad"
 date: 2025-08-09
 draft: false
-image: cucumber-feta-avocado-salad.png
+image: cucumber-feta-avocado-salad.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Golden caramel buns twice-risen, sticky mess pulls with sugary s
 focusKeyphrase: "Upside-Down Caramel Buns"
 date: 2025-08-05
 draft: false
-image: upside-down-caramel-buns.png
+image: upside-down-caramel-buns.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT28M

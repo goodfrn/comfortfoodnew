@@ -7,7 +7,7 @@ ogDescription: "Enjoy a refreshing Citrus Vodka White Sangria with lemon and lim
 focusKeyphrase: "Citrus Vodka White Sangria"
 date: 2025-07-20
 draft: false
-image: citrus-vodka-sangria.png
+image: citrus-vodka-sangria.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

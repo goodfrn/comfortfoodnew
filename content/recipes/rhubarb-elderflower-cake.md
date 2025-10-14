@@ -7,7 +7,7 @@ ogDescription: "Light crumb cake meets tangy rhubarb jam and floral elderflower 
 focusKeyphrase: "Rhubarb Elderflower Cake"
 date: 2025-09-26
 draft: false
-image: rhubarb-elderflower-cake.png
+image: rhubarb-elderflower-cake.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT35M

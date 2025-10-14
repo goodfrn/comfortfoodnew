@@ -7,7 +7,7 @@ ogDescription: "Creamy cheesecake with firm graham crust, golden Oreo crunch, st
 focusKeyphrase: "Strawberry Crunch Cheesecake"
 date: 2025-10-12
 draft: false
-image: strawberry-crunch-cheesecake.png
+image: strawberry-crunch-cheesecake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H25M

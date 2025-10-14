@@ -7,7 +7,7 @@ ogDescription: "No-crust quiche layered with kale, goat cheese, roasted tomatoes
 focusKeyphrase: "Crustless spinach quiche twist"
 date: 2025-10-13
 draft: false
-image: crustless-spinach-quiche.png
+image: crustless-spinach-quiche.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT50M

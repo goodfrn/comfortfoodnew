@@ -7,7 +7,7 @@ ogDescription: "Grilled chicken, avocado slices, pineapple, and crunchy romaine 
 focusKeyphrase: "Chicken Cali Salad Remix"
 date: 2025-08-12
 draft: false
-image: chicken-cali-salad-remix.png
+image: chicken-cali-salad-remix.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT18M

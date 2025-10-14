@@ -7,7 +7,7 @@ ogDescription: "Small potatoes with tarragon and basil pesto, tossed in Dijon an
 focusKeyphrase: "herbed creamy potato salad"
 date: 2025-07-29
 draft: false
-image: herbed-creamy-potato-salad.png
+image: herbed-creamy-potato-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

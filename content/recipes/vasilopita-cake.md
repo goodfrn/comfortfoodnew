@@ -7,7 +7,7 @@ ogDescription: "Greek Vasilopita Cake swapped nutmeg for cardamom. Orange zest b
 focusKeyphrase: "Vasilopita Cake"
 date: 2025-08-18
 draft: false
-image: vasilopita-cake.png
+image: vasilopita-cake.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT55M

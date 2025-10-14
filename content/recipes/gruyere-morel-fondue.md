@@ -7,7 +7,7 @@ ogDescription: "Earthy morels soaked in white wine, stirred into melty gruyère 
 focusKeyphrase: "Gruyère Morel Fondue"
 date: 2025-08-11
 draft: false
-image: gruyere-morel-fondue.png
+image: gruyere-morel-fondue.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

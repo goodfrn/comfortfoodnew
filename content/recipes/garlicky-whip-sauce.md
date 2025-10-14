@@ -7,7 +7,7 @@ ogDescription: "Garlicky Whip Sauce thickens like mayo. Blend garlic then drizzl
 focusKeyphrase: "garlicky whip sauce"
 date: 2025-08-04
 draft: false
-image: garlicky-whip-sauce.png
+image: garlicky-whip-sauce.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT8M

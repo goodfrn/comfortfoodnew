@@ -7,7 +7,7 @@ ogDescription: "Red wine sangria, elderflower liqueur in place of orange, lemon-
 focusKeyphrase: "Fruity Twist Sangria"
 date: 2025-09-28
 draft: false
-image: fruity-twist-sangria.png
+image: fruity-twist-sangria.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

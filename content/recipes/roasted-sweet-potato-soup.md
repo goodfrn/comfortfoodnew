@@ -7,7 +7,7 @@ ogDescription: "Enjoy Roasted Sweet Potato Soup with layered yogurts and savory 
 focusKeyphrase: "Roasted Sweet Potato Soup"
 date: 2025-07-21
 draft: false
-image: roasted-sweet-potato-soup.png
+image: roasted-sweet-potato-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

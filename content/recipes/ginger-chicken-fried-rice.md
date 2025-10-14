@@ -7,7 +7,7 @@ ogDescription: "Juicy chicken cubes stir-fried with mushrooms, bean sprouts, and
 focusKeyphrase: "Ginger Chicken Fried Rice"
 date: 2025-09-24
 draft: false
-image: ginger-chicken-fried-rice.png
+image: ginger-chicken-fried-rice.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT22M

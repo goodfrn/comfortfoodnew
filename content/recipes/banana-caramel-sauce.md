@@ -7,7 +7,7 @@ ogDescription: "Caramelizing brown sugar to amber, adding banana and nuts, then 
 focusKeyphrase: "Banana Caramel Sauce"
 date: 2025-09-23
 draft: false
-image: banana-caramel-sauce.png
+image: banana-caramel-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

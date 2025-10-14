@@ -7,7 +7,7 @@ ogDescription: "Chewy bars stacking peanut butter, chocolate chips, pretzels. Go
 focusKeyphrase: "Salty Sweet Monster Bars"
 date: 2025-10-14
 draft: false
-image: salty-sweet-monster-bars.png
+image: salty-sweet-monster-bars.jpg
 author: "Emma"
 prepTime: PT16M
 cookTime: PT27M

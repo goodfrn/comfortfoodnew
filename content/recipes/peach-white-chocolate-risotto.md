@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked arborio rice bathed in warm milk and cream, folded w
 focusKeyphrase: "Peach White Chocolate Risotto"
 date: 2025-09-20
 draft: false
-image: peach-white-chocolate-risotto.png
+image: peach-white-chocolate-risotto.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H5M

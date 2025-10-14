@@ -7,7 +7,7 @@ ogDescription: "Warm butter swirls lemon zest, chunks of lobster tossed just rig
 focusKeyphrase: "Hot Lobster Rolls"
 date: 2025-10-03
 draft: false
-image: hot-lobster-rolls.png
+image: hot-lobster-rolls.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT3M

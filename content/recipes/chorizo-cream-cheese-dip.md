@@ -7,7 +7,7 @@ ogDescription: "Chorizo dip layered with cream cheese, sour cream, chorizo, seed
 focusKeyphrase: "Chorizo Cream Cheese Dip"
 date: 2025-09-29
 draft: false
-image: chorizo-cream-cheese-dip.png
+image: chorizo-cream-cheese-dip.jpg
 author: "Emma"
 prepTime: PT13M
 cookTime: PT6M

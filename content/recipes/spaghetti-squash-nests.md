@@ -7,7 +7,7 @@ ogDescription: "Egg nests baked with spaghetti squash strands, sharp cheddar, an
 focusKeyphrase: "Spaghetti Squash Egg Nests"
 date: 2025-10-09
 draft: false
-image: spaghetti-squash-nests.png
+image: spaghetti-squash-nests.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT35M

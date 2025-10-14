@@ -7,7 +7,7 @@ ogDescription: "Indulge in Crunchy Peanut Caramel Bars. A delightful sweet and s
 focusKeyphrase: "Crunchy Peanut Caramel Bars"
 date: 2025-07-24
 draft: false
-image: crunchy-peanut-caramel-bars.png
+image: crunchy-peanut-caramel-bars.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

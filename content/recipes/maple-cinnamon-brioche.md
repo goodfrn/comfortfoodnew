@@ -7,7 +7,7 @@ ogDescription: "Savor the taste of Maple Cinnamon Brioche Rolls. Soft dough, ric
 focusKeyphrase: "Maple Cinnamon Brioche Rolls"
 date: 2025-07-20
 draft: false
-image: maple-cinnamon-brioche.png
+image: maple-cinnamon-brioche.jpg
 author: "Emma"
 prepTime: PT1H20M
 cookTime: PT25M

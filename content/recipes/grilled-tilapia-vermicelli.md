@@ -7,7 +7,7 @@ ogDescription: "Grilled tilapia bathed in pineapple juice, with bright salsa tos
 focusKeyphrase: "Grilled Tilapia Pineapple Vermicelli"
 date: 2025-08-03
 draft: false
-image: grilled-tilapia-vermicelli.png
+image: grilled-tilapia-vermicelli.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT12M

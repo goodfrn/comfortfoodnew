@@ -7,7 +7,7 @@ ogDescription: "Smoky grilled chicken meets crisp rapinis and charred tomatoes. 
 focusKeyphrase: "Red Bean Rapini Chicken Salad"
 date: 2025-07-30
 draft: false
-image: red-bean-rapini-chicken.png
+image: red-bean-rapini-chicken.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

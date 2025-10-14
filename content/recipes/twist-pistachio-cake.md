@@ -7,7 +7,7 @@ ogDescription: "Twist Pistachio Cake showcases nutty delights. Praline crunch, a
 focusKeyphrase: "Twist Pistachio Cake"
 date: 2025-07-24
 draft: false
-image: twist-pistachio-cake.png
+image: twist-pistachio-cake.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT50M

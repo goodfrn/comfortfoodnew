@@ -7,7 +7,7 @@ ogDescription: "Crunchy asparagus, yolks mashed with lemon yogurt, romaine tosse
 focusKeyphrase: "Smoked Trout Mimosa Salad"
 date: 2025-07-29
 draft: false
-image: smoked-trout-mimosa-salad.png
+image: smoked-trout-mimosa-salad.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT15M

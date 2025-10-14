@@ -7,7 +7,7 @@ ogDescription: "Indulge in Moroccan Lamb and Legume Soup. A flavorful mix of ten
 focusKeyphrase: "Moroccan Lamb and Legume Soup"
 date: 2025-07-15
 draft: false
-image: moroccan-lamb-soup.png
+image: moroccan-lamb-soup.jpg
 author: "Emma Kitchen"
 prepTime: PT30M
 cookTime: PT115M

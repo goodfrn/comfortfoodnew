@@ -7,7 +7,7 @@ ogDescription: "Old-fashioned sugar pie flipped in jars. Brown sugar, custard, f
 focusKeyphrase: "Sugar Pie in Jars"
 date: 2025-09-27
 draft: false
-image: sugar-pie-in-jars.png
+image: sugar-pie-in-jars.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT30M

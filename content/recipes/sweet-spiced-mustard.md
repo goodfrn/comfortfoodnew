@@ -7,7 +7,7 @@ ogDescription: "Sweet mustard with fennel and turmeric simmered slow. Vegan, glu
 focusKeyphrase: "Sweet Spiced Mustard"
 date: 2025-07-28
 draft: false
-image: sweet-spiced-mustard.png
+image: sweet-spiced-mustard.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT25M

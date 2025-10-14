@@ -7,7 +7,7 @@ ogDescription: "Chunky cookie dough meets soft vanilla ice cream. Fold gently, f
 focusKeyphrase: "cookie scoop ice cream"
 date: 2025-09-25
 draft: false
-image: cookie-scoop-ice-cream.png
+image: cookie-scoop-ice-cream.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

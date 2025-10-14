@@ -7,7 +7,7 @@ ogDescription: "Quick creamy polenta made dairy-free with veggie broth, nutritio
 focusKeyphrase: "creamy quick polenta"
 date: 2025-08-09
 draft: false
-image: creamy-quick-polenta.png
+image: creamy-quick-polenta.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT12M

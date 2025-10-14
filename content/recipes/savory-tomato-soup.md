@@ -7,7 +7,7 @@ ogDescription: "Enjoy a warm Savory Tomato Soup with roasted red peppers and bas
 focusKeyphrase: "Savory Tomato Soup"
 date: 2025-07-16
 draft: false
-image: savory-tomato-soup.png
+image: savory-tomato-soup.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT35M

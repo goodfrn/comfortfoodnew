@@ -7,7 +7,7 @@ ogDescription: "Try Vonnassienne Potato Crêpes, a unique twist on pancakes. Per
 focusKeyphrase: "Vonnassienne Potato Crêpes"
 date: 2025-07-16
 draft: false
-image: vonnassienne-potato-crepes.png
+image: vonnassienne-potato-crepes.jpg
 author: "Emma Kitchen"
 prepTime: PT18M
 cookTime: PT25M

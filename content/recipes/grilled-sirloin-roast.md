@@ -7,7 +7,7 @@ ogDescription: "Enjoy a flavorful Grilled Sirloin Roast with spices and creamy p
 focusKeyphrase: "Grilled Sirloin Roast"
 date: 2025-07-20
 draft: false
-image: grilled-sirloin-roast.png
+image: grilled-sirloin-roast.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT28M

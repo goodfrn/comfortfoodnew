@@ -7,7 +7,7 @@ ogDescription: "Create delicious cookies from a jar. Whole wheat, cranberries, a
 focusKeyphrase: "Jar Cookie Mix"
 date: 2025-07-24
 draft: false
-image: jar-cookie-mix.png
+image: jar-cookie-mix.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

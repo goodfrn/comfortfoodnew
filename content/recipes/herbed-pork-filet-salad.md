@@ -7,7 +7,7 @@ ogDescription: "Juicy pork seared crust with vibrant herb pasta salad; basil swa
 focusKeyphrase: "Herbed Pork Filet Pasta Salad"
 date: 2025-08-06
 draft: false
-image: herbed-pork-filet-salad.png
+image: herbed-pork-filet-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Roasted marrow bones crackle, savory broth clear with mousse lig
 focusKeyphrase: "Beef Cappuccino with Parsnip Mousse"
 date: 2025-08-15
 draft: false
-image: beef-cappuccino-parsnip-mousse.png
+image: beef-cappuccino-parsnip-mousse.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H35M

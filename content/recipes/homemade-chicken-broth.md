@@ -7,7 +7,7 @@ ogDescription: "Slow-simmered chicken broth with thyme, rosemary, star anise ins
 focusKeyphrase: "homemade chicken broth"
 date: 2025-07-30
 draft: false
-image: homemade-chicken-broth.png
+image: homemade-chicken-broth.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H35M

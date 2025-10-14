@@ -7,7 +7,7 @@ ogDescription: "Spicy Crispy Stuffed Eggs. Creamy, crispy, and packed with flavo
 focusKeyphrase: "Spicy Crispy Stuffed Eggs"
 date: 2025-07-16
 draft: false
-image: spicy-crispy-stuffed-eggs.png
+image: spicy-crispy-stuffed-eggs.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT50M

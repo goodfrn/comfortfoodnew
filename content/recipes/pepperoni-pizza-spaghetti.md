@@ -7,7 +7,7 @@ ogDescription: "Layers of spaghetti, rich sauce, gooey mozzarella and crisp pepp
 focusKeyphrase: "Pepperoni Pizza Spaghetti Bake"
 date: 2025-10-11
 draft: false
-image: pepperoni-pizza-spaghetti.png
+image: pepperoni-pizza-spaghetti.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

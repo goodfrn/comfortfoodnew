@@ -7,7 +7,7 @@ ogDescription: "Roast portabella caps filled with cheesy, herby polenta mix. War
 focusKeyphrase: "Stuffed portabella mushrooms"
 date: 2025-10-12
 draft: false
-image: stuffed-portabella-mushrooms.png
+image: stuffed-portabella-mushrooms.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT17M

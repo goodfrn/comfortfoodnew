@@ -7,7 +7,7 @@ ogDescription: "Bright mango with lime juice, agave sweetness, churned to creamy
 focusKeyphrase: "Mango Lime Sorbet"
 date: 2025-09-27
 draft: false
-image: mango-lime-sorbet.png
+image: mango-lime-sorbet.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT22M

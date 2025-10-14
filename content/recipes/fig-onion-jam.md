@@ -7,7 +7,7 @@ ogDescription: "Indulge in Fig Onion Jam Mix, a sweet and tangy blend perfect fo
 focusKeyphrase: "Fig Onion Jam"
 date: 2025-07-24
 draft: false
-image: fig-onion-jam.png
+image: fig-onion-jam.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

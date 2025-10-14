@@ -7,7 +7,7 @@ ogDescription: "Bold shrimp grilled fast, brushed with herbed garlic butter, smo
 focusKeyphrase: "Grilled Garlic Butter Shrimp"
 date: 2025-09-28
 draft: false
-image: grilled-garlic-butter-shrimp.png
+image: grilled-garlic-butter-shrimp.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT11M

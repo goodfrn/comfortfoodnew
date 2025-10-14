@@ -7,7 +7,7 @@ ogDescription: "Silky coconut custard with lime zest and toasted coconut. Arrowr
 focusKeyphrase: "Coconut Flan Twist"
 date: 2025-09-27
 draft: false
-image: coconut-flan-twist.png
+image: coconut-flan-twist.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

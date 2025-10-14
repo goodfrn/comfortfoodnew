@@ -7,7 +7,7 @@ ogDescription: "Celebrate with a Chocolate Yule Log, layered with orange-infused
 focusKeyphrase: "Chocolate Yule Log"
 date: 2025-07-18
 draft: false
-image: chocolate-yule-log.png
+image: chocolate-yule-log.jpg
 author: "Emma"
 prepTime: PT32M
 cookTime: PT7M

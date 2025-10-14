@@ -7,7 +7,7 @@ ogDescription: "Airy cheddar omelette folds with maple popcorn crunch; herbs cut
 focusKeyphrase: "Souffle Cheddar Omelette Maple Popcorn"
 date: 2025-08-12
 draft: false
-image: souffle-cheddar-omelette.png
+image: souffle-cheddar-omelette.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

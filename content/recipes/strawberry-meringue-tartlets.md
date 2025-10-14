@@ -7,7 +7,7 @@ ogDescription: "Mini tartlets with flaky pastry and juicy strawberry filling thi
 focusKeyphrase: "Strawberry Meringue Tartlets"
 date: 2025-08-08
 draft: false
-image: strawberry-meringue-tartlets.png
+image: strawberry-meringue-tartlets.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT35M

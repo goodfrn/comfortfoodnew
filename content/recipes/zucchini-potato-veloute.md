@@ -7,7 +7,7 @@ ogDescription: "Light zucchini potato velouté with sautéed aromatics, pureed c
 focusKeyphrase: "Zucchini Potato Velouté"
 date: 2025-09-27
 draft: false
-image: zucchini-potato-veloute.png
+image: zucchini-potato-veloute.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT25M

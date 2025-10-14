@@ -7,7 +7,7 @@ ogDescription: "Bright fizz with smoky grapefruit and piney rosemary. Gin reduce
 focusKeyphrase: "Sparkling Gin Grapefruit Twist"
 date: 2025-08-03
 draft: false
-image: sparkling-gin-grapefruit-twist.png
+image: sparkling-gin-grapefruit-twist.jpg
 author: "Emma"
 prepTime: PT8M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Bitter dark chocolate meets sticky honey caramel and nutty brown
 focusKeyphrase: "Dark Chocolate Sea Salt Tart"
 date: 2025-08-05
 draft: false
-image: dark-chocolate-sea-salt-tart.png
+image: dark-chocolate-sea-salt-tart.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT30M

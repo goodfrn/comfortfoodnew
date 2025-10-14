@@ -7,7 +7,7 @@ ogDescription: "Low heat, long simmer. Beef tenderizes while chickpeas soften ju
 focusKeyphrase: "Beef Stew with Chickpeas"
 date: 2025-09-05
 draft: false
-image: beef-stew-with-chickpeas.png
+image: beef-stew-with-chickpeas.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT7H30M

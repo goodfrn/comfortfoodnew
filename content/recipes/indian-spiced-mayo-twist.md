@@ -7,7 +7,7 @@ ogDescription: "Creamy mayo blend with smoked paprika, fresh cilantro, cumin, an
 focusKeyphrase: "Indian-Spiced Mayo"
 date: 2025-08-08
 draft: false
-image: indian-spiced-mayo-twist.png
+image: indian-spiced-mayo-twist.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT8M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy ribbons of zucchini and asparagus, tender grilled eggpla
 focusKeyphrase: "Veggie Naan Flatbreads"
 date: 2025-08-06
 draft: false
-image: veggie-naan-flatbreads.png
+image: veggie-naan-flatbreads.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT10M

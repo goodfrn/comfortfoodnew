@@ -7,7 +7,7 @@ ogDescription: "Garlic softens low and slow. Poached eggs wobble on raclette toa
 focusKeyphrase: "Provencal Garlic Egg Soup"
 date: 2025-08-06
 draft: false
-image: provencal-garlic-egg-soup.png
+image: provencal-garlic-egg-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

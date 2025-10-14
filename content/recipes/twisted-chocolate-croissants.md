@@ -7,7 +7,7 @@ ogDescription: "Simplified croissants with molten dark chocolate, honey-orange g
 focusKeyphrase: "Twisted Chocolate Croissants"
 date: 2025-08-10
 draft: false
-image: twisted-chocolate-croissants.png
+image: twisted-chocolate-croissants.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

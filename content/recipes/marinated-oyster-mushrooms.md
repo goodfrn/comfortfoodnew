@@ -7,7 +7,7 @@ ogDescription: "Pearl onions sweat slow in olive oil. Mushrooms sizzle golden, t
 focusKeyphrase: "marinated oyster mushrooms and pearl onions"
 date: 2025-09-24
 draft: false
-image: marinated-oyster-mushrooms.png
+image: marinated-oyster-mushrooms.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT27M

@@ -7,7 +7,7 @@ ogDescription: "Moist pear upside-down spice cake with chewy caramel bits, star 
 focusKeyphrase: "pear upside-down spice cake"
 date: 2025-08-12
 draft: false
-image: pear-upside-down-cake.png
+image: pear-upside-down-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT65M

@@ -7,7 +7,7 @@ ogDescription: "Roast pork filets seared to crust, rested for juiciness. Three s
 focusKeyphrase: "Roast pork filets"
 date: 2025-08-04
 draft: false
-image: roast-pork-filets.png
+image: roast-pork-filets.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT19M

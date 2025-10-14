@@ -7,7 +7,7 @@ ogDescription: "Crunchy edges, tender pear compote caramelized golden. Gluten-fr
 focusKeyphrase: "Caramelized pear hand pies"
 date: 2025-08-13
 draft: false
-image: caramelized-pear-hand-pies.png
+image: caramelized-pear-hand-pies.jpg
 author: "Emma"
 prepTime: PT60M
 cookTime: PT25M

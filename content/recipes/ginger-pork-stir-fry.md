@@ -7,7 +7,7 @@ ogDescription: "Quick marinated pork with turmeric, honey, and lime. Flash-seare
 focusKeyphrase: "Ginger Pork Stir-fry"
 date: 2025-08-10
 draft: false
-image: ginger-pork-stir-fry.png
+image: ginger-pork-stir-fry.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

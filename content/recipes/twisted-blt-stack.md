@@ -7,7 +7,7 @@ ogDescription: "Crunchy romaine, smoky pancetta, creamy avocado, toasted ciabatt
 focusKeyphrase: "Twisted BLT Stack"
 date: 2025-08-10
 draft: false
-image: twisted-blt-stack.png
+image: twisted-blt-stack.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

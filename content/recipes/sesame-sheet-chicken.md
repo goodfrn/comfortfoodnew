@@ -7,7 +7,7 @@ ogDescription: "Crunchy roasted broccoli and peppers with juicy chicken thighs i
 focusKeyphrase: "Sesame Sheet Chicken Veggies"
 date: 2025-10-12
 draft: false
-image: sesame-sheet-chicken.png
+image: sesame-sheet-chicken.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT22M

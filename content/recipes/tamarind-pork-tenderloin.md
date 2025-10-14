@@ -7,7 +7,7 @@ ogDescription: "Grilled pork tenderloin marinated in tamarind, honey, pineapple 
 focusKeyphrase: "Tamarind pork tenderloin"
 date: 2025-08-14
 draft: false
-image: tamarind-pork-tenderloin.png
+image: tamarind-pork-tenderloin.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT22M

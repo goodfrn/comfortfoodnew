@@ -7,7 +7,7 @@ ogDescription: "Slow-simmered black-eyed peas with smoky meat, creole spices, an
 focusKeyphrase: "Spicy Creole Peas"
 date: 2025-10-06
 draft: false
-image: spicy-creole-peas.png
+image: spicy-creole-peas.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT1H15M

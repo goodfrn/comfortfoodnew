@@ -7,7 +7,7 @@ ogDescription: "Layers of roasted root veg, chewy barley, crispy tofu with smoky
 focusKeyphrase: "Tofu Barley Veg Bowls"
 date: 2025-08-06
 draft: false
-image: tofu-barley-veg-bowls.png
+image: tofu-barley-veg-bowls.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Baked pineapple and blueberry layered under crumbly cake mix top
 focusKeyphrase: "Pineapple Blueberry Crisp"
 date: 2025-10-08
 draft: false
-image: pineapple-blueberry-crisp.png
+image: pineapple-blueberry-crisp.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT38M

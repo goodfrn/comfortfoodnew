@@ -7,7 +7,7 @@ ogDescription: "Whip airy milk chocolate mousse done right. Coconut cream, maple
 focusKeyphrase: "Milk Chocolate Mousse Remix"
 date: 2025-08-11
 draft: false
-image: milk-chocolate-mousse.png
+image: milk-chocolate-mousse.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT3M

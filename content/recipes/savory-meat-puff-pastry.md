@@ -7,7 +7,7 @@ ogDescription: "Juicy browned pork mixed with wilted spinach and crunchy walnuts
 focusKeyphrase: "Savory Meat Puff Pastry"
 date: 2025-08-14
 draft: false
-image: savory-meat-puff-pastry.png
+image: savory-meat-puff-pastry.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H20M

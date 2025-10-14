@@ -7,7 +7,7 @@ ogDescription: "Zesty Carrot Ginger Rum. Fresh carrot puree + rum + ginger syrup
 focusKeyphrase: "Carrot Ginger Rum"
 date: 2025-07-25
 draft: false
-image: carrot-ginger-rum.png
+image: carrot-ginger-rum.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "6-step cheat sheet: elbow macaroni, broth, arrowroot, quick pres
 focusKeyphrase: "Instant Pot mac and cheese"
 date: 2025-10-11
 draft: false
-image: instant-pot-mac-cheese.png
+image: instant-pot-mac-cheese.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT14M

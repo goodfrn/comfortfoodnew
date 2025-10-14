@@ -7,7 +7,7 @@ ogDescription: "Crunchy beer batter coats tender cod chunks fried in hot oil. Ga
 focusKeyphrase: "beer battered fish fry"
 date: 2025-10-01
 draft: false
-image: beer-battered-fish-fry.png
+image: beer-battered-fish-fry.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT16M

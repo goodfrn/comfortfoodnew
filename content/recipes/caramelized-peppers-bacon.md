@@ -7,7 +7,7 @@ ogDescription: "Savor Caramelized Peppers Pancetta, smoky bacon, sweet peppers, 
 focusKeyphrase: "Caramelized Peppers Pancetta"
 date: 2025-07-16
 draft: false
-image: caramelized-peppers-bacon.png
+image: caramelized-peppers-bacon.jpg
 author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT15M

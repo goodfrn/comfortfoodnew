@@ -7,7 +7,7 @@ ogDescription: "Tender quails browned crisp roasted atop caramel pears. Warm cin
 focusKeyphrase: "spiced quail and pears"
 date: 2025-07-29
 draft: false
-image: spiced-quail-pears.png
+image: spiced-quail-pears.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

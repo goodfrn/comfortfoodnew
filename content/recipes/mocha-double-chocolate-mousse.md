@@ -7,7 +7,7 @@ ogDescription: "Layered mocha mousse pairing white chocolate espresso with dark 
 focusKeyphrase: "Mocha Double Chocolate Mousse"
 date: 2025-08-06
 draft: false
-image: mocha-double-chocolate-mousse.png
+image: mocha-double-chocolate-mousse.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

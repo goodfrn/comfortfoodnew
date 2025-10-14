@@ -7,7 +7,7 @@ ogDescription: "Bite-sized cookies layered with rich caramel and glossy chocolat
 focusKeyphrase: "Twix Style Cookies"
 date: 2025-10-12
 draft: false
-image: twix-style-cookies.png
+image: twix-style-cookies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT14M

@@ -7,7 +7,7 @@ ogDescription: "Gin replaces vodka. Fresh cranberry juice, Cointreau swaps tripl
 focusKeyphrase: "Twist on Cosmopolitan"
 date: 2025-09-26
 draft: false
-image: twist-on-cosmopolitan.png
+image: twist-on-cosmopolitan.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Savory tofu scramble with serrano heat, smoky spices, fresh toma
 focusKeyphrase: "Mexican tofu scramble"
 date: 2025-08-13
 draft: false
-image: mexican-tofu-scramble.png
+image: mexican-tofu-scramble.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT15M

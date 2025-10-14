@@ -7,7 +7,7 @@ ogDescription: "Layered vanilla cake with peanut chocolate fudge, salted caramel
 focusKeyphrase: "Caramel Popcorn Peanut Cake"
 date: 2025-08-19
 draft: false
-image: caramel-popcorn-peanut-cake.png
+image: caramel-popcorn-peanut-cake.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT50M

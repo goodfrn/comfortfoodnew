@@ -7,7 +7,7 @@ ogDescription: "Smoky spice rub on white fish, creamy carrot purée, quick blanc
 focusKeyphrase: "spiced roasted white fish"
 date: 2025-09-27
 draft: false
-image: spiced-roasted-fish.png
+image: spiced-roasted-fish.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT28M

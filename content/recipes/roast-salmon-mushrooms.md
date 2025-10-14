@@ -7,7 +7,7 @@ ogDescription: "Enjoy Roast Salmon Mushrooms Orange Twist with rich mushrooms an
 focusKeyphrase: "Roast Salmon Mushrooms Orange Twist"
 date: 2025-07-19
 draft: false
-image: roast-salmon-mushrooms.png
+image: roast-salmon-mushrooms.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

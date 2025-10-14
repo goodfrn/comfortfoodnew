@@ -7,7 +7,7 @@ ogDescription: "Stack thick watermelon slices with tomatoes, basil, mint, feta i
 focusKeyphrase: "Watermelon Tomato Basil Feta"
 date: 2025-08-19
 draft: false
-image: watermelon-tomato-salad.png
+image: watermelon-tomato-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

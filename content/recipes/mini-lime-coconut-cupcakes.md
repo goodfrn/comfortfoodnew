@@ -7,7 +7,7 @@ ogDescription: "Bite into mini cupcakes with fluffy coconut cream frosting, toas
 focusKeyphrase: "mini lime coconut cupcakes"
 date: 2025-08-16
 draft: false
-image: mini-lime-coconut-cupcakes.png
+image: mini-lime-coconut-cupcakes.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "White Moscato, cherries, rum, and tropical pineapple juice mix w
 focusKeyphrase: "Cherry Citrus Punch"
 date: 2025-07-28
 draft: false
-image: cherry-citrus-punch.png
+image: cherry-citrus-punch.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT20M

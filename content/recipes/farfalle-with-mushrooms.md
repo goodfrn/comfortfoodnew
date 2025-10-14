@@ -7,7 +7,7 @@ ogDescription: "Crunchy oven-pancetta meets mushrooms browned to golden, cream a
 focusKeyphrase: "farfalle with mushrooms and pancetta"
 date: 2025-08-18
 draft: false
-image: farfalle-with-mushrooms.png
+image: farfalle-with-mushrooms.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

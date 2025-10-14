@@ -7,7 +7,7 @@ ogDescription: "Spicy-sweet pork, cool avocado, tangy pickled veggies on fluffy 
 focusKeyphrase: "Korean pork rice bowls"
 date: 2025-08-15
 draft: false
-image: korean-pork-rice-bowls.png
+image: korean-pork-rice-bowls.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

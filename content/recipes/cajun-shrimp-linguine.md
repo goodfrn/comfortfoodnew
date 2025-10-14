@@ -7,7 +7,7 @@ ogDescription: "Shrimp seared fast, creamy roasted red pepper sauce, linguine to
 focusKeyphrase: "Cajun Shrimp Linguine"
 date: 2025-08-17
 draft: false
-image: cajun-shrimp-linguine.png
+image: cajun-shrimp-linguine.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

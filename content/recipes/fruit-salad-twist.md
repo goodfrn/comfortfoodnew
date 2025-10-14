@@ -7,7 +7,7 @@ ogDescription: "Fruit Salad Twist fresh berries pineapple maple syrup tangy lime
 focusKeyphrase: "Fruit Salad Twist"
 date: 2025-07-17
 draft: false
-image: fruit-salad-twist.png
+image: fruit-salad-twist.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT0M

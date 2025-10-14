@@ -7,7 +7,7 @@ ogDescription: "Chunky chili with mashed beans and smoky aubergine. Bread bowl f
 focusKeyphrase: "Hearty Veg Chili"
 date: 2025-08-15
 draft: false
-image: hearty-veg-chili.png
+image: hearty-veg-chili.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT55M

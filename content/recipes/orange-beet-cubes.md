@@ -7,7 +7,7 @@ ogDescription: "Cubed beets slowly simmered then sautéed in coconut oil with sh
 focusKeyphrase: "orange beet cubes"
 date: 2025-08-04
 draft: false
-image: orange-beet-cubes.png
+image: orange-beet-cubes.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT1H15M

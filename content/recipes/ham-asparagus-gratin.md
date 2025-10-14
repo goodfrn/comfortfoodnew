@@ -7,7 +7,7 @@ ogDescription: "Grilled asparagus mixed with smoky ham, creamy sauce thickened w
 focusKeyphrase: "Ham Asparagus Gratin"
 date: 2025-08-05
 draft: false
-image: ham-asparagus-gratin.png
+image: ham-asparagus-gratin.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

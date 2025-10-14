@@ -7,7 +7,7 @@ ogDescription: "Yeast bread layered with cranberry-orange syrup, dark chocolate 
 focusKeyphrase: "Chocolate Cranberry Ginger Pull-Apart"
 date: 2025-07-26
 draft: false
-image: chocolate-cranberry-ginger-pull-apart.png
+image: chocolate-cranberry-ginger-pull-apart.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Aromatic Spiced Turkey Roast with Carrots combines melding flavo
 focusKeyphrase: "spiced turkey roast"
 date: 2025-07-19
 draft: false
-image: spiced-turkey-roast.png
+image: spiced-turkey-roast.jpg
 author: "Emma"
 prepTime: PT65M
 cookTime: PT1H35M

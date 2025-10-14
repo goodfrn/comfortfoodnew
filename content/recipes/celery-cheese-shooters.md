@@ -7,7 +7,7 @@ ogDescription: "Sharp cheddar and Monterey Jack melted in shooters, topped with 
 focusKeyphrase: "Celery Cheese Shooters"
 date: 2025-08-03
 draft: false
-image: celery-cheese-shooters.png
+image: celery-cheese-shooters.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Tender orzo with thawed peas, chopped apricots, and nuts in must
 focusKeyphrase: "Orzo Salad with Peas and Apricots"
 date: 2025-08-19
 draft: false
-image: orzo-salad-with-peas.png
+image: orzo-salad-with-peas.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

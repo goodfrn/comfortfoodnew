@@ -7,7 +7,7 @@ ogDescription: "Roasted feta and tomatoes with fusilli, garlic, basil, and olive
 focusKeyphrase: "baked feta tomato pasta"
 date: 2025-08-16
 draft: false
-image: feta-tomato-fusilli-bake.png
+image: feta-tomato-fusilli-bake.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT35M

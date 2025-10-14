@@ -7,7 +7,7 @@ ogDescription: "Try these Cheese Croquettes Remix with ricotta and smoked mozzar
 focusKeyphrase: "Cheese Croquettes"
 date: 2025-07-23
 draft: false
-image: cheese-croquettes-remix.png
+image: cheese-croquettes-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

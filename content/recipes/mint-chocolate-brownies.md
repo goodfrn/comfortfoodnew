@@ -7,7 +7,7 @@ ogDescription: "Chocolate brownies topped with fresh mint buttercream and shiny 
 focusKeyphrase: "mint chocolate brownies"
 date: 2025-10-13
 draft: false
-image: mint-chocolate-brownies.png
+image: mint-chocolate-brownies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT42M

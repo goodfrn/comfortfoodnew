@@ -7,7 +7,7 @@ ogDescription: "Savory tart with olive oil crust, goat cheese, fresh tarragon an
 focusKeyphrase: "Savory Cherry Tomato Tart"
 date: 2025-07-30
 draft: false
-image: savory-cherry-tomato-tart.png
+image: savory-cherry-tomato-tart.jpg
 author: "Emma"
 prepTime: PT33M
 cookTime: PT30M

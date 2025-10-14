@@ -7,7 +7,7 @@ ogDescription: "Nutty muffins packed with apples, blueberries, almond meal, and 
 focusKeyphrase: "Apple Blueberry Almond Muffins"
 date: 2025-07-29
 draft: false
-image: apple-blueberry-muffins.png
+image: apple-blueberry-muffins.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

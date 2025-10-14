@@ -7,7 +7,7 @@ ogDescription: "Layered smoked ham, eggs, creamy avocado, crisp cucumber, fresh 
 focusKeyphrase: "Ham Egg Herb Sandwiches"
 date: 2025-07-28
 draft: false
-image: ham-egg-herb-sandwiches.png
+image: ham-egg-herb-sandwiches.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

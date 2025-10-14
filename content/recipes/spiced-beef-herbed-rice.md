@@ -7,7 +7,7 @@ ogDescription: "Enjoy a quick, hearty Spiced Beef with Herbed Rice that combines
 focusKeyphrase: "Spiced Beef with Herbed Rice"
 date: 2025-07-23
 draft: false
-image: spiced-beef-herbed-rice.png
+image: spiced-beef-herbed-rice.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Red wine thyme bavette steak with double fried fries and shallot
 focusKeyphrase: "Bavette Shallot Sauce Fries"
 date: 2025-08-02
 draft: false
-image: bavette-shallot-sauce-fries.png
+image: bavette-shallot-sauce-fries.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT20M

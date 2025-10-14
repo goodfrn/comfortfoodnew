@@ -7,7 +7,7 @@ ogDescription: "Experience Roman Chicory Salad. Crunchy chicory with anchovies a
 focusKeyphrase: "Roman Chicory Salad"
 date: 2025-07-15
 draft: false
-image: roman-chicory-salad.png
+image: roman-chicory-salad.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT15M

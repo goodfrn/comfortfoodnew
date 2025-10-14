@@ -7,7 +7,7 @@ ogDescription: "Sharp lime and ginger meet fresh oysters topped with mint-chive 
 focusKeyphrase: "Ginger Lime Mignonette Oysters"
 date: 2025-07-27
 draft: false
-image: oysters-with-ginger-lime.png
+image: oysters-with-ginger-lime.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

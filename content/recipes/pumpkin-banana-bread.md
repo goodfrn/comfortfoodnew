@@ -7,7 +7,7 @@ ogDescription: "Dense banana pumpkin bread with cardamom, toasted nuts, moist cr
 focusKeyphrase: "Pumpkin Banana Bread"
 date: 2025-10-12
 draft: false
-image: pumpkin-banana-bread.png
+image: pumpkin-banana-bread.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT1H20M

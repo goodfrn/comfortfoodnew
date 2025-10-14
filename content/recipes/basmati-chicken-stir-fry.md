@@ -7,7 +7,7 @@ ogDescription: "Enjoy Basmati Chicken Stir-Fry, a quick and flavorful mix of chi
 focusKeyphrase: "Basmati Chicken Stir-Fry"
 date: 2025-07-21
 draft: false
-image: basmati-chicken-stir-fry.png
+image: basmati-chicken-stir-fry.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT43M

@@ -7,7 +7,7 @@ ogDescription: "Three-layer chocolate cake with peanut butter frosting plus silk
 focusKeyphrase: "Chocolate Peanut Butter Cake"
 date: 2025-10-11
 draft: false
-image: chocolate-peanut-butter-cake.png
+image: chocolate-peanut-butter-cake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT23M

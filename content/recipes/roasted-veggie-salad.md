@@ -7,7 +7,7 @@ ogDescription: "Crunchy roasted carrots, broccolini, and beans topped with ricot
 focusKeyphrase: "Roasted Veggie Salad Feta Twist"
 date: 2025-08-18
 draft: false
-image: roasted-veggie-salad.png
+image: roasted-veggie-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

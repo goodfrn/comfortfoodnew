@@ -7,7 +7,7 @@ ogDescription: "Bite into layered chicken, pancetta, crisp bread, and romaine wi
 focusKeyphrase: "Mini Chicken Caesar Bites"
 date: 2025-08-05
 draft: false
-image: mini-chicken-caesar-bites.png
+image: mini-chicken-caesar-bites.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT18M

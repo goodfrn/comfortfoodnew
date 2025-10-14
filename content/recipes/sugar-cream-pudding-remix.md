@@ -7,7 +7,7 @@ ogDescription: "Discover the cozy warmth of Sugar Cream Pudding Remix, a delicio
 focusKeyphrase: "Sugar Cream Pudding Remix"
 date: 2025-07-16
 draft: false
-image: sugar-cream-pudding-remix.png
+image: sugar-cream-pudding-remix.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT50M

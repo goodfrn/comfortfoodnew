@@ -7,7 +7,7 @@ ogDescription: "Crunchy cinnamon-spiced pretzels tossed in butter and sugar mix.
 focusKeyphrase: "cinnamon sugar pretzels"
 date: 2025-10-10
 draft: false
-image: cinnamon-sugar-pretzels.png
+image: cinnamon-sugar-pretzels.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT28M

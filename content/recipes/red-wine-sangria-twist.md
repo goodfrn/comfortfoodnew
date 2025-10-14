@@ -7,7 +7,7 @@ ogDescription: "Bright citrusy red sangria with fresh fruit, cinnamon, and mello
 focusKeyphrase: "Red Wine Sangria Twist"
 date: 2025-09-28
 draft: false
-image: red-wine-sangria-twist.png
+image: red-wine-sangria-twist.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT4M

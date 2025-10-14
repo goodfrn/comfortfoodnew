@@ -7,7 +7,7 @@ ogDescription: "Crunchy cheesy churros with bold sharp cheddar inside and salty 
 focusKeyphrase: "Cheesy Churros Twist"
 date: 2025-08-08
 draft: false
-image: cheesy-churros-twist.png
+image: cheesy-churros-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT42M

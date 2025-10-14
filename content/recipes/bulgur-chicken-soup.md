@@ -7,7 +7,7 @@ ogDescription: "Spiced chicken, bulgur, fennel, chickpeas in tomato broth rich w
 focusKeyphrase: "Bulgur Chicken Soup"
 date: 2025-09-25
 draft: false
-image: bulgur-chicken-soup.png
+image: bulgur-chicken-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

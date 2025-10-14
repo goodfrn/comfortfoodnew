@@ -7,7 +7,7 @@ ogDescription: "Discover the Stuffed Grape Leaves Twist with veal, fresh tomatoe
 focusKeyphrase: "stuffed grape leaves"
 date: 2025-07-19
 draft: false
-image: stuffed-grape-leaves.png
+image: stuffed-grape-leaves.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT35M

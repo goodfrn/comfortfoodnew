@@ -7,7 +7,7 @@ ogDescription: "Two 22 cm subs stacked with Genoa and Calabrese salamis, provolo
 focusKeyphrase: "Dual Salamis Sub Twist"
 date: 2025-08-02
 draft: false
-image: dual-salamis-sub-twist.png
+image: dual-salamis-sub-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT0M

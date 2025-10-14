@@ -7,7 +7,7 @@ ogDescription: "Hard-boiled eggs soaked in spicy, smoky tomato-vinegar mix with 
 focusKeyphrase: "spiced pickled eggs"
 date: 2025-08-08
 draft: false
-image: spiced-pickled-eggs.png
+image: spiced-pickled-eggs.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT6M

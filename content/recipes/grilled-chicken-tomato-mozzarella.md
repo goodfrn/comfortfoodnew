@@ -7,7 +7,7 @@ ogDescription: "Thin-cut chicken grilled fast with smoky spices. Topped with chu
 focusKeyphrase: "grilled chicken tomato mozzarella"
 date: 2025-08-19
 draft: false
-image: grilled-chicken-tomato-mozzarella.png
+image: grilled-chicken-tomato-mozzarella.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

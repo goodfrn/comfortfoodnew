@@ -7,7 +7,7 @@ ogDescription: "Chewy wild rice meets smoky grilled pork, crisp peppers, and nut
 focusKeyphrase: "wild rice salad with grilled pork"
 date: 2025-08-08
 draft: false
-image: wild-rice-salad-pork.png
+image: wild-rice-salad-pork.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

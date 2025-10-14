@@ -7,7 +7,7 @@ ogDescription: "Shake fresh herbs, honey, and mustard with olive oil for a vinai
 focusKeyphrase: "herb vinaigrette"
 date: 2025-10-12
 draft: false
-image: herb-vinaigrette-remix.png
+image: herb-vinaigrette-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

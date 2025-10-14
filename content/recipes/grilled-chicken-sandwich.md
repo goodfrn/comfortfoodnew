@@ -7,7 +7,7 @@ ogDescription: "Chicken thighs grilled to caramelized edges, scallions blackened
 focusKeyphrase: "Grilled chicken thighs scallion sauce"
 date: 2025-08-15
 draft: false
-image: grilled-chicken-sandwich.png
+image: grilled-chicken-sandwich.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT17M

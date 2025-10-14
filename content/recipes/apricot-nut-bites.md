@@ -7,7 +7,7 @@ ogDescription: "Enjoy Apricot Nut Bites. Dried apricots coated in chocolate. Cru
 focusKeyphrase: "Apricot Nut Bites"
 date: 2025-07-16
 draft: false
-image: apricot-nut-bites.png
+image: apricot-nut-bites.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT10M

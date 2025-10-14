@@ -7,7 +7,7 @@ ogDescription: "Savor Chicken Tagliatelle with Olives and Preserved Lemon. Spice
 focusKeyphrase: "Chicken Tagliatelle"
 date: 2025-07-23
 draft: false
-image: chicken-tagliatelle.png
+image: chicken-tagliatelle.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT40M

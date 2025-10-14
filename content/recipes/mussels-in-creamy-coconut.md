@@ -7,7 +7,7 @@ ogDescription: "Tender mussels cooked in a fragrant coconut broth with lemongras
 focusKeyphrase: "Mussels in Creamy Coconut"
 date: 2025-08-19
 draft: false
-image: mussels-in-creamy-coconut.png
+image: mussels-in-creamy-coconut.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT18M

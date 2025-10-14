@@ -7,7 +7,7 @@ ogDescription: "Soft milk buns lifted by lemon juice and avocado oil. Twice rise
 focusKeyphrase: "Tangy milk buns"
 date: 2025-09-26
 draft: false
-image: tangy-milk-buns.png
+image: tangy-milk-buns.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT30M

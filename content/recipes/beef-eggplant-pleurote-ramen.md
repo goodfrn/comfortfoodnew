@@ -7,7 +7,7 @@ ogDescription: "Hearty ramen bowl with lean beef, pleurotes crisped to golden, s
 focusKeyphrase: "Beef Eggplant Pleurote Ramen"
 date: 2025-09-24
 draft: false
-image: beef-eggplant-pleurote-ramen.png
+image: beef-eggplant-pleurote-ramen.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

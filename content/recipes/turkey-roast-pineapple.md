@@ -7,7 +7,7 @@ ogDescription: "Juicy turkey breast dry-brined in pineapple juice, spiced with s
 focusKeyphrase: "Turkey roast with pineapple"
 date: 2025-08-08
 draft: false
-image: turkey-roast-pineapple.png
+image: turkey-roast-pineapple.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT2H20M

@@ -7,7 +7,7 @@ ogDescription: "Hearty cabbage rolls simmered in tomato juice, ground beef filli
 focusKeyphrase: "stuffed cabbage rolls"
 date: 2025-10-02
 draft: false
-image: rustic-stuffed-cabbage-rolls.png
+image: rustic-stuffed-cabbage-rolls.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

@@ -7,7 +7,7 @@ ogDescription: "Dense apple cake baked on a maple-glazed bed, tart Granny Smith,
 focusKeyphrase: "Maple Glazed Upside-Down Apple Cake"
 date: 2025-08-02
 draft: false
-image: maple-glazed-apple-cake.png
+image: maple-glazed-apple-cake.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT1H25M

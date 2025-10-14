@@ -7,7 +7,7 @@ ogDescription: "Crunchy celery root and honeycrisp mix with micro arugula. Sharp
 focusKeyphrase: "Fennel Green Apple Salad"
 date: 2025-09-28
 draft: false
-image: fennel-green-apple-salad.png
+image: fennel-green-apple-salad.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

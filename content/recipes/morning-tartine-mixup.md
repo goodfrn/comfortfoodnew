@@ -7,7 +7,7 @@ ogDescription: "Five tartine ideas from crunchy peanut to sharp apple cheddar. T
 focusKeyphrase: "Morning Tartine Mixup"
 date: 2025-08-08
 draft: false
-image: morning-tartine-mixup.png
+image: morning-tartine-mixup.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT5M

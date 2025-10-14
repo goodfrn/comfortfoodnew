@@ -7,7 +7,7 @@ ogDescription: "Grapes slowly simmered in honey-lemon syrup until translucent an
 focusKeyphrase: "fresh raisins in syrup"
 date: 2025-09-25
 draft: false
-image: fresh-raisins-in-syrup.png
+image: fresh-raisins-in-syrup.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT27M

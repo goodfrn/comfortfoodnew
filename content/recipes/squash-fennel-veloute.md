@@ -7,7 +7,7 @@ ogDescription: "Velvety butternut squash and fennel cooked slow, spiced with sta
 focusKeyphrase: "Squash Fennel Velouté"
 date: 2025-08-27
 draft: false
-image: squash-fennel-veloute.png
+image: squash-fennel-veloute.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

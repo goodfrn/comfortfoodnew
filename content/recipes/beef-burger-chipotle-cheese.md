@@ -7,7 +7,7 @@ ogDescription: "Enjoy our Beef Burger with Chipotle Cheese. Packed with flavor, 
 focusKeyphrase: "Beef Burger with Chipotle Cheese"
 date: 2025-07-15
 draft: false
-image: beef-burger-chipotle-cheese.png
+image: beef-burger-chipotle-cheese.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT30M

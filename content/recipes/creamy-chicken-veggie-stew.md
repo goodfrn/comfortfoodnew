@@ -7,7 +7,7 @@ ogDescription: "Boneless chicken thighs browned in butter with chunky Yukon pota
 focusKeyphrase: "Creamy Chicken Veggie Stew"
 date: 2025-07-29
 draft: false
-image: creamy-chicken-veggie-stew.png
+image: creamy-chicken-veggie-stew.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT45M

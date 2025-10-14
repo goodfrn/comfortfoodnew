@@ -7,7 +7,7 @@ ogDescription: "Quick maple cream tart with crisp puff pastry lattice, tapioca-t
 focusKeyphrase: "Maple Lattice Tart Twist"
 date: 2025-08-15
 draft: false
-image: maple-lattice-tart.png
+image: maple-lattice-tart.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT40M

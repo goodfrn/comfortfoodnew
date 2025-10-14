@@ -7,7 +7,7 @@ ogDescription: "Sear veal medallions pink; roast asparagus and potatoes. Layer f
 focusKeyphrase: "veal medallions with fresh tomatoes"
 date: 2025-08-15
 draft: false
-image: veal-medallions-tomatoes.png
+image: veal-medallions-tomatoes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Golden pork meatballs meet a velvety mushroom cream sauce thicke
 focusKeyphrase: "Pork meatballs with mushroom sauce"
 date: 2025-08-16
 draft: false
-image: pork-meatballs-mushroom-sauce.png
+image: pork-meatballs-mushroom-sauce.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT1H10M

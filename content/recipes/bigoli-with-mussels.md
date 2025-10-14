@@ -7,7 +7,7 @@ ogDescription: "Savor Bigoli with mussels and caramelized onions. A refreshing a
 focusKeyphrase: "Bigoli with mussels"
 date: 2025-07-16
 draft: false
-image: bigoli-with-mussels.png
+image: bigoli-with-mussels.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT25M

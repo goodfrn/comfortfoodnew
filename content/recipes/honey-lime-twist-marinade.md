@@ -7,7 +7,7 @@ ogDescription: "Maple-sweetened lime marinade with shallots and soy sauce. Chill
 focusKeyphrase: "Honey Lime Twist Marinade"
 date: 2025-08-06
 draft: false
-image: honey-lime-twist-marinade.png
+image: honey-lime-twist-marinade.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

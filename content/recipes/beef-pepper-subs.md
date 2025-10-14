@@ -7,7 +7,7 @@ ogDescription: "Sautéed peppers and onions, browned ground beef, and melted che
 focusKeyphrase: "Beef Pepper Subs"
 date: 2025-09-26
 draft: false
-image: beef-pepper-subs.png
+image: beef-pepper-subs.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT22M

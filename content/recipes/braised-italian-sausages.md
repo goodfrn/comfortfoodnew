@@ -7,7 +7,7 @@ ogDescription: "Sausages seared to crust, simmered in red wine and broth, thick 
 focusKeyphrase: "Braised Italian sausages red wine"
 date: 2025-08-09
 draft: false
-image: braised-italian-sausages.png
+image: braised-italian-sausages.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

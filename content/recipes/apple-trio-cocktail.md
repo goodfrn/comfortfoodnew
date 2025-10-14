@@ -7,7 +7,7 @@ ogDescription: "Apple Trio Cocktail. Sharp apple vermouth, pear brandy warmth, s
 focusKeyphrase: "Apple Trio Cocktail"
 date: 2025-08-11
 draft: false
-image: apple-trio-cocktail.png
+image: apple-trio-cocktail.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

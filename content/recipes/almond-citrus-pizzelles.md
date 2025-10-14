@@ -7,7 +7,7 @@ ogDescription: "Crunchy Italian pizzelles using hazelnut flour and lemon zest. W
 focusKeyphrase: "Almond Citrus Pizzelles"
 date: 2025-08-17
 draft: false
-image: almond-citrus-pizzelles.png
+image: almond-citrus-pizzelles.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

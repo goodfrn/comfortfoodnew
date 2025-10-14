@@ -7,7 +7,7 @@ ogDescription: "Crunchy gluten-free crumble topping covers bubbling strawberries
 focusKeyphrase: "gluten-free strawberry rhubarb crisp"
 date: 2025-09-28
 draft: false
-image: gluten-free-strawberry-rhubarb-crisp.png
+image: gluten-free-strawberry-rhubarb-crisp.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

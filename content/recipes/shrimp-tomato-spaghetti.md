@@ -7,7 +7,7 @@ ogDescription: "Pan-seared shrimp meet juicy tomatoes, pine nuts, and creamy avo
 focusKeyphrase: "Shrimp Tomato Spaghetti"
 date: 2025-08-14
 draft: false
-image: shrimp-tomato-spaghetti.png
+image: shrimp-tomato-spaghetti.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

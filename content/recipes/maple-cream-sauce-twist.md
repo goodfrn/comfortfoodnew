@@ -7,7 +7,7 @@ ogDescription: "Indulge in a rich Maple Cream Sauce Twist. This sauce combines h
 focusKeyphrase: "Maple Cream Sauce"
 date: 2025-07-21
 draft: false
-image: maple-cream-sauce-twist.png
+image: maple-cream-sauce-twist.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Cold espresso hits vanilla-coffee ice cream. Whipped cream stiff
 focusKeyphrase: "Iced Coffee Delight"
 date: 2025-07-27
 draft: false
-image: iced-coffee-delight.png
+image: iced-coffee-delight.jpg
 author: "Emma"
 prepTime: PT9M
 cookTime: PT5M

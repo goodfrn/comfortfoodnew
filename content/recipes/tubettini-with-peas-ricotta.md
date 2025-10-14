@@ -7,7 +7,7 @@ ogDescription: "Short pasta simmers slow in broth wine fades peas last minute. R
 focusKeyphrase: "Tubettini with peas and ricotta"
 date: 2025-08-13
 draft: false
-image: tubettini-with-peas-ricotta.png
+image: tubettini-with-peas-ricotta.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Layer thin oil films on cast iron, bake at 360°F upside down wi
 focusKeyphrase: "cast iron seasoning"
 date: 2025-10-13
 draft: false
-image: cast-iron-seasoning-remix.png
+image: cast-iron-seasoning-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT1H5M

@@ -7,7 +7,7 @@ ogDescription: "Raisins soaked in brandy, citrus bursts, toasted almonds meet lo
 focusKeyphrase: "Carnival Fritters Twist"
 date: 2025-09-25
 draft: false
-image: carnival-fritters-twist.png
+image: carnival-fritters-twist.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT25M

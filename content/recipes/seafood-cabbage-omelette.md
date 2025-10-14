@@ -7,7 +7,7 @@ ogDescription: "Enjoy a flavorful Seafood Cabbage Omelette with shrimp and savor
 focusKeyphrase: "Seafood Cabbage Omelette"
 date: 2025-07-20
 draft: false
-image: seafood-cabbage-omelette.png
+image: seafood-cabbage-omelette.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

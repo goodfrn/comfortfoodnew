@@ -7,7 +7,7 @@ ogDescription: "Chewy black rice, caramelized tofu, crisp apples tossed in curry
 focusKeyphrase: "Black Rice Tofu Apple Salad"
 date: 2025-09-27
 draft: false
-image: black-rice-tofu-salad.png
+image: black-rice-tofu-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H

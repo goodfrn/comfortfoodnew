@@ -7,7 +7,7 @@ ogDescription: "Grill till charred skins crack, garlic simmered low in olive oil
 focusKeyphrase: "Smoky Marinated Veggies"
 date: 2025-08-19
 draft: false
-image: smoky-marinated-veggies.png
+image: smoky-marinated-veggies.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT35M

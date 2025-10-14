@@ -7,7 +7,7 @@ ogDescription: "Sear steaks fast, toss mushrooms and peppers in bright tomato sa
 focusKeyphrase: "Carne alla Pizzaiola"
 date: 2025-10-14
 draft: false
-image: twisted-carne-pizzaiola.png
+image: twisted-carne-pizzaiola.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT22M

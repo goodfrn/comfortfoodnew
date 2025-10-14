@@ -7,7 +7,7 @@ ogDescription: "Fudgy, chilled dough, thick slices bake to crackly tops and soft
 focusKeyphrase: "Frozen Chocolate Chip Cookies"
 date: 2025-09-28
 draft: false
-image: frozen-chocolate-chip-cookies.png
+image: frozen-chocolate-chip-cookies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT13M

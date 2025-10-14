@@ -7,7 +7,7 @@ ogDescription: "Crunchy fried eggplant slices, creamy boiled eggs, fresh salsa, 
 focusKeyphrase: "Egg and eggplant pita"
 date: 2025-08-06
 draft: false
-image: egg-eggplant-pita.png
+image: egg-eggplant-pita.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

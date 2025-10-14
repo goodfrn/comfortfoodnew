@@ -7,7 +7,7 @@ ogDescription: "Layered scones with cinnamon and ginger. Butter chunks, folding 
 focusKeyphrase: "Cinnamon Layered Scones"
 date: 2025-08-14
 draft: false
-image: flaky-cinnamon-scones.png
+image: flaky-cinnamon-scones.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT15M

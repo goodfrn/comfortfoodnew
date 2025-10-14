@@ -7,7 +7,7 @@ ogDescription: "Creamy mascarpone crab dip with smoky paprika and fresh herbs; b
 focusKeyphrase: "hot crab dip"
 date: 2025-08-07
 draft: false
-image: hot-crab-dip-remix.png
+image: hot-crab-dip-remix.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Roasted sweet potato and fluffy quinoa mix with tangy goat chees
 focusKeyphrase: "Sweet Potato Taboulé Twist"
 date: 2025-08-17
 draft: false
-image: sweet-potato-taboule.png
+image: sweet-potato-taboule.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

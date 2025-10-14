@@ -7,7 +7,7 @@ ogDescription: "Enjoy Lemon Sundae Tart a layered dessert with lemon custard, ic
 focusKeyphrase: "Lemon Sundae Tart"
 date: 2025-07-23
 draft: false
-image: lemon-sundae-tart.png
+image: lemon-sundae-tart.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

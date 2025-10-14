@@ -7,7 +7,7 @@ ogDescription: "Skillet shrimp tossed with peppers, snap peas, carrots, glazed i
 focusKeyphrase: "teriyaki shrimp stir-fry"
 date: 2025-10-05
 draft: false
-image: twisted-teriyaki-shrimp.png
+image: twisted-teriyaki-shrimp.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT18M

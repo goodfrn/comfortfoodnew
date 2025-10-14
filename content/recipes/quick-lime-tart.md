@@ -7,7 +7,7 @@ ogDescription: "Sharp lime flavor custard with airy texture. Graham crust crunch
 focusKeyphrase: "Lime curd tart"
 date: 2025-09-28
 draft: false
-image: quick-lime-tart.png
+image: quick-lime-tart.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT38M

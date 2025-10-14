@@ -7,7 +7,7 @@ ogDescription: "Gentle seafood broth with lobster, bass; white chocolate melts o
 focusKeyphrase: "lobster white chocolate soup"
 date: 2025-09-26
 draft: false
-image: lobster-white-chocolate-soup.png
+image: lobster-white-chocolate-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT12M

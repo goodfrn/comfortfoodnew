@@ -7,7 +7,7 @@ ogDescription: "Spicy, smoky jalapeño poppers wrapped in crisp phyllo with panc
 focusKeyphrase: "Jalapeño Pastry Poppers"
 date: 2025-07-25
 draft: false
-image: savory-jalapeno-pastry-poppers.png
+image: savory-jalapeno-pastry-poppers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

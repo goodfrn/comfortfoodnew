@@ -7,7 +7,7 @@ ogDescription: "Tender babka, dark chocolate chunks, espresso depth. Sticky doug
 focusKeyphrase: "Chocolate Swirl Babka"
 date: 2025-08-16
 draft: false
-image: chocolate-swirled-babka.png
+image: chocolate-swirled-babka.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

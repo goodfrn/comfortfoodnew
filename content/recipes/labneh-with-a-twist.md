@@ -7,7 +7,7 @@ ogDescription: "Tangy kefir labneh, drained slow. Sea salt, za’atar topping, s
 focusKeyphrase: "kefir labneh"
 date: 2025-08-10
 draft: false
-image: labneh-with-a-twist.png
+image: labneh-with-a-twist.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT23H

@@ -7,7 +7,7 @@ ogDescription: "Cheese tortellini cooked in broth with leek and smoky bacon. Cre
 focusKeyphrase: "Twisted Cheese Tortellini"
 date: 2025-07-27
 draft: false
-image: twisted-cheese-tortellini.png
+image: twisted-cheese-tortellini.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT18M

@@ -7,7 +7,7 @@ ogDescription: "Chilled coconut milk ice cream meets hot espresso and spiced rum
 focusKeyphrase: "Vanilla Rum Affogato"
 date: 2025-08-13
 draft: false
-image: vanilla-rum-affogato.png
+image: vanilla-rum-affogato.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT10M

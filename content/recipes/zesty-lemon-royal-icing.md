@@ -7,7 +7,7 @@ ogDescription: "Egg-free lemon royal icing whipped fast from aquafaba. Light sug
 focusKeyphrase: "Zesty Lemon Royal Icing"
 date: 2025-08-07
 draft: false
-image: zesty-lemon-royal-icing.png
+image: zesty-lemon-royal-icing.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

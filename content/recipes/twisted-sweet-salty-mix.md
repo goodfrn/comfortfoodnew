@@ -7,7 +7,7 @@ ogDescription: "Crunchy nuts, tropical fruit bits, white chocolate melded with a
 focusKeyphrase: "sweet salty nut mix"
 date: 2025-08-14
 draft: false
-image: twisted-sweet-salty-mix.png
+image: twisted-sweet-salty-mix.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT3M

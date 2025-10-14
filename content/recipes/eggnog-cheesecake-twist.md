@@ -7,7 +7,7 @@ ogDescription: "Dense cheesecake with speculoos crust, orange liqueur, warming s
 focusKeyphrase: "Eggnog Cheesecake Twist"
 date: 2025-08-16
 draft: false
-image: eggnog-cheesecake-twist.png
+image: eggnog-cheesecake-twist.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H10M

@@ -7,7 +7,7 @@ ogDescription: "Bright corn black bean salad with fresh herbs, tangy maple dress
 focusKeyphrase: "Corn Black Bean Salad"
 date: 2025-08-19
 draft: false
-image: corn-black-bean-salad.png
+image: corn-black-bean-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT10M

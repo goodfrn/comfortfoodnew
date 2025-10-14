@@ -7,7 +7,7 @@ ogDescription: "Savor Sausage Pepper Pasta Twist with rich flavors. Perfect blen
 focusKeyphrase: "Sausage Pepper Pasta"
 date: 2025-07-17
 draft: false
-image: sausage-pepper-pasta.png
+image: sausage-pepper-pasta.jpg
 author: "Emma Kitchen"
 prepTime: PT20M
 cookTime: PT30M

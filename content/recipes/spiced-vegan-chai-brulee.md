@@ -7,7 +7,7 @@ ogDescription: "Indulge in Spiced Vegan Chai Crème Brûlée—a creamy, spiced 
 focusKeyphrase: "Spiced Vegan Chai Crème Brûlée"
 date: 2025-07-19
 draft: false
-image: spiced-vegan-chai-brulee.png
+image: spiced-vegan-chai-brulee.jpg
 author: "Emma"
 prepTime: PT14M
 cookTime: PT42M

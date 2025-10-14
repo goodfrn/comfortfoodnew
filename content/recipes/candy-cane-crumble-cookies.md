@@ -7,7 +7,7 @@ ogDescription: "Crunchy edges with tender centers. Peppermint shards rolled outs
 focusKeyphrase: "Candy Cane Crumble Cookies"
 date: 2025-08-17
 draft: false
-image: candy-cane-crumble-cookies.png
+image: candy-cane-crumble-cookies.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

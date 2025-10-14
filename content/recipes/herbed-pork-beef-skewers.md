@@ -7,7 +7,7 @@ ogDescription: "Grill alternating pork and beef cubes coated in chunky herb salt
 focusKeyphrase: "Herbed Pork Beef Skewers"
 date: 2025-08-14
 draft: false
-image: herbed-pork-beef-skewers.png
+image: herbed-pork-beef-skewers.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT10M

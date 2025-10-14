@@ -7,7 +7,7 @@ ogDescription: "Whisk egg yolk, Dijon, garlic. Drizzle oils slow. Lemon cuts sha
 focusKeyphrase: "saffron aioli"
 date: 2025-09-27
 draft: false
-image: saffron-aioli-twist.png
+image: saffron-aioli-twist.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Enjoy savory Maple Pork Belly Tart with flaky crust and deliciou
 focusKeyphrase: "Maple Pork Belly Tart"
 date: 2025-07-17
 draft: false
-image: maple-pork-belly-tart.png
+image: maple-pork-belly-tart.jpg
 author: "Emma Kitchen"
 prepTime: PT30M
 cookTime: PT55M

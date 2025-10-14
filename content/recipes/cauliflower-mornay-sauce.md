@@ -7,7 +7,7 @@ ogDescription: "Mildly sweet shallots, glossy roux, sharp cheddar melting slowly
 focusKeyphrase: "Cauliflower Mornay Sauce"
 date: 2025-09-28
 draft: false
-image: cauliflower-mornay-sauce.png
+image: cauliflower-mornay-sauce.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT16M

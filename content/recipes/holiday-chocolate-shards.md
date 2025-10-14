@@ -7,7 +7,7 @@ ogDescription: "White and dark chocolate mingle, candy canes add crunch. Chill. 
 focusKeyphrase: "Holiday Chocolate Shards"
 date: 2025-07-24
 draft: false
-image: holiday-chocolate-shards.png
+image: holiday-chocolate-shards.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT6M

@@ -7,7 +7,7 @@ ogDescription: "Quick napa cabbage salad with spicy gochugaru, nutty sesame, bri
 focusKeyphrase: "Tangy Kimchi Salad Toss"
 date: 2025-09-26
 draft: false
-image: tangy-kimchi-salad.png
+image: tangy-kimchi-salad.jpg
 author: "Emma"
 prepTime: PT27M
 cookTime: PT0M

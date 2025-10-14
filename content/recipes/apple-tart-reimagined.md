@@ -7,7 +7,7 @@ ogDescription: "Fuji and Granny Smith apples, brown sugar caramel, nutmeg warmth
 focusKeyphrase: "Apple Tart Reimagined"
 date: 2025-08-01
 draft: false
-image: apple-tart-reimagined.png
+image: apple-tart-reimagined.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT40M

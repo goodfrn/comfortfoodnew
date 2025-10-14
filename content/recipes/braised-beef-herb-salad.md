@@ -7,7 +7,7 @@ ogDescription: "Pressure braised beef, layers of umami from fish sauce and soy. 
 focusKeyphrase: "pressure cooker braised beef"
 date: 2025-08-02
 draft: false
-image: braised-beef-herb-salad.png
+image: braised-beef-herb-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H20M

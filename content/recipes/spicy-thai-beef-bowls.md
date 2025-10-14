@@ -7,7 +7,7 @@ ogDescription: "Experience the burst of flavors with Spicy Thai Beef Bowls, feat
 focusKeyphrase: "Spicy Thai Beef Bowls"
 date: 2025-07-21
 draft: false
-image: spicy-thai-beef-bowls.png
+image: spicy-thai-beef-bowls.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT15M

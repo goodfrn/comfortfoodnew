@@ -7,7 +7,7 @@ ogDescription: "Enjoy a punchy blend of miso and ginger in this Spiced Miso Ging
 focusKeyphrase: "Spiced Miso Ginger Chicken"
 date: 2025-07-19
 draft: false
-image: spiced-miso-ginger-chicken.png
+image: spiced-miso-ginger-chicken.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

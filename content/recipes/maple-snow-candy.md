@@ -7,7 +7,7 @@ ogDescription: "Try Maple Snow Candy with grapefruit syrup. Fun winter treat tha
 focusKeyphrase: "Maple Snow Candy"
 date: 2025-07-25
 draft: false
-image: maple-snow-candy.png
+image: maple-snow-candy.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT12M

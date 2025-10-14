@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spicy Tomato Salsa and Tangy Cabbage Slaw. A unique twist 
 focusKeyphrase: "Spicy Tomato Salsa"
 date: 2025-07-21
 draft: false
-image: spicy-tomato-salsa.png
+image: spicy-tomato-salsa.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

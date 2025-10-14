@@ -7,7 +7,7 @@ ogDescription: "Dense fudgy brownies with mascarpone swirl and lime zest. Watch 
 focusKeyphrase: "red velvet brownies"
 date: 2025-08-07
 draft: false
-image: altered-red-velvet-brownies.png
+image: altered-red-velvet-brownies.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT30M

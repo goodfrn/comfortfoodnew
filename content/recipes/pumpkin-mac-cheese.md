@@ -7,7 +7,7 @@ ogDescription: "Macaroni folded with pumpkin puree and pie spice, layered with s
 focusKeyphrase: "Pumpkin Mac Cheese"
 date: 2025-10-12
 draft: false
-image: pumpkin-mac-cheese.png
+image: pumpkin-mac-cheese.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT55M

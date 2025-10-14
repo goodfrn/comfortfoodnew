@@ -7,7 +7,7 @@ ogDescription: "Smoky turkey, red beans, and basmati rice cooked slow in bean so
 focusKeyphrase: "Sticky Rice Agrikol Style"
 date: 2025-07-27
 draft: false
-image: sticky-rice-agrikol-style.png
+image: sticky-rice-agrikol-style.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT28M

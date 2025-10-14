@@ -7,7 +7,7 @@ ogDescription: "Enjoy this comforting Warm Chicken and Sweet Potato Salad with c
 focusKeyphrase: "Warm Chicken and Sweet Potato Salad"
 date: 2025-07-15
 draft: false
-image: warm-chicken-sweet-potato-salad.png
+image: warm-chicken-sweet-potato-salad.jpg
 author: "Emma Kitchen"
 prepTime: PT25M
 cookTime: PT20M

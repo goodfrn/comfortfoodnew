@@ -7,7 +7,7 @@ ogDescription: "Cold blend of Greek yogurt and coconut cream churned slow till c
 focusKeyphrase: "Vanilla Frozen Yogurt"
 date: 2025-08-12
 draft: false
-image: vanilla-frozen-yogurt-remix.png
+image: vanilla-frozen-yogurt-remix.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

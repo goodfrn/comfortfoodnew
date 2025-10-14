@@ -7,7 +7,7 @@ ogDescription: "Smoky sausage, pink shrimp, Creole spices mingle in one pot. Caj
 focusKeyphrase: "Sausage Shrimp Jambalaya"
 date: 2025-10-08
 draft: false
-image: sausage-shrimp-jambalaya.png
+image: sausage-shrimp-jambalaya.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT33M

@@ -7,7 +7,7 @@ ogDescription: "White Bean Shrimp Salad featuring smoky shrimp, crispy bacon, vi
 focusKeyphrase: "White Bean Shrimp Salad"
 date: 2025-07-24
 draft: false
-image: white-bean-shrimp-salad.png
+image: white-bean-shrimp-salad.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT15M

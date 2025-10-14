@@ -7,7 +7,7 @@ ogDescription: "Roast root vegetables and green beans with sharp cheddar, cheese
 focusKeyphrase: "veggie poutine"
 date: 2025-08-06
 draft: false
-image: veggie-poutine-twist.png
+image: veggie-poutine-twist.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT50M

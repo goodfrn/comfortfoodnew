@@ -7,7 +7,7 @@ ogDescription: "Crunchy tofu sticks coated in rice cereal crumbs, fried golden b
 focusKeyphrase: "crispy tofu sticks"
 date: 2025-09-27
 draft: false
-image: crispy-tofu-sticks.png
+image: crispy-tofu-sticks.jpg
 author: "Emma"
 prepTime: PT27M
 cookTime: PT9M

@@ -7,7 +7,7 @@ ogDescription: "Layers of vanilla sponge, raspberry mascarpone filling, white ch
 focusKeyphrase: "Icy White Chocolate Raspberry Cake"
 date: 2025-07-30
 draft: false
-image: icy-white-chocolate-cake.png
+image: icy-white-chocolate-cake.jpg
 author: "Emma"
 prepTime: PT80M
 cookTime: PT15M

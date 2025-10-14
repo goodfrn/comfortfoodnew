@@ -7,7 +7,7 @@ ogDescription: "Crunchy shrimp bites fold in garlic and paprika. Lime mayo zests
 focusKeyphrase: "shrimp fritters lime mayo"
 date: 2025-09-03
 draft: false
-image: shrimp-fritters-lime-mayo.png
+image: shrimp-fritters-lime-mayo.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Layered peanut butter chocolate sundae with no-churn ice creams,
 focusKeyphrase: "Peanut Butter Chocolate Sundae"
 date: 2025-08-03
 draft: false
-image: peanut-butter-chocolate-sundae.png
+image: peanut-butter-chocolate-sundae.jpg
 author: "Emma"
 prepTime: PT70M
 cookTime: PT15M

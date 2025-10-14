@@ -7,7 +7,7 @@ ogDescription: "Fresh lemon swaps balsamic in herbaceous vinaigrette. Honey swee
 focusKeyphrase: "Balsamic Herb Vinaigrette"
 date: 2025-07-28
 draft: false
-image: balsamic-herb-vinaigrette.png
+image: balsamic-herb-vinaigrette.jpg
 author: "Emma"
 prepTime: PT3M
 cookTime: PT0M

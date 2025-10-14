@@ -7,7 +7,7 @@ ogDescription: "Crisp endive leaves filled with chunky eggs, smoky pancetta, cru
 focusKeyphrase: "Stuffed Endives with Eggs Bacon"
 date: 2025-09-12
 draft: false
-image: stuffed-endives-with-eggs.png
+image: stuffed-endives-with-eggs.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

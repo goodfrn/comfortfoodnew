@@ -7,7 +7,7 @@ ogDescription: "Spicy Noodle Salad Pork Skewers. Bold flavors from grilled pork 
 focusKeyphrase: "spicy noodle salad pork skewers"
 date: 2025-07-22
 draft: false
-image: spicy-noodle-salad.png 
+image: spicy-noodle-salad.jpg 
 author: "Emma"
 prepTime: PT1H15M
 cookTime: PT15M

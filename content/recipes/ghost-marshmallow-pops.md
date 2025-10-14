@@ -7,7 +7,7 @@ ogDescription: "Soft ghost-shaped marshmallow pops with almond scent, golden syr
 focusKeyphrase: "Ghost Marshmallow Pops"
 date: 2025-07-29
 draft: false
-image: ghost-marshmallow-pops.png
+image: ghost-marshmallow-pops.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT3M

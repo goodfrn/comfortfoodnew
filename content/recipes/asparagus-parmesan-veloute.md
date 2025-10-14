@@ -7,7 +7,7 @@ ogDescription: "Velouté with tender asparagus, aged Parmesan, poached eggs on t
 focusKeyphrase: "Asparagus Parmesan Velouté"
 date: 2025-08-10
 draft: false
-image: asparagus-parmesan-veloute.png
+image: asparagus-parmesan-veloute.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT35M

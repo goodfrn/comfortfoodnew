@@ -7,7 +7,7 @@ ogDescription: "Moist Lego-inspired loaf cakes shaped and frosted in bright gels
 focusKeyphrase: "Lego Block Cake"
 date: 2025-09-25
 draft: false
-image: lego-block-cake-remix.png
+image: lego-block-cake-remix.jpg
 author: "Emma"
 prepTime: PT1H20M
 cookTime: PT45M

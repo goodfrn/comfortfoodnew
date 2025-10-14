@@ -7,7 +7,7 @@ ogDescription: "Eggs boiled with baking soda or vinegar; timing key for jammy or
 focusKeyphrase: "hard boiled eggs"
 date: 2025-10-12
 draft: false
-image: hard-boiled-eggs-twist.png
+image: hard-boiled-eggs-twist.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT18M

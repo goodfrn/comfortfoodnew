@@ -7,7 +7,7 @@ ogDescription: "Savor these Corn Flour Savory Crêpes made with almond milk and 
 focusKeyphrase: "Corn Flour Savory Crêpes"
 date: 2025-07-18
 draft: false
-image: corn-flour-savory-crepes.png
+image: corn-flour-savory-crepes.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT12M

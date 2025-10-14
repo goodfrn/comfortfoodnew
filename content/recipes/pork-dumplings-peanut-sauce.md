@@ -7,7 +7,7 @@ ogDescription: "Delicious Pork Dumplings with a spicy peanut sauce. Packed with 
 focusKeyphrase: "Pork Dumplings"
 date: 2025-07-25
 draft: false
-image: pork-dumplings-peanut-sauce.png
+image: pork-dumplings-peanut-sauce.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

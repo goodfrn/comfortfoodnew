@@ -7,7 +7,7 @@ ogDescription: "Rich Swiss Chard Bacon Quiche with rye crust and apple cider. Ea
 focusKeyphrase: "Swiss Chard Bacon Quiche"
 date: 2025-07-21
 draft: false
-image: swiss-chard-bacon-quiche.png
+image: swiss-chard-bacon-quiche.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

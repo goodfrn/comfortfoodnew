@@ -7,7 +7,7 @@ ogDescription: "Crunchy goat cheese rounds air fried to bronze crispness; kale t
 focusKeyphrase: "Crispy Goat Cheese Salad Airfryer"
 date: 2025-08-13
 draft: false
-image: crispy-goat-cheese-salad.png
+image: crispy-goat-cheese-salad.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT11M

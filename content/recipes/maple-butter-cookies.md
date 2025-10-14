@@ -7,7 +7,7 @@ ogDescription: "Delight in Maple Butter Cookies, sweet with maple and orange zes
 focusKeyphrase: "Maple Butter Cookies"
 date: 2025-07-19
 draft: false
-image: maple-butter-cookies.png
+image: maple-butter-cookies.jpg
 author: "Emma"
 prepTime: PT70M
 cookTime: PT12M

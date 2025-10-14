@@ -7,7 +7,7 @@ ogDescription: "Meat browned then slow baked with fresh herbs, paprika for smoky
 focusKeyphrase: "baked spaghetti sauce"
 date: 2025-09-26
 draft: false
-image: baked-spaghetti-sauce.png
+image: baked-spaghetti-sauce.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

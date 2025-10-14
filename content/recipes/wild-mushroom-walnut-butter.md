@@ -7,7 +7,7 @@ ogDescription: "Earthy mushroom meets toasted walnut crunch with fresh tarragon.
 focusKeyphrase: "Wild Mushroom Walnut Butter"
 date: 2025-08-06
 draft: false
-image: wild-mushroom-walnut-butter.png
+image: wild-mushroom-walnut-butter.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT22M

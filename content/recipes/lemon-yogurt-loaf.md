@@ -7,7 +7,7 @@ ogDescription: "Discover Lemon Yogurt Loaf Plus, a zesty treat with spelt flour,
 focusKeyphrase: "Lemon Yogurt Loaf"
 date: 2025-07-18
 draft: false
-image: lemon-yogurt-loaf.png
+image: lemon-yogurt-loaf.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT40M

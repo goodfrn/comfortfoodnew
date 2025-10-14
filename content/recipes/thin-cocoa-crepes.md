@@ -7,7 +7,7 @@ ogDescription: "Light thin crepes with cocoa, coconut sugar, whole wheat flour. 
 focusKeyphrase: "Thin Cocoa Crepes"
 date: 2025-07-26
 draft: false
-image: thin-cocoa-crepes.png
+image: thin-cocoa-crepes.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT20M

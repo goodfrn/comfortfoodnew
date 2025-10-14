@@ -7,7 +7,7 @@ ogDescription: "Golden mac bites with whole wheat pasta, spinach folded in. Chee
 focusKeyphrase: "Whole Wheat Spinach Mac Bites"
 date: 2025-10-11
 draft: false
-image: whole-wheat-spinach-mac-bites.png
+image: whole-wheat-spinach-mac-bites.jpg
 author: "Emma"
 prepTime: PT17M
 cookTime: PT12M

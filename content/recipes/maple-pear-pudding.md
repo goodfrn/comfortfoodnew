@@ -7,7 +7,7 @@ ogDescription: "Tender maple-pear cake atop glossy tapioca sauce; subtle almond,
 focusKeyphrase: "Maple Pear Pudding Upside-down"
 date: 2025-08-14
 draft: false
-image: maple-pear-pudding.png
+image: maple-pear-pudding.jpg
 author: "Emma"
 prepTime: PT28M
 cookTime: PT35M

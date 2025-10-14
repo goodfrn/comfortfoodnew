@@ -7,7 +7,7 @@ ogDescription: "Hearty barley legume soup with herbs, spinach, turmeric brightne
 focusKeyphrase: "barley and legume soup"
 date: 2025-09-27
 draft: false
-image: barley-and-legume-soup.png
+image: barley-and-legume-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT1H10M

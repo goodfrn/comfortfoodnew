@@ -7,7 +7,7 @@ ogDescription: "Savor Maple Miso Pork Ribs. Tender, sticky ribs with rich flavor
 focusKeyphrase: "Maple Miso Pork Ribs"
 date: 2025-07-23
 draft: false
-image: maple-miso-pork-ribs.png
+image: maple-miso-pork-ribs.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT2H15M

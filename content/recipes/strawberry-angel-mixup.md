@@ -7,7 +7,7 @@ ogDescription: "Light, airy mix of angel food cake, strawberry gelatin, fresh be
 focusKeyphrase: "Strawberry Angel Mixup"
 date: 2025-10-05
 draft: false
-image: strawberry-angel-mixup.png
+image: strawberry-angel-mixup.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

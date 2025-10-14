@@ -7,7 +7,7 @@ ogDescription: "Fluffy rustic scones using spelt, oat flour, olive oil. Earthy r
 focusKeyphrase: "Rustic Herb Scones"
 date: 2025-07-30
 draft: false
-image: rustic-herb-scones.png
+image: rustic-herb-scones.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

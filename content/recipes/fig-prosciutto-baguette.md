@@ -7,7 +7,7 @@ ogDescription: "Layer blue cheese, figs, prosciutto, and red onion on soft butte
 focusKeyphrase: "Fig Prosciutto Baguette"
 date: 2025-09-16
 draft: false
-image: fig-prosciutto-baguette.png
+image: fig-prosciutto-baguette.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT0M

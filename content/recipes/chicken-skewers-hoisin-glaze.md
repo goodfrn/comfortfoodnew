@@ -7,7 +7,7 @@ ogDescription: "Grilled chicken thighs with hoisin glaze, zucchini and mushrooms
 focusKeyphrase: "Chicken Skewers with Hoisin Glaze"
 date: 2025-07-28
 draft: false
-image: chicken-skewers-hoisin-glaze.png
+image: chicken-skewers-hoisin-glaze.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT15M

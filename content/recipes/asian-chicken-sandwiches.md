@@ -7,7 +7,7 @@ ogDescription: "Grilled chicken layered with tangy carrot salad, peanuts or chic
 focusKeyphrase: "Asian chicken sandwiches"
 date: 2025-09-01
 draft: false
-image: asian-chicken-sandwiches.png
+image: asian-chicken-sandwiches.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT15M

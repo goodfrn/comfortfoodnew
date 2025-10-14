@@ -7,7 +7,7 @@ ogDescription: "Slow-simmer chicken thighs with barley, leeks, parsnips, fresh t
 focusKeyphrase: "chicken barley soup"
 date: 2025-08-10
 draft: false
-image: hearty-chicken-barley-soup.png
+image: hearty-chicken-barley-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

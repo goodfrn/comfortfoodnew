@@ -7,7 +7,7 @@ ogDescription: "Ramen noodles stir-fried quick with cabbage, celery. Garlic + gr
 focusKeyphrase: "Panda Styled Chow Mein"
 date: 2025-10-03
 draft: false
-image: panda-styled-chow-mein.png
+image: panda-styled-chow-mein.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT11M

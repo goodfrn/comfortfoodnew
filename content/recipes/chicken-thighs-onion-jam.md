@@ -7,7 +7,7 @@ ogDescription: "Savor the juicy Chicken Thighs with sweet onion pancetta jam. Qu
 focusKeyphrase: "Chicken Thighs with Onion Jam"
 date: 2025-07-24
 draft: false
-image: chicken-thighs-onion-jam.png
+image: chicken-thighs-onion-jam.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT30M

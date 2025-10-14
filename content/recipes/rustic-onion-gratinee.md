@@ -7,7 +7,7 @@ ogDescription: "Caramelized yellow onions slow cooked with sherry and rosemary. 
 focusKeyphrase: "Rustic Onion Gratinée"
 date: 2025-08-16
 draft: false
-image: rustic-onion-gratinee.png
+image: rustic-onion-gratinee.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT30M

@@ -7,7 +7,7 @@ ogDescription: "Bake a golden puff with tangy blueberry topping and nutty almond
 focusKeyphrase: "Soufflé Blueberry Dutch Baby"
 date: 2025-09-09
 draft: false
-image: souffle-blueberry-dutch-baby.png
+image: souffle-blueberry-dutch-baby.jpg
 author: "Emma"
 prepTime: PT16M
 cookTime: PT16M

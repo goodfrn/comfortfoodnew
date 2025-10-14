@@ -7,7 +7,7 @@ ogDescription: "Chilled parmesan spheres with toasted hemp seed crunch, tart whi
 focusKeyphrase: "parmesan cream balls"
 date: 2025-08-02
 draft: false
-image: parmesan-cream-balls.png
+image: parmesan-cream-balls.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

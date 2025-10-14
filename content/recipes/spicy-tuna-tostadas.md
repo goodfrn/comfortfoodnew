@@ -7,7 +7,7 @@ ogDescription: "Crunchy corn tostadas layered with lime-softened cabbage, chunky
 focusKeyphrase: "spicy tuna tostadas twist"
 date: 2025-08-08
 draft: false
-image: spicy-tuna-tostadas.png
+image: spicy-tuna-tostadas.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT5M

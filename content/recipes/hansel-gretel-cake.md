@@ -7,7 +7,7 @@ ogDescription: "Stacked chocolate-almond layers with a tangy cream cheese frost,
 focusKeyphrase: "Hansel Gretel Cake House"
 date: 2025-08-18
 draft: false
-image: hansel-gretel-cake.png
+image: hansel-gretel-cake.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT35M

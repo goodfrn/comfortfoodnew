@@ -7,7 +7,7 @@ ogDescription: "Waffles made with buckwheat, sunflower seeds, browned sugar cut,
 focusKeyphrase: "buckwheat sunflower seed waffles"
 date: 2025-08-13
 draft: false
-image: oat-almond-waffles.png
+image: oat-almond-waffles.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT27M

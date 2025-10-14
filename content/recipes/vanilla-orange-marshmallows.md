@@ -7,7 +7,7 @@ ogDescription: "Marble swirls of vanilla and orange gelatin marshmallows layered
 focusKeyphrase: "Vanilla Orange Marble Marshmallow"
 date: 2025-09-04
 draft: false
-image: vanilla-orange-marshmallows.png
+image: vanilla-orange-marshmallows.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT10M

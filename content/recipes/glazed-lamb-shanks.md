@@ -7,7 +7,7 @@ ogDescription: "Slow-cooked lamb shanks glazed with dark buckwheat honey, blood 
 focusKeyphrase: "Glazed Lamb Shanks"
 date: 2025-07-28
 draft: false
-image: glazed-lamb-shanks.png
+image: glazed-lamb-shanks.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H50M

@@ -7,7 +7,7 @@ ogDescription: "Simmer cherry tomatoes slowly in olive oil and lemon juice with 
 focusKeyphrase: "Quick Confited Cherry Tomatoes"
 date: 2025-08-01
 draft: false
-image: quick-confited-cherry-tomatoes.png
+image: quick-confited-cherry-tomatoes.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT15M

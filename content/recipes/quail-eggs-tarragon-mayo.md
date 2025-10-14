@@ -7,7 +7,7 @@ ogDescription: "Small quail eggs boiled 7 mins, peeled gently. Tarragon mayonnai
 focusKeyphrase: "Quail Eggs Tarragon Mayo"
 date: 2025-07-28
 draft: false
-image: quail-eggs-tarragon-mayo.png
+image: quail-eggs-tarragon-mayo.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT7M

@@ -7,7 +7,7 @@ ogDescription: "Build a layered donut tower with tinted glaze, whipped mascarpon
 focusKeyphrase: "Donut Cake Remix"
 date: 2025-08-16
 draft: false
-image: donut-cake-remix.png
+image: donut-cake-remix.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT0M

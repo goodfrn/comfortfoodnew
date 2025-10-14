@@ -7,7 +7,7 @@ ogDescription: "Tiny toasts layered with torchon foie gras, peach jam, fresh tar
 focusKeyphrase: "Foie Gras Apricot Bites"
 date: 2025-07-26
 draft: false
-image: foie-gras-apricot-bites.png
+image: foie-gras-apricot-bites.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT6M

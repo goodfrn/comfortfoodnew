@@ -7,7 +7,7 @@ ogDescription: "Bright herb salt mix with chive flowers, basil, lemon balm and l
 focusKeyphrase: "Herb Garlic Salt Twist"
 date: 2025-07-27
 draft: false
-image: herb-garlic-salt-twist.png
+image: herb-garlic-salt-twist.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT0M

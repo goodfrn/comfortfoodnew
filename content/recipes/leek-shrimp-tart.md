@@ -7,7 +7,7 @@ ogDescription: "Baked tart with tender shrimp, poached leeks and silky oat milk 
 focusKeyphrase: "leek shrimp tart"
 date: 2025-08-16
 draft: false
-image: leek-shrimp-tart.png
+image: leek-shrimp-tart.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT50M

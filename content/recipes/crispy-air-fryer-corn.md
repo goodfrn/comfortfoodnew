@@ -7,7 +7,7 @@ ogDescription: "Corn gets air-fried with avocado oil and ghee for crispy kernels
 focusKeyphrase: "Crispy Air Fryer Corn"
 date: 2025-10-09
 draft: false
-image: crispy-air-fryer-corn.png
+image: crispy-air-fryer-corn.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT11M

@@ -7,7 +7,7 @@ ogDescription: "Slow caramelized onions, chicken broth, oat milk, and Gruyère-t
 focusKeyphrase: "caramelized onion soup"
 date: 2025-08-11
 draft: false
-image: creamy-onion-soup-twist.png
+image: creamy-onion-soup-twist.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

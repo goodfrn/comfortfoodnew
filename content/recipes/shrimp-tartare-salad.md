@@ -7,7 +7,7 @@ ogDescription: "Cold shrimp tartare on warm vinegar rice, diced fruit and veggie
 focusKeyphrase: "Nordic Shrimp Tartare Salad"
 date: 2025-08-12
 draft: false
-image: shrimp-tartare-salad.png
+image: shrimp-tartare-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

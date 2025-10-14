@@ -7,7 +7,7 @@ ogDescription: "Layers of white rum, peach schnapps, elderflower liqueur meet li
 focusKeyphrase: "Peach White Rum Cooler"
 date: 2025-09-25
 draft: false
-image: peach-white-rum-cooler.png
+image: peach-white-rum-cooler.jpg
 author: "Emma"
 prepTime: PT5M
 cookTime: PT0M

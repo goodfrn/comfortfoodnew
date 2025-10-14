@@ -7,7 +7,7 @@ ogDescription: "Strawberries meet honey, lemon zest, steam bath magic. No burnt 
 focusKeyphrase: "strawberry syrup with honey"
 date: 2025-08-05
 draft: false
-image: quick-strawberry-syrup.png
+image: quick-strawberry-syrup.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

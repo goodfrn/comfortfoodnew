@@ -7,7 +7,7 @@ ogDescription: "Dive into Rhum Glazed Raisin Sablés - rich cookies dressed in a
 focusKeyphrase: "Rhum Glazed Raisin Sablés"
 date: 2025-07-16
 draft: false
-image: rhum-glazed-raisin-sables.png
+image: rhum-glazed-raisin-sables.jpg
 author: "Emma Kitchen"
 prepTime: PT15M
 cookTime: PT25M

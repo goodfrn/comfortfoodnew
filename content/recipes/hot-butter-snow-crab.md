@@ -7,7 +7,7 @@ ogDescription: "Crab legs warmed slow in butter broth with lime and honey. Watch
 focusKeyphrase: "hot butter snow crab"
 date: 2025-09-28
 draft: false
-image: hot-butter-snow-crab.png
+image: hot-butter-snow-crab.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT16M

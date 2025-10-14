@@ -7,7 +7,7 @@ ogDescription: "Chilled oysters on ice with a zingy sauce of coconut milk, lime,
 focusKeyphrase: "Oysters Coconut Lemongrass"
 date: 2025-09-25
 draft: false
-image: oysters-coconut-lemongrass.png
+image: oysters-coconut-lemongrass.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT0M

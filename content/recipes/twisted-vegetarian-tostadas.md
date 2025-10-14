@@ -7,7 +7,7 @@ ogDescription: "Experience a twist on tostadas, featuring creamy guacamole, chic
 focusKeyphrase: "Twisted Vegetarian Tostadas"
 date: 2025-07-18
 draft: false
-image: twisted-vegetarian-tostadas.png
+image: twisted-vegetarian-tostadas.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT8M

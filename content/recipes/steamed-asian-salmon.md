@@ -7,7 +7,7 @@ ogDescription: "Salmon steamed with zesty lime-soy, fresh jalapeño crunch, and 
 focusKeyphrase: "Steamed Asian Salmon"
 date: 2025-08-13
 draft: false
-image: steamed-asian-salmon.png
+image: steamed-asian-salmon.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

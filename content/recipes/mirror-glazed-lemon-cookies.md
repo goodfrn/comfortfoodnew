@@ -7,7 +7,7 @@ ogDescription: "Bright lemon zing, cool dough slices, watch edges gold. Glossy w
 focusKeyphrase: "Mirror-Glazed Lemon Cookies"
 date: 2025-08-20
 draft: false
-image: mirror-glazed-lemon-cookies.png
+image: mirror-glazed-lemon-cookies.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT20M

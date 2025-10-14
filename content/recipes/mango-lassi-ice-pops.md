@@ -7,7 +7,7 @@ ogDescription: "Frozen mango lassi pops with Greek yogurt and pistachios layered
 focusKeyphrase: "Mango Lassi Ice Pops"
 date: 2025-09-25
 draft: false
-image: mango-lassi-ice-pops.png
+image: mango-lassi-ice-pops.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT5H

@@ -7,7 +7,7 @@ ogDescription: "Whip vanilla and honey syrup, bloom gelatin gently. Toss cut cub
 focusKeyphrase: "Vanilla Marshmallow Remix"
 date: 2025-08-09
 draft: false
-image: vanilla-marshmallow-remix.png
+image: vanilla-marshmallow-remix.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT8M

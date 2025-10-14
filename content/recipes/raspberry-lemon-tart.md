@@ -7,7 +7,7 @@ ogDescription: "Flaky crust with coconut oil, arrowroot-thickened lemon-raspberr
 focusKeyphrase: "Raspberry Lemon Tart Remix"
 date: 2025-08-05
 draft: false
-image: raspberry-lemon-tart.png
+image: raspberry-lemon-tart.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT30M

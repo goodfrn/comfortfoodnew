@@ -7,7 +7,7 @@ ogDescription: "Buckwheat Sparkling Crêpes are light, thin crêpes that bring t
 focusKeyphrase: "Buckwheat Sparkling Crêpes"
 date: 2025-07-18
 draft: false
-image: buckwheat-sparkling-crepes.png
+image: buckwheat-sparkling-crepes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

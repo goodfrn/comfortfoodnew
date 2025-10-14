@@ -7,7 +7,7 @@ ogDescription: "Crisp apples meet juicy grapes with cinnamon warmth and lime zes
 focusKeyphrase: "Autumn Fruit Mixup"
 date: 2025-08-06
 draft: false
-image: autumn-fruit-mixup.png
+image: autumn-fruit-mixup.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT0M

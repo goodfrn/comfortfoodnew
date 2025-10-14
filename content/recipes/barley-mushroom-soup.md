@@ -7,7 +7,7 @@ ogDescription: "Hearty barley soup with caramelized mushrooms, wilted spinach, p
 focusKeyphrase: "Barley Mushroom Soup"
 date: 2025-07-28
 draft: false
-image: barley-mushroom-soup.png
+image: barley-mushroom-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT50M

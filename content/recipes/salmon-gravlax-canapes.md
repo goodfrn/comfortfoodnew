@@ -7,7 +7,7 @@ ogDescription: "Dill cured salmon cubes on crisp shells, whipped mustard cream. 
 focusKeyphrase: "Salmon Gravlax Canapés"
 date: 2025-08-03
 draft: false
-image: salmon-gravlax-canapes.png
+image: salmon-gravlax-canapes.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT0M

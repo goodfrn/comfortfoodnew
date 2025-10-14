@@ -7,7 +7,7 @@ ogDescription: "Earthy beets, tart pomegranate, honey sweetness, and ginger heat
 focusKeyphrase: "Beet Pomegranate Sorbet"
 date: 2025-07-29
 draft: false
-image: beet-pomegranate-sorbet.png
+image: beet-pomegranate-sorbet.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

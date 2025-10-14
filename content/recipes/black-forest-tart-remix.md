@@ -7,7 +7,7 @@ ogDescription: "Raspberries replace cherries here. White chocolate melts into cr
 focusKeyphrase: "Black Forest Tart Remix"
 date: 2025-08-06
 draft: false
-image: black-forest-tart-remix.png
+image: black-forest-tart-remix.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT35M

@@ -7,7 +7,7 @@ ogDescription: "Roast, simmer, blend. A chunky red pepper tomato sauce with bold
 focusKeyphrase: "red pepper tomato sauce"
 date: 2025-09-26
 draft: false
-image: red-pepper-tomato-sauce.png
+image: red-pepper-tomato-sauce.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT20M

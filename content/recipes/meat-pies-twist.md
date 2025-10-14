@@ -7,7 +7,7 @@ ogDescription: "Savor Meat Pies with a Twist, filled with pork, lamb, and spices
 focusKeyphrase: "meat pies recipe"
 date: 2025-07-19
 draft: false
-image: meat-pies-twist.png
+image: meat-pies-twist.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT1H55M

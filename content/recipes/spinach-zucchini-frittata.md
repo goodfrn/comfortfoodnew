@@ -7,7 +7,7 @@ ogDescription: "Delicious Spinach Zucchini Frittata made with fresh veggies and 
 focusKeyphrase: "Spinach Zucchini Frittata"
 date: 2025-07-20
 draft: false
-image: spinach-zucchini-frittata.png
+image: spinach-zucchini-frittata.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT22M

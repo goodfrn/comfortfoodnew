@@ -7,7 +7,7 @@ ogDescription: "Deep smoky beans, pork shoulder with bone, linguiça, and diced 
 focusKeyphrase: "Feijoada Ragoût"
 date: 2025-08-11
 draft: false
-image: twisted-feijoada-ragout.png
+image: twisted-feijoada-ragout.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H35M

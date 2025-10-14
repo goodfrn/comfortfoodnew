@@ -7,7 +7,7 @@ ogDescription: "This Herbed Ranch Salt Mix adds a punch to your snacks! Great on
 focusKeyphrase: "Herbed Ranch Salt Mix"
 date: 2025-07-23
 draft: false
-image: herbed-ranch-salt-mix.png
+image: herbed-ranch-salt-mix.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

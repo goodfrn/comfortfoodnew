@@ -7,7 +7,7 @@ ogDescription: "Juicy grilled pork flank soaked in smoky paprika marinade, serve
 focusKeyphrase: "Marinated Pork Spinach Salad"
 date: 2025-08-01
 draft: false
-image: marinated-pork-spinach-salad.png
+image: marinated-pork-spinach-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT12M

@@ -7,7 +7,7 @@ ogDescription: "Chill amber rum with Earl Grey ground cherry syrup. Tart, bitter
 focusKeyphrase: "Saint-Lambert Earl Grey Cocktail"
 date: 2025-09-25
 draft: false
-image: saint-lambert-earl-grey-cocktail.png
+image: saint-lambert-earl-grey-cocktail.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

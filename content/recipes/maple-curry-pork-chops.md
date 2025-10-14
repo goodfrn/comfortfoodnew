@@ -7,7 +7,7 @@ ogDescription: "Pork chops browned, simmered gently. Sauce thick, sweet-spicy wi
 focusKeyphrase: "Maple Curry Pork Chops"
 date: 2025-09-30
 draft: false
-image: maple-curry-pork-chops.png
+image: maple-curry-pork-chops.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT50M

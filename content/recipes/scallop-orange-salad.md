@@ -7,7 +7,7 @@ ogDescription: "Seared scallops meet bright orange segments and crisp cucumber, 
 focusKeyphrase: "scallop orange salad tulips"
 date: 2025-08-04
 draft: false
-image: scallop-orange-salad.png
+image: scallop-orange-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT5M

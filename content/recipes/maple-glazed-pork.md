@@ -7,7 +7,7 @@ ogDescription: "Quick seared pork medallions glazed with maple, cider, and musta
 focusKeyphrase: "maple-glazed pork medallions"
 date: 2025-08-18
 draft: false
-image: maple-glazed-pork.png
+image: maple-glazed-pork.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT13M

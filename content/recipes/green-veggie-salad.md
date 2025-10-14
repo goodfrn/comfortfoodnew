@@ -7,7 +7,7 @@ ogDescription: "Roasted shallots meet crisp asparagus and green beans tossed wit
 focusKeyphrase: "Green Veggie Salad with Roasted Shallots"
 date: 2025-08-03
 draft: false
-image: green-veggie-salad.png
+image: green-veggie-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

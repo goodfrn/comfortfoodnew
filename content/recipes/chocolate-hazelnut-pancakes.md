@@ -7,7 +7,7 @@ ogDescription: "Fluffy chocolate hazelnut pancakes, folded not stirred, black te
 focusKeyphrase: "Chocolate Hazelnut Pancakes"
 date: 2025-10-03
 draft: false
-image: chocolate-hazelnut-pancakes.png
+image: chocolate-hazelnut-pancakes.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT9M

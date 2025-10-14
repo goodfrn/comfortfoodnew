@@ -7,7 +7,7 @@ ogDescription: "Zesty lemon tart topped with toasted Swiss meringue. Watch for b
 focusKeyphrase: "Swiss Meringue Lemon Tart"
 date: 2025-08-04
 draft: false
-image: swiss-meringue-lemon-tart.png
+image: swiss-meringue-lemon-tart.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT20M

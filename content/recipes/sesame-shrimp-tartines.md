@@ -7,7 +7,7 @@ ogDescription: "Crunchy sesame crust, tangy ginger shrimp salad, creamy avocado 
 focusKeyphrase: "Sesame Shrimp Tartines"
 date: 2025-09-24
 draft: false
-image: sesame-shrimp-tartines.png
+image: sesame-shrimp-tartines.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT15M

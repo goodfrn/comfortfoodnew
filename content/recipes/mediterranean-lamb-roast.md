@@ -7,7 +7,7 @@ ogDescription: "Slow-roast boneless lamb leg with North African spices, fenugree
 focusKeyphrase: "Mediterranean lamb leg roast"
 date: 2025-08-17
 draft: false
-image: mediterranean-lamb-roast.png
+image: mediterranean-lamb-roast.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H20M

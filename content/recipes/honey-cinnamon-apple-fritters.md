@@ -7,7 +7,7 @@ ogDescription: "Crisp apple fritters fried in hot oil, dusted with sugar, served
 focusKeyphrase: "honey cinnamon apple fritters"
 date: 2025-10-11
 draft: false
-image: honey-cinnamon-apple-fritters.png
+image: honey-cinnamon-apple-fritters.jpg
 author: "Emma"
 prepTime: PT16M
 cookTime: PT16M

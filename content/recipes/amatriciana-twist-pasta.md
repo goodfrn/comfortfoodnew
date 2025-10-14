@@ -7,7 +7,7 @@ ogDescription: "Smoky guanciale meets sun-dried tomatoes and garlic. Bucatini si
 focusKeyphrase: "Amatriciana Twist Pasta"
 date: 2025-07-27
 draft: false
-image: amatriciana-twist-pasta.png
+image: amatriciana-twist-pasta.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

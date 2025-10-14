@@ -7,7 +7,7 @@ ogDescription: "Rustic Gougères, Gruyère rich, crisp edges, airy crumb inside.
 focusKeyphrase: "Cheesy Gruyère Gougères"
 date: 2025-09-25
 draft: false
-image: cheesy-gruyere-gougeres.png
+image: cheesy-gruyere-gougeres.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT28M

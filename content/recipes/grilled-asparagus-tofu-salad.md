@@ -7,7 +7,7 @@ ogDescription: "Discover a vibrant salad with grilled asparagus and silken tofu,
 focusKeyphrase: "Grilled Asparagus Silken Tofu Salad"
 date: 2025-07-24
 draft: false
-image: grilled-asparagus-tofu-salad.png
+image: grilled-asparagus-tofu-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

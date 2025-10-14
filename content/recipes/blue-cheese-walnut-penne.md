@@ -7,7 +7,7 @@ ogDescription: "Creamy blue cheese sauce clings to al dente penne. Toasted pecan
 focusKeyphrase: "Blue Cheese Walnut Penne"
 date: 2025-08-17
 draft: false
-image: blue-cheese-walnut-penne.png
+image: blue-cheese-walnut-penne.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Juicy roast pork, crisp bok choy, and tart green apple tossed in
 focusKeyphrase: "Pork Bok Choy Salad"
 date: 2025-09-25
 draft: false
-image: pork-bok-choy-salad.png
+image: pork-bok-choy-salad.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT40M

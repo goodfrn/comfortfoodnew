@@ -7,7 +7,7 @@ ogDescription: "Dense scoop, no lumps. Cream cheese, cocoa, sugar fused, frozen 
 focusKeyphrase: "Chocolate Creami Ice Cream"
 date: 2025-10-12
 draft: false
-image: chocolate-creami-ice-cream.png
+image: chocolate-creami-ice-cream.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25S

@@ -7,7 +7,7 @@ ogDescription: "Caramelized onions, pale ale broth, thin steak, sunny eggs, bagu
 focusKeyphrase: "Steak Beer Soup Egg"
 date: 2025-07-29
 draft: false
-image: steak-beer-soup.png
+image: steak-beer-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT45M

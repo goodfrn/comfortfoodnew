@@ -7,7 +7,7 @@ ogDescription: "Endives seared crisp, braised slow in mushroom broth and maple s
 focusKeyphrase: "Braised maple endives"
 date: 2025-09-29
 draft: false
-image: braised-maple-endives.png
+image: braised-maple-endives.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT30M

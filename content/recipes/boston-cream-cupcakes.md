@@ -7,7 +7,7 @@ ogDescription: "Golden cupcakes with creamy pudding centers and whipped chocolat
 focusKeyphrase: "Boston Cream Cupcakes"
 date: 2025-10-13
 draft: false
-image: boston-cream-cupcakes.png
+image: boston-cream-cupcakes.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

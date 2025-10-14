@@ -7,7 +7,7 @@ ogDescription: "Cold butter key here. Cream sugars staged. Flour mix with cornst
 focusKeyphrase: "Chewy Oatmeal Choc Chip cookies"
 date: 2025-10-11
 draft: false
-image: chewy-oatmeal-choc-chip.png
+image: chewy-oatmeal-choc-chip.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT9M

@@ -7,7 +7,7 @@ ogDescription: "Brighten mornings with green juice packing citrus, kale, kiwi an
 focusKeyphrase: "green juice with kale and citrus"
 date: 2025-08-13
 draft: false
-image: morning-green-boost.png
+image: morning-green-boost.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

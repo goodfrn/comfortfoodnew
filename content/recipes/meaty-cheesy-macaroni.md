@@ -7,7 +7,7 @@ ogDescription: "Macaroni wrapped in thick tomato-beef sauce, creamy cheese, and 
 focusKeyphrase: "Meaty Cheesy Macaroni Bake"
 date: 2025-09-30
 draft: false
-image: meaty-cheesy-macaroni.png
+image: meaty-cheesy-macaroni.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

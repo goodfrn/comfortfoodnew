@@ -7,7 +7,7 @@ ogDescription: "Enjoy Rhubarb Raspberry Tartelettes with refreshing mousse and v
 focusKeyphrase: "Rhubarb Raspberry Tartelettes"
 date: 2025-07-24
 draft: false
-image: rhubarb-raspberry-tartelettes.png
+image: rhubarb-raspberry-tartelettes.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT20M

@@ -7,7 +7,7 @@ ogDescription: "Smashed Yukon Gold potatoes topped with creamy crab mix, garlic 
 focusKeyphrase: "Crab Smashed Potatoes"
 date: 2025-10-14
 draft: false
-image: crab-smashed-potatoes.png
+image: crab-smashed-potatoes.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT22M

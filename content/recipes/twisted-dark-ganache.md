@@ -7,7 +7,7 @@ ogDescription: "Bittersweet chocolate meets coconut cream and honey. Watch textu
 focusKeyphrase: "Twisted Dark Ganache"
 date: 2025-08-13
 draft: false
-image: twisted-dark-ganache.png
+image: twisted-dark-ganache.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT4M

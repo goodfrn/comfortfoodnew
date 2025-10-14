@@ -7,7 +7,7 @@ ogDescription: "Bitter meets creamy. Aperol swaps Campari, coconut milk lightens
 focusKeyphrase: "Negroni Colada Mix"
 date: 2025-08-11
 draft: false
-image: negroni-colada-mix.png
+image: negroni-colada-mix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

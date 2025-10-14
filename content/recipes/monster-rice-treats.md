@@ -7,7 +7,7 @@ ogDescription: "Crunch meets candy chaos with Monster Rice Treats. Patience melt
 focusKeyphrase: "Monster Rice Treats"
 date: 2025-10-10
 draft: false
-image: monster-rice-treats.png
+image: monster-rice-treats.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT6M

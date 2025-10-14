@@ -7,7 +7,7 @@ ogDescription: "Creamy caramel and cream cheese whipped with brown sugar and alm
 focusKeyphrase: "Caramel Apple Dip Remix"
 date: 2025-10-11
 draft: false
-image: caramel-apple-dip-remix.png
+image: caramel-apple-dip-remix.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

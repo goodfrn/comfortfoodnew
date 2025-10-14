@@ -7,7 +7,7 @@ ogDescription: "Enjoy Indian Tomato Poached Eggs. Soft potatoes, spices, and poa
 focusKeyphrase: "Indian Tomato Poached Eggs"
 date: 2025-07-24
 draft: false
-image: indian-tomato-poached-eggs.png
+image: indian-tomato-poached-eggs.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT35M

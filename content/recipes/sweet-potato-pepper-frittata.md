@@ -7,7 +7,7 @@ ogDescription: "Oven-baked frittata with roasted sweet potatoes, mild yellow pep
 focusKeyphrase: "Sweet Potato Pepper Frittata"
 date: 2025-08-17
 draft: false
-image: sweet-potato-pepper-frittata.png
+image: sweet-potato-pepper-frittata.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

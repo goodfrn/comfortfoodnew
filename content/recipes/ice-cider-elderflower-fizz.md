@@ -7,7 +7,7 @@ ogDescription: "Chilled ice cider and elderflower soda meet crushed ice and zest
 focusKeyphrase: "Ice Cider Elderflower Fizz"
 date: 2025-08-08
 draft: false
-image: ice-cider-elderflower-fizz.png
+image: ice-cider-elderflower-fizz.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "Flaky crust, savory pancetta, tender broccolini, tangy feta. Nut
 focusKeyphrase: "Broccoli Bacon Quiche Remix"
 date: 2025-08-09
 draft: false
-image: broccoli-bacon-quiche-remix.png
+image: broccoli-bacon-quiche-remix.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT1H

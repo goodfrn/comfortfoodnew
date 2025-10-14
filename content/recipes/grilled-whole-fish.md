@@ -7,7 +7,7 @@ ogDescription: "Grill whole sea bass packed with lemon and herbs. Score skin, oi
 focusKeyphrase: "grilled whole fish lemon herbs"
 date: 2025-09-02
 draft: false
-image: grilled-whole-fish.png
+image: grilled-whole-fish.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT25M

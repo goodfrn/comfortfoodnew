@@ -7,7 +7,7 @@ ogDescription: "Firm tofu browned, simmered gently in buttery tomato cream spice
 focusKeyphrase: "Butter chicken style tofu"
 date: 2025-09-25
 draft: false
-image: butter-chicken-style-tofu.png
+image: butter-chicken-style-tofu.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

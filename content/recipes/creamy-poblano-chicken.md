@@ -7,7 +7,7 @@ ogDescription: "Creamy Poblano Chicken Twist combines tender chicken with smoky 
 focusKeyphrase: "Creamy Poblano Chicken Twist"
 date: 2025-07-20
 draft: false
-image: creamy-poblano-chicken.png
+image: creamy-poblano-chicken.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT50M

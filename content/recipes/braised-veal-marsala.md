@@ -7,7 +7,7 @@ ogDescription: "Slow-braised veal cubes simmer in marsala, sausage fat, shallots
 focusKeyphrase: "Braised Veal Marsala"
 date: 2025-09-24
 draft: false
-image: braised-veal-marsala.png
+image: braised-veal-marsala.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT2H

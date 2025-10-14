@@ -7,7 +7,7 @@ ogDescription: "Dark rum, cinnamon sticks, star anise mingle with apple cider an
 focusKeyphrase: "spiced hot cider twist"
 date: 2025-09-24
 draft: false
-image: spiced-hot-cider-twist.png
+image: spiced-hot-cider-twist.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT12M

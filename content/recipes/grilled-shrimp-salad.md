@@ -7,7 +7,7 @@ ogDescription: "Fire-kissed shrimp, crisp lettuce, vermicelli, mint, peanuts tos
 focusKeyphrase: "Grilled Shrimp Spring Rolls Salad"
 date: 2025-08-10
 draft: false
-image: grilled-shrimp-salad.png
+image: grilled-shrimp-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

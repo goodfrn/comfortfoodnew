@@ -7,7 +7,7 @@ ogDescription: "Taquitos packed with shredded chicken and melty cheese, fried cr
 focusKeyphrase: "chicken stuffed taquitos"
 date: 2025-09-24
 draft: false
-image: chicken-stuffed-taquitos.png
+image: chicken-stuffed-taquitos.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT17M

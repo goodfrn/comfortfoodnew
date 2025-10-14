@@ -7,7 +7,7 @@ ogDescription: "Try Twisted Gaspacho Salad. A vibrant, crunchy mix of veggies to
 focusKeyphrase: "Twisted Gaspacho Salad"
 date: 2025-07-24
 draft: false
-image: twisted-gaspacho-salad.png
+image: twisted-gaspacho-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT0M

@@ -7,7 +7,7 @@ ogDescription: "A nutty garlic almond soup with crusty bread, grapes, and lemon 
 focusKeyphrase: "Garlic Almond Soup"
 date: 2025-08-16
 draft: false
-image: garlic-almond-soup.png
+image: garlic-almond-soup.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT25M

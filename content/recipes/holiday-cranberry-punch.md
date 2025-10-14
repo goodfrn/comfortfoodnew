@@ -7,7 +7,7 @@ ogDescription: "Tart fruit syrup simmered then chilled, bruised sage and rosemar
 focusKeyphrase: "Holiday Cranberry Punch Twist"
 date: 2025-08-02
 draft: false
-image: holiday-cranberry-punch.png
+image: holiday-cranberry-punch.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT15M

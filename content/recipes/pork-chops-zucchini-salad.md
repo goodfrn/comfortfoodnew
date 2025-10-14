@@ -7,7 +7,7 @@ ogDescription: "Pork Chops and Roasted Zucchini Salad. Grilled meat, flavorful s
 focusKeyphrase: "Pork Chops and Roasted Zucchini Salad"
 date: 2025-07-23
 draft: false
-image: pork-chops-zucchini-salad.png
+image: pork-chops-zucchini-salad.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT19M

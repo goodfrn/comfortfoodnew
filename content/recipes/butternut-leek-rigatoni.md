@@ -7,7 +7,7 @@ ogDescription: "Roasted squash and creamy leek sauce coat rigatoni and spinach. 
 focusKeyphrase: "Butternut Leek Rigatoni Gratin"
 date: 2025-09-21
 draft: false
-image: butternut-leek-rigatoni.png
+image: butternut-leek-rigatoni.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT50M

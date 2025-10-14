@@ -7,7 +7,7 @@ ogDescription: "Explore diverse vinaigrettes with unique ingredients and spices.
 focusKeyphrase: "Mixed Vinaigrette Varieties"
 date: 2025-07-23
 draft: false
-image: mixed-vinaigrette-varieties.png
+image: mixed-vinaigrette-varieties.jpg
 author: "Emma"
 prepTime: PT10M
 cookTime: PT7M

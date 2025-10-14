@@ -7,7 +7,7 @@ ogDescription: "Veggie pâté loaf with crunchy sunflower seeds, citrus zing, al
 focusKeyphrase: "Sunflower Veggie Pâté"
 date: 2025-09-27
 draft: false
-image: sunflower-veggie-pate.png
+image: sunflower-veggie-pate.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Crispy pocket pizzas filled with smoky sausage, deep smoky papri
 focusKeyphrase: "Stuffed Pocket Pizzas"
 date: 2025-08-07
 draft: false
-image: stuffed-pocket-pizzas.png
+image: stuffed-pocket-pizzas.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT25M

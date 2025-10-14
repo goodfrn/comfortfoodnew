@@ -7,7 +7,7 @@ ogDescription: "Frozen fruit bursts with creamy mouthfeel. Peach raspberry pops 
 focusKeyphrase: "Peach Raspberry Cream Pops"
 date: 2025-09-29
 draft: false
-image: peach-raspberry-cream-pops.png
+image: peach-raspberry-cream-pops.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT10M

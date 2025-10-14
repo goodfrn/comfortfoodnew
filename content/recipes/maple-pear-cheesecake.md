@@ -7,7 +7,7 @@ ogDescription: "Browned butter crust meets maple-sweetened cream cheese and roas
 focusKeyphrase: "Maple Pear Cheesecake"
 date: 2025-08-02
 draft: false
-image: maple-pear-cheesecake.png
+image: maple-pear-cheesecake.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT1H40M

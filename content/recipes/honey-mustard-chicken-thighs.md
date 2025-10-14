@@ -7,7 +7,7 @@ ogDescription: "Skin crisp, juices running clear. Roasted chicken thighs with ho
 focusKeyphrase: "Honey Mustard Chicken Thighs"
 date: 2025-08-15
 draft: false
-image: honey-mustard-chicken-thighs.png
+image: honey-mustard-chicken-thighs.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT55M

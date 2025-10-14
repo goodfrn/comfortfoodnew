@@ -7,7 +7,7 @@ ogDescription: "Twice-fried Yukon Gold fries with smoky pancetta, soaked to avoi
 focusKeyphrase: "Crispy Yukon Gold Fries"
 date: 2025-09-23
 draft: false
-image: crispy-yukon-gold-fries.png
+image: crispy-yukon-gold-fries.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT42M

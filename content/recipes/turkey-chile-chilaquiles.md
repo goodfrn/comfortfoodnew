@@ -7,7 +7,7 @@ ogDescription: "Enjoy warm Turkey Chile Chilaquiles topped with creamy cheese an
 focusKeyphrase: "Turkey Chile Chilaquiles"
 date: 2025-07-22
 draft: false
-image: turkey-chile-chilaquiles.png
+image: turkey-chile-chilaquiles.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT1H25M

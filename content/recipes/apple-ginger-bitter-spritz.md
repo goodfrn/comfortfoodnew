@@ -7,7 +7,7 @@ ogDescription: "Sharp, fizzy Apple Ginger Bitter Spritz. Campari’s bitter edge
 focusKeyphrase: "Apple Ginger Bitter Spritz"
 date: 2025-07-28
 draft: false
-image: apple-ginger-bitter-spritz.png
+image: apple-ginger-bitter-spritz.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

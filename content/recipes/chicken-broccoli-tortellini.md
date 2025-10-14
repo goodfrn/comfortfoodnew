@@ -7,7 +7,7 @@ ogDescription: "Browned chicken, crisp broccoli, and creamy cheese tortellini co
 focusKeyphrase: "Chicken Broccoli Tortellini"
 date: 2025-10-08
 draft: false
-image: chicken-broccoli-tortellini.png
+image: chicken-broccoli-tortellini.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

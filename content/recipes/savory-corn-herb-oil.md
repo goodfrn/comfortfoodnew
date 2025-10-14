@@ -7,7 +7,7 @@ ogDescription: "Avocado oil meets tangy chimichurri, garlic, and pepper. Quick h
 focusKeyphrase: "Savory Corn Herb Oil"
 date: 2025-08-19
 draft: false
-image: savory-corn-herb-oil.png
+image: savory-corn-herb-oil.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT4M

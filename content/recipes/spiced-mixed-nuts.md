@@ -7,7 +7,7 @@ ogDescription: "Enjoy Spiced Mixed Nuts—smoky, tangy snack. Quick recipe perfe
 focusKeyphrase: "Spiced Mixed Nuts"
 date: 2025-07-18
 draft: false
-image: spiced-mixed-nuts.png
+image: spiced-mixed-nuts.jpg
 author: "Emma Kitchen"
 prepTime: PT12M
 cookTime: PT15M

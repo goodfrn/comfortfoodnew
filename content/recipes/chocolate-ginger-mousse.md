@@ -7,7 +7,7 @@ ogDescription: "Dark chocolate mousse folded with ginger notes, chilled hours. C
 focusKeyphrase: "chocolate ginger mousse"
 date: 2025-07-30
 draft: false
-image: chocolate-ginger-mousse.png
+image: chocolate-ginger-mousse.jpg
 author: "Emma"
 prepTime: PT38M
 cookTime: PT42M

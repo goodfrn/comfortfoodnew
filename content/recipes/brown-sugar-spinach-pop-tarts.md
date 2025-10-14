@@ -7,7 +7,7 @@ ogDescription: "Spinach pop tarts with coconut sugar and nutmeg twist. Cold butt
 focusKeyphrase: "Brown Sugar Spinach Pop Tarts"
 date: 2025-10-04
 draft: false
-image: brown-sugar-spinach-pop-tarts.png
+image: brown-sugar-spinach-pop-tarts.jpg
 author: "Emma"
 prepTime: PT1H5M
 cookTime: PT22M

@@ -7,7 +7,7 @@ ogDescription: "Holey crumpets made with rye and buttermilk. Watch bubbles, fold
 focusKeyphrase: "Buttermilk Rye Crumpets"
 date: 2025-08-13
 draft: false
-image: buttermilk-rye-crumpets.png
+image: buttermilk-rye-crumpets.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

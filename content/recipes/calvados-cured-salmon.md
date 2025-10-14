@@ -7,7 +7,7 @@ ogDescription: "Salmon cured 20 hrs in Calvados, juniper, salt, sugar, cracked w
 focusKeyphrase: "Calvados cured salmon"
 date: 2025-08-19
 draft: false
-image: calvados-cured-salmon.png
+image: calvados-cured-salmon.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT24H

@@ -7,7 +7,7 @@ ogDescription: "Spicy pork skewers with gingery lemongrass sauce and chunky cash
 focusKeyphrase: "pork ginger lemongrass skewers"
 date: 2025-07-28
 draft: false
-image: pork-ginger-lemongrass-skewers.png
+image: pork-ginger-lemongrass-skewers.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT20M

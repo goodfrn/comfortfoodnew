@@ -7,7 +7,7 @@ ogDescription: "Handheld blueberry cream cheese Danish twists. Cinnamon spice, c
 focusKeyphrase: "Blueberry Cream Cheese Danish Twist"
 date: 2025-10-05
 draft: false
-image: blueberry-cream-cheese-danish.png
+image: blueberry-cream-cheese-danish.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT12M

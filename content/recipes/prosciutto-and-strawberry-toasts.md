@@ -7,7 +7,7 @@ ogDescription: "Discover delicious Prosciutto and Strawberry Toasts with grilled
 focusKeyphrase: "Prosciutto and Strawberry Toasts"
 date: 2025-07-15
 draft: false
-image: prosciutto-and-strawberry-toasts.png
+image: prosciutto-and-strawberry-toasts.jpg
 author: "Emma Kitchen"
 prepTime: PT10M
 cookTime: PT15M

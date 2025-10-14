@@ -7,7 +7,7 @@ ogDescription: "Cold pasta with creamy avocado mash, drained tuna chunks, crisp 
 focusKeyphrase: "Rotini Tuna Avocado Salad"
 date: 2025-09-30
 draft: false
-image: rotini-tuna-avocado-salad.png
+image: rotini-tuna-avocado-salad.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Ricotta Spinach Fazzoletti; fresh pasta pouches filled with spin
 focusKeyphrase: "Ricotta Spinach Fazzoletti"
 date: 2025-08-15
 draft: false
-image: ricotta-spinach-fazzoletti.png
+image: ricotta-spinach-fazzoletti.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT50M

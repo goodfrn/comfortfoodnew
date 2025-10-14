@@ -7,7 +7,7 @@ ogDescription: "Crunchy nuts toasted in oil, glazed with agave and sumac, dusted
 focusKeyphrase: "sumac candied nuts"
 date: 2025-09-30
 draft: false
-image: honey-sumac-nuts.png
+image: honey-sumac-nuts.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT20M

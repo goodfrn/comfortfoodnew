@@ -7,7 +7,7 @@ ogDescription: "Seared skin turkey breast stuffed with spiced cranberries, pears
 focusKeyphrase: "turkey roast stuffed pears"
 date: 2025-08-17
 draft: false
-image: turkey-roast-stuffed-pears.png
+image: turkey-roast-stuffed-pears.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT2H25M

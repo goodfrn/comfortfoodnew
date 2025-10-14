@@ -7,7 +7,7 @@ ogDescription: "Nutty quinoa meets juicy chicken, tart dried cherries, creamy fe
 focusKeyphrase: "quinoa chicken apricot salad"
 date: 2025-08-13
 draft: false
-image: quinoa-chicken-salad.png
+image: quinoa-chicken-salad.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

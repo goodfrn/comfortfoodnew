@@ -7,7 +7,7 @@ ogDescription: "Crispy shredded tofu sliders coated in smoky, sweet maple-ketchu
 focusKeyphrase: "shredded tofu sliders"
 date: 2025-07-30
 draft: false
-image: shredded-tofu-sliders.png
+image: shredded-tofu-sliders.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

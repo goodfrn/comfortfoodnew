@@ -7,7 +7,7 @@ ogDescription: "Creamy grilled avocado with zesty cumin-lime chicken and fresh m
 focusKeyphrase: "grilled avocado chicken"
 date: 2025-10-12
 draft: false
-image: grilled-avocado-chicken.png
+image: grilled-avocado-chicken.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT6M

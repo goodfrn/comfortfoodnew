@@ -7,7 +7,7 @@ ogDescription: "One egg, olive oil for fat change. Cook low, six minutes till wh
 focusKeyphrase: "Sunny Eggs Skillet"
 date: 2025-07-28
 draft: false
-image: sunny-eggs-skillet.png
+image: sunny-eggs-skillet.jpg
 author: "Emma"
 prepTime: PT2M
 cookTime: PT6M

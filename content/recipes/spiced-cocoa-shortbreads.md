@@ -7,7 +7,7 @@ ogDescription: "Tender vanilla dough rolled with spicy cocoa crumble and hazelnu
 focusKeyphrase: "Spiced Cocoa Vanilla Shortbreads"
 date: 2025-08-16
 draft: false
-image: spiced-cocoa-shortbreads.png
+image: spiced-cocoa-shortbreads.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT15M

@@ -7,7 +7,7 @@ ogDescription: "Swapping pork for ground chicken, bamboo shoots crunch, mushroom
 focusKeyphrase: "Twisted won-ton soup"
 date: 2025-08-17
 draft: false
-image: twisted-won-ton-soup.png
+image: twisted-won-ton-soup.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT10M

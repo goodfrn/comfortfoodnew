@@ -7,7 +7,7 @@ ogDescription: "Smoky chipotle BBQ chicken calzones with charred onions and pepp
 focusKeyphrase: "Grilled Chicken BBQ Calzones"
 date: 2025-08-18
 draft: false
-image: grilled-chicken-bbq-calzones.png
+image: grilled-chicken-bbq-calzones.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT25M

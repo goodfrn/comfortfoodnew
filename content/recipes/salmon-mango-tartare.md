@@ -7,7 +7,7 @@ ogDescription: "Raw salmon diced fine, mango sweetness, basil bites, harissa hea
 focusKeyphrase: "Salmon Mango Tartare Curry Sauce"
 date: 2025-09-23
 draft: false
-image: salmon-mango-tartare.png
+image: salmon-mango-tartare.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT0M

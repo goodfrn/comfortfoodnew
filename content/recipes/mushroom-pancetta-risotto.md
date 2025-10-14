@@ -7,7 +7,7 @@ ogDescription: "Earthy cremini and oyster mushrooms blend with smoky bacon, porc
 focusKeyphrase: "Mushroom Pancetta Risotto"
 date: 2025-08-08
 draft: false
-image: mushroom-pancetta-risotto.png
+image: mushroom-pancetta-risotto.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT45M

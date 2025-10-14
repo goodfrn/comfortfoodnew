@@ -7,7 +7,7 @@ ogDescription: "Dense banana brownies with browned butter frosting, nutty crunch
 focusKeyphrase: "Brown Butter Banana Brownies"
 date: 2025-10-09
 draft: false
-image: brown-butter-banana-brownies.png
+image: brown-butter-banana-brownies.jpg
 author: "Emma"
 prepTime: PT15M
 cookTime: PT22M

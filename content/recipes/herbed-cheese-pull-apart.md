@@ -7,7 +7,7 @@ ogDescription: "Soft dough stuffed with sharp cheddar, dipped in herb garlic oil
 focusKeyphrase: "Herbed Cheese Pull-Apart"
 date: 2025-07-27
 draft: false
-image: herbed-cheese-pull-apart.png
+image: herbed-cheese-pull-apart.jpg
 author: "Emma"
 prepTime: PT1H30M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Crunchy pretzel crust on flaky white fish. Honey mustard sauce w
 focusKeyphrase: "pretzel-crusted fish"
 date: 2025-08-16
 draft: false
-image: pretzel-crusted-fish.png
+image: pretzel-crusted-fish.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT12M

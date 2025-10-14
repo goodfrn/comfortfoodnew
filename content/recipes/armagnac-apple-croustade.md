@@ -7,7 +7,7 @@ ogDescription: "Light, crisp filo tart with spiced apples soaked in calvados. Ru
 focusKeyphrase: "Armagnac Apple Croustade"
 date: 2025-07-27
 draft: false
-image: armagnac-apple-croustade.png
+image: armagnac-apple-croustade.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT45M

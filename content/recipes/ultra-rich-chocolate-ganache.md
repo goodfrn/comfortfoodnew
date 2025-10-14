@@ -7,7 +7,7 @@ ogDescription: "Dense ganache using semi-bitter chocolate and coconut cream. Chi
 focusKeyphrase: "Ultra Rich Chocolate Ganache"
 date: 2025-08-08
 draft: false
-image: ultra-rich-chocolate-ganache.png
+image: ultra-rich-chocolate-ganache.jpg
 author: "Emma"
 prepTime: PT4M
 cookTime: PT3M

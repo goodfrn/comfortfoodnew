@@ -7,7 +7,7 @@ ogDescription: "Sear pork medallions in butter-oil mix, deglaze with mango chutn
 focusKeyphrase: "pork filets with mango chutney"
 date: 2025-09-28
 draft: false
-image: pork-filets-with-mango-chutney.png
+image: pork-filets-with-mango-chutney.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT27M

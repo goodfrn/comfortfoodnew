@@ -7,7 +7,7 @@ ogDescription: "Silky coconut panna cotta with spiced rum, chilled oat milk, and
 focusKeyphrase: "Coconut Rhum Panna Cotta Twist"
 date: 2025-09-26
 draft: false
-image: coconut-rhum-panna-cotta.png
+image: coconut-rhum-panna-cotta.jpg
 author: "Emma"
 prepTime: PT22M
 cookTime: PT6M

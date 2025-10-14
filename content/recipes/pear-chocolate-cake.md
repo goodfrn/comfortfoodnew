@@ -7,7 +7,7 @@ ogDescription: "Pear halves arranged like petals on a cocoa sponge, topped with 
 focusKeyphrase: "Pear Chocolate Cake"
 date: 2025-09-24
 draft: false
-image: pear-chocolate-cake.png
+image: pear-chocolate-cake.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT38M

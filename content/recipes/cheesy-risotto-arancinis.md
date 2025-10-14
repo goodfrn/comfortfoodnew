@@ -7,7 +7,7 @@ ogDescription: "Crispy Cheesy Risotto Arancinis with Taleggio and mozzarella. Go
 focusKeyphrase: "Cheesy Risotto Arancinis"
 date: 2025-07-18
 draft: false
-image: cheesy-risotto-arancinis.png
+image: cheesy-risotto-arancinis.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT55M

@@ -7,7 +7,7 @@ ogDescription: "Veal sweetbreads soaked, blanched gently, then seared till golde
 focusKeyphrase: "veal sweetbreads"
 date: 2025-09-29
 draft: false
-image: sweet-veal-sweetbreads.png
+image: sweet-veal-sweetbreads.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT18M

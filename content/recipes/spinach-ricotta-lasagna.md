@@ -7,7 +7,7 @@ ogDescription: "Layers of spinach ricotta with thyme, smoky gouda, pecorino, who
 focusKeyphrase: "Spinach Ricotta Lasagna"
 date: 2025-08-08
 draft: false
-image: spinach-ricotta-lasagna.png
+image: spinach-ricotta-lasagna.jpg
 author: "Emma"
 prepTime: PT50M
 cookTime: PT40M

@@ -7,7 +7,7 @@ ogDescription: "Experience the flavor of Caramelized Banana Foil with banana, sy
 focusKeyphrase: "Caramelized Banana Foil"
 date: 2025-07-20
 draft: false
-image: caramelized-banana-dessert.png
+image: caramelized-banana-dessert.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT12M

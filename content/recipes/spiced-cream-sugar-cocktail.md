@@ -7,7 +7,7 @@ ogDescription: "Chilled bourbon mixed with vanilla honey syrup, oat milk, cloves
 focusKeyphrase: "Spiced Cream Sugar Cocktail"
 date: 2025-08-14
 draft: false
-image: spiced-cream-sugar-cocktail.png
+image: spiced-cream-sugar-cocktail.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

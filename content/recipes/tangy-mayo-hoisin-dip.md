@@ -7,7 +7,7 @@ ogDescription: "Creamy mayo meets sweet hoisin and fiery sriracha, lifted by lim
 focusKeyphrase: "Tangy Mayo Hoisin Dip"
 date: 2025-08-05
 draft: false
-image: tangy-mayo-hoisin-dip.png
+image: tangy-mayo-hoisin-dip.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT0M

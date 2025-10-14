@@ -7,7 +7,7 @@ ogDescription: "Chunky tuna meets creamy avocado mayo, crunchy celery, and sharp
 focusKeyphrase: "Chunky Tuna Salad"
 date: 2025-10-06
 draft: false
-image: chunky-tuna-salad.png
+image: chunky-tuna-salad.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT0M

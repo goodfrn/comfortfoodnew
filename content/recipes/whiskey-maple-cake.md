@@ -7,7 +7,7 @@ ogDescription: "Dense spiced cake with whiskey-maple soak. Cardamom twist. Egg w
 focusKeyphrase: "Whiskey Maple Cake"
 date: 2025-07-27
 draft: false
-image: whiskey-maple-cake.png
+image: whiskey-maple-cake.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT55M

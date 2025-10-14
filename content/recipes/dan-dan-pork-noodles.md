@@ -7,7 +7,7 @@ ogDescription: "Spiced pork crisps, silky noodles tossed in chili sesame sauce, 
 focusKeyphrase: "Dan Dan Pork Noodles"
 date: 2025-09-26
 draft: false
-image: dan-dan-pork-noodles.png
+image: dan-dan-pork-noodles.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

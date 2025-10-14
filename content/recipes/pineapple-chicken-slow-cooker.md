@@ -7,7 +7,7 @@ ogDescription: "Slow cooker chicken thighs with caramelized pineapple, sharp gin
 focusKeyphrase: "Pineapple Chicken Slow Cooker"
 date: 2025-08-02
 draft: false
-image: pineapple-chicken-slow-cooker.png
+image: pineapple-chicken-slow-cooker.jpg
 author: "Emma"
 prepTime: PT30M
 cookTime: PT4H30M

@@ -7,7 +7,7 @@ ogDescription: "Indulge in a creamy Strawberry Mousse Dessert. Fluffy cake base 
 focusKeyphrase: "Strawberry Mousse Dessert"
 date: 2025-07-16
 draft: false
-image: strawberry-mousse-dessert.png
+image: strawberry-mousse-dessert.jpg
 author: "Emma Kitchen"
 prepTime: PT30M
 cookTime: PT15M

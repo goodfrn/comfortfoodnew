@@ -7,7 +7,7 @@ ogDescription: "Flaky crust, tender asparagus, nutty cheese. Blind bake crust, w
 focusKeyphrase: "Asparagus Gruyère Quiche"
 date: 2025-08-04
 draft: false
-image: asparagus-gruyere-quiche.png
+image: asparagus-gruyere-quiche.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

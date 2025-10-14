@@ -7,7 +7,7 @@ ogDescription: "Smoky chipotle tofu charred quick, layered with tangy lime mayo,
 focusKeyphrase: "Grilled Chipotle Tofu Sandwiches"
 date: 2025-09-01
 draft: false
-image: grilled-chipotle-tofu-sandwich.png
+image: grilled-chipotle-tofu-sandwich.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT6M

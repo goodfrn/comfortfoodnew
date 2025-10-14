@@ -7,7 +7,7 @@ ogDescription: "Crunchy pretzel, tart cranberries, toasted almonds with melty wh
 focusKeyphrase: "white chocolate cranberry bars"
 date: 2025-09-25
 draft: false
-image: white-chocolate-cran-pistachio-bars.png
+image: white-chocolate-cran-pistachio-bars.jpg
 author: "Emma"
 prepTime: PT14M
 cookTime: PT4M

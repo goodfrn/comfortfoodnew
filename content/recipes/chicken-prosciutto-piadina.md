@@ -7,7 +7,7 @@ ogDescription: "Sizzle chicken on high till golden. Layer prosciutto, melted pro
 focusKeyphrase: "Chicken Prosciutto Piadina"
 date: 2025-09-30
 draft: false
-image: chicken-prosciutto-piadina.png
+image: chicken-prosciutto-piadina.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT19M

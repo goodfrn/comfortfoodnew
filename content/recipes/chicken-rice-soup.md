@@ -7,7 +7,7 @@ ogDescription: "Savory chicken broth with thin carrots, celery, and smoky paprik
 focusKeyphrase: "Chicken rice soup"
 date: 2025-09-29
 draft: false
-image: chicken-rice-soup.png
+image: chicken-rice-soup.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

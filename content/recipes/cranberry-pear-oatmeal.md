@@ -7,7 +7,7 @@ ogDescription: "Steel-cut oats, dried cherries, honey drip, fresh pear crunch. S
 focusKeyphrase: "cranberry pear oatmeal"
 date: 2025-08-14
 draft: false
-image: cranberry-pear-oatmeal.png
+image: cranberry-pear-oatmeal.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT6M

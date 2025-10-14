@@ -7,7 +7,7 @@ ogDescription: "Lean veal and beef meatballs browned in duck fat, simmered in a 
 focusKeyphrase: "Swedish Meatballs Reworked"
 date: 2025-08-17
 draft: false
-image: swedish-meatballs-reworked.png
+image: swedish-meatballs-reworked.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT25M

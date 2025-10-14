@@ -7,7 +7,7 @@ ogDescription: "Indulge in Braised Veal Cheeks with Cocoa Sauce. Rich, tender di
 focusKeyphrase: "Braised Veal Cheeks"
 date: 2025-07-19
 draft: false
-image: braised-veal-cheeks.png
+image: braised-veal-cheeks.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT3H15M

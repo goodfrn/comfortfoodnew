@@ -7,7 +7,7 @@ ogDescription: "Airy pavlova nests filled with passionfruit crémeux, whipped ba
 focusKeyphrase: "passionfruit pavlova"
 date: 2025-09-26
 draft: false
-image: passionfruit-coco-pavlovas.png
+image: passionfruit-coco-pavlovas.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT2H10M

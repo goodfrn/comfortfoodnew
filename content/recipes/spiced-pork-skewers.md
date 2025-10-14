@@ -7,7 +7,7 @@ ogDescription: "Spiced Pork Skewers - Smoky, flavorful pork marinated with spice
 focusKeyphrase: "spiced pork skewers"
 date: 2025-07-18
 draft: false
-image: spiced-pork-skewers.png
+image: spiced-pork-skewers.jpg
 author: "Emma"
 prepTime: PT18M
 cookTime: PT13M

@@ -7,7 +7,7 @@ ogDescription: "Quick chill. Rosé meets cranberry vodka. Crushed ice, lemon twi
 focusKeyphrase: "Blushed Cranberry Martini"
 date: 2025-07-28
 draft: false
-image: blushed-cranberry-martini.png
+image: blushed-cranberry-martini.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT0M

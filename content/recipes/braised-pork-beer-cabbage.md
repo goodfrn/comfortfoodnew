@@ -7,7 +7,7 @@ ogDescription: "Relish in Braised Pork Beer Cabbage: pork chops, kielbasa, soft 
 focusKeyphrase: "Braised Pork Beer Cabbage"
 date: 2025-07-20
 draft: false
-image: braised-pork-beer-cabbage.png
+image: braised-pork-beer-cabbage.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H50M

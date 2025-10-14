@@ -7,7 +7,7 @@ ogDescription: "Dark fruit nut cake with toasted warm spices, bourbon-wrapped re
 focusKeyphrase: "spiced fruit nut cake"
 date: 2025-09-28
 draft: false
-image: spiced-fruit-nut-cake.png
+image: spiced-fruit-nut-cake.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H55M

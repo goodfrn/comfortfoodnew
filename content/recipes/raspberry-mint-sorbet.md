@@ -7,7 +7,7 @@ ogDescription: "Churn raspberry mint sorbet cold with agave and lime. No heat, n
 focusKeyphrase: "raspberry mint sorbet"
 date: 2025-08-12
 draft: false
-image: raspberry-mint-sorbet.png
+image: raspberry-mint-sorbet.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT0M

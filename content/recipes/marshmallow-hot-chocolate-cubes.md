@@ -7,7 +7,7 @@ ogDescription: "Enjoy Marshmallow Hot Chocolate Cubes, a creative dessert-drink 
 focusKeyphrase: "Marshmallow Hot Chocolate Cubes"
 date: 2025-07-20
 draft: false
-image: marshmallow-hot-chocolate-cubes.png
+image: marshmallow-hot-chocolate-cubes.jpg
 author: "Emma"
 prepTime: PT1H15M
 cookTime: PT10M

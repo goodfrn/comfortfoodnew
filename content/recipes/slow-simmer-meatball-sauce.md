@@ -7,7 +7,7 @@ ogDescription: "Long low heat melds chunky tomatoes, spices, meatballs, sausage,
 focusKeyphrase: "Slow Simmer Meatball Sauce"
 date: 2025-10-14
 draft: false
-image: slow-simmer-meatball-sauce.png
+image: slow-simmer-meatball-sauce.jpg
 author: "Emma"
 prepTime: PT45M
 cookTime: PT4H30M

@@ -7,7 +7,7 @@ ogDescription: "Delve into Caramelized Onion Veggie Pâté, a tasty spread with 
 focusKeyphrase: "Caramelized Onion Veggie Pâté"
 date: 2025-07-20
 draft: false
-image: caramelized-onion-pate.png
+image: caramelized-onion-pate.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT55M

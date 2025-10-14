@@ -7,7 +7,7 @@ ogDescription: "Spicy, citrusy Haitian pork shoulder simmered slow in beef broth
 focusKeyphrase: "Twisted Griot Agrikol"
 date: 2025-08-20
 draft: false
-image: twisted-griot-agrikol.png
+image: twisted-griot-agrikol.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT2H10M

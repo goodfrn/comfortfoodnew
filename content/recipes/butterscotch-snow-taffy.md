@@ -7,7 +7,7 @@ ogDescription: "Sticky, smoky taffy pulled on fresh snow. Dark rum warmth, agave
 focusKeyphrase: "Butterscotch snow taffy"
 date: 2025-08-18
 draft: false
-image: butterscotch-snow-taffy.png
+image: butterscotch-snow-taffy.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT30M

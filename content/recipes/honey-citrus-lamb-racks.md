@@ -7,7 +7,7 @@ ogDescription: "Sear lamb racks with honey, thyme, citrus glaze; caramelize sauc
 focusKeyphrase: "Honey Citrus Lamb Racks"
 date: 2025-08-16
 draft: false
-image: honey-citrus-lamb-racks.png
+image: honey-citrus-lamb-racks.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT20M

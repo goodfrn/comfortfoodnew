@@ -7,7 +7,7 @@ ogDescription: "Braided brioche ring filled with tart-sweet cranberries simmered
 focusKeyphrase: "Cranberry Cinnamon Brioche Crown"
 date: 2025-09-27
 draft: false
-image: cranberry-cinnamon-brioche.png
+image: cranberry-cinnamon-brioche.jpg
 author: "Emma"
 prepTime: PT55M
 cookTime: PT28M

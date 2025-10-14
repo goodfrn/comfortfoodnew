@@ -7,7 +7,7 @@ ogDescription: "Hearty beef and lentil stew, mushrooms and star anise lend depth
 focusKeyphrase: "Spiced Lentil Beef Stew"
 date: 2025-07-26
 draft: false
-image: spiced-lentil-beef-stew.png
+image: spiced-lentil-beef-stew.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT1H5M

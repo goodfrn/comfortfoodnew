@@ -7,7 +7,7 @@ ogDescription: "Warm cocoa infused with orange zest and cinnamon. Rich dark choc
 focusKeyphrase: "Orange Cinnamon Cocoa"
 date: 2025-08-14
 draft: false
-image: spiced-orange-cocoa.png
+image: spiced-orange-cocoa.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT20M

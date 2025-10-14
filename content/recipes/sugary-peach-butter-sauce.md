@@ -7,7 +7,7 @@ ogDescription: "Slow melt butter, dissolve brown sugar, stir in peach juice and 
 focusKeyphrase: "peach butter sauce"
 date: 2025-10-13
 draft: false
-image: sugary-peach-butter-sauce.png
+image: sugary-peach-butter-sauce.jpg
 author: "Emma"
 prepTime: PT6M
 cookTime: PT4M

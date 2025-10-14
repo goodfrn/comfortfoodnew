@@ -7,7 +7,7 @@ ogDescription: "Try Spiced Chili Rice for a rich, smoky side dish. Basmati rice 
 focusKeyphrase: "Spiced Chili Rice"
 date: 2025-07-19
 draft: false
-image: spiced-chili-rice.png
+image: spiced-chili-rice.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT25M

@@ -7,7 +7,7 @@ ogDescription: "Burger sliders packed with juicy beef, layers of sharp cheddar, 
 focusKeyphrase: "cheeseburger sliders"
 date: 2025-10-13
 draft: false
-image: cheeseburger-sliders.png
+image: cheeseburger-sliders.jpg
 author: "Emma"
 prepTime: PT7M
 cookTime: PT17M

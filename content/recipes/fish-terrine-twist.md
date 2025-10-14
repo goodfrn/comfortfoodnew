@@ -7,7 +7,7 @@ ogDescription: "Layered fish terrine with cod, salmon, dill, asparagus. Chill we
 focusKeyphrase: "fish terrine with cod and salmon"
 date: 2025-08-17
 draft: false
-image: fish-terrine-twist.png
+image: fish-terrine-twist.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT25M

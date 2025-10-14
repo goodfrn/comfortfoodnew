@@ -7,7 +7,7 @@ ogDescription: "Dense black bean brownies made fudgy with coconut oil and cinnam
 focusKeyphrase: "black bean brownies"
 date: 2025-08-13
 draft: false
-image: black-bean-brownies.png
+image: black-bean-brownies.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT20M

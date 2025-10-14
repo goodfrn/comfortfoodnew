@@ -7,7 +7,7 @@ ogDescription: "Big meatballs with broccoli minced fine, mix of pork, veal, beef
 focusKeyphrase: "giant meat and broccoli balls"
 date: 2025-08-17
 draft: false
-image: giant-meat-and-broccoli-balls.png
+image: giant-meat-and-broccoli-balls.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT35M

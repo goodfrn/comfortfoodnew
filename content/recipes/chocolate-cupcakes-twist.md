@@ -7,7 +7,7 @@ ogDescription: "Delicious Chocolate Cupcakes Twist with spelt flour, brown sugar
 focusKeyphrase: "Chocolate Cupcakes Twist"
 date: 2025-07-21
 draft: false
-image: chocolate-cupcakes-twist.png
+image: chocolate-cupcakes-twist.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT22M

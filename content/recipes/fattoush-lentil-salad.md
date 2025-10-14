@@ -7,7 +7,7 @@ ogDescription: "Crunchy pita, golden cauliflower, green lentils. Fresh mint, cit
 focusKeyphrase: "Fattoush Lentil Salad"
 date: 2025-07-28
 draft: false
-image: fattoush-lentil-salad.png
+image: fattoush-lentil-salad.jpg
 author: "Emma"
 prepTime: PT20M
 cookTime: PT35M

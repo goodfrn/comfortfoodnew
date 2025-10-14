@@ -7,7 +7,7 @@ ogDescription: "Golden roasted parsnips and onions with cumin, sharp cheddar cro
 focusKeyphrase: "Roasted Parsnip Onion Soup"
 date: 2025-09-25
 draft: false
-image: roasted-parsnip-soup.png
+image: roasted-parsnip-soup.jpg
 author: "Emma"
 prepTime: PT40M
 cookTime: PT55M
