@@ -60,16 +60,18 @@
   <!-- 📱 Contenu recette avec layout grid -->
   <div class="max-w-6xl mx-auto">
     
-    <!-- En-tête recette : image + infos organisées -->
 <!-- En-tête recette : image + infos organisées -->
     <div class="grid grid-cols-1 lg:grid-cols-[1fr_1fr] gap-8 sm:gap-12 items-start mb-12">
       
+      <!-- Colonne gauche : Image + Byline -->
+      <div>
         <!-- Image -->
         {{ with .Params.image }}
           <div class="rounded-2xl shadow-lg overflow-hidden" style="aspect-ratio: 3/2;">
             {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
           </div>
         {{ end }}
+        
         <!-- Byline sous l'image -->
         {{ if or .Params.author .Date }}
           <div class="bg-orange-50 border-l-4 border-orange-400 p-4 mb-6 rounded-r-lg mt-4">
@@ -109,7 +111,6 @@
           </div>
         {{ end }}
       </div>
- 
       
       <!-- Colonne droite : Infos recette organisées -->
       <div class="flex flex-col gap-6">
@@ -170,8 +171,8 @@
         <!-- Boutons CTA -->
         {{ partial "cta-buttons.html" . }}
       </div>
-    </div>
-
+      
+    </div> <!-- Fin du grid 2 colonnes -->
     <!-- INTRODUCTION COMPLÈTE -->
     {{ with .Params.introduction }}
       <div class="max-w-6xl mx-auto mb-12">
