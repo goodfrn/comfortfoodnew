@@ -7,7 +7,7 @@ ogDescription: "Bold BBQ sauce with ancho chili soaked in coffee, fresh blueberr
 focusKeyphrase: "Tangy Cran Blueberry BBQ sauce"
 date: 2025-10-15
 draft: false
-image: tangy-cran-blueberry-bbq.png
+image: tangy-cran-blueberry-bbq.jpg
 author: "Emma"
 prepTime: PT35M
 cookTime: PT2H
