@@ -1,0 +1,95 @@
+---
+title: "Raspberry Cheesecake Cookies Twist"
+slug: "raspberry-cheesecake-cookies"
+description: "Cookies filled with a tangy cream cheese center, wrapped in a tender dough packed with graham crackers and milk chocolate chips. A homemade raspberry glaze dipped and dusted in powdered sugar finishes it off. Adjusted flour quantities for balance and swapped white chocolate for milk chocolate for a richer taste. Techniques focus on texture cues, chilling to avoid gooey mess, and avoiding overbaking by watching edges. Glaze thickens quickly—watch closely. A hint of lemon zest in filling lifts it, making it less cloying. Yields 10 sizable cookies with an addictive blend of sweet and tart, crunchy and creamy layers."
+metaDescription: "Raspberry Cheesecake Cookies Twist filled with tangy cream cheese center, graham crackers, milk chocolate chips, and fresh raspberry glaze dusted in powdered sugar."
+ogDescription: "Tangy cheesecake centers frozen firm inside crumbly, buttery dough with chunky graham and gooey milk chocolate. Tart raspberry glaze dusted with sugar for finish."
+focusKeyphrase: "Raspberry cheesecake cookies"
+date: 2025-12-30
+draft: false
+image: raspberry-cheesecake-cookies.jpg
+author: "Emma"
+prepTime: PT95M
+cookTime: PT11M
+totalTime: PT1H46M
+recipeYield: "10 cookies"
+categories: ["Desserts"]
+tags:
+- "American desserts"
+- "cookies"
+- "cheesecake"
+- "raspberry"
+- "baking tips"
+- "cookie recipes"
+keywords:
+- "cheesecake cookies"
+- "raspberry glaze"
+- "graham crackers"
+breadcrumb: ["Home", "Recipes", "Desserts"]
+nutrition: 
+ calories: "350"
+ fatContent: "17g"
+ carbohydrateContent: "45g"
+ proteinContent: "4g"
+ingredients:
+- "4.5 oz cream cheese, softened"
+- "3/4 cup powdered sugar"
+- "1 1/4 tsp all-purpose flour"
+- "1/2 tsp vanilla extract"
+- "1/8 tsp salt"
+- "1 1/4 cups all-purpose flour"
+- "3/4 cup cake flour"
+- "1 1/2 tbsp cornstarch"
+- "1/2 tsp baking soda"
+- "1/2 tsp baking powder"
+- "1/4 tsp salt"
+- "11 tbsp cold unsalted butter, diced"
+- "1/2 cup white sugar"
+- "1/2 cup packed light brown sugar"
+- "1 large egg"
+- "1 egg yolk"
+- "1 tsp vanilla extract"
+- "1 cup graham crackers, roughly broken"
+- "3/4 cup milk chocolate chips"
+- "1 cup raspberries, fresh or thawed frozen"
+- "1/3 cup water"
+- "1/2 cup granulated sugar"
+- "1 1/2 tsp cornstarch"
+- "1 tbsp unsalted butter"
+- "1/2 tsp vanilla extract"
+- "1/4 cup powdered sugar, plus more for dusting"
+- "Zest of half a lemon"
+instructions:
+- "Start with cheesecake filling. Beat cream cheese, powdered sugar, flour, vanilla, salt and lemon zest. Use hand mixer. Whip till creamy but still firm enough—not runny or it'll ooze everywhere."
+- "Spoon ~1 tbsp scoops on parchment-lined plate or sheet. Freeze at least 1 1/2 hours; up to 72 hours is fine. Freezing solid helps no-melt cookie centers later."
+- "Heat oven to about 380F. Lining two sheets with parchment or silicone mats. Serves to prevent sticking and helps heat distribute evenly."
+- "In large bowl, whisk together all dry ingredients for dough: both flours, cornstarch, baking soda and powder, salt. Set aside. Mixing dry first avoids clumps and ensures rising agents activate correctly."
+- "With paddle attachment on stand mixer, cream cold butter with white and brown sugar. About 3 minutes until light and fluffy. This adds air pockets, key for tender cookies, and makes sugars dissolve evenly."
+- "Add whole egg, yolk and vanilla. Mix just to combine, don't overbeat; too much air toughens dough."
+- "Add dry mixture gradually, mixing till just incorporated. Avoid overmixing; stop once no streaks remain, else gluten builds and cookies toughen."
+- "Fold in rough chunks of graham crackers (don’t crush beforehand, the bigger chunks make texture interesting) and milk chocolate chips. Give one last quick stir to pull everything together."
+- "Now the assembly. Scoop about 2 tbsp dough. Roll ball. Flatten gently into thick disk. Place frozen cheesecake dollop at center. Top with another dough disk. Pinch edges tightly to seal filling inside—seal good or filling will leak."
+- "Place on baking sheet. Flatten cookie gently—don't squish filling. Repeat. Space cookies comfortably; they'll spread a little."
+- "Bake 10–11 mins. Watch edges mainly; they go golden first and signals done. Tops slightly pale but set—too brown, dry cookies."
+- "Rest cookies on sheet 5–8 mins after oven. They seem soft out, but firm up as they cool. Transfer to wire rack to cool completely before glazing."
+- "For glaze, puree raspberries smooth in processor. Strain seeds out pressing with spatula. Discard seeds. Stir in 1/3 cup water."
+- "In small pot, whisk sugar and cornstarch. Slowly add raspberry juice. Heat over medium stirring constantly. When it boils, sauce thickens in ~2-3 mins. Remove from heat—thickens more as cools."
+- "Let cool 15 mins or till barely warm, then whisk in butter, vanilla, powdered sugar. Adjust sweetness or thickness by adding more powdered sugar in spoonfuls. Aim for dip-able consistency—not dripping watery."
+- "Dunk cookies into glaze; dust with powdered sugar. The glaze might drip so place dipped cookies on parchment again. Extra glaze can store refrigerated for days or just dunk more cookies."
+- "Store cookies in airtight container chilled for few days. Fillings stay creamy but hold shape. Reheat gently if gooey."
+introduction: "Creamy cheesecake center trapped inside cookie dough. I learned freezing that filling is game changer—no sad oozes or flat cookies. Graham crackers left chunkier adds crunch and surprise bits. Milk chocolate replaced white here—more familiar, richer, less sweet. Raspberries make a tart glaze that cuts the dough's sugary vibe. Cook times flex depending on oven—edges golden tells when to jump out. You want soft cookie but edges firm. Messy? Chill dough more. Sample glaze while cooling. A trick is lemon zest in filling; it brightens and stops filling from tasting too heavy after resting hours."
+ingredientsNote: "Powdered sugar measured loosely, sift if lumpy. Cream cheese—full fat, cold but slightly softened gives better body in filling. Don’t substitute too liquidy. Cold butter is essential for texture; melt-steady dough otherwise greasy. Cake flour lowers gluten, makes fluffier cookies; you can swap with all-purpose but texture slightly denser. Cornstarch in both dough and glaze stabilizes—don't skip. Graham crackers don’t crush fully; big bits keep cookie interesting. Milk chocolate better for mellow sweetness than white, but either works. Raspberries fresh or frozen—frozen defrosted works fine if strained well. Lemon zest optional but elevates without changing sweetness profile."
+instructionsNote: "Beat cheesecake filling until just creamy—not whipped till fluffy; texture matters. Drop filling small dollops on parchment—too big means undercooked center or hard to seal dough. Freeze filling solid for at least 90 minutes. Keep dough cold till assembly—warm dough will bleed filling. When sealing edges, pinch tight and slightly moisten dough edges if needed to stick better. Watch baking closely; edges golden is ideal doneness. Cookie tops stay pale but set. Rest on pans after baking; they firm as they cool or break apart otherwise. Glaze cooks fast. Stir constantly or it scorches. Cool glaze before dunking or cookies get soggy. Dusting powdered sugar after dipping adds visual appeal and light sweetness against tart raspberry. Extra glaze is gift; refrigerate and store in airtight. Reheat cookies low and slow to soften centers again."
+tips:
+- "Freeze cheesecake dollops solid. Don’t skimp on chilling. Soft filling oozes, ruins dough seal. Thick enough but still scoopable is key. Drop small scoops on parchment; keep shape for easy bake later. Handle quickly, room temp means messier center."
+- "Butter cold, diced small. Cream with sugars until fluffy—3 minutes min. Air pockets show visually, light texture follows. Use paddle attachment, not whisk. Overbeating adds toughness; underbeating means uneven sugar. Balance is everything here, don’t rush step."
+- "Don’t mix dough too much once flour added. Stop once no flour streaks visible. Gluten develops fast, chewy cookies if overmixed. Folding in chunks of graham prevents them from breaking down. Big bites give texture contrast, little bursts of crunch among softness."
+- "Watch oven edges carefully. Cookies look pale on top, edges golden signals doneness. Overbrown means dry crumb, no good. Rest on pan 5–8 minutes after baking, they firm up as they cool. Removing too soon breaks shape or causes collapse."
+- "Glaze thickens fast when heated. Stir constantly or burns. If too thick when cooled, thin with water splash, too runny add powdered sugar in spoonfuls. Strain seeds well or glaze bitterness kills taste. Dunk cookies gently; glaze drips so use parchment under dipped batches."
+faq:
+- "q: How to stop filling from leaking? a: Chill cheesecake dollops solid, freeze minimum 90 mins. Dough needs to be cold too. Pinch edges tight, maybe moisten dough edges for better seal. If dough too thick, filling cracks inside. Roll thinner disks but careful not to tear."
+- "q: Can I swap chocolates? a: Milk chocolate balances sweet-tart well. White chocolate sweeter, might clash with lemon zest. Dark works but more bitter. Chips or chopped bars fine. Quality affects melt and texture. Adjust sugar in dough if swapping chocolate types."
+- "q: Dough too sticky, what now? a: Chill 10 mins in fridge. Warm hands make pliable again. Too stiff? Leave on counter few minutes. Butter temp critical—cold but not rock hard. Greasy dough means butter too soft or melted, add flour cautiously if needed."
+- "q: How to store leftover cookies? a: Airtight container in fridge recommended. Keeps filling creamy but firm. Layer with parchment paper to avoid sticking. Can freeze individually wrapped. Reheat gently in warm oven, low temp. Glaze lasts several days refrigerated; if glaze dries hard, re-dip quickly."
+
+---
