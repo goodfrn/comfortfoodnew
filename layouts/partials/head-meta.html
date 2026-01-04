@@ -79,4 +79,9 @@ if (document.readyState === 'complete') {
 
 <!-- Clarity  -->
 <script src="https://cdn.logr-in.com/LogRocket.min.js" crossorigin="anonymous"></script>
-<script>window.LogRocket && window.LogRocket.init('3qmlei/comfortfood');</script>
+<script>
+  // Ne lancer LogRocket que si l'utilisateur a donné son consentement
+  if(localStorage.getItem('cookieConsent') === 'true') {
+    window.LogRocket && window.LogRocket.init('3qmlei/comfortfood');
+  }
+</script>
