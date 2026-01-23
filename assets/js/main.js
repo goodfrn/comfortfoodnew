@@ -1,6 +1,7 @@
 /* assets/js/main.js - Point d'entrée JavaScript principal */
 
 // Import des modules
+import { initRelatedCarousel } from './modules/related-carousel.js';
 import { initSearch } from './modules/search.js';
 import { initContactForm } from './modules/contact-form.js';
 import { initStickyNav } from './modules/recipe-sticky-nav.js';
