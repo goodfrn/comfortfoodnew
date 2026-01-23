@@ -1,11 +1,11 @@
 /* assets/js/main.js - Point d'entrée JavaScript principal */
 
 // Import des modules
-import { initRelatedCarousel } from './modules/related-carousel.js';
 import { initSearch } from './modules/search.js';
 import { initContactForm } from './modules/contact-form.js';
 import { initStickyNav } from './modules/recipe-sticky-nav.js';
 import { initCTAButtons } from './modules/cta-buttons.js';
+import { initRelatedCarousel } from './modules/related-carousel.js';
 
 // Gestionnaire principal de l'application
 class App {
@@ -70,6 +70,11 @@ class App {
     // Pages de recettes
     if (pathname.includes('/recipes/') && document.getElementById('stickyNav')) {
       this.modules.set('stickyNav', initStickyNav());
+    }
+    
+    // Related wide carousel (auto-scroll + drag)
+    if (document.querySelector('[data-related-rail]')) {
+      this.modules.set('relatedCarousel', initRelatedCarousel());
     }
     
     // Page de contact
@@ -356,6 +361,11 @@ class App {
           console.error('❌ Erreur Service Worker:', error);
         });
     }
+  }
+  
+  // Related wide carousel (auto-scroll + drag)
+  if (document.querySelector('[data-related-rail]')) {
+    this.modules.set('relatedCarousel', initRelatedCarousel());
   }
 
  
