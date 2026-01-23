@@ -186,7 +186,7 @@
     <div class="grid lg:grid-cols-[2fr_1fr] gap-6 sm:gap-8 lg:gap-12 items-start">
       
       <!-- Colonne principale -->
-      <div class="w-full space-y-8">
+      <div class="w-full min-w-0 space-y-8 md:space-y-12">
         
         <!-- SECTION INGRÉDIENTS -->
         <div class="card card--large" id="ingredients">
@@ -206,6 +206,8 @@
             </ul>
           </div>
         </div>
+       
+        {{ partial "related-wide-scroll.html" . }}
         
         <!-- NOTE INGRÉDIENTS (gradient horizontal) -->
         {{ with .Params.ingredientsNote }}
@@ -299,7 +301,7 @@
        {{ end }}
         
         <!-- Articles liés -->
-        {{ partial "related.html" . }}
+        {{ partial "related-wide-scroll-random.html" . }}
         
         <!-- Commentaires -->
         {{ partial "comments.html" . }}
@@ -407,6 +409,9 @@
             </a>
           </div>
         </div>      
+        {{ partial "related-sidebar-samecat.html" . }}
+        {{ partial "sidebar-categories.html" . }}
+        {{ partial "related-sidebar-trending.html" . }}
       </aside>
       
     </div>
