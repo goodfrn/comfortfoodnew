@@ -1,0 +1,52 @@
+{{/* layouts/partials/related-wide-scroll-random.html */}}
+
+{{ $all := where .Site.RegularPages "Section" "recipes" }}
+{{ $items := slice }}
+
+{{ range $all }}
+  {{ if ne .RelPermalink $.RelPermalink }}
+    {{ $items = $items | append . }}
+  {{ end }}
+{{ end }}
+
+{{ $items = first 21 (shuffle $items) }}
+
+{{ if gt (len $items) 0 }}
+<section class="mt-12 w-full max-w-full overflow-hidden">
+  <div class="flex items-center justify-between mb-5">
+    <h2 class="text-lg md:text-xl font-medium" style="color: var(--color-text); font-family: var(--font-serif);">
+      You’ll Love These Too
+    </h2>
+    <a href="/recipes/" class="text-sm font-medium hover:underline" style="color: var(--primary);">
+      Explore all →
+    </a>
+  </div>
+
+  <div class="w-full max-w-full overflow-hidden">
+    <div
+      class="related-rail flex gap-4 overflow-x-auto pb-4 scroll-smooth cursor-grab active:cursor-grabbing select-none"
+      style="-webkit-overflow-scrolling: touch;"
+      data-related-rail
+      data-related-interval="2500"
+      data-related-resume="4000"
+    >
+      {{ range $items }}
+        <a href="{{ .RelPermalink }}" class="flex-shrink-0 w-[85%] sm:w-[55%] lg:w-[33%] group" data-related-item>
+          <article class="rounded-2xl overflow-hidden border border-gray-100 bg-white hover:shadow-sm transition">
+            {{ with .Params.image }}
+              <div class="aspect-[16/10] overflow-hidden">
+                {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
+              </div>
+            {{ end }}
+            <div class="p-4">
+              <h3 class="text-base font-medium leading-snug line-clamp-2" style="color: var(--color-text); font-family: var(--font-serif);">
+                {{ .Title }}
+              </h3>
+            </div>
+          </article>
+        </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
