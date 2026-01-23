@@ -1,0 +1,49 @@
+{{/* layouts/partials/related-sidebar-samecat.html */}}
+
+{{ $cat := "" }}
+{{ with index .Params.categories 0 }}{{ $cat = . }}{{ end }}
+
+{{ if $cat }}
+  {{ $all := where .Site.RegularPages "Section" "recipes" }}
+  {{ $items := slice }}
+
+  {{ range $all }}
+    {{ if and (ne .RelPermalink $.RelPermalink) (in (.Params.categories | default (slice)) $cat) }}
+      {{ $items = $items | append . }}
+    {{ end }}
+  {{ end }}
+
+  {{ $items = first 6 (shuffle $items) }}
+
+  {{ if gt (len $items) 0 }}
+  <section class="card bg-white/95 border border-gray-200/60 rounded-2xl p-4 md:p-5 shadow-sm">
+
+    <h3 class="text-sm uppercase tracking-wide mb-4 text-center"
+        style="color: var(--color-text-secondary); font-family: var(--font-serif);">
+      More {{ $cat }} Recipes
+    </h3>
+
+    <ul class="space-y-3">
+      {{ range $items }}
+        <li>
+          <a href="{{ .RelPermalink }}"
+             class="flex items-center gap-3 group">
+
+            {{ with .Params.image }}
+              <div class="w-14 h-14 rounded-xl overflow-hidden flex-shrink-0">
+                {{ partial "recipe-image.html" (dict "image" . "title" $.Title) }}
+              </div>
+            {{ end }}
+
+            <span class="text-sm leading-snug line-clamp-2 group-hover:underline"
+                  style="color: var(--color-text); font-family: var(--font-serif);">
+              {{ .Title }}
+            </span>
+          </a>
+        </li>
+      {{ end }}
+    </ul>
+
+  </section>
+  {{ end }}
+{{ end }}
