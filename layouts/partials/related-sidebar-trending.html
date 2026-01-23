@@ -1,0 +1,94 @@
+{{/* layouts/partials/related-sidebar-trending.html */}}
+
+{{ $config := .Site.Data.config }}
+{{ $recipe_page := $config.recipe_page }}
+
+{{/* Base: toutes les recettes */}}
+{{ $all := where .Site.RegularPages "Section" "recipes" }}
+
+{{/* Exclure la recette courante */}}
+{{ $items := slice }}
+{{ range $all }}
+  {{ if ne .RelPermalink $.RelPermalink }}
+    {{ $items = $items | append . }}
+  {{ end }}
+{{ end }}
+
+{{/* Random */}}
+{{ $items = shuffle $items }}
+
+{{/* 7 cartes */}}
+{{ $items = first 7 $items }}
+
+{{ if gt (len $items) 0 }}
+<div class="card bg-white/95 md:bg-gradient-to-br md:from-white/80 md:to-gray-50/60 shadow-lg md:shadow-xl rounded-2xl md:rounded-3xl overflow-hidden p-4 md:p-6">
+
+  <div class="text-center mb-4 md:mb-6 pb-3 md:pb-4 border-b border-stone-200/40">
+    <h3 class="text-base md:text-lg font-semibold text-stone-800"
+        style="font-family: var(--font-serif);">
+      PEOPLE LOVE
+    </h3>
+  </div>
+
+  <div class="space-y-4">
+    {{ range $items }}
+      {{ $p := . }}
+
+      {{/* Badge category (safe) */}}
+      {{ $badge := "OTHER" }}
+      {{ with $p.Params.categories }}
+        {{ with index . 0 }}
+          {{ $badge = . }}
+        {{ end }}
+      {{ end }}
+
+      <a href="{{ $p.RelPermalink }}" class="block group">
+        <article class="relative rounded-2xl overflow-hidden border border-stone-200/40 bg-white shadow-sm">
+
+          {{ with $p.Params.image }}
+            <div class="aspect-[4/5] overflow-hidden">
+              {{ partial "recipe-image.html" (dict "image" . "title" $p.Title "variant" "single") }}
+            </div>
+          {{ end }}
+
+          <!-- Overlay -->
+          <div class="absolute inset-0 bg-gradient-to-t from-black/65 via-black/10 to-black/0"></div>
+
+          <!-- Badge -->
+          <div class="absolute top-4 left-1/2 -translate-x-1/2">
+            <span class="inline-flex items-center gap-2 px-5 py-2 rounded-full text-xs font-semibold tracking-widest uppercase"
+                  style="background: rgba(255,255,255,0.85); color: #222;">
+              <span class="inline-block w-2 h-2 rounded-full"
+                    style="background: linear-gradient(45deg, var(--primary), var(--secondary));"></span>
+              {{ $badge }}
+            </span>
+          </div>
+
+          <!-- Title + date/read -->
+          <div class="absolute bottom-0 left-0 right-0 p-5 text-center">
+            <h4 class="text-white font-semibold leading-snug text-lg"
+                style="font-family: var(--font-serif); text-shadow: 0 2px 10px rgba(0,0,0,0.35);">
+              {{ $p.Title }}
+            </h4>
+
+            <div class="mt-2 text-white/85 text-sm italic"
+                 style="font-family: var(--font-serif);">
+              {{ $p.Date.Format "January 2, 2006" }} <span class="opacity-70">—</span>
+            </div>
+
+            {{ with $p.ReadingTime }}
+              <div class="mt-1 text-white/85 text-sm italic flex items-center justify-center gap-2"
+                   style="font-family: var(--font-serif);">
+                <span class="inline-block w-4 h-4 rounded-full border border-white/70"></span>
+                {{ . }} Mins read
+              </div>
+            {{ end }}
+          </div>
+
+        </article>
+      </a>
+    {{ end }}
+  </div>
+
+</div>
+{{ end }}
