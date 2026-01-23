@@ -362,11 +362,6 @@ class App {
         });
     }
   }
-  
-  // Related wide carousel (auto-scroll + drag)
-  if (document.querySelector('[data-related-rail]')) {
-    this.modules.set('relatedCarousel', initRelatedCarousel());
-  }
 
  
 
