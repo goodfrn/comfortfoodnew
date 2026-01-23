@@ -1,0 +1,32 @@
+{{/* layouts/partials/sidebar-categories.html */}}
+
+{{ $cats := .Site.Taxonomies.categories }}
+
+{{ if $cats }}
+<section class="card bg-white/95 border border-gray-200/60 rounded-2xl p-4 md:p-5 shadow-sm">
+
+  <h3 class="text-sm uppercase tracking-wide mb-4 text-center"
+      style="color: var(--color-text-secondary); font-family: var(--font-serif);">
+    Categories
+  </h3>
+
+  <ul class="space-y-2">
+    {{ range first 10 ($cats.ByCount) }}
+      <li>
+        <a href="{{ .Page.RelPermalink }}"
+           class="flex items-center justify-between gap-3 px-3 py-2 rounded-xl border border-gray-100 hover:bg-gray-50 transition"
+           style="color: var(--color-text); font-family: var(--font-serif);">
+
+          <span class="text-sm truncate">{{ .Page.Title }}</span>
+
+          <span class="text-xs px-2 py-0.5 rounded-full"
+                style="background-color: var(--color-bg-alt); color: var(--color-text-secondary);">
+            {{ .Count }}
+          </span>
+        </a>
+      </li>
+    {{ end }}
+  </ul>
+
+</section>
+{{ end }}
