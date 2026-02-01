@@ -12,7 +12,7 @@ author: "Emma"
 prepTime: PT12M
 cookTime: PT11M
 totalTime: PT53M
-recipeYield: "24 fritters"
+recipeYield: "24"
 categories: ["Appetizers"]
 tags:
 - "Italian-American"
