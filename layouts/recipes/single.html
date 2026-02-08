@@ -115,11 +115,25 @@
       <!-- Colonne droite : Infos recette organisées -->
       <div class="flex flex-col gap-6">
         
-        <!-- Description -->
+        <!-- Description + Hook -->
         {{ $intro := .Params.description | default .Summary }}
         {{ with $intro }}
-          <div class="text-lg italic leading-relaxed" style="color: var(--color-text-secondary);">
-            {{ . | markdownify }}
+          <div class="space-y-3">
+        
+            <!-- Hook editorial (not a section heading) -->
+            <p id="desc-hook" class="text-sm uppercase tracking-wide font-semibold text-slate-500">
+              Before You Start
+            </p>
+        
+            <!-- Description text -->
+            <div
+              class="text-lg italic leading-relaxed"
+              style="color: var(--color-text-secondary);"
+              aria-describedby="desc-hook"
+            >
+              {{ . | markdownify }}
+            </div>
+        
           </div>
         {{ end }}
 
