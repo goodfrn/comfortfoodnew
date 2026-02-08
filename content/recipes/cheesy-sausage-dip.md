@@ -1,7 +1,7 @@
 ---
 title: "Cheesy Sausage Dip"
 slug: "cheesy-sausage-dip"
-description: "Ground sausage browned, cheese cubes melted with corn and tomatoes spiced with garlic powder. Two methods: stovetop or slow cooker. Serve hot with chips. Adjust timing by visual cues—melting cheese, sizzling meat. Substitute cream cheese with Neufchâtel for lighter feel. Drain juices thoroughly to avoid watery dip. Mix or layer ingredients to control melting consistency. Keep warm on low slow cooker setting or covered skillet. Textures range from gooey cheese to tender sausage. Flavor balances mildly sweet corn and smoky sausage with gentle heat from chilis. Easy to scale up or down. Perfect for gatherings or quick snacks."
+description: "This cheesy sausage dip combines browned sausage, gooey melted cheese, sweet corn, and tomatoes with green chilis. Perfect on the stovetop for speed or in the slow cooker for parties and game day."
 metaDescription: "Cheesy Sausage Dip with browned sausage, melty cheese, corn, and tomatoes. Serve hot with chips. Choose stovetop or slow cooker; watch moisture closely."
 ogDescription: "Melty cheese, crisp sausage, and mild heat from corn and chilis. Browning key; drain well. Slow cooker or stovetop. Serve warm with sturdy chips."
 focusKeyphrase: "cheesy sausage dip"
