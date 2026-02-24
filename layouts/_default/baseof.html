@@ -2,6 +2,7 @@
 <html lang="{{ .Site.Data.config.site.language | default .Site.Language.Lang }}">
 <head> 
   <meta charset="UTF-8">  
+  <meta name="google-adsense-account" content="ca-pub-4121205289903915">
   <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ with .Params.description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -39,6 +40,10 @@
   {{ else }}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}">
   {{ end }}
+  <script async 
+    src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4121205289903915"
+    crossorigin="anonymous">
+  </script>
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
   {{/* ---------- Google Analytics - Placé juste après <body> ---------- */}}
