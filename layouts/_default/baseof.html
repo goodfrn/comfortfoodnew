@@ -47,12 +47,6 @@
   <script src="https://d3u598arehftfk.cloudfront.net/prebid_hb_38407_37645.js" async> </script>
 </head>
 <body class="flex flex-col min-h-screen leading-relaxed antialiased">
-  <div id='HB_Footer_Close_hbagency_space_301250'>
-    <div id='HB_CLOSE_hbagency_space_301250'></div>
-    <div id='HB_OUTER_hbagency_space_301250'>
-      <div id='hbagency_space_301250'></div>
-    </div>
-  </div>
 
   {{/* ---------- Google Analytics - Placé juste après <body> ---------- */}}
   {{ partial "analytics.html" . }}
@@ -96,5 +90,12 @@
       <script src="{{ $mainJS.RelPermalink }}" defer></script>
     {{ end }}
   {{ end }}
+
+  <div id='HB_Footer_Close_hbagency_space_301250'>
+    <div id='HB_CLOSE_hbagency_space_301250'></div>
+    <div id='HB_OUTER_hbagency_space_301250'>
+      <div id='hbagency_space_301250'></div>
+    </div>
+  </div>
 </body>
 </html>
