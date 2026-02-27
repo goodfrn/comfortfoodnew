@@ -47,7 +47,12 @@ self.addEventListener('fetch', event => {
   const { request } = event;
   const url = new URL(request.url);
   
-  // ✅ NOUVEAU: Skip requêtes non-GET
+  // ✅ Skip requêtes externes
+  if (url.origin !== self.location.origin) {
+    return;
+  }
+  
+  // ✅ Skip requêtes non-GET
   if (request.method !== 'GET') {
     event.respondWith(fetch(request));
     return;
