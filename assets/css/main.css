@@ -18,16 +18,16 @@
    =================================================================== */
 :root {
   /* === COULEURS PRINCIPALES (système unique) === */
-  --primary: #EA580C;
-  --primary-light: #FB7C47;
-  --primary-dark: #C2410C;
-  --brand-color: #ea580c;
+  --primary: {{ site.Data.config.colors.primary | default "#EA580C" }};
+  --primary-light: {{ site.Data.config.colors.primary_light | default "#FB7C47" }};
+  --primary-dark: {{ site.Data.config.colors.primary_dark | default "#C2410C" }};
+  --brand-color: {{ site.Data.config.colors.brand_color | default "#ea580c" }};
 
-  --neutral-900: #18181B;
+  --neutral-900: {{ site.Data.config.colors.text | default "#18181B" }};
   --neutral-800: #27272A;    /* Charcoal light - Texte secondaire */
   --neutral-700: #52525B;    /* Charcoal lighter - Texte désactivé */
-  --neutral-100: #F7F0D8;
-  --neutral-50: #FFFFFF;
+  --neutral-100: {{ site.Data.config.colors.secondary | default "#F7F0D8" }};
+  --neutral-50: {{ site.Data.config.colors.background | default "#FFFFFF" }};
   
   /* === COULEURS SYSTÈME === */
   --black: #000000;
