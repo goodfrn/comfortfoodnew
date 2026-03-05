@@ -1,18 +1,11 @@
-{{/* Usage: 
-  Lazy (défaut) : {{ partial "recipe-image.html" (dict "image" .Params.image "title" .Title) }}
-  Eager (hero)  : {{ partial "recipe-image.html" (dict "image" .Params.image "title" .Title "loading" "eager" "fetchpriority" "high") }}
-*/}}
-{{ $img := resources.Get (printf "images/%s" .image) }}
-{{ if $img }}
-  {{ $webp := $img.Fill "600x400 q75 webp" }}
-  {{ $loading := .loading | default "lazy" }}
-  {{ $fetchpriority := .fetchpriority | default "" }}
-  
-  <img src="{{ $webp.RelPermalink }}" 
-       alt="{{ .title }}" 
-       class="w-full h-full object-cover"
-       loading="{{ $loading }}"
-       {{ if $fetchpriority }}fetchpriority="{{ $fetchpriority }}"{{ end }}
-       width="600" 
-       height="400">
-{{ end }}
+{{ $loading := .loading | default "lazy" }}
+{{ $fetchpriority := .fetchpriority | default "" }}
+{{ $filename := .image | replaceRE "\\.[^.]+$" "" }}
+
+<img src="https://images.comfortfood.uk/display/{{ $filename }}.webp" 
+     alt="{{ .title }}" 
+     class="w-full h-full object-cover"
+     loading="{{ $loading }}"
+     {{ if $fetchpriority }}fetchpriority="{{ $fetchpriority }}"{{ end }}
+     width="600" 
+     height="400">
