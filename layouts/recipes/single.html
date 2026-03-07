@@ -2,10 +2,7 @@
 {{ $config := .Site.Data.config }}
 {{ $breadcrumb := $config.list_pages.breadcrumb }}
 {{ $recipe_page := $config.recipe_page }}
- 
-{{ if eq .Section "recipes" }}
-{{ partial "recipe-jsonld.html" . }}
-{{ end }}
+
 
 <section class="container mx-auto px-4 relative" style="background-color: var(--color-bg); min-height: 100vh; padding-top: 96px;">
   
