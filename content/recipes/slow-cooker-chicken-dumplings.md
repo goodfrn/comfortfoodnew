@@ -77,3 +77,4 @@ faq:
 - "q: Dumplings gummy inside? a: Too thick. Thinner next time. And at the edges not the middle. 50 minutes on high. Maybe 10 more if your cooker runs cool."
 - "q: Leftovers? a: Cool it. Container. Fridge. Add broth reheating because the dumplings soak everything up. Stove is best. Gentle heat. Freezes a couple months."
 - "q: Want it soupier? a: Extra cup of broth at the start. Same recipe otherwise. Thinner consistency. More like a soup than a stew."
+---
