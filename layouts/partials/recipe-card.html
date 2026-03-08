@@ -24,26 +24,52 @@
     
     <!-- Métriques -->
     <div class="flex items-center justify-between pt-2 border-t border-gray-100">
-      
-      {{ $displayTime := $recipe.Params.totalTime }}
-      {{ if not $displayTime }}
-        {{ if and $recipe.Params.prepTime $recipe.Params.cookTime }}
-          {{ $displayTime = printf "%s + %s" $recipe.Params.prepTime $recipe.Params.cookTime }}
-        {{ else if $recipe.Params.prepTime }}
-          {{ $displayTime = $recipe.Params.prepTime }}
-        {{ else if $recipe.Params.cookTime }}
-          {{ $displayTime = $recipe.Params.cookTime }}
+
+      {{/* ======= PARSING ISO 8601 ======= */}}
+      {{ $rawTime := $recipe.Params.totalTime }}
+      {{ if not $rawTime }}
+        {{ $rawTime = $recipe.Params.cookTime }}
+      {{ end }}
+      {{ if not $rawTime }}
+        {{ $rawTime = $recipe.Params.prepTime }}
+      {{ end }}
+
+      {{ $displayTime := "" }}
+      {{ if $rawTime }}
+        {{ $hours   := 0 }}
+        {{ $minutes := 0 }}
+
+        {{ if contains $rawTime "H" }}
+          {{/* ex: PT4H35M  ou  PT1H */}}
+          {{ $stripped := strings.TrimPrefix "PT" $rawTime }}
+          {{ $hSplit   := split $stripped "H" }}
+          {{ $hours     = int (index $hSplit 0) }}
+          {{ $mPart    := index $hSplit 1 }}
+          {{ if and $mPart (contains $mPart "M") }}
+            {{ $minutes = int (strings.TrimSuffix "M" $mPart) }}
+          {{ end }}
+        {{ else }}
+          {{/* ex: PT20M */}}
+          {{ $stripped := strings.TrimPrefix "PT" $rawTime }}
+          {{ $minutes   = int (strings.TrimSuffix "M" $stripped) }}
+        {{ end }}
+
+        {{ if and (gt $hours 0) (gt $minutes 0) }}
+          {{ $displayTime = printf "%dh%02d" $hours $minutes }}
+        {{ else if gt $hours 0 }}
+          {{ $displayTime = printf "%dh" $hours }}
+        {{ else if gt $minutes 0 }}
+          {{ $displayTime = printf "%d min" $minutes }}
         {{ end }}
       {{ end }}
-      
+      {{/* ======= FIN PARSING ======= */}}
+
       {{ with $displayTime }}
         <div class="flex items-center space-x-1.5">
           <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
             <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
           </div>
-          <span class="text-sm font-medium text-gray-700">
-            {{ . | replaceRE "^PT(\\d+)M$" "$1 min" | replaceRE "^PT(\\d+)H$" "$1h" | replaceRE "^PT(\\d+)H(\\d+)M$" "$1h $2min" }}
-          </span>
+          <span class="text-sm font-medium text-gray-700">⏱ {{ . }}</span>
         </div>
       {{ end }}
       
