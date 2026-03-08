@@ -25,35 +25,24 @@
     <!-- Métriques -->
     <div class="flex items-center justify-between pt-2 border-t border-gray-100">
 
-      {{/* ======= PARSING ISO 8601 ======= */}}
-      {{ $rawTime := $recipe.Params.totalTime }}
-      {{ if not $rawTime }}
-        {{ $rawTime = $recipe.Params.cookTime }}
-      {{ end }}
-      {{ if not $rawTime }}
-        {{ $rawTime = $recipe.Params.prepTime }}
-      {{ end }}
-
+      {{ $rawTime := or $recipe.Params.totalTime $recipe.Params.cookTime $recipe.Params.prepTime }}
       {{ $displayTime := "" }}
       {{ if $rawTime }}
-        {{ $hours   := 0 }}
+        {{ $time := strings.TrimPrefix "PT" $rawTime }}
+        {{ $hours := 0 }}
         {{ $minutes := 0 }}
-
-        {{ if strings.Contains $rawTime "H" }}
-          {{/* ex: PT4H35M  ou  PT1H */}}
-          {{ $stripped := strings.TrimPrefix "PT" $rawTime }}
-          {{ $hSplit   := split $stripped "H" }}
-          {{ $hours     = int (index $hSplit 0) }}
-          {{ $mPart    := index $hSplit 1 }}
-          {{ if and $mPart (strings.Contains $mPart "M") }}
-            {{ $minutes = int (strings.TrimSuffix "M" $mPart) }}
+        {{ if strings.Contains $time "H" }}
+          {{ $parts := split $time "H" }}
+          {{ $hours = int (index $parts 0) }}
+          {{ if gt (len $parts) 1 }}
+            {{ $rest := index $parts 1 }}
+            {{ if strings.Contains $rest "M" }}
+              {{ $minutes = int (strings.TrimSuffix "M" $rest) }}
+            {{ end }}
           {{ end }}
-        {{ else }}
-          {{/* ex: PT20M */}}
-          {{ $stripped := strings.TrimPrefix "PT" $rawTime }}
-          {{ $minutes   = int (strings.TrimSuffix "M" $stripped) }}
+        {{ else if strings.Contains $time "M" }}
+          {{ $minutes = int (strings.TrimSuffix "M" $time) }}
         {{ end }}
-
         {{ if and (gt $hours 0) (gt $minutes 0) }}
           {{ $displayTime = printf "%dh%02d" $hours $minutes }}
         {{ else if gt $hours 0 }}
@@ -62,7 +51,6 @@
           {{ $displayTime = printf "%d min" $minutes }}
         {{ end }}
       {{ end }}
-      {{/* ======= FIN PARSING ======= */}}
 
       {{ with $displayTime }}
         <div class="flex items-center space-x-1.5">
