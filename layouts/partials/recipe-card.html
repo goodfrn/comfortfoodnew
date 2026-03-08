@@ -28,25 +28,39 @@
       {{ $rawTime := or $recipe.Params.totalTime $recipe.Params.cookTime $recipe.Params.prepTime }}
       {{ $displayTime := "" }}
       {{ if $rawTime }}
-        {{ $time := strings.TrimPrefix "PT" $rawTime }}
+        {{ $days := 0 }}
         {{ $hours := 0 }}
         {{ $minutes := 0 }}
-        {{ if strings.Contains $time "H" }}
-          {{ $parts := split $time "H" }}
-          {{ $hours = int (index $parts 0) }}
-          {{ if gt (len $parts) 1 }}
-            {{ $rest := index $parts 1 }}
-            {{ if strings.Contains $rest "M" }}
+        {{ $iso := strings.TrimPrefix "P" $rawTime }}
+        {{ if strings.Contains $iso "D" }}
+          {{ $dParts := split $iso "D" }}
+          {{ $days = int (index $dParts 0) }}
+          {{ if gt (len $dParts) 1 }}
+            {{ $iso = index $dParts 1 }}
+          {{ else }}
+            {{ $iso = "" }}
+          {{ end }}
+        {{ end }}
+        {{ $iso = strings.TrimPrefix "T" $iso }}
+        {{ if strings.Contains $iso "H" }}
+          {{ $hParts := split $iso "H" }}
+          {{ if ne (index $hParts 0) "" }}
+            {{ $hours = int (index $hParts 0) }}
+          {{ end }}
+          {{ if gt (len $hParts) 1 }}
+            {{ $rest := index $hParts 1 }}
+            {{ if and $rest (strings.Contains $rest "M") }}
               {{ $minutes = int (strings.TrimSuffix "M" $rest) }}
             {{ end }}
           {{ end }}
-        {{ else if strings.Contains $time "M" }}
-          {{ $minutes = int (strings.TrimSuffix "M" $time) }}
+        {{ else if strings.Contains $iso "M" }}
+          {{ $minutes = int (strings.TrimSuffix "M" $iso) }}
         {{ end }}
-        {{ if and (gt $hours 0) (gt $minutes 0) }}
-          {{ $displayTime = printf "%dh%02d" $hours $minutes }}
-        {{ else if gt $hours 0 }}
-          {{ $displayTime = printf "%dh" $hours }}
+        {{ $totalHours := add $hours (mul $days 24) }}
+        {{ if and (gt $totalHours 0) (gt $minutes 0) }}
+          {{ $displayTime = printf "%dh%02d" $totalHours $minutes }}
+        {{ else if gt $totalHours 0 }}
+          {{ $displayTime = printf "%dh" $totalHours }}
         {{ else if gt $minutes 0 }}
           {{ $displayTime = printf "%d min" $minutes }}
         {{ end }}
