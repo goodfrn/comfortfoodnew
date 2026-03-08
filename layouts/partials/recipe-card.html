@@ -27,51 +27,72 @@
 
       {{ $rawTime := or $recipe.Params.totalTime $recipe.Params.cookTime $recipe.Params.prepTime }}
       {{ $displayTime := "" }}
+
       {{ if $rawTime }}
         {{ $days := 0 }}
         {{ $hours := 0 }}
         {{ $minutes := 0 }}
-        {{/* Toujours enlever P au début, puis chercher D seulement si présent avant T */}}
+
         {{ $iso := strings.TrimPrefix "P" $rawTime }}
-        {{/* $iso peut être: "T4H35M", "3DT5H", "0DT20M", "T20M" */}}
+
         {{ if strings.Contains $iso "D" }}
           {{ $dParts := split $iso "D" }}
           {{ $dStr := index $dParts 0 }}
-          {{/* Vérifier que dStr est bien un nombre (ne contient pas T) */}}
-          {{ if not (strings.Contains $dStr "T") }}
-            {{ $days = int $dStr }}
+          {{ $dStr = replaceRE "^0+" "" $dStr }}
+          {{ if eq $dStr "" }}
+            {{ $dStr = "0" }}
           {{ end }}
+          {{ $days = int $dStr }}
+
           {{ if gt (len $dParts) 1 }}
             {{ $iso = index $dParts 1 }}
           {{ else }}
             {{ $iso = "" }}
           {{ end }}
         {{ end }}
-        {{/* Enlever le T */}}
+
         {{ $iso = strings.TrimPrefix "T" $iso }}
-        {{/* $iso est maintenant: "4H35M", "20M", "1H", "" */}}
+
         {{ if strings.Contains $iso "H" }}
           {{ $hParts := split $iso "H" }}
           {{ $hStr := index $hParts 0 }}
-          {{ if and $hStr (ne $hStr "") }}
-            {{ $hours = int $hStr }}
+          {{ $hStr = replaceRE "^0+" "" $hStr }}
+          {{ if eq $hStr "" }}
+            {{ $hStr = "0" }}
           {{ end }}
+          {{ $hours = int $hStr }}
+
           {{ if gt (len $hParts) 1 }}
             {{ $rest := index $hParts 1 }}
             {{ if and $rest (strings.Contains $rest "M") }}
-              {{ $minutes = int (strings.TrimSuffix "M" $rest) }}
+              {{ $mStr := strings.TrimSuffix "M" $rest }}
+              {{ $mStr = replaceRE "^0+" "" $mStr }}
+              {{ if eq $mStr "" }}
+                {{ $mStr = "0" }}
+              {{ end }}
+              {{ $minutes = int $mStr }}
             {{ end }}
           {{ end }}
+
         {{ else if strings.Contains $iso "M" }}
-          {{ $minutes = int (strings.TrimSuffix "M" $iso) }}
+          {{ $mStr := strings.TrimSuffix "M" $iso }}
+          {{ $mStr = replaceRE "^0+" "" $mStr }}
+          {{ if eq $mStr "" }}
+            {{ $mStr = "0" }}
+          {{ end }}
+          {{ $minutes = int $mStr }}
         {{ end }}
-        {{ $totalHours := add $hours (mul $days 24) }}
-        {{ if and (gt $totalHours 0) (gt $minutes 0) }}
-          {{ $displayTime = printf "%dh%02d" $totalHours $minutes }}
-        {{ else if gt $totalHours 0 }}
-          {{ $displayTime = printf "%dh" $totalHours }}
-        {{ else if gt $minutes 0 }}
-          {{ $displayTime = printf "%d min" $minutes }}
+
+        {{ $totalMinutes := add (mul $days 1440) (add (mul $hours 60) $minutes) }}
+        {{ $finalHours := div $totalMinutes 60 }}
+        {{ $finalMinutes := mod $totalMinutes 60 }}
+
+        {{ if and (gt $finalHours 0) (gt $finalMinutes 0) }}
+          {{ $displayTime = printf "%dh%02d" $finalHours $finalMinutes }}
+        {{ else if gt $finalHours 0 }}
+          {{ $displayTime = printf "%dh" $finalHours }}
+        {{ else if gt $finalMinutes 0 }}
+          {{ $displayTime = printf "%d min" $finalMinutes }}
         {{ end }}
       {{ end }}
 
