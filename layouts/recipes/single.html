@@ -154,13 +154,12 @@
           {{ end }}
         </div>
 
-        <!-- Tags -->
         {{ with .Params.tags }}
           <div class="flex flex-wrap gap-2">
             {{ range . }}
-              <span class="px-3 py-1 bg-slate-100 text-slate-700 rounded-full text-sm font-medium border border-slate-200">
+              <a href="/tags/{{ . | urlize }}/" class="px-3 py-1 bg-slate-100 text-slate-700 rounded-full text-sm font-medium border border-slate-200 hover:bg-slate-200 transition">
                 #{{ . }}
-              </span>
+              </a>
             {{ end }}
           </div>
         {{ end }}
