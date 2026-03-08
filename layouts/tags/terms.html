@@ -1,18 +1,45 @@
-{{/* layouts/tags/terms.html - VERSION SAFE AVEC DEBUG */}}
-
-{{ define "title" }}Tous les tags{{ end }}
-
 {{ define "main" }}
-<main class="max-w-4xl mx-auto px-4 py-16">
-  <h1 class="text-3xl font-bold mb-8">Tous les tags</h1>
-  <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 gap-6">
+{{ $config := .Site.Data.config }}
+
+<section class="container mx-auto px-4 py-24 min-h-screen" style="background-color: var(--color-bg);">
+  <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-center mb-12" style="color: var(--primary); font-family: var(--font-serif);">
+    All Tags
+  </h1>
+  
+  <div class="grid grid-cols-1 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
     {{ range .Data.Terms.Alphabetical }}
-      <a href="{{ .Page.RelPermalink }}"
-         class="block p-4 bg-white rounded-lg shadow hover:shadow-lg transition">
-        <span class="text-lg font-medium">{{ .Term }}</span>
-        <span class="text-sm text-gray-500">({{ len .Pages }})</span>
+      {{ $displayName := .Page.Title }}
+
+      {{ $tagPages := where $.Site.RegularPages "Section" "recipes" }}
+      {{ $tagPages = where $tagPages "Params.tags" "intersect" (slice $displayName) }}
+      {{ $firstRecipe := index $tagPages 0 }}
+
+      <a href="{{ .Page.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-2xl transition-all duration-500 rounded-xl transform hover:-translate-y-1">
+        <div class="relative overflow-hidden h-32 rounded-xl">
+          {{ with $firstRecipe }}
+            {{ with .Params.image }}
+              <div class="group-hover:scale-105 transition-transform duration-700">
+                {{ partial "recipe-image.html" (dict "image" . "title" $displayName) }}
+              </div>
+            {{ end }}
+          {{ else }}
+            <div class="w-full h-full bg-gray-200 flex items-center justify-center rounded-xl">
+              <span class="text-gray-400 text-xs">{{ $displayName }}</span>
+            </div>
+          {{ end }}
+
+          <div class="absolute inset-0 bg-gradient-to-t from-black/70 via-black/20 to-transparent"></div>
+
+          <div class="absolute bottom-0 left-0 right-0 p-2 sm:p-3">
+            <h3 class="font-serif text-sm sm:text-base font-bold text-white opacity-90 group-hover:opacity-100"
+                style="font-family: var(--font-serif); text-shadow: 0 2px 8px rgba(0,0,0,0.8); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; line-height: 1.2;">
+              {{ $displayName }}
+            </h3>
+            <p class="text-white/70 text-xs mt-1">{{ len .Pages }} recipes</p>
+          </div>
+        </div>
       </a>
     {{ end }}
   </div>
-</main>
+</section>
 {{ end }}
