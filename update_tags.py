@@ -171,8 +171,8 @@ def main():
             # Get new tags from Claude
             new_tags = get_tags_from_claude(client, title, description, current_tags_match)
             
-            if len(new_tags) < 3:
-                print(f"  [{i+1}] SKIP (not enough valid tags returned): {title}")
+            if len(new_tags) < 1:
+                print(f"  [{i+1}] SKIP (no valid tags returned): {title}")
                 skipped += 1
                 continue
             
