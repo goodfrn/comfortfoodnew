@@ -1,23 +1,48 @@
 {{ define "main" }}
-
 {{ $config := .Site.Data.config }}
+{{ $list_pages := $config.list_pages }}
+{{ $breadcrumb := $config.list_pages.breadcrumb }}
 {{ $tags_page := $config.tags_page }}
 
-  <section class="container mx-auto px-4 py-24 bg-white">
-    <h1 class="text-2xl font-bold mb-6">{{ $tags_page.title_prefix }} « {{ .Title }} »</h1>
+<section class="container mx-auto px-4 relative" style="background-color: var(--color-bg); min-height: 100vh; padding-top: 96px;">
+  
+  <div class="absolute top-4 left-0 right-0">
+    <div class="container mx-auto px-4">
+      <nav class="text-sm text-gray-500" aria-label="Fil d'Ariane">
+        <ol class="flex flex-wrap items-center gap-1 text-[0.95rem] sm:text-base font-medium">
+          <li>
+            <a href="/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.home }}</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          <li>
+            <a href="/tags/" class="hover:underline font-semibold" style="color: var(--primary);">Tags</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          <li class="font-normal" style="color: var(--color-text);">{{ .Title }}</li>
+        </ol>
+      </nav>
+    </div>
+  </div>
+
+  <h1 class="text-3xl sm:text-4xl font-extrabold tracking-tight text-center mb-8" style="color: var(--primary); font-family: var(--font-serif);">
+    {{ with $tags_page }}{{ .title_prefix }} {{ end }}{{ .Title }}
+  </h1>
+
+  {{ $pages := .Pages }}
+  {{ $p := .Paginate $pages }}
+  
+  {{ if gt (len $p.Pages) 0 }}
     <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-      {{ range .Pages }}
-        <div class="bg-white shadow-md rounded-xl overflow-hidden p-4 transform transition hover:-translate-y-1">
-          <h2 class="text-lg font-semibold mb-2">
-            <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-          </h2>
-          {{ with .Params.description }}
-            <p class="text-sm text-gray-600">{{ . }}</p>
-          {{ end }}
-        </div>
-      {{ else }}
-        <p class="text-center text-gray-600">{{ $tags_page.no_recipes }}</p>
+      {{ range $p.Pages }}
+        {{ partial "recipe-card.html" . }}
       {{ end }}
     </div>
-  </section>
+    {{ partial "pagination.html" $p }}
+  {{ else }}
+    <p class="text-center mt-12" style="color: var(--color-text-secondary);">
+      {{ with $tags_page }}{{ .no_recipes }}{{ else }}No recipes found.{{ end }}
+    </p>
+  {{ end }}
+
+</section>
 {{ end }}
