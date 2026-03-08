@@ -16,11 +16,10 @@ recipeYield: "5 servings"
 categories: ["Side Dishes"]
 tags:
 - "air fryer"
-- "vegetables"
-- "carrots"
-- "easy side"
-- "American cuisine"
-- "healthy cooking"
+- "vegetarian"
+- "healthy"
+- "side dish"
+- "roasted"
 keywords:
 - "air fryer carrots"
 - "avocado oil carrots"
