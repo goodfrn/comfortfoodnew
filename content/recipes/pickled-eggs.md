@@ -11,7 +11,7 @@ image: pickled-eggs.jpg
 author: "Emma"
 prepTime: PT12M
 cookTime: PT6M
-totalTime: PT3D12M
+totalTime: P3DT12M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
