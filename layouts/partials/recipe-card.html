@@ -31,21 +31,30 @@
         {{ $days := 0 }}
         {{ $hours := 0 }}
         {{ $minutes := 0 }}
+        {{/* Toujours enlever P au début, puis chercher D seulement si présent avant T */}}
         {{ $iso := strings.TrimPrefix "P" $rawTime }}
+        {{/* $iso peut être: "T4H35M", "3DT5H", "0DT20M", "T20M" */}}
         {{ if strings.Contains $iso "D" }}
           {{ $dParts := split $iso "D" }}
-          {{ $days = int (index $dParts 0) }}
+          {{ $dStr := index $dParts 0 }}
+          {{/* Vérifier que dStr est bien un nombre (ne contient pas T) */}}
+          {{ if not (strings.Contains $dStr "T") }}
+            {{ $days = int $dStr }}
+          {{ end }}
           {{ if gt (len $dParts) 1 }}
             {{ $iso = index $dParts 1 }}
           {{ else }}
             {{ $iso = "" }}
           {{ end }}
         {{ end }}
+        {{/* Enlever le T */}}
         {{ $iso = strings.TrimPrefix "T" $iso }}
+        {{/* $iso est maintenant: "4H35M", "20M", "1H", "" */}}
         {{ if strings.Contains $iso "H" }}
           {{ $hParts := split $iso "H" }}
-          {{ if ne (index $hParts 0) "" }}
-            {{ $hours = int (index $hParts 0) }}
+          {{ $hStr := index $hParts 0 }}
+          {{ if and $hStr (ne $hStr "") }}
+            {{ $hours = int $hStr }}
           {{ end }}
           {{ if gt (len $hParts) 1 }}
             {{ $rest := index $hParts 1 }}

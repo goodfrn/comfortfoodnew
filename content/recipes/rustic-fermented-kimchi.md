@@ -11,7 +11,7 @@ image: rustic-fermented-kimchi.jpg
 author: "Emma"
 prepTime: PT25M
 cookTime: PT5M
-totalTime: P0DT5H30M
+totalTime: PT5H30M
 recipeYield: "2 liters"
 categories: ["Side Dishes"]
 tags:
