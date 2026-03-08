@@ -39,13 +39,13 @@
         {{ $hours   := 0 }}
         {{ $minutes := 0 }}
 
-        {{ if contains $rawTime "H" }}
+        {{ if strings.Contains $rawTime "H" }}
           {{/* ex: PT4H35M  ou  PT1H */}}
           {{ $stripped := strings.TrimPrefix "PT" $rawTime }}
           {{ $hSplit   := split $stripped "H" }}
           {{ $hours     = int (index $hSplit 0) }}
           {{ $mPart    := index $hSplit 1 }}
-          {{ if and $mPart (contains $mPart "M") }}
+          {{ if and $mPart (strings.Contains $mPart "M") }}
             {{ $minutes = int (strings.TrimSuffix "M" $mPart) }}
           {{ end }}
         {{ else }}
