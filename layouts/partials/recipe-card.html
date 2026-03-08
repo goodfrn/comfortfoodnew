@@ -42,7 +42,7 @@
             <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
           </div>
           <span class="text-sm font-medium text-gray-700">
-            {{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "$1h $2min" | replaceRE "^PT0H([0-9]+)M$" "$1 min" | replaceRE "^PT([0-9]+)H0M$" "$1h" | replaceRE "^PT([0-9]+)H$" "$1h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "$1 min" }}
+            {{ . | replaceRE "^PT([0-9]+)H([0-9]+)M$" "$1h $2min" | replaceRE "^PT([0-9]+)H$" "$1h" | replaceRE "^PT([0-9]+)M$" "$1 min" }}
           </span>
         </div>
       {{ end }}
