@@ -23,7 +23,7 @@
     <p class="text-sm text-gray-500 mt-1">by {{ $recipe.Params.author | default "Chef" }}</p>
     
     <!-- Métriques -->
-    <div class="flex items-center justify-between pt-2 border-t border-gray-100">
+    <div class="flex flex-wrap items-center gap-3 pt-2 border-t border-gray-100">
       
       {{ $displayTime := $recipe.Params.totalTime }}
       {{ if not $displayTime }}
@@ -42,6 +42,7 @@
             <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
           </div>
           <span class="text-sm font-medium text-gray-700">
+            {{ . | replaceRE "^PT([0-9]+)H([0-9]+)M$" "$1h $2min" | replaceRE "^PT([0-9]+)H$" "$1h" | replaceRE "^PT([0-9]+)M$" "$1 min" }}
           </span>
         </div>
       {{ end }}
@@ -64,6 +65,17 @@
         </div>
       {{ end }}
     </div>
+    
+    <!-- Tags -->
+    {{ if $recipe.Params.tags }}
+      <div class="flex flex-wrap gap-2 pt-3">
+        {{ range $recipe.Params.tags }}
+          <a href="/tags/{{ . | urlize }}/" class="px-2.5 py-1 bg-gray-50 rounded-full hover:bg-gray-100 transition">
+            <span class="text-xs font-medium text-gray-600">{{ . }}</span>
+          </a>
+        {{ end }}
+      </div>
+    {{ end }}
     
     <!-- Date -->
     <div class="flex justify-end pt-4 border-t border-gray-50">
