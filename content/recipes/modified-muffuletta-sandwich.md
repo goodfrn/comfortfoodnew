@@ -16,10 +16,9 @@ recipeYield: 4 servings
 categories: ["Sandwiches and Wraps"]
 tags:
 - "sandwich"
-- "Italian"
-- "lunch"
-- "dinner"
-- "easy recipes"
+- "italian"
+- "cheese"
+- "easy dinner"
 keywords:
 - "sandwich recipe"
 - "New Orleans food"

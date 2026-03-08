@@ -15,14 +15,11 @@ totalTime: PT2H5M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "apple cake"
-- "maple syrup"
-- "French-Canadian"
-- "upsidedown cake"
-- "cardamom"
-- "fall dessert"
-- "baking tips"
-- "nutty texture"
+- "cake"
+- "apple"
+- "caramel"
+- "cinnamon"
+- "fall"
 keywords:
 - "maple syrup"
 - "Granny Smith apples"

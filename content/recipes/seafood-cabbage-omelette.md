@@ -15,9 +15,11 @@ totalTime: PT35M
 recipeYield: 2 servings or 4 starters
 categories: ["Main Dishes"]
 tags:
-- "Japanese cuisine"
-- "seafood recipe"
-- "omelette"
+- "seafood"
+- "eggs"
+- "shrimp"
+- "sesame"
+- "japanese"
 keywords:
 - "omelette recipe"
 - "cabbage omelette"

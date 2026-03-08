@@ -18,12 +18,8 @@ tags:
 - "cocktail"
 - "vodka"
 - "cranberry"
-- "blackcurrant"
-- "triple sec"
+- "citrus"
 - "vegan"
-- "gluten-free"
-- "dairy-free"
-- "easy cocktails"
 keywords:
 - "cranberry juice cocktail"
 - "triple sec cocktail"

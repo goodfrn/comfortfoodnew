@@ -17,10 +17,9 @@ categories: ["Dips and Spreads"]
 tags:
 - "salsa"
 - "pineapple"
-- "serrano pepper"
-- "Mexican-inspired"
-- "fresh salsa"
-- "snacks"
+- "spicy"
+- "condiment"
+- "easy"
 keywords:
 - "pineapple salsa"
 - "serrano salsa"

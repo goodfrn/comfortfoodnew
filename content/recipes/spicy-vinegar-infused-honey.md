@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "1 cup"
 categories: ["Sauces and Condiments"]
 tags:
-- "sauce"
-- "infused honey"
-- "condiment"
+- "honey"
 - "spicy"
-- "American fusion"
+- "condiment"
+- "asian"
+- "easy"
 keywords:
 - "honey"
 - "red pepper flakes"

@@ -15,13 +15,11 @@ totalTime: PT63M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
+- "spicy"
 - "pork"
 - "chili"
-- "pot pie"
-- "chipotle"
+- "one pot"
 - "comfort food"
-- "baked"
-- "tortilla crust"
 keywords:
 - "pork chili"
 - "pot pie"

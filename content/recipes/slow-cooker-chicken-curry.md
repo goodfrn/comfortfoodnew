@@ -17,11 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "slow cooker"
 - "chicken"
-- "curry"
-- "Indian-inspired"
-- "coconut milk"
-- "comfort food"
-- "one pot"
+- "asian"
+- "coconut"
+- "easy dinner"
 keywords:
 - "slow cooker chicken curry"
 - "chicken curry"

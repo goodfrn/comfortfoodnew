@@ -15,12 +15,11 @@ totalTime: PT31M
 recipeYield: "24 pieces"
 categories: ["Desserts"]
 tags:
-- "truffles"
 - "chocolate"
 - "coconut"
-- "almond extract"
+- "candy"
 - "no bake"
-- "ganache"
+- "dessert"
 keywords:
 - "snowball truffles"
 - "white chocolate"

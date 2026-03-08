@@ -16,13 +16,9 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "chocolate"
-- "snacks"
-- "dessert"
-- "bark"
-- "toffee"
-- "pretzels"
-- "quick recipes"
-- "American cuisine"
+- "pretzel"
+- "no bake"
+- "candy"
 keywords:
 - "dark chocolate"
 - "pretzel bark"

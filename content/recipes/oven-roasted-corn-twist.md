@@ -15,11 +15,11 @@ totalTime: PT42M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "corn recipes"
-- "oven roasting"
-- "basil"
-- "grapeseed oil"
-- "American cuisine"
+- "corn"
+- "roasted"
+- "side dish"
+- "vegetarian"
+- "easy dinner"
 keywords:
 - "corn on the cob"
 - "oven roasted corn"

@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: 30
 categories: ["Appetizers"]
 tags:
-- "appetizer"
-- "gluten-free"
-- "dairy-free"
-- "vegetable broth"
-- "healthy"
+- "mediterranean"
+- "veal"
+- "rice"
+- "walnut"
+- "slow cooker"
 keywords:
 - "stuffed grape leaves"
 - "Mediterranean dish"

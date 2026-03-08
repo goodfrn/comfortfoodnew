@@ -15,11 +15,11 @@ totalTime: PT18H54M
 recipeYield: "1 loaf"
 categories: ["Breads"]
 tags:
-- "artisan bread"
-- "no-knead"
-- "rye flour"
-- "overnight fermentation"
-- "Dutch oven"
+- "bread"
+- "no bake"
+- "homemade"
+- "easy"
+- "comfort food"
 keywords:
 - "rye bread"
 - "no-knead bread"

@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "Italian"
-- "Sauce"
-- "Tomato"
-- "Basil"
-- "Homemade"
-- "Easy"
-- "Pantry"
+- "comfort food"
+- "italian"
+- "pasta"
+- "homemade"
+- "easy dinner"
 keywords:
 - "tomato sauce"
 - "basil sauce"

@@ -15,11 +15,11 @@ totalTime: PT24M
 recipeYield: "6 servings"
 categories: ["Breads"]
 tags:
-- "Southern cuisine"
-- "baking tips"
 - "cornbread"
-- "spicy muffins"
-- "comfort food"
+- "muffins"
+- "cheese"
+- "spicy"
+- "easy"
 keywords:
 - "cornbread muffins"
 - "jalapeño cheddar"

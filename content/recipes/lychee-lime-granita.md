@@ -15,12 +15,11 @@ totalTime: PT6H45M
 recipeYield: "4 to 6 servings"
 categories: ["Frozen Treats"]
 tags:
+- "dessert"
+- "no bake"
 - "vegan"
-- "gluten-free"
-- "summer dessert"
-- "fruit granita"
-- "no dairy"
-- "refreshing"
+- "gluten free"
+- "citrus"
 keywords:
 - "lychee granita"
 - "fruit granita"

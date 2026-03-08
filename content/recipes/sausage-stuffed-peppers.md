@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian American"
-- "baked dish"
-- "stuffed peppers"
-- "comfort food"
-- "sausage recipe"
+- "sausage"
+- "italian"
+- "cheese"
+- "main dish"
+- "easy dinner"
 keywords:
 - "sausage peppers"
 - "stuffed peppers"

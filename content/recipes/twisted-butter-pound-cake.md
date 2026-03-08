@@ -15,14 +15,10 @@ totalTime: PT65M
 recipeYield: "8 servings"
 categories: ["Breads"]
 tags:
-- "baking"
-- "pound cake"
-- "olive oil"
+- "cake"
 - "cinnamon"
-- "lactose free"
-- "French-inspired"
-- "egg whites"
-- "folding technique"
+- "homemade"
+- "dessert"
 keywords:
 - "pound cake"
 - "olive oil cake"

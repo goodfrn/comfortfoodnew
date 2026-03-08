@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegan"
-- "plant-based"
-- "gluten-free"
-- "French-inspired"
-- "quick meals"
+- "tofu"
+- "vegetarian"
+- "eggplant"
+- "mediterranean"
 keywords:
 - "healthy meal"
 - "vegan cooking"

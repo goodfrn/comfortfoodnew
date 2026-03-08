@@ -15,14 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "vegetable side"
-- "carrot recipe"
-- "easy side dish"
-- "glaze"
-- "butter"
-- "brown sugar"
-- "spices"
+- "roasted"
+- "honey"
+- "cinnamon"
+- "side dish"
+- "easy"
 keywords:
 - "glazed carrots"
 - "brown sugar carrots"

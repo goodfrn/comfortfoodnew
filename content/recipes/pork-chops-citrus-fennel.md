@@ -16,10 +16,10 @@ recipeYield: 4
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "grilling"
 - "citrus"
+- "grilling"
 - "fennel"
-- "easy recipe"
+- "easy dinner"
 keywords:
 - "pork recipe"
 - "grilling recipes"

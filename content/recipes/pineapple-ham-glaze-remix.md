@@ -15,14 +15,10 @@ totalTime: PT19M
 recipeYield: "1 pint glaze"
 categories: ["Sauces and Condiments"]
 tags:
-- "glaze"
+- "pineapple"
 - "ham"
-- "orange juice"
-- "brown sugar"
-- "spices"
-- "home cooking"
-- "simmer"
-- "savory glaze"
+- "holiday"
+- "citrus"
 keywords:
 - "ham glaze"
 - "pineapple substitute"

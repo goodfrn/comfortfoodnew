@@ -15,13 +15,11 @@ totalTime: PT5H
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
+- "chicken"
 - "slow cooker"
-- "Asian fusion"
-- "chicken thighs"
 - "pineapple"
-- "mango chutney"
-- "one pot meal"
-- "weeknight dinner"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "slow cooker chicken"
 - "pineapple chicken"

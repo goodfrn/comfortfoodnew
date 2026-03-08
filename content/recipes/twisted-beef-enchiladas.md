@@ -15,13 +15,11 @@ totalTime: PT65M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican American"
-- "enchiladas"
-- "beef recipes"
-- "baking"
-- "easy meals"
-- "green chile"
-- "cheese toppings"
+- "mexican"
+- "beef"
+- "easy dinner"
+- "comfort food"
+- "cheese"
 keywords:
 - "ground beef enchiladas"
 - "green chile salsa"

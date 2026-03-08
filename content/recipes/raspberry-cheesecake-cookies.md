@@ -15,12 +15,11 @@ totalTime: PT1H46M
 recipeYield: "10 cookies"
 categories: ["Desserts"]
 tags:
-- "American desserts"
 - "cookies"
-- "cheesecake"
+- "cheese"
 - "raspberry"
-- "baking tips"
-- "cookie recipes"
+- "chocolate"
+- "homemade"
 keywords:
 - "cheesecake cookies"
 - "raspberry glaze"

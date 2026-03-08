@@ -15,13 +15,11 @@ totalTime: PT08M
 recipeYield: "2 servings"
 categories: ["Snacks"]
 tags:
-- "microwave"
-- "nuts"
 - "snack"
-- "toasted"
-- "pecans"
-- "hazelnuts"
-- "spices"
+- "easy"
+- "pecan"
+- "walnut"
+- "homemade"
 keywords:
 - "microwave nuts"
 - "toasted nuts"

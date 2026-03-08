@@ -15,13 +15,11 @@ totalTime: PT5H30M
 recipeYield: "4 servings"
 categories: ["Frozen Treats"]
 tags:
-- "dessert"
-- "frozen yogurt"
-- "vegetarian"
-- "gluten free"
-- "nut free"
 - "vanilla"
-- "coconut cream"
+- "coconut"
+- "dessert"
+- "no bake"
+- "vegan"
 keywords:
 - "Greek yogurt"
 - "coconut cream"

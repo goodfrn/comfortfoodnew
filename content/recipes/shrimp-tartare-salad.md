@@ -15,14 +15,11 @@ totalTime: PT43M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "seafood salad"
-- "fusion cuisine"
-- "no nuts"
-- "gluten free"
-- "dairy free"
-- "summer salad"
-- "Asian fusion"
-- "light meals"
+- "seafood"
+- "salad"
+- "asian"
+- "healthy"
+- "easy"
 keywords:
 - "shrimp tartare"
 - "sesame mayo dressing"

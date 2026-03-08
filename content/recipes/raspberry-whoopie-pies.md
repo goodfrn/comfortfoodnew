@@ -15,12 +15,11 @@ totalTime: PT70M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "raspberry"
-- "baking"
-- "cream cheese"
-- "American"
-- "whoopie pies"
+- "chocolate"
+- "cake"
+- "dessert"
+- "homemade"
 keywords:
 - "whoopie pies"
 - "raspberry dessert"

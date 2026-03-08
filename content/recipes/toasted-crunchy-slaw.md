@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Asian fusion"
 - "salad"
-- "quick meal"
-- "crunchy texture"
-- "healthy slaw"
+- "asian"
+- "cabbage"
+- "almond"
+- "easy"
 keywords:
 - "toasted noodles"
 - "apple cider vinegar dressing"

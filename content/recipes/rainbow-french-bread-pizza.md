@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Pizza and Flatbreads"]
 tags:
-- "American"
+- "pizza"
 - "vegetarian"
-- "weeknight meal"
-- "quick prep"
-- "broiling technique"
+- "french"
+- "bread"
+- "easy dinner"
 keywords:
 - "French bread"
 - "broiled pizza"

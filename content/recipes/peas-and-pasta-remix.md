@@ -15,12 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Pasta and Noodles"]
 tags:
-- "Italian-American"
-- "quick meals"
-- "vegetarian pasta"
-- "frozen peas"
-- "pasta sauce"
-- "kitchen tips"
+- "pasta"
+- "vegetarian"
+- "easy dinner"
+- "cheese"
+- "comfort food"
 keywords:
 - "pasta with peas"
 - "butter pasta sauce"

@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "French-inspired"
+- "tuna"
 - "sandwich"
-- "tuna recipes"
-- "quick lunch"
-- "no mayo"
-- "egg boiling"
+- "french"
+- "asparagus"
+- "easy"
 keywords:
 - "stuffed buns"
 - "vinaigrette dressing"

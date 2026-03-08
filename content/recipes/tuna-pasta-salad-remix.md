@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "pasta salad"
-- "tuna recipes"
-- "quick lunch"
-- "fresh herbs"
-- "summer salad"
-- "gluten free option"
+- "pasta"
+- "salad"
+- "tuna"
+- "easy"
+- "summer"
 keywords:
 - "tuna pasta salad"
 - "fusilli pasta salad"

@@ -15,12 +15,10 @@ totalTime: PT4H30M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "sous vide"
-- "pork roast"
-- "French-Canadian"
-- "honey substitution"
-- "vacuum sealed"
-- "slow cook"
+- "pork"
+- "honey"
+- "main dish"
+- "easy dinner"
 keywords:
 - "pork loin"
 - "sous vide cooking"

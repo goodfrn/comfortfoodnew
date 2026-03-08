@@ -16,15 +16,9 @@ recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
 - "slow cooker"
-- "sweet potatoes"
-- "glaze"
-- "spiced"
-- "cornstarch"
-- "butter"
+- "spicy"
 - "honey"
-- "bacon"
-- "nuts"
-- "parsley"
+- "cinnamon"
 keywords:
 - "sweet potatoes"
 - "slow cooker"

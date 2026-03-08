@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "southern cuisine"
-- "coleslaw"
-- "spicy side dish"
-- "barbecue sides"
-- "easy salads"
+- "cabbage"
+- "side dish"
+- "spicy"
+- "easy"
+- "summer"
 keywords:
 - "coleslaw"
 - "hot sauce slaw"

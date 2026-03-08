@@ -15,13 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Beverages"]
 tags:
-- "hot cocoa"
-- "boozy drinks"
-- "winter beverages"
-- "holiday drinks"
+- "chocolate"
 - "caramel"
-- "gingerbread"
-- "Irish whiskey"
+- "drink"
+- "holiday"
+- "cocktail"
 keywords:
 - "caramel hot cocoa"
 - "vanilla ice cream drink"

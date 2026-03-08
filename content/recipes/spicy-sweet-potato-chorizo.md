@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "spicy soup"
-- "Mexican-American"
-- "chorizo"
-- "sweet potato"
+- "soup"
+- "spicy"
 - "comfort food"
+- "chorizo"
+- "mexican"
 keywords:
 - "chorizo bisque"
 - "sweet potato soup"

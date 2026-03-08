@@ -15,12 +15,10 @@ totalTime: PT1H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "Italian"
-- "dessert"
-- "fried pastry"
-- "mascarpone"
 - "lemon"
-- "cannoli"
+- "mascarpone"
+- "fried"
+- "dessert"
 keywords:
 - "cannoli dough"
 - "lemon curd filling"

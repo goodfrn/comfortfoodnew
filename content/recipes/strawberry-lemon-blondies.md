@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "lemon"
-- "strawberries"
 - "blondies"
-- "glaze"
-- "cornstarch"
+- "strawberry"
+- "lemon"
+- "dessert"
+- "easy"
 keywords:
 - "lemon blondies"
 - "strawberry dessert"

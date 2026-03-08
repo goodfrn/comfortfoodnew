@@ -15,11 +15,11 @@ totalTime: PT4H58M
 recipeYield: "18 mini bites"
 categories: ["Desserts"]
 tags:
+- "peanut butter"
+- "chocolate"
+- "no bake"
 - "dessert"
-- "American"
-- "no-bake option"
-- "mini cheesecakes"
-- "snack"
+- "candy"
 keywords:
 - "peanut butter"
 - "Oreo crust"

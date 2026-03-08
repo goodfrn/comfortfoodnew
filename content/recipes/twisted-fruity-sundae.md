@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "brunch"
-- "fruit dessert"
-- "frozen yogurt"
-- "toasted oats"
-- "honey maceration"
-- "summer recipe"
+- "breakfast"
+- "dessert"
+- "summer"
+- "blueberry"
+- "strawberry"
 keywords:
 - "sundae brunch"
 - "strawberry compote"

@@ -15,11 +15,10 @@ totalTime: PT55M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "nut bars"
-- "baking tips"
-- "maple syrup recipes"
-- "pecan desserts"
+- "pecan"
+- "pie"
+- "shortbread"
+- "cinnamon"
 keywords:
 - "pecan bars"
 - "shortbread crust"

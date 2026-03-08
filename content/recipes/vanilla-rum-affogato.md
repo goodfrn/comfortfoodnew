@@ -15,12 +15,11 @@ totalTime: PT22M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "Italian Fusion"
-- "Dessert Coffee"
-- "Chilled Coffee"
-- "Spiced Rum"
-- "Coconut Milk"
-- "Dark Chocolate"
+- "vanilla"
+- "rum"
+- "espresso"
+- "coconut"
+- "dessert"
 keywords:
 - "affogato"
 - "espresso dessert"

@@ -15,14 +15,11 @@ totalTime: PT35M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "Mediterranean"
-- "snacks"
-- "vegetarian"
+- "appetizer"
+- "mediterranean"
 - "avocado"
-- "pita chips"
-- "hummus"
-- "healthy"
-- "party food"
+- "vegetarian"
+- "easy"
 keywords:
 - "avocado dip"
 - "pita chips"

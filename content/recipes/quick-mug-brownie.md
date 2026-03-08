@@ -15,12 +15,10 @@ totalTime: PT8M
 recipeYield: "1 serving"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "microwave"
-- "easy"
-- "single serving"
 - "chocolate"
-- "coconut oil"
+- "dessert"
+- "easy"
+- "no bake"
 keywords:
 - "mug brownie"
 - "quick brownie"

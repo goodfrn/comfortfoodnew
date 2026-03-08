@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "16 minibowls"
 categories: ["Dips and Spreads"]
 tags:
-- "Mexican-inspired"
+- "appetizer"
+- "mexican"
+- "vegetarian"
 - "vegan"
-- "gluten-free"
-- "quick assembly"
-- "layered dip"
-- "snacks"
+- "easy"
 keywords:
 - "vegan layered dips"
 - "quick Mexican dips"

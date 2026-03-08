@@ -15,14 +15,10 @@ totalTime: PT46M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "brunch"
-- "gluten-free option"
-- "vegan swaps"
-- "almond meal"
-- "maple syrup"
-- "pear desserts"
-- "spiced muffins"
+- "muffins"
+- "almond"
+- "breakfast"
+- "easy"
 keywords:
 - "pear muffins"
 - "almond flour baking"

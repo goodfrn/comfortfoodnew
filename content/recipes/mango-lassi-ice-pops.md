@@ -15,12 +15,11 @@ totalTime: PT5H20M
 recipeYield: "10 servings"
 categories: ["Frozen Treats"]
 tags:
-- "frozen dessert"
-- "Indian inspiration"
-- "yogurt popsicle"
-- "summer treat"
-- "gluten free"
-- "dairy free option"
+- "summer"
+- "breakfast"
+- "pistachio"
+- "honey"
+- "smoothie"
 keywords:
 - "mango lassi"
 - "homemade popsicles"

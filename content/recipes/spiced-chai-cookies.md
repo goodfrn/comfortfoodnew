@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "7 large or 20-22 small cookies"
 categories: ["Desserts"]
 tags:
-- "baking"
+- "chai"
 - "cookies"
-- "chai spice"
-- "vanilla glaze"
-- "American fusion"
+- "spice"
+- "cinnamon"
+- "easy"
 keywords:
 - "chai cookies"
 - "mace spice cookies"

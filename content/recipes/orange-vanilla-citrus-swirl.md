@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
 - "vegan"
-- "smoothie"
 - "citrus"
-- "dairy-free"
-- "quick recipe"
+- "smoothie"
+- "easy"
+- "breakfast"
 keywords:
 - "smoothie recipe"
 - "citrus smoothie"

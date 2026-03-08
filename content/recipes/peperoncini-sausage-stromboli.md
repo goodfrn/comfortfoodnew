@@ -15,13 +15,11 @@ totalTime: PT28M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
 - "sausage"
-- "baking"
-- "savory"
-- "folded bread"
-- "stovetop to oven"
-- "marinara dip"
+- "italian"
+- "cheese"
+- "bread"
+- "easy dinner"
 keywords:
 - "sausage stromboli"
 - "pepperoncini cheese stromboli"

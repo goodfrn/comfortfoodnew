@@ -16,8 +16,10 @@ recipeYield: "2 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "vegan"
-- "gluten-free"
+- "oatmeal"
+- "hazelnut"
+- "cinnamon"
+- "comfort food"
 keywords:
 - "oats"
 - "maple syrup"

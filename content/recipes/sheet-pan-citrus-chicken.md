@@ -15,11 +15,11 @@ totalTime: PT41M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "one pot meals"
-- "sheet pan dinners"
-- "chicken recipes"
-- "weeknight meals"
-- "easy dinners"
+- "chicken"
+- "lemon"
+- "honey"
+- "roasted"
+- "easy dinner"
 keywords:
 - "sheet pan chicken"
 - "lemon mustard glaze"

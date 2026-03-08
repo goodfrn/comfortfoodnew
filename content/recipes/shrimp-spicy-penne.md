@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
 - "pasta"
-- "shrimp"
-- "spicy"
 - "seafood"
-- "dinner"
-- "quick meal"
+- "spicy"
+- "italian"
+- "easy dinner"
 keywords:
 - "penne pasta"
 - "shrimp pasta"

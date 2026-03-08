@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "salads"
-- "quick meals"
-- "protein meals"
-- "healthy lunch"
-- "fusion cuisine"
-- "make ahead"
-- "gluten free"
+- "salad"
+- "chicken"
+- "quinoa"
+- "healthy"
+- "lemon"
 keywords:
 - "quinoa salad"
 - "chicken salad"

@@ -16,11 +16,8 @@ recipeYield: "8 servings"
 categories: ["Sauces and Condiments"]
 tags:
 - "ham"
-- "glaze"
-- "molasses"
-- "mustard"
-- "glaze technique"
-- "American cuisine"
+- "spicy"
+- "easy dinner"
 keywords:
 - "ham glaze"
 - "sticky glaze"

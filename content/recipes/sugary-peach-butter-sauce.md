@@ -15,11 +15,11 @@ totalTime: PT10M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "sauce"
-- "fruit sauce"
-- "peach recipes"
-- "dessert topping"
-- "American cuisine"
+- "peach"
+- "caramel"
+- "cinnamon"
+- "vanilla"
+- "condiment"
 keywords:
 - "peach butter"
 - "brown sugar sauce"

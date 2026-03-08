@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
+- "potato"
 - "vegetarian"
-- "gluten-free"
-- "one-pot"
-- "slow simmer"
-- "French cuisine"
-- "mushroom broth"
-- "weekend cooking"
+- "mediterranean"
+- "one pot"
+- "roasted"
 keywords:
 - "ratatouille"
 - "potato stew"

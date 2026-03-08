@@ -16,13 +16,10 @@ recipeYield: "10 to 12 servings"
 categories: ["Desserts"]
 tags:
 - "cake"
-- "dessert"
-- "baking"
-- "marshmallow"
 - "chocolate"
-- "s'mores"
-- "coconut oil"
-- "ganache"
+- "dessert"
+- "no bake"
+- "comfort food"
 keywords:
 - "s'mores cake"
 - "coconut oil cake"

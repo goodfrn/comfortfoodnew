@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "French cuisine"
+- "mediterranean"
 - "soup"
-- "egg recipes"
-- "garlic dishes"
-- "comfort food"
+- "eggs"
+- "bread"
+- "cheese"
 keywords:
 - "garlic broth"
 - "poached eggs"

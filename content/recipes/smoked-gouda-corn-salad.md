@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "summer salad"
-- "cheese salad"
-- "vegetable side"
-- "easy prep"
-- "fresh corn"
+- "salad"
+- "corn"
+- "cheese"
+- "summer"
+- "italian"
 keywords:
 - "corn salad"
 - "smoked gouda"

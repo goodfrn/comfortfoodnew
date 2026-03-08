@@ -15,12 +15,11 @@ totalTime: PT4H12M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "salads"
-- "winter recipes"
-- "tomato dishes"
+- "salad"
 - "vegetarian"
-- "cold salads"
-- "easy prep"
+- "healthy"
+- "summer"
+- "easy dinner"
 keywords:
 - "winter tomatoes"
 - "tarragon herbs"

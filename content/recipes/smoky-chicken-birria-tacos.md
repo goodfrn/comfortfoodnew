@@ -15,12 +15,11 @@ totalTime: PT75M
 recipeYield: "12 tacos"
 categories: ["Main Dishes"]
 tags:
-- "Mexican"
-- "Chicken"
-- "Tacos"
-- "Birria"
-- "Smoky"
-- "Pressure Cooker"
+- "chicken"
+- "mexican"
+- "spicy"
+- "tacos"
+- "fried"
 keywords:
 - "smoky chicken"
 - "birria tacos"

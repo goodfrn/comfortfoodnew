@@ -15,12 +15,11 @@ totalTime: PT12H45M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "slow roast"
-- "mustard marinade"
-- "root vegetable ragout"
-- "persillade"
-- "dairy-free"
+- "lamb"
+- "slow cooker"
+- "roasted"
+- "comfort food"
+- "main dish"
 keywords:
 - "lamb shoulder recipe"
 - "slow cooking lamb"

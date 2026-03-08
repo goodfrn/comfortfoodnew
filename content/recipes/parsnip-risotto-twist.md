@@ -15,11 +15,11 @@ totalTime: PT54M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "vegetable risotto"
+- "risotto"
+- "vegetarian"
+- "mascarpone"
 - "comfort food"
-- "slow cooking"
-- "savory dishes"
+- "easy dinner"
 keywords:
 - "risotto"
 - "parsnip"

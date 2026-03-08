@@ -17,9 +17,9 @@ categories: ["Breads"]
 tags:
 - "brioche"
 - "pistachio"
-- "French bread"
-- "baking tips"
-- "cardamom"
+- "bread"
+- "homemade"
+- "easy"
 keywords:
 - "pistachio bread"
 - "brioche recipe"

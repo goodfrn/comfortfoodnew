@@ -15,14 +15,11 @@ totalTime: PT4H50M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "chili"
 - "slow cooker"
-- "ground beef"
-- "fire-roasted tomatoes"
-- "smoked paprika"
-- "kidney beans"
+- "beef"
+- "chili"
 - "comfort food"
-- "protein-rich"
+- "easy dinner"
 keywords:
 - "slow cooker chili"
 - "ground beef chili"

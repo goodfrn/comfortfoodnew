@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "slow cooker"
-- "chicken"
-- "dumplings"
 - "comfort food"
-- "one pot"
-- "easy dinner"
+- "chicken"
+- "soup"
+- "homemade"
 keywords:
 - "slow cooker chicken and dumplings"
 - "crock pot chicken and dumplings"

@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
+- "oatmeal"
+- "no bake"
 - "breakfast"
-- "baked oats"
-- "healthy snacks"
-- "American cuisine"
-- "handheld food"
+- "healthy"
+- "easy"
 keywords:
 - "oatmeal nests"
 - "baked oats"

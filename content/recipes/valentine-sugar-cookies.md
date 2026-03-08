@@ -15,13 +15,11 @@ totalTime: PT2H25M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
-- "valentines"
+- "easy"
 - "dessert"
-- "holiday treats"
-- "butter shortening"
-- "cake flour"
+- "breakfast"
+- "holiday"
 keywords:
 - "sugar cookies"
 - "cookie chilling"

@@ -16,9 +16,9 @@ recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
 - "vegetarian"
-- "oven baked"
-- "sweet potatoes"
-- "egg dish"
+- "eggs"
+- "cheese"
+- "breakfast"
 - "gluten free"
 keywords:
 - "sweet potato frittata"

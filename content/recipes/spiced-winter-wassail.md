@@ -15,11 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
-- "winter drinks"
-- "holiday beverages"
-- "warm cider"
-- "spiced drinks"
-- "apple cider"
+- "drink"
+- "spice"
+- "apple"
+- "cinnamon"
+- "holiday"
 keywords:
 - "wassail"
 - "spiced cider"

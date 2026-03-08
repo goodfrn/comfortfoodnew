@@ -15,13 +15,11 @@ totalTime: PT6M
 recipeYield: "4 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "shots"
-- "holiday drinks"
-- "melon liqueur"
-- "cocktail rims"
-- "honey drinks"
-- "toasted coconut"
+- "cocktail"
+- "holiday"
+- "drink"
+- "coconut"
+- "honey"
 keywords:
 - "Midori substitute"
 - "crushed ice shake"

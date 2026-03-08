@@ -16,10 +16,10 @@ recipeYield: "12 waffles"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "American cuisine"
 - "eggs"
-- "waffle iron"
-- "baking tips"
+- "easy"
+- "homemade"
+- "snack"
 keywords:
 - "waffles"
 - "egg whites"

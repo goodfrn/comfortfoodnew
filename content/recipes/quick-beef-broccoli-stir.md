@@ -15,11 +15,10 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "stir fry"
-- "beef recipes"
-- "broccoli dishes"
-- "quick meals"
-- "Asian fusion"
+- "beef"
+- "asian"
+- "broccoli"
+- "easy dinner"
 keywords:
 - "beef broccoli stir fry"
 - "flank steak recipe"

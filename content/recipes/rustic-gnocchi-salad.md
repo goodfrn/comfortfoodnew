@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "potato salad"
-- "French-inspired"
-- "easy side dish"
-- "avocado oil"
-- "summer salad"
+- "potato"
+- "salad"
+- "vegetarian"
+- "side dish"
+- "easy"
 keywords:
 - "potato salad"
 - "new potatoes"

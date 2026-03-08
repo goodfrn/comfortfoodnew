@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "French cuisine"
-- "brunch"
-- "strawberries"
+- "french"
+- "strawberry"
 - "cinnamon"
-- "coulis"
-- "oven warm keeping"
-- "heart cutouts"
+- "easy"
 keywords:
 - "French toast"
 - "strawberry coulis"

@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "stuffed chicken"
-- "Mozzarella"
-- "American cuisine"
-- "pan sauce"
-- "baking"
-- "searing"
+- "cheese"
+- "main dish"
+- "easy dinner"
+- "italian"
 keywords:
 - "mozzarella stuffed chicken"
 - "stuffed chicken breasts"

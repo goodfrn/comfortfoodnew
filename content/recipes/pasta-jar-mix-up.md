@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "2 servings"
 categories: ["Pasta and Noodles"]
 tags:
+- "pasta"
 - "vegan"
-- "dry jar meal"
-- "easy pasta"
-- "Italian-inspired"
-- "meal prep"
+- "spice"
+- "easy"
+- "homemade"
 keywords:
 - "pasta jar"
 - "sun-dried tomatoes"

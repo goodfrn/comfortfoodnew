@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "cakes"
-- "dairy-free"
-- "simple recipes"
-- "pan cake"
+- "cake"
+- "vanilla"
+- "coconut"
+- "almond"
+- "easy dinner"
 keywords:
 - "vanilla cake"
 - "coconut oil"

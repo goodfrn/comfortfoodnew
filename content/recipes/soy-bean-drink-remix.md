@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Beverages"]
 tags:
+- "drink"
 - "vegan"
-- "soy milk"
-- "Asian fusion"
-- "homemade drink"
-- "plant-based"
-- "dairy-free"
+- "homemade"
+- "asian"
+- "coconut"
 keywords:
 - "soy bean drink"
 - "yellow soybeans"

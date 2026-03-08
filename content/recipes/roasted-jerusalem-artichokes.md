@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 to 6 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetarian"
-- "gluten-free"
-- "lactose-free"
-- "French-inspired"
+- "roasted"
 - "side dish"
-- "root vegetables"
+- "vegetarian"
+- "easy"
+- "healthy"
 keywords:
 - "Jerusalem artichokes"
 - "browned butter"

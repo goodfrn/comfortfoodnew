@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Chinese cuisine"
-- "stir fry"
-- "chicken dishes"
-- "quick meals"
-- "umami"
-- "snap peas"
+- "asian"
+- "chicken"
+- "spicy"
+- "easy dinner"
+- "peanut butter"
 keywords:
 - "Kung Pao chicken"
 - "stir fry chicken"

@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "About 24 pieces"
 categories: ["Appetizers"]
 tags:
+- "bacon"
+- "cheese"
 - "appetizer"
-- "spicy snack"
-- "phyllo dough"
-- "pancetta"
-- "party food"
+- "spicy"
+- "easy dinner"
 keywords:
 - "jalapeño poppers"
 - "phyllo pastry"

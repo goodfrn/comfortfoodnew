@@ -16,11 +16,10 @@ recipeYield: "18 cookies"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "red velvet"
-- "cake mix"
-- "powdered sugar"
-- "baking tips"
-- "American desserts"
+- "cake"
+- "dessert"
+- "easy"
+- "no bake"
 keywords:
 - "red velvet"
 - "powdered sugar"

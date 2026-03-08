@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Italian influenced"
-- "handheld"
-- "savory sandwiches"
-- "dough handling"
-- "quick bake"
+- "italian"
+- "sandwich"
+- "pizza"
+- "easy dinner"
+- "homemade"
 keywords:
 - "pizza sandwiches"
 - "whipped goat cheese"

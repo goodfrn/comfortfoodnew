@@ -15,12 +15,11 @@ totalTime: PT60M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
-- "American comfort"
-- "hearty soup"
-- "ground beef"
-- "pearl barley"
-- "cabbage recipes"
-- "one pot soup"
+- "soup"
+- "beef"
+- "comfort food"
+- "one pot"
+- "barley"
 keywords:
 - "cabbage soup"
 - "ground beef soup"

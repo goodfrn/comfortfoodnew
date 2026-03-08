@@ -15,13 +15,11 @@ totalTime: PT63M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Chinese"
-- "Szechuan"
-- "Chicken"
-- "Stir-fry"
-- "Peanuts"
-- "Spicy"
-- "Quick"
+- "asian"
+- "chicken"
+- "spicy"
+- "easy dinner"
+- "one pot"
 keywords:
 - "Kung Pao"
 - "cornstarch slurry"

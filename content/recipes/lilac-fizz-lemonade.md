@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktail"
-- "floral drink"
-- "vodka cocktail"
-- "summer beverage"
-- "homemade syrup"
+- "drink"
+- "summer"
+- "lemon"
+- "raspberry"
+- "elderflower"
 keywords:
 - "lilac syrup"
 - "elderflower cocktail"

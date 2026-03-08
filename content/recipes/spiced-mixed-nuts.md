@@ -16,9 +16,10 @@ recipeYield: 4 servings
 categories: ["Snacks"]
 tags:
 - "snack"
-- "appetizer"
-- "easy recipe"
-- "party food"
+- "spice"
+- "roasted"
+- "pecan"
+- "almond"
 keywords:
 - "Dijon mustard nuts"
 - "mixed nuts recipe"

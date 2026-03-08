@@ -15,9 +15,11 @@ totalTime: PT24H40M
 recipeYield: 7
 categories: ["Appetizers"]
 tags:
-- "foie gras"
-- "French"
 - "appetizer"
+- "french"
+- "holiday"
+- "homemade"
+- "citrus"
 keywords:
 - "fine dining"
 - "gourmet recipe"

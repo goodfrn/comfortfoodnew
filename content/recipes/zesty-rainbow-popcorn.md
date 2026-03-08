@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
 - "popcorn"
-- "snacks"
-- "candy coating"
-- "oven baked"
+- "snack"
+- "lemon"
 - "honey"
-- "gelatin"
-- "baking soda"
+- "easy"
 keywords:
 - "popcorn candy"
 - "lemon jello popcorn"

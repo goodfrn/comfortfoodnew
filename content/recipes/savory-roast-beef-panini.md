@@ -15,13 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American"
+- "roasted"
+- "beef"
 - "sandwich"
-- "panini"
-- "roast beef"
-- "caramelized onions"
-- "au jus"
-- "Havarti cheese"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "roast beef sandwich"
 - "panini recipe"

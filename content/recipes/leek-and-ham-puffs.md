@@ -15,9 +15,11 @@ totalTime: PT70M
 recipeYield: 4 servings
 categories: ["Appetizers"]
 tags:
-- "French cuisine"
-- "appetizers"
-- "savory"
+- "appetizer"
+- "ham"
+- "cheese"
+- "party"
+- "easy dinner"
 keywords:
 - "leeks"
 - "ham"

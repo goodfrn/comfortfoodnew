@@ -15,12 +15,11 @@ totalTime: PT11M
 recipeYield: "1 serving each"
 categories: ["Breakfast"]
 tags:
-- "brunch"
 - "breakfast"
-- "open-face"
-- "toast"
-- "snacks"
-- "quick meals"
+- "easy"
+- "vegetarian"
+- "apple"
+- "peanut butter"
 keywords:
 - "tartine"
 - "breakfast toast"

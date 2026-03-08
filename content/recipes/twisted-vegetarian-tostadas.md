@@ -16,9 +16,10 @@ recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
 - "vegetarian"
-- "Mexican"
-- "quick recipes"
-- "tostadas"
+- "mexican"
+- "salad"
+- "easy"
+- "appetizer"
 keywords:
 - "tostadas"
 - "chickpeas"

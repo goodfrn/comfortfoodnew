@@ -15,12 +15,11 @@ totalTime: PT14M
 recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "American"
-- "cocktail syrup"
-- "fruit syrup"
 - "cranberry"
+- "condiment"
 - "homemade"
-- "easy syrup"
+- "cocktail"
+- "breakfast"
 keywords:
 - "cranberry syrup"
 - "cranberry sauce alternative"

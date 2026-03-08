@@ -15,11 +15,11 @@ totalTime: PT39M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
-- "fried rice"
+- "asian"
+- "rice"
 - "pineapple"
 - "bacon"
-- "quick meals"
+- "spicy"
 keywords:
 - "fried rice"
 - "pineapple"

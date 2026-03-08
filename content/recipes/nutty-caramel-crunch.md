@@ -15,11 +15,11 @@ totalTime: PT25M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "Candy"
-- "Dessert"
-- "Southern Cuisine"
-- "Nut Brittle"
-- "Caramel"
+- "candy"
+- "caramel"
+- "peanut butter"
+- "homemade"
+- "easy"
 keywords:
 - "caramel"
 - "nut brittle"

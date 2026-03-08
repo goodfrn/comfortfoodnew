@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "French"
 - "appetizer"
+- "french"
 - "seafood"
-- "grilled"
-- "gluten-free"
-- "nut-free"
-- "lactose-free"
-- "easy prep"
+- "grilling"
+- "easy dinner"
 keywords:
 - "snail skewers"
 - "butter sauce snails"

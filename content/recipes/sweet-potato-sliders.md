@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "snack"
+- "appetizer"
 - "vegetarian"
-- "American cuisine"
-- "easy prep"
-- "healthy"
-- "roasted vegetables"
+- "summer"
+- "roasted"
+- "avocado"
 keywords:
 - "sweet potatoes"
 - "guacamole"

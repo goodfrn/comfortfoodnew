@@ -15,11 +15,11 @@ totalTime: PT43M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "French seafood"
-- "seafood dishes"
-- "salmon recipes"
-- "fennel recipes"
-- "tobiko"
+- "salmon"
+- "seafood"
+- "fennel"
+- "appetizer"
+- "easy dinner"
 keywords:
 - "salmon fillet"
 - "crème fraîche"

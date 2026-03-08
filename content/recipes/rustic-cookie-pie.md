@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "cookie pie"
-- "baking tips"
-- "nutty desserts"
-- "oat flour baking"
+- "cookies"
+- "pie"
+- "chocolate"
+- "pecan"
+- "homemade"
 keywords:
 - "cookie pie"
 - "oat flour"

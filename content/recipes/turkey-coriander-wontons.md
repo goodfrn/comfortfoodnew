@@ -15,10 +15,11 @@ totalTime: PT30M
 recipeYield: "3 dozen"
 categories: ["Appetizers"]
 tags:
-- "turkey"
-- "wontons"
 - "appetizer"
-- "fusion"
+- "asian"
+- "chicken"
+- "easy"
+- "homemade"
 keywords:
 - "ground turkey"
 - "cilantro wontons"

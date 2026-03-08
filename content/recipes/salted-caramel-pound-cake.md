@@ -15,12 +15,11 @@ totalTime: PT1H50M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "bundt cake"
+- "cake"
 - "caramel"
+- "comfort food"
+- "homemade"
 - "dessert"
-- "baking tips"
-- "cake icing"
 keywords:
 - "pound cake"
 - "caramel sauce"

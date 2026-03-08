@@ -15,12 +15,11 @@ totalTime: PT62M
 recipeYield: "10 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Appetizer"
-- "Game day"
-- "Slow cooker"
-- "American"
-- "Cheesy"
-- "Spicy"
+- "slow cooker"
+- "chicken"
+- "appetizer"
+- "spicy"
+- "cheese"
 keywords:
 - "Buffalo dip"
 - "chicken dip"

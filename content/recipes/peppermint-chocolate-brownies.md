@@ -15,12 +15,10 @@ totalTime: PT53M
 recipeYield: "15 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
 - "chocolate"
-- "peppermint"
-- "frosting"
-- "baking tips"
-- "holiday treats"
+- "brownies"
+- "dessert"
+- "mint"
 keywords:
 - "brownies"
 - "peppermint frosting"

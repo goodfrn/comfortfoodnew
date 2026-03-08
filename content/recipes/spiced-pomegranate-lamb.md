@@ -15,13 +15,11 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
 - "lamb"
-- "pan sauce"
-- "spices"
-- "pomegranate"
-- "searing"
-- "easy dinner"
+- "cinnamon"
+- "spice"
+- "steak"
+- "gravy"
 keywords:
 - "lamb chops"
 - "pomegranate sauce"

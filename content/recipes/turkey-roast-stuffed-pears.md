@@ -15,13 +15,11 @@ totalTime: PT3H5M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast"
 - "turkey"
-- "stuffing"
-- "cranberries"
-- "holiday"
 - "pork"
-- "slow roast"
+- "cranberry"
+- "roasted"
+- "fall"
 keywords:
 - "turkey breast roast"
 - "cranberry stuffing"

@@ -16,13 +16,10 @@ recipeYield: "1 serving"
 categories: ["Beverages"]
 tags:
 - "smoothie"
-- "fruit"
-- "healthy drink"
 - "breakfast"
-- "quick recipe"
-- "tropical"
-- "Greek yogurt"
-- "coconut water"
+- "healthy"
+- "easy"
+- "strawberry"
 keywords:
 - "kiwi smoothie"
 - "strawberry smoothie"

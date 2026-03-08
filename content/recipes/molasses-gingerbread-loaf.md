@@ -15,12 +15,10 @@ totalTime: PT60M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "gingerbread"
+- "bread"
 - "molasses"
-- "fall recipes"
-- "dessert"
-- "cream cheese frosting"
+- "cinnamon"
+- "fall"
 keywords:
 - "molasses loaf"
 - "gingerbread"

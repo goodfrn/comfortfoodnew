@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "tropical"
-- "oat crust"
-- "pineapple"
 - "coconut"
-- "bars"
+- "pineapple"
+- "no bake"
+- "dessert"
+- "easy"
 keywords:
 - "pineapple coconut bars"
 - "oat crust dessert"

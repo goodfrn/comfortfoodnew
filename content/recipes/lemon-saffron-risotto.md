@@ -15,12 +15,11 @@ totalTime: PT53M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
+- "risotto"
+- "lemon"
 - "vegetarian"
-- "rice dish"
-- "saffron"
-- "roasted vegetables"
-- "pine nuts"
+- "asparagus"
+- "easy dinner"
 keywords:
 - "risotto"
 - "saffron"

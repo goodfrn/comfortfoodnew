@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "4 to 6 servings"
 categories: ["Rice and Grains"]
 tags:
-- "mushroom recipes"
 - "risotto"
-- "jarred meals"
-- "Italian cuisine"
-- "vegetarian"
+- "mushroom"
+- "easy"
+- "italian"
+- "main dish"
 keywords:
 - "mushroom powder"
 - "bay leaves"

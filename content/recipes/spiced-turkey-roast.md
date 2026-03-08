@@ -15,11 +15,11 @@ totalTime: PT2H40M
 recipeYield: 6 to 8 servings
 categories: ["Main Dishes"]
 tags:
+- "roasted"
 - "turkey"
+- "spice"
+- "chickpeas"
 - "holiday"
-- "fusion"
-- "roast"
-- "vegetables"
 keywords:
 - "turkey dinner"
 - "holiday roast"

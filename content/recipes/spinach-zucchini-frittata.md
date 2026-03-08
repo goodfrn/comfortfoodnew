@@ -15,10 +15,11 @@ totalTime: PT40M
 recipeYield: "4 to 6 servings"
 categories: ["Breakfast"]
 tags:
-- "healthy"
+- "eggs"
 - "vegetarian"
-- "easy recipes"
-- "Mediterranean"
+- "spinach"
+- "zucchini"
+- "omelet"
 keywords:
 - "spinach"
 - "zucchini"

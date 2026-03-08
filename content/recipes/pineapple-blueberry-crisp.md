@@ -16,13 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "baking"
-- "fruit crisp"
-- "blueberry"
 - "pineapple"
-- "cake mix"
-- "nuts"
-- "easy dessert"
+- "blueberry"
+- "pecan"
+- "no bake"
 keywords:
 - "pineapple crisp"
 - "blueberry crisp"

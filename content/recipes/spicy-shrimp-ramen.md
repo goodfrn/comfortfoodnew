@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
-- "stir fry"
-- "shrimp"
-- "noodles"
-- "quick meal"
+- "seafood"
 - "spicy"
+- "asian"
+- "easy dinner"
+- "one pot"
 keywords:
 - "shrimp stir fry"
 - "ramen noodles"

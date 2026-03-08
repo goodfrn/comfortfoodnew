@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "Latin-American"
-- "baking"
-- "caramel bars"
-- "crumb bars"
+- "chocolate"
+- "caramel"
 - "dessert"
+- "homemade"
+- "easy"
 keywords:
 - "dulce de leche"
 - "crumbly topping"

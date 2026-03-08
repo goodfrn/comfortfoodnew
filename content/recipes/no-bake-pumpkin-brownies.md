@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "24 bites"
 categories: ["Snacks"]
 tags:
+- "no bake"
+- "brownies"
 - "pumpkin"
-- "no-bake"
-- "snacks"
-- "brownie"
-- "fall"
-- "gluten-free option"
+- "chocolate"
+- "snack"
 keywords:
 - "pumpkin puree"
 - "brownie mix"

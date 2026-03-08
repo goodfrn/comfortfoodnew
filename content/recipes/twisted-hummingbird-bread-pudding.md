@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "American"
-- "bread pudding"
+- "bread"
+- "banana"
+- "pecan"
 - "caramel"
-- "baking"
+- "dessert"
 keywords:
 - "bread pudding"
 - "salted caramel"

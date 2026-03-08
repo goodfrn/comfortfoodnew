@@ -15,13 +15,11 @@ totalTime: PT7H20M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
 - "beef"
-- "stew"
-- "French"
+- "slow cooker"
+- "french"
 - "comfort food"
-- "chorizo"
-- "kalamata olives"
+- "one pot"
 keywords:
 - "beef stew"
 - "slow cooker recipes"

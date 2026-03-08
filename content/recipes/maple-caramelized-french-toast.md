@@ -16,14 +16,10 @@ recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "brunch"
-- "vegetarian"
-- "north american"
-- "brioche"
-- "maple syrup"
+- "french"
+- "caramel"
 - "blueberry"
-- "custard"
-- "caramelized"
+- "vegetarian"
 keywords:
 - "french toast"
 - "maple syrup"

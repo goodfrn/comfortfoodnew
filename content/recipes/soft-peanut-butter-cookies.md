@@ -17,10 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "peanut butter"
-- "baking tips"
-- "dessert"
-- "American cuisine"
-- "chewy texture"
+- "easy"
+- "comfort food"
+- "homemade"
 keywords:
 - "peanut butter cookie recipe"
 - "soft cookies"

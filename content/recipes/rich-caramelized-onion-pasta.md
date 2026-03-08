@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Pasta and Noodles"]
 tags:
 - "pasta"
-- "caramelized onions"
-- "French cuisine"
-- "cream cheese"
+- "caramel"
 - "comfort food"
-- "slow cooking"
+- "easy dinner"
+- "vegetarian"
 keywords:
 - "caramelized onions"
 - "creamy pasta sauce"

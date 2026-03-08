@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "baking"
-- "dry rub"
-- "quick meals"
-- "crispy skin"
-- "weeknight dinners"
+- "roasted"
+- "spicy"
+- "spice"
+- "easy dinner"
 keywords:
 - "baked chicken legs"
 - "chicken spice rub"

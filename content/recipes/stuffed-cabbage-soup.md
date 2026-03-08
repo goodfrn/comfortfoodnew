@@ -15,16 +15,11 @@ totalTime: PT29M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "Instant Pot"
-- "cabbage soup"
-- "ground turkey"
-- "pressure cooker"
-- "quinoa"
-- "healthy meals"
-- "quick soup"
-- "American cuisine"
-- "one pot meals"
-- "winter soup"
+- "instant pot"
+- "soup"
+- "comfort food"
+- "healthy"
+- "turkey"
 keywords:
 - "stuffed cabbage soup"
 - "quick cabbage soup"

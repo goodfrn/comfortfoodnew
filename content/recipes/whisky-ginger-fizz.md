@@ -15,12 +15,10 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "bourbon"
-- "ginger beer"
-- "vermouth"
-- "herbs"
-- "mixology"
+- "cocktail"
+- "drink"
+- "citrus"
+- "spice"
 keywords:
 - "bourbon whisky"
 - "ginger beer"

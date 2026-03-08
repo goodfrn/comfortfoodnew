@@ -18,7 +18,8 @@ tags:
 - "cake"
 - "pistachio"
 - "dessert"
-- "French-inspired"
+- "homemade"
+- "easy"
 keywords:
 - "nuts"
 - "buttercream"

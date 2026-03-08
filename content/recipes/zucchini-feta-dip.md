@@ -15,14 +15,10 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Mediterranean"
-- "vegetarian"
 - "appetizer"
+- "zucchini"
+- "mediterranean"
 - "healthy"
-- "easy recipes"
-- "summer"
-- "roasted garlic"
-- "mint"
 keywords:
 - "zucchini dip"
 - "feta cheese dip"

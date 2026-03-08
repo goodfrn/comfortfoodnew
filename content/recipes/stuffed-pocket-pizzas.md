@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "16 servings"
 categories: ["Snacks"]
 tags:
-- "Italian-inspired"
-- "handheld pizza"
-- "snack recipe"
-- "baking tips"
-- "meal prep"
+- "pizza"
+- "bread"
+- "sausage"
+- "easy dinner"
+- "party"
 keywords:
 - "pocket pizza"
 - "spicy Italian sausage"

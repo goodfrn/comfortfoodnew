@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "slow cooker"
 - "beef"
-- "mushrooms"
-- "Worcestershire"
+- "one pot"
+- "mushroom"
 - "comfort food"
-- "American cuisine"
 keywords:
 - "beef tips"
 - "slow cooker recipe"

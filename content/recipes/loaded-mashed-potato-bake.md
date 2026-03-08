@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
 - "comfort food"
-- "potato casserole"
-- "easy weeknight"
-- "cheesy bake"
-- "turkey bacon"
+- "potato"
+- "cheese"
+- "bacon"
+- "side dish"
 keywords:
 - "mashed potatoes"
 - "baked potato casserole"

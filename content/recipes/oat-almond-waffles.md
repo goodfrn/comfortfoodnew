@@ -15,14 +15,11 @@ totalTime: PT49M
 recipeYield: "8 waffles"
 categories: ["Breakfast"]
 tags:
-- "gluten-free"
-- "nut-free"
-- "vegetarian"
+- "oatmeal"
+- "almond"
 - "breakfast"
-- "buckwheat"
-- "sunflower seed flour"
-- "waffles"
-- "coconut oil"
+- "vegetarian"
+- "easy"
 keywords:
 - "buckwheat waffles"
 - "sunflower seed flour waffles"

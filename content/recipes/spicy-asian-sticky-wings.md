@@ -15,10 +15,10 @@ totalTime: PT24M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "Asian wings"
-- "fried chicken"
-- "game day food"
-- "spicy wings"
+- "chicken"
+- "asian"
+- "spicy"
+- "fried"
 - "appetizer"
 keywords:
 - "chicken wings"

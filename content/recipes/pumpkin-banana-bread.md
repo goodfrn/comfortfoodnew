@@ -15,11 +15,11 @@ totalTime: PT1H35M
 recipeYield: "8 servings"
 categories: ["Breads"]
 tags:
-- "baking"
-- "banana bread"
-- "pumpkin recipes"
-- "fall baking"
-- "quick bread"
+- "bread"
+- "pumpkin"
+- "banana"
+- "fall"
+- "dessert"
 keywords:
 - "banana bread"
 - "pumpkin bread"

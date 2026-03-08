@@ -16,10 +16,10 @@ recipeYield: "70 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "almond meal"
-- "chocolate chips"
-- "American dessert"
+- "chocolate"
+- "homemade"
+- "easy"
+- "comfort food"
 keywords:
 - "Neiman Marcus Cookies"
 - "almond meal baking"

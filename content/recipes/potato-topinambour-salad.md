@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "vegan"
-- "gluten-free"
-- "french cuisine"
-- "summery dish"
+- "potato"
+- "cucumber"
+- "walnut"
+- "healthy"
 keywords:
 - "salad recipe"
 - "side dish"

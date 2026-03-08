@@ -15,13 +15,11 @@ totalTime: PT70M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "Eastern European"
-- "Casserole"
-- "Comfort Food"
-- "Batch Cooking"
-- "Savory Bake"
-- "Ricotta"
-- "Kielbasa"
+- "eastern european"
+- "comfort food"
+- "sausage"
+- "cheese"
+- "one pot"
 keywords:
 - "pierogies"
 - "kielbasa"

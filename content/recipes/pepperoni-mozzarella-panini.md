@@ -15,11 +15,11 @@ totalTime: PT13M
 recipeYield: "5 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "panini"
-- "Italian-American"
-- "grilled sandwich"
-- "quick meals"
+- "sandwich"
 - "cheese"
+- "italian"
+- "easy"
+- "comfort food"
 keywords:
 - "panini recipe"
 - "grilled sandwich"

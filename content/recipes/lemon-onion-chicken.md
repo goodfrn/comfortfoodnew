@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "French inspired"
-- "one pan"
-- "dinner"
-- "easy cooking"
-- "herbs"
-- "citrus"
+- "lemon"
+- "easy dinner"
+- "roasted"
+- "comfort food"
 keywords:
 - "chicken thighs"
 - "lemon zest"

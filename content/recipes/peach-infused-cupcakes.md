@@ -16,10 +16,10 @@ recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
 - "cupcakes"
-- "fruit desserts"
-- "summer baking"
-- "cream cheese frosting"
-- "peach recipes"
+- "peach"
+- "honey"
+- "dessert"
+- "easy"
 keywords:
 - "peach cupcakes"
 - "baking with peaches"

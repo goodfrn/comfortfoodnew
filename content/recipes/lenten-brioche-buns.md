@@ -15,10 +15,11 @@ totalTime: PT65M
 recipeYield: "10 servings"
 categories: ["Breads"]
 tags:
-- "baking"
-- "breakfast"
-- "dessert"
-- "yeast bread"
+- "brioche"
+- "bread"
+- "easter"
+- "cinnamon"
+- "homemade"
 keywords:
 - "brioche"
 - "apricot raisins"

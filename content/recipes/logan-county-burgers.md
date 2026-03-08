@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "6 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American"
-- "burgers"
-- "grilling"
-- "caramelized onions"
-- "smoked paprika"
-- "cheese sandwiches"
+- "beef"
+- "burger"
+- "comfort food"
+- "easy dinner"
+- "american"
 keywords:
 - "ground chuck burger"
 - "burger patties thin"

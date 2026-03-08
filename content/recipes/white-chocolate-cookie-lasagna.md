@@ -17,10 +17,8 @@ categories: ["Desserts"]
 tags:
 - "no bake"
 - "dessert"
-- "white chocolate"
-- "oreo"
-- "layered dessert"
-- "easy dessert"
+- "cookies"
+- "chocolate"
 keywords:
 - "no bake dessert"
 - "oreo cookie crust"

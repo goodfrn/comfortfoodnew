@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "French-inspired"
-- "vegetables"
+- "spinach"
 - "lentils"
-- "mushrooms"
-- "guanciale"
 - "asparagus"
-- "vinaigrette"
+- "healthy"
 keywords:
 - "spinach salad"
 - "oyster mushrooms"

@@ -16,9 +16,10 @@ recipeYield: 12 muffins
 categories: ["Breakfast"]
 tags:
 - "muffins"
-- "baking"
-- "vegetarian"
+- "breakfast"
 - "snack"
+- "cheese"
+- "coconut"
 keywords:
 - "muffins"
 - "cream cheese"

@@ -15,13 +15,11 @@ totalTime: PT11M
 recipeYield: "8 cups"
 categories: ["Snacks"]
 tags:
-- "vegan snack"
-- "popcorn recipe"
-- "quick snack"
-- "spicy popcorn"
-- "nutritional yeast"
-- "lime zest"
-- "smoked paprika"
+- "vegan"
+- "snack"
+- "popcorn"
+- "citrus"
+- "spicy"
 keywords:
 - "vegan popcorn"
 - "olive oil popcorn"

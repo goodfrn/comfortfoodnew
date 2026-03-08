@@ -18,9 +18,8 @@ tags:
 - "cookies"
 - "peanut butter"
 - "chocolate"
-- "baking soda"
-- "frosting"
-- "maple sugar"
+- "dessert"
+- "easy"
 keywords:
 - "peanut butter chips"
 - "chilled dough cookies"

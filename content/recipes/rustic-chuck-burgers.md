@@ -15,11 +15,11 @@ totalTime: PT38M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
 - "burger"
-- "ground beef"
-- "cast iron"
+- "beef"
 - "comfort food"
+- "easy dinner"
+- "grilling"
 keywords:
 - "ground chuck burgers"
 - "burger cooking tips"

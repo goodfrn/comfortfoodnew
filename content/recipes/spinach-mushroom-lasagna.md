@@ -15,13 +15,11 @@ totalTime: PT1H28M
 recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
 - "vegetarian"
-- "lasagna"
-- "white sauce"
-- "ricotta"
-- "mushrooms"
+- "pasta"
+- "cheese"
 - "spinach"
+- "mushroom"
 keywords:
 - "spinach lasagna"
 - "mushroom lasagna"

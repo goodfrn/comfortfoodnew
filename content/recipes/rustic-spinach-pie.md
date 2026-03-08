@@ -15,11 +15,11 @@ totalTime: PT48M
 recipeYield: "9 servings"
 categories: ["Main Dishes"]
 tags:
-- "Greek"
+- "spinach"
+- "ricotta"
+- "pie"
 - "vegetarian"
-- "phyllo"
-- "cheese"
-- "baking"
+- "easy dinner"
 keywords:
 - "spinach pie"
 - "phyllo dough"

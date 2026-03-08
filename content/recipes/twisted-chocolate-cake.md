@@ -15,12 +15,11 @@ totalTime: PT1H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "chocolate"
-- "layer cake"
-- "frosting"
-- "French-inspired"
+- "cake"
 - "dessert"
+- "comfort food"
+- "espresso"
 keywords:
 - "chocolate cake"
 - "mascarpone frosting"

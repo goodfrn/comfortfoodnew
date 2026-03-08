@@ -15,12 +15,11 @@ totalTime: PT1H3M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Japanese"
-- "sushi bowl"
-- "fish marinade"
-- "rice technique"
-- "sashimi"
-- "home cooking"
+- "asian"
+- "japanese"
+- "rice"
+- "seafood"
+- "sesame"
 keywords:
 - "sushi rice"
 - "marinated fish"

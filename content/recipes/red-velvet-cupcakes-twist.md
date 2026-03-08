@@ -16,10 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cupcakes"
-- "red velvet"
-- "bakery"
-- "cream cheese frosting"
-- "baking tips"
+- "chocolate"
+- "dessert"
+- "coffee cake"
+- "easy"
 keywords:
 - "red velvet"
 - "cupcakes"

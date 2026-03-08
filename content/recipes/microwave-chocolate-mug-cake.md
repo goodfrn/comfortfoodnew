@@ -15,11 +15,11 @@ totalTime: PT9M
 recipeYield: "1 serving"
 categories: ["Desserts"]
 tags:
-- "quick dessert"
-- "microwave recipes"
-- "single serving"
 - "chocolate"
-- "mug cake"
+- "cake"
+- "easy"
+- "comfort food"
+- "dessert"
 keywords:
 - "mug cake"
 - "microwave cake"

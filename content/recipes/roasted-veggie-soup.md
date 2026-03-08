@@ -16,9 +16,10 @@ recipeYield: 4
 categories: ["Soups"]
 tags:
 - "soup"
-- "vegan"
-- "gluten-free"
-- "weeknight dinner"
+- "vegetarian"
+- "roasted"
+- "healthy"
+- "easy dinner"
 keywords:
 - "soup recipe"
 - "veggie soup"

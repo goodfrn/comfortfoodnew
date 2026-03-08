@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "ham"
-- "cream sauce"
-- "sage"
-- "mustard"
-- "French-inspired"
+- "main dish"
 - "comfort food"
 - "easy dinner"
-- "pan frying"
+- "pork"
 keywords:
 - "smoked ham steaks"
 - "sage cream sauce"

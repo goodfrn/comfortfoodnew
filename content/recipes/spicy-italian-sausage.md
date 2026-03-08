@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "15 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
+- "italian"
 - "sausage"
 - "spicy"
-- "homemade"
 - "pork"
-- "charcuterie"
+- "homemade"
 keywords:
 - "pork shoulder"
 - "fennel seeds"

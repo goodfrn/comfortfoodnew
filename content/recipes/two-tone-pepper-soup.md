@@ -17,11 +17,9 @@ categories: ["Soups"]
 tags:
 - "soup"
 - "vegetarian"
-- "gluten-free"
-- "dairy-free"
-- "easy cooking"
-- "French-inspired"
-- "peppers"
+- "gluten free"
+- "easy dinner"
+- "healthy"
 keywords:
 - "pepper soup"
 - "broiled peppers"

@@ -17,12 +17,8 @@ categories: ["Desserts"]
 tags:
 - "dessert"
 - "pumpkin"
-- "cheesecake"
-- "fall recipes"
-- "baking tips"
-- "water bath"
-- "whipped cream"
-- "caramel drizzle"
+- "fall"
+- "spice"
 keywords:
 - "pumpkin cheesecake"
 - "water bath baking"

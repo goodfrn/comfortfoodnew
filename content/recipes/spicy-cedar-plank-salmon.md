@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "grilling"
 - "salmon"
-- "seafood"
-- "American"
+- "grilling"
 - "spicy"
-- "cedar plank"
-- "summer cooking"
+- "seafood"
+- "lemon"
 keywords:
 - "cedar plank salmon"
 - "spicy salmon sauce"

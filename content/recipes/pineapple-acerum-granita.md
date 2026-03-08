@@ -15,14 +15,11 @@ totalTime: PT360M
 recipeYield: "8 servings"
 categories: ["Frozen Treats"]
 tags:
-- "frozen dessert"
-- "tropical"
-- "maple spirit"
-- "whipped cream"
-- "granita"
+- "dessert"
 - "pineapple"
-- "summer treat"
-- "gluten-free"
+- "coconut"
+- "gluten free"
+- "no bake"
 keywords:
 - "granita"
 - "pineapple dessert"

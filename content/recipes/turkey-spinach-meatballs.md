@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
-- "meatballs"
 - "turkey"
+- "meatball"
+- "spinach"
 - "healthy"
-- "dinner"
-- "recipe"
+- "easy dinner"
 keywords:
 - "ground turkey"
 - "tomato salad"

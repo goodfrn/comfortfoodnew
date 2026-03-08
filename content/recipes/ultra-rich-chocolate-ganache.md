@@ -15,11 +15,11 @@ totalTime: PT36M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "ganache"
 - "chocolate"
-- "dairy-free"
-- "French-inspired"
 - "dessert"
+- "no bake"
+- "coconut"
+- "vegan"
 keywords:
 - "chocolate ganache"
 - "coconut oil ganache"

@@ -15,13 +15,11 @@ totalTime: PT4H50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Moroccan"
-- "slow cooker"
-- "gluten-free"
-- "dairy-free"
 - "lamb"
-- "stew"
-- "spices"
+- "moroccan"
+- "slow cooker"
+- "spice"
+- "almond"
 keywords:
 - "lamb tagine"
 - "ras-el-hanout"

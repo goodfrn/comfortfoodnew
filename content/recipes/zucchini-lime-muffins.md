@@ -15,11 +15,11 @@ totalTime: PT1H5M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "vegetarian"
-- "snacks"
-- "brunch"
-- "moist muffins"
+- "zucchini"
+- "muffins"
+- "lemon"
+- "honey"
+- "healthy"
 keywords:
 - "zucchini muffins"
 - "lime muffins"

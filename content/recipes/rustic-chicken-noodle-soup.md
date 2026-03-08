@@ -15,11 +15,11 @@ totalTime: PT2H40M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "soups"
-- "chicken dishes"
-- "slow simmer"
+- "chicken"
+- "soup"
 - "comfort food"
-- "French-Canadian"
+- "slow cooker"
+- "easy dinner"
 keywords:
 - "chicken broth"
 - "turmeric soup"

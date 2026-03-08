@@ -16,12 +16,10 @@ recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
 - "pumpkin"
-- "cinnamon rolls"
-- "fall dessert"
-- "custard"
-- "pecans"
-- "quick bake"
-- "brunch"
+- "cinnamon"
+- "dessert"
+- "fall"
+- "no bake"
 keywords:
 - "pumpkin pie bites"
 - "cinnamon roll dessert"

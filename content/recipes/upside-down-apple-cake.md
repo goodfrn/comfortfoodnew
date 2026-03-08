@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "caramel sauce"
-- "apple dessert"
-- "walnuts"
-- "warm spices"
-- "almond milk"
-- "baking tips"
+- "apple"
+- "cake"
+- "caramel"
+- "dessert"
+- "almond"
 keywords:
 - "apple cake"
 - "caramel sauce"

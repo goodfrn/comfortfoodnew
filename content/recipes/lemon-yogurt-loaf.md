@@ -15,10 +15,11 @@ totalTime: PT1H5M
 recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cake"
-- "baking"
-- "citrus"
+- "lemon"
+- "bread"
+- "easy"
+- "vanilla"
 keywords:
 - "lemon loaf"
 - "citrus cake"

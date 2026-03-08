@@ -15,10 +15,10 @@ totalTime: PT33M
 recipeYield: "12 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Southern American"
-- "fried chicken"
-- "spicy food"
-- "sliders"
+- "chicken"
+- "spicy"
+- "sandwich"
+- "southern"
 - "comfort food"
 keywords:
 - "Nashville hot chicken"

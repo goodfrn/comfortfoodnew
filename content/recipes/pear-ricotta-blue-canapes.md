@@ -16,9 +16,9 @@ recipeYield: 24 servings
 categories: ["Appetizers"]
 tags:
 - "appetizer"
+- "ricotta"
+- "bread"
 - "vegetarian"
-- "French-inspired"
-- "quick"
 keywords:
 - "ricotta"
 - "nectarine"

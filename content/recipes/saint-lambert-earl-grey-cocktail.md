@@ -16,13 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "iced drink"
 - "rum"
-- "vermouth"
-- "Earl Grey"
-- "ground cherries"
-- "tonic water"
-- "citrus garnish"
+- "lemon"
+- "citrus"
+- "easy"
 keywords:
 - "iced cocktail"
 - "vermouth drink"

@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "12 cookie cups"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "cookies"
 - "peanut butter"
+- "cookies"
 - "chocolate"
-- "baking"
-- "American"
+- "dessert"
+- "no bake"
 keywords:
 - "peanut butter cookies"
 - "chocolate ganache dessert"

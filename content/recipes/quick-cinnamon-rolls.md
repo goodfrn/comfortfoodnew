@@ -15,12 +15,10 @@ totalTime: PT30M
 recipeYield: "9 rolls"
 categories: ["Breakfast"]
 tags:
-- "quick baking"
-- "gluten free"
-- "sweet rolls"
-- "almond flour"
 - "cinnamon"
-- "easy desserts"
+- "breakfast"
+- "easy"
+- "homemade"
 keywords:
 - "almond flour"
 - "cinnamon rolls"

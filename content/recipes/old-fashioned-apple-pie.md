@@ -15,11 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American baking"
-- "fruit pie"
-- "fall dessert"
-- "apple recipes"
-- "homemade pie"
+- "pie"
+- "apple"
+- "cinnamon"
+- "comfort food"
+- "dessert"
 keywords:
 - "apple pie"
 - "cinnamon spice"

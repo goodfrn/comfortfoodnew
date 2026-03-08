@@ -15,14 +15,11 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Asian-inspired"
-- "bean sprouts"
-- "quick side"
-- "plant-based"
-- "gluten-free"
-- "sesame oil"
-- "easy snacks"
-- "marinade"
+- "sesame"
+- "asian"
+- "vegetarian"
+- "easy"
+- "side dish"
 keywords:
 - "bean sprouts"
 - "sesame marinade"

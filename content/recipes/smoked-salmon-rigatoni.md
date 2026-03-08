@@ -15,11 +15,10 @@ totalTime: PT28M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian American"
-- "seafood pasta"
-- "creamy sauce"
-- "quick meals"
-- "weeknight dinner"
+- "pasta"
+- "seafood"
+- "italian"
+- "easy dinner"
 keywords:
 - "rigatoni"
 - "smoked salmon"

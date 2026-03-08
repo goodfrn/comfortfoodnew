@@ -16,12 +16,10 @@ recipeYield: "2 main dishes or 4 starters"
 categories: ["Salads"]
 tags:
 - "salad"
-- "fish"
-- "green beans"
-- "French-inspired"
-- "easy meal"
-- "healthy"
 - "seafood"
+- "mediterranean"
+- "healthy"
+- "easy dinner"
 keywords:
 - "snapper"
 - "haricots verts"

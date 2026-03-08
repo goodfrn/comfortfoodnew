@@ -15,11 +15,11 @@ totalTime: PT57M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
+- "muffins"
 - "breakfast"
-- "snack"
-- "healthy"
 - "vegetarian"
-- "baking"
+- "cinnamon"
+- "easy"
 keywords:
 - "sweet potato recipe"
 - "morning muffins"

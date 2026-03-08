@@ -15,11 +15,9 @@ totalTime: PT55M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "desserts"
+- "chocolate"
 - "brownies"
-- "white chocolate"
-- "homemade treats"
+- "vanilla"
 keywords:
 - "white chocolate"
 - "brownies"

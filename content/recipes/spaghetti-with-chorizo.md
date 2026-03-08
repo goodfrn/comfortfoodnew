@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
 - "pasta"
-- "easy dinners"
-- "weeknight meals"
-- "quick cooking"
+- "chorizo"
+- "spinach"
+- "italian"
+- "easy dinner"
 keywords:
 - "spaghetti"
 - "chorizo"

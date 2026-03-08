@@ -16,8 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "herbal"
-- "refreshing"
+- "gin"
+- "lemon"
+- "apple"
+- "drink"
 keywords:
 - "maple syrup"
 - "rosemary sugar"

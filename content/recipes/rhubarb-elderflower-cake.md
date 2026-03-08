@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "vegetarian"
-- "vegan option"
-- "baking tips"
-- "seasonal desserts"
+- "cake"
+- "dessert"
+- "elderflower"
+- "homemade"
+- "easy"
 keywords:
 - "rhubarb cake"
 - "elderflower syrup"

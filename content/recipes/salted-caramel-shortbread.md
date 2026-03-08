@@ -15,12 +15,11 @@ totalTime: PT5H55M
 recipeYield: "28 bars"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "caramel"
 - "shortbread"
+- "caramel"
 - "chocolate"
-- "British-inspired"
-- "baking tips"
+- "dessert"
+- "easy"
 keywords:
 - "shortbread bars"
 - "caramel bars"

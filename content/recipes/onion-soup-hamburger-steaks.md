@@ -15,11 +15,10 @@ totalTime: PT33M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "dinner"
 - "beef"
-- "skillet meals"
+- "burger"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "hamburger steaks"
 - "ground beef patties"

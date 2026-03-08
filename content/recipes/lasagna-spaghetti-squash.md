@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "low carb"
-- "gluten free"
-- "one tray meal"
+- "vegetarian"
+- "italian"
+- "ricotta"
+- "squash"
 - "healthy"
-- "ground turkey"
-- "baked"
-- "spaghetti squash"
 keywords:
 - "spaghetti squash"
 - "turkey lasagna"

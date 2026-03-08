@@ -15,13 +15,9 @@ totalTime: PT100M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "cheesecake"
 - "bacon"
-- "maple syrup"
 - "dessert"
-- "water bath"
-- "gingersnap"
-- "baking tips"
+- "comfort food"
 keywords:
 - "maple cheesecake"
 - "candied bacon"

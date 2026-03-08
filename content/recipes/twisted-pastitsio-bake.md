@@ -15,11 +15,11 @@ totalTime: PT2H30M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "casserole"
-- "pasta"
 - "beef"
-- "bake"
+- "italian"
 - "comfort food"
+- "one pot"
+- "cheese"
 keywords:
 - "pastitsio"
 - "bake"

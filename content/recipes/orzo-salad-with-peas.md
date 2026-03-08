@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
+- "salad"
+- "pasta"
 - "vegan"
-- "gluten-free"
-- "easy salad"
-- "quick lunch"
-- "toasted nuts"
+- "lemon"
+- "walnut"
 keywords:
 - "orzo pasta salad"
 - "mustard lemon vinaigrette"

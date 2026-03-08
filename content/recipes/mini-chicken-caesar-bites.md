@@ -15,12 +15,11 @@ totalTime: PT48M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
 - "chicken"
-- "Caesar dressing"
-- "French-inspired"
-- "party snacks"
-- "quick prep"
+- "appetizer"
+- "easy"
+- "pork"
+- "bacon"
 keywords:
 - "chicken bites"
 - "Caesar dressing substitute"

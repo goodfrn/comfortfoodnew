@@ -15,17 +15,11 @@ totalTime: PT1H13M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "lime"
 - "tart"
-- "custard"
-- "pâte brisée"
-- "graham crust"
-- "French"
+- "citrus"
+- "lemon"
+- "no bake"
 - "dessert"
-- "no dairy"
-- "no nuts"
-- "quick"
-- "easy"
 keywords:
 - "lime tart"
 - "custard"

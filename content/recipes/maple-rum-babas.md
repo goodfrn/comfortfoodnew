@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "12 babas"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "French-Canadian"
-- "maple"
+- "cake"
 - "rum"
-- "easy baking"
+- "dessert"
+- "homemade"
+- "brioche"
 keywords:
 - "babas"
 - "rum cakes"

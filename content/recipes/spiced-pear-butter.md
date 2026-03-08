@@ -15,10 +15,11 @@ totalTime: PT1H50M
 recipeYield: "500 ml approx"
 categories: ["Preserves"]
 tags:
-- "vegan"
-- "gluten-free"
-- "autumn snacks"
-- "sweet spreads"
+- "cinnamon"
+- "fall"
+- "homemade"
+- "condiment"
+- "spice"
 keywords:
 - "pumpkin spice"
 - "autumn flavors"

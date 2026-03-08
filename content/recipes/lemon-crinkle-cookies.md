@@ -17,9 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "lemon"
-- "brown butter"
-- "baking tips"
-- "crinkle cookies"
+- "easy"
+- "homemade"
+- "dessert"
 keywords:
 - "lemon zest cookies"
 - "brown butter baking"

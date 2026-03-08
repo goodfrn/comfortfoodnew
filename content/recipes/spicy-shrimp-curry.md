@@ -15,13 +15,10 @@ totalTime: PT70M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Seafood"
-- "Curry"
-- "Spicy"
-- "Dinner"
-- "Coconut Milk"
-- "Shrimp"
-- "Eggplant"
+- "seafood"
+- "spicy"
+- "coconut"
+- "asian"
 keywords:
 - "shrimp curry"
 - "spicy seafood"

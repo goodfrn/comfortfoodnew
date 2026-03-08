@@ -15,11 +15,9 @@ totalTime: PT5H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "pie"
-- "berry"
-- "gelatin"
-- "cream cheese"
+- "raspberry"
+- "dessert"
 - "no bake"
 keywords:
 - "cream cheese pie"

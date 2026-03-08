@@ -15,11 +15,10 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "Italian-inspired"
-- "dessert topping"
 - "mascarpone"
-- "frosting techniques"
-- "baking"
+- "vanilla"
+- "almond"
+- "easy"
 keywords:
 - "mascarpone"
 - "frosting tips"

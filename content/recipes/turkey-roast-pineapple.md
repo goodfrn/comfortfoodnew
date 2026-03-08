@@ -15,12 +15,11 @@ totalTime: PT3H
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "poultry"
-- "brining"
-- "holiday roast"
-- "fruit stuffing"
-- "French cuisine"
-- "dairy-free"
+- "turkey"
+- "pineapple"
+- "roasted"
+- "holiday"
+- "main dish"
 keywords:
 - "turkey roast"
 - "pineapple stuffing"

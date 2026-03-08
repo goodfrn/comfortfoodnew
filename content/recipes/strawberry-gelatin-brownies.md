@@ -15,13 +15,11 @@ totalTime: PT2H10M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "berry dessert"
-- "gelatin dessert"
-- "cream cheese frosting"
-- "Oreo topping"
-- "baking tips"
-- "texture contrast"
+- "brownies"
+- "strawberry"
+- "gelatin"
+- "no bake"
+- "dessert"
 keywords:
 - "strawberry gelatin"
 - "brownie base"

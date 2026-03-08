@@ -15,14 +15,11 @@ totalTime: PT24M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "jam"
-- "carrot"
-- "yogurt"
-- "dessert"
-- "French-inspired"
-- "easy cooking"
 - "breakfast"
-- "spices"
+- "healthy"
+- "jam"
+- "cinnamon"
+- "easy"
 keywords:
 - "carrot jam"
 - "Greek yogurt dessert"

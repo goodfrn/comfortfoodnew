@@ -15,13 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Snacks"]
 tags:
-- "no-bake"
-- "eggless"
-- "cookie dough"
+- "no bake"
 - "chocolate"
 - "snack"
-- "quick"
-- "raw-safe"
+- "vegetarian"
+- "easy"
 keywords:
 - "no bake cookie dough"
 - "eggless choco dough"

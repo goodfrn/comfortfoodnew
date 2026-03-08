@@ -15,13 +15,10 @@ totalTime: PT1H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "fruit bars"
-- "lime"
+- "tart"
 - "cranberry"
-- "easy baking"
-- "North American Fusion"
+- "citrus"
+- "dessert"
 keywords:
 - "lime bars"
 - "cranberry bars"

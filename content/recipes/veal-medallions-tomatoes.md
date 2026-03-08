@@ -15,13 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-style"
-- "gluten-free"
-- "dairy-free"
-- "quick dinner"
 - "veal"
 - "asparagus"
-- "tomatoes"
+- "roasted"
+- "potato"
+- "main dish"
 keywords:
 - "veal medallions"
 - "baby potatoes"

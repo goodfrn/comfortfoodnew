@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
 - "pasta"
-- "broth-based sauce"
-- "fresh herbs"
-- "quick meals"
+- "italian"
+- "ricotta"
+- "vegetarian"
+- "easy dinner"
 keywords:
 - "tubettini pasta"
 - "ricotta cheese"

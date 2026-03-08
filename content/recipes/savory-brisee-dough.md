@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "2 tart bases 23-25 cm"
 categories: ["Main Dishes"]
 tags:
-- "pastry"
-- "savory"
-- "baking"
-- "French-inspired"
-- "tart crust"
-- "brisée"
+- "bread"
+- "homemade"
+- "appetizer"
+- "easy"
+- "bread"
 keywords:
 - "cake flour pastry"
 - "pork fat dough"

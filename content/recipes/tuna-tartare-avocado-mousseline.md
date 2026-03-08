@@ -15,13 +15,11 @@ totalTime: PT25M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "fusion cuisine"
 - "seafood"
-- "raw fish"
 - "appetizer"
-- "quick prep"
-- "fresh herbs"
-- "sashimi-grade tuna"
+- "avocado"
+- "sesame"
+- "japanese"
 keywords:
 - "tuna tartare"
 - "avocado mousseline"

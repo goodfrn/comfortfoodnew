@@ -15,13 +15,11 @@ totalTime: PT42M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Vietnamese"
-- "Grilling"
-- "Pork"
-- "Skewers"
-- "Asian cuisine"
-- "Broiling"
-- "Ground meat"
+- "grilling"
+- "pork"
+- "vietnamese"
+- "asian"
+- "easy dinner"
 keywords:
 - "pork skewers"
 - "Vietnamese pork"

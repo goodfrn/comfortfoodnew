@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "625 ml syrup"
 categories: ["Sauces and Condiments"]
 tags:
-- "homemade syrup"
-- "fruit preserve"
-- "natural sweetener"
-- "vegan syrup"
-- "gluten-free"
-- "maple syrup substitute"
+- "strawberry"
+- "condiment"
+- "homemade"
+- "honey"
+- "lemon"
 keywords:
 - "strawberry syrup"
 - "honey syrup"

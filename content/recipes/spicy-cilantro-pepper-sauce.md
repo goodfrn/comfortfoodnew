@@ -15,11 +15,10 @@ totalTime: PT30M
 recipeYield: 250 ml
 categories: ["Sauces and Condiments"]
 tags:
-- "sauce"
-- "spicy"
-- "herbs"
 - "condiment"
-- "vegan"
+- "spicy"
+- "easy"
+- "mexican"
 keywords:
 - "spicy sauce"
 - "condiment"

@@ -15,14 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "brown sauce"
 - "gravy"
-- "caramelization"
-- "thickening"
-- "sauces"
-- "savory"
-- "broth"
-- "French Canadian"
+- "easy"
+- "comfort food"
+- "one pot"
+- "homemade"
 keywords:
 - "brown sauce"
 - "caramelized onion"

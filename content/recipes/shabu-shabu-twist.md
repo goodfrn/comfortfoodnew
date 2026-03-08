@@ -15,13 +15,10 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Japanese"
-- "hot pot"
-- "shabu-shabu"
-- "miso"
+- "japanese"
 - "pork"
-- "soba"
-- "vegetable broth"
+- "asian"
+- "easy dinner"
 keywords:
 - "shabu-shabu"
 - "miso broth"

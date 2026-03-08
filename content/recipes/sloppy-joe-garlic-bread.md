@@ -15,13 +15,10 @@ totalTime: PT43M
 recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
+- "sandwich"
 - "beef"
-- "garlic bread"
-- "melty cheese"
 - "comfort food"
 - "easy dinner"
-- "sloppy joe"
 keywords:
 - "ground beef"
 - "garlic bread"

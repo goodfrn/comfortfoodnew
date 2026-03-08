@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
 - "vegetarian"
-- "vegan"
-- "gluten-free"
+- "roasted"
+- "mediterranean"
+- "healthy"
 - "easy dinner"
-- "French-inspired"
-- "simmered vegetables"
-- "roasted veggies"
 keywords:
 - "zucchini tomato sauce"
 - "vegetable simmer"

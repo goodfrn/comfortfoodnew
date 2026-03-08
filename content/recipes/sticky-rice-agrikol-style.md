@@ -15,13 +15,10 @@ totalTime: PT48M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Haitian"
-- "Caribbean"
-- "rice and beans"
-- "smoked turkey"
-- "jerk seasoning"
-- "spicy"
-- "comfort food"
+- "caribbean"
+- "rice"
+- "healthy"
+- "easy dinner"
 keywords:
 - "red beans and rice"
 - "smoked turkey"

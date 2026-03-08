@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Eastern European"
 - "comfort food"
-- "ground beef"
+- "beef"
 - "cabbage"
-- "tomato broth"
+- "easy dinner"
+- "spicy"
 keywords:
 - "cabbage rolls"
 - "stuffed cabbage"

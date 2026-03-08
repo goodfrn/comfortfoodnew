@@ -15,12 +15,11 @@ totalTime: PT5H
 recipeYield: "10 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "American snack"
-- "no-bake"
-- "party food"
-- "vegan friendly"
-- "quick prep"
+- "snack"
+- "spicy"
+- "easy"
+- "homemade"
+- "comfort food"
 keywords:
 - "oyster crackers"
 - "spicy ranch"

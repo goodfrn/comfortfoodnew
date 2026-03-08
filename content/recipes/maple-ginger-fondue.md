@@ -15,13 +15,10 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "fondue"
-- "maple syrup"
-- "coconut cream"
-- "arrowroot"
-- "lime juice"
-- "fruit dip"
+- "coconut"
+- "citrus"
+- "dessert"
 keywords:
 - "maple fondue"
 - "ginger fondue"

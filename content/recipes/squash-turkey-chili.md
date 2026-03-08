@@ -15,13 +15,11 @@ totalTime: PT1H40M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "chili"
-- "slow simmer"
-- "turkey"
-- "fall recipe"
 - "comfort food"
-- "vegetable-rich"
+- "chili"
+- "turkey"
+- "slow cooker"
+- "squash"
 keywords:
 - "turkey chili"
 - "butternut squash"

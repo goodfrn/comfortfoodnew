@@ -15,12 +15,11 @@ totalTime: PT39M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cupcakes"
-- "mocha"
-- "peppermint"
-- "cream cheese frosting"
-- "holiday baking"
+- "chocolate"
+- "coffee cake"
+- "mint"
+- "dessert"
 keywords:
 - "mocha cupcakes"
 - "peppermint frosting"

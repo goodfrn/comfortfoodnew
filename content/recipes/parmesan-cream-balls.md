@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "18 balls"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
-- "starter"
-- "no nuts"
-- "no gluten"
-- "dairy"
-- "chilling technique"
+- "cheese"
+- "appetizer"
+- "vegetarian"
+- "party"
+- "no bake"
 keywords:
 - "parmesan balls"
 - "balsamic syrup"

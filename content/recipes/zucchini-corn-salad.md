@@ -17,10 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "vegetarian"
-- "quick meals"
-- "summer recipes"
 - "healthy"
-- "meal prep"
+- "zucchini"
+- "corn"
 keywords:
 - "zucchini salad"
 - "corn salad"

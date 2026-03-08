@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "chocolate"
 - "cupcakes"
-- "french-inspired"
-- "buttercream"
-- "baking tips"
+- "coconut"
 - "espresso"
-- "currants"
+- "homemade"
 keywords:
 - "chocolate cupcakes"
 - "buttercream filling"

@@ -16,10 +16,10 @@ recipeYield: "6 jars 250 ml each"
 categories: ["Preserves"]
 tags:
 - "chutney"
-- "preserving"
-- "fruit recipes"
-- "vegan"
-- "gluten-free"
+- "condiment"
+- "homemade"
+- "easy"
+- "fall"
 keywords:
 - "chutney"
 - "sea buckthorn"

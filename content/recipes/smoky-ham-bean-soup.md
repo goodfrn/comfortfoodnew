@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "bean soup"
-- "smoky"
-- "American"
-- "weeknight meal"
+- "ham"
 - "comfort food"
+- "easy dinner"
+- "one pot"
 keywords:
 - "ham bean soup"
 - "smoky soup"

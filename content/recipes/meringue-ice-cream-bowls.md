@@ -16,10 +16,9 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "meringue"
-- "baking"
-- "ice cream"
-- "American cuisine"
+- "vanilla"
+- "eggs"
+- "no bake"
 keywords:
 - "meringue"
 - "ice cream bowls"

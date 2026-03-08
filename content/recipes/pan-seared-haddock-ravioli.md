@@ -15,13 +15,11 @@ totalTime: PT1H35M
 recipeYield: "5 servings"
 categories: ["Main Dishes"]
 tags:
-- "spinach pasta"
-- "seafood ravioli"
-- "sage butter sauce"
-- "blistered tomatoes"
-- "French-Italian fusion"
-- "handmade pasta"
-- "ricotta filling"
+- "pasta"
+- "seafood"
+- "spinach"
+- "ricotta"
+- "lemon"
 keywords:
 - "spinach pasta"
 - "haddock ravioli"

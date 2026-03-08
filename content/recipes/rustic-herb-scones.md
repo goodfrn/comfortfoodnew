@@ -15,13 +15,10 @@ totalTime: PT40M
 recipeYield: "9 servings"
 categories: ["Breakfast"]
 tags:
-- "savory baking"
 - "breakfast"
-- "British-inspired"
-- "herb baking"
+- "bread"
 - "vegetarian"
-- "no eggs"
-- "spelt flour recipes"
+- "easy"
 keywords:
 - "spelt flour"
 - "olive oil scones"

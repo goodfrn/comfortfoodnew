@@ -15,12 +15,11 @@ totalTime: PT4H5M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
 - "chili"
-- "ground beef"
-- "crockpot"
+- "slow cooker"
+- "beef"
+- "spicy"
 - "comfort food"
-- "easy dinner"
 keywords:
 - "crock pot chili"
 - "slow cooker chili"

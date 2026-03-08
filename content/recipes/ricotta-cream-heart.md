@@ -15,15 +15,11 @@ totalTime: PT20H30M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "no bake dessert"
 - "ricotta"
-- "maple syrup"
-- "lemon zest"
-- "egg whites"
-- "whipped cream"
-- "cheesecloth"
-- "berry compote"
+- "dessert"
+- "no bake"
+- "lemon"
+- "eggs"
 keywords:
 - "ricotta cream"
 - "whipped egg whites"

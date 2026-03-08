@@ -15,13 +15,11 @@ totalTime: PT52M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "cookies"
-- "baking"
 - "chocolate"
-- "marshmallows"
-- "walnuts"
-- "dessert"
-- "freeze dough"
+- "cookies"
+- "walnut"
+- "candy"
+- "easy"
 keywords:
 - "rocky road cookies"
 - "marshmallow cookies"

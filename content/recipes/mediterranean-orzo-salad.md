@@ -15,15 +15,11 @@ totalTime: PT25M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
 - "salad"
-- "orzo"
-- "goat cheese"
-- "mint"
-- "easy"
-- "summer"
-- "quick"
+- "mediterranean"
+- "pasta"
 - "vegetarian"
+- "summer"
 keywords:
 - "orzo salad"
 - "Mediterranean pasta salad"

@@ -15,12 +15,11 @@ totalTime: PT31M
 recipeYield: "22 cookies"
 categories: ["Desserts"]
 tags:
-- "American Cookies"
-- "Browned Butter"
-- "Spiced Cookies"
-- "Chewy Cookies"
-- "Baking Tips"
-- "Cookie Coating"
+- "cookies"
+- "cinnamon"
+- "vanilla"
+- "homemade"
+- "easy"
 keywords:
 - "snickerdoodle"
 - "browned butter"

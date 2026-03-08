@@ -15,12 +15,11 @@ totalTime: PT43M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "breakfast"
-- "American Southwest"
 - "vegetarian"
 - "wraps"
-- "quick meals"
-- "crispy burrito"
+- "eggs"
+- "mushroom"
+- "spinach"
 keywords:
 - "mushrooms sautéed"
 - "cheesy spinach wrap"

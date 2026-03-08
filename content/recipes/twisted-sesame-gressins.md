@@ -15,15 +15,11 @@ totalTime: PT64M
 recipeYield: "2 dozens"
 categories: ["Snacks"]
 tags:
-- "Italian"
+- "bread"
 - "vegan"
-- "seeded"
-- "baked snacks"
-- "dairy-free"
-- "egg-free"
-- "nut-free"
-- "snacks"
-- "breadstick variants"
+- "sesame"
+- "snack"
+- "easy"
 keywords:
 - "sesame gressins"
 - "vegan breadsticks"

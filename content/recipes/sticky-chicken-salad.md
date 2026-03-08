@@ -17,10 +17,9 @@ categories: ["Salads"]
 tags:
 - "chicken"
 - "salad"
-- "American fusion"
-- "quick meals"
-- "weeknight dinner"
-- "easy prep"
+- "asian"
+- "healthy"
+- "easy dinner"
 keywords:
 - "sticky chicken"
 - "ginger dressing"

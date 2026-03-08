@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "Asian fusion"
-- "vegetarian"
-- "quick prep"
-- "light dish"
+- "sesame"
+- "cucumber"
+- "asian"
+- "easy"
 keywords:
 - "cucumber salad"
 - "sesame dressing"

@@ -16,12 +16,10 @@ recipeYield: "4-6 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "whipped cream"
-- "mint"
-- "cucumber"
-- "curly endive"
-- "quick dish"
-- "french inspired"
+- "vegetarian"
+- "easy"
+- "summer"
+- "healthy"
 keywords:
 - "whipped cream salad"
 - "light garden salad"

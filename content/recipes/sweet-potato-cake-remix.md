@@ -15,12 +15,10 @@ totalTime: PT1H30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
+- "cinnamon"
+- "walnut"
 - "dessert"
-- "holiday baking"
-- "nut substitutions"
-- "buttercream frosting"
-- "sweet potatoes"
-- "American cuisine"
 keywords:
 - "sweet potato cake"
 - "almond oil baking"

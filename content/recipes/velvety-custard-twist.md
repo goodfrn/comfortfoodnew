@@ -15,14 +15,10 @@ totalTime: PT2H24M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "custard"
-- "American cuisine"
-- "dessert base"
-- "pastry cream"
-- "almond flavor"
-- "cornstarch thickener"
-- "egg yolk tempering"
-- "chilling technique"
+- "dessert"
+- "vanilla"
+- "eggs"
+- "comfort food"
 keywords:
 - "custard recipe"
 - "half-and-half custard"

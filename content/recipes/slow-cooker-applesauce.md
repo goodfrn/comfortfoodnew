@@ -15,11 +15,11 @@ totalTime: PT3H30M
 recipeYield: "8 servings"
 categories: ["Preserves"]
 tags:
-- "applesauce"
+- "apple"
+- "cinnamon"
 - "slow cooker"
-- "fall recipes"
-- "fruit puree"
-- "easy dessert"
+- "fall"
+- "easy"
 keywords:
 - "applesauce"
 - "slow cooker"

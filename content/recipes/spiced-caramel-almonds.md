@@ -15,9 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
+- "almond"
+- "caramel"
+- "cinnamon"
+- "spicy"
 - "snack"
-- "dessert"
-- "carmelized nuts"
 keywords:
 - "almond recipe"
 - "coconut oil dessert"

@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "6 to 8 portions"
 categories: ["Side Dishes"]
 tags:
-- "potato salad"
+- "salad"
+- "potato"
 - "bacon"
-- "French-inspired"
-- "warm salad"
-- "gluten-free"
-- "dairy-free"
+- "easy"
+- "comfort food"
 keywords:
 - "fingerling potatoes"
 - "grainy Dijon mustard"

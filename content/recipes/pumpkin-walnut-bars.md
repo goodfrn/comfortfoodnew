@@ -16,12 +16,9 @@ recipeYield: "9 bars"
 categories: ["Desserts"]
 tags:
 - "pumpkin"
-- "walnuts"
-- "fall baking"
-- "gluten-free option"
-- "spiced desserts"
-- "nut allergy swap"
-- "date crust"
+- "walnut"
+- "spice"
+- "fall"
 keywords:
 - "pumpkin bars"
 - "walnut bars"

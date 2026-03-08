@@ -16,10 +16,10 @@ recipeYield: "4 large or 6 small servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "vegan"
-- "quick meals"
-- "lunch options"
-- "healthy eating"
-- "meal prep"
+- "wraps"
+- "tofu"
+- "sesame"
+- "grilling"
 keywords:
 - "veggie wraps"
 - "tofu recipes"

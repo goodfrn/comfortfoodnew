@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "Cobb"
+- "chicken"
 - "healthy"
-- "fresh"
-- "lunch"
-- "dinner"
-- "recipe"
+- "eggs"
+- "bacon"
 keywords:
 - "salad"
 - "Cobb salad"

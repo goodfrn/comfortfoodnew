@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "Mexican-American"
-- "chicken soup"
-- "chipotle"
-- "tortilla strips"
+- "chicken"
+- "soup"
+- "mexican"
+- "spicy"
 - "comfort food"
-- "oven-baked"
 keywords:
 - "smoky chicken soup"
 - "chipotle soup"

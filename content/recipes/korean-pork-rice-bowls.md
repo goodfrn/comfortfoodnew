@@ -15,11 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Korean Fusion"
-- "rice bowl"
-- "pork dishes"
-- "avocado"
-- "pickled vegetables"
+- "korean"
+- "pork"
+- "rice"
+- "asian"
+- "easy dinner"
 keywords:
 - "Korean pork"
 - "pickled carrots cucumber"

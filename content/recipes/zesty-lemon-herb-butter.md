@@ -15,13 +15,9 @@ totalTime: PT6M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "butter"
-- "herbs"
 - "lemon"
-- "whipped"
-- "mustard"
-- "quick recipes"
-- "American cuisine"
+- "condiment"
+- "homemade"
 keywords:
 - "lemon zest butter"
 - "whipped butter recipe"

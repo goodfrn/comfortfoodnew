@@ -15,12 +15,10 @@ totalTime: PT47M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "casserole"
 - "comfort food"
 - "tuna"
-- "weeknight meal"
-- "oven bake"
+- "easy dinner"
+- "cheese"
 keywords:
 - "tuna casserole"
 - "egg noodle bake"

@@ -15,12 +15,11 @@ totalTime: PT1H8M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Chinese American"
-- "fried chicken"
-- "spicy chicken"
-- "double dredging"
-- "homemade sauce"
-- "weeknight dinner"
+- "chicken"
+- "spicy"
+- "fried"
+- "asian"
+- "easy dinner"
 keywords:
 - "crispy chicken"
 - "spicy fried chicken"

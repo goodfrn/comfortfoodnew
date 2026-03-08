@@ -15,14 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "chicken"
+- "grilling"
 - "spicy"
-- "marinade"
-- "quick meals"
-- "barbecue"
-- "poultry"
-- "weeknight dinner"
+- "citrus"
+- "lemon"
 keywords:
 - "grilled chicken"
 - "lime marinade"

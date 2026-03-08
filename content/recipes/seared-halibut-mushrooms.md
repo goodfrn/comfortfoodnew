@@ -15,15 +15,11 @@ totalTime: PT42M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fish"
-- "halibut"
-- "mushrooms"
-- "greens"
-- "gluten-free"
-- "dairy-free"
-- "low carb"
-- "quick meals"
-- "healthy dinner"
+- "seafood"
+- "mushroom"
+- "healthy"
+- "easy dinner"
+- "main dish"
 keywords:
 - "halibut fillets"
 - "vegetable broth"

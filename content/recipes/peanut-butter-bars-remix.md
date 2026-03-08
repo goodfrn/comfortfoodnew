@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "peanut butter"
-- "bars"
-- "oats"
-- "dessert"
-- "almond butter"
-- "cocoa frosting"
+- "chocolate"
+- "comfort food"
+- "cookies"
+- "no bake"
 keywords:
 - "peanut butter bars"
 - "chewy oat bars"

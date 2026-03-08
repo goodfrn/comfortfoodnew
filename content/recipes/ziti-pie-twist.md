@@ -15,12 +15,11 @@ totalTime: PT70M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "pasta bake"
-- "cheese layering"
-- "springform pan"
-- "marinara sauce"
-- "chilling pasta"
+- "pasta"
+- "cheese"
+- "italian"
+- "comfort food"
+- "homemade"
 keywords:
 - "baked ziti"
 - "ziti pasta pie"

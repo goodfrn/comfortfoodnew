@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Apple dessert"
-- "Upside down cake"
-- "Brown butter"
-- "Cinnamon nutmeg"
-- "Baking tips"
-- "Caramelized fruit"
+- "cake"
+- "apple"
+- "dessert"
+- "easy"
+- "cinnamon"
 keywords:
 - "apple cake"
 - "browned butter"

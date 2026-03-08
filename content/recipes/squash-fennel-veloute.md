@@ -15,13 +15,11 @@ totalTime: PT1H5M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "vegan"
-- "gluten-free"
-- "French-inspired"
 - "soup"
-- "velouté"
-- "plant-based"
-- "fall recipes"
+- "vegan"
+- "healthy"
+- "gluten free"
+- "comfort food"
 keywords:
 - "vegetable soup"
 - "star anise flavor"

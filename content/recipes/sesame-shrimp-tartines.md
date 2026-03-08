@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "seafood snack"
-- "air fryer recipe"
-- "quick appetizers"
-- "Sesame seeds"
-- "Nordic shrimp"
-- "avocado toast"
+- "sesame"
+- "shrimp"
+- "sandwich"
+- "appetizer"
+- "easy"
 keywords:
 - "sesame shrimp"
 - "air-fried sesame bread"

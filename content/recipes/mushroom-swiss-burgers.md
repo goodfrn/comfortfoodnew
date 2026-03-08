@@ -16,10 +16,9 @@ recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
 - "burger"
-- "mushroom"
-- "swiss cheese"
-- "skillet"
 - "beef"
+- "mushroom"
+- "cheese"
 - "easy dinner"
 keywords:
 - "mushroom swiss burger"

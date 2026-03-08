@@ -17,12 +17,9 @@ categories: ["Snacks"]
 tags:
 - "vegan"
 - "tofu"
-- "sliders"
-- "snacks"
-- "quick meals"
-- "plant-based"
-- "dairy-free"
-- "nut-free"
+- "spicy"
+- "sandwich"
+- "easy dinner"
 keywords:
 - "tofu sliders"
 - "vegan sandwich"

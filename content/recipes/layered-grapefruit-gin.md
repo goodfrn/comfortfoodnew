@@ -16,10 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "gin drinks"
-- "layered drinks"
-- "grapefruit"
-- "slow pour"
+- "gin"
+- "citrus"
+- "drink"
+- "mint"
 keywords:
 - "grapefruit gin"
 - "layered cocktail"

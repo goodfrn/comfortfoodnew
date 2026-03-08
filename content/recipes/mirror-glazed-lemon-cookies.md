@@ -15,12 +15,11 @@ totalTime: PT1H
 recipeYield: "1 dozen"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cookies"
 - "lemon"
-- "spelt flour"
-- "glaze"
-- "baking techniques"
+- "citrus"
+- "spelt"
+- "honey"
 keywords:
 - "lemon cookies"
 - "mirror glaze"

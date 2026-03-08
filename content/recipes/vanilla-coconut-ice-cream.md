@@ -15,11 +15,11 @@ totalTime: PT6H30M
 recipeYield: "1.3 litres"
 categories: ["Desserts"]
 tags:
-- "vegan dessert"
-- "no machine ice cream"
-- "coconut recipes"
-- "dairy-free"
-- "tropical flavors"
+- "coconut"
+- "vanilla"
+- "vegan"
+- "no bake"
+- "dessert"
 keywords:
 - "coconut cream ice cream"
 - "sweetened condensed coconut milk"

@@ -15,12 +15,11 @@ totalTime: PT100M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Moroccan"
+- "moroccan"
+- "lentils"
+- "chickpeas"
 - "vegetarian"
-- "comfort food"
-- "legume stew"
-- "spices"
-- "slow simmer"
+- "harissa"
 keywords:
 - "lentils"
 - "harissa"

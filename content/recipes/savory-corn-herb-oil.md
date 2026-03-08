@@ -15,12 +15,11 @@ totalTime: PT10M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "herbs"
-- "corn topping"
-- "grilled vegetables"
-- "avocado oil"
-- "chimichurri"
-- "quick sauce"
+- "condiment"
+- "easy"
+- "vegetarian"
+- "grilling"
+- "corn"
 keywords:
 - "corn herb oil"
 - "chimichurri sauce"

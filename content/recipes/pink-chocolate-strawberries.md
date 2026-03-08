@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "berries"
 - "chocolate"
-- "colored chocolate"
-- "fruit snacks"
-- "american cuisine"
+- "strawberry"
+- "dessert"
+- "no bake"
+- "easy"
 keywords:
 - "white candy melts"
 - "beet powder coloring"

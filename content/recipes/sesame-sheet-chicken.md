@@ -15,12 +15,10 @@ totalTime: PT39M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian-inspired"
-- "sheet pan meal"
-- "roasting tips"
-- "weeknight dinner"
-- "sesame chicken"
-- "vegetable roasting"
+- "chicken"
+- "sesame"
+- "roasted"
+- "easy dinner"
 keywords:
 - "chicken thighs roasted"
 - "sesame sauce recipe"

@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
+- "lobster"
 - "seafood"
 - "soup"
-- "lobster"
-- "white chocolate"
-- "French-inspired"
-- "mascarpone"
-- "striped bass"
+- "chocolate"
+- "eggs"
 keywords:
 - "lobster soup"
 - "white chocolate broth"

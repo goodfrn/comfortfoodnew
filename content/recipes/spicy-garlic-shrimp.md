@@ -15,13 +15,11 @@ totalTime: PT23M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "Asian fusion"
 - "seafood"
-- "quick meals"
 - "spicy"
-- "shrimp"
-- "garlic"
-- "weeknight dinner"
+- "asian"
+- "citrus"
+- "easy dinner"
 keywords:
 - "shrimp recipe"
 - "garlic shrimp"

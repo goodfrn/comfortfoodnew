@@ -15,11 +15,11 @@ totalTime: PT1H40M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American desserts"
-- "fall baking"
-- "layered pies"
-- "streusel"
-- "holiday pies"
+- "pie"
+- "pumpkin"
+- "apple"
+- "pecan"
+- "fall"
 keywords:
 - "apple pie"
 - "pumpkin pie"

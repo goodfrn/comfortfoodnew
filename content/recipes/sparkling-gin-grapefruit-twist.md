@@ -15,11 +15,11 @@ totalTime: PT15M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktail"
-- "summer drinks"
-- "herbal flavors"
-- "pan seared citrus"
 - "gin"
+- "cocktail"
+- "citrus"
+- "drink"
+- "easy"
 keywords:
 - "gin cocktail"
 - "grapefruit soda"

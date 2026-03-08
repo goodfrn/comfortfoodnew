@@ -16,11 +16,9 @@ recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
 - "caramel"
-- "pecans"
-- "dessert sauce"
-- "nutty"
-- "American"
-- "caramelization"
+- "pecan"
+- "homemade"
+- "condiment"
 keywords:
 - "pecan caramel"
 - "caramel sauce"

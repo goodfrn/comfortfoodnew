@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "Southern"
 - "pie"
-- "custard"
-- "buttermilk"
-- "baking"
+- "southern"
+- "dessert"
+- "coconut"
+- "easy"
 keywords:
 - "buttermilk pie"
 - "custard pie"

@@ -16,14 +16,10 @@ recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "cherry sauce"
-- "French-inspired"
-- "chicken stock"
-- "cinnamon"
-- "five-spice"
-- "parsnips"
-- "aromatics"
-- "pan-seared"
+- "cherry"
+- "spice"
+- "main dish"
+- "easy dinner"
 keywords:
 - "pork medallions"
 - "cherry sauce"

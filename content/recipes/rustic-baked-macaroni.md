@@ -15,11 +15,10 @@ totalTime: PT39M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "cheese bake"
 - "comfort food"
+- "cheese"
 - "pasta"
-- "smoked cheese"
+- "homemade"
 keywords:
 - "macaroni cheese"
 - "baked pasta"

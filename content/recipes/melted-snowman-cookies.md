@@ -15,11 +15,11 @@ totalTime: PT18M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "holiday cookies"
-- "marshmallow treats"
-- "cookie decorating"
-- "winter baking"
-- "easy cookies"
+- "cookies"
+- "holiday"
+- "easy"
+- "no bake"
+- "dessert"
 keywords:
 - "sugar cookies"
 - "marshmallows"

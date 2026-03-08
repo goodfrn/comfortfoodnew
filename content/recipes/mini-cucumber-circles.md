@@ -15,12 +15,11 @@ totalTime: PT22M
 recipeYield: "40 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "finger food"
-- "herbs"
-- "easy snacks"
-- "fresh vegetables"
-- "party bites"
+- "appetizer"
+- "cucumber"
+- "vegetarian"
+- "easy"
+- "homemade"
 keywords:
 - "cucumber appetizers"
 - "cream cheese spread"

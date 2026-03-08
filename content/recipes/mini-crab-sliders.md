@@ -15,11 +15,11 @@ totalTime: PT11M
 recipeYield: "12 sliders"
 categories: ["Appetizers"]
 tags:
-- "seafood"
-- "appetizers"
-- "quick recipes"
-- "party food"
-- "mini sliders"
+- "crab"
+- "appetizer"
+- "burger"
+- "easy"
+- "avocado"
 keywords:
 - "crab sliders"
 - "mini burgers"

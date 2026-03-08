@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
+- "potato"
 - "vegan"
-- "sides"
-- "comfort food"
-- "easy cooking"
+- "roasted"
+- "side dish"
+- "easy"
 keywords:
 - "baby potatoes"
 - "maple syrup"

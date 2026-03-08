@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "lemon"
-- "curd"
-- "dessert"
-- "citrus"
+- "honey"
+- "eggs"
+- "vanilla"
 - "homemade"
-- "easy cooking"
-- "kitchen tips"
-- "low heat"
 keywords:
 - "lemon curd"
 - "honey lemon curd"

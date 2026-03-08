@@ -15,12 +15,11 @@ totalTime: PT10M
 recipeYield: "14 bites"
 categories: ["Snacks"]
 tags:
-- "no-bake"
-- "protein snack"
-- "energy bites"
-- "quick snack"
-- "almond butter"
-- "chocolate chips"
+- "no bake"
+- "snack"
+- "chocolate"
+- "honey"
+- "cinnamon"
 keywords:
 - "protein bites"
 - "no-bake snacks"

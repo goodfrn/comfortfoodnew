@@ -15,11 +15,10 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "French bakery"
-- "viennoiserie"
-- "chocolate pastry"
-- "homemade croissants"
-- "baking tips"
+- "chocolate"
+- "breakfast"
+- "citrus"
+- "french"
 keywords:
 - "croissant dough"
 - "dark chocolate batons"

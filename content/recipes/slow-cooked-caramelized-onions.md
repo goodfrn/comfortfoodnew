@@ -15,11 +15,10 @@ totalTime: PT1H
 recipeYield: "1 serving"
 categories: ["Dips and Spreads"]
 tags:
-- "onions"
-- "caramelization"
-- "slow cooking"
-- "savory"
-- "kitchen tips"
+- "slow cooker"
+- "caramel"
+- "honey"
+- "side dish"
 keywords:
 - "caramelized onions"
 - "slow cooking onions"

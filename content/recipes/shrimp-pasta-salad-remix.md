@@ -15,12 +15,11 @@ totalTime: PT26M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "American"
+- "pasta"
 - "salad"
 - "seafood"
-- "quick meal"
-- "make ahead"
-- "weeknight dinner"
+- "summer"
+- "lemon"
 keywords:
 - "pasta salad"
 - "shrimp salad"

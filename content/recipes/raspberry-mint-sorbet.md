@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Frozen Treats"]
 tags:
 - "vegan"
-- "gluten-free"
-- "dairy-free"
-- "summer dessert"
-- "fruit sorbet"
-- "no cook"
-- "frozen dessert"
+- "no bake"
+- "raspberry"
+- "mint"
+- "summer"
 keywords:
 - "raspberry sorbet"
 - "mint sorbet"

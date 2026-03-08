@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "4 to 6 servings"
 categories: ["Salads"]
 tags:
-- "shrimp"
 - "salad"
-- "white beans"
-- "quick meal"
-- "grilled"
+- "seafood"
+- "shrimp"
+- "bacon"
+- "easy dinner"
 keywords:
 - "lighter meal"
 - "smoky flavors"

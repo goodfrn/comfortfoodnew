@@ -17,11 +17,9 @@ categories: ["Side Dishes"]
 tags:
 - "cauliflower"
 - "vegetarian"
-- "quick side"
-- "gluten free"
-- "Mexican-inspired"
-- "cheesy"
-- "smoky"
+- "cheese"
+- "spice"
+- "side dish"
 keywords:
 - "cauliflower rice"
 - "smoked paprika"

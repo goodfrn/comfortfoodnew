@@ -16,9 +16,9 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "slow cooker"
-- "Italian-American"
+- "sausage"
 - "pasta"
-- "one pot meal"
+- "italian"
 - "comfort food"
 keywords:
 - "slow cooker ravioli"

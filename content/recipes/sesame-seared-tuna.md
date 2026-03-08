@@ -15,12 +15,11 @@ totalTime: PT23M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "Japanese Fusion"
-- "tuna steaks"
-- "searing"
-- "spicy sauce"
-- "sesame seeds"
-- "teriyaki"
+- "sesame"
+- "tuna"
+- "spicy"
+- "asian"
+- "appetizer"
 keywords:
 - "seared tuna"
 - "sesame crust"

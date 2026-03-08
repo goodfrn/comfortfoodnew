@@ -15,12 +15,10 @@ totalTime: PT1H45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French influenced"
-- "wild rice"
-- "duck confit"
-- "roasted vegetables"
-- "orange crema"
-- "comfort food"
+- "duck"
+- "squash"
+- "mushroom"
+- "roasted"
 keywords:
 - "wild rice"
 - "duck confit"

@@ -16,10 +16,10 @@ recipeYield: "36 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "fall baking"
-- "sugar cookies"
-- "holiday treats"
-- "layered desserts"
+- "candy"
+- "fall"
+- "no bake"
+- "holiday"
 keywords:
 - "layered cookies"
 - "candy corn cookies"

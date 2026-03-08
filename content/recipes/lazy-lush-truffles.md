@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "30 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
 - "chocolate"
-- "amaretto"
-- "dessert"
+- "candy"
+- "coconut"
+- "no bake"
 - "easy"
-- "snacks"
 keywords:
 - "chocolate truffles"
 - "condensed milk"

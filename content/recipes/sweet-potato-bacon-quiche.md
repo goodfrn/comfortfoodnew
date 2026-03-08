@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "quiche"
-- "sweet potato"
 - "bacon"
-- "Gruyere"
-- "American"
-- "baking tips"
+- "cheese"
+- "eggs"
+- "roasted"
 keywords:
 - "sweet potato quiche"
 - "bacon quiche"

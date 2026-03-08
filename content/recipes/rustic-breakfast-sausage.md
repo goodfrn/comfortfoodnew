@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "pork"
 - "sausage"
-- "gluten free"
-- "herbs"
-- "pan frying"
+- "pork"
+- "comfort food"
+- "easy"
 keywords:
 - "ground pork"
 - "rolled oats"

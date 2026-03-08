@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "tofu"
-- "glaze"
-- "maple syrup"
-- "crispy"
-- "Asian-inspired"
+- "asian"
 - "vegan"
-- "quick meal"
+- "easy dinner"
+- "gluten free"
 keywords:
 - "tofu recipe"
 - "maple glazed tofu"

@@ -15,13 +15,11 @@ totalTime: PT47M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "vegan"
-- "vegetarian"
-- "sandwich"
 - "tofu"
+- "sandwich"
+- "vegan"
 - "air fryer"
-- "plant-based"
-- "quick meals"
+- "easy dinner"
 keywords:
 - "tofu parm"
 - "vegan sandwich"

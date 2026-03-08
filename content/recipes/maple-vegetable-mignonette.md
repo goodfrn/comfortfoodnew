@@ -17,11 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "seafood"
 - "appetizer"
-- "raw oysters"
-- "French-inspired"
-- "mignonette"
-- "vegetable garnish"
-- "cold servings"
+- "vegetarian"
+- "summer"
+- "easy"
 keywords:
 - "oysters"
 - "mignonette"

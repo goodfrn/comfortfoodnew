@@ -15,13 +15,11 @@ totalTime: PT3H40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
 - "chicken"
+- "slow cooker"
 - "comfort food"
-- "one pot meal"
+- "one pot"
 - "easy dinner"
-- "chicken thighs"
-- "crockpot chicken"
 keywords:
 - "slow cooker chicken thighs"
 - "crock pot chicken thighs"

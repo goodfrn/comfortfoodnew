@@ -16,11 +16,10 @@ recipeYield: "16 servings"
 categories: ["Main Dishes"]
 tags:
 - "chili"
-- "sausage bake"
-- "cheese sauce"
-- "merguez"
+- "spicy"
+- "cheese"
 - "comfort food"
-- "baked hot dogs"
+- "easy dinner"
 keywords:
 - "spicy chili dog"
 - "cheese sauce"

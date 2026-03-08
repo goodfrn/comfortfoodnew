@@ -15,9 +15,11 @@ totalTime: PT39M
 recipeYield: 4 sandwiches
 categories: ["Pizza and Flatbreads"]
 tags:
-- "Italian food"
-- "sandwich recipe"
-- "quick meal"
+- "pizza"
+- "italian"
+- "ricotta"
+- "appetizer"
+- "easy dinner"
 keywords:
 - "pizzas"
 - "soppressata"

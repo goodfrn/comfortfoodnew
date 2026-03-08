@@ -15,13 +15,10 @@ totalTime: PT30M
 recipeYield: "1 litre 4 cups approx"
 categories: ["Dips and Spreads"]
 tags:
-- "fruit spread"
-- "dessert filling"
-- "whipped frosting"
+- "jam"
 - "raspberry"
-- "buttercream alternative"
-- "coconut oil"
-- "apple purée"
+- "coconut"
+- "easy"
 keywords:
 - "raspberry spread"
 - "cream spread"

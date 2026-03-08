@@ -15,11 +15,9 @@ totalTime: PT62M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American desserts"
-- "layer cakes"
-- "chocolate mousse"
-- "brown butter"
-- "baking techniques"
+- "cake"
+- "hazelnut"
+- "dessert"
 keywords:
 - "brown butter"
 - "gelatin mousse"

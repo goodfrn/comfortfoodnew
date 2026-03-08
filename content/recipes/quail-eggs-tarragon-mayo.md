@@ -15,11 +15,11 @@ totalTime: PT22M
 recipeYield: "10 servings"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
+- "eggs"
 - "appetizer"
-- "quick snack"
-- "herb mayo"
-- "boiled eggs"
+- "easy"
+- "french"
+- "healthy"
 keywords:
 - "quail eggs recipe"
 - "tarragon mayo"

@@ -15,14 +15,10 @@ totalTime: PT1H40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French fusion"
-- "roast chicken"
-- "chorizo"
-- "garlic"
-- "potatoes"
-- "tomatoes"
-- "grilling"
-- "crispy skin"
+- "chicken"
+- "lemon"
+- "roasted"
+- "citrus"
 keywords:
 - "roast chicken"
 - "chorizo"

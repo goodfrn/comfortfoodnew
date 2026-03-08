@@ -16,13 +16,9 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "herbs"
-- "roasting"
-- "garlic"
-- "rosemary"
-- "weeknight meal"
-- "rustic"
-- "poultry"
+- "roasted"
+- "lemon"
+- "main dish"
 keywords:
 - "chicken thighs"
 - "lemon zest"

@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "lemon desserts"
-- "citrus cake"
-- "yogurt recipes"
-- "glaze tips"
-- "moist cakes"
-- "butter substitution"
+- "cake"
+- "lemon"
+- "citrus"
+- "dessert"
+- "easy"
 keywords:
 - "yogurt cake"
 - "lemon citrus loaf"

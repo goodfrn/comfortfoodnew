@@ -15,12 +15,10 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "gluten-free"
-- "dairy-free"
-- "quick snacks"
-- "broiled sausages"
-- "maple syrup"
+- "appetizer"
+- "sausage"
+- "easy"
+- "party"
 keywords:
 - "cocktail sausages"
 - "maple glaze"

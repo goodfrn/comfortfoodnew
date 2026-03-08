@@ -15,11 +15,11 @@ totalTime: PT64M
 recipeYield: "8 servings"
 categories: ["Cheese and Dairy"]
 tags:
-- "cheese making"
-- "Italian cheese"
-- "quick cheese"
-- "fresh mozzarella"
-- "homemade dairy"
+- "cheese"
+- "homemade"
+- "vegetarian"
+- "easy"
+- "no bake"
 keywords:
 - "mozzarella"
 - "homemade cheese"

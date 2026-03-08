@@ -15,10 +15,11 @@ totalTime: PT45M
 recipeYield: 12 servings
 categories: ["Breakfast"]
 tags:
-- "desserts"
+- "oatmeal"
+- "jam"
 - "muffins"
-- "vegetarian"
-- "quick recipes"
+- "honey"
+- "almond"
 keywords:
 - "oat muffins"
 - "jam muffins"

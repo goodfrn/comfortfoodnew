@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
 - "bacon"
-- "oven cooking"
-- "crisping"
-- "kitchen tips"
-- "meat preparation"
+- "breakfast"
+- "easy"
+- "homemade"
+- "comfort food"
 keywords:
 - "oven bacon"
 - "crispy bacon"

@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Desserts"]
 tags:
-- "mug cake"
-- "quick dessert"
-- "Oreos"
-- "microwave recipe"
-- "espresso twist"
+- "chocolate"
+- "cake"
+- "no bake"
+- "dessert"
+- "easy"
 keywords:
 - "Oreo mug cake"
 - "microwave dessert"

@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "Mexican"
 - "salad"
 - "vegetarian"
-- "roasted vegetables"
-- "black beans"
-- "easy meals"
-- "cold salad"
+- "summer"
 - "healthy"
+- "mexican"
 keywords:
 - "sweet potato salad"
 - "black bean salad"

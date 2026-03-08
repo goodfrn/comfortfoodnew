@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "beef"
-- "mushrooms"
-- "midweek meal"
-- "quick cooking"
-- "French-inspired"
+- "comfort food"
+- "mushroom"
+- "easy dinner"
+- "main dish"
 keywords:
 - "beef patties"
 - "mushroom sauce"

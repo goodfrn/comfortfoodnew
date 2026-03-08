@@ -15,11 +15,8 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Tunisian"
 - "pasta"
-- "gluten-free"
 - "spicy"
-- "sausages"
 - "harissa"
 keywords:
 - "merguez sausage"

@@ -15,11 +15,10 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "casserole"
-- "baked pasta"
-- "pepperoni"
-- "comfort food"
+- "pizza"
+- "pasta"
+- "cheese"
+- "one pot"
 keywords:
 - "spaghetti bake"
 - "pepperoni casserole"

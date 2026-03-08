@@ -15,14 +15,11 @@ totalTime: PT34M
 recipeYield: "24 pieces"
 categories: ["Appetizers"]
 tags:
-- "Mediterranean"
 - "appetizer"
-- "vegetarian"
-- "quick"
-- "snack"
+- "zucchini"
 - "cheese"
-- "herbs"
-- "broiler"
+- "easy"
+- "mediterranean"
 keywords:
 - "zucchini bruschetta"
 - "feta cheese appetizer"

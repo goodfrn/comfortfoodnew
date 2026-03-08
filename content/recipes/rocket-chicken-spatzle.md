@@ -15,12 +15,10 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fusion"
-- "midweek meal"
-- "rustic pasta"
-- "Mediterranean twist"
-- "savory"
-- "quick cooking"
+- "chicken"
+- "pasta"
+- "italian"
+- "mushroom"
 keywords:
 - "spätzle"
 - "chicken thighs"

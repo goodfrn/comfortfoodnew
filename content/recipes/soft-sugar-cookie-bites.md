@@ -16,12 +16,10 @@ recipeYield: "60 squares"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "desserts"
+- "almond"
+- "easy"
 - "holiday"
-- "quick snacks"
-- "almond extract"
-- "buttercream"
+- "dessert"
 keywords:
 - "sugar cookie bites"
 - "buttercream frosting"

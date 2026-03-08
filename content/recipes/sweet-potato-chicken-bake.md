@@ -15,13 +15,10 @@ totalTime: PT1H20M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "casserole"
-- "chicken dinner"
-- "gluten-free sauce"
-- "midweek meal"
+- "chicken"
 - "comfort food"
-- "cheese topping"
-- "vegetable bake"
+- "easy dinner"
+- "one pot"
 keywords:
 - "sweet potato bake"
 - "shredded chicken casserole"

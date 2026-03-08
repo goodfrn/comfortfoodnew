@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "4 to 5 servings"
 categories: ["Salads"]
 tags:
-- "vegan"
-- "gluten-free"
-- "fruit salad"
-- "summer dessert"
-- "french-inspired"
+- "salad"
+- "summer"
+- "vanilla"
+- "raspberry"
+- "strawberry"
 keywords:
 - "vanilla syrup"
 - "fresh berries"

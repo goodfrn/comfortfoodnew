@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Tex-Mex"
 - "beef"
 - "chili"
-- "smoky"
-- "slow simmer"
-- "spices"
-- "coffee"
+- "spicy"
+- "comfort food"
+- "one pot"
 keywords:
 - "beef chili"
 - "adobo sauce"

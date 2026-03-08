@@ -15,12 +15,11 @@ totalTime: PT1H13M
 recipeYield: "12 servings"
 categories: ["Soups"]
 tags:
-- "Italian"
+- "italian"
 - "soup"
-- "meatballs"
+- "meatball"
+- "veal"
 - "comfort food"
-- "weeknight meal"
-- "hearty"
 keywords:
 - "meatball soup"
 - "rustic Italian soup"

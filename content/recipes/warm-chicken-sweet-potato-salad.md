@@ -17,9 +17,8 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "chicken"
-- "sweet potato"
-- "healthy"
-- "meal prep"
+- "potato"
+- "roasted"
 keywords:
 - "healthy salad"
 - "warm salad recipe"

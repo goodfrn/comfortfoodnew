@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "12 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
-- "summer salad"
-- "fresh fruit"
-- "no cook"
-- "light lunch"
-- "healthy eating"
+- "salad"
+- "summer"
+- "vegetarian"
+- "no bake"
+- "healthy"
 keywords:
 - "melon salad"
 - "feta cheese salad"

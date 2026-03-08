@@ -15,11 +15,9 @@ totalTime: PT1H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "baking"
-- "custard"
-- "homemade pie crust"
+- "pie"
 - "vanilla"
+- "homemade"
 keywords:
 - "custard pie"
 - "vanilla bean"

@@ -15,14 +15,10 @@ totalTime: PT55M
 recipeYield: "2 dozen"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cupcakes"
 - "coconut"
-- "lime"
-- "baking"
-- "almond milk"
-- "brown sugar"
-- "frosting"
+- "citrus"
+- "dessert"
 keywords:
 - "mini cupcakes"
 - "coconut milk frosting"

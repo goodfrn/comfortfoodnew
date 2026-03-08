@@ -15,15 +15,9 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "Creole"
-- "American"
-- "Sauce"
-- "Seafood"
-- "Dips"
-- "Condiments"
-- "Horseradish"
-- "Capers"
-- "Spicy"
+- "condiment"
+- "easy"
+- "french"
 keywords:
 - "mayonnaise sauce"
 - "Dijon mustard sauce"

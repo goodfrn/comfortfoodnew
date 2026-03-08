@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "tofu"
-- "Asian fusion"
 - "vegan"
-- "quick meals"
-- "miso"
-- "snap peas"
+- "asian"
+- "spicy"
+- "easy dinner"
 keywords:
 - "tofu recipe"
 - "miso sauce"

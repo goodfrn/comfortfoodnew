@@ -15,12 +15,10 @@ totalTime: PT2H30M
 recipeYield: "36 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "fudge"
-- "lime"
-- "white chocolate"
-- "baking"
-- "American"
+- "no bake"
+- "dessert"
+- "citrus"
 keywords:
 - "lime zest"
 - "fudge squares"

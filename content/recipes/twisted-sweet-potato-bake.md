@@ -15,12 +15,11 @@ totalTime: PT127M
 recipeYield: "12 servings"
 categories: ["Side Dishes"]
 tags:
-- "sweet potatoes"
-- "baking"
-- "casserole"
-- "fall recipes"
-- "holiday side dish"
 - "comfort food"
+- "holiday"
+- "side dish"
+- "pecan"
+- "pineapple"
 keywords:
 - "sweet potato bake"
 - "pecan topping"

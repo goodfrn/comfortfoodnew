@@ -15,12 +15,10 @@ totalTime: PT31M
 recipeYield: "8 large cookies"
 categories: ["Desserts"]
 tags:
-- "American"
-- "cookies"
-- "streusel"
 - "coffee cake"
-- "baking"
+- "cookies"
 - "cinnamon"
+- "easy"
 - "dessert"
 keywords:
 - "streusel cookies"

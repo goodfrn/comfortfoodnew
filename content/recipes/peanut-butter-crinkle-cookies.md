@@ -17,9 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "peanut butter"
-- "crinkle cookies"
-- "baking tips"
-- "chilled dough"
+- "chocolate"
+- "easy"
+- "homemade"
 keywords:
 - "peanut butter cookie recipe"
 - "crinkle cookies cocoa"

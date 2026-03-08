@@ -15,13 +15,10 @@ totalTime: PT6H35M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
+- "no bake"
+- "pie"
 - "strawberry"
-- "cream cheese"
-- "graham crust"
 - "dessert"
-- "summer"
-- "easy"
 keywords:
 - "no bake pie"
 - "strawberry cream pie"

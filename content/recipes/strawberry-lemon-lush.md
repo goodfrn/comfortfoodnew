@@ -15,12 +15,11 @@ totalTime: PT4H30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake dessert"
-- "lemon desserts"
-- "summer desserts"
-- "layered desserts"
-- "strawberries"
-- "cream cheese"
+- "strawberry"
+- "lemon"
+- "no bake"
+- "dessert"
+- "summer"
 keywords:
 - "lemon dessert"
 - "whipped topping dessert"

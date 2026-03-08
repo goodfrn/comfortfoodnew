@@ -15,11 +15,10 @@ totalTime: PT70M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Canadian baking"
-- "tart recipes"
-- "pastry techniques"
-- "maple desserts"
-- "tapioca starch"
+- "tart"
+- "no bake"
+- "easy"
+- "dessert"
 keywords:
 - "maple syrup tart"
 - "coconut oil cream"

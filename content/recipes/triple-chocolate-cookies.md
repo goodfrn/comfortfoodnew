@@ -15,11 +15,11 @@ totalTime: PT1H27M
 recipeYield: "42 cookies"
 categories: ["Desserts"]
 tags:
-- "cookies"
 - "chocolate"
-- "baking"
+- "cookies"
 - "dessert"
-- "American cuisine"
+- "easy"
+- "comfort food"
 keywords:
 - "chocolate cookies"
 - "cookie dough chill"

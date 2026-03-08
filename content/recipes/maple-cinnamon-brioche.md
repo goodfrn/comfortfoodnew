@@ -15,10 +15,10 @@ totalTime: PT1H45M
 recipeYield: "10 rolls"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "dessert"
+- "brioche"
+- "cinnamon"
 - "breakfast"
-- "French-Canadian"
+- "homemade"
 keywords:
 - "brioche"
 - "sticky rolls"

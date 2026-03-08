@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "fruit dessert"
-- "shortcakes"
-- "seasonal baking"
-- "vegetarian"
-- "French-inspired"
+- "shortbread"
+- "cherry"
+- "dessert"
+- "easy"
+- "summer"
 keywords:
 - "plum cherry compote"
 - "shortcake recipe"

@@ -15,11 +15,10 @@ totalTime: PT2H15M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "no bake dessert"
-- "chilled dessert"
-- "fruit dessert"
-- "easy dessert"
+- "dessert"
+- "gelatin"
+- "no bake"
+- "peach"
 keywords:
 - "cream cheese dessert"
 - "lemon gelatin"

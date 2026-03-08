@@ -16,11 +16,9 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "glaze"
-- "caramelized fruit"
-- "French cuisine"
-- "pan sauce"
-- "weeknight dinner"
+- "honey"
+- "caramel"
+- "main dish"
 keywords:
 - "pork chops"
 - "honey maple glaze"

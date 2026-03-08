@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "2 plates or 4 starters"
 categories: ["Snacks"]
 tags:
-- "Japanese fusion"
-- "seafood pancakes"
-- "savory snacks"
-- "quick meals"
-- "bacon recipes"
+- "japanese"
+- "cabbage"
+- "seafood"
+- "bacon"
+- "eggs"
 keywords:
 - "cabbage pancakes"
 - "shrimp pancakes"

@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "meatballs"
+- "beef"
 - "quinoa"
-- "smoky"
-- "ground beef"
-- "American"
-- "one-pan"
+- "comfort food"
+- "easy dinner"
+- "one pot"
 keywords:
 - "quinoa meatballs"
 - "smoked paprika"

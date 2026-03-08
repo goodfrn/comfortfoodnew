@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "vegan"
-- "gluten-free"
-- "raw"
-- "French-inspired"
-- "light lunch"
-- "crunchy"
+- "apple"
+- "vegetarian"
+- "cabbage"
+- "cranberry"
 keywords:
 - "red cabbage"
 - "apple cider vinegar"

@@ -16,10 +16,10 @@ recipeYield: "4 to 6 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "chicken"
-- "BBQ"
-- "sandwiches"
-- "dinner"
-- "easy"
+- "spicy"
+- "sandwich"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "spicy chicken subs"
 - "BBQ sauce"

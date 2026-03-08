@@ -15,14 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fish"
-- "crust"
-- "honey mustard"
-- "dairy-free"
-- "quick meal"
-- "easy dinner"
+- "pretzel"
 - "seafood"
-- "gluten alternative"
+- "easy dinner"
+- "honey"
+- "lemon"
 keywords:
 - "pretzel crust"
 - "white fish fillets"

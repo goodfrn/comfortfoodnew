@@ -15,14 +15,10 @@ totalTime: PT2H55M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French"
-- "stew"
 - "veal"
-- "mushrooms"
-- "slow-cooking"
-- "cream sauce"
-- "roux"
-- "comfort food"
+- "stew"
+- "mushroom"
+- "slow cooker"
 keywords:
 - "veal cubes"
 - "mushroom sauce"

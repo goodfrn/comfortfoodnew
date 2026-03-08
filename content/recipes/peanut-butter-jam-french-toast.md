@@ -15,13 +15,11 @@ totalTime: PT26M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "breakfast"
-- "sandwich"
 - "peanut butter"
-- "jam"
-- "French toast"
-- "quick meal"
-- "sweet and savory"
+- "breakfast"
+- "eggs"
+- "cinnamon"
+- "dessert"
 keywords:
 - "French toast sandwich"
 - "peanut butter jam"

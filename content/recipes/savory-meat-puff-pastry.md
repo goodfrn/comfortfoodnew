@@ -15,11 +15,9 @@ totalTime: PT1H55M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "meat pastries"
-- "savory snacks"
-- "oven baked"
-- "pork recipes"
+- "pork"
+- "appetizer"
+- "easy dinner"
 keywords:
 - "puff pastry"
 - "ground pork"

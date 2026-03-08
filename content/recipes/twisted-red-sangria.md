@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "4 to 5 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
+- "drink"
 - "cocktail"
-- "Spanish-inspired"
-- "summer drink"
-- "easy mix"
-- "fruity"
-- "fizzy"
-- "party beverage"
+- "rum"
+- "cranberry"
+- "citrus"
 keywords:
 - "red sangria"
 - "ginger beer cocktail"

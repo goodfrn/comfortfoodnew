@@ -15,10 +15,11 @@ totalTime: PT1H50M
 recipeYield: 6 servings
 categories: ["Main Dishes"]
 tags:
-- "rabbit"
-- "French cuisine"
-- "comfort food"
-- "braised dish"
+- "main dish"
+- "mushroom"
+- "bacon"
+- "italian"
+- "easy dinner"
 keywords:
 - "rabbit recipe"
 - "cooking rabbit"

@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "candy"
-- "winter"
-- "grapefruit"
 - "vegan"
-- "easy"
+- "citrus"
+- "no bake"
+- "holiday"
 keywords:
 - "candy recipe"
 - "vegan sweets"

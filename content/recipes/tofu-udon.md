@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "vegan"
-- "asian fusion"
-- "noodles"
 - "tofu"
-- "green beans"
-- "plant-based"
+- "asian"
+- "vegetarian"
+- "easy"
+- "one pot"
 keywords:
 - "tofu udon"
 - "green beans recipe"

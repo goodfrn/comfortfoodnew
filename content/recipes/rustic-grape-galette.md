@@ -15,11 +15,10 @@ totalTime: PT1H20M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "pastry"
-- "fruit dessert"
-- "seasonal"
-- "American cuisine"
+- "tart"
+- "dessert"
+- "easy"
+- "summer"
 keywords:
 - "grape galette"
 - "flaky pastry"

@@ -15,15 +15,11 @@ totalTime: PT1H25M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Canadian fusion"
-- "root vegetables"
-- "vegetarian poutine"
 - "comfort food"
-- "oven roasting"
-- "brown roux"
-- "cheese curds"
-- "feta crumble"
-- "vegan broth swap"
+- "vegetarian"
+- "roasted"
+- "side dish"
+- "mushroom"
 keywords:
 - "poutine alternative"
 - "vegetable roast"

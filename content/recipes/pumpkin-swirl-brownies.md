@@ -16,10 +16,10 @@ recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
 - "brownies"
-- "pumpkin"
-- "fall baking"
-- "dessert"
 - "chocolate"
+- "pumpkin"
+- "fall"
+- "cinnamon"
 keywords:
 - "pumpkin brownies"
 - "swirl brownies"

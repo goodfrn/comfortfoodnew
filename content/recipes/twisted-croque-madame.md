@@ -15,10 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "comfort food"
-- "midweek meals"
-- "baked sandwiches"
+- "sandwich"
+- "turkey"
+- "cheese"
+- "breakfast"
+- "easy dinner"
 keywords:
 - "béchamel sauce"
 - "smoked gouda"

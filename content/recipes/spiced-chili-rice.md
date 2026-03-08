@@ -16,10 +16,10 @@ recipeYield: 4 servings
 categories: ["Side Dishes"]
 tags:
 - "rice"
-- "vegetarian"
-- "easy recipe"
-- "spiced dish"
-- "side"
+- "spicy"
+- "spice"
+- "side dish"
+- "easy"
 keywords:
 - "basmati rice"
 - "vegetarian rice dish"

@@ -15,11 +15,11 @@ totalTime: PT1H30M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "French cuisine"
-- "vegetarian option"
-- "slow baking"
-- "comfort food"
-- "onion recipes"
+- "french"
+- "cheese"
+- "vegetarian"
+- "roasted"
+- "side dish"
 keywords:
 - "baked onions"
 - "Gruyère"

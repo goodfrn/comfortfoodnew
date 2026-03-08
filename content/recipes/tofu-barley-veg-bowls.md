@@ -15,15 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "plant-based"
-- "vegetarian"
-- "gluten-friendly"
-- "meal prep"
-- "root vegetables"
-- "barley"
 - "tofu"
-- "smoky glaze"
-- "curry dressing"
+- "barley"
+- "vegan"
+- "healthy"
+- "main dish"
 keywords:
 - "tofu barley bowl"
 - "roasted root vegetables"

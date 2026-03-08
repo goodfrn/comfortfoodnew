@@ -15,13 +15,10 @@ totalTime: PT4H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "no-bake"
+- "pie"
+- "no bake"
 - "lemon"
-- "cream cheese"
-- "whipped cream"
-- "graham crust"
-- "quick prep"
+- "dessert"
 keywords:
 - "cream cheese pie"
 - "lemon curd topping"

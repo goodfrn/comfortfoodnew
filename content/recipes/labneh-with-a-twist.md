@@ -15,11 +15,11 @@ totalTime: PT23H7M
 recipeYield: "310 ml approx"
 categories: ["Dips and Spreads"]
 tags:
-- "Mediterranean"
+- "mediterranean"
 - "cheese"
-- "fermentation"
-- "kefir"
-- "DIY dairy"
+- "vegetarian"
+- "greek"
+- "appetizer"
 keywords:
 - "kefir"
 - "labneh"

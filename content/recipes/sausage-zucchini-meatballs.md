@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: 4
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "meatballs"
-- "quick meals"
-- "comfort food"
-- "one pan"
+- "sausage"
+- "meatball"
+- "zucchini"
+- "broccoli"
+- "easy dinner"
 keywords:
 - "meatballs"
 - "zucchini recipes"

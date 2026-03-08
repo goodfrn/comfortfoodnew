@@ -15,12 +15,11 @@ totalTime: PT3H45M
 recipeYield: "9 rolls"
 categories: ["Breakfast"]
 tags:
-- "baking"
+- "cinnamon"
+- "citrus"
+- "bread"
 - "breakfast"
-- "yeast dough"
-- "cinnamon rolls"
-- "orange zest"
-- "homemade pastries"
+- "homemade"
 keywords:
 - "orange cinnamon rolls"
 - "yeast dough"

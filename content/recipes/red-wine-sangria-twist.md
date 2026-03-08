@@ -15,11 +15,11 @@ totalTime: PT24M
 recipeYield: "6 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "Spanish-inspired"
-- "summer drinks"
-- "wine cocktails"
-- "brandy cocktails"
-- "fruit beverages"
+- "drink"
+- "summer"
+- "citrus"
+- "cinnamon"
+- "peach"
 keywords:
 - "red sangria"
 - "cinnamon sticks"

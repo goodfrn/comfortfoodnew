@@ -15,12 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "low carb"
-- "vegetable side"
-- "quick meal"
+- "cauliflower"
+- "side dish"
 - "healthy"
-- "gluten free"
-- "American"
+- "easy"
+- "vegetarian"
 keywords:
 - "cauliflower"
 - "riced cauliflower"

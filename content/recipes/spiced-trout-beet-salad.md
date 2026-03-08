@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "seafood"
+- "salad"
+- "spicy"
 - "gluten free"
-- "dairy free"
-- "30 minute meals"
-- "French-inspired"
-- "fish recipes"
-- "healthy main course"
+- "beet"
 keywords:
 - "trout fillets"
 - "beet salad"

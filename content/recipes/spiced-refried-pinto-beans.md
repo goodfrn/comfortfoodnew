@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "beans"
-- "side dish"
-- "Mexican-American"
-- "quick recipes"
-- "spices"
 - "comfort food"
+- "mexican"
+- "spicy"
+- "cheese"
+- "side dish"
 keywords:
 - "pinto beans"
 - "refried beans"

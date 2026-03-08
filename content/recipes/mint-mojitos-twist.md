@@ -16,11 +16,9 @@ recipeYield: "2 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "Caribbean fusion"
-- "tequila cocktail"
-- "mojito variation"
-- "mint drink"
-- "lime syrup"
+- "mint"
+- "drink"
+- "summer"
 keywords:
 - "mint mojito"
 - "lime syrup"

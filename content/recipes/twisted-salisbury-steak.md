@@ -15,12 +15,10 @@ totalTime: PT33M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "ground beef"
+- "beef"
 - "comfort food"
-- "one skillet"
-- "quick meal"
-- "savory sauce"
+- "easy dinner"
+- "gravy"
 keywords:
 - "Salisbury Steak"
 - "beef skillet meal"

@@ -15,13 +15,11 @@ totalTime: PT1H35M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "French-inspired"
-- "roasted vegetables"
+- "soup"
+- "roasted"
+- "vegetarian"
 - "comfort food"
-- "autumn soup"
-- "easy soup"
-- "cumin seasoning"
-- "cheddar crostini"
+- "fall"
 keywords:
 - "parsnip soup"
 - "roasted vegetables soup"

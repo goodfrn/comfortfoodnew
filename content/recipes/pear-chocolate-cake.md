@@ -15,11 +15,10 @@ totalTime: PT1H18M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "layered cake"
 - "chocolate"
-- "fruit cake"
-- "moist mousse"
+- "cake"
+- "dessert"
+- "french"
 keywords:
 - "chocolate sponge"
 - "pear liqueur syrup"

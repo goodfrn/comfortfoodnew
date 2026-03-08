@@ -15,13 +15,11 @@ totalTime: PT42M
 recipeYield: "5 servings"
 categories: ["Preserves"]
 tags:
+- "gelatin"
 - "vegan"
-- "jelly"
-- "agar-agar"
-- "pomegranate"
-- "maple syrup"
-- "homemade"
-- "fusion"
+- "no bake"
+- "healthy"
+- "dessert"
 keywords:
 - "pomegranate jelly"
 - "ginger jelly"

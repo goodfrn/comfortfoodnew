@@ -15,14 +15,11 @@ totalTime: PT20M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "Mexican"
 - "salad"
-- "avocado"
 - "corn"
-- "chipotle"
-- "cotija"
-- "no cook"
-- "summer"
+- "avocado"
+- "mexican"
+- "easy"
 keywords:
 - "corn avocado salad"
 - "cotija cheese salad"

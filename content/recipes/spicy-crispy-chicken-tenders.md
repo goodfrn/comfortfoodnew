@@ -15,13 +15,10 @@ totalTime: PT1H40M
 recipeYield: "14 servings"
 categories: ["Main Dishes"]
 tags:
-- "fried chicken"
-- "chicken tenders"
+- "chicken"
 - "spicy"
-- "crispy"
-- "double dredge"
-- "buttermilk marinade"
-- "southern cooking"
+- "fried"
+- "comfort food"
 keywords:
 - "fried chicken tenders"
 - "crispy chicken"

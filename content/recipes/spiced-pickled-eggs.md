@@ -15,12 +15,11 @@ totalTime: PT13M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "pickling"
 - "eggs"
 - "spicy"
-- "marinade"
-- "snacks"
-- "French-American fusion"
+- "condiment"
+- "appetizer"
+- "easy"
 keywords:
 - "pickled eggs"
 - "chipotle"

@@ -15,12 +15,11 @@ totalTime: PT80M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "fall recipes"
-- "French-Canadian"
-- "fruit desserts"
-- "cardamom"
-- "apple recipes"
+- "apple"
+- "tart"
+- "fall"
+- "dessert"
+- "easy"
 keywords:
 - "apple tart"
 - "cardamom dessert"

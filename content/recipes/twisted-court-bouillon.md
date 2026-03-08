@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "4 to 5 cups"
 categories: ["Soups"]
 tags:
-- "French-inspired"
-- "broth"
-- "poaching base"
-- "aromatics"
-- "fish cooking"
+- "seafood"
+- "soup"
+- "mediterranean"
+- "easy"
+- "homemade"
 keywords:
 - "court-bouillon"
 - "white peppercorns"

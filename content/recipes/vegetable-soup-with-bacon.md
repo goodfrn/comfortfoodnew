@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "starter"
-- "French cuisine"
+- "vegetarian"
+- "bacon"
 - "comfort food"
-- "no dairy"
-- "pancetta"
-- "vegetables"
+- "easy dinner"
 keywords:
 - "vegetable soup"
 - "bacon croutons"

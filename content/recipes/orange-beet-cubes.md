@@ -15,13 +15,11 @@ totalTime: PT1H45M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetarian"
-- "gluten-free"
-- "coconut oil"
-- "beets"
-- "herbs"
-- "orange"
-- "slow cooking"
+- "citrus"
+- "beet"
+- "side dish"
+- "easy"
+- "roasted"
 keywords:
 - "beet cubes"
 - "orange zest"

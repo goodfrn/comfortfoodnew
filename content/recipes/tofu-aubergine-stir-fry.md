@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
+- "tofu"
+- "asian"
 - "vegan"
-- "gluten-free"
-- "quick meals"
-- "asian fusion"
-- "healthy"
+- "eggplant"
+- "spicy"
 keywords:
 - "tofu recipes"
 - "eggplant dishes"

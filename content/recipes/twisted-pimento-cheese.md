@@ -15,12 +15,10 @@ totalTime: PT22M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "southern cooking"
-- "cheese spreads"
-- "appetizers"
-- "snacks"
-- "make ahead"
-- "cheese recipes"
+- "cheese"
+- "appetizer"
+- "easy"
+- "comfort food"
 keywords:
 - "pimento cheese"
 - "manchego cheese"

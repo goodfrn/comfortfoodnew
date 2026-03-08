@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "layered cake"
-- "coffee flavors"
-- "hazelnut"
-- "buttercream"
-- "ganache"
-- "espresso syrup"
+- "chocolate"
+- "cake"
+- "almond"
+- "espresso"
+- "dessert"
 keywords:
 - "Opera Cake"
 - "hazelnut sponge"

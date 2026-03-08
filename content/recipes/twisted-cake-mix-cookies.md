@@ -15,11 +15,11 @@ totalTime: PT16M
 recipeYield: "17 servings"
 categories: ["Desserts"]
 tags:
-- "baking tips"
-- "cookie hacks"
-- "brown butter"
-- "flax egg"
-- "chilling dough"
+- "cookies"
+- "cake"
+- "easy"
+- "homemade"
+- "comfort food"
 keywords:
 - "browned butter"
 - "flax egg"

@@ -15,13 +15,11 @@ totalTime: PT21M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "skillet meal"
-- "one pan"
-- "quick dinner"
-- "spicy sausage"
-- "bean recipe"
-- "smoky flavors"
-- "American cuisine"
+- "spicy"
+- "comfort food"
+- "bacon"
+- "sausage"
+- "one pot"
 keywords:
 - "spicy sausages"
 - "bean skillet"

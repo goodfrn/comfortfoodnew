@@ -15,11 +15,9 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican"
-- "casserole"
+- "mexican"
 - "chicken"
-- "sour cream"
-- "enchilada"
+- "cheese"
 - "comfort food"
 keywords:
 - "enchilada pie"

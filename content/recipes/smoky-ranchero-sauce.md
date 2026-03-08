@@ -15,14 +15,10 @@ totalTime: PT21M
 recipeYield: "2 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "Mexican"
-- "sauce"
-- "chipotle"
+- "salsa"
+- "condiment"
+- "mexican"
 - "spicy"
-- "tacos"
-- "eggs"
-- "homemade"
-- "ranchero"
 keywords:
 - "chipotle"
 - "ranchero sauce"

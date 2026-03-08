@@ -15,13 +15,11 @@ totalTime: PT5H25M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
+- "lemon"
+- "tart"
 - "dessert"
-- "meringue"
-- "citrus"
-- "Australian cuisine"
-- "French fusion"
-- "baking tips"
-- "pavlova"
+- "easy"
+- "no bake"
 keywords:
 - "pavlova"
 - "meringue"

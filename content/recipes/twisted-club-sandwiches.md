@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "sandwiches"
-- "brunch"
+- "sandwich"
 - "bacon"
-- "baked eggs"
-- "garlic mayonnaise"
+- "eggs"
+- "bread"
+- "easy dinner"
 keywords:
 - "club sandwich"
 - "bacon sandwich"

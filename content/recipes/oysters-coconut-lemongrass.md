@@ -17,10 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "seafood"
 - "appetizer"
-- "asian fusion"
-- "cold dish"
-- "lemongrass"
-- "coconut milk"
+- "summer"
+- "coconut"
+- "asian"
 keywords:
 - "oysters"
 - "lemongrass sauce"

@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "holiday snack"
-- "marshmallow treats"
-- "layered dessert"
-- "Peeps recipes"
-- "Rice Krispies"
+- "candy"
+- "no bake"
+- "rice"
+- "holiday"
+- "easy"
 keywords:
 - "Peeps"
 - "Rice Krispies treats"

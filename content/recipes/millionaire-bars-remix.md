@@ -15,13 +15,11 @@ totalTime: PT62M
 recipeYield: "15 squares"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "caramel"
 - "chocolate"
-- "American desserts"
-- "bars"
-- "sweet treats"
+- "caramel"
+- "coconut"
+- "no bake"
+- "dessert"
 keywords:
 - "millionaire bars"
 - "caramel bars"

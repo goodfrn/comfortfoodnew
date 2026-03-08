@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "4 cakes"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "chocolate"
-- "baking"
-- "ramekin"
-- "American cuisine"
+- "cake"
+- "dessert"
+- "easy"
+- "eggs"
 keywords:
 - "lava cake"
 - "chocolate dessert"

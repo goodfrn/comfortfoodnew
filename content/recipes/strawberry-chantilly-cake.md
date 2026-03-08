@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "layered cake"
-- "berry cake"
-- "whipped cream"
-- "almond flour"
-- "baking tips"
-- "summer dessert"
+- "cake"
+- "strawberry"
+- "mascarpone"
+- "citrus"
+- "dessert"
 keywords:
 - "airy sponge cake"
 - "strawberry cake layers"

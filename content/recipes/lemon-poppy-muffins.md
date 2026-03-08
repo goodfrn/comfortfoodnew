@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "24 servings"
 categories: ["Breakfast"]
 tags:
-- "American baking"
 - "muffins"
-- "citrus desserts"
-- "quick breads"
-- "breakfast treats"
+- "lemon"
+- "breakfast"
+- "easy"
+- "coconut"
 keywords:
 - "lemon muffins"
 - "poppy seeds"

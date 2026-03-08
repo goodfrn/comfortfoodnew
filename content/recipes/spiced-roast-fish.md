@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
 - "seafood"
-- "vegetable purée"
-- "smoky spices"
-- "weeknight dinner"
+- "roasted"
+- "spice"
+- "easy dinner"
+- "healthy"
 keywords:
 - "spiced fish"
 - "carrot purée"

@@ -17,11 +17,9 @@ categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
 - "rum"
-- "fruit drink"
+- "peach"
+- "drink"
 - "summer"
-- "caribbean"
-- "layered drink"
-- "easy cocktail"
 keywords:
 - "white rum cocktail"
 - "fruit cooler"

@@ -15,11 +15,9 @@ totalTime: PT3H20M
 recipeYield: "8 to 10 servings"
 categories: ["Desserts"]
 tags:
-- "pavlova"
 - "dessert"
 - "blueberry"
-- "maple"
-- "layered"
+- "no bake"
 keywords:
 - "pavlova"
 - "dessert recipe"

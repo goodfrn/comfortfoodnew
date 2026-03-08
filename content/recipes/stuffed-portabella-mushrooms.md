@@ -15,11 +15,11 @@ totalTime: PT29M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "mushroom recipes"
-- "Italian-inspired"
 - "vegetarian"
-- "baked dishes"
-- "easy weeknight"
+- "mushroom"
+- "cheese"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "portabella mushrooms"
 - "polenta"

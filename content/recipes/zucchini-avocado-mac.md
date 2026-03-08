@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "pasta"
-- "comfort food"
-- "vegetables"
-- "quick dinner"
-- "vegetarian"
-- "avocado"
 - "zucchini"
-- "cheese sauce"
+- "avocado"
+- "vegetarian"
+- "spinach"
 keywords:
 - "macaroni"
 - "zucchini sauce"

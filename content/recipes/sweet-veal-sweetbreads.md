@@ -15,16 +15,11 @@ totalTime: PT43M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French inspired"
-- "offal"
-- "gourmet"
-- "pan-seared"
-- "spring vegetables"
-- "vinegar soak"
-- "pine nuts"
+- "veal"
+- "caramel"
 - "honey"
-- "white port"
-- "chives"
+- "comfort food"
+- "main dish"
 keywords:
 - "veal"
 - "sweetbreads"

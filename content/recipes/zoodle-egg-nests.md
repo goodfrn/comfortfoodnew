@@ -15,12 +15,11 @@ totalTime: PT43M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "breakfast"
-- "low carb"
-- "gluten free"
-- "snack"
-- "baked eggs"
+- "vegetarian"
+- "eggs"
 - "zucchini"
+- "cheese"
+- "breakfast"
 keywords:
 - "zucchini noodles"
 - "egg nests"

@@ -15,13 +15,11 @@ totalTime: PT7M
 recipeYield: "1 serving"
 categories: ["Beverages"]
 tags:
-- "green tea"
-- "hot drinks"
-- "winter beverage"
-- "comfort"
-- "herbal infusion"
-- "spices"
+- "drink"
 - "citrus"
+- "lemon"
+- "spice"
+- "honey"
 keywords:
 - "green tea drink"
 - "comfort beverage"

@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
+- "mediterranean"
 - "quinoa"
-- "sweet potato"
-- "goat cheese"
-- "gluten-free"
 - "vegetarian"
 - "salad"
-- "quick meals"
+- "healthy"
 keywords:
 - "sweet potato quinoa salad"
 - "goat cheese salad"

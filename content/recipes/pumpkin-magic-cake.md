@@ -16,11 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "pumpkin"
-- "fall dessert"
-- "layered cake"
-- "custard"
-- "seasonal baking"
-- "boxed cake hack"
+- "cake"
+- "dessert"
+- "fall"
+- "easy"
 keywords:
 - "pumpkin cake"
 - "pumpkin custard"

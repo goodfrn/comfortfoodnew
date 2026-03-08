@@ -15,12 +15,11 @@ totalTime: PT2H15M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "cinnamon rolls"
-- "cherry preserves"
-- "cream cheese frosting"
-- "American cuisine"
-- "yeast dough"
+- "breakfast"
+- "cinnamon"
+- "strawberry"
+- "bread"
+- "homemade"
 keywords:
 - "cinnamon rolls"
 - "cherry preserves"

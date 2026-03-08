@@ -15,11 +15,11 @@ totalTime: PT1H40M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "choux pastry"
-- "mint flavor"
 - "chocolate"
-- "agar agar"
+- "mint"
+- "dessert"
+- "homemade"
+- "no bake"
 keywords:
 - "profiteroles"
 - "mint chantilly"

@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegan"
-- "gluten free"
-- "dairy free"
-- "French Mediterranean"
-- "stew"
-- "vegetables"
-- "smoked paprika"
+- "vegetarian"
+- "mediterranean"
+- "eggplant"
+- "easy dinner"
 keywords:
 - "aubergine stew"
 - "smoked paprika ratatouille"

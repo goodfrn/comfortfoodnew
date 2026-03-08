@@ -15,11 +15,10 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "American BBQ"
-- "potato recipes"
-- "comfort food"
-- "smoked cheese"
-- "pulled pork"
+- "potato"
+- "cheese"
+- "appetizer"
+- "party"
 keywords:
 - "pulled pork"
 - "russet potatoes"

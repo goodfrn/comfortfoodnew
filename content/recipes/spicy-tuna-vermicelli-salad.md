@@ -16,10 +16,10 @@ recipeYield: 4-6 servings
 categories: ["Salads"]
 tags:
 - "salad"
-- "dinner"
-- "healthy"
-- "gluten-free"
-- "quick-meals"
+- "tuna"
+- "spicy"
+- "asian"
+- "easy dinner"
 keywords:
 - "chilled salad"
 - "quick recipe"

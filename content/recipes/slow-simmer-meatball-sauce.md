@@ -15,12 +15,11 @@ totalTime: PT5H15M
 recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
 - "slow cooker"
-- "tomato sauce"
-- "meatballs"
-- "sausage"
-- "mushrooms"
+- "italian"
+- "meatball"
+- "comfort food"
+- "mushroom"
 keywords:
 - "meatball sauce"
 - "Italian sausage sauce"

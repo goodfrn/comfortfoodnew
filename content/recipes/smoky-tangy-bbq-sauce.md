@@ -15,15 +15,11 @@ totalTime: PT25M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "American"
-- "barbecue"
-- "glaze"
-- "dip"
-- "smoky"
-- "tangy"
-- "gluten-free"
-- "dairy-free"
-- "nut-free"
+- "condiment"
+- "spicy"
+- "condiment"
+- "spicy"
+- "homemade"
 keywords:
 - "BBQ sauce"
 - "chipotle in adobo"

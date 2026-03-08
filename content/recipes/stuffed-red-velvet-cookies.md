@@ -16,10 +16,9 @@ recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "red velvet"
-- "cream cheese filling"
-- "baking tips"
-- "desserts"
+- "chocolate"
+- "cheese"
+- "dessert"
 keywords:
 - "red velvet cookie recipe"
 - "cream cheese stuffed cookies"

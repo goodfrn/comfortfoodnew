@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "eggplant"
-- "Italian-American"
-- "baking"
-- "fried foods"
-- "pecorino cheese"
+- "italian"
 - "pasta"
-- "comfort food"
+- "vegetarian"
+- "cheese"
 keywords:
 - "eggplant parmesan"
 - "pecorino romano"

@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Soups"]
 tags:
 - "slow cooker"
-- "Italian-American"
-- "comfort food"
-- "pasta soup"
-- "one pot meal"
+- "italian"
+- "soup"
+- "sausage"
+- "pasta"
 keywords:
 - "Tuscan soup"
 - "slow cooker recipe"

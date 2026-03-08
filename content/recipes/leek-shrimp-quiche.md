@@ -17,10 +17,8 @@ categories: ["Main Dishes"]
 tags:
 - "quiche"
 - "seafood"
-- "French-inspired"
-- "baking"
-- "brisée crust"
-- "savory pie"
+- "shrimp"
+- "eggs"
 keywords:
 - "quiche"
 - "shrimp recipe"

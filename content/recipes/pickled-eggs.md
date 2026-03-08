@@ -15,13 +15,11 @@ totalTime: PT3D12M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "pickling"
 - "eggs"
-- "French-inspired"
-- "preserving"
-- "snacks"
+- "appetizer"
+- "condiment"
+- "easy"
 - "vegetarian"
-- "gluten-free"
 keywords:
 - "pickled eggs"
 - "shallots"

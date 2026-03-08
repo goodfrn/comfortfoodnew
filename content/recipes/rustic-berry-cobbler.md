@@ -15,11 +15,10 @@ totalTime: PT55M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "american dessert"
-- "fruit cobbler"
-- "baking"
-- "seasonal berries"
-- "homemade"
+- "dessert"
+- "comfort food"
+- "cinnamon"
+- "lemon"
 keywords:
 - "berry cobbler"
 - "buttermilk biscuits"

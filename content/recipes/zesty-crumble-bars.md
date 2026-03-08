@@ -16,11 +16,9 @@ recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
 - "lemon"
-- "baking"
-- "desserts"
-- "easy bars"
-- "custard"
-- "oats"
+- "crumble"
+- "easy"
+- "dessert"
 keywords:
 - "lemon bars"
 - "crumble bars"

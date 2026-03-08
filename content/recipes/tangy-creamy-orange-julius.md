@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
-- "beverage"
-- "citrus drink"
-- "blender recipe"
-- "quick drink"
-- "American drink"
+- "drink"
+- "citrus"
+- "lemon"
+- "breakfast"
+- "easy"
 keywords:
 - "orange julius"
 - "lemon-lime concentrate"

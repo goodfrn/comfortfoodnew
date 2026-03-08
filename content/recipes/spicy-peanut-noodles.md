@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "8 servings"
 categories: ["Pasta and Noodles"]
 tags:
-- "Asian Fusion"
-- "Noodle Salad"
-- "Peanut Sauce"
-- "Quick Meals"
-- "Spicy"
+- "asian"
+- "spicy"
+- "peanut butter"
+- "easy"
+- "sesame"
 keywords:
 - "peanut noodles"
 - "chili garlic sauce"

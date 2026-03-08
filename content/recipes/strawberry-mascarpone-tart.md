@@ -15,9 +15,11 @@ totalTime: PT60M
 recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "tart"
 - "strawberry"
+- "mascarpone"
+- "dessert"
+- "no bake"
 keywords:
 - "strawberry dessert"
 - "French tart"

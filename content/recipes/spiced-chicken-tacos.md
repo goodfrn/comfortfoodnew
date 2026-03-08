@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "12 tacos"
 categories: ["Main Dishes"]
 tags:
-- "Mexican"
-- "Chicken"
-- "Tacos"
-- "Gluten free"
-- "Quick meals"
-- "Weeknight dinner"
+- "spicy"
+- "chicken"
+- "mexican"
+- "tacos"
+- "easy dinner"
 keywords:
 - "Mexican chicken tacos"
 - "corn taco shells"

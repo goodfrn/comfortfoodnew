@@ -16,13 +16,9 @@ recipeYield: "About 1/2 cup"
 categories: ["Vegan"]
 tags:
 - "dry rub"
-- "spice blend"
-- "grilling"
-- "tofu seasoning"
-- "vegetable rub"
-- "smoky flavor"
-- "citrus zest"
-- "chipotle powder"
+- "spice"
+- "citrus"
+- "lemon"
 keywords:
 - "dry rub"
 - "smoky seasoning"

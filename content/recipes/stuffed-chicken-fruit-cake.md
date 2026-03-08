@@ -15,13 +15,11 @@ totalTime: PT2H
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "roasting"
-- "stuffing"
-- "poultry"
-- "turkey"
-- "fruitcake"
-- "sherry"
-- "slow cooking"
+- "chicken"
+- "roasted"
+- "comfort food"
+- "holiday"
+- "spice"
 keywords:
 - "stuffed chicken"
 - "fruitcake stuffing"

@@ -15,15 +15,10 @@ totalTime: PT30M
 recipeYield: "About 250 ml"
 categories: ["Non-Alcoholic Cocktails"]
 tags:
-- "syrup"
-- "ginger"
 - "citrus"
-- "agave"
 - "honey"
-- "mocktails"
-- "infusion"
-- "homemade syrup"
-- "citrus peel"
+- "condiment"
+- "drink"
 keywords:
 - "ginger syrup"
 - "lemon peel syrup"

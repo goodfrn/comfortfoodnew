@@ -15,11 +15,11 @@ totalTime: PT2H15M
 recipeYield: "6 to 8 servings"
 categories: ["Main Dishes"]
 tags:
-- "dinner"
-- "main course"
-- "Mexican"
+- "mexican"
 - "comfort food"
-- "baked dishes"
+- "spice"
+- "cheese"
+- "turkey"
 keywords:
 - "turkey recipe"
 - "chilaquiles"

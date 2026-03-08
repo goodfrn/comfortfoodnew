@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "roasting"
-- "vegetable side"
 - "ricotta"
 - "lemon"
-- "thyme"
-- "easy dinner"
-- "American cuisine"
+- "roasted"
+- "vegetarian"
+- "side dish"
 keywords:
 - "baby carrots"
 - "roasted carrots"

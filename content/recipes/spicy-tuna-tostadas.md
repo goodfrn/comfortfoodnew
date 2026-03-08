@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "Mexican-inspired"
-- "gluten-free"
-- "quick meal"
-- "seafood alternative"
-- "fresh salsa"
 - "spicy"
+- "seafood"
+- "mexican"
+- "easy"
+- "appetizer"
 keywords:
 - "tostadas"
 - "smoked mackerel"

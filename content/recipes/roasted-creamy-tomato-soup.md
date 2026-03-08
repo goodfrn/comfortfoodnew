@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "vegetarian"
 - "comfort food"
-- "tomato"
-- "roasting"
-- "basil"
+- "vegetarian"
+- "easy dinner"
+- "roasted"
 keywords:
 - "creamy tomato soup"
 - "roasted tomato"

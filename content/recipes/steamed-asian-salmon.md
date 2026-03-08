@@ -15,12 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
+- "salmon"
+- "asian"
+- "citrus"
 - "seafood"
-- "steaming"
-- "healthy meals"
-- "marinade"
-- "seafood glaze"
+- "healthy"
 keywords:
 - "salmon"
 - "marinade"

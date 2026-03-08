@@ -15,13 +15,10 @@ totalTime: PT35M
 recipeYield: "1 serving"
 categories: ["Breads"]
 tags:
-- "flatbread"
-- "labneh"
-- "whole wheat"
-- "fusion"
-- "quick bread"
-- "pan-fry"
-- "baking"
+- "bread"
+- "vegetarian"
+- "easy"
+- "mediterranean"
 keywords:
 - "flatbread"
 - "labneh"

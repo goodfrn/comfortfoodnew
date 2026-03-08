@@ -15,14 +15,10 @@ totalTime: PT3H20M
 recipeYield: "8 servings"
 categories: ["Frozen Treats"]
 tags:
-- "no churn"
-- "ice cream"
-- "cake flavor"
 - "dessert"
-- "homemade"
-- "sprinkles"
-- "buttercream"
-- "easy dessert"
+- "no bake"
+- "cake"
+- "easy"
 keywords:
 - "no churn ice cream"
 - "cake ice cream"

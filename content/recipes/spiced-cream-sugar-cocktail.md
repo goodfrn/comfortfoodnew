@@ -16,15 +16,9 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "bourbon"
+- "spice"
 - "vanilla"
-- "spiced"
-- "clove"
-- "nutmeg"
-- "holiday drink"
-- "chilled"
-- "layered drink"
-- "non-dairy alternative"
+- "drink"
 keywords:
 - "bourbon cocktail"
 - "vanilla honey syrup"

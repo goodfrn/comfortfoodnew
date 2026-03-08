@@ -15,10 +15,11 @@ totalTime: PT1H25M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "dessert"
 - "chocolate"
-- "marshmallow"
-- "winter treat"
+- "dessert"
+- "drink"
+- "no bake"
+- "homemade"
 keywords:
 - "hot chocolate"
 - "marshmallow fluff"

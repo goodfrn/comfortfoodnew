@@ -15,11 +15,11 @@ totalTime: PT42M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "pork"
 - "grilling"
-- "Asian fusion"
-- "marinades"
-- "pork recipes"
-- "sauce reduction"
+- "asian"
+- "honey"
+- "citrus"
 keywords:
 - "pork tenderloin"
 - "tamarind marinade"

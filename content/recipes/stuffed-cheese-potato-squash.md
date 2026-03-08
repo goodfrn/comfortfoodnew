@@ -15,11 +15,11 @@ totalTime: PT1H35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "vegetable bake"
-- "cheese casserole"
-- "pancetta recipes"
-- "comfort food"
+- "cheese"
+- "potato"
+- "vegetarian"
+- "roasted"
+- "side dish"
 keywords:
 - "pepper squash"
 - "stuffed squash"

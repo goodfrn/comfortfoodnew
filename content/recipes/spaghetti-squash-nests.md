@@ -15,12 +15,11 @@ totalTime: PT70M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "American brunch"
-- "low carb"
 - "vegetarian"
-- "gluten free"
-- "egg dishes"
-- "healthy brunch"
+- "eggs"
+- "squash"
+- "easy"
+- "breakfast"
 keywords:
 - "spaghetti squash"
 - "egg nests"

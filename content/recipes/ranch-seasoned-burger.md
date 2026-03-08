@@ -15,11 +15,11 @@ totalTime: PT46M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American cuisine"
+- "burger"
 - "beef"
+- "easy dinner"
+- "comfort food"
 - "grilling"
-- "burgers"
-- "quick meals"
 keywords:
 - "ranch seasoning"
 - "beef patties"

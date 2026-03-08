@@ -15,12 +15,11 @@ totalTime: PT3H22M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "crockpot teriyaki chicken"
-- "slow cooker teriyaki chicken"
-- "crockpot honey teriyaki chicken"
-- "slow cooker honey teriyaki chicken"
-- "easy dinner"
-- "shredded chicken"
+- "slow cooker"
+- "chicken"
+- "easy"
+- "honey"
+- "asian"
 keywords:
 - "crockpot teriyaki chicken"
 - "slow cooker teriyaki chicken"

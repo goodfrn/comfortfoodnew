@@ -16,10 +16,10 @@ recipeYield: "2 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "sandwich"
-- "American cuisine"
-- "pancetta"
+- "bacon"
+- "bread"
 - "avocado"
-- "garlic aioli"
+- "easy dinner"
 keywords:
 - "pancetta"
 - "BLT sandwich"

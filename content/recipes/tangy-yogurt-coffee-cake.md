@@ -15,14 +15,10 @@ totalTime: PT83M
 recipeYield: "16 servings"
 categories: ["Breakfast"]
 tags:
-- "American"
-- "Breakfast"
-- "Baking"
-- "Coffee Cake"
-- "Yogurt"
-- "Buttermilk"
-- "Streusel"
-- "Cinnamon"
+- "coffee cake"
+- "cinnamon"
+- "breakfast"
+- "easy"
 keywords:
 - "coffee cake"
 - "yogurt cake"

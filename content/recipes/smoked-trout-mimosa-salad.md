@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "French-inspired"
 - "salad"
 - "seafood"
-- "light meal"
-- "gluten-free"
-- "spring vegetables"
+- "asparagus"
+- "eggs"
+- "healthy"
 keywords:
 - "smoked trout"
 - "mimosa eggs"

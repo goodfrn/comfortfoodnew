@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "30 to 40 bites"
 categories: ["Appetizers"]
 tags:
-- "vegetarian"
-- "appetizers"
-- "gluten-free"
-- "dairy-free option"
-- "winter squash"
-- "French-inspired"
+- "pumpkin"
+- "cheese"
+- "appetizer"
+- "roasted"
+- "easy"
 keywords:
 - "pumpkin purée"
 - "pecorino romano"

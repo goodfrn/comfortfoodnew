@@ -15,13 +15,11 @@ totalTime: PT3H30M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
-- "BBQ"
 - "chicken"
-- "American"
-- "dinner"
-- "meal prep"
+- "slow cooker"
 - "comfort food"
+- "easy dinner"
+- "main dish"
 keywords:
 - "BBQ chicken"
 - "slow cooker recipe"

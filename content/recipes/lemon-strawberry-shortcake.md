@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "summer"
-- "French-inspired"
-- "shortcake"
+- "cake"
+- "lemon"
+- "strawberry"
+- "vanilla"
+- "almond"
 keywords:
 - "lemon biscuit"
 - "strawberry shortcake"

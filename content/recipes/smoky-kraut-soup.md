@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "Eastern European"
-- "kielbasa"
-- "sauerkraut"
+- "sausage"
+- "potato"
+- "cabbage"
 - "comfort food"
-- "potatoes"
 keywords:
 - "smoky soup"
 - "kielbasa stew"

@@ -15,14 +15,11 @@ totalTime: PT40M
 recipeYield: "3 servings"
 categories: ["Beverages"]
 tags:
-- "cocoa"
-- "orange zest"
+- "drink"
+- "chocolate"
 - "cinnamon"
-- "almond milk"
-- "dark chocolate"
-- "milk foam"
-- "winter drinks"
-- "French-inspired"
+- "citrus"
+- "comfort food"
 keywords:
 - "orange zest cocoa"
 - "milk foam hot chocolate"

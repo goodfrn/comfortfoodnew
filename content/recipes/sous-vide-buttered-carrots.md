@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "2 servings"
 categories: ["Side Dishes"]
 tags:
-- "Sous Vide"
-- "Carrots"
-- "French-inspired"
-- "Butter"
-- "Vegetable Cooking"
+- "roasted"
+- "side dish"
+- "easy"
+- "vegetarian"
+- "healthy"
 keywords:
 - "sous vide carrots"
 - "buttered carrots"

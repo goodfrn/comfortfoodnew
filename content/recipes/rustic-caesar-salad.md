@@ -16,12 +16,10 @@ recipeYield: "4-5 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "French-American"
 - "bacon"
-- "miso"
-- "croûtons"
-- "lettuce"
-- "dressing"
+- "bread"
+- "easy"
+- "homemade"
 keywords:
 - "Caesar salad"
 - "bacon crisps"

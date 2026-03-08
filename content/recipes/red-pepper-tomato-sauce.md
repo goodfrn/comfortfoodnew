@@ -16,11 +16,10 @@ recipeYield: "3 cups"
 categories: ["Sauces and Condiments"]
 tags:
 - "vegan"
-- "Mediterranean"
-- "gluten-free"
-- "dairy-free"
-- "slow-cooked sauce"
-- "homemade sauce"
+- "condiment"
+- "mediterranean"
+- "easy"
+- "vegetarian"
 keywords:
 - "tomato sauce"
 - "red pepper sauce"

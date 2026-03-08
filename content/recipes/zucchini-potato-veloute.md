@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "2 servings"
 categories: ["Soups"]
 tags:
-- "vegan"
 - "soup"
-- "French-inspired"
-- "velouté"
-- "seasonal vegetables"
+- "vegetarian"
+- "potato"
+- "zucchini"
+- "healthy"
 keywords:
 - "zucchini soup"
 - "Yukon Gold potato"

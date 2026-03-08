@@ -18,11 +18,8 @@ tags:
 - "seafood"
 - "salad"
 - "citrus"
-- "French-inspired"
-- "quick meal"
-- "healthy"
-- "gluten-free"
-- "dairy-free"
+- "appetizer"
+- "summer"
 keywords:
 - "scallops"
 - "orange salad"

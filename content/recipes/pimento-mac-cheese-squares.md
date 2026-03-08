@@ -15,13 +15,10 @@ totalTime: PT50M
 recipeYield: "9 servings"
 categories: ["Side Dishes"]
 tags:
-- "baking"
-- "American"
-- "mac and cheese"
-- "snacks"
 - "comfort food"
+- "cheese"
+- "pasta"
 - "easy dinner"
-- "egg binder"
 keywords:
 - "macaroni bake"
 - "pimentos"

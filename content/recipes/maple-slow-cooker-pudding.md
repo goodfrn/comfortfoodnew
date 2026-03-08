@@ -15,12 +15,8 @@ totalTime: PT2H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Canadian dessert"
 - "slow cooker"
-- "maple syrup"
-- "bourbon"
-- "cardamom"
-- "whole wheat"
+- "dessert"
 - "comfort food"
 keywords:
 - "maple pudding"

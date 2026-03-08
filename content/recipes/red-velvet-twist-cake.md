@@ -15,11 +15,10 @@ totalTime: PT1H17M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "nutty twist"
-- "baking tips"
-- "moist cake"
-- "colored batter"
+- "cake"
+- "chocolate"
+- "dessert"
+- "walnut"
 keywords:
 - "red velvet cake"
 - "cream cheese frosting"

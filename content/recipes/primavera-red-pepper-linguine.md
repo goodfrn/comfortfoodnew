@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Pasta and Noodles"]
 tags:
-- "vegetarian"
 - "pasta"
-- "Italian"
-- "quick meal"
+- "vegetarian"
+- "asparagus"
 - "healthy"
+- "mediterranean"
 keywords:
 - "linguine recipe"
 - "vegetables pasta"

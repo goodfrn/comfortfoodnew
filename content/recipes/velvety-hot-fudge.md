@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "48 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "dessert sauce"
 - "chocolate"
+- "fudge"
 - "peanut butter"
-- "American cuisine"
-- "confectionery"
+- "dessert"
+- "homemade"
 keywords:
 - "hot fudge"
 - "peanut butter fudge"

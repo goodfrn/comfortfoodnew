@@ -15,13 +15,10 @@ totalTime: PT52M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "keto"
-- "low carb"
 - "chili"
-- "bacon"
 - "spicy"
-- "slow simmer"
-- "one pot"
+- "bacon"
+- "beef"
 - "comfort food"
 keywords:
 - "keto chili"

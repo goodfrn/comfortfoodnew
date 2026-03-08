@@ -16,10 +16,10 @@ recipeYield: 4
 categories: ["Main Dishes"]
 tags:
 - "salmon"
-- "mushrooms"
-- "orange"
-- "dinner"
-- "French-inspired"
+- "mushroom"
+- "citrus"
+- "roasted"
+- "main dish"
 keywords:
 - "salmon recipe"
 - "wild rice"

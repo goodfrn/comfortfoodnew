@@ -15,11 +15,10 @@ totalTime: PT33M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Asian fusion"
-- "vegan"
-- "quick meals"
-- "tofu recipes"
-- "salads"
+- "salad"
+- "vegetarian"
+- "asian"
+- "sesame"
 keywords:
 - "rice noodles"
 - "marinated tofu"

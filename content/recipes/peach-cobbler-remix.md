@@ -15,12 +15,11 @@ totalTime: PT1H
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "fruit cobbler"
-- "peach recipes"
-- "baking tips"
-- "dessert crust"
-- "seasonal fruit"
+- "peach"
+- "cinnamon"
+- "dessert"
+- "comfort food"
+- "easy"
 keywords:
 - "peach cobbler"
 - "almond essence"

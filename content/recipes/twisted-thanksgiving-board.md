@@ -15,12 +15,10 @@ totalTime: PT38M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizer"
 - "holiday"
-- "charcuterie"
-- "snacking"
-- "easy prep"
-- "fruit and cheese"
+- "appetizer"
+- "party"
+- "cheese"
 keywords:
 - "charcuterie"
 - "thanksgiving board"

@@ -15,12 +15,10 @@ totalTime: PT67M
 recipeYield: "10 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
+- "vegetarian"
 - "side dish"
-- "baking"
+- "citrus"
 - "holiday"
-- "vegetables"
-- "comfort food"
 keywords:
 - "sweet potatoes"
 - "orange juice"

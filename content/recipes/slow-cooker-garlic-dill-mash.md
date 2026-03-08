@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
 - "slow cooker"
-- "mashed potatoes"
-- "garlic dill"
+- "potato"
+- "side dish"
 - "comfort food"
-- "easy sides"
-- "American cuisine"
-- "potato recipes"
+- "easy dinner"
 keywords:
 - "garlic mashed potatoes"
 - "slow cooker mash"

@@ -17,14 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "chili"
 - "slow cooker"
-- "bean chili"
-- "pork sausage"
-- "turkey"
-- "comfort food"
-- "crowd recipe"
-- "meal prep"
 - "spicy"
-- "American cuisine"
+- "beef"
+- "comfort food"
 keywords:
 - "four-bean chili"
 - "crockpot chili"

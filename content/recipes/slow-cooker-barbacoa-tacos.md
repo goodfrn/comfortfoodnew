@@ -16,13 +16,10 @@ recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
 - "slow cooker"
-- "barbacoa"
 - "tacos"
-- "Mexican"
 - "beef"
-- "chipotle"
-- "easy meals"
-- "weeknight dinner"
+- "mexican"
+- "easy dinner"
 keywords:
 - "barbacoa"
 - "slow cooker recipes"

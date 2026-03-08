@@ -15,11 +15,11 @@ totalTime: PT22M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Korean"
+- "spicy"
+- "korean"
 - "shrimp"
-- "seafood"
-- "stir-fry"
-- "quick meals"
+- "sesame"
+- "easy dinner"
 keywords:
 - "kimchi shrimp"
 - "easy dinner"

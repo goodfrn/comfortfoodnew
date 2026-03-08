@@ -17,10 +17,9 @@ categories: ["Snacks"]
 tags:
 - "no bake"
 - "cookies"
-- "kids snacks"
-- "party treats"
-- "easy desserts"
-- "American"
+- "candy"
+- "party"
+- "easy"
 keywords:
 - "Milano cookies"
 - "No bake cookies"

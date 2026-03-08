@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "American Southern"
-- "appetizers"
-- "snacks"
-- "baked snacks"
-- "sausage recipes"
+- "comfort food"
+- "appetizer"
+- "cheese"
+- "sausage"
+- "easy dinner"
 keywords:
 - "sausage balls"
 - "smoked paprika"

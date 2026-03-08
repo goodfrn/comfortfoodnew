@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "12 rolls"
 categories: ["Snacks"]
 tags:
-- "Samoan cuisine"
-- "yeast baking"
-- "sweet rolls"
-- "coconut recipes"
-- "baking tips"
+- "coconut"
+- "bread"
+- "homemade"
+- "caribbean"
+- "dessert"
 keywords:
 - "coconut rolls"
 - "yeast dough"

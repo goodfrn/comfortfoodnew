@@ -15,14 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "baked pasta"
-- "cheese sauce"
+- "pasta"
+- "cheese"
 - "comfort food"
-- "cavatappi"
-- "smoked paprika"
-- "Gruyère"
-- "sourdough topping"
+- "homemade"
+- "easy dinner"
 keywords:
 - "mac cheese"
 - "browned butter roux"

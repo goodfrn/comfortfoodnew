@@ -15,12 +15,11 @@ totalTime: PT24M
 recipeYield: "16 skewers"
 categories: ["Appetizers"]
 tags:
-- "Italian-American"
+- "pasta"
 - "appetizer"
-- "skewers"
-- "pesto"
-- "summer food"
-- "party bites"
+- "lemon"
+- "cheese"
+- "easy dinner"
 keywords:
 - "tortellini skewers"
 - "lemon pesto"

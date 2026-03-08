@@ -15,13 +15,10 @@ totalTime: PT1H45M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
 - "coffee cake"
 - "lemon"
-- "cream cheese"
-- "baking tips"
-- "dessert"
-- "cinnamon topping"
+- "cinnamon"
+- "breakfast"
 keywords:
 - "cream cheese cake"
 - "lemon filling"

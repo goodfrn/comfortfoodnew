@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "brunch"
-- "crêpes"
-- "Italian sausage"
-- "smoked gouda"
-- "chipotle"
-- "easy cooking"
+- "sausage"
+- "cheese"
+- "easy"
+- "mexican"
 keywords:
 - "crêpes"
 - "breakfast burrito"

@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "no bake"
+- "pie"
 - "gelatin"
-- "peach dessert"
-- "summer pie"
-- "cool whip"
-- "easy dessert"
+- "peach"
+- "dessert"
 keywords:
 - "peach gelatin"
 - "cool whip pie"

@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian-American"
-- "chicken thighs"
-- "oven baked"
-- "teriyaki sauce"
-- "one pan meal"
+- "chicken"
+- "asian"
+- "rice"
+- "one pot"
+- "easy dinner"
 keywords:
 - "teriyaki chicken"
 - "baked chicken rice"

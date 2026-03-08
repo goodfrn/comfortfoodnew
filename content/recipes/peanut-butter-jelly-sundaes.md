@@ -15,14 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
-- "frozen dessert"
 - "peanut butter"
+- "no bake"
+- "dessert"
 - "jam"
-- "nut topping"
-- "layered dessert"
-- "vegetarian"
-- "gluten free"
+- "vanilla"
 keywords:
 - "peanut butter"
 - "berry jam"

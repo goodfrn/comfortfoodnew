@@ -15,11 +15,11 @@ totalTime: PT65M
 recipeYield: "8 to 10 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "summer dessert"
-- "fruit tart"
-- "easy baking"
-- "yogurt dough"
+- "tart"
+- "summer"
+- "peach"
+- "dessert"
+- "easy"
 keywords:
 - "stone fruit tart"
 - "flaky tart crust"

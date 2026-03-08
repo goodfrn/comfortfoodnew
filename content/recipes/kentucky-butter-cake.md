@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "American desserts"
-- "buttery cake"
-- "bundt cake"
-- "rum flavor"
-- "glaze cake"
+- "cake"
+- "comfort food"
+- "homemade"
+- "dessert"
+- "rum"
 keywords:
 - "butter cake"
 - "bundt cake"

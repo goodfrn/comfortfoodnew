@@ -15,9 +15,11 @@ totalTime: PT55M
 recipeYield: 6 servings
 categories: ["Soups"]
 tags:
-- "recipes"
-- "Italian"
 - "soup"
+- "comfort food"
+- "vegetarian"
+- "easy dinner"
+- "mediterranean"
 keywords:
 - "soup"
 - "tomato"

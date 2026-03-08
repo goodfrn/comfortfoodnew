@@ -15,12 +15,11 @@ totalTime: PT32M
 recipeYield: "14 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "fall recipes"
-- "seasonal treats"
-- "party mix"
-- "marshmallow recipes"
-- "pumpkin spice"
+- "pumpkin"
+- "cinnamon"
+- "fall"
+- "snack"
+- "easy"
 keywords:
 - "Chex mix recipe"
 - "pumpkin spice snack"

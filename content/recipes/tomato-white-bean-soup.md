@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "French cuisine"
-- "vegan option"
-- "gluten-free"
+- "vegetarian"
+- "healthy"
 - "comfort food"
+- "one pot"
 keywords:
 - "vegetable broth"
 - "shallots and celery"

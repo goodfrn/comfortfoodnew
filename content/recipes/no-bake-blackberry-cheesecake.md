@@ -15,14 +15,10 @@ totalTime: PT2H40M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
-- "blackberry"
-- "cheesecake"
+- "no bake"
 - "dessert"
-- "easy dessert"
-- "Greek yogurt"
-- "summer dessert"
-- "fruit topping"
+- "cheese"
+- "homemade"
 keywords:
 - "no-bake cheesecake"
 - "blackberry topping"

@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "holiday dessert"
-- "dairy free"
-- "nut free"
-- "French Canadian"
-- "rolled cake"
-- "meringue"
+- "cake"
+- "chocolate"
+- "holiday"
+- "dessert"
+- "almond"
 keywords:
 - "red velvet"
 - "yule log"

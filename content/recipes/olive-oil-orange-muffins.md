@@ -15,15 +15,10 @@ totalTime: PT38M
 recipeYield: "6 muffins"
 categories: ["Breakfast"]
 tags:
-- "baking"
 - "muffins"
-- "olive oil"
-- "orange"
-- "rosemary"
-- "cardamom"
-- "sprouted flour"
+- "citrus"
 - "breakfast"
-- "snack"
+- "easy"
 keywords:
 - "olive oil muffins"
 - "orange rosemary baking"

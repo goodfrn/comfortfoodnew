@@ -16,11 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "mezcal"
+- "drink"
+- "easy"
+- "apple"
 - "elderflower"
-- "apple fizz"
-- "orange twist"
-- "highball"
 keywords:
 - "mezcal"
 - "elderflower liqueur"

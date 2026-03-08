@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "70 servings"
 categories: ["Desserts"]
 tags:
-- "American Candy"
-- "nut candy"
-- "holiday treats"
-- "chocolate coated"
-- "no bake sweets"
+- "candy"
+- "coconut"
+- "pecan"
+- "chocolate"
+- "no bake"
 keywords:
 - "sweetened condensed milk candy"
 - "toasted coconut candy"

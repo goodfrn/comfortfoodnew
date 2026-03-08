@@ -15,12 +15,11 @@ totalTime: PT1H35M
 recipeYield: "9 servings"
 categories: ["Snacks"]
 tags:
-- "Southern cooking"
-- "snack recipes"
 - "pressure cooker"
-- "peanut recipes"
-- "vegan snacks"
-- "quick snacks"
+- "peanut butter"
+- "snack"
+- "southern"
+- "easy"
 keywords:
 - "boiled peanuts"
 - "pressure cooker peanuts"

@@ -16,11 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "spices"
-- "applesauce"
-- "desserts"
-- "chocolate"
+- "apple"
+- "cinnamon"
+- "comfort food"
+- "spice"
 keywords:
 - "applesauce cookie recipe"
 - "spiced cookies"

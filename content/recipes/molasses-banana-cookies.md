@@ -16,10 +16,10 @@ recipeYield: 18
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "dessert"
-- "snacks"
-- "baking"
 - "banana"
+- "molasses"
+- "cinnamon"
+- "comfort food"
 keywords:
 - "molasses"
 - "baking cookies"

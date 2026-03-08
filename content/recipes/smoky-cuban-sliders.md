@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "12 sliders"
 categories: ["Appetizers"]
 tags:
-- "slider recipes"
-- "Cuban-inspired"
-- "smoked pork"
-- "snack boards"
-- "party food"
+- "sandwich"
+- "pork"
+- "party"
+- "appetizer"
+- "easy dinner"
 keywords:
 - "smoked pork butt"
 - "slider buns"

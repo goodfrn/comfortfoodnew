@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "Southern cooking"
-- "egg recipes"
-- "deviled eggs"
-- "easy peel eggs"
-- "smoked paprika"
+- "appetizer"
+- "eggs"
+- "southern"
+- "easy"
+- "comfort food"
 keywords:
 - "deviled eggs"
 - "steamed eggs"

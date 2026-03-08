@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "roast"
-- "mushrooms"
-- "French-inspired"
-- "main course"
-- "savory"
-- "meat"
+- "roasted"
+- "mushroom"
+- "spice"
+- "main dish"
 keywords:
 - "pork rib roast"
 - "mushroom sauce"

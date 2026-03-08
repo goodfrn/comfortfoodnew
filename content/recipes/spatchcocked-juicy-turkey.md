@@ -15,11 +15,11 @@ totalTime: PT1H40M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "Poultry"
-- "Roasting"
-- "Holiday"
-- "Savory"
+- "turkey"
+- "roasted"
+- "holiday"
+- "easy"
+- "main dish"
 keywords:
 - "spatchcock turkey"
 - "roast turkey"

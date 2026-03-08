@@ -15,11 +15,11 @@ totalTime: PT5M
 recipeYield: "2 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktail"
-- "shot recipes"
-- "lemon vodka"
-- "agave nectar"
-- "quick drinks"
+- "drink"
+- "citrus"
+- "lemon"
+- "vodka"
+- "party"
 keywords:
 - "lemon shots"
 - "agave nectar cocktail"

@@ -15,12 +15,11 @@ totalTime: PT2H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cake"
-- "buttercream"
-- "rainbow"
-- "French-Canadian"
 - "dessert"
+- "vegetarian"
+- "homemade"
+- "easy"
 keywords:
 - "layer cake"
 - "rainbow cake"

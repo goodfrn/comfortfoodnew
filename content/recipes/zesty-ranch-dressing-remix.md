@@ -15,13 +15,11 @@ totalTime: PT12M
 recipeYield: "14 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "dressing"
-- "ranch"
-- "herbs"
-- "Greek yogurt"
+- "condiment"
+- "healthy"
+- "easy"
 - "homemade"
-- "American"
-- "easy recipes"
+- "vegetarian"
 keywords:
 - "ranch dressing"
 - "Greek yogurt"

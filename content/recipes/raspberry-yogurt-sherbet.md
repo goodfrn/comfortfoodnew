@@ -15,11 +15,11 @@ totalTime: PT24H15M
 recipeYield: "1 pint"
 categories: ["Frozen Treats"]
 tags:
-- "frozen dessert"
-- "yogurt sherbet"
-- "raspberry recipes"
-- "homemade ice cream"
-- "dairy dessert"
+- "dessert"
+- "raspberry"
+- "no bake"
+- "summer"
+- "healthy"
 keywords:
 - "raspberry sherbet"
 - "Greek yogurt dessert"

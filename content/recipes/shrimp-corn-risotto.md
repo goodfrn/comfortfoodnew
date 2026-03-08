@@ -16,10 +16,10 @@ recipeYield: 4 to 6 servings
 categories: ["Main Dishes"]
 tags:
 - "risotto"
+- "shrimp"
+- "corn"
 - "seafood"
-- "dinner"
-- "comfort food"
-- "French-inspired"
+- "main dish"
 keywords:
 - "shrimp recipe"
 - "corn recipes"

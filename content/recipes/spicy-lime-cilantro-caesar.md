@@ -15,12 +15,10 @@ totalTime: PT35M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "Canadian drinks"
-- "spicy cocktails"
-- "seafood garnish"
-- "summer drinks"
-- "herbs in cocktails"
+- "cocktail"
+- "spicy"
+- "shrimp"
+- "harissa"
 keywords:
 - "Caesar cocktail"
 - "lime zest salt rim"

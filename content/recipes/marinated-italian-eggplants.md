@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 to 8 servings"
 categories: ["Appetizers"]
 tags:
-- "Italian cuisine"
-- "vegan"
-- "gluten-free"
-- "mediterranean"
-- "marinated vegetables"
-- "easy prep"
-- "antipasto"
+- "italian"
+- "eggplant"
+- "vegetarian"
+- "appetizer"
+- "easy"
 keywords:
 - "eggplants"
 - "balsamic vinegar"

@@ -16,10 +16,10 @@ recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
 - "beef"
+- "cajun"
+- "spicy"
 - "rice"
-- "Cajun"
-- "gluten-free"
-- "dinner"
+- "easy dinner"
 keywords:
 - "beef recipe"
 - "quick dinner"

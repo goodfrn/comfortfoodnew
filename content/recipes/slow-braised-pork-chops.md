@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "braising"
-- "slow cook"
-- "American cuisine"
+- "slow cooker"
 - "comfort food"
+- "caramel"
+- "easy dinner"
 keywords:
 - "pork chops"
 - "braising"

@@ -16,9 +16,10 @@ recipeYield: 8 servings
 categories: ["Main Dishes"]
 tags:
 - "chili"
-- "beef"
-- "family meal"
 - "spicy"
+- "beef"
+- "comfort food"
+- "one pot"
 keywords:
 - "chili recipe"
 - "dinner ideas"

@@ -16,11 +16,10 @@ recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
 - "brownies"
-- "microwave baking"
-- "espresso"
-- "vanilla bean paste"
-- "fudgy texture"
-- "home baking"
+- "chocolate"
+- "easy"
+- "dessert"
+- "no bake"
 keywords:
 - "butter brownies"
 - "microwave brownies"

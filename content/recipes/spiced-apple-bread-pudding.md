@@ -15,12 +15,11 @@ totalTime: PT5H40M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "bread pudding"
-- "apple recipes"
-- "fall recipes"
 - "comfort food"
-- "baking"
+- "apple"
+- "cinnamon"
+- "bread"
+- "caramel"
 keywords:
 - "bread pudding"
 - "spiced apples"

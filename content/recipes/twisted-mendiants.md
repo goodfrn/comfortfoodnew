@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "20 mendiants"
 categories: ["Desserts"]
 tags:
-- "French desserts"
 - "chocolate"
-- "nuts"
-- "fruit toppings"
-- "holiday treats"
-- "quick recipes"
+- "candy"
+- "almond"
+- "pistachio"
+- "no bake"
 keywords:
 - "chocolate melting tips"
 - "mendiants recipe"

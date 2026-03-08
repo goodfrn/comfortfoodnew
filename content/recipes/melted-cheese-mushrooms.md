@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "2 servings"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
-- "vegetarian"
+- "cheese"
 - "appetizer"
-- "mushrooms"
-- "baked cheese"
-- "easy cooking"
+- "mushroom"
+- "bread"
+- "easy"
 keywords:
 - "washed-rind cheese"
 - "caramelized mushrooms"

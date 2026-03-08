@@ -15,11 +15,10 @@ totalTime: P0DT5H30M
 recipeYield: "2 liters"
 categories: ["Side Dishes"]
 tags:
-- "fermentation"
-- "kimchi"
-- "Korean fusion"
-- "gluten-free"
-- "homemade"
+- "asian"
+- "spicy"
+- "vegetarian"
+- "condiment"
 keywords:
 - "kimchi"
 - "fermentation"

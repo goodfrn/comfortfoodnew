@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
+- "pasta"
 - "seafood"
-- "mac and cheese"
-- "baking"
+- "cheese"
 - "comfort food"
-- "cheese sauce"
-- "panko topping"
+- "easy dinner"
 keywords:
 - "mac cheese bake"
 - "seafood casserole"

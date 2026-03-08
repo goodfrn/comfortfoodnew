@@ -15,11 +15,11 @@ totalTime: PT1H50M
 recipeYield: "About 6 jars 250ml"
 categories: ["Preserves"]
 tags:
-- "French-inspired"
-- "homemade jelly"
-- "fruit preservation"
-- "slow cooking"
-- "natural pectin"
+- "apple"
+- "jam"
+- "homemade"
+- "easy"
+- "french"
 keywords:
 - "pommettes"
 - "jelly making"

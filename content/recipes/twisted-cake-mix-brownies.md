@@ -15,12 +15,10 @@ totalTime: PT35M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "brownies"
-- "cake mix"
-- "nuts"
-- "dessert"
-- "American cuisine"
+- "cake"
+- "spice"
+- "easy"
 keywords:
 - "brownie baking"
 - "cake mix dessert"

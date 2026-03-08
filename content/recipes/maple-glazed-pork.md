@@ -16,13 +16,10 @@ recipeYield: "2 to 3 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "maple"
-- "glaze"
-- "arrowroot"
-- "quick meal"
-- "gluten-free"
-- "dairy-free"
-- "egg-free"
+- "easy dinner"
+- "apple"
+- "comfort food"
+- "main dish"
 keywords:
 - "pork medallions"
 - "maple glaze"

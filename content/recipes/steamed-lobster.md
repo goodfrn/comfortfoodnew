@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "1 serving"
 categories: ["Seafood"]
 tags:
-- "seafood"
 - "lobster"
-- "steaming"
-- "cooking tips"
-- "shellfish"
+- "seafood"
+- "easy"
+- "main dish"
+- "one pot"
 keywords:
 - "lobster steam"
 - "seafood broth"

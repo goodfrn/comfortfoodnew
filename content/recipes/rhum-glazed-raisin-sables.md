@@ -16,10 +16,10 @@ recipeYield: 22 biscuits
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "vegan"
-- "baking"
-- "dessert"
-- "sweets"
+- "shortbread"
+- "rum"
+- "vanilla"
+- "homemade"
 keywords:
 - "rum glaze"
 - "dried apricots"

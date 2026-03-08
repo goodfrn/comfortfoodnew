@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "lamb"
-- "rotisserie"
-- "marinade"
-- "slow cook"
-- "French-inspired"
+- "roasted"
+- "grilling"
+- "spice"
+- "holiday"
 keywords:
 - "leg of lamb"
 - "balsamic vinegar marinade"

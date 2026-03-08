@@ -15,11 +15,11 @@ totalTime: PT2H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "slow cooker"
+- "chocolate"
 - "brownies"
-- "chocolate dessert"
-- "nut substitutions"
-- "almond flour"
+- "slow cooker"
+- "honey"
+- "hazelnut"
 keywords:
 - "chocolate brownies"
 - "slow cooker dessert"

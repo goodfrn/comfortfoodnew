@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "8 rolls"
 categories: ["Snacks"]
 tags:
-- "American"
-- "snacks"
-- "easy baking"
-- "crescent rolls"
-- "pepperoni"
+- "pizza"
+- "appetizer"
 - "cheese"
+- "snack"
+- "easy"
 keywords:
 - "pizza rolls"
 - "pepperoni snacks"

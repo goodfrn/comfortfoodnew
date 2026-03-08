@@ -15,13 +15,10 @@ totalTime: PT35M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Spanish cuisine"
+- "potato"
+- "eggs"
 - "omelet"
-- "potatoes"
-- "smoked paprika"
-- "grapeseed oil"
-- "manchego"
-- "cast iron skillet"
+- "easy dinner"
 keywords:
 - "Spanish tortilla"
 - "potato omelet"

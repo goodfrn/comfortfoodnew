@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "24 bites"
 categories: ["Appetizers"]
 tags:
-- "Asian fusion"
-- "tofu recipes"
-- "snack ideas"
-- "glazed tofu"
-- "plant-based appetizers"
+- "tofu"
+- "appetizer"
+- "asian"
+- "peanut butter"
+- "sesame"
 keywords:
 - "tofu bites"
 - "crispy tofu"

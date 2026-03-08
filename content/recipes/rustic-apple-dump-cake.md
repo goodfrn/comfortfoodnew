@@ -15,12 +15,10 @@ totalTime: PT1H25M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "dessert"
-- "easy bake"
+- "cake"
 - "apple"
-- "cinnamon"
 - "fall"
+- "easy"
 - "comfort food"
 keywords:
 - "apple cake"

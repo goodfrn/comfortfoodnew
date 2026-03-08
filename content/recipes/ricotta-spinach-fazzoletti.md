@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "baked pasta"
-- "spinach recipes"
 - "ricotta"
-- "provolone"
-- "homemade pasta"
+- "spinach"
+- "italian"
+- "pasta"
+- "vegetarian"
 keywords:
 - "ricotta pasta"
 - "spinach filling"

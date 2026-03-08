@@ -16,13 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "cupcakes"
-- "red velvet"
-- "baking"
-- "cream cheese frosting"
-- "natural ingredients"
 - "dessert"
-- "quick bake"
-- "North American cuisine"
+- "cinnamon"
+- "easy"
+- "comfort food"
 keywords:
 - "red velvet cupcakes"
 - "natural food coloring"

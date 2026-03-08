@@ -15,13 +15,10 @@ totalTime: PT9H
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
+- "sausage"
 - "slow cooker"
-- "root vegetables"
-- "sausage balls"
-- "French Canadian"
-- "gluten free"
-- "egg free"
 - "comfort food"
+- "one pot"
 keywords:
 - "slowcooked sausage balls"
 - "root veggies slow cooker"

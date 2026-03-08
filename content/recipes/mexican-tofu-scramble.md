@@ -15,14 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "vegan"
-- "Mexican"
 - "tofu"
+- "mexican"
+- "vegan"
 - "breakfast"
-- "gluten free"
-- "dairy free"
-- "spicy"
-- "plant based"
+- "easy"
 keywords:
 - "tofu scramble"
 - "Mexican tofu"

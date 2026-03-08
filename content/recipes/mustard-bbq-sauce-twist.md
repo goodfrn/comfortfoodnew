@@ -15,12 +15,9 @@ totalTime: PT19M
 recipeYield: "About 2 cups"
 categories: ["Sauces and Condiments"]
 tags:
-- "BBQ sauce"
-- "Southern cuisine"
-- "mustard sauce"
-- "smoked paprika"
-- "homemade sauce"
-- "pork seasoning"
+- "condiment"
+- "southern"
+- "caramel"
 keywords:
 - "mustard BBQ sauce"
 - "South Carolina BBQ"

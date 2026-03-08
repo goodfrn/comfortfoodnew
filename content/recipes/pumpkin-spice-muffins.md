@@ -17,10 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "pumpkin"
 - "muffins"
-- "baking"
-- "no mixer"
-- "spiced pumpkin"
-- "cake mix"
+- "easy"
+- "cinnamon"
+- "fall"
 keywords:
 - "pumpkin muffins"
 - "spiced pumpkin"

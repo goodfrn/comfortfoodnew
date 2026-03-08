@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegetarian"
-- "Mediterranean"
-- "flatbread"
-- "quick lunch"
-- "grilled vegetables"
+- "bread"
+- "mediterranean"
+- "asparagus"
+- "zucchini"
 keywords:
 - "naan flatbread recipe"
 - "vegetable toppings"

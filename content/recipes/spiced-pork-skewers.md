@@ -17,8 +17,8 @@ categories: ["Main Dishes"]
 tags:
 - "pork"
 - "grilling"
-- "skewers"
-- "spices"
+- "spicy"
+- "dry rub"
 keywords:
 - "skewers"
 - "marinated pork"

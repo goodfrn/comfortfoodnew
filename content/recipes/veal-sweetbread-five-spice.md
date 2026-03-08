@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "veal"
-- "sweetbreads"
-- "French-Asian"
-- "duck fat"
-- "star anise"
-- "caramel sauce"
-- "celery root"
-- "sautéed spinach"
+- "spice"
+- "asian"
+- "roasted"
+- "main dish"
 keywords:
 - "veal sweetbreads"
 - "five-spice substitute"

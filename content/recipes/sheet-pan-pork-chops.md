@@ -16,11 +16,9 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "sheet pan"
-- "one-pan meal"
-- "crispy crust"
-- "roasting"
-- "American cuisine"
+- "easy dinner"
+- "roasted"
+- "broccoli"
 keywords:
 - "pork chops"
 - "Parmesan potatoes"

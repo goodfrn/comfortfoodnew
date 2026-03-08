@@ -15,14 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "Mediterranean"
-- "Turkish"
-- "Eggs"
-- "Squash"
-- "Labneh"
-- "Poaching"
-- "Vegetarian"
-- "Roasting"
+- "breakfast"
+- "vegetarian"
+- "squash"
+- "spice"
+- "roasted"
 keywords:
 - "delicata squash"
 - "chili butter oil"

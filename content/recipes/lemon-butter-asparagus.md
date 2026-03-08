@@ -15,10 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegan"
 - "asparagus"
-- "sidedish"
-- "30minrecipe"
+- "vegan"
+- "lemon"
+- "side dish"
+- "easy"
 keywords:
 - "asparagus"
 - "vegan butter"

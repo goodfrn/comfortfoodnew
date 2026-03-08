@@ -15,14 +15,10 @@ totalTime: PT28M
 recipeYield: "4 to 6 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "chilled mousse"
-- "coconut cream"
-- "maple syrup"
-- "egg whites"
-- "chocolate dessert"
-- "patience needed"
-- "folding method"
+- "chocolate"
+- "dessert"
+- "no bake"
+- "eggs"
 keywords:
 - "milk chocolate mousse"
 - "coconut cream"

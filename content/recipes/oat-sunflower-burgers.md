@@ -16,14 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegetarian"
-- "seed-based"
-- "oats"
-- "healthy"
-- "main dish"
-- "balsamic"
-- "smoky"
-- "cheddar"
-- "meal prep"
+- "burger"
+- "oatmeal"
+- "cheese"
+- "homemade"
 keywords:
 - "oat burgers"
 - "vegetarian patties"

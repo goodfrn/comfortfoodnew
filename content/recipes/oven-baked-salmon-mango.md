@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "salmon"
 - "seafood"
-- "quick meals"
-- "healthy dinner"
-- "fruit salsa"
-- "oven baked"
+- "healthy"
+- "summer"
+- "easy dinner"
 keywords:
 - "baked salmon"
 - "mango salsa"

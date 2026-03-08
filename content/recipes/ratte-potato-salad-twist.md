@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "French-inspired"
-- "gluten free"
-- "dairy free"
-- "vegan option"
-- "potato salad"
-- "herbs"
+- "salad"
+- "potato"
+- "summer"
+- "vegetarian"
+- "easy"
 keywords:
 - "potato salad"
 - "vinaigrette salad"

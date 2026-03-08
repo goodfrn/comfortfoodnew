@@ -16,11 +16,10 @@ recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
 - "bacon"
-- "sweet and spicy"
-- "maple syrup"
-- "American cuisine"
-- "snacks"
-- "oven-baked"
+- "appetizer"
+- "easy"
+- "snack"
+- "spicy"
 keywords:
 - "Demerara sugar"
 - "cracked white pepper"

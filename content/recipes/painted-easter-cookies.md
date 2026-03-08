@@ -15,12 +15,11 @@ totalTime: PT18M
 recipeYield: "24 cookies"
 categories: ["Desserts"]
 tags:
-- "Easter"
 - "cookies"
-- "sugar cookies"
-- "almond extract"
-- "icing"
-- "baking tips"
+- "easter"
+- "vegetarian"
+- "easy"
+- "homemade"
 keywords:
 - "sugar cookies"
 - "almond extract"

@@ -15,12 +15,11 @@ totalTime: PT70M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "loaf cake"
+- "cake"
 - "strawberry"
-- "baking"
-- "glaze"
-- "dessert"
-- "American cuisine"
+- "bread"
+- "homemade"
+- "easy"
 keywords:
 - "strawberry cake"
 - "loaf cake"

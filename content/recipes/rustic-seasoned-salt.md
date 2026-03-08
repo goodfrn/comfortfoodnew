@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "1 cup"
 categories: ["Sauces and Condiments"]
 tags:
-- "American"
-- "spice blend"
-- "grilling"
-- "easy seasoning"
-- "no cook"
+- "condiment"
+- "spice"
+- "easy"
+- "dry rub"
+- "homemade"
 keywords:
 - "seasoned salt"
 - "smoked paprika"

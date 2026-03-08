@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "salads"
-- "vegan"
-- "gluten-free"
-- "quick meals"
-- "American cuisine"
+- "salad"
+- "vegetarian"
+- "healthy"
+- "lemon"
+- "side dish"
 keywords:
 - "bean salad"
 - "yogurt dressing"

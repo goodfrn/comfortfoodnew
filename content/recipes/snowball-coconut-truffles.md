@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "36 pieces"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "truffles"
-- "white chocolate"
+- "chocolate"
 - "coconut"
-- "cardamom"
-- "dessert candy"
-- "ganache"
+- "candy"
+- "no bake"
+- "holiday"
 keywords:
 - "coconut truffles"
 - "white chocolate"

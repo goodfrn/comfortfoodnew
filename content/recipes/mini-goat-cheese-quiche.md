@@ -15,12 +15,11 @@ totalTime: PT43M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "French-inspired"
-- "brunch"
-- "pastry"
-- "savory tart"
-- "goat cheese"
-- "quick bake"
+- "quiche"
+- "appetizer"
+- "cheese"
+- "vegetarian"
+- "easy"
 keywords:
 - "goat cheese quiche"
 - "mini quiche recipe"

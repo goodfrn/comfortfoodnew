@@ -15,13 +15,11 @@ totalTime: PT2H28M
 recipeYield: "10 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
 - "slow cooker"
-- "casserole"
-- "green beans"
 - "comfort food"
+- "vegetarian"
+- "mushroom"
 - "bacon"
-- "easy dinner"
 keywords:
 - "green bean casserole"
 - "slow cooker casserole"

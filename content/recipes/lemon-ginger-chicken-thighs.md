@@ -16,9 +16,9 @@ recipeYield: 4 to 6 servings
 categories: ["Main Dishes"]
 tags:
 - "chicken"
+- "lemon"
 - "grilling"
-- "weeknight dinner"
-- "easy recipe"
+- "easy dinner"
 keywords:
 - "chicken recipe"
 - "grilled thighs"

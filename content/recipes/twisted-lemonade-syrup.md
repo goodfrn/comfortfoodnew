@@ -15,11 +15,10 @@ totalTime: PT24M
 recipeYield: "8 servings"
 categories: ["Beverages"]
 tags:
-- "lemonade"
-- "honey syrup"
-- "ginger"
-- "sparkling drinks"
-- "homemade syrup"
+- "drink"
+- "lemon"
+- "honey"
+- "summer"
 keywords:
 - "lemonade"
 - "honey syrup"

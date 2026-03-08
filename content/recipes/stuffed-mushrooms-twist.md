@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "15 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
-- "Appetizer"
-- "Mushroom"
-- "Cheese"
-- "Baking"
-- "Party Food"
-- "Vegetarian"
+- "appetizer"
+- "mushroom"
+- "cheese"
+- "vegetarian"
+- "easy"
 keywords:
 - "stuffed mushrooms"
 - " Copper Kettle cheese"

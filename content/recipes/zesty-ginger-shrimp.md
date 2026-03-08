@@ -15,11 +15,11 @@ totalTime: PT41M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "Asian Fusion"
-- "Seafood"
-- "Quick Meals"
-- "Shrimp"
-- "Marinades"
+- "seafood"
+- "shrimp"
+- "asian"
+- "easy dinner"
+- "citrus"
 keywords:
 - "shrimp marinade"
 - "quick shrimp recipe"

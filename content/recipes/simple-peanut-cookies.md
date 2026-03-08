@@ -15,11 +15,11 @@ totalTime: PT14M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
 - "peanut butter"
-- "quick recipes"
-- "no flour"
+- "honey"
+- "easy"
+- "comfort food"
 keywords:
 - "peanut butter"
 - "honey"

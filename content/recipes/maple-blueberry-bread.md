@@ -15,12 +15,11 @@ totalTime: PT1H32M
 recipeYield: "6 servings"
 categories: ["Breads"]
 tags:
-- "quick bread"
+- "bread"
 - "blueberry"
-- "maple syrup"
-- "buttermilk"
-- "baking tips"
-- "North American cuisine"
+- "breakfast"
+- "comfort food"
+- "homemade"
 keywords:
 - "quick bread"
 - "blueberry bread"

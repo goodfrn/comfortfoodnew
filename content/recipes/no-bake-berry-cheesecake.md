@@ -15,12 +15,9 @@ totalTime: PT8H
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
+- "no bake"
 - "dessert"
-- "berry"
-- "cheesecake"
-- "easy"
-- "american"
+- "lemon"
 keywords:
 - "berry sauce"
 - "cream cheese filling"

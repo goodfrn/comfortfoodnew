@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
+- "seafood"
 - "salad"
 - "healthy"
-- "gluten-free"
-- "dairy-free"
+- "lemon"
+- "fennel"
 keywords:
 - "fennel salad"
 - "fish recipe"

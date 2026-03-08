@@ -15,12 +15,11 @@ totalTime: PT47M
 recipeYield: "1 to 2 dozen"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
-- "layered dough"
-- "chilled dough"
-- "French-inspired"
-- "holiday baking"
+- "chocolate"
+- "cookies"
+- "chocolate"
+- "spice"
 keywords:
 - "layered cookies"
 - "chilled cookie dough"

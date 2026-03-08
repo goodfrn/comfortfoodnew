@@ -17,11 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "grilling"
 - "vegetarian"
-- "vegan"
-- "Mediterranean"
-- "preserved vegetables"
-- "antipasti"
-- "olive oil"
+- "side dish"
+- "easy"
+- "mediterranean"
 keywords:
 - "grilled bell peppers"
 - "marinated eggplants"

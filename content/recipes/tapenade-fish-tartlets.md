@@ -17,10 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "seafood"
 - "appetizer"
-- "French-inspired"
-- "snacks"
-- "olive tapenade"
-- "baking"
+- "easy dinner"
+- "mediterranean"
+- "pesto"
 keywords:
 - "tapenade"
 - "fish tartlets"

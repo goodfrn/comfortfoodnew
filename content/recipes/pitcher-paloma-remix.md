@@ -16,11 +16,9 @@ recipeYield: "8-10 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "pitcher drinks"
-- "yuzu"
-- "grapefruit"
-- "tequila"
-- "summer drinks"
+- "citrus"
+- "drink"
+- "party"
 keywords:
 - "grapefruit juice"
 - "tequila blanco"

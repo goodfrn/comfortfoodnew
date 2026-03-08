@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetarian"
-- "sweet potatoes"
-- "cheese"
-- "baking"
-- "nuts"
 - "comfort food"
+- "cheese"
+- "vegetarian"
+- "side dish"
+- "roasted"
 keywords:
 - "stuffed sweet potatoes"
 - "smoked gouda recipes"

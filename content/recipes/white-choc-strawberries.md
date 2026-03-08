@@ -15,11 +15,11 @@ totalTime: PT16M
 recipeYield: "2 servings"
 categories: ["Desserts"]
 tags:
-- "desserts"
-- "strawberries"
-- "white chocolate"
-- "holiday treats"
-- "easy sweets"
+- "strawberry"
+- "chocolate"
+- "no bake"
+- "easy"
+- "appetizer"
 keywords:
 - "white chocolate strawberries"
 - "strawberry dipping tips"

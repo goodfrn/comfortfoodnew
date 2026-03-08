@@ -15,12 +15,11 @@ totalTime: PT170M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "fruit galette"
-- "rustic baking"
-- "fall dessert"
-- "spiced apples"
-- "pastry"
+- "apple"
+- "cinnamon"
+- "tart"
+- "lemon"
+- "fall"
 keywords:
 - "apple galette"
 - "rustic tart"

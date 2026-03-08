@@ -15,12 +15,11 @@ totalTime: PT28M
 recipeYield: "2 servings"
 categories: ["Soups"]
 tags:
-- "Thai"
 - "seafood"
-- "quick meals"
-- "coconut broth"
-- "red curry"
-- "weeknight dinner"
+- "thai"
+- "soup"
+- "coconut"
+- "spicy"
 keywords:
 - "seafood soup"
 - "coconut milk soup"

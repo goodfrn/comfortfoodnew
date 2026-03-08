@@ -15,13 +15,9 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "French fusion"
-- "raw fish"
-- "yogurt sauce"
+- "appetizer"
+- "salmon"
 - "harissa"
-- "basil"
-- "pistachios"
-- "papadums"
 keywords:
 - "raw salmon tartare"
 - "mango tartare recipe"

@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "sauces"
-- "fusion"
-- "roasting"
-- "cashew"
-- "spicy mayo"
-- "lemon sauce"
+- "roasted"
+- "asian"
+- "spicy"
+- "peanut butter"
 keywords:
 - "pork filets"
 - "cashew sauce"

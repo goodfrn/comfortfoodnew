@@ -15,14 +15,11 @@ totalTime: PT42M
 recipeYield: "26 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "chocolate"
-- "sheet cake"
-- "coffee"
-- "sour cream"
-- "frosting"
+- "cake"
 - "dessert"
-- "easy baking"
+- "easy"
+- "coffee cake"
 keywords:
 - "chocolate cake"
 - "sheet pan cake"

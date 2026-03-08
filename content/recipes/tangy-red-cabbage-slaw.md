@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "slaw"
 - "cabbage"
-- "American"
-- "vinaigrette"
-- "easy sides"
+- "salad"
+- "vegetarian"
+- "side dish"
+- "easy"
 keywords:
 - "red cabbage"
 - "cabbage slaw"

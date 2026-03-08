@@ -15,12 +15,11 @@ totalTime: PT46M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "seafood"
-- "snack"
-- "Caribbean fusion"
-- "fried food"
+- "shrimp"
+- "fritters"
 - "appetizer"
-- "seafood fritters"
+- "fried"
+- "seafood"
 keywords:
 - "shrimp fritters"
 - "lime mayo"

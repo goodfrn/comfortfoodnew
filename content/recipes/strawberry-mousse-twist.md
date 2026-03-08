@@ -15,11 +15,10 @@ totalTime: PT2H10M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "no cook dessert"
-- "fruity mousse"
-- "layered dessert"
-- "easy chill dessert"
-- "American dessert"
+- "strawberry"
+- "gelatin"
+- "dessert"
+- "no bake"
 keywords:
 - "strawberry gelatin"
 - "mousse layers"

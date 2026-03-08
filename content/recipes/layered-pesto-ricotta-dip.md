@@ -15,11 +15,11 @@ totalTime: PT25M
 recipeYield: "10 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Italian inspired"
-- "layered dip"
-- "party appetizer"
-- "make ahead"
-- "no bake"
+- "ricotta"
+- "pesto"
+- "appetizer"
+- "party"
+- "vegetarian"
 keywords:
 - "pesto dip"
 - "ricotta dip"

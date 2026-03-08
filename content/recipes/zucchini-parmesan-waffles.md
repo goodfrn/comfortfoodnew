@@ -15,13 +15,11 @@ totalTime: PT29M
 recipeYield: "8 waffles"
 categories: ["Breakfast"]
 tags:
-- "breakfast"
-- "savory waffles"
+- "vegetarian"
+- "cheese"
 - "zucchini"
-- "American cuisine"
-- "easy waffles"
-- "vegetable waffles"
-- "nutmeg aroma"
+- "easy"
+- "breakfast"
 keywords:
 - "zucchini waffles"
 - "Parmesan waffles"

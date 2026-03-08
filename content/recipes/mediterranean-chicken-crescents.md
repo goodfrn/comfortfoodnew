@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
 - "chicken"
-- "savory pastry"
-- "quick meals"
-- "meal prep"
+- "mediterranean"
+- "appetizer"
+- "easy"
+- "bread"
 keywords:
 - "chicken crescent dough"
 - "Mediterranean chicken"

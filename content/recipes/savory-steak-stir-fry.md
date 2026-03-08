@@ -15,13 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "steak"
 - "beef"
-- "stir fry"
-- "skillet meal"
-- "American cuisine"
-- "potatoes"
-- "mushrooms"
-- "easy dinner"
+- "asian"
+- "potato"
+- "mushroom"
 keywords:
 - "steak stir fry"
 - "skillet beef recipe"

@@ -15,11 +15,8 @@ totalTime: PT26M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
+- "chocolate"
 - "cookies"
-- "red velvet"
-- "baking tips"
-- "desserts"
-- "American cuisine"
 keywords:
 - "red velvet"
 - "white chocolate chips"

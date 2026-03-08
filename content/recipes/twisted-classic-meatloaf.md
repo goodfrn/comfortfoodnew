@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "Comfort Food"
-- "Meatloaf"
-- "Bacon"
-- "Home Cooking"
-- "Ground Beef"
-- "Dinner"
+- "bacon"
+- "beef"
+- "meatloaf"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "meatloaf"
 - "bacon"

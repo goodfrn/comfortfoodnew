@@ -15,12 +15,11 @@ totalTime: PT22M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "confit"
-- "quick recipes"
-- "cherry tomatoes"
-- "French-inspired"
-- "vegetable side"
-- "easy cooking"
+- "vegetarian"
+- "side dish"
+- "summer"
+- "easy"
+- "honey"
 keywords:
 - "cherry tomatoes"
 - "confit"

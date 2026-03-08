@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "Mediterranean"
-- "orzo"
+- "pasta"
+- "summer"
 - "vegetarian"
-- "no dairy"
-- "quick prep"
+- "easy"
 keywords:
 - "orzo salad"
 - "peas salad"

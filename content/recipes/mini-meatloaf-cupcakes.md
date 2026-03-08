@@ -15,11 +15,11 @@ totalTime: PT53M
 recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "meatloaf"
-- "appetizer"
-- "easy dinners"
+- "beef"
 - "comfort food"
+- "bacon"
+- "potato"
+- "easy dinner"
 keywords:
 - "meatloaf cupcakes"
 - "ground beef pork blend"

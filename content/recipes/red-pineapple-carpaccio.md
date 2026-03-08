@@ -15,11 +15,11 @@ totalTime: PT6H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "fruit dessert"
-- "marinated pineapple"
-- "fusion cuisine"
-- "vanilla drizzle"
-- "chilled dessert"
+- "pineapple"
+- "raspberry"
+- "dessert"
+- "easy"
+- "gluten free"
 keywords:
 - "pineapple slices"
 - "raspberries"

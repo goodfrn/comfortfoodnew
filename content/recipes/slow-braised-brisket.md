@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "beef"
-- "braising"
-- "American cuisine"
-- "slow cooking"
+- "slow cooker"
 - "comfort food"
-- "gluten free option"
-- "red wine"
+- "main dish"
+- "easy dinner"
 keywords:
 - "brisket"
 - "braised beef"

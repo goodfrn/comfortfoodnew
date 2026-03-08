@@ -15,14 +15,11 @@ totalTime: PT1H5M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
 - "brownies"
-- "marshmallow"
-- "pecans"
-- "chocolate dessert"
-- "easy bake"
-- "gooey texture"
-- "nutty flavor"
+- "chocolate"
+- "dessert"
+- "pecan"
+- "no bake"
 keywords:
 - "brownie mix"
 - "toasted pecans"

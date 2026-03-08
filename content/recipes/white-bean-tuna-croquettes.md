@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
+- "tuna"
 - "seafood"
-- "bean recipes"
-- "croquettes"
-- "French-inspired"
-- "pan-fried"
+- "appetizer"
 - "easy dinner"
+- "comfort food"
 keywords:
 - "tuna croquettes"
 - "white beans"

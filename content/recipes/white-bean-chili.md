@@ -15,12 +15,10 @@ totalTime: PT33M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "American Southwestern"
 - "chili"
-- "slow simmer"
-- "white beans"
 - "chicken"
-- "weeknight meal"
+- "soup"
+- "easy dinner"
 - "comfort food"
 keywords:
 - "white beans"

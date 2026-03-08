@@ -16,10 +16,10 @@ recipeYield: 6 servings
 categories: ["Salads"]
 tags:
 - "salad"
-- "Italian"
-- "chicory"
-- "vegetarian"
-- "sides"
+- "italian"
+- "mediterranean"
+- "appetizer"
+- "spicy"
 keywords:
 - "puntarelle"
 - "balsamic vinegar"

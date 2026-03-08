@@ -15,11 +15,11 @@ totalTime: PT4H20M
 recipeYield: "40 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "party snacks"
-- "boozy treats"
-- "summer recipes"
-- "easy desserts"
+- "rum"
+- "gelatin"
+- "strawberry"
+- "appetizer"
+- "party"
 keywords:
 - "jello shots"
 - "strawberries"

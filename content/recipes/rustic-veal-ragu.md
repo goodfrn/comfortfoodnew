@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "pasta"
 - "veal"
-- "ragu"
+- "pasta"
+- "italian"
 - "comfort food"
-- "savory"
-- "slow cook"
+- "one pot"
 keywords:
 - "veal ragu"
 - "Italian ragu"

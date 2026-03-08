@@ -15,12 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "dairy-free"
-- "baking tips"
-- "fruit tarts"
-- "coconut cream"
-- "citrus desserts"
+- "tart"
+- "raspberry"
+- "lemon"
+- "citrus"
+- "dessert"
 keywords:
 - "raspberry tart"
 - "lemon custard"

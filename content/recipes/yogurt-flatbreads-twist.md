@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "8 servings"
 categories: ["Pizza and Flatbreads"]
 tags:
-- "Mediterranean"
-- "no yeast"
-- "quick bread"
-- "flatbread"
-- "homemade"
-- "grill bread"
-- "baking powder"
+- "bread"
+- "vegetarian"
+- "easy"
+- "breakfast"
+- "no bake"
 keywords:
 - "flatbreads"
 - "yogurt bread"

@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "4 to 6 servings"
 categories: ["Breakfast"]
 tags:
-- "French-Canadian fusion"
-- "brunch recipes"
-- "savory tarts"
-- "puff pastry"
-- "smoked fish"
-- "everything bagel"
+- "tart"
+- "salmon"
+- "appetizer"
+- "seafood"
+- "easy"
 keywords:
 - "smoked salmon tart"
 - "bagel seasoning mix"

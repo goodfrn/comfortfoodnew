@@ -15,14 +15,11 @@ totalTime: PT1H23M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "chocolate"
 - "tart"
-- "baking"
-- "evaporated milk"
-- "coconut sugar"
-- "easy dessert"
-- "French-inspired"
+- "dessert"
+- "easy"
+- "spicy"
 keywords:
 - "chocolate tart"
 - "coconut sugar dessert"

@@ -15,11 +15,11 @@ totalTime: PT26M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "seafood"
 - "pasta"
-- "Italian-American"
-- "quick meals"
-- "shrimp recipes"
+- "seafood"
+- "shrimp"
+- "italian"
+- "easy dinner"
 keywords:
 - "shrimp scampi"
 - "linguine pasta"

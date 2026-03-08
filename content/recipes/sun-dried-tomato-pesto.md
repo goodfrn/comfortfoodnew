@@ -15,12 +15,11 @@ totalTime: PT14M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Mediterranean"
 - "vegan"
-- "gluten-free"
-- "nut-free"
-- "quick recipe"
-- "toasted seeds"
+- "pesto"
+- "gluten free"
+- "easy"
+- "condiment"
 keywords:
 - "sun-dried tomato pesto"
 - "pumpkin seeds"

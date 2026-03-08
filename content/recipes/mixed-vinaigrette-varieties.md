@@ -15,11 +15,10 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "dressings"
-- "vinaigrettes"
-- "recipe"
+- "condiment"
 - "salad"
-- "healthy"
+- "french"
+- "easy"
 keywords:
 - "vinaigrette"
 - "salad dressings"

@@ -15,13 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Dips and Spreads"]
 tags:
-- "aioli"
-- "herbs"
-- "sauce"
-- "dip"
-- "quick prep"
-- "Dijon mustard"
-- "roasted garlic"
+- "condiment"
+- "easy"
+- "appetizer"
+- "vegetarian"
+- "lemon"
 keywords:
 - "aioli"
 - "roasted garlic"

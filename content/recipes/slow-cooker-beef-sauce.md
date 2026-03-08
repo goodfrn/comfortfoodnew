@@ -15,11 +15,11 @@ totalTime: PT7H50M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "beef"
 - "slow cooker"
-- "Italian-American"
-- "pasta sauce"
+- "beef"
+- "italian"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "beef sauce"
 - "slow cooker recipe"

@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "one pot"
 - "chicken"
-- "noodles"
 - "comfort food"
-- "quick meal"
-- "American cuisine"
+- "mushroom"
+- "easy dinner"
 keywords:
 - "chicken noodles"
 - "one pot dinner"

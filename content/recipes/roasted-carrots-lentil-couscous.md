@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean-inspired"
 - "vegetarian"
-- "smoky flavors"
-- "easy weeknight"
-- "seasonal vegetables"
+- "lentils"
+- "couscous"
+- "roasted"
+- "harissa"
 keywords:
 - "couscous"
 - "lentils"

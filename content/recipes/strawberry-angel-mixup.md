@@ -15,13 +15,11 @@ totalTime: PT4H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "no bake"
-- "summer dessert"
-- "fruit dessert"
+- "cake"
+- "dessert"
+- "strawberry"
 - "gelatin"
-- "whipped topping"
-- "angel food cake"
+- "no bake"
 keywords:
 - "strawberry dessert"
 - "gelatin mix dessert"

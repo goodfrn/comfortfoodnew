@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "24 appetizers"
 categories: ["Appetizers"]
 tags:
+- "bacon"
+- "eggs"
 - "appetizer"
-- "French-inspired"
-- "make ahead"
-- "finger food"
-- "cold dish"
-- "cocktail party"
+- "lemon"
+- "easy"
 keywords:
 - "stuffed endives"
 - "hard-boiled eggs"

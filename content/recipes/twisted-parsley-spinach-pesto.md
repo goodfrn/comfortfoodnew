@@ -17,11 +17,9 @@ categories: ["Dips and Spreads"]
 tags:
 - "pesto"
 - "spinach"
-- "parsley"
 - "walnut"
-- "herbs"
-- "French-inspired"
-- "sauce"
+- "vegetarian"
+- "condiment"
 keywords:
 - "spinach pesto"
 - "parsley pesto"

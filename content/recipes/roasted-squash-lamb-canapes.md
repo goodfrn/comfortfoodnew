@@ -15,11 +15,11 @@ totalTime: PT62M
 recipeYield: "24 pieces"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
-- "appetizers"
-- "gluten-free"
-- "finger food"
-- "fall flavors"
+- "appetizer"
+- "lamb"
+- "squash"
+- "roasted"
+- "cranberry"
 keywords:
 - "roasted butternut squash"
 - "lamb canapés"

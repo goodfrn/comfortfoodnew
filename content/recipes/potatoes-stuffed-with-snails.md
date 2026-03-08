@@ -15,11 +15,10 @@ totalTime: PT55M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "French cuisine"
-- "seafood"
-- "herbs"
-- "snails"
-- "potatoes"
+- "french"
+- "appetizer"
+- "potato"
+- "easy"
 keywords:
 - "stuffed potatoes"
 - "escargots"

@@ -15,14 +15,10 @@ totalTime: PT1H5M
 recipeYield: "12 servings"
 categories: ["Soups"]
 tags:
-- "American comfort"
-- "soups"
-- "ground beef"
-- "bell peppers"
-- "cheddar cheese"
-- "one pot meals"
-- "easy dinner"
 - "comfort food"
+- "beef"
+- "soup"
+- "one pot"
 keywords:
 - "stuffed pepper soup"
 - "ground beef soup"

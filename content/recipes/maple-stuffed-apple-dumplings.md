@@ -15,11 +15,10 @@ totalTime: PT40M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "Canadian dessert"
-- "apple dessert"
-- "maple syrup"
-- "fall baking"
-- "fruit dumplings"
+- "apple"
+- "cinnamon"
+- "dessert"
+- "homemade"
 keywords:
 - "apple dumplings"
 - "maple cinnamon syrup"

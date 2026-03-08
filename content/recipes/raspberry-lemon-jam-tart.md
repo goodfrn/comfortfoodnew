@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "tart"
-- "dairy-free"
-- "fruit jam"
-- "French-inspired"
+- "jam"
+- "raspberry"
+- "lemon"
+- "no bake"
 keywords:
 - "raspberry tart"
 - "lemon tart"

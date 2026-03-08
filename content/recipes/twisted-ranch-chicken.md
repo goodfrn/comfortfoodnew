@@ -16,12 +16,9 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "Tex-Mex"
-- "casserole"
-- "dinner"
+- "easy dinner"
 - "comfort food"
-- "baked dish"
-- "easy recipes"
+- "mexican"
 keywords:
 - "chicken thighs"
 - "ranch chicken bake"

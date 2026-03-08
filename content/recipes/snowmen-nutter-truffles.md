@@ -15,11 +15,11 @@ totalTime: PT115M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "holiday treats"
-- "chocolate recipes"
-- "winter snacks"
-- "no bake desserts"
-- "party treats"
+- "candy"
+- "chocolate"
+- "no bake"
+- "peanut butter"
+- "holiday"
 keywords:
 - "Nutter Butter"
 - "cream cheese truffles"

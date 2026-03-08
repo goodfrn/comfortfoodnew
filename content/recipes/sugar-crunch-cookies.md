@@ -15,11 +15,10 @@ totalTime: PT33M
 recipeYield: "1 1/2 dozen"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cookies"
-- "baking tips"
-- "vegetarian"
-- "nut-free"
+- "dessert"
+- "homemade"
+- "easy"
 keywords:
 - "sugar cookies"
 - "baking powder cookies"

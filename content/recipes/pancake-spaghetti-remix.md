@@ -15,13 +15,11 @@ totalTime: PT18M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "American"
 - "breakfast"
-- "creative pancakes"
-- "oat flour"
-- "maple syrup"
-- "cinnamon"
-- "toasted nuts"
+- "pancakes"
+- "almond"
+- "easy"
+- "dessert"
 keywords:
 - "pancakes"
 - "spaghetti style"

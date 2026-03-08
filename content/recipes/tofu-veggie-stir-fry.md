@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "stir-fry"
 - "tofu"
-- "vegetables"
-- "Asian-inspired"
-- "vegan"
-- "gluten-free"
-- "quick meals"
+- "vegetarian"
+- "asian"
+- "mushroom"
+- "broccoli"
 keywords:
 - "tofu stir-fry"
 - "vegetable stir-fry"

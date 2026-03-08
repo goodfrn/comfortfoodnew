@@ -15,15 +15,11 @@ totalTime: PT80M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "chocolate"
-- "pudding cake"
-- "baking"
-- "vegetarian"
-- "French-Canadian"
-- "molasses"
-- "espresso"
-- "bittersweet chocolate"
+- "cake"
+- "dessert"
+- "easy"
+- "homemade"
 keywords:
 - "chocolate pudding"
 - "layered chocolate cake"

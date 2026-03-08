@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "dumplings"
-- "appetizers"
-- "Asian cuisine"
-- "snacks"
+- "asian"
+- "pork"
+- "appetizer"
+- "peanut butter"
+- "mushroom"
 keywords:
 - "dumpling recipe"
 - "pork recipe"

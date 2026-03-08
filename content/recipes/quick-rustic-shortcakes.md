@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "shortcakes"
-- "spelt flour"
-- "vegetarian"
-- "rustic baking"
-- "buttermilk"
+- "shortbread"
+- "spelt"
+- "dessert"
+- "easy"
+- "breakfast"
 keywords:
 - "spelt flour"
 - "baking soda cream of tartar"

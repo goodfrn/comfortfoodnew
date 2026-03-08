@@ -16,12 +16,8 @@ recipeYield: "1 loaf"
 categories: ["Breads"]
 tags:
 - "bread"
-- "French"
-- "savory"
-- "herbs"
-- "pancetta"
-- "artisan"
-- "oven-baked"
+- "french"
+- "homemade"
 keywords:
 - "fougasse"
 - "pancetta"

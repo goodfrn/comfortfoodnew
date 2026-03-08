@@ -15,14 +15,11 @@ totalTime: PT25M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "no bake"
 - "lemon"
+- "no bake"
 - "dessert"
-- "frozen"
-- "cream cheese"
 - "easy"
-- "quick"
-- "fruit topping"
+- "summer"
 keywords:
 - "lemon dessert"
 - "cream cheese"

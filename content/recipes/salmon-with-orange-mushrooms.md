@@ -16,10 +16,10 @@ recipeYield: 4
 categories: ["Main Dishes"]
 tags:
 - "salmon"
-- "mushrooms"
-- "healthy"
-- "gluten-free"
-- "quick meal"
+- "roasted"
+- "mushroom"
+- "citrus"
+- "gluten free"
 keywords:
 - "roasted salmon"
 - "herb rice"

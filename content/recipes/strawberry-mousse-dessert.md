@@ -17,9 +17,8 @@ categories: ["Desserts"]
 tags:
 - "dessert"
 - "strawberry"
-- "mousse"
-- "french"
 - "cake"
+- "no bake"
 keywords:
 - "strawberry cake"
 - "dessert mousse"

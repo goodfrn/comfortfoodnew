@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "48 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
-- "mint chocolate"
-- "desserts"
-- "winter treats"
+- "chocolate"
+- "mint"
+- "no bake"
+- "dessert"
 keywords:
 - "mint cookies"
 - "chocolate crisps"

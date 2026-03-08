@@ -15,14 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Beverages"]
 tags:
-- "coffee"
-- "iced drink"
-- "cold foam"
+- "drink"
+- "coffee cake"
 - "vanilla"
-- "white chocolate"
+- "chocolate"
 - "espresso"
-- "caramel"
-- "gourmet coffee"
 keywords:
 - "white chocolate mocha"
 - "vanilla cold foam"

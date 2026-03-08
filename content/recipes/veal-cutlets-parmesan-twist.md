@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "veal recipes"
-- "breaded cutlets"
-- "quick sear"
-- "gluten-free substitution"
+- "veal"
+- "italian"
+- "cheese"
+- "eggs"
+- "spinach"
 keywords:
 - "veal cutlets"
 - "pecorino romano"

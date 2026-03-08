@@ -15,13 +15,11 @@ totalTime: PT3H
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "chocolate cake"
+- "chocolate"
+- "cake"
 - "caramel"
-- "buttercream"
-- "layer cake"
-- "French-inspired"
-- "baking tips"
+- "dessert"
+- "homemade"
 keywords:
 - "chocolate cake"
 - "salted caramel"

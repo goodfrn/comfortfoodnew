@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "mac and cheese"
-- "sweet potato"
-- "baked casserole"
 - "comfort food"
-- "spinach"
-- "cheese bake"
+- "cheese"
+- "pasta"
+- "vegetarian"
+- "easy dinner"
 keywords:
 - "sweet potato mac and cheese"
 - "baked mac casserole"

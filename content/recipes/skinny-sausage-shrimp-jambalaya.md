@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "5 servings"
 categories: ["Main Dishes"]
 tags:
-- "Cajun"
-- "Seafood"
-- "Turkey sausage"
-- "Brown rice"
-- "Weeknight dinner"
-- "Low fat"
+- "sausage"
+- "shrimp"
+- "cajun"
+- "healthy"
+- "one pot"
 keywords:
 - "jambalaya"
 - "turkey sausage"

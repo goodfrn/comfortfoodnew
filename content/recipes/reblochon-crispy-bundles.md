@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
+- "cheese"
 - "appetizer"
-- "phyllo dough"
-- "fall flavors"
-- "cheese recipes"
+- "apple"
+- "vegetarian"
+- "easy"
 keywords:
 - "phyllo bundles"
 - "raclette cheese"

@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
 - "veal"
-- "curry"
-- "pear Sauce"
-- "ginger"
-- "pan-seared"
-- "white wine cream"
+- "spice"
+- "pasta"
+- "easy dinner"
+- "peach"
 keywords:
 - "veal cutlets"
 - "curry pears"

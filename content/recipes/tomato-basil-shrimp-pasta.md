@@ -15,11 +15,11 @@ totalTime: PT29M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "seafood"
-- "quick meals"
 - "pasta"
-- "basil"
+- "seafood"
+- "shrimp"
+- "italian"
+- "easy dinner"
 keywords:
 - "shrimp"
 - "basil"

@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "fusion"
 - "salad"
-- "grilled pork"
-- "wild rice"
-- "Asian dressing"
-- "sesame seeds"
-- "healthy meal"
+- "pork"
+- "grilling"
+- "sesame"
+- "asian"
 keywords:
 - "wild rice"
 - "grilled pork"

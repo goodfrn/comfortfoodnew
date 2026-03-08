@@ -15,13 +15,11 @@ totalTime: PT1H50M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
-- "vegan"
-- "gluten-free"
-- "fall recipes"
-- "pumpkin"
-- "comfort food"
-- "dairy-free"
 - "soup"
+- "vegetarian"
+- "pumpkin"
+- "spice"
+- "healthy"
 keywords:
 - "pumpkin soup"
 - "coconut oil soup"

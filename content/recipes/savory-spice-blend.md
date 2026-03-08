@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "10 servings"
 categories: ["Snacks"]
 tags:
-- "DIY spice mix"
-- "seed seasoning"
-- "toasted spices"
-- "savory blend"
-- "kitchen tips"
+- "sesame"
+- "spice"
+- "condiment"
+- "easy"
+- "homemade"
 keywords:
 - "spice blend"
 - "seed mix"

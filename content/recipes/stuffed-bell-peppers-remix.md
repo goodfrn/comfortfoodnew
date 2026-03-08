@@ -15,13 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "leftover recipes"
-- "baking"
-- "bell peppers"
+- "vegetarian"
 - "quinoa"
-- "turkey"
-- "home cooking"
-- "easy meals"
+- "side dish"
+- "roasted"
+- "easy dinner"
 keywords:
 - "stuffed bell peppers"
 - "turkey stuffing"

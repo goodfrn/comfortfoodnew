@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "seafood"
 - "pasta"
-- "French-Italian"
-- "lobster stock"
-- "homemade"
+- "lobster"
+- "seafood"
+- "italian"
+- "fennel"
 keywords:
 - "lobster pasta"
 - "tagliolini"

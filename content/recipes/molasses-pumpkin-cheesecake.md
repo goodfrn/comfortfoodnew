@@ -15,13 +15,10 @@ totalTime: PT1H15M
 recipeYield: "15 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "pumpkin"
 - "molasses"
-- "cheesecake"
-- "baking"
-- "autumn treats"
-- "dairy free option"
+- "cinnamon"
+- "fall"
 keywords:
 - "pumpkin molasses bars"
 - "cheesecake bars"

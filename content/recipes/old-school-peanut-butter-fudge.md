@@ -15,11 +15,11 @@ totalTime: PT2H10M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "candy making"
-- "old-school desserts"
-- "peanut butter recipes"
-- "homemade sweets"
-- "American cuisine"
+- "peanut butter"
+- "fudge"
+- "candy"
+- "homemade"
+- "no bake"
 keywords:
 - "peanut butter"
 - "fudge"

@@ -16,12 +16,10 @@ recipeYield: "2 servings"
 categories: ["Seafood"]
 tags:
 - "seafood"
-- "quick meals"
-- "gluten free"
-- "dairy free"
-- "shellfish"
-- "coconut broth"
-- "spiced broth"
+- "coconut"
+- "asian"
+- "easy"
+- "healthy"
 keywords:
 - "mussels"
 - "coconut milk"

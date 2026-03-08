@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "20 buns"
 categories: ["Breads"]
 tags:
-- "baking"
-- "yeast dough"
-- "spiced baked goods"
-- "maple syrup substitutes"
-- "glazing techniques"
+- "bread"
+- "cinnamon"
+- "lemon"
+- "spice"
+- "homemade"
 keywords:
 - "spiced buns"
 - "apricots"

@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
+- "strawberry"
+- "crumble"
 - "air fryer"
 - "dessert"
-- "strawberries"
-- "crumble"
-- "quick recipes"
-- "fruit desserts"
+- "almond"
 keywords:
 - "strawberry crisp"
 - "air fryer recipes"

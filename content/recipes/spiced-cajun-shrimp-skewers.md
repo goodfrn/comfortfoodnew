@@ -16,10 +16,10 @@ recipeYield: 16 skewers
 categories: ["Seafood"]
 tags:
 - "shrimp"
-- "Cajun"
+- "cajun"
+- "spicy"
 - "grilling"
-- "skewers"
-- "healthy"
+- "gluten free"
 keywords:
 - "smoked paprika"
 - "chipotle shrimp"

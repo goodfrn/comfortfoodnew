@@ -15,12 +15,10 @@ totalTime: PT30M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
-- "quesadilla"
-- "turkey recipe"
-- "mushroom"
-- "Québec cheese"
-- "leftover recipe"
-- "cranberry jam"
+- "mexican"
+- "cheese"
+- "easy dinner"
+- "turkey"
 keywords:
 - "turkey quesadilla"
 - "mushroom quesadilla"

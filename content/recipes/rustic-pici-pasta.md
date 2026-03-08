@@ -15,11 +15,11 @@ totalTime: PT47M
 recipeYield: 4 servings
 categories: ["Pasta and Noodles"]
 tags:
+- "italian"
 - "pasta"
-- "Italian cuisine"
 - "homemade"
-- "vegetarian"
-- "healthy"
+- "spelt"
+- "chickpeas"
 keywords:
 - "rustic pasta"
 - "Italian recipe"

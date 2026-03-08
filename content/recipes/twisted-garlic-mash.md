@@ -15,10 +15,10 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "French-inspired"
-- "mashed potatoes"
-- "olive oil"
-- "shallots"
+- "potato"
+- "side dish"
+- "vegetarian"
+- "easy"
 - "comfort food"
 keywords:
 - "red potatoes"

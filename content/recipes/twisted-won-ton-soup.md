@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Chinese fusion"
-- "dumplings"
-- "freezer meals"
-- "ground chicken"
-- "mushroom broth"
+- "asian"
+- "soup"
+- "chicken"
+- "sesame"
+- "easy dinner"
 keywords:
 - "won-ton soup"
 - "chicken dumplings"

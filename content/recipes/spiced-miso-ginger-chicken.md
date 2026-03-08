@@ -15,10 +15,11 @@ totalTime: PT27M
 recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
-- "grilled"
-- "healthy chicken"
-- "weeknight dinner"
-- "asian fusion"
+- "chicken"
+- "asian"
+- "spicy"
+- "grilling"
+- "easy dinner"
 keywords:
 - "chicken marinade"
 - "ginger chicken"

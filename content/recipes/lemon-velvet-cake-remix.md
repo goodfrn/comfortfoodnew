@@ -15,12 +15,10 @@ totalTime: PT1H40M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "lemon cake"
-- "cream cheese frosting"
-- "coconut oil"
-- "dessert"
-- "American cuisine"
+- "cake"
+- "lemon"
+- "coconut"
+- "vanilla"
 keywords:
 - "lemon cake"
 - "mascarpone frosting"

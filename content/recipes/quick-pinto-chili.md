@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "vegan"
-- "gluten-free"
-- "bean chili"
-- "quick meals"
-- "smoky chili"
-- "weeknight dinner"
+- "chili"
+- "spice"
+- "easy dinner"
+- "one pot"
+- "comfort food"
 keywords:
 - "pinto beans"
 - "smoked paprika"

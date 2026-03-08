@@ -15,10 +15,10 @@ totalTime: PT6H33M
 recipeYield: "8 popsicles"
 categories: ["Frozen Treats"]
 tags:
-- "frozen treats"
-- "summer snacks"
-- "fruit desserts"
-- "yogurt recipes"
+- "strawberry"
+- "dessert"
+- "summer"
+- "no bake"
 keywords:
 - "strawberry"
 - "yogurt"

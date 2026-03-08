@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "meringue"
+- "tart"
 - "lemon"
-- "baking tips"
-- "pastry"
+- "dessert"
+- "citrus"
+- "cocktail"
 keywords:
 - "lemon tart"
 - "Swiss meringue"

@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "steak"
-- "marinade"
-- "broiling"
-- "potatoes"
-- "red wine sauce"
-- "American cuisine"
+- "beef"
+- "easy dinner"
+- "lemon"
+- "main dish"
 keywords:
 - "flank steak marinade"
 - "broiled steak cooking times"

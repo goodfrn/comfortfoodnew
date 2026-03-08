@@ -15,12 +15,10 @@ totalTime: PT2H35M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
+- "cake"
+- "strawberry"
 - "dessert"
-- "berry cake"
-- "layer cake"
-- "cream cheese frosting"
-- "fruit reduction"
+- "homemade"
 keywords:
 - "strawberry cake"
 - "gelatin batter"

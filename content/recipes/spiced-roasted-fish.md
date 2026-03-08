@@ -15,13 +15,11 @@ totalTime: PT53M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
 - "seafood"
-- "healthy dinner"
-- "gluten-free"
-- "dairy-free"
-- "quick roast"
-- "spice rub"
+- "roasted"
+- "spicy"
+- "healthy"
+- "easy dinner"
 keywords:
 - "roasted fish"
 - "carrot purée"

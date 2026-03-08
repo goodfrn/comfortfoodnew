@@ -15,14 +15,10 @@ totalTime: PT2H25M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
+- "cheese"
 - "dessert"
-- "cheesecake"
-- "maple"
-- "pear"
-- "French Canadian"
-- "baking tips"
-- "brown butter"
-- "water bath"
+- "fall"
 keywords:
 - "maple cheesecake"
 - "pear dessert"

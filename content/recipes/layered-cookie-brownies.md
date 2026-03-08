@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "brownies"
 - "cookies"
 - "chocolate"
-- "baking tips"
+- "dessert"
+- "no bake"
 keywords:
 - "brownie"
 - "cookie crumbs"

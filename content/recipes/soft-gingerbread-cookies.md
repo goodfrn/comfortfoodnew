@@ -15,11 +15,10 @@ totalTime: PT31M
 recipeYield: "30 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "holiday cookies"
-- "gingerbread"
-- "baking tips"
-- "spiced cookies"
+- "cookies"
+- "cinnamon"
+- "molasses"
+- "homemade"
 keywords:
 - "gingerbread cookies"
 - "cream cheese frosting"

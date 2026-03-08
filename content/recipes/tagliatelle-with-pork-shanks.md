@@ -17,8 +17,8 @@ categories: ["Main Dishes"]
 tags:
 - "pasta"
 - "pork"
-- "weeknight meals"
-- "French cuisine"
+- "italian"
+- "slow cooker"
 - "comfort food"
 keywords:
 - "pasta recipe"

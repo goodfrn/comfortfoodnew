@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Japanese-inspired"
-- "grill"
-- "foil cooking"
-- "healthy dinner"
-- "seafood"
-- "quick meals"
+- "salmon"
+- "asian"
+- "healthy"
+- "one pot"
+- "salmon"
 keywords:
 - "salmon miso"
 - "foil packets"

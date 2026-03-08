@@ -15,14 +15,11 @@ totalTime: PT47M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Korean"
-- "stir-fry"
+- "korean"
 - "spicy"
-- "rice cakes"
+- "rice"
 - "pork"
-- "gochujang"
-- "one-pan"
-- "homestyle"
+- "easy dinner"
 keywords:
 - "rice cakes"
 - "ground pork"

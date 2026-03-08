@@ -15,14 +15,11 @@ totalTime: PT1H40M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
+- "chocolate"
 - "dessert"
-- "chocolate cake"
-- "rum"
-- "chantilly"
-- "griottes"
-- "almond flour"
-- "French-Austrian fusion"
 - "espresso"
+- "almond"
 keywords:
 - "Black Forest cake"
 - "almond flour cake"

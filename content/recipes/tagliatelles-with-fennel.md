@@ -15,10 +15,11 @@ totalTime: PT43M
 recipeYield: 4
 categories: ["Pasta and Noodles"]
 tags:
-- "Italian"
-- "Pasta"
-- "Vegetarian"
-- "Comfort food"
+- "pasta"
+- "italian"
+- "vegetarian"
+- "walnut"
+- "fennel"
 keywords:
 - "fennel"
 - "tagliatelle"

@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "pasta salad"
-- "avocado recipes"
-- "tuna dishes"
-- "French-inspired"
-- "summer salads"
+- "pasta"
+- "salad"
+- "tuna"
+- "avocado"
+- "healthy"
 keywords:
 - "rotini salad"
 - "tuna avocado pasta"

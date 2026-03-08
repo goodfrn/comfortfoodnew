@@ -15,12 +15,11 @@ totalTime: PT1H15M
 recipeYield: "16 servings"
 categories: ["Breads"]
 tags:
-- "quick bread"
-- "fruit bread"
-- "pecans"
+- "bread"
+- "strawberry"
+- "pecan"
 - "cinnamon"
-- "honey"
-- "baking tips"
+- "homemade"
 keywords:
 - "strawberry bread"
 - "nut loaf"

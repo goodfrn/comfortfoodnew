@@ -15,14 +15,11 @@ totalTime: PT19M
 recipeYield: "36 pieces"
 categories: ["Desserts"]
 tags:
-- "snack"
-- "dessert"
-- "white chocolate"
-- "almond"
-- "pretzel"
-- "cranberry"
+- "chocolate"
 - "no bake"
-- "chilling technique"
+- "cranberry"
+- "pistachio"
+- "pretzel"
 keywords:
 - "cranberry bars"
 - "white chocolate snacks"

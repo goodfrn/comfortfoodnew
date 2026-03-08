@@ -15,11 +15,10 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Southern American"
 - "pasta"
-- "tomato sauce"
-- "bacon grease"
+- "bacon"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "elbow macaroni"
 - "fire-roasted tomatoes"

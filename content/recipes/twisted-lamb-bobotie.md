@@ -15,11 +15,11 @@ totalTime: PT105M
 recipeYield: "4-6 servings"
 categories: ["Main Dishes"]
 tags:
-- "South African"
-- "baked casserole"
-- "ground meat"
-- "walnuts"
-- "mango chutney"
+- "lamb"
+- "comfort food"
+- "main dish"
+- "spice"
+- "walnut"
 keywords:
 - "bobotie"
 - "lamb recipe"

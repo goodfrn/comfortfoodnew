@@ -15,12 +15,11 @@ totalTime: PT22M
 recipeYield: "8 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "Southern cooking"
-- "gravy"
-- "tomato sauce"
-- "bacon fat"
-- "fire-roasted tomatoes"
 - "comfort food"
+- "gravy"
+- "bacon"
+- "southern"
+- "side dish"
 keywords:
 - "tomato gravy"
 - "bacon grease"

@@ -15,11 +15,10 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "pickling"
-- "carrots"
-- "quick recipes"
-- "French-inspired"
-- "fermentation-safe"
+- "condiment"
+- "easy"
+- "vegetarian"
+- "vegan"
 keywords:
 - "pickled carrots"
 - "quick pickle"

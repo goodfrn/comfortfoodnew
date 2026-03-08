@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Tunisian"
-- "Fish"
-- "Couscous"
-- "Harissa"
-- "North African"
-- "Spicy"
-- "Seafood"
+- "couscous"
+- "seafood"
+- "moroccan"
+- "harissa"
+- "chickpeas"
 keywords:
 - "fish couscous"
 - "Tunisian cuisine"

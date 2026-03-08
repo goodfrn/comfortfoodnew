@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "2 servings"
 categories: ["Frozen Treats"]
 tags:
-- "milkshake"
+- "drink"
 - "dessert"
-- "American"
-- "mint"
-- "Oreo"
 - "chocolate"
+- "mint"
+- "no bake"
 keywords:
 - "Oreo shake"
 - "mint ice cream shake"

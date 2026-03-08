@@ -15,11 +15,11 @@ totalTime: PT33M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American chili"
-- "lean meat"
-- "one pot meal"
-- "ground turkey"
-- "easy weeknight meal"
+- "chili"
+- "turkey"
+- "comfort food"
+- "spicy"
+- "one pot"
 keywords:
 - "turkey chili"
 - "ground turkey recipes"

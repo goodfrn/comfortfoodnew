@@ -16,10 +16,10 @@ recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "snacks"
 - "pumpkin"
-- "fall recipes"
-- "easy recipes"
+- "eggs"
+- "fall"
+- "spice"
 keywords:
 - "deviled eggs"
 - "pumpkin puree"

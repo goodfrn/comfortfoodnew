@@ -15,12 +15,11 @@ totalTime: PT90M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetables"
-- "side dish"
-- "glazed beets"
-- "French-inspired"
+- "beet"
 - "citrus"
-- "herbs"
+- "side dish"
+- "vegetarian"
+- "easy"
 keywords:
 - "glazed beets"
 - "beet cubes"

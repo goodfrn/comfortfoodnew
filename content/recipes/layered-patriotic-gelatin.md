@@ -15,11 +15,10 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "gelatin"
-- "summer"
-- "American"
-- "layered dessert"
+- "holiday"
+- "dessert"
+- "no bake"
 keywords:
 - "gelatin dessert"
 - "layered gelatin"

@@ -17,10 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "peanut butter"
+- "chocolate"
+- "easy"
 - "dessert"
-- "baking"
-- "American cuisine"
-- "snacks"
 keywords:
 - "peanut butter cookies"
 - "mini muffin cookies"

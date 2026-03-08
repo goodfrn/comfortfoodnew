@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
+- "crab"
 - "seafood"
-- "baking"
-- "broiling"
-- "American cuisine"
-- "crab recipes"
+- "appetizer"
+- "bread"
+- "easy dinner"
 keywords:
 - "crab bake"
 - "sourdough toast"

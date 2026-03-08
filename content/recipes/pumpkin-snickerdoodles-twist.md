@@ -15,12 +15,11 @@ totalTime: PT32M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "Pumpkin"
-- "Snickerdoodles"
-- "Cardamom"
-- "Baking"
-- "Cookies"
-- "Fall Flavors"
+- "cookies"
+- "pumpkin"
+- "cinnamon"
+- "spice"
+- "fall"
 keywords:
 - "pumpkin snickerdoodles"
 - "cardamom cinnamon cookies"

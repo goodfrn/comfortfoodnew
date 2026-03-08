@@ -15,12 +15,11 @@ totalTime: PT720M
 recipeYield: "8 servings"
 categories: ["Frozen Treats"]
 tags:
-- "ice cream"
-- "no churn"
-- "peppermint"
-- "dessert"
-- "frozen treat"
+- "no bake"
+- "vanilla"
 - "homemade"
+- "no bake"
+- "dessert"
 keywords:
 - "peppermint candy"
 - "whipped cream"

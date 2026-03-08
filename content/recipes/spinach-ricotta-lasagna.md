@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "lasagna"
+- "pasta"
 - "spinach"
 - "ricotta"
-- "whole wheat"
-- "smoked gouda"
-- "baking tips"
+- "cheese"
+- "italian"
 keywords:
 - "ricotta lasagna"
 - "thyme tomato sauce"

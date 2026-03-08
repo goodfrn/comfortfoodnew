@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "14 servings"
 categories: ["Desserts"]
 tags:
-- "Canadian-inspired"
-- "spiced cake"
-- "Bundt cake"
-- "whiskey dessert"
-- "maple syrup"
-- "holiday baking"
+- "cake"
+- "cinnamon"
+- "comfort food"
+- "spice"
+- "homemade"
 keywords:
 - "maple syrup cake"
 - "cardamom cinnamon cake"

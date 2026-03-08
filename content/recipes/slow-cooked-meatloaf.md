@@ -15,13 +15,11 @@ totalTime: PT4H35M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "meatloaf"
 - "slow cooker"
+- "meatloaf"
+- "beef"
 - "comfort food"
-- "American cuisine"
 - "easy dinner"
-- "glaze"
-- "smoky flavor"
 keywords:
 - "ground beef meatloaf"
 - "slow cooker meatloaf"

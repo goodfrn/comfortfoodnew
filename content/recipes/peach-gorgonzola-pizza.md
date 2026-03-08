@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "4 servings"
 categories: ["Pizza and Flatbreads"]
 tags:
-- "Italian-American"
-- "blue cheese"
-- "fruit pizza"
-- "savory-sweet"
-- "thin crust"
+- "pizza"
+- "peach"
+- "cheese"
+- "grilling"
+- "italian"
 keywords:
 - "peach pizza"
 - "gorgonzola"

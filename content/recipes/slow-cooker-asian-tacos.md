@@ -15,10 +15,10 @@ totalTime: PT4H5M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "chicken"
+- "asian"
 - "slow cooker"
-- "Asian fusion"
-- "chicken tacos"
-- "slow cooked chicken"
+- "tacos"
 - "easy dinner"
 keywords:
 - "slow cooker chicken"

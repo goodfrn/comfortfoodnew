@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Italian-inspired"
-- "dessert"
-- "coffee"
 - "ricotta"
-- "amaretto"
-- "light texture"
+- "coffee cake"
+- "dessert"
+- "no bake"
+- "espresso"
 keywords:
 - "ricotta tiramisu"
 - "coffee dessert"

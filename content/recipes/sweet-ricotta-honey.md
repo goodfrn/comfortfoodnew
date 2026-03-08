@@ -15,15 +15,11 @@ totalTime: PT4H15M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "chilled dessert"
-- "vegetarian"
-- "gluten free"
-- "egg free"
 - "ricotta"
 - "honey"
 - "cinnamon"
-- "ginger"
+- "vanilla"
+- "dessert"
 keywords:
 - "ricotta cheese"
 - "honey dessert"

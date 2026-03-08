@@ -15,15 +15,10 @@ totalTime: PT1H5M
 recipeYield: "4 to 6 servings"
 categories: ["Breakfast"]
 tags:
-- "vegetarian"
-- "French-inspired"
-- "brunch"
-- "maple syrup"
-- "omelette"
+- "omelet"
+- "cheese"
+- "eggs"
 - "popcorn"
-- "herb salad"
-- "gluten free"
-- "nut free"
 keywords:
 - "souffle omelette"
 - "cheddar cheese eggs"

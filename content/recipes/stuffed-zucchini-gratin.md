@@ -15,11 +15,11 @@ totalTime: PT1H23M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "baked dishes"
-- "vegetable stuffing"
-- "ground beef recipes"
-- "mozzarella cheese"
+- "beef"
+- "zucchini"
+- "cheese"
+- "mushroom"
+- "main dish"
 keywords:
 - "zucchini recipe"
 - "stuffed vegetables"

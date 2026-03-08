@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "Mexican cuisine"
-- "brunch"
-- "baked eggs"
-- "Monterey Jack"
-- "avocado salsa"
+- "omelet"
+- "mexican"
+- "vegetarian"
+- "breakfast"
+- "easy"
 keywords:
 - "soufflé omelette"
 - "Mexican omelette"

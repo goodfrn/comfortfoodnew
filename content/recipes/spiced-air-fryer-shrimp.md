@@ -15,12 +15,11 @@ totalTime: PT14M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "Air Fryer"
-- "Shrimp"
-- "Blackened"
-- "Southern Cuisine"
-- "Seafood"
-- "Quick Meals"
+- "seafood"
+- "shrimp"
+- "spicy"
+- "air fryer"
+- "easy dinner"
 keywords:
 - "air fryer shrimp"
 - "blackened shrimp"

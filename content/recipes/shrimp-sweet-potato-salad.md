@@ -15,14 +15,10 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "seafood"
-- "air fryer"
+- "shrimp"
 - "salad"
-- "gluten free"
-- "dairy free"
-- "quick meals"
-- "healthy"
-- "French-inspired"
+- "air fryer"
+- "citrus"
 keywords:
 - "shrimp salad"
 - "sweet potato salad"

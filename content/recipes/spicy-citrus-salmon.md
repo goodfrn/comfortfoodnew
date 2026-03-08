@@ -15,11 +15,11 @@ totalTime: PT15M
 recipeYield: "2 servings"
 categories: ["Seafood"]
 tags:
-- "air fryer"
 - "salmon"
-- "spicy seafood"
-- "quick meals"
-- "American fusion"
+- "spicy"
+- "citrus"
+- "air fryer"
+- "easy dinner"
 keywords:
 - "air fried salmon"
 - "spicy salmon recipe"

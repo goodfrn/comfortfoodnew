@@ -16,10 +16,10 @@ recipeYield: 4 to 5 servings
 categories: ["Desserts"]
 tags:
 - "vegan"
-- "gluten-free"
+- "chai"
+- "cinnamon"
 - "dessert"
-- "creme brulee"
-- "chai spices"
+- "spice"
 keywords:
 - "spiced custard"
 - "caramelized sugar"

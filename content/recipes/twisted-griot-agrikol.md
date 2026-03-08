@@ -15,13 +15,11 @@ totalTime: PT2H35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Haitian"
 - "pork"
+- "caribbean"
+- "slow cooker"
 - "spicy"
-- "slow-cooked"
-- "fried"
-- "fusion"
-- "gluten-free"
+- "citrus"
 keywords:
 - "pork shoulder"
 - "Scotch bonnet"

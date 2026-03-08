@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cake"
-- "buttermilk"
-- "yellow cake"
-- "sheet cake"
+- "comfort food"
 - "dessert"
+- "easy"
+- "homemade"
 keywords:
 - "yellow cake"
 - "buttermilk baking"

@@ -15,11 +15,11 @@ totalTime: PT47M
 recipeYield: "5 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "fried chicken"
-- "crispy chicken"
-- "chicken tenders"
-- "quick dinner"
+- "chicken"
+- "comfort food"
+- "fried"
+- "easy dinner"
+- "snack"
 keywords:
 - "saltine cracker crust"
 - "chicken tender marinade"

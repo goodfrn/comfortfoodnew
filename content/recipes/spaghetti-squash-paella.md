@@ -15,13 +15,11 @@ totalTime: PT1H40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean fusion"
+- "italian"
 - "seafood"
-- "pescatarian"
-- "low carb"
-- "gluten free"
-- "spicy"
-- "winter meals"
+- "healthy"
+- "one pot"
+- "seafood"
 keywords:
 - "spaghetti squash"
 - "seafood paella"

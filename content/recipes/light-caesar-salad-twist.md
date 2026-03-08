@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "healthy lunch"
 - "tofu"
-- "bacon"
-- "French influenced"
-- "quick meals"
+- "vegetarian"
+- "easy"
+- "bread"
 keywords:
 - "Caesar salad"
 - "tofu mayo"

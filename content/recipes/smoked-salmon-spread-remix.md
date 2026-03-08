@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "appetizer"
 - "seafood"
-- "spread"
-- "easy recipes"
-- "make ahead"
+- "appetizer"
+- "lemon"
+- "salmon"
+- "easy"
 keywords:
 - "smoked salmon"
 - "cream cheese"

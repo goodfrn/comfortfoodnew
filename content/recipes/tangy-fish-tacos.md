@@ -15,11 +15,11 @@ totalTime: PT38M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "Mexican-inspired"
-- "quick meals"
-- "seafood tacos"
-- "spicy dishes"
-- "fresh herbs"
+- "tacos"
+- "seafood"
+- "mexican"
+- "easy"
+- "spicy"
 keywords:
 - "fish tacos"
 - "lime juice"

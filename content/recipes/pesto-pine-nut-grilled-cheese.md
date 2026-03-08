@@ -15,13 +15,11 @@ totalTime: PT13M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "grilled cheese"
-- "pesto"
-- "pine nuts"
-- "skillet cooking"
-- "American-Italian"
-- "sourdough bread"
 - "sandwich"
+- "cheese"
+- "pesto"
+- "grilling"
+- "comfort food"
 keywords:
 - "grilled cheese sandwich"
 - "pesto sandwich"

@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "Italian fusion"
-- "seafood dishes"
-- "spicy recipes"
-- "one pot meals"
-- "gluten free"
-- "dairy free"
+- "sausage"
+- "spicy"
+- "mushroom"
+- "one pot"
+- "comfort food"
 keywords:
 - "sausage escargots"
 - "mushroom tomato stew"

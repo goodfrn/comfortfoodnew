@@ -18,7 +18,8 @@ tags:
 - "tofu"
 - "sandwich"
 - "vegetarian"
-- "quick meal"
+- "bacon"
+- "easy"
 keywords:
 - "tofu bacon"
 - "healthy sandwich"

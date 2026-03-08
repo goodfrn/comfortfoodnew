@@ -18,10 +18,8 @@ tags:
 - "cookies"
 - "caramel"
 - "chocolate"
-- "cream cheese"
-- "baking"
-- "American desserts"
-- "snacks"
+- "comfort food"
+- "easy"
 keywords:
 - "Twix cookies"
 - "caramel cookies"

@@ -15,14 +15,11 @@ totalTime: PT1H50M
 recipeYield: "12 meatballs as side or 6 as main"
 categories: ["Main Dishes"]
 tags:
-- "meatballs"
 - "pork"
-- "mushrooms"
-- "French-inspired"
-- "cream sauce"
-- "garam masala"
-- "baked"
-- "gluten-free"
+- "meatball"
+- "mushroom"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "pork meatballs"
 - "mushroom sauce"

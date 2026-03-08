@@ -15,9 +15,11 @@ totalTime: PT45M
 recipeYield: 4 servings
 categories: ["Frozen Treats"]
 tags:
-- "dessert"
-- "tropical"
-- "vegan"
+- "coconut"
+- "summer"
+- "drink"
+- "easy"
+- "no bake"
 keywords:
 - "mango dessert"
 - "coconut milk recipe"

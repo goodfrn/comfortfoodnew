@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "5 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "snack"
-- "side dish"
-- "potato recipes"
-- "bacon dishes"
+- "comfort food"
+- "potato"
+- "bacon"
+- "cheese"
+- "appetizer"
 keywords:
 - "potato rounds"
 - "cheddar bacon"

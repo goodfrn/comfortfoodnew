@@ -15,11 +15,11 @@ totalTime: PT00H55M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
-- "grilled chicken"
-- "vegetable salad"
-- "quick meals"
-- "healthy eating"
+- "salad"
+- "chicken"
+- "grilling"
+- "healthy"
+- "spicy"
 keywords:
 - "rapini salad"
 - "grilled chicken"

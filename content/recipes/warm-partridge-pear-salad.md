@@ -16,10 +16,8 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "gluten free"
-- "French cuisine"
-- "warm salad"
-- "healthy meal"
+- "walnut"
+- "spinach"
 keywords:
 - "salad recipe"
 - "partridge confit"

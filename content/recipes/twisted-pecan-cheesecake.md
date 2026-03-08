@@ -15,12 +15,10 @@ totalTime: PT15H
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
+- "pecan"
+- "cake"
 - "dessert"
-- "cheesecake"
-- "pecans"
-- "baking"
-- "American cuisine"
-- "nutty desserts"
+- "comfort food"
 keywords:
 - "pecan cheesecake"
 - "pecan pie filling"

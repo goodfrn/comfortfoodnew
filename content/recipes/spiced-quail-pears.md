@@ -15,12 +15,10 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "game birds"
-- "fruit pairings"
-- "slow roasting"
-- "spiced sauce"
-- "wild game"
+- "roasted"
+- "spice"
+- "cinnamon"
+- "caramel"
 keywords:
 - "quail recipe"
 - "pear roasting"

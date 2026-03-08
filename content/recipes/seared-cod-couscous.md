@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "seafood"
-- "quick dinner"
-- "French-inspired"
+- "couscous"
 - "citrus"
-- "healthy meal"
+- "mediterranean"
+- "healthy"
 keywords:
 - "cod fillets"
 - "pesto couscous"

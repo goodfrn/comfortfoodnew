@@ -15,11 +15,11 @@ totalTime: PT49M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "vegetarian"
-- "snack bars"
 - "breakfast"
 - "homemade"
-- "baking tips"
+- "healthy"
+- "oatmeal"
+- "almond"
 keywords:
 - "oat clusters"
 - "grated carrot apple"

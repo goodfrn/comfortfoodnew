@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
+- "no bake"
 - "pumpkin"
-- "no-bake"
+- "pie"
 - "dessert"
-- "fall recipes"
-- "quick desserts"
-- "cream cheese"
-- "instant pudding"
+- "easy"
 keywords:
 - "pumpkin pie"
 - "no bake dessert"

@@ -15,16 +15,11 @@ totalTime: PT2H10M
 recipeYield: "10 servings"
 categories: ["Appetizers"]
 tags:
-- "French"
 - "pork"
-- "terrine"
-- "gamey"
-- "charcuterie"
-- "slow cooked"
-- "water bath"
-- "dried fruit"
-- "liver"
-- "cassis"
+- "appetizer"
+- "homemade"
+- "french"
+- "rum"
 keywords:
 - "pork cassis terrine"
 - "rum pork terrine"

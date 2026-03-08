@@ -15,11 +15,10 @@ totalTime: PT45M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "banana desserts"
-- "layer cakes"
-- "southern baking"
-- "pudding cakes"
-- "cream cheese frosting"
+- "cake"
+- "banana"
+- "dessert"
+- "comfort food"
 keywords:
 - "banana pudding cake"
 - "southern banana cake"

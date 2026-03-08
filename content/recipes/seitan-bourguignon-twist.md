@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegan"
-- "plant-based"
-- "French-inspired"
-- "seitan"
-- "stew"
-- "glazed onions"
-- "mushrooms"
+- "comfort food"
+- "mushroom"
+- "one pot"
+- "slow cooker"
 keywords:
 - "seitan bourguignon"
 - "vegan stew"

@@ -15,12 +15,9 @@ totalTime: PT1H45M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast"
 - "veal"
-- "French-inspired"
-- "mustard sauce"
-- "slow-cooked vegetables"
-- "garlic sauce"
+- "roasted"
+- "easy dinner"
 keywords:
 - "veal roast"
 - "mustard glaze"

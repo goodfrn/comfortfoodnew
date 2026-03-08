@@ -15,13 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "salad dressing"
-- "vinaigrette"
 - "citrus"
-- "olive oil"
-- "maple syrup"
-- "no-cook"
-- "marinade"
+- "condiment"
+- "healthy"
+- "lemon"
+- "salad"
 keywords:
 - "vinaigrette"
 - "citrus dressing"

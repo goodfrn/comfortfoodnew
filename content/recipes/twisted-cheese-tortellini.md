@@ -15,11 +15,11 @@ totalTime: PT33M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "one-pan meal"
-- "quick pasta"
-- "weeknight dinner"
+- "pasta"
+- "cheese"
 - "comfort food"
+- "easy dinner"
+- "italian"
 keywords:
 - "tortellini"
 - "leek"

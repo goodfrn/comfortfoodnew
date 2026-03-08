@@ -15,14 +15,11 @@ totalTime: PT33M
 recipeYield: "about 1 cup"
 categories: ["Sauces and Condiments"]
 tags:
-- "fusion sauce"
-- "spicy-sweet"
-- "gluten-free"
-- "vegan friendly"
-- "dairy-free"
-- "gluten-free"
-- "easy sauce"
-- "homemade sauce"
+- "condiment"
+- "gluten free"
+- "vegan"
+- "spicy"
+- "honey"
 keywords:
 - "sweet pepper sauce"
 - "habanero sauce"

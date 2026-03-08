@@ -15,9 +15,11 @@ totalTime: PT28M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
+- "tofu"
+- "salad"
+- "peanut butter"
+- "asian"
 - "vegan"
-- "quick meals"
-- "Asian fusion"
 keywords:
 - "tofu recipes"
 - "cold salads"

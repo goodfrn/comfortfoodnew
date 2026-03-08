@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "fall recipes"
+- "pumpkin"
+- "pasta"
+- "cheese"
+- "fall"
 - "comfort food"
-- "one pot meals"
-- "baked pasta"
-- "pumpkin recipes"
 keywords:
 - "mac and cheese"
 - "pumpkin puree"

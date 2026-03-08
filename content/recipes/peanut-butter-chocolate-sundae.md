@@ -15,13 +15,11 @@ totalTime: PT85M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "no-churn"
-- "ice cream"
-- "dessert"
 - "chocolate"
 - "peanut butter"
-- "fudge"
-- "easy dessert"
+- "no bake"
+- "dessert"
+- "comfort food"
 keywords:
 - "peanut butter"
 - "chocolate ice cream"

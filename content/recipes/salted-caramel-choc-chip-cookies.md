@@ -16,12 +16,10 @@ recipeYield: "12 cookies"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
+- "chocolate"
 - "caramel"
-- "brown butter"
-- "chocolate chip"
-- "sea salt"
-- "dessert"
+- "comfort food"
+- "easy"
 keywords:
 - "brown butter"
 - "caramel bits"

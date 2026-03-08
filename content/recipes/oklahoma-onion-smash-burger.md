@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "burger"
-- "smash burger"
-- "American cuisine"
-- "caramelized onions"
-- "secret sauce"
-- "beef patties"
+- "beef"
+- "bacon"
+- "caramel"
+- "american"
 keywords:
 - "onion smash burger"
 - "ground chuck burger"

@@ -15,12 +15,11 @@ totalTime: PT1H12M
 recipeYield: "20 servings"
 categories: ["Desserts"]
 tags:
-- "American"
 - "cookies"
-- "baking tips"
-- "walnuts"
-- "oats"
-- "spiced desserts"
+- "comfort food"
+- "oatmeal"
+- "walnut"
+- "easy"
 keywords:
 - "cowboy cookies"
 - "old-fashioned oats"

@@ -15,12 +15,11 @@ totalTime: PT22M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
+- "chocolate"
 - "no bake"
-- "cheesecake"
-- "chocolate dessert"
-- "easy recipes"
-- "American dessert"
-- "cool desserts"
+- "cheese"
+- "dessert"
+- "easy"
 keywords:
 - "no bake cheesecake"
 - "chocolate cheesecake"

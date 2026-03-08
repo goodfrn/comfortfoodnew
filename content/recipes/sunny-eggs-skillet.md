@@ -15,11 +15,11 @@ totalTime: PT8M
 recipeYield: "1 serving"
 categories: ["Breakfast"]
 tags:
-- "eggs"
-- "French cuisine"
-- "fondue cooking"
 - "breakfast"
-- "simple recipes"
+- "eggs"
+- "easy"
+- "fondue"
+- "healthy"
 keywords:
 - "eggs skillet"
 - "soft yolk eggs"

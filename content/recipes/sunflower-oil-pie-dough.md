@@ -15,11 +15,11 @@ totalTime: PT70M
 recipeYield: "1 9-inch pie crust"
 categories: ["Desserts"]
 tags:
+- "pie"
 - "vegan"
-- "pie crust"
-- "oil based dough"
-- "baking tips"
-- "gluten control"
+- "easy"
+- "bread"
+- "homemade"
 keywords:
 - "pie dough"
 - "vegan crust"

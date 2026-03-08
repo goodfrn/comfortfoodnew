@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "caramel"
 - "blondies"
-- "butterscotch"
+- "caramel"
+- "chocolate"
+- "easy"
+- "dessert"
 keywords:
 - "blondies recipe"
 - "salted caramel dessert"

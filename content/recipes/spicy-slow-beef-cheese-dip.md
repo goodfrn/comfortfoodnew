@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "slow cooker"
-- "Tex-Mex"
-- "cheese dip"
-- "beef recipes"
-- "party food"
+- "beef"
+- "cheese"
+- "spicy"
+- "appetizer"
 keywords:
 - "ground beef dip"
 - "slow cooker dip"

@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "25 cubes"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "confection"
-- "gelatin"
-- "marshmallow"
+- "candy"
+- "vanilla"
 - "citrus"
-- "dessert"
-- "handmade"
+- "homemade"
+- "no bake"
 keywords:
 - "marshmallows"
 - "gelatin"

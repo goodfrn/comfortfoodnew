@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "baking"
-- "Mexican American"
-- "easy meals"
-- "weeknight dinner"
-- "cheese"
 - "salsa"
+- "cheese"
+- "easy dinner"
+- "mexican"
 keywords:
 - "chicken bake"
 - "salsa chicken"

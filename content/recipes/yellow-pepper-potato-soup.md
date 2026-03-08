@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "5 servings"
 categories: ["Soups"]
 tags:
-- "French-Inspired"
-- "vegetarian"
 - "soup"
-- "comfort food"
-- "easy dinner"
-- "smoky flavors"
+- "potato"
+- "vegetarian"
+- "roasted"
+- "healthy"
 keywords:
 - "yellow pepper soup"
 - "vegetable broth soup"

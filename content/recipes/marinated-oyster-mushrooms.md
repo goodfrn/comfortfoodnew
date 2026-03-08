@@ -15,11 +15,11 @@ totalTime: PT47M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "Mediterranean"
-- "antipasti"
-- "mushroom recipes"
+- "mushroom"
+- "appetizer"
 - "vegetarian"
-- "marinated dishes"
+- "mediterranean"
+- "side dish"
 keywords:
 - "oyster mushrooms"
 - "cremini mushrooms"

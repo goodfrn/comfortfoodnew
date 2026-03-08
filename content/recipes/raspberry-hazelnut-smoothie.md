@@ -16,9 +16,10 @@ recipeYield: 2 servings
 categories: ["Breakfast"]
 tags:
 - "smoothie"
-- "healthy"
+- "raspberry"
+- "hazelnut"
+- "banana"
 - "breakfast"
-- "snack"
 keywords:
 - "raspberry"
 - "bananas"

@@ -15,12 +15,11 @@ totalTime: PT26M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "snacks"
-- "candy bars"
-- "seasonal treats"
-- "marshmallows"
-- "rice krispies"
-- "holiday recipes"
+- "candy"
+- "easter"
+- "easy"
+- "no bake"
+- "dessert"
 keywords:
 - "rice krispies"
 - "marshmallow Peeps"

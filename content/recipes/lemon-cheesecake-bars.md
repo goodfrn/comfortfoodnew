@@ -15,11 +15,9 @@ totalTime: PT60M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "lemon dessert"
-- "puff pastry"
-- "cheesecake bars"
-- "baking tips"
-- "dessert bars"
+- "dessert"
+- "lemon"
+- "no bake"
 keywords:
 - "lemon cheesecake bars"
 - "puff pastry dessert"

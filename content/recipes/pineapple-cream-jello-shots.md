@@ -15,11 +15,11 @@ totalTime: PT4H7M
 recipeYield: "24 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "party drinks"
-- "gelatin dessert"
-- "tropical shots"
-- "rum cocktails"
-- "pineapple recipes"
+- "gelatin"
+- "pineapple"
+- "rum"
+- "party"
+- "dessert"
 keywords:
 - "jello shots"
 - "pineapple gelatin"

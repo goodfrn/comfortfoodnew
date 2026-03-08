@@ -15,12 +15,11 @@ totalTime: PT7M
 recipeYield: "36 cookies"
 categories: ["Desserts"]
 tags:
-- "egg-free"
-- "gluten-free"
-- "Royal Icing"
-- "aquafaba"
 - "lemon"
-- "cookie decoration"
+- "vegan"
+- "cookies"
+- "no bake"
+- "easy"
 keywords:
 - "royal icing"
 - "aquafaba"

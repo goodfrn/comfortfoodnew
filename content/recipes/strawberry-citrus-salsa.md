@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "3 servings"
 categories: ["Dips and Spreads"]
 tags:
+- "strawberry"
+- "citrus"
 - "salsa"
-- "summer recipes"
-- "fruit salsa"
-- "jalapeño"
-- "quick prep"
-- "no cook"
+- "appetizer"
+- "summer"
 keywords:
 - "strawberry salsa"
 - "lime juice salsa"

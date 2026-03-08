@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "French-Canadian"
-- "sandwich"
 - "chicken"
-- "chipotle"
-- "smoky"
-- "avocado"
-- "radicchio"
+- "sandwich"
+- "spicy"
+- "easy"
+- "mexican"
 keywords:
 - "guédilles"
 - "chicken sandwich"

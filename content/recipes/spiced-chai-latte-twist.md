@@ -16,12 +16,10 @@ recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
 - "chai"
-- "latte"
-- "fusion"
-- "spices"
-- "beeverage"
-- "warm drink"
-- "oat milk"
+- "spice"
+- "drink"
+- "easy"
+- "vegan"
 keywords:
 - "chai latte"
 - "spiced chai"

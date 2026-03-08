@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
 - "snack"
-- "fusion"
-- "nuts"
-- "white chocolate"
-- "almond butter"
-- "puffed wheat"
-- "tropical fruits"
+- "chocolate"
+- "pretzel"
+- "almond"
+- "no bake"
 keywords:
 - "sweet salty snack"
 - "nut mix"

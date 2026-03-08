@@ -15,12 +15,11 @@ totalTime: PT52M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
 - "chicken"
-- "panko crust"
-- "baked chicken"
+- "italian"
+- "cheese"
 - "comfort food"
-- "weeknight meal"
+- "main dish"
 keywords:
 - "chicken parmesan"
 - "panko breaded chicken"

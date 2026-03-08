@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "1 serving"
 categories: ["Sauces and Condiments"]
 tags:
-- "North African"
-- "condiment"
-- "spicy paste"
 - "harissa"
-- "chili"
-- "smoky flavor"
+- "spice"
+- "condiment"
+- "homemade"
+- "moroccan"
 keywords:
 - "harissa"
 - "chili paste"

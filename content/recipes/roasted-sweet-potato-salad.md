@@ -15,11 +15,11 @@ totalTime: PT1H5M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "roasted vegetables"
-- "fusion salad"
-- "spicy mayo"
-- "cashew crunch"
-- "marinated veggies"
+- "salad"
+- "roasted"
+- "chicken"
+- "healthy"
+- "summer"
 keywords:
 - "sweet potato salad"
 - "broccoli salad"

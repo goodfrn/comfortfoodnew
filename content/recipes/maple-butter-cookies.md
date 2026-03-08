@@ -16,10 +16,8 @@ recipeYield: 36 cookies approx
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "desserts"
-- "maple"
-- "baking"
-- "citrus"
+- "vanilla"
+- "homemade"
 keywords:
 - "cookies recipe"
 - "sweet treats"

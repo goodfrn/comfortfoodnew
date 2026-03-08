@@ -15,14 +15,11 @@ totalTime: PT47M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican"
-- "Casserole"
-- "Enchiladas"
-- "Chicken"
-- "Spinach"
-- "Dinner"
-- "Make-Ahead"
-- "Comfort Food"
+- "chicken"
+- "spinach"
+- "mexican"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "chicken enchiladas"
 - "spinach enchiladas"

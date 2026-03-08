@@ -15,12 +15,10 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Hawaiian"
-- "Asian Fusion"
-- "Seafood"
-- "Quick Meals"
-- "Rice Bowls"
-- "Healthy Eating"
+- "seafood"
+- "asian"
+- "healthy"
+- "easy dinner"
 keywords:
 - "poke bowl"
 - "ahi tuna"

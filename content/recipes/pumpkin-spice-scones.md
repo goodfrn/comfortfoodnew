@@ -15,11 +15,10 @@ totalTime: PT34M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "fall baking"
-- "pumpkin recipes"
-- "breakfast scones"
-- "baking tips"
-- "seasonal desserts"
+- "pumpkin"
+- "fall"
+- "breakfast"
+- "easy"
 keywords:
 - "pumpkin scones"
 - "spiced scones"

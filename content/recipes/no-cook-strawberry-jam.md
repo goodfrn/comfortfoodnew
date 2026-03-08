@@ -15,12 +15,11 @@ totalTime: PT20M
 recipeYield: "4 jars about 250ml each"
 categories: ["Preserves"]
 tags:
-- "no-cook"
+- "no bake"
+- "strawberry"
 - "jam"
-- "strawberries"
-- "vegan"
-- "quick preserve"
-- "fruit spread"
+- "homemade"
+- "easy"
 keywords:
 - "strawberry jam"
 - "no-cook jam"

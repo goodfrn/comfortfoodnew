@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "shortbread"
-- "lemon desserts"
-- "glaze"
-- "American cuisine"
+- "lemon"
+- "cookies"
+- "citrus"
+- "easy"
 keywords:
 - "shortbread bars"
 - "lemon zest"

@@ -16,9 +16,10 @@ recipeYield: 12 servings
 categories: ["Appetizers"]
 tags:
 - "eggs"
-- "appetizers"
-- "snacks"
-- "spicy food"
+- "spicy"
+- "bacon"
+- "appetizer"
+- "snack"
 keywords:
 - "spicy eggs"
 - "crispy snacks"

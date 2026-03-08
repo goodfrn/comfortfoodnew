@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "snacks"
-- "vegetarian"
-- "party food"
-- "puff pastry"
+- "appetizer"
+- "spinach"
 - "cheese"
+- "party"
+- "easy"
 keywords:
 - "spinach appetizers"
 - "artichoke recipes"

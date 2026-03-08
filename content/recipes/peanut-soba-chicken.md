@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian Fusion"
-- "stir fry"
-- "noodles"
+- "asian"
 - "chicken"
-- "peanut sauce"
+- "peanut butter"
+- "coconut"
+- "easy dinner"
 keywords:
 - "soba noodles"
 - "cashew butter sauce"

@@ -15,13 +15,11 @@ totalTime: PT38M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian"
-- "seafood"
-- "quick meals"
-- "stir-fry"
 - "shrimp"
-- "teriyaki"
-- "weeknight dinner"
+- "asian"
+- "easy dinner"
+- "one pot"
+- "sesame"
 keywords:
 - "teriyaki shrimp"
 - "stir-fry shrimp"

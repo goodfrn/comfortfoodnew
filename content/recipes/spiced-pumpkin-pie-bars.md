@@ -16,10 +16,10 @@ recipeYield: "9 large bars"
 categories: ["Desserts"]
 tags:
 - "pumpkin"
-- "fall dessert"
-- "baking"
-- "custard bars"
-- "American cuisine"
+- "spice"
+- "dessert"
+- "fall"
+- "easy"
 keywords:
 - "pumpkin pie bars"
 - "spiced pumpkin dessert"

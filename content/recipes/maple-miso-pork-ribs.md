@@ -15,11 +15,9 @@ totalTime: PT2H50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "ribs"
 - "pork"
-- "fusion"
-- "dinner"
-- "bbq"
+- "slow cooker"
+- "grilling"
 keywords:
 - "pork recipe"
 - "fusion cuisine"

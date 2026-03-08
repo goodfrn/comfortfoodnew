@@ -15,11 +15,11 @@ totalTime: PT1H3M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "chocolate"
-- "dessert"
 - "brownies"
-- "ganache"
+- "dessert"
+- "homemade"
+- "no bake"
 keywords:
 - "brownies"
 - "ganache"

@@ -15,9 +15,11 @@ totalTime: PT42M
 recipeYield: "4 to 6 servings"
 categories: ["Appetizers"]
 tags:
+- "tart"
+- "ricotta"
 - "vegetarian"
-- "appetizer"
-- "light meal"
+- "summer"
+- "zucchini"
 keywords:
 - "zucchini tart"
 - "orange zest"

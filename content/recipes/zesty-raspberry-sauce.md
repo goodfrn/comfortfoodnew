@@ -15,12 +15,10 @@ totalTime: PT27M
 recipeYield: "2 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "fruit sauce"
 - "raspberry"
-- "dessert topping"
-- "coconut oil"
-- "homemade"
-- "slow cooked"
+- "condiment"
+- "citrus"
+- "easy"
 keywords:
 - "raspberry sauce"
 - "fruit topping"

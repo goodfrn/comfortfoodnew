@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "no bake"
 - "pie"
-- "raspberries"
+- "raspberry"
 - "gelatin"
 - "dessert"
-- "summer dessert"
-- "easy dessert"
 keywords:
 - "raspberry pie"
 - "gelatin dessert"

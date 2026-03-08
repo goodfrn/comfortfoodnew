@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "fudge"
-- "candy making"
-- "white chocolate"
 - "vanilla"
-- "American dessert"
+- "candy"
+- "fudge"
+- "no bake"
+- "dessert"
 keywords:
 - "vanilla fudge"
 - "white chocolate"

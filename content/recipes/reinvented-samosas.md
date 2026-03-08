@@ -15,11 +15,11 @@ totalTime: PT1H5M
 recipeYield: "16 samosas"
 categories: ["Snacks"]
 tags:
-- "Indian-inspired"
-- "vegan"
-- "stovetop cooking"
-- "healthy snacks"
-- "no deep-fry"
+- "indian"
+- "vegetarian"
+- "appetizer"
+- "healthy"
+- "easy"
 keywords:
 - "vegan samosas"
 - "tamarind dipping sauce"

@@ -16,11 +16,9 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "Negroni"
-- "Aperol"
-- "tropical"
-- "coconut milk"
-- "pineapple juice"
+- "coconut"
+- "citrus"
+- "drink"
 keywords:
 - "Negroni"
 - "Aperol"

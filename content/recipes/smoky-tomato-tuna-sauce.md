@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "seafood"
-- "pasta sauce"
-- "smoky"
-- "quick meals"
-- "gluten free"
-- "no dairy"
+- "tuna"
+- "pasta"
+- "mediterranean"
+- "easy dinner"
+- "condiment"
 keywords:
 - "tuna sauce"
 - "smoky tomato sauce"

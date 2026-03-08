@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Frozen Treats"]
 tags:
+- "citrus"
+- "summer"
+- "dessert"
 - "vegan"
-- "gluten-free"
-- "dairy-free"
-- "summer dessert"
-- "French-inspired"
-- "sorbet"
+- "no bake"
 keywords:
 - "citrus sorbet"
 - "lime sorbet"

@@ -16,10 +16,10 @@ recipeYield: 3 cups
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "mediterranean"
-- "vegan"
 - "vegetarian"
+- "mediterranean"
 - "spicy"
+- "easy"
 keywords:
 - "antipasto"
 - "spicy vegetables"

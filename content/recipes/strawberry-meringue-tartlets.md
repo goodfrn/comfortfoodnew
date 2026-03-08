@@ -15,12 +15,10 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
+- "strawberry"
+- "tart"
 - "dessert"
-- "fruit tart"
-- "spring baking"
-- "pastry"
-- "meringue"
+- "easy"
 keywords:
 - "strawberry tart"
 - "meringue pieces"

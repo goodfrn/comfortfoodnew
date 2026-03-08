@@ -16,14 +16,10 @@ recipeYield: "5 sandwiches"
 categories: ["Dips and Spreads"]
 tags:
 - "vegan"
-- "plant-based"
-- "gluten-free"
-- "nutty"
-- "almond butter"
-- "sunflower seeds"
-- "loaf"
-- "side dish"
-- "sandwich filling"
+- "appetizer"
+- "gluten free"
+- "almond"
+- "sesame"
 keywords:
 - "vegan pâté"
 - "sunflower seeds recipe"

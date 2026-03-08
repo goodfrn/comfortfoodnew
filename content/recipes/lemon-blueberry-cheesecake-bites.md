@@ -15,12 +15,11 @@ totalTime: PT2H35M
 recipeYield: "30 servings"
 categories: ["Desserts"]
 tags:
-- "no bake"
-- "cheesecake"
-- "dessert bites"
-- "lemon"
+- "cake"
 - "blueberry"
-- "candy melts"
+- "lemon"
+- "no bake"
+- "dessert"
 keywords:
 - "lemon cheesecake bites"
 - "blueberry dessert bites"

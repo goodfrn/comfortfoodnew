@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "Italian drinks"
-- "summer drinks"
-- "sparkling cocktails"
-- "citrus drinks"
+- "cocktail"
+- "citrus"
+- "lemon"
+- "drink"
+- "italian"
 keywords:
 - "limoncello spritz"
 - "Italian cocktail"

@@ -15,12 +15,11 @@ totalTime: PT31M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
+- "sausage"
+- "eggs"
+- "cheese"
 - "breakfast"
-- "baking"
-- "savory pastries"
-- "quick meals"
-- "American cuisine"
-- "egg dishes"
+- "easy"
 keywords:
 - "crescent dough"
 - "sausage links"

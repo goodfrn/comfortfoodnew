@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Frozen Treats"]
 tags:
 - "dessert"
-- "ice cream"
-- "lactose-free"
+- "vegan"
 - "coconut"
 - "strawberry"
+- "summer"
 keywords:
 - "lactose-free"
 - "strawberry"

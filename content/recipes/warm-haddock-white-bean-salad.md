@@ -16,10 +16,10 @@ recipeYield: "2 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "healthy"
+- "seafood"
 - "air fryer"
-- "dinner"
-- "gluten-free"
+- "citrus"
+- "healthy"
 keywords:
 - "haddock"
 - "white beans"

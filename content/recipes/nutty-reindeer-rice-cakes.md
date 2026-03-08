@@ -15,11 +15,11 @@ totalTime: PT10M
 recipeYield: "2 servings"
 categories: ["Snacks"]
 tags:
-- "festive snacks"
-- "quick desserts"
-- "microwave recipes"
-- "holiday treats"
-- "easy no-bake"
+- "holiday"
+- "snack"
+- "no bake"
+- "hazelnut"
+- "pretzel"
 keywords:
 - "rice cakes"
 - "hazelnut spread"

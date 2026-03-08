@@ -15,11 +15,10 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fish"
-- "Mediterranean"
-- "couscous"
-- "quick meals"
 - "seafood"
+- "mediterranean"
+- "salmon"
+- "lemon"
 - "healthy"
 keywords:
 - "salmon fillets"

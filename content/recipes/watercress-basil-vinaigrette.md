@@ -15,14 +15,11 @@ totalTime: PT6M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "vinaigrette"
-- "watercress"
-- "basil"
-- "pistachios"
-- "pecorino"
-- "green dressing"
-- "European cuisine"
-- "quick sauce"
+- "salad"
+- "condiment"
+- "vegetarian"
+- "lemon"
+- "pistachio"
 keywords:
 - "watercress dressing"
 - "basil vinaigrette"

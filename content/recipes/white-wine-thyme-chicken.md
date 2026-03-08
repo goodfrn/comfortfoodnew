@@ -15,13 +15,11 @@ totalTime: PT145M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast chicken"
-- "French-inspired"
-- "brining"
-- "pan sauce"
-- "thyme"
-- "fennel"
-- "white wine"
+- "chicken"
+- "roasted"
+- "easy dinner"
+- "comfort food"
+- "homemade"
 keywords:
 - "roast chicken"
 - "thyme chicken"

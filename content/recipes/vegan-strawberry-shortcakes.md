@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "vegan"
-- "dairy-free"
-- "nut-free"
-- "plant-based"
-- "summer dessert"
-- "baking tips"
+- "strawberry"
+- "shortbread"
+- "coconut"
+- "dessert"
 keywords:
 - "vegan shortcakes"
 - "coconut cream"

@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "egg dishes"
-- "baking"
-- "gluten free"
-- "vegetarian"
+- "omelet"
+- "eggs"
+- "easy"
+- "comfort food"
 - "breakfast"
-- "french inspired"
 keywords:
 - "cornstarch omelette"
 - "baked omelette"

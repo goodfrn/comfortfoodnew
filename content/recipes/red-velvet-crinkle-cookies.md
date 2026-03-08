@@ -15,12 +15,10 @@ totalTime: PT24M
 recipeYield: "7 large cookies"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
-- "red velvet"
+- "chocolate"
+- "easy"
 - "dessert"
-- "holiday treats"
-- "easy sweets"
 keywords:
 - "red velvet"
 - "crinkle cookies"

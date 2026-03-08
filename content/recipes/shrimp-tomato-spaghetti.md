@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "seafood pasta"
-- "shrimp recipes"
-- "quick dinner"
-- "summer pasta"
+- "pasta"
+- "seafood"
+- "shrimp"
+- "italian"
+- "easy dinner"
 keywords:
 - "shrimp pasta"
 - "sun-dried tomatoes"

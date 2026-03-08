@@ -15,13 +15,11 @@ totalTime: PT28M
 recipeYield: "2 servings"
 categories: ["Breakfast"]
 tags:
-- "Middle Eastern"
-- "Brunch"
-- "Poached Eggs"
-- "Vegetarian"
-- "Chickpeas"
-- "Healthy"
-- "Quick Meals"
+- "breakfast"
+- "eggs"
+- "chickpeas"
+- "mediterranean"
+- "spinach"
 keywords:
 - "zaatar chickpeas"
 - "poached eggs"

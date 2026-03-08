@@ -15,14 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "Vietnamese"
-- "sauces"
-- "hot pot"
-- "fondue"
-- "gluten-free"
-- "dairy-free"
-- "spicy"
-- "herbs"
+- "vietnamese"
+- "condiment"
+- "asian"
+- "pineapple"
+- "easy"
 keywords:
 - "Vietnamese sauces"
 - "fondue dipping sauces"

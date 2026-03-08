@@ -15,13 +15,11 @@ totalTime: PT3H30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
 - "chicken"
-- "balsamic vinegar"
-- "apple jelly"
-- "crockpot"
+- "slow cooker"
+- "apple"
 - "comfort food"
-- "easy meals"
+- "easy dinner"
 keywords:
 - "slow cooker chicken"
 - "apple balsamic sauce"

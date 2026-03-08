@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "beef"
-- "braising"
-- "slow cooking"
+- "slow cooker"
 - "comfort food"
-- "American cuisine"
-- "pot roast"
+- "one pot"
+- "roasted"
 keywords:
 - "pot roast"
 - "braised beef roast"

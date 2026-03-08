@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "cake"
+- "lemon"
+- "citrus"
+- "easy"
 - "dessert"
-- "fruit nectar"
-- "lemon glaze"
-- "bundt cake"
 keywords:
 - "apricot nectar"
 - "lemon glaze"

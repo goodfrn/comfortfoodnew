@@ -15,11 +15,11 @@ totalTime: PT1H30M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French inspired"
-- "seafood tart"
-- "savory tart"
-- "baking tips"
-- "oat milk custard"
+- "seafood"
+- "tart"
+- "cheese"
+- "eggs"
+- "appetizer"
 keywords:
 - "leek tart"
 - "shrimp tart"

@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "vinaigrettes"
-- "salad dressing"
-- "american cuisine"
-- "easy dressings"
-- "maple syrup recipes"
+- "condiment"
+- "salad"
+- "easy"
+- "honey"
+- "vegetarian"
 keywords:
 - "vinaigrette"
 - "maple syrup dressing"

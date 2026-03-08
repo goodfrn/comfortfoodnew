@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "12 squares"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "lemon dessert"
-- "easy recipe"
-- "cake mix"
+- "cake"
+- "lemon"
 - "ricotta"
+- "easy"
+- "dessert"
 keywords:
 - "lemon cake"
 - "ricotta filling"

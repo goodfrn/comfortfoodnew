@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "Southern American"
-- "Appetizers"
-- "Finger Food"
-- "Egg Recipes"
-- "Party Food"
+- "eggs"
+- "cheese"
+- "appetizer"
+- "southern"
+- "easy"
 keywords:
 - "deviled eggs"
 - "pimento cheese"

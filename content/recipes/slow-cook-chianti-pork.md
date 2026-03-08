@@ -15,11 +15,11 @@ totalTime: PT5H30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
+- "pork"
 - "slow cooker"
-- "braised pork"
-- "Chianti wine"
-- "pork tenderloin"
+- "italian"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "pork tenderloin braise"
 - "Chianti wine cooking"

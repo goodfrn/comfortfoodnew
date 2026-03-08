@@ -15,12 +15,10 @@ totalTime: PT42M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
 - "pasta"
 - "bacon"
-- "tomato sauce"
-- "quick dinner"
-- "weeknight meal"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "pasta with bacon"
 - "tomato sauce pasta"

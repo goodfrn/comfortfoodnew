@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
+- "pork"
 - "grilling"
-- "pork recipes"
-- "skewers"
-- "lemongrass"
-- "cashew sauce"
+- "asian"
+- "spicy"
+- "easy dinner"
 keywords:
 - "pork skewers"
 - "lemongrass pork"

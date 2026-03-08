@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "gluten-free"
-- "vegetarian"
-- "tropical"
-- "meringue"
-- "fusion"
+- "no bake"
+- "coconut"
+- "mascarpone"
+- "gluten free"
 keywords:
 - "passionfruit"
 - "pavlova"

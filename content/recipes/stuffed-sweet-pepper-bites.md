@@ -16,12 +16,10 @@ recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "snack"
-- "finger food"
-- "baked"
-- "easy prep"
-- "turkey pepperoni"
-- "mozzarella cheese"
+- "vegetarian"
+- "cheese"
+- "party"
+- "easy"
 keywords:
 - "stuffed peppers"
 - "sweet pepper bites"

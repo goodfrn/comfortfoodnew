@@ -15,13 +15,10 @@ totalTime: PT1H15M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "Middle Eastern"
-- "lamb recipes"
-- "fried snacks"
-- "bulgur dishes"
-- "nutty fillings"
-- "street food"
-- "pistachio recipes"
+- "lamb"
+- "spice"
+- "walnut"
+- "fried"
 keywords:
 - "kebbés recipe"
 - "spiced lamb bulgur cones"

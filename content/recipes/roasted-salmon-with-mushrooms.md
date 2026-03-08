@@ -16,10 +16,10 @@ recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
 - "salmon"
-- "mushrooms"
-- "wild rice"
-- "dinner"
-- "healthy"
+- "roasted"
+- "citrus"
+- "mushroom"
+- "seafood"
 keywords:
 - "salmon dish"
 - "easy dinner recipes"

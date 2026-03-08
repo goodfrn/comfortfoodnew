@@ -16,12 +16,10 @@ recipeYield: "2 servings"
 categories: ["Seafood"]
 tags:
 - "seafood"
-- "crab legs"
-- "boiling"
-- "steaming"
-- "baking"
+- "crab"
 - "grilling"
-- "seafood cooking"
+- "roasted"
+- "easy"
 keywords:
 - "crab legs cooking"
 - "seafood recipe"

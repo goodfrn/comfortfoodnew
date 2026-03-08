@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Asian-Fusion"
-- "Salad"
-- "Pork"
-- "Teriyaki"
-- "Quick Meals"
+- "pork"
+- "salad"
+- "asian"
+- "easy dinner"
+- "roasted"
 keywords:
 - "bok choy salad"
 - "teriyaki glaze"

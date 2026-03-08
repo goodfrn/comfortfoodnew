@@ -15,15 +15,11 @@ totalTime: PT39M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-American"
-- "burritos"
-- "cheese sauce"
-- "smoked gouda"
-- "chipotle"
-- "baked"
-- "comfort food"
 - "chicken"
-- "quick roux"
+- "cheese"
+- "mexican"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "chicken burritos"
 - "cheese sauce"

@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "compound butter"
-- "wild mushrooms"
-- "walnuts"
-- "French-inspired"
-- "herbs"
-- "homemade butter"
+- "walnut"
+- "mushroom"
+- "condiment"
+- "homemade"
+- "easy"
 keywords:
 - "wild mushroom butter"
 - "walnut butter"

@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
 - "salmon"
-- "baking"
-- "seafood"
-- "herbs"
 - "lemon"
-- "tarragon"
+- "healthy"
+- "roasted"
+- "easy dinner"
 keywords:
 - "salmon bake"
 - "lemon fish"

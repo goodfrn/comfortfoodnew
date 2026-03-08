@@ -15,12 +15,10 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "dessert"
-- "nutty"
-- "toasted brioche"
+- "almond"
+- "brioche"
 - "pistachio"
-- "marzipan"
+- "dessert"
 keywords:
 - "rhubarb compote"
 - "bostocks"

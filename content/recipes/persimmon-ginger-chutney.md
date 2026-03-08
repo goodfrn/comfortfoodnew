@@ -15,14 +15,10 @@ totalTime: PT55M
 recipeYield: "500 ml (2 cups)"
 categories: ["Sauces and Condiments"]
 tags:
-- "Entrées"
-- "Conserves"
-- "Vegan"
-- "Gluten-free"
-- "Dairy-free"
-- "No nuts"
-- "Spicy"
-- "Preserves"
+- "chutney"
+- "condiment"
+- "cinnamon"
+- "cranberry"
 keywords:
 - "persimmon chutney"
 - "ginger chutney"

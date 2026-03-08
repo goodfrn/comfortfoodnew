@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-inspired"
-- "baked quesadilla"
-- "sheet pan meals"
-- "vegetarian"
+- "mexican"
 - "easy dinner"
+- "cheese"
+- "vegetarian"
+- "party"
 keywords:
 - "quesadilla"
 - "sheet pan bake"

@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "8 popsicles"
 categories: ["Frozen Treats"]
 tags:
-- "frozen desserts"
-- "summer treats"
-- "fruit popsicles"
-- "cream-based"
-- "natural ingredients"
+- "dessert"
+- "summer"
+- "no bake"
+- "peach"
+- "raspberry"
 keywords:
 - "peach popsicles"
 - "raspberry cream"

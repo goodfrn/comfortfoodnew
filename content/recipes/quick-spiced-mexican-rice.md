@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Rice and Grains"]
 tags:
-- "Mexican"
+- "mexican"
 - "rice"
-- "quick meal"
-- "one pot"
-- "spices"
 - "side dish"
+- "easy"
+- "spice"
 keywords:
 - "Mexican rice"
 - "spiced rice"

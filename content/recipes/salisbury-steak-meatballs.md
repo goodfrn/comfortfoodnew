@@ -15,11 +15,10 @@ totalTime: PT54M
 recipeYield: "32 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "meatballs"
 - "beef"
-- "mushroom gravy"
+- "meatball"
 - "comfort food"
+- "mushroom"
 - "easy dinner"
 keywords:
 - "ground beef meatballs"

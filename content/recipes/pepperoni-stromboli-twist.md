@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "Italian-American"
-- "baked snack"
-- "pizza dough"
+- "italian"
+- "bread"
+- "cheese"
 - "chorizo"
-- "fontina"
-- "mozzarella"
-- "parmesan"
-- "homemade"
+- "easy dinner"
 keywords:
 - "stromboli"
 - "chorizo recipe"

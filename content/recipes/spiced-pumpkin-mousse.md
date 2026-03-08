@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "no bake"
-- "fall dessert"
 - "pumpkin"
-- "mousse"
-- "easy dessert"
+- "fall"
+- "dessert"
+- "easy"
 keywords:
 - "pumpkin puree"
 - "instant vanilla pudding"

@@ -15,11 +15,10 @@ totalTime: PT6M
 recipeYield: "8 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "spicy sauce"
-- "smoky flavors"
-- "Mexican-inspired"
 - "condiment"
-- "easy recipes"
+- "spicy"
+- "mexican"
+- "easy"
 keywords:
 - "chipotle peppers"
 - "lime juice"

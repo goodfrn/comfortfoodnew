@@ -15,11 +15,11 @@ totalTime: PT59M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "baking tips"
-- "chocolate desserts"
-- "low sugar cakes"
-- "almond flour recipes"
-- "glaze techniques"
+- "cake"
+- "chocolate"
+- "almond"
+- "dessert"
+- "homemade"
 keywords:
 - "chocolate cake"
 - "almond flour"

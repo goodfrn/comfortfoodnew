@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Pasta and Noodles"]
 tags:
-- "vegan"
-- "Mediterranean"
-- "cold pasta"
-- "summer recipe"
+- "pasta"
+- "salad"
+- "vegetarian"
 - "spicy"
-- "gluten"
+- "summer"
 keywords:
 - "fusilli pasta"
 - "cold gazpacho sauce"

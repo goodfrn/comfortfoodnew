@@ -15,13 +15,11 @@ totalTime: PT27M
 recipeYield: "1 cake roll"
 categories: ["Desserts"]
 tags:
-- "custard"
-- "almond filling"
-- "toasted coconut"
-- "chocolate dessert"
-- "cake filling"
-- "slow cooking"
-- "kitchen tips"
+- "chocolate"
+- "coconut"
+- "pecan"
+- "vanilla"
+- "homemade"
 keywords:
 - "German chocolate filling"
 - "custard filling"

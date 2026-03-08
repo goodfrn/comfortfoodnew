@@ -15,12 +15,10 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Southern cuisine"
-- "tomato recipes"
-- "basil"
-- "mozzarella"
-- "moisture control"
-- "baking tips"
+- "pie"
+- "cheese"
+- "vegetarian"
+- "italian"
 keywords:
 - "tomato pie"
 - "basil pie"

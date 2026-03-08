@@ -15,13 +15,10 @@ totalTime: PT33M
 recipeYield: "30 biscuits"
 categories: ["Snacks"]
 tags:
-- "dessert"
-- "baking"
-- "pecans"
-- "cardamom"
+- "pecan"
 - "cookies"
-- "butter"
-- "snacks"
+- "easy"
+- "homemade"
 keywords:
 - "pecan biscuits"
 - "cardamom cookies"

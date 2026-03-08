@@ -15,13 +15,10 @@ totalTime: PT1H20M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
+- "pasta"
+- "beef"
+- "cheese"
 - "comfort food"
-- "baked pasta"
-- "ground beef"
-- "cheddar"
-- "mozzarella"
-- "French-Canadian"
-- "homemade"
 - "easy dinner"
 keywords:
 - "macaroni bake"

@@ -15,12 +15,11 @@ totalTime: PT1H15M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
 - "banana"
 - "caramel"
-- "pineapple"
-- "pecans"
-- "baking tips"
-- "French-Canadian"
+- "pecan"
+- "dessert"
 keywords:
 - "banana cake"
 - "upside-down cake"

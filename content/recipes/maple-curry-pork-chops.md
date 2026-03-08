@@ -15,13 +15,10 @@ totalTime: PT1H15M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "pork chops"
-- "maple syrup"
-- "curry"
-- "roasted squash"
-- "rapini"
-- "rustic dinner"
-- "pan sauce"
+- "pork"
+- "spicy"
+- "easy dinner"
+- "main dish"
 keywords:
 - "pork chops"
 - "maple syrup"

@@ -15,13 +15,11 @@ totalTime: PT1H38M
 recipeYield: "9 servings"
 categories: ["Breakfast"]
 tags:
-- "granola"
-- "baking"
-- "snacks"
-- "almond"
-- "homemade"
-- "oven"
 - "breakfast"
+- "oatmeal"
+- "almond"
+- "cinnamon"
+- "homemade"
 keywords:
 - "rolled oats"
 - "almond butter"

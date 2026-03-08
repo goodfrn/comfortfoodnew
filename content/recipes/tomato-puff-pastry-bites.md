@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "10 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "French-inspired"
+- "appetizer"
+- "vegan"
+- "spicy"
+- "easy"
 - "vegetarian"
-- "gluten-free option"
-- "savory pastries"
 keywords:
 - "puff pastry"
 - "tomato paste"

@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "20 servings"
 categories: ["Appetizers"]
 tags:
-- "American Fusion"
-- "Appetizers"
-- "Fried Snacks"
-- "Cheese Recipes"
-- "Steak Recipes"
+- "comfort food"
+- "cheese"
+- "appetizer"
+- "beef"
+- "fried"
 keywords:
 - "egg roll recipe"
 - "Philly cheesesteak"

@@ -15,13 +15,11 @@ totalTime: PT2H15M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "chocolate"
-- "mint"
 - "brownies"
-- "frosting"
-- "ganache"
-- "baking tips"
+- "mint"
+- "chocolate"
+- "dessert"
+- "easy"
 keywords:
 - "brownies"
 - "mint frosting"

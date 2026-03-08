@@ -15,11 +15,11 @@ totalTime: PT1H
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "fruit cake"
-- "nut topping"
-- "baking tips"
-- "moist cake"
+- "cake"
+- "pineapple"
+- "coconut"
+- "pecan"
+- "dessert"
 keywords:
 - "pineapple cake"
 - "evaporated milk cake"

@@ -16,10 +16,10 @@ recipeYield: 4
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "Italian"
-- "snack"
-- "fusion"
-- "toast"
+- "strawberry"
+- "bread"
+- "pork"
+- "easy"
 keywords:
 - "prosciutto"
 - "cream cheese"

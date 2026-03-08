@@ -15,13 +15,11 @@ totalTime: PT1H
 recipeYield: "20"
 categories: ["Desserts"]
 tags:
-- "baking tips"
-- "red velvet"
 - "cookies"
-- "white chocolate"
-- "arrowroot"
-- "espresso"
-- "chilled dough"
+- "chocolate"
+- "vanilla"
+- "comfort food"
+- "easy"
 keywords:
 - "red velvet cookie mix"
 - "white chocolate chunks"

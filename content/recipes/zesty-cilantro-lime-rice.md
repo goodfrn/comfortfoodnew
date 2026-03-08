@@ -15,14 +15,10 @@ totalTime: PT30M
 recipeYield: "6 cups rice"
 categories: ["Side Dishes"]
 tags:
-- "Mexican"
-- "side dish"
 - "rice"
-- "cilantro"
-- "lime"
-- "smoked paprika"
 - "vegetarian"
-- "vegan-friendly"
+- "side dish"
+- "easy"
 keywords:
 - "cilantro lime rice"
 - "smoked paprika"

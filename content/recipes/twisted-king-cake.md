@@ -15,11 +15,11 @@ totalTime: PT48M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Southern American"
-- "Mardi Gras"
-- "holiday baking"
-- "cream cheese glaze"
-- "cinnamon sugar"
+- "cake"
+- "bread"
+- "cinnamon"
+- "holiday"
+- "easy"
 keywords:
 - "King Cake"
 - "crescent roll dough"

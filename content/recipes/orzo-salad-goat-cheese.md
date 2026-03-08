@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Mediterranean"
-- "pasta salad"
+- "salad"
+- "pasta"
 - "vegetarian"
-- "quick meals"
-- "easy sides"
+- "asparagus"
+- "lemon"
 keywords:
 - "orzo salad"
 - "goat cheese"

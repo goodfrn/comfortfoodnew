@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "plum dessert"
-- "almond crumble"
-- "arrowroot"
-- "cardamom spice"
-- "baking tips"
-- "fruit desserts"
-- "French-inspired"
+- "crumble"
+- "dessert"
+- "almond"
+- "fall"
+- "easy"
 keywords:
 - "plum crumble"
 - "almond topping"

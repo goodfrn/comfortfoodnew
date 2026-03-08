@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
 - "bacon"
-- "onions"
-- "relish"
-- "smoked paprika"
-- "American cuisine"
 - "condiment"
-- "grilled toppings"
+- "caramel"
+- "easy"
+- "comfort food"
 keywords:
 - "bacon relish"
 - "smoked paprika mustard"

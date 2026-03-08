@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "About 45 biscuits"
 categories: ["Snacks"]
 tags:
-- "baking"
-- "savory biscuits"
-- "French-inspired"
-- "herb biscuits"
-- "freezer friendly"
+- "cheese"
+- "bread"
+- "appetizer"
+- "vegetarian"
+- "easy"
 keywords:
 - "Gruyère biscuits"
 - "thyme biscuits"

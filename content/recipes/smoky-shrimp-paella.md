@@ -15,13 +15,8 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "paella"
 - "seafood"
-- "Spanish cuisine"
-- "one-pan meal"
-- "weeknight dinner"
-- "smoky flavors"
-- "arborio rice"
+- "rice"
 keywords:
 - "shrimp paella"
 - "smoked sausage paella"

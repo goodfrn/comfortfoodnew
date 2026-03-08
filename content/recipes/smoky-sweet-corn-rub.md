@@ -17,9 +17,9 @@ categories: ["Side Dishes"]
 tags:
 - "corn"
 - "dry rub"
-- "smoky flavor"
 - "grilling"
-- "seasoning"
+- "summer"
+- "easy"
 keywords:
 - "corn rub"
 - "smoked paprika"

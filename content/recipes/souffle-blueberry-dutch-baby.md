@@ -15,13 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "brunch"
-- "French-American"
-- "baking"
+- "breakfast"
 - "blueberry"
-- "skillet"
-- "soufflé"
-- "dessert"
+- "eggs"
+- "almond"
+- "easy"
 keywords:
 - "Dutch baby"
 - "blueberry soufflé"

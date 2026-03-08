@@ -15,11 +15,11 @@ totalTime: PT62M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
 - "pumpkin"
-- "olive oil"
-- "brown butter"
-- "glaze"
-- "autumn baking"
+- "fall"
+- "cinnamon"
+- "caramel"
 keywords:
 - "pumpkin cake"
 - "olive oil cake"

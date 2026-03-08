@@ -16,10 +16,10 @@ recipeYield: "1 serving"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "seafood"
-- "easy meals"
-- "american cuisine"
-- "quick cooking"
+- "omelet"
+- "shrimp"
+- "spinach"
+- "easy"
 keywords:
 - "omelette recipe"
 - "shrimp eggs"

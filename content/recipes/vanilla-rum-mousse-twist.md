@@ -15,13 +15,10 @@ totalTime: PT42M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "mousse"
-- "agar agar"
-- "cardamom"
-- "custard"
-- "rum dessert"
-- "whipped cream"
+- "dessert"
+- "vanilla"
+- "rum"
+- "no bake"
 keywords:
 - "agar agar"
 - "cardamom"

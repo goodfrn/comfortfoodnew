@@ -16,8 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "Mediterranean"
+- "italian"
 - "vegetarian"
+- "bacon"
+- "summer"
 keywords:
 - "pancetta salad"
 - "white beans"

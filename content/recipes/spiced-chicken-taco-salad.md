@@ -15,13 +15,11 @@ totalTime: PT32M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Mexican-inspired"
-- "gluten-free"
-- "nut-free"
-- "low egg"
-- "summer salad"
-- "grilled chicken"
-- "healthy lunch"
+- "chicken"
+- "salad"
+- "spicy"
+- "tacos"
+- "mexican"
 keywords:
 - "taco salad"
 - "smoked paprika chicken"

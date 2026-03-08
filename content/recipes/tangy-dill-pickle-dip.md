@@ -15,11 +15,11 @@ totalTime: PT18M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "snacks"
-- "appetizers"
-- "cream cheese"
-- "dill pickles"
-- "American cuisine"
+- "appetizer"
+- "easy"
+- "snack"
+- "vegetarian"
+- "comfort food"
 keywords:
 - "pickle dip"
 - "cream cheese dip"

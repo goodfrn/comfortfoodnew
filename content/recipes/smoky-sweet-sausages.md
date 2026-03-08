@@ -15,14 +15,11 @@ totalTime: PT3H7M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
+- "sausage"
 - "slow cooker"
 - "appetizer"
-- "party food"
-- "game day"
-- "cocktail sausages"
-- "smoky flavor"
-- "barbecue"
+- "party"
+- "easy dinner"
 keywords:
 - "cocktail sausages"
 - "smoky paprika"

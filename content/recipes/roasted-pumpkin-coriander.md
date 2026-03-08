@@ -15,10 +15,11 @@ totalTime: PT1H
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetarian"
 - "pumpkin"
 - "roasted"
-- "healthy"
+- "side dish"
+- "spice"
+- "vegetarian"
 keywords:
 - "roasted pumpkin"
 - "coriander twist"

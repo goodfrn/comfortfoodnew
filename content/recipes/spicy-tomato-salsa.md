@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Latin American"
-- "vegan"
 - "salsa"
-- "healthy"
-- "sidedish"
+- "spicy"
+- "vegetarian"
+- "condiment"
+- "mexican"
 keywords:
 - "salsa recipe"
 - "cabbage slaw"

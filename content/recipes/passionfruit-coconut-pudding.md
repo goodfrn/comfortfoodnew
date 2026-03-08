@@ -15,11 +15,11 @@ totalTime: PT1H05M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
+- "coconut"
+- "vegan"
 - "dessert"
 - "coconut"
-- "mango"
-- "pudding"
-- "tropical"
+- "no bake"
 keywords:
 - "pudding recipe"
 - "fluffy dessert"

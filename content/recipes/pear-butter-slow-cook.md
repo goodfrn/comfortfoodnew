@@ -15,12 +15,11 @@ totalTime: PT3H30M
 recipeYield: "2 jars 250ml"
 categories: ["Preserves"]
 tags:
+- "slow cooker"
+- "jam"
 - "vegan"
-- "gluten-free"
-- "fruit preserves"
-- "slow cooking"
-- "pear recipes"
-- "homemade spreads"
+- "easy"
+- "homemade"
 keywords:
 - "pear butter"
 - "slow cooking"

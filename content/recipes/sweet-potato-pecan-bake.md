@@ -15,11 +15,11 @@ totalTime: PT54M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "casserole"
-- "fall recipes"
-- "holiday side dish"
-- "vegetarian"
+- "comfort food"
+- "fall"
+- "holiday"
+- "side dish"
+- "pecan"
 keywords:
 - "sweet potatoes"
 - "pecans"

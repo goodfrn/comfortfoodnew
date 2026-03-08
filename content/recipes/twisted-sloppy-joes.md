@@ -15,14 +15,11 @@ totalTime: PT28M
 recipeYield: "10 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American"
-- "sandwich"
-- "ground beef"
+- "beef"
 - "chorizo"
-- "chipotle"
-- "smoky"
-- "bacon"
-- "quick meal"
+- "sandwich"
+- "spicy"
+- "easy dinner"
 keywords:
 - "sloppy joes"
 - "chipotle tomato paste"

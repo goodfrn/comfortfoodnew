@@ -15,13 +15,11 @@ totalTime: PT2H20M
 recipeYield: "2 loaves"
 categories: ["Desserts"]
 tags:
-- "fruit cake"
-- "holiday baking"
-- "slow simmer"
-- "bourbon soaked"
-- "spiced cake"
-- "nuts"
-- "cake resting"
+- "cake"
+- "spice"
+- "holiday"
+- "pecan"
+- "comfort food"
 keywords:
 - "fruit nut cake"
 - "spiced cake"

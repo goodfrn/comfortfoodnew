@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "shortbread"
-- "almond flour"
-- "baking soda"
-- "egg wash"
-- "cardamom"
-- "French-inspired"
+- "vanilla"
+- "almond"
+- "easy"
 keywords:
 - "shortbread"
 - "almond flour"

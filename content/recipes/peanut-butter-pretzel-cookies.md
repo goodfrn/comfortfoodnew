@@ -16,13 +16,10 @@ recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
 - "cookies"
-- "peanut butter"
-- "pretzels"
-- "caramel"
-- "baking"
-- "snacks"
 - "chocolate"
-- "nuts"
+- "peanut butter"
+- "pretzel"
+- "snack"
 keywords:
 - "peanut butter cookies"
 - "pretzel cookies"

@@ -15,12 +15,9 @@ totalTime: PT18M
 recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "spiced syrup"
-- "ginger"
-- "baking soda"
-- "honey syrup"
-- "dessert syrup"
-- "American cuisine"
+- "molasses"
+- "spice"
+- "homemade"
 keywords:
 - "ginger syrup"
 - "molasses substitute"

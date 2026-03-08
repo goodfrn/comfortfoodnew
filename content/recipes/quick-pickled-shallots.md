@@ -15,11 +15,10 @@ totalTime: PT15M
 recipeYield: "2 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "pickled"
-- "vegan"
-- "quick recipes"
-- "French"
-- "shallots"
+- "condiment"
+- "french"
+- "easy"
+- "vegetarian"
 keywords:
 - "pickled shallots"
 - "quick recipes"

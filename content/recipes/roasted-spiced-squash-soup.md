@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "fall recipe"
-- "vegan option"
-- "gluten free"
-- "comfort food"
-- "pumpkin seeds"
+- "squash"
+- "roasted"
+- "spice"
+- "fall"
 keywords:
 - "squash soup"
 - "spiced squash"

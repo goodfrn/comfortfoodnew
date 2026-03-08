@@ -15,13 +15,11 @@ totalTime: PT29M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "British"
-- "baking"
-- "scones"
-- "quick breads"
 - "breakfast"
-- "pastry"
-- "traditional"
+- "british"
+- "bread"
+- "homemade"
+- "easy"
 keywords:
 - "English scones"
 - "scone wedges"

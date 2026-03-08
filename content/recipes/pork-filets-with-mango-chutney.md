@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "mango chutney"
-- "rosemary"
-- "garlic"
-- "oven recipe"
-- "gluten-free option"
+- "citrus"
+- "chutney"
+- "main dish"
+- "easy dinner"
 keywords:
 - "pork filets"
 - "mango chutney"

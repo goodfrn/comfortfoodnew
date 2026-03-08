@@ -15,13 +15,10 @@ totalTime: PT2H10M
 recipeYield: "25 cubes"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "blueberry"
-- "cheesecake"
-- "French-inspired"
-- "baking"
-- "gelée"
-- "gourmet"
+- "dessert"
+- "honey"
+- "lemon"
 keywords:
 - "blueberry cheesecake"
 - "bain-marie baking"

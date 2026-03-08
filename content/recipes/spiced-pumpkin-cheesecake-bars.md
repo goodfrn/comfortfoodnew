@@ -15,11 +15,10 @@ totalTime: PT14H10M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "fall desserts"
-- "cheesecake"
 - "pumpkin"
-- "baking"
-- "holiday treats"
+- "dessert"
+- "fall"
+- "spice"
 keywords:
 - "pumpkin cheesecake"
 - "cheesecake bars"

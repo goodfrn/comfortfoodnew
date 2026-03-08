@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "pork"
 - "salad"
+- "pork"
 - "grilling"
-- "healthy"
-- "dairy free"
-- "gluten free"
-- "quick marinade"
+- "spinach"
+- "walnut"
 keywords:
 - "pork spinach salad"
 - "grilled pork marinade"

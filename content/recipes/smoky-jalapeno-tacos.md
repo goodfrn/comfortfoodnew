@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican"
-- "tacos"
-- "grilling"
-- "avocado sauce"
 - "steak"
+- "tacos"
 - "spicy"
-- "quick meal"
+- "mexican"
+- "avocado"
 keywords:
 - "jalapeño tacos"
 - "smoky flank steak"

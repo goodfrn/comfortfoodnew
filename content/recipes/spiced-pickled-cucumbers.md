@@ -15,12 +15,11 @@ totalTime: PT16M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Asian Fusion"
-- "Pickles"
-- "Cucumber"
-- "Quick Pickling"
-- "Spicy"
-- "Fermentation Lite"
+- "condiment"
+- "spicy"
+- "cucumber"
+- "easy"
+- "citrus"
 keywords:
 - "pickled cucumbers"
 - "Asian fusion pickles"

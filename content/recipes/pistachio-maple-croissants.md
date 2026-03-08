@@ -15,12 +15,9 @@ totalTime: PT1H
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "French-inspired"
-- "brunch"
-- "nutty desserts"
-- "gluten-free"
-- "pastry twists"
-- "leftover croissants"
+- "pistachio"
+- "breakfast"
+- "french"
 keywords:
 - "pistachios"
 - "maple syrup glaze"

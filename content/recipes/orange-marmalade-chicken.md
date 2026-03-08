@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Southern cuisine"
-- "chicken recipes"
-- "quick dinner"
-- "pan-seared chicken"
-- "sauce recipes"
-- "fresh basil"
+- "chicken"
+- "citrus"
+- "italian"
+- "easy dinner"
+- "main dish"
 keywords:
 - "chicken breasts"
 - "orange marmalade"

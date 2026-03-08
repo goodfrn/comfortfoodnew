@@ -15,11 +15,11 @@ totalTime: PT1H27M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Creole"
-- "Black-eyed peas"
-- "Slow cooked"
-- "Smoky flavor"
-- "Comfort food"
+- "slow cooker"
+- "southern"
+- "spicy"
+- "comfort food"
+- "one pot"
 keywords:
 - "black-eyed peas"
 - "creole seasoning"

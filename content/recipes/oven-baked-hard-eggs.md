@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
 - "eggs"
-- "baking"
 - "breakfast"
-- "kitchen hacks"
-- "egg peeling"
+- "easy"
+- "healthy"
+- "no bake"
 keywords:
 - "baked eggs"
 - "hard boiled eggs"

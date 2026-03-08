@@ -15,11 +15,11 @@ totalTime: PT1H40M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "pastry"
-- "pork recipes"
-- "rustic cooking"
-- "savory pie"
+- "french"
+- "pork"
+- "comfort food"
+- "appetizer"
+- "homemade"
 keywords:
 - "meat pâté"
 - "French rustic pie"

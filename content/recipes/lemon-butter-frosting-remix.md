@@ -15,13 +15,10 @@ totalTime: PT24M
 recipeYield: "1 liter"
 categories: ["Desserts"]
 tags:
-- "buttercream"
-- "frosting"
-- "yuzu"
-- "almond milk"
-- "baking tips"
 - "citrus"
-- "French-inspired"
+- "lemon"
+- "almond"
+- "easy"
 keywords:
 - "yuzu juice"
 - "lemon zest"

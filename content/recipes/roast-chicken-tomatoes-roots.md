@@ -15,14 +15,11 @@ totalTime: PT3H5M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast chicken"
-- "fall vegetables"
-- "maple syrup glaze"
-- "French-inspired"
-- "comfort food"
-- "herb sauce"
-- "oven roasted"
-- "one pan meal"
+- "chicken"
+- "roasted"
+- "main dish"
+- "easy dinner"
+- "healthy"
 keywords:
 - "roast chicken"
 - "maple butter glaze"

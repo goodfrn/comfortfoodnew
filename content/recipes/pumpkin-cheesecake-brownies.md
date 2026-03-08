@@ -15,13 +15,10 @@ totalTime: PT53M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "pumpkin"
 - "brownies"
-- "cheesecake"
-- "fall recipes"
-- "dessert"
-- "marbled desserts"
+- "pumpkin"
+- "chocolate"
+- "fall"
 keywords:
 - "pumpkin cheesecake"
 - "brownie swirl"

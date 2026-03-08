@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "French Provençal"
-- "vegetable soup"
-- "summer recipe"
-- "slow simmer"
-- "pistou"
+- "soup"
+- "vegetarian"
+- "french"
+- "mediterranean"
+- "summer"
 keywords:
 - "pistou soup"
 - "vegetable broth soup"

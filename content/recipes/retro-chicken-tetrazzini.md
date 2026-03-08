@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Chicken"
-- "Casserole"
-- "Baked Pasta"
-- "Comfort Food"
-- "American Cuisine"
+- "chicken"
+- "pasta"
+- "comfort food"
+- "mushroom"
+- "cheese"
 keywords:
 - "chicken casserole"
 - "tetrazzini recipe"

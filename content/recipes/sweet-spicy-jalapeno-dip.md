@@ -17,9 +17,8 @@ categories: ["Dips and Spreads"]
 tags:
 - "appetizer"
 - "spicy"
-- "American cuisine"
-- "make ahead"
-- "party food"
+- "cheese"
+- "easy"
 keywords:
 - "jalapeño dip"
 - "candied peppers"

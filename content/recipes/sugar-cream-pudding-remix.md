@@ -16,10 +16,10 @@ recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "pudding"
 - "comfort food"
-- "baking"
-- "custard"
+- "caramel"
+- "no bake"
+- "easy"
 keywords:
 - "creamy pudding"
 - "dessert recipe"

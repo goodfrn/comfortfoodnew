@@ -15,9 +15,10 @@ totalTime: PT6M
 recipeYield: "4 servings"
 categories: ["Frozen Treats"]
 tags:
-- "dessert"
-- "refreshing"
-- "vegan"
+- "drink"
+- "raspberry"
+- "summer"
+- "easy"
 keywords:
 - "fruit sorbet"
 - "ginger soda"

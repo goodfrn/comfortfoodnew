@@ -16,9 +16,10 @@ recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "zucchini"
-- "healthy"
 - "grilling"
+- "salad"
+- "easy dinner"
+- "roasted"
 keywords:
 - "pork chops"
 - "healthy salad"

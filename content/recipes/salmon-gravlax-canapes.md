@@ -15,13 +15,11 @@ totalTime: PT23H50M
 recipeYield: "36 servings"
 categories: ["Appetizers"]
 tags:
+- "salmon"
+- "appetizer"
+- "citrus"
+- "gin"
 - "seafood"
-- "appetizers"
-- "Scandinavian Cuisine"
-- "French Twist"
-- "cocktail bites"
-- "cured fish"
-- "party food"
 keywords:
 - "gravlax"
 - "cured salmon"

@@ -15,12 +15,11 @@ totalTime: PT4M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "whiskey drinks"
-- "citrus cocktails"
-- "honey syrup"
-- "grapefruit"
-- "American drinks"
+- "cocktail"
+- "drink"
+- "citrus"
+- "easy"
+- "honey"
 keywords:
 - "whiskey cocktail"
 - "ruby red grapefruit juice"

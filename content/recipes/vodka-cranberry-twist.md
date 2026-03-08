@@ -15,12 +15,11 @@ totalTime: PT4M
 recipeYield: "1 glass"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktail"
 - "vodka"
-- "pomegranate"
-- "lime"
-- "lowball glass"
-- "quick drink"
+- "drink"
+- "cocktail"
+- "cranberry"
+- "citrus"
 keywords:
 - "vodka cocktail"
 - "pomegranate juice"

@@ -15,11 +15,10 @@ totalTime: PT50M
 recipeYield: 6 servings
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "mousse"
 - "peanut butter"
-- "chocolate"
 - "caramel"
+- "chocolate"
+- "dessert"
 keywords:
 - "peanut butter"
 - "caramel"

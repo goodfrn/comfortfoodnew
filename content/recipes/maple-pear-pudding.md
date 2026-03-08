@@ -15,13 +15,10 @@ totalTime: PT1H3M
 recipeYield: "8 to 10 servings"
 categories: ["Desserts"]
 tags:
-- "Canadian dessert"
-- "fruit pudding"
-- "fall baking"
-- "tapioca"
-- "maple syrup"
-- "almond extract"
-- "oat flour"
+- "dessert"
+- "cake"
+- "comfort food"
+- "healthy"
 keywords:
 - "maple pear pudding"
 - "upside-down cake"

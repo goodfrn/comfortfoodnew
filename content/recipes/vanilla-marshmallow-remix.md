@@ -15,11 +15,10 @@ totalTime: PT43M
 recipeYield: "25 marshmallows"
 categories: ["Desserts"]
 tags:
-- "French desserts"
-- "homemade sweets"
-- "marshmallows"
-- "agar agar"
-- "honey desserts"
+- "vanilla"
+- "honey"
+- "no bake"
+- "dessert"
 keywords:
 - "gelatin marshmallow"
 - "marshmallow torch finish"

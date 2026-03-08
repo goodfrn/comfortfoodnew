@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "10 servings"
 categories: ["Side Dishes"]
 tags:
-- "Creole"
 - "cornbread"
-- "dressing"
+- "southern"
 - "sausage"
-- "holiday side"
+- "holiday"
 - "comfort food"
-- "easy weeknight"
 keywords:
 - "cornbread dressing"
 - "Creole recipe"

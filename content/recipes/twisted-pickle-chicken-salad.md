@@ -15,13 +15,11 @@ totalTime: PT17M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "chicken"
 - "salad"
-- "pickles"
-- "pepperoncini"
-- "mayo dressing"
-- "lunch"
-- "easy meals"
+- "chicken"
+- "easy"
+- "appetizer"
+- "comfort food"
 keywords:
 - "chicken salad"
 - "pepperoncini chicken salad"

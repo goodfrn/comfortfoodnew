@@ -15,13 +15,11 @@ totalTime: PT1H40M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "tartlets"
-- "meringue"
-- "pineapple"
+- "tart"
 - "lemon"
-- "custard"
-- "baking tips"
+- "pineapple"
+- "citrus"
+- "dessert"
 keywords:
 - "lemon pineapple tart"
 - "meringue topping"

@@ -16,10 +16,10 @@ recipeYield: "27 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "cake mix"
-- "cream cheese"
-- "Valentine"
-- "easy baking"
+- "cake"
+- "dessert"
+- "easy"
+- "holiday"
 keywords:
 - "soft cookies"
 - "almond extract cookies"

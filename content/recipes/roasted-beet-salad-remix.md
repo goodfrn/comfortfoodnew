@@ -15,14 +15,11 @@ totalTime: PT2H05M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "salads"
-- "vegetarian"
-- "root vegetables"
-- "American cuisine"
-- "healthy"
-- "seasonal"
-- "snack"
-- "easy dinner"
+- "salad"
+- "beet"
+- "roasted"
+- "walnut"
+- "cinnamon"
 keywords:
 - "beet salad"
 - "roasted beets"

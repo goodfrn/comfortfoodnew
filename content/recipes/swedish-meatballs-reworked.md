@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Swedish cuisine"
-- "meatballs"
-- "veal recipes"
-- "duck fat"
+- "meatball"
+- "veal"
+- "beef"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "Swedish meatballs"
 - "veal meatballs"

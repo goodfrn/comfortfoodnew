@@ -15,12 +15,11 @@ totalTime: PT52M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
+- "squash"
+- "roasted"
 - "vegetarian"
-- "oven roasting"
-- "italian-inspired"
-- "quick sauce"
-- "seasonal herbs"
-- "meal prep"
+- "easy"
+- "healthy"
 keywords:
 - "spaghetti squash roasting"
 - "smoked paprika seasoning"

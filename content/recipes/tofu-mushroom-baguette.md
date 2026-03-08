@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: 4
 categories: ["Sandwiches and Wraps"]
 tags:
-- "vegan"
+- "tofu"
+- "mushroom"
+- "asian"
 - "sandwich"
-- "quick meal"
-- "Vietnamese-inspired"
+- "spicy"
 keywords:
 - "tofu"
 - "mushrooms"

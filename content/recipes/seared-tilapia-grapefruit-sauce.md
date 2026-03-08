@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fish"
 - "seafood"
-- "quick meals"
-- "gluten free"
-- "dairy free"
+- "citrus"
 - "healthy"
-- "seafood sauce"
+- "easy dinner"
+- "main dish"
 keywords:
 - "tilapia fillets"
 - "grapefruit vinaigrette"

@@ -15,12 +15,10 @@ totalTime: PT35M
 recipeYield: "36 servings"
 categories: ["Snacks"]
 tags:
-- "American"
-- "autumn snack"
-- "cookie recipe"
-- "nutty"
-- "chewy cookies"
-- "baking tips"
+- "cookies"
+- "easy"
+- "comfort food"
+- "homemade"
 keywords:
 - "sweet potato"
 - "walnuts"

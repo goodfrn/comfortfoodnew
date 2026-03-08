@@ -15,11 +15,11 @@ totalTime: PT43M
 recipeYield: "9 servings"
 categories: ["Snacks"]
 tags:
-- "snack"
-- "baking"
+- "no bake"
 - "peanut butter"
-- "chewy bars"
-- "sweet and salty"
+- "candy"
+- "pretzel"
+- "chocolate"
 keywords:
 - "peanut butter"
 - "chewy bars"

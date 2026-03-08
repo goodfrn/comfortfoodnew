@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "potato recipes"
 - "comfort food"
-- "garlic butter"
+- "potato"
+- "cheese"
 - "bacon"
-- "cheddar"
-- "sides"
+- "side dish"
 keywords:
 - "red potatoes"
 - "smashed potatoes"

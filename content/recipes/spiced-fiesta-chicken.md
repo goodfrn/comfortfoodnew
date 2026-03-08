@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "Mexican"
-- "one-pot meal"
-- "rice dish"
-- "easy dinner"
-- "smoky flavors"
+- "mexican"
+- "spicy"
+- "one pot"
+- "comfort food"
 keywords:
 - "chicken thighs"
 - "smoked paprika"

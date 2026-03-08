@@ -15,14 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fish"
 - "salad"
+- "seafood"
+- "healthy"
+- "lemon"
 - "fennel"
-- "Turkish oregano"
-- "pumpkin seeds"
-- "green grapes"
-- "quick meals"
-- "French-inspired"
 keywords:
 - "white fish fillets"
 - "fennel salad"

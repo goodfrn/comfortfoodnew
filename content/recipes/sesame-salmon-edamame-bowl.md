@@ -15,10 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "salmon"
+- "asian"
+- "sesame"
 - "healthy"
-- "quick meal"
-- "protein bowl"
-- "asian fusion"
+- "avocado"
 keywords:
 - "salmon"
 - "edamame"

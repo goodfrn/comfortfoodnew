@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "tomato soup"
-- "roasting"
-- "French-inspired"
-- "vegetarian"
-- "comfort food"
-- "winter recipes"
 - "soup"
+- "vegetarian"
+- "roasted"
+- "comfort food"
+- "healthy"
 keywords:
 - "tomato bisque"
 - "roasting vegetables"

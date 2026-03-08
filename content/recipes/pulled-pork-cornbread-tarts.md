@@ -15,11 +15,10 @@ totalTime: PT29M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "southern cooking"
-- "snack recipes"
 - "cornbread"
-- "pulled pork"
-- "barbecue"
+- "appetizer"
+- "comfort food"
+- "easy"
 keywords:
 - "pulled pork"
 - "cornbread"

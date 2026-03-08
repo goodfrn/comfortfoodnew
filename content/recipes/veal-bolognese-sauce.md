@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "veal recipe"
-- "pasta sauce"
-- "cheddar twist"
-- "slow simmer"
-- "gluten free"
+- "veal"
+- "italian"
+- "cheese"
+- "pasta"
+- "comfort food"
 keywords:
 - "veal bolognese"
 - "sharp cheddar sauce"

@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
 - "potato"
-- "baking"
-- "French-inspired"
-- "vegetarian options"
-- "slow cooking"
 - "comfort food"
+- "side dish"
+- "vegetarian"
+- "easy dinner"
 keywords:
 - "baked potatoes"
 - "caramelized onions"

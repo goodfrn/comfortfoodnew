@@ -15,14 +15,11 @@ totalTime: PT38M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Southeast Asian"
-- "Fish stew"
-- "Coconut milk"
-- "Turmeric"
-- "Lemongrass"
-- "Gluten free"
-- "Dairy free"
-- "Nut free"
+- "seafood"
+- "coconut"
+- "asian"
+- "healthy"
+- "easy dinner"
 keywords:
 - "pangasius"
 - "coconut milk"

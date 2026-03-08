@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
 - "chai"
-- "Indian tea"
-- "spiced beverages"
-- "coconut milk"
-- "vegan chai"
-- "Assam tea"
-- "jaggery"
-- "star anise"
+- "spice"
+- "coconut"
+- "cinnamon"
+- "indian"
 keywords:
 - "Masala chai recipe"
 - "Spiced chai"

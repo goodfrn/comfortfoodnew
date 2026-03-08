@@ -15,11 +15,11 @@ totalTime: PT2H50M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
+- "comfort food"
 - "beef"
 - "stew"
-- "dutch oven"
-- "comfort food"
-- "slow cooking"
+- "one pot"
+- "easy dinner"
 keywords:
 - "beef stew"
 - "Dutch oven"

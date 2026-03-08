@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "fish"
-- "vegetables"
-- "easy meals"
-- "French-inspired"
+- "seafood"
+- "potato"
+- "asparagus"
 - "healthy"
-- "vinaigrette"
 keywords:
 - "smoked trout"
 - "asparagus salad"

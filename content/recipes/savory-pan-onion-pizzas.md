@@ -16,12 +16,10 @@ recipeYield: "6 pizzas"
 categories: ["Pizza and Flatbreads"]
 tags:
 - "pizza"
-- "onions"
-- "caramelized"
-- "pan pizza"
-- "mozzarella"
-- "cheddar"
-- "homemade dough"
+- "comfort food"
+- "cheese"
+- "homemade"
+- "easy dinner"
 keywords:
 - "pan pizza"
 - "caramelized onions"

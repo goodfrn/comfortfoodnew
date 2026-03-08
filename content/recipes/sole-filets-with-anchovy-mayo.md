@@ -15,14 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fish"
 - "seafood"
-- "mayo sauce"
 - "lemon"
+- "easy dinner"
 - "broccoli"
-- "quick meals"
-- "French-inspired"
-- "anchovy"
+- "mediterranean"
 keywords:
 - "sole filets"
 - "anchovy paste"

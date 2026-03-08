@@ -15,12 +15,10 @@ totalTime: PT2H50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "veal recipes"
-- "slow simmer"
-- "wild mushrooms"
-- "roux sauce"
+- "veal"
+- "stew"
 - "comfort food"
+- "slow cooker"
 keywords:
 - "veal blanquette"
 - "fennel sage veal"

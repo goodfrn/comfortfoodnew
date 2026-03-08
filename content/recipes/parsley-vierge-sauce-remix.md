@@ -15,14 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "herb sauce"
-- "French inspired"
-- "parsley"
-- "grilling"
-- "quick sauces"
-- "fresh herbs"
-- "condiments"
-- "seafood sauce"
+- "condiment"
+- "lemon"
+- "spicy"
+- "mediterranean"
+- "easy"
 keywords:
 - "parsley vierge"
 - "parsley sauce"

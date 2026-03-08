@@ -15,16 +15,10 @@ totalTime: PT2H35M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "BBQ"
-- "barbecue sauce"
-- "ancho chili"
-- "coffee"
-- "blueberries"
-- "cranberries"
-- "slow simmer"
-- "American BBQ"
-- "smoky sauce"
-- "fruit BBQ sauce"
+- "grilling"
+- "spicy"
+- "cranberry"
+- "blueberry"
 keywords:
 - "BBQ sauce"
 - "ancho chili"

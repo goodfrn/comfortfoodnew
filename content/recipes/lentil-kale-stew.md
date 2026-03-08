@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "vegan"
-- "gluten-free"
+- "lentils"
 - "pressure cooker"
-- "stew"
 - "healthy"
-- "quick meals"
-- "dinner"
+- "soup"
+- "vegetarian"
 keywords:
 - "lentils"
 - "kale"

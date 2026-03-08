@@ -15,11 +15,11 @@ totalTime: PT1H40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "gluten-free"
 - "comfort food"
-- "one-dish meal"
-- "pork sausage"
+- "sausage"
+- "potato"
+- "cheese"
+- "one pot"
 keywords:
 - "sausage casserole"
 - "parmesan mashed potatoes"

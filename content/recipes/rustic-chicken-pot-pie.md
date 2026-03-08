@@ -15,11 +15,11 @@ totalTime: PT3H30M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
+- "chicken"
 - "comfort food"
-- "poultry"
-- "scratch cooking"
+- "homemade"
 - "pie"
+- "one pot"
 keywords:
 - "chicken pot pie"
 - "flaky crust"

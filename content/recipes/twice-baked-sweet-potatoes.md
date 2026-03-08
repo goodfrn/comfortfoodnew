@@ -15,11 +15,11 @@ totalTime: PT1H40M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "American cuisine"
-- "baking"
-- "vegetarian"
-- "holiday side"
-- "dessert-adjacent"
+- "comfort food"
+- "side dish"
+- "cinnamon"
+- "pecan"
+- "holiday"
 keywords:
 - "sweet potatoes"
 - "mashed sweet potato filling"

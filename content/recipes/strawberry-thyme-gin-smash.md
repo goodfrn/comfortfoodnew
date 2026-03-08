@@ -18,10 +18,8 @@ tags:
 - "cocktail"
 - "gin"
 - "strawberry"
-- "thyme"
-- "summer drink"
-- "herbal"
-- "muddle"
+- "drink"
+- "mint"
 keywords:
 - "gin smash"
 - "strawberry cocktail"

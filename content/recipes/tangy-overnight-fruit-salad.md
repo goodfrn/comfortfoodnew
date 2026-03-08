@@ -15,12 +15,8 @@ totalTime: PT12H32M
 recipeYield: "10 servings"
 categories: ["Salads"]
 tags:
-- "fruit salad"
-- "custard"
-- "overnight prep"
-- "American cuisine"
-- "chilled dessert"
-- "holiday recipe"
+- "banana"
+- "dessert"
 keywords:
 - "fruit salad"
 - "custard"

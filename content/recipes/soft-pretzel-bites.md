@@ -15,11 +15,11 @@ totalTime: PT75M
 recipeYield: "70 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "baking"
-- "yeast dough"
-- "appetizers"
-- "American cuisine"
+- "pretzel"
+- "bread"
+- "appetizer"
+- "easy"
+- "cheese"
 keywords:
 - "pretzel bites"
 - "baking soda bath"

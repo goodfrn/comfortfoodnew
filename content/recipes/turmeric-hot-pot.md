@@ -15,12 +15,11 @@ totalTime: PT60M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian Fusion"
-- "Hot Pot"
-- "Vegan Option"
-- "Spiced Broth"
-- "Seafood"
-- "Quick Cook"
+- "fondue"
+- "asian"
+- "spice"
+- "one pot"
+- "main dish"
 keywords:
 - "turmeric broth"
 - "hot pot cooking"

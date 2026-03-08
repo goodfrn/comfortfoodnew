@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 slices"
 categories: ["Breads"]
 tags:
-- "quick breads"
-- "strawberry recipes"
-- "lemon desserts"
-- "yogurt baking"
-- "glazed breads"
+- "bread"
+- "strawberry"
+- "lemon"
+- "breakfast"
+- "easy"
 keywords:
 - "yogurt bread"
 - "strawberry bread"

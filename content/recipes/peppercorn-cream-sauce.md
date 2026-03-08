@@ -15,11 +15,8 @@ totalTime: PT19M
 recipeYield: "12 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "French cuisine"
-- "sauces"
-- "steak toppings"
-- "cream sauces"
-- "peppercorn"
+- "beef"
+- "easy dinner"
 keywords:
 - "peppercorn sauce"
 - "cream sauce"

@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
+- "cookies"
+- "chocolate"
 - "no bake"
-- "safe dough"
-- "cookie dough"
-- "heat treated flour"
-- "chocolate chips"
-- "edible dough"
+- "homemade"
+- "easy"
 keywords:
 - "cookie dough"
 - "safe edible dough"

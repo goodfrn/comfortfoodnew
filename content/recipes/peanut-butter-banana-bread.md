@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "10 slices"
 categories: ["Breads"]
 tags:
-- "banana bread"
+- "banana"
+- "chocolate"
 - "peanut butter"
-- "chocolate chips"
-- "glaze"
-- "baking tips"
-- "moist breads"
-- "American cuisine"
+- "bread"
+- "easy"
 keywords:
 - "banana bread"
 - "peanut butter banana bread"

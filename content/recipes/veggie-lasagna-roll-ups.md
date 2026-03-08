@@ -15,14 +15,11 @@ totalTime: PT53M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
 - "vegetarian"
-- "oven baked"
 - "pasta"
-- "comfort food"
+- "cheese"
 - "ricotta"
-- "zucchini"
-- "mushrooms"
+- "mushroom"
 keywords:
 - "lasagna roll-ups"
 - "vegetable pasta"

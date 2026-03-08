@@ -15,11 +15,10 @@ totalTime: PT4H25M
 recipeYield: "24 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "jello shots"
-- "tropical drinks"
-- "caribbean fusion"
-- "party shots"
-- "boozy snacks"
+- "cocktail"
+- "rum"
+- "coconut"
+- "pineapple"
 keywords:
 - "pina colada shots"
 - "mango gelatin"

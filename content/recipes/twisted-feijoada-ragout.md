@@ -15,12 +15,10 @@ totalTime: PT3H
 recipeYield: "6 to 8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Brazilian"
-- "stew"
 - "pork"
-- "beans"
-- "smoky"
-- "slow cook"
+- "stew"
+- "slow cooker"
+- "spicy"
 keywords:
 - "feijoada"
 - "linguiça sausage"

@@ -15,11 +15,11 @@ totalTime: PT15H10M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "confit"
 - "turkey"
-- "slow cooking"
-- "duck fat"
-- "French fusion"
+- "slow cooker"
+- "roasted"
+- "dry rub"
+- "comfort food"
 keywords:
 - "confit"
 - "turkey thighs"

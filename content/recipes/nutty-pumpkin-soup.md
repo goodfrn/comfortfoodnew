@@ -15,13 +15,11 @@ totalTime: PT63M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
-- "fall recipes"
-- "soups"
-- "vegetarian"
-- "comfort food"
+- "soup"
 - "pumpkin"
-- "potatoes"
-- "nuts"
+- "potato"
+- "fall"
+- "comfort food"
 keywords:
 - "pumpkin soup"
 - "potato soup"

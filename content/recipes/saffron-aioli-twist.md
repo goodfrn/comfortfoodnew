@@ -15,13 +15,10 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "French"
-- "Mediterranean"
-- "sauce"
-- "emulsion"
-- "aioli"
-- "saffron"
-- "garlic"
+- "condiment"
+- "easy"
+- "lemon"
+- "mediterranean"
 keywords:
 - "saffron aioli"
 - "Dijon mustard aioli"

@@ -15,12 +15,11 @@ totalTime: PT2H5M
 recipeYield: "14 to 16 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
+- "almond"
+- "homemade"
 - "dessert"
-- "almond flour"
-- "buttercream"
-- "layered cake"
-- "party cake"
-- "gel dye frosting"
+- "easy"
 keywords:
 - "layered cake"
 - "gel food coloring"

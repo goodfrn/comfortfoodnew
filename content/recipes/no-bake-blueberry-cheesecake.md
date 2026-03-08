@@ -15,14 +15,10 @@ totalTime: PT4H15M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
+- "no bake"
 - "blueberry"
-- "cheesecake"
 - "dessert"
-- "mascarpone"
-- "gingersnap"
-- "graham cracker"
-- "summer dessert"
+- "honey"
 keywords:
 - "no-bake cheesecake"
 - "blueberry dessert"

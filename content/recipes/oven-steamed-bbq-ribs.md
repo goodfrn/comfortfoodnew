@@ -15,12 +15,10 @@ totalTime: PT3H30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "BBQ"
-- "ribs"
-- "steaming"
+- "comfort food"
+- "pork"
 - "grilling"
-- "dry rub"
-- "American BBQ"
+- "main dish"
 keywords:
 - "steamed ribs"
 - "BBQ glaze"

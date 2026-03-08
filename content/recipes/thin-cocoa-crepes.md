@@ -15,12 +15,10 @@ totalTime: PT32M
 recipeYield: "14 crepes"
 categories: ["Breakfast"]
 tags:
-- "French"
-- "breakfast"
 - "chocolate"
-- "whole wheat"
-- "coconut sugar"
-- "quick cooking"
+- "breakfast"
+- "easy"
+- "homemade"
 keywords:
 - "crepes"
 - "chocolate crepes"

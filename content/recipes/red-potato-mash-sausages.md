@@ -15,11 +15,11 @@ totalTime: PT47M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
+- "potato"
+- "sausage"
 - "comfort food"
-- "weeknight dinner"
-- "potato recipes"
-- "sausage dishes"
+- "easy dinner"
+- "one pot"
 keywords:
 - "red potatoes"
 - "sausages sauce"

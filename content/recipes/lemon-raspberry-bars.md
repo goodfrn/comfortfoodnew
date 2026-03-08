@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "baking"
-- "lemon dessert"
-- "raspberry recipes"
-- "coconut oil baking"
+- "lemon"
+- "raspberry"
+- "tart"
+- "shortbread"
+- "dessert"
 keywords:
 - "lemon bars"
 - "shortbread base"

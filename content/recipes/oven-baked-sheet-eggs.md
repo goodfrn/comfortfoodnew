@@ -17,9 +17,7 @@ categories: ["Breakfast"]
 tags:
 - "breakfast"
 - "eggs"
-- "sheet pan"
-- "batch cooking"
-- "American cuisine"
+- "easy"
 keywords:
 - "baked eggs"
 - "sheet pan breakfast"

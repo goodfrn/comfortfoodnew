@@ -15,9 +15,11 @@ totalTime: PT45M
 recipeYield: 750 ml
 categories: ["Sauces and Condiments"]
 tags:
-- "sauce"
-- "Japanese"
 - "condiment"
+- "japanese"
+- "pork"
+- "spice"
+- "caramel"
 keywords:
 - "tangy sauce"
 - "fruit sauce"

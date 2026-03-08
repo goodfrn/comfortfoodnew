@@ -15,13 +15,10 @@ totalTime: PT60M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "vegetarian"
-- "Indian fusion"
 - "tofu"
-- "curry"
-- "creamy sauce"
-- "spices"
-- "comfort food"
+- "indian"
+- "spicy"
+- "vegetarian"
 keywords:
 - "tofu butter chicken"
 - "vegetarian Indian"

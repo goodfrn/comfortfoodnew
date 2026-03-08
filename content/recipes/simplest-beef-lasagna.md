@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "bake"
 - "beef"
-- "lasagna"
+- "pasta"
 - "comfort food"
-- "cheese blend"
-- "easy dinner"
+- "italian"
+- "main dish"
 keywords:
 - "lasagna recipe"
 - "baked pasta"

@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "vegetarian"
-- "gluten-free"
-- "finger food"
-- "snacks"
-- "Mediterranean"
-- "pan-fried"
 - "chickpeas"
+- "quinoa"
+- "spicy"
+- "appetizer"
 keywords:
 - "chickpea bites"
 - "quinoa snacks"

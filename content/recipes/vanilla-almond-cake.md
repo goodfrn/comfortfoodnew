@@ -15,11 +15,11 @@ totalTime: PT44M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "baking tips"
-- "cake recipe"
-- "almond flavor"
-- "vanilla dessert"
-- "folding technique"
+- "cake"
+- "vanilla"
+- "almond"
+- "dessert"
+- "homemade"
 keywords:
 - "vanilla cake"
 - "almond cake"

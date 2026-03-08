@@ -15,13 +15,11 @@ totalTime: PT2H5M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "beef roast"
-- "slow roasting"
-- "French-inspired"
-- "roasting tips"
-- "horseradish"
-- "pork fat"
-- "black garlic"
+- "beef"
+- "roasted"
+- "comfort food"
+- "slow cooker"
+- "main dish"
 keywords:
 - "rib beef roast"
 - "slow cooking beef"

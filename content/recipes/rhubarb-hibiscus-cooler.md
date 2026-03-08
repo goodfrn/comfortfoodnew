@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "8 cups"
 categories: ["Beverages"]
 tags:
-- "non-alcoholic"
-- "summer drinks"
-- "herbal beverage"
-- "refreshing"
-- "rhubarb"
+- "drink"
+- "summer"
+- "healthy"
+- "easy"
+- "citrus"
 keywords:
 - "rhubarb drink"
 - "rose hips tea"

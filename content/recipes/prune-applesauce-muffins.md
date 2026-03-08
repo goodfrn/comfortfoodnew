@@ -15,13 +15,11 @@ totalTime: PT25M
 recipeYield: "12 muffins"
 categories: ["Breakfast"]
 tags:
-- "baking"
 - "muffins"
-- "prunes"
-- "applesauce"
-- "American cuisine"
+- "apple"
+- "cinnamon"
 - "breakfast"
-- "snack"
+- "vegetarian"
 keywords:
 - "prune muffins"
 - "applesauce baking"

@@ -15,11 +15,11 @@ totalTime: PT8H55M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Irish American"
 - "slow cooker"
-- "braised meat"
-- "root vegetables"
+- "beef"
+- "cabbage"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "corned beef"
 - "slow cooker recipes"

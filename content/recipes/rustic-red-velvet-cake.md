@@ -15,11 +15,11 @@ totalTime: PT57M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
 - "cake"
 - "dessert"
-- "red velvet"
-- "baking tips"
+- "homemade"
+- "american"
+- "beet"
 keywords:
 - "red velvet cake"
 - "beet powder"

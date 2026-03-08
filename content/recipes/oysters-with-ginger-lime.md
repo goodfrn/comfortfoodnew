@@ -17,10 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "seafood"
 - "appetizer"
-- "French-inspired"
-- "raw oyster"
-- "mignonette"
 - "citrus"
+- "mint"
+- "summer"
 keywords:
 - "oysters"
 - "mignonette sauce"

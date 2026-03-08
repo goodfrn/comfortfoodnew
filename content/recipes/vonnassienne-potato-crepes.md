@@ -15,11 +15,11 @@ totalTime: PT43M
 recipeYield: 30 small crêpes
 categories: ["Appetizers"]
 tags:
-- "recipe"
 - "potato"
-- "crêpes"
-- "vegetarian"
-- "Alsace"
+- "breakfast"
+- "french"
+- "pancakes"
+- "homemade"
 keywords:
 - "crêpes recipe"
 - "vegetarian dish"

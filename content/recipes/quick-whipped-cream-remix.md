@@ -15,11 +15,10 @@ totalTime: PT3M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "whipped cream"
-- "dessert topping"
-- "kitchen tips"
-- "hand whisking"
-- "ingredient swaps"
+- "dessert"
+- "honey"
+- "easy"
+- "homemade"
 keywords:
 - "whipped cream"
 - "cornstarch whipped cream"

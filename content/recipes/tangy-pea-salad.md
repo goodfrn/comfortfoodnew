@@ -15,13 +15,11 @@ totalTime: PT20M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "salads"
-- "easy sides"
-- "dill"
-- "Greek yogurt"
-- "cold salads"
-- "picnic food"
-- "American cuisine"
+- "salad"
+- "ham"
+- "healthy"
+- "easy"
+- "vegetarian"
 keywords:
 - "pea salad"
 - "Greek yogurt salad"

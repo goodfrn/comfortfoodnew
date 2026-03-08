@@ -17,9 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "beef"
 - "appetizer"
-- "party food"
-- "snacks"
-- "baked meatballs"
+- "easy"
+- "vegetarian"
+- "comfort food"
 keywords:
 - "mini meatballs"
 - "ground beef snacks"

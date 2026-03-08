@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
-- "summer salad"
-- "fresh herbs"
-- "cold salad"
-- "easy prep"
-- "healthy eating"
+- "salad"
+- "summer"
+- "vegetarian"
+- "cheese"
+- "mediterranean"
 keywords:
 - "watermelon salad"
 - "basil feta salad"

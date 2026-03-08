@@ -15,13 +15,11 @@ totalTime: PT1H25M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "stew"
-- "slow cooking"
-- "Espelette pepper"
 - "veal"
-- "gluten free"
+- "stew"
 - "comfort food"
+- "spicy"
+- "french"
 keywords:
 - "veal stew"
 - "Espelette chili"

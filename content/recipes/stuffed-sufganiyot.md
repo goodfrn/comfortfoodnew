@@ -15,13 +15,11 @@ totalTime: PT2H30M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "jewish cuisine"
-- "holiday baking"
-- "yeast dough"
-- "fried doughnuts"
-- "custard filling"
-- "strawberry jelly"
-- "oil frying"
+- "dessert"
+- "fried"
+- "bread"
+- "strawberry"
+- "holiday"
 keywords:
 - "fried yeast dough"
 - "vanilla custard filling"

@@ -15,12 +15,11 @@ totalTime: PT52M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
+- "steak"
+- "omelet"
 - "breakfast"
-- "brunch"
-- "baked eggs"
-- "steak recipes"
-- "hash browns"
-- "skillet meals"
+- "cheese"
+- "eggs"
 keywords:
 - "steak hash"
 - "baked eggs"

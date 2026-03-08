@@ -15,10 +15,11 @@ totalTime: PT50M
 recipeYield: 4
 categories: ["Main Dishes"]
 tags:
-- "Italian"
 - "pasta"
-- "dinner"
-- "one pot"
+- "sausage"
+- "italian"
+- "cheese"
+- "easy dinner"
 keywords:
 - "sausage pasta"
 - "bell pepper recipe"

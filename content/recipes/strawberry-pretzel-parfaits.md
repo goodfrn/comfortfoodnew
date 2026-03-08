@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "layered dessert"
-- "no-bake"
-- "summer dessert"
-- "chilled dessert"
+- "strawberry"
+- "pretzel"
+- "dessert"
+- "no bake"
+- "easy"
 keywords:
 - "strawberry parfait"
 - "pretzel crust"

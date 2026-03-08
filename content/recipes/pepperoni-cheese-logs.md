@@ -15,11 +15,11 @@ totalTime: PT38M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "finger food"
-- "party food"
-- "fried foods"
-- "American cuisine"
+- "appetizer"
+- "pizza"
+- "cheese"
+- "fried"
+- "snack"
 keywords:
 - "pepperoni cheese logs"
 - "egg roll wrapper snacks"

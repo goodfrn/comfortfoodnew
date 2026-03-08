@@ -15,11 +15,11 @@ totalTime: PT36M
 recipeYield: "6 large cookies"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "cookie baking"
-- "berry cookies"
-- "holiday treats"
-- "white chocolate chips"
+- "cookies"
+- "strawberry"
+- "almond"
+- "vanilla"
+- "no bake"
 keywords:
 - "shortcake cookies"
 - "strawberry cookies"

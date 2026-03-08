@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "salmon"
-- "poaching"
-- "horseradish"
-- "arrowroot"
-- "dill"
-- "milk sauce"
-- "gluten-free"
+- "seafood"
+- "easy dinner"
+- "one pot"
+- "main dish"
 keywords:
 - "poached salmon"
 - "horseradish milk sauce"

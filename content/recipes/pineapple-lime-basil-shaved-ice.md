@@ -15,14 +15,10 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Frozen Treats"]
 tags:
-- "frozen dessert"
 - "pineapple"
-- "summer treat"
-- "maceration"
-- "shaved ice"
-- "vanilla ice cream"
-- "citrus dessert"
-- "mint"
+- "summer"
+- "dessert"
+- "easy"
 keywords:
 - "pineapple shaved ice"
 - "macerated fruit dessert"

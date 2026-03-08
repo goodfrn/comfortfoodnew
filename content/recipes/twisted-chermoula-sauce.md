@@ -15,15 +15,10 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "North African"
-- "herb sauce"
-- "chermoula"
-- "parsley"
-- "mint"
-- "cumin"
-- "walnut oil"
-- "garlic"
-- "lemon juice"
+- "moroccan"
+- "condiment"
+- "mediterranean"
+- "lemon"
 keywords:
 - "chermoula"
 - "parsley mint sauce"

@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "36 servings"
 categories: ["Desserts"]
 tags:
-- "baking tips"
-- "lemon dessert"
-- "cookie baking"
-- "quick recipes"
-- "American cuisine"
+- "cookies"
+- "lemon"
+- "citrus"
+- "easy"
+- "no bake"
 keywords:
 - "lemon zest cookies"
 - "crinkle cookies"

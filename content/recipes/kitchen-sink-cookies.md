@@ -16,13 +16,10 @@ recipeYield: "25 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "snack"
-- "dessert"
-- "chilling"
-- "nuts"
-- "pretzels"
-- "toffee"
+- "chocolate"
+- "comfort food"
+- "cookies"
+- "chocolate"
 keywords:
 - "cookie recipe"
 - "cookie dough tips"

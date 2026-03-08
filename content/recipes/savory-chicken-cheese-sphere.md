@@ -15,14 +15,11 @@ totalTime: PT4H35M
 recipeYield: "10 servings"
 categories: ["Appetizers"]
 tags:
+- "chicken"
+- "cheese"
 - "appetizer"
-- "cheese ball"
-- "chicken recipes"
-- "party food"
-- "make ahead"
-- "nut crust"
-- "cold appetizer"
-- "easy snack"
+- "party"
+- "no bake"
 keywords:
 - "cream cheese appetizer"
 - "shredded chicken dip"

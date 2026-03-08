@@ -15,11 +15,10 @@ totalTime: PT28M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "Irish"
-- "Potato Dishes"
-- "Comfort Food"
-- "Cabbage Recipes"
-- "Bacon Recipes"
+- "potato"
+- "bacon"
+- "cabbage"
+- "comfort food"
 keywords:
 - "Colcannon"
 - "Irish mash"

@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "steak"
-- "marinade"
 - "grilling"
-- "herb sauce"
-- "beef"
-- "American cuisine"
+- "easy dinner"
+- "main dish"
+- "american"
 keywords:
 - "bavette steak"
 - "steak marinade"

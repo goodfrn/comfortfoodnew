@@ -15,15 +15,11 @@ totalTime: PT8H50M
 recipeYield: "14 servings"
 categories: ["Soups"]
 tags:
-- "Vietnamese"
-- "broth"
-- "slow cooked"
-- "pho"
-- "bone broth"
-- "simmer"
 - "slow cooker"
-- "roast"
-- "spices"
+- "asian"
+- "soup"
+- "beef"
+- "vietnamese"
 keywords:
 - "marrow bones"
 - "pho broth"

@@ -15,11 +15,11 @@ totalTime: PT5H20M
 recipeYield: "80 servings"
 categories: ["Desserts"]
 tags:
-- "candy making"
-- "caramels"
-- "traditional recipes"
-- "American candy"
-- "slow cooking"
+- "candy"
+- "caramel"
+- "homemade"
+- "no bake"
+- "dessert"
 keywords:
 - "caramel candy"
 - "homemade caramels"

@@ -15,12 +15,11 @@ totalTime: PT3H
 recipeYield: "12 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "buffalo chicken dip"
-- "slow cooker buffalo chicken dip"
-- "crockpot buffalo chicken dip recipe"
-- "easy buffalo chicken dip recipe"
-- "franks buffalo chicken dip"
-- "party dip"
+- "appetizer"
+- "chicken"
+- "cheese"
+- "easy"
+- "slow cooker"
 keywords:
 - "buffalo chicken dip"
 - "buffalo chicken dip recipe"

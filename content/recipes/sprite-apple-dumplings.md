@@ -15,12 +15,11 @@ totalTime: PT60M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "easy baking"
-- "fruit pastry"
-- "soda desserts"
-- "fall baking"
-- "quick dessert"
+- "apple"
+- "cinnamon"
+- "dessert"
+- "comfort food"
+- "easy"
 keywords:
 - "apple dumplings"
 - "crescent roll dessert"

@@ -16,13 +16,10 @@ recipeYield: "3 servings"
 categories: ["Rice and Grains"]
 tags:
 - "rice"
-- "jasmine"
 - "lemon"
-- "thyme"
-- "olive oil"
-- "low sodium broth"
 - "side dish"
-- "American cuisine"
+- "easy"
+- "mediterranean"
 keywords:
 - "jasmine rice"
 - "lemon thyme rice"

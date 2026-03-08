@@ -15,13 +15,11 @@ totalTime: PT2H
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French inspired"
-- "gluten free"
-- "dairy free"
-- "low egg"
-- "roasted turkey"
-- "stuffed meat"
-- "fall flavors"
+- "turkey"
+- "quinoa"
+- "pumpkin"
+- "roasted"
+- "main dish"
 keywords:
 - "turkey rolls"
 - "quinoa filling"

@@ -15,11 +15,11 @@ totalTime: PT1H8M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "fruit desserts"
 - "cupcakes"
-- "baking tips"
-- "marshmallow frosting"
+- "raspberry"
+- "dessert"
+- "easy"
+- "lemon"
 keywords:
 - "cupcakes"
 - "raspberries"

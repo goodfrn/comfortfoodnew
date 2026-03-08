@@ -15,14 +15,11 @@ totalTime: PT1H10M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "yeast breads"
 - "caramel"
 - "cinnamon"
-- "dessert"
-- "French-inspired"
+- "bread"
+- "breakfast"
 - "honey"
-- "cardamom"
 keywords:
 - "caramel buns"
 - "yeast dough"

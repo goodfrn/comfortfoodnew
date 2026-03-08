@@ -15,13 +15,11 @@ totalTime: PT47M
 recipeYield: "15 mini cakes"
 categories: ["Desserts"]
 tags:
-- "baking"
+- "cake"
 - "citrus"
-- "mini cakes"
-- "almond flour"
-- "coconut oil"
-- "yogurt"
-- "French-inspired"
+- "coconut"
+- "almond"
+- "lemon"
 keywords:
 - "orange zest bundt"
 - "mini bundt cakes"

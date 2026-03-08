@@ -15,13 +15,10 @@ totalTime: PT33M
 recipeYield: "40 servings"
 categories: ["Desserts"]
 tags:
-- "pumpkin"
-- "fall baking"
 - "cookies"
-- "cream cheese frosting"
-- "olive oil"
-- "home baking"
-- "seasonal spices"
+- "pumpkin"
+- "spice"
+- "fall"
 keywords:
 - "pumpkin cookies"
 - "cream cheese frosting"

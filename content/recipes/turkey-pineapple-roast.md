@@ -15,12 +15,11 @@ totalTime: PT3H30M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "poultry"
-- "roast"
-- "stuffed turkey"
-- "brining"
-- "holiday dinner"
-- "fruit stuffing"
+- "turkey"
+- "pineapple"
+- "roasted"
+- "pistachio"
+- "holiday"
 keywords:
 - "turkey breast roast"
 - "pineapple stuffing"

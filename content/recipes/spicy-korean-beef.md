@@ -15,12 +15,11 @@ totalTime: PT23M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Korean-inspired"
-- "ground beef"
-- "quick meals"
-- "stir fry"
-- "spicy dishes"
-- "dinner ideas"
+- "beef"
+- "korean"
+- "spicy"
+- "sesame"
+- "rice"
 keywords:
 - "Korean beef recipe"
 - "ground beef stir fry"

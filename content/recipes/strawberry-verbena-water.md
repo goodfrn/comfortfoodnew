@@ -15,11 +15,11 @@ totalTime: PT2H30M
 recipeYield: "8 servings"
 categories: ["Beverages"]
 tags:
-- "infusion"
-- "herbal water"
-- "summer drink"
-- "vegan"
-- "gluten free"
+- "drink"
+- "strawberry"
+- "summer"
+- "healthy"
+- "easy"
 keywords:
 - "strawberry water"
 - "mint infusion"

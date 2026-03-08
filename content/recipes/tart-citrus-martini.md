@@ -16,10 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "martini"
 - "citrus"
+- "lemon"
 - "vodka"
-- "honey syrup"
+- "drink"
 keywords:
 - "vodka cocktail"
 - "lemon sugar rim"

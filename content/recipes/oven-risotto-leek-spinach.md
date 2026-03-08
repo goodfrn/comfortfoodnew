@@ -15,11 +15,11 @@ totalTime: PT47M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "rice dish"
-- "oven baked"
-- "vegetarian option"
-- "comfort food"
+- "risotto"
+- "vegetarian"
+- "spinach"
+- "ricotta"
+- "italian"
 keywords:
 - "risotto"
 - "leeks"

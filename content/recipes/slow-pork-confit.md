@@ -15,12 +15,11 @@ totalTime: PT2H0M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "confit"
 - "pork"
-- "slow cooking"
-- "goose fat"
-- "marinade"
+- "slow cooker"
+- "comfort food"
+- "homemade"
+- "mediterranean"
 keywords:
 - "pork confit"
 - "goose fat"

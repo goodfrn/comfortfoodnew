@@ -15,9 +15,10 @@ totalTime: PT65M
 recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
-- "desserts"
-- "pastries"
-- "fruit desserts"
+- "dessert"
+- "strawberry"
+- "chocolate"
+- "summer"
 keywords:
 - "strawberry bites"
 - "white chocolate pastry"

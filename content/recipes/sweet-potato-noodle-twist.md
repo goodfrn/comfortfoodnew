@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "2 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegan"
-- "gluten-free"
-- "fusion"
-- "quick meals"
-- "plant-based"
-- "healthy lunch"
+- "easy dinner"
+- "roasted"
+- "sesame"
+- "healthy"
+- "asian"
 keywords:
 - "sweet potato noodles"
 - "sesame ginger dressing"

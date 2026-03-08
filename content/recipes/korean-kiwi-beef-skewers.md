@@ -16,10 +16,10 @@ recipeYield: "8 skewers"
 categories: ["Main Dishes"]
 tags:
 - "grilling"
-- "korean cuisine"
-- "easy recipes"
-- "bbq"
-- "summer"
+- "korean"
+- "beef"
+- "easy"
+- "spicy"
 keywords:
 - "beef skewers"
 - "korean recipe"

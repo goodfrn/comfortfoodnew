@@ -15,12 +15,11 @@ totalTime: PT53M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "Italian-American"
-- "fritters"
-- "snacks"
-- "cheese"
-- "fried"
 - "ricotta"
+- "lemon"
+- "fritters"
+- "fried"
+- "appetizer"
 keywords:
 - "ricotta fritters"
 - "lemon zest fritters"

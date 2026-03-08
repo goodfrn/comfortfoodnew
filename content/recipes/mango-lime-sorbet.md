@@ -15,12 +15,11 @@ totalTime: PT4H35M
 recipeYield: "6 servings"
 categories: ["Frozen Treats"]
 tags:
+- "summer"
 - "vegan"
-- "dairy free"
-- "summer dessert"
-- "fruit sorbet"
-- "tropical"
-- "no baking"
+- "dessert"
+- "citrus"
+- "healthy"
 keywords:
 - "mango sorbet"
 - "lime juice sorbet"

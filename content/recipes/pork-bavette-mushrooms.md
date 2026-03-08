@@ -15,14 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "gluten-free"
-- "dairy-free"
-- "nut-free"
-- "easy weeknight"
-- "skillet cooking"
-- "savory sauce"
-- "root vegetables"
+- "pork"
+- "mushroom"
+- "french"
+- "easy dinner"
+- "roasted"
 keywords:
 - "pork bavette"
 - "mushroom sauce"

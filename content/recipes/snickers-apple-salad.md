@@ -15,12 +15,11 @@ totalTime: PT20M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
+- "dessert"
 - "no bake"
-- "dessert salad"
-- "fruit salad"
-- "Snickers"
-- "instant pudding"
-- "easy dessert"
+- "apple"
+- "candy"
+- "salad"
 keywords:
 - "Snickers salad"
 - "apple dessert salad"

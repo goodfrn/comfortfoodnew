@@ -15,14 +15,10 @@ totalTime: PT63M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "savory pastry"
-- "almond flour"
-- "goat cheese"
-- "cherry tomatoes"
-- "herb tart"
-- "French inspired"
-- "arrowroot thickener"
-- "olive oil tart"
+- "tart"
+- "vegetarian"
+- "cheese"
+- "easy"
 keywords:
 - "savory tart"
 - "herb custard filling"

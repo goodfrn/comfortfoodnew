@@ -15,14 +15,11 @@ totalTime: PT10H10M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
+- "cheese"
 - "dessert"
-- "baking"
-- "cheesecake"
 - "strawberry"
-- "cream cheese"
-- "water bath"
-- "golden Oreos"
-- "oven baking"
+- "cake"
+- "no bake"
 keywords:
 - "cheesecake baking"
 - "strawberry gelatin topping"

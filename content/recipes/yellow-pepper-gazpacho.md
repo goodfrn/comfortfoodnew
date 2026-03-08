@@ -15,11 +15,10 @@ totalTime: PT35M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
-- "Spanish cuisine"
-- "cold soups"
-- "summer recipes"
-- "roasted peppers"
-- "easy entertaining"
+- "soup"
+- "vegetarian"
+- "summer"
+- "easy"
 keywords:
 - "yellow bell pepper"
 - "gazpacho recipe"

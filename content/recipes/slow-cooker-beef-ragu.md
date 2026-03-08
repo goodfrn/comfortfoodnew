@@ -15,13 +15,11 @@ totalTime: PT6H35M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
 - "beef"
-- "ragu"
-- "Italian-American"
-- "braised meat"
-- "comfort food"
-- "pasta sauce"
+- "slow cooker"
+- "italian"
+- "pasta"
+- "easy dinner"
 keywords:
 - "beef ragu recipe"
 - "beef ragu"

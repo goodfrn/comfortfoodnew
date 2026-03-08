@@ -16,12 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "caramel"
+- "no bake"
 - "dessert"
-- "maple syrup"
 - "gluten free"
-- "no eggs"
-- "nuts optional"
-- "confections"
+- "vegan"
 keywords:
 - "caramel cones"
 - "almond caramel"

@@ -15,13 +15,11 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "American"
-- "Soup"
-- "Tomato"
-- "Bacon"
-- "Comfort Food"
-- "Dinner"
-- "Puréed Soup"
+- "soup"
+- "bacon"
+- "comfort food"
+- "easy dinner"
+- "one pot"
 keywords:
 - "bacon soup"
 - "tomato soup"

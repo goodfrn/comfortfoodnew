@@ -15,12 +15,11 @@ totalTime: PT25M
 recipeYield: "3 cups approx"
 categories: ["Desserts"]
 tags:
-- "ganache"
 - "chocolate"
-- "coconut cream"
-- "almond butter"
-- "French-inspired"
-- "cake frosting"
+- "coconut"
+- "almond"
+- "dessert"
+- "no bake"
 keywords:
 - "ganache"
 - "bittersweet chocolate"

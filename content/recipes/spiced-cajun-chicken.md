@@ -15,11 +15,11 @@ totalTime: PT39M
 recipeYield: "5 servings"
 categories: ["Main Dishes"]
 tags:
-- "Cajun"
-- "chicken pasta"
-- "smoked paprika"
-- "Alfredo sauce"
-- "quick dinner"
+- "cajun"
+- "chicken"
+- "pasta"
+- "spicy"
+- "easy dinner"
 keywords:
 - "Cajun seasoning"
 - "fettuccine"

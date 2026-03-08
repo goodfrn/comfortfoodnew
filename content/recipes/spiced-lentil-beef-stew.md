@@ -15,14 +15,11 @@ totalTime: PT1H30M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "beef stew"
 - "lentils"
-- "gluten free"
-- "dairy free"
-- "easy dinner"
-- "slow cooker"
-- "one pot meal"
-- "healthy stew"
+- "beef"
+- "stew"
+- "spice"
+- "comfort food"
 keywords:
 - "lentil beef stew"
 - "slow-cooked stew"

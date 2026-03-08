@@ -15,13 +15,11 @@ totalTime: PT70M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "holiday"
-- "stuffing"
 - "sausage"
-- "herbs"
-- "baking"
-- "sides"
+- "side dish"
+- "holiday"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "stuffing"
 - "sausage stuffing"

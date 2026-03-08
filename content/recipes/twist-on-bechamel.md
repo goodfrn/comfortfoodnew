@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "French-inspired"
-- "sauce technique"
-- "home cooking"
-- "vegan option"
-- "cook’s tips"
+- "french"
+- "mediterranean"
+- "easy"
+- "homemade"
+- "side dish"
 keywords:
 - "béchamel"
 - "roux"

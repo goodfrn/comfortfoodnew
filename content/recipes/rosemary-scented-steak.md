@@ -17,7 +17,8 @@ categories: ["Main Dishes"]
 tags:
 - "steak"
 - "grilling"
-- "herbs"
+- "beef"
+- "easy dinner"
 keywords:
 - "steak recipe"
 - "French-Italian fusion"

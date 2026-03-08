@@ -16,12 +16,9 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
 - "oatmeal"
-- "maple syrup"
 - "cinnamon"
-- "dessert"
-- "American"
+- "homemade"
 keywords:
 - "oatmeal cookies"
 - "maple syrup glaze"

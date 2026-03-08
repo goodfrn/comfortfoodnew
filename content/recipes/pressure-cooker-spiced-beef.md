@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-American"
 - "pressure cooker"
-- "ground beef"
-- "taco filling"
-- "quick meals"
+- "beef"
+- "spicy"
+- "easy"
+- "mexican"
 keywords:
 - "ground beef"
 - "pressure cooking"

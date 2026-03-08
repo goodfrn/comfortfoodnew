@@ -15,13 +15,10 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "Caribbean-inspired"
-- "gluten-free"
-- "egg-free"
-- "nut-free"
-- "no-bake"
-- "tropical"
-- "refreshing dessert"
+- "pineapple"
+- "dessert"
+- "summer"
+- "coconut"
 keywords:
 - "pineapple dessert"
 - "lime granita"

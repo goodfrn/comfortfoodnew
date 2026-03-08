@@ -15,10 +15,10 @@ totalTime: PT50M
 recipeYield: "8 pieces"
 categories: ["Snacks"]
 tags:
-- "snack"
-- "dessert"
-- "pastry"
-- "bake"
+- "ricotta"
+- "lemon"
+- "breakfast"
+- "easy"
 keywords:
 - "danish recipe"
 - "lemon ricotta"

@@ -15,13 +15,11 @@ totalTime: PT52M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "French cuisine"
-- "onion soup"
-- "caramelization"
-- "cheese gratin"
-- "rosemary"
-- "sherry"
-- "bread toast"
+- "comfort food"
+- "soup"
+- "cheese"
+- "french"
+- "easy dinner"
 keywords:
 - "onion gratinée"
 - "caramelized onions"

@@ -18,11 +18,8 @@ tags:
 - "chicken"
 - "spinach"
 - "apple"
-- "pine nuts"
-- "stuffing"
-- "American cuisine"
-- "weeknight dinner"
-- "baking"
+- "main dish"
+- "easy dinner"
 keywords:
 - "chicken rolls"
 - "spinach stuffing"

@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: 4 servings
 categories: ["Appetizers"]
 tags:
-- "Vegetarian"
-- "French Cuisine"
-- "Appetizer"
-- "Healthy Eating"
+- "zucchini"
+- "vegetarian"
+- "appetizer"
+- "italian"
+- "fennel"
 keywords:
 - "Herbivorous Recipes"
 - "Easy Starters"

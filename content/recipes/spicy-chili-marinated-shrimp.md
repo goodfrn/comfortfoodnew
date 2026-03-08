@@ -15,13 +15,11 @@ totalTime: PT33M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "seafood"
-- "appetizers"
-- "French fusion"
-- "marinades"
-- "quick meals"
-- "grilling"
-- "gluten-free"
+- "shrimp"
+- "spicy"
+- "appetizer"
+- "easy"
+- "citrus"
 keywords:
 - "shrimp marinade"
 - "spicy shrimp"

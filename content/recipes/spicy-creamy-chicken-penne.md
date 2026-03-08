@@ -15,13 +15,10 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American Creole"
-- "pasta"
 - "chicken"
-- "Cajun"
-- "comfort food"
-- "one-pan meal"
-- "easy dinner"
+- "pasta"
+- "spicy"
+- "cajun"
 keywords:
 - "penne pasta"
 - "Cajun seasoning"

@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Canadian fusion"
+- "pork"
 - "grilling"
-- "healthy meals"
-- "glazing techniques"
-- "quick cook"
+- "quinoa"
+- "healthy"
+- "asian"
 keywords:
 - "pork quinoa"
 - "maple glaze"

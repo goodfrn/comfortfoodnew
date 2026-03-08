@@ -15,12 +15,11 @@ totalTime: PT26M
 recipeYield: "10 servings"
 categories: ["Beverages"]
 tags:
-- "citrus"
-- "non-alcoholic"
-- "summer drink"
 - "vegan"
-- "gluten-free"
-- "refreshing"
+- "citrus"
+- "lemon"
+- "drink"
+- "summer"
 keywords:
 - "lemonade"
 - "citrus zest"

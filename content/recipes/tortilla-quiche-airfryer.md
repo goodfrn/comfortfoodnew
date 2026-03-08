@@ -17,9 +17,8 @@ categories: ["Main Dishes"]
 tags:
 - "air fryer"
 - "quiche"
-- "quick meals"
-- "no crust"
-- "fusion comfort"
+- "bacon"
+- "eggs"
 keywords:
 - "quiche"
 - "air fryer"

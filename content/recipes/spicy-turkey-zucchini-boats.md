@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "8 boats"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-inspired"
-- "ground turkey"
-- "zucchini recipe"
-- "baked vegetables"
-- "gluten-free"
-- "low carb"
+- "spicy"
+- "turkey"
+- "zucchini"
+- "main dish"
+- "easy dinner"
 keywords:
 - "ground turkey recipe"
 - "zucchini boats"

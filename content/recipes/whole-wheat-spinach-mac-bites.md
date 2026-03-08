@@ -15,13 +15,11 @@ totalTime: PT29M
 recipeYield: "24 bites"
 categories: ["Snacks"]
 tags:
-- "American"
-- "snack"
-- "baked"
-- "kid friendly"
-- "comfort food"
-- "spinach"
-- "whole wheat"
+- "pasta"
+- "cheese"
+- "vegetarian"
+- "appetizer"
+- "easy dinner"
 keywords:
 - "mac and cheese"
 - "whole wheat macaroni"

@@ -15,12 +15,11 @@ totalTime: PT75M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Louisiana-Inspired"
-- "seafood"
+- "cajun"
 - "pasta"
-- "one-pan"
-- "smoky flavor"
-- "weeknight meal"
+- "sausage"
+- "one pot"
+- "easy dinner"
 keywords:
 - "jambalaya"
 - "spaghetti"

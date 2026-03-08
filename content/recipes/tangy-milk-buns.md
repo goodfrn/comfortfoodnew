@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Breads"]
 tags:
 - "bread"
-- "yeast"
-- "baking"
-- "milk buns"
-- "avocado oil"
+- "lemon"
+- "homemade"
+- "easy"
+- "breakfast"
 keywords:
 - "milk buns"
 - "yeast bread"

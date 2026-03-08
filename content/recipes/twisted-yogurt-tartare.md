@@ -15,13 +15,11 @@ totalTime: PT7M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "French-inspired"
-- "no eggs"
-- "no nuts"
-- "gluten-free"
-- "dip"
-- "tartare"
-- "yogurt"
+- "appetizer"
+- "vegetarian"
+- "healthy"
+- "gluten free"
+- "lemon"
 keywords:
 - "yogurt tartare"
 - "pickled radishes"

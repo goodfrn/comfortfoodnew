@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Breads"]
 tags:
-- "Italian-inspired"
+- "bread"
+- "vegetarian"
 - "vegan"
-- "levain"
-- "seeded bread"
-- "artisan bread"
-- "homemade bread"
+- "sesame"
+- "easy"
 keywords:
 - "ciabatta"
 - "levain starter"

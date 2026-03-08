@@ -15,11 +15,11 @@ totalTime: PT53M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "American comfort"
-- "oven bake"
-- "vegetable pasta"
-- "cheese blend"
-- "home cooking"
+- "pasta"
+- "spinach"
+- "cheese"
+- "vegetarian"
+- "easy dinner"
 keywords:
 - "spinach artichoke"
 - "baked pasta"

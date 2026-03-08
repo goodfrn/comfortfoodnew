@@ -15,11 +15,11 @@ totalTime: PT77M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
 - "comfort food"
-- "chicken thighs"
-- "smoked cheese"
+- "chicken"
+- "slow cooker"
 - "bacon"
+- "stew"
 keywords:
 - "chicken stew"
 - "slow cooker recipe"

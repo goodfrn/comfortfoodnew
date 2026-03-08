@@ -15,13 +15,11 @@ totalTime: PT58M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "gluten-free"
-- "dairy-free"
-- "grain bowls"
-- "seafood"
-- "healthy meals"
-- "easy dinner"
-- "contemporary cuisine"
+- "salmon"
+- "healthy"
+- "quinoa"
+- "avocado"
+- "roasted"
 keywords:
 - "salmon bowl"
 - "sweet potato recipe"

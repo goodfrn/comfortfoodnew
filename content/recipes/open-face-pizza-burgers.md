@@ -15,12 +15,11 @@ totalTime: PT19M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "burger"
+- "beef"
 - "grilling"
-- "pizza burgers"
+- "pizza"
 - "easy dinner"
-- "smoked cheese"
-- "american cuisine"
-- "quick meals"
 keywords:
 - "pizza burgers"
 - "smoky provolone"

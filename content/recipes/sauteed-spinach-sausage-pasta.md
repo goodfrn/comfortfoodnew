@@ -15,12 +15,11 @@ totalTime: PT29M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
 - "pasta"
 - "sausage"
 - "spinach"
-- "one-pan meal"
-- "weeknight dinner"
+- "italian"
+- "easy dinner"
 keywords:
 - "sausage pasta"
 - "spinach pasta"

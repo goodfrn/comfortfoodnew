@@ -15,12 +15,11 @@ totalTime: PT6H17M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
+- "no bake"
 - "coconut"
+- "pie"
 - "dessert"
-- "instant pudding"
-- "easy pie"
-- "graham crust"
+- "easy"
 keywords:
 - "no bake pie"
 - "coconut cream pie"

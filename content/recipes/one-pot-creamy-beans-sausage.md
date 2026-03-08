@@ -15,13 +15,10 @@ totalTime: PT37M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
 - "one pot"
-- "dinner"
 - "sausage"
-- "beans"
-- "spinach"
 - "comfort food"
+- "italian"
 keywords:
 - "sausage and beans"
 - "creamy bean skillet"

@@ -15,12 +15,11 @@ totalTime: PT48M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "fall cooking"
-- "vegetable side"
-- "roasting technique"
-- "nutmeg"
-- "pecans"
-- "seasonal"
+- "squash"
+- "roasted"
+- "spice"
+- "fall"
+- "side dish"
 keywords:
 - "roasted acorn squash"
 - "spiced squash slices"

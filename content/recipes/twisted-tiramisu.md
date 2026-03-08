@@ -15,13 +15,10 @@ totalTime: PT55M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "Italian-inspired"
 - "dessert"
-- "custard"
-- "tea"
-- "cream cheese"
+- "mascarpone"
 - "ricotta"
-- "sponge cake"
+- "no bake"
 keywords:
 - "black tea tiramisu"
 - "egg custard"

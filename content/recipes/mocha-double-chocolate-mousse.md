@@ -15,14 +15,10 @@ totalTime: PT1H
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "mousse"
 - "chocolate"
-- "gelatin"
-- "French-inspired"
-- "baking"
 - "espresso"
-- "dark chocolate"
+- "dessert"
+- "rum"
 keywords:
 - "mocha mousse"
 - "chocolate mousse layers"

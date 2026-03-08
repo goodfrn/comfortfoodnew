@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "roasting"
-- "vegetables"
-- "salads"
-- "Mediterranean"
-- "quick meals"
-- "healthy eating"
+- "salad"
+- "roasted"
+- "vegetarian"
+- "cheese"
+- "walnut"
 keywords:
 - "roasted vegetables"
 - "ricotta salad"

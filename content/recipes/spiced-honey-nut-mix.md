@@ -16,13 +16,9 @@ recipeYield: "25 servings"
 categories: ["Snacks"]
 tags:
 - "snack"
-- "nuts"
 - "honey"
-- "baking"
-- "easy"
-- "American"
-- "cereal"
-- "pretzels"
+- "spice"
+- "pretzel"
 keywords:
 - "honey nut mix"
 - "spicy snack"

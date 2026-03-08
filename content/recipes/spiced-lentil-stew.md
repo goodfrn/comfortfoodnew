@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Indian"
 - "lentils"
-- "slow cooked"
+- "spice"
+- "stew"
 - "comfort food"
-- "vegetarian"
+- "easy dinner"
 keywords:
 - "lentils"
 - "toasted spices"

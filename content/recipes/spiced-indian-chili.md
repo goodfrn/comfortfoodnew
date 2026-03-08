@@ -15,14 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Indian fusion"
+- "indian"
 - "chili"
-- "ground meat"
-- "curry powder"
-- "coconut milk"
-- "snap peas"
-- "cilantro"
-- "comfort food"
+- "spice"
+- "beef"
+- "coconut"
 keywords:
 - "ground beef chili"
 - "curry powder recipe"

@@ -15,12 +15,9 @@ totalTime: PT1H5M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cake"
-- "spiced dessert"
-- "cream cheese frosting"
-- "whole wheat"
-- "cherry dessert"
+- "spice"
+- "dessert"
 keywords:
 - "tomato soup cake"
 - "cherry cake"

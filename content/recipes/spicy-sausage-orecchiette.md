@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
 - "pasta"
+- "italian"
 - "sausage"
 - "spicy"
-- "rapinis"
-- "quick meal"
+- "easy dinner"
 keywords:
 - "orecchiette"
 - "spicy Italian sausage"

@@ -16,10 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "shortbread"
-- "peppermint"
-- "holiday baking"
+- "candy"
 - "cookies"
-- "Andes candy"
+- "mint"
+- "holiday"
 keywords:
 - "peppermint shortbread"
 - "Andes candy cookies"

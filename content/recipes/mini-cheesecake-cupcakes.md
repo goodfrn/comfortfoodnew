@@ -15,14 +15,11 @@ totalTime: PT35M
 recipeYield: "20 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "cheesecake"
 - "cupcakes"
-- "American"
-- "baking tips"
-- "frosting"
-- "easy dessert"
-- "party food"
+- "cheese"
+- "dessert"
+- "no bake"
+- "vanilla"
 keywords:
 - "cheesecake cupcakes"
 - "graham cracker crumbs"

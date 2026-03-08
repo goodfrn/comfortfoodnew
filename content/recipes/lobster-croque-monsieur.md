@@ -15,10 +15,10 @@ totalTime: PT52M
 recipeYield: 4
 categories: ["Seafood"]
 tags:
+- "lobster"
 - "sandwich"
-- "seafood"
-- "French cuisine"
-- "lobster dish"
+- "cheese"
+- "french"
 keywords:
 - "croque-monsieur"
 - "lobster"

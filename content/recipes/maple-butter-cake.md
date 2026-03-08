@@ -16,10 +16,9 @@ recipeYield: 10 servings
 categories: ["Desserts"]
 tags:
 - "cake"
+- "vanilla"
+- "cinnamon"
 - "dessert"
-- "autumn"
-- "buttercream"
-- "maple syrup"
 keywords:
 - "cake recipe"
 - "easy dessert"

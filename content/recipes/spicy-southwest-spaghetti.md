@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "southwestern"
-- "spaghetti"
-- "weeknight meal"
-- "easy dinner"
-- "mexican-american fusion"
+- "pasta"
+- "mexican"
+- "beef"
+- "spicy"
+- "corn"
 keywords:
 - "spaghetti"
 - "ground beef"

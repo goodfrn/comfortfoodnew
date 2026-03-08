@@ -15,13 +15,11 @@ totalTime: PT48M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Cajun"
-- "One-pot meal"
-- "Seafood"
-- "Comfort food"
-- "Rice dish"
-- "Spicy"
-- "Chorizo"
+- "one pot"
+- "cajun"
+- "sausage"
+- "shrimp"
+- "rice"
 keywords:
 - "Sausage jambalaya"
 - "Shrimp jambalaya"

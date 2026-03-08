@@ -15,11 +15,11 @@ totalTime: PT2H65M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast turkey"
-- "dry brine"
-- "holiday cooking"
-- "French-inspired"
-- "winter meals"
+- "turkey"
+- "roasted"
+- "spice"
+- "holiday"
+- "easy dinner"
 keywords:
 - "dry brine"
 - "butter under skin"

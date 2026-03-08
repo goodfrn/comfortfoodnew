@@ -15,11 +15,11 @@ totalTime: PT52M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "Nutella"
 - "brownies"
-- "baking tips"
-- "swirl techniques"
+- "chocolate"
+- "dessert"
+- "easy"
+- "homemade"
 keywords:
 - "Nutella brownies"
 - "fudgy brownie recipe"

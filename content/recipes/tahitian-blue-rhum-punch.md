@@ -15,12 +15,10 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "tropical drinks"
-- "rum recipes"
-- "blue curaçao"
-- "vegan cocktails"
-- "Polynesian cuisine"
+- "rum"
+- "cocktail"
+- "drink"
+- "pineapple"
 keywords:
 - "aged rum cocktail"
 - "pineapple rum punch"

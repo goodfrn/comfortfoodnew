@@ -15,11 +15,11 @@ totalTime: PT25M
 recipeYield: "28 servings"
 categories: ["Desserts"]
 tags:
-- "candy making"
-- "mint desserts"
-- "chocolate recipes"
-- "no bake sweets"
-- "holiday treats"
+- "chocolate"
+- "mint"
+- "candy"
+- "no bake"
+- "homemade"
 keywords:
 - "mint patties"
 - "chocolate dipped candy"

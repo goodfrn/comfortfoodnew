@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
-- "green juice"
-- "healthy drinks"
+- "smoothie"
 - "vegetarian"
-- "quick recipes"
-- "fresh juice"
+- "healthy"
+- "easy"
+- "citrus"
 keywords:
 - "green juice"
 - "kale juice"

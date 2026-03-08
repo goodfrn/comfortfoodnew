@@ -16,11 +16,10 @@ recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegetarian"
-- "quinoa"
-- "sweet potato"
-- "savory pie"
-- "yogurt sauce"
-- "roasted walnuts"
+- "healthy"
+- "pie"
+- "spice"
+- "squash"
 keywords:
 - "quinoa pie"
 - "sweet potato"

@@ -15,10 +15,9 @@ totalTime: PT35M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "Tex-Mex"
-- "casserole"
-- "ground beef"
-- "crescent rolls"
+- "beef"
+- "mexican"
+- "cheese"
 - "easy dinner"
 - "comfort food"
 keywords:

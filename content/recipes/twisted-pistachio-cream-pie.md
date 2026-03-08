@@ -15,11 +15,11 @@ totalTime: PT4H15M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
+- "pie"
 - "pistachio"
+- "no bake"
 - "dessert"
-- "easy recipes"
-- "American desserts"
+- "easy"
 keywords:
 - "pistachio pudding pie"
 - "cream cheese pie"

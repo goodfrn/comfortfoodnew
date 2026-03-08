@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Breads"]
 tags:
 - "brioche"
-- "Lenten"
-- "Easter"
-- "fruit"
 - "bread"
+- "holiday"
+- "homemade"
+- "eggs"
 keywords:
 - "baking recipe"
 - "Lenten bread"

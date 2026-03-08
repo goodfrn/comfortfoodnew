@@ -15,13 +15,11 @@ totalTime: PT32M
 recipeYield: "14 servings"
 categories: ["Breakfast"]
 tags:
-- "American"
-- "Breakfast"
-- "Brunch"
-- "Pancakes"
-- "Blueberry syrup"
-- "Kefir"
-- "Lemon zest"
+- "pancakes"
+- "lemon"
+- "breakfast"
+- "blueberry"
+- "citrus"
 keywords:
 - "lemon pancakes"
 - "souffle pancakes"

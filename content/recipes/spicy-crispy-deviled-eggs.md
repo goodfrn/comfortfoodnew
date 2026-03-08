@@ -15,11 +15,10 @@ totalTime: PT38M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "deviled eggs"
-- "spicy"
+- "eggs"
 - "appetizer"
-- "gluten-free"
-- "party food"
+- "spicy"
+- "bacon"
 keywords:
 - "eggs"
 - "snack"

@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
-- "gluten-free"
+- "tart"
+- "ricotta"
 - "vegetarian"
-- "finger food"
-- "make-ahead"
+- "appetizer"
+- "easy"
 keywords:
 - "panko crust"
 - "ricotta cheese"

@@ -17,12 +17,9 @@ categories: ["Salads"]
 tags:
 - "tuna"
 - "salad"
-- "easy meal"
-- "make ahead"
-- "weeknight dinner"
-- "creamy dressing"
-- "crunchy salad"
-- "American cuisine"
+- "spicy"
+- "lemon"
+- "easy dinner"
 keywords:
 - "tuna salad"
 - "Dijon mustard"

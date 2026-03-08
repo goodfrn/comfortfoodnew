@@ -17,9 +17,9 @@ categories: ["Desserts"]
 tags:
 - "chocolate"
 - "pie"
-- "southern dessert"
-- "custard"
-- "baking tips"
+- "comfort food"
+- "dessert"
+- "homemade"
 keywords:
 - "chocolate pie"
 - "chess pie"

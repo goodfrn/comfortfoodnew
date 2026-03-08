@@ -15,14 +15,11 @@ totalTime: PT1H35M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "baking"
-- "French-Canadian"
 - "bread"
-- "focaccia"
-- "smoked meat"
-- "potatoes"
+- "potato"
 - "cheese"
-- "comfort food"
+- "easy dinner"
+- "homemade"
 keywords:
 - "focaccia"
 - "smoked meat"

@@ -15,12 +15,11 @@ totalTime: PT72M
 recipeYield: "2 pizzas or 4 calzones"
 categories: ["Pizza and Flatbreads"]
 tags:
-- "Italian"
-- "baking"
-- "homemade dough"
-- "hand kneading"
-- "cold fermentation"
-- "vegan option"
+- "pizza"
+- "bread"
+- "easy"
+- "homemade"
+- "italian"
 keywords:
 - "pizza dough"
 - "maple syrup"

@@ -15,11 +15,11 @@ totalTime: PT65M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "Moroccan fusion"
-- "savory pastry"
-- "holiday dish"
-- "crispy layers"
-- "sweet and savory"
+- "moroccan"
+- "turkey"
+- "almond"
+- "cinnamon"
+- "appetizer"
 keywords:
 - "turkey pastillas"
 - "spiced turkey recipe"

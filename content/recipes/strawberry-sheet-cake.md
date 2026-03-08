@@ -15,14 +15,11 @@ totalTime: PT53M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "sheet cake"
+- "cake"
 - "strawberry"
-- "gelatin"
-- "coconut oil"
+- "coconut"
 - "dessert"
-- "baking tips"
-- "cream cheese icing"
+- "homemade"
 keywords:
 - "strawberry cake"
 - "sheet cake"

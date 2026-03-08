@@ -15,12 +15,11 @@ totalTime: PT4H42M
 recipeYield: "12 cups"
 categories: ["Main Dishes"]
 tags:
-- "American Southwest"
 - "slow cooker"
 - "lamb"
 - "chili"
-- "chipotle"
-- "spices"
+- "spicy"
+- "comfort food"
 keywords:
 - "lamb chili"
 - "slow cooker recipe"

@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "beef"
-- "stir fry"
-- "Peruvian cuisine"
-- "quick meals"
 - "spicy"
-- "sumac"
-- "flank steak"
-- "crispy fries"
+- "asian"
+- "rice"
+- "easy dinner"
 keywords:
 - "beef stir fry"
 - "marinated flank steak"

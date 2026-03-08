@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
 - "salad"
-- "vegan"
-- "pickled"
-- "Korean"
-- "healthy"
+- "korean"
+- "vegetarian"
+- "easy"
+- "condiment"
 keywords:
 - "Napa cabbage"
 - "vegan salad"

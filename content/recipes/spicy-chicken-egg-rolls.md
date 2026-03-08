@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "fried snacks"
-- "buffalo chicken"
-- "freezer meals"
-- "American cuisine"
+- "chicken"
+- "spicy"
+- "appetizer"
+- "fried"
+- "comfort food"
 keywords:
 - "egg rolls"
 - "buffalo chicken"

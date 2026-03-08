@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "2 servings"
 categories: ["Appetizers"]
 tags:
-- "Vietnamese"
-- "rice paper rolls"
+- "vietnamese"
 - "pork"
-- "hoisin mayo"
-- "pickled carrots"
-- "quick lunch"
-- "handheld"
-- "Asian cuisine"
+- "asian"
+- "appetizer"
+- "rice"
 keywords:
 - "rice paper rolls"
 - "ground pork rolls"

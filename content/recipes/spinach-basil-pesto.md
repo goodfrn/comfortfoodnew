@@ -15,11 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Italian-inspired"
 - "pesto"
-- "nut-free"
-- "quick recipe"
-- "herb sauce"
+- "spinach"
+- "condiment"
+- "lemon"
+- "vegetarian"
 keywords:
 - "spinach pesto"
 - "basil pesto"

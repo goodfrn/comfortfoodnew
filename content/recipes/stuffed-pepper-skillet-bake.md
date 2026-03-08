@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "one pot meal"
-- "ground beef"
-- "weeknight dinner"
-- "easy recipes"
+- "beef"
+- "italian"
+- "one pot"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "stuffed peppers"
 - "skillet bake"

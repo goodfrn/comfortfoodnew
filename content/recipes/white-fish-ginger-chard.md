@@ -15,10 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "fish"
+- "seafood"
+- "asian"
 - "healthy"
-- "dinner"
-- "Asian flavors"
+- "easy dinner"
+- "one pot"
 keywords:
 - "white fish"
 - "Swiss chard"

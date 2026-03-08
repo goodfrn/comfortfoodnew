@@ -15,10 +15,10 @@ totalTime: PT70M
 recipeYield: "3 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "meatballs"
-- "comfort food"
-- "marinara"
+- "italian"
+- "meatball"
+- "beef"
+- "pork"
 - "ricotta"
 keywords:
 - "meatballs"

@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "10 servings"
 categories: ["Snacks"]
 tags:
-- "chicken recipes"
-- "baking"
-- "snacks"
-- "American cuisine"
-- "one-dish meals"
+- "comfort food"
+- "chicken"
+- "cheese"
+- "appetizer"
+- "easy dinner"
 keywords:
 - "chicken pot pies"
 - "biscuit crust pot pie"

@@ -16,9 +16,10 @@ recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "vegetarian"
+- "roasted"
+- "spice"
 - "healthy"
-- "cozy"
+- "comfort food"
 keywords:
 - "soup recipe"
 - "healthy soup"

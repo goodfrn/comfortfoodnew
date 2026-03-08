@@ -15,13 +15,11 @@ totalTime: PT8H39M
 recipeYield: "12 bars"
 categories: ["Desserts"]
 tags:
-- "lime"
+- "tart"
+- "citrus"
+- "lemon"
 - "dessert"
-- "American"
-- "baking"
-- "whipped cream"
-- "cookies"
-- "easy dessert"
+- "easy"
 keywords:
 - "key lime bars"
 - "lime custard"

@@ -15,11 +15,10 @@ totalTime: PT17M
 recipeYield: 5 jars 250 ml
 categories: ["Preserves"]
 tags:
+- "no bake"
 - "jam"
-- "berries"
-- "no-cook"
-- "homemade"
-- "spicy"
+- "honey"
+- "citrus"
 keywords:
 - "jam recipe"
 - "homemade jam"

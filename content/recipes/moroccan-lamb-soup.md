@@ -15,11 +15,11 @@ totalTime: PT145M
 recipeYield: 6 servings
 categories: ["Soups"]
 tags:
-- "soup"
-- "Moroccan"
+- "moroccan"
 - "lamb"
-- "legumes"
-- "hearty meal"
+- "soup"
+- "lentils"
+- "chickpeas"
 keywords:
 - "lamb"
 - "soup"

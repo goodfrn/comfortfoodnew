@@ -15,12 +15,11 @@ totalTime: PT31M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "summer dessert"
-- "vegan dessert"
-- "gluten free"
-- "berry recipes"
-- "easy desserts"
-- "dairy-free"
+- "strawberry"
+- "tart"
+- "vanilla"
+- "raspberry"
+- "dessert"
 keywords:
 - "raspberry dessert"
 - "coconut whipped cream"

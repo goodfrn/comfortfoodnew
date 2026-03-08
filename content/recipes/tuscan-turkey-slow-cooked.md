@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "slow cooker"
-- "Italian-American"
-- "turkey breast"
-- "roasted vegetables"
+- "turkey"
+- "italian"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "slow-cooked turkey"
 - "Tuscan broth"

@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "appetizer"
-- "party food"
-- "easy snacks"
-- "ranch flavor"
-- "pepper crust"
+- "cheese"
+- "easy"
+- "party"
+- "snack"
 keywords:
 - "ranch dressing mix"
 - "cream cheese appetizer"

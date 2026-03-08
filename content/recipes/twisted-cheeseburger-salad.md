@@ -15,14 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "American"
 - "salad"
-- "ground beef"
-- "quick meal"
-- "comfort food"
-- "savory dressing"
+- "beef"
+- "cheese"
 - "avocado"
-- "cheddar cheese"
+- "easy dinner"
 keywords:
 - "ground beef"
 - "soy sauce"

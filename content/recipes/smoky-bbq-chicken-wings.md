@@ -15,13 +15,11 @@ totalTime: PT12H60M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
-- "gluten-free"
-- "dairy-free"
-- "poultry"
-- "oven-roasted"
-- "BBQ"
-- "marination"
+- "chicken"
+- "grilling"
+- "spicy"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "BBQ chicken wings"
 - "smoky wings recipe"

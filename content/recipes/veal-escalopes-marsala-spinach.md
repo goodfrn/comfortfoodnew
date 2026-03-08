@@ -15,9 +15,11 @@ totalTime: PT50M
 recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
-- "Italian cuisine"
-- "veal recipes"
+- "veal"
+- "italian"
+- "spinach"
 - "easy dinner"
+- "main dish"
 keywords:
 - "veal escalopes"
 - "wilted spinach"

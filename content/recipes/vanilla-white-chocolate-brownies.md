@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "brownies"
+- "chocolate"
+- "dessert"
 - "vanilla"
-- "white chocolate"
-- "desserts"
+- "comfort food"
 keywords:
 - "vanilla brownies"
 - "white chocolate"

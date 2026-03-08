@@ -15,13 +15,11 @@ totalTime: PT27M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "barbecue"
 - "pork"
 - "grilling"
-- "marinade"
 - "pineapple"
-- "smoked paprika"
-- "summer cooking"
+- "caramel"
+- "easy dinner"
 keywords:
 - "pork chops"
 - "pineapple grill"

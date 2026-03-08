@@ -15,12 +15,11 @@ totalTime: PT27M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
 - "pasta"
 - "salad"
-- "quick meals"
-- "fresh herbs"
+- "italian"
 - "vegetarian"
+- "citrus"
 keywords:
 - "pasta salad"
 - "gremolata"

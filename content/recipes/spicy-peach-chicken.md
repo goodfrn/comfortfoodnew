@@ -15,12 +15,11 @@ totalTime: PT23M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Chicken"
-- "Skillet Meals"
-- "Fruit Sauces"
-- "Spicy"
-- "American Cuisine"
-- "Weeknight Dinners"
+- "chicken"
+- "spicy"
+- "peach"
+- "rice"
+- "easy dinner"
 keywords:
 - "peach chicken"
 - "roasted red peppers"

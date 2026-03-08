@@ -15,10 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "quick meals"
-- "dinner recipes"
-- "healthy cooking"
+- "pork"
+- "citrus"
+- "easy dinner"
+- "main dish"
+- "gluten free"
 keywords:
 - "pork recipes"
 - "glaze sauce"

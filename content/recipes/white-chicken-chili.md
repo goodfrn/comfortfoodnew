@@ -15,12 +15,11 @@ totalTime: PT7H50M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
-- "American"
-- "slow cooker"
 - "chicken"
-- "chili"
-- "beans"
+- "slow cooker"
 - "comfort food"
+- "easy dinner"
+- "soup"
 keywords:
 - "white chicken chili"
 - "slow cooker chili"

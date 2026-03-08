@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "About 3 cups"
 categories: ["Vegan"]
 tags:
+- "bread"
+- "homemade"
 - "vegan"
-- "breadcrumbs"
-- "cooking tips"
-- "baking"
-- "waste reduction"
+- "easy"
+- "condiment"
 keywords:
 - "crunchy coating"
 - "stale bread recipe"

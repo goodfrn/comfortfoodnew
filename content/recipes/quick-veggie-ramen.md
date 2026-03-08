@@ -15,11 +15,11 @@ totalTime: PT31M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Japanese inspired"
 - "vegetarian"
-- "quick meals"
-- "soups"
-- "noodle dishes"
+- "asian"
+- "soup"
+- "easy dinner"
+- "mushroom"
 keywords:
 - "ramen noodles"
 - "vegetable broth"

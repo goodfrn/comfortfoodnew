@@ -15,11 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "roasting"
-- "lamb recipes"
-- "garlic"
-- "slow roast"
+- "lamb"
+- "roasted"
+- "main dish"
+- "easy dinner"
+- "mediterranean"
 keywords:
 - "leg of lamb"
 - "garlic cloves"

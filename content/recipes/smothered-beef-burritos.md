@@ -15,10 +15,11 @@ totalTime: PT56M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-American"
-- "baking"
-- "ground beef"
+- "mexican"
+- "beef"
+- "cheese"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "beef burritos"
 - "baked burritos"

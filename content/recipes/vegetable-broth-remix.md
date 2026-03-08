@@ -15,12 +15,11 @@ totalTime: PT1H5M
 recipeYield: "6 to 7 cups"
 categories: ["Soups"]
 tags:
-- "broth"
-- "vegetable stock"
-- "French-inspired"
-- "vegan"
-- "slow cooking"
-- "kitchen tips"
+- "soup"
+- "vegetarian"
+- "easy"
+- "homemade"
+- "one pot"
 keywords:
 - "vegetable broth"
 - "slow simmer"

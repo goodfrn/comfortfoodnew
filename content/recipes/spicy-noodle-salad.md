@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilled pork"
-- "spicy salad"
-- "vermicelli"
-- "lemongrass"
-- "Thai cuisine"
-- "no dairy"
-- "no nuts"
+- "pork"
+- "asian"
+- "spicy"
+- "grilling"
+- "salad"
 keywords:
 - "pork skewers"
 - "lemongrass"

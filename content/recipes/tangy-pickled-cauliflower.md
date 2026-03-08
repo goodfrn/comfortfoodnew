@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "1 jar 500ml"
 categories: ["Snacks"]
 tags:
-- "fermentation"
-- "quick pickles"
-- "Mediterranean"
-- "side dish"
-- "preserving"
+- "cauliflower"
+- "vegetarian"
+- "condiment"
+- "easy"
+- "healthy"
 keywords:
 - "cauliflower pickles"
 - "white wine vinegar pickling"

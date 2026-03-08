@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "potatoes"
+- "potato"
+- "sausage"
 - "broccoli"
-- "chorizo"
-- "baking"
-- "Yukon Gold"
-- "comfort food"
-- "French-inspired"
+- "cheese"
+- "easy dinner"
 keywords:
 - "stuffed potatoes"
 - "broccoli sausage"

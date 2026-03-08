@@ -15,11 +15,11 @@ totalTime: PT43M
 recipeYield: "3 servings"
 categories: ["Side Dishes"]
 tags:
-- "Mediterranean"
+- "appetizer"
 - "vegetarian"
-- "antipasto"
-- "snack"
-- "salad topping"
+- "mediterranean"
+- "roasted"
+- "side dish"
 keywords:
 - "mini sweet peppers"
 - "marinade recipe"

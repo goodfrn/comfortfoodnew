@@ -15,13 +15,11 @@ totalTime: PT24M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
 - "pasta"
-- "carbonara"
-- "pancetta"
-- "quick meals"
-- "creamy sauce"
-- "garlic"
+- "italian"
+- "bacon"
+- "eggs"
+- "comfort food"
 keywords:
 - "carbonara"
 - "pancetta"

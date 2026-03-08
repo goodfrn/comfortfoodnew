@@ -15,14 +15,10 @@ totalTime: PT42M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Middle Eastern"
 - "chicken"
-- "pita"
-- "yogurt sauce"
+- "spice"
 - "chickpeas"
-- "smoky spices"
-- "pine nuts"
-- "pomegranate"
+- "comfort food"
 keywords:
 - "chicken fatteh"
 - "smoked paprika chicken"

@@ -15,11 +15,11 @@ totalTime: PT1H
 recipeYield: "10 servings"
 categories: ["Salads"]
 tags:
-- "pasta salad"
-- "American cuisine"
-- "summer salad"
-- "picnic food"
-- "cold salad"
+- "pasta"
+- "salad"
+- "vegetarian"
+- "easy"
+- "condiment"
 keywords:
 - "macaroni salad"
 - "whole grain mustard"

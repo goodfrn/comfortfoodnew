@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "12 fritters"
 categories: ["Snacks"]
 tags:
-- "Mediterranean"
-- "vegetarian"
-- "snacks"
+- "zucchini"
 - "fritters"
-- "quick meals"
+- "ricotta"
+- "appetizer"
+- "vegetarian"
 keywords:
 - "zucchini fritters"
 - "ricotta fritters"

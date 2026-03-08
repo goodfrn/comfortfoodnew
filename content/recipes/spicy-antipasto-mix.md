@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "Italian"
 - "appetizer"
-- "snack"
 - "spicy"
-- "charcuterie"
-- "quick prep"
+- "easy"
+- "mediterranean"
+- "condiment"
 keywords:
 - "antipasto"
 - "spicy appetizer"

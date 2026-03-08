@@ -15,11 +15,11 @@ totalTime: PT25M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "French-inspired"
-- "vegetable salad"
-- "light salad"
-- "seasonal"
-- "quick prep"
+- "salad"
+- "vegetarian"
+- "healthy"
+- "apple"
+- "cheese"
 keywords:
 - "kohlrabi"
 - "pear"

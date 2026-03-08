@@ -16,11 +16,10 @@ recipeYield: "6 large cookies"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "snickerdoodle"
-- "white chocolate"
-- "almond extract"
-- "cinnamon sugar"
+- "chocolate"
+- "snack"
+- "almond"
+- "easy"
 keywords:
 - "snickerdoodles"
 - "white chocolate chips"

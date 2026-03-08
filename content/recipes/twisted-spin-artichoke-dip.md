@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "10 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "appetizers"
-- "party snacks"
+- "appetizer"
 - "vegetarian"
-- "American cuisine"
-- "cheese dips"
+- "cheese"
+- "spinach"
+- "easy dinner"
 keywords:
 - "artichoke dip"
 - "spinach dip"

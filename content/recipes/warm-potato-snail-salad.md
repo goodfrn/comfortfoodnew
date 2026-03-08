@@ -15,9 +15,10 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "French cuisine"
-- "mushroom salad"
-- "escargot dish"
+- "potato"
+- "salad"
+- "mushroom"
+- "walnut"
 keywords:
 - "potato salad"
 - "snail salad"

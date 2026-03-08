@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "20 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "brownies"
-- "vegetable baking"
-- "dessert"
 - "chocolate"
+- "brownies"
 - "zucchini"
+- "dessert"
+- "easy"
 keywords:
 - "brownies with zucchini"
 - "cocoa powder brownies"

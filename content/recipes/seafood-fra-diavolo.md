@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "seafood"
-- "Italian-American"
-- "spicy"
+- "italian"
 - "pasta"
-- "tomato sauce"
-- "cooking tips"
-- "seafood cooking"
+- "spicy"
+- "easy dinner"
 keywords:
 - "fra diavolo"
 - "seafood sauce"

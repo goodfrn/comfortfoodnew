@@ -15,10 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Thai"
-- "quick meal"
-- "healthy"
 - "spicy"
+- "thai"
+- "beef"
+- "asian"
+- "rice"
 keywords:
 - "ground beef"
 - "rice noodles"

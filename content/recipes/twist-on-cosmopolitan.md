@@ -15,13 +15,11 @@ totalTime: PT6M
 recipeYield: "1 glass"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktail"
 - "gin"
-- "cranberry"
-- "Cointreau"
-- "martini glass"
-- "bar tips"
-- "mixology"
+- "cocktail"
+- "drink"
+- "citrus"
+- "easy"
 keywords:
 - "gin twist"
 - "cranberry juice"

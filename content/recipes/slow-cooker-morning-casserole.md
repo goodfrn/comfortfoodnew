@@ -15,11 +15,11 @@ totalTime: PT7H50M
 recipeYield: "12 slices"
 categories: ["Breakfast"]
 tags:
-- "slow cooker"
 - "breakfast"
-- "casserole"
-- "easy meals"
-- "overnight prep"
+- "slow cooker"
+- "eggs"
+- "sausage"
+- "cheese"
 keywords:
 - "slow cooker breakfast"
 - "hash brown casserole"

@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: "10 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "seed bread"
-- "sprouted grains"
-- "American cuisine"
-- "whole wheat"
+- "bread"
+- "homemade"
+- "healthy"
+- "breakfast"
+- "sesame"
 keywords:
 - "sprouted flour bread"
 - "seed bread recipe"

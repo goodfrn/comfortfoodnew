@@ -15,14 +15,11 @@ totalTime: PT1H10M
 recipeYield: "5 dozens approx 4 logs sliced"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "baking"
-- "cookies"
-- "spiced"
-- "holiday treats"
+- "shortbread"
+- "chocolate"
+- "spice"
 - "hazelnut"
 - "vanilla"
-- "cocoa"
 keywords:
 - "shortbread"
 - "spiced cocoa"

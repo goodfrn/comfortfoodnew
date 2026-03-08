@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "Mexican-American"
 - "seafood"
-- "finger food"
 - "appetizer"
-- "easy dinner"
+- "mexican"
+- "spicy"
+- "easy"
 keywords:
 - "shrimp tostada"
 - "guacamole recipe"

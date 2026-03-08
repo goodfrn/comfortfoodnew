@@ -15,12 +15,11 @@ totalTime: PT1H45M
 recipeYield: "16 pieces"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "pumpkin"
-- "fall baking"
-- "holiday dessert"
-- "candied seeds"
-- "cream topping"
+- "cake"
+- "spice"
+- "dessert"
+- "fall"
 keywords:
 - "pumpkin squares"
 - "spiced pumpkin cake"

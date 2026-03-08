@@ -15,10 +15,11 @@ totalTime: PT65M
 recipeYield: "6 to 8 servings"
 categories: ["Appetizers"]
 tags:
-- "vegan"
-- "gluten-free"
 - "appetizer"
+- "vegetarian"
 - "easy"
+- "condiment"
+- "healthy"
 keywords:
 - "vegetable platter"
 - "garlic aioli"

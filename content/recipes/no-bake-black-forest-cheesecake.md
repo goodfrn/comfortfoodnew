@@ -15,14 +15,10 @@ totalTime: PT7H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
-- "cheesecake"
-- "dessert"
-- "black forest"
+- "no bake"
 - "chocolate"
-- "cherry"
-- "oreo crust"
-- "easy dessert"
+- "dessert"
+- "easy"
 keywords:
 - "no bake cheesecake"
 - "chocolate cherry cheesecake"

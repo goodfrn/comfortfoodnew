@@ -15,13 +15,11 @@ totalTime: PT33M
 recipeYield: "20 portions"
 categories: ["Appetizers"]
 tags:
-- "snack"
+- "veal"
+- "meatball"
 - "appetizer"
-- "finger food"
-- "gluten free"
-- "quick recipe"
-- "no dairy"
-- "party food"
+- "party"
+- "spicy"
 keywords:
 - "veal balls"
 - "spicy glaze"

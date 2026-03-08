@@ -15,12 +15,11 @@ totalTime: PT3H35M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "bean stew"
-- "slow cooking"
-- "pancetta"
+- "sausage"
+- "french"
+- "stew"
 - "comfort food"
-- "sausages"
+- "slow cooker"
 keywords:
 - "flageolet beans"
 - "pancetta"

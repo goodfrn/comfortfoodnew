@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Soup"
-- "Beef"
-- "Eggs"
-- "French-inspired"
-- "Comfort Food"
-- "Pale Ale"
-- "Caramelized Onions"
+- "steak"
+- "soup"
+- "beef"
+- "eggs"
+- "bread"
 keywords:
 - "beer soup"
 - "seared beef"

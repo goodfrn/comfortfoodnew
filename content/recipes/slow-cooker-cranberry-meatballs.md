@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
 - "slow cooker"
-- "meatballs"
-- "turkey recipes"
-- "holiday dishes"
-- "easy dinners"
+- "meatball"
+- "cranberry"
+- "spicy"
+- "holiday"
 keywords:
 - "cranberry meatballs"
 - "slow cooker recipes"

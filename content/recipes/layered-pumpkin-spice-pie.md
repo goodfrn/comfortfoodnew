@@ -15,11 +15,11 @@ totalTime: PT4H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
-- "fall desserts"
-- "pumpkin recipes"
-- "easy pies"
-- "seasonal treats"
+- "pumpkin"
+- "pie"
+- "no bake"
+- "pecan"
+- "fall"
 keywords:
 - "pumpkin pie spice"
 - "whipped topping"

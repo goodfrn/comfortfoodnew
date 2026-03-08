@@ -15,14 +15,11 @@ totalTime: PT1H15M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "Seafood"
-- "Clams"
-- "Fish"
-- "Roasting"
-- "Sauce emulsification"
-- "Rustic bread"
-- "Vermouth cooking"
+- "seafood"
+- "italian"
+- "mediterranean"
+- "main dish"
+- "easy dinner"
 keywords:
 - "walleye fillet"
 - "clam cooking tips"

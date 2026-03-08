@@ -15,11 +15,11 @@ totalTime: PT22M
 recipeYield: "2 servings"
 categories: ["Non-Alcoholic Cocktails"]
 tags:
-- "mocktail"
-- "warm drinks"
-- "winter beverages"
-- "non alcoholic"
-- "herbal infusion"
+- "apple"
+- "drink"
+- "cinnamon"
+- "lemon"
+- "comfort food"
 keywords:
 - "apple cider"
 - "rosemary"

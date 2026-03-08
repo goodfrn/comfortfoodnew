@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "poultry"
-- "stews"
-- "French-inspired"
-- "dairy-free option"
-- "midweek meals"
+- "turkey"
+- "stew"
+- "potato"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "turkey stew"
 - "potatoes and peppers"

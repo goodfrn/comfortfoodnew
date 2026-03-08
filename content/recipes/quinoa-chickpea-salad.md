@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
+- "salad"
 - "vegetarian"
-- "gluten-free"
-- "dairy-free"
-- "Mediterranean"
-- "salads"
-- "batch cooking"
+- "quinoa"
+- "chickpeas"
+- "healthy"
 keywords:
 - "quinoa salad"
 - "toasted walnuts"

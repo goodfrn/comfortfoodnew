@@ -15,11 +15,11 @@ totalTime: PT42M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetable side"
-- "American"
+- "roasted"
 - "bacon"
-- "roasted veggies"
-- "fall recipes"
+- "side dish"
+- "fall"
+- "easy dinner"
 keywords:
 - "Brussels sprouts"
 - "bacon dressing"

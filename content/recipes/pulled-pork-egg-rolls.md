@@ -15,11 +15,10 @@ totalTime: PT3H50M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "American Fusion"
-- "Slow Cooker Recipes"
-- "Fried Snacks"
-- "Pork Recipes"
-- "Party Food"
+- "appetizer"
+- "cheese"
+- "fried"
+- "pork"
 keywords:
 - "pulled pork"
 - "egg rolls"

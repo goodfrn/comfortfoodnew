@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Caribbean"
-- "Grilling"
-- "Chicken"
-- "Skewers"
-- "Marinade"
+- "chicken"
+- "spicy"
+- "grilling"
+- "caribbean"
+- "easy dinner"
 keywords:
 - "jerk chicken"
 - "grilled skewers"

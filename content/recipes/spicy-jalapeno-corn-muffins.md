@@ -15,11 +15,10 @@ totalTime: PT30M
 recipeYield: "16 muffins"
 categories: ["Breads"]
 tags:
-- "American"
-- "baking"
-- "spicy"
 - "muffins"
-- "cornmeal"
+- "corn"
+- "spicy"
+- "breakfast"
 keywords:
 - "corn muffins"
 - "jalapeño heat"

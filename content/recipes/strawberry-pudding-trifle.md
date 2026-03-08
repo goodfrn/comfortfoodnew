@@ -16,12 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "layered dessert"
-- "fruit dessert"
-- "chilled dessert"
-- "summer dessert"
-- "party dessert"
-- "American cuisine"
+- "strawberry"
+- "no bake"
+- "vanilla"
+- "mint"
 keywords:
 - "strawberry trifle"
 - "vanilla custard"

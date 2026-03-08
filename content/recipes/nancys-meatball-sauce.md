@@ -15,13 +15,10 @@ totalTime: PT3H35M
 recipeYield: "6-8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "meatballs"
-- "slow cooking"
-- "tomato sauce"
-- "sausage"
-- "basil"
-- "pasta sauce"
+- "meatball"
+- "italian"
+- "slow cooker"
+- "comfort food"
 keywords:
 - "meatball sauce"
 - "Italian sausage sauce"

@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "meatloaf"
-- "mozzarella"
-- "ground beef"
-- "ground pork"
-- "peach glaze"
-- "American cuisine"
+- "cheese"
+- "beef"
+- "pork"
 - "comfort food"
-- "oven baked"
 keywords:
 - "meatloaf"
 - "mozzarella"

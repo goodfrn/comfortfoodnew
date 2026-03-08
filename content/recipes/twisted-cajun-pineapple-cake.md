@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "15 servings"
 categories: ["Desserts"]
 tags:
-- "southern baking"
-- "pineapple desserts"
-- "cinnamon glaze"
-- "toasted coconut"
-- "cakemaking tips"
-- "nut swap"
+- "cake"
+- "pineapple"
+- "cajun"
+- "coconut"
+- "walnut"
 keywords:
 - "pineapple cake"
 - "southern dessert"

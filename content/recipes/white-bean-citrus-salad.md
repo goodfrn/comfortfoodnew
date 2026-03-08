@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
+- "salad"
 - "vegan"
-- "gluten free"
 - "mediterranean"
-- "quick recipes"
-- "salads"
-- "plant based"
+- "citrus"
+- "healthy"
 keywords:
 - "white beans"
 - "citrus salad"

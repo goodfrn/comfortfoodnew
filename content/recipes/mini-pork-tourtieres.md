@@ -15,11 +15,11 @@ totalTime: PT1H30M
 recipeYield: "12 mini pies"
 categories: ["Appetizers"]
 tags:
-- "French-Canadian"
 - "pork"
-- "pastry"
-- "appetizers"
-- "savory pies"
+- "pie"
+- "holiday"
+- "pork"
+- "pie"
 keywords:
 - "Mini Pork Tourtières"
 - "pork pies"

@@ -15,12 +15,11 @@ totalTime: PT2H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "apple pie"
+- "pie"
+- "apple"
+- "cinnamon"
+- "fall"
 - "dessert"
-- "baking"
-- "fall recipes"
-- "fruit pie"
 keywords:
 - "apple pie"
 - "lattice crust"

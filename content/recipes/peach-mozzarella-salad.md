@@ -15,14 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
-- "summer salads"
-- "fruit and cheese"
-- "no cook"
-- "quick prep"
-- "burrata"
-- "harissa"
-- "prosciutto"
+- "salad"
+- "peach"
+- "cheese"
+- "summer"
+- "mediterranean"
 keywords:
 - "mozzarella salad"
 - "prosciutto salad"

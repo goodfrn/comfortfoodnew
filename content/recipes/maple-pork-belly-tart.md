@@ -17,9 +17,6 @@ categories: ["Main Dishes"]
 tags:
 - "pork"
 - "tart"
-- "savory"
-- "baking"
-- "French cuisine"
 keywords:
 - "tart recipe"
 - "pork belly"

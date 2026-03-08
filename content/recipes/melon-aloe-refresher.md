@@ -15,13 +15,11 @@ totalTime: PT25M
 recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
+- "drink"
+- "summer"
 - "vegan"
-- "gluten-free"
-- "refreshing drink"
-- "summer beverage"
-- "natural sweetness"
-- "healthy hydration"
-- "fruit juice"
+- "healthy"
+- "easy"
 keywords:
 - "aloe gel"
 - "honey dew melon"

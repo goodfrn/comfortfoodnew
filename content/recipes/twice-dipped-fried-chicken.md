@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "fried chicken"
-- "southern cooking"
+- "chicken"
 - "sandwich"
-- "double dredge"
-- "buttermilk brine"
-- "crispy chicken"
-- "homemade sauce"
+- "fried"
+- "comfort food"
+- "homemade"
 keywords:
 - "fried chicken sandwich"
 - "double dredge chicken"

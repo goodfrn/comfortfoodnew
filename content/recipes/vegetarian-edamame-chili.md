@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "vegetarian"
 - "chili"
-- "weeknight meal"
-- "black beans"
-- "edamame"
-- "snap peas"
+- "easy dinner"
+- "comfort food"
+- "healthy"
 keywords:
 - "vegetarian chili"
 - "edamame chili"

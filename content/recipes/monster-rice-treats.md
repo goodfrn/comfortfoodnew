@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "snack"
-- "American"
-- "candy melts"
-- "marshmallow treats"
-- "kids snacks"
-- "holiday treats"
+- "no bake"
+- "candy"
+- "rice"
+- "dessert"
+- "easy"
 keywords:
 - "rice cereal treats"
 - "candy eyes"

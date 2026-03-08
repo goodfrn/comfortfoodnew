@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "vegan"
-- "gluten free"
-- "quick meals"
-- "French-inspired"
+- "vegetarian"
+- "summer"
 - "healthy"
-- "spring recipes"
+- "easy"
 keywords:
 - "yellow beans"
 - "rocket salad"

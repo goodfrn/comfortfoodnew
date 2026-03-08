@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
+- "asian"
 - "vegan"
-- "healthy"
-- "gluten-free"
-- "quick meal"
+- "chickpeas"
+- "easy dinner"
 keywords:
 - "soba salad"
 - "chickpeas"

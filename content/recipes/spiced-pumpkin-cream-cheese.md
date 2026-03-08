@@ -16,10 +16,9 @@ recipeYield: "1 serving"
 categories: ["Dips and Spreads"]
 tags:
 - "pumpkin"
-- "cream cheese"
-- "spreads"
-- "fall recipes"
-- "snacks"
+- "appetizer"
+- "fall"
+- "easy"
 keywords:
 - "pumpkin spread"
 - "cream cheese dip"

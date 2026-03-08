@@ -15,12 +15,10 @@ totalTime: PT12M
 recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "seafood"
+- "appetizer"
 - "condiment"
-- "tropical"
-- "mignonette"
-- "papaya"
-- "vinegar"
+- "citrus"
+- "seafood"
 keywords:
 - "mignonette"
 - "papaya"

@@ -16,12 +16,9 @@ recipeYield: "6 servings"
 categories: ["Seafood"]
 tags:
 - "salmon"
-- "seafood"
-- "roasting"
-- "glaze"
-- "easy dinner"
-- "midweek meals"
-- "North American cuisine"
+- "roasted"
+- "citrus"
+- "healthy"
 keywords:
 - "salmon filet recipe"
 - "citrus salmon glaze"

@@ -15,10 +15,10 @@ totalTime: PT2H45M
 recipeYield: 6 pies
 categories: ["Main Dishes"]
 tags:
+- "comfort food"
+- "spice"
+- "potato"
 - "pork"
-- "lamb"
-- "dinner"
-- "savory"
 keywords:
 - "meat pies"
 - "comfort food"

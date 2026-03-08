@@ -16,11 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "white port"
 - "citrus"
-- "summer drink"
-- "refreshing"
-- "bittersweet"
+- "drink"
+- "easy"
+- "summer"
 keywords:
 - "white port"
 - "grapefruit peel"

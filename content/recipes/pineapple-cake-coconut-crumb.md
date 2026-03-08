@@ -15,11 +15,11 @@ totalTime: PT58M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "southern baking"
-- "pineapple desserts"
-- "coconut recipes"
-- "nutty topping"
-- "moist cake"
+- "cake"
+- "pineapple"
+- "coconut"
+- "pecan"
+- "dessert"
 keywords:
 - "pineapple cake"
 - "coconut crumb"

@@ -15,13 +15,11 @@ totalTime: PT28M
 recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
+- "condiment"
 - "cherry"
-- "sauce"
-- "honey"
-- "liqueur"
-- "thickening"
-- "desserts"
-- "american cuisine"
+- "easy"
+- "homemade"
+- "dessert"
 keywords:
 - "cherry sauce"
 - "tupelo honey"

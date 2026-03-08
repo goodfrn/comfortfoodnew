@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "Italian-inspired"
-- "pasta salad"
-- "chilled dish"
-- "summer lunch"
-- "make ahead"
+- "pasta"
+- "salad"
+- "italian"
+- "easy"
+- "vegetarian"
 keywords:
 - "pasta salad"
 - "rotini salad"

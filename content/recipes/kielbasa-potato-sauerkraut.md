@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "sausage"
-- "potatoes"
-- "sauerkraut"
-- "Eastern European"
-- "one-pan"
-- "quick meal"
+- "potato"
+- "comfort food"
+- "easy dinner"
+- "one pot"
 keywords:
 - "kielbasa"
 - "potatoes"

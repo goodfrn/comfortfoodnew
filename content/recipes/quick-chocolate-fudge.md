@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "chocolate"
 - "fudge"
-- "quick recipes"
-- "microwave cooking"
-- "peanut butter"
-- "desserts"
-- "no-bake"
+- "candy"
+- "no bake"
+- "easy"
 keywords:
 - "chocolate fudge"
 - "peanut butter fudge"

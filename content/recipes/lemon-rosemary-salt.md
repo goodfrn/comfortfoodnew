@@ -15,13 +15,10 @@ totalTime: PT6M
 recipeYield: "1 cup"
 categories: ["Sauces and Condiments"]
 tags:
-- "herbs"
-- "sea salt"
-- "seasoning"
-- "drying"
-- "citrus zest"
-- "rosemary"
+- "condiment"
 - "lemon"
+- "homemade"
+- "easy"
 keywords:
 - "rosemary salt"
 - "lemon zest seasoning"

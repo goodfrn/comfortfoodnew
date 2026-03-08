@@ -15,11 +15,10 @@ totalTime: PT5H5M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "cheesecake"
 - "chocolate"
-- "american cuisine"
+- "dessert"
+- "homemade"
+- "no bake"
 keywords:
 - "cheesecake recipe"
 - "marble dessert"

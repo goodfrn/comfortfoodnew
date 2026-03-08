@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "risotto"
 - "peach"
-- "white chocolate"
-- "gluten-free"
-- "slow cook"
+- "chocolate"
+- "dessert"
+- "slow cooker"
 keywords:
 - "white chocolate"
 - "peach schnapps"

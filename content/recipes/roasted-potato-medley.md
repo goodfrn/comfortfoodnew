@@ -15,11 +15,11 @@ totalTime: PT70M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetable"
+- "potato"
+- "roasted"
 - "side dish"
-- "American cuisine"
-- "roasted potatoes"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "roasted potatoes"
 - "Yukon Gold potatoes"

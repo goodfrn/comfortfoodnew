@@ -15,11 +15,7 @@ totalTime: PT12M
 recipeYield: "2 servings"
 categories: ["Desserts"]
 tags:
-- "frosting"
-- "cream cheese"
-- "honey"
-- "baking tips"
-- "butter"
+- "vanilla"
 - "dessert"
 keywords:
 - "cream cheese"

@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Italian-inspired"
+- "pasta"
 - "vegetarian"
-- "gluten-free"
-- "low-carb"
-- "easy roasting"
+- "italian"
+- "easy dinner"
+- "roasted"
 keywords:
 - "spaghetti squash"
 - "marinara sauce"

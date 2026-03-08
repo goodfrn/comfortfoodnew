@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American-Asian fusion"
-- "spicy chicken"
-- "baked chicken"
-- "crispy coating"
-- "weeknight meals"
+- "chicken"
+- "spicy"
+- "asian"
+- "appetizer"
+- "fried"
 keywords:
 - "chicken fried baked"
 - "chili garlic sauce"

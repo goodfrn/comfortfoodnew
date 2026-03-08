@@ -15,12 +15,11 @@ totalTime: PT1H40M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cake"
-- "pound cake"
 - "lemon"
-- "buttermilk"
-- "American cuisine"
+- "easy"
+- "homemade"
+- "vanilla"
 keywords:
 - "buttermilk cake"
 - "pound cake recipe"

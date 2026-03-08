@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "fall dessert"
-- "apple recipes"
-- "caramel sauce"
-- "baking"
+- "tart"
+- "apple"
+- "rum"
+- "caramel"
+- "pecan"
 keywords:
 - "apple tart"
 - "salted caramel"

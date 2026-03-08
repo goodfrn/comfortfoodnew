@@ -15,11 +15,11 @@ totalTime: PT1H5M
 recipeYield: "About 24 fritters"
 categories: ["Appetizers"]
 tags:
-- "Asian cuisine"
+- "pork"
+- "pineapple"
+- "fried"
 - "fritters"
-- "pork recipes"
-- "deep-fried"
-- "appetizers"
+- "asian"
 keywords:
 - "pork fritters"
 - "pineapple sauce"

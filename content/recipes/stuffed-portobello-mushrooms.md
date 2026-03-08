@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizer"
-- "French-inspired"
-- "vegetable dish"
-- "baking"
-- "savory"
+- "mushroom"
+- "bacon"
+- "asparagus"
+- "easy dinner"
+- "roasted"
 keywords:
 - "portobello mushrooms"
 - "stuffed mushrooms"

@@ -16,9 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "summer"
 - "lemon"
 - "tart"
+- "vanilla"
+- "no bake"
 keywords:
 - "tart recipe"
 - "lemon ice cream"

@@ -16,11 +16,10 @@ recipeYield: "About 3/4 cup"
 categories: ["Vegan"]
 tags:
 - "vegan"
-- "nutritional yeast"
-- "cashews"
+- "almond"
+- "cheese"
 - "condiment"
-- "plant-based cheese"
-- "no cook"
+- "easy"
 keywords:
 - "vegan parmesan"
 - "nut cashew topping"

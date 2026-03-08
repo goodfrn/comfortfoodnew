@@ -15,11 +15,10 @@ totalTime: PT25M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "vegan"
 - "salad"
-- "no-cook"
-- "healthy"
-- "refreshing"
+- "vegan"
+- "vegetarian"
+- "mediterranean"
 keywords:
 - "gaspacho salad"
 - "healthy salad"

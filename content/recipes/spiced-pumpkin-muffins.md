@@ -17,11 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "pumpkin"
 - "muffins"
-- "fall baking"
-- "Greek yogurt"
-- "cream cheese swirl"
-- "mini muffins"
-- "baking tips"
+- "cinnamon"
+- "spice"
+- "breakfast"
 keywords:
 - "pumpkin muffins"
 - "Greek yogurt muffins"

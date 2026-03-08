@@ -15,13 +15,10 @@ totalTime: PT2H45M
 recipeYield: "10 servings"
 categories: ["Side Dishes"]
 tags:
-- "Hawaiian"
-- "pasta salad"
-- "macaroni"
-- "cold salad"
-- "make ahead"
-- "summer dishes"
-- "easy sides"
+- "pasta"
+- "salad"
+- "easy"
+- "comfort food"
 keywords:
 - "macaroni salad"
 - "Hawaiian salad"

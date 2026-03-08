@@ -15,11 +15,11 @@ totalTime: PT90M
 recipeYield: "8 small portions"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "spiced cake"
-- "caramel dessert"
-- "olive oil baking"
-- "pear recipes"
+- "cake"
+- "spice"
+- "cinnamon"
+- "caramel"
+- "dessert"
 keywords:
 - "pear cake"
 - "caramel cake"

@@ -15,11 +15,11 @@ totalTime: PT4H5M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker"
 - "beef"
+- "slow cooker"
 - "comfort food"
 - "easy dinner"
-- "stroganoff"
+- "mushroom"
 keywords:
 - "slow cooker beef stroganoff"
 - "beef stroganoff crock pot"

@@ -16,13 +16,10 @@ recipeYield: "12 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "slow cooker"
-- "Tex-Mex"
-- "cheddar"
-- "beef dip"
-- "party food"
-- "easy dinner"
-- "melting cheese"
-- "comfort food"
+- "beef"
+- "cheese"
+- "appetizer"
+- "party"
 keywords:
 - "ground beef dip"
 - "Rotel cheese dip"

@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "quick dinner"
-- "steak recipes"
-- "rustic cooking"
-- "weeknight meals"
+- "steak"
+- "italian"
+- "easy dinner"
+- "main dish"
+- "mushroom"
 keywords:
 - "sirloin steak"
 - "tomato sauce"

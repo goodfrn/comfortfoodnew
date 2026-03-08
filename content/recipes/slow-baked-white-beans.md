@@ -15,13 +15,11 @@ totalTime: PT825M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "beans"
-- "slow cooking"
-- "French cuisine"
-- "eggs"
+- "slow cooker"
 - "comfort food"
-- "vegetarian option"
-- "bean stew"
+- "vegetarian"
+- "eggs"
+- "lemon"
 keywords:
 - "baked white beans"
 - "lima beans"

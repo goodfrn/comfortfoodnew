@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Chinese-American"
-- "stir fry"
+- "chicken"
+- "asian"
 - "easy dinner"
-- "chicken recipe"
-- "quick meal"
+- "sesame"
+- "main dish"
 keywords:
 - "sesame chicken"
 - "sticky chicken glaze"

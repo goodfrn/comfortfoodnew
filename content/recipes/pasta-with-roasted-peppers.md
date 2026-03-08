@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "vegetarian"
 - "pasta"
-- "harissa"
-- "pecorino"
+- "vegetarian"
 - "asparagus"
-- "roasted peppers"
+- "harissa"
+- "easy dinner"
 keywords:
 - "roasted peppers pasta"
 - "asparagus pasta"

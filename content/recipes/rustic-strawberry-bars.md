@@ -15,12 +15,10 @@ totalTime: PT1H10M
 recipeYield: "24 bars"
 categories: ["Desserts"]
 tags:
+- "strawberry"
+- "lemon"
+- "easy"
 - "dessert"
-- "berries"
-- "summer"
-- "baking"
-- "rustic"
-- "fruit bars"
 keywords:
 - "strawberry bars"
 - "buttery crust"

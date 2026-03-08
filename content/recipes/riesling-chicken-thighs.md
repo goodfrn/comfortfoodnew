@@ -15,13 +15,10 @@ totalTime: PT1H40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French"
-- "braising"
 - "chicken"
-- "mushrooms"
-- "wine sauce"
-- "comfort food"
-- "one pot"
+- "french"
+- "mushroom"
+- "easy dinner"
 keywords:
 - "chicken thighs"
 - "riesling wine"

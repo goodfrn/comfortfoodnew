@@ -15,13 +15,11 @@ totalTime: PT3H55M
 recipeYield: "18 bites"
 categories: ["Desserts"]
 tags:
-- "American"
+- "cheese"
+- "chocolate"
 - "dessert"
-- "baking"
-- "mini desserts"
-- "cheesecake"
-- "ganache"
-- "party food"
+- "no bake"
+- "raspberry"
 keywords:
 - "mini cheesecakes"
 - "no crack cheesecake"

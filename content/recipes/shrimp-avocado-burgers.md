@@ -15,14 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "seafood"
+- "shrimp"
 - "burger"
 - "avocado"
-- "shrimp"
 - "harissa"
-- "brioche"
-- "quick meal"
-- "lactose free"
+- "easy dinner"
 keywords:
 - "shrimp burger"
 - "avocado burger"

@@ -15,11 +15,11 @@ totalTime: PT1H33M
 recipeYield: "14-16 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
+- "almond"
 - "dessert"
-- "layered cake"
-- "colored frosting"
-- "almond flavor"
-- "baking tips"
+- "homemade"
+- "vanilla"
 keywords:
 - "Lego cake"
 - "colored frosting"

@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "soup"
+- "sesame"
 - "salmon"
-- "wonton"
-- "Asian fusion"
-- "comfort food"
+- "soup"
+- "asian"
+- "easy dinner"
 keywords:
 - "soup"
 - "salmon"

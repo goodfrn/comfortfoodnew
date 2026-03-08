@@ -15,11 +15,11 @@ totalTime: PT4H25M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "no-bake"
-- "fruit pie"
-- "summer dessert"
-- "chilled pie"
+- "strawberry"
+- "pie"
+- "cheese"
+- "lemon"
+- "dessert"
 keywords:
 - "cream cheese"
 - "folded whipped topping"

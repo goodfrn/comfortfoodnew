@@ -15,13 +15,10 @@ totalTime: PT1H55M
 recipeYield: "5 jars"
 categories: ["Preserves"]
 tags:
-- "pickles"
-- "preserves"
-- "vegetable relish"
-- "British cuisine"
-- "vegan"
-- "gluten-free"
-- "spicy"
+- "condiment"
+- "spice"
+- "cauliflower"
+- "cucumber"
 keywords:
 - "piccalilli"
 - "pickled vegetables"

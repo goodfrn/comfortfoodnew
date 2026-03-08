@@ -15,13 +15,11 @@ totalTime: PT32M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "Mexican-American"
-- "oven baked"
+- "chicken"
+- "appetizer"
 - "easy dinner"
-- "sheet pan meal"
-- "rotisserie chicken"
-- "taco seasoning"
-- "quick prep"
+- "party"
+- "mexican"
 keywords:
 - "chicken nachos"
 - "sheet pan nachos"

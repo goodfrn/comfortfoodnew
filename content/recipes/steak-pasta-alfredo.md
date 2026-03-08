@@ -15,11 +15,10 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian American"
 - "pasta"
 - "steak"
-- "dinner"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "Alfredo sauce"
 - "filet mignon"

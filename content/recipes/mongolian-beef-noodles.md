@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian Fusion"
-- "beef recipes"
-- "noodle dishes"
-- "stir fry"
-- "easy dinners"
+- "beef"
+- "asian"
+- "sesame"
+- "spicy"
+- "easy dinner"
 keywords:
 - "ground beef noodles"
 - "hoisin sauce noodles"

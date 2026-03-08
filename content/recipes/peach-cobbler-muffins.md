@@ -15,11 +15,11 @@ totalTime: PT49M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "American desserts"
-- "Fruit muffins"
-- "Baking tips"
-- "Breakfast snacks"
-- "Streusel topping"
+- "muffins"
+- "peach"
+- "breakfast"
+- "comfort food"
+- "easy"
 keywords:
 - "peach muffins"
 - "streusel topping"

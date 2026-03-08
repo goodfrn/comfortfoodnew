@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "French-inspired"
-- "gelatin"
 - "vanilla"
-- "rhubarb"
-- "compote"
-- "cooking tips"
+- "gelatin"
+- "no bake"
+- "tart"
 keywords:
 - "panna cotta"
 - "rhubarb"

@@ -15,14 +15,11 @@ totalTime: PT15M
 recipeYield: "2 servings"
 categories: ["Snacks"]
 tags:
-- "pickling"
+- "condiment"
+- "vegetarian"
 - "vegan"
-- "gluten-free"
-- "snack"
-- "quick recipe"
-- "low calorie"
-- "refreshing side"
-- "acidic dressing"
+- "side dish"
+- "easy"
 keywords:
 - "pickled carrots"
 - "quick pickle recipe"

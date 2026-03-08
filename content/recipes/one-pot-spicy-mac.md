@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-Canadian inspired"
-- "one-pot meals"
-- "garlic mac and cheese"
+- "one pot"
+- "pasta"
+- "cheese"
 - "comfort food"
-- "smoky flavors"
+- "spicy"
 keywords:
 - "mac and cheese"
 - "pancetta pasta"

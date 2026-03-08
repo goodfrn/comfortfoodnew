@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "french toast"
-- "easy recipes"
-- "almond extract"
+- "french"
+- "vanilla"
 - "cinnamon"
-- "dairy-free options"
+- "easy"
 keywords:
 - "French toast"
 - "breakfast sticks"

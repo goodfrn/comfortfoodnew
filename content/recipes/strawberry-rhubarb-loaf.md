@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Breads"]
 tags:
-- "quick bread"
-- "fruit bread"
-- "floured fruit"
-- "buttermilk"
-- "almond extract"
+- "bread"
+- "strawberry"
+- "breakfast"
+- "homemade"
+- "easy"
 keywords:
 - "rhubarb bread"
 - "strawberry loaf"

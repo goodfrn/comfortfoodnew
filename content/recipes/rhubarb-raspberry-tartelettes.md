@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "tart"
-- "fruit"
-- "summer"
-- "elegant"
+- "raspberry"
+- "almond"
+- "gelatin"
+- "dessert"
 keywords:
 - "rhubarb"
 - "raspberry"

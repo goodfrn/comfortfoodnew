@@ -15,11 +15,11 @@ totalTime: PT7H
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "slow cooking"
-- "braising"
-- "lamb recipes"
+- "lamb"
+- "slow cooker"
+- "mediterranean"
 - "comfort food"
+- "main dish"
 keywords:
 - "lamb leg"
 - "slow braise"

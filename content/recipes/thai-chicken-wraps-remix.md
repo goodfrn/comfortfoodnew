@@ -15,11 +15,11 @@ totalTime: PT23M
 recipeYield: "3-5 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Thai cuisine"
-- "quick meals"
+- "thai"
+- "chicken"
 - "wraps"
-- "ground chicken"
-- "pickling"
+- "asian"
+- "easy dinner"
 keywords:
 - "ground chicken"
 - "tamarind paste"

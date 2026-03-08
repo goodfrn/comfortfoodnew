@@ -15,12 +15,11 @@ totalTime: PT16M
 recipeYield: "1 cake for 2 layers"
 categories: ["Desserts"]
 tags:
-- "ganache"
-- "dairy-free"
 - "chocolate"
-- "dessert"
+- "vegan"
 - "coconut"
-- "baking"
+- "dessert"
+- "no bake"
 keywords:
 - "ganache"
 - "coconut cream"

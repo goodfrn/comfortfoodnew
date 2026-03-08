@@ -15,11 +15,10 @@ totalTime: PT1H25M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "steamed pudding"
-- "ginger dessert"
-- "marmalade recipes"
-- "coconut oil baking"
-- "dairy-free pudding"
+- "citrus"
+- "lemon"
+- "cinnamon"
+- "dessert"
 keywords:
 - "ginger pudding"
 - "marmalade glaze"

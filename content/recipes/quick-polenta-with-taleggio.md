@@ -15,11 +15,11 @@ totalTime: PT23M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Italian"
+- "cheese"
 - "vegetarian"
-- "quick meals"
+- "italian"
 - "comfort food"
-- "cheese recipes"
+- "easy dinner"
 keywords:
 - "polenta"
 - "Taleggio cheese"

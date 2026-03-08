@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: 6 servings
 categories: ["Side Dishes"]
 tags:
-- "Swiss"
+- "potato"
+- "spinach"
 - "vegetarian"
 - "side dish"
-- "potatoes"
-- "spinach"
+- "easy"
 keywords:
 - "rösti"
 - "spinach"

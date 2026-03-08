@@ -15,13 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "ground turkey"
-- "bell peppers"
-- "cannellini beans"
-- "baked dishes"
-- "spinach"
-- "weeknight meals"
+- "turkey"
+- "vegetarian"
+- "spicy"
+- "main dish"
+- "easy dinner"
 keywords:
 - "stuffed peppers"
 - "ground turkey recipes"

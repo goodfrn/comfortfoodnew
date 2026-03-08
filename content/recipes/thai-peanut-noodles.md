@@ -15,14 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Thai cuisine"
-- "seafood"
-- "quick meals"
-- "noodles"
-- "almond butter"
-- "peanut sauce alternative"
-- "shrimp recipes"
-- "gluten-free options"
+- "thai"
+- "shrimp"
+- "peanut butter"
+- "pasta"
+- "asian"
 keywords:
 - "Thai noodles"
 - "shrimp peanut sauce"

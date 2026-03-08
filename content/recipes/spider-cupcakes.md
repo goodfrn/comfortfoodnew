@@ -15,12 +15,10 @@ totalTime: PT37M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cupcakes"
-- "kid-friendly"
-- "vegetarian"
-- "dairy-free"
-- "Halloween treats"
+- "vanilla"
+- "citrus"
+- "almond"
 keywords:
 - "cupcakes"
 - "red licorice"

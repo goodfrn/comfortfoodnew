@@ -15,13 +15,11 @@ totalTime: PT1H35M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Greek"
-- "New Year"
-- "cardamom"
+- "cake"
+- "greek"
 - "citrus"
-- "buttermilk"
-- "holiday baking"
-- "traditional cake"
+- "spice"
+- "holiday"
 keywords:
 - "Vasilopita"
 - "Greek cake"

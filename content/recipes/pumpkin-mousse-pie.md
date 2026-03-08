@@ -16,12 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "pumpkin"
+- "pie"
 - "dessert"
-- "no-bake"
-- "whipped cream"
-- "fall recipes"
-- "moisture control"
-- "cardamom"
+- "no bake"
+- "fall"
 keywords:
 - "pumpkin mousse"
 - "coconut sugar pie"

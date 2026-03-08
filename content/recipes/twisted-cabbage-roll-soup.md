@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
-- "American comfort"
-- "one pot meals"
-- "cabbage recipes"
-- "ground beef"
-- "weeknight dinners"
+- "comfort food"
+- "soup"
+- "beef"
+- "cabbage"
+- "one pot"
 keywords:
 - "cabbage soup"
 - "ground beef recipes"

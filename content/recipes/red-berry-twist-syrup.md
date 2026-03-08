@@ -15,14 +15,10 @@ totalTime: PT27M
 recipeYield: "310 ml 1¼ cups"
 categories: ["Sauces and Condiments"]
 tags:
-- "syrup"
-- "berries"
-- "rhubarb"
-- "blackcurrants"
-- "vegan"
-- "gluten-free"
-- "cocktail syrup"
-- "dessert topping"
+- "condiment"
+- "homemade"
+- "raspberry"
+- "easy"
 keywords:
 - "berry syrup"
 - "fruit syrup recipe"

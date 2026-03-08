@@ -15,11 +15,11 @@ totalTime: PT16M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
+- "peanut butter"
 - "candy"
-- "microwave recipes"
-- "snacks"
-- "peanuts"
-- "caramel"
+- "no bake"
+- "coconut"
+- "easy"
 keywords:
 - "peanut brittle"
 - "microwave candy"

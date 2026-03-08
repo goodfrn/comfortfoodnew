@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
-- "desserts"
-- "American cuisine"
-- "frosting"
+- "vanilla"
+- "easy"
+- "no bake"
+- "comfort food"
 keywords:
 - "sour cream cookies"
 - "rose shaped cookies"

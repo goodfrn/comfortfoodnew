@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "36 bites"
 categories: ["Desserts"]
 tags:
+- "chocolate"
 - "fudge"
-- "pecans"
-- "marshmallows"
-- "bittersweet chocolate"
-- "brown sugar"
-- "North American sweets"
+- "candy"
+- "pecan"
+- "no bake"
 keywords:
 - "marshmallow fudge"
 - "pecan fudge"

@@ -15,12 +15,10 @@ totalTime: PT1H40M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Russian cuisine"
+- "salmon"
 - "seafood"
-- "pastry"
-- "spelt flour"
-- "savory pie"
-- "holiday dish"
+- "hazelnut"
+- "cherry"
 keywords:
 - "salmon pastry"
 - "spelt dough"

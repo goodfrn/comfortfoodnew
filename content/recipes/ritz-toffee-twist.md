@@ -15,13 +15,11 @@ totalTime: PT2H27M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "caramel"
-- "baking"
-- "toffee"
-- "chocolate"
 - "snack"
-- "Ritz crackers"
+- "chocolate"
+- "caramel"
+- "easy"
+- "no bake"
 keywords:
 - "caramel toffee"
 - "Ritz crackers dessert"

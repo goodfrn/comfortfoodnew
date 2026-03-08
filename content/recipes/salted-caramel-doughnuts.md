@@ -15,11 +15,11 @@ totalTime: PT1H20M
 recipeYield: "12 doughnuts"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "fried doughnuts"
-- "caramel desserts"
-- "yeast dough"
-- "salty-sweet"
+- "fried"
+- "caramel"
+- "dessert"
+- "comfort food"
+- "homemade"
 keywords:
 - "doughnuts"
 - "caramel cream"

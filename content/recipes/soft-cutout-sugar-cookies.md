@@ -16,9 +16,10 @@ recipeYield: "24-26 cookies"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking tips"
-- "holiday treats"
-- "icing techniques"
+- "dessert"
+- "holiday"
+- "easy"
+- "homemade"
 keywords:
 - "sugar cookies"
 - "royal icing"

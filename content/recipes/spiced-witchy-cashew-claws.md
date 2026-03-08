@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
+- "roasted"
 - "snack"
-- "vegan option"
-- "roasted nuts"
-- "spicy"
-- "gluten free"
+- "spice"
+- "honey"
+- "easy"
 keywords:
 - "cashew snack"
 - "spicy roasted nuts"

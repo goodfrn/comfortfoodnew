@@ -15,15 +15,11 @@ totalTime: PT1H20M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "soup"
-- "meatballs"
-- "Asian fusion"
 - "quinoa"
 - "pork"
-- "noodles"
-- "glaze"
-- "broth"
-- "easy swaps"
+- "meatball"
+- "soup"
+- "asian"
 keywords:
 - "quinoa meatballs"
 - "ginger garlic broth"

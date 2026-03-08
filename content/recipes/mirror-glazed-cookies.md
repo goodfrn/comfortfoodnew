@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "1 dozen"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
-- "glaze"
-- "lime zest"
-- "aquafaba"
-- "turmeric"
-- "French-inspired"
+- "lemon"
+- "vegan"
+- "easy"
+- "dessert"
 keywords:
 - "mirror glaze"
 - "lime cookies"

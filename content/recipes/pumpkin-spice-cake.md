@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cake"
 - "pumpkin"
-- "fall baking"
-- "ganache"
-- "kabocha"
-- "spices"
-- "French-inspired"
+- "chocolate"
+- "spice"
+- "fall"
 keywords:
 - "pumpkin cake"
 - "ganache frosting"

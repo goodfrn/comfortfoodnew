@@ -16,8 +16,8 @@ recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "slow cooker"
-- "Italian-American"
-- "beef sandwich"
+- "beef"
+- "italian"
 - "comfort food"
 - "easy dinner"
 keywords:

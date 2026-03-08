@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "steak"
 - "beef"
+- "spicy"
 - "grilling"
-- "spice rub"
-- "fusion cuisine"
-- "meat prep"
+- "asian"
 keywords:
 - "beef steaks"
 - "spice rubs"

@@ -16,12 +16,10 @@ recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
 - "vegan"
-- "dessert"
-- "biscotti"
-- "plant based"
-- "nutty"
+- "pistachio"
 - "lemon"
-- "twice baked"
+- "cookies"
+- "easy"
 keywords:
 - "vegan biscotti"
 - "pistachio biscotti"

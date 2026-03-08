@@ -15,13 +15,11 @@ totalTime: PT25M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "breakfast"
 - "pancakes"
-- "fall flavors"
-- "sweet potato"
-- "spiced"
-- "honey sweetened"
-- "American cuisine"
+- "pumpkin"
+- "fall"
+- "breakfast"
+- "cinnamon"
 keywords:
 - "pumpkin spice pancakes"
 - "sweet potato puree"

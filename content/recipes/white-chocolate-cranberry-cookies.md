@@ -16,13 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
+- "chocolate"
 - "oatmeal"
-- "white chocolate"
 - "cranberry"
-- "pecans"
-- "dessert"
-- "snack"
+- "pecan"
 keywords:
 - "oatmeal cookies"
 - "white chocolate cookies"

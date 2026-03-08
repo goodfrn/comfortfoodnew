@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "southern cooking"
-- "breakfast gravy"
-- "sausage recipes"
+- "sausage"
+- "southern"
+- "gravy"
+- "breakfast"
 - "comfort food"
-- "easy sauces"
 keywords:
 - "sausage gravy"
 - "creamy gravy"

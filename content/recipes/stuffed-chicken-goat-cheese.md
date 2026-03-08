@@ -16,9 +16,10 @@ recipeYield: 4
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "stuffed"
-- "easy meal"
-- "weeknight dinner"
+- "roasted"
+- "cheese"
+- "cabbage"
+- "easy dinner"
 keywords:
 - "chicken recipe"
 - "French cuisine"

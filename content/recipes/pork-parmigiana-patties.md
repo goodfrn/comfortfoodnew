@@ -15,11 +15,11 @@ totalTime: PT58M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "one-pan sauce"
-- "garlic pasta"
-- "pork recipes"
-- "weeknight dinner"
+- "pork"
+- "italian"
+- "eggplant"
+- "comfort food"
+- "main dish"
 keywords:
 - "pork patties"
 - "eggplant parmigiana"

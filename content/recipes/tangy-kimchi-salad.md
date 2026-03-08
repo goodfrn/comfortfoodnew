@@ -15,14 +15,11 @@ totalTime: PT27M
 recipeYield: "3 cups"
 categories: ["Salads"]
 tags:
-- "Korean"
+- "korean"
 - "salad"
-- "quick pickle"
 - "spicy"
-- "vegetarian option"
-- "side dish"
 - "sesame"
-- "easy prep"
+- "cabbage"
 keywords:
 - "kimchi salad"
 - "gochugaru"

@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "potato"
 - "cheese"
-- "French-inspired"
+- "potato"
 - "tart"
-- "vinaigrette"
-- "salad"
-- "baking tips"
+- "vegetarian"
+- "appetizer"
 keywords:
 - "potato tart"
 - "Gruyère cheese"

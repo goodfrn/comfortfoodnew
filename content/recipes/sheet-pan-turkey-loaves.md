@@ -17,8 +17,7 @@ categories: ["Main Dishes"]
 tags:
 - "turkey"
 - "meatloaf"
-- "sheet pan"
-- "roasted vegetables"
+- "roasted"
 - "easy dinner"
 keywords:
 - "ground turkey recipe"

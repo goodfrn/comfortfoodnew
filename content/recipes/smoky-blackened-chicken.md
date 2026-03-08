@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "blackened"
-- "cast iron"
 - "spicy"
-- "oven finish"
-- "butter crust"
+- "dry rub"
+- "main dish"
+- "easy dinner"
 keywords:
 - "blackened chicken"
 - "spicy chicken crust"

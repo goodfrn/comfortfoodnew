@@ -15,13 +15,10 @@ totalTime: PT1H20M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
+- "cake"
+- "raspberry"
 - "dessert"
-- "pound cake"
-- "raspberries"
-- "cream cheese frosting"
-- "valentines day"
-- "layered cake"
+- "homemade"
 keywords:
 - "pound cake"
 - "raspberry cake"

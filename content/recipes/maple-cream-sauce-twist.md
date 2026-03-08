@@ -15,9 +15,10 @@ totalTime: PT18M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "desserts"
-- "sauces"
-- "glaze"
+- "dessert"
+- "honey"
+- "coconut"
+- "vanilla"
 keywords:
 - "maple recipe"
 - "coconut dessert"

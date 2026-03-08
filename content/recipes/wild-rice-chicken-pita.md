@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American cuisine"
-- "pita pockets"
-- "wild rice"
-- "chicken salad"
-- "lunch ideas"
+- "sandwich"
+- "chicken"
+- "easy"
+- "rice"
+- "cranberry"
 keywords:
 - "wild rice"
 - "chicken pita"

@@ -15,13 +15,11 @@ totalTime: PT30M
 recipeYield: "12 wonton tacos"
 categories: ["Appetizers"]
 tags:
-- "fusion"
-- "snacks"
-- "fusion tacos"
-- "wontons"
 - "lentils"
-- "party food"
+- "tacos"
+- "appetizer"
 - "vegetarian"
+- "spicy"
 keywords:
 - "lentil tacos"
 - "wonton cups"

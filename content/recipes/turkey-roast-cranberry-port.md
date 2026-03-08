@@ -16,12 +16,10 @@ recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
 - "turkey"
+- "roasted"
 - "cranberry"
-- "roast"
-- "French inspired"
-- "port wine"
-- "holiday meal"
-- "slow cooking"
+- "holiday"
+- "comfort food"
 keywords:
 - "turkey roast"
 - "cranberries"

@@ -15,12 +15,11 @@ totalTime: PT1H7M
 recipeYield: "12 muffins"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "muffins"
 - "peanut butter"
-- "chocolate chips"
-- "oat flour"
-- "American cuisine"
+- "chocolate"
+- "muffins"
+- "breakfast"
+- "easy"
 keywords:
 - "peanut butter muffins"
 - "chocolate chip muffins"

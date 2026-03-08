@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "about 60 pinwheels"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "Mexican-inspired"
-- "party snacks"
-- "cold appetizers"
-- "cheese snacks"
-- "make ahead"
+- "appetizer"
+- "mexican"
+- "cheese"
+- "easy"
+- "snack"
 keywords:
 - "pinwheels"
 - "jalapeno cream cheese"

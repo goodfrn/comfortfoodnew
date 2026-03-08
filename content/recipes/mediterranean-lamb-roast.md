@@ -15,14 +15,11 @@ totalTime: PT2H45M
 recipeYield: "6 to 8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "slow cooking"
-- "lamb recipes"
-- "spices"
-- "oven roasting"
-- "fenugreek"
+- "lamb"
+- "mediterranean"
+- "roasted"
 - "harissa"
-- "boneless leg of lamb"
+- "spice"
 keywords:
 - "lamb leg roast"
 - "fenugreek seeds"

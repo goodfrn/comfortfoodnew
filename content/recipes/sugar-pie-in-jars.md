@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "French Canadian"
-- "Custard Pie"
-- "Maple Syrup"
-- "Rustic Dessert"
-- "Whipped Cream"
-- "Baking Tips"
+- "dessert"
+- "pie"
+- "comfort food"
+- "no bake"
+- "easy"
 keywords:
 - "sugar pie"
 - "brown sugar custard"

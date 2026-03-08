@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American comfort"
-- "ground turkey"
-- "slow simmer"
-- "smoky flavor"
-- "Swiss cheese"
-- "brioche buns"
+- "easy dinner"
+- "sandwich"
+- "comfort food"
+- "turkey"
+- "spice"
 keywords:
 - "turkey sloppy joes"
 - "smoked paprika"

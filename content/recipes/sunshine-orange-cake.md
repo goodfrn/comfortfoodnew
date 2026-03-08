@@ -15,11 +15,9 @@ totalTime: PT50M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "quick cake"
-- "fruit topping"
-- "boxed mix"
+- "cake"
 - "citrus"
+- "dessert"
 - "pineapple"
 keywords:
 - "orange cake"

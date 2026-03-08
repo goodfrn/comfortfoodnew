@@ -15,12 +15,11 @@ totalTime: PT18M
 recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
-- "seasonal drink"
-- "gluten free"
-- "dairy free"
-- "vegan option"
-- "winter beverage"
-- "French inspired"
+- "drink"
+- "apple"
+- "spice"
+- "fall"
+- "comfort food"
 keywords:
 - "spiced cider"
 - "hot cider recipe"

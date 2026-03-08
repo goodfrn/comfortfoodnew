@@ -17,10 +17,8 @@ categories: ["Breakfast"]
 tags:
 - "pumpkin"
 - "muffins"
-- "cream cheese"
-- "fall baking"
-- "quick breads"
-- "almond extract"
+- "fall"
+- "breakfast"
 keywords:
 - "pumpkin muffins"
 - "cream cheese filling"

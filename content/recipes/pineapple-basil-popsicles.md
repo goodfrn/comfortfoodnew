@@ -15,10 +15,10 @@ totalTime: PT21M
 recipeYield: "8 servings"
 categories: ["Frozen Treats"]
 tags:
+- "pineapple"
 - "vegan"
-- "refreshing"
-- "fruit dessert"
-- "summer snack"
+- "summer"
+- "easy"
 keywords:
 - "popsicle recipe"
 - "fruity treats"

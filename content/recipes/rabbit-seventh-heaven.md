@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "game meat"
-- "rabbit recipe"
-- "slow cooking"
-- "French cuisine"
 - "stew"
+- "caribbean"
 - "rum"
-- "carrot juice"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "rabbit stew"
 - "Caribbean rum"

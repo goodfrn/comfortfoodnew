@@ -15,11 +15,11 @@ totalTime: PT4H10M
 recipeYield: "36 servings"
 categories: ["Desserts"]
 tags:
+- "candy"
+- "chocolate"
 - "fudge"
-- "marshmallow"
-- "pecans"
-- "candy making"
-- "dessert"
+- "pecan"
+- "no bake"
 keywords:
 - "fudge recipe"
 - "marshmallow fluff"

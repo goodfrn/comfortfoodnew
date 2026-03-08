@@ -15,12 +15,11 @@ totalTime: PT7M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "fusion"
-- "dip"
-- "sandwich spread"
-- "easy recipe"
-- "garlic mayo"
-- "hoisin substitution"
+- "appetizer"
+- "condiment"
+- "asian"
+- "easy"
+- "no bake"
 keywords:
 - "hoisin sauce"
 - "garlic mayonnaise"

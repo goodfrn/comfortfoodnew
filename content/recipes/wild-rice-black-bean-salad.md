@@ -15,11 +15,11 @@ totalTime: PT1H20M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "gluten free"
-- "vegetarian"
 - "salad"
+- "vegetarian"
 - "healthy"
-- "easy meal"
+- "summer"
+- "citrus"
 keywords:
 - "wild rice"
 - "black beans"

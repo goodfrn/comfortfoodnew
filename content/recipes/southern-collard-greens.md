@@ -15,11 +15,11 @@ totalTime: PT2H15M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "Southern cooking"
-- "slow simmer"
-- "collard greens"
-- "smoked meat"
+- "southern"
 - "comfort food"
+- "ham"
+- "slow cooker"
+- "homemade"
 keywords:
 - "collard greens"
 - "smoked turkey leg"

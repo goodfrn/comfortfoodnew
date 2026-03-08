@@ -15,11 +15,10 @@ totalTime: PT1H25M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "fish dishes"
-- "potato casseroles"
-- "olive oil cooking"
-- "tarragon recipes"
+- "seafood"
+- "potato"
+- "main dish"
+- "easy dinner"
 keywords:
 - "potato gratin"
 - "sole fillets"

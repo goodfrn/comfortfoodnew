@@ -15,12 +15,11 @@ totalTime: PT80M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "bread"
 - "cinnamon"
-- "snickerdoodle"
-- "buttermilk"
-- "bakery"
-- "layered loaf"
+- "bread"
+- "vanilla"
+- "homemade"
+- "easy"
 keywords:
 - "snickerdoodle loaf"
 - "cinnamon sugar bread"

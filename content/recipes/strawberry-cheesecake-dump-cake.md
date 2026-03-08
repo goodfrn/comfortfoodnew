@@ -15,13 +15,10 @@ totalTime: PT1H10M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "dump cake"
 - "strawberry"
 - "ricotta"
-- "easy recipes"
-- "American cuisine"
+- "dessert"
+- "easy"
 keywords:
 - "dump cake"
 - "strawberry pie filling"

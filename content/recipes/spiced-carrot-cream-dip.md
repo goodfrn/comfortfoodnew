@@ -15,15 +15,11 @@ totalTime: PT7M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "no bake"
 - "appetizer"
-- "dip"
-- "cream cheese"
-- "carrots"
-- "snack"
-- "easy recipe"
-- "American cuisine"
-- "party food"
+- "vegetarian"
+- "cinnamon"
+- "pecan"
+- "easy"
 keywords:
 - "carrot cream cheese dip"
 - "spiced cream cheese spread"

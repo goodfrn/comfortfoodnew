@@ -16,13 +16,9 @@ recipeYield: "1 tart shell 23-25 cm"
 categories: ["Desserts"]
 tags:
 - "tart"
-- "pastry"
-- "spelt flour"
-- "ghee"
-- "freeze-dried fruit"
-- "blind baking"
-- "rustic baking"
-- "low hydration dough"
+- "dessert"
+- "spelt"
+- "coconut"
 keywords:
 - "tart dough"
 - "spelt flour pastry"

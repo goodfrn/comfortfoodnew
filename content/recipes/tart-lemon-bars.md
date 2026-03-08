@@ -15,11 +15,11 @@ totalTime: PT1H20M
 recipeYield: "36 squares"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "baking"
-- "citrus desserts"
-- "custard"
-- "clarified butter"
+- "lemon"
+- "tart"
+- "dessert"
+- "easy"
+- "no bake"
 keywords:
 - "lemon bars"
 - "clarified butter"

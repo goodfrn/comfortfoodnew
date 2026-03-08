@@ -16,12 +16,10 @@ recipeYield: "18 pieces"
 categories: ["Snacks"]
 tags:
 - "vegan"
-- "dessert"
-- "biscotti"
 - "pistachio"
 - "lemon"
-- "almond creamer"
-- "twice baked"
+- "cookies"
+- "easy"
 keywords:
 - "pistachio biscotti"
 - "vegan dessert"

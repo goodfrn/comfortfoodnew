@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean fusion"
-- "quick dinners"
-- "chicken recipes"
-- "smoky flavors"
-- "weeknight meals"
+- "chicken"
+- "spicy"
+- "chorizo"
+- "easy dinner"
+- "mexican"
 keywords:
 - "spicy chicken"
 - "chorizo recipes"

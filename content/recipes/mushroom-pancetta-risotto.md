@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "mushrooms"
 - "risotto"
-- "Gruyère"
-- "smoked bacon"
-- "porcini"
-- "comfort food"
+- "mushroom"
+- "bacon"
+- "cheese"
+- "easy dinner"
 keywords:
 - "mushroom risotto"
 - "smoked bacon"

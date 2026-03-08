@@ -15,13 +15,10 @@ totalTime: PT30M
 recipeYield: "5 servings"
 categories: ["Salads"]
 tags:
-- "American"
-- "side dish"
-- "coleslaw"
-- "pineapple"
-- "cilantro"
 - "salad"
-- "no cook"
+- "pineapple"
+- "cabbage"
+- "summer"
 - "easy"
 keywords:
 - "coleslaw"

@@ -15,11 +15,11 @@ totalTime: PT23M
 recipeYield: "1 large batch filling"
 categories: ["Desserts"]
 tags:
-- "apple recipes"
-- "fruit fillings"
-- "baking ingredients"
-- "spiced desserts"
-- "kitchen tips"
+- "apple"
+- "cinnamon"
+- "spice"
+- "dessert"
+- "easy"
 keywords:
 - "apple filling"
 - "cornstarch thickening"

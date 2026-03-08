@@ -15,12 +15,11 @@ totalTime: PT7H5M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
+- "soup"
 - "slow cooker"
-- "French-Alsatian"
-- "root vegetables"
-- "sauerkraut"
-- "winter soup"
-- "pancetta"
+- "comfort food"
+- "cabbage"
+- "bacon"
 keywords:
 - "sauerkraut"
 - "slow cooked"

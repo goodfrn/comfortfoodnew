@@ -15,12 +15,11 @@ totalTime: PT4H12M
 recipeYield: "10 servings"
 categories: ["Side Dishes"]
 tags:
-- "coleslaw"
-- "no-cook side"
-- "pineapple recipes"
-- "summer salads"
-- "easy side dish"
-- "bbq sides"
+- "salad"
+- "broccoli"
+- "pineapple"
+- "cabbage"
+- "summer"
 keywords:
 - "broccoli slaw"
 - "pineapple slaw"

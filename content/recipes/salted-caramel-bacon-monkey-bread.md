@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "American"
+- "comfort food"
 - "bacon"
 - "caramel"
-- "pull apart bread"
-- "brunch"
-- "biscuit"
-- "sweet and salty"
+- "cinnamon"
+- "bread"
 keywords:
 - "monkey bread"
 - "salted caramel"

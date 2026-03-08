@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
 - "tart"
+- "lemon"
 - "raspberry"
-- "yuzu"
-- "cornmeal"
-- "arrowroot"
 - "dessert"
+- "easy"
 keywords:
 - "yuzu juice"
 - "cornmeal crust"

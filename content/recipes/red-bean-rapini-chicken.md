@@ -15,14 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
 - "salad"
-- "grilled chicken"
+- "chicken"
+- "spicy"
 - "healthy"
-- "gluten-free"
-- "no nuts"
-- "no eggs"
-- "quick meal"
+- "grilling"
 keywords:
 - "rapini"
 - "grilled chicken"

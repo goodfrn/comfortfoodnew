@@ -16,10 +16,9 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "veal"
+- "roasted"
 - "mushroom"
-- "roast"
-- "French cuisine"
-- "dinner party"
+- "main dish"
 keywords:
 - "veal recipe"
 - "mushroom sauce"

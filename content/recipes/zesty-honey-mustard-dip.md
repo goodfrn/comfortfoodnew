@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "8 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "dips"
-- "American"
-- "condiments"
-- "easy recipes"
-- "make ahead"
-- "salad dressing"
+- "appetizer"
+- "condiment"
+- "honey"
+- "easy"
+- "vegetarian"
 keywords:
 - "honey mustard"
 - "stone-ground mustard"

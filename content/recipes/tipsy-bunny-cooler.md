@@ -16,10 +16,10 @@ recipeYield: "2 drinks"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "shaken drink"
-- "summer beverage"
-- "raspberry mixer"
-- "PEEPS garnish"
+- "rum"
+- "drink"
+- "raspberry"
+- "lemon"
 keywords:
 - "lemonade cocktail"
 - "white rum drink"

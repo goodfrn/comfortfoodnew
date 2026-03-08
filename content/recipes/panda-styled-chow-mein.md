@@ -15,11 +15,9 @@ totalTime: PT23M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Chinese-American"
-- "stir fry"
-- "noodles"
-- "quick meals"
-- "ramen"
+- "asian"
+- "easy dinner"
+- "cabbage"
 keywords:
 - "ramen chow mein"
 - "crispy stir fry"

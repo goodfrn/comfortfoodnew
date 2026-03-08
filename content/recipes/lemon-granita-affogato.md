@@ -15,14 +15,11 @@ totalTime: PT26M
 recipeYield: "6 servings"
 categories: ["Frozen Treats"]
 tags:
+- "lemon"
 - "vegan"
-- "gluten-free"
-- "dairy-free"
-- "frozen dessert"
-- "coffee dessert"
-- "french-inspired"
-- "citrus"
-- "summer dessert"
+- "coconut"
+- "summer"
+- "dessert"
 keywords:
 - "lemon granita"
 - "coconut barista milk"

@@ -16,11 +16,10 @@ recipeYield: "4 sandwiches"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "sandwich"
-- "American"
+- "turkey"
 - "avocado"
-- "smoked ham"
-- "spicy mayo"
-- "quick meal"
+- "easy"
+- "spicy"
 keywords:
 - "turkey avocado sandwich"
 - "spicy mayonnaise"

@@ -16,10 +16,8 @@ recipeYield: "6-8 servings"
 categories: ["Main Dishes"]
 tags:
 - "quiche"
-- "Swiss chard"
 - "bacon"
-- "rye flour"
-- "brunch"
+- "homemade"
 keywords:
 - "savory quiche"
 - "rye crust"

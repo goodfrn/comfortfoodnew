@@ -15,11 +15,11 @@ totalTime: PT39M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
+- "mushroom"
 - "rice"
-- "mushrooms"
-- "butter cooking"
-- "American cuisine"
-- "comfort food"
+- "side dish"
+- "easy"
+- "vegetarian"
 keywords:
 - "mushroom rice"
 - "caramelized mushrooms"

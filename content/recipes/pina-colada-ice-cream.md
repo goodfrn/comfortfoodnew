@@ -15,12 +15,11 @@ totalTime: PT12H
 recipeYield: "14 servings"
 categories: ["Frozen Treats"]
 tags:
-- "Caribbean"
-- "Frozen Dessert"
-- "Ice Cream"
-- "Tropical"
-- "Coconut"
-- "Homemade"
+- "coconut"
+- "pineapple"
+- "rum"
+- "dessert"
+- "easy"
 keywords:
 - "coconut cream"
 - "Greek yogurt"

@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "grilled shrimp"
-- "spinach salad"
-- "bacon fat"
-- "southern cuisine"
-- "quick salad"
+- "salad"
+- "seafood"
+- "shrimp"
+- "spinach"
+- "bacon"
 keywords:
 - "spinach salad"
 - "shrimp salad"

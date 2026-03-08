@@ -15,11 +15,11 @@ totalTime: PT6H40M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American comfort"
 - "slow cooker"
-- "dinner"
-- "make ahead"
-- "easy meals"
+- "meatloaf"
+- "comfort food"
+- "beef"
+- "easy dinner"
 keywords:
 - "meatloaf"
 - "slow cooker"

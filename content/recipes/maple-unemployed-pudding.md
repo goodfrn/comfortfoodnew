@@ -15,9 +15,10 @@ totalTime: PT42M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "Canadian"
 - "comfort food"
+- "cake"
+- "coconut"
+- "cinnamon"
 keywords:
 - "maple syrup"
 - "muscovado sugar"

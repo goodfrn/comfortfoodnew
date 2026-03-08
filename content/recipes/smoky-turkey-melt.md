@@ -16,9 +16,10 @@ recipeYield: "1 serving"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "turkey"
+- "bacon"
 - "sandwich"
-- "quick meal"
-- "cheese"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "Turkey Melt"
 - "sandwich"

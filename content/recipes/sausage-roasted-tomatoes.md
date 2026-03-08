@@ -15,10 +15,11 @@ totalTime: PT49M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "main dish"
-- "vegetable"
-- "easy recipe"
+- "roasted"
+- "sausage"
+- "italian"
+- "side dish"
+- "easy dinner"
 keywords:
 - "Italian sausage"
 - "oven baked tomatoes"

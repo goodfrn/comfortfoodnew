@@ -15,13 +15,11 @@ totalTime: PT1H45M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "barbecue"
-- "gluten free"
-- "dairy free"
+- "chicken"
+- "spicy"
 - "grilling"
-- "marinade"
-- "chicken recipe"
-- "smoky spice"
+- "dry rub"
+- "comfort food"
 keywords:
 - "chicken drumsticks"
 - "smoked paprika"

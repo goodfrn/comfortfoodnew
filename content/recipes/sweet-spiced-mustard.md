@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "4 cups"
 categories: ["Dips and Spreads"]
 tags:
+- "condiment"
 - "vegan"
-- "gluten-free"
-- "nut-free"
-- "mustard"
-- "spiced mustard"
-- "homemade mustard"
+- "gluten free"
+- "easy"
+- "spice"
 keywords:
 - "mustard"
 - "fennel seeds"

@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: 18 servings
 categories: ["Snacks"]
 tags:
+- "cheese"
 - "appetizer"
-- "French cuisine"
-- "cheese lovers"
-- "finger food"
+- "snack"
+- "party"
+- "homemade"
 keywords:
 - "cheese recipe"
 - "snack idea"
