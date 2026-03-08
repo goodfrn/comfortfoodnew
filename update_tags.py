@@ -82,43 +82,36 @@ def replace_tags_in_content(content, new_tags):
 
 def get_tags_from_claude(client, title, description, current_tags):
     """Call Claude Haiku to get the best tags for a recipe."""
-    prompt = f"""You are a recipe tag classifier. Choose exactly 5 tags from the allowed list below that best match this recipe.
-
-Recipe title: {title}
-Recipe description: {description}
-Current tags: {', '.join(current_tags)}
-
-ALLOWED TAGS (choose ONLY from this list):
-{TAGS_LIST_STR}
-
-Rules:
-- Choose exactly 5 tags
-- Only use tags from the allowed list above
-- Pick the most specific and relevant tags
-- Return only the 5 tags, one per line, no numbering, no extra text
-
-Your 5 tags:"""
-
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=100,
-        messages=[{"role": "user", "content": prompt}]
+        system=[
+            {
+                "type": "text",
+                "text": f"You are a recipe tag classifier. Choose exactly 5 tags from this allowed list only:\n\n{TAGS_LIST_STR}\n\nRules:\n- Choose exactly 5 tags\n- Only use tags from the list above\n- Pick the most specific and relevant tags\n- Return only the 5 tags, one per line, no numbering, no extra text",
+                "cache_control": {"type": "ephemeral"}
+            }
+        ],
+        messages=[
+            {
+                "role": "user",
+                "content": f"Recipe title: {title}\nDescription: {description}"
+            }
+        ]
     )
-    
+
     response_text = message.content[0].text.strip()
     tags = [line.strip().strip('- "\'') for line in response_text.split('\n') if line.strip()]
-    
-    # Validate — keep only tags that are in our allowed list
+
     valid_tags = [t for t in tags if t.lower() in [a.lower() for a in ALLOWED_TAGS]]
-    
-    # Normalize to exact case from ALLOWED_TAGS
+
     normalized = []
     for t in valid_tags:
         for allowed in ALLOWED_TAGS:
             if t.lower() == allowed.lower():
                 normalized.append(allowed)
                 break
-    
+
     return normalized[:5]
 
 # ── MAIN ──────────────────────────────────────────────────────────────────────
