@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "2 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "French cuisine"
-- "sauce making"
-- "emulsified sauces"
-- "home cooking"
-- "butter sauces"
+- "homemade"
+- "condiment"
+- "citrus"
+- "easy"
+- "french"
 keywords:
 - "butter sauce"
 - "white wine sauce"

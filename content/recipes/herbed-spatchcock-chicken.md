@@ -15,13 +15,11 @@ totalTime: PT80M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast chicken"
-- "spatchcock"
-- "one-pan meal"
-- "herb roasted"
+- "chicken"
+- "roasted"
 - "easy dinner"
-- "poultry cooking"
-- "vegetables roasting"
+- "comfort food"
+- "main dish"
 keywords:
 - "spatchcock chicken"
 - "roast chicken"

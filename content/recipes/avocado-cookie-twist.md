@@ -15,12 +15,10 @@ totalTime: PT33M
 recipeYield: "30 cookies"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
-- "avocado"
 - "chocolate"
+- "avocado"
 - "cinnamon"
-- "snack"
 - "dessert"
 keywords:
 - "avocado cookies"

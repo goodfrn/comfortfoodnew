@@ -16,9 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "dinner"
-- "allergy-friendly"
-- "French-inspired"
+- "easy dinner"
+- "roasted"
+- "comfort food"
+- "jam"
 keywords:
 - "chicken thighs"
 - "sweet onion"

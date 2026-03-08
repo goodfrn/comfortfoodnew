@@ -15,11 +15,11 @@ totalTime: PT4H6M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "no cook dessert"
-- "fruit salad"
-- "easy chilled salad"
-- "Greek yogurt recipes"
-- "marshmallow recipes"
+- "salad"
+- "dessert"
+- "no bake"
+- "pineapple"
+- "party"
 keywords:
 - "mixed fruit salad"
 - "mini marshmallows dessert"

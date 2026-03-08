@@ -15,11 +15,10 @@ totalTime: PT3M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "shots"
-- "whisky drinks"
-- "party drinks"
-- "quick cocktails"
-- "layered drinks"
+- "cocktail"
+- "cinnamon"
+- "party"
+- "no bake"
 keywords:
 - "Fireball shot"
 - "whisky layering"

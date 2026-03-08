@@ -15,9 +15,11 @@ totalTime: PT20M
 recipeYield: 1 serving
 categories: ["Beverages"]
 tags:
-- "warm drinks"
-- "infusions"
-- "vegan recipes"
+- "apple"
+- "cinnamon"
+- "citrus"
+- "drink"
+- "vegan"
 keywords:
 - "apple infusion"
 - "citrus tea"

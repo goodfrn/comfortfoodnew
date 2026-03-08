@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "10 servings"
 categories: ["Side Dishes"]
 tags:
-- "American comfort food"
-- "potato side dish"
-- "herb mash"
-- "ranch seasoning"
-- "smoked paprika"
-- "easy dinner sides"
+- "comfort food"
+- "potato"
+- "side dish"
+- "vegetarian"
+- "easy dinner"
 keywords:
 - "mashed potatoes"
 - "Greek yogurt mash"

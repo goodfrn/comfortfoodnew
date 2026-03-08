@@ -15,11 +15,11 @@ totalTime: PT24M
 recipeYield: "16 servings"
 categories: ["Snacks"]
 tags:
-- "Mexican-American"
-- "game day"
-- "easy meals"
-- "snacks"
-- "crowd pleaser"
+- "beef"
+- "party"
+- "easy dinner"
+- "mexican"
+- "tacos"
 keywords:
 - "ground beef taco"
 - "walking taco"

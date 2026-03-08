@@ -15,12 +15,10 @@ totalTime: PT85M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "fruit desserts"
-- "hand pies"
-- "gluten-free"
-- "dairy-free option"
-- "winter desserts"
+- "pie"
+- "caramel"
+- "dessert"
+- "vegetarian"
 keywords:
 - "pear hand pies"
 - "caramelized sugar"

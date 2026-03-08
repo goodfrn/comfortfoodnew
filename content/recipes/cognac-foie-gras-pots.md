@@ -15,10 +15,10 @@ totalTime: PT65M
 recipeYield: 2 small pots
 categories: ["Appetizers"]
 tags:
-- "French"
-- "gourmet"
-- "pâté"
 - "appetizer"
+- "party"
+- "french"
+- "no bake"
 keywords:
 - "foie gras"
 - "Armagnac"

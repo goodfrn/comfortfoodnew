@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "Spanish"
-- "red wine"
-- "summer drink"
-- "vegan"
-- "gluten-free"
-- "easy prep"
+- "summer"
+- "drink"
+- "citrus"
+- "elderflower"
 keywords:
 - "sangria"
 - "red wine cocktail"

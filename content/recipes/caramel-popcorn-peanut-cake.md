@@ -17,12 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cake"
 - "caramel"
-- "peanuts"
-- "popcorn"
-- "French-inspired"
-- "baking"
+- "chocolate"
 - "dessert"
-- "layered cake"
+- "peanut butter"
 keywords:
 - "caramel popcorn cake"
 - "peanut butter dessert"

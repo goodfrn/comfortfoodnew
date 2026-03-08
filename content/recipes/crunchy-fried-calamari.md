@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "seafood"
-- "Mediterranean"
-- "fried food"
-- "snack"
 - "appetizer"
+- "fried"
+- "mediterranean"
+- "snack"
 keywords:
 - "calamari rings"
 - "crispy fried squid"

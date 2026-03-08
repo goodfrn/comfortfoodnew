@@ -16,11 +16,10 @@ recipeYield: "32 bites"
 categories: ["Appetizers"]
 tags:
 - "vegetarian"
-- "vegan"
-- "finger food"
-- "green veggies"
-- "quick prep"
-- "nut-free"
+- "appetizer"
+- "grilling"
+- "party"
+- "healthy"
 keywords:
 - "pea puree"
 - "grilled pita bites"

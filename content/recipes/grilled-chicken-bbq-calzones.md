@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "chicken"
-- "barbecue"
-- "calzones"
-- "summer cooking"
-- "chipotle"
-- "no dairy"
-- "gluten free option"
+- "grilling"
+- "bread"
+- "summer"
+- "main dish"
 keywords:
 - "calzones"
 - "chipotle BBQ chicken"

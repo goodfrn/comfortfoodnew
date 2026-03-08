@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "cold soup"
-- "celery"
-- "vegetable puree"
-- "French-inspired"
-- "starter"
-- "chilled"
-- "dairy"
+- "soup"
+- "vegetarian"
+- "appetizer"
+- "summer"
+- "healthy"
 keywords:
 - "celery soup"
 - "cold soup"

@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
 - "eggs"
-- "boiling"
-- "kitchen tips"
 - "breakfast"
-- "techniques"
+- "vegetarian"
+- "easy"
+- "healthy"
 keywords:
 - "hard boiled eggs"
 - "egg cooking"

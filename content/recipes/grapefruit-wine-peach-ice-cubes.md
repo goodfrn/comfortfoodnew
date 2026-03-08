@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Beverages"]
 tags:
 - "cocktail"
-- "fruit infusion"
-- "summer drinks"
-- "vegan"
-- "easy prep"
-- "white wine"
+- "drink"
+- "summer"
+- "citrus"
+- "peach"
 keywords:
 - "grapefruit wine"
 - "peach ice cubes"

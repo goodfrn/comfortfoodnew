@@ -15,13 +15,11 @@ totalTime: PT1H25M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Mediterranean"
 - "chicken"
 - "sandwich"
-- "herb roasted potatoes"
-- "garlic sauce"
-- "quick pickle"
-- "easy dinners"
+- "mediterranean"
+- "easy dinner"
+- "roasted"
 keywords:
 - "Mediterranean chicken"
 - "naan sandwich"

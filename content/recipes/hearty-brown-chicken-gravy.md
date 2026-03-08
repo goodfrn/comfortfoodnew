@@ -15,14 +15,11 @@ totalTime: PT2H40M
 recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "gravy"
 - "chicken"
-- "slow simmer"
-- "French-inspired"
-- "roasting"
-- "Marsala"
-- "bourbon"
-- "toasted flour"
+- "gravy"
+- "roasted"
+- "comfort food"
+- "main dish"
 keywords:
 - "brown gravy"
 - "chicken wings"

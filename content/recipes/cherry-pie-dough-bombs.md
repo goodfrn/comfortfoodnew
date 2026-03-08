@@ -15,11 +15,11 @@ totalTime: PT31M
 recipeYield: "16 servings"
 categories: ["Snacks"]
 tags:
+- "cherry"
+- "fried"
+- "pie"
+- "snack"
 - "dessert"
-- "fried snacks"
-- "American"
-- "easy snack"
-- "biscuit dough"
 keywords:
 - "cherry pie filling"
 - "deep fried snack"

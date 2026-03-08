@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "roasting"
-- "root veggies"
-- "balsamic"
-- "American cuisine"
-- "vegetable side dish"
+- "vegetarian"
+- "side dish"
+- "roasted"
+- "healthy"
+- "easy"
 keywords:
 - "root vegetables"
 - "balsamic vinegar"

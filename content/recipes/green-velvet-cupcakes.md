@@ -16,10 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cupcakes"
-- "American dessert"
-- "green velvet"
-- "holiday baking"
-- "cream cheese frosting"
+- "chocolate"
+- "cake"
+- "dessert"
+- "party"
 keywords:
 - "green velvet"
 - "cupcakes"

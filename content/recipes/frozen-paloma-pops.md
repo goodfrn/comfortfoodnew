@@ -15,11 +15,10 @@ totalTime: PT5H
 recipeYield: "8 pops"
 categories: ["Frozen Treats"]
 tags:
-- "cocktails"
-- "frozen desserts"
-- "summer recipes"
-- "vegan"
-- "gluten-free"
+- "cocktail"
+- "summer"
+- "citrus"
+- "no bake"
 keywords:
 - "ruby grapefruit"
 - "mint syrup"

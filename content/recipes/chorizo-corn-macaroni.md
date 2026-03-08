@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "baked pasta"
 - "comfort food"
-- "cheddar cheese"
+- "pasta"
 - "chorizo"
+- "cheese"
 - "corn"
-- "panko crust"
 keywords:
 - "macaroni bake"
 - "chorizo pasta"

@@ -16,10 +16,10 @@ recipeYield: "3 servings"
 categories: ["Beverages"]
 tags:
 - "smoothie"
-- "healthy drink"
-- "berry recipe"
+- "healthy"
+- "drink"
+- "blueberry"
 - "spinach"
-- "quick shake"
 keywords:
 - "blueberry shake"
 - "green smoothie"

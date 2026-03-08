@@ -15,13 +15,11 @@ totalTime: PT3H5M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "braising"
-- "beef stew"
-- "mushrooms"
+- "beef"
+- "stew"
+- "mushroom"
 - "barley"
-- "slow cooked"
-- "French-inspired"
-- "comfort food"
+- "slow cooker"
 keywords:
 - "braised beef"
 - "barley mushrooms"

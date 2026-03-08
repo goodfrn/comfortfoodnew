@@ -17,10 +17,9 @@ categories: ["Desserts"]
 tags:
 - "dessert"
 - "summer"
-- "American"
-- "berries"
-- "baking"
-- "quick bake"
+- "strawberry"
+- "cake"
+- "vanilla"
 keywords:
 - "shortcake"
 - "strawberries"

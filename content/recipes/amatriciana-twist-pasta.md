@@ -15,14 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
+- "italian"
 - "pasta"
-- "guanciale"
-- "pecorino"
-- "sun-dried tomatoes"
-- "quick meals"
-- "smoky flavor"
-- "pasta sauce"
+- "pork"
+- "spicy"
+- "comfort food"
 keywords:
 - "bucatini"
 - "Italian pasta sauce"

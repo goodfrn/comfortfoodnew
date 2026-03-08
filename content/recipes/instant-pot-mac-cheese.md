@@ -15,11 +15,10 @@ totalTime: PT21M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Instant Pot"
-- "mac and cheese"
-- "quick meals"
-- "pressure cooker"
+- "instant pot"
 - "comfort food"
+- "cheese"
+- "easy dinner"
 keywords:
 - "Instant Pot recipes"
 - "mac and cheese"

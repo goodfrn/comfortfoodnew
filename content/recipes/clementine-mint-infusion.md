@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: 8 servings
 categories: ["Beverages"]
 tags:
-- "beverage"
-- "refreshing"
-- "party drink"
+- "drink"
 - "summer"
-- "infusion"
+- "party"
+- "citrus"
+- "mint"
 keywords:
 - "clementine"
 - "melons"

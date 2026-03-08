@@ -15,14 +15,11 @@ totalTime: PT35M
 recipeYield: "8 servings"
 categories: ["Non-Alcoholic Cocktails"]
 tags:
-- "holiday drinks"
-- "cranberry recipes"
-- "vegan beverages"
-- "gluten-free"
-- "herbal punch"
-- "apple cider"
-- "festive cocktails"
-- "non-alcoholic options"
+- "holiday"
+- "drink"
+- "cranberry"
+- "citrus"
+- "party"
 keywords:
 - "cranberry syrup"
 - "bruise sage"

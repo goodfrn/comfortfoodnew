@@ -15,13 +15,11 @@ totalTime: PT6H25M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "slow cooking"
-- "gnocchi"
 - "beef"
 - "comfort food"
-- "home cooking"
-- "one pot meal"
+- "one pot"
+- "slow cooker"
+- "potato"
 keywords:
 - "beef gnocchi"
 - "slow simmer"

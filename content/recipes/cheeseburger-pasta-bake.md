@@ -15,11 +15,11 @@ totalTime: PT47M
 recipeYield: "5 servings"
 categories: ["Main Dishes"]
 tags:
-- "American cuisine"
-- "one-dish meals"
-- "baked pasta"
 - "comfort food"
-- "ground beef recipes"
+- "pasta"
+- "beef"
+- "cheese"
+- "easy dinner"
 keywords:
 - "cheeseburger pasta"
 - "baked elbow macaroni"

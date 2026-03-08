@@ -16,10 +16,10 @@ recipeYield: "400 ml"
 categories: ["Beverages"]
 tags:
 - "vegan"
-- "dairy-free"
-- "plant-based"
 - "coconut"
 - "homemade"
+- "healthy"
+- "easy"
 keywords:
 - "coconut milk"
 - "vegan milk"

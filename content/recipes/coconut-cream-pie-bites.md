@@ -15,13 +15,11 @@ totalTime: PT2H15M
 recipeYield: "28 servings"
 categories: ["Desserts"]
 tags:
-- "no-bake"
-- "bite-sized desserts"
-- "cheesecake bites"
-- "coconut flavor"
-- "white almond bark"
-- "quick chill"
-- "microwave melting"
+- "no bake"
+- "coconut"
+- "dessert"
+- "candy"
+- "almond"
 keywords:
 - "cream cheese bites"
 - "microwave melting method"

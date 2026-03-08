@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "Bundt cake"
-- "tropical flavors"
-- "banana recipes"
-- "pineapple recipes"
-- "cream cheese drizzle"
-- "moist cakes"
+- "cake"
+- "banana"
+- "pineapple"
+- "comfort food"
+- "dessert"
 keywords:
 - "banana cake"
 - "pineapple bundt"

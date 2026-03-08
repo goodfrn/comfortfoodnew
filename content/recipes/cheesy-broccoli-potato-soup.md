@@ -17,11 +17,9 @@ categories: ["Soups"]
 tags:
 - "soup"
 - "comfort food"
-- "broccoli"
-- "potatoes"
 - "cheese"
-- "quick meals"
-- "easy recipes"
+- "broccoli"
+- "potato"
 keywords:
 - "broccoli potato soup"
 - "cheesy soup"

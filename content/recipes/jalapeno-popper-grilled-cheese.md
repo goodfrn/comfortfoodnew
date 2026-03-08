@@ -15,13 +15,10 @@ totalTime: PT60M
 recipeYield: "10 servings"
 categories: ["Snacks"]
 tags:
-- "American"
 - "spicy"
-- "grilled cheese"
+- "cheese"
 - "bacon"
-- "cheese blend"
-- "roasted peppers"
-- "snack"
+- "sandwich"
 - "comfort food"
 keywords:
 - "jalapeño poppers"

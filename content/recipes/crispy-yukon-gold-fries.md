@@ -15,12 +15,11 @@ totalTime: PT1H4M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "frying"
-- "potatoes"
+- "fried"
+- "potato"
 - "snack"
-- "French-Canadian"
-- "pancetta"
-- "crispy texture"
+- "comfort food"
+- "side dish"
 keywords:
 - "Yukon Gold potatoes"
 - "crispy fries"

@@ -15,12 +15,11 @@ totalTime: PT1H15M
 recipeYield: "10 servings"
 categories: ["Breakfast"]
 tags:
-- "breakfast casserole"
-- "bagels"
-- "roasted tomatoes"
+- "breakfast"
+- "eggs"
+- "cheese"
 - "comfort food"
-- "egg dishes"
-- "savory bake"
+- "roasted"
 keywords:
 - "bagel bake"
 - "egg custard casserole"

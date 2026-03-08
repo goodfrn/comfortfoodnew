@@ -15,10 +15,11 @@ totalTime: PT32M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "beets"
-- "cooking"
+- "beet"
 - "vegetarian"
-- "sidedish"
+- "citrus"
+- "side dish"
+- "pressure cooker"
 keywords:
 - "beets recipe"
 - "easy vegetable recipe"

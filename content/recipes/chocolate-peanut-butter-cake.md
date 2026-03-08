@@ -15,12 +15,11 @@ totalTime: PT58M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "Layer Cake"
-- "Peanut Butter"
-- "Chocolate"
-- "Ganache"
-- "Baking Tips"
-- "Dessert"
+- "chocolate"
+- "cake"
+- "peanut butter"
+- "dessert"
+- "party"
 keywords:
 - "chocolate cake"
 - "peanut butter frosting"

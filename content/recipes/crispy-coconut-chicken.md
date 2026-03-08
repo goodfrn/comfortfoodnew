@@ -15,12 +15,11 @@ totalTime: PT39M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "American fusion"
+- "chicken"
 - "snack"
-- "dinner"
-- "baked chicken"
-- "easy chicken"
-- "tropical flavors"
+- "coconut"
+- "pineapple"
+- "easy dinner"
 keywords:
 - "coconut chicken"
 - "crispy chicken fingers"

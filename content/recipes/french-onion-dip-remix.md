@@ -15,13 +15,11 @@ totalTime: PT32M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "dip"
 - "appetizer"
 - "snack"
-- "onion"
-- "caramelized"
-- "Greek yogurt"
-- "smoky flavor"
+- "vegetarian"
+- "party"
+- "french"
 keywords:
 - "onion dip"
 - "caramelized shallots"

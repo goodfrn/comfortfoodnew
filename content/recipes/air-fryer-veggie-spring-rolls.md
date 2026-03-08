@@ -15,11 +15,11 @@ totalTime: PT38M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "Asian fusion"
 - "air fryer"
 - "vegetarian"
 - "appetizer"
-- "healthy cooking"
+- "asian"
+- "healthy"
 keywords:
 - "spring rolls"
 - "air fryer recipe"

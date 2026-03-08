@@ -15,11 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "compound butter"
 - "bacon"
-- "herbs"
-- "French-inspired"
-- "easy recipe"
+- "pork"
+- "spice"
+- "condiment"
+- "easy"
 keywords:
 - "bacon butter"
 - "herb butter"

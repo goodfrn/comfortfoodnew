@@ -15,14 +15,11 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "vinaigrette"
-- "buttermilk"
-- "herbs"
-- "salad dressing"
-- "American"
-- "gluten-free"
-- "nut-free"
-- "egg-free"
+- "salad"
+- "condiment"
+- "vegetarian"
+- "healthy"
+- "easy"
 keywords:
 - "buttermilk dressing"
 - "herb vinaigrette"

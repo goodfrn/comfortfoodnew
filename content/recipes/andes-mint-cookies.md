@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cookies"
-- "mint"
 - "chocolate"
-- "baking tips"
-- "holiday treats"
+- "mint"
+- "dessert"
+- "homemade"
 keywords:
 - "mint cookies"
 - "chocolate cookies"

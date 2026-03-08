@@ -15,10 +15,11 @@ totalTime: PT35M
 recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
-- "Italian"
+- "italian"
 - "pasta"
 - "vegetarian"
-- "30-minute meals"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "creamy pasta"
 - "easy pasta recipes"

@@ -16,10 +16,10 @@ recipeYield: "8 to 10 servings"
 categories: ["Main Dishes"]
 tags:
 - "comfort food"
-- "French-inspired"
-- "vegetarian option"
-- "baked pasta"
-- "fall recipes"
+- "pasta"
+- "cheese"
+- "fall"
+- "roasted"
 keywords:
 - "rigatoni gratin"
 - "cheddar Parmigiano crust"

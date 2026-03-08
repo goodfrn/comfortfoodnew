@@ -15,11 +15,11 @@ totalTime: PT65M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "chocolate desserts"
-- "nuts"
-- "frosting"
-- "American German-inspired"
+- "chocolate"
+- "brownies"
+- "comfort food"
+- "pecan"
+- "caramel"
 keywords:
 - "brownies"
 - "chocolate"

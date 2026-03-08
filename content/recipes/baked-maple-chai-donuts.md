@@ -15,13 +15,11 @@ totalTime: PT30M
 recipeYield: "12 donuts"
 categories: ["Snacks"]
 tags:
-- "baked donuts"
-- "chai spice"
-- "maple syrup"
-- "whole wheat"
-- "coconut oil"
-- "yogurt"
-- "quick treats"
+- "breakfast"
+- "snack"
+- "homemade"
+- "vegetarian"
+- "chai"
 keywords:
 - "maple donuts"
 - "chai spice donuts"

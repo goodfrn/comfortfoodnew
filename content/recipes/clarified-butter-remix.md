@@ -15,11 +15,9 @@ totalTime: PT17M
 recipeYield: "1 serving"
 categories: ["Sauces and Condiments"]
 tags:
-- "cooking techniques"
-- "fat rendering"
-- "butter"
-- "kitchen tips"
-- "ingredient swaps"
+- "vegetarian"
+- "homemade"
+- "easy"
 keywords:
 - "clarified butter"
 - "butter fat"

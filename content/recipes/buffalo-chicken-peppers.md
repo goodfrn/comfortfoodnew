@@ -15,11 +15,11 @@ totalTime: PT65M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "baked dishes"
+- "chicken"
+- "cheese"
 - "easy dinner"
-- "chicken recipes"
-- "stuffed peppers"
+- "comfort food"
+- "spicy"
 keywords:
 - "buffalo chicken"
 - "stuffed peppers"

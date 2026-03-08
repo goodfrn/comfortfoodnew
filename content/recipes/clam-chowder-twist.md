@@ -18,7 +18,8 @@ tags:
 - "soup"
 - "seafood"
 - "comfort food"
-- "Canadian"
+- "bacon"
+- "one pot"
 keywords:
 - "clam chowder"
 - "creamy soup"

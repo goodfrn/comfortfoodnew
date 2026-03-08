@@ -15,13 +15,11 @@ totalTime: PT12M
 recipeYield: "8 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "dip"
 - "holiday"
 - "dessert"
-- "snack"
-- "cream cheese"
-- "gingerbread"
 - "easy"
+- "snack"
+- "no bake"
 keywords:
 - "gingerbread spices"
 - "cream cheese spread"

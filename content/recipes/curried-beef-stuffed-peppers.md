@@ -15,12 +15,11 @@ totalTime: PT1H40M
 recipeYield: "5 servings"
 categories: ["Main Dishes"]
 tags:
-- "fusion"
-- "gluten-free"
+- "beef"
+- "spicy"
 - "main dish"
-- "beef recipes"
-- "stuffed peppers"
-- "one-pan meal"
+- "healthy"
+- "slow cooker"
 keywords:
 - "curried stuffed peppers"
 - "slow roasted peppers"

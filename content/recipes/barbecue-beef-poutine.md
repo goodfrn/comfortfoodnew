@@ -15,11 +15,10 @@ totalTime: PT1H15M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Canadian cuisine"
+- "beef"
 - "comfort food"
-- "oven-baked"
-- "beef recipes"
-- "barbecue twist"
+- "cheese"
+- "potato"
 keywords:
 - "poutine recipe"
 - "beef sauce"

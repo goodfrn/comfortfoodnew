@@ -15,10 +15,11 @@ totalTime: PT2H15M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "hearty meals"
+- "pork"
+- "sausage"
+- "cabbage"
+- "slow cooker"
 - "comfort food"
-- "slow cooking"
-- "pork recipes"
 keywords:
 - "eastern european cooking"
 - "cabbage dish"

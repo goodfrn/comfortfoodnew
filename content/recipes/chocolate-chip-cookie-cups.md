@@ -15,11 +15,11 @@ totalTime: PT31M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cookies"
-- "ice cream"
-- "baking"
-- "easy recipes"
+- "chocolate"
+- "dessert"
+- "comfort food"
+- "party"
 keywords:
 - "cookie cups"
 - "mini chocolate chips"

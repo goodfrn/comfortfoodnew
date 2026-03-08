@@ -16,14 +16,10 @@ recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "fusion"
-- "omelette sandwich"
-- "curried mayo"
-- "brioche buns"
-- "pancetta"
-- "smoky gouda"
-- "roasted vegetables"
-- "baby spinach"
+- "sandwich"
+- "eggs"
+- "bacon"
+- "spicy"
 keywords:
 - "curry omelette"
 - "roasted red peppers"

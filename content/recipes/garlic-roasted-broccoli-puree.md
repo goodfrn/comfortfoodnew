@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "vegan"
-- "gluten-free"
+- "gluten free"
 - "side dish"
-- "vegetable purée"
-- "French-inspired"
+- "roasted"
+- "broccoli"
 keywords:
 - "broccoli purée"
 - "roasted garlic"

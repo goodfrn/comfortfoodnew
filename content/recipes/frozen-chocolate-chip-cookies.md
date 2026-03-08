@@ -16,11 +16,10 @@ recipeYield: "2 dozen"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
 - "chocolate"
-- "frozen dough"
 - "dessert"
-- "snack"
+- "comfort food"
+- "homemade"
 keywords:
 - "chocolate chip cookies"
 - "frozen cookie dough"

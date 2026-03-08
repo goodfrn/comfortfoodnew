@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "vegan"
 - "salad"
+- "vegetarian"
 - "grilling"
-- "quick meals"
 - "healthy"
+- "asparagus"
 keywords:
 - "asparagus salad"
 - "tofu recipes"

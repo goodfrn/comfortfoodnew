@@ -15,12 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "southern cuisine"
-- "southern cooking"
-- "fried cabbage"
-- "bacon recipes"
-- "quick side dish"
-- "jerk seasoning"
+- "bacon"
+- "cabbage"
+- "fried"
+- "comfort food"
+- "side dish"
 keywords:
 - "bacon fried cabbage"
 - "crispy bacon recipe"

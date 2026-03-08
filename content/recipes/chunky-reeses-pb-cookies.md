@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "peanut butter"
-- "Reese’s"
-- "baking tips"
-- "chocolate candy"
-- "desserts"
-- "quick bake"
+- "chocolate"
+- "candy"
+- "dessert"
 keywords:
 - "peanut butter cookies"
 - "chunky peanut butter cookies"

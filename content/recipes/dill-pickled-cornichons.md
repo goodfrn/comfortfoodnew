@@ -15,14 +15,11 @@ totalTime: PT47M
 recipeYield: "3 liters (about 12 cups)"
 categories: ["Preserves"]
 tags:
-- "pickling"
-- "preserving"
-- "French cuisine"
-- "homemade pickles"
-- "cornichons"
-- "dill"
-- "fermentation"
-- "kitchen hacks"
+- "vegetarian"
+- "condiment"
+- "homemade"
+- "spice"
+- "easy"
 keywords:
 - "pickled cucumbers"
 - "dill pickles"

@@ -18,9 +18,8 @@ tags:
 - "dessert"
 - "banana"
 - "pie"
-- "pudding"
-- "whipped cream"
-- "blind bake"
+- "vanilla"
+- "comfort food"
 keywords:
 - "banana pudding"
 - "pie crust"

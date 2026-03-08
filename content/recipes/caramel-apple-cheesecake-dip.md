@@ -15,12 +15,11 @@ totalTime: PT2H20M
 recipeYield: "10 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "American"
+- "apple"
+- "caramel"
+- "cheese"
+- "no bake"
 - "dessert"
-- "snack"
-- "no-bake"
-- "chilled"
-- "party food"
 keywords:
 - "caramel"
 - "apple dip"

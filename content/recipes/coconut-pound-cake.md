@@ -15,12 +15,11 @@ totalTime: PT100M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
+- "cake"
 - "coconut"
 - "dessert"
-- "pound cake"
-- "cream cheese"
-- "vanilla bean"
+- "comfort food"
+- "homemade"
 keywords:
 - "coconut cake"
 - "pound cake recipe"

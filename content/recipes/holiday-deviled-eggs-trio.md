@@ -17,11 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "appetizer"
 - "holiday"
-- "French-Canadian fusion"
 - "eggs"
-- "seafood"
-- "snack"
-- "easy prep"
+- "spicy"
+- "vegetarian"
 keywords:
 - "deviled eggs"
 - "steamed eggs"

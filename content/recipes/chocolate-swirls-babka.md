@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "babka"
-- "braided bread"
-- "chocolate dessert"
+- "bread"
+- "chocolate"
 - "brioche"
-- "French bakery"
-- "yeast bread"
-- "handmade bread"
+- "homemade"
+- "dessert"
 keywords:
 - "babka"
 - "chocolate swirl"

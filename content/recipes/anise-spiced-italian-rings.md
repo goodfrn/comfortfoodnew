@@ -15,11 +15,11 @@ totalTime: PT49M
 recipeYield: "16 pieces"
 categories: ["Snacks"]
 tags:
-- "Italian baking"
-- "vegan cookies"
-- "spiced biscuits"
-- "cardamom recipes"
-- "biscuit techniques"
+- "italian"
+- "cookies"
+- "spice"
+- "lemon"
+- "vegan"
 keywords:
 - "Italian biscuits"
 - "cardamom spice"

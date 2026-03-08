@@ -16,14 +16,9 @@ recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "coffee"
-- "orange"
+- "citrus"
 - "gelatin"
-- "French-inspired"
-- "creamy desserts"
-- "gelatin desserts"
-- "spiced syrup"
-- "infused cream"
+- "no bake"
 keywords:
 - "panna cotta"
 - "coffee infusion"

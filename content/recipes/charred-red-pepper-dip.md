@@ -15,14 +15,10 @@ totalTime: PT1H10M
 recipeYield: "375 ml"
 categories: ["Dips and Spreads"]
 tags:
-- "vegan"
-- "gluten-free"
-- "dairy-free"
-- "Mediterranean"
 - "appetizer"
-- "dip"
-- "smoky"
-- "easy prep"
+- "mediterranean"
+- "roasted"
+- "gluten free"
 keywords:
 - "red bell peppers"
 - "sherry vinegar"

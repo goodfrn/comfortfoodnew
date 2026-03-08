@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "grilling"
-- "Asian cuisine"
-- "beef recipes"
-- "marinades"
-- "summer BBQ"
+- "beef"
+- "asian"
+- "summer"
+- "main dish"
 keywords:
 - "sirloin steak"
 - "Asian marinade"

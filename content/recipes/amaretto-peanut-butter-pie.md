@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "no bake"
 - "peanut butter"
-- "cream cheese"
+- "pie"
 - "dessert"
-- "American"
-- "quick dessert"
-- "chilled pie"
+- "chocolate"
 keywords:
 - "peanut butter pie"
 - "cream cheese dessert"

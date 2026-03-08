@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "pudding"
 - "chocolate"
 - "blueberry"
-- "vegetarian"
-- "baking"
+- "cake"
+- "dessert"
+- "comfort food"
 keywords:
 - "chocolate pudding"
 - "blueberry cake"

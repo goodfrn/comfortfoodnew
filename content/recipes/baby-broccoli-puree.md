@@ -15,14 +15,11 @@ totalTime: PT21M
 recipeYield: "875 ml 35 fl oz approx"
 categories: ["Baby Food"]
 tags:
-- "baby food"
-- "puree"
-- "vegan"
+- "broccoli"
+- "cauliflower"
 - "gluten free"
-- "dairy free"
-- "steamed vegetables"
-- "green vegetables"
-- "baby nutrition"
+- "vegan"
+- "healthy"
 keywords:
 - "baby puree"
 - "broccoli puree"

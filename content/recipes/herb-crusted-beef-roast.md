@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "beef"
-- "barbecue"
-- "herbs"
-- "smoked salt"
-- "pink peppercorns"
 - "grilling"
-- "French-style"
-- "medium rare"
+- "roasted"
+- "main dish"
+- "holiday"
 keywords:
 - "herb crust"
 - "bone-in beef roast"

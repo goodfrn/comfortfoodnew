@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "12 bites"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "Italian cuisine"
-- "party snacks"
-- "easy recipes"
-- "salami recipes"
+- "appetizer"
+- "italian"
+- "cheese"
+- "party"
+- "easy"
 keywords:
 - "salami cups"
 - "baked salami"

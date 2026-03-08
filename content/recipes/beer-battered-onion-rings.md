@@ -15,11 +15,11 @@ totalTime: PT39M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "fried snacks"
-- "beer batter"
-- "onion rings"
-- "crispy coating"
-- "American cuisine"
+- "fried"
+- "snack"
+- "appetizer"
+- "vegetarian"
+- "american"
 keywords:
 - "onion rings"
 - "beer batter"

@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "2 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "dairy"
-- "condensed milk"
 - "homemade"
-- "kitchen tips"
-- "simmering"
-- "brown sugar"
+- "condiment"
+- "no bake"
+- "dessert"
+- "easy"
 keywords:
 - "condensed milk"
 - "milk simmer"

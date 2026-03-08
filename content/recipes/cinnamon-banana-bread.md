@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "10 slices"
 categories: ["Breads"]
 tags:
-- "banana bread"
+- "banana"
+- "bread"
 - "cinnamon"
-- "streusel"
-- "baking tips"
-- "glaze"
-- "American cuisine"
+- "comfort food"
+- "breakfast"
 keywords:
 - "banana bread"
 - "cinnamon sugar swirl"

@@ -17,9 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "pasta"
 - "seafood"
-- "Italian"
-- "Venetian"
-- "quick meal"
+- "italian"
+- "lemon"
+- "mediterranean"
 keywords:
 - "bigoli recipe"
 - "mussels dish"

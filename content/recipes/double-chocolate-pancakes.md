@@ -18,9 +18,8 @@ tags:
 - "pancakes"
 - "chocolate"
 - "breakfast"
-- "baking"
-- "egg whites"
-- "buttermilk"
+- "comfort food"
+- "homemade"
 keywords:
 - "chocolate pancakes"
 - "folded egg whites"

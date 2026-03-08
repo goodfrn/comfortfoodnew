@@ -15,11 +15,11 @@ totalTime: PT3H25M
 recipeYield: "6-8 servings"
 categories: ["Soups"]
 tags:
-- "stock"
-- "bone broth"
 - "chicken"
-- "slow cooking"
-- "kitchen basics"
+- "soup"
+- "slow cooker"
+- "homemade"
+- "healthy"
 keywords:
 - "bone stock"
 - "chicken broth"

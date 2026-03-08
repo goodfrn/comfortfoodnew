@@ -15,10 +15,11 @@ totalTime: PT21M
 recipeYield: Approx 65 ml (1/4 cup)
 categories: ["Sauces and Condiments"]
 tags:
-- "sauce"
 - "seafood"
-- "Asian fusion"
-- "quick recipes"
+- "asian"
+- "condiment"
+- "citrus"
+- "easy"
 keywords:
 - "Asian mignonette"
 - "cilantro sauce"

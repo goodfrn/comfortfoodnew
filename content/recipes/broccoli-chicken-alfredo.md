@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "Chicken"
-- "Pasta"
-- "Cream sauce"
-- "Broccoli"
-- "Weeknight meal"
+- "chicken"
+- "pasta"
+- "broccoli"
+- "cheese"
+- "easy dinner"
 keywords:
 - "Chicken Alfredo"
 - "Broccoli pasta"

@@ -15,12 +15,11 @@ totalTime: PT47M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "pasta bake"
 - "comfort food"
-- "baking"
-- "chicken recipes"
-- "broccoli recipes"
+- "pasta"
+- "chicken"
+- "cheese"
+- "easy dinner"
 keywords:
 - "Alfredo pasta bake"
 - "chicken pasta casserole"

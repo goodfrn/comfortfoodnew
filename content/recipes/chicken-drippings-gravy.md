@@ -17,10 +17,9 @@ categories: ["Sauces and Condiments"]
 tags:
 - "gravy"
 - "chicken"
-- "roux"
 - "homemade"
 - "comfort food"
-- "American cuisine"
+- "side dish"
 keywords:
 - "gravy recipe"
 - "chicken broth gravy"

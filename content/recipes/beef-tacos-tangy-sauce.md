@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "tacos"
-- "Tex-Mex"
 - "beef"
-- "quick recipe"
-- "dinner"
+- "tacos"
+- "mexican"
+- "cheese"
+- "easy dinner"
 keywords:
 - "ground beef"
 - "cheddar tacos"

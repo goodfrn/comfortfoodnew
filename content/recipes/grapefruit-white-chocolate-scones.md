@@ -15,12 +15,11 @@ totalTime: PT1H18M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "scones"
-- "baking"
-- "citrus"
-- "white chocolate"
 - "breakfast"
+- "citrus"
+- "chocolate"
 - "vegetarian"
+- "dessert"
 keywords:
 - "grapefruit scones"
 - "white chocolate chunks"

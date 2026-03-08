@@ -15,12 +15,11 @@ totalTime: PT12H15M
 recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
-- "cold steep"
-- "loose leaf tea"
-- "southern style"
-- "sweet tea"
-- "homemade beverage"
-- "summer drinks"
+- "drink"
+- "summer"
+- "southern"
+- "lemon"
+- "homemade"
 keywords:
 - "cold brewed tea"
 - "sweet tea syrup"

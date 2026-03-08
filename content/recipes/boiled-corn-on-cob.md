@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
 - "corn"
-- "boiled corn"
-- "American cuisine"
-- "cooking tips"
-- "vegetable side"
+- "vegetarian"
+- "side dish"
+- "easy"
+- "summer"
 keywords:
 - "boiled corn"
 - "corn on cob"

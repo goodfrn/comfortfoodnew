@@ -15,12 +15,11 @@ totalTime: PT3H30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "braising"
-- "beef recipes"
-- "slow cooking"
-- "French cuisine"
+- "beef"
 - "comfort food"
-- "one pot meals"
+- "slow cooker"
+- "one pot"
+- "stew"
 keywords:
 - "braised beef"
 - "chuck roast stew"

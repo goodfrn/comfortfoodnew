@@ -16,12 +16,10 @@ recipeYield: "34 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "almond"
 - "chocolate"
 - "coconut"
-- "American cuisine"
-- "chewy cookies"
+- "almond"
+- "comfort food"
 keywords:
 - "almond joy"
 - "cookie recipe"

@@ -15,13 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "dairy-free"
 - "vegan"
-- "italian-inspired"
-- "gluten-free"
+- "gluten free"
 - "pesto"
-- "cashew"
-- "basil"
+- "italian"
+- "easy"
 keywords:
 - "cashew pesto"
 - "nutritional yeast pesto"

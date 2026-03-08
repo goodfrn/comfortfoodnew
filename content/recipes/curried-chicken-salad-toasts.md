@@ -15,11 +15,10 @@ totalTime: PT25M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "chicken salad"
-- "turmeric"
-- "quick lunch"
-- "open-faced sandwich"
-- "rye bread"
+- "chicken"
+- "salad"
+- "sandwich"
+- "bread"
 keywords:
 - "chicken salad"
 - "turmeric"

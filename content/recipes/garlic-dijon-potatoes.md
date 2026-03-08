@@ -15,13 +15,11 @@ totalTime: PT75M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "potatoes"
-- "baking"
 - "comfort food"
+- "potato"
 - "cheese"
-- "savory"
-- "sides"
+- "bacon"
+- "side dish"
 keywords:
 - "Hasselback potatoes"
 - "Yukon gold potatoes"

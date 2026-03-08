@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "8 servings"
 categories: ["Breads"]
 tags:
-- "southern baking"
-- "savory biscuits"
-- "cornbread"
-- "jalapeños"
-- "cheddar"
-- "drop biscuits"
+- "bread"
+- "cheese"
+- "spicy"
+- "southern"
+- "appetizer"
 keywords:
 - "cornbread mix"
 - "jalapeño biscuit"

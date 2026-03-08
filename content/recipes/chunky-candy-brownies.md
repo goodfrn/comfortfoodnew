@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "chocolate"
-- "dessert"
 - "brownies"
+- "chocolate"
 - "candy"
 - "fudge"
-- "American"
+- "dessert"
 keywords:
 - "brownies"
 - "chocolate chunks"

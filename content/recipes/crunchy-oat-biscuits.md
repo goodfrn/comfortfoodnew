@@ -15,13 +15,11 @@ totalTime: PT38M
 recipeYield: "18 servings"
 categories: ["Snacks"]
 tags:
-- "baking"
-- "biscuits"
-- "maple syrup"
-- "cinnamon"
-- "oats"
-- "dairy-free"
 - "snack"
+- "vegetarian"
+- "cinnamon"
+- "coconut"
+- "homemade"
 keywords:
 - "oat biscuits"
 - "maple syrup baking"

@@ -15,13 +15,11 @@ totalTime: PT19M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "cast iron"
-- "cookie"
+- "cookies"
 - "chocolate"
-- "skillet"
-- "baking tips"
-- "rustic"
-- "chewy"
+- "comfort food"
+- "homemade"
+- "snack"
 keywords:
 - "cast iron cookie"
 - "chocolate chunks cookie"

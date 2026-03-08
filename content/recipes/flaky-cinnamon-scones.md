@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "9 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "scones"
 - "breakfast"
 - "cinnamon"
-- "layered dough"
-- "caramelized sugar"
-- "bread flour"
+- "bread"
+- "honey"
+- "homemade"
 keywords:
 - "scones"
 - "cinnamon scones"

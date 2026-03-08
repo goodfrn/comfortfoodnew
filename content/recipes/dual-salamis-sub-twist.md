@@ -16,13 +16,10 @@ recipeYield: "2 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "sandwich"
-- "italian-american"
-- "salami"
-- "provolone"
-- "submarine roll"
 - "spicy"
-- "olive oil"
-- "herbs"
+- "pork"
+- "italian"
+- "easy dinner"
 keywords:
 - "submarine sandwich"
 - "provolone salami sandwich"

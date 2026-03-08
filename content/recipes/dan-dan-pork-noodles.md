@@ -15,13 +15,10 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian"
-- "Chinese"
-- "noodles"
+- "asian"
 - "pork"
 - "spicy"
-- "Sichuan"
-- "weeknight meal"
+- "easy dinner"
 keywords:
 - "ground pork"
 - "chili crisp"

@@ -17,7 +17,9 @@ categories: ["Desserts"]
 tags:
 - "breakfast"
 - "dessert"
-- "French-inspired"
+- "chocolate"
+- "blueberry"
+- "raspberry"
 keywords:
 - "crepes"
 - "chocolate sauce"

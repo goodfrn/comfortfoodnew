@@ -16,9 +16,10 @@ recipeYield: "4 to 5 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "French"
+- "french"
 - "vegetarian"
-- "light meal"
+- "appetizer"
+- "comfort food"
 keywords:
 - "French cuisine"
 - "soup recipe"

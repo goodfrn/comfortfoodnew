@@ -15,11 +15,11 @@ totalTime: PT21M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "snacks"
-- "appetizers"
-- "fried foods"
-- "blue cheese"
-- "olives"
+- "appetizer"
+- "snack"
+- "cheese"
+- "fried"
+- "party"
 keywords:
 - "blue cheese olives"
 - "frying olives"

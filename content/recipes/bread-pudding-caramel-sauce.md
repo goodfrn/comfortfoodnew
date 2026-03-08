@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "dessert"
 - "comfort food"
-- "cinnamon"
-- "nutmeg"
+- "dessert"
 - "caramel"
-- "bread pudding"
+- "cinnamon"
+- "eggs"
 keywords:
 - "bread pudding"
 - "caramel sauce"

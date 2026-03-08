@@ -15,12 +15,10 @@ totalTime: PT24M
 recipeYield: "10 servings"
 categories: ["Snacks"]
 tags:
-- "toffee"
-- "bacon"
-- "caramel"
-- "chocolate drizzle"
 - "snack"
-- "American"
+- "chocolate"
+- "caramel"
+- "bacon"
 - "dessert"
 keywords:
 - "bacon toffee"

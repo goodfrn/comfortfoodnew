@@ -15,12 +15,11 @@ totalTime: PT12H30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "chicken"
 - "grilling"
 - "pineapple"
-- "chicken thighs"
-- "marinade"
-- "tropical"
-- "backyard cooking"
+- "summer"
+- "asian"
 keywords:
 - "pineapple chicken"
 - "grilled chicken"

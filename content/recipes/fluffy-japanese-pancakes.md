@@ -15,14 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "Japanese"
-- "pancakes"
-- "souffle"
 - "breakfast"
-- "steamed"
-- "egg whites"
-- "almond extract"
-- "maple syrup"
+- "pancakes"
+- "japanese"
+- "eggs"
+- "easy"
 keywords:
 - "fluffy pancakes"
 - "folded egg whites"

@@ -15,11 +15,11 @@ totalTime: PT1H5M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "Mediterranean"
-- "roasted vegetables"
-- "hazelnut sauces"
-- "vegetable dips"
-- "asparagus recipes"
+- "vegetarian"
+- "roasted"
+- "asparagus"
+- "hazelnut"
+- "spicy"
 keywords:
 - "romesco sauce"
 - "roasted asparagus"

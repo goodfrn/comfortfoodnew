@@ -17,10 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "blueberry"
 - "muffins"
-- "cake flour"
-- "baking tips"
-- "brown sugar"
-- "sugar topping"
+- "breakfast"
+- "comfort food"
+- "homemade"
 keywords:
 - "blueberry muffins"
 - "cake flour muffins"

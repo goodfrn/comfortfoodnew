@@ -16,8 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "duck"
-- "French cuisine"
-- "gourmet"
+- "chocolate"
+- "french"
+- "roasted"
+- "main dish"
 keywords:
 - "duck breast"
 - "chocolate sauce"

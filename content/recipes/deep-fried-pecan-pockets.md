@@ -15,11 +15,11 @@ totalTime: PT51M
 recipeYield: "24 servings"
 categories: ["Snacks"]
 tags:
-- "southern american"
-- "fried desserts"
-- "pecan recipes"
-- "molasses baking"
-- "quick snacks"
+- "fried"
+- "pecan"
+- "dessert"
+- "comfort food"
+- "snack"
 keywords:
 - "pecan pockets"
 - "fried pecan dessert"

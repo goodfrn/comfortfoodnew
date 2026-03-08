@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
-- "fish"
-- "stew"
+- "seafood"
+- "spicy"
 - "healthy"
-- "coconut milk"
-- "vegetarian optional"
+- "stew"
+- "coconut"
 keywords:
 - "curried fish"
 - "vegetable stew"

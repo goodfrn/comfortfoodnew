@@ -15,13 +15,11 @@ totalTime: PT1H55M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "French cuisine"
+- "beef"
 - "soup"
-- "bone broth"
-- "parsnip"
 - "comfort food"
-- "winter recipes"
 - "gluten free"
+- "roasted"
 keywords:
 - "beef marrow broth"
 - "parsnip puree mousse"

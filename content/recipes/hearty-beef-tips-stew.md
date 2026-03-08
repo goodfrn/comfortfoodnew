@@ -15,13 +15,11 @@ totalTime: PT1H50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "one-pot meal"
-- "slow cooking"
-- "beef recipe"
+- "beef"
 - "comfort food"
-- "savory stew"
-- "protein rich"
+- "slow cooker"
+- "stew"
+- "one pot"
 keywords:
 - "beef stew"
 - "slow simmer beef"

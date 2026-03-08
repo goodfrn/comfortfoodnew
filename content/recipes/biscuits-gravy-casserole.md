@@ -15,12 +15,10 @@ totalTime: PT1H5M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "southern cooking"
 - "breakfast"
-- "casserole"
-- "sausage"
-- "cheddar cheese"
 - "comfort food"
+- "sausage"
+- "eggs"
 keywords:
 - "biscuit casserole"
 - "sausage gravy bake"

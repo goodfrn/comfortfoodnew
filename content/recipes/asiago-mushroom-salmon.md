@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "salmon"
 - "seafood"
-- "mushrooms"
-- "creamy sauce"
-- "pan-seared"
-- "American cuisine"
+- "mushroom"
+- "easy dinner"
+- "main dish"
 keywords:
 - "salmon recipe"
 - "mushroom sauce"

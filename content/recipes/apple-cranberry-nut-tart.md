@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "fruit tart"
-- "nut dessert"
-- "baking tips"
-- "brown butter"
-- "lattice crust"
-- "fall baking"
+- "apple"
+- "fall"
+- "tart"
+- "pecan"
+- "cinnamon"
 keywords:
 - "nut tart"
 - "brown butter"

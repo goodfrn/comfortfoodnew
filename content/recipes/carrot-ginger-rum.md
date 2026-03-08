@@ -17,12 +17,9 @@ categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
 - "rum"
-- "carrot"
-- "ginger syrup"
-- "elderflower"
-- "vegetable cocktail"
-- "vegan"
-- "gluten-free"
+- "citrus"
+- "spicy"
+- "party"
 keywords:
 - "carrot cocktail"
 - "white rum drink"

@@ -15,13 +15,11 @@ totalTime: PT16H50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "baked beans"
-- "soft eggs"
-- "vegetarian"
-- "French cuisine"
-- "slow cooking"
 - "comfort food"
-- "gluten free"
+- "vegetarian"
+- "eggs"
+- "one pot"
+- "lemon"
 keywords:
 - "white beans recipe"
 - "soft boiled eggs"

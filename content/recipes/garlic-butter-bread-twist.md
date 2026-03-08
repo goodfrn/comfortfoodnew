@@ -15,13 +15,11 @@ totalTime: PT40M
 recipeYield: "5 servings"
 categories: ["Snacks"]
 tags:
-- "garlic"
 - "bread"
-- "butter"
-- "oven"
-- "snacks"
-- "herbs"
-- "American cuisine"
+- "snack"
+- "easy"
+- "vegetarian"
+- "comfort food"
 keywords:
 - "garlic butter"
 - "parsley garlic bread"

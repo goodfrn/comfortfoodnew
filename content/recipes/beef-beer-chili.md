@@ -17,11 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "beef"
 - "chili"
-- "beer"
-- "American cuisine"
-- "spicy"
 - "comfort food"
-- "stove-top"
+- "spicy"
+- "one pot"
 keywords:
 - "chili"
 - "ground beef"

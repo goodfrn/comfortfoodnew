@@ -15,13 +15,11 @@ totalTime: PT14M
 recipeYield: "4 servings"
 categories: ["Frozen Treats"]
 tags:
-- "coffee dessert"
-- "cold drink"
-- "summer treat"
-- "whipped cream"
-- "gluten-free"
-- "dairy alternative"
-- "French-inspired"
+- "drink"
+- "dessert"
+- "summer"
+- "vanilla"
+- "no bake"
 keywords:
 - "iced coffee"
 - "espresso dessert"

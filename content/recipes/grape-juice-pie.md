@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "pie"
-- "grape"
-- "arrowroot"
-- "shortcrust"
-- "baking tips"
-- "whipped cream"
-- "almond extract"
+- "tart"
+- "cinnamon"
+- "homemade"
+- "comfort food"
 keywords:
 - "grape pie"
 - "arrowroot thickener"

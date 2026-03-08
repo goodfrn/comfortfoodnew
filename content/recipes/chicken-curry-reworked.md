@@ -15,13 +15,10 @@ totalTime: PT2H10M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Caribbean"
 - "chicken"
-- "curry"
-- "poaching"
-- "spices"
-- "slow simmer"
 - "comfort food"
+- "rice"
+- "one pot"
 keywords:
 - "chicken curry"
 - "poached chicken"

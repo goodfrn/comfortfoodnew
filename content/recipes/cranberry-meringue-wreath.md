@@ -18,9 +18,8 @@ tags:
 - "dessert"
 - "holiday"
 - "cranberry"
-- "meringue"
-- "baking"
-- "American cuisine"
+- "cinnamon"
+- "eggs"
 keywords:
 - "meringue wreath"
 - "cranberry sauce"

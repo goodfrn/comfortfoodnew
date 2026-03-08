@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: 6 servings
 categories: ["Main Dishes"]
 tags:
-- "Thai cuisine"
-- "gluten-free"
-- "main dish"
-- "noodle recipes"
-- "easy cooking"
+- "asian"
+- "chicken"
+- "spicy"
+- "easy dinner"
+- "one pot"
 keywords:
 - "rice noodles"
 - "marinated chicken"

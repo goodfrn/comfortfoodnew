@@ -15,13 +15,11 @@ totalTime: PT1H5M
 recipeYield: "10 slices"
 categories: ["Breads"]
 tags:
-- "baking"
 - "bread"
-- "bran"
-- "apricots"
-- "whole wheat"
-- "quick bread"
-- "natural leavening"
+- "breakfast"
+- "healthy"
+- "honey"
+- "homemade"
 keywords:
 - "bran bread"
 - "apricot loaf"

@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "chocolate"
 - "fudge"
-- "Kahlua"
-- "condensed milk"
-- "dessert"
 - "no bake"
-- "coffee flavor"
+- "dessert"
+- "candy"
 keywords:
 - "chocolate fudge"
 - "condensed milk fudge"

@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "Instant Pot"
-- "Soup"
-- "Broccoli Cheddar"
-- "Comfort Food"
-- "Quick Meals"
-- "Vegetable Soup"
+- "soup"
+- "broccoli"
+- "cheese"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "broccoli cheddar soup"
 - "Instant Pot soup"

@@ -15,13 +15,11 @@ totalTime: PT42M
 recipeYield: "24 servings"
 categories: ["Snacks"]
 tags:
-- "keto"
-- "no bake"
 - "snack"
-- "peanut butter"
-- "low carb"
 - "chocolate"
-- "easy dessert"
+- "peanut butter"
+- "no bake"
+- "candy"
 keywords:
 - "keto snack"
 - "peanut butter bites"

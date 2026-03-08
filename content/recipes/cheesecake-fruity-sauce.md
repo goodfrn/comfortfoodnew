@@ -15,11 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
+- "cheese"
+- "vegetarian"
 - "dessert"
-- "baking"
-- "cheesecake"
-- "fruit sauce"
-- "ricotta"
+- "homemade"
 keywords:
 - "cheesecake"
 - "berry sauce"

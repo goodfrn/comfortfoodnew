@@ -15,14 +15,11 @@ totalTime: PT20M
 recipeYield: "1 cup approx"
 categories: ["Sauces and Condiments"]
 tags:
-- "Condiments"
-- "Indian Fusion"
-- "Egg-Free"
-- "Spices"
-- "Homemade Mayo"
-- "Cilantro"
-- "Smoked Paprika"
-- "Cumin"
+- "condiment"
+- "homemade"
+- "spicy"
+- "indian"
+- "easy"
 keywords:
 - "Indian mayo twist"
 - "smoky spiced condiment"

@@ -15,13 +15,11 @@ totalTime: PT1H25M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Japanese"
-- "cheesecake"
+- "japanese"
+- "cake"
 - "dessert"
-- "baking"
-- "water bath"
-- "meringue"
-- "cornstarch"
+- "cheese"
+- "vegetarian"
 keywords:
 - "Japanese cheesecake"
 - "jiggly cheesecake"

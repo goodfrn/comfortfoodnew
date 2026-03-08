@@ -15,11 +15,11 @@ totalTime: PT38M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
+- "beef"
 - "grilling"
-- "mushroom burgers"
-- "wine cooking"
-- "burgers"
+- "burger"
+- "cheese"
+- "mushroom"
 keywords:
 - "ground beef burgers"
 - "caramelized onions"

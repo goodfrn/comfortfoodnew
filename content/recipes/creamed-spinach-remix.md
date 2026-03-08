@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
 - "spinach"
+- "cheese"
+- "vegetarian"
+- "italian"
 - "side dish"
-- "Italian cheese"
-- "vegetable"
-- "quick cooking"
-- "cream sauce"
 keywords:
 - "creamed spinach"
 - "Pecorino Romano spinach"

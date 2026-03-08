@@ -15,11 +15,11 @@ totalTime: PT15M
 recipeYield: "2 servings"
 categories: ["Snacks"]
 tags:
-- "grilled cheese"
-- "air fryer cooking"
-- "quick snacks"
-- "mayo crust"
-- "sandwich tips"
+- "air fryer"
+- "sandwich"
+- "cheese"
+- "comfort food"
+- "easy"
 keywords:
 - "grilled cheese"
 - "air fryer"

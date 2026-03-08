@@ -16,11 +16,10 @@ recipeYield: "36 cookies"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
+- "cranberry"
+- "pistachio"
+- "holiday"
 - "dessert"
-- "nuts"
-- "holiday treats"
-- "American cuisine"
 keywords:
 - "cookie recipe"
 - "dried cranberries"

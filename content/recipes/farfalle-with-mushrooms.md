@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
 - "pasta"
-- "wild mushrooms"
-- "pancetta"
-- "cream sauce"
-- "walnuts"
+- "mushroom"
+- "bacon"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "mushroom pasta"
 - "crispy pancetta"

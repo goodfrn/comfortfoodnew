@@ -15,12 +15,11 @@ totalTime: PT26M
 recipeYield: "1 batch mix"
 categories: ["Desserts"]
 tags:
-- "dry mix"
 - "brownies"
-- "baking tips"
-- "cornstarch"
-- "dutch-processed cocoa"
-- "homemade mix"
+- "chocolate"
+- "homemade"
+- "dessert"
+- "easy"
 keywords:
 - "brownie mix"
 - "dry mix brownies"

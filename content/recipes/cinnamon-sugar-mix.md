@@ -15,11 +15,10 @@ totalTime: PT4M
 recipeYield: "Half cup"
 categories: ["Desserts"]
 tags:
-- "spice mix"
-- "dry ingredients"
-- "kitchen staple"
-- "quick recipe"
-- "baking helper"
+- "cinnamon"
+- "homemade"
+- "condiment"
+- "easy"
 keywords:
 - "cinnamon sugar"
 - "brown sugar spice"

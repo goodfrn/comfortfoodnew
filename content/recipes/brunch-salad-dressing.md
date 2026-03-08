@@ -15,15 +15,11 @@ totalTime: PT65M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "brunch"
-- "Italian-inspired"
 - "salad"
-- "granola"
-- "herb dressing"
+- "breakfast"
+- "healthy"
 - "avocado"
-- "feta"
-- "protein"
-- "easy meals"
+- "eggs"
 keywords:
 - "brunch salad"
 - "creamy Italian dressing"

@@ -18,9 +18,8 @@ tags:
 - "vegan"
 - "side dish"
 - "zucchini"
-- "quick recipe"
 - "healthy"
-- "French-inspired"
+- "easy"
 keywords:
 - "zucchini"
 - "garlic"

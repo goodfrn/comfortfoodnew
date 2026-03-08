@@ -16,10 +16,10 @@ recipeYield: "20 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "charcuterie"
-- "butter board"
-- "party food"
-- "easy prep"
+- "party"
+- "vegetarian"
+- "cheese"
+- "no bake"
 keywords:
 - "butter board"
 - "herb spread"

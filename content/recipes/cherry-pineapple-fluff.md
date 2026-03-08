@@ -15,12 +15,11 @@ totalTime: PT2H20M
 recipeYield: "10 servings"
 categories: ["Salads"]
 tags:
-- "dessert"
-- "fruit salad"
-- "holiday recipe"
-- "easy dessert"
-- "whipped topping"
-- "make ahead"
+- "cherry"
+- "pineapple"
+- "pecan"
+- "no bake"
+- "party"
 keywords:
 - "fruit salad"
 - "cherry pie filling"

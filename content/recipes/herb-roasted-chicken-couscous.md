@@ -15,12 +15,10 @@ totalTime: PT2H30M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "roasting"
-- "Mediterranean"
-- "one-pan meal"
-- "slow cooking"
-- "herbs"
-- "chickpeas"
+- "chicken"
+- "roasted"
+- "mediterranean"
+- "spicy"
 - "couscous"
 keywords:
 - "roasted chicken"

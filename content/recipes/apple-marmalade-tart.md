@@ -15,13 +15,10 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French inspired"
-- "fruit tart"
-- "pastry"
-- "apple dessert"
-- "apricot jam"
-- "no eggs"
-- "no nuts"
+- "apple"
+- "tart"
+- "dessert"
+- "homemade"
 keywords:
 - "apple tart"
 - "brisé pastry"

@@ -16,12 +16,9 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "strawberry shortcake"
-- "biscuits"
-- "American cuisine"
-- "seasonal fruit"
-- "whipped cream"
-- "baking tips"
+- "strawberry"
+- "cheese"
+- "comfort food"
 keywords:
 - "cheese biscuits"
 - "strawberry shortcakes"

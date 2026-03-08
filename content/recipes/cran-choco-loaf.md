@@ -15,13 +15,11 @@ totalTime: PT1H25M
 recipeYield: "1 loaf about 700 g"
 categories: ["Breads"]
 tags:
-- "artisan bread"
-- "rustic loaf"
-- "long fermentation"
-- "no eggs"
-- "no nuts"
-- "fruit and chocolate bread"
-- "whole wheat crust"
+- "bread"
+- "chocolate"
+- "cranberry"
+- "homemade"
+- "vegetarian"
 keywords:
 - "cranberry bread"
 - "dark chocolate loaf"

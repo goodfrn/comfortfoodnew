@@ -15,11 +15,11 @@ totalTime: PT33M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "Latin American"
 - "snack"
 - "cheese"
-- "corn dough"
-- "cast iron skillet"
+- "vegetarian"
+- "corn"
+- "appetizer"
 keywords:
 - "arepa recipe"
 - "stuffed arepas"

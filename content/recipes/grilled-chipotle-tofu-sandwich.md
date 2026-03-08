@@ -18,10 +18,8 @@ tags:
 - "vegan"
 - "grilling"
 - "tofu"
-- "chipotle"
-- "summer"
-- "quick meals"
-- "sandwiches"
+- "spicy"
+- "sandwich"
 keywords:
 - "tofu sandwich"
 - "chipotle marinade"

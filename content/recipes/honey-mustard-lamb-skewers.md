@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "grilling"
 - "lamb"
-- "honey mustard"
-- "skewers"
-- "summer recipes"
-- "apple recipes"
+- "summer"
+- "apple"
+- "honey"
 keywords:
 - "lamb skewers"
 - "honey mustard glaze"

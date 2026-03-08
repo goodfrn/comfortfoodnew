@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
 - "grilling"
-- "corn recipes"
-- "summer cooking"
-- "BBQ side"
-- "American cuisine"
+- "corn"
+- "summer"
+- "side dish"
+- "vegetarian"
 keywords:
 - "grilled corn"
 - "corn on cob"

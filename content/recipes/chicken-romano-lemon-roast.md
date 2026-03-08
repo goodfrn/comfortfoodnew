@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast chicken"
-- "lemon recipes"
-- "French-inspired"
-- "manchego"
-- "oven roasting"
-- "fennel seasoning"
+- "chicken"
+- "lemon"
+- "roasted"
+- "potato"
+- "zucchini"
 keywords:
 - "roasted chicken"
 - "lemon chicken"

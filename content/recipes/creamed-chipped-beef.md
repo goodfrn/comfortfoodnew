@@ -15,13 +15,11 @@ totalTime: PT22M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American diner"
 - "comfort food"
-- "dried beef"
-- "creamed beef"
-- "toast recipes"
-- "quick cook"
-- "savory sauce"
+- "beef"
+- "easy dinner"
+- "sandwich"
+- "main dish"
 keywords:
 - "chipped beef"
 - "creamed beef sauce"

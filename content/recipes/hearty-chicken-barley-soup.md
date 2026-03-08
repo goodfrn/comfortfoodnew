@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
+- "chicken"
+- "soup"
 - "comfort food"
-- "rustic soup"
-- "slow simmer"
 - "easy dinner"
-- "healthy soup"
+- "one pot"
 keywords:
 - "chicken soup"
 - "barley"

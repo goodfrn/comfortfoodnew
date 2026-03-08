@@ -15,11 +15,11 @@ totalTime: PT21M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "candy making"
-- "nut brittle"
-- "American sweets"
+- "candy"
 - "caramel"
-- "candy tips"
+- "snack"
+- "homemade"
+- "vegetarian"
 keywords:
 - "cashew brittle"
 - "baking soda candy"

@@ -15,11 +15,11 @@ totalTime: PT1H
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "vegetable casserole"
 - "comfort food"
-- "baking"
-- "cheddar cheese"
+- "cheese"
+- "vegetarian"
+- "zucchini"
+- "side dish"
 keywords:
 - "yellow squash"
 - "baked cheddar casserole"

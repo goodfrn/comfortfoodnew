@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "burritos"
-- "ground turkey"
-- "hash browns"
-- "American Southwest"
 - "eggs"
-- "quick meals"
+- "turkey"
+- "mexican"
+- "comfort food"
 keywords:
 - "breakfast burritos"
 - "ground turkey sausage"

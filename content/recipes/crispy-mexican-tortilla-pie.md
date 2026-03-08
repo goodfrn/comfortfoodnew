@@ -15,13 +15,11 @@ totalTime: PT19M
 recipeYield: "12 slices"
 categories: ["Main Dishes"]
 tags:
-- "Mexican inspired"
-- "baked tortilla"
-- "chorizo recipe"
-- "chipotle salsa"
+- "mexican"
+- "cheese"
 - "easy dinner"
-- "snack recipe"
-- "cheese melt"
+- "spicy"
+- "pie"
 keywords:
 - "tortilla pie"
 - "chipotle salsa"

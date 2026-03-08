@@ -15,11 +15,11 @@ totalTime: PT22M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "Middle Eastern"
-- "raw meat"
-- "quick prep"
-- "no cook"
-- "cold appetizer"
+- "appetizer"
+- "beef"
+- "couscous"
+- "mediterranean"
+- "no bake"
 keywords:
 - "kibbé"
 - "couscous"

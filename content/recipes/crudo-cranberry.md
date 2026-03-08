@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "Canadian cuisine"
-- "raw fish"
-- "vinaigrette"
-- "wild rice"
-- "curing"
-- "mustard cream"
-- "garnish"
-- "seafood starter"
+- "appetizer"
+- "seafood"
+- "cranberry"
+- "cucumber"
+- "healthy"
 keywords:
 - "ombre trout"
 - "crudo slices"

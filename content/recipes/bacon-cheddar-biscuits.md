@@ -15,13 +15,11 @@ totalTime: PT30M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "American"
-- "biscuit"
 - "bacon"
 - "cheese"
-- "baking"
 - "breakfast"
-- "savory biscuits"
+- "bread"
+- "comfort food"
 keywords:
 - "biscuits recipe"
 - "cheddar biscuits"

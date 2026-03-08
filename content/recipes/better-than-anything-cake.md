@@ -15,11 +15,11 @@ totalTime: PT2H43M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "chocolate cake"
-- "condensed milk cake"
-- "caramel cake"
-- "no-frosting cakes"
-- "boxed cake mix hacks"
+- "chocolate"
+- "cake"
+- "caramel"
+- "comfort food"
+- "party"
 keywords:
 - "chocolate cake"
 - "sweetened condensed milk"

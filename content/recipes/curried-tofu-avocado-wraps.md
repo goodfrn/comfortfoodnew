@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "vegetarian"
-- "plant-based"
-- "gluten-free option"
 - "tofu"
 - "wraps"
 - "avocado"
-- "red cabbage"
-- "slaw"
+- "easy dinner"
 keywords:
 - "curried tofu"
 - "arrowroot starch tofu"

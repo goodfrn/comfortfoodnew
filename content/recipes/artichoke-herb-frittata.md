@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "Gluten-Free"
-- "Lactose-Free"
-- "Egg Recipes"
-- "Vegetable Dishes"
-- "Brunch Ideas"
+- "eggs"
+- "vegetarian"
+- "cheese"
+- "breakfast"
+- "mediterranean"
 keywords:
 - "artichoke frittata"
 - "gluten free frittata"

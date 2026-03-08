@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Asian fusion"
+- "chicken"
 - "sandwich"
-- "grilled chicken"
-- "carrot salad"
-- "quick meals"
-- "marinade"
-- "summer food"
+- "asian"
+- "grilling"
+- "easy dinner"
 keywords:
 - "grilled chicken"
 - "carrot salad"

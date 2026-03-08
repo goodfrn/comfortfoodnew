@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "fried food"
 - "snack"
-- "American cuisine"
-- "beer batter"
-- "onion rings"
+- "vegetarian"
+- "fried"
+- "spicy"
 keywords:
 - "onion rings"
 - "beer batter"

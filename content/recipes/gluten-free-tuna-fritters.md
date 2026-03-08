@@ -16,12 +16,10 @@ recipeYield: "3 dozen fritters"
 categories: ["Appetizers"]
 tags:
 - "gluten free"
-- "appetizers"
 - "seafood"
-- "fried snacks"
-- "Creole"
-- "pumpkin"
-- "quick recipes"
+- "appetizer"
+- "fried"
+- "spicy"
 keywords:
 - "tuna fritters"
 - "gluten free snacks"

@@ -15,11 +15,11 @@ totalTime: PT1H5M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
+- "soup"
 - "vegetarian"
-- "French-inspired"
-- "light soup"
-- "herb infused"
-- "broth clarity"
+- "healthy"
+- "easy"
+- "one pot"
 keywords:
 - "carrot soup"
 - "chive bundles"

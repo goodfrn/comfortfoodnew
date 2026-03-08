@@ -15,12 +15,11 @@ totalTime: PT28M
 recipeYield: "10 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "dips"
-- "snacks"
+- "appetizer"
+- "cheese"
+- "sausage"
 - "slow cooker"
-- "American cuisine"
-- "party food"
-- "easy recipes"
+- "party"
 keywords:
 - "sausage dip"
 - "cheese dip"

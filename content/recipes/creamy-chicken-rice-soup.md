@@ -18,10 +18,8 @@ tags:
 - "soup"
 - "chicken"
 - "comfort food"
-- "herbs"
 - "rice"
-- "dinner"
-- "easy meal"
+- "easy dinner"
 keywords:
 - "chicken rice soup"
 - "creamy soup"

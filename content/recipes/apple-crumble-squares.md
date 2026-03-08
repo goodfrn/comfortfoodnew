@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "apple dessert"
+- "apple"
+- "crumble"
 - "vegetarian"
-- "egg-free"
-- "dairy-free"
-- "nut-free"
-- "baking tips"
-- "French Canadian inspired"
+- "cinnamon"
+- "dessert"
 keywords:
 - "apple dessert bar"
 - "crumble topping"

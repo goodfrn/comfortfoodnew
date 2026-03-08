@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "sweet potatoes"
-- "fall cooking"
-- "cast iron"
-- "honey glaze"
+- "potato"
 - "cinnamon"
-- "vegetable side dish"
-- "oven roasted"
+- "honey"
+- "roasted"
+- "side dish"
 keywords:
 - "sweet potatoes"
 - "cast iron skillet"

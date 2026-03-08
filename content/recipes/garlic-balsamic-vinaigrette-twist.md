@@ -15,14 +15,10 @@ totalTime: PT15M
 recipeYield: "12 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "salad dressing"
-- "vinaigrette"
-- "garlic"
-- "balsamic vinegar"
-- "avocado oil"
-- "maple syrup"
-- "Dijon mustard"
-- "Mediterranean fusion"
+- "salad"
+- "healthy"
+- "mediterranean"
+- "easy"
 keywords:
 - "balsamic vinaigrette"
 - "garlic dressing"

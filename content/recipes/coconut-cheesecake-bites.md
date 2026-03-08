@@ -16,11 +16,10 @@ recipeYield: "28 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "no-bake"
+- "no bake"
 - "coconut"
-- "cheesecake"
+- "almond"
 - "snack"
-- "easy recipe"
 keywords:
 - "coconut cheesecake"
 - "white almond bark"

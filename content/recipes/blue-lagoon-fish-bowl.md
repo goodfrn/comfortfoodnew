@@ -16,13 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "tropical"
-- "party drink"
-- "blue curacao"
+- "drink"
+- "party"
+- "rum"
 - "vodka"
-- "Malibu rum"
-- "lime juice"
-- "lemon lime soda"
 keywords:
 - "blue lagoon"
 - "fish bowl cocktail"

@@ -15,11 +15,11 @@ totalTime: PT31M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian-inspired"
-- "weeknight meal"
-- "stir fry"
-- "quick dinner"
-- "ground beef"
+- "beef"
+- "asian"
+- "easy dinner"
+- "comfort food"
+- "sesame"
 keywords:
 - "beef noodles"
 - "hoisin sauce"

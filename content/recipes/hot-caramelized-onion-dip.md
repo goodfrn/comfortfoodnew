@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "About 2 cups, serves 4-6"
 categories: ["Dips and Spreads"]
 tags:
-- "American"
 - "appetizer"
-- "snack"
-- "party food"
-- "onion dip"
+- "cheese"
+- "party"
+- "caramel"
+- "vegetarian"
 keywords:
 - "caramelized onions"
 - "feta cheese dip"

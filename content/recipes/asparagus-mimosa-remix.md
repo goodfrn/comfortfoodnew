@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "vegetarian"
-- "gluten-free"
-- "dairy-free"
-- "French-inspired"
-- "spring vegetables"
-- "vinaigrette"
-- "soft-boiled eggs"
+- "asparagus"
+- "appetizer"
+- "salad"
+- "eggs"
 keywords:
 - "asparagus mimosa"
 - "champagne vinegar dressing"

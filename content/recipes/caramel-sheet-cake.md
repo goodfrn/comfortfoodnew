@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cake"
 - "caramel"
-- "pecans"
-- "espresso"
 - "dessert"
-- "sheet cake"
-- "baking tips"
+- "pecan"
+- "espresso"
 keywords:
 - "caramel sheet cake"
 - "pecan frosting"

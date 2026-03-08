@@ -18,8 +18,8 @@ tags:
 - "chocolate"
 - "peanut butter"
 - "cookies"
-- "baking tips"
 - "dessert"
+- "comfort food"
 keywords:
 - "peanut butter center"
 - "chocolate cookies"

@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
 - "salad"
 - "vegetarian"
-- "vegan option"
 - "lentils"
-- "cauliflower"
-- "pita croutons"
+- "mediterranean"
+- "healthy"
 keywords:
 - "lentil salad"
 - "fattoush"

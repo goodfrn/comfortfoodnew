@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "Pasta recipes"
-- "Chicken dishes"
-- "Cream sauces"
-- "Quick meals"
+- "chicken"
+- "pasta"
+- "comfort food"
+- "cheese"
+- "easy dinner"
 keywords:
 - "Chicken Alfredo"
 - "Creamy pasta"

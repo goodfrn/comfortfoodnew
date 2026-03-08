@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "brunch"
 - "breakfast"
-- "casserole"
-- "ham recipes"
-- "Swiss cheese"
-- "egg bake"
+- "ham"
+- "eggs"
+- "cheese"
+- "easy"
 keywords:
 - "Ham Swiss bake"
 - "breakfast casserole"

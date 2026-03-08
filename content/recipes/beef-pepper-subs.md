@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American"
-- "sandwich"
 - "beef"
-- "submarine roll"
-- "chipotle"
-- "quick meals"
-- "smoky flavor"
+- "sandwich"
+- "spicy"
+- "cheese"
+- "easy dinner"
 keywords:
 - "beef subs"
 - "chipotle pepper sandwich"

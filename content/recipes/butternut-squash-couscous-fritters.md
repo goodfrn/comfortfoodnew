@@ -15,14 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "Mediterranean"
 - "vegetarian"
 - "snack"
-- "side dish"
-- "pan-fried"
-- "spices"
-- "quick meal"
-- "fall cooking"
+- "easy"
+- "couscous"
+- "fried"
 keywords:
 - "couscous fritters"
 - "butternut squash"

@@ -15,11 +15,11 @@ totalTime: PT17M
 recipeYield: "16 servings"
 categories: ["Appetizers"]
 tags:
-- "Italian-inspired"
 - "appetizer"
-- "burrata"
-- "skewers"
-- "party food"
+- "vegetarian"
+- "italian"
+- "cheese"
+- "party"
 keywords:
 - "balsamic glaze"
 - "cherry tomatoes"

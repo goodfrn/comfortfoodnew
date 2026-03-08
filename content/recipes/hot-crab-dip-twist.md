@@ -17,10 +17,9 @@ categories: ["Dips and Spreads"]
 tags:
 - "seafood"
 - "appetizer"
-- "baked dip"
 - "cheese"
-- "party food"
-- "American cuisine"
+- "spicy"
+- "party"
 keywords:
 - "crab dip"
 - "baked dip"

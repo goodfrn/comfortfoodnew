@@ -15,15 +15,11 @@ totalTime: PT15M
 recipeYield: "16 servings"
 categories: ["Snacks"]
 tags:
-- "no-bake"
 - "chocolate"
-- "oats"
-- "almonds"
-- "browned butter"
-- "espresso"
-- "vegan option"
-- "gluten free"
 - "snack"
+- "no bake"
+- "almond"
+- "espresso"
 keywords:
 - "chocolate bites"
 - "no-oven snacks"

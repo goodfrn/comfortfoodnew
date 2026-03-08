@@ -15,13 +15,11 @@ totalTime: PT1H10M
 recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "finger food"
 - "bacon"
-- "glaze"
-- "party snacks"
-- "oven roasted"
 - "sausage"
+- "appetizer"
+- "party"
+- "roasted"
 keywords:
 - "kielbasa bites"
 - "bacon wrapped appetizers"

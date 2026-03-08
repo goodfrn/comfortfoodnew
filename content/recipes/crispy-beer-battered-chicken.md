@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "chicken"
 - "fried"
-- "beer batter"
-- "American"
-- "main course"
-- "gatherings"
+- "comfort food"
+- "party"
+- "american"
 keywords:
 - "crispy chicken"
 - "fried chicken recipe"

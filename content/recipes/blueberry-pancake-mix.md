@@ -18,11 +18,8 @@ tags:
 - "pancakes"
 - "breakfast"
 - "vegan"
-- "whole wheat"
-- "blueberries"
-- "dry mix"
-- "gluten"
-- "baking powder substitute"
+- "blueberry"
+- "homemade"
 keywords:
 - "blueberry pancakes"
 - "dry mix pancakes"

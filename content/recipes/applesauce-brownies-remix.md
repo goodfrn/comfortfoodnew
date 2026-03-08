@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "American desserts"
 - "brownies"
-- "baking tips"
-- "applesauce baking"
-- "chocolate desserts"
+- "chocolate"
+- "apple"
+- "comfort food"
+- "dessert"
 keywords:
 - "brownies"
 - "applesauce"

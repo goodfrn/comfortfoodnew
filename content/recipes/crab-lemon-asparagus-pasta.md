@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "seafood pasta"
-- "lemon recipes"
-- "asparagus dishes"
-- "French-inspired"
-- "quick meals"
-- "shallow poaching"
-- "crème fraîche"
+- "seafood"
+- "pasta"
+- "lemon"
+- "asparagus"
+- "easy dinner"
 keywords:
 - "crab pasta"
 - "lemon asparagus pasta"

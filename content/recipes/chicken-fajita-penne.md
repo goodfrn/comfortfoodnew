@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Tex-Mex"
-- "one pot meal"
-- "chicken pasta"
+- "chicken"
+- "pasta"
 - "comfort food"
-- "quick dinner"
+- "easy dinner"
+- "one pot"
 keywords:
 - "fajita seasoning"
 - "cheddar cheese"

@@ -17,10 +17,9 @@ categories: ["Side Dishes"]
 tags:
 - "salad"
 - "cucumber"
-- "quick"
-- "side dish"
-- "pickled"
 - "summer"
+- "side dish"
+- "easy"
 keywords:
 - "cucumber salad"
 - "red onion salad"

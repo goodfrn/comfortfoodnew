@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
 - "seafood"
-- "fusion"
-- "glaze"
-- "soy sauce"
+- "asian"
+- "gluten free"
+- "easy dinner"
 - "spinach"
-- "quick meals"
-- "gluten-free"
 keywords:
 - "haddock fillets"
 - "apricot preserves"

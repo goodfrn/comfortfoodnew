@@ -16,10 +16,10 @@ recipeYield: "2 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "dessert drink"
-- "boozy"
-- "ice cream"
-- "American"
+- "vodka"
+- "chocolate"
+- "espresso"
+- "no bake"
 keywords:
 - "coffee mudslide"
 - "boozy dessert drink"

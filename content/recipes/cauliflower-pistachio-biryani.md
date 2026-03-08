@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: 6
 categories: ["Main Dishes"]
 tags:
-- "Indian cuisine"
 - "vegan"
 - "gluten free"
-- "quick meals"
+- "rice"
+- "cauliflower"
+- "pistachio"
 keywords:
 - "biryani"
 - "pistachio"

@@ -15,13 +15,11 @@ totalTime: PT90M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "roast chicken"
-- "herbs"
-- "butter"
-- "high heat roasting"
-- "crispy skin"
+- "chicken"
+- "roasted"
 - "comfort food"
-- "American cuisine"
+- "main dish"
+- "easy dinner"
 keywords:
 - "roast chicken"
 - "herb butter"

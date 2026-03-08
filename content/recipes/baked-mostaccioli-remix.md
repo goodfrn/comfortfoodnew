@@ -15,11 +15,11 @@ totalTime: PT46M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "pasta casserole"
-- "cheese bake"
-- "sausage recipes"
+- "pasta"
+- "sausage"
+- "cheese"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "baked pasta"
 - "mostaccioli casserole"

@@ -15,11 +15,10 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "chocolate dessert"
-- "frozen treats"
-- "French-inspired"
-- "no-bake"
-- "easy chilling"
+- "chocolate"
+- "no bake"
+- "hazelnut"
+- "dessert"
 keywords:
 - "dark chocolate"
 - "whipped cream"

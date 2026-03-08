@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "24 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "desserts"
-- "easy bake"
-- "caramel treats"
-- "chocolate snacks"
+- "snack"
+- "chocolate"
+- "caramel"
+- "pretzel"
+- "candy"
 keywords:
 - "pretzels"
 - "caramel"

@@ -15,12 +15,11 @@ totalTime: PT18M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-inspired"
+- "chicken"
 - "grilling"
-- "chicken recipes"
-- "avocado dishes"
-- "summer meals"
-- "quick recipes"
+- "avocado"
+- "mexican"
+- "summer"
 keywords:
 - "grilled avocado"
 - "mango salsa"

@@ -15,13 +15,11 @@ totalTime: PT1H35M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "banana desserts"
-- "baking techniques"
-- "brown butter"
-- "pecans"
-- "cream cheese frosting"
-- "layer cakes"
-- "moist cakes"
+- "cake"
+- "banana"
+- "pecan"
+- "caramel"
+- "comfort food"
 keywords:
 - "banana cake"
 - "brown butter"

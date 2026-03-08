@@ -16,11 +16,10 @@ recipeYield: "24 servings"
 categories: ["Appetizers"]
 tags:
 - "seafood"
-- "baking"
 - "appetizer"
-- "French-inspired"
-- "shellfish"
-- "spicy sausage"
+- "cheese"
+- "spicy"
+- "sausage"
 keywords:
 - "baked oysters"
 - "andouille sausage"

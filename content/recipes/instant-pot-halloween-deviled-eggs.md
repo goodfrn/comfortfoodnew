@@ -15,12 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "Halloween"
-- "Instant Pot"
-- "snacks"
+- "appetizer"
+- "eggs"
 - "avocado"
-- "deviled eggs"
-- "holiday food"
+- "vegetarian"
+- "instant pot"
 keywords:
 - "Instant Pot eggs"
 - "deviled eggs recipe"

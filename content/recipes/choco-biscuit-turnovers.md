@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
 - "chocolate"
-- "quick snacks"
-- "American cuisine"
+- "dessert"
+- "snack"
+- "cookies"
+- "easy"
 keywords:
 - "chocolate turnovers"
 - "biscuit turnovers"

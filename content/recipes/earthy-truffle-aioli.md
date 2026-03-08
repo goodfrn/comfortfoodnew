@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "aioli"
-- "truffle"
-- "garlic"
-- "spread"
-- "French-inspired"
-- "no cook"
+- "vegetarian"
+- "appetizer"
+- "mushroom"
+- "condiment"
+- "no bake"
 keywords:
 - "truffle aioli"
 - "garlic mayo spread"

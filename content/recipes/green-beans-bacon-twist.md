@@ -15,11 +15,11 @@ totalTime: PT34M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "vegetable side"
-- "bacon dishes"
-- "easy cooking"
-- "weeknight meals"
+- "bacon"
+- "side dish"
+- "easy dinner"
+- "lemon"
+- "roasted"
 keywords:
 - "green beans"
 - "bacon"

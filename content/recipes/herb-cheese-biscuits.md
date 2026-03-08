@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "baking"
-- "biscuits"
-- "American cuisine"
-- "quick recipes"
-- "herbs"
+- "bread"
 - "cheese"
+- "vegetarian"
+- "comfort food"
+- "easy"
 keywords:
 - "drop biscuits"
 - "herb biscuits"

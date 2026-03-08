@@ -15,12 +15,11 @@ totalTime: PT1H22M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "French Canadian"
-- "moist cake"
-- "meringue technique"
-- "alternative milk"
-- "coconut sugar"
-- "baking tips"
+- "cake"
+- "citrus"
+- "lemon"
+- "homemade"
+- "eggs"
 keywords:
 - "bubblegum cake"
 - "meringue folding"

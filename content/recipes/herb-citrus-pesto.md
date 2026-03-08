@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "pesto"
-- "Italian-inspired"
-- "herb sauce"
-- "walnut"
 - "citrus"
-- "easy sauce"
-- "pasta sauce"
+- "walnut"
+- "vegetarian"
+- "condiment"
 keywords:
 - "basil pesto"
 - "nut-free pesto alternative"

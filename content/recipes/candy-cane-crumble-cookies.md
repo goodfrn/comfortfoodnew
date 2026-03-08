@@ -16,10 +16,10 @@ recipeYield: "1 1/2 dozen"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "holiday baking"
-- "winter treats"
-- "chocolate peppermint"
-- "almond flour"
+- "chocolate"
+- "holiday"
+- "mint"
+- "candy"
 keywords:
 - "crushed peppermint"
 - "cinnamon sugar roll"

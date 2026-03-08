@@ -15,13 +15,11 @@ totalTime: PT24M
 recipeYield: "24 bites"
 categories: ["Appetizers"]
 tags:
-- "French cuisine"
 - "appetizer"
-- "canapé"
-- "foie gras"
-- "party bites"
-- "quick prep"
-- "toast recipes"
+- "party"
+- "bread"
+- "easy"
+- "french"
 keywords:
 - "foie gras"
 - "apricot bites"

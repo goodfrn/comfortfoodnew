@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
 - "seafood"
-- "French-inspired"
-- "creamy soup"
+- "soup"
 - "comfort food"
-- "shellfish"
+- "potato"
+- "cauliflower"
 keywords:
 - "mussels"
 - "cauliflower soup"

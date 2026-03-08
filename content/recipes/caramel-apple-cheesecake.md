@@ -16,11 +16,9 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "cheesecake"
-- "baking"
 - "apple"
 - "caramel"
-- "American cuisine"
+- "comfort food"
 keywords:
 - "caramel apple dessert"
 - "cheesecake with fruit topping"

@@ -15,11 +15,11 @@ totalTime: PT15M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "no-bake"
-- "American"
+- "snack"
+- "no bake"
 - "peanut butter"
-- "quick recipes"
+- "chocolate"
+- "candy"
 keywords:
 - "peanut butter"
 - "corn flakes"

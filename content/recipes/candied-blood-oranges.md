@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "36 slices"
 categories: ["Snacks"]
 tags:
-- "candying"
-- "fruit snacks"
-- "blood orange"
-- "French-inspired"
+- "candy"
+- "citrus"
 - "vegan"
-- "gluten-free"
-- "dessert garnish"
+- "gluten free"
+- "dessert"
 keywords:
 - "blood oranges"
 - "simple syrup"

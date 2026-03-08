@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "baking"
-- "American"
-- "cinnamon sugar"
-- "popover"
-- "baking tips"
+- "bread"
+- "cinnamon"
+- "eggs"
+- "homemade"
 keywords:
 - "popover recipe"
 - "cinnamon sugar"

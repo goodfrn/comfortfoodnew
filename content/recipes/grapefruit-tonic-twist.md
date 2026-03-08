@@ -16,14 +16,10 @@ recipeYield: "1 serving"
 categories: ["Non-Alcoholic Cocktails"]
 tags:
 - "cocktail"
-- "herbal infusion"
-- "grapefruit"
+- "drink"
+- "citrus"
+- "summer"
 - "elderflower"
-- "vegan"
-- "gluten-free"
-- "dairy-free"
-- "summer drink"
-- "lowball glass"
 keywords:
 - "grapefruit tonic"
 - "elderflower tonic"

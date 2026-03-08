@@ -15,12 +15,11 @@ totalTime: PT172M
 recipeYield: "16 shooters"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "cheese recipes"
-- "party food"
-- "fondue"
-- "North American cuisine"
-- "make-ahead snacks"
+- "appetizer"
+- "cheese"
+- "party"
+- "vegetarian"
+- "walnut"
 keywords:
 - "cheese shooters"
 - "celery cheese appetizer"

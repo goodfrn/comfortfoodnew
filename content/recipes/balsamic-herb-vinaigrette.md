@@ -15,13 +15,11 @@ totalTime: PT3M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "vinaigrette"
-- "salad dressing"
-- "lemon juice"
-- "herbs"
-- "olive oil"
-- "quick prep"
-- "healthy dressing"
+- "healthy"
+- "lemon"
+- "honey"
+- "vegetarian"
+- "condiment"
 keywords:
 - "vinaigrette"
 - "olive oil dressing"

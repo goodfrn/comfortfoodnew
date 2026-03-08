@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
 - "seafood"
-- "barbecue"
 - "pasta"
 - "grilling"
+- "mediterranean"
 - "summer"
-- "fresh herbs"
 keywords:
 - "mussels"
 - "spaghetti"

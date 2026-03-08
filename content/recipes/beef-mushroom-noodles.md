@@ -15,12 +15,11 @@ totalTime: PT33M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian Fusion"
-- "noodles"
 - "beef"
-- "mushrooms"
-- "quick meals"
-- "stir fry"
+- "pasta"
+- "mushroom"
+- "asian"
+- "easy dinner"
 keywords:
 - "top sirloin steak"
 - "sautéed mushrooms"

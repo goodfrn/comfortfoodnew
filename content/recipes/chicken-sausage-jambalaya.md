@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Southern Cajun"
-- "One-pot meal"
-- "Spicy rice dish"
-- "Comfort food"
-- "Weeknight dinner"
-- "Leftovers friendly"
+- "cajun"
+- "chicken"
+- "sausage"
+- "rice"
+- "one pot"
 keywords:
 - "jambalaya"
 - "chicken thighs"

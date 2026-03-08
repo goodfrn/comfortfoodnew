@@ -17,12 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "breakfast"
 - "burger"
+- "beef"
 - "bacon"
-- "cheddar"
-- "skillet"
-- "quick meal"
-- "frozen patty"
-- "egg cooking"
+- "eggs"
 keywords:
 - "breakfast burger"
 - "frozen patty"

@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "pasta"
 - "chicken"
-- "Mediterranean"
-- "dinner"
-- "easy recipes"
+- "pasta"
+- "mediterranean"
+- "easy dinner"
+- "spicy"
 keywords:
 - "chicken tagliatelle"
 - "olive pasta"

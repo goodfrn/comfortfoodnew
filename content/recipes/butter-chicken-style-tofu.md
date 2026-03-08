@@ -15,12 +15,11 @@ totalTime: PT60M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "tofu"
-- "Indian fusion"
-- "plant-based"
-- "buttery sauce"
-- "garam masala"
-- "tomato cream"
+- "vegan"
+- "indian"
+- "comfort food"
+- "spicy"
+- "one pot"
 keywords:
 - "firm tofu"
 - "garam masala tofu"

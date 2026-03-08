@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "2 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
+- "sandwich"
 - "seafood"
 - "lobster"
-- "American cuisine"
-- "sandwich"
-- "shellfish"
-- "summer recipes"
+- "summer"
+- "lemon"
 keywords:
 - "lobster roll"
 - "buttered lobster"

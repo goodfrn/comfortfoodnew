@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "22 servings"
 categories: ["Desserts"]
 tags:
-- "cupcakes"
 - "chocolate"
-- "cream cheese"
-- "baking tips"
-- "desserts"
-- "American cuisine"
+- "cupcakes"
+- "cheese"
+- "dessert"
+- "comfort food"
 keywords:
 - "cream cheese center"
 - "mini chocolate chips"

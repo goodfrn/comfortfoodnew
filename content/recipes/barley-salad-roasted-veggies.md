@@ -15,13 +15,11 @@ totalTime: PT1H
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
 - "salad"
 - "vegetarian"
-- "easy meals"
-- "grilled cheese"
-- "barley"
+- "mediterranean"
 - "healthy"
+- "roasted"
 keywords:
 - "barley salad"
 - "roasted vegetables"

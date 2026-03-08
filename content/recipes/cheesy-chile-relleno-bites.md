@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "Mexican-inspired"
-- "appetizers"
-- "snacks"
-- "fried foods"
-- "cheese recipes"
-- "freezer friendly"
+- "appetizer"
+- "cheese"
+- "fried"
+- "mexican"
+- "snack"
 keywords:
 - "chile relleno bites"
 - "wonton wrappers"

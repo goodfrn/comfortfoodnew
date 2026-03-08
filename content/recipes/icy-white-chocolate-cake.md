@@ -15,11 +15,11 @@ totalTime: PT1H35M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
+- "cake"
+- "chocolate"
+- "raspberry"
+- "mascarpone"
 - "dessert"
-- "french-inspired"
-- "chilled cake"
-- "white chocolate"
-- "raspberries"
 keywords:
 - "white chocolate cake"
 - "raspberry filling"

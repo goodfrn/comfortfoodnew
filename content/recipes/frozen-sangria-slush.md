@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "summer drinks"
-- "frozen beverages"
-- "bubbly drinks"
-- "fruit slush"
+- "cocktail"
+- "drink"
+- "summer"
+- "party"
+- "raspberry"
 keywords:
 - "frozen sangria"
 - "prosecco cocktail"

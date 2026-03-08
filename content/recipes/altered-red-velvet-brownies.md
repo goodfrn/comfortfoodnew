@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "25 squares"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "brownies"
-- "red velvet"
-- "dessert"
-- "frosting"
 - "chocolate"
+- "dessert"
+- "comfort food"
+- "mascarpone"
 keywords:
 - "red velvet"
 - "brownies"

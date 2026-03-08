@@ -15,11 +15,11 @@ totalTime: PT6H30M
 recipeYield: "32 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "holiday drinks"
-- "gelatin dessert"
-- "layered shots"
-- "vodka recipes"
-- "festive cocktails"
+- "holiday"
+- "cocktail"
+- "vodka"
+- "gelatin"
+- "party"
 keywords:
 - "jello shots"
 - "layered gelatin"

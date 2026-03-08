@@ -18,9 +18,8 @@ tags:
 - "breakfast"
 - "bacon"
 - "pancakes"
-- "maple syrup"
-- "American"
-- "easy meals"
+- "comfort food"
+- "easy"
 keywords:
 - "bacon pancakes"
 - "maple pancakes"

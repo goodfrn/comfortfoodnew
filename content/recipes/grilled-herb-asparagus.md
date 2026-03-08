@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
 - "grilling"
-- "vegetables"
 - "asparagus"
-- "garlic oil"
-- "rosemary"
-- "French-inspired"
-- "summer cooking"
+- "vegetarian"
+- "summer"
+- "side dish"
 keywords:
 - "asparagus bundles"
 - "grilled asparagus"

@@ -16,10 +16,10 @@ recipeYield: "1 serving"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "sandwich"
-- "panini"
-- "Italian-American"
-- "quick lunch"
-- "toasted cheese"
+- "cheese"
+- "ham"
+- "comfort food"
+- "easy"
 keywords:
 - "panini"
 - "ciabatta"

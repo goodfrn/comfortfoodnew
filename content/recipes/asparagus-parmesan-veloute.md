@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
+- "soup"
 - "vegetarian"
-- "spring recipe"
-- "French-inspired"
-- "vegetable stock"
-- "velouté"
-- "poached eggs"
+- "cheese"
+- "eggs"
+- "asparagus"
 keywords:
 - "asparagus soup"
 - "parmesan velouté"

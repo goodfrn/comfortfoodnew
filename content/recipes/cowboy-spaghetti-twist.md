@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American Southwest"
-- "bacon recipes"
-- "spaghetti"
 - "comfort food"
-- "cheddar cheese"
-- "ground beef"
-- "spicy pasta"
+- "pasta"
+- "beef"
+- "spicy"
+- "bacon"
 keywords:
 - "bacon spaghetti"
 - "spicy pasta sauce"

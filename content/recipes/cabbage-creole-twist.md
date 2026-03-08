@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Southern cuisine"
-- "vegetable side"
-- "skillet cooking"
-- "easy sauté"
-- "home cooking"
+- "southern"
+- "cabbage"
+- "vegetarian"
+- "side dish"
+- "easy dinner"
 keywords:
 - "sautéed cabbage"
 - "Creole vegetables"

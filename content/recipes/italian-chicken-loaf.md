@@ -15,10 +15,10 @@ totalTime: PT75M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "meatloaf"
 - "chicken"
-- "home cooking"
+- "italian"
+- "meatloaf"
+- "comfort food"
 - "easy dinner"
 keywords:
 - "chicken meatloaf"

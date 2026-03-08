@@ -16,10 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "vermouth"
-- "summer drink"
-- "vegan"
-- "gluten free"
+- "citrus"
+- "lemon"
+- "blueberry"
+- "party"
 keywords:
 - "vermouth fizz"
 - "citrus cocktail"

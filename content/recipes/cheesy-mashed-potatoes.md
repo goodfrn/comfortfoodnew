@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "mashed potatoes"
 - "comfort food"
-- "American cuisine"
-- "cheese sauce"
-- "Yukon Gold"
+- "cheese"
+- "vegetarian"
+- "potato"
+- "side dish"
 keywords:
 - "mashed potatoes"
 - "smoked gouda"

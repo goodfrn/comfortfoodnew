@@ -15,11 +15,10 @@ totalTime: PT45M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
-- "braised pork"
-- "quesadillas"
-- "poblano peppers"
-- "Monterey Jack"
-- "Mexican"
+- "pork"
+- "cheese"
+- "corn"
+- "mexican"
 keywords:
 - "Mexican-inspired"
 - "easy recipe"

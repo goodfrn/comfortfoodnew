@@ -15,10 +15,10 @@ totalTime: PT34M
 recipeYield: "12 servings"
 categories: ["Soups"]
 tags:
-- "Mexican-inspired"
-- "chicken soup"
+- "chicken"
+- "soup"
+- "mexican"
 - "comfort food"
-- "one pot"
 - "easy dinner"
 keywords:
 - "chicken taco soup"

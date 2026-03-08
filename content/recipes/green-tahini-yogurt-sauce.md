@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "sauce"
-- "dip"
-- "Mediterranean"
-- "vegan"
-- "quick"
+- "mediterranean"
 - "healthy"
+- "vegetarian"
+- "condiment"
+- "mint"
 keywords:
 - "tahini recipe"
 - "yogurt sauce"

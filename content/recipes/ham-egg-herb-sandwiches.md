@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "sandwich"
-- "lunch"
-- "French-inspired"
-- "quick meal"
-- "avocado"
-- "herbs"
-- "smoked ham"
-- "cream cheese"
+- "ham"
+- "eggs"
+- "cheese"
+- "easy"
 keywords:
 - "ham sandwich"
 - "hard-boiled eggs"

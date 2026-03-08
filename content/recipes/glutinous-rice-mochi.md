@@ -15,11 +15,11 @@ totalTime: PT39M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "Japanese dessert"
 - "vegan"
 - "gluten free"
-- "frozen treat"
-- "microwave cooking"
+- "japanese"
+- "homemade"
+- "no bake"
 keywords:
 - "mochi ice cream"
 - "glutinous rice flour"

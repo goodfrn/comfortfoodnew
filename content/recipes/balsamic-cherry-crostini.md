@@ -16,14 +16,10 @@ recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "snack"
-- "American cuisine"
-- "balsamic"
-- "goat cheese"
+- "cheese"
 - "cherry"
-- "seasonal"
 - "easy"
-- "vegetarian"
+- "bread"
 keywords:
 - "balsamic cherries"
 - "candied pecans"

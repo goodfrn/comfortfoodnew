@@ -17,8 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "dessert"
-- "baking"
-- "creative"
+- "party"
+- "homemade"
+- "vegetarian"
 keywords:
 - "doll cookies"
 - "baking project"

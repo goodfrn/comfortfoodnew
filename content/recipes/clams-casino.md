@@ -17,9 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "seafood"
 - "bacon"
-- "American cuisine"
-- "casserole"
-- "shellfish"
+- "appetizer"
+- "party"
+- "easy"
 keywords:
 - "bacon fat"
 - "bell pepper"

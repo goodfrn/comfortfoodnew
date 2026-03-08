@@ -15,11 +15,11 @@ totalTime: PT8H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "citrus dessert"
-- "make-ahead sweets"
-- "gelatin mousse"
-- "finger lime"
+- "cookies"
+- "citrus"
+- "gelatin"
+- "no bake"
+- "dessert"
 keywords:
 - "gelatin bloom"
 - "whipped cream folding"

@@ -15,11 +15,11 @@ totalTime: PT18M
 recipeYield: "5 servings"
 categories: ["Salads"]
 tags:
-- "Southern"
-- "Salad"
-- "Cucumber"
-- "Dill"
-- "Chilled"
+- "salad"
+- "vegetarian"
+- "cucumber"
+- "summer"
+- "side dish"
 keywords:
 - "cucumber salad"
 - "sour cream dressing"

@@ -15,15 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
 - "seafood"
 - "salmon"
-- "bulgur"
-- "easy meals"
-- "meal prep"
-- "herbs"
-- "gluten-friendly"
-- "healthy"
+- "mediterranean"
+- "salad"
+- "summer"
 keywords:
 - "cold salmon"
 - "bulgur taboulé"

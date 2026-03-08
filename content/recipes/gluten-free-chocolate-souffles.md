@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "gluten-free"
-- "French dessert"
+- "gluten free"
 - "chocolate"
-- "baking"
-- "soufflé"
-- "meringue"
+- "eggs"
+- "dessert"
+- "french"
 keywords:
 - "soufflé"
 - "gluten-free dessert"

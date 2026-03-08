@@ -15,12 +15,11 @@ totalTime: PT1H5M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "apple"
 - "caramel"
-- "skillet"
-- "baking"
-- "American cuisine"
+- "cake"
+- "comfort food"
+- "dessert"
 keywords:
 - "caramel apple cake"
 - "skillet dessert"

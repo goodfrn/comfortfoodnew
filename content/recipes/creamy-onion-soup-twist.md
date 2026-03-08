@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "4 to 6 servings"
 categories: ["Soups"]
 tags:
-- "French-inspired"
-- "onion soup"
-- "vegetarian option"
+- "soup"
 - "comfort food"
-- "easy soup"
+- "cheese"
+- "bread"
+- "easy dinner"
 keywords:
 - "caramelized onions"
 - "cheese croutons"

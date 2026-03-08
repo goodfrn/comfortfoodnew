@@ -16,12 +16,10 @@ recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
 - "pumpkin"
-- "fall recipes"
-- "smoothies"
-- "avocado"
-- "maple syrup"
-- "spices"
-- "quick breakfast"
+- "smoothie"
+- "breakfast"
+- "fall"
+- "cinnamon"
 keywords:
 - "pumpkin shake"
 - "avocado smoothie"

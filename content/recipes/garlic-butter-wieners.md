@@ -17,9 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "appetizer"
 - "snack"
-- "party food"
+- "party"
 - "easy"
-- "American"
+- "pork"
 keywords:
 - "wieners wrapped in dough"
 - "garlic butter crescent"

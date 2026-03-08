@@ -15,13 +15,11 @@ totalTime: PT33M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "Comfort Food"
-- "One Pot"
-- "Cheese Sauce"
-- "Pasta"
-- "Sausage"
-- "Weeknight Dinner"
+- "comfort food"
+- "pasta"
+- "cheese"
+- "sausage"
+- "one pot"
 keywords:
 - "smoked sausage"
 - "mac and cheese"

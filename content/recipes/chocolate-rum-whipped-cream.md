@@ -16,11 +16,10 @@ recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "whipped cream"
-- "boozy"
 - "chocolate"
-- "quick prep"
-- "American cuisine"
+- "rum"
+- "no bake"
+- "easy"
 keywords:
 - "whipped cream"
 - "rum extract"

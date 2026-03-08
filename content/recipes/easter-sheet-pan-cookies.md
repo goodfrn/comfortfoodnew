@@ -15,12 +15,11 @@ totalTime: PT38M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "holiday baking"
 - "cookies"
-- "sheet pan"
 - "chocolate"
-- "Easter"
+- "holiday"
+- "easter"
+- "caramel"
 keywords:
 - "chunky cookies"
 - "chewy cookies"

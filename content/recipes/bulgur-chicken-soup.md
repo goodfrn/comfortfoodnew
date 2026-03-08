@@ -15,14 +15,11 @@ totalTime: PT1H20M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "North African"
 - "chicken"
-- "bulgur"
 - "soup"
 - "one pot"
-- "dairy free"
-- "nut free"
-- "egg free"
+- "spice"
+- "comfort food"
 keywords:
 - "bulgur chicken soup"
 - "fennel chicken soup"

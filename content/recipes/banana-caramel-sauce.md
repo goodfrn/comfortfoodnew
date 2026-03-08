@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "caramel"
 - "banana"
-- "coconut milk"
-- "gluten-free"
-- "dairy-free"
-- "vegetarian"
-- "dessert sauce"
+- "caramel"
+- "pecan"
+- "gluten free"
+- "dessert"
 keywords:
 - "caramel sauce"
 - "banana sauce"

@@ -15,12 +15,11 @@ totalTime: PT6M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "salad dressing"
-- "Italian-American"
-- "mayo base"
-- "dips"
 - "homemade"
-- "easy prep"
+- "italian"
+- "condiment"
+- "vegetarian"
+- "easy"
 keywords:
 - "Italian salad dressing"
 - "creamy dressing"

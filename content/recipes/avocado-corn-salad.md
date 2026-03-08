@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "summer salad"
+- "salad"
+- "summer"
 - "vegetarian"
-- "fresh herbs"
-- "dressing tips"
-- "salad texture"
+- "corn"
+- "avocado"
 keywords:
 - "corn salad"
 - "avocado salad"

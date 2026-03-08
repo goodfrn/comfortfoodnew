@@ -16,13 +16,10 @@ recipeYield: "20 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "appetizer"
-- "snacking"
-- "American fusion"
-- "compound butter"
-- "grazing board"
-- "savory"
-- "sweet"
-- "butter preparation"
+- "snack"
+- "vegetarian"
+- "party"
+- "homemade"
 keywords:
 - "compound butter"
 - "roasted garlic"

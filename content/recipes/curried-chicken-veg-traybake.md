@@ -15,16 +15,11 @@ totalTime: PT33M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "broil"
-- "curry"
-- "one pan"
-- "weeknight meal"
-- "quick dinner"
+- "chicken"
+- "roasted"
+- "easy dinner"
+- "spice"
 - "couscous"
-- "pesto"
-- "chicken breasts"
-- "vegetables"
-- "roasting"
 keywords:
 - "curried chicken"
 - "vegetable traybake"

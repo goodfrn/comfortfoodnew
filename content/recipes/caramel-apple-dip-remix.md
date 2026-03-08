@@ -15,13 +15,11 @@ totalTime: PT12M
 recipeYield: "12 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "dessert"
 - "snack"
 - "apple"
 - "caramel"
-- "cream cheese"
-- "easy"
 - "no bake"
+- "easy"
 keywords:
 - "caramel apple dip"
 - "cream cheese dessert"

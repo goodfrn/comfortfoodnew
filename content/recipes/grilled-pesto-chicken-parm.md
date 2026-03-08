@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
-- "Italian-American"
 - "chicken"
+- "grilling"
+- "cheese"
 - "pesto"
-- "parmesan"
-- "mozzarella"
-- "marinara"
+- "easy dinner"
 keywords:
 - "grilled chicken"
 - "pesto chicken"

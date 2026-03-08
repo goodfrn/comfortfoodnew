@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "blueberry"
-- "cheesecake"
-- "white chocolate"
-- "baking tips"
-- "American cuisine"
 - "dessert"
+- "comfort food"
+- "homemade"
 keywords:
 - "blueberry cookies"
 - "cheesecake cookies"

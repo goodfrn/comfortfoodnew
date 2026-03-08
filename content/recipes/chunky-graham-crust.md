@@ -15,11 +15,11 @@ totalTime: PT29M
 recipeYield: "1 pie crust"
 categories: ["Desserts"]
 tags:
-- "pie crust"
-- "graham cracker"
-- "baking tips"
-- "browned butter"
-- "dessert base"
+- "pie"
+- "dessert"
+- "homemade"
+- "no bake"
+- "vanilla"
 keywords:
 - "graham cracker crumbs"
 - "brown sugar crust"

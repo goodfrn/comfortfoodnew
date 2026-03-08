@@ -16,10 +16,10 @@ recipeYield: "1 injection batch"
 categories: ["Main Dishes"]
 tags:
 - "turkey"
-- "injection"
-- "marinade"
-- "holiday cooking"
-- "moist meat"
+- "honey"
+- "holiday"
+- "spicy"
+- "roasted"
 keywords:
 - "turkey injection"
 - "apple cider"

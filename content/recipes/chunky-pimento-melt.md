@@ -15,11 +15,11 @@ totalTime: PT21M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "American cuisine"
-- "grilled cheese"
-- "sandwich recipes"
-- "bacon sandwiches"
-- "pimento cheese"
+- "comfort food"
+- "cheese"
+- "bacon"
+- "grilling"
+- "sandwich"
 keywords:
 - "sharp cheddar"
 - "pimento spread"

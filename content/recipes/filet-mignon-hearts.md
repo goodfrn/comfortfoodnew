@@ -15,11 +15,11 @@ totalTime: PT1H40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "roasting techniques"
-- "beef recipes"
-- "caramelization"
-- "sauce making"
+- "beef"
+- "roasted"
+- "honey"
+- "spice"
+- "party"
 keywords:
 - "beef heart medallions"
 - "root vegetable caramelization"

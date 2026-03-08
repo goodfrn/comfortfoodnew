@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Breads"]
 tags:
 - "bread"
-- "rolls"
-- "garlic"
-- "basil"
-- "pull apart"
-- "baking"
-- "American"
+- "appetizer"
+- "vegetarian"
+- "italian"
+- "easy"
 keywords:
 - "pull apart rolls"
 - "garlic herb biscuits"

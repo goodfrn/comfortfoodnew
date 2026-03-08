@@ -15,13 +15,10 @@ totalTime: PT40M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
-- "marinade"
 - "beef"
-- "skewers"
-- "smoked paprika"
-- "French-inspired"
-- "tamari"
+- "grilling"
+- "appetizer"
+- "summer"
 keywords:
 - "beef skewers"
 - "tamari marinade"

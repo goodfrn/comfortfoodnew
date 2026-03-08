@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "24 mini quiches"
 categories: ["Snacks"]
 tags:
-- "French-inspired"
-- "savory snacks"
-- "baking"
-- "brunch"
-- "pastry"
+- "appetizer"
+- "cheese"
+- "ham"
+- "quiche"
+- "eggs"
 keywords:
 - "pâte brisée"
 - "endives"

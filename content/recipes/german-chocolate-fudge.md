@@ -15,12 +15,11 @@ totalTime: PT2H25M
 recipeYield: "36 squares"
 categories: ["Desserts"]
 tags:
-- "fudge"
-- "dessert"
 - "chocolate"
-- "custard frosting"
-- "nuts"
-- "German chocolate"
+- "fudge"
+- "candy"
+- "coconut"
+- "walnut"
 keywords:
 - "fudge recipe"
 - "chocolate fudge"

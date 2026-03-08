@@ -15,11 +15,11 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "carpaccio"
-- "tenderloin"
-- "coffee rub"
-- "freezer prep"
-- "modern american"
+- "beef"
+- "appetizer"
+- "spice"
+- "party"
+- "easy"
 keywords:
 - "beef carpaccio"
 - "coffee crust"

@@ -15,11 +15,11 @@ totalTime: PT42M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
 - "seafood"
 - "comfort food"
-- "potatoes"
-- "baking"
+- "potato"
+- "bacon"
+- "easy dinner"
 keywords:
 - "Yukon Gold potatoes"
 - "garlic butter"

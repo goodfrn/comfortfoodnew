@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Indian"
-- "Seafood"
-- "Instant Pot"
-- "Pressure Cooker"
-- "Spicy"
-- "One Pot"
+- "shrimp"
+- "indian"
+- "instant pot"
+- "spicy"
+- "one pot"
 keywords:
 - "Shrimp Biryani"
 - "Instant Pot recipe"

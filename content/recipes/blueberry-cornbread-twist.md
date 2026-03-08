@@ -17,9 +17,9 @@ categories: ["Breads"]
 tags:
 - "cornbread"
 - "blueberry"
-- "southern cooking"
-- "baking tips"
-- "coconut oil"
+- "breakfast"
+- "comfort food"
+- "honey"
 keywords:
 - "cornbread"
 - "honey cornbread"

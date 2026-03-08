@@ -17,10 +17,9 @@ categories: ["Seafood"]
 tags:
 - "shrimp"
 - "seafood"
-- "brining"
-- "quick meals"
-- "American cuisine"
-- "pan searing"
+- "lemon"
+- "easy dinner"
+- "appetizer"
 keywords:
 - "brined shrimp"
 - "shrimp with lemon"

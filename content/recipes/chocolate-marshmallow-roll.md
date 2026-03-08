@@ -15,11 +15,10 @@ totalTime: PT4H40M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "rolled cake"
-- "marshmallow"
 - "chocolate"
-- "American cuisine"
+- "cake"
+- "dessert"
+- "comfort food"
 keywords:
 - "marshmallow fluff"
 - "chocolate roll"

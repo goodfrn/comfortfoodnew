@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: "18 servings"
 categories: ["Snacks"]
 tags:
-- "dessert"
 - "cookies"
-- "baking tips"
-- "brown butter"
-- "apple recipes"
+- "apple"
+- "caramel"
+- "cinnamon"
+- "comfort food"
 keywords:
 - "apple cookies"
 - "caramel pockets cookie"

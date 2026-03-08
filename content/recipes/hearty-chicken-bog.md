@@ -15,13 +15,11 @@ totalTime: PT2H
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Southern"
+- "comfort food"
 - "chicken"
+- "sausage"
 - "rice"
 - "stew"
-- "comfort food"
-- "sausage"
-- "slow simmer"
 keywords:
 - "chicken bog"
 - "southern chicken recipe"

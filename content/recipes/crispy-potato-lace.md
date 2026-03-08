@@ -15,12 +15,11 @@ totalTime: PT27M
 recipeYield: "20 servings"
 categories: ["Snacks"]
 tags:
-- "vegan"
-- "gluten-free"
+- "potato"
 - "snack"
 - "side dish"
-- "herb infused"
-- "oven baked"
+- "vegetarian"
+- "roasted"
 keywords:
 - "potato lace"
 - "crispy potato slices"

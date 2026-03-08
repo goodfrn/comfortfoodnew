@@ -15,14 +15,9 @@ totalTime: PT15M
 recipeYield: "180 ml (3/4 cup)"
 categories: ["Sauces and Condiments"]
 tags:
-- "herb salt"
-- "seasoning"
-- "herbs"
-- "chive flowers"
-- "basil"
-- "lemon balm"
-- "French-inspired"
-- "no cook"
+- "grilling"
+- "condiment"
+- "easy"
 keywords:
 - "herb salt"
 - "chive flowers"

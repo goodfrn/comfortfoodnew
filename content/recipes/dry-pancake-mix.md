@@ -16,11 +16,10 @@ recipeYield: "1.2 servings"
 categories: ["Breakfast"]
 tags:
 - "pancakes"
-- "dry mix"
 - "breakfast"
-- "aluminum free baking powder"
 - "cinnamon"
-- "quick recipes"
+- "homemade"
+- "easy"
 keywords:
 - "dry pancake mix"
 - "aluminum free baking powder"

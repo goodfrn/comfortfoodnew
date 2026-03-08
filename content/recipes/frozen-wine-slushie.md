@@ -15,13 +15,11 @@ totalTime: PT8M
 recipeYield: "6 servings"
 categories: ["Beverages"]
 tags:
-- "frozen drinks"
-- "white wine"
-- "agave syrup"
-- "fruit cocktails"
-- "layered drinks"
-- "summer beverages"
-- "fusion drinks"
+- "drink"
+- "cocktail"
+- "summer"
+- "party"
+- "no bake"
 keywords:
 - "frozen wine"
 - "white wine slushie"

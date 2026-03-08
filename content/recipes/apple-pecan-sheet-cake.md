@@ -15,12 +15,11 @@ totalTime: PT72M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "Sheet Cake"
-- "Fall Baking"
-- "Pecans"
-- "Caramel"
-- "Apple Desserts"
+- "cake"
+- "apple"
+- "pecan"
+- "caramel"
+- "fall"
 keywords:
 - "apple cake"
 - "pecan cake"

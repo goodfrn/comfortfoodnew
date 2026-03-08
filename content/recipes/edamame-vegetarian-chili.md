@@ -17,11 +17,8 @@ categories: ["Main Dishes"]
 tags:
 - "vegetarian"
 - "chili"
-- "edamame"
-- "chipotle"
-- "sweet potato"
-- "gluten free"
-- "dairy free"
+- "spicy"
+- "comfort food"
 - "easy dinner"
 keywords:
 - "edamame chili"

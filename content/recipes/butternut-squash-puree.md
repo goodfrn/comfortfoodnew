@@ -17,11 +17,9 @@ categories: ["Side Dishes"]
 tags:
 - "vegan"
 - "comfort food"
-- "squash recipes"
-- "gluten-free"
-- "dairy-free"
-- "easy sides"
-- "french-inspired"
+- "gluten free"
+- "side dish"
+- "squash"
 keywords:
 - "butternut squash"
 - "coconut milk"

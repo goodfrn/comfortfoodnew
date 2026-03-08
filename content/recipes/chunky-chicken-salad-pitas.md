@@ -15,13 +15,11 @@ totalTime: PT18M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "chicken salad"
-- "quick lunch"
-- "pita sandwich"
-- "pecans"
-- "whole grain mustard"
-- "easy dinners"
-- "meal prep"
+- "chicken"
+- "salad"
+- "sandwich"
+- "easy dinner"
+- "lemon"
 keywords:
 - "chicken salad"
 - "pecans"

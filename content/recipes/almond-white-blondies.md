@@ -15,11 +15,11 @@ totalTime: PT1H
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baked goods"
-- "nutty desserts"
-- "easy blondies"
-- "almond flour recipes"
+- "blondies"
+- "almond"
+- "coconut"
+- "vegetarian"
+- "easy"
 keywords:
 - "almond bark blondies"
 - "coconut oil blondies"

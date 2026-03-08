@@ -16,11 +16,10 @@ recipeYield: "20 macarons"
 categories: ["Desserts"]
 tags:
 - "vegan"
-- "gluten-free"
 - "coconut"
-- "baking"
-- "desserts"
-- "dairy-free"
+- "gluten free"
+- "dessert"
+- "cookies"
 keywords:
 - "vegan macarons"
 - "coconut desserts"

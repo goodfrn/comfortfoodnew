@@ -15,12 +15,11 @@ totalTime: PT6M
 recipeYield: "8 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Mediterranean"
-- "cheese dip"
-- "garlic"
-- "olive oil"
-- "red wine vinegar"
-- "snacks"
+- "appetizer"
+- "cheese"
+- "mediterranean"
+- "vegetarian"
+- "bread"
 keywords:
 - "garlicky dip"
 - "pecorino oil"

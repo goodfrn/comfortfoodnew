@@ -15,11 +15,11 @@ totalTime: PT24M
 recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
-- "egg nog"
-- "holiday drinks"
-- "almond milk"
-- "tempering eggs"
-- "warm spices"
+- "drink"
+- "holiday"
+- "homemade"
+- "eggs"
+- "cinnamon"
 keywords:
 - "spiced eggnog"
 - "egg yolks"

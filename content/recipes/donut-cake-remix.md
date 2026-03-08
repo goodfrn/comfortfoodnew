@@ -16,12 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "no bake"
-- "layered cake"
-- "quick dessert"
+- "cake"
+- "dessert"
 - "mascarpone"
-- "fruit topping"
-- "donuts"
-- "French inspired"
+- "party"
 keywords:
 - "donut glaze"
 - "no bake cake"

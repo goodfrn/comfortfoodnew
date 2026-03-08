@@ -15,11 +15,11 @@ totalTime: PT53M
 recipeYield: "8 servings"
 categories: ["Breads"]
 tags:
-- "southern cooking"
-- "baking"
 - "cornbread"
-- "spicy dishes"
-- "savory baking"
+- "bread"
+- "spicy"
+- "honey"
+- "southern"
 keywords:
 - "cornbread"
 - "jalapeño"

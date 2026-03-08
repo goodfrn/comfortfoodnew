@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "American"
 - "cake"
-- "dessert"
 - "apple"
-- "pudding"
-- "fall baking"
+- "fall"
+- "dessert"
+- "comfort food"
 keywords:
 - "apple cake"
 - "poke cake"

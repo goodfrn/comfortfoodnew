@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "BBQ"
+- "bacon"
+- "corn"
 - "grilling"
-- "bacon recipes"
-- "corn recipes"
-- "spicy dishes"
-- "American BBQ"
+- "spicy"
+- "summer"
 keywords:
 - "bacon wrapped corn"
 - "jalapeño grilled corn"

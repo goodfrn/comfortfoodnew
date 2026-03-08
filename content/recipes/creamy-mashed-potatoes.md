@@ -15,12 +15,11 @@ totalTime: PT24M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "mashed potatoes"
 - "comfort food"
-- "mushroom stock"
-- "Greek yogurt"
-- "American cuisine"
-- "home cooking"
+- "potato"
+- "side dish"
+- "homemade"
+- "mushroom"
 keywords:
 - "mashed potatoes"
 - "mushroom stock"

@@ -15,12 +15,11 @@ totalTime: PT25M
 recipeYield: "2 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "savory sandwich"
-- "French-inspired"
-- "blue cheese"
-- "fig chutney"
-- "prosciutto"
-- "baguette"
+- "sandwich"
+- "pork"
+- "cheese"
+- "bread"
+- "easy"
 keywords:
 - "fig chutney"
 - "prosciutto baguette"

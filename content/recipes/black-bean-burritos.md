@@ -15,12 +15,11 @@ totalTime: PT1H35M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-inspired"
 - "vegetarian"
-- "whole wheat"
-- "brown rice"
-- "easy cooking"
-- "meal prep"
+- "mexican"
+- "easy dinner"
+- "avocado"
+- "corn"
 keywords:
 - "black beans"
 - "burritos"

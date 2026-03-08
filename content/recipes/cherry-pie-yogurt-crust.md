@@ -15,11 +15,11 @@ totalTime: PT1H27M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "fruit pie"
-- "yogurt pastry"
-- "seasonal cherries"
-- "french baking"
-- "tapioca starch"
+- "pie"
+- "tart"
+- "cherry"
+- "vegetarian"
+- "homemade"
 keywords:
 - "cherry pie"
 - "yogurt crust"

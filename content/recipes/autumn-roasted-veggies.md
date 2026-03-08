@@ -16,10 +16,10 @@ recipeYield: 8 servings
 categories: ["Side Dishes"]
 tags:
 - "vegetarian"
-- "autumn"
+- "fall"
 - "healthy"
-- "sides"
-- "easy"
+- "roasted"
+- "side dish"
 keywords:
 - "butternut squash"
 - "fennel"

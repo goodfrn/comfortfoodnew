@@ -16,11 +16,10 @@ recipeYield: "14 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
 - "chocolate"
-- "brownie"
+- "brownies"
 - "dessert"
-- "American cuisine"
+- "homemade"
 keywords:
 - "brookie cookies"
 - "marble cookie"

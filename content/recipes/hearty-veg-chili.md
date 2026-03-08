@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "vegetarian"
 - "chili"
-- "smoky flavors"
 - "comfort food"
-- "bean chili"
-- "bread bowl"
+- "one pot"
+- "easy dinner"
 keywords:
 - "vegetarian chili"
 - "bread bowl chili"

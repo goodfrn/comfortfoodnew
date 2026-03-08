@@ -17,10 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "shortbread"
-- "chocolate chips"
-- "baking"
-- "desserts"
-- "American cuisine"
+- "chocolate"
+- "almond"
+- "dessert"
 keywords:
 - "shortbread cookies"
 - "mini chocolate chips"

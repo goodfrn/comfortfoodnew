@@ -15,11 +15,11 @@ totalTime: PT75M
 recipeYield: "12 servings"
 categories: ["Breads"]
 tags:
-- "baking"
-- "quick bread"
-- "banana recipes"
-- "nuts"
-- "streusel"
+- "banana"
+- "walnut"
+- "bread"
+- "breakfast"
+- "dessert"
 keywords:
 - "banana bread"
 - "walnuts"

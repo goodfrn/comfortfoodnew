@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegan"
-- "gluten-free"
 - "tofu"
-- "orzo"
-- "herb sauce"
-- "plant-based"
-- "layered dish"
+- "grilling"
+- "pasta"
+- "citrus"
 keywords:
 - "tofu recipe"
 - "orzo salad"

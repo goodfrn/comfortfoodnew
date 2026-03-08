@@ -15,12 +15,11 @@ totalTime: PT19M
 recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
-- "hot cocoa"
-- "dessert drinks"
-- "winter beverages"
-- "bourbon recipes"
-- "hazelnut flavor"
-- "holiday drinks"
+- "chocolate"
+- "drink"
+- "cocktail"
+- "comfort food"
+- "holiday"
 keywords:
 - "hot cocoa"
 - "bourbon whipped cream"

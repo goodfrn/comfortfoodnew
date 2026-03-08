@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "quiche"
 - "asparagus"
-- "French cuisine"
+- "cheese"
 - "vegetarian"
-- "baking tips"
-- "custard"
+- "eggs"
 keywords:
 - "asparagus quiche"
 - "shortcrust dough"

@@ -15,15 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "chocolate"
-- "ginger"
-- "kumquats"
-- "French-inspired"
+- "dessert"
 - "vegetarian"
-- "nut free"
-- "mousse"
-- "speculoos"
+- "citrus"
+- "no bake"
 keywords:
 - "dark chocolate mousse"
 - "ginger mousse"

@@ -17,9 +17,9 @@ categories: ["Desserts"]
 tags:
 - "dessert"
 - "holiday"
-- "cheesecake"
-- "spiced"
-- "baking"
+- "cheese"
+- "spice"
+- "vanilla"
 keywords:
 - "cheesecake"
 - "eggnog"

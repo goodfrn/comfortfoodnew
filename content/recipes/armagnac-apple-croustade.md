@@ -15,14 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "filo pastry"
-- "apple recipes"
-- "dairy-free"
-- "nut-free"
-- "vegan"
-- "fall dessert"
-- "spiced apples"
+- "apple"
+- "fall"
+- "tart"
+- "cinnamon"
+- "dessert"
 keywords:
 - "apple croustade"
 - "calvados dessert"

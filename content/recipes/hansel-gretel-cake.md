@@ -15,12 +15,10 @@ totalTime: PT1H20M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "chocolate cake"
-- "layered cake"
-- "cream cheese frosting"
-- "French-inspired dessert"
-- "holiday baking"
-- "fairy tale dessert"
+- "chocolate"
+- "cake"
+- "party"
+- "dessert"
 keywords:
 - "layered chocolate cake"
 - "almond extract dessert"

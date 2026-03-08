@@ -15,15 +15,11 @@ totalTime: PT43M
 recipeYield: "2 large biscuits"
 categories: ["Breakfast"]
 tags:
-- "vegan"
-- "gluten-free"
 - "breakfast"
-- "snack"
 - "banana"
-- "oats"
-- "baking"
-- "quick bake"
-- "plant-based"
+- "chocolate"
+- "vegan"
+- "gluten free"
 keywords:
 - "banana biscuits"
 - "vegan breakfast biscuit"

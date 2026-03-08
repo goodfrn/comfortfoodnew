@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "chili"
-- "turkey recipes"
+- "turkey"
 - "slow cooker"
 - "comfort food"
-- "smoky flavors"
+- "spicy"
 keywords:
 - "turkey chili"
 - "chipotle chili"

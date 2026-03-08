@@ -15,12 +15,11 @@ totalTime: PT4H40M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "fruit pie"
+- "pie"
 - "strawberry"
-- "baking tips"
-- "glaze techniques"
-- "no soggy crust"
+- "dessert"
+- "homemade"
+- "summer"
 keywords:
 - "strawberry pie"
 - "clear gelatin"

@@ -17,9 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "seafood"
 - "bacon"
-- "oven cooking"
-- "paprika"
-- "lemon butter sauce"
+- "appetizer"
+- "party"
+- "lemon"
 keywords:
 - "scallops"
 - "bacon"

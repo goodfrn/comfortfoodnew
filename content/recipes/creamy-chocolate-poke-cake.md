@@ -15,13 +15,11 @@ totalTime: PT1H45M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "chocolate"
-- "poke cake"
-- "baking"
-- "American cuisine"
 - "cake"
-- "easy desserts"
+- "dessert"
+- "comfort food"
+- "easy"
 keywords:
 - "poke cake"
 - "chocolate ganache"

@@ -15,12 +15,11 @@ totalTime: PT47M
 recipeYield: "6 jumbo muffins"
 categories: ["Breakfast"]
 tags:
-- "baking"
 - "chocolate"
 - "muffins"
-- "dessert"
 - "breakfast"
-- "snack"
+- "dessert"
+- "comfort food"
 keywords:
 - "double chocolate"
 - "chocolate muffins"

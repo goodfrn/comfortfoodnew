@@ -15,11 +15,11 @@ totalTime: PT29M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Argentinian"
 - "grilling"
 - "steak"
-- "chimichurri"
-- "quick meals"
+- "beef"
+- "easy dinner"
+- "main dish"
 keywords:
 - "skirt steak"
 - "chimichurri"

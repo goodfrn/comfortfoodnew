@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "gluten-free"
-- "dairy"
-- "nut-free"
-- "egg-free"
-- "no cook"
-- "summer dessert"
+- "strawberry"
+- "appetizer"
+- "summer"
+- "no bake"
+- "dessert"
 keywords:
 - "Greek yogurt dip"
 - "strawberry dessert"

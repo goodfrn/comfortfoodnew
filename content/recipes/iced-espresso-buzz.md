@@ -16,12 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "espresso drink"
+- "espresso"
 - "vodka"
-- "bourbon"
-- "honey syrup"
-- "coffee liqueur"
-- "shaking technique"
+- "honey"
+- "drink"
 keywords:
 - "iced espresso"
 - "coffee liqueur"

@@ -15,12 +15,11 @@ totalTime: PT27M
 recipeYield: "6 large cookies"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
+- "chocolate"
 - "oatmeal"
-- "chocolate chips"
-- "dessert"
 - "homemade"
+- "dessert"
 keywords:
 - "oatmeal cookies"
 - "chocolate chip"

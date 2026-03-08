@@ -15,12 +15,11 @@ totalTime: PT38M
 recipeYield: "24 servings"
 categories: ["Snacks"]
 tags:
-- "Italian"
-- "fried dough"
+- "italian"
+- "fried"
 - "snack"
-- "street food"
-- "sweet dough"
-- "quick recipe"
+- "vegetarian"
+- "homemade"
 keywords:
 - "fried dough"
 - "zeppole"

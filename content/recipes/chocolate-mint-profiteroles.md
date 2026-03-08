@@ -15,13 +15,11 @@ totalTime: PT1H25M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "French pastry"
-- "choux pastry"
-- "mint dessert"
-- "chocolate dessert"
-- "agar-agar"
-- "whipped cream"
-- "baking tips"
+- "chocolate"
+- "mint"
+- "dessert"
+- "french"
+- "party"
 keywords:
 - "mint cream"
 - "agar-agar chantilly"

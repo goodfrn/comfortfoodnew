@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "chocolate"
-- "baking"
 - "dessert"
-- "brown sugar"
-- "sweetened condensed milk"
+- "comfort food"
+- "brownies"
+- "homemade"
 keywords:
 - "chocolate chip bars"
 - "sweetened condensed milk bars"

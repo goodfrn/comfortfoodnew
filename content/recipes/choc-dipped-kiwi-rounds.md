@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Frozen Treats"]
 tags:
-- "frozen fruit"
-- "chocolate dipping"
-- "kiwi recipes"
-- "snack ideas"
-- "dessert bites"
-- "fusion recipes"
+- "chocolate"
+- "snack"
+- "dessert"
+- "no bake"
+- "healthy"
 keywords:
 - "kiwi chocolate bite"
 - "frozen fruit chocolate"

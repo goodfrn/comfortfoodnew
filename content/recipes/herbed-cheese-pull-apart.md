@@ -16,12 +16,10 @@ recipeYield: "10 to 12 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "pull apart bread"
-- "herb bread"
-- "cheese bread"
-- "French-inspired"
-- "yeast bread"
-- "party food"
+- "bread"
+- "cheese"
+- "party"
+- "brioche"
 keywords:
 - "pull apart bread"
 - "cheese stuffed dough"

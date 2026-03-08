@@ -15,13 +15,11 @@ totalTime: PT2H10M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cupcakes"
-- "desserts"
-- "American cuisine"
 - "chocolate"
-- "pudding filling"
-- "ganache"
+- "dessert"
+- "party"
+- "american"
 keywords:
 - "cupcakes"
 - "ganache"

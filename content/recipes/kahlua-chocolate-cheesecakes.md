@@ -15,13 +15,11 @@ totalTime: PT3H23M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "mini cheesecakes"
 - "chocolate"
-- "Kahlua"
-- "coffee liqueur"
-- "Oreo crust"
-- "baking tips"
+- "cake"
+- "cheese"
+- "dessert"
+- "party"
 keywords:
 - "Kahlua cheesecake"
 - "chocolate mini cheesecakes"

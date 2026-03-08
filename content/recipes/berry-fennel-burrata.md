@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "burrata"
 - "summer"
 - "vegetarian"
-- "Mediterranean"
+- "cheese"
+- "fennel"
 keywords:
 - "berry salad"
 - "fennel recipes"

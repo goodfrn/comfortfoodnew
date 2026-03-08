@@ -15,13 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "nuts"
 - "snack"
-- "Mediterranean"
-- "sumac"
-- "glaze"
-- "spices"
-- "toasted"
+- "vegetarian"
+- "honey"
+- "spicy"
+- "roasted"
 keywords:
 - "sumac"
 - "candied nuts"

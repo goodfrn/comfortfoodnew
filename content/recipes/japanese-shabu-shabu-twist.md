@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Japanese"
-- "hot pot"
+- "asian"
+- "japanese"
 - "pork"
-- "shabu-shabu"
-- "udon"
-- "ponzu"
-- "kombu"
-- "shiitake"
+- "soup"
+- "one pot"
 keywords:
 - "shabu-shabu"
 - "pork shoulder"

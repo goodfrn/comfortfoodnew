@@ -15,13 +15,11 @@ totalTime: PT38M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "vegan"
+- "asian"
+- "spicy"
+- "easy dinner"
 - "tofu"
-- "Asian fusion"
-- "plant-based"
-- "quick meals"
-- "rice noodles"
-- "crispy texture"
-- "midweek dinner"
 keywords:
 - "tofu rice bowl"
 - "crispy tofu"

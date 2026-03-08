@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "no cook"
-- "quick meal"
+- "vegetarian"
 - "healthy"
-- "American cuisine"
-- "berries"
-- "walnuts"
-- "goat cheese"
+- "summer"
+- "spinach"
 keywords:
 - "spinach salad"
 - "berry salad"

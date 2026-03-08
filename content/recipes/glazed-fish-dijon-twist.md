@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "fish"
 - "seafood"
-- "French-inspired"
-- "broiling"
-- "mustard glaze"
-- "quick meals"
+- "citrus"
+- "honey"
+- "easy dinner"
+- "french"
 keywords:
 - "maple syrup glaze"
 - "seared cod"

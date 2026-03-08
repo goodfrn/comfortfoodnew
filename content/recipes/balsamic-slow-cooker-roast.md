@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "slow cooker"
-- "beef roast"
-- "balsamic vinegar"
+- "beef"
 - "comfort food"
 - "easy dinner"
-- "slow cooking"
-- "hearty meals"
+- "one pot"
 keywords:
 - "slow cooker roast"
 - "balsamic vinegar beef"

@@ -18,8 +18,8 @@ tags:
 - "seafood"
 - "pasta"
 - "spicy"
-- "fusion"
-- "quick meals"
+- "easy dinner"
+- "lemon"
 keywords:
 - "crab pasta"
 - "bread crumbs"

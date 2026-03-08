@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
+- "salad"
 - "vegan"
-- "gluten-free"
-- "summer salad"
-- "easy prep"
-- "fresh herbs"
+- "gluten free"
+- "summer"
+- "corn"
 keywords:
 - "corn salad"
 - "black beans"

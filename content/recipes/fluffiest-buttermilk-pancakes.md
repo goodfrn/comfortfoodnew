@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "American cuisine"
-- "brunch"
-- "easy cooking"
-- "fluffy pancakes"
+- "pancakes"
+- "vegetarian"
+- "easy"
+- "comfort food"
 keywords:
 - "pancakes"
 - "buttermilk"

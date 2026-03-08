@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "French-inspired"
-- "flambé"
-- "cherries"
-- "quick dessert"
-- "fruit dessert"
-- "brandy"
+- "cherry"
+- "cinnamon"
+- "no bake"
+- "easy"
 keywords:
 - "sour cherries"
 - "flambé dessert"

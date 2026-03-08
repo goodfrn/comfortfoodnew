@@ -15,13 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "gluten free"
-- "leftover ham"
-- "gratin"
-- "coconut milk"
-- "asparagus"
+- "comfort food"
+- "cheese"
 - "easy dinner"
+- "ham"
+- "asparagus"
 keywords:
 - "asparagus gratin"
 - "smoked ham dish"

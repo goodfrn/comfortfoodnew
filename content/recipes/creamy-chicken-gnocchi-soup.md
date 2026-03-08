@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "Italian American"
-- "comfort food"
 - "chicken"
-- "gnocchi"
-- "creamy"
+- "comfort food"
+- "cheese"
+- "easy dinner"
 keywords:
 - "chicken gnocchi"
 - "creamy soup"

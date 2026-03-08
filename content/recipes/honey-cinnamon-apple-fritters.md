@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "southern cuisine"
-- "fried dessert"
-- "apple recipes"
-- "cinnamon treats"
-- "fritters"
+- "apple"
+- "fried"
+- "cinnamon"
+- "honey"
+- "comfort food"
 keywords:
 - "apple fritters"
 - "cream cheese dip"

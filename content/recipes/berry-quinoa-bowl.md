@@ -17,8 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "breakfast"
 - "healthy"
-- "gluten-free"
 - "vegetarian"
+- "blueberry"
+- "no bake"
 keywords:
 - "berry bowl"
 - "quinoa breakfast"

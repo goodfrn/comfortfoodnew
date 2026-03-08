@@ -16,14 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "tart"
-- "ginger"
-- "coconut sugar"
-- "black currants"
-- "mixed berries"
-- "French cuisine"
-- "baking"
+- "apple"
 - "dessert"
-- "fruit tart"
+- "vegetarian"
+- "homemade"
 keywords:
 - "ginger crust"
 - "black currant filling"

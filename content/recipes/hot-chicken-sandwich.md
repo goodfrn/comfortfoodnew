@@ -15,13 +15,11 @@ totalTime: PT20M
 recipeYield: "8 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "american cuisine"
-- "chicken sandwich"
 - "comfort food"
-- "quick meals"
-- "brown sauce"
-- "pea topping"
-- "allergy friendly"
+- "chicken"
+- "sandwich"
+- "easy dinner"
+- "main dish"
 keywords:
 - "chicken broth sandwich"
 - "sandwich with peas"

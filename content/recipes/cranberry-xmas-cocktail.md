@@ -15,15 +15,11 @@ totalTime: PT18M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "holiday drink"
 - "cocktail"
 - "cranberry"
 - "vodka"
-- "winter"
-- "christmas"
+- "holiday"
 - "cinnamon"
-- "syrup"
-- "frozen fruit"
 keywords:
 - "cranberry syrup"
 - "vodka cocktail"

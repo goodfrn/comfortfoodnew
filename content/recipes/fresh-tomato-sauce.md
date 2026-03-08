@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "Italian-inspired"
+- "italian"
 - "vegan"
-- "gluten-free"
-- "homemade sauce"
-- "slow simmer"
+- "homemade"
+- "pasta"
+- "easy dinner"
 keywords:
 - "tomato sauce"
 - "fresh tomatoes"

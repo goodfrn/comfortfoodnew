@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "mac and cheese"
 - "comfort food"
-- "fall recipes"
-- "vegetable puree sauce"
-- "American cuisine"
-- "cheese sauce"
-- "pasta dishes"
+- "cheese"
+- "vegetarian"
+- "pasta"
+- "fall"
 keywords:
 - "macaroni and cheese"
 - "roux cheese sauce"

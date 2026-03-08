@@ -17,9 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "beef"
 - "chili"
+- "comfort food"
 - "slow cooker"
-- "American Southwest"
-- "winter meals"
+- "spicy"
 keywords:
 - "short rib chili"
 - "slow simmer chili"

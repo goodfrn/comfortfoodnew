@@ -15,13 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
-- "meat sauce"
-- "oven baked"
-- "slow cooked"
-- "tomato sauce"
-- "ground meat"
-- "paprika"
+- "italian"
+- "beef"
+- "pork"
+- "veal"
+- "comfort food"
 keywords:
 - "baked spaghetti"
 - "meat sauce"

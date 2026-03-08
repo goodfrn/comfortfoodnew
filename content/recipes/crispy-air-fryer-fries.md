@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
 - "air fryer"
-- "fries"
 - "snack"
-- "smoked paprika"
-- "quick cook"
+- "potato"
+- "fried"
+- "easy"
 keywords:
 - "air fryer fries"
 - "crispy fries"

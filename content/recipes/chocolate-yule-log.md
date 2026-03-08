@@ -15,10 +15,11 @@ totalTime: PT39M
 recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "holiday"
 - "chocolate"
-- "roll cake"
+- "cake"
+- "holiday"
+- "dessert"
+- "mascarpone"
 keywords:
 - "chocolate sponge cake"
 - "orange ganache"

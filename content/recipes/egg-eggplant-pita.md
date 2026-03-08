@@ -15,14 +15,11 @@ totalTime: PT38M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Mediterranean"
 - "vegetarian"
 - "sandwich"
 - "eggplant"
-- "tahini"
-- "pita"
-- "quick lunch"
-- "dairy-free option"
+- "mediterranean"
+- "easy dinner"
 keywords:
 - "eggplant sandwich"
 - "fried eggplant"

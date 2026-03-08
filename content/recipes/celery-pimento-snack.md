@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "Southern American"
-- "no-cook"
 - "snack"
 - "appetizer"
-- "easy prep"
+- "cheese"
+- "vegetarian"
+- "no bake"
 keywords:
 - "pimento cheese spread"
 - "celery snack"

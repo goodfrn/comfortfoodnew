@@ -15,14 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American"
-- "comfort food"
-- "grill"
-- "cast iron"
+- "beef"
 - "sandwich"
-- "butter grilled"
 - "cheese"
-- "onions"
+- "comfort food"
+- "homemade"
 keywords:
 - "patty melts"
 - "cast iron skillet"

@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "fried fish"
-- "beer batter"
 - "seafood"
-- "American cuisine"
-- "crispy coating"
+- "fried"
+- "comfort food"
+- "appetizer"
+- "easy dinner"
 keywords:
 - "beer batter"
 - "fried fish"

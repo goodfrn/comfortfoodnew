@@ -15,12 +15,11 @@ totalTime: PT24H15M
 recipeYield: "1 pint"
 categories: ["Frozen Treats"]
 tags:
-- "ice cream"
-- "Ninja Creami"
 - "chocolate"
 - "dessert"
-- "cream cheese"
-- "frozen dessert"
+- "no bake"
+- "comfort food"
+- "homemade"
 keywords:
 - "Chocolate Creami"
 - "cream cheese ice cream"

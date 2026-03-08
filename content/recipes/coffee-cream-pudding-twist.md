@@ -16,10 +16,9 @@ recipeYield: 6 servings
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "pudding"
-- "coffee"
 - "chocolate"
-- "cinnamon"
+- "coconut"
+- "no bake"
 keywords:
 - "coffee pudding"
 - "creamy dessert"

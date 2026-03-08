@@ -16,8 +16,10 @@ recipeYield: 6 servings
 categories: ["Salads"]
 tags:
 - "salad"
+- "vegetarian"
+- "healthy"
 - "appetizer"
-- "Mediterranean"
+- "easy"
 keywords:
 - "celery salad"
 - "feta cheese"

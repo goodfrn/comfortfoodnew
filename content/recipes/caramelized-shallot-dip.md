@@ -16,12 +16,9 @@ recipeYield: "About 375 ml 1 ½ cups"
 categories: ["Dips and Spreads"]
 tags:
 - "snack"
-- "dip"
-- "French-inspired"
-- "savory"
-- "caramelization"
-- "yogurt"
-- "mayo"
+- "appetizer"
+- "vegetarian"
+- "easy"
 keywords:
 - "caramelized shallots"
 - "Greek yogurt dip"

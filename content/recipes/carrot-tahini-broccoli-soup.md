@@ -15,12 +15,11 @@ totalTime: PT1H5M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "Mediterranean"
+- "soup"
 - "vegetarian"
-- "vegan options"
-- "gluten-free"
-- "comfort food"
-- "fall recipes"
+- "healthy"
+- "roasted"
+- "gluten free"
 keywords:
 - "carrot soup"
 - "tahini sauce"

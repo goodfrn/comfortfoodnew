@@ -15,8 +15,10 @@ totalTime: PT25M
 recipeYield: 20 servings
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "easy recipe"
+- "snack"
+- "chocolate"
+- "vegetarian"
+- "gluten free"
 - "no bake"
 keywords:
 - "apricot snacks"

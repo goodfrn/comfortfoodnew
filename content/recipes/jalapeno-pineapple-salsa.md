@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "salsa"
-- "Mexican"
+- "appetizer"
+- "summer"
 - "spicy"
 - "pineapple"
-- "appetizer"
-- "condiment"
-- "summer"
-- "grill"
 keywords:
 - "jalapeno salsa"
 - "pineapple salsa"

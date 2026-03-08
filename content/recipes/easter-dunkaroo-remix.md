@@ -16,12 +16,10 @@ recipeYield: "12 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "no bake"
-- "Easter"
-- "dessert dip"
-- "kid friendly"
-- "party food"
-- "easy prep"
-- "spring recipe"
+- "easter"
+- "party"
+- "dessert"
+- "easy"
 keywords:
 - "white cake mix"
 - "whipped topping"

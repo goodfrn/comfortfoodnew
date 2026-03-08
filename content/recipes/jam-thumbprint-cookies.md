@@ -16,13 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "almond extract"
-- "jam desserts"
-- "American cuisine"
-- "glaze"
-- "chill dough"
-- "seedless jam"
+- "almond"
+- "jam"
+- "vegetarian"
+- "homemade"
 keywords:
 - "shortbread jam cookies"
 - "chilled cookie dough"

@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "fall recipes"
-- "spiced cake"
-- "cream cheese"
-- "desserts"
-- "cake crust"
-- "cardamom"
+- "cake"
+- "fall"
+- "spice"
+- "cinnamon"
+- "dessert"
 keywords:
 - "spice cake"
 - "cream cheese filling"

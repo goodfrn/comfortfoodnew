@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "gluten-free"
+- "gluten free"
+- "strawberry"
 - "dessert"
-- "fruit crisp"
-- "almond flour"
-- "oats"
-- "baking tips"
+- "crumble"
+- "almond"
 keywords:
 - "gluten-free"
 - "strawberry rhubarb"

@@ -15,11 +15,11 @@ totalTime: PT7M
 recipeYield: 500 ml
 categories: ["Dips and Spreads"]
 tags:
-- "fruit"
-- "dessert"
-- "dip"
-- "easy recipe"
-- "yogurt"
+- "citrus"
+- "appetizer"
+- "snack"
+- "no bake"
+- "vegetarian"
 keywords:
 - "creamy dip"
 - "lime dip"

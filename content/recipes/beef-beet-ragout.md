@@ -15,11 +15,11 @@ totalTime: PT3H40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French cuisine"
-- "slow cooking"
-- "pasta dishes"
-- "beef recipes"
+- "beef"
+- "pasta"
 - "comfort food"
+- "slow cooker"
+- "beet"
 keywords:
 - "beef ragout"
 - "beet pasta"

@@ -17,12 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "vegan"
-- "gluten-free"
-- "quick meal"
-- "fusion"
-- "no-cook"
 - "healthy"
-- "snack"
+- "no bake"
+- "citrus"
 keywords:
 - "veggie salad"
 - "dressing recipe"

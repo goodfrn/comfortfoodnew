@@ -15,12 +15,11 @@ totalTime: PT18M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
-- "snacks"
-- "game day"
-- "easy cooking"
 - "chicken"
-- "nachos"
+- "snack"
+- "spicy"
+- "appetizer"
+- "party"
 keywords:
 - "buffalo chicken"
 - "blue corn chips"

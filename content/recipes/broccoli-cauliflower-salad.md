@@ -17,11 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "bacon"
-- "ranch"
 - "broccoli"
 - "cauliflower"
-- "no-cook"
-- "American"
+- "side dish"
 keywords:
 - "broccoli salad"
 - "cauliflower salad"

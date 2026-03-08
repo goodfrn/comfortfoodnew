@@ -15,12 +15,11 @@ totalTime: PT7M
 recipeYield: "2 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Chicken"
-- "Salad"
-- "Avocado"
-- "No-Cook"
-- "Lunch"
-- "American Cuisine"
+- "chicken"
+- "salad"
+- "avocado"
+- "sandwich"
+- "easy"
 keywords:
 - "avocado salad"
 - "pesto chicken"

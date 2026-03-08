@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "16 servings"
 categories: ["Breads"]
 tags:
-- "baking"
-- "quick bread"
+- "bread"
+- "breakfast"
 - "cherry"
 - "almond"
-- "moist bread"
-- "glaze"
-- "fruit bread"
+- "comfort food"
 keywords:
 - "cherry bread"
 - "almond extract"

@@ -15,13 +15,11 @@ totalTime: PT31M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "Italian"
+- "italian"
 - "sausage"
 - "pork"
-- "pan-fry"
+- "spicy"
 - "breakfast"
-- "homemade"
-- "spiced"
 keywords:
 - "Italian sausage"
 - "sausage patties"

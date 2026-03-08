@@ -15,10 +15,10 @@ totalTime: PT28M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Instant Pot"
-- "chicken recipes"
-- "Mexican-inspired"
-- "pressure cooking"
+- "chicken"
+- "instant pot"
+- "mexican"
+- "spicy"
 - "easy dinner"
 keywords:
 - "Instant Pot chicken"

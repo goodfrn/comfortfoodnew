@@ -15,15 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "vegan"
 - "vegetarian"
-- "tofu"
 - "sandwich"
-- "beets"
-- "quick meal"
-- "roasted vegetables"
-- "dill relish"
-- "mustard glaze"
+- "tofu"
+- "roasted"
+- "beet"
 keywords:
 - "tofu sandwich"
 - "mustard mayo sauce"

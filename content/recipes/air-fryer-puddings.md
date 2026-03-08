@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
 - "air fryer"
-- "apple dessert"
-- "brown sugar"
-- "cake batter"
-- "Canadian cuisine"
-- "easy dessert"
-- "caramelized apples"
+- "apple"
+- "cake"
+- "caramel"
+- "dessert"
 keywords:
 - "air fryer dessert"
 - "brown sugar syrup"

@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
 - "beef"
-- "goulash"
-- "chipotle"
 - "pasta"
-- "one-pot"
-- "weeknight"
+- "comfort food"
+- "easy dinner"
+- "spicy"
 keywords:
 - "beef goulash"
 - "chipotle powder"

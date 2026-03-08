@@ -15,13 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "yeast bread"
+- "bread"
 - "chocolate"
 - "espresso"
-- "baking tips"
-- "folded dough"
 - "breakfast"
-- "snack"
+- "brioche"
 keywords:
 - "babka"
 - "chocolate bread"

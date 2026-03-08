@@ -15,11 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "Southern American"
-- "fried vegetables"
-- "easy snack"
-- "cornmeal recipes"
-- "egg white coating"
+- "fried"
+- "southern"
+- "appetizer"
+- "vegetarian"
+- "easy"
 keywords:
 - "green tomatoes frying"
 - "cornmeal coating"

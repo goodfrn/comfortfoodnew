@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking tips"
-- "almond recipes"
-- "bundt cake"
-- "cake glaze"
+- "cake"
+- "almond"
+- "lemon"
+- "citrus"
 - "dessert"
-- "American cuisine"
 keywords:
 - "almond pound cake"
 - "lemon almond cake"

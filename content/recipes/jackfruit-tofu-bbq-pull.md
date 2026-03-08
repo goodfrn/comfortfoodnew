@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
 - "vegan"
-- "plant-based"
-- "jackfruit"
-- "BBQ"
 - "tofu"
-- "easy dinners"
+- "spicy"
+- "sandwich"
+- "easy dinner"
 keywords:
 - "jackfruit"
 - "tofu"

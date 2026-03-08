@@ -16,9 +16,10 @@ recipeYield: 3 servings
 categories: ["Snacks"]
 tags:
 - "appetizer"
-- "Mediterranean"
-- "easy recipes"
-- "snack"
+- "pork"
+- "mediterranean"
+- "easy"
+- "side dish"
 keywords:
 - "pancetta dish"
 - "easy savory snacks"

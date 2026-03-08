@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "crumbles"
-- "dairy free"
-- "vegetarian"
-- "healthy"
+- "corn"
+- "crumble"
+- "coconut"
+- "lemon"
 keywords:
 - "corn crumble"
 - "healthy dessert"

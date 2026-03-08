@@ -15,13 +15,10 @@ totalTime: PT49M
 recipeYield: "12 servings"
 categories: ["Side Dishes"]
 tags:
-- "American Southern"
-- "casserole"
-- "corn dishes"
-- "baking"
 - "comfort food"
-- "honey substitute"
-- "spicy cornbread"
+- "corn"
+- "cornbread"
+- "side dish"
 keywords:
 - "corn bake"
 - "jalapeño cornbread"

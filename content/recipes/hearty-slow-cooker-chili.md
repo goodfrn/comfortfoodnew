@@ -15,12 +15,11 @@ totalTime: PT7H50M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooker turkey chili"
-- "crock pot chili turkey"
-- "ground turkey crock pot"
-- "easy slow cooker turkey chili"
-- "chili recipe slow cooker turkey"
+- "slow cooker"
+- "turkey"
+- "chili"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "slow cooker turkey chili"
 - "chili recipe slow cooker turkey"

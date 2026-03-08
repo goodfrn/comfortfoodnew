@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
-- "asian fusion"
 - "chicken"
-- "marinade"
-- "skewers"
-- "summer recipes"
+- "grilling"
+- "asian"
+- "summer"
+- "main dish"
 keywords:
 - "chicken skewers"
 - "hoisin glaze"

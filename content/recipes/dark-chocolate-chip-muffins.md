@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "chocolate"
 - "muffins"
-- "quick bake"
-- " American recipes"
+- "breakfast"
+- "comfort food"
+- "homemade"
 keywords:
 - "dark cocoa powder"
 - "folding batter"

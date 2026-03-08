@@ -15,13 +15,11 @@ totalTime: PT19M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "skillet"
-- "one pan meal"
 - "sausage"
 - "broccoli"
-- "cheddar"
-- "quick dinner"
-- "American cuisine"
+- "cheese"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "pork sausage skillet"
 - "cheddar cheese broccoli"

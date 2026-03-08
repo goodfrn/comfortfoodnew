@@ -15,13 +15,10 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Beverages"]
 tags:
-- "beverage"
-- "coffee"
 - "chocolate"
-- "Irish cream"
-- "hot drink"
-- "French-inspired"
-- "dessert drink"
+- "drink"
+- "vegetarian"
+- "espresso"
 keywords:
 - "dark chocolate"
 - "espresso"

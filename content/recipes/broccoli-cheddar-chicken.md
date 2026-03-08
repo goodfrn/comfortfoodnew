@@ -15,12 +15,11 @@ totalTime: PT90M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American Comfort"
-- "Casserole"
-- "Chicken"
-- "Broccoli"
-- "Cheese"
-- "Baked Dish"
+- "comfort food"
+- "chicken"
+- "cheese"
+- "broccoli"
+- "easy dinner"
 keywords:
 - "chicken casserole"
 - "broccoli cheddar"

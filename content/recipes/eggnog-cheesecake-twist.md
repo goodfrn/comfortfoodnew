@@ -15,13 +15,11 @@ totalTime: PT1H45M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "cheesecake"
-- "eggnog"
-- "speculoos"
-- "water bath"
-- "baking tips"
 - "dessert"
-- "holiday dessert"
+- "holiday"
+- "cake"
+- "caramel"
+- "eggs"
 keywords:
 - "eggnog cheesecake"
 - "orange liqueur dessert"

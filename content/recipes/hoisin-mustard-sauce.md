@@ -15,11 +15,11 @@ totalTime: PT7M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "fusion"
-- "dipping sauce"
-- "no-cook"
-- "Asian-inspired"
-- "emulsified sauce"
+- "asian"
+- "condiment"
+- "no bake"
+- "vegetarian"
+- "easy"
 keywords:
 - "hoisin sauce"
 - "grainy mustard"

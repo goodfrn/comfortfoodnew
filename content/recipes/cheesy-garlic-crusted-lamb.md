@@ -15,11 +15,11 @@ totalTime: PT18M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
 - "lamb"
-- "quick meals"
-- "pan frying"
-- "crusted meat"
+- "cheese"
+- "mediterranean"
+- "lemon"
+- "easy dinner"
 keywords:
 - "lamb loin chops"
 - "garlic crust"

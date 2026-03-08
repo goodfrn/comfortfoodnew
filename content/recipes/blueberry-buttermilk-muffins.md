@@ -15,13 +15,11 @@ totalTime: PT29M
 recipeYield: "13 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "muffins"
-- "blueberry"
-- "American cuisine"
-- "quick breads"
 - "breakfast"
-- "dessert"
+- "blueberry"
+- "muffins"
+- "cinnamon"
+- "homemade"
 keywords:
 - "blueberry muffins"
 - "buttermilk muffins"

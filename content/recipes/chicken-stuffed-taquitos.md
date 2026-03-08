@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-inspired"
-- "quick meals"
-- "snacks"
-- "chicken recipes"
-- "fried foods"
+- "chicken"
+- "snack"
+- "appetizer"
+- "mexican"
+- "fried"
 keywords:
 - "taquitos"
 - "shredded chicken"

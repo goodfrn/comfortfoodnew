@@ -16,13 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "chamomile"
-- "elderflower"
-- "green apple"
+- "apple"
+- "drink"
 - "vegan"
-- "herbal infusion"
-- "ginger"
-- "beverage"
+- "elderflower"
 keywords:
 - "chamomile cocktail"
 - "green apple juice"

@@ -17,9 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "cherry"
-- "chocolate chip"
-- "baking tips"
-- "American dessert"
+- "chocolate"
+- "dessert"
+- "comfort food"
 keywords:
 - "cherry cookies"
 - "chocolate chip cookies"

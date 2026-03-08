@@ -15,12 +15,11 @@ totalTime: PT9H10M
 recipeYield: "10-12 servings"
 categories: ["Main Dishes"]
 tags:
-- "BBQ"
-- "French cuisine"
-- "slow cooking"
-- "porc méchoui"
-- "smoked pork"
+- "pork"
+- "grilling"
+- "slow cooker"
 - "dry rub"
+- "spicy"
 keywords:
 - "porc méchoui"
 - "dry rub pork"

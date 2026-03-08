@@ -17,9 +17,9 @@ categories: ["Vegetarian"]
 tags:
 - "vegetarian"
 - "appetizer"
-- "recipe remix"
-- "baked croquettes"
-- "smoky flavor"
+- "cheese"
+- "ricotta"
+- "walnut"
 keywords:
 - "cheese croquettes"
 - "vegetarian dish"

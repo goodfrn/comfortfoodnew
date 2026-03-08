@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "36 cookies"
 categories: ["Desserts"]
 tags:
-- "American"
 - "cookies"
-- "coffee flavor"
 - "chocolate"
-- "baking tips"
+- "espresso"
+- "homemade"
+- "snack"
 keywords:
 - "coffee cookies"
 - "chocolate chunks"

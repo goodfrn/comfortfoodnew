@@ -16,11 +16,10 @@ recipeYield: "20 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "chocolate chip"
+- "chocolate"
 - "oatmeal"
-- "chewy texture"
-- "American desserts"
+- "cinnamon"
+- "comfort food"
 keywords:
 - "oat cookies"
 - "chocolate chip cookies"

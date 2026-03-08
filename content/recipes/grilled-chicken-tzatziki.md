@@ -15,13 +15,11 @@ totalTime: PT31M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "grilled chicken"
-- "tzatziki"
-- "family meal"
-- "quick lunch"
-- "healthy"
-- "yogurt sauce"
+- "chicken"
+- "grilling"
+- "mediterranean"
+- "sandwich"
+- "easy dinner"
 keywords:
 - "grilled chicken"
 - "tzatziki sauce"

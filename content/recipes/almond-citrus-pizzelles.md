@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "2 dozen"
 categories: ["Desserts"]
 tags:
-- "Italian baking"
-- "nutty cookies"
-- "citrus desserts"
-- "gluten alternative"
-- "pizzelle technique"
+- "cookies"
+- "italian"
+- "almond"
+- "citrus"
+- "gluten free"
 keywords:
 - "pizzelles"
 - "hazelnut flour"

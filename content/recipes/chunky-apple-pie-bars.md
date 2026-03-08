@@ -15,12 +15,11 @@ totalTime: PT2H10M
 recipeYield: "12 large bars"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "apple recipe"
-- "fall baking"
-- "streusel"
+- "apple"
+- "fall"
+- "cinnamon"
 - "shortbread"
-- "baked bars"
+- "comfort food"
 keywords:
 - "apple bars"
 - "streusel topping"

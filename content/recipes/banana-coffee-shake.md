@@ -15,11 +15,11 @@ totalTime: PT7M
 recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
-- "coffee drinks"
-- "smoothies"
-- "fusion recipes"
-- "banana shakes"
-- "cold drinks"
+- "drink"
+- "banana"
+- "smoothie"
+- "chocolate"
+- "no bake"
 keywords:
 - "banana coffee shake"
 - "cold brewed coffee smoothie"

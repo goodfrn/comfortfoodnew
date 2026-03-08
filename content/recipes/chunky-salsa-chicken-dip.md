@@ -15,11 +15,11 @@ totalTime: PT9M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Mexican-American"
-- "quick snacks"
-- "party dip"
-- "easy recipes"
-- "spicy dips"
+- "chicken"
+- "appetizer"
+- "party"
+- "spicy"
+- "easy"
 keywords:
 - "chicken dip"
 - "chunky salsa"

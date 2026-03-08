@@ -16,13 +16,10 @@ recipeYield: "25 servings"
 categories: ["Desserts"]
 tags:
 - "no bake"
-- "snacks"
-- "nuts"
+- "snack"
 - "coconut"
-- "quick treats"
-- "easy dessert"
-- "American"
-- "holiday baking"
+- "pecan"
+- "candy"
 keywords:
 - "coconut pecan balls"
 - "no bake dessert"

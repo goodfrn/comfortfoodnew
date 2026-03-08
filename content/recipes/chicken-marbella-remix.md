@@ -15,13 +15,11 @@ totalTime: PT8H55M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "roast chicken"
-- "marinade"
-- "poultry"
-- "savory"
-- "prunes"
-- "olives"
+- "chicken"
+- "mediterranean"
+- "roasted"
+- "easy dinner"
+- "main dish"
 keywords:
 - "chicken marbella"
 - "roasted chicken thighs"

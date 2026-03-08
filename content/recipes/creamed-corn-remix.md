@@ -15,13 +15,11 @@ totalTime: PT22M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "Side Dish"
-- "Corn"
-- "Sauté"
-- "Roux"
-- "Comfort Food"
-- "Vegetarian"
+- "comfort food"
+- "vegetarian"
+- "corn"
+- "side dish"
+- "easy"
 keywords:
 - "creamed corn"
 - "chickpea flour roux"

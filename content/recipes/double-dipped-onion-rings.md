@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "5 servings"
 categories: ["Appetizers"]
 tags:
-- "fried snacks"
-- "savory"
-- "finger food"
-- "american cuisine"
-- "onion recipes"
+- "fried"
+- "snack"
+- "appetizer"
+- "comfort food"
+- "vegetarian"
 keywords:
 - "onion rings"
 - "panko breading"

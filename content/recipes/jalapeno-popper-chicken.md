@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "Chicken"
-- "Stuffed Chicken"
-- "Spicy"
-- "Baked"
-- "Comfort Food"
+- "chicken"
+- "cheese"
+- "spicy"
+- "bacon"
+- "comfort food"
 keywords:
 - "jalapeno popper chicken"
 - "stuffed chicken breasts"

@@ -15,11 +15,11 @@ totalTime: PT39M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "dessert bars"
-- "candy cookies"
-- "baking tips"
-- "chewy cookies"
+- "cookies"
+- "chocolate"
+- "caramel"
+- "cinnamon"
+- "candy"
 keywords:
 - "cookie bars"
 - "M&Ms recipe"

@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "sweet potatoes"
-- "southern cooking"
-- "pecan recipes"
-- "holiday sides"
-- "maple syrup"
-- "allspice"
-- "baking tips"
+- "holiday"
+- "side dish"
+- "comfort food"
+- "pecan"
+- "roasted"
 keywords:
 - "sweet potatoes"
 - "pecan topping"

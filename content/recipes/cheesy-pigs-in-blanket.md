@@ -15,13 +15,11 @@ totalTime: PT29M
 recipeYield: "20 servings"
 categories: ["Appetizers"]
 tags:
-- "snacks"
-- "appetizers"
-- "American cuisine"
-- "baking"
-- "party food"
+- "appetizer"
 - "cheese"
-- "easy recipes"
+- "pork"
+- "party"
+- "easy"
 keywords:
 - "pigs in a blanket"
 - "cheddar cheese rolls"

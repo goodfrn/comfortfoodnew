@@ -17,11 +17,9 @@ categories: ["Desserts"]
 tags:
 - "banana"
 - "blondies"
-- "cream cheese frosting"
-- "baking tips"
-- "brown sugar"
-- "dessert bars"
-- "American dessert"
+- "comfort food"
+- "dessert"
+- "homemade"
 keywords:
 - "banana blondies"
 - "brown sugar bars"

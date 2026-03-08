@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "apple"
-- "baking"
+- "cinnamon"
+- "crumble"
+- "fall"
 - "dessert"
-- "comfort food"
-- "fall recipes"
 keywords:
 - "apple dessert"
 - "crumble recipe"

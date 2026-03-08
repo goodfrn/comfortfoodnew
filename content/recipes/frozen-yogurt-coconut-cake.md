@@ -15,9 +15,11 @@ totalTime: PT56M
 recipeYield: 10 to 12 servings
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "frozen"
-- "healthy"
+- "cake"
+- "coconut"
+- "strawberry"
+- "pistachio"
+- "no bake"
 keywords:
 - "frozen dessert"
 - "coconut crumble"

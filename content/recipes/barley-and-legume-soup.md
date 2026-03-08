@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
 - "vegetarian"
-- "hearty soup"
-- "lentils"
-- "barley"
-- "legumes"
-- "easy soup"
-- "herbs"
-- "gluten free option"
+- "soup"
+- "comfort food"
+- "healthy"
+- "easy dinner"
 keywords:
 - "barley soup"
 - "legume soup"

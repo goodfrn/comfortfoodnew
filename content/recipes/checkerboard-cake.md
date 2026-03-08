@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "layer cake"
-- "caramel"
-- "buttercream"
+- "cake"
 - "chocolate"
+- "caramel"
 - "vanilla"
-- "almond milk substitute"
+- "dessert"
 keywords:
 - "checkerboard cake"
 - "caramel filling"

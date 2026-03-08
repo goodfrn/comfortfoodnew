@@ -17,12 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "seafood"
 - "pasta"
-- "Cajun"
-- "Italian fusion"
-- "quick meals"
-- "midweek dinner"
-- "mascarpone"
 - "spicy"
+- "cajun"
+- "easy dinner"
 keywords:
 - "shrimp linguine"
 - "Cajun pasta"

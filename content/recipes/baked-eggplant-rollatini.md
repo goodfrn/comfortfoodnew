@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "Vegetarian"
-- "Baked Dish"
-- "Eggplant Recipe"
-- "Comfort Food"
+- "vegetarian"
+- "cheese"
+- "eggplant"
+- "comfort food"
+- "italian"
 keywords:
 - "eggplant rollatini"
 - "baked rollatini"

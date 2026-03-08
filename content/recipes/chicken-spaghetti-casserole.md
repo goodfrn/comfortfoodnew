@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Southern cuisine"
-- "one-pot meals"
+- "chicken"
+- "pasta"
+- "cheese"
 - "comfort food"
-- "quick dinners"
-- "easy dinner recipes"
+- "easy dinner"
 keywords:
 - "chicken spaghetti"
 - "cheesy casserole"

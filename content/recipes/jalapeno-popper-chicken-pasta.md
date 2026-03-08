@@ -15,14 +15,11 @@ totalTime: PT50M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American Comfort"
-- "Pasta Bake"
-- "Spicy"
-- "Chicken"
-- "Bacon"
-- "Cheese"
-- "Jalapeno"
-- "Weeknight Meal"
+- "chicken"
+- "pasta"
+- "cheese"
+- "spicy"
+- "bacon"
 keywords:
 - "jalapeno popper pasta"
 - "chicken pasta bake"

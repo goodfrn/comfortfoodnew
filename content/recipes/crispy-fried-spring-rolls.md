@@ -15,11 +15,11 @@ totalTime: PT1H
 recipeYield: "24 rolls"
 categories: ["Appetizers"]
 tags:
-- "Asian fusion"
-- "finger food"
-- "party appetizer"
-- "pork recipes"
-- "fried snacks"
+- "asian"
+- "appetizer"
+- "pork"
+- "fried"
+- "party"
 keywords:
 - "spring roll wrappers"
 - "fried spring rolls"

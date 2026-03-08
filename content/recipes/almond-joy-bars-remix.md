@@ -16,13 +16,10 @@ recipeYield: "30 servings"
 categories: ["Desserts"]
 tags:
 - "no bake"
-- "dessert"
+- "chocolate"
 - "coconut"
 - "almond"
-- "chocolate"
-- "snack"
-- "American"
-- "easy dessert"
+- "candy"
 keywords:
 - "Almond Joy bars"
 - "no bake bars"

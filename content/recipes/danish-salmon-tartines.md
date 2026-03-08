@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Danish cuisine"
-- "salmon recipes"
-- "open-face sandwiches"
-- "light lunch"
-- "seafood appetizers"
+- "salmon"
+- "seafood"
+- "bread"
+- "sandwich"
+- "appetizer"
 keywords:
 - "salmon tartines"
 - "rye bread tartine"

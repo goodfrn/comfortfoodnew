@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "French-inspired"
 - "vegetarian"
-- "gluten-free"
-- "dairy alternative"
-- "sautéed leek"
+- "appetizer"
+- "cheese"
+- "side dish"
+- "gluten free"
 keywords:
 - "celery purée"
 - "steamed vegetables"

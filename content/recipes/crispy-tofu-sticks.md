@@ -18,9 +18,8 @@ tags:
 - "vegetarian"
 - "snack"
 - "appetizer"
-- "dairy-free"
-- "nut-free"
-- "pan-fried tofu"
+- "fried"
+- "tofu"
 keywords:
 - "tofu sticks"
 - "honey mustard mayo"

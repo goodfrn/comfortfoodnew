@@ -16,12 +16,10 @@ recipeYield: "2 servings"
 categories: ["Seafood"]
 tags:
 - "seafood"
-- "French-inspired"
-- "simple"
-- "dinner"
-- "quick"
-- "comfort food"
-- "wine"
+- "bacon"
+- "pork"
+- "one pot"
+- "easy dinner"
 keywords:
 - "clams"
 - "white wine"

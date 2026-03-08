@@ -15,13 +15,11 @@ totalTime: PT22M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "skillet meals"
+- "beef"
+- "cheese"
+- "comfort food"
+- "easy dinner"
 - "one pot"
-- "ground beef"
-- "macaroni"
-- "cheesy"
-- "weeknight meal"
 keywords:
 - "ground beef skillet"
 - "cheesy macaroni"

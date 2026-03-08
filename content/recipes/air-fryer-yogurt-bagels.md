@@ -16,11 +16,10 @@ recipeYield: "4 bagels"
 categories: ["Breakfast"]
 tags:
 - "air fryer"
-- "bagels"
-- "quick breads"
-- "yogurt baking"
-- "seed toppings"
-- "no yeast"
+- "bread"
+- "breakfast"
+- "vegetarian"
+- "easy"
 keywords:
 - "air fryer bagels"
 - "yogurt dough"

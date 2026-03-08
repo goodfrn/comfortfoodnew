@@ -15,12 +15,11 @@ totalTime: PT46M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Indian"
-- "gluten-free"
-- "dairy-free"
-- "lentils"
 - "soup"
+- "indian"
 - "vegetarian"
+- "lentils"
+- "healthy"
 keywords:
 - "red lentil soup"
 - "Indian soup"

@@ -15,13 +15,11 @@ totalTime: PT6M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Mediterranean"
-- "olive oil"
-- "garlic"
-- "herbs"
-- "spicy"
 - "appetizer"
-- "dip"
+- "spicy"
+- "mediterranean"
+- "vegetarian"
+- "party"
 keywords:
 - "herbed dip"
 - "spicy olive dip"

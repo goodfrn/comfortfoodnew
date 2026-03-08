@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "slow cooker"
-- "Mexican"
 - "chicken"
+- "mexican"
 - "tacos"
-- "easy meals"
-- "dinner"
-- "comfort food"
+- "easy dinner"
 keywords:
 - "chicken tacos"
 - "slow cooker chicken"

@@ -15,12 +15,11 @@ totalTime: PT32M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "potatoes"
-- "side dish"
 - "comfort food"
-- "buttery mash"
-- "simple cooking"
+- "potato"
+- "side dish"
+- "vegetarian"
+- "easy"
 keywords:
 - "Yukon Gold potatoes"
 - "potato mash"

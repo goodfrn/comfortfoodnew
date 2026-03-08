@@ -15,11 +15,11 @@ totalTime: PT1H7M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "savory snacks"
-- "fried dough"
-- "cheese recipes"
-- "French-inspired"
-- "snack recipes"
+- "snack"
+- "fried"
+- "cheese"
+- "vegetarian"
+- "appetizer"
 keywords:
 - "cheesy churros"
 - "crispy fried snacks"

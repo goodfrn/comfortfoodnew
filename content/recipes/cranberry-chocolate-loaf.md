@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "1 loaf about 700 g"
 categories: ["Breads"]
 tags:
-- "baking"
 - "bread"
-- "overnight"
-- "artisan"
-- "cranberries"
 - "chocolate"
+- "cranberry"
 - "homemade"
+- "comfort food"
 keywords:
 - "cranberry bread"
 - "chocolate loaf"

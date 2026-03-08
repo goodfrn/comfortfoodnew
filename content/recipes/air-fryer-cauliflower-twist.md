@@ -18,9 +18,8 @@ tags:
 - "air fryer"
 - "vegetarian"
 - "snack"
-- "side dish"
-- "quick recipe"
-- "fusion"
+- "cauliflower"
+- "mediterranean"
 keywords:
 - "cauliflower air fryer"
 - "smoked paprika cauliflower"

@@ -16,10 +16,10 @@ recipeYield: "7 large cookies"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "funfetti"
-- "baking"
-- "sprinkles"
-- "soft cookies"
+- "comfort food"
+- "party"
+- "homemade"
+- "dessert"
 keywords:
 - "funfetti cookies"
 - "sprinkle cookie recipe"

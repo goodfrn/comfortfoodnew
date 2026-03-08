@@ -15,9 +15,10 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "gluten-free"
-- "dairy-free"
 - "vegan"
+- "gluten free"
+- "citrus"
+- "condiment"
 keywords:
 - "curried dressing"
 - "healthy vinaigrette"

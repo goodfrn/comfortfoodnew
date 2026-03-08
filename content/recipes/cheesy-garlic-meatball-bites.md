@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "Italian-American"
-- "snack"
-- "quick bake"
-- "party food"
+- "meatball"
+- "cheese"
+- "party"
+- "bread"
 keywords:
 - "meatball bites"
 - "garlic seasoning"

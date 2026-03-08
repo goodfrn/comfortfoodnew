@@ -17,13 +17,9 @@ categories: ["Seafood"]
 tags:
 - "seafood"
 - "crab"
-- "butter sauce"
-- "lime"
-- "honey"
-- "shellfish"
-- "easy seafood"
 - "gluten free"
-- "lactose free"
+- "honey"
+- "easy dinner"
 keywords:
 - "snow crab"
 - "butter broth"

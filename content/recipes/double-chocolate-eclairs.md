@@ -15,10 +15,10 @@ totalTime: PT1H25M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French"
-- "desserts"
 - "chocolate"
-- "baking"
+- "dessert"
+- "french"
+- "party"
 keywords:
 - "éclairs recipe"
 - "pastry cream"

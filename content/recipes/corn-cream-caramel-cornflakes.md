@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "gelatin custard"
 - "caramel"
 - "corn"
-- "French-Canadian"
-- "custard"
-- "caramelized flakes"
+- "vegetarian"
+- "no bake"
 keywords:
 - "corn custard"
 - "gelatin dessert"

@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "French desserts"
-- "macaron recipes"
-- "nut-based macarons"
-- "coffee desserts"
-- "dulce de leche recipes"
+- "caramel"
+- "hazelnut"
+- "almond"
+- "homemade"
+- "dessert"
 keywords:
 - "macarons"
 - "coffee macarons"

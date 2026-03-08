@@ -15,12 +15,11 @@ totalTime: PT38M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "French cuisine"
 - "fondue"
-- "mushrooms"
 - "cheese"
-- "rustic bread"
-- "wine cooking"
+- "mushroom"
+- "appetizer"
+- "party"
 keywords:
 - "gruyère fondue"
 - "morels"

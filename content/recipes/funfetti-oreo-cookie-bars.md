@@ -15,12 +15,11 @@ totalTime: PT1H35M
 recipeYield: "20 bars"
 categories: ["Desserts"]
 tags:
-- "American"
 - "cookies"
-- "baking"
-- "snacks"
-- "rainbow sprinkles"
-- "oreo cookies"
+- "chocolate"
+- "snack"
+- "dessert"
+- "comfort food"
 keywords:
 - "oreo bars"
 - "cookie bars"

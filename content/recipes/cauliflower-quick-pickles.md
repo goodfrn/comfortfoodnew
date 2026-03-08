@@ -15,12 +15,11 @@ totalTime: PT25M
 recipeYield: "1 jar 500 ml"
 categories: ["Sauces and Condiments"]
 tags:
-- "quick pickles"
 - "cauliflower"
-- "pickling"
-- "fusion"
-- "easy condiments"
-- "homemade"
+- "condiment"
+- "vegetarian"
+- "easy"
+- "spicy"
 keywords:
 - "pickled cauliflower"
 - "mustard seed pickles"

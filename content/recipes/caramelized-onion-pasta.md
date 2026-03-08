@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "French inspired"
 - "comfort food"
-- "slow cooking"
-- "pasta dish"
-- "caramelized onions"
-- "creamy sauce"
+- "pasta"
+- "cheese"
+- "slow cooker"
+- "easy dinner"
 keywords:
 - "caramelized onions"
 - "cream pasta sauce"

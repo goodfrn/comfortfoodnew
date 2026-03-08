@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: "4 portions"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "fall vegetables"
-- "butter sauce"
-- "rolling technique"
-- "searing"
-- "emulsification"
+- "chicken"
+- "fall"
+- "potato"
+- "roasted"
+- "main dish"
 keywords:
 - "chicken roulades"
 - "julienne vegetables"

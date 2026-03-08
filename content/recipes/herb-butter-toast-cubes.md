@@ -15,9 +15,11 @@ totalTime: PT22M
 recipeYield: 6 servings
 categories: ["Side Dishes"]
 tags:
-- "appetizers"
-- "snacks"
+- "appetizer"
 - "bread"
+- "vegetarian"
+- "easy"
+- "citrus"
 keywords:
 - "bread recipe"
 - "easy appetizers"

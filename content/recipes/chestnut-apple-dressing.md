@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "American cuisine"
-- "holiday cooking"
-- "oven-baked"
-- "stuffing"
-- "vegetarian option"
 - "comfort food"
+- "holiday"
+- "apple"
+- "side dish"
+- "fall"
 keywords:
 - "chestnut dressing"
 - "apple stuffing"

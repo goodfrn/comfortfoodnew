@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "fusion dessert"
-- "plant-based"
-- "jasmine tea"
-- "tapioca pudding"
-- "golden kiwi"
-- "coconut cream"
+- "vegetarian"
+- "coconut"
+- "honey"
+- "no bake"
+- "dessert"
 keywords:
 - "tapioca pearls"
 - "jasmine tea"

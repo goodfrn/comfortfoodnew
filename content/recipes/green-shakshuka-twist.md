@@ -15,12 +15,11 @@ totalTime: PT1H3M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "Middle Eastern"
 - "vegetarian"
-- "brunch"
-- "poached eggs"
-- "salsa verde"
-- "easy dinner"
+- "breakfast"
+- "eggs"
+- "salsa"
+- "cheese"
 keywords:
 - "green shakshuka"
 - "tomatillo salsa"

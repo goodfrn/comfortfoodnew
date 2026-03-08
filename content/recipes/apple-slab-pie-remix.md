@@ -15,12 +15,11 @@ totalTime: PT60M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "apple pie"
-- "baking"
-- "chai spice"
-- "oat topping"
-- "sheet pan"
+- "apple"
+- "pie"
+- "fall"
 - "dessert"
+- "cinnamon"
 keywords:
 - "apple pie"
 - "chai spice"

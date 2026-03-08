@@ -15,12 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "American"
-- "cast iron"
+- "cake"
 - "caramel"
-- "pecans"
-- "maple syrup"
+- "pecan"
+- "comfort food"
+- "dessert"
 keywords:
 - "pecan cake"
 - "caramel upside down"

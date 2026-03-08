@@ -15,13 +15,11 @@ totalTime: PT33M
 recipeYield: "12 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "American"
-- "Salad Dressing"
-- "Buttermilk"
-- "Parmesan"
-- "Peppercorn"
-- "Smoky Flavor"
-- "Dips"
+- "cheese"
+- "salad"
+- "vegetarian"
+- "condiment"
+- "spice"
 keywords:
 - "Parmesan dressing"
 - "peppercorn dressing"

@@ -19,10 +19,7 @@ tags:
 - "pancakes"
 - "chocolate"
 - "hazelnut"
-- "nutella"
-- "easy cooking"
-- "sensory cooking"
-- "american cuisine"
+- "comfort food"
 keywords:
 - "chocolate pancakes"
 - "nutella recipe"

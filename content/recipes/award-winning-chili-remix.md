@@ -17,11 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "chili"
 - "beef"
-- "chorizo"
-- "slow cooked"
 - "spicy"
-- "Mexican american"
-- "cocoa powder"
+- "slow cooker"
+- "mexican"
 keywords:
 - "chili recipe"
 - "ground beef chili"

@@ -15,12 +15,10 @@ totalTime: PT30M
 recipeYield: "6 servings"
 categories: ["Frozen Treats"]
 tags:
-- "Italian-American"
-- "gelato"
 - "vanilla"
-- "brown sugar"
-- "homemade ice cream"
 - "dessert"
+- "homemade"
+- "no bake"
 keywords:
 - "gelato recipe"
 - "vanilla bean"

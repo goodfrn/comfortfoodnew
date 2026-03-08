@@ -15,11 +15,11 @@ totalTime: PT2H
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
+- "brownies"
 - "chocolate"
-- "baking"
-- "party treat"
-- "french-inspired"
+- "cherry"
+- "hazelnut"
+- "dessert"
 keywords:
 - "brownie recipe"
 - "chocolate custard"

@@ -15,11 +15,11 @@ totalTime: PT63M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American comfort"
-- "casserole"
-- "ground beef"
-- "baking"
+- "comfort food"
+- "beef"
+- "cheese"
 - "easy dinner"
+- "main dish"
 keywords:
 - "beef bake"
 - "cheddar cheese"

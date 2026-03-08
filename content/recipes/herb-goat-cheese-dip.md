@@ -15,12 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "dip"
 - "appetizer"
-- "French-inspired"
+- "cheese"
 - "vegetarian"
-- "make ahead"
-- "crudités"
+- "party"
+- "healthy"
 keywords:
 - "goat cheese"
 - "dill tarragon dip"

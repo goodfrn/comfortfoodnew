@@ -15,14 +15,11 @@ totalTime: PT65M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "dessert"
 - "apple"
-- "coffee cake"
-- "easy bake"
-- "fall dessert"
-- "caramel"
+- "cake"
 - "cinnamon"
+- "fall"
+- "dessert"
 keywords:
 - "apple coffee cake"
 - "crescent roll dessert"

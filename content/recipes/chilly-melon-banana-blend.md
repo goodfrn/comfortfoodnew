@@ -16,11 +16,10 @@ recipeYield: "2 servings"
 categories: ["Beverages"]
 tags:
 - "smoothie"
-- "melons"
 - "banana"
-- "coconut water"
-- "summer drink"
-- "fruit blend"
+- "drink"
+- "summer"
+- "healthy"
 keywords:
 - "melon smoothie"
 - "banana smoothie"

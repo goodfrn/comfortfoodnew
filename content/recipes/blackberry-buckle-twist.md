@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "berry dessert"
-- "almond flour"
-- "american baking"
-- "cinnamon sugar"
-- "fruit buckle"
+- "cake"
+- "cinnamon"
+- "almond"
+- "comfort food"
+- "dessert"
 keywords:
 - "blackberry buckle"
 - "almond flour"

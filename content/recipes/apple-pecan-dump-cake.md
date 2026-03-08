@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "quick recipes"
-- "fruit desserts"
-- "walnut recipes"
-- "baking tips"
+- "apple"
+- "cake"
+- "pecan"
+- "comfort food"
+- "easy"
 keywords:
 - "dump cake"
 - "apple dessert"

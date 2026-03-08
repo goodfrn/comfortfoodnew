@@ -16,10 +16,10 @@ recipeYield: "32 servings"
 categories: ["Desserts"]
 tags:
 - "cupcakes"
-- "desserts"
-- "baking tips"
-- "party treats"
-- "American cuisine"
+- "dessert"
+- "party"
+- "homemade"
+- "lemon"
 keywords:
 - "ice cream cones"
 - "lemon instant pudding"

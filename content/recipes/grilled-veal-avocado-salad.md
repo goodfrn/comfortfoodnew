@@ -19,10 +19,7 @@ tags:
 - "salad"
 - "veal"
 - "healthy"
-- "gluten free"
-- "dairy free"
-- "French inspired"
-- "summer cooking"
+- "summer"
 keywords:
 - "veal chops"
 - "beet salad"

@@ -15,13 +15,11 @@ totalTime: PT24H20M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "salmon cure"
-- "nordic cuisine"
-- "french fusion"
-- "curing fish"
-- "salmon recipe"
-- "labneh pairing"
-- "rye toast"
+- "seafood"
+- "salmon"
+- "appetizer"
+- "french"
+- "apple"
 keywords:
 - "calvados salmon"
 - "cured salmon recipe"

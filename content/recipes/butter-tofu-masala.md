@@ -15,13 +15,11 @@ totalTime: PT57M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Indian"
+- "indian"
 - "vegetarian"
 - "tofu"
-- "masala"
-- "spiced sauce"
+- "spicy"
 - "comfort food"
-- "weeknight meal"
 keywords:
 - "tofu masala"
 - "butter tofu"

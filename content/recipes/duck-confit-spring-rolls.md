@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "12 to 14 rolls"
 categories: ["Appetizers"]
 tags:
-- "Duck"
-- "Spring Rolls"
-- "Vietnamese Fusion"
-- "Rice Paper"
-- "Hoisin Sauce"
-- "Herbs"
-- "Pickled Carrots"
+- "appetizer"
+- "asian"
+- "duck"
+- "fried"
+- "vietnamese"
 keywords:
 - "duck confit"
 - "spring rolls"

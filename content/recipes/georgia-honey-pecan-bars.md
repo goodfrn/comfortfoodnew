@@ -15,12 +15,11 @@ totalTime: PT46M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "Southern"
+- "southern"
 - "cornbread"
 - "honey"
-- "pecans"
-- "dessert bars"
-- "baking tips"
+- "pecan"
+- "dessert"
 keywords:
 - "cornbread bars"
 - "pecan bars"

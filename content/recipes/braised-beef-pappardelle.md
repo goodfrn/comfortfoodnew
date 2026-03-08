@@ -15,13 +15,11 @@ totalTime: PT3H5M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "braising"
-- "beef recipes"
-- "slow cooking"
-- "pasta dishes"
-- "fall flavors"
+- "beef"
+- "pasta"
 - "comfort food"
-- "French-Italian fusion"
+- "fall"
+- "slow cooker"
 keywords:
 - "braised beef"
 - "pappardelle pasta"

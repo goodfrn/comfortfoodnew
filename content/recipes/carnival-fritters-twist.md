@@ -16,12 +16,10 @@ recipeYield: "30 fritters"
 categories: ["Desserts"]
 tags:
 - "fritters"
-- "yeast dough"
-- "citrus zest"
-- "olive oil frying"
-- "French-Italian Fusion"
-- "candied citron"
-- "toasted almonds"
+- "fried"
+- "citrus"
+- "holiday"
+- "homemade"
 keywords:
 - "fritters"
 - "yeast dough"

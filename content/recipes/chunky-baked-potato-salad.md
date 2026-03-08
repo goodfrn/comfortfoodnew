@@ -15,14 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "potato salad"
-- "roasted potatoes"
-- "American cuisine"
-- "bacon recipes"
-- "cheddar cheese"
-- "summer salads"
-- "easy dinner"
-- "make ahead"
+- "salad"
+- "potato"
+- "bacon"
+- "cheese"
+- "comfort food"
 keywords:
 - "potato salad"
 - "roasted potatoes"

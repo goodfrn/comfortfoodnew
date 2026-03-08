@@ -16,12 +16,10 @@ recipeYield: "4 to 6 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "appetizer"
-- "dip"
-- "Mexican-inspired"
-- "snack"
-- "party food"
-- "cream cheese"
+- "party"
 - "chorizo"
+- "spicy"
+- "cheese"
 keywords:
 - "chorizo dip"
 - "cream cheese dip"

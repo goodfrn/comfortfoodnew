@@ -15,12 +15,11 @@ totalTime: PT4H30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "cheesecake"
+- "cake"
+- "cheese"
 - "strawberry"
-- "American"
-- "spiced crust"
+- "comfort food"
+- "homemade"
 keywords:
 - "cheesecake with strawberries"
 - "nutmeg crust cheesecake"

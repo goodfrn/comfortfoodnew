@@ -15,11 +15,11 @@ totalTime: PT1H16M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "French-Canadian inspired"
-- "fruit desserts"
-- "baking tips"
-- "seasonal fruits"
-- "pudding cakes"
+- "strawberry"
+- "raspberry"
+- "lemon"
+- "apple"
+- "dessert"
 keywords:
 - "fruit pudding"
 - "rhubarb dessert"

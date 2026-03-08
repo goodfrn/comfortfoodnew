@@ -15,13 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Indian-inspired"
+- "salad"
 - "vegetarian"
-- "gluten-free"
-- "quick salad"
-- "yogurt sauce"
+- "healthy"
+- "easy"
 - "mint"
-- "whole-grain mustard"
 keywords:
 - "raïta"
 - "chunky salad"

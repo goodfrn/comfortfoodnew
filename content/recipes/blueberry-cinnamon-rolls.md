@@ -15,13 +15,11 @@ totalTime: PT2H20M
 recipeYield: "12 rolls"
 categories: ["Breakfast"]
 tags:
+- "breakfast"
 - "blueberry"
-- "cinnamon rolls"
-- "yeast dough"
-- "baking"
-- "sweet rolls"
-- "glaze"
-- "fruit filling"
+- "cinnamon"
+- "bread"
+- "comfort food"
 keywords:
 - "blueberry rolls"
 - "cinnamon sugar rolls"

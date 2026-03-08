@@ -17,9 +17,9 @@ categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
 - "rum"
-- "basil"
-- "refreshing"
 - "summer"
+- "drink"
+- "party"
 keywords:
 - "cocktail recipe"
 - "rum cocktails"

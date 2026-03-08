@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: "15 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "apple desserts"
-- "nutty cakes"
-- "almond extract recipes"
-- "coconut cream uses"
+- "cake"
+- "apple"
+- "pecan"
+- "caramel"
+- "comfort food"
 keywords:
 - "apple cake"
 - "pecans"

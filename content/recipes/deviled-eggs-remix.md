@@ -15,11 +15,11 @@ totalTime: PT25M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
 - "appetizer"
-- "egg dish"
-- "easy prep"
-- "party food"
+- "eggs"
+- "vegetarian"
+- "easy"
+- "party"
 keywords:
 - "deviled eggs"
 - "hard boiled eggs"

@@ -15,12 +15,10 @@ totalTime: PT60M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
 - "cake"
-- "berries"
-- "bundt"
-- "buttermilk"
-- "glaze"
+- "comfort food"
+- "dessert"
+- "homemade"
 keywords:
 - "berry cake"
 - "bundt cake"

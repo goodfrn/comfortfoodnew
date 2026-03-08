@@ -15,13 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "gluten-free"
-- "chocolate cake"
+- "cake"
+- "chocolate"
+- "gluten free"
+- "almond"
 - "hazelnut"
-- "Italian-inspired"
-- "browned butter"
-- "vegetarian"
-- "no flour"
 keywords:
 - "gluten-free cake"
 - "almond chocolate dessert"

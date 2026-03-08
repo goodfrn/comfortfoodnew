@@ -15,11 +15,11 @@ totalTime: PT58M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
+- "italian"
 - "vegetarian"
-- "comfort food"
-- "roots vegetables"
-- "ricotta"
+- "risotto"
+- "one pot"
+- "easy dinner"
 keywords:
 - "beets"
 - "risotto"

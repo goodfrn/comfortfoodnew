@@ -15,12 +15,11 @@ totalTime: PT17M
 recipeYield: "6 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "breakfast"
-- "lunch"
-- "American"
-- "comfort food"
-- "egg recipes"
-- "bacon recipes"
+- "bacon"
+- "eggs"
+- "cheese"
+- "sandwich"
+- "salad"
 keywords:
 - "egg salad"
 - "bacon egg salad"

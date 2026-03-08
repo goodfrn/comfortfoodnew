@@ -16,12 +16,10 @@ recipeYield: "20 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "holiday treats"
+- "holiday"
+- "cinnamon"
 - "molasses"
-- "gingerbread"
-- "snickerdoodles"
-- "winter spices"
+- "comfort food"
 keywords:
 - "snickerdoodles"
 - "gingerbread cookies"

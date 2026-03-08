@@ -17,8 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "pancakes"
 - "breakfast"
-- "vegetarian recipe"
-- "dessert"
+- "chocolate"
+- "cinnamon"
+- "comfort food"
 keywords:
 - "fluffy pancakes"
 - "vegetarian breakfast"

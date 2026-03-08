@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "chocolate"
 - "snack"
-- "easy dessert"
-- "nut topping"
+- "brownies"
+- "candy"
+- "easy"
 keywords:
 - "brownie brittle"
 - "crispy brownie"

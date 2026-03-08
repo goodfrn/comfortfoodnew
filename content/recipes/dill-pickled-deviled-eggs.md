@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
-- "Snack"
-- "Party Food"
-- "Egg Recipes"
-- "Pickled Eggs"
+- "appetizer"
+- "snack"
+- "eggs"
+- "vegetarian"
+- "easy"
 keywords:
 - "deviled eggs"
 - "pickled eggs"

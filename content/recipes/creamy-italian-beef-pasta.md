@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "one skillet meal"
-- "creamy pasta"
-- "ground beef recipes"
 - "comfort food"
+- "pasta"
+- "beef"
+- "cheese"
+- "easy dinner"
 keywords:
 - "ground beef pasta"
 - "Italian seasoning pasta"

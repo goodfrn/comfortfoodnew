@@ -15,14 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "beef"
 - "burger"
 - "grilling"
-- "cheddar cheese"
-- "mushrooms"
-- "French-American cuisine"
-- "burger toppings"
-- "chipotle mayo"
-- "herbs"
+- "cheese"
+- "spicy"
 keywords:
 - "beef burger"
 - "smoked cheddar"

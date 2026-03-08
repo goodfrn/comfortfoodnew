@@ -17,10 +17,9 @@ categories: ["Desserts"]
 tags:
 - "dessert"
 - "no bake"
-- "holiday recipe"
-- "peppermint"
-- "layered dessert"
-- "Candy Cane Lush"
+- "holiday"
+- "mint"
+- "candy"
 keywords:
 - "no bake dessert"
 - "candy cane dessert"

@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
 - "appetizer"
-- "dip"
-- "vegetarian"
-- "gluten-free"
-- "smoky flavor"
 - "cheese"
-- "easy cooking"
-- "caramelized onions"
+- "vegetarian"
+- "party"
+- "easy"
 keywords:
 - "caramelized onions"
 - "smoked paprika"

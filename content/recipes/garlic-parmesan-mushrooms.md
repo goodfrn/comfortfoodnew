@@ -15,13 +15,11 @@ totalTime: PT22M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "mushrooms"
-- "low carb"
-- "Italian herbs"
-- "sauté"
-- "cream sauce"
-- "garlic"
-- "weeknight meal"
+- "comfort food"
+- "cheese"
+- "vegetarian"
+- "italian"
+- "easy dinner"
 keywords:
 - "garlic mushrooms"
 - "parmesan mushrooms"

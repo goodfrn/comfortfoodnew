@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
 - "candy"
-- "nuts"
-- "caramel"
-- "brittle"
 - "snack"
-- "peanuts"
-- "corn syrup"
-- "baking soda"
+- "caramel"
+- "peanut butter"
+- "homemade"
 keywords:
 - "peanut brittle"
 - "baking soda foam"

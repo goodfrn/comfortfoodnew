@@ -18,7 +18,8 @@ tags:
 - "lamb"
 - "grilling"
 - "honey"
-- "summer meals"
+- "summer"
+- "easy dinner"
 keywords:
 - "lamb chops"
 - "grilled meat"

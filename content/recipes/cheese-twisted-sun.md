@@ -15,13 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "baking"
-- "pastry"
-- "cheese snack"
-- "ricotta"
-- "cheddar"
 - "appetizer"
-- "French-inspired"
+- "cheese"
+- "vegetarian"
+- "bread"
+- "french"
 keywords:
 - "puff pastry cheese"
 - "ricotta baked snack"

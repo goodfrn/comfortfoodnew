@@ -17,11 +17,9 @@ categories: ["Seafood"]
 tags:
 - "seafood"
 - "grilling"
-- "Mediterranean"
-- "fresh herbs"
+- "mediterranean"
 - "lemon"
-- "summer cooking"
-- "easy fish"
+- "easy dinner"
 keywords:
 - "sea bass grill"
 - "herb stuffed fish"

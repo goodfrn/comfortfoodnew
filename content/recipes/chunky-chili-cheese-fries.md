@@ -15,15 +15,11 @@ totalTime: PT34M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
 - "comfort food"
-- "easy dinner"
-- "cheese sauce"
-- "ground beef"
+- "beef"
 - "chili"
-- "fries"
-- "spicy"
-- "snack"
+- "cheese"
+- "fried"
 keywords:
 - "chili cheese fries"
 - "homemade cheese sauce"

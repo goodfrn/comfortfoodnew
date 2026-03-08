@@ -15,13 +15,11 @@ totalTime: PT12M
 recipeYield: "1 serving"
 categories: ["Beverages"]
 tags:
-- "vegan"
-- "dairy-free"
-- "gluten-free"
-- "plant-based"
 - "smoothie"
 - "breakfast"
-- "snack"
+- "vegan"
+- "healthy"
+- "banana"
 keywords:
 - "cacao smoothie"
 - "vegan protein smoothie"

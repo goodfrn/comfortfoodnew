@@ -15,13 +15,11 @@ totalTime: PT25M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "chocolate"
-- "custard"
-- "French cuisine"
-- "orange"
-- "quick dessert"
-- "chilling required"
+- "citrus"
+- "dessert"
+- "no bake"
+- "eggs"
 keywords:
 - "chocolate custard"
 - "orange zest"

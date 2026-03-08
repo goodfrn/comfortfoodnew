@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "12 bars"
 categories: ["Breakfast"]
 tags:
-- "snack bars"
-- "quinoa recipes"
-- "baking tips"
-- "nut butter swaps"
-- "pumpkin puree"
+- "snack"
+- "vegetarian"
+- "healthy"
+- "pumpkin"
+- "quinoa"
 keywords:
 - "puffed quinoa"
 - "almond butter"

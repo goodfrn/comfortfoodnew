@@ -17,11 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "breakfast"
 - "pancakes"
-- "carrot cake"
-- "cream cheese"
-- "American cuisine"
-- "nutty"
-- "coconut oil"
+- "cinnamon"
+- "comfort food"
+- "vegetarian"
 keywords:
 - "carrot pancakes"
 - "brown sugar pancakes"

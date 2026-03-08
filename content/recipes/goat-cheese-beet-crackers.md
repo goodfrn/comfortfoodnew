@@ -15,9 +15,11 @@ totalTime: PT18M
 recipeYield: 20 servings
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "snacks"
-- "easy recipes"
+- "appetizer"
+- "cheese"
+- "vegetarian"
+- "easy"
+- "beet"
 keywords:
 - "goat cheese"
 - "beets"

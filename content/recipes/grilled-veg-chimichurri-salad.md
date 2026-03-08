@@ -17,9 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "vegan"
-- "grilled"
-- "healthy"
-- "quick meal"
+- "grilling"
+- "summer"
+- "avocado"
 keywords:
 - "vegan salad"
 - "South American dish"

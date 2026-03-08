@@ -15,13 +15,11 @@ totalTime: PT12M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
-- "snack"
 - "appetizer"
-- "no-cook"
-- "party food"
-- "nutty"
 - "cheese"
+- "snack"
+- "party"
+- "walnut"
 keywords:
 - "cheddar cheese ball"
 - "walnut cheese ball"

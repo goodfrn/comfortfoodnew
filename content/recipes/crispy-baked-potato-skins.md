@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
 - "snack"
-- "potato"
 - "appetizer"
-- "baking"
+- "potato"
+- "bacon"
+- "comfort food"
 keywords:
 - "potato skins"
 - "baked snacks"

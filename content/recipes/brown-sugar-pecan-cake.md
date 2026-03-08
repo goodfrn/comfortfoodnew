@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "nut cake"
-- "pound cake"
-- "bundt cake"
-- "brown sugar"
-- "toasted nuts"
+- "cake"
+- "pecan"
+- "comfort food"
+- "homemade"
+- "dessert"
 keywords:
 - "brown sugar cake"
 - "pecan cake"

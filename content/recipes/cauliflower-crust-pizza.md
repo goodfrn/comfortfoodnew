@@ -16,9 +16,9 @@ recipeYield: "2 servings"
 categories: ["Pizza and Flatbreads"]
 tags:
 - "vegetarian"
-- "gluten-free"
-- "low carb"
+- "gluten free"
 - "pizza"
+- "cauliflower"
 - "homemade"
 keywords:
 - "cauliflower crust"

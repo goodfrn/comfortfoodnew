@@ -15,12 +15,11 @@ totalTime: PT58M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American cuisine"
-- "Rochester style"
 - "comfort food"
-- "home fries"
-- "cheeseburgers"
-- "macaroni salad"
+- "beef"
+- "grilling"
+- "bread"
+- "spicy"
 keywords:
 - "Garbage Plate"
 - "Rochester hot sauce"

@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "British fusion"
-- "cheese recipes"
-- "toasted bread"
 - "comfort food"
-- "snack ideas"
+- "cheese"
+- "bread"
+- "appetizer"
+- "easy"
 keywords:
 - "cheese toast"
 - "caramelized shallot jam"

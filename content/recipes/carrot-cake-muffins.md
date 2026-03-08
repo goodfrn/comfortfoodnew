@@ -15,13 +15,11 @@ totalTime: PT44M
 recipeYield: "24 muffins"
 categories: ["Breakfast"]
 tags:
-- "baking"
 - "muffins"
-- "carrot cake"
-- "cream cheese"
-- "pecans"
+- "breakfast"
 - "honey"
-- "spiced"
+- "walnut"
+- "cinnamon"
 keywords:
 - "carrot muffins"
 - "cream cheese center"

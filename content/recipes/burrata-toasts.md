@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "French-inspired"
 - "vegetarian"
-- "brunch"
-- "toast recipes"
-- "easy cooking"
+- "breakfast"
+- "eggs"
+- "cheese"
+- "easy"
 keywords:
 - "burrata"
 - "roasted tomatoes"

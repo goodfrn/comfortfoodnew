@@ -15,11 +15,9 @@ totalTime: PT40M
 recipeYield: "9 servings"
 categories: ["Side Dishes"]
 tags:
-- "southern cuisine"
-- "casserole"
-- "pineapple recipes"
 - "comfort food"
-- "baked dishes"
+- "cheese"
+- "pineapple"
 keywords:
 - "pineapple"
 - "cheddar cheese"

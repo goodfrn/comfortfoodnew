@@ -16,11 +16,10 @@ recipeYield: "30 servings"
 categories: ["Snacks"]
 tags:
 - "no bake"
-- "snacks"
-- "almond butter"
 - "chocolate"
-- "cereal desserts"
-- "easy treats"
+- "peanut butter"
+- "candy"
+- "almond"
 keywords:
 - "peanut butter substitute"
 - "no bake dessert"

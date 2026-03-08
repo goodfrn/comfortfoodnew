@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "30 fritters"
 categories: ["Snacks"]
 tags:
-- "European carnival"
-- "fried desserts"
-- "baking with yeast"
-- "citrus recipes"
-- "holiday treats"
+- "fried"
+- "holiday"
+- "dessert"
+- "citrus"
+- "eggs"
 keywords:
 - "fritters"
 - "raisin dough"

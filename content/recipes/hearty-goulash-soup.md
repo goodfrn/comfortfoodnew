@@ -19,9 +19,7 @@ tags:
 - "beef"
 - "pasta"
 - "comfort food"
-- "Hungarian-inspired"
-- "smoky"
-- "corn"
+- "easy dinner"
 keywords:
 - "goulash"
 - "beef soup"

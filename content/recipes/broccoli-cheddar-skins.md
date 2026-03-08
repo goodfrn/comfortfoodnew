@@ -15,13 +15,11 @@ totalTime: PT38M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "Appetizer"
-- "Vegetarian"
-- "American"
-- "Snack"
-- "Potato"
-- "Cheese"
-- "Broccoli"
+- "appetizer"
+- "cheese"
+- "vegetarian"
+- "potato"
+- "broccoli"
 keywords:
 - "potato skins"
 - "broccoli cheddar"

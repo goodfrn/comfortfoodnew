@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "grilled chicken"
-- "avocado"
+- "chicken"
 - "pineapple"
-- "chipotle"
-- "toasted almonds"
-- "gluten free"
-- "Californian fusion"
+- "avocado"
+- "grilling"
 keywords:
 - "grilled chicken"
 - "avocado salad"

@@ -15,10 +15,11 @@ totalTime: PT40M
 recipeYield: "25 cookies"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
 - "cookies"
-- "gift idea"
+- "healthy"
+- "homemade"
+- "almond"
+- "coconut"
 keywords:
 - "whole wheat cookies"
 - "coconut sugar recipe"

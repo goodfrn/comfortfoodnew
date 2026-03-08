@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "12 servings"
 categories: ["Dips and Spreads"]
 tags:
+- "chocolate"
 - "no bake"
-- "party food"
-- "dessert dip"
-- "easy recipes"
-- "snack ideas"
+- "party"
+- "easy"
+- "dessert"
 keywords:
 - "chocolate dip"
 - "boxed cake mix"

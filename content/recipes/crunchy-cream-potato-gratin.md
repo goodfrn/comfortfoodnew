@@ -15,10 +15,11 @@ totalTime: PT3H25M
 recipeYield: 12
 categories: ["Side Dishes"]
 tags:
-- "vegetarian"
-- "French cuisine"
 - "comfort food"
-- "potato recipes"
+- "vegetarian"
+- "potato"
+- "french"
+- "side dish"
 keywords:
 - "gratin"
 - "potato dish"

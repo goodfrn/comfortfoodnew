@@ -15,11 +15,11 @@ totalTime: PT10M
 recipeYield: "2 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
 - "salad"
-- "quick meals"
-- "fresh herbs"
 - "vegetarian"
+- "cheese"
+- "avocado"
+- "cucumber"
 keywords:
 - "cucumber salad"
 - "feta cheese"

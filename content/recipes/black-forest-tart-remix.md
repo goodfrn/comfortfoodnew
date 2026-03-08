@@ -15,11 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "fruit tart"
+- "chocolate"
+- "tart"
+- "raspberry"
 - "dessert"
-- "baking tips"
-- "chilling techniques"
+- "almond"
 keywords:
 - "Black Forest tart"
 - "raspberry liqueur"

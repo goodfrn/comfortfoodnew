@@ -15,13 +15,11 @@ totalTime: PT26M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "beef"
 - "grilling"
 - "steak"
-- "garlic butter"
-- "beef"
-- "sautéed vegetables"
-- "cognac"
-- "midweek meals"
+- "mushroom"
+- "easy dinner"
 keywords:
 - "beef fillet"
 - "garlic butter"

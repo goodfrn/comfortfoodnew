@@ -18,9 +18,8 @@ tags:
 - "no bake"
 - "dessert"
 - "chocolate"
-- "cake pops"
-- "party treats"
-- "DIY snacks"
+- "party"
+- "candy"
 keywords:
 - "donut holes"
 - "chocolate coating"

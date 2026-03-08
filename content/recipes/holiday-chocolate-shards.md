@@ -15,11 +15,11 @@ totalTime: PT20H
 recipeYield: "6 servings"
 categories: ["Holiday and Special Occasions"]
 tags:
-- "dessert"
+- "chocolate"
 - "candy"
-- "sweet"
-- "vegan"
-- "Christmas"
+- "holiday"
+- "vegetarian"
+- "no bake"
 keywords:
 - "chocolate shards"
 - "mint chocolate"

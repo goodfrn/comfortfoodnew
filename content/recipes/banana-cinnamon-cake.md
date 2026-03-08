@@ -15,14 +15,11 @@ totalTime: PT57M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "dessert"
 - "cake"
 - "banana"
 - "cinnamon"
-- "cream cheese"
-- "almond milk"
-- "nuts"
+- "dessert"
+- "comfort food"
 keywords:
 - "banana cake"
 - "cinnamon cake"

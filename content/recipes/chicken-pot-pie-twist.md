@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "pot pie"
-- "French cuisine"
+- "pie"
 - "comfort food"
-- "baking"
+- "easy dinner"
+- "main dish"
 keywords:
 - "chicken pot pie"
 - "shallots"

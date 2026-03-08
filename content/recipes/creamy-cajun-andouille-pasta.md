@@ -15,12 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Cajun"
-- "Pasta"
-- "Andouille"
-- "Southern cooking"
-- "Cream sauce"
-- "Quick meals"
+- "pasta"
+- "cajun"
+- "sausage"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "Cajun pasta"
 - "Andouille sausage"

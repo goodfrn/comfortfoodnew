@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "30 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "snacks"
-- "American cuisine"
-- "potato recipes"
-- "party food"
+- "appetizer"
+- "potato"
+- "cheese"
+- "bacon"
+- "spicy"
 keywords:
 - "potato skins"
 - "jalapeño poppers"

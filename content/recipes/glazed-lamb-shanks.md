@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "lamb"
-- "braising"
-- "slow cook"
-- "French cuisine"
+- "slow cooker"
 - "comfort food"
-- "glaze"
 - "honey"
-- "root vegetables"
+- "stew"
 keywords:
 - "lamb shanks"
 - "buckwheat honey"

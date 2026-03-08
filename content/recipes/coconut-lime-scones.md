@@ -15,9 +15,11 @@ totalTime: PT50M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "scones"
-- "vegan baking"
-- "tropical recipes"
+- "breakfast"
+- "coconut"
+- "citrus"
+- "bread"
+- "homemade"
 keywords:
 - "scone recipe"
 - "lime zest"

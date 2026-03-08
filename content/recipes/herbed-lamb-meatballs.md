@@ -15,14 +15,11 @@ totalTime: PT50M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
 - "lamb"
-- "meatballs"
-- "orzo"
-- "romesco"
-- "herbs"
+- "meatball"
+- "mediterranean"
 - "easy dinner"
-- "weeknight meal"
+- "cheese"
 keywords:
 - "lamb meatballs"
 - "romesco sauce"

@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
+- "salad"
+- "shrimp"
 - "grilling"
-- "Asian fusion"
-- "seafood salad"
-- "quick meals"
-- "healthy eating"
+- "asian"
+- "spicy"
 keywords:
 - "grilled shrimp"
 - "vermicelli salad"

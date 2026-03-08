@@ -15,11 +15,11 @@ totalTime: PT63M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "yeast dough"
-- "holiday breads"
-- "fruit sticky buns"
-- "breakfast pastries"
+- "breakfast"
+- "bread"
+- "holiday"
+- "cranberry"
+- "cinnamon"
 keywords:
 - "sticky buns"
 - "cranberry sticky rolls"

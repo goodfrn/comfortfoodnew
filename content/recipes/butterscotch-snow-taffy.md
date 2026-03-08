@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "candy"
-- "winter sweets"
 - "vegan"
 - "rum"
-- "snow taffy"
-- "homemade sweets"
+- "caramel"
+- "no bake"
 keywords:
 - "snow taffy"
 - "soft crack syrup"

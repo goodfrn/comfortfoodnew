@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "appetizers"
-- "holiday"
+- "appetizer"
 - "eggs"
-- "steaming"
-- "French-Canadian"
+- "holiday"
+- "seafood"
+- "party"
 keywords:
 - "deviled eggs"
 - "steamed eggs"

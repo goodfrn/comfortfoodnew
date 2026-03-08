@@ -16,10 +16,10 @@ recipeYield: "20 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "chocolate chip"
-- "Dutch cocoa"
-- "tapioca starch"
+- "chocolate"
+- "comfort food"
+- "homemade"
+- "dessert"
 keywords:
 - "chocolate chip cookies"
 - "Dutch cocoa"

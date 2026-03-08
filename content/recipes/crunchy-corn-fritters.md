@@ -15,11 +15,11 @@ totalTime: PT29M
 recipeYield: "14 fritters"
 categories: ["Appetizers"]
 tags:
-- "American"
 - "snack"
-- "fried food"
+- "appetizer"
 - "corn"
-- "easy prep"
+- "fried"
+- "vegetarian"
 keywords:
 - "corn fritters"
 - "smoked paprika"

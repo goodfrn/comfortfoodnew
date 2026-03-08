@@ -18,10 +18,8 @@ tags:
 - "smoothie"
 - "breakfast"
 - "healthy"
-- "fruit"
-- "quick"
-- "easy"
-- "American"
+- "banana"
+- "peach"
 keywords:
 - "banana smoothie"
 - "peach smoothie"

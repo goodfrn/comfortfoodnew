@@ -15,13 +15,11 @@ totalTime: PT23M
 recipeYield: "2 servings"
 categories: ["Snacks"]
 tags:
-- "grilling"
 - "seafood"
-- "camping food"
-- "open-faced sandwich"
-- "gluten-free"
-- "dairy-free"
-- "quick meals"
+- "grilling"
+- "appetizer"
+- "sandwich"
+- "mediterranean"
 keywords:
 - "sardine toast"
 - "grilled baguette"

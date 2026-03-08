@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "grilling"
-- "chicken thighs"
-- "French-inspired"
-- "gluten free"
-- "dairy free"
+- "chicken"
 - "easy dinner"
-- "summer recipes"
+- "summer"
+- "gluten free"
 keywords:
 - "grilled chicken thighs"
 - "rosemary chicken"

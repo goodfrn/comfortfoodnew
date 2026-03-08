@@ -15,12 +15,11 @@ totalTime: PT28M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "dessert"
-- "fried"
 - "apple"
-- "quick"
+- "fried"
+- "cinnamon"
 - "snack"
+- "dessert"
 keywords:
 - "apple fritters"
 - "fried apple dough"

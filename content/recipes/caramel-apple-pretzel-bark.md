@@ -15,11 +15,11 @@ totalTime: PT14M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "fall recipes"
-- "snack ideas"
-- "chocolate treats"
-- "caramel recipes"
-- "easy desserts"
+- "chocolate"
+- "caramel"
+- "apple"
+- "pretzel"
+- "no bake"
 keywords:
 - "caramel bark"
 - "pretzel candy"

@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "4 giant meatballs"
 categories: ["Main Dishes"]
 tags:
-- "meatballs"
-- "fusion cuisine"
-- "baking"
-- "pork veal beef"
-- "gluten-free tweak"
+- "meatball"
+- "pork"
+- "beef"
+- "broccoli"
+- "comfort food"
 keywords:
 - "meatballs"
 - "broccoli"

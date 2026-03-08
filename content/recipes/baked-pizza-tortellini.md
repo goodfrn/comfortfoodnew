@@ -15,13 +15,11 @@ totalTime: PT43M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "Casserole"
-- "Pasta Bake"
-- "Comfort Food"
-- "Dinner"
-- "Sausage"
-- "Cheese"
+- "comfort food"
+- "pasta"
+- "sausage"
+- "cheese"
+- "pizza"
 keywords:
 - "tortellini bake"
 - "Italian sausage recipe"

@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Italian"
+- "italian"
 - "vegetarian"
-- "soups"
-- "one-pot"
-- "quick meals"
+- "soup"
+- "healthy"
+- "one pot"
 keywords:
 - "minestrone"
 - "kale soup"

@@ -15,11 +15,10 @@ totalTime: PT25M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "French-inspired"
-- "lunch"
-- "quick meal"
-- "herb salad"
-- "chicken recipes"
+- "chicken"
+- "sandwich"
+- "easy"
+- "spicy"
 keywords:
 - "curried chicken"
 - "rye toast"

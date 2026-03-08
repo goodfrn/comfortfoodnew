@@ -15,11 +15,11 @@ totalTime: PT10M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "fruit"
 - "candy"
-- "skewers"
 - "snack"
 - "party"
+- "no bake"
+- "easy"
 keywords:
 - "fruit skewers"
 - "candy snacks"

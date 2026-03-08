@@ -17,10 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "slow cooker"
 - "pork"
-- "BBQ"
-- "pulled pork"
-- "American cuisine"
 - "comfort food"
+- "easy dinner"
+- "american"
 keywords:
 - "pulled pork"
 - "Dr Pepper recipe"

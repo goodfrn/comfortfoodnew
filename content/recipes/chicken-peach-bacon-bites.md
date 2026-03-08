@@ -15,10 +15,11 @@ totalTime: PT45M
 recipeYield: 24 bites
 categories: ["Appetizers"]
 tags:
-- "appetizers"
+- "appetizer"
+- "chicken"
 - "grilling"
-- "summer recipes"
-- "gluten-free"
+- "bacon"
+- "peach"
 keywords:
 - "chicken skewers"
 - "peach bites"

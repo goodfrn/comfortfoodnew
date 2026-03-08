@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "16 servings"
 categories: ["Breakfast"]
 tags:
-- "American cuisine"
-- "baking"
 - "muffins"
-- "banana recipes"
-- "Nutella"
-- "almond extract"
-- "Greek yogurt"
+- "banana"
+- "chocolate"
+- "breakfast"
+- "comfort food"
 keywords:
 - "banana muffins"
 - "Nutella baked goods"

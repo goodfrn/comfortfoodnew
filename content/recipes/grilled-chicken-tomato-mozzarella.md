@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "chicken"
-- "Italian-inspired"
+- "grilling"
+- "cheese"
+- "italian"
 - "easy dinner"
-- "quick cook"
 keywords:
 - "grilled chicken"
 - "buffalo mozzarella"

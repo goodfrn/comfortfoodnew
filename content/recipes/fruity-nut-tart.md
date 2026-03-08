@@ -15,11 +15,11 @@ totalTime: PT1H13M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
+- "tart"
 - "dessert"
-- "nut tart"
-- "marzipan"
-- "brandy"
+- "almond"
+- "walnut"
+- "vegetarian"
 keywords:
 - "nut tart"
 - "marzipan"

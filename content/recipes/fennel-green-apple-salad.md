@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "vegan"
-- "gluten-free"
-- "quick salad"
-- "French-inspired"
-- "vegetable salad"
+- "salad"
+- "apple"
+- "fennel"
+- "healthy"
+- "easy"
 keywords:
 - "celery root"
 - "honeycrisp apple"

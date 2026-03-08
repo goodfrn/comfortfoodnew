@@ -16,9 +16,10 @@ recipeYield: "6 pretzels"
 categories: ["Snacks"]
 tags:
 - "vegan"
-- "snacks"
-- "easy recipe"
-- "baking"
+- "snack"
+- "bread"
+- "pretzel"
+- "easy"
 keywords:
 - "dairy-free"
 - "egg-free"

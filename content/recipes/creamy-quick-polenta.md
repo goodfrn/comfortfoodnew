@@ -15,11 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Italian-inspired"
-- "dairy-free"
-- "quick meals"
 - "comfort food"
 - "vegetarian"
+- "easy dinner"
+- "one pot"
+- "coconut"
 keywords:
 - "polenta recipe"
 - "quick polenta"

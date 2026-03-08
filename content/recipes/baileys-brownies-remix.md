@@ -15,13 +15,11 @@ totalTime: PT1H50M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "chocolate"
 - "brownies"
-- "Baileys"
-- "buttercream"
-- "ganache"
-- "American"
+- "chocolate"
+- "dessert"
+- "party"
+- "homemade"
 keywords:
 - "Baileys"
 - "brownies"

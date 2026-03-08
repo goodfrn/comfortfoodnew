@@ -15,14 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "herb butter"
-- "flower petals"
-- "savory spread"
-- "French-inspired"
-- "cold butter"
-- "simple recipe"
-- "tarragon"
-- "chive blossoms"
+- "vegetarian"
+- "appetizer"
+- "no bake"
+- "homemade"
+- "condiment"
 keywords:
 - "butter spread"
 - "chive blossoms"

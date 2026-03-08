@@ -15,13 +15,11 @@ totalTime: PT70M
 recipeYield: "12 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "casserole"
 - "chicken"
 - "broccoli"
-- "cheesy"
+- "cheese"
 - "comfort food"
-- "baked dishes"
+- "easy dinner"
 keywords:
 - "chicken bake"
 - "broccoli casserole"

@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: 4
 categories: ["Pasta and Noodles"]
 tags:
-- "Italian cuisine"
-- "vegetarian"
 - "pasta"
-- "squash dish"
+- "vegetarian"
 - "comfort food"
+- "roasted"
+- "italian"
 keywords:
 - "herbed pasta"
 - "squash fettuccine"

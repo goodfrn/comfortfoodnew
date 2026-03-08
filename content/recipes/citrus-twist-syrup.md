@@ -15,11 +15,11 @@ totalTime: PT17M
 recipeYield: "1 cup"
 categories: ["Sauces and Condiments"]
 tags:
-- "syrup"
-- "vegan"
 - "citrus"
-- "gluten-free"
-- "desserts"
+- "vegan"
+- "gluten free"
+- "condiment"
+- "easy"
 keywords:
 - "citrus"
 - "syrup"

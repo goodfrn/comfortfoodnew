@@ -15,13 +15,11 @@ totalTime: PT53M
 recipeYield: "2 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "grilling"
 - "beef"
-- "sandwiches"
-- "French-inspired"
-- "pickling"
+- "grilling"
+- "sandwich"
 - "easy dinner"
-- "stovetop grilling"
+- "french"
 keywords:
 - "beef sandwich"
 - "pickled fennel"

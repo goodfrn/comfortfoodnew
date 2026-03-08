@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "Mediterranean"
-- "barley"
-- "roasted vegetables"
 - "vegetarian"
-- "make ahead"
+- "mediterranean"
+- "cheese"
+- "roasted"
 keywords:
 - "barley salad"
 - "roasted peppers"

@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Beverages"]
 tags:
-- "shake"
-- "frozen yogurt"
-- "berries"
-- "quick recipe"
-- "American dessert"
+- "drink"
+- "snack"
+- "vegetarian"
+- "no bake"
+- "cinnamon"
 keywords:
 - "berry malt"
 - "frozen yogurt"

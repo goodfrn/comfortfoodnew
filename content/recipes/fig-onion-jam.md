@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "figs"
-- "onions"
-- "spread"
-- "cheese"
+- "vegetarian"
 - "appetizer"
+- "jam"
+- "condiment"
+- "homemade"
 keywords:
 - "Fig Jam"
 - "Onion Spread"

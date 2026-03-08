@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
 - "vegetarian"
-- "quick dinner"
-- "skillet"
-- "mushrooms"
-- "easy cooking"
 - "chickpeas"
+- "mushroom"
+- "easy dinner"
+- "mediterranean"
 keywords:
 - "chickpeas"
 - "mushrooms"

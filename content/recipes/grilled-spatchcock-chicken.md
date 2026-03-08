@@ -15,13 +15,11 @@ totalTime: PT1H55M
 recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "chicken"
+- "grilling"
 - "pesto"
-- "marinade"
-- "cumin"
-- "smoky flavor"
-- "indirect heat"
+- "spicy"
+- "summer"
 keywords:
 - "spatchcock chicken"
 - "grilled chicken recipe"

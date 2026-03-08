@@ -16,9 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "seafood"
-- "summer salad"
-- "light meal"
-- "healthy"
+- "salad"
+- "grilling"
+- "mediterranean"
+- "lemon"
 keywords:
 - "grilled octopus"
 - "asparagus"

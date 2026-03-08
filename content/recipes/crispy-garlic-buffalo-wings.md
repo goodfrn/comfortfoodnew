@@ -15,12 +15,10 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "American"
-- "chicken wings"
-- "buffalo sauce"
-- "baked wings"
-- "crispy coating"
-- "snack"
+- "chicken"
+- "appetizer"
+- "spicy"
+- "party"
 - "easy dinner"
 keywords:
 - "buffalo wings"

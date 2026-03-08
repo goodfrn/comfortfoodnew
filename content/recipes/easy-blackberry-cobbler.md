@@ -15,13 +15,11 @@ totalTime: PT44M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
+- "comfort food"
+- "vegetarian"
+- "summer"
+- "easy"
 - "dessert"
-- "fruit"
-- "blackberries"
-- "baking"
-- "easy recipes"
-- "cobbler"
-- "American"
 keywords:
 - "blackberry cobbler"
 - "dry cake mix"

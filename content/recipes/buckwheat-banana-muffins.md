@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "12 muffins"
 categories: ["Breakfast"]
 tags:
-- "vegetarian"
-- "baking"
-- "snack"
 - "breakfast"
-- "nutty muffins"
+- "snack"
+- "muffins"
+- "banana"
+- "almond"
 keywords:
 - "buckwheat muffins"
 - "banana muffins"

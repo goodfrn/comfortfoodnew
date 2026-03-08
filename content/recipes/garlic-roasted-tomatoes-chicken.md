@@ -15,13 +15,10 @@ totalTime: PT48M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "Roasting"
-- "Breaded chicken"
-- "Garlic"
-- "Balsamic"
-- "Dinner"
-- "Easy swaps"
+- "chicken"
+- "roasted"
+- "fried"
+- "easy dinner"
 keywords:
 - "chicken cutlets"
 - "roasted tomatoes"

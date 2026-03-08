@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
+- "brownies"
+- "chocolate"
 - "gluten free"
 - "dessert"
-- "black beans"
-- "brownies"
-- "baking"
-- "cocoa"
+- "comfort food"
 keywords:
 - "black bean brownies"
 - "flourless brownies"

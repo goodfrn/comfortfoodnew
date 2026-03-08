@@ -15,12 +15,11 @@ totalTime: PT6H10M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "marinade"
 - "grilling"
-- "fusion cuisine"
-- "maple syrup"
-- "lime"
-- "soy sauce"
+- "citrus"
+- "asian"
+- "condiment"
+- "summer"
 keywords:
 - "lime marinade"
 - "maple syrup"

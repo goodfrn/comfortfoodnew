@@ -16,12 +16,10 @@ recipeYield: "6 to 8 servings"
 categories: ["Appetizers"]
 tags:
 - "vegetarian"
-- "baking"
-- "French-inspired"
-- "fall recipes"
-- "savory tarts"
-- "goat cheese"
-- "puff pastry"
+- "cheese"
+- "tart"
+- "fall"
+- "appetizer"
 keywords:
 - "butternut squash tart"
 - "goat cheese tart"

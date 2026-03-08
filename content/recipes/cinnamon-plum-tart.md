@@ -15,12 +15,11 @@ totalTime: PT1H35M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "pastry"
-- "custard"
-- "fruit tart"
-- "baking"
-- "plums"
+- "tart"
+- "cinnamon"
+- "dessert"
+- "vegetarian"
+- "homemade"
 keywords:
 - "cinnamon tart"
 - "plum dessert"

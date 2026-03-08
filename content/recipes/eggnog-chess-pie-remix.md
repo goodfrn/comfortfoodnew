@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "Southern baking"
-- "custard pie"
-- "egg substitution"
-- "cardamom spice"
-- "pie tips"
+- "pie"
+- "comfort food"
+- "southern"
+- "eggs"
+- "holiday"
 keywords:
 - "chess pie"
 - "eggnog substitute"

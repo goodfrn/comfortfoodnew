@@ -15,10 +15,11 @@ totalTime: PT25M
 recipeYield: 180 ml
 categories: ["Sauces and Condiments"]
 tags:
-- "syrup"
-- "desserts"
-- "drinks"
-- "Earl Grey"
+- "drink"
+- "citrus"
+- "easy"
+- "homemade"
+- "condiment"
 keywords:
 - "physalis syrup"
 - "Earl Grey recipe"

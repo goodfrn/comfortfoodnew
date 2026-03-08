@@ -15,9 +15,11 @@ totalTime: PT1H5M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Indian"
+- "indian"
 - "breakfast"
 - "vegetarian"
+- "eggs"
+- "spicy"
 keywords:
 - "tomato eggs"
 - "spicy eggs"

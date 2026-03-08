@@ -16,12 +16,10 @@ recipeYield: "7 servings"
 categories: ["Desserts"]
 tags:
 - "pumpkin"
-- "donuts"
-- "baked"
 - "fall"
-- "maple"
-- "pecans"
-- "spices"
+- "breakfast"
+- "homemade"
+- "cinnamon"
 keywords:
 - "pumpkin donuts"
 - "baked donuts"

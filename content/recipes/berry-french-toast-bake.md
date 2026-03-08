@@ -16,13 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "brunch"
-- "casserole"
-- "baked french toast"
-- "berry"
-- "easy prep"
-- "overnight"
-- "sweet"
+- "vegetarian"
+- "eggs"
+- "cinnamon"
+- "vanilla"
 keywords:
 - "french toast bake"
 - "streusel topping"

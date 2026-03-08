@@ -15,12 +15,11 @@ totalTime: PT53M
 recipeYield: "6 servings"
 categories: ["Snacks"]
 tags:
-- "American"
-- "Game Day"
-- "Snack"
-- "Cheese Fries"
-- "Spicy Chicken"
-- "Quick Meals"
+- "chicken"
+- "cheese"
+- "spicy"
+- "snack"
+- "comfort food"
 keywords:
 - "buffalo chicken"
 - "cheese fries"

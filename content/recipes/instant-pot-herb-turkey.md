@@ -15,12 +15,11 @@ totalTime: PT1H3M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "turkey breast"
-- "Instant Pot"
-- "pressure cooker"
-- "herbs"
-- "cumin"
-- "American cuisine"
+- "turkey"
+- "instant pot"
+- "easy dinner"
+- "roasted"
+- "main dish"
 keywords:
 - "Instant Pot turkey"
 - "herb turkey breast"

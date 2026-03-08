@@ -15,14 +15,11 @@ totalTime: PT57M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "beef"
 - "grilling"
+- "spicy"
 - "steak"
-- "celery"
-- "marinade"
-- "corn starch sauce"
-- "French-Canadian influence"
-- "meat resting"
-- "bold flavors"
+- "main dish"
 keywords:
 - "marinated flank steak"
 - "grilled celery"

@@ -16,11 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "cheesecake"
-- "chocolate chip"
-- "baking tips"
-- "desserts"
-- "American cuisine"
+- "chocolate"
+- "cheese"
+- "dessert"
+- "homemade"
 keywords:
 - "cream cheese"
 - "chocolate chip cookies"

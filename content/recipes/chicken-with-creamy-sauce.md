@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "pan sauce"
 - "easy dinner"
-- "quick meal"
 - "comfort food"
+- "main dish"
+- "roasted"
 keywords:
 - "chicken breasts"
 - "pan sauce"

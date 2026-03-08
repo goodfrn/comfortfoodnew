@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "chicken"
-- "balsamic"
-- "marinade"
-- "barbecue"
-- "thyme"
-- "summer cooking"
+- "grilling"
+- "summer"
+- "easy dinner"
+- "main dish"
 keywords:
 - "balsamic vinegar"
 - "grilled chicken"

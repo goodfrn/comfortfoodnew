@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
-- "stir fry"
-- "pork loin"
-- "quick meals"
-- "marinated pork"
-- "weeknight dinner"
+- "pork"
+- "asian"
+- "easy dinner"
+- "honey"
+- "citrus"
 keywords:
 - "pork stir fry"
 - "turmeric marinade"

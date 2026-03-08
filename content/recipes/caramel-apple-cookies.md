@@ -16,11 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "fall treats"
-- "caramel"
 - "apple"
-- "spiced"
+- "caramel"
+- "fall"
+- "cinnamon"
 keywords:
 - "caramel cookies"
 - "apple spice cookies"

@@ -15,12 +15,10 @@ totalTime: PT24M
 recipeYield: "2 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Southern"
-- "sandwich"
-- "baked"
-- "ham"
-- "pimiento cheese"
 - "comfort food"
+- "sandwich"
+- "ham"
+- "cheese"
 keywords:
 - "pimiento cheese"
 - "baked sandwich"

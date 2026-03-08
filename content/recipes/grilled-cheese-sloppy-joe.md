@@ -15,11 +15,11 @@ totalTime: PT9M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American"
-- "Sandwich"
-- "Grilled Cheese"
-- "Ground Beef"
-- "Comfort Food"
+- "beef"
+- "sandwich"
+- "cheese"
+- "comfort food"
+- "grilling"
 keywords:
 - "grilled cheese sloppy joe"
 - "spiced ground beef sandwich"

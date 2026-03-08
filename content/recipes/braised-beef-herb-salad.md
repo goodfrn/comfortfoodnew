@@ -15,13 +15,11 @@ totalTime: PT1H45M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "pressure cooking"
 - "beef"
-- "Asian fusion"
-- "herb salad"
-- "quick braise"
-- "savory"
-- "umami"
+- "pressure cooker"
+- "asian"
+- "easy dinner"
+- "main dish"
 keywords:
 - "braised beef"
 - "pressure cooker"

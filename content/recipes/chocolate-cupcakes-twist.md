@@ -15,10 +15,11 @@ totalTime: PT57M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
+- "chocolate"
 - "cupcakes"
 - "dessert"
-- "baking"
-- "chocolate"
+- "cinnamon"
+- "honey"
 keywords:
 - "chocolate cupcakes"
 - "spelt flour recipe"

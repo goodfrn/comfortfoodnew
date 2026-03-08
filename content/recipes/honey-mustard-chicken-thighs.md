@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "chicken"
-- "roasting"
-- "French-inspired"
-- "honey mustard"
-- "smoked paprika"
-- "autumn cooking"
-- "weeknight dinner"
+- "roasted"
+- "honey"
+- "easy dinner"
+- "fall"
 keywords:
 - "chicken thighs"
 - "roasted vegetables"

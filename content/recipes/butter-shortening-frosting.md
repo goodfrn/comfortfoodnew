@@ -15,11 +15,10 @@ totalTime: PT21M
 recipeYield: "Enough for 8 to 10 inch cake layers"
 categories: ["Desserts"]
 tags:
-- "frosting"
-- "cake decorating"
-- "baking"
-- "butter shortening blend"
-- "stable frosting"
+- "cake"
+- "dessert"
+- "homemade"
+- "party"
 keywords:
 - "butter frosting"
 - "shortening frosting"

@@ -17,7 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "main dish"
 - "comfort food"
-- "French"
+- "veal"
+- "slow cooker"
+- "roasted"
 keywords:
 - "French cuisine"
 - "comfort food"

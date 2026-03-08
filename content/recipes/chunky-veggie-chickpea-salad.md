@@ -15,16 +15,11 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Mediterranean"
-- "vegetarian"
-- "chickpeas"
-- "quick meal"
 - "salad"
-- "cumin"
-- "coriander"
-- "goat cheese"
+- "vegetarian"
 - "couscous"
-- "fresh herbs"
+- "chickpeas"
+- "easy"
 keywords:
 - "couscous salad"
 - "chickpea salad"

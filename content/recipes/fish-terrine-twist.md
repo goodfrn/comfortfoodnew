@@ -15,12 +15,11 @@ totalTime: PT4H20M
 recipeYield: "6 to 8 servings"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
 - "seafood"
-- "cold starters"
-- "bain-marie"
-- "chilled dishes"
-- "layered terrine"
+- "appetizer"
+- "eggs"
+- "asparagus"
+- "french"
 keywords:
 - "fish terrine"
 - "cod and salmon"

@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "American dessert"
-- "no-bake sweets"
-- "snack recipes"
-- "chocolate treats"
-- "easy candy"
+- "chocolate"
+- "peanut butter"
+- "candy"
+- "no bake"
+- "homemade"
 keywords:
 - "peanut butter cups"
 - "chocolate shell"

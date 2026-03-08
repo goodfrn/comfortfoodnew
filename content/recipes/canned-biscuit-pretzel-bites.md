@@ -15,12 +15,11 @@ totalTime: PT27M
 recipeYield: "32 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "Americana"
-- "baking hacks"
-- "quick recipes"
+- "snack"
 - "pretzel"
-- "party food"
+- "party"
+- "bread"
+- "easy"
 keywords:
 - "pretzel bites"
 - "biscuit dough snacks"

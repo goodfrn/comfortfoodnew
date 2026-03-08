@@ -15,12 +15,11 @@ totalTime: PT21M
 recipeYield: "8 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "cheese sauce"
-- "dip"
-- "easy sauce"
-- "Monterey Jack"
-- "American cuisine"
+- "cheese"
 - "snack"
+- "appetizer"
+- "easy"
+- "comfort food"
 keywords:
 - "queso sauce"
 - "cheese dip"

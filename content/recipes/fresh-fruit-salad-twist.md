@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "fruit salad"
+- "salad"
+- "summer"
 - "vegan"
-- "summer snack"
-- "fresh mint"
-- "lime juice"
-- "no metal bowl"
+- "healthy"
+- "no bake"
 keywords:
 - "fruit salad"
 - "lime dressing"

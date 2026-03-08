@@ -17,8 +17,7 @@ categories: ["Main Dishes"]
 tags:
 - "chicken"
 - "salad"
-- "roasting"
-- "herbs"
+- "roasted"
 - "comfort food"
 keywords:
 - "chicken recipe"

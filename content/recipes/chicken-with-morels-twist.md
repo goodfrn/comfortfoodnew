@@ -15,13 +15,10 @@ totalTime: PT1H42M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "mushrooms"
 - "chicken"
-- "whisky"
-- "cream sauce"
-- "slow cooking"
-- "French inspired"
-- "gluten free"
+- "mushroom"
+- "slow cooker"
+- "french"
 keywords:
 - "morels"
 - "chicken"

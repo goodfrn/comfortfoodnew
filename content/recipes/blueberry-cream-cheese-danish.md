@@ -15,14 +15,11 @@ totalTime: PT27M
 recipeYield: "24 servings"
 categories: ["Snacks"]
 tags:
-- "pastry"
 - "blueberry"
-- "cream cheese"
-- "crescent rolls"
-- "lemon glaze"
-- "baking tips"
 - "snack"
-- "American cuisine"
+- "cinnamon"
+- "breakfast"
+- "dessert"
 keywords:
 - "cream cheese Danish"
 - "blueberry pastries"

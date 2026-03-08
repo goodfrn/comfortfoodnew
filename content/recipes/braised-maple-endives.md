@@ -15,11 +15,11 @@ totalTime: PT55M
 recipeYield: "4 to 6 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetable side"
-- "braising"
-- "French-inspired"
-- "maple syrup"
-- "mushroom broth"
+- "vegetarian"
+- "side dish"
+- "fall"
+- "roasted"
+- "one pot"
 keywords:
 - "endives recipe"
 - "braised vegetables"

@@ -17,12 +17,9 @@ categories: ["Desserts"]
 tags:
 - "fudge"
 - "peanut butter"
-- "almond butter"
 - "chocolate"
 - "no bake"
 - "dessert"
-- "snack"
-- "American"
 keywords:
 - "peanut butter fudge"
 - "chocolate fudge topping"

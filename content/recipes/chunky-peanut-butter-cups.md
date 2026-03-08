@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "no-bake candy"
-- "frozen treats"
+- "chocolate"
 - "peanut butter"
-- "dark chocolate"
+- "candy"
+- "no bake"
+- "homemade"
 keywords:
 - "peanut butter cups"
 - "dark chocolate cups"

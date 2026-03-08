@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegetarian"
-- "French-inspired"
-- "gratin"
-- "comfort food"
+- "cheese"
 - "cauliflower"
 - "spelt"
-- "baking"
+- "comfort food"
 keywords:
 - "cauliflower gratin"
 - "spelt grains recipe"

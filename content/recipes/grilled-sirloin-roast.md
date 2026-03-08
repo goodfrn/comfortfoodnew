@@ -15,10 +15,11 @@ totalTime: PT43M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "beef"
-- "supper"
-- "fancy dinner"
+- "grilling"
+- "spice"
+- "roasted"
+- "main dish"
 keywords:
 - "sirloin roast"
 - "grilled beef"

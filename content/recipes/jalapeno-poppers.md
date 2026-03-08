@@ -15,12 +15,11 @@ totalTime: PT29M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "snack"
 - "appetizer"
-- "Tex-Mex"
 - "spicy"
 - "cheese"
-- "turkey bacon"
+- "party"
+- "bacon"
 keywords:
 - "jalapeno poppers"
 - "stuffed peppers"

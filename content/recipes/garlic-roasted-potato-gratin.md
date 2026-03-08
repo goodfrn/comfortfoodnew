@@ -15,11 +15,11 @@ totalTime: PT1H55M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "potatoes"
+- "potato"
 - "side dish"
+- "cheese"
 - "vegetarian"
-- "French-inspired"
-- "comfort food"
+- "roasted"
 keywords:
 - "potato gratin"
 - "garlic roasted potato"

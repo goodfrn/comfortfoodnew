@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "brownies"
-- "cupcakes"
 - "chocolate"
+- "cupcakes"
 - "dessert"
-- "peanut butter"
+- "comfort food"
 keywords:
 - "brownie cupcakes"
 - "bittersweet chocolate"

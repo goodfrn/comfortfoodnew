@@ -17,10 +17,9 @@ categories: ["Snacks"]
 tags:
 - "vegetarian"
 - "snack"
-- "buffet food"
-- "finger food"
-- "british tea"
-- "easy prep"
+- "cheese"
+- "eggs"
+- "sandwich"
 keywords:
 - "egg sandwiches"
 - "tea sandwiches"

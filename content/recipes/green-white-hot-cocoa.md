@@ -15,11 +15,11 @@ totalTime: PT9M
 recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
-- "hot cocoa"
-- "white chocolate"
-- "winter drinks"
-- "holiday recipes"
-- "dairy-free options"
+- "drink"
+- "chocolate"
+- "comfort food"
+- "vegetarian"
+- "easy"
 keywords:
 - "white chocolate"
 - "hot cocoa"

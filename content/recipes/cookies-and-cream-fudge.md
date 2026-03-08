@@ -16,11 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "fudge"
-- "white chocolate"
-- "cookies and cream"
-- "desserts"
-- "no-bake"
-- "American"
+- "chocolate"
+- "cookies"
+- "no bake"
+- "dessert"
 keywords:
 - "white chocolate"
 - "sweetened condensed milk"

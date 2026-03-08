@@ -15,12 +15,11 @@ totalTime: PT12H43M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "banana recipes"
-- "layered cakes"
-- "easy baking"
-- "banana pudding"
-- "coconut milk recipes"
+- "cake"
+- "banana"
+- "coconut"
+- "comfort food"
+- "dessert"
 keywords:
 - "banana pudding cake"
 - "coconut milk cake"

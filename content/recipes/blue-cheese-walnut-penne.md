@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-inspired"
+- "pasta"
 - "vegetarian"
-- "nutty pasta"
-- "cream sauce"
-- "white wine cooking"
+- "cheese"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "blue cheese pasta"
 - "penne with nuts"

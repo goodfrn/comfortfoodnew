@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian American"
-- "skillet meals"
-- "pasta recipes"
-- "cream sauce"
-- "chicken dishes"
+- "chicken"
+- "pasta"
+- "cheese"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "chicken pasta"
 - "broccoli tortellini"

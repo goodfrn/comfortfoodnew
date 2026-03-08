@@ -15,14 +15,11 @@ totalTime: PT24M
 recipeYield: "10 servings"
 categories: ["Snacks"]
 tags:
-- "chipotle"
-- "cheese toast"
-- "sourdough"
-- "snack"
-- "spicy cheese"
-- "smoked gouda"
-- "pepper jack"
-- "mozzarella"
+- "cheese"
+- "spicy"
+- "bread"
+- "appetizer"
+- "comfort food"
 keywords:
 - "chipotle cheese toast"
 - "smoked gouda toast"

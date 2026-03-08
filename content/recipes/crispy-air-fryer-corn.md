@@ -15,12 +15,11 @@ totalTime: PT17M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "American"
-- "Air Fryer"
-- "Corn"
-- "Quick"
-- "Snacks"
-- "Vegetarian"
+- "air fryer"
+- "corn"
+- "vegetarian"
+- "side dish"
+- "easy"
 keywords:
 - "air fryer corn"
 - "crispy corn"

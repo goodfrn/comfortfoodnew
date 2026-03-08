@@ -15,11 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilled fish"
-- "Asian-fusion"
-- "quick marinade"
-- "gluten-free"
-- "dairy-free"
+- "seafood"
+- "asian"
+- "grilling"
+- "easy dinner"
+- "pineapple"
 keywords:
 - "tilapia recipe"
 - "pineapple salsa"

@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "gluten-free"
 - "chicken"
-- "kale"
-- "goat cheese"
-- "dried fruit"
+- "healthy"
+- "gluten free"
+- "mediterranean"
 keywords:
 - "kale salad"
 - "chicken salad"

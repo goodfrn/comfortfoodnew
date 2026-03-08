@@ -15,11 +15,10 @@ totalTime: PT45M
 recipeYield: "10 servings"
 categories: ["Breakfast"]
 tags:
-- "American"
-- "baking"
-- "sweet rolls"
+- "breakfast"
 - "caramel"
-- "pecans"
+- "cinnamon"
+- "pecan"
 - "dessert"
 keywords:
 - "caramel rolls"

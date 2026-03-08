@@ -16,11 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "tequila"
-- "egg white"
-- "agave"
-- "bitters"
 - "citrus"
+- "drink"
+- "party"
+- "mexican"
 keywords:
 - "tequila sour"
 - "cocktail foam"

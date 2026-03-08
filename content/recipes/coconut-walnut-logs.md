@@ -16,13 +16,10 @@ recipeYield: "24 servings"
 categories: ["Snacks"]
 tags:
 - "no bake"
-- "marshmallow"
-- "nuts"
 - "chocolate"
 - "coconut"
-- "snacks"
-- "American"
-- "easy dessert"
+- "walnut"
+- "candy"
 keywords:
 - "marshmallow logs"
 - "toasted coconut strips"

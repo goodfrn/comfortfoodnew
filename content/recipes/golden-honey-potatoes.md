@@ -15,9 +15,11 @@ totalTime: PT1H40M
 recipeYield: "4 to 6 servings"
 categories: ["Side Dishes"]
 tags:
-- "potato recipes"
-- "French cuisine"
-- "holiday sides"
+- "potato"
+- "roasted"
+- "side dish"
+- "comfort food"
+- "french"
 keywords:
 - "roasted potatoes"
 - "duck fat recipes"

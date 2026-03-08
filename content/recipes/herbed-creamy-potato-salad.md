@@ -15,14 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "potato salad"
-- "herbs"
-- "Dijon mustard"
-- "basil pesto"
-- "French-inspired"
-- "lunch"
+- "salad"
+- "potato"
+- "vegetarian"
 - "side dish"
-- "creamy salad"
+- "easy"
 keywords:
 - "potato salad"
 - "herbed potato salad"

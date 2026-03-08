@@ -15,11 +15,11 @@ totalTime: PT62M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "baked pasta"
 - "comfort food"
-- "fast dinner"
-- "savory casserole"
+- "pasta"
+- "meatball"
+- "cheese"
+- "easy dinner"
 keywords:
 - "frozen meatballs"
 - "marinara sauce"

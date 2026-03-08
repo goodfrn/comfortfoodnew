@@ -15,10 +15,11 @@ totalTime: PT48M
 recipeYield: "4 to 6 servings"
 categories: ["Appetizers"]
 tags:
-- "spring recipes"
-- "appetizers"
+- "appetizer"
 - "vegetarian"
-- "puff pastry"
+- "tart"
+- "asparagus"
+- "lemon"
 keywords:
 - "asparagus tart"
 - "pea recipes"

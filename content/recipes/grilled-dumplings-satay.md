@@ -15,10 +15,11 @@ totalTime: PT1H40M
 recipeYield: "60 pieces"
 categories: ["Appetizers"]
 tags:
-- "Asian Fusion"
-- "snacks"
-- "appetizers"
-- "party food"
+- "asian"
+- "appetizer"
+- "pork"
+- "spicy"
+- "grilling"
 keywords:
 - "dumplings"
 - "satay"

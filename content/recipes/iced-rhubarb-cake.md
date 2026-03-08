@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "rhubarb"
+- "cake"
 - "crumble"
 - "dessert"
-- "baking tips"
-- "allergy safe"
+- "tart"
+- "homemade"
 keywords:
 - "rhubarb cake"
 - "crumble topping"

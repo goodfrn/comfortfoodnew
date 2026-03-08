@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: 6 servings
 categories: ["Main Dishes"]
 tags:
-- "dinner"
 - "comfort food"
-- "bake"
-- "potato"
 - "cheese"
-- "family meals"
+- "potato"
+- "ham"
+- "main dish"
 keywords:
 - "comfort food"
 - "potato dishes"

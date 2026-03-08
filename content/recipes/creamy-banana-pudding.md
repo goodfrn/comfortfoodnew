@@ -15,12 +15,11 @@ totalTime: PT23M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "banana"
-- "pudding"
-- "American"
-- "layered dessert"
-- "cornstarch"
+- "dessert"
+- "comfort food"
+- "no bake"
+- "vanilla"
 keywords:
 - "banana pudding"
 - "cornstarch pudding"

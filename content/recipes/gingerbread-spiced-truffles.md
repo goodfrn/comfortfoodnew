@@ -15,13 +15,11 @@ totalTime: PT42M
 recipeYield: "14-16 truffles"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "chocolate"
-- "gluten free"
-- "nut free"
 - "vegetarian"
-- "holiday sweets"
-- "bourbon chocolates"
+- "holiday"
+- "candy"
+- "no bake"
 keywords:
 - "milk chocolate truffles"
 - "gingerbread spices"

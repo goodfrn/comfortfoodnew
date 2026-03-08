@@ -15,13 +15,11 @@ totalTime: PT41M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "Comfort Food"
-- "Spicy"
-- "Baked Pasta"
-- "Chicken"
-- "Cheese"
-- "Weeknight Meal"
+- "comfort food"
+- "chicken"
+- "cheese"
+- "pasta"
+- "spicy"
 keywords:
 - "buffalo chicken"
 - "mac and cheese"

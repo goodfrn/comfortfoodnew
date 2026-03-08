@@ -15,12 +15,11 @@ totalTime: PT38M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "Canadian cuisine"
-- "apple desserts"
-- "maple syrup"
-- "poaching"
-- "dairy free"
-- "nut free"
+- "apple"
+- "cinnamon"
+- "coconut"
+- "comfort food"
+- "dessert"
 keywords:
 - "maple dumplings"
 - "apple stuffed dough"

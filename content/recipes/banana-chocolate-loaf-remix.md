@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "3 loaves"
 categories: ["Breads"]
 tags:
-- "banana bread"
-- "chocolate loaf"
+- "banana"
+- "chocolate"
+- "bread"
 - "dessert"
-- "baking tips"
-- "moist cakes"
+- "comfort food"
 keywords:
 - "banana loaf"
 - "chocolate chunks"

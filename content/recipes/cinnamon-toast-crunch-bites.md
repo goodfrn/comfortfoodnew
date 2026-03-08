@@ -19,8 +19,7 @@ tags:
 - "dessert"
 - "no bake"
 - "cinnamon"
-- "cheesecake"
-- "almond bark"
+- "chocolate"
 keywords:
 - "Cinnamon Toast Crunch"
 - "cream cheese dessert"

@@ -15,12 +15,11 @@ totalTime: PT1H45M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "Bundt cake"
-- "Blackberry"
-- "Ginger ale"
-- "Baking tips"
-- "Berry desserts"
+- "cake"
+- "dessert"
+- "comfort food"
+- "homemade"
+- "party"
 keywords:
 - "blackberry cake"
 - "ginger ale baking"

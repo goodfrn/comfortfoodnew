@@ -15,11 +15,10 @@ totalTime: PT3M
 recipeYield: "1 cup"
 categories: ["Breads"]
 tags:
-- "baking tips"
-- "flour substitutes"
-- "quick breads"
-- "homemade blends"
-- "kitchen hacks"
+- "homemade"
+- "bread"
+- "easy"
+- "breakfast"
 keywords:
 - "self-rising flour"
 - "cream of tartar"

@@ -15,11 +15,11 @@ totalTime: PT57M
 recipeYield: "2 servings"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "appetizers"
-- "oven baked"
-- "savory"
-- "easy recipes"
+- "snack"
+- "appetizer"
+- "vegetarian"
+- "easy"
+- "roasted"
 keywords:
 - "oyster crackers"
 - "roasted snack"

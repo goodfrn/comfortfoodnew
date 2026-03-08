@@ -15,14 +15,11 @@ totalTime: PT90M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "apple tart"
-- "French-Canadian"
-- "pastry"
+- "apple"
+- "tart"
 - "dessert"
-- "vegetarian"
-- "egg free"
-- "nut free"
+- "fall"
+- "comfort food"
 keywords:
 - "apple tart"
 - "brown sugar"

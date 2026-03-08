@@ -16,12 +16,10 @@ recipeYield: "16 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "party food"
-- "cheese ball"
 - "bacon"
-- "easy snack"
-- "make ahead"
-- "American cuisine"
+- "cheese"
+- "party"
+- "easy"
 keywords:
 - "bacon cheese ball"
 - "ranch cheese ball"

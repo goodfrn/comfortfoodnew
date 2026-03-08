@@ -15,11 +15,11 @@ totalTime: PT80M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American Comfort"
-- "Casserole"
-- "Chicken Dishes"
-- "Easy Dinner"
-- "Baked Meals"
+- "chicken"
+- "comfort food"
+- "bacon"
+- "cheese"
+- "easy dinner"
 keywords:
 - "hash browns"
 - "rotisserie chicken"

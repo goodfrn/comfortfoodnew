@@ -15,12 +15,11 @@ totalTime: PT52M
 recipeYield: "6 servings"
 categories: ["Appetizers"]
 tags:
-- "Italian-American"
 - "appetizer"
-- "egg recipes"
+- "eggs"
 - "pesto"
-- "spinach"
-- "pecorino romano"
+- "vegetarian"
+- "cheese"
 keywords:
 - "pesto egg appetizer"
 - "roasted garlic pesto"

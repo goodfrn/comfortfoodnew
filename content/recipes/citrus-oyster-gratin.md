@@ -17,9 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "seafood"
 - "appetizer"
-- "French-inspired"
-- "broil"
-- "gratin"
+- "citrus"
+- "eggs"
+- "french"
 keywords:
 - "oysters"
 - "citrus butter sauce"

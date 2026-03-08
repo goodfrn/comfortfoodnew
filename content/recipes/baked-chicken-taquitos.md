@@ -15,13 +15,11 @@ totalTime: PT40M
 recipeYield: "32 servings"
 categories: ["Snacks"]
 tags:
-- "Mexican-American"
-- "snacks"
-- "baked"
 - "chicken"
-- "taquitos"
-- "black beans"
-- "Oaxaca cheese"
+- "mexican"
+- "appetizer"
+- "snack"
+- "cheese"
 keywords:
 - "taquitos"
 - "baked chicken"

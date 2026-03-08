@@ -15,11 +15,11 @@ totalTime: PT67M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "British cuisine"
 - "beef"
-- "puff pastry"
-- "mushrooms"
-- "holiday roast"
+- "holiday"
+- "party"
+- "roasted"
+- "main dish"
 keywords:
 - "beef Wellington"
 - "duxelles mushroom"

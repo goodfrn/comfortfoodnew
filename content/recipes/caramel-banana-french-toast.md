@@ -16,10 +16,10 @@ recipeYield: 4 servings
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "dessert"
-- "easy recipes"
-- "sweet treats"
-- "French cuisine"
+- "banana"
+- "chocolate"
+- "caramel"
+- "eggs"
 keywords:
 - "banana recipes"
 - "chocolate sauce"

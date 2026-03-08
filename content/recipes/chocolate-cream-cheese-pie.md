@@ -18,9 +18,8 @@ tags:
 - "no bake"
 - "dessert"
 - "chocolate"
-- "cream cheese"
-- "marshmallow fluff"
-- "American cuisine"
+- "pie"
+- "comfort food"
 keywords:
 - "chocolate pie"
 - "cream cheese dessert"

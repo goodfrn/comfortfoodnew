@@ -15,14 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Snacks"]
 tags:
-- "American"
 - "snack"
-- "baking"
-- "frying"
 - "cheese"
-- "garlic"
-- "parsley"
-- "kitchen hacks"
+- "fried"
+- "potato"
+- "appetizer"
 keywords:
 - "garlic fries"
 - "baked cheese fries"

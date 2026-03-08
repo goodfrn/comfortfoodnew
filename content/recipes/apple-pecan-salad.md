@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "nuts"
-- "fruit"
-- "vinaigrette"
-- "American"
-- "blue cheese"
-- "pecans"
 - "apple"
+- "pecan"
+- "cheese"
+- "fall"
 keywords:
 - "pecan salad"
 - "apple salad"

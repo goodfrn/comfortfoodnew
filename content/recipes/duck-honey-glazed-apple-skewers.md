@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "grilling"
-- "skewers"
-- "duck recipes"
-- "apple dishes"
-- "French-inspired"
-- "honey glaze"
+- "duck"
+- "apple"
+- "honey"
+- "appetizer"
 keywords:
 - "duck breast cubes"
 - "apple skewers"

@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "30 servings"
 categories: ["Beverages"]
 tags:
-- "mulled cider"
-- "apple cider"
-- "spiced drinks"
-- "winter beverages"
-- "warm drinks"
+- "drink"
+- "apple"
+- "cinnamon"
+- "spice"
+- "fall"
 keywords:
 - "apple cider"
 - "mulled spices"

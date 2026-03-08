@@ -15,13 +15,11 @@ totalTime: PT73M
 recipeYield: "14 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "chocolate"
 - "cake"
 - "dessert"
-- "American cuisine"
-- "ghee"
 - "espresso"
+- "homemade"
 keywords:
 - "chocolate cake"
 - "espresso in cake"

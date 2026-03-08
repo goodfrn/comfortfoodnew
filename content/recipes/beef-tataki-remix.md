@@ -15,14 +15,11 @@ totalTime: PT29M
 recipeYield: "2 main plates or 4 appetizers"
 categories: ["Appetizers"]
 tags:
-- "Japanese-fusion"
 - "beef"
-- "marinade"
-- "quick sear"
-- "aioli"
-- "harissa"
+- "asian"
 - "citrus"
-- "arugula"
+- "spicy"
+- "appetizer"
 keywords:
 - "tataki"
 - "beef tenderloin"

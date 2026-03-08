@@ -15,14 +15,11 @@ totalTime: PT7H20M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "pie"
 - "coconut"
-- "baking"
-- "custard"
-- "whipped cream"
-- "almond milk"
-- "gluten-free option"
+- "dessert"
+- "comfort food"
+- "homemade"
 keywords:
 - "coconut pie"
 - "cornstarch custard"

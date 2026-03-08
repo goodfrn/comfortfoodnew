@@ -15,13 +15,11 @@ totalTime: PT26M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "seafood"
-- "grill"
 - "shrimp"
-- "garlic butter"
-- "summer cooking"
-- "outdoor cooking"
-- "quick meals"
+- "seafood"
+- "grilling"
+- "summer"
+- "easy dinner"
 keywords:
 - "grilled shrimp"
 - "garlic butter shrimp"

@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
-- "ramen"
-- "beef recipes"
-- "mushroom dishes"
-- "eggplant recipes"
-- "quick meals"
+- "beef"
+- "asian"
+- "spicy"
+- "easy dinner"
+- "mushroom"
 keywords:
 - "pleurote mushrooms"
 - "eggplant ramen"

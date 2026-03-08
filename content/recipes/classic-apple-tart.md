@@ -15,11 +15,11 @@ totalTime: PT95M
 recipeYield: 10 servings
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "tart"
-- "baking"
-- "French cuisine"
 - "apple"
+- "tart"
+- "dessert"
+- "fall"
+- "homemade"
 keywords:
 - "apple pie"
 - "tart recipe"

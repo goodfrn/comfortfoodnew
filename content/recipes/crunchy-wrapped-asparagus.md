@@ -17,9 +17,9 @@ categories: ["Appetizers"]
 tags:
 - "appetizer"
 - "vegetarian"
-- "French-inspired"
-- "finger food"
-- "spring produce"
+- "asparagus"
+- "roasted"
+- "french"
 keywords:
 - "asparagus"
 - "filo pastry"

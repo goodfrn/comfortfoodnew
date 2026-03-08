@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "American baking"
-- "oatmeal desserts"
-- "whole wheat recipes"
-- "brown sugar cake"
-- "pudding frosting"
+- "cake"
+- "comfort food"
+- "oatmeal"
+- "spice"
+- "homemade"
 keywords:
 - "oatmeal cake"
 - "whole wheat flour"

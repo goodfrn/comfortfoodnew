@@ -17,9 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "seafood"
 - "grilling"
-- "pickling"
-- "fish recipes"
-- "papillote"
+- "spicy"
+- "healthy"
+- "easy dinner"
 keywords:
 - "halibut recipe"
 - "Lebanese cucumbers"

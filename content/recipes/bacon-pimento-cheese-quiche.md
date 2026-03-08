@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "quiche"
-- "bacon recipes"
-- "southern cooking"
-- "egg dishes"
-- "cheese recipes"
-- "savory pies"
+- "bacon"
+- "cheese"
+- "eggs"
+- "pie"
 keywords:
 - "quiche recipe"
 - "bacon and cheese quiche"

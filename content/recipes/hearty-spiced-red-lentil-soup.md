@@ -15,12 +15,11 @@ totalTime: PT70M
 recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
-- "lentils"
-- "Mediterranean"
+- "soup"
 - "vegetarian"
 - "comfort food"
-- "soups"
-- "one pot"
+- "lentils"
+- "spice"
 keywords:
 - "lentil soup"
 - "Mediterranean lentil"

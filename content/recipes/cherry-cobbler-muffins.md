@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
 - "muffins"
 - "cherry"
-- "streusel"
 - "dessert"
+- "breakfast"
+- "cinnamon"
 keywords:
 - "cherry muffins"
 - "streusel topping"

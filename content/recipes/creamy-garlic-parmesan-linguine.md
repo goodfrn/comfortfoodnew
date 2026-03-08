@@ -15,12 +15,11 @@ totalTime: PT29M
 recipeYield: "4 servings"
 categories: ["Pasta and Noodles"]
 tags:
-- "Italian-inspired"
 - "pasta"
-- "garlic"
-- "Parmesan"
-- "mascarpone"
-- "creamy sauce"
+- "cheese"
+- "vegetarian"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "linguine"
 - "Parmesan cheese"

@@ -18,8 +18,8 @@ tags:
 - "seafood"
 - "lobster"
 - "crab"
-- "baking"
-- "American cuisine"
+- "roasted"
+- "main dish"
 keywords:
 - "lobster tails"
 - "crab meat"

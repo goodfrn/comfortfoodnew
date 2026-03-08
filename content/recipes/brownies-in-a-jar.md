@@ -15,12 +15,10 @@ totalTime: PT27M
 recipeYield: "1 jar 750 ml"
 categories: ["Desserts"]
 tags:
-- "vegetarian dessert"
-- "jar baking"
-- "dry mix"
-- "carob powder"
-- "cranberries"
-- "gift ideas"
+- "brownies"
+- "vegetarian"
+- "dessert"
+- "homemade"
 keywords:
 - "brownies jar mix"
 - "carob powder dessert"

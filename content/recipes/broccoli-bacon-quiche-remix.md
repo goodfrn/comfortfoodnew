@@ -16,11 +16,10 @@ recipeYield: "4 to 6 servings"
 categories: ["Main Dishes"]
 tags:
 - "quiche"
-- "pancetta"
-- "broccolini"
-- "feta cheese"
-- "blind baking"
-- "French-inspired"
+- "breakfast"
+- "cheese"
+- "bacon"
+- "eggs"
 keywords:
 - "blind bake crust"
 - "nutmeg custard"

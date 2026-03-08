@@ -15,13 +15,11 @@ totalTime: PT10M
 recipeYield: "6 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "sauce"
-- "butter sauce"
-- "sage"
-- "garlic"
-- "American"
-- "quick sauce"
-- "brown butter"
+- "vegetarian"
+- "easy"
+- "condiment"
+- "homemade"
+- "side dish"
 keywords:
 - "brown butter"
 - "sage sauce"

@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "vegan"
-- "plant-based"
 - "soup"
 - "healthy"
-- "quick meal"
+- "vegetarian"
+- "broccoli"
+- "easy dinner"
 keywords:
 - "broccoli recipe"
 - "carrot puree"

@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "casserole"
+- "comfort food"
 - "bacon"
-- "easy meals"
-- "tater tots"
-- "cheddar cheese"
+- "eggs"
+- "easy dinner"
 keywords:
 - "tater tots"
 - "egg casserole"

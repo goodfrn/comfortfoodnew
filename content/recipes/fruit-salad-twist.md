@@ -16,9 +16,10 @@ recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
 - "vegan"
-- "gluten-free"
-- "healthy dessert"
-- "easy recipe"
+- "gluten free"
+- "salad"
+- "summer"
+- "no bake"
 keywords:
 - "fruit salad"
 - "maple syrup"

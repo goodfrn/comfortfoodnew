@@ -17,9 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "breakfast"
 - "healthy"
-- "oats"
-- "Irish"
-- "easy recipes"
+- "oatmeal"
+- "cinnamon"
+- "pressure cooker"
 keywords:
 - "steel-cut oats"
 - "orange zest"

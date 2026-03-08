@@ -16,13 +16,10 @@ recipeYield: "4 to 6 servings"
 categories: ["Side Dishes"]
 tags:
 - "vegetarian"
-- "gluten-free"
-- "North African inspired"
-- "quick meals"
-- "vegan butter"
-- "pistachios"
-- "cumin"
-- "lemon juice"
+- "cauliflower"
+- "couscous"
+- "pistachio"
+- "healthy"
 keywords:
 - "cauliflower couscous"
 - "golden raisins"

@@ -15,12 +15,11 @@ totalTime: PT23M
 recipeYield: "2 servings"
 categories: ["Pizza and Flatbreads"]
 tags:
-- "Mediterranean"
-- "flatbread"
 - "vegetarian"
-- "quick meals"
-- "snacks"
-- "oven baked"
+- "cheese"
+- "bread"
+- "pizza"
+- "walnut"
 keywords:
 - "kale pesto"
 - "pita pizza"

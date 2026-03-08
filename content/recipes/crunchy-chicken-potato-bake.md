@@ -15,11 +15,9 @@ totalTime: PT1H25M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American comfort"
-- "potato bake"
-- "cheddar cheese"
-- "casserole"
-- "make ahead"
+- "comfort food"
+- "potato"
+- "chicken"
 - "easy dinner"
 keywords:
 - "shredded potatoes"

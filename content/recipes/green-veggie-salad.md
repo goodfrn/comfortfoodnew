@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
+- "salad"
 - "vegetarian"
-- "green salad"
-- "yogurt dressing"
-- "French-inspired"
-- "gluten-free"
-- "egg-free"
+- "roasted"
+- "healthy"
+- "asparagus"
 keywords:
 - "green salad"
 - "roasted shallots"

@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "vegetarian"
-- "French-inspired"
 - "breakfast"
-- "mushroom recipes"
-- "easy omelette"
+- "vegetarian"
+- "mushroom"
+- "cheese"
+- "eggs"
 keywords:
 - "mushroom omelette"
 - "baked omelette"

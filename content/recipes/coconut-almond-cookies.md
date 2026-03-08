@@ -15,11 +15,11 @@ totalTime: PT27M
 recipeYield: 10 cookies
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cookies"
 - "vegan"
-- "snacks"
-- "gluten-free"
+- "coconut"
+- "almond"
+- "cinnamon"
 keywords:
 - "coconut"
 - "almond"

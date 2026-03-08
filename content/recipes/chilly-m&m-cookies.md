@@ -16,12 +16,10 @@ recipeYield: "36 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "nuts"
-- "chilled dough"
-- "American baking"
+- "pecan"
 - "dessert"
-- "snacks"
-- "chocolate alternatives"
+- "comfort food"
+- "american"
 keywords:
 - "M&M cookies"
 - "pecan cookies"

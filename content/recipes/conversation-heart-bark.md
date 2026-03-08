@@ -16,10 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "candy"
-- "valentine"
 - "chocolate"
-- "swirl"
-- "candy bark"
+- "no bake"
+- "party"
+- "dessert"
 keywords:
 - "conversation hearts"
 - "candy wafers"

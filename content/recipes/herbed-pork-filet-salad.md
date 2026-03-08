@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "pork"
-- "pasta salad"
-- "French-inspired"
-- "herbs"
-- "marinade"
-- "summer dishes"
-- "yogurt dressing"
+- "pasta"
+- "salad"
+- "summer"
+- "roasted"
 keywords:
 - "pork filet"
 - "pasta salad"

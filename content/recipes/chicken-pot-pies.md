@@ -15,11 +15,11 @@ totalTime: PT1H25M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "French-inspired"
-- "puff pastry"
-- "individual servings"
-- "freezer friendly"
+- "chicken"
+- "pie"
 - "comfort food"
+- "easy dinner"
+- "main dish"
 keywords:
 - "puff pastry"
 - "chicken pot pie"

@@ -15,10 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
+- "cocktail"
 - "chocolate"
-- "party drinks"
-- "nut-free"
+- "party"
+- "hazelnut"
+- "almond"
 keywords:
 - "chocolate drink"
 - "alcoholic beverage"

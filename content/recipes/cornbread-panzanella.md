@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "Italian-American"
 - "salad"
+- "summer"
 - "cornbread"
-- "summer cooking"
-- "leafy greens"
+- "bacon"
+- "lemon"
 keywords:
 - "cornbread salad"
 - "summer vegetable salad"

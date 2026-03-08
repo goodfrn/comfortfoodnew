@@ -15,10 +15,11 @@ totalTime: PT40M
 recipeYield: 4 servings
 categories: ["Soups"]
 tags:
-- "cooking"
 - "vegan"
 - "healthy"
 - "soup"
+- "appetizer"
+- "summer"
 keywords:
 - "refreshing soup"
 - "cold soup recipe"

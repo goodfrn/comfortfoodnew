@@ -15,11 +15,11 @@ totalTime: PT18M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
+- "chicken"
 - "grilling"
-- "summer meals"
-- "chicken recipes"
-- "fruit salsa"
-- "quick meals"
+- "summer"
+- "peach"
+- "salsa"
 keywords:
 - "grilled chicken"
 - "peach salsa"

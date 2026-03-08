@@ -15,11 +15,11 @@ totalTime: PT21M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "American Fusion"
-- "Salads"
-- "Quick Meals"
-- "High Sodium"
-- "Gluten Free Option"
+- "salad"
+- "chicken"
+- "turkey"
+- "corn"
+- "avocado"
 keywords:
 - "chopped chicken salad"
 - "spicy tortilla chips"

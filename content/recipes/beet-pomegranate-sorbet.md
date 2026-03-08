@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Frozen Treats"]
 tags:
 - "vegan"
-- "gluten-free"
-- "dairy-free"
-- "frozen dessert"
-- "healthy dessert"
-- "sorbet"
-- "beet recipes"
+- "gluten free"
+- "healthy"
+- "dessert"
+- "no bake"
 keywords:
 - "beet sorbet"
 - "pomegranate juice dessert"

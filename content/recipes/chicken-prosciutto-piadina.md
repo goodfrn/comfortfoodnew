@@ -15,12 +15,11 @@ totalTime: PT31M
 recipeYield: "1 serving"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "Italian inspired"
-- "handheld sandwich"
-- "quick meal"
-- "weeknight fix"
-- "spinach prep"
-- "pan-toasted sandwich"
+- "chicken"
+- "sandwich"
+- "italian"
+- "cheese"
+- "easy dinner"
 keywords:
 - "chicken sandwich"
 - "provolone cheese"

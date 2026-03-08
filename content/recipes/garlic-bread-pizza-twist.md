@@ -15,12 +15,11 @@ totalTime: PT32M
 recipeYield: "4-6 servings"
 categories: ["Snacks"]
 tags:
-- "Italian-American"
-- "oven baked"
-- "savory snack"
-- "quick meal"
-- "cheesy bread"
-- "garlic flavor"
+- "pizza"
+- "bread"
+- "cheese"
+- "sausage"
+- "appetizer"
 keywords:
 - "garlic bread"
 - "pizza twist"

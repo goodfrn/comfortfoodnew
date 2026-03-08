@@ -16,11 +16,10 @@ recipeYield: "about 1 1/4 cups"
 categories: ["Desserts"]
 tags:
 - "vegan"
-- "gluten-free"
-- "allergy-friendly"
-- "royal icing"
-- "baking tips"
-- "dessert glaze"
+- "gluten free"
+- "dessert"
+- "homemade"
+- "lemon"
 keywords:
 - "aquafaba"
 - "royal icing"

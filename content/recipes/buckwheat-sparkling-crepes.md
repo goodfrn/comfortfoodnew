@@ -15,10 +15,10 @@ totalTime: PT50M
 recipeYield: 12
 categories: ["Breakfast"]
 tags:
-- "buckwheat"
-- "crêpes"
-- "gluten-free"
-- "brunch"
+- "breakfast"
+- "vegetarian"
+- "eggs"
+- "easy"
 - "dessert"
 keywords:
 - "buckwheat flour"

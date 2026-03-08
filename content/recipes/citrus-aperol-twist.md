@@ -15,11 +15,11 @@ totalTime: PT9M
 recipeYield: 1 serving
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "summer drinks"
-- "Italian cuisine"
-- "aperitif"
-- "sparkling wine"
+- "cocktail"
+- "citrus"
+- "summer"
+- "party"
+- "easy"
 keywords:
 - "Aperol spritz"
 - "citrus cocktails"

@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
-- "summer dish"
-- "grilling"
 - "vegetarian"
-- "easy dinner"
-- "fresh basil"
-- "smoky flavor"
+- "grilling"
+- "cheese"
+- "summer"
+- "appetizer"
 keywords:
 - "grilled peaches"
 - "burrata cheese"

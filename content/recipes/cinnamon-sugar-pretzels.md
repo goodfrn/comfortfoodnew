@@ -16,12 +16,10 @@ recipeYield: "15 servings"
 categories: ["Snacks"]
 tags:
 - "snack"
-- "baking"
 - "cinnamon"
-- "pretzels"
-- "oven baked"
-- "spice"
-- "easy snacks"
+- "pretzel"
+- "easy"
+- "comfort food"
 keywords:
 - "cinnamon sugar"
 - "pretzel snack"

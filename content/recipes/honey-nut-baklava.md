@@ -15,12 +15,11 @@ totalTime: PT1H50M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "Mediterranean"
-- "dessert"
-- "nuts"
-- "phyllo"
 - "honey"
-- "baking"
+- "walnut"
+- "pecan"
+- "cinnamon"
+- "dessert"
 keywords:
 - "baklava"
 - "honey syrup"

@@ -16,11 +16,10 @@ recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
 - "cinnamon"
-- "white chocolate"
-- "cream cheese frosting"
-- "snacks"
+- "chocolate"
+- "comfort food"
+- "homemade"
 keywords:
 - "cinnamon cookies"
 - "crunch cookies"

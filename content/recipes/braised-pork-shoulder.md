@@ -16,10 +16,10 @@ recipeYield: 8 servings
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "braised"
+- "slow cooker"
 - "citrus"
-- "dinner"
-- "comfort food"
+- "cinnamon"
+- "asian"
 keywords:
 - "braised pork"
 - "pork shoulder recipe"

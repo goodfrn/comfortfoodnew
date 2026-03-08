@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "potatoes"
-- "garlic"
-- "American cuisine"
 - "comfort food"
-- "easy side dish"
-- "herbs"
+- "potato"
+- "side dish"
+- "vegetarian"
+- "easy"
 keywords:
 - "mashed potatoes"
 - "garlic mash"

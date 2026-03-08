@@ -17,8 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "healthy"
-- "quick meals"
 - "vegetarian"
+- "citrus"
+- "lemon"
 keywords:
 - "salad recipe"
 - "citrus dressing"

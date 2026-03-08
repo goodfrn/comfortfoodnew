@@ -15,16 +15,11 @@ totalTime: PT50M
 recipeYield: "3 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mediterranean"
-- "Baked Pasta"
-- "Feta"
-- "Roasted Tomatoes"
-- "Fusilli"
-- "Olives"
-- "Garlic"
-- "Basil"
-- "Chili Flakes"
-- "Lemon Zest"
+- "pasta"
+- "vegetarian"
+- "cheese"
+- "mediterranean"
+- "easy dinner"
 keywords:
 - "feta tomato pasta"
 - "roasted cherry tomatoes"

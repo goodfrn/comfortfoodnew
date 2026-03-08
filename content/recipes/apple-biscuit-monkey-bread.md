@@ -15,12 +15,11 @@ totalTime: PT34M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American baking"
-- "sweet bread"
-- "pull-apart"
-- "apple desserts"
-- "easy baking"
-- "brown sugar treats"
+- "apple"
+- "bread"
+- "cinnamon"
+- "dessert"
+- "easy"
 keywords:
 - "apple biscuit bread"
 - "bundt pan monkey bread"

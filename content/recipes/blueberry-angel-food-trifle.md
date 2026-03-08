@@ -15,11 +15,11 @@ totalTime: PT7H55M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "no bake"
-- "layered dessert"
 - "blueberry"
-- "angel food cake"
-- "easy dessert"
+- "cake"
+- "no bake"
+- "party"
+- "dessert"
 keywords:
 - "angel food cake"
 - "blueberry pie filling"

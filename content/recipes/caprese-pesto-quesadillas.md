@@ -15,12 +15,11 @@ totalTime: PT17M
 recipeYield: "2 servings"
 categories: ["Snacks"]
 tags:
-- "Fusion"
-- "Quick Snacks"
-- "Italian-Mexican"
-- "Mozzarella"
-- "Basil Pesto"
-- "Sun-Dried Tomatoes"
+- "snack"
+- "cheese"
+- "vegetarian"
+- "mexican"
+- "pesto"
 keywords:
 - "quesadilla recipe"
 - "Caprese quesadilla"

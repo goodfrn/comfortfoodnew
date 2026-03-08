@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "brownies"
-- "espresso"
 - "chocolate"
-- "quick bake"
-- "box mix"
-- "coffee flavor"
+- "espresso"
+- "dessert"
+- "comfort food"
 keywords:
 - "brownies"
 - "espresso powder"

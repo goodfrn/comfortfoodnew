@@ -16,12 +16,10 @@ recipeYield: "310 ml"
 categories: ["Sauces and Condiments"]
 tags:
 - "chutney"
-- "preserves"
-- "fruit condiment"
-- "balsamic vinegar"
 - "blueberry"
-- "apricots"
-- "simmer"
+- "condiment"
+- "cheese"
+- "bread"
 keywords:
 - "chutney recipe"
 - "fruit preserve"

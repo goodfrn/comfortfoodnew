@@ -15,12 +15,11 @@ totalTime: PT135M
 recipeYield: "10 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "Italian-inspired"
+- "grilling"
+- "italian"
+- "summer"
 - "vegan"
-- "gluten-free"
-- "summer recipe"
-- "slow simmer"
-- "grilled vegetables"
+- "condiment"
 keywords:
 - "grilled tomatoes"
 - "BBQ tomato sauce"

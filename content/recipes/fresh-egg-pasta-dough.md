@@ -15,12 +15,11 @@ totalTime: PT28M
 recipeYield: "850 g dough, serves 4-6"
 categories: ["Pasta and Noodles"]
 tags:
-- "Italian"
+- "italian"
 - "pasta"
 - "homemade"
-- "egg dough"
-- "stuffed pasta"
-- "semolina"
+- "eggs"
+- "vegetarian"
 keywords:
 - "egg pasta dough"
 - "pasta dough with olive oil"

@@ -15,11 +15,11 @@ totalTime: PT1H27M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "baking"
-- "pastry"
-- "dessert"
+- "breakfast"
 - "homemade"
-- "American cuisine"
+- "spinach"
+- "tart"
+- "coconut"
 keywords:
 - "pop tarts"
 - "spinach filling"

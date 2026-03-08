@@ -15,12 +15,11 @@ totalTime: PT60M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Italian-American"
-- "soup"
-- "tortellini"
-- "sausage"
 - "comfort food"
-- "one pot meal"
+- "soup"
+- "sausage"
+- "one pot"
+- "easy dinner"
 keywords:
 - "sausage tortellini soup"
 - "cream cheese soup"

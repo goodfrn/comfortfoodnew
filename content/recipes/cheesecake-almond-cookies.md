@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "30 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "cookie"
-- "almond extract"
-- "cream cheese"
-- "baking tips"
+- "cookies"
+- "comfort food"
+- "snack"
+- "almond"
+- "homemade"
 keywords:
 - "cheesecake cookies"
 - "almond cookies"

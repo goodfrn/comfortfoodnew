@@ -15,13 +15,11 @@ totalTime: PT31M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American comfort"
-- "chicken main dish"
-- "one pan meal"
-- "garlic sauce"
-- "bacon recipes"
-- "creamy sauce"
-- "weeknight dinners"
+- "chicken"
+- "bacon"
+- "comfort food"
+- "easy dinner"
+- "one pot"
 keywords:
 - "garlic chicken"
 - "creamy chicken recipe"

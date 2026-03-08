@@ -15,12 +15,11 @@ totalTime: PT21M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "vegetarian"
-- "gluten-free"
 - "breakfast"
-- "brunch"
-- "nutty"
-- "yogurt bowl"
+- "gluten free"
+- "healthy"
+- "honey"
+- "quinoa"
 keywords:
 - "puffed quinoa"
 - "brown butter"

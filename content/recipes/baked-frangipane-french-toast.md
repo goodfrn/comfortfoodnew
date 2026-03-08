@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: 6 servings
 categories: ["Breakfast"]
 tags:
-- "French cuisine"
-- "brunch"
+- "breakfast"
 - "dessert"
-- "baked goods"
+- "almond"
+- "pecan"
+- "cranberry"
 keywords:
 - "brunch ideas"
 - "custard soaked bread"

@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "gluten-free"
-- "dairy-free"
+- "chicken"
+- "fall"
 - "easy dinner"
-- "autumn recipes"
-- "French-inspired"
-- "weeknight meals"
+- "soup"
+- "one pot"
 keywords:
 - "chicken pot"
 - "parsnip recipes"

@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "fried dessert"
+- "fried"
 - "banana"
-- "phyllo"
-- "cheesecake"
-- "freezer friendly"
+- "cheese"
+- "comfort food"
 keywords:
 - "fried dessert"
 - "banana cheesecake"

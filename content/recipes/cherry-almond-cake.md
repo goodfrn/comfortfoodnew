@@ -15,10 +15,11 @@ totalTime: PT8H15M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "layered cake"
-- "make-ahead dessert"
-- "chilled cake"
+- "cake"
+- "cherry"
+- "almond"
+- "dessert"
+- "party"
 keywords:
 - "angel food cake"
 - "cherry pie filling"

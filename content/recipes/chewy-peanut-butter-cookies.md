@@ -17,9 +17,9 @@ categories: ["Desserts"]
 tags:
 - "cookies"
 - "peanut butter"
+- "chocolate"
 - "dessert"
-- "American"
-- "baking tips"
+- "comfort food"
 keywords:
 - "peanut butter cookies"
 - "chewy cookies"

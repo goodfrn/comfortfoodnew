@@ -18,11 +18,8 @@ tags:
 - "lamb"
 - "citrus"
 - "honey"
-- "roasting"
-- "French-inspired"
-- "thyme"
-- "sauce reduction"
-- "medium rare"
+- "roasted"
+- "main dish"
 keywords:
 - "seared lamb racks"
 - "honey citrus glaze"

@@ -15,11 +15,11 @@ totalTime: PT40M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "holiday dessert"
-- "American cuisine"
-- "fall flavors"
-- "pudding cake"
-- "easy desserts"
+- "cake"
+- "holiday"
+- "dessert"
+- "easy"
+- "pumpkin"
 keywords:
 - "eggnog cake"
 - "poke cake recipe"

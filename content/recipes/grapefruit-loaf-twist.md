@@ -15,15 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "citrus bread"
-- "glazed loaf"
-- "cardamom"
-- "yogurt baking"
-- "french inspired"
-- "sweet bread"
-- "brown sugar"
-- "fruit zest"
-- "dessert bread"
+- "bread"
+- "citrus"
+- "dessert"
+- "breakfast"
+- "caramel"
 keywords:
 - "grapefruit loaf"
 - "brown sugar bread"

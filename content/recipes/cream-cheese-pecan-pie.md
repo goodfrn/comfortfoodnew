@@ -15,13 +15,11 @@ totalTime: PT1H7M
 recipeYield: "2 pies"
 categories: ["Desserts"]
 tags:
-- "pecan pie"
-- "cream cheese"
-- "pecan filling"
-- "american dessert"
-- "maple syrup"
-- "bourbon vanilla"
-- "pie baking tips"
+- "pie"
+- "pecan"
+- "cheese"
+- "comfort food"
+- "dessert"
 keywords:
 - "pecan pie"
 - "cream cheese layer"

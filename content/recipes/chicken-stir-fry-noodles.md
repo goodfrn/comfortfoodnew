@@ -15,14 +15,11 @@ totalTime: PT29M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
-- "stir fry"
-- "rice noodles"
-- "quick dinner"
 - "chicken"
-- "weeknight meals"
-- "sesame oil"
-- "cabbage"
+- "asian"
+- "easy dinner"
+- "rice"
+- "sesame"
 keywords:
 - "rice noodles"
 - "chicken thighs"

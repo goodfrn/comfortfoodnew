@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
-- "pretzels"
-- "baking"
-- "American"
+- "bread"
+- "homemade"
 - "snack"
-- "yeast dough"
-- "baking soda bath"
+- "comfort food"
+- "american"
 keywords:
 - "pretzel recipe"
 - "homemade pretzels"

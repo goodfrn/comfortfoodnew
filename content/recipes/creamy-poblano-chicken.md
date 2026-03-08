@@ -15,10 +15,10 @@ totalTime: PT1H25M
 recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
-- "Mexican cuisine"
 - "chicken"
-- "cream sauce"
-- "fusion dish"
+- "mexican"
+- "grilling"
+- "easy dinner"
 keywords:
 - "chicken recipe"
 - "poblano peppers"

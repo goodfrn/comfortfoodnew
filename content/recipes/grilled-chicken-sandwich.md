@@ -15,14 +15,11 @@ totalTime: PT52M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "grilled chicken"
-- "scallion sauce"
+- "chicken"
 - "sandwich"
-- "soy sauce"
-- "honey glaze"
-- "chicken thighs"
-- "French-inspired"
+- "grilling"
 - "easy dinner"
+- "asian"
 keywords:
 - "grilled chicken"
 - "scallion sauce"

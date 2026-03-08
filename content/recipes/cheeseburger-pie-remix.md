@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "savory pie"
-- "baked cheese"
-- "meat dish"
+- "beef"
+- "cheese"
+- "pie"
 - "comfort food"
+- "easy dinner"
 keywords:
 - "ground beef"
 - "sharp cheddar"

@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "grilling"
-- "meat skewers"
 - "pork"
 - "beef"
-- "herbs"
-- "summer cooking"
-- "outdoor grill"
+- "summer"
+- "party"
 keywords:
 - "grilled skewers"
 - "herb salt"

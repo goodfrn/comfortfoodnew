@@ -17,11 +17,9 @@ categories: ["Soups"]
 tags:
 - "soup"
 - "chicken"
-- "French-Canadian"
 - "comfort food"
-- "homemade"
 - "rice"
-- "fall recipes"
+- "homemade"
 keywords:
 - "chicken broth"
 - "parboiled rice"

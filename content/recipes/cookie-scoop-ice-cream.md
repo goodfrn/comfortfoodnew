@@ -15,12 +15,11 @@ totalTime: PT2H10M
 recipeYield: "6 servings"
 categories: ["Frozen Treats"]
 tags:
-- "ice cream"
 - "dessert"
-- "cookie dough"
 - "vanilla"
-- "chilled dessert"
-- "folded ice cream"
+- "chocolate"
+- "no bake"
+- "comfort food"
 keywords:
 - "cookie dough"
 - "vanilla ice cream"

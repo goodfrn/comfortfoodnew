@@ -15,11 +15,11 @@ totalTime: PT19M
 recipeYield: "310 ml"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "beverage"
-- "syrup"
-- "fresh ingredients"
 - "cocktail"
-- "easy recipe"
+- "drink"
+- "citrus"
+- "summer"
+- "easy"
 keywords:
 - "grapefruit recipe"
 - "rosemary cocktail"

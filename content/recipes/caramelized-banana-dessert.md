@@ -16,10 +16,10 @@ recipeYield: "1 serving"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "vegan"
 - "grilling"
-- "quick recipe"
-- "fruit"
+- "vegetarian"
+- "banana"
+- "caramel"
 keywords:
 - "banana foil recipe"
 - "tropical dessert"

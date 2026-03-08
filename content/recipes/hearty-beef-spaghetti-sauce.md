@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
+- "beef"
 - "pasta"
-- "beef sauce"
 - "comfort food"
-- "quick dinner"
+- "easy dinner"
+- "one pot"
 keywords:
 - "spaghetti sauce"
 - "ground beef"

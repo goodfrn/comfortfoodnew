@@ -15,12 +15,11 @@ totalTime: PT2H
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Eastern European"
 - "comfort food"
-- "slow baked"
-- "ground beef"
-- "cabbage recipes"
-- "homemade filling"
+- "beef"
+- "cabbage"
+- "rice"
+- "one pot"
 keywords:
 - "cabbage leaves"
 - "ground beef filling"

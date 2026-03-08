@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "roasting"
+- "roasted"
 - "dry rub"
-- "sear"
-- "American cuisine"
 - "easy dinner"
-- "weeknight meal"
-- "meat thermometer"
+- "main dish"
 keywords:
 - "pork tenderloin"
 - "herb butter roast"

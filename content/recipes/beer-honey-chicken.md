@@ -15,13 +15,11 @@ totalTime: PT1H22M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "chicken"
-- "marinade"
-- "beer recipes"
+- "grilling"
 - "honey"
-- "american cuisine"
-- "summer cooking"
+- "summer"
+- "easy dinner"
 keywords:
 - "marinated chicken"
 - "grilled chicken recipe"

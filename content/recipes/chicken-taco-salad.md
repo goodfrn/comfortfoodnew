@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "6 servings"
 categories: ["Salads"]
 tags:
-- "Mexican"
 - "salad"
-- "grilled chicken"
-- "avocado"
-- "quick meals"
-- "dressing"
+- "chicken"
+- "mexican"
+- "grilling"
+- "healthy"
 keywords:
 - "chicken salad"
 - "taco salad"

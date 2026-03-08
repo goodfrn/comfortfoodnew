@@ -15,15 +15,11 @@ totalTime: PT47M
 recipeYield: "4 servings"
 categories: ["Pizza and Flatbreads"]
 tags:
-- "Caribbean"
-- "pizza"
 - "chicken"
-- "cornmeal"
+- "pizza"
 - "spicy"
+- "grilling"
 - "homemade"
-- "oven-baked"
-- "chipotle"
-- "honey"
 keywords:
 - "jerk chicken"
 - "cornmeal crust"

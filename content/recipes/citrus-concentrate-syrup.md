@@ -16,11 +16,10 @@ recipeYield: "60 ml"
 categories: ["Sauces and Condiments"]
 tags:
 - "citrus"
-- "syrup"
-- "infusion"
-- "maceration"
-- "cocktails"
-- "dessert topping"
+- "lemon"
+- "cocktail"
+- "condiment"
+- "homemade"
 keywords:
 - "citrus syrup"
 - "zest infusion"

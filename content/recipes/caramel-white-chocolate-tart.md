@@ -15,12 +15,11 @@ totalTime: PT4H15M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "caramelized chocolate"
-- "meringue"
 - "tart"
-- "quinoa garnish"
-- "citrus zest"
+- "chocolate"
+- "caramel"
+- "citrus"
+- "dessert"
 keywords:
 - "white chocolate tart"
 - "tangerine dessert"

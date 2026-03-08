@@ -15,11 +15,11 @@ totalTime: PT170M
 recipeYield: 6
 categories: ["Main Dishes"]
 tags:
+- "beef"
 - "cabbage"
-- "ground turkey"
-- "baked dish"
-- "casserole"
-- "healthy meal"
+- "rice"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "cabbage layers"
 - "comfort food"

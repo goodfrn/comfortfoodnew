@@ -17,8 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "tofu"
 - "vegetarian"
-- "quick meals"
-- "Asian"
+- "asian"
+- "easy dinner"
+- "spicy"
 keywords:
 - "Asian-inspired"
 - "quick tofu meals"

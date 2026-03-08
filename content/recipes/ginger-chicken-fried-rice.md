@@ -15,12 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian fusion"
-- "stir-fry"
-- "chicken recipes"
-- "fried rice"
-- "quick meals"
-- "dairy-free"
+- "chicken"
+- "asian"
+- "rice"
+- "easy dinner"
+- "healthy"
 keywords:
 - "ginger chicken"
 - "fried rice"

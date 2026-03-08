@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "1 serving"
 categories: ["Sauces and Condiments"]
 tags:
-- "coconut curry"
-- "fusion sauce"
-- "quick curry"
-- "no cook sauce"
-- "tamari substitute"
+- "coconut"
+- "asian"
+- "spicy"
+- "condiment"
+- "easy"
 keywords:
 - "coconut milk sauce"
 - "red curry paste"

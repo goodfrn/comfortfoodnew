@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "slow cooker"
-- "Italian-American"
-- "pasta bake"
+- "pasta"
+- "beef"
+- "cheese"
 - "comfort food"
-- "beef recipes"
-- "cheese bake"
 keywords:
 - "crockpot ziti"
 - "slow cooker Italian"

@@ -17,11 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "beef"
 - "pasta"
-- "cheddar"
-- "weeknight meals"
-- "one pot"
 - "comfort food"
-- "smoky flavor"
+- "one pot"
+- "easy dinner"
 keywords:
 - "beef pasta recipe"
 - "ground beef dinner"

@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "6 servings"
 categories: ["Breakfast"]
 tags:
-- "souffle"
-- "baking"
-- "egg whites"
-- "cheddar cheese"
+- "cheese"
+- "eggs"
 - "ham"
-- "American cuisine"
+- "appetizer"
+- "comfort food"
 keywords:
 - "soufflé"
 - "ham and cheddar"

@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "36 pieces"
 categories: ["Desserts"]
 tags:
-- "holiday dessert"
+- "holiday"
 - "fudge"
-- "white chocolate"
-- "eggnog"
-- "spiced sweets"
+- "chocolate"
+- "candy"
+- "no bake"
 keywords:
 - "eggnog fudge"
 - "white chocolate fudge"

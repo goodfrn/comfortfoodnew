@@ -16,12 +16,10 @@ recipeYield: "24 pieces"
 categories: ["Snacks"]
 tags:
 - "no bake"
-- "gluten free"
-- "dairy free"
 - "snack"
 - "chocolate"
-- "nuts"
-- "quick prep"
+- "candy"
+- "hazelnut"
 keywords:
 - "chocolate cereal bites"
 - "gluten free snack"

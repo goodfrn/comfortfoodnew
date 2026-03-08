@@ -15,11 +15,11 @@ totalTime: PT1H
 recipeYield: "48 cookies"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cookies"
-- "baking"
-- "ginger"
-- "cardamom"
+- "dessert"
+- "spice"
+- "honey"
+- "molasses"
 keywords:
 - "ginger cookies"
 - "chewy cookies"

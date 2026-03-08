@@ -15,11 +15,11 @@ totalTime: PT29M
 recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
-- "fish"
-- "frying"
 - "seafood"
-- "beer batter"
-- "American cuisine"
+- "fried"
+- "appetizer"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "beer batter"
 - "crispy cod"

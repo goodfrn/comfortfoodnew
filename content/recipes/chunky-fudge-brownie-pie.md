@@ -15,13 +15,11 @@ totalTime: PT1H30M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "dessert"
 - "brownies"
-- "pie"
 - "chocolate"
-- "walnuts"
-- "American cuisine"
+- "pie"
+- "dessert"
+- "comfort food"
 keywords:
 - "brownie pie"
 - "par-baked pie crust"

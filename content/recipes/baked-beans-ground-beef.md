@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "one skillet"
-- "ground beef"
 - "comfort food"
-- "baked beans"
+- "beef"
 - "bacon"
+- "one pot"
+- "easy dinner"
 keywords:
 - "baked beans"
 - "ground beef"

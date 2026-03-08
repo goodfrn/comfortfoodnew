@@ -15,13 +15,11 @@ totalTime: PT2H15M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "banana cake"
-- "American desserts"
-- "cream cheese frosting"
-- "baking tips"
-- "nutmeg"
-- "moist cakes"
-- "citrus topping"
+- "banana"
+- "cake"
+- "comfort food"
+- "homemade"
+- "spice"
 keywords:
 - "banana cake"
 - "vegetable oil cake"

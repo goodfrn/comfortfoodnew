@@ -17,10 +17,9 @@ categories: ["Dips and Spreads"]
 tags:
 - "seafood"
 - "appetizer"
-- "baked dip"
+- "cheese"
+- "party"
 - "mascarpone"
-- "smoky flavor"
-- "crab recipes"
 keywords:
 - "crab dip"
 - "mascarpone cheese"

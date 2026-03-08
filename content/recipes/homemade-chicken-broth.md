@@ -15,13 +15,11 @@ totalTime: PT2H
 recipeYield: "9 cups"
 categories: ["Soups"]
 tags:
-- "chicken broth"
-- "broth"
-- "homemade stock"
-- "herbs"
-- "slow cooking"
-- "clear broth"
-- "French-inspired"
+- "chicken"
+- "soup"
+- "homemade"
+- "slow cooker"
+- "healthy"
 keywords:
 - "chicken broth"
 - "herbs"

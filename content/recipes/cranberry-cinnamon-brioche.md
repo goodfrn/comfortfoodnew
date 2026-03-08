@@ -15,11 +15,11 @@ totalTime: PT1H45M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "French baking"
-- "braided bread"
-- "cinnamon recipes"
-- "cranberries"
-- "yeast bread"
+- "bread"
+- "brioche"
+- "cinnamon"
+- "cranberry"
+- "holiday"
 keywords:
 - "brioche bread"
 - "cranberry filling"

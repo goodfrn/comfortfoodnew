@@ -17,10 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "vegetarian"
-- "gluten-free option"
-- "easy prep"
 - "healthy"
-- "American cuisine"
+- "blueberry"
+- "pecan"
 keywords:
 - "kale salad"
 - "blueberries"

@@ -16,13 +16,10 @@ recipeYield: "9 jars 500 ml"
 categories: ["Sauces and Condiments"]
 tags:
 - "salsa"
-- "Mexican"
+- "mexican"
 - "spicy"
-- "tomatillo"
-- "preserving"
-- "canning"
-- "chipotle"
-- "jalapeño"
+- "vegan"
+- "gluten free"
 keywords:
 - "chunky salsa"
 - "fiery salsa"

@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "waffles"
-- "slow rise"
-- "Belgian"
-- "baking tips"
-- "yeast batter"
-- "crisp texture"
+- "homemade"
+- "fried"
+- "comfort food"
+- "easy"
 keywords:
 - "Belgian waffles"
 - "overnight waffle batter"

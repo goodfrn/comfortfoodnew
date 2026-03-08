@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "casserole"
-- "pasta bake"
 - "comfort food"
-- "baked pasta"
-- "chicken recipes"
+- "pasta"
+- "chicken"
+- "cheese"
+- "bacon"
 keywords:
 - "chicken pasta bake"
 - "creamy pasta casserole"

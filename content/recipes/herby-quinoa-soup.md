@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Soups"]
 tags:
 - "vegetarian"
+- "soup"
 - "quinoa"
-- "zucchini noodles"
-- "bean soup"
-- "herbs"
-- "easy soup"
-- "protein rich"
+- "healthy"
+- "easy dinner"
 keywords:
 - "quinoa soup"
 - "zucchini noodles"

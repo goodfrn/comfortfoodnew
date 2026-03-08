@@ -16,11 +16,9 @@ recipeYield: "4 servings"
 categories: ["Seafood"]
 tags:
 - "seafood"
-- "French-inspired"
-- "herbs"
-- "quick dinner"
-- "shellfish"
-- "steamed mussels"
+- "easy dinner"
+- "spicy"
+- "one pot"
 keywords:
 - "mussels"
 - "green sauce"

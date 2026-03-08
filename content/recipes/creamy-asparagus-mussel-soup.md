@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "French fusion"
-- "seafood soup"
-- "velouté"
-- "garlic croûtons"
-- "dairy-free"
-- "easy weeknight"
+- "soup"
+- "seafood"
+- "asparagus"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "asparagus soup"
 - "mussel broth"

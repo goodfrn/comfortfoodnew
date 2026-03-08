@@ -15,13 +15,11 @@ totalTime: PT31M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "fusion"
+- "coconut"
 - "gelatin"
-- "plant-based"
-- "cocktail dessert"
-- "tropical flavors"
-- "grilling"
+- "rum"
+- "no bake"
+- "dessert"
 keywords:
 - "panna cotta"
 - "coconut dessert"

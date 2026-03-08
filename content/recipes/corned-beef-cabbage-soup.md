@@ -15,14 +15,11 @@ totalTime: PT65M
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "Irish-American"
-- "Soup"
-- "Barley"
-- "Winter"
-- "Leftovers"
-- "Hearty"
-- "Cabbage"
-- "Root vegetables"
+- "soup"
+- "beef"
+- "comfort food"
+- "easy dinner"
+- "one pot"
 keywords:
 - "corned beef soup"
 - "barley soup"

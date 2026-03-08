@@ -15,11 +15,11 @@ totalTime: PT43M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "holiday baking"
+- "holiday"
 - "blondies"
 - "dessert"
-- "arrowroot"
-- "pretzels"
+- "snack"
+- "comfort food"
 keywords:
 - "blondies"
 - "arrowroot powder"

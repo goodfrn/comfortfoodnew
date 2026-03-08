@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "turkey"
-- "dry brine"
-- "roasting"
-- "scandinavian cuisine"
-- "french fusion"
-- "pearl onions"
-- "aquavit"
+- "roasted"
+- "holiday"
+- "comfort food"
+- "spice"
 keywords:
 - "roasted turkey"
 - "juniper berries"

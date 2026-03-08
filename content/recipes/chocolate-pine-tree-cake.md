@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
 - "chocolate"
-- "winter desserts"
-- "holiday baking"
-- "pine tree shape"
-- "buttermilk"
-- "baking tips"
+- "cake"
+- "holiday"
+- "dessert"
+- "homemade"
 keywords:
 - "chocolate cake"
 - "pine tree cake"

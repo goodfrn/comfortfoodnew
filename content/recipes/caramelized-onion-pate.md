@@ -17,8 +17,9 @@ categories: ["Dips and Spreads"]
 tags:
 - "vegan"
 - "gluten free"
-- "healthy snacks"
-- "savory spreads"
+- "appetizer"
+- "sandwich"
+- "healthy"
 keywords:
 - "vegan recipe"
 - "spread for crackers"

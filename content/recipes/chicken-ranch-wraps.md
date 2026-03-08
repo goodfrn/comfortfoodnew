@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American"
-- "quick meals"
-- "lunch ideas"
+- "chicken"
 - "wraps"
-- "high protein"
-- "easy cooking"
+- "easy dinner"
+- "sandwich"
+- "spinach"
 keywords:
 - "chicken wrap recipe"
 - "quick lunch wrap"

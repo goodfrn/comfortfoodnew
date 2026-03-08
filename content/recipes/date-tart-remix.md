@@ -15,10 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "tart"
-- "dates"
-- "baking"
+- "dessert"
+- "almond"
+- "vegetarian"
+- "homemade"
 keywords:
 - "date tart"
 - "dessert recipe"

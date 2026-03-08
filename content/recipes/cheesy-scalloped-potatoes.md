@@ -15,13 +15,11 @@ totalTime: PT1H55M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "potatoes"
-- "cheese"
-- "casserole"
 - "comfort food"
-- "American cuisine"
-- "baking"
+- "cheese"
+- "potato"
 - "side dish"
+- "american"
 keywords:
 - "scalloped potatoes"
 - "cheddar cheese potatoes"

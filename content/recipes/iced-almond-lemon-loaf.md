@@ -15,12 +15,11 @@ totalTime: PT75M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "loaf cake"
-- "almond"
+- "cake"
 - "lemon"
-- "yogurt"
-- "baking"
+- "almond"
+- "breakfast"
+- "homemade"
 keywords:
 - "almond loaf"
 - "lemon glaze"

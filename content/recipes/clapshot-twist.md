@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "root vegetables"
-- "mash"
-- "Scottish cuisine"
+- "comfort food"
+- "vegetarian"
 - "side dish"
-- "potatoes"
-- "parsnip"
-- "rutabaga"
+- "potato"
+- "easy"
 keywords:
 - "rutabaga mash"
 - "clapshot recipe"

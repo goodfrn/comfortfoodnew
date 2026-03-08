@@ -15,11 +15,11 @@ totalTime: PT23M
 recipeYield: "6 pops"
 categories: ["Desserts"]
 tags:
+- "candy"
 - "dessert"
-- "marshmallow"
-- "Halloween treat"
-- "candy making"
-- "homemade sweets"
+- "homemade"
+- "no bake"
+- "party"
 keywords:
 - "marshmallow pops"
 - "golden syrup"

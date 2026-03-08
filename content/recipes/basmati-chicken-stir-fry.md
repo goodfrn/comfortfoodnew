@@ -15,11 +15,11 @@ totalTime: PT1H3M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian"
-- "stir-fry"
+- "asian"
 - "chicken"
-- "quick meals"
-- "healthy recipes"
+- "healthy"
+- "rice"
+- "spicy"
 keywords:
 - "chicken stir-fry"
 - "basmati rice recipe"

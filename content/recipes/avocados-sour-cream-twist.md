@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "avocado"
-- "vegan"
-- "healthy"
-- "quick"
 - "appetizer"
+- "vegetarian"
+- "healthy"
+- "citrus"
 keywords:
 - "avocado recipe"
 - "quick appetizers"

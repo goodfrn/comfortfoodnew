@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
+- "cake"
 - "apple"
 - "pecan"
-- "Bundt cake"
-- "almond extract"
-- "fall baking"
+- "fall"
+- "dessert"
 keywords:
 - "apple cake"
 - "pecan cake"

@@ -15,13 +15,11 @@ totalTime: PT11M
 recipeYield: "8 servings"
 categories: ["Snacks"]
 tags:
+- "chocolate"
 - "no bake"
-- "oat flour"
-- "chocolate chunks"
-- "raw dough"
-- "snack recipes"
+- "snack"
 - "vegetarian"
-- "easy dessert"
+- "easy"
 keywords:
 - "chocolate chunk cookie dough"
 - "heat-treated oat flour"

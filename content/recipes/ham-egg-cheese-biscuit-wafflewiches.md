@@ -16,13 +16,10 @@ recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "waffle"
-- "savory"
-- "quick meals"
-- "biscuit"
 - "eggs"
 - "ham"
 - "cheese"
+- "sandwich"
 keywords:
 - "ham waffle sandwich"
 - "egg cheese biscuit"

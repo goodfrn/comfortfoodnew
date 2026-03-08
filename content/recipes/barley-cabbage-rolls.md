@@ -15,11 +15,11 @@ totalTime: PT2H50M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
+- "comfort food"
+- "vegetarian"
 - "cabbage"
 - "barley"
-- "vegetarian"
-- "hearty"
-- "comfort food"
+- "one pot"
 keywords:
 - "cabbage rolls"
 - "barley recipe"

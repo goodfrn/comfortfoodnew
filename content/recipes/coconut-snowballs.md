@@ -15,12 +15,11 @@ totalTime: PT1H15M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "coconut"
-- "no-bake"
-- "almond flour"
-- "cream cheese"
-- "holiday treats"
+- "no bake"
+- "almond"
+- "candy"
+- "holiday"
 keywords:
 - "coconut snowballs"
 - "almond flour dessert"

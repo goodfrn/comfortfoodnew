@@ -15,12 +15,11 @@ totalTime: PT20M
 recipeYield: "8 to 10 crepes"
 categories: ["Breakfast"]
 tags:
-- "French"
 - "breakfast"
-- "dessert"
 - "easy"
-- "dairy-free"
-- "egg-based"
+- "dessert"
+- "homemade"
+- "honey"
 keywords:
 - "crepes"
 - "oat milk"

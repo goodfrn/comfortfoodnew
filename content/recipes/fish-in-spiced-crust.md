@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "5 servings"
 categories: ["Seafood"]
 tags:
-- "fish dishes"
-- "glazed vegetables"
-- "baking tips"
-- "crust recipes"
-- "French-inspired"
+- "seafood"
+- "spice"
+- "honey"
+- "roasted"
+- "easy dinner"
 keywords:
 - "white fish"
 - "avocado oil"

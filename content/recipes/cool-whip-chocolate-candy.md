@@ -18,10 +18,8 @@ tags:
 - "candy"
 - "chocolate"
 - "no bake"
-- "chilling"
-- "almond bark"
 - "dessert"
-- "American"
+- "almond"
 keywords:
 - "chocolate candy bars"
 - "whipped topping blend"

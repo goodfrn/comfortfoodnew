@@ -15,10 +15,11 @@ totalTime: PT40M
 recipeYield: 4 servings
 categories: ["Main Dishes"]
 tags:
-- "burgers"
-- "Indian food"
+- "beef"
+- "burger"
 - "grilling"
-- "easy recipes"
+- "easy dinner"
+- "indian"
 keywords:
 - "beef burger recipe"
 - "Indian spices"

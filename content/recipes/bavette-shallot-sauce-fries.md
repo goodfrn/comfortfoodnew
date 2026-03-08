@@ -15,13 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "French"
 - "steak"
-- "fries"
-- "sauce"
-- "marinade"
-- "double fry"
-- "bavette"
+- "beef"
+- "potato"
+- "fried"
+- "main dish"
 keywords:
 - "bavette steak"
 - "double fry fries"

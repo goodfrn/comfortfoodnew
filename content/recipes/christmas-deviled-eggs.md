@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "holiday"
-- "appetizers"
+- "appetizer"
 - "eggs"
-- "steaming"
-- "fusion"
-- "easy entertaining"
+- "seafood"
+- "party"
 keywords:
 - "deviled eggs"
 - "steamed eggs"

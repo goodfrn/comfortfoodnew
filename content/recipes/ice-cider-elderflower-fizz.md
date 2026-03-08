@@ -16,11 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "Canadian influenced"
-- "refreshing"
+- "drink"
 - "elderflower"
-- "sparkling drink"
-- "crushed ice"
+- "citrus"
+- "summer"
 keywords:
 - "ice cider"
 - "elderflower soda"

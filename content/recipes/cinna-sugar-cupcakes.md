@@ -15,13 +15,11 @@ totalTime: PT52M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cupcakes"
 - "cinnamon"
-- "cream cheese"
-- "dessert"
-- "American"
 - "caramel"
+- "dessert"
+- "easy"
 keywords:
 - "cupcakes"
 - "cinnamon sugar"

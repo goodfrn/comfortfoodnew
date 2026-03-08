@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "Mexican"
-- "Grill"
-- "Huevos Rancheros"
-- "Black Beans"
-- "Cast Iron"
-- "Brunch"
-- "Eggs"
+- "mexican"
+- "eggs"
+- "grilling"
+- "breakfast"
+- "spicy"
 keywords:
 - "grilled eggs black beans"
 - "cast iron huevos rancheros"

@@ -15,11 +15,11 @@ totalTime: PT32M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "liver recipes"
-- "French cuisine"
-- "quick meals"
-- "weeknight dinner"
-- "butter cooking"
+- "easy dinner"
+- "comfort food"
+- "potato"
+- "roasted"
+- "one pot"
 keywords:
 - "chicken livers"
 - "radishes"

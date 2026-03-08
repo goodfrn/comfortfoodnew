@@ -15,14 +15,11 @@ totalTime: PT1H25M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "black rice"
-- "tofu"
 - "salad"
 - "vegetarian"
-- "gluten-free"
-- "dairy-free"
-- "curry"
-- "pumpkin seeds"
+- "healthy"
+- "apple"
+- "tofu"
 keywords:
 - "black rice salad"
 - "tofu salad"

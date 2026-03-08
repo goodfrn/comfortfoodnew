@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian American"
 - "comfort food"
-- "pasta casserole"
-- "ground turkey"
-- "baked pasta"
-- "weeknight dinner"
+- "cheese"
+- "pasta"
+- "turkey"
+- "easy dinner"
 keywords:
 - "baked ziti"
 - "ground turkey pasta"

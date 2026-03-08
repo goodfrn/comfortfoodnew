@@ -16,10 +16,10 @@ recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
 - "brownies"
-- "baking"
-- "American dessert"
 - "chocolate"
-- "soda baking"
+- "dessert"
+- "comfort food"
+- "easy"
 keywords:
 - "brownie mix"
 - "fudgy brownies"

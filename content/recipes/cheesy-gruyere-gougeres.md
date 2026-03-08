@@ -15,11 +15,11 @@ totalTime: PT53M
 recipeYield: "24 servings"
 categories: ["Snacks"]
 tags:
-- "French cuisine"
-- "cheese snacks"
-- "baking tips"
-- "make ahead"
-- "pastry"
+- "cheese"
+- "appetizer"
+- "vegetarian"
+- "french"
+- "homemade"
 keywords:
 - "gougères"
 - "Gruyère cheese"

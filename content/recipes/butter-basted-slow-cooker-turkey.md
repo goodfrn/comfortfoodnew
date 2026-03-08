@@ -17,9 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "turkey"
 - "slow cooker"
-- "butter basted"
-- "American cuisine"
-- "holiday meal"
+- "holiday"
+- "easy dinner"
+- "comfort food"
 keywords:
 - "slow cooker turkey"
 - "butter basted turkey"

@@ -15,12 +15,11 @@ totalTime: PT60M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetables"
-- "pancetta"
-- "red wine"
-- "French inspired"
-- "sauté"
 - "side dish"
+- "healthy"
+- "broccoli"
+- "bacon"
+- "easy dinner"
 keywords:
 - "sautéed vegetables"
 - "red wine glaze"

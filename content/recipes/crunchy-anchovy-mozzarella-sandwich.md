@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "fried sandwich"
-- "mozzarella"
-- "panko crust"
-- "anchovy alternative"
-- "vegetarian option"
+- "sandwich"
+- "fried"
+- "cheese"
+- "seafood"
+- "comfort food"
 keywords:
 - "mozzarella sandwich"
 - "fried sandwich"

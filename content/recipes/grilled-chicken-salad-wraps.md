@@ -15,12 +15,11 @@ totalTime: PT55M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "grilled chicken"
-- "salad wraps"
-- "healthy lunch"
-- "easy grilling"
-- "French-inspired"
-- "mustard marinade"
+- "chicken"
+- "grilling"
+- "salad"
+- "healthy"
+- "wraps"
 keywords:
 - "grilled chicken"
 - "mustard marinade"

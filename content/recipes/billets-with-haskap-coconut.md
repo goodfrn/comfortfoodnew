@@ -15,12 +15,11 @@ totalTime: PT1H30M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "French Canadian"
-- "berry desserts"
-- "rolled cakes"
-- "whipped cream"
-- "baking tips"
-- "berry syrups"
+- "cake"
+- "coconut"
+- "vegetarian"
+- "eggs"
+- "dessert"
 keywords:
 - "haskap syrup"
 - "meringue cake"

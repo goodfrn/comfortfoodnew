@@ -15,11 +15,9 @@ totalTime: PT1H
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
+- "italian"
 - "sausage"
-- "red wine"
-- "smoked paprika"
-- "braising"
+- "pork"
 - "one pot"
 - "comfort food"
 keywords:

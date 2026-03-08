@@ -15,13 +15,11 @@ totalTime: PT18M
 recipeYield: "4 to 5 crepes"
 categories: ["Breakfast"]
 tags:
-- "gluten-free"
+- "gluten free"
 - "breakfast"
-- "French-inspired"
-- "corn flour"
-- "easy crepes"
-- "dairy-free option"
-- "buckwheat crepe"
+- "easy"
+- "eggs"
+- "corn"
 keywords:
 - "gluten free crepes"
 - "gluten free crepe recipe"

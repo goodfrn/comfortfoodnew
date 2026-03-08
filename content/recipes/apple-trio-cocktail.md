@@ -17,11 +17,9 @@ categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
 - "apple"
-- "brandy"
-- "vermouth"
-- "sparkling cider"
-- "fresh juice"
-- "chilled drink"
+- "drink"
+- "party"
+- "fall"
 keywords:
 - "apple vermouth"
 - "pear brandy"

@@ -15,12 +15,11 @@ totalTime: PT31M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Instant Pot"
 - "chicken"
-- "burrito bowl"
-- "Mexican-American"
+- "instant pot"
+- "mexican"
 - "rice"
-- "pressure cooking"
+- "easy dinner"
 keywords:
 - "chicken burrito bowl"
 - "Instant Pot chicken"

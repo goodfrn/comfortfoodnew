@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "2 dozen"
 categories: ["Desserts"]
 tags:
-- "French dessert"
-- "nuts"
 - "chocolate"
-- "almond flour"
-- "pastry"
+- "hazelnut"
+- "cinnamon"
+- "almond"
+- "dessert"
 keywords:
 - "madeleines"
 - "almond flour"

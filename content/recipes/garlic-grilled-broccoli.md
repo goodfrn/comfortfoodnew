@@ -17,10 +17,9 @@ categories: ["Side Dishes"]
 tags:
 - "grilling"
 - "vegetarian"
-- "gluten-free"
-- "easy meals"
+- "gluten free"
 - "side dish"
-- "vegetables"
+- "broccoli"
 keywords:
 - "grilled broccoli"
 - "garlic broccoli"

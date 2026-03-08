@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Southern"
-- "vegetable"
+- "southern"
 - "corn"
-- "Cajun"
-- "coconut milk"
-- "bacon grease"
+- "cajun"
+- "bacon"
+- "side dish"
 keywords:
 - "Maque Choux"
 - "corn side dish"

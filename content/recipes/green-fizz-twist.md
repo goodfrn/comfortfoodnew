@@ -16,13 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "mezcal"
-- "elderflower"
 - "citrus"
-- "carbonation"
-- "smoky"
-- "yuzu"
-- "mixology"
+- "elderflower"
+- "drink"
+- "party"
 keywords:
 - "mezcal"
 - "elderflower liqueur"

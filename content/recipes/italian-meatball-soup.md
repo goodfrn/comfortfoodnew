@@ -15,13 +15,11 @@ totalTime: PT68M
 recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
-- "Italian"
-- "Soup"
-- "Meatballs"
-- "Turkey"
-- "Parmesan"
-- "Comfort Food"
-- "Pasta"
+- "italian"
+- "soup"
+- "meatball"
+- "pasta"
+- "comfort food"
 keywords:
 - "meatball soup"
 - "turkey meatballs"

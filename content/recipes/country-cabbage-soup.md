@@ -15,11 +15,11 @@ totalTime: PT1H
 recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
-- "French rustic"
-- "cabbage recipes"
-- "vegetarian soup"
+- "soup"
 - "comfort food"
-- "slow braise"
+- "cheese"
+- "cabbage"
+- "bread"
 keywords:
 - "cabbage soup"
 - "Gruyère cheese"

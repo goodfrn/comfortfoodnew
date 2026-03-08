@@ -15,11 +15,11 @@ totalTime: PT1H3M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian-American"
-- "pasta bake"
 - "comfort food"
-- "baked pasta"
-- "cheese blend"
+- "pasta"
+- "chicken"
+- "cheese"
+- "bacon"
 keywords:
 - "alfredo ranch sauce"
 - "mascarpone cheese"

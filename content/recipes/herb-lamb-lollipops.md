@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "lamb"
-- "romesco"
-- "smoked paprika"
-- "Mediterranean"
-- "roasted peppers"
-- "almonds"
-- "cast iron cooking"
+- "mediterranean"
+- "almond"
+- "roasted"
+- "appetizer"
 keywords:
 - "lamb lollipops"
 - "romesco sauce"

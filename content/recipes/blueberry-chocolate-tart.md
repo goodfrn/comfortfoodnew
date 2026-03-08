@@ -15,12 +15,11 @@ totalTime: PT1H25M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "French-Canadian"
-- "dessert"
 - "chocolate"
-- "blueberries"
+- "blueberry"
 - "tart"
-- "baking"
+- "dessert"
+- "homemade"
 keywords:
 - "blueberry tart"
 - "chocolate custard"

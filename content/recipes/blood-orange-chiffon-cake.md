@@ -15,15 +15,11 @@ totalTime: PT1H25M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "citrus cake"
-- "chiffon"
-- "blood orange"
-- "cardamom"
-- "olive oil"
-- "meringue"
-- "chantilly"
+- "cake"
+- "citrus"
 - "pistachio"
+- "vegetarian"
+- "dessert"
 keywords:
 - "chiffon cake"
 - "blood orange zest"

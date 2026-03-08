@@ -16,10 +16,10 @@ recipeYield: "1"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "gin cocktail"
-- "cucumber juice"
-- "summer drink"
-- "herbal"
+- "gin"
+- "cucumber"
+- "summer"
+- "mint"
 keywords:
 - "cucumber gin"
 - "elderflower tonic"

@@ -16,10 +16,9 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "appetizer"
-- "French cuisine"
 - "beef"
-- "gourmet"
-- "raw food"
+- "fried"
+- "roasted"
 keywords:
 - "beef tartare recipe"
 - "bone marrow appetizer"

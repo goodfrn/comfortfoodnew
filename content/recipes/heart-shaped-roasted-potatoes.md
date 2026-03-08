@@ -15,10 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "roasting"
-- "potatoes"
-- "savory snacks"
-- "American cuisine"
+- "potato"
+- "roasted"
+- "appetizer"
+- "vegetarian"
+- "comfort food"
 keywords:
 - "roasted potatoes"
 - "potato hearts"

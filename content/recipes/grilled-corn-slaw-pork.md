@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "Grilling"
-- "Salads"
-- "Yogurt Dressing"
-- "Summer-Fall"
-- "Smoky"
-- "Easy Weeknight"
+- "grilling"
+- "salad"
+- "corn"
+- "easy dinner"
 keywords:
 - "pork tenderloin"
 - "corn slaw"

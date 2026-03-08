@@ -15,11 +15,11 @@ totalTime: PT30M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "southern cooking"
-- "macaroni recipes"
-- "cheese sauces"
 - "comfort food"
-- "quick meals"
+- "cheese"
+- "pasta"
+- "easy dinner"
+- "southern"
 keywords:
 - "hoop cheese"
 - "macaroni and cheese"

@@ -16,13 +16,10 @@ recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
 - "cookies"
-- "baking"
-- "buttercream"
 - "vanilla"
 - "dessert"
-- "American"
-- "thin cookies"
-- "sugar coating"
+- "homemade"
+- "party"
 keywords:
 - "wafer cookies"
 - "buttercream filling"

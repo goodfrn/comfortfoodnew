@@ -15,13 +15,11 @@ totalTime: PT2H65M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "frying"
 - "turkey"
-- "American Southern"
-- "holiday recipes"
-- "deep fry"
-- "spice rub"
-- "oil management"
+- "fried"
+- "holiday"
+- "southern"
+- "spice"
 keywords:
 - "fried turkey"
 - "turkey frying tips"

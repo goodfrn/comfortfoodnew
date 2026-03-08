@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "8 Tbsp"
 categories: ["Sauces and Condiments"]
 tags:
-- "spice blend"
-- "chili seasoning"
-- "homemade spice"
-- "dry mix"
-- "American cuisine"
+- "spice"
+- "chili"
+- "homemade"
+- "easy"
+- "condiment"
 keywords:
 - "chili powder"
 - "shallot powder"

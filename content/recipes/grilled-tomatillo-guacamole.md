@@ -15,11 +15,11 @@ totalTime: PT62M
 recipeYield: "6 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "guacamole"
-- "salsa"
 - "appetizer"
+- "mexican"
 - "vegetarian"
-- "smoky"
+- "grilling"
+- "avocado"
 keywords:
 - "guacamole recipe"
 - "vegetarian appetizer"

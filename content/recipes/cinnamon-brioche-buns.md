@@ -15,9 +15,11 @@ totalTime: PT1H20M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "pastries"
-- "dessert"
+- "brioche"
+- "cinnamon"
+- "caramel"
+- "breakfast"
+- "homemade"
 keywords:
 - "cinnamon"
 - "brioche"

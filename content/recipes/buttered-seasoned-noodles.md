@@ -16,10 +16,10 @@ recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
 - "pasta"
-- "easy meals"
-- "butter sauce"
-- "American cuisine"
-- "quick cooking"
+- "easy dinner"
+- "comfort food"
+- "vegetarian"
+- "side dish"
 keywords:
 - "seasoned salt noodles"
 - "butter pasta"

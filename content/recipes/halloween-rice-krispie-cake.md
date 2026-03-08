@@ -15,12 +15,11 @@ totalTime: PT22M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "Halloween"
-- "Rice Krispies"
-- "marshmallow"
-- "bundt cake"
-- "holiday dessert"
-- "Nutella option"
+- "cake"
+- "no bake"
+- "holiday"
+- "vegetarian"
+- "party"
 keywords:
 - "Rice Krispies"
 - "marshmallow treats"

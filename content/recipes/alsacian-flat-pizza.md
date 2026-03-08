@@ -15,14 +15,11 @@ totalTime: PT24M
 recipeYield: "16 pieces"
 categories: ["Pizza and Flatbreads"]
 tags:
-- "French inspired"
-- "Flat pizza"
-- "Pancetta"
-- "Roasted shallots"
-- "Smoked gouda"
-- "Gruyere"
-- "Parmigiano"
-- "Savory snack"
+- "pizza"
+- "appetizer"
+- "pork"
+- "cheese"
+- "roasted"
 keywords:
 - "Alsacian pizza"
 - "crispy flat pizza"

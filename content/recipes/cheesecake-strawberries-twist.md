@@ -15,15 +15,11 @@ totalTime: PT30M
 recipeYield: "30 servings"
 categories: ["Desserts"]
 tags:
+- "strawberry"
+- "no bake"
+- "cheese"
 - "dessert"
-- "finger food"
-- "no-bake"
-- "strawberries"
-- "appetizers"
-- "party snacks"
-- "cream cheese"
-- "easy recipes"
-- "fruit desserts"
+- "party"
 keywords:
 - "cheesecake strawberries"
 - "stuffed berries"

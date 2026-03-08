@@ -17,11 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "vegetarian"
 - "chili"
-- "beans"
-- "fall recipes"
-- "meal prep"
-- "spicy"
 - "comfort food"
+- "spicy"
+- "one pot"
 keywords:
 - "vegetarian chili"
 - "bean chili"

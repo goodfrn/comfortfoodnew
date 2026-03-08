@@ -15,14 +15,11 @@ totalTime: PT3H15M
 recipeYield: "16 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "american"
-- "fruit bars"
-- "cream cheese"
-- "pecans"
 - "apple"
-- "baking"
-- "no-bake topping"
+- "pecan"
+- "dessert"
+- "no bake"
+- "comfort food"
 keywords:
 - "apple bars"
 - "cream cheese dessert"

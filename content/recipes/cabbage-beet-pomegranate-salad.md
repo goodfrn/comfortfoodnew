@@ -16,12 +16,10 @@ recipeYield: "10 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "plant-based"
-- "gluten-free"
 - "vegan"
-- "side dish"
-- "quick prep"
-- "fusion cuisine"
+- "gluten free"
+- "healthy"
+- "beet"
 keywords:
 - "cabbage salad"
 - "pomegranate seeds"

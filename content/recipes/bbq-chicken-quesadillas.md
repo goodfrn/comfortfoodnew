@@ -15,11 +15,11 @@ totalTime: PT10M
 recipeYield: "2 servings"
 categories: ["Main Dishes"]
 tags:
-- "American cuisine"
-- "quick meals"
-- "chicken recipes"
-- "skillet cooking"
-- "snacks"
+- "chicken"
+- "cheese"
+- "snack"
+- "easy"
+- "mexican"
 keywords:
 - "BBQ chicken"
 - "quesadilla recipe"

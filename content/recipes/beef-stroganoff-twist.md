@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "beef"
-- "stroganoff"
 - "comfort food"
-- "American Russian"
 - "easy dinner"
 - "one pot"
+- "mushroom"
 keywords:
 - "stroganoff"
 - "ground beef recipe"

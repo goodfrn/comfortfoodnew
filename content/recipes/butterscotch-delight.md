@@ -15,11 +15,11 @@ totalTime: PT3H
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "No Bake"
-- "American"
-- "Layered Dessert"
-- "Butterscotch"
-- "Whipped Cream"
+- "no bake"
+- "dessert"
+- "comfort food"
+- "party"
+- "caramel"
 keywords:
 - "graham cracker crust"
 - "folding whipped cream"

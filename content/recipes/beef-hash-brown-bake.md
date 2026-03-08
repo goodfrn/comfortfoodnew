@@ -15,12 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "casserole"
-- "comfort food"
-- "one dish"
-- "easy dinner"
 - "beef"
+- "comfort food"
+- "easy dinner"
+- "cheese"
+- "potato"
 keywords:
 - "hash browns"
 - "ground beef"

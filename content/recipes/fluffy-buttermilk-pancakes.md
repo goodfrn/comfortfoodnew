@@ -16,11 +16,10 @@ recipeYield: "20 pancakes"
 categories: ["Breakfast"]
 tags:
 - "breakfast"
-- "American"
 - "pancakes"
-- "fluffy"
-- "buttermilk"
-- "easy cooking"
+- "vegetarian"
+- "easy"
+- "comfort food"
 keywords:
 - "pancakes"
 - "buttermilk"

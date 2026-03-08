@@ -15,14 +15,11 @@ totalTime: PT2H15M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "Pasta"
-- "Rabbit"
-- "Ragù"
-- "Slow cooked"
-- "Herbs"
-- "Rustic"
-- "Main course"
+- "italian"
+- "pasta"
+- "comfort food"
+- "slow cooker"
+- "main dish"
 keywords:
 - "rabbit braised pasta"
 - "pappardelle ragù"

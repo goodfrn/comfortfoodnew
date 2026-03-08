@@ -16,11 +16,10 @@ recipeYield: "4 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "vegan"
-- "Spanish cuisine"
 - "almond"
-- "garlic"
 - "comfort food"
+- "mediterranean"
+- "easy"
 keywords:
 - "almond soup"
 - "garlic soup"

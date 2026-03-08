@@ -15,12 +15,11 @@ totalTime: PT70M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "BBQ"
-- "Instant Pot"
-- "Beef"
-- "Pressure cooking"
-- "Molasses sauce"
-- "Barbecue"
+- "beef"
+- "instant pot"
+- "comfort food"
+- "easy dinner"
+- "main dish"
 keywords:
 - "BBQ brisket"
 - "instant pot cooking"

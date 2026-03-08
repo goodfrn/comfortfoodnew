@@ -15,12 +15,11 @@ totalTime: PT22M
 recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
-- "Asian fusion"
 - "salad"
-- "vinaigrette"
-- "peanut oil"
-- "chow mein noodles"
-- "toasted almonds"
+- "asian"
+- "vegetarian"
+- "honey"
+- "spicy"
 keywords:
 - "cabbage slaw"
 - "Asian salad"

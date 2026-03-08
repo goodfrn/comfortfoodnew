@@ -16,13 +16,10 @@ recipeYield: "4 to 6 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "vegetarian"
-- "vegan"
-- "gluten-free"
-- "French-inspired"
-- "slow simmer"
-- "root vegetables"
 - "comfort food"
+- "vegetarian"
+- "gluten free"
+- "beet"
 keywords:
 - "beet soup"
 - "cabbage soup"

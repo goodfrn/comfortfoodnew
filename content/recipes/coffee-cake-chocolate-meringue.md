@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cake"
 - "chocolate"
-- "coffee"
-- "baking"
+- "coffee cake"
+- "dessert"
+- "vegetarian"
 keywords:
 - "coffee cake"
 - "chocolate dessert"

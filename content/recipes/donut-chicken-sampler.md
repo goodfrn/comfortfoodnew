@@ -15,12 +15,11 @@ totalTime: PT15M
 recipeYield: "1 serving"
 categories: ["Sandwiches and Wraps"]
 tags:
-- "American fusion"
-- "fusion sandwich"
-- "crispy chicken"
-- "sweet and savory"
-- "quick assembly"
-- "leftover chicken meals"
+- "chicken"
+- "sandwich"
+- "comfort food"
+- "fried"
+- "easy"
 keywords:
 - "chicken donut sandwich"
 - "maple Dijon drizzle"

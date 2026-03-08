@@ -15,11 +15,11 @@ totalTime: PT25M
 recipeYield: "8 servings"
 categories: ["Beverages"]
 tags:
-- "fall drinks"
-- "spiced punch"
-- "tea recipes"
-- "seasonal beverages"
-- "fruit juice blends"
+- "drink"
+- "fall"
+- "spice"
+- "cinnamon"
+- "party"
 keywords:
 - "black tea punch"
 - "cinnamon tea punch"

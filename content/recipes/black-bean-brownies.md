@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
+- "brownies"
+- "chocolate"
 - "vegetarian"
-- "dairy-free"
-- "gluten-free option"
-- "baking tips"
-- "bean desserts"
+- "cinnamon"
+- "comfort food"
 keywords:
 - "black bean brownies"
 - "coconut oil brownies"

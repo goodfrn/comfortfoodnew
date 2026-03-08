@@ -15,12 +15,11 @@ totalTime: PT24M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "Cheese Appetizer"
-- "Nut Topping"
-- "Fruit Jam"
-- "Warm Snack"
-- "Party Food"
-- "American Cuisine"
+- "appetizer"
+- "cheese"
+- "pecan"
+- "cranberry"
+- "party"
 keywords:
 - "Baked Brie"
 - "apricot preserves"

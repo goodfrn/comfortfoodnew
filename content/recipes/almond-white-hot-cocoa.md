@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Beverages"]
 tags:
-- "hot cocoa"
-- "white chocolate"
-- "almond flavor"
-- "warm drinks"
-- "winter beverages"
+- "drink"
+- "chocolate"
+- "almond"
+- "comfort food"
+- "easy"
 keywords:
 - "white chocolate chunks"
 - "almond extract"

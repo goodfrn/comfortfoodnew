@@ -15,11 +15,11 @@ totalTime: PT42M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "cupcakes"
 - "chocolate"
-- "baking"
-- "American"
+- "dessert"
+- "party"
+- "candy"
 keywords:
 - "chocolate cupcakes"
 - "buttermilk"

@@ -15,9 +15,11 @@ totalTime: PT47M
 recipeYield: "4 servings"
 categories: ["Breakfast"]
 tags:
-- "brunch"
 - "breakfast"
-- "French cuisine"
+- "eggs"
+- "ham"
+- "spinach"
+- "french"
 keywords:
 - "ham waffles"
 - "tarragon sauce"

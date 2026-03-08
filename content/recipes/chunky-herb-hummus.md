@@ -15,13 +15,11 @@ totalTime: PT7M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "hummus"
-- "Mediterranean"
-- "snacks"
+- "vegetarian"
+- "vegan"
+- "snack"
+- "appetizer"
 - "healthy"
-- "sunflower seed butter"
-- "allergen-friendly"
-- "dip"
 keywords:
 - "herb hummus"
 - "chunky hummus"

@@ -15,13 +15,11 @@ totalTime: PT35M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "stew"
 - "beef"
-- "vegetables"
+- "stew"
 - "comfort food"
-- "American cuisine"
 - "one pot"
-- "easy meal"
+- "easy dinner"
 keywords:
 - "beef stew"
 - "ground beef recipe"

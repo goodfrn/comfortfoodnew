@@ -15,11 +15,11 @@ totalTime: PT8H50M
 recipeYield: "10 servings"
 categories: ["Frozen Treats"]
 tags:
-- "frozen treats"
-- "summer snacks"
-- "kid-friendly"
-- "low fat dessert"
-- "coffee recipes"
+- "chocolate"
+- "homemade"
+- "no bake"
+- "summer"
+- "dessert"
 keywords:
 - "instant pudding"
 - "popsicle molds"

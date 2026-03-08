@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
 - "grilling"
-- "fries"
-- "campfire food"
 - "cheese"
-- "foil packet"
-- "easy sides"
-- "outdoor cooking"
+- "potato"
+- "comfort food"
+- "side dish"
 keywords:
 - "grilled fries"
 - "butter fries"

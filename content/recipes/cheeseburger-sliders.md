@@ -15,11 +15,11 @@ totalTime: PT24M
 recipeYield: "12 sliders"
 categories: ["Appetizers"]
 tags:
-- "American"
-- "sliders"
+- "beef"
 - "burger"
+- "cheese"
 - "comfort food"
-- "appetizers"
+- "appetizer"
 keywords:
 - "sliders"
 - "ground beef"

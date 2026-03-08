@@ -15,11 +15,11 @@ totalTime: PT1H30M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "American dessert"
-- "cherry cake"
-- "baking tips"
-- "frosting techniques"
-- "pecan cake"
+- "cake"
+- "cherry"
+- "pecan"
+- "citrus"
+- "homemade"
 keywords:
 - "cherry cake"
 - "maraschino cherries"

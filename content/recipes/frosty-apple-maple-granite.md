@@ -16,12 +16,10 @@ recipeYield: "6 servings"
 categories: ["Frozen Treats"]
 tags:
 - "vegan"
-- "gluten-free"
-- "dairy-free"
-- "frozen dessert"
-- "quick dessert"
-- "French-inspired"
-- "refreshing"
+- "gluten free"
+- "apple"
+- "summer"
+- "dessert"
 keywords:
 - "granité"
 - "apple cider vinegar"

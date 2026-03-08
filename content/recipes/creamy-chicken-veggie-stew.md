@@ -17,11 +17,9 @@ categories: ["Main Dishes"]
 tags:
 - "chicken"
 - "comfort food"
-- "gluten free"
-- "one skillet"
-- "creamy stew"
 - "easy dinner"
-- "vegetables"
+- "stew"
+- "one pot"
 keywords:
 - "chicken thighs"
 - "Yukon Gold potatoes"

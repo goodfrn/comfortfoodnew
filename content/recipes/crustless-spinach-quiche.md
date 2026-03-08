@@ -15,12 +15,11 @@ totalTime: PT65M
 recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
-- "quiche"
-- "no crust"
-- "kale"
-- "goat cheese"
-- "roasted tomatoes"
-- "American cuisine"
+- "breakfast"
+- "vegetarian"
+- "cheese"
+- "spinach"
+- "roasted"
 keywords:
 - "crustless quiche"
 - "roasted tomatoes"

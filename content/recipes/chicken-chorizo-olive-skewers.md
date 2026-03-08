@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "8 servings"
 categories: ["Appetizers"]
 tags:
-- "grilling"
-- "skewers"
-- "Mediterranean"
 - "chicken"
 - "chorizo"
-- "olives"
+- "grilling"
+- "mediterranean"
+- "appetizer"
 keywords:
 - "chorizo skewers"
 - "grilled chicken"

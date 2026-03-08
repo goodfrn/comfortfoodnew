@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "roasting"
-- "glaze"
-- "French-inspired"
-- "asparagus"
-- "romesco"
-- "herbs"
-- "balsamic"
+- "roasted"
+- "mediterranean"
+- "easy dinner"
+- "main dish"
 keywords:
 - "pork filets"
 - "apricot jam glaze"

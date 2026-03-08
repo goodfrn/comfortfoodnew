@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "9 servings"
 categories: ["Desserts"]
 tags:
-- "vegetarian"
-- "gluten-free option"
-- "dairy-free"
-- "baking tips"
 - "chocolate"
-- "quick bake"
+- "brownies"
+- "cookies"
+- "pecan"
+- "avocado"
 keywords:
 - "avocado brownies"
 - "cocoa biscuits"

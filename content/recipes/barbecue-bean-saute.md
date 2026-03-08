@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
 - "grilling"
-- "vegetables"
-- "easy side"
-- "barbecue"
-- "beans"
-- "smoky flavor"
-- "wok cooking"
+- "vegetarian"
+- "side dish"
+- "summer"
+- "easy"
 keywords:
 - "yellow wax beans"
 - "grill sauté beans"

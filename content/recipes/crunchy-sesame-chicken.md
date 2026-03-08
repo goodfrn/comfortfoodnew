@@ -15,12 +15,11 @@ totalTime: PT39M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "fried chicken"
-- "Asian cuisine"
-- "crispy coating"
-- "sesame seeds"
+- "chicken"
+- "asian"
+- "fried"
+- "spicy"
 - "easy dinner"
-- "spicy sauce"
 keywords:
 - "fried chicken"
 - "sesame seeds"

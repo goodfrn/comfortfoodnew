@@ -15,11 +15,11 @@ totalTime: PT39M
 recipeYield: "10 servings"
 categories: ["Breads"]
 tags:
-- "Southern American"
-- "baking"
-- "biscuits"
-- "dairy-free"
-- "quick biscuits"
+- "breakfast"
+- "bread"
+- "comfort food"
+- "easy"
+- "vegetarian"
 keywords:
 - "biscuits"
 - "baking tips"

@@ -15,11 +15,11 @@ totalTime: PT1H15M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "desserts"
-- "ice cream"
-- "cookies"
 - "chocolate"
-- "frozen treats"
+- "cookies"
+- "dessert"
+- "comfort food"
+- "party"
 keywords:
 - "ice cream sandwich"
 - "chocolate chip cookies"

@@ -16,13 +16,10 @@ recipeYield: "5 servings"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "beer cocktail"
-- "spicy drink"
-- "mezcal"
-- "pale ale"
-- "allspice"
-- "smoky"
-- "tomato juice"
+- "spicy"
+- "drink"
+- "citrus"
+- "party"
 keywords:
 - "spicy beer cocktail"
 - "smoked paprika rim"

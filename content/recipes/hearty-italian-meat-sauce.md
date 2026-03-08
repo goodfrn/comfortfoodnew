@@ -15,13 +15,11 @@ totalTime: PT3H52M
 recipeYield: "20 servings"
 categories: ["Main Dishes"]
 tags:
-- "Italian"
-- "meat sauce"
-- "slow simmer"
-- "batch cooking"
-- "gluten free"
-- "dairy free"
-- "family meal"
+- "italian"
+- "beef"
+- "sausage"
+- "slow cooker"
+- "comfort food"
 keywords:
 - "meat sauce"
 - "Italian sausage"

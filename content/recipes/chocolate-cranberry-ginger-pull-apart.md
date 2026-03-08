@@ -15,15 +15,11 @@ totalTime: PT1H25M
 recipeYield: "6 to 8 servings"
 categories: ["Breads"]
 tags:
-- "sweet bread"
-- "yeast bread"
-- "cranberries"
-- "dark chocolate"
-- "crystallized ginger"
-- "baking"
-- "pull-apart bread"
+- "bread"
+- "chocolate"
+- "cranberry"
 - "vegetarian"
-- "nut-free"
+- "breakfast"
 keywords:
 - "chocolate cranberry bread"
 - "ginger pull apart bread"

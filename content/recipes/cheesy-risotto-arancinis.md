@@ -15,9 +15,11 @@ totalTime: PT1H45M
 recipeYield: 60 arancinis approx
 categories: ["Appetizers"]
 tags:
-- "risotto"
 - "appetizer"
-- "Italian"
+- "cheese"
+- "italian"
+- "risotto"
+- "fried"
 keywords:
 - "risotto arancini"
 - "Taleggio cheese"

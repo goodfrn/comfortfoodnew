@@ -17,11 +17,9 @@ categories: ["Breakfast"]
 tags:
 - "breakfast"
 - "oatmeal"
-- "steel-cut oats"
 - "healthy"
-- "quick meals"
-- "fruit topping"
-- "North American cuisine"
+- "honey"
+- "cranberry"
 keywords:
 - "steel-cut oats"
 - "almond milk"

@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "12 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "reduction"
-- "spiced syrup"
-- "glaze"
-- "arrowroot thickener"
-- "apple cider"
+- "apple"
+- "fall"
+- "spice"
+- "cinnamon"
+- "condiment"
 keywords:
 - "apple cider"
 - "arrowroot"

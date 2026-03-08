@@ -15,11 +15,11 @@ totalTime: PT18M
 recipeYield: 4 to 6 crêpes
 categories: ["Breakfast"]
 tags:
-- "crêpes"
-- "gluten-free"
-- "brunch"
-- "savory"
-- "dairy-free"
+- "gluten free"
+- "breakfast"
+- "easy"
+- "eggs"
+- "corn"
 keywords:
 - "savory crêpes"
 - "corn flour"

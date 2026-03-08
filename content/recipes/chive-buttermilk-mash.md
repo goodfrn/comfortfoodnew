@@ -15,12 +15,11 @@ totalTime: PT35M
 recipeYield: "6 servings"
 categories: ["Side Dishes"]
 tags:
-- "French-inspired"
-- "probiotic"
-- "herbal"
-- "rustic mash"
-- "potato recipes"
 - "comfort food"
+- "vegetarian"
+- "potato"
+- "side dish"
+- "easy"
 keywords:
 - "mashed potatoes"
 - "kefir"

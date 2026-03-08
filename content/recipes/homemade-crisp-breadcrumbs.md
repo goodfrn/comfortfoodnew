@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "2 servings"
 categories: ["Breads"]
 tags:
-- "breadcrumbs"
+- "bread"
 - "homemade"
-- "baking"
-- "food processor"
-- "toasting"
-- "snacks"
-- "coatings"
+- "easy"
+- "vegetarian"
+- "condiment"
 keywords:
 - "breadcrumbs"
 - "toasted crumbs"

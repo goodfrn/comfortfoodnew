@@ -16,10 +16,10 @@ recipeYield: "2 servings"
 categories: ["Seafood"]
 tags:
 - "grilling"
-- "fish recipes"
 - "seafood"
-- "American cuisine"
-- "summer cooking"
+- "summer"
+- "lemon"
+- "easy dinner"
 keywords:
 - "red snapper"
 - "grilled fish"

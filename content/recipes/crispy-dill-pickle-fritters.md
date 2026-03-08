@@ -15,12 +15,11 @@ totalTime: PT37M
 recipeYield: "12 servings"
 categories: ["Snacks"]
 tags:
-- "southern cooking"
-- "snacks"
-- "fried foods"
-- "pickles"
-- "cornmeal"
-- "easy recipes"
+- "snack"
+- "appetizer"
+- "fried"
+- "southern"
+- "easy"
 keywords:
 - "dill pickle fritters"
 - "cornmeal fritters"

@@ -15,11 +15,11 @@ totalTime: PT26M
 recipeYield: "14 servings"
 categories: ["Breakfast"]
 tags:
-- "American"
-- "cornmeal"
-- "griddle cakes"
-- "whole wheat"
-- "easy skillet snacks"
+- "breakfast"
+- "corn"
+- "comfort food"
+- "vegetarian"
+- "easy"
 keywords:
 - "cornmeal cakes"
 - "corn griddle cakes"

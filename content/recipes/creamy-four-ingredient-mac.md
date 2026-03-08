@@ -15,11 +15,11 @@ totalTime: PT50M
 recipeYield: "10 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "pasta"
 - "comfort food"
-- "baked dishes"
-- "cheese recipes"
+- "cheese"
+- "vegetarian"
+- "pasta"
+- "easy dinner"
 keywords:
 - "mac and cheese"
 - "sharp cheddar"

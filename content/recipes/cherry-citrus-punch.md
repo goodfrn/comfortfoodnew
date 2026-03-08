@@ -15,12 +15,11 @@ totalTime: PT30M
 recipeYield: "12 servings"
 categories: ["Beverages"]
 tags:
-- "fruit punch"
-- "white wine punch"
-- "cocktail recipe"
-- "summer drinks"
-- "rum cocktails"
-- "citrus punch"
+- "drink"
+- "cocktail"
+- "citrus"
+- "cherry"
+- "rum"
 keywords:
 - "white Moscato"
 - "spiced rum punch"

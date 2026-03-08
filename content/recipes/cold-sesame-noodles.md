@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "vegan"
-- "Asian fusion"
-- "noodle salad"
-- "quick meals"
+- "asian"
 - "sesame"
+- "tofu"
+- "salad"
 keywords:
 - "cold noodles"
 - "sesame sauce"

@@ -15,15 +15,11 @@ totalTime: PT12M
 recipeYield: "12 servings"
 categories: ["Salads"]
 tags:
-- "Southern cuisine"
 - "salad"
 - "cornbread"
-- "layered salad"
 - "bacon"
-- "vegetables"
-- "dressing"
-- "make-ahead"
-- "easy prep"
+- "southern"
+- "easy"
 keywords:
 - "cornbread salad"
 - "layered salad"

@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "French-inspired"
-- "snack"
 - "appetizer"
-- "onion dip"
-- "broiled cheese"
-- "herbed dip"
+- "cheese"
+- "comfort food"
+- "party"
+- "snack"
 keywords:
 - "caramelized onions"
 - "gouda dip"

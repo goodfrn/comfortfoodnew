@@ -15,12 +15,10 @@ totalTime: PT65M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "American"
-- "baked chicken"
-- "crispy skin"
-- "marinated chicken"
-- "Asiago cheese"
-- "apple cider vinegar"
+- "chicken"
+- "comfort food"
+- "easy dinner"
+- "cheese"
 keywords:
 - "baked chicken"
 - "crispy chicken"

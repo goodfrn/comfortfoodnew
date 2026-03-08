@@ -15,11 +15,11 @@ totalTime: PT45M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "French-inspired"
 - "side dish"
-- "vegetable purée"
-- "rustic"
-- "crème fraîche"
+- "vegetarian"
+- "roasted"
+- "comfort food"
+- "easy"
 keywords:
 - "celery root"
 - "vegetable purée"

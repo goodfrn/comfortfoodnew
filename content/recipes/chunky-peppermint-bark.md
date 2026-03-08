@@ -16,10 +16,9 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "chocolate"
-- "holiday treats"
-- "peppermint"
-- "candy bark"
-- "easy dessert"
+- "candy"
+- "holiday"
+- "no bake"
 keywords:
 - "peppermint bark"
 - "chocolate candy melts"

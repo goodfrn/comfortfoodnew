@@ -15,11 +15,11 @@ totalTime: PT6M
 recipeYield: "1 cup"
 categories: ["Snacks"]
 tags:
-- "seasoning"
-- "spices"
-- "flavoring"
-- "easy recipes"
-- "gifts"
+- "spice"
+- "easy"
+- "homemade"
+- "snack"
+- "party"
 keywords:
 - "herb salt"
 - "spice mix"

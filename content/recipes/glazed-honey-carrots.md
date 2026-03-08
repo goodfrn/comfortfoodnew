@@ -15,11 +15,11 @@ totalTime: PT24M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "carrots"
 - "side dish"
-- "maple syrup"
-- "glaze"
-- "brown sugar"
+- "vegetarian"
+- "honey"
+- "roasted"
+- "easy"
 keywords:
 - "glazed carrots"
 - "honey carrots substitution"

@@ -16,13 +16,10 @@ recipeYield: "16 servings"
 categories: ["Appetizers"]
 tags:
 - "seafood"
-- "appetizers"
-- "fried foods"
-- "American cuisine"
-- "blue crab"
-- "egg rolls"
-- "Sriracha"
-- "snacks"
+- "appetizer"
+- "fried"
+- "spicy"
+- "party"
 keywords:
 - "crab egg rolls"
 - "fried crab rolls"

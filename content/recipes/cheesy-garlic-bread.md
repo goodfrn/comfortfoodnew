@@ -17,10 +17,8 @@ categories: ["Appetizers"]
 tags:
 - "bread"
 - "cheese"
-- "garlic"
-- "snack"
-- "American"
-- "party food"
+- "appetizer"
+- "party"
 keywords:
 - "cheesy garlic bread"
 - "pepper jack garlic bread"

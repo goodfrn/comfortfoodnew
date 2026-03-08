@@ -16,12 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "bitter"
-- "sparkling"
-- "Campari"
-- "apple cider"
+- "apple"
 - "citrus"
-- "basil"
+- "summer"
+- "party"
 keywords:
 - "Campari"
 - "sparkling apple cider"

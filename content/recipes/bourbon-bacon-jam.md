@@ -17,11 +17,9 @@ categories: ["Dips and Spreads"]
 tags:
 - "bacon"
 - "jam"
-- "bourbon"
-- "American"
-- "spread"
-- "maple syrup"
-- "savory"
+- "condiment"
+- "comfort food"
+- "party"
 keywords:
 - "bacon jam"
 - "bourbon bacon"

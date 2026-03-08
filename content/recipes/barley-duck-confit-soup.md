@@ -16,10 +16,10 @@ recipeYield: "6 servings"
 categories: ["Soups"]
 tags:
 - "soup"
-- "duck confit"
+- "duck"
 - "barley"
-- "French cuisine"
-- "slow simmer"
+- "comfort food"
+- "slow cooker"
 keywords:
 - "barley soup"
 - "duck confit"

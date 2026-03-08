@@ -15,12 +15,11 @@ totalTime: PT24M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Mexican-inspired"
 - "beef"
 - "cheese"
-- "quick meal"
-- "spicy"
 - "comfort food"
+- "mexican"
+- "spicy"
 keywords:
 - "ground beef"
 - "quesadilla"

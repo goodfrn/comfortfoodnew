@@ -17,11 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "seafood"
-- "easy lunch"
-- "spring vegetables"
-- "toasted breadcrumbs"
-- "egg salad"
-- "French-inspired"
+- "healthy"
+- "eggs"
+- "asparagus"
 keywords:
 - "asparagus salad"
 - "tuna salad"

@@ -16,12 +16,10 @@ recipeYield: "8 servings"
 categories: ["Main Dishes"]
 tags:
 - "turkey"
-- "roasting"
-- "herbs"
-- "gravy"
-- "holiday cooking"
+- "roasted"
+- "holiday"
 - "comfort food"
-- "home cooking"
+- "main dish"
 keywords:
 - "roast turkey"
 - "herb butter turkey"

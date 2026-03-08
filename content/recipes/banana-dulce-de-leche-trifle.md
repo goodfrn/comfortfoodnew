@@ -16,13 +16,10 @@ recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
 - "dessert"
-- "dairy-free"
-- "layered dessert"
-- "bananas"
-- "dulce de leche"
-- "oat crumble"
-- "pastry cream"
-- "whipped coconut cream"
+- "banana"
+- "coconut"
+- "caramel"
+- "no bake"
 keywords:
 - "banoffee style"
 - "dairy-free whipped cream"

@@ -15,12 +15,11 @@ totalTime: PT37M
 recipeYield: "24 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "brownies"
 - "banana"
-- "brown butter"
-- "nuts"
 - "dessert"
+- "comfort food"
+- "walnut"
 keywords:
 - "banana brownies"
 - "brown butter"

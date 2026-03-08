@@ -15,14 +15,11 @@ totalTime: PT44M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "Asian"
-- "noodles"
-- "peanut sauce"
-- "vegetarian options"
-- "quick meals"
+- "asian"
+- "peanut butter"
 - "spicy"
-- "stir-fry"
 - "easy dinner"
+- "main dish"
 keywords:
 - "peanut sauce noodles"
 - "rice noodle stir-fry"

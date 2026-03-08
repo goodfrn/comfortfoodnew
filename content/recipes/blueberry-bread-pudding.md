@@ -15,13 +15,11 @@ totalTime: PT1H45M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
-- "blueberries"
-- "maple syrup"
-- "French-Canadian"
-- "custard"
-- "leftover bread"
+- "blueberry"
+- "comfort food"
+- "bread"
+- "eggs"
+- "vanilla"
 keywords:
 - "bread pudding"
 - "maple sauce"

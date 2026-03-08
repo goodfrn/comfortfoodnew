@@ -15,11 +15,11 @@ totalTime: PT26M
 recipeYield: "9 servings"
 categories: ["Salads"]
 tags:
-- "pasta salad"
-- "cold salad"
-- "easy lunch"
-- "healthy recipe"
-- "Italian cuisine"
+- "pasta"
+- "salad"
+- "italian"
+- "easy"
+- "spicy"
 keywords:
 - "rotini salad"
 - "cold pasta salad"

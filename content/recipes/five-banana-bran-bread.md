@@ -15,14 +15,11 @@ totalTime: PT1H30M
 recipeYield: "1 loaf"
 categories: ["Breads"]
 tags:
-- "banana bread"
-- "bran"
-- "oat flour"
-- "baking tips"
-- "French-Canadian inspired"
-- "nutty loaf"
-- "moist bread"
-- "baking science"
+- "banana"
+- "bread"
+- "breakfast"
+- "comfort food"
+- "homemade"
 keywords:
 - "banana bread"
 - "bran loaf"

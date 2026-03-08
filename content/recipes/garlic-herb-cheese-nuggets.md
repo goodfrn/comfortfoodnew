@@ -15,12 +15,11 @@ totalTime: PT27M
 recipeYield: "32 bites"
 categories: ["Snacks"]
 tags:
-- "snacks"
-- "appetizers"
-- "baking"
-- "cheese bites"
-- "garlic herb"
-- "pepper jack"
+- "snack"
+- "cheese"
+- "appetizer"
+- "bread"
+- "vegetarian"
 keywords:
 - "cheese nuggets"
 - "garlic butter glaze"

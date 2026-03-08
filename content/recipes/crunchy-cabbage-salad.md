@@ -16,11 +16,10 @@ recipeYield: "8 servings"
 categories: ["Salads"]
 tags:
 - "salad"
-- "vegetable"
-- "no-cook"
-- "French fusion"
+- "vegetarian"
 - "healthy"
-- "cold dish"
+- "no bake"
+- "summer"
 keywords:
 - "cabbage salad"
 - "yuzu dressing"

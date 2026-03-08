@@ -15,12 +15,11 @@ totalTime: PT40M
 recipeYield: "4 servings"
 categories: ["Sandwiches and Wraps"]
 tags:
+- "chicken"
+- "sandwich"
 - "grilling"
-- "sandwiches"
-- "fusion cuisine"
-- "dairy-free"
-- "summer recipes"
-- "tropical flavors"
+- "summer"
+- "spice"
 keywords:
 - "curried chicken"
 - "papaya sandwiches"

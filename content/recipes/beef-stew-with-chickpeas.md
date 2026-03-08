@@ -15,11 +15,11 @@ totalTime: PT7H55M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "slow cooking"
-- "stews"
-- "beef recipes"
+- "beef"
+- "stew"
 - "comfort food"
-- "French cuisine"
+- "slow cooker"
+- "chickpeas"
 keywords:
 - "beef stew"
 - "chickpeas"

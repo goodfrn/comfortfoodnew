@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "European dessert"
-- "rice pudding"
-- "honey"
-- "lemon zest"
 - "comfort food"
-- "slow cooked"
-- "dairy dessert"
+- "rice"
+- "honey"
+- "lemon"
+- "eggs"
 keywords:
 - "rice pudding"
 - "citrus dessert"

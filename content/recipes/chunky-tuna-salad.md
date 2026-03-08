@@ -15,11 +15,11 @@ totalTime: PT15M
 recipeYield: "5 servings"
 categories: ["Salads"]
 tags:
-- "tuna"
 - "salad"
-- "avocado mayo"
-- "quick prep"
-- "protein snack"
+- "seafood"
+- "snack"
+- "sandwich"
+- "easy"
 keywords:
 - "tuna salad"
 - "avocado mayonnaise"

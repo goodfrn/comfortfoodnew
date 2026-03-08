@@ -15,14 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Preserves"]
 tags:
-- "fruit desserts"
+- "gluten free"
 - "vegan"
-- "grain-free"
-- "gluten-free"
-- "no dairy"
-- "no nuts"
-- "French-inspired"
-- "preserves"
+- "breakfast"
+- "honey"
+- "lemon"
 keywords:
 - "fresh raisins"
 - "grape syrup"

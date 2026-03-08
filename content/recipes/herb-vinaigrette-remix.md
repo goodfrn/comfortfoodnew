@@ -15,12 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Sauces and Condiments"]
 tags:
-- "salad dressing"
-- "vinaigrette"
-- "herbs"
-- "olive oil"
-- "quick prep"
-- "American cuisine"
+- "salad"
+- "vegetarian"
+- "healthy"
+- "easy"
+- "condiment"
 keywords:
 - "vinaigrette"
 - "herbs"

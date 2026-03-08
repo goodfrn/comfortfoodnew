@@ -15,11 +15,11 @@ totalTime: PT7M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "American cuisine"
-- "church potluck"
-- "fruit salad"
-- "gelatin desserts"
-- "ricotta recipes"
+- "citrus"
+- "pineapple"
+- "no bake"
+- "vegetarian"
+- "dessert"
 keywords:
 - "mandarin orange salad"
 - "pineapple ricotta dessert"

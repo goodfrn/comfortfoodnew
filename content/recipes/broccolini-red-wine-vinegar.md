@@ -15,11 +15,11 @@ totalTime: PT19M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetable side"
-- "broccolini"
-- "broiler cooking"
-- "quick recipes"
-- "American cuisine"
+- "vegetarian"
+- "side dish"
+- "easy"
+- "healthy"
+- "roasted"
 keywords:
 - "broccolini"
 - "red wine vinegar"

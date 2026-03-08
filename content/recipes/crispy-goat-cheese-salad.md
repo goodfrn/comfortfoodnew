@@ -16,13 +16,10 @@ recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
 - "air fryer"
-- "goat cheese"
 - "salad"
-- "kale"
-- "snack"
-- "French-inspired"
-- "walnuts"
-- "almond flour"
+- "cheese"
+- "appetizer"
+- "vegetarian"
 keywords:
 - "goat cheese air fryer"
 - "crispy cheese salad"

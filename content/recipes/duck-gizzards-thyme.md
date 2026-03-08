@@ -15,13 +15,11 @@ totalTime: PT37M
 recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
-- "French-inspired"
-- "game meat"
-- "slow cooking"
 - "appetizer"
-- "rustic"
-- "herbs"
-- "duck fat"
+- "duck"
+- "citrus"
+- "lemon"
+- "spice"
 keywords:
 - "duck gizzards"
 - "smoked paprika"

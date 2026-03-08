@@ -15,11 +15,11 @@ totalTime: PT35M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "rice dish"
-- "citrus flavor"
+- "rice"
+- "citrus"
 - "vegetarian"
 - "side dish"
-- "French-influenced"
+- "easy"
 keywords:
 - "basmati rice"
 - "lime zest"

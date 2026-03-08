@@ -16,10 +16,10 @@ recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
 - "seafood"
-- "fried fish"
-- "snacks"
-- "batter"
-- "midweek meals"
+- "fried"
+- "burger"
+- "appetizer"
+- "spicy"
 keywords:
 - "battered cod"
 - "fried pickles"

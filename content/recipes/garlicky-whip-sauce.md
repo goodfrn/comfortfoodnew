@@ -15,13 +15,11 @@ totalTime: PT20M
 recipeYield: "500 ml about 2 cups"
 categories: ["Sauces and Condiments"]
 tags:
-- "garlic"
-- "emulsion"
-- "sauce"
-- "egg whites"
-- "sunflower oil"
-- "smoked paprika"
-- "French-inspired"
+- "homemade"
+- "condiment"
+- "eggs"
+- "lemon"
+- "grilling"
 keywords:
 - "garlicky sauce"
 - "whip sauce"

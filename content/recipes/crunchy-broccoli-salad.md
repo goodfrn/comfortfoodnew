@@ -17,11 +17,9 @@ categories: ["Salads"]
 tags:
 - "salad"
 - "broccoli"
-- "pancetta"
 - "healthy"
-- "American cuisine"
-- "snack"
-- "easy recipe"
+- "cheese"
+- "easy"
 keywords:
 - "broccoli salad"
 - "pancetta salad"

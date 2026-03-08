@@ -15,9 +15,11 @@ totalTime: PT1H
 recipeYield: 8 servings
 categories: ["Desserts"]
 tags:
-- "desserts"
-- "tarts"
-- "banana recipes"
+- "banana"
+- "tart"
+- "dessert"
+- "honey"
+- "citrus"
 keywords:
 - "dessert recipe"
 - "French tart"

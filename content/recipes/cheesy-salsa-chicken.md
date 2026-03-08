@@ -15,12 +15,11 @@ totalTime: PT1H3M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "one pan meals"
-- "chicken recipes"
+- "chicken"
+- "cheese"
+- "rice"
+- "mexican"
 - "easy dinner"
-- "baked rice"
-- "Mexican inspired"
-- "weeknight meals"
 keywords:
 - "chicken rice bake"
 - "baked salsa chicken"

@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "375 ml (1 1/2 cups)"
 categories: ["Sauces and Condiments"]
 tags:
-- "fusion"
 - "chutney"
-- "grapes"
-- "preserves"
-- "spiced"
-- "arrowroot"
+- "vegetarian"
+- "spice"
+- "condiment"
+- "homemade"
 keywords:
 - "green grapes chutney"
 - "candied ginger chutney"

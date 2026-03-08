@@ -15,11 +15,11 @@ totalTime: PT70M
 recipeYield: 6 servings
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
-- "cocktails"
-- "vegan"
-- "gluten-free"
-- "sangria"
-- "refreshing"
+- "cocktail"
+- "vodka"
+- "citrus"
+- "drink"
+- "party"
 keywords:
 - "sangria recipe"
 - "summer drinks"

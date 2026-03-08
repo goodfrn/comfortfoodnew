@@ -15,13 +15,11 @@ totalTime: PT85M
 recipeYield: "12 bars"
 categories: ["Desserts"]
 tags:
-- "baking"
-- "desserts"
-- "caramel"
-- "cardamom"
 - "coconut"
-- "fruit bars"
-- "American recipes"
+- "caramel"
+- "dessert"
+- "comfort food"
+- "homemade"
 keywords:
 - "apricot bars"
 - "coconut bars"

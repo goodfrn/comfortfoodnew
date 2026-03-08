@@ -15,11 +15,11 @@ totalTime: PT42M
 recipeYield: "8 biscuits"
 categories: ["Breakfast"]
 tags:
-- "biscuits"
-- "southern cooking"
 - "breakfast"
 - "comfort food"
-- "baking"
+- "cheese"
+- "ham"
+- "bread"
 keywords:
 - "ham cheddar biscuits"
 - "flaky biscuits"

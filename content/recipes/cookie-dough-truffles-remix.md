@@ -15,12 +15,11 @@ totalTime: PT50M
 recipeYield: "18 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "no bake"
 - "chocolate"
-- "almond extract"
-- "holiday treats"
-- "snack"
+- "no bake"
+- "almond"
+- "candy"
+- "dessert"
 keywords:
 - "cookie dough"
 - "bittersweet chocolate"

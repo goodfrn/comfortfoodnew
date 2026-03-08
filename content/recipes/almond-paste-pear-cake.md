@@ -15,11 +15,11 @@ totalTime: PT1H55M
 recipeYield: 10 servings
 categories: ["Desserts"]
 tags:
-- "baking"
-- "desserts"
-- "French cuisine"
-- "cakes"
-- "poached fruit"
+- "cake"
+- "almond"
+- "dessert"
+- "cinnamon"
+- "french"
 keywords:
 - "cake recipe"
 - "dessert with pears"

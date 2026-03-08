@@ -15,12 +15,11 @@ totalTime: PT45M
 recipeYield: "2 servings"
 categories: ["Breakfast"]
 tags:
-- "French-inspired"
 - "breakfast"
-- "easy eggs"
+- "eggs"
 - "asparagus"
-- "herbs"
-- "Manchego"
+- "cheese"
+- "vegetarian"
 keywords:
 - "omelette recipe"
 - "asparagus eggs"

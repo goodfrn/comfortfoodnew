@@ -16,13 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "martini"
 - "cranberry"
-- "rosé"
-- "vegan"
-- "gluten-free"
-- "dairy-free"
-- "quick drink"
+- "vodka"
+- "citrus"
+- "party"
 keywords:
 - "cranberry vodka"
 - "pale rosé"

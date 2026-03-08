@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "blueberry"
-- "cream cheese"
-- "cookie crust"
-- "American"
-- "no-bake"
-- "chilled dessert"
+- "no bake"
+- "pecan"
+- "dessert"
+- "party"
 keywords:
 - "cookie crumb crust"
 - "cream cheese dessert"

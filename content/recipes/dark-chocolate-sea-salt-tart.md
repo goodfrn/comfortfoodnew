@@ -15,11 +15,11 @@ totalTime: PT1H10M
 recipeYield: "8 servings"
 categories: ["Desserts"]
 tags:
-- "French-inspired"
-- "chocolate tart"
-- "caramel dessert"
-- "brown butter"
-- "sea salt"
+- "chocolate"
+- "tart"
+- "caramel"
+- "dessert"
+- "vegetarian"
 keywords:
 - "sea salt tart"
 - "chocolate caramel tart"

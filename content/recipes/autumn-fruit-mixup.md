@@ -15,11 +15,11 @@ totalTime: PT20M
 recipeYield: "4 servings"
 categories: ["Salads"]
 tags:
-- "fruit salad"
-- "autumn flavors"
-- "maceration"
-- "quick prep"
-- "healthy snack"
+- "salad"
+- "fall"
+- "healthy"
+- "apple"
+- "honey"
 keywords:
 - "apple grape mix"
 - "cinnamon fruit salad"

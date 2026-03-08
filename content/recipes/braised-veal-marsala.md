@@ -15,14 +15,11 @@ totalTime: PT2H35M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "braising"
-- "veal recipes"
-- "marsala"
+- "veal"
 - "comfort food"
-- "slow cooking"
-- "French-Italian"
-- "potatoes"
+- "slow cooker"
 - "sausage"
+- "potato"
 keywords:
 - "veal marsala"
 - "braised veal"

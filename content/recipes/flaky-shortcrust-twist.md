@@ -16,10 +16,8 @@ recipeYield: 2 crusts
 categories: ["Vegetarian"]
 tags:
 - "vegan"
-- "pastry"
-- "baking"
-- "dairy-free"
-- "egg-free"
+- "pie"
+- "tart"
 keywords:
 - "vegan baking"
 - "easy pastry"

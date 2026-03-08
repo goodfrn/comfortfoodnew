@@ -15,13 +15,11 @@ totalTime: PT55M
 recipeYield: "8 servings"
 categories: ["Side Dishes"]
 tags:
-- "casserole"
-- "bacon"
-- "cheddar cheese"
-- "Ritz crackers"
-- "cabbage"
-- "American cuisine"
 - "comfort food"
+- "bacon"
+- "cheese"
+- "cabbage"
+- "easy dinner"
 keywords:
 - "cabbage bake"
 - "bacon"

@@ -16,10 +16,10 @@ recipeYield: 6
 categories: ["Main Dishes"]
 tags:
 - "burger"
+- "beef"
+- "cheese"
 - "grilling"
-- "American cuisine"
-- "comfort food"
-- "quick meals"
+- "spicy"
 keywords:
 - "beef burger"
 - "chipotle cheese sauce"

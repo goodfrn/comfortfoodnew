@@ -15,13 +15,11 @@ totalTime: PT62M
 recipeYield: "30 servings"
 categories: ["Desserts"]
 tags:
-- "baking"
 - "cookies"
 - "coconut"
-- "egg whites"
 - "chocolate"
-- "American desserts"
 - "snack"
+- "dessert"
 keywords:
 - "coconut macaroons"
 - "egg white desserts"

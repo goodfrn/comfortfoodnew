@@ -16,11 +16,10 @@ recipeYield: "1 serving"
 categories: ["Cocktails and Alcoholic Drinks"]
 tags:
 - "cocktail"
-- "spritz"
-- "summer drink"
-- "herbal notes"
-- "sparkling wine"
+- "drink"
 - "citrus"
+- "mint"
+- "party"
 keywords:
 - "elderflower liqueur"
 - "Prosecco"

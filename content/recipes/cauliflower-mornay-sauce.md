@@ -15,13 +15,11 @@ totalTime: PT34M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "vegetable"
-- "French-inspired"
-- "cheese sauce"
-- "cauliflower"
 - "comfort food"
-- "cheddar"
-- "nutmeg"
+- "cheese"
+- "vegetarian"
+- "cauliflower"
+- "side dish"
 keywords:
 - "Mornay sauce"
 - "cauliflower recipe"

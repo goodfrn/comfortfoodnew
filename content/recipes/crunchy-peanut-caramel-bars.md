@@ -15,10 +15,11 @@ totalTime: PT1H15M
 recipeYield: "30 squares"
 categories: ["Desserts"]
 tags:
-- "dessert"
 - "snack"
-- "French cuisine"
-- "baking"
+- "caramel"
+- "peanut butter"
+- "shortbread"
+- "dessert"
 keywords:
 - "caramel bars"
 - "peanut snacks"

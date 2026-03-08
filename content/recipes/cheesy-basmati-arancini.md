@@ -15,11 +15,11 @@ totalTime: PT1H45M
 recipeYield: "12 servings"
 categories: ["Appetizers"]
 tags:
-- "Italian-inspired"
-- "fried snacks"
-- "cheese filled"
-- "rice balls"
-- "comfort food"
+- "italian"
+- "cheese"
+- "rice"
+- "fried"
+- "appetizer"
 keywords:
 - "arancini"
 - "basmati rice"

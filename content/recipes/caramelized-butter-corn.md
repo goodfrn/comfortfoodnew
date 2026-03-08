@@ -15,13 +15,11 @@ totalTime: PT39M
 recipeYield: "4 servings"
 categories: ["Side Dishes"]
 tags:
-- "Southern"
-- "vegetable side"
-- "corn recipe"
-- "slow cooking"
-- "butter"
+- "corn"
 - "honey"
-- "pecans"
+- "side dish"
+- "slow cooker"
+- "comfort food"
 keywords:
 - "caramelized corn"
 - "butter corn"

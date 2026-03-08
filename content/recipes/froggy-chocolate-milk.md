@@ -17,9 +17,9 @@ categories: ["Beverages"]
 tags:
 - "chocolate"
 - "citrus"
-- "non-alcoholic"
-- "creamy"
-- "fun"
+- "drink"
+- "lemon"
+- "no bake"
 keywords:
 - "chocolate milk"
 - "citrus drinks"

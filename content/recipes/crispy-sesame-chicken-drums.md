@@ -15,12 +15,11 @@ totalTime: PT1H17M
 recipeYield: "4 servings"
 categories: ["Main Dishes"]
 tags:
-- "bistro-style"
 - "chicken"
-- "baking"
-- "spicy sauce"
-- "sesame"
 - "easy dinner"
+- "spicy"
+- "sesame"
+- "lemon"
 keywords:
 - "sesame chicken"
 - "chicken drumsticks recipe"

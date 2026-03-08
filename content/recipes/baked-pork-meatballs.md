@@ -16,13 +16,10 @@ recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
 - "pork"
-- "meatballs"
-- "root vegetables"
-- "roasting"
-- "French-inspired"
+- "meatball"
+- "roasted"
 - "comfort food"
-- "slow roast"
-- "garlic sour cream"
+- "easy dinner"
 keywords:
 - "pork meatballs"
 - "winter root vegetables"

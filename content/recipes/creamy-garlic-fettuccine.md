@@ -15,13 +15,11 @@ totalTime: PT18M
 recipeYield: "4 servings"
 categories: ["Pasta and Noodles"]
 tags:
-- "Italian"
-- "Pasta"
-- "Cream sauce"
-- "Garlic"
-- "Pecorino Romano"
-- "Dinner"
-- "Comfort food"
+- "italian"
+- "pasta"
+- "cheese"
+- "comfort food"
+- "easy dinner"
 keywords:
 - "Fettuccine Alfredo"
 - "Garlic cream sauce"

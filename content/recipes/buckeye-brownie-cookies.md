@@ -19,8 +19,7 @@ tags:
 - "cookies"
 - "peanut butter"
 - "chocolate"
-- "desserts"
-- "baking"
+- "dessert"
 keywords:
 - "brownie cookies"
 - "peanut butter cookies"

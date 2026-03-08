@@ -16,11 +16,10 @@ recipeYield: "30 pieces"
 categories: ["Desserts"]
 tags:
 - "candy"
-- "nuts"
 - "chocolate"
-- "toffee"
 - "snack"
-- "dessert"
+- "caramel"
+- "peanut butter"
 keywords:
 - "toffee bark"
 - "peanut toffee"

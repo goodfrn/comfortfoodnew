@@ -15,11 +15,11 @@ totalTime: PT12M
 recipeYield: "4 servings"
 categories: ["Dips and Spreads"]
 tags:
-- "Southern American"
-- "cheese spread"
-- "no cook"
-- "party snack"
-- "easy assembly"
+- "cheese"
+- "no bake"
+- "sandwich"
+- "appetizer"
+- "southern"
 keywords:
 - "pimento cheese"
 - "no-cook spread"

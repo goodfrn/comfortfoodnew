@@ -17,12 +17,9 @@ categories: ["Soups"]
 tags:
 - "soup"
 - "barley"
-- "mushrooms"
-- "poached eggs"
-- "vegetables"
+- "mushroom"
+- "eggs"
 - "comfort food"
-- "French inspired"
-- "healthy"
 keywords:
 - "barley soup"
 - "mushroom soup"

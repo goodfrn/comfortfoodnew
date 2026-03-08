@@ -15,13 +15,11 @@ totalTime: PT50M
 recipeYield: "12 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
 - "muffins"
+- "breakfast"
+- "healthy"
+- "apple"
 - "blueberry"
-- "almond meal"
-- "whole wheat"
-- "healthy snacks"
-- "fruit muffins"
 keywords:
 - "almond meal"
 - "blueberry muffins"

@@ -15,12 +15,11 @@ totalTime: PT44M
 recipeYield: "12 servings"
 categories: ["Desserts"]
 tags:
-- "dessert"
-- "baking"
+- "brownies"
 - "chocolate"
-- "cream cheese"
-- "coffee"
-- "American cuisine"
+- "comfort food"
+- "vegetarian"
+- "homemade"
 keywords:
 - "brownies"
 - "cream cheese"

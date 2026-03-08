@@ -15,11 +15,11 @@ totalTime: PT13M
 recipeYield: "10 servings"
 categories: ["Desserts"]
 tags:
-- "desserts"
 - "chocolate"
-- "snacks"
-- "holiday treats"
-- "easy recipes"
+- "cinnamon"
+- "candy"
+- "no bake"
+- "easy"
 keywords:
 - "white chocolate"
 - "cinnamon candies"

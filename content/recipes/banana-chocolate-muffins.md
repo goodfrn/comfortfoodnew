@@ -15,12 +15,10 @@ totalTime: PT40M
 recipeYield: "18 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "muffins"
 - "banana"
 - "chocolate"
-- "olive oil"
-- "cinnamon"
+- "muffins"
+- "breakfast"
 - "dessert"
 keywords:
 - "baking banana muffins"

@@ -15,12 +15,11 @@ totalTime: PT13M
 recipeYield: "4 servings"
 categories: ["Desserts"]
 tags:
-- "Mediterranean"
 - "dessert"
-- "quick dessert"
-- "fruit caramelization"
-- "yogurt"
-- "honey drizzle"
+- "honey"
+- "caramel"
+- "lemon"
+- "no bake"
 keywords:
 - "caramelized figs"
 - "honey yogurt dessert"

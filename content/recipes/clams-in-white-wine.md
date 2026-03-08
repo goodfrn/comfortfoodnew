@@ -16,12 +16,10 @@ recipeYield: "4 servings"
 categories: ["Appetizers"]
 tags:
 - "seafood"
-- "French-inspired"
-- "quick dinner"
-- "shellfish"
 - "pork"
 - "fennel"
-- "white wine"
+- "lemon"
+- "easy dinner"
 keywords:
 - "clams"
 - "pancetta"

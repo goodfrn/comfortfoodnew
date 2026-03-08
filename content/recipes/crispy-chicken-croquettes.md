@@ -15,14 +15,11 @@ totalTime: PT70M
 recipeYield: "38 croquettes"
 categories: ["Appetizers"]
 tags:
-- "French-Canadian"
+- "chicken"
 - "comfort food"
-- "fried chicken"
-- "snack food"
-- "party finger food"
-- "spices"
-- "paprika"
-- "breading"
+- "snack"
+- "fried"
+- "appetizer"
 keywords:
 - "croquettes"
 - "chicken thighs"

@@ -15,12 +15,11 @@ totalTime: PT25M
 recipeYield: "6 servings"
 categories: ["Main Dishes"]
 tags:
-- "grilling"
 - "beef"
-- "vegetables"
-- "marinade"
-- "summer cooking"
-- "American grill"
+- "grilling"
+- "summer"
+- "easy dinner"
+- "party"
 keywords:
 - "beef kabobs"
 - "veggie skewers"

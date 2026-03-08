@@ -15,11 +15,11 @@ totalTime: PT31M
 recipeYield: "6 servings"
 categories: ["Desserts"]
 tags:
-- "American"
-- "Cookies"
-- "Baking"
-- "Dessert"
-- "Holiday Treats"
+- "cookies"
+- "chocolate"
+- "cranberry"
+- "dessert"
+- "holiday"
 keywords:
 - "white chocolate"
 - "cranberries"

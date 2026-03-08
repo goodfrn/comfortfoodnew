@@ -15,12 +15,11 @@ totalTime: PT44M
 recipeYield: "8 servings"
 categories: ["Breakfast"]
 tags:
-- "baking"
-- "southern cooking"
-- "biscuits"
-- "cinnamon sugar"
-- "almond milk"
-- "quick bread"
+- "breakfast"
+- "bread"
+- "cinnamon"
+- "vegetarian"
+- "homemade"
 keywords:
 - "flaky biscuits"
 - "cinnamon sugar topping"

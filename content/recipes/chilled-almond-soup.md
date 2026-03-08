@@ -16,10 +16,8 @@ recipeYield: 4 servings
 categories: ["Soups"]
 tags:
 - "soup"
-- "cold dishes"
-- "Spanish cuisine"
-- "vegan options"
-- "dairy-free"
+- "almond"
+- "mediterranean"
 keywords:
 - "almond soup"
 - "gazpacho variation"

@@ -15,11 +15,11 @@ totalTime: PT60M
 recipeYield: "16 pieces"
 categories: ["Breakfast"]
 tags:
-- "British"
-- "vegetarian"
-- "baking"
 - "breakfast"
-- "crumpets"
+- "vegetarian"
+- "bread"
+- "british"
+- "homemade"
 keywords:
 - "crumpets"
 - "buttermilk crumpets"

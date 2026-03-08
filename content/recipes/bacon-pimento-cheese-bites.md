@@ -15,11 +15,11 @@ totalTime: PT28M
 recipeYield: "30 appetizers"
 categories: ["Appetizers"]
 tags:
-- "Southern"
-- "appetizers"
-- "finger food"
-- "party snacks"
-- "bacon recipes"
+- "appetizer"
+- "bacon"
+- "cheese"
+- "party"
+- "spicy"
 keywords:
 - "pimento cheese"
 - "bacon crumbles"
