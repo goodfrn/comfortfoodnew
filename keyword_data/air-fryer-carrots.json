@@ -3,10 +3,162 @@
   "title": "Air Fryer Carrots Twist",
   "seed_keyword": "air fryer carrots",
   "keywords": {
-    "primary": null,
-    "secondary": [],
-    "lsi": [],
-    "all": []
+    "primary": {
+      "keyword": "air fryer carrots",
+      "volume": 18100,
+      "competition": 2
+    },
+    "secondary": [
+      {
+        "keyword": "air fry carrot",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrots in airfryer",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "airfryer carrots",
+        "volume": 5400,
+        "competition": 2
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "carrot in air fryer",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry carrot recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer carrot recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "roast carrots in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer roast carrots",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "air fried carrot",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted carrots air fryer",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot fries air fryer",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot air fryer",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "honey roasted carrots air fryer",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer carrot fries",
+        "volume": 1300,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "air fryer carrots",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry carrot",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrots in airfryer",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "airfryer carrots",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot in air fryer",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry carrot recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer carrot recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "roast carrots in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer roast carrots",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "air fried carrot",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted carrots air fryer",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot fries air fryer",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot air fryer",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "honey roasted carrots air fryer",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer carrot fries",
+        "volume": 1300,
+        "competition": 0
+      }
+    ]
   },
   "processed": false
 }
