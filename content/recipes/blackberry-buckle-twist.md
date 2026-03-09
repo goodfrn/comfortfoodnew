@@ -1,10 +1,10 @@
 ---
-title: "Blackberry Buckle Twist"
+title: "Blackberry Buckle Recipe with Almond Flour"
 slug: "blackberry-buckle-twist"
-description: "A rustic berry buckle with halved blackberries folded into a tender, buttery batter. Uses slight variations in sugar amounts and baking times while swapping half the all-purpose flour for almond flour for a nuttier texture. Berries tossed in cinnamon sugar instead of plain sugar for warm spice notes. Focused on tactile cues like golden edges, bubbling fruit, and toothpick tests over strict clocks. Buttered a different sized pan, impacting baking time. Tips on backup berries, substitutions like yogurt for moisture, and adjustments when using fresh versus frozen berries. Mental checkpoints for doneness and common slip-ups to dodge cracks or soggy spots."
-metaDescription: "Blackberry Buckle Twist uses almond flour and cinnamon sugar for rustic texture and warm spice. Look for golden edges and bubbling fruit to gauge doneness."
-ogDescription: "Rustic almond flour buckle with cinnamon sugar-spiced blackberries. Watch for bubbling fruit and golden edges. Tips on frozen berries and substitutions."
-focusKeyphrase: "blackberry buckle twist"
+description: "Blackberry buckle recipe with halved berries, almond flour, and cinnamon sugar topping. Tender, buttery cake with tactile baking cues instead of timers."
+metaDescription: "Make blackberry buckle with almond flour for nuttier texture. Golden edges, bubbling fruit, and doneness cues. Save this recipe."
+ogDescription: "Blackberry buckle with almond flour swap. Cinnamon sugar berries in tender batter. Golden, never soggy."
+focusKeyphrase: "blackberry buckle recipe"
 date: 2026-01-30
 draft: false
 image: blackberry-buckle-twist.jpg
@@ -22,8 +22,10 @@ tags:
 - "dessert"
 keywords:
 - "blackberry buckle"
-- "almond flour"
-- "baking tips"
+- "blackberry buckle recipe"
+- "almond flour cake"
+- "berry buckle"
+- "cinnamon sugar cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "260"

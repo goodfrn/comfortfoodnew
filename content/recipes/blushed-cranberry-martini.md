@@ -1,10 +1,10 @@
 ---
-title: "Blushed Cranberry Martini"
+title: "Cranberry Martini Recipe With Vodka"
 slug: "blushed-cranberry-martini"
-description: "A quick cocktail mixing crushed ice, pale rosé, and cranberry-infused vodka. Garnished with a citrus twist and a soaked berry. Vegan, gluten-free, dairy-free, nut-free, egg-free. Refreshment in under 6 minutes."
-metaDescription: "Blushed Cranberry Martini mixes pale rosé, cranberry vodka, crushed ice. Citrus twist and marinated berry garnish. Vegan, gluten-free, dairy-free. Chill, shake, sip fast."
-ogDescription: "Quick chill. Rosé meets cranberry vodka. Crushed ice, lemon twist, marinated cranberry. Under 6 minutes. Vegan, allergen-free, sharp tang, soft berry finish."
-focusKeyphrase: "Blushed Cranberry Martini"
+description: "Quick cranberry martini recipe with rosé and cranberry-infused vodka. Vegan, gluten-free, and ready in under 6 minutes. Fresh citrus twist and soaked berry garnish."
+metaDescription: "Cranberry martini recipe made with vodka, rosé, and crushed ice. Vegan and gluten-free. Make it tonight in less than 6 minutes."
+ogDescription: "Cranberry martini with vodka and rosé. Vegan, gluten-free, ready in minutes. Citrus twist and berry garnish."
+focusKeyphrase: "cranberry martini"
 date: 2025-07-28
 draft: false
 image: blushed-cranberry-martini.jpg
@@ -21,11 +21,11 @@ tags:
 - "citrus"
 - "party"
 keywords:
-- "cranberry vodka"
-- "pale rosé"
-- "martini"
-- "crushed ice"
-- "lemon garnish"
+- "cranberry martini"
+- "cranberry martini recipe"
+- "cranberry vodka martini"
+- "cranberry martini cocktail"
+- "crantini recipe"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "120"

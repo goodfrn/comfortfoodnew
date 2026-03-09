@@ -1,10 +1,10 @@
 ---
-title: "Berry Spinach Salad Twist"
+title: "Blueberry Spinach Salad with Candied Pecans"
 slug: "berry-spinach-salad-twist"
-description: "Fresh baby spinach tossed with crunchy candied pecans swapped for toasted walnuts for a deeper bite. Juicy strawberries paired with tart blueberries and creamy diced avocado. Crumbled goat cheese substitutes feta adding tang and softness. Dressing poured gently, mixed lightly to keep ingredients intact. No chilling needed, best served fresh. Nutritional values altered proportionally with substitutions. Total prep around 14 minutes with some wiggle, no cooking. Six servings packed with fiber and vitamins, fat from nuts and avocado balances sweetness. Ideal quick assemble for meal or side, relying on crispness of greens and aromatic nuts. A nutritive, colorful salad with a subtle twist on traditional combos. Practical, sensory-rich layering of textures and flavors."
-metaDescription: "Berry Spinach Salad Twist mixes tart berries, creamy avocado, crunchy toasted walnuts, and tangy goat cheese for a vibrant, no-cook, quick-assemble American salad."
-ogDescription: "Bright berries, creamy avocado, crunchy walnuts, tangy goat cheese tossed gently with spinach. No cooking, just layering and light dressing in under 15 minutes."
-focusKeyphrase: "Berry Spinach Salad"
+description: "Fresh spinach salad with blueberries, strawberries, candied pecans, and creamy avocado. Tangy goat cheese and light dressing. Ready in 14 minutes, no cooking required."
+metaDescription: "Blueberry spinach salad recipe with strawberries, pecans, and goat cheese. Fresh, crunchy, ready in 14 minutes. Make it tonight."
+ogDescription: "Spinach salad loaded with blueberries, strawberries, and candied pecans. Creamy avocado and tangy goat cheese. Quick, colorful, no cooking."
+focusKeyphrase: "blueberry spinach salad"
 date: 2026-01-16
 draft: false
 image: berry-spinach-salad-twist.jpg
@@ -21,9 +21,11 @@ tags:
 - "summer"
 - "spinach"
 keywords:
-- "spinach salad"
-- "berry salad"
-- "avocado salad"
+- "blueberry spinach salad"
+- "berry spinach salad"
+- "spinach blueberry strawberry salad"
+- "spinach salad with blueberries and strawberries"
+- "blueberry spinach salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "398"

@@ -1,10 +1,10 @@
 ---
-title: "Pressure Cooker Braised Beef with Herb Salad"
+title: "Instant Pot Chuck Roast with Herb Salad"
 slug: "braised-beef-herb-salad"
-description: "Boneless beef chuck roast cut into 6 pieces, seared in vegetable oil then braised under pressure with aromatics like ginger, lemongrass, and red chili. Cooking liquid enriched with low-sodium beef broth, soy sauce, and oyster sauce. After pressure cooking, sauce is strained and reduced to thicken. Herb salad made from coriander, Thai basil, mint, scallions, garlic, fresh chili and lime zest and juice serves as topping. Lime wedges to serve. Adaptations include swapping oyster sauce for fish sauce and adding toasted sesame oil for depth."
-metaDescription: "Braised beef chuck seared then pressure cooked with ginger, lemongrass, soy and fish sauce. Herb salad with lime cuts richness, fresh punch in every bite."
-ogDescription: "Pressure braised beef, layers of umami from fish sauce and soy. Herb salad with chili and lime zest adds sharp fresh contrast. Quick, bold, layered flavors."
-focusKeyphrase: "pressure cooker braised beef"
+description: "Tender instant pot chuck roast braised with ginger, lemongrass, and chili, topped with fresh herb salad. Low-sodium broth and soy sauce create a rich sauce reduced to coat the meat."
+metaDescription: "Instant pot chuck roast recipe with aromatics and herb salad. Pressure cooked tender beef with Thai-inspired flavors. Try it tonight."
+ogDescription: "Pressure-cooked chuck roast with ginger, lemongrass, and a bright herb salad on top. Restaurant-quality beef at home."
+focusKeyphrase: "instant pot chuck roast"
 date: 2025-08-02
 draft: false
 image: braised-beef-herb-salad.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy dinner"
 - "main dish"
 keywords:
-- "braised beef"
-- "pressure cooker"
-- "Asian beef recipe"
+- "instant pot chuck roast"
+- "pressure cooker chuck roast"
+- "instant pot pot roast"
+- "beef chuck roast instant pot recipe"
+- "pressure cooker beef"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"

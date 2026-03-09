@@ -1,10 +1,11 @@
 ---
 title: "Blueberry Buttermilk Muffins"
+title: "Blueberry Buttermilk Muffins"
 slug: "blueberry-buttermilk-muffins"
-description: "Tender, cakey muffins loaded with fresh blueberries, cinnamon, and a hint of maple syrup. Uses buttermilk for tang, butter and oil for moist texture. Cinnamon-sugar topping for slight crunch. Adjust baking times by watching muffin tops turn golden and edges pulling slightly from liners. Substitutions include yogurt for buttermilk and honey in place of maple syrup. Mix dry ingredients separately to avoid clumps. Fold berries gently to avoid blue streaks. Lower oven temp after initial blast to get dome-shaped tops without cracking. A muffin with a tender crumb but sturdy enough to hold. No overmixing to keep crumb fine. Batter is runny but that’s expected."
-metaDescription: "Blueberry Buttermilk Muffins with tender crumb, cinnamon sugar topping, and juicy berries. High heat start, gentle fold, watch muffin edges pull from liners."
-ogDescription: "Tender muffins bursting with blueberries, cinnamon-sugar crust. Start hot, drop oven temp. Fold berries carefully. Watch golden tops and slight pull from liners."
-focusKeyphrase: "Blueberry Buttermilk Muffins"
+description: "Tender blueberry muffins made with buttermilk and a touch of maple syrup. Cinnamon-sugar topping, moist crumb, and foolproof technique for golden domed tops."
+metaDescription: "Blueberry muffins with buttermilk for tang and tenderness. Cinnamon-sugar topping, maple sweetness, and perfect dome every time. Try it tonight."
+ogDescription: "Tender blueberry muffins with buttermilk tang, cinnamon-sugar topping, and maple syrup. Golden domed tops, soft crumb, and no overmixing tricks."
+focusKeyphrase: "blueberry muffins"
 date: 2025-11-06
 draft: false
 image: blueberry-buttermilk-muffins.jpg
@@ -22,8 +23,10 @@ tags:
 - "homemade"
 keywords:
 - "blueberry muffins"
-- "buttermilk muffins"
-- "cinnamon sugar muffins"
+- "easy blueberry muffins"
+- "blueberry muffins with buttermilk"
+- "homemade blueberry muffins"
+- "simple blueberry muffins"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "230"

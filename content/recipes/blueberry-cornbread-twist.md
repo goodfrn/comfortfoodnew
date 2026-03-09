@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Cornbread Twist"
+title: "Blueberry Cornbread Recipe With Polenta"
 slug: "blueberry-cornbread-twist"
-description: "Coarse cornmeal swapped partly for polenta; honey replaces sugar for natural sweetness; eggs, whole milk, and vanilla whisked smooth; melted coconut oil folded in for a subtle tropical aroma. Fresh or frozen blueberries tucked in gently so they burst pockets of sweetness through the tender, golden crumb. The bake goes a bit shorter, 30 to 38 minutes, watching for a golden crust that cracks softly when poked—signaling the inside’s set yet moist. No boring steps, just straight to textures, sounds, and smells that tell you it’s done without a stopwatch."
-metaDescription: "Blueberry Cornbread Twist swaps coarse cornmeal for polenta, uses honey, coconut oil, and fresh blueberries for moist, aromatic Southern style cornbread."
-ogDescription: "Moist blueberry cornbread with coarse polenta, honey, coconut oil. Golden crust cracks, berries burst, aroma signals doneness. Easy texture tips inside."
-focusKeyphrase: "Blueberry Cornbread Twist"
+description: "Blueberry cornbread made with polenta and honey instead of sugar. Fresh or frozen blueberries burst through tender, golden crumb baked 30-38 minutes. Skip the mix."
+metaDescription: "Blueberry cornbread recipe using polenta and honey for natural sweetness. Moist crumb with burst berries. Bake it tonight."
+ogDescription: "Cornbread with fresh blueberries, polenta, and honey. Tender crumb, golden crust, done in under 40 minutes."
+focusKeyphrase: "blueberry cornbread recipe"
 date: 2026-01-24
 draft: false
 image: blueberry-cornbread-twist.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "honey"
 keywords:
-- "cornbread"
-- "honey cornbread"
-- "blueberry cornbread"
+- "blueberry cornbread recipe"
+- "blueberry corn bread"
+- "blueberry cornmeal bread"
+- "blueberry cornbread cake"
+- "corn and blueberry muffins"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "210"

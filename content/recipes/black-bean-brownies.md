@@ -1,9 +1,10 @@
 ---
-title: "Black Bean Brownies Twist"
+title: "Black Bean Brownies Recipe: Fudgy & Dairy-Free"
+focusKeyphrase: "black bean brownies"
 slug: "black-bean-brownies"
-description: "Fudgy, dense brownies made with mashed black beans, subtle apple butter replacing compote for depth, and coconut oil swapping canola for a nutty undertone. Graham cracker crumbs swapped with crushed digestive biscuits for crunch variation. A dusting of cinnamon sugar replaces simple powdered sugar for a warming finish. Focus on visual cues—edges pulling away, the shiny crackly top. No dry spoon test here. Beware overmixing, it slams your brownies dense but cakey instead of chewy. A late addition: a pinch of espresso powder to awaken the cocoa. Expect a moist crumb, sweet with earthy hints. Makes eight modest servings. Takes about 45 minutes from start to finish, hands off during the bake, use your nose. Vegetarian, nut-free, dairy-free."
-metaDescription: "Black Bean Brownies Twist dense, fudgy squares with mashed beans, coconut oil, and cinnamon sugar dusting. Moist crumb, chewy, 8 servings, vegetarian and dairy free."
-ogDescription: "Dense black bean brownies made fudgy with coconut oil and cinnamon sugar dusting for warming contrast. Moist, chewy, and nut-free. Watch edges for doneness."
+description: "Fudgy black bean brownies made with apple butter, coconut oil, and a whisper of espresso. Dairy-free, nut-free, and genuinely chewy—not cakey. Ready in 45 minutes."
+metaDescription: "Black bean brownies recipe that's actually fudgy and chewy. Made with apple butter and coconut oil. Dairy-free, nut-free. Try it tonight."
+ogDescription: "Black bean brownies that stay moist and chewy. Apple butter, coconut oil, cinnamon sugar finish. No dry spoon test needed."
 focusKeyphrase: "black bean brownies"
 date: 2025-08-13
 draft: false
@@ -22,8 +23,10 @@ tags:
 - "comfort food"
 keywords:
 - "black bean brownies"
-- "coconut oil brownies"
-- "apple butter brownies"
+- "black bean chocolate brownie"
+- "fudgy black bean brownies"
+- "black bean brownie recipe"
+- "black bean brownies dairy-free"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "180"

@@ -1,9 +1,10 @@
 ---
-title: "Beer Battered Onion Rings"
+title: "Beer Battered Onion Rings Recipe"
+focusKeyphrase: "beer battered onion rings"
 slug: "beer-battered-onion-rings"
-description: "Crispy beer-battered onion rings using pale ale, slight tweaks to flour and seasoning quantities for better crunch and flavor balance. Uses canola oil, split flour for dredging and battering, with cayenne for a subtle heat kick. Onion slices soaked loose. Frying temp crucial for crisp edges. Salt applied post-fry to avoid sogginess. Great side for sandwiches, burgers, or as snack. Visual cues and batter texture tips included. Simple, no-fuss ingredients but technique matters."
-metaDescription: "Beer Battered Onion Rings crisped just right with pale ale and split flour technique. Fry at steady high heat, salt after frying, keep crunchy edges sharp."
-ogDescription: "Crispy beer battered onion rings using pale ale and split flour. Fry hot to seal moisture, salt last for crunch. Great side or snack, seasoned just right."
+description: "Crispy beer battered onion rings with pale ale and split flour technique for maximum crunch. Post-fry salt keeps them from getting soggy, perfect alongside burgers."
+metaDescription: "Beer battered onion rings recipe using pale ale, split flour dredging, and frying technique for crispy edges. Make them tonight."
+ogDescription: "Crispy beer battered onion rings with pale ale and proper frying technique for restaurant-quality crunch."
 focusKeyphrase: "beer battered onion rings"
 date: 2025-09-29
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "vegetarian"
 - "american"
 keywords:
-- "onion rings"
-- "beer batter"
-- "crispy frying"
+- "beer battered onion rings"
+- "battered onion rings"
+- "onion rings batter beer"
+- "batter for onion rings recipe"
+- "beer batter onion rings"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "210"

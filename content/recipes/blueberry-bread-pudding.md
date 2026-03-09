@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Bread Pudding Maple Sauce"
+title: "Blueberry Bread Pudding with Maple Sauce"
 slug: "blueberry-bread-pudding"
-description: "A nostalgic mix of torn stale bread soaked in spiced vanilla milk, folded with eggs, sugar, and fresh blueberries. Baked until puffed and golden, it’s moist but firm. The balance lies in the texture of the bread absorbing just enough custard without becoming mushy. Maple sauce with a roux thickens on the stove, glossy and rich, warming the room with sweet, buttery aroma. Perfect for using leftover bread and berries, this dish brings contrasting textures and a sticky sweet drizzle for a satisfying finish. Substitutions for dairy or fruit swaps work well, forgiving and versatile."
-metaDescription: "Blueberry Bread Pudding Maple Sauce with custard soaked bread, fresh berries, and a rich buttery maple roux sauce; rustic textures, soft yet firm finish."
-ogDescription: "Custardy bread pudding meets juicy blueberries; baked till golden with a thick, sticky maple sauce roux. Rustic, homey, with buttery aroma all around."
-focusKeyphrase: "Blueberry Bread Pudding Maple Sauce"
+description: "Stale bread soaked in spiced vanilla custard with fresh blueberries, baked golden and moist. Topped with rich maple sauce that thickens on the stove. Uses leftover bread perfectly."
+metaDescription: "Blueberry bread pudding recipe with homemade maple sauce. Soft custard, fresh berries, and sticky-sweet drizzle. Make it tonight."
+ogDescription: "Torn stale bread, fresh blueberries, spiced vanilla custard. Baked until golden. Finished with glossy maple sauce that coats every bite."
+focusKeyphrase: "blueberry bread pudding"
 date: 2025-09-29
 draft: false
 image: blueberry-bread-pudding.jpg
@@ -21,9 +21,11 @@ tags:
 - "eggs"
 - "vanilla"
 keywords:
-- "bread pudding"
-- "maple sauce"
-- "blueberries"
+- "blueberry bread pudding"
+- "blueberry bread pudding recipe"
+- "berry bread pudding"
+- "bread pudding with maple sauce"
+- "maple sauce bread pudding"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "310"

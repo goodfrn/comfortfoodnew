@@ -1,10 +1,10 @@
 ---
-title: "Biscuits Gravy Casserole"
+title: "Biscuits and Gravy Casserole"
 slug: "biscuits-gravy-casserole"
-description: "Chunks of biscuit dough layered then baked with browned sausage, cream-egg blend, sharp cheddar, and thick gravy poured on top. A hearty breakfast baked in one dish. Rich, creamy, with savory bite from onions and herbs. Sausage drained to avoid grease pooling. Cheese melts into pockets under gravy; biscuits rise beneath. Visual cues key — bubbly edges, golden top, and no jiggly middle means done. Adapt with chicken sausage or turkey for less fat, or swap cheddar for pepper jack for sizzle. Whisk cream with eggs to bind, garlic powder and oregano to boost flavor depth. Timing isn't strict — trust browning, bubbling, and smells instead. Layer, whisk, bake, listen for sizzle, watch rise."
-metaDescription: "Biscuits Gravy Casserole with browned sausage layered under sharp cheddar and thick gravy. Bubbly edges, golden top, hearty, with onions and herbs aroma."
-ogDescription: "Biscuits layered with sausage, sharp cheddar, baked under thick gravy. Look for bubbling sides, golden top, no raw dough. Hearty southern comfort, packed flavor."
-focusKeyphrase: "Biscuits Gravy Casserole"
+description: "Biscuit and gravy casserole with sausage, eggs, and sharp cheddar baked in one dish. Creamy, savory, and ready in under an hour."
+metaDescription: "Biscuits and gravy casserole recipe with sausage and eggs. Hearty one-dish breakfast baked until golden. Try it tonight."
+ogDescription: "One-dish biscuits and gravy casserole loaded with sausage, eggs, and melted cheddar. Creamy and ready fast."
+focusKeyphrase: "biscuits and gravy casserole"
 date: 2025-12-18
 draft: false
 image: biscuits-gravy-casserole.jpg
@@ -20,9 +20,11 @@ tags:
 - "sausage"
 - "eggs"
 keywords:
-- "biscuit casserole"
-- "sausage gravy bake"
-- "breakfast casserole"
+- "biscuits and gravy casserole"
+- "breakfast casserole with biscuits"
+- "sausage and gravy casserole"
+- "biscuit and gravy breakfast bake"
+- "breakfast casserole sausage"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "327"

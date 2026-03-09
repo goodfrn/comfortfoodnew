@@ -1,9 +1,10 @@
 ---
-title: "Beer Battered Fish Fry"
+title: "Beer Battered Fish Fry Recipe"
+focusKeyphrase: "beer battered fish fry"
 slug: "beer-battered-fish-fry"
-description: "Crispy beer battered cod pieces fried to golden brown in hot vegetable oil. Uses a seasoned dry mix with garlic, smoked paprika, and black pepper. Light beer bubbles create airy batter. Cook in small batches for even browning and texture. Keep fish warm on a wire rack in the oven. Quick prep with simple pantry ingredients. Adjust heat if oil smokes or batter falls off. Substitute cod with haddock or pollock if needed. Perfect balance of crunch and moist flaky fish inside."
-metaDescription: "Beer battered cod fried crisp in hot vegetable oil. Light lager bubbles puff airy batter while garlic, smoked paprika, salt, and pepper season every bite."
-ogDescription: "Crunchy beer batter coats tender cod chunks fried in hot oil. Garlic and smoked paprika season. Keep batches small. Wire rack draining keeps crunch intact."
+description: "Crispy beer battered fish fry with golden fried cod. Light, airy batter made with beer, garlic, and smoked paprika. Cook in batches for even browning."
+metaDescription: "Beer battered fish fry recipe for crispy golden fried cod. Light beer batter with smoked paprika. Try it tonight."
+ogDescription: "Golden crispy beer battered fish fry. Light airy batter, moist flaky cod inside. Simple pantry ingredients."
 focusKeyphrase: "beer battered fish fry"
 date: 2025-10-01
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "appetizer"
 - "easy dinner"
 keywords:
-- "beer batter"
-- "fried fish"
-- "cod fillets"
+- "beer battered fish"
+- "fish batter recipe"
+- "beer batter fish recipe"
+- "battered cod"
+- "fish and chips batter"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "430"

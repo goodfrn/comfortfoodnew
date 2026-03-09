@@ -1,10 +1,10 @@
 ---
-title: "Braised Beef Barley Mushrooms"
+title: "Beef Barley Mushroom Stew"
 slug: "braised-beef-barley-mushrooms"
-description: "A hearty stew with bite-sized beef cubes browned for depth. Pearled barley swapped for blé mou whole grain. Button mushrooms exchanged for cremini and shiitake mix; richer, earthier flavor. Aromatics shifted: Shallots replace onions; subtle sweetness, less bite. Simmer slowly in chicken broth infused with thyme sprigs. Covered braising, then uncovered reduction to thicken sauce and concentrate flavors. The smell thick, savory, umami, beef juices mingling with mushroom earthiness. Tender beef pulls apart at slight press, barley swollen and chewy; sauce glossy coating everything. A rustic, layered dish showing why patience in braising pays dividends. Tricks included for avoiding dryness, managing cook times by feel not clock. Suitable for experienced cooks willing to play with textures and deep flavors."
-metaDescription: "Braised Beef Barley Mushrooms slow-braised with cremini and shiitake, tender beef cubes, whole-grain barley. Slow oven braise, savory sauce, deep earthy aroma."
-ogDescription: "Slow-braised beef cubes with cremini and shiitake, whole grain barley. Rich, earthy, tender meat, thick glossy sauce; time and smell guide cooking."
-focusKeyphrase: "Braised Beef Barley Mushrooms"
+description: "Braised beef barley stew with cremini and shiitake mushrooms, shallots, and thyme. Slow-cooked until tender with a glossy, concentrated sauce. Deep umami flavors, rustic and satisfying."
+metaDescription: "Beef barley mushroom stew recipe with slow-braised beef, pearl barley, and earthy mushrooms. Learn the technique for tender meat and rich sauce."
+ogDescription: "Braised beef barley stew loaded with mushrooms. Slow-cooked for depth, glossy sauce, tender meat."
+focusKeyphrase: "beef barley mushroom stew"
 date: 2025-08-11
 draft: false
 image: braised-beef-barley-mushrooms.jpg
@@ -21,9 +21,11 @@ tags:
 - "barley"
 - "slow cooker"
 keywords:
-- "braised beef"
-- "barley mushrooms"
-- "slow cooker stew"
+- "beef barley mushroom stew"
+- "barley and beef stew"
+- "beef barley stew recipe"
+- "slow cooker beef and barley soup"
+- "braised beef barley"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"

@@ -1,10 +1,10 @@
 ---
-title: "Boston Cream Cupcakes"
+title: "Boston Cream Cupcakes Recipe"
 slug: "boston-cream-cupcakes"
-description: "Light golden cupcakes cored and filled with creamy pudding made with heavy cream and instant mix. Topped with whipped ganache made by melting chocolate chips with hot cream and corn syrup. Filling piping technique keeps mess low. Ganache whipped to fluffy consistency with optional cream if too stiff. Bake by visual cues toothpick clean. Chill ganache before whipping for better texture. Cream filling thickens on chill. Corn syrup smooths ganache melt. Core cupcake centers half inch deep, careful to not cut liner. Frost cupcakes using star swirl method or improvised bags. Yield 24 cupcakes offering balance of fat sugar and protein. Nutrients moderate with 299 calories per serving."
-metaDescription: "Boston Cream Cupcakes with golden sponge, creamy pudding core, and whipped chocolate ganache frosting. Techniques for filling, whipping, piping, and baking timing cues."
-ogDescription: "Golden cupcakes with creamy pudding centers and whipped chocolate ganache frosting. Filling and piping tips for neat results and balanced texture."
-focusKeyphrase: "Boston Cream Cupcakes"
+description: "Boston cream cupcakes with vanilla cake, creamy pudding filling, and whipped chocolate ganache. Easy piping technique, chill before serving. Makes 24."
+metaDescription: "Boston cream cupcake recipe with pudding filling and whipped ganache. Simple piping method keeps it neat. Try it tonight."
+ogDescription: "Vanilla cupcakes filled with cream pudding and topped with chocolate ganache. The piping trick keeps everything tidy."
+focusKeyphrase: "boston cream cupcakes"
 date: 2025-10-13
 draft: false
 image: boston-cream-cupcakes.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "american"
 keywords:
-- "cupcakes"
-- "ganache"
-- "pudding filling"
+- "boston cream cupcakes"
+- "boston cream cupcake recipe"
+- "boston cream cake cupcakes"
+- "chocolate ganache cupcakes"
+- "pudding filled cupcakes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "299"

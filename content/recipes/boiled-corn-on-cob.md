@@ -1,10 +1,10 @@
 ---
-title: "Boiled Corn On Cob"
+title: "Boiled Corn on the Cob"
 slug: "boiled-corn-on-cob"
-description: "Boil fresh corn with milk butter and sugar for richer taste. Skip the em dash. Classic approach with subtle tweaks. Uses lots of liquid to avoid scorched pot. Butter salt and whole milk create a creamy cooking bath. Sugar optional but worth the try. Boil gently not furious to keep kernels tender but not mushy. Drain well before serving so no watery mess. Add black pepper parsley or favorite corn seasoning for punch. Tried swapping cream for milk once gave deeper flavor but heavier. Always tap ears after boiling to shed excess water - prevents watered down butter after. Cook time adjusted slightly - 8 to 12 minutes depending on tenderness. Corn color a big indicator avoid dull yellow - means overcooked. Corn stays joy when firm but juicy. Serves 7-9 ears comfortably."
-metaDescription: "Boil fresh husked corn in buttery milk water to keep kernels tender and juicy. Gentle simmer, watch color and texture. Season after draining for max flavor."
-ogDescription: "Gentle boil corn in butter milk combo. Watch kernels pop, bright yellow, tap water off after. Salt pepper parsley best added last. Cream swap possible."
-focusKeyphrase: "boiled corn on cob"
+description: "How to boil corn on the cob with milk, butter, and sugar for tender kernels. Simple stovetop method that keeps corn juicy, not mushy."
+metaDescription: "Boil corn on the cob perfectly every time. Milk and butter create a creamy bath. 8-12 minutes for tender, juicy kernels. Try it tonight."
+ogDescription: "Boil corn on the cob in milk and butter for richer flavor. Tender kernels, no mushiness. Simple stovetop method."
+focusKeyphrase: "boiled corn on the cob"
 date: 2025-11-05
 draft: false
 image: boiled-corn-on-cob.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy"
 - "summer"
 keywords:
-- "boiled corn"
-- "corn on cob"
-- "corn cooking"
+- "boiled corn on the cob"
+- "how to cook corn on the cob"
+- "boil corn on the cob"
+- "cook corn on the cob on the stove"
+- "boil corn time"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "150"

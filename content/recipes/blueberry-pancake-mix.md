@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Pancake Mix"
+title: "Blueberry Pancakes Mix | Vegan & Nut-Free"
 slug: "blueberry-pancake-mix"
-description: "Dry pancake mix with dried blueberries adapted for a vegan nut-free breakfast. Uses whole wheat flour replacing part of all-purpose, swaps sodium bicarbonate for potassium bicarbonate, adds coconut sugar instead of white refined sugar. Makes about 42 pancakes over three breakfasts. Mix dry, store airtight. Toss blueberries in flour first to stop sinking. Watch for bubbles—not time—when pan’s ready."
-metaDescription: "Blueberry Pancake Mix with whole wheat and potassium bicarbonate. Toss blueberries in flour to stop sinking. Makes about 42 pancakes, store dry mix airtight."
-ogDescription: "Dry pancake mix uses whole wheat, potassium bicarbonate, coconut sugar. Toss berries in flour. Watch for bubbles, not time to flip pancakes."
-focusKeyphrase: "blueberry pancake mix"
+description: "Make vegan blueberry pancakes at home with this dry mix. Whole wheat flour, coconut sugar, no nuts. Store it, use it for 42 pancakes over three breakfasts."
+metaDescription: "Vegan blueberry pancakes mix—whole wheat, nut-free, ready to store. Make fluffy pancakes whenever you want. Try it tonight."
+ogDescription: "Vegan blueberry pancakes made easy. Dry mix with whole wheat and coconut sugar. No eggs, no dairy, no nuts."
+focusKeyphrase: "blueberry pancakes"
 date: 2025-08-08
 draft: false
 image: blueberry-pancake-mix.jpg
@@ -22,8 +22,10 @@ tags:
 - "homemade"
 keywords:
 - "blueberry pancakes"
-- "dry mix pancakes"
-- "coconut sugar pancakes"
+- "vegan blueberry pancakes"
+- "blueberry pancakes homemade"
+- "easy blueberry pancakes"
+- "blueberry oat pancakes"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "180"

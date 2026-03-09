@@ -1,10 +1,10 @@
 ---
-title: "Blue Lagoon Fish Bowl"
+title: "Blue Lagoon Cocktail Recipe"
 slug: "blue-lagoon-fish-bowl"
-description: "A vibrant cocktail with a tropical kick. Blue curacao, Malibu rum, vodka, fresh lime juice, and fizzy lemon-lime soda mix in a large goblet. Ice kept dense at the bottom, candy fish pressed along the sides. Visual pops from marbles hiding under the candies, fun to sip with straws and mini umbrellas. The sweet lime tang contrasts with booze bite. Easy to tweak, great for parties. A single serving packed with colors and zing. Low sugar, light on fat, subtle minerals from soda and lime. Simple, playful, refreshing. Refresh the classic blue lagoon by stuffing the goblet more creatively. Almost a party in a glass, fizzy and bright."
-metaDescription: "Blue Lagoon Fish Bowl mixes blue curacao, Malibu rum, vodka, lime juice, lemon-lime soda, crushed ice, candy fish, and glass beads for a bright cocktail splash."
-ogDescription: "Bright blue lagoon split in glass bowl. Candy fish cling up walls. Vodka and coconut rum meld with lime and fizzy soda. Fun, layered, cooling sip all round."
-focusKeyphrase: "Blue Lagoon Fish Bowl cocktail"
+description: "Easy blue lagoon cocktail recipe with blue curacao, Malibu rum, vodka, and lime juice. Vibrant tropical drink perfect for parties."
+metaDescription: "Blue lagoon cocktail recipe: blue curacao, rum, vodka, and fresh lime. Make this tropical drink for parties tonight."
+ogDescription: "Blue curacao cocktail with rum and vodka. Tropical, fizzy, and fun for any gathering."
+focusKeyphrase: "blue lagoon cocktail recipe"
 date: 2025-12-26
 draft: false
 image: blue-lagoon-fish-bowl.jpg
@@ -21,9 +21,11 @@ tags:
 - "rum"
 - "vodka"
 keywords:
-- "blue lagoon"
-- "fish bowl cocktail"
-- "tropical drink"
+- "blue lagoon cocktail recipe"
+- "blue lagoon drink"
+- "blue curacao blue lagoon"
+- "blue lagoon ingredients"
+- "tropical cocktail recipe"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "260"

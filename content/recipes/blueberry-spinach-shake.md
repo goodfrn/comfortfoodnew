@@ -1,10 +1,10 @@
 ---
-title: "Vibrant Blueberry Spinach Shake"
+title: "Blueberry Spinach Smoothie with Prickly Pear"
 slug: "blueberry-spinach-shake"
-description: "A quick 5-minute blend of fresh spinach, frozen blueberries, banana, almond milk, and Greek yogurt reimagined with prickly pear juice for a vibrant twist. Nutritious, packed with antioxidants, bright colors, and creamy texture for 3 servings."
-metaDescription: "Vibrant Blueberry Spinach Shake blends fresh spinach, frozen blueberries, banana, almond milk, Greek yogurt, and prickly pear juice into 3 bright, creamy servings."
-ogDescription: "Quick blend of spinach, blueberries, banana, almond milk, Greek yogurt with prickly pear juice. Bright color, creamy texture, packed antioxidants fresh in 3 servings."
-focusKeyphrase: "Blueberry Spinach Shake"
+description: "5-minute blueberry spinach smoothie with frozen berries, Greek yogurt, and prickly pear juice. Creamy, packed with antioxidants, ready in one blender."
+metaDescription: "Blueberry spinach smoothie recipe with prickly pear juice. Creamy, nutrient-dense, and ready in 5 minutes. Make it tonight."
+ogDescription: "Quick blueberry spinach smoothie with a prickly pear twist. Frozen berries, Greek yogurt, banana, and almond milk blended smooth."
+focusKeyphrase: "blueberry spinach smoothie"
 date: 2026-02-12
 draft: false
 image: blueberry-spinach-shake.jpg
@@ -21,9 +21,11 @@ tags:
 - "blueberry"
 - "spinach"
 keywords:
-- "blueberry shake"
-- "green smoothie"
-- "healthy shake"
+- "blueberry spinach smoothie"
+- "spinach and blueberry smoothie"
+- "blueberry spinach smoothie recipe"
+- "banana blueberry spinach smoothie"
+- "berry spinach smoothie"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "140"

@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Cream Cheese Danish Twist"
+title: "Blueberry Cream Cheese Danish Recipe"
 slug: "blueberry-cream-cheese-danish"
-description: "Quick handheld pastries with a tangy cream cheese base and blueberry topping baked in buttery crescent dough. Cinnamon added for warmth. Makes 24 pieces, bite-sized and perfect for batches. Uses slight texture play with cream cheese sweetness balanced by the tart blueberry fruit. Works best baking in two rounds to avoid dough drying out. Visual cues critical—golden edges signal doneness. Slightly longer bake time than usual for interior cream cheese to firm without cracking. Lemon glaze adds bright kick post-bake, more sugar, less butter in the glaze for sharpness. Improvised cinnamon replaces vanilla for flavor depth. Subtle fruit freshening with lemon peel rind grated into filling."
-metaDescription: "Blueberry Cream Cheese Danish Twist with tangy filling, cinnamon warmth, golden edges, and lemon glaze. Bite-sized, baked fresh in two batches for flaky texture."
-ogDescription: "Handheld blueberry cream cheese Danish twists. Cinnamon spice, crisp golden edges, lemon glaze drizzle. Baking cues beat timers. Bite into layered textures."
-focusKeyphrase: "Blueberry Cream Cheese Danish Twist"
+description: "Handheld blueberry cream cheese danish pastries with buttery crescent dough, cinnamon warmth, and bright lemon glaze. Makes 24 pieces perfect for batches."
+metaDescription: "Blueberry cream cheese danish recipe with tangy filling, golden pastry, and lemon glaze. Make 24 bite-sized pastries in two rounds. Try it tonight."
+ogDescription: "Handheld blueberry cream cheese danish pastries with buttery layers, cinnamon, and tart fruit. Golden, tangy, and ready in batches."
+focusKeyphrase: "blueberry cream cheese danish recipe"
 date: 2025-10-05
 draft: false
 image: blueberry-cream-cheese-danish.jpg
@@ -21,9 +21,11 @@ tags:
 - "breakfast"
 - "dessert"
 keywords:
-- "cream cheese Danish"
-- "blueberry pastries"
-- "cinnamon lemon glaze"
+- "blueberry danish"
+- "blueberry cream cheese danish"
+- "blueberry danish recipe"
+- "blueberry cream cheese pastries"
+- "blueberry danish puff pastry"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "48"

@@ -1,10 +1,10 @@
 ---
-title: "Beet Risotto Twist"
+title: "Beet Risotto with Ricotta and Honey"
 slug: "beet-risotto-twist"
-description: "Beets steamed till tender, skinned, diced. Shallots and garlic sweated in butter plus olive oil. Arborio rice browned, half the beets tossed in early. White wine stirred till gone. Hot veggie broth ladled in slowly, absorbed between each addition. Salted, rest of beets stirred through at creamy finish. Ricotta dollop, honey drizzle tops off. Aromatic, earthy, slight sweetness hits balance. Simple swaps, slight timing shifts for texture and flavor layering. Rustic, tactile process, not rushed. Emphasis on feel, sight, smell to guide, not clocks."
-metaDescription: "Beet Risotto Twist blends earthy beets and creamy arborio rice with ricotta and honey drizzle for layered texture and deep flavor complexity."
-ogDescription: "Earthy beets, creamy rice, ricotta dollop, honey drizzle. Layered textures and flavors in a rustic Italian risotto with practical swaps and timing tips."
-focusKeyphrase: "Beet Risotto"
+description: "Creamy beet risotto recipe with earthy beetroot, arborio rice, and a ricotta dollop finished with honey. Step-by-step technique for perfect risotto texture."
+metaDescription: "Beet risotto recipe: tender beetroot, slow-stirred arborio rice, ricotta, and honey. Learn the tactile technique that builds real creaminess."
+ogDescription: "Creamy beet risotto with ricotta and honey. Earthy, balanced, and built on feel—not timing tricks."
+focusKeyphrase: "beet risotto recipe"
 date: 2025-10-11
 draft: false
 image: beet-risotto-twist.jpg
@@ -21,9 +21,10 @@ tags:
 - "one pot"
 - "easy dinner"
 keywords:
-- "beets"
-- "risotto"
-- "ricotta"
+- "beet risotto"
+- "beet risotto recipe"
+- "beetroot risotto recipe"
+- "creamy risotto"
 - "arborio rice"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 

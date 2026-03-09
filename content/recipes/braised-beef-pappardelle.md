@@ -1,10 +1,10 @@
 ---
-title: "Braised Beef Pappardelle Twist"
+title: "Braised Beef Pappardelle with Butternut Squash"
 slug: "braised-beef-pappardelle"
-description: "Chunks of chuck roast swapped for brisket, braised slowly till tender in a sauce built from roasted garlic, tomato paste, and a splash of Madeira replacing red wine. Butternut squash diced smaller, steamed briefly before joining the beef. Pappardelle cooked al dente, tossed with shredded beef, squash, parmesan, lemon zest, and chopped basil instead of parsley, for a fresher hint. Deep flavors, earthy sweetness, a touch of acid brightness from lemon, balanced with silky pasta. Braising low and slow, watching for collapse of beef fibers, and adjusting liquid to keep sauce glossy and coating."
-metaDescription: "Braised beef brisket slow-cooked with roasted garlic, Madeira, butternut squash, tossed with pappardelle, pecorino, basil, and lemon zest for rich earthy flavors"
-ogDescription: "Slow-braised brisket with roasted garlic and Madeira, pappardelle tossed with pecorino, basil, lemon zest, and tender butternut squash. Earthy, zesty, hearty."
-focusKeyphrase: "braised beef brisket pappardelle"
+description: "Brisket braised low and slow in Madeira and tomato paste, tossed with pappardelle, butternut squash, and fresh basil. Rich, earthy, and bright."
+metaDescription: "Braised beef pappardelle recipe: brisket in Madeira sauce, butternut squash, lemon zest. Deep flavors, silky pasta. Try it tonight."
+ogDescription: "Slow-braised brisket meets wide pappardelle. Earthy squash, bright lemon zest, and basil cut through the richness."
+focusKeyphrase: "braised beef pappardelle"
 date: 2025-08-13
 draft: false
 image: braised-beef-pappardelle.jpg
@@ -21,13 +21,11 @@ tags:
 - "fall"
 - "slow cooker"
 keywords:
-- "braised beef"
-- "pappardelle pasta"
-- "roasted garlic"
-- "Madeira wine"
-- "pecorino romano"
-- "fresh basil"
-- "butternut squash"
+- "braised beef pappardelle"
+- "braised brisket pappardelle"
+- "slow braised beef pasta"
+- "pappardelle beef ragu"
+- "braised beef butternut squash pasta"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "580"

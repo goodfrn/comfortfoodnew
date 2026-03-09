@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Muffins Revamped"
+title: "Blueberry Muffins with Cake Flour & Brown Sugar"
 slug: "blueberry-muffins-revamp"
-description: "Twist on classic blueberry muffins using cake flour instead of all-purpose for a lighter crumb; brown sugar in blueberry toss for subtle molasses depth; baking powder increased slightly for better rise. Melted butter, milk and egg blended gently then combined with sifted dry ingredients to keep texture tender. Blueberries tossed in sugar and flour to prevent sinking, fold in carefully to avoid blue streaking. Sugary topping adds crunch. Bake at 355 degrees slightly higher than usual to get a golden dome with springy touch. Watch muffin tops bounce back; cracks and aroma signal doneness. Instructions reorganized with tips on avoiding overmixing and frozen blueberry blues. Slightly adjusted bake times to best fit a home oven’s quirks."
-metaDescription: "Blueberry Muffins Revamped with cake flour, brown sugar toss for berries, and sugar topping. Mix gently, watch golden tops spring back; subtle caramel notes inside."
-ogDescription: "Twist on blueberry muffins using cake flour and brown sugar toss. Watch muffin tops bounce back, slight cracks signal done. Crunchy sugar topping optional, aroma clues the rest."
-focusKeyphrase: "blueberry muffins cake flour"
+description: "Blueberry muffins made lighter with cake flour and brown sugar for depth. Frozen blueberries won't sink, crispy sugar topping, golden dome every time."
+metaDescription: "Make blueberry muffins that stay tender with cake flour, brown sugar, and frozen blueberries. Golden dome, crispy top, no sinking. Try it tonight."
+ogDescription: "Blueberry muffins with cake flour for a lighter crumb and brown sugar toss. Works great with frozen blueberries. Golden dome guaranteed."
+focusKeyphrase: "blueberry muffins"
 date: 2026-01-28
 draft: false
 image: blueberry-muffins-revamp.jpg
@@ -22,8 +22,10 @@ tags:
 - "homemade"
 keywords:
 - "blueberry muffins"
-- "cake flour muffins"
-- "brown sugar blueberry"
+- "easy blueberry muffins"
+- "blueberry muffins with frozen blueberries"
+- "homemade blueberry muffins"
+- "simple blueberry muffins"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "210"

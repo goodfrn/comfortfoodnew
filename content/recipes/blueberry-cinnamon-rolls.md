@@ -1,9 +1,10 @@
 ---
-title: "Blueberry Cinnamon Rolls"
+title: "Blueberry Cinnamon Rolls Recipe"
+focusKeyphrase: "blueberry cinnamon rolls"
 slug: "blueberry-cinnamon-rolls"
-description: "Starts with a quick blueberry sauce thickened with cornstarch; dough blends warm milk, melted butter, yeast, eggs, and flour balanced for pliability. Rolled thin, layered with cinnamon sugar and butter, then blueberry sauce added before a gentle roll-up. Risen twice for soft, pillowy texture; baked until golden and finished with a tangy glaze. Swappable milk for any plant-based alternative; orange juice replaces lemon juice for fruit brightness. Timing varies by proofing warmth; dough feel guides flour amount. Sharp knife, steady hands for clean slices, or a dental floss trick. An imperfect handling process—gooey filling escape means alive dough. Warm kitchen, sweet aroma, and sticky fingers part of the game. 12 servings rather than exact hand counts. Total time roughly 2 hours 15 minutes."
-metaDescription: "Blueberry Cinnamon Rolls layered with cinnamon sugar and buttery blueberry filling; twice risen dough creates soft, pillowy texture finished with tangy glaze."
-ogDescription: "Soft cinnamon rolls swollen with thickened blueberry sauce, baked golden, then drizzled with tangy glaze. Dough rise, cooling cues, and flaky layers uncovered."
+description: "Homemade blueberry cinnamon rolls with quick blueberry sauce, soft dough, and tangy glaze. Make pillowy rolls in 2 hours 15 minutes with this easy recipe."
+metaDescription: "Blueberry cinnamon rolls recipe: soft dough, blueberry sauce filling, tangy glaze. Ready in 2 hours. Try it tonight."
+ogDescription: "Homemade blueberry cinnamon rolls with blueberry sauce and cinnamon sugar filling. Soft, pillowy, and gooey."
 focusKeyphrase: "blueberry cinnamon rolls"
 date: 2025-11-20
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "bread"
 - "comfort food"
 keywords:
-- "blueberry rolls"
-- "cinnamon sugar rolls"
-- "yeast dough recipe"
+- "blueberry cinnamon rolls"
+- "blueberry cinnamon roll recipe"
+- "blueberry sweet rolls"
+- "cinnamon rolls blueberry"
+- "blueberry lemon cinnamon rolls"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "310"

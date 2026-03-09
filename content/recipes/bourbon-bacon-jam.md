@@ -1,9 +1,10 @@
 ---
-title: "Bourbon Bacon Jam Remix"
+title: "Bourbon Bacon Jam Remix | Sticky & Savory"
+focusKeyphrase: "bourbon bacon jam"
 slug: "bourbon-bacon-jam"
-description: "Slow-simmered bacon bits with garlic, shallot, and a sweet-tart mix of brown sugar, red wine vinegar, maple syrup, and a splash of bourbon all meld into a sticky, savory jam. Cook low and slow to reduce liquids by a quarter, then return bacon for texture contrast. Swap sherry vinegar for red wine vinegar to punch up acidity. Use pork belly if bacon fails you; thicker cut means slower cook but richer fat. Aromas change as it thickens, don’t rush or scorch sugar. Perfect on toast, burgers, or grilled cheese. Always trust sight and smell over timers to nail texture."
-metaDescription: "Bourbon Bacon Jam Remix simmers thick-cut bacon, garlic, shallot with maple, bourbon, and tangy vinegar for a sticky, savory spread rich in texture and aroma."
-ogDescription: "Slow-cooked bourbon bacon jam with brown sugar, garlic, shallot, vinegar; sweet, smoky, sticky spread. Uses thick-cut bacon or pork belly for richer fat."
+description: "Slow-simmered bacon bourbon jam with maple syrup, brown sugar, and red wine vinegar. Low-and-slow technique builds deep flavor and sticky texture for toast, burgers, and grilled cheese."
+metaDescription: "Bourbon bacon jam recipe that's sticky, savory, and built on slow-simmered aromatics. Learn the technique to nail texture every time. Try it tonight."
+ogDescription: "Bacon bourbon jam with maple and brown sugar. Slow-simmered until sticky and rich. Works on everything from toast to burgers."
 focusKeyphrase: "bourbon bacon jam"
 date: 2025-11-19
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "comfort food"
 - "party"
 keywords:
-- "bacon jam"
-- "bourbon bacon"
-- "maple syrup bacon"
+- "bourbon bacon jam"
+- "bacon bourbon jam recipe"
+- "bacon jam recipe with bourbon"
+- "maple bacon bourbon jam"
+- "bourbon maple bacon jam"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "320"

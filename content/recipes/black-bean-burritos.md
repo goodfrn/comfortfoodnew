@@ -1,10 +1,10 @@
 ---
-title: "Black Bean Burritos"
+title: "Black Bean Burritos Recipe with Rice"
 slug: "black-bean-burritos"
-description: "Brown basmati rice cooks in lightly salted water until fluffy. Fresh pico de gallo with tomato, onion, jalapeño and lime juice. Garlic-sautéed black beans smashed into thick refried beans. Creamy avocado mashed with lime juice, layered inside whole wheat tortillas. Sweet corn kernels and shredded cheddar add texture and richness. Burritos brushed with oil, gently browned on all sides until crisp. Serve hot, slightly charred edges, with a touch of sour cream on the side if you like. Hearty, balanced, with a spicy zip and freshness. Practical twists for busy cooks and substitutions included."
-metaDescription: "Black Bean Burritos packed with creamy avocado, seasoned beans, fresh pico, and brown rice. Toasted tortillas turn crisp, layers of texture and spice inside."
-ogDescription: "Savor burritos with garlic-sautéed beans, creamy avocado mash, fresh pico de gallo, and nutty brown rice wrapped in crisp tortillas. Balanced, textured, spicy."
-focusKeyphrase: "black bean burritos"
+description: "Black bean burritos loaded with garlic-smashed beans, cilantro rice, avocado, and crispy edges. Easy vegetarian burrito recipe with pico de gallo and real substitutions for busy cooks."
+metaDescription: "Black bean burritos recipe with rice, beans, avocado, and pico de gallo. Crispy, hearty, and vegetarian. Make it tonight."
+ogDescription: "Black bean burritos stuffed with refried beans, rice, avocado, and charred on all sides until crisp. Easy vegetarian dinner."
+focusKeyphrase: "black bean burrito recipe"
 date: 2025-09-23
 draft: false
 image: black-bean-burritos.jpg
@@ -21,9 +21,11 @@ tags:
 - "avocado"
 - "corn"
 keywords:
-- "black beans"
-- "burritos"
-- "avocado mash"
+- "black bean burrito recipe"
+- "black bean burritos with rice"
+- "bean burrito recipe"
+- "vegetarian burrito"
+- "black bean and rice burrito"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"

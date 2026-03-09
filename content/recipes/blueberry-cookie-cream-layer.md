@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Cookie Cream Layer"
+title: "No Bake Blueberry Cheesecake Layer Dessert"
 slug: "blueberry-cookie-cream-layer"
-description: "A chilled dessert with a cookie crumb crust, layered with a cream cheese and whipped topping blend, topped with blueberry pie filling, pecans, and whipped cream. Cool and slightly crunchy crust contrasts with creamy, fruity layers. Uses Lorna Doone cookie crumbs and whipped topping; adapted with slight ingredient swap and timing tweaks to balance texture and flavor. Prep involves baking crust till aromatic and lightly firm. Chill before cutting to set layers properly. Pecan crunch adds a welcome texture break. Visual cues like browned edges and-spread cream thickness help judge progress. Substitute note: graham crackers can replace Lorna Doones; plain yogurt swaps for some whipped topping for tang and fewer calories."
-metaDescription: "Blueberry Cookie Cream Layer with buttery crust, creamy cheese filling, and fresh blueberry topping. Chilled dessert with crunch, tang, and layers balanced just right."
-ogDescription: "Crunchy cookie crust, creamy cheese layer, and fresh blueberries chill together. Texture contrast, real flavor bursts, and easy-sub swaps for crumbly success."
-focusKeyphrase: "Blueberry Cookie Cream Layer"
+description: "No bake blueberry cheesecake with cookie crumb crust, creamy cheese layer, and fresh blueberry topping. Chilled dessert ready in hours, no oven needed for the filling."
+metaDescription: "No bake blueberry cheesecake recipe with cookie crust and cream cheese layers. Chilled, ready to serve. Try it tonight."
+ogDescription: "Layered no bake blueberry cheesecake with crispy cookie crust and creamy filling. Chill and slice."
+focusKeyphrase: "no bake blueberry cheesecake"
 date: 2025-11-05
 draft: false
 image: blueberry-cookie-cream-layer.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "party"
 keywords:
-- "cookie crumb crust"
-- "cream cheese dessert"
-- "blueberry cream layer"
+- "no bake blueberry cheesecake"
+- "blueberry cheesecake"
+- "blueberry cream cheese dessert"
+- "no bake cheesecake recipe"
+- "blueberry dessert no bake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

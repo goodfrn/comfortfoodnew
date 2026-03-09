@@ -1,9 +1,10 @@
 ---
-title: "Blueberry Cheesecake Cookies"
+title: "Blueberry Cheesecake Cookies Recipe"
+focusKeyphrase: "blueberry cheesecake cookies"
 slug: "blueberry-cheesecake-cookies"
-description: "Cookies merging fresh blueberries and creamy cheesecake flavors into one bite. Butter and cream cheese creamed until airy gives tender crumb. White chocolate chips folded in for pockets of sweetness. Sifted dry mix prevents dense dough. Low mixer speed guards crumb structure. Baking until edges blush golden, centers soft but set. Cooling on sheet first keeps shape intact. Substitutions: Greek yogurt for sour cream or almond flour for part of AP flour if gluten-sensitive. Fold gently to avoid breaking berries and mushing chips. Internal cues more reliable than strict times. Thickness and color changes signal done. Balanced sugar preserves gentle tang from cream cheese, no curdle. Moderate oven temp keeps blueberries from bursting wildly, trapping moisture."
-metaDescription: "Blueberry cheesecake cookies blend fresh berries, creamy cheese, and white chocolate into tender, cakey bites with subtle tang and golden edges."
-ogDescription: "Soft blueberry cheesecake cookies with white chocolate pockets, tangy cream cheese, and gentle golden edges. Watch for cracks and color shifts to know when done."
+description: "Blueberry cheesecake cookies with cream cheese and white chocolate. Tender crumb from creamed butter and cream cheese, soft centers, golden edges. Try it tonight."
+metaDescription: "Blueberry cheesecake cookies recipe with cream cheese, white chocolate chips, and fresh berries. Soft centers, crispy edges. Save this one."
+ogDescription: "Blueberry cheesecake cookies packed with fresh berries and white chocolate. Creamy, tender, done when edges turn golden."
 focusKeyphrase: "blueberry cheesecake cookies"
 date: 2026-01-24
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "blueberry cookies"
+- "blueberry cheesecake cookies"
+- "blueberry cookies with cream cheese"
+- "blueberry cheesecake cookie recipe"
+- "blueberry lemon cheesecake cookies"
 - "cheesecake cookies"
-- "cream cheese baking"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "178"

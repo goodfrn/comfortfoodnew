@@ -1,10 +1,10 @@
 ---
-title: "Belgian Waffles Redo"
+title: "Belgian Waffles with Overnight Yeast Batter"
 slug: "belgian-waffles-redo"
-description: "A slower overnight rise waffle batter with a butter and milk base switched for cream and oil. Sugar pearl swapped with coarse crystal for crunch. Yeast increased slightly. The batter left lumpy on purpose. Cooked on hot griddle until visible steam stops, golden with crisp edges. Keeps warm wrapped in towels. Great for brunch or quick sweet savory tweak."
-metaDescription: "Belgian Waffles Redo with creamy batter, coarse sugar crunch, slow yeast rise, and crisp edges. Overnight chill, cooked till steam fades for rich texture and flavor."
-ogDescription: "Slow yeast rise, coarse sugar crunch, cream and oil base. Cook waffles till steam stops, edges crisp. Keep warm wrapped. Rustic brunch ready."
-focusKeyphrase: "Belgian waffles overnight rise"
+description: "Overnight yeast belgian waffles with crispy pearl sugar crust and tender interior. Cream and oil base, intentionally lumpy batter, cooked until golden and steaming."
+metaDescription: "Belgian waffles recipe with overnight yeast batter and coarse sugar crust. Crispy edges, warm centers, ready in minutes. Make them tonight."
+ogDescription: "Overnight yeast belgian waffles. Pearl sugar crust, cream base, crispy edges. The batter technique that actually works."
+focusKeyphrase: "belgian waffles"
 date: 2025-08-15
 draft: false
 image: belgian-waffles-redo.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy"
 keywords:
-- "Belgian waffles"
-- "overnight waffle batter"
-- "coarse sugar crunch"
+- "belgian waffles"
+- "authentic belgian waffles"
+- "belgian waffle batter"
+- "homemade belgian waffle"
+- "liege waffles"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "280"

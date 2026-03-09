@@ -1,10 +1,10 @@
 ---
-title: "Black Forest Tart Remix"
+title: "Black Forest Tart Remix: Raspberry & White Chocolate"
 slug: "black-forest-tart-remix"
-description: "A twist on the classic Black Forest tart swapping cherries and chocolate intensities. Uses raspberries instead of griottes for a sharper bite and white chocolate melting gently into the cream base. Thin almond flour base swapped for a rich shortbread crust. Kirsch swapped with raspberry liqueur for subtler fruit notes. Tactile and visual cues prioritized for baking and chilling. Tips for spotting crust readiness, cream thickness, and proper fruit reduction. Sensory-rich instructions to fine tune timing in any home kitchen. Perfect for those who’ve struggled with soggy crusts or runny filling in classic recipes."
-metaDescription: "Black Forest Tart Remix swaps cherries for raspberries, white chocolate in cream, shortbread crust; sensory cues guide baking and chilling for firm textures."
-ogDescription: "Raspberries replace cherries here. White chocolate melts into cream while shortbread crust bakes golden. Watch bubbling, texture, chill times for right set."
-focusKeyphrase: "Black Forest Tart Remix"
+description: "Black forest tart with a modern twist—raspberries replace cherries, white chocolate softens the cream, and shortbread replaces almond flour. Skip the soggy crust problems."
+metaDescription: "Black forest tart with raspberries, white chocolate, and shortbread crust. Crisp base, tart fruit, silky filling. Try it tonight."
+ogDescription: "Black forest tart reimagined with raspberries and white chocolate. Shortbread crust that stays crisp, fruit that pops."
+focusKeyphrase: "black forest tart"
 date: 2025-08-06
 draft: false
 image: black-forest-tart-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "almond"
 keywords:
-- "Black Forest tart"
-- "raspberry liqueur"
-- "whipped cream topping"
+- "black forest tart"
+- "black forest tartlets"
+- "chocolate tart recipe"
+- "raspberry chocolate tart"
+- "white chocolate tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "385"

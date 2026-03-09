@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Angel Food Trifle"
+title: "Blueberry Trifle with Angel Food Cake"
 slug: "blueberry-angel-food-trifle"
-description: "Light angel food cake cut into cubes, layered with blueberry pie filling and a tangy pudding mixture, topped with whipped cream and more blueberries. Chilling allows flavors to meld. Uses sour cream stirred into instant pudding for rich texture. Serrated knife essential to preserve cake’s airy crumb. Can swap blueberry pie with cherry. Chill several hours; overnight better. Visual layers pop in glass trifle bowl but 9x9 pan works fine. A fluffy, fruity dessert that balances sweet and tart, with a creamy top. Easy prep, no actual baking if store-bought cake used. Whips up fast but patience needed to let layers soak."
-metaDescription: "Blueberry Angel Food Trifle layered with airy cake cubes, blueberry filling, pudding mixed with sour cream, whipped topping; chill hours for melding flavors."
-ogDescription: "Light angel food cake layered with blueberry filling and tangy pudding mix. Chill hours; rustic, textured layers shine in trifle or pan. No bake needed."
-focusKeyphrase: "Blueberry Angel Food Trifle"
+description: "Light blueberry trifle layered with angel food cake, pie filling, and creamy pudding. Chill overnight for flavors to meld. No baking required."
+metaDescription: "Blueberry trifle recipe with angel food cake, pudding, and whipped cream. Easy no-bake dessert. Make it tonight."
+ogDescription: "Layered blueberry trifle with fluffy angel food cake and tangy pudding. Light, fruity, and ready in minutes."
+focusKeyphrase: "blueberry trifle"
 date: 2025-11-19
 draft: false
 image: blueberry-angel-food-trifle.jpg
@@ -21,10 +21,11 @@ tags:
 - "party"
 - "dessert"
 keywords:
-- "angel food cake"
-- "blueberry pie filling"
-- "instant vanilla pudding"
-- "whipped topping"
+- "blueberry trifle"
+- "blueberry trifle dessert"
+- "angel food cake blueberry trifle"
+- "blueberry trifle recipe"
+- "no-bake blueberry dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "256"

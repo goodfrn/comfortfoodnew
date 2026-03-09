@@ -1,10 +1,10 @@
 ---
-title: "Berry French Toast Bake"
+title: "Berry French Toast Bake with Streusel"
 slug: "berry-french-toast-bake"
-description: "A morning french bread bake with eggs, milk, fresh berries and a crumbly buttery streusel. Infused with cinnamon and vanilla. Refrigerate before baking for soak. Berries scattered on top add bursts of tartness. Golden crumb topping. Bakes until set, slightly puffed, with a fragrant aroma. Serve warm with syrup or powdered sugar. French bread can be swapped with challah or brioche. Streusel adds crunch and balances eggy custard base. Timing and visuals key for bake doneness. Fresh and sweet breakfast crowd-pleaser, easy to prep ahead."
-metaDescription: "Berry French Toast Bake with cinnamon-streusel topping, soaked bread, fresh berries, baked slow for rich, textured breakfast that’s cozy and vibrant."
-ogDescription: "Cinnamon-lined custard soaking bread until soft, topped with streusel crunch and fresh berries. Chill long, bake low, serve warm. Textures pop, aromas bloom."
-focusKeyphrase: "Berry French Toast Bake"
+description: "Easy berry french toast bake with eggs, milk, and a buttery streusel topping. Make ahead, refrigerate overnight, then bake until golden and puffed for a crowd-pleasing breakfast."
+metaDescription: "Berry french toast bake recipe with make-ahead convenience. Streusel topping, cinnamon vanilla custard, fresh berries. Bake and serve warm."
+ogDescription: "A make-ahead berry french toast bake with buttery streusel. Soak overnight, bake until golden. Easy breakfast for a crowd."
+focusKeyphrase: "french toast bake with berries"
 date: 2026-01-30
 draft: false
 image: berry-french-toast-bake.jpg
@@ -21,9 +21,11 @@ tags:
 - "cinnamon"
 - "vanilla"
 keywords:
-- "french toast bake"
-- "streusel topping"
-- "overnight soak"
+- "french toast bake with blueberries"
+- "berry french toast casserole"
+- "overnight blueberry french toast"
+- "blueberry french toast casserole recipe"
+- "make ahead french toast bake"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
