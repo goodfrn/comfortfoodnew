@@ -3,10 +3,162 @@
   "title": "Air Fryer Cauliflower Twist",
   "seed_keyword": "air fryer cauliflower",
   "keywords": {
-    "primary": null,
-    "secondary": [],
-    "lsi": [],
-    "all": []
+    "primary": {
+      "keyword": "air fryer cauliflower",
+      "volume": 33100,
+      "competition": 9
+    },
+    "secondary": [
+      {
+        "keyword": "cauliflower in air fryer",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cauliflower in an air fryer",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cauliflower in the air fryer",
+        "volume": 33100,
+        "competition": 9
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "air fryer cauliflower recipes",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "cauliflower air fryer recipes",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "air fried cauliflower recipe",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "air fryer cauliflower recipe",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "cauliflower recipes in airfryer",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "air fried cauliflower",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "cauliflower air fryer",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "air fryer roast cauliflower",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "roast cauliflower air fryer",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "roast cauliflower in air fryer",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "buffalo cauliflower airfryer",
+        "volume": 3600,
+        "competition": 11
+      }
+    ],
+    "all": [
+      {
+        "keyword": "air fryer cauliflower",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cauliflower in air fryer",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cauliflower in an air fryer",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cauliflower in the air fryer",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "air fryer cauliflower recipes",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "cauliflower air fryer recipes",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "air fried cauliflower recipe",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "air fryer cauliflower recipe",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "cauliflower recipes in airfryer",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "air fried cauliflower",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "cauliflower air fryer",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "air fryer roast cauliflower",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "roast cauliflower air fryer",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "roast cauliflower in air fryer",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "buffalo cauliflower airfryer",
+        "volume": 3600,
+        "competition": 11
+      }
+    ]
   },
   "processed": false
 }
