@@ -1,0 +1,25 @@
+{
+  "slug": "braised-beef-pappardelle",
+  "title": "Braised Beef Pappardelle Twist",
+  "seed_keyword": "braised beef pappardelle",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "braised beef pappardelle",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "braised short rib pappardelle",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "braised beef ragu pappardelle",
+        "volume": 140,
+        "competition": 4
+      }
+    ]
+  },
+  "processed": false
+}

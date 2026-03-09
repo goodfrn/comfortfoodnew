@@ -1,0 +1,260 @@
+{
+  "slug": "boiled-corn-on-cob",
+  "title": "Boiled Corn On Cob",
+  "seed_keyword": "boiled corn on the cob",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "howto cook corn on the cob",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "boiled corn on the cob",
+        "volume": 40500,
+        "competition": 24
+      },
+      {
+        "keyword": "boil ear of corn",
+        "volume": 40500,
+        "competition": 24
+      },
+      {
+        "keyword": "boil corn",
+        "volume": 27100,
+        "competition": 19
+      },
+      {
+        "keyword": "cooking corn in microwave with husk",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "cooking corn on the cob",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "cook an ear of corn",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "howto cook corn",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "prepare corn on the cob",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "best way cook corn on cob",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "best way cook corn on the cob",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "best way to boil corn on cob",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "best way to cook corn cob",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "corn on cob how to cook",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "boil corn on the cob time",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "boil corn time",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "corn cooking time boil",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "cooking corn on the cob on the grill",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cook corn on the bbq",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking ears of corn on the grill",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "steamed corn on cob",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "cook corn",
+        "volume": 5400,
+        "competition": 12
+      },
+      {
+        "keyword": "corn on cob slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "corn on the cob stove top",
+        "volume": 5400,
+        "competition": 24
+      },
+      {
+        "keyword": "boil sweet corn",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "cook corn in microwave",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "cook corn in the oven",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "cook time corn on the cob",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "sweet corn boil time",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet corn cook time",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "boil corn recipe",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "cook corn cob in microwave",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "cook sweet corn",
+        "volume": 2400,
+        "competition": 18
+      },
+      {
+        "keyword": "cook time corn",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "corn on the cob grilling time",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "preparing sweet corn",
+        "volume": 2400,
+        "competition": 18
+      },
+      {
+        "keyword": "recipe for boil corn",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "time for cooking corn",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "best way cook corn",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "boil corn for how long",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "boiled corn on cob recipe",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "boiled frozen corn on the cob",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "cook corn on the cob on the stove",
+        "volume": 1900,
+        "competition": 26
+      },
+      {
+        "keyword": "cook frozen corn on the cob",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "corn cob pot",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "best boiled corn on the cob",
+        "volume": 1600,
+        "competition": 13
+      },
+      {
+        "keyword": "cook fresh corn",
+        "volume": 1600,
+        "competition": 19
+      },
+      {
+        "keyword": "cook fresh corn on the cob",
+        "volume": 1600,
+        "competition": 19
+      },
+      {
+        "keyword": "perfect boiled corn on cob",
+        "volume": 1600,
+        "competition": 13
+      },
+      {
+        "keyword": "corn on the grill cook time",
+        "volume": 1300,
+        "competition": 6
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "blueberry-spinach-shake",
+  "title": "Vibrant Blueberry Spinach Shake",
+  "seed_keyword": "blueberry spinach smoothie",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry spinach smoothie",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "spinach and blueberry smoothie",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "berry spinach smoothie",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "smoothie with blueberries and spinach",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "smoothie with spinach and blueberries",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "banana blueberry and spinach smoothie",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "smoothie blueberry banana spinach",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "smoothie with banana blueberry and spinach",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "berry spinach smoothie recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry and spinach smoothie recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry spinach smoothie recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry spinach",
+        "volume": 170,
+        "competition": 10
+      },
+      {
+        "keyword": "berry and spinach smoothie recipe",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "banana berries spinach smoothie",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry strawberry spinach smoothie",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "spinach strawberry blueberry smoothie",
+        "volume": 110,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

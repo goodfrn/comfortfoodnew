@@ -1,0 +1,260 @@
+{
+  "slug": "blueberry-pancake-mix",
+  "title": "Blueberry Pancake Mix",
+  "seed_keyword": "blueberry pancakes",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry pancakes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "blueberries and pancakes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "blueberry hotcakes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "pancakes and blueberries",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "blueberry dutch pancake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry pancakes near me",
+        "volume": 3600,
+        "competition": 22
+      },
+      {
+        "keyword": "banana and blueberry pancakes",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "banana blueberry pancake",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry and lemon pancakes",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry lemon pancake",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry buttermilk pancake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "buttermilk and blueberry pancakes",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "blueberry and ricotta pancakes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry cottage cheese pancakes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry pancake house",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "blueberry ricotta hotcakes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry ricotta pancakes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "pancake berry",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "pancakes with ricotta cheese and blueberries",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry protein pancakes",
+        "volume": 1300,
+        "competition": 76
+      },
+      {
+        "keyword": "frozen blueberry pancakes",
+        "volume": 1300,
+        "competition": 41
+      },
+      {
+        "keyword": "blueberries pancakes healthy",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry and oat pancakes",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry fluffy pancakes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry lemon ricotta pancakes",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry oat pancakes",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry oatmeal pancake",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry pancakes frozen berries",
+        "volume": 1300,
+        "competition": 41
+      },
+      {
+        "keyword": "blueberry pancakes frozen blueberries",
+        "volume": 1300,
+        "competition": 41
+      },
+      {
+        "keyword": "blueberry pancakes protein",
+        "volume": 1300,
+        "competition": 76
+      },
+      {
+        "keyword": "frozen blueberries for pancakes",
+        "volume": 1300,
+        "competition": 41
+      },
+      {
+        "keyword": "healthy berry pancakes",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "american blueberry pancakes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry hill pancake",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry pancakes american",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry pancakes cracker barrel",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "best blueberry pancake",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry pancakes homemade",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "blueberry pancakes ihop",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan blueberry pancakes",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "easy blueberry pancakes",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry muffin mix pancakes",
+        "volume": 720,
+        "competition": 6
+      },
+      {
+        "keyword": "blueberry muffin pancakes",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry pancake day",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "simple blueberry pancakes",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry gluten free pancakes",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "blueberry pancakes gluten free",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "double blueberry pancakes ihop",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "eggo blueberry pancakes",
+        "volume": 390,
+        "competition": 78
+      },
+      {
+        "keyword": "baked blueberry pancake",
+        "volume": 390,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

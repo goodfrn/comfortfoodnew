@@ -1,0 +1,45 @@
+{
+  "slug": "blueberry-cheesecake-cookies",
+  "title": "Blueberry Cheesecake Cookies",
+  "seed_keyword": "blueberry cheesecake cookies",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry cheesecake cookies",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry lemon cheesecake cookies",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry cookies with cream cheese",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry creamcheese cookies",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry cheesecake cookie recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "crumbl blueberry cheesecake",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "jiffy blueberry cheesecake cookies",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

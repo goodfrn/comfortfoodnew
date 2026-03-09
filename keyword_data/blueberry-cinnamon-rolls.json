@@ -1,0 +1,65 @@
+{
+  "slug": "blueberry-cinnamon-rolls",
+  "title": "Blueberry Cinnamon Rolls",
+  "seed_keyword": "blueberry cinnamon rolls",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry cinnamon rolls",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "blueberry cinnamon buns",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "blueberry cinnamon roll recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon blueberry cinnamon rolls",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry lemon cinnamon rolls",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry cinnamon roll casserole",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry sweet rolls",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon blueberry sweet rolls",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry cinnamon rolls pillsbury",
+        "volume": 210,
+        "competition": 31
+      },
+      {
+        "keyword": "pillsbury cinnamon rolls with blueberries",
+        "volume": 210,
+        "competition": 31
+      },
+      {
+        "keyword": "cinnamon rolls blueberry",
+        "volume": 110,
+        "competition": 7
+      }
+    ]
+  },
+  "processed": false
+}

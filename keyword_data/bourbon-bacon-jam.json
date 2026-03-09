@@ -1,0 +1,40 @@
+{
+  "slug": "bourbon-bacon-jam",
+  "title": "Bourbon Bacon Jam Remix",
+  "seed_keyword": "bourbon bacon jam",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bourbon bacon jam",
+        "volume": 1300,
+        "competition": 49
+      },
+      {
+        "keyword": "bacon bourbon jam recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon jam recipe with bourbon",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon bourbon marmalade",
+        "volume": 170,
+        "competition": 11
+      },
+      {
+        "keyword": "bourbon maple bacon jam",
+        "volume": 140,
+        "competition": 49
+      },
+      {
+        "keyword": "maple bacon bourbon jam",
+        "volume": 140,
+        "competition": 49
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,90 @@
+{
+  "slug": "beet-risotto-twist",
+  "title": "Beet Risotto Twist",
+  "seed_keyword": "beet risotto",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beet risotto",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "beet risotto recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "beetroot risotto recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "beet and goat cheese risotto",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot and goat cheese risotto",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "goats cheese and beetroot risotto",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot and feta risotto",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot feta risotto",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot risotto with feta",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot risotto jamie oliver",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "beet goat cheese risotto",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "beet risotto gordon ramsay",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot goat cheese risotto",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "red beet risotto",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "roast beetroot risotto",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted beet risotto",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

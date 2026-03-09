@@ -1,0 +1,40 @@
+{
+  "slug": "boston-cream-cupcakes",
+  "title": "Boston Cream Cupcakes",
+  "seed_keyword": "boston cream cupcakes",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "boston cream cupcakes",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "boston cream cake cupcakes",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "boston cream cupcake recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "boston cream cupcakes with cake mix",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "boston cream cupcakes easy",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "boston cream cupcakes betty crocker",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

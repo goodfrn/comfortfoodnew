@@ -1,0 +1,260 @@
+{
+  "slug": "beer-battered-fish-fry",
+  "title": "Beer Battered Fish Fry",
+  "seed_keyword": "beer battered fish",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beer battered fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "fish batter recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "ale battered fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "batter beer fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "batter for cooking fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "batter for fish with beer",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer batter fish batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer breaded fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer for fish batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "fish with beer batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "make a batter for fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for making batter for fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "seafood batter recipes",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "fish batter",
+        "volume": 22200,
+        "competition": 55
+      },
+      {
+        "keyword": "beer batter recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "batter on fish",
+        "volume": 22200,
+        "competition": 55
+      },
+      {
+        "keyword": "beer batter",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "beer for batter",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "beer batter fish recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "batter beer fish recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "batter chips",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for fish beer batter",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "fish and chips batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "batter fish fry",
+        "volume": 9900,
+        "competition": 75
+      },
+      {
+        "keyword": "batter fish n chips",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "batter for fish & chips",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "battered fish & chips",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "beer batter fry",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "fish & chip batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "fish and chip batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "fish and chips fish batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "fish batter for frying fish",
+        "volume": 9900,
+        "competition": 75
+      },
+      {
+        "keyword": "battered cod",
+        "volume": 6600,
+        "competition": 57
+      },
+      {
+        "keyword": "batter cod fish",
+        "volume": 6600,
+        "competition": 57
+      },
+      {
+        "keyword": "beer battered cod",
+        "volume": 5400,
+        "competition": 54
+      },
+      {
+        "keyword": "beer battered fish tacos",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "beer batter cod fish",
+        "volume": 5400,
+        "competition": 54
+      },
+      {
+        "keyword": "fish beer batter tacos",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "fish tacos with beer batter",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "batter for fish and chips with beer",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "beer batter fish & chips",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "beer batter fish and chip",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "beer batter fish n chips",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "beer battered fish & chips recipe",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "fish n chips recipe beer batter",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "simple fish batter",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "basic fish batter",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "crispiest fish batter",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "easy battered fish",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "quick fish batter",
+        "volume": 3600,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

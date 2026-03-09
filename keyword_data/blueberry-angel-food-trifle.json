@@ -1,0 +1,105 @@
+{
+  "slug": "blueberry-angel-food-trifle",
+  "title": "Blueberry Angel Food Trifle",
+  "seed_keyword": "blueberry trifle",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry trifle",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry trifle dessert",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry and lemon trifle",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry lemon trifle",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry and strawberry trifle",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry strawberry trifle",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry truffle",
+        "volume": 480,
+        "competition": 47
+      },
+      {
+        "keyword": "blueberry trifle with angel food cake",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry trifle with pound cake",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry lemon trifle recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry trifle cake",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry trifle recipe",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry cheesecake trifle",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "angel food cake blueberry trifle",
+        "volume": 110,
+        "competition": 3
+      },
+      {
+        "keyword": "blueberry angel food cake trifle",
+        "volume": 110,
+        "competition": 3
+      },
+      {
+        "keyword": "blueberry truffle cake",
+        "volume": 110,
+        "competition": 22
+      },
+      {
+        "keyword": "red white and blue berry trifle",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "red white blueberry trifle",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "strawberry blueberry angel food cake trifle",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

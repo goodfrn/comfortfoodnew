@@ -1,0 +1,20 @@
+{
+  "slug": "blackberry-buckle-twist",
+  "title": "Blackberry Buckle Twist",
+  "seed_keyword": "blackberry buckle",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blackberry buckle",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "blackberry buckle recipe",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

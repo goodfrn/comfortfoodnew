@@ -1,0 +1,55 @@
+{
+  "slug": "blueberry-bread-pudding",
+  "title": "Blueberry Bread Pudding Maple Sauce",
+  "seed_keyword": "blueberry bread pudding",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry bread pudding",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "berry bread pudding",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "berry bread pudding recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry bread pudding recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry lemon bread pudding",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry white chocolate bread pudding",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry bread and butter pudding",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry croissant bread pudding",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "bread and butter pudding with blueberries",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

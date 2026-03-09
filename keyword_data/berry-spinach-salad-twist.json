@@ -1,0 +1,70 @@
+{
+  "slug": "berry-spinach-salad-twist",
+  "title": "Berry Spinach Salad Twist",
+  "seed_keyword": "berry spinach salad",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "berry spinach salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry and spinach salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry spinach salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach and berry salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "raspberry and spinach salad",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "raspberry spinach salad",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "spinach blueberry strawberry salad",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach salad with blueberries and strawberries",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "berry spinach salad recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry spinach salad recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach and blueberry salad recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach berries",
+        "volume": 170,
+        "competition": 10
+      }
+    ]
+  },
+  "processed": false
+}

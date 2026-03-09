@@ -1,0 +1,75 @@
+{
+  "slug": "blueberry-cream-cheese-danish",
+  "title": "Blueberry Cream Cheese Danish Twist",
+  "seed_keyword": "blueberry cream cheese danish",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry danish",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "blueberry danish pastry recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry danish recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry cream cheese danish",
+        "volume": 590,
+        "competition": 26
+      },
+      {
+        "keyword": "blueberry cheese danish",
+        "volume": 590,
+        "competition": 48
+      },
+      {
+        "keyword": "blueberry cheese danish cake",
+        "volume": 590,
+        "competition": 48
+      },
+      {
+        "keyword": "blueberry cream cheese puff pastry",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry cream cheese pastries",
+        "volume": 320,
+        "competition": 15
+      },
+      {
+        "keyword": "blueberry cheese pastry",
+        "volume": 210,
+        "competition": 26
+      },
+      {
+        "keyword": "blueberry danish pastry",
+        "volume": 210,
+        "competition": 22
+      },
+      {
+        "keyword": "blueberry danish puff pastry",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry puff pastry danish",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry cream cheese danish recipe",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

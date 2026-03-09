@@ -1,0 +1,20 @@
+{
+  "slug": "black-forest-tart-remix",
+  "title": "Black Forest Tart Remix",
+  "seed_keyword": "black forest tart recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "black forest tartlets",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "tart black forest",
+        "volume": 390,
+        "competition": 8
+      }
+    ]
+  },
+  "processed": false
+}

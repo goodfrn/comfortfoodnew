@@ -1,0 +1,260 @@
+{
+  "slug": "blueberry-buttermilk-muffins",
+  "title": "Blueberry Buttermilk Muffins",
+  "seed_keyword": "blueberry muffins",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blueberry muffins",
+        "volume": 165000,
+        "competition": 15
+      },
+      {
+        "keyword": "blueberry and muffins",
+        "volume": 165000,
+        "competition": 15
+      },
+      {
+        "keyword": "easy blueberry muffins",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "banana blueberry muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon blueberry muffins",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "simple blueberry muffins",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "banana and blueberries muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana berry muffin",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "basic blueberry muffins",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "easy to make blueberry muffins",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "healthy blueberry muffins",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "blueberry oatmeal muffins",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry oat muffins",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "berry and oat muffins",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry and oat muffins",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "blueberry and oatmeal muffins",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "berry muffins",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "gluten free blueberry muffins",
+        "volume": 8100,
+        "competition": 28
+      },
+      {
+        "keyword": "homemade blueberry muffins",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "blue berry cupcakes",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "blueberry banana bread muffins",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry sourdough muffins",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "home made blue berry muffins",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "mini blueberry muffins",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "protein blueberry muffins",
+        "volume": 6600,
+        "competition": 43
+      },
+      {
+        "keyword": "vegan blueberry muffins",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "blueberry streusel muffins",
+        "volume": 6600,
+        "competition": 14
+      },
+      {
+        "keyword": "banana and blueberry",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry cottage cheese muffins",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry muffin calorie",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "mini berry muffins",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "mini blue berry muffins",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "vegan berry muffins",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "blueberry muffins with yogurt",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry muffins with frozen blueberries",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "frozen blueberry muffins",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "blueberry and yoghurt muffins",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry and yogurt muffins",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry muffins frozen berries",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "blueberry muffins using frozen blueberries",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "blueberry muffins using yogurt",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "yogurt and blueberry muffins",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "jordan marsh blueberry muffins",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "best blueberry muffins",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "best blue berry muffins",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "blueberry and lemon cupcakes",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "blueberry lemon cupcake",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "the blueberry muffin",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "keto blueberry muffins",
+        "volume": 3600,
+        "competition": 41
+      },
+      {
+        "keyword": "starbucks blueberry muffin",
+        "volume": 3600,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}
