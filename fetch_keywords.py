@@ -6,6 +6,7 @@ import time
 import requests
 import anthropic
 from pathlib import Path
+from datetime import datetime, timedelta
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
 DFS_LOGIN    = os.environ.get("DATAFORSEO_LOGIN")
@@ -15,11 +16,23 @@ API_URL      = "https://api.dataforseo.com/v3/keywords_data/google_ads/keywords_
 batch_size  = int(os.environ.get("BATCH_SIZE", 50))
 start_index = int(os.environ.get("START_INDEX", 0))
 
-MIN_VOLUME       = 50
+MIN_VOLUME       = 100
 MAX_COMPETITION  = 80
 MAX_RESULTS_KEPT = 15
 
+GENERIC = {
+    "recipe", "food", "dinner", "recipes", "easy", "healthy",
+    "cooking", "make", "best", "how to", "homemade", "simple", "quick"
+}
+
 # ── HELPERS ───────────────────────────────────────────────────────────────────
+def get_date_range():
+    today     = datetime.today()
+    last_month = today.replace(day=1) - timedelta(days=1)
+    date_to   = last_month.strftime("%Y-%m-%d")
+    date_from = last_month.replace(day=1).strftime("%Y-%m-%d")
+    return date_from, date_to
+
 def extract_yaml_block(content):
     match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
     if match:
@@ -38,7 +51,6 @@ def already_fetched(slug):
         return False
     with open(f, "r", encoding="utf-8") as fp:
         data = json.load(fp)
-    # refetch si primary est null
     return data.get("keywords", {}).get("primary") is not None
 
 def load_skip_list():
@@ -49,7 +61,6 @@ def load_skip_list():
         return set(line.strip() for line in f if line.strip() and not line.startswith("#"))
 
 def get_seed_keyword(client, title, description):
-    """Use Haiku to extract the best seed keyword from title + description"""
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=20,
@@ -58,25 +69,36 @@ def get_seed_keyword(client, title, description):
             "content": f"""Recipe title: {title}
 Description: {description[:200]}
 
-Return the single most searched Google keyword for this recipe.
-Short, simple, no fluff. Just the keyword, nothing else."""
+What is the most searched Google keyword for this exact recipe?
+Focus on the MAIN INGREDIENT + COOKING METHOD or DISH TYPE.
+Return only the keyword, nothing else. Lowercase."""
         }]
     )
     return message.content[0].text.strip().lower()
 
 def fetch_keywords(seed_keyword):
-    """Call DataForSEO with seed keyword — worldwide, no location filter"""
+    date_from, date_to = get_date_range()
+
     payload = [{
         "keywords": [seed_keyword],
         "language_code": "en",
-        "sort_by": "search_volume"
+        "sort_by": "search_volume",
+        "date_from": date_from,
+        "date_to": date_to
     }]
 
     try:
-        response = requests.post(
+        import base64
+        credentials = base64.b64encode(f"{DFS_LOGIN}:{DFS_PASSWORD}".encode()).decode()
+        headers = {
+            "Authorization": f"Basic {credentials}",
+            "Content-Type": "application/json"
+        }
+        response = requests.request(
+            "POST",
             API_URL,
-            auth=(DFS_LOGIN, DFS_PASSWORD),
-            json=payload,
+            headers=headers,
+            data=json.dumps(payload),
             timeout=30
         )
         data = response.json()
@@ -90,28 +112,24 @@ def fetch_keywords(seed_keyword):
             print(f"    Task error: {task.get('status_message')}")
             return None
 
-        GENERIC = {"recipe", "food", "dinner", "recipes", "easy", "healthy",
-                   "cooking", "make", "best", "how to", "homemade", "simple", "quick"}
-
         all_keywords = []
-        for result in (task.get("result") or []):
-            for item in (result.get("items") or []):
-                kw   = item.get("keyword", "").strip()
-                vol  = item.get("search_volume") or 0
-                comp = item.get("competition_index") or 0
+        for item in (task.get("result") or []):
+            kw   = item.get("keyword", "").strip()
+            vol  = item.get("search_volume") or 0
+            comp = item.get("competition_index") or 0
 
-                if vol < MIN_VOLUME:
-                    continue
-                if comp > MAX_COMPETITION:
-                    continue
-                if kw in GENERIC:
-                    continue
+            if vol < MIN_VOLUME:
+                continue
+            if comp > MAX_COMPETITION:
+                continue
+            if kw in GENERIC:
+                continue
 
-                all_keywords.append({
-                    "keyword": kw,
-                    "volume": vol,
-                    "competition": comp
-                })
+            all_keywords.append({
+                "keyword": kw,
+                "volume": vol,
+                "competition": comp
+            })
 
         all_keywords.sort(key=lambda x: x["volume"], reverse=True)
         top = all_keywords[:MAX_RESULTS_KEPT]
@@ -161,6 +179,9 @@ def main():
     print(f"Skip list     : {len(skip_list)} recipes")
     print(f"Processing    : {len(batch)} recipes (index {start_index} to {start_index + len(batch) - 1})")
 
+    date_from, date_to = get_date_range()
+    print(f"Date range    : {date_from} → {date_to}")
+
     fetched = 0
     skipped = 0
     errors  = 0
@@ -197,11 +218,9 @@ def main():
 
         print(f"  [{i+1}] Processing: {title}")
 
-        # Haiku génère le seed keyword propre
         seed = get_seed_keyword(client, title, description)
         print(f"         seed: '{seed}'")
 
-        # DataForSEO avec le seed propre
         keywords = fetch_keywords(seed)
 
         if keywords is None:
