@@ -27,11 +27,14 @@ GENERIC = {
 
 # ── HELPERS ───────────────────────────────────────────────────────────────────
 def get_date_range():
-    today     = datetime.today()
-    last_month = today.replace(day=1) - timedelta(days=1)
-    date_to   = last_month.strftime("%Y-%m-%d")
-    date_from = last_month.replace(day=1).strftime("%Y-%m-%d")
+    today      = datetime.today()
+    # Go back 2 months to get last fully available month
+    first_this = today.replace(day=1)
+    last_month = (first_this - timedelta(days=1)).replace(day=1) - timedelta(days=1)
+    date_from  = last_month.replace(day=1).strftime("%Y-%m-%d")
+    date_to    = last_month.strftime("%Y-%m-%d")
     return date_from, date_to
+# Today = March 2026 → returns 2026-01-01 to 2026-01-31
 
 def extract_yaml_block(content):
     match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
