@@ -1,10 +1,10 @@
 ---
-title: "Air Fryer Carrots Twist"
+title: "Air Fryer Carrots with Thyme and Parmesan"
 slug: "air-fryer-carrots"
-description: "Sliced carrots tossed in avocado oil instead of olive oil, sprinkled with thyme instead of Italian seasoning. Air fried at 405°F for slightly adjusted times for ideal browning. Batch cooking needed for crowded baskets. Finishes with shaved parmesan and fresh parsley. Recognize doneness by a golden crust and tender fork test rather than strict timing."
-metaDescription: "Air Fryer Carrots Twist with avocado oil and thyme, crisp edges, tender insides. Batch cook, watch caramelize sounds, finish with parmesan and parsley."
-ogDescription: "Carrots air fried at 405°F in avocado oil, thyme spice. Listen for crackle, look for golden edges. Parmesan and parsley finish it fresh and nutty."
-focusKeyphrase: "Air Fryer Carrots"
+description: "Crispy air fryer carrots with avocado oil, fresh thyme, and shaved parmesan. Golden-roasted at 405°F with a tender inside and caramelized crust. Ready in minutes."
+metaDescription: "Air fryer carrots recipe with thyme and parmesan. Crispy outside, tender inside, ready in minutes. Try it tonight."
+ogDescription: "Crispy air fryer carrots roasted with thyme and topped with shaved parmesan. Golden crust, tender inside."
+focusKeyphrase: "air fryer carrots"
 date: 2025-11-22
 draft: false
 image: air-fryer-carrots.jpg
@@ -22,8 +22,15 @@ tags:
 - "roasted"
 keywords:
 - "air fryer carrots"
-- "avocado oil carrots"
-- "crispy roasted carrots"
+- "air fry carrot"
+- "carrots in airfryer"
+- "airfryer carrots"
+- "carrot in air fryer"
+- "air fry carrot recipe"
+- "air fryer carrot recipes"
+- "roast carrots in air fryer"
+- "air fryer roast carrots"
+- "roasted carrots air fryer"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "140"
