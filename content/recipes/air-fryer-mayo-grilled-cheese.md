@@ -1,10 +1,10 @@
 ---
-title: "Air Fryer Mayo Grilled Cheese"
+title: "Air Fryer Grilled Cheese with Mayo"
 slug: "air-fryer-mayo-grilled-cheese"
-description: "Quick skillet-free grilled cheese made in air fryer, mayo-slicked bread crisps up golden. Cheese melts gooey inside. Mayo on bread speeds browning, no butter drama. Flip halfway for even crust, listen for the faint sizzle and watch for bubbling cheese peeking out. Swap American slices for sharp cheddar or provolone for varied bite. Use hearty bread to hold up, avoid flimsy stuff turning soggy. Use parchment to dodge cleanup hassles. Cook temps bounce between 355-385°F depending on bread heft and air fryer quirks. Total cook time just under 9 minutes, total prep less than 6. Easy fix for snack or light meal."
-metaDescription: "Air Fryer Mayo Grilled Cheese with mayo-crisped bread, bubbling molten cheese inside, quick flip technique; swap cheeses, use hearty bread; no butter needed."
-ogDescription: "Mayo-crisped grilled cheese straight from air fryer. Watch cheese bubble, flip gently, listen for faint hiss. Hearty bread holds up; cheddar or provolone works."
-focusKeyphrase: "Air Fryer Mayo Grilled Cheese"
+description: "Mayo-slicked grilled cheese in air fryer gets golden crispy outside, gooey melted cheese inside. Skip the skillet, no butter needed. Ready in under 9 minutes."
+metaDescription: "Air fryer grilled cheese recipe with mayo for crispy golden bread and melted cheese. Fast, easy, no skillet required. Try it tonight."
+ogDescription: "Golden, gooey air fryer grilled cheese made with mayo instead of butter. Crispy bread, melted cheese, zero skillet mess."
+focusKeyphrase: "air fryer grilled cheese"
 date: 2025-12-11
 draft: false
 image: air-fryer-mayo-grilled-cheese.jpg
@@ -21,9 +21,16 @@ tags:
 - "comfort food"
 - "easy"
 keywords:
-- "grilled cheese"
-- "air fryer"
-- "mayo crisp"
+- "air fryer grilled cheese"
+- "air fryer cheese sandwich"
+- "grilled cheese in air fryer"
+- "air fryer toastie"
+- "air fryer cheese toast"
+- "cheese sandwich air fryer"
+- "air fry grilled cheese"
+- "air fryer grilled cheese recipe"
+- "toasties air fryer"
+- "cheese on toast air fryer"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "370"
