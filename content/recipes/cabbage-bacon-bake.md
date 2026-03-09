@@ -1,10 +1,10 @@
 ---
-title: "Cabbage Bacon Bake"
+title: "Baked Cabbage and Bacon with Crispy Topping"
 slug: "cabbage-bacon-bake"
-description: "A creamy cabbage bake with melted cheddar, crispy bacon bits, and a crunchy Ritz cracker topping. Uses cream of mushroom soup instead of celery. Cabbage and onions softened just right. Butter and garlic bring out deep flavors. The dish browns beautifully with a golden crust. Easy to spot doneness relying on visual cues and aromas. A cozy side or main. Adjust mayonnaise and cheese to taste. Works well with smoked gouda or sharp white cheddar. Make sure cabbage stays crisp-tender, not mushy. A solid cabbage bake with a savory twist."
-metaDescription: "Cabbage Bacon Bake creamy, crunchy Ritz topping, sharp cheddar, smoky bacon, softened cabbage, garlic butter aroma, golden crust, visual and scent cues for doneness."
-ogDescription: "Creamy cabbage with bacon bits, Ritz cracker topping, sharp cheddar cheese. Watch sizzling, bubbling, golden crust. Crisp-tender cabbage, robust flavors layered nice."
-focusKeyphrase: "cabbage bacon bake"
+description: "Creamy baked cabbage and bacon with melted cheddar, mushroom soup base, and a crunchy Ritz cracker topping. Golden, savory, and ready in under an hour."
+metaDescription: "Baked cabbage and bacon recipe with cream of mushroom soup, cheddar cheese, and crispy Ritz topping. Tender cabbage, crispy bacon bits. Make it tonight."
+ogDescription: "Creamy cabbage and bacon bake with melted cheddar and a golden Ritz cracker crust. Savory, easy, and perfect for weeknight dinners."
+focusKeyphrase: "baked cabbage and bacon"
 date: 2025-11-08
 draft: false
 image: cabbage-bacon-bake.jpg
@@ -21,9 +21,11 @@ tags:
 - "cabbage"
 - "easy dinner"
 keywords:
-- "cabbage bake"
-- "bacon"
-- "Ritz crackers"
+- "baked cabbage and bacon"
+- "cabbage in the oven with bacon"
+- "cabbage bacon casserole"
+- "cream of mushroom cabbage bake"
+- "cheesy bacon cabbage recipe"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "310"

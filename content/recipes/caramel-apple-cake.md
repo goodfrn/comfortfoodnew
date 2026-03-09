@@ -1,10 +1,10 @@
 ---
-title: "Caramel Apple Upside Cake"
+title: "Caramel Apple Upside Down Cake"
 slug: "caramel-apple-cake"
-description: "Sweet, buttery caramel mixed with golden apples baked under tender cake. A skillet dessert flipping the usual apple treat. Brown sugar softens into a syrupy base while apples turn tender but still hold shape. Cake layer cooks moist and rises just enough to hug the fruit beneath. Rustic, forgiving. Sub in coconut oil for butter to brighten flavors or swap apples for pears if that's what’s around. Timing based more on toothpick test than clock. Aroma cues—caramel smell thick, apples bubbling at edges. Texture contrast key—sticky base, tender fruit, soft crumb top. Perfect for ready-made cake mix but tweaks allowed. Inversion tricky but satisfying once mastered. A lesson in watching, smelling, knowing when done beyond numbers."
-metaDescription: "Caramel Apple Upside Cake with rich brown sugar caramel, tender apple slices, and moist cake baked in skillet. Rustic, forgiving dessert with apples poaching under cake."
-ogDescription: "Sweet caramel base, soft apple layers and moist cake. Flip skillet carefully. Rich brown sugar caramel bubbles guide timing. Rustic apple upside-down treat."
-focusKeyphrase: "Caramel Apple Upside Cake"
+description: "Buttery caramel and tender apples baked under soft cake, then flipped. A rustic skillet dessert with sticky fruit, moist crumb, and real flavor depth."
+metaDescription: "Caramel apple upside down cake recipe. Brown sugar syrup, golden apples, tender crumb baked in a skillet. Try it tonight."
+ogDescription: "Sticky caramel, golden apples, soft cake flipped upside down. Rustic skillet dessert that's forgiving and packed with flavor."
+focusKeyphrase: "caramel apple upside down cake"
 date: 2025-10-11
 draft: false
 image: caramel-apple-cake.jpg
@@ -21,11 +21,11 @@ tags:
 - "comfort food"
 - "dessert"
 keywords:
-- "caramel apple cake"
-- "skillet dessert"
-- "brown sugar caramel"
-- "apple upside cake"
-- "rustic apple cake"
+- "apple upside down cakes"
+- "caramel apple upside down cake recipe"
+- "apple upside cake recipe"
+- "upside down apple cake with caramel"
+- "skillet apple cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "430"

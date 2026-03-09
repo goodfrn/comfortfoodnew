@@ -1,10 +1,10 @@
 ---
-title: "Buttermilk Biscuits Easy"
+title: "Buttermilk Biscuits Easy Recipe Flaky"
 slug: "buttermilk-biscuits"
-description: "Biscuits crisp on the outside, layers flaking open inside. Flour measured by spoon, butter cut to pea-size or grated frozen. Buttermilk moistens dough into thick mashed potato texture; tweak flour or buttermilk to balance stickiness. Dough folded like a letter thrice, builds flakiness. Cut without twisting to keep edges neat. Bake golden, aroma fills kitchen; brushing tops with melted butter adds final shine and flavor. Classic Southern staple reborn with subtle almond milk swap for buttermilk, slight oven temp bump, and speed tweaks. Between 10 and 12 tender, flaky rounds come out. Listen for golden crust, touch for firm not dry. Adapt for fridge dough rest if time permits. Pragmatic, sensory-driven approach to biscuit-making that rewards patience, technique, and a good eye for texture."
-metaDescription: "Buttermilk biscuits crisp outside, flaky layers inside. Cold butter grated or chunked, tri-fold dough, almond milk swap, baked hot for max rise and golden crust."
-ogDescription: "Flaky biscuits with almond milk trick, grated frozen butter saves time, tri-fold layering, golden crust, tender crumb. Bake hot, watch texture cues, no twisting cutter."
-focusKeyphrase: "buttermilk biscuits"
+description: "Crisp outside, flaky inside. Buttermilk biscuits made with folded dough technique, frozen grated butter, and proper folding for layers. 10-12 tender rounds in under an hour."
+metaDescription: "Buttermilk biscuits easy recipe with flaky layers. Fold dough three times, use frozen butter, bake golden. Learn the technique that works."
+ogDescription: "Flaky buttermilk biscuits that actually stay tender inside. Frozen butter, simple fold method, golden crust. Make them tonight."
+focusKeyphrase: "buttermilk biscuits easy recipe"
 date: 2026-01-04
 draft: false
 image: buttermilk-biscuits.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy"
 - "vegetarian"
 keywords:
-- "biscuits"
-- "baking tips"
-- "flaky dough"
+- "buttermilk biscuits"
+- "buttermilk biscuit recipe"
+- "biscuit recipe flaky"
+- "homemade buttermilk biscuits"
+- "biscuits recipe southern"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "205"

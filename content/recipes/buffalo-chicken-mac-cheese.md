@@ -1,10 +1,10 @@
 ---
-title: "Buffalo Chicken Mac Cheese"
+title: "Buffalo Chicken Mac and Cheese"
 slug: "buffalo-chicken-mac-cheese"
-description: "Macaroni cooked al dente, folded with a sharp buffalo cream sauce enhanced by mayo and cheese. Topped with crispy seasoned breadcrumbs, baked then broiled until golden. Finished with tangy blue cheese crumbles and fresh parsley. Celery and carrot sticks cool the palate. Adjust milk for sauce thickness. Substitute mayo with sour cream for tangier flavor or shredded pepper jack for cheese. Butter caramelizes onion bits, adds depth. Watch texture: sauce should cling, not drown pasta. Broil crisps crumbs, aroma signals near done. Timing flexible; rely on bubbling sauce and golden top. A spicy baked pasta balancing creamy heat with crunchy finish—no extra fanfare, just bold, textured bites."
-metaDescription: "Buffalo Chicken Mac Cheese with tender shredded chicken, creamy spicy sauce, crispy breadcrumbs, and blue cheese crumbles. Hearty, bold, textured baked pasta comfort."
-ogDescription: "Bold Buffalo Chicken Mac Cheese with crispy topping, sharp blue cheese, tender chicken, and creamy spicy sauce. Crunchy celery, carrot sticks balance heat."
-focusKeyphrase: "Buffalo Chicken Mac Cheese"
+description: "Creamy buffalo chicken mac and cheese with sharp cheddar, tangy blue cheese crumbles, and crispy breadcrumb topping. Spicy, creamy, and crunchy."
+metaDescription: "Buffalo chicken mac and cheese recipe with crispy breadcrumbs, blue cheese, and a spicy cream sauce. Bold flavors, easy to make. Try it tonight."
+ogDescription: "Spicy buffalo cream sauce meets creamy mac and cheese with crispy breadcrumbs and tangy blue cheese. Bold baked pasta done right."
+focusKeyphrase: "buffalo chicken mac and cheese"
 date: 2026-01-23
 draft: false
 image: buffalo-chicken-mac-cheese.jpg
@@ -21,9 +21,11 @@ tags:
 - "pasta"
 - "spicy"
 keywords:
-- "buffalo chicken"
-- "mac and cheese"
-- "baked pasta"
+- "buffalo chicken mac and cheese"
+- "chicken mac and cheese recipe"
+- "buffalo mac and cheese"
+- "spicy mac and cheese"
+- "baked chicken mac and cheese"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"

@@ -1,10 +1,10 @@
 ---
-title: "Buckeye Brownie Cookies"
+title: "Buckeye Brownie Cookies Recipe"
 slug: "buckeye-brownie-cookies"
-description: "Brownie cookie dough mixed with cream cheese for chewiness, topped with peanut butter balls made from peanut butter and powdered sugar altered slightly in quantity for balance. A rich chocolate ganache, with vegetable oil added for shine and pourability, seals the peanut butter topping. Baked at moderate heat, dough stays sticky for that fudgy bite. Centers pressed down to hold peanut butter balls that melt slightly but hold shape. Ganache spread just after peanut butter holds everything together. Cookie sheets important for cooling and adhesion. Timing and tactile checks trump clocks here."
-metaDescription: "Buckeye Brownie Cookies combine chewy cream cheese brownie base with peanut butter balls and glossy chocolate ganache for meddling textures and bold flavor."
-ogDescription: "Brownie cookie dough with cream cheese, peanut butter balls, and chocolate ganache. Chewy, fudgy, sticky edges, subtle cracks—watch and feel for cues."
-focusKeyphrase: "Buckeye Brownie Cookies"
+description: "Fudgy buckeye brownie cookies with cream cheese dough, homemade peanut butter ball centers, and chocolate ganache. Chewy, rich, and worth the careful timing."
+metaDescription: "Buckeye brownie cookies combine fudgy brownie dough with peanut butter ball centers and chocolate ganache. Try it tonight."
+ogDescription: "Fudgy buckeye brownie cookies with peanut butter ball centers sealed in chocolate ganache. Chewy and rich."
+focusKeyphrase: "buckeye brownie cookies"
 date: 2026-01-17
 draft: false
 image: buckeye-brownie-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "chocolate"
 - "dessert"
 keywords:
-- "brownie cookies"
-- "peanut butter cookies"
-- "chocolate ganache"
+- "brownie buckeyes"
+- "buckeye brownie cookies"
+- "buckeye brownie cookie recipe"
+- "peanut butter chocolate cookies"
+- "fudgy brownie cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "200"

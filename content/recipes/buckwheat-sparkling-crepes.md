@@ -1,10 +1,10 @@
 ---
-title: "Buckwheat Sparkling Crêpes"
+title: "Buckwheat Crepes Recipe with Sparkling Water"
 slug: "buckwheat-sparkling-crepes"
-description: "Buckwheat and all-purpose flours mixed with eggs and sparkling water create light, thin crêpes. Slightly sweetened with maple syrup. Optional caramelized pears with brown sugar and cinnamon add a warm twist. Cooked in butter for a gentle crisp. Serve with fresh berries or extra syrup. Makes enough for 12 pancakes. Quick prep and moderate cook times."
-metaDescription: "Discover Buckwheat Sparkling Crêpes, light and thin crêpes made with buckwheat flour, eggs, and sparkling water, served with caramelized pears."
-ogDescription: "Buckwheat Sparkling Crêpes are light, thin crêpes that bring together buckwheat flour, eggs, and sparkling water—deliciously served."
-focusKeyphrase: "Buckwheat Sparkling Crêpes"
+description: "Light buckwheat crepes made with sparkling water and eggs, lightly sweetened with maple syrup. Top with caramelized pears or fresh berries for an easy homemade crêpe."
+metaDescription: "Buckwheat crepe recipe using sparkling water for lift. Maple syrup sweetened, serves 12. Make them tonight with caramelized pears or berries."
+ogDescription: "Thin, crispy buckwheat crepes with sparkling water lift. Maple syrup sweetened, topped with pears or berries. Easy homemade French-style crêpes."
+focusKeyphrase: "buckwheat crepes"
 date: 2025-07-18
 draft: false
 image: buckwheat-sparkling-crepes.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy"
 - "dessert"
 keywords:
-- "buckwheat flour"
-- "French pancakes"
-- "breakfast crêpes"
+- "buckwheat crepes"
+- "buckwheat crepe recipe"
+- "crepes and galettes"
+- "breton crepe recipe"
+- "buckwheat flour crepe"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "140"

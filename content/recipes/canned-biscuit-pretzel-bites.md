@@ -1,10 +1,11 @@
 ---
 title: "Canned Biscuit Pretzel Bites"
+title: "Canned Biscuit Pretzel Bites"
 slug: "canned-biscuit-pretzel-bites"
-description: "Quick pretzel bites from canned biscuits with a salty crust, baked until golden brown. Uses baking soda water bath for classic pretzel texture, brushed with butter and flaky salt. Slightly adjusted bake times and ingredient swap with honey instead of sugar to add a mild sweetness twist. Perfect to snack or serve with mustard. Relies on visual cues like deep brown tops and firm bottoms for doneness. Dough balls need a slit to vent or burst unpredictably. Baking soda water bath essential for chewy pretzel crust; skip it and you get ordinary bread bites. Makes about 32 small bites, perfect for sharing."
-metaDescription: "Canned Biscuit Pretzel Bites use a baking soda bath for chewy crust, honey for mild sweetness. Watch the deep amber color, slit dough to vent steam, brush butter, sprinkle salt."
-ogDescription: "Crunchy pretzel bites from canned dough. Baking soda bath key. Honey swap adds subtle sweet. Slit dough, brush butter, flaky salt, watch color for bake cues."
-focusKeyphrase: "Canned Biscuit Pretzel Bites"
+description: "Make canned biscuit pretzel bites in 20 minutes. Baking soda bath creates a chewy pretzel crust, brushed with butter and flaky salt. Golden, salty, and better than store-bought."
+metaDescription: "Canned biscuit pretzel bites made with a baking soda bath for authentic pretzel texture. Quick, easy, and perfectly salty. Try it tonight."
+ogDescription: "Quick pretzel bites from canned biscuits with a chewy crust. Baking soda bath, butter, flaky salt. Ready in 20 minutes."
+focusKeyphrase: "canned biscuit pretzel bites"
 date: 2025-11-10
 draft: false
 image: canned-biscuit-pretzel-bites.jpg
@@ -21,9 +22,11 @@ tags:
 - "bread"
 - "easy"
 keywords:
-- "pretzel bites"
-- "biscuit dough snacks"
-- "baking soda crust"
+- "canned biscuit pretzel bites"
+- "pretzel bites from canned biscuits"
+- "easy pretzel bites"
+- "quick snack recipe"
+- "homemade pretzel bites"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "67"

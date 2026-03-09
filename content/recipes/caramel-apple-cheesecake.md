@@ -1,10 +1,10 @@
 ---
-title: "Caramel Apple Cheesecake"
+title: "Caramel Apple Cheesecake Recipe"
 slug: "caramel-apple-cheesecake"
-description: "A layered cheesecake starting with a crunchy graham crust baked briefly to hold form. Cream cheese and sour cream whipped thoroughly, eggs folded in carefully to avoid gaps. Baked in a water bath wrapped twice in foil to prevent cracks. Apples cooked with sugars and spices then thickened with cornstarch for a lively topping. Dulce de leche combined with heavy cream warmed to spread easily, adding creamy caramel richness. Pecans chopped and sprinkled last for texture contrast. Timing flexible; watch textures over clock. Substitutions included and kitchen tips to keep the cheesecake intact and luscious."
-metaDescription: "Caramel Apple Cheesecake layered with crisp graham crust, creamy filling whipped right, topped with spiced apples and dulce de leche caramel drizzle. Chill, slice, serve."
-ogDescription: "Crunchy crust baked just right. Cream cheese mix folded slow. Apples spiced, thickened. Warm caramel spread smooth. Pecans add crunch. Bake, rest, chill well."
-focusKeyphrase: "Caramel Apple Cheesecake"
+description: "Layered caramel apple cheesecake with graham crust, creamy filling, spiced apple topping, and dulce de leche swirl. Water bath baked to prevent cracks. Try it tonight."
+metaDescription: "Caramel apple cheesecake recipe with baked graham crust, spiced apples, and dulce de leche topping. Make this creamy dessert at home. Save this one."
+ogDescription: "Layered cheesecake with spiced apples, graham crust, and caramel swirl. Baked in a water bath for a crack-free result."
+focusKeyphrase: "caramel apple cheesecake recipe"
 date: 2025-11-21
 draft: false
 image: caramel-apple-cheesecake.jpg
@@ -20,9 +20,11 @@ tags:
 - "caramel"
 - "comfort food"
 keywords:
-- "caramel apple dessert"
-- "cheesecake with fruit topping"
-- "water bath cheesecake"
+- "caramel apple cheesecake recipe"
+- "apple cheesecake"
+- "caramel apple cheesecake"
+- "apple cheese cake recipe"
+- "baked apple cheesecake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "597"

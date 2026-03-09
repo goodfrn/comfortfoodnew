@@ -1,10 +1,10 @@
 ---
-title: "Cajun Shrimp Linguine Twist"
+title: "Cajun Shrimp Pasta with Creamy Red Pepper"
 slug: "cajun-shrimp-linguine"
-description: "Linguine tossed with spiced shrimp swimming in a creamy roasted red pepper sauce. Uses dried chili flakes for heat and swaps cream cheese with mascarpone for silkiness. Shrimp sautéed till just opaque, onions caramelized slightly for sweetness. No eggs or nuts. Tomato replaced by fire-roasted red peppers for a smoky punch. Finish with fresh basil instead of parsley, adds freshness. Water reserved from pasta to tweak sauce texture. Cook until sauce thickens, shrimp plump but not rubbery. Balanced, layered flavors. Quick mid-week, feels gourmet."
-metaDescription: "Cajun Shrimp Linguine Twist with spicy shrimp in a creamy fire-roasted red pepper sauce. Quick sear, basil freshness, and silky mascarpone finish in 30 minutes."
-ogDescription: "Shrimp seared fast, creamy roasted red pepper sauce, linguine tossed with fresh basil. Layers of smoky, sweet, spicy. Ready midweek, feels gourmet."
-focusKeyphrase: "Cajun Shrimp Linguine"
+description: "Cajun shrimp pasta tossed with roasted red pepper cream sauce and mascarpone. Perfectly cooked shrimp, caramelized onions, and fresh basil in a quick gourmet weeknight dinner."
+metaDescription: "Cajun shrimp pasta recipe with creamy roasted red pepper sauce and mascarpone. Restaurant-quality dish ready in 30 minutes. Try it tonight."
+ogDescription: "Spiced shrimp linguine in silky roasted red pepper cream. Quick, gourmet, no fuss. Restaurant taste at home."
+focusKeyphrase: "cajun shrimp pasta"
 date: 2025-08-17
 draft: false
 image: cajun-shrimp-linguine.jpg
@@ -21,9 +21,11 @@ tags:
 - "cajun"
 - "easy dinner"
 keywords:
-- "shrimp linguine"
-- "Cajun pasta"
-- "red pepper cream sauce"
+- "cajun shrimp pasta"
+- "cajun creamy shrimp pasta"
+- "cajun shrimp alfredo"
+- "shrimp pasta recipe"
+- "cajun alfredo shrimp"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "360"

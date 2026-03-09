@@ -1,10 +1,10 @@
 ---
-title: "Broccoli Cheddar Soup IP"
+title: "Broccoli Cheddar Soup in Instant Pot"
 slug: "broccoli-cheddar-soup-ip"
-description: "Broccoli cheddar soup reimagined in the Instant Pot. Butter and onion sauted to golden, then flour toasted just right to avoid clumps. Fresh carrots swapped for parsnips here, adding earthiness. Broccoli replaced partly with kale for a twist; nuttiness plus nutrition. Aromatic nutmeg nudges flavor forward; vegetable broth simmers everything tender under pressure. Quick release to avoid mush while blending vibrant textures. Cream and sharp cheddar melt smoothly but resist greasiness thanks to careful timing. Salt and pepper lift it all, not bury. Easy comfort food with steps you can trust once you know the cues — aroma, texture, and sound. Six servings that fill bowls with warmth and bite, a blend of rustic and refined. Hands-on magic from stovetop to table, minus fuss and boring."
-metaDescription: "Broccoli Cheddar Soup IP blends broccoli, kale, and parsnips in Instant Pot. Toasted roux, nutmeg hint, sharp cheddar melts in creamy broth. Six hearty servings."
-ogDescription: "Instant Pot broccoli cheddar soup with kale and parsnips. Nutmeg whispers, toasted flour thickens, sharp cheddar melts without grease. Comfort in six bowls."
-focusKeyphrase: "Broccoli Cheddar Soup Instant Pot"
+description: "Broccoli cheddar soup made fast in the Instant Pot. Golden sautéed onions, toasted flour, fresh broccoli with kale, sharp cheddar, and cream under pressure. Ready in 30 minutes."
+metaDescription: "Broccoli cheddar soup in instant pot recipe. Butter-sautéed onions, sharp cheddar, cream, and pressure-cooked broccoli. Try it tonight."
+ogDescription: "Instant pot broccoli cheddar soup with sharp cheddar and cream. Comfort food done right in 30 minutes."
+focusKeyphrase: "broccoli cheddar soup in instant pot"
 date: 2025-10-12
 draft: false
 image: broccoli-cheddar-soup-ip.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "broccoli cheddar soup"
-- "Instant Pot soup"
-- "kale soup"
+- "broccoli cheddar soup in instant pot"
+- "instant pot broccoli cheese soup"
+- "broccoli soup instant pot"
+- "instant pot broccoli soup"
+- "pressure cooker broccoli cheese soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "250"

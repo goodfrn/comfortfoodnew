@@ -1,10 +1,11 @@
 ---
 title: "Buffalo Chicken Stuffed Peppers"
+title: "Buffalo Chicken Stuffed Peppers"
 slug: "buffalo-chicken-peppers"
-description: "Bell peppers halved and stuffed with a creamy combo of shredded chicken, cheeses, wing sauce, and ranch seasoning. Baked with water beneath to steam gently, then topped with extra cheddar to melt golden. Green onions and cheese crumbles finish it off. A hand-on approach to amped-up stuffed peppers with subtle twists and texture play."
-metaDescription: "Buffalo Chicken Stuffed Peppers packed with spicy sauce, gooey cheeses, and tender chicken. Baked in water steam for soft, melty, flavorful bites every time."
-ogDescription: "Spicy Buffalo chicken meets creamy cheese in bell peppers baked with steaming water below. Melts, bubbles, golden tops, fresh green onion crunch. Try tweaks."
-focusKeyphrase: "Buffalo chicken stuffed peppers"
+description: "Halved bell peppers stuffed with shredded chicken, creamy cheese, and buffalo wing sauce. Baked until tender with melted cheddar on top. Quick weeknight dinner."
+metaDescription: "Buffalo chicken stuffed peppers recipe with shredded chicken, ranch, and wing sauce. Baked in 30 minutes. Try it tonight."
+ogDescription: "Creamy buffalo chicken stuffed in bell peppers. Melted cheese. Ready in under an hour."
+focusKeyphrase: "buffalo chicken stuffed peppers"
 date: 2025-12-06
 draft: false
 image: buffalo-chicken-peppers.jpg
@@ -21,9 +22,11 @@ tags:
 - "comfort food"
 - "spicy"
 keywords:
-- "buffalo chicken"
-- "stuffed peppers"
-- "buffalo wing sauce"
+- "buffalo chicken stuffed peppers"
+- "buffalo chicken stuffed peppers recipe"
+- "stuffed bell peppers buffalo"
+- "buffalo chicken recipes"
+- "easy weeknight dinners"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

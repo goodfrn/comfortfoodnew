@@ -1,10 +1,10 @@
 ---
-title: "Butternut Squash Mac Cheese"
+title: "Butternut Squash Mac and Cheese"
 slug: "butternut-squash-mac-cheese"
-description: "Macaroni tossed in a creamy cheese sauce blended with roasted butternut squash. Uses a roux base to thicken. Milk or reserved pasta water adds liquid. Cheese melted in last. Season heavily with salt and pepper. Pasta thickens as it sits. Parmesan topping optional but recommended."
-metaDescription: "Macaroni with roasted butternut squash in a roux-thickened cheese sauce. Sharp cheddar melts in; smoked paprika adds subtle warmth. Creamy texture with Parmesan crust option."
-ogDescription: "Roasted butternut squash blended into creamy cheese sauce thickened by roux. Sharp cheddar, smoked paprika, and Parmesan top off the mac with rich, cozy notes."
-focusKeyphrase: "Butternut Squash Mac Cheese"
+description: "Creamy butternut squash mac and cheese made with a roux-based cheese sauce. Roasted squash blended smooth, pasta water for richness, melted cheese finished with a Parmesan crust."
+metaDescription: "Butternut squash mac and cheese recipe with creamy cheese sauce. Roasted squash, roux base, and melted cheese. Make it tonight."
+ogDescription: "Roasted butternut squash blended into creamy mac and cheese. Roux-thickened sauce with melted cheese and optional Parmesan topping."
+focusKeyphrase: "butternut squash mac and cheese"
 date: 2026-02-06
 draft: false
 image: butternut-squash-mac-cheese.jpg
@@ -21,9 +21,11 @@ tags:
 - "pasta"
 - "fall"
 keywords:
-- "macaroni and cheese"
-- "roux cheese sauce"
-- "butternut squash recipe"
+- "butternut squash mac and cheese"
+- "butternut mac and cheese recipe"
+- "creamy butternut squash pasta"
+- "roasted squash mac and cheese"
+- "macaroni and cheese with butternut squash"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "410"

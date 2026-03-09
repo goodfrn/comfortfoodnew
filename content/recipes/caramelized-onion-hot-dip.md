@@ -1,10 +1,10 @@
 ---
-title: "Caramelized Onion Hot Dip"
+title: "Caramelized Onion Dip Recipe"
 slug: "caramelized-onion-hot-dip"
-description: "Savory hot dip with deeply caramelized onions, softened cream cheese, tangy sour cream, and melted aged gouda instead of cheddar. A dash of smoked paprika replaces balsamic vinegar for a smoky twist. Uses coconut oil to brown onions for a subtle sweetness. Cook onions until richly browned with light crust forming on bottom for best flavor development. Serve bubbly straight from the oven with crunchy artisan crackers or thick veggie sticks. A vegetarian, gluten-free, nut and egg-free cozy appetizer with whipped texture balanced by sharp, melting cheese on top."
-metaDescription: "Caramelized Onion Hot Dip with golden onions, aged gouda, cream cheese, and smoked paprika for bold smoky flavor. Serve warm with crunchy crackers."
-ogDescription: "Savory hot dip featuring deeply caramelized onions, tangy sour cream, and melted gouda topped with smoky paprika. Great with thick veggie sticks or artisan crackers."
-focusKeyphrase: "caramelized onion hot dip"
+description: "Caramelized onion dip with cream cheese, aged gouda, and smoked paprika. Baked until bubbly and golden—serve hot with crackers or veggies."
+metaDescription: "Caramelized onion dip recipe with cream cheese and gouda. Baked hot dip that's vegetarian, gluten-free, and ready in under an hour. Try it tonight."
+ogDescription: "Hot caramelized onion dip with gouda and cream cheese. Deeply browned onions, smoked paprika, served bubbly straight from the oven."
+focusKeyphrase: "caramelized onion dip recipe"
 date: 2025-08-02
 draft: false
 image: caramelized-onion-hot-dip.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "easy"
 keywords:
-- "caramelized onions"
-- "smoked paprika"
-- "aged gouda"
+- "caramelized onion dip"
+- "hot caramelized onion dip"
+- "caramelized onion dip recipe"
+- "cream cheese french onion dip"
+- "baked onion dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "260"

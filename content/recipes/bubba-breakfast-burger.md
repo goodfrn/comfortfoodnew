@@ -1,10 +1,10 @@
 ---
-title: "Bubba Breakfast Burger"
+title: "Bacon & Egg Burger | Crispy Skillet Method"
 slug: "bubba-breakfast-burger"
-description: "Frozen beef patty grilled or skillet cooked with no pressing. Egg fried sunny side up with lid trick. Stacked with white cheddar, arugula, bacon, salt, pepper. Open or closed bun. Timing adjusts by observing juices, browning, textures. Bacon smoky salt contrast. Sub grilled chicken for beef. Resting burger crucial to lock flavors, avoid dry chew. Efficient skillet use cuts time. Easy fixes for undercooked patty or broken yolk. Sensory cues guide cooking more than clocks. Practical tweaks and hands-on tips throughout."
-metaDescription: "Bubba Breakfast Burger with frozen patties, skillet crisp bacon, sunny eggs, melty cheddar, fresh arugula. Watch juices and textures, swap chicken or plant-based."
-ogDescription: "Frozen patties sizzle, bacon crisp, eggs steam under lid, cheddar melts, arugula bites. Watch juices for doneness. Chicken or plant-based swaps fine."
-focusKeyphrase: "Bubba Breakfast Burger"
+description: "Frozen beef patty with fried egg, crispy bacon, and white cheddar. No pressing, lid trick for runny yolk, arugula finish. Cook by feel, not timer."
+metaDescription: "Bacon and egg burger recipe with frozen patty, sunny side egg, and crispy bacon. Skip the press, use the lid trick, rest to lock flavor."
+ogDescription: "Frozen beef patty. Fried egg. Crispy bacon. White cheddar and arugula. Cook by feel, not the clock. No pressing, lid trick included."
+focusKeyphrase: "bacon and egg burger"
 date: 2026-02-01
 draft: false
 image: bubba-breakfast-burger.jpg
@@ -21,9 +21,11 @@ tags:
 - "bacon"
 - "eggs"
 keywords:
-- "breakfast burger"
-- "frozen patty"
-- "bacon cheddar egg"
+- "bacon and egg burger"
+- "bacon and egg cheeseburger"
+- "breakfast burger recipe"
+- "fried egg burger"
+- "how to make breakfast burger"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "650"

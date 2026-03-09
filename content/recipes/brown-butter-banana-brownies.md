@@ -1,10 +1,11 @@
 ---
 title: "Brown Butter Banana Brownies"
+title: "Brown Butter Banana Brownies"
 slug: "brown-butter-banana-brownies"
-description: "A cross between banana bread and brownies, moist and dense with browned butter frosting. Uses mashed ripe bananas and browned butter for nutty depth. Brown sugar and granulated sugar for textured sweetness. Walnuts add crunch. Uses baking powder and baking soda for rise, cinnamon for warmth. Creamy browned butter frosting with half and half for richness. Slightly less sugar and a swap from buttermilk to plain yogurt for tang. Bake until edges golden and tester picks a few moist crumbs. Nutty aroma signals frosting readiness. Quick bake and immediate frosting spread keeps top tender."
-metaDescription: "Brown Butter Banana Brownies bring nutty browned butter frosting and ripe banana moisture. Dense, slightly tangy, with walnuts crunch and golden edges crackle."
-ogDescription: "Dense banana brownies with browned butter frosting, nutty crunch, tangy yogurt swap. Golden edges, moist crumbs, quick bake. Spread frosting warm for gloss."
-focusKeyphrase: "Brown Butter Banana Brownies"
+description: "Fudgy banana brownies with brown butter frosting. Mashed ripe bananas, toasted walnuts, and tangy yogurt create moist, dense layers with nutty depth and subtle crunch."
+metaDescription: "Brown butter banana brownies with creamy frosting. Dense, fudgy, and rich with toasted walnuts. Bake tonight for that perfect tender top."
+ogDescription: "Banana brownies with brown butter frosting. Moist, dense, and studded with walnuts. Nutty, slightly tangy, seriously good."
+focusKeyphrase: "banana bread brownies with brown butter frosting"
 date: 2025-10-09
 draft: false
 image: brown-butter-banana-brownies.jpg
@@ -21,9 +22,11 @@ tags:
 - "comfort food"
 - "walnut"
 keywords:
-- "banana brownies"
-- "brown butter"
-- "walnut brownies"
+- "banana bread brownies with brown butter frosting"
+- "banana brownies with brown butter frosting"
+- "brown butter banana brownies"
+- "fudgy banana brownies"
+- "banana walnut brownies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "230"

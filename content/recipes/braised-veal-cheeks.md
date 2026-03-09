@@ -1,10 +1,11 @@
 ---
 title: "Braised Veal Cheeks with Cocoa Sauce"
+title: "Braised Veal Cheeks with Cocoa Sauce"
 slug: "braised-veal-cheeks"
-description: "Tender veal cheeks slowly cooked in a rich vegetable and wine base. Cocoa powder added to the sauce for an earthy depth. Uses carrots, celery, onions, garlic with red wine and veal stock. Oven braised at low temperature for hours. Serve with mashed potatoes and roasted carrots. Dairy-free, gluten-free, nut-free, egg-free. Flavor layering with cocoa instead of the usual thickening agents. Slow braise breaks down collagen into gelatin. Classic French base with a hint of chocolate bitterness."
-metaDescription: "Braised Veal Cheeks with Cocoa Sauce is a comforting French dish that combines tender meat with earthy cocoa flavors for a rich and satisfying meal."
-ogDescription: "Indulge in Braised Veal Cheeks with Cocoa Sauce. Rich, tender dish perfect for comforting dinners. Your taste buds will love this combination."
-focusKeyphrase: "Braised Veal Cheeks"
+description: "Tender braised veal cheeks in a rich red wine reduction with cocoa depth. Low and slow oven braise transforms tough cuts into silky, collagen-rich meat. Serve with creamy potatoes."
+metaDescription: "Braised veal cheeks recipe with cocoa sauce. Low-temp oven braise creates tender, gelatinous meat in a rich red wine base. Try it tonight."
+ogDescription: "Veal cheeks braised until tender in cocoa-tinged red wine. The slow oven method turns a tough cut into something silky and rich."
+focusKeyphrase: "braised veal cheeks"
 date: 2025-07-19
 draft: false
 image: braised-veal-cheeks.jpg
@@ -21,9 +22,11 @@ tags:
 - "slow cooker"
 - "roasted"
 keywords:
-- "French cuisine"
-- "comfort food"
-- "braised meat"
+- "braised veal cheeks"
+- "veal cheek recipe"
+- "veal cheeks red wine"
+- "braised veal recipe"
+- "cocoa braised meat"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

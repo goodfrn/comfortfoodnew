@@ -1,10 +1,10 @@
 ---
-title: "Classic Bread Pudding Remix"
+title: "Bread Pudding Recipe with Caramel Sauce"
 slug: "bread-pudding-caramel-sauce"
-description: "Cubed bread soaked in a rich egg custard with milk and spices, baked till golden and tender. Caramel sauce on top, made by simmering brown sugar with cream and butter. A comforting dessert with a warm aroma of cinnamon and nutmeg, slightly crispy edges with a moist center. Best eaten warm right from the oven. Serves ten. Adjust baking time by eye and smell. Sub in whole milk for cream or use maple syrup instead of sugars for a twist. A nostalgic, textured treat with a caramel drizzle that balances sweetness and richness."
-metaDescription: "Classic Bread Pudding Remix with cubes soaked in spiced egg custard, baked low and slow, topped with caramel sauce rich in butter, cinnamon, and nutmeg warmth."
-ogDescription: "Cubed bread steeped in egg custard, baked gently, then drizzled with buttery caramel. Warm, comforting, spiced with cinnamon and nutmeg, crispy edges and moist center."
-focusKeyphrase: "bread pudding caramel sauce"
+description: "Classic bread pudding recipe soaked in egg custard with warm spices, baked golden and tender. Top with homemade caramel sauce for a comforting dessert that's crispy outside, moist inside."
+metaDescription: "Bread pudding recipe with creamy custard and caramel sauce. Warm cinnamon spices, golden edges, moist center. Make it tonight."
+ogDescription: "Cubed bread soaked in rich egg custard, baked till golden. Warm cinnamon, caramel drizzle, crispy edges, moist center."
+focusKeyphrase: "bread pudding recipe"
 date: 2025-12-16
 draft: false
 image: bread-pudding-caramel-sauce.jpg
@@ -21,9 +21,11 @@ tags:
 - "cinnamon"
 - "eggs"
 keywords:
+- "bread pudding recipe"
 - "bread pudding"
-- "caramel sauce"
-- "baked dessert"
+- "bread and butter pudding"
+- "bread pudding dessert recipe"
+- "caramel sauce bread pudding"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "685"

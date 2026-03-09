@@ -1,10 +1,10 @@
 ---
-title: "Butternut Squash Purée Twist"
+title: "Butternut Squash Purée Recipe with Ginger"
 slug: "butternut-squash-puree"
-description: "Cubed butternut softened with shallots and roasted garlic in olive oil. Simmered in vegetable broth until tender. Blended with a touch of coconut milk for creaminess and a hint of ginger for warmth. Salt and white pepper to taste. A veggie side or starter that shifts easily. No nuts, dairy, gluten, or eggs here. Roughly 25 minutes active cooking and 20 minutes simmering. Yields 4 servings."
-metaDescription: "Butternut squash purée with roasted garlic, shallots, coconut milk, and ginger. Creamy, lightly spiced, vegan side or starter, 45 minutes total time."
-ogDescription: "Cubed squash browning edges, garlic scent fills kitchen. Coconut milk smooths, ginger warms. Vegan, simple, rustic. Ready in under an hour."
-focusKeyphrase: "butternut squash purée"
+description: "Smooth butternut squash purée with roasted garlic, shallots, and ginger. Coconut milk adds creaminess, ready in 45 minutes. Vegan, gluten-free side dish."
+metaDescription: "Butternut squash purée recipe with roasted garlic and ginger for depth. Creamy, vegan, and ready in under an hour. Try it tonight."
+ogDescription: "Butternut squash purée with roasted garlic and a hint of ginger. Smooth, creamy, vegan. A real side dish."
+focusKeyphrase: "butternut squash puree recipe"
 date: 2025-08-12
 draft: false
 image: butternut-squash-puree.jpg
@@ -21,9 +21,11 @@ tags:
 - "side dish"
 - "squash"
 keywords:
-- "butternut squash"
-- "coconut milk"
-- "roasted garlic"
+- "butternut squash puree"
+- "butternut puree recipe"
+- "mashed butternut squash"
+- "roasted butternut puree"
+- "squash puree"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "150"

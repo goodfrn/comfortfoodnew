@@ -1,10 +1,10 @@
 ---
-title: "Brown Sage Butter Sauce"
+title: "Brown Sage Butter Sauce Recipe"
 slug: "brown-sage-butter-sauce"
-description: "Butter melted just right with fresh sage and garlic. Starts off creamy, shifts to a golden light brown with that nutty smell signaling it’s time. Foam forms on top from milk solids, skim them off for clarity and smoothness. Black pepper crunches in, subtle heat chasing the richness. Substitute garlic with shallots for a sweeter twist. Swap sweet cream butter for cultured butter if you want tang. The key is steady stirring, don't burn it; watch the color and smell, not the clock. Six servings packed with fat, a few calories, almost no carbs. Nutty, herby, buttery, simple technique with big flavor payoff."
-metaDescription: "Brown Sage Butter Sauce melts cultured butter with fresh sage garlic black pepper; skim foam, watch color, stir steady, nutty aroma signals readiness, rich flavor layers."
-ogDescription: "Butter browning with sage garlic black pepper; skim milk solids foam, watch aroma changes, stir always, golden color; sauce thickens when cool, skip burnt bits."
-focusKeyphrase: "Brown Sage Butter Sauce"
+description: "Brown butter sage sauce with garlic and black pepper. Watch for the nutty aroma and golden color, skim the foam, and serve over pasta, ravioli, or gnocchi for rich, herby flavor."
+metaDescription: "Brown butter sage sauce: melt butter, brown it steady, add sage and garlic. Golden, nutty, simple technique with serious flavor for any pasta dish."
+ogDescription: "Brown butter meets fresh sage and garlic. Golden, nutty, and packed with flavor—the classic sauce for ravioli and pasta."
+focusKeyphrase: "brown butter sage sauce"
 date: 2025-11-05
 draft: false
 image: brown-sage-butter-sauce.jpg
@@ -21,11 +21,11 @@ tags:
 - "homemade"
 - "side dish"
 keywords:
-- "brown butter"
-- "sage sauce"
-- "cultured butter"
-- "garlic"
-- "black pepper"
+- "brown butter sage sauce"
+- "brown butter and sage sauce"
+- "butter sage sauce for ravioli"
+- "brown butter sage gnocchi"
+- "brown butter pasta sage"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "280"

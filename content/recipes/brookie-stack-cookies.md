@@ -1,10 +1,10 @@
 ---
-title: "Brookie Stack Cookies"
+title: "Brookie Stack Cookies Recipe"
 slug: "brookie-stack-cookies"
-description: "Two doughs in one cookie: chocolate chip cookie dough chilled first. Brownie cookie batter rich with cocoa and cornstarch for tender chew. Melted chocolate and butter mixed gently after whisking eggs and sugar to thick pale ribbons. Folding flour mix and chocolate chips careful to keep shine. Chill doughs short before weighing and shaping. Layer small balls like puzzle pieces, twist half turn for marbled magic. Bake on parchment lined sheets. Cooled on sheets till set. About 14 big cookies or smaller at 2 oz per. Slight tweaks in times and amounts for better chew and a bit more salt brings out chocolate flavors."
-metaDescription: "Brookie Stack Cookies combine chocolate chip dough and rich brownie batter for layers of chewy, swirled cookie magic with crisp edges and soft centers."
-ogDescription: "Chocolate chip and brownie dough swirl baked in one cookie. Crisp edges, soft centers, marbled layers with subtle chew and deep cocoa notes."
-focusKeyphrase: "Brookie Stack Cookies"
+description: "Layer chocolate chip cookie dough and rich brownie batter in one cookie. Crispy edges, chewy center. Make 14 big brookies with detailed technique."
+metaDescription: "Brookie recipe with layered chocolate chip cookie and brownie dough. Crispy-chewy texture, simple technique. Make it tonight."
+ogDescription: "Two doughs, one cookie. Chocolate chip layer meets rich brownie batter. Crispy edges and chewy centers in every bite."
+focusKeyphrase: "brookie recipe"
 date: 2026-01-08
 draft: false
 image: brookie-stack-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "brookie cookies"
-- "marble cookie"
-- "chocolate chip cookie dough"
+- "brookie recipe"
+- "brookies"
+- "brownie cookie recipe"
+- "brownie chocolate chip cookie"
+- "chewy brownie cookie"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "260"

@@ -1,10 +1,10 @@
 ---
-title: "Caramelized Onion Hot Dip"
+title: "Caramelized Onion Dip with Gruyère"
 slug: "caramelized-onion-dip"
-description: "A warm dip blending deeply caramelized onions with softened cream cheese, tangy crème fraîche, and aged gouda. The richness balanced by sherry vinegar, layered with nutty Gruyère melting on top. Perfect for weekend snacking, surfacing aromas of sweet onion and toasted cheese. A versatile dip that stands out in both flavor and texture. Adapted with a hint of smoked paprika and fresh thyme for an herbal, smoky twist."
-metaDescription: "Caramelized Onion Hot Dip melts aged gouda, tangy crème fraîche, smoked paprika plus thyme. Deep amber onions with sherry vinegar tang, broiled crisp on top."
-ogDescription: "Deep amber onions meet creamy gouda, crème fraîche, smoked paprika and thyme. Broil quick to crisp cheese topping. Ready to spread on thick cut bread or veggies."
-focusKeyphrase: "Caramelized Onion Hot Dip"
+description: "Creamy caramelized onion dip with cream cheese, crème fraîche, and melted Gruyère. Balanced with sherry vinegar and smoked paprika for depth. Serve warm."
+metaDescription: "Caramelized onion dip recipe with cream cheese and Gruyère. Warm, rich, and tangy. Make it tonight."
+ogDescription: "Deeply caramelized onions meet cream cheese and melted Gruyère. A warm dip that tastes expensive but takes one pan."
+focusKeyphrase: "caramelized onion dip recipe"
 date: 2025-08-01
 draft: false
 image: caramelized-onion-dip.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "snack"
 keywords:
-- "caramelized onions"
-- "gouda dip"
-- "smoked paprika dip"
+- "caramelized onion dip"
+- "caramelized onion dip recipe"
+- "caramelized onion gruyere dip"
+- "warm french onion dip"
+- "cream cheese french onion dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "280"

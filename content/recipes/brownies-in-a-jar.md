@@ -1,10 +1,10 @@
 ---
-title: "Brownies In A Jar"
+title: "Brownie in a Jar: Layered Mix Recipe"
 slug: "brownies-in-a-jar"
-description: "Dry ingredient layers for a brownie mix in a 750 ml jar. Vegetarian, nut-free, egg-free. Adjusted quantities with cacao swapped for carob powder and black chocolate replaced by dried cranberries for a tart twist. Simple layering creates visual appeal. Mix wet ingredients at home before baking. Storing the jar allows gift-giving-ready mix. Watch for quick baking cues: cracks, moist centers, not a toothpick drenched. Common issues? Flour lumps, sugar clumps. Fix by sifting or shaking the jar. Swap cassonade for coconut sugar if needed. Sensorial: chocolaty aroma, subtle tart bursts from cranberries. Not too sweet, bitter notes balanced. Short bake time with visual checks beats timers."
-metaDescription: "Brownies In A Jar layered dry mix with carob powder and tart cranberries. Gift-ready 750 ml jar. Bake fast by senses, skip toothpick soak, watch cracks and moist center."
-ogDescription: "Layer dry, swap cacao for carob, cranberries not chocolate. Bake 12 mins, edges firm, middle moist. Watch cracks, smell chocolaty-fruity aroma. Gift-ready jar mix."
-focusKeyphrase: "brownies in a jar"
+description: "Dry ingredient brownie mix layered in a jar—vegetarian, nut-free, egg-free. Add wet ingredients at home, bake until the edges crack. Gift-ready."
+metaDescription: "Brownie in a jar recipe with layered dry ingredients. Nut-free, vegetarian. Mix wet ingredients, bake 20 minutes. Save this one."
+ogDescription: "Layered brownie mix in a jar. Vegetarian, nut-free. Bake with wet ingredients at home. Visual, shareable, ready to gift."
+focusKeyphrase: "brownie in a jar"
 date: 2025-08-17
 draft: false
 image: brownies-in-a-jar.jpg
@@ -20,9 +20,11 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "brownies jar mix"
-- "carob powder dessert"
-- "layered dry mix"
+- "brownie in a jar"
+- "brownie in a jar recipe"
+- "brownie mix in a jar"
+- "chocolate brownie in a jar"
+- "layered brownie mix"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

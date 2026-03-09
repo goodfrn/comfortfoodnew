@@ -1,10 +1,10 @@
 ---
-title: "Candy Cane Crumble Cookies"
+title: "Candy Cane Crumble Cookies with Dark Chocolate"
 slug: "candy-cane-crumble-cookies"
-description: "Small buttery cookies with crushed peppermint candies baked until golden. White chocolate replaced with dark chocolate. A hint of orange zest added to brighten flavors. Flour mix altered slightly for a sturdier texture. Baking temperature and time tweaked for crisp edges but still tender centers. Garnished by rolling dough balls in cinnamon sugar instead of candy pieces for a subtle warm note. Cookies keep well in airtight storage. Perfect for winter gatherings when the scent of chocolate and peppermint fills the air."
-metaDescription: "Candy Cane Crumble Cookies with crushed peppermint, dark chocolate chunks, orange zest, and cinnamon sugar roll-in. Crisp edges, tender centers, rustic texture in each bite."
-ogDescription: "Crunchy edges with tender centers. Peppermint shards rolled outside, dark chocolate chunks, orange zest brightness. Winter spice scent fills kitchen air."
-focusKeyphrase: "Candy Cane Crumble Cookies"
+description: "Buttery candy cane cookies with crushed peppermint candies and dark chocolate. Crispy edges, tender centers, orange zest brightness, cinnamon sugar coating. Holiday baking made simple."
+metaDescription: "Candy cane cookies recipe with dark chocolate, crushed peppermint, and orange zest. Crispy-tender texture that keeps fresh for days. Make them tonight."
+ogDescription: "Candy cane crumble cookies. Dark chocolate, peppermint candies, orange zest, cinnamon sugar crust. Crisp edges, soft centers."
+focusKeyphrase: "candy cane cookies"
 date: 2025-08-17
 draft: false
 image: candy-cane-crumble-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "mint"
 - "candy"
 keywords:
-- "crushed peppermint"
-- "cinnamon sugar roll"
-- "almond flour cookies"
+- "candy cane cookies"
+- "candy cane cookie recipe"
+- "candy cane chocolate cookies"
+- "peppermint candy cane cookies"
+- "candy cane crushed cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "150"

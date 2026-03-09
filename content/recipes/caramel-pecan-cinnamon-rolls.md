@@ -1,10 +1,10 @@
 ---
-title: "Caramel Pecan Cinnamon Rolls"
+title: "Caramel Pecan Cinnamon Rolls Recipe"
 slug: "caramel-pecan-cinnamon-rolls"
-description: "Sweet dough swirled with cinnamon sugar. Gooey caramel bottom with toasted pecans. Soft, golden, sticky rolls that flip out like magic. I swapped corn syrup for honey to add floral depth. Butter, cream, brown sugar meld to a shiny caramel blanket. Rolls rise, soak, and soak some more in caramel while baking till puffed and browned just right. I watch closely, color clues tell all. I trust feel—boat-soft rolls and bubbling caramel edges mean done. I skip em dash in favor of commas and semicolons per rules. Ten servings with 650-ish calories each. Bold, sticky, textural balance: crunch meets gooey melt."
-metaDescription: "Caramel Pecan Cinnamon Rolls with sticky caramel base, toasted pecans, and gooey curls. Honey swaps corn syrup for floral depth. Watch color and bubbles for bake cues."
-ogDescription: "Sticky rolls with caramel pecan bottom; honey adds subtle floral note. Watch caramel bubble and rolls puff for bake signals; cool briefly before flipping for best texture."
-focusKeyphrase: "Caramel Pecan Cinnamon Rolls"
+description: "Soft cinnamon rolls swirled with brown sugar, topped with honey caramel and toasted pecans. Sticky, gooey, and baked golden—homemade rolls that rival any bakery."
+metaDescription: "Caramel pecan cinnamon rolls with honey caramel sauce and toasted pecans. Soft, sticky, golden rolls. Make them tonight."
+ogDescription: "Honey caramel, toasted pecans, and soft cinnamon rolls. Gooey and sticky. Bakery-level at home."
+focusKeyphrase: "caramel pecan cinnamon rolls"
 date: 2026-01-19
 draft: false
 image: caramel-pecan-cinnamon-rolls.jpg
@@ -21,9 +21,11 @@ tags:
 - "pecan"
 - "dessert"
 keywords:
-- "caramel rolls"
-- "pecan rolls"
-- "cinnamon rolls"
+- "caramel pecan cinnamon rolls"
+- "caramel cinnamon buns"
+- "pecan sticky roll recipe"
+- "cinnamon rolls with caramel and pecans"
+- "sticky caramel rolls"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "651"

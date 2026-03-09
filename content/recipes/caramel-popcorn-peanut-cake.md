@@ -1,10 +1,10 @@
 ---
-title: "Caramel Popcorn Peanut Cake"
+title: "Caramel Popcorn Cake with Peanut Fudge"
 slug: "caramel-popcorn-peanut-cake"
-description: "Layers of fluffy vanilla cake twisted with rich peanut chocolate fudge, stacked with salted caramel buttercream, crunchy peanuts, and caramel popcorn. Two ingredient swaps: whole wheat flour replaces some white for bite and depth; coconut oil instead of vegetable oil for subtle aroma. Slightly less sugar to tone down sweetness. Adjusted bake and chill times based on my experience. Assembly bold: pop the cake layers flat by shaving domes, slice into four strata. Alternate textures: soft cakey, creamy fudge, sticky caramel, crunchy nuts and popcorn. Real kitchen beats: avoid dry crumb by watching batter consistency and oven temperature. Chill fudge until just firm but not brittle to slice clean. Final drizzle of salted caramel seals the deal."
-metaDescription: "Caramel Popcorn Peanut Cake layers fluffy vanilla, peanut chocolate fudge, salted caramel buttercream, crunchy peanuts, and caramel popcorn for rich texture variety."
-ogDescription: "Layered vanilla cake with peanut chocolate fudge, salted caramel buttercream, peanuts, and popcorn. Texture plays off sweet and salty, with nutty depth."
-focusKeyphrase: "Caramel Popcorn Peanut Cake"
+description: "Layered cake with peanut chocolate fudge, salted caramel buttercream, crunchy popcorn and nuts. Whole wheat flour and coconut oil for depth. Real kitchen techniques for clean slices."
+metaDescription: "Caramel popcorn cake recipe with peanut fudge layers, salted caramel buttercream, and crunchy toppings. Assembly tips that actually work."
+ogDescription: "Fluffy vanilla cake layered with peanut fudge, caramel buttercream, and crispy popcorn. Skip the dry crumb mistakes."
+focusKeyphrase: "caramel popcorn cake"
 date: 2025-08-19
 draft: false
 image: caramel-popcorn-peanut-cake.jpg
@@ -22,8 +22,10 @@ tags:
 - "peanut butter"
 keywords:
 - "caramel popcorn cake"
-- "peanut butter dessert"
-- "salted caramel cake"
+- "caramel corn cake"
+- "peanut cake recipe"
+- "layered cake with caramel"
+- "popcorn cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "482"

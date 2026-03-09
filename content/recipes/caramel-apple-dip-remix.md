@@ -1,10 +1,10 @@
 ---
-title: "Caramel Apple Dip Remix"
+title: "Caramel Apple Dip with Toffee Bits"
 slug: "caramel-apple-dip-remix"
-description: "A creamy blend of cream cheese whipped with sugar and almond extract. Spread in a dish, layered thick with caramel sauce, studded with toffee bits. Optional nuts and chocolate chips add crunch and melty bursts. Chill to let flavors meld. Serve with crisp apple slices. A quick, crowd-pleasing treat with tweaks for texture and flavor. Easy swaps for nuts and sweeteners. Focus on texture and visual cues over strict timing for best results."
-metaDescription: "Caramel Apple Dip Remix uses cream cheese whipped with brown sugar and almond extract layered with caramel sauce, toffee bits, nuts, chocolate chips. Chill and serve."
-ogDescription: "Creamy caramel and cream cheese whipped with brown sugar and almond extract. Topped with toffee bits, nuts, chocolate chips. Chill well, serve with crisp apple slices."
-focusKeyphrase: "Caramel Apple Dip Remix"
+description: "Creamy cream cheese caramel apple dip layered with toffee bits and chocolate. Mix, chill, and serve with crisp apple slices for an easy crowd-pleasing dessert."
+metaDescription: "Caramel apple dip recipe with cream cheese, toffee bits, and chocolate. Ready in minutes. Try it tonight."
+ogDescription: "Creamy caramel dip with toffee bits and chocolate. Serve with apple slices for an easy, crave-worthy treat."
+focusKeyphrase: "caramel apple dip"
 date: 2025-10-11
 draft: false
 image: caramel-apple-dip-remix.jpg
@@ -22,8 +22,10 @@ tags:
 - "easy"
 keywords:
 - "caramel apple dip"
-- "cream cheese dessert"
-- "toffee bits dip"
+- "apple cream cheese dip"
+- "cream cheese caramel dip"
+- "apple dip toffee"
+- "homemade caramel apple dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "140"

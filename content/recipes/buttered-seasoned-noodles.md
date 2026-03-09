@@ -1,10 +1,10 @@
 ---
-title: "Buttered Seasoned Noodles"
+title: "Buttered Noodles Recipe With Smoked Paprika"
 slug: "buttered-seasoned-noodles"
-description: "Cook noodles til just shy of done. Drain, toss hot pan back. Butter melts slow or quick heat. Add seasoned salt mix swapped with smoked paprika salt. Black pepper grounded fresh. Stir to coat every strand. Serve hot. Holds well but soggy if left too long. Classic with reliable tweaks for punch."
-metaDescription: "Buttered seasoned noodles with smoky paprika salt and fresh cracked pepper. Tossed hot with butter melting slow for silky texture. Serve immediate, holds well briefly."
-ogDescription: "Noodles tossed hot with butter, smoky salt, fresh pepper. Quick cook, toss with care. Serve now or risk gluey mess. Classic, no fuss, real textures stand out."
-focusKeyphrase: "buttered seasoned noodles"
+description: "Simple buttered noodles recipe with smoked paprika salt and fresh cracked pepper. Crispy edges, tender strands, holds well for sides or quick meals."
+metaDescription: "Buttered noodles recipe with smoked paprika and fresh pepper. Fast, reliable, and versatile for any meal. Try it tonight."
+ogDescription: "Buttered noodles with smoked paprika salt and cracked pepper. Easy, reliable, packed with flavor."
+focusKeyphrase: "buttered noodles recipe"
 date: 2026-02-03
 draft: false
 image: buttered-seasoned-noodles.jpg
@@ -21,9 +21,11 @@ tags:
 - "vegetarian"
 - "side dish"
 keywords:
-- "seasoned salt noodles"
-- "butter pasta"
-- "tossed noodles"
+- "buttered noodles"
+- "butter noodles recipe"
+- "easy butter noodles"
+- "butter and garlic noodles"
+- "simple butter noodle recipe"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "230"

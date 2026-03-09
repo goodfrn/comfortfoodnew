@@ -1,10 +1,10 @@
 ---
-title: "Caramel Banana French Toast"
+title: "Banana French Toast with Caramel Sauce"
 slug: "caramel-banana-french-toast"
-description: "French toast sandwiches with caramelized bananas and dark chocolate sauce. Eggs, milk, and sugar batter for soaking. Bananas cut and coated in amber caramel. Dark chocolate melted into warm cream for pouring. Butter browns the sandwich in a skillet. Serves four, perfect brunch or sweet main. No nuts. Switching maple syrup for sugar in caramel enhances subtle sweetness, adding cinnamon for spice. Replaced white bread with brioche for fluffier texture. Slightly varied cooking times for caramel and toasting. Chocolate sauce made with a splash of coffee for depth."
-metaDescription: "Caramel Banana French Toast recipe features caramelized bananas, dark chocolate sauce, and brioche for a delicious brunch."
-ogDescription: "Indulge in Caramel Banana French Toast with soft brioche, warmed chocolate sauce, and sweet caramelized bananas perfect for brunch."
-focusKeyphrase: "Caramel Banana French Toast"
+description: "Brioche banana french toast with caramelized bananas and dark chocolate sauce. Crispy outside, custardy inside. Make it for brunch or dessert."
+metaDescription: "Banana french toast recipe with caramel sauce and dark chocolate. Brioche bread, caramelized bananas, and a coffee-spiked chocolate drizzle. Try it tonight."
+ogDescription: "Crispy brioche banana french toast stacked with caramelized bananas and dark chocolate sauce. A brunch that tastes like dessert."
+focusKeyphrase: "banana french toast"
 date: 2025-07-18
 draft: false
 image: caramel-banana-french-toast.jpg
@@ -21,9 +21,11 @@ tags:
 - "caramel"
 - "eggs"
 keywords:
-- "banana recipes"
-- "chocolate sauce"
-- "brioche French toast"
+- "banana french toast"
+- "banana foster french toast"
+- "caramelized banana french toast"
+- "french toast with banana"
+- "banana french toast recipe"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "480"

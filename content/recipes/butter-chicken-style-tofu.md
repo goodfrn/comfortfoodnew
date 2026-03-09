@@ -1,10 +1,11 @@
 ---
 title: "Butter Chicken Style Tofu"
+title: "Butter Chicken Style Tofu"
 slug: "butter-chicken-style-tofu"
-description: "Firm tofu cooked in a spiced buttery tomato cream sauce. Simmered, pureed sauce with fresh aromatics, robust spices like paprika and garam masala, ginger and garlic punch through. Blanched tofu browned, then simmered gently in the sauce, fresh cilantro finishes. No nuts, gluten or eggs, purely plant-based comfort with a creamy twist. Adaptable with coconut cream or cashew milk as needed. Timings flexible; focus on aroma, color and texture cues over strict clocks."
-metaDescription: "Firm tofu browned then simmered in richly spiced buttery tomato cream sauce with paprika, garam masala, fresh ginger and a cilantro finish 4-6 servings."
-ogDescription: "Firm tofu browned, simmered gently in buttery tomato cream spiced with paprika, ginger, garam masala. Fresh cilantro tops for balance and aroma."
-focusKeyphrase: "Butter chicken style tofu"
+description: "Firm tofu in spiced buttery tomato cream sauce with garam masala, ginger, and garlic. Plant-based comfort that tastes like the real thing."
+metaDescription: "Butter chicken tofu recipe with creamy tomato sauce, garam masala, and fresh cilantro. Vegan comfort food ready in 30 minutes. Try it tonight."
+ogDescription: "Buttered tofu in a rich spiced tomato cream sauce. All the flavor of butter chicken, completely plant-based."
+focusKeyphrase: "buttered tofu recipe"
 date: 2025-09-25
 draft: false
 image: butter-chicken-style-tofu.jpg
@@ -21,9 +22,11 @@ tags:
 - "spicy"
 - "one pot"
 keywords:
-- "firm tofu"
-- "garam masala tofu"
-- "tofu curry"
+- "buttered tofu recipe"
+- "butter chicken tofu"
+- "vegan butter chicken tofu"
+- "butter tofu indian"
+- "tofu butter chicken recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "310"

@@ -1,9 +1,10 @@
 ---
-title: "Braised Pork Shoulder Orange Cinnamon"
+title: "Braised Pork Shoulder with Orange & Cinnamon"
+focusKeyphrase: "braised pork shoulder"
 slug: "braised-pork-shoulder"
-description: "Large pork shoulder slow braised in citrus and spices. Orange juice and rice vinegar add brightness, balanced by cinnamon and lemongrass. Ginger and dried chilis bring warmth and heat. Cassava sugar replaces brown sugar for a subtler sweetness. Chicken broth or water keeps it moist. Meat falls apart easily after slow cooking. Serve alongside jasmine rice and sautéed greens for full meal."
-metaDescription: "Braised Pork Shoulder Orange Cinnamon is a delightful dish that combines citrus, spices, and slow-cooked goodness for a unique flavor."
-ogDescription: "Discover the fusion of orange and cinnamon in this braised pork shoulder recipe, delivering a comforting meal with unexpected flavors."
+description: "Slow braised pork shoulder with orange juice, cinnamon, and lemongrass. Citrus brightness balances warmth from ginger and dried chilis. Meat falls apart tender. Serve with jasmine rice."
+metaDescription: "Braised pork shoulder recipe with orange, cinnamon, and Asian spices. Slow-cooked until it shreds easily. Simple, deeply flavored comfort food."
+ogDescription: "Pork shoulder braised low and slow in citrus and warm spices. Orange juice, cinnamon, lemongrass, ginger. Served with jasmine rice and greens."
 focusKeyphrase: "braised pork shoulder"
 date: 2025-07-18
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "cinnamon"
 - "asian"
 keywords:
-- "braised pork"
-- "pork shoulder recipe"
-- "slow cooking"
+- "braised pork shoulder"
+- "pork shoulder dutch oven"
+- "asian braised pork shoulder"
+- "braised pork shoulder recipe"
+- "stewed pork shoulder"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "340"

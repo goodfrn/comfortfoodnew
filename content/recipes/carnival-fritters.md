@@ -1,10 +1,10 @@
 ---
-title: "Carnival Fritters Twist"
+title: "Carnival Fritters Twist | Citrus & Brandy"
 slug: "carnival-fritters"
-description: "Fritters soaked raisins stirred with brandy, tender dough enriched by eggs and butter, breathes bubbles through long fold-knead ritual. Citrus zest, pine nuts, candied fruit diced small. Fried golden, rolled in sugar for crackle bite. A carnival favorite with dry white wine swap for rum. Dense yet airy; crispy edges when right heat hits. Classic comfort, slightly tweaked with orange blossom water. Watch rise by eye not clock. Easy rescue for denseness—extra knead or warm place. Olive oil can be swapped with neutral veg oil to avoid flavor clash. Eat warm, sugar clinging, aroma sharp with citrus and brandy hints. Thirty bite-size treasures, perfect for crowd, stress-tested under true kitchen chaos conditions."
-metaDescription: "Carnival Fritters Twist with swollen raisins in wine, folded dough air bubbles, citrus zest, pine nuts, fried crisp and sugar-coated. Watch textures and timing closely."
-ogDescription: "Golden fritters with wine-soaked raisins, citrus punch, pine nuts, deep-fried crisp and dusted in sugar. Kneading critical for airy, crackling bites. Add orange blossom water for twist."
-focusKeyphrase: "carnival fritters"
+description: "Tender fritters enriched with eggs, butter, and brandy-soaked raisins. Citrus zest, pine nuts, candied fruit. Fried golden and rolled in sugar for a crackle bite. Thirty pieces, stress-tested."
+metaDescription: "Carnival fritters recipe with brandy-soaked raisins, citrus zest, and candied fruit. Fried golden, rolled in sugar. Make thirty pieces tonight."
+ogDescription: "Brandy-soaked raisins, citrus zest, pine nuts in tender fried fritters rolled in sugar. Crackle bite, aroma sharp with orange blossom."
+focusKeyphrase: "fritters"
 date: 2025-09-25
 draft: false
 image: carnival-fritters.jpg
@@ -22,8 +22,10 @@ tags:
 - "eggs"
 keywords:
 - "fritters"
-- "raisin dough"
-- "deep frying"
+- "fritters recipe"
+- "banana fritter"
+- "pineapple fritter"
+- "buñuelo recipe"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "220"

@@ -1,10 +1,10 @@
 ---
-title: "Caramel Sheet Cake Twist"
+title: "Caramel Sheet Cake with Espresso"
 slug: "caramel-sheet-cake"
-description: "A rich caramel sheet cake with swapped pecans for butter and a hint of espresso powder in the batter. Fluffy crumb with smoky caramel frosting whipped to a spreadable fluff. Bake till edges pull away, toothpick finishes clean but still moist. Icing simmers smoothly, sugar adjusted to avoid glue or runny mess. Brown sugar, salt, milk, espresso powder, baking powder with slight salt, and vanilla imbue deep complexity. Proven tweaks for timing, stirring, cooling, and flavor layering bring texture and punch. You get 12 generous slices of cafe-worthy comfort."
-metaDescription: "Caramel Sheet Cake Twist with toasted pecans in frosting and subtle espresso powder in batter. Fluffy crumb. Rich caramel icing with crunch. 12 servings comfort food."
-ogDescription: "Rich caramel sheet cake with pecan crunch frosting and espresso twist in batter. Moist crumb, layered flavors, rustic texture. Makes 12 slices."
-focusKeyphrase: "Caramel Sheet Cake"
+description: "Rich caramel sheet cake with espresso powder in the batter and smoky caramel frosting. Fluffy crumb, moist center, deep brown sugar complexity. 12 slices of café-quality comfort."
+metaDescription: "Caramel sheet cake recipe with espresso twist. Fluffy crumb, smoky frosting, brown sugar depth. Bake tonight."
+ogDescription: "Caramel sheet cake with espresso. Fluffy crumb, smoky frosting, brown sugar depth."
+focusKeyphrase: "caramel sheet cake"
 date: 2025-11-28
 draft: false
 image: caramel-sheet-cake.jpg
@@ -22,8 +22,10 @@ tags:
 - "espresso"
 keywords:
 - "caramel sheet cake"
-- "pecan frosting"
-- "espresso powder baking"
+- "caramel sheet cake recipe"
+- "sheet cake"
+- "espresso cake"
+- "brown sugar frosting"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "465"

@@ -1,10 +1,10 @@
 ---
-title: "Bubblegum Cake Remix"
+title: "Bubblegum Cake Remix: Lighter, Tangier"
 slug: "bubblegum-cake-remix"
-description: "Un gâteau à la gomme balloune revu avec des touches perso. Flour and sugar cut by 30%, richer texture from using sour cream and almond milk, subtle citrus twist with lemon zest. Egg whites whipped to soft peaks, carefully folded to keep airiness. Baking cues not just time, but smells and sight of golden edges. Glaze swapped sugar for powdered coconut sugar, milk replaced by oat milk adding mellow taste. Garnish with colorful bubblegum balls for pop and fun. Tips to dodge dense crumb or over-whipped meringue included. All steps shuffled for flow, timing tweaked plus minus 5 percent for real kitchen rhythm. Expect crackling meringue whispers, faint buttery scent rising, and the telltale toothpick dryness test versus jiggle. Kitchen-tested, not foolproof but reliable when senses lead."
-metaDescription: "Bubblegum Cake Remix with almond milk, sour cream, and powdered coconut sugar glaze. Whipped whites folded gently to airy texture, finished with colorful bubblegum balls."
-ogDescription: "Moist cake with tangy lemon, soft meringue folds, coconut sugar glaze plus bubblegum balls for fun. Baking cues smell, sight, and toothpick test guide you."
-focusKeyphrase: "Bubblegum Cake Remix"
+description: "Bubblegum cake with 30% less flour, sour cream richness, and lemon zest brightness. Whipped egg whites folded light, coconut sugar glaze, oat milk finish. Bake by sight and smell."
+metaDescription: "Bubblegum cake remixed with sour cream, lemon zest, and coconut sugar glaze. Lighter crumb, bigger flavor. Save this one."
+ogDescription: "Bubblegum cake cut down, built up better. Sour cream. Lemon. Meringue whispers. Colorful finish."
+focusKeyphrase: "bubble gum cake"
 date: 2025-08-17
 draft: false
 image: bubblegum-cake-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "homemade"
 - "eggs"
 keywords:
-- "bubblegum cake"
-- "meringue folding"
-- "lemon zest cake"
+- "bubble gum cake"
+- "bubblegum cake recipe"
+- "lemon cake with meringue"
+- "sour cream cake"
+- "coconut sugar glaze"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"

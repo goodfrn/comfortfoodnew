@@ -1,10 +1,10 @@
 ---
-title: "Broccoli Cauliflower Salad Twist"
+title: "Broccoli Cauliflower Salad with Bacon"
 slug: "broccoli-cauliflower-salad"
-description: "Crunchy broccoli and cauliflower with sharp red onion and smoky bacon. Creamy dressing grounded by ranch but swapped cheddar for Colby Jack. Whisked mayo and sour cream bind flavors tight. Tossing temp and textural balance crucial. Chill for flavors to marry but not drown. Real talk: dry ranch powder can vary wildly, adjust salt. Bacon fat aroma cuts cold salad chill. Add diced green pepper for crunch contrast or swap sour cream with Greek yogurt for tang and less fat. Timing based on feel not clock—broccoli bright green and cauliflower firm. Mix gently to not bruise veg but coat evenly. A salad that rewards sensory checks over timer always."
-metaDescription: "Broccoli Cauliflower Salad Twist with creamy ranch dressing, smoky bacon, crisp veggies, and a cheddar to Colby Jack swap for bold flavor hits."
-ogDescription: "Crunchy broccoli cauliflower salad tossed with smoky bacon, creamy ranch dressing, cheddar swapped with Colby Jack. Chill but keep crisp bite."
-focusKeyphrase: "Broccoli Cauliflower Salad"
+description: "Crunchy broccoli and cauliflower salad with crispy bacon, sharp red onion, and creamy ranch-mayo dressing. Swap Colby Jack for depth. Chill before serving."
+metaDescription: "Broccoli cauliflower salad recipe with bacon and creamy dressing. Crunchy, tangy, ready in minutes. Save this one."
+ogDescription: "Broccoli and cauliflower salad with bacon and a creamy mayo-ranch dressing. Skip the store mix and taste the real difference."
+focusKeyphrase: "broccoli cauliflower salad"
 date: 2025-11-05
 draft: false
 image: broccoli-cauliflower-salad.jpg
@@ -21,9 +21,11 @@ tags:
 - "cauliflower"
 - "side dish"
 keywords:
-- "broccoli salad"
-- "cauliflower salad"
-- "bacon ranch salad"
+- "broccoli cauliflower salad"
+- "bacon broccoli cauliflower salad"
+- "creamy broccoli and cauliflower salad"
+- "broccoli cauliflower salad with ranch"
+- "broccoli and cauliflower salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "280"

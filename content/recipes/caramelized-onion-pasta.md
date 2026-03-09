@@ -1,10 +1,10 @@
 ---
-title: "Caramelized Onion Cream Pasta"
+title: "Caramelized Onion Pasta with Cream Sauce"
 slug: "caramelized-onion-pasta"
-description: "Caramelized onions slow cooked to golden brown, tossed with garlic, thyme, and a creamy cheese sauce coating al dente pasta. A subtle chili kick and beef broth depth add complexity. Simple pantry staples for rich, layered flavor."
-metaDescription: "Caramelized Onion Cream Pasta—slow browned onions layered with thyme, garlic, subtle chili heat, creamy mascarpone, beef broth depth coating al dente pasta."
-ogDescription: "Slow caramelized onions with thyme and garlic fused with creamy mascarpone and beef broth. Pasta tossed al dente for rich, layered flavor and texture."
-focusKeyphrase: "Caramelized Onion Cream Pasta"
+description: "Golden caramelized onion pasta with creamy cheese sauce, garlic, thyme, and beef broth. Simple ingredients, rich layered flavor. Make it tonight."
+metaDescription: "Caramelized onion pasta recipe with creamy sauce, garlic, and thyme. Rich, complex flavors from pantry staples. Try it tonight."
+ogDescription: "Slow-cooked caramelized onions meet creamy sauce in this pasta dish. Deep flavors, simple ingredients."
+focusKeyphrase: "caramelized onion pasta"
 date: 2026-03-06
 draft: false
 image: caramelized-onion-pasta.jpg
@@ -21,9 +21,11 @@ tags:
 - "slow cooker"
 - "easy dinner"
 keywords:
-- "caramelized onions"
-- "cream pasta sauce"
-- "beef broth pasta"
+- "caramelized onion pasta"
+- "caramelized onion pasta sauce"
+- "creamy caramelized onion pasta"
+- "caramelized onions and pasta"
+- "caramelized onion pasta recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "390"

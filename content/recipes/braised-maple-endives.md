@@ -1,10 +1,10 @@
 ---
-title: "Braised Maple Endives"
+title: "Braised Maple Endives with Sherry Vinegar"
 slug: "braised-maple-endives"
-description: "Endives halved, seared in butter till golden at cut side. Braised gently in adjusted liquids—chicken stock swapped for mushroom broth, maple syrup reduced slightly. Balsamic vinegar replaced by sherry vinegar for sharper tang. Salt and pepper season, lid covers pan. Juice baldly simmered to glossy syrup coats tender, slightly caramelized endives. Aromatic balance leans on tactile cues not clock. 35-minute overall process. Serves 4 to 6. Nut-, gluten-, lactose-, egg-free. Intense earthy aroma, contrast in textures with melting core and crisp edge."
-metaDescription: "Braised Maple Endives with seared edges, earthy mushroom broth, maple glaze, and sharp sherry vinegar. Tender, caramelized, savory-sweet layers for 4-6 servings."
-ogDescription: "Endives seared crisp, braised slow in mushroom broth and maple syrup, finished with sherry vinegar for bright tang and syrupy glaze. Rustic French-inspired dish."
-focusKeyphrase: "Braised maple endives"
+description: "Braised endives caramelized in maple syrup and sherry vinegar with mushroom broth. Halved, seared golden, then braised until tender with a glossy glaze. Serves 4 to 6."
+metaDescription: "Braised endives recipe with maple syrup and sherry vinegar. Golden seared, tender braised endives in 35 minutes. Try it tonight."
+ogDescription: "Braised endives caramelized in maple and sherry vinegar. Earthy, tender, with crisp edges and a glossy glaze."
+focusKeyphrase: "braised endives"
 date: 2025-09-29
 draft: false
 image: braised-maple-endives.jpg
@@ -21,9 +21,11 @@ tags:
 - "roasted"
 - "one pot"
 keywords:
-- "endives recipe"
-- "braised vegetables"
-- "maple vinegar sauce"
+- "braised endives"
+- "braised endive recipe"
+- "endives chicory"
+- "maple braised endives"
+- "braised endives mushroom broth"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "95"

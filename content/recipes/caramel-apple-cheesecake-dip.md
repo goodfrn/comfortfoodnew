@@ -1,9 +1,10 @@
 ---
-title: "Caramel Apple Cheesecake Dip Twist"
+title: "Caramel Apple Cheesecake Dip Recipe"
+focusKeyphrase: "caramel apple cheesecake dip"
 slug: "caramel-apple-cheesecake-dip"
-description: "Cream cheese, brown sugar, and a caramel sauce blend with vanilla bean paste, kosher salt, then folded with whipped topping. Chilled until thickened, topped with more caramel and flaky sea salt. Serve with crisp apples, graham crackers, vanilla wafers. Substituted cool whip with homemade whipped cream and replaced brown sugar with coconut sugar to deepen flavor. Chill times slightly adjusted. Mixes creamy, sweet, salty layers for dunking fun. Ten servings sized for parties or casual snacks. Rich texture but light airiness, balancing dense and fluff."
-metaDescription: "Caramel Apple Cheesecake Dip Twist blends cream cheese, coconut sugar, and homemade whipped cream chilled thick, topped with caramel and flaky sea salt."
-ogDescription: "Creamy cheesecake dip uses coconut sugar, vanilla bean paste, whipped cream. Chill to thick, top caramel, flaky salt. Serve with apples, wafers, crackers for snack fun."
+description: "Cream cheese and brown sugar blended with caramel sauce, vanilla bean, and homemade whipped cream. Chilled and topped with flaky sea salt. Serve with apples and crackers."
+metaDescription: "Caramel apple cheesecake dip made with cream cheese, whipped cream, and caramel. Perfect for parties. Try it tonight."
+ogDescription: "Creamy cheesecake dip with caramel, vanilla, and a pinch of flaky salt. Dip apples and crackers into layers of sweet and salty."
 focusKeyphrase: "caramel apple cheesecake dip"
 date: 2025-11-06
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "no bake"
 - "dessert"
 keywords:
-- "caramel"
-- "apple dip"
-- "cheesecake dessert"
+- "caramel apple cheesecake dip"
+- "caramel cheesecake dip"
+- "apple cheesecake dip"
+- "cheesecake dip recipe"
+- "caramel dip for apples"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "320"

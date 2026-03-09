@@ -1,10 +1,10 @@
 ---
-title: "Butter Tofu Masala"
+title: "Butter Tofu Masala: Creamy Tomato"
 slug: "butter-tofu-masala"
-description: "Tofu simmered in a richly spiced tomato-cream sauce, inspired by butter chicken. Uses fresh aromatics and bold spices with a creamy finish. Simple tofu prep technique to firm up texture. Vegetarian, gluten-free, nut-free. Adaptable with coconut milk or cashew cream substitute. Cooking relies on sensory cues more than strict timers. Ideal for weeknight dinners. Serve with basmati or naan, optionally steamed greens. Tofu browned, sauce pureed and velvety, spices blooming in butter, garnished with fresh cilantro."
-metaDescription: "Butter Tofu Masala simmered in spiced tomato cream sauce, browned tofu cubes, bold Indian vegetarian flavors with fresh coriander finishing touch."
-ogDescription: "Firm tofu browned, sauce thick and fragrant with spices, creamy tomato base, coriander brightens. Indian-inspired vegetarian dish, no fuss, just layers of flavor."
-focusKeyphrase: "Butter Tofu Masala"
+description: "Tofu simmered in a spiced tomato-cream sauce with fresh aromatics and bold spices. Vegetarian butter masala that's gluten-free, ready for weeknight dinners."
+metaDescription: "Butter tofu masala recipe with creamy tomato sauce, fresh spices, and firm tofu. Vegetarian and gluten-free. Try it tonight."
+ogDescription: "Creamy spiced tofu in tomato sauce. Bold aromatics, buttery finish, ready in one pan. Vegetarian masala that actually tastes good."
+focusKeyphrase: "tofu butter masala"
 date: 2025-09-25
 draft: false
 image: butter-tofu-masala.jpg
@@ -21,9 +21,11 @@ tags:
 - "spicy"
 - "comfort food"
 keywords:
-- "tofu masala"
-- "butter tofu"
-- "vegetarian Indian sauce"
+- "tofu butter masala"
+- "butter tofu masala"
+- "vegetarian masala"
+- "creamy tofu curry"
+- "tomato cream sauce tofu"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

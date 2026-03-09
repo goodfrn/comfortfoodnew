@@ -1,9 +1,12 @@
 ---
 title: "Caramel Pecan Upside Down Cake"
+focusKeyphrase: "caramel pecan upside down cake"
+title: "Caramel Pecan Upside Down Cake"
+focusKeyphrase: "caramel pecan upside down cake"
 slug: "caramel-pecan-cake"
-description: "Caramel pecans sizzling in butter and syrup coat the bottom of a cast iron skillet. A rich, eggy cake batter spreads over the glossy top to bake into a golden crust. Flip it out warm so caramel sauce and toasted nuts dribble down the sides. The nuttiness, the sticky sweetness, the dense yet tender crumb. A playful twist swaps golden syrup for maple syrup, adding deeper warmth. Adjust your skillet size if you must or place a pan below to catch drips. Watch for bubbling caramel, crackled edges, and cake that springs back to touch. A rustic showstopper that holds up to busy kitchens and hungry crowds."
-metaDescription: "Caramel pecans toast in butter and maple syrup beneath a rich yellow cake baked in cast iron. Warm flip reveals sticky nuts dripping down edges."
-ogDescription: "Cast iron caramel pecan cake with sticky maple caramel, toasted nuts, and golden crust. Flip while warm to see drips and crunch in every bite."
+description: "Caramel pecan upside down cake with buttery syrup, toasted nuts, and tender crumb. Bake in cast iron, flip warm, and watch caramel drip down the sides."
+metaDescription: "Caramel pecan upside down cake recipe. Cast iron skillet, golden syrup or maple, sticky-sweet topping. Try it tonight."
+ogDescription: "Caramel pecans bubble under a rich cake batter. Flip it warm and watch the sticky sauce cascade down."
 focusKeyphrase: "caramel pecan upside down cake"
 date: 2025-12-20
 draft: false
@@ -21,9 +24,11 @@ tags:
 - "comfort food"
 - "dessert"
 keywords:
-- "pecan cake"
-- "caramel upside down"
-- "yellow cake mix"
+- "caramel pecan upside down cake"
+- "pecan caramel upside down cake"
+- "upside down pecan cake"
+- "cast iron skillet cake"
+- "caramel cake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "490"

@@ -1,10 +1,10 @@
 ---
-title: "Brown Butter Banana Cake"
+title: "Brown Butter Banana Cake Recipe"
 slug: "brown-butter-banana-cake"
-description: "Banana cake with browned butter batter and tangy sour cream, studded with chopped toasted pecans. Cream cheese frosting whipped with browned butter adds a nutty depth. Bakes until toothpick comes out clean and edges pull slightly from pan. Subtle caramel and nut aromas signal readiness. Uses ripe mashed bananas, but frozen thawed works. Pecan replacement possible with walnuts or almonds. Cake holds moisture well kept chilled, but needs tempering before serving. Technique calls for mixing dry and wet alternately to avoid dense texture. Careful with browning butter to avoid burning. Frost after full cool down to prevent melting."
-metaDescription: "Brown Butter Banana Cake layered with tangy sour cream frosting whipped with browned butter, toasted pecans, moist crumb, baked low and slow for deep flavor."
-ogDescription: "Brown butter and bananas, sour cream tang, pecan crunch. Bake slow, cool full. Frost with browned butter cream cheese frosting, chill, slice, serve."
-focusKeyphrase: "Brown Butter Banana Cake"
+description: "Brown butter banana cake with sour cream batter, toasted pecans, and browned butter cream cheese frosting. Nutty, moist, and holds well chilled."
+metaDescription: "Brown butter banana cake with cream cheese frosting and pecans. Moist crumb, nutty depth, and easy technique. Try it tonight."
+ogDescription: "Brown butter banana cake studded with pecans and topped with nutty cream cheese frosting. Stays moist for days."
+focusKeyphrase: "brown butter banana cake"
 date: 2025-09-15
 draft: false
 image: brown-butter-banana-cake.jpg
@@ -21,9 +21,11 @@ tags:
 - "caramel"
 - "comfort food"
 keywords:
-- "banana cake"
-- "brown butter"
-- "cream cheese frosting"
+- "brown butter banana cake"
+- "banana cake with brown butter frosting"
+- "butter banana cake recipe"
+- "brown butter frosting"
+- "sour cream banana cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "390"

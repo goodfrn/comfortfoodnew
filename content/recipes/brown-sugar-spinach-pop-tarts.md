@@ -1,10 +1,10 @@
 ---
-title: "Brown Sugar Spinach Pop Tarts"
+title: "Homemade Brown Sugar Pop Tarts Recipe"
 slug: "brown-sugar-spinach-pop-tarts"
-description: "Handcrafted dough, cold butter, and shortening. Brown sugar and cinnamon replaced with coconut sugar and nutmeg for warmth. Filling rich but no leak. Chill dough, roll out rectangles, egg wash seals edges tight. Bake till golden, tops perforated—steamy escape, crust crisp. Glaze thick, coconut cream mixed in, sets firm. Visual cues beat timers here. Dough flaky or tough based on butter temperature. Chill again after assembly—game changer. Tips on substitutions, fixing sticky dough, or dough cracks. Real kitchens tested, no fuss, no fluff."
-metaDescription: "Brown Sugar Spinach Pop Tarts swap brown sugar for coconut sugar, nutmeg warms filling. Flaky dough needs cold butter, egg wash seals edges tight. Chill, vent, bake golden crisp."
-ogDescription: "Spinach pop tarts with coconut sugar and nutmeg twist. Cold butter dough, egg wash seals, vent holes puff steam. Chill, bake golden. Glaze with coconut cream sets firm."
-focusKeyphrase: "Brown Sugar Spinach Pop Tarts"
+description: "Make flaky homemade brown sugar pop tarts with cold butter, coconut sugar filling, and a thick coconut cream glaze. Chill dough twice for crispy edges and zero leaks."
+metaDescription: "Homemade brown sugar pop tarts with flaky dough, coconut sugar filling, and crisp edges. Chill twice for best results. Try it tonight."
+ogDescription: "Flaky homemade pop tarts filled with brown sugar and spiced warmth. Cold butter dough, sealed tight, baked golden with a thick glaze."
+focusKeyphrase: "homemade brown sugar pop tarts"
 date: 2025-10-04
 draft: false
 image: brown-sugar-spinach-pop-tarts.jpg
@@ -21,9 +21,11 @@ tags:
 - "tart"
 - "coconut"
 keywords:
-- "pop tarts"
-- "spinach filling"
-- "flaky pastry"
+- "homemade brown sugar pop tarts"
+- "cinnamon pop tarts"
+- "brown sugar tart"
+- "homemade cinnamon pop tarts"
+- "frosted brown sugar cinnamon pop tarts"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "280"

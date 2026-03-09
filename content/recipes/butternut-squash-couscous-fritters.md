@@ -1,10 +1,10 @@
 ---
-title: "Butternut Squash Couscous Fritters"
+title: "Butternut Squash Fritters with Couscous"
 slug: "butternut-squash-couscous-fritters"
-description: "Couscous blends with roasted butternut squash, eggs, and a slight spicy kick. Form small patties, pan-fried to golden brown crispness. Topped with tangy skyr yogurt and fresh herbs. A textured bite, nutty, savory, hints of warmth from spices. Easy, quick skilling in pan with little oil, faster than roasting. Versatile side or snack. Substitutions for any squash or grain, simple tweaks for smoother or crispier results."
-metaDescription: "Butternut Squash Couscous Fritters crisp pan-fried patties with warming spices, topped with tangy skyr yogurt and fresh herbs. Fast, textured, versatile snack or side."
-ogDescription: "Pan-fried squash couscous fritters with cumin paprika heat, skyr dollop, herbs. Crisp edges, tender inside, quick skillet fix for snack or side dish."
-focusKeyphrase: "Butternut Squash Couscous Fritters"
+description: "Crispy butternut squash fritters made with couscous, eggs, and warm spices. Pan-fried golden and topped with tangy skyr. Quick, easy side dish or snack."
+metaDescription: "Butternut squash fritters recipe with couscous and spices. Pan-fried crispy, topped with yogurt. Make them tonight."
+ogDescription: "Butternut squash fritters with couscous. Golden, crispy, topped with tangy yogurt and herbs. Ready in minutes."
+focusKeyphrase: "butternut squash fritters"
 date: 2025-12-10
 draft: false
 image: butternut-squash-couscous-fritters.jpg
@@ -21,9 +21,11 @@ tags:
 - "couscous"
 - "fried"
 keywords:
+- "butternut squash fritters"
+- "squash fritters recipe"
+- "butternut fritters recipe"
+- "butternut squash patties"
 - "couscous fritters"
-- "butternut squash"
-- "skyr yogurt"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "230"

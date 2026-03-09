@@ -1,10 +1,10 @@
 ---
-title: "Butternut Goat Cheese Tart"
+title: "Butternut Squash Tart with Goat Cheese"
 slug: "butternut-goat-cheese-tart"
-description: "Flaky puff pastry with thinly sliced butternut squash layered with creme fraiche, shallots and goat cheese baked to tender, golden perfection. A vegetarian dish without nuts or eggs, balancing richness and subtle sweetness. The tart relies on buttered squash for caramelization and soft texture. The cheese melts just enough to soften, not drown the flavor. Simple, earthy, rustic but refined. Ideal for starter or light main. Visual cues over strict times. Squash must be tender but hold shape; pastry puffy and browned. Crispy edges hint readiness. Adds savory warmth and a hint of tang without overpowering. A versatile pub lunch or dinner plate."
-metaDescription: "Butternut Goat Cheese Tart with flaky puff pastry, tender squash layers, creamy goat cheese finish. Rustic baked tart full of savory warmth, light yet hearty."
-ogDescription: "Tender butternut squash layered on puff pastry, topped with fresh goat cheese. Crispy edges, caramelized veggies, subtle tang—simple, rustic, satisfying."
-focusKeyphrase: "butternut goat cheese tart"
+description: "Flaky puff pastry layered with caramelized butternut squash, crème fraîche, and goat cheese. Golden, tender, and naturally vegetarian—crispy edges, melted cheese, subtle sweetness."
+metaDescription: "Butternut squash tart recipe: puff pastry, goat cheese, crème fraîche. Caramelized edges, tender squash. Make it tonight."
+ogDescription: "Butternut squash tart with goat cheese and crème fraîche. Crispy puff pastry, caramelized squash, soft cheese. Vegetarian and refined."
+focusKeyphrase: "butternut squash tart"
 date: 2025-09-28
 draft: false
 image: butternut-goat-cheese-tart.jpg
@@ -22,8 +22,10 @@ tags:
 - "appetizer"
 keywords:
 - "butternut squash tart"
-- "goat cheese tart"
-- "puff pastry tart"
+- "butternut tart"
+- "butternut squash puff pastry tart"
+- "squash tartlets"
+- "butternut squash tart recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"

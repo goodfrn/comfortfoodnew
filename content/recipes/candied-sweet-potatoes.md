@@ -1,10 +1,10 @@
 ---
-title: "Candied Sweet Potatoes Pecan Twist"
+title: "Candied Sweet Potatoes with Pecans"
 slug: "candied-sweet-potatoes"
-description: "Sweet potatoes sliced thin, baked in a butter-brown sugar-spiced bath then topped with a crunchy pecan crumb. Cinnamon swapped for allspice to deepen warmth. Butter slightly reduced and brown sugar tweaked for balanced sweetness. Cook time nudged, covered then uncovered to lock in moisture and caramelize topping. A splash of maple syrup added to the glaze to layer flavor. Uses sight and texture over strict timer. Tips on peeling quickly and saving sticky pans. Perfect for when yams need a sweet bite with crunch and spice. Serves 8, routes around 475 calories."
-metaDescription: "Candied Sweet Potatoes Pecan Twist with allspice and maple glaze, tender slices under crunchy pecan crumb. Baking tips, texture cues, warm layered flavors."
-ogDescription: "Sweet potato slices soaked in butter-brown sugar glaze, topped with toasted pecans. Watch syrup bubbles, fork-test softness, and golden nuts for best results."
-focusKeyphrase: "Candied Sweet Potatoes Pecan Twist"
+description: "Thinly sliced sweet potatoes baked in spiced brown sugar glaze, topped with crunchy pecan crumb. Allspice and maple syrup add depth. Serves 8."
+metaDescription: "Candied sweet potatoes with pecans recipe. Crispy pecan topping, allspice warmth, maple glaze. No marshmallows. Try it tonight."
+ogDescription: "Sweet potatoes in brown sugar glaze with a crunchy pecan crumb topping. Allspice and maple add real depth."
+focusKeyphrase: "candied sweet potatoes with pecans"
 date: 2025-10-06
 draft: false
 image: candied-sweet-potatoes.jpg
@@ -21,9 +21,11 @@ tags:
 - "pecan"
 - "roasted"
 keywords:
-- "sweet potatoes"
-- "pecan topping"
-- "brown sugar glaze"
+- "candied sweet potatoes with pecans"
+- "candied yams and pecans"
+- "candied sweet potato casserole with pecans"
+- "candied pecan sweet potato recipe"
+- "pecan sweet potato side dish"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "475"

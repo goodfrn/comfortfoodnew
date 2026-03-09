@@ -1,10 +1,10 @@
 ---
-title: "Cabbage and Beef Layers"
+title: "Cabbage and Ground Beef Casserole"
 slug: "cabbage-and-beef-layers"
-description: "Layers of beef and cabbage make a hearty dish. Includes rice and tomatoes for more texture. Cooking takes a while but it's mostly hands-off. Meat mixture, rice, and tomato chunks layered with cabbage. Bake covered, then uncovered for browning."
-metaDescription: "Cabbage and Beef Layers offer a hearty dish with turkey, quinoa, and tomatoes. A comforting meal made with layers of goodness and baked to perfection."
-ogDescription: "Enjoy Cabbage and Beef Layers. A satisfying dish featuring ground turkey, layered with quinoa, tomatoes, and tender cabbage. Perfect for family dinners."
-focusKeyphrase: "Cabbage and Beef Layers"
+description: "Layered cabbage and ground beef casserole with rice and tomatoes. Bake covered then uncovered for a browned top. Mostly hands-off cooking."
+metaDescription: "Cabbage and ground beef casserole with rice—layered, baked, and ready in one dish. Save this recipe."
+ogDescription: "Layered cabbage and ground beef casserole with rice and tomatoes. Hands-off baking at its best."
+focusKeyphrase: "cabbage and ground beef casserole"
 date: 2025-07-15
 draft: false
 image: cabbage-and-beef-layers.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "cabbage layers"
-- "comfort food"
-- "hearty baking"
+- "cabbage and ground beef casserole"
+- "cabbage and hamburger casserole"
+- "ground beef cabbage rice casserole"
+- "layered cabbage and ground beef casserole"
+- "cabbage beef casserole recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: 420

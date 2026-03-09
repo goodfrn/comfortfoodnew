@@ -1,10 +1,10 @@
 ---
-title: "Cabbage Beet Soup"
+title: "Cabbage Beet Soup with Caramelized Onions"
 slug: "cabbage-beet-soup"
-description: "A rustic cabbage and beet soup with a subtle sweet and tangy edge. Onion caramelized with brown sugar and deglazed with white wine vinegar builds a sharp base. Root vegetables simmered in chicken broth until tender. Cabbage slices wilted just right, retaining slight crunch. Fresh flat-leaf parsley added at the end for brightness. Hearty, colorful, slightly earthy flavors balanced by vinegar’s punch. Gluten, dairy, nuts, and eggs free. Simple, seasonal ingredients transformed by controlled caramelization and acid layering. Adjust timing by eye—soft but not mushy vegetables. My twist: swapped chicken broth to vegetable broth for deeper umami and added a pinch of smoked paprika for warmth. Versatile and forgiving soup, great for cooling days or a starter."
-metaDescription: "Cabbage Beet Soup simmered slow with caramelized onions, tangy vinegar, earthy beets and fresh parsley. Versatile, smoky notes, veggie broth depth, rustic French-inspired flavors."
-ogDescription: "Slow caramelized onions, tangy vinegar, chunky beets and cabbage in a hearty veggie broth. Rustic, smoky punch with fresh parsley brightness. Cozy, warming bowl."
-focusKeyphrase: "Cabbage Beet Soup"
+description: "Rustic cabbage beet soup with caramelized onions, white wine vinegar, and a pinch of smoked paprika. Tender root vegetables in vegetable broth, naturally gluten-free. Ready in 40 minutes."
+metaDescription: "Cabbage beet soup recipe with caramelized onions and smoked paprika. Hearty, gluten-free, and full of earthy flavor. Make it tonight."
+ogDescription: "Cabbage beet soup with caramelized onions and vinegar punch. Earthy, tangy, naturally gluten-free comfort in a bowl."
+focusKeyphrase: "cabbage beet soup"
 date: 2025-09-27
 draft: false
 image: cabbage-beet-soup.jpg
@@ -21,9 +21,11 @@ tags:
 - "gluten free"
 - "beet"
 keywords:
-- "beet soup"
-- "cabbage soup"
-- "vegan vegetable soup"
+- "cabbage beet soup"
+- "beet and cabbage soup"
+- "beetroot and cabbage soup"
+- "cabbage beet borscht"
+- "gluten-free soup recipes"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "130"

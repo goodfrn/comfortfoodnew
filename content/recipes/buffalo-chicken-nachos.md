@@ -1,10 +1,10 @@
 ---
-title: "Buffalo Chicken Nachos Remix"
+title: "Buffalo Chicken Nachos with Blue Corn Chips"
 slug: "buffalo-chicken-nachos"
-description: "Shredded chicken tossed in tangy buffalo sauce with crispy blue corn chips, melted Colby cheese, fresh jalapenos, avocado, tomato, cilantro, and a squeeze of lime. Broil cheese until just gooey, warm chicken gently in oven heat. A hit for game night or casual eats. Flavor melds quickly using simple technique and keen timing. Easy swaps, tips on reading doneness over clocks, and methods to avoid soggy chips included."
-metaDescription: "Buffalo Chicken Nachos Remix with shredded buffalo chicken, melty Colby cheese, fresh jalapenos, avocado, and lime juice. Crunchy chips held tight under heat."
-ogDescription: "Shredded buffalo chicken over blue corn chips. Cheese bubbles, edges toast, jalapenos add heat, avocado cools. Warm gently, avoid soggy chips, flavors burst fast."
-focusKeyphrase: "Buffalo Chicken Nachos"
+description: "Crispy blue corn chips topped with shredded buffalo chicken, melted Colby, fresh jalapeños, avocado, and cilantro. Learn how to broil without sogginess and keep flavors sharp."
+metaDescription: "Buffalo chicken nachos recipe with crispy blue corn chips, melted cheese, and fresh toppings. Keep them from getting soggy—try it tonight."
+ogDescription: "Shredded buffalo chicken on crispy blue corn chips with melted cheese, jalapeños, avocado, and lime. No soggy mess, just clean flavors."
+focusKeyphrase: "buffalo chicken nachos"
 date: 2026-02-08
 draft: false
 image: buffalo-chicken-nachos.jpg
@@ -21,9 +21,11 @@ tags:
 - "appetizer"
 - "party"
 keywords:
-- "buffalo chicken"
-- "blue corn chips"
-- "Colby cheese"
+- "buffalo chicken nachos"
+- "spicy chicken nachos"
+- "crispy nachos recipe"
+- "buffalo wild wings nacho recipe"
+- "chicken totchos"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "380"

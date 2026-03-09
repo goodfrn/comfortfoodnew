@@ -1,10 +1,10 @@
 ---
-title: "Buckeye Cookies Remix"
+title: "Buckeye Brownie Cookies with Peanut Butter"
 slug: "buckeye-cookies-remix"
-description: "Chocolate cookies with a peanut butter center, dipped in chocolate and topped with flaky salt. Adjusted cocoa for intensity, swapped espresso powder with instant coffee for sharper bite. Peanut butter mix slightly less sweet for balance. Techniques aim for thick, non-spreading cookies. Melt chocolate slowly to avoid seizing. Chilling improves texture and stops overrun. Sensory tips included for visual and textural cues throughout baking and assembly."
-metaDescription: "Buckeye Cookies Remix - dense chocolate cookies with peanut butter centers dipped in rich chocolate and flaky salt. Chilled dough, folded batters, and careful melts matter."
-ogDescription: "Dense chocolate cookies with peanut butter centers dipped in chocolate, flaky salt atop. Chilling key, slow melts, folding avoids toughness. Texture counts here."
-focusKeyphrase: "Buckeye Cookies"
+description: "Thick brownie buckeye cookies with creamy peanut butter centers, dipped in chocolate and finished with flaky salt. Sharper coffee bite and adjusted cocoa for depth."
+metaDescription: "Buckeye brownie cookies with peanut butter centers. Thick, chewy texture with instant coffee and flaky salt. Try it tonight."
+ogDescription: "Buckeye brownie cookies that don't spread. Peanut butter centers dipped in chocolate. Instant coffee gives them a sharper bite."
+focusKeyphrase: "buckeye brownie cookies"
 date: 2025-10-11
 draft: false
 image: buckeye-cookies-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "peanut butter center"
-- "chocolate cookies"
-- "cookie chilling"
+- "buckeye brownie cookies"
+- "buckeye cookie recipe peanut butter"
+- "best buckeye cookie recipe"
+- "peanut butter ball cookie"
+- "chocolate peanut butter buckeyes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

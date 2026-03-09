@@ -1,10 +1,10 @@
 ---
-title: "Butter Shortening Frosting"
+title: "Butter Shortening Frosting Recipe"
 slug: "butter-shortening-frosting"
-description: "Butter and shortening teamed up with powdered sugar to create a rich, stable frosting. Salt cuts through the sweetness, balancing the flavors. Gel colors mix without weighing down the texture. Water or milk thins as needed, perfect for piping or spreading. The combo keeps it firm but creamy. Mixing slowly avoids clouding sugar dust everywhere. Flavors come in late, blending fully without losing punch. Texture is tactile, not total smooth. A few adjustments and it's ready for any cake task."
-metaDescription: "Butter Shortening Frosting blends rich butter and stable shortening with sifted sugar and salt for a creamy yet firm pipe-ready cake topping."
-ogDescription: "Rich butter meets stable shortening with sifted sugar and salt. Creamy, firm, pipe-ready. Color with gel, thin with milk or water sparingly."
-focusKeyphrase: "Butter Shortening Frosting"
+description: "Butter and shortening frosting that stays stable and creamy. Salt balances the sweetness, gel colors blend without weight, and it pipes or spreads perfectly for any cake."
+metaDescription: "Butter shortening frosting recipe for cakes and cupcakes. Stable, creamy texture that pipes beautifully. Mix slow, add flavor last, adjust consistency with water or milk."
+ogDescription: "Butter and shortening frosting that holds its shape but stays creamy. Works for piping, spreading, or crumb coating any cake."
+focusKeyphrase: "butter shortening frosting"
 date: 2025-12-26
 draft: false
 image: butter-shortening-frosting.jpg
@@ -20,9 +20,11 @@ tags:
 - "homemade"
 - "party"
 keywords:
-- "butter frosting"
-- "shortening frosting"
-- "stable cake frosting"
+- "butter shortening frosting"
+- "butter crisco frosting"
+- "buttercream frosting with shortening and butter"
+- "icing recipe with crisco"
+- "butter cream frosting with crisco"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"

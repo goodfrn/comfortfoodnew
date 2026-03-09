@@ -1,10 +1,10 @@
 ---
-title: "Broccoli Bacon Quiche Remix"
+title: "Broccoli Bacon Quiche with Crispy Crust"
 slug: "broccoli-bacon-quiche-remix"
-description: "Flaky crust loaded with sautéed smoky bacon, tender broccolini, and tangy feta cheese. Egg custard balanced with a hint of cornstarch for a firm but creamy bite. The crust pressed firmly against a 26 cm tart pan, pre-baked till pale golden. Filling sizzles, then bakes off slow and steady until set, with a slight jiggle around the edges. Broccoli substitutes with broccolini for tender stems, bacon swapped by pancetta for a richer punch. Parmesan replaces mozzarella, melting into sharp pockets. A twist of nutmeg in custard. Visual cues guide doneness over clocks. A recipe born from trial and error—you’ll catch silence when slicing, juicy, no soggy bottom."
-metaDescription: "Broccoli Bacon Quiche Remix with flaky crust, pancetta, broccolini, feta and nutmeg twist. Blind bake crust, watch custard jiggle for right set every time."
-ogDescription: "Flaky crust, savory pancetta, tender broccolini, tangy feta. Nutmeg-spiced custard baked till edges puff, center wobbles. Blind bake crust, let rest before slicing."
-focusKeyphrase: "Broccoli Bacon Quiche Remix"
+description: "Broccoli bacon quiche with feta, pancetta, and a flaky tart crust. Creamy egg custard with a hint of nutmeg bakes until set with no soggy bottom."
+metaDescription: "Broccoli bacon quiche recipe with pancetta, feta, and crispy crust. Visual cues guide perfect doneness. Try it tonight."
+ogDescription: "Broccoli bacon quiche that actually works. Flaky crust, creamy custard, crispy pancetta. No soggy bottom."
+focusKeyphrase: "broccoli bacon quiche"
 date: 2025-08-09
 draft: false
 image: broccoli-bacon-quiche-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "bacon"
 - "eggs"
 keywords:
-- "blind bake crust"
-- "nutmeg custard"
-- "savory quiche"
+- "broccoli bacon quiche"
+- "bacon and broccoli quiche"
+- "quiche with broccoli and bacon"
+- "bacon broccoli cheese quiche"
+- "quiche recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "330"

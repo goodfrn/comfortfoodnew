@@ -1,10 +1,10 @@
 ---
-title: "Carrot Cake Muffins Twist"
+title: "Carrot Cake Muffins with Cream Cheese Filling"
 slug: "carrot-cake-muffins"
-description: "Muffins loaded with grated carrots, a cream cheese center, and a crunchy walnut streusel topping. Moist and tender crumb with spicy warmth from ginger and cinnamon. Adapted with honey replacing sugar, coconut oil for butter, and a pinch of cardamom for a subtle twist. Roughly mixed batter to keep texture. Cream cheese filling soft but distinct, streusel contrasted with toasted pecans instead of walnuts. Bake time adjusted; watch for muggy tops and spring back to know readiness. A combo of old-school carrot cake vibes with fresh nuances. Great warm or room temp. Yields two dozen medium muffins ideal for breakfast or snack."
-metaDescription: "Carrot Cake Muffins Twist filled with cream cheese centers and topped with a crunchy pecan streusel. Honey and coconut oil keep crumb moist and spices warm."
-ogDescription: "Moist carrot muffins with gooey cream cheese core and pecan crumble topping. Honey sways sweetness; cardamom sparks subtle spice notes. Bake till tops bounce."
-focusKeyphrase: "Carrot Cake Muffins"
+description: "Moist carrot cake muffins loaded with grated carrots, a creamy cheese center, and toasted pecan streusel. Honey-sweetened with warm spices and cardamom twist."
+metaDescription: "Carrot cake muffins with cream cheese filling inside. Moist, spiced, and topped with crunchy pecans. Make a batch tonight."
+ogDescription: "Moist carrot muffins with cream cheese centers and a crunchy pecan topping. Spiced with ginger and cardamom."
+focusKeyphrase: "carrot cake muffins with cream cheese filling"
 date: 2025-12-30
 draft: false
 image: carrot-cake-muffins.jpg
@@ -21,9 +21,11 @@ tags:
 - "walnut"
 - "cinnamon"
 keywords:
-- "carrot muffins"
-- "cream cheese center"
-- "pecan streusel"
+- "carrot cake muffins"
+- "carrot cake muffins with cream cheese frosting"
+- "moist carrot muffin"
+- "carrot muffin recipe"
+- "healthy carrot muffins"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "180"

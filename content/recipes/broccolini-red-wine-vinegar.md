@@ -1,10 +1,10 @@
 ---
-title: "Broccolini Red Wine Vinegar"
+title: "Charred Broccolini with Red Wine Vinegar"
 slug: "broccolini-red-wine-vinegar"
-description: "Broccolini charred under the broiler with a sharp splash of red wine vinegar. Crunchy stalks, tender florets with a snap, tossed warm in oil, garlic, and tang. A dish where timing counts more than clocks. Visual cues like blistered edges and a bright green pop guide the way. Maldon salt flakes for that crunchy burst. Forget boring steam; broiling adds bite and smoky notes. Replace broccolini with broccolini stems or sautéed green beans for variations. A quick, bold veggie side that plays well with steak or a casual weeknight meal."
-metaDescription: "Broccolini stems charred under broiler with red wine vinegar, garlic, and honey. Crisp edges, smoky aroma, quick veggie side for steak or weeknight meals."
-ogDescription: "Charred broccolini stems under broiler, tossed hot with red wine vinegar, garlic, and honey for sharp tang and crunch. Quick, bold side dish with smoky notes."
-focusKeyphrase: "broccolini red wine vinegar"
+description: "Broiled charred broccolini with red wine vinegar, garlic, and Maldon salt. Crispy-edged florets, tender stalks, and a sharp acidic bite. Ready in minutes."
+metaDescription: "Charred broccolini recipe with red wine vinegar and garlic. Broiled until blistered, finished with Maldon salt. Quick, bold veggie side. Try it tonight."
+ogDescription: "Broiled charred broccolini with red wine vinegar and garlic. Crunchy edges, sharp tang, ready in minutes."
+focusKeyphrase: "charred broccolini"
 date: 2026-01-23
 draft: false
 image: broccolini-red-wine-vinegar.jpg
@@ -21,9 +21,11 @@ tags:
 - "healthy"
 - "roasted"
 keywords:
-- "broccolini"
-- "red wine vinegar"
-- "broiling vegetables"
+- "charred broccolini"
+- "charred broccolini recipe"
+- "broiled broccolini"
+- "broccolini with vinegar"
+- "roasted green vegetables"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "85"

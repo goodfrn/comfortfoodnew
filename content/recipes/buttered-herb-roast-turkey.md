@@ -1,10 +1,10 @@
 ---
-title: "Buttered Herb Roast Turkey"
+title: "Herb Butter Turkey Roast—Golden Skin, Juicy Meat"
 slug: "buttered-herb-roast-turkey"
-description: "Roast a whole bird with herb-butter massaged under skin, cavity stuffed with basics. Champagne or ginger ale for moisture, covered then uncovered for golden skin. Gravy made from pan drippings thickened with roux, simmered slowly for depth. Tips on basting, resting, carving included. Adjusts time, seasons to taste. Practical for home cooks facing dry or bland turkey woes. Substitutions for herbs and liquids explained. Sensory cues prioritize touch and sight over time. Simple, rustic, with occasional kitchen hacks to avoid mess and overcooked meat."
-metaDescription: "Buttered Herb Roast Turkey with under-skin herb butter, cavity stuffing, and champagne moisture for juicy, golden-brown meat plus rich pan drippings gravy."
-ogDescription: "Juicy butter-herb turkey with cavity stuffing, gentle roasting, and homemade roux gravy. Watch juices, baste right, rest well; real roast mastery."
-focusKeyphrase: "Buttered Herb Roast Turkey"
+description: "Roast a whole turkey with herb butter massaged under the skin and cavity basics. Champagne keeps it moist. Uncover for golden skin. Make gravy from pan drippings. Skip the dry bird."
+metaDescription: "Herb butter for turkey roasted whole with champagne, cavity stuffing, and pan gravy. Practical steps to avoid dry meat. Try it tonight."
+ogDescription: "Herb butter turkey roasted golden and juicy. Champagne adds moisture, cavity stuffing builds flavor, pan gravy finishes it right."
+focusKeyphrase: "herb butter for turkey"
 date: 2025-10-05
 draft: false
 image: buttered-herb-roast-turkey.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "main dish"
 keywords:
-- "roast turkey"
-- "herb butter turkey"
-- "turkey gravy"
+- "herb butter for turkey"
+- "butter rub for turkey"
+- "herb roasted turkey"
+- "herbed butter turkey recipe"
+- "fresh herbs for turkey"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "425"

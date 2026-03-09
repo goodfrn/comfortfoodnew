@@ -1,10 +1,10 @@
 ---
-title: "Burrata Toasts with Roasted Tomatoes and Fried Egg"
+title: "Burrata Toast with Roasted Tomatoes and Fried Egg"
 slug: "burrata-toasts"
-description: "Roasted cherry tomatoes tossed with a splash of sherry vinegar and a drizzle of maple syrup. Eggs fried until edges crisp. Toast rubbed with garlic. Burrata torn over warm bites. Chives cut into half-inch sticks. Finished with flaky salt and optional cracked red pepper. Slight ingredient swaps and time tweaks to shift the balance."
-metaDescription: "Burrata Toasts with roasted cherry tomatoes, fried eggs, garlic-rubbed country bread, chives, and flaky salt. French-inspired flavors with sweet, tangy, creamy contrasts."
-ogDescription: "Roasted cherry tomatoes with sherry vinegar and maple, crispy-edged fried eggs, garlic-rubbed toast, and creamy burrata. Rustic French-inspired toasts, fresh chives, chili optional."
-focusKeyphrase: "Burrata Toasts with Roasted Tomatoes and Fried Egg"
+description: "Crispy toast rubbed with garlic, topped with creamy burrata, roasted cherry tomatoes with sherry vinegar, and a fried egg with crispy edges. Simple and elegant."
+metaDescription: "Burrata toast recipe with roasted tomatoes, fried egg, and garlic-rubbed bread. A simple lunch that feels restaurant-quality. Make it tonight."
+ogDescription: "Creamy burrata, roasted tomatoes with sherry vinegar, crispy fried egg on garlic toast. Restaurant-simple breakfast or lunch."
+focusKeyphrase: "burrata toast"
 date: 2025-07-26
 draft: false
 image: burrata-toasts.jpg
@@ -21,9 +21,11 @@ tags:
 - "cheese"
 - "easy"
 keywords:
-- "burrata"
-- "roasted tomatoes"
-- "fried eggs"
+- "burrata toast"
+- "burrata on toast"
+- "burrata toast recipe"
+- "toast burrata"
+- "fried egg toast"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "360"

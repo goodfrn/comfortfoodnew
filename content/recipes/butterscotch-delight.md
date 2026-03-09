@@ -1,10 +1,10 @@
 ---
-title: "Twisted Butterscotch Delight"
+title: "Butter Scotch Pudding Recipe Layered Dessert"
 slug: "butterscotch-delight"
-description: "Layers built up with a crunchy graham base, creamy whipped cream-cheese mix, a slather of butterscotch pudding dotted with sweet chips, and topped off with a cloud of Cool Whip plus a drizzle of butterscotch sauce. Chill times staggered, textures contrasting. Calories high, sugar sweet, fat rich. Stiff peaks key, folding gently or risk deflating air. Frozen crust sets tight. A splash of bourbon swapped for vanilla deepens flavor. Adjust sugar or swap Cool Whip for fresh whipped cream if feeling fancy. Prep and chill total nearly three hours with plenty of hands-on and waiting times."
-metaDescription: "Twisted Butterscotch Delight stacks crunchy graham, creamy cheese-whipped cream, butterscotch pudding plus chips, topped thick with Cool Whip and drizzle."
-ogDescription: "Crunchy graham base. Cream cheese folded with whipped cream. Butterscotch pudding swirled with chips. Thick Cool Whip finish. Chill well, slice sharp."
-focusKeyphrase: "Butterscotch dessert layers"
+description: "Layered butter scotch pudding dessert with graham cracker crust, whipped cream cheese, butterscotch sauce, and Cool Whip. Chill and serve."
+metaDescription: "Butter scotch pudding recipe for a layered butterscotch dessert. Graham base, creamy layers, crunchy toppings. Make it tonight."
+ogDescription: "Layered butterscotch pudding dessert with graham crust, whipped cream cheese, and butterscotch sauce. No bake, three hours chill time."
+focusKeyphrase: "butter scotch pudding recipe"
 date: 2025-10-23
 draft: false
 image: butterscotch-delight.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "caramel"
 keywords:
-- "graham cracker crust"
-- "folding whipped cream"
-- "chilled layered dessert"
+- "butter scotch pudding recipe"
+- "butterscotch dessert"
+- "layered butterscotch pudding"
+- "homemade butterscotch pudding"
+- "butterscotch dessert recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "583"

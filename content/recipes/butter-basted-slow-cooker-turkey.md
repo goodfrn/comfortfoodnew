@@ -1,9 +1,10 @@
 ---
-title: "Butter-Basted Slow Cooker Turkey"
+title: "Slow Cooker Turkey Breast with Butter Basting"
+focusKeyphrase: "slow cooker turkey breast"
 slug: "butter-basted-slow-cooker-turkey"
-description: "Slow cooker turkey breast basted in a butter-herb mix. No rinsing the bird, just pat dry for better butter adhesion. Cook low and slow until juicy and tender. Finish under broiler for crispy skin. Adapted butter with oregano swap, added lemon zest twist for brightness. Timing adjusted to avoid overcooking but enough for tender meat. Visual cues and internal temp guide doneness. Practical tricks included for skinned separation and moisture locking. Substitutions and troubleshooting common slow cooker issues."
-metaDescription: "Butter-basted slow cooker turkey breast cooked low and slow for juicy meat with crispy broiled skin. Oregano and lemon zest add herbal brightness and zing."
-ogDescription: "Slow-cooked turkey breast bathed in butter, oregano swapped for paprika, lemon zest brightens. Broil skin crisp at end. Juicy, tender meat every time."
+description: "Slow cooker turkey breast basted in herb butter for juicy, tender meat. Pat dry for better adhesion, finish under broiler for crispy skin. Practical tips included."
+metaDescription: "Slow cooker turkey breast recipe with butter-herb basting. Juicy, tender, crispy skin. Visual cues and temp guide. Try it tonight."
+ogDescription: "Butter-basted slow cooker turkey breast. Juicy meat, crispy skin, herb-infused flavor without the fuss."
 focusKeyphrase: "slow cooker turkey breast"
 date: 2025-10-10
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "easy dinner"
 - "comfort food"
 keywords:
-- "slow cooker turkey"
-- "butter basted turkey"
-- "turkey breast recipe"
+- "slow cooker turkey breast"
+- "crock pot turkey breast recipe"
+- "boneless turkey breast slow cooker"
+- "slow cook turkey breast crock pot"
+- "slow cooker turkey tenderloin"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "525"

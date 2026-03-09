@@ -1,10 +1,10 @@
 ---
-title: "Buffalo Chicken Cheese Fries"
+title: "Buffalo Chicken Fries with Ranch"
 slug: "buffalo-chicken-cheese-fries"
-description: "Crispy fries layered with spicy buffalo chicken chunks and melted cheese, drizzled with cool ranch. A messy, bold snack or meal with a twist for game days or quick bites."
-metaDescription: "Buffalo Chicken Cheese Fries with crispy fries, tender spicy chicken chunks, melted cheddar, and creamy ranch drizzle. Game day bites with bold layers and texture."
-ogDescription: "Crispy fries layered with spicy buffalo chicken pieces and sharp cheddar cheese, topped with ranch and green onions. Bold flavors for quick savory hits."
-focusKeyphrase: "Buffalo Chicken Cheese Fries"
+description: "Crispy fries loaded with spicy buffalo chicken and melted cheese, drizzled with cool ranch. Bold, messy, and ready in minutes for game day."
+metaDescription: "Buffalo chicken fries recipe with crispy fries, spicy chicken, melted cheese, and ranch. Make it tonight."
+ogDescription: "Loaded fries piled with spicy buffalo chicken and cheese. Game day comfort food done right."
+focusKeyphrase: "buffalo chicken fries"
 date: 2026-02-13
 draft: false
 image: buffalo-chicken-cheese-fries.jpg
@@ -21,9 +21,11 @@ tags:
 - "snack"
 - "comfort food"
 keywords:
-- "buffalo chicken"
-- "cheese fries"
-- "ranch dressing"
+- "buffalo chicken fries"
+- "buffalo chicken loaded fries"
+- "buffalo ranch fries"
+- "fries and wings"
+- "buffalo chicken air fryer"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "470"

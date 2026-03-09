@@ -1,9 +1,10 @@
 ---
-title: "Caramel Chocolate Pretzels"
+title: "Caramel Chocolate Pretzels Recipe"
+focusKeyphrase: "caramel chocolate pretzels"
 slug: "caramel-chocolate-pretzels"
-description: "Crunchy pretzels topped with soft caramel chunks, half-dipped in creamy melted chocolate, sprinkled for texture and color. Bakery-style salty-sweet snack with homemade feel. Uses Candy Melts but substitutes possible. Quick bake softens caramel just enough, no full melt needed. Cool-down crucial to set caramel properly before chocolate dip. Sweet and salty balance, finger-licking mess prevention tips included. Easy to make, quick to eat. Approachable for novice and pros alike. Flavor layers from toasted pretzels plus buttery caramel and rich chocolate. Practical tweaks for ovens running hot or cold. Sprinkle for finish or leave plain for simple bite. "
-metaDescription: "Crunchy pretzels with soft caramel chunks, half-dipped in rich melted chocolate. Salty-sweet snack with quick bake and texture tips. Nutty swaps possible."
-ogDescription: "Crunchy pretzels topped with soft caramel then dipped halfway in creamy chocolate. Quick bake, careful cooling, sprinkle ideas and peanut butter twist included."
+description: "Make caramel chocolate pretzels at home with soft caramel chunks and melted chocolate. Salty-sweet snack that rivals bakery versions. Quick recipe, no tempering needed."
+metaDescription: "Caramel chocolate pretzels recipe: crunchy pretzels, soft caramel, chocolate dip. Homemade bakery snack in 30 minutes. Try it tonight."
+ogDescription: "Homemade caramel chocolate pretzels. Crunchy, salty-sweet, and easier than you think."
 focusKeyphrase: "caramel chocolate pretzels"
 date: 2025-11-05
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "pretzel"
 - "candy"
 keywords:
-- "pretzels"
-- "caramel"
-- "chocolate"
+- "caramel chocolate pretzels"
+- "caramel dipped pretzels"
+- "chocolate caramel pretzel recipe"
+- "rolo pretzel delights"
+- "caramel pretzel turtles"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "90"

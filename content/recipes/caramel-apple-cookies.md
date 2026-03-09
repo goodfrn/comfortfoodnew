@@ -1,9 +1,10 @@
 ---
-title: "Caramel Apple Cookies Remix"
+title: "Caramel Apple Cookies with Oat Flour"
+focusKeyphrase: "caramel apple cookies"
 slug: "caramel-apple-cookies"
-description: "Spiced caramel apple cookies with a twist—using lemon zest instead of vanilla, and half the packets of apple cider mix. Flour mix adjusted with oat flour swap for chewier texture. Chill longer for less sticky dough. Rolled in cinnamon sugar instead of pumpkin pie spice for sharper contrast. Baked to a golden crust while the centers stay tender, with clear visual cues for doneness. Small alterations in timing and ingredient proportions make handling easier and flavors punchier. A cozy fall treat, not too sweet, just the way I like it."
-metaDescription: "Caramel Apple Cookies Remix with lemon zest, oat flour chew, and cinnamon sugar coat. Chill dough to control spread, caramel center secrets inside."
-ogDescription: "Spiced caramel apple cookies with lemon zest swap, oat flour for chew, cinnamon sugar roll. Chill dough for sharper texture and less messy caramel."
+description: "Caramel apple cookies made chewy with oat flour and lemon zest instead of vanilla. Less apple cider mix, rolled in cinnamon sugar, baked golden with tender centers. Skip the sweetness overload."
+metaDescription: "Caramel apple cookies with oat flour for chewier texture. Lemon zest, cinnamon sugar, less sweet. Make them tonight."
+ogDescription: "Caramel apple oatmeal cookies with a twist. Oat flour makes them chewy, lemon zest cuts the sweetness, cinnamon sugar finish."
 focusKeyphrase: "caramel apple cookies"
 date: 2025-11-21
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "fall"
 - "cinnamon"
 keywords:
-- "caramel cookies"
-- "apple spice cookies"
-- "soft baked cookies"
+- "caramel apple cookies"
+- "apple caramel oatmeal cookies"
+- "apple cider cookies recipe"
+- "caramel apple oatmeal cookie recipe"
+- "candy apple cookie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "150"

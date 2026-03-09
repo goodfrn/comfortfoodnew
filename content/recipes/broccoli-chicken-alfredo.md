@@ -1,10 +1,10 @@
 ---
-title: "Broccoli Chicken Alfredo"
+title: "Broccoli Chicken Alfredo with Crisp Pasta"
 slug: "broccoli-chicken-alfredo"
-description: "Chicken breasts marinated with oil and vinegar, pounded thin, cooked in olive oil. Linguine cooked al dente, tossed with steamed broccoli and a butter, garlic cream sauce thickened with Parmesan. Broccoli microwaved for crisp texture. Chicken sliced against the grain. Final dish garnished with Parmesan, sea salt, and pepper. Variations include swapping red wine vinegar for lemon juice and vegetable oil for avocado oil. Timing flexible with marinade from 1 hour to overnight. Sauce made by melting butter, cooking garlic gently, then whisking heavy cream and cheese until glossy. A balanced dish combining creamy sauce, tender chicken, and crisp broccoli. Four servings. Total cook around 30 minutes."
-metaDescription: "Broccoli Chicken Alfredo with tender marinated chicken, al dente linguine, crisp broccoli, creamy Parmesan sauce thickened gently. Italian-American comfort food redefined."
-ogDescription: "Tender marinated chicken meets crisp broccoli tossed in creamy Parmesan sauce. Al dente linguine, butter garlic aroma, quick microwave broccoli for fresh bite."
-focusKeyphrase: "Broccoli Chicken Alfredo"
+description: "Tender marinated chicken and crisp broccoli tossed with linguine in a silky Parmesan cream sauce. Ready in 30 minutes. Marinate 1 hour or overnight for deeper flavor."
+metaDescription: "Broccoli chicken alfredo recipe with marinated chicken, al dente linguine, and buttery Parmesan cream sauce. Make it tonight."
+ogDescription: "Marinated chicken breast, fresh broccoli, and homemade alfredo sauce over linguine. Simple, balanced, and ready in half an hour."
+focusKeyphrase: "chicken and broccoli alfredo"
 date: 2026-01-03
 draft: false
 image: broccoli-chicken-alfredo.jpg
@@ -21,10 +21,11 @@ tags:
 - "cheese"
 - "easy dinner"
 keywords:
-- "Chicken Alfredo"
-- "Broccoli pasta"
-- "Cream sauce"
-- "Linguine recipe"
+- "chicken and broccoli alfredo"
+- "alfredo sauce with chicken and broccoli"
+- "chicken broccoli alfredo recipe"
+- "broccoli fettuccine alfredo"
+- "chicken alfredo pasta with broccoli"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "620"

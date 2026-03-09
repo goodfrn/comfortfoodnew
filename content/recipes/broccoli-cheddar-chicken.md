@@ -1,10 +1,10 @@
 ---
-title: "Broccoli Cheddar Chicken Casserole"
+title: "Chicken and Broccoli Rice Bake"
 slug: "broccoli-cheddar-chicken"
-description: "A creamy broccoli chicken bake loaded with rice and three types of cheese soup. Cheddar, broccoli cheese, and cream of chicken soups create layers of savory richness that meld with tender chicken and crisp-topped crumbs. Best served slightly cooled so flavors settle. Adapted from traditional casseroles with tweaks on timing and ingredients for deeper flavor and perfect texture."
-metaDescription: "Broccoli cheddar chicken casserole packed with three soups, broccoli, rice, and shredded chicken. Crunchy buttery cracker topping, baked with foil steam trap."
-ogDescription: "Chunky chicken plus broccoli and trifecta soups layered with rice. Buttered cracker crumbs brown atop foil-steamed casserole. Follow timing and texture cues closely."
-focusKeyphrase: "broccoli cheddar chicken casserole"
+description: "Creamy chicken and broccoli rice bake with cheddar and three cheeses. Tender chicken, crisp-topped casserole that gets better as it cools. Make it tonight."
+metaDescription: "Chicken and broccoli rice bake with cheddar cheese, three-cheese layers, and crispy crumb topping. Save this one."
+ogDescription: "Three-cheese broccoli cheddar chicken casserole with rice and a crispy crumb top. Deep flavor, creamy texture."
+focusKeyphrase: "chicken and broccoli rice bake"
 date: 2025-12-25
 draft: false
 image: broccoli-cheddar-chicken.jpg
@@ -21,9 +21,11 @@ tags:
 - "broccoli"
 - "easy dinner"
 keywords:
-- "chicken casserole"
-- "broccoli cheddar"
-- "cracker topping"
+- "chicken and broccoli rice bake"
+- "broccoli cheddar chicken casserole"
+- "cheesy rice and broccoli chicken casserole"
+- "chicken broccoli cheddar bake"
+- "broccoli cheddar chicken and rice casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "375"

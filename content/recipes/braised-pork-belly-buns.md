@@ -1,10 +1,10 @@
 ---
-title: "Braised Pork Belly Buns"
+title: "Pork Belly Bao Bun Recipe"
 slug: "braised-pork-belly-buns"
-description: "Braised pork belly in a spiced soy marinade, slowly cooked until tender, then lacquered with its reduced cooking liquid. Boosted with star anise and brown sugar for depth. Steamed buns filled with pork, crisp cucumber, fresh herbs, and optional chili. A balance of sweet, savory, and aromatic tones. Changed quantities by about 30 percent. Swapped out five-spice powder for ground star anise and replaced hoisin sauce with plum sauce. Cooking times tweaked slightly. Reordered steps for better flow. No nuts, lactose, or eggs."
-metaDescription: "Braised Pork Belly Buns are a savory delight. They blend tender pork with fresh herbs in soft buns for a complex flavor experience"
-ogDescription: "Experience savory Braised Pork Belly Buns, filled with tender pork, fresh herbs, and a sweet-tangy plum sauce that will delight your palate"
-focusKeyphrase: "Braised Pork Belly Buns"
+description: "Braised pork belly bao bun with star anise and plum sauce, slow-cooked until tender and lacquered. Steamed buns, crisp cucumber, fresh herbs. Sweet and savory."
+metaDescription: "Pork belly bao bun recipe with braised belly, star anise glaze, and steamed buns. Make it tonight."
+ogDescription: "Braised pork belly in spiced soy, lacquered with star anise and plum sauce. Steamed buns, cucumber, herbs."
+focusKeyphrase: "pork belly bao bun"
 date: 2025-07-20
 draft: false
 image: braised-pork-belly-buns.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "appetizer"
 keywords:
-- "braised pork"
-- "pork belly recipe"
-- "steam buns"
+- "pork belly bao bun"
+- "belly bao"
+- "braised pork belly bun"
+- "pork belly bao recipe"
+- "bao pork belly"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"

@@ -1,10 +1,10 @@
 ---
-title: "Breakfast Tater Tot Casserole"
+title: "Breakfast Tater Tot Casserole with Bacon"
 slug: "breakfast-tater-tot-casserole"
-description: "Baked casserole layering crisp bacon, fluffy eggs mixed with milk and Creole seasoning, topped with melted cheese and crunchy tater tots. Cook in two temperature stages for set eggs and crispy tots. Finish with a cooling rest before slicing. Serves eight. Variations include swapping bacon for sausage or turkey bacon. A textured, savory breakfast or brunch dish hitting salty, creamy, and crispy notes."
-metaDescription: "Breakfast Tater Tot Casserole layers crisp bacon, fluffy eggs whisked with milk and Creole spice, topped with cheddar and golden crispy tots. Serves eight."
-ogDescription: "Bacon, eggs, cheddar, and crispy tater tots baked in two temps. Rest before slicing. Swap bacon with sausage or turkey bacon for variety. Hearty morning fare."
-focusKeyphrase: "Breakfast Tater Tot Casserole"
+description: "Crispy bacon, fluffy eggs, and crunchy tater tots layered in one baked breakfast casserole. Two-stage cooking ensures set eggs and golden tots. Feeds eight with minimal prep."
+metaDescription: "Breakfast tater tot casserole with bacon, eggs, and cheese. Bake in two stages for crispy tots and creamy centers. Make it tonight."
+ogDescription: "Layered bacon, eggs, and tater tots baked until golden. A textured breakfast casserole that's savory, creamy, and crunchy."
+focusKeyphrase: "breakfast tater tot casserole"
 date: 2025-11-26
 draft: false
 image: breakfast-tater-tot-casserole.jpg
@@ -21,9 +21,11 @@ tags:
 - "eggs"
 - "easy dinner"
 keywords:
-- "tater tots"
-- "egg casserole"
-- "bacon breakfast"
+- "breakfast tater tot casserole"
+- "tater tot breakfast casserole recipes"
+- "breakfast casserole with tater tots"
+- "easy tater tot breakfast casserole"
+- "bacon and tater tot breakfast casserole"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "390"

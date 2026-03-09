@@ -1,10 +1,10 @@
 ---
-title: "Butter Board Medley"
+title: "Butter Board Recipe with Herb & Garlic"
 slug: "butter-board-medley"
-description: "Room temp butters spread over a board in distinct zones for grazing. Basil, cinnamon sugar, roasted garlic herb and sun dried tomato butters with savory and sweet profiles. Roasted garlic dug out of its wrapper, fried garlic bits optional for crunch. Garnished with herbs, flowers, nuts, zest, salt. Great with crusty bread or veggie dippers. Timing flexible, relies on tactile softness of butter, caramelized garlic aroma, and visual cues for doneness. Saves time with prepping roasted garlic ahead. Variations with ingredient swaps for personal tastes or what’s on hand."
-metaDescription: "Butter Board Medley with basil, cinnamon sugar, roasted garlic herb and sun dried tomato butters spread thick for texture and bold flavors. Roast garlic till soft, herbs bright."
-ogDescription: "Four butters arranged on a board. Roasted garlic sweet, cinnamon sugar warming, basil fresh, tomato chewy. Crunchy fried garlic flakes add punch. Bread or veg for dipping."
-focusKeyphrase: "Butter board medley"
+description: "Make a stunning butter board with roasted garlic, basil, cinnamon sugar, and sun-dried tomato butters. Spread on a wooden board for grazing with crusty bread."
+metaDescription: "Butter board recipe with roasted garlic herb butter, basil, and cinnamon sugar. Spread and serve with bread. Try it tonight."
+ogDescription: "Roasted garlic herb butter, basil butter, cinnamon sugar, sun-dried tomato. All spread on one board. Serve with bread."
+focusKeyphrase: "butter board recipe"
 date: 2025-11-06
 draft: false
 image: butter-board-medley.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "homemade"
 keywords:
-- "compound butter"
-- "roasted garlic"
 - "butter board"
+- "butter board recipe"
+- "butter board ideas"
+- "roasted garlic herb butter"
+- "charcuterie board"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "110"
