@@ -1,0 +1,47 @@
+name: 2 - Optimize SEO with Claude
+on:
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Number of recipes to optimize per run'
+        required: false
+        default: '50'
+      start_index:
+        description: 'Start from recipe index (0 = beginning)'
+        required: false
+        default: '0'
+
+jobs:
+  optimize-seo:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install anthropic
+
+      - name: Run SEO optimizer script
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BATCH_SIZE: ${{ github.event.inputs.batch_size }}
+          START_INDEX: ${{ github.event.inputs.start_index }}
+        run: python optimize_seo.py
+
+      - name: Commit optimized recipes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add content/recipes/
+          git add keyword_data/
+          git diff --staged --quiet || git commit -m "SEO optimize batch ${{ github.event.inputs.start_index }}"
+          git pull --rebase origin main
+          git push
