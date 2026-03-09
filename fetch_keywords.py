@@ -156,6 +156,24 @@ def save_keyword_data(slug, title, seed, keywords):
             "processed": False
         }, f, indent=2, ensure_ascii=False)
 
+        
+def save_low_keyword_recipe(slug, title):
+    with open("low_keyword_recipes.txt", "a", encoding="utf-8") as f:
+        f.write(f"{slug} | {title}\n")
+
+def mark_keyword_file_as_processed(slug):
+    path = Path(f"keyword_data/{slug}.json")
+    if not path.exists():
+        return
+
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    data["processed"] = True
+
+    with open(path, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
+
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 def main():
     if not DFS_LOGIN or not DFS_PASSWORD:
@@ -181,6 +199,7 @@ def main():
     fetched = 0
     skipped = 0
     errors  = 0
+    low_kw = 0
 
     for i, filepath in enumerate(batch):
         slug = Path(filepath).stem
@@ -225,19 +244,27 @@ def main():
             continue
 
         save_keyword_data(slug, title, seed, keywords)
-
+        
+        if len(keywords["all"]) == 0 or (len(keywords["all"]) == 1 and keywords["all"][0]["volume"] < 1000):
+            save_low_keyword_recipe(slug, title)
+            mark_keyword_file_as_processed(slug)
+            low_kw += 1
+            print(f"         LOW SEO → skipped")
+            continue
+        
         if keywords["all"]:
             print(f"         OK → {len(keywords['all'])} keywords returned | top: '{keywords['all'][0]['keyword']}' ({keywords['all'][0]['volume']}/mo)")
         else:
             print(f"         WARN: 0 keywords returned for seed '{seed}'")
-
+        
         fetched += 1
         time.sleep(5)
-
+        
     print(f"\n── DONE ──")
     print(f"Fetched : {fetched}")
     print(f"Skipped : {skipped}")
     print(f"Errors  : {errors}")
+    print(f"Low keyword recipes : {low_kw}")
     print(f"Estimated cost: ${fetched * 0.075:.2f}")
 
 if __name__ == "__main__":
