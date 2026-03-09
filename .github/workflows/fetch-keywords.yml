@@ -27,12 +27,13 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests
+        run: pip install requests anthropic
 
       - name: Run fetch keywords script
         env:
           DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
           DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BATCH_SIZE: ${{ github.event.inputs.batch_size }}
           START_INDEX: ${{ github.event.inputs.start_index }}
         run: python fetch_keywords.py
