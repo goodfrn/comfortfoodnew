@@ -1,10 +1,10 @@
 ---
-title: "Air Fryer Cauliflower Twist"
+title: "Air Fryer Cauliflower with Tahini Sauce"
 slug: "air-fryer-cauliflower-twist"
-description: "Cauliflower chopped to bite-size chunks, tossed in olive oil and spices, air fried till crisp edges show. A tangy sauce of tahini, Dijon mustard, honey and lemon adds punch. Pomegranate seeds and chopped dates swap in for prunes, offering a fresh sweetness balance. Quick, smoky, crunchy; perfect as side or snack. Can swap olive oil for avocado or grapeseed oil for higher smoke point. Quick stir mid-cook evens cooking. Air fryer temps tweaked slightly, rely on color and texture cues. Sauce thickness flexible; loosen with lemon juice. Salt adjusted at end for control. Parsley garnish for earthiness. Fits six hungry mouths."
-metaDescription: "Air Fryer Cauliflower Twist with smoky spices, tahini-honey sauce, pomegranate bursts, and chopped dates. Crunchy edges, layered flavors, quick mid-cook toss."
-ogDescription: "Crunchy air fried cauliflower tossed in smoky spices, drizzled with tangy tahini-honey sauce, topped with pomegranate and dates for sweet bursts."
-focusKeyphrase: "Air Fryer Cauliflower Twist"
+description: "Crispy air fryer cauliflower with tahini-Dijon sauce, pomegranate seeds, and dates. Quick, smoky side dish that works as a snack. Ready in minutes."
+metaDescription: "Air fryer cauliflower recipe with tahini sauce, pomegranate, and dates. Crispy edges, tangy finish. Quick side dish or snack. Try it tonight."
+ogDescription: "Cauliflower roasted in the air fryer until crispy with a tangy tahini-mustard sauce. Pomegranate and dates add brightness. Quick and smoky."
+focusKeyphrase: "air fryer cauliflower"
 date: 2025-12-17
 draft: false
 image: air-fryer-cauliflower-twist.jpg
@@ -21,9 +21,13 @@ tags:
 - "cauliflower"
 - "mediterranean"
 keywords:
-- "cauliflower air fryer"
-- "smoked paprika cauliflower"
-- "tahini sauce recipe"
+- "air fryer cauliflower"
+- "cauliflower in air fryer"
+- "air fryer cauliflower recipe"
+- "air fried cauliflower"
+- "roast cauliflower air fryer"
+- "air fryer cauliflower recipes"
+- "crispy air fryer vegetables"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "125"
