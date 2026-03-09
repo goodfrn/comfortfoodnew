@@ -1,0 +1,35 @@
+{
+  "slug": "banana-caramel-sauce",
+  "title": "Banana Caramel Sauce",
+  "seed_keyword": "banana caramel sauce",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "banana caramel syrup",
+        "volume": 1000,
+        "competition": 55
+      },
+      {
+        "keyword": "banana caramel sauce",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "banana and caramel sauce",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "caramel sauce for bananas",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "banana sauce for french toast",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

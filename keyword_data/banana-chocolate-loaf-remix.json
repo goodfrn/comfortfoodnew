@@ -1,0 +1,260 @@
+{
+  "slug": "banana-chocolate-loaf-remix",
+  "title": "Banana Chocolate Loaf Remix",
+  "seed_keyword": "banana chocolate bread",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate chip banana bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana chocolate chip loaf",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and choc chip bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and choc chip loaf",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and chocolate chip bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and chocolate chip loaf",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread and chocolate chip",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread chocolate chip bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana choc chip loaf",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana chocolate chip banana bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana chocolate chocolate chip bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana nut bread chocolate chips",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocochip banana bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate banana chocolate chip bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate banana chocolate chip muffins",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip chocolate banana bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip banana bread recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "banana bread recipe chocolate chips",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "banana and choc chip bread recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "banana and choc chip loaf recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "banana and chocolate chip bread recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "banana bread and chocolate chips recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "banana chocolate chip loaf recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate chocolate chip banana bread recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate chunk banana bread recipe",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "banana bread cocoa",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana loaf chocolate",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana loaf with chocolate",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolat banana bread",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chocolate banana bread",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread chocolate chip muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread chocolate chips muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate banana bread muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate banana bread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and chocolate bread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread recipe with cocoa",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana chocolate loaf recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana loaf with chocolate chips recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana nut bread recipe with chocolate chips",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "choco banana loaf recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate banana bread with chocolate chips",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for banana chocolate bread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and peanut butter loaf",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread and peanut butter",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread peanut butter",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana peanut butter loaf",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "pb banana bread",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut banana bread",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "bread chocolate chip",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "healthy banana chocolate chip muffins",
+        "volume": 5400,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}
