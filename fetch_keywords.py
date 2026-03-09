@@ -54,7 +54,7 @@ def already_fetched(slug):
         return False
     with open(f, "r", encoding="utf-8") as fp:
         data = json.load(fp)
-    return data.get("keywords", {}).get("primary") is not None
+    return len(data.get("keywords", {}).get("all", [])) > 0
 
 def load_skip_list():
     skip_file = Path("seo_skip.txt")
@@ -136,15 +136,8 @@ def fetch_keywords(seed_keyword):
 
         all_keywords.sort(key=lambda x: x["volume"], reverse=True)
         top = all_keywords[:MAX_RESULTS_KEPT]
-
-        primary   = top[0] if len(top) >= 1 else None
-        secondary = top[1:11] if len(top) >= 2 else []
-        lsi       = top[11:] if len(top) >= 12 else []
-
+        
         return {
-            "primary": primary,
-            "secondary": secondary,
-            "lsi": lsi,
             "all": top
         }
 
@@ -233,8 +226,8 @@ def main():
 
         save_keyword_data(slug, title, seed, keywords)
 
-        if keywords["primary"]:
-            print(f"         OK → primary: '{keywords['primary']['keyword']}' ({keywords['primary']['volume']}/mo) | {len(keywords['all'])} total")
+        if keywords["all"]:
+            print(f"         OK → {len(keywords['all'])} keywords returned | top: '{keywords['all'][0]['keyword']}' ({keywords['all'][0]['volume']}/mo)")
         else:
             print(f"         WARN: 0 keywords returned for seed '{seed}'")
 
