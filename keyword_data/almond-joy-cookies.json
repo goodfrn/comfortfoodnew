@@ -1,0 +1,53 @@
+{
+  "slug": "almond-joy-cookies",
+  "title": "Almond Joy Cookies",
+  "seed_keyword": "almond joy cookies recipe",
+  "keywords": {
+    "primary": {
+      "keyword": "almond joy cookies",
+      "volume": 6600,
+      "competition": 7
+    },
+    "secondary": [
+      {
+        "keyword": "almond joy cookies recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "joy cookies",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "4 ingredient almond joy cookies",
+        "volume": 480,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "almond joy cookies",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "almond joy cookies recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "joy cookies",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "4 ingredient almond joy cookies",
+        "volume": 480,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

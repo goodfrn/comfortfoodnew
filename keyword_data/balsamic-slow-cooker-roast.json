@@ -1,0 +1,93 @@
+{
+  "slug": "balsamic-slow-cooker-roast",
+  "title": "Balsamic Slow Cooker Roast",
+  "seed_keyword": "balsamic slow cooker roast",
+  "keywords": {
+    "primary": {
+      "keyword": "balsamic vinegar pot roast",
+      "volume": 480,
+      "competition": 0
+    },
+    "secondary": [
+      {
+        "keyword": "balsamic beef crock pot",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "balsamic beef slow cooker",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "balsamic pot roast crock pot",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "balsamic pot roast slow cooker",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "pot roast crock pot balsamic vinegar",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker pot roast with balsamic vinegar",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot balsamic pork roast",
+        "volume": 140,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "balsamic vinegar pot roast",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "balsamic beef crock pot",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "balsamic beef slow cooker",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "balsamic pot roast crock pot",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "balsamic pot roast slow cooker",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "pot roast crock pot balsamic vinegar",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker pot roast with balsamic vinegar",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot balsamic pork roast",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

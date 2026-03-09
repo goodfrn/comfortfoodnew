@@ -1,0 +1,234 @@
+{
+  "slug": "apple-caramel-cookies",
+  "title": "Apple Caramel Cookies",
+  "seed_keyword": "apple caramel cookies",
+  "keywords": {
+    "primary": {
+      "keyword": "apple caramel cookies",
+      "volume": 4400,
+      "competition": 17
+    },
+    "secondary": [
+      {
+        "keyword": "apple and caramel cookies",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "apple cider cookies recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "apple caramel cookie recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "taffy apple cookie recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "apple caramel oatmeal cookies",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "caramel apple cookies oatmeal",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "apple cider caramel cookies",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel apple crumbl cookie",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "pillsbury caramel apple cookies",
+        "volume": 320,
+        "competition": 41
+      },
+      {
+        "keyword": "caramel apple snickerdoodle cookies",
+        "volume": 320,
+        "competition": 0
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "apple pie caramel cookies",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "caramel apple cookie pie",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "crumbl caramel apple cookie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "pillsbury salted caramel apple cookie dough",
+        "volume": 260,
+        "competition": 23
+      },
+      {
+        "keyword": "pillsbury salted caramel apple cookies",
+        "volume": 260,
+        "competition": 56
+      },
+      {
+        "keyword": "salted caramel apple cookie dough",
+        "volume": 260,
+        "competition": 33
+      },
+      {
+        "keyword": "salted caramel apple cookies pillsbury",
+        "volume": 260,
+        "competition": 56
+      },
+      {
+        "keyword": "salted caramel apple cookie",
+        "volume": 210,
+        "competition": 18
+      },
+      {
+        "keyword": "caramel apple oatmeal",
+        "volume": 140,
+        "competition": 7
+      },
+      {
+        "keyword": "candy apple cookie recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel apple oatmeal cookie recipe",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "apple caramel cookies",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "apple and caramel cookies",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "apple cider cookies recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "apple caramel cookie recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "taffy apple cookie recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "apple caramel oatmeal cookies",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "caramel apple cookies oatmeal",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "apple cider caramel cookies",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel apple crumbl cookie",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "pillsbury caramel apple cookies",
+        "volume": 320,
+        "competition": 41
+      },
+      {
+        "keyword": "caramel apple snickerdoodle cookies",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "apple pie caramel cookies",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "caramel apple cookie pie",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "crumbl caramel apple cookie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "pillsbury salted caramel apple cookie dough",
+        "volume": 260,
+        "competition": 23
+      },
+      {
+        "keyword": "pillsbury salted caramel apple cookies",
+        "volume": 260,
+        "competition": 56
+      },
+      {
+        "keyword": "salted caramel apple cookie dough",
+        "volume": 260,
+        "competition": 33
+      },
+      {
+        "keyword": "salted caramel apple cookies pillsbury",
+        "volume": 260,
+        "competition": 56
+      },
+      {
+        "keyword": "salted caramel apple cookie",
+        "volume": 210,
+        "competition": 18
+      },
+      {
+        "keyword": "caramel apple oatmeal",
+        "volume": 140,
+        "competition": 7
+      },
+      {
+        "keyword": "candy apple cookie recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel apple oatmeal cookie recipe",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

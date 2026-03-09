@@ -1,0 +1,164 @@
+{
+  "slug": "baked-brie-apricot-pecan",
+  "title": "Baked Brie with Apricot Cran Pecan",
+  "seed_keyword": "baked brie with apricot",
+  "keywords": {
+    "primary": {
+      "keyword": "apricot jam baked brie",
+      "volume": 390,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "baked brie and apricot jam",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked brie with apricot preserves",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "apricot jam brie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie and apricot jam",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie and apricot preserves",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie apricot preserves",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie cheese and apricot jam",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie cheese with apricot jam",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie cheese with apricot preserves",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "apricot and brie",
+        "volume": 210,
+        "competition": 5
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "apricot brie",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "apricot brie cheese",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "baked brie with apricot",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "baked apricot brie cheese",
+        "volume": 140,
+        "competition": 5
+      }
+    ],
+    "all": [
+      {
+        "keyword": "apricot jam baked brie",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked brie and apricot jam",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked brie with apricot preserves",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "apricot jam brie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie and apricot jam",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie and apricot preserves",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie apricot preserves",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie cheese and apricot jam",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie cheese with apricot jam",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brie cheese with apricot preserves",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "apricot and brie",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "apricot brie",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "apricot brie cheese",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "baked brie with apricot",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "baked apricot brie cheese",
+        "volume": 140,
+        "competition": 5
+      }
+    ]
+  },
+  "processed": false
+}

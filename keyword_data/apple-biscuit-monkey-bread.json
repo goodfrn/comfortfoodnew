@@ -1,0 +1,103 @@
+{
+  "slug": "apple-biscuit-monkey-bread",
+  "title": "Apple Biscuit Monkey Bread",
+  "seed_keyword": "apple monkey bread",
+  "keywords": {
+    "primary": {
+      "keyword": "apple monkey",
+      "volume": 1600,
+      "competition": 46
+    },
+    "secondary": [
+      {
+        "keyword": "apple monkey bread",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "monkey apple bread",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple monkey bread recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cinnamon monkey bread",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "apple caramel monkey bread",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cinnamon pull apart bread",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple pie monkey bread",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple fritter monkey bread",
+        "volume": 140,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "apple monkey",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "apple monkey bread",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "monkey apple bread",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple monkey bread recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cinnamon monkey bread",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "apple caramel monkey bread",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cinnamon pull apart bread",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple pie monkey bread",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple fritter monkey bread",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

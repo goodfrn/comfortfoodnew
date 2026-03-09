@@ -1,0 +1,514 @@
+{
+  "slug": "apple-pecan-salad",
+  "title": "Apple Pecan Salad",
+  "seed_keyword": "apple pecan salad",
+  "keywords": {
+    "primary": {
+      "keyword": "wendy's apple pecan salad",
+      "volume": 8100,
+      "competition": 4
+    },
+    "secondary": [
+      {
+        "keyword": "wendy's apple pecan chicken salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan salad at wendy's",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "wendy's pecan apple salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple chicken pecan salad wendy's",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan chicken salad at wendy's",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan chicken salad from wendy's",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan salad from wendy's",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan salad from wendys",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan wendy's salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "wendy's salad apple pecan chicken",
+        "volume": 8100,
+        "competition": 1
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "wendys apple pecan chicken salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "wendys pecan apple salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan salad",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "apple and pecan salad",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "salad apple pecan",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "calories in wendy's apple pecan salad",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan salad wendys calories",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "calories apple pecan salad wendy's",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "calories wendy's salads apple pecan",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan chicken salad",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad with apples and pecans",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "apple and pecan salad recipe",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pecan salad recipe",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cranberry pecan salad",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "salad with apples cranberries and pecans",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "wendy's pecan salad",
+        "volume": 320,
+        "competition": 10
+      },
+      {
+        "keyword": "wendy's apple salad",
+        "volume": 320,
+        "competition": 9
+      },
+      {
+        "keyword": "apple salad wendy's",
+        "volume": 320,
+        "competition": 9
+      },
+      {
+        "keyword": "apple pecan salad wendy's recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for wendy's apple pecan salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "wendy's apple pecan salad recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan chicken salad recipe",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pecan spinach salad",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken salad recipe with apples and pecans",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for apple pecan chicken salad",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "spinach apple and pecan salad",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "wendy's apple pecan salad ingredients",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan salad wendy's ingredients",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "ingredients in wendy's apple pecan salad",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "ingredients wendy's apple pecan salad",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan salad dressing",
+        "volume": 140,
+        "competition": 18
+      },
+      {
+        "keyword": "wendys salad apple pecan",
+        "volume": 140,
+        "competition": 10
+      },
+      {
+        "keyword": "apple feta pecan salad",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan grape chicken salad",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan wendy's",
+        "volume": 110,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken pecan salad wendy's",
+        "volume": 110,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken salad with apples grapes and pecans",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad with grapes and apples and pecans",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad with grapes and pecans and apples",
+        "volume": 110,
+        "competition": 4
+      }
+    ],
+    "all": [
+      {
+        "keyword": "wendy's apple pecan salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "wendy's apple pecan chicken salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan salad at wendy's",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "wendy's pecan apple salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple chicken pecan salad wendy's",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan chicken salad at wendy's",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan chicken salad from wendy's",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan salad from wendy's",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan salad from wendys",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan wendy's salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "wendy's salad apple pecan chicken",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "wendys apple pecan chicken salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "wendys pecan apple salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan salad",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "apple and pecan salad",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "salad apple pecan",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "calories in wendy's apple pecan salad",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan salad wendys calories",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "calories apple pecan salad wendy's",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "calories wendy's salads apple pecan",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan chicken salad",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad with apples and pecans",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "apple and pecan salad recipe",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pecan salad recipe",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cranberry pecan salad",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "salad with apples cranberries and pecans",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "wendy's pecan salad",
+        "volume": 320,
+        "competition": 10
+      },
+      {
+        "keyword": "wendy's apple salad",
+        "volume": 320,
+        "competition": 9
+      },
+      {
+        "keyword": "apple salad wendy's",
+        "volume": 320,
+        "competition": 9
+      },
+      {
+        "keyword": "apple pecan salad wendy's recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for wendy's apple pecan salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "wendy's apple pecan salad recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan chicken salad recipe",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pecan spinach salad",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken salad recipe with apples and pecans",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for apple pecan chicken salad",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "spinach apple and pecan salad",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "wendy's apple pecan salad ingredients",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan salad wendy's ingredients",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "ingredients in wendy's apple pecan salad",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "ingredients wendy's apple pecan salad",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "apple pecan salad dressing",
+        "volume": 140,
+        "competition": 18
+      },
+      {
+        "keyword": "wendys salad apple pecan",
+        "volume": 140,
+        "competition": 10
+      },
+      {
+        "keyword": "apple feta pecan salad",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pecan grape chicken salad",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "apple pecan wendy's",
+        "volume": 110,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken pecan salad wendy's",
+        "volume": 110,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken salad with apples grapes and pecans",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad with grapes and apples and pecans",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad with grapes and pecans and apples",
+        "volume": 110,
+        "competition": 4
+      }
+    ]
+  },
+  "processed": false
+}

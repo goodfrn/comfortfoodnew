@@ -1,0 +1,22 @@
+{
+  "slug": "award-winning-chili-remix",
+  "title": "Award Winning Chili Remix",
+  "seed_keyword": "ground beef chorizo chili slow cooker",
+  "keywords": {
+    "primary": {
+      "keyword": "slow cooker chili with chorizo",
+      "volume": 110,
+      "competition": 0
+    },
+    "secondary": [],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "slow cooker chili with chorizo",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

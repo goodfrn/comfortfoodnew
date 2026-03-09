@@ -1,0 +1,22 @@
+{
+  "slug": "asparagus-mimosa-remix",
+  "title": "Asparagus Mimosa Remix",
+  "seed_keyword": "asparagus mimosa",
+  "keywords": {
+    "primary": {
+      "keyword": "asparagus mimosa",
+      "volume": 480,
+      "competition": 0
+    },
+    "secondary": [],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "asparagus mimosa",
+        "volume": 480,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

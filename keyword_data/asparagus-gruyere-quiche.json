@@ -1,0 +1,53 @@
+{
+  "slug": "asparagus-gruyere-quiche",
+  "title": "Asparagus Gruyère Quiche",
+  "seed_keyword": "asparagus gruyere quiche",
+  "keywords": {
+    "primary": {
+      "keyword": "gruyere and asparagus tart",
+      "volume": 590,
+      "competition": 0
+    },
+    "secondary": [
+      {
+        "keyword": "gruyere asparagus tart",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus gruyere quiche",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus and gruyere quiche",
+        "volume": 140,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "gruyere and asparagus tart",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "gruyere asparagus tart",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus gruyere quiche",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus and gruyere quiche",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,294 @@
+{
+  "slug": "baked-mostaccioli-remix",
+  "title": "Baked Mostaccioli Remix",
+  "seed_keyword": "baked mostaccioli",
+  "keywords": {
+    "primary": {
+      "keyword": "mostaccioli recipe",
+      "volume": 12100,
+      "competition": 4
+    },
+    "secondary": [
+      {
+        "keyword": "mostaccioli dish",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked mostaccioli pasta",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked mostaccioli recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "mostaccioli baked recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "mostaccioli easy recipe",
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "mostaccioli recipe easy",
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "baked mostaccioli ricotta",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli with ricotta cheese",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "best mostaccioli recipe",
+        "volume": 320,
+        "competition": 2
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "baked mostaccioli with italian sausage",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken mostaccioli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "crock pot mostaccioli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "slow cooker mostaccioli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "baked mostaccioli near me",
+        "volume": 210,
+        "competition": 24
+      },
+      {
+        "keyword": "baked mostaccioli recipe easy",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "crockpot mostaccioli recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "ingredients for mostaccioli",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "italian pasta mostaccioli",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "simple baked mostaccioli recipe",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "baked mostaccioli easy",
+        "volume": 170,
+        "competition": 3
+      },
+      {
+        "keyword": "mostaccioli with meat sauce",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "best baked mostaccioli recipe",
+        "volume": 140,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli recipe no meat",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli recipe with ground beef",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesy mostaccioli",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "mostaccioli sauce",
+        "volume": 110,
+        "competition": 16
+      }
+    ],
+    "all": [
+      {
+        "keyword": "mostaccioli recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "mostaccioli dish",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked mostaccioli pasta",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked mostaccioli recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "mostaccioli baked recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "mostaccioli easy recipe",
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "mostaccioli recipe easy",
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "baked mostaccioli ricotta",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli with ricotta cheese",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "best mostaccioli recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "baked mostaccioli with italian sausage",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken mostaccioli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "crock pot mostaccioli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "slow cooker mostaccioli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "baked mostaccioli near me",
+        "volume": 210,
+        "competition": 24
+      },
+      {
+        "keyword": "baked mostaccioli recipe easy",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "crockpot mostaccioli recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "ingredients for mostaccioli",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "italian pasta mostaccioli",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "simple baked mostaccioli recipe",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "baked mostaccioli easy",
+        "volume": 170,
+        "competition": 3
+      },
+      {
+        "keyword": "mostaccioli with meat sauce",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "best baked mostaccioli recipe",
+        "volume": 140,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli recipe no meat",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "baked mostaccioli recipe with ground beef",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesy mostaccioli",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "mostaccioli sauce",
+        "volume": 110,
+        "competition": 16
+      }
+    ]
+  },
+  "processed": false
+}

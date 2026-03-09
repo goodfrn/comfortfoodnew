@@ -1,0 +1,444 @@
+{
+  "slug": "air-fryer-veggie-spring-rolls",
+  "title": "Air Fryer Veggie Spring Rolls",
+  "seed_keyword": "air fryer spring rolls",
+  "keywords": {
+    "primary": {
+      "keyword": "air fryer spring rolls",
+      "volume": 4400,
+      "competition": 0
+    },
+    "secondary": [
+      {
+        "keyword": "spring roll air fryer",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll airfryer",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll in airfryer",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "airfryer spring roll",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll in air fryer",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "springrolls in airfryer",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen spring rolls in air fryer",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "air frying frozen spring rolls",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen spring roll air fryer",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen spring rolls air fryer",
+        "volume": 1000,
+        "competition": 0
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "air fry frozen spring rolls",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry rice paper rolls",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "air fried spring roll",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry spring rolls frozen",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry spring rolls recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "rice paper air fryer recipes",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "rice paper in air fryer",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "rice paper roll air fryer",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll air fryer time",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "chiko rolls air fryer",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "rice paper recipes air fryer",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls in air fryer temp and time",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "air fried rice paper",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry rice paper spring rolls",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer for spring rolls",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "air fryer spring rolls rice paper",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "cook spring rolls in air fryer",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "costco spring rolls air fryer",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "rice paper spring roll air fryer",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls in air fryer frozen",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls in the air fryer",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "chiko rolls in air fryer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cook frozen spring rolls",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cook frozen spring rolls in air fryer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "mini spring rolls in air fryer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll air fryer frozen",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry vegetable spring rolls",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer rice paper recipes",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer vegetable spring rolls",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "spring roll recipe air fryer",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls recipe air fryer",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable spring rolls in air fryer",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "air fryer spring rolls",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll air fryer",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll airfryer",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll in airfryer",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "airfryer spring roll",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll in air fryer",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "springrolls in airfryer",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen spring rolls in air fryer",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "air frying frozen spring rolls",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen spring roll air fryer",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen spring rolls air fryer",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry frozen spring rolls",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry rice paper rolls",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "air fried spring roll",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry spring rolls frozen",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry spring rolls recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "rice paper air fryer recipes",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "rice paper in air fryer",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "rice paper roll air fryer",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll air fryer time",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "chiko rolls air fryer",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "rice paper recipes air fryer",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls in air fryer temp and time",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "air fried rice paper",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry rice paper spring rolls",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer for spring rolls",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "air fryer spring rolls rice paper",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "cook spring rolls in air fryer",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "costco spring rolls air fryer",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "rice paper spring roll air fryer",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls in air fryer frozen",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls in the air fryer",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "chiko rolls in air fryer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cook frozen spring rolls",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cook frozen spring rolls in air fryer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "mini spring rolls in air fryer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "spring roll air fryer frozen",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry vegetable spring rolls",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer rice paper recipes",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer vegetable spring rolls",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "spring roll recipe air fryer",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls recipe air fryer",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable spring rolls in air fryer",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

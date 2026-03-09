@@ -1,0 +1,454 @@
+{
+  "slug": "avocado-corn-salad",
+  "title": "Avocado Corn Salad",
+  "seed_keyword": "avocado corn salad",
+  "keywords": {
+    "primary": {
+      "keyword": "avocado corn salad",
+      "volume": 2900,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "avocado & corn salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado corn and tomato salad",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado corn tomato salad",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado black bean corn salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado corn and black bean salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean and corn salad with avocado",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "salad with avocado corn and black beans",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado and corn salad recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado corn salad recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for corn and avocado salad",
+        "volume": 880,
+        "competition": 2
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "avocado and grilled corn salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado bean and corn salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado bean corn salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado grilled corn salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "bean corn and avocado salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "avo and corn salad",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado and corn salad ina garten",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado chicken corn salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken corn and avocado salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken salad with corn and avocado",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled corn and avocado salad with feta dressing",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado and corn",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado corn",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado corn tomato salad recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado cucumber corn salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "corn cucumber avocado salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe corn avocado tomato salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for avocado corn and tomato salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for corn avocado and tomato salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for corn tomato and avocado salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "sailor bailey avocado corn salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "summer corn avocado salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado and roasted corn salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted corn and avocado salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted corn avocado salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "black bean corn avocado tomato salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "corn and avocado salsa recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "corn avocado tomato salad with honey lime dressing",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "corn salad with lime and cilantro",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "corn tomato black bean avocado salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado and sweetcorn salad",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "corn salad with lime dressing",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet corn and avocado salad",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "avocado corn salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado & corn salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado corn and tomato salad",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado corn tomato salad",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado black bean corn salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado corn and black bean salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean and corn salad with avocado",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "salad with avocado corn and black beans",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado and corn salad recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado corn salad recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for corn and avocado salad",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado and grilled corn salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado bean and corn salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado bean corn salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado grilled corn salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "bean corn and avocado salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "avo and corn salad",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado and corn salad ina garten",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado chicken corn salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken corn and avocado salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken salad with corn and avocado",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled corn and avocado salad with feta dressing",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado and corn",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado corn",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado corn tomato salad recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado cucumber corn salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "corn cucumber avocado salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe corn avocado tomato salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for avocado corn and tomato salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for corn avocado and tomato salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for corn tomato and avocado salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "sailor bailey avocado corn salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "summer corn avocado salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado and roasted corn salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted corn and avocado salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted corn avocado salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "black bean corn avocado tomato salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "corn and avocado salsa recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "corn avocado tomato salad with honey lime dressing",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "corn salad with lime and cilantro",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "corn tomato black bean avocado salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado and sweetcorn salad",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "corn salad with lime dressing",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet corn and avocado salad",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

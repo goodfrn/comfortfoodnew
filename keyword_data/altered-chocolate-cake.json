@@ -1,0 +1,514 @@
+{
+  "slug": "altered-chocolate-cake",
+  "title": "Altered Chocolate Cake",
+  "seed_keyword": "chocolate cake recipe",
+  "keywords": {
+    "primary": {
+      "keyword": "a chocolate cake",
+      "volume": 450000,
+      "competition": 64
+    },
+    "secondary": [
+      {
+        "keyword": "cake and chocolate",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "choco cakes",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate cake chocolate",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate cake chocolate cake chocolate cake",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "cocoa cake",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate cake recipe",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cocoa cake recipe",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "german chocolate cake",
+        "volume": 135000,
+        "competition": 56
+      },
+      {
+        "keyword": "matilda cake",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "gateau au chocolate",
+        "volume": 110000,
+        "competition": 1
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "chocolate mousse cake",
+        "volume": 60500,
+        "competition": 50
+      },
+      {
+        "keyword": "cupcakes chocolate",
+        "volume": 60500,
+        "competition": 34
+      },
+      {
+        "keyword": "choc mousse cake",
+        "volume": 60500,
+        "competition": 50
+      },
+      {
+        "keyword": "chocolate cake cupcakes",
+        "volume": 60500,
+        "competition": 34
+      },
+      {
+        "keyword": "chocolate cake with chocolate mousse",
+        "volume": 60500,
+        "competition": 50
+      },
+      {
+        "keyword": "chocolate cup cake recipe",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate lava cake",
+        "volume": 49500,
+        "competition": 25
+      },
+      {
+        "keyword": "flourless chocolate cake",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "simple chocolate cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "easy chocolate cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate mug cake",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate lava cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate volcano cake",
+        "volume": 49500,
+        "competition": 25
+      },
+      {
+        "keyword": "choc fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "chocolate cake cup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate lava recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate molten cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate molten lava cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "flourless",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "flourless chocolate",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "lava cake recipes",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "molten cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "german chocolate cake recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "mud cake",
+        "volume": 40500,
+        "competition": 18
+      },
+      {
+        "keyword": "texas sheet cake",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "german chocolate recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "best chocolate cake recipe",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "choco lava cake",
+        "volume": 33100,
+        "competition": 21
+      },
+      {
+        "keyword": "choco flan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cup cake recipe easy",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "7 layer bar",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "choc torte",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cookie cakes recipes",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "yule log cake recipe",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "moist chocolate cake recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "moist chocolate cake",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "molten chocolate lava cake",
+        "volume": 27100,
+        "competition": 19
+      },
+      {
+        "keyword": "molten lava cakes",
+        "volume": 27100,
+        "competition": 19
+      }
+    ],
+    "all": [
+      {
+        "keyword": "a chocolate cake",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "cake and chocolate",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "choco cakes",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate cake chocolate",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate cake chocolate cake chocolate cake",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "cocoa cake",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate cake recipe",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cocoa cake recipe",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "german chocolate cake",
+        "volume": 135000,
+        "competition": 56
+      },
+      {
+        "keyword": "matilda cake",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "gateau au chocolate",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate mousse cake",
+        "volume": 60500,
+        "competition": 50
+      },
+      {
+        "keyword": "cupcakes chocolate",
+        "volume": 60500,
+        "competition": 34
+      },
+      {
+        "keyword": "choc mousse cake",
+        "volume": 60500,
+        "competition": 50
+      },
+      {
+        "keyword": "chocolate cake cupcakes",
+        "volume": 60500,
+        "competition": 34
+      },
+      {
+        "keyword": "chocolate cake with chocolate mousse",
+        "volume": 60500,
+        "competition": 50
+      },
+      {
+        "keyword": "chocolate cup cake recipe",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate lava cake",
+        "volume": 49500,
+        "competition": 25
+      },
+      {
+        "keyword": "flourless chocolate cake",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "simple chocolate cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "easy chocolate cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate mug cake",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate lava cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate volcano cake",
+        "volume": 49500,
+        "competition": 25
+      },
+      {
+        "keyword": "choc fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "chocolate cake cup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate lava recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate molten cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate molten lava cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "flourless",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "flourless chocolate",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "lava cake recipes",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "molten cake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "german chocolate cake recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "mud cake",
+        "volume": 40500,
+        "competition": 18
+      },
+      {
+        "keyword": "texas sheet cake",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "german chocolate recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "best chocolate cake recipe",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "choco lava cake",
+        "volume": 33100,
+        "competition": 21
+      },
+      {
+        "keyword": "choco flan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cup cake recipe easy",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "7 layer bar",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "choc torte",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cookie cakes recipes",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "yule log cake recipe",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "moist chocolate cake recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "moist chocolate cake",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "molten chocolate lava cake",
+        "volume": 27100,
+        "competition": 19
+      },
+      {
+        "keyword": "molten lava cakes",
+        "volume": 27100,
+        "competition": 19
+      }
+    ]
+  },
+  "processed": false
+}

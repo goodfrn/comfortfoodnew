@@ -1,0 +1,22 @@
+{
+  "slug": "alsacian-flat-pizza",
+  "title": "Alsacian Flat Pizza",
+  "seed_keyword": "flammekuchen",
+  "keywords": {
+    "primary": {
+      "keyword": "flammekuchen",
+      "volume": 33100,
+      "competition": 6
+    },
+    "secondary": [],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "flammekuchen",
+        "volume": 33100,
+        "competition": 6
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "artichoke-herb-frittata",
+  "title": "Artichoke Herb Frittata",
+  "seed_keyword": "artichoke frittata",
+  "keywords": {
+    "primary": {
+      "keyword": "artichoke frittata",
+      "volume": 390,
+      "competition": 0
+    },
+    "secondary": [
+      {
+        "keyword": "frittata with artichoke hearts",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "artichoke and spinach frittata",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "artichoke spinach frittata",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "artichoke frittata recipe",
+        "volume": 110,
+        "competition": 2
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "artichoke frittata",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "frittata with artichoke hearts",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "artichoke and spinach frittata",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "artichoke spinach frittata",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "artichoke frittata recipe",
+        "volume": 110,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

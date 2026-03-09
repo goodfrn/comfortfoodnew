@@ -1,0 +1,33 @@
+{
+  "slug": "apricot-coconut-bars",
+  "title": "Apricot Coconut Bars",
+  "seed_keyword": "apricot coconut bars",
+  "keywords": {
+    "primary": {
+      "keyword": "apricot coconut bars",
+      "volume": 140,
+      "competition": 70
+    },
+    "secondary": [
+      {
+        "keyword": "apricot and coconut bars",
+        "volume": 140,
+        "competition": 70
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "apricot coconut bars",
+        "volume": 140,
+        "competition": 70
+      },
+      {
+        "keyword": "apricot and coconut bars",
+        "volume": 140,
+        "competition": 70
+      }
+    ]
+  },
+  "processed": false
+}

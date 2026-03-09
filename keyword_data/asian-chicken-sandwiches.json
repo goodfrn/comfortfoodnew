@@ -1,0 +1,22 @@
+{
+  "slug": "asian-chicken-sandwiches",
+  "title": "Asian Chicken Sandwiches",
+  "seed_keyword": "asian chicken sandwich",
+  "keywords": {
+    "primary": {
+      "keyword": "asian chicken sandwich",
+      "volume": 320,
+      "competition": 1
+    },
+    "secondary": [],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "asian chicken sandwich",
+        "volume": 320,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

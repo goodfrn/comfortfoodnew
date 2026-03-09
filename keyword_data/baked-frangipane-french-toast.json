@@ -1,0 +1,514 @@
+{
+  "slug": "baked-frangipane-french-toast",
+  "title": "Baked Frangipane French Toast",
+  "seed_keyword": "baked french toast",
+  "keywords": {
+    "primary": {
+      "keyword": "french bake",
+      "volume": 135000,
+      "competition": 6
+    },
+    "secondary": [
+      {
+        "keyword": "french toast casserole",
+        "volume": 110000,
+        "competition": 3
+      },
+      {
+        "keyword": "french toast recipe casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "overnight french toast casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "oven baked french toast",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "oven baked french toast casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "over night french toast casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "baked french toast",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "baked french toast recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "baked french toast bake",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "overnight french toast",
+        "volume": 9900,
+        "competition": 2
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "baked french",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "french toast over night",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "over night french toast",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "oven french toast",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "crescent french toast",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "croissants french toast",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking french toast",
+        "volume": 5400,
+        "competition": 28
+      },
+      {
+        "keyword": "banana foster french toast",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry french toast casserole",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pioneer woman french toast casserole",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "french toast casserole easy",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bake french toast casserole",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "brioche french toast casserole",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "french toast casserole pioneer",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "french toast casserole with brioche",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked croissant french toast",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked french toast overnight recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "french toast bake with croissants",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "french toast croissant bake",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "overnight french toast casserole recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "overnight french toast recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "bake toast in oven",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast bake french toast",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "breakfast casserole french toast",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "crock pot french toast bake",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot french toast casserole",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "french toast casserole breakfast",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "french toast casserole slow cooker",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "toast in an oven",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "blueberry french toast",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "overnight french toast bake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked french toast casserole overnight",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked french toast cream cheese",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked french toast paula deen",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "barefoot contessa baked french toast casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "best french toast casserole overnight",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "best oven baked french toast",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "best overnight baked french toast",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cinnamon bun french toast casserole",
+        "volume": 2400,
+        "competition": 2
+      }
+    ],
+    "all": [
+      {
+        "keyword": "french bake",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "french toast casserole",
+        "volume": 110000,
+        "competition": 3
+      },
+      {
+        "keyword": "french toast recipe casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "overnight french toast casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "oven baked french toast",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "oven baked french toast casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "over night french toast casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "baked french toast",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "baked french toast recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "baked french toast bake",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "overnight french toast",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "baked french",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "french toast over night",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "over night french toast",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "oven french toast",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "crescent french toast",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "croissants french toast",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking french toast",
+        "volume": 5400,
+        "competition": 28
+      },
+      {
+        "keyword": "banana foster french toast",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry french toast casserole",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pioneer woman french toast casserole",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "french toast casserole easy",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bake french toast casserole",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "brioche french toast casserole",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "french toast casserole pioneer",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "french toast casserole with brioche",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked croissant french toast",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked french toast overnight recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "french toast bake with croissants",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "french toast croissant bake",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "overnight french toast casserole recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "overnight french toast recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "bake toast in oven",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast bake french toast",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "breakfast casserole french toast",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "crock pot french toast bake",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot french toast casserole",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "french toast casserole breakfast",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "french toast casserole slow cooker",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "toast in an oven",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "blueberry french toast",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "overnight french toast bake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked french toast casserole overnight",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked french toast cream cheese",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked french toast paula deen",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "barefoot contessa baked french toast casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "best french toast casserole overnight",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "best oven baked french toast",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "best overnight baked french toast",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cinnamon bun french toast casserole",
+        "volume": 2400,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

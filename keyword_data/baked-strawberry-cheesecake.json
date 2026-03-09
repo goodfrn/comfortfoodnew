@@ -1,0 +1,514 @@
+{
+  "slug": "baked-strawberry-cheesecake",
+  "title": "Baked Strawberry Cheesecake Twist",
+  "seed_keyword": "strawberry cheesecake",
+  "keywords": {
+    "primary": {
+      "keyword": "strawberry cheesecake",
+      "volume": 90500,
+      "competition": 48
+    },
+    "secondary": [
+      {
+        "keyword": "strawberry cheesecake cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake and strawberries",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake strawberry cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake strawberry cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "straw cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry and cheesecake cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cake and cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cake with cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "blueberry cheesecakes",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cheesecake topped with strawberries",
+        "volume": 14800,
+        "competition": 40
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "strawberries cream",
+        "volume": 12100,
+        "competition": 31
+      },
+      {
+        "keyword": "cheesecake from greek yogurt",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "greek cheesecake yogurt",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "no bake strawberry cheesecake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "cheesecake strawberry no bake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "strawberry cheese cake no bake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "unbaked strawberry cheesecake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "uncooked strawberry cheesecake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "cheesecake inside strawberry",
+        "volume": 5400,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry cheesecake in strawberries",
+        "volume": 5400,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry crunch cheesecake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "milka cheese cake",
+        "volume": 4400,
+        "competition": 69
+      },
+      {
+        "keyword": "strawberry cheesecake crunch cake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "strawberry crunch cake cheesecake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "strawberry crunch cheesecake cake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "strawberry shortcake cheesecake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "shortcake cheesecake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry short cake cheese cake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry shortcake cheesecake cake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry shortcake with cheesecake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry swirl cheesecake",
+        "volume": 2900,
+        "competition": 53
+      },
+      {
+        "keyword": "cheesecake factory fresh strawberry",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake factory fresh strawberry cheesecake",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "fresh strawberry cheesecake cheesecake factory",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "fresh strawberry cheesecake factory",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry cream cheese cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "cheesecake with strawberry cream cheese",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "cream cheese and strawberry cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberries and cream cheese cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberries and cream cheesecake cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberries cream cheese",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry & white chocolate cheesecake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry and white chocolate cheesecake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry cheesecake with strawberry cream cheese",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberry shortcake frappuccino",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "cheesecake factory strawberry cheesecake",
+        "volume": 1900,
+        "competition": 38
+      },
+      {
+        "keyword": "oreo strawberry cheesecake",
+        "volume": 1900,
+        "competition": 20
+      },
+      {
+        "keyword": "strawberry cheesecake factory",
+        "volume": 1900,
+        "competition": 38
+      },
+      {
+        "keyword": "mini strawberry cheesecake",
+        "volume": 1900,
+        "competition": 20
+      }
+    ],
+    "all": [
+      {
+        "keyword": "strawberry cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cheesecake cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake and strawberries",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake strawberry cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake strawberry cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "straw cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry and cheesecake cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cake and cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cake with cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "blueberry cheesecakes",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cheesecake topped with strawberries",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "strawberries cream",
+        "volume": 12100,
+        "competition": 31
+      },
+      {
+        "keyword": "cheesecake from greek yogurt",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "greek cheesecake yogurt",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "no bake strawberry cheesecake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "cheesecake strawberry no bake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "strawberry cheese cake no bake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "unbaked strawberry cheesecake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "uncooked strawberry cheesecake",
+        "volume": 8100,
+        "competition": 25
+      },
+      {
+        "keyword": "cheesecake inside strawberry",
+        "volume": 5400,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry cheesecake in strawberries",
+        "volume": 5400,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry crunch cheesecake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "milka cheese cake",
+        "volume": 4400,
+        "competition": 69
+      },
+      {
+        "keyword": "strawberry cheesecake crunch cake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "strawberry crunch cake cheesecake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "strawberry crunch cheesecake cake",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "strawberry shortcake cheesecake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "shortcake cheesecake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry short cake cheese cake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry shortcake cheesecake cake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry shortcake with cheesecake",
+        "volume": 3600,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry swirl cheesecake",
+        "volume": 2900,
+        "competition": 53
+      },
+      {
+        "keyword": "cheesecake factory fresh strawberry",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake factory fresh strawberry cheesecake",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "fresh strawberry cheesecake cheesecake factory",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "fresh strawberry cheesecake factory",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry cream cheese cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "cheesecake with strawberry cream cheese",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "cream cheese and strawberry cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberries and cream cheese cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberries and cream cheesecake cake",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberries cream cheese",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry & white chocolate cheesecake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry and white chocolate cheesecake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry cheesecake with strawberry cream cheese",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "strawberry shortcake frappuccino",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "cheesecake factory strawberry cheesecake",
+        "volume": 1900,
+        "competition": 38
+      },
+      {
+        "keyword": "oreo strawberry cheesecake",
+        "volume": 1900,
+        "competition": 20
+      },
+      {
+        "keyword": "strawberry cheesecake factory",
+        "volume": 1900,
+        "competition": 38
+      },
+      {
+        "keyword": "mini strawberry cheesecake",
+        "volume": 1900,
+        "competition": 20
+      }
+    ]
+  },
+  "processed": false
+}

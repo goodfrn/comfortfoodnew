@@ -1,0 +1,43 @@
+{
+  "slug": "baked-eggplant-rollatini",
+  "title": "Baked Eggplant Rollatini",
+  "seed_keyword": "baked eggplant rollatini",
+  "keywords": {
+    "primary": {
+      "keyword": "eggplant rollatini with spinach",
+      "volume": 390,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "baked eggplant rollatini",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "fried eggplant rollatini",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "eggplant rollatini with spinach",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggplant rollatini",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "fried eggplant rollatini",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

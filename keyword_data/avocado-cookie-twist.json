@@ -1,0 +1,63 @@
+{
+  "slug": "avocado-cookie-twist",
+  "title": "Avocado Cookie Twist",
+  "seed_keyword": "avocado chocolate cookies",
+  "keywords": {
+    "primary": {
+      "keyword": "avocado in cookies",
+      "volume": 3600,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "avocado chocolate cookies",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado chocolate chip cookie",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado biscuit",
+        "volume": 320,
+        "competition": 9
+      },
+      {
+        "keyword": "avocado cookies recipe",
+        "volume": 260,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "avocado in cookies",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado chocolate cookies",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado chocolate chip cookie",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado biscuit",
+        "volume": 320,
+        "competition": 9
+      },
+      {
+        "keyword": "avocado cookies recipe",
+        "volume": 260,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

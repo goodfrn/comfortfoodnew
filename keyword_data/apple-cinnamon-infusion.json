@@ -1,0 +1,123 @@
+{
+  "slug": "apple-cinnamon-infusion",
+  "title": "Apple Cinnamon Infusion",
+  "seed_keyword": "apple cinnamon tea",
+  "keywords": {
+    "primary": {
+      "keyword": "tim hortons apple cinnamon tea",
+      "volume": 390,
+      "competition": 56
+    },
+    "secondary": [
+      {
+        "keyword": "celestial seasonings cinnamon apple spice",
+        "volume": 390,
+        "competition": 45
+      },
+      {
+        "keyword": "celestial seasonings apple cinnamon tea",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "apple cinnamon and cranberry tea",
+        "volume": 390,
+        "competition": 49
+      },
+      {
+        "keyword": "celestial seasonings apple cinnamon",
+        "volume": 390,
+        "competition": 45
+      },
+      {
+        "keyword": "celestial seasonings cinnamon apple spice tea",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "celestial seasonings tea cinnamon apple spice",
+        "volume": 390,
+        "competition": 45
+      },
+      {
+        "keyword": "apple herbal",
+        "volume": 320,
+        "competition": 16
+      },
+      {
+        "keyword": "apple cinnamon turmeric tea",
+        "volume": 170,
+        "competition": 42
+      },
+      {
+        "keyword": "celestial seasonings cinnamon apple spice herbal tea",
+        "volume": 110,
+        "competition": 43
+      },
+      {
+        "keyword": "celestial seasonings herbal tea cinnamon apple spice",
+        "volume": 110,
+        "competition": 43
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "tim hortons apple cinnamon tea",
+        "volume": 390,
+        "competition": 56
+      },
+      {
+        "keyword": "celestial seasonings cinnamon apple spice",
+        "volume": 390,
+        "competition": 45
+      },
+      {
+        "keyword": "celestial seasonings apple cinnamon tea",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "apple cinnamon and cranberry tea",
+        "volume": 390,
+        "competition": 49
+      },
+      {
+        "keyword": "celestial seasonings apple cinnamon",
+        "volume": 390,
+        "competition": 45
+      },
+      {
+        "keyword": "celestial seasonings cinnamon apple spice tea",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "celestial seasonings tea cinnamon apple spice",
+        "volume": 390,
+        "competition": 45
+      },
+      {
+        "keyword": "apple herbal",
+        "volume": 320,
+        "competition": 16
+      },
+      {
+        "keyword": "apple cinnamon turmeric tea",
+        "volume": 170,
+        "competition": 42
+      },
+      {
+        "keyword": "celestial seasonings cinnamon apple spice herbal tea",
+        "volume": 110,
+        "competition": 43
+      },
+      {
+        "keyword": "celestial seasonings herbal tea cinnamon apple spice",
+        "volume": 110,
+        "competition": 43
+      }
+    ]
+  },
+  "processed": false
+}

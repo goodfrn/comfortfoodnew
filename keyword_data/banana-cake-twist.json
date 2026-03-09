@@ -1,0 +1,514 @@
+{
+  "slug": "banana-cake-twist",
+  "title": "Banana Cake Twist",
+  "seed_keyword": "banana cake recipe",
+  "keywords": {
+    "primary": {
+      "keyword": "banana cake",
+      "volume": 165000,
+      "competition": 12
+    },
+    "secondary": [
+      {
+        "keyword": "banana and cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake banana",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "cake banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "cake cake banana",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake recipe",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "cake recipe using bananas",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "banana loaf gluten free",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "magnolia bakery banana pudding",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "veganbanana bread",
+        "volume": 33100,
+        "competition": 2
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "banana cake recipe easy",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "simple banana cake recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "basic banana cake recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "banana loaf mary berry",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "banana loaf with almond flour",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "banana pudding cake",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "banana cake with banana pudding",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "banana loaf with chocolate chips",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pudding cake with cake mix",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "chocolate banana cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana and choc cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana and chocolate cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana cup cake",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "moist banana cake recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "easy moist banana cake recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "simple moist banana cake recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "banoffee cake",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "banana split cake",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "banan cheesecake",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "banana bread banana cake",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "banana bread cake",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "banana cake and cream cheese frosting",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana cake cream cheese frosting",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana cake cream cheese icing",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana cheese cake",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "banana cup cake recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "banana loaf recipe mary berry",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "banana pudding cheesecake cake",
+        "volume": 8100,
+        "competition": 24
+      },
+      {
+        "keyword": "simple syrup cakes",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "banana cake ingredients",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "banana walnut cake",
+        "volume": 6600,
+        "competition": 41
+      },
+      {
+        "keyword": "easy banana cake",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "banana bread cake mix",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "amazing banana cake recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "banana bread made from cake mix",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "banana bread recipe made with cake mix",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "banana cake best recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "banana cake in a mug",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "banana choc cake",
+        "volume": 6600,
+        "competition": 11
+      }
+    ],
+    "all": [
+      {
+        "keyword": "banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana and cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake banana",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "cake banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "cake cake banana",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake recipe",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "cake recipe using bananas",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "banana loaf gluten free",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "magnolia bakery banana pudding",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "veganbanana bread",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "banana cake recipe easy",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "simple banana cake recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "basic banana cake recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "banana loaf mary berry",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "banana loaf with almond flour",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "banana pudding cake",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "banana cake with banana pudding",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "banana loaf with chocolate chips",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pudding cake with cake mix",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "chocolate banana cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana and choc cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana and chocolate cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana cup cake",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "moist banana cake recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "easy moist banana cake recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "simple moist banana cake recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "banoffee cake",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "banana split cake",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "banan cheesecake",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "banana bread banana cake",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "banana bread cake",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "banana cake and cream cheese frosting",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana cake cream cheese frosting",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana cake cream cheese icing",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "banana cheese cake",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "banana cup cake recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "banana loaf recipe mary berry",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "banana pudding cheesecake cake",
+        "volume": 8100,
+        "competition": 24
+      },
+      {
+        "keyword": "simple syrup cakes",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "banana cake ingredients",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "banana walnut cake",
+        "volume": 6600,
+        "competition": 41
+      },
+      {
+        "keyword": "easy banana cake",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "banana bread cake mix",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "amazing banana cake recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "banana bread made from cake mix",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "banana bread recipe made with cake mix",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "banana cake best recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "banana cake in a mug",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "banana choc cake",
+        "volume": 6600,
+        "competition": 11
+      }
+    ]
+  },
+  "processed": false
+}

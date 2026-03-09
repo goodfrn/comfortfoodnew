@@ -1,0 +1,324 @@
+{
+  "slug": "bacon-chive-cheese-ball",
+  "title": "Bacon Chive Cheese Ball",
+  "seed_keyword": "bacon cheese ball",
+  "keywords": {
+    "primary": {
+      "keyword": "bacon cheese ball",
+      "volume": 2400,
+      "competition": 35
+    },
+    "secondary": [
+      {
+        "keyword": "cheese and bacon balls",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "bacon cheese cheese ball",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "bacon ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon and ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon cheese ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball ranch bacon",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball with bacon and ranch",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball with ranch and bacon",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball with ranch dressing and bacon",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "ranch cheese ball with bacon",
+        "volume": 1600,
+        "competition": 7
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "bacon ball",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon cheese ball recipe",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon and cheese balls recipe",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon ranch cheese ball recipe",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for ranch bacon cheese ball",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon cheddar cheese ball",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon and cheddar cheese ball",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon cheddar ball",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon cheddar cheese ball recipe",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "cheetos cheese & bacon balls",
+        "volume": 390,
+        "competition": 64
+      },
+      {
+        "keyword": "bacon and jalapeno cheese ball",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon cheddar ranch ball",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon cheddar ranch cheese ball",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon jalapeno cheese ball",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "jalapeno and bacon cheese ball",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and ball",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon cream cheese ball",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "cream cheese and bacon ball",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "cream cheese bacon cheese ball",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon and cheese cheetos",
+        "volume": 110,
+        "competition": 55
+      }
+    ],
+    "all": [
+      {
+        "keyword": "bacon cheese ball",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "cheese and bacon balls",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "bacon cheese cheese ball",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "bacon ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon and ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon cheese ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball ranch bacon",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball with bacon and ranch",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball with ranch and bacon",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese ball with ranch dressing and bacon",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "ranch cheese ball with bacon",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon ball",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon cheese ball recipe",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon and cheese balls recipe",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon ranch cheese ball recipe",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for ranch bacon cheese ball",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon cheddar cheese ball",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon and cheddar cheese ball",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon cheddar ball",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon cheddar cheese ball recipe",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "cheetos cheese & bacon balls",
+        "volume": 390,
+        "competition": 64
+      },
+      {
+        "keyword": "bacon and jalapeno cheese ball",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon cheddar ranch ball",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon cheddar ranch cheese ball",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon jalapeno cheese ball",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "jalapeno and bacon cheese ball",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and ball",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon cream cheese ball",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "cream cheese and bacon ball",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "cream cheese bacon cheese ball",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon and cheese cheetos",
+        "volume": 110,
+        "competition": 55
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,514 @@
+{
+  "slug": "baked-beans-ground-beef",
+  "title": "Baked Beans Ground Beef",
+  "seed_keyword": "baked beans with ground beef",
+  "keywords": {
+    "primary": {
+      "keyword": "baked beans with ground beef",
+      "volume": 6600,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "baked beans and ground beef",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and hamburger meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans hamburger meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans with ground meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq beans with hamburger meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef in baked beans",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean and hamburger recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean ground beef recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean hamburger recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for hamburger baked beans",
+        "volume": 3600,
+        "competition": 1
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "baked beans with hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq baked beans with hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq beans with hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean and ground beef casserole",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean casserole with ground beef",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean casserole with hamburger meat",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef and baked bean casserole",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean with ground beef and bacon",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "baked beans and meat",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "baked beans bacon ground beef",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "baked beans meat",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "bbq beans with meat",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "bush's baked beans with ground beef",
+        "volume": 390,
+        "competition": 21
+      },
+      {
+        "keyword": "baked bean and ground beef recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean recipe with hamburger meat",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean with hamburger meat recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and hamburger meat recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "bush baked beans and ground beef",
+        "volume": 390,
+        "competition": 21
+      },
+      {
+        "keyword": "ground beef and bush's baked beans",
+        "volume": 390,
+        "competition": 21
+      },
+      {
+        "keyword": "hamburger bean casserole",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for ground beef and baked beans",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and beef",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "barbecue baked beans with ground beef",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "barbeque baked beans with ground beef",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "beef and bean bake",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "beef baked beans",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "southern baked beans with ground beef",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "baked bean and hamburger casserole",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean casserole with hamburger",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean recipe with meat",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and meat recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and mince",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "canned baked beans with ground beef",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "mince and baked beans",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mince baked beans",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mince with baked beans",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "barbecue beans with ground beef",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "barbeque beans with ground beef",
+        "volume": 210,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "baked beans with ground beef",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and ground beef",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and hamburger meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans hamburger meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans with ground meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq beans with hamburger meat",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef in baked beans",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean and hamburger recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean ground beef recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean hamburger recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for hamburger baked beans",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans with hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq baked beans with hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq beans with hamburger",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean and ground beef casserole",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean casserole with ground beef",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean casserole with hamburger meat",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef and baked bean casserole",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean with ground beef and bacon",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "baked beans and meat",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "baked beans bacon ground beef",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "baked beans meat",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "bbq beans with meat",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "bush's baked beans with ground beef",
+        "volume": 390,
+        "competition": 21
+      },
+      {
+        "keyword": "baked bean and ground beef recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean recipe with hamburger meat",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean with hamburger meat recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and hamburger meat recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "bush baked beans and ground beef",
+        "volume": 390,
+        "competition": 21
+      },
+      {
+        "keyword": "ground beef and bush's baked beans",
+        "volume": 390,
+        "competition": 21
+      },
+      {
+        "keyword": "hamburger bean casserole",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for ground beef and baked beans",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and beef",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "barbecue baked beans with ground beef",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "barbeque baked beans with ground beef",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "beef and bean bake",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "beef baked beans",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "southern baked beans with ground beef",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "baked bean and hamburger casserole",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean casserole with hamburger",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked bean recipe with meat",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and meat recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked beans and mince",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "canned baked beans with ground beef",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "mince and baked beans",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mince baked beans",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mince with baked beans",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "barbecue beans with ground beef",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "barbeque beans with ground beef",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

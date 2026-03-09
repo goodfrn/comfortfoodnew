@@ -1,0 +1,63 @@
+{
+  "slug": "air-fryer-yogurt-bagels",
+  "title": "Air Fryer Yogurt Bagels",
+  "seed_keyword": "air fryer yogurt bagels",
+  "keywords": {
+    "primary": {
+      "keyword": "greek yogurt bagels air fryer",
+      "volume": 390,
+      "competition": 0
+    },
+    "secondary": [
+      {
+        "keyword": "air fryer greek yogurt bagels",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer bagels with greek yogurt",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt air fryer bagels",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "yogurt bagels air fryer",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "greek yogurt bagels air fryer",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer greek yogurt bagels",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer bagels with greek yogurt",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt air fryer bagels",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "yogurt bagels air fryer",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,514 @@
+{
+  "slug": "bacon-fried-cabbage",
+  "title": "Bacon Fried Cabbage Twist",
+  "seed_keyword": "bacon fried cabbage",
+  "keywords": {
+    "primary": {
+      "keyword": "fried cabbage dish",
+      "volume": 33100,
+      "competition": 10
+    },
+    "secondary": [
+      {
+        "keyword": "recipe for frying cabbage",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "recipes with fried cabbage",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "fried cabbage",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried cabbage and",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon & cabbage",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and cabbage",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage and bacon dish",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon & cabbage recipe",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon and cabbage recipe",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon fried cabbage",
+        "volume": 6600,
+        "competition": 12
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "fried bacon and cabbage",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for southern fried cabbage",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "fried southern cabbage",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon fried cabbage recipe",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "fried bacon and cabbage recipe",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "fried cabbage and bacon recipe",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "fried cabbage no bacon",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage without bacon",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "boiled cabbage with bacon",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "easy fried cabbage recipe",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "cooked cabbage and bacon",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "cooking bacon and cabbage",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "fried cabbage and onion",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "fried cabbage with onions",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "bacon onion cabbage",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage bacon and onion",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage onions and bacon",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy cabbage fry",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "fried cabbage with bacon and onion",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon and cabbage stir fry",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon cabbage stir fry",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "cabbage bacon onion recipe",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage and bacon saute",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage sauteed with bacon",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "cooked cabbage recipe with bacon",
+        "volume": 320,
+        "competition": 21
+      },
+      {
+        "keyword": "cooked cabbage with bacon recipe",
+        "volume": 320,
+        "competition": 21
+      },
+      {
+        "keyword": "fried cabbage with bacon and sausage",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "southern bacon fried cabbage",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "southern fried cabbage with bacon",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "boiled cabbage and bacon recipe",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "boiled cabbage recipes with bacon",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage with bacon onion and garlic",
+        "volume": 260,
+        "competition": 4
+      },
+      {
+        "keyword": "fried slaw",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage bacon and sausage",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage and potatoes with bacon",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage southern style",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage with bacon and potatoes",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage with potatoes and bacon",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "southern cabbage and bacon",
+        "volume": 170,
+        "competition": 1
+      }
+    ],
+    "all": [
+      {
+        "keyword": "fried cabbage dish",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for frying cabbage",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "recipes with fried cabbage",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "fried cabbage",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried cabbage and",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon & cabbage",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and cabbage",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage and bacon dish",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon & cabbage recipe",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon and cabbage recipe",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon fried cabbage",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "fried bacon and cabbage",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for southern fried cabbage",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "fried southern cabbage",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon fried cabbage recipe",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "fried bacon and cabbage recipe",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "fried cabbage and bacon recipe",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "fried cabbage no bacon",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage without bacon",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "boiled cabbage with bacon",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "easy fried cabbage recipe",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "cooked cabbage and bacon",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "cooking bacon and cabbage",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "fried cabbage and onion",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "fried cabbage with onions",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "bacon onion cabbage",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage bacon and onion",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage onions and bacon",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy cabbage fry",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "fried cabbage with bacon and onion",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon and cabbage stir fry",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon cabbage stir fry",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "cabbage bacon onion recipe",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage and bacon saute",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage sauteed with bacon",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "cooked cabbage recipe with bacon",
+        "volume": 320,
+        "competition": 21
+      },
+      {
+        "keyword": "cooked cabbage with bacon recipe",
+        "volume": 320,
+        "competition": 21
+      },
+      {
+        "keyword": "fried cabbage with bacon and sausage",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "southern bacon fried cabbage",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "southern fried cabbage with bacon",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "boiled cabbage and bacon recipe",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "boiled cabbage recipes with bacon",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage with bacon onion and garlic",
+        "volume": 260,
+        "competition": 4
+      },
+      {
+        "keyword": "fried slaw",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage bacon and sausage",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage and potatoes with bacon",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage southern style",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage with bacon and potatoes",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried cabbage with potatoes and bacon",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "southern cabbage and bacon",
+        "volume": 170,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

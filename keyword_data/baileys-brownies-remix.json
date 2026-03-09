@@ -1,0 +1,83 @@
+{
+  "slug": "baileys-brownies-remix",
+  "title": "Baileys Brownies Remix",
+  "seed_keyword": "baileys brownies",
+  "keywords": {
+    "primary": {
+      "keyword": "baileys brownies",
+      "volume": 1600,
+      "competition": 9
+    },
+    "secondary": [
+      {
+        "keyword": "baileys irish cream brownies",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "baileys chocolate brownie",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "baileys irish cream brownie recipe",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "brownies with irish cream",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for baileys brownies",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "bailey brownie recipe",
+        "volume": 110,
+        "competition": 4
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "baileys brownies",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "baileys irish cream brownies",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "baileys chocolate brownie",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "baileys irish cream brownie recipe",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "brownies with irish cream",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for baileys brownies",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "bailey brownie recipe",
+        "volume": 110,
+        "competition": 4
+      }
+    ]
+  },
+  "processed": false
+}

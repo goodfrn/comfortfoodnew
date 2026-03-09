@@ -1,0 +1,194 @@
+{
+  "slug": "asian-noodles-peanut-sauce",
+  "title": "Asian Noodles with Peanut Sauce",
+  "seed_keyword": "asian noodles with peanut sauce",
+  "keywords": {
+    "primary": {
+      "keyword": "thai peanut noodles",
+      "volume": 5400,
+      "competition": 2
+    },
+    "secondary": [
+      {
+        "keyword": "peanut butter noodle recipes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut sauce noodle recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "thai noodles in peanut sauce",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "thai peanut noodle recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "ramen noodle recipes peanut butter",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian noodles with peanut butter",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese noodles with peanut butter",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "asian noodles peanut",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "thai peanut sauce noodles recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "asian noodles with peanut sauce",
+        "volume": 590,
+        "competition": 3
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "asian peanut noodle recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese peanut noodles recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut noodle recipe easy",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy peanut thai noodles",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "best peanut noodle recipe",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "pad thai peanut noodles",
+        "volume": 140,
+        "competition": 14
+      },
+      {
+        "keyword": "thai peanut noodles vegetarian",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "thai peanut noodles",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "peanut butter noodle recipes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut sauce noodle recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "thai noodles in peanut sauce",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "thai peanut noodle recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "ramen noodle recipes peanut butter",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian noodles with peanut butter",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese noodles with peanut butter",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "asian noodles peanut",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "thai peanut sauce noodles recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "asian noodles with peanut sauce",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "asian peanut noodle recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese peanut noodles recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut noodle recipe easy",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy peanut thai noodles",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "best peanut noodle recipe",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "pad thai peanut noodles",
+        "volume": 140,
+        "competition": 14
+      },
+      {
+        "keyword": "thai peanut noodles vegetarian",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

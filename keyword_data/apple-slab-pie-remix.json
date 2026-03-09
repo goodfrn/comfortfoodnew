@@ -1,0 +1,164 @@
+{
+  "slug": "apple-slab-pie-remix",
+  "title": "Apple Slab Pie Remix",
+  "seed_keyword": "apple slab pie",
+  "keywords": {
+    "primary": {
+      "keyword": "apple slab pie",
+      "volume": 2900,
+      "competition": 2
+    },
+    "secondary": [
+      {
+        "keyword": "apple pie slab pie",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie slab recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "slab pie",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for slab pie",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "apple sheet pan pie",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "apple sheet pie",
+        "volume": 260,
+        "competition": 12
+      },
+      {
+        "keyword": "apple slab pie puff pastry",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "apple slab pie with puff pastry",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "puff pastry apple slab pie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "pioneer woman apple slab pie",
+        "volume": 170,
+        "competition": 1
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "apple slab pie with crumb topping",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "apple slab pie with store bought crust",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "crumb topped apple slab pie",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "apple slab cake",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "all": [
+      {
+        "keyword": "apple slab pie",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie slab pie",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie slab recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "slab pie",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for slab pie",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "apple sheet pan pie",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "apple sheet pie",
+        "volume": 260,
+        "competition": 12
+      },
+      {
+        "keyword": "apple slab pie puff pastry",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "apple slab pie with puff pastry",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "puff pastry apple slab pie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "pioneer woman apple slab pie",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "apple slab pie with crumb topping",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "apple slab pie with store bought crust",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "crumb topped apple slab pie",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "apple slab cake",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

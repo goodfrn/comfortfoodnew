@@ -1,0 +1,224 @@
+{
+  "slug": "baked-spiced-pumpkin-donuts",
+  "title": "Baked Spiced Pumpkin Donuts",
+  "seed_keyword": "baked pumpkin donuts",
+  "keywords": {
+    "primary": {
+      "keyword": "pumpkin donuts",
+      "volume": 8100,
+      "competition": 12
+    },
+    "secondary": [
+      {
+        "keyword": "doughnut pumpkin",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "pumpkin donut recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin spice donuts",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "spiced pumpkin donuts",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "baked pumpkin donuts",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin donut hole",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "baked pumpkin donut recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "entenmann pumpkin donuts",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "spice donuts",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "gluten free pumpkin donuts",
+        "volume": 320,
+        "competition": 12
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "pumpkin cake doughnuts",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "fried pumpkin donuts",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "glazed pumpkin donuts",
+        "volume": 210,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin cake donuts recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pumpkin spice donuts",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "healthy pumpkin donuts",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin donuts healthy",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade pumpkin donuts",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "mini pumpkin donuts",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin vegan donuts",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "pumpkin donuts",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "doughnut pumpkin",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "pumpkin donut recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin spice donuts",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "spiced pumpkin donuts",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "baked pumpkin donuts",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin donut hole",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "baked pumpkin donut recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "entenmann pumpkin donuts",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "spice donuts",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "gluten free pumpkin donuts",
+        "volume": 320,
+        "competition": 12
+      },
+      {
+        "keyword": "pumpkin cake doughnuts",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "fried pumpkin donuts",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "glazed pumpkin donuts",
+        "volume": 210,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin cake donuts recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pumpkin spice donuts",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "healthy pumpkin donuts",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin donuts healthy",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade pumpkin donuts",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "mini pumpkin donuts",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin vegan donuts",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

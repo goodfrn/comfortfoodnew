@@ -1,0 +1,33 @@
+{
+  "slug": "apple-cider-reduction",
+  "title": "Apple Cider Reduction",
+  "seed_keyword": "apple cider reduction",
+  "keywords": {
+    "primary": {
+      "keyword": "apple cider reduction",
+      "volume": 720,
+      "competition": 2
+    },
+    "secondary": [
+      {
+        "keyword": "cider reduction",
+        "volume": 720,
+        "competition": 2
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "apple cider reduction",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "cider reduction",
+        "volume": 720,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

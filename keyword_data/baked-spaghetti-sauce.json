@@ -1,0 +1,514 @@
+{
+  "slug": "baked-spaghetti-sauce",
+  "title": "Baked Spaghetti Sauce Twist",
+  "seed_keyword": "baked spaghetti sauce",
+  "keywords": {
+    "primary": {
+      "keyword": "spaghetti recipe baked",
+      "volume": 60500,
+      "competition": 11
+    },
+    "secondary": [
+      {
+        "keyword": "roasted tomato sauce",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted spaghetti sauce",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta bake with bolognese sauce",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cheddars spasagna",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked pasta pesto",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "baked chicken alfredo spaghetti",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "alfredo sauce pasta bake",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "pasta alfredo casserole",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "alfredo baked spaghetti",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked spaghetti with alfredo sauce",
+        "volume": 1600,
+        "competition": 2
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "roasted vegetables pasta sauce",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bolognese bake",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta sauce feta",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "baked carbonara pasta",
+        "volume": 1000,
+        "competition": 29
+      },
+      {
+        "keyword": "baked pasta carbonara",
+        "volume": 1000,
+        "competition": 29
+      },
+      {
+        "keyword": "oven roasted spaghetti sauce",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta recipes without tomato sauce",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked bolognese spaghetti",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "baked pasta in white sauce",
+        "volume": 880,
+        "competition": 12
+      },
+      {
+        "keyword": "cooking spaghetti in the sauce",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti bolognese pasta bake",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for bolognese pasta bake",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted cherry tomato pasta sauce",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti carbonara bake",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "spaghetti in the oven",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "baked red sauce pasta",
+        "volume": 590,
+        "competition": 34
+      },
+      {
+        "keyword": "creamy baked spaghetti",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "pepperoni spaghetti bake",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes using spaghetti sauce",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "alfredo baked spaghetti recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese sauce pasta bake",
+        "volume": 480,
+        "competition": 47
+      },
+      {
+        "keyword": "oven pasta sauce",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "oven spaghetti sauce",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti sauce in the oven",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "taste of home spaghetti bake",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pasta with marinara sauce",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked spaghetti and meat sauce",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "baked spaghetti in white sauce",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "baked spaghetti mozzarella",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "baked spaghetti with meat sauce",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "baked spaghetti with mozzarella",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "meat sauce pasta bake",
+        "volume": 260,
+        "competition": 8
+      },
+      {
+        "keyword": "white sauce baked spaghetti",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken and spaghetti sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken in spaghetti sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken pasta sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "baked pasta tomato sauce",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken baked in spaghetti sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta bake sauce homemade",
+        "volume": 210,
+        "competition": 3
+      }
+    ],
+    "all": [
+      {
+        "keyword": "spaghetti recipe baked",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "roasted tomato sauce",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted spaghetti sauce",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta bake with bolognese sauce",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cheddars spasagna",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked pasta pesto",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "baked chicken alfredo spaghetti",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "alfredo sauce pasta bake",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "pasta alfredo casserole",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "alfredo baked spaghetti",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked spaghetti with alfredo sauce",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted vegetables pasta sauce",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bolognese bake",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta sauce feta",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "baked carbonara pasta",
+        "volume": 1000,
+        "competition": 29
+      },
+      {
+        "keyword": "baked pasta carbonara",
+        "volume": 1000,
+        "competition": 29
+      },
+      {
+        "keyword": "oven roasted spaghetti sauce",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta recipes without tomato sauce",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked bolognese spaghetti",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "baked pasta in white sauce",
+        "volume": 880,
+        "competition": 12
+      },
+      {
+        "keyword": "cooking spaghetti in the sauce",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti bolognese pasta bake",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for bolognese pasta bake",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted cherry tomato pasta sauce",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti carbonara bake",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "spaghetti in the oven",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "baked red sauce pasta",
+        "volume": 590,
+        "competition": 34
+      },
+      {
+        "keyword": "creamy baked spaghetti",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "pepperoni spaghetti bake",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes using spaghetti sauce",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "alfredo baked spaghetti recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese sauce pasta bake",
+        "volume": 480,
+        "competition": 47
+      },
+      {
+        "keyword": "oven pasta sauce",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "oven spaghetti sauce",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti sauce in the oven",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "taste of home spaghetti bake",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pasta with marinara sauce",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked spaghetti and meat sauce",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "baked spaghetti in white sauce",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "baked spaghetti mozzarella",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "baked spaghetti with meat sauce",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "baked spaghetti with mozzarella",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "meat sauce pasta bake",
+        "volume": 260,
+        "competition": 8
+      },
+      {
+        "keyword": "white sauce baked spaghetti",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken and spaghetti sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken in spaghetti sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken pasta sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "baked pasta tomato sauce",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken baked in spaghetti sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta bake sauce homemade",
+        "volume": 210,
+        "competition": 3
+      }
+    ]
+  },
+  "processed": false
+}

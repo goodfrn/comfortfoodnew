@@ -1,0 +1,404 @@
+{
+  "slug": "altered-red-velvet-brownies",
+  "title": "Altered Red Velvet Brownies",
+  "seed_keyword": "red velvet brownies",
+  "keywords": {
+    "primary": {
+      "keyword": "red velvet brownies",
+      "volume": 14800,
+      "competition": 9
+    },
+    "secondary": [
+      {
+        "keyword": "brownie red velvet cake",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "red velvet and chocolate brownies",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "red velvet chocolate brownies",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "brownie red velvet cheesecake",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "red velvet brownies cheese",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "red velvet cheese brownies",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for red velvet brownies",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brownie cake recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "brownie red velvet cream cheese",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "brownies from red velvet cake mix",
+        "volume": 880,
+        "competition": 1
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "brownies with red velvet cake mix",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "cake mix red velvet brownies",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese red velvet brownies",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "red velvet brownies cream cheese",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "red velvet brownies using cake mix",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet cake brownies cream cheese",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "red velvet brownie mix",
+        "volume": 590,
+        "competition": 76
+      },
+      {
+        "keyword": "oreo red velvet brownies",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for red velvet cheesecake brownies",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brookie",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "red velvet brownies with oreos",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "brownie red",
+        "volume": 390,
+        "competition": 15
+      },
+      {
+        "keyword": "red brownie",
+        "volume": 390,
+        "competition": 15
+      },
+      {
+        "keyword": "red velvet cheesecake bars",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "red velvet blondie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet brownies box mix",
+        "volume": 260,
+        "competition": 15
+      },
+      {
+        "keyword": "red velvet brownies with box mix",
+        "volume": 260,
+        "competition": 15
+      },
+      {
+        "keyword": "blue velvet brownies",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brownies cream cheese frosting",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet brownies with cream cheese frosting",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet cake with cheesecake swirl",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "red velvet cheesecake swirl",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "velvet brownie",
+        "volume": 170,
+        "competition": 10
+      },
+      {
+        "keyword": "broma bakery red velvet brownies",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "broma bakery red velvet cheesecake brownies",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "fudgy red velvet brownies",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for red velvet brownies using cake mix",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brownies recipe with cake mix",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "red velvet brownies",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "brownie red velvet cake",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "red velvet and chocolate brownies",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "red velvet chocolate brownies",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "brownie red velvet cheesecake",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "red velvet brownies cheese",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "red velvet cheese brownies",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for red velvet brownies",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brownie cake recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "brownie red velvet cream cheese",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "brownies from red velvet cake mix",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "brownies with red velvet cake mix",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "cake mix red velvet brownies",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese red velvet brownies",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "red velvet brownies cream cheese",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "red velvet brownies using cake mix",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet cake brownies cream cheese",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "red velvet brownie mix",
+        "volume": 590,
+        "competition": 76
+      },
+      {
+        "keyword": "oreo red velvet brownies",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for red velvet cheesecake brownies",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brookie",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "red velvet brownies with oreos",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "brownie red",
+        "volume": 390,
+        "competition": 15
+      },
+      {
+        "keyword": "red brownie",
+        "volume": 390,
+        "competition": 15
+      },
+      {
+        "keyword": "red velvet cheesecake bars",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "red velvet blondie",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet brownies box mix",
+        "volume": 260,
+        "competition": 15
+      },
+      {
+        "keyword": "red velvet brownies with box mix",
+        "volume": 260,
+        "competition": 15
+      },
+      {
+        "keyword": "blue velvet brownies",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brownies cream cheese frosting",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet brownies with cream cheese frosting",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "red velvet cake with cheesecake swirl",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "red velvet cheesecake swirl",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "velvet brownie",
+        "volume": 170,
+        "competition": 10
+      },
+      {
+        "keyword": "broma bakery red velvet brownies",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "broma bakery red velvet cheesecake brownies",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "fudgy red velvet brownies",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for red velvet brownies using cake mix",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "red velvet brownies recipe with cake mix",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

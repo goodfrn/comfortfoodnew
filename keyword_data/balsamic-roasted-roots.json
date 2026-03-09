@@ -1,0 +1,63 @@
+{
+  "slug": "balsamic-roasted-roots",
+  "title": "Balsamic Roasted Roots",
+  "seed_keyword": "balsamic roasted root vegetables",
+  "keywords": {
+    "primary": {
+      "keyword": "roasted root vegetables recipe with balsamic",
+      "volume": 170,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "balsamic roasted root vegetables",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted balsamic root vegetables",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted root vegetables balsamic glaze",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted root vegetables with balsamic vinegar",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "roasted root vegetables recipe with balsamic",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "balsamic roasted root vegetables",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted balsamic root vegetables",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted root vegetables balsamic glaze",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted root vegetables with balsamic vinegar",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

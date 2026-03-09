@@ -1,0 +1,103 @@
+{
+  "slug": "baileys-chocolate-fudge",
+  "title": "Baileys Chocolate Fudge Twist",
+  "seed_keyword": "baileys chocolate fudge",
+  "keywords": {
+    "primary": {
+      "keyword": "baileys fudge",
+      "volume": 1600,
+      "competition": 66
+    },
+    "secondary": [
+      {
+        "keyword": "baileys fudge recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "fudge baileys recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "baileys fudge slow cooker",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "baileys slow cooker fudge",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "slow cooker baileys fudge",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "bailey irish cream fudge",
+        "volume": 140,
+        "competition": 45
+      },
+      {
+        "keyword": "baileys and white chocolate fudge",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "baileys white chocolate fudge",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "baileys fudge",
+        "volume": 1600,
+        "competition": 66
+      },
+      {
+        "keyword": "baileys fudge recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "fudge baileys recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "baileys fudge slow cooker",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "baileys slow cooker fudge",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "slow cooker baileys fudge",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "bailey irish cream fudge",
+        "volume": 140,
+        "competition": 45
+      },
+      {
+        "keyword": "baileys and white chocolate fudge",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "baileys white chocolate fudge",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

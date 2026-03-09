@@ -1,0 +1,514 @@
+{
+  "slug": "autumn-chicken-pot",
+  "title": "Autumn Chicken Pot",
+  "seed_keyword": "chicken pot pie",
+  "keywords": {
+    "primary": {
+      "keyword": "chicken pot pie",
+      "volume": 246000,
+      "competition": 20
+    },
+    "secondary": [
+      {
+        "keyword": "chicken for chicken pot pie",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken pot pie re",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken popeye",
+        "volume": 201000,
+        "competition": 18
+      },
+      {
+        "keyword": "chicken pie",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken pie pie",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "pie pie chicken",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "pot pie",
+        "volume": 49500,
+        "competition": 43
+      },
+      {
+        "keyword": "chicken meat pie",
+        "volume": 49500,
+        "competition": 77
+      },
+      {
+        "keyword": "chicken pot pie soup",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot chicken pot pie",
+        "volume": 33100,
+        "competition": 3
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "chicken pot pie in a slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie with chicken soup",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "pot pie slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie with biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pot pie with biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pot pie made with biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "biscuits and chicken pot pie",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pot pie using biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pie crust for chicken pot pie",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pot pie crust",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and mushrooms pie",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken pot pie dough",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "pie dough for chicken pot pie",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "kfc chicken pot pie",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade chicken pot pie",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken pot pie kentucky fried chicken",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "home made chicken pot pies",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "kentucky chicken pot pie",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy chicken pot pie",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken pot pie with puff pastry",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey potpie",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "chicken pot pie using puff pastry",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "puff pastry on chicken pot pie",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pillsbury chicken pot pie",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "bisquick chicken pot pie",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "kfc pot pie",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "kentucky fried chicken pot pie",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken mushroom leek pie",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken pot pie using bisquick",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "mushroom leek chicken pie",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "mini chicken pot pies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "mini pot pies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken pot",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie costco",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken pot pot",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "miniature chicken pot pies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken pot pie with cream of chicken soup",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken pot pie using cream of chicken soup",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cream of chicken soup pot pie",
+        "volume": 6600,
+        "competition": 2
+      }
+    ],
+    "all": [
+      {
+        "keyword": "chicken pot pie",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken for chicken pot pie",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken pot pie re",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken popeye",
+        "volume": 201000,
+        "competition": 18
+      },
+      {
+        "keyword": "chicken pie",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken pie pie",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "pie pie chicken",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "pot pie",
+        "volume": 49500,
+        "competition": 43
+      },
+      {
+        "keyword": "chicken meat pie",
+        "volume": 49500,
+        "competition": 77
+      },
+      {
+        "keyword": "chicken pot pie soup",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot chicken pot pie",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie in a slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie with chicken soup",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "pot pie slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie with biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pot pie with biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pot pie made with biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "biscuits and chicken pot pie",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pot pie using biscuits",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pie crust for chicken pot pie",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pot pie crust",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and mushrooms pie",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken pot pie dough",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "pie dough for chicken pot pie",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "kfc chicken pot pie",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade chicken pot pie",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken pot pie kentucky fried chicken",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "home made chicken pot pies",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "kentucky chicken pot pie",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy chicken pot pie",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken pot pie with puff pastry",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey potpie",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "chicken pot pie using puff pastry",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "puff pastry on chicken pot pie",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pillsbury chicken pot pie",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "bisquick chicken pot pie",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "kfc pot pie",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "kentucky fried chicken pot pie",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken mushroom leek pie",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken pot pie using bisquick",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "mushroom leek chicken pie",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "mini chicken pot pies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "mini pot pies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken pot",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie costco",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken pot pot",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "miniature chicken pot pies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken pot pie with cream of chicken soup",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken pot pie using cream of chicken soup",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cream of chicken soup pot pie",
+        "volume": 6600,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

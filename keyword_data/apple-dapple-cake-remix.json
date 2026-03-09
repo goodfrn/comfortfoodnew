@@ -1,0 +1,514 @@
+{
+  "slug": "apple-dapple-cake-remix",
+  "title": "Apple Dapple Cake Remix",
+  "seed_keyword": "apple cake",
+  "keywords": {
+    "primary": {
+      "keyword": "pine apple upside down cake",
+      "volume": 201000,
+      "competition": 22
+    },
+    "secondary": [
+      {
+        "keyword": "apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "applesauce cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apple and cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apple apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apple cake apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apples for apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "pine apple cake",
+        "volume": 60500,
+        "competition": 67
+      },
+      {
+        "keyword": "apple dump cake",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "apple crumb cake",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "apple pan cake",
+        "volume": 14800,
+        "competition": 1
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "applesauce crumb cake",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "cake apple crumble",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "pine apple cake design",
+        "volume": 14800,
+        "competition": 26
+      },
+      {
+        "keyword": "apple & cinnamon cake",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple and cinnamon cake",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cake dorset",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "apple dorset cake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "invisible apple cake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cake german",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "easy pineapple upsidedown cake",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "apple upside down cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple cake mary berry",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumble cheese cake",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "apple upside cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple upside down",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jewish apple cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple coffee cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple and coffee cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple cake irish",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "apple sponge",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "applesauce coffee cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cinnamon pancake",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "coffee and apple cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "pine apple upside down",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "simple applesauce cake",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cheesecake",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "apple and banana loaf",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and caramel cake",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "apple cake caramel",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "caramel apple cheese cake",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "sharlotka",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "apple and caramel dump cake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "apple and chocolate cake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple cake dutch",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "apple caramel dump cake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "apple chocolate cake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pie cheese cake",
+        "volume": 4400,
+        "competition": 27
+      },
+      {
+        "keyword": "cocoa apple cake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "icing for christmas cake",
+        "volume": 4400,
+        "competition": 46
+      }
+    ],
+    "all": [
+      {
+        "keyword": "pine apple upside down cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "applesauce cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apple and cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apple apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apple cake apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "apples for apple cake",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "pine apple cake",
+        "volume": 60500,
+        "competition": 67
+      },
+      {
+        "keyword": "apple dump cake",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "apple crumb cake",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "apple pan cake",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "applesauce crumb cake",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "cake apple crumble",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "pine apple cake design",
+        "volume": 14800,
+        "competition": 26
+      },
+      {
+        "keyword": "apple & cinnamon cake",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple and cinnamon cake",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cake dorset",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "apple dorset cake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "invisible apple cake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cake german",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "easy pineapple upsidedown cake",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "apple upside down cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple cake mary berry",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumble cheese cake",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "apple upside cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple upside down",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jewish apple cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple coffee cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple and coffee cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple cake irish",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "apple sponge",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "applesauce coffee cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cinnamon pancake",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "coffee and apple cake",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "pine apple upside down",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "simple applesauce cake",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cheesecake",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "apple and banana loaf",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and caramel cake",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "apple cake caramel",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "caramel apple cheese cake",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "sharlotka",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "apple and caramel dump cake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "apple and chocolate cake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple cake dutch",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "apple caramel dump cake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "apple chocolate cake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pie cheese cake",
+        "volume": 4400,
+        "competition": 27
+      },
+      {
+        "keyword": "cocoa apple cake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "icing for christmas cake",
+        "volume": 4400,
+        "competition": 46
+      }
+    ]
+  },
+  "processed": false
+}

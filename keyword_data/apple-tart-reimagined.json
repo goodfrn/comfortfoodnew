@@ -1,0 +1,514 @@
+{
+  "slug": "apple-tart-reimagined",
+  "title": "Apple Tart Reimagined",
+  "seed_keyword": "apple tart",
+  "keywords": {
+    "primary": {
+      "keyword": "apple tart",
+      "volume": 40500,
+      "competition": 7
+    },
+    "secondary": [
+      {
+        "keyword": "apple pie granny smith apples",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie with granny smith",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "tatin",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tarte tatin",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "apple turnover with puff pastry",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "apple and puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart using puff pastry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart with pastry puff",
+        "volume": 8100,
+        "competition": 2
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "apple pastry",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "apple french tart",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie crusts",
+        "volume": 6600,
+        "competition": 27
+      },
+      {
+        "keyword": "apple tatin",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "tarte ta tan",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "pink lady cheese tart",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "whole food fruit tart",
+        "volume": 3600,
+        "competition": 39
+      },
+      {
+        "keyword": "apple and frangipane tart",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple frangipane tart",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "frangipane tart apple",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple pop tarts",
+        "volume": 2400,
+        "competition": 72
+      },
+      {
+        "keyword": "caramel apple tartlets",
+        "volume": 2400,
+        "competition": 47
+      },
+      {
+        "keyword": "apple and caramel tart",
+        "volume": 2400,
+        "competition": 47
+      },
+      {
+        "keyword": "apple tart upside down",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "rose apple tart",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumb tart",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "mini apple tarts",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "apple pie tart",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "easy apple tart with shortcrust pastry",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "fridge tarts",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "miniature apple tarts",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "tart apple pie",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "tart apples for pie",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "apple tart odlums",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tartelette",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "appletarte",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "apple cinnamon pop tarts",
+        "volume": 1000,
+        "competition": 70
+      },
+      {
+        "keyword": "omaha steaks caramel apple tartlets",
+        "volume": 1000,
+        "competition": 50
+      },
+      {
+        "keyword": "apple & custard tart",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and cinnamon pop tarts",
+        "volume": 1000,
+        "competition": 70
+      },
+      {
+        "keyword": "apple and custard tart",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple custard tart",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tart and custard",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "filling tart",
+        "volume": 1000,
+        "competition": 14
+      },
+      {
+        "keyword": "apple flan",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple frangipane tart mary berry",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tart ina garten",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tart irish",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tart rustic",
+        "volume": 880,
+        "competition": 2
+      }
+    ],
+    "all": [
+      {
+        "keyword": "apple tart",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "apple pie granny smith apples",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie with granny smith",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "tatin",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tarte tatin",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "apple turnover with puff pastry",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "apple and puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart using puff pastry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart with pastry puff",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pastry",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "apple french tart",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie crusts",
+        "volume": 6600,
+        "competition": 27
+      },
+      {
+        "keyword": "apple tatin",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "tarte ta tan",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "pink lady cheese tart",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "whole food fruit tart",
+        "volume": 3600,
+        "competition": 39
+      },
+      {
+        "keyword": "apple and frangipane tart",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple frangipane tart",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "frangipane tart apple",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple pop tarts",
+        "volume": 2400,
+        "competition": 72
+      },
+      {
+        "keyword": "caramel apple tartlets",
+        "volume": 2400,
+        "competition": 47
+      },
+      {
+        "keyword": "apple and caramel tart",
+        "volume": 2400,
+        "competition": 47
+      },
+      {
+        "keyword": "apple tart upside down",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "rose apple tart",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumb tart",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "mini apple tarts",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "apple pie tart",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "easy apple tart with shortcrust pastry",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "fridge tarts",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "miniature apple tarts",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "tart apple pie",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "tart apples for pie",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "apple tart odlums",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tartelette",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "appletarte",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "apple cinnamon pop tarts",
+        "volume": 1000,
+        "competition": 70
+      },
+      {
+        "keyword": "omaha steaks caramel apple tartlets",
+        "volume": 1000,
+        "competition": 50
+      },
+      {
+        "keyword": "apple & custard tart",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and cinnamon pop tarts",
+        "volume": 1000,
+        "competition": 70
+      },
+      {
+        "keyword": "apple and custard tart",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple custard tart",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tart and custard",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "filling tart",
+        "volume": 1000,
+        "competition": 14
+      },
+      {
+        "keyword": "apple flan",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple frangipane tart mary berry",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tart ina garten",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tart irish",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tart rustic",
+        "volume": 880,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

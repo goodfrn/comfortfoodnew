@@ -1,0 +1,93 @@
+{
+  "slug": "autumn-fruit-mixup",
+  "title": "Autumn Fruit Mixup",
+  "seed_keyword": "autumn fruit salad",
+  "keywords": {
+    "primary": {
+      "keyword": "autumn fruit salad",
+      "volume": 2400,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "fruit salad autumn",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad fall",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fall salads with apples",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "autumn fruit salad recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad recipe autumn",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad recipe fall",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "autumn pear salad",
+        "volume": 390,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "autumn fruit salad",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad autumn",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad fall",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fall salads with apples",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "autumn fruit salad recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad recipe autumn",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad recipe fall",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "autumn pear salad",
+        "volume": 390,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

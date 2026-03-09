@@ -1,0 +1,53 @@
+{
+  "slug": "apple-crumble-squares",
+  "title": "Apple Crumble Squares",
+  "seed_keyword": "apple crumble bars",
+  "keywords": {
+    "primary": {
+      "keyword": "apple crumble bars",
+      "volume": 1600,
+      "competition": 4
+    },
+    "secondary": [
+      {
+        "keyword": "apple crumble bars recipes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumb squares",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumble bars with oats",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "apple crumble bars",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "apple crumble bars recipes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumb squares",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumble bars with oats",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

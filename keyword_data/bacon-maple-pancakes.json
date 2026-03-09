@@ -1,0 +1,113 @@
+{
+  "slug": "bacon-maple-pancakes",
+  "title": "Bacon Maple Pancakes",
+  "seed_keyword": "bacon maple pancakes",
+  "keywords": {
+    "primary": {
+      "keyword": "bacon and maple syrup pancakes",
+      "volume": 1300,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "bacon maple syrup pancakes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "maple syrup bacon pancakes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "maple syrup pancakes with bacon",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon maple pancakes",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and maple pancakes",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "american pancakes and bacon",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and syrup pancakes",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon syrup pancakes",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "pancakes with bacon and syrup",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "bacon and maple syrup pancakes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon maple syrup pancakes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "maple syrup bacon pancakes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "maple syrup pancakes with bacon",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon maple pancakes",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and maple pancakes",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "american pancakes and bacon",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and syrup pancakes",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon syrup pancakes",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "pancakes with bacon and syrup",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

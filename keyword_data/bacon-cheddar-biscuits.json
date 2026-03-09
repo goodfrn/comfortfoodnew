@@ -1,0 +1,53 @@
+{
+  "slug": "bacon-cheddar-biscuits",
+  "title": "Bacon Cheddar Biscuits Remix",
+  "seed_keyword": "bacon cheddar biscuits",
+  "keywords": {
+    "primary": {
+      "keyword": "bacon cheddar biscuits",
+      "volume": 720,
+      "competition": 1
+    },
+    "secondary": [
+      {
+        "keyword": "bacon and cheddar biscuits",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy bacon biscuits",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "bacon cheddar biscuit recipe",
+        "volume": 140,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "bacon cheddar biscuits",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and cheddar biscuits",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy bacon biscuits",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "bacon cheddar biscuit recipe",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

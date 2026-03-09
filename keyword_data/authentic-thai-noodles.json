@@ -1,0 +1,514 @@
+{
+  "slug": "authentic-thai-noodles",
+  "title": "Authentic Thai Noodles",
+  "seed_keyword": "pad thai",
+  "keywords": {
+    "primary": {
+      "keyword": "pad thai",
+      "volume": 1220000,
+      "competition": 3
+    },
+    "secondary": [
+      {
+        "keyword": "thai pad thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad pad thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai dish",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai food",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thailand",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "phadthai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "phud thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "thai phad",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "thailand food pad thai",
+        "volume": 1220000,
+        "competition": 3
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "pad see ew",
+        "volume": 201000,
+        "competition": 0
+      },
+      {
+        "keyword": "pad see ew thai",
+        "volume": 201000,
+        "competition": 0
+      },
+      {
+        "keyword": "thai food pad see ew",
+        "volume": 201000,
+        "competition": 0
+      },
+      {
+        "keyword": "pad thai near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "pad thai food near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "padthai near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "thai pad near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "pad thai noodles",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "pad tie noodles",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "padthai noodle",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "pai thai noodle",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "thai noodles pad thai",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "thailand noodles",
+        "volume": 60500,
+        "competition": 24
+      },
+      {
+        "keyword": "thainoodles",
+        "volume": 60500,
+        "competition": 24
+      },
+      {
+        "keyword": "pad thai restaurant",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "pad thai sauce",
+        "volume": 33100,
+        "competition": 75
+      },
+      {
+        "keyword": "chicken pad thai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "pai thai",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken padthai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "pad thai with pad thai sauce",
+        "volume": 33100,
+        "competition": 75
+      },
+      {
+        "keyword": "thai chicken pad thai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "thai food chicken pad thai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "thai pad thai sauce",
+        "volume": 33100,
+        "competition": 75
+      },
+      {
+        "keyword": "baan phad thai",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "padthai cafe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "phat thai",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pad thai wokbar",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "pad thai rice noodles",
+        "volume": 14800,
+        "competition": 60
+      },
+      {
+        "keyword": "pad see ew noodles",
+        "volume": 12100,
+        "competition": 34
+      },
+      {
+        "keyword": "thai pad",
+        "volume": 12100,
+        "competition": 46
+      },
+      {
+        "keyword": "pan thai",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "pad thai cuisine",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "thaipad",
+        "volume": 12100,
+        "competition": 46
+      },
+      {
+        "keyword": "thai rice noodles",
+        "volume": 9900,
+        "competition": 79
+      },
+      {
+        "keyword": "pad see ew near me",
+        "volume": 9900,
+        "competition": 24
+      },
+      {
+        "keyword": "shrimp pad thai",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian pad thai",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "pad thai house",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai shop",
+        "volume": 9900,
+        "competition": 6
+      }
+    ],
+    "all": [
+      {
+        "keyword": "pad thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "thai pad thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad pad thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai dish",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai food",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thailand",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "phadthai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "phud thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "thai phad",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "thailand food pad thai",
+        "volume": 1220000,
+        "competition": 3
+      },
+      {
+        "keyword": "pad see ew",
+        "volume": 201000,
+        "competition": 0
+      },
+      {
+        "keyword": "pad see ew thai",
+        "volume": 201000,
+        "competition": 0
+      },
+      {
+        "keyword": "thai food pad see ew",
+        "volume": 201000,
+        "competition": 0
+      },
+      {
+        "keyword": "pad thai near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "pad thai food near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "padthai near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "thai pad near me",
+        "volume": 110000,
+        "competition": 20
+      },
+      {
+        "keyword": "pad thai noodles",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "pad tie noodles",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "padthai noodle",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "pai thai noodle",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "thai noodles pad thai",
+        "volume": 74000,
+        "competition": 50
+      },
+      {
+        "keyword": "thailand noodles",
+        "volume": 60500,
+        "competition": 24
+      },
+      {
+        "keyword": "thainoodles",
+        "volume": 60500,
+        "competition": 24
+      },
+      {
+        "keyword": "pad thai restaurant",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "pad thai sauce",
+        "volume": 33100,
+        "competition": 75
+      },
+      {
+        "keyword": "chicken pad thai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "pai thai",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken padthai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "pad thai with pad thai sauce",
+        "volume": 33100,
+        "competition": 75
+      },
+      {
+        "keyword": "thai chicken pad thai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "thai food chicken pad thai",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "thai pad thai sauce",
+        "volume": 33100,
+        "competition": 75
+      },
+      {
+        "keyword": "baan phad thai",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "padthai cafe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "phat thai",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pad thai wokbar",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "pad thai rice noodles",
+        "volume": 14800,
+        "competition": 60
+      },
+      {
+        "keyword": "pad see ew noodles",
+        "volume": 12100,
+        "competition": 34
+      },
+      {
+        "keyword": "thai pad",
+        "volume": 12100,
+        "competition": 46
+      },
+      {
+        "keyword": "pan thai",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "pad thai cuisine",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "thaipad",
+        "volume": 12100,
+        "competition": 46
+      },
+      {
+        "keyword": "thai rice noodles",
+        "volume": 9900,
+        "competition": 79
+      },
+      {
+        "keyword": "pad see ew near me",
+        "volume": 9900,
+        "competition": 24
+      },
+      {
+        "keyword": "shrimp pad thai",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian pad thai",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "pad thai house",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "pad thai shop",
+        "volume": 9900,
+        "competition": 6
+      }
+    ]
+  },
+  "processed": false
+}

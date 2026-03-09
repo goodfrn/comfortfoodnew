@@ -1,0 +1,184 @@
+{
+  "slug": "avocados-sour-cream-twist",
+  "title": "Avocados with Sour Cream Twist",
+  "seed_keyword": "avocado appetizer",
+  "keywords": {
+    "primary": {
+      "keyword": "avocado appetizer",
+      "volume": 880,
+      "competition": 16
+    },
+    "secondary": [
+      {
+        "keyword": "avocado crostini",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado horderves",
+        "volume": 880,
+        "competition": 16
+      },
+      {
+        "keyword": "avocado hors d oeuvres",
+        "volume": 880,
+        "competition": 16
+      },
+      {
+        "keyword": "avocado and shrimp appetizer",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado shrimp appetizer",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado starter",
+        "volume": 210,
+        "competition": 11
+      },
+      {
+        "keyword": "avocado starter recipes",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado deviled egg",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "appetizer recipes with avocado",
+        "volume": 140,
+        "competition": 22
+      },
+      {
+        "keyword": "avocado appetizer ideas",
+        "volume": 140,
+        "competition": 22
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "avocado appetizer recipe",
+        "volume": 140,
+        "competition": 22
+      },
+      {
+        "keyword": "avocado bacon deviled eggs",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "deviled eggs with bacon and avocado",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "avocado spring rolls cheesecake factory",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado toast appetizer",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "smoked salmon and avocado starter recipes",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "all": [
+      {
+        "keyword": "avocado appetizer",
+        "volume": 880,
+        "competition": 16
+      },
+      {
+        "keyword": "avocado crostini",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado horderves",
+        "volume": 880,
+        "competition": 16
+      },
+      {
+        "keyword": "avocado hors d oeuvres",
+        "volume": 880,
+        "competition": 16
+      },
+      {
+        "keyword": "avocado and shrimp appetizer",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado shrimp appetizer",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado starter",
+        "volume": 210,
+        "competition": 11
+      },
+      {
+        "keyword": "avocado starter recipes",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado deviled egg",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "appetizer recipes with avocado",
+        "volume": 140,
+        "competition": 22
+      },
+      {
+        "keyword": "avocado appetizer ideas",
+        "volume": 140,
+        "competition": 22
+      },
+      {
+        "keyword": "avocado appetizer recipe",
+        "volume": 140,
+        "competition": 22
+      },
+      {
+        "keyword": "avocado bacon deviled eggs",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "deviled eggs with bacon and avocado",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "avocado spring rolls cheesecake factory",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado toast appetizer",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "smoked salmon and avocado starter recipes",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

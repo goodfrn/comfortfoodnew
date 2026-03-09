@@ -1,0 +1,113 @@
+{
+  "slug": "almond-pound-cake-twist",
+  "title": "Almond Pound Cake Twist",
+  "seed_keyword": "almond pound cake",
+  "keywords": {
+    "primary": {
+      "keyword": "almond pound cake",
+      "volume": 1900,
+      "competition": 14
+    },
+    "secondary": [
+      {
+        "keyword": "almond pound cake recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "almond flour pound cake",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "almond meal pound cake",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "almond pound cake with almond flour",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "almond bundt cake recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "almond amaretto pound cake",
+        "volume": 140,
+        "competition": 4
+      },
+      {
+        "keyword": "almond flour pound cake recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "tastefully simple almond pound cake",
+        "volume": 110,
+        "competition": 50
+      },
+      {
+        "keyword": "almond flour bundt cake",
+        "volume": 110,
+        "competition": 0
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "almond pound cake",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "almond pound cake recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "almond flour pound cake",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "almond meal pound cake",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "almond pound cake with almond flour",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "almond bundt cake recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "almond amaretto pound cake",
+        "volume": 140,
+        "competition": 4
+      },
+      {
+        "keyword": "almond flour pound cake recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "tastefully simple almond pound cake",
+        "volume": 110,
+        "competition": 50
+      },
+      {
+        "keyword": "almond flour bundt cake",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

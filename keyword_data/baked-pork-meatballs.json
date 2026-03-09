@@ -1,0 +1,83 @@
+{
+  "slug": "baked-pork-meatballs",
+  "title": "Baked Pork Meatballs Winter Veggies",
+  "seed_keyword": "baked pork meatballs",
+  "keywords": {
+    "primary": {
+      "keyword": "pork meatballs in oven",
+      "volume": 480,
+      "competition": 0
+    },
+    "secondary": [
+      {
+        "keyword": "baked pork meatballs",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "pork meatballs temperature",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pork meatball recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "cooked pork meatballs",
+        "volume": 140,
+        "competition": 6
+      },
+      {
+        "keyword": "pork and beef meatballs in oven",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "pork beef meatballs oven",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "pork meatballs in oven",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pork meatballs",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "pork meatballs temperature",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pork meatball recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "cooked pork meatballs",
+        "volume": 140,
+        "competition": 6
+      },
+      {
+        "keyword": "pork and beef meatballs in oven",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "pork beef meatballs oven",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

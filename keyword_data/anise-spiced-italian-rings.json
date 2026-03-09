@@ -1,0 +1,33 @@
+{
+  "slug": "anise-spiced-italian-rings",
+  "title": "Anise-Spiced Italian Rings",
+  "seed_keyword": "anise biscuits",
+  "keywords": {
+    "primary": {
+      "keyword": "anise biscuits",
+      "volume": 390,
+      "competition": 15
+    },
+    "secondary": [
+      {
+        "keyword": "italian anise",
+        "volume": 140,
+        "competition": 39
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "anise biscuits",
+        "volume": 390,
+        "competition": 15
+      },
+      {
+        "keyword": "italian anise",
+        "volume": 140,
+        "competition": 39
+      }
+    ]
+  },
+  "processed": false
+}

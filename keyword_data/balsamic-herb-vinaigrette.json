@@ -1,0 +1,514 @@
+{
+  "slug": "balsamic-herb-vinaigrette",
+  "title": "Balsamic Herb Vinaigrette",
+  "seed_keyword": "balsamic vinaigrette recipe",
+  "keywords": {
+    "primary": {
+      "keyword": "balsamic vinaigrette",
+      "volume": 74000,
+      "competition": 52
+    },
+    "secondary": [
+      {
+        "keyword": "balsamic vinegar vinaigrette",
+        "volume": 74000,
+        "competition": 52
+      },
+      {
+        "keyword": "balsamic vinaigrette recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinaigrette dressing recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinaigrette sauce recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinegar salad dressing recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinegar vinaigrette recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for a balsamic vinaigrette",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe with balsamic vinaigrette",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar dressing",
+        "volume": 33100,
+        "competition": 53
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "balsamic and vinegar dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic sauce dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar at dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar salad dressing",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "balsamic dressing recipe",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "balsamic vinegar dressing recipe",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "balsamic dressing for salad",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "balsamic sauce for salad",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "recipes with balsamic dressing",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "honey balsamic dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic and honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar and honey dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar and honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar dressing with honey",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic with honey dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "honey and balsamic dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "honey and balsamic salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "salad dressing with honey and balsamic vinegar",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "vinaigrette balsamic dressing",
+        "volume": 6600,
+        "competition": 63
+      },
+      {
+        "keyword": "balsamic vinegar and olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "olive oil balsamic dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic and olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic and olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinaigrette olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinaigrette with olive oil",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinegar & olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinegar and olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinegar olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "olive oil and balsamic vinaigrette",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinaigrette salad dressing",
+        "volume": 4400,
+        "competition": 34
+      },
+      {
+        "keyword": "balsamic vinegar recipes",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "balsamic for salad",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "balsamic salads",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "balsamic vinaigrette dressing salad",
+        "volume": 4400,
+        "competition": 34
+      },
+      {
+        "keyword": "balsamic vinaigrette salads",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "balsamic vinegar for salad",
+        "volume": 4400,
+        "competition": 24
+      }
+    ],
+    "all": [
+      {
+        "keyword": "balsamic vinaigrette",
+        "volume": 74000,
+        "competition": 52
+      },
+      {
+        "keyword": "balsamic vinegar vinaigrette",
+        "volume": 74000,
+        "competition": 52
+      },
+      {
+        "keyword": "balsamic vinaigrette recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinaigrette dressing recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinaigrette sauce recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinegar salad dressing recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinegar vinaigrette recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for a balsamic vinaigrette",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe with balsamic vinaigrette",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic and vinegar dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic sauce dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar at dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar salad dressing",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "balsamic dressing recipe",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "balsamic vinegar dressing recipe",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "balsamic dressing for salad",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "balsamic sauce for salad",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "recipes with balsamic dressing",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "honey balsamic dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic and honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar and honey dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar and honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar dressing with honey",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic vinegar honey salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "balsamic with honey dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "honey and balsamic dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "honey and balsamic salad dressing",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "salad dressing with honey and balsamic vinegar",
+        "volume": 6600,
+        "competition": 73
+      },
+      {
+        "keyword": "vinaigrette balsamic dressing",
+        "volume": 6600,
+        "competition": 63
+      },
+      {
+        "keyword": "balsamic vinegar and olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "olive oil balsamic dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic and olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic and olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinaigrette olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinaigrette with olive oil",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinegar & olive oil dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinegar and olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinegar olive oil salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "olive oil and balsamic vinaigrette",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinaigrette salad dressing",
+        "volume": 4400,
+        "competition": 34
+      },
+      {
+        "keyword": "balsamic vinegar recipes",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "balsamic for salad",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "balsamic salads",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "balsamic vinaigrette dressing salad",
+        "volume": 4400,
+        "competition": 34
+      },
+      {
+        "keyword": "balsamic vinaigrette salads",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "balsamic vinegar for salad",
+        "volume": 4400,
+        "competition": 24
+      }
+    ]
+  },
+  "processed": false
+}

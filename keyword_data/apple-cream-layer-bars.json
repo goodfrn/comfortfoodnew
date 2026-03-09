@@ -1,0 +1,43 @@
+{
+  "slug": "apple-cream-layer-bars",
+  "title": "Apple Cream Layer Bars",
+  "seed_keyword": "apple cream cheese bars",
+  "keywords": {
+    "primary": {
+      "keyword": "apple cheesecake crisp",
+      "volume": 1600,
+      "competition": 3
+    },
+    "secondary": [
+      {
+        "keyword": "apple crumb cheesecake bars",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cream cheese bars",
+        "volume": 260,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "apple cheesecake crisp",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "apple crumb cheesecake bars",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple cream cheese bars",
+        "volume": 260,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,103 @@
+{
+  "slug": "applesauce-brownies-remix",
+  "title": "Applesauce Brownies Remix",
+  "seed_keyword": "applesauce brownies",
+  "keywords": {
+    "primary": {
+      "keyword": "applesauce brownies",
+      "volume": 1600,
+      "competition": 0
+    },
+    "secondary": [
+      {
+        "keyword": "applesauce chocolate brownies",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "brownies using applesauce",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate brownies with applesauce",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "applesauce brownie recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "brownies with applesauce instead of oil",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "brownie made with applesauce",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "brownies with applesauce instead of egg",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "healthy applesauce brownies",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "applesauce brownies",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "applesauce chocolate brownies",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "brownies using applesauce",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate brownies with applesauce",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "applesauce brownie recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "brownies with applesauce instead of oil",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "brownie made with applesauce",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "brownies with applesauce instead of egg",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "healthy applesauce brownies",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

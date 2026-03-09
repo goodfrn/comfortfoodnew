@@ -1,0 +1,33 @@
+{
+  "slug": "bacon-wrapped-jalapeno-corn",
+  "title": "Bacon Wrapped Jalapeño Corn",
+  "seed_keyword": "bacon wrapped corn on the cob",
+  "keywords": {
+    "primary": {
+      "keyword": "bacon wrapped corn on the cob",
+      "volume": 320,
+      "competition": 2
+    },
+    "secondary": [
+      {
+        "keyword": "bacon wrapped corn",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "bacon wrapped corn on the cob",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon wrapped corn",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

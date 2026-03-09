@@ -1,0 +1,164 @@
+{
+  "slug": "amatriciana-twist-pasta",
+  "title": "Amatriciana Twist Pasta",
+  "seed_keyword": "bucatini amatriciana",
+  "keywords": {
+    "primary": {
+      "keyword": "bucatini all amatriciana",
+      "volume": 40500,
+      "competition": 7
+    },
+    "secondary": [
+      {
+        "keyword": "amatriciana recipes",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "spaghetti all amatriciana",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "all amatriciana",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "all amatriciana sauce",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "sauce all amatriciana",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "bucatini amatriciana",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "penne alla matriciana",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "amatriciana recept",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "amatriciana sauce ingredients",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "amatriciana bucatini",
+        "volume": 720,
+        "competition": 3
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "amatriciana near me",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "bucatini guanciale",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "amatriciana main ingredients",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "bucatini al",
+        "volume": 110,
+        "competition": 1
+      }
+    ],
+    "all": [
+      {
+        "keyword": "bucatini all amatriciana",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "amatriciana recipes",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "spaghetti all amatriciana",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "all amatriciana",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "all amatriciana sauce",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "sauce all amatriciana",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "bucatini amatriciana",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "penne alla matriciana",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "amatriciana recept",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "amatriciana sauce ingredients",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "amatriciana bucatini",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "amatriciana near me",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "bucatini guanciale",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "amatriciana main ingredients",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "bucatini al",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

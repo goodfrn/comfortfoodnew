@@ -1,0 +1,204 @@
+{
+  "slug": "baked-pizza-tortellini",
+  "title": "Baked Pizza Tortellini Casserole",
+  "seed_keyword": "baked tortellini casserole",
+  "keywords": {
+    "primary": {
+      "keyword": "tortellini casserole",
+      "volume": 1900,
+      "competition": 6
+    },
+    "secondary": [
+      {
+        "keyword": "cheese tortellini bake",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesy tortellini bake",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tortellini bake",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken tortellini casserole",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "baked tortellini casserole",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for tortellini casserole",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe tortellini casserole",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "tortellini baked casserole",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and tortellini bake",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "pizza tortellini bake",
+        "volume": 320,
+        "competition": 1
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "tortellini bake with chicken",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo tortellini bake",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "easy tortellini bake",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "ground beef tortellini casserole",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "tortellini bake with ground beef",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese tortellini casserole",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "spinach tortellini bake",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "tortellini casserole with spinach",
+        "volume": 110,
+        "competition": 2
+      }
+    ],
+    "all": [
+      {
+        "keyword": "tortellini casserole",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "cheese tortellini bake",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesy tortellini bake",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tortellini bake",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken tortellini casserole",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "baked tortellini casserole",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for tortellini casserole",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe tortellini casserole",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "tortellini baked casserole",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and tortellini bake",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "pizza tortellini bake",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "tortellini bake with chicken",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo tortellini bake",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "easy tortellini bake",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "ground beef tortellini casserole",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "tortellini bake with ground beef",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese tortellini casserole",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "spinach tortellini bake",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "tortellini casserole with spinach",
+        "volume": 110,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

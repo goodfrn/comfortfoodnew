@@ -1,0 +1,22 @@
+{
+  "slug": "balsamic-rosemary-chicken",
+  "title": "Balsamic Rosemary Chicken",
+  "seed_keyword": "balsamic rosemary chicken recipe",
+  "keywords": {
+    "primary": {
+      "keyword": "balsamic rosemary chicken",
+      "volume": 260,
+      "competition": 0
+    },
+    "secondary": [],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "balsamic rosemary chicken",
+        "volume": 260,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

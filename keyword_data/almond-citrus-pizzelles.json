@@ -1,0 +1,22 @@
+{
+  "slug": "almond-citrus-pizzelles",
+  "title": "Almond Citrus Pizzelles",
+  "seed_keyword": "almond pizzelles",
+  "keywords": {
+    "primary": {
+      "keyword": "almond pizzelle recipe",
+      "volume": 140,
+      "competition": 2
+    },
+    "secondary": [],
+    "lsi": [],
+    "all": [
+      {
+        "keyword": "almond pizzelle recipe",
+        "volume": 140,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}
