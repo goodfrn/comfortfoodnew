@@ -1,10 +1,10 @@
 ---
-title: "Autumn Chicken Pot"
+title: "Autumn Chicken Pot with Root Vegetables"
 slug: "autumn-chicken-pot"
-description: "Chicken breasts poached with fall root vegetables in a lightly seasoned broth. Turnip, carrots, and leek mingle with celery and aromatic herbs. Finished with lemon zest and fresh tarragon for a refreshing touch. Simple, light, gluten-free, dairy-free, egg-free, and nut-free. Served with rustic whole wheat bread if wanted. Total cook time about 40 minutes with brief simmering stages to keep vegetables tender-crisp. Balanced savory and bright flavors."
-metaDescription: "Autumn Chicken Pot with parsnip, carrots, leek, and fresh tarragon in poached chicken broth. Light, gluten-free, dairy-free, and ready under 50 minutes."
-ogDescription: "Poached chicken breasts with autumn root vegetables, lemon zest, and fresh tarragon. Crisp textures, gentle flavors, gluten and dairy free. Ready in 45 minutes."
-focusKeyphrase: "Autumn Chicken Pot"
+description: "Poached chicken pot with fall root vegetables, turnip, carrots, and leek in seasoned broth. Light, gluten-free, and ready in 40 minutes."
+metaDescription: "Autumn chicken pot recipe with root vegetables, tender-crisp turnip and carrots. Light broth, fresh tarragon. Try it tonight."
+ogDescription: "Poached chicken with fall root vegetables in a light broth. Simple, gluten-free, ready in 40 minutes."
+focusKeyphrase: "chicken pot"
 date: 2025-07-26
 draft: false
 image: autumn-chicken-pot.jpg
@@ -22,8 +22,10 @@ tags:
 - "one pot"
 keywords:
 - "chicken pot"
-- "parsnip recipes"
-- "tarragon chicken"
+- "chicken pot pie"
+- "easy chicken pot pie"
+- "chicken mushroom leek pie"
+- "homemade chicken pot pie"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

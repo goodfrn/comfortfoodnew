@@ -1,10 +1,10 @@
 ---
-title: "Apple Cinnamon Infusion"
+title: "Apple Cinnamon Infusion Recipe"
 slug: "apple-cinnamon-infusion"
-description: "A warming infusion using orange peels and dried apple slices steeped in hot water with a cinnamon stick. Takes about 10 to 20 minutes to brew. Citrus and spice notes mingle. Dairy, gluten, nut, and egg-free. Vegan friendly. Yield roughly 300 ml or 1.25 cups. Aromatic and slightly tangy with cinnamon warmth."
-metaDescription: "Discover the Apple Cinnamon Infusion recipe. A twist on traditional flavors with orange, apple, and cinnamon blend for a soothing drink"
-ogDescription: "Warm up with this Apple Cinnamon Infusion. Citrus, spice, and a touch of sweetness in every sip. Perfect for cozy moments"
-focusKeyphrase: "Apple Cinnamon Infusion"
+description: "Homemade apple cinnamon herbal tea with orange peels and cinnamon sticks. Steep 10-20 minutes for an aromatic, vegan-friendly drink with citrus warmth."
+metaDescription: "Make apple cinnamon herbal tea at home with dried apples, orange peels, and cinnamon. Ready in 10-20 minutes. Vegan and allergy-free."
+ogDescription: "Steep dried apples and cinnamon for a citrus-spiced herbal tea. Homemade in minutes. Vegan and naturally caffeine-free."
+focusKeyphrase: "apple cinnamon herbal tea"
 date: 2025-07-17
 draft: false
 image: apple-cinnamon-infusion.jpg
@@ -21,9 +21,11 @@ tags:
 - "drink"
 - "vegan"
 keywords:
-- "apple infusion"
-- "citrus tea"
-- "vegan beverages"
+- "apple cinnamon herbal tea"
+- "apple herbal"
+- "homemade herbal tea"
+- "cinnamon apple spice"
+- "vegan tea recipe"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "15"

@@ -1,10 +1,10 @@
 ---
-title: "Balsamic Roasted Roots"
+title: "Balsamic Roasted Root Vegetables"
 slug: "balsamic-roasted-roots"
-description: "Roasting root veggies with balsamic and herbs. Preheat oven near 400F, toss chopped roots in a mixture of vinegar, oil, seasoning, salt, and pepper. Use a slotted spoon to transfer evenly spaced onto a rimmed sheet. Roast until edges caramelize and veggies soften, listen for gentle crackle, smell that sweet tang warming the kitchen. Remove, let steam escape before serving. Adapt with substitute herbs or swap oil. Watch for visual doneness rather than strict times."
-metaDescription: "Balsamic roasted roots, earthy carrots and parsnips with sweet potatoes. Tangy herbes de Provence, crackling edges, caramelized, perfectly roasted veggies"
-ogDescription: "Roast root veggies tossed in balsamic vinegar and herbs. Listen for crackling, watch edges brown, steam escapes before serving, tweak herbs or oil easily"
-focusKeyphrase: "balsamic roasted roots"
+description: "Roasted root vegetables with balsamic vinegar, caramelized edges, and crispy corners. Simple toss-and-roast method that works with any roots. Ready in under 45 minutes."
+metaDescription: "Roasted root vegetables recipe with balsamic vinegar and herbs. Caramelize roots in one pan. Save this easy side dish."
+ogDescription: "Roasted balsamic root vegetables with caramelized edges and that sweet vinegar tang. One pan, minimal prep."
+focusKeyphrase: "roasted root vegetables recipe with balsamic"
 date: 2025-12-02
 draft: false
 image: balsamic-roasted-roots.jpg
@@ -21,11 +21,11 @@ tags:
 - "healthy"
 - "easy"
 keywords:
-- "root vegetables"
-- "balsamic vinegar"
-- "roasted carrots"
-- "parsnips"
-- "sweet potatoes"
+- "roasted root vegetables recipe with balsamic"
+- "balsamic roasted root vegetables"
+- "roasted root vegetables with balsamic vinegar"
+- "roasted balsamic root vegetables"
+- "roasted root vegetables balsamic glaze"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "130"

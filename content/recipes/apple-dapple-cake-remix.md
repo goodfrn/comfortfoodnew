@@ -1,10 +1,10 @@
 ---
-title: "Apple Dapple Cake Remix"
+title: "Apple Cake with Caramel Drizzle"
 slug: "apple-dapple-cake-remix"
-description: "A lightly tweaked apple cake packed with diced apples and pecans, topped with a creamy caramel drizzle. Flour and baking soda form the base. Switched brown sugar for coconut sugar for a richer depth. Vanilla swapped with almond extract—adds unexpected warmth. Pecans split: half stirred in, half sprinkled. Dulce de leche softened with coconut cream, not heavy cream. Batter spread in a nonstick 9x13, baked till golden with toothpick cues. Aroma shifts from raw apple to caramel in the final stages. Nutty crunch surrounds every slice. Moist crumb, not dense. Easy swaps and timing tips included for kitchen wins. Flavor balanced with spice, sweetness, and texture interplay."
-metaDescription: "Apple Dapple Cake Remix, packed with diced apples and pecans, kissed with almond extract and coconut cream caramel drizzle. Moist crumb, nutty crunch punch."
-ogDescription: "Cinnamon-spiced apple cake, pecans split for crunch, almond extract warming batter, coconut cream dulce de leche drizzle—bite into layered textures and flavors."
-focusKeyphrase: "apple dapple cake remix"
+description: "Moist apple cake loaded with diced apples and pecans, topped with creamy caramel drizzle. Brown sugar and almond extract add depth. Easy recipe with nutty crunch and balanced spice."
+metaDescription: "Apple cake recipe with caramel topping. Diced apples, pecans, and dulce de leche drizzle. Moist crumb, easy to bake. Try it tonight."
+ogDescription: "Apple cake packed with pecans and topped with caramel. Moist, nutty, and surprisingly simple to make at home."
+focusKeyphrase: "apple cake"
 date: 2025-10-16
 draft: false
 image: apple-dapple-cake-remix.jpg
@@ -22,8 +22,10 @@ tags:
 - "comfort food"
 keywords:
 - "apple cake"
-- "pecans"
-- "dulce de leche"
+- "apple cake caramel"
+- "apple and caramel cake"
+- "apple crumb cake"
+- "applesauce cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "325"

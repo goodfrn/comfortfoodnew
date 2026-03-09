@@ -1,10 +1,10 @@
 ---
-title: "Bacon Chive Cheese Ball"
+title: "Bacon Cheese Ball with Ranch & Walnuts"
 slug: "bacon-chive-cheese-ball"
-description: "Bacon crisped low and slow, cream cheese blended deep with ranch, garlic, salt, pepper and fresh chives. Sharp cheddar folds in with bacon bits, then rolled in chopped walnuts and more bacon-chive mix. Chill long enough to firm up. Crunchy outside, creamy inside. Bacon can be swapped for smoked turkey or pancetta. Garlic powder can be fresh minced but watch moisture. The walnuts add texture contrast, swap for pecans if preferred. Chill time can flex but don't skip it. A classic crowd pleaser with a savory, flaky crust and luscious cheesy core."
-metaDescription: "Bacon Chive Cheese Ball with sharp cheddar, creamy ranch blend, crunchy walnuts and bacon. Chill long for rich, textured snack with savory nutty crust."
-ogDescription: "Crunchy walnut bacon coat holds creamy cheeseball core with ranch zing and fresh chives. Chill hours to firm up, bring out bacon snap with garlic hints."
-focusKeyphrase: "Bacon Chive Cheese Ball"
+description: "Crispy bacon folded into creamy ranch cheese ball with sharp cheddar and fresh chives, rolled in walnuts. Make-ahead appetizer that's crunchy outside, luscious inside."
+metaDescription: "Bacon cheese ball recipe with ranch, cheddar, and walnuts. Crispy outside, creamy center. Perfect make-ahead appetizer. Try it tonight."
+ogDescription: "Bacon cheese ball loaded with ranch, sharp cheddar, and fresh chives. Walnut crust keeps it crunchy. Classic crowd pleaser."
+focusKeyphrase: "bacon cheese ball"
 date: 2026-01-13
 draft: false
 image: bacon-chive-cheese-ball.jpg
@@ -22,8 +22,10 @@ tags:
 - "easy"
 keywords:
 - "bacon cheese ball"
-- "ranch cheese ball"
-- "cheddar cheese ball"
+- "bacon ranch cheese ball"
+- "bacon cheddar cheese ball"
+- "cheese ball with bacon and ranch"
+- "bacon cheese ball recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "306"

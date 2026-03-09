@@ -1,10 +1,10 @@
 ---
-title: "Apple Biscuit Monkey Bread"
+title: "Apple Monkey Bread with Biscuits"
 slug: "apple-biscuit-monkey-bread"
-description: "A quick sweet treat mixing chopped apples with biscuit dough coated in spiced brown sugar, baked in a butter-greased bundt pan until the top crisps to golden brown. Finished with a simple powdered sugar drizzle for a sticky, gooey pull-apart experience. Variations include using fresh or granny smith apples, adding toasted nuts, or swapping biscuits with cinnamon roll dough for added richness. Watch for bubbling sugar and buttery smell signaling readiness. Serve warm. Leftovers reheat well but lose crispness."
-metaDescription: "Apple Biscuit Monkey Bread spins spiced brown sugar and tart apples with biscuit dough for a crisp-topped, gooey, pull-apart treat baked in a bundt pan."
-ogDescription: "Crunchy caramelized sugar meets tender apples and biscuit dough in a buttery bundt treat. Watch the crackles and golden edges for ready signals."
-focusKeyphrase: "Apple Biscuit Monkey Bread"
+description: "Pull-apart apple monkey bread made with biscuit dough, brown sugar, and spices. Baked in a bundt pan until golden and sticky. Easy weeknight dessert."
+metaDescription: "Apple monkey bread recipe using biscuits and brown sugar. Golden, sticky, pull-apart dessert. Make it tonight."
+ogDescription: "Apple monkey bread with biscuits and cinnamon sugar. Warm, gooey pull-apart dessert that's ready in under an hour."
+focusKeyphrase: "apple monkey bread"
 date: 2025-12-19
 draft: false
 image: apple-biscuit-monkey-bread.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "apple biscuit bread"
-- "bundt pan monkey bread"
-- "brown sugar cinnamon apples"
+- "apple monkey bread"
+- "apple monkey bread recipe"
+- "monkey bread with apples"
+- "apple cinnamon pull apart bread"
+- "apple caramel monkey bread"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

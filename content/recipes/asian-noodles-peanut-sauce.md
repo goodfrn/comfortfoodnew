@@ -1,10 +1,10 @@
 ---
-title: "Asian Noodles with Peanut Sauce"
+title: "Thai Peanut Noodles with Tahini Sauce"
 slug: "asian-noodles-peanut-sauce"
-description: "Rice noodles soaked until tender but still firm. Sauce with chicken stock, apple cider vinegar replacing rice vinegar, peanut butter blended with tahini for depth, soy sauce, brown sugar, fish sauce, and a milder chili paste swap sambal for a smoky chipotle. Carrots julienned finely, quick sauté in sesame oil instead of peanut, scallions, garlic, fresh cilantro, topped with chopped roasted almonds instead of peanuts. Mix noodles in sauce and veggies, toss for full coating. Garnish with herbs and nuts. Cook and prep times adjusted around 20 minutes each."
-metaDescription: "Asian Noodles with Peanut Sauce. Rice noodles soaked then tossed in a rich sauce with peanut butter, tahini, chipotle, and tangy apple cider vinegar. Quick veggie sauté."
-ogDescription: "Rice noodles coated in peanut-tahini sauce, smoky chipotle heat, sautéed carrots, scallions, garlic. Crunchy almonds, fresh cilantro finish. Stir. Toss. Eat warm."
-focusKeyphrase: "Asian noodles with peanut sauce"
+description: "Thai peanut noodles with rice noodles, peanut butter and tahini sauce, quick-sautéed carrots, and roasted almonds. Ready in 20 minutes."
+metaDescription: "Thai peanut noodles recipe with peanut butter tahini sauce, fresh veggies, and roasted almonds. Easy 20-minute dinner. Try it tonight."
+ogDescription: "Thai peanut noodles tossed with creamy peanut butter sauce, sesame-sautéed carrots, and crunchy almonds. Quick enough for weeknight dinner."
+focusKeyphrase: "thai peanut noodles"
 date: 2025-07-27
 draft: false
 image: asian-noodles-peanut-sauce.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy dinner"
 - "main dish"
 keywords:
-- "peanut sauce noodles"
-- "rice noodle stir-fry"
-- "chipotle chili noodles"
+- "thai peanut noodles"
+- "peanut butter noodle recipes"
+- "peanut sauce noodle recipe"
+- "asian noodles with peanut sauce"
+- "thai peanut noodle recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "385"

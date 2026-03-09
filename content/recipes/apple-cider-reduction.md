@@ -1,10 +1,10 @@
 ---
-title: "Apple Cider Reduction"
+title: "Apple Cider Reduction Recipe"
 slug: "apple-cider-reduction"
-description: "A syrupy apple cider concoction thickened with arrowroot and speckled with warm spices. Combines fresh apple cider, apple cider vinegar, and a hint of butter. Brown sugar swapped for coconut sugar to deepen and balance sweetness. The process relies heavily on watching the boil and aroma shifts, not just timers. The mix thickens carefully, bubbles becoming bigger and duller when it’s ready. Cinnamon, allspice, ginger, and cloves form a spicy backbone but now balanced with star anise for a subtle licorice hint. Perfect for drizzling or glazing with tangible texture. Comes together in about 20 minutes, yields roughly a dozen servings, and demands close attention. Slight tweaks in stirring frequency help avoid lumps and burnt spots. Salt anchors the flavors and reduces any cloying taste. A practical, sensory-driven approach with suggestions for substitutions and problem fixes included."
-metaDescription: "Apple Cider Reduction made with arrowroot and warm spices for thick, textured syrup. Watch bubbles change, adjust heat, and opt for coconut sugar or spice swaps."
-ogDescription: "Thick, spiced apple cider syrup using arrowroot and coconut sugar. Watch bubble size and aroma for cues. Vegan options and spice swaps included."
-focusKeyphrase: "Apple Cider Reduction"
+description: "Learn to make apple cider reduction with fresh cider, vinegar, and warm spices. A syrupy glaze ready in 20 minutes that works for drizzling or glazing."
+metaDescription: "Apple cider reduction recipe with cinnamon, allspice, and ginger. Thickens to a glaze in 20 minutes. Try it tonight."
+ogDescription: "Syrupy apple cider reduction with warm spices and a hint of butter. Ready in 20 minutes, perfect for drizzling."
+focusKeyphrase: "apple cider reduction"
 date: 2025-10-17
 draft: false
 image: apple-cider-reduction.jpg
@@ -21,9 +21,11 @@ tags:
 - "cinnamon"
 - "condiment"
 keywords:
-- "apple cider"
-- "arrowroot"
-- "coconut sugar"
+- "apple cider reduction"
+- "cider reduction"
+- "apple cider glaze"
+- "spiced apple reduction"
+- "homemade cider syrup"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "45"

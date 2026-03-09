@@ -1,10 +1,10 @@
 ---
-title: "Baked Eggplant Rollatini"
+title: "Baked Eggplant Rollatini with Spinach"
 slug: "baked-eggplant-rollatini"
-description: "Thin eggplant slices baked until flexible, filled with a blend of ricotta, roasted red peppers, and wilted spinach. Rolled tight, topped with herbed tomato sauce and a mix of mozzarella and parmesan cheeses. Baked until bubbly with a golden crust. Textural play between creamy filling and tender eggplant. Moderate prep and cook time, serves four. Uses fresh spinach wilted quickly with garlic. Ricotta must be drained to avoid watery filling. Tomato sauce mixed with oregano for subtle herbal notes. Cheese topping forms a crunchy, melty finish. Adjust bake times by looking for lightly browned edges on eggplant and bubbly cheese for doneness."
-metaDescription: "Baked Eggplant Rollatini with ricotta, roasted peppers, wilted spinach. Tender eggplant rolled and baked with herbed tomato sauce, mozzarella, and Parmesan crust."
-ogDescription: "Tender eggplant slices rolled with ricotta, spinach, roasted peppers. Baked in oregano tomato sauce, topped with bubbling mozzarella, Parmesan crust. Bake cues key."
-focusKeyphrase: "Baked Eggplant Rollatini"
+description: "Thin eggplant slices filled with ricotta, roasted red peppers, and wilted spinach, then baked with tomato sauce and melted cheese. Creamy, tender, and ready in under an hour."
+metaDescription: "Baked eggplant rollatini with spinach recipe. Ricotta and cheese filling, herbed tomato sauce, golden crust. Make it tonight."
+ogDescription: "Creamy ricotta and spinach stuffed eggplant, baked until golden with bubbly cheese. Italian comfort food that actually works."
+focusKeyphrase: "eggplant rollatini with spinach"
 date: 2026-01-25
 draft: false
 image: baked-eggplant-rollatini.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "italian"
 keywords:
-- "eggplant rollatini"
-- "baked rollatini"
-- "ricotta spinach rolls"
+- "eggplant rollatini with spinach"
+- "baked eggplant rollatini"
+- "eggplant rollatini recipe"
+- "ricotta spinach eggplant"
+- "italian eggplant dishes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"

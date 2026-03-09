@@ -1,10 +1,10 @@
 ---
-title: "Amatriciana Twist Pasta"
+title: "Bucatini All Amatriciana with Guanciale"
 slug: "amatriciana-twist-pasta"
-description: "Pasta with smoky guanciale and sun-dried tomatoes cooked in olive oil with garlic and white wine. Bucatini simmered al dente, tossed in a rich sauce with pecorino and fresh parsley. Slightly reduced pancetta, added chili flakes for hint of heat. Cooking steps shuffled: sauce first, then pasta, then cheese. Sun-dried tomato adds depth contrasting the cured pork. Shorter simmer on tomatoes, slower pancetta render. Water from pasta used to bind sauce instead of extra oil. Mild tweak on traditional flavors, gluten-free, no nuts or eggs."
-metaDescription: "Amatriciana Twist Pasta with smoky guanciale, sun-dried tomatoes, garlic, white wine. Bucatini tossed al dente in pecorino-rich rustic sauce with chili flakes."
-ogDescription: "Smoky guanciale meets sun-dried tomatoes and garlic. Bucatini simmers, tossed in chunky pecorino sauce with white wine and chili hint. Rustic Italian flavor."
-focusKeyphrase: "Amatriciana Twist Pasta"
+description: "Smoky guanciale and sun-dried tomatoes make this bucatini all amatriciana rich and deep. White wine, garlic, pecorino, and pasta water bind it all together."
+metaDescription: "Bucatini all amatriciana with guanciale, sun-dried tomatoes, and pecorino. Smoky, tangy, simple. Make it tonight."
+ogDescription: "Smoky guanciale and sun-dried tomatoes in a rich bucatini all amatriciana. Simple, tangy, worth making."
+focusKeyphrase: "bucatini all amatriciana"
 date: 2025-07-27
 draft: false
 image: amatriciana-twist-pasta.jpg
@@ -21,9 +21,11 @@ tags:
 - "spicy"
 - "comfort food"
 keywords:
-- "bucatini"
-- "Italian pasta sauce"
-- "chili flakes"
+- "bucatini all amatriciana"
+- "amatriciana recipes"
+- "all amatriciana sauce"
+- "bucatini guanciale"
+- "amatriciana sauce ingredients"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "490"

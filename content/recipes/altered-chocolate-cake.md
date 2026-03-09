@@ -1,10 +1,10 @@
 ---
-title: "Altered Chocolate Cake"
+title: "Chocolate Cake Recipe with Espresso"
 slug: "altered-chocolate-cake"
-description: "A chocolate cake riff with altered ingredient ratios, sour cream, and espresso for added depth. Baking pans greased and floured keeps the crust from stubborn sticking, a frequent rookie error. Hot espresso replaces coffee; more intense, richer. Butter swapped for ghee, adds nuttiness and heat stability. Mixing order shifted for better emulsification—dry ingredients first, then liquids. Eggs added last for structure. Frosting chocolate bar melted instead of cocoa powder in buttercream, richer cocoa flavor with real texture. Heavy cream thinned to consistency, adjustable on the fly. This cake smells like a bakery in your kitchen, moist crumb, crumbly but fluffy. Watch the edges pull away from pans, toothpick not only dry but feels tacky before it's done—patience needed. Frosting smoothness varies with cream; cold kitchens need more softening. Recipe yields 14 servings, each around 735 calories."
-metaDescription: "Altered Chocolate Cake with ghee, hot espresso, and melted bittersweet chocolate frosting. Moist crumb, textured buttercream, 14 servings loaded with rich cocoa flavor."
-ogDescription: "Chocolate cake flipped—ghee for butter, espresso swaps coffee, melted bittersweet chocolate in frosting. Moist crumb, complex aroma that fills the kitchen."
-focusKeyphrase: "Altered Chocolate Cake"
+description: "Chocolate cake recipe with espresso, sour cream, and ghee for rich flavor. Moist crumb, intense cocoa frosting. Baking tips to prevent sticking."
+metaDescription: "Chocolate cake recipe with espresso and sour cream. Rich, moist layers with chocolate buttercream frosting. Try it tonight."
+ogDescription: "Chocolate cake with espresso and sour cream. Moist crumb, rich cocoa frosting, bakery-quality taste at home."
+focusKeyphrase: "chocolate cake recipe"
 date: 2026-01-14
 draft: false
 image: altered-chocolate-cake.jpg
@@ -21,10 +21,11 @@ tags:
 - "espresso"
 - "homemade"
 keywords:
-- "chocolate cake"
-- "espresso in cake"
-- "ghee baking"
-- "melted chocolate frosting"
+- "chocolate cake recipe"
+- "moist chocolate cake"
+- "best chocolate cake recipe"
+- "easy chocolate cake recipe"
+- "simple chocolate cake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "735"

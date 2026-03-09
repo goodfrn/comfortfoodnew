@@ -1,10 +1,10 @@
 ---
-title: "Almond Citrus Pizzelles"
+title: "Almond Pizzelle Recipe With Lemon"
 slug: "almond-citrus-pizzelles"
-description: "Crunchy Italian pizzelles with a twist: almond meal swapped for hazelnut flour paired with lemon zest. Reworked flour ratio with spelt and oat flour delivering nutty, earthy notes. Olive oil replaces vegetable oil for a fragrant touch. Egg whites whipped for lighter texture. Beat sugar with citrus zest to unlock aroma. Cooked till edges crisp golden brown, wire rack cooling preserves snap. Liqueur switched from amaretto to limoncello, bright punch. Pizzelles keep airtight 10 days max, freezer safe 2 months. Bake time shorter, watch browning over timer. Sticky batter, delicate folding, careful spooning—technique shapes final crackle. No em dash, only commas. Adapted quantities to fit home kitchen scale, ingredient swaps, and flavor shift. No fluff, straight to kitchen rhythms."
-metaDescription: "Almond Citrus Pizzelles swap almond meal for hazelnut flour paired with lemon zest. Crisp, nutty, citrus aroma; egg whites lighten texture; olive oil and limoncello twist flavor."
-ogDescription: "Crunchy Italian pizzelles using hazelnut flour and lemon zest. Watch edges for golden crisp; whip egg whites right; cook 45-50 seconds. Stored airtight up to 10 days."
-focusKeyphrase: "Almond Citrus Pizzelles"
+description: "Almond pizzelle recipe with lemon zest, spelt flour, and limoncello. Crispy Italian waffle cookies with nutty depth and bright citrus. Keep fresh 10 days."
+metaDescription: "Almond pizzelle recipe: lemon zest, spelt flour, olive oil, limoncello. Crispy edges, light crumb. Freezer-friendly Italian cookies. Try it tonight."
+ogDescription: "Crispy almond pizzelles with lemon zest and limoncello. Italian waffle cookies with nutty depth. Simple technique, impressive results."
+focusKeyphrase: "almond pizzelle recipe"
 date: 2025-08-17
 draft: false
 image: almond-citrus-pizzelles.jpg
@@ -21,9 +21,11 @@ tags:
 - "citrus"
 - "gluten free"
 keywords:
-- "pizzelles"
-- "hazelnut flour"
-- "lemon zest"
+- "almond pizzelle recipe"
+- "pizzelle cookies lemon"
+- "Italian waffle cookies"
+- "citrus pizzelles"
+- "homemade pizzelle"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"

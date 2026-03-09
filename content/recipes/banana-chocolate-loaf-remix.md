@@ -1,10 +1,10 @@
 ---
-title: "Banana Chocolate Loaf Remix"
+title: "Chocolate Chip Banana Bread Recipe"
 slug: "banana-chocolate-loaf-remix"
-description: "Reworked banana chocolate bread with a few twists Gain moisture by swapping sour cream for Greek yogurt and brown sugar for maple syrup Changes in leavening from powder and soda balance acidity. Dark chocolate chunks replace chips for richer melty pockets Measured to avoid flat dense loaf Tried to spot doneness by golden cracks and scent Fresh from oven crackle, subtle caramelized edges. Moist, tender crumb with bursts of gooey chocolate Bits of flaky sea salt on top punch savory Notes on how to rescue a gummy patch or uneven rise. A chocobanana loaf with texture tweaks and flavor layers Complexity without fuss"
-metaDescription: "Banana Chocolate Loaf Remix uses Greek yogurt, maple syrup swap, dark chunks, flaky sea salt finish. Moist crumb, golden cracks, scent cues baking success."
-ogDescription: "Moist banana loaf with layered dark chocolate chunks, maple syrup swap for sweetness, flaky sea salt top. Watch golden cracks and smell for doneness cues."
-focusKeyphrase: "banana chocolate loaf"
+description: "Banana chocolate chip loaf with Greek yogurt and maple syrup for moisture. Dark chocolate chunks, sea salt finish, and tender crumb that actually stays moist."
+metaDescription: "Chocolate chip banana bread recipe with Greek yogurt and dark chocolate chunks. Moist, tender loaf that won't fall flat. Try it tonight."
+ogDescription: "Banana chocolate chip loaf reworked with Greek yogurt and dark chocolate chunks for gooey, moist texture without the flat, dense crumb."
+focusKeyphrase: "chocolate chip banana bread recipe"
 date: 2025-08-08
 draft: false
 image: banana-chocolate-loaf-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "banana loaf"
-- "chocolate chunks"
-- "maple syrup banana bread"
+- "chocolate chip banana bread recipe"
+- "banana chocolate chip loaf recipe"
+- "banana bread recipe chocolate chips"
+- "chocolate chunk banana bread recipe"
+- "banana loaf chocolate"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "480"

@@ -1,10 +1,10 @@
 ---
-title: "Baileys Chocolate Fudge Twist"
+title: "Baileys Fudge Recipe: Chocolate Twist"
 slug: "baileys-chocolate-fudge"
-description: "Velvety fudge made by melting chocolate chips with sweetened condensed milk, then stirred through Irish cream and vanilla. Chilling solidifies it into rich, sliceable squares. A classic base modified by swapping Baileys for Kahlua, lending a coffee kick. Melt carefully, watching for glossy sheen and thick texture. Skip microwave nukes? Use double boiler. Stir often; burnt chocolate kills flavor fast. Parchment-lined pan eases removal. Rest your fudge well in fridge at least 2 hours until firm enough to slice. Sweet spot between creamy and chew. Few common hiccups: grainy fudge from overheating, too runny if mismeasured. Work quickly yet patiently. Outcome: soulful snack with adult punch, perfect for holiday trays or sneaky midnight treats."
-metaDescription: "Baileys Chocolate Fudge Twist melts semisweet chocolate with condensed milk, Kahlua, and vanilla; chill 2 hrs for rich, sliceable squares with a coffee kick."
-ogDescription: "Melting chocolate chips with condensed milk, Kahlua, and vanilla results in creamy fudge. Chill well for firm squares. Coffee notes punch through smooth texture."
-focusKeyphrase: "Baileys Chocolate Fudge Twist"
+description: "Baileys fudge recipe with chocolate chips and sweetened condensed milk, swirled with Irish cream for a rich, boozy treat. Chills into creamy squares."
+metaDescription: "Baileys fudge recipe made with chocolate and condensed milk. Creamy, boozy, sliceable squares ready in 2 hours. Try it tonight."
+ogDescription: "Baileys fudge with chocolate and Irish cream. Melted, swirled, chilled into boozy squares. No slow cooker needed."
+focusKeyphrase: "baileys fudge recipe"
 date: 2026-01-04
 draft: false
 image: baileys-chocolate-fudge.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "candy"
 keywords:
-- "chocolate fudge"
-- "condensed milk fudge"
-- "Kahlua recipe"
+- "baileys fudge recipe"
+- "baileys chocolate fudge"
+- "irish cream fudge"
+- "baileys and white chocolate fudge"
+- "homemade baileys fudge"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "105"

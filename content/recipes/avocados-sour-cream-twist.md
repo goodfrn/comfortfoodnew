@@ -1,10 +1,10 @@
 ---
-title: "Avocados with Sour Cream Twist"
+title: "Avocado Appetizer with Sour Cream"
 slug: "avocados-sour-cream-twist"
-description: "Sliced avocados dressed in a tangy, creamy mix with a hint of orange juice and smoked paprika. A simple, fresh starter or side that’s quick to whip up. Uses Greek yogurt instead of cream for a lighter taste, and lime swapped for orange juice for a subtle sweet note. A sprinkle of smoked paprika adds a smoky edge. Ready in 12 minutes, serves four, gluten-free, vegan adjustable."
-metaDescription: "Avocados with Sour Cream Twist is a fresh, tangy delight. Quick to prepare, a unique starter. Perfect for any gathering."
-ogDescription: "Discover Avocados with Sour Cream Twist. A fresh and tangy treat. Quick, easy, and perfect for any meal. A delightful starter!"
-focusKeyphrase: "Avocados with Sour Cream Twist"
+description: "Fresh avocado appetizer with tangy sour cream, lime, and smoked paprika. Ready in 12 minutes. Light starter that works for any occasion."
+metaDescription: "Avocado appetizer recipe with sour cream and smoked paprika. Quick, fresh, gluten-free starter. Make it tonight."
+ogDescription: "Sliced avocados with creamy sour cream, lime juice, and smoked paprika. A quick appetizer ready in 12 minutes."
+focusKeyphrase: "avocado appetizer"
 date: 2025-07-21
 draft: false
 image: avocados-sour-cream-twist.jpg
@@ -21,9 +21,11 @@ tags:
 - "healthy"
 - "citrus"
 keywords:
-- "avocado recipe"
-- "quick appetizers"
-- "vegan-friendly"
+- "avocado appetizer"
+- "avocado starter recipes"
+- "avocado appetizer recipe"
+- "avocado starter"
+- "appetizer recipes with avocado"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "150"

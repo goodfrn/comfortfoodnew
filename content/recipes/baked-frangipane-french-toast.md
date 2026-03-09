@@ -1,10 +1,10 @@
 ---
-title: "Baked Frangipane French Toast"
+title: "Baked French Toast Casserole with Frangipane"
 slug: "baked-frangipane-french-toast"
-description: "A rich baked French toast featuring a cranberry-pecan country loaf soaked in a custardy egg-cream-milk mix. Topped with a spiced frangipane made of softened butter, almond meal, brown sugar, and eggs. Baked until golden and set. Variations include swapping raisins for dried cherries and almond meal for hazelnut flour. Adjust soak and bake times slightly for texture. Serve warm after a short rest."
-metaDescription: "Baked Frangipane French Toast is a rich brunch dish with custardy soaked bread topped with nutty frangipane. Ideal for gatherings, served warm."
-ogDescription: "Indulge in Baked Frangipane French Toast. A delicious twist on classic French toast with nutty, creamy layers and fruit flavor. Perfect for brunch."
-focusKeyphrase: "Baked Frangipane French Toast"
+description: "Baked French toast casserole with cranberry-pecan loaf, creamy custard, and spiced almond frangipane topping. Golden, rich, and ready to serve."
+metaDescription: "Baked French toast casserole recipe with frangipane almond topping. Soak overnight or bake same-day. Try it tonight."
+ogDescription: "Cranberry-pecan French toast casserole topped with spiced frangipane. Custardy, almond-rich, and baked until golden."
+focusKeyphrase: "baked french toast casserole"
 date: 2025-07-18
 draft: false
 image: baked-frangipane-french-toast.jpg
@@ -21,9 +21,11 @@ tags:
 - "pecan"
 - "cranberry"
 keywords:
-- "brunch ideas"
-- "custard soaked bread"
-- "hazelnut frangipane"
+- "baked french toast casserole"
+- "french toast casserole recipe"
+- "overnight french toast casserole"
+- "french toast with almond topping"
+- "oven baked french toast"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "430"

@@ -1,10 +1,10 @@
 ---
-title: "Asian Chicken Sandwiches"
+title: "Asian Chicken Sandwich with Carrot Slaw"
 slug: "asian-chicken-sandwiches"
-description: "Simple grilled chicken marinated in tangy lime, garlic, ginger, and fish sauce. Crisp carrot salad with toasted peanuts, rice vinegar, mirin, and a hit of chili paste for warmth. Layered in crusty sub rolls with blanched green beans, fresh cilantro, and a smear of mayo. Balanced salty, sour, sweet, spicy notes. Cook chicken by feel and sight, marinade adds punch and tenderizes. Quick assembly, fresh textural contrast. No nuts? Swap peanuts with crunchy roasted chickpeas or toasted sesame seeds. Use tamari if fish sauce is missing. Brings smoky, zesty, fresh. Great for summer barbecues or fast weekday meals."
-metaDescription: "Asian Chicken Sandwiches grilled chicken with tangy lime, carrot salad crunch, peanuts or chickpea swap, fresh herbs. Quick, smoky, layered, vibrant tastes."
-ogDescription: "Grilled chicken layered with tangy carrot salad, peanuts or chickpea crunch, fresh herbs in crusty rolls. Bright, smoky, spicy flavors hit all notes fast."
-focusKeyphrase: "Asian chicken sandwiches"
+description: "Grilled chicken marinated in lime, garlic, and fish sauce. Crisp carrot salad with peanuts and chili paste stacked in crusty rolls with green beans and cilantro. Salty, sour, sweet, spicy."
+metaDescription: "Asian chicken sandwich with lime-marinated grilled chicken, peanut carrot slaw, and fresh cilantro. Ready in 30 minutes. Try it tonight."
+ogDescription: "Grilled lime chicken, crisp peanut slaw, and fresh cilantro in a crusty sub. Salty, sour, sweet, and spicy in every bite."
+focusKeyphrase: "asian chicken sandwich"
 date: 2025-09-01
 draft: false
 image: asian-chicken-sandwiches.jpg
@@ -21,11 +21,11 @@ tags:
 - "grilling"
 - "easy dinner"
 keywords:
-- "grilled chicken"
-- "carrot salad"
-- "peanut sandwich"
-- "lime marinade"
-- "savory sandwich"
+- "asian chicken sandwich"
+- "grilled chicken sandwich"
+- "carrot slaw recipe"
+- "lime chicken marinade"
+- "fish sauce chicken"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "350"

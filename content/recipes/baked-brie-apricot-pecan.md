@@ -1,10 +1,10 @@
 ---
-title: "Baked Brie with Apricot Cran Pecan"
+title: "Baked Brie with Apricot Jam and Pecans"
 slug: "baked-brie-apricot-pecan"
-description: "Combine apricot jam with tart dried cranberries and toasted pecans for a topping that’s both sweet and crunchy. Brie cheese, wrapped but unwrapped from plastic, gets warmed just right—soft, not melted into a puddle. Served warm or at room temp. Crackers or sliced baguette. Timing flexible, watch the cheese’s texture change more than clock. A twist on the usual spicy-sweet cheese board additions with one swapped ingredient and slight time wiggle for better flavor development."
-metaDescription: "Baked Brie with apricot preserves, dried cherries, and toasted pecans brings tart, nutty textures with gentle warm wobble. Rustic bread or crackers pair well."
-ogDescription: "Soft Brie warmed to a gentle wobble topped with apricot cherry pecan mix. Toast nuts, watch bubbling edges, no meltdown. Serve with crunchy crackers or rye crisps."
-focusKeyphrase: "Baked Brie with apricot pecan topping"
+description: "Baked brie with apricot jam, dried cranberries, and toasted pecans. Warm, creamy cheese with sweet-tart fruit topping. Serve with crackers or baguette."
+metaDescription: "Baked brie with apricot jam recipe. Creamy cheese topped with cranberries and pecans—easy appetizer ready in minutes. Try it tonight."
+ogDescription: "Warm baked brie with apricot jam, cranberries, and pecans. Creamy, sweet, and crunchy all at once."
+focusKeyphrase: "baked brie with apricot jam"
 date: 2025-12-03
 draft: false
 image: baked-brie-apricot-pecan.jpg
@@ -21,9 +21,11 @@ tags:
 - "cranberry"
 - "party"
 keywords:
-- "Baked Brie"
-- "apricot preserves"
-- "toasted pecans"
+- "apricot jam baked brie"
+- "baked brie and apricot jam"
+- "apricot brie cheese"
+- "brie cheese appetizer"
+- "baked cheese dip"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "320"

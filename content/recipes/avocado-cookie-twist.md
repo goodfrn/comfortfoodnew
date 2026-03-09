@@ -1,10 +1,10 @@
 ---
-title: "Avocado Cookie Twist"
+title: "Avocado Chocolate Chip Cookies Recipe"
 slug: "avocado-cookie-twist"
-description: "Dense, rich cookies using avocado and butter for fat, cocoa powder for depth. Eggs for structure, sugar for sweetness, cinnamon for warmth. Chocolate chips add bursts, walnuts optional but add crunch. Mix dry ingredients but don’t overdo the mixing. Scoop thick dough, space well; cookies spread a bit but stay thick. Watch for cracks on tops, edges firm but centers tender. Oven temps can vary; look for that subtle pull from pan edges. Avocado sneaks moisture and fat silently, no greasiness here. Add a pinch of chili powder to shake sweetness up. Tweak sugar if you want less sweet. Melted butter or olive oil swap if needed. Keep batter cool if air is hot. Store airtight or freeze dough balls."
-metaDescription: "Dense cookies using avocado fat with cocoa depth, cinnamon warmth, chocolate chips bursts and optional walnuts. Creamy texture, soft centers, tender edges."
-ogDescription: "Avocado adds moisture and fat with no greasiness. Rich cocoa, cinnamon kick, chocolate chip melts, and soft chewy texture. Walnut crunch optional."
-focusKeyphrase: "Avocado chocolate chip cookies"
+description: "Dense, fudgy avocado chocolate cookies with walnuts and cinnamon. Avocado adds moisture and fat without greasiness. Thick, tender centers with crispy edges."
+metaDescription: "Avocado chocolate chip cookies that stay thick and fudgy. Learn how avocado replaces butter for rich, moist results. Try it tonight."
+ogDescription: "Dense avocado chocolate cookies with crispy edges and tender centers. Avocado adds silent moisture without any grease."
+focusKeyphrase: "avocado chocolate chip cookie"
 date: 2026-01-23
 draft: false
 image: avocado-cookie-twist.jpg
@@ -21,9 +21,11 @@ tags:
 - "cinnamon"
 - "dessert"
 keywords:
-- "avocado cookies"
-- "chocolate chip cookies"
-- "cinnamon chili cookies"
+- "avocado chocolate chip cookie"
+- "avocado chocolate cookies"
+- "avocado in cookies"
+- "avocado cookies recipe"
+- "chocolate cookies with avocado"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "140"

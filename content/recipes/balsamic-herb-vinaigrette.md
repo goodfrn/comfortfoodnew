@@ -1,10 +1,10 @@
 ---
-title: "Balsamic Herb Vinaigrette"
+title: "Balsamic Vinaigrette Recipe with Honey"
 slug: "balsamic-herb-vinaigrette"
-description: "An herbaceous balsamic vinaigrette with replaced garlic and olive oil quantities altered. Uses lemon juice instead of balsamic vinegar for a tangy twist, with honey added. Quick prep around three minutes. Serves four. Oil reduced to a quarter cup, vinegar swapped for lemon juice, honey replaces garlic flavor. Salt, pepper, fresh oregano included. Tosses with greens and mesclun."
-metaDescription: "Balsamic Herb Vinaigrette with lemon juice, honey, fresh oregano, olive oil reduced. Quick 3-min prep. Tangy bright. Serves four with simple toss greens."
-ogDescription: "Fresh lemon swaps balsamic in herbaceous vinaigrette. Honey sweetens, oregano lifts. Light oil, quick whisk. Toss with greens. Four servings, three minutes."
-focusKeyphrase: "Balsamic Herb Vinaigrette"
+description: "Easy balsamic vinaigrette recipe with honey, lemon juice, and fresh herbs. Ready in 3 minutes. Light, tangy dressing for any salad."
+metaDescription: "Balsamic vinaigrette recipe with honey and lemon. Quick 3-minute homemade dressing. Try it tonight."
+ogDescription: "Tangy balsamic vinaigrette with honey and herbs. Three minutes. Tastes fresh, not heavy."
+focusKeyphrase: "balsamic vinaigrette recipe"
 date: 2025-07-28
 draft: false
 image: balsamic-herb-vinaigrette.jpg
@@ -21,9 +21,11 @@ tags:
 - "vegetarian"
 - "condiment"
 keywords:
-- "vinaigrette"
-- "olive oil dressing"
-- "oregano dressing"
+- "balsamic vinaigrette recipe"
+- "honey balsamic dressing"
+- "balsamic vinegar dressing recipe"
+- "homemade salad dressing"
+- "quick vinaigrette"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "120"

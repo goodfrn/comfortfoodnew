@@ -1,9 +1,10 @@
 ---
-title: "Apple Slab Pie Remix"
+title: "Apple Slab Pie with Chai Crumb Topping"
+focusKeyphrase: "apple slab pie"
 slug: "apple-slab-pie-remix"
-description: "A rustic apple slab pie with a crumbly oat topping tweaked for deeper spice and crunch. Uses a full sheet pan approach to simplify assembly and delivers a golden crust with soft, tender apples inside. The topping swapped out pumpkin pie spice for chai blend—adds unexpected warmth. Adjusted bake times slightly and reordered steps for faster prep. Notes on dough handling and signals for doneness help avoid soggy bottoms or overbaked edges. Ideal for 12 servings. A dessert that sings in your oven, filling the kitchen with fragranced steam and buttery aroma."
-metaDescription: "Apple Slab Pie Remix with chai spice and crumbly oat topping. Rustic, golden crust, tender tart apples, simple sheet pan prep. Serves 12, warm and fragrant."
-ogDescription: "Rustic apple slab pie with chai spice and oat topping. Golden crust, juicy apples. Easy sheet pan bake for 12 servings, warmly spiced and textured."
+description: "Rustic apple slab pie on a sheet pan with chai-spiced crumb topping. Golden crust, tender apples, and a crunch that lasts. Serves 12."
+metaDescription: "Apple slab pie recipe with chai crumb topping and sheet pan method. Deeper spice, crunchier texture, faster prep. Try it tonight."
+ogDescription: "Sheet pan apple slab pie with chai crumb topping. Rustic, crunchier, and spiced deeper than the standard version."
 focusKeyphrase: "apple slab pie"
 date: 2025-10-16
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "dessert"
 - "cinnamon"
 keywords:
-- "apple pie"
-- "chai spice"
-- "oat topping"
+- "apple slab pie"
+- "slab pie"
+- "apple sheet pan pie"
+- "crumb topped apple slab pie"
+- "apple pie slab recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

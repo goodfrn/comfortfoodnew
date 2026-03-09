@@ -1,10 +1,10 @@
 ---
-title: "Banana Cake Twist"
+title: "Moist Banana Cake Recipe with Cream Cheese"
 slug: "banana-cake-twist"
-description: "Banana cake with a slight texture switch. Uses vegetable oil instead of butter for moist crumb and less saturation. Cinnamon swapped with nutmeg for a warmer aroma. Fluffiness balanced by adding baking soda and powder in adjusted ratios. Buttermilk combined with plain yogurt to deepen tang. Cream cheese frosting gets a lemon zest kick, lifting the dull sweetness. Banana slices get a quick soak in citrus maple for shine and anti-browning. Bake til golden, poke test decisive. Cooling always overlooked, here crucial—don’t rush or cake crumbles. Lessons from past misfires and dry attempts reflected in timing tweaks and ingredient choices. Not forgiving but rewarding if watched closely."
-metaDescription: "Banana Cake Twist swaps butter for oil, nutmeg for cinnamon, adds yogurt for tang, and lemon zest frosting. Moist crumb, citrus maple banana topping, bake with care."
-ogDescription: "Moist banana cake with oil, nutmeg spice, yogurt tang. Cream cheese frosting gets lemon zest kick. Banana slices soak in citrus maple. Bake until golden, cool fully."
-focusKeyphrase: "Banana Cake Twist"
+description: "Moist banana cake with nutmeg warmth, yogurt tang, and cream cheese frosting spiked with lemon zest. Oil-based crumb that stays tender days later."
+metaDescription: "Moist banana cake recipe using oil for tenderness, nutmeg instead of cinnamon, and lemon cream cheese frosting. Detailed cooling tips included."
+ogDescription: "Banana cake made moist with oil, deepened with yogurt and nutmeg, topped with tangy lemon cream cheese frosting."
+focusKeyphrase: "moist banana cake recipe"
 date: 2025-11-10
 draft: false
 image: banana-cake-twist.jpg
@@ -21,9 +21,11 @@ tags:
 - "homemade"
 - "spice"
 keywords:
-- "banana cake"
-- "vegetable oil cake"
-- "nutmeg banana cake"
+- "moist banana cake recipe"
+- "banana cake cream cheese frosting"
+- "easy moist banana cake"
+- "banana cake recipe"
+- "banana loaf with chocolate chips"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "645"

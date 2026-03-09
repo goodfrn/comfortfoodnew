@@ -1,10 +1,10 @@
 ---
-title: "Air Fryer Yogurt Bagels"
+title: "Greek Yogurt Air Fryer Bagels"
 slug: "air-fryer-yogurt-bagels"
-description: "Bagels made quickly in the air fryer with a tangy yogurt dough, coated in poppy and sesame seeds. Lightly crisp crust, chewy inside, no yeast needed. Uses baking powder and soda for leavening. Perfect for busy mornings without boiling or oven fuss. Ready from mixing to table in under 45 minutes. Dairy-forward flavor with Greek yogurt but flexible. Seed combo adds crunch and nutty taste."
-metaDescription: "Air Fryer Yogurt Bagels with tangy dough, chewy inside, crisp outside. No yeast, quick bake with seeds. Ready under 50 mins; adaptable, simple, flavorful."
-ogDescription: "Quick yogurt bagels air fried for crisp crust and chewy crumb. Seed-coated, no yeast or boil. Mix, shape, cook, flip, done in under an hour."
-focusKeyphrase: "air fryer yogurt bagels"
+description: "Quick air fryer bagels made with Greek yogurt—no yeast, no boiling. Chewy inside, crisp outside, ready in under 45 minutes with poppy and sesame seeds."
+metaDescription: "Greek yogurt air fryer bagels ready in 45 minutes. No yeast or boiling needed. Crispy-chewy with seeds. Try it tonight."
+ogDescription: "Air fryer bagels made with Greek yogurt. Chewy, crispy, and done faster than you'd expect."
+focusKeyphrase: "greek yogurt bagels air fryer"
 date: 2025-08-18
 draft: false
 image: air-fryer-yogurt-bagels.jpg
@@ -21,9 +21,11 @@ tags:
 - "vegetarian"
 - "easy"
 keywords:
-- "air fryer bagels"
-- "yogurt dough"
-- "seeded bagels"
+- "greek yogurt bagels air fryer"
+- "air fryer greek yogurt bagels"
+- "yogurt bagels air fryer"
+- "no boil bagels"
+- "quick bagel recipe"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "220"

@@ -1,10 +1,10 @@
 ---
-title: "Baileys Brownies Remix"
+title: "Baileys Brownies with Irish Cream Ganache"
 slug: "baileys-brownies-remix"
-description: "Brownies with Baileys Irish Cream twisted for an adult treat. Substitute part water with Baileys in batter. Layered buttercream with Baileys whipped in, topped with chocolate Baileys ganache. Baking cues over clocks. Freeze to firm frosting before ganache. Microwave cream and Baileys till simmer, pour over chips for silky finish. Cool fully before cutting. Measures swapped slightly; buttercream whipped till fluffy but not overdone. Ganache rests on chilled frosting, sets firm but yielding. Notes on substitutions for Baileys, flours, cream, plus troubleshooting fudgy versus cakey. Real kitchens, real tries—less sugar, swapping oils. The familiar, remade."
-metaDescription: "Baileys Brownies Remix swaps water with Irish Cream in batter and frosting; layered buttercream topped with silky Baileys ganache, cools firm, cut clean squares."
-ogDescription: "Brownies blended with Baileys Irish Cream - moisture, twist, then whipped buttercream and glossy ganache. Chill, cut sharp. Bake edges shiny, fudge inside."
-focusKeyphrase: "Baileys brownies"
+description: "Baileys brownies layered with Irish cream buttercream and chocolate ganache. Swap water for Baileys in the batter, chill frosting, pour silky ganache on top."
+metaDescription: "Baileys brownies with Irish cream buttercream and ganache. Substitute water for Baileys, layer thick frosting, chill before ganache. Make them tonight."
+ogDescription: "Baileys chocolate brownies with whipped Irish cream frosting and ganache. Adult dessert that actually works."
+focusKeyphrase: "baileys brownies"
 date: 2025-10-04
 draft: false
 image: baileys-brownies-remix.jpg
@@ -21,11 +21,11 @@ tags:
 - "party"
 - "homemade"
 keywords:
-- "Baileys"
-- "brownies"
-- "buttercream"
-- "ganache"
-- "Irish cream"
+- "baileys brownies"
+- "baileys irish cream brownies"
+- "baileys chocolate brownie"
+- "baileys irish cream brownie recipe"
+- "brownies with irish cream"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "229"

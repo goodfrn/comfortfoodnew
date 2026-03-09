@@ -1,10 +1,10 @@
 ---
-title: "Andes Mint Cookies"
+title: "Andes Mint Chocolate Cookies Recipe"
 slug: "andes-mint-cookies"
-description: "Chocolate cookies with cooling mint icing topped with Andes chips. Cocoa and baking soda bring a tender crumb; butter and sugars whipped to airy lighten dough. Egg binds but don’t overbeat or dough tightens. Flatten dough balls—cookies bake evenly that way. Icing blends butter and sugar with extract for that mint punch. Sprinkle toppings before icing firms. Bake till edges set but centers soft, cooling on racks preserves chewiness. Visual cues guide doneness more than clocks here. Sub pineapple extract for twist or coconut oil for dairy-free attempt. Tweak sugar type based on mood. Recipe tweaked for timing, ingredient tweaks preserve integrity while shifting flavors."
-metaDescription: "Andes Mint Cookies with fudgy cocoa, mint icing, butter-sugar whipped to airy. Flatten dough balls for even bake. Timing, texture guides key to soft centers."
-ogDescription: "Fudgy chocolate mint cookies; mint icing smooth, Andes chips on top. Flatten dough balls, watch edges set but keep centers soft. Sensory timing beats the clock."
-focusKeyphrase: "Andes Mint Cookies"
+description: "Andes mint chocolate cookies with tender cocoa crumb and cooling mint icing. Whipped butter dough bakes soft, topped with Andes chips for that signature mint punch."
+metaDescription: "Andes mint chocolate cookies recipe. Tender cocoa dough with mint icing and Andes chip topping. Bake till edges set, centers soft. Try it tonight."
+ogDescription: "Tender chocolate cookies with mint icing and Andes chips. Visual cues beat the clock—edges set, centers chew."
+focusKeyphrase: "andes mint chocolate cookies"
 date: 2026-02-07
 draft: false
 image: andes-mint-cookies.jpg
@@ -21,9 +21,14 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "mint cookies"
-- "chocolate cookies"
-- "Andes chips"
+- "andes mint chocolate cookies"
+- "andes mint cookies recipe"
+- "andes chocolate cookie recipe"
+- "andes candies cookies recipe"
+- "chocolate mint cookies andes"
+- "andes mint chocolate chip cookies"
+- "recipes using andes mints"
+- "andes chocolate mints recipes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "180"

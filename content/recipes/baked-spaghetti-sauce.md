@@ -1,10 +1,10 @@
 ---
-title: "Baked Spaghetti Sauce Twist"
+title: "Baked Spaghetti Sauce Recipe with Meat"
 slug: "baked-spaghetti-sauce"
-description: "Hearty baked tomato meat sauce with veal, pork, beef mix. Slow meld of carrot and onion softened in olive oil, roux-born, then richened with chicken broth and tomato paste. Garlic, basil, thyme, oregano for fragrant lift. Oven finish deepens flavors, thickens sauce. Keeps 3 days refrigerated. No dairy, nuts, eggs. Swap beef for turkey or plant protein for lighter notes. Extra paprika adds subtle smoky warmth. Perfect over pasta or polenta."
-metaDescription: "Baked Spaghetti Sauce Twist cooks slow meld of veal, pork, beef with carrot, onion, herbs, paprika. Oven finish thickens sauce. Keeps 3 days refrigerated."
-ogDescription: "Meat browned then slow baked with fresh herbs, paprika for smoky depth. Thick, rich sauce clings well. Swap meats, adjust broth for easy tweaks."
-focusKeyphrase: "baked spaghetti sauce"
+description: "Hearty baked spaghetti sauce with veal, pork, and beef. Slow-cooked tomato meat sauce deepened in the oven. Keeps 3 days. Swap beef for turkey or plant protein."
+metaDescription: "Baked spaghetti sauce recipe with meat blend. Oven-roasted tomato sauce that thickens and deepens. Make ahead, freezes well. Try it tonight."
+ogDescription: "Hearty meat sauce baked in the oven. Veal, pork, beef blend simmered with tomato paste and broth. Freezer-friendly."
+focusKeyphrase: "baked spaghetti sauce with meat"
 date: 2025-09-26
 draft: false
 image: baked-spaghetti-sauce.jpg
@@ -21,9 +21,11 @@ tags:
 - "veal"
 - "comfort food"
 keywords:
-- "baked spaghetti"
-- "meat sauce"
-- "tomato sauce"
+- "baked spaghetti sauce with meat"
+- "spaghetti recipe baked"
+- "roasted spaghetti sauce"
+- "oven spaghetti sauce"
+- "meat sauce pasta bake"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "330"

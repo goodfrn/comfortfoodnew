@@ -1,10 +1,10 @@
 ---
-title: "Apple Crumble Squares"
+title: "Apple Crumble Bars Recipe: Oat & Arrowroot"
 slug: "apple-crumble-squares"
-description: "A vegetarian, nut-, lactose-, and egg-free apple dessert bar built on a buttery oat-flour crust and topped with cinnamon-spiced apples. Adjusted quantities and swapped traditional corn starch for arrowroot for a slight tang. Baking times slightly tweaked to catch that perfect golden crumble. Eight servings, medium prep-finish times. Familiar flavors with a fresh twist. Uses Spartan apples diced half-moon style for texture play."
-metaDescription: "Apple Crumble Squares with a buttery oat-flour crust topped by cinnamon-spiced Spartan apples. Nut-free, egg-free, dairy-free. Crisp edges, juicy center, autumn bite."
-ogDescription: "Crunchy oat crust meets cinnamon apple topping baked to golden amber. Nut and egg free option with arrowroot for better texture. Cut warm for clean squares."
-focusKeyphrase: "Apple Crumble Squares"
+description: "Apple crumble bars made with oat flour crust, cinnamon spiced apples, and arrowroot thickener. Dairy-free, egg-free, nut-free dessert. Eight servings."
+metaDescription: "Apple crumble bars recipe with oat crust and arrowroot filling. Dairy-free and egg-free. Perfect golden crumble every time. Try it tonight."
+ogDescription: "Apple crumble bars with oat crust and cinnamon apples. Dairy-free, egg-free, golden and crisp. Eight servings."
+focusKeyphrase: "apple crumble bars"
 date: 2025-09-27
 draft: false
 image: apple-crumble-squares.jpg
@@ -21,9 +21,11 @@ tags:
 - "cinnamon"
 - "dessert"
 keywords:
-- "apple dessert bar"
-- "crumble topping"
-- "cinnamon apple squares"
+- "apple crumble bars"
+- "apple crumble bars recipes"
+- "apple crumble bars with oats"
+- "apple crumb squares"
+- "dairy free apple dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "235"

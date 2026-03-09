@@ -1,9 +1,10 @@
 ---
-title: "Avocado Corn Salad"
+title: "Avocado Corn Salad with Lime & Cilantro"
+focusKeyphrase: "avocado corn salad"
 slug: "avocado-corn-salad"
-description: "Bright summer salad tossing fresh corn off the cob with creamy avocado and crunchy veggies. The dressing blends zingy lime with a touch of heat from jalapeño, swapped in for sweetness. Basil swapped to cilantro adds a herbal punch. Chill the dressing early so flavors meld. Cut corn kernels just when silk turns dry and kernels plump for best texture. Watch for mushy avocado traps by adding it last. Crunchy bell pepper and crunchier red onion balance creaminess. Salt and pepper tune the salad to life."
-metaDescription: "Bright avocado corn salad tossed with fresh corn, creamy avocado, crunchy bell pepper and onion. Cilantro, jalapeño, lime dressing with honey sweetness meld well chilled."
-ogDescription: "Fresh corn kernels scraped sharp. Creamy avocado last. Lime, jalapeño heat, honey balance. Cilantro swap for basil. Chill to blend flavors. Crunch stays alive. Skip mushy traps."
+description: "Fresh avocado corn salad with lime dressing, cilantro, and jalapeño heat. Crisp bell pepper and red onion balance creamy avocado for a bright summer side."
+metaDescription: "Avocado corn salad recipe with lime cilantro dressing. Fresh, crunchy, ready in 15 minutes. Make it tonight."
+ogDescription: "Creamy avocado meets sweet corn in this bright summer salad with lime and cilantro dressing."
 focusKeyphrase: "avocado corn salad"
 date: 2025-10-06
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "corn"
 - "avocado"
 keywords:
-- "corn salad"
-- "avocado salad"
-- "cilantro dressing"
+- "avocado corn salad"
+- "corn salad with lime and cilantro"
+- "avocado corn tomato salad"
+- "summer corn avocado salad"
+- "corn salad with lime dressing"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "180"

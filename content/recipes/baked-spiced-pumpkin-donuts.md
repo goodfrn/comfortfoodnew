@@ -1,10 +1,10 @@
 ---
-title: "Baked Spiced Pumpkin Donuts"
+title: "Baked Pumpkin Donuts with Maple Glaze"
 slug: "baked-spiced-pumpkin-donuts"
-description: "Baked pumpkin donuts with a twist of maple syrup replacing vanilla; milk and vinegar mix makes a quick buttermilk substitute. Batter fills donut molds two-thirds full. Bake at 355°F for 12-15 minutes; look for dry edges and toothpick clean test. Icing is a simple blend of powdered sugar, milk, and a splash of maple. Toasted pecans for crunch on top. Slight adjustments made to quantities and timing for better texture and deeper flavor. Total time 30 minutes. Yields 7 donuts loaded with fall spices. Calories 255 per donut."
-metaDescription: "Baked Spiced Pumpkin Donuts with maple syrup, fall spices, toasted pecans. Quick buttermilk substitute, tender crumb, rich flavor. Makes 7 donuts in 30 minutes."
-ogDescription: "Fall flavors packed in baked pumpkin donuts. Maple syrup replaces vanilla, quick buttermilk made with vinegar. Toasted pecans on top add crunch and contrast."
-focusKeyphrase: "Baked Spiced Pumpkin Donuts"
+description: "Baked pumpkin donuts with warm spices and maple glaze. Quick buttermilk substitute, toasted pecans on top. Ready in 30 minutes. Makes 7 donuts at 255 calories each."
+metaDescription: "Baked pumpkin donuts recipe with maple glaze and spiced flavor. Quick buttermilk trick, toasted pecans, 30 minutes start to finish. Try it tonight."
+ogDescription: "Spiced pumpkin donuts with maple glaze and pecans. Baked, not fried. Ready in 30 minutes."
+focusKeyphrase: "baked pumpkin donuts"
 date: 2026-01-18
 draft: false
 image: baked-spiced-pumpkin-donuts.jpg
@@ -21,9 +21,11 @@ tags:
 - "homemade"
 - "cinnamon"
 keywords:
-- "pumpkin donuts"
-- "baked donuts"
-- "maple glaze"
+- "baked pumpkin donuts"
+- "pumpkin donut recipe"
+- "pumpkin spice donuts"
+- "homemade pumpkin donuts"
+- "baked pumpkin spice donuts"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "255"

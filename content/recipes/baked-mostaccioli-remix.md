@@ -1,10 +1,10 @@
 ---
-title: "Baked Mostaccioli Remix"
+title: "Baked Mostaccioli Recipe with Sausage"
 slug: "baked-mostaccioli-remix"
-description: "A layered pasta casserole with a clingy cheese blend and savory sausage, baked till bubbling and golden. Tossed pasta to avoid glue, mixed creamy ricotta with punchy spices and an egg for binding. Mozzarella split for inside and crown. Marinara marrying all. 10 servings usually vanish quickly. Adapted times and steps for better texture and flavor punch. Cheese melting cues key to doneness. Substitutions suggested for sausage and cheeses. A bit of a twist added with fresh basil for brightness and an unexpected zing. Practical tips included to skip dry pasta misery and squishy overcooks."
-metaDescription: "Baked Mostaccioli Remix uses layered pasta, creamy ricotta mix, sausage, and bubbling mozzarella for a textured, savory casserole with fresh basil punch. 10 servings."
-ogDescription: "Layered baked pasta with ricotta-egg glue, sausage, fresh basil, and melty mozzarella topping bubbling golden brown. Watch for cheese sizzle and crust cues."
-focusKeyphrase: "Baked Mostaccioli"
+description: "Layered baked mostaccioli with Italian sausage, creamy ricotta, and melted mozzarella. Golden, bubbling casserole that feeds 10. Skip the dry pasta mistakes with our tested method."
+metaDescription: "Baked mostaccioli recipe with Italian sausage, ricotta, and three cheeses. Bubbling casserole ready in under an hour. Try it tonight."
+ogDescription: "Baked mostaccioli layered with sausage, ricotta, and mozzarella. Bubbling and golden. A casserole that actually stays creamy."
+focusKeyphrase: "baked mostaccioli recipe"
 date: 2026-01-08
 draft: false
 image: baked-mostaccioli-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "baked pasta"
-- "mostaccioli casserole"
-- "ricotta cheese bake"
+- "baked mostaccioli recipe"
+- "mostaccioli recipe"
+- "baked mostaccioli with italian sausage"
+- "baked mostaccioli ricotta"
+- "cheesy mostaccioli"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "410"

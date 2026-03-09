@@ -1,9 +1,10 @@
 ---
-title: "Altered Red Velvet Brownies"
+title: "Red Velvet Brownies with Mascarpone Swirl"
+focusKeyphrase: "red velvet brownies"
 slug: "altered-red-velvet-brownies"
-description: "A dense, fudgy red velvet brownie variation with a tangy mascarpone swirl. Combines bittersweet dark chocolate and coconut oil for a subtle depth. Includes adjustments in sugar and flour, plus a twist with lime zest in frosting. Texture cues stressed over clock watching. Tips on meltdown chocolate, color balance, and slicing after chilling. Notes on substitutions for cream cheese and common pitfalls in baking and glazing outlined."
-metaDescription: "Altered Red Velvet Brownies dense, fudgy, with mascarpone swirl, coconut oil richness, and lime zest twist. Moist texture cues guide bake time and slicing."
-ogDescription: "Dense fudgy brownies with mascarpone swirl and lime zest. Watch texture, aroma cues, chill fully before slicing. Coconut oil swap and beet juice color tips inside."
+description: "Fudgy red velvet brownies with tangy mascarpone swirl and a hint of lime zest. Dark chocolate and coconut oil create subtle depth. Texture-focused baking tips included."
+metaDescription: "Red velvet brownies recipe with mascarpone swirl. Fudgy, dense, and perfectly balanced. Includes substitution tips and slicing advice."
+ogDescription: "Fudgy red velvet brownies with mascarpone swirl. Dark chocolate depth, tangy frosting, lime zest twist. Save this one."
 focusKeyphrase: "red velvet brownies"
 date: 2025-08-07
 draft: false
@@ -21,11 +22,11 @@ tags:
 - "comfort food"
 - "mascarpone"
 keywords:
-- "red velvet"
-- "brownies"
-- "mascarpone"
-- "coconut oil"
-- "beet juice"
+- "red velvet brownies"
+- "fudgy red velvet brownies"
+- "red velvet chocolate brownies"
+- "red velvet brownies cream cheese"
+- "red velvet cheesecake brownies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "180"

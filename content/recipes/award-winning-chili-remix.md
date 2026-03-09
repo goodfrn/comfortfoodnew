@@ -1,10 +1,10 @@
 ---
-title: "Award Winning Chili Remix"
+title: "Slow Cooker Chili with Chorizo"
 slug: "award-winning-chili-remix"
-description: "Ground beef and spicy chorizo meld with a spectrum of spices simmered low and slow until rich burgundy hues emerge. Adjust proportions slightly for balance, swap kidney for black beans for depth, and toss in a surprising dash of cocoa powder. Cooking cues hinge on smell, texture, and color rather than clocks. Excess moisture drained to avoid watery disappointments. Garnishes optional but cheddar and tangy crackers bring crunch and creaminess. Learned this from trial, error, and tweaks over years. The perfect chili isn’t rushed, smells tell it all, patience rewarded."
-metaDescription: "Award Winning Chili Remix blends ground beef and chorizo with smoky spices, cocoa twist, and slow simmer for rich, thick burgundy chili loaded with layers."
-ogDescription: "Bold beef and chorizo chili, slow simmered with smoky spices, chocolate hint, black beans; thick texture, deep color, and smoky aroma tell doneness."
-focusKeyphrase: "award winning chili remix"
+description: "Ground beef and chorizo simmered low and slow with warm spices and a hint of cocoa. Rich, layered chili that deepens as it cooks. Kidney or black beans work both."
+metaDescription: "Slow cooker chili with chorizo, spices, and cocoa powder. Low and slow cooking brings out deep flavor. Try it tonight."
+ogDescription: "Ground beef and spicy chorizo chili simmered until rich and layered. Cocoa powder adds unexpected depth."
+focusKeyphrase: "slow cooker chili with chorizo"
 date: 2025-11-09
 draft: false
 image: award-winning-chili-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "slow cooker"
 - "mexican"
 keywords:
-- "chili recipe"
-- "ground beef chili"
-- "chorizo chili"
+- "slow cooker chili with chorizo"
+- "chorizo chili recipe"
+- "chili with cocoa powder"
+- "homemade chili"
+- "beef chorizo chili"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

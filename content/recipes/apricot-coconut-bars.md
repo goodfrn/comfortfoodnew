@@ -1,10 +1,10 @@
 ---
-title: "Apricot Coconut Bars"
+title: "Apricot Coconut Bars with Caramel"
 slug: "apricot-coconut-bars"
-description: "Buttery coconut crust baked with apricot jam, topped with a warm caramel drizzle. Cardamom adds unexpected heat and aroma. The coconut gives chew and texture. Caramel made by simmering sweetened condensed milk with brown sugar, butter, vanilla. Bars come out chewy at edges, soft inside. Aroma thick in kitchen. Timings flexible; look for light golden top and firm crust. Substitute butter with coconut oil for tropical twist. Use orange marmalade instead of apricot for sharper bite. These bars shift sweet and tart balance, with toasted notes and sticky caramelfinish."
-metaDescription: "Apricot Coconut Bars baked with cardamom spice, chewy coconut crust, sticky apricot layer, topped with thick caramel drizzle made from condensed milk and brown sugar."
-ogDescription: "Chewy apricot coconut bars with floral cardamom, buttery crust bites, and warm caramel drizzle. Watch for golden edges, soft middles, and glossy caramel sheen."
-focusKeyphrase: "Apricot Coconut Bars"
+description: "Chewy apricot coconut bars with buttery crust, cardamom spice, and caramel drizzle. Soft inside, golden edges. Easy homemade recipe."
+metaDescription: "Apricot coconut bars recipe: buttery crust, cardamom warmth, caramel drizzle. Chewy edges, soft center. Bake today."
+ogDescription: "Chewy apricot coconut bars with cardamom and caramel. Buttery, sticky, and done in one pan."
+focusKeyphrase: "apricot coconut bars"
 date: 2025-11-05
 draft: false
 image: apricot-coconut-bars.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "apricot bars"
-- "coconut bars"
-- "caramel drizzle dessert"
+- "apricot coconut bars"
+- "apricot and coconut bars"
+- "coconut bars recipe"
+- "caramel coconut bars"
+- "chewy coconut bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"

@@ -1,10 +1,10 @@
 ---
-title: "Air Fryer Veggie Spring Rolls"
+title: "Air Fryer Spring Rolls with Crispy Veggies"
 slug: "air-fryer-veggie-spring-rolls"
-description: "Crunchy spring rolls filled with stir-fried napa cabbage, bean sprouts, carrots, and shiitake mushrooms. Air fried for a crisp exterior without deep frying. Uses green onions, a cornstarch slurry to bind, and a touch of sugar for subtle sweetness. Ideal for busy cooks wanting a healthier twist on takeout. Adjust vegetable oil application to avoid soggy or dry shells. "
-metaDescription: "Air Fryer Veggie Spring Rolls packed with napa cabbage, shiitake mushrooms, and crisp bean sprouts. Air fried for a crunchy, less oily bite. Use cornstarch slurry to seal."
-ogDescription: "Crunchy veggie spring rolls air fried, no sog. Napa cabbage, shiitake, green onions. Thin oil coating crisps shells without frying mess. Watch for golden blistered edges."
-focusKeyphrase: "Air Fryer Veggie Spring Rolls"
+description: "Homemade air fryer spring rolls stuffed with napa cabbage, shiitake mushrooms, carrots, and bean sprouts. Crispy outside, tender filling—no deep frying needed."
+metaDescription: "Air fryer spring rolls recipe with fresh vegetables and crispy rice paper shells. Skip takeout and make them at home tonight."
+ogDescription: "Crispy air fryer spring rolls loaded with stir-fried napa cabbage, mushrooms, and carrots. Healthier than deep fried."
+focusKeyphrase: "air fryer spring rolls"
 date: 2025-11-23
 draft: false
 image: air-fryer-veggie-spring-rolls.jpg
@@ -21,9 +21,11 @@ tags:
 - "asian"
 - "healthy"
 keywords:
-- "spring rolls"
-- "air fryer recipe"
-- "vegetable filling"
+- "air fryer spring rolls"
+- "spring roll air fryer"
+- "air fryer vegetable spring rolls"
+- "rice paper air fryer"
+- "homemade spring rolls"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "110"

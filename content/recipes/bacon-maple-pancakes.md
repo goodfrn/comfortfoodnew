@@ -1,10 +1,10 @@
 ---
-title: "Bacon Maple Pancakes"
+title: "Bacon Maple Syrup Pancakes Recipe"
 slug: "bacon-maple-pancakes"
-description: "Fluffy pancakes studded with smoky bacon bits. Pancakes have a gentle vanilla undertone, a tender crumb built from a mix of leaveners tweaked for bounce. Cooked on a hot griddle brushed with bacon fat for max flavor punch. Resting the batter helps gluten relax. Bacon swapped from standard to thick-cut for texture contrast and extra fatty richness. Maple syrup drizzled on top cuts through the salty-sweet play. Real butter melts like velvet, binding layers. Timing flexes as bubbles form and pop – an essential flip cue. Keeps warm in oven until all done. No overmixing, lumps welcomed, the secret to tender bites. A breakfast that sings breakfast."
-metaDescription: "Bacon Maple Pancakes with smoky thick-cut bacon, gentle vanilla, tender crumb, bubbles signal flips, rest batter for better texture. Maple syrup finish."
-ogDescription: "Smoky thick-cut bacon atop fluffy pancakes, gentle vanilla, bubbles pop to flip. Rest batter, warm in oven; maple syrup melts butter into layers."
-focusKeyphrase: "Bacon Maple Pancakes"
+description: "Fluffy bacon maple syrup pancakes cooked in bacon fat with thick-cut bacon bits. Tender crumb, crispy edges, and a salty-sweet finish that actually works."
+metaDescription: "Bacon maple syrup pancakes recipe with thick-cut bacon, cooked in bacon fat. Fluffy, tender, and built to last through breakfast. Try it tonight."
+ogDescription: "Fluffy pancakes studded with thick-cut bacon, cooked in bacon fat, and finished with real maple syrup. The salty-sweet actually works here."
+focusKeyphrase: "bacon and maple syrup pancakes"
 date: 2025-12-16
 draft: false
 image: bacon-maple-pancakes.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy"
 keywords:
-- "bacon pancakes"
-- "maple pancakes"
-- "fluffy breakfast pancakes"
+- "bacon and maple syrup pancakes"
+- "bacon maple pancakes"
+- "maple syrup pancakes with bacon"
+- "pancakes with bacon and syrup"
+- "thick cut bacon pancakes"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"

@@ -1,10 +1,10 @@
 ---
-title: "Almond Joy Cookies"
+title: "Almond Joy Cookies Recipe"
 slug: "almond-joy-cookies"
-description: "Sweetened condensed milk binds coconut flakes, chocolate chips, and chopped almonds into gooey cookie balls. Slightly pressed, baked low and slow for chewy centers, toasted edges. Hands wet to prevent stickiness during shaping. Resting after baking crucial for structure, sets gooey texture, avoids breakage on cooling racks. Slight ingredient swap: replace vanilla extract with almond extract for nuttier punch. Time adjustment to 13-16 minutes depending on oven quirks and cookie size. Simple tweaks improve texture, adapt to pantry staples. A quick, textured, and flavor-packed cookie born of trial, error, and sensory cues."
-metaDescription: "Almond Joy Cookies bind coconut, chocolate chips, chopped almonds with sweetened condensed milk. Baked low and slow, chewy centers, toasty edges, nutty almond twist."
-ogDescription: "Chewy Almond Joy Cookies packed with coconut, chocolate chips, chopped almonds. Wet hands scoop, press gently, bake low and slow for gooey centers and toasted edges."
-focusKeyphrase: "Almond Joy Cookies"
+description: "Almond joy cookies recipe with condensed milk, coconut, chocolate chips, and almonds. Chewy centers, toasted edges. Bake 13-16 minutes for the perfect texture."
+metaDescription: "Almond joy cookies recipe: sweetened condensed milk, coconut flakes, chocolate chips, almonds. Chewy centers, crispy edges. Try it tonight."
+ogDescription: "Chewy almond joy cookies with coconut, chocolate, and almonds. Low and slow baking creates gooey centers and toasted edges."
+focusKeyphrase: "almond joy cookies recipe"
 date: 2025-10-29
 draft: false
 image: almond-joy-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "almond"
 - "comfort food"
 keywords:
-- "almond joy"
-- "cookie recipe"
-- "sweetened condensed milk"
+- "almond joy cookies"
+- "almond joy cookies recipe"
+- "4 ingredient almond joy cookies"
+- "chewy coconut cookies"
+- "no bake cookie recipes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "175"

@@ -1,10 +1,10 @@
 ---
-title: "Apple Poke Cake Remix"
+title: "Apple Poke Cake with Caramel & Spiced Nuts"
 slug: "apple-poke-cake-remix"
-description: "Moist yellow cake with chunks of softened apples poked deep for pockets of creamy French Vanilla pudding spiked with apple pie spice. Topped with crunchy spiced nuts and crushed vanilla cookies, chilling brings the flavors together. Bake until the top springs back and toothpick tests mostly clear with a few moist crumbs. The pudding seeps slowly into every bite through holes, making forkfuls creamy. Caramel drizzle at the end adds sticky sweet contrast. Swap oil for melted butter or applesauce to tweak moistness. Use any tart apples you have; lemon juice keeps them from browning. Not too sweet, balanced with nutty crunch. One hour chill before serving is crucial for clean slices without a pudding spill. A quick blend of cake and pudding turned into something better than just a simple poke cake experience."
-metaDescription: "Apple Poke Cake Remix with tart apples, spiced pudding, crunchy nuts, and caramel drizzle. Moist, tender crumb balanced by zing and texture contrasts."
-ogDescription: "Tart apple chunks soak up spiced vanilla pudding in a moist yellow cake base topped with nuts, vanilla wafers, and caramel drizzle. Clean slices, rich flavors."
-focusKeyphrase: "Apple Poke Cake"
+description: "Apple poke cake soaked with vanilla pudding and apple pie spice. Yellow cake with tart apples, crunchy nuts, and caramel drizzle. Chill one hour for clean slices."
+metaDescription: "Apple poke cake recipe with creamy vanilla pudding, spiced nuts, and caramel. Moist, balanced flavors. Make it tonight."
+ogDescription: "Moist yellow cake with tart apples and vanilla pudding pockets. Topped with spiced nuts and caramel. Chill before serving."
+focusKeyphrase: "apple poke cake"
 date: 2026-01-11
 draft: false
 image: apple-poke-cake-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "apple cake"
-- "poke cake"
-- "vanilla pudding dessert"
+- "apple poke cake"
+- "apple caramel poke cake"
+- "poke cake recipe"
+- "vanilla pudding cake"
+- "apple spice cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

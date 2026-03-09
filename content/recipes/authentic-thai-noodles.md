@@ -1,10 +1,10 @@
 ---
-title: "Authentic Thai Noodles"
+title: "Pad Thai with Chicken and Rice Noodles"
 slug: "authentic-thai-noodles"
-description: "Rice noodles mixed with marinated chicken, flavorful tofu, and egg. Topped with bean sprouts and crushed peanuts for crunch. Tangy sauce made from lime juice and Sriracha. A satisfying main dish that’s gluten-free. Cooked in one large pan for easy serving."
-metaDescription: "Authentic Thai Noodles recipe. Flavorful mix of rice noodles, marinated chicken, and tofu. Gluten-free and satisfying for lunch or dinner."
-ogDescription: "Thai Noodles with chicken, tofu, and a tangy sauce. Easy one-pan dish that's gluten-free and perfect for feeding a crowd."
-focusKeyphrase: "Thai Noodles recipe"
+description: "Make authentic pad thai at home with chicken, rice noodles, and a tangy lime-sriracha sauce. Topped with peanuts and bean sprouts. One-pan recipe."
+metaDescription: "Pad thai recipe with chicken and rice noodles. Authentic Thai flavors, easy one-pan method. Try it tonight."
+ogDescription: "Chicken pad thai with rice noodles, peanuts, and a bright lime sauce. Made in one pan."
+focusKeyphrase: "pad thai"
 date: 2025-07-15
 draft: false
 image: authentic-thai-noodles.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy dinner"
 - "one pot"
 keywords:
-- "rice noodles"
-- "marinated chicken"
-- "sriracha sauce"
+- "pad thai"
+- "chicken pad thai"
+- "pad thai rice noodles"
+- "pad thai sauce"
+- "thai rice noodles"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: 480

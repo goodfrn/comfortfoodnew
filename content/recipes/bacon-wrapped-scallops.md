@@ -1,10 +1,10 @@
 ---
-title: "Bacon Wrapped Scallops"
+title: "Bacon Wrapped Scallops in Oven"
 slug: "bacon-wrapped-scallops"
-description: "Scallops wrapped in partially cooked bacon, baked at high heat until bacon crisp-tender and scallops golden. Toasty paprika seasoning tops each piece, optional punch of lemon butter sauce adds brightness. Toothpicks soaked to keep steaks secure without burning. Adjust bacon type or scallop size for best results. Oven method gives steady caramelization; crisp bacon edges, scallops firm but tender. Timing depends on scallop diameter, watch visual cues for doneness. Garlic and mustard in sauce cut buttery richness, parsley and lemon zest freshen it up. Salty, smoky, slightly sweet, with seared textures and vibrant topping."
-metaDescription: "Bacon wrapped scallops baked high heat; browned edges crisp, scallops firm with paprika spice, lemon butter sauce optional for bright finish"
-ogDescription: "Scallops snug in partially cooked bacon, paprika dusted, oven caramelized edges crisp. Lemon butter sauce adds sharp creaminess. Watch scallop texture closely."
-focusKeyphrase: "bacon wrapped scallops"
+description: "Crispy bacon-wrapped scallops baked until golden with paprika seasoning and optional lemon butter sauce. High-heat oven method delivers caramelized edges and tender centers."
+metaDescription: "Bacon wrapped scallops in oven recipe. Crispy bacon, tender scallops, paprika topping, lemon butter sauce. Try it tonight."
+ogDescription: "Bacon wrapped scallops baked at high heat. Crispy bacon edges, golden centers, bright lemon sauce."
+focusKeyphrase: "bacon wrapped scallops in oven"
 date: 2025-12-09
 draft: false
 image: bacon-wrapped-scallops.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "lemon"
 keywords:
-- "scallops"
-- "bacon"
-- "oven roasted"
+- "bacon wrapped scallops"
+- "bacon covered scallops"
+- "baked scallops bacon"
+- "scallops and bacon"
+- "bacon scallops"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "180"

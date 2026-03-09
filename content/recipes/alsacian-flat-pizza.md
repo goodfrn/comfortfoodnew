@@ -1,10 +1,10 @@
 ---
-title: "Alsacian Flat Pizza"
+title: "Flammekuchen Recipe: Crispy Alsatian Pizza"
 slug: "alsacian-flat-pizza"
-description: "Skinny pizza square. Onion spread swapped with roasted shallot puree for depth. Bacon replaced with pancetta strips, thin and crisp. Cheddar swapped with a blend of smoked gouda and gruyere. Parmigiano reggiano remains, grated freshly. Oven temp bumped slightly to 210 C, shorter bake time to avoid dryness. Cut into 16 bites, punchy pepper finish. Crisp crust edge, bubbling cheese, savory pork notes. Visual cues prioritized over numbers."
-metaDescription: "Alsacian Flat Pizza with roasted shallot puree, pancetta strips, smoked gouda, gruyere, and Parmigiano. Crisp crust, bubbling cheese, pepper finish, cut into 16 squares."
-ogDescription: "Crispy Alsacian Flat Pizza layered with smoky pancetta, roasted shallots, melted smoked gouda-gruyere, fresh Parmigiano, and a punchy pepper finish. Watch for golden edges."
-focusKeyphrase: "Alsacian Flat Pizza"
+description: "Flammekuchen recipe with roasted shallot puree, pancetta, and smoked gouda. Thin, crispy crust baked hot. Skip the tomato sauce entirely for authentic Alsatian flavor."
+metaDescription: "Flammekuchen recipe with pancetta, shallots, and gouda. Crispy Alsatian thin-crust pizza baked at 210°C. Try it tonight."
+ogDescription: "Skip the tomato. Roasted shallots, pancetta, and smoked gouda on thin crispy crust. This is flammekuchen done right."
+focusKeyphrase: "flammekuchen"
 date: 2025-09-28
 draft: false
 image: alsacian-flat-pizza.jpg
@@ -21,9 +21,11 @@ tags:
 - "cheese"
 - "roasted"
 keywords:
-- "Alsacian pizza"
-- "crispy flat pizza"
-- "smoked gouda pizza"
+- "flammekuchen"
+- "flammekuchen recipe"
+- "Alsatian pizza"
+- "thin crust pizza"
+- "pancetta pizza"
 breadcrumb: ["Home", "Recipes", "Pizza and Flatbreads"]
 nutrition: 
  calories: "220"

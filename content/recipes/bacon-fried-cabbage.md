@@ -1,10 +1,10 @@
 ---
-title: "Bacon Fried Cabbage Twist"
+title: "Fried Cabbage Dish with Bacon & Jerk Spice"
 slug: "bacon-fried-cabbage"
-description: "Crispy bacon rendered low and slow. Onion thrown in the hot fat—listen to that sizzle, smell the sweet start. A pinch of brown sugar, salt that wakes everything, pepper cracked fresh. Cabbage chopped chunky tossed in, wilt but still grip with a bit of crunch. Tossing crucial here, tongs rule over spoons. Bacon returns, warmth meets crisp again. All about textures balancing, aroma pulling you close. Simple, quick, with an unexpected Jerk seasoning twist. Sub green cabbage for savoy if you like, kale works too but watch timing. Use pork belly if you miss real bacon bite. Pan heat and patience trump timers. This isn’t just frying. It’s coaxing flavors, sounds, and smells out that punch. Don’t rush the wilt. A little snap is king."
-metaDescription: "Bacon Fried Cabbage Twist renders bacon fat slow. Toss cabbage tender-crisp with spices and jerk seasoning. Crunch, aroma, textures all in balance for 4 servings."
-ogDescription: "Crisp bacon fat, softened onion, and tossed cabbage cook to tender snap with jerk heat. Bold texture combos and layered flavors. Ready in 20 minutes flat."
-focusKeyphrase: "Bacon Fried Cabbage"
+description: "Crispy bacon rendered low and slow, then tossed with chunky cabbage in the hot fat. Brown sugar, fresh pepper, and a jerk seasoning twist make this fried cabbage recipe sing with texture and depth."
+metaDescription: "Fried cabbage dish recipe with bacon, onion, and jerk seasoning. Crispy, quick, and packed with texture. Try it tonight."
+ogDescription: "Bacon fried cabbage with a jerk twist. Crispy, chunky, and ready in one pan. Skip the rush—let the flavors build."
+focusKeyphrase: "fried cabbage dish"
 date: 2026-01-09
 draft: false
 image: bacon-fried-cabbage.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "side dish"
 keywords:
-- "bacon fried cabbage"
-- "crispy bacon recipe"
-- "southern cabbage side"
+- "fried cabbage dish"
+- "fried cabbage with bacon and onion"
+- "bacon and cabbage recipe"
+- "easy fried cabbage recipe"
+- "crispy cabbage fry"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "320"

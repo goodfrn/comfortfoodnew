@@ -1,10 +1,10 @@
 ---
-title: "Baked Pizza Tortellini Casserole"
+title: "Baked Pizza Tortellini Casserole with Sausage"
 slug: "baked-pizza-tortellini"
-description: "A layered tortellini bake with browned sausage and onions mingling with garlic and a rich mix of pizza sauce and cheddar cheese soup. Holds a balance of gooey cheese melted golden on top, pepperoni scattered through, with optional toppings like olives and mushrooms for extra texture and bite. Cooked until bubbling vigorously, signaling flavors melding just right. Hearty dinner option for six folks hungry for nostalgia and comfort food twists. Bold with Italian sausage but you can opt turkey or chicken versions. Textural contrast from al dente tortellini and melty cheeses makes this dish stand out from typical pastas."
-metaDescription: "Baked Pizza Tortellini Casserole layered with sausage, pepperoni, mozzarella cheese, and pizza sauce. A hearty Italian-American pasta bake serving six hungry eaters."
-ogDescription: "Rich baked tortellini with Italian sausage, melted mozzarella, pizza sauce, pepperoni dots, plus optional olives and mushrooms for more texture and flavor."
-focusKeyphrase: "Baked Pizza Tortellini Casserole"
+description: "Layered tortellini casserole with browned sausage, pizza sauce, and melted cheddar cheese. Pepperoni and optional toppings make this hearty comfort dish bubbling and golden."
+metaDescription: "Baked pizza tortellini casserole recipe with Italian sausage, cheese, and pepperoni. Bold, cheesy, and ready in one dish. Try it tonight."
+ogDescription: "Layered tortellini casserole with browned sausage, pizza sauce, and melted cheese. Comfort food that actually delivers."
+focusKeyphrase: "tortellini casserole"
 date: 2026-01-05
 draft: false
 image: baked-pizza-tortellini.jpg
@@ -21,9 +21,11 @@ tags:
 - "cheese"
 - "pizza"
 keywords:
-- "tortellini bake"
-- "Italian sausage recipe"
-- "oven baked pasta"
+- "tortellini casserole"
+- "cheese tortellini bake"
+- "baked tortellini casserole"
+- "pizza tortellini bake"
+- "easy tortellini bake"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "810"

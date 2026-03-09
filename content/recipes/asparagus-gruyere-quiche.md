@@ -1,10 +1,10 @@
 ---
-title: "Asparagus Gruyère Quiche"
+title: "Asparagus Gruyère Quiche with Crisp Crust"
 slug: "asparagus-gruyere-quiche"
-description: "A savory quiche featuring tender asparagus tips and shredded Gruyère in a flaky shortcrust. Uses chicken broth for deglazing. Rich egg-milk custard baked till just set, with crisp edges. Flavors meld warm, cool, or room temp. Adaptations include substituting half the milk with cream for silkiness and swapping Gruyère with aged cheddar or comté. Dough chilled for easy handling. Onion lightly caramelized for gentle sweetness, balancing the earthiness of asparagus. Caramelization and evaporation details ensure correct doneness without sogginess or toughness. This recipe cooks in roughly an hour, yielding 6 slices. Seasoning adjusted mid-cook based on taste and aroma cues."
-metaDescription: "Asparagus Gruyère Quiche with flaky shortcrust, tender asparagus, and nutty cheese. Blind bake crust. Watch custard jiggle for best texture. Yields six servings."
-ogDescription: "Flaky crust, tender asparagus, nutty cheese. Blind bake crust, watch custard edges firm up but center jiggle. Six slices of layered flavors."
-focusKeyphrase: "Asparagus Gruyère Quiche"
+description: "Asparagus Gruyère quiche with tender tips, caramelized onions, and a flaky shortcrust. Silky egg custard baked till just set. Serve warm or cold."
+metaDescription: "Asparagus Gruyère quiche recipe with caramelized onions and crispy edges. Rich, savory, and bakes in under an hour. Try it tonight."
+ogDescription: "Asparagus Gruyère quiche with caramelized onions and flaky pastry. Tender, savory, and works warm, cool, or room temperature."
+focusKeyphrase: "asparagus gruyere quiche"
 date: 2025-08-04
 draft: false
 image: asparagus-gruyere-quiche.jpg
@@ -21,9 +21,11 @@ tags:
 - "vegetarian"
 - "eggs"
 keywords:
-- "asparagus quiche"
-- "shortcrust dough"
-- "egg custard quiche"
+- "asparagus gruyere quiche"
+- "gruyere asparagus tart"
+- "asparagus tart recipe"
+- "cheese quiche"
+- "shortcrust quiche"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

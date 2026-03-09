@@ -1,10 +1,10 @@
 ---
-title: "Banana Caramel Sauce"
+title: "Banana Caramel Sauce Recipe"
 slug: "banana-caramel-sauce"
-description: "A rich sauce blending caramelized brown sugar with buttery coconut milk, ripe bananas sliced thick, and toasted pecans for crunch. Slow caramelization technique to balance bitterness and sweetness. Creamy, nutty, fruity all at once. Gluten-free, eggless, vegetarian punch of flavor for waffles, pancakes, or even ice cream. Timing varies by caramel color and banana softness; watch cues not clocks. Coconut milk swaps cream for dairy-free twist. Heat control crucial; avoid burn or crystallization. Stir gently, let sauce thicken naturally. Notes on texture and smell to spot readiness plus troubleshooting for sticky or grainy caramel. Experimented with almond butter sub for nuts, yields creamy depth. Tips on utensil choice, pan quality, and saving leftover sauce included."
-metaDescription: "Banana Caramel Sauce blends rich brown sugar caramel with thick banana rounds, toasted pecans, and creamy coconut milk. Watch for aroma and texture cues."
-ogDescription: "Caramelizing brown sugar to amber, adding banana and nuts, then folding in coconut milk thickens a rich sauce. Watch color, smell, texture close."
-focusKeyphrase: "Banana Caramel Sauce"
+description: "Rich banana caramel sauce with brown sugar, coconut milk, and toasted pecans. Slow-caramelized technique for balanced sweetness, gluten-free and dairy-free."
+metaDescription: "Make banana caramel sauce at home with coconut milk and pecans. Slow-caramel technique prevents burning. Perfect for waffles and ice cream. Try it tonight."
+ogDescription: "Homemade banana caramel sauce with toasted pecans and coconut milk. Rich, nutty, and gluten-free for any dessert."
+focusKeyphrase: "banana caramel sauce"
 date: 2025-09-23
 draft: false
 image: banana-caramel-sauce.jpg
@@ -21,9 +21,11 @@ tags:
 - "gluten free"
 - "dessert"
 keywords:
-- "caramel sauce"
-- "banana sauce"
-- "dairy-free caramel"
+- "banana caramel sauce"
+- "banana and caramel sauce"
+- "caramel sauce for bananas"
+- "homemade caramel sauce"
+- "dairy-free caramel sauce"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "320"

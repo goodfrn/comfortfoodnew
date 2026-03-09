@@ -1,10 +1,10 @@
 ---
-title: "Bacon Wrapped Jalapeño Corn"
+title: "Bacon Wrapped Corn on the Cob with Jalapeño"
 slug: "bacon-wrapped-jalapeno-corn"
-description: "Corn on the cob wrapped in a pressed layer of smoky bacon, spiked with jalapeño heat and fresh herbs. Bacon flattened lengthwise to match ear size, rolled and grilled to crisp perfection. Cook until the fat renders and sizzles, turning for even color. The heat of jalapeño peppers balanced by sweet corn and smoky paprika. A tactile process with plastic wrap makes handling easier. Substitutions like prosciutto or smoked turkey bacon offer variation, and fresh thyme replaces basil for an earthy twist. Salt and pepper must be applied early to draw out flavors. The grilling step focuses on sound and smell cues to avoid raw pork or overcooked corn."
-metaDescription: "Bacon Wrapped Jalapeño Corn uses flattened bacon rolled around corn with jalapeño heat and fresh herbs. Grill low, listen for sizzle, chill to meld flavors."
-ogDescription: "Grilled bacon wrapped corn with jalapeños and fresh herbs. Flatten bacon, roll tight, chill, then grill slow till crisp edges, smoky aroma, and tender corn."
-focusKeyphrase: "Bacon Wrapped Jalapeño Corn"
+description: "Corn on the cob wrapped in crispy bacon with jalapeño heat and fresh herbs. Grilled until the fat renders and sizzles. Learn the technique that keeps it tender."
+metaDescription: "Bacon wrapped corn on the cob with jalapeño peppers, fresh herbs, and smoky paprika. Grilled until crispy. Try it tonight."
+ogDescription: "Corn wrapped in bacon and jalapeño. Grilled until the fat renders and the heat balances the sweet. Simple and smoky."
+focusKeyphrase: "bacon wrapped corn on the cob"
 date: 2025-12-14
 draft: false
 image: bacon-wrapped-jalapeno-corn.jpg
@@ -21,9 +21,11 @@ tags:
 - "spicy"
 - "summer"
 keywords:
+- "bacon wrapped corn on the cob"
 - "bacon wrapped corn"
-- "jalapeño grilled corn"
-- "smoky bacon jalapeño"
+- "grilled corn recipes"
+- "jalapeño corn"
+- "grilled bacon corn"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "940"

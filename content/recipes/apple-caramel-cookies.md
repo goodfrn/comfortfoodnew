@@ -1,10 +1,10 @@
 ---
-title: "Apple Caramel Cookies"
+title: "Apple Caramel Cookies with Browned Butter"
 slug: "apple-caramel-cookies"
-description: "Apple caramel cookies with a tang of lemon and warm cinnamon, soft tender crumb with caramel pockets. Baked soft, centers slightly sunken, light crackle on edges. Uses browned butter swap and oat flour twist. Real kitchen tested on flaky days, fixes for soggy bottoms and sticky dough. Fruit calls for juicy but firm apples; tart Gravensteins or a mix work better than Ambrosia in my experience. Caramel melting into baked dough makes pockets of sweet salt contrast. Cinnamon balanced with allspice—adds warmth without overwhelming. A snack or a quick dessert with tea or coffee; they hold shape well even day after. Quick chilling of fruit mix saves runny mess."
-metaDescription: "Apple Caramel Cookies with tender crumb, caramel pockets, chewy oat flour, browned butter depth, tart apples, and warming spices. Textured, layered, best with visual cues."
-ogDescription: "Apple Caramel Cookies packed with chewy oat flour, browned butter, tart apples, and warming cinnamon allspice. Soft centers, caramel pockets, crisp edges; sensory baking cues key."
-focusKeyphrase: "Apple Caramel Cookies"
+description: "Soft apple caramel cookies with lemon and cinnamon. Browned butter base, oat flour twist, caramel pockets throughout. Real tested recipe that holds shape."
+metaDescription: "Apple caramel cookies with browned butter and oat flour. Soft centers, crispy edges, caramel pockets. Recipe tested for texture and flavor."
+ogDescription: "Apple caramel cookies with browned butter and real caramel pockets. Soft, tender crumb with lemon and cinnamon warmth."
+focusKeyphrase: "apple caramel cookies"
 date: 2025-08-15
 draft: false
 image: apple-caramel-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "cinnamon"
 - "comfort food"
 keywords:
-- "apple cookies"
-- "caramel pockets cookie"
-- "brown butter baking"
+- "apple caramel cookies"
+- "apple caramel cookie recipe"
+- "apple caramel oatmeal cookies"
+- "browned butter cookies"
+- "caramel apple oatmeal cookie recipe"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "210"

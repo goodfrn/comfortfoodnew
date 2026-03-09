@@ -1,10 +1,10 @@
 ---
-title: "Apple Tart Reimagined"
+title: "Apple Tart with Granny Smith & Fuji"
 slug: "apple-tart-reimagined"
-description: "Classic apple tart with altered quantities and ingredient swaps. Uses Fuji and Granny Smith apples for balance of sweet and tart. Brown sugar replaced white for depth. Added nutmeg for warmth. Crust infused with cornstarch for flakiness. Slightly less butter in filling to avoid sogginess. Cooking times adjusted by 5% to suit ingredient changes. Emphasis on sensory cues over clock. Clear sealing technique advised to prevent leaking. Simple milk wash swapped with cream for richer color. Suitable for vegetarian diets; egg and nut free."
-metaDescription: "Apple Tart Reimagined with Fuji and Granny Smith apples, brown sugar caramel, nutmeg warmth, flaky cornstarch crust, cream wash, and sensory cooking cues for better results"
-ogDescription: "Fuji and Granny Smith apples, brown sugar caramel, nutmeg warmth. Flaky cornstarch crust, cream wash for golden top. Bake with sensory cues, no soggy bottom."
-focusKeyphrase: "Apple Tart Reimagined"
+description: "Apple tart combining Granny Smith and Fuji apples with brown sugar, nutmeg, and a flaky cornstarch crust. Learn the sealing technique that prevents leaking."
+metaDescription: "Apple tart recipe with Granny Smith and Fuji apples, brown sugar depth, and a flaky cornstarch crust. Stop the soggy filling problem."
+ogDescription: "Granny Smith and Fuji apples meet brown sugar and nutmeg in this apple tart. The crust stays crisp, the filling stays put."
+focusKeyphrase: "apple tart"
 date: 2025-08-01
 draft: false
 image: apple-tart-reimagined.jpg
@@ -22,8 +22,10 @@ tags:
 - "comfort food"
 keywords:
 - "apple tart"
-- "brown sugar"
-- "cornstarch crust"
+- "apple pie granny smith apples"
+- "apple tart rustic"
+- "apple and puff pastry tart"
+- "apple custard tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "310"

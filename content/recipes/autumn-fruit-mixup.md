@@ -1,10 +1,10 @@
 ---
-title: "Autumn Fruit Mixup"
+title: "Autumn Fruit Salad with Cinnamon & Honey"
 slug: "autumn-fruit-mixup"
-description: "Fresh autumn fruit salad mixing sweet and tart flavors with a hint of citrus. Uses apples and grapes instead of peaches and strawberries. Adds cinnamon for warmth, and a splash of honey replaces sugar. Let fruits mingle, releasing vibrant juices and softening just enough. A quick maceration with lime zest to brighten, finished by folding in banana slices without mushiness. No gluten nuts eggs or dairy. A blend of textures from crisp apple to soft banana with juicy grape bursts."
-metaDescription: "Autumn Fruit Mixup with crisp apples and juicy grapes, lime zest kick, cinnamon warmth plus banana finishing touch. Slow maceration balances texture and juice."
-ogDescription: "Crisp apples meet juicy grapes with cinnamon warmth and lime zest punch. Banana folds in last to keep texture fresh. Watch juices, timing’s everything."
-focusKeyphrase: "Autumn Fruit Mixup"
+description: "Autumn fruit salad mixing apples, grapes, and banana with cinnamon, honey, and lime zest. No dairy, gluten, nuts, or eggs. Fresh, tangy, and ready in minutes."
+metaDescription: "Autumn fruit salad recipe with apples and grapes, brightened by lime zest and cinnamon. Dairy-free, gluten-free. Make it tonight."
+ogDescription: "Apples, grapes, banana, cinnamon, and honey. A fall salad that's crisp, juicy, and done fast."
+focusKeyphrase: "autumn fruit salad"
 date: 2025-08-06
 draft: false
 image: autumn-fruit-mixup.jpg
@@ -21,9 +21,11 @@ tags:
 - "apple"
 - "honey"
 keywords:
-- "apple grape mix"
+- "autumn fruit salad"
+- "fruit salad fall"
+- "fall salads with apples"
+- "autumn fruit salad recipe"
 - "cinnamon fruit salad"
-- "lime zest fruit"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "130"

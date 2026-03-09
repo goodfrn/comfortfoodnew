@@ -1,10 +1,10 @@
 ---
-title: "Anise-Spiced Italian Rings"
+title: "Anise Biscuits: Italian Rings with Lemon"
 slug: "anise-spiced-italian-rings"
-description: "Simple, rustic biscuits laced with a hint of anise and lemon zest. Flavored with white wine and olive oil, these small rings balance sweetness and spice. Substitutions like apple cider vinegar for wine and almond milk for liquid keep the structure intact and vegan-friendly. The dough is sticky but forgiving, shaped into thin loops that crisp up gently in the oven. Visual cues like golden edges and firm texture signal done. This recipe trades fennel for ground cardamom to add warmth, and swaps vanilla extract for orange blossom water, injecting fragrant complexity. A quick chill firms dough for shaping. Sugar coating caramelizes during baking, adding crunch. Ideal with espresso or herbal tea, these biscuits evoke classic Italian bakery treats with a personal twist."
-metaDescription: "Anise-Spiced Italian Rings crisp up golden with cardamom warmth and lemon zest. Vegan-friendly swaps keep biscuit texture firm, sugar caramelizes for crunch."
-ogDescription: "Crunchy Italian-style rings with cardamom spice, lemon zest, and sugar coat. Vegan tweaks keep dough tacky but workable; bake till aroma pops, edges glow."
-focusKeyphrase: "Anise-Spiced Italian Rings"
+description: "Crispy anise biscuits shaped into delicate rings with lemon zest and white wine. Golden, crunchy Italian treats that pair perfectly with espresso or tea."
+metaDescription: "Make anise biscuits at home—Italian rings with lemon, white wine, and a hint of cardamom. Golden, crispy, and vegan-friendly. Try it tonight."
+ogDescription: "Italian anise rings with lemon zest and white wine. Crispy, fragrant, perfect with espresso."
+focusKeyphrase: "anise biscuits"
 date: 2025-08-13
 draft: false
 image: anise-spiced-italian-rings.jpg
@@ -21,9 +21,11 @@ tags:
 - "lemon"
 - "vegan"
 keywords:
-- "Italian biscuits"
-- "cardamom spice"
-- "vegan cookie dough"
+- "anise biscuits"
+- "italian anise"
+- "anise cookies"
+- "lemon biscuits"
+- "Italian ring cookies"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "110"

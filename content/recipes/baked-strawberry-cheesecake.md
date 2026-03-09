@@ -1,10 +1,10 @@
 ---
-title: "Baked Strawberry Cheesecake Twist"
+title: "Strawberry Cheesecake with Spiced Crust"
 slug: "baked-strawberry-cheesecake"
-description: "A creamy cheesecake with a buttery spiced crust and rich strawberry swirls baked gently for that tender jiggle. The crust gets a hint of nutmeg swapped for ginger, changing the aroma dynamic. Half the strawberry sauce folds inside; the rest adorns the top for fresh punch. Chill till quiet, smooth but still with personality. Baking time tweaked slightly to test visual cues not clocks. Egg mixing minimal to keep silkiness. A dash of cardamom added to sauce for unexpected lift."
-metaDescription: "Baked Strawberry Cheesecake Twist with spiced graham crust and cardamom strawberry swirls. Chill hours for texture; watch crust toast and bake jiggle cues closely."
-ogDescription: "Creamy cheesecake, buttery nutmeg crust, cardamom strawberry swirls. Bake till edges puffed, center jiggles. Chill well for rich flavor melded finish."
-focusKeyphrase: "Baked Strawberry Cheesecake Twist"
+description: "Creamy strawberry cheesecake with a buttery spiced crust, ginger-nutmeg base, and cardamom strawberry swirls. Perfectly baked with a gentle jiggle and fresh berry topping."
+metaDescription: "Baked strawberry cheesecake recipe with spiced crust, cardamom swirls, and fresh strawberry topping. Creamy, tender texture. Try it tonight."
+ogDescription: "Creamy cheesecake with spiced ginger crust and cardamom strawberry swirls. Buttery, tender, with fresh berries on top."
+focusKeyphrase: "strawberry cheesecake"
 date: 2025-11-06
 draft: false
 image: baked-strawberry-cheesecake.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "cheesecake with strawberries"
-- "nutmeg crust cheesecake"
-- "cardamom sauce cheesecake"
+- "strawberry cheesecake"
+- "cheesecake topped with strawberries"
+- "strawberry swirl cheesecake"
+- "strawberry cream cheese cake"
+- "spiced cheesecake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "380"

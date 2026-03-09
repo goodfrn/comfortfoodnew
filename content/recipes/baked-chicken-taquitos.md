@@ -1,9 +1,10 @@
 ---
-title: "Baked Chicken Taquitos Twist"
+title: "Baked Chicken Taquitos with Crispy Shells"
+focusKeyphrase: "baked chicken taquitos"
 slug: "baked-chicken-taquitos"
-description: "Crunchy baked chicken taquitos, rolled tight with melted cheese and black beans switched in for refried. Rotel tomatoes bring moisture and zing. Quick to prep if tortillas warmed first. Canola oil brushed for crisp shells. Oven temp slightly higher than usual—watch the golden edges closely. Toothpicks save them from unrolling disasters. Cheese bubbling, edges crisp, smell of toasted corn tortillas fills kitchen. Ideal snack or crowd-pleaser. Switch black beans if refried missing, or use leftover rotisserie chicken. Timing flexible, watch texture not clock. The key: crispy but not burnt shells without drying out the chicken mix."
-metaDescription: "Crunchy baked chicken taquitos packed with black beans, Oaxaca cheese, and zesty Rotel tomatoes. Crispy shells, golden edges, quick bake, ideal for snacks."
-ogDescription: "Baked chicken taquitos with black beans and melted cheese, baked at 450F. Crispy golden edges, bubbling cheese, perfect snack time crunch and aroma fill kitchen."
+description: "Crispy baked chicken taquitos rolled with melted cheese, black beans, and Rotel tomatoes. Oil-brushed for crunch, oven-baked until golden. Quick prep with rotisserie chicken."
+metaDescription: "Baked chicken taquitos recipe with crispy shells and melted cheese. Black beans, Rotel, and easy oven method. Make them tonight."
+ogDescription: "Crispy baked chicken taquitos with cheese and black beans. Rotel tomatoes add moisture and zing. Oven-baked golden edges."
 focusKeyphrase: "baked chicken taquitos"
 date: 2025-10-13
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "snack"
 - "cheese"
 keywords:
-- "taquitos"
-- "baked chicken"
-- "Mexican snacks"
+- "homemade chicken taquitos"
+- "easy chicken taquitos recipe"
+- "baked chicken taquitos with cream cheese"
+- "rotisserie chicken taquitos"
+- "crispy taquito recipe"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "64"

@@ -1,10 +1,10 @@
 ---
-title: "Asparagus Mimosa Remix"
+title: "Asparagus Mimosa with Champagne Vinegar"
 slug: "asparagus-mimosa-remix"
-description: "Spring asparagus lightly blanched then tossed in a tangy shallot and tarragon vinaigrette, topped with finely grated soft-cooked egg whites and yolks separately. Uses champagne vinegar instead of white wine vinegar and replaces cornichons with pickled capers. Slightly longer blanch for tender snap, garlic-infused oil replaces plain oil for depth. Bright, sharp, textured. A fresh twist on a classic technique highlighting contrasting textures and colors. No nuts, dairy, gluten, or heavy creams. Great for light starters or veggie-centric meals. Timing less rigid, focus on texture. Egg grated fine but wit hsmall rustic chunks retained."
-metaDescription: "Asparagus Mimosa Remix blends soft-boiled egg grated with rustic texture, garlic-infused oil vinaigrette, pickled capers, and sharp champagne vinegar for a fresh veggie starter."
-ogDescription: "Bright asparagus tossed in garlicky vinaigrette, topped with finely grated soft-boiled egg whites and yolks separate. Sharp, textured, nuanced French-inspired dish."
-focusKeyphrase: "Asparagus Mimosa Remix"
+description: "Blanched asparagus with champagne vinegar dressing, grated soft-cooked eggs, and pickled capers. A fresh take on the classic spring starter with bright, textured layers."
+metaDescription: "Asparagus mimosa recipe with champagne vinegar, soft-cooked eggs, and pickled capers. Learn the technique for tender snap and contrasting textures. Try it tonight."
+ogDescription: "Asparagus mimosa done right. Champagne vinegar, grated eggs, pickled capers. Fresh, textured, ready in minutes."
+focusKeyphrase: "asparagus mimosa"
 date: 2025-08-10
 draft: false
 image: asparagus-mimosa-remix.jpg
@@ -23,7 +23,9 @@ tags:
 keywords:
 - "asparagus mimosa"
 - "champagne vinegar dressing"
-- "grated egg topping"
+- "soft-cooked eggs"
+- "pickled capers"
+- "spring asparagus recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "110"

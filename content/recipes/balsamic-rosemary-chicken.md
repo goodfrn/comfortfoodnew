@@ -1,9 +1,10 @@
 ---
-title: "Balsamic Rosemary Chicken"
+title: "Balsamic Rosemary Chicken | Grilled"
+focusKeyphrase: "balsamic rosemary chicken"
 slug: "balsamic-rosemary-chicken"
-description: "Boneless skinless chicken breasts marinated in a tangy balsamic-rosemary glaze with garlic and brown sugar, grilled over indirect medium heat to juicy perfection. Adjusted balsamic vinegar and brown sugar slightly to balance acidity and caramelization. Garlic intensity toned down for subtle savory punch. Fresh rosemary swapped for thyme for a woodsy back note. Grilled carefully to avoid drying, flipping gently by feel. Cooking time flexible based on thickness and grill hot spots. Watch skinless chicken’s color and texture—not just thermometer. Ideal substitution ideas included for pantry gaps and spontaneous twists. Tips on oiling grates and drying chicken halved flare-ups and sticking. Focus on aroma, sizzle, and tactile give for done-ness rather than rigid timing."
-metaDescription: "Balsamic rosemary chicken breasts marinated with garlic, thyme, brown sugar, grilled indirect medium heat for juicy texture and rich caramel glaze"
-ogDescription: "Skinless chicken breasts marinated balsamic, garlic, thyme, grilled carefully indirect heat. Watch glaze, sizzle, touch for just-right juicy bites"
+description: "Grilled chicken breasts with balsamic vinegar, fresh rosemary, and garlic. Tangy, caramelized glaze that stays juicy. Tips for perfect doneness every time."
+metaDescription: "Balsamic rosemary chicken recipe with grilled chicken breasts, balsamic vinegar glaze, and fresh herbs. Juicy results, no dry meat. Make it tonight."
+ogDescription: "Grilled balsamic rosemary chicken with tangy vinegar glaze and fresh herbs. Juicy every time."
 focusKeyphrase: "balsamic rosemary chicken"
 date: 2025-11-12
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "easy dinner"
 - "main dish"
 keywords:
-- "balsamic vinegar"
-- "grilled chicken"
-- "chicken marinade"
+- "balsamic rosemary chicken"
+- "grilled chicken breasts"
+- "balsamic chicken recipe"
+- "rosemary grilled chicken"
+- "easy grilled chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

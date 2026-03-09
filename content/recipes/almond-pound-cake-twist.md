@@ -1,10 +1,10 @@
 ---
-title: "Almond Pound Cake Twist"
+title: "Almond Pound Cake Recipe with Lemon Zest"
 slug: "almond-pound-cake-twist"
-description: "Dense, buttery cake with almond flare, baked in a bundt pan. Uses a mix of flour and almond flour for texture twist. Vanilla swapped with lemon zest for bright lift. Sugar slightly cut down to balance fats. Alternating wet/dry ingredients builds batter strength. Almond glaze with a hint of citrus, topped with toasted almonds. Watch crumb color and toothpick test for doneness. Greasing pan smartly prevents sticky nightmare. Notes on handling flour types and egg temperature. Glaze consistency crucial for right drip. Baking times flex depending on oven hot spots. A touch of salt sharpens sweetness. Not too sweet, not bland. A cake with soul and character."
-metaDescription: "Almond Pound Cake Twist, dense buttery crumb with almond crunch, lemon zest brightens, toasted almond glaze seals rich buttery flavor for 12 servings."
-ogDescription: "Dense butter cake with almond flour crunch, lemon zest zing, almond glaze topped with toasted nuts. Watch crumb, bake right, glaze thick for best drip."
-focusKeyphrase: "Almond Pound Cake Twist"
+description: "Buttery almond pound cake made with almond flour for texture, brightened with lemon zest instead of vanilla. Dense crumb, almond glaze, toasted almonds on top."
+metaDescription: "Almond pound cake recipe using almond flour and lemon zest for bright flavor. Dense, buttery bundt cake with almond glaze. Try it tonight."
+ogDescription: "Almond pound cake with almond flour and lemon zest. Buttery bundt cake with crispy edges and tender crumb. Topped with toasted almonds."
+focusKeyphrase: "almond pound cake recipe"
 date: 2025-10-15
 draft: false
 image: almond-pound-cake-twist.jpg
@@ -22,8 +22,10 @@ tags:
 - "dessert"
 keywords:
 - "almond pound cake"
-- "lemon almond cake"
-- "glazed bundt cake"
+- "almond flour pound cake"
+- "almond bundt cake recipe"
+- "almond pound cake recipe"
+- "lemon almond pound cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "580"

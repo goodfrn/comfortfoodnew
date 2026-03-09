@@ -1,10 +1,11 @@
 ---
 title: "Bacon Pimento Cheese Bites"
+title: "Bacon Pimento Cheese Bites"
 slug: "bacon-pimento-cheese-bites"
-description: "Mini filo shells filled with creamy pimento cheese, drizzled with spicy pepper jelly, topped with crispy bacon crumbles. Baked till just golden, holding firm but tender. Combines crunchy, creamy, smoky, and sweet heat elements. Easy finger food, brewed from trial-and-error on timing and texture balance. Small, savory bites garlicky and smoky with a sweet, slippery glaze. Works as quick appetizer or party snack. Variations tested swapping jalapeño jelly for pepper jelly. Bacon crispness varies—buy thick-cut or pan-fry extra to keep crunch. Shells delicate; watch oven closely so no burn, just warm and melded flavors."
-metaDescription: "Bacon Pimento Cheese Bites with mini filo shells filled creamy pimento cheese, topped pepper jelly and crispy bacon crumbles. Bold Southern snack, quick heat bake."
-ogDescription: "Crunchy filo filled with pimento cheese, drizzled spicy pepper jelly, crispy bacon crumbles. Baked crisp and melty. Bold Southern snack, easy finger food."
-focusKeyphrase: "Bacon Pimento Cheese Bites"
+description: "Mini filo shells filled with creamy pimento cheese, crispy bacon, and spicy pepper jelly. Golden-baked appetizers that combine crunchy, creamy, and smoky flavors in one bite."
+metaDescription: "Pimento cheese appetizers with bacon and pepper jelly in crispy filo shells. Easy finger food that holds up at parties. Save this recipe."
+ogDescription: "Creamy pimento cheese bites with bacon and pepper jelly glaze. Crunchy filo shells, smoky depth, sweet heat."
+focusKeyphrase: "pimento cheese appetizers"
 date: 2025-12-26
 draft: false
 image: bacon-pimento-cheese-bites.jpg
@@ -21,9 +22,11 @@ tags:
 - "party"
 - "spicy"
 keywords:
-- "pimento cheese"
-- "bacon crumbles"
-- "pepper jelly"
+- "pimento cheese appetizers"
+- "appetizers with pimento cheese"
+- "bacon pimento cheese"
+- "pepper jelly appetizer"
+- "filo appetizers"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "53"

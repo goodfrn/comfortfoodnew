@@ -1,10 +1,10 @@
 ---
-title: "Apple Cream Layer Bars"
+title: "Apple Cream Cheese Bars with Pecan Crust"
 slug: "apple-cream-layer-bars"
-description: "A layered dessert with a nutty crust, creamy cheese layer, and apple topping, chilled to set. Uses graham crackers and pecans ground fine, mixed with melted butter and sugar to make a crispy base. Cream cheese combined with vanilla and half the whipped topping creates a tangy, light middle. Apple pie filling smothers this slice, crowned with the rest of the Cool Whip and a sprinkle of pecans. Tastes range from sweet to tart, textures crunchy, creamy, soft. Chilling crucial for slice integrity. Sweet, nutty, tart, and cold — all in one bite."
-metaDescription: "Apple Cream Layer Bars with nutty crust, tangy cream cheese layer, and sweet apple topping. Chilled for clean slices and rich textures in 3 hours."
-ogDescription: "Crunchy pecan crust, creamy cheese middle, sweet apple layer topped with whipped cream and nuts. Chill well then slice clean with wet knife."
-focusKeyphrase: "Apple Cream Layer Bars"
+description: "Apple cream cheese bars with a pecan crust, creamy middle, and spiced apple topping. No-bake dessert that chills firm for easy slicing. Sweet, tart, and crunchy."
+metaDescription: "Apple cream cheese bars recipe: nutty pecan crust, tangy cream cheese layer, apple pie filling. Chill and slice. Make it tonight."
+ogDescription: "Layered apple cream cheese bars. Pecan crust, creamy center, spiced apples on top. Chilled dessert that slices clean."
+focusKeyphrase: "apple cream cheese bars"
 date: 2025-10-16
 draft: false
 image: apple-cream-layer-bars.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "comfort food"
 keywords:
-- "apple bars"
-- "cream cheese dessert"
-- "pecan crust"
+- "apple cream cheese bars"
+- "apple cheesecake crisp"
+- "apple crumb cheesecake bars"
+- "no-bake apple dessert"
+- "pecan crust cheesecake bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "325"

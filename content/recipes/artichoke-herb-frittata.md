@@ -1,10 +1,10 @@
 ---
-title: "Artichoke Herb Frittata"
+title: "Artichoke Frittata with Herb & Goat Cheese"
 slug: "artichoke-herb-frittata"
-description: "Artichokes cooked down with garlic, white wine, and chicken broth. Eggs beaten with parmesan and oregano. Sautéed then oven-baked until set. No nuts, gluten-free, lactose-free. Four servings. A twist with thyme and goat cheese instead of parmesan. Longer simmer time to deepen flavor. Butter and olive oil for rich mouthfeel. Bright lemon keeps artichokes fresh. A simple main dish, versatile for any meal."
-metaDescription: "Artichoke Herb Frittata with tender artichokes simmered in wine and broth, eggs mixed with goat cheese and thyme. Oven-baked Mediterranean dish, gluten-free, lactose-free."
-ogDescription: "Tender artichokes cooked in wine and broth combined with eggs, goat cheese, and thyme. Baked frittata with bright lemon notes. Mediterranean, gluten-free, lactose-free main."
-focusKeyphrase: "Artichoke Herb Frittata"
+description: "Artichoke frittata loaded with garlic, white wine, and fresh herbs. Eggs baked until golden with goat cheese. Gluten-free, ready in 30 minutes."
+metaDescription: "Artichoke frittata recipe with goat cheese and thyme. Simple, gluten-free egg dish that works for any meal. Try it tonight."
+ogDescription: "Artichoke frittata with herbs and goat cheese. Golden eggs, tender artichokes, bright lemon. One pan, 30 minutes."
+focusKeyphrase: "artichoke frittata"
 date: 2025-07-30
 draft: false
 image: artichoke-herb-frittata.jpg
@@ -22,8 +22,10 @@ tags:
 - "mediterranean"
 keywords:
 - "artichoke frittata"
-- "gluten free frittata"
-- "lactose free egg dish"
+- "frittata with artichoke hearts"
+- "artichoke frittata recipe"
+- "herb frittata"
+- "goat cheese frittata"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"

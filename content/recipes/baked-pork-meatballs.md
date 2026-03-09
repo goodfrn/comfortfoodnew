@@ -1,10 +1,10 @@
 ---
-title: "Baked Pork Meatballs Winter Veggies"
+title: "Baked Pork Meatballs with Winter Veggies"
 slug: "baked-pork-meatballs"
-description: "Savoury pork meatballs blended with herbs and soaked breadcrumbs baked alongside hearty winter root vegetables. Aromatic garlic-infused sour cream finishes the dish. Slow roasting melds flavours, thickens sauce. Practical and flexible with common pantry swaps. Textures vary: tender meat, caramelized veggies, crisp garlic chips. Uses rosemary for an earthy punch, can swap pork for veal or turkey. Visual cues key: bubbling sauce, soft veggies, firm but springy meatballs. Real kitchens call for intuition, not timers. Rustic, hands-on approach ideal for cold nights. Comfort, spice, and texture in a single pan."
-metaDescription: "Baked pork meatballs with winter root veggies roasted slow for deep caramel, thickened beef sauce, crisp garlic chips and garlic sour cream finish."
-ogDescription: "Winter veggies roast slow with pork meatballs. Beef stock thickens sauce. Crisp garlic chips on creamy sour cream. Meatballs firm, veggies caramelized."
-focusKeyphrase: "baked pork meatballs winter vegetables"
+description: "Herb-seasoned pork meatballs baked with root vegetables, garlic sour cream sauce. Slow roasting caramelizes veggies and melds flavors into one-pan comfort."
+metaDescription: "Baked pork meatballs with winter vegetables, herbs, and garlic sour cream. Tender meat, caramelized roots, crispy edges. Try it tonight."
+ogDescription: "Pork meatballs roasted with root veggies and herb-infused sour cream. One-pan dinner that actually tastes like someone's cooking."
+focusKeyphrase: "baked pork meatballs"
 date: 2025-09-25
 draft: false
 image: baked-pork-meatballs.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "pork meatballs"
-- "winter root vegetables"
-- "roasting techniques"
+- "baked pork meatballs"
+- "pork meatballs in oven"
+- "pork meatballs recipe"
+- "baked pork meatball recipe"
+- "winter vegetables roasted"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"

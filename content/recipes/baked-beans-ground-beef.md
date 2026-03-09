@@ -1,10 +1,10 @@
 ---
-title: "Baked Beans Ground Beef"
+title: "Baked Beans with Ground Beef & Bacon"
 slug: "baked-beans-ground-beef"
-description: "A skillet baked beans dish with browned ground beef, diced onions, bell peppers, and a tangy tomato-based sauce enhanced with spices. Bacon scattered on top crisps in the oven, marrying smoky, sweet, and savory layers. Cook times tweaked for texture and flavor. Ingredient swap includes swapping molasses for maple syrup to add a subtle, woodsy sweetness. Onion powder replaces fresh onion in a pinch without sacrificing depth. Ground turkey can replace beef for a leaner option. Visual cues guide doneness, with the bacon’s crispness and bubbling beans as the final boss. Simple, rustic, and packed with personality."
-metaDescription: "Baked Beans Ground Beef loaded with smoky bacon, browned meat, and tangy sauce. Layers of texture and flavor built step-by-step in one skillet oven bake."
-ogDescription: "Bacon crisps while beans bubble. Ground beef browned just right. Tangy, sweet, smoky layers meld in the skillet before the oven finishes the job."
-focusKeyphrase: "Baked Beans Ground Beef"
+description: "Skillet baked beans with ground beef, crispy bacon, and tangy tomato sauce. Brown meat with peppers and onions, then bake until the beans bubble and bacon crisps—layers of smoky, sweet, and savory in one dish."
+metaDescription: "Baked beans with ground beef recipe. Browned meat, crispy bacon, and tomato-based sauce baked until tender. Try it tonight."
+ogDescription: "Ground beef baked beans with crispy bacon and tangy sauce. Smoky, sweet, savory—one skillet, big flavor."
+focusKeyphrase: "baked beans with ground beef"
 date: 2025-12-05
 draft: false
 image: baked-beans-ground-beef.jpg
@@ -21,11 +21,11 @@ tags:
 - "one pot"
 - "easy dinner"
 keywords:
-- "baked beans"
-- "ground beef"
-- "bacon"
-- "skillet recipe"
-- "oven baked beans"
+- "baked beans with ground beef"
+- "ground beef baked beans recipe"
+- "baked beans hamburger meat"
+- "bbq baked beans with hamburger"
+- "baked bean and ground beef casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "415"

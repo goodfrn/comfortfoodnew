@@ -1,10 +1,10 @@
 ---
-title: "Apple Pecan Salad"
+title: "Apple Pecan Salad Recipe with Candied Nuts"
 slug: "apple-pecan-salad"
-description: "Candied pecans toasted with a brown sugar twist; tangy apple cider vinaigrette with pineapple juice zing. Crisp spring mix, tart apples, crumbly blue cheese, and cranberries tossed in a bright dressing. Sweet, savory, crunchy, tart all in one bowl. Make candied nuts crunchy but watch the sugar burn. Dressing balances acidity and sweetness; swap pecans for walnuts if you like earthier flavor. Serve chilled, toss gently. A salad with layers and contrast, not your boring leafy greens."
-metaDescription: "Apple Pecan Salad with candied pecans, tangy vinaigrette, blue cheese, and crisp apples. Layers of texture and flavor balanced with citrus and sweet notes."
-ogDescription: "Crunchy candied pecans, tangy vinaigrette, juicy apples, blue cheese bursts. A salad packed with contrast and bright flavors. Serve chilled, toss gently."
-focusKeyphrase: "Apple Pecan Salad"
+description: "Homemade apple pecan salad with candied pecans, crisp greens, blue cheese, and apple cider vinaigrette. Sweet, savory, and crunchy in every bite."
+metaDescription: "Apple pecan salad recipe with candied pecans, tart apples, and tangy dressing. Make it at home tonight."
+ogDescription: "Candied pecans, tart apples, blue cheese, and a bright cider vinaigrette. Layer of contrast in one bowl."
+focusKeyphrase: "apple pecan salad recipe"
 date: 2026-01-22
 draft: false
 image: apple-pecan-salad.jpg
@@ -21,9 +21,11 @@ tags:
 - "cheese"
 - "fall"
 keywords:
-- "pecan salad"
-- "apple salad"
-- "blue cheese salad"
+- "apple pecan salad"
+- "apple and pecan salad"
+- "apple pecan chicken salad"
+- "candied pecans"
+- "apple cider vinaigrette"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "624"

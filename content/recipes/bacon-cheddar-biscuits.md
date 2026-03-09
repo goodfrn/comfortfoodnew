@@ -1,9 +1,12 @@
 ---
 title: "Bacon Cheddar Biscuits Remix"
+focusKeyphrase: "bacon cheddar biscuits"
+title: "Bacon Cheddar Biscuits Remix"
+focusKeyphrase: "bacon cheddar biscuits"
 slug: "bacon-cheddar-biscuits"
-description: "Bacon cheddar biscuits reworked with slight tweaks for texture and flavor. Flour swapped partly for whole wheat for a nuttier bite. Butter quantity slightly trimmed, replaced some milk with buttermilk — tang and rises better. Cheese now a mix of sharp cheddar and pepper jack for a little kick. Tossed in finely diced jalapenos for heat but easily skipped. Baking times stretched based on visual cues — golden tops, cracks forming. Topping switched up: blended cream cheese, herbs, and a touch of honey instead of melted butter mix. Twelve biscuits, around 1 inch apart, puffy and flaky. Tips on cooling wait, storage, and rescue plan if dough sticky or dry."
-metaDescription: "Bacon Cheddar Biscuits Remix with sharp cheddar, pepper jack, whole wheat flour, and a cream cheese herb topping. Balanced heat, texture tweaks, and baking tips included."
-ogDescription: "Bacon cheddar biscuits reworked: whole wheat, pepper jack, jalapeno heat, cream cheese topping, watch golden cracks, keep dough tacky not wet. Bake right, eat warm."
+description: "Bacon cheddar biscuits reworked with whole wheat flour, buttermilk, and sharp cheddar plus pepper jack. Crispy bacon, optional jalapeños, and a cream cheese herb topping."
+metaDescription: "Make bacon cheddar biscuits with whole wheat flour and buttermilk for tangier, fluffier results. Sharp cheddar and pepper jack blend. Try it tonight."
+ogDescription: "Bacon cheddar biscuits with a twist. Whole wheat flour, buttermilk tang, pepper jack kick, and a cream cheese herb topping instead of butter."
 focusKeyphrase: "bacon cheddar biscuits"
 date: 2025-11-14
 draft: false
@@ -21,9 +24,11 @@ tags:
 - "bread"
 - "comfort food"
 keywords:
-- "biscuits recipe"
-- "cheddar biscuits"
-- "bacon biscuit recipe"
+- "bacon cheddar biscuits"
+- "bacon and cheddar biscuits"
+- "cheesy bacon biscuits"
+- "bacon cheddar biscuit recipe"
+- "whole wheat biscuits"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "310"
