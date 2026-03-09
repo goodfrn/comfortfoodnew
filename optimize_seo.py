@@ -33,12 +33,21 @@ SEO RULES:
 - metaDescription: 150-155 characters. PRIMARY keyword in first 10 words. 1 SECONDARY keyword. End with CTA like "Try it tonight." or "Save this one."
 - ogDescription: 100-120 characters. 1 SECONDARY keyword naturally. Punchy. No stuffing. Sounds like a human wrote it.
 - focusKeyphrase: PRIMARY keyword only — the one with highest volume that matches exactly what this recipe IS. Not generic.
-- keywords array: PRIMARY first, then SECONDARY keywords, then LSI. Most relevant first.
+- keywords array: return up to 10 keywords (never more). Put the PRIMARY keyword first. Then choose the strongest SECONDARY and LSI keywords based on relevance to the recipe, search volume, and diversity. Avoid near-duplicate wording variations unless they clearly deserve a slot.
 
 KEYWORD PLACEMENT LOGIC:
 - PRIMARY keyword = highest volume + most specific to this exact recipe
-- SECONDARY keywords = variations and long tail — weave 1-2 naturally across description + ogDescription
-- LSI keywords = semantic variations — keywords array only, never force into text
+- SECONDARY keywords = strong variations and long-tail terms
+- LSI keywords = semantic variations and supporting search terms
+- Use the full keyword list as input, but return only the 10 best keywords in the final keywords array
+- Prefer keywords that are:
+  1. highly relevant to the exact recipe,
+  2. high volume,
+  3. distinct from each other in wording or search intent
+- Avoid wasting keyword slots on tiny wording variants of the same phrase
+- Use around 5 of the strongest keywords naturally across title, description, metaDescription, ogDescription, and focusKeyphrase combined
+- Do not force awkward keywords into the text
+- Do not invent keywords that are not present in the provided keyword list.
 
 Return ONLY valid JSON, no explanation, no markdown backticks:
 {
