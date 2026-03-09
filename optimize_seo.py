@@ -33,13 +33,12 @@ SEO RULES:
 - metaDescription: 150-155 characters. PRIMARY keyword in first 10 words. 1 SECONDARY keyword. End with CTA like "Try it tonight." or "Save this one."
 - ogDescription: 100-120 characters. 1 SECONDARY keyword naturally. Punchy. No stuffing. Sounds like a human wrote it.
 - focusKeyphrase: PRIMARY keyword only — the one with highest volume that matches exactly what this recipe IS. Not generic.
-- keywords array: return up to 10 keywords (never more). Put the PRIMARY keyword first. Then choose the strongest SECONDARY and LSI keywords based on relevance to the recipe, search volume, and diversity. Avoid near-duplicate wording variations unless they clearly deserve a slot.
+- keywords array: return up to 10 keywords (never more). First choose the best PRIMARY keyword from the provided keyword list. Then choose the strongest additional keywords based on relevance to the recipe, search volume, and diversity. Avoid near-duplicate wording variations unless they clearly deserve a slot.
 
 KEYWORD PLACEMENT LOGIC:
-- PRIMARY keyword = highest volume + most specific to this exact recipe
-- SECONDARY keywords = strong variations and long-tail terms
-- LSI keywords = semantic variations and supporting search terms
-- Use the full keyword list as input, but return only the 10 best keywords in the final keywords array
+- PRIMARY keyword = the best keyword from the provided list: highest search value while still matching the exact recipe
+- Additional keywords = strong variations, long-tail terms, and semantic support terms from the provided list
+- Use the full keyword list as input, but return only the best keyword set for this recipe
 - Prefer keywords that are:
   1. highly relevant to the exact recipe,
   2. high volume,
@@ -99,7 +98,7 @@ def get_pending_recipes():
     for kw_file in sorted(Path("keyword_data").glob("*.json")):
         with open(kw_file, "r", encoding="utf-8") as f:
             data = json.load(f)
-        if not data.get("processed") and data.get("keywords", {}).get("primary"):
+        if not data.get("processed") and data.get("keywords", {}).get("all"):
             md_path = f"content/recipes/{data['slug']}.md"
             if Path(md_path).exists():
                 pending.append((md_path, data))
@@ -115,16 +114,10 @@ def mark_as_processed(slug):
 
 def format_keywords_for_prompt(kw_data):
     lines = []
-    primary = kw_data.get("primary")
-    if primary:
-        lines.append(f"PRIMARY: {primary['keyword']} ({primary['volume']}/month)")
-
-    for kw in kw_data.get("secondary", []):
-        lines.append(f"SECONDARY: {kw['keyword']} ({kw['volume']}/month)")
-
-    for kw in kw_data.get("lsi", []):
-        lines.append(f"LSI: {kw['keyword']} ({kw['volume']}/month)")
-
+    for kw in kw_data.get("all", []):
+        lines.append(
+            f"{kw['keyword']} ({kw['volume']}/month, competition {kw['competition']})"
+        )
     return "\n".join(lines)
 
 def optimize_with_claude(client, title, description, kw_data):
