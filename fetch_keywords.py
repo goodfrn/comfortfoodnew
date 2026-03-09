@@ -4,6 +4,7 @@ import glob
 import json
 import time
 import requests
+import anthropic
 from pathlib import Path
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
@@ -14,7 +15,7 @@ API_URL      = "https://api.dataforseo.com/v3/keywords_data/google_ads/keywords_
 batch_size  = int(os.environ.get("BATCH_SIZE", 50))
 start_index = int(os.environ.get("START_INDEX", 0))
 
-MIN_VOLUME       = 100
+MIN_VOLUME       = 50
 MAX_COMPETITION  = 80
 MAX_RESULTS_KEPT = 15
 
@@ -32,26 +33,41 @@ def get_field(yaml_content, field):
     return ""
 
 def already_fetched(slug):
-    return Path(f"keyword_data/{slug}.json").exists()
+    f = Path(f"keyword_data/{slug}.json")
+    if not f.exists():
+        return False
+    with open(f, "r", encoding="utf-8") as fp:
+        data = json.load(fp)
+    # refetch si primary est null
+    return data.get("keywords", {}).get("primary") is not None
 
 def load_skip_list():
     skip_file = Path("seo_skip.txt")
     if not skip_file.exists():
         return set()
     with open(skip_file, "r", encoding="utf-8") as f:
-        return set(line.strip() for line in f if line.strip())
+        return set(line.strip() for line in f if line.strip() and not line.startswith("#"))
 
-def fetch_keywords(title):
-    seed = [title.lower()]
-    words = title.lower().split()
-    if len(words) >= 3:
-        seed.append(" ".join(words[:3]))
-    if len(words) >= 2:
-        seed.append(" ".join(words[:2]))
+def get_seed_keyword(client, title, description):
+    """Use Haiku to extract the best seed keyword from title + description"""
+    message = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=20,
+        messages=[{
+            "role": "user",
+            "content": f"""Recipe title: {title}
+Description: {description[:200]}
 
+Return the single most searched Google keyword for this recipe.
+Short, simple, no fluff. Just the keyword, nothing else."""
+        }]
+    )
+    return message.content[0].text.strip().lower()
+
+def fetch_keywords(seed_keyword):
+    """Call DataForSEO with seed keyword — worldwide, no location filter"""
     payload = [{
-        "keywords": seed[:5],
-        "location_code": 2826,
+        "keywords": [seed_keyword],
         "language_code": "en",
         "sort_by": "search_volume"
     }]
@@ -74,7 +90,8 @@ def fetch_keywords(title):
             print(f"    Task error: {task.get('status_message')}")
             return None
 
-        GENERIC = {"recipe", "food", "dinner", "recipes", "easy", "healthy", "cooking", "make", "best", "how to"}
+        GENERIC = {"recipe", "food", "dinner", "recipes", "easy", "healthy",
+                   "cooking", "make", "best", "how to", "homemade", "simple", "quick"}
 
         all_keywords = []
         for result in (task.get("result") or []):
@@ -99,7 +116,6 @@ def fetch_keywords(title):
         all_keywords.sort(key=lambda x: x["volume"], reverse=True)
         top = all_keywords[:MAX_RESULTS_KEPT]
 
-        # Classify primary / secondary / lsi
         primary   = top[0] if len(top) > 0 else None
         secondary = top[1:4] if len(top) > 1 else []
         lsi       = top[4:] if len(top) > 4 else []
@@ -115,12 +131,13 @@ def fetch_keywords(title):
         print(f"    Exception: {e}")
         return None
 
-def save_keyword_data(slug, title, keywords):
+def save_keyword_data(slug, title, seed, keywords):
     Path("keyword_data").mkdir(exist_ok=True)
     with open(f"keyword_data/{slug}.json", "w", encoding="utf-8") as f:
         json.dump({
             "slug": slug,
             "title": title,
+            "seed_keyword": seed,
             "keywords": keywords,
             "processed": False
         }, f, indent=2, ensure_ascii=False)
@@ -130,6 +147,11 @@ def main():
     if not DFS_LOGIN or not DFS_PASSWORD:
         raise ValueError("DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD are required")
 
+    api_key = os.environ.get("ANTHROPIC_API_KEY")
+    if not api_key:
+        raise ValueError("ANTHROPIC_API_KEY is required")
+
+    client       = anthropic.Anthropic(api_key=api_key)
     skip_list    = load_skip_list()
     recipe_files = sorted(glob.glob("content/recipes/*.md"))
     total        = len(recipe_files)
@@ -165,27 +187,34 @@ def main():
             skipped += 1
             continue
 
-        title = get_field(yaml_content, "title")
+        title       = get_field(yaml_content, "title")
+        description = get_field(yaml_content, "description")
+
         if not title:
             print(f"  [{i+1}] SKIP (no title): {slug}")
             skipped += 1
             continue
 
-        print(f"  [{i+1}] Fetching: {title}")
+        print(f"  [{i+1}] Processing: {title}")
 
-        keywords = fetch_keywords(title)
+        # Haiku génère le seed keyword propre
+        seed = get_seed_keyword(client, title, description)
+        print(f"         seed: '{seed}'")
+
+        # DataForSEO avec le seed propre
+        keywords = fetch_keywords(seed)
 
         if keywords is None:
             print(f"         ERROR: API failed")
             errors += 1
             continue
 
-        save_keyword_data(slug, title, keywords)
+        save_keyword_data(slug, title, seed, keywords)
 
         if keywords["primary"]:
             print(f"         OK → primary: '{keywords['primary']['keyword']}' ({keywords['primary']['volume']}/mo) | {len(keywords['all'])} total")
         else:
-            print(f"         OK: 0 keywords returned (low volume)")
+            print(f"         WARN: 0 keywords returned for seed '{seed}'")
 
         fetched += 1
         time.sleep(5)
