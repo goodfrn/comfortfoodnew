@@ -1,0 +1,45 @@
+{
+  "slug": "caramel-apple-cheesecake-dip",
+  "title": "Caramel Apple Cheesecake Dip Twist",
+  "seed_keyword": "caramel apple cheesecake dip",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caramel apple cheesecake dip",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel cheesecake dip",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesecake caramel apple dip",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "apple cheesecake dip",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel apple cheesecake dip recipe",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel cheesecake dip for apples",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake caramel dip",
+        "volume": 110,
+        "competition": 5
+      }
+    ]
+  },
+  "processed": false
+}

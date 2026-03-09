@@ -1,0 +1,20 @@
+{
+  "slug": "broccolini-red-wine-vinegar",
+  "title": "Broccolini Red Wine Vinegar",
+  "seed_keyword": "charred broccolini",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "charred broccolini",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "charred broccolini recipe",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "brown-butter-banana-cake",
+  "title": "Brown Butter Banana Cake",
+  "seed_keyword": "brown butter banana cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brown butter banana cake",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "banana cake with brown butter frosting",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "butter banana cake recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "butter banana cake",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "butter icing for banana cake",
+        "volume": 210,
+        "competition": 3
+      }
+    ]
+  },
+  "processed": false
+}

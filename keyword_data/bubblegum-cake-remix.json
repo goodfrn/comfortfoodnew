@@ -1,0 +1,15 @@
+{
+  "slug": "bubblegum-cake-remix",
+  "title": "Bubblegum Cake Remix",
+  "seed_keyword": "bubblegum cake recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bubble gum cake",
+        "volume": 1300,
+        "competition": 24
+      }
+    ]
+  },
+  "processed": false
+}

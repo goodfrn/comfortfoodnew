@@ -1,0 +1,45 @@
+{
+  "slug": "butter-chicken-style-tofu",
+  "title": "Butter Chicken Style Tofu",
+  "seed_keyword": "butter chicken tofu",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "buttered tofu recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "butter chicken tofu",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan butter tofu",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan butter chicken tofu",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian butter chicken tofu",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "butter tofu indian",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu butter chicken recipe",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

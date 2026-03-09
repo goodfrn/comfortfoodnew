@@ -1,0 +1,40 @@
+{
+  "slug": "brownies-in-a-jar",
+  "title": "Brownies In A Jar",
+  "seed_keyword": "brownie mix in a jar",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brownie in a jar",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "chocolate brownie in a jar",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "brownie mix in a jar",
+        "volume": 720,
+        "competition": 30
+      },
+      {
+        "keyword": "chocolate brownie mix in a jar",
+        "volume": 720,
+        "competition": 30
+      },
+      {
+        "keyword": "brownie in a jar recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate brownie jar recipe",
+        "volume": 480,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

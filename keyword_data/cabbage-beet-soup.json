@@ -1,0 +1,40 @@
+{
+  "slug": "cabbage-beet-soup",
+  "title": "Cabbage Beet Soup",
+  "seed_keyword": "cabbage beet soup",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cabbage beet soup",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "beet and cabbage soup",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "beetroot and cabbage soup",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "beet and cabbage borscht",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "beet borscht with cabbage",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage and beet borscht",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

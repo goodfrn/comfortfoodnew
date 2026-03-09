@@ -1,0 +1,260 @@
+{
+  "slug": "buttered-seasoned-noodles",
+  "title": "Buttered Seasoned Noodles",
+  "seed_keyword": "buttered noodles",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "buttered noodles",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "butter and noodles",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "noodles buttered noodles",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "butter noodles recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "noodles and butter recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "noodles buttered noodles recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "noodle peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "noodles and peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "butter and garlic noodles",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "butter garlic noodle",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter ramen",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic butter noodles with shrimp",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut butter and ramen",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and ramen noodles",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter ramen noodle",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon butter noodles",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "peanut spicy noodles",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "butter garlic noodle recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter noodle recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "butter noodles with parmesan",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "noodles with butter and parmesan",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "butter egg noodles",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "egg noodles and butter",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "noodle peanut butter sauce",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "spaghetti peanut butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "butter chicken and noodles",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "butter noodles and chicken",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "butter noodles with chicken",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "best butter noodle recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "good butter noodles recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter noodles spicy",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "butter egg noodle recipes",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut butter ramen noodle recipes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter ramen recipes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian noodles with peanut butter",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "best butter noodles",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "butter garlic parmesan noodles",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "butter noodle recipe easy",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken peanut butter noodles",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese noodles with peanut butter",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy garlic butter noodles",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter noodles thai",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter udon noodles",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "simple butter noodle recipe",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "noodles and company buttered noodles recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "noodles & company buttered noodles",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "butter noodles noodles and company",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "corn butter ramen",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "easy butter noodles",
+        "volume": 720,
+        "competition": 5
+      }
+    ]
+  },
+  "processed": false
+}

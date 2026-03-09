@@ -1,0 +1,20 @@
+{
+  "slug": "brown-butter-banana-brownies",
+  "title": "Brown Butter Banana Brownies",
+  "seed_keyword": "brown butter banana brownies",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "banana bread brownies with brown butter frosting",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "banana brownies with brown butter frosting",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "caramel-pecan-cake",
+  "title": "Caramel Pecan Upside Down Cake",
+  "seed_keyword": "caramel pecan upside down cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caramel pecan upside down cake",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "pecan caramel upside down cake",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "upside down pecan caramel cake",
+        "volume": 170,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

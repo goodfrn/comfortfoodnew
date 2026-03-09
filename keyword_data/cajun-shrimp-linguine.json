@@ -1,0 +1,260 @@
+{
+  "slug": "cajun-shrimp-linguine",
+  "title": "Cajun Shrimp Linguine Twist",
+  "seed_keyword": "cajun shrimp pasta",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cajun shrimp pasta",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp alfredo with fettuccine",
+        "volume": 6600,
+        "competition": 14
+      },
+      {
+        "keyword": "cajun pasta recipe shrimp",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp and pasta recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp recipes with pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta shrimp and sausage",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta shrimp sausage",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with sausage and shrimp",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "sausage & shrimp pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp pasta with sausage",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun alfredo shrimp",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun fettuccine alfredo with shrimp",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp fettuccine alfredo cajun",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun creamy shrimp pasta",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun pasta shrimp sausage",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun pasta with sausage and shrimp",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "sausage and shrimp cajun pasta",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun chicken & shrimp pasta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun chicken and shrimp pasta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun pasta chicken and shrimp",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp and chicken pasta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp chicken pasta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "spicy cajun chicken and shrimp pasta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun seafood pasta",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun chicken pasta fridays",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "cajun chicken pasta tgi fridays",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "cajun chicken pasta tgif",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "shrimp and chicken pasta recipe",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "tgi friday cajun chicken pasta",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "blackened shrimp fettuccine alfredo",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun prawn pasta",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cajun shrimp alfredo recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp fettuccine alfredo recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta recipes with sausage and shrimp",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta shrimp and sausage recipes",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta shrimp sausage recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "sausage and shrimp alfredo",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp and sausage pasta dishes",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp pasta and sausage recipes",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp sausage pasta alfredo",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp fettuccine",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp fettuccine pasta",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp and chicken pasta fridays",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "fridays cajun shrimp and chicken pasta",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and shrimp alfredo",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and shrimp pasta fridays",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and shrimp pasta tgi fridays",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and shrimp pasta tgif",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken shrimp alfredo",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp and chicken pasta tgi fridays",
+        "volume": 480,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

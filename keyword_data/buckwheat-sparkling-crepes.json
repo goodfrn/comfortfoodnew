@@ -1,0 +1,105 @@
+{
+  "slug": "buckwheat-sparkling-crepes",
+  "title": "Buckwheat Sparkling Crêpes",
+  "seed_keyword": "buckwheat crepes",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "buckwheat crepes",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "crepes and galettes",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "buckwheat crepe recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "buckwheat galette",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "buckwheat galette recipe",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "buckwheat crepe gluten free",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "buckwheat flour crepe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "buckwheat flour for crepes",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "buckwheat french crepes",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "french buckwheat flour",
+        "volume": 260,
+        "competition": 45
+      },
+      {
+        "keyword": "breton crepe recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "brittany galette",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "buckwheat crepes near me",
+        "volume": 170,
+        "competition": 21
+      },
+      {
+        "keyword": "buckwheat crepes vegan",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "buckwheat recipes savory",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "crepe galette recipe",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "buckwheat crepe recipe gluten free",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "buckwheat crepes savory",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "savoury buckwheat crepes",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

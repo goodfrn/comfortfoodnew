@@ -1,0 +1,260 @@
+{
+  "slug": "brown-sage-butter-sauce",
+  "title": "Brown Sage Butter Sauce",
+  "seed_keyword": "brown butter sage sauce",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brown butter sage sauce",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "brown butter and sage sauce",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "butter sauce for squash ravioli",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "sauces for butternut ravioli",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "butter and sage sauce",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "butter sage sauce",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter sauce for pasta",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter and sage",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "brown butter and sage gnocchi",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "brown butter sage",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "brown butter sage gnocchi",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "brown butter sage sauce for butternut squash ravioli",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "butter ravioli sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "sage brown butter sauce for butternut squash ravioli",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "brown butter ravioli sauce",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "butter and sage gnocchi",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "butter sage gnocchi",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "gnocchi with sage and butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta sage butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "ravioli and brown butter sauce",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "burnt butter and sage sauce",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "burnt butter sage sauce",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "butter and sage ravioli",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "butter and sage sauce for ravioli",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "butter sage ravioli",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "butter sage sauce for ravioli",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "gnocchi with browned butter",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "ravioli with sage and butter sauce",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "sage butter for ravioli",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter and sage pasta",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "brown butter pasta sage",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "brown butter sage sauce for gnocchi",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "butter and sage pasta sauce",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "butter sage pasta sauce",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter and sage sauce recipe",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "brown butter ravioli",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "brown butter sage sauce for ravioli",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "brown butter sage sauce recipe",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "ravioli with sage brown butter sauce",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for sage brown butter sauce",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for sage butter",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "brown butter and sage ravioli",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "brown butter sage ravioli",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "browned butter sauce recipe",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "butter sauce for gnocchi",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut ravioli sauce recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "butternut squash ravioli recipe sauce",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "gnocchi and sage",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "gnocchi sage",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "ravioli with sage brown butter",
+        "volume": 880,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,55 @@
+{
+  "slug": "caramel-chocolate-pretzels",
+  "title": "Caramel Chocolate Pretzels",
+  "seed_keyword": "caramel chocolate pretzels",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pecan pretzel rolo",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "hersheys gold",
+        "volume": 1600,
+        "competition": 33
+      },
+      {
+        "keyword": "chocolate m&m pretzels",
+        "volume": 1000,
+        "competition": 34
+      },
+      {
+        "keyword": "rolos turtles",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "mrs prindables chocolate covered pretzels",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel dipped pretzels",
+        "volume": 210,
+        "competition": 76
+      },
+      {
+        "keyword": "rolo pretzel delights",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "caramel apple pretzel",
+        "volume": 110,
+        "competition": 16
+      },
+      {
+        "keyword": "caramel pretzel turtles",
+        "volume": 110,
+        "competition": 6
+      }
+    ]
+  },
+  "processed": false
+}

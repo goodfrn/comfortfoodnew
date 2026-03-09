@@ -1,0 +1,50 @@
+{
+  "slug": "butternut-squash-couscous-fritters",
+  "title": "Butternut Squash Couscous Fritters",
+  "seed_keyword": "butternut squash fritters",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "butternut squash fritters",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "butternut fritters",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "squash fritters recipe",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for squash cakes",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut fritters recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "butternut squash fritters recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "butternut squash pancake recipes",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut squash patties",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

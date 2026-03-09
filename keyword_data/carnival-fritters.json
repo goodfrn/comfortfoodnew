@@ -1,0 +1,260 @@
+{
+  "slug": "carnival-fritters",
+  "title": "Carnival Fritters Twist",
+  "seed_keyword": "fritters recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "apple fritters",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "applesauce fritters",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "fritters",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini fritters",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "corn fritters",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "banana fritter",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "corn fritters recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "apple fritter recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "zucchini fritters recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "courgette fritters",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweetcorn fritters",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "potato fritters",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "zucchini cakes",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini and corn fritters",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "banana fritter recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "buñuelo recipe",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "corn & zucchini fritters",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini pancake",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin fritters",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan fritters",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "baked apple fritter",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for zucchini cakes",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian fritter",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "veggies fritters",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fritters recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "apple fritter bread",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple fritter donuts",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "pineapple fritter",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "maruya recipe",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "chick pea fritter",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "cod fish fritter",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "cod fritter",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "corn beef fritter",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "corn cakes recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "corn meat fritter",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "corn pancake",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "corned beef and corn fritters",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "garbanzo bean fritters",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "garbanzo fritters",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "potato and sweet potato fritters",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato fritter",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "white bait fritters",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini balls",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin fritters recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli fritter",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "conch fritter recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy corn fritters recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "alcapurria recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "apple fritter cake",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "apple fritter recipe baked",
+        "volume": 3600,
+        "competition": 3
+      }
+    ]
+  },
+  "processed": false
+}

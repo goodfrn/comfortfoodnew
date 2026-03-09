@@ -1,0 +1,35 @@
+{
+  "slug": "butternut-goat-cheese-tart",
+  "title": "Butternut Goat Cheese Tart",
+  "seed_keyword": "butternut squash tart",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "butternut squash tart",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "butternut tart",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "squash tartlets",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "butternut squash puff pastry tart",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "butternut squash tart recipe",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

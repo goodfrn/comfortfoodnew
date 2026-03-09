@@ -1,0 +1,40 @@
+{
+  "slug": "bubba-breakfast-burger",
+  "title": "Bubba Breakfast Burger",
+  "seed_keyword": "breakfast burger with egg",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bacon & egg burger",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and egg burgers",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and egg cheeseburger",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "scrambled egg burger",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon and egg burger near me",
+        "volume": 210,
+        "competition": 13
+      },
+      {
+        "keyword": "ham and egg burger",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

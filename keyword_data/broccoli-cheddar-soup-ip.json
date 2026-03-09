@@ -1,0 +1,90 @@
+{
+  "slug": "broccoli-cheddar-soup-ip",
+  "title": "Broccoli Cheddar Soup IP",
+  "seed_keyword": "broccoli cheddar soup instant pot",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "broccoli cheddar soup in instant pot",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "instant pot broccoli cheddar soup",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheddar soup instant pot",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli cheese soup instant pot",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "instant pot broccoli and cheese soup",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "instant pot broccoli cheese soup",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli soup in instant pot",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "instant pot broccoli soup",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli soup instant pot",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "instant pot cheddar broccoli soup",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheddar soup pressure cooker",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "pressure cooker broccoli cheese soup",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheddar soup recipe instant pot",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli soup in pressure cooker",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli soup pressure cooker",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cheddar broccoli soup instant pot",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

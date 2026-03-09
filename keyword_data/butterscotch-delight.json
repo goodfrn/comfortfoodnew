@@ -1,0 +1,85 @@
+{
+  "slug": "butterscotch-delight",
+  "title": "Twisted Butterscotch Delight",
+  "seed_keyword": "butterscotch pudding dessert",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "butter scotch pudding recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "budino butterscotch",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "butterscotch dessert",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "homemade butterscotch pudding",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "bread pudding butterscotch",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "butterscotch dessert ideas",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "butterscotch dessert recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "butterscotch pudding pie",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "butterscotch pudding dessert",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "butterscotch custard",
+        "volume": 480,
+        "competition": 29
+      },
+      {
+        "keyword": "butterscotch budino recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "butterscotch banana pudding",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "recipes with butterscotch pudding",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "butterscotch pudding pumpkin bread",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "butterscotch pudding recipe with milk",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

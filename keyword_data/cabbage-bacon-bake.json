@@ -1,0 +1,20 @@
+{
+  "slug": "cabbage-bacon-bake",
+  "title": "Cabbage Bacon Bake",
+  "seed_keyword": "cabbage bacon bake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "baked cabbage and bacon",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage in the oven with bacon",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

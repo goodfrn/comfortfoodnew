@@ -1,0 +1,20 @@
+{
+  "slug": "butter-tofu-masala",
+  "title": "Butter Tofu Masala",
+  "seed_keyword": "butter tofu masala",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tofu butter masala",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "butter tofu masala",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,50 @@
+{
+  "slug": "burrata-toasts",
+  "title": "Burrata Toasts with Roasted Tomatoes and Fried Egg",
+  "seed_keyword": "burrata toast",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "burrata toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "burrata on toast",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "burrata toast recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "toast burrata",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "burrata avocado toast",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "burrata sourdough",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado toast with burrata",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "peach burrata toast",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

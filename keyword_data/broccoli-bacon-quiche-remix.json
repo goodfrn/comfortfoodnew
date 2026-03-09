@@ -1,0 +1,55 @@
+{
+  "slug": "broccoli-bacon-quiche-remix",
+  "title": "Broccoli Bacon Quiche Remix",
+  "seed_keyword": "broccoli bacon quiche",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "broccoli bacon quiche",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and broccoli quiche",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "quiche with broccoli and bacon",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and broccoli quiche recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon broccoli quiche recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon broccoli cheddar quiche",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon broccoli and cheese quiche",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon broccoli cheese quiche",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon cheese and broccoli quiche",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

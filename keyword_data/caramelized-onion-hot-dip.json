@@ -1,0 +1,260 @@
+{
+  "slug": "caramelized-onion-hot-dip",
+  "title": "Caramelized Onion Hot Dip",
+  "seed_keyword": "caramelized onion dip",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caramelized onion dip",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "onion dip with caramelized onions",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "caramelized onion dip trader joe's",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "trader joe's caramelized onion dip",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "caramelised onion dip recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "caramelized onion dip recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "caramelized onion hummus",
+        "volume": 1600,
+        "competition": 77
+      },
+      {
+        "keyword": "caramelised onion houmous",
+        "volume": 1600,
+        "competition": 77
+      },
+      {
+        "keyword": "caramelised onion hummus",
+        "volume": 1600,
+        "competition": 77
+      },
+      {
+        "keyword": "hummus with caramelized onions",
+        "volume": 1600,
+        "competition": 77
+      },
+      {
+        "keyword": "greek yogurt french onion dip",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "greek yogurt onion dip",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "easy french onion dip recipe",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon and caramelized onion dip",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon caramelized onion dip",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "caramelized onion and bacon dip",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "sour cream and onion dip with greek yogurt",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "caramelized onion and gruyere dip",
+        "volume": 480,
+        "competition": 58
+      },
+      {
+        "keyword": "caramelized onion gruyere dip",
+        "volume": 480,
+        "competition": 58
+      },
+      {
+        "keyword": "onion and bacon dip",
+        "volume": 480,
+        "competition": 13
+      },
+      {
+        "keyword": "onion bacon dip",
+        "volume": 480,
+        "competition": 13
+      },
+      {
+        "keyword": "trader joe's onion dip",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "caramelised french onion dip",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "caramelised onion hummus recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "caramelized french onion dip",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "caramelized onion hummus recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "french onion dip with caramelized onions",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade french onion dip recipe",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for homemade french onion dip",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "caramelized onion dip ina garten",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "hummus onion",
+        "volume": 320,
+        "competition": 76
+      },
+      {
+        "keyword": "onion hummus",
+        "volume": 320,
+        "competition": 76
+      },
+      {
+        "keyword": "cream cheese french onion dip",
+        "volume": 260,
+        "competition": 9
+      },
+      {
+        "keyword": "trader joe's french onion dip",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan caramelized onion dip",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "warm french onion dip",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "yogurt and onion dip",
+        "volume": 210,
+        "competition": 11
+      },
+      {
+        "keyword": "baked french onion dip",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "caramelized onion dip greek yogurt",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "caramelized onion dressing",
+        "volume": 170,
+        "competition": 40
+      },
+      {
+        "keyword": "greek yogurt caramelized onion dip",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "ina garten caramelized onions",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon french onion dip",
+        "volume": 140,
+        "competition": 40
+      },
+      {
+        "keyword": "caramelised hummus",
+        "volume": 140,
+        "competition": 67
+      },
+      {
+        "keyword": "caramelized onion cream cheese dip",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "caramelized onion dip hot",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "french onion and bacon dip",
+        "volume": 140,
+        "competition": 40
+      },
+      {
+        "keyword": "french onion bacon dip",
+        "volume": 140,
+        "competition": 40
+      },
+      {
+        "keyword": "greek yogurt onion dip recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "hot caramelized onion dip",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

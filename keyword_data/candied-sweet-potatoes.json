@@ -1,0 +1,60 @@
+{
+  "slug": "candied-sweet-potatoes",
+  "title": "Candied Sweet Potatoes Pecan Twist",
+  "seed_keyword": "candied sweet potatoes with pecans",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "candied sweet potatoes with pecans",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "candied yams and pecans",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "candied sweet potatoes with marshmallows and pecans",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "candied sweet potatoes with pecans and marshmallows",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "candied yams with marshmallows and pecans",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "candied pecan sweet potato casserole",
+        "volume": 260,
+        "competition": 10
+      },
+      {
+        "keyword": "candied sweet potato casserole with pecans",
+        "volume": 260,
+        "competition": 10
+      },
+      {
+        "keyword": "candied pecan sweet potato recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "candied pecan yams recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for candied sweet potatoes with pecans",
+        "volume": 170,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

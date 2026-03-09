@@ -1,0 +1,25 @@
+{
+  "slug": "braised-maple-endives",
+  "title": "Braised Maple Endives",
+  "seed_keyword": "braised endives",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "endives chicory",
+        "volume": 1600,
+        "competition": 23
+      },
+      {
+        "keyword": "braised endives",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "braised endive recipe",
+        "volume": 390,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

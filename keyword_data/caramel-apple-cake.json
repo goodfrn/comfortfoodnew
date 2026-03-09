@@ -1,0 +1,70 @@
+{
+  "slug": "caramel-apple-cake",
+  "title": "Caramel Apple Upside Cake",
+  "seed_keyword": "caramel apple upside down cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "apple upside cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple upside down cakes",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple upside cake recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "apple upside down cake recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel apple upside down cake",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple upside down cake with caramel sauce",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel apple upside cake",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel apple upside down",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel upside down cake",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "apple caramel upside down cake recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon apple upside down cake",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "toffee apple upside down cake",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

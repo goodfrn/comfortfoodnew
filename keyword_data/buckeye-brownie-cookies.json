@@ -1,0 +1,55 @@
+{
+  "slug": "buckeye-brownie-cookies",
+  "title": "Buckeye Brownie Cookies",
+  "seed_keyword": "buckeye brownie cookies",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brownie buckeyes",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "buckeye brownie cookies",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "buckeye brownie cookie crumbl",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "buckeye brownie cookies crumbl",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "buckeye brownie crumbl",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "buckeye brownie cookie recipe",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "crumbl buckeye brownie",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "buckeye brownie crumbl cookie",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "crumbl buckeye brownie cookie",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

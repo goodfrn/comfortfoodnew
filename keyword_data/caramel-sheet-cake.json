@@ -1,0 +1,25 @@
+{
+  "slug": "caramel-sheet-cake",
+  "title": "Caramel Sheet Cake Twist",
+  "seed_keyword": "caramel sheet cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caramel sheet cake",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel sheet",
+        "volume": 260,
+        "competition": 26
+      },
+      {
+        "keyword": "apple caramel sheet cake",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

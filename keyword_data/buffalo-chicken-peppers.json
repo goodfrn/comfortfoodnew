@@ -1,0 +1,30 @@
+{
+  "slug": "buffalo-chicken-peppers",
+  "title": "Buffalo Chicken Stuffed Peppers",
+  "seed_keyword": "buffalo chicken stuffed peppers",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "buffalo chicken stuffed peppers",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "buffalo chicken jalapeno poppers",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "buffalo stuffed peppers",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "buffalo chicken stuffed peppers recipe",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

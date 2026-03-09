@@ -1,0 +1,45 @@
+{
+  "slug": "buffalo-chicken-nachos",
+  "title": "Buffalo Chicken Nachos Remix",
+  "seed_keyword": "buffalo chicken nachos",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "buffalo chicken nachos",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken nacho taco bell",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken totchos",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "buffalo nachos",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "spicy chicken nachos",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "buffalo chicken nachos near me",
+        "volume": 140,
+        "competition": 13
+      },
+      {
+        "keyword": "buffalo wild wings nacho recipe",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

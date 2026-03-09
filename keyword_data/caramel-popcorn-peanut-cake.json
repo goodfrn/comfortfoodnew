@@ -1,0 +1,20 @@
+{
+  "slug": "caramel-popcorn-peanut-cake",
+  "title": "Caramel Popcorn Peanut Cake",
+  "seed_keyword": "caramel popcorn cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caramel popcorn cake",
+        "volume": 320,
+        "competition": 14
+      },
+      {
+        "keyword": "caramel corn cake",
+        "volume": 320,
+        "competition": 14
+      }
+    ]
+  },
+  "processed": false
+}

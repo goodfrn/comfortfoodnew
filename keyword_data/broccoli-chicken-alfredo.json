@@ -1,0 +1,260 @@
+{
+  "slug": "broccoli-chicken-alfredo",
+  "title": "Broccoli Chicken Alfredo",
+  "seed_keyword": "broccoli chicken alfredo",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fettuccine alfredo with chicken and broccoli",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "alfredo sauce broccoli chicken",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "alfredo sauce with broccoli and chicken",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "alfredo sauce with chicken and broccoli",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "alfredo with broccoli and chicken",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken alfredo fettuccine with broccoli",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken and broccoli with alfredo sauce",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken pasta alfredo with broccoli",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "pasta alfredo broccoli chicken",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken broccoli pasta",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken broccoli alfredo recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and broccoli alfredo recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "broccoli chicken fettuccine alfredo recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and broccoli alfredo sauce recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and broccoli fettuccine alfredo recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken broccoli alfredo fettuccine recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken broccoli alfredo sauce recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "fettuccine alfredo recipe chicken broccoli",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "alfredo and broccoli",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "alfredo broccoli",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked chicken broccoli pasta",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli alfredo fettuccine",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli and fettuccine alfredo",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli fettuccine alfredo",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and broccoli alfredo",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "baked broccoli chicken alfredo",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked chicken and broccoli alfredo",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked chicken fettuccine alfredo with broccoli",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli chicken and ziti",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "ziti broccoli chicken",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli chicken alfredo",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "fettuccine alfredo recipe with broccoli",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo pasta with broccoli",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "alfredo pasta chicken and broccoli",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken and broccoli penne",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken broccoli penne",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken broccoli penne pasta",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "penne pasta with chicken and broccoli",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "easy chicken broccoli alfredo recipe",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "easy broccoli chicken alfredo recipe",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "easy chicken and broccoli alfredo recipe",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "easy chicken and broccoli fettuccine alfredo recipe",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "fettuccine broccoli chicken alfredo",
+        "volume": 720,
+        "competition": 10
+      },
+      {
+        "keyword": "fettuccine chicken broccoli alfredo",
+        "volume": 720,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled chicken and broccoli",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled chicken broccoli",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "simple chicken and broccoli alfredo recipe",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken and broccoli alfredo in crockpot",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken broccoli alfredo slow cooker",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken broccoli alfredo ziti",
+        "volume": 590,
+        "competition": 4
+      }
+    ]
+  },
+  "processed": false
+}

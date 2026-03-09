@@ -1,0 +1,260 @@
+{
+  "slug": "buffalo-chicken-mac-cheese",
+  "title": "Buffalo Chicken Mac Cheese",
+  "seed_keyword": "buffalo chicken mac and cheese",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken mac and cheese",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and mac and cheese",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken mac n cheese",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and mac n cheese",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken mac & cheese",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken macaroni & cheese",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "buffalo chicken mac and cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken mac n cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken mac & cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken mac",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken macaroni and cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken and mac and cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken macaroni",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken macaroni & cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo chicken wing mac and cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo mac and cheese with chicken",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo wing mac and cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo wings mac and cheese",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo mac and cheese",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "buffalo mac n cheese",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken mac",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "buffalo mac & cheese",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "buffalo macaroni and cheese",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "buffalo chicken mac and cheese recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "buffalo chicken mac n cheese recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "buffalo chicken mac recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "buffalo chicken mac & cheese recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "buffalo chicken macaroni and cheese recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "buffalo wing mac and cheese recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken for mac and cheese",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wing mac and cheese recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken mac and cheese recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and mac and cheese recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and mac n cheese recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken mac & cheese recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken mac n cheese recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken mac recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken macaroni and cheese recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "buffalo mac and cheese recipe",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "buffalo chicken mac and cheese crock pot",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "buffalo chicken mac and cheese slow cooker",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "buffalo chicken mac cheese crock pot",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "buffalo chicken mac n cheese crock pot",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "buffalo mac & cheese recipe",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "buffalo macaroni and cheese recipe",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken and mac",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe buffalo mac and cheese",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "buffalo mac and cheese crock pot",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker chicken macaroni and cheese",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "buffalo mac",
+        "volume": 480,
+        "competition": 4
+      }
+    ]
+  },
+  "processed": false
+}
