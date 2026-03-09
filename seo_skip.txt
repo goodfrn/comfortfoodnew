@@ -1,0 +1,4 @@
+# Recettes à ne pas toucher — une ligne par slug
+# Exemple:
+# tofu-udon
+# caramelized-onion-pasta
