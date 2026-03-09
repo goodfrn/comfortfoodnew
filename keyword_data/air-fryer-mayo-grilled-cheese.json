@@ -1,0 +1,514 @@
+{
+  "slug": "air-fryer-mayo-grilled-cheese",
+  "title": "Air Fryer Mayo Grilled Cheese",
+  "seed_keyword": "air fryer grilled cheese",
+  "keywords": {
+    "primary": {
+      "keyword": "air fryer grilled cheese",
+      "volume": 27100,
+      "competition": 30
+    },
+    "secondary": [
+      {
+        "keyword": "air fry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fry cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fryer cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "airfry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "airfryer grilled cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in a air fryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in an airfryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese sandwich airfryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese sandwich in airfryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in air fryer",
+        "volume": 14800,
+        "competition": 33
+      }
+    ],
+    "lsi": [
+      {
+        "keyword": "airfryer grilled cheese",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "grilled cheese air fryer",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "cheese toast in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese toastie in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer grilled cheese sandwich",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "air fry toastie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer cheese toast",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer cheese toastie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer toastie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer toasties",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese on toast in air fryer",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "airfryer cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese in the air fryer",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "cheese on toast air fryer",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese toast air fryer",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese toastie air fryer",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "toasties in airfryer",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese air fryer recipe",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer grilled cheese recipe",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer recipes grilled cheese",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "grilled cheese air fryer recipes",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "grilled cheese sandwich in air fryer",
+        "volume": 1000,
+        "competition": 30
+      },
+      {
+        "keyword": "toasted cheese in air fryer",
+        "volume": 880,
+        "competition": 14
+      },
+      {
+        "keyword": "toasted cheese sandwich in air fryer",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "toastie in air fryer",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled cheese in an air fryer",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "air fry grilled cheese sandwich",
+        "volume": 590,
+        "competition": 42
+      },
+      {
+        "keyword": "grilled cheese sandwich air fryer",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "air fry ham and cheese sandwich",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "air fry toasted cheese sandwich",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer toasted cheese sandwich",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "cheese and ham toastie in air fryer",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ham and cheese toastie in air fryer",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ham and cheese toastie air fryer",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "toastie air fryer",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "toasties air fryer",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "make grilled cheese in air fryer",
+        "volume": 390,
+        "competition": 29
+      }
+    ],
+    "all": [
+      {
+        "keyword": "air fryer grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fry cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fryer cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "airfry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "airfryer grilled cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in a air fryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in an airfryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese sandwich airfryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese sandwich in airfryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in air fryer",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "airfryer grilled cheese",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "grilled cheese air fryer",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "cheese toast in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese toastie in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer grilled cheese sandwich",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "air fry toastie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer cheese toast",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer cheese toastie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer toastie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer toasties",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese on toast in air fryer",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "airfryer cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese in the air fryer",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "cheese on toast air fryer",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese toast air fryer",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese toastie air fryer",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "toasties in airfryer",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese air fryer recipe",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer grilled cheese recipe",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer recipes grilled cheese",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "grilled cheese air fryer recipes",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "grilled cheese sandwich in air fryer",
+        "volume": 1000,
+        "competition": 30
+      },
+      {
+        "keyword": "toasted cheese in air fryer",
+        "volume": 880,
+        "competition": 14
+      },
+      {
+        "keyword": "toasted cheese sandwich in air fryer",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "toastie in air fryer",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled cheese in an air fryer",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "air fry grilled cheese sandwich",
+        "volume": 590,
+        "competition": 42
+      },
+      {
+        "keyword": "grilled cheese sandwich air fryer",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "air fry ham and cheese sandwich",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "air fry toasted cheese sandwich",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer toasted cheese sandwich",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "cheese and ham toastie in air fryer",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ham and cheese toastie in air fryer",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ham and cheese toastie air fryer",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "toastie air fryer",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "toasties air fryer",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "make grilled cheese in air fryer",
+        "volume": 390,
+        "competition": 29
+      }
+    ]
+  },
+  "processed": false
+}
