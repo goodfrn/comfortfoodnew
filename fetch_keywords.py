@@ -18,7 +18,7 @@ start_index = int(os.environ.get("START_INDEX", 0))
 
 MIN_VOLUME       = 100
 MAX_COMPETITION  = 80
-MAX_RESULTS_KEPT = 15
+MAX_RESULTS_KEPT = 50
 
 GENERIC = {
     "recipe", "food", "dinner", "recipes", "easy", "healthy",
@@ -137,9 +137,9 @@ def fetch_keywords(seed_keyword):
         all_keywords.sort(key=lambda x: x["volume"], reverse=True)
         top = all_keywords[:MAX_RESULTS_KEPT]
 
-        primary   = top[0] if len(top) > 0 else None
-        secondary = top[1:4] if len(top) > 1 else []
-        lsi       = top[4:] if len(top) > 4 else []
+        primary   = top[0] if len(top) >= 1 else None
+        secondary = top[1:11] if len(top) >= 2 else []
+        lsi       = top[11:] if len(top) >= 12 else []
 
         return {
             "primary": primary,
