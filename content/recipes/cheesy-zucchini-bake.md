@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Zucchini Bake"
+title: "Cheesy Zucchini Casserole with Crispy Topping"
 slug: "cheesy-zucchini-bake"
-description: "Squash slices cooked just shy of mushy. Onion sweat till translucence with hints of caramel. Egg and sour cream combine with melted butter and sharp cheddar. Cracker topping browned crisp with cheese melting golden. Oven roasted till bubbling, scent of garlic and cheddar filling the kitchen. Crunch contrasts the tender squash. Make ahead friendly, easy substitutions for cheese and cream. Simple, flexible squash casserole that sings comfort. Watch for moisture drain or casserole sogginess. Visual and tactile cues guide doneness more than clocks."
-metaDescription: "Cheesy Zucchini Bake with tender yellow squash, sharp cheddar, buttery cracker topping. Moisture managed, baked bubbly crisp. Slices clean, savory, accented by garlic."
-ogDescription: "Tender squash, bubbling sharp cheddar, crunchy cracker top browns golden. Manage moisture, watch sizzle stop, rest before serving. Classic American squash casserole."
-focusKeyphrase: "Cheesy Zucchini Bake"
+description: "Tender zucchini layered with caramelized onions, sharp cheddar, and a buttery cracker crust. This baked cheese zucchini casserole stays moist without getting soggy. Make ahead friendly."
+metaDescription: "Cheesy zucchini casserole recipe with crispy cracker topping. Tender squash, caramelized onions, sharp cheddar. Make ahead, easy swaps. Save this one."
+ogDescription: "Zucchini and cheese casserole with caramelized onions and a golden cracker crust. Comfort food that's actually easy to make."
+focusKeyphrase: "cheesy zucchini casserole"
 date: 2025-10-15
 draft: false
 image: cheesy-zucchini-bake.png
@@ -21,9 +21,11 @@ tags:
 - "zucchini"
 - "side dish"
 keywords:
-- "yellow squash"
-- "baked cheddar casserole"
-- "moisture control squash"
+- "cheesy zucchini casserole"
+- "zucchini and cheese casserole"
+- "baked cheese zucchini"
+- "baked zucchini and cheese"
+- "zucchini casserole recipe"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"

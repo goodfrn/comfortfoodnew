@@ -1,9 +1,10 @@
 ---
-title: "Cheesy Broccoli Potato Soup"
+title: "Cheesy Broccoli Potato Soup Recipe"
+focusKeyphrase: "cheesy broccoli potato soup"
 slug: "cheesy-broccoli-potato-soup"
-description: "Chunky, cheesy potato soup loaded with broccoli, a creamy swanson base, melted cheese, and sour cream. Potatoes microwaved till soft, broccoli steamed till tender but still vibrant. Onion base with celery seed, seasoned and simmered to meld flavors. Final cheese melt and sour cream stir-in for that tang and richness. Bacon and green onions make a crispy, fresh topping. Comfort food that lets some potato texture hang around. Swapping cheddar for smoked gouda adds a twist; keeps it rich, smoky. Soup thick but not gluey. Experience layered with spices, textures from tender potato chunks and slightly crunchy broccoli pieces. Simple, efficient, flavors develop fast, no endless boiling. Fork pokes guide cook times, sensory cues tell when to move on."
-metaDescription: "Chunky cheesy broccoli potato soup with tender chunks, smoky gouda, and tangy sour cream. Quick stovetop blend, topped with bacon and green onions, rich and textured."
-ogDescription: "Thick potato soup with broccoli chunks, smoked gouda melt, sour cream tang, crisp bacon topping. Fast stovetop cooking, layered hearty flavors and textures."
+description: "Creamy cheesy broccoli potato soup with chunky potatoes, tender broccoli, melted cheddar, and sour cream. Quick microwave method makes it fast."
+metaDescription: "Cheesy broccoli potato soup recipe with creamy Swanson base, melted cheese, bacon crumble topping. Ready in under 30 minutes. Try it tonight."
+ogDescription: "Chunky cheesy broccoli potato soup loaded with melted cheddar, sour cream tang, crispy bacon. Comfort in a bowl."
 focusKeyphrase: "cheesy broccoli potato soup"
 date: 2025-11-09
 draft: false
@@ -21,9 +22,14 @@ tags:
 - "broccoli"
 - "potato"
 keywords:
-- "broccoli potato soup"
-- "cheesy soup"
-- "bacon potato soup"
+- "cheesy broccoli potato soup"
+- "broccoli and potato cheese soup"
+- "broccoli potato cheese soup recipe"
+- "cheesy broccoli potato soup recipe"
+- "easy potato broccoli cheese soup"
+- "crock pot potato broccoli cheese soup"
+- "creamy broccoli potato soup"
+- "homemade broccoli cheese soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "662"

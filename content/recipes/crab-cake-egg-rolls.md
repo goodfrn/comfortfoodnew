@@ -1,10 +1,10 @@
 ---
-title: "Crab Cake Egg Rolls Remix"
+title: "Crab Cake Egg Rolls Recipe"
 slug: "crab-cake-egg-rolls"
-description: "Blend creamy base with a hint of zing. Fold in cheese and fresh blue crab chunks. Wrap tight, freeze solid to avoid oozing. Fry crisp golden at steady mid-heat—not scorch. Quick turn, catch light browning on each side. Drain, hear the sizzle ease. Sauce packs a creamy punch with Sriracha heat, touched with a salty Old Bay kick. Garnish green scallions for bite, drizzle that fiery aioli. Kitchen smells salty, buttery, sharp shellfish aroma playing with toasted cheese. Less mayo needed for firmer mix; swap cheddar for smoked gouda for deeper flavor. Keep wrappers damp—not too wet or they tear. Don’t crowd oil, keeps crust crisp, no limp spots. Trust eyes not clocks for timing. Freeze extras, last months no bland flavor fade."
-metaDescription: "Crab Cake Egg Rolls Remix with creamy cheese, blue crab chunks, crispy shells fried golden at slow sizzle, plus spicy Sriracha mayo dip and fresh scallions."
-ogDescription: "Crispy egg rolls stuffed with creamy crab, smoked gouda, and spices. Fry low and steady for crunch. Dip in spicy mayo sauce with scallions on top."
-focusKeyphrase: "Crab Cake Egg Rolls"
+description: "Crispy crab cake egg rolls with creamy Old Bay filling and sriracha aioli. Blue crab, cheese, and spices wrapped tight and fried golden. Make ahead and freeze."
+metaDescription: "Crab cake egg roll recipe with fresh blue crab, Old Bay seasoning, and sriracha aioli. Crispy outside, creamy inside. Try it tonight."
+ogDescription: "Crispy crab cake egg rolls with creamy filling and spicy aioli. Blue crab and Old Bay wrapped in wonton skins, fried golden."
+focusKeyphrase: "crab cake egg roll recipe"
 date: 2025-12-02
 draft: false
 image: crab-cake-egg-rolls.jpg
@@ -21,9 +21,11 @@ tags:
 - "spicy"
 - "party"
 keywords:
-- "crab egg rolls"
+- "crab cake egg roll recipe"
+- "crab cake egg rolls"
+- "Old Bay crab filling"
 - "fried crab rolls"
-- "Sriracha aioli"
+- "sriracha aioli recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"

@@ -1,10 +1,10 @@
 ---
-title: "Coffee Chocolate Hot Drink"
+title: "Mocha Coffee: Dark Chocolate Espresso Drink"
 slug: "coffee-chocolate-hot-drink"
-description: "A rich blend of dark chocolate, espresso, and creamy milk comes together to create a warm, frothy beverage. Hot milk infused with cocoa and espresso melds with chopped bittersweet chocolate, then topped with a creamy foam spiked with Irish cream liqueur. Vegetarians rejoice—no nuts, gluten, or eggs here. Substitutions for dairy and Baileys included. Works as a soothing pick-me-up or quiet nightcap. Attention to texture and aroma key. Watch the froth, smell the coffee and chocolate—don’t scorch the milk or lose the glossy melted chocolate sheen. Experience balance in bitterness, creaminess, sweetness. Six servings; enough to share or savor slowly."
-metaDescription: "Coffee Chocolate Hot Drink blends dark chocolate, espresso, creamy milk, and Irish cream foam for a warm, frothy, bittersweet beverage serving six."
-ogDescription: "Dark chocolate, espresso, creamy foam spiked with Irish cream. Watch steam, bubbles, textures. Six servings of layered bitterness and creaminess."
-focusKeyphrase: "Coffee Chocolate Hot Drink"
+description: "Rich mocha coffee made with dark chocolate, espresso, and creamy milk topped with Irish cream foam. Dairy-free and gluten-free options included."
+metaDescription: "Make mocha coffee at home with dark chocolate and espresso. Rich, frothy, and better than café versions. Try it tonight."
+ogDescription: "Dark chocolate meets espresso in this creamy mocha coffee. Frothy, balanced, and ready in minutes."
+focusKeyphrase: "mocha coffee"
 date: 2025-09-23
 draft: false
 image: coffee-chocolate-hot-drink.jpg
@@ -20,11 +20,11 @@ tags:
 - "vegetarian"
 - "espresso"
 keywords:
-- "dark chocolate"
-- "espresso"
-- "Irish cream"
-- "foamed milk"
-- "hot chocolate coffee"
+- "mocha"
+- "mocha coffee"
+- "cafe mocha"
+- "mocha latte"
+- "chocolate espresso drink"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "280"

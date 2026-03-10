@@ -1,10 +1,10 @@
 ---
-title: "Cinnamon Sugar Biscuits Remix"
+title: "Cinnamon Sugar Biscuits Recipe"
 slug: "cinnamon-sugar-biscuits"
-description: "Fluffy, cinnamon-dusted biscuits revamped with some ingredient swaps and timing tweaks. Uses almond milk in place of buttermilk, cornstarch slightly reduced. Baking time nudged to 23-29 minutes, watch for those golden tops and toothpick test. A heavy cream or coconut milk baste topped with cinnamon, nutmeg, and a pinch of cardamom swirl into a sweet crust. Pan size can vary—adjust heat and watch edges for doneness. Cold butter cut in with pastry cutter key for flaky texture. Cinnamon sugar swirled quickly, melt the sugar into cracks. Cooling before slicing essential to keep shape intact. Scent of spice fills the room, a crackly tan crust beckons. Kitchen tested, with hands-on sensory cues and troubleshooting."
-metaDescription: "Cinnamon Sugar Biscuits Remix with almond milk, cold butter cuts, and spicy cardamom swirl baked at high heat for flaky, crackly topped southern-style biscuits."
-ogDescription: "Fluffy southern-style biscuits swirled with cinnamon sugar, coconut milk glaze, and a hint of cardamom. Cold butter, almond milk tweaks, and timing key here."
-focusKeyphrase: "Cinnamon Sugar Biscuits"
+description: "Fluffy cinnamon sugar biscuits with almond milk, cardamom swirl, and a golden crackly crust. Cold butter keeps them flaky. Bake 23-29 minutes."
+metaDescription: "Cinnamon sugar biscuits recipe with almond milk and cardamom. Flaky, golden tops with spiced crust. Try it tonight."
+ogDescription: "Fluffy cinnamon sugar biscuits with cardamom and nutmeg swirl. Golden, crackly crust. Cold butter makes them flaky."
+focusKeyphrase: "cinnamon sugar biscuits"
 date: 2026-01-08
 draft: false
 image: cinnamon-sugar-biscuits.jpg
@@ -21,9 +21,11 @@ tags:
 - "vegetarian"
 - "homemade"
 keywords:
-- "flaky biscuits"
-- "cinnamon sugar topping"
-- "cold butter baking"
+- "cinnamon sugar biscuits"
+- "biscuits cinnamon"
+- "biscuit cinnamon bites"
+- "biscuit with cinnamon and sugar"
+- "cinnamon sugar biscuit recipe"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "220"

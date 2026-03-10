@@ -1,10 +1,10 @@
 ---
-title: "Chicken Taco Salad"
+title: "Grilled Chicken Taco Salad Recipe"
 slug: "chicken-taco-salad"
-description: "Grilled chicken spiced with smoky chili powder, layered with crunchy romaine, creamy avocado, roasted corn kernels swapped in for chips, zesty black beans. Cilantro jalapeño dressing blends fresh herbs with lime punch and mild heat. Cool chicken rests before slicing; salad built at serving. Notes on grill timing, dressing balance, and ingredient swaps included. A fresh take avoiding gluten, nuts, eggs."
-metaDescription: "Chicken Taco Salad with grilled chicken, lime-kissed avocado, roasted corn kernels, black beans, and fresh cilantro jalapeño dressing. Quick, smoky, vibrant flavors."
-ogDescription: "Grilled chicken layered with crunchy romaine, creamy avocado, roasted corn kernels, black beans, plus a zesty cilantro jalapeño dressing. Fresh, smoky, ready in 35 mins."
-focusKeyphrase: "Chicken Taco Salad"
+description: "Grilled chicken taco salad with crispy romaine, black beans, roasted corn, avocado, and cilantro jalapeño dressing. Fresh, gluten-free, and ready in 30 minutes."
+metaDescription: "Grilled chicken taco salad recipe with fresh cilantro jalapeño dressing, black beans, and roasted corn. Skip the chips, keep the crunch. Make it tonight."
+ogDescription: "Grilled chicken taco salad with roasted corn, black beans, avocado, and a zesty cilantro jalapeño dressing that actually tastes like something."
+focusKeyphrase: "grilled chicken taco salad"
 date: 2025-09-26
 draft: false
 image: chicken-taco-salad.jpg
@@ -21,9 +21,13 @@ tags:
 - "grilling"
 - "healthy"
 keywords:
-- "chicken salad"
-- "taco salad"
-- "avocado salad"
+- "grilled chicken taco salad"
+- "chicken taco salad recipe"
+- "mexican chicken taco salad"
+- "chicken mexican salad"
+- "chicken taco salad bowl"
+- "black bean taco bowl"
+- "taco salad with grilled chicken"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"

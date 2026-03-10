@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Baked Ziti Remix"
+title: "Baked Ziti with Ground Turkey"
 slug: "cheesy-baked-ziti-remix"
-description: "Baked ziti with a twist, swapping sausage for ground turkey for lighter flavor. Pasta cooked till just shy of firm—al dente but not mush. Ricotta dolloped unevenly for rustic look; parmesan and mozzarella layered generously. Italian seasoning swapped with herbes de Provence for unexpected herbal notes. Timing adjusted slightly, baking uncovered last 5 minutes for crusty cheese edges. Focus on visual and tactile cues—bubbling sauce, golden cheesy crust before pulling from oven. Ideal for folks who mess up pasta timing or hate dry ziti. Handles emergencies like sauce too thick or pasta sticking together. A midweek oven meal with old-school vibes and modern tweaks."
-metaDescription: "Cheesy Baked Ziti Remix with ground turkey, herbes de Provence, and layered cheeses; baked for golden crust and rich texture, a sturdy midweek meal."
-ogDescription: "Ground turkey swapped in baked ziti with ricotta dollops, herbes de Provence, and crispy cheese edges. Watch bubbling sauce and golden crust closely."
-focusKeyphrase: "Cheesy Baked Ziti Remix"
+description: "Baked ziti with ground turkey swapped for sausage—lighter and herbier. Herbes de Provence replaces Italian seasoning. Ricotta, mozzarella, parmesan layered thick. Crispy cheese edges guaranteed."
+metaDescription: "Baked ziti with ground turkey recipe. Lighter take on the classic with herbes de Provence and crispy cheese. Make it tonight."
+ogDescription: "Ground turkey baked ziti with herbes de Provence. Ricotta and cheese layered thick. Crispy edges, no dry pasta."
+focusKeyphrase: "baked ziti ground turkey"
 date: 2025-12-01
 draft: false
 image: cheesy-baked-ziti-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "turkey"
 - "easy dinner"
 keywords:
-- "baked ziti"
-- "ground turkey pasta"
-- "herbes de Provence cheese"
+- "baked ziti ground turkey"
+- "baked ziti with turkey meat"
+- "turkey baked ziti"
+- "ground turkey baked ziti recipe"
+- "baked ziti recipe with ground turkey"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "675"

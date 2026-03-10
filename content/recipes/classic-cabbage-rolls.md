@@ -1,10 +1,10 @@
 ---
-title: "Classic Cabbage Rolls"
+title: "Cabbage Rolls Recipe: Slow-Baked Beef"
 slug: "classic-cabbage-rolls"
-description: "Cabbage leaves blanched then peeled from a whole head. Ground beef browned with onions and herbs, mixed with garlic, rice, egg and a bit of sauce. Rolls folded burrito-style, seam down in a sauce-coated pan. Baked low and slow with tomato sauce covering for moist, tender bites. Cooling before serving lets everything settle and flavors bind. A rustic dish with simple ingredients, easy swaps, and forgiving techniques if leaves tear or filling feels wet."
-metaDescription: "Classic Cabbage Rolls with tender cabbage leaves wrapped around spiced beef and rice filling. Slow-baked in smoky tomato sauce, yields 6 hearty servings."
-ogDescription: "Tender cabbage leaves filled with seasoned beef-rice mix, slow-baked in rich smoky tomato sauce. Rustic technique with practical tips for flaky, firm rolls."
-focusKeyphrase: "cabbage rolls"
+description: "Classic cabbage rolls stuffed with ground beef, rice, and herbs, baked low and slow in tomato sauce. Tender, forgiving technique with simple swaps."
+metaDescription: "Cabbage rolls recipe with ground beef and rice, baked in tomato sauce until tender. Try it tonight."
+ogDescription: "Ground beef and rice stuffed in cabbage leaves, baked in sauce until moist and tender."
+focusKeyphrase: "cabbage rolls recipe"
 date: 2026-01-11
 draft: false
 image: classic-cabbage-rolls.jpg
@@ -21,9 +21,16 @@ tags:
 - "rice"
 - "one pot"
 keywords:
-- "cabbage leaves"
-- "ground beef filling"
-- "tomato sauce bake"
+- "cabbage rolls recipe"
+- "cabbage rolls"
+- "stuffed cabbage recipe"
+- "stuffed cabbage rolls"
+- "cabbage roll filling recipe"
+- "cabbage roll casserole"
+- "make cabbage rolls"
+- "stuffed cabbage filling"
+- "cabbage wrap recipe"
+- "cabbage roll casserole recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "335"

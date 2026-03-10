@@ -1,10 +1,10 @@
 ---
-title: "Cowboy Spaghetti Twist"
+title: "Cowboy Spaghetti Recipe with Bacon & Beef"
 slug: "cowboy-spaghetti-twist"
-description: "Crispy bacon, ground beef browned with onion and garlic. Simmered in a mix of tomato sauce, fire roasted tomatoes, and a kicked-up spicy salsa instead of diced tomatoes with green chilies. Worcestershire and hot sauce deepen the umami. Noodles tossed with cheese and bacon, then baked with more cheddar and green onions on top. Rich, smoky, tangy, and cheesy. Takes about 45 minutes total, feeds four. Nutrition dense, high protein and fats balanced with some fiber and iron."
-metaDescription: "Cowboy Spaghetti Twist loaded with crispy bacon, spicy salsa, browned beef, sharp cheddar, baked gooey top. Midwestern comfort with smoky, tangy punch."
-ogDescription: "Crispy bacon, browned beef with onion garlic, chunky spicy salsa swaps diced tomatoes. Sharp cheddar melts gooey top, smoky, tangy, bold flavors in skillet."
-focusKeyphrase: "Cowboy Spaghetti Twist"
+description: "Cowboy spaghetti with crispy bacon, ground beef, fire-roasted tomatoes, and spicy salsa baked with cheddar. Ready in 45 minutes, feeds four."
+metaDescription: "Cowboy spaghetti recipe: bacon, ground beef, salsa, and cheddar baked until bubbly. High protein, ready in 45 minutes. Make it tonight."
+ogDescription: "Smoky bacon, seasoned beef, and spicy salsa meet melted cheddar in this cowboy spaghetti bake. Done in 45 minutes."
+focusKeyphrase: "cowboy spaghetti recipe"
 date: 2025-12-01
 draft: false
 image: cowboy-spaghetti-twist.jpg
@@ -21,9 +21,11 @@ tags:
 - "spicy"
 - "bacon"
 keywords:
-- "bacon spaghetti"
-- "spicy pasta sauce"
-- "cheddar cheese pasta"
+- "cowboy spaghetti recipe"
+- "cowboy spaghetti"
+- "cowboy pasta"
+- "spaghetti casserole with bacon"
+- "ground beef spaghetti bake"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "1000"

@@ -1,10 +1,10 @@
 ---
-title: "Chunky Oat Chocolate Chip Cookies"
+title: "Oatmeal Chocolate Chip Cookies Recipe"
 slug: "chunky-oat-chocolate-cookies"
-description: "Oatmeal chocolate chip cookies with a twist. Uses old-fashioned rolled oats and a hint of cinnamon swapped for baking powder, making them chewy yet structured. Brown and white sugars lighten the sweetness contrast. Butter creamed well gives a tender crumb. Dough chills for thirty-five minutes to firm, aiding shape retention. Press cookies slightly before baking; they hold their form, won’t spread like classic cookies. Baked at 345°F for 12 minutes, edges turn golden, centers still soft but set. Substitution notes: coconut oil for butter, maple syrup for vanilla for allergy-friendly tweaks. Perfectly nipped sweetness without overpowering chocolate chunks."
-metaDescription: "Chunky Oat Chocolate Chip Cookies with old-fashioned oats, cinnamon for warmth, maple syrup twist. Chewy, structured bites, tender crumb, and melty chocolate chunks."
-ogDescription: "Chewy Chunky Oat Chocolate Chip Cookies packed with baked warmth; cinnamon swaps baking powder, maple syrup replaces vanilla. Tender crumb, melty chocolate chunks."
-focusKeyphrase: "Chunky Oat Chocolate Chip Cookies"
+description: "Chewy oatmeal chocolate chip cookies with old-fashioned oats, cinnamon, and brown sugar. Chilled dough bakes at 345°F for soft centers and crispy edges. Try it tonight."
+metaDescription: "Oatmeal chocolate chip cookies recipe with rolled oats and cinnamon for chewiness. Golden edges, soft centers, no spread. Save this one."
+ogDescription: "Chunky oatmeal chocolate chip cookies that stay together. Rolled oats, cinnamon, chilled dough—crispy-chewy and actually hold their shape."
+focusKeyphrase: "oatmeal chocolate chip cookies"
 date: 2026-01-25
 draft: false
 image: chunky-oat-chocolate-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "cinnamon"
 - "comfort food"
 keywords:
-- "oat cookies"
-- "chocolate chip cookies"
-- "chewy cookies"
+- "oatmeal chocolate chip cookies"
+- "oat chocolate chip cookies"
+- "chocolate chip oatmeal cookie recipe"
+- "chewy oatmeal cookies"
+- "oat cookies with chocolate chips"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "178"

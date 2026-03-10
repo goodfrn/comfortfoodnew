@@ -1,10 +1,10 @@
 ---
-title: "Chunky Chili Cheese Fries"
+title: "Chili Cheese Fries Recipe"
 slug: "chunky-chili-cheese-fries"
-description: "French fries topped with hearty ground beef chili, melty cheese sauce, and fresh garnishes. Ground beef cooked with diced onion and a mix of tomato bases plus green chilies for bite. Cheese sauce made by slowly melting a blend of cheeses in heated cream, ensuring creamy texture and rich flavor. Assemble by layering cheese, fries, chili, and extra cheese sauce, finished with crunchy green onions and jalapeños. Savory, spicy, creamy, and crunchy all at once. Modified cooking times and ingredient portions for better texture and balance. Includes handy substitutions and tips for avoiding soggy fries and curdled cheese sauce."
-metaDescription: "Chunky Chili Cheese Fries packed with browned beef chili layered over crispy fries, creamy cheddar-mozzarella sauce, topped with sharp green onions and jalapeño heat."
-ogDescription: "Crunchy fries meet rich ground beef chili and silky cheese sauce, finished with fresh green onions and jalapeños for spicy, savory bites layered in every forkful."
-focusKeyphrase: "Chunky Chili Cheese Fries"
+description: "Homemade chili cheese fries with seasoned ground beef chili, creamy cheese sauce, and crispy fries. Learn the trick to keeping them from getting soggy."
+metaDescription: "Make chili cheese fries at home with this recipe. Crispy fries, hearty beef chili, melted cheese sauce, and fresh toppings. Try it tonight."
+ogDescription: "Crispy fries loaded with beef chili, creamy cheese sauce, and fresh garnishes. The recipe that keeps them from getting soggy."
+focusKeyphrase: "chili cheese fries recipe"
 date: 2025-10-29
 draft: false
 image: chunky-chili-cheese-fries.jpg
@@ -21,9 +21,16 @@ tags:
 - "cheese"
 - "fried"
 keywords:
+- "chili cheese fries recipe"
 - "chili cheese fries"
-- "homemade cheese sauce"
-- "crispy fries chili"
+- "cheese fries"
+- "chili fries"
+- "loaded chili cheese fries"
+- "homemade chili cheese fries"
+- "chili cheese sauce for fries"
+- "best chili cheese fries"
+- "cheesy chili fries"
+- "french fries with chili and cheese"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "613"

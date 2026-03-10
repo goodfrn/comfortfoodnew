@@ -1,10 +1,11 @@
 ---
 title: "Cheeseburger Pasta Bake"
+title: "Cheeseburger Pasta Bake"
 slug: "cheeseburger-pasta-bake"
-description: "Ground beef sautéd till browned, onions softened to translucent, spices layered for punch. Elbow macaroni simmers right into beef broth made from bouillon cubes melted in water, absorbing rich, meaty flavor. Stir in sour cream plus a splash of milk for creaminess. Mozzarella and cheddar cheese chunk up the layers, baked till bubbling and melting golden. A twist on cheeseburger vibes with a touch of smokiness swapped tomato paste with roasted red pepper sauce. Perfectly bubbly edges reveal when ready. An easy, hearty one-dish meal with crowded kitchen proof tested tweaks."
-metaDescription: "Cheeseburger Pasta Bake layers browned beef, elbow macaroni simmered in beef broth, melted mozzarella and cheddar cheese baked till bubbling golden edges appear."
-ogDescription: "Bubbling cheesy pasta bake with ground beef, elbow macaroni simmered in beef broth, layered mozzarella and cheddar. Savory, creamy, no fuss comfort bake."
-focusKeyphrase: "Cheeseburger Pasta Bake"
+description: "Ground beef browned with onions, elbow macaroni simmered in beef broth, topped with melted mozzarella and cheddar. Creamy, cheesy one-dish meal ready in under an hour."
+metaDescription: "Cheeseburger pasta bake with ground beef, macaroni, and melted cheese. Easy one-dish dinner that tastes like a burger. Try it tonight."
+ogDescription: "Cheeseburger pasta bake with ground beef and macaroni. Creamy, cheesy, ready in one dish."
+focusKeyphrase: "cheeseburger pasta bake"
 date: 2026-01-30
 draft: false
 image: cheeseburger-pasta-bake.jpg
@@ -21,9 +22,11 @@ tags:
 - "cheese"
 - "easy dinner"
 keywords:
-- "cheeseburger pasta"
-- "baked elbow macaroni"
-- "ground beef casserole"
+- "cheeseburger pasta bake"
+- "cheeseburger casserole pasta"
+- "cheesy beef macaroni bake"
+- "burger pasta bake"
+- "beef pasta casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "690"

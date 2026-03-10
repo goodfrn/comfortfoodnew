@@ -1,10 +1,10 @@
 ---
-title: "Chicken Sausage Jambalaya"
+title: "Chicken Sausage Jambalaya Recipe"
 slug: "chicken-sausage-jambalaya"
-description: "A hearty southern jambalaya with chicken thighs swapped in for breasts, smoky and rich, using andouille sausage replaced with smoked kielbasa for a twist. Layers of heat from cayenne instead of red pepper flakes. Rice cooks in savory broth steeped with bay leaves and creole seasoning. Brown meat first to render flavor into the pot, then sweat veggies until soft and fragrant. Tomatoes and sauce bring acidity while cooking down. Timing flexible, watch rice texture not clock. Serves 8, roughly 500 kcal per portion including protein and carbs."
-metaDescription: "Chicken Sausage Jambalaya with smoky kielbasa, tender chicken thighs, simmered rice in savory broth with cayenne heat and creole spices. Serves 8 hearty portions."
-ogDescription: "Smoky kielbasa and chicken thighs brown, onions sweat, garlic quick stir; rice absorbs spicy broth with tomatoes and bay leaves. Southern Cajun soul in every bite."
-focusKeyphrase: "Chicken Sausage Jambalaya"
+description: "Smoky chicken sausage jambalaya with tender thighs, kielbasa, and cajun spices. One-pot southern rice dish with rich broth and savory depth. Ready in under an hour."
+metaDescription: "Chicken sausage jambalaya recipe with kielbasa and cayenne heat. One-pot cajun rice dish with chicken thighs and smoky depth. Try it tonight."
+ogDescription: "Smoky one-pot jambalaya with chicken thighs and sausage. Brown meat first, sweat the veggies, let rice drink in savory cajun broth."
+focusKeyphrase: "chicken sausage jambalaya"
 date: 2026-01-19
 draft: false
 image: chicken-sausage-jambalaya.jpg
@@ -21,9 +21,11 @@ tags:
 - "rice"
 - "one pot"
 keywords:
-- "jambalaya"
-- "chicken thighs"
-- "smoked kielbasa"
+- "chicken sausage jambalaya"
+- "chicken and sausage jambalaya"
+- "jambalaya with chicken sausage"
+- "chicken sausage jambalaya recipe"
+- "cajun chicken sausage jambalaya"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "496"

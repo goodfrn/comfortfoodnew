@@ -1,10 +1,11 @@
 ---
 title: "Chocolate Peanut Butter Cake"
+title: "Chocolate Peanut Butter Cake"
 slug: "chocolate-peanut-butter-cake"
-description: "A rich chocolate cake with a peanut butter frosting and silky chocolate ganache. Uses instant coffee in batter to deepen chocolate flavor. Butter and peanut butter creamed thoroughly prevents grainy frosting. Ganache chilled for perfect drip effect. Three layers, evened by trimming domes. Piping dollops add textural contrast. Reese's Pieces add crunch and color. Balanced fat and sugar contents make it indulgent yet not overly sweet. Emphasis on tactile, aromatic cues for perfect bake and finish. Practical substitutions and troubleshooting tips included for kitchen adaptability. Taste complexity built layering bitter, sweet, and creamy elements. Familiar ingredients with a twist in technique and ratio."
-metaDescription: "Chocolate Peanut Butter Cake with three layers, coffee in batter for depth, creamy peanut butter frosting, and glossy chocolate ganache. Reese's Pieces garnish adds crunch."
-ogDescription: "Three-layer chocolate cake with peanut butter frosting plus silky ganache drip. Coffee sharpens cocoa. Reese's Pieces crunch finish. Textures and timing matter here."
-focusKeyphrase: "Chocolate Peanut Butter Cake"
+description: "Three-layer chocolate cake with peanut butter frosting and ganache drip. Instant coffee deepens chocolate flavor while creamed butter prevents grainy texture. Topped with Reese's Pieces for crunch."
+metaDescription: "Make chocolate peanut butter cake with ganache drip and Reese's topping. Deep chocolate flavor, silky frosting, perfect technique inside."
+ogDescription: "Chocolate cake with peanut butter frosting, coffee-deepened cocoa, and chocolate ganache. Layer, fill, drip, top with Reese's."
+focusKeyphrase: "chocolate peanut butter cake"
 date: 2025-10-11
 draft: false
 image: chocolate-peanut-butter-cake.jpg
@@ -21,9 +22,11 @@ tags:
 - "dessert"
 - "party"
 keywords:
-- "chocolate cake"
-- "peanut butter frosting"
-- "instant coffee in cake"
+- "chocolate peanut butter cake"
+- "peanut butter cake"
+- "chocolate cake peanut butter frosting"
+- "peanut butter frosting cake"
+- "chocolate and peanut butter cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "965"

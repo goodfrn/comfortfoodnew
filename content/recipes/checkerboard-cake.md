@@ -1,9 +1,10 @@
 ---
-title: "Checkerboard Cake"
+title: "Checkerboard Cake with Caramel Filling"
+focusKeyphrase: "checkerboard cake"
 slug: "checkerboard-cake"
-description: "A layered vanilla and chocolate cake with caramel filling and buttercream glaze. The cake features alternating rings producing a striking checkerboard effect when sliced. Uses a caramel made from caramelized sugar and cream, a classic buttercream frosting whipped to silky texture, and two moist cake batters split and flavored separately. Baked in loaf pans, trimmed and layered. The recipe swaps almond milk for regular milk and adjusts sugar slightly. Emphasis on visual and tactile cues over strict timing. Designed for home bakers comfortable with basic cake layering but wanting a show-stopper dessert."
-metaDescription: "Checkerboard Cake with caramel filling and buttercream glaze. Alternating vanilla and chocolate rings create a striking pattern. Home baker friendly, swap almond milk easily."
-ogDescription: "Layers of vanilla and chocolate cake with caramel glue. Checkerboard effect after slicing. Buttercream frosting, almond milk can replace regular milk, trimmed tops key."
+description: "Striking checkerboard cake with alternating vanilla and chocolate layers, caramel filling, and buttercream glaze. Home baker–friendly with visual cues instead of strict timing. Make this showstopper today."
+metaDescription: "Checkerboard cake recipe with vanilla, chocolate, caramel filling, and buttercream. Step-by-step guide for the striking pattern. Bake it this weekend."
+ogDescription: "Vanilla and chocolate checkerboard cake with caramel filling and silky buttercream. A showstopper that's easier than it looks."
 focusKeyphrase: "checkerboard cake"
 date: 2025-09-26
 draft: false
@@ -22,8 +23,12 @@ tags:
 - "dessert"
 keywords:
 - "checkerboard cake"
-- "caramel filling"
-- "buttercream frosting"
+- "checkered cake"
+- "checkerboard cake design"
+- "caramel filling cake"
+- "layered vanilla chocolate cake"
+- "buttercream frosting recipe"
+- "homemade cake decorating"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "480"

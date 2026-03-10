@@ -1,10 +1,10 @@
 ---
-title: "Cookie Monster Cupcakes"
+title: "Cookie Monster Cupcakes Recipe"
 slug: "cookie-monster-cupcakes"
-description: "Cocoa-rich cupcakes with a noticeably thin batter. Frosting whipped to a stiff peak, creamy and sweetened just right. The final clutch: two candy eyes and a halved chocolate chip cookie wedged to look like a mouth. Changes in timing for a more tactile approach. An ingredient swap: using buttermilk instead of whole milk for a touch of tang. Less sugar in frosting for balance. Baking time shortened slightly, but watch the rise and moisture for the correct doneness. Visual and texture clues guide the whole process, not just clocks."
-metaDescription: "Cookie Monster Cupcakes with cocoa-rich crumb, tangy buttermilk, and sturdy frosting topped with candy eyes and halved cookies. Watch texture and timing closely."
-ogDescription: "Dense chocolate cupcakes, tang from buttermilk, whipped frosting holds tall peaks. Candy eyes stare, half cookies crunch. Baking cues rely on smells and texture shifts."
-focusKeyphrase: "Cookie Monster Cupcakes"
+description: "Cocoa cupcakes with stiff-peak frosting and chocolate chip cookie mouths. Buttermilk adds tang, less sugar keeps it balanced. Watch the rise, not the timer."
+metaDescription: "Cookie monster cupcakes with cocoa batter, creamy frosting, and candy eyes. Buttermilk swap for depth. Bake by sight, not time. Try it tonight."
+ogDescription: "Cocoa cupcakes topped with candy eyes and a chocolate chip cookie mouth. Buttermilk tang, less sugar frosting. Real texture clues guide the bake."
+focusKeyphrase: "cookie monster cupcakes"
 date: 2025-12-27
 draft: false
 image: cookie-monster-cupcakes.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "candy"
 keywords:
-- "chocolate cupcakes"
-- "buttermilk"
-- "whipped frosting"
+- "cookie monster cupcakes"
+- "monster cupcakes"
+- "cookie monster cake"
+- "character cupcakes"
+- "chocolate cupcakes with candy eyes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "620"

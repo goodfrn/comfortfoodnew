@@ -1,10 +1,10 @@
 ---
-title: "Cream Cheese Pecan Pie"
+title: "Cream Cheese Pecan Pie Recipe"
 slug: "cream-cheese-pecan-pie"
-description: "Two-layer pie with creamy, tangy cheese base topped by a caramelized pecan filling. Blends slightly tangy richness with sticky, nutty sweetness. Baked in two crusts, golden brown top, a little jiggle means just right done. Uses light corn syrup alternative and adjusts standard timelines slightly for personal touch. Balances textures from creamy bottom to crunchy pecans on top. Double batch, great for sharing or keeping one chilled for later. A little improv on vanilla, and an added punch from bourbon substitute. Whipping creates air for fluffy finish. Nontraditional, satisfying mashup."
-metaDescription: "Cream Cheese Pecan Pie with tangy cream base and caramelized pecan topping. Two crust layers, slight jiggle signals doneness, swap maple syrup for corn syrup easily."
-ogDescription: "Two-layer cream cheese pecan pie, jiggly center, bourbon vanilla twist, maple syrup sub for corn syrup. Crisp crust meets nutty, sticky topping, bake cues included."
-focusKeyphrase: "cream cheese pecan pie"
+description: "Two-layer cream cheese pecan pie with tangy ricotta base and caramelized pecans. Golden-brown, slightly jiggly center. Make one or two for sharing."
+metaDescription: "Cream cheese pecan pie recipe with creamy base and sticky pecan topping. Easy two-layer dessert that balances tangy and nutty. Try it tonight."
+ogDescription: "Tangy cream cheese bottom meets caramelized pecans. Two-layer pie that's easy and bold."
+focusKeyphrase: "cream cheese pecan pie recipe"
 date: 2025-12-03
 draft: false
 image: cream-cheese-pecan-pie.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "dessert"
 keywords:
-- "pecan pie"
-- "cream cheese layer"
-- "maple syrup substitute"
+- "cream cheese pecan pie recipe"
+- "cheesecake pecan pie recipe"
+- "recipe for cheesecake pecan pie"
+- "cream cheese pecan pie"
+- "pecan cheesecake bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "450"

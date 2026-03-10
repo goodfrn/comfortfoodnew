@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Yule Log"
+title: "Chocolate Yule Log Recipe with Orange Ganache"
 slug: "chocolate-yule-log"
-description: "A chocolate sponge cake rolled with orange-scented ganache and a rich cocoa buttercream frosting. Uses slightly less sugar and replaces orange liqueur with Grand Marnier. The cake includes almond flour instead of all-purpose for texture and flavor contrast. Frosting is creamier with added mascarpone. Preparation time slightly shifted, baking time reduced by a few minutes. The finished log is chilled then tempered for serving. A diagonal slice end-piece is attached as a decorative knot with frosting. Refrigerate and let sit at room temperature before slicing."
-metaDescription: "Indulge in a rich Chocolate Yule Log with orange ganache and creamy mascarpone frosting. Perfect dessert for your holiday gatherings and special occasions."
-ogDescription: "Celebrate with a Chocolate Yule Log, layered with orange-infused ganache and a velvety frosting. Ideal for festive feasts and gatherings."
-focusKeyphrase: "Chocolate Yule Log"
+description: "Homemade chocolate yule log with orange-scented ganache, mascarpone buttercream, and almond flour sponge. Easy Christmas dessert that rivals bakery versions."
+metaDescription: "Chocolate yule log recipe with orange ganache and mascarpone frosting. Elegant Christmas dessert made at home. Try it tonight."
+ogDescription: "Chocolate yule log with orange ganache and almond flour sponge. Elegant enough for Christmas dinner, easier than it looks."
+focusKeyphrase: "chocolate yule log recipe"
 date: 2025-07-18
 draft: false
 image: chocolate-yule-log.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "mascarpone"
 keywords:
-- "chocolate sponge cake"
-- "orange ganache"
-- "mascarpone frosting"
+- "chocolate yule log recipe"
+- "yule log cake recipe"
+- "chocolate log recipe"
+- "easy christmas log recipe"
+- "chocolate cake roll recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "420"

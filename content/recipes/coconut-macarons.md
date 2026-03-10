@@ -1,10 +1,10 @@
 ---
-title: "Coconut Macarons Vegan"
+title: "Eggless Macaroons Vegan Coconut"
 slug: "coconut-macarons"
-description: "Egg-free, gluten-free coconut macarons with cream cheese swapped for coconut yogurt, slightly reduced sugar, cooked until golden with texture cues. Makes 20 bites. Uses simple pantry staples. Replace condensed milk with maple syrup for dairy-free. Flexible cooling and baking clues. No em dashes. Short steps shuffled for efficiency and sensory focus. Mix of textures, aromas, and color indicate doneness rather than clocks. Learn to spot visual and tactile signals to rescue or perfect every batch."
-metaDescription: "Coconut Macarons Vegan. Egg and gluten-free, chewy centers with crisp edges. Uses coconut yogurt, shredded coconut, simple pantry swaps. Watch texture and smell cues."
-ogDescription: "Vegan coconut macarons made without eggs or gluten. Crisp edges, chewy centers. Use coconut yogurt, shredded coconut, and watch for color and smell as bake signals."
-focusKeyphrase: "Vegan coconut macarons"
+description: "Eggless macaroons made vegan with coconut yogurt filling and maple syrup. Gluten-free, golden-baked coconut bites with simple pantry ingredients. Makes 20."
+metaDescription: "Eggless macaroons vegan recipe using coconut yogurt and maple syrup. Golden-baked, gluten-free coconut bites. No eggs, no dairy. Try it tonight."
+ogDescription: "Eggless macaroons vegan and gluten-free. Coconut yogurt filling, maple syrup sweetness, 20 golden bites from pantry staples."
+focusKeyphrase: "eggless macaroons"
 date: 2025-09-26
 draft: false
 image: coconut-macarons.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "cookies"
 keywords:
-- "vegan macarons"
-- "coconut desserts"
-- "gluten-free baking"
+- "eggless macaroons"
+- "macaroons vegan recipe"
+- "vegan coconut macaroons"
+- "egg-free macaroons"
+- "gluten-free macaroons recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"

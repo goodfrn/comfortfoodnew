@@ -1,10 +1,10 @@
 ---
-title: "Chunky Chicken Hash Casserole"
+title: "Chicken & Hash Brown Casserole"
 slug: "chunky-chicken-hash"
-description: "Hearty casserole layering shredded chicken with crispy hash browns and smoky bacon. Tossed with melty cheese, veggies, and creamy sauce, topped with a crunchy cornflake crust. Bakes covered to trap moisture, uncovered later for crisp finish. Cool before slicing to set the layers just right."
-metaDescription: "Chunky Chicken Hash Casserole stacks shredded chicken, hash browns, cheese, and veggies with creamy sauce and crunchy cornflake crust. Baked covered then crisped top."
-ogDescription: "Layered chicken with hash browns and sharp cheddar. Creamy, veggie-packed, cornflake crust toasted after slow bake. Rest well before slicing to hold shape."
-focusKeyphrase: "Chunky Chicken Hash Casserole"
+description: "Chicken and hash brown casserole with crispy bacon, melted cheese, and creamy sauce. Cornflake crust bakes to golden crunch. Perfect weeknight comfort food."
+metaDescription: "Chicken and hash brown casserole recipe with bacon, cheese, and cornflake topping. Easy layered bake that feeds a crowd. Make it tonight."
+ogDescription: "Layered chicken hash brown casserole with bacon and cheese. Crispy cornflake top, creamy inside. One-pan comfort."
+focusKeyphrase: "chicken and hash brown casserole"
 date: 2025-10-12
 draft: false
 image: chunky-chicken-hash.jpg
@@ -21,9 +21,13 @@ tags:
 - "cheese"
 - "easy dinner"
 keywords:
-- "hash browns"
-- "rotisserie chicken"
-- "cheddar cheese"
+- "chicken and hash brown casserole"
+- "casserole with hash browns and chicken"
+- "chicken & hash brown casserole"
+- "hash brown casserole with chicken"
+- "hash brown potato casserole with chicken"
+- "cheesy chicken and hash brown casserole"
+- "hash brown casserole bacon cheese"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"

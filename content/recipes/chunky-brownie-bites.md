@@ -1,10 +1,10 @@
 ---
-title: "Chunky Brownie Bites"
+title: "Miniature Brownies with Chocolate Chunks"
 slug: "chunky-brownie-bites"
-description: "Brownie cupcakes baked in muffin tins. Cocoa swapped for bittersweet chocolate chunks. Butter quantity increased slightly to 7 tbsp total. Flour and salt sifted together but folded earlier for better texture. Melted chocolate mixed with butter in microwave then combined with eggs and sugar whipped till pale. Flour folded in cautiously to keep fudgy crumb. Extra chocolate chunks hand-folded inside. Baked at 320°F for 22 to 28 minutes until cracked tops appear and edges set but center jiggles slightly. Peanut butter frosting smooth with heavy cream swap for milk. Salt sprinkled atop for balance."
-metaDescription: "Chunky Brownie Bites loaded with bittersweet chocolate chunks, peanut butter frosting swirled with heavy cream. Moist, fudgy cupcakes baked at 320°F till crack tops form"
-ogDescription: "Fudgy brownie cupcakes studded with rich chocolate chunks and topped with creamy peanut butter frosting. Baked slow at 320°F till edges set, centers still jiggle softly"
-focusKeyphrase: "chunky brownie bites"
+description: "Fudgy miniature brownies baked in muffin tins with chocolate chunks folded in. Peanut butter frosting with a salt finish. Ready in under 30 minutes."
+metaDescription: "Miniature brownies recipe: chocolate chunks, muffin tin baked, peanut butter frosting. Make these fudgy bites tonight."
+ogDescription: "Chunky brownie bites with melted chocolate and peanut butter frosting. Baked in a muffin pan for perfect portions."
+focusKeyphrase: "miniature brownies"
 date: 2026-01-20
 draft: false
 image: chunky-brownie-bites.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "brownie cupcakes"
-- "bittersweet chocolate"
-- "peanut butter frosting"
+- "miniature brownies"
+- "brownie cups"
+- "brownies muffin pan"
+- "brownie in mini muffin pan"
+- "fudgy brownie bites"
+- "chocolate brownie bites"
+- "brownie pops"
+- "brownie circles"
+- "two bite brownies"
+- "frosting bites"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "250"

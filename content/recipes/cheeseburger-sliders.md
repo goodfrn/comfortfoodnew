@@ -1,9 +1,10 @@
 ---
-title: "Cheeseburger Sliders Twist"
+title: "Cheeseburger Sliders with Caramelized Onions"
+focusKeyphrase: "cheeseburger sliders"
 slug: "cheeseburger-sliders"
-description: "Ground beef pan-seared with caramelized onions, garlic, Worcestershire, mustard, salt, and pepper. Melted sharp cheddar layered inside soft dinner rolls brushed with garlicky butter and topped with sesame seeds. Oven-baked until cheese oozes and buns are golden. Served with tangy burger sauce mixing mayo, ketchup, mustard, and pickle juice for a bright finish. Subtle onion bite, rich meat aroma, crisp buttery bun, messy, packed sliders that hold together thanks to melted cheese glue. Ideal finger food. Timing flexible — watch for golden butter sizzles and color shifts. Quick prep. Serves 12 sliders."
-metaDescription: "Cheeseburger Sliders Twist with caramelized onions, melty sharp cheddar, buttery sesame rolls, and tangy burger sauce. Watch for golden butter sizzles and bubbling cheese."
-ogDescription: "Burger sliders packed with juicy beef, layers of sharp cheddar, brushed butter, sesame crunch, and a bright pickle-infused sauce. Watch cheese melt and buns brown golden."
+description: "Pan-seared ground beef with caramelized onions and Worcestershire layered with sharp cheddar in buttered Hawaiian rolls. Baked until golden with tangy burger sauce."
+metaDescription: "Cheeseburger sliders recipe with caramelized onions, sharp cheddar, and garlicky butter. Oven-baked Hawaiian roll sliders ready in 30 minutes. Make them tonight."
+ogDescription: "Melted cheddar, caramelized onions, and garlicky buttered rolls. These baked cheeseburger sliders are messy, packed, and impossible to stop eating."
 focusKeyphrase: "cheeseburger sliders"
 date: 2025-10-13
 draft: false
@@ -21,9 +22,16 @@ tags:
 - "comfort food"
 - "appetizer"
 keywords:
-- "sliders"
-- "ground beef"
-- "sharp cheddar"
+- "cheeseburger sliders"
+- "cheeseburger sliders hawaiian rolls"
+- "baked cheeseburger sliders"
+- "hamburger sliders recipe"
+- "burger sliders oven"
+- "ground beef sliders with hawaiian rolls"
+- "sheet pan cheeseburger sliders"
+- "easy cheeseburger slider recipe"
+- "cheeseburger sliders with worcestershire sauce"
+- "caramelized onion sliders"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"

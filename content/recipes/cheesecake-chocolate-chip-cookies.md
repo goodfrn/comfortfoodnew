@@ -1,10 +1,11 @@
 ---
 title: "Cheesecake Chocolate Chip Cookies"
+title: "Cheesecake Chocolate Chip Cookies"
 slug: "cheesecake-chocolate-chip-cookies"
-description: "Blend flour mix with baking soda, powder, and cornstarch. Cream cream cheese and sugar till fluffy. Eggs and vanilla join the party. Powdered sugar folds in. Slowly mix dry bits and heavy cream. Mini chocolate chips tossed. Chill dough to tame it. Scoop cold dough, freeze 5 minutes to hold shape. Smooth balls, gentle press. Extra chips on top for good measure. Bake till edges brown faintly, centers soft but set. Cool on racks. Makes 24 chewy, rich cookies with a tangy cheesecake twist and melty pockets of chocolate chip goodness."
-metaDescription: "Cheesecake Chocolate Chip Cookies with tangy cream cheese, melty chocolate chips, chewy texture, and faintly browned edges. Chill dough, freeze balls, bake carefully."
-ogDescription: "Cheesecake Chocolate Chip Cookies merge tangy cream cheese with mini chips and chewy softness. Chill dough and watch edges lightly brown for best results."
-focusKeyphrase: "Cheesecake Chocolate Chip Cookies"
+description: "Cream cheese meets chocolate chips in chewy cookies with a tangy cheesecake twist. Soft centers, melty chocolate, ready to bake."
+metaDescription: "Cheesecake chocolate chip cookies recipe with cream cheese, powdered sugar, and mini chips. Chewy centers, crispy edges. Try it tonight."
+ogDescription: "Cream cheese chocolate chip cookies with a tangy cheesecake twist and melty chocolate pockets."
+focusKeyphrase: "cheesecake chocolate chip cookies"
 date: 2026-02-01
 draft: false
 image: cheesecake-chocolate-chip-cookies.jpg
@@ -21,9 +22,13 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "cream cheese"
-- "chocolate chip cookies"
-- "cookie dough chilling"
+- "cheesecake chocolate chip cookies"
+- "cream cheese chocolate chip cookies"
+- "chocolate chip cream cheese cookie"
+- "cheesecake cookie dough recipe"
+- "cream cheese cookies chocolate chip"
+- "chocolate chip and cream cheese cookies"
+- "cheesecake chocolate chips"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "201"

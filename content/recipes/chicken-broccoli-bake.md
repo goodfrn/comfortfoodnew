@@ -1,10 +1,10 @@
 ---
-title: "Chicken Broccoli Bake"
+title: "Chicken Broccoli Bake with Creamy Sauce"
 slug: "chicken-broccoli-bake"
-description: "A baked dish combining tender chicken, crisp broccoli, and noodles all wrapped in a creamy sauce thickened with a cornstarch slurry. Uses aromatic seasonings like garlic and onion powder balanced by chicken bouillon for depth. Cheese finishes with a melty, slightly browned top. Prep and cook times approximate; rely on visual and tactile cues for doneness."
-metaDescription: "Chicken Broccoli Bake blends tender chicken, crisp broccoli, and noodles in creamy sauce thickened with cornstarch. Cheese melts to a golden finish."
-ogDescription: "Tender chicken, bright broccoli, noodles bathed in creamy sauce with sharp cheddar melting golden on top. Bake slow, watch sauce shimmer and cheese melt."
-focusKeyphrase: "Chicken Broccoli Bake"
+description: "Creamy chicken broccoli bake loaded with noodles, melted cheese, and savory seasonings. One-pan dinner that's ready in under an hour with minimal prep."
+metaDescription: "Chicken broccoli bake recipe with creamy sauce and melted cheese. Easy one-pan dinner ready in 45 minutes. Make it tonight."
+ogDescription: "Tender chicken and broccoli in a creamy sauce with noodles and cheese. Simple, comforting one-pan bake."
+focusKeyphrase: "chicken broccoli bake"
 date: 2026-01-22
 draft: false
 image: chicken-broccoli-bake.jpg
@@ -21,9 +21,12 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "chicken bake"
-- "broccoli casserole"
-- "cheesy noodle bake"
+- "chicken broccoli bake"
+- "chicken and broccoli bake"
+- "creamy chicken broccoli bake"
+- "baked chicken and broccoli pasta"
+- "easy chicken broccoli bake"
+- "chicken broccoli casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "310"

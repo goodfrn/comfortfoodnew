@@ -1,10 +1,11 @@
 ---
 title: "Chocolate Cream Cheese Cupcakes"
+title: "Chocolate Cream Cheese Cupcakes"
 slug: "chocolate-cream-cheese-cupcakes"
-description: "A dark cocoa cupcake with a creamy, slightly sweetened cheese center studded with mini chips. Bakes to a tender crumb with the classic tangy pop from vinegar and vinegar’s lift. The cream cheese mix stays slightly firm, offering a contrast to the moist cake. Easily stored, freezes well, thaw slowly. Small tweaks in sugar and flour alter texture. Visual cues like cracked tops or toothpick clean pull dictate doneness better than timers alone."
-metaDescription: "Chocolate Cream Cheese Cupcakes with dark cocoa, tangy cream cheese center, mini chips. Moist texture, vinegar lift, freeze well, simple prep, baker’s sensory cues guide."
-ogDescription: "Dark cocoa cupcakes with creamy cheese surprise. Watch cracked tops, springy touch for done. Freeze, store chilled. Mini chips add bursts. Bake with vinegar boost."
-focusKeyphrase: "Chocolate Cream Cheese Cupcakes"
+description: "Dark cocoa cupcakes with creamy cheese centers and mini chips. Tender crumb, tangy depth, and a firm filling that contrasts the moist cake. Freezes beautifully."
+metaDescription: "Chocolate cream cheese cupcakes with a tender cocoa cake and tangy cheese center. Easy recipe that freezes well. Make them tonight."
+ogDescription: "Dark chocolate cupcakes stuffed with creamy cheese filling. Moist, tangy, freezer-friendly."
+focusKeyphrase: "chocolate cream cheese cupcakes"
 date: 2026-01-10
 draft: false
 image: chocolate-cream-cheese-cupcakes.jpg
@@ -21,9 +22,11 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "cream cheese center"
-- "mini chocolate chips"
-- "vinegar lift"
+- "chocolate cream cheese cupcakes"
+- "cream cheese stuffed chocolate cupcakes"
+- "chocolate cupcakes with cream cheese icing"
+- "chocolate cream cheese filled cupcakes"
+- "chocolate chip cream cheese cupcakes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "180"

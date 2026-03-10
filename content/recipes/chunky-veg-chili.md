@@ -1,10 +1,10 @@
 ---
-title: "Chunky Veg Chili"
+title: "Vegetarian Chili Recipe with Beans"
 slug: "chunky-veg-chili"
-description: "A hearty vegetarian chili with layers of smoky spice, creamy beans, and vibrant veggies. Onion, bell pepper, and garlic sautéed until translucent, then spiced with cumin, smoked paprika, and oregano. Tomato sauce, Rotel tomatoes, and mixed beans build depth. Pureeing part of the chili thickens the texture without losing chunkiness. A straightforward, flexible base for cold days or meal prep. Easy swaps included for pantry rescue or flavor twists."
-metaDescription: "Chunky Veg Chili packed with smoky spice, creamy beans, vibrant veggies. Thickened with blended chili for rich texture, layers of flavor, and hearty warmth."
-ogDescription: "Smoky chili with beans, bell pepper, cumin. Thickened by blending part of chili. Layers of spice and texture for warming meals or meal prep."
-focusKeyphrase: "chunky veg chili"
+description: "Easy vegetarian chili packed with beans, peppers, and smoky spices. Cumin, smoked paprika, and oregano build depth. Puree part of it for creamy texture without losing chunks."
+metaDescription: "Vegetarian chili recipe with beans, peppers, and cumin. Hearty, flexible, and ready in one pot. Try it tonight."
+ogDescription: "Chunky vegetarian chili with beans and smoked spices. No meat, full flavor, easy swaps for pantry rescue."
+focusKeyphrase: "vegetarian chili recipe"
 date: 2025-11-30
 draft: false
 image: chunky-veg-chili.jpg
@@ -21,9 +21,14 @@ tags:
 - "spicy"
 - "one pot"
 keywords:
-- "vegetarian chili"
-- "bean chili"
-- "smoky vegetarian chili"
+- "vegetarian chili recipe"
+- "meatless chili"
+- "veggie chili"
+- "vegetarian chili beans"
+- "easy vegetarian chili recipe"
+- "chili con carne vegetarian"
+- "vegan chili recipe"
+- "bean and veggie chili"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "295"

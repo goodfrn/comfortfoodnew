@@ -1,10 +1,11 @@
 ---
 title: "Creamy Cajun Andouille Pasta"
+title: "Creamy Cajun Andouille Pasta"
 slug: "creamy-cajun-andouille-pasta"
-description: "Butter melts, bell pepper and onion sizzle, garlic wakes kitchen. Toss in smoky andouille browned just right. Whisk chicken broth into flour till lump-free. Add broth mix, Cajun heat hits, thickens quickly. Cream tames spice, coats pasta and fresh tomatoes. Four servings. Southern vibe, a hint of heat, side-step with turkey sausage for leaner bite. Watch textures and aromas, timing less exact. Get the technique, skip common messes like flour lumps or mushy veggies."
-metaDescription: "Creamy Cajun Andouille Pasta with smoky sausage, tender veggies, rich cream. Bold Southern flavors, quick steps. Learn texture cues and seasoning balance."
-ogDescription: "Smoky andouille sizzles with bell pepper and onion. Creamy sauce thickens fast. Toss pasta in, fresh tomatoes burst. Southern style, bold, quick meal."
-focusKeyphrase: "Creamy Cajun Andouille Pasta"
+description: "Smoky andouille sausage, bell peppers, and Cajun spices build a creamy sauce that clings to pasta. Skip the lumps with proper technique. Ready in 30 minutes."
+metaDescription: "Creamy cajun pasta with andouille sausage. Smoky, spiced, and ready in 30 minutes. Try it tonight."
+ogDescription: "Andouille sausage meets cream sauce and Cajun heat. This pasta comes together fast and tastes like New Orleans."
+focusKeyphrase: "creamy cajun pasta with andouille sausage"
 date: 2026-01-10
 draft: false
 image: creamy-cajun-andouille-pasta.jpg
@@ -21,9 +22,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "Cajun pasta"
-- "Andouille sausage"
-- "Creamy sauce"
+- "creamy cajun pasta with andouille sausage"
+- "creamy andouille sausage pasta"
+- "cajun pasta recipes"
+- "andouille sausage pasta"
+- "creamy cajun sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"

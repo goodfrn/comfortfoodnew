@@ -1,10 +1,10 @@
 ---
-title: "Coconut Pound Cake"
+title: "Coconut Pound Cake Recipe With Cream Cheese"
 slug: "coconut-pound-cake"
-description: "Dense, moist coconut cake with cream cheese and butter base. Almond extract swapped for vanilla bean paste adding subtle warmth. Flaked coconut folded in at end to keep texture. Baked low and slow, teasing aromas out. Glazed with buttery coconut icing that drizzles and sets glossy. Watch for toothpick, not just clock. Handy tips on subbing ingredients and fixing dryness included."
-metaDescription: "Dense coconut pound cake with cream cheese, vanilla bean paste, and flaked coconut. Low bake, moist crumb, glossy coconut glaze. Tips on texture and swaps included."
-ogDescription: "Moist coconut pound cake baked slow with cream cheese, vanilla bean paste, and flaked coconut. Glaze shiny, texture chewy. Watch toothpick, trust smell. Subtips here."
-focusKeyphrase: "coconut pound cake"
+description: "Dense, moist coconut pound cake with cream cheese butter base and vanilla bean paste. Flaked coconut folded in for texture, glazed with buttery coconut icing. Low-temperature baking locks in moisture."
+metaDescription: "Coconut pound cake recipe with cream cheese and flaked coconut. Dense, moist crumb with vanilla bean paste and glossy coconut icing. Bake low and slow."
+ogDescription: "Dense coconut pound cake with cream cheese, vanilla bean paste, and a glossy coconut icing. Moist crumb that stays tender."
+focusKeyphrase: "coconut pound cake recipe"
 date: 2025-11-20
 draft: false
 image: coconut-pound-cake.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "coconut cake"
-- "pound cake recipe"
-- "glazed coconut cake"
+- "coconut pound cake recipe"
+- "coconut pound cake"
+- "coconut cream cheese pound cake"
+- "sour cream coconut cake recipe"
+- "coconut cake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

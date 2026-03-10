@@ -1,10 +1,10 @@
 ---
-title: "Cinna-Sugar Cupcakes"
+title: "Cinnamon Sugar Cupcakes with Cream Cheese"
 slug: "cinna-sugar-cupcakes"
-description: "Elevate boxed cake mix with buttermilk, eggs, oil, and cinnamon. Bake till golden and springy, then dip tops warm in cinnamon sugar for that crunchy sweet crust. Cream cheese frosting rich with vanilla and more cinnamon, thinned carefully with cream to pipe easily. Caramel drizzle adds gooey punch; churro bits finish with crunch. Watch batter texture and bake visually; soft centers with browned edges tell you when done. Frost thick but pipeable; no runny mess. Use brown sugar for deeper notes or milk instead of cream if out. Sprinkle or dip versus brush sugar for different coating textures. Tricks for quick cooling and perfect dollops included. Serves about 18, good for parties or a treat that rides a line between cupcake and churro vibes completely."
-metaDescription: "Cinna-Sugar Cupcakes loaded with warm cinnamon, soft crumb, cream cheese frosting piped thick with caramel drizzle and crunchy churro bites topping 18 servings"
-ogDescription: "Soft cupcakes with cinnamon sugar tops, thick cream cheese frosting swirled and drizzled with caramel. Crunchy churro bits crown each bite. Bake watch and dip quick"
-focusKeyphrase: "Cinna-Sugar Cupcakes"
+description: "Boxed cake mix elevated with buttermilk and cinnamon. Dip warm cupcakes in cinnamon sugar for a crunchy crust, top with cream cheese frosting and caramel drizzle."
+metaDescription: "Recipe for cinnamon sugar cupcakes with buttermilk, cream cheese frosting, and caramel. Dip-and-drizzle method for crunchy-soft texture. Make 18 cupcakes."
+ogDescription: "Buttermilk cinnamon cupcakes dipped warm in cinnamon sugar, frosted thick with cream cheese, finished with caramel and churro crunch."
+focusKeyphrase: "recipe for cinnamon cupcakes"
 date: 2026-01-22
 draft: false
 image: cinna-sugar-cupcakes.jpg
@@ -21,9 +21,14 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "cupcakes"
-- "cinnamon sugar"
-- "cream cheese frosting"
+- "recipe for cinnamon cupcakes"
+- "cinnamon sugar cupcakes"
+- "snickerdoodles cupcakes"
+- "cinnamon and sugar cupcakes"
+- "cream cheese frosting cupcakes"
+- "boxed cake mix cupcakes"
+- "caramel drizzle cupcakes"
+- "buttermilk cupcakes recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "260"

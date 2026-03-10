@@ -1,10 +1,10 @@
 ---
-title: "Chunky Herb Hummus"
+title: "Chunky Herb Hummus Recipe"
 slug: "chunky-herb-hummus"
-description: "Chickpeas ground gritty but creamy, blended with tahini swapped for sunflower seed butter. Olive oil, lemon juice, water, garlic combined but with a touch of smoked paprika twist. Chill to let flavors marry yet retain fresh kick. Great as dip, spread, or dolloped on salad. Uses common pantry staples, flexible on texture. Reads nuttier, brighter aroma, easier on tahini-allergy or low budget."
-metaDescription: "Chunky Herb Hummus with sunflower seed butter swaps tahini bitterness; creamy texture with garlic, smoked paprika, and fresh lemon juice punch. Mediterranean style dip."
-ogDescription: "Chunky Herb Hummus blends gritty chickpeas, sunflower seed butter, garlic, smoky paprika, fresh lemon; creamy but coarse. Bright, tangy, allergen-friendly Mediterranean dip."
-focusKeyphrase: "chunky herb hummus"
+description: "Creamy herb hummus with sunflower seed butter instead of tahini, finished with smoked paprika and fresh herbs. Works as dip, spread, or salad topper."
+metaDescription: "Herb hummus recipe using sunflower seed butter, chickpeas, and fresh herbs. Chunky texture, bright flavor, tahini-free. Make it tonight."
+ogDescription: "Creamy herb hummus with fresh herbs and sunflower seed butter. Chunky, gritty texture. Better for allergies and budgets."
+focusKeyphrase: "herb hummus"
 date: 2026-01-25
 draft: false
 image: chunky-herb-hummus.jpg
@@ -22,8 +22,11 @@ tags:
 - "healthy"
 keywords:
 - "herb hummus"
-- "chunky hummus"
-- "Mediterranean dip"
+- "hummus with parsley"
+- "herbs for hummus"
+- "lemon dill hummus recipe"
+- "hummus parsley"
+- "chickpea dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "230"

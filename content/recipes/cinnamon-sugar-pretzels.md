@@ -1,10 +1,10 @@
 ---
-title: "Cinnamon Sugar Pretzels"
+title: "Cinnamon Sugar Pretzel Recipe"
 slug: "cinnamon-sugar-pretzels"
-description: "Crunchy twists coated with melted butter, then tossed in a warm cinnamon sugar blend. Baked low and slow for a toasty finish. Sweet, buttery, slightly caramelized edges. A snack with texture contrast and inviting aroma. Changes from buttery soft to crisp happen visibly. Uses butter for richness but oil can substitute. Sugar amounts adjusted for balance. Baking time varies; must watch for dryness. Stirring prevents clumps, ensures even coating. Perfect for hands-on bakers who trust feel and sight over timers. A versatile snack. Great for last-minute parties or whenever cravings hit. Can spike with nutmeg or cayenne for unexpected punch. Past tries taught me to never skip the stirring during bake — uneven cooking is the enemy."
-metaDescription: "Crunchy cinnamon sugar pretzels baked low and slow with butter glaze and warm spices. Watch for dry, matte sugar crust and gentle snap edges in about 40 minutes."
-ogDescription: "Crunchy cinnamon-spiced pretzels tossed in butter and sugar mix. Stir every 9 minutes. Cool fully for crisp edges and soft centers. Spice swaps work here."
-focusKeyphrase: "cinnamon sugar pretzels"
+description: "Homemade cinnamon sugar pretzel recipe with buttery, crunchy twists and caramelized edges. Low and slow baking creates that toasty finish without the mall."
+metaDescription: "Cinnamon sugar pretzel recipe that's crunchy, buttery, and caramelized. Make them at home with this easy method. Try it tonight."
+ogDescription: "Crunchy pretzel twists coated in melted butter and warm cinnamon sugar. Baked until the edges caramelize and taste like the real thing."
+focusKeyphrase: "cinnamon sugar pretzel recipe"
 date: 2025-10-10
 draft: false
 image: cinnamon-sugar-pretzels.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy"
 - "comfort food"
 keywords:
-- "cinnamon sugar"
-- "pretzel snack"
-- "baked pretzels"
+- "cinnamon sugar pretzel recipe"
+- "cinnamon and sugar pretzel recipe"
+- "cinnamon pretzel recipe"
+- "sweet pretzel recipe"
+- "cinnamon sugar soft pretzel"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "150"

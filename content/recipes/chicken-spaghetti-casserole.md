@@ -1,10 +1,11 @@
 ---
 title: "Chicken Spaghetti Casserole"
+title: "Chicken Spaghetti Casserole"
 slug: "chicken-spaghetti-casserole"
-description: "A creamy, cheesy skillet meal with tender chicken and spaghetti. Velveeta melts into a rich sauce with cream of mushroom soup and diced tomatoes; garlic and onion powder add flavor depth. Sauce clings to al dente pasta, balanced by chicken broth when thick. Simple, satisfying, and quick. Familiar pantry staples do the heavy lifting. A comforting mix of textures and warmth. Great for weeknight dinners or casual gatherings."
-metaDescription: "Chicken Spaghetti Casserole loaded with Velveeta cheese, diced tomatoes with chilies, creamy mushroom soup; quick stovetop meal for 6 servings"
-ogDescription: "Velvety cheese and spicy tomatoes coat tender chicken and pasta. Skillet comfort, fast cooking, no bake needed; savory flavors, quick weeknight fix"
-focusKeyphrase: "Chicken Spaghetti Casserole"
+description: "Creamy chicken spaghetti casserole with Velveeta, cream of mushroom soup, and diced tomatoes. Easy weeknight pasta bake made with pantry staples. Ready in under an hour."
+metaDescription: "Chicken spaghetti casserole recipe with creamy sauce and tender pasta. Simple weeknight dinner using cream of mushroom soup. Make it tonight."
+ogDescription: "Creamy pasta bake with chicken, Velveeta, and mushroom soup. Weeknight casserole that comes together fast with pantry ingredients."
+focusKeyphrase: "chicken spaghetti casserole"
 date: 2026-01-03
 draft: false
 image: chicken-spaghetti-casserole.jpg
@@ -21,9 +22,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "chicken spaghetti"
-- "cheesy casserole"
-- "cream of mushroom soup"
+- "chicken spaghetti casserole"
+- "creamy chicken spaghetti casserole"
+- "chicken spaghetti pasta bake"
+- "cream of mushroom spaghetti casserole"
+- "easy pasta bake chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"

@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Pineapple Casserole"
+title: "Cheesy Pineapple Casserole Recipe"
 slug: "cheesy-pineapple-casserole"
-description: "A sharp mix of tangy pineapple with melty cheese and a buttery cracker topping. A twist on the classic, replacing granulated sugar with brown sugar for a hint of caramel, and using crumbly wheat crackers instead of Ritz. Fluffy, gooey richness balanced by crunchy crumbs. Oven temp bumped slightly, cook time trimmed by a little, watching those crumbs brown just right. Perfect for when you want something sweet but savory, with texture and a little kick. No fancy tools or odd ingredients, just pantry basics and a few kitchen smarts."
-metaDescription: "Cheesy Pineapple Casserole with sharp cheddar, brown sugar, and buttery wheat cracker topping baked golden. Tangy, crunchy, gooey layers in one dish."
-ogDescription: "Tangy pineapple meets sharp cheddar under a crunchy buttered cracker crust baked till golden brown. Sweet, savory, textured southern bake."
-focusKeyphrase: "Cheesy Pineapple Casserole"
+description: "Tangy pineapple meets melty cheese with a buttery cracker topping. Brown sugar adds caramel depth, wheat crackers replace Ritz for crunch. Sweet and savory."
+metaDescription: "Cheesy pineapple casserole with brown sugar and wheat crackers. Tangy, gooey, crunchy comfort food. Try it tonight."
+ogDescription: "Pineapple cheese casserole with a buttery cracker crust. Tangy fruit, melted cheese, and caramelized sweetness in one dish."
+focusKeyphrase: "cheesy pineapple casserole"
 date: 2025-12-25
 draft: false
 image: cheesy-pineapple-casserole.jpg
@@ -19,9 +19,11 @@ tags:
 - "cheese"
 - "pineapple"
 keywords:
-- "pineapple"
-- "cheddar cheese"
-- "brown sugar"
+- "cheesy pineapple casserole"
+- "pineapple cheese casserole"
+- "cheese and pineapple casserole"
+- "pineapple casserole recipe with cheese"
+- "pineapple cheddar casserole"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"

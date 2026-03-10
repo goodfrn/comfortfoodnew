@@ -1,9 +1,10 @@
 ---
-title: "Chicken Drippings Gravy"
+title: "Chicken Drippings Gravy Recipe"
+focusKeyphrase: "chicken drippings gravy"
 slug: "chicken-drippings-gravy"
-description: "Butter melted till bubbly then whisked vigorously with flour to form a roux that turns a faint golden brown and fragrant. Slowly streaming in rich chicken broth mixed with drippings ensuring no lumps. Whisk constantly while sauce thickens. Season with kosher salt and freshly ground pepper sparingly until balanced. Past attempts taught me to watch the roux color and smell; too dark means bitter. Swap butter with schmaltz for extra depth or olive oil if dairy-free; broth can be substituted with veggie stock in pinch. Stir with patience. Ignore timers; watch texture and aroma. Simple, hearty, adapted over many meals to hit that savory note every time."
-metaDescription: "Chicken drippings gravy made by whisking butter and flour roux to golden brown then slowly adding broth and drippings. Watch texture, aroma, bubbles for best result."
-ogDescription: "Whisk butter and flour till pale tan; add chicken broth plus drippings slow. Watch bubbles, smell nutty, adjust salt last. Hearty gravy, no lumps, thick but not gluey."
+description: "Make silky chicken drippings gravy from pan juices and broth. Roux-based method that thickens perfectly every time. Season to balance."
+metaDescription: "Chicken drippings gravy recipe using pan juices and broth. Roux-based, no lumps, savory depth. Make it tonight."
+ogDescription: "Rich chicken gravy made from drippings and broth. Roux method that's foolproof and deeply savory."
 focusKeyphrase: "chicken drippings gravy"
 date: 2026-01-16
 draft: false
@@ -21,9 +22,13 @@ tags:
 - "comfort food"
 - "side dish"
 keywords:
-- "gravy recipe"
-- "chicken broth gravy"
-- "roux gravy"
+- "chicken drippings gravy"
+- "chicken drippings"
+- "gravy using chicken drippings"
+- "chicken gravy recipe drippings"
+- "make chicken gravy from drippings"
+- "chicken gravy no drippings"
+- "homemade chicken gravy without drippings"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "90"

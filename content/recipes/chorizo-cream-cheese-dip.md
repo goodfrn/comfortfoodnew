@@ -1,10 +1,11 @@
 ---
 title: "Chorizo Cream Cheese Dip"
+title: "Chorizo Cream Cheese Dip"
 slug: "chorizo-cream-cheese-dip"
-description: "A creamy, tangy dip combining softened cream cheese with sour cream, punctuated by sautéed chorizo, toasted pumpkin seeds, and fresh green onions. Citrus-herb brightness from coriander and a sharp kick from pepperoncinis add complexity. Served cold with crunchy corn chips. A mix of textures and flavors—creamy, crispy, spicy, fresh. Adaptable with smoked paprika or hot sausage substitutions. For those who want more crunch, add toasted pecans or walnuts instead of pumpkin seeds. The oil from cooking the chorizo carries all those caramelized notes and herb aroma. A bold appetizer feeding 4 to 6, ideal when cocktails and stories slow-dance around the table."
-metaDescription: "Chorizo Cream Cheese Dip blends creamy, spicy, crunchy elements with chorizo, pumpkin seeds, coriander, pepperoncinis. Ready in under 20 minutes, crowd favorite."
-ogDescription: "Chorizo dip layered with cream cheese, sour cream, chorizo, seeds, fresh herbs, pepperoncinis. Quick to make, textured, punchy flavors for 4 to 6."
-focusKeyphrase: "Chorizo Cream Cheese Dip"
+description: "Creamy chorizo dip with sour cream, toasted pumpkin seeds, and pepperoncinis. Tangy, spicy, crunchy—ready in 15 minutes. Serve with corn chips."
+metaDescription: "Make chorizo cream cheese dip at home with sour cream and pumpkin seeds. Spicy, creamy appetizer ready in minutes. Try it tonight."
+ogDescription: "Chorizo and cream cheese dip loaded with toasted pumpkin seeds and bright pepperoncinis. Spicy, tangy, crunchy."
+focusKeyphrase: "chorizo cream cheese dip"
 date: 2025-09-29
 draft: false
 image: chorizo-cream-cheese-dip.jpg
@@ -21,9 +22,11 @@ tags:
 - "spicy"
 - "cheese"
 keywords:
-- "chorizo dip"
-- "cream cheese dip"
-- "pumpkin seeds dip"
+- "chorizo cream cheese dip"
+- "chorizo and cream cheese dip"
+- "velveeta cheese dip with chorizo"
+- "chorizo sour cream dip"
+- "spicy cream cheese dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "290"

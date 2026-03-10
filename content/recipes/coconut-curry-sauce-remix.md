@@ -1,10 +1,10 @@
 ---
-title: "Coconut Curry Sauce Remix"
+title: "Coconut Curry Sauce Recipe with Tamari"
 slug: "coconut-curry-sauce-remix"
-description: "A vibrant coconut curry concoction tweaked with tamari replacing soy sauce for a deeper umami kick. Ingredients gently mixed to bind flavors, chilled till cold. Stores well to merge flavors over time. Great for drizzling or dipping. Easy prep with a balance of creamy, spicy, and tangy notes. Familiar yet distinct from the original via toasted mustard seeds swapped for fenugreek seed powder, adding a subtle bitterness and warmth. Quick, forgiving—watch for color changes, aroma bursts to time steps rather than relying on clocks. Versatile for weekday meals or last-minute flavor boosters."
-metaDescription: "Coconut Curry Sauce Remix with tamari and fenugreek powder. Creamy, tangy, spicy blend chills fast. Ready in 6 minutes for versatile meals."
-ogDescription: "Creamy coconut curry sauce swapped soy for tamari; fenugreek toasted for aroma. Chill 30 mins. Use as dip or drizzle. Bold flavors without fuss."
-focusKeyphrase: "coconut curry sauce remix"
+description: "Coconut curry sauce recipe with tamari instead of soy for deeper umami. Toasted mustard seeds replace fenugreek for subtle warmth. Chill to merge flavors."
+metaDescription: "Coconut curry sauce recipe made with tamari and toasted mustard seeds. Quick to make, stores well, perfect for dipping or drizzling. Try it tonight."
+ogDescription: "A coconut curry sauce with tamari and toasted mustard seeds. Creamy, spicy, tangy—ready to chill and merge flavors over time."
+focusKeyphrase: "coconut curry sauce recipe"
 date: 2026-01-17
 draft: false
 image: coconut-curry-sauce-remix.jpg
@@ -21,9 +21,15 @@ tags:
 - "condiment"
 - "easy"
 keywords:
-- "coconut milk sauce"
-- "red curry paste"
-- "curry sauce recipe"
+- "coconut curry sauce recipe"
+- "coconut milk curry sauce"
+- "creamy coconut curry sauce"
+- "easy coconut curry sauce"
+- "curry sauce with coconut milk"
+- "basic coconut curry sauce"
+- "homemade curry sauce"
+- "thai coconut sauce"
+- "coconut sauce for chicken"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "110"

@@ -1,9 +1,10 @@
 ---
-title: "Cheesy Scalloped Potatoes"
+title: "Cheesy Scalloped Potatoes with Creamy Sauce"
+focusKeyphrase: "cheesy scalloped potatoes"
 slug: "cheesy-scalloped-potatoes"
-description: "Thinly sliced potatoes layered with a cheesy creamy sauce seasoned with nutmeg and garlic then baked until bubbling and tender. Uses a combination of milk and butter with sautéed onions for depth. Finished with fresh chives for color and bite. Hands-on slicing and layering builds texture. Ideal for serving eight, can be adapted with different cheeses or cream alternatives. Avoids soggy or undercooked middles by careful layering and watching top browning carefully."
-metaDescription: "Cheesy scalloped potatoes layered thin with nutmeg, garlic, and sharp cheddar. Slow onion sweat, creamy roux sauce, baked till bubbling and gently golden."
-ogDescription: "Layered Yukon Gold sliced potatoes in a cheesy nutmeg sauce. Sweat onions slow, bake covered then uncovered. Watch bubbling cheese — no scorch."
+description: "Layers of thinly sliced potatoes baked with a creamy cheese sauce, sautéed onions, and nutmeg. Tender, bubbling, and ready in one dish for eight people."
+metaDescription: "Cheesy scalloped potatoes made with creamy sauce, garlic, and fresh chives. Learn the layering trick that prevents soggy centers. Try it tonight."
+ogDescription: "Creamy cheesy scalloped potatoes with nutmeg and caramelized onions. One pan, eight servings, no soggy middles."
 focusKeyphrase: "cheesy scalloped potatoes"
 date: 2025-11-29
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "side dish"
 - "american"
 keywords:
-- "scalloped potatoes"
-- "cheddar cheese potatoes"
-- "creamy potato bake"
+- "cheesy scalloped potatoes"
+- "cheesy scalloped potatoes recipe"
+- "homemade scalloped potatoes"
+- "scalloped potatoes with cheese"
+- "easy cheesy scalloped potatoes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "320"

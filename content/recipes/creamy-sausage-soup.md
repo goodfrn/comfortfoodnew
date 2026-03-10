@@ -1,10 +1,11 @@
 ---
 title: "Creamy Sausage Tortellini Soup"
+title: "Creamy Sausage Tortellini Soup"
 slug: "creamy-sausage-soup"
-description: "Sausage browned to snaps and sizzle. Cream cheese melted into garlic-scented butter, Italian herbs waking senses. Tomato bits and creamy condensed tomato paired with water to loosen up. Simmer low to thicken without burning. Spinach wilts in glossy soup. Frozen tortellini softens just right—no mush. Pecorino adds salty punch on top. A rustic, comforting bowl with layers of savory and creamy textures. Adapt with turkey sausage or kale if spinach not on hand. Subtle onion flakes provide background depth but fresh minced onion swaps in well. A cooking rhythm more than exact timing—watch, listen, smell your way through this soup."
-metaDescription: "Creamy Sausage Tortellini Soup with browned pork sausage, garlic butter, condensed tomato base; tender tortellini and spinach join rich Pecorino topping. Savory layers meld."
-ogDescription: "Sausage browned crisp, cream cheese melts into garlicky butter. Tomatoes and condensed soup simmer low. Tortellini plump, spinach wilts, Pecorino sharpens each bowl."
-focusKeyphrase: "Creamy Sausage Tortellini Soup"
+description: "Browned sausage, cream cheese, and frozen tortellini simmer into a rich, comforting soup. Spinach wilts in, pecorino finishes it. Ready in 30 minutes."
+metaDescription: "Creamy sausage tortellini soup with spinach and cream cheese. Browned meat, garlic butter, tomato, herbs. Comfort in a bowl. Try it tonight."
+ogDescription: "Sausage crisps and pops. Cream cheese melts into butter. Tortellini softens just right. Spinach wilts into glossy cream."
+focusKeyphrase: "creamy sausage tortellini soup"
 date: 2025-12-10
 draft: false
 image: creamy-sausage-soup.jpg
@@ -21,9 +22,11 @@ tags:
 - "one pot"
 - "easy dinner"
 keywords:
-- "sausage tortellini soup"
-- "cream cheese soup"
-- "Italian-American soup"
+- "creamy sausage tortellini soup"
+- "creamy sausage tortellini soup with spinach"
+- "sausage tortellini soup cream cheese"
+- "creamy italian sausage tortellini soup"
+- "tortellini soup with sausage"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "430"

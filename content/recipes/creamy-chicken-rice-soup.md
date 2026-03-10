@@ -1,9 +1,10 @@
 ---
-title: "Creamy Chicken Rice Soup"
+title: "Creamy Chicken Rice Soup Recipe"
+focusKeyphrase: "creamy chicken rice soup"
 slug: "creamy-chicken-rice-soup"
-description: "A thick, creamy chicken and rice soup bursting with herbs and a gentle kick from chili flakes and hot sauce. Chicken pieces tossed in seasoning before hitting the pot, then cooked alongside a soffritto of onions, carrots and celery that soften into sweet-savoury harmony. Rice simmers right in the broth, thickening naturally as starch unlocks, no roux needed beyond a dusting of flour for structure. Balanced with half & half and soy sauce replacing typical dairy saltiness, this soup stretches to feed a crowd yet keeps cozy sharpness and texture. Finished off with Parmesan and parsley for bite and freshness."
-metaDescription: "Creamy chicken rice soup bursting with herbs, subtle heat, and tender chicken simmered with onion mirepoix, rice thickening naturally, finished with Parmesan and parsley."
-ogDescription: "Thick, creamy chicken rice soup with herbs and spice. Chicken browned, rice simmers in broth, soy sauce adds depth, Parmesan and parsley finish sharp and fresh."
+description: "Creamy chicken rice soup with tender chicken, soft vegetables, and rice simmered in broth. Half & half and soy sauce replace cream for balanced flavor. Finish with Parmesan."
+metaDescription: "Make creamy chicken rice soup with seasoned chicken, soffritto, and rice that thickens naturally. Ready in under an hour. Try it tonight."
+ogDescription: "Creamy chicken rice soup loaded with tender chicken, herbs, and a gentle kick. No roux needed—rice does the work."
 focusKeyphrase: "creamy chicken rice soup"
 date: 2025-11-21
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "rice"
 - "easy dinner"
 keywords:
-- "chicken rice soup"
-- "creamy soup"
-- "herbed chicken"
+- "creamy chicken rice soup"
+- "cream of chicken and rice soup"
+- "chicken and rice cream soup"
+- "creamy chicken and rice soup recipe"
+- "cream of chicken rice"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"

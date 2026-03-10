@@ -1,10 +1,10 @@
 ---
-title: "Cookie Scoop Ice Cream"
+title: "Cookie Dough Ice Cream Recipe"
 slug: "cookie-scoop-ice-cream"
-description: "Creamy vanilla ice cream chunks mixed with crumbled chocolate chip dough, frozen to firmness. Whipped cream adds airy contrast. Serves cold, creamy indulgence with a crunchy cookie side option. Quick to prep, chill for set time. Vegetarian friendly, nut free. Simple ingredients, no fancy gear needed. Flavor tweak with browned butter dough swap for nuttier vibe. Focus on texture contrast - soft ice cream with chewy dough pieces. Timing flexible based on softness level when folding dough in. Watch dough crumbs size for balance between gooey bites and ease of scooping. Common error scrap: dough too hard, ice cream too frozen, messes blend. Patience in softening key. Quick whip topping or from carton works. Easy, no-fuss treat for unexpected guests or self-spoiling afternoons."
-metaDescription: "Cookie Scoop Ice Cream folds cold cookie dough chunks into soft vanilla ice cream. Chill until scoopable. Whip cream topping adds airy cut through richness."
-ogDescription: "Chunky cookie dough meets soft vanilla ice cream. Fold gently, freeze 2 hours. Whip cream dollop offers texture contrast. Chill bowls for best serve."
-focusKeyphrase: "cookie scoop ice cream"
+description: "Homemade cookie dough ice cream with chocolate chip chunks and creamy vanilla base. No churn needed—fold in crumbled dough, freeze, and serve. Soft texture contrast."
+metaDescription: "Make cookie dough ice cream at home with simple ingredients. Creamy vanilla, chocolate chips, and chewy dough pieces. Try it tonight."
+ogDescription: "Homemade cookie dough ice cream. Creamy vanilla with chocolate chip cookie chunks. Easy no-churn recipe."
+focusKeyphrase: "cookie dough ice cream"
 date: 2025-09-25
 draft: false
 image: cookie-scoop-ice-cream.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "comfort food"
 keywords:
-- "cookie dough"
-- "vanilla ice cream"
-- "whipped cream"
+- "cookie dough ice cream"
+- "chocolate chip cookie dough ice cream"
+- "homemade cookie dough ice cream"
+- "cookie dough ice cream recipe"
+- "no churn ice cream"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "280"

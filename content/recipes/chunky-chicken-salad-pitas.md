@@ -1,10 +1,10 @@
 ---
-title: "Chunky Chicken Salad Pitas"
+title: "Chicken Salad Pita Recipe With Pecans"
 slug: "chunky-chicken-salad-pitas"
-description: "A quick chicken salad mix with a twist. Cooked chicken, crunchy celery, crisp onion swapped for shallots, juicy grapes, toasted pecans, zingy lemon, a whisper of whole grain mustard instead of Dijon, mayo, salt, white pepper. Served in pita pockets layered with lettuce and tomato. Preps in about 12-18 minutes depending on chopping speed. Flavors bold yet balanced with texture contrasts. Pantry-friendly swaps, common hiccups, and sensory cues covered. No fuss, just chopped, mixed, stuffed. No wait time. Fresh, not mushy. Can double up and refrigerate, but keep pitas separate or they get soggy. Salad can thicken overnight, adjust mayo accordingly. A solid, reliable layering of simple ingredients with a subtle nutty twist. Lunch or light dinner. Easy to adapt to what’s on hand. Little tweaks make all the difference."
-metaDescription: "Chunky Chicken Salad Pitas packed with toasted pecans, fresh grapes, crisp celery and tangy mayo. Quick assembly, layered in pita with lettuce and tomato for lunch or light dinner."
-ogDescription: "Crunchy nuts, juicy grapes, zingy lemon in chicken salad stuffed pita pockets. No mushy mess. Fresh textures with a subtle nutty note. Ready fast, eat fresh or chill filling separate."
-focusKeyphrase: "chunky chicken salad pitas"
+description: "Quick chicken salad pita with pecans, grapes, and whole grain mustard. Ready in 15 minutes. Keep pitas separate to avoid sogginess."
+metaDescription: "Chicken salad pita recipe made with toasted pecans, fresh grapes, and lemon. Crunchy, balanced, and on the table in 15 minutes. Try it tonight."
+ogDescription: "Chunky chicken salad with pecans and grapes stuffed into pitas. No wait, no fuss. Ready to eat in 15 minutes."
+focusKeyphrase: "chicken salad pita recipe"
 date: 2026-01-26
 draft: false
 image: chunky-chicken-salad-pitas.jpg
@@ -21,9 +21,12 @@ tags:
 - "easy dinner"
 - "lemon"
 keywords:
-- "chicken salad"
-- "pecans"
-- "whole grain mustard"
+- "chicken salad pita recipe"
+- "chicken salad pita"
+- "chicken salad in pita"
+- "chicken salad in pita bread"
+- "easy chicken salad"
+- "quick lunch recipes"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "350"

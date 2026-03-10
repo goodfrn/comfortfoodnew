@@ -1,9 +1,10 @@
 ---
-title: "Creamy Chicken Taco Soup Twist"
+title: "Creamy Chicken Taco Soup with Cream Cheese"
+focusKeyphrase: "creamy chicken taco soup"
 slug: "creamy-chicken-taco-soup"
-description: "A hearty, tangy soup merging shredded rotisserie chicken, diced green chilies in place of corn, and melted cream cheese for silky texture. Aromatic sautéed onions start the base, then simmered with seasoned tomatoes and broth; it bubbles and thickens, cream cheese melts perfectly. The green chilies add subtle heat and moisture, replacing the usual sweet crunch of corn. Hands-on approach to timing and texture, eyeing onions’ translucence and cream cheese fully incorporated. Swaps and tips included for common mistakes, like watery soups or clumpy cheese. Encourages adapting seasoning levels and reheating tricks for depth. Busts myths on cooking times — go by sound and sight."
-metaDescription: "Creamy chicken taco soup twist with shredded rotisserie chicken, green chilies, and cream cheese for rich texture. Hearty, smoky, with hands-on cooking tips."
-ogDescription: "Shredded chicken and green chilies in creamy taco soup. Watch onions soften, cheese melt slowly, bubbles tell when it's done. Warm, smoky, rich."
+description: "Creamy chicken taco soup with shredded rotisserie chicken, green chilies, and melted cream cheese. Skip the corn, keep the heat. Ready in 30 minutes."
+metaDescription: "Creamy chicken taco soup recipe with cream cheese and green chilies instead of corn. Silky, tangy, packed with flavor. Make it tonight."
+ogDescription: "Shredded rotisserie chicken, green chilies, cream cheese. No corn. This taco soup is tangy, creamy, done fast."
 focusKeyphrase: "creamy chicken taco soup"
 date: 2026-01-03
 draft: false
@@ -21,9 +22,13 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "chicken taco soup"
-- "cream cheese soup"
-- "green chili soup"
+- "creamy chicken taco soup"
+- "chicken taco soup cream cheese"
+- "creamy taco soup chicken"
+- "taco chicken soup with cream cheese"
+- "crockpot creamy chicken taco soup"
+- "rotisserie chicken taco soup"
+- "green chile chicken soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "250"

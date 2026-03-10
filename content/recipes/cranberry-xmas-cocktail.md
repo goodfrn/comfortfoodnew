@@ -1,10 +1,10 @@
 ---
-title: "Cranberry Xmas Cocktail"
+title: "Vodka Cranberry Cocktail with Homemade Syrup"
 slug: "cranberry-xmas-cocktail"
-description: "Simmer cranberries with cinnamon and sugar, strain to make syrup. Rim glass with sugared lime. Ice-filled glass awaits cranberry juice, syrup, vodka. Stir then top with lemon-lime soda. Garnish with cranberries and lime. Watch for simmering sugar dissolving, bubbling small but steady. Rim moisture key for sugar grip. Adjust sugar or swap vodka with gin or white rum for twist. Carbonation adds sparkle; soda choice affects sweetness and bite. Feel texture shift in syrup thickness, listen for simmer sound change and aroma fullness. Avoid overcooking syrup or syrup will get bitter, sugar graininess means undercooked. Keep vodka chilled to prevent dilution. Use frozen cranberries if fresh unavailable, they slow melting, keep drink colder longer."
-metaDescription: "Cranberry Xmas Cocktail blends tart cranberries cinnamon syrup vodka lime rim. Chill frozen berries tap sugar grip, simmer slow watch bubbles thickening sugar dissolve."
-ogDescription: "Tart cranberry meets cinnamon syrup vodka lime sugar rim. Frozen berries slow melt. Simmer slow, bubbles steady, syrup thickens just right. Layer with soda finally."
-focusKeyphrase: "cranberry xmas cocktail"
+description: "Make a vodka cranberry cocktail with homemade cinnamon syrup, sugared lime rim, and lemon-lime soda. Fresh and festive for any occasion."
+metaDescription: "Vodka cranberry cocktail recipe with homemade syrup, cinnamon, and lime rim. Easy to make, tastes festive. Try it tonight."
+ogDescription: "Homemade vodka cranberry cocktail with cinnamon syrup and lime rim. Festive, easy, and ready in minutes."
+focusKeyphrase: "vodka cranberry cocktail"
 date: 2025-12-09
 draft: false
 image: cranberry-xmas-cocktail.jpg
@@ -21,9 +21,14 @@ tags:
 - "holiday"
 - "cinnamon"
 keywords:
-- "cranberry syrup"
-- "vodka cocktail"
-- "holiday drink"
+- "vodka cranberry cocktail"
+- "vodka and cranberry"
+- "cranberry vodka drink"
+- "vodka cranberry recipe"
+- "cocktail with cranberry and vodka"
+- "cranberry juice and vodka"
+- "vodka cocktails"
+- "holiday cocktail recipe"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "580"

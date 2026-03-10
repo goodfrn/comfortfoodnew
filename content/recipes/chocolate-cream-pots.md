@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Cream Pots with Orange"
+title: "Chocolate Orange Mousse Recipe"
 slug: "chocolate-cream-pots"
-description: "Dark chocolate melted into creamy custard thickened with corn starch. Egg yolks mixed with sugar and starch then cooked with milk and cream. Orange zest swapped in for richness, vanilla dropped. Chill until firm. Serve with optional whipped cream. A bit tangy twist, less sugar. Smooth texture. Six small servings. Quick to make, about 30 minutes total time."
-metaDescription: "Chocolate Cream Pots with orange zest. Dark chocolate melts into custard thickened with cornstarch, egg yolks, milk, cream. Chill and serve chilled."
-ogDescription: "Dark chocolate custard with orange twist. Thickened with cornstarch, egg yolks, chilled firm. Dollop whipped cream if you want. Six servings, quick prep."
-focusKeyphrase: "Chocolate Cream Pots with Orange"
+description: "Dark chocolate mousse with orange zest and custard base. Egg yolks, cream, and milk thickened with cornstarch. Chill and serve in small pots. Ready in 30 minutes."
+metaDescription: "Chocolate orange mousse recipe with custard base and orange zest. Dark, creamy, tangy. Make it tonight."
+ogDescription: "Dark chocolate mousse with fresh orange zest. Custard-based, creamy, tangy. Six servings, 30 minutes."
+focusKeyphrase: "chocolate mousse with orange"
 date: 2025-07-28
 draft: false
 image: chocolate-cream-pots.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "eggs"
 keywords:
-- "chocolate custard"
-- "orange zest"
-- "cornstarch thickened custard"
+- "chocolate mousse with orange"
+- "chocolate and orange mousse"
+- "orange mousse"
+- "chocolate orange mousse recipe"
+- "chocolate and orange mousse recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "250"

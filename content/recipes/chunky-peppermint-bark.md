@@ -1,10 +1,10 @@
 ---
-title: "Chunky Peppermint Bark"
+title: "Homemade Peppermint Bark Recipe"
 slug: "chunky-peppermint-bark"
-description: "Chunky peppermint candies broken up, layered over dark and white chocolate melts, infused with peppermint oil. Big peppermint shards give texture, snap, and look. Melt chocolate in short bursts watching textures. Spread thin layers fast before firming up. White layer scented lightly but punchy with oil added gradually. Top with large, crunchy peppermint pieces, not dusty powder. Chill until firm then break into shards. Store airtight. Swapping semi-sweet chocolate for dark works well if bitter's too much. Key is texture contrast and timing—too soft or burnt chocolate kills it. Has a bite, a snap, and buttery melt with refreshing hit from oil."
-metaDescription: "Chunky Peppermint Bark layered with dark and white chocolate, infused with peppermint oil, topped with crunchy candy shards. Texture and timing critical."
-ogDescription: "Layers of dark and white chocolate with peppermint oil, topped with big crunchy shards. Watch melting times and textures for best snap and bite."
-focusKeyphrase: "Chunky Peppermint Bark"
+description: "Homemade peppermint bark with layers of dark and white chocolate, topped with crunchy candy cane shards. Fast, simple method for snappy texture and bold peppermint flavor."
+metaDescription: "Homemade peppermint bark with chunky candy cane pieces and layered chocolate. Simple technique for crisp, buttery texture. Make it tonight."
+ogDescription: "Layers of dark and white chocolate with big peppermint shards. Snap, crunch, and bold mint flavor in every bite."
+focusKeyphrase: "homemade peppermint bark"
 date: 2026-01-11
 draft: false
 image: chunky-peppermint-bark.jpg
@@ -20,9 +20,11 @@ tags:
 - "holiday"
 - "no bake"
 keywords:
-- "peppermint bark"
-- "chocolate candy melts"
-- "peppermint oil"
+- "homemade peppermint bark"
+- "easy peppermint bark"
+- "candy cane bark"
+- "peppermint bark recipe"
+- "homemade christmas candy"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

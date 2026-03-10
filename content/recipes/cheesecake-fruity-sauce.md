@@ -1,10 +1,10 @@
 ---
-title: "Cheesecake with Fruity Sauce"
+title: "Ricotta Cheesecake Recipe with Berry Sauce"
 slug: "cheesecake-fruity-sauce"
-description: "Oat base swapped with crushed graham crackers, brown sugar, melted margarine. Cream cheese reduced, ricotta added. Flour replaced with cornstarch. Vanilla kept. Sour cream swapped with Greek yogurt. Eggs remain. Mixed frozen berries puréed into coulis, sweetened to taste. Baking times varied slightly for crust and bake. Cheesecake cooled before sauce. Sauce sieved to remove seeds. Optional caramel added for serving. Quantities reduced by 30 percent overall."
-metaDescription: "Cheesecake with fruity sauce featuring a graham cracker crust, ricotta and cream cheese filling, frozen berry coulis strained smooth, baked at 175°C. Tangy, lighter texture."
-ogDescription: "Rich cheesecake swaps oats for graham crackers. Ricotta joins cream cheese, Greek yogurt, eggs bind. Berry sauce puréed, sieved for silky finish. Bake, cool, serve."
-focusKeyphrase: "Cheesecake with fruity sauce"
+description: "Ricotta cheesecake with graham cracker crust and homemade berry coulis. Lighter version using Greek yogurt and cornstarch for a tangy, creamy dessert."
+metaDescription: "Ricotta cheesecake recipe with fresh berry sauce. Lighter, creamier version with Greek yogurt. Make it tonight."
+ogDescription: "Ricotta cheesecake that's lighter but still creamy. Berry coulis on top. Skip the guilt."
+focusKeyphrase: "ricotta cheesecake recipe"
 date: 2025-07-30
 draft: false
 image: cheesecake-fruity-sauce.jpg
@@ -21,9 +21,14 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "cheesecake"
-- "berry sauce"
-- "graham crackers"
+- "ricotta cheesecake"
+- "ricotta cheesecake recipe"
+- "baked ricotta cheesecake"
+- "cheesecake ricotta cream cheese"
+- "homemade ricotta cheesecake"
+- "italian ricotta cheesecake"
+- "creamy ricotta cheesecake"
+- "easy ricotta cheese cake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

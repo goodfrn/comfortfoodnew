@@ -1,10 +1,10 @@
 ---
-title: "Chunky Tuna Salad Twist"
+title: "Avocado Tuna Salad No Mayo"
 slug: "chunky-tuna-salad"
-description: "Flaked tuna tossed with crisp celery, diced sweet onion mix, and a creamy binder. Mayo swapped out for avocado mayo, tamed with sweet pickle relish and a kick of mustard. Salt and pepper balance it all. Chill to let flavors marry, texture settles. Serve on toasted bread, crackers, or veggie sticks. High-fat content from avocado mayo; protein-packed with subtle crunch and snap from fresh veggies. Easy to mix, quick to prep, forgiving if you miss pickles or mustard, improvise with what’s on hand."
-metaDescription: "Chunky Tuna Salad Twist mixes flaked tuna with creamy avocado mayo, crisp celery, onions, and tangy pickle relish; chill to marry flavors, serve on bread or sticks."
-ogDescription: "Chunky tuna meets creamy avocado mayo, crunchy celery, and sharp onions; quick to prep, chill to fuse flavors, great on toast or crunchy veggie sticks."
-focusKeyphrase: "Chunky Tuna Salad"
+description: "Creamy avocado tuna salad without mayo. Flaked tuna mixed with crisp celery, sweet onion, and mustard-spiked pickle relish. Ready in minutes."
+metaDescription: "Avocado tuna salad no mayo recipe. Creamy, protein-packed, and ready in 10 minutes. Try it tonight."
+ogDescription: "Swap mayo for avocado in your tuna salad. Creamy, crunchy, and on the table fast."
+focusKeyphrase: "avocado tuna salad no mayo"
 date: 2025-10-06
 draft: false
 image: chunky-tuna-salad.jpg
@@ -21,9 +21,11 @@ tags:
 - "sandwich"
 - "easy"
 keywords:
-- "tuna salad"
-- "avocado mayonnaise"
-- "pickle relish"
+- "avocado tuna salad no mayo"
+- "tuna salad without mayo avocado"
+- "avocado tuna salad recipe"
+- "chunky tuna salad"
+- "healthy tuna salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"

@@ -1,10 +1,10 @@
 ---
-title: "Cinnamon Banana Bread Twist"
+title: "Cinnamon Swirl Banana Bread Recipe"
 slug: "cinnamon-banana-bread"
-description: "Banana bread with that familiar cinnamon swirl and crumbly streusel, baked in a light-colored aluminum loaf pan for a tender crumb. Swirling sugar cinna layers in the middle, plus a drizzle glaze at the end. Mash ripe bananas well, fold dry into wet with care. Streusel made with brown sugar and a touch of nutmeg for a subtle twist replaces some cinnamon. Oven at 355°F for about 50-60 minutes, watch tops for color, tent foil if it races. Cool in pan to set, flip onto rack. A balance of textures and spicy aroma."
-metaDescription: "Cinnamon Banana Bread Twist with cinnamon sugar swirl, crumbly streusel, and light glaze. Moist crumb, nutmeg hint, baked in aluminum for tender texture."
-ogDescription: "Swirled cinnamon sugar and buttery streusel top this banana bread twist. Ripe banana mash folds with dry mix. Watch the golden brown crown for doneness."
-focusKeyphrase: "cinnamon banana bread twist"
+description: "Cinnamon swirl banana bread with streusel topping and glaze. Tender crumb, spiced layers, and nutmeg-touched streusel for texture and depth."
+metaDescription: "Cinnamon swirl banana bread recipe with brown sugar streusel and glaze. Tender, spiced, and balanced. Try it tonight."
+ogDescription: "Cinnamon swirl banana bread with nutmeg streusel. Tender crumb, spiced layers, and a simple glaze."
+focusKeyphrase: "cinnamon swirl banana bread"
 date: 2025-10-07
 draft: false
 image: cinnamon-banana-bread.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "breakfast"
 keywords:
-- "banana bread"
-- "cinnamon sugar swirl"
-- "streusel topping"
+- "cinnamon swirl banana bread"
+- "banana bread recipes with cinnamon"
+- "cinnamon swirl banana bread recipe"
+- "cinnamon roll banana bread"
+- "banana bread recipe cinnamon swirl"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "280"

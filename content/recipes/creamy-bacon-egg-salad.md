@@ -1,10 +1,10 @@
 ---
-title: "Creamy Bacon Egg Salad"
+title: "Bacon Egg Salad with Cream Cheese"
 slug: "creamy-bacon-egg-salad"
-description: "Eggs mashed with cream cheese and mayo hit smoky chopped bacon and sharp cheddar. Spread thick on croissants with fresh spinach leaves. Creamy, rich, with salty bacon crunch. Skip mayo if you want lighter or swap bacon for smoked turkey for a different protein twist. Mash eggs just right; too smooth loses bite, too chunky gets messy. Served cold or room temp; holds up well. Simple, fast. Breakfast lunch anytime."
-metaDescription: "Creamy Bacon Egg Salad with sharp cheddar, crispy bacon, and chives. Mashed eggs keep texture; served on croissants with fresh spinach for crunch and bite."
-ogDescription: "Eggs mashed with cream cheese, smoky bacon, and sharp cheddar. Spread on croissants with fresh spinach. Rich, textured, with bold seasoning and crunch."
-focusKeyphrase: "Creamy Bacon Egg Salad"
+description: "Creamy bacon egg salad made with mashed eggs, cream cheese, mayo, and sharp cheddar. Serve on croissants with fresh spinach for an easy lunch or breakfast sandwich."
+metaDescription: "Bacon egg salad recipe with cream cheese and sharp cheddar. Spread on croissants with spinach. Make it today."
+ogDescription: "Mashed eggs, smoky bacon, sharp cheddar, and cream cheese. Spread thick on croissants with fresh spinach."
+focusKeyphrase: "bacon egg salad"
 date: 2026-01-23
 draft: false
 image: creamy-bacon-egg-salad.jpg
@@ -21,9 +21,14 @@ tags:
 - "sandwich"
 - "salad"
 keywords:
-- "egg salad"
 - "bacon egg salad"
-- "creamy salad"
+- "bacon and egg salad"
+- "bacon egg salad recipe"
+- "bacon and egg salad recipe"
+- "bacon and egg spinach salad"
+- "egg and spinach salad"
+- "bacon egg salad sandwich"
+- "bacon and egg potato salad"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "450"

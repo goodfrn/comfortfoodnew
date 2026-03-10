@@ -1,10 +1,10 @@
 ---
-title: "Chunky Veggie Chickpea Couscous Salad"
+title: "Chickpea Couscous Salad with Feta"
 slug: "chunky-veggie-chickpea-salad"
-description: "A vibrant couscous salad packed with veggies and chickpeas, spiced with warm cumin and coriander. Quick to make, it’s a textured combo of fluffy grain, crisp cucumber, and zesty peppers, dotted with creamy feta. Uses vegetable broth but chicken broth swap works. No nuts or eggs. Perfect for an anytime light meal or starter. Balances warmth from spices with fresh coolness from herbs and crunchy veg."
-metaDescription: "Chunky Veggie Chickpea Couscous Salad packed with cumin, coriander, crisp veggies, chickpeas, and goat cheese; quick, warm-spiced, herb-fresh, light Mediterranean meal."
-ogDescription: "Warm cumin-toast meets crisp cucumber, chickpeas, goat cheese in a vibrant Mediterranean couscous salad. Easy, fresh textures with herb punch. Great anytime."
-focusKeyphrase: "Chunky Veggie Chickpea Couscous Salad"
+description: "Chickpea couscous salad with crisp veggies, warm spices, and creamy feta. Ready in 20 minutes. Fresh, filling, and naturally vegetarian."
+metaDescription: "Chickpea couscous salad recipe with cucumber, peppers, and feta. Fluffy grain, crisp vegetables, warm spices. Try it tonight."
+ogDescription: "Chickpea couscous salad loaded with fresh veggies and creamy feta. Cumin-spiced, ready fast, and genuinely good."
+focusKeyphrase: "chickpea couscous salad"
 date: 2025-08-06
 draft: false
 image: chunky-veggie-chickpea-salad.jpg
@@ -21,11 +21,11 @@ tags:
 - "chickpeas"
 - "easy"
 keywords:
-- "couscous salad"
-- "chickpea salad"
-- "Mediterranean lunch"
-- "goat cheese salad"
-- "cumin spiced salad"
+- "chickpea couscous salad"
+- "couscous and chickpea salad recipe"
+- "couscous salad with feta and chickpeas"
+- "moroccan chickpea couscous salad"
+- "chickpea and cous cous salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"

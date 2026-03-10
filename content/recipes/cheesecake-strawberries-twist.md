@@ -1,10 +1,10 @@
 ---
-title: "Cheesecake Strawberries Twist"
+title: "Cheesecake Stuffed Strawberries Recipe"
 slug: "cheesecake-strawberries-twist"
-description: "Strawberries hollowed generously, tipped flat to stand firm. Cream cheese whipped with lemon, vanilla, sour cream, powdered sugar. Heavy cream thinned filling if needed. Piped into berries. Chill till firm, sprinkle with crushed pecans instead of graham crumbs. A cooling, sweet-tart bite with textural pop. Great for last-minute desserts or party trays. Substituted sour cream with Greek yogurt for tang. Watch moisture draining on paper towels to keep shells crisp. Can swap lemon juice with orange zest for citrus shift. Chill longer if filling too soft. Handles well, easy finger food. About 30 pieces from a pint of strawberries."
-metaDescription: "Cheesecake Strawberries Twist filled with creamy lemon-vanilla cheesecake blend, topped with crushed pecans. A tangy, crunchy finger food that stands tall and fresh."
-ogDescription: "Creamy cheesecake filling piped into hollow strawberries, topped with pecans. Chilled, tangy, and textured. Great for finger foods, snacks, or party trays."
-focusKeyphrase: "Cheesecake stuffed strawberries"
+description: "Hollow fresh strawberries and pipe creamy cheesecake filling inside. Tangy lemon cream cheese, crushed pecans on top. Easy no-bake dessert ready in 30 minutes."
+metaDescription: "Cheesecake stuffed strawberries recipe with cream cheese filling, lemon zest, and pecans. No-bake party dessert that's ready to serve. Make it tonight."
+ogDescription: "Fresh strawberries stuffed with tangy lemon cheesecake filling and topped with pecans. No-bake dessert that works for parties or everyday."
+focusKeyphrase: "cheesecake stuffed strawberries"
 date: 2026-01-18
 draft: false
 image: cheesecake-strawberries-twist.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "party"
 keywords:
-- "cheesecake strawberries"
-- "stuffed berries"
-- "cream cheese filling"
+- "cheesecake stuffed strawberries"
+- "cream cheese stuffed strawberries"
+- "cream cheese filled strawberries"
+- "filled strawberries recipe"
+- "strawberries stuffed"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "85"

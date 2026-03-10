@@ -1,10 +1,10 @@
 ---
-title: "Chunky Apple Pie Bars"
+title: "Apple Pie Bars with Cinnamon Shortbread"
 slug: "chunky-apple-pie-bars"
-description: "Oats and brown sugar streusel hit crunchy, cinnamon stirred shortbread crust. Tart apples, lemon juice thickened, cook down just shy soft. Baked layered, bubbly edges, golden top. Chilling dough prevents sogginess; tactile press matters. Butter key, swap coconut for funkier notes. Cinnamon/nutmeg combo old school, hint cayenne wakes it up. Look for soft apples, not mush; bubbling signals done filling. Timing’s guide, smell cinnamon, hear crust crack. Simple overflow toppings welcome. Adapt sugar to apples’ sweet. Avoid watery filling by cooking off juices well or using thick cornstarch mix."
-metaDescription: "Chunky Apple Pie Bars layered with cinnamon oats streusel, tart apples thickened with lemon and cornstarch. Crunch meets soft, buttery shortbread crust. Bake times key."
-ogDescription: "Crunchy oat streusel, spiced apples thickened just right on buttery crust. Warm cinnamon aroma, bubbling fruit edges signal done. Bars to chill, then slice."
-focusKeyphrase: "Chunky Apple Pie Bars"
+description: "Cinnamon shortbread crust meets tart apples and oat streusel. Layered apple pie bars that stay crisp on edges, soft inside. Fresh, tactile baking."
+metaDescription: "Apple pie bars with cinnamon shortbread crust and brown sugar streusel. Layered, crispy edges, soft filling. Make them tonight."
+ogDescription: "Apple pie bars layered with cinnamon shortbread and oat streusel. Crisp edges, soft apples, real butter base."
+focusKeyphrase: "apple pie bars"
 date: 2025-12-17
 draft: false
 image: chunky-apple-pie-bars.jpg
@@ -21,9 +21,13 @@ tags:
 - "shortbread"
 - "comfort food"
 keywords:
-- "apple bars"
-- "streusel topping"
-- "shortbread crust"
+- "apple pie bars"
+- "apple shortbread bars"
+- "apple pie shortbread crust"
+- "apple crumb bar"
+- "apple bars recipe"
+- "recipe for apple squares"
+- "apple streusel bar"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

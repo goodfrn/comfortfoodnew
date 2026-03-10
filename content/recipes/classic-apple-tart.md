@@ -1,10 +1,10 @@
 ---
-title: "Classic Apple Tart"
+title: "Apple Tart Recipe with Buttery Crust"
 slug: "classic-apple-tart"
-description: "An apple tart made with a buttery crust. Uses fresh fruit, spices, and a sweet glaze. Features a crispy lattice top. Great for dessert or lunch boxes. Serve warm or cold. Adapts well to different apples."
-metaDescription: "Classic Apple Tart is a simple dessert with a flaky crust and spiced apple filling. Perfect for gatherings or lunch boxes. Enjoy warm or cold."
-ogDescription: "Make Classic Apple Tart with a buttery crust and fresh apple filling. A delightful dessert everyone will adore."
-focusKeyphrase: "Classic Apple Tart"
+description: "Classic apple tart with a crispy buttery crust and lattice top. Fresh apples, warm spices, and sweet glaze. Works with any variety. Serve warm or cold."
+metaDescription: "Apple tart recipe with buttery homemade crust and lattice top. Fresh fruit, spices, and glaze. Try it tonight."
+ogDescription: "Buttery apple tart with lattice top. Fresh apples, spices, and glaze. Serve warm or cold."
+focusKeyphrase: "apple tart recipe"
 date: 2025-07-15
 draft: false
 image: classic-apple-tart.jpg
@@ -21,9 +21,16 @@ tags:
 - "fall"
 - "homemade"
 keywords:
-- "apple pie"
-- "tart recipe"
-- "French dessert"
+- "apple tart recipe"
+- "apple tartlets"
+- "simple apple tart recipe"
+- "puff pastry apple recipe"
+- "homemade apple tart"
+- "apple tart with pastry"
+- "easy apple tart"
+- "classic apple tart"
+- "fresh apple tart"
+- "buttery apple tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "300"

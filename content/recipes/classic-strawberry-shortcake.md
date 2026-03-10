@@ -1,10 +1,10 @@
 ---
-title: "Classic Strawberry Shortcake"
+title: "Strawberry Shortcake Recipe"
 slug: "classic-strawberry-shortcake"
-description: "Fluffy golden shortcakes topped with macerated strawberries and tangy whipped cream. Bright lemon sugar, tender dough, and fresh fruit make this an all-time summer favorite with a twist."
-metaDescription: "Classic Strawberry Shortcake with flaky shortcakes topped by macerated strawberries and tangy whipped cream. Bright lemon sugar, fresh fruit, summer flavor."
-ogDescription: "Golden shortcakes, berries macerated to juicy burst, whipped cream with sour cream tang. Bright lemon, buttery scent, crumbly layers hold moisture well."
-focusKeyphrase: "Strawberry Shortcake"
+description: "Classic strawberry shortcake with fluffy biscuits, macerated berries, and whipped cream. Lemon-sweetened sponge and fresh fruit make this summer dessert shine."
+metaDescription: "Make classic strawberry shortcake at home. Fluffy biscuits, fresh berries, tangy cream—an easy recipe for summer. Try it tonight."
+ogDescription: "Fluffy shortcake biscuits, macerated strawberries, and whipped cream. A simple summer dessert that actually tastes good."
+focusKeyphrase: "strawberry shortcake recipe"
 date: 2026-02-09
 draft: false
 image: classic-strawberry-shortcake.jpg
@@ -21,9 +21,11 @@ tags:
 - "cake"
 - "vanilla"
 keywords:
-- "shortcake"
-- "strawberries"
-- "whipped cream"
+- "strawberry shortcake recipe"
+- "strawberry shortcake"
+- "classic strawberry shortcake"
+- "shortcake recipe"
+- "strawberry short cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

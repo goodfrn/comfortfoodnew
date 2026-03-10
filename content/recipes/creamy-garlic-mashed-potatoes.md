@@ -1,10 +1,10 @@
 ---
-title: "Creamy Garlic Mashed Potatoes"
+title: "Garlic Mashed Potatoes Recipe with Roasted Garlic"
 slug: "creamy-garlic-mashed-potatoes"
-description: "A riff on classic mashed potatoes swapping heavy cream for half-and-half, with roasted garlic added for extra depth. Small quantity tweaks for cream and butter balance. Patience with simmering, gentle mashing to prevent gummy texture. White pepper swapped with freshly cracked black, giving a sharper bite. Chives remain but scallions get replaced with parsley for a fresh twist. Cook times shifted slightly, focus on fork-tender softness over timers. A seasoned approach emphasizing tactile and visual cues, culinary shortcuts, plus real talk on common pitfalls and fixes."
-metaDescription: "Creamy Garlic Mashed Potatoes with roasted garlic, half-and-half, fresh herbs. Rustic texture, gentle mashing, watch fork test. Balanced butter and seasoning."
-ogDescription: "Rustic creamy garlic mashed potatoes made with half-and-half, fresh parsley and chives. Watch simmer, mash gently, season well. Texture matters, no gluey mash here."
-focusKeyphrase: "Garlic Mashed Potatoes"
+description: "Creamy garlic mashed potatoes made with roasted garlic, half-and-half, and fresh parsley. Skip the gummy texture with our gentle mashing technique and seasoning tips."
+metaDescription: "Garlic mashed potatoes recipe using roasted garlic and half-and-half for creaminess. Learn the mashing technique that prevents gummy texture. Try it tonight."
+ogDescription: "Roasted garlic mashed potatoes with half-and-half and fresh parsley. Creamy, sharp, no gumminess."
+focusKeyphrase: "garlic mashed potatoes recipe"
 date: 2026-01-03
 draft: false
 image: creamy-garlic-mashed-potatoes.jpg
@@ -21,9 +21,11 @@ tags:
 - "vegetarian"
 - "easy"
 keywords:
-- "mashed potatoes"
-- "garlic mash"
-- "half-and-half potatoes"
+- "garlic mashed potatoes recipe"
+- "roasted garlic mashed potatoes"
+- "creamy garlic mashed potatoes"
+- "garlic whipped potatoes recipe"
+- "garlic mashed potatoes with cream"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "230"

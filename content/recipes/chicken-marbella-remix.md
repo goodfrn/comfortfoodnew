@@ -1,10 +1,10 @@
 ---
-title: "Chicken Marbella Remix"
+title: "Chicken Marbella Recipe with Prunes & Olives"
 slug: "chicken-marbella-remix"
-description: "Chicken thighs marinated in garlic, oregano, red wine vinegar and olive oil with prunes, olives, and capers, roasted to golden perfection, brown sugar caramelizing on top. Balanced sweet and savory with fresh parsley finish."
-metaDescription: "Chicken Marbella Remix with marinated thighs, prunes, olives, capers roasted at high heat. Sweet brown sugar crust, basting for juicy skin, fresh parsley finish."
-ogDescription: "Marinated chicken thighs roasted with prunes, olives, capers, brown sugar crust. Basting key; watch skin crisp, juices soak vibrant. Mediterranean flavor layers."
-focusKeyphrase: "Chicken Marbella"
+description: "Chicken marbella recipe with garlic, oregano, red wine vinegar, prunes, olives and capers. Roasted chicken thighs with brown sugar caramelizing. Savory-sweet classic."
+metaDescription: "Chicken marbella recipe: garlic and oregano marinated thighs with prunes, olives, capers. Roasted until golden. Make it tonight."
+ogDescription: "Chicken marbella with prunes and olives. Garlic, oregano, vinegar marinade. Roasted thighs with caramelized brown sugar finish."
+focusKeyphrase: "chicken marbella recipe"
 date: 2026-02-19
 draft: false
 image: chicken-marbella-remix.jpg
@@ -22,8 +22,10 @@ tags:
 - "main dish"
 keywords:
 - "chicken marbella"
-- "roasted chicken thighs"
-- "brown sugar chicken"
+- "chicken marbella recipe"
+- "chicken with prunes and olives"
+- "chicken olives prunes"
+- "chicken prune recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"

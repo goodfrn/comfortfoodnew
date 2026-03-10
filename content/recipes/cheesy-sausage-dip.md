@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Sausage Dip"
+title: "Sausage & Cream Cheese Dip"
 slug: "cheesy-sausage-dip"
-description: "This cheesy sausage dip combines browned sausage, gooey melted cheese, sweet corn, and tomatoes with green chilis. Perfect on the stovetop for speed or in the slow cooker for parties and game day."
-metaDescription: "Cheesy Sausage Dip with browned sausage, melty cheese, corn, and tomatoes. Serve hot with chips. Choose stovetop or slow cooker; watch moisture closely."
-ogDescription: "Melty cheese, crisp sausage, and mild heat from corn and chilis. Browning key; drain well. Slow cooker or stovetop. Serve warm with sturdy chips."
-focusKeyphrase: "cheesy sausage dip"
+description: "Sausage and cream cheese dip with melted cheese, corn, tomatoes, and green chilis. Make it on the stovetop in minutes or keep it warm in the slow cooker for parties."
+metaDescription: "Sausage and cream cheese dip recipe. Browned sausage, melted cheese, corn, tomatoes, and green chilis. Perfect for game day."
+ogDescription: "Creamy sausage and cheese dip loaded with corn, tomatoes, and green chilis. Stovetop or slow cooker."
+focusKeyphrase: "sausage & cream cheese dip"
 date: 2026-01-18
 draft: false
 image: cheesy-sausage-dip.jpg
@@ -21,9 +21,11 @@ tags:
 - "slow cooker"
 - "party"
 keywords:
-- "sausage dip"
-- "cheese dip"
-- "corn dip"
+- "sausage & cream cheese dip"
+- "cheese & sausage dip"
+- "crockpot cheese sausage dip"
+- "sausage cheese dip recipes"
+- "cheesy sausage dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "410"

@@ -1,10 +1,10 @@
 ---
-title: "Chunky Chocolate Chip Shortbread"
+title: "Chocolate Chip Shortbread Cookies Recipe"
 slug: "chunky-chocolate-chip-shortbread"
-description: "Butter, vanilla, and almond extracts create a rich base. Powdered sugar adds a subtle sweetness. Flour binds it into crumbly, tender shortbread. Mini chocolate chips for bites of melty chocolate. Chill dough to firm it up, making slicing neat. Bake until edges just brown—no browning or the texture flips to dry. Airy, golden cookies with a little buttery crumble. Perfect for dunking or snack attacks. Skip almond for extra vanilla if nut allergy. Use brown sugar instead of powdered sugar to add a hint of molasses and chew. Adjust baking slightly; ovens differ. Keep dough workable by warming hands or brief fridge returns. Rolls together thick, not greasy or crumbly. Cookies stay crisp yet tender."
-metaDescription: "Chunky Chocolate Chip Shortbread blends buttery crumb with melty mini chips, chilled dough for clean slicing and airy crisp edges. Vanilla and almond extracts add depth."
-ogDescription: "Crunchy buttery shortbread with mini chips folded in. Chill the dough firm, slice sharp, watch edges golden for that crumbly crisp. Almond optional; vanilla always on point."
-focusKeyphrase: "Chunky Chocolate Chip Shortbread"
+description: "Buttery chocolate chip shortbread with vanilla and almond extracts. Crisp edges, tender crumb. Chill dough, bake until golden. Make it tonight."
+metaDescription: "Chocolate chip shortbread cookies recipe. Buttery, crumbly shortbread with mini chocolate chips. Crisp yet tender. Bake fresh today."
+ogDescription: "Buttery chocolate chip shortbread with a crisp edge and tender crumb. Mini chocolate chips in every bite."
+focusKeyphrase: "chocolate chip shortbread cookies"
 date: 2025-10-12
 draft: false
 image: chunky-chocolate-chip-shortbread.jpg
@@ -21,9 +21,15 @@ tags:
 - "almond"
 - "dessert"
 keywords:
-- "shortbread cookies"
-- "mini chocolate chips"
-- "vanilla almond extracts"
+- "chocolate chip shortbread cookies"
+- "chocolate chip shortbread recipe"
+- "choc chip shortbread"
+- "shortbread chocolate cookies"
+- "chocolate chunk shortbread"
+- "chocolate chip shortbread biscuits"
+- "choc chip shortbread recipe"
+- "shortbread bites recipe"
+- "chocolate chip shortbread bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "179"

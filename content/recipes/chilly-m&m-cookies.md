@@ -1,10 +1,10 @@
 ---
-title: "Chilly M&M Cookies"
+title: "M&M Cookies With Pecans and Crunch"
 slug: "chilly-m&m-cookies"
-description: "All-purpose flour mixed with baking soda, then merged with butter creamed until light. Brown and granulated sugars plus vanilla stirred in until fluffy. Egg folded in gently before flour joins. Chocolate chips replaced with chopped pecans, adds crunch. Dough chilled for a bit, then scooped. Cookies sprinkled with extra M&M’s before baking. Golden edges, soft centers. Chill dough or cookies, flavor melds better. 1 hour fridge rest crucial. Visual cues over clocks—listen for crackle, smell deepening sweetness. 36 cookies, each about 135 calories, carbs mid-teens, moderate fats."
-metaDescription: "Chilly M&M Cookies with chopped pecans, creamed butter-sugar base, chilled dough for sturdy shape and soft centers, topped with colorful M&M’s. Crunch and chew combo."
-ogDescription: "Crunchy pecans swapped for chips. Butter whipped right, dough chilled, M&M’s pressed on top. Golden edges, soft middle. Let scent guide, not clock. 36 cookies, mellow sweetness."
-focusKeyphrase: "Chilly M&M Cookies"
+description: "M&M cookies loaded with chopped pecans for crunch and topped with colorful candies. Soft centers, golden edges. Chill the dough for deeper flavor—worth the wait."
+metaDescription: "M&M cookies recipe with pecans for extra crunch. Soft, chewy centers. Chill dough 1 hour for best flavor. Make 36 cookies tonight."
+ogDescription: "M&M cookies with pecans. Soft centers, crunchy edges, colorful candy on top. One batch makes 36."
+focusKeyphrase: "m&m cookies"
 date: 2025-11-28
 draft: false
 image: chilly-m&m-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "american"
 keywords:
-- "M&M cookies"
-- "pecan cookies"
-- "chilled dough cookies"
+- "m&m cookies"
+- "cookies with m and ms"
+- "chocolate chip and m&m cookies"
+- "mini m&m cookies"
+- "m&m cookie dough"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "135"

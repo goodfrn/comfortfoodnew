@@ -1,10 +1,10 @@
 ---
-title: "Chunky Peanut Butter Cups"
+title: "Homemade Peanut Butter Cups"
 slug: "chunky-peanut-butter-cups"
-description: "A homemade twist on classic peanut butter cups using dark chocolate for richer flavor. Melt chocolate carefully in brief bursts, spreading by hand to avoid clumps. Peanut butter filling whipped with powdered sugar and a touch of cream cheese for tang and body. Uses cupcake liners but shake pan to get even chocolate bottom. Chill steps slightly shortened or lengthened depending on chocolate firmness. Substitutes: almond butter swaps smooth; coconut oil helps melt. Avoid greasy liners, or cups stick terribly. Sweet-salty, thick, crumbly filling contrasted with crisp chocolate shell. Watch for chocolate sheen to dull before layering. Freeze but don't overdo or fillings get crumbly. Simple, flexible, some tweaks learned by trial and error."
-metaDescription: "Chunky Peanut Butter Cups use dark chocolate and whipped peanut butter filling for rich texture. Freeze timing and spreading tips ensure clean layers and firm bite."
-ogDescription: "Make chunky peanut butter cups with dark chocolate. Whipped filling with cream cheese option. Freeze right, spread thin chocolate base, and avoid greasy liners."
-focusKeyphrase: "Chunky Peanut Butter Cups"
+description: "Make chunky homemade peanut butter cups with dark chocolate and a tangy cream cheese filling. Learn the trick to crisp shells and why hand-spreading matters."
+metaDescription: "Homemade peanut butter cups recipe with dark chocolate and cream cheese filling. Crispy shells, thick filling. Make them tonight."
+ogDescription: "Chunky homemade peanut butter cups. Dark chocolate shell, whipped filling with a tang. Better than store-bought."
+focusKeyphrase: "homemade peanut butter cups"
 date: 2025-10-21
 draft: false
 image: chunky-peanut-butter-cups.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "homemade"
 keywords:
-- "peanut butter cups"
-- "dark chocolate cups"
-- "whipped peanut butter filling"
+- "homemade peanut butter cups"
+- "peanut butter cups recipe"
+- "dark chocolate peanut butter cup recipe"
+- "homemade reese's peanut butter cups"
+- "reese cup peanut butter recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "369"

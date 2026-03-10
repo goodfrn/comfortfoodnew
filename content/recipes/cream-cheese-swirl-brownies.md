@@ -1,10 +1,11 @@
 ---
 title: "Cream Cheese Swirl Brownies"
+title: "Cream Cheese Swirl Brownies"
 slug: "cream-cheese-swirl-brownies"
-description: "Dense, fudgy brownies twisted with a tangy cream cheese layer. Milk chocolate melted gently and cocoa powder for deep chocolate notes. Instant coffee wakes the cocoa. Flour folded in gently. Dollops of thinned reserved batter form swirls. Bake till crust cracks and center no longer jiggles but stays moist. Chill to firm up, cut sharp squares. Dark chocolate chips add bursts of molten richness. Classic combo with a personal nod. Coffee optional but recommended. Substitutions for flour and sugar swap in noted. Watch the edges darken for doneness cues. Keeps well refrigerated or frozen for later. Perfect for those craving sweet with slight tang and chewy texture contrast."
-metaDescription: "Cream Cheese Swirl Brownies combine fudgy chocolate base with tangy cream cheese swirls for rich, chewy texture and bold cocoa depth. Coffee optional but lifts flavors."
-ogDescription: "Dense chocolate brownie layered with fluffy cream cheese swirls. Coffee sharpens cocoa, chocolate chips add bursts. Chill before slicing for best texture."
-focusKeyphrase: "Cream Cheese Swirl Brownies"
+description: "Dense fudgy brownies with tangy cream cheese swirls, milk chocolate, and instant coffee. Chill and cut sharp squares for contrast."
+metaDescription: "Cream cheese swirl brownies recipe. Dense, fudgy, with tangy cream cheese layers and dark chocolate chips. Make tonight."
+ogDescription: "Fudgy brownies with cream cheese swirls. Milk chocolate, instant coffee, sharp squares with molten chocolate bursts."
+focusKeyphrase: "cream cheese swirl brownies"
 date: 2025-11-11
 draft: false
 image: cream-cheese-swirl-brownies.jpg
@@ -21,9 +22,11 @@ tags:
 - "vegetarian"
 - "homemade"
 keywords:
-- "brownies"
-- "cream cheese"
-- "chocolate dessert"
+- "cream cheese swirl brownies"
+- "chocolate brownies with cream cheese swirl"
+- "brownie and cream cheese swirl"
+- "brownie with cheesecake swirl"
+- "brownie marble cheesecake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

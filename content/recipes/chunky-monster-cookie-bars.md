@@ -1,10 +1,10 @@
 ---
-title: "Chunky Monster Cookie Bars"
+title: "Chunky Monster Cookie Bars Recipe"
 slug: "chunky-monster-cookie-bars"
-description: "Oats, cinnamon, M&Ms, and chocolate chips meld in chewy bars. Brown sugar and melted butter give caramel notes. Maple syrup swap adds earthiness. Baked golden, soft but set. A candy-studded feast for any sweet tooth craving."
-metaDescription: "Chunky Monster Cookie Bars packed with oats, M&Ms, and chocolate chips. Chewy texture, brown sugar caramel notes, and maple syrup twist. Baked golden soft bars."
-ogDescription: "Chewy bars loaded with oats, M&Ms, chocolate chips. Brown sugar caramel depth, maple syrup earthiness. Bake till golden edges and springy center."
-focusKeyphrase: "Chunky Monster Cookie Bars"
+description: "Chewy monster cookie bars loaded with oats, M&Ms, chocolate chips, and cinnamon. Brown sugar and butter create caramel depth. Bake until golden and set."
+metaDescription: "Monster cookie bars with oats, M&Ms, chocolate chips, and cinnamon. Chewy, loaded, and easy to make. Try it tonight."
+ogDescription: "Oats, M&Ms, and chocolate chips in chewy bars. Brown sugar caramel notes. Golden, soft, loaded."
+focusKeyphrase: "monster cookie bars"
 date: 2026-02-15
 draft: false
 image: chunky-monster-cookie-bars.jpg
@@ -21,9 +21,13 @@ tags:
 - "cinnamon"
 - "candy"
 keywords:
-- "cookie bars"
-- "M&Ms recipe"
-- "brown sugar caramel"
+- "monster cookie bars"
+- "cookie monster cookie bar"
+- "monster bars"
+- "monster bar recipe"
+- "chewy cookie bars"
+- "oat cookie bars"
+- "homemade candy bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"

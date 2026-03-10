@@ -1,10 +1,10 @@
 ---
-title: "Citrus Fennel Salad"
+title: "Citrus Fennel Salad with Lemon & Pumpkin Seeds"
 slug: "citrus-fennel-salad"
-description: "A fresh twist on fenouil salad with zesty lemon juice replacing white wine vinegar and toasted pumpkin seeds instead of fennel seeds. Uses shaved fennel bulb and a mix of arugula and mesclun lettuce. Sweetened lightly with honey instead of sugar. Minimal seasoning with salt and pepper. Ready in around 11 minutes. Crisp, tangy, nutty textures all mingling in a simple bowl."
-metaDescription: "Citrus Fennel Salad with lemon and toasted pumpkin seeds. Fresh, vibrant and perfect for a light meal. Ready in just 11 minutes."
-ogDescription: "Enjoy a Citrus Fennel Salad with zesty lemon juice and toasted pumpkin seeds. Quick, healthy, and bursting with flavor."
-focusKeyphrase: "Citrus Fennel Salad"
+description: "Fresh citrus fennel salad with shaved fennel, lemon juice, toasted pumpkin seeds, and mixed greens. Ready in 11 minutes. Crisp, tangy, nutty."
+metaDescription: "Citrus fennel salad recipe with lemon, arugula, and toasted pumpkin seeds. Light, fresh, and ready in 11 minutes. Try it tonight."
+ogDescription: "Shaved fennel meets citrus in this 11-minute salad. Lemon, pumpkin seeds, crisp greens. Simple and bright."
+focusKeyphrase: "citrus fennel salad"
 date: 2025-07-22
 draft: false
 image: citrus-fennel-salad.jpg
@@ -21,9 +21,10 @@ tags:
 - "citrus"
 - "lemon"
 keywords:
-- "salad recipe"
-- "citrus dressing"
-- "fresh greens"
+- "citrus fennel salad"
+- "citrus and fennel salad"
+- "fennel salad lemon"
+- "citrus fennel salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "110"

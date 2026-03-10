@@ -1,9 +1,10 @@
 ---
-title: "Corned Beef Cabbage Soup"
+title: "Corned Beef Cabbage Soup Recipe"
+focusKeyphrase: "corned beef cabbage soup"
 slug: "corned-beef-cabbage-soup"
-description: "Leftover corned beef teamed with barley, cabbage, and root vegetables in a broth spiked with lemon juice and thyme. Sauteed onions, carrots, garlic, and parsnip provide sweet earthiness. Bay leaves and coarse kosher salt build savory depth. Simmer barley until just tender, then toss in quick wilting cabbage and beef chunks. A broth that sizzles, thickens, and smells like home with every stir. Uses common pantry staples; turns odds and ends into a filling meal with a little twist of fresh tomato and lemon. Flexible to swaps and forgiving with timing depending on beef chunk size and barley cook. Serves six with leftovers if you want to stretch it."
-metaDescription: "Chunky corned beef cabbage soup with barley, bright tomato, lemon zing, and earthy root veggies simmered slow for hearty six servings with leftovers."
-ogDescription: "Hearty corned beef soup loaded with barley, cabbage, and roots. Lemon wakes deep broth. Six servings, leftovers welcome. Rustic, chunky, warming meal."
+description: "Corned beef cabbage soup with barley, root vegetables, and fresh lemon. Quick weeknight meal from leftovers that builds real depth with thyme and bay leaf."
+metaDescription: "Corned beef cabbage soup recipe using leftovers. Barley, carrots, parsnip, and thyme simmer into a filling broth. Try it tonight."
+ogDescription: "Turn leftover corned beef into a hearty cabbage soup with barley and root vegetables. Lemon and thyme brighten every spoonful."
 focusKeyphrase: "corned beef cabbage soup"
 date: 2025-11-06
 draft: false
@@ -21,9 +22,13 @@ tags:
 - "easy dinner"
 - "one pot"
 keywords:
+- "corned beef cabbage soup"
+- "cabbage and corned beef soup"
+- "corned beef soup recipe"
+- "leftover corned beef and cabbage soup"
+- "corned beef cabbage stew"
 - "corned beef soup"
-- "barley soup"
-- "cabbage soup"
+- "corned beef and cabbage soup crock pot"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"

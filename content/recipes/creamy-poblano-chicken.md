@@ -1,10 +1,10 @@
 ---
-title: "Creamy Poblano Chicken Twist"
+title: "Creamy Poblano Chicken with Corn & Avocado"
 slug: "creamy-poblano-chicken"
-description: "Grilled poblano peppers roasted to tender, peeled, and sliced. Sweet corn kernels sautéed with sliced red onion. Chicken breasts halved, pan-seared until golden. Sauce blended with cream, chicken stock, fresh cilantro, and poblano strips. Simmered until thickened. Final assembly with sliced avocado, lime wedges, optional jalapeño rings. Served hot, optionally with rice. Modified quantities and ingredient swaps like sour cream for cream and lemon for lime for a citrusy edge. Cooking times tweaked slightly for texture and flavor depth."
-metaDescription: "Creamy Poblano Chicken Twist is a flavorful dish of grilled peppers and pan-seared chicken. Perfectly creamy, with tangy notes and optional heat."
-ogDescription: "Creamy Poblano Chicken Twist combines tender chicken with smoky poblanos and a creamy sauce. Delicious and comforting, perfect for any occasion."
-focusKeyphrase: "Creamy Poblano Chicken Twist"
+description: "Pan-seared chicken in a silky poblano cream sauce with sweet corn, red onion, and fresh cilantro. Topped with avocado and lime. Ready in 30 minutes."
+metaDescription: "Creamy poblano chicken recipe with corn, avocado, and fresh cilantro sauce. Pan-seared and ready in 30 minutes. Try it tonight."
+ogDescription: "Chicken in a rich poblano cream sauce with corn, avocado, and lime. Simple, elegant, weeknight dinner."
+focusKeyphrase: "creamy poblano chicken"
 date: 2025-07-20
 draft: false
 image: creamy-poblano-chicken.jpg
@@ -20,9 +20,12 @@ tags:
 - "grilling"
 - "easy dinner"
 keywords:
-- "chicken recipe"
-- "poblano peppers"
-- "sour cream sauce"
+- "creamy poblano chicken"
+- "poblano cream chicken"
+- "chicken poblano cream sauce"
+- "creamy chicken poblano"
+- "poblano chicken recipe"
+- "poblano cream sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

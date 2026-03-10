@@ -1,9 +1,10 @@
 ---
-title: "Cheesy Chicken Pasta Bake"
+title: "Cheesy Chicken Pasta Bake with Bacon"
+focusKeyphrase: "cheesy chicken pasta bake"
 slug: "cheesy-chicken-pasta-bake"
-description: "Cheesy pasta mixed with chicken, broccoli, mushrooms, bacon, and sun dried tomatoes all enveloped in a creamy sauce and baked with a crunchy topping. Uses a mix of shredded cheese, heavy cream, and sour cream with Italian seasoning, salt, and pepper. Cooks until bubbling and golden brown on top. Midweek dinner or hearty weekend comfort food. Requires pasta, cooked chicken, veggies, and pantry staples. Offers flexibility in ingredients, substitutions, and timing based on visual cues rather than exact minutes."
-metaDescription: "Cheesy Chicken Pasta Bake loaded with shredded chicken, broccoli, creamy sauce, and crunchy topping baked until bubbling golden brown. Comfort food, flexible ingredients."
-ogDescription: "Loaded cheesy chicken pasta bake with broccoli, mushrooms, bacon. Creamy sauce, crunchy topping. Watch bubbling edges and golden crust for cues. Hearty, adaptable dish."
+description: "Creamy cheesy chicken pasta bake loaded with bacon, broccoli, and sun-dried tomatoes. Mix pasta with sour cream and heavy cream sauce, top with cheese, and bake until golden and bubbling."
+metaDescription: "Cheesy chicken pasta bake recipe with bacon, broccoli, and cream sauce. Comfort food casserole that bakes golden. Try it tonight."
+ogDescription: "Creamy bacon and chicken pasta bake with melted cheese and broccoli. Easy midweek dinner that's ready in under an hour."
 focusKeyphrase: "cheesy chicken pasta bake"
 date: 2025-12-05
 draft: false
@@ -21,9 +22,16 @@ tags:
 - "cheese"
 - "bacon"
 keywords:
-- "chicken pasta bake"
-- "creamy pasta casserole"
-- "baked pasta recipe"
+- "cheesy chicken pasta bake"
+- "cheesy chicken and bacon pasta bake"
+- "chicken pasta bake cream cheese"
+- "cheesy chicken broccoli pasta bake"
+- "baked chicken cheese pasta"
+- "creamy cheesy chicken pasta casserole"
+- "chicken casserole with pasta and cheese"
+- "cheesy pasta bake with chicken and bacon"
+- "broccoli chicken and cheese pasta"
+- "cheese chicken pasta casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "430"

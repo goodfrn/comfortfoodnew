@@ -1,9 +1,10 @@
 ---
-title: "Cherry Chocolate Chip Cookies"
+title: "Cherry Chocolate Chip Cookies Recipe"
+focusKeyphrase: "cherry chocolate chip cookies"
 slug: "cherry-chocolate-chip-cookies"
-description: "Soft, slightly tangy cookies packed with chopped maraschino cherries and semi-sweet chocolate chips. Stirred carefully, chilled to develop flavors. Slightly underbaked for chewy centers. Sweet cherry syrup folded in the batter brings moistness and subtle cherry notes. Butter beaten, sugars combined to capture air for lightness. Flour, baking soda, salt balanced to provide structure and proper rise. Bake until edges firm but dough still shy of fully set. Press cherry halves atop post-bake for bursts of color and flavor. A play on texture contrasts and classic combos. Adaptable with dried cherries or rum instead of cherry syrup. A cookie to know when to pull from oven — look for cracks and a glistening dome still soft to the touch."
-metaDescription: "Cherry Chocolate Chip Cookies packed with maraschino cherries and semi-sweet chips. Chilled dough, gentle folding, chewy centers with golden edges in 28 minutes."
-ogDescription: "Chewy cherry chocolate chip cookies ready in under 30 minutes. Fold cherries last, watch for golden edges, shiny centers. Chill dough to avoid spread, press cherries post-bake."
+description: "Soft cherry chocolate chip cookies with maraschino cherries and chocolate chips. Chilled dough, underbaked centers, cherry syrup folded in. Make them tonight."
+metaDescription: "Cherry chocolate chip cookies recipe with maraschino cherries and semi-sweet chocolate. Chewy centers, tangy-sweet flavor. Try it tonight."
+ogDescription: "Soft cherry chocolate chip cookies. Maraschino cherries, chocolate chips, cherry syrup. Chewy centers, tangy sweetness in every bite."
 focusKeyphrase: "cherry chocolate chip cookies"
 date: 2025-12-26
 draft: false
@@ -21,9 +22,11 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "cherry cookies"
-- "chocolate chip cookies"
-- "chewy cookies"
+- "cherry chocolate chip cookies"
+- "cherry and chocolate chip cookies"
+- "chocolate chip cookies with maraschino cherries"
+- "cookies with maraschino cherries"
+- "cherry chocolate cookie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "150"

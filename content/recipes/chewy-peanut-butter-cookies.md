@@ -1,10 +1,10 @@
 ---
-title: "Chewy Peanut Butter Cookies"
+title: "Chewy Peanut Butter Cookies Recipe"
 slug: "chewy-peanut-butter-cookies"
-description: "Soft, chewy peanut butter cookies with a lightly crisp edge. Creamy peanut butter meets brown and granulated sugars that caramelize as they bake. Whisked dry ingredients balanced with dairy for tender crumb. Chocolate dip adds a contrast of bitterness and snap. Dough texture is airy, not sticky. Chill for dough hydration and handling ease. Underbake slightly to keep gooey centers that set on cooling. Granulated sugar coating gives a subtle crunch and sweetness on the exterior. Baking cues include puffy, golden edges, and soft centers. Versatile and forgiving with substitutions. A textured, nostalgic treat with a modern twist."
-metaDescription: "Chewy Peanut Butter Cookies with crispy edges and soft centers. Airy dough, sugar-crusted, slight underbake for gooey middle. Chocolate dip optional."
-ogDescription: "Soft edges, chewy centers. Sugar crust crunch. Slight underbake locks chewiness. Chocolate dipped for bitter snap. Rustic, textured peanut butter goodness."
-focusKeyphrase: "Chewy Peanut Butter Cookies"
+description: "Chewy peanut butter cookies with gooey centers and crisp edges. Brown sugar caramelizes while chocolate dip adds bittersweet contrast. Underbake for soft, tender results that set as they cool."
+metaDescription: "Chewy peanut butter cookies with soft centers and crisp edges. Learn the underbaking trick for gooey perfection. Try it tonight."
+ogDescription: "Chewy peanut butter cookies with gooey centers and a subtle crunch. Caramelized brown sugar, chocolate dip, and perfect timing."
+focusKeyphrase: "chewy peanut butter cookies"
 date: 2026-01-09
 draft: false
 image: chewy-peanut-butter-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "peanut butter cookies"
-- "chewy cookies"
-- "sugar coating"
+- "chewy peanut butter cookies"
+- "soft peanut butter cookies"
+- "gooey peanut butter cookies"
+- "chewy peanut butter cookie recipe"
+- "thick and chewy peanut butter cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "190"

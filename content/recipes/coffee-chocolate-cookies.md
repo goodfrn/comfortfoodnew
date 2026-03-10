@@ -1,10 +1,10 @@
 ---
-title: "Coffee Chocolate Cookies"
+title: "Coffee Chocolate Cookies with Espresso Powder"
 slug: "coffee-chocolate-cookies"
-description: "Crispy edges with soft centers, these coffee-infused cookies pack a punch with espresso powder and dual chocolate chunks. Adjusted flour and swapped egg yolk for whole eggs. Whisk dry ingredients separately for even spread. Butter and sugar creamed until light, not fluffy. Mixing flour in halves avoids overworking dough. Chilling solidifies fats, prevents spreading. Bake till edges brown, tops still glossy. Classic coffee meets bittersweet chocolate chunk surprise."
-metaDescription: "Coffee Chocolate Cookies with espresso and dual chocolates. Softer crumb using two whole eggs. Chill dough to control spread. Crispy edges, glossy tops, chewy centers."
-ogDescription: "Bittersweet chocolate chunks meet espresso. Soft crumb from whole eggs. Chill dough well, watch for shiny tops, golden edges. Baking cues matter more than time."
-focusKeyphrase: "Coffee Chocolate Cookies"
+description: "Crispy-edged coffee chocolate cookies loaded with bittersweet chunks and espresso powder. Soft centers, deep coffee flavor, easy homemade recipe."
+metaDescription: "Coffee chocolate cookies with espresso powder. Crispy edges, soft centers, loaded with chocolate. Make them tonight."
+ogDescription: "Coffee chocolate cookies with espresso powder and bittersweet chunks. Crispy edges, soft centers, bold flavor."
+focusKeyphrase: "coffee chocolate cookies"
 date: 2025-12-25
 draft: false
 image: coffee-chocolate-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "homemade"
 - "snack"
 keywords:
-- "coffee cookies"
-- "chocolate chunks"
-- "espresso powder"
+- "coffee chocolate cookies"
+- "chocolate espresso cookies"
+- "espresso chocolate chunk cookies"
+- "chocolate chip coffee cookies"
+- "coffee and chocolate chip cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "175"

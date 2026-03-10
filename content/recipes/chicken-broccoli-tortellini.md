@@ -1,10 +1,10 @@
 ---
-title: "Chicken Broccoli Tortellini"
+title: "Chicken Broccoli Tortellini Skillet"
 slug: "chicken-broccoli-tortellini"
-description: "A creamy skillet meal with browned chicken, tender broccoli, and four cheese tortellini tossed in a rich cheese sauce. Boiling pasta with broccoli captures freshness. Butter, onion, garlic base thickened with flour and chicken broth, made luscious with heavy cream and a cheesy blend. Finished off by melting more cheese on top for gooey goodness. Balanced protein and carbs, rich with fats and calcium. Timing and texture key–watch chicken color, sauce thickness, and pasta doneness for best results."
-metaDescription: "Chicken Broccoli Tortellini skillet with browned chicken, crisp broccoli, four cheese tortellini in rich creamy sauce. Watch pasta, sauce, and chicken closely."
-ogDescription: "Browned chicken, crisp broccoli, and creamy cheese tortellini combine in a skillet. Timing key for texture and sauce thickness; watch, adjust, enjoy."
-focusKeyphrase: "Chicken Broccoli Tortellini"
+description: "Creamy skillet chicken broccoli tortellini with four cheese tortellini, browned chicken, and rich cheese sauce. Ready in 30 minutes."
+metaDescription: "Chicken broccoli tortellini skillet with tender broccoli, four cheese tortellini, and creamy sauce. Try it tonight."
+ogDescription: "Browned chicken, fresh broccoli, and cheesy tortellini in one skillet. Rich, creamy, and done in 30 minutes."
+focusKeyphrase: "chicken broccoli tortellini"
 date: 2025-10-08
 draft: false
 image: chicken-broccoli-tortellini.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "chicken pasta"
-- "broccoli tortellini"
-- "cheese sauce skillet"
+- "chicken broccoli tortellini"
+- "chicken and broccoli tortellini"
+- "tortellini skillet recipe"
+- "creamy chicken tortellini"
+- "one skillet chicken dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "981"

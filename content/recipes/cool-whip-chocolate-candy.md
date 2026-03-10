@@ -1,10 +1,10 @@
 ---
-title: "Cool Whip Chocolate Candy"
+title: "Homemade Chocolate Candy Bars Recipe"
 slug: "cool-whip-chocolate-candy"
-description: "Sweet bars made from melted semi-sweet chocolate and whipped topping, chilled, sliced, then coated in melted almond bark. Chilling is key to handle sticky soft layers. Uses microwave melting with stirring intervals. Cut cleanly by dipping knife in hot water often. Coating must firm up in fridge before serving. Uses semi-sweet baking bars melted gently. Whipped topping adds light texture. Almond bark melts smooth for easy dipping. Total about 1 hour chill plus active 10-minute prep. 36 pieces yield. Beware sticky sugar, keep candy cold during slicing."
-metaDescription: "Cool Whip Chocolate Candy bars with melted semi-sweet chocolate and whipped topping chilled, sliced, coated in almond bark; keep chilled, cut cleanly for best results."
-ogDescription: "Sweet chocolate and whipped topping bars chilled then dipped in almond bark coating. Chill well, slice sharp, dip fast, fridge set. 36 pieces yield."
-focusKeyphrase: "Cool Whip Chocolate Candy"
+description: "Make chocolate candy bars at home with melted semi-sweet chocolate, whipped topping, and almond bark coating. No-bake method yields 36 pieces. Chill and slice cleanly."
+metaDescription: "Homemade chocolate candy bars made with whipped topping and almond bark coating. Easy no-bake recipe with step-by-step instructions. Try it tonight."
+ogDescription: "Homemade chocolate candy bars with a light whipped topping layer and smooth almond bark coating. No-bake and ready in about an hour."
+focusKeyphrase: "chocolate candy bars"
 date: 2026-01-23
 draft: false
 image: cool-whip-chocolate-candy.jpg
@@ -22,8 +22,10 @@ tags:
 - "almond"
 keywords:
 - "chocolate candy bars"
-- "whipped topping blend"
-- "chilled chocolate treats"
+- "homemade candy bars"
+- "chocolate bars recipe"
+- "no-bake candy bars"
+- "almond bark chocolate"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "172"

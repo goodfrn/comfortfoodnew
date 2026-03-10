@@ -1,10 +1,10 @@
 ---
-title: "Chicken Pot Pies in Ramekins"
+title: "Mini Chicken Pot Pies in Ramekins"
 slug: "chicken-pot-pies"
-description: "Savor small individual chicken pot pies, baked golden in puff pastry crowns. Onion and garlic soften in butter until fragrant before a flour roux thickens broth into a creamy base. Cubed cooked chicken mingles with blanched diced turnips and sweet corn kernels. Touched with fresh tarragon and chives for herbaceous brightness. Egg wash ensures glossy pastry tops. Perfect for advance prep; freeze before baking. Adjust veggies to seasonality. Relied on texture cues over clocks. Color guides doneness."
-metaDescription: "Chicken Pot Pies in Ramekins, flaky puff pastry crowns filled with creamy chicken, turnips, and corn. Freeze ahead, bake crisp with egg wash gloss. Rustic French-inspired."
-ogDescription: "Small individual chicken pies baked crisp in puff pastry. Creamy filling thickened with roux, accented by turnips and corn. Freeze before baking for neat edges."
-focusKeyphrase: "Chicken Pot Pies in Ramekins"
+description: "Individual chicken pot pies baked in ramekins with golden puff pastry tops. Creamy chicken filling with turnips, corn, tarragon—freezer-friendly and ready to bake."
+metaDescription: "Mini chicken pot pie recipe in ramekins with puff pastry. Creamy filling, freezer-friendly. Make ahead and bake fresh."
+ogDescription: "Golden mini chicken pot pies in ramekins. Creamy filling with puff pastry crowns. Freeze before baking."
+focusKeyphrase: "mini chicken pot pies"
 date: 2025-08-14
 draft: false
 image: chicken-pot-pies.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "main dish"
 keywords:
-- "puff pastry"
-- "chicken pot pie"
-- "ramekins"
+- "mini chicken pot pies"
+- "mini pot pie recipe"
+- "chicken pot pie ramekin"
+- "individual chicken pot pie recipe"
+- "puff pastry chicken pot pie individual"
+- "mini chicken pot pie with puff pastry"
+- "individual chicken pot pies"
+- "easy mini chicken pot pie"
+- "individual chicken pot pies to freeze"
+- "small chicken pot pies recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"

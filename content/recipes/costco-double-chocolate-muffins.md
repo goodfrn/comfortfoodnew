@@ -1,10 +1,10 @@
 ---
-title: "Costco Double Chocolate Muffins Remix"
+title: "Double Chocolate Muffins Recipe"
 slug: "costco-double-chocolate-muffins"
-description: "Jumbo chocolate muffins with a thick, fudgy crumb. Cocoa powder swapped with Dutch-processed for deeper notes. Slight tweaks on sugar and butter amounts. Added cinnamon for warmth and subbed Greek yogurt for sour cream. Resting batter lets cocoa bloom, thick texture signals readiness. Baking starts hot then cools down for rise and moist centers. Muffin tops get extra chocolate chips, melty and glossy. Watch edges for just firming, toothpick with moist crumbs not raw batter. Common pitfalls: overmixing kills height; oven door flapping sinks centers. Muffins dense but airy if timing and texture observed. Slight espresso kick optional but worth it. Ideal for breakfast or snack, pairs with dark coffee or milk. Makes 6 jumbo or 9 large muffins. Experiment with chopped nuts or orange zest for extra punch."
-metaDescription: "Costco Double Chocolate Muffins Remix with Dutch cocoa, Greek yogurt, cinnamon twist. Thick, fudgy, melty chip-topped. Rest batter. Hot then cool bake for rise."
-ogDescription: "Jumbo double chocolate muffins with Dutch cocoa and Greek yogurt. Thick batter rests. Bake starts hot, cools down. Extra chips on top melt glossy."
-focusKeyphrase: "Double chocolate muffins"
+description: "Jumbo double chocolate muffins with fudgy crumb and melty chocolate chip tops. Dutch-processed cocoa, Greek yogurt, and a hot-then-cool bake method for moist centers."
+metaDescription: "Double chocolate muffins recipe with Dutch cocoa and chocolate chips. Jumbo bakery-style muffins with fudgy texture and moist centers. Try it tonight."
+ogDescription: "Jumbo double chocolate muffins with Dutch cocoa depth and chocolate chip tops. Fudgy crumb, moist centers, bakery-quality results."
+focusKeyphrase: "double chocolate muffins recipe"
 date: 2025-11-06
 draft: false
 image: costco-double-chocolate-muffins.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "double chocolate"
-- "chocolate muffins"
-- "baking muffins"
+- "double chocolate muffins recipe"
+- "double chocolate muffins"
+- "chocolate chocolate chip muffins"
+- "chocolate and chocolate chip muffins"
+- "moist chocolate chocolate chip muffins"
+- "jumbo chocolate muffins"
+- "fudgy chocolate muffins"
+- "Dutch cocoa muffins"
+- "chocolate muffins sour cream"
+- "easy double chocolate chip muffins"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "420"

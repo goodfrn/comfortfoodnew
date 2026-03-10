@@ -1,10 +1,10 @@
 ---
-title: "Chunky Pimento Cheese Spread"
+title: "Pimento Cheese Spread Recipe"
 slug: "chunky-pimento-cheese"
-description: "A quick no-cook spread mixing sharp cheddar, cream cheese, mayo, and pimentos with garlic powder and salt. Ideal for sandwiches or as a dip. Adjusts easily for texture and tang. Refrigerate before use. Common substitutes included for cream cheese and mayo. Simple assembly with bread, optional pickles or olives to punch up flavor. Pulse technique keeps chunkiness, not a puree. Visual and tactile signs to stop processing. Notes on storing and remixing for freshness. Half a teaspoon max garlic powder suits most palettes. Salt adjusted for balanced savor, not overwhelming. Estimated ten minutes total. Serves four hungry folks."
-metaDescription: "Chunky Pimento Cheese Spread made with sharp cheddar, cream cheese, mayo and pimentos. Quick no-cook mix with pulses for texture. Chill before sandwiches or dip."
-ogDescription: "Mix sharp cheddar, cream cheese, mayo, pimentos with pulses. Watch chunky texture form not puree. Chill, assemble on bread. Easy tang, crunch add-ins optional."
-focusKeyphrase: "Chunky Pimento Cheese Spread"
+description: "Make pimento cheese spread at home with sharp cheddar, cream cheese, and mayo. No-cook recipe ready in 10 minutes, chunky texture, perfect for sandwiches or dipping."
+metaDescription: "Pimento cheese spread recipe with cream cheese and cheddar. No-cook, 10 minutes, chunky texture. Make it tonight."
+ogDescription: "Homemade pimento cheese spread made chunky, not pureed. Sharp cheddar, cream cheese, mayo, pimentos mixed fresh."
+focusKeyphrase: "pimento cheese spread recipe"
 date: 2026-01-07
 draft: false
 image: chunky-pimento-cheese.jpg
@@ -21,9 +21,13 @@ tags:
 - "appetizer"
 - "southern"
 keywords:
-- "pimento cheese"
-- "no-cook spread"
-- "chunky cheese dip"
+- "pimento spread"
+- "pimento cheese spread recipe"
+- "pimentos and cheese"
+- "homemade pimento cheese spread"
+- "pimento cheese dip"
+- "cream cheese pimento spread"
+- "pimento cheese recipes"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "320"

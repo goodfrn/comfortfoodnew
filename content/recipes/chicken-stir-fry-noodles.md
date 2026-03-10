@@ -1,9 +1,12 @@
 ---
 title: "Chicken Stir Fry Rice Noodles"
+focusKeyphrase: "chicken stir fry rice noodles"
+title: "Chicken Stir Fry Rice Noodles"
+focusKeyphrase: "chicken stir fry rice noodles"
 slug: "chicken-stir-fry-noodles"
-description: "Dry rice noodles cooked al dente, tossed in toasted sesame oil to avoid clumps. Boneless skinless chicken breasts browned in vegetable oil until edges crisp, then mingled with sliced white onion and minced garlic, releasing sharp aroma and softening edges. A bright, tangy mix of light soy sauce, sesame oil, honey, fresh lime juice, ground ginger, and chili flakes brings heat, sweet, and sour notes. Broccoli slaw folded in for crunch and color. Finished with sesame seeds and scallions for nuttiness and fresh bite. Timing keyed to visual tenderness and aroma. Adjusted quantities for balance; swapped broccoli slaw for shredded shredded cabbage for extra snap. Quick, flexible, midweek-friendly with depth and punch."
-metaDescription: "Chicken Stir Fry Rice Noodles with thin sliced chicken thighs, tangy soy-lime sauce, crunchy shredded cabbage, sesame oil, and fresh scallions for punch and texture."
-ogDescription: "Quick chicken stir fry with rice noodles, honey-lime soy sauce, shredded cabbage, sesame seeds, and scallions. Crunchy, savory, bright; cooks fast, tastes bold."
+description: "Crispy chicken with rice noodles tossed in sesame oil, bright soy-lime sauce, and crunchy broccoli slaw. Ready in 20 minutes with serious flavor."
+metaDescription: "Chicken stir fry rice noodles recipe with sesame oil, soy-lime sauce, and crispy edges. Quick weeknight dinner with real depth. Try it tonight."
+ogDescription: "Rice noodles with crispy chicken, sesame oil, and tangy soy-lime sauce. Fast, flexible, and packed with heat and crunch."
 focusKeyphrase: "chicken stir fry rice noodles"
 date: 2026-01-21
 draft: false
@@ -21,9 +24,11 @@ tags:
 - "rice"
 - "sesame"
 keywords:
-- "rice noodles"
-- "chicken thighs"
-- "stir fry sauce"
+- "chicken stir fry rice noodles"
+- "chicken and rice noodle stir fry"
+- "chicken stirfry with rice noodles"
+- "stir fry recipe"
+- "thai chicken noodles stir fry"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "360"

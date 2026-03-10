@@ -1,10 +1,10 @@
 ---
-title: "Chunky Chip Dream Bars"
+title: "Chocolate Chip Cookie Bars Recipe"
 slug: "chunky-chip-dream-bars"
-description: "Sweetened condensed milk melted with dark chocolate chips, swirled into buttery dough with brown sugar and eggs. A textured, gooey bar with chocolate ribbons throughout. Baked until golden, playful pockets of melted chocolate peek through the crust. A comforting, handheld dessert born from trial and error, ditching the standard semi-sweet chips for a richer twist. Uses baking mix for ease; swapping out one ingredient makes it mine. Weight in textures and smell guide doneness, not the clock. Simple pantry staples, with a dark chocolate upgrade and a few timing tricks learned the hard way."
-metaDescription: "Chunky Chip Dream Bars layered gooey sweetened condensed milk with dark and milk chocolate chips. Rustic, textured bars with soft golden edges and pockets of bitterness."
-ogDescription: "Gooey bars with pockets of bitter dark chips, brown sugar caramel notes. Layered batter trick for chewy inside and crisp edges. Watch visual cues, not timer."
-focusKeyphrase: "Chunky Chip Dream Bars"
+description: "Dark chocolate chip cookie bars with gooey melted chocolate ribbons swirled through buttery dough. Baked until golden with rich texture and simple pantry ingredients."
+metaDescription: "Chocolate chip cookie bars with dark chocolate ribbons and gooey centers. Simple recipe using baking mix and pantry staples. Try it tonight."
+ogDescription: "Dark chocolate chip cookie bars with gooey centers and chocolate ribbons baked into buttery dough."
+focusKeyphrase: "chocolate chip cookie bars"
 date: 2025-10-11
 draft: false
 image: chunky-chip-dream-bars.jpg
@@ -21,9 +21,12 @@ tags:
 - "brownies"
 - "homemade"
 keywords:
+- "chocolate chip cookie bars"
 - "chocolate chip bars"
-- "sweetened condensed milk bars"
-- "baking mix dessert"
+- "chocolate cookie bars"
+- "chocolate chip cookie squares"
+- "bar cookie recipes"
+- "chocolate chip bar recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

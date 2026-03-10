@@ -1,9 +1,10 @@
 ---
-title: "Celery Root Purée Twist"
+title: "Celery Root Purée with Parsnip and Carrot"
+focusKeyphrase: "celery root purée"
 slug: "celery-root-puree"
-description: "Puree combining celery root with parsnip and carrot cubes, simmered until tender, then whipped with crème fraîche and olive oil. Vegetable swap cuts starch, lightens texture. Cook by sight and feel not just time. Salted water to coax sweetness. Blending slow, scraping edges key to avoid grainy lumps. Earthy, faintly sweet aroma when soft. Silky, rich mouthfeel. Perfect side or base. Simple, rustic, with unexpected citrus zest kick. Infinite tweaks possible."
-metaDescription: "Celery Root Purée Twist with parsnip and carrot cubes whipped with crème fraîche and olive oil. Rustic texture with citrus brightness. Savory side with layered flavors."
-ogDescription: "Rustic celery root purée. Parsnip, carrot add sweet layers; whipped crème fraîche, olive oil. Citrus zest lifts. Watch texture, salt well, blend carefully for best result."
+description: "Silky celery root purée blended with parsnip, carrot, and crème fraîche. Cook by feel, not time. Earthy, lightly sweet side dish that works as a base too."
+metaDescription: "Celery root purée recipe with parsnip and carrot. Slow blend, scrape edges, finish with citrus zest. Save this one."
+ogDescription: "Creamy celery root purée with roasted root vegetables and a citrus kick. Silky texture, earthy depth."
 focusKeyphrase: "celery root purée"
 date: 2025-08-01
 draft: false
@@ -21,11 +22,11 @@ tags:
 - "comfort food"
 - "easy"
 keywords:
-- "celery root"
-- "vegetable purée"
-- "crème fraîche"
-- "olive oil"
-- "lemon zest"
+- "celery root purée"
+- "celeriac puree"
+- "celery root puree recipe"
+- "celeriac puree recipes"
+- "root vegetable puree"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "190"

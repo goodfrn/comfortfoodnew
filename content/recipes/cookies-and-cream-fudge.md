@@ -1,10 +1,10 @@
 ---
-title: "Cookies and Cream Fudge Remix"
+title: "Cookies and Cream Fudge Recipe"
 slug: "cookies-and-cream-fudge"
-description: "Chunks of white chocolate and sweetened condensed milk melt into creamy fudge studded with crushed cookies. Slightly altered recipe with milk chocolate swapped for white, two-thirds cookies inside, rest scattered on top. Salt balances sweetness. Chill times adjusted to allow setting without overhardening. Visual and tactile cues emphasized over clocks. Simple, approachable technique but with tips to dodge common problems like grainy texture or burning. A casual, no-fuss treat. Portion control—cutting into 24 squares. Uses 8×8 pan lined with foil or parchment."
-metaDescription: "Cookies and Cream Fudge Remix with white chocolate and crushed Oreos. Chill carefully for creamy, crunchy bites with balanced salt and sweet. 24 squares yield."
-ogDescription: "White chocolate fudge loaded with Oreo chunks inside and on top. Chill times key. Salt cuts sweetness. Sharp knife needed for clean squares."
-focusKeyphrase: "Cookies and Cream Fudge Remix"
+description: "Creamy white chocolate fudge loaded with crushed cookies and sweetened condensed milk. Salt-balanced, no-fuss homemade treat that sets perfectly without hardening solid."
+metaDescription: "Cookies and cream fudge made with white chocolate and condensed milk. Loaded with cookie pieces, salt-balanced, sets perfectly. Make it tonight."
+ogDescription: "White chocolate fudge studded with crushed cookies. Creamy, not grainy. Chills to perfect texture without overhardening."
+focusKeyphrase: "cookies and cream fudge"
 date: 2025-11-08
 draft: false
 image: cookies-and-cream-fudge.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "dessert"
 keywords:
-- "white chocolate"
-- "sweetened condensed milk"
-- "crushed Oreos"
+- "cookies and cream fudge"
+- "cookies and cream fudge recipes"
+- "white chocolate fudge"
+- "cookie cream fudge"
+- "homemade fudge recipes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "245"

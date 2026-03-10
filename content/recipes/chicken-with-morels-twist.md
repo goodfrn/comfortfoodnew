@@ -1,10 +1,10 @@
 ---
-title: "Chicken with Morels Twist"
+title: "Chicken with Morels and Whisky Cream Sauce"
 slug: "chicken-with-morels-twist"
-description: "Chicken browned in butter melds with rehydrated morels and dried chanterelles steeped in chicken broth. Whisky deglazes, cream and Dijon lift the sauce. Cornstarch slurry thickens gently during a low simmer. Mushrooms add deep earthiness while mustard brightens edges. Slow simmer softens chicken, melding flavors with sauce reduction. Visual cues — golden seared chicken skin replaced by tender, opaque meat. Aromas evolve from raw garlic sharpness to soothing buttery mushroom notes. A touch of rosemary swapped for traditional thyme; pairs well with green beans or roasted root veg. Gluten free, nut free, egg free. Classic techniques with a subtle twist, slight time shifts, and mindful ingredient swaps."
-metaDescription: "Chicken with Morels Twist brings earthy mushrooms and whisky cream sauce. Slow simmer melds tender chicken with rich, layered mushroom flavor."
-ogDescription: "Slow simmered chicken with rehydrated morels, whisky, cream, and mustard sauce. Rustic earthiness meets bright edges for a layered experience."
-focusKeyphrase: "Chicken with Morels"
+description: "Seared chicken with rehydrated morels and chanterelles in a whisky-Dijon cream sauce. Earthy mushrooms, mustard brightness, and a low simmer meld flavors into something substantial."
+metaDescription: "Chicken with morels recipe: butter-seared chicken, whisky deglazes, cream and Dijon sauce. Deep earthiness, quick weeknight dinner. Try it tonight."
+ogDescription: "Seared chicken, rehydrated morels, whisky cream sauce. Earthy mushrooms meet mustard brightness in one pan. Gluten-free, nut-free."
+focusKeyphrase: "chicken with morels"
 date: 2025-09-27
 draft: false
 image: chicken-with-morels-twist.jpg
@@ -20,13 +20,16 @@ tags:
 - "slow cooker"
 - "french"
 keywords:
-- "morels"
-- "chicken"
-- "whisky"
-- "cream sauce"
-- "dried mushrooms"
-- "mustard"
-- "rosemary"
+- "chicken with morels"
+- "chicken and morels"
+- "fried morels"
+- "chicken morel recipe"
+- "morel mushroom chicken"
+- "whisky cream sauce"
+- "chicken supreme with morels"
+- "pan-seared chicken mushroom"
+- "chanterelle recipe"
+- "one-pan chicken dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"

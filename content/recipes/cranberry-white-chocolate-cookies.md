@@ -1,10 +1,11 @@
 ---
 title: "Cranberry White Chocolate Cookies"
+title: "Cranberry White Chocolate Cookies"
 slug: "cranberry-white-chocolate-cookies"
-description: "Cranberry white chocolate cookies with a mix of all-purpose and cake flours, cornstarch for a tender crumb. Cold butter creamed with sugars adds richness and chew. Eggs and yolk bind; vanilla deepens flavor. White chocolate chips and dried cranberries bring sweet-tart hits. Finished by dipping half in melted white chocolate for texture contrast and extra sweetness. Baking temps and times adjusted for ideal chew and lightly golden edges. Slight ingredient swap with maple sugar for deeper sweetness. Milk splash as hydration backup if dough feels chalky or dry. Cooling on sheet lets cookies set while still soft. Chocolate sets firm for biting texture contrast."
-metaDescription: "Cranberry White Chocolate Cookies mix cake and all-purpose flour plus cornstarch. Cold butter creamed with sugars. Fold chips cranberries; dip half in white chocolate."
-ogDescription: "Crunchy edges, tender centers with tart cranberries and white chocolate pockets. Maple sugar swap; dip cookies in melted white chocolate for texture contrast."
-focusKeyphrase: "Cranberry White Chocolate Cookies"
+description: "Soft cranberry white chocolate cookies with tender crumb from cake flour and cornstarch. Cold butter creamed with sugar creates rich chew; half-dipped in melted chocolate for contrast."
+metaDescription: "Cranberry white chocolate cookies recipe with cake flour, cornstarch, and white chocolate chips. Tender, chewy, dipped for texture contrast. Try it tonight."
+ogDescription: "Soft cranberry white chocolate cookies. Cake flour and cornstarch for tender crumb. Half-dipped in melted white chocolate."
+focusKeyphrase: "cranberry white chocolate cookies"
 date: 2026-01-02
 draft: false
 image: cranberry-white-chocolate-cookies.jpg
@@ -21,9 +22,11 @@ tags:
 - "dessert"
 - "holiday"
 keywords:
-- "white chocolate"
-- "cranberries"
-- "cookie dough"
+- "cranberry white chocolate cookies"
+- "cookies with cranberries and white chocolate"
+- "white chocolate cranberry cookies recipe"
+- "cranberry cookies recipe"
+- "craisin white chocolate chip cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

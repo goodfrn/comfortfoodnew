@@ -1,10 +1,10 @@
 ---
-title: "Creamed Chipped Beef Remix"
+title: "Creamed Chipped Beef on Toast"
 slug: "creamed-chipped-beef"
-description: "Dried beef soaked twice to tame salt. Browned in butter bits for that punchy crust. Roux made from butter and flour till lightly nutty, then whole milk whisked in slow till thick. Worcestershire and Dijon kick it up. Beef reintroduced for a warm hug in creamy sauce. Laid over thick toast—no limp bread here—topped with cracked black pepper and parsley. Salt cautious here since beef sneaky salty. Timing bends to visual cues not clocks. Toast must hold sauce or disaster. Leftover friendly, reheats decently if saved right."
-metaDescription: "Creamed chipped beef soaked twice, browned in butter, with nutty roux, thick milk sauce, Worcestershire, Dijon, over thick toast with pepper and parsley."
-ogDescription: "Salt tamed beef bits browned, sauced with nutty roux, whole milk, Worcestershire and mustard. Thick toast holds creamy, peppered, parsley-topped layers."
-focusKeyphrase: "creamed chipped beef"
+description: "Dried beef soaked twice to cut salt, browned for crust, then simmered in a buttery roux-based cream sauce with Worcestershire and Dijon. Served over thick toast."
+metaDescription: "Creamed chipped beef on toast recipe that starts with soaking dried beef, builds a rich cream sauce, and finishes with proper toast structure. Make it tonight."
+ogDescription: "Creamed chipped beef done right. Salt it down first, brown it in butter, build the sauce slow, serve it over toast that won't go limp."
+focusKeyphrase: "creamed chipped beef on toast"
 date: 2026-01-19
 draft: false
 image: creamed-chipped-beef.jpg
@@ -21,9 +21,11 @@ tags:
 - "sandwich"
 - "main dish"
 keywords:
-- "chipped beef"
-- "creamed beef sauce"
-- "dried beef recipe"
+- "creamed chipped beef on toast"
+- "chipped beef recipe"
+- "dried beef for chipped beef"
+- "chipped beef gravy"
+- "creamed beef on toast recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "350"

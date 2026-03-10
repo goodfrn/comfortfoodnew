@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Oat Bites"
+title: "Chocolate Oat Balls Recipe"
 slug: "chocolate-oat-bites"
-description: "No-bake chocolate oat bites with a twist. Sugar creams with browned butter then folded into crushed cornflakes swapped for oats. Coconut swapped with finely chopped almonds. Cocoa powder swapped with dark cocoa for deeper flavor. Vanilla and espresso add warmth. Rolled in toasted coconut or cocoa nibs. Chill till firm but not frozen. Nut-free option: replace almonds with sunflower seeds. Dairy swap: vegan margarine works. Eggless and lactose-free too. Quick snack or dessert surprises. Texture's crunchy, sweet, slightly bitter from cocoa and coffee. My go-to when craving chocolate but no oven involved."
-metaDescription: "No-bake Chocolate Oat Bites with browned butter, dark cocoa, espresso, almonds, rolled oats. Crunchy, nutty, with toasted coconut or cocoa nibs. Chill, firm texture."
-ogDescription: "Browned butter, oats, almonds, espresso meet dark cocoa in these no-bake bites. Rolled in toasted coconut or nibs. Chill firm, crunchy, slightly bitter with warmth."
-focusKeyphrase: "Chocolate Oat Bites"
+description: "No-bake chocolate oat balls with browned butter, almonds, and espresso. Crunchy texture, deep cocoa flavor. Nut-free and vegan options included."
+metaDescription: "Easy chocolate oat balls recipe. No-bake with browned butter and espresso. Nut-free and vegan friendly. Make it tonight."
+ogDescription: "No-bake chocolate oat balls. Browned butter, almonds, espresso. Crunchy, slightly bitter, ready in minutes."
+focusKeyphrase: "chocolate oat balls"
 date: 2025-08-10
 draft: false
 image: chocolate-oat-bites.jpg
@@ -21,9 +21,11 @@ tags:
 - "almond"
 - "espresso"
 keywords:
-- "chocolate bites"
-- "no-oven snacks"
-- "oat almond treats"
+- "chocolate oat balls"
+- "chocolate oat peanut butter balls"
+- "oat chocolate peanut butter balls"
+- "no-bake chocolate balls"
+- "chocolate oatmeal balls"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "180"

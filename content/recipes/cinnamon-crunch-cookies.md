@@ -1,10 +1,10 @@
 ---
-title: "Cinnamon Crunch Cookies"
+title: "Cinnamon Toast Crunch Cookies Recipe"
 slug: "cinnamon-crunch-cookies"
-description: "Big chewy cookies packed with crushed cinnamon cereal and white chocolate chips. Cream cheese frosting slathers the top, sprinkled with more cereal and cinnamon-sugar. The dough uses a mix of all-purpose and cake flours for texture and white chocolate pudding powder keeps them soft. Baking at a higher heat crisps edges while inside stays tender. The cereal crush gives an unexpected crunch punch. Uses classic baking levers—baking soda and powder—plus cornstarch for tenderness. Sweet cinnamon-sugar coats dough balls, caramelizing lightly in oven. Frost with a butter-cream cheese mix to balance sweet and tangy. Probably my third batch tweaking times and ratios for balance between chew and crumble."
-metaDescription: "Cinnamon Crunch Cookies with chewy centers, crispy edges, and unexpected cereal crunch topped with cream cheese frosting and cinnamon sugar coating."
-ogDescription: "Big soft cookies with crackly cinnamon sugar edges, crunch of crushed cinnamon cereal, and smooth cream cheese frosting. Textures dance baking through."
-focusKeyphrase: "Cinnamon Crunch Cookies"
+description: "Chewy cinnamon toast crunch cookies with white chocolate chips and cream cheese frosting. Crispy edges, tender center, made with crushed cereal for that signature crunch."
+metaDescription: "Cinnamon toast crunch cookies recipe—chewy centers, crispy edges, cream cheese frosting. Make them tonight."
+ogDescription: "Chewy cinnamon toast crunch cookies loaded with crushed cereal and white chocolate. Cream cheese frosting on top."
+focusKeyphrase: "cinnamon toast crunch cookies"
 date: 2025-12-01
 draft: false
 image: cinnamon-crunch-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "cinnamon cookies"
-- "crunch cookies"
-- "cinnamon toast crunch"
+- "cinnamon toast crunch cookies"
+- "cinnamon toast crunch cookie recipe"
+- "cinnamon toast cookies"
+- "cinnamon crunch cookies"
+- "cinnamon toast crunch cookie dough"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "470"

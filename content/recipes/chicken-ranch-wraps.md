@@ -1,10 +1,10 @@
 ---
-title: "Chicken Ranch Wraps"
+title: "Chicken Bacon Ranch Wraps | 15-Minute Recipe"
 slug: "chicken-ranch-wraps"
-description: "Soft tortillas filled with chicken, fresh spinach, smoked turkey, Swiss cheese, and drizzled with creamy ranch dressing. A quick handheld meal ready in under 15 minutes. Balanced macros with moderate carbs, high protein, and substantial fat. Substitutions suggested for ham and cheese. Tips on warming and assembly included to avoid soggy wraps and maintain texture. Simple, straightforward. No marinade needed. Focus on timing by feel and sight rather than clocks. Serve immediately for best bite. Great for lunches or light dinners."
-metaDescription: "Chicken Ranch Wraps with shredded chicken, smoked turkey, spinach, Swiss cheese, and ranch. Quick handheld meal ready in under 15 minutes, balanced macros, simple prep."
-ogDescription: "Soft tortillas layered with chicken, spinach, smoked turkey, Swiss cheese, and ranch. Fast lunch or dinner; toasted or fresh. Keep wraps tight, avoid sogs."
-focusKeyphrase: "Chicken Ranch Wraps"
+description: "Easy chicken bacon ranch wraps with spinach and Swiss cheese. Quick handheld meal ready in 15 minutes with high protein and balanced macros."
+metaDescription: "Chicken bacon ranch wrap recipe ready in 15 minutes. Spinach, Swiss cheese, creamy dressing. High protein, low prep. Try it tonight."
+ogDescription: "Soft tortillas, chicken, bacon, ranch dressing. Fast lunch that actually stays together. No marinating required."
+focusKeyphrase: "chicken bacon ranch wrap"
 date: 2025-10-23
 draft: false
 image: chicken-ranch-wraps.jpg
@@ -21,9 +21,14 @@ tags:
 - "sandwich"
 - "spinach"
 keywords:
-- "chicken wrap recipe"
-- "quick lunch wrap"
-- "soft tortilla wrap"
+- "chicken bacon ranch wrap"
+- "chicken and bacon wrap"
+- "chicken ranch wrap recipe"
+- "bacon chicken wrap recipe"
+- "easy ranch chicken wraps"
+- "chicken bacon ranch wraps recipe"
+- "quick lunch wraps"
+- "high protein wraps"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "415"

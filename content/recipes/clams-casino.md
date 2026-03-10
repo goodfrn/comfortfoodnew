@@ -1,10 +1,10 @@
 ---
-title: "Clams Casino Variations"
+title: "Clams Casino Variations: Baked, Canned & Casserole"
 slug: "clams-casino"
-description: "Clams baked with bacon, bell peppers, onions, garlic, and Italian seasoning. Variants include canned clams, fresh littleneck clams, or casserole without shells. Bacon fat retained for flavor, cracker crumbs added for texture. Timing adjusted by visual cues like bacon crispness and clam tenderness. Lemon wedges brightening final bite. Parsley for fresh color pop. Techniques involve skillet sauté, oven baking, and broiling for that signature brown top. Options for substituting or adapting the crunch, aroma, or assembly steps. A hands-on approach over rigid timing. Shell retention optional but adds rustic charm."
-metaDescription: "Clams Casino Variations with bacon, bell peppers, garlic, and Italian herbs. Options include canned, fresh littlenecks, or casserole style. Hands-on cooking style."
-ogDescription: "Bacon fat, clams, and fragrant veggies meld in skillet and oven. Shell or no shell options. Watch bacon crisp and clams tender for real cook feel."
-focusKeyphrase: "Clams Casino"
+description: "Baked clams casino with bacon, peppers, and crispy cracker topping. Try fresh littleneck, canned clams, or shell-free casserole. Broil for golden finish."
+metaDescription: "Clams casino variations using fresh littleneck or canned clams. Bacon-forward baked recipe with cracker crumb crust and broil-to-brown technique. Make it tonight."
+ogDescription: "Three ways to make baked clams casino. Fresh, canned, or casserole style. Crispy bacon, peppers, and that golden broiled top."
+focusKeyphrase: "clams casino"
 date: 2025-12-25
 draft: false
 image: clams-casino.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "easy"
 keywords:
-- "bacon fat"
-- "bell pepper"
-- "Italian seasoning"
+- "clams casino"
+- "baked clams casino"
+- "clams casino recipe"
+- "fresh littleneck clams"
+- "canned clams recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "220"

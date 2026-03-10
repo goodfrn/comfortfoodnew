@@ -1,10 +1,10 @@
 ---
-title: "Cream Wafer Cookies"
+title: "Cream Wafers: Buttery Flaky Homemade Cookies"
 slug: "cream-wafer-cookies"
-description: "Flaky buttery cookies rolled thin, tossed in sugar, baked light with soft centers before browning. Filled with creamy vanilla buttercream whipped to softness, tinted as you like. Chill dough overnight for better handling. Use fork pricks to stop bubbles. Bake till just pale, guard against browning for tender crunch. Fill with piped or spooned cream, sandwich carefully. Store airtight separating layers. Sub butter with margarine for dairy-free or coconut oil for twist. Adjust cream to smooth filling consistency. Recognize doneness by pale golden edges, not color alone. Keep thin to crisp yet tender texture."
-metaDescription: "Cream Wafer Cookies with thin, crisp edges and soft centers. Vanilla buttercream filling whipped light. Chill dough overnight; watch for pale golden edges when baking."
-ogDescription: "Thin buttery wafers rolled thin, fork pricked, sugar-coated crisp. Soft vanilla buttercream spread or piped. Chill dough; pull at pale edges, not time alone."
-focusKeyphrase: "Cream Wafer Cookies"
+description: "Homemade cream wafers with flaky buttery shells and vanilla buttercream filling. Thin, crispy cookies baked pale golden, chilled overnight for perfect texture."
+metaDescription: "Make cream wafers at home: thin buttery cookies filled with vanilla buttercream. Chill dough overnight, bake until pale. Try it tonight."
+ogDescription: "Thin buttery cookies with vanilla buttercream filling. Flaky, crispy edges and soft centers. Homemade cream wafers that actually work."
+focusKeyphrase: "cream wafers"
 date: 2025-11-05
 draft: false
 image: cream-wafer-cookies.jpg
@@ -21,9 +21,14 @@ tags:
 - "homemade"
 - "party"
 keywords:
-- "wafer cookies"
-- "buttercream filling"
-- "sugar-coated cookies"
+- "cream wafers"
+- "wafers with cream"
+- "sandwich wafers"
+- "homemade cream wafers"
+- "vanilla wafer cookies"
+- "buttercream filling wafers"
+- "flaky wafer cookies"
+- "thin butter cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "120"

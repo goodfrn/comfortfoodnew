@@ -1,10 +1,10 @@
 ---
-title: "Celery Purée with Parmesan and Leek"
+title: "Celeriac Purée with Parmesan and Leek"
 slug: "celery-puree-parmesan-leek"
-description: "A velvety purée blending celery root and celery stalks with a twist of sautéed leek and aged Pecorino cheese. Garlic infuses depth, while olive oil replaces butter for lighter richness. Cooking times vary, relying on texture cues; perfect for a starter or side. Dairy swapped for sharpness; gluten-free, nut-free, egg-free, and lactose-free friendly. Techniques focus on steaming gently, watching for tender bites and caramelized edges. Adjust seasoning near the end. Simple but bold layering of flavors and textures, great for improvisation or leftovers in soup."
-metaDescription: "Celery Purée with Parmesan and Leek blends celery root and stalks steamed gently, sautéed leek, Pecorino sharpness. Light olive oil, garlic depth, rustic French-inspired dish."
-ogDescription: "Velvety celery root and stalk purée with sautéed leek and Pecorino. Soft garlic, olive oil richness, layered texture. Nutmeg hint, seasoning balance, gentle steam key."
-focusKeyphrase: "Celery Purée with Parmesan and Leek"
+description: "Silky celeriac purée with sautéed leek, aged Pecorino, and garlic. Olive oil-based, naturally gluten-free. A sophisticated starter or side dish."
+metaDescription: "Celeriac purée recipe with leek and Parmesan. Velvety, garlic-infused, olive oil-based. Make it tonight."
+ogDescription: "Creamy celeriac purée with caramelized leek and sharp Pecorino. Elegant, naturally dairy-free adaptable."
+focusKeyphrase: "celeriac puree"
 date: 2025-08-05
 draft: false
 image: celery-puree-parmesan-leek.jpg
@@ -21,11 +21,11 @@ tags:
 - "side dish"
 - "gluten free"
 keywords:
-- "celery purée"
-- "steamed vegetables"
-- "celeriac"
-- "Pecorino Romano"
-- "leek cooking"
+- "celeriac puree"
+- "celery root purée"
+- "celeriac puree recipes"
+- "celery root puree recipe"
+- "celeriac root puree"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "140"

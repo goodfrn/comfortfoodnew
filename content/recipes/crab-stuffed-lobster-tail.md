@@ -1,10 +1,10 @@
 ---
-title: "Crab-Stuffed Lobster Tail"
+title: "Crab-Stuffed Lobster Tail Recipe"
 slug: "crab-stuffed-lobster-tail"
-description: "Oven roasted lobster tails topped with a lightly seasoned crab mixture. Mayo, parsley, lemon juice blend with Old Bay and a touch of Worcestershire, all holding together with breadcrumbs and egg white. Melted butter brushed on top before baking until opaque lobster meat and golden crown on crab. Serve with lemon wedges or tangy dip. Adjust bake time as lobsters vary, watch for texture and color shifts. A simple switch to panko crumbs and swap Worcestershire for a mild fish sauce adds umami twist. Great for impressing without fuss."
-metaDescription: "Crab-Stuffed Lobster Tail with lump crab, mayo, Old Bay, panko crumbs baked to glossy lobster meat and golden crab top. Watch texture, aroma cues for timing."
-ogDescription: "Lobster tails stuffed with seasoned crab blend, baked to opaque flesh and golden topping. Use lemon wedges, fresh parsley, and fish sauce for deep flavor layers."
-focusKeyphrase: "Crab-Stuffed Lobster Tail"
+description: "Roasted lobster tails crowned with seasoned crabmeat, mayo, Old Bay, and breadcrumbs. Buttery, golden, and ready in under 30 minutes. Impress without the fuss."
+metaDescription: "Crab-stuffed lobster tail recipe with Old Bay seasoning and buttery crabmeat topping. Restaurant-quality dinner at home. Try it tonight."
+ogDescription: "Roasted lobster tails topped with seasoned crabmeat and Old Bay. Elegant, simple, done in 30 minutes."
+focusKeyphrase: "crab-stuffed lobster tail"
 date: 2025-10-11
 draft: false
 image: crab-stuffed-lobster-tail.jpg
@@ -21,9 +21,16 @@ tags:
 - "roasted"
 - "main dish"
 keywords:
-- "lobster tails"
-- "crab meat"
-- "Old Bay seasoning"
+- "crab-stuffed lobster tail"
+- "crabmeat stuffed lobster tail"
+- "crab stuffed lobster"
+- "crab stuffed lobster tail recipe"
+- "lobster tails stuffed with crabmeat recipe"
+- "Old Bay lobster tail"
+- "roasted lobster tails"
+- "seafood dinner recipe"
+- "lobster tail topping"
+- "crabmeat lobster"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "380"

@@ -1,10 +1,10 @@
 ---
-title: "Corn Black Bean Salad"
+title: "Corn Black Bean Salad Recipe"
 slug: "corn-black-bean-salad"
-description: "Corn kernels tossed with black beans, diced bell pepper and cucumber. Dressed with a tangy red wine vinaigrette sweetened lightly with brown sugar. Fresh herbs chopped fine for brightness. Vegan, gluten-free, no dairy or nuts. Prep about 20 minutes, flavors need at least 2 hours to marry and mellow. Can easily swap ingredients or adjust acidity for personal taste."
-metaDescription: "Corn Black Bean Salad tossed fresh with basil thyme, tangy red wine vinegar, maple syrup. Chill long for crunch, mellow flavors, subtle heat optional."
-ogDescription: "Bright corn black bean salad with fresh herbs, tangy maple dressing. Chill hours for punch. Swap zucchini for cucumber. Spice or lime optional last-minute."
-focusKeyphrase: "Corn Black Bean Salad"
+description: "Corn and black bean salad with bell pepper, cucumber, and red wine vinaigrette. Vegan, gluten-free, and ready in 20 minutes. Flavors deepen after 2 hours."
+metaDescription: "Corn black bean salad recipe with fresh vegetables and tangy vinaigrette. Vegan, gluten-free, and customizable. Make it tonight."
+ogDescription: "Corn and black bean salad with crisp vegetables and a bright vinaigrette. Vegan and gluten-free."
+focusKeyphrase: "corn black bean salad"
 date: 2025-08-19
 draft: false
 image: corn-black-bean-salad.jpg
@@ -21,9 +21,11 @@ tags:
 - "summer"
 - "corn"
 keywords:
-- "corn salad"
-- "black beans"
-- "red wine vinaigrette"
+- "corn black bean salad"
+- "black bean and corn salad"
+- "black bean and corn salad recipe"
+- "bean and corn salad"
+- "easy black bean and corn salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "220"

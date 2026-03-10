@@ -1,10 +1,10 @@
 ---
-title: "Cherry Almond Cake"
+title: "Cherry Almond Cake Recipe: Layered & Chilled"
 slug: "cherry-almond-cake"
-description: "Angel food cake cubes layered with cherry filling, pudding mix blended with sour cream and milk, topped with whipped cream and slivered almonds. Needs resting in fridge 4 to 5 hours for flavors to meld. Uses serrated knife for cutting cake to keep airy texture. Chilling absorbs moisture and flavors. Can swap cherry pie for mixed berry or peach preserves. Pudding adds creaminess, sour cream tang cuts sweetness. Almonds optional but add crunch. Calories around 161 per serving, modest fat and protein. Sweet, tangy, fluffy layers. Great make-ahead dessert, just don’t rush the cooling or chilling."
-metaDescription: "Cherry Almond Cake layers airy angel food cubes with tangy cherry pie filling, creamy pudding mix, whipped topping, and crunchy almonds. Chill for 4-5 hours before serving."
-ogDescription: "Light angel food cake cubes meet cherry filling, pudding sour cream blend, whipped cream, and almonds. Chill hours for flavors and textures to meld well."
-focusKeyphrase: "Cherry Almond Cake"
+description: "Cherry almond cake with angel food layers, creamy pudding filling, and whipped cream topping. Make-ahead dessert that needs 4-5 hours chilling for flavors to set."
+metaDescription: "Cherry almond cake recipe with angel food cubes, cherry filling, and pudding cream. Chill 4-5 hours for best results. Try it tonight."
+ogDescription: "Angel food layers with cherry filling, creamy pudding, whipped cream and almonds. A chilled dessert that gets better as it sits."
+focusKeyphrase: "cherry almond cake"
 date: 2025-11-17
 draft: false
 image: cherry-almond-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "party"
 keywords:
-- "angel food cake"
-- "cherry pie filling"
-- "vanilla pudding mix"
+- "cherry almond cake"
+- "almond and cherry cake"
+- "almond and cherry cake recipe"
+- "almond cherry cake recipe"
+- "cherry almond cake recipe"
+- "cherry bakewell cake"
+- "cherry frangipane cake"
+- "cherry and almond loaf"
+- "moist cherry and almond cake"
+- "layered dessert recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "161"

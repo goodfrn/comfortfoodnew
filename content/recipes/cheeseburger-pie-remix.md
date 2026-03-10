@@ -1,10 +1,10 @@
 ---
-title: "Cheeseburger Pie Remix"
+title: "Cheeseburger Pie with Bisquick"
 slug: "cheeseburger-pie-remix"
-description: "Ground beef browns with onions, seasoned boldly, layered with sharp cheddar in a sprayed pie dish. Egg and biscuit mix poured on top, baked till set. Swap Bisquick for self-rising flour and add smoked paprika to meat mix for smoky depth. Cook until crusty edges appear, tester comes out clean. Savory, rich, with melty cheese pockets. Six hearty slices that hit umami and comfort."
-metaDescription: "Cheeseburger Pie Remix layers seasoned ground beef with sharp cheddar and biscuit batter; smoky paprika and hotter bake yield crusty edges with melty pockets."
-ogDescription: "Stacked ground beef, sharp cheddar, smoky paprika. Biscuit batter poured, bakes hotter. Crust crisps, cheese melts through. Six slices, hearty comfort."
-focusKeyphrase: "Cheeseburger Pie Remix"
+description: "Ground beef and cheddar layered in a pie dish, topped with Bisquick batter and baked until golden. Smoked paprika adds depth. Crusty edges, melty cheese pockets."
+metaDescription: "Cheeseburger pie recipe with Bisquick. Bold seasoning, sharp cheddar, egg batter baked crispy. Try it tonight."
+ogDescription: "Cheeseburger pie baked with Bisquick. Ground beef, sharp cheddar, smoked paprika, crusty golden edges."
+focusKeyphrase: "cheeseburger pie"
 date: 2026-01-15
 draft: false
 image: cheeseburger-pie-remix.jpg
@@ -21,11 +21,13 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "ground beef"
-- "sharp cheddar"
-- "biscuit mix"
-- "smoked paprika"
-- "self-rising flour"
+- "cheeseburger pie"
+- "cheeseburger pie recipe"
+- "cheeseburger pie using bisquick"
+- "bisquick cheeseburger pie recipe"
+- "hamburger pie"
+- "burger pie recipe"
+- "impossible cheeseburger pie"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "440"

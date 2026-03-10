@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Cream Cheese Pie"
+title: "Chocolate Cream Cheese Pie No-Bake"
 slug: "chocolate-cream-cheese-pie"
-description: "A chilled chocolate and cream cheese pie layered in a chocolate crust. Cream cheese beaten with powdered sugar and marshmallow fluff forms the base. Melted chocolate folded into whipped topping creates a fluffy topping layer. Chilling solidifies the pie's texture. Garnished with whipped topping and extra chunks of chocolate. Can drizzle hot fudge over for extra richness. Easy no-bake dessert. Balances creamy tang, sweet fluff, and chocolate depth."
-metaDescription: "Chocolate Cream Cheese Pie layered with fluffy chocolate topping in a prebaked crust. Chilled, no bake, rich creamy tang with marshmallow fluff lift."
-ogDescription: "Layers of cream cheese and whipped chocolate top a prebaked crust. Chill long enough—texture firm with soft bite. Marshmallow fluff gives lift and chew."
-focusKeyphrase: "Chocolate Cream Cheese Pie"
+description: "No-bake chocolate cream cheese pie with marshmallow fluff base and fluffy chocolate topping. Chilled dessert ready in minutes, no oven needed."
+metaDescription: "Chocolate cream cheese pie recipe that's no-bake and chilled. Cream cheese, marshmallow fluff, and chocolate layers. Make it tonight."
+ogDescription: "Layered chocolate cream cheese pie. No baking. Marshmallow fluff mixed into the creamy base, chocolate folded into the top."
+focusKeyphrase: "chocolate cream cheese pie no bake"
 date: 2025-10-09
 draft: false
 image: chocolate-cream-cheese-pie.jpg
@@ -21,9 +21,11 @@ tags:
 - "pie"
 - "comfort food"
 keywords:
-- "chocolate pie"
-- "cream cheese dessert"
-- "whipped chocolate topping"
+- "chocolate cream cheese pie"
+- "creamcheese pie"
+- "no-bake chocolate pie"
+- "chocolate pudding and cream cheese pie"
+- "cream cheese dessert recipes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "460"

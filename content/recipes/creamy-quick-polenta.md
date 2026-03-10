@@ -1,10 +1,10 @@
 ---
-title: "Creamy Quick Polenta Twist"
+title: "Dairy-Free Polenta: Creamy & Quick"
 slug: "creamy-quick-polenta"
-description: "Quick-cooking creamy polenta made with vegetable broth and nutritional yeast in place of parmesan for a dairy-free edge. Adjust liquid for texture, stir constantly to avoid lumps. Incorporates coconut cream instead of heavy cream, adding subtle richness without overpowering. Slightly longer simmer for deeper flavor, but watch for sticking. Best served immediately with braised meats or roasted veg. Tips on visual cues and common pitfalls included."
-metaDescription: "Creamy Quick Polenta Twist with vegetable broth and nutritional yeast brings dairy-free richness; coconut cream adds silkiness. Stirs, textures, and timing matter."
-ogDescription: "Quick creamy polenta made dairy-free with veggie broth, nutritional yeast, coconut cream. Watch popping sounds, texture changes, don’t rush stirring. Serve fast."
-focusKeyphrase: "creamy quick polenta"
+description: "Creamy dairy-free polenta made with vegetable broth and coconut cream. Skip the parmesan, use nutritional yeast instead. Stir constantly, watch the texture, serve hot."
+metaDescription: "Dairy-free polenta recipe using coconut cream and nutritional yeast. Creamy texture, quick cook time, no dairy needed. Make it tonight."
+ogDescription: "Dairy-free polenta that's actually creamy. Coconut cream replaces heavy cream. Nutritional yeast instead of parmesan. Ready in minutes."
+focusKeyphrase: "dairy-free polenta"
 date: 2025-08-09
 draft: false
 image: creamy-quick-polenta.jpg
@@ -21,9 +21,11 @@ tags:
 - "one pot"
 - "coconut"
 keywords:
-- "polenta recipe"
+- "dairy-free polenta"
+- "creamy polenta recipe"
+- "vegan polenta"
+- "polenta without parmesan"
 - "quick polenta"
-- "dairy-free cooking"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"

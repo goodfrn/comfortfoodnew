@@ -1,10 +1,10 @@
 ---
-title: "Cranberry Pistachio Cookies"
+title: "Cranberry Pistachio Shortbread Cookies"
 slug: "cranberry-pistachio-cookies"
-description: "Crunchy edges, chewy centers. Butter whipped to fluffy clouds. Sweet with tart bursts from cranberries, nutty pistachios cutting through. Vanilla and almond extracts layering aroma. Powdered sugar glaze with a hit of fleur de sel salt at finish. Watch for slightly golden edges, shiny middles. No overmixing or dense bricks. Rolled dough balls spaced right to avoid cookie fights. Baking sheet lined, easy cleanup. Mixing starting with dry sifted flour and salt. Butter beaten first, then sugar giving that creamy base before wet. Fold in fruit and nuts just enough to spread evenly. I swapped dried tart cherries once, worked fine. White chocolate chips add fun twist if you want. Stay alerted during bake, ovens vary. Don’t skip resting time after baking. Cool for crisp outsides, soft inside."
-metaDescription: "Crunchy edged Cranberry Pistachio Cookies with chewy centers, buttery fluff, tart cranberries, nutty pistachios, and a subtle fleur de sel glaze finishing crisp and soft."
-ogDescription: "Cranberry Pistachio Cookies with buttery fluff, tart bursts, nutty crunch, and salted glaze. Watch edges color, shiny middles jiggle, iced with thick sugary drizzle."
-focusKeyphrase: "Cranberry Pistachio Cookies"
+description: "Crunchy edges, chewy centers. Cranberry pistachio shortbread with whipped butter, tart berries, nutty depth, and a fleur de sel finish. Recipe inside."
+metaDescription: "Cranberry pistachio shortbread cookies with crunchy edges, chewy centers, and a salted glaze. Learn the technique to avoid dense results."
+ogDescription: "Cranberry pistachio shortbread with tart bursts, nutty depth, and crispy edges. The trick is not overmixing."
+focusKeyphrase: "cranberry pistachio shortbread cookies"
 date: 2025-12-11
 draft: false
 image: cranberry-pistachio-cookies.jpg
@@ -21,9 +21,11 @@ tags:
 - "holiday"
 - "dessert"
 keywords:
-- "cookie recipe"
-- "dried cranberries"
-- "baking tips"
+- "cranberry pistachio shortbread cookies"
+- "cranberry and pistachio shortbread"
+- "shortbread cookies with cranberries and pistachios"
+- "cranberry pistachio cookies"
+- "cookies with pistachios and cranberries"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "140"

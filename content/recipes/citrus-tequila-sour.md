@@ -1,10 +1,10 @@
 ---
-title: "Citrus Tequila Sour Twist"
+title: "Tequila Sour Recipe with Citrus & Egg White"
 slug: "citrus-tequila-sour"
-description: "A tangy tequila sour with a citrus punch, frothy egg whites, and light agave sweetness. Balanced bitterness from aromatic bitters with a zing of lime garnish. Ready quick, hands-on shaking for rich texture and vibrant aroma."
-metaDescription: "Citrus Tequila Sour Twist punches with tangy lime and lemon, creamy egg white foam, agave sweetness, and herbal bitters; quick shake, rich texture, bold aroma."
-ogDescription: "Tangy tequila sour with frothy egg whites, sharp citrus, agave sweetness, and aromatic bitters. Shake hard, watch the foam, sip slow. Bright lime garnish seals the deal."
-focusKeyphrase: "Citrus Tequila Sour"
+description: "Tequila sour recipe with fresh citrus, fluffy egg whites, and agave. Balanced bitters and lime create a silky, vibrant cocktail made right."
+metaDescription: "Tequila sour recipe with fresh citrus, egg whites, and agave balance. Shake it up tonight for a smooth, tangy drink."
+ogDescription: "Citrus tequila sour with frothy egg whites, balanced bitters, and fresh lime. A silky, tangy cocktail that's ready in minutes."
+focusKeyphrase: "tequila sour recipe"
 date: 2026-02-12
 draft: false
 image: citrus-tequila-sour.jpg
@@ -22,8 +22,10 @@ tags:
 - "mexican"
 keywords:
 - "tequila sour"
-- "cocktail foam"
-- "lime garnish"
+- "tequila sour cocktail"
+- "sour tequila drinks"
+- "tequila sour recipe"
+- "tequila sour ingredients"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "260"

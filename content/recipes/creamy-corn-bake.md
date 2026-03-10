@@ -1,10 +1,10 @@
 ---
-title: "Creamy Corn Bake Twist"
+title: "Cream Corn Dish Recipe with Jalapeño Twist"
 slug: "creamy-corn-bake"
-description: "Oven-baked creamy corn casserole with slight ingredient tweaks and timing adjustments. Combines butter, sweet corn, creamed corn, eggs, sour cream, and a sugar substitute, folded into cornbread mix. Roasted to golden edges, set center, toothpick test essential. Cooling crucial before slicing with serrated. Adds kick by swapping sugar for honey; swapped standard cornmeal mix for spicy jalapeño cornbread mix. Sensory cooking cues prioritized over timers for perfect finish every time. Focus on texture, aroma, color changes for doneness rather than rigidity. Substitutions and troubleshooting included to avoid soggy messes or flat results. Roughly 12 servings, takes less than an hour total. Comfort food vibe with personal tweaks and experiences."
-metaDescription: "Creamy Corn Bake Twist blends spicy jalapeño cornbread with honey-sweetened corn, sour cream, and eggs. Golden edges, set center. Cool fully before slicing."
-ogDescription: "Baked creamy corn with jalapeño cornbread mix, honey swap for sugar, sour cream tang. Watch golden edges, gentle wobble center, cool minimum 12 minutes."
-focusKeyphrase: "creamy corn bake"
+description: "Creamy corn casserole baked until golden with butter, sour cream, and a spicy jalapeño cornbread mix. Golden edges, set center, perfect texture every time."
+metaDescription: "Cream corn dish recipe with jalapeño cornbread mix. Creamy, baked, and foolproof. Try it tonight."
+ogDescription: "Creamy corn casserole with a spicy kick. Baked until golden, sliced clean, feeds 12."
+focusKeyphrase: "cream corn dish recipe"
 date: 2025-10-16
 draft: false
 image: creamy-corn-bake.jpg
@@ -20,9 +20,15 @@ tags:
 - "cornbread"
 - "side dish"
 keywords:
-- "corn bake"
-- "jalapeño cornbread"
-- "creamed corn casserole"
+- "cream corn dish recipe"
+- "creamy corn casserole"
+- "corn casserole recipes with jiffy mix"
+- "corn casserole with sour cream"
+- "corn jalapeno cream cheese casserole"
+- "baked cream corn recipe"
+- "creamed corn and cornbread casserole"
+- "easy creamed corn casserole"
+- "corn and cream corn casserole"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"

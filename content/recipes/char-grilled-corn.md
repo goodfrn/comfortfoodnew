@@ -1,10 +1,10 @@
 ---
-title: "Char-Grilled Corn Twist"
+title: "Grilled Corn on the Cob in Husks"
 slug: "char-grilled-corn"
-description: "Corn on the cob soaked, grilled in husks for smoke, then shucked with ease. A faster soak with slight time tweaks. Swap butter for whipped garlic herb spread for a punch. Grilling done in stages—the initial husk-on steam chars kernels gently. Husk acts like handle and flavor vessel but burns quick if left too close. Watch color shifts and feel kernels tighten up for doneness. Salt after butter or spread for balance. Simple, rustic, no-fail with flexibility. Common traps avoided—the burnt husk, dry kernels, or stubborn silk, handled with soak and re-grill options."
-metaDescription: "Char-Grilled Corn Twist grilled in husks, soaked then shucked, with garlic herb butter option, salt last, textures balanced between steam and char."
-ogDescription: "Corn grilled in stages, soak husks to steam, shuck gently, then char kernels. Garlic herb butter finish, salt after. Watch for flare-ups, crisp contrast."
-focusKeyphrase: "char-grilled corn with husks"
+description: "Char-grilled corn on the cob stays tender and smoky when cooked in husks. Quick soak, two-stage grilling, garlic herb butter finish. Learn the technique that avoids burnt husks and dry kernels."
+metaDescription: "Grilled corn on the cob cooked in husks with garlic herb butter. Master the two-stage technique for charred, tender kernels every time."
+ogDescription: "Corn grilled in the husk comes out smoky and tender with a charred bite. Garlic herb butter and a simple technique that works."
+focusKeyphrase: "grilled corn on the cob"
 date: 2025-10-28
 draft: false
 image: char-grilled-corn.jpg
@@ -21,9 +21,11 @@ tags:
 - "side dish"
 - "vegetarian"
 keywords:
-- "grilled corn"
-- "corn on cob"
-- "corn grilling tips"
+- "grilled corn on the cob"
+- "corn on the cob grilled in husks"
+- "bbq corn on the cob recipe"
+- "cooking corn on the grill"
+- "garlic herb butter corn"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "115"

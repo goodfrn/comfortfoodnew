@@ -1,10 +1,10 @@
 ---
-title: "Chunky Cherry Almond Bread"
+title: "Cherry Almond Bread Recipe"
 slug: "chunky-cherry-almond-bread"
-description: "Cherry bread with a nutty twist using almond extract, sour cream for moisture, and chopped maraschino cherries tossed in flour to avoid sinking. Baked in a loaf pan with a lightly sweetened glaze drizzled on top. Visual cues like golden crumb and toothpick test mark doneness. Adjustments on cherry amount and timing help avoid sogginess. Uses vegetable oil but can swap with melted butter or olive oil. Flour-dusted cherries keep fruit distributed, avoiding wet patches. Watch for dome cracking and foil tenting after 40 minutes to stop over-browning. The glaze sets matte after 30 minutes, adding sweet crunch and shine."
-metaDescription: "Chunky Cherry Almond Bread loaded with floured cherries, moist sour cream crumb, subtle almond extract, slow bake, foil tent for controlled crust browning."
-ogDescription: "Chunky Cherry Almond Bread with floured cherries to stop sinking, sour cream moisture, almond extract notes, slow bake, foil tent after 40 mins."
-focusKeyphrase: "Chunky Cherry Almond Bread"
+description: "Tender cherry almond bread with sour cream, chopped cherries tossed in flour to stay distributed, and almond extract for depth. Includes a simple glaze."
+metaDescription: "Cherry almond bread recipe with sour cream and a light glaze. Keeps cherries from sinking and prevents sogginess. Bake tonight."
+ogDescription: "Cherry almond bread that stays moist with sour cream. Cherries stay put, the crumb stays tender, and a simple glaze finishes it."
+focusKeyphrase: "cherry almond bread"
 date: 2025-11-14
 draft: false
 image: chunky-cherry-almond-bread.jpg
@@ -21,9 +21,11 @@ tags:
 - "almond"
 - "comfort food"
 keywords:
-- "cherry bread"
-- "almond extract"
-- "maraschino cherries"
+- "cherry almond bread"
+- "almond and cherry loaf"
+- "almond cherry loaf"
+- "cherry loaf cake"
+- "easy quick bread recipes"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "260"

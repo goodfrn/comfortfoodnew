@@ -1,10 +1,10 @@
 ---
-title: "Chill Brewed Sweet Tea"
+title: "Make Sweet Iced Tea at Home"
 slug: "chill-brewed-sweet-tea"
-description: "Cold steeped tea with controlled sweetness and a citrus twist. Uses loose leaf replacement. Sweetening technique avoids grainy syrup. Refrigeration slow extracts flavor. Lemon provides fresh aroma and balance."
-metaDescription: "Chill brewed sweet tea steeped cold overnight with loose leaf black tea, lemon wedges, and natural cane sugar syrup for balanced flavor and smooth finish."
-ogDescription: "Cold steep black tea for 11-12 hours with loose leaves. Sweeten with cane sugar syrup warmed gently. Lemon wedges bring citrus brightness. Chill well. No grainy syrup."
-focusKeyphrase: "chill brewed sweet tea"
+description: "Cold brew sweet tea without gritty syrup. Slow-steeped loose leaf with lemon for balanced flavor. Learn the technique that keeps it smooth."
+metaDescription: "Make sweet iced tea with cold steeping method. No grainy syrup, smooth flavor, fresh citrus balance. Try it tonight."
+ogDescription: "Cold brew sweet tea that stays smooth. Loose leaf, slow steeped, lemon-balanced. No gritty mess."
+focusKeyphrase: "make sweet iced tea"
 date: 2026-02-12
 draft: false
 image: chill-brewed-sweet-tea.jpg
@@ -21,9 +21,11 @@ tags:
 - "lemon"
 - "homemade"
 keywords:
-- "cold brewed tea"
-- "sweet tea syrup"
-- "cane sugar sweetener"
+- "make sweet iced tea"
+- "brew sweet tea"
+- "cold brew sweet tea"
+- "homemade iced tea"
+- "loose leaf sweet tea"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "370"

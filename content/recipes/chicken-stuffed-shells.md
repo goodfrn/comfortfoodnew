@@ -1,10 +1,10 @@
 ---
-title: "Chicken Stuffed Shells Twist"
+title: "Chicken Stuffed Shells with Alfredo"
 slug: "chicken-stuffed-shells"
-description: "Baked jumbo pasta shells filled with a creamy chicken, cheese, and bacon blend. Uses a mix of Alfredo and ranch for tang and richness. Shells cooked al dente, stuffed, then baked until bubbly and golden on top. Focus on textures—crispy bacon bits, creamy cheese combo, tender chicken. Sauce spread bottom and poured over, locking in moisture. Fresh herbs added after baking for brightness. Adjust cooking time based on cheese melt and bubbling cues for best results. A subtle herb twist and swapping cream cheese with mascarpone introduces a smoother, richer mouthfeel. Salt and seasoning balance crucial for depth."
-metaDescription: "Chicken Stuffed Shells Twist uses creamy chicken, bacon, cheeses baked in layered sauce. Al dente shells hold firm; herbs finish fresh."
-ogDescription: "Jumbo shells filled with creamy chicken, bacon, mozzarella; baked with Alfredo-ranch sauce. Crispy edges, juicy inside. Herbs brighten the finish."
-focusKeyphrase: "chicken stuffed shells"
+description: "Creamy chicken stuffed shells baked with Alfredo and ranch sauce, bacon, and melted cheese. Golden and bubbly with crispy bacon bits and tender chicken filling."
+metaDescription: "Chicken stuffed shells with Alfredo sauce, bacon, and cheese. Creamy, baked until bubbly. Try it tonight."
+ogDescription: "Jumbo pasta shells stuffed with creamy chicken, bacon, and cheese. Baked with Alfredo sauce until golden."
+focusKeyphrase: "chicken stuffed shells with alfredo sauce"
 date: 2025-11-28
 draft: false
 image: chicken-stuffed-shells.jpg
@@ -21,9 +21,13 @@ tags:
 - "cheese"
 - "bacon"
 keywords:
-- "alfredo ranch sauce"
-- "mascarpone cheese"
-- "crispy bacon bits"
+- "chicken stuffed shells with alfredo sauce"
+- "chicken stuffed shells"
+- "alfredo chicken stuffed shells"
+- "chicken bacon ranch stuffed shells"
+- "creamy chicken stuffed shells"
+- "chicken stuffed shells recipe"
+- "alfredo stuffed shells recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "685"

@@ -1,10 +1,10 @@
 ---
-title: "Chunky Cast Iron Cookie"
+title: "Cast Iron Skillet Cookie Recipe"
 slug: "chunky-cast-iron-cookie"
-description: "Cast iron skillet cookies with a mix of granulated and brown sugars creating chewy edges and a soft center. Uses slightly altered baking times and ingredient tweaks for texture variation. Hand-pressed dough for uneven, rustic crusts. Familiar, straightforward ingredients with one swap for deeper flavor. Visual indicators, subtle aromas, and tactile cues guide baking more than strict clocks. Four individual 6-inch skillets or two larger 9-inch pans—flex shoulders with weight and heat retention. Avoid overmixing to keep cookie tender. Tips for substitutions and problem-solving along the way. Balanced crispness, melty chips, and buttery richness in every bite. Trust your senses more than timers."
-metaDescription: "Chunky Cast Iron Cookie with chewy edges and melty chocolate chunks baked in cast iron skillets. Rustic texture, buttery richness, and baking tips included."
-ogDescription: "Chewy edges, melty chocolate chunks, baked in cast iron. Rustic feel, butter depth, and sensory cues for doneness. Four skillets or two pans options."
-focusKeyphrase: "Chunky Cast Iron Cookie"
+description: "Chewy cast iron skillet cookie with chocolate chips, hand-pressed dough, and crispy edges. Bake by feel, not timer. Simple ingredients, serious flavor."
+metaDescription: "Cast iron skillet cookie recipe with chewy centers and crispy edges. Bake in individual skillets or one large pan. Try it tonight."
+ogDescription: "Hand-pressed cast iron cookie with chocolate chips. Chewy, buttery, and baked by touch—not a timer."
+focusKeyphrase: "cast iron skillet cookie"
 date: 2025-12-04
 draft: false
 image: chunky-cast-iron-cookie.jpg
@@ -21,9 +21,16 @@ tags:
 - "homemade"
 - "snack"
 keywords:
+- "cast iron skillet cookie"
+- "cookie in iron skillet"
+- "cast iron cookie recipe"
+- "chocolate chip cookie in cast iron skillet"
+- "cast iron skillet cookie recipe"
 - "cast iron cookie"
-- "chocolate chunks cookie"
-- "chewy cookie recipe"
+- "cookie cast iron pan"
+- "cast iron chocolate chip cookie"
+- "cookie skillet cast iron"
+- "cast iron cookie cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "340"

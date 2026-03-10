@@ -1,10 +1,10 @@
 ---
-title: "Creamy Fruit Salad Remix"
+title: "Creamy Fruit Salad with Marshmallows"
 slug: "creamy-fruit-salad-remix"
-description: "Drained canned fruit tossed with mini marshmallows and Greek yogurt, chilled till cold. A sweet, tangy, and soft-textured dessert or side that brightens up any gathering. Uses pineapple chunks swapped for mandarin oranges for extra zing. Prep is quick; chilling time lets flavors meld and marshmallows soften, yielding a luscious bite. Key step is draining fruit meticulously—excess liquid ruins texture and makes it soggy. Simple, forgiving. Great for last-minute potlucks or summer days. Balances sugar and freshness. Marshmallows add chew,. yogurt smooths acidity. A chill longer than usual intensifies meld. Keep cold but not icy. Resist temptation to stir obsessively after chilling; it dulls fluff. Fruit salad, but creamy, a comfier cousin, not boring. Plays with textures and sweetness with ease."
-metaDescription: "Creamy Fruit Salad Remix uses well-drained mandarin oranges, mini marshmallows, and vanilla Greek yogurt. Chill hours. Fold gently. Texture matters here."
-ogDescription: "Mandarin oranges swapped for pineapple chunks; mini marshmallows folded in creamy vanilla Greek yogurt. Chill long. Resist stirring too much."
-focusKeyphrase: "creamy fruit salad"
+description: "Canned fruit, Greek yogurt, and mini marshmallows make a tangy-sweet side dish. Drain well, chill, and skip the stirring—texture matters more than you think."
+metaDescription: "Creamy fruit salad with marshmallows and yogurt. Drained canned fruit, soft texture, no soggy mess. Make it tonight."
+ogDescription: "Drained canned fruit meets marshmallows and yogurt. Sweet, tangy, chewy. No fuss. Chill and serve."
+focusKeyphrase: "fruit salad with marshmallows"
 date: 2025-12-05
 draft: false
 image: creamy-fruit-salad-remix.jpg
@@ -21,9 +21,11 @@ tags:
 - "pineapple"
 - "party"
 keywords:
-- "mixed fruit salad"
-- "mini marshmallows dessert"
-- "vanilla Greek yogurt salad"
+- "fruit salad with marshmallows"
+- "creamy fruit salad"
+- "marshmallow fruit salad with sour cream"
+- "whip cream marshmallow fruit salad"
+- "ambrosia salad with sour cream"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "260"

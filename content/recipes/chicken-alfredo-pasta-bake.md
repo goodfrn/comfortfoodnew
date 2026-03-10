@@ -1,10 +1,10 @@
 ---
-title: "Chicken Alfredo Pasta Bake"
+title: "Chicken Alfredo Fettuccine Bake"
 slug: "chicken-alfredo-pasta-bake"
-description: "A creamy pasta bake with tender chicken and broccoli, coated in a homemade Alfredo sauce. Mozzarella tops it off, bubbling and browning just right. The pasta cooks with broccoli to save time. Sauce made from butter, flour, milk, Parmesan plus garlic and Italian seasoning for depth. Oven melt combines flavors, edges crisp slightly. Serve with parsley or a sprinkle of chili flakes for bite and color."
-metaDescription: "Chicken Alfredo Pasta Bake with tender chicken, broccoli, creamy homemade Alfredo sauce, and mozzarella browned just right. Time-saving pasta cooks with broccoli."
-ogDescription: "Creamy chicken and broccoli pasta bake layered with homemade Alfredo sauce and bubbling mozzarella topping. Quick broccoli timing saves mushiness, sauce thickens while baking."
-focusKeyphrase: "Chicken Alfredo Pasta Bake"
+description: "Creamy chicken alfredo fettuccine bake with broccoli, mozzarella, and homemade sauce. Tender pasta and chicken baked until the cheese bubbles and browns. Ready in under an hour."
+metaDescription: "Chicken alfredo fettuccine bake with broccoli and melted mozzarella. Homemade cream sauce, easy to make. Try it tonight."
+ogDescription: "Creamy baked chicken fettuccine alfredo with broccoli and bubbling mozzarella. One-pan comfort food that actually tastes homemade."
+focusKeyphrase: "chicken alfredo fettuccine bake"
 date: 2025-12-02
 draft: false
 image: chicken-alfredo-pasta-bake.jpg
@@ -21,9 +21,14 @@ tags:
 - "cheese"
 - "easy dinner"
 keywords:
-- "Alfredo pasta bake"
-- "chicken pasta casserole"
-- "mozzarella pasta bake"
+- "chicken alfredo fettuccine bake"
+- "baked chicken alfredo fettuccine"
+- "chicken broccoli alfredo pasta bake"
+- "chicken alfredo casserole with broccoli"
+- "creamy chicken alfredo casserole"
+- "alfredo pasta bake with chicken"
+- "baked chicken broccoli pasta"
+- "chicken fettuccine alfredo casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"

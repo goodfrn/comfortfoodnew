@@ -1,10 +1,10 @@
 ---
-title: "Chunky Baked Potato Salad"
+title: "Roasted Potato Salad with Bacon & Cheese"
 slug: "chunky-baked-potato-salad"
-description: "Roasted 3 4-inch diced potatoes tossed in creamy mayo sour cream vinegar blend. Crunchy cheese, smoky bacon, thin onion rounds all chilled together. Salt pepper balance key. Baked at 430 degrees 'til golden edges pop, tender inside. Rested in fridge for flavor marriage. Simple, chunky, textural contrast salad that skips boiled soggy mess. Bacon swap with smoked paprika or crispy mushrooms works too. Apple cider vinegar gives slight zip, can trade for sherry or lemon. Sharp cheddar best for punch but monterey jack mild, mozzarella stretchy replacements found. Potatoes peel optional, fur crispy skin if left on. Preheat fan oven recommended for even roasting. Let cool before dressing so sauce clings better. Salt potatoes now and later. Toss gently; no mush."
-metaDescription: "Chunky Baked Potato Salad with roasted crisp edges, creamy mayo-sour cream dressing, smoky bacon, sharp cheddar, and thin onion rings chilled for rich flavor meld."
-ogDescription: "Roasted potatoes crisp, tender inside. Creamy tangy dressing, smoky bacon, cheddar sharp, onion bites. Chill for melding flavors, no soggy mess or mush."
-focusKeyphrase: "Chunky Baked Potato Salad"
+description: "Crispy-edged roasted potatoes tossed with mayo, sour cream, bacon, and sharp cheddar. Chilled chunky salad that skips the soggy mess. Try it tonight."
+metaDescription: "Roasted potato salad recipe with bacon, cheese, and creamy dressing. Baked potatoes stay tender inside, crispy outside. Save this one."
+ogDescription: "Roasted potatoes with bacon, cheddar, and creamy dressing. Chunky textural salad that actually holds up."
+focusKeyphrase: "roasted potato salad"
 date: 2026-02-03
 draft: false
 image: chunky-baked-potato-salad.jpg
@@ -21,9 +21,13 @@ tags:
 - "cheese"
 - "comfort food"
 keywords:
-- "potato salad"
-- "roasted potatoes"
-- "chunky potato salad"
+- "roasted potato salad"
+- "baked potato salad"
+- "loaded potato salad"
+- "roasted potato potato salad"
+- "potato salad recipe"
+- "baked potato salad recipe"
+- "loaded baked potato salad"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "695"

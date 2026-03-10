@@ -1,10 +1,10 @@
 ---
-title: "Creamed Corn Remix"
+title: "Creamed Corn Recipe With Chickpea Flour"
 slug: "creamed-corn-remix"
-description: "Butter and onions cooked until soft, roux browned lightly, then combined with cream, milk, and brown sugar for sweetness. Folded in sweet corn and seasoned with salt and white pepper. Adjust timing based on aroma and texture. Subbed all-purpose flour with chickpea flour here for nuttiness; swapped white pepper for smoked paprika for a touch of warmth and color. Heat slowly to coax natural sugars from corn. Serve creamy, with body but still some corn bite. Adapt for leftover veggies or cream substitutes. Tactile and visual cues key; no rigid timing. A twist on a classic side with sensory-driven cooking technique."
-metaDescription: "Creamed Corn Remix with browned roux, chickpea flour, smoked paprika. Cook slow, watch onions soften and corn stay firm. Adapt for cream or veggie swaps."
-ogDescription: "Onions translucent, roux light tan, corn folded slowly, smoked paprika spice. Creamed Corn Remix with body and bite. Adjust salt, sugar, timing by feel."
-focusKeyphrase: "creamed corn with chickpea flour"
+description: "Creamed corn with browned butter, onions, and a chickpea flour roux. Brown sugar, cream, and smoked paprika bring depth. Slow-cooked for natural sweetness and corn bite."
+metaDescription: "Creamed corn recipe using chickpea flour roux instead of all-purpose. Smoked paprika adds warmth. Make it tonight for a nutty, creamy side dish."
+ogDescription: "Creamed corn made with chickpea flour roux and smoked paprika. Slow heat coaxes sweetness from fresh corn while keeping the bite."
+focusKeyphrase: "creamed corn recipe"
 date: 2025-11-12
 draft: false
 image: creamed-corn-remix.jpg
@@ -21,12 +21,13 @@ tags:
 - "side dish"
 - "easy"
 keywords:
+- "creamed corn recipe"
 - "creamed corn"
-- "chickpea flour roux"
-- "smoked paprika"
-- "corn recipe"
-- "onions sautéed"
-- "brown sugar"
+- "cream corn dish"
+- "corn casserole recipe"
+- "cream style corn casserole"
+- "creamed corn casserole"
+- "corn side dish recipes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"

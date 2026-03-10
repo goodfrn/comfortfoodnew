@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Peanut Butter Balls"
+title: "Keto Peanut Butter Balls Recipe"
 slug: "chocolate-peanut-butter-balls"
-description: "No-bake keto snack with a nutty, crumbly base and rich dark chocolate coating. Uses coconut flour, crunchy peanuts, and natural peanut butter for texture. Sweetened with Truvia but adaptable. Quick chill, then roll and dip. Refrigerate to set. A balance of fat, protein, and fiber to keep things steady."
-metaDescription: "Chocolate Peanut Butter Balls keto snack no bake with crunchy peanuts dark chocolate coating. Nutty texture balanced fat protein fiber keeps steady energy."
-ogDescription: "No bake keto peanut butter balls with dark chocolate coating crunchy peanuts. Chill times key sticky texture not dry or greasy balance of fat and protein."
-focusKeyphrase: "chocolate peanut butter balls keto"
+description: "No-bake keto peanut butter balls with a crunchy peanut base and dark chocolate coating. Made with coconut flour, natural peanut butter, and Truvia. Ready in minutes."
+metaDescription: "Easy keto peanut butter balls recipe. No-bake, high protein, low carb treat. Make and chill in under an hour. Try it tonight."
+ogDescription: "No-bake keto peanut butter balls with a nutty crunch and rich chocolate shell. High protein, low carb. Ready to chill and serve."
+focusKeyphrase: "keto peanut butter balls"
 date: 2025-12-26
 draft: false
 image: chocolate-peanut-butter-balls.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "candy"
 keywords:
-- "keto snack"
-- "peanut butter bites"
-- "no bake chocolate balls"
+- "keto peanut butter balls"
+- "peanut butter keto balls"
+- "peanut butter balls low carb"
+- "no-bake keto snacks"
+- "low carb peanut butter treats"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "216"

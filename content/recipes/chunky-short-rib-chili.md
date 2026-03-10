@@ -1,10 +1,10 @@
 ---
-title: "Chunky Short Rib Chili"
+title: "Short Rib Chili Recipe | Tender Beef"
 slug: "chunky-short-rib-chili"
-description: "Robust beef short ribs browned in batches to build flavor. Veggies sweat just enough to soften. Add fire-roasted diced green chilies swapped in for canned, lending freshness and smoky heat. Pinto beans step in for black beans, offering creamier texture. Simmer gently, ribs tender but intact, shred with care. Toss out silver skin, bits of fat. Season bold with Aleppo pepper, extra salt balancing acidity from tomatoes. A hearty, rustic chili with layers through browning and slow melding. Watch carefully, stir to catch bottom browning, not scorching. Leftovers deeper the next day, great partnered with cornbread or simple greens."
-metaDescription: "Chunky short rib chili, browned ribs layered with fire-roasted chilies and pinto beans, simmered low to tender, seasoned with Aleppo pepper for smoky warmth."
-ogDescription: "Robust short rib chili, fire-roasted chilies swapped in, pinto beans creamy texture. Brown ribs right, simmer low, finish with Aleppo pepper heat and smoky notes."
-focusKeyphrase: "chunky short rib chili"
+description: "Robust short rib chili with fire-roasted green chilies, pinto beans, and slow-simmered beef. Bold spicing and deep flavor from proper browning."
+metaDescription: "Short rib chili recipe that builds flavor through batch-browning beef and slow simmering. Tender ribs, creamy pinto beans, smoky heat. Try it tonight."
+ogDescription: "Slow-simmered short rib chili with fire-roasted chilies and pinto beans. Tender beef, bold spicing, rustic depth."
+focusKeyphrase: "short rib chili"
 date: 2025-11-12
 draft: false
 image: chunky-short-rib-chili.jpg
@@ -22,8 +22,11 @@ tags:
 - "spicy"
 keywords:
 - "short rib chili"
-- "slow simmer chili"
-- "Aleppo pepper chili"
+- "short rib chili recipe"
+- "beef short rib chili"
+- "chili with beef short ribs"
+- "slow cooker chili"
+- "hearty beef chili"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"

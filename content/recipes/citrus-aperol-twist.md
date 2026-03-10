@@ -1,10 +1,10 @@
 ---
-title: "Citrus Aperol Twist"
+title: "Grapefruit Spritz with Aperol"
 slug: "citrus-aperol-twist"
-description: "A bright, bubbly cocktail blending sparkling wine, Aperol, and a zesty twist of grapefruit juice. Light, vibrant, with a citrus edge. Refreshing and colorful. Uses pink grapefruit and soda. Served chilled with aromatic herbs and bitters for depth. Easy to prepare, quick pour. Great for aperitif moments."
-metaDescription: "Citrus Aperol Twist is a bright cocktail with sparkling wine and grapefruit juice. Refreshing, bubbly, ideal for aperitif. Quick to prepare."
-ogDescription: "Enjoy the Citrus Aperol Twist cocktail. A refreshing blend of Aperol, sparkling wine, and pink grapefruit juice. Perfect for warm afternoons."
-focusKeyphrase: "Citrus Aperol Twist recipe"
+description: "Bright grapefruit spritz with Aperol, sparkling wine, and fresh citrus. Bubbly, refreshing aperitif that takes two minutes to pour."
+metaDescription: "Make a grapefruit spritz with Aperol and sparkling wine. Citrusy, bubbly, and easy. Mix it tonight."
+ogDescription: "Grapefruit spritz with Aperol and bubbles. Bright, easy, ready in minutes."
+focusKeyphrase: "grapefruit spritz"
 date: 2025-07-20
 draft: false
 image: citrus-aperol-twist.jpg
@@ -21,9 +21,16 @@ tags:
 - "party"
 - "easy"
 keywords:
-- "Aperol spritz"
-- "citrus cocktails"
-- "fresh drink recipes"
+- "grapefruit spritz"
+- "aperol grapefruit spritz"
+- "grapefruit aperol"
+- "aperol spritz"
+- "citrus aperitif cocktail"
+- "sparkling wine cocktail"
+- "aperol pink grapefruit"
+- "easy cocktail recipe"
+- "refreshing spritz"
+- "aperitif drink"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "120"

@@ -1,10 +1,11 @@
 ---
 title: "Chocolate Chip Cookie Ice Cream Cups"
+title: "Chocolate Chip Cookie Ice Cream Cups"
 slug: "chocolate-chip-cookie-cups"
-description: "Cookie dough transformed into warm cups holding cold ice cream. Butter, sugars creamed light then egg, vanilla mixed in. Drys folded gently, mini chips stirred last. No rolling dough; scoop straight into greased muffin tin. Bake until edges glow golden, centers still soft. Press down warm spot to create cup shape. Cool to firm up or microwave briefly for warm cookie, cold ice cream contrast. Substitute coconut oil for butter for twist; brown sugar swapped partly with maple sugar adds subtle caramel notes. Watch edges, listen for crackling sounds; crease in middle is a sign to shape. Handle gently—still fragile warm. Serve with sprinkles, nuts, caramel drizzle or sea salt. A flexible base with classic, nostalgic flair."
-metaDescription: "Chocolate Chip Cookie Ice Cream Cups hold warm cookie shells with cold ice cream inside. Gooey centers, crisp edges, quick bake with simple folds."
-ogDescription: "Warm cookie cups, cold ice cream. Crisp edges, gooey centers. No rolling dough, just dollops. Easy twist with coconut oil or maple sugar swap."
-focusKeyphrase: "Chocolate chip cookie ice cream cups"
+description: "Warm chocolate chip cookie cups filled with cold ice cream. Scoop dough into muffin tins, bake until edges crisp, press centers soft while warm to form edible bowls."
+metaDescription: "Make cookie ice cream bowls at home. Bake chocolate chip cookie cups in muffin tins, fill with ice cream, top with caramel or nuts. Try it tonight."
+ogDescription: "Chocolate chip cookie cups hold cold ice cream perfectly. Bake in muffin tins, shape while warm, fill with whatever you want."
+focusKeyphrase: "cookie ice cream bowls"
 date: 2025-12-04
 draft: false
 image: chocolate-chip-cookie-cups.jpg
@@ -21,9 +22,16 @@ tags:
 - "comfort food"
 - "party"
 keywords:
-- "cookie cups"
-- "mini chocolate chips"
-- "ice cream treats"
+- "cookie ice cream bowls"
+- "cookie cups for ice cream"
+- "edible ice cream bowls"
+- "chocolate chip cookie cups"
+- "homemade cookie bowls"
+- "ice cream cookie recipe"
+- "crispy cookie ice cream"
+- "muffin tin cookie cups"
+- "dessert bowl recipe"
+- "baked cookie cups"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "240"

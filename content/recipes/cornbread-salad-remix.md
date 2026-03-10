@@ -1,10 +1,10 @@
 ---
-title: "Cornbread Salad Remix"
+title: "Cornbread Salad Recipe with Ranch Dressing"
 slug: "cornbread-salad-remix"
-description: "Layered cornbread tossed with bell peppers, black eyed peas, and a bright, tangy ranch-inspired dressing twisted with lemon zest and fresh herbs. Bacon sneaks in for crunch and savory punch. Bell peppers soak up vinegar in advance absorbing tang, while cornbread softens but holds texture. Chill melds flavors. Alternate layers of cornbread, veggies, creamy dressing, all topped with scallions. Milk and mayo create silky base in dressing, herbs and lemon brighten and cut richness. Simple, layered, rustic, visually striking. Variations include swapping black eyed peas for chickpeas, bacon for smoked turkey, and adjusting vinegar to taste. Freshness and contrasts drive this salad that dances between creamy and crisp."
-metaDescription: "Cornbread Salad Remix layers toasted cornbread cubes with tangy bell peppers, creamy ranch dressing, fresh herbs, and crispy bacon for a rustic Southern dish."
-ogDescription: "Layered cornbread, vibrant bell peppers soaked in vinegar, creamy ranch dressing, crispy bacon. Rustic Southern vibe, textures play, flavors mingle with notes of lemon and fresh herbs."
-focusKeyphrase: "Cornbread Salad Remix"
+description: "Layered cornbread salad with black eyed peas, bell peppers, bacon, and tangy ranch dressing brightened with lemon. Crisp meets creamy in this southern favorite."
+metaDescription: "Cornbread salad recipe layers cornbread, veggies, and creamy ranch dressing. Make it ahead. Flavors meld when chilled. Try it tonight."
+ogDescription: "Layered cornbread salad with bacon, black eyed peas, and tangy ranch dressing. Crisp and creamy southern classic."
+focusKeyphrase: "cornbread salad"
 date: 2025-11-25
 draft: false
 image: cornbread-salad-remix.jpg
@@ -22,8 +22,12 @@ tags:
 - "easy"
 keywords:
 - "cornbread salad"
-- "layered salad"
-- "Southern salad recipe"
+- "cornbread salad recipe"
+- "southern cornbread salad"
+- "cornbread dressing southern recipe"
+- "cornbread layer salad"
+- "easy cornbread salad recipe"
+- "southern dressing recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "220"

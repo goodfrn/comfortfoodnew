@@ -1,10 +1,10 @@
 ---
-title: "Coconut Snowballs"
+title: "Coconut Snowballs with Almond Bark"
 slug: "coconut-snowballs"
-description: "Chewy coconut and almond snowballs coated in melted vanilla almond bark and shredded coconut. Cream cheese anchors the mix; powdered sugar adds sweetness. Ground almond flour replaces half for texture tweak. Chill times slightly adjusted. Vanilla coconut cream swapped with rich coconut milk for depth. Shredded coconut split between base and final coating. Melting almond bark carefully, no scorching—common trap avoided. Chill phases crucial: firm yet yielding spheres. Ritzy enough for company; simple enough for quick fixes. Notes on substitutions and troubleshooting. Satisfying blend of textures and sweet coconut aroma in each bite."
-metaDescription: "Coconut Snowballs chewy spheres coated in melted vanilla almond bark and shredded coconut. Cream cheese and almond flour give texture; chilled for firm bite."
-ogDescription: "Chewy coconut balls dipped in melted almond bark, rolled in coconut. Cream cheese mix chilled for shaping; almond flour adds subtle nuttiness and firmness."
-focusKeyphrase: "Coconut Snowballs"
+description: "Chewy coconut snowballs dipped in vanilla almond bark and shredded coconut. Cream cheese base with almond flour creates balanced texture. Make-ahead friendly."
+metaDescription: "Coconut snowballs recipe with almond bark coating. Chewy, simple, and elegant enough for holidays. Make them tonight."
+ogDescription: "Chewy coconut snowballs with creamy center and crispy almond bark shell. No baking required."
+focusKeyphrase: "coconut snowballs"
 date: 2025-11-18
 draft: false
 image: coconut-snowballs.jpg
@@ -22,8 +22,13 @@ tags:
 - "holiday"
 keywords:
 - "coconut snowballs"
-- "almond flour dessert"
-- "vanilla almond bark"
+- "coconut snowball cookie"
+- "coconut ball cookies"
+- "marshmallow snowballs"
+- "almond bark coating"
+- "no bake coconut candies"
+- "homemade snowballs"
+- "cream cheese coconut balls"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"

@@ -1,9 +1,10 @@
 ---
-title: "Cranberry Chocolate Loaf"
+title: "Cranberry Chocolate Loaf Recipe"
+focusKeyphrase: "cranberry chocolate loaf"
 slug: "cranberry-chocolate-loaf"
-description: "Rustic bread with tart dried cranberries and bittersweet dark chocolate chunks. Cold water and instant yeast meld with all-purpose and whole wheat flours for a chewy crumb and crisp crust. Overnight fermentation deepens flavor and texture. Covered cast iron pot simulates artisan bake at home. Technique focuses on dough hydration, minimal handling, and observation of visual/tactile cues over strict timing."
-metaDescription: "Cranberry Chocolate Loaf with chewy crumb, tart dried fruit, bittersweet chocolate chunks. Overnight rest, cold water, minimal handling, artisan-style bake at home."
-ogDescription: "Rustic loaf with cranberries, semi-sweet chocolate chunks. Cold water slows yeast. Covered pot traps steam. Watch dough texture, not clock."
+description: "Rustic cranberry chocolate loaf with tart berries and dark chocolate. Overnight fermentation and cast iron baking create a chewy crumb and crisp crust at home."
+metaDescription: "Make a rustic cranberry chocolate loaf with overnight fermentation. Dark chocolate chunks and tart cranberries in a chewy, crusty artisan-style bread. Bake tonight."
+ogDescription: "Rustic loaf with tart cranberries and dark chocolate. Overnight fermentation deepens flavor. Baked in cast iron for a crisp crust and chewy crumb."
 focusKeyphrase: "cranberry chocolate loaf"
 date: 2025-09-23
 draft: false
@@ -21,9 +22,16 @@ tags:
 - "homemade"
 - "comfort food"
 keywords:
-- "cranberry bread"
-- "chocolate loaf"
-- "artisan bread"
+- "cranberry chocolate loaf"
+- "cranberry chocolate bread"
+- "artisan bread recipe"
+- "overnight fermentation bread"
+- "cast iron bread baking"
+- "whole wheat bread"
+- "homemade bread recipe"
+- "no-knead bread"
+- "dark chocolate bread"
+- "rustic loaf"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "310"

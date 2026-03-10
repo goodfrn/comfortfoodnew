@@ -1,10 +1,10 @@
 ---
-title: "Chunky Graham Crust"
+title: "Graham Cracker Crust Recipe"
 slug: "chunky-graham-crust"
-description: "A crust built from mostly graham cracker crumbs with a twist of crushed vanilla wafers swapped for half the crumbs. Coarse crumb texture, balanced sweetness with brown sugar replacing plain white. Salt cut back slightly, browned butter adds deep, nutty flavor versus straight melted. Pressed firmly against a 9-inch pie pan's bottom and sides. Baking until edges turn golden with a dry, crackling feel. Visual and tactile cues balance the under- and over-baking risks. Great for pies and cheesecakes needing a stable, textured base that holds but doesn’t get soggy or chalky."
-metaDescription: "Chunky Graham Crust swaps half graham crumbs with crushed vanilla wafers, browned butter, brown sugar for deep nutty flavor with stable firm bake. No soggy base."
-ogDescription: "Crunch from vanilla wafers, browned butter aroma, brown sugar moisture. Watch golden edges and crackly texture. Holds firm, no sogginess or chalkiness here."
-focusKeyphrase: "chunky graham crust"
+description: "Homemade graham cracker crust with vanilla wafers and browned butter for deep flavor. Coarse texture, brown sugar sweetness, bakes golden. Perfect for cheesecake and pie."
+metaDescription: "Graham cracker crust recipe with browned butter and vanilla wafers. Crispy, textured base for cheesecake and pie. Make it tonight."
+ogDescription: "Homemade graham cracker crust with browned butter. Coarse crumb texture, balanced sweetness. Works for cheesecake and pie."
+focusKeyphrase: "graham cracker crust recipe"
 date: 2026-01-29
 draft: false
 image: chunky-graham-crust.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "vanilla"
 keywords:
-- "graham cracker crumbs"
-- "brown sugar crust"
-- "pie crust texture"
+- "graham cracker crust recipe"
+- "homemade graham cracker crust"
+- "graham cracker crust for cheesecake"
+- "graham cracker pie crust recipe"
+- "cheesecake graham crust recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

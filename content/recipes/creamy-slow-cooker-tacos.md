@@ -1,9 +1,10 @@
 ---
-title: "Creamy Slow Cooker Chicken Tacos"
+title: "Slow Cooker Chicken Tacos with Cream Cheese"
+focusKeyphrase: "slow cooker chicken tacos"
 slug: "creamy-slow-cooker-tacos"
-description: "Chicken breasts slow-cooked with diced tomatoes, garlic, onion powder, and fresh herbs, then shredded and combined with cream cheese and lime juice. Onion sautéed in butter joins the mix, adding sweetness and texture. Served with softened tortillas and melted cheese topping. Low-carb, high-protein, and rich in flavor with a creamy tang. Quick prep, minimal hands-on time. Adaptable, forgiving—ideal for busy days or meal prep."
-metaDescription: "Creamy Slow Cooker Chicken Tacos with shredded chicken, fire-roasted tomatoes, cream cheese, and butter-sauteed onions. Bold, tangy, and rich flavors in one pot."
-ogDescription: "Slow-cooked chicken with cream cheese and fire-roasted tomatoes. Buttered onions join the mix for tacos packed with texture and tang. Easy and flexible meal."
+description: "Slow cooker chicken tacos made creamy with cream cheese and lime juice. Tender shredded chicken cooked low and slow with tomatoes and garlic, then mixed with sautéed onions. Ready for tacos in under 30 minutes of prep."
+metaDescription: "Slow cooker chicken tacos with cream cheese and lime. Tender, flavorful, minimal prep. Make it tonight."
+ogDescription: "Creamy slow cooker chicken tacos with shredded chicken, cream cheese, and fresh lime. Easy weeknight dinner."
 focusKeyphrase: "slow cooker chicken tacos"
 date: 2025-12-26
 draft: false
@@ -21,9 +22,16 @@ tags:
 - "tacos"
 - "easy dinner"
 keywords:
-- "chicken tacos"
-- "slow cooker chicken"
-- "cream cheese chicken"
+- "slow cooker chicken tacos"
+- "crock pot chicken tacos"
+- "shredded chicken tacos crock pot"
+- "pulled chicken for tacos slow cooker"
+- "chicken taco meat crock pot"
+- "easy slow cooker chicken tacos"
+- "creamy chicken tacos"
+- "mexican slow cooked chicken"
+- "chicken taco recipe slow cooker"
+- "crock pot shredded mexican chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "205"

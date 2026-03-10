@@ -1,10 +1,10 @@
 ---
-title: "Chunky Fudge Brownie Pie"
+title: "Chunky Fudge Brownie Pie Recipe"
 slug: "chunky-fudge-brownie-pie"
-description: "A rich brownie baked in a flaky pie crust with chunks of dark chocolate folded in. Uses a partially baked pie shell, an egg wash for gloss and to seal crumb leakage, and a mix of baking powder with salt to keep the texture balanced. Melted butter carries sugar and vanilla flavors deep, eggs whipped aerate the batter. Baking at 350 degrees after par-baking crust ensures equal doneness without soggy bottoms. Edges tinfoil shield prevents burning. Finish with resting time for clean cuts. A twist on classic brownies, with slightly less sugar and chopped Walnuts swapped in for half the chocolate chips adds crunch."
-metaDescription: "Chunky Fudge Brownie Pie baked in flaky crust with dark chocolate chunks and walnuts. Par-baked crust, egg wash seals leaks, baked 350°F for tender fudgy texture."
-ogDescription: "Fudgy brownie in pie form with crunchy walnuts and melted dark chocolate chunks. Par-bake crust, egg wash seals, bake till crackled edges and shiny jiggle center."
-focusKeyphrase: "Chunky Fudge Brownie Pie"
+description: "Rich brownie pie in a flaky crust with dark chocolate chunks and walnuts. Par-baked shell, egg wash seal, and balanced texture from baking powder. Bake at 350°F for fudgy results."
+metaDescription: "Chunky fudge brownie pie recipe with dark chocolate and walnuts in a flaky crust. Fudgy texture, crispy edges. Try it tonight."
+ogDescription: "Fudgy brownie pie loaded with chocolate chunks and walnut crunch. Baked in a flaky pie crust for a richer twist on classic brownies."
+focusKeyphrase: "brownie pie"
 date: 2025-11-14
 draft: false
 image: chunky-fudge-brownie-pie.jpg
@@ -22,8 +22,10 @@ tags:
 - "comfort food"
 keywords:
 - "brownie pie"
-- "par-baked pie crust"
-- "chocolate walnut brownie"
+- "fudgy brownie pie"
+- "brownie chocolate pie"
+- "brownie walnut pie"
+- "chocolate brownie pie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "300"

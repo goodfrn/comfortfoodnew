@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Gruyère Gougères"
+title: "Gruyère Gougères Recipe: Cheesy Choux Bites"
 slug: "cheesy-gruyere-gougeres"
-description: "Choux pastry mixed with Gruyère instead of Gré des champs cheese. Water and butter boiled then flour added in one go. Eggs incorporated one by one for smooth dough. Spoon-sized dollops baked until golden, brushed with egg and milk wash, sprinkled with parmesan. Serve warm or freeze for later. Watch for dough pulling away from pan edges as doneness cue. Slightly adjusted bake and prep times. Vegetarians get a hearty cheesy bite. A classic snack turned more rustic by minor tweaks and substitutions. Gruyère offers nuttier profile over original cheese. Keeps well frozen. Good for making ahead."
-metaDescription: "Cheesy Gruyère Gougères with nutty cheese, crisp tops and airy insides. Spoon-dropping rustic choux baked low for golden puffed bites, freeze friendly."
-ogDescription: "Rustic Gougères, Gruyère rich, crisp edges, airy crumb inside. Spoon-drop dough, egg wash, parmesan crunch, baked slow for golden crust. Freeze-ready."
-focusKeyphrase: "Cheesy Gruyère Gougères"
+description: "Crispy choux pastry gougères loaded with nutty Gruyère cheese. Bake golden, brush with egg wash, and serve warm or freeze ahead for easy entertaining."
+metaDescription: "Make gougères gruyere at home: choux pastry with melted cheese, golden-baked, and ready in under an hour. Freeze ahead for parties."
+ogDescription: "Gruyère gougères: warm, cheesy choux pastry bites that freeze beautifully. Rustic French snack made simple at home."
+focusKeyphrase: "gougeres gruyere"
 date: 2025-09-25
 draft: false
 image: cheesy-gruyere-gougeres.jpg
@@ -21,9 +21,11 @@ tags:
 - "french"
 - "homemade"
 keywords:
-- "gougères"
-- "Gruyère cheese"
-- "cheese puffs"
+- "gougeres gruyere"
+- "gruyere gougere"
+- "choux pastry cheese"
+- "cheesy appetizers baked"
+- "french cheese gougeres"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "120"

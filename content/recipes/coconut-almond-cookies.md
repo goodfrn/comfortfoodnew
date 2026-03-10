@@ -1,10 +1,10 @@
 ---
-title: "Coconut Almond Cookies"
+title: "Coconut Almond Cookies with Almond Flour"
 slug: "coconut-almond-cookies"
-description: "Crispy coconut cookies with a twist of almond and cinnamon. Uses desiccated coconut, almond flour instead of all-purpose, and aquafaba replaces egg whites. Slightly less sugar. Baked at 175 °C for gentle browning."
-metaDescription: "Coconut Almond Cookies are crispy treats packed with coconut, almond flour, and a hint of cinnamon, perfect for a vegan dessert."
-ogDescription: "Deliciously crispy Coconut Almond Cookies. Made with almond flour, desiccated coconut, and aquafaba for a hearty vegan snack."
-focusKeyphrase: "Coconut Almond Cookies"
+description: "Crispy coconut almond cookies made with almond flour, desiccated coconut, and aquafaba. Naturally sweetened with less sugar, baked gently at 175°C for perfect texture."
+metaDescription: "Coconut almond cookies recipe using almond flour and aquafaba instead of eggs. Crispy, less sugar, baked low and slow. Try it tonight."
+ogDescription: "Crispy coconut almond cookies made with almond flour. Aquafaba replaces eggs, less sugar, gently baked. A smarter take on the classic."
+focusKeyphrase: "coconut almond cookies"
 date: 2025-07-16
 draft: false
 image: coconut-almond-cookies.jpg
@@ -21,9 +21,12 @@ tags:
 - "almond"
 - "cinnamon"
 keywords:
-- "coconut"
-- "almond"
-- "vegan"
+- "coconut almond cookies"
+- "almond flour coconut flour cookies"
+- "almond meal coconut cookies"
+- "coconut flour cookies vegan"
+- "almond and coconut cookies"
+- "almond coconut cookie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "120"

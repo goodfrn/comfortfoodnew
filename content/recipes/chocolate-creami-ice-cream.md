@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Creami Ice Cream"
+title: "Chocolate Ninja Creami Ice Cream Recipe"
 slug: "chocolate-creami-ice-cream"
-description: "Cream cheese softened or nuked briefly blends with cocoa, sugar, and a cream-milk mix. Freeze in a specialized pint without lid to avoid blade-damaging humps. Spin with Ninja Creami, aiming for that dense, creamy scoop that won’t fail. Blend cycles cut short or mix by hand, a whisk’s your best friend if no blender. Perfect for mix-ins, stirred with a gentle hole through the center, then rerun briefly. Keep things chill, trust your eyes and feel for texture before adding time or flavor. Useful tips for substitutions and troubleshooting included."
-metaDescription: "Dense creamy Chocolate Creami Ice Cream spins fast in Ninja. Softened cream cheese and Dutch cocoa with milk blend frozen flat no lid. Mix-ins handled with care."
-ogDescription: "Dense scoop, no lumps. Cream cheese, cocoa, sugar fused, frozen flat. Ninja spin timed tight. Mix-ins sunk gently. Freeze long, no lid, no dome. Texture clues rule."
-focusKeyphrase: "Chocolate Creami Ice Cream"
+description: "Cream cheese and cocoa blend into dense, creamy scoops with your Ninja Creami. Skip the lid, nail the texture, and master mix-ins with this straightforward method."
+metaDescription: "Chocolate Ninja Creami ice cream: cream cheese base, cocoa blend, and Creami technique for smooth results. Make it tonight."
+ogDescription: "Cream cheese chocolate ice cream for your Ninja Creami. Dense, creamy scoops without the guesswork."
+focusKeyphrase: "chocolate ninja creami"
 date: 2025-10-12
 draft: false
 image: chocolate-creami-ice-cream.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
-- "Chocolate Creami"
-- "cream cheese ice cream"
-- "Ninja Creami recipe"
+- "chocolate ninja creami"
+- "ninja creami recipes chocolate"
+- "mint chocolate chip ninja creami"
+- "ninja creami chocolate"
+- "creami ice cream recipe"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "450"

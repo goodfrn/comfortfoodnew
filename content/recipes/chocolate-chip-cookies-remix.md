@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Chip Cookies Remix"
+title: "Chocolate Chip Cookies with Cocoa Powder"
 slug: "chocolate-chip-cookies-remix"
-description: "Rich chocolate cookie dough, fudgy and dense but still tender. Cocoa powder swapped for Dutch-processed for deeper flavor. Cornstarch replaced with tapioca starch for chew. Slightly less sugar, swapped heavy cream for half-and-half to lighten. Chill crucial for controlling spread. Watch dough texture not too dry or greasy. Bake until edges firm, centers still puffed, sprinkle extra chips hot off tray for that melty hit. Moist, soft crumb inside, crackly crust outside. Learned timing by finger tests, not clock. Egg whites beaten separately for air, folded in gently. Vintage mixer hums, butter soft but not melted, sugar granular yet blended. The smell? Brown sugar caramel, legit warmth in kitchen. Cookies for dunking, not just snacking. Sodium bicarb and baking powder combo balances rise without bitter note. Real talk: avoid overmixing gluten forming toughness."
-metaDescription: "Chocolate Chip Cookies Remix with Dutch-processed cocoa and tapioca starch. Soft crumb, crackly crust, chilled dough controls spread and texture."
-ogDescription: "Dense, fudgy cookies with chewy crumb and crackly top. Chilling dough, folded egg whites, and Dutch cocoa make all difference. Watch edges, smell caramel."
-focusKeyphrase: "chocolate chip cookies"
+description: "Fudgy chocolate chip cookies made with Dutch-processed cocoa powder for deep flavor. Tapioca starch adds chew, less sugar keeps them tender. Bake until edges firm, centers puffed."
+metaDescription: "Chocolate chip cookies with cocoa powder recipe. Dutch-processed cocoa, tapioca starch, and careful baking technique for fudgy centers and crispy edges. Try it tonight."
+ogDescription: "Dense, fudgy chocolate chip cookies made with Dutch-processed cocoa powder. Tapioca starch replaces cornstarch for better chew and texture."
+focusKeyphrase: "chocolate chip cookies with cocoa powder"
 date: 2026-01-11
 draft: false
 image: chocolate-chip-cookies-remix.jpg
@@ -21,9 +21,14 @@ tags:
 - "homemade"
 - "dessert"
 keywords:
-- "chocolate chip cookies"
-- "Dutch cocoa"
-- "tapioca starch"
+- "chocolate chip cookies with cocoa powder"
+- "chocolate cookie cocoa powder"
+- "cocoa powder cookie recipes"
+- "dutch chocolate cookies recipe"
+- "chocolate cookie recipes with cocoa powder"
+- "chocolate cookies using cocoa powder"
+- "chocolate powder cookies"
+- "simple chocolate cookies with cocoa powder"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "182"

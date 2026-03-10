@@ -1,10 +1,10 @@
 ---
-title: "Creamy Banana Pudding"
+title: "Creamy Banana Pudding Recipe with Shortbread"
 slug: "creamy-banana-pudding"
-description: "A creamy banana pudding layered with crumbly shortbread and fresh banana slices. The pudding uses a combination of egg yolks and a whole egg for richness, thickened gently on low heat to avoid curdling. Fold in butter and vanilla for depth. Chill to let flavors meld and cookies soften. Whipped cream topping adds lightness. A classic dessert with a subtle twist using cornstarch instead of flour, offering a silkier texture. Easy to make, rewarding every spoonful with creamy sweetness, soft crunch, and fruity brightness."
-metaDescription: "Creamy Banana Pudding layered with crumbled shortbread and fresh banana slices. Thickened with cornstarch and rich egg yolks, chilled to meld flavors and soften cookies."
-ogDescription: "Layered banana pudding with shortbread crunch and silky cornstarch-thickened custard. Chill well for soft cookies and bright banana flavor. Whipped cream tops it off."
-focusKeyphrase: "banana pudding"
+description: "Creamy banana pudding layered with shortbread and fresh banana slices. Silky custard made with egg yolks, thickened gently to avoid curdling, then folded with butter and vanilla. Chill until flavors meld and cookies soften."
+metaDescription: "Creamy banana pudding recipe with shortbread layers and a silky custard base. Made with egg yolks and butter for richness. Try it tonight."
+ogDescription: "Creamy banana pudding with shortbread crunch and a silky custard. Layer, chill, top with whipped cream. Simple and rewarding."
+focusKeyphrase: "creamy banana pudding recipe"
 date: 2025-12-09
 draft: false
 image: creamy-banana-pudding.jpg
@@ -21,9 +21,11 @@ tags:
 - "no bake"
 - "vanilla"
 keywords:
-- "banana pudding"
-- "cornstarch pudding"
-- "shortbread cookies"
+- "creamy banana pudding recipe"
+- "creamy banana pudding"
+- "banana pudding heavy cream"
+- "banana pudding with shortbread"
+- "custard banana pudding"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "310"

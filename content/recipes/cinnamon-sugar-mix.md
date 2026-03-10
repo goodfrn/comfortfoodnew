@@ -1,9 +1,10 @@
 ---
-title: "Cinnamon Sugar Mix"
+title: "Cinnamon Sugar Mix Recipe"
+focusKeyphrase: "cinnamon sugar mix"
 slug: "cinnamon-sugar-mix"
-description: "A quick blend of sugar and cinnamon to sprinkle or bake into treats. Uses slightly less sugar than usual to keep it from getting grainy or overpoweringly sweet. Substituted brown sugar for white for a deeper note; balances cinnamon's bite with subtle caramel tones. Stored airtight to hold freshness and prevent clumping. Perfect for tops of toast, pies, or dusting coffee or oatmeal. Mix once, keep handy. No cooking required. Adjust quantities as you go. Moisture kills the mix—watch your bowl before storing. Rescues tired desserts."
-metaDescription: "Cinnamon Sugar Mix with brown sugar and ground cinnamon. Simple blend stored airtight to keep fresh. Use for toast, pies, coffee dusting. No cooking needed."
-ogDescription: "Quick cinnamon sugar mix using brown sugar for chewiness. Store airtight to avoid clumps. Swap half cinnamon with nutmeg or cardamom for twist."
+description: "A simple cinnamon and sugar mix that won't clump or turn grainy. Brown sugar adds depth. Store airtight and use for toast, pies, coffee, or dessert toppings."
+metaDescription: "Cinnamon sugar mix recipe with brown sugar for deeper flavor. No cooking needed. Stays fresh airtight. Perfect for any dessert topping."
+ogDescription: "Make your own cinnamon sugar mix at home. Brown sugar version that stays fresh and never clumps."
 focusKeyphrase: "cinnamon sugar mix"
 date: 2026-01-02
 draft: false
@@ -20,9 +21,11 @@ tags:
 - "condiment"
 - "easy"
 keywords:
-- "cinnamon sugar"
-- "brown sugar spice"
-- "homemade sweet mix"
+- "cinnamon sugar mix"
+- "cinnamon and sugar mix"
+- "cinnamon & sugar mix"
+- "cinnamon and sugar mixture"
+- "churro mix recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "195"

@@ -1,10 +1,10 @@
 ---
-title: "Chilled Almond Soup"
+title: "Chilled Almond Soup Recipe"
 slug: "chilled-almond-soup"
-description: "A nutty and refreshing soup. Uses almonds, garlic, and chicken broth. No dairy. Garnished with bread and grapes. A variation on traditional gazpacho."
-metaDescription: "Chilled Almond Soup. Nutty, refreshing soup packed with flavor. Perfect for warm days and easy to prepare with few ingredients."
-ogDescription: "Chilled Almond Soup. A delicious blend of garlic and almonds, served cold with a crunchy topping of toasted bread and sweet grapes."
-focusKeyphrase: "Chilled Almond Soup"
+description: "Creamy chilled almond soup made with garlic and chicken broth—no dairy needed. Topped with crispy bread and grapes for a refreshing cold soup."
+metaDescription: "Make chilled almond soup at home. Nutty, dairy-free, and served cold with bread and grapes. Try it tonight."
+ogDescription: "A nutty, dairy-free chilled almond soup served cold. Garlic, broth, crispy bread, grapes."
+focusKeyphrase: "chilled almond soup"
 date: 2025-07-16
 draft: false
 image: chilled-almond-soup.jpg
@@ -19,9 +19,11 @@ tags:
 - "almond"
 - "mediterranean"
 keywords:
-- "almond soup"
-- "gazpacho variation"
-- "vegetable stock soup"
+- "chilled almond soup"
+- "cold almond soup"
+- "dairy-free soup"
+- "cold gazpacho variation"
+- "almond soup recipe"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "300"

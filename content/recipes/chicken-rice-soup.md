@@ -1,10 +1,10 @@
 ---
-title: "Chicken Rice Soup-Meal"
+title: "Chicken and Rice Soup Recipe"
 slug: "chicken-rice-soup"
-description: "A hearty chicken and rice broth with tender vegetables and peppery greens. Cooked slowly until rice swells, colors blend, aromas lift. Uses paprika for subtle warmth, Herbes salées add depth. Swapped plain water with broth for richness. Roquette substitutes for baby spinach. Timing flexible, watch textures not clocks. Chunky chicken pieces add heft. No dairy, nuts, or eggs—friendly for many diets. Simple, easy to tweak, forgiving in cooking times. Rustic, straightforward. Feed four with leftovers. Ideal when cold hits or when craving home style, soul-warming soup. Rustic bread optional but highly recommended. Satisfying, comforting, no flash. It’s about patience, familiarity, and that first rich spoonful punch."
-metaDescription: "Chicken Rice Soup-Meal rich with smoked paprika, tender veggies, arugula brightness. Slow simmer, watch textures, hearty broth base. Feed four plus leftovers."
-ogDescription: "Savory chicken broth with thin carrots, celery, and smoky paprika. Arugula added late to keep bite. Cook rice fully in broth, no mush. Rustic, filling bowl."
-focusKeyphrase: "Chicken rice soup"
+description: "Slow-cooked chicken and rice soup with tender vegetables and peppery greens. Rich broth, paprika warmth, and Herbes salées depth. Feeds four with leftovers."
+metaDescription: "Chicken and rice soup recipe with slow-cooked chicken, swollen rice, and peppery greens. Rustic, forgiving, soul-warming. Try it tonight."
+ogDescription: "Slow-cooked chicken and rice soup. Tender chicken, swollen rice, peppery greens. Rich broth, paprika warmth. Feeds four easily."
+focusKeyphrase: "chicken and rice soup"
 date: 2025-09-29
 draft: false
 image: chicken-rice-soup.jpg
@@ -21,12 +21,11 @@ tags:
 - "rice"
 - "homemade"
 keywords:
-- "chicken broth"
-- "parboiled rice"
-- "Herbes salées"
-- "smoked paprika"
-- "arugula"
-- "hearty soup"
+- "chicken and rice soup"
+- "chicken and rice soup recipe"
+- "chicken rice soup recipe"
+- "slow cooker chicken & rice"
+- "chicken lemon rice soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"

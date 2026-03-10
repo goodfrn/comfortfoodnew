@@ -1,10 +1,10 @@
 ---
-title: "Creamy Chicken Gnocchi Soup"
+title: "Creamy Chicken Gnocchi Soup Recipe"
 slug: "creamy-chicken-gnocchi-soup"
-description: "Butter, aromatics soften till just tender, garlic wakes kitchen. Flour stirs in, makes roux. Chicken chunks tumble with Italian herbs, nutmeg for warm depth. Broth simmers low, rich base building flavors slowly. Gnocchi browned crisp separately, adds texture contrast in final bowl. Cheese melts in, seasoning tweaks with salt and pepper, cream joins for velvet touch. Spinach wilts bright green, lemon zest freshens. Hearty, layered soup balancing creamy and chewy surprises."
-metaDescription: "Creamy Chicken Gnocchi Soup rich with tender chicken, sautéed veggies, browned gnocchi crisp, warm nutmeg touch, fresh spinach, and bright lemon zest finish."
-ogDescription: "Savor layers of textures—soft chicken, browned gnocchi, wilted spinach, nutmeg warmth, lemon zest punch in a creamy, hearty chicken gnocchi soup bowl."
-focusKeyphrase: "chicken gnocchi soup"
+description: "Creamy chicken gnocchi soup with crispy pan-fried gnocchi, tender chicken, and bright spinach. Rich broth, nutmeg warmth, lemon finish. Ready in one pot."
+metaDescription: "Creamy chicken gnocchi soup recipe with pan-fried gnocchi, Italian herbs, and spinach. Silky broth, layered flavors. Make it tonight."
+ogDescription: "Creamy chicken gnocchi soup—butter-soft aromatics, crispy gnocchi, tender chicken, spinach wilted in rich broth. One pot, real depth."
+focusKeyphrase: "creamy chicken gnocchi soup"
 date: 2025-10-28
 draft: false
 image: creamy-chicken-gnocchi-soup.jpg
@@ -21,9 +21,11 @@ tags:
 - "cheese"
 - "easy dinner"
 keywords:
-- "chicken gnocchi"
-- "creamy soup"
-- "Italian herbs"
+- "creamy chicken gnocchi soup"
+- "chicken gnocchi recipe"
+- "cream of chicken gnocchi soup"
+- "chicken and gnocchi recipe"
+- "creamy gnocchi soup recipe"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "370"

@@ -1,10 +1,10 @@
 ---
-title: "Creamy Italian Dressing Remix"
+title: "Creamy Italian Dressing Recipe with Shallots"
 slug: "creamy-italian-dressing"
-description: "Whisk together slightly altered ingredients for a creamy, tangy Italian dressing. Mayo base, garlic swapped for shallots adds subtle zing. Minced carrot traded for celery for texture twist. Lemon juice and vinegar balance acidity alongside a hint of orange zest. Italian seasoning and a touch of honey push flavor forward. Worcestershire remains for umami; sugar reduced slightly. Chill briefly but rely mostly on aroma and texture cues to judge readiness. Serve on greens or use as dip. Common swaps and mishaps noted. No rigid timings here, just sensory signals for success."
-metaDescription: "Creamy Italian Dressing Remix mixes mayo, minced shallots, celery, and orange zest for bright tangy flavor. Chill till whisk leaves ribbon, then serve chilled."
-ogDescription: "Mayo base with minced shallots and celery. Orange zest swaps lemon for bright, soft tang. Whisk thick, chill brief. Use on greens, dip, sandwiches."
-focusKeyphrase: "Creamy Italian Dressing Remix"
+description: "Make homemade creamy italian dressing with mayo, shallots, and celery. Tangy lemon juice, vinegar, and a hint of orange zest create balanced flavor. Perfect for salads or as a dip."
+metaDescription: "Creamy italian dressing recipe made at home with shallots and celery. Tangy, balanced flavor for salads and dips. Try it tonight."
+ogDescription: "Homemade creamy italian dressing with shallots, celery, and orange zest. Tangy and balanced for any salad."
+focusKeyphrase: "creamy italian dressing recipe"
 date: 2025-12-04
 draft: false
 image: creamy-italian-dressing.jpg
@@ -21,9 +21,11 @@ tags:
 - "vegetarian"
 - "easy"
 keywords:
-- "Italian salad dressing"
-- "creamy dressing"
-- "homemade dressing"
+- "creamy italian dressing recipe"
+- "homemade creamy italian dressing"
+- "creamy italian salad dressing recipe"
+- "creamy italian dressing ingredients"
+- "creamy italian pasta salad dressing"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "140"

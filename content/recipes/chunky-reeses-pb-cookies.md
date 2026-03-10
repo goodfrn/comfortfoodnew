@@ -1,10 +1,10 @@
 ---
-title: "Chunky Reese's PB Cookies"
+title: "Chunky Reese's Peanut Butter Cookies"
 slug: "chunky-reeses-pb-cookies"
-description: "Buttery, slightly crisp edges with dense chewy centers loaded with peanut butter and chopped Reese's cups. The dough is balanced with light brown and powdered sugar, making for nuanced sweetness. Baking cues rely on color and texture, not clock. Topping melted Reese’s peanut butter chips with a hint of coconut oil adds sheen and a melty, glossy finish. Chopped candies both inside and sprinkled on top give textural contrast and bursts of chopped peanut crunch. Variations include swapping cream of tartar for a bit of vinegar or lemon juice, and light brown sugar can be replaced with demerara for crunch. Cookies hold well in an airtight container for days or freeze-dried for months. Experience shows spacing cookies is key; overcrowding = flat, oily mess."
-metaDescription: "Chunky Reese’s PB Cookies with chewy centers and crisp edges, loaded with peanut butter, chopped candies, and glossy melted chip topping for texture bursts."
-ogDescription: "Dense peanut butter cookie dough with pockets of chopped Reese’s, topped with glossy peanut butter chip glaze and coconut oil for shine and snap."
-focusKeyphrase: "Reese’s peanut butter cookies"
+description: "Buttery cookies loaded with chopped Reese's cups and peanut butter chips. Crisp edges, chewy centers, and a glossy melted topping. Bake by color, not time."
+metaDescription: "Reese's peanut butter cookies with chunky candy pieces. Dense chewy centers, crisp edges, melted peanut butter chip topping. Recipe inside."
+ogDescription: "Chunky Reese's peanut butter cookies with crisp edges and chewy centers. Loaded with candies and topped with melted peanut butter chips."
+focusKeyphrase: "reese's peanut butter cookies"
 date: 2026-01-18
 draft: false
 image: chunky-reeses-pb-cookies.jpg
@@ -21,9 +21,15 @@ tags:
 - "candy"
 - "dessert"
 keywords:
-- "peanut butter cookies"
+- "reese's peanut butter cookies"
+- "peanut butter reeses cups"
+- "peanut butter cup cookies"
+- "reese cup cookies recipe"
+- "peanut butter cookies with pb cups"
+- "reese's peanut butter baking chips"
 - "chunky peanut butter cookies"
-- "Reese’s peanut butter cups"
+- "reese's chocolate cookies"
+- "cookie recipe with reese's peanut butter cups"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"

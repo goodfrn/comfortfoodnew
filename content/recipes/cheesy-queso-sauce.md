@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Queso Sauce"
+title: "Mexican White Cheese Dip Sauce"
 slug: "cheesy-queso-sauce"
-description: "Butter gently melts, flour forms paste. Milk bubbles whisked in, thickening slow but sure. Cheese thrown in like a last-minute brainstorm, melty, stringy, salty goodness. Salt adds punch; more milk tweaks body, all by feel and sight. Eight servings of dip with subtle twists to spice and texture. Classic base adjusted for kitchen quirks and mad busy cooks. Reliable, quickish, creamy. Cheese choice swapped sharp cheddar for Monterey Jack for mellower melt. Flour amount nudged down. Cook times flexed for bubbling and thickness instead of strict minutes. It’s about watching, touching, tasting. Every batch a little different but always worth it."
-metaDescription: "Cheesy Queso Sauce with Monterey Jack, buttery roux, gentle whisking, bubbling milk, and subtle spice twists. Creamy dip texture adapts to your kitchen pace."
-ogDescription: "Melty jack cheese stirred into a buttery roux, milk steamed to bubbles, thickened slow. Jalapeño or paprika tweaks optional. Dip thickens on cooling."
-focusKeyphrase: "cheesy queso sauce"
+description: "Creamy queso sauce with Monterey Jack melts smooth in minutes. Restaurant-style cheese dip that thickens by feel, not the clock. Make it tonight."
+metaDescription: "Mexican white cheese dip sauce recipe. Monterey Jack base melts smooth and creamy. Skip the stringy mess. Try it tonight."
+ogDescription: "Butter, flour, milk, cheese. That's it. Restaurant-style queso sauce that actually melts right."
+focusKeyphrase: "mexican white cheese dip sauce"
 date: 2025-12-31
 draft: false
 image: cheesy-queso-sauce.jpg
@@ -21,9 +21,11 @@ tags:
 - "easy"
 - "comfort food"
 keywords:
-- "queso sauce"
-- "cheese dip"
-- "Monterey Jack cheese"
+- "mexican white cheese dip sauce"
+- "mexican restaurant style cheese dip"
+- "salsa con queso cheese dip"
+- "queso sauce recipe"
+- "creamy cheese dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "220"

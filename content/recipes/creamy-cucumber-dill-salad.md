@@ -1,10 +1,11 @@
 ---
 title: "Creamy Cucumber Dill Salad"
+title: "Creamy Cucumber Dill Salad"
 slug: "creamy-cucumber-dill-salad"
-description: "Thin cucumber slices salted to draw out water. Sour cream dressing with apple cider vinegar, a touch of sugar, garlic, and fresh dill. Salt doses slightly altered for balance. Chill to let flavors marry. Substituting ranch seasoning for garlic powder twist. Total time shrunk slightly. Visual cues for moisture loss and dressing consistency emphasized. Experience-driven tips for texture and aroma. Common pitfalls like sogginess and blandness tackled with practical fixes."
-metaDescription: "Creamy Cucumber Dill Salad with salted cucumbers, sour cream dressing, ranch hint, fresh dill. Crisp texture through chilling and well-drained slices."
-ogDescription: "Cold cucumber salad tossed with sour cream, apple cider vinegar, ranch, dill. Salt pulls water out; chill to firm up flavors and textures."
-focusKeyphrase: "Creamy Cucumber Dill Salad"
+description: "Thin-sliced cucumbers salted to release water, tossed with sour cream dressing, apple cider vinegar, fresh dill, and garlic. Chill to marry flavors. Texture and balance tips included."
+metaDescription: "Creamy cucumber dill salad with sour cream, fresh dill, and apple cider vinegar. Make it tonight with our texture and timing tips."
+ogDescription: "Crisp cucumbers in a tangy sour cream dressing with fresh dill. Salting technique keeps it from getting soggy."
+focusKeyphrase: "creamy cucumber dill salad"
 date: 2025-12-06
 draft: false
 image: creamy-cucumber-dill-salad.jpg
@@ -21,9 +22,14 @@ tags:
 - "summer"
 - "side dish"
 keywords:
-- "cucumber salad"
-- "sour cream dressing"
-- "salted cucumbers"
+- "creamy cucumber salad"
+- "cucumber dill salad"
+- "cucumber and sour cream salad"
+- "creamy cucumber and dill salad"
+- "cucumber salad sour cream"
+- "sour cream cucumber dill"
+- "cucumber and dill salad recipe"
+- "creamy cucumbers"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "114"

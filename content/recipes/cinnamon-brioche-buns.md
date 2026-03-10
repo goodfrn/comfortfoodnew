@@ -1,10 +1,10 @@
 ---
-title: "Cinnamon Brioche Buns"
+title: "Cinnamon Brioche Buns with Caramel"
 slug: "cinnamon-brioche-buns"
-description: "Sticky buns made from enriched brioche dough. Cinnamon sugar filling, caramel squares topping. Optional cream cheese glaze. Adjusted ingredients with brown sugar replaced by maple sugar and corn syrup replaced by honey for a different flavor. Dough enriched with an extra egg. Fermentation longer or shorter by 5 to 10 minutes. Eight servings."
-metaDescription: "Cinnamon Brioche Buns. Soft, sticky goodness filled with cinnamon sugar and topped with caramel. Perfect treat for a cozy morning."
-ogDescription: "Indulge in Cinnamon Brioche Buns. Rich brioche dough, cinnamon filling, and caramel topping. Treat yourself to pure comfort."
-focusKeyphrase: "Cinnamon Brioche Buns"
+description: "Sticky cinnamon brioche bun recipe with enriched dough, cinnamon sugar filling, and caramel topping. Make soft, tender buns at home with optional cream cheese glaze."
+metaDescription: "Brioche cinnamon bun recipe with caramel squares and cream cheese glaze option. Rich, tender dough with maple sugar and honey. Save this one."
+ogDescription: "Sticky brioche cinnamon buns with caramel topping. Enriched dough, cinnamon sugar filling, optional cream cheese glaze. Eight servings."
+focusKeyphrase: "brioche cinnamon bun"
 date: 2025-07-23
 draft: false
 image: cinnamon-brioche-buns.jpg
@@ -21,9 +21,11 @@ tags:
 - "breakfast"
 - "homemade"
 keywords:
-- "cinnamon"
-- "brioche"
-- "caramel"
+- "brioche cinnamon bun"
+- "brioche cinnamon bun recipe"
+- "cinnamon rolls with brioche dough"
+- "cinnamon roll brioche"
+- "brioche sweet rolls"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "420"

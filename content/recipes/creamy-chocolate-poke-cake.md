@@ -1,10 +1,10 @@
 ---
-title: "Creamy Chocolate Poke Cake"
+title: "Creamy Chocolate Poke Cake Recipe"
 slug: "creamy-chocolate-poke-cake"
-description: "Yellow butter cake baked till just golden. Poked holes filled with vanilla pudding mixed with whole milk and a hint of almond extract not vanilla. Chilled for an hour letting pudding seep. Melted bittersweet and milk chocolate with cream and butter creates a rich ganache poured generously over top. Refrigerated again till set, textures marry. Slices yield moist layers, pudding pockets, with shiny chocolate topping. Adjusted baking and chilling times for a reliable moist crumb. Nutrition moderate considering butter and chocolate mix."
-metaDescription: "Creamy Chocolate Poke Cake with golden butter base, pockets of almond-vanilla pudding, topped in rich bittersweet-milk ganache. Moist, layered, textured delight."
-ogDescription: "Dense butter cake punctured with vanilla-almond pudding, sealed under bittersweet and milk chocolate ganache. Chilled layers, moist bites, texture that sticks with you."
-focusKeyphrase: "Creamy Chocolate Poke Cake"
+description: "Chocolate poke cake with vanilla pudding soaked into butter cake, topped with rich bittersweet ganache. Moist layers, pudding pockets, and silky chocolate finish."
+metaDescription: "Chocolate poke cake recipe with creamy vanilla pudding filling and ganache topping. Make it tonight for moist, indulgent results."
+ogDescription: "Golden butter cake soaked with creamy pudding, crowned with rich chocolate ganache. Moist, decadent poke cake."
+focusKeyphrase: "chocolate poke cake"
 date: 2025-10-07
 draft: false
 image: creamy-chocolate-poke-cake.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy"
 keywords:
-- "poke cake"
-- "chocolate ganache"
-- "instant vanilla pudding"
+- "chocolate poke cake"
+- "chocolate poke cake recipe"
+- "chocolate poke cake with pudding"
+- "poke cake with chocolate pudding"
+- "chocolate poke cake with chocolate pudding"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "410"

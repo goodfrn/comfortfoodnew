@@ -1,10 +1,10 @@
 ---
-title: "Charred Red Pepper Dip"
+title: "Charred Red Pepper Dip Recipe"
 slug: "charred-red-pepper-dip"
-description: "Roasted red peppers turned into a creamy, tangy spread with olive oil and sherry vinegar. Uses golden bell peppers instead of all reds for balance. Subtle smoked paprika adds depth. Oven roast for colour and crackling skin, then peel — that texture contrast matters. Blend until just smooth for a rustic touch, not puree. Salt and pepper tuned at the end. Serve with crunchy rustic bread or crudités. No nuts, dairy, gluten, or eggs. Vegan and allergy-friendly. Took many tries to master the roasting timing; watch for blistered skin bubbling and slight char. Peeling hot peppers steams them gently, easy to remove skin. Keeps a week refrigerated sealed."
-metaDescription: "Charred Red Pepper Dip with roasted skins blistered and peeled; smoky paprika, olive oil, sherry vinegar for balanced tang and texture. Rustic, vegan spread."
-ogDescription: "Blister red and golden peppers until crackling; peel tight skins after steam trap. Blend chunky not puree. Smoky spice and tang with olive oil richness."
-focusKeyphrase: "charred red pepper dip"
+description: "Roasted red pepper dip with golden peppers, sherry vinegar, and smoked paprika. Vegan, creamy, and tangy—serve with bread or crudités. Keeps a week refrigerated."
+metaDescription: "Charred red pepper dip recipe—creamy, tangy, vegan. Golden and red peppers roasted until blistered, blended with olive oil and smoked paprika. Try it tonight."
+ogDescription: "Charred red pepper dip that's creamy and tangy. Roasted peppers with smoked paprika, vegan and allergy-friendly. Perfect for bread or crudités."
+focusKeyphrase: "red pepper dip"
 date: 2025-08-19
 draft: false
 image: charred-red-pepper-dip.jpg
@@ -20,9 +20,11 @@ tags:
 - "roasted"
 - "gluten free"
 keywords:
-- "red bell peppers"
-- "sherry vinegar"
-- "roasting peppers"
+- "red pepper dip"
+- "roasted red pepper dip"
+- "muhammara"
+- "red pepper dip recipe"
+- "charred red pepper dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "120"

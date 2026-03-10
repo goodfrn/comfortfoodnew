@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Pigs In Blanket"
+title: "Cheesy Pigs in a Blanket Recipe"
 slug: "cheesy-pigs-in-blanket"
-description: "Wieners wrapped in crescent dough with melted cheese inside. Baked until golden brown, topped with sesame seeds when available. Egg wash adds shine and crunch but optional. Serve with your favorite dips. Great for snacks or casual gatherings. The cheese melts within, creating pockets of savory gooeyness inside the flaky dough. The aroma of baked dough mingles with smoky sausage and sharp cheese. Easy to pull together, no fancy equipment. Can use different cheeses or even hot dogs instead of cocktail sausages. A simple formula that teaches dough handling and layering flavors. Watch for browning as your oven may run hotter or cooler. The dough’s puffiness signals the right moment to pull out. Classic party food, but made with a little twist for depth."
-metaDescription: "Cheesy Pigs In Blanket wrapped in crescent dough with melted cheese inside. Golden crust with optional egg wash and sesame seeds. Great snack or party bite."
-ogDescription: "Cocktail wieners rolled in crescent dough with cheddar cheese, baked to golden brown. Egg wash and sesame seeds add crunch and shine when used. Try with dips."
-focusKeyphrase: "Cheesy Pigs In Blanket"
+description: "Cocktail sausages wrapped in crescent dough with melted cheese inside, baked until golden. Crispy outside, gooey cheese pockets within. Ready in 20 minutes."
+metaDescription: "Cheesy pigs in a blanket with melted cheese inside crescent rolls. Baked golden and crispy. Easy appetizer ready in 20 minutes. Try it tonight."
+ogDescription: "Sausages wrapped in flaky dough with melted cheese. Baked until golden brown and crispy outside, gooey inside."
+focusKeyphrase: "cheesy pigs in a blanket"
 date: 2025-10-27
 draft: false
 image: cheesy-pigs-in-blanket.jpg
@@ -21,9 +21,11 @@ tags:
 - "party"
 - "easy"
 keywords:
-- "pigs in a blanket"
-- "cheddar cheese rolls"
-- "party finger food"
+- "cheesy pigs in a blanket"
+- "cheesy pigs in blankets"
+- "cheese pigs in a blanket recipe"
+- "pigs in a blanket with cheese"
+- "sausage appetizer recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "150"

@@ -1,10 +1,10 @@
 ---
-title: "Creamy Pasta Delight"
+title: "Creamy Spinach Artichoke Pasta"
 slug: "creamy-pasta-delight"
-description: "A rich pasta dish with a creamy artichoke and spinach sauce. Uses rigatoni, a tubular pasta that holds onto the sauce well. Fresh ingredients add brightness and texture. Perfect for a filling meal. Quick to prepare in about 30 minutes."
-metaDescription: "Creamy Pasta Delight a rich dish with artichoke and spinach sauce. Quick, filling meal perfect for weeknights in about 30 minutes."
-ogDescription: "Indulge in Creamy Pasta Delight with artichokes and kale. A rich, smooth sauce over rigatoni. Ready in 30 minutes for a comforting meal."
-focusKeyphrase: "Creamy Pasta Delight"
+description: "Creamy spinach artichoke pasta with rigatoni that catches every bit of sauce. Ready in 30 minutes with fresh ingredients and real depth."
+metaDescription: "Creamy spinach artichoke pasta recipe. Rigatoni with a rich, bright sauce that's ready in 30 minutes. Try it tonight."
+ogDescription: "Rigatoni coated in a creamy spinach and artichoke sauce. Fast, rich, tastes like you spent hours on it."
+focusKeyphrase: "creamy spinach artichoke pasta"
 date: 2025-07-16
 draft: false
 image: creamy-pasta-delight.jpg
@@ -21,9 +21,11 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "creamy pasta"
-- "easy pasta recipes"
-- "spinach dish"
+- "creamy spinach artichoke pasta"
+- "creamy spinach and artichoke pasta"
+- "spinach artichoke pasta recipe"
+- "creamy pasta with artichoke"
+- "rigatoni with spinach sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "620"
