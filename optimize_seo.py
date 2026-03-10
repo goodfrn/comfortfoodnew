@@ -33,7 +33,8 @@ SEO RULES:
 - metaDescription: 150-155 characters. PRIMARY keyword in first 10 words. 1 SECONDARY keyword. End with CTA like "Try it tonight." or "Save this one."
 - ogDescription: 100-120 characters. 1 SECONDARY keyword naturally. Punchy. No stuffing. Sounds like a human wrote it.
 - focusKeyphrase: PRIMARY keyword only — the one with highest volume that matches exactly what this recipe IS. Not generic.
-- keywords array: return up to 10 keywords (never more). First choose the best PRIMARY keyword from the provided keyword list. Then choose the strongest additional keywords based on relevance to the recipe, search volume, and diversity. Avoid near-duplicate wording variations unless they clearly deserve a slot.
+- keywords array: return up to 10 keywords. First choose the best PRIMARY keyword from the provided keyword list. Then choose the strongest additional keywords based on relevance to the recipe, search volume, and diversity. The keywords array must include both keywords used in the SEO fields and additional strong relevant keywords from the provided list, even if they are not used in title, description, metaDescription, ogDescription, or focusKeyphrase. Avoid near-duplicate wording variations unless they clearly deserve a slot.
+
 
 KEYWORD PLACEMENT LOGIC:
 - PRIMARY keyword = the best keyword from the provided list: highest search value while still matching the exact recipe
@@ -45,6 +46,7 @@ KEYWORD PLACEMENT LOGIC:
   3. distinct from each other in wording or search intent
 - Avoid wasting keyword slots on tiny wording variants of the same phrase
 - Use around 5 of the strongest keywords naturally across title, description, metaDescription, ogDescription, and focusKeyphrase combined
+- The keywords array should include both keywords used in those fields and additional strong keywords from the provided list, even if they are not used in the text.
 - Do not force awkward keywords into the text
 - Do not invent keywords that are not present in the provided keyword list.
 
@@ -125,7 +127,7 @@ def optimize_with_claude(client, title, description, kw_data):
 
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=600,
+        max_tokens=700,
         system=[{
             "type": "text",
             "text": SYSTEM_PROMPT,
