@@ -1,10 +1,10 @@
 ---
-title: "Cauliflower Couscous Twist"
+title: "Cauliflower Couscous with Apricots & Pistachios"
 slug: "cauliflower-couscous-twist"
-description: "A vibrant veggie dish riffing on cauliflower couscous, swapping celery and apricots for bell pepper and golden raisins. Ground cumin and smoked paprika spark a warm aroma. Green apple diced joins tartness; toasted pistachios bring crunch. Simmered gently until cauliflower’s tender but still with bite. Bright lemon juice and fresh parsley finish. Easy, gluten-free, dairy-free, and egg-free. Adaptable. A pantry-friendly veggie-forward side or light main. Visual cues and bite texture guide doneness, no watch-clocking. Simple swaps for allergy or availability. Rustic, layered textures and fragrant spices invite. Makes 4-6 servings, quick to put together. Sound of sizzling butter and spices, smell of fruit sweetness mingle. Cauliflower’s subtle earthiness rounds it off."
-metaDescription: "Cauliflower Couscous Twist with bell pepper, golden raisins, cumin, and lemon juice. Nutty pistachios and tart green apple add crunch. Veggie-forward, gluten-free side."
-ogDescription: "Grainy cauliflower, toasted nuts, and bursts of tart apple mingle with smoky spices. Quick veggie couscous riff that cooks gently, keeps texture right, no mush."
-focusKeyphrase: "Cauliflower couscous"
+description: "Cauliflower couscous with apricots, pistachios, and warm spices. Gluten-free side dish that's tender, tangy, and ready in minutes."
+metaDescription: "Cauliflower couscous recipe with golden raisins, toasted pistachios, and cumin. Gluten-free side that's easy and adaptable. Try it tonight."
+ogDescription: "Tender cauliflower couscous with apricots and pistachios. Warm spices, bright lemon, crispy nuts. Gluten-free and done in minutes."
+focusKeyphrase: "cauliflower couscous"
 date: 2025-08-19
 draft: false
 image: cauliflower-couscous-twist.jpg
@@ -22,9 +22,10 @@ tags:
 - "healthy"
 keywords:
 - "cauliflower couscous"
-- "golden raisins"
-- "green apple"
-- "smoked paprika"
+- "cauliflower and couscous recipe"
+- "couscous with cauliflower"
+- "gluten-free cauliflower couscous"
+- "cauliflower couscous salad"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "180"

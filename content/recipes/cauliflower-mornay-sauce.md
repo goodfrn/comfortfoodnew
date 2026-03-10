@@ -1,10 +1,10 @@
 ---
-title: "Cauliflower Mornay Sauce"
+title: "Cauliflower Mornay Sauce: Cheesy & Rich"
 slug: "cauliflower-mornay-sauce"
-description: "Cauliflower florets bathed in rich Mornay sauce made with butter, flour, milk, and melted cheddar for a cheesy twist instead of traditional gruyère. Aromatics like shallots and garlic soften in butter releasing sweet notes before slurry thickens. Nutmeg, parsley, and seasoning round depth. Visual cues guide timing; sauce thickens to coat confidently. A textured, cheesy vegetable dish. Substitutions suggested for cheese and milk. Practical tips for avoiding lumps and adjusting consistency."
-metaDescription: "Cauliflower Mornay sauce with sharp cheddar, nutmeg hints, silky roux base, and fragrant shallots. Sauce thickens just right to coat tender florets."
-ogDescription: "Mildly sweet shallots, glossy roux, sharp cheddar melting slowly. Nutmeg whispers, sauce clings to spoon, poured over warm cauliflower - all sensory cues alive."
-focusKeyphrase: "Cauliflower Mornay Sauce"
+description: "Cauliflower mornay sauce made with cheddar, butter, and milk. Skip gruyère for sharp cheddar depth. Creamy, lump-free, ready in 20 minutes."
+metaDescription: "Cauliflower mornay sauce recipe with cheddar instead of gruyère. Creamy, smooth, lump-free. Try it tonight."
+ogDescription: "Cauliflower in rich mornay sauce. Sharp cheddar, butter, milk, nutmeg. Easy, no lumps, tastes like restaurant quality."
+focusKeyphrase: "cauliflower mornay sauce"
 date: 2025-09-28
 draft: false
 image: cauliflower-mornay-sauce.jpg
@@ -21,9 +21,11 @@ tags:
 - "cauliflower"
 - "side dish"
 keywords:
-- "Mornay sauce"
-- "cauliflower recipe"
-- "cheddar cheese sauce"
+- "cauliflower mornay sauce"
+- "cauliflower mornay"
+- "cauliflower mornay recipe"
+- "mornay sauce recipe"
+- "creamy cauliflower"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "320"

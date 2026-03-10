@@ -1,10 +1,10 @@
 ---
-title: "Cauliflower Crust Pizza Remix"
+title: "Homemade Cauliflower Crust Pizza Recipe"
 slug: "cauliflower-crust-pizza"
-description: "A reinvented cauliflower crust pizza with reduced ingredients, swapped flour and cheese for lighter, nuttier alternatives. Roasting first draws out moisture, avoiding soggy crust. Fresh thyme replaces oregano, smoked paprika adds subtle heat. Baked longer for firm edges, shorter final bake keeps cheese melty. Roquette swapped for baby spinach; sun-dried tomatoes instead of fresh cherry for tang. Practical tips to dry cauliflower thoroughly; quick tips on handling soggy dough. Simple tweaks make this more rustic, flavorful. Hands-on from raw to plate, no nonsense."
-metaDescription: "Cauliflower Crust Pizza Remix with almond flour, provolone, thyme, and smoked paprika. Crispy edges, melty cheese, sun-dried tomato brightness for 2 servings."
-ogDescription: "Crunchy cauliflower crust, almond flour base. Provolone melt, thyme aroma, sun-dried tomato zing. Bake times tuned for crispy edges, gooey center."
-focusKeyphrase: "Cauliflower Crust Pizza Remix"
+description: "Make crispy homemade cauliflower crust pizza at home. Roast cauliflower first to eliminate moisture, swap flour for lighter alternatives, top with fresh herbs and sun-dried tomatoes. Avoid soggy crust."
+metaDescription: "Homemade cauliflower crust pizza that stays crispy. Roast first, use lighter flour, fresh thyme, smoked paprika. Skip the sogginess. Try it tonight."
+ogDescription: "Crispy homemade cauliflower pizza crust that actually works. Roast the cauliflower, lighter flour, real flavor. No soggy bottoms."
+focusKeyphrase: "homemade cauliflower pizza crust"
 date: 2025-08-17
 draft: false
 image: cauliflower-crust-pizza.jpg
@@ -21,9 +21,16 @@ tags:
 - "cauliflower"
 - "homemade"
 keywords:
-- "cauliflower crust"
-- "almond flour"
-- "provolone cheese"
+- "homemade cauliflower pizza crust"
+- "cauliflower crust pizza"
+- "easy cauliflower pizza crust"
+- "cauliflower pizza crust recipe"
+- "gluten free cauliflower crust pizza"
+- "cauliflower rice pizza crust"
+- "crispy cauliflower crust"
+- "cauliflower pizza crust ingredients"
+- "pizza crust from cauliflower rice"
+- "frozen cauliflower crust"
 breadcrumb: ["Home", "Recipes", "Pizza and Flatbreads"]
 nutrition: 
  calories: "310"
