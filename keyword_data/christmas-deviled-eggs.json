@@ -1,0 +1,65 @@
+{
+  "slug": "christmas-deviled-eggs",
+  "title": "Christmas Deviled Eggs Trio",
+  "seed_keyword": "deviled eggs christmas",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "deviled eggs christmas",
+        "volume": 2900,
+        "competition": 13
+      },
+      {
+        "keyword": "xmas deviled eggs",
+        "volume": 2900,
+        "competition": 13
+      },
+      {
+        "keyword": "xmas devilled eggs",
+        "volume": 2900,
+        "competition": 13
+      },
+      {
+        "keyword": "christmas tree deviled eggs",
+        "volume": 1000,
+        "competition": 69
+      },
+      {
+        "keyword": "christmas deviled egg recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "deviled eggs christmas recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "deviled eggs recipe christmas",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "deviled eggs recipe for christmas",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for christmas deviled eggs",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "christmas deviled egg platter",
+        "volume": 260,
+        "competition": 68
+      },
+      {
+        "keyword": "snowman deviled eggs",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

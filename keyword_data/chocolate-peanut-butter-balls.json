@@ -1,0 +1,25 @@
+{
+  "slug": "chocolate-peanut-butter-balls",
+  "title": "Chocolate Peanut Butter Balls",
+  "seed_keyword": "keto chocolate peanut butter balls",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "keto peanut butter ball",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "peanut butter keto balls",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "peanut butter balls low carb",
+        "volume": 320,
+        "competition": 14
+      }
+    ]
+  },
+  "processed": false
+}

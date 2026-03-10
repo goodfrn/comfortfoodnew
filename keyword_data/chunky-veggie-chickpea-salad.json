@@ -1,0 +1,75 @@
+{
+  "slug": "chunky-veggie-chickpea-salad",
+  "title": "Chunky Veggie Chickpea Couscous Salad",
+  "seed_keyword": "chickpea couscous salad",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chickpea couscous salad",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chickpea and cous cous salad",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "couscous garbanzo bean salad",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chickpea couscous recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "chickpea couscous salad recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "couscous and chickpea salad recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "moroccan chickpea and couscous salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "moroccan chickpea couscous salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "pearl couscous with creamy feta and chickpeas",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "couscous feta chickpea salad",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "couscous salad with chickpeas and feta cheese",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "couscous salad with feta and chickpeas",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "israeli chickpea salad",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

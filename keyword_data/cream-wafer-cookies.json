@@ -1,0 +1,70 @@
+{
+  "slug": "cream-wafer-cookies",
+  "title": "Cream Wafer Cookies",
+  "seed_keyword": "cream wafer cookies",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cream wafers",
+        "volume": 2400,
+        "competition": 66
+      },
+      {
+        "keyword": "wafers cream",
+        "volume": 2400,
+        "competition": 66
+      },
+      {
+        "keyword": "wafers with cream",
+        "volume": 2400,
+        "competition": 66
+      },
+      {
+        "keyword": "sandwich wafers",
+        "volume": 1000,
+        "competition": 32
+      },
+      {
+        "keyword": "betty crocker cream wafer",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "delico cream wafer stick",
+        "volume": 210,
+        "competition": 73
+      },
+      {
+        "keyword": "ice cream sandwich cookie wafer",
+        "volume": 140,
+        "competition": 77
+      },
+      {
+        "keyword": "chocolate wafer cream",
+        "volume": 140,
+        "competition": 61
+      },
+      {
+        "keyword": "creamy wafer",
+        "volume": 110,
+        "competition": 51
+      },
+      {
+        "keyword": "swedish cream wafers",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "wafer cookies and cream",
+        "volume": 110,
+        "competition": 78
+      },
+      {
+        "keyword": "white castle wafers",
+        "volume": 110,
+        "competition": 69
+      }
+    ]
+  },
+  "processed": false
+}

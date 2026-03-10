@@ -1,0 +1,35 @@
+{
+  "slug": "chocolate-creami-ice-cream",
+  "title": "Chocolate Creami Ice Cream",
+  "seed_keyword": "chocolate creami ice cream",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate ninja creami",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "mint chocolate chip ninja creami",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "ninja creami recipes chocolate",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "ninja creami mint chocolate chip",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "ninja creami chocolate",
+        "volume": 210,
+        "competition": 4
+      }
+    ]
+  },
+  "processed": false
+}

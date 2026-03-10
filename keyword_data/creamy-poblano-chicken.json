@@ -1,0 +1,40 @@
+{
+  "slug": "creamy-poblano-chicken",
+  "title": "Creamy Poblano Chicken Twist",
+  "seed_keyword": "creamy poblano chicken",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "creamy poblano chicken",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "poblano cream chicken",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy poblano chicken enchiladas",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken poblano cream sauce",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy chicken poblano",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy poblano chicken recipe",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,20 @@
+{
+  "slug": "chunky-tuna-salad",
+  "title": "Chunky Tuna Salad Twist",
+  "seed_keyword": "tuna salad with avocado mayo",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "avocado tuna salad no mayo",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna salad without mayo avocado",
+        "volume": 140,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

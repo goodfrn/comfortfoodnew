@@ -1,0 +1,35 @@
+{
+  "slug": "creamy-banana-pudding",
+  "title": "Creamy Banana Pudding",
+  "seed_keyword": "creamy banana pudding",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "banana pudding recipe with cool whip and sour cream",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pudding with cool whip and sour cream",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy banana pudding recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy banana pudding",
+        "volume": 260,
+        "competition": 11
+      },
+      {
+        "keyword": "banana pudding heavy cream",
+        "volume": 110,
+        "competition": 7
+      }
+    ]
+  },
+  "processed": false
+}

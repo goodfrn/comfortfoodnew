@@ -1,0 +1,40 @@
+{
+  "slug": "chunky-short-rib-chili",
+  "title": "Chunky Short Rib Chili",
+  "seed_keyword": "short rib chili",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "short rib chili",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "short rib chili recipe",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "rib chili",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "beef short rib chili",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "chili with beef short ribs",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "short rib chilli",
+        "volume": 110,
+        "competition": 5
+      }
+    ]
+  },
+  "processed": false
+}

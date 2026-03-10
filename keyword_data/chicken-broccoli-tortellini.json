@@ -1,0 +1,20 @@
+{
+  "slug": "chicken-broccoli-tortellini",
+  "title": "Chicken Broccoli Tortellini",
+  "seed_keyword": "chicken broccoli tortellini",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken broccoli tortellini",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and broccoli tortellini",
+        "volume": 390,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

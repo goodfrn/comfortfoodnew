@@ -1,0 +1,25 @@
+{
+  "slug": "cheesy-queso-sauce",
+  "title": "Cheesy Queso Sauce",
+  "seed_keyword": "cheesy queso sauce",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mexican white cheese dip sauce",
+        "volume": 1000,
+        "competition": 38
+      },
+      {
+        "keyword": "mexican restaurant style cheese dip",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "salsa con queso cheese dip",
+        "volume": 110,
+        "competition": 46
+      }
+    ]
+  },
+  "processed": false
+}

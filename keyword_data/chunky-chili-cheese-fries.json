@@ -1,0 +1,260 @@
+{
+  "slug": "chunky-chili-cheese-fries",
+  "title": "Chunky Chili Cheese Fries",
+  "seed_keyword": "chili cheese fries",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheese fries",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chili cheese fries",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese chilli fries",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese for chili cheese fries",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy chili fries",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chili and cheese fries",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chili cheese french fries",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chili for chili cheese fries",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chili fries cheese",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chili fries with cheese",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "french fries with chili and cheese",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chili cheese fries near me",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "chilli cheese fries",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chillicheese fries",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chili fries",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fries with chili",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chilli cheese fries near me",
+        "volume": 5400,
+        "competition": 16
+      },
+      {
+        "keyword": "chili's texas cheese fries",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chilli fries",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "texas cheese fries from chili's",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "texas cheese fries at chili's",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chili cheese fries recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "wendy's chili cheese fries",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese fries recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chili cheese french fries recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "chili recipe for chili cheese fries",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "chili fries near me",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "cheese fries chili's",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "cheese fries from chili's",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "chili cheese fries with pastrami",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "chilli cheese fries recipe",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "chilli fries near me",
+        "volume": 590,
+        "competition": 18
+      },
+      {
+        "keyword": "chile cheese fries",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "chili fries wendy's",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "del taco chili cheese fries",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "wendy's chilli cheese fries",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "best chili cheese fries",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "freddy's cheese fries",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "freddy's chili cheese fries",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "green chile cheese fries",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "loaded chili cheese fries",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chili fries recipe",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "chili's loaded fries",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "cheese fries homemade",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chili's french fries",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "fries chili",
+        "volume": 390,
+        "competition": 17
+      },
+      {
+        "keyword": "chili cheese fries sauce",
+        "volume": 320,
+        "competition": 19
+      },
+      {
+        "keyword": "chilli fries recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "best chilli cheese fries near me",
+        "volume": 320,
+        "competition": 11
+      },
+      {
+        "keyword": "chili cheese sauce for fries",
+        "volume": 320,
+        "competition": 19
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,40 @@
+{
+  "slug": "cowboy-spaghetti-twist",
+  "title": "Cowboy Spaghetti Twist",
+  "seed_keyword": "cowboy spaghetti",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cowboy spaghetti",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "cowboy spaghetti recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cowboy pasta",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cowboy spaghetti rachael ray",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti cowboy",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "cowboy spaghetti pioneer woman",
+        "volume": 170,
+        "competition": 9
+      }
+    ]
+  },
+  "processed": false
+}

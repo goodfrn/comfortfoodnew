@@ -1,0 +1,85 @@
+{
+  "slug": "checkerboard-cake",
+  "title": "Checkerboard Cake",
+  "seed_keyword": "checkerboard cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "checkerboard cake",
+        "volume": 3600,
+        "competition": 20
+      },
+      {
+        "keyword": "chequerboard cake",
+        "volume": 3600,
+        "competition": 20
+      },
+      {
+        "keyword": "checkered cake",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "checkered pattern cake",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "checkered birthday cake",
+        "volume": 1000,
+        "competition": 42
+      },
+      {
+        "keyword": "checkerboard cheesecake",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "checkerboard cake rainbow",
+        "volume": 320,
+        "competition": 20
+      },
+      {
+        "keyword": "checkerboard rainbow cake",
+        "volume": 320,
+        "competition": 20
+      },
+      {
+        "keyword": "checkered rainbow cake",
+        "volume": 320,
+        "competition": 20
+      },
+      {
+        "keyword": "checkerboard cake design",
+        "volume": 260,
+        "competition": 62
+      },
+      {
+        "keyword": "checkered cake design",
+        "volume": 260,
+        "competition": 62
+      },
+      {
+        "keyword": "checkerboard cake frosting",
+        "volume": 140,
+        "competition": 53
+      },
+      {
+        "keyword": "checkerboard cake icing",
+        "volume": 140,
+        "competition": 53
+      },
+      {
+        "keyword": "checkerboard cake square",
+        "volume": 140,
+        "competition": 8
+      },
+      {
+        "keyword": "checkered square cake",
+        "volume": 140,
+        "competition": 8
+      }
+    ]
+  },
+  "processed": false
+}

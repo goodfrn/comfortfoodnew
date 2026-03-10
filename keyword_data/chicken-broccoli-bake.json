@@ -1,0 +1,260 @@
+{
+  "slug": "chicken-broccoli-bake",
+  "title": "Chicken Broccoli Bake",
+  "seed_keyword": "chicken broccoli bake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken and rice casserole with broccoli",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken broccoli rice bake",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken casserole broccoli rice",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "casseroles with chicken and broccoli",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and broccoli bake",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "bake chicken with broccoli",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli bake chicken",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken bake with broccoli",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli and cheese casserole with chicken",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "cheesy chicken and broccoli rice bake",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken broccoli rice and cheese bake",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken casserole broccoli cheese",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for chicken casserole with broccoli",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken broccoli rice casserole recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken broccoli and rice casserole recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken and broccoli and rice casserole recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken and rice and broccoli casserole recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken broccoli casserole recipe with rice",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken broccoli bake",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "easy chicken broccoli rice casserole in oven",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "baked chicken and broccoli pasta",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked chicken broccoli pasta",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "alfredo chicken and broccoli bake",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "alfredo chicken broccoli bake",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "alfredo chicken broccoli casserole",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked broccoli chicken alfredo",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked chicken and broccoli alfredo",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked chicken fettuccine alfredo with broccoli",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli and chicken alfredo casserole",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken alfredo with broccoli bake",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken broccoli alfredo pasta bake",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken broccoli bake recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "baked chicken and broccoli recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and chicken bake recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli cheddar and chicken casserole",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken broccoli and cheddar cheese casserole",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken broccoli cheddar cheese casserole",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "easy chicken broccoli bake",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "cheese broccoli chicken rice casserole",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken and broccoli bake healthy",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken casserole with broccoli rice and cheese",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "easy broccoli chicken rice casserole",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "broccoli chicken and stuffing casserole",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and broccoli pasta casserole",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken broccoli casserole pasta",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken with ziti",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "easy broccoli chicken and rice casserole",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "easy chicken broccoli rice bake",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "ziti and chicken",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli casseroles healthy",
+        "volume": 1600,
+        "competition": 3
+      }
+    ]
+  },
+  "processed": false
+}

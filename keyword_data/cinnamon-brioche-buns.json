@@ -1,0 +1,35 @@
+{
+  "slug": "cinnamon-brioche-buns",
+  "title": "Cinnamon Brioche Buns",
+  "seed_keyword": "cinnamon brioche buns",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brioche cinnamon bun",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "brioche cinnamon bun recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cinnamon roll brioche",
+        "volume": 140,
+        "competition": 15
+      },
+      {
+        "keyword": "cinnamon rolls with brioche dough",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "brioche sweet rolls",
+        "volume": 110,
+        "competition": 41
+      }
+    ]
+  },
+  "processed": false
+}

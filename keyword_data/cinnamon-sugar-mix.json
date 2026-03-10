@@ -1,0 +1,35 @@
+{
+  "slug": "cinnamon-sugar-mix",
+  "title": "Cinnamon Sugar Mix",
+  "seed_keyword": "cinnamon sugar mix",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cinnamon sugar mix",
+        "volume": 1000,
+        "competition": 39
+      },
+      {
+        "keyword": "cinnamon & sugar mix",
+        "volume": 1000,
+        "competition": 39
+      },
+      {
+        "keyword": "cinnamon and sugar mix",
+        "volume": 480,
+        "competition": 61
+      },
+      {
+        "keyword": "cinnamon and sugar mixture",
+        "volume": 480,
+        "competition": 61
+      },
+      {
+        "keyword": "churro mix recipe",
+        "volume": 170,
+        "competition": 9
+      }
+    ]
+  },
+  "processed": false
+}

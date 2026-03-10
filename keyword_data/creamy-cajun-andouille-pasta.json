@@ -1,0 +1,25 @@
+{
+  "slug": "creamy-cajun-andouille-pasta",
+  "title": "Creamy Cajun Andouille Pasta",
+  "seed_keyword": "creamy cajun andouille pasta",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "creamy cajun pasta with andouille sausage",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy andouille sausage pasta",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp and andouille sausage pasta",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

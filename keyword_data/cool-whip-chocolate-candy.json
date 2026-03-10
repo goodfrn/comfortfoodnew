@@ -1,0 +1,260 @@
+{
+  "slug": "cool-whip-chocolate-candy",
+  "title": "Cool Whip Chocolate Candy",
+  "seed_keyword": "chocolate candy bars",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolates bars",
+        "volume": 246000,
+        "competition": 71
+      },
+      {
+        "keyword": "hersheys reeses",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "reeses pb cup",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "bounty candy bar",
+        "volume": 90500,
+        "competition": 76
+      },
+      {
+        "keyword": "3musketeers",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "bounties chocolate",
+        "volume": 90500,
+        "competition": 76
+      },
+      {
+        "keyword": "bounty milk chocolate",
+        "volume": 90500,
+        "competition": 76
+      },
+      {
+        "keyword": "almond joy",
+        "volume": 60500,
+        "competition": 47
+      },
+      {
+        "keyword": "snickers candy bar",
+        "volume": 60500,
+        "competition": 42
+      },
+      {
+        "keyword": "milky way chocolate",
+        "volume": 60500,
+        "competition": 65
+      },
+      {
+        "keyword": "snickers bars",
+        "volume": 60500,
+        "competition": 42
+      },
+      {
+        "keyword": "snickers chocolate bar",
+        "volume": 60500,
+        "competition": 42
+      },
+      {
+        "keyword": "bar snickers",
+        "volume": 60500,
+        "competition": 42
+      },
+      {
+        "keyword": "bubu lubu",
+        "volume": 60500,
+        "competition": 34
+      },
+      {
+        "keyword": "snickers bar candy",
+        "volume": 60500,
+        "competition": 42
+      },
+      {
+        "keyword": "heath bars",
+        "volume": 49500,
+        "competition": 52
+      },
+      {
+        "keyword": "curly wurlys",
+        "volume": 49500,
+        "competition": 69
+      },
+      {
+        "keyword": "crunch bar",
+        "volume": 40500,
+        "competition": 71
+      },
+      {
+        "keyword": "wonka bars",
+        "volume": 40500,
+        "competition": 47
+      },
+      {
+        "keyword": "milky way bar",
+        "volume": 40500,
+        "competition": 60
+      },
+      {
+        "keyword": "milky way candy bar",
+        "volume": 40500,
+        "competition": 60
+      },
+      {
+        "keyword": "crispello",
+        "volume": 40500,
+        "competition": 46
+      },
+      {
+        "keyword": "milky way chocolate bar",
+        "volume": 40500,
+        "competition": 60
+      },
+      {
+        "keyword": "hershey chocolate bar",
+        "volume": 33100,
+        "competition": 80
+      },
+      {
+        "keyword": "aero bars candy",
+        "volume": 33100,
+        "competition": 65
+      },
+      {
+        "keyword": "nestle crunch",
+        "volume": 27100,
+        "competition": 54
+      },
+      {
+        "keyword": "zero bars",
+        "volume": 27100,
+        "competition": 69
+      },
+      {
+        "keyword": "zero chocolate bar",
+        "volume": 27100,
+        "competition": 69
+      },
+      {
+        "keyword": "kit kat bars",
+        "volume": 27100,
+        "competition": 70
+      },
+      {
+        "keyword": "coffee crisp candy bar",
+        "volume": 27100,
+        "competition": 51
+      },
+      {
+        "keyword": "kit kat candy bar",
+        "volume": 27100,
+        "competition": 70
+      },
+      {
+        "keyword": "kit kat chocolate bar",
+        "volume": 27100,
+        "competition": 70
+      },
+      {
+        "keyword": "nestle crunch chocolate bar",
+        "volume": 27100,
+        "competition": 54
+      },
+      {
+        "keyword": "violet crumble candy bar",
+        "volume": 22200,
+        "competition": 79
+      },
+      {
+        "keyword": "hershey chocolate candy",
+        "volume": 22200,
+        "competition": 43
+      },
+      {
+        "keyword": "take 5 candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "hershey candy bars",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "skor bar",
+        "volume": 18100,
+        "competition": 68
+      },
+      {
+        "keyword": "snickers candy",
+        "volume": 18100,
+        "competition": 33
+      },
+      {
+        "keyword": "mounds bar",
+        "volume": 18100,
+        "competition": 21
+      },
+      {
+        "keyword": "take five candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "3 musketeers candy",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "candy snickers",
+        "volume": 18100,
+        "competition": 33
+      },
+      {
+        "keyword": "skor chocolate bar",
+        "volume": 18100,
+        "competition": 68
+      },
+      {
+        "keyword": "japanese flavored kit kats",
+        "volume": 18100,
+        "competition": 75
+      },
+      {
+        "keyword": "mounds chocolate bar",
+        "volume": 18100,
+        "competition": 21
+      },
+      {
+        "keyword": "henry candy bar",
+        "volume": 18100,
+        "competition": 37
+      },
+      {
+        "keyword": "o henry chocolate bar",
+        "volume": 18100,
+        "competition": 37
+      },
+      {
+        "keyword": "twix bar",
+        "volume": 14800,
+        "competition": 69
+      },
+      {
+        "keyword": "twix candy bar",
+        "volume": 14800,
+        "competition": 69
+      }
+    ]
+  },
+  "processed": false
+}

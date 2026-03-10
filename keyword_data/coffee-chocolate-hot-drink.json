@@ -1,0 +1,260 @@
+{
+  "slug": "coffee-chocolate-hot-drink",
+  "title": "Coffee Chocolate Hot Drink",
+  "seed_keyword": "mocha",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mocha",
+        "volume": 450000,
+        "competition": 5
+      },
+      {
+        "keyword": "starbucks peppermint mocha",
+        "volume": 110000,
+        "competition": 71
+      },
+      {
+        "keyword": "mocha coffee",
+        "volume": 60500,
+        "competition": 21
+      },
+      {
+        "keyword": "cafe mocha",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "caffè mocha",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "cafe mocha coffee",
+        "volume": 60500,
+        "competition": 21
+      },
+      {
+        "keyword": "cafe mochaccino",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "mocha caffe",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "mochaccino coffee",
+        "volume": 60500,
+        "competition": 21
+      },
+      {
+        "keyword": "iced mocha",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "starbucks mocha",
+        "volume": 40500,
+        "competition": 47
+      },
+      {
+        "keyword": "starbucks mocha drinks",
+        "volume": 40500,
+        "competition": 47
+      },
+      {
+        "keyword": "starbucks cafe mocha",
+        "volume": 40500,
+        "competition": 47
+      },
+      {
+        "keyword": "starbucks caffe mocha",
+        "volume": 40500,
+        "competition": 47
+      },
+      {
+        "keyword": "mochaccino starbucks",
+        "volume": 40500,
+        "competition": 47
+      },
+      {
+        "keyword": "bialetti moka express",
+        "volume": 33100,
+        "competition": 79
+      },
+      {
+        "keyword": "white chocolate mocha",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "starbucks white chocolate mocha",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "white mocha",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "mocha latte",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "cafe mocha latte",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "mocha and latte",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "mocha white",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "white cafe mocha",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "mocha cafe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "mocha cafe & bar",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "starbucks mocha frappuccino",
+        "volume": 14800,
+        "competition": 53
+      },
+      {
+        "keyword": "moca cafe",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "café mocca",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "moka house",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "peppermint mocha",
+        "volume": 9900,
+        "competition": 68
+      },
+      {
+        "keyword": "mocha frappuccino",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "iced white chocolate mocha",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "white chocolate mocha iced coffee",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "white mocha starbucks",
+        "volume": 8100,
+        "competition": 45
+      },
+      {
+        "keyword": "iced white mocha",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate mocha",
+        "volume": 8100,
+        "competition": 18
+      },
+      {
+        "keyword": "cocoa mocha",
+        "volume": 8100,
+        "competition": 18
+      },
+      {
+        "keyword": "ıce white mocha",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "iced mocha latte",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "mocha iced coffee",
+        "volume": 6600,
+        "competition": 42
+      },
+      {
+        "keyword": "iced white mocha starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "starbucks iced white chocolate mocha",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "iced cafe mocha",
+        "volume": 6600,
+        "competition": 42
+      },
+      {
+        "keyword": "hot white chocolate starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "mocha chino",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "white iced mocha starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "white mocha iced coffee starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "starbucks mocha iced coffee",
+        "volume": 5400,
+        "competition": 29
+      },
+      {
+        "keyword": "caramel mocha",
+        "volume": 5400,
+        "competition": 5
+      }
+    ]
+  },
+  "processed": false
+}

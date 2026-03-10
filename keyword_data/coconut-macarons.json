@@ -1,0 +1,20 @@
+{
+  "slug": "coconut-macarons",
+  "title": "Coconut Macarons Vegan",
+  "seed_keyword": "vegan coconut macarons",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "eggless macaroons",
+        "volume": 720,
+        "competition": 63
+      },
+      {
+        "keyword": "macaroons vegan recipe",
+        "volume": 140,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

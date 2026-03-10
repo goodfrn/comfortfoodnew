@@ -1,0 +1,65 @@
+{
+  "slug": "cinnamon-crunch-cookies",
+  "title": "Cinnamon Crunch Cookies",
+  "seed_keyword": "cinnamon crunch cookies",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cinnamon toast crunch cookies",
+        "volume": 2400,
+        "competition": 40
+      },
+      {
+        "keyword": "cinnamon toast crunch cookie recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon toast cookies",
+        "volume": 260,
+        "competition": 25
+      },
+      {
+        "keyword": "pillsbury cinnamon toast crunch cookies",
+        "volume": 170,
+        "competition": 45
+      },
+      {
+        "keyword": "cinnamon toast crunch cookie dough",
+        "volume": 170,
+        "competition": 78
+      },
+      {
+        "keyword": "cinnamon crunch cookies",
+        "volume": 140,
+        "competition": 32
+      },
+      {
+        "keyword": "cinnamon toast crunch crumbl cookie",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "sugar toast crunch",
+        "volume": 110,
+        "competition": 62
+      },
+      {
+        "keyword": "betty crocker cinnamon toast crunch cookie mix",
+        "volume": 110,
+        "competition": 42
+      },
+      {
+        "keyword": "cinnamon toast crunch oreos",
+        "volume": 110,
+        "competition": 44
+      },
+      {
+        "keyword": "general mills sugar cookie toast crunch",
+        "volume": 110,
+        "competition": 23
+      }
+    ]
+  },
+  "processed": false
+}

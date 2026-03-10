@@ -1,0 +1,15 @@
+{
+  "slug": "chilled-green-soup",
+  "title": "Chilled Green Soup",
+  "seed_keyword": "chilled green soup",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chilled green pea soup",
+        "volume": 260,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": true
+}

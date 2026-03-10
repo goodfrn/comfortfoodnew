@@ -1,0 +1,260 @@
+{
+  "slug": "chunky-graham-crust",
+  "title": "Chunky Graham Crust",
+  "seed_keyword": "graham cracker crust",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "graham cracker crust",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "graham cracker pie crust",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "crust graham",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "graham cookie crust",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "graham cracker crumbs for cheesecake",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "graham cracker crust recipe",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "graham cracker pie crust recipe",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "crust graham recipe",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "recipes with graham cracker crust",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "recipes with graham pie crust",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "graham cracker crust for cheesecake",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake graham crust",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake with graham crust",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "graham cracker recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "graham pie crust cheesecake",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "graham wafer recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "graham cracker crumbs",
+        "volume": 12100,
+        "competition": 58
+      },
+      {
+        "keyword": "cheesecake with graham cracker crust no bake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "graham crackers to crumbs",
+        "volume": 12100,
+        "competition": 58
+      },
+      {
+        "keyword": "graham wafer crumbs",
+        "volume": 12100,
+        "competition": 58
+      },
+      {
+        "keyword": "graham recipe",
+        "volume": 9900,
+        "competition": 19
+      },
+      {
+        "keyword": "ingredients for graham",
+        "volume": 6600,
+        "competition": 24
+      },
+      {
+        "keyword": "graham cracker crust for pumpkin pie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "graham cracker crust with pumpkin pie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "graham cracker homemade",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "graham cracker pie crust for pumpkin pie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "graham crust pumpkin pie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin pie and graham cracker crust",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin pie with a graham cracker crust",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "graham cracker ingredients",
+        "volume": 3600,
+        "competition": 40
+      },
+      {
+        "keyword": "homemade graham cracker crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "graham cracker crust recipe for cheesecake",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesecake graham crust recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesecake in graham cracker crust recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesecake recipe in graham cracker crust",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesecake recipe on graham cracker crust",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "graham wafer ingredients",
+        "volume": 3600,
+        "competition": 40
+      },
+      {
+        "keyword": "home made graham cracker pie crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "homemade graham cracker pie crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "homemade graham crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "homemade graham pie crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "ingredients in a graham cracker",
+        "volume": 3600,
+        "competition": 40
+      },
+      {
+        "keyword": "graham cracker crust for key lime pie",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "lime pie graham cracker crust",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "graham cookie pie crust",
+        "volume": 2400,
+        "competition": 33
+      },
+      {
+        "keyword": "graham cracker crust no bake",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "graham cracker crust pie crust",
+        "volume": 2400,
+        "competition": 33
+      },
+      {
+        "keyword": "graham cracker pie crust pies",
+        "volume": 2400,
+        "competition": 33
+      },
+      {
+        "keyword": "graham cracker pie shell",
+        "volume": 2400,
+        "competition": 33
+      },
+      {
+        "keyword": "graham crust no bake",
+        "volume": 2400,
+        "competition": 11
+      }
+    ]
+  },
+  "processed": false
+}

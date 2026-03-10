@@ -1,0 +1,20 @@
+{
+  "slug": "cauliflower-quick-pickles",
+  "title": "Cauliflower Quick Pickles",
+  "seed_keyword": "quick pickled cauliflower",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "quick pickled cauliflower",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "quick pickled cauliflower recipe",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

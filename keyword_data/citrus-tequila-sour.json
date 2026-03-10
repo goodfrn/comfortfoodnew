@@ -1,0 +1,90 @@
+{
+  "slug": "citrus-tequila-sour",
+  "title": "Citrus Tequila Sour Twist",
+  "seed_keyword": "tequila sour",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tequila sour",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "sour tequila drinks",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "tequila sour cocktail",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "tequila sour recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "margaritas with sour mix",
+        "volume": 1000,
+        "competition": 64
+      },
+      {
+        "keyword": "margaritas with sweet and sour",
+        "volume": 1000,
+        "competition": 64
+      },
+      {
+        "keyword": "tequila and sweet and sour mix",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "tequila sweet and sour",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "tequila and sour mix",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "sweet and sour mix and tequila",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "sweet and sour mix tequila",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "sweet and sour mix with tequila",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "tequila and sweet and sour",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "tequila sweet and sour mix",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "tequila with sweet and sour mix",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "tequila sour ingredients",
+        "volume": 140,
+        "competition": 3
+      }
+    ]
+  },
+  "processed": false
+}

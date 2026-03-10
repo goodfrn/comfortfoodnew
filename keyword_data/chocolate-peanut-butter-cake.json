@@ -1,0 +1,260 @@
+{
+  "slug": "chocolate-peanut-butter-cake",
+  "title": "Chocolate Peanut Butter Cake",
+  "seed_keyword": "chocolate peanut butter cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "peanutbutter cake",
+        "volume": 14800,
+        "competition": 37
+      },
+      {
+        "keyword": "chocolate peanut butter cake",
+        "volume": 9900,
+        "competition": 44
+      },
+      {
+        "keyword": "chocolate and peanut butter cake",
+        "volume": 9900,
+        "competition": 44
+      },
+      {
+        "keyword": "chocolate pb cake",
+        "volume": 9900,
+        "competition": 44
+      },
+      {
+        "keyword": "mars bar rice crispy cakes",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter mug cakes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "reeses cupcake",
+        "volume": 4400,
+        "competition": 57
+      },
+      {
+        "keyword": "reeses peanut butter cup cake",
+        "volume": 4400,
+        "competition": 57
+      },
+      {
+        "keyword": "peanut butter choc cake",
+        "volume": 3600,
+        "competition": 43
+      },
+      {
+        "keyword": "chocolate cake and peanut butter frosting",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate cake peanut butter frosting",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate cake peanut butter icing",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate peanut butter cup cake",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate peanut butter cup cakes",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut butter cake chocolate frosting",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "peanut butter cake with chocolate icing",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate and peanut butter cake recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate pb cake recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate peanut butter cake recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate peanut butter cheese cake",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate peanut cake recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and chocolate cheese cake",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter frosting cake",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate and peanut butter mug cake",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate buttercake",
+        "volume": 1900,
+        "competition": 24
+      },
+      {
+        "keyword": "chocolate mug cake with peanut butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate pb mug cake",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate peanut butter cake in a cup",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "mug cake chocolate peanut butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "mug cake peanut butter chocolate",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and chocolate mug cake",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate and peanut butter poke cake",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate peanut butter poke cake",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate poke cake with peanut butter",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate cake with reese's peanut butter cups",
+        "volume": 720,
+        "competition": 42
+      },
+      {
+        "keyword": "chocolate peanut butter reese cake",
+        "volume": 720,
+        "competition": 42
+      },
+      {
+        "keyword": "chocolate reese cake",
+        "volume": 720,
+        "competition": 42
+      },
+      {
+        "keyword": "peanut butter sheet cake recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "preacher cookie recipe",
+        "volume": 720,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate peanut butter dump cake",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter chocolate dump cake",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate cake peanut butter frosting recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate cake with peanut butter icing recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate peanut butter cup cake recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter frosting recipe for chocolate cake",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "5 ingredient chocolate peanut butter cake",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "banana chocolate peanut butter cake",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate and peanut butter lava cake",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate and peanut butter mousse cake",
+        "volume": 320,
+        "competition": 22
+      },
+      {
+        "keyword": "chocolate cake peanut butter filling",
+        "volume": 320,
+        "competition": 11
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,45 @@
+{
+  "slug": "chicken-with-morels-twist",
+  "title": "Chicken with Morels Twist",
+  "seed_keyword": "chicken with morels",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fried morels",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken with morels",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and morels",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken supreme with morels",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and morel mushroom recipes",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken morel recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken with morels ina garten",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

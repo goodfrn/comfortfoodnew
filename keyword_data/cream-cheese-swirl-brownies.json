@@ -1,0 +1,55 @@
+{
+  "slug": "cream-cheese-swirl-brownies",
+  "title": "Cream Cheese Swirl Brownies",
+  "seed_keyword": "cream cheese swirl brownies",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cream cheese swirl brownies",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "brownie and cream cheese swirl",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate brownies with cream cheese swirl",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "brownie with cheesecake swirl",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin cheesecake brownies",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "brownie marble cheesecake",
+        "volume": 390,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin brownies cream cheese",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry cream cheese brownie",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "brownie swirl cheesecake recipe",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

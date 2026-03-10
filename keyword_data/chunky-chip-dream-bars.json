@@ -1,0 +1,260 @@
+{
+  "slug": "chunky-chip-dream-bars",
+  "title": "Chunky Chip Dream Bars",
+  "seed_keyword": "chocolate chip bar recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "banana chocolate chunk bread",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "bars and cookies",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "cookies bars",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate chip cookie bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate cookie bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "choc chip bar cookie",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate chip cookie cake bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate chip cookie squares",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate chocolate chip cookie bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "bar cookie recipes",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate chip gooey cookies",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate chip bars",
+        "volume": 6600,
+        "competition": 36
+      },
+      {
+        "keyword": "oatmeal chocolate chip bars",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "chocolate chip squares",
+        "volume": 6600,
+        "competition": 36
+      },
+      {
+        "keyword": "bar chocolate chip cookie recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "choc chip bar cookie recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "choc chip oat bars",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "chocolate chip cookie squares recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate chip oatmeal squares",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "chocolate chocolate chip bars",
+        "volume": 6600,
+        "competition": 36
+      },
+      {
+        "keyword": "magic bar cookie recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "oat and chocolate chip bars",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "oat chocolate chip bars",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "recipe almond joy cookies",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "bar recipes with chocolate",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "seven layer magic cookie bars",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip bar recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "toll house bar cookie",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "toll house cookie squares",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "banana chocolate chip bars",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "banana and chocolate chip bar",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "banana chocolate chip squares",
+        "volume": 2400,
+        "competition": 45
+      },
+      {
+        "keyword": "bar cookies with oatmeal",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "butterscotch and marshmallow squares",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "congo bar recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "oatmeal cookie squares",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "twix cookies recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "brookies bars",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate chip pumpkin bars",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate chip pumpkin squares",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin and chocolate chip bars",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter chocolate chip bars",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "cheesecake bars chocolate chip",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate chip and peanut butter bars",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "chocolate chip cereal bar recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate chip cheese bars",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate chip granola bar recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate chip peanut butter squares",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "cornflake bar",
+        "volume": 1600,
+        "competition": 48
+      },
+      {
+        "keyword": "homemade chocolate chip granola bar",
+        "volume": 1600,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

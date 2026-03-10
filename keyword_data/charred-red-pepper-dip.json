@@ -1,0 +1,260 @@
+{
+  "slug": "charred-red-pepper-dip",
+  "title": "Charred Red Pepper Dip",
+  "seed_keyword": "roasted red pepper dip",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "muhammara",
+        "volume": 201000,
+        "competition": 1
+      },
+      {
+        "keyword": "muhammara recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "red pepper hummus",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "roasted red pepper hummus",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "bell pepper hummus",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "hummus and red pepper",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "hummus bell pepper",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "hummus pepper",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "hummus roasted pepper",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "red pepper and hummus",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "roast capsicum hummus",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "roasted bell pepper hummus",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "roasted red bell pepper hummus",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "roasted red pepper houmous",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "muhammara dip",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "roasted red pepper dip",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "hummus recipe red pepper",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "red bell pepper dip",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "roast pepper dip",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "roasted bell pepper dip",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "roasted red pepper dipping sauce",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "red pepper dip",
+        "volume": 2900,
+        "competition": 29
+      },
+      {
+        "keyword": "recipe for roasted red pepper hummus",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "red bell pepper hummus recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "roasted red bell pepper hummus recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "muhammara sauce",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted pepper and feta dip",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "roasted pepper feta dip",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "capsicum dip",
+        "volume": 1000,
+        "competition": 51
+      },
+      {
+        "keyword": "roasted red pepper spread",
+        "volume": 880,
+        "competition": 80
+      },
+      {
+        "keyword": "feta and red pepper dip",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "feta and roasted red pepper dip",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "feta roasted red pepper dip",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "red bell pepper spread",
+        "volume": 880,
+        "competition": 80
+      },
+      {
+        "keyword": "red pepper and walnut dip",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "red pepper walnut dip",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "roast pepper spread",
+        "volume": 880,
+        "competition": 80
+      },
+      {
+        "keyword": "roasted bell pepper spread",
+        "volume": 880,
+        "competition": 80
+      },
+      {
+        "keyword": "chilli hummus",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "dip for peppers",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "dip red",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "muhammara dip recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "pepper dip recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for red pepper dip",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for roasted red pepper dip",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "red pepper dipping sauce recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted pepper dip recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "bell pepper dip",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "hummus red",
+        "volume": 590,
+        "competition": 44
+      },
+      {
+        "keyword": "roast capsicum dip",
+        "volume": 590,
+        "competition": 21
+      }
+    ]
+  },
+  "processed": false
+}

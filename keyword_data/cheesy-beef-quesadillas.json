@@ -1,0 +1,25 @@
+{
+  "slug": "cheesy-beef-quesadillas",
+  "title": "Cheesy Beef Quesadillas",
+  "seed_keyword": "cheesy beef quesadillas",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesy beef quesadillas",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesy ground beef quesadillas",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy beef quesadilla recipe",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

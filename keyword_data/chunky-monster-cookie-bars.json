@@ -1,0 +1,45 @@
+{
+  "slug": "chunky-monster-cookie-bars",
+  "title": "Chunky Monster Cookie Bars",
+  "seed_keyword": "monster cookie bars",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "monster cookie bars",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cookie monster cookie bar",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "monster bars",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "monsters bars",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "monster bar recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "monster cookie bars no flour",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "gluten free monster cookie bars",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,35 @@
+{
+  "slug": "cheesy-baked-ziti-remix",
+  "title": "Cheesy Baked Ziti Remix",
+  "seed_keyword": "turkey baked ziti",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "baked ziti ground turkey",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "baked ziti with turkey meat",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey baked ziti",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked ziti recipe with ground turkey",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "ground turkey baked ziti recipe",
+        "volume": 140,
+        "competition": 3
+      }
+    ]
+  },
+  "processed": false
+}

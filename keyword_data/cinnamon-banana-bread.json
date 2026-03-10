@@ -1,0 +1,35 @@
+{
+  "slug": "cinnamon-banana-bread",
+  "title": "Cinnamon Banana Bread Twist",
+  "seed_keyword": "cinnamon swirl banana bread",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cinnamon swirl banana bread",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "banana bread recipes with cinnamon",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon roll banana bread",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon swirl banana bread recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "banana bread recipe cinnamon swirl",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "classic-cabbage-rolls",
+  "title": "Classic Cabbage Rolls",
+  "seed_keyword": "cabbage rolls",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cabbage rolls",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage for stuffed cabbage",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage roll cabbage",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage roll dish",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage rolls and",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage stuffed cabbage",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "roll cabbage rolls",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage rolls recipe",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "cabbage wrap recipe",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "cook cabbage rolls",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "make cabbage rolls",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe for making cabbage rolls",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "stuffed cabbage recipe",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed cabbage rolls recipe",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage roll filling recipe",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "filled cabbage recipe",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed cabbage",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "stuffed cabbage filling",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage roll soup",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cabbage roll casserole",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed cabbage casserole",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed cabbage rolls",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage roll filling",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "stuffed cabbage balls",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "stuffed cabbage wraps",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage casserole recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "cabbage roll soup recipe",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cabbage roll polish",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "galumpkis recipe",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "gołabki recipe",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "polish cabbage wraps",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "polish food stuffed cabbage",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed cabbage soup",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "cabbage casserole with ground meat",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage casserole with hamburger meat",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage roll recipe polish",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage rolls unstuffed",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "filled cabbage soup",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "polish recipe for stuffed cabbage",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed cabbage roll soup",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "unrolled cabbage rolls",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "unstuffed stuffed cabbage",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "best cabbage roll recipe",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "best recipe for stuffed cabbage",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cabbage and egg recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage roll casserole recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "good cabbage roll recipe",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for stuffed cabbage casserole",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "rolled cabbage casserole recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cabbage and egg",
+        "volume": 4400,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

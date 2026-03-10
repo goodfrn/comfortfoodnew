@@ -1,0 +1,260 @@
+{
+  "slug": "chunky-veg-chili",
+  "title": "Chunky Veg Chili",
+  "seed_keyword": "vegetarian chili recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegetarian chili recipe",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan chili recipe",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "vegetarian chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "meatless chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chili veg",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "non meat chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan chilli recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "vegetarian chilli",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "veggie chilli recipe",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "veggie chilli",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "veggie chile",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "vegetarian chilli con carne",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable chilli recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "chili con carne vegetarian",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "chilli con carne veggie",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe veggie chilli",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "meatless chili recipe",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "non meat chili recipe",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "vegan chili ideas",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "veggies for chili",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian chili slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chili crock pot vegetarian",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chili vegetarian crock pot",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot meatless chili",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot veg chili",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "meatless chili slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "best vegetarian chili recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "best vegan chili recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "best meatless chili recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "good vegetarian chili recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "good veggie chili recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetarian chili sin carne",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetarian chili recipe easy",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "easy vegan chili recipe",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegan chili beans",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "vegetarian chili beans",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "best vegetarian chili",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "amazing vegetarian chili",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "basic vegetarian chili recipe",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "bean and veggie chili",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "best meatless chili",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "best veg chili",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "easy meatless chili recipe",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "meatless bean chili",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "simple vegetable chili recipe",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "veg bean chilli",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "vegan bean chilli",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "veggie bean chilli",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "chili crock pot recipe vegetarian",
+        "volume": 1900,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,115 @@
+{
+  "slug": "creamy-bacon-egg-salad",
+  "title": "Creamy Bacon Egg Salad",
+  "seed_keyword": "bacon egg salad",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bacon and egg potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg and potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "egg and bacon potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg salad",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and egg salad",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "egg and spinach salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "egg spinach salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "frisee lardon",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon and egg spinach salad",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg spinach salad",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "german potato salad with eggs",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and egg salad sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon egg salad sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon and egg potato salad recipe",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon and egg salad recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon egg potato salad recipe",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon egg salad recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach hard boiled egg salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach salad with boiled eggs",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "frisee lardon salad",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

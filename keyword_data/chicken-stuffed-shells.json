@@ -1,0 +1,260 @@
+{
+  "slug": "chicken-stuffed-shells",
+  "title": "Chicken Stuffed Shells Twist",
+  "seed_keyword": "chicken stuffed shells",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken stuffed shells",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and stuffed shells",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and stuffing shells",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and stuffing stuffed shells",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken stuffed shell recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken stuffed shells with stuffing",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken stuffing stuffed shells",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "shells stuffed with chicken and stuffing",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffed shells and chicken",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffed shells with stuffing and chicken",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "alfredo chicken stuffed shells",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken stuffed shells with alfredo sauce",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed alfredo chicken shells",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed shells with alfredo sauce and chicken",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed shells with chicken alfredo",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed shells with chicken and alfredo sauce",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "alfredo stuffed shells",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken stuffed with ricotta cheese",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "alfredo stuffed shells recipe",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and chicken stuffed shells",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli chicken stuffed shells",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "buffalo chicken stuffed shells",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed buffalo chicken shells",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed chicken broccoli shells",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffed shells buffalo chicken",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo stuffed shells recipe",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli chicken alfredo stuffed shells",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo stuffed shells with broccoli",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and broccoli alfredo stuffed shells",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken broccoli alfredo stuffed shells",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and spinach stuffed shells",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and stuffing stuffed shells recipe",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken shell",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken spinach stuffed shells",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed chicken shells recipes",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed shells chicken and spinach",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed shells with spinach and chicken",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken parm stuffed shells",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken stuffed pasta shells",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "parmesan chicken stuffed shells",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo shells",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken shells alfredo",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken stuffed pasta",
+        "volume": 210,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken stuffed with pasta",
+        "volume": 210,
+        "competition": 10
+      },
+      {
+        "keyword": "creamy chicken stuffed shells",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "shell chicken",
+        "volume": 210,
+        "competition": 39
+      },
+      {
+        "keyword": "chicken and pasta shells",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken bacon ranch stuffed shells",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken pasta shells",
+        "volume": 170,
+        "competition": 5
+      },
+      {
+        "keyword": "shell pasta with chicken",
+        "volume": 170,
+        "competition": 5
+      }
+    ]
+  },
+  "processed": false
+}

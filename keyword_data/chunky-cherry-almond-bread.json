@@ -1,0 +1,25 @@
+{
+  "slug": "chunky-cherry-almond-bread",
+  "title": "Chunky Cherry Almond Bread",
+  "seed_keyword": "cherry almond bread",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "almond and cherry loaf",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "almond cherry loaf",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry almond bread",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

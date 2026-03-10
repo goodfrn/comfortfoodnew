@@ -1,0 +1,30 @@
+{
+  "slug": "creamy-fruit-salad-remix",
+  "title": "Creamy Fruit Salad Remix",
+  "seed_keyword": "creamy fruit salad with marshmallows",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe for ambrosia salad with sour cream",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "whip cream marshmallow fruit salad",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit salad with marshmallows and sour cream",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "marshmallow fruit salad with sour cream",
+        "volume": 170,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

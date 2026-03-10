@@ -1,0 +1,45 @@
+{
+  "slug": "chicken-stir-fry-noodles",
+  "title": "Chicken Stir Fry Rice Noodles",
+  "seed_keyword": "chicken stir fry rice noodles",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken stir fry rice noodles",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and rice noodle stir fry",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken stirfry with rice noodles",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken fried rice noodles",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "thai chicken noodles stir fry",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and rice noodle stir fry recipe",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken stir fry recipe rice noodles",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

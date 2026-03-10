@@ -1,0 +1,85 @@
+{
+  "slug": "chocolate-chip-cookies-remix",
+  "title": "Chocolate Chip Cookies Remix",
+  "seed_keyword": "chocolate chip cookies with cocoa powder",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate cookie cocoa powder",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate powder cookies",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate cookie powdered sugar",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "cocoa powder cookie recipes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate cookie recipes with cocoa powder",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "simple chocolate cookies with cocoa powder",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "cookies with cocoa powder and oatmeal",
+        "volume": 480,
+        "competition": 14
+      },
+      {
+        "keyword": "chocolate chip cookies with cocoa powder",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate cookies using cocoa powder",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "cookies with cocoa powder and peanut butter",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate chocolate chip cookies with cocoa powder",
+        "volume": 210,
+        "competition": 27
+      },
+      {
+        "keyword": "dutch chocolate cookies recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "dutch cocoa cookies recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate oatmeal cookies with cocoa powder",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade chocolate chips with cocoa powder",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

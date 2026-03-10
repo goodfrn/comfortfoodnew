@@ -1,0 +1,95 @@
+{
+  "slug": "chicken-drippings-gravy",
+  "title": "Chicken Drippings Gravy",
+  "seed_keyword": "chicken drippings gravy",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken drippings",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken drippings gravy",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "gravy using chicken drippings",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken gravy no drippings",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken gravy recipe from broth",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken gravy without drippings",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken gravy from juices",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken gravy recipe no drippings",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken gravy recipe without drippings",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken gravy recipe drippings",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "make chicken gravy from drippings",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for chicken gravy with drippings",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken broth for turkey gravy",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken broth turkey gravy",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "gravy without chicken broth",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade chicken gravy without drippings",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey gravy recipe chicken broth",
+        "volume": 140,
+        "competition": 5
+      }
+    ]
+  },
+  "processed": false
+}

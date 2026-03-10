@@ -1,0 +1,105 @@
+{
+  "slug": "chunky-cast-iron-cookie",
+  "title": "Chunky Cast Iron Cookie",
+  "seed_keyword": "cast iron skillet cookie",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cookie in iron skillet",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate chip cookie in iron skillet",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cast iron skillet cookie",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "cast iron skillet cookie cake",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "cookie cast iron pan",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "cookie in a cast iron pan",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "cookie skillet cast iron",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "cast iron cookie",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "cookie in cast iron",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "iron cookie",
+        "volume": 590,
+        "competition": 39
+      },
+      {
+        "keyword": "cast iron chocolate chip cookie",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "cast iron chocolate cookie",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "cast iron cookie recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "cast iron cookie skillet recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "cast iron skillet chocolate chip cookie",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "cast iron skillet cookie recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookie in cast iron pan",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "cast iron chocolate chip cookie recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "mini cast iron skillet cookie",
+        "volume": 110,
+        "competition": 73
+      }
+    ]
+  },
+  "processed": false
+}

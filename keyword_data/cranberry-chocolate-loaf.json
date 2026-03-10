@@ -1,0 +1,20 @@
+{
+  "slug": "cranberry-chocolate-loaf",
+  "title": "Cranberry Chocolate Loaf",
+  "seed_keyword": "cranberry chocolate bread",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cranberry and white chocolate bread",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "cranberry white chocolate bread",
+        "volume": 170,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

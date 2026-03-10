@@ -1,0 +1,70 @@
+{
+  "slug": "corned-beef-cabbage-soup",
+  "title": "Corned Beef Cabbage Soup",
+  "seed_keyword": "corned beef cabbage soup",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "corned beef cabbage soup",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage and corned beef soup",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "corned beef soup",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "corned beef soup recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage and corned beef soup recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "corned beef cabbage stew",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "corned beef potato soup",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "corned beef and cabbage soup crock pot",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "corned beef and cabbage soup slow cooker",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "corned beef cabbage soup crock pot",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "corned beef and cabbage soup from leftovers",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "leftover corned beef and cabbage soup",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

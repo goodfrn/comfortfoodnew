@@ -1,0 +1,55 @@
+{
+  "slug": "cheesy-broccoli-potato-soup",
+  "title": "Cheesy Broccoli Potato Soup",
+  "seed_keyword": "cheesy broccoli potato soup",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesy broccoli potato soup",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli and potato cheese soup",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli potatoes cheese soup",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli potato cheese soup recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy broccoli potato soup recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy broccoli potato soup crock pot",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot potato broccoli cheese soup",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "easy potato broccoli cheese soup",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesy broccoli and potato soup",
+        "volume": 170,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

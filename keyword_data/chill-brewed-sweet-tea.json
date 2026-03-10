@@ -1,0 +1,20 @@
+{
+  "slug": "chill-brewed-sweet-tea",
+  "title": "Chill Brewed Sweet Tea",
+  "seed_keyword": "cold brew sweet tea",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "make sweet iced tea",
+        "volume": 720,
+        "competition": 8
+      },
+      {
+        "keyword": "brew sweet tea",
+        "volume": 170,
+        "competition": 71
+      }
+    ]
+  },
+  "processed": false
+}

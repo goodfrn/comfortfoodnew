@@ -1,0 +1,50 @@
+{
+  "slug": "cream-cheese-pecan-pie",
+  "title": "Cream Cheese Pecan Pie",
+  "seed_keyword": "cream cheese pecan pie",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesecake pecan pie recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for cheesecake pecan pie",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese pecan pie",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese and pecan pie",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "pecan cheesecake bars",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese pecan pie recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "pecan tartlets cream cheese crust",
+        "volume": 140,
+        "competition": 5
+      },
+      {
+        "keyword": "pecan bars with cream cheese",
+        "volume": 110,
+        "competition": 4
+      }
+    ]
+  },
+  "processed": false
+}

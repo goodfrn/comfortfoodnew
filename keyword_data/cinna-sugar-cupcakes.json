@@ -1,0 +1,30 @@
+{
+  "slug": "cinna-sugar-cupcakes",
+  "title": "Cinna-Sugar Cupcakes",
+  "seed_keyword": "cinnamon sugar cupcakes",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe for cinnamon cupcakes",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "snickerdoodles cupcakes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "cinnamon sugar cupcakes",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon and sugar cupcakes",
+        "volume": 140,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "cheesecake-fruity-sauce",
+  "title": "Cheesecake with Fruity Sauce",
+  "seed_keyword": "ricotta cheesecake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ricotta cheesecake",
+        "volume": 201000,
+        "competition": 38
+      },
+      {
+        "keyword": "ricotta cheesecake recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "vegan ricotta cheesecake",
+        "volume": 9900,
+        "competition": 48
+      },
+      {
+        "keyword": "italian cheesecake",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "ricotta dessert",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "baked ricotta cheesecake",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "low fat ricotta cheesecake",
+        "volume": 4400,
+        "competition": 76
+      },
+      {
+        "keyword": "cake with ricotta cheese recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon and ricotta cheesecake",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "lemon cheesecake with ricotta",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "lemon ricotta cheese cake",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "recipe ricotta dessert",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes with ricotta cheese dessert",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "baked lemon and ricotta cheesecake",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "baked lemon ricotta cheesecake",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade ricotta cheesecake",
+        "volume": 2400,
+        "competition": 13
+      },
+      {
+        "keyword": "italian cheesecake recipe",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "italian ricotta cheesecake",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "italian cheese cake with ricotta cheese",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "italian cheesecake with ricotta cheese",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "sicilian cheesecake",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese cake with ricotta cheese",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheesecake using ricotta",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheesecake using ricotta cheese",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "ricotta cheese cakes",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "healthy ricotta cheesecake recipe",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese cake recipe with ricotta cheese",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake from ricotta cheese recipe",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake made with ricotta",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake made with ricotta recipe",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake recipe using ricotta",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "ricotta cheese cakes recipes",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "sicilian ricotta cheesecake recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "papas cheesecake",
+        "volume": 720,
+        "competition": 49
+      },
+      {
+        "keyword": "cheesecake mascarpone ricotta",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesecake ricotta and cream cheese",
+        "volume": 720,
+        "competition": 18
+      },
+      {
+        "keyword": "cheesecake ricotta cream cheese",
+        "volume": 720,
+        "competition": 18
+      },
+      {
+        "keyword": "cheesecake with mascarpone and ricotta",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesecake with ricotta cheese and cream cheese",
+        "volume": 720,
+        "competition": 18
+      },
+      {
+        "keyword": "creamy ricotta cheesecake",
+        "volume": 720,
+        "competition": 18
+      },
+      {
+        "keyword": "easy cheesecake recipe with ricotta cheese",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "easy ricotta cheese cake recipe",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "healthy ricotta cheesecake",
+        "volume": 720,
+        "competition": 30
+      },
+      {
+        "keyword": "italian cheesecake recipe ricotta",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "italian cheesecake recipe with ricotta",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "italian ricotta pie",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "keto ricotta cheesecake recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "pasticceria papa cheesecake",
+        "volume": 720,
+        "competition": 49
+      },
+      {
+        "keyword": "ricotta and cream cheese cake",
+        "volume": 720,
+        "competition": 18
+      },
+      {
+        "keyword": "simple ricotta cheesecake recipe",
+        "volume": 720,
+        "competition": 7
+      }
+    ]
+  },
+  "processed": false
+}

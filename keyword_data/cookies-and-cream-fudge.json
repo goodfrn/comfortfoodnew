@@ -1,0 +1,40 @@
+{
+  "slug": "cookies-and-cream-fudge",
+  "title": "Cookies and Cream Fudge Remix",
+  "seed_keyword": "cookies and cream fudge",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sundae cookie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cookies and cream fudge",
+        "volume": 1300,
+        "competition": 23
+      },
+      {
+        "keyword": "cookie cream fudge",
+        "volume": 1300,
+        "competition": 23
+      },
+      {
+        "keyword": "cookie n cream fudge",
+        "volume": 1300,
+        "competition": 23
+      },
+      {
+        "keyword": "cookies and cream fudge recipes",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "oreo fudge cream",
+        "volume": 320,
+        "competition": 33
+      }
+    ]
+  },
+  "processed": false
+}

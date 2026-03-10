@@ -1,0 +1,45 @@
+{
+  "slug": "citrus-aperol-twist",
+  "title": "Citrus Aperol Twist",
+  "seed_keyword": "aperol grapefruit cocktail",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "grapefruit spritz",
+        "volume": 1900,
+        "competition": 24
+      },
+      {
+        "keyword": "aperol grapefruit",
+        "volume": 590,
+        "competition": 25
+      },
+      {
+        "keyword": "grapefruit aperol",
+        "volume": 590,
+        "competition": 25
+      },
+      {
+        "keyword": "grapefruit aperol spritz",
+        "volume": 480,
+        "competition": 8
+      },
+      {
+        "keyword": "aperol grapefruit spritz",
+        "volume": 480,
+        "competition": 8
+      },
+      {
+        "keyword": "aperol spritz grapefruit",
+        "volume": 480,
+        "competition": 8
+      },
+      {
+        "keyword": "aperol pink grapefruit",
+        "volume": 260,
+        "competition": 22
+      }
+    ]
+  },
+  "processed": false
+}

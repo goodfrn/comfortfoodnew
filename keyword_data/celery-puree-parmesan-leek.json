@@ -1,0 +1,55 @@
+{
+  "slug": "celery-puree-parmesan-leek",
+  "title": "Celery Purée with Parmesan and Leek",
+  "seed_keyword": "celery root purée",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "celeriac puree",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "celery root purée",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "celeriac root puree",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "celeriac puree recipes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "celery root puree recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "celery puree recipe",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "celery root and potato puree",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "celery root puree ina garten",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "root puree",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

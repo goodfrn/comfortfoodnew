@@ -1,0 +1,90 @@
+{
+  "slug": "creamy-italian-dressing",
+  "title": "Creamy Italian Dressing Remix",
+  "seed_keyword": "creamy italian dressing recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "creamy italian dressing recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy italian salad dressing recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy italian pasta salad",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade creamy italian dressing",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade creamy italian salad dressing",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "pizza hut creamy italian dressing",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "creamy italian dressing pizza hut",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "pizza hut creamy italian salad dressing",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "creamy italian pasta salad dressing",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "seven seas creamy italian dressing",
+        "volume": 210,
+        "competition": 66
+      },
+      {
+        "keyword": "creamy italian pasta salad recipe",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "seven seas creamy italian salad dressing",
+        "volume": 210,
+        "competition": 66
+      },
+      {
+        "keyword": "marie's creamy italian garlic dressing",
+        "volume": 170,
+        "competition": 61
+      },
+      {
+        "keyword": "pizza hut italian dressing",
+        "volume": 170,
+        "competition": 45
+      },
+      {
+        "keyword": "creamy italian dressing ingredients",
+        "volume": 170,
+        "competition": 11
+      },
+      {
+        "keyword": "kroger creamy italian dressing",
+        "volume": 140,
+        "competition": 76
+      }
+    ]
+  },
+  "processed": false
+}

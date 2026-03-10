@@ -1,0 +1,20 @@
+{
+  "slug": "chilled-almond-soup",
+  "title": "Chilled Almond Soup",
+  "seed_keyword": "chilled almond soup",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chilled almond soup",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "cold almond soup",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

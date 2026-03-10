@@ -1,0 +1,260 @@
+{
+  "slug": "chunky-brownie-bites",
+  "title": "Chunky Brownie Bites",
+  "seed_keyword": "brownie bites",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "miniature brownies",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "frosting bites",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "brownie cups",
+        "volume": 6600,
+        "competition": 31
+      },
+      {
+        "keyword": "twobite",
+        "volume": 5400,
+        "competition": 23
+      },
+      {
+        "keyword": "brownies muffin pan",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "superdelights",
+        "volume": 1600,
+        "competition": 76
+      },
+      {
+        "keyword": "brownie circles",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "brownie pops",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate brownie pops",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "apple bees brownie bites",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "super delights brownie bites",
+        "volume": 590,
+        "competition": 79
+      },
+      {
+        "keyword": "brownie bites from a mix",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "brownie bites from brownie mix",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "brownie bites mix",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "brownie cheesecake bites",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "brownie in mini cupcake pan",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "brownie in mini muffin pan",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "brownie mix in mini muffin pan",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "brownies in mini muffin tins",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "super delight brownie bites",
+        "volume": 590,
+        "competition": 79
+      },
+      {
+        "keyword": "little bites fudge brownies",
+        "volume": 480,
+        "competition": 78
+      },
+      {
+        "keyword": "brookie bites",
+        "volume": 480,
+        "competition": 38
+      },
+      {
+        "keyword": "brownie cubes",
+        "volume": 480,
+        "competition": 59
+      },
+      {
+        "keyword": "brownie mini muffin",
+        "volume": 480,
+        "competition": 39
+      },
+      {
+        "keyword": "brownies for two",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "entenmann's little bites fudge brownies",
+        "volume": 480,
+        "competition": 20
+      },
+      {
+        "keyword": "mr kipling brownie bites",
+        "volume": 480,
+        "competition": 55
+      },
+      {
+        "keyword": "one bite brownie",
+        "volume": 480,
+        "competition": 61
+      },
+      {
+        "keyword": "thorntons brownie bites",
+        "volume": 480,
+        "competition": 74
+      },
+      {
+        "keyword": "fudge bites",
+        "volume": 390,
+        "competition": 61
+      },
+      {
+        "keyword": "brookies oreo",
+        "volume": 390,
+        "competition": 34
+      },
+      {
+        "keyword": "brownie bites box",
+        "volume": 390,
+        "competition": 66
+      },
+      {
+        "keyword": "brownie bites tesco",
+        "volume": 390,
+        "competition": 31
+      },
+      {
+        "keyword": "chocolate covered brownie",
+        "volume": 390,
+        "competition": 39
+      },
+      {
+        "keyword": "tesco brownie bites",
+        "volume": 390,
+        "competition": 31
+      },
+      {
+        "keyword": "two bite brownies walmart",
+        "volume": 390,
+        "competition": 10
+      },
+      {
+        "keyword": "marks and spencer brownie bites",
+        "volume": 320,
+        "competition": 52
+      },
+      {
+        "keyword": "big bite brownies",
+        "volume": 320,
+        "competition": 40
+      },
+      {
+        "keyword": "chocolate brownie bites",
+        "volume": 320,
+        "competition": 78
+      },
+      {
+        "keyword": "m&s brownies bites",
+        "volume": 320,
+        "competition": 52
+      },
+      {
+        "keyword": "sam's club two bite brownies",
+        "volume": 320,
+        "competition": 34
+      },
+      {
+        "keyword": "sugar bowl bakery brownie",
+        "volume": 320,
+        "competition": 62
+      },
+      {
+        "keyword": "fairytale brownies magic morsels",
+        "volume": 260,
+        "competition": 28
+      },
+      {
+        "keyword": "fudgy brownie bites",
+        "volume": 260,
+        "competition": 61
+      },
+      {
+        "keyword": "fudgy brownies bites",
+        "volume": 260,
+        "competition": 61
+      },
+      {
+        "keyword": "brownie bites from a box mix",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie bites with box mix",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie two bite",
+        "volume": 210,
+        "competition": 61
+      },
+      {
+        "keyword": "cheesecake brownie cups",
+        "volume": 210,
+        "competition": 11
+      },
+      {
+        "keyword": "karen volf brownie bites",
+        "volume": 210,
+        "competition": 33
+      }
+    ]
+  },
+  "processed": false
+}

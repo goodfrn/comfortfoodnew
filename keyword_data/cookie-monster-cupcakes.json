@@ -1,0 +1,50 @@
+{
+  "slug": "cookie-monster-cupcakes",
+  "title": "Cookie Monster Cupcakes",
+  "seed_keyword": "cookie monster cupcakes",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cookie monster cupcakes",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "cookie monster cake and cupcakes",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "cookie monster cupcake cake",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "monster cupcakes",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "cookie monster and elmo cupcakes",
+        "volume": 260,
+        "competition": 35
+      },
+      {
+        "keyword": "elmo cookie monster cupcakes",
+        "volume": 260,
+        "competition": 35
+      },
+      {
+        "keyword": "cookie monster muffin",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "monster cupcakes ideas",
+        "volume": 170,
+        "competition": 41
+      }
+    ]
+  },
+  "processed": false
+}

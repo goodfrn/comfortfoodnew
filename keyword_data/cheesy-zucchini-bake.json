@@ -1,0 +1,50 @@
+{
+  "slug": "cheesy-zucchini-bake",
+  "title": "Cheesy Zucchini Bake",
+  "seed_keyword": "cheesy zucchini bake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesy zucchini casserole",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini and cheese casserole",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "baked cheese zucchini",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "baked zucchini and cheese",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy zucchini bake",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "courgette and cheese bake",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "baked cheese zucchini recipes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "baked zucchini and cheese recipes",
+        "volume": 260,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

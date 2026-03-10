@@ -1,0 +1,35 @@
+{
+  "slug": "cheeseburger-pasta-bake",
+  "title": "Cheeseburger Pasta Bake",
+  "seed_keyword": "cheeseburger pasta bake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheeseburger pasta bake",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "cheeseburger casserole pasta",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "cheeseburger casserole with pasta",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesy beef macaroni bake",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "burger pasta bake",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "char-grilled-corn",
+  "title": "Char-Grilled Corn Twist",
+  "seed_keyword": "grilled corn on the cob",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "grilled corn on the cob",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "corn in the cob on the grill",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "corn of the cob on the grill",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "ear corn on grill",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "on the grill corn on the cob",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "corn on cob boiled",
+        "volume": 40500,
+        "competition": 24
+      },
+      {
+        "keyword": "grilled corn",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "corn for grilling",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "corn griller",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "corn on the cob elote",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "grill corn on grill",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "grill corn how to",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "bbq corn on the cob",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "mexican corn on cob",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "bar bq corn on the cob",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "barbecue corn cob",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "bbq ears of corn",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "corn on cob mexican",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "barbecue corn",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "bbq corn grill",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "corn grilled in husk",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "corn on the barbeque",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "grilling corn in the husk on the grill",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "the corn grill",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "grilled corn on the cob in foil",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "cooking corn on the grill",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking corn on the cob on the grill",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cook corn bbq",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cook corn on barbecue",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking corn on the barbeque",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking corn on the cob on the barbecue",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking ear corn on grill",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "corn foil grill",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "corn on cob grill foil",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "make corn on the grill",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "prepare corn for grill",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "roast corn on cob",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted corn ears",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "bbq grilled corn on the cob recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "corn cob grill recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "fresh corn grilled",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "bbq corn",
+        "volume": 4400,
+        "competition": 34
+      },
+      {
+        "keyword": "grilled corn recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "barbeque corn recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "corn recipes for the grill",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "corn recipes on the grill",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled corn ideas",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "shucked corn",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "corn on cob traeger",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "corn on the cob on a traeger",
+        "volume": 2900,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

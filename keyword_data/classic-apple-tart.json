@@ -1,0 +1,260 @@
+{
+  "slug": "classic-apple-tart",
+  "title": "Classic Apple Tart",
+  "seed_keyword": "apple tart recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "apple tartlets",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "apple pie granny smith apples",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie with granny smith",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "tatin",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tart recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "tarte tatin recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tatin recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "tart ta tan recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "tatin recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "tatin tart recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tarte tatin",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "puff pastry apple recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "apple and puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart using puff pastry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart with pastry puff",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pastry",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "apple french tart",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple pie crusts",
+        "volume": 6600,
+        "competition": 27
+      },
+      {
+        "keyword": "apple tatin",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pink lady cheese tart",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "whole food fruit tart",
+        "volume": 3600,
+        "competition": 39
+      },
+      {
+        "keyword": "apple and frangipane tart",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple frangipane tart",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple tart easy recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "basic apple tart recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "frangipane tart apple",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "granny smith apple recipe",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "simple apple tart recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple pop tarts",
+        "volume": 2400,
+        "competition": 72
+      },
+      {
+        "keyword": "caramel apple tartlets",
+        "volume": 2400,
+        "competition": 47
+      },
+      {
+        "keyword": "apple and caramel tart",
+        "volume": 2400,
+        "competition": 47
+      },
+      {
+        "keyword": "rose apple tart",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumb tart",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "apple tart ta tan recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tarte tatin recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "mini apple tarts",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "apple french tart recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "apple pie tart",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "easy apple tart with shortcrust pastry",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "easy tarte tatin recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fridge tarts",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "miniature apple tarts",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "simple tarte tatin recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "tart apple pie",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "tart pie apples",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "apple pie granny smith recipe",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "apple pie recipe granny smith apples",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "apple rosette recipe",
+        "volume": 1300,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

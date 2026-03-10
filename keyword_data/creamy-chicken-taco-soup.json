@@ -1,0 +1,40 @@
+{
+  "slug": "creamy-chicken-taco-soup",
+  "title": "Creamy Chicken Taco Soup Twist",
+  "seed_keyword": "creamy chicken taco soup",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "creamy chicken taco soup",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy taco soup chicken",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken taco soup cream cheese",
+        "volume": 140,
+        "competition": 4
+      },
+      {
+        "keyword": "creamy chicken taco soup recipe",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "taco chicken soup with cream cheese",
+        "volume": 140,
+        "competition": 4
+      },
+      {
+        "keyword": "crockpot creamy chicken taco soup",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

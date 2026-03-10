@@ -1,0 +1,30 @@
+{
+  "slug": "citrus-fennel-salad",
+  "title": "Citrus Fennel Salad",
+  "seed_keyword": "citrus fennel salad",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "citrus fennel salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "citrus and fennel salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "citrus fennel salad recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel salad lemon",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

@@ -1,0 +1,260 @@
+{
+  "slug": "creamed-chipped-beef",
+  "title": "Creamed Chipped Beef Remix",
+  "seed_keyword": "creamed chipped beef",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chipped beef",
+        "volume": 33100,
+        "competition": 80
+      },
+      {
+        "keyword": "dried beef for chipped beef",
+        "volume": 33100,
+        "competition": 80
+      },
+      {
+        "keyword": "beef chipped",
+        "volume": 33100,
+        "competition": 80
+      },
+      {
+        "keyword": "chipped meat",
+        "volume": 33100,
+        "competition": 80
+      },
+      {
+        "keyword": "creamed chipped beef",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "dried beef for creamed chipped beef",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "chipped beef on toast",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chip beef and toast",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chipped cream beef recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chipped dried beef on toast",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chipped beef recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "chipped dried beef recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for dried beef",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "chipped beef gravy",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "chipped beef and gravy",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "chipped dried beef gravy",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "chipped beef and gravy recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "chipped beef gravy recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "dried beef and gravy recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "dried beef gravy recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for dried beef on toast",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "creamed beef",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "creamed chipped beef on toast recipe",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cream chipped beef on toast",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "creamed chipped beef and toast",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "stouffer's creamed chipped beef",
+        "volume": 1000,
+        "competition": 71
+      },
+      {
+        "keyword": "creamed chipped beef near me",
+        "volume": 1000,
+        "competition": 28
+      },
+      {
+        "keyword": "dried beef and gravy",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "dried beef gravy",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "chipped beef near me",
+        "volume": 720,
+        "competition": 76
+      },
+      {
+        "keyword": "creamed beef on toast",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "creamed beef recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cream dried beef",
+        "volume": 480,
+        "competition": 30
+      },
+      {
+        "keyword": "chipped corned beef",
+        "volume": 390,
+        "competition": 33
+      },
+      {
+        "keyword": "pioneer woman creamed chipped beef",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for sos chipped beef",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chipped beef gravy and toast",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "chipped beef gravy on toast",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "dried beef gravy on toast",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "best creamed chipped beef recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "chipped beef sos",
+        "volume": 260,
+        "competition": 10
+      },
+      {
+        "keyword": "creamed chipped",
+        "volume": 260,
+        "competition": 43
+      },
+      {
+        "keyword": "dried beef sos",
+        "volume": 260,
+        "competition": 10
+      },
+      {
+        "keyword": "armour chipped beef recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "cream dried beef recipe",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "buddig creamed chipped beef",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chipped beef gravy near me",
+        "volume": 170,
+        "competition": 25
+      },
+      {
+        "keyword": "creamed chipped beef buddig",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "best chipped beef recipe",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "creamed beef on toast recipe",
+        "volume": 140,
+        "competition": 2
+      }
+    ]
+  },
+  "processed": false
+}

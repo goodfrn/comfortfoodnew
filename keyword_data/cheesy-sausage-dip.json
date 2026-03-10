@@ -1,0 +1,35 @@
+{
+  "slug": "cheesy-sausage-dip",
+  "title": "Cheesy Sausage Dip",
+  "seed_keyword": "cheesy sausage dip",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheese & sausage dip",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "sausage & cream cheese dip",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "sausage cheese dip recipes",
+        "volume": 720,
+        "competition": 8
+      },
+      {
+        "keyword": "crockpot cheese sausage dip",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesy sausage dip",
+        "volume": 320,
+        "competition": 3
+      }
+    ]
+  },
+  "processed": false
+}

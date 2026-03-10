@@ -1,0 +1,35 @@
+{
+  "slug": "clams-casino",
+  "title": "Clams Casino Variations",
+  "seed_keyword": "clams casino",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "clams casino",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "clam casino near me",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "clams casino food",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "crab casino",
+        "volume": 390,
+        "competition": 22
+      },
+      {
+        "keyword": "baked clams casino",
+        "volume": 320,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

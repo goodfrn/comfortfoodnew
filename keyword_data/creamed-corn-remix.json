@@ -1,0 +1,260 @@
+{
+  "slug": "creamed-corn-remix",
+  "title": "Creamed Corn Remix",
+  "seed_keyword": "creamed corn recipe",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "corn casserole dish",
+        "volume": 135000,
+        "competition": 8
+      },
+      {
+        "keyword": "corn corn casserole",
+        "volume": 135000,
+        "competition": 8
+      },
+      {
+        "keyword": "corn corn corn casserole",
+        "volume": 135000,
+        "competition": 8
+      },
+      {
+        "keyword": "corn casserole recipe",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "creamed corn",
+        "volume": 74000,
+        "competition": 40
+      },
+      {
+        "keyword": "cream and corn",
+        "volume": 74000,
+        "competition": 40
+      },
+      {
+        "keyword": "cream of the corn",
+        "volume": 74000,
+        "competition": 40
+      },
+      {
+        "keyword": "creamed corn corn",
+        "volume": 74000,
+        "competition": 40
+      },
+      {
+        "keyword": "creamed of corn",
+        "volume": 74000,
+        "competition": 40
+      },
+      {
+        "keyword": "creamed corn recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "jiffy corn casserole",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "cream corn dish",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream corn dish recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream corn side dish recipes",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "corn casserole jiffy recipe",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "corn casserole recipe with jiffy mix",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "corn souffle recipe jiffy",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "corn souffle recipe jiffy mix",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe corn casserole with jiffy mix",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for corn casserole using jiffy",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "ice cream with corn",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "creamed corn casserole",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "corn and cream corn casserole",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "corn and jiffy mix casserole",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "corn casserole creamed corn",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "corn casserole jiffy mix",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "corn casserole using jiffy",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "corn casserole with cream style corn",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "corn souffle casserole jiffy mix",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "corn souffle with jiffy mix",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "cream style corn casserole",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "cream of corn soup",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "corn bread with cream style corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "corn bread with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "corn bread with creamed corn and jiffy",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "corn bread with jiffy mix and creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream and corn soup",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "jiffy corn bread mix with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy corn bread recipe with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy corn bread with cream style corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy corn muffin with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy mix corn bread with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "soup corn cream",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "sweet corn ice cream",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "corn casserole with cream cheese",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "corn and cream cheese casserole",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "corn casserole using cream cheese",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "cream corn casserole with cream cheese",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "cream corn crock pot",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "cream corn in slow cooker",
+        "volume": 5400,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

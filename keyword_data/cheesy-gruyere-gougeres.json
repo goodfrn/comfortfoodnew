@@ -1,0 +1,20 @@
+{
+  "slug": "cheesy-gruyere-gougeres",
+  "title": "Cheesy Gruyère Gougères",
+  "seed_keyword": "gruyère gougères",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "gougeres gruyere",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "gruyere gougere",
+        "volume": 480,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

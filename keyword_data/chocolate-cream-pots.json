@@ -1,0 +1,40 @@
+{
+  "slug": "chocolate-cream-pots",
+  "title": "Chocolate Cream Pots with Orange",
+  "seed_keyword": "chocolate mousse with orange",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "orange mousse",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate mousse with orange",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate and orange mousse",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate and orange mousse recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate orange mousse recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "terry's chocolate orange mousse",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

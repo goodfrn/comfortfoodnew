@@ -1,0 +1,40 @@
+{
+  "slug": "chunky-chicken-salad-pitas",
+  "title": "Chunky Chicken Salad Pitas",
+  "seed_keyword": "chicken salad pita",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken salad pita recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken caesar pita",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken salad pita",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken salad in pita",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken salad in pita bread",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken salad with pita bread",
+        "volume": 390,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

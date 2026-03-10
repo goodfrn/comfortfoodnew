@@ -1,0 +1,260 @@
+{
+  "slug": "chewy-oatmeal-choc-chip",
+  "title": "Chewy Oatmeal Choc Chip",
+  "seed_keyword": "oatmeal chocolate chip cookies",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "oatmeal chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oat chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "choc chip and oat cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "choc chip and oatmeal cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "choc chunk oat cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip and oat cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip and oatmeal cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chocolate chip oatmeal cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chunk oat cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chunk oatmeal cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oat chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oat choc chunk cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oats cocoa cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oats cookies chocolate",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "cookie recipe oatmeal raisin",
+        "volume": 74000,
+        "competition": 22
+      },
+      {
+        "keyword": "oatmeal chocolate chip cookie recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "choc chip oat cookie recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate chip and oatmeal cookie recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate chip cookie recipe oats",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate chocolate chip oatmeal cookie recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate chunk oatmeal cookie recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate cookie oatmeal recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "cocoa no bake oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "no bake cookies chocolate oatmeal",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "no bake oat chocolate cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "no cook chocolate oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal chip cookie recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for chocolate chip and oatmeal cookies",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "no bake cookies oatmeal",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "oatmeal chocolate",
+        "volume": 18100,
+        "competition": 75
+      },
+      {
+        "keyword": "choc chip oat cookie",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "oat choc",
+        "volume": 18100,
+        "competition": 75
+      },
+      {
+        "keyword": "white chocolate cranberry cookies",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cookies with white chocolate and cranberries",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "craisin and white chocolate cookies",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "white chocolate with cranberry cookies",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "peanut butter chocolate cookies no bake",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate oatmeal cookies",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "choc oat cookies",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "choc oatmeal cookie",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate chocolate oatmeal cookies",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate cookies with oats",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "choc chip peanut butter oatmeal cookies",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip oatmeal peanut butter cookies",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "oat peanut butter chocolate chip cookies",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "oatmeal cookies with quaker oats",
+        "volume": 8100,
+        "competition": 46
+      },
+      {
+        "keyword": "oatmeal pb chocolate chip cookies",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "oatmeal peanut butter and chocolate chip cookies",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "oatmeal peanut butter cookies chocolate chip",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "oatmeal peanut chocolate chip cookies",
+        "volume": 8100,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

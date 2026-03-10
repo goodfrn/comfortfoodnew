@@ -1,0 +1,75 @@
+{
+  "slug": "cheesy-pineapple-casserole",
+  "title": "Cheesy Pineapple Casserole",
+  "seed_keyword": "pineapple cheese casserole",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pineapple cheese casserole",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "cheese and pineapple casserole",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "cheesy pineapple casserole",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "pineapple ritz casserole",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "pineapple casserole recipe with cheese",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "pineapple and cheddar cheese casserole",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "pineapple casserole with cheese and ritz crackers",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "pineapple cheddar casserole",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "pineapple cheddar cheese casserole",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "pineapple cheese casserole ritz crackers",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "ritz pineapple cheese casserole",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "scalloped pineapple casserole",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "pineapple casserole without cheese",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

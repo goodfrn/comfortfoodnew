@@ -1,0 +1,80 @@
+{
+  "slug": "coconut-pound-cake",
+  "title": "Coconut Pound Cake",
+  "seed_keyword": "coconut pound cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "coconut pound cake",
+        "volume": 1600,
+        "competition": 12
+      },
+      {
+        "keyword": "coconut cherry cake",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "coconut pound cake recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut cake healthy",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "sour cream coconut cake recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut pineapple pound cake",
+        "volume": 260,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe coconut and cherry cake",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut cream cheese pound cake",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut cream pound cake",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut cream bundt cake",
+        "volume": 140,
+        "competition": 13
+      },
+      {
+        "keyword": "coconut milk pound cake",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut pound cake using coconut milk",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut pound cake with coconut milk",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut and cherry loaf",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}

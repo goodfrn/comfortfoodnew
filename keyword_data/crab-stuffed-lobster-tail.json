@@ -1,0 +1,45 @@
+{
+  "slug": "crab-stuffed-lobster-tail",
+  "title": "Crab-Stuffed Lobster Tail",
+  "seed_keyword": "crab-stuffed lobster tail",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "crab-stuffed lobster tail",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "crab stuffed lobster tail",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "crabmeat stuffed lobster tail",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "crab stuffed lobster",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "crabmeat stuffed lobster",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "crab stuffed lobster tail recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "lobster tails stuffed with crabmeat recipe",
+        "volume": 140,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

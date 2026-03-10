@@ -1,0 +1,30 @@
+{
+  "slug": "cheesy-pigs-in-blanket",
+  "title": "Cheesy Pigs In Blanket",
+  "seed_keyword": "cheesy pigs in a blanket",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesy pigs in a blanket",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy pigs in blankets",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese pigs in a blanket recipe",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for pigs in a blanket with cheese",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

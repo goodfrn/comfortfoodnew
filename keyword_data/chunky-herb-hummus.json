@@ -1,0 +1,40 @@
+{
+  "slug": "chunky-herb-hummus",
+  "title": "Chunky Herb Hummus",
+  "seed_keyword": "herb hummus",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "herb hummus",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "herbs for hummus",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "hummus herbs",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "hummus parsley",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "hummus with parsley",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon dill hummus recipe",
+        "volume": 140,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

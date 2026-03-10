@@ -1,0 +1,105 @@
+{
+  "slug": "cherry-almond-cake",
+  "title": "Cherry Almond Cake",
+  "seed_keyword": "cherry almond cake",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cherry almond cake",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "almond and cherry cake",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "cherry bakewell cake",
+        "volume": 2900,
+        "competition": 26
+      },
+      {
+        "keyword": "cherry bakewell tart cake",
+        "volume": 2900,
+        "competition": 26
+      },
+      {
+        "keyword": "almond and cherry cake recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "almond cherry cake recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry and almond cake mary berry",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for almond and cherry cake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "almond and cherry loaf",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "almond cherry loaf",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry & almond loaf",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "almond cherry coffee cake",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry & almond loaf cake",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry and almond cake loaf",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "moist cherry and almond cake",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "moist cherry and almond loaf cake",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "almond cherry bundt cake",
+        "volume": 110,
+        "competition": 8
+      },
+      {
+        "keyword": "cherry bakewell sponge cake",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "cherry frangipane cake",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}
