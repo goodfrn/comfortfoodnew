@@ -1,0 +1,25 @@
+{
+  "slug": "cauliflower-mornay-sauce",
+  "title": "Cauliflower Mornay Sauce",
+  "seed_keyword": "cauliflower mornay sauce",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cauliflower mornay sauce",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower mornay",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower mornay recipe",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "processed": false
+}

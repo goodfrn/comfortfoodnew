@@ -1,0 +1,55 @@
+{
+  "slug": "cauliflower-couscous-twist",
+  "title": "Cauliflower Couscous Twist",
+  "seed_keyword": "cauliflower couscous",
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cauliflower couscous",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "cauliflower and couscous",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "couscous with cauliflower",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "cauliflower and couscous recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower and couscous salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower cous cous recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower cous cous salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "couscous and cauliflower recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "couscous and cauliflower salad",
+        "volume": 320,
+        "competition": 0
+      }
+    ]
+  },
+  "processed": false
+}
