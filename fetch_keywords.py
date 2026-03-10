@@ -72,9 +72,9 @@ def get_seed_keyword(client, title, description):
             "content": f"""Recipe title: {title}
 Description: {description[:200]}
 
-What is the most searched Google keyword for this exact recipe?
-Focus on the MAIN INGREDIENT + COOKING METHOD or DISH TYPE.
-Return only the keyword, nothing else. Lowercase."""
+Return the best short SEO keyword that exactly matches this recipe.
+Be specific, not broad.
+Only the keyword. Lowercase."""
         }]
     )
     return message.content[0].text.strip().lower()
