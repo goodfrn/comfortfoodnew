@@ -265,7 +265,7 @@ def main():
 
         print(f"  [{i+1}] Processing: {title}")
 
-        seed = get_seed_keyword(client, title, description)
+        seed = get_seed_keywords(client, title, description)
         print(f"         seed: '{seed}'")
 
         keywords = fetch_keywords(seed)
