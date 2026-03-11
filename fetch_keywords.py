@@ -63,59 +63,32 @@ def load_skip_list():
     with open(skip_file, "r", encoding="utf-8") as f:
         return set(line.strip() for line in f if line.strip() and not line.startswith("#"))
 
-import json
-
 def get_seed_keywords(client, title, description):
-
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=120,
+        max_tokens=80,
         messages=[{
             "role": "user",
             "content": f"""Recipe title: {title}
 Description: {description[:200]}
 
-Return JSON only with this shape:
-{{
- "keywords": [
-  "keyword1",
-  "keyword2",
-  "keyword3",
-  "keyword4",
-  "keyword5"
- ]
-}}
-
-Rules:
-- exactly 5 keywords
-- lowercase only
-- real food search keywords
-- include:
-  1 exact keyword
-  1 long-tail keyword
-  1 short/head keyword
-  1 SEO variation
-  1 broader high-volume keyword
-"""
+Return exactly 5 SEO keyword phrases for this recipe.
+One keyword per line.
+Lowercase only.
+No explanations."""
         }]
     )
 
     text = message.content[0].text.strip()
 
-    try:
-        data = json.loads(text)
-        keywords = data.get("keywords", [])
+    seeds = [line.strip() for line in text.split("\n") if line.strip()]
 
-        # sécurité : max 5
-        return keywords[:5]
-
-    except Exception:
-        return []
-def fetch_keywords(seed_keyword):
+    return seeds[:5]
+def fetch_keywords(seeds):
     date_from, date_to = get_date_range()
 
     payload = [{
-        "keywords": [seed_keyword],
+        "keywords": seeds,
         "language_code": "en",
         "sort_by": "search_volume",
         "date_from": date_from,
@@ -177,13 +150,13 @@ def fetch_keywords(seed_keyword):
         print(f"    Exception: {e}")
         return None
 
-def save_keyword_data(slug, title, seed, keywords):
+def save_keyword_data(slug, title, seeds, keywords):
     Path("keyword_data").mkdir(exist_ok=True)
     with open(f"keyword_data/{slug}.json", "w", encoding="utf-8") as f:
         json.dump({
             "slug": slug,
             "title": title,
-            "seed_keyword": seed,
+            "seed_keywords": seeds,
             "keywords": keywords,
             "processed": False
         }, f, indent=2, ensure_ascii=False)
@@ -265,17 +238,22 @@ def main():
 
         print(f"  [{i+1}] Processing: {title}")
 
-        seed = get_seed_keywords(client, title, description)
-        print(f"         seed: '{seed}'")
+        seeds = get_seed_keywords(client, title, description)
+        print(f" seeds: {seeds}")
+        
+        if not seeds:
+            print("         ERROR: no seeds generated")
+            errors += 1
+            continue
 
-        keywords = fetch_keywords(seed)
+        keywords = fetch_keywords(seeds)
 
         if keywords is None:
             print(f"         ERROR: API failed")
             errors += 1
             continue
 
-        save_keyword_data(slug, title, seed, keywords)
+        save_keyword_data(slug, title, seeds, keywords)
         
         if len(keywords["all"]) == 0 or (len(keywords["all"]) == 1 and keywords["all"][0]["volume"] < 1000):
             save_low_keyword_recipe(slug, title)
@@ -287,7 +265,7 @@ def main():
         if keywords["all"]:
             print(f"         OK → {len(keywords['all'])} keywords returned | top: '{keywords['all'][0]['keyword']}' ({keywords['all'][0]['volume']}/mo)")
         else:
-            print(f"         WARN: 0 keywords returned for seed '{seed}'")
+            print(f"         WARN: 0 keywords returned for seeds {seeds}")
         
         fetched += 1
         time.sleep(5)
