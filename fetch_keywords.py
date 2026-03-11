@@ -63,22 +63,54 @@ def load_skip_list():
     with open(skip_file, "r", encoding="utf-8") as f:
         return set(line.strip() for line in f if line.strip() and not line.startswith("#"))
 
-def get_seed_keyword(client, title, description):
+import json
+
+def get_seed_keywords(client, title, description):
+
     message = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=20,
+        max_tokens=120,
         messages=[{
             "role": "user",
             "content": f"""Recipe title: {title}
 Description: {description[:200]}
 
-Return the best short SEO keyword that exactly matches this recipe.
-Be specific, not broad.
-Only the keyword. Lowercase."""
+Return JSON only with this shape:
+{{
+ "keywords": [
+  "keyword1",
+  "keyword2",
+  "keyword3",
+  "keyword4",
+  "keyword5"
+ ]
+}}
+
+Rules:
+- exactly 5 keywords
+- lowercase only
+- real food search keywords
+- include:
+  1 exact keyword
+  1 long-tail keyword
+  1 short/head keyword
+  1 SEO variation
+  1 broader high-volume keyword
+"""
         }]
     )
-    return message.content[0].text.strip().lower()
 
+    text = message.content[0].text.strip()
+
+    try:
+        data = json.loads(text)
+        keywords = data.get("keywords", [])
+
+        # sécurité : max 5
+        return keywords[:5]
+
+    except Exception:
+        return []
 def fetch_keywords(seed_keyword):
     date_from, date_to = get_date_range()
 
