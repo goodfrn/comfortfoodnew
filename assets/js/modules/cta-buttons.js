@@ -165,16 +165,77 @@ export function initCTAButtons() {
       }
     });
   }
-
   // BOUTON IMPRIMER
   const printButton = document.getElementById('printButton');
+  
   if (printButton) {
-    console.log('Print button trouvé');
+  
     printButton.addEventListener('click', function(e) {
       e.preventDefault();
-      console.log('Print clicked');
-      window.print();
-    });
+  
+      const selectors = [
+        'h1',
+        '.italic.leading-relaxed',
+        '.grid.grid-cols-2.gap-4.text-sm',
+        '#ingredients',
+        '#steps',
+        '.card.bg-slate-50.border'
+      ];
+  
+      let content = '';
+  
+      selectors.forEach(selector => {
+        const el = document.querySelector(selector);
+        if (el) {
+          content += el.outerHTML;
+        }
+      });
+  
+      const printWindow = window.open('', '', 'width=800,height=900');
+  
+      printWindow.document.write(`
+        <html>
+        <head>
+          <title>Print Recipe</title>
+          <style>
+            body{
+              font-family: Arial, sans-serif;
+              margin:40px;
+              line-height:1.6;
+              color:#111;
+            }
+  
+            h1{
+              font-size:26px;
+              margin-bottom:10px;
+            }
+  
+            h2{
+              font-size:20px;
+              margin-top:24px;
+            }
+  
+            ul,ol{
+              margin-left:20px;
+            }
+  
+            img, nav, aside, button{
+              display:none !important;
+            }
+          </style>
+        </head>
+        <body>
+          ${content}
+        </body>
+        </html>
+      `);
+  
+      printWindow.document.close();
+      printWindow.focus();
+      printWindow.print();
+      printWindow.close();
+  
+    }); 
   }
 }
 
