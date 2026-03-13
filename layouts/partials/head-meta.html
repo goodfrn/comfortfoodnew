@@ -3,7 +3,6 @@
 {{ $description := cond (isset .Params "description") .Params.description .Site.Params.description }}
 {{ $image       := cond (isset .Params "image") (index .Params.image 0) .Site.Params.defaultImage }}
 <meta name="p:domain_verify" content="453d2158161f1b0d737b40ca58eb854c"/>
-<meta name="ezoic-site-verification" content="opbkkxzY0aiUg3m8trvW4OaDusCGpF" />
 <!-- OpenGraph -->
 <meta property="og:type"        content="{{ if .IsHome }}website{{ else if eq .Section "recipes" }}article{{ else }}website{{ end }}">
 <meta property="og:title"       content="{{ $title }}">
@@ -39,16 +38,6 @@
 {{ if eq .Section "recipes" }}
   {{ partial "recipe-jsonld.html" . }}
 {{ end }}
-<!-- EZOIC SCRIPTS - REVENUS MAXIMISÉS -->
-<!-- Privacy Scripts FIRST -->
-<script src="https://cmp.gatekeeperconsent.com/min.js" data-cfasync="false"></script>
-<script src="https://the.gatekeeperconsent.com/cmp.min.js" data-cfasync="false"></script>
-<!-- Header Script -->
-<script async src="//www.ezojs.com/ezoic/sa.min.js"></script>
-<script>
-window.ezstandalone = window.ezstandalone || {};
-ezstandalone.cmd = ezstandalone.cmd || [];
-</script>
 <!-- Google Analytics DIFFÉRÉ -->
 {{ if .Site.Params.analytics.ga4 }}
 <script>
