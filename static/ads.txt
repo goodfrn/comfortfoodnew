@@ -1,0 +1,8 @@
+google.com, pub-1175987143200523, RESELLER, f08c47fec0942fa0
+google.com, pub-4121205289903915, DIRECT, f08c47fec0942fa0
+google.com, pub-6644558441501035, DIRECT, f08c47fec0942fa0
+risecodes.com, 608fee2f84a3a300011acd3f, DIRECT
+sonobi.com, 192ecdea01, RESELLER, d1a215d9eb5aee9e
+ssp.cadent.com, 45, DIRECT, 1e1d41537f7cad7f
+themediagrid.com, Q19AKF, DIRECT, 35d5010d7789b49d
+yahoo.com, 100028, DIRECT, e1a5b5b6e3255540
