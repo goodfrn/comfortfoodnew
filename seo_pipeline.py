@@ -464,13 +464,22 @@ def get_seeds(client, title, description, tags):
                 f"Recipe: {title}\n"
                 f"Description: {description[:300]}\n"
                 f"Tags: {tags}\n\n"
-                f"Generate exactly 5 SEO keyword phrases for this specific recipe.\n"
-                f"Rules:\n"
-                f"- Each phrase 2-5 words\n"
-                f"- Include main ingredient(s) and dish type or cooking style\n"
-                f"- Vary: exact dish name, ingredient combo, dietary angle, cooking method\n"
+                f"Generate exactly 5 SEO keyword phrases to use as DataForSEO seeds.\n"
+                f"CRITICAL RULES:\n"
+                f"- Seeds must be BROAD PARENT TERMS, not the exact recipe name\n"
+                f"- Think: what would someone search to find this TYPE of dish, not this exact recipe\n"
+                f"- At least 2 seeds must be broad category terms with high search volume\n"
+                f"- At least 2 seeds must be ingredient+method combos\n"
+                f"- 1 seed can be close to the recipe name\n"
                 f"- Lowercase only. One per line. No numbering. No bullets.\n"
-                f"- No generic words: recipe, easy, healthy, best, quick, simple"
+                f"- 2-4 words max per seed\n"
+                f"- No generic words: recipe, easy, healthy, best, quick, simple\n\n"
+                f"Example for 'Curried Chicken Salad Toasts':\n"
+                f"chicken salad\n"
+                f"chicken sandwich\n"
+                f"curried chicken salad\n"
+                f"cold chicken lunch\n"
+                f"chicken toast"
             )
         }]
     )
@@ -481,6 +490,35 @@ def get_seeds(client, title, description, tags):
         if line and len(line) > 3:
             seeds.append(line)
     return seeds[:5]
+
+def generate_keywords_from_title(client, title, yaml_content):
+    """Génère 5-8 keywords logiques depuis le titre + ingrédients — zéro DFS."""
+    ingredients_text = format_ingredients_for_prompt(yaml_content)
+    msg = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=150,
+        messages=[{
+            "role": "user",
+            "content": (
+                f"Recipe: {title}\n"
+                f"Ingredients: {ingredients_text[:300]}\n\n"
+                f"Generate 6-8 SEO keyword phrases someone would search to find this recipe.\n"
+                f"Rules:\n"
+                f"- Mix broad terms and specific terms\n"
+                f"- Include main ingredient + cooking method combos\n"
+                f"- Lowercase only. One per line. No numbering.\n"
+                f"- No generic words: recipe, easy, healthy, best, quick, simple"
+            )
+        }]
+    )
+    lines = msg.content[0].text.strip().split("\n")
+    keywords = []
+    for line in lines:
+        line = line.strip().lstrip("-•123456789. ").strip()
+        if line and len(line) > 3:
+            keywords.append({"keyword": line, "volume": 0, "competition": 0})
+    return {"all": keywords[:8]}
+
 
 def fetch_dfs_keywords(seeds):
     date_from, date_to = get_date_range()
@@ -714,43 +752,54 @@ def main():
         kw_valid = state and len(state.get("keywords", {}).get("all", [])) >= 3
 
         if kw_valid:
+            # JSON existant avec 3+ keywords → on prend
             kw_data = state["keywords"]
             print(f"  keywords : already fetched ({len(kw_data['all'])})")
+
         else:
-            if state and len(state.get("keywords", {}).get("all", [])) > 0:
-                print(f"  keywords : only {len(state['keywords']['all'])} found — refetching with new seeds...")
+            # Vérifie si keywords déjà dans le YAML (ancien système)
+            yaml_kw_list = get_list_field(yaml_content, "keywords")
+            if len(yaml_kw_list) >= 3:
+                print(f"  keywords : using {len(yaml_kw_list)} from YAML (no DFS)")
+                kw_data = {"all": [{"keyword": kw, "volume": 0, "competition": 0} for kw in yaml_kw_list]}
+                save_state(slug, title, [], kw_data)
+
             else:
-                print(f"  keywords : fetching...")
+                # Fetch DFS
+                if state and len(state.get("keywords", {}).get("all", [])) > 0:
+                    print(f"  keywords : only {len(state['keywords']['all'])} found — refetching...")
+                else:
+                    print(f"  keywords : fetching...")
 
-            seeds = get_seeds(client, title, description, tags)
-            print(f"  seeds    : {seeds}")
+                seeds = get_seeds(client, title, description, tags)
+                print(f"  seeds    : {seeds}")
 
-            if not seeds:
-                print(f"  ERROR    : no seeds")
-                stats["errors"] += 1
-                continue
+                if not seeds:
+                    print(f"  ERROR    : no seeds")
+                    stats["errors"] += 1
+                    continue
 
-            kw_data = fetch_dfs_keywords(seeds)
-            if kw_data is None:
-                print(f"  ERROR    : DFS API failed")
-                stats["errors"] += 1
-                continue
+                kw_data = fetch_dfs_keywords(seeds)
+                if kw_data is None:
+                    print(f"  ERROR    : DFS API failed")
+                    stats["errors"] += 1
+                    continue
 
-            # Reset les flags si on refetch
-            save_state(slug, title, seeds, kw_data)
+                save_state(slug, title, seeds, kw_data)
 
-            kw_count = len(kw_data["all"])
-            if kw_count < 3:
-                save_low_keyword(slug, title)
-                update_state(slug, seo_done=True, content_done=True)
-                print(f"  LOW SEO  : only {kw_count} keywords found → skipped")
-                stats["low_kw"] += 1
-                time.sleep(3)
-                continue
-
-            top = kw_data["all"][0]
-            print(f"  keywords : {kw_count} | top: '{top['keyword']}' ({top['volume']}/mo)")
-            time.sleep(4)
+                kw_count = len(kw_data["all"])
+                if kw_count < 3:
+                    # LOW SEO → génère keywords depuis Haiku, continue quand même
+                    print(f"  LOW SEO  : only {kw_count} from DFS → generating with Haiku (no DFS)")
+                    kw_data = generate_keywords_from_title(client, title, yaml_content)
+                    save_state(slug, title, seeds, kw_data)
+                    save_low_keyword(slug, title)
+                    stats["low_kw"] += 1
+                    # NE PAS skip — continue vers SEO et content
+                else:
+                    top = kw_data["all"][0]
+                    print(f"  keywords : {kw_count} | top: '{top['keyword']}' ({top['volume']}/mo)")
+                    time.sleep(4)
 
         # Recharge state après fetch
         state = load_state(slug) or {}
@@ -823,6 +872,8 @@ def main():
             stats["errors"] += 1
 
         time.sleep(3)
+
+
 
     print(f"\n── DONE ──────────────────────────────────")
     print(f"Done    : {stats['done']}")
