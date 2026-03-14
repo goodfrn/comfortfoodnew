@@ -596,6 +596,9 @@ def main():
             print(f"  keywords : {kw_count} | top: '{top['keyword']}' ({top['volume']}/mo)")
             time.sleep(4)
 
+        # Recharge state après fetch
+        state = load_state(slug) or {}
+
         # ── STEP 2 : SEO ─────────────────────────────────────────────────────
         if state.get("seo_done"):
             print(f"  SEO      : already done")
