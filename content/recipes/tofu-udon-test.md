@@ -7,6 +7,7 @@ ogDescription: "Chewy udon, crispy tofu, green beans in a tangy peanut sauce. Qu
 focusKeyphrase: "tofu udon noodles"
 date: 2025-07-30
 draft: false
+layout: "single-v2"
 image: tofu-udon.jpg
 author: "Emma"
 prepTime: PT20M
