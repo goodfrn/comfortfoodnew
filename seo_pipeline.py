@@ -30,6 +30,10 @@ GENERIC = {
 
 SEO_PROMPT = """You are an SEO specialist for a recipe website. Your only job: write optimized SEO metadata fields.
 
+CRITICAL: You receive the actual recipe ingredients and instructions. Use them.
+description, metaDescription, and ogDescription MUST reflect the real ingredients used in the recipe.
+Never mention ingredients that are not in the recipe.
+
 ── FIELD RULES ──────────────────────────────────────────────────────────────
 
 title:
@@ -41,18 +45,20 @@ description:
 - 140-160 characters EXACTLY.
 - PRIMARY keyword once, naturally placed.
 - 1 SECONDARY keyword woven in.
+- Mention 1-2 REAL ingredients from the recipe.
 - End with a real benefit. No hype words.
 
 metaDescription:
 - 150-155 characters EXACTLY.
 - PRIMARY keyword in first 10 words.
 - 1 SECONDARY keyword included naturally.
+- Mention real ingredients from the recipe.
 - End with a CTA: "Try it tonight." / "Save this one." / "Make it tonight."
 
 ogDescription:
 - 100-120 characters EXACTLY.
 - 1 SECONDARY keyword naturally placed.
-- Punchy. Sounds human. No stuffing.
+- Punchy. Sounds human. Mentions real ingredients. No stuffing.
 
 focusKeyphrase:
 - PRIMARY keyword only.
@@ -60,9 +66,10 @@ focusKeyphrase:
 - Never a generic term.
 
 keywords array:
-- Include ALL relevant keywords from the provided list that relate to this recipe.
+- Keep ONLY the most relevant and distinct keywords. Maximum 12.
+- Remove near-duplicate variants (e.g. keep "air fryer corn on the cob" but remove "corn on cob in air fryer" if too similar).
 - First entry = PRIMARY keyword (highest volume, exact match).
-- Then all other relevant keywords sorted by volume descending.
+- Then best remaining keywords sorted by volume, no duplicates.
 - Skip keywords clearly unrelated to this specific recipe.
 - Never invent keywords not in the provided list.
 
@@ -70,8 +77,8 @@ keywords array:
 
 PRIMARY = highest-volume keyword that exactly describes this recipe.
 Use in title + focusKeyphrase + description + metaDescription.
-Do NOT force awkward keywords. Skip in text if they don't fit naturally.
-Always include relevant ones in the keywords array regardless.
+Do NOT force awkward keywords into text fields.
+Always include relevant ones in the keywords array.
 
 ── OUTPUT ────────────────────────────────────────────────────────────────────
 
@@ -229,14 +236,19 @@ Answer here.
 
 ── ANTI-DETECTION RULES FOR FAQ ────────────────────────────────────────────
 
-FAQ answers must be WILDLY irregular. This is critical.
+FAQ TOPIC RULE — CRITICAL:
+ALL questions must be about THIS specific recipe only.
+NEVER ask about other recipes (e.g. corn dogs when the recipe is corn on the cob).
+Questions must come from the keyword list or from real cooking concerns about this dish.
+
+FAQ answers must be WILDLY irregular:
 - Some answers = 1 sentence. "Just use less. That's it."
-- Some answers = 4-5 sentences with a tangent or side note
+- Some answers = 4-5 sentences with a tangent
 - Some answers start mid-thought. "Depends on your fridge."
-- Some answers contradict the clean structure. End abruptly. "Haven't tried it. Probably fine."
-- Vary punctuation patterns. Use dashes — like this — sometimes. Use fragments. Short stops.
-- Include at least one answer with real uncertainty. "Not totally sure why but it works."
-- Include at least one answer that gives a strong opinion. "Don't bother with dried. Tastes like nothing."
+- End abruptly sometimes. "Haven't tried it. Probably fine."
+- Dashes — like this — sometimes. Fragments. Short stops.
+- At least one answer with real uncertainty. "Not totally sure why but it works."
+- At least one strong opinion. "Don't bother with dried. Tastes like nothing."
 - Never start two consecutive answers with the same word
 - Never use: "Absolutely", "Certainly", "Of course", "Great question", "Sure"
 
@@ -249,7 +261,13 @@ These apply to the ENTIRE body, not just FAQ:
 - Typo-adjacent casualness — not actual typos, but informal contractions, dropped words. "Comes out fine either way."
 - At least one paragraph that's just 2 sentences. Isolated. Makes a point and stops.
 - At least one paragraph over 6 sentences with no clear structure
-- One moment of backtracking. Like: Actually — skip that. Do it the other way."""
+- One moment of backtracking. Like: Actually — skip that. Do it the other way.
+
+PUNCHLINE RULE — IMPORTANT:
+Max 1-2 punchy one-liners per piece. Not every paragraph.
+"Dried corn tastes like sadness" is fine once. Five times = AI trying too hard.
+The writing must feel natural and useful, not like a collection of memorable quotes.
+Prioritize: sensory, practical, honest. Not witty."""
 
 
 # ── YAML HELPERS ──────────────────────────────────────────────────────────────
@@ -476,19 +494,21 @@ def format_kw_for_prompt(kw_data):
         for kw in kw_data.get("all", [])
     )
 
-def optimize_seo(client, title, description, kw_data):
+def optimize_seo(client, title, description, kw_data, yaml_content=""):
     kw_block = format_kw_for_prompt(kw_data)
+    ingredients_text = format_ingredients_for_prompt(yaml_content) if yaml_content else ""
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=800,
+        max_tokens=900,
         system=[{"type": "text", "text": SEO_PROMPT, "cache_control": {"type": "ephemeral"}}],
         messages=[{
             "role": "user",
             "content": (
                 f"Recipe title: {title}\n"
                 f"Current description: {description}\n\n"
-                f"Available keywords (include ALL relevant ones in keywords array):\n{kw_block}\n\n"
-                f"Rewrite all SEO fields."
+                f"Real ingredients (use these in description/meta — never invent ingredients):\n{ingredients_text}\n\n"
+                f"Available keywords (max 12 in output, remove near-duplicates):\n{kw_block}\n\n"
+                f"Rewrite all SEO fields using the real ingredients."
             )
         }]
     )
@@ -532,7 +552,7 @@ def generate_body(client, title, yaml_content, unused_keywords):
 
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=2500,
+        max_tokens=3000,
         system=[{"type": "text", "text": CONTENT_PROMPT, "cache_control": {"type": "ephemeral"}}],
         messages=[{
             "role": "user",
@@ -674,7 +694,7 @@ def main():
         else:
             print(f"  SEO      : optimizing...")
             try:
-                seo = optimize_seo(client, title, description, kw_data)
+                seo = optimize_seo(client, title, description, kw_data, yaml_content)
 
                 new_yaml = yaml_content
                 new_yaml = replace_field(new_yaml, "title",           seo["title"])
