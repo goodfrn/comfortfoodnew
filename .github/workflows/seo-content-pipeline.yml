@@ -33,6 +33,7 @@ jobs:
           START_INDEX: ${{ github.event.inputs.start_index }}
         run: python seo_pipeline.py
       - name: Commit results
+        if: always()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
