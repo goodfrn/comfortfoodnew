@@ -1,9 +1,9 @@
 ---
-title: "Crispy Tofu Sticks Honey Mustard"
+title: "Crispy Tofu Sticks with Honey Mustard"
 slug: "crispy-tofu-sticks"
-description: "Crispy tofu sticks coated in a crunchy rice cereal crust, paired with a tangy honey mustard mayo dip with a hint of smoky paprika. Uses firm tofu, coated in flour, egg, and crushed Rice Krispies for texture. Pan-fried till golden brown with a sizzle and slight crackle. The sauce blends smooth mayo, sharp mustard, sweet honey, and subtle smoky touches. Simple, fast, adaptable. Dairy- and nut-free. Great as a main or appetizer. Serve with greens or raw veggies for balance."
-metaDescription: "Crispy tofu sticks coated in crunchy rice cereal crust with a smoky honey mustard mayo dip. Pan-fried till golden with a satisfying crackle. Vegetarian, dairy- and nut-free."
-ogDescription: "Crunchy tofu sticks coated in rice cereal crumbs, fried golden brown. Tangy honey mustard mayo with smoky paprika dip. Fast, adaptable, dairy- and nut-free."
+description: "Crispy tofu sticks with rice krispies crust and honey mustard mayo dip. Firm tofu coated in flour, egg, and crushed cereal, pan-fried golden. Dairy-free."
+metaDescription: "Make crispy tofu sticks with rice krispies crust and honey mustard mayo. Firm tofu, flour, egg coating, pan-fried till golden. Try it tonight."
+ogDescription: "Golden crispy tofu sticks with crunchy rice krispies crust and tangy honey mustard mayo dip. Fast, dairy-free, and delicious."
 focusKeyphrase: "crispy tofu sticks"
 date: 2025-09-27
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "fried"
 - "tofu"
 keywords:
-- "tofu sticks"
+- "crispy tofu sticks"
 - "honey mustard mayo"
 - "rice krispies crust"
+- "firm tofu recipe"
+- "pan-fried tofu"
+- "tofu appetizer"
+- "dairy-free tofu"
+- "mustard dip"
+- "breaded tofu"
+- "easy tofu recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "320"
@@ -69,3 +76,71 @@ faq:
 - "q: How to store leftovers? a: Cool completely first. Fridge sealed container best, lasts 2 days. Reheat in oven or broiler for crispness; microwave makes soft and limp. For sauce, refrigerate separately to avoid soggy coating on tofu sticks. Freeze not recommended; crust ruins when thawed. Bring to room temp before reheating to avoid cold centers."
 
 ---
+
+Crushed cereal. Honey mustard. Crispy tofu sticks that actually stay crispy. Made these last week because I had a block of firm tofu and Rice Krispies and wanted to stop eating the same thing for lunch. Turned out they're perfect for snacking straight from the skillet, or dunking, or throwing in a lunchbox.
+
+## Why You'll Love This
+
+Takes 36 minutes total. 27 minutes of that is just prep — cutting, patting dry, setting up your dredging stations. The actual frying is 9 minutes. Eat them in 5.
+
+Works as a snack on its own, an appetizer if you're feeding people, or the crunch element for a bowl with greens. The coating stays crispy even after it cools a little.
+
+Vegetarian. No weird substitute taste. Tofu absorbs the crispy coating and the honey mustard does actual work here — smoky enough that it's not another sweet thing.
+
+One skillet. Paper towels. Done.
+
+## What You Actually Need
+
+Mayo. Not the fancy kind. Regular mayo — 70 ml, which is about a third of a cup minus a tablespoon. Yellow mustard prepared. 30 ml, which is 2 tablespoons. Honey. 18 ml, so 3 and a half teaspoons if you want to be exact. Smoked paprika for the sauce — 5 ml, one teaspoon. You can swap this for ketchup if that's what you have. Tastes different though. Less smoky, more straight sweet.
+
+Firm tofu. 450 grams, a pound. Cut it into 12 sticks. Pat them dry. This part matters more than people think. Wet tofu doesn't coat right and steams instead of frying.
+
+Flour. 80 grams, slightly less than half a cup. All purpose. Unbleached if you care about that.
+
+One egg. Beat it lightly.
+
+Rice Krispies or something like it. 55 grams, which is slightly less than 2 cups crushed. Cornflakes work. Panko doesn't — too thick. You need something that crushes into fine crumbs.
+
+Oil for frying. Vegetable oil. Enough to cover the bottom of a large skillet about a quarter inch deep.
+
+## Getting the Coating Right and the Frying Hotter
+
+Whisk the mayo, mustard, honey, and smoked paprika together in a small bowl. Do it briskly. Set it aside. You'll use this at the end.
+
+Get three shallow bowls. Flour in the first. Lightly beat egg in the second. Crushed cereal in the third. Don't skip the three-bowl thing. It's a setup that actually works.
+
+Lightly dust each tofu stick in flour. Shake off the excess — you don't want a thick layer. Dunk it in egg. Let the extra drip back. Press it firmly into the cereal crumbs. Press hard. This is the difference between "crispy" and "actually crispy." The pressure helps the coating stick and compress. Do all 12 sticks this way.
+
+Heat a large nonstick skillet over medium. Pour oil into the bottom until it covers about a quarter inch. Wait. This takes longer than you think — 2 or 3 minutes. You're looking for the oil to shimmer and faint wisps of smoke to appear. Test it with a tiny crumb of cereal. It should bubble immediately and turn brown. If it doesn't bubble, wait another minute.
+
+Lay 6 sticks in the skillet. Don't crowd them. Space matters because crowding drops the oil temperature and you end up with soggy tofu. Each side takes about a minute and a half. You'll hear a faint crackling sound when the crust is forming. Look for deep golden. Flip carefully — the crust is still tender underneath and doesn't want to break.
+
+Transfer them to paper towels. Season with salt and black pepper while they're still hot. The heat helps the seasoning stick.
+
+Do the second batch the same way. Oil should still be hot. If it's cooled down, let it heat another 30 seconds before adding the sticks.
+
+Too dark means your oil was too hot. Lower the heat next time to medium-low. Too pale means it wasn't hot enough. You want that deep golden, almost caramel-looking crust. It's not complicated once you've done it once.
+
+Serve immediately. The crispness goes away fast if you wait. Dunk in the sauce or pour it on the side.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can you make these ahead?**
+Not really for the crispness factor. You can coat them ahead — do all the dredging, layer them on a plate with parchment between sticks, refrigerate up to 4 hours. Fry them fresh when you want to eat. Cold coating fries just fine.
+
+**What if your tofu is too wet?**
+Pat it longer. Paper towels work but a clean kitchen towel is faster. Press for a full minute. Water is the enemy of crispiness here. Some people wrap the tofu block in paper towels and stick a weight on top — a canned good, a plate, something — for 15 minutes before cutting. Haven't tried it myself. Probably overkill.
+
+**Does the smoked paprika really matter?**
+Yes. But not in a way you can't work around. It gives the sauce a depth thing instead of just sweet. Ketchup is the easy swap — different flavor but people still like it. You could leave it out entirely and it's still good, just more basic. The sauce works either way.
+
+**Can you use something other than Rice Krispies?**
+Cornflakes crush nicely. Panko doesn't work — it's too chunky and doesn't stick. Regular breadcrumbs work but don't get as crispy. You want something that crushes into fine crumbs and has air in it so it gets golden and crispy. That's Rice Krispies. Cornflakes come second.
+
+**How do you know when the oil is hot enough?**
+The crumb test. Drop a tiny piece of cereal in. If it bubbles and browns immediately, you're good. If it just sits there and slowly floats, wait another minute. If it browns too fast and burns, the oil is too hot. You're looking for vigorous bubbling, not violent sizzling.
+
+**Can you use soft tofu instead?**
+No. Soft tofu falls apart. Firm tofu is the baseline. Extra-firm works too and might be slightly less wet, which is a bonus. Silken tofu is pointless here.

@@ -1,10 +1,10 @@
 ---
-title: "Omble Crudo Cranberry"
+title: "Omble Crudo with Cranberry Vinaigrette"
 slug: "crudo-cranberry"
-description: "Raw omble or trout slices cured in salt and brown sugar. Sharp vinegar and cranberry vinaigrette. Crispy popped wild rice dressed with salt. Creamy dollop of mustard cream. Fresh cucumber, radish, cranberry rounds; basil leaf garnish. Cold bowls for plating. Simple, no nuts, dairy free options, gluten free. Prep involves curing fish then slicing thin with wet sharp knife. Popped rice made like popcorn but wild rice. Balance of acid, sweet, crunch, cream and fresh herb. A mix of textures and colors in one bowl."
-metaDescription: "Omble Crudo Cranberry blends cured omble trout sliced thin, tangy cranberry vinaigrette, popped wild rice crunch, creamy mustard cream, fresh cucumber, radish, basil garnish."
-ogDescription: "Thin slices of cured omble trout with sharp cranberry vinegar, crunchy popped wild rice, mustard cream, fresh veggies, basil leaves. Cool bowls keep it crisp."
-focusKeyphrase: "Omble Crudo Cranberry"
+description: "Salt-cured omble slices with tart cranberry vinaigrette, popped wild rice, and mustard cream. Fresh cucumber, radish, and basil make this elegant crudo dish."
+metaDescription: "Omble crudo recipe with salt-cured trout, cranberry vinaigrette, popped wild rice, and creamy mustard. Elegant, dairy-free friendly. Make it tonight."
+ogDescription: "Salt-cured omble with cranberry vinaigrette, popped wild rice, cucumber, radish, and mustard cream. Simple, elegant crudo."
+focusKeyphrase: "omble crudo"
 date: 2025-09-23
 draft: false
 image: crudo-cranberry.jpg
@@ -21,9 +21,16 @@ tags:
 - "cucumber"
 - "healthy"
 keywords:
-- "ombre trout"
+- "omble crudo"
 - "crudo slices"
 - "popped wild rice"
+- "ombre trout"
+- "salt-cured fish"
+- "cranberry vinaigrette"
+- "mustard cream"
+- "fish crudo recipe"
+- "trout crudo"
+- "apple cider vinegar"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "210"
@@ -83,3 +90,61 @@ faq:
 - "q: How to store popped wild rice leftovers? a: Best kept in airtight jar room temp, crisp up to one week. Refrigeration causes moisture and sogginess. If stale, refresh with dry pan toast briefly. Avoid freezer unless vacuum sealed; moisture kills crunch. Make fresh batch if possible for maximum crispness."
 
 ---
+
+Three pounds of fresh omble in the cooler. No plan except raw. This is what happened—a crudo that tastes like cold mornings and tart cranberries cutting through rich fish. Thirty minutes of prep, fifteen of actual cooking (the popped rice). Totally worth it for something that looks like it came from a kitchen you can't afford.
+
+## Why You'll Love This
+
+Takes 45 minutes total and most of that is curing time—you're not actually cooking. Just waiting.
+
+Works as an appetizer that doesn't need a kitchen full of dirty pans. One plate. One knife. Everything chilled before it hits the table.
+
+Seafood doesn't get lighter than this. Raw fish, bright acid, a single spoon of crème fraîche. You taste everything.
+
+The crunch from popped rice is stupid good—grab a jar's worth and throw it on salads all week.
+
+## Curing the Omble Chevalier
+
+Salt and dark brown sugar mixed together. That's your cure. Twenty-five milliliters salt. Twenty-eight grams brown sugar. The salt needs to be slightly less than you'd normally use—curing dries fish fast enough without oversalting it. Toss the filet in there, lay it flat side down on a plate, cover it tight with plastic, straight to the fridge. Fifty minutes minimum. An hour and fifteen is the max before it gets too firm and loses moisture. Check it halfway. You'll feel when it's right—still gives a little when you press it.
+
+Rinse the cured filet under cold water. Pat it completely dry on paper towels. Use a sharp knife, keep the blade wet with water so it doesn't stick and shred the fish. Hold the knife at about thirty degrees against the grain, slice thinly against those fibers until you get translucent slivers. Lay them on a chilled plate. Cover loosely with plastic. Fridge until you plate it or up to twenty hours. Longer than that and the fish starts losing its fresh texture.
+
+## Cranberry Vinaigrette and Popped Rice
+
+Bring apple cider vinegar and fresh cranberries to a boil in a small saucepan. Just tiny bubbles—not a hard rolling boil. Remove from heat, let it cool uncovered for thirty-five to forty minutes until it hits room temperature. You need that time for the acid to mellow. Pour the vinegar through a fine sieve into a bowl, discard the softened berries (they're done). Whisk in grapeseed oil and maple syrup. Taste it. Maple varies—adjust the sweetness to what you want. Chill it until you're ready to plate.
+
+For the popped rice, line a baking sheet with paper towels and set a fine mesh strainer over a heatproof bowl. Heat vegetable oil in a heavy pan on medium-high until it reaches about two hundred degrees Celsius. Add wild rice, stir constantly. Listen for the sudden popping—like tiny kernels exploding. It's violent. Oil will splatter. Once the popping slows down, quickly drain the rice over the strainer. Spread it on the baking sheet, sprinkle lightly with salt, let it cool completely. Store it in an airtight jar. Lasts a week. Use it on salads, soups, anything that needs crunch.
+
+## Assembly and Serving Cold
+
+Mix crème fraîche with whole-grain mustard in a small bowl. If you want to be fancy, fill a pastry bag with a small plain round tip and pipe dots. Or just spoon it on in dollops. No one cares.
+
+Use bowls from the fridge. Center the fish slices on each one. Drizzle the cranberry vinaigrette over. Dot the crème fraîche mixture around. Sprinkle popped rice for that crunch. Layer cucumber slices—thinly sliced on a mandoline, not thick. Same with radish. Scatter cranberry rounds. Finish with small basil leaves. Serve immediately. The whole point is cold fish on a cold plate.
+
+## What Can Go Wrong and How to Fix It
+
+Over-curing makes the fish too firm and salty. Under-curing tastes flat and it's not safe. Watch it at the halfway point. A sharp knife is essential—dull blades mush the fish. Popped rice needs truly hot oil or it just sits there and absorbs heat without popping. Don't skip the temperature.
+
+If you don't have a mandoline, slice the cucumber and radish as thin as possible with a knife. It won't be perfect but it's fine. No wild rice? Use black rice or short grain rice instead. Texture differs but it still pops and still works. Swap trout for Arctic char or salmon but adjust curing time downward—fattier fish cures faster and dries out quicker. Dairy-free? Coconut yogurt works. Vegan sour cream blend too. Keeping bowls in the fridge before plating prevents the fish from warming too soon.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**How long does the curing actually take?**
+Fifty minutes minimum. Hour and fifteen maximum. More than that and the fish gets too dry and tough. Less and it tastes flat. Check it halfway through—you'll feel when the texture is right.
+
+**Can I cure it ahead of time?**
+Cure it, slice it, cover it loosely and fridge it up to twenty hours. After that the fish loses freshness. If you're prepping the day before, cure it but don't slice until a few hours before service.
+
+**What if I don't have omble chevalier?**
+Trout works. Arctic char works. Salmon works too but needs less curing time—fifteen to twenty minutes less—because it's fattier and dries out faster. Don't use farm-raised salmon if you can avoid it. The flesh is too soft for crudo slices.
+
+**Do I have to use wild rice for the popping?**
+No. Black rice pops fine. Short grain rice pops fine. Texture's different but it still adds crunch. Wild rice just tastes better and lasts longer in the jar.
+
+**What's the difference between using a mandoline and a knife?**
+Speed and evenness. A mandoline gets them uniform and thin. A knife is slower and uneven. Uneven is fine. It looks more intentional anyway.
+
+**Can I make the vinaigrette ahead?**
+Yeah. Make it, cool it completely, fridge it. Lasts three days. Don't add the oil until you're ready to serve or it gets dull.

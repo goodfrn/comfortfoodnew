@@ -1,0 +1,36 @@
+{
+  "slug": "crunchy-anchovy-mozzarella-sandwich",
+  "title": "Crunchy Anchovy Mozzarella Sandwich",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mozzarella sandwich",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fried sandwich",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "panko crust",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "anchovy substitute",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "jalapeño sandwich",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

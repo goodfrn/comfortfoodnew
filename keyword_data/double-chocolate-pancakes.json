@@ -1,0 +1,26 @@
+{
+  "slug": "double-chocolate-pancakes",
+  "title": "Double Chocolate Pancakes",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate pancakes",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "folded egg whites",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "buttermilk pancakes",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

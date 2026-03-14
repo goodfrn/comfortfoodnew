@@ -1,10 +1,10 @@
 ---
-title: "Edamame Vegetarian Chili"
+title: "Edamame Vegetarian Chili with Chipotle"
 slug: "edamame-vegetarian-chili"
-description: "Hearty vegetarian chili with edamames, green beans, and smoky chipotle powder instead of regular chili. Tomatoes, kidney beans, sweet potatoes give texture and body. Sweetened lightly with maple syrup replacing molasses. Simple aromatics sautéed to bring out savory base. Thick, chunky, simmered until flavors meld well, with vegetable broth added for balanced consistency. Garnished with sour cream alternative and fresh cilantro leaves. Gluten and nut free, egg free, spicy but controlled. The dish warms, smells intense, and looks vibrant with rich red, green and yellow tones."
-metaDescription: "Edamame Vegetarian Chili loaded with smoky chipotle, sweet potatoes, and fresh veggies simmered low for rich, chunky texture and balanced heat."
-ogDescription: "Chunky chili with edamame, smoky chipotle, and sweet potatoes simmers low till textures meld. Fresh cilantro, dairy-free cream finish bold flavors."
-focusKeyphrase: "Edamame Vegetarian Chili"
+description: "Hearty vegetarian chili packed with edamames, black beans, sweet potato, and red bell peppers. Chipotle chili powder adds smoky heat while fire-roasted tomatoes create rich depth. Maple syrup balances the spice perfectly."
+metaDescription: "Make vegetarian chili with edamames, sweet potato, and chipotle powder. Black beans, bell peppers, and fire-roasted tomatoes simmer into a hearty, flavorful dish. Try it tonight."
+ogDescription: "Smoky chipotle vegetarian chili loaded with edamames, sweet potato, black beans, and fresh bell peppers. Warm, vibrant, and naturally gluten-free."
+focusKeyphrase: "vegetarian chili"
 date: 2025-08-10
 draft: false
 image: edamame-vegetarian-chili.jpg
@@ -21,10 +21,16 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "edamame chili"
 - "vegetarian chili"
+- "edamame chili"
 - "chipotle chili"
 - "sweet potato chili"
+- "black bean chili"
+- "meatless chili"
+- "plant-based chili"
+- "easy vegetarian chili"
+- "healthy chili recipe"
+- "gluten-free chili"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -76,3 +82,69 @@ faq:
 - "q: Best way to store leftovers? a: Cool completely before refrigerating in airtight container. Keeps well 3-4 days. Freeze in portion bags for 2-3 months. Reheat gently on low to avoid toughening beans. Stir while warming, add splash broth if thickened too much."
 
 ---
+
+Three onions, a can of fire-roasted tomatoes, and suddenly you've got a vegetarian chili that doesn't taste like you're missing anything. Edamame instead of meat. Green beans for texture. Sweet potato for a weird sweetness that works. Made this cold Tuesday when the fridge had leftovers and nothing clicked together—except it did. 60 minutes total, 20 of that is just chopping.
+
+## Why You'll Love This
+
+Takes an hour start to finish. Most of that is simmering while you do something else.
+
+Vegetarian comfort food that actually fills you up. Edamame and black beans together hit different than one or the other.
+
+Heat without destroying your mouth. Chipotle chili powder gives you smoke and spice, but maple syrup rounds it out so it's not aggressive.
+
+Easy dinner that tastes like you paid attention. Looks fancier than it is.
+
+## Building the Base — Onions, Garlic, and Chipotle Spice
+
+Two onions. Slice them thin. Not paper thin, just thin enough they'll soften in the first 5 minutes without turning brown. Three cloves garlic minced fine. Three tablespoons vegetable oil—enough that everything slides around, not so much you're basically deep-frying. Heat on medium.
+
+Listen for the sizzle. It should sound gentle. Stir every 30 seconds or so. You want them soft and translucent, not brown. Takes about 5 minutes. When they smell sweet—actually sweet, not just cooked—you're there.
+
+Two red bell peppers cut into big chunks. Not tiny. You want them to keep their shape during the 40-minute cook. Chipotle chili powder. A tablespoon and a half. That's the character of this whole thing. Add the peppers and powder together, stir for 90 seconds. Don't burn the spices. You'll smell when they wake up—that smoky, almost chocolate note.
+
+## Bringing It All Together — The Long Simmer
+
+Fire-roasted tomatoes. The can version. Don't drain them. Black beans from a can, rinsed. Two cups frozen edamame. One cup chopped green beans. One medium sweet potato diced small—smaller than the other vegetables because it takes longer to break down. Maple syrup. Two tablespoons. Salt and pepper now, more later.
+
+Pour it all in. Vegetable broth or water. Half a cup. Stir it once, hard, so nothing sticks to the bottom. Raise the heat until you see bubbles breaking the surface. Then lower it back down so it's simmering—gentle movement, not a rolling boil. Cover it halfway. You want some steam to escape so the liquid thickens naturally from the sweet potato breaking down.
+
+Set a timer for 35 minutes. Stir every 10 minutes or whenever you remember. Check the liquid. If it's looking too thick—like paste—add a splash of water or broth. Sweet potato will dissolve into the chili, thickening it on its own. You want saucy, not a brick.
+
+After 35-40 minutes the peppers should be soft, the edamame tender, the sweet potato basically gone. Taste it. Is it sweet enough? Too sweet? Not spicy enough? Adjust now. Salt first, then pepper. It's easier to add than take out.
+
+## Finishing — Dairy-Free Sour Cream and Cilantro
+
+Spoon it into bowls. Top each one with a dollop of dairy-free sour cream or regular plain yogurt. Doesn't matter which. The cold cream does something against the warm spice.
+
+Fresh cilantro on top. Generous. Handfuls. Green cuts through the richness and the heat both. Lime wedges on the side if you've got them. Squeeze one over the bowl. The acid makes everything brighter. Not required. Better with it.
+
+Leftovers sit in the fridge fine. Reheats fine. Flavor gets better the next day when everything's had time to know each other.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use dried edamame instead of frozen?**
+Haven't tried it. Seems weird. Frozen edamame are already shelled and ready. Dried ones would need soaking. Just stick with frozen.
+
+**What if I don't have chipotle chili powder?**
+Regular chili powder works. You lose the smoke—it'll taste more like a standard bean chili. Not bad, just different. Add smoked paprika if you have it. Teaspoon. Gets you closer.
+
+**How spicy is this actually?**
+Depends on your tolerance. Chipotle chili powder has heat but not brutal heat. Maple syrup takes the edge off. If you hate spicy, use half the powder. If you want it mean, add cayenne too. Small pinch.
+
+**Can I make this sweet potato chili in a slow cooker?**
+Sure. Sauté the onions, garlic, peppers, and spices first—don't skip that part, it matters. Then dump everything into the slow cooker for 4-5 hours on low. Same result, less attention.
+
+**Do I have to use edamame?**
+You don't have to. Chickpeas work. Extra black beans work. Lentils would work. Something about edamame here though—they're tender, they have protein, they don't disappear into mush.
+
+**How long does this keep?**
+Four days easy in the fridge. Longer if you want to push it. Freezes fine too. I'd freeze it without the toppings, add those when you reheat.
+
+**The sweet potato is turning everything mushy. How do I fix it?**
+Dice it smaller next time and add it later—maybe 20 minutes into the simmer instead of the start. Or use less. It's doing the job of thickener, but you can control how much it breaks down by timing.
+
+**What goes with this for an easy dinner?**
+Cornbread if you want to fuss. Rice is easy. Honestly, just serve it in a bowl with the toppings and call it done. That's the whole point.

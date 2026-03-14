@@ -1,0 +1,26 @@
+{
+  "slug": "dr-pepper-pulled-pork",
+  "title": "Dr Pepper Pulled Pork",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pulled pork",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "Dr Pepper recipe",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "slow cooker pork",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

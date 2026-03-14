@@ -1,0 +1,26 @@
+{
+  "slug": "dan-dan-pork-noodles",
+  "title": "Dan Dan Pork Noodles",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ground pork",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chili crisp",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "Sichuan peppercorns",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

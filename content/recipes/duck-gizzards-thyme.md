@@ -1,10 +1,10 @@
 ---
 title: "Duck Gizzards with Thyme-Citrus Twist"
 slug: "duck-gizzards-thyme"
-description: "Duck gizzards simmer gently in rendered duck fat, zested with lemon and fresh herbs. A hint of heat from smoked paprika replaces usual Espelette to deepen flavor without overpowering. Tarragon swaps thyme for a subtle anise aroma, adding complexity. Quick, rustic, forgiving. Serves as appetizer or a light main. Warm, tangy, herbal, slightly smoky. Use chicken fat if duck fat scarce; dried herbs if fresh missing but reduce quantity."
-metaDescription: "Duck gizzards cooked slow in rendered duck fat with lemon zest and smoked paprika. Tarragon adds faint licorice note. Rustic, tangy, smoky flavor packed in 37 minutes."
-ogDescription: "Slow-cooked duck gizzards crisp at edges, zested bright with lemon, spiced by smoked paprika, tarragon twists aroma. Tangy, herbal, smoky bites in 4 servings."
-focusKeyphrase: "Duck gizzards with thyme-citrus twist"
+description: "Duck gizzards cooked in rendered duck fat with lemon zest, fresh tarragon, and smoked paprika. A rustic, tangy dish that's quick to make and bursting with herbal complexity."
+metaDescription: "Duck gizzards recipe with rendered duck fat, lemon zest, and fresh tarragon. Smoked paprika adds depth. Make it tonight."
+ogDescription: "Tender duck gizzards in duck fat with lemon zest, fresh tarragon, and smoked paprika. Rustic and flavorful."
+focusKeyphrase: "duck gizzards"
 date: 2025-08-19
 draft: false
 image: duck-gizzards-thyme.jpg
@@ -24,6 +24,10 @@ keywords:
 - "duck gizzards"
 - "smoked paprika"
 - "tarragon lemon zest"
+- "rendered duck fat"
+- "lemon zest recipe"
+- "fresh tarragon"
+- "duck offal recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "330"
@@ -62,3 +66,57 @@ faq:
 - "q: How to store leftovers? a: Cool quickly then fridge up to 2 days. Reheat gently, low heat—don’t scorch or microwave hardens texture. Can freeze but texture shifts, best fresh. Leftover crispiness lost over time, eat while warm for best texture."
 
 ---
+
+Gizzards get a bad rap. Most people never try them. But duck gizzards—those meaty, dense little things—are actually incredible when you stop treating them like a chore and start treating them like what they are: a real, substantial appetizer. Had some leftover rendered duck fat last winter, a lemon sitting around, and honestly no idea what to do with it. This happened. Thirty-seven minutes, start to finish.
+
+## Why You'll Love This
+
+Takes 37 minutes total. Twelve minutes prep. That's appetizer speed.
+
+Duck gizzards taste nothing like what you think. Nutty. Tender if you don't mess it up. The citrus cuts through everything—not overpowering, just smart.
+
+Works as a start to something bigger. Also works as a light main over greens. One pan. One cleanup.
+
+It's actually elegant. Feels fancy. Tastes like someone knew what they were doing. Takes longer to explain than to make.
+
+## Duck Gizzards with Lemon Zest and Tarragon
+
+You need cooked duck gizzards. Already cooked. Not raw from the butcher—if that's what you have, you'll need to poach them first until tender. About 160 grams, which sounds small but isn't. Rendered duck fat, around 25 milliliters. Save it from roasting something or buy it separate. Olive oil doesn't work here—the fat matters. Lemon zest from one actual lemon. Not that bottled stuff. Fresh tarragon, chopped fine. Twenty milliliters. That's roughly a small handful. Smoked paprika. Not regular. The smoke is the whole point. Five milliliters gets you flavor without drowning it. Salt. Black pepper. Freshly ground. That part isn't negotiable.
+
+## Heating and Crisping the Gizzards
+
+Pour the duck fat into a small heavy pan. Not nonstick. Cast iron or stainless works. You want to see what's happening. Heat it gentle until it shimmers. The moment before it starts smoking. Not quite there yet. Lay the gizzards down skin side first, spread them out, don't crowd them. They need space. Let them sit. This is where patience matters. Ten minutes. Maybe nine. Watch the edges. They'll go from gray to golden to actually nutty-brown. The color shift is when you know. Resist stirring. Seriously. The skin gets crispy only if you stop moving them around. You'll smell it when it's right—toasty, almost sweet.
+
+Flip once. Just once. Another five minutes, same side of the pan. Don't fuss. The meat will feel firm but give a little when you press it. That springy texture—that's done. Overcooked gizzards get rubbery fast.
+
+## Building Flavor with Citrus and Spice
+
+This is the moment everything happens. Sprinkle the lemon zest over. Then the smoked paprika. Half the fresh tarragon—save the rest for finish. Stir once, quick, let it wake up the spices. Pour in the lemon juice. You'll actually hear it—a small hiss where the acid hits the hot fat. That sound means it's working. The brightness happens instantly. Two more minutes off heat, just watching the liquid reduce slightly. It doesn't evaporate completely. You want some of that lemony fat clinging to the gizzards.
+
+Season hard with salt. Crack the black pepper. More than feels normal. The gizzards can take it. Let it rest off heat for a few minutes—the flavors deepen when it's warm, not screaming hot.
+
+## When It Goes Wrong
+
+Gizzards taste like rubber? You cooked them too long. Lower your second heat phase to four minutes next time. They'll still be done. Taste too acidic? You added the lemon juice to a cooler pan. Keep the heat up when it goes in. The fat needs to be hot enough to balance the acid. If the bottom scorches, the pan was too hot from the start—medium heat, not medium-high. Smells burnt instead of nutty? Watch the edges color. Golden brown, not mahogany. Once you see it, flip. Don't wait for deeper color.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use chicken gizzards instead?**
+Yeah. Cook them the same way. They're smaller and leaner so watch them closer—might be done a minute or two earlier. Not as rich as duck but it works.
+
+**What if I don't have rendered duck fat?**
+Use ghee. Stays stable at high heat, doesn't smoke as easy, tastes good with the lemon. Butter burns. Olive oil's too mild. Avocado oil's fine but loses the duck flavor entirely. Not the same dish at that point.
+
+**How do I know the gizzards are actually tender?**
+Press one with your finger when it's done cooking. Should give a tiny bit, bounce back. Like pressing your cheek. If it's hard as a stone, you cooked it too long and nothing's fixing that batch. Next time, stop earlier.
+
+**Can I prep the gizzards ahead?**
+Cook them, let them cool, keep them in the fridge maybe two days. Then reheat gently before you add the lemon and tarragon. Fresh citrus really does matter—don't do that step ahead.
+
+**Does the fresh tarragon actually make a difference?**
+Yes. Dried tastes nothing like fresh. Don't bother with dried. Tastes like nothing. Fresh tarragon is anise-forward, floral. It's the reason the whole thing lands soft instead of sharp. Worth finding.
+
+**What should I serve this on?**
+Small plates as appetizer. Or over a simple bitter green salad with vinaigrette—the gizzards and fat work perfectly there. Some crusty bread, maybe. The juices are too good to waste.

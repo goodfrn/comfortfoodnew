@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Wrapped Asparagus"
+title: "Crunchy Wrapped Asparagus with Herb Sauce"
 slug: "crunchy-wrapped-asparagus"
-description: "Crispy asparagus spears wrapped in thin sheets with a herby, zesty butter glaze. Served alongside a tangy, creamy herb sauce with yogurt and mayo base. Poppy seeds swap for chill flakes, dill replaced by tarragon, thyme thrown into butter mix. Baking timed to golden, cracking phyllo layers. Rolling technique critical–too loose and they unravel; too tight, asparagus breaks. Yogurt mayo sauce chilled to freshen the palate against the rich crunch. Adaptable throw-in is prosciutto or grated Parmesan if you want meat or extra depth. A quiet crunch and the zing of lemon zest lift the whole. The herb combo changed, but the soul: vibrant, bright, savory with heat. The usual nudge away from straight dill and heat brings surprising balance."
-metaDescription: "Crunchy wrapped asparagus with buttery filo and a tangy herb yogurt sauce. Tarragon, thyme, lemon zest, poppy seeds add fresh, nutty contrast to golden layers."
-ogDescription: "Golden filo-wrapped asparagus spiked with tarragon and lemon zest. Crispy, herby, creamy yogurt dip on the side. Watch for that crackle, don’t overbake."
-focusKeyphrase: "filo wrapped asparagus"
+description: "Crispy asparagus wrapped in filo pastry with tarragon butter and poppy seeds. Served with a creamy herb sauce made from yogurt, mayo, and fresh lemon zest for bright flavor."
+metaDescription: "Wrapped asparagus recipe with filo pastry, tarragon butter, and a tangy yogurt herb sauce. Golden, crispy, and restaurant-quality. Make it tonight."
+ogDescription: "Filo-wrapped asparagus with tarragon butter and creamy yogurt herb sauce. Crispy, bright, and surprisingly elegant."
+focusKeyphrase: "wrapped asparagus"
 date: 2025-08-17
 draft: false
 image: crunchy-wrapped-asparagus.jpg
@@ -21,9 +21,13 @@ tags:
 - "roasted"
 - "french"
 keywords:
+- "wrapped asparagus"
 - "asparagus"
 - "filo pastry"
 - "herb sauce"
+- "tarragon butter"
+- "crispy asparagus"
+- "yogurt herb sauce"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "210"
@@ -75,3 +79,73 @@ faq:
 - "q: How to store leftovers? a: Best eaten fresh for crunch. Store sauce separately in fridge. Asparagus wraps reheat briefly in oven to avoid sogginess. Avoid microwaving, makes filo limp. For longer storage, freeze before baking. Bake from frozen but crisp less well."
 
 ---
+
+Asparagus wrapped in crispy filo. Butter and herbs. A dipping sauce that's cold and bright. Twenty-five minutes to prep, fifteen in the oven. Had some French friends over once, and they expected me to mess this up. I didn't. It's actually simple.
+
+## Why You'll Love This
+
+Takes 40 minutes total. Most of that is just wrapping, which you can do while listening to something or talking. Gets boring, but it's not hard.
+
+Serves as an appetizer that actually impresses. Not like you spent hours. Just looks elegant because of the filo triangles and the herb sauce on the side.
+
+Vegetarian and works for literally everyone. Even people who claim they don't like vegetables will eat these. The butter and crispy pastry help with that.
+
+The contrast between hot and cold matters here. Warm, shattered filo against cold herb sauce. That's the whole thing working together.
+
+## Wrapping Asparagus in Buttered Filo
+
+Yogurt and mayo mixed together. Equal parts, basically. Tarragon and thyme—fresh if you have it. Lemon zest. Salt and pepper. That's your sauce. Mix it cold and it stays cold. Leave it in the fridge while you work.
+
+Butter melted with tarragon and poppy seeds. The seeds give texture without heat—not like chili flakes would. You could use chili flakes. Some people do. This is softer. Lemon zest goes in too, which keeps things bright.
+
+Filo sheets. Three of them. The trick is keeping the ones you're not using covered so they don't dry out and crack. Use a damp towel. Not soaking wet. Just damp.
+
+Twenty-four large asparagus spears. Trimmed means the woody bottom gone. Cut those off or they'll be mealy. Nobody wants mealy asparagus.
+
+## Rolling and Roasting
+
+Oven to 220°C. That's 430°F. Rack in the middle. Parchment on the baking sheet.
+
+Stack your filo. Brush butter between each layer. Not drenched. Just a thin coat. Now cut the whole stack lengthwise into 3 long strips. Cut each strip into 4 squares. Cut each square diagonally. You get 24 triangles. Way easier to work with than whole sheets.
+
+Asparagus spear goes on the corner of the triangle. Roll it tight but not so tight the spear breaks. The pastry should cover the middle and most of the tip. Loose wraps unwrap in the oven. Tight wraps snap the spear.
+
+Line them on the sheet spaced out. Brush the tops with leftover butter. This is what makes them gold and crackling.
+
+Bake 12 to 15 minutes. Flip them halfway when the pastry starts bubbling. You're looking for edges that brown and a sound like actual shattering when you move one around. That's crispy. Under-baked it's chewy and damp inside. Over-baked and the asparagus turns to nothing.
+
+Pull them off the sheet immediately. Don't leave them sitting. They'll continue cooking and the bottoms will brown too much.
+
+## Common Problems and How to Fix Them
+
+Filo drying out before you finish wrapping. Keep a damp towel over the stack. Sounds weird but it works.
+
+Asparagus breaking when you roll it. You're rolling too tight or you picked spears that were already split at the end. Trim more aggressively. The thick part near the base is what matters anyway.
+
+Pastry doesn't crisp. Not enough butter on top, or your oven runs cold. Brush more generously next time. If it's an oven thing, try 5 degrees higher.
+
+Sauce too thick. Whisk in a teaspoon of water or lemon juice. Keeps it from being gluey.
+
+Tarragon tastes weird to you. Basil works. Oregano works. Thyme works. Just keep the lemon zest so it doesn't taste flat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I prep these ahead of time?**
+Wrap them in the morning, keep them on the baking sheet uncovered in the fridge, bake them 15 minutes before serving. They hold fine. Don't wrap them in plastic—the filo sticks to it.
+
+**What if I can't find fresh tarragon?**
+Use basil or oregano. Fresh matters here more than the type. Dried herbs turn dusty and bitter when you mix them into the butter. Fresh is worth finding.
+
+**How do I know when they're done without a timer?**
+Listen and look. The pastry should sound crispy when you nudge one. Edges will be golden brown, not pale. The asparagus pokes through a little at the tips and those tips should look slightly caramelized. You'll know it when you see it.
+
+**Can I use olive oil instead of butter?**
+Sure. Won't crisp as much. Butter is what makes that shatter-crunchy texture happen. Olive oil gets you there but softer. Tastes lighter though, which some people prefer.
+
+**Why poppy seeds and not something else?**
+Poppy seeds are subtle. They just sit there. Don't taste like much but give this nutty little crunch. Chili flakes would dominate. Sesame would too. Poppy seeds stay quiet.
+
+**Do I have to flip them halfway?**
+Not mandatory. If you flip them the bottoms brown more evenly. Skip it and the bottoms stay pale and the tops get darker. Both work. Flipping takes 30 seconds.

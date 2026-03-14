@@ -1,0 +1,26 @@
+{
+  "slug": "double-ginger-crunch-cookies",
+  "title": "Double Ginger Crunch Cookies",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ginger cookies",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chewy cookies",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "cardamom spice",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

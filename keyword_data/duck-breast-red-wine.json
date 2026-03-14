@@ -1,0 +1,26 @@
+{
+  "slug": "duck-breast-red-wine",
+  "title": "Duck Breast Red Wine Cocoa",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "duck breast",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate sauce",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot dish",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

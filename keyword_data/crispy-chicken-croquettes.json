@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-chicken-croquettes",
+  "title": "Crispy Chicken Croquettes",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "croquettes",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken thighs",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "double coating",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

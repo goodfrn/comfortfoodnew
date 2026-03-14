@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-veggie-salad",
+  "title": "Crunchy Veggie Salad Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "veggie salad",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "dressing recipe",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "toasted seeds",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

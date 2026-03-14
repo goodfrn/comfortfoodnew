@@ -1,9 +1,9 @@
 ---
-title: "Dairy-Free Pesto Twist"
+title: "Dairy-Free Pesto Twist with Cashews"
 slug: "dairy-free-pesto-twist"
-description: "A fresh, nutty pesto with a creamy texture free of dairy and gluten. Uses cashews for richness, nutritional yeast for a cheesy touch, and lemon for brightness. Basil provides that classic herbal aroma. Easy to tweak depending on pantry availability and desired texture. A quick blend that shines with the right balance of garlic and salt. Great on pasta or as a spread. Adjust oil flow for consistency. Works vegan, no eggs, no lactose, no gluten."
-metaDescription: "Dairy-Free Pesto Twist with roasted cashews, fresh basil, nutritional yeast, and lemon juice. Nutty, creamy texture without dairy or gluten. Adjust oil flow as needed."
-ogDescription: "Roasted cashews meet fresh basil and lemon juice. Nutritional yeast for cheesy notes. Dairy and gluten free. Pulse blend, drizzle oil, keep bite. Try variations with nuts or greens."
+description: "Dairy-free pesto made with roasted cashews, fresh basil, and nutritional yeast for a creamy, cheesy flavor. Blended with lemon juice and olive oil for brightness."
+metaDescription: "Make dairy-free pesto with cashews, basil, and nutritional yeast in minutes. Creamy, vegan, and delicious on pasta. Try it tonight."
+ogDescription: "Creamy vegan pesto with roasted cashews, fresh basil, and nutritional yeast. Dairy-free, gluten-free, and ready in minutes."
 focusKeyphrase: "dairy-free pesto"
 date: 2025-08-28
 draft: false
@@ -21,9 +21,14 @@ tags:
 - "italian"
 - "easy"
 keywords:
+- "dairy-free pesto"
+- "vegan pesto"
 - "cashew pesto"
 - "nutritional yeast pesto"
-- "vegan pesto"
+- "dairy-free basil pesto"
+- "vegan cashew sauce"
+- "gluten-free pesto"
+- "cashew basil pesto"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "220"
@@ -64,3 +69,79 @@ faq:
 - "q: What is best way to store leftover pesto? a: Airtight jar with thin olive oil layer pressed on top slows oxidation and browning. Refrigerate 3-4 days max. Keep at room temp before serving for best flavor brightness. Avoid freezing, oil-water splits, gritty texture returns. Cover opening tightly. Use clean spoons to scoop. Adding fresh oil after storage revives gloss and aroma a bit."
 
 ---
+
+Three pounds of basil from the farmer's market and a block of parmesan that didn't exist in my kitchen anymore. Dairy-free wasn't the plan. It was the situation. Cashews seemed ridiculous until they weren't.
+
+This dairy-free pesto twist is fast. 17 minutes, that's it. No cooking. No waiting. Just a food processor and something you can actually taste in 10 minutes flat.
+
+## Why You'll Love This
+
+Takes 17 minutes. No stove. No mess beyond one bowl and a spatula.
+
+Works with literally everything — pasta, bread, roasted vegetables, sandwiches. Gluten free by default. Vegan by accident, which means everyone eats it.
+
+Tastes better than store pesto because you control the lemon. Control the salt. Control whether it's smooth or has actual texture.
+
+Cashew pesto is richer than you'd expect. The toasting matters. It's not a shortcut — it's the entire flavor.
+
+## What You Actually Need
+
+Garlic. Two cloves. Rough chop them first so the processor doesn't turn them into paste before the basil even hits.
+
+Roasted cashews. Not raw. Lightly toasted if they aren't already — that deeper aroma is the whole point. Watch them though. Bitter is one second away.
+
+Fresh basil leaves. Packed. 55 grams. Wash them, then dry them hard. Wet basil waters everything down. Ruins the texture.
+
+Nutritional yeast. 12 grams. The umami thing. Cut it slightly lower than standard pesto because it can clash with the lemon. You don't need a cheese substitute that screams.
+
+Lemon juice. Freshly squeezed. 25 milliliters. Bottled is flat. Skip it.
+
+Extra virgin olive oil. 130 milliliters. Good oil matters here because there's nothing else masking it. It's half the recipe.
+
+Sea salt and pepper. Taste as you go. Not before.
+
+## Making It Without Burning Everything
+
+Set the food processor up. Garlic in first. Pulse twice. Add the cashews — watch their color. They should be golden, maybe one shade darker. Run the processor and they warm up more, so you stop early.
+
+Dump the basil on top. Dry basil. Wet leaves make everything slip around instead of breaking down. Sprinkle the nutritional yeast over the basil. Then pour the lemon juice. This order matters because lemon on top keeps things from clumping immediately.
+
+Pulse in bursts. Not one long blend. Pulse, scrape, pulse again. You want texture here. A bit of grain. Some uneven spots. Over-blending heats the motor and squeezes the oils out prematurely, which sounds dramatic but it's real. The pesto gets thin and tastes less like anything.
+
+Oil goes in while the machine runs on low. Drizzle. Steady. Watch it go from dry clumps to something creamy, but stop before it's smooth silk. Pesto needs tooth. Needs resistance. Adjust the oil flow if it's thickening too fast — you can always add more.
+
+Stop. Taste it. Wait five minutes. Flavors settle. They meld into something different than what you tasted at minute two. If the lemon is too sharp, a pinch of sugar or a splash more oil softens the edge. Salt and pepper after. Sparingly.
+
+## Mistakes People Make
+
+Raw cashews instead of toasted. They taste like nothing. Mealy. Toasting takes 4 minutes in a dry pan and changes everything.
+
+Wet basil. It dilutes the whole thing. Dry it after washing. Actually dry it.
+
+Blending too long. You don't need pesto that looks like it came from a jar. The grain, the slight chunkiness — that's the point.
+
+Garlic panic. Two cloves seems small but raw garlic is loud. It gets louder as it sits. Start with two. Add more if you need it. You can't remove it.
+
+Not enough lemon. Most people undersalt and under-acid their pesto. The brightness is what makes it work. Taste it bold. You can always back off.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this without a food processor?**
+Mortar and pestle works. Slower. Maybe 25 minutes instead of 17. Garlic goes in first, crush it into paste. Cashews next, grind them down. Basil after. Same idea — you're breaking things down, not pureeing them. Your arm gets tired. Worth it if you like the control.
+
+**What if I don't have nutritional yeast?**
+Just skip it. The pesto won't have that umami depth but it's still good. Add a touch more salt to compensate. Or use cashew pesto with a pinch of miso if you have it. Changes the flavor but works.
+
+**How long does this keep?**
+Three to four days in an airtight jar. Best in the first 24 hours — the basil color fades, flavor goes duller after that. Press the surface down with olive oil to slow oxidation. It helps a little.
+
+**Can I use walnuts instead of cashews?**
+Yeah. Walnuts are earthier, less sweet. They bring a different tone to the whole thing. Toast them the same way. Just watch the timing — they brown faster than cashews sometimes.
+
+**Should I use jarred garlic or garlic powder?**
+No. Neither. Fresh is the only move here. Jarred tastes like vinegar. Powder tastes like dust. This is 17 minutes — use fresh garlic.
+
+**What if the pesto is too thick?**
+Add more olive oil. A tablespoon at a time. Pulse it in. The consistency should be spreadable but not pourable. If you go too far, you can't fix it backward.

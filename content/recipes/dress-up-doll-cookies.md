@@ -1,10 +1,10 @@
 ---
-title: "Dress-Up Doll Cookies"
+title: "Dress-Up Doll Cookies with Butter & Egg"
 slug: "dress-up-doll-cookies"
-description: "Hand-shaped cookies resemble dolls to dress up with colorful outfits cut from dough. Uses flour and baking powder base, with butter and egg for richness. Multiple gel food colorings tint parts of dough for clothes. Royal icing glues and decorates wearables after baking. Refrigerate dough segments to firm. Cut big doll shapes plus smaller garment pieces. Bake briefly till lightly golden bottoms show. Assemble and decorate with white icing and water mix. Wait for drying before playtime. Includes unique twist of swapping some ingredients and altering proportions by about 30 percent. Equipment needed: cookie cutters, rolling pin, piping bag or spatula, parchment paper. Yield: 4 large dolls with 8 or so costumes."
-metaDescription: "Dress-Up Doll Cookies are fun edible dolls that kids can dress up with colorful costumes made from dough. A creative baking project for all ages."
-ogDescription: "Bake Dress-Up Doll Cookies and make fun doll shapes with colorful outfits to decorate. A hands-on activity for kids and adults. Great for creative play."
-focusKeyphrase: "Dress-Up Doll Cookies"
+description: "Hand-shaped doll cookies made with flour, butter, and egg. Decorate with colorful gel food coloring and royal icing for a fun baking project the whole family enjoys."
+metaDescription: "Make doll cookies with butter, egg, and flour. Create colorful outfits using gel food coloring and royal icing. A hands-on baking activity kids love. Try it tonight."
+ogDescription: "Hand-shaped doll cookies decorated with gel food coloring and royal icing. A fun baking project for families."
+focusKeyphrase: "doll cookies"
 date: 2025-07-17
 draft: false
 image: dress-up-doll-cookies.jpg
@@ -24,6 +24,13 @@ keywords:
 - "doll cookies"
 - "baking project"
 - "hands-on activity"
+- "decorating cookies"
+- "sugar cookies"
+- "royal icing"
+- "gel food coloring"
+- "butter cookies"
+- "children's baking"
+- "edible crafts"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "230"
@@ -76,3 +83,100 @@ faq:
 - "q: Is it okay to use different extracts? a: Absolutely. Besides vanilla and almond, explore other flavors. Lemon or orange can add zest. Balance flavor with sweetness when adjusting."
 
 ---
+
+Three hours of rainy afternoon. My daughter wanted to bake but also wanted a project. This was the answer—cookies you build, dress, decorate. Takes 49 minutes total but feels like you've done something.
+
+## Why You'll Love This
+
+Makes a mess in the best way. Cookies AND a hands-on activity wrapped into one. Kids actually engage instead of just eating.
+
+Vegetarian, obviously. Butter, egg, sugar. Nothing weird.
+
+Shows up at parties and people ask what they are. Then they eat three.
+
+## What You'll Actually Need
+
+Unbleached all-purpose flour. 280 ml. Sift it with 2 ml baking powder and a pinch of salt—actually matters here because you're working with thin dough.
+
+Softened unsalted butter. 150 ml. Room temp. Cold butter won't cream right.
+
+Granulated sugar. 140 ml. The regular stuff.
+
+5 ml almond extract. Not vanilla. The almond is why these taste different from every other sugar cookie. Subtle. But it's there.
+
+One large egg.
+
+Six to eight gel food coloring drops. Gel, not liquid. Liquid thins the dough. Gel colors without mess.
+
+For the icing: one egg white, 280 ml powdered sugar, a few drops water. That's it.
+
+Doll-shaped cookie cutters. Male and female both. You need both or the second set just looks weird. Get the small fluted wheel too—makes details on hats and dress hems look intentional instead of lazy.
+
+## How to Actually Build These
+
+Set the oven to 175°C. Mid-level rack. Line two sheets with parchment. This matters because the pieces bake unevenly and you need the second sheet for all those little clothing bits.
+
+Cream the butter and sugar together until it's actually creamy—like two minutes, medium speed. Add the almond extract first, then the egg. Beat it until it's smooth. Shouldn't look grainy.
+
+Fold the dry ingredients in by hand with a wooden spoon. Don't use a mixer. You'll overwork it. Fold maybe six times, until you can't see dry flour anymore.
+
+Form the dough into a cylinder on a floured surface. Wrap two thirds in plastic. Chill it 25 minutes. Take the remaining third—that's your uncolored doll bodies.
+
+Slice that last third into seven pieces. Add one gel food coloring drop to each piece. Use clean hands or a spoon for each color or they'll all turn brown. Reshape them into flat discs. Cover. Chill another 25 minutes.
+
+Now the shaping part. Roll out the uncolored dough to about 3 mm thick. Cut four dolls—two male, two female, or whatever ratio you want. Put them on the first sheet.
+
+Roll out each colored dough disc. For each color, cut one doll shape. Then slice that doll into pieces—shirt, pants or skirt, hat, gloves, belt, shoes. Doesn't have to be perfect. Kids won't care. Actually, imperfect looks better.
+
+Use the fluted wheel to trim dress hems and hat edges. Makes them look less chunky. Arrange all the small pieces on the second sheet. Spread them out so they bake evenly.
+
+Bake 7 to 12 minutes depending on thickness. The bodies take longer than the tiny sleeves. Watch for the bottoms to turn lightly golden. They'll look slightly underdone on top and that's correct. They'll firm up as they cool. Cool everything completely on racks before touching.
+
+## Decorating—The Actually Fun Part
+
+Whisk the egg white and powdered sugar together until smooth. If it's too thick, add water drops one at a time. You want it thick enough to hold a shape but thin enough to pipe. This takes maybe three minutes of whisking.
+
+Pipe or spread icing onto the body dolls first. Use it like glue. Then arrange the colored clothing pieces on top of the icing. Press them down gently. The icing sets as it dries, holding everything in place.
+
+Pipe details if you want—faces, buttons, belts. Or don't. The cookies are already decorated enough.
+
+Let everything dry about 35 minutes before anyone touches them. The icing hardens and the pieces stay put. You can stack them after that without pieces sliding around.
+
+## Things That Go Wrong
+
+Dough too warm when you cut it. The shapes get fuzzy edges. Keep it in the fridge if this happens. Five minutes fixes it.
+
+Colored dough mixed unevenly. You get streaky cookies. Knead it more. Really work it in.
+
+Pieces burn on one sheet while the other sheet is pale. Your oven has hot spots. Rotate the sheets halfway through. Not a big deal.
+
+Icing too thin and the clothes slide off the bodies. Add more powdered sugar. Tiny spoon, tiny amounts.
+
+Icing too thick and you can't pipe it. Water. One drop. Stir. Try again.
+
+The bodies themselves are sturdy enough that thick icing won't cause problems. The real issue is the clothing pieces—they're light and will slide if the icing is basically soup.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can you use liquid food coloring instead of gel?**
+No. Liquid makes the dough wet and spongy. Gel colors without thinning anything out. The difference is noticeable.
+
+**How long do these actually stay fresh?**
+In an airtight container, about a week. The cookies get slightly softer but the icing hardens enough that pieces stay attached. After that they start tasting stale but they're not dangerous.
+
+**Can you make the dough ahead?**
+Yeah. Wrap the uncolored cylinder and colored discs separately. They'll keep in the fridge for 2 days. Freeze them and they last a month. Thaw in the fridge before rolling.
+
+**What if you don't have doll cutters?**
+Use gingerbread people cutters. Person cutters. They work fine. The shapes are just taller or shorter depending on what you have. The principle is the same—cut a body, cut clothes, ice them together.
+
+**Why almond extract instead of vanilla?**
+Almond tastes less generic. Vanilla is fine. You can use it. But almond is why people ask what's different about these cookies. It's subtle and people notice it without knowing why.
+
+**Can the icing be made with something other than raw egg white?**
+Powdered egg white works. Meringue powder works. Aquafaba doesn't work as well—stays slightly grainy. If raw egg is a concern, use the powder versions. Most baking supply stores have them.
+
+**How much hands-on time is this actually?**
+42 minutes of real work. The 25-minute chills are waiting time. Decorating takes another 10 minutes once the cookies are cool. Not bad for a hands-on activity that keeps kids busy and produces something they actually want to eat.

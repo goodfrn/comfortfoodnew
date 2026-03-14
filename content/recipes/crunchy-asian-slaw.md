@@ -1,9 +1,9 @@
 ---
-title: "Crunchy Asian Slaw Twist"
+title: "Crunchy Asian Slaw with Sesame Oil"
 slug: "crunchy-asian-slaw"
-description: "Crunchy shredded green and purple cabbage married with sweet carrot ribbons. Honey and rice vinegar mingle with toasted sesame and peanut oils, bringing nutty warmth. Faint heat from crushed chili flakes lifts it. Crisp chow mein noodles and toasted almonds pepper texture contrast. Vinaigrette cooked briefly to meld, thickens just right. Cold resting builds flavor depth. Adjust oils for nut allergies. Quick chop, toss, serve alongside chicken, pork, or shrimp. A riff on Asian slaw but with subtle tweaks and texture shifts. Vibrant, light, crunchy, sweet and tangy all at once. Feels fresh but with some toasted nuance. Keeps well chilled, noodles separate until ready to serve. "
-metaDescription: "Crunchy Asian slaw twist with green and purple cabbage, honey-rice vinegar vinaigrette, toasted sesame and peanut oils. Toss last minute noodles and almonds."
-ogDescription: "Crunchy cabbage slaw with sweet honey vinegar dressing, toasted oils, chili flakes. Add noodles and almonds last for crisp texture. Serve chilled with grilled meats."
+description: "Crispy Asian cabbage slaw with shredded green and red cabbage, carrots, and chow mein noodles. Rice vinegar and sesame oil create a tangy-nutty dressing. Topped with toasted almonds for crunch."
+metaDescription: "Make this Asian cabbage slaw with rice vinegar, sesame oil, chow mein noodles, and toasted almonds. Fresh, tangy, and crunchy. Make it tonight."
+ogDescription: "Shredded cabbage, carrots, crispy noodles, and toasted almonds tossed in a sesame oil and rice vinegar dressing."
 focusKeyphrase: "Asian cabbage slaw"
 date: 2025-09-29
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "honey"
 - "spicy"
 keywords:
+- "Asian cabbage slaw"
 - "cabbage slaw"
 - "Asian salad"
+- "sesame oil dressing"
 - "crispy noodles"
+- "carrot slaw"
+- "fried chow mein noodles"
+- "toasted almonds salad"
+- "rice vinegar dressing"
+- "crunchy salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "180"
@@ -75,3 +82,87 @@ faq:
 - "q: How long store salad? a: Best fresh same day but can keep in fridge 24 hrs. Store dressing separate if possible. Add noodles last minute. Almonds toasted fresh stay crunchy. Chill covered vinaigrette to avoid odors. Toss gently before plating."
 
 ---
+
+Three pounds of shredded cabbage staring at me. A jar of sesame oil. Basically had to make something happen. This turned into the kind of slaw that actually stays crispy, gets better as it sits, and doesn't taste like vinegar tried to murder it. The honey and sesame work together—spicy backing them up, almonds doing the texture thing. Takes 22 minutes total and works as a side for literally anything hot.
+
+## Why You'll Love This
+
+Comes together in 22 minutes flat. Salad, vinaigrette, done. No cooking vegetables into mush.
+
+The honey cuts the vinegar so it doesn't get aggressive. Spicy just sits there in the background. Tastes balanced instead of one-note.
+
+Stays crunchy for actual days. Noodles go in last, almonds don't get soggy. Eat it Tuesday, still snaps when you bite it.
+
+Works with whatever protein you've got. Grilled chicken. Pork. Shrimp. Literally a side that doesn't need anything else to complete it.
+
+## What Goes Into the Bowl
+
+Rice vinegar. Not white vinegar. Rice vinegar tastes bright without turning into pure acid. Sixty milliliters peanut oil, then 90 milliliters toasted sesame oil—the combination keeps everything from tasting greasy. Honey. Not much, just enough to round out the sharp edges. A pinch of crushed red pepper flakes. Cornstarch in the vinegar mixture. It thickens just enough so the dressing sticks instead of pooling.
+
+The cabbage part: green and red. Shred it fine on a mandoline if you have one. Knife works too but takes longer and the pieces won't be even. Thin matters. Thick cabbage chews weird. Two medium carrots julienned thin. Same rule—thin means it'll actually soften when the vinegar hits it, not stay hard and raw.
+
+Crunchy fried chow mein noodles. Buy them in a bag. Toast almonds yourself. Store-bought toasted ones taste like nothing. Watch them in a dry pan. They go from golden to burnt in about 30 seconds. Freshly ground black pepper at the end.
+
+## Making the Vinaigrette That Actually Works
+
+Small saucepan. Medium heat. Whisk together the rice vinegar, honey, cornstarch, salt, and red pepper flakes. Keep whisking. You're looking for it to bubble, then keep going for about 20 seconds more. It'll thicken. Not much. Just enough to see a slight sheen. Stop before it gets gloopy.
+
+Pull it off heat. This is important. Now add the oils slowly—drizzle the peanut oil in first while whisking hard. Then the sesame oil the same way. Fast oil in = broken dressing. Slow drizzle while whisking = emulsion that stays together. Add fresh cracked pepper. Taste it. If it's too sharp, you're going to fix it when you toss it with the cabbage.
+
+Let it cool in the fridge. Takes about 10 minutes, maybe 15. Covered. The flavors actually change as it cools. Tastes less harsh. Better.
+
+## Building the Slaw
+
+Large bowl. Dump in the green cabbage, then the red, then the carrot sticks. Everything raw. Toss it once just to mix.
+
+Pour the vinaigrette over slowly. Start with half. Toss it. The cabbage should glisten. If there's a puddle of dressing sitting at the bottom, you added too much. Stop. You're not making a salad you have to eat with a spoon. Taste it. Salty enough? Needs more honey? Now's the time. Adjust while you can.
+
+Wait. Don't add the noodles yet. Don't add the almonds. They'll absorb moisture and get soft. They have maybe 2 hours before they start losing their crunch, and that's if you're lucky.
+
+Right before you serve it—and this matters—fold in the fried noodles and almonds gently. Toss the whole thing once. Keep the noodles in clusters if you can. Serve immediately.
+
+Leftover slaw keeps in the fridge for three days, easy. Just don't dump the noodles and almonds in with it. Add them fresh each time you eat it. That's the only way it stays actually crunchy.
+
+## Getting the Details Right
+
+The vinaigrette will split if the oil goes in too fast. Just whisk it harder. If it already split and you didn't catch it, throw it in the fridge for 5 minutes, then whisk it again. Usually comes back together.
+
+Mandoline saves time but watch your fingers. Seriously. Thin green cabbage and thin red cabbage texture the same when they're shredded right. Thick pieces stay hard and chewy. Doesn't work.
+
+Carrots need to be julienned thin. Thick carrot sticks stay raw and crunchy to the point of being unpleasant. Thin ones soften just enough.
+
+Toast the almonds yourself. Thirty seconds in a dry pan over medium heat. They'll smell incredible. That's when you stop. Any longer and they taste burnt and bitter.
+
+Fried chow mein noodles soften fast. Add them when you're literally about to eat it. Not before. Not 20 minutes before.
+
+No peanut oil? Use canola or mild vegetable oil. You lose some of the aroma but it works. No rice vinegar? Mild white vinegar plus a squeeze of lime juice gets close.
+
+Honey should sit on top of everything when you're mixing. It doesn't dissolve. Stir it in anyway. It'll find its way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Do I really have to wait for the vinaigrette to cool?**
+Ten minutes in the fridge changes it. Less sharp. Better. You could skip it and serve warm but the flavor's harsher. Your call. I wait.
+
+**Can I make this the night before?**
+Make the vinaigrette the night before. Keep it covered. Make the cabbage slaw in the morning or a few hours before. Add the noodles and almonds like five minutes before you eat it. After that timing, noodles get soft.
+
+**What if the dressing separates?**
+Happens sometimes. Whisk it again hard. Or stick it in the fridge for a few minutes then whisk. Usually comes back. If it stays split, the oil went in too fast next time. Drizzle slower.
+
+**Should I toast the almonds or buy them pre-toasted?**
+Toast them. Pre-toasted tastes like cardboard. I'm not exaggerating. Thirty seconds in a dry pan. Watch them. They're fast.
+
+**How thin should the cabbage actually be?**
+Thin enough that you can see through it if you hold a piece up. Sounds extreme but that's the texture that works. Mandoline does this automatically. Knife gets there if you're careful.
+
+**Can I use a different vinegar?**
+Rice vinegar's bright without being aggressive. White vinegar's too sharp. If you're stuck, white vinegar plus lime juice works okay. Won't be the same but it's fine.
+
+**Does the honey dissolve into the dressing?**
+No. It sits on top. Stir it in as you go. It'll distribute. This is normal. Not a mistake.
+
+**How long does it stay crunchy?**
+If you add the noodles and almonds right before eating—three days in the fridge. If you add them the night before, they're soft by day two. The cabbage keeps for like a week but it gets quieter.

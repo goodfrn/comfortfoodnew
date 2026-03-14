@@ -1,0 +1,31 @@
+{
+  "slug": "edamame-vegetarian-chili",
+  "title": "Edamame Vegetarian Chili",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "edamame chili",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetarian chili",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chipotle chili",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato chili",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

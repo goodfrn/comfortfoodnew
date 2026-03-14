@@ -1,10 +1,10 @@
 ---
 title: "Duck and Honey-Glazed Apple Skewers"
 slug: "duck-honey-glazed-apple-skewers"
-description: "Duck breast cubes threaded with honey-glazed apple chunks, grilled over medium heat and basted continuously. Honey reduced with soy sauce, apple cider vinegar, and a hint of cinnamon creates a sticky, shiny glaze. A twist replaces yellow apples with tart Granny Smith for bite contrast. Skewers soak beforehand to avoid flare-ups. Visual and tactile cues guide grilling timing, avoiding guesswork. Results in tender duck and caramelized apple textures, paired with a fresh green salad and smoky grilled potatoes for balance. No dairy, eggs or nuts. Flavor complexity from acidity, sweet, and warm spice underpins the dish."
-metaDescription: "Duck and Honey-Glazed Apple Skewers with tart Granny Smith apples, sticky cinnamon soy glaze, grilled to juicy tenderness, balanced with smoky potatoes and crisp salad."
-ogDescription: "Juicy duck cubes threaded with tart apple, basted in honey soy glaze with cinnamon warmth. Grilled smoky potatoes and fresh salad finish this robust French-inspired dish."
-focusKeyphrase: "Duck Honey-Glazed Apple Skewers"
+description: "Grilled duck breast cubes threaded with Granny Smith apples and glazed with honey, soy sauce, and cinnamon. Tender, caramelized skewers ready in minutes."
+metaDescription: "Duck breast cubes meet Granny Smith apples in this honey-glazed skewer recipe with soy sauce and cinnamon. Tender and caramelized. Make it tonight."
+ogDescription: "Tender duck breast cubes and tart Granny Smith apples glazed with honey and cinnamon. Grilled skewers with caramelized edges."
+focusKeyphrase: "duck breast cubes"
 date: 2025-09-23
 draft: false
 image: duck-honey-glazed-apple-skewers.jpg
@@ -24,6 +24,11 @@ keywords:
 - "duck breast cubes"
 - "apple skewers"
 - "cinnamon glaze"
+- "grilled duck"
+- "honey glazed duck"
+- "Granny Smith apples"
+- "duck skewer recipe"
+- "grilled apple skewers"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"
@@ -67,3 +72,99 @@ faq:
 - "q: How to store leftover glaze? a: Refrigerate in sealed container. Thickens cold—gently warm before reuse; add small splash water if too stiff. Can freeze in ice cube trays for small batches. Avoid reheating aggressively; sugars crystallize or burn fast when heated too high."
 
 ---
+
+Duck breasts and Granny Smith apples on a stick over fire. Honey glaze that gets sticky and charred. Twenty minutes and you've got something that looks like you spent all afternoon on it.
+
+Grabbed duck at the butcher once because it was there. Thought it'd be dry. Nope. The fat renders, the meat stays tender, and if you're not paying attention it's gone before you realize what happened.
+
+## Why You'll Love This
+
+Takes 45 minutes total. 25 minutes is just prep — soaking skewers, cutting apples, making the glaze. Actual grilling is 20 minutes.
+
+Works as an appetizer that doesn't feel like an appetizer. People think you made something complicated. You didn't.
+
+Grilling brings out the best part — the char on the apples, the way the honey caramelizes at the edges. Can't get that in a pan.
+
+Duck is lean enough that it doesn't flare up and burn the whole thing, but it's rich enough that people actually taste it.
+
+## What You Need for the Skewers
+
+Duck breasts. Two of them, 340 grams each. Trim the fat yourself — you want the skin gone too, or it'll just render into pools. Not worth it.
+
+Granny Smith apples. Tart. The sweetness in the glaze needs something to push against. Red apples turn to mush. Gala melts. Granny Smiths hold their shape, get soft at the edges, stay firm where it matters.
+
+Wooden skewers soaked for 30 minutes minimum. Metal works if you have them. Don't skip the soaking — dry wood catches fire and tastes like it.
+
+Honey. Half a cup. Real honey. Not the plastic bear.
+
+Soy sauce. A quarter cup. Salt and umami at the same time.
+
+Apple cider vinegar. Two tablespoons. Not white vinegar — it's too sharp. Not rice vinegar — gets lost. Apple cider cuts through the richness without screaming.
+
+Cinnamon. A third of a teaspoon. The glaze is called honey-glazed apple skewers, and the cinnamon is what makes people taste apple when they're eating duck. Weird but it works.
+
+Olive oil. Salt. Pepper. Brush the skewers before they hit the grill so nothing sticks.
+
+## The Glaze, Then the Grill
+
+Combine the honey, soy sauce, apple cider vinegar, and cinnamon in a small saucepan over medium-high heat. Stir constantly while it comes to a vigorous boil. You want motion in there — helps it reduce evenly.
+
+Once it's boiling, drop the heat to medium and let it simmer. Watch the texture. Should take about 3 minutes. You're looking for it to thicken into something syrup-like. Not thick like jam. More like warm syrup that coats a spoon without running off immediately. Stop before it hardens — you can always thicken it more next time if you want, but you can't thin it back out.
+
+Pull it off the heat. Let it cool while you prep the skewers.
+
+Get your grill screaming hot. High heat. If you're using a grill pan, same thing — let it run for a solid 5 minutes before you touch it. Oil the grates or pan surface thoroughly. This is non-negotiable. Duck sticks.
+
+Slice each duck breast into 8 pieces. Think of them as cubes — not perfect, but roughly the same size so they cook evenly. One piece will always cook faster. That's fine. Just means you know when the rest are done.
+
+Thread the duck onto skewers, alternating with apple chunks. Six pieces of apple per skewer. Eight pieces of duck per skewer. It should look balanced, not too dense, not too sparse.
+
+Brush each skewer lightly with olive oil. Salt and pepper both sides like you mean it. Season each cube, not just the skewer as a whole.
+
+Lower your grill to medium heat or turn the burner down. The initial high heat was just to get things ready. Now you're cooking for control.
+
+Place the skewers directly on the grill. Four to five minutes per side. Don't move them constantly. Flip once. Just once. The grill does the work.
+
+Start basting immediately with the honey glaze. Brush it on with whatever you have — a pastry brush, folded paper towel, doesn't matter. Do it twice on the first side, twice on the second. The glaze caramelizes where it hits the heat and turns glossy.
+
+Watch for the duck to turn opaque. A thin line of pink in the center is fine. Actually preferred. Apples should soften with charred spots — not blackened, just caramelized where they touch the grates.
+
+Pull them off before the duck gets rigid or the apples turn to mush. Could be 8 minutes. Could be 12. Depends on your grill, how hot it actually runs, how thick you cut the duck.
+
+Rest them for 5 minutes off the heat. This matters. The meat relaxes, the juices redistribute, and it doesn't dry out when you bite into it.
+
+## Getting Them Right Every Time
+
+Duck cooks faster than you think. Faster than chicken. The meat is denser, darker. It'll look done when it's medium-rare, which is how you want it. If you're nervous, cut into one cube on a back skewer — you can see if you need more time. Not pretty but it works.
+
+The apples don't need to be perfectly even, but if one chunk is twice the size of the others, that one will still be firm while the rest fall apart. Cut them roughly. Similar size, that's all.
+
+Wooden skewers split sometimes even after soaking. Just is. If one catches fire, pull the skewer off the heat, let the flame die down, and move it to a cooler part of the grill. Usually fine.
+
+The glaze thickens as it cools, then thins again when it hits the heat of the grill. If it seems too thick when you go to brush it on, you can thin it with a little water. A teaspoon at a time. Don't overdo it.
+
+Soy sauce varies by brand. Some are saltier than others. Taste the glaze after simmering — if it's too salty, you're eating salty skewers. Adjust before you grill. A little extra cider vinegar balances it if you need it.
+
+Grill flare-ups happen because of rendered fat. That's fine. It means the duck is releasing its oils and crisping up. Just keep an eye on the glaze so it caramelizes instead of charring into carbon.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use chicken instead of duck?**
+Sure. Chicken breast works. Won't be as rich, won't have that slightly gamey flavor that makes people go quiet for a second. Takes about the same time. Just watch the temperature more carefully — chicken dries out easier.
+
+**Should the apples be peeled?**
+Leave the skin on. Holds the apple together during grilling. If you peel them, they'll fall apart or slide off the skewer. Not a disaster, but annoying.
+
+**What if I don't have a grill?**
+Grill pan. Cast iron. High heat, same technique. Won't get the same char, but the flavor's still there. Takes the same 8-12 minutes.
+
+**Can I prep these the night before?**
+Thread them and refrigerate, sure. Don't brush the oil and salt until you're ready to grill — the salt draws moisture. The glaze keeps for a week in a container. Reheat gently if it's been in the fridge.
+
+**How much honey glaze will I have left?**
+More than you use. Double it if you want to serve extra on the side for dipping. It keeps.
+
+**Why cinnamon in the glaze?**
+Honestly not sure why it works. Cinnamon and apple are a thing. Cinnamon and duck works too, I guess. But together it tastes less like either spice and more like the actual fruit. Try it.

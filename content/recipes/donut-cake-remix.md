@@ -1,10 +1,10 @@
 ---
-title: "Donut Cake Remix"
+title: "Donut Cake Remix with Mascarpone Cream"
 slug: "donut-cake-remix"
-description: "A layered assembly of store-bought donuts coated with a tinted glaze and mascarpone cream. Fresh berries and crunchy sugar pearls finish it off. Gluten-, nut-, and egg-free donut options possible. Play with glaze color and cream consistency. A cold dessert with rich textures and bright pops of fruit. Quick to build but needs fridge time. Visual cues key for frosting and cream texture. Great for last-minute celebrations or casual dessert shifts. A versatile no-bake treat that shines best same day."
-metaDescription: "Donut Cake Remix layers store-bought donuts with tinted glaze and mascarpone cream. Fresh berries and sugar pearls add crunch for bright, cold dessert fun."
-ogDescription: "Build a layered donut tower with tinted glaze, whipped mascarpone cream, and fresh berries topped with crunchy sugar pearls. Quick fridge-set treat for texture play."
-focusKeyphrase: "Donut Cake Remix"
+description: "Layer store-bought donuts with mascarpone cream, powdered sugar glaze, and fresh cherries for a no-bake cake. Quick assembly, impressive presentation."
+metaDescription: "No-bake donut cake with mascarpone cream, fresh strawberries, and cherries. Powdered sugar glaze finish. Make it tonight."
+ogDescription: "Layered donuts, mascarpone cream, and fresh fruit. A no-bake dessert that's ready when you need it."
+focusKeyphrase: "no bake cake"
 date: 2025-08-16
 draft: false
 image: donut-cake-remix.jpg
@@ -21,9 +21,16 @@ tags:
 - "mascarpone"
 - "party"
 keywords:
-- "donut glaze"
 - "no bake cake"
+- "donut glaze"
 - "fruit topped dessert"
+- "mascarpone cream dessert"
+- "strawberry cherry cake"
+- "store bought donuts recipe"
+- "powdered sugar glaze"
+- "cold dessert"
+- "easy layered cake"
+- "fresh berry dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -72,3 +79,81 @@ faq:
 - "q: Best storage for donut cake? a: Refrigerate covered loosely so glaze doesn’t sweat. Keep under 24 hours max. Long storage ruins crunch, donuts absorb moisture. If softened, chill again before serving. Once assembled, don’t freeze; cream texture degrades."
 
 ---
+
+Three pounds of donuts. A tub of mascarpone. No oven required. This donut glaze remix happened because I had a party in 45 minutes and actual baking wasn't an option. Turns out you don't need to bake to make a cake. You stack, you pipe, you eat.
+
+## Why You'll Love This
+
+No bake means actually done in 45 minutes. No heat, no timing stress.
+
+Works for parties because it's tall, weird, delicious. People remember it.
+
+Mascarpone cream stays soft, donuts stay soft. Everything's easy to eat.
+
+Store-bought donuts do the heavy lifting. You just dress them up.
+
+## Powdered Sugar Glaze and the Coating Game
+
+Start with 110 grams powdered sugar. Add 25 milliliters whole milk. A single drop—and I mean one—of gel food coloring. Red or violet, not that weak pink stuff. Stir until it moves like velvety paint. Too runny? Sift in more powder. Grainy? Add milk one splash at a time.
+
+Get 24 donuts. Plain ones. Honey works too. Doesn't really matter because you're covering them anyway.
+
+Spread glaze on half the donuts with an offset spatula or butter knife. Just one side. Let them sit on a sheet while you do the rest.
+
+The other half get dusted. Take powdered sugar in a shallow bowl. Roll seven donuts in it—gentle, full coverage. The remaining ones go into granulated white sugar. Roll those too. Different sugars catch differently. One's softer, one's sparkly. That texture contrast matters more than you think.
+
+## Mascarpone Cream That Actually Holds Up
+
+Chill your bowl first. Sounds dumb. Matters.
+
+Throw in 260 milliliters heavy cream. 120 milliliters mascarpone. 45 grams caster sugar. 3 milliliters vanilla extract. Use an electric mixer. Medium speed.
+
+Stop when soft peaks form. That moment when it holds shape but still looks creamy. Don't keep going. Over-whipped mascarpone separates—butter on top, liquid underneath. Ruined.
+
+Fit a pastry bag with a star tip. Transfer the cream in. You'll pipe it later.
+
+## Building the Tower
+
+This is the part that looks harder than it is.
+
+Get a cake plate or pedestal. Something flat enough to work. Arrange 10 or 11 donuts in a circle. Between 20 and 23 centimeters across—just picture a dinner plate. Mix your coatings. Glazed next to powdered sugar next to granulated. It looks better that way.
+
+Here's the glue: dab mascarpone cream underneath each donut. Tiny dots. They stick.
+
+Second layer goes on top. Fewer donuts. Tighter circle. Smaller footprint. Cream dots again.
+
+Third layer. Even fewer. Keep the tower narrow enough that it doesn't tip when someone walks past it.
+
+Press lightly but firmly. If it shifts, add more cream in the gaps. You're building something that needs to stay put, but it's still mostly soft. It'll feel a little precarious. That's normal.
+
+## Finishing Touches and Why Fresh Fruit Works
+
+Pipe swirls of mascarpone cream on the top ring. Make it look intentional. Doesn't have to be perfect—this is pastry bag piping, not surgery.
+
+Pit fresh cherries. 80 grams. Halve fresh strawberries. 65 grams. Scatter them across the cream. Colors matter here. Red on white on beige. It's the whole appeal.
+
+Sugar pearls optional. They're crunchy. Some people love that. Some don't. Your call.
+
+Keep it in the fridge until you serve it. Best same day, before donuts get properly soft. They'll still be fine the next day but they're less donut-like and more cake-like. That's either a win or a loss depending on who you ask.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this the day before?**
+Yeah but don't. The cream stays fine overnight. Donuts get soggy from the cream moisture. Eat it the same day.
+
+**What if my mascarpone cream is too thick?**
+You over-whipped it or your cream was too cold. Start over. Takes five minutes. Chilling the bowl first actually prevents this.
+
+**Do I have to use store-bought donuts?**
+No but honestly why make homemade donuts just to stack them. That defeats the point of no bake. Store-bought works fine.
+
+**Can I swap the fruit?**
+Sure. Raspberries work. Blueberries work. Pineapple doesn't. Too wet. Peaches are okay but they brown fast.
+
+**How do I make it stable for transport?**
+You don't really. It's a sit-down dessert. If you need to move it, put the whole plate on a flat surface in a box. Don't tilt it. Don't think about it during the drive.
+
+**What kind of gel coloring actually shows up?**
+Red and violet pop. Blue fades. Pink is weak. Green looks sick. Stick with the bold colors or skip the color entirely—white glaze is clean too.

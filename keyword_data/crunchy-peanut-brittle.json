@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-peanut-brittle",
+  "title": "Crunchy Peanut Brittle Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "peanut brittle",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "baking soda foam",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "corn syrup caramel",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

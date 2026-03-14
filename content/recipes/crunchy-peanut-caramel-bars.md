@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Peanut Caramel Bars"
+title: "Crunchy Peanut Caramel Bars Recipe"
 slug: "crunchy-peanut-caramel-bars"
-description: "Sweet bars with a crunchy peanut caramel topping over a buttery shortbread base. The base is a tender mix of flour, sugar, and butter baked till golden. The caramel comes from sugar boiled with water and golden syrup, mixed with sweetened condensed milk, butter, and salt. Roasted peanuts stir in, spread on base, baked again. Optional dark chocolate splashes set on top. Chilled till firm, then cut into squares. Keeps up to a week at room temp in airtight container."
-metaDescription: "Delicious Crunchy Peanut Caramel Bars. Sweet, salty, and crunchy. Perfect treat for sharing or solo snacking. Classic French-Canadian recipe."
-ogDescription: "Indulge in Crunchy Peanut Caramel Bars. A delightful sweet and salty treat with layers of flavor. Perfect for any occasion."
-focusKeyphrase: "Crunchy Peanut Caramel Bars"
+description: "Make peanut caramel bars with a buttery shortbread base, roasted peanuts, and dark chocolate topping. Homemade caramel from condensed milk and golden syrup creates irresistible flavor."
+metaDescription: "Peanut caramel bars recipe featuring roasted peanuts, buttery shortbread, and dark chocolate. Homemade caramel topping. Make it tonight."
+ogDescription: "Buttery shortbread topped with crunchy roasted peanuts in homemade caramel sauce and dark chocolate."
+focusKeyphrase: "peanut caramel bars"
 date: 2025-07-24
 draft: false
 image: crunchy-peanut-caramel-bars.jpg
@@ -21,9 +21,16 @@ tags:
 - "shortbread"
 - "dessert"
 keywords:
+- "peanut caramel bars"
 - "caramel bars"
+- "homemade caramel bars"
 - "peanut snacks"
+- "shortbread bars"
+- "roasted peanuts recipe"
+- "dark chocolate bars"
 - "baking recipes"
+- "condensed milk caramel"
+- "buttery shortbread base"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -82,3 +89,69 @@ faq:
 - "q: What if base is too crumbly? a: Add small amount of melted butter. Mix until better cohesion happens. Can use more if too dry."
 
 ---
+
+Butter a 14 by 10 inch pan and crank the oven to 345. This is the shortbread base. It takes 15 minutes. The caramel happens next — that's where the crunchy peanuts go, where the real thing happens. Total time is an hour and 15 minutes if you're moving. Tried these once without cooling them all the way. Chocolate wouldn't set. Patience matters here.
+
+## Why You'll Love This
+
+Makes a snack that's actually substantial. Not some sad cookie. This has structure.
+
+The caramel part is where the peanut butter lives, except it's not peanut butter at all — it's caramel with whole roasted peanuts folded in. Crunchy. Every bite hits different.
+
+Shortbread base keeps everything together. Not greasy. Not crumbly. Just stable enough to eat with your hands.
+
+One batch lasts a week in a container. Make them Sunday, eat them Wednesday. Dessert solved.
+
+## Shortbread Base — the Foundation for Crunchy Peanut Caramel Bars
+
+All-purpose flour. 210 grams. 40 grams sugar. 120 grams softened butter. Mix flour and sugar first in a bowl. Then add the butter. Press it with a wooden spoon until it looks like wet sand. Use your hands now. Press it down into the buttered pan. Flat. Even. Get it into the corners. This isn't dough. It's more like pressed-together crumbs, and that's the point.
+
+Bake 15 minutes at 345. Light golden on the edges means it's ready. The middle stays pale. Don't overbake. Let it cool while you make the caramel.
+
+## Making the Caramel Layer with Peanuts and Sugar
+
+Combine 300 grams sugar, 50 milliliters water, and 45 milliliters golden syrup in a saucepan. Medium-high heat. Don't stir. Just watch it. The sugar melts. Then it turns amber. That's the color you want — light amber, not brown. Remove it from heat the second it gets there.
+
+Now the careful part. Pour in one 300 milliliter can of sweetened condensed milk. Add 40 grams butter. Add 3 milliliters salt. Stir it carefully. It will splatter. The mixture is hot. It's thick. Keep stirring until it's even.
+
+Fold in 225 grams dry roasted unsalted peanuts. Actually, you don't fold — you just stir the peanuts in until they're coated. Spread this over the cooled shortbread base using a spatula. Get it into the corners. Smooth the top or leave it rough. Both work.
+
+Bake 20 minutes at the same temperature. The caramel will bubble at the edges. Don't panic. That's normal. Remove the pan. Let it cool completely on a wire rack. This takes an hour. Don't rush this part.
+
+## Chocolate Topping and Cooling Time
+
+Melt 70 grams dark chocolate if you want to. Temper it or don't — honestly, doesn't matter much here. Spoon it over the cooled top in random splatters. No pattern. Just drizzle it. Let it set at room temperature for an hour.
+
+Cut into squares. They'll hold together fine. Store in an airtight container at room temperature. These last up to a week, though they won't last that long.
+
+## Common Mistakes — How to Avoid Them
+
+Don't stir the caramel while it's melting. Stirring makes it crystallize and seize. You want that smooth amber color. Just watch it. The sugar will melt on its own.
+
+Don't let the condensed milk caramel mixture boil too long on the second bake. 20 minutes is enough. More than that and it gets hard. You want it chewy, not brittle.
+
+The shortbread base should be pressed firmly into the pan. If it's loose, the bars won't hold together when you cut them. Press hard. Use your palm.
+
+Cooling matters. Don't cut into them while they're warm. The caramel will smear everywhere. Wait the full hour. Actually, waiting longer doesn't hurt.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I skip the chocolate topping?**
+Yes. The bars work fine without it. Some people don't like extra chocolate on top of caramel and peanuts. Makes sense.
+
+**What kind of peanuts should I use?**
+Dry roasted unsalted. Not the salted kind — you already have salt in the caramel. Not honey roasted. Just plain roasted peanuts.
+
+**Why can't I stir the sugar?**
+Stirring causes crystallization. The sugar seizes and becomes grainy instead of smooth. You'll get a lumpy mess instead of caramel. It's not a mystery — it's chemistry. Just don't do it.
+
+**How do I know when the caramel is the right color?**
+Light amber. Like a penny. Not dark brown. Not pale yellow. Once it hits that amber spot, you have maybe 30 seconds before it goes dark. That's when you pull it off heat.
+
+**Can I store these in the fridge?**
+You can. They'll keep longer cold. But they get harder when cold. Room temperature is better if you're eating them within a week. Airtight container. That's all you need.
+
+**What if my caramel mixture seized or looks grainy?**
+You probably stirred it while it was melting. Can't really fix it. Next time, just watch it. Don't touch it. If it happened, start over with fresh ingredients. Takes 30 minutes, not an hour.

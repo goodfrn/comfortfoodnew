@@ -1,0 +1,36 @@
+{
+  "slug": "curried-chicken-toasts",
+  "title": "Curried Chicken Toasts",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "curried chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "rye toast",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "herb salad",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "grape salad",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

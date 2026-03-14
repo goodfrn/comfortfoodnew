@@ -1,0 +1,36 @@
+{
+  "slug": "crunchy-cabbage-salad",
+  "title": "Crunchy Cabbage Salad",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cabbage salad",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "yuzu dressing",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "kohlrabi",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "radish",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "mayonnaise dressing",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

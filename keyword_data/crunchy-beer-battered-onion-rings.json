@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-beer-battered-onion-rings",
+  "title": "Crunchy Beer-Battered Onion Rings",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "onion rings",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "beer batter",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fried onion rings",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

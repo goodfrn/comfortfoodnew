@@ -1,0 +1,26 @@
+{
+  "slug": "egg-eggplant-pita",
+  "title": "Egg & Eggplant Pita",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "eggplant sandwich",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fried eggplant",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "Mediterranean pita",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

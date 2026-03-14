@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-salami-cups",
+  "title": "Crispy Salami Cups",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "salami cups",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "baked salami",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "ricotta filling",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

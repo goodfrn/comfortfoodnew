@@ -1,9 +1,9 @@
 ---
-title: "Crispy Herb Roast Chicken"
+title: "Crispy Herb Roast Chicken with Butter"
 slug: "crispy-herb-roast-chicken"
-description: "Chicken roasted high heat with herbal butter under the skin. Mixed veggies roast alongside, soaked in chicken drippings. Flipped mid-cook to get skin crispy all over. Resting the bird is non-negotiable to lock in juices. Uses thyme, rosemary, and poultry seasoning for earthy notes. Butter’s key for moisture; salt penetrates meat while crisping skin. Vegetables get a deep roast from basting in juices. Trussing stabilizes bird for even cooking but loosely, never suffocate meat. Hands-on rubbing butter under skin, spoon helps reach tricky spots. Flip with tongs; everything cooks slowly and confidently. Thermometer reading essential but watch skin color and juice clarity too."
-metaDescription: "Crispy herb roast chicken with butter under skin, thyme, rosemary; high heat roasts veggies in drippings. Flip mid-cook for even crispiness; resting locks juices."
-ogDescription: "Butter under skin, high heat roast, herbs in butter. Flip chicken, toss veggies in drippings. Rest after cook for juicy meat and crispy skin every time."
+description: "Roast chicken with herb butter under the skin and fresh rosemary, thyme for crispy, juicy results. Vegetables roast in drippings for deep flavor."
+metaDescription: "Crispy herb roast chicken with butter, rosemary, and thyme. High-heat roasting creates golden skin and juicy meat. Make it tonight."
+ogDescription: "Herb butter roast chicken with fresh rosemary and thyme. Crispy golden skin, tender juicy meat, roasted vegetables in pan drippings."
 focusKeyphrase: "crispy herb roast chicken"
 date: 2026-01-14
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "main dish"
 - "easy dinner"
 keywords:
-- "roast chicken"
-- "herb butter"
-- "crispy skin"
+- "crispy herb roast chicken"
+- "herb butter roast chicken"
+- "roast chicken with rosemary"
+- "crispy skin roast chicken"
+- "herb roasted chicken"
+- "roast chicken recipe"
+- "whole roast chicken"
+- "rosemary thyme chicken"
+- "roasted chicken dinner"
+- "herb butter chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -76,3 +83,79 @@ faq:
 - "q: How store leftovers? a: Cool bird completely before fridge. Wrap tight in foil or airtight container. Keeps juices in, skin softens overnight but meat stays moist. Reheat gently, oven or skillet to dry crisp skin if needed. Veggies reheat fine covered. Freeze pieces in airtight bags if holding long. Thaw frozen fully before reheating for safety."
 
 ---
+
+Chicken skin sizzles. That's the moment. Whole bird in a hot oven, butter under the skin getting golden, the pan drippings pooling with herbs. Pull it out 90 minutes later and you've got dinner. The kind where people stop talking and just eat.
+
+## Why You'll Love This
+
+Takes 90 minutes total. 15 minutes prep, then just wait. No babysitting. The oven does the work.
+
+One pan. Everything cooks together—chicken gets crispy, vegetables get soft and caramelized in the butter. That's dinner plated.
+
+Comfort food that actually feels special. Not complicated. Just a whole roasted chicken with herbs and crispy skin that breaks when you bite it.
+
+Works as a main dish for literally any night. Family dinner, dinner party, leftover sandwiches the next day. The chicken keeps for days.
+
+## Building the Herb Butter
+
+Half a cup of softened butter mixed with poultry seasoning, fresh rosemary, and fresh thyme. Fresh herbs only—dried thyme tastes like straw. Dried rosemary's okay if you chop it fine. A fork does the mixing. You're not making a smooth paste. You want flecks of green throughout.
+
+Kosher salt. Not table salt. Coarser grain means it stays on the bird instead of dissolving into nothing. Black pepper—crack it yourself if you have a grinder. Pre-ground gets stale.
+
+Assorted vegetables. Carrots cut into chunks, onions quartered, potatoes halved. They go in the pan around the chicken. They roast in the drippings and butter. That's the sauce, basically.
+
+Whole chicken, 4 to 5 pounds. Rinse it if you want. Dry it completely after. Moisture kills crispy skin. Paper towels, pat it down, get every crevice.
+
+## Getting the Skin Crispy
+
+Loosen the skin with your fingers before you add the butter. Work around the breast, down the thighs. The skin separates from the meat. Use the back of a spoon for spots that resist. This matters. The butter goes between skin and meat, not on top of skin.
+
+Rub half the herb butter under the skin. Spread it around. Get it everywhere. The rest goes in the cavity—it seasons from the inside and seasons the juices.
+
+Season the outside generously. Salt and pepper. Salt does two things here: flavor and drying. It pulls moisture away from the skin. That's how you get crisp, not soggy.
+
+Set the chicken breast side down for the first 35 minutes. High heat. 475 degrees. The back gets golden first. The drippings start pooling. You'll hear it sizzle. That sound matters more than the timer. Around 35 minutes, the skin on the back should be amber colored and some fat has rendered into the pan.
+
+Flip it breast side up. Toss the vegetables in the pan so they coat with butter and drippings. Lower the heat to 450. Another 35 to 45 minutes. Watch for deep golden skin. Check the thigh temperature with a meat thermometer—165 degrees at the thickest part. Wiggle the leg. It should move freely. If the skin's already dark brown but the temp's not there yet, cover loosely with foil. The skin won't crisp more but it won't burn.
+
+## Resting and Carving
+
+This is not optional. Remove the chicken from the oven and let it sit for 12 minutes. Just sit there. The juices redistribute through the meat. You carve into it and it's actually juicy instead of dry. The meat firms up but stays tender.
+
+While it rests, the pan drippings are still warm. That's when you use a baster to collect them if you're making gravy. Rich, herbal, salty from the vegetables. If you're not making gravy, ignore the drippings. Just carve.
+
+Carve the breast pieces off first—long cuts parallel to the breastbone. The skin breaks off in big sheets if it's crispy. Thighs and drumsticks come off next. Dark meat stays juicier than white. Everything should cut easy.
+
+Serve hot with the vegetables from the pan. A squeeze of lemon if you want acid cutting through the richness. Don't need it. The chicken is good on its own.
+
+## Mistakes and Fixes
+
+Not drying the chicken thoroughly before it goes in. Wet skin steams instead of roasts. Crispy skin is gone. Dry it. Spend the time.
+
+Skipping the butter-under-the-skin step. People do this. They butter the outside and wonder why the skin's crispy but the meat's dry. The butter under the skin keeps it moist while the outside dries out and crisps.
+
+Tying the legs too tight. The chicken should be fairly open. Air circulates. Heat hits everywhere evenly. Truss loosely—just enough so the legs don't flail around.
+
+Not resting it. Carving into a chicken straight from the oven and juice runs all over the cutting board instead of staying in the meat. Twelve minutes. Set a timer. Wait.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use chicken pieces instead of a whole bird?**
+You could. Breasts and thighs in the same pan. They won't take 75 minutes though. Breasts are done in 30 to 35. Thighs take longer, maybe 45. Mix them in the same pan and something gets overdone. Whole chicken roasts evenly.
+
+**Do I need a meat thermometer?**
+Not technically. The leg-wiggle test works—if the leg moves when you tug it, the chicken's done. A thermometer takes the guessing out. 165 in the thickest part of the thigh. Dead simple.
+
+**What if the skin starts browning too fast?**
+Tent it loosely with foil. Just loosely. Not sealed tight. Air still circulates. The meat keeps cooking, the skin stops darkening.
+
+**Can I prep the butter mixture the night before?**
+Yeah. Mix the butter with herbs, store it covered in the fridge. Let it soften for 20 minutes before you rub it under the skin. Cold butter tears the skin.
+
+**How long do leftovers last?**
+Three days in the fridge easily. Four if you're lucky. The skin loses some crispness when you reheat—it gets softer. The meat stays moist. Shred it for sandwiches. Mix it into rice. It works cold too.
+
+**Does the roasting pan size matter?**
+Medium matters. Too small and the vegetables crowd the chicken. Steam instead of roast. Too large and the pan drippings spread out thin and burn. 13 by 9, or thereabouts. The bird should fit with space around it.

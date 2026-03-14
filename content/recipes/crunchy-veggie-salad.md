@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Veggie Salad Remix"
+title: "Crunchy Veggie Salad with Ginger Lime"
 slug: "crunchy-veggie-salad"
-description: "Quick fresh crunchy salad packed with colorful vegetables, dried fruit, and toasted seeds. Uses ginger and lime for zing, swaps kale for baby spinach. Easy no-cook assembly. Bright, sharp vinaigrette balanced with sweetness from honey and tang from lime. Textural play between crisp roots and tender greens. Great for last-minute lunches or light dinners. Adaptable with common pantry swaps, takes 15 minutes total. Vegan, gluten-free, nut-free, and no dairy or eggs. Crunch and chew. Toast seeds just till fragrant; don’t burn. Doesn’t require fancy equipment. Keeps well briefly but best fresh. Ingredients chopped thin for balance. Root veggies peeled or not depends on freshness and knife skill. Mild bitterness from greens counteracts sweetness in dressing. I learned to trust hand-tossing over robot for texture."
-metaDescription: "Crunchy Veggie Salad Remix combines crisp carrots, radishes, spinach with dried cherries and toasted seeds. Bright lime-ginger dressing, ready in 15 mins."
-ogDescription: "Crunchy veggie layers, lime-ginger zing, dried cherries, toasted pumpkin seeds. Quick assembly salad with punch, texture, and freshness in every bite."
-focusKeyphrase: "Crunchy Veggie Salad"
+description: "Fresh crunchy veggie salad with carrots, radishes, baby spinach, dried cherries, and toasted pumpkin seeds. Bright ginger-lime dressing makes it ready in 15 minutes."
+metaDescription: "Make this crunchy veggie salad with carrots, radishes, baby spinach, and toasted pumpkin seeds. Ginger-lime dressing takes 15 minutes. Try it tonight."
+ogDescription: "Carrots, radishes, baby spinach, dried cherries, and toasted pumpkin seeds tossed in a bright ginger-lime dressing. Fresh and crunchy."
+focusKeyphrase: "veggie salad"
 date: 2025-08-17
 draft: false
 image: crunchy-veggie-salad.jpg
@@ -22,8 +22,15 @@ tags:
 - "citrus"
 keywords:
 - "veggie salad"
-- "dressing recipe"
-- "toasted seeds"
+- "crunchy salad recipe"
+- "ginger lime dressing"
+- "spinach salad"
+- "carrot salad"
+- "toasted pumpkin seeds"
+- "quick salad recipe"
+- "no-cook salad"
+- "healthy salad"
+- "fresh vegetable salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "160"
@@ -70,3 +77,65 @@ faq:
 - "q: Storage tips? a: Salad best same day. Leftover dressing keeps 2 days cold, re-whisk before using because oil separates fast. Store salad in fridge tightly covered but expect texture softening; seeds lose crispness, greens wilt. If prepping early, store components separately. Mixing late."
 
 ---
+
+Slice everything thin and it all comes together in 15 minutes. Had a fridge full of vegetables one Tuesday and no appetite for heavy food. This happened instead. The citrus dressing pulls it all together — lime and fresh ginger make even plain spinach taste like something.
+
+## Why You'll Love This
+
+Takes 8 minutes to prep, 7 to assemble. Done before you know it.
+
+It's vegan. No dairy, no fuss. Just vegetables that taste bright.
+
+Crunchy from start to finish. The radishes stay snappy, seeds add real texture. Not sad lettuce.
+
+Works as a side or lunch on its own. Throw in some chickpea and you've got a meal.
+
+## Simple Citrus Dressing Recipe for Fresh Vegetables
+
+Olive oil — 50 ml. Not the fancy stuff that costs thirty dollars. Regular extra virgin works fine. Lime juice, 20 ml. Fresh. Don't even think about the bottled kind. Honey, just 10 ml. Sweetens it but you won't taste honey specifically. Grated ginger, 1 teaspoon. Use a microplane. It matters. Salt and cracked pepper.
+
+Whisk it all in a big bowl until it looks slightly glossy. Should coat a spoon without separating. That's when you know the emulsion's working.
+
+## Building the Salad, Layer by Layer
+
+Get 7 small carrots, unpeeled. Slice them thin — a mandoline if you have one, sharp knife if you don't. Aim for the same thickness so everything cooks at the same speed. Actually — cooks isn't the right word. This is raw. Just so bites feel balanced.
+
+10 cherry radishes. Same treatment. Thin. Uniform. The peppery snap is why they're here.
+
+Baby spinach, 50 grams. Leave the leaves whole or tear them roughly. Doesn't matter much. 25 grams of dried cherries. That's about 2 tablespoons. The sweetness cuts through the ginger. 25 grams of toasted seeds — pumpkin, already toasted. Crunch matters.
+
+Toss everything together gently but actually thoroughly. You want the dressing touching every bite. Let it sit 5 minutes if you have time. The flavors mingle. But serve it fresh. Too long and the spinach gets limp.
+
+## Mistakes and How Not to Make Them
+
+Don't slice thick. Thin vegetables absorb dressing and taste better. Thick ones stay dry and separate.
+
+If you don't have fresh ginger, use 1/4 teaspoon ground instead. Way less vibrant. Not worth it if you can grab a knob. Keeps for weeks in the fridge anyway.
+
+Toast your own seeds if they're not already done. Dry skillet, medium heat, 2 to 3 minutes. Listen for them to pop. That's when you pull them off. Walk away and they burn. Every time.
+
+No lime? Use lemon. Expect it to taste sharper though. Lemons are more aggressive. Radishes add peppery snap that nothing else quite does, but thinly sliced cucumber works in a pinch. Watery, sure. But it works.
+
+If you're prepping this ahead, keep the dressing separate from the vegetables. The greens will wilt if they sit in liquid too long. Mix it right before eating. Dressing lasts 2 days in a covered container. Just rewhisk it first.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this vegan salad ahead of time?**
+Keep the dressing separate. It lasts 2 days covered. Mix it with the vegetables right before you eat. Otherwise the spinach gets sad and limp within an hour.
+
+**What if I don't have a mandoline for slicing?**
+Sharp knife works fine. Just take your time with uniform thickness. It's 7 minutes either way. The mandoline just makes you faster, not better.
+
+**How long does the toasted pumpkin seeds recipe work if I make my own?**
+Dry skillet, medium heat, 2 to 3 minutes until they pop. Store them in an airtight container for up to a week. Don't toast more than you need — they lose crunch.
+
+**Can I add protein to make it a main dish?**
+Chickpeas work. Cooked quinoa too. About a half cup stirred in turns it into lunch. Still vegan. Still takes 15 minutes total.
+
+**What's the best substitution for fresh ginger?**
+Don't use ground unless you have to. Use 1/4 teaspoon if you do. The dressing becomes less vibrant. Fresh ginger keeps forever in the fridge wrapped in paper towel, honestly.
+
+**Does the lime juice in the dressing separate over time?**
+Sometimes. Just rewhisk before using. The emulsion breaks but comes back together fine. Store it in a jar with a tight lid.

@@ -1,0 +1,26 @@
+{
+  "slug": "deep-fried-pecan-pockets",
+  "title": "Deep Fried Pecan Pockets",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pecan pockets",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fried pecan dessert",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "molasses pecan filling",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

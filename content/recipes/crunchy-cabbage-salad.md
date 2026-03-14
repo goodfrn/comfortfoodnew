@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Cabbage Salad"
+title: "Crunchy Cabbage Salad with Yuzu Dressing"
 slug: "crunchy-cabbage-salad"
-description: "A crunchy cabbage salad with shredded green and red cabbage combined with grated purple kohlrabi and julienned radish. Salt and sugar soften the cabbage texture, balanced with a tangy yuzu vinegar and whole grain mustard dressing mixed into mayo and crème fraîche. Fresh herbs kick up aroma while celery salt and freshly cracked pepper build complexity. Chill to marry flavors but watch for sogginess. Serve cold for a crisp bite with creamy tang and bursts of sharpness."
-metaDescription: "Crunchy cabbage salad layered with shredded green and red cabbage, grated kohlrabi, and radish. Salt and sugar soften texture, dressed in yuzu vinegar mayo mix."
-ogDescription: "Crunchy cabbage layers with tangy yuzu dressing. Salt draws moisture out, cabbage still cracking. Kohlrabi and radish kick texture. Chill briefly, serve crisp cold."
-focusKeyphrase: "crunchy cabbage salad"
+description: "Crisp cabbage salad with shredded green and red cabbage, grated kohlrabi, and julienned radish tossed in a tangy yuzu vinegar dressing with mayonnaise and crème fraîche."
+metaDescription: "Make this crunchy cabbage salad with kohlrabi, radish, and a creamy yuzu vinegar dressing. Fresh, tangy, and perfectly chill-able. Try it tonight."
+ogDescription: "Shredded green and red cabbage with kohlrabi and radish in a creamy yuzu vinegar and whole grain mustard dressing."
+focusKeyphrase: "cabbage salad"
 date: 2025-08-16
 draft: false
 image: crunchy-cabbage-salad.jpg
@@ -73,3 +73,53 @@ faq:
 - "q: How store leftovers? a: Airtight in fridge max 1 day. Use glass or sealed container. Olive oil helps extend freshness. Can add fresh cabbage next day if limp. Avoid storing too long or texture collapses. Serve cold straight after chilling."
 
 ---
+
+Three pounds of cabbage and nothing to do with it. Salt it, wait, dress it, done. This crunchy cabbage salad sits somewhere between slaw and composed salad — not quite coleslaw because it's too refined, not quite a side because it demands attention. The salt draws out water without turning everything into mush. You get bite. Actual crunch that survives the dressing.
+
+## Why You'll Love This
+
+Takes 25 minutes active time. The rest is just waiting in the fridge while it does the work for you. Vegetarian. No cooking. No dishes beyond what you use to mix. Summer food that doesn't need a grill — throw it next to anything, works with everything. Healthy without tasting like punishment. Actual vegetables tasting like themselves, not like sadness.
+
+## The Fresh Vegetables and Creamy Dressing
+
+Green cabbage. Five cups chopped chunky. Red cabbage too — a third of the amount, shredded finer. They soften differently, so the rough cut on green keeps it from turning to paste. Purple kohlrabi, grated. Not daikon, not jicama. The kohlrabi has this peppery sweetness that radish doesn't. Radish comes in julienned thin — that's where the sharp bite lives. Scallions, three of them, sliced thin. Just the white and light green parts. Save the dark stuff for stock or compost.
+
+Salt. Kosher. Coarse. Two tablespoons. This isn't seasoning yet — this is extraction. Demerara sugar, two tablespoons, balances the salt's aggression without making it sweet. For the mayonnaise dressing: mayo, a third cup. Crème fraîche, quarter cup. Yuzu vinegar, two and a half tablespoons — not white vinegar, not rice vinegar. Yuzu has this citrus thing that doesn't punch. Whole grain mustard, one tablespoon. Celery salt, half a teaspoon. Black pepper. Fresh. Ground right before you use it.
+
+Dill is optional but I use it every time. Olive oil, optional, but helps if the salad looks dry after dressing. Maybe a drizzle.
+
+## How to Build It So It Stays Crunchy
+
+Put the green and red cabbage in a colander. Add the salt and sugar. Use your hands. Squeeze it a little. The salt starts working immediately — you'll feel the leaves get softer after a few minutes. This is not an accident. Let it sit in the fridge 3 to 4 hours. This is where patience matters. The cabbage draws down, the bitterness fades, and the crunch somehow survives. Don't skip this. Don't shorten it to 90 minutes thinking you'll save time. It won't work the same way.
+
+After chilling, rinse everything under cold running water. Be thorough. You're washing away the excess salt and sugar that would otherwise make it taste like a pickle. Spin it dry in a salad spinner if you have one. If you don't, use kitchen towels and be aggressive. Squeeze gently. Moisture is the enemy of crunch and also of the dressing — water dilutes it, makes it weaker, changes the whole texture of the salad.
+
+Transfer the cabbage to a large bowl. Add the kohlrabi, radish, and scallions. Mix gently. This isn't tossing a salad — it's a fold. You want everything distributed but nothing bruised.
+
+Make the dressing separately. Whisk mayo, crème fraîche, yuzu vinegar, mustard, celery salt, and pepper in a small bowl until it's thick and creamy. Taste it. If it tastes too acidic, add a bit more mayo. If it's flat, add more mustard or a pinch of celery salt. The yuzu vinegar should be there but not obvious — like it's holding something up from underneath.
+
+Pour the dressing over the cabbage and fold. Not toss. Fold. The cabbage is delicate right now. You want every piece coated but nothing broken down. If you see liquid pooling — which means the cabbage is still releasing water — drizzle a bit of olive oil over it. Oil doesn't dilute; it binds. Fold in the dill if you're using it. That herbaceous thing makes the whole salad taste brighter.
+
+Chill it 15 to 20 minutes before serving. Long enough for flavors to meet. Not long enough for the crunch to surrender. After 24 hours the texture fades. It's still fine but it's not the same thing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I prep this salad ahead of time?**
+Yes and no. Salt the cabbage the night before — that part gets better with time. But don't dress it until a few hours before serving. The dressing softens things. Six hours and it gets soggy.
+
+**What if I don't have yuzu vinegar?**
+Lemon juice works. Not lime — lemon. Lime tastes different. Actually, I've tried both. Lemon is better here. Use three tablespoons instead of the vinegar amount because juice is less concentrated.
+
+**Can I use regular mayonnaise dressing instead of crème fraîche?**
+Just mayo gets heavy. Crème fraîche lightens it, adds tang. If you really don't have crème fraîche, use sour cream. Not Greek yogurt. Greek yogurt changes the mouthfeel in a way that doesn't work.
+
+**Why does the salt matter so much?**
+Kosher salt dissolves slower, sits on the surface longer, draws water out gently. Table salt dissolves fast, gets bitter. Sea salt works but it's inconsistent. Kosher is reliable.
+
+**How long will this keep?**
+In the fridge, covered, maybe two days before the cabbage starts weeping water and the crunch gives up. Twenty-four hours is the sweet spot. After that it's still edible but it's not what you made.
+
+**Can I add protein to make it a full meal?**
+Grilled chicken on top. Poached salmon works too. Cold steak, sliced thin. Just don't mix it in. Let people add what they want.

@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-potato-lace",
+  "title": "Crispy Potato Lace",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "potato lace",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy potato slices",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "herb potato snack",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

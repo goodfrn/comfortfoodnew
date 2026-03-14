@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Peanut Bars"
+title: "Crunchy Peanut Bars with Corn Flakes"
 slug: "crunchy-peanut-bars"
-description: "A quick no-bake snack bar combining corn flakes, peanut butter, and gooey marshmallows. Uses slivered almonds and dried cranberries for texture; mini chocolate chips sprinkled on top add bursts of sweetness. Cooked gently, melted and stirred until creamy with attention to melting stages; packed into the dish, pressed firmly, and cooled to set. A straightforward mix with lots of room for substitution and customizing based on pantry finds. Relies on visual and tactile cues for doneness, and encourages tweaks for thickness and chew."
-metaDescription: "Crunchy Peanut Bars combine marshmallows, peanut butter, and corn flakes for a chewy snack with almonds, dried cherries, and chocolate chips on top."
-ogDescription: "Crunchy Peanut Bars mix marshmallows, peanut butter, and corn flakes with almonds and dried cherries; topped with mini chocolate chips for texture and chew."
-focusKeyphrase: "Crunchy Peanut Bars"
+description: "No-bake peanut butter bars made with corn flakes, marshmallows, almonds, and dark chocolate chips. Quick, chewy, and customizable for any occasion."
+metaDescription: "Make crunchy peanut butter bars with corn flakes, marshmallows, and chocolate chips. No baking required. Try it tonight."
+ogDescription: "No-bake peanut butter corn flake bars with marshmallows, almonds, and dark chocolate. Easy, chewy, and delicious."
+focusKeyphrase: "peanut butter bars"
 date: 2026-01-17
 draft: false
 image: crunchy-peanut-bars.jpg
@@ -21,9 +21,13 @@ tags:
 - "chocolate"
 - "candy"
 keywords:
-- "peanut butter"
-- "corn flakes"
-- "marshmallows"
+- "peanut butter bars"
+- "no-bake peanut butter bars"
+- "corn flakes bars"
+- "marshmallow peanut butter"
+- "chocolate peanut butter bars"
+- "easy peanut butter recipe"
+- "no-bake dessert bars"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "190"
@@ -62,3 +66,89 @@ faq:
 - "q: Storage tips? a: Airtight container best. Keep in cool spot away from sunlight. Fridge chills bars harden too fast making bite tough. Room temperature for few days holds texture better. Freeze if needed, thaw before cutting. Wrap well to keep chips intact."
 
 ---
+
+Melted marshmallow, peanut butter, chocolate chips. That's all you need for a no bake snack that takes 15 minutes, start to finish. Made these once with whatever cereal was left in the pantry. Corn flakes plus tart cherries turned it into something I actually wanted to eat twice.
+
+## Why You'll Love This
+
+No oven needed. Just a saucepan and 6 minutes of actual work. Done before you finish your coffee.
+
+Tastes like a candy bar but you made it. Crunchy, chewy, salty-sweet. The corn flakes stay crisp instead of turning into mush.
+
+Peanut butter snacks that don't require baking or a food processor. Press it into a pan. Let it sit. Cut it. That's the whole thing.
+
+Chocolate without the fuss. Mini chips stick to warm marshmallow. You don't have to temperate anything or wait for a double boiler.
+
+## What Goes Into These Bars
+
+Unsalted butter. Three tablespoons. Salted would make them too salty once the peanut butter gets involved.
+
+Natural peanut butter. The kind with oil on top. Creamy works. Crunchy doesn't—bits get weird when melted. Half a cup.
+
+Marshmallows. Four cups. Mini ones. They melt faster and more evenly than the big puffy kind. Get glossy, get creamy, they're ready.
+
+Corn flakes. Five cups. Measure by eye once you're comfortable. Other cereals work—Rice Krispies, Cocoa Puffs, whatever. But corn flakes stay actual crispy.
+
+Dried tart cherries. Third of a cup. Raisins work. Cranberries too. Something to cut the sweet.
+
+Sliced almonds. Another third of a cup. Not chopped. The slices stay flat and crunchy instead of disappearing into the mixture.
+
+Mini dark chocolate chips. Quarter cup. The mini ones matter—they don't add weight like full-size chips do. Dark so it's not pure sugar.
+
+Nonstick spray for the pan. Whatever you have.
+
+## How to Actually Make Them
+
+Spray your pan first. Nine by thirteen if you want thin bars. Five by seven if you want thick ones. Thin ones are easier to break apart. Thick ones feel more substantial.
+
+Heat the butter and peanut butter together on low-medium. Don't rush this. One or two minutes for the butter to melt.
+
+Add the marshmallows. This is where patience matters. Stir constantly with a wooden spoon. Watch them go from lumpy to glossy. Four to seven minutes. Maybe longer if your stove runs cool. The surface should look smooth. Tiny bubbles around the edge. Not aggressive boiling. You want creamy, not browned.
+
+Stop when it looks like thick pudding. Still a little texture to it. Pour it into the pan while it's warm but the bowl doesn't burn your hands.
+
+Remove from heat before you add anything else. This matters more than people think.
+
+Fold in the corn flakes, cherries, and almonds. Fold, don't beat. You want some pieces still loose, some coated, nothing pulverized. Takes about thirty seconds of stirring. Seriously that fast.
+
+Press it into the pan. Use the back of a spoon or—better—lay parchment on top and press with your hands. Even pressure across the whole thing. You can feel when it's firm enough. Not brick-hard. Just set.
+
+Sprinkle the mini chocolate chips on top right away. They'll stick to the warm marshmallow without actually melting into it. That's the goal. You want them to stay chips, not become a chocolate layer.
+
+Let it cool at room temperature. Don't refrigerate yet. Room temp takes maybe an hour, sometimes two depending on thickness and your kitchen. This is the hard part because you'll smell them and want them. Don't.
+
+Slice it when it's completely cool. A sharp knife. Wipe the blade between cuts so it doesn't drag. If it's still warm the bars will crumble or stick together.
+
+## Common Mistakes and How to Fix Them
+
+Marshmallow gets brown spots instead of glossy. Your heat's too high or you're stirring too slow. Low-medium. Slow stir. Watch for that creamy stage, not the burned stage. Harder to come back from burned.
+
+Too sticky to cut or hold together. It cooled but didn't fully set. Refrigerate for 15 minutes. That firms it up. Some kitchens are warm. Some are humid. It just takes longer sometimes.
+
+Bars are dense and chewy instead of crunchy. You pressed too hard or mixed too much. Just fold once, press gently. You want some air pockets. It's not a brownie.
+
+Chocolate chips melted completely into the mixture. You added them while everything was still too hot. Wait until it's not steaming. The chips should sit on top, stick, but stay mostly solid.
+
+Corn flakes turned to powder. Folded too aggressively or used old cereal. Fresh boxes have crunch. Old boxes absorb moisture. Pour your cereal into a container if you've had it open for months. And fold, don't stir.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can you use regular peanut butter instead of natural?**
+Not really. The added oils in regular peanut butter make it too slippery when it melts. The mixture gets greasy instead of coating everything evenly. Natural peanut butter has the right texture for this.
+
+**How long do these actually last?**
+Three, maybe four days in an airtight container. They get softer as they sit. Still good, just not as crunchy. Some people prefer them that way. I eat them the first day so I don't have to find out.
+
+**Can you make these with peanut butter candy instead of melting it yourself?**
+Peanut butter candy like Reese's? Technically yes but the texture's different. Too waxy. You'd be better off just adding some peanut butter chips to the mixture. Haven't tried it but seems safer.
+
+**What if you don't have tart cherries?**
+Use what you have. Dried cranberries, raisins, coconut flakes. Any small chewy thing that cuts the sweetness. Even chocolate chips would work but then it's all chocolate and peanut. Not bad, just less interesting.
+
+**Why does the recipe say both low-medium heat and not to rush it?**
+Because your stove might run different from mine. Mine's slow. Some burners get hot fast. Low-medium is the target, but watch the marshmallows, not the timer. When they look glossy and creamy, they're done.
+
+**Do these need refrigeration or can they sit out?**
+Room temperature is fine. They'll last longer refrigerated but get a bit harder. Store in an airtight container either way so they don't get stale. The cool spot just slows down moisture loss.

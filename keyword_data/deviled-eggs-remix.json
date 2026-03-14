@@ -1,0 +1,26 @@
+{
+  "slug": "deviled-eggs-remix",
+  "title": "Classic Deviled Eggs Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "deviled eggs",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "hard boiled eggs",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "yolk recipe",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

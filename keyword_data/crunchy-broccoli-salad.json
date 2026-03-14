@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-broccoli-salad",
+  "title": "Crunchy Broccoli Salad Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "broccoli salad",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "pancetta salad",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "healthy salad",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

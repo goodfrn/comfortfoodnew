@@ -1,0 +1,26 @@
+{
+  "slug": "double-chocolate-eclairs",
+  "title": "Double Chocolate Éclairs",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "éclairs recipe",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "pastry cream",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate dessert",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

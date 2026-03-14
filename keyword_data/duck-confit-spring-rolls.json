@@ -1,0 +1,26 @@
+{
+  "slug": "duck-confit-spring-rolls",
+  "title": "Duck Confit Spring Rolls",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "duck confit",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "spring rolls",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "rice vermicelli",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

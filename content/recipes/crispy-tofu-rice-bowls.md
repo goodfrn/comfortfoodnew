@@ -1,9 +1,9 @@
 ---
-title: "Crispy Tofu Rice Bowls"
+title: "Crispy Tofu Rice Bowls with Snow Peas"
 slug: "crispy-tofu-rice-bowls"
-description: "Crunchy tofu coated in corn starch, tossed with crisp snow peas and marinated cucumbers, served over al dente rice noodles. Tangy soy-vinegar dressing with a hit of Korean chili flakes, toasted sesame oil aroma and crunchy sesame seeds finish the bowls. Unfussy, plant-based, no nuts no dairy no eggs. Quick midweek meal with vibrant texture contrast, subtle heat, bright acidity. Adaptable with zucchini or snap peas. Tofu stays golden and resilient, sauce clings just right, noodles cool from rinse for chew balance."
-metaDescription: "Crispy tofu cubes coated in cornstarch, tossed with crunchy snow peas and marinated cucumbers, served over rice noodles with tangy Korean chili dressing."
-ogDescription: "Golden tofu with crisp snow peas and cucumbers, cool rice noodles, fiery soy-vinegar Korean chili splash finishing fresh bowls fast and textured."
+description: "Crispy tofu coated in cornstarch with snow peas and cucumbers over rice noodles. Soy-vinegar dressing with gochugaru and sesame oil creates vibrant, plant-based bowls ready in minutes."
+metaDescription: "Make crispy tofu rice bowls with snow peas, cucumbers, and a tangy soy-vinegar dressing. Golden tofu, chewy noodles, bright flavors. Try it tonight."
+ogDescription: "Crispy cornstarch-coated tofu with snow peas, cucumbers, and sesame oil dressing over rice noodles. Plant-based, vibrant, ready fast."
 focusKeyphrase: "crispy tofu rice bowls"
 date: 2025-09-26
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "tofu"
 keywords:
+- "crispy tofu rice bowls"
 - "tofu rice bowl"
 - "crispy tofu"
 - "rice noodles"
+- "snow peas recipe"
+- "plant-based rice bowls"
+- "soy vinegar dressing"
+- "sesame oil noodles"
+- "quick tofu recipes"
+- "cucumber rice bowls"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "350"
@@ -68,3 +75,91 @@ faq:
 - "q: How to store leftovers? a: Cool tofu and noodles separately, fridge in airtight containers. Veggies keep best fresh; dressing can be stored separately but veggies lose snap over time. Reheat tofu in dry skillet to bring back some crisp, avoid microwave sogginess. Noodles cold or room temp next day fine, toss with splash soy or oil to avoid sticking."
 
 ---
+
+Pressed tofu in a hot pan until the edges shatter. Snow peas that still have teeth. A dressing that hits all four tastes at once—salty, sour, sweet, spicy. This is the kind of bowl you come back for because it actually stays crisp instead of turning into mush by the time you're halfway through.
+
+## Why You'll Love This
+
+Takes 38 minutes start to finish. No marinating. No waiting around.
+
+The tofu gets actually crispy—corners browned, outside crunchy, inside still soft. Every bite has texture. Not mushy blocks in sauce.
+
+Fully vegan. Everything here works without any animal stuff. The sauce is deep and spicy enough that you don't miss it.
+
+Perfect for a weeknight. One pan for the tofu. One pot for noodles. Everything comes together while you're still making the dressing.
+
+## What Goes in the Bowl
+
+Firm tofu is non-negotiable. Silken falls apart. Press it first—wrap it in a clean kitchen towel, set a plate on top, let it sit while you prep everything else. Gets the water out. Crispier later.
+
+Cornstarch. Just enough to coat. Creates that crunchy shell. Doesn't make it taste weird.
+
+Low sodium soy sauce, rice vinegar, maple syrup. Together they balance. The chili powder goes in here too—Korean gochugaru if you can find it. Sambal oelek works. Both are spicy but different heat. Gochugaru is smokier.
+
+Snow peas and Lebanese cucumbers raw. Snap to them. The peas get blanched 3 minutes—that's fast, in and out of the ice bath—so they stay bright and firm. Cucumbers don't cook at all.
+
+Rice noodles, cooked 3 to 4 minutes. Al dente means they still have a little resistance. They'll keep cooking as you toss everything, so don't overdo it.
+
+Toasted sesame oil at the end. Raw sesame oil tastes bitter. The toasted kind is darker, nutty, what you want here. Just 15 ml. It's strong.
+
+Sesame seeds and scallion on top. Both raw. The crunch matters.
+
+## Crisping the Tofu Right
+
+Cut the tofu into large cubes. Not too small. Small pieces burn before the inside cooks. Big pieces give you time.
+
+Roll them in cornstarch. Both sides. All edges. Press gently so it sticks. A light even coat. Not caked on.
+
+Heat the oil to medium-high. It should shimmer. Not smoking—that's too hot and the outside burns before the inside gets warm. You want steady, even heat.
+
+Lay the tofu down and don't touch it. This is hard. Your instinct is to flip constantly. Resist. 2 to 3 minutes on the first side gets a golden crust. Then turn. Each subsequent side takes 2-3 minutes. Rotate to hit all six sides. Total time around 10 to 13 minutes depending on your pan and stove. The edges should look almost caramelized. The center still gives slightly when you press it.
+
+Drain on paper towels. This pulls the excess oil off. Matters more than you think.
+
+When you add the tofu to the dressing bowl, fold gently. You're not trying to break it up. Just coat it. Let the pieces touch the dressing without falling apart.
+
+## The Dressing Does Everything
+
+All the sauce goes in one bowl. Soy, vinegar, maple syrup, chili powder, sesame oil. Whisk it until the maple dissolves completely. You don't want gritty sugar in there.
+
+Add the cucumbers and blanched snow peas. Toss. Let them sit. They start releasing water and that mixes with the dressing. By the time the tofu is done, everything has melded a little.
+
+The sauce should taste salty and spicy and a bit sweet. Not balanced like you'd expect. Slightly too intense on its own. That's right. The noodles and tofu tone it down.
+
+If you think it's too hot, back off the chili powder next time. If it feels flat, add more soy. The sesame oil is what ties it together—that roasted quality that makes everything taste more intentional.
+
+## Common Mistakes and How to Fix Them
+
+Don't skip pressing the tofu. Wet tofu steams instead of crisps. Wrap it, weight it, wait 10 minutes minimum.
+
+Don't use silken tofu. It will fall apart. Firm or extra-firm. That's it.
+
+Cornstarch coating too thin and it won't get crispy. Too thick and it's floury and weird. Just a light even dust. Press it on gently.
+
+Oil not hot enough and the tofu steams. Hot enough and it shatters when you flip it. You're looking for that shimmer. Steady medium-high. Test it with one cube first if you're nervous.
+
+Don't macerate the veggies too long. More than an hour and the snow peas start to soften. They lose their snap. 20-30 minutes is fine.
+
+Serve this immediately after you assemble it. The crispy tofu starts softening as soon as it hits the warm dressing. Not instantly. But by 5 minutes you notice. That's why you do the noodles last and eat fast.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this without tofu?**
+Sure. Tempeh works. Cook it the same way—cornstarch, hot oil, don't touch it. Different texture but same idea.
+
+**How do I know the tofu is crispy enough?**
+Listen for it. When the edges hit the hot oil they should crackle a little. When you flip it, it shouldn't stick to the pan. Golden color all over. Honestly you just feel it after a few tries.
+
+**Can I prep this ahead?**
+Noodles yes. Cook them, rinse them, keep them in the fridge. Tofu no. Crisp it right before eating. The dressing and veggies can sit for a few hours no problem. Just don't combine them until you're ready to serve. The tofu gets soggy if it sits in sauce.
+
+**What if I don't have gochugaru?**
+Sambal oelek. Sriracha if that's what you have. Different heat levels but similar vibe. Start with less and add more. Dried chili flakes work too but they're hotter and less complex.
+
+**Is this actually vegan?**
+Completely. Tofu, noodles, sesame oil—all vegan. The sauce is soy-based. Even the maple syrup instead of honey.
+
+**Can I use soft tofu?**
+No. It falls apart. Press firm or extra-firm. Silken tofu has 5 times the water content. You'd get mush.

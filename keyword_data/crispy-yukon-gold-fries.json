@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-yukon-gold-fries",
+  "title": "Crispy Yukon Gold Fries",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "Yukon Gold potatoes",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy fries",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "frying tips",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

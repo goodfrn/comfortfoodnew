@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-herb-roast-chicken",
+  "title": "Crispy Herb Roast Chicken",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "roast chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "herb butter",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy skin",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

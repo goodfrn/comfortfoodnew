@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Creamy Potato Gratin"
+title: "Crunchy Creamy Potato Gratin with Rosemary"
 slug: "crunchy-cream-potato-gratin"
-description: "Layers of white or Yukon Gold potatoes sliced thin. Simmered in garlic-infused cooking cream, then baked slowly until tender. Pressed overnight to firm up. Cut into pieces. Pan-fried with rosemary-infused olive oil for crisp edges. Oven finish for heat inside. Twelve servings. No nuts, eggs, or gluten. Balanced cream fat adjusted. Flavor brightened with lemon zest and parmesan substitute. Oil swapped to avocado for nuance. Simple seasoning with salt, pepper, fresh herbs. Time shifted slightly to deepen cooking and pressing phases."
-metaDescription: "Crunchy Creamy Potato Gratin. Layers of Yukon Gold potatoes. Infused cream and herbs. Crispy edges. Perfect vegetarian dish."
-ogDescription: "Crunchy Creamy Potato Gratin. Layers of tender potatoes. Infused with garlic and lemon. Richness balanced for creamy texture."
-focusKeyphrase: "Crunchy Creamy Potato Gratin"
+description: "Creamy potato gratin with Yukon Gold potatoes, garlic, and fresh rosemary. Pan-fried until crispy, then baked. Finished with lemon zest and aged Piave cheese for rich, tender results."
+metaDescription: "Make this potato gratin with Yukon Gold potatoes, cream, garlic, and fresh rosemary for crispy, creamy layers. Try it tonight."
+ogDescription: "Layered potato gratin with garlic cream, rosemary, and aged Piave cheese. Crunchy edges, creamy center. Try it tonight."
+focusKeyphrase: "potato gratin"
 date: 2025-07-20
 draft: false
 image: crunchy-cream-potato-gratin.jpg
@@ -21,9 +21,16 @@ tags:
 - "french"
 - "side dish"
 keywords:
-- "gratin"
-- "potato dish"
+- "potato gratin"
 - "baked potatoes"
+- "potato dish"
+- "Yukon Gold potatoes"
+- "creamy potato gratin"
+- "rosemary potatoes"
+- "garlic potatoes"
+- "potato recipes"
+- "side dish potatoes"
+- "pan-fried potatoes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "280"
@@ -69,3 +76,79 @@ faq:
 - "q: How to store leftovers? a: Refrigerate for 3 days max. Reheat in oven to retain crispiness. Microwaving makes them soggy."
 
 ---
+
+Two kilos of potatoes. Cream. Cheese. That's it. But then you compress it overnight under a cast iron skillet and the whole thing becomes something else—dense, creamy, holding together like a brick. Then you fry the slices until the edges shatter. This is the potato dish that shows up at French dinner parties and makes people forget what they were talking about.
+
+## Why You'll Love This
+
+Takes a full day to make, but most of it is sitting in your fridge. Perfect for meal prep or when you're planning ahead.
+
+Tastes like comfort food but looks elegant enough to serve at dinner. Not just a side dish—it's the reason people come back for seconds.
+
+Vegetarian and substantial. Heavy in the best way. One slice fills you up without tasting heavy.
+
+The crispy exterior against creamy inside. That contrast. Gets you every time.
+
+## The Potato Gratin Base: Layering and Pressing
+
+Peel the potatoes. Yukon Gold or white. Slice them thin—4 mm. A mandoline works but a knife is fine if you're patient. They'll cook differently if they're uneven, so take a second.
+
+Cream. 400 ml. Either 18% or 30%. The richer fat helps it crisp later. Halve 4 garlic cloves and drop them in a saucepan with the cream. Bring it to a boil, then turn the heat down. Simmer for 6 minutes. Just that. The garlic softens and releases into the cream. Then fish the cloves out.
+
+Zest your lemon directly into the cream. Add 50 grams of grated Piave cheese—aged, hard, something with actual flavor. Stir it until the cheese dissolves mostly. Salt and pepper while the cream is still warm.
+
+Put the potato slices in a large bowl. Pour the cream mixture through a fine sieve over top. The sieve catches any bits of garlic or cheese that didn't dissolve. Toss gently so every slice gets coated. Not aggressive. Gentle.
+
+Line a 20 by 20 centimeter square pan with parchment, letting the edges hang over two opposite sides. This makes it easier to pull out later. Layer the potatoes in overlapping rows, like roof tiles. Pour any leftover cream on top.
+
+Cover the whole thing with parchment, then foil. Put it in a 185°C (365°F) oven that's already at temperature. Bake for 1 hour and 35 minutes. The potatoes should be tender all the way through when you poke them.
+
+Pull it out. Let it cool for 15 minutes. Then the crucial part: place another pan the exact same size on top. Keep the parchment and foil in place. Add weight—canned goods, a cast iron skillet, whatever's heavy. Refrigerate for 7 to 9 hours. Overnight is better.
+
+What's happening: the cream is setting. The potatoes are compressing under the weight. By morning it's solid. A brick of potato and cream.
+
+## Slicing and Crisping: The Fry Finish
+
+Remove the pans and peel back the foil and parchment. Trim the edges if they look ragged. Slice the whole thing in half. Then cut each half into 6 rectangles. 12 pieces total. You can freeze them here if you're not cooking tonight.
+
+When you're ready, preheat the oven to 205°C (400°F).
+
+Heat a large nonstick skillet on medium-high. Add half the avocado oil—40 ml. Drop in 3 fresh rosemary sprigs. Let them warm in the oil for a minute so the flavor blooms. Then add 6 of the gratin rectangles. Don't crowd them. You need space.
+
+Brown them on all sides. 2 to 3 minutes per side. They should develop color—some caramelization on the edges. Be careful when you flip. They hold together but they're still soft inside. Use a thin spatula and move slowly.
+
+Transfer the browned pieces to a baking sheet lined with parchment or a silicone mat. Bake for 7 to 9 minutes. They'll crisp up more in the oven, and the inside heats through. You're looking for golden brown all over.
+
+Repeat with the remaining oil, rosemary, and 6 gratin pieces. Same process. Brown in the pan, then finish in the oven.
+
+## What Goes Wrong and How to Fix It
+
+Potatoes not tender after baking. Slice one open when it cools. If the center is still firm, you needed more time or your oven runs cool. Add 10 more minutes next time.
+
+Gratins don't hold together when you slice them. The cream didn't set properly, which usually means not enough weight on top or not enough time in the fridge. Seven hours minimum. Nine is safer.
+
+Edges burn during frying but inside is cold. Lower the heat to medium. Let them brown slower. The inside will heat through while the outside gets crispy.
+
+Oil spatters everywhere when frying. Use a lid or just accept it. Happens with wet food. Pat the gratin pieces dry on a paper towel before they hit the pan.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this ahead and freeze it?**
+After you compress it overnight, slice it and freeze the pieces on a baking sheet. Once they're solid, bag them. They'll keep for a month. Fry straight from frozen—might take a minute longer.
+
+**What cheese should I use if I can't find Piave?**
+Aged cheddar works. Gruyère works better. Anything hard, nutty, at least a year old. Avoid soft cheeses. They melt into the cream and disappear.
+
+**Is 4 mm really necessary for the slices?**
+Thinner and they get mushy. Thicker and they won't cook through in the time you have. Use the mandoline if you have one. Saves your fingers and keeps it consistent.
+
+**Can I use half-and-half instead of 18% or 30% cream?**
+Half-and-half has less fat. The final crust won't be as crispy. It'll still work but it's not the same. Whole milk definitely won't work—too thin.
+
+**How do I know when they're actually crispy inside?**
+You don't until you bite one. The baking time is 7 to 9 minutes depending on your oven. First time, do 7 and check. Inside should be steaming hot and creamy when you cut it open.
+
+**Why the lemon zest if you can't really taste it?**
+Brightens something in the back of your mouth. Not a lemon flavor. Just a lift. Leave it out and the gratin tastes flat. Try it both ways.

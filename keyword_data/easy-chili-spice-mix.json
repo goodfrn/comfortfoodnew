@@ -1,0 +1,26 @@
+{
+  "slug": "easy-chili-spice-mix",
+  "title": "Easy Chili Spice Mix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chili powder",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "shallot powder",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked paprika",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

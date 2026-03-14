@@ -1,10 +1,10 @@
 ---
-title: "Date Tart Remix"
+title: "Date Tart Remix with Almond Extract"
 slug: "date-tart-remix"
-description: "Tart with flaky crust and spiced date filling. Butter, brown sugar, and a hint of almond extract replace vanilla. Dough chilled, then baked with softened butter and rich eggs, topped with large Medjool dates. Balanced sweet and nutty flavors, textures from tender crust to sticky fruit bits. Temperature and times slightly adjusted for better browning and set filling."
-metaDescription: "Create a Date Tart Remix with a flaky crust and spiced filling. Sweet Medjool dates and almond enhance flavors."
-ogDescription: "Enjoy a Date Tart Remix featuring a flaky crust, rich filling, and sweet Dates. Perfect for dessert lovers."
-focusKeyphrase: "Date Tart Remix"
+description: "Homemade date tart with flaky butter crust and spiced filling. Medjool dates, brown sugar, and almond extract create balanced sweet, nutty flavors in this rustic tart."
+metaDescription: "Date tart recipe with homemade flaky crust, Medjool dates, brown sugar, and almond extract. Try it tonight."
+ogDescription: "Rustic date tart with buttery crust and Medjool date filling spiced with almond extract. Sweet and nutty."
+focusKeyphrase: "date tart"
 date: 2025-07-21
 draft: false
 image: date-tart-remix.jpg
@@ -24,6 +24,13 @@ keywords:
 - "date tart"
 - "dessert recipe"
 - "rustic tart"
+- "Medjool dates"
+- "almond extract"
+- "homemade tart"
+- "butter crust"
+- "brown sugar filling"
+- "easy tart recipe"
+- "fruit tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "380"
@@ -79,3 +86,78 @@ faq:
 - "q: How to store leftovers? a: Keep covered in fridge. Stays fresh for days. Reheat slightly for warmth. Not too much, crust gets tough."
 
 ---
+
+Three pounds of dates sitting in the pantry. Too sweet on their own. Too good to waste. This happened instead — a tart that's basically a vehicle for dates, almond, and enough butter to make it feel like something you shouldn't eat but absolutely will. The filling is almost a cake batter, rich and creamy, the crust is actual pastry (not some no-bake shortbread situation), and the whole thing takes an hour and a half from start to finish. Worth every minute of it.
+
+## Why You'll Love This
+
+Tastes homemade because it is. That buttery, crumbly crust isn't a shortcut — you're actually making it. Dates soften into this caramel-like texture while the almond extract keeps everything from being too heavy.
+
+Works as a dessert for actual dinner parties. Not a weeknight thing, but not some eight-step technical challenge either. You can make the crust the day before.
+
+Vegetarian. Uses whole eggs and butter. That's it. No weird substitutions needed.
+
+The tart pan matters here. Makes it look intentional. Removable bottom means you can actually get it out of the pan without destroying it.
+
+## Building the Crust from Scratch
+
+Flour, salt, and sugar go in the food processor first. Pulse them together. Just combine them — don't go crazy.
+
+Cold butter chunks. Cut them into rough dice before you start. Add them to the processor and pulse in short bursts. You want coarse crumbs, not a paste. Ten to twelve pulses usually does it. If you overwork it, the crust gets tough.
+
+Ice-cold milk. Pour a bit in, pulse, then look. The dough should start clumping together but still have some loose flour. If it's dry, add more milk a teaspoon at a time. Better to start dry and add than to make soup.
+
+Dump it out. Shape it into a ball with your hands. Don't knead it. Don't work it. Just get it into roughly a ball shape and wrap it in cling film. Thirty-five minutes in the fridge. This matters. Cold dough doesn't shrink as much when it bakes.
+
+Roll it between two sheets of parchment. Easier than flouring. Press it into your tart pan — whether it's square or round. Keep the edges neat but don't stress about them being perfect. Rustic works. Back in the fridge for 25 minutes.
+
+## The Almond Filling and Baking
+
+Soften the butter first. This means actually soft, not melted. Thirty seconds at room temperature usually works. Beat it with brown sugar and almond extract for about 3 minutes. You'll see it change — lighter, fluffier, almost pale. That's when you know it's right.
+
+Eggs one at a time. After each one, beat for a good 20 seconds. The mixture will look glossy and thick. That's correct. Stir in the flour. Don't overbeat. Once it's combined, you're done.
+
+Spread the filling into the chilled crust evenly. Dot the whole pitted Medjool dates across the top. Space them however you want. They'll sink slightly as it bakes but not completely — you'll still see them.
+
+Lowest oven rack. 175°C. About 55 minutes. You're looking for golden edges and a filling that's set but still has a tiny wobble in the very center when you shake the pan gently. It keeps cooking after you pull it out.
+
+Cool on a rack. Doesn't have to be cold to eat it. Room temperature is better actually. The flavors are clearer.
+
+## Common Mistakes and How to Fix Them
+
+Overworked crust means tough, dense pastry. Pulse until crumbs form, then stop. The butter chunks should still be visible, not completely blended in. If you notice it getting smooth, you're done.
+
+Milk too warm and the dough gets sticky. Use ice water. Literally ice-cold. Some people add an ice cube to their milk five minutes before they use it.
+
+Eggs at room temperature matter more than you'd think. Cold eggs don't mix in as smoothly. Set them out while you're making the crust.
+
+Dates that are dried out and hard won't soften right. Medjool specifically — they're almost meaty, they plump up nicely. If your dates are ancient and shriveled, soak them in warm water for ten minutes first. Drain them well before using.
+
+Not enough chill time on the crust before baking means it shrinks and pulls away from the sides. It's not a huge deal but it looks sloppy. The 35 minutes plus 25 minutes isn't filler time — the cold dough actually matters.
+
+Slightly wobbly center is the move. Overbaked and it's dry. Underbaked and it's gloppy. That tiny wiggle in the middle means it's perfect. You'll be testing this for the first time — just look at the edges. When they're golden, check the center. It gets easier.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make the crust ahead?**
+Yes. Make it, chill it, wrap it, and it's fine overnight in the fridge. Even better — freeze it for up to a week. Bring it to room temperature for five minutes before rolling if it's too hard.
+
+**What if I don't have a tart pan?**
+An 8-inch square baking pan works. Or a 9-inch round cake pan. You won't get the fancy edges but the tart tastes exactly the same. Time might be slightly different — start checking at 50 minutes instead of 55.
+
+**Should I blind bake the crust?**
+No. The filling bakes long enough and the oven rack is on the lowest position specifically so the bottom cooks. Skip the parchment and weights.
+
+**Can I use regular dates instead of Medjool?**
+You can but they're drier. They won't sink into the filling the same way or have that soft texture. Medjool is worth finding. Most grocery stores have them near the raisins or in the bulk section.
+
+**What's the deal with the almond extract?**
+It's not vanilla. It does something different — makes the whole thing taste richer without being vanilla-y. Two teaspoons is the right amount. More than that and it tastes like medicine.
+
+**How long does this keep?**
+Two days on the counter, covered. Three days in the fridge. After that the crust starts to get a bit hard. Slice it, wrap it, freeze it. Thaw it for an hour before eating and it's perfectly fine.
+
+**Can I use salted butter instead of unsalted?**
+You can. Just know the filling will taste slightly salty. Add a pinch of salt to the crust instead of just the pinch that's already there, actually — skip that. Just use unsalted. It's easier and tastes cleaner.

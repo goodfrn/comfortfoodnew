@@ -1,0 +1,26 @@
+{
+  "slug": "donut-chicken-sampler",
+  "title": "Donut Chicken Sampler",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken donut sandwich",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "maple Dijon drizzle",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy chicken fingers",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

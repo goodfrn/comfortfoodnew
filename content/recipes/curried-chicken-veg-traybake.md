@@ -1,10 +1,10 @@
 ---
-title: "Curried Chicken Veg Traybake"
+title: "Curried Chicken Veg Traybake Recipe"
 slug: "curried-chicken-veg-traybake"
-description: "Chicken thighs swapped for breasts; maple swapped for agave nectar; curry powder reduced slightly. Broil rack moved mid-level, cooking times shifted ±3 minutes to catch doneness via sights and smells. Veg tender-crisp; juicy chicken with scent of toasted curry. Couscous with basil pesto, limed for brightness. Technique tips on handling broil heat and vegetable size. Backup options in case of missing broth or pesto. Texture signals, sound cues during cooking, flavor layering insights. One pot to small pan efficiency hack included."
-metaDescription: "Curried Chicken Veg Traybake with tender chicken breasts, roasted peppers, zucchini, and cumin-rich couscous in pesto broth. Quick broil, sensory cues guide doneness."
-ogDescription: "Quick broil chicken breasts with vibrant veg; couscous simmers in pesto broth. Listen for sizzle, watch edges brown, scent sharp curry and sweet agave notes."
-focusKeyphrase: "Curried Chicken Veg Traybake"
+description: "Curried chicken veg traybake with tender chicken breasts, bell peppers, and zucchini. Quick one-pan dinner with curry powder, agave nectar, and basil pesto couscous for bright flavor."
+metaDescription: "Curried chicken veg traybake with chicken breasts, peppers, and zucchini. One-pan vegetable traybake dinner ready in minutes. Make it tonight."
+ogDescription: "Juicy curried chicken with bell peppers, zucchini, and couscous. One-pan vegetable traybake that's tender-crisp and flavorful."
+focusKeyphrase: "curried chicken veg traybake"
 date: 2025-09-24
 draft: false
 image: curried-chicken-veg-traybake.jpg
@@ -21,9 +21,18 @@ tags:
 - "spice"
 - "couscous"
 keywords:
+- "curried chicken veg traybake"
 - "curried chicken"
 - "vegetable traybake"
+- "one-pan chicken dinner"
+- "chicken breasts recipe"
+- "bell pepper zucchini"
 - "broiler cooking"
+- "basil pesto couscous"
+- "quick chicken traybake"
+- "curry powder chicken"
+- "easy weeknight dinner"
+- "sheet pan chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "385"
@@ -87,3 +96,79 @@ faq:
 - "q: How long can leftovers keep? a: Refrigerate in airtight container up to 3 days. Reheat gently in oven or stovetop to keep texture. Couscous might dry out—add small splash of broth or water when reheating. Freezing possible but veg soften further."
 
 ---
+
+Had three bell peppers and a chicken breast that needed handling. Threw curry powder at it. Eighteen minutes later, dinner. This curried chicken veg traybake works because everything hits the sheet at once—no babysitting five pans, no timing games. Broiler does the work.
+
+## Why You'll Love This
+
+Takes 33 minutes start to finish. Fifteen minutes prep, eighteen in the oven. That's it.
+
+One tray. One oven. Chicken cooks while vegetables caramelize. Couscous steams on the stovetop next to it—zero overlap stress.
+
+Curry powder is forgiving. Not a heat bomb unless you want it. Just warm spice that makes everything taste intentional.
+
+Throw lime on it at the end. Brightness cuts through. Makes the whole thing feel less heavy.
+
+## Curried Chicken with Roasted Vegetables
+
+Olive oil. Two tablespoons. Agave nectar—four teaspoons. Curry powder, four teaspoons. Whisk them together in a small bowl until the oil turns golden and the smell gets sharp and earthy. That's your signal the spices are waking up.
+
+Chicken breasts. Two of them. Slice each one horizontally so you've got four thinner pieces instead of two thick ones. Thinner means faster, means less chance of dry chicken.
+
+Bell peppers—whatever colors you have. Seed them, chop them into chunks. Not tiny. Not huge. Just pieces. One large zucchini sliced into thin half-moons, maybe a centimeter thick. One medium onion, thinly sliced. Salt and pepper.
+
+Chicken broth. Four hundred milliliters. Basil pesto. Four teaspoons. Couscous. Four hundred milliliters. Lime optional but worth it.
+
+## Broiler Cooking Setup and Technique
+
+Set your oven rack to the middle position. Preheat the broiler to high. Top rack broils too fast and scorches—middle gives you even cooking for the vegetables and the thicker chicken pieces.
+
+Get your large rimmed baking sheet. Lay chicken on one half. Scatter peppers, zucchini, and onion on the other half. Don't mix them yet. You want control over how things char.
+
+Pour that golden curry oil over the chicken and vegetables. Toss the vegetables gently to coat. Don't overcrowd. Overcrowding steams everything instead of roasting it. Salt and pepper all over. Use your fingers to massage the marinade into the chicken—helps flavors sink into the meat faster.
+
+Slide the tray into the oven. Broil for about 18 minutes. Start checking at 15. Listen for sizzle and pop from the peppers and onions—that's caramelization happening. Smell it. Curry toasted, agave sweet offsetting the heat. The chicken should tighten. Poke it. Juices run clear when it's done. Vegetables should be golden at the edges, still have some bite.
+
+Rotate the tray halfway through. Broilers are finicky with heat spots.
+
+## Couscous and Everything Together
+
+While the tray's going, combine broth and pesto in a small saucepan. Bring it to a boil over medium heat. The second it boils, pull it off. Don't let it keep going—flavor loss.
+
+Pour the couscous in. Stir quickly. Cover with a tight-fitting lid. Let it sit for 6 or 7 minutes. Longer than the packet usually says. Fuller, fluffier grains. Uncover and fluff with a fork. Salt and pepper—but not too much. Pesto and broth are already salty.
+
+Plate the couscous. Scatter chicken pieces and roasted vegetables on top or to the side. Squeeze lime wedges over everything. Citrus cuts through the curry richness. If you don't have lime, a dash of apple cider vinegar works in a pinch to brighten it all.
+
+## Common Issues and How to Fix Them
+
+Bland vegetables? Size matters. Too thick and they take forever to soften. Thin one-centimeter slices roast better without drying out. The zucchini especially—too thick and it's mushy outside, raw inside.
+
+Broiling demands attention. Hover with an oven mitt. Once the surface dries, char happens fast. Watch the color shift from pale to golden. Slight springiness in the chicken means not done. Slight firmness means ready.
+
+No pesto? Blend fresh basil with pine nuts and olive oil. Or squeeze lemon for acid. No broth? Use water but add extra salt and a dash of garlic powder to compensate.
+
+Dry chicken. This usually means the pieces are too thick or you've overcooked them. Halving the breasts horizontally fixes this. Also—poke it at 15 minutes, not 18. Every oven broils differently.
+
+Gummy couscous? You stirred it too soon after adding the liquid. Don't do that. Let it sit undisturbed. Stir only once, at the end.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use bone-in chicken instead of boneless?**
+Bone-in takes longer. Maybe 25 minutes under the broiler instead of 18. Thicker pieces. You'll know it's done when the meat pulls away from the bone easily.
+
+**What if I don't have agave nectar?**
+Honey works. Maple syrup works. Any liquid sweetener. The amount stays the same. It balances the curry heat, that's all it's doing.
+
+**Can I prep this ahead of time?**
+Cut everything the night before. Keep chicken and vegetables separate until you're ready to broil. Don't mix them with the curry oil yet—the vegetables will weep and get soggy.
+
+**Why does my chicken always come out dry?**
+Thickness. If your breasts are naturally thick, butterfly them. Thinner pieces roast faster. Also—broilers vary. Check at 15 minutes. Don't wait for 18. Poke it. If juices run clear, it's done.
+
+**What vegetables can I swap in?**
+Broccoli florets work. Snap peas. Cherry tomatoes if you add them in the last 5 minutes so they don't burst everywhere. Carrots need to be thin—they take longer. Same with sweet potato. Mushrooms are great. Just keep everything a similar size so it all finishes at the same time.
+
+**Can this work without the broiler?**
+Roast it at 425°F for about 20 minutes instead. Not as fast but it works. You won't get the same char on the vegetables though. Broiler's better for this one.

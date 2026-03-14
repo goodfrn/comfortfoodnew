@@ -1,0 +1,26 @@
+{
+  "slug": "easter-dunkaroo-remix",
+  "title": "Easter Dunkaroo Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "white cake mix",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "whipped topping",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "Greek yogurt",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

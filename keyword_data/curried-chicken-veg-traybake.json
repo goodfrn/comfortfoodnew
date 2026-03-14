@@ -1,0 +1,26 @@
+{
+  "slug": "curried-chicken-veg-traybake",
+  "title": "Curried Chicken Veg Traybake",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "curried chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable traybake",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "broiler cooking",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-fried-turkey",
+  "title": "Crispy Fried Turkey",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fried turkey",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey frying tips",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey spice rub",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

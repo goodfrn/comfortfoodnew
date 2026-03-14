@@ -1,10 +1,10 @@
 ---
-title: "Crunchy PB Chocolate Balls"
+title: "Crunchy PB Chocolate Balls No-Bake"
 slug: "crunchy-pb-chocolate-balls"
-description: "Crunchy cereal crushed into peanut butter dough, chilled, then dunked in melted chocolate. Bite-sized, mostly sweet, with that satisfying snap from cereal. A quick no-bake treat that holds together firm if you chill it properly. Classic peanut butter swapped to almond butter here for extra nuttiness and a hint of sweetness. Cereal choice matters: I prefer a sturdy, flake cereal over puffed – keeps the texture alive, no mush. Chocolate’s thinned with a splash of corn oil or coconut oil for smoother coating and shine. Chill twice, once for shaping, again for setting chocolate. Don't rush or they'll fall apart. Pops in the fridge speed up firm-up time. Works for anytime you want a rich bite without oven drama. Handles humidity like a champ."
-metaDescription: "Crunchy PB Chocolate Balls made with almond butter and sturdy flake cereal. No bake, chilled twice, coated in semisweet chocolate thinned with coconut oil for shine."
-ogDescription: "Crunchy almond butter balls coated in glossy chocolate. No bake, chill twice. Flake cereal keeps snap alive. Quick, tactile, rich bites that don’t fall apart."
-focusKeyphrase: "Crunchy almond butter chocolate balls"
+description: "No-bake chocolate balls made with almond butter, crushed cereal, and chocolate coating. Crunchy, bite-sized treats that require no oven and set in the fridge."
+metaDescription: "Make crunchy chocolate balls with almond butter and cereal—no baking required. Dip in melted chocolate for an easy no-bake dessert. Try it tonight."
+ogDescription: "Crunchy cereal and almond butter chocolate balls. No oven needed, just chill and dip in chocolate."
+focusKeyphrase: "no bake chocolate balls"
 date: 2025-12-06
 draft: false
 image: crunchy-pb-chocolate-balls.jpg
@@ -21,9 +21,14 @@ tags:
 - "candy"
 - "almond"
 keywords:
-- "peanut butter substitute"
+- "no bake chocolate balls"
 - "no bake dessert"
+- "almond butter treats"
 - "chocolate coated balls"
+- "peanut butter substitute"
+- "no bake candy"
+- "cereal treats"
+- "easy chocolate recipes"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "160"
@@ -65,3 +70,83 @@ faq:
 - "q: How to store and keep crisp? a: Airtight container in fridge best; slows spoil. Fridge firm-up but wait 10 mins before eating to avoid soggy bite from condensation. Room temp storage risks soften but easier bite. Choose your poison."
 
 ---
+
+Three pounds of almond butter and a bag of cereal. No plan except "make something people will actually eat." This happened on a Tuesday. Now I make them twice a month because they disappear in two days.
+
+Crunchy peanut butter chocolate balls that take 20 minutes to prep and then just sit in your fridge while you do literally nothing. No oven. No thermometer. Just your hands and a microwave. The crunch stays. The chocolate snaps. Everything about this is easy.
+
+## Why You'll Love This
+
+No bake. Twenty minutes of actual work, then the fridge does the rest. No oven to heat up your kitchen.
+
+Almond butter tastes richer than peanut butter. Less salty. The chocolate coats it without fighting for flavor.
+
+Cereal chunks mean you get actual texture. Not a dense candy bar feeling. More like eating a crispy chocolate truffle with a secret inside.
+
+Makes about 30. Lasts about a week if you don't eat half the batch while coating them. Store them anywhere cool. They don't get weepy or separate.
+
+## Crushed Cereal Meets Almond Butter Base
+
+Sturdy flake cereal. Corn flakes work. Rice Krispies work. Anything that shatters clean and doesn't turn to powder. Toss it in a sealable baggie and smash with a rolling pin until it's broken into chunks but not dust. You want texture to survive.
+
+Almond butter. One cup. If you only have peanut butter, use it. They taste different—almond is smoother, less sharp—but peanut butter works fine. Unsalted butter. Half a cup, softened. You're mixing this with your hands or a spoon, so room temperature matters.
+
+Powdered sugar. A cup and a half. Sifted if you have the patience. Not sifted if you don't. The lumps melt anyway.
+
+Semisweet chocolate chips. A cup. Don't use the fancy stuff. This isn't about subtle notes. Use regular bag-of-chips chocolate. Tastes better here than it has any right to.
+
+Coconut oil. Optional. Just a teaspoon if your chocolate gets thick after melting. Makes it glossy. Makes dipping easier. Skip it if you don't care about shine.
+
+## Mixing, Rolling, and the Two-Hour Wait
+
+Combine almond butter, softened butter, and powdered sugar in a bowl. Use your hands if you want. Use a spoon if you're being civilized. Mix until it looks like damp sand with chunks. Lumps are fine.
+
+Dump the crushed cereal on top. Fold it in gently. This is the moment that matters. You want the cereal pieces visible. You want crunch in the final ball. Overmix and you get a smooth paste. Don't do that.
+
+Roll into balls about the size of a walnut. An inch diameter, roughly. They don't need to be perfect. If the dough sticks to your hands, dust your palms with powdered sugar and keep going.
+
+Place them on parchment paper. Arrange them on a tray. Put the whole thing in the fridge for at least 2 hours. This step isn't negotiable. The balls need to firm up completely before you dip them. Soft balls crack when they hit hot chocolate. It's frustrating. Wait the 2 hours.
+
+## Melting Chocolate and the Dipping Phase
+
+Heat chocolate chips in the microwave. Two-thirds cup at a time in a small bowl. Thirty seconds. Stir. If it needs more heat, thirty more seconds. Then stir again. Do this until smooth. Most batches need two rounds of thirty seconds. The microwave lies about how melted things are. Trust the stir.
+
+If the chocolate looks thick and won't coat smoothly, add a splash of coconut oil. Not much. A teaspoon. Stir it in. It'll thin out and get glossy.
+
+Use a fork or a dipping fork if you have one. Grab a cold ball from the fridge. Submerge it in chocolate. Rotate it with the fork so all sides get covered. Tap the fork on the bowl rim to shake off excess. Slide it onto parchment.
+
+If you want sprinkles, add them while the chocolate is still wet. Right after you place the ball down. The chocolate sets in about thirty seconds at room temp, faster in the fridge. This window matters.
+
+Let them cool at room temperature or pop the whole tray back in the fridge for ten minutes. They're done when the chocolate shell doesn't give when you press it lightly. Stack them or store them in a container. They last about a week. They won't last that long.
+
+## Common Mistakes and How to Fix Them
+
+Chocolate too thick after melting. This means you overheated it or you're using old chips with low cocoa butter. Add the coconut oil. Takes one minute. Fixes everything.
+
+Balls cracking when dipped. You didn't chill them long enough. Next time, wait the full 2 hours. Or even 3. Cold matters more than time matters if that makes sense. Cold wins.
+
+Cereal turning to dust during mixing. You're overmixing. Fold the cereal in once or twice. Stop. The small bits of whole cereal pieces are the point. They stay crunchy. Honor that.
+
+Chocolate coating uneven or spotty. Your chocolate is too thick. Heat it again. Just ten seconds. Stir. Try again. The dough is cold. The chocolate is warm. Meet in the middle on temperature.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use regular peanut butter instead of almond butter?**
+Yes. Almond butter tastes different—smoother, less salty—but peanut butter works exactly the same way. Might need an extra teaspoon of powdered sugar if your peanut butter is extra creamy.
+
+**How long do these actually last?**
+About a week in a sealed container on the counter. Longer in the fridge. I've never kept them that long. They disappear.
+
+**What if I don't have almond butter?**
+Peanut butter. Tahini. Even sunflower seed butter. The ratio stays the same. It'll work.
+
+**Why do the balls crack when I dip them?**
+Not cold enough. Two hours minimum. If you're in a hurry, freeze them for 30 minutes instead. The chocolate hits cold dough and the dough stresses. More time in the fridge = less stress.
+
+**Can I make these ahead?**
+Make them through the chilling step. Store the unbaked balls in the fridge for up to three days. Dip them whenever you want. Or dip now and they last a week. Either way works.
+
+**Do I really need coconut oil?**
+No. The chocolate will coat without it. It just looks glossier and dips smoother with it. Tastes the same either way.

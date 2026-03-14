@@ -1,10 +1,10 @@
 ---
-title: "Danish Salmon Tartines"
+title: "Danish Salmon Tartines with Rye Bread"
 slug: "danish-salmon-tartines"
-description: "Open-faced rye bread tartines topped with a creamy mixture of canned and smoked salmon, fresh dill, and tangy yogurt. Layered with roasted carrots and sliced radish for crunch and earthiness. Simple to assemble, great for a quick main or light lunch. No nuts or eggs. Uses 180g canned salmon and 100g smoked salmon. Yogurt adds moisture, while olive oil replaces vegetable oil for a subtle fruity aroma. Caper berries swapped in for classic capers, changing the texture and bursting flavor. Accompanied by lemon wedges and crunchy cucumber slices. Toast the bread until edges crisp and warm, not burnt. Keeps bright colors and layers clear. Rustic, fresh but with a twist. Timing is less precise, sense when salmon mix is creamy but not watery. Quick, reliable, tasty with a touch of sharpness from lemon and caper berries."
-metaDescription: "Danish Salmon Tartines with creamy canned and smoked salmon mix, roasted carrots, crisp radishes, and caper berries. Rye bread toasted chestnut brown for crunch."
-ogDescription: "Open-faced rye bread topped with creamy salmon mix, roasted carrots, radishes, and caper berries. Crunchy textures balance creamy layers with zesty lemon squeeze."
-focusKeyphrase: "Danish salmon tartines"
+description: "Danish salmon tartines on toasted rye bread with creamy yogurt, canned and smoked salmon, fresh dill, roasted carrots, and caper berries. Light lunch ready in minutes."
+metaDescription: "Danish salmon tartines made with rye bread, canned salmon, smoked salmon, yogurt, and caper berries. Fresh dill and roasted carrots add nutrition. Try it tonight."
+ogDescription: "Toasted rye bread tartines topped with creamy salmon, caper berries, fresh dill, and roasted carrots. Quick Nordic-inspired lunch."
+focusKeyphrase: "salmon tartines"
 date: 2025-08-16
 draft: false
 image: danish-salmon-tartines.jpg
@@ -23,7 +23,16 @@ tags:
 keywords:
 - "salmon tartines"
 - "rye bread tartine"
+- "Danish salmon tartines"
+- "open-faced sandwiches"
+- "smoked salmon rye bread"
+- "canned salmon recipe"
 - "caper berries"
+- "fresh dill salmon"
+- "roasted carrots recipe"
+- "quick lunch ideas"
+- "Nordic seafood"
+- "yogurt salmon spread"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -69,3 +78,83 @@ faq:
 - "q: How to store leftovers? a: Separate components best. Store salmon mix airtight in fridge. Toast and veggies separately. Combine right before serving. Keeps textures alive. If mixed early, toast softens quickly and fresh crunch is lost. Lemon wedges added only at serving."
 
 ---
+
+Three components. Salmon. Toast. That's it. Had a tin of canned salmon and smoked salmon scraps. Twenty minutes to something that looks like it came from a restaurant. Danish tartines are stupid easy — the kind of appetizer you make when you want to seem like you tried without actually trying hard.
+
+## Why You'll Love This
+
+Twenty minutes flat. Seriously. No cooking salmon, no fussing. Just assembly.
+
+Works as an appetizer for literally anything. Dinner party, lunch, standing in the kitchen at midnight. One bite, done.
+
+Looks expensive. Costs nothing. Those roasted carrots and radish slices make it look like you spent all day. You didn't.
+
+Each bite is different textures. Crispy toast. Creamy salmon spread. Peppery radish crunch. Cool cucumber. Your mouth gets bored never.
+
+## Building the Base
+
+Canned salmon. Not the stuff with skin. That's mushy. Drain it hard — squeeze it in paper towels. You want dry fish, not wet mush.
+
+Smoked salmon on top of that. Finely chopped. Not shredded into confetti. Just small pieces.
+
+Mix them with plain yogurt and olive oil. Fold, don't stir. You want some chunks still visible. Mushy salmon is a mistake you make once.
+
+Caper berries. Chopped. One tablespoon. That's enough. They're salty so taste before you add more salt. The smoked salmon is already briny.
+
+Fresh dill. Tear it, don't chop it. Keeps the flavor sharper. About 15 grams. Or just use your hand and eyeball it. It's dill.
+
+Rye bread. Toast it. Medium heat. Watch for the color — chestnut brown, slight crackle at the edges. Not black. Black is burnt and tastes like you made a mistake.
+
+Roasted carrots. Four of them, sliced thin. The roasted ones from the store are fine. They've got that caramelized sweetness that makes the fish less heavy.
+
+Radishes. Thin slices. They're peppery and crisp and they stay that way for exactly long enough.
+
+Lebanese cucumbers. Sliced. They're less watery than regular ones. If that's all you have, use regular. Just don't load them on too early or everything gets soggy.
+
+## Putting It Together
+
+Layer the carrots on the toast first. Press gently. They stick just enough.
+
+Spread the salmon mixture over top. Don't squish. The bread is toasted but it's still bread. It tears if you push too hard.
+
+Radish slices go on next. A few. Scattered or lined up. Doesn't matter. They should be visible though. That's the whole point — you see the peppery crunch coming.
+
+Cucumbers last. Either on top or on the side. On top looks better. On the side means less sogginess. Pick your priority.
+
+Lemon wedges. Serve them separate. People squeeze them right before they eat. That squeeze matters — it lifts everything. Don't skip it.
+
+If you're making these ahead of time, keep everything separate. Toast the bread two hours before if you need to. Salmon mixture in the fridge. Vegetables in a container. Assemble five minutes before serving. Sogginess is the only enemy here.
+
+## Mistakes and Fixes
+
+Over-mixing the salmon. You'll know because it looks like paste. Stop folding. The smoked salmon keeps things interesting texture-wise. Mush is boring.
+
+Too much caper. They're aggressive. One tablespoon. Trust it.
+
+Burnt toast tastes like regret. Watch the heat. Chestnut brown. That's the window.
+
+Soggy bread from sitting too long. Don't assemble until people are about to eat. Everything else can wait. The bread can't.
+
+No caper berries? Chop green olives instead. Different taste — less briny, more meaty. Completely works. Or skip it entirely. Salmon and dill are enough.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use fresh salmon instead of canned?**
+You'd have to cook it. Poach it, cool it, flake it. Takes longer. Canned salmon already has that cooked texture and the skin's gone. That's the whole point of tartines — fast.
+
+**Why does the recipe say to drain the canned salmon twice?**
+Excess liquid makes everything soggy and dilutes the flavor. Press it in a paper towel. Don't just crack the lid and pour. Squeeze it a little.
+
+**How far ahead can I make these?**
+Keep the salmon mixture separate from the bread. Three hours. The toast stays crispy if it's not touched. Radishes and cucumbers in their own container. Assemble last. Seriously last.
+
+**What if I don't have rye bread?**
+Dark whole grain works. Sourdough works. White bread is too soft. It collapses under the weight. You want something sturdy enough to hold the spread without getting sad.
+
+**Is there a substitute for plain yogurt?**
+Greek yogurt is too thick. Crème fraîche is thinner and richer. Sour cream works fine. Cottage cheese — no. Don't do that.
+
+**Why not just mix everything together and make a spread?**
+Because the canned salmon chunks stay visible and textured that way. If you blend it smooth it tastes like sad mousse. The flakes matter. They're part of what makes it feel like actual food and not processed goop.

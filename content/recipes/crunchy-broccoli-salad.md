@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Broccoli Salad Remix"
+title: "Crunchy Broccoli Salad with Pancetta"
 slug: "crunchy-broccoli-salad"
-description: "Broccoli chopped chunky with smoky pancetta swapped for bacon. Sunflower seeds get a toss as crunchy players; dried tart cherries replace cranberries to punch up tang. Red onion sharpness swapped for scallion bite. Cheddar held tight. Dressing uses Greek yogurt instead of mayo; vinegar sweetened with honey, subtle flip on sugar. Tossed, chilled slightly longer than usual for melding but stirred mid-wait, watches for flared aromas. Big bowl action, no fancy tools. Visual check: broccoli stays vibrant, not soggy. Crispness paramount, texture layered. Dressing clings right, not drowning. Practical twists, sensory cues and prep tips insure every forkful snaps. Beginner tips and seasoned tricks in one tidy remix. 8 servings, rich but balanced, 430-ish cals. Changes small but flavor taut. Ready to ditch routine?"
-metaDescription: "Crunchy Broccoli Salad Remix with smoky pancetta, tart cherries, and tangy Greek yogurt dressing. Crunch, snap, and layered texture in every bite."
-ogDescription: "Big chunks broccoli snap, smoky pancetta hits, dried cherries zing. Greek yogurt dressing thick yet light. Chill long, toss gently, crunch stays alive."
-focusKeyphrase: "Crunchy Broccoli Salad"
+description: "Crunchy broccoli salad with crispy pancetta, sunflower seeds, and tart cherries. Greek yogurt dressing replaces mayo for a lighter, tangier twist."
+metaDescription: "Make this broccoli salad with pancetta, sunflower seeds, and Greek yogurt dressing. Fresh, crunchy, and flavor-packed. Try it tonight."
+ogDescription: "Broccoli salad with pancetta, sunflower seeds, tart cherries, and Greek yogurt dressing. Crispy, tangy, and totally addictive."
+focusKeyphrase: "broccoli salad"
 date: 2025-10-11
 draft: false
 image: crunchy-broccoli-salad.jpg
@@ -24,6 +24,11 @@ keywords:
 - "broccoli salad"
 - "pancetta salad"
 - "healthy salad"
+- "Greek yogurt dressing"
+- "sunflower seed salad"
+- "cheddar broccoli salad"
+- "make-ahead salad"
+- "cold salad recipes"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "433"
@@ -73,3 +78,59 @@ faq:
 - "q: How long can I store salad? a: Best eaten within 24 hours. Chill covered in fridge. Texture fades after that, broccoli softens. Can hold some hours room temp just chilled but not warm."
 
 ---
+
+Broccoli gets boring fast until you add pancetta. That smoke, the salt, the crunch that lasts. Had a bowl of sad broccoli salad at someone's house once—mayo everywhere, mushy florets. This fixes that. Greek yogurt instead, so it's lighter. Real tang from apple cider vinegar. Tart cherries that catch you off-guard every few bites. It takes 30 minutes to put together and tastes like you tried way harder than you did.
+
+## Why You'll Love This
+
+Takes 30 minutes flat. Mostly chopping, zero cooking the actual salad.
+
+Healthy without tasting like punishment. Greek yogurt instead of mayo, and the whole thing stays bright, not heavy.
+
+Works as a side for grilled chicken, sandwiches, literally anything. People ask for the recipe every time.
+
+Crunchy broccoli salad stays textured even after sitting. The dressing doesn't turn everything into mush. That's the whole point.
+
+## Broccoli and Pancetta Salad with Apple Cider Vinegar Dressing
+
+Broccoli florets. Chop them chunky. Not florets that look like trees—thick chunks so they don't vanish into dressing. Pancetta, fried until it shatters. Warm still matters; adds a tiny bit of fat to everything else. Sunflower seeds toasted lightly. Not burned. Just fragrant. Dried tart cherries, not cranberries—sweeter and tartness cuts through the cheese better. If the cherries are huge, halve them. Scallions sliced thin, white and green parts separate in your head, same bowl later. Sharp white cheddar cubed or shredded depending on your knife mood and how much texture you want. Half a cup. That's enough without overpowering.
+
+Greek yogurt. Two-thirds cup. Not mayo. Thinner, tangier, less sits heavy in your stomach after. Apple cider vinegar, 3 tablespoons. Not white vinegar. Too sharp, kills everything else. Honey, 2 tablespoons. Balances the tang without making it sweet. Salt and black pepper, freshly ground. Coarse salt if you have it. Sticks to the broccoli instead of disappearing.
+
+## Making and Resting the Crunchy Broccoli Salad
+
+Get your biggest bowl. Really the biggest one. Broccoli chunks in first. Add the pancetta bits while they're still warm—they distribute better, cling to everything without turning greasy puddles. Sunflower seeds next, toss it around. You'll hear them crackle slightly even in the dressing later. Dried cherries go in, then scallions. The white parts first, then the green—same bowl, matters less than you think, but white parts are sharper so they hit you before the soft green. Cheddar last. Keep it chunky or shred it fine. Both work.
+
+Whisk the Greek yogurt and apple cider vinegar together first. Smooth it out completely. Honey goes in last, not first. Stir it until it disappears. The dressing should be thick enough to coat without dripping off a spoon. If it's too thin right now, add another tablespoon of yogurt. Salt and pepper. Taste it. Adjust it. It should taste slightly too tangy on its own—the broccoli mellows it.
+
+Pour the dressing over everything and toss gently. Use tongs or your hands, clean hands work better honestly. You want every piece of broccoli coated but not drowning. The dressing should hug things, not puddle at the bottom. Cover the bowl tight and stick it in the fridge. About 30 to 35 minutes. I usually open it halfway through, stir once. Stirring keeps soggy spots from forming in the middle. It also lets flavors trade around instead of the honey staying at the bottom.
+
+## Storing and Serving Your Healthy Salad
+
+Before you serve, give it one more toss. The broccoli should still snap when you bite it. Dressing will have soaked into the edges slightly—that's good. Colors look brighter than when you started because the acid from vinegar wakes them up. Smell it. You should get fresh tang, honey sweetness creeping in, and pancetta smokiness in the background. Nothing should smell like raw vinegar. That means you're good.
+
+Serve it cold or just chilled. Room temperature works too if you've been sitting around. Goes with grilled chicken, pulled pork, sandwiches, light fish. It's a side that doesn't need much company. Keeps for 24 hours in the fridge before the broccoli texture starts fading. After that it's still edible but loses the whole point—the crunch. Don't make it three days ahead thinking you're smart. You're not.
+
+Pancetta can swap for thick-cut smoked bacon if you want. Still warm matters. No pancetta at all? Roasted chickpeas work for crunch without meat, though you lose the salt and smoke. Tart cherries are the move here—cranberries are drier, less interesting. Prunes would work but they're sweeter, you'd cut the honey down. Don't use raw onion instead of scallions. Raw onion overpowers everything in about six hours. Scallions fade respectfully.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this the night before?**
+You can chop everything the night before, keep it separate in containers. Don't dress it until a few hours before serving. The pancetta loses crispness overnight if it sits in dressing. The broccoli gets soft if you give it too much time. Best move is assemble in the morning, dress in the afternoon.
+
+**What if I don't have Greek yogurt?**
+Sour cream works. Less tang though, so bump the vinegar to 4 tablespoons. Mayo is traditional but defeats the healthy angle. Cottage cheese blended smooth works too, tastes slightly earthier. Haven't tried crème fraîche but probably fine.
+
+**Does the pancetta have to be warm?**
+Helps. Warm fat disperses better through the salad. Cold pancetta still works, just doesn't coat things as evenly. The crispness stays either way.
+
+**Why apple cider vinegar and not something else?**
+White vinegar is too harsh, kills the honey sweetness. Red wine vinegar works but overpowers. Rice vinegar's too mild. Apple cider has this round tang that doesn't fight the dried cherries. It just... works. Not totally sure why but it does.
+
+**How long does this actually keep?**
+24 hours maximum before broccoli texture starts going soft. After 36 hours it's basically a side of mush. The dressing's fine indefinitely but it's not worth eating if the broccoli's given up. Make it fresh or don't bother.
+
+**Can I use regular cheddar instead of sharp?**
+You can. It'll taste milder, less interesting. Sharp cheddar has funk. That funk plays with the tart cherries and pancetta. Regular cheddar disappears into the background. Not worth it.

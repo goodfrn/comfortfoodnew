@@ -1,9 +1,9 @@
 ---
-title: "Crispy Chicken Croquettes"
+title: "Crispy Chicken Croquettes with Cornstarch"
 slug: "crispy-chicken-croquettes"
-description: "Ground chicken mixed with spices and flours, then fried until golden and crispy. A batch yields about 40 bite-sized croquettes with a crunchy exterior and juicy center. No dairy or nuts here, great for simple comfort food lovers. Uses thigh meat for moisture, starch mix for crispness, with subtle onion and paprika notes. Frying times adjusted for texture, finishing on paper towel to keep them lightly crisp but not oily. Serve warm with tangy chili sauce or mayo-based dip for contrast."
-metaDescription: "Crispy Chicken Croquettes made with thigh meat, double-coated for crunch, spices balanced for heat and depth. Fry golden, drain well; serve with chili or garlic mayo dips."
-ogDescription: "Golden croquettes with juicy chicken thighs, smoky paprika and an ultra crisp crust. Double dredged, fried at steady heat, drained on paper towel. Dip in chili or mayo."
+description: "Crispy chicken croquettes made with diced chicken thighs, cornstarch, and all-purpose flour. Golden, crunchy exterior with juicy center. Perfect comfort food."
+metaDescription: "Make crispy chicken croquettes with chicken thighs, cornstarch, and flour for a crunchy bite-sized snack. Golden fried perfection. Try it tonight."
+ogDescription: "Chicken thighs meet cornstarch for crispy, golden croquettes. Diced, seasoned, fried to perfection."
 focusKeyphrase: "crispy chicken croquettes"
 date: 2025-08-18
 draft: false
@@ -21,9 +21,13 @@ tags:
 - "fried"
 - "appetizer"
 keywords:
-- "croquettes"
+- "crispy chicken croquettes"
 - "chicken thighs"
 - "double coating"
+- "fried chicken recipe"
+- "chicken croquette recipe"
+- "cornstarch coating"
+- "homemade croquettes"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "130"
@@ -79,3 +83,79 @@ faq:
 - "q: How to store leftover croquettes? a: Airtight container fridge best. Keeps them firmer. Reheat after cold in toaster oven/skillet restores crisp crust. Microwave rehydrates but ruins crunch, turns mushy quickly. Can freeze too but freeze flat on tray first, then bag. Reheat thoroughly still but texture won’t be same as fresh fried. Avoid stacking to keep crust breath, stop sogginess."
 
 ---
+
+Three pounds of chicken thighs and a Sunday that needed a snack. Croquettes happened. Fried. Crispy outside. Shredded chicken holding together somehow. Comfort food that doesn't feel heavy. Takes 70 minutes total—25 to prep, 45 to fry and rest—but most of that is just waiting for oil to heat or watching them turn gold.
+
+## Why You'll Love This
+
+Takes 70 minutes and gives you appetizers for days. Fry once, eat for a week.
+
+Fried chicken without the whole bird. Snack-sized. Dunk them in sauce. No grease on your hands after, somehow.
+
+Comfort food that tastes like a restaurant made it. Crispy crust. Shredded chicken inside that's still tender. Not dense. Not dry.
+
+Better than chicken nuggets. Way better. Your guests will ask for the recipe.
+
+## What Goes Into the Batter and Coating
+
+One large egg mixed with 125 ml cold water. Keep it cold. Warmth kills the crust later.
+
+All-purpose flour and cornstarch mixed together—60 grams flour, 30 grams cornstarch. The cornstarch is the secret. Makes it crispier than flour alone.
+
+Salt. Onion powder. Smoked paprika. Garlic powder. Baking powder. A teaspoon total of all of it, basically. Pepper generously. Stir until even.
+
+700 grams boneless chicken thighs. Not breasts. Thighs have fat. They stay moist when you pulse them in the food processor. Pulse until minced but not paste. Texture matters. It should hold together but still look shredded.
+
+Vegetable oil for frying. Neutral. High smoke point. Don't use olive oil.
+
+## Making Croquettes That Actually Crisp Up
+
+Mince the chicken first. Pulse it in a food processor until it's finely chopped but still has some flake to it. Compact but not pasty. Taste a small bit with salt and pepper. Let it sit 5 minutes. You'll taste how seasoned it is before you bread it.
+
+Scoop about a tablespoon of chicken. Press it firmly. Flatten it to maybe 1 centimeter thick, roughly 2.5 inches across. Not too thick or it won't cook through. Not too thin or it falls apart.
+
+Here's where most people mess up. The double coating. Dredge the croquette in the flour mixture completely. Shake off excess. Dip it into the egg wash—let the excess drip off. If it's too wet, it'll be soggy when it hits the oil. Return it to the flour mix and coat again. This second coat is what traps the moisture inside and makes that crust actually crispy. Skip it and you get a flat, pale crust.
+
+## Frying Until Golden
+
+Heat oil in a heavy pan to 175°C (350°F). Get a thermometer. Guessing kills batches.
+
+Don't crowd the pan. 8 to 10 croquettes max. Too many and the oil temperature drops. You'll end up with greasy, soggy food instead of crispy.
+
+Drop them in gently. Listen for the steady sizzle right away. If it crackles violently, the oil is too hot. Reduce heat slightly. If it's silent or quiet, the oil isn't hot enough. Wait.
+
+Fry about 6 to 7 minutes per batch. Watch them turn from pale to golden. When you press one lightly with tongs, it should feel firm but still give slightly. The internal temperature should be around 75°C (165°F) when you check with a meat thermometer.
+
+Drain them on paper towels immediately. Don't stack them while they're hot or steam will soften the crust. If you're making multiple batches, keep the first ones warm in a 65°C oven while you fry the rest.
+
+## Common Mistakes and How to Fix Them
+
+Soggy crust. Usually the batter is too wet or the oil isn't hot enough. Wet batter = drip the egg wash more aggressively. Cold oil = use a thermometer, not guessing. Temperature matters more than you think.
+
+Chicken coming apart while frying. The mixture isn't compact enough. Press harder when you form them. Or the oil is too violent. Lower the heat.
+
+Pale, greasy croquettes. Oil too cool. Check the temperature. Don't trust the burner setting.
+
+The coating sliding off. This means the egg wash isn't adhering. Make sure the chicken mixture isn't wet or oily before you bread it. Pat it dry if needed.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make these ahead of time?**
+Yes. Form them, coat them, freeze on a baking sheet. Fry straight from frozen. Add maybe a minute to the time. They'll be fine.
+
+**What's the point of the double coating?**
+It traps steam inside and creates a crunchy shell. Single coating gets flat and pale. Double coating is crispy and golden. There's a reason restaurants do it.
+
+**Can I bake these instead of frying?**
+No. Not really. You can try an air fryer at 190°C for 12 minutes, shaking halfway. Won't be the same. Frying is the move here.
+
+**How do I store leftovers?**
+Airtight container in the fridge. Three days max. Reheat in a skillet over medium heat or a toaster oven. Microwave makes them rubbery. Don't do it.
+
+**Why chicken thighs and not breasts?**
+Thighs have fat. Breasts dry out. Thighs stay moist inside when you pulse them. Try it and you'll feel the difference.
+
+**What temperature should the oil actually be?**
+175°C (350°F). Use a thermometer. Seriously. Temperature is the difference between crispy and greasy. Most home cooks fry way too cold.

@@ -1,0 +1,26 @@
+{
+  "slug": "eggnog-chai-cheesecake",
+  "title": "Eggnog Chai Cheesecake",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesecake",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "eggnog",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chai spices",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

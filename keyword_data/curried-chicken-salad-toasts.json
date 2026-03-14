@@ -1,0 +1,26 @@
+{
+  "slug": "curried-chicken-salad-toasts",
+  "title": "Curried Chicken Salad Toasts",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken salad",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "turmeric",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "almonds",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

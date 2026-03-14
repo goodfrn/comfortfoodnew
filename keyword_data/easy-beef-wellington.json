@@ -1,0 +1,26 @@
+{
+  "slug": "easy-beef-wellington",
+  "title": "Easy Beef Wellington",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beef Wellington",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "duxelles mushroom",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "prosciutto wrapped beef",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

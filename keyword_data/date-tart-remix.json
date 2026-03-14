@@ -1,0 +1,26 @@
+{
+  "slug": "date-tart-remix",
+  "title": "Date Tart Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "date tart",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "dessert recipe",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "rustic tart",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

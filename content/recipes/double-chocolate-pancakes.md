@@ -1,9 +1,9 @@
 ---
-title: "Double Chocolate Pancakes"
+title: "Double Chocolate Pancakes with Egg Whites"
 slug: "double-chocolate-pancakes"
-description: "Fluffy double chocolate pancakes with folded egg whites and chunks of dark chocolate. Uses buttermilk and a mix of cocoa and unbleached flour. Leavened with baking powder and baking soda. Folded batter rests briefly for better rise. Cooked in butter till golden, flipping once bubbles form. Serve with chocolate sauce or syrup. Substitutions for milk and butter included. Timing cues based on color and bubbles, not just minutes. Egg white folding technique keeps pancakes light. Chocolate chunks add texture and bursts of cocoa. Slight adjustments in sugar and resting time improve texture from previous attempts."
-metaDescription: "Double Chocolate Pancakes with folded egg whites, dark chunks, and buttermilk. Resting batter, watching bubbles, flipping once for better rise and texture."
-ogDescription: "Fluffy double chocolate pancakes with dark chunks and whipped whites. Rest batter, watch bubbles, flip gently. Butter or coconut oil for greasing."
+description: "Fluffy double chocolate pancakes made with buttermilk, cocoa powder, and dark chocolate chunks. Folded egg whites create an airy texture. Serve with syrup for a decadent breakfast."
+metaDescription: "Double chocolate pancakes with buttermilk and dark chocolate chunks, topped with folded egg whites for extra fluff. Make it tonight."
+ogDescription: "Fluffy buttermilk pancakes loaded with cocoa powder and dark chocolate chunks. Folded egg whites make them irresistibly airy."
 focusKeyphrase: "double chocolate pancakes"
 date: 2025-09-25
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
+- "double chocolate pancakes"
 - "chocolate pancakes"
-- "folded egg whites"
 - "buttermilk pancakes"
+- "folded egg whites"
+- "dark chocolate pancakes"
+- "cocoa powder pancakes"
+- "fluffy pancakes"
+- "breakfast pancakes"
+- "homemade pancakes"
+- "chocolate breakfast"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "300"
@@ -71,3 +78,69 @@ faq:
 - "q: Can I store leftovers? a: Refrigerate in airtight container, reheat in pan to revive texture. Microwave makes them rubbery. Warm oven option good but watch not drying. Freeze wrapped between parchment sheets up to 1 month."
 
 ---
+
+Chocolate pancakes for breakfast. Not the boxed mix kind. Real ones. Made them last weekend after finding dark chocolate in the freezer and thinking, why not push it. Forty-five minutes total and you're sitting down to something that tastes like actual comfort food instead of flour delivery system. Double chocolate because cocoa powder goes in the batter and chunks stay molten in the middle.
+
+## Why You'll Love This
+
+Takes 63 minutes start to finish and most of that is just letting the batter sit and cooking in batches. Feels fancier than it is—dark chocolate chunks, whipped egg whites, that slight glossy sheen. Works for lazy Sunday breakfast or when someone's coming over and you want them to think you tried. Homemade pancakes hit different than anything from a box. Actual comfort food.
+
+## Cocoa and Dark Chocolate in the Batter
+
+Flour. Unsweetened cocoa powder sifted—don't skip sifting, lumps ruin the crumb. Thirty grams of sugar for sweetness. Baking powder and baking soda. Salt. Just salt.
+
+Cold buttermilk does something better than warm. Melted coconut oil or butter. Separate your egg first—yolk goes in the wet mix, white gets whipped alone. Rough chopped dark chocolate. At least 60% cocoa. The chunks stay distinct, don't dissolve into everything.
+
+Softened butter for the pan. Not melted. Just soft enough to brush.
+
+## Building the Batter, Resting, and the Flip
+
+Sift the dry ingredients together—flour, cocoa, half the sugar, leavening, salt. Set it aside. Mix buttermilk, oil, and egg yolk in another bowl. Just stir once or twice. Don't overthink it.
+
+In a clean, completely dry bowl, whip the egg white with an electric mixer. Start until it's frothy, then add the remaining sugar while you keep beating. You want soft peaks—slightly glossy, folds hold their shape but the tip droops over. That texture matters. Too stiff and you'll deflate it folding.
+
+Pour the wet into the dry. Fold gently with a spatula until everything's just moistened. Lumps are fine. Then fold in the whipped white carefully. Slow folds. Then fold in the chocolate chunks. Don't go back and back. Airiness dies fast.
+
+Let the batter sit at room temperature for 12 minutes. It gets thicker, bubbles stabilize, the surface won't turn rubbery. Set a timer. Don't skip this.
+
+Heat your nonstick pan over medium. Brush with softened butter—light hand here. Too much and they fry instead of pancake.
+
+Scoop about 3 tablespoons of batter per pancake. Fit about 3-4 in the pan. Spread slightly if they need it. Watch for tiny bubbles forming on top. When the edges look set and the surface changes, around 3 to 4 minutes, flip gently. Use a thin spatula. You'll feel when it wants to move.
+
+Cook the other side 1 to 2 minutes. Golden. Not burnt. The texture should be springy, fully set when you touch it.
+
+Serve right away. Chocolate sauce, vanilla cream, maple syrup—pick one or nothing.
+
+## When Things Go Wrong
+
+Overbeat the egg white and it breaks when you fold. You'll see it separate. Can't fix that one. Start over. Overfolding the batter kills the height—you want to fold until combined, not until smooth.
+
+Batter resting too long gets thick, won't spread, pancakes come out dense. Twelve minutes. That's the window.
+
+Heat too high and the bottoms burn before the inside cooks. Medium is right. You'll know by the second pancake if you need to adjust down.
+
+No buttermilk? Mix regular milk with lemon juice or vinegar. Use about 180 ml milk and 10 ml acid. Let it sit 5 minutes to curdle.
+
+Coconut oil instead of butter works fine, especially if you want dairy-free. The flavor shifts slightly lighter.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make the batter ahead of time?**
+Not really. The whipped white dies sitting around and the batter gets gluey. Mix it fresh, let it rest 12 minutes, then cook.
+
+**What if I don't have an electric mixer for the egg white?**
+A whisk works but your arm will hurt. Takes longer. You can still get soft peaks but it's not fun. Mixer's worth it here.
+
+**Should I fold in the chocolate before or after the egg white?**
+After. Folding chocolate last means less stirring of the white, which keeps the airiness intact.
+
+**How do I know when to flip?**
+Bubbles pop on the surface and the edges set. Around 3-4 minutes. Not a timer thing—you watch for it. Edges will look dry, center still wet.
+
+**Can I substitute dark chocolate with milk chocolate?**
+Milk chocolate works but it's sweeter and dissolves more into the batter. Dark stays distinct. Tried milk once. Not the same thing.
+
+**Do these reheat okay?**
+They're fine cold straight from the fridge. Microwave 15 seconds to warm. Not as good as fresh but not terrible either. Better to make them fresh when you eat them.

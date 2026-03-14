@@ -1,10 +1,10 @@
 ---
-title: "Easy Beef Wellington"
+title: "Easy Beef Wellington with Mushroom Duxelles"
 slug: "easy-beef-wellington"
-description: "A classic beef Wellington with a mushroom duxelles rich with thyme and cream. Wrapped in prosciutto and puff pastry for that crisp golden crust. Tied tenderloin seared for caramelized crust, then baked to juicy medium rare. Egg wash adds that shiny final touch. Variations on mushrooms and mustard add depth. Resting after baking is crucial to keep it moist; slicing too soon causes dry slices. Timing adjusted for thick tenderloin pieces. Expert tips included for texture and flavor balance."
-metaDescription: "Easy Beef Wellington with mushroom duxelles, prosciutto wrap, and seared tenderloin. Golden puff pastry crust, juicy medium rare center, resting crucial for moisture."
-ogDescription: "Seared tenderloin wrapped with duxelles mushroom paste and prosciutto inside crisp puff pastry. Rest well before slicing to lock in those juicy flavors."
-focusKeyphrase: "Beef Wellington"
+description: "Beef Wellington featuring a creamy mushroom duxelles made with cremini mushrooms, shallots, and thyme. Wrapped in prosciutto and puff pastry, then seared and baked to juicy medium rare perfection."
+metaDescription: "Beef Wellington recipe with cremini mushroom duxelles, prosciutto, and puff pastry. Sear the tenderloin, wrap, and bake. Make it tonight."
+ogDescription: "Beef tenderloin wrapped in prosciutto and puff pastry with a rich mushroom duxelles. Crispy, golden, and perfectly juicy inside."
+focusKeyphrase: "beef Wellington"
 date: 2025-12-16
 draft: false
 image: easy-beef-wellington.jpg
@@ -24,6 +24,13 @@ keywords:
 - "beef Wellington"
 - "duxelles mushroom"
 - "prosciutto wrapped beef"
+- "beef tenderloin recipe"
+- "puff pastry beef"
+- "mushroom duxelles recipe"
+- "how to make beef Wellington"
+- "center-cut tenderloin"
+- "special occasion beef recipe"
+- "elegant dinner main course"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "570"
@@ -85,3 +92,79 @@ faq:
 - "q: How to store leftovers? a: Wrap airtight, fridge up to 2 days max. Reheat low oven or slice cold in sandwiches. Avoid microwave; pastry soggy. For longer, freeze wrapped log before baking, thaw overnight, then bake fresh."
 
 ---
+
+Sear beef tenderloin, wrap it in prosciutto and mushroom paste, then encrust the whole thing in puff pastry. That's beef Wellington. Sounds like a restaurant move. It's not. 35 minutes of prep, 32 minutes in the oven, and you've got something that looks like you spent three days on it. Made this once for a holiday dinner when I needed something that felt special but wouldn't actually destroy me in the kitchen. Worked. People still talk about it.
+
+## Why You'll Love This
+
+Takes 67 minutes total. Sounds long until you realize most of that is oven time and resting. You're active maybe 45 minutes.
+
+Looks like you went to culinary school. Tastes like it too. But it's just seared beef, mushroom paste, and pastry—three layers, all doable.
+
+Works as the main dish for literally any occasion. Holiday dinner. Party dinner. The moment you need to impress someone. Plate it with a simple salad and people think you're a different person.
+
+You can make it ahead. Wrap and chill it the morning of. Bake when guests arrive. House smells insane by the time they sit down.
+
+## The Mushroom Paste Layer
+
+Cremini mushrooms. About 18 ounces. Finely chopped—pulse them in a food processor with one medium shallot and 3 minced garlic cloves until thick and chunky. Not a puree. Actual texture. If you have wild mushrooms on hand, mix them in. Cremini alone works fine though.
+
+Melt 2 tablespoons butter in a medium skillet over medium heat. Dump the mushroom mixture in. Stir it every couple of minutes. Watch for the sizzle to fade. That's moisture leaving. Takes about 12 minutes. When it darkens and shrinks, when no liquid pools on the pan anymore—that's done. Add a teaspoon of fresh thyme, half a teaspoon salt, a quarter teaspoon pepper. Pour in a quarter cup heavy cream. Fold it through. The cream binds everything into spreadable paste. Let it cool completely. Still warm and it'll wilt the pastry.
+
+## Searing and Building the Beef Wellington
+
+Tie your tenderloin—about 2.5 to 3 pounds, center-cut—with butcher's twine every inch and a half. Wrap it tight. Without twine it puffs uneven. Rub it hard with coarse salt and freshly ground black pepper. Use kosher salt if you have it. Helps crust before the sear.
+
+Heat a skillet to smoking on medium-high. Use a tablespoon of neutral oil unless you have seasoned cast iron. Sear each side of the tenderloin, including the ends. About a minute per side. Total four to five minutes. You want brown crust, dark brown. Gray means not enough heat. Listen for that sear—that's flavor sealing in.
+
+Remove the tenderloin. Cut the twine off. Pat it dry with paper towels. Any moisture left behind makes the pastry soggy. Let it cool to room temperature. This speeds even cooking later.
+
+Lay plastic wrap on a cutting board. Arrange 8 to 10 thin prosciutto slices in overlapping rows, shingled like roof tiles. They're the barrier between pastry and beef. Spread Dijon mustard thinly across the prosciutto—or swap it for whole grain if you want texture. Then spread your cooled mushroom paste evenly over top. Leave a one-inch border around the edges. This stops seepage and helps it stick.
+
+Place the tenderloin at the bottom edge. Roll it all up using the plastic wrap edges. Roll tight. Press the ends to seal. The whole thing should be a neat log. Trim any excess pastry so it doesn't overlap thick. Uneven thickness means undercooked spots.
+
+Pinch the ends closed. Tuck them under. Wrap it again in plastic and twist the ends. Chill it 40 to 60 minutes. Cold pastry stays crisp. Room temperature pastry flops in the oven.
+
+## Baking the Prosciutto Wrapped Beef
+
+Preheat the oven to 400 degrees. Line a baking sheet with parchment. Unwrap the log carefully. Place it seam-side down on the tray.
+
+If you have puff pastry scraps left, cut out shapes—leaves, diamonds, whatever—and stick them on top with egg wash. Otherwise score the top lightly with a paring knife. Creates a pattern, lets steam escape.
+
+Beat 2 large eggs and brush the entire pastry surface. Egg wash does two things: glues decoration on and turns the crust deep golden. Bake 28 to 32 minutes. Watch the edges. If they brown too fast, cover with foil. Timing varies by size. Judge it by color—pastry should be puffed and golden. Too pale means underbaked pastry. Too dark means burnt.
+
+Remove it. Transfer to a rack. Rest it for a minimum of 15 minutes before slicing. Don't skip this. Hot meat loses juices everywhere. Rested meat stays tender. Slice with a serrated knife. Cuts cleaner than chef's knife on pastry.
+
+## Timing, Fixes, and What Goes Wrong
+
+Duxelles mushroom paste takes time to dry out. You need that dryness. If you rush it, skip the cooling, or use wet mushrooms, the pastry gets soggy on the bottom. Non-negotiable. Cook it low and slow. Let it shrink. Cool it completely. This is where people mess up.
+
+The tenderloin sear is non-negotiable too. High heat. Dry pan. One minute per side minimum. You're locking in a crust. No crust, no sear, it steams inside the pastry instead of roasting. Tastes steamed. Not good.
+
+Chilling the wrapped log matters. 40 to 60 minutes minimum. Cold pastry puffs evenly. Room-temp pastry spreads unevenly, cooks unevenly. Bottom stays pale, edges brown too fast.
+
+The resting period at the end is real. 15 minutes minimum. Tenderloin keeps cooking slightly while resting, carryover heat. If you cut it hot, blood runs out. If you rest it, it stays pink and moist inside. Slice thick—half inch minimum. Thin slices tear. Thick slices look impressive and hold together.
+
+Brown gravy optional. Pan drippings optional. The Wellington stands on its own, but a sauce never hurts.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I prepare this the day before?**
+Yes. Make the duxelles, cool it completely, cover it. Make the wrapped log, wrap it in plastic, chill overnight. Bake it the day of. You skip the 40-minute chill and go straight to the oven. Everything else stays the same.
+
+**What if my tenderloin is smaller or larger than 2.5 to 3 pounds?**
+Size matters for timing. Smaller—under 2 pounds—bakes faster, maybe 24 to 26 minutes. Larger—over 3 pounds—bakes longer, 34 to 38 minutes. Watch the pastry color, not the clock. Golden and puffed is done. Use a meat thermometer if you want insurance: 125 degrees for rare, 135 for medium-rare. Temperature rises during rest.
+
+**Can I use different mushrooms for the duxelles?**
+Cremini work. Button mushrooms work. Porcini, shiitake, oyster—mix them however you want. Drier mushrooms like shiitake actually help. Portobellos are too big and watery. Avoid them. The paste needs to be thick and spreadable, not wet.
+
+**My pastry is soggy on the bottom. Why?**
+Mushroom paste wasn't dry enough. You either didn't cook it long enough, didn't cool it, or both. Next time: cook until it shrinks visibly, until no water pools. Cool it completely. Room temperature, not just "a little warm." Also make sure your tenderloin is patted dry after searing. Moisture is the enemy.
+
+**Should I use puff pastry that's thawed or frozen?**
+Thawed. Let it sit on the counter 30 minutes before assembling. Cold, stiff pastry tears. Thawed pastry rolls without cracking. Frozen pastry in the oven seizes up unevenly.
+
+**What's the internal temperature I'm aiming for?**
+Insert a thermometer horizontally into the thickest part—don't hit the core, go to the side. Pull it at 125 degrees for rare, 135 for medium-rare. It'll rise 5 to 10 degrees while resting. If you like medium, pull at 140. Medium-well gets weird with tenderloin. Don't do it. The whole point is that tenderness.

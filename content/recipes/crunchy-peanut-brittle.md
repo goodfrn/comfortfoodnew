@@ -1,9 +1,9 @@
 ---
-title: "Crunchy Peanut Brittle Remix"
+title: "Crunchy Peanut Brittle with Maple Syrup"
 slug: "crunchy-peanut-brittle"
-description: "A caramelized peanut brittle with a twist. Sugar and golden syrup cooked till deep amber, where aromas shift from sweet to toasted notes. Peanuts toasted dry replace roasted for a nuttier punch. Baking soda introduced at the last second creates air pockets for light, crackly texture. Maple syrup swapped for corn syrup, a different sweetness layered in. No eggs, dairy, nor gluten. The sheet pan lined with silicone mat, not parchment, to avoid sticking on humid days. Offers bursts of sugary crunch with nutty undertones. Adjust heat based on bubbly sounds and color changes, never by time alone. Break brittle carefully to get varied piece textures—some chunky, some ground fine—for decorating desserts or munching straight up."
-metaDescription: "Crunchy Peanut Brittle Remix with dry roasted peanuts baking soda foam technique maple syrup swap corn syrup yields airy texture and varied crunch."
-ogDescription: "Airy peanut brittle with baking soda foam. Dry roasted nuts, maple replaced by corn syrup. Watch bubbles and color for crackly, crunchy texture."
+description: "Make peanut brittle with dry roasted peanuts, maple syrup, and baking soda for an airy, crunchy candy. This caramel confection delivers bursts of nutty flavor."
+metaDescription: "Peanut brittle recipe using maple syrup and dry roasted peanuts with baking soda for a light, crispy texture. Make it tonight."
+ogDescription: "Crunchy peanut brittle made with roasted peanuts, maple syrup, and baking soda. Sweet, nutty, and perfectly crispy."
 focusKeyphrase: "peanut brittle"
 date: 2025-08-13
 draft: false
@@ -22,8 +22,13 @@ tags:
 - "homemade"
 keywords:
 - "peanut brittle"
-- "baking soda foam"
-- "corn syrup caramel"
+- "homemade peanut brittle"
+- "maple syrup candy"
+- "caramel peanuts"
+- "baking soda brittle"
+- "dry roasted peanuts"
+- "crunchy candy recipe"
+- "easy brittle recipe"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "220"
@@ -63,3 +68,67 @@ faq:
 - "q: Can I use salted or raw peanuts? a: Salted risks throwing brittle balance salty-sweet. Raw lacks toasted nutty flavor and oil release changes caramel flavor. Dry roasted best for consistent results and crunch."
 
 ---
+
+Grab a clean sheet pan. Line it with silicone. You're making brittle in 18 minutes and if the mat sticks, everything falls apart. Had that happen once with parchment—disaster. Silicone is non-negotiable.
+
+This is brittle that actually stays crunchy. Not the kind that turns into a chewy brick by day three. The trick is the baking soda foam expanding it right at the end, creating air pockets that never collapse. Homemade candy is easier than people think. This proves it.
+
+## Why You'll Love This
+
+Takes 18 minutes total. Prep's 6, cooking's 12. That's it for homemade candy. Way cheaper than the boxed stuff and better texture.
+
+The snack you make that people ask for again. Shards in chocolate, dust on ice cream, crushed into yogurt. Brittle works everywhere. One batch makes three applications.
+
+Caramel and peanut butter in one bowl. No separate components. No intermediate steps you have to remember. Mix, heat, pour, done. Hard candy at home without a thermometer.
+
+Crunchy stays crunchy. The baking soda does that. Creates crackle that lasts through a week in an airtight container. Moisture never wins.
+
+## Water, Sugar, and Maple Syrup—The Base
+
+Water first. Just 70 ml. Not much. Sugar next—105 ml. Maple syrup rounds it all out at 110 ml. Don't overthink the amounts. Measure once, it works every time after.
+
+Pour them into a medium-heavy saucepan. Medium-heavy matters. Thin pans burn the bottom while the top's still pale. Stir once to combine. That's all. Stop stirring once the heat's on. The pan does the work. Swirl occasionally instead. Constant stirring makes crystals. Crystals turn brittle into sand.
+
+Keep a wet pastry brush nearby. You'll use it constantly to wipe down the sides. Crystals creeping up the walls ruin the whole batch. One crystal seeds more. See brown spots forming on the inside? Brush them away immediately.
+
+The color shift is everything. Starts clear and pale. Bubbles form at the edges first—tiny ones. The mixture looks like boiling water for a bit. Then it deepens. Light amber comes. Keep watching. Pale amber is the moment. Late amber smells like caramel toast, not burnt sugar. That's your timer if you don't trust your eyes.
+
+## Peanuts In, Baking Soda Foam Transforms It
+
+Add peanuts when the syrup hits pale amber. One vigorous stir. Not gentle. Not careful. One hard stir to coat every peanut. The mixture thickens instantly. Peanuts get glossy and dark. Cook one more minute. Just one. Bubbles get bigger. You'll hear them crackling under the pan—a tiny sound but real. It's the baking soda reaction starting early, impatient to expand.
+
+Off heat immediately. Don't wait. Stir in the baking soda—3 ml, just 3/4 teaspoon. Happens fast. The mixture foams white. Expands. Gets huge. This is the baking soda foam doing its job, creating air inside the brittle. The texture changes visibly. What was dense becomes airy in seconds.
+
+Pour straight onto the silicone mat. Don't hesitate. It hardens quick. Use an offset spatula and scrape hard. Spread it thin but don't aim for even. Edges should be thinner than the center. Uneven is better. Creates texture contrast. Some pieces shatter into powder, some stay in thick shards. Both are right.
+
+Let it cool completely at room temperature. Don't touch it. Don't move the pan. Patience here saves cleanup later. When it's totally cool, it cracks loudly when you tap it. That sound means it worked.
+
+## Breaking and Storing—Where Texture Gets Tactical
+
+Half of it breaks with your hands into sizable chunks. Just pick it up and snap. The other half gets chopped fine on a wooden board with a chef's knife. Rock the wide blade gently. Don't chop fast or it shatters into glass-fine dust everywhere. Gentle rocking works better.
+
+The chunky shards decorate chocolate cakes. Lay them on top while frosting's still tacky, they stick and look expensive. The fine dust goes on ice cream straight from the freezer, melts against warm vanilla. Crush some into butter for a crumb topping. Works on everything.
+
+Store it in an airtight container. Not the pantry. Not on the counter. Airtight. Moisture ruins crunch instantly. Humidity turns it back into taffy. An airtight jar in a cool spot keeps it perfect for a week. After that it's fine, just less shattery. Still tastes right.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**What makes the baking soda foam happen?**
+The heat and acid in the maple syrup react with baking soda. Creates carbon dioxide. Happens instantly when you stir it in. That's the foam. Traps air in the brittle. Makes it light and crunchy instead of dense and hard.
+
+**Can I use parchment instead of silicone?**
+You can. Doesn't work as well. Sticks more. Silicone releases cleaner. Parchment works if you oil it first, but the silicone's easier and faster.
+
+**Why not just add the baking soda to the syrup earlier?**
+Because it'll foam before you pour it. You need the baking soda to expand the brittle after it's on the mat, not in the pan. Early foam means brittle with huge air bubbles that collapse when they cool.
+
+**What if it tastes grainy?**
+Crystals formed. The wet brush didn't catch them all. Next time, brush more often. Especially when the mixture starts turning color. That's when crystals sneak up fastest.
+
+**How do I know when amber is amber enough?**
+Pale amber smells like caramel toast. Not burned. Not sugar-sweet anymore. Sharp edges to the smell. Trust your nose more than your eyes. Eyes lie in kitchen light. Your nose doesn't.
+
+**Can I skip the maple syrup and just use corn syrup?**
+Yes. Corn syrup caramel works fine. Tastes more generic. Maple adds a depth that makes it taste less like cheap candy. Try it both ways. You'll taste the difference.

@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-sesame-chicken",
+  "title": "Crunchy Sesame Chicken Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fried chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "sesame seeds",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "cornstarch crust",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

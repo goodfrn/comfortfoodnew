@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-beer-battered-cod",
+  "title": "Crispy Beer Battered Cod",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beer batter",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy cod",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fried fish",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

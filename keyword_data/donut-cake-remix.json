@@ -1,0 +1,26 @@
+{
+  "slug": "donut-cake-remix",
+  "title": "Donut Cake Remix",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "donut glaze",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake cake",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit topped dessert",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

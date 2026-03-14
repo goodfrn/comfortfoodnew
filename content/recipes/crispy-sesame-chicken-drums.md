@@ -1,10 +1,10 @@
 ---
-title: "Crispy Sesame Chicken Drums"
+title: "Crispy Sesame Chicken Drumsticks Recipe"
 slug: "crispy-sesame-chicken-drums"
-description: "Crispy chicken drumsticks coated in a sesame, olive oil, and brown sugar mix baked until golden. Served with a tangy, spicy lemon sauce made from fresh lemon juice, sugar, smoked paprika, and hot chili sauce. Oven temperature slightly lowered for better caramelization. Chicken skin crisps nicely, sesame seeds add crunch. Sauce simmers to thicken and infuse flavors. Can swap olive oil for avocado oil for mildness and switch smoked paprika to chipotle for a smoky heat change. Pairs well with mashed potatoes or rice for a hearty meal."
-metaDescription: "Crispy sesame-coated chicken drumsticks baked golden with a spicy, smoky lemon sauce that adds tang and heat. Served with mashed potatoes or rice."
-ogDescription: "Crunchy sesame chicken drumsticks baked with brown sugar and avocado oil. Tangy lemon sauce with smoked paprika and chili hits smoky, spicy notes."
-focusKeyphrase: "Crispy Sesame Chicken Drums"
+description: "Crispy sesame chicken drumsticks with avocado oil and brown sugar, baked until golden. Tangy spicy lemon sauce made with fresh lemon juice and chili sauce adds bold flavor."
+metaDescription: "Crispy sesame chicken drumsticks coated in sesame seeds, avocado oil, and brown sugar with spicy lemon sauce. Fresh lemon juice and chili sauce bring the heat. Make it tonight."
+ogDescription: "Golden crispy sesame chicken drumsticks with spicy lemon sauce. Sesame seeds, avocado oil, and chili sauce make this irresistible."
+focusKeyphrase: "sesame chicken drumsticks"
 date: 2025-07-28
 draft: false
 image: crispy-sesame-chicken-drums.jpg
@@ -21,9 +21,13 @@ tags:
 - "sesame"
 - "lemon"
 keywords:
-- "sesame chicken"
+- "sesame chicken drumsticks"
 - "chicken drumsticks recipe"
 - "spicy lemon sauce"
+- "crispy chicken drumsticks"
+- "sesame chicken recipe"
+- "baked chicken drumsticks"
+- "chicken with lemon sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -68,3 +72,47 @@ faq:
 - "q: How to store leftovers? a: Cool down fully. Refrigerate in airtight container. Use within 2-3 days. Reheat gently oven or microwave. Sauce separate preferred - stop skin soggy. Freeze chicken okay but texture changes. Thaw slowly before reheating."
 
 ---
+
+Chicken drumsticks with crispy sesame skin and a lemon-spicy glaze that actually sticks. Twenty-two minutes to prep, fifty-five to bake. One sheet pan, minimal fuss, the kind of dinner that makes people think you tried harder than you did.
+
+## Why You'll Love This
+
+Fifteen minutes of active work. Most of the cooking happens while you're doing something else. Spicy without being painful — the heat builds slow, then the lemon cuts through it. Sesame gets properly crispy, not burnt. Works as easy dinner for weeknights or when people are coming over and you want something that looks intentional.
+
+## Sesame Seeds and Spiced Chicken Coating
+
+Seventy grams of sesame seeds. Mix them with avocado oil and soft brown sugar. Salt and pepper. Toss the drumsticks until they're fully coated — the seeds should stick to the skin, not slide around. Twelve drumsticks. Skin-on matters here. Skinless won't crisp the same way. The avocado oil is the carrier. Olive oil smokes too fast at this temperature.
+
+## Building the Crispy Sesame Chicken
+
+Mid-level oven rack. 210°C. Let it preheat while you're coating the drumsticks. Arrange them on a sheet lined with parchment. Not touching if you can help it. Bake for 55 minutes. Flip at 27 minutes — exactly halfway. This is the only timing that matters. Halfway flip keeps the bottom from getting pale. You want golden everywhere. Internal temperature 75°C minimum. Drumsticks run hotter than breasts, so the inside will be fine before the skin is crispy. Watch for brown, not black.
+
+## The Lemon-Spicy Sauce
+
+While the chicken cooks, combine 120 milliliters fresh lemon juice with 95 grams light brown sugar, smoked paprika, and hot chili sauce. Medium heat. Stir constantly until it reaches a slow boil. Simmer two minutes. The sauce thickens slightly but stays pourable. Remove from heat and let it cool. Don't skip the cooling. Hot sauce over hot chicken just runs off. Room temperature sauce clings to the skin. Stir occasionally so a skin doesn't form on top — not because it ruins anything, just easier to work with.
+
+## Mistakes and How Not to Make Them
+
+Don't skip the halfway flip. The bottom will steam. Steamed skin doesn't crisp. Flip it. The sesame seeds are doing most of the work here, so coat generously. If they're sparse, they'll burn before they crisp. Too much oil and they slip around instead of adhering. Twenty milliliters is right. The sauce can split if you get it too hot — keep it at a gentle boil, not a rolling one. Too much heat and the sugar seizes. If it does, lower the temp and stir slowly. Usually recovers. The chili heat builds as it cools, so don't panic if it tastes mild straight off the stove.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use chicken breasts instead of drumsticks?**
+You can. Won't be the same. Breasts dry out easier and the sesame coating won't crisp as well because there's less fat under the skin. Drumsticks are worth buying for this.
+
+**How spicy is this actually?**
+Depends on the chili sauce you use. The smoked paprika adds flavor more than heat. Most people find it warm, not painful. The lemon cools it down a bit too.
+
+**Can I make the sauce ahead?**
+Yes. Make it hours before. Room temperature is fine. Reheat gently right before serving if you want it warm, but it works cold too.
+
+**What if I don't have avocado oil?**
+Ghee works. Actually might crisp better. Coconut oil also works but you'll taste it. Olive oil burns at this temperature — skip it.
+
+**Do I really flip halfway through?**
+Yes. Non-negotiable. It's the only way the bottom gets crispy instead of pale and limp.
+
+**How do I know they're done without a thermometer?**
+Pierce the thickest part between the leg and thigh. Juices should run clear, not pink. Internal temp 75°C just means definitely done. You can definitely tell by looking if you've made chicken before.

@@ -1,10 +1,10 @@
 ---
-title: "Curried Fish Stew with Veggies"
+title: "Curried Fish Stew with Sweet Potatoes"
 slug: "curried-fish-stew"
-description: "Fish chunks marinated briefly in tangy turmeric lime mix. Sweet potatoes and carrots roasted until just tender. Aromatic sauté with ginger, garlic, onion starts rich sauce base. Added diced tomato, chicken broth, coconut milk thicken gently as fish cooks through. Spicy fresh chili for heat. A twist of fresh herbs boosts color and aroma. Whisk in lemon zest and toasted cumin seeds before serving. Balanced blend of creamy, spicy, and bright."
-metaDescription: "Curried Fish Stew with Veggies is a vibrant fusion dish full of flavor. Fish and veggies simmer in coconut broth. Great for weeknights."
-ogDescription: "Curried Fish Stew with Veggies is a delicious fusion meal with marinated fish and roasted vegetables. Perfect for any night of the week."
-focusKeyphrase: "Curried Fish Stew"
+description: "Curried fish stew with sweet potatoes, carrots, and coconut milk. White fish fillets in aromatic ginger-garlic sauce with turmeric and fresh serrano chili. Ready in under an hour."
+metaDescription: "Curried fish stew recipe with sweet potatoes, carrots, chicken broth, and coconut milk. Tender white fish in spiced tomato sauce. Make it tonight."
+ogDescription: "Aromatic curried fish stew with sweet potatoes, carrots, and coconut milk. Ginger, garlic, turmeric, and fresh chili in every bite."
+focusKeyphrase: "curried fish stew"
 date: 2025-07-16
 draft: false
 image: curried-fish-stew.jpg
@@ -21,9 +21,14 @@ tags:
 - "stew"
 - "coconut"
 keywords:
-- "curried fish"
-- "vegetable stew"
+- "curried fish stew"
+- "fish stew recipe"
 - "easy dinner"
+- "coconut milk fish"
+- "white fish recipes"
+- "sweet potato stew"
+- "curry dinner ideas"
+- "healthy fish recipes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -72,3 +77,65 @@ faq:
 - "q: Any substitutions for ingredients? a: Yes, carrots can swap zucchini. Different flavor but okay. Coconut milk for almond milk. Different texture depth. Fish could change too. Salmon is richer. Adjust spices to preference."
 
 ---
+
+Two sheet pans, one skillet. Happens in an hour. Fish hits turmeric marinade while root veggies roast golden, then everything comes together in coconut broth that tastes like you've been simmering it for days but you haven't. Tried this with halibut first. Too dense. White fish—cod, haddock, pollock—just dissolves into the sauce. Better.
+
+## Why You'll Love This
+
+Takes 25 minutes to prep, 35 to cook. Done. No standing around waiting for things to happen.
+
+Healthy, bright, spicy without burning your mouth. The serrano is just there. You taste it but it doesn't take over.
+
+One bowl of coconut broth doing all the work. Fish gets tender, veggies get soft, flavors blend into something that feels like you know what you're doing.
+
+Seafood that tastes expensive but costs a fraction of restaurant price.
+
+## Sweet Potatoes, Carrots, and the Roasting Part
+
+Two medium sweet potatoes. Peel them. Slice thick—2 centimeters. Any thinner and they turn to mush. Three medium carrots, cut into rounds, 1.5 centimeters. Toss both in half the olive oil with a pinch of sea salt. Spread flat. Single layer. Not stacked. Not crowded. They roast 35 minutes at 210 Celsius. Golden edges matter. That's when they're done.
+
+Meanwhile, white fish fillets. Cod works. Haddock works. Whatever's not frozen solid at your market. Cut them crosswise into chunks—maybe 4 centimeters each. 500 grams total. Not a lot of fish. Enough for 4 people if you're eating with veggies.
+
+The marinade is lemon juice, turmeric, sea salt, and minced serrano chili in a shallow bowl. Just mix it. Add the fish pieces, turn them around so they coat. Let them sit 7 minutes. The turmeric colors them, the acid tightens the flesh slightly. Matters more than you'd think.
+
+## Onions, Garlic, Ginger, and Building the Sauce
+
+Remaining oil in a large skillet over medium-high heat. Add chopped yellow onion, minced garlic, freshly grated ginger. 25 milliliters of ginger—that's a lot but it mellows when it cooks. Stir for 3 to 4 minutes. The onion edges start to color, garlic stops smelling raw. That's the signal.
+
+Tip the fish and its marinade into the skillet. Don't drain the marinade. All of it goes in. Then diced tomato. 150 milliliters of low sodium chicken broth. 150 milliliters of light coconut milk. Not full fat. Light stays cleaner. The broth simmers gently—not a rolling boil. 6 to 9 minutes. Watch the fish. It goes from translucent to opaque. That's done. The sauce should reduce just slightly, tighten up a bit.
+
+Off heat now. Add lemon zest and 1 teaspoon of toasted cumin seeds. Don't skip the toasting. Raw cumin tastes dusty. Toasted smells like actual spice. Let it sit 5 minutes. The flavors find each other.
+
+## Timing, Temperature, and When It Actually Works
+
+Total time is 60 minutes but you're not standing there. Roasting happens while the marinade happens. Then the skillet while the roasting finishes. It's not complicated once you start.
+
+The fish can't be too thick or it won't cook through evenly. Aim for chunks around 4 centimeters. Thicker ones take 10 minutes instead of 6. Check them at 7. Opaque means done. White means done. Gray means overdone—you've passed it.
+
+Sweet potatoes break down fast. 35 minutes at 210 is the window. At 30 minutes they're still firm. At 40 they're starting to fall apart. Barely tender is the target. If you like them softer, add 5 minutes but you risk them turning to soup.
+
+The serrano determines heat level. One chili is medium. Two is spicy. If you hate spice, use half. If you want more, use two. It's not subtle. The coconut milk doesn't hide it. It just coats your mouth in a pleasant way.
+
+Cilantro goes on top. Fresh. Not the stuff from a jar. It should smell like cilantro when you open the bag. Lime wedges on the side—squeeze them over before you eat if you want more brightness. The lemon zest already handles some of that but lime is sharper.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can you make this ahead of time?**
+The roasted veggies are better fresh. The stew itself—sure. Reheat it gently. The fish gets softer the second day but it doesn't fall apart. Tastes even better actually, flavors merged more.
+
+**White fish is bland in my area. What else works?**
+Halibut is dense, takes longer to cook through. Salmon has fat that changes the sauce. Mahi-mahi works fine. Tilapia works. Stay away from anything super delicate or it shreds. You want something that holds its shape for 8 minutes.
+
+**Do you have to roast the veggies separately?**
+Could throw them in the broth at the start but they turn mushy before the fish is done. Roasting them keeps texture. Matters more than you'd think.
+
+**Light coconut milk vs regular—does it matter?**
+Regular is richer, heavier. Light tastes cleaner, you actually taste the fish. This recipe needs light. If you use regular, use less—maybe 100 milliliters instead of 150 or the sauce gets too thick.
+
+**How spicy is this actually?**
+One serrano is warm. Not painful. If you've eaten actual chilis before, you'll barely notice. If you don't eat spicy food, halve it. Start there. You can always add more.
+
+**Can you skip the turmeric marinade?**
+You could but the fish comes out pale and tastes less interesting. The turmeric doesn't taste like turmeric, it just adds color and a subtle earthiness. Worth the 2 minutes it takes.

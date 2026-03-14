@@ -1,10 +1,10 @@
 ---
-title: "Earthy Truffle Aioli"
+title: "Earthy Truffle Aioli with Garlic & Mayo"
 slug: "earthy-truffle-aioli"
-description: "Garlic minced fine, mayo blended in. Salt brings balance. Fold black mushroom tapenade for earthiness. Simple, rustic, intense flavors. A spread or dip with character. Prep about ten minutes, no cooking required. Six servings, but watch it vanish. Swap mayo for yogurt or sour cream for tang. White truffle oil could replace pate but less chew, more aroma. Crucial—don’t puree truffle paste or lose texture. Salt’s your friend here, but careful, too much kills subtle fungi notes. Aioli’s thick, creamy, with garlic punch and that deep umami pop."
-metaDescription: "Earthy Truffle Aioli with minced garlic, black truffle tapenade, mayo base. Thick, rustic, umami-rich spread. Prep fast; chill flavors meld deep earth notes."
-ogDescription: "Garlic minced fine, mayo blended. Fold black truffle tapenade for deep earthiness. Thick, punchy aioli ready in minutes. Chill or serve right away."
-focusKeyphrase: "Earthy Truffle Aioli"
+description: "Truffle aioli made with fresh garlic, creamy mayo, and black mushroom tapenade. This rustic spread delivers intense umami flavor in just 10 minutes."
+metaDescription: "Truffle aioli recipe using garlic, mayo, and black mushroom tapenade for rich umami. Simple no-cook spread ready in minutes. Make it tonight."
+ogDescription: "Creamy truffle aioli blending garlic, mayo, and black mushroom tapenade for deep, earthy flavor."
+focusKeyphrase: "truffle aioli"
 date: 2025-12-01
 draft: false
 image: earthy-truffle-aioli.jpg
@@ -24,6 +24,10 @@ keywords:
 - "truffle aioli"
 - "garlic mayo spread"
 - "black mushroom tapenade"
+- "homemade aioli"
+- "truffle spread"
+- "garlic dip"
+- "mushroom spread"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "120"
@@ -62,3 +66,61 @@ faq:
 - "q: How to store leftover aioli? a: Store tightly sealed in fridge. Separation normal; whisk before use. Should keep for few days max. Avoid freezing; texture ruins. Resting flavors deepen with time but not long-term. If smell off or texture slimy, discard. Keep utensils clean to prevent spoilage."
 
 ---
+
+Three garlic cloves. A cup of mayo. Black truffle tapenade. That's it. Takes 12 minutes and tastes like you spent an hour on it. Had some leftover tapenade sitting in the fridge, didn't want to waste it, and this happened—now it's the thing I make when I want to seem like I know what I'm doing.
+
+## Why You'll Love This
+
+No cooking. Just a processor and a bowl. Done before you finish your coffee.
+
+Works with literally anything—grilled steak, roasted carrots, crusty bread, a spoon if you're honest. Vegetarian and makes everything else better.
+
+Tastes expensive. Costs nothing. That earthy truffle funk hits different when it's homemade.
+
+Makes enough to stash in the fridge for a week of "I threw this together."
+
+## Why This Garlic Mayo Spread Works
+
+Garlic cloves go in first—peeled, dropped straight into the food processor. Pulse. Fast. Until it's minced fine but still has texture, not a paste. You'll smell it immediately. That sharp, bright hit.
+
+Mayo comes next with sea salt. Just the fine kind. Blend until it's homogeneous and silky. Don't go crazy here. Overblending makes it thin and loose. You want thick. Spreadable. When you swirl it with a spatula, it should feel like it has weight.
+
+The tapenade is hand-folded in. Don't processor it. Those little mushroom chunks need to stay intact—they're what give you that characteristic earthiness when you bite down. Release happens in your mouth, not in the bowl.
+
+Taste it now. Balance the garlic punch against the savory fungi. Salt to preference. Some people want more salt. Some want less. Your call.
+
+Chill it minimum 15 minutes if you have time. Flavors meld. Everything gets friendlier. Rushed? It still rocks right away.
+
+## How to Fix Common Mistakes
+
+Garlic texture matters more than you think. If you pulse it wrong—too long, too short—the whole thing falls apart. Too long and it gets mushy, bitter, aggressive. Too short and it's chunky, raw, distracting. You want that small-grit texture. Rough enough to feel it on your tongue but small enough to blend smoothly with the mayo.
+
+Fresh garlic can be aggressive for some people. If it's too much, roast the cloves first until they're soft and sweet. Changes everything. Less bite, more mellow earthiness.
+
+Mayo is the base. Homemade mayo tastes deeper, richer, but it needs more care and attention. Store-bought works fine and is honestly the smarter move for most people. Greek yogurt swaps in if you want lighter. Not the same thing, but good in its own way.
+
+Over-salt and you kill the truffle. That subtle, earthy thing disappears under salt. Always err on the side of less. Add more if you taste it and want it. Impossible to fix if you go too far.
+
+Storage—seal it tight. Aioli separates sometimes. Oil rises. Just whisk it before serving. Stays good for a week, maybe longer. Check for weird smells. If it smells off, it's off.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use jarred minced garlic instead?**
+Not really. Jarred tastes sharp and chemical. Fresh changes the whole flavor. Worth the 30 seconds to peel and pulse it yourself.
+
+**What if I don't have a food processor?**
+Mince the garlic fine with a knife. Whisk it with mayo and salt by hand. Takes longer but works. Tapenade still folds in gently by hand either way.
+
+**How long does it last in the fridge?**
+About a week sealed tight. Sometimes longer. Trust your nose more than a calendar.
+
+**Can I make this ahead?**
+Yes. Actually tastes better the next day after flavors marry. Just whisk it before serving if it separated.
+
+**Is this vegetarian?**
+Completely. Check your mayo brand if that matters to you—some use fish-derived ingredients.
+
+**What should I serve this with?**
+Grilled steak, roasted vegetables, crusty bread, potatoes, literally any appetizer that needs a dip. Works as a sandwich spread too.

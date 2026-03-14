@@ -1,0 +1,26 @@
+{
+  "slug": "curried-fish-stew",
+  "title": "Curried Fish Stew with Veggies",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "curried fish",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable stew",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "easy dinner",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

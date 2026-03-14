@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-garlic-buffalo-wings",
+  "title": "Crispy Garlic Buffalo Wings",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "buffalo wings",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy baked wings",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic buffalo sauce",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

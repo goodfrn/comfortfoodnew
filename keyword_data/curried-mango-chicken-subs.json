@@ -1,0 +1,26 @@
+{
+  "slug": "curried-mango-chicken-subs",
+  "title": "Curried Mango Chicken Subs",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "curried chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "papaya sandwiches",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut cream sauce",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

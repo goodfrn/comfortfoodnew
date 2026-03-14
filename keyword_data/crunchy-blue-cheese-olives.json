@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-blue-cheese-olives",
+  "title": "Crunchy Blue Cheese Olives",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blue cheese olives",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "frying olives",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "panko breadcrumbs",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

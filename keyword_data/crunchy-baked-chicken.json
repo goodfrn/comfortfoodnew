@@ -1,0 +1,36 @@
+{
+  "slug": "crunchy-baked-chicken",
+  "title": "Crunchy Baked Chicken Twist",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "baked chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "marinated chicken",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "breadcrumb crust",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "oven baked chicken",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

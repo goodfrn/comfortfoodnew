@@ -1,10 +1,10 @@
 ---
-title: "Double Chocolate Éclairs"
+title: "Double Chocolate Éclairs Recipe"
 slug: "double-chocolate-eclairs"
-description: "Éclairs made with choux pastry baked until golden and dry inside. Filled with a pastry cream blending white chocolate and a hint of orange zest. Topped with dark chocolate ganache infused with espresso. Water, butter, flour adjusted for a firmer dough. Eggs reduced slightly for easier piping. Baking times altered to ensure crispness. Pastry cream thickened with cornstarch replacing some flour, vanilla complemented by orange zest. Dark chocolate ganache includes espresso powder for depth. A refined take on a classic with cocoa intensity and subtle citrus notes."
-metaDescription: "Delight in our Double Chocolate Éclairs, featuring rich pastry cream and dark chocolate ganache. A classic French treat that's refined and flavorful."
-ogDescription: "Savor Double Chocolate Éclairs with a blend of white chocolate pastry cream and espresso ganache. An exquisite French dessert."
-focusKeyphrase: "Double Chocolate Éclairs"
+description: "Homemade éclairs with choux pastry filled with white chocolate pastry cream, orange zest, and dark chocolate ganache with espresso. Crispy outside, creamy inside."
+metaDescription: "Make éclairs with white chocolate pastry cream, orange zest filling, and espresso-infused dark chocolate ganache. Try it tonight."
+ogDescription: "Crispy éclairs with white chocolate pastry cream, orange zest, and espresso dark chocolate ganache topping."
+focusKeyphrase: "éclairs recipe"
 date: 2025-07-21
 draft: false
 image: double-chocolate-eclairs.jpg
@@ -21,8 +21,15 @@ tags:
 - "party"
 keywords:
 - "éclairs recipe"
+- "chocolate éclairs"
 - "pastry cream"
+- "choux pastry"
+- "white chocolate filling"
+- "dark chocolate ganache"
+- "homemade éclairs"
+- "French pastry"
 - "chocolate dessert"
+- "pastry recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "330"
@@ -83,3 +90,70 @@ faq:
 - "q: What if my ganache is too thick? a: Add a touch of warm cream to loosen. Mix well until smooth. Thin ganache gives a better finish. Gently pour for perfect topping. Adjust to preference, keep the shine."
 
 ---
+
+Three layers. Dark chocolate ganache on top. White chocolate and orange pastry cream inside. Choux that puffs into these perfect little clouds. Made these for a dinner party once and watched people actually stop talking mid-sentence. They're French. They look fancy. But honestly, it's just dough, cream, chocolate. Takes 50 minutes prep, 35 minutes bake, then assembly. Total 1 hour 25 minutes and you look like you spent all day.
+
+## Why You'll Love This
+
+Takes 85 minutes total. Worth every minute. These are the chocolate dessert that makes people think you went to culinary school.
+
+They look ridiculous. Glossy dark chocolate on top. Golden pastry. Sit them on a plate and suddenly it's a party.
+
+Orange and white chocolate. Not what you expect. Keeps it from feeling heavy even though it absolutely is chocolate.
+
+Make them the morning of. Fill them two hours before. No stress. No last-minute decorating panic.
+
+## Choux Dough That Actually Puffs
+
+Water and butter. Heat until boiling. All the flour goes in at once—don't hold back. Stir hard with a wooden spoon until it clumps into a ball and pulls away from the pan sides.
+
+Back on moderate heat for 4 minutes. Stir the whole time. You're drying it out. The dough thickens. A skin forms on the bottom. That matters.
+
+Cool 5 minutes. Add eggs one tablespoon at a time. Mix completely between each addition. The dough will look like it's breaking, then it comes together. Thick. Shiny. Ready to pipe.
+
+Pipe 8 éclairs. About 3 inches long. Space them out. They're going to puff. They need room.
+
+Bake at 365°F on the middle rack for 25 to 28 minutes. Gold. Puffed. The moment they come out, pierce each one lengthwise with a knife. That releases steam inside. Four to 7 more minutes in the oven. Dries the interior. Cool on a rack.
+
+## White Chocolate Orange Pastry Cream
+
+Sugar and cornstarch whisked together off heat. Add eggs and vanilla. Combine well.
+
+Hot milk goes in slowly. Whisk constantly or you get lumps. The chocolate and orange zest go in now too. All of it gets stirred over low heat until it's thick. Takes 5 to 6 minutes. Scrape the bottom and sides constantly. This is where it sticks.
+
+Pour into a bowl. Plastic wrap touches the surface directly. No skin forms that way. Chill until it's completely cold. Don't skip this. Cold cream pipes better.
+
+## Dark Chocolate Ganache and Assembly
+
+Melt dark chocolate. Stir in espresso powder—half a teaspoon. That's it. The espresso doesn't make it taste like coffee. It deepens the chocolate. Makes it less sweet somehow.
+
+Pastry cream into a piping bag with a plain tip. Push the tip into the éclair lengthwise and squeeze gently. One squeeze usually fills it. If cream shoots out the other end, you squeezed too hard.
+
+Spoon the ganache over the top of each one. Smooth or chunky. Both work.
+
+Refrigerate until you serve them. Best within a day. After that the pastry softens. Still tastes fine. Just less structural integrity.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can you make these ahead?**
+Bake the shells a full day before. Store them in an airtight container. Make the cream the morning of. Fill everything 2-3 hours before serving. The ganache goes on right before people eat them if you're being precious about it. They'll be fine either way.
+
+**What if the choux doesn't puff?**
+Usually means the oven wasn't hot enough or you didn't dry the dough out properly in the pan. That 4-minute stir matters. Also don't open the oven door before 25 minutes. The temperature drop kills them. And pierce them immediately when they come out. Traps steam inside.
+
+**Can I use milk chocolate instead of white chocolate?**
+Works. Tastes different. Less bright. More predictable chocolate flavor. White chocolate and orange is specific. If you change it, you change the whole thing.
+
+**Why espresso powder in the dark chocolate?**
+Not totally sure. Deepens the flavor somehow. Makes dark chocolate taste more like itself. Don't skip it. Doesn't taste like coffee at all—people never guess what it is.
+
+**What's the deal with 1 3/4 eggs?**
+Just how the ratio works out. Beat your eggs in a small bowl, measure 85 grams. That's it. Don't try to make perfect eggs work. This isn't a whole egg recipe.
+
+**How do you know when the choux is done drying?**
+When it thickens and pulls away from the pan sides. A skin forms on the bottom. You'll see it. Stir the whole 4 minutes straight. Don't cut corners on this part.
+
+**Can you freeze these?**
+Bake the shells and freeze them. Thaw at room temp before filling. Cream and ganache don't freeze well. Make those fresh. The whole point is the contrast between crispy and creamy anyway.

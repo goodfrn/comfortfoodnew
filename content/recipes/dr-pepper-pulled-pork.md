@@ -1,10 +1,10 @@
 ---
-title: "Dr Pepper Pulled Pork"
+title: "Dr Pepper Pulled Pork Slow Cooker"
 slug: "dr-pepper-pulled-pork"
-description: "Slow cooker pulled pork with a Dr Pepper base, layered onions, smoky sweetness, and a spice rub with a touch of cumin. Cook low and slow for tender shredding; toss with BBQ sauce for serving on buns with coleslaw. Balanced protein, carbs, fat, and a sweet tang from soda and honey combine to create satisfying pulled pork that’s easy and forgiving."
-metaDescription: "Dr Pepper Pulled Pork slow cooked low and slow with smoky glaze, tangy BBQ sauce, tender shredded pork layers, onions, honey sweetness, and spice rub."
-ogDescription: "Slow cook pork shoulder with Dr Pepper, smoky honey-garlic glaze, dry rub, shredded and tossed in tangy BBQ sauce. Layered flavors and textures throughout."
-focusKeyphrase: "Dr Pepper Pulled Pork"
+description: "Slow cooker pulled pork made with Dr Pepper, brown sugar, and smoked paprika. Tender pork shoulder layered with onions creates juicy, shredded meat perfect for sandwiches with coleslaw."
+metaDescription: "Dr Pepper pulled pork slow cooker recipe with pork shoulder, brown sugar, and smoked paprika. Tender, easy weeknight dinner. Make it tonight."
+ogDescription: "Slow cooker pulled pork with Dr Pepper, honey, and smoky spices. Shred-apart tender meat on buns with coleslaw."
+focusKeyphrase: "Dr Pepper pulled pork"
 date: 2026-01-10
 draft: false
 image: dr-pepper-pulled-pork.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "american"
 keywords:
-- "pulled pork"
+- "Dr Pepper pulled pork"
+- "slow cooker pulled pork"
+- "pulled pork recipe"
+- "slow cooker pork shoulder"
+- "pork shoulder recipe"
+- "easy pulled pork"
 - "Dr Pepper recipe"
-- "slow cooker pork"
+- "BBQ pulled pork"
+- "crockpot pulled pork"
+- "pulled pork sandwiches"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "395"
@@ -76,3 +83,89 @@ faq:
 - "q: Best way to store leftovers? a: Use airtight container, cover pork with sauce so it doesn’t dry. Refrigerate up to 4 days, freeze if longer. Reheat low covered with splash of stock or soda; keeps moist. Microwave tends to dry and chew tough."
 
 ---
+
+Four to five pounds of pork shoulder. A can of Dr Pepper. Six and a half hours in the slow cooker and you have something that fills the kitchen with actual smoke smell even though there's no grill. The meat pulls apart like it's designed to fall off the bone. This is the kind of easy dinner that tastes like you've been tending a barbecue all day when really you just layered some stuff and walked away.
+
+## Why You'll Love This
+
+Takes 15 minutes of actual work. The slow cooker does six and a half hours of heavy lifting while you're doing something else.
+
+Tastes like proper barbecue without the whole backyard commitment. Dr Pepper adds sweetness and tang that store-bought sauces sometimes fake.
+
+Feeds a crowd or leaves enough for sandwiches tomorrow. One batch makes eight to ten servings easy.
+
+Comfort food that's genuinely simple. Pork shoulder is cheap, forgiving, almost impossible to overcook in a slow cooker.
+
+## Dr Pepper Pulled Pork with Spiced Dry Rub
+
+Yellow onion sliced thin. Just one medium one. They'll dissolve into the drippings and flavor everything.
+
+Pork shoulder. Four to five pounds. Trimmed but not obsessed about it—you want some fat for basting. Pork butt works exactly the same.
+
+One can Dr Pepper. Twelve ounces. Not diet. The sugar and carbonation matter here.
+
+Liquid smoke substitute mixed with soy sauce. A tablespoon and a teaspoon. Soy adds umami the fake smoke needs. Skip both if you hate that flavor—the pork's fine without it.
+
+Raw honey. Two tablespoons. Gets brushed on as a glaze. Brown sugar alone works but honey stays stickier.
+
+Garlic minced. Three cloves. Enough to notice. Too much turns bitter in six hours.
+
+Brown sugar packed tight into the measuring cup. A third cup. Onion powder, kosher salt, smoked paprika, cumin, black pepper. A tablespoon, two teaspoons, one teaspoon each, half a teaspoon. This is the dry rub. Toast the cumin in a dry pan first if you want it deeper—three minutes, watch it. Or skip that step and just mix it raw.
+
+Barbecue sauce. One cup. Vinegar-based. Whatever brand doesn't taste like ketchup.
+
+Hamburger buns or deli rolls. Whatever toasts decent.
+
+Coleslaw. Store-bought or homemade. Acids and crunch against the pork richness.
+
+## Building the Slow Cooker and Cooking the Pork
+
+Line the slow cooker with foil or a liner. Saves scrubbing later when the drippings caramelize onto the ceramic.
+
+Scatter the onion slices flat on the bottom. They keep the pork from sticking and flavor the liquid that pools underneath.
+
+Place the pork shoulder right on top of those onions, fat-side up if it fits that way. The fat renders as it cooks and bastes the meat automatically. You're not touching it for hours.
+
+Pour the entire can of Dr Pepper over the pork. Listen for the fizz to settle. The carbonation adds lift to the sweetness and the acid cuts through fat. This matters.
+
+Mix the liquid smoke with honey and minced garlic in a small bowl until combined. Brush this glaze across the pork's surface. Smoky layers. Don't skip this step because it feels redundant.
+
+In a separate bowl—actually, you can use the same bowl rinsed out—blend brown sugar, onion powder, kosher salt, smoked paprika, cumin, and black pepper. Adjust cumin down if you hate earthy spices. Swap in chili powder for heat if you want that instead.
+
+Sprinkle the dry rub evenly across the pork. Pat it gently so it sticks. Don't press hard. Rubs clump when you force them.
+
+Cook on high for 3 hours 45 minutes. Or low for 6 hours 15 minutes. These times flex. The pork tells you when it's done. Poke it with a fork near the end—it should shred without resistance. Strands pull cleanly. The fat looks rendered and gleaming. The smell is rich, faintly spiced, with caramel notes rising up.
+
+Either shred it right in the slow cooker or transfer it to a large tray. Use two forks or tongs. Don't rush. Look for meat pulling away from chunks in long strands.
+
+Pour the barbecue sauce over everything. Toss with tongs or a big spoon until coated evenly. The sauce adds moisture and tang. It cuts the richness. Choose a vinegar-based one.
+
+## Serving and Storing Dr Pepper Slow Cooker Pork
+
+Pile it high on toasted buns or deli rolls. Add coleslaw on the side or tucked inside. The crunch and brightness balance the pork's richness. Acid cuts acid—it works.
+
+Leftovers keep in the fridge for four days, maybe five. Refrigerate the pork submerged in a little barbecue sauce so it doesn't dry out. Reheat low and slow in the slow cooker or in a pan with a splash of stock or leftover Dr Pepper. The soda rehydrates the meat and brings back some of that caramel sweetness.
+
+You can also freeze it. Shredded and sauced, in a container. Three months is fine. Thaw in the fridge overnight before reheating.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use a regular oven instead of a slow cooker?**
+Yeah. Dutch oven at 300 degrees. Same time as slow cooker low—about 6 hours and 15 minutes. Check at five hours. Less convenient than slow cooker because you actually have to monitor it, but it works.
+
+**What if I don't have Dr Pepper?**
+Use cola. Or root beer. The point is carbonation plus sugar. Coke works fine. Doesn't taste exactly the same but it's close enough.
+
+**Can I make this on high heat faster?**
+High for 3 hours 45 minutes. That's the faster route. The slow cooker pork gets done either way—time just matters less. Low takes longer but the texture's sometimes better. Less chance of drying out.
+
+**How do I know when the pork is actually done?**
+Fork test. Poke it. Meat should shred without fighting back. If you can pull a chunk cleanly it's done. If it's still resisting, give it another 30 minutes and check again.
+
+**Is liquid smoke substitute necessary?**
+No. The Dr Pepper and spices give enough flavor on their own. Liquid smoke just adds depth. Skip it if you hate that flavor.
+
+**What kind of coleslaw works best with this?**
+Creamy coleslaw gets too heavy. Vinegar-based slaw is better. The acid balances the pork. Store-bought or homemade. Doesn't matter as long as it has vinegar in it.

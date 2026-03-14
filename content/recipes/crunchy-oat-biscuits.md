@@ -1,10 +1,10 @@
 ---
-title: "Crunchy Oat Biscuits"
+title: "Crunchy Oat Biscuits with Maple Syrup"
 slug: "crunchy-oat-biscuits"
-description: "A crunchy take on oat biscuits using a blend of all-purpose and whole wheat flour. Substitutes maple syrup for sugar and coconut oil for butter to add a subtle earthiness and healthier fats. Flavored with cinnamon instead of vanilla; that warm spice aroma fills the kitchen early on. Batter thick but scoopable, bakes at 190°C for a golden crisp edge while retaining chew inside. Simple ingredients, method rearranged for efficient workflow. Watch the edges brown for perfect timing, not just the clock. Tips on handling sticky dough and what to do if biscuits spread too much or stay doughy inside."
-metaDescription: "Crunchy oat biscuits with a mix of all-purpose and whole wheat flour. Maple syrup sweetens, cinnamon spices, baked to golden edges with chewy centers. Dairy-free option."
-ogDescription: "Crunchy oat biscuits made with maple syrup and coconut oil. Cinnamon adds warm spice. Watch for golden brown edges, chewy inside, skip vanilla for aroma twist."
-focusKeyphrase: "crunchy oat biscuits"
+description: "Crunchy oat biscuits made with whole wheat flour, coconut oil, and maple syrup. Warm cinnamon spice and quick-cooking oats create crispy edges with chewy centers. Bake at 190°C."
+metaDescription: "Crunchy oat biscuits sweetened with maple syrup and coconut oil. Whole wheat flour, oats, and cinnamon make these golden biscuits irresistible. Try it tonight."
+ogDescription: "Golden crunchy oat biscuits with maple syrup, whole wheat flour, and cinnamon. Crispy edges, chewy centers."
+focusKeyphrase: "oat biscuits"
 date: 2025-08-19
 draft: false
 image: crunchy-oat-biscuits.jpg
@@ -24,6 +24,9 @@ keywords:
 - "oat biscuits"
 - "maple syrup baking"
 - "cinnamon cookies"
+- "whole wheat flour biscuits"
+- "coconut oil biscuits"
+- "homemade oat cookies"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "140"
@@ -64,3 +67,61 @@ faq:
 - "q: Can I substitute almond milk with cow milk? a: Yes but note fat difference slightly changes mouthfeel. Dairy milk adds richness; plant milk keeps things lighter, dairy-free. Adjust oil or syrup to balance fat. Butter swap for coconut oil shifts flavors, richer notes; melt and cool before mixing."
 
 ---
+
+Came home with a bag of oats and nothing else to do with them. These just happened. Took 38 minutes total and made the kitchen smell like a cinnamon roll factory. Now they're in a tin and somehow lasting longer than expected.
+
+## Why You'll Love This
+
+Takes 20 minutes to prep, 18 in the oven. That's it. Homemade means you know what's in them—no weird stuff, just oats and maple syrup. Works as a snack straight from the tin or dunked in coffee. Vegetarian, naturally. Cinnamon and coconut make them taste like you actually care.
+
+## What You Need for Crispy Oat Biscuits
+
+All-purpose flour and whole wheat. Mix them. Quick-cooking oats—the regular kind, not steel-cut. Baking powder. Fine sea salt. Ground cinnamon. Not the pre-mixed stuff. Real cinnamon tastes different. Coconut oil. Melted. Cold oil doesn't mix right. Pure maple syrup. Not the fake pancake syrup. Actually tastes like something. Almond milk or whatever plant milk you have. Cow's milk works too. The ratio matters but not like, precision-measurement matters.
+
+## How to Bake Cinnamon Oat Biscuits
+
+Center oven rack. Heat to 190°C. Line two sheets with parchment. Not foil. Parchment.
+
+Whisk the flours together with oats, baking powder, cinnamon, salt in a medium bowl. Takes two minutes. You want it mixed so the cinnamon doesn't clump in one corner. This step actually matters. People skip it and then one biscuit tastes like a cinnamon stick.
+
+Separate bowl. Combine the melted coconut oil and maple syrup until glossy. Then add almond milk slowly. You're looking for something thick enough to hold a scoop but not dry. Too runny and your biscuits spread into hockey pucks. Too thick and they crack when they bake. Feel it out. You'll know.
+
+Pour the wet into the dry. Fold gently. A wooden spoon works. Don't overmix. Stop when you can't see streaks of dry flour anymore. The dough will be sticky. That's right.
+
+Scoop about 2 tablespoons onto the sheets. Space them 6 centimeters apart at least. They spread. Not tons, but enough that crowding them means soft edges instead of crispy ones.
+
+Bake the first sheet on the bottom rack. 18 minutes. Watch the edges—they'll go golden first. That's your signal. Once the edges are golden brown and the biscuit feels firm when you touch it (careful, it's hot), it's done. Not hard. Firm. There's a difference.
+
+Pull them out. Leave them on the hot sheet for 5 minutes. They keep setting. Then move them to a wire rack. They need air underneath or they steam from the hot sheet and lose the crunch. That's the biggest mistake—leaving them too long on the baking sheet. Ruins the whole thing.
+
+## Common Mistakes and How to Fix Them
+
+Overmixing the dough is the first one. You think you're being careful but then the biscuits come out dense. They're supposed to be crumbly. Light. Stop mixing once the streaks are gone. Actually—stop before then if you can. Undermixed dough that holds together is better than overmixed dough that's smooth.
+
+Using cold coconut oil is the second. It won't mix evenly. Melt it. Pour it warm into the maple syrup. If your coconut oil is solid when you're working, the biscuits get weird pockets where the oil is.
+
+Not spacing them apart. They spread. The edges get chewy and soft. Six centimeters is real. Measure it the first time if you have to.
+
+Leaving them on the hot sheet too long. Five minutes. That's the window. Any longer and condensation makes them steam. They soften. You lose the crunch that makes them good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make these ahead?**
+Bake them fully. Store them in an airtight tin. They stay crunchy for about four days. Longer than that and they go soft even sealed up. Just is how it works.
+
+**What if I don't have almond milk?**
+Coconut milk. Oat milk. Regular milk. Any of it works. The ratio stays the same. You need something to thin out the maple syrup so it's workable.
+
+**Can I use old-fashioned rolled oats instead of quick-cooking?**
+They're bigger. Texture changes. More chewy, less crumbly. Not worse, just different. Try it if you want.
+
+**Why does the cinnamon sometimes taste stronger in some biscuits?**
+You need to whisk it into the dry ingredients. Five seconds of stirring isn't enough. Two minutes of mixing so it's actually distributed. If you skip that, it clumps.
+
+**Does maple syrup baking work with honey instead?**
+Honey's thinner. You'd need less liquid. Changes the flavor too. Maple syrup is specific here. Not worth substituting unless you have to.
+
+**Should I use parchment paper or something else?**
+Parchment. Foil sticks sometimes. Greasing the sheet works but parchment is easier. You're not cleaning anything afterward either.

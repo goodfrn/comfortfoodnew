@@ -1,0 +1,26 @@
+{
+  "slug": "crispy-fried-spring-rolls",
+  "title": "Crispy Fried Spring Rolls",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "spring roll wrappers",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fried spring rolls",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "deep-fried appetizer",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

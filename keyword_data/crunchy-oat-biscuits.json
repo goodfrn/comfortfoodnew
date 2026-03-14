@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-oat-biscuits",
+  "title": "Crunchy Oat Biscuits",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "oat biscuits",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "maple syrup baking",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "cinnamon cookies",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

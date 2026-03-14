@@ -1,10 +1,10 @@
 ---
-title: "Cucumber Feta Avocado Shake Salad"
+title: "Cucumber Feta Avocado Salad Recipe"
 slug: "cucumber-feta-avocado-salad"
-description: "A light, textured salad with crunchy cucumber ribbons and creamy avocado, quickly tossed with fragrant herbs and tangy dressing. Uses thin cucumber slices from a mandoline, diced ripe avocado, crumbled feta cheese, and fresh dill, finished with lemon juice, olive oil, and a touch of heat from hot sauce. Simple, fast, refreshing, with hints of oregano for deeper aroma. Perfect for quick meals when freshness and layering flavors matter. Adaptable with other herbs and proteins."
-metaDescription: "Cucumber Feta Avocado Shake Salad; crunchy ribbons meet creamy avocado, feta crumbles; a quick Mediterranean salad with fresh dill, oregano, and lime juice."
-ogDescription: "Crunchy cucumber ribbons, creamy avocado, crumbled feta tossed with dill, oregano, and lime juice. Shake and serve a quick, textured Mediterranean salad."
-focusKeyphrase: "Cucumber Feta Avocado Salad"
+description: "Light cucumber feta avocado salad with fresh dill, lime juice, and olive oil. Crisp, creamy, and tangy—ready in minutes for a refreshing side dish."
+metaDescription: "Cucumber feta avocado salad with fresh dill, lime, and oregano. Quick, light, and bursting with flavor. Make it tonight."
+ogDescription: "Fresh cucumber, creamy avocado, and tangy feta tossed with dill and lime. Light, crisp, and ready in minutes."
+focusKeyphrase: "cucumber feta avocado salad"
 date: 2025-08-09
 draft: false
 image: cucumber-feta-avocado-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "avocado"
 - "cucumber"
 keywords:
+- "cucumber feta avocado salad"
 - "cucumber salad"
-- "feta cheese"
 - "avocado salad"
+- "feta cheese salad"
+- "fresh dill salad"
+- "lime dressing salad"
+- "quick salad recipe"
+- "light salad"
+- "healthy salad"
+- "cold salad"
+- "vegetable salad"
+- "Mediterranean salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "160"
@@ -69,3 +78,83 @@ faq:
 - "q: How to store leftovers? a: Cover tight, fridge only. Avoid warmth that makes avocado mushy. Some liquid will settle, pour off before serving. Avoid shaking much after sitting, changes texture. Eat promptly next day."
 
 ---
+
+Three pounds of cucumbers sitting around. No idea what to do with them. Grabbed an avocado. Started shaking things in a container. This is what happened.
+
+Cucumber salad done different. You don't plate it — you shake it. The mandoline does the work, slicing cucumber thin enough to see through. Everything tumbles together with lime and oil and feta until the dressing coats every piece. Ten minutes start to finish. No chopping board covered in scraps. No standing there tossing with tongs. Just seal it up and shake.
+
+## Why You'll Love This
+
+Takes 10 minutes. Done. No cooking required.
+
+The salad part vegetarian and the feta makes it creamy without any mayo or ranch. Feels heavier than it is.
+
+Shake it in the container it lives in. That's your bowl. That's your serving dish. One thing to wash.
+
+Works for lunch boxes. Works as a side for literally anything. Works cold straight from the fridge at midnight.
+
+## What You Need for This Cucumber Salad
+
+One English cucumber. The long thin kind, not the bulky ones. Mandoline gets it thin enough to bend. If you don't have a mandoline, use your sharpest knife and don't rush.
+
+Red onion sliced thin. Not paper-thin. You want crunch. A quarter onion is enough — more and it's too aggressive.
+
+Ripe avocado. One third of one. Dice it. Lime juice goes on immediately or it browns and tastes like regret.
+
+Feta cheese. Crumbled rough. Don't go smooth. You want chunks that break down when you shake but don't disappear.
+
+Olive oil. About 1.5 tablespoons. Not extra virgin. Regular olive oil. The fancy stuff burns in your throat sometimes.
+
+Fresh dill and dried oregano. Dill is the main player. Oregano is a whisper. Start small with the oregano — it gets bitter fast if you overdo it.
+
+Hot sauce optional. Green sauce if you want brightness. Red if you want heat. Or skip it and sprinkle cayenne into the oil before you shake.
+
+## How to Shake This Together
+
+Set the mandoline to 2.5 millimeters or thinner. Get a wide container with a tight lid — something you can actually seal and shake without things exploding everywhere.
+
+Slice the cucumber. Watch the juice. It pools fast and you want to keep it. The ribbons should bend without breaking. Translucent means you got it right. Add them to the container as you go.
+
+Slice the red onion. Drop it in. Then the diced avocado. Squeeze the lime over the avocado right away. Toss in the crumbled feta. Everything just sits there loose at this point.
+
+Pour the olive oil over top. Sprinkle the dill — be generous. The oregano gets a light hand. Start with less than you think you need. Hot sauce now if you're using it, though you can add it after and taste first.
+
+Seal the lid tight. This matters. Shake it hard for about 20 seconds. You're listening for liquid swishing around. You're watching for the feta to start breaking down into smaller pieces. The dressing coats everything. The cucumber softens just slightly from the salt in the cheese. This is the whole point.
+
+Open it. Taste it. If the onion still feels too raw and sharp, let it sit 3 to 5 minutes covered or shake it again. The lime and salt soften the pungency fast.
+
+Serve immediately. Don't wait. Avocado doesn't improve with time and the cucumber gets softer by the minute once it's dressed.
+
+## Mistakes and How to Fix Them
+
+Too much oregano tastes like you're eating a kitchen sponge. Start with half a teaspoon. You can always add more. Once it's in, it's staying.
+
+Avocado browning happens if you don't hit it with lime juice the second it goes in the container. Browning doesn't ruin it but it tastes oxidized. Flat. Get the lime on there.
+
+Watery salad means you salted too early or used too much feta. Feta releases moisture. Salt draws it out. The cucumber is already mostly water. Add salt at the very end if you need it. Sometimes you don't.
+
+No mandoline? The sharpest knife you own works fine. Steady hands. Take your time. Uneven slices actually add texture. Irregular thickness means some pieces are crispy and some are softer.
+
+Onion too pungent means don't skip the lime. Don't skip sitting it 5 minutes covered. The acid tames it. Also, red onion matters. White onion is sharper. Yellow is weird. Stick with red.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this ahead?**
+Not really. The avocado goes brown. The cucumber gets mushy. Make it right before you eat it. Takes 10 minutes. Just do it then.
+
+**What's the best hot sauce for this?**
+Something bright and vinegary. Not thick and chunky. Cholula works. Frank's works. Green sauce adds different vibe — more herby, less heat. Whatever you like on eggs or tacos.
+
+**Can I use regular cucumber instead of English?**
+English cucumber has fewer seeds. Regular ones are wetter. You'll get more liquid in the bottom. Not a disaster. Drain some if it bothers you.
+
+**How long does this keep?**
+Eat it same day. The cucumber softens by the next morning. The avocado oxidizes. It's not toxic but it's sad. Make fresh.
+
+**Can I substitute the feta?**
+Goat cheese works and it's creamier. Halloumi chunks if you want something that won't dissolve. Ricotta salata if you have it. Feta just works best with the lime and oregano though.
+
+**Do I actually need a mandoline?**
+No. A sharp knife and patience. Mandoline is faster and thinner. If you have one, use it. If you don't, your knife is fine.

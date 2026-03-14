@@ -1,10 +1,10 @@
 ---
-title: "Egg & Eggplant Pita"
+title: "Egg & Eggplant Pita Sandwich"
 slug: "egg-eggplant-pita"
-description: "A Mediterranean-inspired sandwich stacking crispy fried eggplant slices with hard-boiled egg, fresh veggie salsa, tahini sauce, and a tangy mango chutney twist inside thick pita pockets. Layers of texture and freshness with an earthy bite from aubergine. Easy for quick lunches or casual dinners. Works vegetarian and dairy-free if you skip the traditional sauces in favor of coconut yogurt-based tahini. "
-metaDescription: "Egg & Eggplant Pita stacks crispy fried eggplant, hard-boiled eggs, fresh veggie salsa, tahini and mango chutney in thick pita pockets for a textured Mediterranean meal."
-ogDescription: "Crunchy fried eggplant slices, creamy boiled eggs, fresh salsa, tahini, and tangy mango chutney layered in sturdy pita pockets. Quick, layered, and filling."
-focusKeyphrase: "Egg and eggplant pita"
+description: "Crispy fried eggplant sandwich with hard-boiled eggs, fresh tomato cucumber salsa, tahini sauce, and mango chutney in pita pockets. Mediterranean flavors, quick to make."
+metaDescription: "Egg & eggplant pita with fried aubergine, hard-boiled eggs, fresh tomato salsa, tahini sauce, and mango chutney. Make it tonight."
+ogDescription: "Crispy fried eggplant meets hard-boiled eggs, fresh veggies, tahini sauce, and tangy mango chutney in warm pita pockets."
+focusKeyphrase: "eggplant sandwich"
 date: 2025-08-06
 draft: false
 image: egg-eggplant-pita.jpg
@@ -66,3 +66,89 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly, keep fridge cold — pita separate if possible so it won’t get limp. Reheat pita in toaster or oven to crisp up; warm eggplant quickly in pan not microwave. Salsa best fresh but lasts a day or two. Sauce can be kept separate. Don’t assemble until ready to eat for best texture."
 
 ---
+
+Shallow fry eggplant. Stuff it in pita with eggs and that mango chutney thing. Sounds weird. It works.
+
+Had leftover hard-boiled eggs and a massive eggplant taking up space. Pita was there. This happened by accident, and now I make it on purpose.
+
+## Why You'll Love This
+
+Takes 38 minutes total. No yeast. No waiting. Dinner on the table before you're actually hungry.
+
+Vegetarian but doesn't taste like you're missing meat. The fried eggplant has weight. The eggs add protein and creaminess.
+
+One sandwich feels like a whole meal. Eggplant gets crispy outside, soft inside. Tahini keeps it from falling apart.
+
+Mediterranean flavors but nothing fancy. Lemon, cilantro, cucumber. Things that actually belong together.
+
+## What You Need for This Eggplant Pita
+
+One medium eggplant. Slice it about a quarter-inch thick. Ten slices total. Vegetable oil in a shallow pan — you're shallow frying, not deep frying. Don't waste a cup of oil.
+
+Hard-boiled eggs. Four of them. Sliced thin. Cold is fine. Room temperature is better.
+
+Pita bread. Thick ones. Thin pitas tear when you open them. Four pitas halved makes four sandwiches.
+
+Tahini sauce or hummus. Store-bought works. Homemade too. It's the moisture barrier. Keeps bread from getting soggy from the salsa.
+
+Mango chutney or a tangy pickle sauce. Mango chutney is easier to find. A zingy preserved lemon paste works if you have it. Pickled jalapeños in a pinch. The point is sharp and slightly sweet.
+
+Tomato. Cucumber. Red onion. Cilantro. Fresh lemon juice. Salt. Pepper. This becomes the salsa component. Diced small. Tossed together with the acid.
+
+## The Frying and Assembly
+
+Heat oil to about 1 cm depth. Medium-high heat. Drop a slice of eggplant in. Listen for the sizzle. Not a violent roar. A gentle, inviting sizzle.
+
+Fry in batches. Don't crowd the pan. Watch for golden crust. The inside should wobble slightly under your finger — still soft but not mushy. Raw eggplant is spongy and resistant. Overcooked eggplant is mush and grease. That wobble is the middle.
+
+Remove to paper towels. Salt and pepper immediately. Do this right off the pan while they're still hot. Seasoning sticks better. Flavors penetrate.
+
+While eggplant is frying, make the salsa. Tomato, cucumber, onion, cilantro, lemon juice in a bowl. Toss. Add salt and pepper. Let it sit. The juice releases. Flavors marry. Acidity cuts through the fried richness coming.
+
+Open pitas gently. Pry the edge. Don't tear into it like you're angry. You need a pocket that holds things.
+
+Slather inside with tahini or hummus. This is crucial. It's not garnish. It's infrastructure. Stops the warm eggplant from making bread soggy.
+
+Layer fried eggplant inside. Spread evenly. You want some in each bite, not all eggplant in one section and empty pita at the end.
+
+Lay sliced eggs on top of eggplant. The creamy yolk is important here. It's soft against the crispy eggplant. It's rich. It needs the acidity coming next.
+
+Spoon mango chutney over everything. Tangy. Slightly sweet. Odd combination on paper. Brilliant in your mouth. The chutney adds a kick that makes every bite different.
+
+Serve right away. Or wrap tight for lunch tomorrow. If you're reheating, toast the pita separately. Warm the eggplant briefly. Don't microwave the whole thing. Bread turns into a sponge.
+
+## Common Mistakes and How to Fix Them
+
+Oil temperature kills half the eggplant sandwiches made. Too hot and the outside burns before the inside cooks. Slice through it and it's white and firm. Too cool and slices absorb oil like a sponge. They come out greasy and limp. The aroma tells you when you're close — smoky, nutty, inviting. Trust your nose more than a thermometer.
+
+Pita choice matters more than people think. Stale bread falls apart. Thin bread has no pocket. Thick pitas hold everything. Find the good ones. Usually by the hummus at the grocery store.
+
+Eggplant thickness. A quarter-inch is the target. Thinner and it fries unevenly. Thicker and the inside stays raw while edges char. A sharp knife helps. Cut straight down. Don't saw.
+
+Not opening pita gently enough. You want a pocket, not a tear. Gently. Seriously.
+
+If no eggplant, zucchini works. Fries faster though. Less absorbent. You'll need to watch timing. Five minutes instead of seven or eight.
+
+If no mango chutney, preserved lemon paste, pickled jalapeño sauce, even hot sauce works. The function is the same — sharp, slightly sweet or spicy, acid-forward.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I make this ahead?**
+Not really. Fry the eggplant the same day. Prep the salsa hours before if you want. But the pita gets soggy fast. Assemble right before eating. Or wrap tight and eat within a couple hours.
+
+**What if I don't have hard-boiled eggs ready?**
+Boil them while the eggplant fries. Bring water to a boil. Add eggs. Set a timer for 10 minutes. Dunks them in ice water. Peel and slice. You'll be fine on time.
+
+**How do I know when the eggplant is done frying?**
+That wobble. Press it gently with your finger or a spatula. If it's firm, it's not ready. If it collapses, it's overdone. That slight give — like a sponge that's been wrung out but not completely — that's right.
+
+**Can I use a different sauce instead of tahini?**
+Sure. Hummus is already an option. Greek yogurt works. Mayo works. Anything creamy and flavorful. The point is stopping the bread from getting soggy. Tahini has the best flavor for this specific sandwich though.
+
+**Is Mediterranean pita supposed to have eggplant?**
+Not always. But eggplant and Mediterranean belong together. It's from that region. Fried eggplant is common. So is tahini. This combination makes sense.
+
+**What's the salsa actually doing?**
+Brightness. Acidity. Freshness. The fried eggplant is heavy and rich. The mango chutney is sweet and tangy. This salsa in the middle brings actual vegetables and sharp lemon. It balances. Without it, the sandwich is one-note rich.

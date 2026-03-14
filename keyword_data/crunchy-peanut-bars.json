@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-peanut-bars",
+  "title": "Crunchy Peanut Bars",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "peanut butter",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "corn flakes",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "marshmallows",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

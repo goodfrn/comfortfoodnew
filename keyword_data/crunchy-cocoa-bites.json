@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-cocoa-bites",
+  "title": "Crunchy Cocoa Bites",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate cereal bites",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "gluten free snack",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "hazelnut chocolate balls",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}

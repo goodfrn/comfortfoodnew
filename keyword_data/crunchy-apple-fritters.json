@@ -1,0 +1,26 @@
+{
+  "slug": "crunchy-apple-fritters",
+  "title": "Crunchy Apple Fritters",
+  "seed_keywords": [],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "apple fritters",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "fried apple dough",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "cinnamon sugar fritters",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}
