@@ -1,0 +1,107 @@
+{
+  "slug": "crisp-cucumber-onion-salad",
+  "title": "Crisp Cucumber Onion Salad",
+  "seed_keywords": [
+    "crisp cucumber onion salad",
+    "cucumber red onion salad",
+    "vinegar brined cucumber salad",
+    "cider vinegar cucumber side dish",
+    "sliced cucumber salad with shallot"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cucumber red onion salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and red onion salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber red onion and tomato salad",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber red onion tomato salad",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "salad with red onions tomatoes cucumbers",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumbers and onions recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber tomato onion vinegar salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber red onion salad recipe",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "pickled cucumber and red onion",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "cucumber and red onion",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "cucumber and red onion salad with dill",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber feta red onion salad",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber red onion dill salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber tomato red onion salad recipe",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for cucumber tomato and red onion salad",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "avocado cucumber red onion salad",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber tomato and onion salad with balsamic vinegar",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "quick pickled red onions and cucumbers",
+        "volume": 140,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}
