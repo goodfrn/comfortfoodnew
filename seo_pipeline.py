@@ -236,10 +236,12 @@ Answer here.
 
 ── ANTI-DETECTION RULES FOR FAQ ────────────────────────────────────────────
 
-FAQ TOPIC RULE — CRITICAL:
-ALL questions must be about THIS specific recipe only.
-NEVER ask about other recipes (e.g. corn dogs when the recipe is corn on the cob).
-Questions must come from the keyword list or from real cooking concerns about this dish.
+FAQ TOPIC RULE — ABSOLUTE:
+Every single FAQ question must be answerable using ONLY the ingredients and instructions of THIS recipe.
+If answering the question requires knowledge of another recipe (hash browns, burgers, pizza, corn dogs, chips...) → DELETE IT and replace with a question about this recipe.
+Allowed topics: timing, substitutions, storage, texture, doneness cues, equipment, seasoning, serving — all for THIS recipe only.
+Questions must come from the keyword list or from real cooking concerns about this specific dish.
+Zero tolerance for off-topic questions.
 
 FAQ answers must be WILDLY irregular:
 - Some answers = 1 sentence. "Just use less. That's it."
@@ -550,6 +552,31 @@ def generate_body(client, title, yaml_content, unused_keywords):
     tags_list         = get_list_field(yaml_content, "tags")
     tags_str          = ", ".join(tags_list)
 
+    # Récupère les temps exacts du YAML
+    prep_time  = get_field(yaml_content, "prepTime")
+    cook_time  = get_field(yaml_content, "cookTime")
+    total_time = get_field(yaml_content, "totalTime")
+
+    def fmt_time(t):
+        """Convertit PT20M en '20 min', PT1H30M en '1h 30 min' etc."""
+        import re as _re
+        t = t.strip()
+        h = _re.search(r'(\d+)H', t)
+        m = _re.search(r'(\d+)M', t)
+        hours = int(h.group(1)) if h else 0
+        mins  = int(m.group(1)) if m else 0
+        if hours and mins:
+            return f"{hours}h {mins} min"
+        elif hours:
+            return f"{hours}h"
+        elif mins:
+            return f"{mins} min"
+        return t
+
+    prep_str  = fmt_time(prep_time)  if prep_time  else "unknown"
+    cook_str  = fmt_time(cook_time)  if cook_time  else "unknown"
+    total_str = fmt_time(total_time) if total_time else "unknown"
+
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=3000,
@@ -558,6 +585,8 @@ def generate_body(client, title, yaml_content, unused_keywords):
             "role": "user",
             "content": (
                 f"Recipe: {title}\n\n"
+                f"EXACT TIMES — use these when mentioning duration, never invent times:\n"
+                f"Prep: {prep_str} | Cook: {cook_str} | Total: {total_str}\n\n"
                 f"Tags (use as intent modifiers throughout, especially in Why You'll Love This):\n{tags_str}\n\n"
                 f"Ingredients:\n{ingredients_text}\n\n"
                 f"Instructions:\n{instructions_text}\n\n"
