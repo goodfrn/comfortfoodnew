@@ -1,0 +1,267 @@
+{
+  "slug": "crispy-air-fryer-corn",
+  "title": "Crispy Air Fryer Corn",
+  "seed_keywords": [
+    "air fryer corn on the cob",
+    "crispy corn air fryer",
+    "vegetarian air fryer side dish",
+    "frozen corn air fryer",
+    "buttered air fryer corn"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "air fryer corn on the cob",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "corn on the cob in airfryer",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "corn on the cob in an air fryer",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "corn on the cob air fryer",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "air fried corn on the cob",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "air fryer corn dog",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "corn dogs in air fryer",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer corn",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "corn airfryer",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "corn in airfryer",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "air frying frozen corn dogs",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "frozen corn dog air fryer",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "frozen corn dog in air fryer",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "corn in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry corn on the cob recipe",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer recipes corn on the cob",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "corn on the cob in air fryer",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "corn on cob in air fryer",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "air fry frozen corn dog",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "fried corn cob",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "corn on the cob in the air fryer",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "frozen hot dogs in air fryer",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "corn air fryer",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry corn on cob",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "air fryer for corn on the cob",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "corn in the air fryer",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "air fry frozen hot dog",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet corn in air fryer",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "corn on cob air fryer",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry sweet corn",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "pogos in air fryer",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "air fried corn",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "air fried corn dogs",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry corn dog frozen",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "corn cob air fryer",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "frozen corn on the cob air fryer",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "roast corn in air fryer",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry corn cob",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer frozen corn on the cob",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy corn in airfryer",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry corn on the cob in husk",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer corn on the cob in husk",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cook corn in air fryer",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "cooking corn in air fryer",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "corn cob in air fryer",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "corn on the cob air fryer recipe",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "corn on the cob air fryer recipes",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "foster farms corn dog air fryer",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "frozen corn dogs in the air fryer",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet corn air fryer",
+        "volume": 590,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}
