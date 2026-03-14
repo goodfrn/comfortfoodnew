@@ -757,49 +757,52 @@ def main():
             print(f"  keywords : already fetched ({len(kw_data['all'])})")
 
         else:
-            # Vérifie si keywords déjà dans le YAML (ancien système)
-            yaml_kw_list = get_list_field(yaml_content, "keywords")
-            if len(yaml_kw_list) >= 3:
-                print(f"  keywords : using {len(yaml_kw_list)} from YAML (no DFS)")
-                kw_data = {"all": [{"keyword": kw, "volume": 0, "competition": 0} for kw in yaml_kw_list]}
-                save_state(slug, title, [], kw_data)
-
+            if state and len(state.get("keywords", {}).get("all", [])) > 0:
+                print(f"  keywords : only {len(state['keywords']['all'])} found — refetching...")
             else:
-                # Fetch DFS
-                if state and len(state.get("keywords", {}).get("all", [])) > 0:
-                    print(f"  keywords : only {len(state['keywords']['all'])} found — refetching...")
-                else:
-                    print(f"  keywords : fetching...")
+                print(f"  keywords : fetching...")
 
-                seeds = get_seeds(client, title, description, tags)
-                print(f"  seeds    : {seeds}")
+            seeds = get_seeds(client, title, description, tags)
+            print(f"  seeds    : {seeds}")
 
-                if not seeds:
-                    print(f"  ERROR    : no seeds")
-                    stats["errors"] += 1
-                    continue
+            if not seeds:
+                print(f"  ERROR    : no seeds")
+                stats["errors"] += 1
+                continue
 
-                kw_data = fetch_dfs_keywords(seeds)
-                if kw_data is None:
-                    print(f"  ERROR    : DFS API failed")
-                    stats["errors"] += 1
-                    continue
+            kw_data = fetch_dfs_keywords(seeds)
+            if kw_data is None:
+                print(f"  ERROR    : DFS API failed")
+                stats["errors"] += 1
+                continue
 
+            save_state(slug, title, seeds, kw_data)
+
+            kw_count = len(kw_data["all"])
+            if kw_count == 0:
+                # Zero DFS → Haiku génère tout
+                print(f"  LOW SEO  : 0 from DFS — generating with Haiku")
+                kw_data = generate_keywords_from_title(client, title, yaml_content)
                 save_state(slug, title, seeds, kw_data)
-
-                kw_count = len(kw_data["all"])
-                if kw_count < 3:
-                    # LOW SEO → génère keywords depuis Haiku, continue quand même
-                    print(f"  LOW SEO  : only {kw_count} from DFS → generating with Haiku (no DFS)")
-                    kw_data = generate_keywords_from_title(client, title, yaml_content)
-                    save_state(slug, title, seeds, kw_data)
-                    save_low_keyword(slug, title)
-                    stats["low_kw"] += 1
-                    # NE PAS skip — continue vers SEO et content
-                else:
-                    top = kw_data["all"][0]
-                    print(f"  keywords : {kw_count} | top: '{top['keyword']}' ({top['volume']}/mo)")
-                    time.sleep(4)
+                save_low_keyword(slug, title)
+                stats["low_kw"] += 1
+            elif kw_count < 3:
+                # 1-2 DFS → garde + complète avec Haiku
+                print(f"  LOW SEO  : only {kw_count} from DFS — completing with Haiku")
+                haiku_kw = generate_keywords_from_title(client, title, yaml_content)
+                # Combine DFS + Haiku, DFS en premier
+                combined = kw_data["all"] + [
+                    k for k in haiku_kw["all"]
+                    if k["keyword"] not in [x["keyword"] for x in kw_data["all"]]
+                ]
+                kw_data = {"all": combined[:8]}
+                save_state(slug, title, seeds, kw_data)
+                save_low_keyword(slug, title)
+                stats["low_kw"] += 1
+            else:
+                top = kw_data["all"][0]
+                print(f"  keywords : {kw_count} | top: '{top['keyword']}' ({top['volume']}/mo)")
+                time.sleep(4)
 
         # Recharge state après fetch
         state = load_state(slug) or {}
