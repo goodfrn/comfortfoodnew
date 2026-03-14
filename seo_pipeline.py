@@ -751,10 +751,8 @@ def main():
         state    = load_state(slug)
         kw_valid = state and len(state.get("keywords", {}).get("all", [])) >= 3
 
-        if kw_valid:
-            # JSON existant avec 3+ keywords → on prend
-            kw_data = state["keywords"]
-            print(f"  keywords : already fetched ({len(kw_data['all'])})")
+        if False:
+            pass
 
         else:
             if state and len(state.get("keywords", {}).get("all", [])) > 0:
