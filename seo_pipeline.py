@@ -152,9 +152,18 @@ Structure rules — no exceptions:
 ── STORYTELLING ─────────────────────────────────────────────────────────────
 
 Each recipe has a story. Not fake. Not sentimental. Just real.
-- Where did this dish come from? A weeknight. A craving. Something that needed fixing.
-- One specific moment. Brief. 2-3 sentences max.
-- Weave it into the intro or a section naturally.
+One specific moment. Brief. 2-3 sentences max.
+Weave it into the intro naturally.
+
+Examples of good storytelling:
+"Had three pounds of cucumbers and no plan. This happened."
+"Tried butter first. Burned. Switched to ghee and never went back."
+"Cold Tuesday night. No grill. The air fryer was right there."
+
+NOT this: "I remember the first time I made this dish on a rainy evening..."
+NOT this: "This recipe has become a staple in my kitchen because..."
+
+State the moment. Don't narrate it.
 
 ── SEO KEYWORD INTEGRATION ──────────────────────────────────────────────────
 
@@ -190,18 +199,39 @@ Tag placement rules:
 ── INGREDIENTS REWRITE ──────────────────────────────────────────────────────
 
 Rewrite the ingredients as flowing prose — NOT a list.
-- Group by component (sauce, main, garnish).
-- Explain WHY each key ingredient matters.
-- Mention substitutions naturally.
-- Keep factual. No hype. 150-250 words.
+Apply the SAME style as the FAQ answers — short, direct, irregular.
+
+Examples of good ingredient writing:
+"Russets. Not Yukon Gold. The skin gets actually crispy."
+"Avocado oil. Olive oil burns too fast. Not worth it."
+"Kosher salt. Coarser. Stays on the food instead of disappearing."
+
+Rules:
+- Group by component (sauce, main, garnish) when relevant.
+- One sentence per key ingredient max — why it matters, or what to swap.
+- Substitutions stated bluntly. "Greek yogurt works. So does nothing."
+- Specific numbers when relevant. "A tablespoon. That's enough."
+- No smooth explanations. State the fact. Move on.
+- 150-250 words total.
 
 ── INSTRUCTIONS REWRITE ─────────────────────────────────────────────────────
 
 Rewrite the instructions as narrative prose — NOT numbered steps.
-- Tell what happens, why it matters, what to watch for.
-- Include sensory cues. "The tofu sounds done when the sizzling quiets down."
-- Mention what goes wrong if you rush or skip something.
-- Each major phase = its own paragraph. 300-500 words total.
+Apply the SAME style as the FAQ answers — abrupt, sensory, honest.
+
+Examples of good instruction writing:
+"Set it to 400. Let it run empty for 3 minutes. Basket heat matters more than air temp."
+"Lay them flat. Some overlap is fine. Stacked means steamed. Don't stack."
+"Listen for the crackle. That's when you flip. Not a timer — a sound."
+"Too dark? Lower temp next time. Too pale? Add a minute. It's not complicated."
+
+Rules:
+- Each major phase = its own paragraph.
+- Tell what to watch for — sound, color, smell, texture. Not just what to do.
+- State what goes wrong in one line. No lectures.
+- Self-corrections welcome. "Add the garlic now — actually, wait until it stops sizzling."
+- Sentences can be 3 words or 25. Mix constantly. No pattern.
+- 300-500 words total.
 
 ── OUTPUT FORMAT ─────────────────────────────────────────────────────────────
 
@@ -214,9 +244,17 @@ Use **bold** for FAQ questions only.
 Structure:
 
 [intro paragraph — no title]
+Apply the FAQ style here too. Abrupt. Sensory. Direct.
+Mix 3-word sentences with longer ones. Story woven in. Primary keyword natural.
+No setup sentence. Drop straight into the dish.
 
 ## Why You'll Love This
-[3-4 punchy reasons, 1-2 sentences each]
+3-4 reasons. Each one reflects a tag. Each one = 1-2 sentences max.
+Same style: short, direct, no smooth transitions between reasons.
+"Takes 15 minutes. That's it."
+"Works as a side for literally anything."
+"No cleanup. One bowl."
+Not: "You will absolutely love how easy this recipe is to prepare."
 
 ## [Custom title using a keyword — ingredients angle]
 [Ingredients rewritten as prose]
