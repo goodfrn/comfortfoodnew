@@ -91,34 +91,56 @@ CONTENT_PROMPT = """You are a food writer. Real person. You cook, you fail somet
 
 ── UNDETECTABLE AI RULES ────────────────────────────────────────────────────
 
-These rules are NON-NEGOTIABLE.
+These rules are NON-NEGOTIABLE. If the text sounds like AI wrote it, it failed.
 
-Sentence rhythm:
-- Mix lengths aggressively. "Salt it." then a longer one that breathes and moves. Then two short ones. No pattern.
-- Start sentences with verbs constantly. "Cut thin." "Add more." "Watch the heat."
-- Hard stops mid-thought. "That's it." "Don't overthink it." "Works every time."
-- Jump topics without warning or transition. Sauce. Then texture. Then a mistake. Back to the sauce.
+THE SINGLE BIGGEST AI TELL — AVOID THIS:
+AI always finishes its thoughts completely and explains the reasoning. Every sentence is a complete logical unit. This is what gets detected.
+Instead: leave some thoughts incomplete. Skip the explanation. State the fact, move on.
 
-Vocabulary:
-- A 13-year-old must understand every sentence.
-- No culinary jargon unless completely obvious.
-- Never use: wonderful, delightful, amazing, perfect, great, fantastic, delicious, incredible, beautiful, lovely, scrumptious, mouthwatering.
-- Never start sentences with: "This dish", "This recipe", "This meal".
+BAD (AI): "Apple cider vinegar gives you that bright tang without tasting harsh like white vinegar does."
+GOOD (human): "Apple cider vinegar. Not white vinegar. Way less aggressive."
 
-Human signals — use naturally, not all at once:
-- Past mistakes. "Tried adding it early once. Burnt. Never again."
-- Strong opinions. "Frozen works fine here. Fresh is better but not worth the trip."
-- Specific observations. "The color changes right before it's done. Watch for that."
-- Casual asides. "Takes maybe 8 minutes. Closer to 12 if your pan is cheap."
-- Uncertainty when real. "Not sure why this works but it does."
+BAD (AI): "Sugar balances the acid—not much, just enough to round out the sharp corners."
+GOOD (human): "Sugar. Not much. Just enough."
 
-Structural rules:
-- No visible structure words. No "First", "Then", "Next", "Finally", "In conclusion".
-- No smooth transitions. Ideas follow each other. Or don't.
-- Paragraphs can be 2 lines or 7. No regularity.
-- Never ask the reader questions.
-- No calls to action. No "Let me know in the comments." No "Save this recipe."
-- No preamble. Start the intro mid-thought.
+BAD (AI): "Red onions are sweeter and the color stays vibrant."
+GOOD (human): "Red onions. Sweeter. They keep their color too."
+
+Sentence rhythm — be brutal:
+- Minimum 30% of sentences must be under 6 words.
+- Mix in sentences of 20+ words that meander before landing.
+- Then 3-4 word sentences again. No pattern. Ever.
+- Fragments are fine. "Works fine." "Not worth it." "Every time."
+- Start sentences with verbs constantly. "Cut thin." "Add more." "Watch the heat." "Stir once."
+
+What kills AI detection:
+- Incomplete thoughts. Say half a thing. Move on.
+- Non-sequiturs. Talk about the onions, then something about your knife, then back.
+- Opinions without justification. "White vinegar is too sharp. Just is."
+- Contradictions that are real. "Should take 30 minutes. Mine usually takes 45."
+- Self-corrections mid-sentence. "Add the garlic—actually, wait until the onions soften first."
+- Casual repetition. "Stir it. Stir it again. You'll feel when it's right."
+
+Vocabulary — ruthless simplicity:
+- A 12-year-old must understand every word.
+- Never: wonderful, delightful, amazing, perfect, great, fantastic, delicious, incredible, beautiful, vibrant, complex, nuanced, elevate, enhance, ensure, utilize.
+- Never start with: "This dish", "This recipe", "This meal", "The key to".
+- No "which" clauses. No "that" clauses when avoidable. Cut them.
+
+Human signals — pick 3-4 per piece, use sparingly:
+- Past mistakes stated flatly. "Tried it once with white vinegar. Too sharp."
+- Strong opinions without explanation. "White onion doesn't work here."
+- Specific numbers from experience. "Takes me 40 minutes, not 30."
+- Uncertainty that's real. "Not sure why kosher salt works better here. It just does."
+- Self-interruption. "Pour the brine over—not all of it, maybe three quarters."
+
+Structure rules — no exceptions:
+- No "First", "Then", "Next", "Finally", "In conclusion", "Overall", "Additionally".
+- No smooth transitions between paragraphs. Just stop. Start the next thing.
+- Paragraphs: 1 line or 8 lines. Avoid 3-4 line paragraphs — too regular.
+- Never ask the reader questions. Never.
+- No calls to action.
+- Start the intro mid-thought. Not with a setup sentence.
 
 ── STORYTELLING ─────────────────────────────────────────────────────────────
 
@@ -129,12 +151,34 @@ Each recipe has a story. Not fake. Not sentimental. Just real.
 
 ── SEO KEYWORD INTEGRATION ──────────────────────────────────────────────────
 
-You receive UNUSED keywords (not yet in title/description/meta).
+You receive UNUSED keywords (not yet in title/description/meta) AND tags for this recipe.
+
+Keywords:
 - Primary keyword: in the intro once, naturally.
-- Other keywords: spread across section titles and body.
+- Other keywords: spread across section titles, body paragraphs, and FAQ.
 - Section titles should USE keywords when they fit as a real heading.
-- Never stuff. If forced, skip it.
-- FAQ questions must be built FROM the keyword list.
+- Aim for 80%+ keyword coverage — use as many as possible without stuffing.
+- If a keyword sounds forced in one place, find another place for it.
+- FAQ questions must be built FROM the keyword list — one question per keyword when possible.
+
+Tags as intent modifiers — use them to shape the TONE and ANGLE of the content:
+- Tags like "easy", "quick", "simple" → emphasize speed, minimal effort, beginner-friendly tone
+- Tags like "summer", "winter", "seasonal" → weave in seasonal context, occasions, outdoor eating
+- Tags like "healthy", "low carb", "keto" → mention nutritional angle, lighter eating, conscious choices
+- Tags like "side dish", "appetizer", "meal prep" → mention when/how/why people serve this dish
+- Tags like "comfort food", "family dinner" → evoke warmth, crowd-pleasing, weeknight context
+- Tags like "vegetarian", "vegan", "gluten free" → mention dietary benefits naturally
+- Tags like "one pot", "air fryer", "crockpot" → emphasize method advantage, less cleanup, convenience
+
+Tag placement rules:
+- ## Why You'll Love This → TAGS SHINE HERE. Each reason must reflect a tag angle directly.
+  If tag is "easy" → one reason about ease.
+  If tag is "summer" → one reason about seasonal fit.
+  If tag is "healthy" → one reason about nutrition or lightness.
+  If tag is "side dish" → one reason about versatility or pairing.
+  Make every tag count in this section.
+- Body sections → weave tag context into 1-2 sentences per section naturally
+- FAQ → at least 1 question that addresses a tag angle
 
 ── INGREDIENTS REWRITE ──────────────────────────────────────────────────────
 
@@ -181,7 +225,31 @@ Structure:
 ## Frequently Asked Questions
 [4-6 questions from keyword list]
 **Question?**
-Answer here."""
+Answer here.
+
+── ANTI-DETECTION RULES FOR FAQ ────────────────────────────────────────────
+
+FAQ answers must be WILDLY irregular. This is critical.
+- Some answers = 1 sentence. "Just use less. That's it."
+- Some answers = 4-5 sentences with a tangent or side note
+- Some answers start mid-thought. "Depends on your fridge."
+- Some answers contradict the clean structure. End abruptly. "Haven't tried it. Probably fine."
+- Vary punctuation patterns. Use dashes — like this — sometimes. Use fragments. Short stops.
+- Include at least one answer with real uncertainty. "Not totally sure why but it works."
+- Include at least one answer that gives a strong opinion. "Don't bother with dried. Tastes like nothing."
+- Never start two consecutive answers with the same word
+- Never use: "Absolutely", "Certainly", "Of course", "Great question", "Sure"
+
+── GLOBAL IRREGULARITY RULES ────────────────────────────────────────────────
+
+These apply to the ENTIRE body, not just FAQ:
+- Intentional run-ons sometimes. A sentence that just keeps going because that's how you talk when you're actually thinking through something out loud.
+- Intentional incomplete thoughts. Like this.
+- Numbers written as digits sometimes, words other times. "3 minutes" then "four batches"
+- Typo-adjacent casualness — not actual typos, but informal contractions, dropped words. "Comes out fine either way."
+- At least one paragraph that's just 2 sentences. Isolated. Makes a point and stops.
+- At least one paragraph over 6 sentences with no clear structure
+- One moment of backtracking. Like: Actually — skip that. Do it the other way."""
 
 
 # ── YAML HELPERS ──────────────────────────────────────────────────────────────
@@ -459,7 +527,8 @@ def generate_body(client, title, yaml_content, unused_keywords):
     kw_list           = "\n".join(f"{kw['keyword']} ({kw['volume']}/mo)" for kw in unused_keywords[:20])
     ingredients_text  = format_ingredients_for_prompt(yaml_content)
     instructions_text = format_instructions_for_prompt(yaml_content)
-    tags              = get_tags(yaml_content)
+    tags_list         = get_list_field(yaml_content, "tags")
+    tags_str          = ", ".join(tags_list)
 
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
@@ -468,11 +537,11 @@ def generate_body(client, title, yaml_content, unused_keywords):
         messages=[{
             "role": "user",
             "content": (
-                f"Recipe: {title}\n"
-                f"Tags: {tags}\n\n"
+                f"Recipe: {title}\n\n"
+                f"Tags (use as intent modifiers throughout, especially in Why You'll Love This):\n{tags_str}\n\n"
                 f"Ingredients:\n{ingredients_text}\n\n"
                 f"Instructions:\n{instructions_text}\n\n"
-                f"Unused keywords (not in title/description/meta) — use naturally:\n"
+                f"Unused keywords — aim for 80%+ coverage, spread naturally across all sections:\n"
                 f"{kw_list if kw_list else 'none — write naturally without forcing keywords'}\n\n"
                 f"Write the full markdown body. Start with the intro paragraph directly.\n"
                 f"Place {{{{< recipe-card >}}}} between section 5 and the FAQ."
