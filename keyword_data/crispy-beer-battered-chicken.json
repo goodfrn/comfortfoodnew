@@ -1,0 +1,67 @@
+{
+  "slug": "crispy-beer-battered-chicken",
+  "title": "Crispy Beer-Battered Chicken",
+  "seed_keywords": [
+    "crispy beer battered chicken",
+    "fried chicken with dill pickle",
+    "beer batter fried chicken recipe",
+    "crispy fried chicken paprika garlic",
+    "pickle juice chicken frying method"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beer batter chicken",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "beer chicken batter",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "beer batter chicken tenders",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "beer batter for chicken strips",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "beer batter for chicken tenders",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "beer batter chicken recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "beer batter for fried chicken",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "beer fried chicken",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "beer batter chicken nuggets",
+        "volume": 140,
+        "competition": 58
+      },
+      {
+        "keyword": "beer battered chicken tenders recipe",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": true,
+  "content_done": true
+}
