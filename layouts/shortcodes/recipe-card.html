@@ -1,0 +1,130 @@
+{{/* layouts/shortcodes/recipe-card.html */}}
+{{ $recipe_page := .Page.Site.Data.config.recipe_page }}
+{{ $p := .Page }}
+
+<div class="recipe-card border-2 rounded-2xl overflow-hidden my-10" style="border-color: var(--primary);" id="recipe-card">
+  
+  <!-- Header carte -->
+  <div class="px-6 py-4" style="background-color: var(--primary);">
+    <h2 class="text-xl font-bold text-white">{{ $p.Title }}</h2>
+  </div>
+
+  <!-- Temps + portions -->
+  <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 px-6 py-4 bg-orange-50 border-b" style="border-color: var(--color-border);">
+    {{ with $p.Params.prepTime }}
+      <div class="text-center">
+        <p class="text-xs uppercase tracking-wide text-gray-500 mb-1">{{ $recipe_page.summary_labels.prep }}</p>
+        <p class="font-semibold text-gray-800">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</p>
+      </div>
+    {{ end }}
+    {{ with $p.Params.cookTime }}
+      <div class="text-center">
+        <p class="text-xs uppercase tracking-wide text-gray-500 mb-1">{{ $recipe_page.summary_labels.cook }}</p>
+        <p class="font-semibold text-gray-800">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</p>
+      </div>
+    {{ end }}
+    {{ with $p.Params.totalTime }}
+      <div class="text-center">
+        <p class="text-xs uppercase tracking-wide text-gray-500 mb-1">{{ $recipe_page.summary_labels.total }}</p>
+        <p class="font-semibold text-gray-800">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</p>
+      </div>
+    {{ end }}
+    {{ with $p.Params.recipeYield }}
+      <div class="text-center">
+        <p class="text-xs uppercase tracking-wide text-gray-500 mb-1">{{ $recipe_page.summary_labels.servings }}</p>
+        <p class="font-semibold text-gray-800">{{ . }}</p>
+      </div>
+    {{ end }}
+  </div>
+
+  <div class="px-6 py-6 space-y-8">
+
+    <!-- Ingrédients -->
+    <div>
+      <h3 class="text-lg font-bold mb-3 pb-2 border-b" style="color: var(--color-text); border-color: var(--color-border);">
+        {{ $recipe_page.sections.ingredients }}
+      </h3>
+      <ul class="space-y-2">
+        {{ range $p.Params.ingredients }}
+          {{ if strings.Contains . "===" }}
+            {{ $content := . | replaceRE "===(.+)===" "$1" }}
+            <li class="font-semibold text-gray-800 mt-3 list-none">{{ $content }}</li>
+          {{ else }}
+            <li class="flex items-start gap-2 text-gray-700">
+              <span class="mt-1.5 w-1.5 h-1.5 rounded-full flex-shrink-0" style="background-color: var(--primary);"></span>
+              {{ . }}
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    </div>
+
+    <!-- Instructions -->
+    <div>
+      <h3 class="text-lg font-bold mb-3 pb-2 border-b" style="color: var(--color-text); border-color: var(--color-border);">
+        {{ $recipe_page.sections.instructions }}
+      </h3>
+      <ol class="space-y-4 list-none">
+        {{ $step := 0 }}
+        {{ range $p.Params.instructions }}
+          {{ if strings.Contains . "===" }}
+            {{ $content := . | replaceRE "===(.+)===" "$1" }}
+            <li class="font-semibold text-gray-800 mt-4">{{ $content }}</li>
+          {{ else }}
+            {{ $step = add $step 1 }}
+            <li class="flex items-start gap-3">
+              <span class="flex-shrink-0 w-7 h-7 rounded-full text-white text-sm font-bold flex items-center justify-center" style="background-color: var(--primary);">{{ $step }}</span>
+              <span class="text-gray-700 leading-relaxed pt-0.5">{{ . | replaceRE "^[0-9]+\\.\\s*" "" }}</span>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ol>
+    </div>
+
+    <!-- Nutrition -->
+    {{ with $p.Params.nutrition }}
+      <div>
+        <h3 class="text-lg font-bold mb-3 pb-2 border-b" style="color: var(--color-text); border-color: var(--color-border);">
+          {{ $recipe_page.nutritionSection.title }}
+        </h3>
+        <div class="grid grid-cols-2 sm:grid-cols-4 gap-3 text-center">
+          {{ with .calories }}
+            <div class="bg-gray-50 rounded-lg p-3">
+              <p class="text-xs text-gray-500 mb-1">{{ $recipe_page.nutritionLabels.calories }}</p>
+              <p class="font-semibold text-gray-800">{{ . }}</p>
+            </div>
+          {{ end }}
+          {{ with .proteinContent }}
+            <div class="bg-gray-50 rounded-lg p-3">
+              <p class="text-xs text-gray-500 mb-1">{{ $recipe_page.nutritionLabels.proteinContent }}</p>
+              <p class="font-semibold text-gray-800">{{ . }}</p>
+            </div>
+          {{ end }}
+          {{ with .carbohydrateContent }}
+            <div class="bg-gray-50 rounded-lg p-3">
+              <p class="text-xs text-gray-500 mb-1">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</p>
+              <p class="font-semibold text-gray-800">{{ . }}</p>
+            </div>
+          {{ end }}
+          {{ with .fatContent }}
+            <div class="bg-gray-50 rounded-lg p-3">
+              <p class="text-xs text-gray-500 mb-1">{{ $recipe_page.nutritionLabels.fatContent }}</p>
+              <p class="font-semibold text-gray-800">{{ . }}</p>
+            </div>
+          {{ end }}
+        </div>
+      </div>
+    {{ end }}
+
+    <!-- Print button -->
+    <div class="text-center pt-2">
+      <button onclick="window.print()" class="inline-flex items-center gap-2 px-5 py-2.5 rounded-full text-sm font-semibold border-2 transition-all duration-200 hover:shadow-md" style="border-color: var(--primary); color: var(--primary);">
+        <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/>
+        </svg>
+        Print Recipe
+      </button>
+    </div>
+
+  </div>
+</div>

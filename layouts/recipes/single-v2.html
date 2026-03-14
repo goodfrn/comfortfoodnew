@@ -1,0 +1,255 @@
+{{/* layouts/recipes/single.html */}}
+{{ define "main" }}
+{{ $config := .Site.Data.config }}
+{{ $breadcrumb := $config.list_pages.breadcrumb }}
+{{ $recipe_page := $config.recipe_page }}
+
+<section class="container mx-auto px-4 relative" style="background-color: var(--color-bg); min-height: 100vh; padding-top: 96px;">
+
+  <!-- Fil d'Ariane -->
+  <div class="absolute top-4 left-0 right-0">
+    <div class="container mx-auto px-4">
+      <nav class="text-sm text-gray-500" aria-label="Fil d'Ariane">
+        <ol class="flex flex-wrap items-center gap-1 text-[0.95rem] sm:text-base font-medium">
+          <li>
+            <a href="/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.home }}</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          <li>
+            <a href="/categories/" class="hover:underline font-semibold" style="color: var(--primary);">{{ $breadcrumb.categories }}</a>
+            <span class="mx-1 text-gray-400">→</span>
+          </li>
+          {{ with index .Params.categories 0 }}
+            {{ $cat := . }}
+            {{ $catSlug := $cat | lower | urlize }}
+            {{ $displayName := $cat }}
+            {{ $categoriesSystem := $config.categories_system }}
+            {{ range $categoriesSystem.categories_config.categories_list }}
+              {{ if eq .slug $catSlug }}
+                {{ $displayName = .name }}
+              {{ end }}
+            {{ end }}
+            {{ $catTerm := site.Taxonomies.categories.Get $cat }}
+            {{ if $catTerm }}
+              <li>
+                <a href="{{ $catTerm.Page.RelPermalink }}" class="hover:underline font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
+              </li>
+            {{ else }}
+              <li>
+                <a href="{{ printf "/categories/%s/" $catSlug }}" class="hover:underline font-semibold" style="color: var(--primary);">{{ $displayName }}</a>
+              </li>
+            {{ end }}
+          {{ end }}
+        </ol>
+      </nav>
+    </div>
+  </div>
+
+  <!-- Titre -->
+  <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight text-left mb-8" style="color: var(--color-text); font-family: var(--font-serif);">
+    {{ .Title }}
+  </h1>
+
+  <div class="max-w-6xl mx-auto">
+
+    <!-- En-tête : image + meta -->
+    <div class="grid grid-cols-1 lg:grid-cols-[1fr_1fr] gap-8 sm:gap-12 items-start mb-12">
+
+      <!-- Colonne gauche : Image + Byline -->
+      <div>
+        {{ with .Params.image }}
+          <div class="rounded-2xl shadow-lg overflow-hidden" style="aspect-ratio: 3/2;">
+            {{ partial "recipe-image.html" (dict "image" . "title" $.Title "loading" "eager" "fetchpriority" "high") }}
+          </div>
+        {{ end }}
+
+        {{ if or .Params.author .Date }}
+          <div class="bg-orange-50 border-l-4 border-orange-400 p-4 mb-6 rounded-r-lg mt-4">
+            <div class="flex items-center gap-3">
+              <div class="w-10 h-10 rounded-full overflow-hidden">
+                {{ $emma := resources.Get "images/chef.png" }}
+                {{ if $emma }}
+                  {{ $emmaSmall := $emma.Fill "40x40" }}
+                  <img src="{{ $emmaSmall.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-full h-full object-cover">
+                {{ else }}
+                  <div class="w-10 h-10 bg-orange-600 rounded-full flex items-center justify-center text-white font-bold">E</div>
+                {{ end }}
+              </div>
+              <div>
+                <p class="text-lg font-bold text-gray-900">{{ $recipe_page.author_prefix }} {{ .Params.author | default "Emma" }}</p>
+                <p class="text-sm text-gray-600">Certified Culinary Professional</p>
+              </div>
+            </div>
+            {{ if .Date }}
+              <div class="flex items-center gap-2 text-sm text-gray-600 mt-3">
+                <svg class="w-4 h-4" fill="currentColor" viewBox="0 0 20 20">
+                  <path d="M6 2a1 1 0 00-1 1v1H4a2 2 0 00-2 2v10a2 2 0 002 2h12a2 2 0 002-2V6a2 2 0 00-2-2h-1V3a1 1 0 10-2 0v1H7V3a1 1 0 00-1-1zM4 7h12v9H4V7z"/>
+                </svg>
+                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ $recipe_page.published_prefix }} {{ .Date.Format "02 January 2006" }}</time>
+                <span class="mx-2">•</span>
+                <span>Recipe tested & approved</span>
+              </div>
+            {{ end }}
+          </div>
+        {{ end }}
+      </div>
+
+      <!-- Colonne droite : description + meta + tags -->
+      <div class="flex flex-col gap-6">
+        {{ $intro := .Params.description | default .Summary }}
+        {{ with $intro }}
+          <div class="text-lg italic leading-relaxed" style="color: var(--color-text-secondary);">
+            {{ . | markdownify }}
+          </div>
+        {{ end }}
+
+        <div class="grid grid-cols-2 gap-4 text-sm">
+          {{ with .Params.prepTime }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.prep }}</span>
+              <span class="text-slate-600">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.cookTime }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.cook }}</span>
+              <span class="text-slate-600">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.totalTime }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.total }}</span>
+              <span class="text-slate-600">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.recipeYield }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.servings }}</span>
+              <span class="text-slate-600">{{ . }}</span>
+            </div>
+          {{ end }}
+          {{ with .Params.cuisine }}
+            <div class="flex items-center gap-2">
+              <span class="font-medium text-slate-700">{{ $recipe_page.summary_labels.cuisine }}</span>
+              <span class="text-slate-600">{{ . }}</span>
+            </div>
+          {{ end }}
+        </div>
+
+        {{ with .Params.tags }}
+          <div class="flex flex-wrap gap-2">
+            {{ range . }}
+              <a href="/tags/{{ . | urlize }}/"
+                 class="inline-flex items-center gap-1 px-3 py-1.5 rounded-full text-sm font-semibold border-2 transition-all duration-200 hover:shadow-md hover:-translate-y-0.5 transform"
+                 style="border-color: var(--primary); color: var(--primary); background: transparent;"
+                 onmouseover="this.style.backgroundColor='var(--primary)';this.style.color='white';"
+                 onmouseout="this.style.backgroundColor='transparent';this.style.color='var(--primary)';">
+                <svg class="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2.5" d="M7 20l4-16m2 16l4-16M6 9h14M4 15h14"/></svg>
+                {{ . }}
+              </a>
+            {{ end }}
+          </div>
+        {{ end }}
+
+        {{ partial "cta-buttons.html" . }}
+      </div>
+
+    </div>
+
+    <!-- CORPS : colonne principale + sidebar -->
+    <div class="grid lg:grid-cols-[2fr_1fr] gap-6 sm:gap-8 lg:gap-12 items-start">
+
+      <!-- Colonne principale -->
+      <div class="w-full min-w-0">
+
+        <!-- BODY MARKDOWN LIBRE (introduction, whyLoveThis, paragraphes custom, shortcodes ingredients/instructions, recipe-card, faq) -->
+        <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
+          {{ .Content }}
+        </div>
+
+        {{ partial "related-wide-scroll-random.html" . }}
+        {{ partial "comments.html" . }}
+
+      </div>
+
+      <!-- Sidebar inchangée -->
+      <aside class="space-y-6 w-full">
+
+        {{ with .Params.nutrition }}
+          <div class="card bg-slate-50 border border-slate-200">
+            <div class="text-center mb-4">
+              <h3 class="text-base sm:text-lg font-semibold text-slate-800" style="font-family: var(--font-serif);">{{ $recipe_page.nutritionSection.title }}</h3>
+              <p class="text-xs text-slate-500 mt-1">{{ $recipe_page.nutritionSection.subtitle }}</p>
+            </div>
+            <div class="grid grid-cols-1 gap-3 text-sm">
+              {{ with .calories }}
+                <div class="flex justify-between py-2 border-b border-slate-200">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.calories }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .proteinContent }}
+                <div class="flex justify-between py-2 border-b border-slate-200">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.proteinContent }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .carbohydrateContent }}
+                <div class="flex justify-between py-2 border-b border-slate-200">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+              {{ with .fatContent }}
+                <div class="flex justify-between py-2">
+                  <span class="font-medium text-slate-700">{{ $recipe_page.nutritionLabels.fatContent }}</span>
+                  <span class="text-slate-600">{{ . }}</span>
+                </div>
+              {{ end }}
+            </div>
+          </div>
+        {{ end }}
+
+        {{ with .Params.note }}
+          <div class="card" style="background-color: var(--color-bg-alt); border-left: 4px solid var(--primary);">
+            <h3 class="text-base sm:text-lg font-semibold mb-2" style="color: var(--color-text); font-family: var(--font-serif);">{{ $recipe_page.chef_note_title }}</h3>
+            <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary);">{{ . | markdownify }}</p>
+          </div>
+        {{ end }}
+
+        <div class="card">
+          <h3 class="text-base sm:text-lg font-semibold mb-2" style="color: var(--color-text); font-family: var(--font-serif);">{{ $recipe_page.about_sidebar_title }}</h3>
+          <div class="flex items-center gap-4 mb-4">
+            {{ $emma := resources.Get "images/chef.png" }}
+            {{ if $emma }}
+              {{ $emmaMedium := $emma.Fill "80x80" }}
+              <img src="{{ $emmaMedium.RelPermalink }}" alt="{{ $config.about_section.image_alt }}" class="w-20 h-20 rounded-full object-cover border-2 border-orange-200">
+            {{ end }}
+            <div>
+              <div class="text-base font-semibold text-gray-800">{{ $config.about_section.chef_name }}</div>
+              <div class="text-xs text-gray-500">Recipe Creator</div>
+            </div>
+          </div>
+          <p class="text-sm leading-relaxed" style="color: var(--color-text-secondary);">{{ $recipe_page.about_sidebar_text }}</p>
+          <div class="mt-4 pt-3 border-t border-gray-200 text-center">
+            <p class="text-xs text-gray-500 mb-2">Follow us</p>
+            <a href="{{ $config.social.pinterest }}" target="_blank" class="inline-flex items-center justify-center w-8 h-8 text-gray-400 hover:text-red-500 transition-colors duration-200" aria-label="Follow on Pinterest">
+              <svg class="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M12.017 0C5.396 0 .029 5.367.029 11.987c0 5.079 3.158 9.417 7.618 11.024-.105-.949-.199-2.403.041-3.439.219-.937 1.406-5.957 1.406-5.957s-.359-.72-.359-1.781c0-1.663.967-2.911 2.168-2.911 1.024 0 1.518.769 1.518 1.688 0 1.029-.653 2.567-.992 3.992-.285 1.193.6 2.165 1.775 2.165 2.128 0 3.768-2.245 3.768-5.487 0-2.861-2.063-4.869-5.008-4.869-3.41 0-5.409 2.562-5.409 5.199 0 1.033.394 2.143.89 2.745.097.119.112.22.082.34-.09.394-.293 1.199-.334 1.363-.053.225-.172.271-.402.165-1.495-.69-2.433-2.878-2.433-4.646 0-3.776 2.748-7.252 7.92-7.252 4.158 0 7.392 2.967 7.392 6.923 0 4.135-2.607 7.462-6.233 7.462-1.214 0-2.357-.629-2.748-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24.009 12.017 24.009c6.624 0 11.990-5.367 11.990-11.988C24.007 5.367 18.641.001.001 12.017.001z"/>
+              </svg>
+            </a>
+          </div>
+        </div>
+
+        {{ partial "related-sidebar-samecat.html" . }}
+        {{ partial "sidebar-categories.html" . }}
+        {{ partial "related-sidebar-trending.html" . }}
+
+      </aside>
+
+    </div>
+  </div>
+</section>
+
+{{ partial "recipe-sticky-nav.html" . }}
+{{ end }}

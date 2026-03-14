@@ -1,0 +1,17 @@
+{{/* layouts/shortcodes/instructions.html */}}
+{{ $recipe_page := .Page.Site.Data.config.recipe_page }}
+<div class="recipe-card__instructions mb-8" id="steps">
+  <h2 class="text-2xl font-bold mb-4" style="color: var(--color-text); font-family: var(--font-serif);">
+    {{ $recipe_page.sections.instructions }}
+  </h2>
+  <ol class="space-y-3">
+    {{ range .Page.Params.instructions }}
+      {{ if strings.Contains . "===" }}
+        {{ $content := . | replaceRE "===(.+)===" "$1" }}
+        <li class="font-bold text-lg mt-6 mb-1 text-gray-800 list-none">{{ $content }}</li>
+      {{ else }}
+        <li class="text-gray-700 leading-relaxed">{{ . }}</li>
+      {{ end }}
+    {{ end }}
+  </ol>
+</div>
