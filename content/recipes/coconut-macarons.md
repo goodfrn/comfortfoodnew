@@ -1,9 +1,9 @@
 ---
-title: "Eggless Macaroons Vegan Coconut"
+title: "Eggless Macaroons with Coconut Yogurt"
 slug: "coconut-macarons"
-description: "Eggless macaroons made vegan with coconut yogurt filling and maple syrup. Gluten-free, golden-baked coconut bites with simple pantry ingredients. Makes 20."
-metaDescription: "Eggless macaroons vegan recipe using coconut yogurt and maple syrup. Golden-baked, gluten-free coconut bites. No eggs, no dairy. Try it tonight."
-ogDescription: "Eggless macaroons vegan and gluten-free. Coconut yogurt filling, maple syrup sweetness, 20 golden bites from pantry staples."
+description: "Eggless macaroons made vegan with coconut yogurt filling and sweetened condensed milk. Golden-baked coconut bites using shredded coconut and simple pantry ingredients."
+metaDescription: "Eggless macaroons with coconut yogurt filling made vegan. Golden coconut bites using shredded coconut and condensed milk. Try it tonight."
+ogDescription: "Vegan eggless macaroons with coconut yogurt filling. Soft, golden coconut bites made with simple pantry staples."
 focusKeyphrase: "eggless macaroons"
 date: 2025-09-26
 draft: false
@@ -23,9 +23,12 @@ tags:
 keywords:
 - "eggless macaroons"
 - "macaroons vegan recipe"
-- "vegan coconut macaroons"
-- "egg-free macaroons"
-- "gluten-free macaroons recipe"
+- "coconut macaroons eggless"
+- "vegan macaroons"
+- "coconut yogurt macaroons"
+- "gluten free macaroons"
+- "eggless desserts"
+- "vegan coconut recipes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"
@@ -60,3 +63,79 @@ faq:
 - "q: How to store leftovers? a: Cool completely first. Store in airtight container room temp a day or two. Longer keep in fridge, but texture may firm more. Freeze in single layer wrapped tight; thaw at room temp before eating. Avoid stacking raw in fridge."
 
 ---
+
+Sweetened coconut. Coconut yogurt. Condensed milk. Water. That's it—and somehow it becomes these chewy, toasted-edged things that taste way better than they have any right to. Tried the cream cheese version once. Grainy. This works.
+
+## Why You'll Love This Vegan Macaroon Recipe
+
+Takes 39 minutes total. Seventeen to prep, 22 in the oven. Not waiting around all day.
+
+Genuinely vegan—no eggs, no dairy butter, nothing sneaky. Just coconut doing the work. Most people don't believe you when you say that.
+
+Gluten free without trying. The coconut is already gluten free, so it just is.
+
+Texture's the thing. Chewy inside. Edges go golden and crispy but not hard. That specific snap when you bite it. Cold the next day, somehow better.
+
+One bowl. One mixer or a whisk. Cleanup takes maybe three minutes.
+
+## What You Need for Vegan Macaroons
+
+Shredded sweetened coconut—210 grams, about a cup and seven-eighths. The kind already sweetened. Not unsweetened. Different thing entirely.
+
+Coconut yogurt, softened. Fifty-five grams. Two ounces. The kind that's already opened and sitting out for a minute. Cold straight from the fridge doesn't mix right.
+
+Sweetened condensed milk. Eighty-five milliliters. Five and a half tablespoons if you're measuring that way. Some recipes use way less. This amount works.
+
+Water. Twenty milliliters. Just under a tablespoon and a third. Sounds small. It matters. Too dry and you get nothing. Too wet and they don't hold shape.
+
+That's genuinely all.
+
+## How to Make Vegan Macaroons
+
+Oven to 175°C—347°F if you're measuring that way. Rack goes in the middle. Stack two baking sheets on top of each other. The bottom one insulates. Top sheet gets a silicone mat or parchment. Silicone's better here. Stops them sticking without that soggy-bottom thing parchment sometimes does.
+
+Dump the coconut, coconut yogurt, condensed milk, and water into a bowl. Get the mixer out or just whisk the hell out of it. You're going for homogenous. No dry lumps hiding anywhere. It should look slightly wet but hold together when you squeeze it. If it's too dry—dry coconut bits staying separate—add a splash more water. If it's falling apart in a runny way, add more coconut. The texture tells you. It knows.
+
+Scoop it out. Tablespoon works. Ice cream scoop works better—about 15 milliliters each. Roll them into balls or just leave them slightly irregular. Doesn't matter that much. Space them out on the sheet. They don't spread, but air circulation helps. Crowding them means they steam instead of bake.
+
+## How to Get Vegan Macaroons Golden and Crispy
+
+Eighteen to 23 minutes. Watch them. Color shifts from pale cream to light golden at the edges. That's the main thing. You'll actually smell it—toasted coconut notes that weren't there before. That's your signal more than anything.
+
+Press one lightly with your finger. The outside should feel firm. Inside gives a little. That's the target. Overbake and they go dry and hard. Underbake and the coconut tastes raw. Bitter. You'll know if you mess it up.
+
+Cool them on a rack. Completely. They firm up as they cool—some of the moisture redistributes. If they feel sticky still, wait longer. Or slide a thin spatula under them careful. Edges come loose easier than the middle.
+
+## Vegan Macaroon Tips and Common Mistakes
+
+Coconut yogurt temperature matters more than most recipes admit. Cold doesn't mix in right. Let it sit out for five minutes. Changes everything.
+
+Sweetened coconut only. Unsweetened is a different recipe. It'll be dry no matter what you do.
+
+The baking sheet stack. People skip it. Then the bottoms brown too fast and the tops don't set right. Two sheets. Do it.
+
+Texture of the mixture—watch it, not the recipe. Some coconut is drier than others depending on storage and brand. You might need slightly more water or slightly more coconut. The dough should be barely sticky. Hold shape but feel wet. Press into the bowl and it should clump, not fall apart, not stay wet.
+
+Dark chocolate dip on the bottom after they cool. Melts in, adds richness, stops the sweetness from being monotonous. Sea salt sprinkled on before baking gives crackle and contrast. Optional. But good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegan Macaroon Recipe
+
+**Can you use regular sweetened condensed milk instead of coconut yogurt?**
+No. Condensed milk alone makes them too dense. The yogurt adds structure and keeps them chewy. Haven't tried substituting it. Don't bother.
+
+**How long do they last?**
+Five days in an airtight container. Maybe six if your house is cool. After that they get hard. Still edible. Tastes like coconut candy at that point.
+
+**What if they come out dry?**
+You overbaked them or your coconut was already dry going in. Next time, pull them at 18 minutes instead of 23. Texture firms up as it cools, so don't wait for them to feel soft when they're hot. They'll be perfect when they cool.
+
+**Can you make them without the oven temperature trick—just one sheet?**
+Bottoms burn before tops set right. Don't do it. Two sheets takes thirty seconds extra and it matters.
+
+**Are they actually vegan if condensed milk has dairy?**
+No. Sweetened condensed milk is dairy. If you need fully vegan, use coconut cream mixed with sugar instead—same amount, just mix it together first. Haven't tested that version. Probably works.
+
+**Do you need an electric mixer?**
+No. Whisking works. Takes maybe two minutes of actual whisking. Your arm gets tired. Mixer's faster but not necessary.
