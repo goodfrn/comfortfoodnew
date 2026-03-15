@@ -125,7 +125,7 @@ Using the salsa too cold straight from the fridge doesn't matter as much as peop
 
 Don't fill the bag past the cheese layer. Overstuffed bags leak and everything falls on the ground. It happens. You'll learn.
 
-{{< recipe-recipe-card >}}
+{{< recipe-card >}}
 
 {{< recipe-card >}}
 
