@@ -1,10 +1,10 @@
 ---
-title: "Corn Crumble Twist"
+title: "Dairy-Free Corn Crumble with Lemon Zest"
 slug: "corn-crumble-twist"
-description: "A corn-based crumble dessert with a coconut sugar topping and a lemon zest twist. Uses quinoa flakes replacing oats and almond flour swapped with chickpea flour. Dairy-free, nut-free, egg-free, vegetarian. Prepping involved chilling dough, baking with a golden finish. Crunchy, sweet, slight citrus tang. Ready in 2 hours 15 minutes total. Serves 6. Simple pantry ingredients. A unique texture from quinoa flakes. Ideal as sweet snack or light dessert."
-metaDescription: "Corn Crumble Twist is a unique corn-based crumble dessert with coconut sugar and lemon zest. Dairy-free and nut-free, ready in over two hours."
-ogDescription: "Try this Corn Crumble Twist, a dairy-free crumble dessert combining corn, lemon zest, quinoa flakes for a tasty treat. Simple ingredients shine."
-focusKeyphrase: "Corn Crumble Twist"
+description: "Dairy-free corn crumble dessert with coconut sugar topping and bright lemon zest. Made with quinoa flakes, chickpea flour, and fresh corn kernels for a crunchy, naturally sweet treat."
+metaDescription: "Make this dairy-free corn crumble with fresh corn, quinoa flakes, and lemon zest. Vegan-friendly dessert with coconut sugar and chickpea flour. Try it tonight."
+ogDescription: "Crunchy dairy-free corn crumble with quinoa flakes, chickpea flour, fresh corn, and zesty lemon. Ready in 2 hours."
+focusKeyphrase: "dairy-free corn crumble"
 date: 2025-07-20
 draft: false
 image: corn-crumble-twist.jpg
@@ -21,9 +21,16 @@ tags:
 - "coconut"
 - "lemon"
 keywords:
-- "corn crumble"
-- "healthy dessert"
-- "coconut sugar recipe"
+- "dairy-free corn crumble"
+- "corn crumble dessert"
+- "lemon zest corn crumble recipe"
+- "quinoa flakes coconut crumble"
+- "coconut sugar corn crumble"
+- "chickpea flour corn dessert"
+- "vegan corn crumble with lemon"
+- "dairy-free coconut corn crumble bars"
+- "fresh corn kernels dessert"
+- "egg-free crumble recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -71,3 +78,87 @@ faq:
 - "q: How to store leftovers? a: Keep in airtight container. In fridge works fine. Reheat gently before serving. Not too long, keep texture."
 
 ---
+
+Preheat to 350. Fresh corn, not frozen. Matters more than people think.
+
+## Why You'll Love This Dairy-Free Crumble
+
+Takes under two and a half hours total — 15 minutes of actual work, the rest just sits in the oven. The coconut sugar corn crumble gets crispy on top, soft underneath where the corn is. Lemon zest cuts through the sweetness without making it taste sour. Uses quinoa flakes instead of oats, so it's got this texture that's almost granular. Works cold the next day, maybe better. You don't need eggs or dairy or anything weird.
+
+## What You Need for This Lemon Zest Corn Crumble Recipe
+
+Fresh corn kernels — a full cup. Frozen works, but thaw it first and drain it hard. Cold corn releases water and throws off the whole thing.
+
+Coconut sugar. Two tablespoons. It's less sharp than regular sugar, lets the corn taste like corn.
+
+Quinoa flakes and chickpea flour — three-quarters cup flakes, three tablespoons flour. The quinoa gives it crunch. The chickpea flour keeps it together without binding it tight. Not the same as regular flour. Different texture entirely.
+
+Coconut oil melted — a third of a cup. Olive oil doesn't work here. You need something neutral that sets up a little when it cools.
+
+Lemon zest. One teaspoon. Fresh. Not the bottled stuff. One of those cheap zesters from the dollar store works fine.
+
+Almond milk alternative — half cup. Oat milk, soy, doesn't matter. Just something to dampen the top layer so it bakes even.
+
+Maple syrup, vanilla extract, baking powder, salt. One tablespoon maple. One teaspoon vanilla. Half teaspoon baking powder. Quarter teaspoon salt. That's it.
+
+## How to Make Corn Crumble with Quinoa Flakes and Chickpea Flour
+
+Heat the oven to 350 Fahrenheit. Do this first. It needs ten minutes to get actually hot, not just warm.
+
+Mix your dry stuff in a bowl — quinoa flakes, chickpea flour, baking powder, salt. Just stir it together. Takes a minute.
+
+Pour in the melted coconut oil, maple syrup, vanilla. Stir until it looks crumbly. Not dough. Crumbly. You should be able to pinch it and it falls apart.
+
+Add the lemon zest now. Fold it in so you see yellow specks through the whole thing.
+
+Press half of this mixture into an eight-inch square pan. Use your fingers. Doesn't need to be smooth. Just packed down enough it holds.
+
+Spread the corn kernels over the base. Make sure they're dry. If they're wet at all, your bottom layer gets soggy and stays that way.
+
+Sprinkle the rest of the crumble on top. Don't press it. Let it stay rough. That's where you get the texture that actually snaps.
+
+Pour the almond milk over everything. Not all at once. Use your hand, let it drip slow. You want the top moist, not wet. The dry stuff will keep soaking up liquid as it bakes.
+
+## How to Get Dairy-Free Coconut Corn Crumble Bars Golden and Set
+
+Bake for 42 to 45 minutes. The edges will pull away from the pan slightly. The top will be the color of old honey — tan but with some darker patches where it caught heat.
+
+The way you know it's done: press the center with your finger. It should give a tiny bit, then resist. Not hard. Just firm.
+
+Cool it on a rack for about 30 minutes. Don't cut into it yet. Let the whole thing settle. The almond milk sets everything up as it cools, the coconut oil solidifies enough to hold the layers together.
+
+It'll be warm still. Room temperature is better. You taste the corn more that way, the lemon doesn't get buried under heat.
+
+## Dairy-Free Coconut Crumble Tips and Common Mistakes
+
+Don't use old corn. The kind that's been in your freezer since July tastes like nothing. Fresh is non-negotiable here.
+
+The crumble mixture should feel dry before the milk goes on. If it's oily or tacky, you've got too much coconut oil or it wasn't melted right. Coconut oil should be liquid when you mix it, not room temperature where it starts getting grainy.
+
+Some people soak the quinoa flakes first. Don't. Defeats the whole point.
+
+Bottom layer comes out too wet sometimes. Means the corn had water in it. Dry everything before it goes into the pan. Use paper towels. Takes 30 seconds and saves the whole thing.
+
+The top layer should stay chunky. If it flattens out, your liquid went on too heavy. It'll still taste fine. Just won't have the texture that makes people ask for the recipe.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegan Corn Crumble with Lemon
+
+**Can I use frozen corn instead of fresh?**
+Yeah, but drain it really well. Frozen corn holds water that fresh corn doesn't. Squeeze it in a towel if it's wet. Otherwise the bottom gets mushy.
+
+**What if I don't have chickpea flour?**
+Haven't tested anything else. Probably rice flour works. Maybe. The chickpea flour has a flavor that fits with the coconut and corn. Don't know if regular flour gives you the same thing.
+
+**How long does this keep?**
+Three days. Maybe four if your fridge is cold. By day five it goes soft even though it shouldn't theoretically do that. Just does.
+
+**Can I make this without the lemon zest?**
+Sure. It's less interesting. The lemon cuts through the sweetness and makes the corn taste brighter. Without it, it's just sweet and corny. Not bad. Not what this is supposed to taste like.
+
+**Do I have to use maple syrup?**
+Coconut sugar, maple syrup, agave — one of those. Not honey. Don't use honey here. White sugar makes it crunchy instead of crumbly. Maple's best. Agave's more liquid so adjust the amount down a bit.
+
+**Should I dust it with coconut sugar on top before serving?**
+Optional. It looks pretty. Adds a little texture. Not necessary. Half the time I skip it because I forget it's there.
