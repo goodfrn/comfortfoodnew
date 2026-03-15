@@ -1,9 +1,9 @@
 ---
-title: "Chicken Salad Pita Recipe With Pecans"
+title: "Chicken Salad Pita Recipe with Pecans"
 slug: "chunky-chicken-salad-pitas"
-description: "Quick chicken salad pita with pecans, grapes, and whole grain mustard. Ready in 15 minutes. Keep pitas separate to avoid sogginess."
-metaDescription: "Chicken salad pita recipe made with toasted pecans, fresh grapes, and lemon. Crunchy, balanced, and on the table in 15 minutes. Try it tonight."
-ogDescription: "Chunky chicken salad with pecans and grapes stuffed into pitas. No wait, no fuss. Ready to eat in 15 minutes."
+description: "Quick chicken salad pita with pecans, grapes, celery, and whole grain mustard. Ready in 15 minutes. Crispy lettuce and tomato keep it fresh."
+metaDescription: "Chicken salad pita recipe with pecans, grapes, and whole grain mustard. Quick, easy lunch ready in 15 minutes. Make it tonight."
+ogDescription: "Chicken salad pita with toasted pecans, red grapes, and whole grain mustard. Fresh, crunchy, and ready in 15 minutes."
 focusKeyphrase: "chicken salad pita recipe"
 date: 2026-01-26
 draft: false
@@ -25,8 +25,8 @@ keywords:
 - "chicken salad pita"
 - "chicken salad in pita"
 - "chicken salad in pita bread"
-- "easy chicken salad"
-- "quick lunch recipes"
+- "chicken salad with pita bread"
+- "chicken caesar pita"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "350"
@@ -71,3 +71,85 @@ faq:
 - "q: How long can leftovers last? a: Salad up to 24 hours in fridge, keep pitas separate. Lettuce can wilt fast if premixed. Toast pitas before refill from fridge. Salad thickens over time okay, stir lemon or milk to freshness."
 
 ---
+
+Toasted pecans go in first — dry skillet, two minutes max, your nose tells you when. Three diced chicken cups, celery that's actually fine-chopped, shallots because regular onion is too sharp here. Then the grapes. They're doing something. The sweet juice bursts when you bite, cuts through the mayo in a way that sounds weird until you taste it.
+
+## Why You'll Love This Chicken Salad in Pita
+
+Eighteen minutes total. Most of that's chopping. The actual mixing takes maybe four minutes.
+
+Works cold. Leftovers actually taste better after a night in the fridge — flavors settle into each other.
+
+Pecans instead of walnuts. They're less bitter, more buttery. Makes a real difference.
+
+Stays good in a container separate from the pita. That's the move if you're packing lunch. Fill it fresh or it gets soggy.
+
+Lemon juice in the mayo. Not a lot. Just enough that you taste it before you taste mayo.
+
+## What You Need for Chicken Salad Pita Bread
+
+A cup of cooked chicken. Diced or shredded — doesn't matter as much as people say. Just pull it apart.
+
+Celery chopped actually fine. Not chunks. Fine. If you get lazy here the texture falls apart.
+
+Shallots minced. Sweet onion works if you can't find them. Rinse it if the smell is too aggressive.
+
+Red grapes halved. Not quartered. Halved. They need enough size to burst properly.
+
+Pecans toasted. Roughly chopped. Walnuts if that's what you have — they work, just a bit more tannin taste.
+
+Mayo, lemon juice, whole grain mustard. Dijon works in a pinch but it's sharper. Salt and white pepper.
+
+Pita bread. Four halves. Crisp lettuce — the kind that actually stays firm. Tomato slices.
+
+## How to Make Chicken Salad in Pita
+
+Chop the chicken, celery, shallots first. Get the pecans going in a dry skillet — medium heat, watch them. Two or three minutes. They pop and smell toasted. That's it. Pull them out. They keep cooking on the counter, so don't wait for them to look perfect in the pan.
+
+Whisk mayo with lemon juice and mustard in a big bowl. Vigorous. You want the dressing tangy but not runny. The mayo should lighten slightly and taste bright.
+
+Fold everything in gently. Chicken, celery, shallots, pecans, grapes. Don't mash it. You want it chunky. Taste it. Fix the salt or lemon juice. It should taste like you already know what you're eating.
+
+## How to Keep Chicken Salad Pita from Getting Soggy
+
+Cut the pitas in half. Tear lettuce, stuff one leaf in each pocket first. Tomato slice next. The crisp vegetables act like a barrier — they keep the bread from soaking up too much mayo before you even bite.
+
+Spoon the salad in. Pack it but don't compress it hard. Serve right away.
+
+Or — and this is the better move if you're meal prepping — keep the chicken salad in a container in the fridge. Pitas separate. Assemble them fresh, max twenty-four hours later.
+
+If the salad thickens after chilling, a half teaspoon of lemon juice or a splash of milk loosens it back up. If pitas feel soft and sad, dry them in a skillet for thirty seconds a side. Toast them lightly. Matters more than you'd think.
+
+## Chicken Salad Pita Tips and Common Mistakes
+
+Listen to the pecans. They pop and crackle when they're toasted. That sound means stop. Keep them on the heat and they turn bitter. Doesn't take much.
+
+The lemon juice hits the mayo differently than it hits the salad. Smell it. You want bright, not sour. There's a line.
+
+Don't chop the celery in big chunks. It changes the whole texture. Fine pieces distribute better, give you texture variation with every bite.
+
+Shallots raw. Don't cook them. Their sharpness mellows after an hour in the mayo anyway.
+
+Grape halves stay juicier than quarters. They need surface area to burst.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken Salad in Pita
+
+**Can I make this the day before?**
+Yeah. Keep the salad and pita separate. The bread stays fresh longer that way. Mix them right before you eat.
+
+**What if I don't have shallots?**
+Sweet onion works. Rinse it first if the smell seems too strong. Regular yellow onion is too sharp — tastes like you bit into raw garlic mixed with mayo.
+
+**Do the grapes have to be halved?**
+Halves work best. They burst easier and stay juicier. Quarters get too small, whole grapes are awkward to bite through.
+
+**Can I swap the pecans for something else?**
+Walnuts work fine. Less buttery but fine. Almonds if you want it crunchier. Not cashews though — they're soft, you lose the texture contrast.
+
+**How long does the chicken salad keep?**
+Max twenty-four hours in the fridge. The lemon juice and mayo keep it stable, but after that something shifts. Not dangerous. Just less good.
+
+**What if I don't have white pepper?**
+Black pepper works. It's more visible in the salad but it tastes fine. Doesn't change anything important.
