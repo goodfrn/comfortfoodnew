@@ -1,10 +1,10 @@
 ---
-title: "Bavette Shallot Sauce Fries"
+title: "Bavette Steak with Shallot Sauce & Crispy Fries"
 slug: "bavette-shallot-sauce-fries"
-description: "Bavette marinated in red wine, thyme, and garlic. Shallot sauce finished with cold butter, no boil to keep silky texture. Double fried russet fries crisped at two temps for crunch and softness. Olive oil swapped with grapeseed for neutral fry flavor and better smoke point. White wine vinegar replaced with sherry vinegar for sharper acid pop. Twist: add fresh rosemary to marinade for piney warmth. Rest meat after sear to keep juices. Watch caramelization on shallots to avoid bitterness. Quick soak for fries removes starch but drying well crucial or oil spits. Skip boiling fries; double fry gives ideal texture."
-metaDescription: "Bavette marinated in red wine, thyme, garlic; double fried russet fries crisped at two temps; shallot sauce whisked cold butter, resting steak keeps juices intact."
-ogDescription: "Red wine thyme bavette steak with double fried fries and shallot sauce. Cold butter emulsifies sauce. Rest steak well. Crisp fries need dry soak. Sharp sherry vinegar pop."
-focusKeyphrase: "Bavette Shallot Sauce Fries"
+description: "Pan-seared bavette marinated in red wine, thyme, and garlic. Silky shallot butter sauce with sherry vinegar. Double-fried russet fries for crispy, tender results."
+metaDescription: "Bavette steak with shallot butter sauce and homemade crispy fries. Red wine marinated beef with double-fried potatoes. Make it tonight."
+ogDescription: "Red wine marinated bavette with shallot butter sauce and crispy double-fried russet fries. Restaurant-quality dinner at home."
+focusKeyphrase: "bavette steak with shallot sauce"
 date: 2025-08-02
 draft: false
 image: bavette-shallot-sauce-fries.jpg
@@ -21,9 +21,16 @@ tags:
 - "fried"
 - "main dish"
 keywords:
-- "bavette steak"
-- "double fry fries"
-- "shallot sauce"
+- "bavette steak with shallot sauce"
+- "steak with shallot butter sauce"
+- "red wine marinated flank steak"
+- "pan seared bavette with butter sauce"
+- "double fried russet potatoes with steak"
+- "garlic thyme marinated beef steak"
+- "bavette steak dinner with crispy fries"
+- "shallot sauce for beef"
+- "beef and potato main dish"
+- "crispy homemade fries recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "580"
@@ -87,3 +94,75 @@ faq:
 - "q: How to store leftovers? a: Cool before fridge. Reheat shallow pan or oven to keep fries crisp—microwave makes them soft. Steak best rested room temp before cooling then wrapped tight. Sauce store separate tight container. Reheat gentle to avoid sauce break."
 
 ---
+
+Heat pan on high til smoking. Add butter, swirl to melt. Three minutes per side — listen for the sizzle, not a timer. That sharp sound means the fat's browning right. Pull it off, tent it loosely with foil, let it sit while you do the sauce. Meat keeps cooking when it rests. That's when the juices redistribute instead of running all over the plate.
+
+## Why You'll Love This Bavette Steak Dinner
+
+Takes 30 minutes total and tastes like you spent three hours on it. The red wine marinade goes into the meat — not just sitting on top, actually soaking in — so every bite tastes intentional. Fries are double fried, which means twice the crunch. Once soft, then crisp. Shallot butter sauce doesn't need cream or stock. Just wine, shallots, and cold butter whisked in slow. Works every time if you don't rush the emulsion. Serves two people with zero pretension. Beef and potato main dish that actually works.
+
+## What You Need for Pan Seared Bavette With Butter Sauce
+
+Flank steak. The butcher calls it bavette sometimes — same thing, different name. Six hundred grams, four steaks, scored on one side so the marinade grabs on. Red wine in the marinade — doesn't have to be good wine. Tastes better with it though. Grapeseed oil. Not olive. Burns too easy. Thyme and garlic because they belong here. Salt goes in the marinade and again on the fries. Don't skip either one.
+
+Russet potatoes for the fries. Not Yukon Gold. The skins get crispy on russets. Shallots sliced thin — not minced, thin slices so they cook even. White wine for the sauce. Sherry vinegar. Cold butter cut in cubes so it emulsifies instead of just melting into a puddle. Coarse sea salt for the fries right out of the oil while they're hot.
+
+## How to Make Bavette Steak Dinner
+
+Mix oil, red wine, thyme, and minced garlic in a bowl. Season it. Add the steaks, coat them so every surface touches the marinade, cover it, throw it in the fridge. One and a half to three hours. Less time if the meat's fresh and tender already. More time if you want the wine flavor to really sink in. The timing matters less than the coverage — the meat needs to be completely submerged.
+
+When you're ready to cook, pull the steaks out and pat them totally dry. Any liquid on the surface prevents a good sear. That's the number one mistake. You're not searing the meat — you're steaming it.
+
+Heat your pan on high until it smokes. That's not a suggestion. The pan needs to actually smoke. Swirl in the butter and watch it brown. The moment it stops foaming, it's ready. Lay the steaks in and don't move them. Three minutes per side for rare. The sizzle should be sharp and constant. If it's quiet, the pan isn't hot enough. If it smells like it's burning, lower the heat slightly for the next batch. Every stove is different.
+
+Remove the steaks to a plate and tent them loosely with foil. Let them rest. Five minutes minimum. This is not optional.
+
+## How to Get Bavette Steak Crispy Fries
+
+Cut russet potatoes into sticks. About the thickness of your pinky finger. Soak them in warm water for 10 minutes — this pulls the starch so the fries don't stick together and so they get crispy instead of dense. Drain them and pat them completely dry. Damp potatoes and hot oil don't go together.
+
+Heat oil to 175°C. That's 350°F if you're using Fahrenheit. Fry the potatoes in small batches — don't crowd the pan or they'll steam. Five minutes. They should be soft in the middle, barely colored on the outside. Pale. Almost not done. Drain them on a rack so air can get underneath.
+
+Let them cool for a few minutes. Then increase the heat to 190°C — 375°F. Fry them again, same batches, two to three minutes. This time they go golden and crisp. The exterior shatters when you bite it. That's the double fry. It's the only way.
+
+Drain them, salt them immediately while they're still hot. The coarse salt sticks to the oil. Cold fries don't take salt the same way.
+
+## Shallot Butter Sauce and Plating
+
+Slice the shallots thin. Put them in a pan with white wine and sherry vinegar over low heat. Don't boil it. Small bubbles. A simmer. The wine reduces by nearly half — takes about four to six minutes. You'll see the sauce coat the back of a spoon when it's ready. Lightly coat. Not thick like syrup.
+
+Off heat. This is crucial. Take cold butter cubes and whisk them in one at a time. Slowly. The residual heat melts them while the whisking emulsifies the whole thing. Too hot and the butter separates. Too cold and you're just adding cold lumps. Medium is what you want.
+
+Season lightly with salt and pepper. Keep it warm but don't reheat it.
+
+Slice the steaks against the grain, thickly. Plate them with the fries. Spoon the shallot butter sauce over the meat. Parsley or thyme if you want color. Honestly doesn't matter. The food's already good.
+
+Eat immediately. Fries don't stay crispy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Red Wine Marinated Flank Steak
+
+**Can I use a different cut of beef instead of bavette?**
+Bavette's lean and quick to cook. Ribeye works. So does New York strip. Just adjust the sear time — fattier cuts take longer and the render matters. Thinner cuts like sirloin dry out fast. Not worth it.
+
+**What if I don't have time for three hours of marinating?**
+Thirty minutes works. The meat still picks up flavor. Goes down to maybe 70% of the full thing but it's not ruined.
+
+**How do I know when the butter sauce is ready without a thermometer?**
+You don't need one. Small bubbles, not rolling boil. When you tilt the pan, the liquid coats the side and slowly drips. That's when you know.
+
+**Can I make the sauce ahead of time?**
+Don't bother. It breaks when it cools and reheating just makes it separate into butter puddle. Make it while the steaks rest. Takes five minutes.
+
+**Why does my shallot sauce always break?**
+Too much heat. You're rushing the emulsion. Off heat, cold butter, slow whisking. Also — make sure the pan isn't smoking hot when you start whisking in the butter. Test with a cube first.
+
+**Do I have to double fry the potatoes?**
+Yeah. Single fry leaves them soft inside with pale outside. Double fry is crispy outside, fluffy inside. That's the whole thing. One fry is just soft potatoes.
+
+**What oil should I use for frying?**
+Grapeseed. Canola works. Vegetable oil too. Olive oil burns. Butter burns even faster. Coconut oil has a taste that fights with everything. Skip it.
+
+**Can I prep the fries ahead of time?**
+Cut them, soak them, pat them dry. Store them dry in a container. Don't pile them wet. They'll stick and turn gray. First fry them cold, second fry hot, eat hot. That's the only way.
