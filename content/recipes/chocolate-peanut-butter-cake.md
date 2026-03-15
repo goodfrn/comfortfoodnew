@@ -1,11 +1,11 @@
 ---
-title: "Chocolate Peanut Butter Cake"
-title: "Chocolate Peanut Butter Cake"
+title: "Peanut Butter Cake with Chocolate Ganache"
+title: "Peanut Butter Cake with Chocolate Ganache"
 slug: "chocolate-peanut-butter-cake"
-description: "Three-layer chocolate cake with peanut butter frosting and ganache drip. Instant coffee deepens chocolate flavor while creamed butter prevents grainy texture. Topped with Reese's Pieces for crunch."
-metaDescription: "Make chocolate peanut butter cake with ganache drip and Reese's topping. Deep chocolate flavor, silky frosting, perfect technique inside."
-ogDescription: "Chocolate cake with peanut butter frosting, coffee-deepened cocoa, and chocolate ganache. Layer, fill, drip, top with Reese's."
-focusKeyphrase: "chocolate peanut butter cake"
+description: "Three-layer peanut butter cake with creamy peanut butter frosting and chocolate ganache drip. Made with cocoa powder and instant coffee for deep flavor, topped with Reese's Pieces."
+metaDescription: "Peanut butter cake recipe with chocolate ganache and creamy peanut butter frosting. Three layers of chocolate cake with ganache drip. Make it tonight."
+ogDescription: "Decadent peanut butter cake with chocolate ganache, creamy frosting, and Reese's Pieces crunch."
+focusKeyphrase: "peanut butter cake"
 date: 2025-10-11
 draft: false
 image: chocolate-peanut-butter-cake.jpg
@@ -22,11 +22,16 @@ tags:
 - "dessert"
 - "party"
 keywords:
-- "chocolate peanut butter cake"
 - "peanut butter cake"
+- "chocolate peanut butter cake"
+- "peanut butter frosting"
+- "chocolate ganache cake"
 - "chocolate cake peanut butter frosting"
-- "peanut butter frosting cake"
-- "chocolate and peanut butter cake"
+- "reeses peanut butter cup cake"
+- "three layer cake"
+- "chocolate ganache drip"
+- "creamy peanut butter frosting"
+- "homemade cake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "965"
@@ -107,3 +112,70 @@ faq:
 - "q: How store leftover cake? a: Refrigerate with cover to keep moisture. Ganache firms cold but let cake warm 20 mins before slicing for better texture, less crumb drag. Frosting protects layers from drying. Room temperature okay short term but not more than few hours or frosting melts."
 
 ---
+
+Cut the cake layers first—chocolate, peanut butter frosting, chocolate ganache dripping down the sides. It's 58 minutes total from mixing to a knife sliding through ganache that's just set. Three layers. Two frostings. Looks like you spent the afternoon on it. Takes 35 minutes of prep, 23 in the oven, then some assembly, but nothing hard happens.
+
+## Why You'll Love This Peanut Butter Cake
+
+Chocolate and peanut butter together. Works every time. Feels fancy enough for a party but doesn't need special equipment or skills. The chocolate cake is actually moist—coffee in the batter deepens the cocoa flavor without tasting like coffee. Peanut butter frosting is thick, spreadable, doesn't need a pastry degree. Ganache on top makes it look like a bakery did it. Honestly sits in the fridge fine for a day or two if you make it ahead. Not complicated. Just tastes like you knew what you were doing.
+
+## Ingredients for Chocolate and Peanut Butter Cake
+
+Cake flour. Not all-purpose. The starch ratio matters here. Cocoa powder—unsweetened, not sweetened. You're controlling sweetness with sugar anyway. Baking powder and soda work together; skip one and it falls flat. Salt brings out chocolate. Three eggs, whole milk, canola oil, vanilla. Hot water dissolves instant coffee granules—just a teaspoon or two, enough to sharpen the chocolate flavor. Skip it if you hate coffee. Won't hurt anything.
+
+Unsalted butter cubed and soft. Temperature matters. Cold butter beats rough and grainy. Creamy peanut butter, smooth style—not chunky, not natural oil-separated kind. Powdered sugar sifted because lumps won't break down. Heavy cream to loosen it. Vanilla again.
+
+Ganache uses semi-sweet chocolate chopped fine—dark chocolate works if you want less sweet. Heavy cream and a tablespoon of butter. Optional Reese's Pieces for texture and color on top.
+
+## How to Make Chocolate Peanut Butter Cake
+
+Heat the oven to 355. Three 8-inch pans sprayed. Line bottoms with parchment if your oven runs uneven—heat distribution matters. Sift cake flour, cocoa, baking powder, baking soda, salt together in a medium bowl. Sifting isn't optional here. Clumps kill the texture. You'll feel the difference.
+
+In a large bowl, whisk sugar, eggs, milk, oil, vanilla until it goes pale and frothy. This is where you get air into the batter. Don't overbeat though—batter turns tough if you do. Add the dry stuff slowly, bit by bit. Whisk until just combined. Stop as soon as you can't see flour streaks. Overworking toughens everything.
+
+Dissolve coffee granules in very hot water separately. Stir into batter. Should be thin and pourable now, shiny looking. Not thick. Not gloppy. Use a kitchen scale if you have one—divide batter evenly, about 500 grams per pan. It matters. Tap pans gently on the counter to settle air bubbles.
+
+Bake 23 to 28 minutes. Start checking at 20. Toothpick in the center should come out with a few moist crumbs, not wet batter. Edges smell nutty and dark. Cake shrinks slightly from the pan sides when it's done. Cool 10 minutes in the pans. Flip onto wire racks. Loosely cover while cooling so the top doesn't dry out and crust up.
+
+## How to Get the Frosting and Ganache Right
+
+Beat softened butter on medium speed first. Light, airy, no lumps. Butter temperature actually matters—too cold and lumps won't break down. Add creamy peanut butter, keep mixing until it's smooth and silky. Add sifted powdered sugar in small additions on low speed. This prevents clouds of sugar everywhere. Gradually turn speed up to medium-high. Scrape the bowl edges constantly. Sugar and butter hide in corners.
+
+Add vanilla and heavy cream. Beat 2 to 4 minutes until light and fluffy. Consistency should be thick but spreadable. Too stiff? Add cream one tablespoon at a time. Too loose? Add powdered sugar in half-cup increments. Taste it. Adjust salt if it needs it. Reserve a cup in a piping bag fitted with a decorative tip. Cover it so it doesn't dry out.
+
+For ganache, chop chocolate fine. Put it in a microwave-safe bowl with cream and butter. Microwave 1 minute on high. Let it sit 1 minute—don't stir yet. Residual heat melts everything without seizing it. Whisk gently until silky and glossy. Cool on the counter until it thickens slightly but still pours. Too hot and it runs off. Too cold and it gets chunky. There's a sweet spot.
+
+## Peanut Butter Cake Assembly and Tips
+
+Place the first cooled cake layer on the serving plate. Trim the domed top with a serrated knife—level it so the stack doesn't tilt. Spread about a cup of frosting on top, edge to edge with an offset spatula. Add the second layer, then frosting again. Third layer. Reserve 1 to 1.5 cups for a crumb coat and final coverage.
+
+Crumb coat is optional but saves headaches. Thin layer all around, chill 15 minutes to set, then a thicker final coat. Looks neater that way. Pour ganache when it's just cooled enough to pour but still glossy. Spoon it on the top. Tilt the cake to encourage drips down the sides. Use an offset spatula or bench scraper for an even coat.
+
+Chill the cake for at least 1 hour before piping. Ganache firms beautifully cold. Pipe peanut butter frosting dollops around the edge with the reserved piping bag. Add Reese's Pieces if you want crunch and color. Serve cold or let it sit 20 minutes at room temperature—cold slices cleaner, room temp tastes richer.
+
+Keep it refrigerated if not serving soon. Lasts a couple days easy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Peanut Butter Cake
+
+**Can I make this chocolate peanut butter cake the day before?**
+Yeah. Bake the layers, cool, wrap them. Make frosting and ganache the next day. Assemble and chill. Ganache stays glossy. Frosting doesn't separate. Actually tastes better if you wait a day.
+
+**What if my frosting is too thick to spread?**
+Add cream one tablespoon at a time. Let it sit 5 minutes between additions. Alternatively, warm the offset spatula under hot water, dry it, then spread—heat softens frosting just enough.
+
+**Can I use dark chocolate for the ganache instead of semi-sweet?**
+Sure. Less sweet, more bitter. Works fine. Reese's Pieces on top balance it if you go darker.
+
+**How do I know when the cake layers are actually done baking?**
+Toothpick in the center with a few moist crumbs, not wet batter. Don't pull it out looking for a clean one—that's overbaked and dry. Also listen. The oven gets quiet when cake's done baking.
+
+**Should I level the cake layers?**
+Yeah. Domes make uneven stacking. Use a serrated knife and go slow. Or use a cake leveler if you have one. Matters more than you'd think.
+
+**Can I substitute chunky peanut butter?**
+Not really. Spreads clumpy, doesn't smooth into frosting right. Smooth peanut butter is what you need here.
+
+**How long do I need to chill the cake before serving?**
+Minimum 1 hour so ganache sets. Overnight is fine. Slice better when cold anyway. Let it warm 20 minutes before eating if you want richer flavor.
