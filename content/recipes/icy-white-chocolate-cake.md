@@ -1,10 +1,10 @@
 ---
-title: "Icy White Chocolate Raspberry Cake"
+title: "White Chocolate Raspberry Cake with Buttercream"
 slug: "icy-white-chocolate-cake"
-description: "A white chocolate buttercream frosting layered cake with raspberry mascarpone filling. White chocolate shards mimic winter icicles. Vanilla sponge cake sliced into four layers. Buttercream made with egg yolks, sugar syrup, and melted white chocolate. Raspberries mixed with lemon, sugar, and mascarpone for tart, creamy filling. Chill times vary with temperature. Cake decorated with piped white chocolate lace strips peeled and applied vertically. Serve slightly warmed to soften frosting before slicing."
-metaDescription: "Icy White Chocolate Raspberry Cake with layers of vanilla sponge, raspberry mascarpone filling, and rich white chocolate buttercream. Decorated with white chocolate icicles."
-ogDescription: "Layers of vanilla sponge, raspberry mascarpone filling, white chocolate buttercream. White chocolate icicles decorate. Chill, then warm slightly before serving."
-focusKeyphrase: "Icy White Chocolate Raspberry Cake"
+description: "White chocolate buttercream frosting layered cake with fresh raspberries and mascarpone filling. Vanilla sponge layers with white chocolate shards. Serve slightly warmed."
+metaDescription: "White chocolate raspberry cake with buttercream frosting, fresh raspberries, and creamy mascarpone filling. Four-layer vanilla cake recipe. Make it tonight."
+ogDescription: "Elegant white chocolate cake with fresh raspberries, mascarpone filling, and buttercream frosting layered to perfection."
+focusKeyphrase: "white chocolate raspberry cake"
 date: 2025-07-30
 draft: false
 image: icy-white-chocolate-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "mascarpone"
 - "dessert"
 keywords:
+- "white chocolate raspberry cake"
 - "white chocolate cake"
-- "raspberry filling"
-- "buttercream frosting"
+- "raspberry mascarpone filling cake"
+- "white chocolate buttercream frosting recipe"
+- "layered cake with mascarpone"
+- "four layer vanilla cake with white chocolate"
+- "white chocolate raspberry cake with buttercream"
+- "mascarpone raspberry layered dessert"
+- "raspberry dessert"
+- "white chocolate shards cake decoration"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "450"
@@ -84,3 +91,93 @@ faq:
 - "q: Storage advice? a: Refrigerate whole cake covered tight to protect from fridge odors. Chill for setting buttercream and decorations. Remove 40 minutes before serving for slight softening. Cake holds few days. Parchment strips stick till cutting. Avoid freezing assembled cake; texture and layers suffer."
 
 ---
+
+Vanilla cake. Raspberry. White chocolate. That's the layering that happens. Four layers stacked, and you're not worried because the buttercream holds everything exactly where it needs to be. Eighty minutes of prep, fifteen to bake — but mostly you're doing the fussy stuff while the cakes cool, tempering chocolate, piping icicles, watching it all come together into something that looks like it took all day.
+
+## Why You'll Love This White Chocolate Raspberry Cake
+
+Sounds complicated. Isn't — just takes patience, not skill.
+The mascarpone cuts through sweetness. Raspberries stay tart. Everything balances.
+You can do the filling and buttercream a day ahead. Assembly the morning of.
+Those white chocolate shards don't actually require tempering expertise — they just need you to follow along, and they'll work.
+Cold straight from the fridge, or soften it on the counter for forty minutes. Works both ways, tastes different each time.
+
+## What You Need for Layered Cake with Mascarpone
+
+Two vanilla cakes, 22 centimeters. Store-bought works. Homemade tastes better. Same difference for the finishing.
+
+Egg yolks — three. Not the whites. The yolks carry the buttercream.
+
+Water, sugar, corn syrup. Heat them to 118 degrees Celsius. This is the only temperature that matters in this whole recipe.
+
+White chocolate. Two separate amounts — 140 grams melted into the buttercream, 190 grams for the icicles. Don't mix them up. Different jobs.
+
+Vanilla extract. Just the pure kind. The imitation stuff tastes like plastic here.
+
+Butter. Unsalted. 275 milliliters, softened to room temperature. Cold butter won't beat in. Warm butter breaks apart. Room temp is the only option.
+
+Raspberries. Fresh or frozen. Frozen works just as well. Same result.
+
+Mascarpone. One 300-gram container. Not ricotta. Not cream cheese. Mascarpone is thicker, richer, does a different thing.
+
+Lemon juice. Forty milliliters. Fresh. The acid keeps everything from sliding into pure sugar.
+
+Parchment paper for the icicles. Something to draw on, something to pipe onto, something to peel away after.
+
+## How to Make Four Layer Vanilla Cake with White Chocolate Buttercream
+
+Start with the raspberry filling because it needs to chill. Toss 280 milliliters of raspberries — fresh or frozen, doesn't matter — with sugar and lemon juice. If they're frozen, let them sit for fifteen minutes. They'll release juice. Then blend the mascarpone in with an electric mixer. Keep going until it stops looking lumpy and turns creamy. Put it in the fridge while you do everything else.
+
+Level the cake tops. Cut each one horizontally into two layers. You end up with four layers total. This is mechanical. A serrated knife works. A cake leveler works better but you probably don't have one. Just make the cuts even enough.
+
+The buttercream is where the recipe gets real. Egg yolks go in a large bowl. Water, sugar, and corn syrup go into a saucepan. Bring it to a boil, then watch the temperature climb. When it hits 118 degrees Celsius — that's 245 Fahrenheit — stop. Don't wait. Don't keep heating.
+
+Pour that hot syrup slowly over the yolks while your mixer runs on medium. This is the part where people get nervous. The syrup is molten. The eggs are raw. The mixer does the work — just pour slowly, not all at once, and you're safe. Beat until the whole thing cools completely. This takes maybe twenty minutes. The mixture goes pale, thick, almost mousse-like. That's when you know.
+
+Fold in the melted white chocolate. Then the vanilla. Then the butter cubes, gradually, beating until it looks like frosting. Scrape the bowl. Make sure nothing's hiding at the bottom. This buttercream is glossy, spreadable, holds a shape.
+
+## How to Get White Chocolate Shards and Icy Details Right
+
+Tempering white chocolate is easier than people say. Chop 190 grams into pieces. Melt two-thirds of it — double boiler, or microwave in thirty-second bursts, stirring. Temperature doesn't have to be exact. Just melted. Then add the remaining chocolate. Stir it in. This brings the temperature down and stabilizes the cocoa butter. If it's too thick, reheat gently for a few seconds. That's tempering. No thermometer needed.
+
+Draw three rectangles on parchment paper. Forty-four by fifteen centimeters each. These are your guides. Use a piping bag with a fine round tip — two millimeters, roughly. Pipe vertical hatch marks inside each rectangle. Tight lines. Close together. They should look like something frozen, fractured, sharp. Not a pattern. Not perfect. Just icy.
+
+Chill for twelve minutes or leave at room temperature until hardened. Room temp takes about an hour. Cold is faster but both work.
+
+Peel the chocolate lace away from the parchment carefully. It breaks easily. Work in pieces — eight-centimeter strips. Press the flat side against the frosted cake sides. Work your way around, building up layers of shards until it looks jagged and frosted. The pieces don't need to match or line up. The whole point is that they look random.
+
+## White Chocolate Mascarpone Cake Tips and Common Mistakes
+
+Softened butter matters more than you think. If it's too cold, the buttercream stays grainy. If it's too warm, it collapses. Room temperature. Actually room temperature, not close enough.
+
+The candy thermometer reads 118 degrees Celsius. Not 120. Not 115. It's a narrow window. Get there and stop.
+
+Mascarpone separates if you overmix it. Blend just until smooth. Stop. The second you start seeing liquid, you've gone too far.
+
+The four cake layers should be even. Uneven layers make the whole thing lean. Take your time cutting them horizontal.
+
+The icicles break. They're supposed to be fragile. If you're terrified you'll destroy them, you've already destroyed them mentally. Just peel and press. Some will crack. Use the pieces anyway.
+
+Serve it cold or at room temperature. Cold, the buttercream is firm and clean. Forty minutes out of the fridge, it's softer, more mousse-like. Both taste better than the other depending on the day.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About White Chocolate Buttercream Frosting Recipe
+
+**Can I make the buttercream the day before?**
+Yeah. Make it, cover it, refrigerate it. Bring it back to room temperature the next day and re-whip it for a minute. Loosens it back up.
+
+**What if my syrup doesn't hit 118 degrees?**
+It won't set right. The temperature's doing something chemical to the eggs. Can't skip it. A candy thermometer is the only way to know.
+
+**Do I actually need mascarpone or can I use cream cheese?**
+Mascarpone's different. Thicker. Richer. Cream cheese will work but it tastes sharp, watery. Not the same cake. Just use mascarpone.
+
+**How long does the whole thing take?**
+Eighty minutes prep. Fifteen minutes for the cake part if you're starting from scratch with vanilla cakes already baked. But most of that's tempering chocolate, piping icicles, letting things chill. You're not actually cooking the whole time.
+
+**Can I use frozen raspberries?**
+They're actually better here because they release more juice. Thaw them in the sugar mixture for fifteen minutes and that's it.
+
+**What if the white chocolate icicles won't stick?**
+The buttercream needs to be set but not rock hard. Should give a little when you press. If they're not holding, let the frosted cake sit in the fridge for thirty minutes and try again.
