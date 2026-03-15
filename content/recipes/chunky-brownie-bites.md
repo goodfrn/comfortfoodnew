@@ -1,9 +1,9 @@
 ---
-title: "Miniature Brownies with Chocolate Chunks"
+title: "Miniature Brownies with Peanut Butter Frosting"
 slug: "chunky-brownie-bites"
-description: "Fudgy miniature brownies baked in muffin tins with chocolate chunks folded in. Peanut butter frosting with a salt finish. Ready in under 30 minutes."
-metaDescription: "Miniature brownies recipe: chocolate chunks, muffin tin baked, peanut butter frosting. Make these fudgy bites tonight."
-ogDescription: "Chunky brownie bites with melted chocolate and peanut butter frosting. Baked in a muffin pan for perfect portions."
+description: "Fudgy miniature brownies made with chocolate chunks and baked in muffin tins. Topped with creamy peanut butter frosting and sea salt. Ready in under 30 minutes."
+metaDescription: "Miniature brownies with chocolate chunks and peanut butter frosting. Baked in muffin tins with a flaky sea salt finish. Make it tonight."
+ogDescription: "Fudgy miniature brownies with chocolate chunks, peanut butter frosting, and sea salt. Baked in muffin tins. Ready in 30 minutes."
 focusKeyphrase: "miniature brownies"
 date: 2026-01-20
 draft: false
@@ -23,14 +23,16 @@ tags:
 keywords:
 - "miniature brownies"
 - "brownie cups"
-- "brownies muffin pan"
-- "brownie in mini muffin pan"
-- "fudgy brownie bites"
-- "chocolate brownie bites"
 - "brownie pops"
-- "brownie circles"
-- "two bite brownies"
 - "frosting bites"
+- "brownies muffin pan"
+- "fudgy brownie bites"
+- "brownie bites"
+- "chocolate brownie pops"
+- "peanut butter brownies"
+- "mini muffin brownies"
+- "two bite brownies"
+- "brownie circles"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "250"
@@ -82,3 +84,95 @@ faq:
 - "q: How to store leftover bites? a: Airtight container refrigeration extends life but frost firms up hard. Room temp short term softens frost but short window. Freezing works but frost texture changes; thaw slowly to avoid condensation sogginess. Rewarm slightly to soften if frost too stiff."
 
 ---
+
+Three tablespoons of butter, chocolate chunks, and 17 minutes to something better than store-bought. These aren't fussy—just small enough to eat without guilt, chocolatey enough to actually matter.
+
+## Why You'll Love These Miniature Brownies
+
+Takes 45 minutes total. Seventeen minutes of actual work.
+Makes 18 of them. One pan. Comfort food without the commitment.
+Peanut butter frosting on top—cuts the richness, makes it feel less heavy than a full brownie. Works for parties or just Wednesday.
+Crack on top means they're done right. Dense and fudgy the way brownies should be.
+Flaky salt on the frosting. Sounds weird. Changes everything.
+
+## What You Need for Brownie Cups
+
+All-purpose flour. One cup. Sift it—not optional. Air in the flour keeps them from turning into hockey pucks.
+
+Sea salt. Fine kind. Half a teaspoon mixed into the flour.
+
+Bittersweet chocolate chunks. Two thirds of a cup total—a third cup for melting with butter, then the other half cup folded in at the end. Don't use chocolate chips. They don't melt right.
+
+Unsalted butter. Seven tablespoons for the batter. Two more tablespoons softened for the frosting later.
+
+Two eggs. Big ones. Room temperature works better but cold eggs work fine too.
+
+Sugar. Three quarters cup granulated for the batter. One and a quarter cups powdered sugar for frosting.
+
+Vanilla extract. One teaspoon. Real extract. The fake stuff tastes thin.
+
+Peanut butter. Creamy. Five tablespoons. Smooth or chunky, doesn't matter.
+
+Heavy cream. Four tablespoons. That's what makes the frosting actually taste like something instead of just sweet powder.
+
+Flaky sea salt for the top. Not fine salt. The big crystals.
+
+Eighteen muffin liners. Good ones. Cheap ones stick and tear.
+
+## How to Make Miniature Brownies
+
+Set your oven to 320°F. Line eighteen muffin cups with liners. Don't skip this step or they'll stick.
+
+Sift the flour and fine sea salt together in a bowl. Actually sift it. Not just stir. The air makes a difference in how they turn out.
+
+Microwave seven tablespoons of butter with a third cup of chocolate chunks for about 35 seconds. The edges should look melted and glossy but not fully liquid. Stir it hard and fast—the warmth finishes melting the chocolate into the butter. This matters for blending with eggs later.
+
+Whip two eggs and three quarters cup of sugar in a large bowl until it thickens and ribbons form when you lift the beater. Takes a few minutes. Add one teaspoon of vanilla extract now.
+
+Slowly pour the melted butter and chocolate mix into the egg mixture while whisking gently. You're tempering the eggs—if you dump it all in at once, you'll scramble them. Go slow.
+
+Fold the sifted flour into the batter. Don't overmix. Lumps are fine. They keep the crumb fudgy instead of cakey. Then fold in the remaining half cup of chocolate chunks by hand.
+
+Spoon batter into the muffin liners until they're about two thirds full. Tap the tin gently on the counter to settle everything and release air bubbles stuck in the batter.
+
+## How to Get Brownie Bites Perfect in a Muffin Pan
+
+Bake for 22 to 28 minutes. Watch for cracks on top and the edges pulling slightly away from the liners. The centers should jiggle just a tiny bit when you nudge the pan, but you shouldn't see raw batter. Don't go by the timer—visual cues matter more. Overbaking makes them dry and dull on top.
+
+Cool them completely in the tin. Don't rush. Warm brownies fall apart when you try to frost them. Patience here saves cleanup later.
+
+## Brownie Bites Tips and Common Mistakes
+
+Use good liners. Cheap ones aren't worth the frustration. Your brownies stick and tear. Not fun.
+
+Don't skip sifting the flour. It sounds old-fashioned but it actually works. You get a lighter crumb.
+
+The chocolate chunks thing—bittersweet matters. Semisweet brownies taste too sweet. Dark chocolate gets bitter. Bittersweet is the middle ground that just works.
+
+For the frosting, beat softened butter and peanut butter until it's pale and creamy. It should look almost fluffy. Then add powdered sugar gradually while mixing. Add heavy cream slowly—it makes it pipeable without being runny.
+
+If your frosting's too stiff, add more cream a tablespoon at a time. Too soft, add a bit more powdered sugar. You'll figure it out.
+
+The flaky salt on top cuts through the sweetness of the frosting. It's the best part. Don't skip it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Miniature Brownie Cups
+
+**Can I make these brownie bites from a brownie mix instead of from scratch?**
+Yeah, probably. Follow the mix directions but divide it into muffin liners instead of a regular pan. They'll bake faster—start checking around 15 minutes. Not quite the same fudgy texture but it works.
+
+**How long do brownie cups last if I store them?**
+Three or four days in an airtight container. They dry out after that. Frosting firms up in the fridge, so let them sit at room temperature for a bit before eating if they've been cold.
+
+**Can I make these in a mini muffin pan instead?**
+Yes. They'll bake faster—maybe 12 to 15 minutes instead of 22 to 28. Check them early. Smaller brownies bake quick and it's easy to overbake.
+
+**What if I don't have peanut butter frosting?**
+You don't need it. Brownies are fine on their own. Or make a basic chocolate frosting with butter, powdered sugar, and cocoa. Different but still works.
+
+**Do I really need to sift the flour?**
+Technically no. But it makes them lighter. The sifting just takes two minutes and makes them actually good. Worth it.
+
+**Can I freeze these brownie bites?**
+Freeze the unfrosted brownies in the pan, then pop them out and wrap them individually. They thaw in like 20 minutes. Frosting gets weird when frozen so frost them after they thaw.
