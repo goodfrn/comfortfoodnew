@@ -1,9 +1,9 @@
 ---
-title: "Chunky Peanut Toffee Bark"
+title: "Chunky Peanut Toffee Bark with Chocolate"
 slug: "chunky-peanut-toffee-bark"
-description: "Peanuts layered thick in a parchment-lined pan. Butter, brown sugar, and a splash of almond extract heated slowly to a rich caramel color, just before it ribbons from the spoon. Poured hot over nuts, spread fast. Dark chocolate chips cascaded on top, melting into glossy rivers. Chopped salty roasted peanuts tossed over chocolate for crunch contrast. Cooled at room temp till firm, then refrigerated to snap. Sweet, salty, sticky, and deeply toasty. Takes a bit of watching around simmer but worth the patience. Sub chili flakes for heat, or swap walnuts if peanuts not your thing. Keeps well in fridge; breaks clean crisp on bite."
-metaDescription: "Chunky Peanut Toffee Bark with thick caramel ribbons over roasted peanuts topped by melting chocolate chips and chopped nuts. Crunchy, sticky, with salty-sweet hits."
-ogDescription: "Thick caramel draped over roasted peanuts, melted chocolate spread glossy, topped with chopped nuts. Sticky, crunchy bites that snap crisp after fridge chill."
+description: "Chunky peanut toffee bark layered with roasted salted peanuts, brown sugar caramel, and semi-sweet chocolate chips. Sweet, salty, and deeply toasty homemade candy."
+metaDescription: "Make peanut toffee bark with roasted peanuts, brown sugar caramel, and chocolate chips. This homemade candy snaps crisp and keeps for days. Try it tonight."
+ogDescription: "Roasted peanuts meet brown sugar caramel and chocolate in this homemade bark. Sweet, salty, and addictively crispy."
 focusKeyphrase: "peanut toffee bark"
 date: 2026-01-14
 draft: false
@@ -21,9 +21,15 @@ tags:
 - "caramel"
 - "peanut butter"
 keywords:
-- "toffee bark"
-- "peanut toffee"
-- "caramel peanut recipe"
+- "peanut toffee bark"
+- "chocolate peanut candy"
+- "homemade toffee bark"
+- "caramel peanut bark recipe"
+- "brown sugar caramel peanut bark"
+- "chocolate toffee bark with peanuts"
+- "roasted peanut toffee bark with chocolate chips"
+- "butter toffee peanuts chocolate"
+- "peanut brittle candy"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "210"
@@ -62,3 +68,77 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly to avoid moisture. Room temp okay few days if dry; fridge better for longer crisp snap. Avoid freezer—moisture makes toffee soft or sticky. Crumbs good ice cream topping or snack sprinkle."
 
 ---
+
+Spread two cups of peanuts flat on parchment first. This matters more than you'd think—gaps in the base mean the toffee slides around when it's hot. Line a 9x13 pan. Make sure the parchment goes up the sides a bit.
+
+## Why You'll Love This Chunky Peanut Toffee Bark
+
+No mixer needed. Just a saucepan and patience.
+Tastes like expensive chocolate peanut candy from a fancy shop. Costs about a dollar to make.
+Breaks into actual chunks instead of shattering into dust. The peanuts hold it together.
+Works cold. Works at room temp. Snack straight from the fridge or leave it on the counter.
+Brown sugar caramel gives it a deeper thing going on—not just sweet. Tastes like it spent time becoming something.
+
+## What You Need for Homemade Toffee Bark
+
+Two cups roasted salted peanuts. Spread them flat. Gaps ruin it.
+Half a cup unsalted butter. Has to be unsalted because the peanuts are already salty and the brown sugar caramel gets sweet fast.
+Brown sugar. One and a half cups. Pack it down in the measuring cup. The moisture matters.
+Almond extract. One teaspoon. Sounds weird. Changes everything. Don't skip it.
+Semi-sweet chocolate chips. A cup and a half. Not milk chocolate. Too soft. Not dark—covers up the peanuts.
+Chopped roasted salted peanuts for the top. A quarter cup. These are just for garnish basically.
+
+## How to Make Chocolate Toffee Bark
+
+Melt the butter and brown sugar together in a medium saucepan over medium heat. Don't rush it. Stir until the butter actually dissolves—watch the sugar break apart and the mixture goes smooth, then it starts to look almost wet again. Takes about 5 minutes. Maybe 6.
+
+Let it simmer. Stir it once in a while. You're watching for the color to shift. It'll start yellow-brown, then bronze, then the color of actual caramel—like dark honey or old wood. That takes 7 to 10 minutes. Don't walk away. The line between perfect and burnt is about 90 seconds here.
+
+The mixture gets darker and thicker. It bubbles smooth—not aggressive, just steady little pops. The almond extract goes in once it starts smelling like caramel. Stir once. You'll smell it immediately. That's the sign.
+
+When it thickens enough that it falls from a spoon in a ribbon—slow, not a stream—it's ready. Pour it directly over the peanuts. Work fast but don't panic. The heat carries it.
+
+## How to Get Peanut Toffee Bark Crispy and Set
+
+Use an offset spatula to spread the caramel over the peanuts. Push it into the corners. Some nuts will stick up—that's fine. They get coated anyway.
+
+The chocolate happens right after. Dump the chips straight onto the hot toffee. Don't spread them yet. Let them sit in the heat for 3 to 5 minutes. They soften but don't fully melt—the chips need the residual heat from the toffee below. Watch them go from solid to glossy.
+
+Spread the chocolate with the offset spatula once they're soft. Don't overwork it. Just smooth it out. Some swirls are good. Some chips might stay chunky on top—leave them.
+
+Sprinkle the quarter cup of chopped peanuts while the chocolate is still warm. They stick. They don't stick if you wait.
+
+Leave the pan on the counter. This matters. Room temp for about 2 hours. The whole thing sets gradually. You're letting gravity settle it and the chocolate firm up from the inside out. Then chill it in the fridge until it's hard enough to break—maybe another 30 minutes. Could be an hour if your fridge is warm.
+
+Break it into pieces once it's fully set. The chunks come out uneven and weird-shaped. That's the point. This isn't supposed to be neat.
+
+## Brown Sugar Caramel Peanut Bark Tips and Mistakes
+
+Watch the heat the whole time. It goes from caramel to burnt in one minute of inattention. Keep the burner at medium, not medium-high.
+The peanuts on the bottom stay crunchy the whole way through. They don't get soft. The toffee around them gets chewy.
+Don't use chopped peanuts for the base layer—use whole roasted salted ones. Different texture. Whole ones hold the structure.
+The bark sets hard but snaps instead of shattering. It's actually impossible to bite cleanly. That's correct.
+If your kitchen is hot, chill it faster. If it's cold, it sets on the counter fine.
+Almond extract sounds optional. It's not. It makes the caramel taste like it went somewhere. Without it, it tastes like plain toffee.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Toffee Bark with Peanuts
+
+**Can I use salted butter instead of unsalted?**
+Skip it. The peanuts and their salt are already in there. Salted butter pushes it too far.
+
+**What if my caramel breaks or looks separated?**
+It's supposed to look slightly separated while it's cooking. Keep stirring. It comes back together. If it splits completely and stays split after 30 seconds of stirring—it got too hot. Start over.
+
+**How long does this last?**
+Three weeks in an airtight container at room temp. Longer in the fridge if you stack it with parchment between layers.
+
+**Can I use milk chocolate instead of semi-sweet?**
+Doesn't work as well. Milk chocolate is softer and thinner. The bark gets floppy instead of snappy. Semi-sweet has enough cocoa butter to hold its shape.
+
+**Why does mine look grainy?**
+The brown sugar crystallized. Heat was too low or you didn't stir enough early on. Next time, stir constantly for the first 8 minutes, then let it sit and just watch it.
+
+**Do I have to use an offset spatula?**
+Any flat spreader works. Butter knife if that's what you have. The offset just makes it easier because it doesn't drag the toffee underneath.
