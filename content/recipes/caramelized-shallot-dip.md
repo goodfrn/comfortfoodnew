@@ -1,9 +1,9 @@
 ---
-title: "Caramelized Shallot Dip"
+title: "Caramelized Shallot Dip with Greek Yogurt"
 slug: "caramelized-shallot-dip"
-description: "Caramelized shallow sauté for around 12 minutes, swapped sweet onion with shallots for sharper aroma, mixed thick yogurt and mayo with a hint of smoked paprika. Dive into layers of deep savory, creamy texture balanced by subtle smoky warmth. Chill recommended for flavors to meld, but tactile cues and aroma guide readiness best. Includes tips on oil substitution, caramelization control, and garlic timing for best punch without bitterness. Serve straight with chips or crudités."
-metaDescription: "Caramelized shallot dip thick with smoky paprika and tangy yogurt mayo blend. Slow-cooked aroma, balanced seasoning, chilled to meld flavors. Rustic French-inspired snack."
-ogDescription: "Deep caramelized shallots meet creamy Greek yogurt and mayo. Smoked paprika adds smoky depth. Chill to meld or serve fresh with chips or crudités."
+description: "Caramelized shallot dip blends Greek yogurt and mayo with smoked paprika for a creamy appetizer. Deep savory flavors perfect for chips or crudités."
+metaDescription: "Caramelized shallot dip made with Greek yogurt, mayo, and smoked paprika. Creamy, savory appetizer that's perfect for entertaining. Make it tonight."
+ogDescription: "Creamy caramelized shallot dip with Greek yogurt, mayo, and smoked paprika. A savory crowd-pleaser ready in minutes."
 focusKeyphrase: "caramelized shallot dip"
 date: 2025-09-23
 draft: false
@@ -20,9 +20,14 @@ tags:
 - "vegetarian"
 - "easy"
 keywords:
-- "caramelized shallots"
+- "caramelized shallot dip"
+- "shallot dip recipe"
 - "Greek yogurt dip"
-- "savory snack dip"
+- "smoked paprika dip"
+- "caramelized shallots"
+- "creamy appetizer dip"
+- "homemade party dip"
+- "yogurt mayo dip"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "140"
@@ -58,3 +63,89 @@ faq:
 - "q: How long can leftovers keep? a: Fridge up to 3 days sealed. Don’t leave out long; dairy and garlic sensitive. Stir before serving if oils separate. Adding fresh lemon juice after storage can brighten dip again. Freeze not recommended, texture odd after thaw."
 
 ---
+
+Shallots in the pan. Medium-low heat, oil shimmering but not moving fast. Stir them—not constantly, just often enough that they don't stick to one spot and burn before the rest catches up. Twelve to fourteen minutes. Maybe more if your shallots are thick. The smell changes first, then the color. That's your cue.
+
+## Why You'll Love This Caramelized Shallot Dip
+
+Takes 28 minutes total. Most of that is just standing there listening to them cook.
+Works as an appetizer or a snack—same dip, different moment.
+You probably have mayo and Greek yogurt already. Just need shallots.
+Tastes better the next day. Something about sitting overnight makes it deeper.
+Vegetarian, naturally. Zero fuss on that front.
+
+## What You Need for Caramelized Shallot Dip
+
+One large shallot. Finely chopped. Size matters here—smaller pieces caramelize more evenly. Not sliced. Chopped.
+
+Two tablespoons of avocado oil. Olive oil works. Avocado oil doesn't smoke as easy, which matters on medium-low when you're doing this slowly. Butter burns. Skip it.
+
+One garlic clove. Minced fine. This goes in at the very end—garlic cooks fast, way faster than shallots, and bitter tastes immediately.
+
+Three-quarter cup Greek yogurt. The 10% kind if you can find it. Thinner than the thick stuff. Makes the texture less dense.
+
+Three-quarter cup mayo. Just mayo. Not Miracle Whip. Not some weird substitute.
+
+One teaspoon smoked paprika. This replaces salt in terms of flavor—gives it a smoky thing that makes people ask what's in it. That's the point.
+
+Salt and black pepper. Pinch of each early. More after everything's mixed.
+
+## How to Make Caramelized Shallot Dip
+
+Heat the oil in a skillet over medium-low. Don't skip the medium-low part. High heat means burnt edges and raw centers. You want slow, which feels annoying but works.
+
+Add the shallots. Stir them around. Then mostly leave them alone. Stir every minute or so—enough that they don't catch fire in one spot, not so much that you're constantly fidgeting. The sound changes. At first it's a sharp sizzle. Then it quiets down. That's when you know they're getting there.
+
+Color happens last. Golden at first. Then deeper. Then the shade of old caramel, which sounds dark but it's not burnt. Burnt is black. Caramelized is brown. There's a difference.
+
+Salt and pepper go in early—maybe halfway through, when they're already soft but not yet brown. Just a pinch. Finish seasoning later.
+
+The garlic goes in at the last 30 to 45 seconds. Minced. Tiny. It'll smell amazing immediately and that's your signal to pull the pan off heat. Don't wait for it to turn golden. Garlic golden is garlic bitter.
+
+## How to Get the Caramelized Shallot Dip Texture Perfect
+
+Cool the whole thing in an airtight container. Thirty to 45 minutes in the fridge. You're not trying to chill it all the way—you're just thickening the mixture naturally while the shallots release their liquid and it reduces.
+
+Mix the cooled shallots and all their oil with the yogurt and mayo. Add the smoked paprika. Stir. The color will be pale with darker flecks. That's right.
+
+Taste it. Adjust salt and pepper. This is critical—mayo can hide salt, so you'll probably need more than you think. Not a lot. Just enough that it tastes like something.
+
+The texture should be thick but spreadable. Not chunky. Not too smooth. If it's too thick, stir in a splash of milk or lemon juice. Not much. A teaspoon at a time. Lemon juice also brightens it, which helps if the smoke and caramel felt too heavy.
+
+Chill if you want. Serve cold or room temperature. Works both ways.
+
+## Caramelized Shallot Dip Tips and Common Mistakes
+
+Don't rush the caramelization. There's no trick. It just takes time. Some people try to speed it up with high heat—burnt shallots taste bitter and sharp, which defeats the entire point.
+
+Garlic last. Every time. Garlic early means garlic bitter. It's not complicated.
+
+The mayo-to-yogurt ratio can shift. More mayo if you want it richer. More yogurt if you want it lighter. Either one works. Neither one breaks the dip.
+
+Smoked paprika is not negotiable. Regular paprika tastes like nothing. Smoked paprika is why people taste this and say "what is that flavor." That.
+
+Leftovers last about three days sealed. After that the mayo starts separating slightly. Still fine to eat. Just looks weird.
+
+If you forgot to cool it and just mixed everything hot, it'll work. Thinner. Serve it and move on. Not worth re-doing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Caramelized Shallot Dip
+
+**Can I use red onions instead of shallots?**
+Not really. Onions get sweeter when they caramelize but they're different—sharper even when done right. Shallots are the thing here.
+
+**What if my shallots burn?**
+Pull them out. Start over. Burnt tastes bad and you can't fix it. Takes 28 minutes. Not that long.
+
+**Do I have to use Greek yogurt?**
+Sour cream works. Makes it tangier. Regular yogurt thins it out too much. Mayo alone gets weird and heavy.
+
+**Can I make this ahead?**
+Yeah. Day before is actually better. Flavors sit together overnight and get deeper. Keep it sealed.
+
+**What should I serve it with?**
+Carrots. Celery. Crackers. Chips. Bread. Whatever you have. It's not picky.
+
+**Why does the recipe cool it before mixing?**
+Warm mayo is weird. Separates. The cooling also thickens the shallot mixture so the dip stays thick instead of loose.
