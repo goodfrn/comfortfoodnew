@@ -1,10 +1,10 @@
 ---
-title: "Herb-Roasted Chicken Couscous"
+title: "Roasted Chicken With Couscous and Harissa"
 slug: "herb-roasted-chicken-couscous"
-description: "Two whole chickens roasted on a bed of vegetables infused with herb seasoning and a spicy tomato sauce. Served alongside fluffy couscous soaked in chicken broth. Includes chickpeas, zucchini, carrots, onions, and a kick of harissa. Cooking stages rely on aroma, color, and texture cues rather than clock alone. Midway addition of veggies and sauce ensures moisture and depth. Chicken internal temperature guides doneness. Substitutions provided for herbs and spice. Perfect balance between roasting and simmering in one pan for layered flavors."
-metaDescription: "Herb-Roasted Chicken Couscous with slow roasted birds on herbed veggies, chickpeas, zucchini, harissa heat, and fluffy couscous soaked in stock. Layers of texture."
-ogDescription: "Two chickens roast over veggies with spicy harissa, chickpeas, tomatoes in a rich tomato sauce. Fluffy couscous soaks up broth; herbs and aroma guide timing."
-focusKeyphrase: "herb-roasted chicken couscous"
+description: "Roasted chicken with couscous, carrots, zucchini, and chickpeas in spicy harissa tomato sauce. Herb-seasoned birds cooked in one pan for layered Mediterranean flavors."
+metaDescription: "Roasted chicken with couscous recipe featuring carrots, zucchini, chickpeas, and harissa paste. One-pan Mediterranean dinner with herb seasoning and tomato sauce. Make it tonight."
+ogDescription: "Herb-seasoned roasted chicken with couscous, chickpeas, carrots, and zucchini in spicy harissa tomato sauce. Mediterranean comfort food."
+focusKeyphrase: "roasted chicken with couscous"
 date: 2025-08-02
 draft: false
 image: herb-roasted-chicken-couscous.jpg
@@ -21,9 +21,16 @@ tags:
 - "spicy"
 - "couscous"
 keywords:
-- "roasted chicken"
-- "couscous"
-- "harissa paste"
+- "roasted chicken with couscous"
+- "spicy harissa chicken couscous recipe"
+- "roasted chicken with chickpeas and vegetables"
+- "mediterranean roasted chicken with couscous"
+- "herb seasoned roasted chicken"
+- "roasted chicken carrots zucchini"
+- "harissa tomato roasted chicken"
+- "one pan roasted chicken dinner"
+- "mediterranean chicken and couscous"
+- "spicy roasted chicken recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "570"
@@ -71,3 +78,104 @@ faq:
 - "q: How to store leftover chicken and couscous? a: Keep them separate if possible. Chicken cool, wrap in foil or airtight container. Couscous stores in fridge covered. Reheat chicken gently—oven or pan to avoid drying. Couscous prefers quick steam cover in microwave or skillet with splash water to revive fluffiness. Leftovers last 3-4 days packed tight. Avoid reheating multiple times."
 
 ---
+
+Two kilos of chicken. Vegetables scattered underneath. The oven does the work. Two and a half hours and you've got a whole meal — roasted chicken, sauce, couscous all from one pan basically. That's the idea here.
+
+## Why You'll Love This Spicy Herb Roasted Chicken with Couscous
+
+Feeds a crowd without heating the whole kitchen like a stovetop would. One oven. Done.
+Mediterranean flavors — harissa, herbs, tomato — but not fussy. Takes 40 minutes of prep, then you're just watching it brown.
+Leftovers work cold. Couscous soaks up the sauce overnight, gets better. The chicken shreds into salads, sandwiches, whatever.
+Juices from the chicken season the vegetables underneath. You're not making sauce separately. It happens while you roast.
+Works for company or Sunday dinner. Looks like you spent hours. Didn't.
+
+## What You Need for Mediterranean Roasted Chicken with Chickpeas
+
+Two chickens, roughly 1.9 kilos each. Not pre-brined. Just pat them dry before seasoning.
+
+Seven large carrots cut thick — rounds, about 1 to 1.5 centimeters. Smaller pieces get too soft, fall apart.
+
+Three large onions quartered. Raw here, they'll steam in the chicken drippings, turn sweet and soft. Not the same if you skip them.
+
+Three cloves garlic. Peel them. Leave whole. Gets mellow when roasted long.
+
+Herb blend — parsley, thyme, rosemary, savory if you have it. Store-bought works. Homemade better. 150 milliliters total. Sounds like a lot. It's not.
+
+25 milliliters vegetable oil. Olive oil can burn at this temp. Save it for finishing.
+
+One can chickpeas. Rinsed. The canned liquid tastes like metal. Dump it.
+
+Three medium zucchinis diced. Three medium tomatoes diced. Fresh tomatoes matter here. Canned gets too acidic once reduced.
+
+20 milliliters tomato paste. 8 milliliters harissa paste. The spice comes from there. Adjust up if you like heat more.
+
+1.2 liters chicken stock. Low sodium. Homemade if you have it.
+
+650 grams couscous. Pearl couscous or regular. Pearl stays looser. Regular gets creamy if you're not careful.
+
+## How to Make Spicy Herb Roasted Chicken and Couscous
+
+Mid-level oven rack. Set heat to 185°C. I've burned the skin at 190. The extra five degrees matters.
+
+Scatter carrots, onions, garlic on a large roasting pan — high-sided, you'll need it for the sauce later. Toss them in the oil and cracked pepper. Lots of pepper. This is your vegetable base. They're going to roast and steam at the same time, pick up sweetness and char notes underneath the chicken.
+
+Set a rack over the vegetables. The chicken goes on top. Juices drip down. You're using the bird to flavor everything underneath.
+
+Rinse the chickens. Pat them completely dry — this is the step that separates crispy skin from rubber. Dry birds. Rub half the herb mix inside each cavity. Don't skimp here. It infuses slowly into the meat. Rub the other half all over the skin, breasts, thighs, everywhere you can reach. Let them sit uncovered for 15 minutes. The skin tacks up. Gets tight. Roasts crisper.
+
+Place them breast-side up on the rack. Slide the whole thing in. Roast uncovered for about an hour. Watch the skin — you want it golden, not deep brown. Look for bubbles in the cavity opening, little bubbles in the juices. That's heat reaching the center without drying the meat out. If you're unsure, poke the thickest part of the thigh. Should feel firm but springy, not hard.
+
+Now the vegetables get their moment. Lift the rack with the chickens off the pan. Set it on a baking sheet to catch drips. Stir the chickpeas, zucchini, tomatoes, tomato paste, harissa, and half the stock into whatever's in the roasting pan. The vegetables are soft now. This mixture — tomato, harissa, chickpeas — it's going to layer in while the chicken roasts again. Adds moisture. Adds acidity. Adds heat.
+
+Nestle the chickens back on the rack over the saucy vegetables. Back in the oven for 40 to 50 minutes more. Internal temp near the bone should read 79°C to 82°C — not touching bone, poke next to it. Thigh should be tender when you touch it, juices running clear. The slower finish keeps meat juicy. Rushed roasting dries it out.
+
+Pull everything out. Rest the chickens 10 minutes. This matters. Juices redistribute. Cut into them immediately and they bleed out onto the plate. Wait and they stay inside the meat.
+
+## How to Get the Sauce Right on Harissa Chicken Couscous
+
+Bring the remaining stock to boil in a pot. Kill the heat. Pour in couscous. Cover it tight. No opening the lid, no stirring. Six to seven minutes. Steam does the work.
+
+While that goes, carve the chickens. Breasts and thighs. The vegetables underneath are cooked through, soft enough to break apart with a spoon. Transfer everything — chicken, vegetables, sauce — to a platter or serve in bowls family style. Spoon couscous alongside. This is a dish that works either way.
+
+Taste the sauce. It might need salt. Might need pepper. Might want a drizzle of olive oil for brightness if it feels heavy. Fresh herbs sprinkled on top — parsley, anything green — it snaps the whole thing into focus. The brightness cuts through the roasted depth.
+
+## Roasted Chicken with Herbs and Harissa Paste — Tips and Common Mistakes
+
+Let the birds rest uncovered before roasting. Fifteen minutes. Makes skin crisp instead of steamed.
+
+The vegetables underneath aren't a side dish. They're the sauce. Their moisture and the chicken drippings make it. Nothing added early.
+
+Don't crowd the couscous pot. Too much liquid makes it mushy. Follow the ratio. It's one to one almost — stock to grain. Measure it.
+
+Harissa can be aggressive. 8 milliliters is moderate spice. Some people think it's a lot. Add it slowly next time if heat bothers you. You can always add more. Can't take it out.
+
+Tomatoes need to be ripe and fresh. Canned changes the flavor too much when they reduce with everything else. Summer or late spring for best results.
+
+Pat the chickens truly dry. This single step changes whether skin gets crispy or stays rubbery. Dry as you can get them.
+
+The chicken stock matters. Good stock, the sauce tastes rich. Weak stock, it tastes watery even with tomato paste. Homemade is noticeably better here.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mediterranean Roasted Chicken Dinner
+
+**Can I make this roasted chicken couscous the night before?**
+Carve the chicken, keep it separate from the sauce. Store both cold. The couscous absorbs the sauce overnight, gets better actually. Reheat everything together, or eat cold.
+
+**What if my harissa chicken comes out too spicy?**
+Dial back the harissa next time to 5 or 6 milliliters. Or swirl in a dollop of yogurt when serving. The sauce softens. Heat stays but doesn't dominate.
+
+**How do I know when the roasted chicken is done without a thermometer?**
+Thigh should feel tender when you push it. Juices that run from the cavity should be clear, no pink. Pierce the thickest part — meat should shred slightly, not be hard and dry.
+
+**Can I use one large chicken instead of two?**
+Sure. Timing gets longer though. Maybe 2 hours total or more depending on size. The bigger the bird, the longer the center takes to cook without the outside burning.
+
+**What do I do with leftover sauce from the spicy tomato roasted chicken?**
+Good over pasta. Good on rice. Good on bread, honestly. Keeps cold for three or four days. Freezes fine too.
+
+**Should I use fresh herbs or dried in the herb blend for this roasted chicken with herbs?**
+Fresh or dried both work. Dried is more concentrated, so use less. Fresh herbs — parsley, thyme, rosemary — about 150 milliliters loosely packed gives the right amount.
+
+**Can I substitute the harissa paste in this herb seasoned roasted chicken?**
+Not easily. Harissa does something specific — heat and smoke and a slight tang. You could skip it and add more tomato paste instead, but it won't be the same dish anymore.
