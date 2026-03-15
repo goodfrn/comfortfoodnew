@@ -1,10 +1,10 @@
 ---
-title: "Choc-Dipped Kiwi Rounds"
+title: "Chocolate Covered Kiwi with Dark Chocolate"
 slug: "choc-dipped-kiwi-rounds"
-description: "Frozen kiwi slices coated halfway in glossy dark chocolate. Prep includes slicing thick kiwi, chilling in freezer, melting chocolate with butter in double boiler, dipping fruit, then quick freeze to set. Serves 4. Uses dark chocolate but tricks for substitution included. Adjust minor timing by watching texture and chill firmness. Simple, refreshing bite mixing tart, icy fruit meets creamy bittersweet coating."
-metaDescription: "Choc-Dipped Kiwi Rounds freeze-firm kiwi slices dipped halfway in glossy dark chocolate for crisp, tart, bittersweet bites. Simple steps with timing tips."
-ogDescription: "Frozen kiwi slices dipped halfway in dark chocolate; crisp shell snaps, juicy tart inside. Chill, melt, dip, quick-freeze for bright contrast and texture punch."
-focusKeyphrase: "Choc-Dipped Kiwi Rounds"
+description: "Frozen kiwi slices dipped in dark chocolate and butter. This simple frozen treat combines tart, icy kiwi with creamy bittersweet chocolate for a refreshing dessert."
+metaDescription: "Chocolate covered kiwi recipe using dark chocolate and butter. Frozen kiwi slices dipped halfway for a simple, refreshing treat. Make it tonight."
+ogDescription: "Frozen kiwi slices dipped in dark chocolate. Tart, icy fruit meets creamy bittersweet coating in minutes."
+focusKeyphrase: "chocolate covered kiwi"
 date: 2025-11-29
 draft: false
 image: choc-dipped-kiwi-rounds.jpg
@@ -21,9 +21,14 @@ tags:
 - "no bake"
 - "healthy"
 keywords:
-- "kiwi chocolate bite"
-- "frozen fruit chocolate"
-- "dark chocolate coating"
+- "chocolate covered kiwi"
+- "frozen kiwi"
+- "dark chocolate dessert"
+- "fruit dessert"
+- "easy frozen treats"
+- "chocolate dipped fruit"
+- "kiwi recipe"
+- "quick dessert"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "180"
@@ -62,3 +67,93 @@ faq:
 - "q: How to store leftovers? a: Airtight container only. Store in freezer for best texture. Avoid fridge or room temp or shell sweats and softens. Layer parchment or silicone mats between to prevent sticking. Consume within few days; moisture seeps over time, shell softens."
 
 ---
+
+Slice them thick. Like 1 inch—not paper-thin garbage that turns to mush the second it hits the freezer. Pat them dry first or you'll get ice crystals, which sounds small until you bite into it and it's basically crunchy sadness.
+
+## Why You'll Love This Chocolate Covered Kiwi
+
+Fifteen minutes of actual work. The rest is the freezer doing your job.
+
+No baking, no heating up your kitchen. Just chocolate melted over water and kiwi slices. Done in 40 minutes total, start to finish, and half that is waiting.
+
+It's a snack that doesn't feel like a snack—tastes like dessert but it's basically fruit. Cold, tart, bright green kiwi against dark chocolate that snaps when you bite it.
+
+Healthy-ish angle. You're eating fruit. Yes, there's chocolate. But also literally a whole kiwi. Makes the chocolate feel less guilty.
+
+Sticks optional. Makes them cute if you care about presentation. Leave them off if you don't.
+
+## What You Need for Chocolate Covered Kiwi
+
+Four ripe kiwis. Not mushy, not hard—actually ripe. The ones that give when you squeeze gently.
+
+Dark chocolate. 120 grams. Sixty to seventy percent cocoa. Don't cheap out here—it matters more than anything else. Milk chocolate gets too waxy. White chocolate needs salt to not taste like pure sugar.
+
+Ten grams of unsalted butter. Softens the chocolate coating so it's not brittle. Helps it set glossy instead of dull.
+
+Wooden popsicle sticks if you want them. Not necessary. Honestly makes cleanup harder.
+
+Parchment paper. Or silicone mats. Something the chocolate won't stick to like its life depends on it.
+
+## How to Make Chocolate Covered Kiwi
+
+Start with the kiwis. Slice them about 1 inch thick. Thinner and they get mushy when frozen. Too thick and the chocolate-to-fruit ratio feels off. It's not that precise but the thickness matters.
+
+Pat them dry. This is annoying but do it. Paper towel, press gently, get the moisture off. Ice crystals form if you skip this step and nobody wants that.
+
+Lay them flat on parchment. Don't overlap them or they'll stick together in the freezer like they got married and don't want to separate. Space between each one. It matters more than you'd think.
+
+If you're doing popsicle sticks, stick them in now while the kiwi's pliable. After freezing they crack easier. Get them in at an angle so they actually hold.
+
+Into the freezer. Fourteen minutes minimum. You want firm, not frozen solid. Press the edge with your finger—should resist but still give a little. If it's rock hard the chocolate will crack the surface instead of coating. If it's barely cold the kiwi sweats and the chocolate slides right off.
+
+## Getting the Chocolate Coating Right
+
+Set up a double boiler. Pot of simmering water—not boiling, simmering—with a bowl on top that doesn't touch the water. This is not optional, high heat turns chocolate grainy and terrible.
+
+Chop the chocolate fine. Finer pieces melt faster, more evenly. Add the butter. Stir constantly. Don't leave it alone expecting it'll figure itself out. It won't.
+
+It'll go from chunky to glossy liquid. Takes like 5 minutes. You'll hear it almost crackling quietly as it melts. That's normal. Once it's all smooth and shiny, pull it off the heat.
+
+Let it cool a minute. Too hot and it melts the kiwi. Too cold and it hardens on the way down, clumps up, looks bad.
+
+Pull the kiwi from the freezer. Handle them like they're delicate—they're not, but the coating is. Dip each slice halfway into the chocolate. Rotate it so the chocolate covers the edge. You want a thin shell that's gonna snap, not a thick glob that's chewy.
+
+Back onto parchment, back into the freezer. Fourteen to sixteen minutes. Don't slam the door. Condensation forms if you're violent with it and that ruins the gloss.
+
+## Chocolate Covered Kiwi Tips and Common Mistakes
+
+Chocolate clumping means it got too hot or water got into the bowl. Temper carefully next time. Slow, low heat, and don't get splashed water in there.
+
+Thick coating feels greasy. That's too much butter. Butter's good—makes it melt smooth—but 10 grams is already generous.
+
+Kiwi leaking juice everywhere means you didn't pat it dry enough or you left it out too long before dipping. Pat dry. Dip fast. Back to the freezer immediately.
+
+Chocolate not setting glossy means it was too hot when you dipped, or the kiwi was too warm. Colder fruit, cooler chocolate, it works.
+
+You can swap dark chocolate for semi-sweet if that's what you have. Bittersweet works too. White chocolate possible but add a tiny pinch of salt—balances the sweetness or it's just sugar on fruit.
+
+Coconut oil instead of butter works fine for dairy-free. Flavor shifts but it still sets properly. Same amount, 10 grams.
+
+Work fast while the chocolate's still in the right texture zone. Melt, dip, freeze. If you dilly-dally the chocolate hardens in the bowl and you're tempering again from scratch, which is annoying.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Covered Kiwi
+
+**How frozen should the kiwi be before dipping?**
+Firm. Not rock hard. Press the edge with your finger and it should resist but give a bit. Fourteen minutes in most freezers works. Too soft and the chocolate slides off. Too hard and it cracks.
+
+**Can I use milk chocolate instead?**
+Yeah. Gets waxy though. Darker chocolate snaps better. Milk chocolate's more like biting into something waxy. Dark's crispier.
+
+**How long do these last in the freezer?**
+Weeks, probably. Keep them airtight or the chocolate gets that gray frosting on it. They taste fine either way but look better sealed up.
+
+**Do I have to use a double boiler?**
+Technically you could melt chocolate in the microwave with 20-second bursts and stirring between. But the double boiler's easier not to screw up. Microwave kills it fast if you're not paying attention.
+
+**Can I make these ahead of time?**
+Yeah. Freeze them, keep them frozen. Pull out five minutes before eating so the chocolate's not brittle. They separate easily once set.
+
+**What if my chocolate is too thick?**
+Stir in a tiny bit more butter. Or reheat it gently over the double boiler. Don't add milk—that breaks it. Butter or nothing.
