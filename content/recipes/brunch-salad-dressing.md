@@ -1,10 +1,10 @@
 ---
 title: "Brunch Salad with Creamy Italian Dressing"
 slug: "brunch-salad-dressing"
-description: "Brunch salad with crunchy savory granola and a creamy herb dressing. Toasted mixed seeds tossed with maple syrup and oil to golden, layered on a crisp lettuce base with feta and egg whites. Avocado wedges add richness. Dressing smooth with Greek yogurt, mayo, fresh herbs, garlic, citrus, and tangy vinegar. Textures contrast, flavors bright yet rich. Granola stays crisp, dressing thick but lively. Simple ingredients with a twist. Adjust timings by eye, bake granola till golden and smelling toasty. Blend dressing until creamy, no lumps. Salad tossed gently to keep leaves intact. Serve with optional Rösti mimosa for added brunch flair."
-metaDescription: "Brunch Salad with creamy Italian dressing, crunchy savory granola, feta, egg whites, avocado wedges. Layered textures, fresh herbs, balanced acidity, crisp leaves. Serve fresh."
-ogDescription: "Crunchy granola, creamy herb dressing, crisp lettuce, feta, egg whites, avocado wedges. Bright, layered Italian-inspired brunch salad to serve fresh and crisp."
-focusKeyphrase: "Brunch Salad with Creamy Italian Dressing"
+description: "Brunch salad with crunchy savory granola, toasted pumpkin and sunflower seeds, feta, and egg whites. Creamy Italian dressing made with Greek yogurt, fresh herbs, and lemon juice."
+metaDescription: "Make this brunch salad with creamy Italian dressing, toasted seeds, feta cheese, and egg whites. Greek yogurt and herb-based dressing. Try it tonight."
+ogDescription: "Brunch salad with toasted seeds, feta, egg whites, and creamy herb dressing made with Greek yogurt and fresh basil."
+focusKeyphrase: "brunch salad with creamy italian dressing"
 date: 2025-08-10
 draft: false
 image: brunch-salad-dressing.jpg
@@ -21,9 +21,16 @@ tags:
 - "avocado"
 - "eggs"
 keywords:
+- "brunch salad with creamy italian dressing"
 - "brunch salad"
-- "creamy Italian dressing"
-- "savory granola"
+- "healthy brunch salad"
+- "creamy italian dressing"
+- "avocado egg salad"
+- "savory granola salad with feta"
+- "greek yogurt dressing"
+- "breakfast salad with seeds"
+- "egg white salad"
+- "feta and avocado salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -90,3 +97,77 @@ faq:
 - "q: How to store leftover dressing and granola? a: Dressing airtight jar, fridge up to 5 days; stir before reuse. Granola sealed dry container, room temp 3-4 weeks avoid humidity. Don’t refrigerate granola, moisture ruins crunch. If salad held longer, keep components separate then combine freshly before serving."
 
 ---
+
+Preheat to 320. Line a sheet. Seeds go in a bowl with maple syrup and oil—toss until they're all slicked. Spread thin. Twenty to 25 minutes until the oven smells like a nut shop, then cool it all the way down or it'll be soggy.
+
+The dressing happens while that's toasting. Greek yogurt and mayo in a blender with one garlic clove, rough chopped. Pulse until smooth. Then all the herbs—chives, basil, parsley. Lemon juice. Sugar. Vinegar. Salt. Blend again. Tastes better cold. Actually tastes way better cold.
+
+## Why You'll Love This Healthy Brunch Salad
+
+Granola's savory, not sweet. Crunches for like five minutes before it goes soft, which is honestly the whole point.
+
+Avocado egg salad that works for actual breakfast. Not trying to be something it's not—just bibb lettuce, hard-cooked egg whites, feta, and a creamy dressing that tastes like fresh herbs actually live in it. They kind of do.
+
+Takes 35 minutes if you're not rushing. The granola bakes while you make dressing. Salad comes together in maybe five. Everything ahead of time except the avocado. Don't cut that early or it goes brown.
+
+Leftover dressing works on literally anything. Cold chicken. Roasted vegetables. Bread. You'll use it faster than you think.
+
+## What You Need for Brunch Salad with Greek Yogurt Dressing and Pumpkin Seeds
+
+Pumpkin seeds, sunflower seeds, sesame seeds. Start with 60 grams each of the first two—the seed situation is flexible, honestly. The sesame's just there for texture. Maple syrup. Not honey. Maple stays loose in the dressing better. Vegetable oil. Salt. Pepper.
+
+Greek yogurt. Not sour cream. Yogurt's thinner, which means less mayo overall. Mayo anyway—you need fat to make dressing taste like dressing. One small garlic clove, rough chopped. Chives and basil and parsley, all fresh. Lemon juice, not bottled. Sugar. White wine vinegar. Salt again.
+
+Bibb lettuce if you can find it—softer, less defensive than romaine. Five of them makes a whole salad. Or one romaine heart torn up. Three hard-cooked egg whites, chopped. Feta crumbled. One firm avocado. More chives.
+
+## How to Make Savory Granola for Your Breakfast Salad
+
+Oven goes to 320. Center rack. Line a sheet with parchment.
+
+Bowl gets pumpkin seeds, sunflower seeds, sesame seeds. Pour maple syrup over. Oil goes in. Salt and pepper. Toss it until every seed's covered in something wet. Not clumped. Spread it thin on the pan—this matters. Thick clusters stay soft inside.
+
+Twenty to 25 minutes. Halfway through, stir gently. Watch the last five minutes hard. You want edges golden. Still smells green when it's done, then kind of nutty after it cools. Don't skip the cooling part. Hot granola's chewy. Room-temperature granola's crisp.
+
+## How to Get Creamy Italian Dressing with Fresh Herbs Right
+
+Blender or food processor. Greek yogurt and mayo go in first. One garlic clove, rough chopped. Pulse until it's smooth and uniform. No chunks.
+
+Then the herbs. Chives. Basil. Parsley. All of it fresh. Pulse again until it's creamy, still green-speckled but no visible leaves. This takes maybe 20 seconds. Overmix and it turns into something weird and broken.
+
+Lemon juice. Sugar. Vinegar. Salt. Blend one more time until it's the consistency of soft cream cheese. Taste it. If it tastes flat, add more lemon or vinegar. Doesn't matter which one. Just needs acid.
+
+Chill it. Flavors get sharper. Keeps five days sealed. Probably longer but nobody's left it that long.
+
+## Brunch Salad Assembly and Toasted Seed Granola Tips
+
+Wash lettuce. Dry it completely. Wet lettuce kills everything. Tear it into bite-sized pieces—don't bruise it by mashing. Bibb tears easier than romaine.
+
+Large bowl. Lettuce goes in. Chopped egg whites. Feta. Pour maybe 50 ml of dressing over. Fold it gently. You're coating, not soaking. Overmix bruises the leaves and they go dark and sad.
+
+Plates. Salad goes on. Avocado wedges on top—this is not optional. Cut the avocado right before serving or it browns. Ten wedges per salad. Scatter the granola over. Fresh chives last. This order matters because warm salad softens cold granola. Backward's better.
+
+Serve immediately. Granola lasts about five minutes before it softens, which is why you do it this way instead of mixing everything an hour early.
+
+If time's an issue, use toasted mixed nuts instead of seeds. Tastes different but works. Sour cream for the yogurt if that's what you have. Thin it with a splash of water or it gets heavy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Breakfast Salad with Creamy Italian Dressing
+
+**Can I make this the night before?**
+Make the dressing, yes. Make the granola, definitely. The salad itself? No. Lettuce gets dark, granola softens, avocado browns. Make the parts. Assemble in the morning. Takes five minutes.
+
+**What if I don't have Greek yogurt?**
+Sour cream works. Same amount. Thin it a bit with water so the dressing doesn't feel so heavy. Mayo-heavy dressing tastes oily. Plain yogurt works too—a little tangier.
+
+**How long does the savory granola stay crisp?**
+Three to four weeks in an airtight container at room temp. After that it gets soft and tastes stale. Make a fresh batch. Not worth stretching it.
+
+**Can I use store-bought hard-cooked eggs?**
+Yeah. They're fine. Sometimes the yolks are grayer than you'd want but nobody cares in a salad. Save them if you prefer, just use the whites.
+
+**What if the dressing's too thick?**
+Add water or lemon juice a little at a time. Starts with maybe a splash. Blend. Check it. The dressing should flow, not sit. Not quite as loose as ranch, though.
+
+**Is the avocado really necessary?**
+For this salad? Kind of, yeah. It's the soft thing that makes the granola crunching matter. You could swap it for nothing, but the salad gets less interesting. Just avocado. One per two servings minimum.
