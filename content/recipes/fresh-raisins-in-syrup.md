@@ -1,10 +1,10 @@
 ---
-title: "Fresh Raisins in Syrup"
+title: "Homemade Raisins in Syrup with Honey"
 slug: "fresh-raisins-in-syrup"
-description: "Grapes simmered gently in a lightly sweetened lemon syrup until translucent and tender. A twist with honey replacing sugar gives subtle floral notes balancing tartness. The slow simmer thickens the jus into a syrup coating the tender fruit. Ideal for spooning over yogurts or stirred into oatmeal. Grain-free, vegan, no nuts, no dairy, no gluten, egg-free. Refrigerate in airtight jar; lasts up to two weeks. Recognize readiness by translucent grapes, syrup slightly thickened, not boiling hard. Adds natural brightness and juicy bursts with minimal fuss. The lemon juice acidity cuts through sweetness for balance."
-metaDescription: "Fresh raisins in syrup made by simmering grapes gently in honey-lemon syrup until translucent, tender, slightly thickened, great on yogurts or oatmeal."
-ogDescription: "Grapes slowly simmered in honey-lemon syrup until translucent and tender. Syrup thickens gently. Use for yogurt, pancakes, oatmeal. French-inspired fruit treat."
-focusKeyphrase: "fresh raisins in syrup"
+description: "Make homemade raisins in syrup by simmering seedless grapes in honey and lemon juice. Tender, translucent grapes in a lightly sweetened syrup keep for two weeks."
+metaDescription: "Homemade raisins in syrup recipe using seedless grapes, honey, and fresh lemon juice. Simple preservation method for tender candied grapes. Make it tonight."
+ogDescription: "Seedless grapes simmered in honey and lemon syrup until translucent and tender. Vegan, grain-free, and lasts two weeks refrigerated."
+focusKeyphrase: "homemade raisins in syrup"
 date: 2025-09-25
 draft: false
 image: fresh-raisins-in-syrup.jpg
@@ -21,9 +21,14 @@ tags:
 - "honey"
 - "lemon"
 keywords:
-- "fresh raisins"
-- "grape syrup"
-- "honey lemon syrup"
+- "homemade raisins in syrup"
+- "preserved grapes with honey"
+- "candied grapes recipe"
+- "fresh grapes in honey syrup"
+- "lemon honey grape preserves"
+- "seedless grapes canned in syrup"
+- "grape syrup preservation method"
+- "how to make raisins at home"
 breadcrumb: ["Home", "Recipes", "Preserves"]
 nutrition: 
  calories: "110"
@@ -58,3 +63,55 @@ faq:
 - "q: How to store syrup and grapes? a: Airtight glass or ceramic jars best. Refrigerate up to 14 days safe. Avoid plastic lids trapping moisture, cause soggy edges. Cool completely before sealing. Sometimes juices ferment if left too long; watch for off smells or fizz."
 
 ---
+
+Rinse the grapes. Stems off. Throw them in a pot with honey, water, and lemon juice. Twenty-seven minutes later you've got something that tastes like it took all day.
+
+## Why You'll Love This Homemade Raisins In Syrup
+
+Breakfast just got a lot sweeter — thick Greek yogurt with warm syrup pooling into it. Gluten free, vegan, literally nothing to apologize for. Made with honey so it tastes like actual fruit, not candy. Lasts two weeks in the fridge, which means you're set for half a month. Toast, pancakes, oatmeal — it works cold the next day, maybe better that way. No canning equipment, no stress, no pretending you understand preserving.
+
+## What You Need for Preserved Grapes With Honey
+
+Seedless grapes — three and a quarter cups or about 550 grams. White ones work but green ones hold their shape better in the syrup. Honey. Three quarters of a cup. You could use sugar but honey changes how it tastes, thicker and rounder. Fresh water — just a fifth of a cup, not much. Fresh lemon juice — a tablespoon. The acid keeps the grapes from turning into mush and makes the syrup taste like something.
+
+## How to Make Candied Grapes Recipe
+
+Rinse the grapes first. Actually rinse them twice. Stems have debris. Pull every stem off — sounds tedious, isn't, maybe two minutes if you move. Put them in a medium saucepan. Add the honey, the water, the lemon juice. Stir it around so the honey dissolves a little.
+
+Medium heat. You're looking for a gentle boil — tiny bubbles rising steadily from the bottom, not a roar. You'll hear the difference. Takes a few minutes. Don't walk away completely but don't stare at it either.
+
+## How to Get Fresh Grapes In Honey Syrup Perfect
+
+Lower the heat once it's bubbling. Uncovered pan, that part matters. You need to watch what's happening. The grapes start turning translucent — almost see-through — after about ten minutes. The juice darkens. The syrup gets thicker on the sides of the pan first.
+
+This takes twenty-five to thirty minutes total. Stir every five minutes or so but don't smash them. You want them soft, not split open, not falling apart into the syrup. When you lift a spoon out and tip it, the syrup should coat the back with slight resistance. That's it. That's the cue.
+
+## Candied Grapes And Honey Preservation Tips
+
+Turn off the heat and let it sit right there in the pot. Don't move it to a bowl yet. It needs to cool completely — the flavor gets better as it sits. The syrup thickens more. The texture improves. Tastes different cold than it does hot, deeper somehow.
+
+Once it's cool — maybe an hour, maybe two — transfer to an airtight container. Glass works best but whatever sealed thing you have is fine. Refrigerate it. Lasts fourteen days, sometimes longer. The honey acts as a preservative but that's the safe window.
+
+Use it on thick Greek yogurt, on pancakes, on oatmeal, on ice cream. Drizzle it into plain yogurt, spoon it straight from the jar. Works warm if you heat it up before serving. Works cold the next day, better maybe, the flavors settle.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Making Raisins At Home
+
+**Can you use regular sugar instead of honey?**
+Yeah. Three quarters of a cup. It'll taste sharper, less rounded. Honey's smoother but sugar works if that's what you have. The syrup thickness comes out about the same.
+
+**Why do the grapes turn translucent?**
+Heat breaks down the skin. Releases water. The sugar in the honey and the natural juice in the grapes mix together. Not complicated — just what happens when you heat fruit with sweetness.
+
+**How do you know when it's actually done?**
+Spoon test. Lift a spoon out, tip it. The syrup should coat it with a slight drag. You should see it puddle slowly. If it runs right off, simmer longer. If it's thick like jam, you've gone too far but it still works.
+
+**Can you make this with seedless grapes in honey syrup using different grapes?**
+Red ones, green ones, black ones. Green holds shape best. Red grapes get mushier. Doesn't matter for taste, just texture preference. Seedless is important — seeds are a pain.
+
+**How do you store it without refrigeration?**
+Don't. The honey helps but fourteen days refrigerated is the safe bet. You could probably can it if you wanted to get fancy but that's different and takes different equipment.
+
+**Does the lemon flavor come through?**
+A little. It's background. Makes the syrup taste brighter without tasting sour. Without it the whole thing tastes flat and honey-ish. One tablespoon is the right amount.
