@@ -1,9 +1,9 @@
 ---
-title: "Buckwheat Crepes Recipe with Sparkling Water"
+title: "Buckwheat Crepes with Maple Syrup"
 slug: "buckwheat-sparkling-crepes"
-description: "Light buckwheat crepes made with sparkling water and eggs, lightly sweetened with maple syrup. Top with caramelized pears or fresh berries for an easy homemade crêpe."
-metaDescription: "Buckwheat crepe recipe using sparkling water for lift. Maple syrup sweetened, serves 12. Make them tonight with caramelized pears or berries."
-ogDescription: "Thin, crispy buckwheat crepes with sparkling water lift. Maple syrup sweetened, topped with pears or berries. Easy homemade French-style crêpes."
+description: "Light buckwheat crepes made with sparkling water, eggs, and maple syrup. Topped with caramelized pears or fresh berries for an easy homemade crêpe."
+metaDescription: "Buckwheat crepes recipe using sparkling water, eggs, and maple syrup. Top with caramelized pears or berries. Make it tonight."
+ogDescription: "Light buckwheat crepes with sparkling water and eggs, sweetened with maple syrup and topped with caramelized pears."
 focusKeyphrase: "buckwheat crepes"
 date: 2025-07-18
 draft: false
@@ -24,8 +24,15 @@ keywords:
 - "buckwheat crepes"
 - "buckwheat crepe recipe"
 - "crepes and galettes"
-- "breton crepe recipe"
 - "buckwheat flour crepe"
+- "buckwheat french crepes"
+- "breton crepe recipe"
+- "crepe galette recipe"
+- "buckwheat galette"
+- "buckwheat galette recipe"
+- "brittany galette"
+- "buckwheat crepes savory"
+- "buckwheat flour for crepes"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "140"
@@ -82,3 +89,103 @@ faq:
 - "q: Can I use regular water instead? a: Not recommended. Sparkling keeps batter airy. Regular won't lift same way. Important for texture!"
 
 ---
+
+Pour the batter thin. The pan needs to be hot enough that it sizzles when the batter hits. Fifty minutes total — twenty to get the batter ready, thirty to actually cook and eat them. That's what makes this work.
+
+## Why You'll Love These Buckwheat Crepes
+
+They're breakfast and dessert. Finish one stack with maple syrup and fresh berries, make another batch savory with cheese and herbs. Same batter. Different life.
+
+Takes 20 minutes of prep and basically no skill. You'll nail them on the second one. Maybe the first.
+
+Buckwheat flour has this nutty thing going on that all-purpose can't touch. You taste the difference. Not in a complicated way — just better.
+
+Works cold the next day if you have leftovers, which you won't. Store them stacked with parchment between each one.
+
+The sparkly water. Sounds weird. The bubbles make these actually light. Fluffy almost. Crepes shouldn't be dense.
+
+## What You Need for Buckwheat Crepes
+
+Buckwheat flour. Not oats. Not some substitute. The real thing — earthy, slightly sweet, way more interesting than all-purpose alone. 100 grams.
+
+All-purpose flour. 105 grams. Keeps everything from being too dense and buckwheat-forward.
+
+Two large eggs. They're the binder. Don't skip them or go smaller.
+
+Sparkling water instead of still water or milk. This is where the texture lives. 575 ml — that's 2 and a third cups if you're measuring loose. The carbonation creates tiny air pockets. Flat water doesn't do that.
+
+Clarified butter — 40 ml melted, plus extra for the pan. Ghee works too. Regular butter burns too easily. The milk solids just blacken.
+
+Maple syrup. 25 ml in the batter, more for serving. Real maple. Not the corn syrup stuff. You taste it.
+
+Ground ginger and cardamom — optional but do it anyway. Ginger goes in the batter. Cardamom with the pears if you're making those. One dash, one pinch. Not more.
+
+Pears if you're doing the caramelized thing. Three firm ones. Firm matters — soft pears turn to mush. Cinnamon. Butter. More maple syrup.
+
+## How to Make Buckwheat Crepes
+
+Whisk buckwheat flour, all-purpose flour, and salt together in a large bowl. Do this dry first. The ginger goes in here too if you're using it.
+
+Beat in the two eggs. Then add half the sparkling water — roughly 285 ml. Stir until it's a smooth paste. No lumps. This part matters.
+
+Pour in the melted clarified butter. Then the rest of the sparkling water and the maple syrup. Mix gently. Don't overwork it. The batter should look slightly bubbly. That's the sparkling water doing its job.
+
+Let it sit for 10 minutes while you heat the pan. This rest time is real. It matters. The flour absorbs water, everything gets looser naturally.
+
+Set an 18 cm nonstick skillet over medium-high heat. You need it hot but not insane — you're not searing, you're cooking through thin batter quickly. Brush a thin layer of clarified butter around the entire surface.
+
+Pour about 60 ml of batter into the center. Immediately tilt and swirl the pan. Fast movements. The batter spreads thin across the bottom in maybe three seconds if you're moving. This is the whole technique. You'll feel when you get it.
+
+Cook for about one minute. Watch the edges — they'll start to lift and turn pale brown. That's your flip signal. Don't wait for the top to look cooked. It won't. Flip it with a spatula and cook the other side for 20 to 25 seconds. Just enough for the bottom to catch some color.
+
+Transfer to a plate. Do this immediately or it'll stick. Repeat with the remaining batter, adding a tiny bit more butter to the pan between crepes if it looks dry. Your second and third ones will look better than the first. That's how this goes.
+
+Keep finished crepes warm under a loose cover of foil or a clean cloth. Don't stack them tight — they'll steam and lose their texture.
+
+## How to Get Buckwheat Crepes Actually Crispy
+
+The heat has to stay consistent. If you drop the temperature between crepes, the edges get soft instead of getting that slight crisp. Keep it at medium-high the whole time.
+
+Don't crowd the pan if you're making the caramelized pears. Use a separate skillet if you have one. Pears release water. Crowding means steaming, not browning. Melt butter on medium-high, add the pear slices in a single layer.
+
+Drizzle maple syrup over them. A full 30 ml — 2 tablespoons. Sprinkle the cinnamon and cardamom now if you're doing it. Sauté for 2 to 3 minutes per side. You want them golden and soft all the way through but still holding their shape. They firm up slightly as they cool.
+
+The caramelization happens because the maple syrup hits direct heat. It's not complicated chemistry. It just browns. Do this in batches with the remaining pears.
+
+## Buckwheat Crepes Tips and Common Mistakes
+
+The batter thickness matters more than you think. Too thick and the crepes turn into pancakes. Too thin and they tear. You want a consistency that pours easily but coats the pan within about three seconds of swirling. If it's sitting in the pan doing nothing, it's too thin. Add maybe 15 ml more batter next time.
+
+Temperature inconsistency ruins these. Keep the pan at medium-high the entire time. If you let it cool between crepes, the bottoms cook unevenly.
+
+Don't overmix the batter. Stir it just enough to combine. Overworking develops gluten and makes them tough.
+
+The sparkling water loses its fizz if the batter sits around. Make and use it within an hour. It's fine if it settles a bit, but fresh is better.
+
+Cooked crepes reheat perfectly in a dry pan over medium heat for maybe 30 seconds per side, or wrapped loosely in foil in a 350°F oven for 5 minutes. Microwave works too if you're in a rush — 15 seconds usually does it, but check after 10. They can dry out.
+
+Storage — stack them with parchment paper between each one and they'll keep in the fridge for three days. Longer than that and something starts happening to the texture. Freezing works. Thaw at room temperature.
+
+You can make these savory too. Skip the maple syrup in the batter, skip the ginger. Add a pinch of black pepper instead. Fill them with sautéed mushrooms, gruyere, fresh herbs. Use sparkling water the same way. The technique doesn't change.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Buckwheat Crepes
+
+**Can I make buckwheat crepes gluten free?**
+Not completely. The all-purpose flour has gluten. You could swap it for a gluten-free flour blend 1:1, but the texture changes — less structure, more fragile. They still work. Just handle them more gently. Buckwheat itself is naturally gluten free, so that part's fine.
+
+**What's the difference between crepes and galettes?**
+Galettes are just folded crepes. Same batter. The crepe is thin and delicate — you fill and fold it. A Breton galette or French buckwheat galette specifically uses buckwheat flour and savory fillings. A sweet crepe uses regular flour usually and dessert toppings. The buckwheat crepe recipe works as both. Make them, top them, fold them — it's the same batter.
+
+**Can I use regular water instead of sparkling water?**
+You can. They won't be as light. The carbonation creates tiny air pockets that make these tender. Still water doesn't do that. The crepes'll be denser, more like a thin pancake. Works fine, tastes fine. Just different.
+
+**How far ahead can I make these?**
+The batter — maybe an hour before cooking. After that it settles and loses some of the sparkle. Cooked crepes keep in the fridge for three days stacked with parchment. Warm them gently before serving. They're good cold too if you're in a hurry, but they're better warm.
+
+**What if the first crepe tears or looks weird?**
+That's just how this goes. Your second one will be better. It's not because you're doing it wrong. The pan needs time to season a little, your hands need to get the swirl motion right. By crepe three or four you'll be making perfect ones without thinking about it.
+
+**Can I make buckwheat crepes vegan?**
+The eggs are the binder. You'd need a replacement — maybe a flax egg or aquafaba. I haven't tested it. The sparkling water helps with lightness though, so the structure might hold. Worth trying, but I can't promise it works.
