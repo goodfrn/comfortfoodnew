@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Orange Mousse Recipe"
+title: "Orange Mousse with Dark Chocolate"
 slug: "chocolate-cream-pots"
-description: "Dark chocolate mousse with orange zest and custard base. Egg yolks, cream, and milk thickened with cornstarch. Chill and serve in small pots. Ready in 30 minutes."
-metaDescription: "Chocolate orange mousse recipe with custard base and orange zest. Dark, creamy, tangy. Make it tonight."
-ogDescription: "Dark chocolate mousse with fresh orange zest. Custard-based, creamy, tangy. Six servings, 30 minutes."
-focusKeyphrase: "chocolate mousse with orange"
+description: "Dark chocolate mousse with orange zest and creamy custard base. Made with egg yolks, cream, milk, and cornstarch. Ready in 30 minutes for elegant desserts."
+metaDescription: "Orange mousse recipe with dark chocolate, egg yolks, and cream. Silky custard-based dessert ready in 30 minutes. Make it tonight."
+ogDescription: "Silky dark chocolate mousse infused with orange zest, egg yolks, and fresh cream. Elegant dessert ready in 30 minutes."
+focusKeyphrase: "orange mousse"
 date: 2025-07-28
 draft: false
 image: chocolate-cream-pots.jpg
@@ -21,11 +21,14 @@ tags:
 - "no bake"
 - "eggs"
 keywords:
+- "orange mousse"
 - "chocolate mousse with orange"
 - "chocolate and orange mousse"
-- "orange mousse"
 - "chocolate orange mousse recipe"
-- "chocolate and orange mousse recipe"
+- "dark chocolate mousse"
+- "orange dessert recipe"
+- "custard mousse"
+- "easy mousse recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "250"
@@ -64,3 +67,73 @@ faq:
 - "q: Can I prepare ahead? a: Yes. Make custard, chill overnight. Keeps shape well if covered. Keep whipped cream separate, add before serving. Re-whip cream if needed. Do not freeze custard as flakes and separates when thawed. For better set, chill minimum 3 hours. Prepare steps one and two ahead, cook and strain close to serving time if possible—but overnight chilling convenient. Using plastic wrap tight on surface keeps custard fresh."
 
 ---
+
+Dark chocolate melts into the cream and milk, and right when you think it's going to break, it doesn't. That's the moment it gets smooth.
+
+## Why You'll Love This Chocolate and Orange Mousse
+
+No oven. Fifteen minutes of actual work. Cold, dark, glossy — sits in your fridge waiting. Tastes expensive. Isn't. The citrus doesn't announce itself. It's there underneath, making the chocolate taste like itself. Works as a weeknight dessert or something you bring to a dinner and everyone asks what it is. Eggs scare people. Don't be those people. One saucepan. One sieve. That's the whole setup.
+
+## What You Need for Chocolate Orange Mousse
+
+Dark chocolate — rough chop, doesn't have to be perfect. The kind that actually costs something.
+
+Sugar and cornstarch. Not flour. The cornstarch thickens everything. Does a specific job that regular sugar can't touch.
+
+Egg yolks. Four of them. Room temperature works better but cold works fine.
+
+Milk and cream. Heavy cream — the 35% kind. The milk cuts the richness. You need both.
+
+Orange zest. One orange. Use a microplane if you have it. If you don't, a box grater works, just watch your knuckles.
+
+Whipped cream on top. Optional but honestly.
+
+## How to Make Chocolate Orange Mousse
+
+Get your chocolate in a bowl. Medium bowl, doesn't matter. Set it right there where you can reach it fast.
+
+In a saucepan — off the heat still — whisk the sugar with the cornstarch. You're breaking up clumps. Doesn't take long. Then crack in the egg yolks. Beat the whole thing until it's pale and thick, maybe a minute of whisking. Looks like custard batter already.
+
+Pour in the milk and cream slowly. Don't dump it. You're tempering the eggs, basically, even though you're not heating anything yet. Stir constantly. Add the orange zest right here. All of it.
+
+Now turn the heat on. Medium. Keep stirring. Scrape the bottom with a rubber spatula because that's where it sticks and burns. You're looking for it to get thick. There's a moment where it goes from pourable to coat-the-spoon and you have to watch for it. Usually takes 6 to 8 minutes once the heat starts. Actually depends on your stove. Mine takes closer to 10. It'll bubble a little at the edges first. Keep going. Doesn't stop bubbling when it's done, but it gets noticeably thicker.
+
+## How to Get Chocolate Orange Mousse Glossy and Smooth
+
+Strain it right through a sieve onto the chocolate. Don't rush. The sieve catches any bits of cooked egg. Wait about 2 minutes. The residual heat softens the chocolate so you don't have to do anything special.
+
+Then stir. Vigorously. Like you mean it. It'll look broken for a second — grainy, separated. Keep going. Thirty seconds more. It comes together. Becomes glossy. Becomes that thing where it catches the light wrong in a good way.
+
+## Chocolate and Orange Mousse Tips and Mistakes
+
+The eggs freak people out. Pasteurized eggs exist if you're nervous. Or just use them anyway — you're bringing it to a boil, which kills anything worth killing.
+
+The thickness matters. If the custard doesn't thicken enough, the mousse won't set. If it thickens too much, it's mousse-adjacent but dense. Watch the texture change. Don't just time it.
+
+Strain it. Everyone thinks they can skip the sieve. The sieve is the difference between silky and gritty. Do it.
+
+Let it chill. Minimum 90 minutes if you're desperate. Better is 3 hours. The texture changes as it sits. Gets more mousse-like. Colder. Better.
+
+Orange zest. Fresh. Not the stuff in a jar. The stuff in a jar tastes like plastic smells.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate and Orange Mousse Recipe
+
+**Can you use whole eggs instead of just yolks?**
+Technically yes. Texture changes. Gets less rich. The mousse becomes airier, which some people like. I don't. Yolks only is correct.
+
+**What if the custard breaks when you heat it?**
+Happened once. Means the temperature jumped too fast. Strain it anyway. Over the chocolate. It usually fixes itself when the chocolate goes in.
+
+**How long does this keep?**
+Three days in the fridge. Maybe four if you're careful. The eggs get older. Doesn't get unsafe, just starts tasting flat.
+
+**Can you make this ahead?**
+Yeah. Make it the morning of, chill all day. Tastes fine. Tastes better actually — flavors settle.
+
+**What's a good substitute for heavy cream?**
+Nothing really. Whipping cream works. Whole milk doesn't. Not enough fat. You need the cream for the texture.
+
+**Does the orange flavor come through strong?**
+No. It's in the background. Brightens the chocolate instead of making it taste like orange. That's the whole thing. If you want orange mousse, use three times the zest.
