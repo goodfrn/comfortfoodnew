@@ -1,10 +1,10 @@
 ---
-title: "Beef Cappuccino with Parsnip Mousse"
+title: "Beef Broth Soup with Parsnip Mousse"
 slug: "beef-cappuccino-parsnip-mousse"
-description: "A hearty beef broth with deep roasted marrow notes, topped with an airy parsnip mousse. Slow-roasted bones develop rich color; parsnips cooked tender then whipped with cream bring sweetness and silkiness. Served as a warm starter with pepper notes and a creamy crown. Gluten free, nut free, egg free. A comforting winter sip. Familiar but with simple swaps: turnip for celery, chicken bones instead of beef for lighter flavor. Timing flexible: roast until golden-brown bones crackle and caramelize, parsnips soften under fork pressure. Whip cream stiff but not grainy. The layered textures—broth warmth, mousse lightness—make this stand out."
-metaDescription: "Beef Cappuccino with Parsnip Mousse; rich roasted marrow broth, airy mousse topping, roasted turnips swap celery. Roasting cues, simmer control, chill mousse well."
-ogDescription: "Roasted marrow bones crackle, savory broth clear with mousse lightness. Turnips swap celery, whip cream right, watch temps. Layers of texture and deep aroma in every sip."
-focusKeyphrase: "Beef Cappuccino with Parsnip Mousse"
+description: "Beef broth soup made with slow-roasted marrow bones, carrots, and turnips, topped with whipped parsnip mousse. Rich and comforting."
+metaDescription: "Beef broth soup with roasted marrow bones and creamy parsnip mousse made with heavy cream. Gluten-free comfort food. Try it tonight."
+ogDescription: "Roasted marrow bones meet whipped parsnip mousse in this gluten-free beef broth soup. Warm, rich, comforting."
+focusKeyphrase: "beef broth soup"
 date: 2025-08-15
 draft: false
 image: beef-cappuccino-parsnip-mousse.jpg
@@ -21,9 +21,16 @@ tags:
 - "gluten free"
 - "roasted"
 keywords:
-- "beef marrow broth"
-- "parsnip puree mousse"
-- "roasted bone soup"
+- "beef broth soup"
+- "roasted bone marrow soup"
+- "beef broth with whipped parsnip mousse"
+- "creamy parsnip soup with roasted beef bones"
+- "slow roasted marrow bones with cream mousse"
+- "gluten free beef broth"
+- "roasted beef bone broth with parsnip"
+- "beef bone marrow broth"
+- "comfort food beef broth"
+- "parsnip mousse soup"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "220"
@@ -79,3 +86,85 @@ faq:
 - "q: Best way to store leftover broth and mousse? a: Broth refrigerate tight container; skim fat layer after chilling or remove with spoon. Mousse keep cold, seal airtight; reheat gently in microwave short bursts, stirring frequently. Consume mousse within 2 days; broth up to 3 days. Freeze broth if needed; mousse not recommended frozen."
 
 ---
+
+Roast the bones first—that's where everything starts. Two and a half pounds of beef marrow bones at high heat until they smell like actual roasted meat, not raw. That smell is the signal. Skip this step and the broth tastes flat.
+
+## Why You'll Love This Roasted Beef Bone Broth
+
+Takes just under two hours total. Thirty-five minutes of that is actual hands-on time. Rest is oven and stovetop doing their thing.
+
+Roasted beef bones give you something deeper than regular broth—the marrow breaks down slow and makes it silky. Not thick. Just rich. The parsnip mousse floats on top like foam on espresso, which is kind of the whole point.
+
+Gluten free. Everything is. No hidden grain, no thickeners. Just bones, vegetables, cream, parsnip.
+
+Works as a starter course or a light dinner. Comfort food that doesn't sit in your stomach for hours. Cold next day? The broth sets up jellied. Reheat gently or eat it as is.
+
+## What You Need for Slow Roasted Marrow Bones Beef Broth
+
+Beef marrow bones. Two and a half pounds. Not soup bones—marrow bones specifically. The ones that look thick and have actual marrow inside. Ask the butcher. They'll know.
+
+Parsnips, peeled and cut into cubes. About two cups. They cook down to almost nothing, then you blend them silky and fold in cream. Rutabaga works too. Sunchoke if you want something earthier.
+
+Carrots and turnips. Two each. The turnips replace celery—lighter flavor, sweeter finish. Celery works but the broth gets vegetal.
+
+One medium onion, garlic, olive oil, cold water. That's the broth base.
+
+Whole milk, heavy cream, butter for the mousse. The cream gets whipped just enough to hold peaks but not overbeaten into grains. You'll know when you've gone too far—it breaks and tastes empty.
+
+## How to Make Roasted Beef Bone Broth
+
+Start with the mousse first because it needs forty minutes in the fridge minimum. Salted water, parsnips in, bring to boil. You're looking for that moment where a fork slides through with zero resistance. Not mushy—that falls apart when you blend it. Tender but intact.
+
+Drain everything. Blend the warm parsnips with butter until it goes silky. While it's moving, drizzle the milk in slowly. Keep blending. The texture thickens but stays spoonable, not stiff. Cool it down first—hot puree won't take cream right.
+
+Whip the cream. Stop before it gets grainy. Fold it into the cold puree gently. Folding, not mixing. You want air in there, not compression. Chill it until you need it.
+
+## How to Get Roasted Beef Bone Broth Rich and Clear
+
+Oven to 250 degrees Celsius. That's about 480 Fahrenheit. Mid-level rack. Line a tray with paper towels because it splatters.
+
+Toss the bones, carrots, turnips, smashed garlic, onion, olive oil, and salt onto the tray. Space the bones out—they brown better that way. Roast forty to fifty minutes, turning every twelve minutes or so. You're looking for deep golden crust. Some slight char is good. Black is not.
+
+The smell changes. That's your cue. Starts raw, shifts to roasted meat aroma—nutty, almost sweet. That's when you know it's working.
+
+Everything goes into a heavy pot. Cold water, bring it slowly to boil then drop to a simmer. Gentle bubbles, not rolling boil. Simmer for thirty-five to forty minutes. Skim the foam off the top as it comes up. That's impurities and sediment.
+
+The broth gets glossy. The surface catches light differently—that's gelatin from the marrow bones doing its thing. Rich. Thick without being thick. You know?
+
+Strain it through fine mesh. Everything gets discarded. The broth is clear but has color, tastes like beef even though it's just bones and vegetables. Let it cool slightly. Skim the fat off the top or chill it completely until the fat solidifies, then scrape it away. No watery broth—that means you simmered hard enough.
+
+## Roasted Beef Bone Broth Tips and Common Mistakes
+
+Bones are everything. If they don't brown properly, the broth tastes hollow. High heat, give them time. The browning = flavor. Non-negotiable.
+
+Mousse texture is temperature sensitive. Reheat it too hot and it liquefies into nothing. Microwave in fifteen-second bursts and stir. Should be warm, not hot. Cold is stiff. There's a window where it's right. You'll find it.
+
+Don't overwhip the cream. Once it breaks, you either start over or fold the whole thing back into cold parsnip puree and rescue it that way. Actually works—have done it.
+
+Turnips instead of celery matters. Celery makes the broth taste green and vegetal. Turnips add sweetness. If you can't get turnips, try rutabaga. Not the same but close.
+
+No beef marrow bones available? Chicken bones work with a shorter roast, but add something umami-forward—dried mushrooms, miso, whatever. Straight chicken is too light.
+
+Assembly: ladle hot broth into cappuccino cups until three-quarters full. Spoon the mousse on top like foam. Black pepper over the top. Tiny spoon. Sip the broth, get a dollop of mousse together. Serve immediately.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Gluten Free Beef Broth with Parsnip Mousse
+
+**Can I make the broth ahead?**
+Yes. Make it two days before. Store it cold in the fridge—the fat layer on top keeps it sealed. Mousse should be made the day of or it gets watery. Reheat broth slowly. Don't boil it.
+
+**What if the mousse breaks when I fold in cream?**
+Fold gentler. You're looking for light, not mixed. If it already broke, fold the whole thing back into cold parsnip puree and start again with fresh cream. Takes three minutes.
+
+**Should I roast the bones longer if they're not dark enough?**
+No. Extend the heat instead. Higher temperature, shorter time gets better browning than low and long. If they're pale after fifty minutes, turn the heat up to 480 Fahrenheit and go another ten.
+
+**Can I use chicken bones instead of beef marrow bones?**
+Works but the broth's thinner. Shorter roast time too—they burn faster. Add umami to compensate. Dried mushroom, miso, something. Straight chicken broth tastes weak next to this.
+
+**How do I know the broth is done simmering?**
+Taste it. Should taste like beef, not boiled water. Color shifts to golden or light amber. Surface has that glossy sheen. Takes thirty-five to forty minutes of gentle simmer. Not longer—over-simmering clouds it.
+
+**Can I skip the parsnip mousse and just serve broth?**
+Technically yes. But it loses something. The mousse is where the depth comes from—earthiness, creaminess, the foam texture. It's the whole point. Just broth is thin by itself.
