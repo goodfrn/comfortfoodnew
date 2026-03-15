@@ -1,10 +1,10 @@
 ---
-title: "Cheesy Scalloped Potatoes with Creamy Sauce"
+title: "Cheesy Scalloped Potatoes with Cheddar"
 focusKeyphrase: "cheesy scalloped potatoes"
 slug: "cheesy-scalloped-potatoes"
-description: "Layers of thinly sliced potatoes baked with a creamy cheese sauce, sautéed onions, and nutmeg. Tender, bubbling, and ready in one dish for eight people."
-metaDescription: "Cheesy scalloped potatoes made with creamy sauce, garlic, and fresh chives. Learn the layering trick that prevents soggy centers. Try it tonight."
-ogDescription: "Creamy cheesy scalloped potatoes with nutmeg and caramelized onions. One pan, eight servings, no soggy middles."
+description: "Cheesy scalloped potatoes layered with Yukon Gold potatoes, sharp cheddar, and caramelized onions in a creamy cheese sauce. Serves eight."
+metaDescription: "Cheesy scalloped potatoes made with Yukon Gold potatoes, sharp cheddar cheese, and sautéed onions. Classic comfort food. Make it tonight."
+ogDescription: "Layers of Yukon Gold potatoes, sharp cheddar, and onions baked until golden. Pure comfort in one dish."
 focusKeyphrase: "cheesy scalloped potatoes"
 date: 2025-11-29
 draft: false
@@ -23,10 +23,17 @@ tags:
 - "american"
 keywords:
 - "cheesy scalloped potatoes"
-- "cheesy scalloped potatoes recipe"
 - "homemade scalloped potatoes"
+- "cheesy scalloped potatoes recipe"
 - "scalloped potatoes with cheese"
 - "easy cheesy scalloped potatoes"
+- "cheddar scalloped potatoes"
+- "baked scalloped potatoes"
+- "scalloped potato casserole"
+- "cheese sauce potato bake"
+- "recipe for scalloped potatoes with cheese and onions"
+- "sliced potatoes with cheese in oven"
+- "yukon gold potato recipe"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "320"
@@ -73,3 +80,105 @@ faq:
 - "q: How store leftovers? a: Fridge best. Wrap tight or airtight. Keeps sauce from drying. Reheat gently in oven covered, keep moist. Microwave reheats fast but messier, stir half way. Freeze possible but texture suffers — sauce thickens, potatoes less tender. Defrost overnight fridge. If baking again, add splash milk inside to loosen sauce."
 
 ---
+
+Butter a 3-quart dish. Slice potatoes thin—like 3 millimeters. The thinner they are, the faster they cook through and the creamier they get. Yukon Golds, not russets. They hold shape instead of turning to mush.
+
+Had a batch go soupy once because I didn't dry the potatoes after soaking. Water everywhere. Sauce tasted like nothing. That's when I learned: pat them dry, actually dry, before you layer anything. Changed everything.
+
+## Why You'll Love This Cheesy Scalloped Potatoes Recipe
+
+Feeds a crowd. Seriously. Four pounds of potatoes in one dish and it disappears.
+
+Smells incredible while it bakes. Your whole house. Not just the kitchen.
+
+Makes people feel like you actually know how to cook. It's not hard—just looks like it is.
+
+Works as a side for literally anything. Ham, roasted chicken, whatever. Could eat it alone though and nobody would judge.
+
+Tastes better the next day. Not sure why. Something about the sauce setting overnight.
+
+## What You Need for Homemade Scalloped Potatoes
+
+Yukon Gold potatoes. Four pounds. Peeled and sliced thin—about 3 millimeters. Russets get mushy. Don't bother.
+
+Whole milk. Two and a half cups. The full fat kind. Half-and-half works too if you're feeling rich. Skim tastes thin.
+
+Sharp white cheddar. One and a half cups shredded. The sharp stuff has more bite than mild. Color doesn't matter but white cheddar looks better on top.
+
+Butter and olive oil. Four tablespoons butter softened, two tablespoons olive oil. Butter alone burns. Oil keeps it from happening.
+
+One medium yellow onion diced fine, three cloves garlic minced. Not much. Just enough to know it's there.
+
+All-purpose flour. Three tablespoons. Makes the roux that thickens everything. No substitutes here—cornstarch tastes weird.
+
+Salt, black pepper, nutmeg. Just a pinch of nutmeg. It sounds weird but it's what makes this taste like actual scalloped potatoes and not just cheesy potatoes.
+
+Fresh chives at the end. Two tablespoons chopped. Sounds optional. Isn't. It's the only bright thing in the whole casserole.
+
+## How to Make Cheesy Scalloped Potatoes
+
+Heat your oven to 405 degrees. Butter the dish—I mean really butter it. Corners, sides, everywhere. The bottom layer will stick and burn if you don't.
+
+Peel and slice the potatoes. A mandoline makes this faster but a sharp knife works. The thickness matters—uneven slices means some cook while others are still crunchy. Aim for 3 millimeters across the board.
+
+Soak them in cold water while you do everything else. Stops the oxidation so they don't go gray. Drain them right before layering. Pat them dry with paper towels or a kitchen towel. Seriously dry. Water is what makes the sauce break.
+
+Warm olive oil in a medium pan over medium heat. When it shimmers, add the onion and garlic. Sprinkle some salt and pepper in there—just a little—and a pinch of nutmeg. This is where the flavor starts.
+
+Cook for about six minutes. You're looking for the onion to turn translucent and glossy. Not brown. Not even golden. Just soft and kind of see-through. You want it to taste sweet, not caramelized.
+
+## How to Get Cheesy Scalloped Potatoes Creamy and Golden
+
+Add the butter to the pan and let it melt into the oil. Stir it around for maybe 30 seconds, then whisk in the flour. Keep moving it. You're making a roux. After about 30 seconds the raw flour smell goes away and it stops looking chalky. That's when you stop.
+
+Pour milk in slow. Like, slowly. A little bit at a time while you whisk. This prevents lumps. It's the one thing that actually matters here. If you dump it all in, you get chunks.
+
+Keep whisking until it simmers. The sauce thickens when it heats. You want it thick enough to coat the back of a spoon—when you run your finger across, it doesn't immediately run back together. That's done.
+
+Stir in one cup of the shredded cheddar. It melts in fast and the sauce turns from pale to actually yellow. Glossy. Smells like cheese now instead of just cream.
+
+Drain the potatoes if there's water in the bowl. Lay a thin layer of cheese sauce on the bottom of the casserole. This keeps the potatoes from gluing to the dish and burning.
+
+Two layers of potato slices. Spoon sauce over them. More potatoes. More sauce. Keep going until everything's used up. The last thing in there should be sauce, not potatoes.
+
+Top the whole thing with the remaining half cup of shredded cheddar. Cover it loosely with foil—not sealed, just kind of tucked down at the edges. You want some steam to escape or everything gets waterlogged.
+
+Bake covered for about an hour and 15 minutes. You're waiting for the potatoes to get soft all the way through—a fork slides through with no resistance—and for the sauce to bubble gently around the edges.
+
+Pull the foil off. Bake another 15 to 20 minutes uncovered. The cheese on top should get bubbly and golden. Not burnt. If it's browning too fast, just tent the foil back over it or lower the heat to 375.
+
+## Scalloped Potatoes and Cheese Tips and Common Mistakes
+
+Let it rest. I know you don't want to. Twenty-five to 30 minutes minimum. The sauce sets and the whole thing holds together when you cut it. Too soon and it falls apart on the plate.
+
+Don't skip the potato soaking step. Or do and have watery sauce. Your choice. But you'll regret it.
+
+The roux should smell cooked but not brown. If it browns, it tastes burnt and the sauce gets thin. Start over if that happens.
+
+Nutmeg—use it. Not a lot. Just enough that nobody can quite name it. If they say "nutmeg," you used too much.
+
+If the top cheese is browning but the potatoes aren't soft yet, cover with foil and lower the heat. It's about the potatoes. The cheese is just the pretty part.
+
+Milk temperature doesn't matter as much as people say. Cold or room temp. Either works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cheesy Scalloped Potatoes Recipe
+
+**How thick should the potatoes be sliced?**
+About 3 millimeters. Like the thickness of a coin. Thicker than that and they don't cook through evenly. Thinner and they fall apart in the sauce.
+
+**Can you make this ahead of time?**
+Assemble it completely, cover it, refrigerate it up to 24 hours. Bake it straight from the fridge but add maybe 10 more minutes to the covered time. It'll be colder so it takes longer.
+
+**What if the sauce looks lumpy?**
+You added the milk too fast. Next time go slower. If it happens now, strain it through a fine mesh. Not ideal but it works.
+
+**Can you use different cheese?**
+Sharp cheddar is the move. Mild cheddar gets bland. Gruyère is too fancy for this dish. Monterey Jack works. Anything soft like brie or fresh mozzarella melts weird.
+
+**How long does it keep?**
+Stays good in the fridge for four days, maybe five. Tastes better the next day. After that it gets kind of old tasting but it's still fine.
+
+**Why not use heavy cream instead of milk?**
+It's richer and thicker which sounds good until everything tastes like nothing but cream. Milk lets you taste the potato and the cheese. Whole milk is the right move.
