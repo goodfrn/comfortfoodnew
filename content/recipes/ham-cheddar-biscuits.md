@@ -1,10 +1,10 @@
 ---
-title: "Ham Cheddar Biscuits"
+title: "Ham Cheddar Biscuits with Buttermilk"
 slug: "ham-cheddar-biscuits"
-description: "Savory ham and sharp cheddar folded into flaky biscuit dough. Cold butter bits create layers, buttermilk for tang and tenderness. Hands-on kneading—light, patient, no overmixing to keep biscuits fluffy. Butter brushed on top for golden crust. Adapted times, slight ingredient swaps to avoid dryness or sogginess. Visual and tactile clues carry you through baking, no timers slavishly followed. Salt, sugar balance richness. Cheese grated fresh, ham chopped into bite-size. Perfect for breakfast or snacks with a crunchy crust and soft middle. A simple, rustic comfort fare."
-metaDescription: "Ham Cheddar Biscuits with flaky layers from cold butter, sharp cheddar, and diced ham. Buttermilk adds tang; golden tops brushed with butter. Southern style comfort baking."
-ogDescription: "Flaky ham cheddar biscuits. Cold butter cuts layers, sharp cheese, salty ham cubes, buttermilk tang, golden crust brushed with butter. Watch color not timer."
-focusKeyphrase: "Ham Cheddar Biscuits"
+description: "Flaky ham cheddar biscuits made with cold butter, sharp white cheddar, and buttermilk. Tender, savory breakfast biscuits with a golden crust and soft interior."
+metaDescription: "Ham cheddar biscuits with buttermilk, sharp cheddar cheese, and country ham. Flaky, tender, and perfect for breakfast. Make it tonight."
+ogDescription: "Savory ham cheddar biscuits with fresh sharp cheddar, diced ham, and cold buttermilk. Flaky, golden, and irresistible."
+focusKeyphrase: "ham cheddar biscuits"
 date: 2026-01-22
 draft: false
 image: ham-cheddar-biscuits.jpg
@@ -22,8 +22,15 @@ tags:
 - "bread"
 keywords:
 - "ham cheddar biscuits"
-- "flaky biscuits"
-- "buttermilk biscuit recipe"
+- "cheddar biscuits"
+- "buttermilk biscuits with ham"
+- "ham and cheese biscuits"
+- "breakfast biscuits"
+- "flaky biscuits with sharp cheddar and ham"
+- "homemade ham cheddar biscuits"
+- "savory cheese biscuits recipe"
+- "country ham biscuits with melted cheese"
+- "comfort food biscuits"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
@@ -68,3 +75,68 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly room temp few hours fine. Refrigerate sealed container days, but texture firming happens. Reheat oven 350°F wrapped in foil to revive moisture. Microwave makes crumb gummy easily. Freeze dough portions lined wax paper, thaw chilled before baking."
 
 ---
+
+Oven goes to 440. You want it steamy so they puff fast and turn golden before the edges dry out. Line a sheet with parchment—ham and cheese biscuits stick otherwise. Shred the cheddar fresh. The pre-shredded stuff has potato starch on it and doesn't melt into the crumb the same way.
+
+## Why You'll Love These Ham Cheddar Biscuits
+
+Takes 42 minutes total. Maybe 20 of that is actual hands-on time.
+Warm them and the cheese pools slightly. Ham's already salty so you taste it immediately.
+Buttermilk biscuits are flaky because of the lamination—butter stays cold and makes layers. These aren't cake.
+Breakfast, lunch, side to soup. Works every time.
+Leftovers reheat better than store ones. Stays tender the next day even if you forgot to wrap them.
+
+## What You Need for Homemade Ham Cheddar Biscuits
+
+Two cups flour. All-purpose works. The kind in the blue bag.
+Three quarters teaspoon kosher salt. Not table salt—it's smaller and you'll oversalt.
+A tablespoon of sugar. Just enough so you taste it but don't think "sweet."
+Two thirds cup cold butter. Cubed. Straight from the fridge. If it sits out, the biscuits get dense.
+One cup sharp white cheddar. Fresh shredded. The boxed grater kind—the one that looks old and lives in everyone's kitchen. Sharp matters. Mild cheddar's too mild.
+Three quarters cup diced country ham. Pancetta works. Bacon works. The ham's got more salt so adjust later if needed.
+Two thirds cup cold buttermilk. Plain yogurt thinned with milk if you're out.
+Two tablespoons melted butter for the tops. Happens after mixing.
+
+## How to Make Flaky Buttermilk Biscuits with Ham
+
+In a bowl, toss flour with salt and sugar. Just a quick mix.
+Cut the cold butter into the flour. Pastry blender if you have one. Two knives work too. You're not trying to make it smooth—you want pieces the size of peas. Maybe some the size of lima beans. Those big chunks make pockets. Steam gets trapped. That's what makes them flaky.
+Stir in the cheese last. Once it's in, don't work the dough too much or the cheese starts melting and grease gets everywhere.
+Toss the ham in. Mix so it's scattered. You want little salty bits throughout, not clumps.
+Pour buttermilk in gradually. Fold it in with a fork or wooden spoon. You're not beating it. Just fold until the dough holds together. It'll feel shaggy. That's right. If it's crumbly, splash more milk—a teaspoon at a time. If it's wet and sticky, you went too far.
+
+## How to Shape and Bake Ham Cheddar Biscuits with Sharp Cheddar
+
+Flour the board. Dump the dough on it. Sprinkle more flour on top.
+Fold it over gently. Three times. Four times max. Any more and you're overworking it and the crumb gets tough instead of tender.
+Roll or pat it out to three quarters of an inch thick. Thicker biscuits rise taller. Taller means fluffier inside.
+Use a biscuit cutter. Two and a half to three inches. Press straight down. Don't twist—twisting seals the edges and stops the rise.
+Arrange them close on the pan but not touching. They expand a bit.
+Any scraps left over? Gather them gently. Pat them out and cut again. Don't overwork the scraps or they toughen.
+If the dough gets warm while you're doing this, stick the pan in the fridge for five minutes. Keeps the butter solid. Solid butter makes layers.
+
+Brush each top with melted butter. That's when they smell like something worth waking up for.
+Bake at 440 for 15 to 18 minutes. Watch the color. Tops should go deep golden. Bottoms should be chestnut brown and firm. Tap one—it should feel springy, not hollow, not hard.
+Pull them out. Let them sit on a rack for a couple minutes or they fall apart when you grab them. Eat warm.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Ham Cheddar Biscuits
+
+**Can I use pre-shredded cheese instead of fresh?**
+Not worth it. The starch coating keeps it from melting into the crumb. Shred it fresh. Takes two minutes on a box grater.
+
+**What if my biscuits are dense instead of fluffy?**
+Overworked dough. Or the butter wasn't cold. Or you mixed it too long. Next time fold just a few times and chill the dough if it gets warm.
+
+**How do I store leftover biscuits?**
+Room temperature in a bag. Or wrap them in foil. They stay tender that way. Fridge dries them out faster than room temp—don't bother.
+
+**Can I make the dough ahead?**
+Yeah. Shape them, stick the pan in the freezer for a few hours. Bake straight from frozen, maybe add a minute or two.
+
+**Is buttermilk biscuits the only way or can I use regular milk?**
+Buttermilk has acid. It reacts with baking soda if you add any. Regular milk just makes them less tender. Yogurt thinned with milk works too if you don't have buttermilk.
+
+**Why does the recipe say to press the cutter straight down instead of twisting?**
+Twisting seals the edges. Sealed edges don't rise as much. Straight down leaves edges open so steam pushes up instead of sideways.
