@@ -1,9 +1,9 @@
 ---
-title: "Brownie in a Jar: Layered Mix Recipe"
+title: "Brownie In A Jar Recipe With Cranberries"
 slug: "brownies-in-a-jar"
-description: "Dry ingredient brownie mix layered in a jar—vegetarian, nut-free, egg-free. Add wet ingredients at home, bake until the edges crack. Gift-ready."
-metaDescription: "Brownie in a jar recipe with layered dry ingredients. Nut-free, vegetarian. Mix wet ingredients, bake 20 minutes. Save this one."
-ogDescription: "Layered brownie mix in a jar. Vegetarian, nut-free. Bake with wet ingredients at home. Visual, shareable, ready to gift."
+description: "Brownie in a jar with layered flour, brown sugar, and dried cranberries. Mix-ready gift. Just add wet ingredients, bake until edges crack for fudgy results."
+metaDescription: "Brownie in a jar recipe featuring flour, carob powder, and tart cranberries. Layer it, gift it, bake it. Make it tonight."
+ogDescription: "Layered brownie jar with flour, sugar, and cranberries. Simple, gift-ready, delicious. Just add wet ingredients and bake."
 focusKeyphrase: "brownie in a jar"
 date: 2025-08-17
 draft: false
@@ -23,8 +23,13 @@ keywords:
 - "brownie in a jar"
 - "brownie in a jar recipe"
 - "brownie mix in a jar"
-- "chocolate brownie in a jar"
-- "layered brownie mix"
+- "layered brownie jar"
+- "gift brownie mix"
+- "homemade brownie mix"
+- "cranberry brownie recipe"
+- "vegetarian brownie mix"
+- "jar brownie gift"
+- "no egg brownie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -65,3 +70,96 @@ faq:
 - "q: How to store unopened and baked jar mixes? a: Dry sealed jar stored cool, no moisture, lasts weeks. Once baked, airtight container or wrap tight. Refrigerate prolongs freshness but humidity risk. Freeze sliced brownies for 2 weeks max; thaw before cutting. Label jars to avoid confusion, keep directions handy."
 
 ---
+
+Flour first. That's the rule. Pour it, level it, tap the jar until it settles flat. This is how a brownie in a jar actually works — it's not just cute, it's the method.
+
+## Why You'll Love This Brownie In A Jar
+
+Ready to bake in 27 minutes total. Fifteen minutes of layering, twelve in the oven.
+Looks like a gift. Costs almost nothing to make.
+Vegetarian. No butter until you actually bake it — the dry mix keeps for weeks.
+Dried cranberries instead of chocolate chips. Sounds different. Works anyway. Tart cuts through the richness.
+The toothpick test works every single time — you'll know exactly when it's done.
+
+## What You Need For Chocolate Brownie In A Jar
+
+All-purpose flour first — 200 ml. Unbleached works. Just flour.
+
+Salt comes next, 1.5 ml. Not much. Barely anything.
+
+Carob powder, 60 ml. Not cocoa. Carob. Sweeter, less intense. Layer it gently or it clumps.
+
+Light brown sugar, 150 ml. Press it down a little — not hard, just so it doesn't shift when you move the jar.
+
+Granulated sugar after that, 115 ml. Smooth the surface flat.
+
+Dried cranberries chopped up, 100 grams. About a half cup once they're cut. They go on top.
+
+When you bake it: melted butter, 125 ml. Water, 60 ml. That's it.
+
+## How To Make Chocolate Brownie Mix In A Jar
+
+Pick a clean, dry jar. 750 ml. Mason jar works. Glass works. It needs to close tight.
+
+Pour the flour in first. Level it with your finger or a straight edge — actually level it, not just poured. Tap the sides gently. The flour settles. This matters because it's the base layer and if it's tilted the whole thing looks wrong.
+
+Salt goes next, spread it even across the top. Don't rush it. Sounds dumb but uneven salt tastes weird.
+
+Carob powder is next. This is the one that clumps if you're not careful. Gently shake the sides of the jar as you pour. Not violent. Just shake it. The powder settles into the spaces instead of sitting on top of itself.
+
+Brown sugar follows. Press it down lightly — your palm flat against the top, not a fist, just pressure. Smooth the surface after.
+
+Granulated sugar on top of that. Make it level. This is the last dry layer before the cranberries.
+
+Cranberries go last. Chopped. Scattered across the top. Close the lid tight. Done.
+
+## How To Bake Chocolate Brownie Jar Recipe
+
+Preheat the oven to 175°C (350°F) first. Let it get actually hot — five minutes minimum.
+
+Empty the jar into a bowl. Pour in 125 ml melted butter and 60 ml water. This is where people mess up. Mix it until just combined. Stop. Don't overmix. Lumpy is fine. Overmixed means tight, dense brownies that taste like rubber.
+
+Grease a square pan, 20 cm. Pour the batter in. Spread it even. Doesn't have to be perfect but uneven spots bake weird.
+
+Twelve minutes in the oven. Not eleven. Twelve. The edges firm up first — they'll look dark and set. The middle should still have a tiny wobble when you move the pan. That's the sign.
+
+Pull it out. The top cracks. That's ready. Cool it for a few minutes first, then the toothpick test — stick one in the middle, pull it out. Moist crumbs clinging to it is perfect. A soaked, wet tip means it needs another minute. Crumbs look dry means you went too far.
+
+Slice it once it's cool enough to touch. Not hot, not cold. Cool.
+
+## Brownie In A Jar Tips And Common Mistakes
+
+Sinking dried fruit is real. Toss the cranberries in a spoonful of flour before you layer them — it grips them, keeps them from dropping to the bottom while it bakes.
+
+The top burns but the inside's raw? Lower the oven temperature next time. Or drape a piece of foil over the pan halfway through. Doesn't happen every oven but it happens.
+
+Storage — airtight container, that's all. Stays soft for three days. After that it gets harder but still tastes fine.
+
+Add chopped nuts or chocolate chips last minute if you want extra. Mix them into the batter, not the jar. The jar is the gift part. The batter is the baking part.
+
+Water seems weird. It is. But carob needs it — cocoa would need fat instead. This is the swap. Don't skip it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Brownie In A Jar
+
+**Can I use regular cocoa powder instead of carob?**
+Yeah. One-to-one swap. But cocoa's sharper — brownies'll taste darker, less sweet. Add a teaspoon of sugar if you go that route.
+
+**How long does the dry mix keep?**
+Weeks. Month maybe. Airtight. Cool place. The sugar won't harden if you sealed it right when it was dry.
+
+**Why is the jar better than just a bowl?**
+Looks like a gift. Takes the same time. Shipping them works because it's sealed. Also the layering makes you slow down — less overmixing when you have to empty it first.
+
+**Does this work with chocolate chips instead of cranberries?**
+Sure. Same amount. They're heavier so they sink more — flour them first.
+
+**What if my oven runs hot?**
+Start checking at ten minutes. The toothpick test is your real timer anyway. Not the clock.
+
+**Can I use this brownie mix in a jar as an actual gift?**
+Yes. That's the whole point. Just tape a label with the baking instructions on top or clip it to the lid. People like making it themselves.
+
+**Why 60 ml water and not more butter?**
+Carob drinks water. Cocoa wants fat. Different powders, different liquids. Don't mess with the ratio or it gets too dense.
