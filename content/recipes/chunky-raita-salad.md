@@ -1,9 +1,9 @@
 ---
-title: "Chunky Raïta Salad"
+title: "Chunky Raïta Salad with Yogurt & Mint"
 slug: "chunky-raita-salad"
-description: "Fresh, chunky veggie salad tossed with a tangy, herby raïta sauce. Tomato, cucumber, red pepper, and broccoli cauliflower replace traditional cauliflower—adds crunch and color. Dijon mustard swapped with whole-grain for texture; fresh mint added for a bright twist. Takes about 12 minutes total from chopping to chill. Perfect chilled but not soggy. Vegetarian, gluten-free, nut-free, egg-free, lactose-free except yogurt. Great for quick sides or light lunches. Easy to adapt, forgiving on portions and herb types. The yogurt sauce thick enough to coat but thin enough to stay creamy and lively. Salt balance critical here; too little, flat; too much, overwhelms the fresh veg."
-metaDescription: "Chunky raïta salad with tomato, cucumber, broccoli florets tossed in a thick yogurt and whole-grain mustard sauce. Fresh herbs, crisp texture, quick prep time."
-ogDescription: "Fresh chunky veggies meet tangy yogurt and whole-grain mustard. Chill 7 mins; salt well for bright flavor. Crunch and creamy mix with fresh mint lift."
+description: "Chunky raïta salad with fresh tomato, cucumber, and broccoli tossed in tangy yogurt sauce with mint. Ready in 12 minutes for easy lunches."
+metaDescription: "Make this chunky raïta salad with tomato, cucumber, and yogurt sauce infused with fresh mint. Quick, vegetarian, and refreshing. Try it tonight."
+ogDescription: "Fresh chunky raïta salad with tomato, cucumber, and broccoli in a creamy yogurt mint sauce. Ready in 12 minutes."
 focusKeyphrase: "chunky raïta salad"
 date: 2025-09-28
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "mint"
 keywords:
-- "raïta"
-- "chunky salad"
-- "yogurt dressing"
+- "chunky raïta salad"
+- "raïta salad with fresh vegetables"
+- "cucumber tomato salad with yogurt sauce"
+- "yogurt salad"
+- "vegetable salad"
+- "easy vegetarian salad"
+- "raw vegetable salad with herbed yogurt"
+- "healthy mint salad"
+- "fresh mint salad recipe"
+- "quick vegetable salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "85"
@@ -64,3 +71,96 @@ faq:
 - "q: How long to store leftovers? a: Keep in airtight container fridge max 24 hours. Veg crunch fades fast, soggy sets in. Stir in fresh mint and lemon juice before serving again to wake up flavors. Avoid pre-mixing too far ahead; sauce separates, veg softens."
 
 ---
+
+Chop everything first. That's the move. Bite-sized but chunky—you want texture here, not mush. Tried the fine mince thing once. Learned fast.
+
+## Why You'll Love This Chunky Raïta Salad
+
+Ready in 12 minutes flat. No cooking. Literally just knives.
+Raw vegetables stay crisp because you're not drowning them. The yogurt sauce coats but doesn't soak everything into mush.
+Mint. Fresh mint is doing actual work here—not just sitting there. Changes everything.
+Whole-grain mustard adds this weird grittiness that kind of works. Skip it if you hate texture in dressing.
+Works as a side for basically anything. Curry, grain bowls, just plain bread. Vegetarian, obviously.
+Tastes better after it sits. Not immediately. But after it chills, the flavors settle in.
+
+## What You Need for a Healthy Yogurt Salad
+
+One tomato. Diced medium. Chunks, not dice.
+
+One small cucumber. Rough chop. Whatever size feels right. Doesn't need to be perfect.
+
+Half a red bell pepper sliced thin. Color matters here. Texture matters more.
+
+Broccoli florets. Raw. A heaping quarter cup. Not cooked. The crunch stays.
+
+One green onion sliced thin. All of it—white and green parts.
+
+Fresh mint. Chopped. Heaping quarter cup. Don't skimp. It's the whole point.
+
+Plain yogurt. Two percent. Thicker style works better than runny. About half a cup. Greek yogurt is fine too. Actually kind of better if you have it.
+
+Whole-grain mustard. One teaspoon. The kind with visible seeds. Dijon works if you hate texture, but you're missing something.
+
+Salt. Black pepper. Taste as you go.
+
+## How to Make a Vegetable Salad with Herbed Yogurt
+
+Get all your vegetables ready first. Similar sizes. Bite-sized but chunky enough that they don't disappear. This takes maybe five minutes if you're moving slow. The consistency matters because small pieces release water faster. You don't want a soup.
+
+Mix the yogurt and mustard in a small bowl. Just stir until you can't see the streaks anymore. Doesn't need to be smooth. It won't be. The whole-grain texture stays visible. That's good.
+
+Toss the vegetables with the yogurt gently. Use a large bowl so you're not packing everything together. Overmix and the vegetables start breaking down. They release water. The whole thing gets soggy. You're going for coated but still holding its shape.
+
+Season with salt and pepper. Go light at first. Cold food tastes less seasoned. You can always add more after it chills. Taste before serving.
+
+## How to Get a Crispy Cucumber Tomato Salad with Yogurt Sauce
+
+Refrigerate it. At least seven minutes. This is when the flavors actually meld. The vegetables cool down. The yogurt sets up a bit. Seven minutes minimum. Not 30. Seven.
+
+Watch what happens in the bowl. If water starts pooling at the bottom, drain it off or pat the vegetables dry before mixing next time. This salad wants to stay crisp. Swimming in liquid is the enemy.
+
+Serve it chilled or slightly cool. Not room temperature. Not warm. Cold. The texture only works cold.
+
+## Chunky Raïta Salad Tips and Common Mistakes
+
+Don't use mushy yogurt. Thicker is better. It coats instead of drowning.
+
+Whole-grain mustard is optional but don't skip it thinking you're simplifying. It does something. If you hate seeds in your dressing, use Dijon instead. Different vibe but still works.
+
+Chop everything roughly the same size or you'll have massive pieces next to dust. Annoying to eat.
+
+Fresh mint. Not dried. Dried tastes like nothing. Don't bother.
+
+Leftovers last maybe 24 hours before the vegetables go soft. Add fresh herbs or a squeeze of lemon juice if you're eating them the next day. Refreshes them somehow. Not sure why but it works.
+
+Don't let it sit overnight. Well, you can. But crisp becomes limp. Make it fresh.
+
+Green onions matter. Raw. They give a sharp thing that balances the creamy. Cooked onions don't do that.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Vegetarian Salad
+
+**Can I make this a day ahead?**
+Not really. Vegetables get soft. Seven minutes to 24 hours tops. After that, texture's gone. Better to chop and mix right before eating.
+
+**What if I don't have yogurt?**
+Then it's not raïta. Use a different dressing. Honestly, the yogurt-mustard thing is the whole point.
+
+**Is broccoli necessary?**
+No. Use cauliflower. Use more cucumber. Use nothing. It just adds crunch. Swap for whatever you want.
+
+**Can I use Greek yogurt?**
+Yeah. Actually better. It's thicker. Less watery pooling. Everything stays firmer longer.
+
+**Should I cook the broccoli?**
+Don't. The whole salad is raw. Cooked broccoli gets soft when it sits in the yogurt. You lose the crisp.
+
+**How do I keep this from getting watery?**
+Drain the vegetables after chopping. Pat them dry. Don't oversalt. Use thicker yogurt. Don't let it sit too long. It's just going to release water eventually no matter what you do.
+
+**Can I add more mint?**
+Yes. More is fine. Mint can't hurt here. It's the only herb that does actual work.
+
+**Does the green onion really matter?**
+Yeah. It adds something sharp that balances the creamy. Miss it and it tastes flatter. Use it.
