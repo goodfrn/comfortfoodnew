@@ -1,10 +1,10 @@
 ---
-title: "Baby Broccoli Purée Plus"
+title: "Homemade Baby Broccoli Purée with Cauliflower"
 slug: "baby-broccoli-puree"
-description: "Steamed broccoli puréed finely for babies with a twist of cauliflower for milder taste. Subtle texture, vibrant green preserved by ice bath. Water from cooking adjusted to get right consistency. Slightly altered times and ingredient quantities to balance nutrition and texture. Dairy free, gluten free, vegan. Ideal for introducing green vegetables early on. Uses tactile and visual doneness cues instead of strict timing."
-metaDescription: "Baby Broccoli Purée Plus with steamed broccoli and cauliflower, vibrant green color locked by ice bath, creamy texture using reserved cooking water, dairy free and vegan."
-ogDescription: "Steamed broccoli and cauliflower pureed creamy with bright green color locked by ice bath. Dairy free, gluten free, vegan baby puree with tactile cues for done."
-focusKeyphrase: "baby broccoli purée"
+description: "Homemade baby broccoli purée made with steamed broccoli and cauliflower florets. Finely puréed, dairy-free, and gluten-free for easy digestion and early green vegetable introduction."
+metaDescription: "Make homemade baby broccoli purée with cauliflower at home. Steamed broccoli and cauliflower puréed smooth, dairy-free, and gluten-free. Try it tonight."
+ogDescription: "Steamed broccoli and cauliflower purée for babies. Smooth, vibrant green, dairy-free, and perfect for introducing vegetables early on."
+focusKeyphrase: "homemade baby broccoli purée"
 date: 2025-09-26
 draft: false
 image: baby-broccoli-puree.jpg
@@ -21,9 +21,15 @@ tags:
 - "vegan"
 - "healthy"
 keywords:
-- "baby puree"
+- "homemade baby broccoli purée"
+- "broccoli cauliflower baby food puree"
+- "steamed broccoli puree for babies"
+- "baby broccoli purée"
 - "broccoli puree"
-- "cauliflower puree"
+- "vegan baby puree"
+- "gluten free baby food"
+- "baby food puree"
+- "broccoli cauliflower puree"
 breadcrumb: ["Home", "Recipes", "Baby Food"]
 nutrition: 
  calories: "45"
@@ -65,3 +71,65 @@ faq:
 - "q: How to store puree safely? a: Fridge airtight up to 48 hours. Freeze portions with room to expand, use silicone trays or containers. Thaw in fridge overnight. Gentle reheating only; avoid hot spots from microwave. Use within 1 month frozen."
 
 ---
+
+Rolling boil. That's the move. Not a gentle simmer where everything gets mushy and gray—a full rolling boil, 7 to 9 minutes, watching the color flip from dull to that bright emerald green that means it's done. Ice bath right after. Stops the cooking dead. Otherwise it keeps going soft and turns olive and nobody wins.
+
+## Why You'll Love This Broccoli Cauliflower Puree
+
+Makes a full week of baby food in 21 minutes flat.
+No blending required if you don't care about lumps — fork works fine, though a food processor makes it actually creamy.
+Gluten free. Vegan. No weird additives. Just broccoli, cauliflower, water.
+Freezes in portions. Thaw one tray when you need it.
+Cauliflower's in there for a reason — takes the bitter edge off the broccoli. Kid might actually eat it.
+
+## What You Need for Homemade Baby Broccoli Puree
+
+Two small heads of broccoli. About 8 cups roughly chopped florets. Stems are fine; peel the thick skin off if they're huge.
+Half a cup of cauliflower florets. Not a lot. Just enough to soften the puree and add subtle sweetness. Broccoli alone tastes sharp.
+A cup of filtered water or low sodium vegetable broth. Reserved from the cooking water if you want — that's where the nutrients live anyway.
+Extra water on standby. Purees thicken as they cool. You'll need more liquid than you think.
+
+## How to Make Baby Broccoli Puree
+
+Boil water. A large pot, filled enough that the florets can move around. Let it roar — rolling boil, not a simmer. That rolling action keeps everything cooking evenly and prevents that sulfurous, bitter taste that kills the whole thing.
+Drop in the broccoli and cauliflower. Don't crowd it. They need space. The water should keep bubbling hard. If it stops boiling, wait for it to come back before you start timing.
+Watch the color. Seven to nine minutes in, the broccoli goes bright green. That's your signal. Grab a piece with a fork — it should give when you push but not fall apart. Trust what you feel more than the timer.
+
+Drain into a bowl of ice water. This is not optional. The ice water stops the cooking immediately so it doesn't keep softening. Broccoli that doesn't get shocked turns dull and bitter. Leave it in the ice bath for maybe 2 minutes. No longer. Then drain it again, really drain it — squeeze it gently if you need to.
+
+## How to Get Baby Puree Smooth and Creamy
+
+Transfer the broccoli and cauliflower to a food processor or blender. Add the cooking water slowly. You're aiming for creamy, not runny. Add a little. Blend. Check it. Add more if it's too thick.
+The texture should coat your finger lightly. Not drip. Not stay as a lump. That's your target.
+No food processor? Fork works. Expect some texture. Fine mesh sieve if you want it smoother. Blender if you have one.
+Taste is mild because of the cauliflower. It takes the harsh edge off. Baby purees need that.
+
+## Baby Broccoli Puree Storage and Troubleshooting Tips
+
+Airtight container, fridge, 48 hours max. Reheat gently — boiling water bath, not microwave if you care about nutrients.
+Freeze it. Ice cube trays work perfect. Pop them out once they're solid, throw them in a freezer bag. Thaw one or two cubes in the morning.
+If it smells sulfurous or tastes bitter, you boiled it too long or used water that was too hot before you added the veg. Try steaming next time — basket over boiling water, 10 to 12 minutes. Softer on the flavor, keeps more nutrients.
+If it thickens up in the fridge, stir in boiled water or vegetable broth. Not milk. Keep it vegan and dairy free in case the baby's sensitive.
+Baby won't touch it? Mix it with unsweetened apple puree or carrot puree. Subtle flavor. Makes it less boring.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baby Broccoli Puree
+
+**Can I use frozen broccoli for baby food puree?**
+Yeah. Skip the boiling step. Steam it straight or thaw it first. Frozen's already been blanched so it cooks faster. Maybe 5 minutes steaming instead of 7 to 9. Still get the ice bath after.
+
+**How long does broccoli cauliflower baby puree last in the freezer?**
+Three months easy. Longer if you're careful. First in, first out. Mark the tray with the date.
+
+**What if my baby puree is too thick?**
+Stir in more water. Boiled water. Or vegetable broth. One tablespoon at a time. Better to add slowly than end up with soup.
+
+**Is steamed broccoli puree for babies better than boiled?**
+Different. Steaming keeps more nutrients and flavor. Boiling's faster and easier. Either works. Steamed tastes slightly less bitter if that matters.
+
+**Should I add salt to gluten free baby food puree?**
+No. Babies don't need it. Their kidneys can't handle it. Plain is fine.
+
+**Can I blend broccoli puree with other vegetables?**
+Sure. Carrot. Apple. Sweet potato. Cauliflower. Squash. Anything mild. This puree goes with everything.
