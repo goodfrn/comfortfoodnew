@@ -1,10 +1,10 @@
 ---
-title: "Honey Cinnamon Sweet Potatoes"
+title: "Honey Cinnamon Sweet Potatoes in Cast Iron"
 slug: "honey-cinnamon-sweet-potatoes"
-description: "Sweet potatoes seared in butter until golden crust forms, then tossed with honey, cinnamon, salt, and pepper. Finished baking in the oven until tender with visual cues to catch doneness. Uses cast iron skillet for even sear. Substitutions and textures explained. Timing adjusted slightly from the original method; sensory details guide cooking instead of strict clocks."
-metaDescription: "Honey Cinnamon Sweet Potatoes seared in butter till crust forms, tossed with honey and spices, then oven roasted till tender with sensory doneness cues."
-ogDescription: "Sear sweet potatoes in butter till golden crust, drizzle honey and cinnamon, then bake till tender. Watch, smell, poke for doneness not just time."
-focusKeyphrase: "Honey Cinnamon Sweet Potatoes"
+description: "Honey cinnamon sweet potatoes seared in butter until golden, then baked until tender. This cast iron side dish features diced sweet potatoes, cinnamon, and honey for a caramelized finish."
+metaDescription: "Honey cinnamon sweet potatoes recipe: butter-seared cubes with cinnamon and honey, baked in cast iron. Golden, tender, and delicious. Make it tonight."
+ogDescription: "Butter-seared sweet potato cubes with cinnamon, honey, and a golden crust. Cast iron roasted until tender and caramelized."
+focusKeyphrase: "honey cinnamon sweet potatoes"
 date: 2026-01-11
 draft: false
 image: honey-cinnamon-sweet-potatoes.jpg
@@ -21,9 +21,14 @@ tags:
 - "roasted"
 - "side dish"
 keywords:
-- "sweet potatoes"
-- "cast iron skillet"
-- "honey cinnamon"
+- "honey cinnamon sweet potatoes"
+- "roasted sweet potatoes"
+- "cast iron sweet potato recipe"
+- "sweet potato side dish"
+- "butter seared sweet potatoes with honey"
+- "caramelized sweet potato cubes"
+- "sweet potatoes with cinnamon and honey"
+- "cast iron roasted sweet potatoes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "170"
@@ -61,3 +66,61 @@ faq:
 - "q: How to store leftovers and reheat? a: Cool fast. Refrigerate covered but crispness lost fast. Reheat in skillet on medium to revive crust; microwave softens everything. If moist, try dry pan heat, shake pan to avoid sticking. Not great next day but better than soggy."
 
 ---
+
+Butter hits the pan first. Gets foamy, nutty, smelling like it's doing something. Drop the sweet potato cubes in—don't crowd them, that's the whole thing. You want a crust. Golden. That takes 5 to 7 minutes of actual browning before anything else happens. Then cinnamon, salt, pepper. Then honey. Then the skillet goes straight into a 355°F oven for 15 to 20 minutes while everything caramelizes together. Total time: 34 minutes. That's it.
+
+## Why You'll Love This Sweet Potato Side Dish
+
+Comes together in just over half an hour. Roasted sweet potatoes but actually crispy on the edges because you sear them first in butter. The kind of side dish that tastes like you spent more time than you did. Cinnamon and honey do most of the work. Leftovers hit different—sometimes better cold the next day, which sounds weird but it's true. One cast iron pan handles everything. No sheet pans, no babysitting. Works with any main dish you're making.
+
+## What You Need for Cast Iron Roasted Sweet Potatoes
+
+Four cups of sweet potatoes cut into chunks. About an inch each—doesn't have to be perfect. Three tablespoons of butter. Coconut oil works. Ghee works. Regular oil doesn't because you need that nutty flavor. Two tablespoons of honey. Maple syrup if you want to change it up. One teaspoon of cinnamon—ground, not the stick kind. Salt. Pepper. That's genuinely everything.
+
+## How to Make Roasted Sweet Potatoes with Cinnamon and Honey
+
+Heat the oven to 355°F first. Not 400. This temperature matters because you want the potatoes to cook through without burning the honey. Get a cast iron skillet really hot on medium-high. You're looking for that shimmer—heat that makes you feel it before you touch it. Butter goes in next. Watch it. It'll foam up, then the foam settles, then it smells amazing and nutty. That's when you know it's ready. Not brown. Just nutty.
+
+Add the potatoes in one layer. They should touch the pan, not stack on each other. Stacking means steaming. You don't want that. Just let them sit there. Five to seven minutes minimum. Walk away if you want. The crust forms on its own. Check once. If one side's brown, flip it. Two sides browned is the goal before anything else.
+
+## How to Get Crispy Golden Sweet Potatoes with Spices
+
+Cinnamon goes on now. Salt too. Black pepper—crack it fresh if you can, but ground's fine. Swirl the pan gently so the spices touch every piece. Honey drizzles over top. Not all at once. Pour it slow so it coats everything, not pools in one spot. You'll hear a soft sizzle when honey hits the hot butter. That's the sound of it working.
+
+Skillet goes straight into the oven. No transfer to another pan. Cast iron keeps everything hot and even. Fifteen to twenty minutes depending on your oven. The cubes are done when a fork goes through one easily but it doesn't fall apart. That's the difference between done and mushy. Look for the edges to get a little caramelized and darker—that's where the flavor actually lives.
+
+Pull it out. The smell is immediate and thick—butter, cinnamon, honey all melted together. Serve it hot. Or cold. Honestly, cold works.
+
+## Cast Iron Sweet Potato Tips and Common Mistakes
+
+Don't skip the sear. That's what makes it crispy instead of just roasted. Some people want to toss everything with oil first and bake it on a sheet pan. That works fine. Tastes different though. Less rich. The butter-in-the-pan method changes the whole thing.
+
+Crowding kills it. If potatoes are stacked, they steam. That means they get soft and pale instead of golden and caramelized. One layer. Actually matters.
+
+Temperature—make sure the pan is actually hot before butter goes in. Lukewarm butter doesn't sear. It just melts and sits. Hot butter foams and browns and creates that crust. You feel the difference when you taste it.
+
+Honey can burn if your oven runs hot. Watch it the last few minutes if it's looking dark. A little char on edges is good. Black and crispy is overdoing it. Haven't tried maple syrup enough to know if it burns faster. Honey I know. Use honey.
+
+Leftover sweet potatoes keep fine for like four days. Cold, room temp, reheated—all work. The honey and cinnamon stay. Sometimes the texture gets softer which people don't expect but it's still good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Sweet Potatoes with Cinnamon and Honey
+
+**Can I use a regular pan instead of cast iron?**
+Yeah. Won't hold heat quite as well, but it'll work. The edges might not get as crispy. Cast iron just does it better. If you have it, use it.
+
+**What if my oven temperature is different?**
+355°F is specific because anything hotter and honey burns before potatoes finish. 375 might work. 400 is too much. Potatoes take longer at lower temps so don't go below 350. Basically—don't get creative with the temperature.
+
+**How big should the cubes be?**
+About an inch. Bigger ones don't cook through in 20 minutes. Smaller ones turn to mush. An inch is the sweet spot.
+
+**Can I prep these ahead of time?**
+Cut the potatoes and they'll oxidize. Doesn't taste bad but they look brown. Cut them right before cooking. The whole thing only takes 34 minutes anyway. Not worth prepping early.
+
+**Should I use salted or unsalted butter?**
+Unsalted. You're adding salt separately, so salted butter makes it easy to oversalt. Matters more than you'd think.
+
+**Does maple syrup work the same as honey?**
+Close. Might be slightly less thick, so it'll drizzle easier. Flavor's different—more maple, less floral. The caramelization works the same way. Try it if you want a twist.
