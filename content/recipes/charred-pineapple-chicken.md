@@ -1,10 +1,10 @@
 ---
-title: "Charred Pineapple Chicken"
+title: "Grilled Chicken with Pineapple Salsa"
 slug: "charred-pineapple-chicken"
-description: "Chicken marinated in a zesty blend of pineapple and garlic with coconut milk, lime juice, ginger, and brown sugar. Charred on a medium grill until juicy and smoky, then topped with a fresh pineapple salsa. Great for backyard cookouts. Prep involves marinating 10-24 hours to deepen flavor. Cook using indirect heat, watching for the skin to crisp up and juices to run clear. Pineapple subs mango for a tangy twist. Keep an eye on sugars to avoid burning. Ideal when you want tropical brightness in grilled chicken with a savory punch."
-metaDescription: "Charred Pineapple Chicken with juicy skin-on thighs marinated in pineapple, garlic, coconut milk, lime, and ginger. Grill indirect heat till crispy skin cracks."
-ogDescription: "Juicy chicken thighs marinated in pineapple and coconut milk. Char on grill indirect heat; crisp skin, sweet tang, spicy fresh salsa finish. Watch sugars closely."
-focusKeyphrase: "Charred Pineapple Chicken"
+description: "Grilled chicken thighs marinated in pineapple, coconut milk, garlic, lime, and ginger. Charred until juicy with crispy skin and topped with fresh pineapple salsa for tropical flavor."
+metaDescription: "Grilled chicken thighs with pineapple salsa—marinated in coconut milk, garlic, lime juice, and ginger. Charred to perfection. Try it tonight."
+ogDescription: "Tropical grilled chicken thighs with pineapple salsa, marinated in coconut milk, garlic, and fresh lime juice."
+focusKeyphrase: "grilled chicken with pineapple salsa"
 date: 2025-12-12
 draft: false
 image: charred-pineapple-chicken.jpg
@@ -21,9 +21,16 @@ tags:
 - "summer"
 - "asian"
 keywords:
-- "pineapple chicken"
-- "grilled chicken"
-- "tropical marinade"
+- "grilled chicken with pineapple salsa"
+- "grilled chicken thighs"
+- "pineapple chicken marinade"
+- "coconut lime marinated chicken"
+- "garlic ginger chicken grilled"
+- "tropical grilled chicken"
+- "pineapple salsa chicken"
+- "summer grilling recipes"
+- "charred chicken thighs"
+- "easy grilled chicken recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "370"
@@ -78,3 +85,83 @@ faq:
 - "q: How store leftovers? a: Cool quickly, fridge airtight. Can freeze but texture changes—pineapple acid softens meat over time. Reheat gentle, cover to keep moisture. Fresh salsa best added fresh again; avoid sogginess."
 
 ---
+
+Twelve hours in advance, you're thinking about char and tropical fruit and crispy chicken skin that crackles when you bite it. Pineapple gets soft in coconut milk with garlic and ginger. The acid from lime starts working on the meat, but not too much—you want chicken that's actually juicy when you pull it off the grill, not ceviche. Summer grilling recipes usually feel heavy. This one doesn't.
+
+## Why You'll Love This Pineapple Chicken
+
+Skin gets crispy. Actually crispy. Like the pan-seared kind but from smoke and fat rendering over low heat for 20 minutes.
+
+The marinade does the work. Twelve hours means you're not thinking about seasoning the morning of—it's already soaked in ginger, garlic, coconut milk that adds richness without heaviness. Just oil the grates and light the fire.
+
+Pineapple salsa at the end. Cold against hot. Sweet against char. The cilantro and chili make it less dessert-like and more complex than you'd expect from fruit and sugar.
+
+Works as a weeknight dinner if you marinate the night before. Twenty minutes grilling, then eat. No complicated plating.
+
+Coconut lime marinated chicken thighs stay juicy where breast would dry out. Thighs are forgiving. Harder to wreck.
+
+## What You Need for Pineapple Garlic Chicken Marinade
+
+Fresh pineapple. A cup of chunks. Not canned—the enzymes work faster on the meat and the flavor is brighter. Three garlic cloves, not minced yet. Coconut milk, the full-fat kind. Three tablespoons of fresh lime juice. That's about one lime. One tablespoon of minced ginger—grate it if you have a microplane, mince it if not. Brown sugar, a tablespoon and a half. Kosher salt. The zest from your second lime because zest matters more than people think. Four boneless skin-on chicken thighs. The skin is why you're here. Neutral oil for the grates—vegetable, canola, avocado. Not olive. For the salsa after: another cup of pineapple diced smaller, a quarter cup of cilantro chopped, one small red chili minced up, the juice from a lime, and a pinch of salt.
+
+## How to Make Asian Grilled Chicken Thighs
+
+Dump the pineapple chunks and garlic into a food processor. Pulse. You want almost a coarse paste—some chunks surviving, nothing smooth. This matters because you're looking for texture, for little pockets of ginger and zest that explode in your mouth later, not for a marinade that reads as one uniform flavor.
+
+Pour in coconut milk. Fresh lime juice. The ginger. Brown sugar. Salt. Lime zest. Blitz until combined but not smooth. Still chunky. Texture is the whole point.
+
+Transfer it to a big bowl or a ziplock bag. Drop the chicken in. Turn it. Press it so the marinade gets into the crevices, under the skin if you can, everywhere. Seal it up. Into the fridge. Ten to 24 hours. Longer is better—the acid and coconut milk and salt work deeper into the meat. But don't go past a day. The lime juice starts acting like ceviche at that point, and you want grilled chicken, not raw-cooked chicken.
+
+## How to Get Crispy Skin on Grilled Pineapple Chicken
+
+Oil the grill grates with a heavy brush or a paper towel soaked in neutral oil. This is important. Stick prevents char from sticking harder.
+
+Set up indirect heat. You're aiming for 325 to 350 degrees. That's the temperature zone where fat renders and skin crisps without the sugars in the pineapple marinade burning black before the chicken's done. Keep direct flames away from where the chicken's going.
+
+Take the chicken out of the fridge. Wipe off excess marinade. Too much clinging to the skin means flare-ups and burnt spots instead of even color. Leave some on. Just not pooling.
+
+Lay it skin side down on the indirect heat side. Let it sit there. Don't move it. The fat starts rendering. You'll hear it sizzle quietly. The skin starts turning golden. Then darker. Then you start hearing crackles—little pops from the fat rendering out and the skin pulling tight and crispy.
+
+This takes 20 to 25 minutes. Maybe longer. Your grill isn't my grill. But when the skin sounds like it's cracking when you touch it, poke the thickest part of the thigh. Juices should run clear. Or use an instant-read thermometer—160 degrees in the thickest part, no higher. Pulling it off at 158 or 159 and letting it carry over is better than 162. Thighs stay juicy. Breast would dry out, which is why thighs are the move here.
+
+## Charred Pineapple Chicken Grilling Tips
+
+Rest it for five minutes after you pull it off heat. Just sit there under a loose tent of foil or nothing. The meat relaxes. Fibers settle. When you slice it, the knife goes cleaner, the pieces stay juicy instead of weeping.
+
+Slice against the grain. The meat fibers separate easier. The texture is better. You'll feel the difference immediately.
+
+The pineapple salsa goes on top. Diced pineapple, cilantro, the minced chili, lime juice, salt. Cold against the hot, charred chicken. It cuts through the richness from the skin and the coconut milk. The chili adds heat that balances the sweetness. The cilantro makes it herbaceous instead of cloying.
+
+If you don't have a food processor, mince the pineapple and garlic by hand. More chew in the marinade. Not the same texture but still good. The flavors are still there.
+
+Coconut milk is the key to silkiness. It adds fat that coats your mouth and balances the acid from lime. If you want to sub the brown sugar, honey or maple syrup work. Honey's cleaner. Maple's deeper. Watch the grill temp though—different sugars burn at different speeds. Honey especially will char faster.
+
+No grill? Roast the thighs at 375 in the oven on a wire rack until the skin's crispy, about 30 minutes. Still works. You lose the smoky char but the pineapple coconut flavor is still there and the skin still crisps.
+
+Bone-in skin-on thighs. That's the non-negotiable part. The skin crisps. The bone keeps the meat juicy. Breast meat is too lean. It dries out at these temperatures unless you basically poach it, which defeats the purpose of grilling.
+
+Keep an eye on grill temps. The sugar in the marinade caramelizes fast. Flames get wild. Have a spray bottle nearby for flare-ups. A quick spritz kills the flames without cooling the grill too much.
+
+The lime zest. Small detail. But zest is oils, citrus intensity that perk up the whole plate. Don't skip it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pineapple Chicken with Coconut Milk
+
+**Can I use fresh pineapple or does it have to be canned?**
+Fresh. The enzymes work on the meat faster and the flavor tastes brighter. Canned tastes muted and the juice is usually corn syrup.
+
+**How long can I marinate the chicken?**
+Ten hours minimum to get flavor in there. Up to 24 hours. Past that and the lime juice starts cooking the meat like ceviche. Not the vibe you're going for.
+
+**What if I don't have a grill?**
+Oven works. Wire rack, 375 degrees, about 30 minutes skin side up. Crispy skin, same marinade flavors, but no char. Still tastes good.
+
+**Can I use chicken breast instead of thighs?**
+You can. Breast will dry out faster though. Thighs have fat in them. The skin stays juicy. Breast doesn't. If you're stuck with breast, reduce the cooking time drastically and watch it close.
+
+**Do I need a food processor?**
+No. Mince the pineapple and garlic by hand. More chew in the marinade. Different texture, same flavor.
+
+**Can I marinate in the morning and grill at night?**
+Depends on your fridge. Longer is better for flavor. If it's less than ten hours, the marinade hasn't really settled in yet. Twelve hours minimum is the sweet spot.
