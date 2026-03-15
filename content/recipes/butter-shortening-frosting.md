@@ -1,10 +1,10 @@
 ---
-title: "Butter Shortening Frosting Recipe"
+title: "Icing Recipe With Crisco and Butter"
 slug: "butter-shortening-frosting"
-description: "Butter and shortening frosting that stays stable and creamy. Salt balances the sweetness, gel colors blend without weight, and it pipes or spreads perfectly for any cake."
-metaDescription: "Butter shortening frosting recipe for cakes and cupcakes. Stable, creamy texture that pipes beautifully. Mix slow, add flavor last, adjust consistency with water or milk."
-ogDescription: "Butter and shortening frosting that holds its shape but stays creamy. Works for piping, spreading, or crumb coating any cake."
-focusKeyphrase: "butter shortening frosting"
+description: "Stable buttercream frosting made with butter, vegetable shortening, and powdered sugar. Salt and vanilla enhance flavor while staying creamy and perfect for piping."
+metaDescription: "Icing recipe with Crisco combines butter and shortening for stable frosting. Powdered sugar and milk create a creamy texture. Make it tonight."
+ogDescription: "Butter shortening frosting that stays stable and creamy. Perfect for cakes, cupcakes, and decorating with gel colors."
+focusKeyphrase: "icing recipe with crisco"
 date: 2025-12-26
 draft: false
 image: butter-shortening-frosting.jpg
@@ -20,11 +20,16 @@ tags:
 - "homemade"
 - "party"
 keywords:
-- "butter shortening frosting"
-- "butter crisco frosting"
-- "buttercream frosting with shortening and butter"
 - "icing recipe with crisco"
+- "butter shortening frosting"
 - "butter cream frosting with crisco"
+- "buttercream frosting with shortening and butter"
+- "butter crisco frosting"
+- "stable frosting recipe"
+- "homemade buttercream frosting"
+- "frosting with vegetable shortening"
+- "piping frosting recipe"
+- "powdered sugar frosting"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"
@@ -64,3 +69,61 @@ faq:
 - "q: How to store leftover frosting? a: Cover bowl tightly with plastic wrap or damp cloth. Refrigerate if long wait but temper before use. Warm slightly to soften. Keep air out to prevent crust. Can freeze for quick stash, thaw gently. Avoid dry spots and skin."
 
 ---
+
+Set the mixer to medium-high. Butter, shortening, salt. Whip it until the whole thing goes pillowy — soft enough that the butter keeps breaking down, the shortening melts into it just a bit. Not fluffy yet. Just creamy. This base matters more than people think.
+
+## Why You'll Love This Buttercream Frosting With Crisco and Butter
+
+Works for cakes that sit out. Crisco doesn't melt as fast as straight butter does. Homemade tastes different — you know what went in it. Takes 21 minutes total, start to finish. Colors bright without water messing everything up. Pipes crisp swirls that actually hold on a cake. Been doing this for parties for years. Stays smooth in the piping bag even after 20 minutes.
+
+## What You Need for Butter Cream Frosting With Shortening
+
+Softened butter — a full cup, and it actually needs to be soft or you'll be there forever. Crisco shortening, three-quarters cup. Not oil. Not melted. The stuff in the can. Salt, just a quarter teaspoon. Powdered sugar, four cups, sifted first — lumps wreck everything. Vanilla or almond extract, a teaspoon. Milk or water, maybe two tablespoons, maybe three. Gel food coloring if you want it. Not the liquid kind. Gel stays put.
+
+## How to Make Buttercream Frosting With Crisco
+
+Combine the butter and shortening with that salt. Medium-high speed. Watch it go from two separate things into one creamy mass. The butter softens more, the Crisco starts to break down into it. It takes a minute or two. You want pillowy. Not whipped. Not fluffy yet.
+
+Start adding the powdered sugar now — one cup at a time. Low speed while you pour it in, or you're cleaning sugar off every surface in the kitchen. Scrape the sides of the bowl after each cup goes in. The mixture gets thick fast. Really thick. Keep mixing even when it looks dry and crumbly, because it'll come together. That's when you know it's working.
+
+## How to Get Crisco Butter Frosting Smooth and Spreadable
+
+Add your vanilla or almond extract now. Mix it in completely. You'll see the gloss come back, everything looking shiny again instead of dull. That's when you know the flavoring's fully incorporated.
+
+Gel coloring goes in next if you're using it. Not liquid food coloring — that dilutes the whole batch. Gel is thicker, stays concentrated. Mix just enough to swirl the colors through. Don't overmix or the texture gets weird and starts to break down.
+
+Now comes the consistency check. If it looks like frosting bricks, too thick to pipe or spread, add milk or water one teaspoon at a time. Beat it after each pour. Watch how it loosens up. You want it to hold stiff peaks but still give when you push into it with a spatula or your finger. Not runny. Not crackly. Right in between.
+
+## Buttercream Frosting Tips and Common Mistakes
+
+Butter temperature matters. Cold butter won't cream properly with the Crisco. It needs to be soft enough to dent with your finger but not melting everywhere. Room temperature. That's it.
+
+Don't skip sifting the powdered sugar. Lumps don't break down in the mixer — they just hide until you're piping and suddenly your bag clogs. Two seconds of sifting saves 10 minutes of frustration.
+
+Milk or water — use what you have. Water works fine. Milk makes it slightly richer, but the difference isn't huge. Add it one teaspoon at a time because once it's too thin, you're adding more sugar to fix it, and now you've got way too much.
+
+The reason Crisco and butter together works better than just butter is the shortening won't split when it sits out. Straight butter frosting gets grainy if your kitchen's warm. This blend stays smooth for hours. Parties, decorating, whatever.
+
+If you're waiting before using it, cover the bowl. Damp cloth or plastic wrap. Frosting gets a crust on top otherwise, and crusty bits end up in your piping bag.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Buttercream Frosting With Crisco and Butter
+
+**Can I use all butter instead of the Crisco?**
+Yeah, but it's messier in warm kitchens. Butter frosting gets greasy and separates if it gets hot. The Crisco stabilizes it — that's the whole thing.
+
+**What if I don't have almond extract?**
+Vanilla's fine. Just vanilla. Most people use vanilla anyway.
+
+**How long does this last?**
+Room temperature, two hours easy. Fridge, probably a week. Freezer, a couple months in an airtight container.
+
+**Can I make this the day before a party?**
+Yeah. Keep it covered in the fridge. Let it come to room temperature before you pipe it, or it'll be too stiff and you'll spend 10 minutes fighting the bag.
+
+**Why does my frosting look grainy?**
+Powdered sugar had lumps in it. Sift it. Or your butter was too cold when you started. Or you overbeat it at the end — if you go too long, the Crisco can separate out and it looks weird. Mix until it's right, then stop.
+
+**Does gel coloring really make a difference?**
+Yeah. Liquid food coloring adds water, which makes the frosting looser and you have to add more sugar to fix it. Gel colors stay thick. Brighter too, usually.
