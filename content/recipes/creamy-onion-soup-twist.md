@@ -1,10 +1,10 @@
 ---
-title: "Creamy Onion Soup Twist"
+title: "Creamy Onion Soup with Gruyère & Sourdough"
 slug: "creamy-onion-soup-twist"
-description: "Caramelized yellow onions simmered in chicken broth, finished with creamy oat milk and a splash of dry sherry. Thickened with cornstarch instead of flour for a silkier texture. Toasted sourdough slices topped with Gruyère cheese, broiled until bubbling and golden. A cozy soup with robust depth, nutty cheese crunch, and that irresistible onion sweetness."
-metaDescription: "Caramelized yellow onions swirl in chicken broth with oat milk and sherry. Gruyère-crisped sourdough tops this rich, nutty onion soup for 4 to 6 servings."
-ogDescription: "Slow caramelized onions, chicken broth, oat milk, and Gruyère-topped sourdough. Soup with deep aroma, silky texture, bold flavor punch. Broil watchfully."
-focusKeyphrase: "caramelized onion soup"
+description: "Creamy onion soup made with caramelized yellow onions, chicken broth, and oat milk, finished with sherry and cornstarch. Topped with toasted sourdough and melted Gruyère cheese."
+metaDescription: "Creamy onion soup recipe with caramelized onions, oat milk, and chicken broth. Topped with toasted sourdough and Gruyère cheese. Make it tonight."
+ogDescription: "Caramelized onions simmered in chicken broth with oat milk and sherry, topped with sourdough and melted Gruyère cheese."
+focusKeyphrase: "creamy onion soup"
 date: 2025-08-11
 draft: false
 image: creamy-onion-soup-twist.jpg
@@ -21,9 +21,15 @@ tags:
 - "bread"
 - "easy dinner"
 keywords:
-- "caramelized onions"
-- "cheese croutons"
-- "cornstarch thickened soup"
+- "creamy onion soup recipe"
+- "caramelized onion soup with oat milk"
+- "french onion soup with sherry"
+- "gruyère onion soup with sourdough"
+- "cornstarch thickened onion soup"
+- "onion soup"
+- "comfort food soup"
+- "oat milk creamy soup"
+- "caramelized onions chicken broth"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "220"
@@ -74,3 +80,65 @@ faq:
 - "q: How to best store leftover soup and croutons? a: Soup refrigerate in airtight container 3-4 days. Reheat low to avoid oat milk splitting. Croutons keep separate, wrap airtight or freeze, toast again before serving. Mix fresh bread if croutons soggy. Reheat soup slowly, stir often to maintain texture."
 
 ---
+
+Melt butter. Add onions. The kitchen smells like nothing for about twelve minutes, then all at once it smells like everything—sweet and dark and almost jammy. That's when you know you're actually making soup instead of just cooking onions.
+
+## Why You'll Love This Creamy Onion Soup
+
+Takes an hour and fifteen minutes total but most of that's just standing there watching things happen. Comfort food that doesn't feel heavy—the oat milk keeps it creamy without that heavy cream weight. Works for an actual dinner, not just something you eat before dinner. Cheese gets crispy and nutty on the sourdough. The caramelized onions taste like they've been simmering for three hours but they haven't. Cold night food. The kind where you sit down and don't move until it's gone.
+
+## What You Need for Caramelized Onion Soup
+
+Two liters of yellow onions sliced thin—that's about nine hundred grams if you're weighing. Butter. Two and a half tablespoons. Not oil. Butter gets the onions soft in a way oil doesn't. Dry sherry. Two tablespoons. Not cooking sherry. Actual sherry that you'd drink. Cornstarch—one tablespoon. Thickens it without tasting like flour. Four cups of chicken broth. One cup of oat milk. Salt and pepper. Four thick slices of sourdough bread, lightly toasted. One cup of grated Gruyère. Not pre-shredded if you can help it—melts better.
+
+## How to Make Creamy Onion Soup with Sherry
+
+Medium heat. Melt the butter. Add all the onions at once—it looks impossible, like you'll never fit them, but they shrink. Stir every few minutes. Ten minutes in they're soft and see-through. They don't taste like much yet.
+
+That's when everything changes. Crank the heat to medium-high. Now you stir more. Often. The onions start turning gold. Then amber. Then brown at the edges. The bottom of the pot gets darker and darker. This takes maybe thirty more minutes. It should smell sweet and almost candy-like at the end. Not bitter. If it smells bitter you went too far.
+
+## How to Get the Soup Creamy and Rich
+
+Pour in the sherry. It hisses. Let it bubble almost completely away—you'll see the liquid disappear. Maybe ninety seconds. Scrape the bottom of the pot where the brown stuck-on bits are. That's flavor. That's what makes it taste like three hours of work.
+
+Sprinkle the cornstarch all over. Stir for a minute or two. No lumps. This is the only part that matters for smoothness. Lumps stay forever.
+
+Pour the chicken broth in all at once. Bring it to a simmer. Just gentle bubbles. Let it sit for twenty minutes with the lid off. It'll smell rich now. Taste it. Salt and pepper. Usually needs more salt than you think. At the very end, stir in the oat milk. Not before. After.
+
+## Caramelized Onion Soup Tips and the Crispy Cheese Part
+
+Patience with the onions is everything. If you rush they stay sharp. Actually sharp. Not sweet.
+
+The sherry has to evaporate completely or it tastes harsh and alcoholy. You'll see it disappear.
+
+Cornstarch thickens it subtle-like. Flour works too but you have to cook it longer or it tastes chalky. Cornstarch is easier.
+
+Oat milk keeps it from being heavy. Whole milk works fine. Half and half too. But then it's a different soup. Heavier.
+
+For the cheese croutons—preheat the broiler to high. Get the rack near the top but not so close you burn it in thirty seconds. Lay the toasted bread on a baking sheet. Pile Gruyère on each slice. Not thin. Actually pile it. Put it under the broiler. Watch it. Three to five minutes. The cheese bubbles and browns at the edges. When it starts to brown pull it out. Don't let it go past that. Burnt cheese tastes like failure.
+
+Gruyère over cheddar because it melts into the soup smoother and tastes nutty. Swiss works. Emmental works. Don't use American cheese. Just don't.
+
+Bread has to be crusty and firm. Not soft bread. Soft bread falls apart the second the soup touches it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Caramelized Onion Soup
+
+**How long does the soup actually take?**
+Twenty-five minutes prep, fifty minutes cooking. That's it. An hour fifteen total. The caramelizing is the slow part but you're just standing there stirring every couple minutes. It's not like you're doing anything else.
+
+**Can I use regular milk instead of oat milk?**
+Yeah. Whole milk works. Half and half too. The oat milk doesn't taste like anything—that's the point. It just makes it creamy without being heavy. Regular milk does the same thing, just slightly different texture. Try it.
+
+**What if I don't have sherry?**
+Dry white wine works. Brandy works. Anything that evaporates completely. The alcohol has to cook off completely or it tastes sharp. Not negotiable. If you're out of everything just skip it. Soup's still good.
+
+**The cornstarch made lumps. Will they go away?**
+No. That's why you stir it in right away before the broth goes in. If you already dumped the broth in, strain it through a fine mesh if you have one. Or just accept the lumps. They're annoying but not dangerous.
+
+**Can I make this ahead?**
+Make the soup the day before, easy. Store it cold. Reheat gently. Don't make the cheese croutons until right before eating—they get soggy if they sit. Toast the bread ahead. Just add cheese and broil when you're ready.
+
+**Why does my soup taste sharp instead of sweet?**
+Didn't caramelize the onions long enough. That's the only reason. The longer they go on medium-high, the sweeter they get. You need that deep brown color and the nutty smell. If you're in a rush it won't work.
