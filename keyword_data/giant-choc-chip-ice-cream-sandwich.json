@@ -1,0 +1,267 @@
+{
+  "slug": "giant-choc-chip-ice-cream-sandwich",
+  "title": "Giant Choc Chip Ice Cream Sandwich",
+  "seed_keywords": [
+    "chocolate chip cookies",
+    "ice cream sandwich",
+    "homemade ice cream sandwich",
+    "chocolate cookies ice cream",
+    "mint chip cookie dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "making chocolate chip cookies",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "choc chip biscuits",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "choco chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "cc cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "chocolate chipless cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "cookies chips",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "ice cream sandwich",
+        "volume": 368000,
+        "competition": 25
+      },
+      {
+        "keyword": "no baking cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "chips a hoy",
+        "volume": 165000,
+        "competition": 77
+      },
+      {
+        "keyword": "chocolate cookies",
+        "volume": 110000,
+        "competition": 51
+      },
+      {
+        "keyword": "milk chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate chocolate cookies",
+        "volume": 110000,
+        "competition": 51
+      },
+      {
+        "keyword": "cream and cookie",
+        "volume": 110000,
+        "competition": 21
+      },
+      {
+        "keyword": "oatmeal chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oat chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip and oatmeal cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chunk oatmeal cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oat and chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal chocolate chip cookies with quick oats",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "shortbread millionaire",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "famousamos",
+        "volume": 74000,
+        "competition": 70
+      },
+      {
+        "keyword": "cream and cookies ice cream",
+        "volume": 60500,
+        "competition": 66
+      },
+      {
+        "keyword": "chip cookies",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "double chocolate chip cookies",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chipless cookies",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "double choc chip biscuits",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "double chocolate chocolate chip cookies",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "double chocolate chunk cookies",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin and chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "best chocolate chip cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "chewy chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "peanut butter and chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "cookies with m&ms",
+        "volume": 40500,
+        "competition": 57
+      },
+      {
+        "keyword": "cookies soft",
+        "volume": 40500,
+        "competition": 71
+      },
+      {
+        "keyword": "chewy chocolate cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "peanutbutter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "best chocolate chocolate chip cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "best chocolate chunk cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "chewy choc chip biscuits",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chocolate chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chocolate chunk cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chocolate and peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "great chocolate chip cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "peanut butter choc chip biscuits",
+        "volume": 40500,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

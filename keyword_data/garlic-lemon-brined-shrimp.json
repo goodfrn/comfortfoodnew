@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-lemon-brined-shrimp",
+  "title": "Garlic Lemon Brined Shrimp",
+  "seed_keywords": [
+    "garlic butter shrimp",
+    "pan seared shrimp",
+    "lemon shrimp dinner",
+    "brined shrimp recipe",
+    "garlic lemon seafood"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shrimp scampi shrimp",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "brined shrimp",
+        "volume": 49500,
+        "competition": 50
+      },
+      {
+        "keyword": "garlic butter shrimp",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "butter and garlic shrimp",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "buttered shrimp",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "butter and shrimp",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic butter shrimp recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "butter and garlic shrimp recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "prawns with garlic",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe of buttered garlic shrimp",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "prawns garlic recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for shrimp and garlic",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "shrimp & garlic",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "shrimp and garlic",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "buttered shrimp recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic butter prawns",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "butter and garlic prawns",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "butter and shrimp recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "butter hipon recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic prawns in butter",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp scampi recipe easy",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "shrimp scampi recipe simple",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "recipe for shrimp scampi",
+        "volume": 8100,
+        "competition": 37
+      },
+      {
+        "keyword": "prawn scampi recipe",
+        "volume": 8100,
+        "competition": 37
+      },
+      {
+        "keyword": "recipe for shrimp shrimp scampi",
+        "volume": 8100,
+        "competition": 37
+      },
+      {
+        "keyword": "shrimps in garlic sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "easy shrimp scampi",
+        "volume": 5400,
+        "competition": 19
+      },
+      {
+        "keyword": "garlic shrimp scampi",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "best recipe for shrimp scampi",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "butter and garlic prawns recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "butter garlic prawns recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "butter prawn",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic and lemon shrimp",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "garlic lemon shrimp",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "buttered shrimp ingredients",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pan seared shrimp",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "pan seared prawns",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "buttered shrimp recipe ingredients",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "ingredients shrimp scampi",
+        "volume": 2400,
+        "competition": 20
+      },
+      {
+        "keyword": "butter garlic seafood sauce",
+        "volume": 1900,
+        "competition": 39
+      },
+      {
+        "keyword": "buttered seafood",
+        "volume": 1900,
+        "competition": 32
+      },
+      {
+        "keyword": "easy garlic shrimp recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "easy recipe for garlic shrimp",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "simple garlic shrimp recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "butter prawn recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "butter and garlic sauce for shrimp",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "butter and lemon shrimp",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "butter garlic lemon shrimp",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "butter garlic sauce for shrimp",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "butter garlic shrimp ingredients",
+        "volume": 1300,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

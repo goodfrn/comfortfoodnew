@@ -1,0 +1,32 @@
+{
+  "slug": "pulled-pork-cornbread-tarts",
+  "title": "Pulled Pork Cornbread Tarts",
+  "seed_keywords": [
+    "cornbread appetizers",
+    "pulled pork bites",
+    "cornbread baked bites",
+    "pork cornbread tarts",
+    "barbecue cornbread appetizer"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pulled pork bites",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "pulled pork bite",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cornbread appetizers",
+        "volume": 390,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

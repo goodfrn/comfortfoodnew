@@ -1,0 +1,137 @@
+{
+  "slug": "fluffy-mushroom-omelette",
+  "title": "Fluffy Mushroom Omelette",
+  "seed_keywords": [
+    "fluffy omelette",
+    "sautéed mushroom eggs",
+    "souffle omelette recipe",
+    "mushroom cheese breakfast",
+    "ricotta omelette"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fluffy omelette",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy omelette recipe",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "ricotta omelette",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "omelette with ricotta cheese",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "ricotta cheese omelette",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "omelet souffle",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "souffle omelette recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "fluffy egg omelet",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "japanese fluffy omelette",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "fluffy japanese omelette",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "puffy omelet",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "baked fluffy omelette",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "fluffy cheese omelet",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy chinese omelette",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "fluffy egg white omelet",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "fluffy egg white omelette recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "make a fluffy omelet",
+        "volume": 210,
+        "competition": 18
+      },
+      {
+        "keyword": "egg omelette souffle",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "omelette with ricotta and spinach",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach and ricotta omelette",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach ricotta omelette",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "fluffy french omelette",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "japanese souffle omelette",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet souffle omelette",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

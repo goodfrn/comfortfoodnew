@@ -1,0 +1,267 @@
+{
+  "slug": "giant-bobs-pretzels",
+  "title": "Giant Bob’s Pretzels",
+  "seed_keywords": [
+    "homemade pretzels",
+    "vegan pretzel recipe",
+    "soft pretzel baking",
+    "dairy free bread",
+    "baked pretzel dough"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pretzels recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "soft pretzel recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade pretzels",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "sugar free banana bread",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "home made pretzels",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "pretzel vegan",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "sugar free banana loaf",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "dairy free banana bread",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "banana bread lactose free",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "banana loaf dairy free",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "dairy free banana loaf",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "dairy free banana nut bread",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "dairy free bread",
+        "volume": 4400,
+        "competition": 66
+      },
+      {
+        "keyword": "homemade soft pretzels",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade pretzel recipe",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "pretzel bun recipe",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade soft pretzel recipe",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "home made pretzel recipe",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "home made soft pretzel",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "home made soft pretzel recipe",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "easy pretzels",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "doughy pretzels",
+        "volume": 3600,
+        "competition": 49
+      },
+      {
+        "keyword": "easy recipe for pretzels",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "easy to make pretzels",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "german pretzels recipes",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "simple pretzel recipe",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade pretzel bites",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "egg free banana bread",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "banana loaf egg free",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "egg free banana loaf",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "home made pretzel bites",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "banana bread dairy free gluten free",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "banana bread gluten and dairy free",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "banana bread gluten dairy free",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "banana bread gluten free dairy free",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "dairy free and gluten free banana bread",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "gf dairy free banana bread",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "gluten free and dairy free banana bread",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "gluten free dairy free banana nut bread",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "ingredients for pretzels",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "sugar free banana bread muffins",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "bread pretzel recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese bread gluten free",
+        "volume": 1900,
+        "competition": 16
+      },
+      {
+        "keyword": "dairy free banana bread recipes",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "lactose free bread",
+        "volume": 1600,
+        "competition": 51
+      },
+      {
+        "keyword": "easy soft pretzel recipe",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "banana muffins dairy free",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "dairy free banana bread muffins",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "fresh pretzels",
+        "volume": 1300,
+        "competition": 17
+      },
+      {
+        "keyword": "banana bread gluten free sugar free",
+        "volume": 1300,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

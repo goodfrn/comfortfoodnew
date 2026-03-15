@@ -1,0 +1,267 @@
+{
+  "slug": "quick-confited-cherry-tomatoes",
+  "title": "Quick Confited Cherry Tomatoes",
+  "seed_keywords": [
+    "confited cherry tomatoes",
+    "roasted cherry tomatoes",
+    "glazed tomato side dish",
+    "garlic tomato confit",
+    "maple syrup tomatoes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cherry tomatoes recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "confit tomato",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted cherry tomatoes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bake cherry tomatoes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted mini tomatoes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cherry tomato recipes roasted",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cook cherry tomatoes in oven",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cherry tomato confit",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "confit tomato recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cherry tomato roasted sauce",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry tomato sauce roasted",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted small tomatoes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "cooked cherry",
+        "volume": 1000,
+        "competition": 16
+      },
+      {
+        "keyword": "sautéed cherry tomatoes",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cooked cherry tomatoes",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "dried cherry tomatoes in oven",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic roasted cherry tomatoes",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled cherry tomatoes",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted cherry tomatoes and garlic",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted cherry tomatoes with garlic",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade tomato sauce with cherry tomatoes",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato garlic confit",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry tomato in oven",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "cherry tomatoes in the oven",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "roast fresh tomatoes",
+        "volume": 390,
+        "competition": 14
+      },
+      {
+        "keyword": "fried cherry tomatoes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "oven roasted cherry tomato recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted whole tomatoes",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "roast cherry tomatoes on vine",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted cherry tomato salsa",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted cherry tomato sauce recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato and garlic confit",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato confit pasta",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic tomato confit",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "air fried cherry tomatoes",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "confit tomatoes and garlic",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted cherry tomatoes air fryer",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted cherry tomatoes with burrata",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "slow roasted cherry tomatoes jamie oliver",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer roasted cherry tomatoes",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "baked cherry tomato recipe",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic and tomato confit",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled tomatoes in oven",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "oven baked cherry tomatoes",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "oven roasted cherry tomatoes and garlic",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted cherry",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted whole cherry tomatoes",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "sauteed grape tomatoes",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "whole roasted cherry tomatoes",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "blistering tomatoes in oven",
+        "volume": 110,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

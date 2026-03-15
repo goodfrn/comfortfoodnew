@@ -1,0 +1,267 @@
+{
+  "slug": "pork-rib-roast",
+  "title": "Pork Rib Roast with Mushroom Sauce",
+  "seed_keywords": [
+    "pork rib roast",
+    "roasted pork dinner",
+    "pork with mushroom sauce",
+    "pepper crusted pork",
+    "red ale braised pork"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pork chop and cream of mushroom",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "roast spare ribs",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "oven roast ribs",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "st louis ribs in oven",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "baked pork chops and cream of mushroom soup",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "oven cooking pork ribs",
+        "volume": 8100,
+        "competition": 14
+      },
+      {
+        "keyword": "simple pork tenderloin recipe",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "pork rib roast",
+        "volume": 6600,
+        "competition": 53
+      },
+      {
+        "keyword": "pork prime rib roast",
+        "volume": 6600,
+        "competition": 53
+      },
+      {
+        "keyword": "pork prime rib",
+        "volume": 6600,
+        "competition": 53
+      },
+      {
+        "keyword": "rib of pork roast",
+        "volume": 6600,
+        "competition": 53
+      },
+      {
+        "keyword": "roast pork rib roast",
+        "volume": 6600,
+        "competition": 53
+      },
+      {
+        "keyword": "pork chop with cream of mushroom recipes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "pork mushroom recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked boneless pork ribs",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "boneless pork ribs in the oven",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom gravy and pork chops",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom gravy for pork chops",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom sauce for pork chop",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom sauce for pork cutlets",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom sauce with pork chops",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "mushrooms and pork chops",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "pork chop and mushroom sauce",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "pork chop gravy with mushrooms",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "pork chops in mushroom",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "pork loin chops with mushroom gravy",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "pork loin chops with mushroom sauce",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "pork loin chops with mushrooms",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "pork steak in mushroom gravy",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "pork steak in mushroom sauce",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooked oven pork ribs",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "slow roast pork ribs in oven",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "best way to oven cook ribs",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "baked babyback ribs",
+        "volume": 2900,
+        "competition": 20
+      },
+      {
+        "keyword": "baked pork back ribs",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "baking back ribs",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "baking spare ribs in the oven",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "cook a pork rib roast",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom and pork",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom with pork",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "oven baked pork back ribs",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "pork chop and mushrooms recipes",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "pork chop mushroom recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "pork steak and mushroom recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "side dishes for pork roast",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "baked pork ribs",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "roasted pork dinner",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "creamed pork chops",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "pork rib roast time",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "pork ribs baked in oven",
+        "volume": 1900,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

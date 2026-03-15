@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-roasted-broccoli-puree",
+  "title": "Garlic-Roasted Broccoli Purée",
+  "seed_keywords": [
+    "roasted broccoli puree",
+    "garlic broccoli side",
+    "broccoli cauliflower blend",
+    "roasted vegetable puree",
+    "creamy broccoli soup"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cream of broccoli soup",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "cheddar cream of broccoli soup",
+        "volume": 22200,
+        "competition": 21
+      },
+      {
+        "keyword": "cream of broccoli and cheddar",
+        "volume": 22200,
+        "competition": 21
+      },
+      {
+        "keyword": "cream of broccoli and cheddar soup",
+        "volume": 22200,
+        "competition": 21
+      },
+      {
+        "keyword": "cream of broccoli cheddar",
+        "volume": 22200,
+        "competition": 21
+      },
+      {
+        "keyword": "cream of broccoli cheddar cheese soup",
+        "volume": 22200,
+        "competition": 21
+      },
+      {
+        "keyword": "cream of broccoli soup with cream",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "cream soup with broccoli",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "creamy cream of broccoli soup",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "cream of broccoli soup recipe",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "cream of broccoli cheddar cheese soup recipe",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "cream of broccoli cheddar soup recipe",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "creamy cheese broccoli",
+        "volume": 8100,
+        "competition": 30
+      },
+      {
+        "keyword": "recipe for cream of broccoli soup with cheddar cheese",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "easy cream of broccoli soup recipe",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "easy recipe cream of broccoli soup",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "cream of broccoli cheese soup",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "cream of broccoli and cheese",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "cream of broccoli cheese",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "best cream of broccoli soup recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "best cream of broccoli recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesy cream of broccoli soup",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "cream of broccoli and cauliflower soup",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "cream of broccoli cauliflower soup",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy broccoli soup",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli and cream",
+        "volume": 2900,
+        "competition": 15
+      },
+      {
+        "keyword": "broccoli creamy",
+        "volume": 2900,
+        "competition": 15
+      },
+      {
+        "keyword": "cream and broccoli",
+        "volume": 2900,
+        "competition": 15
+      },
+      {
+        "keyword": "broccoli cream soup vegan",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cream of broccoli soup jamie oliver",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "cream of broccoli vegan",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan cream of broccoli",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy cream of broccoli soup",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "cream of broccoli and potato soup",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "easy cream of broccoli",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "garlic roasted broccoli",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted broccoli and garlic",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheddar broccoli soup",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cream of mushroom and broccoli soup",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy broccoli and cheddar soup",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "creamy broccoli cheddar soup",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bell pepper puree",
+        "volume": 1300,
+        "competition": 60
+      },
+      {
+        "keyword": "capsicum puree",
+        "volume": 1300,
+        "competition": 60
+      },
+      {
+        "keyword": "old fashioned cream of broccoli soup",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "best broccoli cream soup",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "best cream of broccoli",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "eggplant puree",
+        "volume": 1000,
+        "competition": 8
+      },
+      {
+        "keyword": "garlic sauteed broccoli",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "gordon ramsay cream of broccoli soup",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "sauteed broccoli and garlic",
+        "volume": 1000,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

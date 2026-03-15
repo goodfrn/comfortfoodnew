@@ -1,0 +1,267 @@
+{
+  "slug": "prosciutto-and-strawberry-toasts",
+  "title": "Prosciutto and Strawberry Toasts",
+  "seed_keywords": [
+    "prosciutto appetizers",
+    "strawberry bread",
+    "open faced sandwiches",
+    "prosciutto and fruit",
+    "strawberry prosciutto toast"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "smorrebrod",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "open faced sandwiches",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "open face sandwiches",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry bread",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "bread strawberry",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "open sandwich",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "banana and strawberry bread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread with strawberries",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "banana strawberry loaf",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy banana strawberry bread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for strawberry bread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "panera bread strawberry poppyseed salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "hot brown sandwich",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "panera bread strawberry poppy seed salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry poppyseed salad panera bread",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "open faced sandwich recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "open sandwich recipes",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "open face sandwich recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "open face turkey sandwich",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "danish open faced sandwich",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "danish open sandwich",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "open faced roast beef sandwich",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "prosciutto appetizers",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "horderves with prosciutto",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "melon and prosciutto skewers",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "strawberry short bread",
+        "volume": 1900,
+        "competition": 16
+      },
+      {
+        "keyword": "hot open faced sandwich",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "open faced roast beef",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "danish smorrebrod",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry shortcake bread",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "banana and strawberry bread recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread recipe with strawberries",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "bread for strawberry shortcake",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "danish sandwich",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "shortcake bread",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry banana nut bread recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry loaf",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry short cake bread",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "panera bread strawberry salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "french open faced sandwich",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "panera bread salad with strawberries",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for hot brown sandwich",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "panera bread poppy seed salad",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "panera poppy seed salad",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "rhubarb and strawberry bread",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "rhubarb strawberry bread",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "strawberry sourdough bread",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "brown hotel louisville hot brown",
+        "volume": 590,
+        "competition": 23
+      },
+      {
+        "keyword": "cold open faced sandwich",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen strawberry bread",
+        "volume": 590,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

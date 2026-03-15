@@ -1,0 +1,267 @@
+{
+  "slug": "fried-banana-cheesecake-rolls",
+  "title": "Fried Banana Cheesecake Rolls",
+  "seed_keywords": [
+    "fried cheesecake desserts",
+    "banana fried rolls",
+    "fried banana recipes",
+    "cheesecake dessert ideas",
+    "crispy cheese rolls"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesecake recipe no bake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake recipe no oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake recipe unbaked",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "non baking cheesecake recipe",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "not baked cheesecake recipe",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "bakeless cheesecake recipe",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesecake no cook recipe",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesecake recipe uncooked",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "no bake cheesecake dessert recipes",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesecake recipes easy",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "fried banana plantain",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "banana for frying",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "banana fried",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "banana fries",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake mini recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "little cheesecake recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "mini cheesecake dessert recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "miniature cheesecake recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "best cheesecake dessert recipes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "best recipe cheesecake",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "excellent cheesecake recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "greatest cheesecake recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesecake recipe topping",
+        "volume": 9900,
+        "competition": 26
+      },
+      {
+        "keyword": "cheesecake simple recipe",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "easiest cheesecake recipes",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade cheesecake recipe",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "easy cheesecake recipe no bake",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "easy no bake cheesecakes recipes",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "easy no cook cheesecake recipe",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "easy unbaked cheesecake recipe",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "fried cheese cake",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "fried banana recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "christmas cheesecake recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake bites recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry banana",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "banana fries recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake for christmas recipes",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "christmas dessert recipes cheesecake",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "festive cheesecake recipes",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "fried banana dessert recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake ideas",
+        "volume": 3600,
+        "competition": 18
+      },
+      {
+        "keyword": "best cheesecake recipe no bake",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "best chilled cheesecake recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "best no cook cheesecake recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "best unbaked cheesecake recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "good no bake cheesecake recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "no bake cheesecake filling recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "banana deep fried",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "banana for turon",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "fried banana thai",
+        "volume": 2900,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

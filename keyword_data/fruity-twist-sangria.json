@@ -1,0 +1,267 @@
+{
+  "slug": "fruity-twist-sangria",
+  "title": "Fruity Twist Sangria",
+  "seed_keywords": [
+    "red wine sangria",
+    "elderflower cocktail",
+    "homemade sangria recipe",
+    "citrus wine drinks",
+    "sangria with liqueur"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sangria recipes",
+        "volume": 135000,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for sangria drink",
+        "volume": 135000,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for hugo spritz",
+        "volume": 90500,
+        "competition": 13
+      },
+      {
+        "keyword": "saint germain drink",
+        "volume": 74000,
+        "competition": 51
+      },
+      {
+        "keyword": "st germain drink",
+        "volume": 74000,
+        "competition": 51
+      },
+      {
+        "keyword": "st germain spritz",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "fruity red",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "st germain elderflower liqueur",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "elderflower st germain",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "drinks with st germain elderflower liqueur",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "saint germain elderflower liqueur",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "french elderflower liqueur",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "st germain cocktails",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "st germain liqueur cocktails",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "red sangria recipe",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "red wine sangria",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "elderflower cocktail",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "sangria ingredients",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "elderflower liqueur cocktails",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "elderflower for cocktails",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "elder flower cocktail",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "elderflower recipe cordial",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "red wine sangria cocktail",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "sangria wine red",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "red sangria",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "red sangria drink",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "sangria the red",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "elderflower spritz",
+        "volume": 8100,
+        "competition": 23
+      },
+      {
+        "keyword": "st germain spritz recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "dry red wine for sangria",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "elder flower spritz",
+        "volume": 8100,
+        "competition": 23
+      },
+      {
+        "keyword": "red wine sangria recipe",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "red wine for sangria recipe",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "red wine sangria cocktail recipe",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "sangria recipe easy",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "best sangria recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "gin and elderflower cocktail",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "gin elderflower cocktail",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "simple sangria recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "gin and elderflower drinks",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "basic sangria recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "good sangria recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "best rated sangria recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "cocktail elderflower gin",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "cocktail gin elderflower",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "cocktail with gin and elderflower",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "fruity sangria",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "gin & elderflower cocktail",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "gin cocktail elderflower",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "gin elderflower drink",
+        "volume": 5400,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

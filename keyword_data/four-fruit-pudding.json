@@ -1,0 +1,267 @@
+{
+  "slug": "four-fruit-pudding",
+  "title": "Four Fruit Pudding",
+  "seed_keywords": [
+    "fruit pudding",
+    "apple rhubarb dessert",
+    "strawberry raspberry cake",
+    "fruit cobbler topping",
+    "baked fruit pudding"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate pudding fruit",
+        "volume": 60500,
+        "competition": 25
+      },
+      {
+        "keyword": "black pudding fruit",
+        "volume": 60500,
+        "competition": 25
+      },
+      {
+        "keyword": "black sapote chocolate pudding fruit",
+        "volume": 60500,
+        "competition": 25
+      },
+      {
+        "keyword": "chocolate sapote",
+        "volume": 60500,
+        "competition": 25
+      },
+      {
+        "keyword": "sapote chocolate pudding fruit",
+        "volume": 60500,
+        "competition": 25
+      },
+      {
+        "keyword": "pudding plum",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "mango with tapioca",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "tapioca mango",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "coconut chia seed pudding",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "chia seed and coconut pudding",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "pudding mango",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "apple and rhubarb crumble",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple crumble recipe easy",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "chia pudding strawberry",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "puddings with strawberries",
+        "volume": 8100,
+        "competition": 68
+      },
+      {
+        "keyword": "strawberry sago",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pudding with strawberries",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "choke cherry pudding",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit pudding",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "chia seed mango pudding",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "mango tapioca ingredients",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "apple & rhubarb pie",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple and rhubarb pie",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate sapote fruit",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "pudding with pineapple",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "apple and sponge pudding",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "apple sponge pudding",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "chia seed coconut water",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "apple rhubarb crumble",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and rhubarb crumble recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "apple rhubarb crumble recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chia mango coconut pudding",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut sago",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "berries pudding",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "pudding with oranges",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "tapioca mango pudding",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "peach pudding",
+        "volume": 1600,
+        "competition": 44
+      },
+      {
+        "keyword": "apple and rhubarb crisp",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "apple rhubarb crisp",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "chia pudding coconut cream",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "chia pudding with coconut cream",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut cream chia seed pudding",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut tapioca dessert",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "fruit based puddings",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "peach oat crumble",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "pear chocolate pudding",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "pudding peach",
+        "volume": 1600,
+        "competition": 44
+      },
+      {
+        "keyword": "rice mango pudding",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "tapioca and coconut pudding",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "vanilla pudding for banana pudding",
+        "volume": 1600,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

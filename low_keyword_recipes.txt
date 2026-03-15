@@ -221,3 +221,5 @@ creamy-onion-soup-twist | Creamy Onion Soup Twist
 creamy-parmesan-peppercorn | Creamy Parmesan Peppercorn
 creamy-pumpkin-pie-shake | Creamy Pumpkin Pie Shake
 creamy-smoked-sausage-mac | Creamy Smoked Sausage Mac
+fresh-raisins-in-syrup | Fresh Raisins in Syrup
+georgia-honey-pecan-bars | Georgia Honey Pecan Bars

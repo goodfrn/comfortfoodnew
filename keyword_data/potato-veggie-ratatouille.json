@@ -1,0 +1,267 @@
+{
+  "slug": "potato-veggie-ratatouille",
+  "title": "Potato Veggie Ratatouille",
+  "seed_keywords": [
+    "vegetable ratatouille",
+    "potato vegetable stew",
+    "slow cooked vegetables",
+    "simmered vegetable medley",
+    "mediterranean potato dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegetarian slow cooker meals",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "slow cooked vegetarian dishes",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "slow cooker veggie dish",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "slow cooker veggie meals",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "vegetarian dishes for slow cooker",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "vegetarian dishes slow cooker",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "vegetarian meals for slow cooker",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "vegetarian meals in a slow cooker",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "slow cooker chicken drumsticks",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker vegetable soup",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "veg soup in a slow cooker",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetable soup in a crock pot",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "veggie soup in slow cooker",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and potato in slow cooker",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken potato slow cooker",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot chicken and potato",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot chicken potatoes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "beef and vegetable soup in slow cooker",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef vegetable soup in slow cooker",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef veggie soup slow cooker",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker beef veggie soup",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "veggie beef soup slow cooker",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker vegetarian recipes",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "veggie slow cooker recipes",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "vegetable ratatouille",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot slow cooker",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "crock pot carrot",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "crock pot recipes for vegetable soup",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "potatoes in stew",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "ratatouille veg",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "ratatouille vegetable dish",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for slow cooker vegetable soup",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker veg soup recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "veg soup recipe slow cooker",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chili vegetarian slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker cabbage vegetable soup",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker chili veggie",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker chicken vegetable soup",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and potatoes stew",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and vegetable soup in slow cooker",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and vegetable soup in the slow cooker",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and veggie soup slow cooker",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken potato stew",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken vegetable soup in crock pot",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken veggie soup slow cooker",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker chicken & vegetable soup",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker chicken and veggie soup",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker vegetable soup with chicken",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "beef and vegetable soup recipe slow cooker",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "beef vegetable soup recipe slow cooker",
+        "volume": 2900,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

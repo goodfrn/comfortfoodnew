@@ -1,0 +1,267 @@
+{
+  "slug": "potato-topinambour-salad",
+  "title": "Potato Topinambour Salad",
+  "seed_keywords": [
+    "potato salad recipes",
+    "roasted vegetable salad",
+    "jerusalem artichoke salad",
+    "walnut potato salad",
+    "cucumber vinaigrette salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "potato salad recipes",
+        "volume": 368000,
+        "competition": 10
+      },
+      {
+        "keyword": "potato salad",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "potato and salad",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "potato for salad",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "potato salad and",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "salad with potato",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "russian salad",
+        "volume": 135000,
+        "competition": 0
+      },
+      {
+        "keyword": "olivier salad",
+        "volume": 135000,
+        "competition": 0
+      },
+      {
+        "keyword": "german potato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "german salad potato",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "german potato salad recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "sweet potato salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "potato and sweet potato salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "potato salad with sweet potato",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato for salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "best potato salad recipe",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "good potato salad recipe",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "great potato salad recipe",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "potato salad recipe with egg",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "potato salad with egg",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "potato and egg salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "egg and potato salad recipe",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "egg salad potato salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "roasted vegetable salad",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "simple potato salad recipe",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "red potato salad",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "basic potato salad recipe",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "best potatoes for potato salad",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "potato salad red potatoes",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "roast beet in oven",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "roast veg salad",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "salad with roasted veggies",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "potato salad ingredients",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "traditional potato salad recipe",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "easy potato salad",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "classic potato salad recipe",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "simple potato salad",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "potato salad recipe southern",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "russian salad recipe",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "japan potato salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "easy potato salad recipe",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "potato salad dressing",
+        "volume": 9900,
+        "competition": 14
+      },
+      {
+        "keyword": "homemade potato salad",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "best potato salad",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "good potato salad",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "best potato for salad",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "crispy potato salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "easy simple potato salad recipe",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "egg and potato",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "egg in potato",
+        "volume": 9900,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

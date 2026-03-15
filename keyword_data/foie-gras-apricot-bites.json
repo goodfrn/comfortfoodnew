@@ -1,0 +1,42 @@
+{
+  "slug": "foie-gras-apricot-bites",
+  "title": "Foie Gras Apricot Bites",
+  "seed_keywords": [
+    "foie gras appetizers",
+    "apricot preserve toast",
+    "foie gras canapés",
+    "gourmet bread bites",
+    "french party appetizer"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "foie gras canapés",
+        "volume": 260,
+        "competition": 8
+      },
+      {
+        "keyword": "foie gras canape",
+        "volume": 260,
+        "competition": 8
+      },
+      {
+        "keyword": "foie gras appetizers",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "french themed appetizers",
+        "volume": 140,
+        "competition": 27
+      },
+      {
+        "keyword": "foie gras appetizer recipe",
+        "volume": 110,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

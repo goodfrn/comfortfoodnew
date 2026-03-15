@@ -1,0 +1,267 @@
+{
+  "slug": "garlicky-whip-sauce",
+  "title": "Garlicky Whip Sauce",
+  "seed_keywords": [
+    "homemade aioli sauce",
+    "garlic mayo recipe",
+    "egg white condiment",
+    "sunflower oil aioli",
+    "smoked paprika sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "garlicmayo",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "garlic mayo recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic mayonnaise recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic mayo sauce",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "aioli mayo",
+        "volume": 3600,
+        "competition": 26
+      },
+      {
+        "keyword": "garlic and mayo sauce",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "garlic and mayonnaise sauce",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "garlic mayonnaise sauce",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "sauce garlic mayo",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "homemade aioli",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic mayo dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "aioli homemade",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic and mayo dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayo dip sauce",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayonnaise dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayonnaise dipping sauce",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "mayonnaise and garlic dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayo aioli",
+        "volume": 1900,
+        "competition": 32
+      },
+      {
+        "keyword": "garlic aioli from mayonnaise",
+        "volume": 1900,
+        "competition": 32
+      },
+      {
+        "keyword": "homemade garlic aioli",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "aioli recipe with mayo",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "aioli mayonnaise recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "baked parmesan chicken mayo",
+        "volume": 1300,
+        "competition": 21
+      },
+      {
+        "keyword": "black garlic mayo",
+        "volume": 1000,
+        "competition": 24
+      },
+      {
+        "keyword": "black garlic mayonnaise",
+        "volume": 1000,
+        "competition": 24
+      },
+      {
+        "keyword": "garlic aioli dipping sauce",
+        "volume": 880,
+        "competition": 44
+      },
+      {
+        "keyword": "garlic aioli without mayo",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic mayo homemade",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic mayo sauce recipe",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic mayonnaise sauce recipe",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic sauce recipe with mayonnaise",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade garlic mayo",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade garlic mayonnaise",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "paprika mayo",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "garlic aioli recipe with mayo",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic aioli mayo recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "herb mayo recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "aioli paprika",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "egg white mayonnaise",
+        "volume": 590,
+        "competition": 33
+      },
+      {
+        "keyword": "garlic flavored mayo",
+        "volume": 590,
+        "competition": 14
+      },
+      {
+        "keyword": "spicy paprika aioli",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "blenders garlic mayonnaise",
+        "volume": 480,
+        "competition": 76
+      },
+      {
+        "keyword": "make aioli",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "easy garlic mayo recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "easy garlic mayonnaise recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic dip recipe with mayo",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic mayo dipping sauce recipe",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade aioli recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade garlic aioli recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "shawarma mayonnaise",
+        "volume": 390,
+        "competition": 53
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

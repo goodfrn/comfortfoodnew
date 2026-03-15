@@ -1,0 +1,267 @@
+{
+  "slug": "feta-tomato-fusilli-bake",
+  "title": "Feta Tomato Fusilli Bake",
+  "seed_keywords": [
+    "baked pasta dishes",
+    "feta tomato pasta",
+    "fusilli with feta",
+    "roasted tomato bake",
+    "mediterranean pasta bake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ziti bake",
+        "volume": 246000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked ziti dish",
+        "volume": 246000,
+        "competition": 4
+      },
+      {
+        "keyword": "ziti's",
+        "volume": 201000,
+        "competition": 15
+      },
+      {
+        "keyword": "recipe baked ziti",
+        "volume": 135000,
+        "competition": 10
+      },
+      {
+        "keyword": "ziti pasta",
+        "volume": 90500,
+        "competition": 23
+      },
+      {
+        "keyword": "pasta for ziti",
+        "volume": 90500,
+        "competition": 23
+      },
+      {
+        "keyword": "baked pasta",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "dish of pasta",
+        "volume": 74000,
+        "competition": 19
+      },
+      {
+        "keyword": "tuna bake with pasta",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "baked pasta recipes",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken pasta bake",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "spaghetti bake recipe",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "baked spaghetti dish",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "pasta bake meals",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "baked spaghetti",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "baked spaghetti pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "feta pasta",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "feta cheese pasta",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "feta and pasta",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "feta cheese and pasta",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "feta in pasta",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "feta pasta recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "tiktok pasta",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "baked feta pasta",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "feta cheese pasta recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "feta and pasta recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "feta cheese and pasta recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for feta cheese pasta",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for ziti",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "vegetable pasta bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "sausage pasta bake",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "baked pasta and sausage",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "baked pasta with veggies",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked spaghetti with spaghetti squash",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "pasta and sausage casserole",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta and vegetable bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and veggie bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "ziti dish",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "ziti meal",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "baked rigatoni",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "baked ziti with ricotta cheese",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken pasta bake recipes",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "baked rigatoni recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken and pasta recipes",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "baked pasta rigatoni",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pasta bake ideas",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "ricotta baked ziti",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "ricotta cheese in baked ziti",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "feta tomato pasta",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "roasted tomato sauce",
+        "volume": 12100,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

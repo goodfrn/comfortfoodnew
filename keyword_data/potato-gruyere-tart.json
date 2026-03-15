@@ -1,0 +1,267 @@
+{
+  "slug": "potato-gruyere-tart",
+  "title": "Potato Gruyère Tart",
+  "seed_keywords": [
+    "potato tart",
+    "cheese potato bake",
+    "gruyere potato casserole",
+    "layered potato dish",
+    "potato appetizer bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheese casserole potato",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "dolphinwa potatoes recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "parmesan cheese roasted potatoes",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese potato bake",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked potato and cheese",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese potato and ham casserole",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "ham cheese casserole potato",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "potato horderves",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "whipped potatoes baked",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese onion and potato pie",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato bites",
+        "volume": 2400,
+        "competition": 72
+      },
+      {
+        "keyword": "bacon and cheese baked potato",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and cheese potato bake",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon cheese baked potato",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked potato bacon and cheese",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked potato beans and cheese",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked potato cheese and beans",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese and beans jacket potato",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese and potato bake with bacon",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy scalloped potatoes au gratin",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "potato dish with cheese",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "potatoes au gratin cheese",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "potato tart",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "baked potato and cottage cheese",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "baked potato cottage cheese",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese jacket potato",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "cheesy jacket potato",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "cottage cheese on baked potato",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "gruyere au gratin potatoes",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "jacket potato and cheese",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "jacket potato cheese",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "sweet potato horderves",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "layered potato dish",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "baked potato broccoli cheese",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheese and potato bake",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheese for baked potatoes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy ham hashbrown casserole",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "baked potato cheese sauce",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "cheddar cheese sauce for baked potatoes",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "best cheese for baked potato",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "best cheese for potato bake",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "cheese leek and potato pie",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese leek potato pie",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy au gratin potato recipe",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "layered shepherd's pie",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "skin potatoes with bacon and cheese",
+        "volume": 1000,
+        "competition": 34
+      },
+      {
+        "keyword": "sweet potato tart",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy potato bites",
+        "volume": 880,
+        "competition": 72
+      },
+      {
+        "keyword": "bake mash potato with cheese",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "baked potato and cream cheese",
+        "volume": 880,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

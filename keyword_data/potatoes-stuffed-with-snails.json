@@ -1,0 +1,267 @@
+{
+  "slug": "potatoes-stuffed-with-snails",
+  "title": "Potatoes Stuffed with Snails",
+  "seed_keywords": [
+    "stuffed potato appetizers",
+    "french potato dishes",
+    "snails butter potatoes",
+    "potato recipes entertaining",
+    "escargot potato bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lyonnaise potatoes",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "tartiflette recipes",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "french onion baked potato",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "different types of potato fries",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "french fried potatoes recipe",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "french mashed potato",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "french potato dishes",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "french potato preparations",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "joel robuchon mashed potato",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "best potato for fried potatoes",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "french fries mashed potatoes",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "pommes anna potatoes",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "robuchon mashed potato",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for crispy french fries",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed potato skin",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "french onion soup mix potatoes",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "potatoes and french onion soup mix",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "potatoes french onion soup mix",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "best recipe for home fries",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "french gratin potatoes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "french potato recipe",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "french scalloped potatoes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "loaded potato bites",
+        "volume": 720,
+        "competition": 29
+      },
+      {
+        "keyword": "french baked potato",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "french onion scalloped potatoes",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "scalloped potatoes with french onion soup",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "french cheese and potato dish",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "french cheese potato dish",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "french dish with potatoes and cheese",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "french gratin",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "lyonnaise style potatoes",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "french onion potatoes au gratin",
+        "volume": 320,
+        "competition": 9
+      },
+      {
+        "keyword": "french style mashed potatoes",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "french style potatoes",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy sweet potato cubes",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "french cheese potatoes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "french cheesy mashed potatoes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "french cheesy potatoes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "french fried mashed potatoes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "french mashed potatoes cheese",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "french dauphinoise potatoes",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "french roast potatoes",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "potato tartiflette",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "classic french potato dishes",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "leeks vinaigrette recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "traditional french potato dishes",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese potato fries",
+        "volume": 140,
+        "competition": 21
+      },
+      {
+        "keyword": "cheesy mashed potatoes french",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "coq au vin with mashed potatoes",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "french mash",
+        "volume": 110,
+        "competition": 29
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

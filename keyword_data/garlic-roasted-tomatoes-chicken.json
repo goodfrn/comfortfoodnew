@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-roasted-tomatoes-chicken",
+  "title": "Garlic Roasted Tomatoes Chicken",
+  "seed_keywords": [
+    "crispy fried chicken",
+    "garlic roasted tomatoes",
+    "pan fried chicken breast",
+    "chicken parmesan style",
+    "roasted tomato chicken"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "crispy chicken",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy crispy chicken",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "making fried chicken",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wings in the air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "air fryer fried chicken wings",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken fried chicken in air fryer",
+        "volume": 90500,
+        "competition": 16
+      },
+      {
+        "keyword": "crispy fried chicken",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "wings in air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "wings in a air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "fried chicken in the oven",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk and fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy chicken fried chicken",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wings in air fryer",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "kfc chicken stripes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken fried chicken air fryer",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wings crunchy",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "fried chicken in a air fryer",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "southern fried chicken in air fryer",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wings air fryer",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken frying pan",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "fried chicken breast",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crunchy crispy chicken",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "deep fried hot wings",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fried chicken with chicken breast",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "pan fried chicken breast",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "air frying chicken",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast fry pan",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken breast in a frying pan",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken breast on frying pan",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "fry chicken breast in pan",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "skillet fried chicken breast",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "deep fried chicken",
+        "volume": 12100,
+        "competition": 31
+      },
+      {
+        "keyword": "pan seared chicken breast",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer chicken wings crispy",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "batter for fried chicken",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "crispy air fryer chicken wings",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "deep fryer for chicken wings",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "air fried crispy chicken wings",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken gizzard fried",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy chicken wings airfryer",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "fried chicken wings in deep fryer",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "oven baked fried",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "fried chicken deep fryer",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "all purpose flour for fried chicken",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "all purpose flour fried chicken",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chicken in cornstarch",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chicken in fryer",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "kfc crispy chicken",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken steaks recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "new york krispy fried chicken",
+        "volume": 6600,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

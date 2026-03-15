@@ -1,0 +1,267 @@
+{
+  "slug": "everything-bagel-bake",
+  "title": "Everything Bagel Bake",
+  "seed_keywords": [
+    "bagel breakfast casserole",
+    "egg cheese bake",
+    "savory breakfast casserole",
+    "everything bagel seasoning",
+    "breakfast strata recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "everything bagel",
+        "volume": 74000,
+        "competition": 47
+      },
+      {
+        "keyword": "everything on bagel",
+        "volume": 74000,
+        "competition": 47
+      },
+      {
+        "keyword": "cottage cheese and egg bake",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese and egg casserole",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese egg casserole",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese eggs bake",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs cottage cheese",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese eggs recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "strata recipe",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "sausage egg and cheese casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "sausage egg cheese casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese sausage egg bake",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "egg and sausage and cheese casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "sausage and cheese egg casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "strata food",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast strata recipes",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast strata",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "strata breakfast dish",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "everything bagel seasoning recipe",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "everything but the bagel seasoning trader joes",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "baked eggs with ham and cheese",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked ham egg and cheese casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "egg casserole with ham and cheese",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "egg cheese ham bake",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and cheese and egg casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and egg and cheese casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and egg cheese casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "egg strata",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "bagel everything recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "strata egg dish",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and cheese egg bake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon cheese egg bake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon egg and cheese egg bake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese egg and bacon casserole",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese egg bacon casserole",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "egg casserole with bacon and cheese",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast casserole with cottage cheese",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese and egg casserole",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "cheese egg casserole",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "cottage cheese egg bake recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "egg strata recipe",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "sausage egg and cheese breakfast casserole",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast casserole sausage egg cheese",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast bake sausage egg cheese",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast casserole sausage egg and cheese",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast casserole with eggs cheese and sausage",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast casserole with sausage cheese and eggs",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast sausage egg cheese casserole",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "egg bake with cottage cheese and spinach",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sausage and egg and cheese breakfast casserole",
+        "volume": 1600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

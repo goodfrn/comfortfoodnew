@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-herb-fry-tower",
+  "title": "Garlic Herb Fry Tower",
+  "seed_keywords": [
+    "garlic fries recipe",
+    "baked cheese potatoes",
+    "stacked french fries",
+    "crispy potato appetizer",
+    "herb garlic potato"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheese casserole potato",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "french fried garlic",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "parmesan cheese roasted potatoes",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "french fries garlic parmesan",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "french fries parmesan",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic and parmesan fries",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic parm fries",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked cheese potatoes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked potato and cheese",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "breading for wings",
+        "volume": 5400,
+        "competition": 33
+      },
+      {
+        "keyword": "roasted garlic in air fryer",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese potato and ham casserole",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "ham cheese casserole potato",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted garlic air fryer",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "whipped potatoes baked",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer roasted garlic",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and cheese baked potato",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and cheese potato bake",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon cheese baked potato",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked potato bacon and cheese",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked potato beans and cheese",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked potato cheese and beans",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese and beans jacket potato",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese and potato bake with bacon",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake cheesy macaroni",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "potato dish with cheese",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp breaded recipe",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese jacket potato",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "cheesy jacket potato",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "jacket potato and cheese",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "jacket potato cheese",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "garlic fries recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked potato broccoli cheese",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheese and potato bake",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheese for baked potatoes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fried garlic benefits",
+        "volume": 1600,
+        "competition": 10
+      },
+      {
+        "keyword": "garlic french fries recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer garlic",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "baked potato cheese sauce",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "cheddar cheese sauce for baked potatoes",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "truffle parmesan fries recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "best cheese for baked potato",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "best cheese for potato bake",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic parmesan fries recipe",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "skin potatoes with bacon and cheese",
+        "volume": 1000,
+        "competition": 34
+      },
+      {
+        "keyword": "bake mash potato with cheese",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "baked potato and cream cheese",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "baked potato cream cheese",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "baked potato with chili and cheese",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "chili cheese baked potato",
+        "volume": 880,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

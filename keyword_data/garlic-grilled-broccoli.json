@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-grilled-broccoli",
+  "title": "Garlic Grilled Broccoli Remix",
+  "seed_keywords": [
+    "grilled broccoli",
+    "broccoli side dishes",
+    "garlic grilled vegetables",
+    "tamari marinade recipes",
+    "charred broccoli grilling"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "roasted broccoli dishes",
+        "volume": 60500,
+        "competition": 23
+      },
+      {
+        "keyword": "oven roasted broccoli",
+        "volume": 49500,
+        "competition": 27
+      },
+      {
+        "keyword": "sauteed broccoli",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes for chicken divan",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "grilled broccoli",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "steamed broccoli ideas",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "dish with broccoli",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "broccoli cauliflower casserole",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli vegetable dish",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "frozen roasted broccoli",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "broccoli side dishes",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli and cauliflower casserole",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli side dish recipes",
+        "volume": 4400,
+        "competition": 11
+      },
+      {
+        "keyword": "broccoli side recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted carrots and broccoli",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted carrots broccoli",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "side broccoli dishes",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "ritz cracker and broccoli casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ritz cracker broccoli casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli au gratin",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli rice casserole with velveeta",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "parmesan roasted broccoli",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted broccoli air fryer",
+        "volume": 2400,
+        "competition": 20
+      },
+      {
+        "keyword": "roasted broccoli and parmesan",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "velveeta cheese broccoli rice casserole",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "velveeta rice and broccoli casserole",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "broccoli and cauliflower cheese",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli cheddar rice casserole",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic roasted broccoli",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted broccoli and garlic",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted broccoli in air fryer",
+        "volume": 1900,
+        "competition": 20
+      },
+      {
+        "keyword": "sauteed broccoli rabe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled broccoli recipe",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "seasoned steamed broccoli",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "barbecue broccoli",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "barbeque broccoli",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli & cauliflower gratin",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and cauliflower gratin",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli casserole cheddars",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli cheese casserole ritz crackers",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "oven roasted broccoli and cauliflower",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "oven roasted broccoli cauliflower",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli and mashed potatoes",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli mashed potatoes",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic sauteed broccoli",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "sauteed broccoli and garlic",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "steamed broccoli and carrots",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli and cauliflower casserole with chicken",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli as a side",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli casserole frozen broccoli",
+        "volume": 880,
+        "competition": 21
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "quick-pickled-kimchi-salad",
+  "title": "Quick Pickled Kimchi Salad",
+  "seed_keywords": [
+    "quick pickled vegetables",
+    "kimchi salad",
+    "napa cabbage salad",
+    "pickled cabbage recipe",
+    "fermented vegetable salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pickled cabbage",
+        "volume": 22200,
+        "competition": 32
+      },
+      {
+        "keyword": "pickled red cabbage",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "kimchi salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber quick pickle",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast cucumber pickle",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickled cucumber",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickles cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "kim chi salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "onion quick pickle",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "quick pickle for cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese cabbage salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "pickled veggie recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "napa cabbage salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "pickled cabbage recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "make pickled cabbage",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "napa lettuce salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickled carrots",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "instant pickled carrots",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickle carrots quickly",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickled carrots quick",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickled red cabbage recipe",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for pickling red cabbage",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for red cabbage pickled",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "recipes with pickled red cabbage",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese cabbage salad",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "pickled cole slaw",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "pickled slaw",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "soured cabbage",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "napa cabbage recipes salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "napa salad recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "onion pickle in vinegar",
+        "volume": 2900,
+        "competition": 14
+      },
+      {
+        "keyword": "pickled onions with pickling vinegar",
+        "volume": 2900,
+        "competition": 14
+      },
+      {
+        "keyword": "pickling white onions",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "beets pickled quick",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "easy refrigerator cucumber pickles",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "fast pickled beets",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "fast pickled onions",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "instant pickled beets",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "japanese cabbage recipe",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickle cabbage quick",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "quick pickled beetroot",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "simple pickled cabbage",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fast pickled radish",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "pickled radish quick",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "quick pickled vegetables",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "cole slaw with napa cabbage",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber kimchi salad",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "easy pickled cucumber",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickled vegetables",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "korean cabbage salad",
+        "volume": 1600,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "georgia-honey-pecan-bars",
+  "title": "Georgia Honey Pecan Bars",
+  "seed_keywords": [
+    "honey pecan bars",
+    "cornbread bars",
+    "southern dessert bars",
+    "honey brown sugar baking",
+    "pecan cornbread dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "honey glazed brown sugar ham",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "honey pecan bars",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "georgia pecan bars with honey",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "pecan bars from scratch",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "honey brown sugar bars",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pecan bar dessert",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "bourbon vanilla pecan bars",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade pecan bars with honey",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

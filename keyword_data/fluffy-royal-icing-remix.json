@@ -1,0 +1,267 @@
+{
+  "slug": "fluffy-royal-icing-remix",
+  "title": "Fluffy Royal Icing Remix",
+  "seed_keywords": [
+    "vegan royal icing",
+    "aquafaba icing recipe",
+    "gluten free frosting",
+    "dairy free icing",
+    "vegan cake decorating"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "df frosting",
+        "volume": 450000,
+        "competition": 2
+      },
+      {
+        "keyword": "dairy free icing",
+        "volume": 8100,
+        "competition": 76
+      },
+      {
+        "keyword": "dairy free frosting",
+        "volume": 8100,
+        "competition": 76
+      },
+      {
+        "keyword": "dairyfree icing",
+        "volume": 8100,
+        "competition": 76
+      },
+      {
+        "keyword": "gluten free frosting",
+        "volume": 2900,
+        "competition": 68
+      },
+      {
+        "keyword": "dairy free buttercream",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "dairy free buttercream frosting",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "butter icing dairy free",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "buttercream icing dairy free",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "dairy free butter icing",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "dairy free frosting recipe",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "dairy free icing recipe",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan royal icing",
+        "volume": 1600,
+        "competition": 18
+      },
+      {
+        "keyword": "dairy free cream cheese icing",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "sugar free frosting cream cheese",
+        "volume": 1600,
+        "competition": 34
+      },
+      {
+        "keyword": "vegan royal frosting",
+        "volume": 1600,
+        "competition": 18
+      },
+      {
+        "keyword": "veganes royal icing",
+        "volume": 1600,
+        "competition": 18
+      },
+      {
+        "keyword": "dairy free cake frosting",
+        "volume": 1300,
+        "competition": 71
+      },
+      {
+        "keyword": "dairy free cake icing",
+        "volume": 1300,
+        "competition": 71
+      },
+      {
+        "keyword": "cake frosting dairy free",
+        "volume": 1300,
+        "competition": 71
+      },
+      {
+        "keyword": "dairy free cake and frosting",
+        "volume": 1300,
+        "competition": 71
+      },
+      {
+        "keyword": "dairy free cake topping",
+        "volume": 1300,
+        "competition": 71
+      },
+      {
+        "keyword": "egg free sugar cookie",
+        "volume": 1300,
+        "competition": 15
+      },
+      {
+        "keyword": "non dairy frosting",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "dairy free chocolate frosting",
+        "volume": 1000,
+        "competition": 17
+      },
+      {
+        "keyword": "non dairy icing",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "dairy free icing chocolate",
+        "volume": 1000,
+        "competition": 17
+      },
+      {
+        "keyword": "frosting no dairy",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "icing without dairy",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "nondairy icing",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "royal icing no egg recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "betty crocker frosting gluten free",
+        "volume": 720,
+        "competition": 36
+      },
+      {
+        "keyword": "gluten free buttercream",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "buttercream frosting gluten free",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "buttercream icing gluten free",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "gluten free butter cream frosting",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "gluten free butter icing",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "non dairy whipped frosting",
+        "volume": 480,
+        "competition": 14
+      },
+      {
+        "keyword": "dairy free chocolate icing",
+        "volume": 480,
+        "competition": 17
+      },
+      {
+        "keyword": "frosting without milk",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "gluten free frosting recipe",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "gluten free icing recipe",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "non dairy whipped icing",
+        "volume": 480,
+        "competition": 14
+      },
+      {
+        "keyword": "royal icing recipe vegan",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "whipped non dairy frosting",
+        "volume": 480,
+        "competition": 14
+      },
+      {
+        "keyword": "lactose free frosting",
+        "volume": 390,
+        "competition": 46
+      },
+      {
+        "keyword": "lactose free icing",
+        "volume": 390,
+        "competition": 46
+      },
+      {
+        "keyword": "chocolate frosting gluten free",
+        "volume": 390,
+        "competition": 52
+      },
+      {
+        "keyword": "dairy free butter cream recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "dairy free butter icing recipe",
+        "volume": 390,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

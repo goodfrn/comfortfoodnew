@@ -1,0 +1,267 @@
+{
+  "slug": "pumpkin-cream-cheese-muffins",
+  "title": "Pumpkin Cream Cheese Muffins",
+  "seed_keywords": [
+    "pumpkin muffins",
+    "cream cheese muffins",
+    "pumpkin spice breakfast",
+    "canned pumpkin baking",
+    "pumpkin cream cheese"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pumpkin muffins",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin muffin recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin roll recipe",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesecake pumpkin cake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "pumpkin cake cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "pumpkin cream cheese muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin bars recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin chocolate chip muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese and pumpkin muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin and chocolate chip muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin chocolate chunk muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin muffins healthy",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "nutritious pumpkin muffins",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cupcakes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin cheesecake bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake pumpkin squares",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin and cheesecake bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin bars cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin cheesecake dessert bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese muffins",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "carrots cupcakes",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "cream cheese frosted pumpkin bars",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "cream cheese frosting pumpkin bars",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "cream cheese icing for pumpkin bars",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin bars and cream cheese frosting",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin squares cream cheese frosting",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin spice muffins",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "banana and pumpkin muffins",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "banana pumpkin muffin",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "muffin pumpkin spice",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "protein muffins pumpkin",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin and spice muffins",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin banana bread muffins",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie spice muffins",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "dunkin pumpkin muffin",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "gluten free pumpkin muffins",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "dunkin donuts pumpkin muffin",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "starbucks muffin",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake muffins",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin muffin from dunkin donuts",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin roll cake",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "cheesecake pumpkin cookies",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese and pumpkin bread",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "cream cheese for pumpkin bread",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "cream cheese frosted pumpkin cookies",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese frosting for pumpkin cake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing for pumpkin cake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing for pumpkin cookies",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese pumpkin bread recipe",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "ingredient muffins",
+        "volume": 4400,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

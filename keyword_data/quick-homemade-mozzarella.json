@@ -1,0 +1,267 @@
+{
+  "slug": "quick-homemade-mozzarella",
+  "title": "Quick Homemade Mozzarella",
+  "seed_keywords": [
+    "homemade mozzarella",
+    "how to make cheese",
+    "mozzarella from milk",
+    "fresh cheese making",
+    "cheese with rennet"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "rennet",
+        "volume": 74000,
+        "competition": 22
+      },
+      {
+        "keyword": "how to make mac and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how to make macaroni and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do you make macaroni and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do you make mac and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do i make macaroni and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how to make cheese for mac and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do you make mac & cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do i make mac and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do you make macaroni cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how to make cheesy macaroni",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how to cook mac n cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do i make macaroni cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how do you make mac n cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how to make make mac and cheese",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how to make cheese sauce",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make cheese cake",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "how do you make cheese sauce",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make cheddar cheese sauce",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how do you make cheese cake",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "how do i make cheesecake",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "how do i make a cheese sauce",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to cook cheese cake",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "how to cook cheese sauce",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make cheddar sauce",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make cheese cakes",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "how to make grilled cheese",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how to make quesadillas",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "how do you make a grilled cheese sandwich",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how do you make grilled cheese",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how do you make quesadillas",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "how do i make a grilled cheese sandwich",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how do i make grilled cheese",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how to make cheese sandwich",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how to cook a grilled cheese sandwich",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how to do grilled cheese",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how do i make quesadillas",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "how to do a grilled cheese sandwich",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "grilled cheese sandwich how to make",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "how to make sour cream with cream",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "how to make cheese",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "how do you make cheese",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "how do i make cheese",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "how do we make cheese",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "how to prepare cheese",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "how to make nachos",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "how to make cream cheese",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make parmesan chicken",
+        "volume": 22200,
+        "competition": 33
+      },
+      {
+        "keyword": "how do you make cream cheese",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "how do i make chicken parmesan",
+        "volume": 22200,
+        "competition": 33
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

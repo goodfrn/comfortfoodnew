@@ -1,0 +1,267 @@
+{
+  "slug": "fluffiest-buttermilk-pancakes",
+  "title": "Fluffiest Buttermilk Pancakes",
+  "seed_keywords": [
+    "buttermilk pancakes",
+    "fluffy pancakes",
+    "blender pancakes",
+    "pancakes with baking powder",
+    "breakfast griddle cakes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancake recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluff pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjack",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjacks recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluffy fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy hotcake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffys pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "mixer pancakes",
+        "volume": 165000,
+        "competition": 60
+      },
+      {
+        "keyword": "recipe for fluffiest pancakes",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "american pancakes recipe",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese pancakes",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "buttermilk pancake recipe",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk hotcakes recipe",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "pancake recipe using buttermilk",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "soufflé pancakes",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "buttermilk pancakes",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "pancakes using buttermilk",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "best pancakes recipe",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade pancakes recipe",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "fluffy japanese pancake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancake japan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan hotcakes",
+        "volume": 33100,
+        "competition": 36
+      },
+      {
+        "keyword": "pancakes from scratch recipe",
+        "volume": 22200,
+        "competition": 29
+      },
+      {
+        "keyword": "japanese souffle pancakes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "buttermilk pancakes ihop",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "ihop free pancakes",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "japanese pancake recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "buttermilk pancakes cracker barrel",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "american fluffy pancake",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "american style fluffy pancakes",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "american style pancakes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "best fluffy pancake recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "yummy pancakes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy japanese pancake recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy pancake recipe japanese",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fuwa fuwa japanese pancake",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "good fluffy pancake recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "great pancake recipe fluffy",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "japan fluffy pancakes recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "japanese pancake recipe fluffy",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "buttermilk pancake mix",
+        "volume": 9900,
+        "competition": 52
+      },
+      {
+        "keyword": "souffle pancakes recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "buttermilk pancakes from mix",
+        "volume": 9900,
+        "competition": 52
+      },
+      {
+        "keyword": "buttermilk pancakes with pancake mix",
+        "volume": 9900,
+        "competition": 52
+      },
+      {
+        "keyword": "soufflé pancakes recipes",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "pancake recipe without baking powder",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fluffy pancake recipe easy",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "basic fluffy pancake recipe",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "buttery pancake",
+        "volume": 8100,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

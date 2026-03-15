@@ -1,0 +1,267 @@
+{
+  "slug": "pumpkin-snickerdoodles-twist",
+  "title": "Pumpkin Snickerdoodles Twist",
+  "seed_keywords": [
+    "pumpkin cookies",
+    "cardamom snickerdoodles",
+    "pumpkin spice cookies",
+    "fall baking spices",
+    "cinnamon sugar cookies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "snickerdoodle recipe cookies",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin cookies",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "pumpkin chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate chip and pumpkin cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin chip cookie",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin chips cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin chocolate chunk cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "cinnamon cookie",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "cinnamon bun cookies recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "rolled cinnamon cookies",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin spice cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin cookies snickerdoodles",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cookies with pumpkin spice",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin snickerdoodle",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin snickerdoodle cookie",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice pumpkin cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin sugar",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin cookie pie",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie cookie",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "biscuits cinnamon",
+        "volume": 8100,
+        "competition": 46
+      },
+      {
+        "keyword": "cookie spice",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "spice cookie",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "cinnamon sugar cookies",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon and sugar cookie",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon sugar cookie recipe",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "oat and pumpkin cookies",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "oat pumpkin cookies",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "oatmeal cookies pumpkin",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cookies with oats",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin sugar cookies",
+        "volume": 5400,
+        "competition": 16
+      },
+      {
+        "keyword": "cookies recipe cinnamon",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "sugar cookie with pumpkin",
+        "volume": 5400,
+        "competition": 16
+      },
+      {
+        "keyword": "pillsbury pumpkin cookies",
+        "volume": 4400,
+        "competition": 40
+      },
+      {
+        "keyword": "pumpkin cheesecake cookies",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake pumpkin cookies",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese frosted pumpkin cookies",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese icing for pumpkin cookies",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin cake cookies with cream cheese frosting",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin cookies and cream cheese frosting",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin spice cookie recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "snickerdoodle bar cookies",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cinnamon roll cookies recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice oreos",
+        "volume": 2900,
+        "competition": 32
+      },
+      {
+        "keyword": "cake mix and pumpkin cookies",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cake mix cookies pumpkin",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cake pumpkin cookies",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin cake batter cookies",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin cookies from mix",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin cookies made from cake mix",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin cookies made out of cake mix",
+        "volume": 2900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

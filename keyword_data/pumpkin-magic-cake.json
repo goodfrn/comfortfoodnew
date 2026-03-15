@@ -1,0 +1,267 @@
+{
+  "slug": "pumpkin-magic-cake",
+  "title": "Pumpkin Magic Cake",
+  "seed_keywords": [
+    "pumpkin cake",
+    "pumpkin desserts",
+    "pumpkin pie spice cake",
+    "layered pumpkin bake",
+    "pumpkin custard cake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pumpkin for pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin for pumpkin pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin pie with pie pumpkin",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkins pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin des",
+        "volume": 90500,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin and cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "spice pumpkin pie",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "pumpkin cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "libby's pumpkin pie recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cake cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "pumpkin cake",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin roll",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin and cake",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin bars",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin desserts",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "cinnamon pumpkin rolls",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "desserts using pumpkin",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "pumpkin cake dump cake",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe pumpkin bars",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin dessert recipes",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "pumpkin dessert ideas",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "pumpkin pie with sweetened condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "condensed milk pumpkin pie",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie using sweetened condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie made with condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin cup cake",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin pie using condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan pumpkin pie",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin cheesecake bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake pumpkin cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cake mix pumpkin spice cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "cake pumpkin spice",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "no bake pumpkin cheese cake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake pumpkin pie cheesecake recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin and spice cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes for pumpkin dump cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "spice and pumpkin cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "spice cake and pumpkin cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "spice cake pumpkin cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "unbaked pumpkin cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin bundt cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin brownies",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "bundt cake pumpkin cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese frosting for pumpkin bars",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "no crust pumpkin pie",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin bars with cream cheese icing",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin bundt",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin crustless pie",
+        "volume": 8100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

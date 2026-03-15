@@ -1,0 +1,267 @@
+{
+  "slug": "fluffy-japanese-pancakes",
+  "title": "Fluffy Japanese Pancakes reimagined",
+  "seed_keywords": [
+    "fluffy pancakes",
+    "japanese pancakes",
+    "egg white pancakes",
+    "souffle pancakes",
+    "steamed pancakes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "okonomiyaki",
+        "volume": 550000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancake recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "dorayaki",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "fluff pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjack",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjacks recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluffy fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy hotcake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffys pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for fluffiest pancakes",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "japanese pancakes",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "american pancakes recipe",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese hotcake",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "souffle pancakes",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "okonomiyaki near me",
+        "volume": 74000,
+        "competition": 14
+      },
+      {
+        "keyword": "best pancakes recipe",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "okonomiyaki recipe",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade pancakes recipe",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "souffle pancakes near me",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "fluffy japanese pancake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancake japan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan hotcakes",
+        "volume": 33100,
+        "competition": 36
+      },
+      {
+        "keyword": "pancakes from scratch recipe",
+        "volume": 22200,
+        "competition": 29
+      },
+      {
+        "keyword": "japanese souffle pancakes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "japanese pancake recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "american fluffy pancake",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "american style fluffy pancakes",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "american style pancakes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "best fluffy pancake recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "yummy pancakes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy japanese pancake recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy pancake recipe japanese",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fuwa fuwa japanese pancake",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "good fluffy pancake recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "great pancake recipe fluffy",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "japan fluffy pancakes recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "japanese pancake recipe fluffy",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "souffle pancakes recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "hotcake recipes",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "soufflé pancakes recipes",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy pancake recipe easy",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "basic fluffy pancake recipe",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "buttery pancake",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "fluffy simple pancake recipe",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "fluffy american pancake recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "funwari japanese pancakes",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "light pancake",
+        "volume": 6600,
+        "competition": 59
+      },
+      {
+        "keyword": "pan cakes light",
+        "volume": 6600,
+        "competition": 59
+      },
+      {
+        "keyword": "pancake recipe american fluffy",
+        "volume": 6600,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

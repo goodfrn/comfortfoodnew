@@ -1,0 +1,267 @@
+{
+  "slug": "fluffy-buttermilk-pancakes",
+  "title": "Fluffy Buttermilk Pancakes",
+  "seed_keywords": [
+    "buttermilk pancakes",
+    "fluffy pancakes",
+    "pancakes recipe",
+    "whipped egg whites pancakes",
+    "homemade pancake batter"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pancakes",
+        "volume": 2240000,
+        "competition": 9
+      },
+      {
+        "keyword": "pancakes recipe",
+        "volume": 1500000,
+        "competition": 5
+      },
+      {
+        "keyword": "easy pancake recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "simple pancake recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "basic pancake recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "easy to make pancakes",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "easy basic pancake recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "pancake mix",
+        "volume": 165000,
+        "competition": 60
+      },
+      {
+        "keyword": "fluffy pancake recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "blini",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana pancakes",
+        "volume": 165000,
+        "competition": 1
+      },
+      {
+        "keyword": "fluff pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjack",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjack recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluffy fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy hotcake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffys pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for fluffiest pancakes",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "pancake mix recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pancake batter recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "latkes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "pancake recipe with pancake mix",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "sweet potato pie",
+        "volume": 110000,
+        "competition": 13
+      },
+      {
+        "keyword": "american pancake recipe",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pancake recipe",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese pancake",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "uttapam",
+        "volume": 110000,
+        "competition": 0
+      },
+      {
+        "keyword": "buttermilk pancake recipe",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "cottage cheese pancakes",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "souffle pancakes",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "buttermilk hotcakes recipe",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "pancake recipe using buttermilk",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade pancakes",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "potato pancakes",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "american pancakes",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "dutch pancake recipe",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "scallion pancakes",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "socca",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "green onion pancakes",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk pancakes",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "german pancake",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pancakes using buttermilk",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "syrniki",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "uncle peter's pancakes",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "pancakes from scratch",
+        "volume": 49500,
+        "competition": 20
+      },
+      {
+        "keyword": "protein pancakes recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "best pancake recipe",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "potato cakes",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "dutch pancakes",
+        "volume": 49500,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

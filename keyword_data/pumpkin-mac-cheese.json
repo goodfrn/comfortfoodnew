@@ -1,0 +1,267 @@
+{
+  "slug": "pumpkin-mac-cheese",
+  "title": "Pumpkin Mac Cheese",
+  "seed_keywords": [
+    "pumpkin pasta",
+    "mac and cheese",
+    "pumpkin mac cheese",
+    "baked pasta dishes",
+    "creamy pumpkin sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mac and cheese",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "macaroni and cheese",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "cheese for mac and cheese",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "cheese and macaroni",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "cheese for macaroni and cheese",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "mac and cheese dishes",
+        "volume": 673000,
+        "competition": 12
+      },
+      {
+        "keyword": "cheese for mac n cheese",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "mac and cheese and",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "mac mac cheese",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "macaroni and cheese macaroni and cheese",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "big macaroni",
+        "volume": 550000,
+        "competition": 1
+      },
+      {
+        "keyword": "macaroni",
+        "volume": 450000,
+        "competition": 41
+      },
+      {
+        "keyword": "ziti bake",
+        "volume": 246000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked ziti dish",
+        "volume": 246000,
+        "competition": 4
+      },
+      {
+        "keyword": "ziti's",
+        "volume": 201000,
+        "competition": 15
+      },
+      {
+        "keyword": "mac n cheese",
+        "volume": 165000,
+        "competition": 20
+      },
+      {
+        "keyword": "baked mac",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "mac n cheesery",
+        "volume": 165000,
+        "competition": 20
+      },
+      {
+        "keyword": "cheese for baked mac and cheese",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "macaroni cheese bake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "homemade mac and cheese",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "mac and cheese near me",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "homemade macaroni and cheese",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "mac n cheese near me",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "macaroni and cheese near me",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "mac & cheese near me",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "recipe baked ziti",
+        "volume": 135000,
+        "competition": 10
+      },
+      {
+        "keyword": "macaroni cheese near me",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "cheese macaroni pasta",
+        "volume": 110000,
+        "competition": 26
+      },
+      {
+        "keyword": "ziti pasta",
+        "volume": 90500,
+        "competition": 23
+      },
+      {
+        "keyword": "pasta for ziti",
+        "volume": 90500,
+        "competition": 23
+      },
+      {
+        "keyword": "baked mac and cheese",
+        "volume": 74000,
+        "competition": 8
+      },
+      {
+        "keyword": "baked macaroni and cheese",
+        "volume": 74000,
+        "competition": 8
+      },
+      {
+        "keyword": "crockpot mac and cheese",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked pasta",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "slow cooker mac and cheese",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot macaroni and cheese",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "good mac and cheese",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "dish of pasta",
+        "volume": 74000,
+        "competition": 19
+      },
+      {
+        "keyword": "mac n cheese slow cooker",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni and cheese slow cooker",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna bake with pasta",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "baked pasta recipes",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "making mac and cheese",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pasta bake",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "making macaroni and cheese",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "spaghetti bake recipe",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "baked spaghetti dish",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "pasta bake meals",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "baked spaghetti",
+        "volume": 49500,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

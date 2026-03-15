@@ -1,0 +1,267 @@
+{
+  "slug": "fresh-tomato-sauce",
+  "title": "Fresh Tomato Sauce Twist",
+  "seed_keywords": [
+    "fresh tomato sauce",
+    "homemade pasta sauce",
+    "tomato sauce recipe",
+    "garlic tomato pasta",
+    "slow simmered tomato"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "spaghetti sauce bolognese",
+        "volume": 550000,
+        "competition": 7
+      },
+      {
+        "keyword": "marinara sauces",
+        "volume": 165000,
+        "competition": 28
+      },
+      {
+        "keyword": "pizza red sauce",
+        "volume": 135000,
+        "competition": 80
+      },
+      {
+        "keyword": "sauce pomodoro",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade alfredo pasta sauce",
+        "volume": 110000,
+        "competition": 19
+      },
+      {
+        "keyword": "penne alla vodka pasta",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "penne vodka pasta",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe spaghetti sauce",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "making spaghetti sauce",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe with spaghetti sauce",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "pizza tomato sauce recipe",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "tomato sauce recipe",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "marinara sauce recipe",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "marinara recipe",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "red sauce recipe",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta saucerecipes",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe to make pasta sauce",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe with tomato sauce",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes with red sauce",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato sos recipe",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato pasta sauce",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "red sauce",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "arrabbiata sauce pasta",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta and tomato sauce",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "pasta and tomato sauce recipes",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "homemade spaghetti sauce",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "arrabiata pasta",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "home spaghetti sauce",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade tomato sauce",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "penne alla vodka recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade red sauce",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "penne vodka recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "passata tomato",
+        "volume": 33100,
+        "competition": 60
+      },
+      {
+        "keyword": "easy fettuccine alfredo sauce",
+        "volume": 33100,
+        "competition": 21
+      },
+      {
+        "keyword": "homemade tomato sauce from tomatoes",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato puree passata",
+        "volume": 33100,
+        "competition": 60
+      },
+      {
+        "keyword": "red pasta sauce",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "alla vodka pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy sauces for pasta",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "homemade pasta sauce",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "rao's homemade marinara",
+        "volume": 22200,
+        "competition": 19
+      },
+      {
+        "keyword": "rao's homemade marinara sauce",
+        "volume": 22200,
+        "competition": 19
+      },
+      {
+        "keyword": "homemade salsa recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "puttanesca sauce",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "amatriciana recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade pasta and sauce",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with pink sauce",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "ragu recipe beef",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "veloute sauce",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "red pesto sauce",
+        "volume": 18100,
+        "competition": 66
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

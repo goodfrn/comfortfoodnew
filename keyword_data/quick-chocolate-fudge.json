@@ -1,0 +1,267 @@
+{
+  "slug": "quick-chocolate-fudge",
+  "title": "Quick Chocolate Fudge",
+  "seed_keywords": [
+    "homemade chocolate fudge",
+    "condensed milk fudge",
+    "no bake chocolate candy",
+    "chocolate fudge recipes",
+    "melted chocolate treats"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fudge recipe",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "simple fudge recipe",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for making fudge",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "fudgy brownies",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "chocolate brownies fudgy",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "chocolate fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "fudgy brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "choc fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "fudgy chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "cocoa fudge",
+        "volume": 40500,
+        "competition": 27
+      },
+      {
+        "keyword": "choc fudge",
+        "volume": 40500,
+        "competition": 27
+      },
+      {
+        "keyword": "chocolate and fudge",
+        "volume": 40500,
+        "competition": 27
+      },
+      {
+        "keyword": "chocolatefudge",
+        "volume": 40500,
+        "competition": 27
+      },
+      {
+        "keyword": "peanut butter fudge recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy fudge recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge brownies",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "fantasy fudge recipe",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "easy fudge to make",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "fancy fudge recipe",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate fudge recipes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge cake",
+        "volume": 22200,
+        "competition": 27
+      },
+      {
+        "keyword": "choc fudge recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "cocoa fudge recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "condensed milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "brownie ice cream",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "fudgesicles",
+        "volume": 18100,
+        "competition": 66
+      },
+      {
+        "keyword": "fudge recipe with condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened condensed milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate fudge cake recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "choc fudge cake recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "condensed fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge cake recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "fudge hot",
+        "volume": 18100,
+        "competition": 26
+      },
+      {
+        "keyword": "fudge made from condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge using condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudgee bars",
+        "volume": 18100,
+        "competition": 46
+      },
+      {
+        "keyword": "fudgy chocolate cake recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "make fudge with condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened condensed fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge brownie recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie fudgy recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate brownie fudge recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "fantasy fudge",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "the fudge",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "hot fudge recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate fudge brownie ben and jerry",
+        "volume": 8100,
+        "competition": 56
+      },
+      {
+        "keyword": "chocolate fudge brownie ice cream ben and jerry's",
+        "volume": 8100,
+        "competition": 56
+      },
+      {
+        "keyword": "brownie chocolate fudge",
+        "volume": 8100,
+        "competition": 28
+      },
+      {
+        "keyword": "choc fudge brownies",
+        "volume": 8100,
+        "competition": 28
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

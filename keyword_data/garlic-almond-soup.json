@@ -1,0 +1,162 @@
+{
+  "slug": "garlic-almond-soup",
+  "title": "Garlic Almond Soup Revisited",
+  "seed_keywords": [
+    "garlic almond soup",
+    "almond soup recipe",
+    "creamy garlic soup",
+    "toasted almond bisque",
+    "bread based soup"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "almond and broccoli soup",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "almond broccoli soup",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "almond broccoli soup recipe",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "ajo blanco recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "almond soup",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "badam soup",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy garlic soup",
+        "volume": 1000,
+        "competition": 8
+      },
+      {
+        "keyword": "gazpacho white",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "almond soup recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus and almonds",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "almond broth",
+        "volume": 320,
+        "competition": 25
+      },
+      {
+        "keyword": "cream of garlic soup recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy garlic soup recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "ajo blanco soup",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "almond chicken soup",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "almond cream soup",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and almond soup",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "almond soup spanish",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for white gazpacho",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "almond gazpacho",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower almond soup",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower and almond soup",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "soup almond",
+        "volume": 170,
+        "competition": 18
+      },
+      {
+        "keyword": "chilled almond soup",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "cold almond soup",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "cream of mushroom garlic soup",
+        "volume": 110,
+        "competition": 33
+      },
+      {
+        "keyword": "creamy garlic mushroom soup",
+        "volume": 110,
+        "competition": 33
+      },
+      {
+        "keyword": "creamy roasted garlic soup",
+        "volume": 110,
+        "competition": 14
+      },
+      {
+        "keyword": "garlic mushroom soup recipe",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,67 @@
+{
+  "slug": "fish-terrine-twist",
+  "title": "Fish Terrine Twist",
+  "seed_keywords": [
+    "fish terrine",
+    "seafood terrine appetizer",
+    "cod mousse recipe",
+    "bain marie fish",
+    "asparagus cod dish"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "salmon terrine",
+        "volume": 2900,
+        "competition": 27
+      },
+      {
+        "keyword": "smoked salmon terrine",
+        "volume": 1300,
+        "competition": 40
+      },
+      {
+        "keyword": "salmon and smoked salmon terrine",
+        "volume": 1300,
+        "competition": 40
+      },
+      {
+        "keyword": "fish terrine",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "salmon terrine mary berry",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "cod and asparagus recipes",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "fish terrine recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "seafood terrine recipes",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon and prawn terrine",
+        "volume": 110,
+        "competition": 39
+      },
+      {
+        "keyword": "salmon prawn terrine",
+        "volume": 110,
+        "competition": 39
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

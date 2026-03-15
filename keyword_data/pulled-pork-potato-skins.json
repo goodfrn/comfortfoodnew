@@ -1,0 +1,267 @@
+{
+  "slug": "pulled-pork-potato-skins",
+  "title": "Pulled Pork Potato Skins",
+  "seed_keywords": [
+    "pulled pork appetizers",
+    "loaded potato skins",
+    "barbecue pulled pork",
+    "stuffed potato skins",
+    "pork and cheese potatoes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "barbecue shredded pork",
+        "volume": 450000,
+        "competition": 9
+      },
+      {
+        "keyword": "barbeque shredded pork",
+        "volume": 450000,
+        "competition": 9
+      },
+      {
+        "keyword": "pork for bbq pulled pork",
+        "volume": 450000,
+        "competition": 9
+      },
+      {
+        "keyword": "bbq pork pulled pork recipe",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "bbq shredded pork recipe",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker bbq pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot bbq pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "barbecue pulled pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "barbecue pulled pork in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq crockpot pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq shredded pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "crockpot bbq shredded pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork bbq in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork in a crockpot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq pulled pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue pulled pork crock pot recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue pulled pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "barbeque pulled pork crock pot recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "pulled pork recipe slow cooker bbq",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for barbecue pulled pork in slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork shoulder",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pork shoulder bbq pulled pork",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "barbecued pulled pork in the crock pot",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork in instant pot",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork smoked",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "barbecue pulled pork",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "bbq pulled pork",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "bbq pork",
+        "volume": 14800,
+        "competition": 22
+      },
+      {
+        "keyword": "bbq pulled pork near me",
+        "volume": 14800,
+        "competition": 42
+      },
+      {
+        "keyword": "bar bq pulled pork",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "pork on barbecue",
+        "volume": 14800,
+        "competition": 22
+      },
+      {
+        "keyword": "pulled barbeque pork",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "pulled pork bbq in the oven",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "bbq pulled pork butt",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq pulled pork recipe smoker",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "loaded potato skins",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "barbecue pulled pork recipe oven",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "bbq pulled pork oven recipe",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "bbq pulled pork recipe",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for pulled pork barbecue",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "bar bq pulled pork recipe",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "bbq pulled pork crock pot easy",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq pulled pork in crock pot easy",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq pulled pork pressure cooker",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "bbq pulled pork slow cooker easy",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "best barbecue pulled pork",
+        "volume": 8100,
+        "competition": 20
+      },
+      {
+        "keyword": "best barbecue pulled pork recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "best bbq pulled pork recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "best pork for bbq pulled pork",
+        "volume": 8100,
+        "competition": 20
+      },
+      {
+        "keyword": "best pulled pork recipe bbq",
+        "volume": 8100,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

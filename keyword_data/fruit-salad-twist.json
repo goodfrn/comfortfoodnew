@@ -1,0 +1,267 @@
+{
+  "slug": "fruit-salad-twist",
+  "title": "Fruit Salad Twist",
+  "seed_keywords": [
+    "fresh fruit salad",
+    "vegan summer dessert",
+    "pineapple mango salad",
+    "maple lime dressing",
+    "berry fruit bowl"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "açaí bowl",
+        "volume": 1220000,
+        "competition": 18
+      },
+      {
+        "keyword": "açaí near me",
+        "volume": 301000,
+        "competition": 16
+      },
+      {
+        "keyword": "acai frozen puree",
+        "volume": 74000,
+        "competition": 42
+      },
+      {
+        "keyword": "frozen acai berries",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "acai frozen pack",
+        "volume": 27100,
+        "competition": 23
+      },
+      {
+        "keyword": "fresh fruit salad",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "acai berry frozen puree",
+        "volume": 6600,
+        "competition": 54
+      },
+      {
+        "keyword": "fruit salad with fresh fruit",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "salad oranges",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "acai berries near me",
+        "volume": 3600,
+        "competition": 79
+      },
+      {
+        "keyword": "fresh fruit salad recipe",
+        "volume": 2400,
+        "competition": 15
+      },
+      {
+        "keyword": "fresh fruit salad ideas",
+        "volume": 2400,
+        "competition": 15
+      },
+      {
+        "keyword": "frozen açaí packets",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "acai berry bowl",
+        "volume": 1600,
+        "competition": 58
+      },
+      {
+        "keyword": "fresh fruit cup",
+        "volume": 1600,
+        "competition": 34
+      },
+      {
+        "keyword": "acai yogurt",
+        "volume": 1600,
+        "competition": 57
+      },
+      {
+        "keyword": "sambazon acai frozen",
+        "volume": 1300,
+        "competition": 35
+      },
+      {
+        "keyword": "acai frozen costco",
+        "volume": 1000,
+        "competition": 50
+      },
+      {
+        "keyword": "peach mozzarella salad",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "peach salad mozzarella",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "sambazon acai puree",
+        "volume": 880,
+        "competition": 40
+      },
+      {
+        "keyword": "classic fruit salad recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "unsweetened acai pack",
+        "volume": 880,
+        "competition": 79
+      },
+      {
+        "keyword": "acai ah",
+        "volume": 720,
+        "competition": 36
+      },
+      {
+        "keyword": "fruit and mint salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit salad ideas for summer",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "cranberry salad with fresh cranberries",
+        "volume": 590,
+        "competition": 15
+      },
+      {
+        "keyword": "salad with fresh cranberries",
+        "volume": 590,
+        "competition": 15
+      },
+      {
+        "keyword": "pineapple mango salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh fruit salad ingredients",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "ingredients of fresh fruit salad",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "mango and pineapple salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh fruit salad near me",
+        "volume": 390,
+        "competition": 60
+      },
+      {
+        "keyword": "acai bowl granola",
+        "volume": 390,
+        "competition": 52
+      },
+      {
+        "keyword": "chopped fruit salad",
+        "volume": 390,
+        "competition": 8
+      },
+      {
+        "keyword": "fresh fruit cocktail",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "fruit salad recipes with cream cheese",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "honey dew melon salad",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "mixed berries bowl",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "peach blueberry salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "quinoa and strawberry salad",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "salad and fruit for lunch",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "vegan summer dessert",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberry jello salad fresh cranberries",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "dressing for a fresh fruit salad",
+        "volume": 320,
+        "competition": 12
+      },
+      {
+        "keyword": "fresh cranberry jello salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "fresh fruit recipe",
+        "volume": 320,
+        "competition": 6
+      },
+      {
+        "keyword": "avocado mango salad dressing",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "dressing for avocado and mango salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh fruit mix",
+        "volume": 260,
+        "competition": 30
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

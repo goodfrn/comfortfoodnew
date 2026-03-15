@@ -1,0 +1,267 @@
+{
+  "slug": "filet-mignon-hearts",
+  "title": "Filet Mignon Hearts with Aphrodisiac Sauce",
+  "seed_keywords": [
+    "filet mignon recipes",
+    "roasted beef heart",
+    "ginger madeira sauce",
+    "honey roasted vegetables",
+    "beef heart dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "steaks filet mignon",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "beef filet mignon steak",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "filet mignon and",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "filet of mignon",
+        "volume": 673000,
+        "competition": 25
+      },
+      {
+        "keyword": "reverse sear filet steak",
+        "volume": 90500,
+        "competition": 13
+      },
+      {
+        "keyword": "beef tenderloin steak",
+        "volume": 74000,
+        "competition": 31
+      },
+      {
+        "keyword": "beef loin tenderloin steak",
+        "volume": 74000,
+        "competition": 31
+      },
+      {
+        "keyword": "baked carrots honey",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "carrot roasted honey",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "glazed cooked carrots",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "filet mignon recipes",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "beef filet mignon recipe",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "beef loin tenderloin recipe",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef mignon recipe",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "filet mignon steak recipe",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "make filet mignon",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "mignon recipe",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "mignon steak recipe",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "beef tenderloin for beef wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "air fry filet mignon",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "filet mignon air fryer",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "roast carrots and parsnips",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "roast carrots & parsnips",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "grilling filet mignon",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "barbecuing filet mignon",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "bbq a filet mignon",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "filet mignon steak on grill",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "grill a filet",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "grilling filet mignon steaks",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "carrots in honey",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "grilling a beef tenderloin",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "best way to cook filet mignon",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "honey roast parsnips",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "best way filet mignon",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "best way to bake filet mignon",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "best way to cook a filet mignon steak",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "best way to make a filet mignon",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "glazed carrots honey recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "honey baked parsnips",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey roast carrots parsnips",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted carrots and parsnips with honey",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "filet mignon in oven",
+        "volume": 8100,
+        "competition": 23
+      },
+      {
+        "keyword": "pan seared filet mignon",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "bake a filet mignon",
+        "volume": 8100,
+        "competition": 23
+      },
+      {
+        "keyword": "cook a filet mignon in the oven",
+        "volume": 8100,
+        "competition": 23
+      },
+      {
+        "keyword": "filet beef tips",
+        "volume": 8100,
+        "competition": 21
+      },
+      {
+        "keyword": "filet mignon in a pan",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "filet mignon steak in oven",
+        "volume": 8100,
+        "competition": 23
+      },
+      {
+        "keyword": "filet mignon temperature",
+        "volume": 8100,
+        "competition": 14
+      },
+      {
+        "keyword": "making filet mignon in the oven",
+        "volume": 8100,
+        "competition": 23
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

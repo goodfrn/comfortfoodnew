@@ -1,0 +1,157 @@
+{
+  "slug": "fruity-nut-tart",
+  "title": "Fruity Nut Tart Remix",
+  "seed_keywords": [
+    "nut tart recipe",
+    "mixed nut dessert",
+    "marzipan tart",
+    "almond walnut tart",
+    "dried fruit tart"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pecan tart bars",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "pecan nut tart",
+        "volume": 8100,
+        "competition": 23
+      },
+      {
+        "keyword": "pecan nut tart recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "pecan nut tarts recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "butter pecan tartlets",
+        "volume": 1600,
+        "competition": 19
+      },
+      {
+        "keyword": "butterscotch pecan tart",
+        "volume": 1600,
+        "competition": 19
+      },
+      {
+        "keyword": "walnut tart",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "butter pecan tart recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "nut tart",
+        "volume": 390,
+        "competition": 50
+      },
+      {
+        "keyword": "macadamia nut tart",
+        "volume": 320,
+        "competition": 36
+      },
+      {
+        "keyword": "macadamia tart",
+        "volume": 320,
+        "competition": 36
+      },
+      {
+        "keyword": "recipe for walnut tart",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "marzipan tart",
+        "volume": 260,
+        "competition": 9
+      },
+      {
+        "keyword": "nutty tart",
+        "volume": 260,
+        "competition": 19
+      },
+      {
+        "keyword": "pecan maple tart",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel pecan tarts",
+        "volume": 210,
+        "competition": 11
+      },
+      {
+        "keyword": "pine nut tart",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "dried fruit tart",
+        "volume": 140,
+        "competition": 37
+      },
+      {
+        "keyword": "caramel nut tart",
+        "volume": 140,
+        "competition": 27
+      },
+      {
+        "keyword": "caramel walnut tart",
+        "volume": 140,
+        "competition": 6
+      },
+      {
+        "keyword": "french walnut tart recipe",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "nut tart recipe",
+        "volume": 110,
+        "competition": 6
+      },
+      {
+        "keyword": "apple and marzipan tart",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "apple marzipan tart",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "apple walnut tart",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate walnut tart",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "french walnut tart",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "marzipan and apple tart",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

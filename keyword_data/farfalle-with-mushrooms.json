@@ -1,0 +1,267 @@
+{
+  "slug": "farfalle-with-mushrooms",
+  "title": "Farfalle with Mushrooms and Crispy Pancetta",
+  "seed_keywords": [
+    "farfalle pasta dishes",
+    "creamy mushroom pasta",
+    "pancetta mushroom sauce",
+    "pasta with mushrooms",
+    "wild mushroom farfalle"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mushrooms with sauce",
+        "volume": 60500,
+        "competition": 30
+      },
+      {
+        "keyword": "mushroom and pasta",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy mushroom pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream of mushroom pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream and mushroom pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy mushroom noodles",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta and mushrooms",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom cream pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom pasta creamy",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with cream and mushrooms",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom pasta recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and mushroom pasta",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken mushroom pasta",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and mushroom pasta dish",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken mushroom pasta dish",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "mushroom and pasta dish",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom and pasta recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom pasta dish",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom pasta ideas",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta salmon cream",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom pasta sauce",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "mushroom and pasta sauce",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "spaghetti and mushroom sauce",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "mushroom ravioli",
+        "volume": 9900,
+        "competition": 37
+      },
+      {
+        "keyword": "ravioli and mushrooms",
+        "volume": 9900,
+        "competition": 37
+      },
+      {
+        "keyword": "chicken and mushroom cream pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and mushroom creamy pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and mushroom pasta with cream",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken creamy mushroom pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mushroom and cream pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mushroom cream pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mushroom pasta creamy",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy mushroom pasta with chicken",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy pasta chicken mushroom",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "gnocchi and mushrooms",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "gnocchi mushroom",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom & spinach pasta",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom and spinach pasta",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom and spinach spaghetti",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom chicken creamy pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom pasta spinach",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach & mushroom pasta",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "farfalle pasta dishes",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "farfalle pasta recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon & mushroom pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and mushroom pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cream and mushroom pasta sauce",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy mushroom pasta sauce",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy mushroom sauce with pasta",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy pasta sauce with mushrooms",
+        "volume": 5400,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

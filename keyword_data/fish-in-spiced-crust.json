@@ -1,0 +1,267 @@
+{
+  "slug": "fish-in-spiced-crust",
+  "title": "Fish in Spiced Crust",
+  "seed_keywords": [
+    "baked white fish",
+    "crusted fish fillets",
+    "fish with breadcrumb crust",
+    "glazed carrots fish",
+    "spiced fish dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fish panko",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "panko breadcrumb fish",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "baked white fish",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "bake white fish recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "panko battered cod",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "panko breaded cod",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "panko breaded cod fish",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "panko crusted cod",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "panko crusted cod fish",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for baked whitefish",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "crusted parmesan fish",
+        "volume": 1600,
+        "competition": 21
+      },
+      {
+        "keyword": "salmon panko breadcrumbs",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon with panko breadcrumbs",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked swai",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "baked swai recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "cod baked with panko",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "herb crusted cod",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes for baked swai fish",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "cod panko",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "cod with panko bread crumbs",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "panko cod fish",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "baked basa recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "baked cod fish with bread crumbs",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "basa recipes oven",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cooked white fish",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "parmesan fish",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "baked basa",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "bread crumb salmon",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cod fish with bread crumbs",
+        "volume": 590,
+        "competition": 26
+      },
+      {
+        "keyword": "panko bread tilapia",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for white fish in the oven",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "salmon with breadcrumbs",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "white fish in oven recipe",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "white fish oven recipe",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "baked fish panko",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "baked panko crusted fish",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "cook white fish in oven",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "oven bake white fish",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "baked panko tilapia",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "oven white fish",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked basa fillet recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "baked panko halibut",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "baked whitefish recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "panko baked haddock",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "parmesan crusted fish fillet",
+        "volume": 320,
+        "competition": 43
+      },
+      {
+        "keyword": "panko breaded baked cod",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "panko crusted baked cod",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "white fish tray bake jamie oliver",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "baked white fish fillet",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "panko fried cod",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

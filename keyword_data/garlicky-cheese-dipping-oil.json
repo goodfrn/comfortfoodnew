@@ -1,0 +1,267 @@
+{
+  "slug": "garlicky-cheese-dipping-oil",
+  "title": "Garlicky Cheese Dipping Oil",
+  "seed_keywords": [
+    "cheese dipping oil",
+    "garlic bread dip",
+    "olive oil dip",
+    "pecorino cheese appetizer",
+    "herb infused oil"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "olive oil for dipping bread",
+        "volume": 9900,
+        "competition": 28
+      },
+      {
+        "keyword": "olive oil dipping sauce for bread",
+        "volume": 9900,
+        "competition": 28
+      },
+      {
+        "keyword": "bread and olive oil dip",
+        "volume": 9900,
+        "competition": 28
+      },
+      {
+        "keyword": "bread dipping oil",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "bread and dipping oil",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "bread for oil dipping",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "oil to dip bread",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "bread dipper",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "bread for dipping",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "bread and dip",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "bread for dip",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "olive oil bread",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "olive oil and balsamic vinegar bread dip",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "olive dip",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "balsamic and olive oil bread dip",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "balsamic olive oil bread dip",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "balsamic vinegar & olive oil for dipping bread",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "balsamic vinegar and olive oil dipping sauce for bread",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "bread dip oil recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "olive oil balsamic dipping sauce for bread",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "italian dipping",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "dipping oil",
+        "volume": 1900,
+        "competition": 71
+      },
+      {
+        "keyword": "bread dip olive oil recipe",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "bread dipping recipes with olive oil",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "dipped in oil",
+        "volume": 1900,
+        "competition": 71
+      },
+      {
+        "keyword": "olive dip recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "olive oil dipping sauce for bread recipe",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe olive oil dipping sauce for bread",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "olive oil dip",
+        "volume": 1600,
+        "competition": 48
+      },
+      {
+        "keyword": "italian bread dipping oil",
+        "volume": 1600,
+        "competition": 37
+      },
+      {
+        "keyword": "bread and dipping oil recipe",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "bread and oil dipping recipes",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "bread dipper recipe",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "bread in oil",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "extra virgin olive oil bread dip",
+        "volume": 1600,
+        "competition": 18
+      },
+      {
+        "keyword": "extra virgin olive oil for dipping bread",
+        "volume": 1600,
+        "competition": 18
+      },
+      {
+        "keyword": "herb and olive",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "italian bread and dipping oil",
+        "volume": 1600,
+        "competition": 37
+      },
+      {
+        "keyword": "oil recipe for bread dipping",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "olive oil dipping oil",
+        "volume": 1600,
+        "competition": 48
+      },
+      {
+        "keyword": "sage infused",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "thyme and olive oil",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "thyme olive oil",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "herb olive",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "herb infused oil",
+        "volume": 1000,
+        "competition": 56
+      },
+      {
+        "keyword": "balsamic and olive oil dip",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "balsamic dip for bread",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "balsamic olive oil dip",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "balsamic vinegar and olive oil dip",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "balsamic vinegar olive oil dip",
+        "volume": 1000,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

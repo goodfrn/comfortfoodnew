@@ -1,0 +1,267 @@
+{
+  "slug": "froggy-chocolate-milk",
+  "title": "Froggy Chocolate Milk",
+  "seed_keywords": [
+    "green chocolate milk",
+    "white chocolate drinks",
+    "citrus milk beverages",
+    "lemon infused beverages",
+    "cold chocolate drinks"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "white chocolate mocha",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "starbucks white chocolate mocha",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "white chocolate mocha coffee starbucks",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "chocolate white mocha starbucks",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "starbucks drink white chocolate mocha",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "starbucks white mocha chocolate",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "white chocolate mocha drink starbucks",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "iced chocolate drink",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "hot chocolate french",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "iced white chocolate mocha",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "white chocolate mocha iced coffee",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "iced coffee white chocolate mocha",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "white chocolate mocha ice",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "white mocha starbucks",
+        "volume": 8100,
+        "competition": 45
+      },
+      {
+        "keyword": "iced white mocha",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "ıce white mocha",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "white hot chocolate starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "iced white mocha starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "starbucks iced white chocolate mocha",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "white chocolate hot chocolate starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "iced coffee with white mocha starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "iced white mocha from starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "starbucks white chocolate hot cocoa",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "starbucks white chocolate mocha iced coffee",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "starbucks white hot cocoa",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "starbucks white iced mocha",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "white chocolate hot cocoa starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "white chocolate hot drink starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "white chocolate mocha iced coffee starbucks",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "white chocolate mocha starbucks iced",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "white hot chocolate at starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "white iced mocha starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "white mocha iced starbucks",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "iced chocolate mocha starbucks",
+        "volume": 5400,
+        "competition": 29
+      },
+      {
+        "keyword": "lemon infused water",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "dunkin donuts white hot chocolate",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "white chocolate milkshake",
+        "volume": 2900,
+        "competition": 56
+      },
+      {
+        "keyword": "coffee white mocha",
+        "volume": 2900,
+        "competition": 25
+      },
+      {
+        "keyword": "white coffee mocha",
+        "volume": 2900,
+        "competition": 25
+      },
+      {
+        "keyword": "white mocha for coffee",
+        "volume": 2900,
+        "competition": 25
+      },
+      {
+        "keyword": "tim hortons white hot chocolate",
+        "volume": 1900,
+        "competition": 21
+      },
+      {
+        "keyword": "white chocolate starbucks",
+        "volume": 1900,
+        "competition": 59
+      },
+      {
+        "keyword": "starbucks frozen hot chocolate",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "white godiva liqueur",
+        "volume": 1900,
+        "competition": 73
+      },
+      {
+        "keyword": "starbucks white chocolate mocha frappuccino",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "tim horton white hot chocolate",
+        "volume": 1900,
+        "competition": 21
+      },
+      {
+        "keyword": "tim horton's white hot chocolate",
+        "volume": 1900,
+        "competition": 21
+      },
+      {
+        "keyword": "white chocolate at starbucks",
+        "volume": 1900,
+        "competition": 59
+      },
+      {
+        "keyword": "white chocolate hot chocolate tim hortons",
+        "volume": 1900,
+        "competition": 21
+      },
+      {
+        "keyword": "white chocolate starbucks coffee",
+        "volume": 1900,
+        "competition": 59
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

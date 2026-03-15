@@ -1,0 +1,267 @@
+{
+  "slug": "festive-deviled-eggs",
+  "title": "Festive Deviled Egg Platter",
+  "seed_keywords": [
+    "deviled eggs",
+    "holiday appetizers",
+    "deviled egg variations",
+    "steamed eggs salad",
+    "salmon deviled eggs"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "deviled eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "stuffed eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "dressed eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "deviled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "devilled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "devilled egg dish",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled eggs and",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled eggs deviled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "eggs deviled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "thanksgiving appetizers",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "best deviled eggs recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "good deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "recipe deviled eggs best",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "best rated deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "best stuffed eggs recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "great deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "top rated deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "christmas appetizers",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "christmas appetizer ideas",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "easy deviled eggs recipe",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "basic deviled egg recipe",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "simple deviled eggs recipe",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "christmas day appetizers",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "festive appetizers",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "christmas appetisers",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "christmas holiday appetizers",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "hors d oeuvres for christmas",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "appetizers for xmas day",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "christmas day appetisers",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "christmas day horderves",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "christmas day hors d oeuvres",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "christmas hor devours",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "christmas hor dourves",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "recipes for deviled eggs simple",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "xmas appetisers",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "egg potato salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "hard boiled eggs for deviled eggs",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "egg and potato salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "xmas snack",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "halloween appetizers",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "deviled sausage",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "halloween appetisers",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "halloween hor d oeuvres",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "halloween hor dourves",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "menu ideas for new years eve",
+        "volume": 14800,
+        "competition": 32
+      },
+      {
+        "keyword": "thanksgiving appetizer ideas",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "easy christmas appetizers",
+        "volume": 12100,
+        "competition": 29
+      },
+      {
+        "keyword": "easter appetizers",
+        "volume": 12100,
+        "competition": 50
+      },
+      {
+        "keyword": "christmas party appetizers",
+        "volume": 12100,
+        "competition": 30
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

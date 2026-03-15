@@ -1,0 +1,267 @@
+{
+  "slug": "flourless-black-bean-brownies",
+  "title": "Flourless Black Bean Brownies",
+  "seed_keywords": [
+    "black bean brownies",
+    "gluten free brownies",
+    "flourless chocolate desserts",
+    "black bean chocolate",
+    "fudgy brownie recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fudgy brownies",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "chocolate brownie fudge",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "chocolate brownies fudgy",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "fudgy brownie recipes",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "flourless chocolate cake",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "flourless chocolate gateau",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "flourless cocoa cake",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "fudgy chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean brownies",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean chocolate brownie",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "brownies using black beans",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "flourless cakes recipes",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for homemade chocolate brownies",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate brownie from scratch",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "fudge brownie recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie from scratch recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "brownie fudgy recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie with cocoa powder recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate brownie fudge recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for brownies made from scratch",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "black bean brownie recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "chewy brownie recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chewy chocolate brownies recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate brownie eggless recipe",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "choc fudge brownies",
+        "volume": 8100,
+        "competition": 28
+      },
+      {
+        "keyword": "chocolate brownie with cocoa powder",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "cocoa fudge brownies",
+        "volume": 8100,
+        "competition": 28
+      },
+      {
+        "keyword": "flourless chocolate cake torte",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "flourless torte",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "flourless torte cake",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "almond flour brownies",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "almond meal brownie",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate brownies with almond meal",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "dairy free brownies",
+        "volume": 5400,
+        "competition": 56
+      },
+      {
+        "keyword": "flourless cake",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "chewy brownies",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "dairy free chocolate brownies",
+        "volume": 5400,
+        "competition": 56
+      },
+      {
+        "keyword": "best brownie fudge recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "best brownie recipe fudgy",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "brownie gluten",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "easy brownie with cocoa powder",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "good fudge brownie recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "king arthur brownies",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "brownie flourless",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "brownie king arthur",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "brownies king arthur flour",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "fudge brownie mix",
+        "volume": 2900,
+        "competition": 38
+      },
+      {
+        "keyword": "easy homemade chocolate brownies",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "flourless cookies",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "bean brownie",
+        "volume": 2400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

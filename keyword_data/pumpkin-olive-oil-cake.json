@@ -1,0 +1,267 @@
+{
+  "slug": "pumpkin-olive-oil-cake",
+  "title": "Pumpkin Olive Oil Cake",
+  "seed_keywords": [
+    "pumpkin cake",
+    "olive oil cake",
+    "pumpkin spice baking",
+    "brown butter glaze",
+    "fall spiced cake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "olive oil cake",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cheese cake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "olive oil for cake",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cake cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "pumpkin cake",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin roll",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin and cake",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "lemon olive oil cake",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon and olive oil cake",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin cup cake",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin spice cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "olive oil cake recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "cake mix pumpkin spice cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "cake pumpkin spice",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "cake recipe using olive oil",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin and spice cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "spice and pumpkin cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "spice cake and pumpkin cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "spice cake pumpkin cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin bundt cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "orange olive oil cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "bundt cake pumpkin cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "doughnut pumpkin",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "oil cake",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "oilcake",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "olive oil and orange cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin bundt",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin coffee cake",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin roll cake",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "chocolate olive oil cake",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "olive oil for baking",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "chocolate and olive oil cake",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "cream cheese frosting for pumpkin cake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "olive oil cake chocolate",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "olive oil in chocolate cake",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin cake and cream cheese frosting",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin sponge roll",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "pumpkin swiss roll",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "pumpkin swiss roll cake",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "pumpkin spice cake mix",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "costco pumpkin cheese cake",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin and spice cake mix",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin spice cake from cake mix",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin spice cake mix and pumpkin",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin spice cake with spice cake mix",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "spice cake mix and pumpkin cake",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin crunch",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cake virgin",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy pumpkin cake",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cake cookie",
+        "volume": 2900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

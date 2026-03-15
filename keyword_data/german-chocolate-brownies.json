@@ -1,0 +1,267 @@
+{
+  "slug": "german-chocolate-brownies",
+  "title": "German Chocolate Brownies Remix",
+  "seed_keywords": [
+    "chocolate brownie recipes",
+    "homemade brownies with pecans",
+    "german chocolate cake brownies",
+    "caramel pecan brownies",
+    "chocolate butter baking"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brownie recipe",
+        "volume": 550000,
+        "competition": 2
+      },
+      {
+        "keyword": "cosmic brownies",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "chocolate brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "cocoa brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "chocolate brownie recipes",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "easy brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "simple brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie cookies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cookies and brownies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "easy chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "quick brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "easy to make brownies",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "basic chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie recipe cocoa",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "easy simple brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "fudgy brownies",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "fudgy chocolate brownie",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "ina garten brownie pudding",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "ina garten chocolate brownie pudding",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "best brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "fudgy brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "best chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "fudgy chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "great brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato chocolate brownie",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade chocolate brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "buckeye brownies",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "black bean chocolate brownie",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "brownie pots",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "fudge brownies",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "baking bars",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "brownie sizzling",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sizzle brownie",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade brownie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brownie cookie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brownie and cookie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate brownie cookie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate mug brownie recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade chocolate brownie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "make homemade brownies",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "veg brownie",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "brownies from scratch",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "brownie ice cream",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "gluten free brownie recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate brownies from scratch",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "brownie and cookie mix",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "brownie and icecream",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "brownie oreos",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "brownie zucchini",
+        "volume": 18100,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

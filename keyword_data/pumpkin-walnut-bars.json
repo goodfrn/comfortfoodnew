@@ -1,0 +1,267 @@
+{
+  "slug": "pumpkin-walnut-bars",
+  "title": "Pumpkin Walnut Bars",
+  "seed_keywords": [
+    "pumpkin bars",
+    "pumpkin walnut dessert",
+    "fall baking recipes",
+    "layered dessert bars",
+    "spiced pumpkin treats"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "7 layer bars",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "7 layer bar recipes",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for seven layer bars",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "seven layer bar",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "magic bars",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin bars",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "bar pumpkin",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin bars recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin recipes bars",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin squares recipes easy",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "magic cookie bars",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "magic bars dessert",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "magic cookie bar cookies",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "magic bar recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "spice bars",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "pumpkin cheesecake bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake pumpkin squares",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin and cheesecake bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin bar cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin cheesecake dessert bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "fall baking recipes",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "autumn baking recipes",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "baking recipes fall",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese frosted pumpkin bars",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "cream cheese frosting pumpkin bars",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "fall recipes for baking",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin bars and cream cheese frosting",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin squares cream cheese frosting",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "magic bar cookie recipes",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "dunkin pumpkin muffin",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "dunkin donuts pumpkin muffin",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie bars",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin pie dessert bars",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "milk bar pumpkin pie",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "dunkin pumpkin donut",
+        "volume": 4400,
+        "competition": 11
+      },
+      {
+        "keyword": "hello dolly bar recipe",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "milk bars pumpkin pie",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "7 layer bar cookie",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "7 layer dessert bar",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "bars with cream cheese",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "recipe for 7 layer cookie bars",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for seven layer cookie bars",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "seven layer bar cookie",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "seven layer magic cookie bar",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "fall baking",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "magic bars recipe eagle brand",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese and pumpkin bars",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese pumpkin bar",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese pumpkin squares",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "eagle brand recipes magic cookie bars",
+        "volume": 2400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

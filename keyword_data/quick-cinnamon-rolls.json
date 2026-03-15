@@ -1,0 +1,267 @@
+{
+  "slug": "quick-cinnamon-rolls",
+  "title": "Quick Cinnamon Rolls Remix",
+  "seed_keywords": [
+    "cinnamon rolls",
+    "almond flour baking",
+    "brown sugar rolls",
+    "homemade cinnamon bread",
+    "oat milk pastries"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cinnamon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnabons",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "cinnabon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnabon bakery",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "cinema rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnabon company",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "cinnamon bun rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnamon cinnamon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnamon r",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "rolling cinnamon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "sinnamon roll",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinna holic",
+        "volume": 201000,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon rolls near me",
+        "volume": 135000,
+        "competition": 26
+      },
+      {
+        "keyword": "cinnamon buns near me",
+        "volume": 135000,
+        "competition": 26
+      },
+      {
+        "keyword": "cinnamon buns",
+        "volume": 110000,
+        "competition": 13
+      },
+      {
+        "keyword": "roll of bread",
+        "volume": 90500,
+        "competition": 38
+      },
+      {
+        "keyword": "homemade cinnamon rolls",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade cinnamon buns",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon roll sourdough",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "frosted cinnamon rolls",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade cinnamon scrolls",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "sourdough cinnamon buns",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon scrolls",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnabon cinnamon rolls",
+        "volume": 22200,
+        "competition": 37
+      },
+      {
+        "keyword": "sweet rolls",
+        "volume": 22200,
+        "competition": 16
+      },
+      {
+        "keyword": "cinnabon cinnamon buns",
+        "volume": 22200,
+        "competition": 37
+      },
+      {
+        "keyword": "sweet roll bread",
+        "volume": 22200,
+        "competition": 16
+      },
+      {
+        "keyword": "pumpkin cinnamon rolls",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "no yeast cinnamon rolls",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon buns no yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon roll recipes without yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon scrolls no yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "no yeast cinnamon scrolls",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin cinnamon buns",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "almond flour baking",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "vegan cinnamon rolls",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "vegan cinnamon buns",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "almond meal baking",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "almond powder baking",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "almond powder for baking",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "baking with nut flour",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "cheesecake cinnamon rolls",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon bun cheesecake",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon buns tesco",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "coffee roll",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "sourdough discard cinnamon rolls",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan cinnamon scrolls",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "best cinnamon rolls near me",
+        "volume": 12100,
+        "competition": 28
+      },
+      {
+        "keyword": "cinnaholic near me",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon swirls",
+        "volume": 12100,
+        "competition": 16
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

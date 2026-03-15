@@ -1,0 +1,267 @@
+{
+  "slug": "fresh-fruit-salad-twist",
+  "title": "Fresh Fruit Salad Twist",
+  "seed_keywords": [
+    "fresh fruit salad",
+    "summer fruit dressing",
+    "lime agave dressing",
+    "chilled fruit bowls",
+    "vegan fruit salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fresh fruit salad",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "fruit salad with fresh fruit",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "salad oranges",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh fruit salad recipe",
+        "volume": 2400,
+        "competition": 15
+      },
+      {
+        "keyword": "fresh fruit salad ideas",
+        "volume": 2400,
+        "competition": 15
+      },
+      {
+        "keyword": "fresh fruit cup",
+        "volume": 1600,
+        "competition": 34
+      },
+      {
+        "keyword": "peach mozzarella salad",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "peach salad mozzarella",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "classic fruit salad recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "fruit and mint salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit salad ideas for summer",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "cranberry salad with fresh cranberries",
+        "volume": 590,
+        "competition": 15
+      },
+      {
+        "keyword": "salad with fresh cranberries",
+        "volume": 590,
+        "competition": 15
+      },
+      {
+        "keyword": "fresh fruit salad ingredients",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "ingredients of fresh fruit salad",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "fresh fruit salad near me",
+        "volume": 390,
+        "competition": 60
+      },
+      {
+        "keyword": "chopped fruit salad",
+        "volume": 390,
+        "competition": 8
+      },
+      {
+        "keyword": "fresh fruit cocktail",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "fruit salad recipes with cream cheese",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "honey dew melon salad",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "peach blueberry salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "quinoa and strawberry salad",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "salad and fruit for lunch",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "cranberry jello salad fresh cranberries",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "dressing for a fresh fruit salad",
+        "volume": 320,
+        "competition": 12
+      },
+      {
+        "keyword": "fresh cranberry jello salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "fresh fruit recipe",
+        "volume": 320,
+        "competition": 6
+      },
+      {
+        "keyword": "vegan fruit salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado mango salad dressing",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "dressing for avocado and mango salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh fruit mix",
+        "volume": 260,
+        "competition": 30
+      },
+      {
+        "keyword": "green pear salad",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "vegan salad with fruit",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan watermelon salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "watermelon salad vegan",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "classic fruit salad",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "fresh cream fruit salad",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "fresh peach salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit salad with orange juice dressing",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit salad with oranges and apples",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "mango mint salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "pomegranate mint salad",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "seasonal fruit salad",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "fresh berries salad",
+        "volume": 170,
+        "competition": 4
+      },
+      {
+        "keyword": "fresh berry fruit salad",
+        "volume": 170,
+        "competition": 4
+      },
+      {
+        "keyword": "making a fruit salad with raw fruits",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "melon ball salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "nectarine feta salad",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "orange strawberry salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "peach tomato mozzarella salad",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

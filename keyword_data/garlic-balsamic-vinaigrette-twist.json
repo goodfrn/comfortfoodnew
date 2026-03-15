@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-balsamic-vinaigrette-twist",
+  "title": "Garlic Balsamic Vinaigrette Twist",
+  "seed_keywords": [
+    "garlic vinaigrette",
+    "balsamic vinaigrette dressing",
+    "homemade salad dressing",
+    "avocado oil dressing",
+    "maple vinaigrette recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "balsamic vinaigrette",
+        "volume": 74000,
+        "competition": 52
+      },
+      {
+        "keyword": "make ranch dressing",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "ranch salad dressing recipe",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "balsamic vinegar and vinaigrette",
+        "volume": 74000,
+        "competition": 52
+      },
+      {
+        "keyword": "balsamic vinegar vinaigrette",
+        "volume": 74000,
+        "competition": 52
+      },
+      {
+        "keyword": "recipe with ranch dressing",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "recipes for dressing",
+        "volume": 60500,
+        "competition": 16
+      },
+      {
+        "keyword": "salad recipes and dressings",
+        "volume": 60500,
+        "competition": 16
+      },
+      {
+        "keyword": "balsamic vinaigrette recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinaigrette dressing recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinaigrette sauce recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinegar salad dressing recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic vinegar vinaigrette recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for a balsamic vinaigrette",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe with balsamic vinaigrette",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "balsamic dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsam dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic and vinegar dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic dress",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic sauce dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "balsamic vinegar at dressing",
+        "volume": 33100,
+        "competition": 53
+      },
+      {
+        "keyword": "make italian dressing",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade caesar dressing",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "home made coleslaw",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "caesar salad homemade",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk ranch salad dressing recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "ranch dressing buttermilk recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for buttermilk ranch salad dressing",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade salad dressing",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "homemade italian dressing",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "ingredients of ranch salad dressing",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "dressing salad homemade",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "ingredients in ranch salad dressing",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "salad dressing home made",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "balsamic salad dressing",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "balsamic vinegar salad dressing",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "balsamic dressing recipe",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "recipes for homemade ranch dressing",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "balsamic vinegar dressing recipe",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "balsamic salad sauce",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "homemade ranch salad dressing recipe",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade coleslaw dressing",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "dressing coleslaw homemade",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "homemade thousand island",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "homemade thousand island salad dressing",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "dressing olive oil lemon",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "home made blue cheese dressing",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "balsamic vinaigrette dressing",
+        "volume": 6600,
+        "competition": 63
+      },
+      {
+        "keyword": "homemade caesar salad dressing",
+        "volume": 6600,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

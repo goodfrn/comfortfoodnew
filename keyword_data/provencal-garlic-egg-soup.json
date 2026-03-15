@@ -1,0 +1,267 @@
+{
+  "slug": "provencal-garlic-egg-soup",
+  "title": "Provencal Garlic Egg Soup",
+  "seed_keywords": [
+    "garlic egg soup",
+    "poached egg soup",
+    "garlic bread cheese",
+    "chicken broth eggs",
+    "mediterranean egg dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "olive garden bread sticks",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "garlic bread cheese",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cheesy bread",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "cheesy garlic bread",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "bread with cheese and garlic",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "bread with garlic and cheese",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cheese garlic toast",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "stuffed garlic bread",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese and garlic",
+        "volume": 4400,
+        "competition": 75
+      },
+      {
+        "keyword": "cheese garlic",
+        "volume": 4400,
+        "competition": 75
+      },
+      {
+        "keyword": "garlic bread stuffed",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "korean cheese bun",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "korean garlic bread",
+        "volume": 4400,
+        "competition": 11
+      },
+      {
+        "keyword": "cheese garlic pull apart bread",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "cheesy garlic bread pull apart",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "pull apart cheese garlic bread",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "cheesy pull apart bread",
+        "volume": 2900,
+        "competition": 18
+      },
+      {
+        "keyword": "cheese garlic roll",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy garlic roll",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "korean cream cheese garlic bread",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "bread parmesan",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic cheese bun",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "korean cream cheese bun",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "texas toast garlic bread cooking instructions",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "trader joes garlic bread",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese garlic bread domino's",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese garlic bread",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "dominos garlic bread with cheese",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "dominos garlic cheese bread",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic and parmesan bread",
+        "volume": 1600,
+        "competition": 10
+      },
+      {
+        "keyword": "garlic bread parmesan",
+        "volume": 1600,
+        "competition": 10
+      },
+      {
+        "keyword": "garlic bread parmesan cheese",
+        "volume": 1600,
+        "competition": 10
+      },
+      {
+        "keyword": "parmesan and garlic bread",
+        "volume": 1600,
+        "competition": 10
+      },
+      {
+        "keyword": "cheesy pull aparts",
+        "volume": 1300,
+        "competition": 39
+      },
+      {
+        "keyword": "homemade cheesy garlic bread",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese garlic bread near me",
+        "volume": 1300,
+        "competition": 32
+      },
+      {
+        "keyword": "cheesy garlic bread near me",
+        "volume": 1300,
+        "competition": 32
+      },
+      {
+        "keyword": "dominos stuffed garlic bread",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic and mozzarella bread",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "garlic bread mozzarella",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "garlic bread with mozzarella cheese",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "garlic cheese bread near me",
+        "volume": 1300,
+        "competition": 32
+      },
+      {
+        "keyword": "homemade garlic and cheese bread",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "korean garlic cheese bread",
+        "volume": 1300,
+        "competition": 20
+      },
+      {
+        "keyword": "stuffed garlic breadsticks dominos",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "pillsbury cheesy pull aparts",
+        "volume": 1000,
+        "competition": 64
+      },
+      {
+        "keyword": "bread mozzarella",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "korean garlic bun",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "korean garlic cream cheese bread",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "mozzarella and bread",
+        "volume": 1000,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

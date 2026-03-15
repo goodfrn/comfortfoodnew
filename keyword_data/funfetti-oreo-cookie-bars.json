@@ -1,0 +1,267 @@
+{
+  "slug": "funfetti-oreo-cookie-bars",
+  "title": "Funfetti Oreo Cookie Bars",
+  "seed_keywords": [
+    "oreo cookie bars",
+    "funfetti dessert bars",
+    "white chocolate cookie bars",
+    "butter cookie bars",
+    "sprinkle cookies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate chip cookie bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chip cookie bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate chocolate chip cookie bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "sprinkle cookies",
+        "volume": 14800,
+        "competition": 60
+      },
+      {
+        "keyword": "peanut butter cookies and reese's cups",
+        "volume": 12100,
+        "competition": 71
+      },
+      {
+        "keyword": "reese peanut butter cookies with reese cups",
+        "volume": 12100,
+        "competition": 71
+      },
+      {
+        "keyword": "reeses pb cup cookies",
+        "volume": 12100,
+        "competition": 71
+      },
+      {
+        "keyword": "pb twix",
+        "volume": 8100,
+        "competition": 72
+      },
+      {
+        "keyword": "sugar cookies with sprinkles",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "twix with peanut butter",
+        "volume": 8100,
+        "competition": 72
+      },
+      {
+        "keyword": "cookie sugar sprinkles",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "sugar cookie with sugar sprinkles",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "sugar cookies and sprinkles",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "oatmeal chocolate chip bars",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "peanut butter and oatmeal bars",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "oatmeal and chocolate chip bars",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "recipe chocolate chip cookie bars",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "confetti cookies",
+        "volume": 5400,
+        "competition": 58
+      },
+      {
+        "keyword": "oreo bars",
+        "volume": 3600,
+        "competition": 79
+      },
+      {
+        "keyword": "healthy unbaked cookies",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "oreo rice krispie bars",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "reeses pieces cookie",
+        "volume": 2900,
+        "competition": 50
+      },
+      {
+        "keyword": "christmas cookie sprinkles",
+        "volume": 2400,
+        "competition": 58
+      },
+      {
+        "keyword": "snickers cookies",
+        "volume": 2400,
+        "competition": 26
+      },
+      {
+        "keyword": "peanut butter cornflake bars",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cookie sprinkles christmas",
+        "volume": 2400,
+        "competition": 58
+      },
+      {
+        "keyword": "cornflake peanut butter squares",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "m&m peanut butter cookies",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut bar cookies",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "peanut butter bar cookie",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "peanut butter cookie squares",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "sprinkles chips",
+        "volume": 2400,
+        "competition": 78
+      },
+      {
+        "keyword": "sprinkles on christmas cookies",
+        "volume": 2400,
+        "competition": 58
+      },
+      {
+        "keyword": "twix cookie recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "italian sprinkle cookies",
+        "volume": 1900,
+        "competition": 73
+      },
+      {
+        "keyword": "butterfingers cookies",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "sprinkle italian cookies",
+        "volume": 1900,
+        "competition": 73
+      },
+      {
+        "keyword": "perfect bar recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter chocolate chip bars",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "peanut butter chewy",
+        "volume": 1600,
+        "competition": 28
+      },
+      {
+        "keyword": "buckeye cookie bars",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate chip peanut butter squares",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "mexican cookie with sprinkles",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "peanut butter and chocolate chip bars",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "peanut butter chocolate chips bars",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "peanut butter chocolate chunk bars",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "sprinkle sugar cookie recipes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "christmas sugar cookies with sprinkles",
+        "volume": 1300,
+        "competition": 56
+      },
+      {
+        "keyword": "christmas cookies with sugar sprinkles",
+        "volume": 1300,
+        "competition": 56
+      },
+      {
+        "keyword": "confetti cookie recipes",
+        "volume": 1300,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

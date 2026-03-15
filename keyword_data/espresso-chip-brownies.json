@@ -1,0 +1,267 @@
+{
+  "slug": "espresso-chip-brownies",
+  "title": "Espresso Chip Brownies",
+  "seed_keywords": [
+    "espresso brownies",
+    "chocolate brownies",
+    "brownies with chocolate chips",
+    "boxed brownie mix",
+    "espresso chocolate dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "cosmic brownies",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "cocoa brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "brownie cosmic",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "brownie cookies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cookies and brownies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "fudgy brownies",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "fudgy chocolate brownie",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "ina garten brownie pudding",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato chocolate brownie",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade chocolate brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "black bean chocolate brownies",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "fudge brownies",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "baking bars",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "brownie sizzling",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sizzle brownie",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan brownie",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "little debbie cosmic brownies",
+        "volume": 22200,
+        "competition": 19
+      },
+      {
+        "keyword": "vegetarian brownies",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "brownie cookie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "little debbie brownies cosmic",
+        "volume": 22200,
+        "competition": 19
+      },
+      {
+        "keyword": "brownies from scratch",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "brownie ice cream",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "chocolate brownies from scratch",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "brownie and ice cream",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "brownie oreos",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "cookie using brownie mix",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "oreo choco brownie",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "recipe for slutty brownies",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "keto brownies",
+        "volume": 14800,
+        "competition": 80
+      },
+      {
+        "keyword": "blondie brownies",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "peanut butter brownies",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "nutella brownies",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "mug brownie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "banana brownies",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "brownie ingredient",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "brownie mini",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "brownies made from scratch",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate brownie in a mug",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "making brownies from scratch",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "mini chocolate brownies",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "nutella chocolate brownies",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "pb brownies",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "brownie cheesecake",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "white brownie",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "brownies costco",
+        "volume": 12100,
+        "competition": 78
+      },
+      {
+        "keyword": "white chocolate brownies",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "brownie thermomix",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "brownie pudding",
+        "volume": 12100,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

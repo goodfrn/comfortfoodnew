@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-herb-cheese-nuggets",
+  "title": "Garlic Herb Cheese Nuggets",
+  "seed_keywords": [
+    "cheese filled biscuits",
+    "baked cheese appetizers",
+    "herb cheese nuggets",
+    "cheese biscuit dough",
+    "fried cheese bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "baked brie recipe",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "baked brie cheese",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "baked brie and",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "baked brie cheese recipe",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "baked brie cheese in puff pastry",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "baked brie pastry puff",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "mac and cheese balls",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "cheese macaroni balls",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "mac & cheese balls",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "mac n cheese ball",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "jalapeno poppers oven",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "brie and cranberries in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie and puff pastry bites",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie bites in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie bites with puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cheese puff pastry bites",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cheese puff pastry cranberries",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cranberry puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberries and brie in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "fried mac & cheese balls",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "fried mac n cheese balls",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "fried macaroni cheese balls",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "puff pastry bites with brie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach artichoke dip warm",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "brie cheese appetizer",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "baked brie and jam",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "baked brie cheese with cranberries",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked brie cheese with jam",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "baked brie cranberry",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked brie jelly",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "brie cranberry bake",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberry and baked brie",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "fried mac n cheese",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked brie appetizer",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "baked brie cheese appetizer",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "brie and cranberry",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "baked brie with honey",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "baked brie and honey",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "baked brie cheese with honey",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "brie cranberries",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "cranberry brie cheese",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "sausage balls with bisquick and cheese",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "sausage balls with bisquick cheese and sausage",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "baked brie and fig jam",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked brie in puff pastry recipe",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "baked brie with fig jam",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "brie in oven",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "cheese ball fried",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "fig jam baked brie",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for baked brie with puff pastry",
+        "volume": 2400,
+        "competition": 10
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

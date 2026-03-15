@@ -1,0 +1,267 @@
+{
+  "slug": "fresh-egg-pasta-dough",
+  "title": "Fresh Egg Pasta Dough",
+  "seed_keywords": [
+    "fresh egg pasta",
+    "homemade pasta dough",
+    "how to make pasta",
+    "egg pasta recipes",
+    "stuffed pasta fillings"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "carbonara dish",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "spagettti carbonara",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "spaghetti and carbonara",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "spaghetti with carbonara",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe spaghetti carbonara",
+        "volume": 301000,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for spaghetti alla carbonara",
+        "volume": 301000,
+        "competition": 7
+      },
+      {
+        "keyword": "how do you make alfredo",
+        "volume": 74000,
+        "competition": 23
+      },
+      {
+        "keyword": "how to make fettuccine alfredo sauce",
+        "volume": 74000,
+        "competition": 23
+      },
+      {
+        "keyword": "how do i make alfredo",
+        "volume": 74000,
+        "competition": 23
+      },
+      {
+        "keyword": "filled shells",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "how do you make fettuccine alfredo sauce",
+        "volume": 74000,
+        "competition": 23
+      },
+      {
+        "keyword": "how to make pasta",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "how do you make pasta",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "how do you make spaghetti squash",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "how do i make pasta",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "how can i make pasta",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "how do i make spaghetti squash",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "how do i prepare spaghetti squash",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "how do we make pasta",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to cook spaghetti squash for spaghetti",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "how to cook the spaghetti squash",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "how to make pasta with a pasta maker",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make pasta with pasta maker",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make squash pasta",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "how to prepare and cook spaghetti squash",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "how to make a lasagne",
+        "volume": 49500,
+        "competition": 20
+      },
+      {
+        "keyword": "handmade pasta recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "how to cook cheesy macaroni",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "how to make spaghetti",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how do you make spaghetti",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how do i make spaghetti",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how can i make spaghetti",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how do you prepare spaghetti",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to do spaghetti",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how you make spaghetti",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "how to make carbonara",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how to cook spaghetti",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how to cook pasta",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "ingredients of carbonara",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "how to make carbonara pasta",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how do you make carbonara",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how do you make spaghetti carbonara",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how do you cook pasta",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "how do you make pasta carbonara",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how to cook spaghetti pasta",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how to prepare carbonara",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how to make carbonara recipe",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "carbonara how to",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "carbonara how to cook",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "how can i cook pasta",
+        "volume": 33100,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

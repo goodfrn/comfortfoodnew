@@ -1,0 +1,267 @@
+{
+  "slug": "primavera-red-pepper-linguine",
+  "title": "Primavera Red Pepper Linguine",
+  "seed_keywords": [
+    "vegetable pasta dishes",
+    "red pepper linguine",
+    "sautéed vegetables linguine",
+    "bell pepper pasta",
+    "roasted red pepper pasta"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegetable pasta",
+        "volume": 27100,
+        "competition": 56
+      },
+      {
+        "keyword": "vegetable pasta recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "veg pasta recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "veggie pasta dishes",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "pasta and vegetables",
+        "volume": 27100,
+        "competition": 56
+      },
+      {
+        "keyword": "pasta and veg",
+        "volume": 27100,
+        "competition": 56
+      },
+      {
+        "keyword": "pasta vegetarian meals",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes for vegetarian pasta dishes",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "vegetable pasta ideas",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "baked pasta and vegetables",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked pasta vegetables",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked pasta with veggies",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked vegetables with pasta",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetable in spaghetti",
+        "volume": 8100,
+        "competition": 34
+      },
+      {
+        "keyword": "pasta and roasted vegetables",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta roasted vegetables",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with roasted veggies",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted vegetables for pasta",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted veggies and pasta",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "sauce for veggie pasta",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "sausage bell pepper pasta",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked vegetable ziti",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked ziti veggie",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta and veg recipes",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "pasta and vegetable recipe",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "pasta recipe with veggies",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "pasta red pepper",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "pepper and pasta",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "red capsicum pasta",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "red pepper and pasta",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "spaghetti dishes vegetarian",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "roasted red pepper pasta",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato feta pasta recipe",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta with zucchini and tomatoes",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable pasta near me",
+        "volume": 3600,
+        "competition": 23
+      },
+      {
+        "keyword": "red pepper pasta sauce",
+        "volume": 2900,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken and pasta with vegetables",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and veg pasta",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and vegetables pasta",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pasta vegetables",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken pasta veggies",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken with pasta and veggies",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for veg spaghetti",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "red capsicum pasta sauce",
+        "volume": 2900,
+        "competition": 15
+      },
+      {
+        "keyword": "vegetarian spaghetti ideas",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetarian spaghetti meals",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "carrots and pasta",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "carrots in pasta",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "creamy chicken and broccoli pasta",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy pasta and vegetables",
+        "volume": 2400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

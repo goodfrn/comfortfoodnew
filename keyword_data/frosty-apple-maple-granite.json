@@ -1,0 +1,267 @@
+{
+  "slug": "frosty-apple-maple-granite",
+  "title": "Frosty Apple-Maple Granité",
+  "seed_keywords": [
+    "apple granité",
+    "maple dessert",
+    "vegan frozen dessert",
+    "apple cider granité",
+    "frozen fruit crystals"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ben & jerry's ice cream vegan",
+        "volume": 8100,
+        "competition": 35
+      },
+      {
+        "keyword": "ben & jerry's non dairy ice cream",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "ben and jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "ben & jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "ben & jerry's dairy free ice cream",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "dairy free frozen yogurt",
+        "volume": 2900,
+        "competition": 25
+      },
+      {
+        "keyword": "frozen non dairy desserts",
+        "volume": 2400,
+        "competition": 57
+      },
+      {
+        "keyword": "vegan frozen yogurt",
+        "volume": 1900,
+        "competition": 18
+      },
+      {
+        "keyword": "maple pecan pie",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "so delicious non dairy ice cream",
+        "volume": 1300,
+        "competition": 46
+      },
+      {
+        "keyword": "vegan sorbet",
+        "volume": 1300,
+        "competition": 37
+      },
+      {
+        "keyword": "maple pie",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "maple syrup pecan pie",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "sorbet vegan",
+        "volume": 1300,
+        "competition": 37
+      },
+      {
+        "keyword": "so delicious vegan ice cream",
+        "volume": 1000,
+        "competition": 44
+      },
+      {
+        "keyword": "oatly non dairy ice cream",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "maple sugar pie",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "maple syrup pie",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "maple dessert",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "plant based frozen dessert",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "cheesecake maple",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "dessert maple syrup",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "desserts using maple syrup",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "vegan frozen dessert",
+        "volume": 720,
+        "competition": 15
+      },
+      {
+        "keyword": "ben & jerry's non dairy",
+        "volume": 720,
+        "competition": 24
+      },
+      {
+        "keyword": "dairy free coconut ice cream",
+        "volume": 590,
+        "competition": 80
+      },
+      {
+        "keyword": "non dairy frozen yogurt",
+        "volume": 590,
+        "competition": 72
+      },
+      {
+        "keyword": "vegan banana ice cream",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "blondie applebee's",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "blondie from applebee's",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "maple and pecan cake",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "maple pecan cake",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "quebec sugar pie",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "maple honey pecan pie",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "mochi vegan ice cream",
+        "volume": 480,
+        "competition": 63
+      },
+      {
+        "keyword": "bourbon maple pecan pie",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "creme brulee maple",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "maple brulee",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "maple creme brulee",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin pie maple",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "vegan ice cream mochi",
+        "volume": 480,
+        "competition": 63
+      },
+      {
+        "keyword": "non dairy haagen dazs",
+        "volume": 390,
+        "competition": 77
+      },
+      {
+        "keyword": "apple crisp made with maple syrup",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crisp maple syrup",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "apple crumble with maple syrup",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesecake with bacon",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "dessert recipes using maple syrup",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "dessert recipes with maple syrup",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "maple dessert ideas",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "maple dessert recipe",
+        "volume": 390,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

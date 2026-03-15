@@ -1,0 +1,267 @@
+{
+  "slug": "garlic-bread-pizza-twist",
+  "title": "Garlic Bread Pizza Twist",
+  "seed_keywords": [
+    "garlic bread pizza",
+    "homemade pizza bread",
+    "sausage pizza appetizer",
+    "cheesy garlic bread",
+    "pizza dip bread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesy garlic bread",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cheesy bread",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "garlic bread cheese",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "bread with cheese and garlic",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "bread with garlic and cheese",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cheese garlic toast",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cheesy garlic bread recipe",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic cheese bread recipe",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese and garlic bread recipe",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesy garlic toast recipe",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for pizza bread",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe french bread pizza",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "domino pizza garlic bread",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic bread dominos pizza",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic bread pull apart",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "garlic bread pizza",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "cheesy bread recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy breadsticks recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pizza hut garlic bread",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "domino's garlic knots",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "domino's pizza garlic knots",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "breadstick domino",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "cheese garlic pull apart bread",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "cheesy garlic bread pull apart",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "pull apart cheese garlic bread",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "cheesy pull apart bread",
+        "volume": 2900,
+        "competition": 18
+      },
+      {
+        "keyword": "pizza and garlic bread",
+        "volume": 2900,
+        "competition": 14
+      },
+      {
+        "keyword": "cheesy garlic bread rolls",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy garlic roll",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic bread and pizza",
+        "volume": 2900,
+        "competition": 14
+      },
+      {
+        "keyword": "garlic bread with pizza",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "domino's garlic bread price",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic bread dominos cost",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade french bread pizza",
+        "volume": 1600,
+        "competition": 13
+      },
+      {
+        "keyword": "cheese garlic bread domino's",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesy garlic bread domino's",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "domino's cheesy garlic bread",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "dominos garlic bread with cheese",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "dominos garlic cheese bread",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic bread little caesars",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic bread pizza recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic bread with cream cheese",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesy pull aparts",
+        "volume": 1300,
+        "competition": 39
+      },
+      {
+        "keyword": "homemade cheesy garlic bread",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesy garlic bread near me",
+        "volume": 1300,
+        "competition": 32
+      },
+      {
+        "keyword": "garlic bread pull apart recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade garlic and cheese bread",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "mozzarella cheese garlic bread",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "mozzarella garlic bread",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "pizza on texas toast",
+        "volume": 1300,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

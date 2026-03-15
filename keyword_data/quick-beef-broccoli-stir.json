@@ -1,0 +1,267 @@
+{
+  "slug": "quick-beef-broccoli-stir",
+  "title": "Quick Beef Broccoli Stir",
+  "seed_keywords": [
+    "beef broccoli stir fry",
+    "stir fry recipes",
+    "seared beef broccoli",
+    "beef stir fry sauce",
+    "flank steak asian"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "stir fry",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "stir and fry",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "stir fryd",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "pad see ew thai",
+        "volume": 201000,
+        "competition": 0
+      },
+      {
+        "keyword": "pad kra pao",
+        "volume": 165000,
+        "competition": 0
+      },
+      {
+        "keyword": "stir fry recipes",
+        "volume": 135000,
+        "competition": 12
+      },
+      {
+        "keyword": "beef and broccoli recipe",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken stir fry recipe",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry sauce",
+        "volume": 110000,
+        "competition": 37
+      },
+      {
+        "keyword": "recipe for chicken stirfry",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken stir fry",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stir fry recipe",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef stir fry meat recipes",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "cooking stir fry beef",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "pad krapow",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fry meat recipes",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef stir fry",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "stir fry sauce recipe",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "sauteed vegetables",
+        "volume": 49500,
+        "competition": 0
+      },
+      {
+        "keyword": "beef stir fry meat",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "wok fried beef",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "stir fry noodles",
+        "volume": 40500,
+        "competition": 65
+      },
+      {
+        "keyword": "stir fry and noodles",
+        "volume": 40500,
+        "competition": 65
+      },
+      {
+        "keyword": "stir fry vegetables",
+        "volume": 33100,
+        "competition": 41
+      },
+      {
+        "keyword": "cabbage fry recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "beef broccoli recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "egg tomato stir fry",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "fried tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu stirfry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "beef and broccoli stir fry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetable stir fry recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "shrimp stir fry recipe",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "pork stir fry",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "beef and broccoli stirfry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli and steak stir fry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli steak stir fry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry with beef and broccoli",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "shrimp stir fry",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork stir fry recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken stir",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "pork stirfry recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "best stir fried rice recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chinese egg and tomato",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese egg tomato",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "egg and tomato chinese dish",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "flank steak for stir fry",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "kra pao",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken stir fry sauce",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "easy stir fry recipe",
+        "volume": 12100,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

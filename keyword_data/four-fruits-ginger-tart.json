@@ -1,0 +1,267 @@
+{
+  "slug": "four-fruits-ginger-tart",
+  "title": "Four Fruits Ginger Tart",
+  "seed_keywords": [
+    "berry tart",
+    "ginger fruit dessert",
+    "apple berry tart",
+    "mixed berry pastry",
+    "ginger crust tart"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "wild berry pop tarts",
+        "volume": 12100,
+        "competition": 68
+      },
+      {
+        "keyword": "blue berry tart",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "berry tart",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "blackberry tartlets",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "tart berry",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "blueberry and lemon tart",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry lemon tart",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon tart mary berry",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "berry pop tart",
+        "volume": 1000,
+        "competition": 62
+      },
+      {
+        "keyword": "egg custard tart mary berry",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "pop tart berry",
+        "volume": 1000,
+        "competition": 62
+      },
+      {
+        "keyword": "raspberry lemon tartlets",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "apple frangipane tart mary berry",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "blue berry cheese tart",
+        "volume": 880,
+        "competition": 39
+      },
+      {
+        "keyword": "frangipane tart mary berry",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "mary berry frangipane apple tart",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "berry custard tart",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry and custard tart",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry custard tart",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "custard blueberry tart",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "custard tart mary berry",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "gooseberry tart",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "mary berry portuguese custard tarts",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "mixed berry fruit tart",
+        "volume": 720,
+        "competition": 11
+      },
+      {
+        "keyword": "mixed berry tarts",
+        "volume": 720,
+        "competition": 11
+      },
+      {
+        "keyword": "blueberry puff pastry tart",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "berry puff pastry tart",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry frangipane tart",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate tart mary berry",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "pear and ginger crumble",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "pear ginger crumble",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "individual raspberry tarts",
+        "volume": 480,
+        "competition": 14
+      },
+      {
+        "keyword": "mary berry pear and almond tart",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mixed fruit tart",
+        "volume": 480,
+        "competition": 23
+      },
+      {
+        "keyword": "pear ginger tart",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "saskatoon berry tart",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "saskatoon tarts",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mixed berry pop tarts",
+        "volume": 390,
+        "competition": 61
+      },
+      {
+        "keyword": "almond and blueberry tart",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "almond berry tart",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "almond blueberry tart",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tart recipe mary berry",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "berry and almond tart",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry mini tarts",
+        "volume": 390,
+        "competition": 16
+      },
+      {
+        "keyword": "gingerbread pear upside down cake",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "individual berry tarts",
+        "volume": 390,
+        "competition": 16
+      },
+      {
+        "keyword": "individual blueberry tarts",
+        "volume": 390,
+        "competition": 16
+      },
+      {
+        "keyword": "pear and ginger upside down cake",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry and custard tart",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry custard tarts",
+        "volume": 390,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

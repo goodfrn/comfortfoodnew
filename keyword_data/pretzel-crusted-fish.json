@@ -1,0 +1,267 @@
+{
+  "slug": "pretzel-crusted-fish",
+  "title": "Pretzel-Crusted Fish",
+  "seed_keywords": [
+    "crispy fish fillets",
+    "baked white fish",
+    "pretzel crusted seafood",
+    "honey dijon fish",
+    "pan fried fish coating"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "crispy battered fish",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "fish fry fillet",
+        "volume": 3600,
+        "competition": 38
+      },
+      {
+        "keyword": "fried fillet fish",
+        "volume": 3600,
+        "competition": 38
+      },
+      {
+        "keyword": "salmon recipes dijon mustard",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "dijon honey salmon",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "honey dijon mustard salmon",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked white fish",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "bake white fish recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for baked whitefish",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "baked swai",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "baked swai recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes for baked swai fish",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "baked crispy salmon",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "crispy battered",
+        "volume": 880,
+        "competition": 20
+      },
+      {
+        "keyword": "crispy fish fillet recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "baked basa recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "basa recipes oven",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cooked white fish",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "fried fillet fish recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "crispy fish fillets",
+        "volume": 590,
+        "competition": 56
+      },
+      {
+        "keyword": "baked basa",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "fish fillet crispy",
+        "volume": 590,
+        "competition": 56
+      },
+      {
+        "keyword": "recipe for white fish in the oven",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "white fish in oven recipe",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "white fish oven recipe",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "cook white fish in oven",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "crumbed hake fillets",
+        "volume": 480,
+        "competition": 26
+      },
+      {
+        "keyword": "oven bake white fish",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "oven white fish",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon recipe with dijon mustard and honey",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "baked basa fillet recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "baked whitefish recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "deep fried fillet fish",
+        "volume": 320,
+        "competition": 19
+      },
+      {
+        "keyword": "honey mustard salmon air fryer",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "dijon mustard glaze for salmon",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "great value crispy battered fish fillets",
+        "volume": 260,
+        "competition": 16
+      },
+      {
+        "keyword": "white fish tray bake jamie oliver",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "baked white fish fillet",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy battered fish fillets",
+        "volume": 210,
+        "competition": 75
+      },
+      {
+        "keyword": "crispy haddock",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "baked basa fillets",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy fried fish fillet",
+        "volume": 170,
+        "competition": 20
+      },
+      {
+        "keyword": "crispy hake",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "bake swai fillets",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "baked fish in white sauce",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "baked white fish in oven",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "baking swai fish fillets",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "broiled white fish",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "crispy fried snapper fillet",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "good white fish to bake",
+        "volume": 140,
+        "competition": 24
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}
