@@ -1,10 +1,10 @@
 ---
-title: "Frozen Chocolate Chip Cookies"
+title: "Making Chocolate Chip Cookies Recipe"
 slug: "frozen-chocolate-chip-cookies"
-description: "Fudgy, chilled dough sliced into thick discs. Classic choc chips replaced with chunks. Rolled tight, frozen hard. Bake straight from cold, edges firm and golden, centers soft but set. Bicarb swapped with baking powder for a gentler rise. Butter salted for balance but softened less than usual. Sugar reduced slightly to tame sweetness. Recipe yields about two dozen cookies. Times tweaked, details shifted. Step order altered to tighten workflow. Focus on texture cues over the clock. Practical tips on paper choice and dough handling included. Ideal for make-ahead cookie hunger fixes. Sensory notes on color and feel guide final bake. Expect crackly tops and chocolate pockets melting in every bite."
-metaDescription: "Frozen Chocolate Chip Cookies crafted with chilled dough, gentle rise from baking powder, firm butter, and dense texture. Crackly tops, soft centers, melty chunks."
-ogDescription: "Fudgy, chilled dough, thick slices bake to crackly tops and soft middles. Baking powder swap, slight sugar cut, firm butter key. Cold slice, warm bite."
-focusKeyphrase: "Frozen Chocolate Chip Cookies"
+description: "Make chocolate chip cookies with semi-sweet chunks, salted butter, and baking powder. Chilled dough bakes into soft centers with golden edges and crackly tops."
+metaDescription: "Making chocolate chip cookies with semi-sweet chocolate chunks and salted butter. Bake straight from frozen dough for chewy centers. Try it tonight."
+ogDescription: "Chocolate chip cookies made with chocolate chunks and salted butter. Soft centers, crispy edges, crackly tops."
+focusKeyphrase: "making chocolate chip cookies"
 date: 2025-09-28
 draft: false
 image: frozen-chocolate-chip-cookies.jpg
@@ -21,9 +21,18 @@ tags:
 - "comfort food"
 - "homemade"
 keywords:
+- "making chocolate chip cookies"
 - "chocolate chip cookies"
+- "chewy chocolate chip cookies"
+- "best chocolate chip cookies"
+- "homemade chocolate chip cookies"
+- "easy chocolate chip cookies"
+- "chocolate cookies"
+- "chocolate chunk cookies"
+- "cookie recipe"
+- "baking powder cookies"
 - "frozen cookie dough"
-- "baking powder baking"
+- "semi-sweet chocolate"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "140"
@@ -66,3 +75,92 @@ faq:
 - "q: Best way to store leftovers? a: Wrap singles airtight fan-style in fridge 3-5 days. Freeze slice-wrapped tightly up to two weeks. Thaw slightly before baking. Crisper hold down below zero temp."
 
 ---
+
+Butter and sugar go in first—beat them until they stop looking separated but don't let the whole thing get warm. That's the thing nobody tells you. Not melted. Not creamy like store-bought frosting. Just... together. Cool enough that when you touch the bowl it doesn't hurt.
+
+## Why You'll Love These Chocolate Chip Cookies
+
+Homemade cookies that don't taste like a mix. Takes 25 minutes to prep, 13 in the oven—38 total, start to finish, and most of that is waiting anyway.
+The dough stays in the fridge so you bake fresh slices whenever you want them. One roll's enough for today, freeze the other half and you've got cookies next Tuesday that taste like you made them that morning.
+Soft centers. Actually soft. Not cakey. Not some weird dense thing.
+Edges get crispy because the slices are thick enough that heat takes its time getting to the middle, and by then the edges have already done their thing.
+You can taste the butter. Actual butter. Sounds small but it matters.
+
+## What You Need for Chocolate Chip Cookies
+
+Unbleached all-purpose flour—320 ml. Just flour. Nothing pre-mixed.
+Baking powder. A pinch. Not much—1.5 ml. This isn't a cake.
+Semi-sweet chocolate chunks. 170 ml. Not chips. Chunks hold their shape better and they don't melt into nothing.
+Salted butter. 125 ml. Cold. Not frozen. You want to be able to press your thumb into it but it should hold the impression.
+Granulated sugar. 200 ml.
+Vanilla extract. A splash. 2.5 ml.
+One large egg. Room temperature if you think about it. Cold works too.
+
+## How to Make Chocolate Chip Cookies
+
+Sift the flour with the baking powder into a bowl. Grab the chocolate chunks and toss them into the dry mix—they get coated this way, stops them from sinking to the bottom. Set it all aside.
+
+Large bowl. Butter and sugar go in. Beat them together for about 90 seconds to 2 minutes. You're watching for the point where they stop looking like butter chunks in sugar and start looking like one thing, but the mixture should still be cool when you touch it. If it's warm, you started with butter that was too soft, or you've been beating too long. Both bad. Texture falls apart later.
+
+Crack the egg in. Add the vanilla. Whip it until the whole thing turns pale and homogenous—pale yellow, almost beige. Maybe another minute. Don't go crazy. You're not making mousse. Too much air and the cookies flatten out in the oven like pancakes.
+
+Now the dry stuff goes into the wet stuff. Use a spatula or a wooden spoon. Fold it in slowly. This is the part where you don't use a mixer and you don't rush. Stop folding the second the flour streaks disappear. The dough should be dense and slightly tacky—it should hold a shape if you scoop it but it shouldn't be stiff.
+
+Split the dough in half. Lay out two long pieces of parchment, maybe 40 centimeters each. Shape each half into a cylinder—about 4 centimeters across. Use the parchment edges to help roll it. The tension from the paper matters. It keeps the shape even.
+
+Twist the parchment ends tight like a candy wrapper. Actually press the dough down so it compacts. Into the fridge for at least an hour. If you have time, freeze it for 90 minutes. You want it very firm—not rock solid, but firm enough that when you slice it, the pieces stay clean instead of squishing.
+
+## How to Get Chocolate Chip Cookies Crispy at the Edges
+
+Oven goes to 175°C. Middle rack. Let it preheat while you get your pan ready—parchment or silicone liner. Don't grease it. Greased pans make cookies spread too much and they don't crisp right.
+
+Trim the ends off one roll if they're uneven. Slice it into 2-centimeter thick rounds while it's still cold. Thick slices. This is non-negotiable. The thick middle takes longer to bake so the edges get time to brown and crisp while the center stays soft.
+
+Space them out on the pan. About 10 to 12 per batch, with actual gaps between them. They spread a little.
+
+Bake for 11 to 14 minutes. You're listening for a faint crack sound. Edges should be gently browning. Centers should feel set but still slightly soft when you touch them. Residual heat does the final bit of cooking once they come out.
+
+Pull them out and let them sit on the pan for 5 minutes. Don't move them yet. They're still setting. Then transfer them to a rack. If you pull them too early they fall apart. Once they're cool they firm up completely.
+
+Do the second roll the same way. It takes the same time because it went through the same chill.
+
+## Chocolate Chip Cookies Tips and Common Mistakes
+
+Butter temperature kills half the cookies people make. Not soft. Firm. Spreadable. If you leave it on the counter for an hour it's too soft.
+
+Don't beat the egg and butter mixture until it looks fluffy. That's not what you want. Pale and smooth. That's it.
+
+Chocolate chunks, not chips. Chips are smaller and they melt into nothing. Chunks stay visible. They stay textured.
+
+The dough roll stays in the fridge or freezer. Keeps for two weeks frozen. Slice and bake whenever you want fresh cookies. You don't make the whole batch at once.
+
+If they're too pale, the oven wasn't hot enough or you pulled them early. Add a minute next time.
+
+If they're too dark, lower the temp 10 degrees next time. Every oven is different.
+
+Store leftovers wrapped tight in the fridge. They keep for about five days before they go stale. Or freeze the baked cookies. They defrost in maybe 20 minutes at room temperature.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Chip Cookies
+
+**Can I use regular chocolate chips instead of chunks?**
+They melt faster and kind of disappear into the cookie. Chunks are better. But yeah, chips work. Just expect less texture.
+
+**How thick should I slice the dough?**
+Two centimeters. That's the whole point. Thick slices bake slowly enough in the middle that the edges get crispy before the centers cook all the way. Thinner and they're cakey.
+
+**Why do my cookies spread too much?**
+The butter was too warm when you started, or the pan was greased. Both cause spreading. Cold dough and ungreased pans.
+
+**Can I bake both rolls at the same time?**
+Two different racks usually means they bake unevenly. One rack at a time is safer. Takes the same total time anyway because you can't rush it.
+
+**What if I don't have time to chill the dough for an hour?**
+You do now. The dough won't shape right if it's warm and it won't bake right either. Frozen works too. Takes 90 minutes. Worth the wait.
+
+**Do I have to use salted butter?**
+Unsalted works. Add a small pinch of salt to the dry mix if you do. Salted butter just has the salt already in it.
+
+**How do I know when they're actually done baking?**
+Centers still feel soft when you touch them gently. That's done. Overcooking makes them hard all the way through.
