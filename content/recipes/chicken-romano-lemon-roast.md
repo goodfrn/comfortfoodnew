@@ -1,10 +1,10 @@
 ---
-title: "Chicken Romano Lemon Roast"
+title: "Lemon Fennel Roasted Chicken Breasts"
 slug: "chicken-romano-lemon-roast"
-description: "Chicken breasts coated in a tangy lemon-fennel mixture roasted alongside sliced potatoes and zucchini. The dish uses manchego cheese instead of pecorino, swapping courge poivrée for zucchini. Mayonnaise for a zesty creaminess. A quick broil to crisp skin, aniseed fragrance mixing with citrus. Achieves a balance between tender chicken and crispy potatoes. Oven times adjusted slightly for perfect doneness. Aromas guide you more than clocks. A simple twist on classic lemon chicken."
-metaDescription: "Chicken Romano Lemon Roast with manchego, fennel, and zesty mayo coating. Roast potatoes and zucchini alongside for textured layers of citrus and spice."
-ogDescription: "Roasted chicken breasts in lemon-fennel mayo, manchego cheese undertones. Potatoes crisp, zucchini sweet. Broil finishes, smells tell doneness."
-focusKeyphrase: "Chicken Romano Lemon Roast"
+description: "Roasted chicken breasts with lemon zest, fennel seeds, and manchego cheese alongside potatoes and zucchini. Tender, crispy, and ready in one pan."
+metaDescription: "Lemon fennel roasted chicken breasts with potatoes, zucchini, and manchego cheese. Quick weeknight dinner with bright citrus flavor. Make it tonight."
+ogDescription: "Tender lemon fennel chicken with roasted potatoes and zucchini, finished with manchego cheese and fresh dill."
+focusKeyphrase: "lemon fennel roasted chicken breasts"
 date: 2025-08-07
 draft: false
 image: chicken-romano-lemon-roast.jpg
@@ -21,11 +21,18 @@ tags:
 - "potato"
 - "zucchini"
 keywords:
-- "roasted chicken"
-- "lemon chicken"
-- "fennel spice"
-- "manchego cheese"
-- "oven roasted vegetables"
+- "lemon fennel roasted chicken breasts"
+- "roasted chicken breasts with potatoes"
+- "lemon chicken dinner"
+- "roasted chicken with zucchini and potatoes"
+- "manchego cheese lemon chicken"
+- "one pan lemon chicken with vegetables"
+- "garlic lemon chicken recipe"
+- "fennel chicken breasts"
+- "roasted chicken with lemon"
+- "weeknight chicken dinner"
+- "easy roasted chicken recipe"
+- "lemon herb chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -68,3 +75,81 @@ faq:
 - "q: How to store leftovers? a: Refrigerator in airtight container best. Reheat uncovered in oven for texture. Avoid microwave or soggy skin. Can freeze but expect texture loss on veg, chicken stays better frozen whole."
 
 ---
+
+Cut the chicken first — coat it in this lemon-fennel paste that's actually just mayonnaise, manchego, and about a million times more flavor than it sounds like. Potatoes and zucchini go underneath. Everything roasts together, finishes under the broil. Sixty-five minutes, and you have a one pan lemon chicken with vegetables that tastes like you planned it for days.
+
+## Why You'll Love This Lemon Chicken Dinner
+
+Tastes like restaurant food. Your oven did the work.
+Roasted chicken with potatoes and zucchini means one sheet pan, no sides to worry about, just pull it out and eat.
+Fennel seeds. That's the secret. Not basil, not oregano — something slightly anise, slightly warm, and nobody can figure out what it is.
+Works cold the next day. Better, actually.
+Twenty-five minutes of actual prep. The rest is just time.
+
+## What You Need for Lemon Fennel Chicken Breasts
+
+One clove of garlic, minced fine. Smaller pieces mean it actually dissolves into the paste instead of staying gritty.
+Lemon zest — finely grated, not shaved. You want those tiny bits distributed through the whole thing.
+Forty milliliters of lemon juice. That's basically one whole lemon. Not bottled. Fresh burns differently.
+Manchego cheese, grated. Parmesan works. Won't be the same, but it works.
+Twenty milliliters of mayonnaise. Sounds weird. Holds everything together, keeps the chicken from drying out.
+Ground fennel seeds. Seven and a half milliliters. This is the core of the whole thing. Don't skip it, don't double it.
+Black pepper. Cracked, not powdered. Two and a half milliliters.
+Four small boneless skinless chicken breasts — about six hundred fifty grams total. They need to be roughly the same size or the smaller ones cook through before the bigger ones stop being dry.
+Two large potatoes sliced about one centimeter thick. Waxy potatoes are better here. Russets fall apart.
+One small zucchini, halved lengthwise, then quartered. Smaller zucchini means less water, more actual flavor.
+Olive oil. Twenty-five milliliters. Nothing fancy.
+Fresh dill for after. Matters.
+
+## How to Make Roasted Chicken with Lemon and Fennel Seeds
+
+Get the oven to 225 Celsius. Middle rack. You're setting this up so the vegetables start first, then the chicken joins after they've already begun turning golden.
+
+Mix garlic, lemon zest, half the lemon juice — so about twenty milliliters — the manchego, mayonnaise, fennel, black pepper, and salt into one large bowl. It'll look like a paste. It should. Toss the chicken breasts in until they're fully coated — and I mean coated, not just touched. Every surface should have something on it. Let them sit while you deal with the vegetables.
+
+Toss your potato slices and zucchini pieces with the rest of the lemon juice, olive oil, salt, and pepper on the baking sheet. Spread them out in a single layer — some overlap is fine, but don't pile them. This part matters. Roast for twenty minutes.
+
+## How to Get Roasted Chicken with Zucchini Crispy and Golden
+
+Twenty minutes in, pull the sheet out. The potatoes should be starting to brown at the edges. The zucchini should smell like something happened to it — that's when you know it's on track. Push all the vegetables toward the outer edges of the pan, away from the center. This creates space. Nestle the marinated chicken breasts in the middle, smooth side up. They need air around them or they steam instead of roast.
+
+Back in for seventeen minutes. This is where it stops being about timing and starts being about what you see. The chicken will feel firm when you press it. The juices run clear when you cut into the thickest part. That's done.
+
+Switch to broil. Four minutes. No longer. The top of the chicken goes golden and starts to char slightly at the edges. The potato edges get darker and crisper. The zucchini tips char black. Watch it. Don't leave.
+
+## Lemon Chicken Tips and Common Mistakes
+
+The mayonnaise isn't about taste — it's about moisture. Keeps the chicken from being dry. Don't skip it even if it sounds wrong.
+Fennel tastes wrong if you've never had it. Try a tiny bit of the paste before you coat the chicken. That's your flavor.
+Potatoes need to be the right thickness. Too thin and they're papery. Too thick and they're still hard when the chicken's done. One centimeter. Measure once if you want to be sure.
+The broil step finishes the chicken and crisps everything. If you skip it, it tastes fine but looks pale. Takes four minutes. Do it.
+If your potatoes are still hard after forty minutes, your oven runs cool. Next time, cut them thinner or start them five minutes earlier.
+Manchego melts different than parmesan. It doesn't brown the same. If that matters to you, use parmesan. If it doesn't, use whatever cheese you have.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Chicken Dinner
+
+**Can I use chicken thighs instead of breasts?**
+Sure. They'll take longer. Thighs need maybe five extra minutes. Taste will be better — thighs don't dry out like breasts do. But then you're not following the recipe anymore, so timing goes out the window.
+
+**What if I don't have fennel seeds?**
+Don't use dried herbs instead. Wrong flavor entirely. You could order fennel seeds. They're cheap and they last forever. Or make something else.
+
+**Can I prep this the night before?**
+Yes. Coat the chicken, leave it in a bowl covered. Chop the vegetables. When you're ready to cook, assemble and roast. The paste actually gets stronger overnight if anything.
+
+**How do I know the chicken is actually done?**
+Press the thickest part — it should feel firm, not soft. Cut into the center. Juices should run clear, not pink. At forty minutes total roasting time, it should be there. Your oven might be different.
+
+**Does this work with bone-in chicken?**
+Yes, but add time. Maybe five or six extra minutes. The bones insulate the meat, so it takes longer to cook through. The skin gets crispier under the broil though.
+
+**What temperature do you actually want inside the chicken?**
+Seventy-five Celsius if you have a thermometer. Most people don't bother. The visual check works fine.
+
+**Can I make this roasted chicken with potatoes ahead of time?**
+Cold it's good. Reheat it in a four hundred degree oven for ten minutes and it's not terrible. Won't be as crispy. Room temperature is probably better than reheated.
+
+**Is the lemon juice supposed to be that much?**
+Forty milliliters total seems like a lot. It's not. The chicken absorbs it, the potatoes soak it up, and the lemon flavor is bright but not overwhelming. Don't reduce it.
