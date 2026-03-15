@@ -1,10 +1,10 @@
 ---
-title: "Grilled Spatchcock Chicken with Pesto Mayo"
+title: "Spatchcock Grilled Chicken with Pesto Mayo"
 slug: "grilled-spatchcock-chicken"
-description: "Spatchcock chicken flattened and grilled indirect for crispy skin and juicy meat. Marinade twisted with roasted cumin instead of fennel seeds; adds earthy warmth. Subtle heat from jalapeño Tabasco balanced by fresh lemon. Pesto mayonnaise brightened with extra lemon juice and a dash of smoked paprika. Cooked on half the grill for controlled heat. Visual cues, aroma, and skin texture signal doneness. Stepwise method emphasizes kitchen hacks and timing flexibility. Dairy and gluten free. Serves 4 to 6 readily. Great with grilled seasonal veggies or simple salad."
-metaDescription: "Grilled spatchcock chicken with cumin marinade and smoky pesto mayo. Crispy skin, juicy meat, smoky aroma, and layered flavors from fresh lemon and jalapeño heat."
-ogDescription: "Spatchcock grilled chicken with cumin marinade and pesto mayo. Crispy skin, smoky scent, fresh citrus brightness, and spicy kick. Grill indirect, rest well. Serve with veggies."
-focusKeyphrase: "Grilled spatchcock chicken"
+description: "Spatchcock grilled chicken with pesto marinade, roasted cumin, and jalapeño Tabasco. Served with lemon pesto mayonnaise for crispy skin and juicy meat."
+metaDescription: "Spatchcock grilled chicken recipe with pesto marinade, cumin, jalapeño Tabasco, and lemon pesto mayo. Perfect for summer entertaining. Make it tonight."
+ogDescription: "Spatchcock chicken marinated in pesto and cumin, grilled for crispy skin. Topped with zesty lemon pesto mayonnaise."
+focusKeyphrase: "spatchcock grilled chicken"
 date: 2025-09-25
 draft: false
 image: grilled-spatchcock-chicken.jpg
@@ -21,9 +21,15 @@ tags:
 - "spicy"
 - "summer"
 keywords:
-- "spatchcock chicken"
-- "grilled chicken recipe"
-- "cumin marinade"
+- "spatchcock grilled chicken"
+- "grilled chicken with pesto"
+- "spatchcock chicken with pesto mayo"
+- "grilled chicken with cumin and jalapeño"
+- "spicy grilled chicken"
+- "grilled chicken with pesto mayonnaise sauce"
+- "summer grilling"
+- "grilled chicken for entertaining"
+- "spatchcock chicken indirect heat crispy skin"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "410"
@@ -80,3 +86,77 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly, fridge up to 3 days. Reheat slowly, low oven or medium microwave to avoid drying. Pesto mayo keep separate, stir before use. Can freeze cooked portions but mayo best fresh or chilled later, no freezing."
 
 ---
+
+Lay the chicken breast side down. Kitchen shears work best—cut along both sides of the backbone, pull it out, then crack the breastbone flat against the work surface. Takes thirty seconds and changes everything about how this cooks.
+
+## Why You'll Love This Spicy Grilled Chicken
+
+Crispy skin that actually stays crispy. The indirect heat setup keeps it from charring while the meat underneath finishes cooking through.
+Takes an hour and a half total but you're mostly just letting the grill do the work—maybe thirty-five minutes of actual hands-on time prepping and seasoning.
+Works perfectly for summer entertaining. Cook one bird, feed six people, no stress about timing individual pieces.
+The pesto mayo cuts through the spice and smoke in a way that makes you want more every single time.
+Leftovers shred into salads or sandwiches the next day. Cold chicken with this sauce tastes almost better than hot.
+
+## What You Need for Spatchcock Chicken with Pesto Mayo
+
+One whole chicken—around 3.75 pounds. Bigger birds get more flavorful, cook more evenly when flattened.
+
+Marinade side: pesto goes in first—two tablespoons. Then crushed roasted cumin seeds, one teaspoon. Not fennel. Fennel tastes like licorice and takes over. Cumin is warmth and depth. Jalapeño Tabasco—one teaspoon. Red chili flakes, three-quarters teaspoon. Coarse sea salt, same amount. Half a lemon squeezed.
+
+Mayo sauce: quarter cup mayonnaise. One tablespoon pesto again. Lemon juice, about one and a half teaspoons fresh squeezed. More jalapeño Tabasco—three-quarters teaspoon. Smoked paprika for color and that subtle char flavor. Salt and pepper after.
+
+Oil for the grates. Neutral oil. Not olive—burns too hot.
+
+## How to Make Grilled Chicken with Cumin and Jalapeño
+
+Start with the chicken. Breast side down on the cutting board. Use shears or a sharp knife—doesn't matter which, just cut along each side of the backbone. Pull the backbone out. Now press down hard on the breastbone. You'll hear it crack. That's the moment it goes from a whole bird to something that cooks evenly.
+
+Lift the skin carefully on both breasts and thighs. Don't tear it. This is where the flavor actually lives—marinade needs to touch meat, not just sit on the outside looking pretty.
+
+Mix your marinade in a big glass dish. Pesto, cumin, Tabasco, chili flakes, salt, lemon. Stir it together. Lay the flattened chicken in there. Now massage it. Get your fingers under that lifted skin and work the marinade directly onto the meat. One hour minimum in the fridge. Overnight is better. The longer it sits, the deeper the spice goes.
+
+Heat your grill about twenty minutes before you cook. One side high—around 450 degrees. The other side off completely. That's indirect heat grilling. Oil your cool grate with a paper towel soaked in neutral oil held in tongs. Prevents sticking. Stops flare-ups.
+
+## How to Get Spatchcock Chicken Crispy Skin
+
+Chicken goes skin side down on the unlit side first. Close the lid. Don't touch it. Don't peek. Just listen. You'll hear gentle sizzling. Smell the herbs and spice mixing with whatever wood or charcoal you're burning. Around forty-eight minutes the skin starts cracking and crisping.
+
+Flip it carefully. Skin side up now. Another thirty-three minutes. The meat is done when the juices run clear near the thighs, the skin is golden and mostly crisp with maybe some char spots, and a thermometer stuck in the thickest part of the thigh hits 180 degrees. That temperature means everything—all the connective tissue breaks down, meat stays moist, no pink hiding anywhere.
+
+While it cooks, make the mayo. Whisk mayo with pesto, lemon juice, Tabasco, paprika. Season it hard with salt and pepper. Taste it. Fix it. Keep it cold.
+
+Rest the chicken eight to ten minutes after it comes off heat. This matters. Juices redistribute. You don't lose half the moisture the second you cut into it.
+
+## Spatchcock Chicken with Pesto Mayonnaise Tips and Common Mistakes
+
+Don't tear the skin when you lift it. Tearing creates gaps. Marinade floods through, dries out those patches, leaves some parts way spicier than others. Use your fingers gently. It comes away clean if you're patient.
+
+Never flip constantly. Flipping kills crispy skin. You're looking for color and smell changes, not a timer. If the grill's too cool it'll stick—watch the skin texture instead of clock-watching. If it sticks, heat's not right yet.
+
+No pesto in the house? Mix chopped fresh basil with garlic, olive oil, and walnuts or pine nuts. It's not identical but it works. Same goes for the Tabasco—regular hot sauce plus a pinch of cayenne gets close, just watch the heat level because it changes the flavor profile slightly.
+
+Can't grill? Oven works. 375 degrees, about seventy-five minutes on a tray. Set it up so indirect heat concept still applies—one side of the pan is under direct heat, other side isn't. Skin won't get as crispy but the meat cooks through the same way.
+
+The cumin came from a mistake once. Thought I was grabbing fennel, grabbed cumin instead, turned out better. Haven't looked back. Don't skip the fresh lemon juice either. Bottled tastes flat and thin. Fresh is bright and alive.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Chicken for Entertaining
+
+**Can I prep the chicken the day before?**
+Yes. Cut it in half, flatten it, get it in the marinade the night before. Pull it out, let it sit room temperature for maybe fifteen minutes before it hits the grill. Actually comes out better—more time for flavor to soak in.
+
+**What if my grill doesn't have two heat zones?**
+Works with one side on high, other side medium-low instead of completely off. Takes a bit longer, maybe ten minutes extra, watch it closer so nothing burns.
+
+**Does the pesto mayo keep?**
+Three days in the fridge easy. Four if the mayonnaise is fresh. It's just mayo with herbs. Not going anywhere fast.
+
+**Can I marinate longer than overnight?**
+Twenty-four hours max. After that the salt starts breaking down the meat texture. Makes it mushy. Not good.
+
+**How do I know when it's actually done without a thermometer?**
+Juices run clear at the thighs when you poke them. Meat pulls away clean from the bone. Thighs are the last thing to cook, so if they're done, everything's done. Test there.
+
+**Is smoked paprika necessary or can I skip it?**
+Skip it if you have to. The mayo still works. Paprika just adds a hint of that grill smoke flavor when you can't taste the grill itself—especially if you're serving someone who's far from the heat. Not essential. Nice to have.
