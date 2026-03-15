@@ -1,10 +1,10 @@
 ---
-title: "Coconut Rhum Panna Cotta Twist"
+title: "Coconut Panna Cotta with Dark Spiced Rum"
 slug: "coconut-rhum-panna-cotta"
-description: "Coconut-based panna cotta with a splash of dark spiced rum. Gelatin softened in lime-infused water for subtle zing. Coconut milk and raw cane sugar warmed till sugar melts, then gelatin folded in. Dairy component swapped to oat milk for a lighter texture. Eight half-cup ramekins rinsed cold, drained, filled carefully. Chilling timed by tactile iciness, not clock-talk. Unmolding onto grilled pineapple slices brushed with coconut cream. An aromatic, silky dessert with tropical notes, mild rum kick, and a hint of lime brightness. No eggs, gluten free, nut free, yet offers creamy indulgence with an unexpected depth from spice and fruit char."
-metaDescription: "Coconut Rhum Panna Cotta Twist uses oat milk and lime-water gelatin bloom. Grilled pineapple with coconut cream adds smoky sweetness to silky dessert layers."
-ogDescription: "Silky coconut panna cotta with spiced rum, chilled oat milk, and lime-gelatin bloom; grilled pineapple brushed with coconut cream adds texture and aroma."
-focusKeyphrase: "Coconut Rhum Panna Cotta Twist"
+description: "Silky coconut panna cotta made with coconut milk, gelatin, and oat milk, spiked with dark spiced rum. Lime-infused water adds brightness. Served with grilled pineapple."
+metaDescription: "Coconut panna cotta recipe with dark spiced rum, coconut milk, and lime. No-bake dessert served with grilled pineapple. Make it tonight."
+ogDescription: "Creamy coconut panna cotta with dark spiced rum, coconut milk, and lime zest. Topped with grilled pineapple slices."
+focusKeyphrase: "coconut panna cotta"
 date: 2025-09-26
 draft: false
 image: coconut-rhum-panna-cotta.jpg
@@ -21,9 +21,16 @@ tags:
 - "no bake"
 - "dessert"
 keywords:
-- "panna cotta"
-- "coconut dessert"
-- "spiced rum dessert"
+- "coconut panna cotta"
+- "no bake desserts"
+- "rum desserts"
+- "coconut panna cotta with rum"
+- "no bake coconut dessert"
+- "panna cotta with dark spiced rum"
+- "coconut milk panna cotta with lime and gelatin"
+- "coconut cream dessert with pineapple"
+- "chilled coconut panna cotta recipe"
+- "vegan panna cotta with coconut milk and rum"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -64,3 +71,72 @@ faq:
 - "q: How to store leftovers? a: Covered in fridge for up to 3 days best. Avoid airtight seal that traps condensation. Unmold first or store in ramekins. Can freeze but texture changes, gelatin toughens or weeps when thawed. Serve chilled, avoid room temp sitting; texture softens fast."
 
 ---
+
+Set the water with lime zest cold. Sprinkle gelatin over it. Walk away for six minutes—that's when the real work happens, the gelatin blooming into soft, plump grains that dissolve the second heat touches them. Everything after that is just not messing it up.
+
+## Why You'll Love This Coconut Panna Cotta
+
+No oven. No stovetop panic. Twenty-two minutes of actual hands-on time, then into the fridge while you do literally anything else.
+Tastes like you spent three hours on it. The rum goes subtle—just enough to know it's there, coconut milk doing the heavy lifting, that chilled mouthfeel that feels expensive.
+Grilled pineapple on top. Caramelized. Sticky. Costs nothing to make but reads like a restaurant move.
+Works for meal prep. Make it Tuesday, eat it all week. Gets better by day two—flavors settle, the texture firms slightly without getting rubbery.
+
+## What You Need for Coconut Panna Cotta
+
+Powdered gelatin. Fourteen ml. Not agar, not leaf sheets. The powder blooms faster and dissolves cleaner. Lime zest water—half a lime, zested into sixty-five ml of cold water. The acid matters. It cuts through coconut fat and makes the whole thing less one-note.
+
+Coconut milk. Full fat. The 398 ml can. Not lite. Not cream. The can version has the right ratio of solids to liquid. Raw cane sugar—one twenty-five ml. Dissolves slower than white sugar but tastes less sharp. Oat milk, chilled. A hundred eighty ml. Cold matters here. It keeps the whole mixture from breaking when you add it hot gelatin.
+
+Dark spiced rum. Thirty ml. Two tablespoons. The spice in the rum echoes the coconut, doesn't compete. Pineapple slices, six to eight mm thick. Eight of them. Grilling them matters—raw pineapple sits flat on your tongue. Grilled pineapple has actual texture. Coconut cream for brushing. Just fifteen ml. Makes the pineapple shine.
+
+## How to Make Coconut Panna Cotta
+
+Start with gelatin. Sprinkle it over the lime zest water. Don't stir. Just watch it. In about six minutes the granules soften, plump up, lose their hard edges. This is blooming. Skip this step and you get lumps. Can't undo lumps.
+
+Pour coconut milk and sugar into a heavy pan. Medium-low heat. Stir constantly. Sugar scrapes against the bottom at first—you'll hear it, feel it—then it smooths out. When there's no grit left, no sand feeling when you drag the spoon, you're done heating. Don't boil. Bubbles at the edges only. That's it.
+
+Off heat. Whisk in the bloomed gelatin fast. It should melt in seconds. No lumps means you did it right. Pour in the chilled oat milk. The temperature drop matters—it stops the gelatin from setting before you need it to. Rum goes last. Stir everything together. The mixture thickens slightly as you work, gets this silky thing happening.
+
+## How to Get Coconut Panna Cotta to Set Properly
+
+Ramekins get rinsed with cold water. Shake them out but leave a thin layer sitting in the bottom. This water layer lets the panna cotta slide out later without sticking. Pour the mix evenly into eight ramekins. Nearly to the top. Leave maybe two or three millimeters of space—it'll settle slightly as it sets, and condensation on plastic wrap drips weird.
+
+Loosely cover with plastic wrap. Tight plastic means condensation pools and drips back into the dessert. Loose means it stays dry on top.
+
+Into the fridge. Minimum three hours and forty-five minutes. Could be longer. The center should jiggle when you nudge the ramekin but hold its shape. Touch it and it moves. That's set.
+
+Pineapple goes on a hot grill or cast iron skillet. Medium heat. Two to three minutes per side. Char shows up fast—light brown, almost black spots, edges getting crispy. The surface sticks a little when you flip it. That stickiness is the sugar caramelizing. Brush it with coconut cream right off heat. The warmth makes the cream melt into every crevice.
+
+## Coconut Panna Cotta Tips and Common Mistakes
+
+Lumpy gelatin means you didn't bloom it or you added it to something too cold. Start over. Blooming takes six minutes and nothing less. The warm coconut milk matters—hot enough to melt gelatin, not hot enough to cook it.
+
+Temperature shock happens when the mixture is too warm when it goes in the ramekins. Wait maybe a minute after combining everything. Let it cool slightly. It'll thank you.
+
+Can't get it out? Warm water dunk. Ten seconds max. Dip just the bottom of the ramekin. Run the knife around again. Try it. Still stuck? Another dunk. But don't drown it. Warm water dissolves gelatin if you're careless.
+
+Pineapple burn is actually good. The char is flavor. Don't baby it. Medium heat, flip when you smell it getting sweet. Two minutes per side is average but depends on your heat source. Watch it, don't time it.
+
+The rum is optional but don't skip it. Without rum it tastes like coconut. With rum it tastes like something happened.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Coconut Panna Cotta with Rum
+
+**Can I use regular milk instead of oat milk?**
+Yeah. Dairy works. Almond milk works too—tastes a bit nuttier. Just keep it chilled. Cold matters more than which milk.
+
+**What if I don't have dark rum?**
+Don't use light rum. It tastes like nothing. Coconut rum works but it's sweeter—use half the amount. Or skip it. Honest answer: it's not the same without it, but the panna cotta doesn't fail.
+
+**How long does this keep?**
+Three days easy. Four if you're lucky. After that the gelatin starts to weep a tiny bit—you'll see clear liquid pooling underneath. Still tastes fine but the texture gets loose. Make it closer to when you eat it.
+
+**Can I make this with regular gelatin sheets instead?**
+Probably. Never tried it. Bloom sheets longer, maybe eight minutes. The melting part might take different timing. Not worth the experiment when powder works.
+
+**Do I have to grill the pineapple?**
+No. But you should. Raw pineapple just sits there. Grilled pineapple is sweet and textured and caramelized. It's the move that makes this feel intentional.
+
+**Can I serve it in the ramekin instead of turning it out?**
+Absolutely. Tastes identical. Looks less fancy but that's the only difference. Some nights fancy doesn't matter.
