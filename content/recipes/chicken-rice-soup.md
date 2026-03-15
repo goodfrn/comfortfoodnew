@@ -1,9 +1,9 @@
 ---
-title: "Chicken and Rice Soup Recipe"
+title: "Chicken and Rice Soup with Arugula"
 slug: "chicken-rice-soup"
-description: "Slow-cooked chicken and rice soup with tender vegetables and peppery greens. Rich broth, paprika warmth, and Herbes salées depth. Feeds four with leftovers."
-metaDescription: "Chicken and rice soup recipe with slow-cooked chicken, swollen rice, and peppery greens. Rustic, forgiving, soul-warming. Try it tonight."
-ogDescription: "Slow-cooked chicken and rice soup. Tender chicken, swollen rice, peppery greens. Rich broth, paprika warmth. Feeds four easily."
+description: "Slow-cooked chicken and rice soup with carrots, celery, smoked paprika, and peppery arugula. Rich broth with Herbes salées creates depth. Serves four generously."
+metaDescription: "Chicken and rice soup recipe with tender vegetables, smoked paprika, and fresh arugula. Slow-cooked in rich broth with Herbes salées. Make it tonight."
+ogDescription: "Tender chicken and rice soup loaded with carrots, celery, and peppery arugula in a flavorful broth."
 focusKeyphrase: "chicken and rice soup"
 date: 2025-09-29
 draft: false
@@ -22,10 +22,17 @@ tags:
 - "homemade"
 keywords:
 - "chicken and rice soup"
+- "slow cooker chicken and rice"
 - "chicken and rice soup recipe"
-- "chicken rice soup recipe"
-- "slow cooker chicken & rice"
-- "chicken lemon rice soup"
+- "chicken rice soup"
+- "easy chicken soup"
+- "homemade chicken broth soup"
+- "comfort soup recipe"
+- "one-pot chicken soup"
+- "smoked paprika chicken soup"
+- "vegetable chicken soup"
+- "make-ahead soup"
+- "family dinner recipes"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"
@@ -61,3 +68,87 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, fridge up to 3 days fine. Soup thickens when cooled, reheat adding hot broth or water to loosen. Avoid boiling on reheat greens turn dull, stir gently warming. Freezing okay but texture loss on rice and greens likely. Consume soon if frozen."
 
 ---
+
+Boil the broth first. That's where everything starts — a rolling boil, not a simmer. Carrots, celery, rice, smoked paprika go in together. No fussing. Just let it do its thing for 20 minutes while the house fills with this smell that tastes like comfort before you even taste it.
+
+## Why You'll Love This Chicken Rice Soup
+
+Takes 55 minutes total. That's it. Prep and cook, done before dinner gets cold.
+
+Tastes like someone actually cared. The paprika shifts from sharp to subtle warmth. The rice releases starch that thickens it naturally — no cream needed, no flour. The arugula at the end keeps it bright instead of heavy.
+
+Works cold too. Leftovers taste better. The flavors deepen sitting overnight.
+
+It's the soup you make when someone's sick or when it's just one of those nights. No decisions. Just chicken and rice and broth doing what they're supposed to do.
+
+## What You Need for Chicken Rice Soup
+
+Chicken broth — 1.6 litres. The whole base depends on this. Use the good stuff. Boxed works. Homemade works better.
+
+Carrots. Three of them, sliced thin. Thin matters. They soften faster, they sweeten faster. The thinner they are, the more they thicken the broth later.
+
+Celery. Two stalks, finely chopped. Not chunks. Pieces small enough that you forget they're there.
+
+Parboiled rice. 65 grams — about a third cup. Not regular white rice. Parboiled. It holds its shape instead of turning to mush.
+
+Smoked paprika. Two teaspoons. This is what makes it taste like something. Not spicy. Just warm.
+
+Cooked chicken. 320 grams, chopped. Use rotisserie if you want. Leftover roasted chicken works. Doesn't matter as long as it's already cooked.
+
+Arugula. Two cups, chopped. Peppery. Stays bright even when hot liquid hits it if you time it right.
+
+Herbes salées. Two teaspoons. It's a French blend — celery salt, chives, tarragon, parsley. Make your own if you can't find it. Just salt and dried herbs mixed together. Or use regular salt and add more flavor somewhere else.
+
+## How to Make Chicken Rice Soup
+
+Get the broth hot. Rolling boil. This takes maybe 5 minutes in a large pot. Don't wait for it to calm down — you want actual rolling boil.
+
+Drop in carrots, celery, rice, paprika. All at once. Stir once. Then stop. Reduce heat to medium-low so it's barely bubbling. Tiny bubbles. Almost a simmer but not quite.
+
+The waiting part. 18 to 22 minutes. You're watching for the rice to start swelling at the edges, carrots to go soft but not destroyed. The smell will change. It gets warmer. Less sharp. That's the paprika settling in.
+
+Push a wooden spoon against a carrot piece. If it gives easily, you're good. Rice should have a tiny bit of firmness still. Not crunchy. Just not mushy. If it's still too firm at 20 minutes, a few more minutes. But stop at 22. This isn't the soup that gets better the longer you cook it.
+
+## How to Get Chicken Rice Soup Perfect
+
+Now the chicken goes in. And the arugula. And the Herbes salées. Stir gently. Just enough to mix it in. Don't go crazy with the spoon — arugula wilts stupid fast if you're too rough with it, turns slimy.
+
+Let it sit for 5 to 7 minutes more. The chicken gets warm all the way through. The arugula softens just enough. The rice releases starch that thickens everything slightly. The whole thing becomes more soup-like, less brothy.
+
+Taste it now. Pepper usually. Add fresh cracked pepper if it's flat. Salt probably doesn't need it — the broth had salt, the Herbes salées has salt — but taste.
+
+The texture should feel full but not thick. If it thickened too much — and it can, depending on your rice and how long it sat — splash some hot water or more broth in. It loosens right back up.
+
+## Chicken Rice Soup Tips and Mistakes
+
+Don't overcook the greens. Once they go in, they're done in seconds. 7 minutes max or they get dark and bitter and lose the whole point of having them.
+
+Parboiled rice matters. Regular white rice turns to mush. Wild rice takes twice as long. Parboiled is the sweet spot. It holds texture.
+
+The arugula is not optional even though it looks like a garnish. It's what keeps this from tasting like regular chicken soup. It's peppery. It stays bright. It matters.
+
+If you make it ahead, reheat it gently. Don't boil it again. The arugula gets worse if you boil it twice. Just warm it through over medium heat, stirring occasionally.
+
+The soup thickens as it cools. Even more when it sits overnight. That's not a mistake — that's how rice soup works. You can thin it with broth or water when you reheat it. Or don't. Depends what you want.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken Rice Soup
+
+**Can you use regular white rice instead of parboiled?**
+Not really. It gets mushy. Parboiled holds its shape for the cooking time. White rice needs less time and falls apart if you go to 20 minutes.
+
+**How do you store leftovers?**
+Container in the fridge. It keeps 4 days easy. Freezes okay but the texture changes slightly when it thaws. Arugula gets weird. The rice stays fine.
+
+**What if you don't have smoked paprika?**
+Regular paprika works. Just add a pinch more because regular is milder. Or skip it entirely and add something else. Black pepper, dried thyme, whatever you have that's warm-tasting.
+
+**Can you make this in a slow cooker?**
+Technically yes but it's pointless. Everything cooks in 35 minutes. A slow cooker gives you 8 hours of the rice breaking down. Make it on the stovetop.
+
+**What do you serve with it?**
+Bread. Just bread. Toasted if you can manage it. The crunch is the whole point. Or nothing. It's complete as is.
+
+**Can you add cream?**
+Don't. The rice thickens it naturally. Cream would make it feel heavy. This soup is light. That's intentional.
