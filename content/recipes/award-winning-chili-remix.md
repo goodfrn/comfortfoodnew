@@ -1,9 +1,9 @@
 ---
-title: "Slow Cooker Chili with Chorizo"
+title: "Slow Cooker Chili With Chorizo"
 slug: "award-winning-chili-remix"
-description: "Ground beef and chorizo simmered low and slow with warm spices and a hint of cocoa. Rich, layered chili that deepens as it cooks. Kidney or black beans work both."
-metaDescription: "Slow cooker chili with chorizo, spices, and cocoa powder. Low and slow cooking brings out deep flavor. Try it tonight."
-ogDescription: "Ground beef and spicy chorizo chili simmered until rich and layered. Cocoa powder adds unexpected depth."
+description: "Slow cooker chili with ground beef, chorizo, black beans, and fire-roasted tomatoes. Spiced with chili powder, cumin, and a hint of cocoa for depth. Serves 6–8."
+metaDescription: "Slow cooker chili with chorizo, ground beef, black beans, and fire-roasted tomatoes simmered with chili powder and cocoa. Rich and layered. Try it tonight."
+ogDescription: "Ground beef and chorizo chili with black beans, fire-roasted tomatoes, and warm spices. Cocoa adds unexpected depth. Make it tonight."
 focusKeyphrase: "slow cooker chili with chorizo"
 date: 2025-11-09
 draft: false
@@ -23,9 +23,14 @@ tags:
 keywords:
 - "slow cooker chili with chorizo"
 - "chorizo chili recipe"
-- "chili with cocoa powder"
-- "homemade chili"
-- "beef chorizo chili"
+- "ground beef chorizo chili"
+- "easy slow cooker chili"
+- "black bean chili recipe"
+- "fire-roasted tomato chili"
+- "homemade chili with cocoa"
+- "spicy chorizo chili"
+- "beef chili recipe"
+- "slow cooker beef chili"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -78,3 +83,51 @@ faq:
 - "q: How to store leftovers? a: Chill in airtight container. Reheat gently, add splash broth if thickened too much in fridge. Freezes well up to 3 months. Defrost slow in fridge. Flavors often deepen after resting overnight."
 
 ---
+
+Heat oil in a heavy pot over medium. Throw the ground beef and chorizo in at once. Break it apart with a spoon while it browns — don't let it sit there getting muddy. When the pink's gone, drain everything into a colander. That watery stuff has to go. Fat stays, water doesn't.
+
+## Why You'll Love This Chili
+
+Spicy without being a dare. The chorizo handles heat instead of some cheap chili powder taking all the credit. Takes 22 minutes of prep and then you just leave it alone for 33 minutes on the stove. That's it. One pot. The beef and chorizo combination does something neither does alone — smoky, rich, actually tastes like meat instead of just red. Cheddar and sour cream cool it down if it gets too much.
+
+## What You Need for Slow Cooker Chili
+
+Vegetable oil. Just a tablespoon. Ground beef — 80/20 blend. The fat matters. Chorizo sausage. Fresh, not smoked links. Completely different thing. Two cups diced yellow onion. One large one. Garlic. Four cloves minced. Black beans rinsed. Crushed fire-roasted tomatoes. The fire-roasted part actually changes it — regular canned is fine but loses something. Beef broth. Two cups. Chili powder, ground cumin, smoked paprika, dried oregano. Cayenne pepper. Start with a quarter teaspoon. You can always add more. Cocoa powder. One teaspoon. Unsweetened. Sounds weird. Isn't. Salt and fresh cracked black pepper. Cheddar cheese for topping. Garlic Dill Oyster Crackers — they're crispy and weird and somehow perfect here. Sour cream.
+
+## How to Make Slow Cooker Chili
+
+Oil goes in first over medium heat. Ground beef and chorizo both hit the pot at the same time — don't hesitate. Break it up with a wooden spoon as it cooks. That sizzle you hear is fat rendering and meat browning. Takes maybe 8 minutes until the pink's completely gone. Then pour the whole thing into a colander. Drain everything. Grease needs to stay behind but the gray liquid has to go. Put the meat back in the pot.
+
+Onions and garlic go in next. Stir them around in the residual fat. Then all the spices at once — chili powder, cumin, smoked paprika, oregano, cayenne, cocoa powder. Mix it hard. The spices need to hit hot fat and bloom. That's when the raw onion sharpness disappears and the garlic turns toasty and the whole pot starts smelling like a campfire. Two minutes. Maybe three. Pour in crushed tomatoes, beef broth, and rinsed beans.
+
+## How to Get Slow Cooker Chili Rich and Thick
+
+Heat goes low. Not simmering hard — just gentle bubbles breaking the surface every few seconds. Cover it partially. Let it breathe but keep the steam mostly contained. This is where the magic happens. The color darkens from bright red to deep burgundy. The flavors stop tasting separate and start tasting like one thing. Stir every 15 minutes. Scrape the bottom of the pot with a wooden spoon to catch any browning bits stuck there. Don't skip this. Those bits are flavor.
+
+30 to 35 minutes of slow cooking. That's it. Check it by dragging a spoon through the middle — chili should cling to the back instead of sliding off. No liquid pooling is the right texture. Taste it now. Salt goes in. Fresh cracked pepper. More cayenne if it's not spicy enough. Don't hold back on seasoning. It needs to taste almost too salty while hot because it mellows slightly as it cools. Let the pot sit covered off heat for a few minutes. Then serve.
+
+## Slow Cooker Chili Tips and Mistakes
+
+Meat goes dry sometimes if you cook it too fast or don't drain the liquid right. Solution — splash broth in early and let it reduce later. Chili too thin after cooking? Uncover the last 5 minutes to evaporate water. Burned on the bottom? Stir more often. Use a heavy pot. The thin stuff burns. Chorizo can be hard to find. Spicy Italian sausage works. Smoked sausage works. They taste different but chili still comes out good. Fire-roasted tomatoes are worth the small extra cost but regular canned doesn't ruin it — just add more smoked paprika to compensate. Beans sometimes stay too firm. Add them earlier or soften them in water separately before mixing in. Don't watch the clock. Watch the color. When it's that dark burgundy and thick enough to coat a spoon, it's done.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Slow Cooker Chili
+
+**Can you make this in an actual slow cooker?**
+Yeah. Brown the meat in a pot first like the instructions say, drain it, then dump everything in the slow cooker on low for 4 hours. Or high for 2. Doesn't develop quite as much flavor because slow cooker heat is wet heat, but it works.
+
+**How spicy is this?**
+Not that spicy. Chorizo brings heat but it's smoky and mild. The quarter teaspoon cayenne is barely noticeable. Taste after 25 minutes and add more if you want actual spice.
+
+**What if you don't have smoked paprika?**
+Skip it and add another teaspoon of regular chili powder. You lose the smoke flavor but it's still good chili.
+
+**How do you store leftovers?**
+Fridge for 4 days. Freezes fine for months. Reheat on the stove with a splash of water to loosen it up.
+
+**Can you double this recipe?**
+Yes. Just increase everything. Still takes the same cook time because you're not crowding the pot if you use a bigger one.
+
+**Why the cocoa powder?**
+Deepens the flavor. You won't taste chocolate. It just makes the chili taste more like chili — richer, less one-note. Don't skip it.
