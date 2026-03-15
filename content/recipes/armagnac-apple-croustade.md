@@ -1,10 +1,10 @@
 ---
-title: "Armagnac Apple Croustade"
+title: "Armagnac Apple Croustade with Filo Pastry"
 slug: "armagnac-apple-croustade"
-description: "Layered filo dough tart filled with spiced apple slices soaked in brandy and cinnamon, baked until golden and crispy. A light, airy dessert with a crunchy top and soft fruit interior, free from nuts, lactose, and eggs."
-metaDescription: "Armagnac Apple Croustade with layers of filo, spiced apples soaked in calvados, baked crisp golden. Nut-free, dairy-free, egg-free French tart, 8 servings."
-ogDescription: "Light, crisp filo tart with spiced apples soaked in calvados. Rustic curls and crunchy base. Dairy, nut, egg-free. French country dessert vibe."
-focusKeyphrase: "Armagnac Apple Croustade"
+description: "Crispy filo pastry layered with spiced Granny Smith apples soaked in calvados, cinnamon, and ginger. Golden, airy dessert that's naturally dairy-free and egg-free."
+metaDescription: "Armagnac apple croustade made with crispy filo pastry, Granny Smith apples, calvados, and warm spices. Try it tonight."
+ogDescription: "Layered filo tart with brandy-soaked apples, cinnamon, and ginger. Crispy, golden, and naturally dairy-free."
+focusKeyphrase: "armagnac apple croustade"
 date: 2025-07-27
 draft: false
 image: armagnac-apple-croustade.jpg
@@ -21,9 +21,15 @@ tags:
 - "cinnamon"
 - "dessert"
 keywords:
-- "apple croustade"
-- "calvados dessert"
-- "vegan filo tart"
+- "armagnac apple croustade"
+- "apple tart"
+- "filo pastry dessert"
+- "cinnamon apple tart"
+- "apple dessert"
+- "crispy filo tart with brandy soaked apples"
+- "spiced apple croustade with cinnamon and ginger"
+- "fall apple croustade"
+- "layered filo apple dessert with calvados"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "285"
@@ -64,3 +70,96 @@ faq:
 - "q: What if bottom isn’t crisp after baking? a: Oven temp too low or rack too high. Should bake on low rack for crisp base. Check oven calibration. Reduce moisture too. Avoid excess apple liquid. Brush filo layers well with oil. Could bake longer if needed but watch color."
 
 ---
+
+Set the oven low. Preheat to 185°C. Six sheets of filo, brushed with oil, pressed into a springform. Then apples — Granny Smith, already soaked in calvados and cinnamon — spread across the base. Then the second stack of filo, this time cut into strips and scrunched up like you're not trying too hard. Forty-five minutes and it comes out crispy on the bottom, golden, with apples that have gone soft and sweet underneath. Fall in a pan.
+
+## Why You'll Love This Armagnac Apple Croustade
+
+Takes less than an hour and a half total — 35 minutes of prep, 45 minutes in the oven. Sounds longer than it is.
+
+Filo pastry gets actually crispy. Not soggy. That's the coconut oil and the low oven doing it right.
+
+Looks complicated. Isn't. The rustic scrunched-up top is the point. You can't mess it up because it's supposed to look like you didn't try.
+
+Cinnamon and ginger with the apples. Calvados in the filling so you taste the brandy warmth. Not boozy — just there. Fall dessert that works for anything.
+
+Works warm or room temperature. Leftover goes cold, maybe even better that way.
+
+## What You Need for an Armagnac Apple Croustade
+
+Granny Smith apples — three and a half, peeled, cored, sliced thin. Not Red Delicious. Not Honeycrisp. Granny Smith stays firm. Doesn't turn to mush.
+
+Brown sugar. Fifty ml. That's three tablespoons if you're measuring wrong.
+
+Calvados. Or brandy. Or nothing if you skip it — the apples work either way, but the calvados adds something. Fifty ml. Three tablespoons again.
+
+Melted unsalted coconut oil. A hundred ml. Seven tablespoons. Use it for brushing every layer. Olive oil burns. Butter browns too dark. Coconut oil works.
+
+Filo pastry sheets — twelve of them, thawed. Frozen ones shatter. Let them sit in the fridge overnight if you can.
+
+Ground cinnamon. One teaspoon. Cinnamon matters here.
+
+Ground ginger. Half a teaspoon. Just enough so you feel it, not so much it takes over.
+
+## How to Make an Armagnac Apple Croustade
+
+Oven goes to 185°C. Low rack. This matters. If it's too high the top browns before the bottom crisps.
+
+Slice the apples. Thin. Like, thinner than you think. Quarter inch, maybe less. Toss them in a bowl with the brown sugar, cinnamon, ginger, and calvados. Let it sit while you do the filo. The apples release juice. That's what you want.
+
+Lay out six filo sheets. Stack them on top of each other. Brush coconut oil between each layer — not a lot, just enough so the next sheet slides on. Then trim the edges so they fit your springform pan with about 1.5 centimeters hanging over the side.
+
+Press this whole stack into the pan. Press it down gentle but firm. The edges should go up the sides. Trim the overhang — leave maybe an inch of border to fold in later. Save the scraps.
+
+Spread the apples over the filo base. All the juice too. Don't drain it.
+
+Fold that border in. Not tight. Loose. Let it overlap itself a bit. It's supposed to look casual.
+
+## How to Get a Crispy Filo Tart with Brandy-Soaked Apples
+
+Take the remaining six sheets of filo. Brush each one with oil. Cut them into strips — about 43 centimeters long, maybe three strips per sheet. Long and thin.
+
+Arrange them vertically over the apples. This is where it gets fun. You're not layering them flat. You're curling them, scrunching them, twisting them so they catch height and air. Some go one direction. Some go another. The point is texture — the crust has layers and peaks.
+
+Bake forty-five minutes. Maybe forty if your oven runs hot. The bottom should be crisp and golden. The top should be the same — golden, not brown. Check halfway through. If one side is darker, rotate the pan.
+
+It's done when you tap the bottom — through the pan, obviously — and it sounds hard. Not soft. Hard.
+
+Cool it a few minutes. Not forever. The filo crisps more as it cools anyway.
+
+## Armagnac Apple Croustade Tips and Common Mistakes
+
+Filo dries out fast. Work quick. If you're taking forever between sheets, cover the stack with a damp towel.
+
+Don't skip the low oven rack. Top heat browns the filo before the apples soften and the bottom crisps. Low rack means the bottom gets direct heat. Worth it.
+
+The scrunching is not optional. Flat filo on top means steam gets trapped. Scrunched means crispy. The rusticity is the technique.
+
+Calvados versus brandy versus nothing — try it all. Some people use Armagnac instead. Some skip the alcohol entirely. The apples work. The brandy just adds depth.
+
+Room temperature is better than warm, actually. Maybe not better. Different. Cooler, the filling sets and the filo snaps when you bite it. Warm, the apples are softer.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fall Apple Croustade
+
+**Can I use a different type of apple?**
+Granny Smith doesn't break down. That's the whole point. Golden Russet works. Honeycrisp falls apart and gets weird. Not worth it.
+
+**What if I don't have calvados?**
+Brandy. Or skip it. Just add maybe a tablespoon more sugar if you skip the liquid — the apples need something to release juice into.
+
+**Can I make this ahead?**
+Build it the morning of. Don't bake it yet. Cover it. Bake right before you want to eat it. Filo gets tough if it sits cooked.
+
+**How do I store leftovers?**
+Room temperature in a covered container. Maybe two days. After that the filo starts to soften. Cold doesn't help.
+
+**What's the difference between croustade and a regular tart?**
+Croustade is supposed to be rustic. The filo is scrunched and layered, not smooth. Regular tart is organized. This one isn't.
+
+**Do I have to use coconut oil?**
+Ghee works. Clarified butter. Regular butter browns too fast at 185°C. Olive oil has too much flavor. Coconut oil is the right call here.
+
+**Can I make the apple layer thicker?**
+You've got room. Use four apples. Slice them thinner so they fit. The bake time doesn't really change.
