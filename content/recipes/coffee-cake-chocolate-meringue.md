@@ -1,10 +1,10 @@
 ---
-title: "Coffee Cake with Chocolate Meringue"
+title: "Coffee Swiss Meringue Buttercream Cake"
 slug: "coffee-cake-chocolate-meringue"
-description: "A layered coffee cake rolled with creamy espresso buttercream. Topped with chocolate meringue. Whipped eggs create a light texture. Cocoa adds richness. Perfect for dessert. Layers provide contrast. Stringy meringue stacks along the side."
-metaDescription: "Coffee Cake with Chocolate Meringue. Layers of coffee cake with rich buttercream. Light meringue on top. Perfect for gatherings."
-ogDescription: "Explore Coffee Cake with Chocolate Meringue. Enjoy smooth buttercream, light meringue. A treat for all occasions."
-focusKeyphrase: "Coffee Cake with Chocolate Meringue"
+description: "Coffee Swiss meringue buttercream layer cake with strong brewed coffee, whipped eggs, and cocoa. Silky espresso buttercream frosting meets chocolate meringue topping."
+metaDescription: "Coffee Swiss meringue buttercream made with brewed coffee and egg whites. Creamy espresso layers with chocolate meringue topping. Make it tonight."
+ogDescription: "Coffee Swiss meringue buttercream cake with brewed coffee, silky buttercream, and cocoa meringue topping. Perfect dessert."
+focusKeyphrase: "coffee swiss meringue buttercream"
 date: 2025-07-15
 draft: false
 image: coffee-cake-chocolate-meringue.jpg
@@ -21,9 +21,14 @@ tags:
 - "dessert"
 - "vegetarian"
 keywords:
-- "coffee cake"
-- "chocolate dessert"
-- "meringue cake"
+- "coffee swiss meringue buttercream"
+- "swiss meringue buttercream recipe"
+- "coffee buttercream frosting"
+- "meringue buttercream"
+- "espresso buttercream"
+- "chocolate meringue topping"
+- "coffee cake recipe"
+- "homemade buttercream frosting"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "400"
@@ -89,3 +94,101 @@ faq:
 - "q: Can I use flavored coffee? a: Absolutely. Hazelnut or vanilla could enhance it. Each flavor adds uniqueness. Just remember, stronger the brew, better the taste. Test different varieties. Find what pairs best."
 
 ---
+
+Fifty minutes total. That's it for a cake that looks like it took half your day.
+
+The coffee hits you first—brewed strong, turned into hot syrup, whisked into eggs until they stop being afraid of the heat. Then the butter goes in a few cubes at a time, and suddenly you've got something that holds a peak and tastes like it came from somewhere that charges fourteen dollars a slice. The meringue part is just patience. Low oven. Hours. But you're not actually doing anything while it dries.
+
+## Why You'll Love This Coffee Cake
+
+Looks complicated. Three components, chocolate meringue sticks, the whole thing standing up like it knows what it's doing. Takes 50 minutes of actual work—the drying part doesn't count because the oven's doing it.
+
+Tastes better than it has any right to. Coffee buttercream hits different when it's made the Swiss way—silky, almost mousse-like, not greasy at all. Chocolate meringue on top adds this crack-when-you-bite-it thing that cheap frosting could never do.
+
+Works for any occasion. Birthday. Date night. Thursday. Vegetarian dessert that doesn't taste like you made a compromise.
+
+Stores fine. Wrapped tight in the fridge, three days easy. Some people say it's better the next day. They're probably right.
+
+## What You Need for Coffee Swiss Meringue Buttercream
+
+All-purpose flour—300 ml, sifted. The sifting matters more than you think. Gets air into it.
+
+Baking soda. Just 2 ml. Tiny amount. Don't double it.
+
+Five large eggs at room temperature. Cold eggs don't emulsify the same way. Leave them out while you prep.
+
+Granulated sugar—320 ml. Vegetable oil. A tablespoon of maple syrup. A tablespoon of milk. That's the cake part.
+
+For the buttercream: brewed coffee, strong. Two large eggs plus five yolks—so yeah, six yolks total plus two whole eggs. Unsalted butter, 400 grams, softened. Powdered sugar, 360 ml.
+
+For the meringue: confectioners' sugar, cocoa powder, five egg whites, cream of tartar. That's it.
+
+## How to Make Coffee Cake
+
+Heat the oven to 170°C. Grease a 42 by 30 centimeter sheet pan and line it with parchment paper—let the paper hang over two sides so you can grab it later.
+
+Sift flour and baking soda together in a bowl. Set it aside. Don't skip the sifting.
+
+Beat eggs and sugar for about ten minutes. The mixture should be thick and pale. Like the color of cream. You'll know it when you see it—it goes from yellow and thin to something that holds a ribbon when you lift the whisk.
+
+Slowly add the oil while beating. Don't dump it. Slow means it actually incorporates instead of making the batter look broken.
+
+Fold in the dry mix with a spatula. Just until combined. Overmixing toughens the cake. Spread it into the sheet pan evenly.
+
+Bake for eighteen minutes. It should be light golden—not brown, not pale. Golden. Turn it out onto a sugared parchment and let it cool completely.
+
+Trim the edges. Cut it into four strips about 41 by 7 centimeters. Wrap each one tightly.
+
+## How to Make the Coffee Buttercream
+
+Boil the brewed coffee with the powdered sugar until a candy thermometer reads 113°C. Takes maybe five minutes. Don't leave it. Remove it from heat the second it hits temp.
+
+In a separate bowl, whisk the two whole eggs and five yolks together until frothy. This takes a minute or two.
+
+Slowly drizzle the hot syrup over the eggs while whisking constantly. Slowly. This is the part that makes people nervous. It shouldn't be—the eggs won't scramble if you drizzle, not pour. Keep whisking.
+
+Whisk until the mixture cools down. Around fifteen minutes. The bottom of the bowl should feel room temperature.
+
+Gradually add butter, a few cubes at a time. Let each addition mix in before adding the next. If it looks broken at any point—separated, curdled, wrong—keep mixing. It'll come back together. Always does.
+
+The buttercream should be smooth and hold a peak. Spread half of it on one side of each cake strip. Roll the first strip tight, place it upright on a serving plate. Wrap the next strip around it. Then the next. Then the last one. Wrap the remaining buttercream around the top and sides.
+
+## How to Make the Chocolate Meringue
+
+Lower the oven to 75°C. Line two baking sheets with parchment.
+
+Mix confectioners' sugar and cocoa powder together. Sift it. Set aside.
+
+Whisk egg whites and cream of tartar until soft peaks form. They should look foamy and hold a shape but still bend a little at the tips.
+
+Gradually mix in the sugar you set aside. A little at a time. Beat until stiff peaks form—the meringue should stand straight up and not flop.
+
+Gently fold in the cocoa mixture. Don't stir it. Fold. Fold. Fold. You want it mixed but still light.
+
+Pipe meringue into a round disk about 23 centimeters across on one baking sheet. On the other sheet, pipe about 40 sticks, each about 6 centimeters long. Use a pastry bag with a plain tip for the disk, a small one for the sticks.
+
+Dry the meringues in the oven for about four hours. They should be crisp all the way through, not chewy in the middle. Let them cool completely before touching them.
+
+Place the meringue disk on top of the cake. Attach the meringue sticks around the sides.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Coffee Swiss Meringue Buttercream
+
+**Can I make this without a candy thermometer?**
+Not really. The syrup needs to hit 113°C. Too low and the buttercream breaks. Too high and it tastes cooked. Thermometer is worth it.
+
+**Why won't my buttercream come together?**
+Temperature mismatch. If the eggs are still too warm when you add butter, it'll separate. If the butter is too cold, same thing. Room temperature matters.
+
+**Can I use instant coffee instead of brewed?**
+Yeah. Dissolve it in water. You need the liquid. Tastes fine either way.
+
+**How long does it keep?**
+Three days in the fridge, wrapped tight. Could probably go longer but I've never waited that long.
+
+**What if my meringue sticks break?**
+They break. They're fragile. Make extra. Twenty sticks, not fifteen. Some won't survive from oven to plate.
+
+**Do I have to use egg whites for the meringue?**
+Yes. That's what makes it meringue. If you don't want raw eggs, dry them low and slow like the recipe says. Four hours kills any worry.
