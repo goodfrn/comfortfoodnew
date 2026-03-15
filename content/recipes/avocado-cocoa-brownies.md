@@ -1,10 +1,10 @@
 ---
-title: "Avocado Cocoa Brownie Biscuits"
+title: "Brownie Cookies with Avocado & Toasted Pecans"
 slug: "avocado-cocoa-brownies"
-description: "Brownie biscuits with avocado replacing butter. Half flour, half almond flour twist. Cassonade swapped for coconut sugar. Dark chocolate chunks add sharp bites. Toasted pecans on top for crunch. Baked at 175 °C, timing flexible by visual cues. Moist, fudgy centers. Crispy edges set by color and texture. No dairy, no lactose, but plenty of richness. Egg binds, oil adds moisture. Flour mix gives subtle nuttiness unseen in usual versions. Cacao powder hit adjusted slightly less bitterness. Careful folding avoids dense bricks. Perfect when toothpick comes out with few moist crumbs, not wet batter. Versatile recipe favors substitutions and kitchen shortcuts. No margarine, no fuss. Always line pan or risk sticking. Watch closely last 5 min — tiny bubbles fade, edges pull away. Pecan aroma signals almost done. Can switch pecans for walnuts easily."
-metaDescription: "Avocado cocoa brownie biscuits with half almond flour, dark chocolate bits, and toasted pecans for crunch. Moist centers, crispy edges, baked at 175 °C."
-ogDescription: "Brownie biscuits swap butter for avocado, blending almond and all-purpose flours. Dark chocolate and pecans add texture; watch edges for doneness."
-focusKeyphrase: "Avocado cocoa brownie biscuits"
+description: "Fudgy brownie cookies made with avocado, dark chocolate chunks, and toasted pecans. Almond flour blend creates moist, crispy-edged treats with rich chocolate flavor."
+metaDescription: "Brownie cookies with avocado butter substitute, dark chocolate chunks, and toasted pecans. Moist fudgy centers, crispy edges. Make it tonight."
+ogDescription: "Fudgy brownie cookies made with avocado, dark chocolate, and toasted pecans. Rich, moist centers with a satisfying crunch."
+focusKeyphrase: "brownie cookies"
 date: 2025-09-29
 draft: false
 image: avocado-cocoa-brownies.jpg
@@ -21,9 +21,17 @@ tags:
 - "pecan"
 - "avocado"
 keywords:
+- "brownie cookies"
 - "avocado brownies"
-- "cocoa biscuits"
-- "toasted pecans"
+- "chocolate pecan cookies"
+- "dark chocolate chunk brownie cookies"
+- "almond flour brownie biscuits"
+- "coconut sugar brownies"
+- "avocado cocoa brownies"
+- "toasted pecan cookies"
+- "fudgy brownie recipe"
+- "avocado butter substitute"
+- "homemade brownie biscuits"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "180"
@@ -66,3 +74,79 @@ faq:
 - "q: Oven temperature accuracy? a: Oven varies a lot. Preheat early, position rack center. Visual checks more reliable than timer. Edges crisp, centers remain moist. Watch small bubbles vanish, smell nuts, edges pull slightly."
 
 ---
+
+Avocado in the dough. Sounds weird. Isn't. It gets you soft brownie cookies with actual chocolate chunks and pecans—takes 40 minutes total, mostly waiting for the oven. Three cups of flour work, almond flour changes the texture, and the whole thing comes together in one bowl if you don't overthink the mixing.
+
+## Why You'll Love These Brownie Cookies
+
+Chocolate and pecan in every bite—not scattered randomly, they're actually in there.
+Avocado as the butter substitute. No weird taste, just moisture that makes them chewy in the middle instead of cakey.
+Done in 40 minutes. Fifteen of that is baking.
+The dough doesn't need chilling. Scoop and bake. Works cold the next day, maybe better.
+Almond flour adds a nuttiness you can taste. Changes the whole thing from standard brownie.
+
+## What You Need for These Avocado Cocoa Brownies
+
+All-purpose flour and almond flour mixed—two thirds and one third, basically. The almond flour's the thing that makes it different. Don't skip it.
+
+One ripe avocado. Not hard. Not mushy. The middle state. Smash it in the processor with coconut sugar, cocoa powder, vegetable oil, and an egg. Blend it smooth but not to death—overpuree and the crumbs get tough instead of fudgy.
+
+Dark chocolate. Fifty-eight percent. Chop it into chunks yourself—bigger than chips. You'll notice them when you bite down. Toasted pecans, chopped. The toasting matters. Raw pecans taste flat.
+
+Baking powder and salt. Tiny amounts.
+
+## How to Make Brownie Cookies with Avocado
+
+Heat the oven to 350 degrees. Center rack. Line a baking sheet with parchment—skip this and it sticks, turns into a scraped-off mess.
+
+Whisk the flours and baking powder and salt in a bowl. Just combine them. The almond flour sits thicker than regular flour, so the moisture balance gets weird if you're not careful. Too much almond and the whole thing swamps.
+
+Processor time. Avocado goes in, coconut sugar, cocoa powder, oil, egg. Blend until creamy. Stop before it's liquid. You want texture still visible. Overmixing here is the thing that kills it.
+
+Wooden spoon. Fold the dry mix into the wet. Gentle. Not a mixer, not beating. Half the chocolate chunks go in now. Stir once more.
+
+Scoop. Forty-five milliliters is the size. Dollops on the sheet, spaced apart. Don't flatten them. Mounds. Top each one with the remaining chocolate pieces and pecans. Press them down just enough to stick.
+
+## How to Get Brownie Cookies Actually Crispy on the Edges
+
+Thirteen to seventeen minutes. The edges crisp, the surface goes dull matte—that's the signal. Smaller ovens run hot, so check at thirteen.
+
+Toothpick test. Push it in. If it comes out with crumbs on it, you're done. Wet goo means it needs another minute or two. They keep cooking after you pull them out.
+
+Cool on a rack. Don't move them right away. Let them set for a minute on the sheet first, then transfer. The tops feel firm but the insides are still soft—that's when they're best. Warm chocolate works. Gooey bites.
+
+## Brownie Cookie Tips and Common Mistakes
+
+Don't overmix the wet ingredients. Once it's creamy, stop. The dough gets stiff and the cookies turn dense instead of soft.
+
+The avocado has to be ripe. Not hard. Not black. That pale green stage. One that gives slightly when you squeeze it.
+
+Toasted pecans. Not raw. Raw ones taste like nothing. Toast them in a dry pan for maybe three minutes until they smell like pecans, not wood.
+
+Coconut sugar works because it's got molasses notes. Brown sugar substitutes fine. Cane sugar will work but tastes flatter.
+
+The chocolate chunks matter. Chips are too small. Chop a bar yourself. You taste them that way.
+
+Storage is airtight. They keep three days, maybe four. Reheat in the microwave for six seconds if they've gone cold. Warm is better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Pecan Brownie Cookies
+
+**Can I use regular butter instead of avocado?**
+Butter works. Use about a third of a cup melted, then add a tablespoon more oil. Won't have the same texture though. Avocado keeps them chewy. Butter makes them more like a regular brownie.
+
+**What if I don't have almond flour?**
+Make it with all all-purpose. They'll be more cake-like, less interesting. Almond flour's not a luxury—it's what changes the game here.
+
+**How do I know when they're done?**
+Edges look crisp. Top's matte, not shiny. Toothpick should have crumbs on it, not wet batter. They keep cooking after they come out, so pull them early if you like them softer.
+
+**Can I make these without pecans?**
+Yeah. The chocolate carries it. But pecans add texture you notice. If you're doing it without nuts, maybe add more chocolate to compensate.
+
+**Do these work cold?**
+Better cold actually. The avocado sets firmer and the chocolate firms up. Still chewy though. Microwave them for a few seconds if you want warm—six seconds is enough.
+
+**Can I double the recipe?**
+Sure. Everything scales. Takes the same 15 minutes to bake, just use two sheets or bake in batches. Dough keeps a day in the fridge if you scoop it first.
