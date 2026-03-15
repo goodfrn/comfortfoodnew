@@ -1,10 +1,10 @@
 ---
-title: "Ginger Orange Tofu"
+title: "Ginger Orange Tofu with Sesame Spinach"
 slug: "ginger-orange-tofu"
-description: "Firm tofu pan-fried until golden, tossed in a tangy orange and soy sauce infused with fresh ginger and garlic. Baby spinach sauteed in toasted sesame oil, sprinkled with toasted sesame seeds. Green onions add freshness to the final dish. A hint of chili for subtle heat. Serve with jasmine rice or your preferred grain. Balanced protein and greens in a citrusy, sweet-savory sauce. Quick cooking, minimal fuss."
-metaDescription: "Ginger Orange Tofu is a firm tofu dish pan-fried golden in a tangy orange ginger sauce. Quick to prepare and savory, perfect for dinner."
-ogDescription: "Delicious Ginger Orange Tofu in a ginger-infused sauce, served over greens. Quick cooking, bold flavors, perfect for any meal."
-focusKeyphrase: "Ginger Orange Tofu"
+description: "Pan-fried firm tofu in a tangy ginger orange sauce with fresh garlic, tamari soy, and orange marmalade. Topped with sesame-sautéed baby spinach and scallions. Quick Asian vegetarian dinner ready in minutes."
+metaDescription: "Ginger orange tofu with sesame spinach is an easy pan-fry combining firm tofu, orange marmalade, fresh ginger, and baby spinach. Make it tonight."
+ogDescription: "Pan-fried tofu with bright ginger orange sauce, sesame spinach, and scallions. A quick, balanced Asian vegetarian meal."
+focusKeyphrase: "ginger orange tofu"
 date: 2025-07-21
 draft: false
 image: ginger-orange-tofu.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "spicy"
 keywords:
-- "Asian-inspired"
-- "quick tofu meals"
-- "vegetarian recipes"
+- "ginger orange tofu"
+- "tofu stir fry"
+- "pan fried tofu"
+- "easy tofu recipe"
+- "asian vegetarian dinner"
+- "sesame spinach tofu"
+- "vegetarian asian recipes"
+- "ginger tofu sauce"
+- "spicy ginger tofu"
+- "tofu with orange sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -72,3 +79,94 @@ faq:
 - "q: What other greens can I use? a: Kale works well. Chard is another option. Even broccoli if cut small. Cook quickly just till bright."
 
 ---
+
+Ginger. Orange. It sounds complicated but it's not. Press the tofu, slice it, fry it till it's golden and the edges go sort of crispy. The sauce comes together while that's happening — orange juice, marmalade, fresh ginger grated right in, a touch of heat. Everything hits the pan at once near the end. Done in 40 minutes.
+
+## Why You'll Love This Ginger Orange Tofu
+
+Takes 20 minutes to prep and another 20 to cook. No waiting around.
+Tastes like you spent an actual afternoon in the kitchen. Doesn't require that.
+Spicy but not aggressively. The sriracha's optional — skip it if you don't want heat.
+Works as a full dinner or a side for something else.
+The sauce sticks. Doesn't just slide off the tofu. Actually coats it.
+
+## What You Need for Pan Fried Tofu With Orange Marmalade
+
+Two blocks of firm tofu. Press them first — that matters. Wrapped in towels, weighted down, 15 minutes minimum. You need the water out or nothing gets crispy.
+
+Fresh ginger. Grated. Not the paste in the jar. Not powdered. Three quarters of an ounce. Sounds like a lot. Isn't.
+
+Orange juice. Fresh if you have it. Bottled works. Four tablespoons. Marmalade — the kind with actual rind in it — three tablespoons. Tamari because regular soy sauce is too salty here.
+
+Sesame oil. Toasted. That matters. Two teaspoons for the spinach.
+
+Baby spinach. Half a pound. Goes bright green when it hits heat, then softens down to almost nothing. Wilts in less than five minutes.
+
+Vegetable oil for frying. Sesame oil would burn. Don't use it for the pan.
+
+Scallions. Black sesame seeds. Cornstarch — a teaspoon and a half — to thicken everything at the end.
+
+Garlic cloves. Two. Minced. Or not minced. Just small enough they cook through.
+
+The sriracha or chili paste is optional. Five milliliters if you want it.
+
+## How to Make Ginger Orange Tofu
+
+Get the sauce started first. Whisk the chicken broth — it sounds weird in a vegetarian dish but it works — with the orange juice, marmalade, tamari, grated ginger, minced garlic, cornstarch, and the chili paste if you're using it. Just stir until it looks smooth. Set it aside. Doesn't need heat yet.
+
+Heat a large pan over medium. Pour in the sesame oil. Dump the spinach in and stir it constantly for four to five minutes. Sounds like nothing but the leaves need to break down and the water needs to release. Taste it. Salt and pepper it. Honestly you can't mess this up. Drain it well — this is crucial, water makes everything soggy — and transfer it to a bowl. Sprinkle the black sesame seeds on top. Leave it there. Keep it warm.
+
+Wipe the pan. You want it clean. Turn the heat up to medium-high and add the vegetable oil. Let it heat for maybe a minute. You'll see it start to shimmer. That's when you go.
+
+## How to Get Pan Fried Tofu Crispy and Golden
+
+Lay the tofu slices in the oil. Don't crowd it. You need space between each piece. They should sizzle the moment they touch the pan. If they don't, wait another half minute.
+
+Two and a half minutes on the first side. Don't move them. Just leave them alone. You'll see the edges go sort of golden tan — darker than the middle. That's exactly what you want. Flip. Another two and a half minutes on the back. It should look like old wood now. Caramelized. Remove it to a plate.
+
+Do it again with the remaining tofu.
+
+This is when you pour the sauce into the pan. Medium heat. Bring it to a boil — you'll see it bubble and start to thicken immediately because of the cornstarch. Reduce the heat and let it go for three to four minutes. Stir occasionally. It should go glossy and thick. Like glaze, not like soup.
+
+Toss the tofu back in. One minute. Just one. Make sure every piece gets coated.
+
+## Easy Tofu Stir Fry Tips and Common Mistakes
+
+Press the tofu longer if it's still wet. Wet tofu steams instead of frying. Not worth it.
+
+The orange marmalade is doing two things — it's flavoring and thickening. Don't skip the cornstarch thinking the marmalade will do it alone. It won't.
+
+Fresh ginger is essential. Powdered ginger is a different taste entirely. Use what you have but know they're not the same.
+
+Don't add the scallions until the very end. Heat kills the sharp green taste. You want that fresh bite on top.
+
+The spinach should be almost aggressively wilted. It'll continue breaking down when it sits. Undercook it slightly if you like texture.
+
+Salt the spinach separate from everything else. The sauce has enough salt already. The tofu doesn't need extra.
+
+Vegetarian asian tofu recipes usually skip the chicken broth and people worry about it. Doesn't matter. It adds depth. Use vegetable broth if it makes you feel better. Works the same.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Ginger Orange Tofu
+
+**Can I use silken tofu instead of firm?**
+No. It falls apart the second heat hits it. Firm or extra-firm only. Press it. Actually press it.
+
+**What if I don't have sesame oil?**
+Use a different oil for the spinach. Olive oil. Vegetable oil. It won't be the same but the spinach doesn't require it. The sesame seeds do the flavor work.
+
+**Does the spicy ginger tofu recipe need the sriracha?**
+No. The ginger does the work. The sriracha just pushes it further if you want actual heat. Skip it or double it.
+
+**Can I make this tofu stir fry ahead?**
+The sauce yes. The tofu no — it gets soft if it sits in liquid. Make it and serve it right away. Spinach reheats fine.
+
+**How do I know when the tofu is done cooking?**
+Look for that dark golden edge. Not brown. Not burnt. The color of old wood. You'll feel the difference too — it's firmer outside, still soft in the middle.
+
+**Is there a substitute for orange marmalade?**
+Maybe. Honey and orange zest would work. Apricot jam with a squeeze of orange juice. Haven't tried anything else so can't say for sure. The marmalade is why this recipe works though.
+
+**Can I add other vegetables to this easy tofu pan fry?**
+Sure. Bell peppers. Snap peas. Carrots. Just add them at the right time — softer stuff last so it doesn't turn to mush. The spinach works because it cooks fast and gets out of the way.
