@@ -1,10 +1,10 @@
 ---
-title: "Kentucky Butter Cake"
+title: "Kentucky Butter Cake Recipe with Rum Glaze"
 slug: "kentucky-butter-cake"
-description: "Rich bundt cake with deep buttery notes and a rum-infused glaze. Uses all-purpose flour, baking powder, and a touch of baking soda for tender crumb. Buttermilk keeps it moist and slightly tangy. Extracts add depth beyond simple vanilla. Sauce slow-warmed, never boiled, to keep buttery smoothness intact. Traditional bundt pan crucial for crust and soak. Cake’s texture soft but firm enough to hold sauce. Replace rum extract with bourbon or apple juice for twist. Results in 10 servings with 606 calories each, balanced carbs and fat. Reliable cake if you watch mixing and baking cues closely."
-metaDescription: "Kentucky Butter Cake rich bundt cake with rum and butter extracts, moist crumb from buttermilk, slow-warmed sauce for sticky crust, 10 servings packed with flavor"
-ogDescription: "Deep buttery Kentucky Butter Cake with rum-infused glaze. Moist, tender crumb; sauce melts slow, no boil. Use bourbon or apple juice for twists. Gets crust golden sticky."
-focusKeyphrase: "Kentucky Butter Cake"
+description: "Kentucky butter cake made with buttermilk, all-purpose flour, and butter extract. This bundt cake features a rich rum-infused glaze that soaks into every tender crumb for moist perfection."
+metaDescription: "Kentucky butter cake recipe using buttermilk and butter extract for rich flavor. Slow-warmed rum glaze keeps the crumb moist and tender. Make it tonight."
+ogDescription: "Rich bundt cake with buttermilk and butter extract, topped with a slow-warmed rum glaze that soaks in for moist, tender slices."
+focusKeyphrase: "Kentucky butter cake"
 date: 2026-01-05
 draft: false
 image: kentucky-butter-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "rum"
 keywords:
-- "butter cake"
+- "Kentucky butter cake"
+- "Kentucky butter cake recipe"
+- "butter cake with rum glaze"
 - "bundt cake"
-- "rum glaze"
+- "buttermilk bundt cake"
+- "rum butter cake"
+- "butter cake"
+- "homemade butter cake"
+- "dessert recipe"
+- "bundt cake recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "606"
@@ -69,3 +76,85 @@ faq:
 - "q: Best way to store leftovers? a: Wrap airtight plastic or foil to keep moisture in crumb. Fridge keeps longer but cake can dry hard. Room temp good short term but cover to avoid crust drying. Sauce soaked cake keeps moist longer. Freeze possible but wrap tight and thaw slow."
 
 ---
+
+Preheat to 320. Butter a 10-inch bundt pan like you mean it — grease, dust with flour, shake out the extra. This cake needs room to breathe but not stick.
+
+## Why You'll Love This Kentucky Butter Cake
+
+Takes an hour total but feels way fancier than that. The butter sauce soaks in while it's still warm, and you get this glossy, sticky top that tastes like comfort food should taste. Not fussy. No weird ingredients hiding. Just eggs, butter, sugar, and a hint of rum extract — the kind of dessert you make because you want cake, not because you're trying to impress someone. Leftovers stay moist for days. Honestly might taste better the next day. Serve it warm or room temperature. Cold works too if you're in a rush.
+
+## What You Need for a Homemade Butter Cake
+
+All-purpose flour. Two cups. Baking powder and baking soda — a teaspoon and a half, and a half. Don't mix them yet.
+
+Sugar. Granulated. One and a half cups for the batter, then another cup for the sauce. Just get two cups total and you're set.
+
+Four large eggs. Room temperature helps them whip up properly, but if they're cold, go faster on the mixer. Doesn't make a huge difference.
+
+Unsalted butter. A cup softened for the cake. Another half cup for the sauce. Softened means sit on the counter for 20 minutes, not melted — you need it to hold air when you cream it.
+
+Rum extract. A teaspoon in the batter, a teaspoon in the sauce. Bourbon works if that's what you have. Apple juice concentrate if you want to skip the alcohol — same sweetness, different vibe.
+
+Butter extract. Just a teaspoon. Sounds weird but it keeps the butter flavor from getting washed out by the liquid. Totally optional if you can't find it.
+
+Buttermilk. Three-quarters cup. If you don't have it, mix milk with a tablespoon of lemon juice and let it sit two minutes. It's fine.
+
+Water. Quarter cup for the sauce.
+
+## How to Make a Kentucky Butter Cake
+
+Oven goes to 320. Not 325. The lower temp keeps the crust from setting up too fast while the inside rises, which means softer cake all the way through. Takes 50 to 60 minutes. Center rack.
+
+Crack the eggs into a big bowl. Add the sugar. Mixer on high for about three minutes — you want it pale and fluffy, like whipped cream texture, not just mixed. This traps air pockets that make the cake tender instead of dense.
+
+Dump in the softened butter while the mixer's still going. Keep beating until it's all light and creamy again — another minute or so. Pour in the rum extract and butter extract. Then the buttermilk. Mix on medium-high until it comes together. Smooth. Airy. Not soupy. Don't keep going after that.
+
+Whisk the flour, baking powder, and baking soda in a separate bowl first. No lumps. Add it to the wet stuff gradually — fold it in gently or beat on low, your choice. Scrape the sides of the bowl constantly. The moment everything looks uniform, stop. Overmixing develops gluten and the cake gets weird and chewy instead of tender.
+
+Pour it into the pan. Tap the pan on the counter a few times to release big air bubbles. Bake 50 to 60 minutes. Don't just watch the clock — look for the cake pulling slightly away from the sides, the top turning golden, and a toothpick coming out with moist crumbs still stuck to it. Wet batter means it needs more time. Total dry toothpick means you went too far.
+
+## How to Get the Butter Sauce Right
+
+Cool it in the pan for 15 to 20 minutes. Not longer. If it's too hot, the sauce will slide right off. If it's too cold, the sauce won't soak in properly. Just warm enough that you can hold your hand on the outside of the pan.
+
+Melt the butter in a medium saucepan over low-medium heat. Add the sugar and water. Whisk gently. You're watching for the sugar to dissolve without crystallizing — keep the heat below a simmer. Tiny bubbles are fine. Boiling is not. Takes a couple minutes. You'll see it go glossy and thick.
+
+Kill the heat. Stir in the rum extract. Let it cool for just a minute — you want it hot but not instantly steaming. Pour off a third of the sauce into another bowl and set it aside for drizzling later. Pour the rest slowly over the cake while it's still in the pan. Wait 10 to 12 minutes for it to absorb. Don't rush this. The cake needs time to drink it up or the sauce just pools at the bottom.
+
+Flip the cake onto a serving plate. Drizzle the reserved sauce over the top. Should glisten. Should feel sticky but not soggy. Slice with a serrated knife for clean cuts instead of tearing through the crumb.
+
+## Kentucky Butter Cake Tips and Common Mistakes
+
+Room temperature butter creams better than cold. If yours is too hard, cut it into chunks and let it sit while you're getting other stuff ready.
+
+Don't sift the flour into the batter dry. Sift it first, then add it. Two different things. One keeps the batter light, one adds lumps.
+
+The sauce gets too thick sometimes. Add a tablespoon of hot water and stir. It'll loosen right up.
+
+Buttermilk is not optional. It reacts with the baking soda and creates rise. Regular milk doesn't do the same thing. If you don't have it, make the substitute. Actually works.
+
+The pan needs flour dusted in it. Butter alone isn't enough. It helps the cake climb the sides instead of sticking in the center.
+
+Warm is best. Room temperature is great. Cold it's fine but loses some of that soft texture. Reheat briefly if you want it warm again.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Kentucky Butter Cake
+
+**Can you use a regular cake pan instead of a bundt?**
+Yeah. Use a 9-inch round or 8-inch square. Baking time might shift a bit — check earlier, maybe around 45 minutes. The cake won't look as dramatic but tastes the same.
+
+**What if the toothpick isn't coming out right?**
+Moist crumbs clinging to it means done. Wet batter means five more minutes. There's a window of like two minutes where it's perfect, so check often once you hit 50 minutes.
+
+**Does the rum extract actually taste like rum?**
+Not really. It's warm and a little floral. Tastes more like butter and sugar happened to have a moment together. If you want actual rum flavor, use bourbon or real rum instead.
+
+**How long does it keep?**
+Stays moist wrapped up in the fridge for five days. Tastes better on day two. Can freeze it too — wrap it tight, thaw at room temperature.
+
+**What if I don't have buttermilk?**
+Make it. Milk plus lemon juice. One cup milk, one tablespoon lemon juice, wait two minutes. Done. Works every time.
+
+**Can you make this ahead?**
+Bake it the day before. Pour the sauce on before you store it. The cake soaks it up overnight and gets even more moist and tender. Honestly probably better that way.
