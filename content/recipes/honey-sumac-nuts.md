@@ -1,10 +1,10 @@
 ---
-title: "Honey Sumac Candied Nuts"
+title: "Honey Sumac Candied Nuts with Cumin"
 slug: "honey-sumac-nuts"
-description: "Nuts toasted in olive oil, glazed with honey and sumac, spiced with cumin, cayenne, and finished with fleur de sel. Mixed nuts with altered quantities for texture contrast. Quick stovetop method relying on visual and tactile cues rather than strict times. Offers a crunchy, sweet, tangy, and mildly spicy bite, shelf-stable for up to a month sealed out of heat and light."
-metaDescription: "Honey Sumac Candied Nuts toasted in avocado oil, glazed with agave syrup, spiced with cumin and smoked paprika, salt flakes for crunch and tangy bite."
-ogDescription: "Crunchy nuts toasted in oil, glazed with agave and sumac, dusted with cumin, smoked paprika, and sea salt flakes. Tangy, sweet, smoky layers in every bite."
-focusKeyphrase: "sumac candied nuts"
+description: "Candied nuts made with walnuts, cashews, and pistachios glazed in honey and sumac with cumin. Crunchy, sweet, tangy snack ready in minutes on the stovetop."
+metaDescription: "Make candied nuts with walnuts, cashews, and pistachios glazed in sumac and honey. Spiced with cumin for a crunchy, tangy vegetarian snack. Try it tonight."
+ogDescription: "Sumac glazed mixed nuts with walnuts, cashews, and pistachios. Sweet, tangy, spiced snack made on the stovetop."
+focusKeyphrase: "candied nuts"
 date: 2025-09-30
 draft: false
 image: honey-sumac-nuts.jpg
@@ -21,9 +21,18 @@ tags:
 - "spicy"
 - "roasted"
 keywords:
-- "sumac"
 - "candied nuts"
-- "toasted nuts"
+- "sumac glazed mixed nuts"
+- "honey roasted nuts with sumac"
+- "spicy candied nuts recipe"
+- "roasted nuts"
+- "stovetop candied nuts with sumac and cumin"
+- "vegetarian snack"
+- "honey cashews and walnuts with cumin"
+- "roasted nuts with agave and sumac powder"
+- "homemade candied nuts"
+- "glazed mixed nuts recipe"
+- "sumac walnut cashew snack"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "220"
@@ -62,3 +71,49 @@ faq:
 - "q: How long keep nuts crisp? a: Up to 4 weeks sealed, cool, dry spot. Humidity kills crunch fast, refrigerate no good glaze draws moisture. If softened, toss back in dry pan heat briefly. Airtight solid container key, avoid plastic bags with air gaps."
 
 ---
+
+Warm the skillet. Oil shimmers. Nuts go in. Listen for the crackle—that's your timer, not the clock. Six minutes until they smell like they're actually toasted, until the edges catch that color. Then comes the part everyone messes up.
+
+## Why You'll Love This Honey Sumac Candied Nuts Recipe
+
+Works as a snack straight from the container. Or scattered over salads, yogurt, cheese boards—basically anywhere you want something that crunches and has a hit of spice and sweetness at the same time. Takes 32 minutes total, most of that just waiting for them to cool. No special equipment. One skillet. Vegetarian, obviously. The sumac and smoked paprika do something weird together—tangy and smoky in a way that makes you want another handful before you've finished the first one. Stores for a month if you don't eat them first, which you will.
+
+## What You Need for Roasted Nuts with Agave and Sumac Powder
+
+Walnuts. Two-thirds cup. Cashews—half a cup. Pistachios, the smaller amount, three tablespoons. They stay prettier whole, don't break down. Avocado oil. Not olive—burns too fast at this heat. A tablespoon. Agave syrup instead of honey because it caramelizes without crystallizing. One tablespoon does it. Sumac powder. Two teaspoons. This is the thing that makes it not just candied nuts. The tanginess. Ground cumin—a teaspoon, sounds like a lot but it's not. Smoked paprika, just a pinch, an eighth of a teaspoon. Maldon sea salt flakes, half a teaspoon, the kind that crunches and doesn't dissolve immediately.
+
+## How to Make Stovetop Candied Nuts with Sumac and Cumin
+
+Heavy skillet. Medium heat. Pour the oil in and wait for the shimmer—not smoke, shimmer. That's when you add the nuts. All of them mixed together. Stir constantly from this point forward. You're listening now. The crackle starts soft and gets louder. Watch for golden edges creeping in. The smell tells you everything. Toasty, warm, a little nutty. Around six minutes but your nose knows better than any timer. When the edges start catching color, drop the heat slightly.
+
+Drizzle the agave over everything. Not all at once. Slow drizzle. Then the sumac, the cumin, the paprika. Stir fast. The syrup melts and coats each nut. It bubbles lightly—good. It thickens around them—also good. One to two minutes maximum. The glaze should smell sweet and smoky and tangy all at once. If it starts smelling burnt, you were too slow. That's a learning thing. Happens once.
+
+Heat off. Sprinkle the salt flakes across. Stir one more time, really make sure every nut gets coated. The salt crunches against the glaze.
+
+## Honey Roasted Nuts with Sumac—Tips and Storage
+
+Transfer them hot to parchment or a silicone mat. Spread them out thin. Don't pile them. They stick together if you pile them. As they cool the glaze hardens. It gets this matte sheen. Tacky but not sticky. Let them sit until they're actually cool to the touch. Maybe 15 minutes. Room temperature. They'll keep for up to four weeks in an airtight container if you're patient enough not to eat them all in three days. Which you won't be. If they get soft—humidity happens—just toast them in a dry skillet for two minutes. Crispness comes back.
+
+The sumac doesn't fade. If anything it gets sharper as they cool. The sweetness settles. By the next day they taste better. Don't ask why. They just do.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spicy Candied Nuts Recipe
+
+**Can I use honey instead of agave syrup?**
+You can. Honey crystallizes though, so the coating gets grainy instead of smooth. Agave stays glassy. Better choice.
+
+**What if I don't have sumac?**
+Don't make this. The sumac is the whole point. It's tangy and weird in the best way. Lemon zest doesn't do the same thing. Just doesn't.
+
+**How do I know when the glaze is done cooking?**
+One to two minutes after you add it. The syrup bubbles lightly. Doesn't smell burnt. The nuts look wet and shiny. That's it.
+
+**Can I make honey cashews and walnuts with cumin without the paprika?**
+Yeah. Skip it. You lose some depth but they're still good. The cumin and sumac carry it.
+
+**Do I need Maldon salt or is regular salt fine?**
+Regular dissolves into the glaze. Maldon stays crunchy and textured. Matters more than you'd think. That crunch is half the point.
+
+**Can I double the recipe?**
+Two skillets at once. One skillet doubled is too much—the nuts don't toast evenly. They get crowded and steam instead of roast.
