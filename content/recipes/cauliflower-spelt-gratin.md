@@ -1,10 +1,10 @@
 ---
-title: "Cauliflower Spelt Gratin"
+title: "Cauliflower Spelt Gratin with Cheesy Béchamel"
 slug: "cauliflower-spelt-gratin"
-description: "Cauliflower tossed with spelt grains, baked under a cheesy béchamel crust. Oregano and smoked paprika swap in for traditional notes. Pearled spelt replaces whole grain for quicker cooking. White wine simmer curls aroma early. Cauliflower blanches just right, tender-crisp. Creamy sauce edged with nutty gruyère and Parmesan, toasted paprika-chili mix for the top. Oven caramelization signals the final step. A bit of preserved lemon zest adds a surprising tang. Keeps well chilled, reheats easily without drying out. No eggs or nuts. A great vegetable entrée or side to roasted meats."
-metaDescription: "Cauliflower Spelt Gratin bakes tender cauliflower and toasted pearled spelt in rich béchamel topped with Gruyère and Parmesan crust; smoky paprika adds depth."
-ogDescription: "Tender cauliflower, nutty spelt grains stewed with white wine and oregano, creamy béchamel, cheesy browned top with smoked paprika and zesty preserved lemon."
-focusKeyphrase: "Cauliflower Spelt Gratin"
+description: "Cauliflower spelt gratin combines pearled spelt, tender cauliflower florets, and creamy béchamel sauce with Gruyère and Parmesan cheese, topped with smoked paprika for a satisfying vegetarian entrée."
+metaDescription: "Make this cauliflower spelt gratin with pearled spelt, whole milk béchamel, Gruyère, and Parmesan cheese. Comfort food that reheats beautifully. Try it tonight."
+ogDescription: "Pearled spelt meets roasted cauliflower in this cheesy béchamel gratin with smoked paprika and preserved lemon zest."
+focusKeyphrase: "cauliflower spelt gratin"
 date: 2025-08-17
 draft: false
 image: cauliflower-spelt-gratin.jpg
@@ -21,9 +21,15 @@ tags:
 - "spelt"
 - "comfort food"
 keywords:
+- "cauliflower spelt gratin"
 - "cauliflower gratin"
-- "spelt grains recipe"
-- "béchamel casserole"
+- "spelt grain recipes"
+- "cheesy béchamel cauliflower bake"
+- "vegetarian cauliflower spelt gratin"
+- "comfort food cauliflower recipe"
+- "pearled spelt and roasted cauliflower gratin"
+- "baked cauliflower with smoked paprika and oregano"
+- "cauliflower spelt bake with cheese sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -82,3 +88,98 @@ faq:
 - "q: Storage and reheating tips? a: Cool completely first, cover tightly or freeze in airtight container. Reheat under broiler or in oven to bring back crisp topping. Microwave softens crust, so better for quicker reheating but expect less crunch. Use leftovers within 3-4 days refrigerated."
 
 ---
+
+Shallots, garlic, spelt grains going into hot oil—that nutty toast smell hits before the wine does. Three minutes later it's all softening down, stock going in, and you've got this golden thing happening that looks way more complicated than it actually is. Cauliflower florets blanched and waiting. Béchamel coming together in a saucepan. Fifty minutes total in the oven and it's done. That's the whole thing.
+
+## Why You'll Love This Cauliflower Spelt Gratin
+
+One pan. Actually two, but one of them is just resting. Comes out cheesy and warm in a way that fills the room.
+Pearled spelt has this chewiness—not mushy like rice gets. Sits under the béchamel and doesn't disappear.
+Works as the main thing or next to something light. Had it with kale salad. Also had it alone at 10 PM.
+Takes 1 hour 25 minutes total, most of which is just waiting. Doesn't need babysitting.
+Vegetarian comfort food that actually tastes like something. Gruyère does that. Smoked paprika helps.
+
+## What You Need for Vegetarian Cauliflower Spelt Gratin
+
+Two shallots. Finely chopped. Matters more than you'd think—they go soft and sweet, not raw.
+Three garlic cloves. Mince them small.
+Olive oil or clarified butter. Three tablespoons. Olive oil works fine. Clarified butter if you want to feel fancy, but it's the same outcome.
+Pearled spelt grains. Three quarters of a cup. The grains specifically, not spelt flour. Chewier than farro. Nuttier.
+Dry white wine. Half a cup. Needs to be something you'd drink. Doesn't have to be expensive.
+Vegetable or chicken stock. Three cups. I've used both. Stock matters more than which one.
+One sprig of fresh oregano. Fresh. Dried burns.
+
+For the gratin itself: medium cauliflower, cut into florets. Medium means like the size of your fist, not those tiny ones.
+Unsalted butter. Quarter cup. For the roux. Salted butter works; just cut back on salt later.
+All-purpose flour. Quarter cup. Raw flour tastes bad. That's why you cook it first.
+Whole milk. Three cups. Full fat or it won't coat right.
+Freshly grated Parmesan. Half a cup. The block kind. Pregrated loses its—something. Just tastes different.
+Smoked paprika and cayenne. Quarter teaspoon each. Not a lot. Both together.
+Panko breadcrumbs. Two tablespoons.
+Gruyère or another firm cheese. One cup grated. This is the top. Parmesan alone is too sharp. Gruyère gets creamy when it melts.
+Preserved lemon zest. Two tablespoons. Optional but it cuts the richness in a way nothing else does.
+
+## How to Make Cauliflower Spelt Gratin
+
+Get a large skillet—needs to be ovenproof because it's going in the oven later. Medium-high heat. Once it's hot, oil goes in with the shallots and garlic. Three minutes. Watch for translucent, not brown. You want soft and sweet.
+
+Spelt grains go in next. Stir hard for about 90 seconds. That's the toasting. Smells nutty almost immediately. You'll know when it's done because the smell changes. Salt and pepper now.
+
+Pour the white wine in. It bubbles hard. Watch it. Don't walk away. Wine should cook down almost dry—there'll still be some liquid but not much. Then stock goes in. Fresh oregano sprig. Bring it to a low boil, cover it, drop the heat to medium-low.
+
+Eighteen minutes. Could be 16. Could be 20. Spelt is weird about how much liquid it wants depending on humidity and which batch you bought. Check it around minute 15. You're looking for tender but still chewy. Not mushy. Not crunchy either.
+
+## How to Get Cauliflower Spelt Gratin Crispy and Golden
+
+While the spelt's doing its thing, oven goes to 205°C (400°F). Center rack.
+
+Cauliflower florets get blanched in salted boiling water. Four to six minutes. Not longer. Use a fork—push gently into a floret. Should go through with a tiny bit of resistance. Then drain it completely. Water on the florets means the top won't crisp. It'll steam instead.
+
+Béchamel's the part that looks scary. Isn't. Medium heat, butter melts completely. Whisk flour in—and whisk it. Keep whisking for maybe 90 seconds. It'll bubble slightly. That's cooking out the raw flour taste. If you skip this step it tastes pasty.
+
+Milk goes in gradually while you whisk. Don't dump it. Pour slowly, keep moving the whisk. Once it's all in, turn heat up a bit and keep it going until the sauce boils gently and gets thick. Coats the back of a spoon. Then stop. Off heat immediately or it gets lumpy and breaks.
+
+Parmesan whisked in. Smoked paprika. Cayenne. Salt. Preserved lemon zest if you're using it. The zest does something weird to béchamel—makes it taste less heavy. Not lemon-y. Just lighter somehow.
+
+Cauliflower goes into the spelt pan. Pour the béchamel over it. Spread it around.
+
+Panko mixed with the last of the Parmesan. Scattered on top. Then Gruyère over that. Cover loosely with foil—it can sit like this for hours if you want. Cold gratin takes 10 more minutes in the oven.
+
+Fifteen to twenty minutes uncovered at 400°F. You're watching for the edges to bubble and the top to go from pale to gold to sort of amber-brown. Not dark brown. Amber.
+
+## Cauliflower Spelt Gratin Tips and Common Mistakes
+
+The spelt texture is everything. Undercooked it's bitter. Overcooked it falls apart. Taste it around minute 15. If it's still hard, give it a few more minutes. If it's falling apart, it's done.
+
+Milk temperature matters for the béchamel. Cold milk hitting hot roux makes lumps. Pour it in slowly and whisk constantly. If it does lump, strain the whole thing through a fine sieve. Pain, but it works.
+
+Moisture is the enemy of a crispy top. Cauliflower must be completely dry. Pat it with paper towels after draining if it looks wet.
+
+The pan can be assembled hours ahead. Covered with foil, in the fridge. Comes out fine. Maybe better—gives the flavors time to settle.
+
+Cheese on top shouldn't be thick. Scattered. If it's mounded it gets brown before the filling gets hot. Spread it out.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cauliflower Spelt Gratin
+
+**Can I make this vegetarian cauliflower spelt gratin ahead?**
+Yes. Assemble it completely, cover with foil, chill. Add 10 minutes to the bake time. Works fine either way.
+
+**What if I don't have pearled spelt grains?**
+Farro works. Also barley. Rice doesn't have the same chewiness. Orzo turns mushy. Stick with grains that hold their shape.
+
+**Can I use frozen cauliflower?**
+Sort of. Thaw it completely and pat it dry. Frozen has extra water. You'll need to drain it carefully or the top won't crisp. Fresh is easier.
+
+**Why does my béchamel always get lumpy?**
+Cold milk. Pour it slowly and whisk hard. If it happens anyway, strain it through a fine sieve or blend it. Takes the lumps out.
+
+**How long does this keep?**
+Three days in the fridge, covered. Reheats fine at 350°F for about 15 minutes until hot through. The top won't re-crisp the same way but it's still good.
+
+**What's the preserved lemon zest for?**
+Cuts the richness. Makes the béchamel taste lighter without tasting like anything specific. Optional. Doesn't change the dish that much if you skip it.
+
+**Can I use a different cheese on top?**
+Gruyère's the move because it melts creamy. Emmental works. Aged cheddar gets grainy. Swiss gets oily. Gruyère or stick with what you have—it'll taste different but it'll be fine.
