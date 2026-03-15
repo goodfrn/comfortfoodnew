@@ -1,10 +1,10 @@
 ---
-title: "Chunky Fiery Salsa"
+title: "Chunky Fiery Salsa Recipe with Chipotle"
 slug: "chunky-fiery-salsa"
-description: "Bold salsa with a zip from chipotle and lime, chunky textures from mixed peppers and ripe tomatoes, simmered to thicken with cornstarch. Nine half-liter jars yield. Vegan, gluten-free, dairy- and nut-free. Tosses sweet, smoky, tangy, and heat in a rustic conserve. Uses fresh tomatillos plus tomatoes for body and acidity. Balances sweet cassonade and sharp white vinegar. Jalapeños give kick. Cook 'til bubbles steady and salsa thickens, no overcooking or it turns mushy. Perfect for canning cold winter days and backyard gatherings alike."
-metaDescription: "Chunky Fiery Salsa blends tomatillos, tomatoes, jalapeños, smoky chipotle, simmered thick with cornstarch. Yields nine jars bursting with zest and texture."
-ogDescription: "Tomatillos and peppers simmer to spicy thick salsa. Chunky, smoky, tangy with chipotle heat and bright lime punch. Batch fills nine jars, ready for cold days."
-focusKeyphrase: "Chunky Fiery Salsa"
+description: "Bold chunky salsa with chipotle, lime, jalapeños, and mixed bell peppers. Fresh tomatoes and tomatillos create authentic texture. Thickened with cornstarch for perfect consistency."
+metaDescription: "Make chunky fiery salsa with chipotle, lime juice, jalapeños, and fresh tomatoes. Vegan, gluten-free, and perfect for canning. Try it tonight."
+ogDescription: "Bold and spicy salsa with chipotle, fresh tomatoes, tomatillos, jalapeños, and bell peppers. Thickened, smooth, and ready to can."
+focusKeyphrase: "chunky fiery salsa"
 date: 2025-08-10
 draft: false
 image: chunky-fiery-salsa.jpg
@@ -21,9 +21,16 @@ tags:
 - "vegan"
 - "gluten free"
 keywords:
-- "chunky salsa"
-- "fiery salsa"
-- "homemade salsa"
+- "chunky fiery salsa"
+- "salsa recipe"
+- "homemade salsa with chipotle and lime"
+- "spicy salsa"
+- "chunky salsa with bell peppers and tomatillos"
+- "fresh tomato salsa with jalapeños and garlic"
+- "vegan salsa recipe"
+- "gluten free salsa"
+- "canned salsa recipe with cornstarch thickener"
+- "mexican salsa"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "45"
@@ -72,3 +79,63 @@ faq:
 - "q: How to store salsa after opening? a: Refrigerate promptly with lid sealed. Use within few weeks ideally. Freeze option works if jar full enough with air minimized. Don’t reuse jars once opened for long term unless reprocessed. Label with dates. Avoid leaving at room temperature once opened."
 
 ---
+
+Gather three pounds of tomatoes and stop. This happens every summer—too much. So you make salsa, jar it, pretend you're prepared for next winter. It works.
+
+## Why You'll Love This Homemade Salsa with Chipotle and Lime
+
+Takes 45 minutes hands-on, then the jars do the work for you. Vegan, gluten free, no weird stuff hiding in it. The chunky salsa with bell peppers and tomatillos actually tastes like something—not a watered-down grocery store jar. Heat's adjustable. You control the jalapeños. And it sits in your pantry for months. Crack a lid open in February when you forgot summer existed.
+
+## What You Need for Chunky Fiery Salsa
+
+Three pounds of plum tomatoes. Ripe ones. Not those hard pink things. A can of tomatillos—18 ounces, drained. One white onion, big enough to matter. Three colored bell peppers. Any color works but red tastes better. One green pepper too. Jalapeños. Fresh ones. About a third cup, maybe more if you want actual heat. Three garlic cloves. One small can of tomato paste—that's five and a half ounces. Apple cider vinegar. Not white vinegar. Apple cider's less sharp, less mean. Brown sugar, just a tablespoon. Coarse pickling salt. Smoky chipotle sauce and smoked paprika—both tablespoons. Cornstarch mixed with fresh lime juice to thicken it. That's the secret nobody talks about. No pectin, no weird gelling agents. Just cornstarch.
+
+## How to Make Fresh Tomato Salsa with Jalapeños and Garlic
+
+Chop the tomatoes rough. Not fine—chunks matter here. Quarter the tomatillos. Dice the peppers small. Mince the onion and garlic. This part takes a while. Maybe 20 minutes if you're slow. Not a timer thing. Just go.
+
+Dump everything into a heavy pot—tomatoes, tomatillos, onion, all the peppers, jalapeños, garlic, tomato paste, vinegar, sugar, salt, chipotle, paprika. High heat. Let it go until it's boiling hard. Then drop it down to a steady simmer. Not quite a boil. Just bubbling. Stir every few minutes. Listen for the sound to change—from angry bubbles to something softer. Skins start peeling off the tomatoes. Peppers go slack. That's around 30 minutes. Maybe 25 if your heat's strong. Maybe 35 if it's not.
+
+## How to Get Chunky Salsa Thickened Right
+
+Mix three tablespoons of cornstarch with a third cup of lime juice in a small bowl. Stir it smooth. No lumps. This slurry doesn't clump like cornstarch usually does. It just thickens.
+
+When the salsa looks shiny and thick enough that it clings slightly to a spoon—not watery, not gelatinous—pour in the cornstarch mixture. Stir it through. Cook three more minutes. Watch it. The texture changes fast. You want it to feel like something with weight, not salsa soup.
+
+Taste it now. Adjust the salt. Adjust heat if you need to. It should hit all of it—smoky, hot, sharp, a hint of sweet underneath.
+
+## Canned Salsa Recipe Tips and Sealing Jars Right
+
+Sterilize your jars before you start. Hot water, five minutes. Hot bands and lids too. Wet kitchen towel nearby.
+
+Ladle salsa into the hot jars. Leave a centimeter of space at the top. This isn't optional. Then take a chopstick or a non-metal spatula and slide it down the inside of each jar, pop out the air bubbles. The salsa collapses slightly. Do it again. Jars explode in the bath if you skip this.
+
+Wipe the rims clean. Any salsa on the rim means the lid won't seal. Use a damp cloth. Get it clean.
+
+Center the lid, screw the band on finger-tight. Not wrench-tight. Finger-tight.
+
+Set the jars on the canning rack in your pot. Cover with two and a half centimeters of water. Bring it to a rolling boil over high heat, cover the pot. Once boiling, set a timer for 18 minutes. Don't open it. Don't peek. Just wait.
+
+Tongs out, jars out, set them upright on a towel to cool. The lids will pop down with a click. That sound means sealed. If one doesn't seal, refrigerate it. Use it first.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegan Salsa Recipe
+
+**Can I use fresh tomatillos instead of canned?**
+Sure. Three-quarters of a pound of fresh ones. Husk them, rinse, quarter them. They're less acidic than canned so maybe add a tablespoon more vinegar. Haven't tested it myself but the math works.
+
+**How spicy is this chunky salsa with jalapeños and garlic?**
+Depends on the jalapeños. Sometimes they're basically mild. Sometimes they hit. Start with a third cup. Taste it raw before you add it. If it makes you sweat, cut it in half. You can always add more heat.
+
+**Does the cornstarch thickener really work without clumping?**
+Yeah. But only if you mix it smooth with the lime juice first. Just lime juice, no water. Stir it until there's zero grit. Then add it to the hot salsa. Works every time.
+
+**Can I freeze this instead of canning it?**
+Obviously. Jars work fine in the freezer. Leave headspace. But then you lose the whole point—shelf life, not touching it for months, that specific pantry satisfaction.
+
+**What if my salsa's too thick?**
+Add more lime juice. Tablespoon at a time. It loosens up and adds tartness. Too thin? Another minute of heat, sometimes two. The cornstarch keeps thickening as it cools slightly anyway.
+
+**Can I use this canned salsa recipe with different peppers?**
+Red bells taste better than green. But yellow, orange, those work. Skip the poblano thing. Too smoky already. Stick with bell peppers and the jalapeños do the heat. Tomatillos are the wild card—they're not a pepper but they matter. Don't replace them.
