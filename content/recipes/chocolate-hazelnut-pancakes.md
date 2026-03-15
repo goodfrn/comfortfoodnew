@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Hazelnut Pancakes"
+title: "Chocolate Hazelnut Pancakes with Nutella"
 slug: "chocolate-hazelnut-pancakes"
-description: "Fluffy, chocolate-infused pancakes with a Nutella twist made using dutch-process cocoa swapped for natural cocoa powder. Slightly adjusted flour and sugar to keep batter balanced. Substituted coffee for strong black tea—adds subtle earthiness without bitterness. Mixed dry ingredients first to activate leavening early; then warm milk blends better with Nutella, creating a glossy batter. Watch bubbles carefully; timing flips by surface activity, not clock. Toasted hazelnuts add crunch contrast. Butter sizzles as batter hits pan, aromas rise, edges firm up, signaling perfect flip moment. Use neutral oil for softness; swap whole milk for oat milk if out. Small lumps are friends, mixing overkills gluten, tough pancakes result. 6 stack tall. Flexible, forgiving, and rewarding once you nail these sensory cues."
-metaDescription: "Chocolate Hazelnut Pancakes with oat milk, black tea infusion, toasted hazelnuts. Fluffy stacks, sensory cues guide flips, less mixing, buttery edges, nutty crunch."
-ogDescription: "Fluffy chocolate hazelnut pancakes, folded not stirred, black tea swap, toasted hazelnuts for crunch, watch bubbles and edges for flip. Sensory cooking, no timers."
-focusKeyphrase: "Chocolate Hazelnut Pancakes"
+description: "Fluffy chocolate hazelnut pancakes made with natural cocoa powder and Nutella. Brewed black tea adds subtle earthiness. Topped with toasted hazelnuts for perfect texture."
+metaDescription: "Make chocolate hazelnut pancakes with natural cocoa powder and Nutella. Black tea, hazelnuts, and oat milk create fluffy, rich breakfast. Make it tonight."
+ogDescription: "Fluffy chocolate hazelnut pancakes with Nutella, natural cocoa, and toasted hazelnuts. Perfect breakfast comfort food."
+focusKeyphrase: "chocolate hazelnut pancakes"
 date: 2025-10-03
 draft: false
 image: chocolate-hazelnut-pancakes.jpg
@@ -21,9 +21,16 @@ tags:
 - "hazelnut"
 - "comfort food"
 keywords:
-- "chocolate pancakes"
-- "nutella recipe"
-- "hazelnut breakfast"
+- "chocolate hazelnut pancakes"
+- "nutella pancakes"
+- "fluffy chocolate pancakes"
+- "hazelnut pancakes"
+- "chocolate pancakes recipe"
+- "cocoa powder pancakes"
+- "breakfast pancakes"
+- "toasted hazelnut breakfast"
+- "nutella breakfast recipe"
+- "chocolate breakfast pancakes"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "340"
@@ -72,3 +79,98 @@ faq:
 - "q: How to store leftovers? a: Cool pancakes fully before stacking. Wrap airtight or freeze in single layers with parchment. Reheat in oven or skillet to crisp edges again. Avoid microwave unless short burst; pancakes limp quickly. Leftovers last 2 days refrigerated or 1 month frozen with decent texture preservation."
 
 ---
+
+Bubbles breaking the surface—that's your flip signal. Not a timer. Not a guess. The edges go matte and that's it. Twelve minutes of prep, nine of cooking, and you've got stacks that taste like Nutella went through a blender with cocoa powder and decided to become breakfast.
+
+## Why You'll Love These Chocolate Hazelnut Pancakes
+
+Takes 21 minutes start to finish. Comfort food that doesn't feel like you're spending your whole morning in the kitchen.
+
+The batter's shiny. Not lumpy. Not separated. That's the Nutella doing something you don't get from regular pancakes—everything stays together instead of breaking apart halfway through cooking.
+
+Crispy edges if you use butter. Soft all the way through. Works cold the next day too, though you won't have leftovers.
+
+Hazelnut pancakes without buying a hazelnut pancake mix. Just cocoa powder and Nutella. One bowl for dry, one for wet. Doesn't get easier.
+
+## What You Need for Chocolate Hazelnut Breakfast Pancakes
+
+All-purpose flour. Not cake flour. The protein matters for structure. One and seven-eighths cups gets you the right amount.
+
+Granulated sugar—three tablespoons. Cocoa powder has to be unsweetened natural, not dutch-process. Different flavor. More acid. Better rise with the baking soda.
+
+Baking powder and baking soda both. Two teaspoons and half a teaspoon. They do different things. Don't skip either one.
+
+Kosher salt, coarse kind. Half a teaspoon. Starch and leavening churn first, which sounds weird but matters—you whisk the dry stuff before anything else touches it.
+
+Warm oat milk or whole milk. Cup of it. Warm means Nutella melts instead of sitting there in chunks. Strong brewed black tea—three tablespoons, hot. Sounds strange. It's not. Just rounds out the cocoa flavor so it doesn't taste medicinal.
+
+Nutella. Half a cup. The star. Stir it into the warm milk with the hot tea and patience wins—couple seconds and it loosens completely.
+
+Eggs, vanilla, neutral oil. Two eggs, a teaspoon of vanilla, three tablespoons of avocado or refined coconut oil. Butter or spray for the pan. Butter gives crisp edges. Spray avoids burning.
+
+Chopped toasted hazelnuts and fruit for the top. Berries work. Banana slices work. Or just Nutella again.
+
+## How to Make Fluffy Chocolate Pancakes with Nutella
+
+Mix the dry stuff first. Flour, sugar, cocoa powder, baking powder, baking soda, salt. Whisk it in a large bowl until everything's even. This step matters. Starch and leavening churn together before anything wet touches them.
+
+Warm the milk about forty seconds in the microwave. Not scalding. Just warm. It helps Nutella melt instead of clumping. Then stir the Nutella into the warm milk with the hot brewed black tea. Give it patience. A few seconds and the Nutella loosens completely. If you use cold milk, lumps get stubborn.
+
+Whisk the eggs, vanilla, and neutral oil into that Nutella-milk blend until it's completely even. Glossy mix means it's ready. That's your signal.
+
+Pour the wet into the dry. Fold with a rubber spatula just until moistened. The batter should look lumpy. Extra stirring toughens the crumb. Stop when the streaks are mostly gone.
+
+Heat your skillet or griddle on medium. Test with a drop of water—if it dances and evaporates quick, the pan's ready. Brush it with butter or spray. Butter gives crisp edges.
+
+Scoop about a quarter cup of batter onto the pan. Don't crowd. Give pancakes room to spread. Watch for bubbles breaking the surface, edges losing that wet shine. That's your flip zone. Flip gently, listen for the hiss, cook another minute or two until it feels set inside. Undercooked feels jiggly.
+
+## How to Get Cocoa Pancakes with Nutella Swirl Crispy and Perfect
+
+The pan temperature matters more than anything else. Medium is right. Too hot and the outside burns before the inside cooks. Too low and they get dense instead of fluffy.
+
+Butter on the pan gives you crisp edges because the dairy solids brown. Spray is faster, cleaner, but you lose that texture. Pick one and commit.
+
+The flip happens when bubbles break the surface. Not when the timer says so. The edges go matte—that's the actual signal. If you flip too early, the bottom's wet and it falls apart. Too late and the top starts cooking unevenly.
+
+The second side cooks faster. Minute, maybe two. The chocolate hazelnut pancakes batter's denser because of the Nutella, so it needs longer on side one than you'd think. Not forever though.
+
+Keep them warm on low heat under foil if you're making multiple batches. Foil traps steam so they don't dry out. Stack them high when you plate. Slather with extra Nutella, sprinkle chopped toasted hazelnuts on top. Fresh berries or banana slices work too. Eat immediately or they get soggy.
+
+## Chocolate Hazelnut Breakfast Pancakes Tips and Common Mistakes
+
+Don't skip warming the milk. Cold milk means the Nutella stays clumpy. Warm milk—even thirty seconds—fixes it completely.
+
+The dry ingredients go in a whisk together first. This isn't optional. The baking powder and baking soda need to be distributed evenly or some pancakes rise and others don't.
+
+Overstirring the batter makes them tough. Lumps are fine. Keep them. A few lumps means the gluten hasn't overdeveloped.
+
+The brewed black tea sounds like a weird move. It isn't. Skip it if you want, but it keeps the cocoa flavor from tasting flat. Not noticeable, just—better.
+
+If the first pancake spreads too thin, the pan's too hot. Lower it slightly. If they're pale and don't get color, the pan's not hot enough. There's a sweet spot where they brown in about ninety seconds per side.
+
+Nutella-based pancakes taste different cold. Not bad. Different. Better the day they're made, obviously. Room temperature is fine. Reheating dries them out slightly but tastes fine.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Hazelnut Pancakes
+
+**Can I use dutch-process cocoa powder instead of natural cocoa powder?**
+Tastes different. Dutch-process is milder, less acidic. Natural cocoa reacts with the baking soda so the rise works better. They'll still cook but won't be as fluffy.
+
+**What if I don't have brewed black tea?**
+Skip it. Pancakes still taste good. The tea just rounds out the cocoa so it doesn't taste medicinal. Without it, the chocolate flavor gets sharper.
+
+**How do I know when to flip?**
+Bubbles break the surface. Edges go matte, lose that wet shine. Flip gently one time only. Listen for the hiss.
+
+**Can I make the batter ahead?**
+Yeah, maybe two or three hours. Sits in the fridge fine. Might lose a bit of rise but tastes the same. Stir once before you use it.
+
+**Why does the second side cook faster than the first?**
+Bottom side needs longer because it's got to set through before flipping. Top side's already been exposed to heat from below, so it needs less time. Minute, maybe ninety seconds.
+
+**Do I need to use Nutella specifically or can I use hazelnut spread?**
+Nutella works best because it's got the right consistency. Other hazelnut spreads vary. Some are thicker, some thinner. Adjust the milk amount if you switch—the batter should be thick enough to hold together but loose enough to spread a bit on the pan.
+
+**What's the best way to keep them warm while I finish cooking?**
+Low heat, foil tent. The foil traps steam. Stack them, don't pile them loose. Loose stacks dry out.
