@@ -1,9 +1,9 @@
 ---
-title: "Celeriac Purée with Parmesan and Leek"
+title: "Celeriac Puree with Leek and Pecorino"
 slug: "celery-puree-parmesan-leek"
-description: "Silky celeriac purée with sautéed leek, aged Pecorino, and garlic. Olive oil-based, naturally gluten-free. A sophisticated starter or side dish."
-metaDescription: "Celeriac purée recipe with leek and Parmesan. Velvety, garlic-infused, olive oil-based. Make it tonight."
-ogDescription: "Creamy celeriac purée with caramelized leek and sharp Pecorino. Elegant, naturally dairy-free adaptable."
+description: "Silky celeriac puree with sautéed leek, garlic, and aged Pecorino Romano. Olive oil-based and naturally gluten-free. A sophisticated side dish that's ready in minutes."
+metaDescription: "Celeriac puree recipe with leek, garlic, and Pecorino Romano cheese. Silky, gluten-free, and elegant. Make it tonight."
+ogDescription: "Silky celeriac puree with sautéed leek, garlic, and Pecorino Romano. Gluten-free and sophisticated."
 focusKeyphrase: "celeriac puree"
 date: 2025-08-05
 draft: false
@@ -25,7 +25,8 @@ keywords:
 - "celery root purée"
 - "celeriac puree recipes"
 - "celery root puree recipe"
-- "celeriac root puree"
+- "celery puree recipe"
+- "root puree"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "140"
@@ -63,3 +64,51 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container. Can cool before fridge. Reheat slow on stovetop or low microwave bursts. Avoid overheating or fat breaks. Freeze in portions but expect slight texture change. Best eaten within 3 days fresh."
 
 ---
+
+Peel the celery root first — that's the annoying part, but it goes fast with a sharp knife. Three quarters of an hour total if you move steady. Forty-five minutes. The rest just happens while you're standing there.
+
+## Why You'll Love This Celeriac Puree
+
+Tastes like you spent way longer than you did. Smooth. Doesn't feel heavy even though it's basically root vegetables and cheese. Works as a side for literally anything — roasted chicken, fish, just bread and good butter. Nobody knows what celery root is until they eat this, then they want the recipe. Vegetarian. Gluten free. Brings something interesting to the table without being weird about it. One pan, one pot, one processor. Cleanup's maybe five minutes total.
+
+## What You Need for Celery Root Puree
+
+Celery root. Not celery stalks alone — the root's where the magic is. Sweet, subtle, less aggressive than regular celery. Get a big one, peel it rough, cube it up. You want about a litre and a half once it's peeled. Celery stalks sliced thin — use the pale inner parts, throw the tough outer ones in stock. Four garlic cloves. A medium leek, just the white and light green — dark green gets bitter. Olive oil. Good olive oil works. The cheap stuff's fine too. Pecorino Romano cheese, grated. Sharp. You could use Parmesan. Not the same, but works. Salt. Black pepper, cracked coarse. Optional nutmeg — barely a pinch, like you almost didn't add it.
+
+## How to Make Celeriac Root Puree
+
+Set up a steamer basket over simmering water. Get it going before you touch the vegetables. Dump the cubed celery root and sliced stalks and garlic cloves in all at once, cover it tight. Steam for 25 minutes. Not longer. Not quite as long. Twenty-five. Test it halfway through — knife should slide through the root without pushing hard. If it still feels thick and fibrous, give it another few minutes. Stop checking after that or you'll overcook it and the whole thing goes gluey and sad.
+
+While that's happening, heat olive oil in a skillet over medium. Not high. Medium. Add the sliced leek and stir it around. Eight minutes. Watch for the edges to go soft and pale gold — that's caramelization, that's when you pull it. Burnt tastes horrible. One second of black and the whole thing's bitter and you're starting over. Don't let that happen.
+
+## How to Get Celeriac Puree Smooth and Silky
+
+Pour everything into the food processor. The steamed vegetables, the garlic, the leek. Add the grated Pecorino. Pulse. Don't just turn it on and walk away. Pulse and stop, pulse and stop. Scrape the sides down every few pulses. You're looking for completely smooth — velvety, no strings, no chunks catching your tongue. Takes maybe three minutes of pulsing. If it's too thick, add hot water a splash at a time. Or vegetable broth if you have it. Broth tastes better. Water works fine.
+
+Taste it now. Salt might need to go up. Pecorino's salty and sharp, sharper than Parmesan, so go easy. Crack some black pepper in. The nutmeg — just a whisper. Most people can't place the nutmeg in the taste. That's the point. Just makes it taste like something you can't quite name.
+
+## Celeriac Puree Tips and Common Mistakes
+
+Steaming matters more than boiling. Boiling makes it waterlogged. Steaming keeps it dense. Texture stays right. Don't skip tasting before you serve it. Seasoning changes everything and you can't unfold salt. The leek can char a tiny bit if you're not paying attention. Not the end of the world — it adds depth. But burnt is burnt. If you're making this ahead, cool it first, then refrigerate. Reheats gentle — low heat, stir it, add a splash of water if it's gotten stiff. Keeps three days easy. Might keep four. Don't leave it longer than that.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Celery Root Puree
+
+**Can I make this celeriac root puree ahead of time?**
+Yeah. Cool it completely first, then store it covered in the fridge for three days. Reheat low and slow, add a splash of water to loosen it if it's thick. Don't blast it on high heat or the texture gets weird.
+
+**What if I can't find celery root?**
+You've got options. Celeriac is the same thing, just the British word for it. If neither's at the store, potato mixed with what celery you can get works. Not the same. Closer than nothing.
+
+**Do I have to use Pecorino Romano?**
+Parmesan works. Less sharp. Gruyere works too, gets almost sweet. The cheese is just seasoning and richness. Any hard cheese that grates fine will do something.
+
+**Can I add cream?**
+Sure. Heavy cream loosens it and makes it richer. Not necessary though. The olive oil does the job.
+
+**How does this celery root and potato combination work?**
+If you go half celery root, half potato, you get something earthier and less mineral-tasting. Potatoes lighten it. Takes the same time to cook — just cube the potato the same size.
+
+**Why did my puree get gluey?**
+Overcooking. The fibers break down too much and release starch. Watch the steaming time. Twenty-five minutes exactly if you can. If you went longer, nothing fixes it.
