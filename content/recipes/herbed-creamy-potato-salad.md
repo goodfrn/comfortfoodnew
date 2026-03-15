@@ -1,9 +1,9 @@
 ---
-title: "Herbed Creamy Potato Salad"
+title: "Herbed Creamy Potato Salad with Basil Pesto"
 slug: "herbed-creamy-potato-salad"
-description: "Small potatoes boiled with fresh herbs then tossed in a creamy mix of mayonnaise, crème fraîche, and basil pesto. Lime zest adds brightness. Cook time adjusted slightly. Ingredients altered for variation. A touch of Dijon mustard replaces mayonnaise creating a tangy base. Italian parsley swapped for fresh tarragon in the herb blend. Steps rearranged. Potatoes rinsed post-cook to cool down quickly. Salad served at room temp or chilled. Herb quantity slightly reduced to balance flavors. Cooking time shortened for firmer potatoes."
-metaDescription: "Herbed creamy potato salad with Dijon mustard, fresh tarragon, lime zest, and basil pesto. Small potatoes boiled just right, tossed in a tangy, herbal dressing."
-ogDescription: "Small potatoes with tarragon and basil pesto, tossed in Dijon and crème fraîche. Lime zest brightens the creamy, herby potato salad served warm or chilled."
+description: "Herbed creamy potato salad made with new potatoes, tarragon, chives, dill, crème fraîche, and basil pesto. Dijon mustard and lime zest brighten this vegetarian side dish."
+metaDescription: "Make herbed creamy potato salad with new potatoes, fresh tarragon, chives, dill, crème fraîche, and basil pesto. Dijon mustard adds tang. Try it tonight."
+ogDescription: "Creamy potato salad with tarragon, chives, dill, basil pesto, crème fraîche, and lime zest. Tangy, herbed, and vibrant."
 focusKeyphrase: "herbed creamy potato salad"
 date: 2025-07-29
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "side dish"
 - "easy"
 keywords:
-- "potato salad"
-- "herbed potato salad"
-- "Dijon mustard salad"
+- "herbed creamy potato salad"
+- "creamy potato salad"
+- "potato salad with basil pesto"
+- "new potato salad with fresh herbs"
+- "potato salad with tarragon chives and dill"
+- "creamy potato salad with crème fraîche"
+- "vegetarian side dish"
+- "easy potato salad"
+- "potato salad with dijon mustard"
+- "herbed potato salad recipe"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "220"
@@ -61,3 +68,87 @@ faq:
 - "q: Can I swap herbs or add extras? a: Yes, flexible herbs choice. Tarragon key for subtle anise. Parsley swap common. Chives dill also good. Shallots or green onions add crunch if mixed in. Try sun-dried tomato pesto for variation. Herbs fresh, no cooked herbs in final mix for bright flavor."
 
 ---
+
+Cut the potatoes first. While those boil, grab whatever herbs you have—tarragon, chives, dill, doesn't matter too much. This is the kind of salad where you taste and fix it. Tried it once with store-bought dried herbs. Not the same. Fresh only.
+
+## Why You'll Love This Herbed Potato Salad
+
+Takes 40 minutes total. Most of that's waiting for potatoes. Actual work is maybe five minutes.
+
+Tastes better the next day. Flavors actually settle when they sit cold. Make it for tomorrow's lunch.
+
+One bowl. No mayo drama. Crème fraîche and pesto do the work—tangy, not heavy. Sits on the plate like it means something.
+
+Works cold or room temperature. People ask for the recipe. Every time.
+
+Side dish that actually has personality. Not just potatoes drowning in something.
+
+## What You Need for Easy Herbed Potato Salad
+
+New potatoes. Smaller ones work better—they cook evenly and hold their shape. Three cups. Some get split lengthwise, some halved. Depends on size.
+
+Mixed fresh herbs. Tarragon's ideal. Chives too. Dill if you have it. One and a half cups total, roughly. Yeah, that's a lot. It's supposed to be.
+
+Crème fraîche. Two tablespoons. Not sour cream. Different texture. Heavier. Better.
+
+Basil pesto. Two tablespoons from a jar is fine. Homemade works too. Changes nothing fundamentally.
+
+Dijon mustard. One tablespoon. Not yellow mustard. The actual kind.
+
+Lime zest. Just the zest, not the juice. Acid comes from somewhere else.
+
+Salt and pepper. More salt than you'd think. Potatoes need it.
+
+## How to Make Herbed Potato Salad
+
+Boil water in a pot. Dump the potatoes in. Add the fresh herbs while they're raw—they flavor the water, then you throw them out. Salt the water generously. Like pasta water. Like you mean it.
+
+Bring it to a hard boil. Then lower it. Simmer for 25 minutes. Test with a fork. Potatoes should give but not fall apart. There's a window. Ten seconds too long and they're soft mush. That's fixable but not ideal.
+
+Drain everything. Toss the herbs. Rinse the potatoes under cold water just until they're not steaming. Let them cool on the counter for a minute or two. Still warm is the point.
+
+While they cool, make the dressing.
+
+## How to Get Creamy Potato Salad Dressing Right
+
+Whisk the mustard, crème fraîche, and pesto together in a bowl. Small bowl. Medium at most. Zest the lime directly into it. Just the zest—use a microplane. If it's the stringy stuff on the peeler, too much.
+
+Salt and pepper. Taste it before the potatoes go in. Sounds wrong but trust it. Season the dressing itself, not the final dish. Easier to control.
+
+Cut the potatoes once they're cool enough to handle. Halves or quarters depending on what size they actually are. You want bite-sized but not tiny. Ragged cuts work fine. Doesn't need to be neat.
+
+Fold them into the dressing gently. Not like you're whipping it. Once. Twice. Stop.
+
+## Potato Salad Tips and Common Mistakes
+
+Serve right away at room temperature. Or stick it in the cold for 15 minutes and serve chilled. Flavors actually improve when it sits. Not hours. Just 15 minutes. Something about letting the herbs infuse while everything's cold.
+
+Don't use hot potatoes. They'll cook the herbs into mush and the crème fraîche gets weird and thin. Cool first.
+
+Fresh herbs are non-negotiable. Dried herbs taste like nothing when they're cold. Tried it. Once was enough.
+
+Pesto amount matters less than you think. Two tablespoons is a starting point. More, less, doesn't ruin it. The mustard and crème fraîche are what hold it together.
+
+Make it a day ahead if you want. Actually gets better. Flavors settle. The potatoes soak everything up. Leftover potato salad is sometimes better than the first serving.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Creamy Potato Salad with Fresh Herbs
+
+**Can I use regular potatoes instead of new potatoes?**
+Sure. They'll break down more. Starchy potatoes get softer faster. Works, just different texture. New potatoes stay firmer. That's the difference.
+
+**What if I don't have crème fraîche?**
+Greek yogurt works. So does half mayo and half sour cream. Not the same but it works. Crème fraîche is smoother. The others get a bit gluey when they sit.
+
+**Do I have to use all three herbs?**
+No. One's fine. Two's better. Three's ideal. Haven't tried just one and hated it. Use what you have.
+
+**How long does it keep?**
+Three days easy. Four if you trust your fridge. After that the herbs lose their punch. Potatoes stay fine. The flavor just flattens.
+
+**Can I make this ahead?**
+Yes. Make it the morning of, chill it, serve cold. Or make it the night before. Tastes better the next day, honestly. The flavors actually settle when everything's been sitting together cold.
+
+**What's the difference between this and regular mayo potato salad?**
+Crème fraîche is lighter. Pesto adds actual flavor instead of just richness. Mustard keeps it from being bland. Mayo potato salad is heavier. This one you can eat more of without feeling it.
