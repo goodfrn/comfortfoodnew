@@ -1,23 +1,264 @@
 {
   "slug": "crispy-goat-cheese-salad",
-  "title": "Crispy Goat Cheese Salad Airfryer",
-  "seed_keywords": [],
+  "title": "Crispy Goat Cheese Salad Air Fryer Recipe",
+  "seed_keywords": [
+    "air fryer salad",
+    "goat cheese appetizer",
+    "crispy cheese rounds",
+    "air fryer cheese",
+    "baked goat cheese salad"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "goat cheese air fryer",
-        "volume": 0,
+        "keyword": "air fryer grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "airfry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in a air fryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in an airfryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in air fryer",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "airfryer grilled cheese",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "air fryer halloumi",
+        "volume": 12100,
         "competition": 0
       },
       {
-        "keyword": "crispy cheese salad",
-        "volume": 0,
+        "keyword": "airfryer halloumi",
+        "volume": 12100,
         "competition": 0
       },
       {
-        "keyword": "balsamic glaze dressing",
-        "volume": 0,
+        "keyword": "halloumi air fryer",
+        "volume": 12100,
         "competition": 0
+      },
+      {
+        "keyword": "camembert air fryer",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese air fryer",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "goat cheese appetizer",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "cheese toast in air fryer",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chevre appetizer",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "goat cheese appetisers",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "goat cheese horderves",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "halloumi in air fryer",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese logs",
+        "volume": 3600,
+        "competition": 27
+      },
+      {
+        "keyword": "air fryer cheese toast",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese on toast in air fryer",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "cordon bleu air fryer",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "goat cheese tartlet",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "bacon wrapped dates with goat cheese",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "cheese appetizer",
+        "volume": 2900,
+        "competition": 27
+      },
+      {
+        "keyword": "air fry cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer macaroni and cheese",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "airfryer cheese on toast",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon wrapped dates and goat cheese",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled cheese in the air fryer",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "air fry camembert",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "airfryer camembert",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "camembert in air fryer",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "goat cheese stuffed dates",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "crostini goat cheese",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "bruschetta goats cheese",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese on toast air fryer",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese toast air fryer",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fryer cheese",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "air fryer grilled cheese recipes",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer recipes grilled cheese",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "appetizer fig",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "cheese logs recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled cheese air fryer recipes",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "appetizers with figs and goat cheese",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon wrapped dates stuffed with goat cheese",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "baked camembert air fryer",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "dried fig and goat cheese appetizer",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "dried fig appetizer goat cheese",
+        "volume": 1000,
+        "competition": 1
       }
     ]
   },

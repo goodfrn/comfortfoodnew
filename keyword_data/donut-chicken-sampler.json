@@ -1,23 +1,264 @@
 {
   "slug": "donut-chicken-sampler",
-  "title": "Donut Chicken Sampler",
-  "seed_keywords": [],
+  "title": "Donut Chicken Sampler with Maple-Dijon",
+  "seed_keywords": [
+    "chicken sandwich",
+    "fried chicken sandwich",
+    "crispy chicken tenders",
+    "chicken donut sandwich",
+    "maple dijon chicken"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "chicken donut sandwich",
-        "volume": 0,
+        "keyword": "chick fil e",
+        "volume": 24900000,
+        "competition": 12
+      },
+      {
+        "keyword": "chick fil a near me",
+        "volume": 5000000,
+        "competition": 18
+      },
+      {
+        "keyword": "chick fil amenu",
+        "volume": 2240000,
+        "competition": 3
+      },
+      {
+        "keyword": "chick fil a chicken sandwich",
+        "volume": 368000,
         "competition": 0
       },
       {
-        "keyword": "maple Dijon drizzle",
-        "volume": 0,
+        "keyword": "chicken sandwich",
+        "volume": 246000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken sammich",
+        "volume": 246000,
+        "competition": 6
+      },
+      {
+        "keyword": "wingstop chicken flavors",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "chick fil a original chicken sandwich",
+        "volume": 165000,
         "competition": 0
       },
       {
-        "keyword": "crispy chicken fingers",
-        "volume": 0,
+        "keyword": "chick fil s",
+        "volume": 135000,
+        "competition": 18
+      },
+      {
+        "keyword": "chicken sandwich near me",
+        "volume": 110000,
+        "competition": 26
+      },
+      {
+        "keyword": "chick fil a breakfast",
+        "volume": 110000,
+        "competition": 16
+      },
+      {
+        "keyword": "mcchicken",
+        "volume": 110000,
+        "competition": 3
+      },
+      {
+        "keyword": "popeyes chicken sandwich",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "chick fil s breakfast",
+        "volume": 110000,
+        "competition": 16
+      },
+      {
+        "keyword": "chick fil la salads",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken salad sandwich",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "mccrispy",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "grilled chicken sandwich",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "4 fingers chicken",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "air fry chicken fingers",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "air fryer fried chicken tenders",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "kfc's fried chicken",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chick fil a sandwich",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "grilled chicken nuggets chick fil a",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken nuggets chick fil a",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "grilled nuggets from chick fil a",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "oven bake fried chicken",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "mc crispy",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "kfc chicken sandwich",
+        "volume": 33100,
         "competition": 0
+      },
+      {
+        "keyword": "panera chipotle chicken avocado melt",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "kfc chicken chicken sandwich",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "kentucky fried chicken chicken sandwich",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "panera bread chipotle chicken avocado melt",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken chipotle avocado melt panera",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "kfc chicken sand",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "panera chicken chipotle avocado melt",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "kfc double down",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy chicken sandwich",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "grilled chicken sandwich chick fil a",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "mcdonald's chicken burger",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken parmesan sandwich",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken parm sandwich",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "kfc chicken fingers",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pinwheels sandwiches",
+        "volume": 27100,
+        "competition": 66
+      },
+      {
+        "keyword": "chicken parmigiana sandwich",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "kfc chicken stripes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "fried chicken sandwich",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "burger king chicken sandwich",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "mcdonald's chicken sandwich",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
+        "keyword": "chick fil la",
+        "volume": 22200,
+        "competition": 27
       }
     ]
   },

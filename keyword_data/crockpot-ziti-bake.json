@@ -1,23 +1,264 @@
 {
   "slug": "crockpot-ziti-bake",
-  "title": "Crockpot Ziti Bake",
-  "seed_keywords": [],
+  "title": "Crockpot Ziti Bake with Ricotta & Mozzarella",
+  "seed_keywords": [
+    "crockpot pasta bake",
+    "slow cooker ziti",
+    "ground beef casserole",
+    "ricotta mozzarella pasta",
+    "baked ziti crockpot"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "crockpot ziti",
-        "volume": 0,
-        "competition": 0
+        "keyword": "beef casseroles",
+        "volume": 33100,
+        "competition": 16
       },
       {
-        "keyword": "slow cooker Italian",
-        "volume": 0,
-        "competition": 0
+        "keyword": "meat casserole recipes",
+        "volume": 33100,
+        "competition": 8
       },
       {
-        "keyword": "ricotta pasta bake",
-        "volume": 0,
-        "competition": 0
+        "keyword": "beef casserole ideas",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "beef casserole dish",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "beef casserole dish recipes",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "beef casseroles recipe",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "recipes for taco casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "hamburger casserole recipes",
+        "volume": 22200,
+        "competition": 28
+      },
+      {
+        "keyword": "hamburger casserole",
+        "volume": 22200,
+        "competition": 20
+      },
+      {
+        "keyword": "hamburger casserole ideas",
+        "volume": 22200,
+        "competition": 28
+      },
+      {
+        "keyword": "hamburger potato casserole",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "burger and potato casserole",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "burger casseroles",
+        "volume": 22200,
+        "competition": 20
+      },
+      {
+        "keyword": "casserole dishes with hamburger",
+        "volume": 22200,
+        "competition": 20
+      },
+      {
+        "keyword": "casserole made with hamburger",
+        "volume": 22200,
+        "competition": 28
+      },
+      {
+        "keyword": "casserole recipes using hamburger",
+        "volume": 22200,
+        "competition": 28
+      },
+      {
+        "keyword": "casserole using hamburger",
+        "volume": 22200,
+        "competition": 20
+      },
+      {
+        "keyword": "casserole with hamburger and potatoes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "ground meat potato casserole",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "hamb casserole",
+        "volume": 22200,
+        "competition": 20
+      },
+      {
+        "keyword": "hamburger and potato casserole dishes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "hamburger and potato hotdish",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "hamburger potato hotdish",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "ground beef casserole recipes",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "ground beef casserole ideas",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "beef slow cooker casserole",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "casserole dish with ground beef",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "casserole recipe using ground beef",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "casserole recipe with hamburger meat",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "casserole recipes for ground beef",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "casserole to make with ground beef",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "casserole using ground beef",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "gr beef casserole recipes",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "ground hamburger casserole recipes",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "ground meat casserole recipe",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "ground beef casserole",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "casseroles with hamburger meat",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "beef hotpot recipe",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "casserole dish with hamburger meat",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "casserole with ground meat",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "gr beef casserole",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "ground beef bake",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "hamburger beef casserole",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "minced meat casserole",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "recipe for hash brown casserole from cracker barrel",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "easy beef slow cooker casserole",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "hamburger tater tot casserole",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "hamburger rice casserole",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "burger and rice casserole",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "burger rice casserole",
+        "volume": 6600,
+        "competition": 7
       }
     ]
   },

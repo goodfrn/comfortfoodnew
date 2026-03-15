@@ -1,23 +1,264 @@
 {
   "slug": "crispy-sesame-chicken-drums",
-  "title": "Crispy Sesame Chicken Drums",
-  "seed_keywords": [],
+  "title": "Crispy Sesame Chicken Drumsticks Recipe",
+  "seed_keywords": [
+    "crispy chicken drumsticks",
+    "sesame chicken baked",
+    "baked chicken lemon",
+    "chicken with sesame",
+    "spicy lemon chicken"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "sesame chicken",
-        "volume": 0,
+        "keyword": "chicken with sesame",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and sesame seeds",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken in sesame seeds",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "sesame chicken recipe",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken recipe with sesame seeds",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon chicken garlic",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken fried leg",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "honey sesame chicken panda express",
+        "volume": 14800,
         "competition": 0
       },
       {
-        "keyword": "chicken drumsticks recipe",
-        "volume": 0,
+        "keyword": "honey sesame chicken",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken with honey and sesame",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "honey and sesame seed chicken",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "honey chicken with sesame seeds",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "baking chicken drum sticks",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "sesame chicken near me",
+        "volume": 6600,
+        "competition": 23
+      },
+      {
+        "keyword": "chicken lemon roast",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "honey sesame chicken breast panda express",
+        "volume": 6600,
         "competition": 0
       },
       {
-        "keyword": "spicy lemon sauce",
-        "volume": 0,
+        "keyword": "panda express honey sesame chicken breast",
+        "volume": 6600,
         "competition": 0
+      },
+      {
+        "keyword": "roast chicken and lemon",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked chicken lemon",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "honey sesame chicken breast",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "baked chicken and lemon",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "honey sesame chicken panda",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "ina garten chicken lemon",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "leg and thigh chicken recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "sesame chicken sauce",
+        "volume": 4400,
+        "competition": 29
+      },
+      {
+        "keyword": "bake crispy chicken legs",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken drumsticks crispy",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "crispy chicken legs in oven",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "crispy roast chicken legs",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "drumstick fried chicken recipe",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "fried chicken legs recipes",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "sesame seed chicken sauce",
+        "volume": 4400,
+        "competition": 29
+      },
+      {
+        "keyword": "asian chicken sesame",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked fried chicken drumsticks",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked fried chicken legs",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese chicken sesame",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese chicken with sesame seeds",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chicken drumsticks in oven",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fried chicken drumsticks in the oven",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fried chicken legs in oven",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "oven baked fried chicken drumsticks",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "oven baked fried chicken legs",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "sesame chicken recipe easy",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "asian chicken crock pot",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "baked chicken lemon pepper",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken honey sesame recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy chicken with sesame seeds",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy sesame chicken",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "crunchy sesame chicken",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "easy sesame seed chicken recipe",
+        "volume": 2900,
+        "competition": 2
       }
     ]
   },

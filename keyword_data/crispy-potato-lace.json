@@ -1,23 +1,264 @@
 {
   "slug": "crispy-potato-lace",
-  "title": "Crispy Potato Lace",
-  "seed_keywords": [],
+  "title": "Crispy Potato Lace with Thyme & Rosemary",
+  "seed_keywords": [
+    "crispy potato snacks",
+    "roasted potato side dish",
+    "potato lace recipe",
+    "herb roasted potatoes",
+    "potatoes with rosemary"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "potato lace",
-        "volume": 0,
-        "competition": 0
+        "keyword": "roasted potatoes",
+        "volume": 301000,
+        "competition": 9
       },
       {
-        "keyword": "crispy potato slices",
-        "volume": 0,
-        "competition": 0
+        "keyword": "roasted potatoes and",
+        "volume": 301000,
+        "competition": 9
       },
       {
-        "keyword": "herb potato snack",
-        "volume": 0,
-        "competition": 0
+        "keyword": "roasted roasted potatoes",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "roasted potatoes sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "twice baked potato bake",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "oven roasted potatoes",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "oven baked roasted potatoes",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "best potato roast",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "best potatoes for roasted potatoes",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "great roasted potatoes",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "oven roasted sweet potatoes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "potatoes for potato bake",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon potatoes greek",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted carrots & potatoes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots and potatoes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted fingerling potatoes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "cooking oven roasted potatoes",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "potatoes with rosemary",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon potatoes",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "parmesan potatoes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "potato and rosemary",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "quick potato bake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "red oven roasted potatoes",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "roast smashed potatoes",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "small roasted potatoes oven",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "rosemary roasted potatoes",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "simple potato bake",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "mini roasted potatoes",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "baked potato rosemary",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "parmesan cheese roasted potatoes",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "parmesan potatoes roasted",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "roast potatoes and rosemary",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted potatoes mini",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "rosemary potato bake",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "season roasted potatoes",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "garlic roasted potatoes",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked garlic potatoes",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "crispy potato bake",
+        "volume": 6600,
+        "competition": 14
+      },
+      {
+        "keyword": "roast potatoes and garlic",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted potatoes yukon gold",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "sliced and roasted potatoes",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "herb roasted potatoes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "easy roasted potatoes",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted garlic mashed potatoes",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "small roasted potatoes",
+        "volume": 5400,
+        "competition": 15
+      },
+      {
+        "keyword": "baked mashed potatoes",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "little roasted potatoes",
+        "volume": 5400,
+        "competition": 15
+      },
+      {
+        "keyword": "bake cheese potatoes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked herb potatoes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked potato with herbs",
+        "volume": 5400,
+        "competition": 3
       }
     ]
   },

@@ -1,10 +1,10 @@
 ---
-title: "Easter Sheet Pan Cookies with Cadbury Eggs"
+title: "Chewy Chocolate Chip Cookies with Cadbury Eggs"
 slug: "easter-sheet-pan-cookies"
-description: "Easter sheet pan cookies loaded with chopped Cadbury cream eggs and semi-sweet chocolate chips. Chewy brown sugar and melted butter bake into golden-edged squares with gooey centers."
-metaDescription: "Make Easter sheet pan cookies with Cadbury cream eggs and chocolate chips. Chewy, easy recipe bakes on one pan. Try it tonight."
-ogDescription: "Chunky Easter cookies with Cadbury eggs and chocolate chips. Chewy centers, melty chocolate, easy one-pan bake."
-focusKeyphrase: "Easter sheet pan cookies"
+description: "Chewy chocolate chip cookies loaded with chopped Cadbury cream eggs and semi-sweet chocolate chips. Brown sugar and melted butter create golden-edged squares with gooey centers."
+metaDescription: "Make chewy chocolate chip cookies with Cadbury cream eggs and semi-sweet chocolate chips. Golden edges, gooey centers. Try it tonight."
+ogDescription: "Chewy chocolate chip cookies stuffed with Cadbury eggs and chocolate chips. Brown sugar perfection with gooey centers."
+focusKeyphrase: "chocolate chip cookies"
 date: 2026-01-06
 draft: false
 image: easter-sheet-pan-cookies.jpg
@@ -21,16 +21,18 @@ tags:
 - "easter"
 - "caramel"
 keywords:
-- "Easter sheet pan cookies"
-- "chunky cookies"
-- "chewy cookies"
-- "Cadbury cream eggs"
-- "sheet pan dessert"
 - "chocolate chip cookies"
-- "Easter desserts"
-- "one-pan cookies"
-- "brown sugar cookies"
-- "easy Easter recipes"
+- "chewy chocolate chip cookies"
+- "homemade chocolate chip cookies"
+- "best chocolate chip cookies"
+- "easy chocolate chip cookies"
+- "double chocolate chip cookies"
+- "brown butter chocolate chip cookies"
+- "chocolate cookies"
+- "cookie recipe"
+- "Easter cookies"
+- "Cadbury egg cookies"
+- "sheet pan cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -87,70 +89,74 @@ faq:
 
 ---
 
-Grab a half sheet pan and melt some butter. This is basically the Easter cookie you've been wanting to make without actually thinking about it too hard. Chopped Cadbury cream eggs folded into a thick, sweet batter with chocolate chips. 15 minutes of prep, 23 minutes in the oven at 320, and you've got this chunky, chewy sheet pan situation going. The magic part is those hidden pockets of gooey caramel and chocolate that burst when you bite into a warm square. No fussy shaping. No cooling between batches. Just one pan, one bake, then cut into 24 pieces and watch them disappear.
+Cadbury eggs melting into warm chocolate chip cookies. That's it. That's the whole thing. Made these last Easter when someone brought a bag of the little cream eggs and I was like, why are we not putting these in cookies? Cut them up, fold them in, 23 minutes later you've got gooey pockets of caramel and chocolate in every bite. Sheet pan means no fussing with individual cookies. Just press and bake.
 
 ## Why You'll Love This
 
-Takes 38 minutes total. Start to finish. No tricks.
+Hits the Easter table looking homemade but tastes like you actually planned this. Takes 38 minutes total — 15 prep, 23 in the oven, done before anyone gets hungry.
 
-One pan means one cleanup. Not six cooling racks of chaos.
+Chocolate cookies that aren't trying to be fancy. Semi-sweet chips plus the Cadbury eggs do the work. Brown sugar and melted butter make them rich without being heavy. The caramel inside is the whole point.
 
-Chunky chocolate and caramel packed into every bite. The Cadbury eggs stay gooey in the center while the cookie sets around them.
+One pan. No cooling racks. No spacing cookies out. Spread the batter, slide it in, slice it up. Less cleanup, more eating. Holiday baking without the stress.
 
-Holiday dessert that doesn't require Easter baking experience. Works whether you're making these for the first time or the tenth.
+## Easter Sheet Pan Chocolate Cookies with Hidden Caramel
 
-## The Only Ingredients You Actually Need
+Unsalted butter — 7 tablespoons, melted. Don't let it brown. Granulated sugar and packed light brown sugar. The brown sugar matters. Fresh stuff, not the hard brick from the back of the pantry. Whole eggs plus two extra yolks. More yolk means richness. Whole milk and vanilla extract.
 
-Melted butter—seven tablespoons, warm but not bubbling. Cold butter won't incorporate right. Granulated sugar plus brown sugar. Not just one. The brown brings moisture and depth. A cup each. Two whole eggs and two yolks. The extra yolks add richness without toughening things up. Milk, vanilla. Flour, baking powder, salt—standard pantry stuff. The real stars: chopped Cadbury cream eggs and semi-sweet chocolate chips. A cup each minimum. Flaky sea salt if you want it on top. Not required. Changes nothing except adds a tiny contrast.
+Flour, baking powder, salt. Just the basics. Semi-sweet chocolate chips — a full cup. Cadbury cream eggs chopped into chunks. That's the secret. Not smooth. Not powdered. Chunks. Big enough that you hit them when you bite. Flaky sea salt for the top if you want it. Optional but worth it.
 
-## How to Actually Make These
+## Chopping, Prepping, Getting to the Oven
 
-Start by dealing with the Cadbury eggs. Dump them in a ziplock bag. Seal it tight. Grab a rolling pin and whack them a few times. Firm whacks. You want chunky pieces, not powder. Trust me on this—tried chopping them on a board once. Sticky mess. Bag method is cleaner.
+Cadbury eggs in a ziplock bag. Seal it tight. Rolling pin. Two firm whacks. Maybe three. The bag keeps it contained. Tried chopping on a board once. Sticky mess everywhere. The bag method works every time.
 
-Crank the oven to 320. That's it. Line a standard half sheet pan with nonstick spray. Parchment isn't necessary here. The batter spreads fine and releases on its own.
+Preheat to 320°F. Standard half sheet pan — 13 by 18 inches. Spray it with nonstick spray. Parchment's not needed. The batter spreads and releases fine.
 
-Melt the butter first so it's warm. Dump both sugars into a large bowl. Add the warm butter. Whisk it. Whisk it again. Break up any brown sugar lumps. Stale brown sugar clumps and makes uneven texture. Fresh brown sugar helps. Keep going until the sugar starts to soften into the butter, takes maybe a minute of actual whisking.
+Melt the butter while the oven heats. Still warm, not bubbling. Pour it into a large bowl with both sugars. Whisk hard. Break up the brown sugar lumps. This takes a minute but it matters. Lumpy brown sugar makes uneven texture throughout.
 
-Crack in the whole eggs plus those two yolks. Add milk and vanilla. Whisk until it's uniform and smooth. Not runny, but definitely wet. The eggs bring richness. The yolks especially. You'll feel it come together.
+Crack the whole eggs and the two yolks right in. Add milk and vanilla. Whisk until smooth. No streaks. Not runny. Just uniform.
 
-Sift the flour with baking powder and salt. This matters. The sifting aerates everything. Fold it into the wet stuff gently. Don't overmix. Stir until you don't see dry flour anymore, then stop. Batter will be thick. Almost doughy but still pliable. That's right.
+Sift the flour with baking powder and salt. Fold it into the wet stuff gently. Don't overwork it. The batter gets thick. Almost doughy. It should be pliable but not spreadable yet.
 
-Now fold in the chopped Cadbury eggs and chocolate chips. A cup each, maybe a little more if you're feeling generous. The charm is those hidden pockets of melty candy and chocolate scattered throughout. Batter gets chunky and thick. Exactly what you want.
+Fold in the Cadbury chunks and chocolate chips. A cup of each. Maybe more if you're feeling it. This is where the chocolate cookies stop being regular and start being the thing people actually want.
 
-Spoon it all onto the prepared pan. Press it out evenly toward the edges. Don't stress if it doesn't cover perfectly. It will settle and spread as it bakes. Scatter extra candy and chips on top if you want. Melty, glossy hits on the surface. Works either way—before baking or after.
+Spoon the batter onto the prepared pan. Press and spread it toward the edges. Don't panic. It'll settle. It'll spread in the oven. You can scatter extra candy and chips on top before baking if you want glossy melty hits across the surface. Or add them after. Both work.
 
-Into the oven for 18 to 23 minutes. Watch it. Edges should be golden or faint tan. The center still looks soft and squishy when you jiggle the pan gently. It's set but not firm, not dry. Pull it out when it looks underdone. Oven temps vary wildly so you're basically detective work here. Every oven is different.
+## Baking, Cooling, Getting the Timing Right
 
-Let it rest completely on the pan. Carryover cooking firms up the centers. If it puffed up too much and looks uneven, tap the pan gently to settle it. Once it's cooled fully, cut into 24 squares. Sprinkle flaky sea salt on top if you're using it. The salt hits different against the sweet caramel and chocolate.
+Bake for 18 to 23 minutes. Watch it. Oven temps vary dramatically. Edges should go golden to faint tan. The center looks soft. Actually squishy when you jiggle the pan gently. The cookie's set but not firm. Not dry. That's the target.
 
-## Common Mistakes and How to Not Make Them
+If it puffs up too much, tap the pan gently to settle it. Let it cool completely on the pan. Carryover cooking firms up the centers while it sits. Sprinkle flaky sea salt on top if you're using it. The salt hits different with the caramel and chocolate.
 
-Overspreading the batter. People get nervous and thin it out too much. Stop. It spreads on its own. Leave it thicker than you think. Cookie stays chewy in the middle instead of drying out.
+Cool it fully before slicing. Cut into 24 squares. Straight lines. The edges get crispy. The centers stay chewy. You'll hit pockets of caramel and chocolate in almost every piece.
 
-Baking too long. This is the biggest one. Everyone's oven runs different. That jiggle test matters more than a timer. Soft center means it's done. You want it barely set. Chewy cookies stay chewy when you catch them early. Pull them out and they firm up as they cool on the pan. Wait for them to look perfect and they're overdone.
+## Mistakes You'll Make and How to Skip Them
 
-Brown sugar that's stale. Clumpy sugar makes uneven texture. No getting around it. Buy fresh, keep it sealed. The difference is real.
+Don't use white sugar where brown sugar goes. The brown sugar brings moisture and flavor. White sugar alone makes them drier. Doesn't sound like much but it changes everything.
 
-Not chopping the Cadbury eggs small enough. Big chunks melt into rivers. Small chunky pieces create pockets. The ziplock bag method forces you into the right size naturally. Rolling pin and firm whacks work every time.
+Overworking the dough after flour hits makes them tough. Fold gently. Stop as soon as flour disappears. The batter should be thick but still soft.
+
+Undercooking looks scary but it's fine. Soft centers set as they cool. Overbaking makes them crispy throughout. If they seem done at 18 minutes, pull them out. If they still jiggle in the very center at 23, that's exactly right. The carry-over heat does the rest.
+
+Using frozen Cadbury eggs works but they take longer to chunk cleanly. Thaw them first. Thirty minutes on the counter. Makes chopping so much easier.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can I make these ahead for Easter?**
-Bake them the day before. Store in an airtight container. The texture stays good for two days. Longer than that and they start to dry out around the edges but the center stays fine. Day-of is better. They taste best when the chocolate is still glossy.
+**Can I use regular chocolate chip cookies as a base instead?**
+No. The ratio's different. The moisture's different. Extra yolks and melted butter make these specific. Just make these.
 
-**What if I don't have Cadbury cream eggs?**
-Literally any chocolate-filled candy works. Caramels and chocolate chips thrown together. Just don't use chocolate bars whole—they seize up. Chopped is necessary. Caramel candies wrapped in chocolate work great. The point is pockets of something gooey inside a cookie.
+**What if my Cadbury eggs are frozen or too hard to chop?**
+Leave them on the counter for 30 minutes. Softens just enough. Rolling pin in the bag still works but thawed goes faster.
 
-**How thick should the batter spread on the pan?**
-About half an inch. Maybe slightly less. Press it out by hand. It should cover most of the pan with some thickness to it. Not paper thin. Not a quarter inch of pure dough either. Half inch feels right and bakes into that chewy, chunky texture you want.
+**Should I bake this on a convection or regular setting?**
+Regular convection dries things out. Regular setting, 320°F. Give it time. Don't rush the temp up.
 
-**Why 320 degrees instead of the usual 350?**
-Lower temp means slower baking. Slower means the center cooks through while the edges don't burn. Standard cookie temp dries these out because they're thicker and loaded with candy. 320 gives you more time to catch that soft center. Higher temps and you miss the window.
+**Can I make these chocolate chip cookies ahead?**
+Bake them, let them cool completely, keep them in an airtight container. Three or four days. They get chewier as they sit. Not a bad thing.
 
-**Should I use parchment paper?**
-No. Nonstick spray works fine. The batter's wet enough that it releases on its own. Parchment adds an extra layer and changes how the bottom browns. Direct contact with the pan is better here. Gives you that slightly crispy bottom against the chewy middle.
+**What's the difference between this and making chocolate chip cookies normally?**
+The Cadbury eggs. The extra yolks. The brown sugar ratio. Also the sheet pan format. Spreads differently. Bakes more evenly. Less individual fussing.
 
-**Can I freeze these?**
-Yes. Bake them fully, cool them, then layer them flat in a container with parchment between. Freezes for a month easy. Thaw at room temp for an hour. Tastes like you just made them. The chocolate stays good. The caramel stays good. Only thing that changes is texture gets slightly less chewy but still fine.
+**Why the flaky sea salt on top?**
+Cuts the sweetness. Makes the caramel taste more like caramel. Chocolate gets deeper. It's subtle but once you've tried it salted, unsalted feels flat.

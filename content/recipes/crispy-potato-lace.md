@@ -1,10 +1,10 @@
 ---
 title: "Crispy Potato Lace with Thyme & Rosemary"
 slug: "crispy-potato-lace"
-description: "Crispy potato lace made with Yukon Gold potatoes, fresh thyme, and rosemary, brushed with olive oil and baked until golden. Ready in 25 minutes."
-metaDescription: "Crispy potato lace recipe with Yukon Gold potatoes, thyme, and rosemary. Herb-infused, gluten-free snack baked in 25 minutes. Make it tonight."
-ogDescription: "Golden crispy potato lace with thyme and rosemary, olive oil-brushed and baked until perfectly crunchy. Gluten-free."
-focusKeyphrase: "crispy potato lace"
+description: "Crispy potato lace with Yukon Gold potatoes, fresh thyme, rosemary, and olive oil. Baked until golden and ready in 25 minutes for a simple side dish."
+metaDescription: "Crispy potato lace made with Yukon Gold potatoes, fresh thyme, and rosemary. Baked until golden. Try it tonight."
+ogDescription: "Golden crispy potato lace with rosemary and thyme. Made with Yukon Gold potatoes and olive oil. Ready in 25 minutes."
+focusKeyphrase: "roasted potatoes"
 date: 2025-07-25
 draft: false
 image: crispy-potato-lace.jpg
@@ -21,14 +21,16 @@ tags:
 - "vegetarian"
 - "roasted"
 keywords:
-- "crispy potato lace"
-- "crispy potato slices"
-- "herb potato snack"
-- "baked potato snack"
-- "Yukon Gold potato recipe"
-- "thyme rosemary potato"
-- "gluten-free potato snack"
-- "easy potato side dish"
+- "roasted potatoes"
+- "herb roasted potatoes"
+- "rosemary roasted potatoes"
+- "baked herb potatoes"
+- "crispy potato bake"
+- "Yukon Gold potatoes"
+- "potatoes with rosemary"
+- "easy roasted potatoes"
+- "baked potato with herbs"
+- "oven roasted potatoes"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "110"
@@ -67,84 +69,79 @@ faq:
 
 ---
 
-Yukon Gold potatoes. Slice them thin on a mandoline and suddenly you've got something nobody expects—crispy, delicate, herb-studded. Takes 27 minutes total. Had a bag of thyme that needed using, a hot oven, and this happened. The potato becomes this golden, almost lacy thing. Holds herbs inside like they were meant to be there.
+Yukon Gold potatoes sliced thin enough to see light through them, layered with thyme and rosemary, then roasted until the edges crisp up while the centers stay tender. Had a mandoline sitting unused for months. Grabbed it one night and this happened. Takes 27 minutes total.
 
 ## Why You'll Love This
 
-Takes 12 minutes to prep, 15 in the oven. That's it. Crispy potato slices that don't need a deep fryer or any real skill.
+Comes together in under half an hour. Actual roasted potatoes that don't need an hour in the oven.
 
-Works as a side dish for literally anything. Roasted chicken. Fish. Or just eat them alone at 3pm standing in the kitchen.
+Works as a side for literally anything — grilled chicken, fish, even breakfast. Snack straight from the cooling rack too.
 
-Herb potato snack that feels fancy but isn't. Thyme and rosemary do the work. Oil does the work. Your mandoline does the work.
+The herb leaves get crispy. Like potato chip texture but with actual rosemary flavor baked in.
 
-Vegetarian. Gluten-free. One pan. Cool them slightly and they're portable.
+Vegetarian, naturally. No butter needed if you're using good oil.
 
-## Thin Slices That Actually Hold Together
+## Yukon Gold Potatoes Sliced Thin for Maximum Crispness
 
-Yukon Gold. Not russet. The starch is different—they stay intact instead of falling apart. Two and a half medium potatoes. Don't peel them. The skin keeps the whole thing from separating.
+Two and a half medium Yukon Golds. Not russets — too starchy, falls apart. Not red potatoes either. Yukon Golds have this waxy thing that keeps them firm when they're thin and hot.
 
-Olive oil. Melted. 150 ml. Sounds like a lot. It's not. The parchment catches most of it anyway.
+Leave the skin on. Mandoline time. You want slices maybe a quarter inch. Sturdy enough to hold the herb on top without tearing. About 20 slices total. Doesn't have to be exact.
 
-Fresh thyme leaves. Twenty of them. Fresh rosemary leaves. Twenty of them. Dried herbs turn to ash in the oven. Don't bother.
+Olive oil. 150 milliliters melted. Not olive oil spray. The real thing.
 
-Salt. However much feels right. More than you think probably.
+Thyme and rosemary — fresh only. 20 leaves each. Dried tastes like dust. Just is.
 
-Parchment paper. The whole thing relies on this. Butter or oil for the pan itself—just a thin coat so the parchment stays put.
+Salt. Kosher if you have it.
 
-## Slicing and Building the Layers
+Parchment paper and a baking sheet. Grease it light with butter or more oil. Just enough so nothing sticks.
 
-Heat the oven to 220 Celsius. Center shelf. Let it sit while you work.
+## Oven Roasted Potatoes with Herbs Layered Between Slices
 
-Line the baking sheet with parchment. Grease it lightly. This is the only thing keeping these from sticking.
+Heat your oven to 220 Celsius. Center shelf. Let it run while you prep.
 
-Mandoline time. Aim for thin but not transparent. About 20 slices total from your potatoes. If they're too thick, they won't crisp. Too thin, they shatter. Sturdy enough to hold shape—that's the target. Takes maybe 3 minutes if you're not rushed. If you cut yourself, rinse and keep going. It happens.
+Line the sheet with parchment. Grease it quick. Lay down half your potato slices spaced apart — not touching. They need room to crisp up.
 
-Arrange half the slices on the tray. Space them slightly apart. Not touching. They need air underneath to crisp.
+Brush each slice with olive oil. Not drenched. Just coated. Then place one herb leaf on top. Thyme or rosemary, doesn't matter which. Cover that with another potato slice. Press gentle. Brush the top with oil again. Salt it.
 
-Brush each one with olive oil. Not drenched. Just a light coat. Lay a thyme leaf or rosemary leaf on top of each slice. Cover it with a second potato slice—this locks the herb in place. Brush the top layer with more oil. Sprinkle salt.
+Into the oven. 8 to 9 minutes. Flip carefully — they're delicate now but not falling apart. Another 8 to 9 minutes on the other side. You're looking for golden. Edges should be crispy. Centers tender but still intact. Not burnt. Burnt tastes like charcoal.
 
-## Getting Them Golden and Crispy
+Cool them for a minute. Two if you can wait. They'll crisp up more as they cool.
 
-8 to 9 minutes per side. Flip halfway through. The edges will start looking golden first—that's when you know it's working.
+## Best Potato Roast: Mistakes to Skip and How to Fix Them
 
-Watch for the edges to actually crisp. They'll curl slightly and turn this deep golden color. The center stays tender but firm. That contrast is the whole point.
+Potatoes too thick and they stay starchy inside. Mandoline helps. If you don't have one, use a knife and aim thin.
 
-Flip carefully. A thin spatula works. Some might stick slightly—push it gently from underneath. The parchment catches most of it. Once they're flipped, brush the exposed bottom with oil if it looks dry. Doesn't need to be perfect. Just make sure there's enough oil on both sides to make them crisp.
+Oil matters. Olive oil has a lower smoke point than avocado oil, but it works fine at 220. Doesn't need to be expensive. Just real.
 
-Second side goes faster. Maybe 5 or 6 minutes. Keep watching. The moment the edges turn golden and crisp, they're done. Too long and the inside gets mealy. Not long enough and they're limp.
+Forgot to space the slices once. They steamed instead of roasted. Don't stack them. Don't crowd them.
 
-## Mistakes and How to Skip Them
+Flipping carelessly breaks them. Use a thin metal spatula. Get under the whole thing. Lift slow.
 
-Slicing too thick is the biggest one. They just stay gummy inside. Use the mandoline setting that makes you a little nervous. That's the right thickness.
+Salt before roasting, not after. The salt dissolves into the oil and seasons the potato itself. Salting after just sits on top.
 
-Skipping the parchment paper and going straight to the pan. Doesn't work. They stick and you lose the bottom half. Parchment is mandatory.
-
-Dried herbs. They burn. They taste like nothing. Use fresh or don't use herbs at all. Actually—if you only have dried, use half the amount and add them in the last 2 minutes. Still not ideal. But it works better than letting them blacken from the start.
-
-Not giving them enough space on the tray. They steam instead of crisp. Slightly apart is the real instruction. One centimeter of space minimum.
-
-Flipping them when they're still too soft. Wait for the edges to actually set. You can tell by how much they resist the spatula. First flip is around 8-9 minutes. If they feel fragile, give them another minute.
-
-Cool them slightly before eating. They crisp up more as they cool. Warm potatoes are still flexible. Room temperature they snap.
+Herb placement matters more than you'd think. If the leaf slips off before it roasts, it just burns separately. Press the top layer down a little so it stays put.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
 **Can I use russet potatoes instead of Yukon Gold?**
-They work but they break apart more. Yukon Gold has lower starch. It holds the layers together. Russets are mealy. Try it once if you want. You'll see why Yukon Gold is better.
+Not really. They break down. Yukon Golds stay firm because of how they're structured. Waxy potatoes work — fingerling, new potatoes. But russets turn to mush when they're thin and hot.
 
-**How thin should the slices be?**
-Thin enough to bend slightly but thick enough that you can lay an herb on top without it tearing. That's the real measure. A mandoline around 2-3mm works. If you're using one without thickness settings, just aim for that—not paper-thin, not coin-thick.
+**How do I know when they're actually crispy?**
+Listen for it. When you flip them, there's a light crackle sound if they're right. Color should be golden, not brown. Touch one — it should snap a little, not bend.
 
-**Can I make these ahead?**
-Cool them completely. Store in an airtight container. They last maybe 2 days before the edges go soft. Reheat in a 180 Celsius oven for 3 minutes if you want them crispy again. The herbs stay there. The crispness comes back.
+**Can I use dried rosemary and thyme?**
+Don't bother. Dried herbs burn at roasting temperatures. Tastes like char, not flavor. Fresh or nothing.
 
-**What if I don't have fresh herbs?**
-Use what you have. Chives. Oregano. Basil turns black so maybe skip that. Or leave them out entirely. The potatoes are good on their own. The herbs just make them feel intentional.
+**What's the best way to store leftovers?**
+Cool completely first. Then put them in a container, no lid. They lose crispness if you seal them. They're fine at room temperature for a few hours. Reheat in a 180-degree oven for 3 minutes if you want that texture back.
 
-**Can I use ghee or butter instead of olive oil?**
-Ghee works. Butter burns at this temperature. Ghee doesn't. If you use butter, lower the oven to 200 Celsius and add maybe 2 minutes. It'll work but it's slower.
+**Why Yukon Gold potatoes specifically?**
+They're waxy. High starch potatoes like russets fall apart when sliced thin. Yukon Golds hold their shape. Also taste buttery without actually having butter in them. Not sure why but it works.
 
-**How do I know when they're done?**
-Look at the edges. They go golden and crisp. Touch one. It should feel rigid, not bendy. The center stays soft—that's normal. The edges are what make them "crispy potato slices" instead of just hot potatoes.
+**Can I make this with roasted carrots and potatoes?**
+That's a different thing. Carrots take longer to roast than potatoes this thin. You'd need to adjust timing or roast them separately. Stick with just potatoes here.
+
+**Is this good as a side dish for a full meal?**
+Yeah. Pairs with anything roasted — chicken, fish, steak. Works with grilled stuff too. Basically a fancier roasted potatoes situation but faster and crispier.

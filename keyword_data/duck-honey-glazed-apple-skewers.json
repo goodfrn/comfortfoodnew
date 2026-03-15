@@ -1,22 +1,108 @@
 {
   "slug": "duck-honey-glazed-apple-skewers",
   "title": "Duck and Honey-Glazed Apple Skewers",
-  "seed_keywords": [],
+  "seed_keywords": [
+    "grilled duck breast",
+    "duck skewers",
+    "honey glazed appetizers",
+    "apple and duck",
+    "glazed fruit skewers"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "duck breast cubes",
-        "volume": 0,
+        "keyword": "duck with cherry sauce",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled duck breast",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple duck",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "duck and apple",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "duck apple",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "barbecue duck breast",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "barbeque duck breast",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq duck breast",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "duck breast barbecue",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "duck breast bbq",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "duck grilled",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "duck breast recipe grill",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "duck grill recipe",
+        "volume": 260,
         "competition": 0
       },
       {
-        "keyword": "apple skewers",
-        "volume": 0,
+        "keyword": "duck skewers",
+        "volume": 140,
+        "competition": 12
+      },
+      {
+        "keyword": "duck kebabs",
+        "volume": 140,
         "competition": 0
       },
       {
-        "keyword": "cinnamon glaze",
-        "volume": 0,
+        "keyword": "barbecue duck breast recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq duck breast recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "duck for apples",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled duck magret",
+        "volume": 110,
         "competition": 0
       }
     ]

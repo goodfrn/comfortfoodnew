@@ -1,22 +1,263 @@
 {
   "slug": "crunchy-cream-potato-gratin",
-  "title": "Crunchy Creamy Potato Gratin",
-  "seed_keywords": [],
+  "title": "Crunchy Creamy Potato Gratin with Rosemary",
+  "seed_keywords": [
+    "potato gratin recipes",
+    "creamy potato bake",
+    "pan fried roasted potatoes",
+    "garlic rosemary potatoes",
+    "crunchy creamy potato gratin"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "scalloped potatoes and",
+        "volume": 246000,
+        "competition": 14
+      },
+      {
         "keyword": "gratin",
-        "volume": 0,
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "potato dauphinoise potatoes",
+        "volume": 110000,
+        "competition": 3
+      },
+      {
+        "keyword": "potatoes au gratin",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "al gratin potato",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "potato gratin",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "augratin potato",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "potato a gratin",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "potato gra",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "potato gratin dish",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "potatoes dauphinoise",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "potatoes au gratin recipe",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "augratin potato recipes",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "ham and potatoes scalloped",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "recipes with au gratin potatoes",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "au gratin",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "pomme dauphinoise recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe dauphinoise",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for potatoes dauphinoise",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy scalloped potato",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "potato gratin recipes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for a gratin potatoes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes scalloped potatoes and ham",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "scalloped potato recipe with ham",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "scalloped potatoes in crock pot",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan au gratin",
+        "volume": 9900,
         "competition": 0
       },
       {
-        "keyword": "potato dish",
-        "volume": 0,
+        "keyword": "recipe for scalloped potatoes with cheese",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "recipes for cheesy scalloped potatoes",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "easy scalloped potatoes",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "great scalloped potatoes",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "potato bake with cream and sour cream",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "scalloped potatoes & ham in crock pot",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "au gratin potato recipe easy",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "betty crocker scalloped potato",
+        "volume": 4400,
+        "competition": 56
+      },
+      {
+        "keyword": "cheese potato scallops",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "easy scalloped potatoes au gratin recipe",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "ham cheese potatoes casserole",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "jamie oliver dauphinoise potatoes",
+        "volume": 4400,
         "competition": 0
       },
       {
-        "keyword": "baked potatoes",
-        "volume": 0,
+        "keyword": "recipe potato au gratin easy",
+        "volume": 4400,
+        "competition": 18
+      },
+      {
+        "keyword": "vegan gratin",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "potato leek gratin",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "scalloped potatoes au gratin",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "au gratin potatoes homemade",
+        "volume": 3600,
+        "competition": 18
+      },
+      {
+        "keyword": "gratin sweet potatoes",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "home made potato au gratin",
+        "volume": 3600,
+        "competition": 18
+      },
+      {
+        "keyword": "homemade au gratin scalloped potatoes",
+        "volume": 3600,
+        "competition": 18
+      },
+      {
+        "keyword": "leek and potato gratin",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "potato and cream bake",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "potato and sweet potato gratin",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "potato sweet potato gratin",
+        "volume": 3600,
         "competition": 0
       }
     ]

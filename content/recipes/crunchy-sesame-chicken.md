@@ -1,10 +1,10 @@
 ---
 title: "Crunchy Sesame Chicken with Honey Sriracha"
 slug: "crunchy-sesame-chicken"
-description: "Crispy fried chicken thighs coated in cornstarch and flour, tossed in a honey-sriracha sauce with toasted sesame seeds. Ready in 30 minutes."
-metaDescription: "Fried chicken recipe with cornstarch crust, honey sriracha sauce, and sesame seeds. Crispy, sticky, and ready in 30 minutes. Make it tonight."
-ogDescription: "Golden fried chicken thighs with crunchy sesame seeds, tangy honey-sriracha glaze, and crispy cornstarch coating."
-focusKeyphrase: "fried chicken"
+description: "Crispy fried chicken thighs coated in flour and cornstarch, tossed in honey sriracha sauce with sesame seeds. Ready in 30 minutes."
+metaDescription: "Crispy chicken thighs with honey sriracha sauce and toasted sesame seeds. Cornstarch coating for extra crunch. Make it tonight."
+ogDescription: "Crispy fried chicken thighs in a sticky honey sriracha glaze with toasted sesame seeds. Ready in 30 minutes."
+focusKeyphrase: "crispy fried chicken"
 date: 2025-11-16
 draft: false
 image: crunchy-sesame-chicken.jpg
@@ -21,16 +21,18 @@ tags:
 - "spicy"
 - "easy dinner"
 keywords:
-- "fried chicken"
-- "sesame chicken"
-- "cornstarch crust"
-- "sesame seeds"
+- "crispy fried chicken"
 - "honey sriracha chicken"
-- "crispy chicken thighs"
-- "Asian fried chicken"
-- "sriracha sauce"
-- "chicken thighs recipe"
-- "quick chicken dinner"
+- "crunchy fried chicken"
+- "sesame chicken"
+- "crispy chicken"
+- "fried chicken thighs"
+- "asian chicken dishes"
+- "fried chicken in cornstarch"
+- "batter for fried chicken"
+- "deep fried chicken"
+- "all purpose flour fried chicken"
+- "sriracha and honey"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "370"
@@ -91,90 +93,88 @@ faq:
 
 ---
 
-Chicken thighs. Crispy coat. Sauce that sticks without being thick like glue. This is the remix that tastes like takeout but happens in 39 minutes flat, start to finish. Had leftover thighs one night, didn't want to order again, and this happened instead.
+Sesame seeds hit the skillet and everything changes. That nutty smell. Takes maybe 2 minutes. Then you're done or they burn—no in-between. Had three pounds of chicken thighs and wanted something that didn't taste like takeout pretending to be homemade. This crunchy sesame chicken with honey sriracha happened instead. 39 minutes total. Crispy outside. Sauce that sticks without drowning it.
 
 ## Why You'll Love This
 
-Takes 39 minutes total. Seriously. Twelve minutes prep, 27 minutes cooking. Weeknight dinner energy.
+Takes 39 minutes start to finish. Thighs stay juicy even when fried hard.
 
-Crispy outside, tender inside. The cornstarch does that. Oil frying gets you that crunch you can't fake in an oven.
+Works as an easy dinner for a weeknight or feeds people at a table. Rice, no rice, whatever.
 
-Spicy but balanced. Sriracha's in there but not aggressive. Honey rounds it out. Ketchup sounds weird—tastes right.
+Crispy chicken coating actually stays crispy for like 10 minutes after plating. Not that soft-chewy stuff.
 
-Easy to scale. Make half or double it. Oil stays at temp, chicken cooks the same way.
+The sauce is spicy but honey balances it. Not a punishment to eat.
 
-## What You Actually Need to Buy
+## Toasted Sesame Seeds and the Crispy Chicken Foundation
 
-Sesame seeds—toast them yourself. Raw ones taste flat. Takes two and a half minutes, smells better that way.
+Sesame seeds go in first—dry skillet, medium heat. Stir them. 2½ minutes and they smell amazing. Stop before they brown or they taste burnt and bitter. Set aside in a bowl right then.
 
-Eggs, flour, cornstarch. Standard. Cornstarch is the secret. Don't skip it or the crust gets dense.
+Eggs. Three of them. Beat with salt and pepper. Not fancy. Just combined.
 
-Chicken thighs, boneless skinless. Cut them into bite-sized pieces yourself. Takes three minutes. Thighs stay juicy where breasts dry out.
+Flour and cornstarch mixed together. Half cup flour, quarter cup cornstarch. Cornstarch is what makes this crunchy crispy chicken actually crispy. Potato starch works if that's what you have. Whisk it smooth. Don't pack it—stays loose so coating doesn't turn gummy when it hits the oil.
 
-Neutral oil for frying. Canola, vegetable, whatever. Two cups. You'll reuse it if it stays clean.
+Chicken thighs. 1½ pounds, bite-sized pieces. Pat them dry with paper towels. Wet chicken steams instead of fries.
 
-The sauce: ketchup, honey, soy sauce, brown sugar, rice vinegar, sesame oil, sriracha. That combo. Don't question it yet.
+Oil for frying. Two cups. Neutral. Canola, vegetable. Not olive—burns too fast.
 
-Garlic. Green onions. Rice for serving or skip it if you want the chicken alone.
+For the sauce: olive oil, garlic, ketchup, honey, soy sauce, brown sugar, rice vinegar, toasted sesame oil, sriracha. A teaspoon of cornstarch mixed with water—the slurry. Green onions for the end.
 
-## How to Make It Crispy and Sauce It Right
+## Making Fried Chicken That Actually Tastes Good
 
-Toast the sesame seeds dry in a skillet first. Medium heat. Stir them. Two and a half minutes and they smell incredible. Stop right there or they burn. Set aside.
+Heat oil in a heavy skillet or Dutch oven over medium-high. Target 345-355°F. No thermometer? Drop a small bit of flour in. Should dance and bubble hard but not smoke. If it just sits there, wait longer.
 
-Beat three eggs with salt and pepper. Just combined. That's the glue layer.
+Batch the chicken. Dunk pieces in egg wash one at a time. Excess drips off. Then into the flour mix. Coat fully. Shake loose bits away or they'll burn in the oil and taste acrid. Arrange on a sheet pan while you work through the rest.
 
-Mix flour and cornstarch in another bowl. Half cup flour, quarter cup cornstarch. Whisk it till even. Cornstarch makes the crust light and shatters when you bite it. Potato starch works if you're out. Don't pack the mix tight or you'll trap moisture and get gummy instead.
+Add 10-12 pieces to the hot oil. Don't crowd. They need space or temperature drops and they absorb oil instead of frying.
 
-Pat the chicken dry. Wet chicken = oil splattering and soggy coating. Go piece by piece into egg, shake off drips, then into flour mix. Coat completely. Shake loose flour off or it'll burn in the hot oil and taste bitter. Lay them on a sheet pan. Work in batches so you're not rushing.
+Watch them. 4-6 minutes depending on size. They'll be deep golden, edges bubbling. Flip once halfway. Touch one—firm outside, springy in the middle. That's the signal.
 
-Heat two cups oil in a heavy skillet or Dutch oven over medium-high. You want 345 to 355 degrees. No thermometer? Drop a tiny piece of flour in. Should dance and bubble hard but not smoke instantly. That's your signal.
+Slotted spoon. Get them out. Drain on a wire rack set over a sheet pan. Rack keeps the bottom from getting soggy. The heat underneath helps.
 
-Add ten to twelve pieces. Don't crowd the pan. Frying in clusters drops the temp and turns everything greasy.
+Keep oil between 340-350°F for the rest of the batches. Too cool and chicken drinks oil. Too hot and the flour burns before chicken cooks through.
 
-Four to six minutes. Golden brown. Crispy. Edges bubbling. Flip once halfway through. Touch one—should feel firm but spring back when you press. Use a slotted spoon, drain on a wire rack sitting on a sheet pan. Keeps the bottom crisp instead of steaming against a plate.
+While the last batch fries, start the sauce. Olive oil in a large skillet over medium-high. Garlic goes in minced. Stir. Listen for the sizzle. 2-4 minutes till golden and it smells like garlic, not raw.
 
-Batch two, batch three. Keep the oil between 340 and 350 degrees. Too cool and chicken drinks oil. Too hot and the outside burns before the inside cooks.
+Drop heat to low. Pour in ketchup, honey, soy sauce, brown sugar, rice vinegar, sesame oil, sriracha. Stir slow.
 
-While batches finish, heat a tablespoon of olive oil in a large skillet over medium-high. Add minced garlic. Listen for the sizzle. Two to four minutes till golden and it smells nutty. Drop to low heat.
+Pour the cornstarch slurry in. Whisk smooth. No lumps. Keep heat low. The sauce thickens gradually—small bubbles, slow. Rush it and it breaks and gets grainy.
 
-Pour in ketchup, honey (maple syrup if you want gentler sweetness), soy sauce, brown sugar, rice vinegar, toasted sesame oil, sriracha. Mix them. Slowly stir in a cornstarch slurry—one teaspoon cornstarch mixed with three tablespoons water. No lumps, should coat the whisk smooth.
+When it's glossy and sticks to the pan when you pull a spoon through—that's done. Fold in the fried chicken. Toss so every piece gets coated but not drowning.
 
-Keep it on low. Sauce thickens slow. Tiny bubbles. Don't crank it or the starch breaks and separates. When it's glossy and sticks to the pan when you drag a spoon through, it's done.
+Plate it. Sesame seeds on top. Green onions. Rice underneath or skip it. Drizzle extra sauce or use it as dip.
 
-Fold the chicken pieces in. Toss so each one gets coated but doesn't look swimming in sauce. Should look like the sauce is wearing the chicken, not drowning it.
+## Mistakes and How to Fix Them
 
-Plate it. Sprinkle toasted sesame seeds. Scatter green onions. Serve over steamed rice or just eat it straight.
+Sesame seeds burned before you finished cooking. Means the heat was too high or you weren't watching. Lower the heat. Stir constantly. Two minutes is usually enough.
 
-## Mistakes That Actually Happen and How to Fix Them
+Flour coating came off during frying. The eggs weren't sticky enough or the flour wasn't beaten into them. Make sure you beat the eggs first. Don't skip that step.
 
-Skip toasting the sesame seeds and they taste like nothing. Raw seeds are just texture. Toasted ones are the whole thing.
+Chicken came out greasy. Oil temperature dropped. Could be too many pieces at once. Batch smaller next time. Keep a thermometer nearby if you have one.
 
-Don't pat the chicken dry and you get moisture in the oil. Splatters everywhere. It's annoying. Paper towels, two minutes. Worth it.
+Sauce broke and looks grainy. Added the slurry too fast or heat was too high. Start over with the sauce if it's bad. Low heat. Whisk slow. It thickens, doesn't snap.
 
-Pack the flour mixture tight and it gets gummy. Whisk it loose. Let air in. Different from how flour usually feels.
+## The Oil and Cleanup
 
-Crowd the pan while frying and everything stews instead of crisps. Oil temp crashes. Do smaller batches. Gives you better crust and actually goes faster.Crank the sauce heat too high and it breaks. Thickens unevenly. Starch separates. Low heat, patience. Five minutes and it's perfect.
-
-Store leftover oil while still warm but safe. Strain it through cheesecloth. Frying oil gets reused three or four times before it tastes off. Saves money. Tastes better next time because the oil's seasoned.
+While oil is still warm but safe to touch, strain it through a fine mesh if it's clean. Save it for next time you fry. Multiple batches waste too much otherwise. Store in a container, cool place.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can I use chicken breasts instead of thighs?**
-You can. Breasts cook faster, maybe three to five minutes instead of four to six. But they dry out. Thighs have fat. They stay tender even when overcooked a little bit. Breasts you have to nail the timing or they're rubbery.
+**Can you make this in an air fryer instead of frying in oil?**
+Yes. Spray the basket and the coated chicken with cooking spray. 380°F for 12-15 minutes, shake basket halfway. Won't be quite as crispy as stovetop fried but still crunchy. Spray matters—that's what gets you the crunch without oil.
 
-**What oil temperature really matters?**
-340 to 350 degrees is the sweet spot. Below that and chicken absorbs oil, tastes greasy. Above and the flour burns before the inside cooks through. If you don't have a thermometer, get one. They're cheap and you'll use it forever.
+**What if you don't have cornstarch?**
+Potato starch works. Rice flour works. Even arrowroot powder. Cornstarch is king because it fries light and crispy but the others get the job done. White flour alone won't give you the same texture.
 
-**How do I know when the sauce is done?**
-It stops bubbling actively and turns glossy. Drag a spoon through it. The sauce should stick for a second then slowly fill in. That's thickened enough. It'll keep getting thicker as it cools too, so don't overdo it or it'll set like paste.
+**How do you know when the sauce is thick enough?**
+It sticks to the spoon. When you pull a spoon through the sauce, it leaves a trail that doesn't immediately fill back in. If it's still runny, keep simmering low and slow. No rushing.
 
-**Can I make the sauce less spicy?**
-Use less sriracha. A quarter teaspoon instead of a full one. Or skip it and add another tablespoon of honey. Not sure why honey balances sriracha so well but it does.
+**Can you use chicken breast instead of thighs?**
+Thighs stay juicier under heat. Breast works but dries out faster. Cut breast smaller so it cooks through before the outside burns. Fry for 3-4 minutes instead of 4-6.
 
-**How long does this keep?**
-Three days in the fridge in an airtight container. Reheat in a skillet over medium to get the crust crispy again. Microwave makes it soggy. The sauce reheats fine. Just stir it while it warms.
+**How long does this keep in the fridge?**
+Three days max. Chicken gets dry. Sauce separates. Reheat gently in a low oven with a splash of water. Microwave makes it tough.
 
-**Do I have to serve it with rice?**
-No. Eat it alone, over a salad, in a wrap. Works all ways. Rice is traditional but not required.
+**Is sriracha actually spicy or just flavor?**
+It's spicy but honey tames it. The recipe is more medium-hot than brutal. Add more sriracha if you want real heat. Start with what's listed and go up from there next time.

@@ -1,22 +1,263 @@
 {
   "slug": "curried-fish-stew",
-  "title": "Curried Fish Stew with Veggies",
-  "seed_keywords": [],
+  "title": "Curried Fish Stew with Sweet Potatoes",
+  "seed_keywords": [
+    "fish stew recipes",
+    "curried fish dishes",
+    "fish coconut curry",
+    "sweet potato stew",
+    "curry with fish"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "curried fish",
-        "volume": 0,
+        "keyword": "bouillabaisse",
+        "volume": 246000,
+        "competition": 1
+      },
+      {
+        "keyword": "cioppino",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "curry with fish",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "curry fish curry",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "fish and curry",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "fish curry fish curry",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "fish kari",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "fish curry recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "fish gravy recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe to make fish curry",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "fish stew",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "fisherman's stew",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "goan fish curry",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "goan monkfish curry",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "fish stew recipes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "fish coconut curry",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "curried salmon",
+        "volume": 9900,
         "competition": 0
       },
       {
-        "keyword": "vegetable stew",
-        "volume": 0,
+        "keyword": "fish and coconut curry",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "fish stew dishes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "fisherman's stew recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "keralan fish",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon and curry",
+        "volume": 9900,
         "competition": 0
       },
       {
-        "keyword": "easy dinner",
-        "volume": 0,
+        "keyword": "salmon in curry",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "african groundnut stew",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "curry goan",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "goan curry",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "stewed seafood",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "curried fish dishes",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "kerala fish curry",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "bengali fish",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "fish curry fish",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fish curry thai",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "kerala curry fish",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "macher jhol",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "vernekar goan fish curry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "kappa fish curry",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "kappa meen curry",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "potato stew",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "goan fish curry recipe",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "monkfish curry",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "brazilian moqueca recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cioppino seafood",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "curry salmon recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "fish curry recipe goan",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "meen kulambu",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "moqueca recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe seafood stew",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "stewed eels",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "fish curry with coconut milk",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "bengali fish curry",
+        "volume": 3600,
         "competition": 0
       }
     ]

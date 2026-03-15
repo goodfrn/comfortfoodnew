@@ -1,28 +1,264 @@
 {
   "slug": "edamame-vegetarian-chili",
-  "title": "Edamame Vegetarian Chili",
-  "seed_keywords": [],
+  "title": "Edamame Vegetarian Chili with Chipotle",
+  "seed_keywords": [
+    "vegetarian chili",
+    "edamame chili",
+    "black bean chili",
+    "sweet potato chili",
+    "chipotle vegetarian recipes"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "edamame chili",
-        "volume": 0,
-        "competition": 0
-      },
-      {
         "keyword": "vegetarian chili",
-        "volume": 0,
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "meatless chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chili veg",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "non meat chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "beans chilli recipe",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe bean chilli",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "potato chilli",
+        "volume": 40500,
         "competition": 0
       },
       {
-        "keyword": "chipotle chili",
-        "volume": 0,
+        "keyword": "black eyed peas bean",
+        "volume": 33100,
+        "competition": 67
+      },
+      {
+        "keyword": "potato honey chilli",
+        "volume": 22200,
         "competition": 0
+      },
+      {
+        "keyword": "vegetarian chilli",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "mexican recipes with black beans",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bean chili",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "veggie chilli",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "veggie chile",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean chili",
+        "volume": 6600,
+        "competition": 5
       },
       {
         "keyword": "sweet potato chili",
-        "volume": 0,
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "black beans and chili",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "blackbeanchili",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "chili and sweet potatoes",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chili beans black",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "chili black bean",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "sweet potato with chilli",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean chili recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "sweet potato black bean chili",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean and sweet potato chili",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean chili with sweet potato",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chili black bean recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "chili made with black beans",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "chili potato",
+        "volume": 5400,
         "competition": 0
+      },
+      {
+        "keyword": "chilli black bean recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for chili with black beans",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "veggies for chili",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian chili slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chili crock pot vegetarian",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chili vegetarian crock pot",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot meatless chili",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot veg chili",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "meatless chili slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chipotle vegetarian bowl",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "chili recipe sweet potato",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato and turkey chili",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato turkey chili",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan chili beans",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "vegetarian chili beans",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "best vegetarian chili",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "amazing vegetarian chili",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "bean and veggie chili",
+        "volume": 2400,
+        "competition": 17
+      },
+      {
+        "keyword": "best meatless chili",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "best veg chili",
+        "volume": 2400,
+        "competition": 4
       }
     ]
   },

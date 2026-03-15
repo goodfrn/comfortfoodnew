@@ -1,23 +1,264 @@
 {
   "slug": "easy-beef-wellington",
-  "title": "Easy Beef Wellington",
-  "seed_keywords": [],
+  "title": "Easy Beef Wellington with Mushroom Duxelles",
+  "seed_keywords": [
+    "beef wellington",
+    "mushroom beef recipes",
+    "beef with mushrooms",
+    "prosciutto wrapped beef",
+    "holiday beef main course"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "beef Wellington",
-        "volume": 0,
-        "competition": 0
+        "keyword": "beef wellington",
+        "volume": 550000,
+        "competition": 27
       },
       {
-        "keyword": "duxelles mushroom",
-        "volume": 0,
-        "competition": 0
+        "keyword": "beef for beef wellington",
+        "volume": 550000,
+        "competition": 27
       },
       {
-        "keyword": "prosciutto wrapped beef",
-        "volume": 0,
-        "competition": 0
+        "keyword": "beef we",
+        "volume": 550000,
+        "competition": 27
+      },
+      {
+        "keyword": "beef wellington and",
+        "volume": 550000,
+        "competition": 27
+      },
+      {
+        "keyword": "beef wellington dish",
+        "volume": 550000,
+        "competition": 27
+      },
+      {
+        "keyword": "beef wellington food",
+        "volume": 550000,
+        "competition": 27
+      },
+      {
+        "keyword": "fillet wellington",
+        "volume": 550000,
+        "competition": 27
+      },
+      {
+        "keyword": "meat beef wellington",
+        "volume": 550000,
+        "competition": 27
+      },
+      {
+        "keyword": "beef stroganoff and",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stroganoff recipe",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for stroganoff beef stroganoff",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "steak stroganoff recipe",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "stroganoff",
+        "volume": 246000,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for beef wellington",
+        "volume": 110000,
+        "competition": 9
+      },
+      {
+        "keyword": "beef stroganoff crock pot",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker beef stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "beef slow cooker stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "stroganoff in a slow cooker",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "stroganoff in the slow cooker",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "stroganoff recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for beef stroganoff with ground beef",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for ground beef stroganoff",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff recipe using ground beef",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff recipes hamburger",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for stroganoff with hamburger",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff with ground beef",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "ground beef stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chopped meat stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "gr beef stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "ground meat stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "hamburger meat stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "stroganoff using ground beef",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef fillet for wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "mushroom sauce for steak",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff easy recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "stroganoff recipe easy",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "beef tenderloin for beef wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "fillet of beef for wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "tenderloin for beef wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "beef mushroom sauce for steak",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef tenderloin wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "beef wellington with tenderloin",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "fillet of beef for beef wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "mushroom sauce and steak",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "tenderloin of beef wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "tenderloin wellington",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "wellington beef fillet",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "gordon ramsay beef wellington",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "gordon ramsay and beef wellington",
+        "volume": 18100,
+        "competition": 11
       }
     ]
   },

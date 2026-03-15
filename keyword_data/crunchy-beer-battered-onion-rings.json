@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-beer-battered-onion-rings",
   "title": "Crunchy Beer-Battered Onion Rings",
-  "seed_keywords": [],
+  "seed_keywords": [
+    "beer battered onion rings",
+    "fried onion rings",
+    "crispy onion appetizer",
+    "beer batter recipe",
+    "deep fried vegetables"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "onion rings",
-        "volume": 0,
-        "competition": 0
+        "keyword": "beer battered fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "fish batter recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "ale battered fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "batter beer fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "batter for cooking fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "batter for fish with beer",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer batter fish batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer for fish batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "fish with beer batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "make a batter for fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for making batter for fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "seafood batter recipes",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "beer batter recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "fish batter",
+        "volume": 22200,
+        "competition": 55
+      },
+      {
+        "keyword": "batter on fish",
+        "volume": 22200,
+        "competition": 55
+      },
+      {
+        "keyword": "bread beer recipe",
+        "volume": 22200,
+        "competition": 5
       },
       {
         "keyword": "beer batter",
-        "volume": 0,
-        "competition": 0
+        "volume": 18100,
+        "competition": 18
       },
       {
-        "keyword": "fried onion rings",
-        "volume": 0,
-        "competition": 0
+        "keyword": "beer for batter",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "battered fries",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "battered french fries",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "beer batter fish recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "battered chips",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "batter beer fish recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for fish beer batter",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "battered onion rings",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "fish and chips batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer onion rings",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "batter fish fry",
+        "volume": 9900,
+        "competition": 75
+      },
+      {
+        "keyword": "batter fish n chips",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "batter for fish & chips",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "battered fish & chips",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "battered recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "beer batter french fries",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "beer batter fries",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "fish & chip batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "fish and chip batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "fish and chips fish batter",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "fish batter for frying fish",
+        "volume": 9900,
+        "competition": 75
+      },
+      {
+        "keyword": "onion ring air fryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "onion ring airfryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "onion ring in air fryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "onion rings in an air fryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "onion rings in the air fryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "onion strings air fryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "beer battered onion rings",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "onion rings batter beer",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "onion rings with beer batter",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "battered cod",
+        "volume": 6600,
+        "competition": 57
+      },
+      {
+        "keyword": "batter cod fish",
+        "volume": 6600,
+        "competition": 57
+      },
+      {
+        "keyword": "beer battered cod",
+        "volume": 5400,
+        "competition": 54
       }
     ]
   },

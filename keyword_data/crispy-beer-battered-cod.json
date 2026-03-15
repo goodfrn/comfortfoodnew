@@ -1,23 +1,264 @@
 {
   "slug": "crispy-beer-battered-cod",
-  "title": "Crispy Beer Battered Cod",
-  "seed_keywords": [],
+  "title": "Crispy Beer Battered Cod with Pale Ale",
+  "seed_keywords": [
+    "beer battered fish",
+    "crispy fried cod",
+    "fish and chips",
+    "beer battered seafood",
+    "fried cod recipe"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "fish and chips",
+        "volume": 1220000,
+        "competition": 4
+      },
+      {
+        "keyword": "fish and chips near me",
+        "volume": 1220000,
+        "competition": 10
+      },
+      {
+        "keyword": "fish & chips near me",
+        "volume": 1220000,
+        "competition": 10
+      },
+      {
+        "keyword": "fish and chip",
+        "volume": 1220000,
+        "competition": 4
+      },
+      {
+        "keyword": "fish and chip near me",
+        "volume": 1220000,
+        "competition": 10
+      },
+      {
+        "keyword": "chips and fish near me",
+        "volume": 1220000,
+        "competition": 10
+      },
+      {
+        "keyword": "fish and chips fish",
+        "volume": 1220000,
+        "competition": 4
+      },
+      {
+        "keyword": "fishn chips",
+        "volume": 1220000,
+        "competition": 4
+      },
+      {
+        "keyword": "chip shop near me",
+        "volume": 201000,
+        "competition": 5
+      },
+      {
+        "keyword": "chippy near me",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "fish n chips",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "chip shop",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "chips shop",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "fish n chip",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "fish chip shop",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "fish and chip shop near me",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "fish and chips shop near me",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "fish & chip",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "best fish and chips near me",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "fish n chips near me",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "good fish and chips near me",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "best fish & chips near me",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "fish n chip near me",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "fish and chips takeaway",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "fish and chip shop",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "fish and chips shop",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "fish and chips takeaway near me",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "fish chips",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "gordon ramsay fish & chips",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "beer battered fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "fish batter recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "ale battered fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "arthur treacher",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "batter beer fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "batter for cooking fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "batter for fish with beer",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer batter fish batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer breaded fish",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "beer for fish batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "fish with beer batter",
+        "volume": 27100,
+        "competition": 29
+      },
+      {
+        "keyword": "make a batter for fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for making batter for fish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "seafood batter recipes",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "fish batter",
+        "volume": 22200,
+        "competition": 55
+      },
+      {
+        "keyword": "the chippy",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "beer batter recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "fish and chic",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "batter on fish",
+        "volume": 22200,
+        "competition": 55
+      },
+      {
         "keyword": "beer batter",
-        "volume": 0,
-        "competition": 0
+        "volume": 18100,
+        "competition": 18
       },
       {
-        "keyword": "crispy cod",
-        "volume": 0,
-        "competition": 0
-      },
-      {
-        "keyword": "fried fish",
-        "volume": 0,
-        "competition": 0
+        "keyword": "fish and chips restaurant",
+        "volume": 18100,
+        "competition": 5
       }
     ]
   },

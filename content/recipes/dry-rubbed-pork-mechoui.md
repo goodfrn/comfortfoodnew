@@ -1,10 +1,10 @@
 ---
-title: "Dry-Rubbed Porc Méchoui: Whole Pork Leg"
+title: "Dry-Rubbed Pork Shoulder: Slow Roasted"
 slug: "dry-rubbed-pork-mechoui"
-description: "Dry-rubbed porc méchoui slow-roasted whole pork leg with smoked paprika, chili powder, and cumin. Tender, smoky meat with crispy skin."
-metaDescription: "Dry-rubbed porc méchoui made with smoked paprika, chili powder, and cumin. Slow-roasted whole pork leg over hardwood charcoal. Try it tonight."
-ogDescription: "Whole pork leg rubbed with paprika, chili powder, and cumin. Slow-roasted over charcoal for smoky, tender meat."
-focusKeyphrase: "dry-rubbed porc méchoui"
+description: "Slow-cooked pork shoulder rubbed with smoked paprika, chili powder, and cumin. Tender, smoky pulled pork with crispy skin and deep flavor."
+metaDescription: "Slow-cooked pork shoulder recipe with smoked paprika, chili powder, and cumin dry rub. Tender, smoky meat perfect for pulled pork. Make it tonight."
+ogDescription: "Slow-cooked pork shoulder with paprika and chili powder rub. Tender, smoky, and perfect for any occasion."
+focusKeyphrase: "slow cooked pork shoulder"
 date: 2025-08-09
 draft: false
 image: dry-rubbed-pork-mechoui.jpg
@@ -21,16 +21,18 @@ tags:
 - "dry rub"
 - "spicy"
 keywords:
-- "dry-rubbed porc méchoui"
-- "porc méchoui"
-- "dry rub pork"
-- "slow roasted pork"
-- "whole pork leg recipe"
+- "slow cooked pork shoulder"
+- "pork shoulder slow cooker recipe"
+- "slow cooker pork shoulder recipes"
+- "pork butt slow cooker"
+- "dry rub for pork"
 - "smoked paprika pork"
-- "hardwood charcoal roasted pork"
-- "spit roasted pork"
-- "pork butt slow roast"
-- "spice rubbed pork"
+- "chili powder pork rub"
+- "tender pulled pork"
+- "slow roast pork shoulder"
+- "crock pot pork shoulder recipe"
+- "pork roast dry rub"
+- "cumin seasoning pork"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -79,62 +81,78 @@ faq:
 
 ---
 
-Whole pork leg on a spit, skin crackling, meat falling apart after 8 hours of smoke and rotation. Had a friend insist this was "too much work." Then he ate it. Didn't say much after that.
-
-This is dry-rubbed pork méchoui — not fast food, not weeknight casual. This is the kind of thing you plan for. You show up with charcoal and patience and time. The dry rub penetrates deep over a full day in the fridge. Then the spit turn, the basting, the slow roasting. But it's not complicated. It's just commitment.
+Eleven kilos of pork. Skin scored. Buried in salt, chili, cumin, paprika. Then you spin it over fire for eight and a half hours while smoke wraps around it and fat drips and crackles. This is méchoui — the North African whole animal roast that takes all day and gives you meat so tender the fibers separate on their own, skin so crispy it shatters. Tried this once with just salt. Never again. The dry rub changes everything.
 
 ## Why You'll Love This
 
-Takes 8 and a half hours. Feeds twenty people easily. You're not standing there the whole time — set a rotation schedule, baste every half hour, walk away between rounds.
+Takes 40 minutes to prep, then eight and a half hours hands-off. Set it spinning, check it every thirty minutes, that's it. Grilling becomes an event, not work.
 
-Spicy dry rub that actually sticks. The scoring lets it in deep. Brown sugar mellows the heat just enough. You taste the cumin and smoked paprika, not just salt and burn.
+Spicy without being mean. The chili powder and smoked paprika do the work — no fire hot, just depth and character. Adjust down if you're sensitive.
 
-Works as a centerpiece for everything. Serve it sliced on platters. Make sandwiches the next day. Pull it, shred it, use it in tacos three days later.
+One whole pork leg feeds a crowd. Twelve to fifteen people easy. Costs less per serving than buying smaller cuts.
 
-The skin gets genuinely crispy. Like, shatters when you bite it. Most slow-roasted pork stays soft. This one doesn't.
+The skin. Crispy, salty, snaps when you break it. Meat underneath pulls apart without a knife.
 
-## Building Your Dry Rub and Prepping the Meat
+## Building Your Dry Rub for Pork
 
-Chili powder. Smoked paprika. These are the base — three tablespoons each. Brown sugar next, one and a half tablespoons. Softens the heat. Then coarse sea salt, three tablespoons. Ground cumin, two teaspoons. Black pepper, two teaspoons. Onion powder, two teaspoons. Mix it all in a bowl. Uniform matters here. Lumps burn first.
+Mix chili powder, smoked paprika, coarse sea salt, brown sugar, black pepper, ground cumin, and onion powder together. Three tablespoons of chili and paprika each. Three tablespoons of salt — sounds like a lot but it seasons deep. One and a half tablespoons brown sugar balances the heat. Two teaspoons each of pepper, cumin, onion powder. Uniform matters. A few clumps means some bites taste like nothing, others taste like pure cumin.
 
-Your pork leg needs scoring. Every inch, deep enough to hit fat but not meat. Use a sharp knife. Push the dry rub into each score with your fingers. All over. Wrap it tight or bag it. Refrigerate twenty to thirty-six hours. Longer is better for flavor. Just watch the edges — if it sits uncovered past a day and a half, the dry parts start getting stringy.
+## Preparing the Pork Shoulder for the Spit
 
-## Slow Roasted Pork Over Live Fire
+Score the skin every inch, deep enough to hit fat but stop before meat. You want the knife resisting just a bit. This isn't decoration — scored skin renders faster and the rub gets inside instead of sitting on top.
 
-Set up your fire pit or grill for indirect heat. You want coals on one side, the pork on the other. Medium-hot bed — hold your hand six inches above it, count to three. That's your baseline. Arrange wood chunks in the coals. Hardwood. Whatever burns clean where you are.
+Pat the pork dry. Rub the seasoning everywhere. Push it into each score. Don't be gentle. Wrap it tight or zip bag it and refrigerate twenty to thirty-six hours. Longer is better. The salt penetrates muscle, the cumin settles in. Overnight minimum. Two days is better.
 
-Skewer the pork lengthwise along the bone. Use butcher's twine or heavy wire to keep it from shifting. Position it over the indirect side. Below it, place an aluminum pan. Half beer, half water. Catch the drippings. Prevent flare-ups from the fat. This matters.
+Let it sit at room temperature about an hour before cooking. Cold meat on hot coals cooks unevenly at the edges.
 
-Start the spit turning. Steady. Every thirty minutes, baste with beer. The meat sweats fat constantly. Beer keeps it moist and builds that crust. Watch the color — it should deepen slowly, not blacken. You'll smell it getting done. That's not a bad sign. That's a good one.
+## Setting Up Your Grill or Fire Pit for Slow Cooking
 
-This takes seven to nine hours depending on your fire and the exact size of the leg. Use a probe thermometer. Aim for seventy to seventy-five degrees Celsius internal — that's one-sixty to one-seventy in Fahrenheit. Check the thickest part, avoid the bone. The skin should be crackling. The meat should separate when you pull it.
+This isn't a quick sear situation. You need indirect heat. Build a bed of hardwood lump charcoal — about twenty kilograms total — and push it to one side of your pit or grill. Add wood chunks or logs for smoke. Oak, hickory, apple. Not softwood.
 
-## Rest It, Then Serve It
+Test the heat by holding your hand six inches above the coals. Count to three before discomfort. That's medium-hot. You want steady heat, not raging. Arrange the charcoal so the thickest part of the leg (where the bone is) gets more heat than the thinner shank end.
 
-Remove from spit. Tent with foil. Let it sit twenty-five to thirty-five minutes. Juices redistribute. This is when the meat goes from hot-and-tight to actually tender.
+Place an aluminum roasting pan under the spit — something about eleven by nine inches. Pour in half a beer and half water. This catches drips, prevents flare-ups, keeps the meat moist from underneath.
 
-Peel the skin off carefully. It should shatter. Slice thin against the grain. The meat will be falling apart already. Serve it immediately. Tangy white BBQ sauce. Smoked sauce. Grainy mustard sauce. Pick one. All three works better.
+Skewer the pork lengthwise along the bone. Use heavy-duty wire or butcher's twine to hold it secure. Loose meat spins unevenly and cooks weird.
 
-Leftovers freeze tight. Wrap them well or they dry out. Reheat low and slow. Don't microwave this. Just don't.
+## Turning and Tending the Spit for Eight Hours
+
+Start the spit turning. Slow rotation. Not sprinting. Steady matters more than speed.
+
+Every thirty minutes, baste it with beer. Not water. Beer adds flavor and helps the skin caramelize into something crackly. You'll see fat drips hit the coals and sizzle — that's the smell that makes neighbors ask what you're cooking.
+
+Watch the thermometer. Target 160 to 170 degrees Fahrenheit internal meat temperature. Check it in the thickest part, avoid the bone. Takes most people seven to nine hours. Mine usually runs eight and a half. Depends on coal temperature, wind, how hot your pit is running.
+
+Meat should separate when you poke it with a fork. Fibers pull apart easy. Skin should sound crispy when you tap it. If it's still rubbery at hour seven, your heat's too low or you're cooking to the wrong temperature. Push the temp up slightly, keep spinning.
+
+Last hour, stop basting. Let the skin dry and crisp all the way.
+
+## Resting and Serving Pulled Pork from the Spit
+
+Remove it from the spit. Tent with foil immediately. Let it rest twenty-five to thirty-five minutes. This lets juice redistribute. Skip this and every bite bleeds. Don't skip it.
+
+Peel the skin off — it should come away clean and crackle when you break it. That's the goal. If it's still soft, you didn't finish hot enough or long enough. Doesn't ruin anything, just less dramatic.
+
+Slice thinly against the grain. The meat pulls apart but thin slices chew better. Serve with grainy mustard, tangy white BBQ sauce, or smoked sauce. The meat doesn't need much — salt and smoke are already in there.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can I make this in a slow cooker instead of over coals?**
-You lose the skin. Slow cooker steams it. If you don't care about the crispy skin, sure, cook it low for eight hours. Same internal temp. But that crust is half the point of this whole thing.
+**Can you make this in a slow cooker or crock pot?**
+Not really. A slow cooker maxes out around 300 degrees. You need the high, dry heat to render fat and crisp skin. A slow cooker makes it tender but you lose the texture that makes this special. Oven roasting at 250 for twelve to fourteen hours gets closer but still no smoke flavor and no skin.
 
-**How much charcoal do I actually need?**
-Twenty kilograms sounds like a lot. It's not. You're cooking for eight hours straight. Add more coals every hour or so to maintain heat. Better too much than running out mid-cook. Hardwood lump burns hotter and faster than briquettes. Plan accordingly.
+**What if you don't have a fire pit or spit?**
+You can roast it in an oven at 250 degrees, also twelve to fourteen hours. Use a regular roasting pan, rotate it every two hours, baste with beer. You lose the smoke and the spinning action but the dry rub still works. Less dramatic. Still eats well.
 
-**What if I don't have a spit?**
-Could work on a grate over coals. Flip it every 45 minutes instead of rotating constantly. You lose some evenness. The spit's advantage is constant rotation without flare-ups. But if that's what you have, go for it.
+**Should you use pork butt or pork shoulder?**
+Same thing basically. Pork butt is the upper part of the shoulder. Both have enough fat to stay moist through long cooking. Avoid lean cuts like tenderloin — they dry out.
 
-**Do I have to refrigerate the rub for a full day?**
-Twenty hours minimum. Longer is better. Overnight plus the next morning, at minimum. Skipping this means the rub sits on the surface. It'll taste flat. The scoring helps the seasoning penetrate, but time is what drives it in.
+**How long do leftovers last?**
+Wrap tightly, freeze. Stays good for three months easy. Reheat low and slow in a covered pan with a splash of water or beer. Moisture matters when reheating.
 
-**What's the internal temperature actually supposed to be?**
-Seventy to seventy-five Celsius. That's one-sixty to one-seventy Fahrenheit. Pork's safe at one-forty-five these days. Go higher and the meat stays juicy instead of drying out. Probe the thickest part. Not touching bone.
+**Can you reduce the salt in the dry rub?**
+Go lighter if you want. Three tablespoons seasons deep for a ten-kilo leg. Two tablespoons is gentler. Any less and it doesn't penetrate through eight hours of cooking.
 
-**Can I use different wood for smoking?**
-Hardwood. Oak, hickory, applewood, whatever grows near you. Avoid softwoods — they taste like turpentine. Don't go overboard. A few chunks in the coals. You want smoke, not creosote.
+**What wood should you use?**
+Oak, hickory, apple, cherry. Avoid pine, cedar, any softwood. Hardwood burns cleaner and tastes better. Lump charcoal works fine — doesn't need wood if charcoal is quality.

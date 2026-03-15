@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-fried-calamari",
-  "title": "Crunchy Fried Calamari Rings",
-  "seed_keywords": [],
+  "title": "Crunchy Fried Calamari Rings with Panko",
+  "seed_keywords": [
+    "fried calamari",
+    "calamari rings recipe",
+    "crispy squid appetizer",
+    "panko fried seafood",
+    "marinara dipping sauce"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "sauces marinara",
+        "volume": 165000,
+        "competition": 28
+      },
+      {
+        "keyword": "fried calamari",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "fried squid",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "calamari near me",
+        "volume": 40500,
+        "competition": 23
+      },
+      {
+        "keyword": "make calamari",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe of calamari",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "salt and pepper fried calamari",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "calamari fries",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe of fried calamari",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe of squid",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
         "keyword": "calamari rings",
-        "volume": 0,
+        "volume": 12100,
+        "competition": 34
+      },
+      {
+        "keyword": "marinara sauce for mozzarella sticks",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "cheese stick marinara sauce",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "marinara for cheese sticks",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "fried calamari near me",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "marinara sauce for pizza",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "calamari crispy",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "calamari deep fried",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "crispy fried calamari",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "deep fried squid",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "five cheese marinara",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "marinara sauce pizza sauce",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "panko shrimp",
+        "volume": 5400,
+        "competition": 19
+      },
+      {
+        "keyword": "cooked calamari",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "calamari rings recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "calamari how to cook",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "calamari rings fried",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cook calamares",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "fried squid ring",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for squid rings",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe of calamares",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "best calamari near me",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "easy marinara sauce",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "deep fried calamari rings",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "deep fried squid rings",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "good calamari near me",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "panko prawn",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "air fryer fried calamari",
+        "volume": 2900,
         "competition": 0
       },
       {
-        "keyword": "crispy fried squid",
-        "volume": 0,
+        "keyword": "calamari air fryer",
+        "volume": 2900,
         "competition": 0
       },
       {
-        "keyword": "panko breadcrumbs",
-        "volume": 0,
+        "keyword": "five cheese marinara olive garden",
+        "volume": 2900,
         "competition": 0
+      },
+      {
+        "keyword": "five cheese marinara sauce olive garden",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "fried cuttlefish",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "olive garden five cheese marinara sauce",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "marinara dipping sauce",
+        "volume": 2400,
+        "competition": 50
+      },
+      {
+        "keyword": "batter calamari",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "batter for squid",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "batter squid",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "crispy squid",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "marinara for dipping",
+        "volume": 2400,
+        "competition": 50
+      },
+      {
+        "keyword": "breaded calamari",
+        "volume": 1900,
+        "competition": 43
       }
     ]
   },

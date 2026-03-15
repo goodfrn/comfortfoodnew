@@ -1,23 +1,264 @@
 {
   "slug": "crispy-garlic-buffalo-wings",
-  "title": "Crispy Garlic Buffalo Wings",
-  "seed_keywords": [],
+  "title": "Crispy Garlic Buffalo Wings Recipe",
+  "seed_keywords": [
+    "crispy buffalo wings",
+    "baked chicken wings",
+    "garlic wing sauce",
+    "potato flake coating",
+    "buffalo chicken appetizer"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "buffalo wings",
-        "volume": 0,
+        "keyword": "baked chicken wings",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "buffalo wings chicken recipe",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken drummies in oven",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "cooking buffalo chicken wings",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken wings in oven",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "oven baked chicken wings",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "cooking chicken wings in the oven",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "make chicken wings in oven",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "garlic parmesan wings",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "baked buffalo wings baking powder",
+        "volume": 27100,
         "competition": 0
       },
       {
-        "keyword": "crispy baked wings",
-        "volume": 0,
+        "keyword": "baked chicken wings baking powder",
+        "volume": 27100,
         "competition": 0
       },
       {
-        "keyword": "garlic buffalo sauce",
-        "volume": 0,
+        "keyword": "baking chicken wings with baking powder",
+        "volume": 27100,
         "competition": 0
+      },
+      {
+        "keyword": "baking powder and chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking powder baked chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking powder chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking powder for chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "buffalo wings baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wings and baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wings baked with baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wings in baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic parm wings",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "parmesan and garlic wings",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "wings parmesan garlic",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "crispy buffalo wings",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "crispy hot wings",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken crispy wings",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken wing recipes baked",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "baked chicken wings crispy",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "air fryer hot wings recipe",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "baked chicken wing meals",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "baked crispy hot wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "baked crunchy chicken wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "buffalo wings deep fried",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "crispiest baked chicken wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crispy baked chicken drumettes",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "deep fried hot wings",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "easy baked crispy chicken wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "hot wings baked crispy",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for roasted chicken wings",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "cooking wings in oven",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken tenders recipe baked",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "oven baked wings",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "make wings in oven",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wings recipe oven",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "wings in the oven",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for oven baked chicken wings",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "best recipe for buffalo wings",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "best recipe for hot wings",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken drums marinade",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic parmesan wings from wingstop",
+        "volume": 12100,
+        "competition": 1
       }
     ]
   },

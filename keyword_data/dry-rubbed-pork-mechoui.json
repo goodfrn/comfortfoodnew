@@ -1,23 +1,264 @@
 {
   "slug": "dry-rubbed-pork-mechoui",
-  "title": "Dry-Rubbed Porc Méchoui",
-  "seed_keywords": [],
+  "title": "Dry-Rubbed Porc Méchoui: Whole Pork Leg",
+  "seed_keywords": [
+    "whole pork roast",
+    "pork méchoui",
+    "slow roasted pork",
+    "dry rub pork",
+    "smoked paprika meat"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "porc méchoui",
-        "volume": 0,
-        "competition": 0
+        "keyword": "recipes for pulled pork in the crock pot",
+        "volume": 110000,
+        "competition": 4
       },
       {
-        "keyword": "dry rub pork",
-        "volume": 0,
-        "competition": 0
+        "keyword": "dry rub for ribs",
+        "volume": 74000,
+        "competition": 2
       },
       {
-        "keyword": "slow roasted pork",
-        "volume": 0,
-        "competition": 0
+        "keyword": "dry rub seasoning for ribs",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dry rub spices for ribs",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooked pork shoulder",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "boston butt in a slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "cook pork shoulder in slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot pork butt",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pork butt in a slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pork fillet in the slow cooker",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pork shoulder cooked in a slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pork tenderloin slow cooked",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "shoulder of pork in a slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cook pork medallions",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cook pork shoulder crock pot",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cook pork shoulder in slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooked pork shoulder in slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooked pork shoulder slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooked pork tenderloin crock pot",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pork roast in crock pot",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pork roast",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pork loin recipes slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "making a pork roast in a crock pot",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pork loin crock pot recipes",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pork roast on slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pork tenderloin crock pot recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork tenderloin in slow cooker recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for pork fillet in slow cooker",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cook pork roast crock pot",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cook pork roast in slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cook pork roast slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cook roast pork in slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow roast pork in slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for pork roast in crock pot",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pork roast recipes",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pork shoulder recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "boston butt crock pot recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "boston butt slow cooker recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pork butt recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pork roast recipes slow cooker",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot pork shoulder recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pork shoulder recipes slow cooker",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork butt recipe slow cooker",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork pot roast recipe slow cooker",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for pork shoulder in a crock pot",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for pork shoulder in the crock pot",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "slow pork roast recipe crock pot",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "rub for ribs",
+        "volume": 22200,
+        "competition": 49
+      },
+      {
+        "keyword": "pork rib rub",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "dry rub for pork ribs",
+        "volume": 22200,
+        "competition": 4
       }
     ]
   },

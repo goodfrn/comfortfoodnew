@@ -1,22 +1,263 @@
 {
   "slug": "crispy-chicken-croquettes",
-  "title": "Crispy Chicken Croquettes",
-  "seed_keywords": [],
+  "title": "Crispy Chicken Croquettes with Cornstarch",
+  "seed_keywords": [
+    "chicken croquettes",
+    "fried chicken appetizers",
+    "crispy chicken snacks",
+    "cornstarch fried chicken",
+    "homemade chicken croquettes"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "croquettes",
-        "volume": 0,
+        "keyword": "chicken croquettes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cornstarch fried chicken",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chicken in cornstarch",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fry chicken corn starch",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken croquette recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe of chicken croquettes",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken corn starch",
+        "volume": 1600,
         "competition": 0
       },
       {
-        "keyword": "chicken thighs",
-        "volume": 0,
+        "keyword": "corn starch for crispy chicken",
+        "volume": 1600,
         "competition": 0
       },
       {
-        "keyword": "double coating",
-        "volume": 0,
+        "keyword": "crispy chicken cornstarch",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy fried chicken cornstarch",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "velvet chicken with cornstarch",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "fried chicken skins near me",
+        "volume": 1000,
+        "competition": 78
+      },
+      {
+        "keyword": "corn flour chicken fry",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "corn flour for fried chicken",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "fried chicken using corn flour",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "breading chicken with cornstarch",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken with cornstarch coating",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen chicken croquettes",
+        "volume": 590,
+        "competition": 77
+      },
+      {
+        "keyword": "corn starch for chicken",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "fried chicken with cornstarch no flour",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "brazilian croquette",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken potato croquettes",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chicken recipe using cornstarch",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "weaver chicken croquettes",
+        "volume": 390,
+        "competition": 14
+      },
+      {
+        "keyword": "cornstarch and flour fried chicken",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "croquette in air fryer",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "flour cornstarch fried chicken",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "brazilian chicken croquettes",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "brazilian chicken croquettes recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken cheese croquettes",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "cornstarch batter for chicken",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "cornstarch fried chicken recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "easy chicken croquette recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "simple chicken croquettes recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken croquettes spanish",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "flour to cornstarch ratio for fried chicken",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "flour to cornstarch ratio for frying",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "spanish chicken croquettes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "k&n croquettes",
+        "volume": 210,
+        "competition": 27
+      },
+      {
+        "keyword": "breading with cornstarch",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "corn starch breading",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "shihlin crispy chicken",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "shihlin xxl chicken",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "tgi fridays wings air fryer",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken ham croquettes",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "fried chicken using corn starch",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "fry chicken with corn starch",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "tyson buffalo wings in air fryer",
+        "volume": 170,
+        "competition": 41
+      },
+      {
+        "keyword": "xxl crispy chicken shihlin",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "tyson buffalo boneless chicken bites air fryer",
+        "volume": 140,
         "competition": 0
       }
     ]

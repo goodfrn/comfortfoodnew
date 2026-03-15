@@ -1,32 +1,263 @@
 {
   "slug": "curried-chicken-toasts",
-  "title": "Curried Chicken Toasts",
-  "seed_keywords": [],
+  "title": "Curried Chicken Toasts with Cucumber",
+  "seed_keywords": [
+    "curried chicken sandwich",
+    "chicken salad toast",
+    "chicken cucumber sandwich",
+    "curry chicken lunch",
+    "open faced sandwich"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "curried chicken",
-        "volume": 0,
+        "keyword": "smorrebrod",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "open faced sandwich",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "open face sandwiches",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "open sandwich",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "horseshoe sandwich",
+        "volume": 6600,
         "competition": 0
       },
       {
-        "keyword": "rye toast",
-        "volume": 0,
+        "keyword": "hot brown sandwich",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "open faced sandwich recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "open sandwich recipes",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "open face sandwich recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "open face turkey sandwich",
+        "volume": 2900,
         "competition": 0
       },
       {
-        "keyword": "herb salad",
-        "volume": 0,
+        "keyword": "danish open faced sandwich",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "danish open sandwich",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "open face beef sandwich",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "open faced roast beef sandwich",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "hot open faced sandwich",
+        "volume": 1600,
         "competition": 0
       },
       {
-        "keyword": "cucumber chicken",
-        "volume": 0,
+        "keyword": "open faced roast beef",
+        "volume": 1600,
         "competition": 0
       },
       {
-        "keyword": "grape salad",
-        "volume": 0,
+        "keyword": "curried chicken sandwich",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "curry sandwich",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "danish smorrebrod",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "danish sandwich",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "french open faced sandwich",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for hot brown sandwich",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "open faced turkey sandwich near me",
+        "volume": 590,
+        "competition": 9
+      },
+      {
+        "keyword": "brown hotel louisville hot brown",
+        "volume": 590,
+        "competition": 23
+      },
+      {
+        "keyword": "chicken curry salad sandwich",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cold open faced sandwich",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "hot open faced turkey sandwich",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ingredients coronation chicken",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "open face cold sandwich",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "open face turkey sandwich near me",
+        "volume": 590,
+        "competition": 9
+      },
+      {
+        "keyword": "open faced cold sandwich",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "smorrebrod recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "open face cheese sandwich",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "open face grilled cheese",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "open face grilled cheese sandwich",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "open faced roast beef sandwich near me",
+        "volume": 480,
+        "competition": 21
+      },
+      {
+        "keyword": "chicken cucumber sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "easy open sandwich recipes",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and cucumber sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "easy open faced sandwich recipe",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "face sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "hot open faced roast beef sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "ideas for open sandwiches",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "open face sandwich ideas",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "open face turkey",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken open faced sandwich",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "open faced reuben",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "open faced reuben sandwich",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken open sandwich",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "open faced sandwich ingredients",
+        "volume": 260,
         "competition": 0
       }
     ]

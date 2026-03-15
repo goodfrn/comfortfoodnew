@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-wrapped-asparagus",
-  "title": "Crunchy Wrapped Asparagus",
-  "seed_keywords": [],
+  "title": "Crunchy Wrapped Asparagus with Herb Sauce",
+  "seed_keywords": [
+    "asparagus appetizers",
+    "roasted asparagus filo",
+    "vegetable wrapped pastry",
+    "herb yogurt sauce",
+    "crispy asparagus recipe"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "asparagus",
-        "volume": 0,
+        "keyword": "dill sauce yogurt",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "asparagus appetizers",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "appetizers using asparagus",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "asparagus appetisers",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "asparagus horderves",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "asparagus hors d oeuvres",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "yogurt and dill dressing",
+        "volume": 1600,
+        "competition": 18
+      },
+      {
+        "keyword": "yogurt and dill",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "yogurt dill",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "crispy asparagus in oven",
+        "volume": 880,
+        "competition": 29
+      },
+      {
+        "keyword": "dill greek yogurt sauce",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "greek yogurt and dill sauce",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "asparagus crispy",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy asparagus recipe",
+        "volume": 480,
+        "competition": 8
+      },
+      {
+        "keyword": "crunchy asparagus recipe",
+        "volume": 480,
+        "competition": 8
+      },
+      {
+        "keyword": "herb yogurt sauce",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer asparagus crispy",
+        "volume": 390,
+        "competition": 28
+      },
+      {
+        "keyword": "appetizer recipes with asparagus",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "asparagus horderves recipes",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "asparagus hors d oeuvres recipes",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "asparagus starters recipes",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "herbed yogurt sauce",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt herb sauce",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy asparagus in air fryer",
+        "volume": 320,
+        "competition": 19
+      },
+      {
+        "keyword": "cucumber dill sauce yogurt",
+        "volume": 260,
+        "competition": 15
+      },
+      {
+        "keyword": "dill cucumber yogurt",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "asparagus appetizer cold",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "chilled asparagus appetizer",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "herb yogurt dressing",
+        "volume": 210,
+        "competition": 20
+      },
+      {
+        "keyword": "yogurt and herb dressing",
+        "volume": 210,
+        "competition": 20
+      },
+      {
+        "keyword": "yogurt herb dressing",
+        "volume": 210,
+        "competition": 20
+      },
+      {
+        "keyword": "asparagus snack",
+        "volume": 170,
+        "competition": 55
+      },
+      {
+        "keyword": "baked crispy asparagus",
+        "volume": 170,
+        "competition": 25
+      },
+      {
+        "keyword": "crispy parmesan asparagus",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "herbed yogurt dip",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "parsley yogurt sauce",
+        "volume": 170,
         "competition": 0
       },
       {
-        "keyword": "filo pastry",
-        "volume": 0,
+        "keyword": "snack asparagus",
+        "volume": 170,
+        "competition": 55
+      },
+      {
+        "keyword": "yogurt parsley sauce",
+        "volume": 170,
         "competition": 0
       },
       {
-        "keyword": "herb sauce",
-        "volume": 0,
+        "keyword": "appetizers with asparagus and prosciutto",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "asparagus and puff pastry appetizers",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus appetizer puff pastry",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus appetizer with prosciutto",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "crispy roasted asparagus",
+        "volume": 140,
+        "competition": 16
+      },
+      {
+        "keyword": "herb yogurt",
+        "volume": 140,
+        "competition": 8
+      },
+      {
+        "keyword": "parmesan crusted asparagus recipe",
+        "volume": 140,
+        "competition": 3
+      },
+      {
+        "keyword": "puff pastry and asparagus appetizers",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt basil sauce",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and puff pastry wrapped asparagus",
+        "volume": 110,
         "competition": 0
+      },
+      {
+        "keyword": "lemon dill greek yogurt sauce",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "mint garlic yogurt sauce",
+        "volume": 110,
+        "competition": 15
       }
     ]
   },

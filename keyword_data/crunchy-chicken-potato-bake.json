@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-chicken-potato-bake",
   "title": "Crunchy Chicken Potato Bake",
-  "seed_keywords": [],
+  "seed_keywords": [
+    "chicken potato bake",
+    "creamy potato casserole",
+    "potato bake recipes",
+    "shredded potato casserole",
+    "chicken mushroom bake"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "shredded potatoes",
-        "volume": 0,
-        "competition": 0
+        "keyword": "baked potatoes in oven",
+        "volume": 450000,
+        "competition": 32
       },
       {
-        "keyword": "cream of mushroom",
-        "volume": 0,
-        "competition": 0
+        "keyword": "fries french",
+        "volume": 450000,
+        "competition": 18
       },
       {
-        "keyword": "Ritz crackers",
-        "volume": 0,
-        "competition": 0
+        "keyword": "baked potato",
+        "volume": 368000,
+        "competition": 14
+      },
+      {
+        "keyword": "baked spud",
+        "volume": 368000,
+        "competition": 14
+      },
+      {
+        "keyword": "roasting potatoes",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "roasted white potatoes",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "jacket potatoes",
+        "volume": 201000,
+        "competition": 6
+      },
+      {
+        "keyword": "baked potato in air fryer",
+        "volume": 165000,
+        "competition": 22
+      },
+      {
+        "keyword": "baked sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "baking potatoes in air fryer",
+        "volume": 165000,
+        "competition": 22
+      },
+      {
+        "keyword": "potato and sweet potato bake",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "potato bake recipes",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "twice baked potatoes",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "roasted sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "double baked potato",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "double baked potato recipe",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "double stuffed baked potatoes",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "twice baked baked potatoes",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "air fryer baked potato",
+        "volume": 110000,
+        "competition": 22
+      },
+      {
+        "keyword": "roasted potatoes in oven",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "recipes using potatoes",
+        "volume": 110000,
+        "competition": 15
+      },
+      {
+        "keyword": "baked potato in an air fryer",
+        "volume": 110000,
+        "competition": 22
+      },
+      {
+        "keyword": "air fried jacket potatoes",
+        "volume": 110000,
+        "competition": 22
+      },
+      {
+        "keyword": "airfryer jacket potatoes",
+        "volume": 110000,
+        "competition": 22
+      },
+      {
+        "keyword": "hassel back potatoes",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "jacket potato in airfryer",
+        "volume": 110000,
+        "competition": 22
+      },
+      {
+        "keyword": "baked sweet potatoes in oven",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "microwave jacket potato",
+        "volume": 90500,
+        "competition": 28
+      },
+      {
+        "keyword": "make baked potato in microwave",
+        "volume": 90500,
+        "competition": 28
+      },
+      {
+        "keyword": "twice baked potato recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "potato gratin",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "microwave baked potato",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "baked potato how to",
+        "volume": 60500,
+        "competition": 27
+      },
+      {
+        "keyword": "baked sweet potato recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "sweet potatoes in oven",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "loaded baked potato",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "loaded baked potato soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "air fry roast potatoes",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "best potatoes for roast potatoes",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "roast potatoes in airfryer",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted potatoes recipe",
+        "volume": 40500,
+        "competition": 14
+      },
+      {
+        "keyword": "baked potato soup",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "best baked potato",
+        "volume": 40500,
+        "competition": 17
+      },
+      {
+        "keyword": "roast potatoes in air fryer",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "oven roasted sweet potatoes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "best potato for baked potato",
+        "volume": 40500,
+        "competition": 17
+      },
+      {
+        "keyword": "jacket potato in air fryer",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "jacket potatoes in air fryer",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "roasted potato in air fryer",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "loaded potato soup",
+        "volume": 33100,
+        "competition": 5
       }
     ]
   },

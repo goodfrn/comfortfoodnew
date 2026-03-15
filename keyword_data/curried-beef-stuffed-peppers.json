@@ -1,23 +1,264 @@
 {
   "slug": "curried-beef-stuffed-peppers",
-  "title": "Curried Beef Stuffed Peppers",
-  "seed_keywords": [],
+  "title": "Curried Beef Stuffed Peppers Recipe",
+  "seed_keywords": [
+    "curried beef peppers",
+    "stuffed peppers recipe",
+    "beef sweet potato",
+    "slow cooker beef",
+    "curried ground beef"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "curried stuffed peppers",
-        "volume": 0,
-        "competition": 0
+        "keyword": "bell green pepper",
+        "volume": 368000,
+        "competition": 21
       },
       {
-        "keyword": "slow roasted peppers",
-        "volume": 0,
-        "competition": 0
+        "keyword": "stuffed peppers recipe",
+        "volume": 246000,
+        "competition": 15
       },
       {
-        "keyword": "spiced beef filling",
-        "volume": 0,
-        "competition": 0
+        "keyword": "filled pepper recipe",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "recipe for stuffed red peppers",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "stuffed paprika recipe",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "stuffed pepper filling recipe",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "stuffed pepper meal",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "stuffed peppers",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "filled peppers",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffed pepper filling",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "filled paprika",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "peppers for stuffing",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffed paprika",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffed peppers and",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "beef stew slow cooker",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "poblano peppers",
+        "volume": 110000,
+        "competition": 13
+      },
+      {
+        "keyword": "beef stew recipe slow cooker",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "beef stew recipe crock pot",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "beef stew meat crock pot",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stew meat crock pot recipes",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "pot chuck roast",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker steak stew",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "steak stew crock pot",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker brisket",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker chuck roast",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chuck roast crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef brisket slow cooker",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef brisket crock pot",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef chuck crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck in crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck roast crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck roast in slow cooker",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "brisket cooked in slow cooker",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chuck pot roast in slow cooker",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chuck slow cook",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cook brisket in slow cooker",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cook chuck roast in crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed bell peppers",
+        "volume": 74000,
+        "competition": 13
+      },
+      {
+        "keyword": "stuffed bell pepper recipe",
+        "volume": 74000,
+        "competition": 17
+      },
+      {
+        "keyword": "slow cooker pot roast",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffing shells",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "filled bell pepper",
+        "volume": 74000,
+        "competition": 13
+      },
+      {
+        "keyword": "shosito peppers",
+        "volume": 74000,
+        "competition": 21
+      },
+      {
+        "keyword": "slow cook pot roast in crock pot",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffed red bell pepper recipe",
+        "volume": 74000,
+        "competition": 17
+      },
+      {
+        "keyword": "beef stroganoff crock pot",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker beef stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "corned beef in crock pot",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "corned meat in slow cooker",
+        "volume": 60500,
+        "competition": 5
       }
     ]
   },

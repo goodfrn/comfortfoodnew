@@ -1,23 +1,264 @@
 {
   "slug": "edible-choco-dough-remix",
-  "title": "Edible Choco Dough Remix",
-  "seed_keywords": [],
+  "title": "Edible Choco Dough Remix with Oat Flour",
+  "seed_keywords": [
+    "edible cookie dough",
+    "no bake chocolate",
+    "oat flour dough",
+    "chocolate dough snack",
+    "edible dough recipe"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "chocolate chunk cookie dough",
-        "volume": 0,
-        "competition": 0
+        "keyword": "no bake cookies recipe",
+        "volume": 246000,
+        "competition": 8
       },
       {
-        "keyword": "heat-treated oat flour",
-        "volume": 0,
-        "competition": 0
+        "keyword": "cookie no bake",
+        "volume": 246000,
+        "competition": 8
       },
       {
-        "keyword": "chilled cookie dough snack",
-        "volume": 0,
-        "competition": 0
+        "keyword": "no cook cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "unbaked cookie recipe",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "edible cookie dough recipe",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "cookie dough for eating recipe",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "make edible cookie dough",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "cookie dough recipe",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "edible cookie dough",
+        "volume": 49500,
+        "competition": 49
+      },
+      {
+        "keyword": "dough edible cookie dough",
+        "volume": 49500,
+        "competition": 49
+      },
+      {
+        "keyword": "edible cookie dough cookies",
+        "volume": 49500,
+        "competition": 49
+      },
+      {
+        "keyword": "no bake chocolate oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "bake bars",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "bakeless chocolate oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate and oats no bake cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate oat cookies no bake",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate oatmeal no cook cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate unbaked oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "cocoa no bake oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "cocoa oats no bake cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "unbaked chocolate oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "uncooked chocolate oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "no bake oatmeal cookies",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "bakeless oatmeal cookies",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "no bake cookie oats",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "no bake cookies no oatmeal",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "no bake pb cookies",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "no bake peanut cookies",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "no cook oat cookies",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "no cook oatmeal cookies",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "oatmeal unbaked cookies",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "peanut butter unbaked cookies",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "uncooked oatmeal cookies",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "haystack cookies",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cookies no eggs",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cookie dough near me",
+        "volume": 12100,
+        "competition": 76
+      },
+      {
+        "keyword": "chocolate no bake cookies",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "no bake peanut butter oatmeal cookies",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate peanut butter no bake cookies",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate and peanut butter no bake cookies",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate no bake cookies no peanut butter",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate no bake cookies without peanut butter",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate pb no bake cookies",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate peanut no bake cookies",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate unbaked cookies",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "cocoa no bake cookies",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "cocoa peanut butter no bake cookies",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "no bake cookies with oatmeal and peanut butter",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "no bake cookies with oats and peanut butter",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "no bake oat peanut butter cookies",
+        "volume": 12100,
+        "competition": 3
       }
     ]
   },

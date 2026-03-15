@@ -1,23 +1,264 @@
 {
   "slug": "crispy-mexican-tortilla-pie",
-  "title": "Crispy Mexican Tortilla Pie",
-  "seed_keywords": [],
+  "title": "Crispy Mexican Tortilla Pie with Chorizo",
+  "seed_keywords": [
+    "mexican tortilla pie",
+    "chorizo cheese bake",
+    "tortilla casserole",
+    "layered tortilla dish",
+    "crispy chorizo mexican"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "tortilla pie",
-        "volume": 0,
+        "keyword": "taco casserole with tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "corn tortilla taco casserole",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican taco casserole with tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "taco bake casserole with tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "taco casserole using tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "ground beef casserole mexican",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tortilla casserole",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and tortilla casserole",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "tortilla casserole",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "beef casserole mexican",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican casserole tortilla",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for chicken taco casserole",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "casserole black beans",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "enchilada layered casserole",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "layered enchilada bake",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "meatless mexican casserole",
+        "volume": 1000,
         "competition": 0
       },
       {
-        "keyword": "chipotle salsa",
-        "volume": 0,
+        "keyword": "breakfast casserole corn tortillas",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "breakfast casserole tortilla",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "corn tortilla taco casserole recipes",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "ground beef recipes mexican casserole",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for taco casserole with corn tortillas",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe taco casserole tortilla",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "taco casserole with tortillas recipe",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "tortilla breakfast casserole recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "corn tortilla enchilada casserole",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "easy taco casserole with tortillas",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "casserole corn tortillas",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "casserole recipes with corn tortillas",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken casserole with tortillas recipes",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken enchilada layered casserole",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "layered taco casserole",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "taco casserole tortilla chips",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "taco casserole with corn tortilla chips",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "taco casserole with nacho chips",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "tortilla bake",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken tortilla bake",
+        "volume": 480,
         "competition": 0
       },
       {
-        "keyword": "cheddar mozzarella mix",
-        "volume": 0,
+        "keyword": "corn tortilla mexican casserole",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "enchilada casserole flour tortillas",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "layered corn tortilla casserole",
+        "volume": 480,
         "competition": 0
+      },
+      {
+        "keyword": "layered mexican casserole",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "layered tortilla casserole",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mexican casserole using corn tortillas",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for tortilla casserole",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and corn tortilla casserole",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken casserole corn tortillas",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken enchilada casserole flour tortillas",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mexican casserole with tortillas",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "chilaquile casserole",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "flour tortilla chicken enchilada casserole",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "mexican casserole with chicken and corn tortillas",
+        "volume": 390,
+        "competition": 2
       }
     ]
   },

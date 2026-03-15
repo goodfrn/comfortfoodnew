@@ -1,23 +1,264 @@
 {
   "slug": "deviled-eggs-remix",
-  "title": "Classic Deviled Eggs Remix",
-  "seed_keywords": [],
+  "title": "Classic Deviled Eggs Remix with Dijon",
+  "seed_keywords": [
+    "deviled eggs",
+    "hard boiled eggs",
+    "egg appetizers",
+    "mustard deviled eggs",
+    "dijon egg dip"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "deviled eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "how long to boil eggs",
+        "volume": 450000,
+        "competition": 13
+      },
+      {
+        "keyword": "how long to boil eggs for hard boiled eggs",
+        "volume": 450000,
+        "competition": 13
+      },
+      {
+        "keyword": "stuffed eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "dressed eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "how long to hard boil a egg",
+        "volume": 450000,
+        "competition": 13
+      },
+      {
         "keyword": "deviled eggs",
-        "volume": 0,
-        "competition": 0
+        "volume": 368000,
+        "competition": 7
       },
       {
         "keyword": "hard boiled eggs",
-        "volume": 0,
-        "competition": 0
+        "volume": 368000,
+        "competition": 35
       },
       {
-        "keyword": "yolk recipe",
-        "volume": 0,
-        "competition": 0
+        "keyword": "devilled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "devilled egg dish",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "boil a egg",
+        "volume": 368000,
+        "competition": 35
+      },
+      {
+        "keyword": "deviled",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled eggs and",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled eggs deviled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "eggs deviled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "hard boi",
+        "volume": 368000,
+        "competition": 35
+      },
+      {
+        "keyword": "hard egg",
+        "volume": 368000,
+        "competition": 35
+      },
+      {
+        "keyword": "hb eggs",
+        "volume": 368000,
+        "competition": 35
+      },
+      {
+        "keyword": "hard boiled eggs time",
+        "volume": 301000,
+        "competition": 15
+      },
+      {
+        "keyword": "boiled eggs",
+        "volume": 301000,
+        "competition": 16
+      },
+      {
+        "keyword": "boil and egg",
+        "volume": 301000,
+        "competition": 16
+      },
+      {
+        "keyword": "how to boil eggs",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how do you boil eggs",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how do i boil eggs",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how to boil and egg",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how to boil eggs for hard boiled eggs",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how to hard cook eggs",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how to boil an eff",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how to hard boil a egg",
+        "volume": 246000,
+        "competition": 26
+      },
+      {
+        "keyword": "how to hard boil eggs",
+        "volume": 165000,
+        "competition": 35
+      },
+      {
+        "keyword": "how to make hard boiled eggs",
+        "volume": 135000,
+        "competition": 32
+      },
+      {
+        "keyword": "how long to hard boil eggs",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "how do you make hard boiled eggs",
+        "volume": 135000,
+        "competition": 32
+      },
+      {
+        "keyword": "how do i make hard boiled eggs",
+        "volume": 135000,
+        "competition": 32
+      },
+      {
+        "keyword": "how do you make boiled eggs",
+        "volume": 135000,
+        "competition": 32
+      },
+      {
+        "keyword": "how do i make boiled eggs",
+        "volume": 135000,
+        "competition": 32
+      },
+      {
+        "keyword": "hardboil egg time",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "how long to hard boil and egg",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "how to make hard boiled",
+        "volume": 135000,
+        "competition": 32
+      },
+      {
+        "keyword": "soft hard boiled eggs time",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "timer for soft boiled eggs",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "perfect hard boiled eggs",
+        "volume": 110000,
+        "competition": 36
+      },
+      {
+        "keyword": "perfect boiled eggs",
+        "volume": 110000,
+        "competition": 36
+      },
+      {
+        "keyword": "boiled eggs time",
+        "volume": 110000,
+        "competition": 18
+      },
+      {
+        "keyword": "best hard boiled eggs",
+        "volume": 110000,
+        "competition": 36
+      },
+      {
+        "keyword": "hard boiled eggs cook time",
+        "volume": 110000,
+        "competition": 18
+      },
+      {
+        "keyword": "make perfect hard boiled eggs",
+        "volume": 110000,
+        "competition": 36
+      },
+      {
+        "keyword": "cook perfect hard boiled eggs",
+        "volume": 110000,
+        "competition": 36
+      },
+      {
+        "keyword": "how long to boil and egg",
+        "volume": 110000,
+        "competition": 5
+      },
+      {
+        "keyword": "perfect hard boiled",
+        "volume": 110000,
+        "competition": 36
       }
     ]
   },

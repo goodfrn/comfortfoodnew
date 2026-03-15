@@ -1,28 +1,264 @@
 {
   "slug": "dry-pancake-mix",
-  "title": "Dry Pancake Mix",
-  "seed_keywords": [],
+  "title": "Dry Pancake Mix with Cinnamon",
+  "seed_keywords": [
+    "homemade pancake mix",
+    "dry pancake mix",
+    "cinnamon pancakes",
+    "pancake mix recipe",
+    "fluffy pancakes"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "dry pancake mix",
-        "volume": 0,
-        "competition": 0
+        "keyword": "pancake recipe simple",
+        "volume": 201000,
+        "competition": 7
       },
       {
-        "keyword": "aluminum free baking powder",
-        "volume": 0,
-        "competition": 0
+        "keyword": "fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "pancake mix",
+        "volume": 165000,
+        "competition": 60
+      },
+      {
+        "keyword": "fluffy pancake recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluff pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjack",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjacks recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluffy fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy hotcake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffys pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "pancake mix pancakes",
+        "volume": 165000,
+        "competition": 60
+      },
+      {
+        "keyword": "recipe for fluffiest pancakes",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "pancake mix recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pancake batter recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pancake recipe with pancake mix",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "hotcake mix recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pancake flour recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pancake recipe without pancake mix",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pancakes recipe with pancake mix",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "american pancakes recipe",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese pancakes",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "buttermilk pancake recipes",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "soufflé pancakes",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade pancake",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "i hop pancake",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "butter milk pancake",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "pancakes using buttermilk",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "best pancakes recipe",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "protein pancake recipes",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "great pancake recipe",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "pancake scratch",
+        "volume": 49500,
+        "competition": 20
+      },
+      {
+        "keyword": "homemade pancake mix",
+        "volume": 40500,
+        "competition": 17
+      },
+      {
+        "keyword": "gluten free pancakes",
+        "volume": 40500,
+        "competition": 36
+      },
+      {
+        "keyword": "blueberry pancake",
+        "volume": 40500,
+        "competition": 8
       },
       {
         "keyword": "pancake batter",
-        "volume": 0,
-        "competition": 0
+        "volume": 33100,
+        "competition": 17
       },
       {
-        "keyword": "cinnamon pancakes",
-        "volume": 0,
-        "competition": 0
+        "keyword": "gluten free pancake recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade pancake recipe",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "gf pancake recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "make pancake batter",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "fluffy japanese pancake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancake japan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan hotcakes",
+        "volume": 33100,
+        "competition": 36
+      },
+      {
+        "keyword": "pancake recipe vegan",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pancake almond flour",
+        "volume": 27100,
+        "competition": 18
+      },
+      {
+        "keyword": "pancake recipe from scratch",
+        "volume": 22200,
+        "competition": 29
+      },
+      {
+        "keyword": "pancake protein powder",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "japanese souffle pancakes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "blueberry pancake recipes",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "choco chip pancake",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
+        "keyword": "pancake made from scratch",
+        "volume": 22200,
+        "competition": 29
       }
     ]
   },

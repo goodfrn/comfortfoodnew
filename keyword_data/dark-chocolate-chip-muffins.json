@@ -1,23 +1,264 @@
 {
   "slug": "dark-chocolate-chip-muffins",
-  "title": "Dark Chocolate Chip Muffins",
-  "seed_keywords": [],
+  "title": "Dark Chocolate Chip Muffins with Sour Cream",
+  "seed_keywords": [
+    "chocolate chip muffins",
+    "dark chocolate muffins",
+    "sour cream muffins",
+    "cocoa powder baking",
+    "chocolate breakfast muffins"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "dark cocoa powder",
-        "volume": 0,
-        "competition": 0
+        "keyword": "banana chocolate chip muffins",
+        "volume": 90500,
+        "competition": 1
       },
       {
-        "keyword": "folding batter",
-        "volume": 0,
-        "competition": 0
+        "keyword": "banana choc chip muffin",
+        "volume": 90500,
+        "competition": 1
       },
       {
-        "keyword": "chocolate chips",
-        "volume": 0,
-        "competition": 0
+        "keyword": "banana and choc chip muffin",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and chocolate chip muffin",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and chocolate chips muffins",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana chocolate chocolate chip muffins",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip muffins",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "choc chip muffins",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "choco chip muffins",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate and chocolate chip muffins",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate choc chip muffin",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "cocoa unsweetened powder",
+        "volume": 60500,
+        "competition": 80
+      },
+      {
+        "keyword": "choco muffins",
+        "volume": 49500,
+        "competition": 28
+      },
+      {
+        "keyword": "chocolate chocolate muffins",
+        "volume": 49500,
+        "competition": 28
+      },
+      {
+        "keyword": "cocoa muffin",
+        "volume": 49500,
+        "competition": 28
+      },
+      {
+        "keyword": "chocolate banana muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and choc",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "banana and choc muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and chocolate muffin",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread chocolate chip muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread chocolate chips muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana choc muffin",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "banana cocoa muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate & banana muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate banana bread muffins",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate muffins with zucchini",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate muffins zucchini",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini and chocolate muffins",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin chocolate chip muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin and chocolate chip muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin chocolate chunk muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "raspberry & white chocolate muffins",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "white choc and raspberry muffins",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "baking with cocoa",
+        "volume": 12100,
+        "competition": 21
+      },
+      {
+        "keyword": "mini chocolate chip muffins",
+        "volume": 9900,
+        "competition": 26
+      },
+      {
+        "keyword": "choc chip mini muffins",
+        "volume": 9900,
+        "competition": 26
+      },
+      {
+        "keyword": "chocolate chocolate chip mini muffins",
+        "volume": 9900,
+        "competition": 26
+      },
+      {
+        "keyword": "double chocolate chip muffins",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "zucchini chocolate chip muffins",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "double chocolate muffin",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "chocolate chip muffins double",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate chocolate chip zucchini muffins",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "double chocolate chips muffins",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "double chocolate chocolate chip muffins",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "double chocolate chunk muffins",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "jiffy corn bread with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini and chocolate chip muffins",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini chocolate chips muffins",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate chip cupcakes",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "choc chip cup cake",
+        "volume": 6600,
+        "competition": 5
       }
     ]
   },

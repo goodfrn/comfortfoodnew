@@ -1,23 +1,264 @@
 {
   "slug": "crispy-herb-roast-chicken",
-  "title": "Crispy Herb Roast Chicken",
-  "seed_keywords": [],
+  "title": "Crispy Herb Roast Chicken with Butter",
+  "seed_keywords": [
+    "herb roast chicken",
+    "roasted chicken dinner",
+    "butter chicken recipe",
+    "roast chicken vegetables",
+    "herb butter chicken"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "roast chicken",
-        "volume": 0,
+        "keyword": "butter chicken",
+        "volume": 823000,
+        "competition": 5
+      },
+      {
+        "keyword": "butter and chicken",
+        "volume": 823000,
+        "competition": 5
+      },
+      {
+        "keyword": "butter butter chicken",
+        "volume": 823000,
+        "competition": 5
+      },
+      {
+        "keyword": "butter chicken butter chicken",
+        "volume": 823000,
+        "competition": 5
+      },
+      {
+        "keyword": "butter chicken chicken",
+        "volume": 823000,
+        "competition": 5
+      },
+      {
+        "keyword": "butter chicken dish",
+        "volume": 823000,
+        "competition": 5
+      },
+      {
+        "keyword": "butter for chicken",
+        "volume": 823000,
+        "competition": 5
+      },
+      {
+        "keyword": "butter chicken recipe",
+        "volume": 368000,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken butter chicken recipe",
+        "volume": 368000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe to make butter chicken",
+        "volume": 368000,
+        "competition": 4
+      },
+      {
+        "keyword": "meals with rotisserie chicken",
+        "volume": 165000,
+        "competition": 20
+      },
+      {
+        "keyword": "meals using rotisserie chicken",
+        "volume": 165000,
+        "competition": 20
+      },
+      {
+        "keyword": "meals made with rotisserie chicken",
+        "volume": 165000,
+        "competition": 20
+      },
+      {
+        "keyword": "kiev chicken",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "butterchicken near me",
+        "volume": 74000,
+        "competition": 22
+      },
+      {
+        "keyword": "chicken dumplings in a crock pot",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "peanut satay",
+        "volume": 60500,
+        "competition": 23
+      },
+      {
+        "keyword": "recipes for chicken satay",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "butter milk fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "simple butter chicken recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "butter chicken recipe easy",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "butter milk chicken",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "basic butter chicken recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker butter chicken",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "meals with leftover rotisserie chicken",
+        "volume": 27100,
+        "competition": 38
+      },
+      {
+        "keyword": "butter chicken crock pot",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "butter chicken in the crockpot",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "butter chicken in the slow cooker",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken makhani slow cooker",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "butter chicken curry",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "indian butter chicken",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "indian food butter chicken",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "butter chicken chicken makhani",
+        "volume": 22200,
         "competition": 0
       },
       {
-        "keyword": "herb butter",
-        "volume": 0,
+        "keyword": "butter chicken indian dish",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken curry butter chicken",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "curry chicken butter",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "india butter chicken",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "indian chicken makhani",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "indian food chicken makhani",
+        "volume": 22200,
         "competition": 0
       },
       {
-        "keyword": "crispy skin",
-        "volume": 0,
+        "keyword": "makhani chicken",
+        "volume": 22200,
         "competition": 0
+      },
+      {
+        "keyword": "butter chicken masala",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "butter chicken how to cook",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "butter chicken murgh makhani",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken buttered",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "murgh makhani",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "roast chicken vegetables",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "butter chicken ingredients",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "roasted chicken and vegetables",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "butter chicken and butter naan",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "butter chicken and naan",
+        "volume": 14800,
+        "competition": 2
       }
     ]
   },

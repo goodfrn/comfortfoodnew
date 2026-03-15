@@ -1,22 +1,118 @@
 {
   "slug": "crispy-brownie-brittle",
-  "title": "Crispy Brownie Brittle",
-  "seed_keywords": [],
+  "title": "Crispy Brownie Brittle with Pecans",
+  "seed_keywords": [
+    "chocolate brittle recipes",
+    "brownie brittle candy",
+    "chocolate pecan brittle",
+    "crispy chocolate crackers",
+    "homemade chocolate brittle"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "brownie brittle",
-        "volume": 0,
+        "keyword": "recipes for peanut brittle",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "sheila g's brownie brittle",
+        "volume": 3600,
+        "competition": 31
+      },
+      {
+        "keyword": "peanut butter brittle",
+        "volume": 2400,
+        "competition": 61
+      },
+      {
+        "keyword": "brownie chips",
+        "volume": 2400,
+        "competition": 80
+      },
+      {
+        "keyword": "chocolate brownie brittle recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "brittle caramel",
+        "volume": 1000,
+        "competition": 54
+      },
+      {
+        "keyword": "peppermint brownie bark",
+        "volume": 880,
+        "competition": 54
+      },
+      {
+        "keyword": "matzo brittle",
+        "volume": 480,
         "competition": 0
       },
       {
-        "keyword": "crispy brownie",
-        "volume": 0,
+        "keyword": "cookie brittle recipe",
+        "volume": 320,
         "competition": 0
       },
       {
-        "keyword": "chocolate brittle",
-        "volume": 0,
+        "keyword": "reeses pieces brownie",
+        "volume": 320,
+        "competition": 25
+      },
+      {
+        "keyword": "chocolate brittle recipes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "brittle recipe chocolate",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate nut brittle recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "pecan brittle recipe microwave",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "matzo brittle recipe",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "nut brittle with honey",
+        "volume": 140,
+        "competition": 67
+      },
+      {
+        "keyword": "recipe for matzo brittle",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "see's candies peanut brittle recipe",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate chip brownie brittle recipe",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate peanut brittle recipe",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut brittle chocolate recipe",
+        "volume": 110,
         "competition": 0
       }
     ]

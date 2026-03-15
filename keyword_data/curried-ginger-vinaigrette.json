@@ -1,22 +1,263 @@
 {
   "slug": "curried-ginger-vinaigrette",
-  "title": "Curried Ginger Vinaigrette",
-  "seed_keywords": [],
+  "title": "Curried Ginger Vinaigrette Recipe",
+  "seed_keywords": [
+    "ginger vinaigrette dressing",
+    "curry salad dressing",
+    "homemade vinaigrette recipe",
+    "ginger curry condiment",
+    "asian inspired vinaigrette"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "curried dressing",
-        "volume": 0,
+        "keyword": "homemade dressings for salad",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "dressing olive oil lemon",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "homemade salad dressing recipe",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "homemade balsamic vinaigrette",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade vinaigrette",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "home salad dressing recipe",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "simple salad dressings recipes",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade balsamic dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade vinaigrette dressing",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "balsamic vinegar homemade dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "basic balsamic salad dressing",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "basic balsamic vinaigrette recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "homemade balsamic salad dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade balsamic vinegar dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade salad dressing vinaigrette",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "honey vinaigrette salad dressing",
+        "volume": 1900,
+        "competition": 73
+      },
+      {
+        "keyword": "simple balsamic salad dressing recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "simple balsamic vinegar dressing",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "homemade salad dressing with olive oil",
+        "volume": 1300,
+        "competition": 19
+      },
+      {
+        "keyword": "home made olive oil dressing",
+        "volume": 1300,
+        "competition": 19
+      },
+      {
+        "keyword": "basic balsamic vinaigrette",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "best italian salad dressing recipe",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade oil & vinegar dressing",
+        "volume": 880,
+        "competition": 15
+      },
+      {
+        "keyword": "homemade oil and vinegar dressing",
+        "volume": 880,
+        "competition": 15
+      },
+      {
+        "keyword": "homemade oil and vinegar salad dressing",
+        "volume": 880,
+        "competition": 15
+      },
+      {
+        "keyword": "mango curry salad dressing",
+        "volume": 880,
+        "competition": 16
+      },
+      {
+        "keyword": "oil and vinegar dressing homemade",
+        "volume": 880,
+        "competition": 15
+      },
+      {
+        "keyword": "oil and vinegar salad dressing homemade",
+        "volume": 880,
+        "competition": 15
+      },
+      {
+        "keyword": "ginger vinaigrette",
+        "volume": 590,
+        "competition": 64
+      },
+      {
+        "keyword": "homemade raspberry vinaigrette",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "curry salad dressing",
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "balsamic vinegar homemade",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "dressing curry",
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade lemon salad dressing",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "homemade red wine vinegar",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "red wine vinegar homemade",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "sesame ginger vinaigrette",
+        "volume": 390,
+        "competition": 78
+      },
+      {
+        "keyword": "ginger lemon salad dressing",
+        "volume": 390,
+        "competition": 26
+      },
+      {
+        "keyword": "homemade balsamic vinaigrette dressing",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade balsamic vinaigrette salad dressing",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade lemon vinaigrette",
+        "volume": 390,
+        "competition": 13
+      },
+      {
+        "keyword": "quick salad dressing recipe",
+        "volume": 390,
+        "competition": 11
+      },
+      {
+        "keyword": "best homemade salad dressing recipe",
+        "volume": 320,
+        "competition": 28
+      },
+      {
+        "keyword": "healthy homemade salad dressing recipes",
+        "volume": 320,
+        "competition": 30
+      },
+      {
+        "keyword": "homemade salad dressing recipe healthy",
+        "volume": 320,
+        "competition": 30
+      },
+      {
+        "keyword": "ina garten vinaigrette recipe",
+        "volume": 320,
         "competition": 0
       },
       {
-        "keyword": "healthy vinaigrette",
-        "volume": 0,
+        "keyword": "sherry vinegar recipe",
+        "volume": 320,
         "competition": 0
       },
       {
-        "keyword": "quick dressing",
-        "volume": 0,
+        "keyword": "asian ginger salad dressing recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "curry vinaigrette",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger soy salad dressing recipe",
+        "volume": 260,
         "competition": 0
       }
     ]

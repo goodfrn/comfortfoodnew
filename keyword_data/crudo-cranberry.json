@@ -1,23 +1,264 @@
 {
   "slug": "crudo-cranberry",
-  "title": "Omble Crudo Cranberry",
-  "seed_keywords": [],
+  "title": "Omble Crudo with Cranberry Vinaigrette",
+  "seed_keywords": [
+    "fish crudo",
+    "salt cured fish",
+    "cranberry vinaigrette recipe",
+    "raw fish appetizer",
+    "omble crudo"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "ombre trout",
-        "volume": 0,
+        "keyword": "crudo tuna",
+        "volume": 22200,
         "competition": 0
       },
       {
-        "keyword": "crudo slices",
-        "volume": 0,
+        "keyword": "kingfish crudo",
+        "volume": 4400,
         "competition": 0
       },
       {
-        "keyword": "popped wild rice",
-        "volume": 0,
+        "keyword": "fish crudo",
+        "volume": 3600,
         "competition": 0
+      },
+      {
+        "keyword": "yellow tail crudo",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "curing salmon with salt",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "salt dried fish",
+        "volume": 2400,
+        "competition": 80
+      },
+      {
+        "keyword": "tuna crudo recipe",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "salted salmon",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "sea bass crudo",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "salt cured anchovies",
+        "volume": 1600,
+        "competition": 40
+      },
+      {
+        "keyword": "salmon crudo recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "snapper crudo",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "hamachi crudo recipe",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "sea bream crudo",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "yellowfin tuna crudo",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "cranberry vinaigrette",
+        "volume": 880,
+        "competition": 29
+      },
+      {
+        "keyword": "krudo fish",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "albacore tuna crudo",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry dressing for salad",
+        "volume": 590,
+        "competition": 76
+      },
+      {
+        "keyword": "red snapper crudo",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "cranberry vinaigrette recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cobia crudo",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "crudo hamachi",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "king fish crudo",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "salt cured fish",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "kingfish crudo recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cured cod",
+        "volume": 260,
+        "competition": 15
+      },
+      {
+        "keyword": "cured cod fish",
+        "volume": 260,
+        "competition": 15
+      },
+      {
+        "keyword": "mackerel crudo",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "market fish crudo",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "yellowfin crudo",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "yellowtail crudo recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "bluefin crudo",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "crudo salmon",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "salt for curing salmon",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "swordfish crudo",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "best fish for crudo",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "cranberry walnut goat cheese salad",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "dry cured fish",
+        "volume": 170,
+        "competition": 9
+      },
+      {
+        "keyword": "fish crudo recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "wahoo crudo",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "yellow fin tuna crudo",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "raw fish appetizer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cranberry vinaigrette dressing",
+        "volume": 140,
+        "competition": 75
+      },
+      {
+        "keyword": "cranberry vinaigrette salad dressing",
+        "volume": 140,
+        "competition": 75
+      },
+      {
+        "keyword": "hiramasa kingfish crudo",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "raw tuna appetizer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "trevally crudo",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "cranberry salad dressing recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "raw salted salmon",
+        "volume": 110,
+        "competition": 9
       }
     ]
   },

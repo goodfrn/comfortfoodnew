@@ -1,22 +1,263 @@
 {
   "slug": "crunchy-apple-fritters",
-  "title": "Crunchy Apple Fritters",
-  "seed_keywords": [],
+  "title": "Crunchy Apple Fritters with Cinnamon",
+  "seed_keywords": [
+    "apple fritters",
+    "fried apple desserts",
+    "cinnamon apple snacks",
+    "deep fried apples",
+    "apple fritters recipe"
+  ],
   "keywords": {
     "all": [
       {
         "keyword": "apple fritters",
-        "volume": 0,
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "applesauce fritters",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "apple fritters recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "apple fritters near me",
+        "volume": 9900,
+        "competition": 40
+      },
+      {
+        "keyword": "apple fritter baked",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple fritters bakery",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple fritter bread",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "apple fritter donut",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "apple fritter baked recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "apple fritter cake",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked apple in air fryer",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked apples in air fryer",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "fried apple pies",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "apple fritter tim hortons",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "apple chips recipe",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "apple fritter bread recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "apple fritter recipe easy",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "simple apple fritter recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "tim hortons apple fritters",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "country apple fritter bread",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "air fryer apple crisp",
+        "volume": 1900,
         "competition": 0
       },
       {
-        "keyword": "fried apple dough",
-        "volume": 0,
+        "keyword": "air fryer apple crumble",
+        "volume": 1900,
         "competition": 0
       },
       {
-        "keyword": "cinnamon sugar fritters",
-        "volume": 0,
+        "keyword": "air fryer baked apples",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple fritter at dunkin donuts",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple fritter donut shop",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "apple fritter dunkin donuts",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple fry pie recipe",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "baked apple in airfryer",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "baked apples in airfryer",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "quaker apple cinnamon rice cakes",
+        "volume": 1600,
+        "competition": 44
+      },
+      {
+        "keyword": "air fry pie",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer apple fritter",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer apple fritters",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "amish apple fritter bread",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "apple cinnamon rice cakes quaker",
+        "volume": 1600,
+        "competition": 44
+      },
+      {
+        "keyword": "apple fritters homemade",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "donut fritter",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "quaker oats apple cinnamon rice cakes",
+        "volume": 1600,
+        "competition": 44
+      },
+      {
+        "keyword": "recipe for apple doughnuts",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "best apple fritters near me",
+        "volume": 1300,
+        "competition": 24
+      },
+      {
+        "keyword": "apple fritter cake recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "country apple fritter bread recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for country apple fritter bread",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer apple pie",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "apple and cinnamon crisps",
+        "volume": 1000,
+        "competition": 52
+      },
+      {
+        "keyword": "apple cinnamon crisps",
+        "volume": 1000,
+        "competition": 52
+      },
+      {
+        "keyword": "apple fritter krispy kreme",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "dunkin apple fritter",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "fried apple pie mcdonalds",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "sourdough apple fritter",
+        "volume": 1000,
         "competition": 0
       }
     ]

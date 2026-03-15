@@ -1,22 +1,263 @@
 {
   "slug": "donut-cake-remix",
-  "title": "Donut Cake Remix",
-  "seed_keywords": [],
+  "title": "Donut Cake Remix with Mascarpone Cream",
+  "seed_keywords": [
+    "no bake desserts",
+    "mascarpone cream cake",
+    "donut cake",
+    "layered dessert with cherries",
+    "mascarpone no bake"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "donut glaze",
-        "volume": 0,
+        "keyword": "no bake cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake recipe no bake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no cook cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "bakeless cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheese cake without baking",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheese cake without oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake no oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake unbaked",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheese cakes",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheesecake dessert",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no cook cheesecake recipe",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "none bake cheese cake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheesecake dessert recipes",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for unbaked cheesecake",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake recipe",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia cream cheese no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "lemon square cake",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "no bake philadelphia cream cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philly cheesecake recipe no bake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "donut cake",
+        "volume": 40500,
+        "competition": 42
+      },
+      {
+        "keyword": "cake and donut",
+        "volume": 40500,
+        "competition": 42
+      },
+      {
+        "keyword": "cake donut cake",
+        "volume": 40500,
+        "competition": 42
+      },
+      {
+        "keyword": "cake with donut",
+        "volume": 40500,
+        "competition": 42
+      },
+      {
+        "keyword": "donut and cake",
+        "volume": 40500,
+        "competition": 42
+      },
+      {
+        "keyword": "donutes cake",
+        "volume": 40500,
+        "competition": 42
+      },
+      {
+        "keyword": "keto desserts no bake",
+        "volume": 40500,
         "competition": 0
       },
       {
-        "keyword": "no bake cake",
-        "volume": 0,
+        "keyword": "keto no bake dessert",
+        "volume": 40500,
         "competition": 0
       },
       {
-        "keyword": "fruit topped dessert",
-        "volume": 0,
+        "keyword": "no bake keto dessert",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "baked cheese cake",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "eclair cake",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "bake cheesecake recipe",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cake donat",
+        "volume": 27100,
+        "competition": 49
+      },
+      {
+        "keyword": "no bake desserts",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "3 ingredient no bake cheesecake",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "no bake lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake sweets",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "bakeless desserts",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "cheesecake recipe lemon no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "citrus cheesecake no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "dessert without baking",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "dessert without oven",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "unbaked desserts",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "uncooked lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon icebox pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "dk's donuts & bakery",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "ice box lemon pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "ice box pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "pecan pie no corn syrup",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "graham cracker crust no bake cheesecake",
+        "volume": 12100,
         "competition": 0
       }
     ]

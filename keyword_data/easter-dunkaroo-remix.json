@@ -1,23 +1,264 @@
 {
   "slug": "easter-dunkaroo-remix",
-  "title": "Easter Dunkaroo Remix",
-  "seed_keywords": [],
+  "title": "Easter Dunkaroo Remix: No-Bake Dip",
+  "seed_keywords": [
+    "no bake dessert dip",
+    "easter dessert ideas",
+    "greek yogurt dip",
+    "cake mix dip",
+    "easter dunkaroo dip"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "white cake mix",
-        "volume": 0,
+        "keyword": "tzatziki",
+        "volume": 823000,
+        "competition": 6
+      },
+      {
+        "keyword": "tzatziki recipe",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "tzatziki sauce",
+        "volume": 201000,
+        "competition": 28
+      },
+      {
+        "keyword": "greek sauce tzatziki",
+        "volume": 201000,
+        "competition": 28
+      },
+      {
+        "keyword": "tzatziki greece",
+        "volume": 201000,
+        "competition": 28
+      },
+      {
+        "keyword": "tzatziki sauce recipe",
+        "volume": 60500,
+        "competition": 20
+      },
+      {
+        "keyword": "make tzatziki sauce",
+        "volume": 60500,
+        "competition": 20
+      },
+      {
+        "keyword": "greek sauce tzatziki recipe",
+        "volume": 60500,
+        "competition": 20
+      },
+      {
+        "keyword": "desserts for easter",
+        "volume": 49500,
+        "competition": 44
+      },
+      {
+        "keyword": "dessert on easter",
+        "volume": 49500,
+        "competition": 44
+      },
+      {
+        "keyword": "greek yogurt for tzatziki",
+        "volume": 33100,
         "competition": 0
       },
       {
-        "keyword": "whipped topping",
-        "volume": 0,
+        "keyword": "easter dessert ideas",
+        "volume": 27100,
+        "competition": 48
+      },
+      {
+        "keyword": "easter dessert recipes",
+        "volume": 27100,
+        "competition": 48
+      },
+      {
+        "keyword": "easter dessert suggestions",
+        "volume": 27100,
+        "competition": 48
+      },
+      {
+        "keyword": "tzatziki sauce how to make",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "homemade tzatziki",
+        "volume": 14800,
+        "competition": 18
+      },
+      {
+        "keyword": "gyros tzatziki sauce",
+        "volume": 14800,
+        "competition": 37
+      },
+      {
+        "keyword": "tzatziki sauce recipe easy",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "easy tzatziki recipe",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "easiest tzatziki recipe",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "easy gyro sauce recipe",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "simple greek tzatziki recipe",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "simple tzatziki recipe",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "tzatziki dipping sauce",
+        "volume": 12100,
+        "competition": 37
+      },
+      {
+        "keyword": "tzatziki sauce easy recipe",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "ranch with greek yogurt",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "homemade tzatziki sauce",
+        "volume": 9900,
+        "competition": 26
+      },
+      {
+        "keyword": "ranch greek yogurt dressing",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "easy dessert easter",
+        "volume": 9900,
+        "competition": 44
+      },
+      {
+        "keyword": "greek yogurt ranch salad dressing",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "home made tzatziki",
+        "volume": 9900,
+        "competition": 26
+      },
+      {
+        "keyword": "home made tzatziki sauce",
+        "volume": 9900,
+        "competition": 26
+      },
+      {
+        "keyword": "greek yogurt dip",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "greek yogurt dipping sauce",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "greek yogurt sauce",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "sauce with yogurt",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "greek yogurt ranch dip",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "best tzatziki recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "greek yogurt and ranch dip",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "best greek tzatziki recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "best greek tzatziki sauce recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "best recipe for tzatziki sauce",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "fun fetti dip",
+        "volume": 5400,
         "competition": 0
       },
       {
-        "keyword": "Greek yogurt",
-        "volume": 0,
-        "competition": 0
+        "keyword": "good tzatziki recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "ranch dip from greek yogurt",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "yogurt garlic sauce",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "easter baking ideas",
+        "volume": 4400,
+        "competition": 37
+      },
+      {
+        "keyword": "yogurt dip",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "greek yogurt tzatziki",
+        "volume": 4400,
+        "competition": 29
+      },
+      {
+        "keyword": "authentic tzatziki sauce recipe",
+        "volume": 4400,
+        "competition": 7
       }
     ]
   },

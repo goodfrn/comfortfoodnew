@@ -1,23 +1,264 @@
 {
   "slug": "dual-salamis-sub-twist",
-  "title": "Dual Salamis Sub Twist",
-  "seed_keywords": [],
+  "title": "Dual Salamis Sub Twist - Italian Deli",
+  "seed_keywords": [
+    "italian sub sandwich",
+    "salami sandwich recipe",
+    "homemade submarine sandwich",
+    "provolone salami sub",
+    "spicy italian deli"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "submarine sandwich",
-        "volume": 0,
-        "competition": 0
+        "keyword": "italian sandwich near me",
+        "volume": 40500,
+        "competition": 21
       },
       {
-        "keyword": "provolone salami sandwich",
-        "volume": 0,
-        "competition": 0
+        "keyword": "italian sub sandwich",
+        "volume": 33100,
+        "competition": 6
       },
       {
-        "keyword": "pickled jalapeño sandwich",
-        "volume": 0,
-        "competition": 0
+        "keyword": "italian sub",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "italian beef for sandwiches",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "italian hoagie sandwich",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "italian submarine sandwich",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "italian subs near me",
+        "volume": 18100,
+        "competition": 22
+      },
+      {
+        "keyword": "italian sub sandwiches near me",
+        "volume": 18100,
+        "competition": 22
+      },
+      {
+        "keyword": "spicy italian sub",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "sandwich salami",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "italian hoagie",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "best italian subs near me",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "italian sub meats",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "italian hoagie meats",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "italian grinder meats",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "italian sub sandwich meats",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "meats on a italian sub",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "italian grinder",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "italian hoagies near me",
+        "volume": 2400,
+        "competition": 19
+      },
+      {
+        "keyword": "best italian sandwich near me",
+        "volume": 2400,
+        "competition": 19
+      },
+      {
+        "keyword": "salami sandwich recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "italian sandwich meats",
+        "volume": 1900,
+        "competition": 40
+      },
+      {
+        "keyword": "italian sub bread",
+        "volume": 1900,
+        "competition": 33
+      },
+      {
+        "keyword": "best italian sandwich",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "good italian sandwich",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "italian bread sub",
+        "volume": 1900,
+        "competition": 33
+      },
+      {
+        "keyword": "italian sandwich shops near me",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "salami sandwich ideas",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "arbys italian sandwich",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "original italian sub",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled cheese and salami",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled cheese salami",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled salami and cheese",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled salami and cheese sandwich",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "hot italian sandwich",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "italian hero sandwich",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "italian hero sub",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "moe's subs",
+        "volume": 1000,
+        "competition": 15
+      },
+      {
+        "keyword": "best meatballs for meatball subs",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "classic italian sandwiches",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "classic italian sub",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "classic italian sub sandwich",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "classic italian subway",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "italian hoagie dip",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "italian meatball sub",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "italian meatball sub sandwich",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "italian sub dip",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "moe's italian sub",
+        "volume": 1000,
+        "competition": 15
+      },
+      {
+        "keyword": "moes italian sub",
+        "volume": 1000,
+        "competition": 15
+      },
+      {
+        "keyword": "best italian sub",
+        "volume": 880,
+        "competition": 8
       }
     ]
   },

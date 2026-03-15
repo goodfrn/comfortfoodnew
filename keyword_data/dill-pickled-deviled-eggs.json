@@ -1,23 +1,264 @@
 {
   "slug": "dill-pickled-deviled-eggs",
-  "title": "Dill Pickled Deviled Eggs",
-  "seed_keywords": [],
+  "title": "Dill Pickled Deviled Eggs Recipe",
+  "seed_keywords": [
+    "deviled eggs",
+    "pickled eggs",
+    "dill egg appetizers",
+    "deviled egg variations",
+    "horseradish deviled eggs"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "deviled eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "stuffed eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
+        "keyword": "dressed eggs recipe",
+        "volume": 450000,
+        "competition": 24
+      },
+      {
         "keyword": "deviled eggs",
-        "volume": 0,
-        "competition": 0
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "devilled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "devilled egg dish",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled eggs and",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled eggs deviled eggs",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "eggs deviled eggs",
+        "volume": 368000,
+        "competition": 7
       },
       {
         "keyword": "pickled eggs",
-        "volume": 0,
+        "volume": 74000,
+        "competition": 63
+      },
+      {
+        "keyword": "hard boiled eggs pickled",
+        "volume": 74000,
+        "competition": 63
+      },
+      {
+        "keyword": "pickled chicken eggs",
+        "volume": 74000,
+        "competition": 63
+      },
+      {
+        "keyword": "pickled eggs pickled eggs",
+        "volume": 74000,
+        "competition": 63
+      },
+      {
+        "keyword": "making pickled eggs",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "best deviled eggs recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "good deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "recipe deviled eggs best",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "best rated deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "best stuffed eggs recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "great deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "top rated deviled egg recipe",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "easy deviled eggs recipe",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "basic deviled egg recipe",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "simple deviled eggs recipe",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "recipes for deviled eggs simple",
+        "volume": 27100,
+        "competition": 28
+      },
+      {
+        "keyword": "egg potato salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "hard boiled eggs for deviled eggs",
+        "volume": 18100,
         "competition": 0
       },
       {
-        "keyword": "horseradish powder",
-        "volume": 0,
+        "keyword": "egg and potato salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "deviled sausage",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "ingredients for deviled eggs",
+        "volume": 9900,
+        "competition": 22
+      },
+      {
+        "keyword": "stuffed eggs",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "deviled egg stuffing",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "devilled egg ingredients",
+        "volume": 9900,
+        "competition": 22
+      },
+      {
+        "keyword": "double eggs ingredients",
+        "volume": 9900,
+        "competition": 22
+      },
+      {
+        "keyword": "pickled eggs how to",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed deviled eggs",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "best deviled eggs",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "pickled beet eggs",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "best devilled eggs",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "deviled eggs halloween",
+        "volume": 8100,
         "competition": 0
+      },
+      {
+        "keyword": "beets and pickled eggs",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "best eggs for deviled eggs",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "devilled eggs halloween",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "pickled eggs and red beets",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "pickled eggs with pickled beets",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "pickled eggs with red beets",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "classic deviled eggs recipe",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "deviled eggs near me",
+        "volume": 6600,
+        "competition": 36
+      },
+      {
+        "keyword": "deviled egg potato salad",
+        "volume": 6600,
+        "competition": 65
       }
     ]
   },

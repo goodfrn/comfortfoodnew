@@ -1,23 +1,264 @@
 {
   "slug": "duck-breast-red-wine",
-  "title": "Duck Breast Red Wine Cocoa",
-  "seed_keywords": [],
+  "title": "Duck Breast Red Wine Cocoa with Kale",
+  "seed_keywords": [
+    "duck breast recipes",
+    "red wine chocolate sauce",
+    "pan seared duck",
+    "duck with cocoa",
+    "french duck dinner"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "duck breast",
-        "volume": 0,
+        "keyword": "duck breast recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "duck meat",
+        "volume": 27100,
+        "competition": 39
+      },
+      {
+        "keyword": "recipes using duck breast",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "smoked duck",
+        "volume": 14800,
+        "competition": 49
+      },
+      {
+        "keyword": "orange sauce with duck",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "duck in sauce recipes",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cooked duck breast",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "cook duck meat",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "duck breast preparation",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "duck plum sauce",
+        "volume": 5400,
+        "competition": 15
+      },
+      {
+        "keyword": "howto cook duck",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "making duck breast",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "sous vide duck breast",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "hoisin sauce duck",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for smoked duck",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with smoked duck",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "cherry duck sauce",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "duck and cherry sauce",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "duck breast pan seared",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "duck breast sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "sauce for duck",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "air fried duck breast",
+        "volume": 1900,
         "competition": 0
       },
       {
-        "keyword": "chocolate sauce",
-        "volume": 0,
+        "keyword": "air fry duck breast",
+        "volume": 1900,
         "competition": 0
       },
       {
-        "keyword": "beetroot dish",
-        "volume": 0,
+        "keyword": "airfryer duck breast",
+        "volume": 1900,
         "competition": 0
+      },
+      {
+        "keyword": "best way to cook a duck breast",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "best way to cook duck meat",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "best way to prepare duck breast",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "breast of duck with orange sauce",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "duck breast airfryer",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "duck breast and orange sauce",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "duck breast in air fryer",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "duck breast roast",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "duck breast pan fried",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "asian duck breast recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese duck breast recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "duck and red wine sauce",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "duck breast marinade",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "duck breast seared",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "duck in red wine sauce",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "duck in sous vide",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "duck marinades",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "duck meat marinade",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "duck meat recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "duck sauce red wine",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "duck sous vide",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "marinade duck breasts",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "marinating a duck",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "red wine sauce duck",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "sous vide duck",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled duck breast",
+        "volume": 1000,
+        "competition": 1
       }
     ]
   },

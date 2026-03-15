@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-cocoa-bites",
-  "title": "Crunchy Cocoa Bites",
-  "seed_keywords": [],
+  "title": "Crunchy Cocoa Bites with Hazelnuts",
+  "seed_keywords": [
+    "chocolate hazelnut bites",
+    "no bake chocolate candy",
+    "cocoa powder treats",
+    "chocolate cereal bars",
+    "hazelnut chocolate snacks"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "chocolate cereal bites",
-        "volume": 0,
-        "competition": 0
+        "keyword": "reeses peanut butter puffs",
+        "volume": 49500,
+        "competition": 54
       },
       {
-        "keyword": "gluten free snack",
-        "volume": 0,
-        "competition": 0
+        "keyword": "choco crunch",
+        "volume": 33100,
+        "competition": 65
       },
       {
-        "keyword": "hazelnut chocolate balls",
-        "volume": 0,
-        "competition": 0
+        "keyword": "kitkat cereal",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "cereal twix",
+        "volume": 9900,
+        "competition": 70
+      },
+      {
+        "keyword": "rice crispy treat chocolate",
+        "volume": 9900,
+        "competition": 70
+      },
+      {
+        "keyword": "rice krispies squares chocolate",
+        "volume": 9900,
+        "competition": 70
+      },
+      {
+        "keyword": "peanut butter and oats bars",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter oats bars",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "golden graham bars",
+        "volume": 2900,
+        "competition": 69
+      },
+      {
+        "keyword": "cocoa krispie treats",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "cocoa crispy treats",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "cocoa krispies rice krispie treats",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "cheerios peanut butter bars",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate peanut butter balls no bake",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cornflakes peanut butter bars",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "nesquik bar",
+        "volume": 1900,
+        "competition": 56
+      },
+      {
+        "keyword": "reese's no bake bars",
+        "volume": 1900,
+        "competition": 77
+      },
+      {
+        "keyword": "alpen bars",
+        "volume": 1600,
+        "competition": 34
+      },
+      {
+        "keyword": "cornflakes bar",
+        "volume": 1600,
+        "competition": 48
+      },
+      {
+        "keyword": "peanut butter and chocolate cheerios",
+        "volume": 1300,
+        "competition": 79
+      },
+      {
+        "keyword": "cheerios peanut butter",
+        "volume": 1000,
+        "competition": 75
+      },
+      {
+        "keyword": "cheerios and peanut butter",
+        "volume": 1000,
+        "competition": 75
+      },
+      {
+        "keyword": "butterscotch rice krispies bars",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "golden graham treats",
+        "volume": 880,
+        "competition": 28
+      },
+      {
+        "keyword": "cheerios rice krispie treats",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "cereal and peanut butter bars",
+        "volume": 880,
+        "competition": 31
+      },
+      {
+        "keyword": "chocolate puffed rice",
+        "volume": 880,
+        "competition": 72
+      },
+      {
+        "keyword": "rice crispy treats chocolate chips",
+        "volume": 880,
+        "competition": 50
+      },
+      {
+        "keyword": "white chocolate rice crispy bar",
+        "volume": 880,
+        "competition": 14
+      },
+      {
+        "keyword": "chocolate bar with rice krispies",
+        "volume": 720,
+        "competition": 67
+      },
+      {
+        "keyword": "chocolate bar rice krispies",
+        "volume": 720,
+        "competition": 67
+      },
+      {
+        "keyword": "chocolate bar with corn flakes",
+        "volume": 720,
+        "competition": 68
+      },
+      {
+        "keyword": "chocolate bars with rice krispies",
+        "volume": 720,
+        "competition": 67
+      },
+      {
+        "keyword": "cocoa rice krispies treats",
+        "volume": 720,
+        "competition": 69
+      },
+      {
+        "keyword": "corn flake bars with chocolate",
+        "volume": 720,
+        "competition": 68
+      },
+      {
+        "keyword": "cornflakes marshmallow",
+        "volume": 720,
+        "competition": 62
+      },
+      {
+        "keyword": "marshmallow and cornflakes",
+        "volume": 720,
+        "competition": 62
+      },
+      {
+        "keyword": "puffed rice bar",
+        "volume": 720,
+        "competition": 65
+      },
+      {
+        "keyword": "rice crispy treats with cocoa powder",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate cereal bars",
+        "volume": 590,
+        "competition": 78
+      },
+      {
+        "keyword": "nesquik cereal bar",
+        "volume": 590,
+        "competition": 66
+      },
+      {
+        "keyword": "cocoa cereal bars",
+        "volume": 590,
+        "competition": 78
+      },
+      {
+        "keyword": "homemade reese's bars",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade reese's peanut butter bars",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "alpen light bars",
+        "volume": 480,
+        "competition": 48
+      },
+      {
+        "keyword": "alpen bar light",
+        "volume": 480,
+        "competition": 48
+      },
+      {
+        "keyword": "alpen chocolate",
+        "volume": 480,
+        "competition": 57
+      },
+      {
+        "keyword": "chocolate nutrigrain",
+        "volume": 480,
+        "competition": 60
+      },
+      {
+        "keyword": "cocoa puff bar",
+        "volume": 480,
+        "competition": 78
+      },
+      {
+        "keyword": "reeses cookie cups",
+        "volume": 480,
+        "competition": 80
       }
     ]
   },

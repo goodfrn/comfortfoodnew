@@ -1,23 +1,129 @@
 {
   "slug": "earthy-truffle-aioli",
-  "title": "Earthy Truffle Aioli",
-  "seed_keywords": [],
+  "title": "Earthy Truffle Aioli with Garlic & Mayo",
+  "seed_keywords": [
+    "truffle aioli",
+    "garlic mayo spread",
+    "mushroom condiment recipe",
+    "homemade aioli",
+    "black truffle spread"
+  ],
   "keywords": {
     "all": [
       {
         "keyword": "truffle aioli",
-        "volume": 0,
+        "volume": 9900,
+        "competition": 30
+      },
+      {
+        "keyword": "ketchup mushroom",
+        "volume": 6600,
+        "competition": 69
+      },
+      {
+        "keyword": "garlic sauce mayonnaise",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "homemade aioli",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "aioli homemade",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade garlic aioli",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "truffle aioli recipe",
+        "volume": 1300,
         "competition": 0
       },
       {
-        "keyword": "garlic mayo spread",
-        "volume": 0,
+        "keyword": "garlic aioli dipping sauce",
+        "volume": 880,
+        "competition": 44
+      },
+      {
+        "keyword": "garlic mayo homemade",
+        "volume": 880,
         "competition": 0
       },
       {
-        "keyword": "black mushroom tapenade",
-        "volume": 0,
+        "keyword": "homemade garlic mayo",
+        "volume": 880,
         "competition": 0
+      },
+      {
+        "keyword": "black truffle aioli",
+        "volume": 480,
+        "competition": 31
+      },
+      {
+        "keyword": "garlic truffle aioli",
+        "volume": 390,
+        "competition": 51
+      },
+      {
+        "keyword": "homemade aioli recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade garlic aioli recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "trader joe's truffle aioli",
+        "volume": 390,
+        "competition": 10
+      },
+      {
+        "keyword": "truffle garlic aioli",
+        "volume": 390,
+        "competition": 51
+      },
+      {
+        "keyword": "homemade aioli sauce",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "truffle aioli trader joe's",
+        "volume": 260,
+        "competition": 63
+      },
+      {
+        "keyword": "truffle aioli trader joes",
+        "volume": 260,
+        "competition": 63
+      },
+      {
+        "keyword": "garlic aioli recipe scratch",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "truffle aioli fries",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "white truffle aioli",
+        "volume": 170,
+        "competition": 15
+      },
+      {
+        "keyword": "homemade garlic mayo recipe",
+        "volume": 110,
+        "competition": 1
       }
     ]
   },

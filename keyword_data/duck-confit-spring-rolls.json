@@ -1,23 +1,264 @@
 {
   "slug": "duck-confit-spring-rolls",
-  "title": "Duck Confit Spring Rolls",
-  "seed_keywords": [],
+  "title": "Duck Confit Spring Rolls with Rice Vermicelli",
+  "seed_keywords": [
+    "spring rolls recipe",
+    "duck appetizers",
+    "asian spring rolls",
+    "duck confit dishes",
+    "rice paper wraps"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "roll spring rolls",
+        "volume": 450000,
+        "competition": 26
+      },
+      {
+        "keyword": "rolling spring rolls",
+        "volume": 450000,
+        "competition": 26
+      },
+      {
+        "keyword": "spring roll dish",
+        "volume": 450000,
+        "competition": 26
+      },
+      {
+        "keyword": "spring roll spring roll",
+        "volume": 450000,
+        "competition": 26
+      },
+      {
+        "keyword": "spring rolls and",
+        "volume": 450000,
+        "competition": 26
+      },
+      {
+        "keyword": "springroll",
+        "volume": 450000,
+        "competition": 26
+      },
+      {
+        "keyword": "spring rolls recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "duck confit dishes",
+        "volume": 74000,
+        "competition": 8
+      },
+      {
         "keyword": "duck confit",
-        "volume": 0,
-        "competition": 0
+        "volume": 74000,
+        "competition": 8
       },
       {
-        "keyword": "spring rolls",
-        "volume": 0,
-        "competition": 0
+        "keyword": "summer rolls",
+        "volume": 74000,
+        "competition": 3
       },
       {
-        "keyword": "rice vermicelli",
-        "volume": 0,
-        "competition": 0
+        "keyword": "duck duck confit",
+        "volume": 74000,
+        "competition": 8
+      },
+      {
+        "keyword": "make spring roll",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "vietnamese spring rolls",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "vietnamese food spring rolls",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "rice paper rolls",
+        "volume": 49500,
+        "competition": 43
+      },
+      {
+        "keyword": "rolled rice paper rolls",
+        "volume": 49500,
+        "competition": 43
+      },
+      {
+        "keyword": "vegan spring rolls",
+        "volume": 33100,
+        "competition": 36
+      },
+      {
+        "keyword": "vegetarian spring rolls",
+        "volume": 33100,
+        "competition": 36
+      },
+      {
+        "keyword": "duck confit recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken spring",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh springroll",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "rice paper for spring rolls",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "peanut sauce for spring rolls",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "fresh rolls with peanut sauce",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "paper rice recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut sauce fresh rolls",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe for vietnamese spring roll",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "sauce for spring rolls peanut",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "vietnamese lumpia recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken spring rolls",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "rolls veggie",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "spring roll with chicken",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "vegetable rolls",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "veggie rolls",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "rice paper rolls recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable spring rolls recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "spring roll ingredients",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "sauce for spring rolls",
+        "volume": 9900,
+        "competition": 55
+      },
+      {
+        "keyword": "china spring roll",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "chinese food spring rolls",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "confit duck leg dishes",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe for veggie spring rolls",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roll salad",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "salad rolls",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "shrimp springroll",
+        "volume": 9900,
+        "competition": 21
+      },
+      {
+        "keyword": "spring roll contents",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "spring rolls recipe veg",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "veg spring",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "vegetable spring",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "summer rolls recipe",
+        "volume": 8100,
+        "competition": 3
       }
     ]
   },

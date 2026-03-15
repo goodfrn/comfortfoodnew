@@ -1,23 +1,264 @@
 {
   "slug": "easy-spiced-apple-crumble",
-  "title": "Easy Spiced Apple Crumble",
-  "seed_keywords": [],
+  "title": "Easy Spiced Apple Crumble with Oats",
+  "seed_keywords": [
+    "apple crumble",
+    "spiced apple dessert",
+    "apple crumble recipe",
+    "baked oat topping",
+    "cinnamon apple bake"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "apple dessert",
-        "volume": 0,
-        "competition": 0
+        "keyword": "apple crumble",
+        "volume": 301000,
+        "competition": 3
       },
       {
-        "keyword": "crumble recipe",
-        "volume": 0,
-        "competition": 0
+        "keyword": "apple crumble recipe",
+        "volume": 301000,
+        "competition": 2
       },
       {
-        "keyword": "fall baking",
-        "volume": 0,
-        "competition": 0
+        "keyword": "apple and crumble",
+        "volume": 301000,
+        "competition": 3
+      },
+      {
+        "keyword": "apple and crumble recipe",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "apple crumble apples",
+        "volume": 301000,
+        "competition": 3
+      },
+      {
+        "keyword": "apple crumble crumble",
+        "volume": 301000,
+        "competition": 3
+      },
+      {
+        "keyword": "apple crumble crumble recipe",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "apple crumble dessert recipe",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for crumble for apple crumble",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for apple crisp",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "apple crunch recipe",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "apple crisp dessert recipe",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "apple crisp recipe recipe",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "crisp recipe for apple crisp",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "apple crunch dessert",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "dessert appel crumble",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "apple baked",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "apple crisp recipe with oats",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "apple crumble recipe with oats",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "apple crumble recipe using oats",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "apple crumble recipe with oatmeal",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "easy apple crumble recipe with oats",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "apple crumble pie",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "apple and blackberry crumble",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple & blackberry crumble",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "easy apple crisp recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "easy apple crisp",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "apple crumb pie topping",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "apple crumb pie topping recipe",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "apple crumb topping for apple pie",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "crumb pie topping for apple pie",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "easiest apple crisp recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "easy apple crunch",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "apple pie spices",
+        "volume": 14800,
+        "competition": 67
+      },
+      {
+        "keyword": "apple crumb cake",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "apple cake with crumble",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "apple crumble recipe low sugar",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "baked apples granny smith",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cake apple crumble",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "crumble mixture",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "crumble oat topping",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "crumble topping using oats",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "low sugar apple crisp recipes",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and cinnamon cake",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cake cinnamon",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple crumb top",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "apple crumb topping recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "apple crumble english recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "best baked apple",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "cinnamon roll and apple",
+        "volume": 12100,
+        "competition": 3
       }
     ]
   },

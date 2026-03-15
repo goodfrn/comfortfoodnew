@@ -1,23 +1,264 @@
 {
   "slug": "crispy-fried-green-tomatoes",
-  "title": "Crispy Fried Green Tomatoes",
-  "seed_keywords": [],
+  "title": "Crispy Fried Green Tomatoes with Cornmeal",
+  "seed_keywords": [
+    "fried green tomatoes",
+    "green tomato recipe",
+    "crispy fried vegetables",
+    "cornmeal fried coating",
+    "southern fried appetizers"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "green tomatoes frying",
-        "volume": 0,
+        "keyword": "fried green tomatoes",
+        "volume": 201000,
         "competition": 0
       },
       {
-        "keyword": "cornmeal coating",
-        "volume": 0,
+        "keyword": "fried green tomatoes food",
+        "volume": 201000,
         "competition": 0
       },
       {
-        "keyword": "crispy fried tomatoes",
-        "volume": 0,
+        "keyword": "tomatoes for fried green tomatoes",
+        "volume": 201000,
         "competition": 0
+      },
+      {
+        "keyword": "fried green tomatoes recipe",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "cook fried green tomatoes",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "make fried green tomatoes",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipes with fried green tomatoes",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "green tomatoes",
+        "volume": 40500,
+        "competition": 34
+      },
+      {
+        "keyword": "fried green tomatoes 1991",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "green tomato recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "green tomato dishes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for unripe tomatoes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for using green tomatoes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "green tomato chutney",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "chutney from green tomatoes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "unripe tomato chutney",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried tomato buffet",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "fried green tomatoes near me",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "crispy shallot",
+        "volume": 9900,
+        "competition": 21
+      },
+      {
+        "keyword": "green bean potato tomato",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "green tomatoes grilled",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "fried green tomatoes at the whistle stop cafe",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "fried tomato",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "fannie flagg fried green tomatoes at the whistle stop cafe",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "fannie flagg whistle stop cafe",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "fried green tomatoes and the whistle stop cafe",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "fried green tomatoes at the whistle stop",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "fried green tomatoes the whistle stop cafe",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "green catsup",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "the whistle stop cafe fried green tomatoes",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "green tomato salsa",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "chutney green tomato recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "green tomatoes for salsa",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "salsa from green tomatoes",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "unripe tomato salsa",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "green tomato relish",
+        "volume": 5400,
+        "competition": 44
+      },
+      {
+        "keyword": "green tomato relish uses",
+        "volume": 5400,
+        "competition": 44
+      },
+      {
+        "keyword": "green tomatoes buffet",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "green pickled tomatoes recipe",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "roasting tomatillos for salsa",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "fried green tomatoes recipe easy",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "fried green tomatoes simple recipe",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "green bean and tomato",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "green tomato chutney mary berry",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "green tomato pickle relish recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "green tomato relish recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "make pickled tomatoes",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "mary berry green tomato chutney",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickle tomato recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "simple fried green tomato recipes",
+        "volume": 2400,
+        "competition": 10
       }
     ]
   },

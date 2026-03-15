@@ -1,23 +1,264 @@
 {
   "slug": "crispy-tofu-sticks",
-  "title": "Crispy Tofu Sticks Honey Mustard",
-  "seed_keywords": [],
+  "title": "Crispy Tofu Sticks with Honey Mustard",
+  "seed_keywords": [
+    "tofu appetizers",
+    "crispy tofu recipes",
+    "breaded tofu pan fried",
+    "fried tofu sticks",
+    "honey mustard dipping sauce"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "tofu sticks",
-        "volume": 0,
+        "keyword": "air fryer tofu",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in air fryer",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in airfryer",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in an air fryer",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "fried tofu",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "fried tau fu",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "tofu fried tofu",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "honey mustard sauce",
+        "volume": 27100,
+        "competition": 44
+      },
+      {
+        "keyword": "fried tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "crispy tofu",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "crispy bean curd",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu baking",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crispy tofu recipes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry tofu recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy tofu recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu air fryer recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "fried tofu recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "cook fried tofu",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried tofu dish",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried tofu stir fry recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "oven tofu recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe baked tofu",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in oven recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "honey mustard dipping sauce",
+        "volume": 9900,
+        "competition": 31
+      },
+      {
+        "keyword": "honey mustard dip",
+        "volume": 9900,
+        "competition": 31
+      },
+      {
+        "keyword": "good recipes for tofu",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "homemade honey mustard sauce",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "honey and mustard dipping sauce",
+        "volume": 9900,
+        "competition": 31
+      },
+      {
+        "keyword": "tofu air fryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu airfryer",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "honey mustard sauce for salad",
+        "volume": 6600,
+        "competition": 35
+      },
+      {
+        "keyword": "baked crispy tofu",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "baking tofu in oven",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking tofu in oven",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy tofu air fryer",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe agedashi tofu",
+        "volume": 5400,
         "competition": 0
       },
       {
-        "keyword": "honey mustard mayo",
-        "volume": 0,
+        "keyword": "cook for tofu",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "tofu nugget",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "crispy air fryer tofu",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fried tofu and broccoli",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "air fried tofu recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "air fry crispy tofu",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked crispy tofu recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked tofu recipe crispy",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "panko tofu",
+        "volume": 2400,
         "competition": 0
       },
       {
-        "keyword": "rice krispies crust",
-        "volume": 0,
-        "competition": 0
+        "keyword": "tofu in the oven",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu recipe air fryer",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "air fryer for tofu",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "crispy fried tofu",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "crispy oven tofu",
+        "volume": 1900,
+        "competition": 2
       }
     ]
   },

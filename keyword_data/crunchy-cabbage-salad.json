@@ -1,33 +1,264 @@
 {
   "slug": "crunchy-cabbage-salad",
-  "title": "Crunchy Cabbage Salad",
-  "seed_keywords": [],
+  "title": "Crunchy Cabbage Salad with Yuzu Dressing",
+  "seed_keywords": [
+    "cabbage salad",
+    "yuzu dressing",
+    "shredded cabbage salad",
+    "fresh vegetable salad",
+    "radish cabbage slaw"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "coleslaw with salad dressing",
+        "volume": 135000,
+        "competition": 25
+      },
+      {
         "keyword": "cabbage salad",
-        "volume": 0,
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "salad using cabbage",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "coleslaw salad",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "asian cabbage recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "slaw salad",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "asian coleslaw dressing recipe",
+        "volume": 18100,
         "competition": 0
+      },
+      {
+        "keyword": "cabbage salad recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "red cabbage slaw",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "cabbage salad ideas",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "coleslaw red cabbage",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "ingredients coleslaw",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "salad recipes using cabbage",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "red cabbage salad",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "apple coleslaw",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes with savoy cabbage",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "red cabbage for salad",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "salad from red cabbage",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "slaw with apple",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage japanese salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "asian coleslaw",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "wombok salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "yuzu ponzu sauce",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "asian cabbage salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage napa salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "salad dressing recipe for coleslaw",
+        "volume": 6600,
+        "competition": 20
+      },
+      {
+        "keyword": "sauce yuzu ponzu",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "yuzu and ponzu sauce",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "coleslaw asian dressing",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "coleslaw recipe red cabbage",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "lettuce iceberg salad",
+        "volume": 5400,
+        "competition": 16
       },
       {
         "keyword": "yuzu dressing",
-        "volume": 0,
-        "competition": 0
+        "volume": 4400,
+        "competition": 65
       },
       {
-        "keyword": "kohlrabi",
-        "volume": 0,
-        "competition": 0
+        "keyword": "yuzu salad dressing",
+        "volume": 4400,
+        "competition": 65
       },
       {
-        "keyword": "radish",
-        "volume": 0,
-        "competition": 0
+        "keyword": "apple and cabbage coleslaw",
+        "volume": 4400,
+        "competition": 1
       },
       {
-        "keyword": "mayonnaise dressing",
-        "volume": 0,
-        "competition": 0
+        "keyword": "apple and cabbage slaw",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple cabbage coleslaw",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple cabbage slaw",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cabbage salad with ramen noodles",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian salad with cabbage and ramen noodles",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage and ramen noodle salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage and ramen salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage asian",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "cabbage ramen noodle salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage ramen salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "fresh vegetables for salad",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "recipe for red cabbage salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "red cabbage salad ideas",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "yuzu dressing salad",
+        "volume": 4400,
+        "competition": 65
+      },
+      {
+        "keyword": "asian cole slaw with ramen",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage & carrot salad",
+        "volume": 3600,
+        "competition": 1
       }
     ]
   },

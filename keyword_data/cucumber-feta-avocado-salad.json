@@ -1,23 +1,264 @@
 {
   "slug": "cucumber-feta-avocado-salad",
-  "title": "Cucumber Feta Avocado Shake Salad",
-  "seed_keywords": [],
+  "title": "Cucumber Feta Avocado Salad Recipe",
+  "seed_keywords": [
+    "cucumber salad",
+    "avocado feta salad",
+    "cucumber avocado dressing",
+    "feta cheese salad",
+    "fresh dill salad"
+  ],
   "keywords": {
     "all": [
       {
         "keyword": "cucumber salad",
-        "volume": 0,
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "pipino salad",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cuc salad",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and salad",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber salad recipe",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "cuke salad recipes",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber pickled",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "cucumber tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber and tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "asian cucumber salad",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cuke salad",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cuke tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "oriental cucumber salad",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato and cuke salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy cucumber salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy cuke salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and cream salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "feta and watermelon salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "feta cheese and watermelon salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "feta cheese watermelon salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "salad with feta and watermelon",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "watermelon with feta cheese salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber recipes",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "cucumber with lemon",
+        "volume": 33100,
+        "competition": 55
+      },
+      {
+        "keyword": "smashed cucumber salad",
+        "volume": 27100,
         "competition": 0
       },
       {
-        "keyword": "feta cheese",
-        "volume": 0,
+        "keyword": "cucumber tomato onion salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "asian cucumber salad recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "cucumber and onion and tomato salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cuke tomato onion salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "beetroot and feta salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "beet & feta salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "beet and feta salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "juicing a cucumber",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "japanese cucumbers",
+        "volume": 18100,
+        "competition": 56
+      },
+      {
+        "keyword": "watermelon cucumber salad",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and watermelon salad",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber japanese salad",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "feta cheese greek salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "feta greek salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cucumber onion salad",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "china cucumber salad",
+        "volume": 14800,
         "competition": 0
       },
       {
-        "keyword": "avocado salad",
-        "volume": 0,
+        "keyword": "chinese cucumber salad",
+        "volume": 14800,
         "competition": 0
+      },
+      {
+        "keyword": "cucumber and pineapple salad",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and tomato salad recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber pineapple salad",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "easy cucumber salad",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "basic cucumber salad",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "carb cucumber",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and vinegar salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber in vinegar salad",
+        "volume": 12100,
+        "competition": 2
       }
     ]
   },

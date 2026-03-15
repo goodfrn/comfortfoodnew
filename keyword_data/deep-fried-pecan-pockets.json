@@ -1,23 +1,204 @@
 {
   "slug": "deep-fried-pecan-pockets",
-  "title": "Deep Fried Pecan Pockets",
-  "seed_keywords": [],
+  "title": "Deep Fried Pecan Pockets with Molasses",
+  "seed_keywords": [
+    "fried pecan desserts",
+    "deep fried pastries",
+    "pecan pie filling",
+    "fried molasses pockets",
+    "brown sugar pecans"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "pecan pockets",
-        "volume": 0,
+        "keyword": "pecan pie filling",
+        "volume": 4400,
+        "competition": 41
+      },
+      {
+        "keyword": "pecan nut pie filling",
+        "volume": 4400,
+        "competition": 41
+      },
+      {
+        "keyword": "pecan pie filling recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "pecan sugar recipe",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for sugar cinnamon pecans",
+        "volume": 1300,
+        "competition": 13
+      },
+      {
+        "keyword": "brown sugar pecans",
+        "volume": 590,
+        "competition": 51
+      },
+      {
+        "keyword": "brown sugar and pecans",
+        "volume": 590,
+        "competition": 51
+      },
+      {
+        "keyword": "sugared pecans with brown sugar",
+        "volume": 590,
+        "competition": 51
+      },
+      {
+        "keyword": "brown sugar pecan pie",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "brown sugar pecan pie recipe",
+        "volume": 390,
         "competition": 0
       },
       {
-        "keyword": "fried pecan dessert",
-        "volume": 0,
+        "keyword": "deep fried pastries",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "baked sugar pecans",
+        "volume": 320,
+        "competition": 52
+      },
+      {
+        "keyword": "brown sugar pecan cookie",
+        "volume": 320,
+        "competition": 19
+      },
+      {
+        "keyword": "toasted pecans with butter and brown sugar",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "baked pecans with brown sugar",
+        "volume": 260,
+        "competition": 25
+      },
+      {
+        "keyword": "brown sugar candied pecans",
+        "volume": 260,
+        "competition": 23
+      },
+      {
+        "keyword": "brown sugar pecans roasted",
+        "volume": 260,
+        "competition": 25
+      },
+      {
+        "keyword": "brown sugar roasted pecans",
+        "volume": 260,
+        "competition": 25
+      },
+      {
+        "keyword": "brown sugar toasted pecans",
+        "volume": 260,
+        "competition": 25
+      },
+      {
+        "keyword": "fried pecan pies",
+        "volume": 260,
+        "competition": 21
+      },
+      {
+        "keyword": "pecan pie fried pies",
+        "volume": 260,
+        "competition": 21
+      },
+      {
+        "keyword": "pecan and chocolate recipes",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "pecan filling",
+        "volume": 210,
+        "competition": 26
+      },
+      {
+        "keyword": "brown sugar pecan recipe",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "deep fried croissant",
+        "volume": 170,
         "competition": 0
       },
       {
-        "keyword": "molasses pecan filling",
-        "volume": 0,
-        "competition": 0
+        "keyword": "recipe for sugared pecans with brown sugar",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "sugared pecan recipe with brown sugar",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "pecan pie filling in a jar",
+        "volume": 140,
+        "competition": 70
+      },
+      {
+        "keyword": "brown sugar coated pecans",
+        "volume": 140,
+        "competition": 47
+      },
+      {
+        "keyword": "brown sugar glazed pecans",
+        "volume": 140,
+        "competition": 47
+      },
+      {
+        "keyword": "brown sugar glazed pecans recipe",
+        "volume": 140,
+        "competition": 47
+      },
+      {
+        "keyword": "easy pecan pie filling recipe",
+        "volume": 140,
+        "competition": 8
+      },
+      {
+        "keyword": "easy recipe for pecan pie filling",
+        "volume": 140,
+        "competition": 8
+      },
+      {
+        "keyword": "ingredients for pecan pie filling",
+        "volume": 140,
+        "competition": 17
+      },
+      {
+        "keyword": "brown sugar and butter pecans",
+        "volume": 110,
+        "competition": 12
+      },
+      {
+        "keyword": "brown sugar butter pecans",
+        "volume": 110,
+        "competition": 12
+      },
+      {
+        "keyword": "brown sugar cinnamon pecans recipe",
+        "volume": 110,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet and spicy pecans with brown sugar",
+        "volume": 110,
+        "competition": 10
       }
     ]
   },

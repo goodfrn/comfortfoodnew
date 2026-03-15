@@ -1,23 +1,264 @@
 {
   "slug": "dr-pepper-pulled-pork",
-  "title": "Dr Pepper Pulled Pork",
-  "seed_keywords": [],
+  "title": "Dr Pepper Pulled Pork Slow Cooker",
+  "seed_keywords": [
+    "pulled pork slow cooker",
+    "dr pepper pulled pork",
+    "slow cooker pork shoulder",
+    "pulled pork sandwiches",
+    "smoked pork recipes"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "pulled pork",
-        "volume": 0,
-        "competition": 0
+        "keyword": "pulled pork slow cooker",
+        "volume": 135000,
+        "competition": 2
       },
       {
-        "keyword": "Dr Pepper recipe",
-        "volume": 0,
-        "competition": 0
+        "keyword": "slow cooker bbq pulled pork",
+        "volume": 135000,
+        "competition": 2
       },
       {
-        "keyword": "slow cooker pork",
-        "volume": 0,
-        "competition": 0
+        "keyword": "crock pot bbq pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "barbecue pulled pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "barbecue pulled pork in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq shredded pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq shredded pork slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot shredded pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot slow cooker pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pork for crock pot pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pork for pulled pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pork shredded slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork bbq in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork i slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork slowcooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork with crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "shredded pulled pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cook pulled pork in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooked pulled pork in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooking pulled pork in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow pulled pork in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "pulled pork crock pot recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue pulled pork crock pot recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue pulled pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "barbeque pulled pork crock pot recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot shredded pork recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "crockpot pulled pork recipes slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "pork ham hock",
+        "volume": 110000,
+        "competition": 19
+      },
+      {
+        "keyword": "pulled pork recipe slow cooker bbq",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for barbecue pulled pork in slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for bbq pulled pork in a slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "shredded pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker recipes pulled pork bbq",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "smoked ribs",
+        "volume": 74000,
+        "competition": 41
+      },
+      {
+        "keyword": "smoked pork butt",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "smoked pork shoulder",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork butt in the smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork butt on a smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork butt on smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork butt on the smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork shoulder for smoking",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork shoulder in a smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork shoulder in the smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork shoulder on a smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork shoulder on smoker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "smoke ribs in smoker",
+        "volume": 74000,
+        "competition": 41
+      },
+      {
+        "keyword": "slow cooker pork shoulder",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "boston butt in a slow cooker",
+        "volume": 60500,
+        "competition": 1
       }
     ]
   },

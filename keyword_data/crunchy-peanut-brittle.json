@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-peanut-brittle",
-  "title": "Crunchy Peanut Brittle Remix",
-  "seed_keywords": [],
+  "title": "Crunchy Peanut Brittle with Maple Syrup",
+  "seed_keywords": [
+    "homemade peanut brittle",
+    "peanut brittle recipe",
+    "how to make brittle",
+    "maple syrup candy",
+    "caramel peanut snacks"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "peanut brittle",
-        "volume": 0,
+        "keyword": "peanut brittle recipe",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "brittle recipe",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "make peanut brittle",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "nut brittle recipe",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "peanut nut brittle recipe",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "recipes with peanut brittle",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "maple taffy",
+        "volume": 9900,
         "competition": 0
       },
       {
-        "keyword": "baking soda foam",
-        "volume": 0,
+        "keyword": "how to make brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how to make peanut brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how do you make peanut brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how do i make peanut brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how do you make brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how do you make nut brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how to make nut brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how to make peanut brittle recipe",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how to make peanutbrittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "how to make peanuts brittle",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "nut brittle",
+        "volume": 4400,
+        "competition": 70
+      },
+      {
+        "keyword": "peanut brittle recipe easy",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "brittle recipe easy",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "easy make peanut brittle",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "easy nut brittle recipe",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "recipe peanut brittle easy",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "simple peanut brittle recipe",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "microwave peanut brittle",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "microwave brittle",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "microwave brittle recipe",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "microwave peanut brittle recipe",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "microwave peanut butter brittle",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "peanut butter brittle",
+        "volume": 2400,
+        "competition": 61
+      },
+      {
+        "keyword": "peanut brittle with peanut butter",
+        "volume": 2400,
+        "competition": 61
+      },
+      {
+        "keyword": "homemade peanut brittle",
+        "volume": 1600,
+        "competition": 36
+      },
+      {
+        "keyword": "brittle without corn syrup",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "cashew peanut brittle recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "home made peanut brittle",
+        "volume": 1600,
+        "competition": 36
+      },
+      {
+        "keyword": "homemade brittle",
+        "volume": 1600,
+        "competition": 36
+      },
+      {
+        "keyword": "homemade nut brittle",
+        "volume": 1600,
+        "competition": 36
+      },
+      {
+        "keyword": "making maple candy",
+        "volume": 1600,
         "competition": 0
       },
       {
-        "keyword": "corn syrup caramel",
-        "volume": 0,
-        "competition": 0
+        "keyword": "nut brittle without corn syrup",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "peanut brittle recipe without corn syrup",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "peanut brittle without corn syrup",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "pecan brittle without corn syrup",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "best peanut brittle recipe",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "almond peanut brittle recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "best brittle recipe",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "best nut brittle recipe",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "caramel peanut brittle",
+        "volume": 1000,
+        "competition": 54
+      },
+      {
+        "keyword": "caramel coated popcorn",
+        "volume": 880,
+        "competition": 80
+      },
+      {
+        "keyword": "peanut candy recipes",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "old fashioned peanut brittle recipe",
+        "volume": 720,
+        "competition": 3
       }
     ]
   },

@@ -1,23 +1,104 @@
 {
   "slug": "date-tart-remix",
-  "title": "Date Tart Remix",
-  "seed_keywords": [],
+  "title": "Date Tart Remix with Almond Extract",
+  "seed_keywords": [
+    "date tart recipe",
+    "homemade tart crust",
+    "butter tart filling",
+    "medjool date dessert",
+    "almond flavored pastry"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "butter tart recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "butter tart filling",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "butter tart filling recipe",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade pop tarts with pie crust",
+        "volume": 720,
+        "competition": 0
+      },
+      {
         "keyword": "date tart",
-        "volume": 0,
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "just the crust pop tart",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "pop tart just the crust",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "poptarts just the crust",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "butter tart recipe corn syrup",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "butter tart recipe with raisins",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "pop tart dough recipe",
+        "volume": 210,
         "competition": 0
       },
       {
-        "keyword": "dessert recipe",
-        "volume": 0,
+        "keyword": "best butter tart filling recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "pop tart crust",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "simple butter tart filling recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "date tart recipe",
+        "volume": 140,
         "competition": 0
       },
       {
-        "keyword": "rustic tart",
-        "volume": 0,
+        "keyword": "butter tart filling no corn syrup",
+        "volume": 140,
         "competition": 0
+      },
+      {
+        "keyword": "butter tart filling without corn syrup",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "medjool date dessert",
+        "volume": 110,
+        "competition": 6
       }
     ]
   },

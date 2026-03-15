@@ -1,10 +1,10 @@
 ---
 title: "Crunchy Peanut Caramel Bars Recipe"
 slug: "crunchy-peanut-caramel-bars"
-description: "Make peanut caramel bars with a buttery shortbread base, roasted peanuts, and dark chocolate topping. Homemade caramel from condensed milk and golden syrup creates irresistible flavor."
-metaDescription: "Peanut caramel bars recipe featuring roasted peanuts, buttery shortbread, and dark chocolate. Homemade caramel topping. Make it tonight."
-ogDescription: "Buttery shortbread topped with crunchy roasted peanuts in homemade caramel sauce and dark chocolate."
-focusKeyphrase: "peanut caramel bars"
+description: "Make crunchy peanut caramel bars with buttery shortbread, roasted peanuts, and dark chocolate. Homemade caramel from condensed milk and golden syrup delivers rich, irresistible flavor."
+metaDescription: "Crunchy peanut caramel bars with shortbread base, roasted peanuts, and dark chocolate topping. Homemade caramel made easy. Make it tonight."
+ogDescription: "Buttery shortbread, roasted peanuts, and homemade caramel topped with dark chocolate. Crunchy, sweet, and totally addictive."
+focusKeyphrase: "caramel shortbread"
 date: 2025-07-24
 draft: false
 image: crunchy-peanut-caramel-bars.jpg
@@ -21,16 +21,18 @@ tags:
 - "shortbread"
 - "dessert"
 keywords:
+- "caramel shortbread"
+- "millionaire shortbread"
+- "caramel shortbread recipe"
+- "millionaire shortbread recipe"
 - "peanut caramel bars"
-- "caramel bars"
+- "scotcheroos"
+- "millionaire bars"
+- "no bake peanut butter bars"
+- "chocolate peanut butter bars"
+- "caramel squares"
+- "shortbread recipe"
 - "homemade caramel bars"
-- "peanut snacks"
-- "shortbread bars"
-- "roasted peanuts recipe"
-- "dark chocolate bars"
-- "baking recipes"
-- "condensed milk caramel"
-- "buttery shortbread base"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -90,68 +92,66 @@ faq:
 
 ---
 
-Butter a 14 by 10 inch pan and crank the oven to 345. This is the shortbread base. It takes 15 minutes. The caramel happens next — that's where the crunchy peanuts go, where the real thing happens. Total time is an hour and 15 minutes if you're moving. Tried these once without cooling them all the way. Chocolate wouldn't set. Patience matters here.
+Three pounds of peanuts. Caramel that almost burned. A shortbread base I somehow didn't mess up. This is what happens when you're not thinking too hard—just building layers. The result is basically millionaire shortbread but crunchier, sweeter, the kind of caramel shortbread that disappears fast enough that you wonder if you actually made it or imagined the whole thing. Buttery. Dense. The peanuts stay snappy even under all that caramel. One hour and 15 minutes total and you've got a dessert that tastes like it took way longer.
 
 ## Why You'll Love This
 
-Makes a snack that's actually substantial. Not some sad cookie. This has structure.
+Takes just over an hour start to finish. No weird techniques. No cooling between layers if you work fast enough.
 
-The caramel part is where the peanut butter lives, except it's not peanut butter at all — it's caramel with whole roasted peanuts folded in. Crunchy. Every bite hits different.
+Perfect snack situation. Cut them small, they last. Cut them bigger, they disappear in two bites anyway.
 
-Shortbread base keeps everything together. Not greasy. Not crumbly. Just stable enough to eat with your hands.
+Peanut butter and caramel already works. Add crunch and shortbread and you've basically made the same thing three better versions of itself.
 
-One batch lasts a week in a container. Make them Sunday, eat them Wednesday. Dessert solved.
+No tempering equipment needed. No stand mixer. One pan. One saucepan. Done.
 
-## Shortbread Base — the Foundation for Crunchy Peanut Caramel Bars
+## Building the Base — Shortbread Caramel Foundation
 
-All-purpose flour. 210 grams. 40 grams sugar. 120 grams softened butter. Mix flour and sugar first in a bowl. Then add the butter. Press it with a wooden spoon until it looks like wet sand. Use your hands now. Press it down into the buttered pan. Flat. Even. Get it into the corners. This isn't dough. It's more like pressed-together crumbs, and that's the point.
+All-purpose flour. Nothing fancy. 210 grams. Granulated sugar, 40 grams. Unsalted butter, 120 grams—softened, not melting. The three ingredients for shortbread. Mix the flour and sugar first. Then add butter. Press with a wooden spoon until it looks like wet sand. Then use your hands. Push it into the pan. Bottom layer. Thin but sturdy. Bake at 175°C for 15 minutes. You want light golden edges, not brown. Not pale either. That edge color tells you it's set. Cool it slightly before the caramel goes on.
 
-Bake 15 minutes at 345. Light golden on the edges means it's ready. The middle stays pale. Don't overbake. Let it cool while you make the caramel.
+For the millionaire shortbread part—the actual caramel. 300 grams sugar. 50 ml water. 45 ml golden syrup. Combine them cold, then medium-high heat. Don't stir. Just watch. When it goes from clear to light amber, that's maybe 8 to 12 minutes depending on your stove. It moves fast at the end. Light amber is the target. Dark amber means bitter caramel and regret.
 
-## Making the Caramel Layer with Peanuts and Sugar
+Off heat. Now stir. Add 300 ml condensed milk. 40 grams butter. 3 ml salt. It'll bubble and spit. That's normal. Keep stirring. 225 grams dry roasted peanuts go in next. Fold them in. Spread the whole thing over the cooled shortbread. Back in the oven for 20 minutes. You're just setting the caramel now, not cooking it hard. Cool completely. One hour minimum. Actually longer if you can wait. The longer it sets, the cleaner your cuts.
 
-Combine 300 grams sugar, 50 milliliters water, and 45 milliliters golden syrup in a saucepan. Medium-high heat. Don't stir. Just watch it. The sugar melts. Then it turns amber. That's the color you want — light amber, not brown. Remove it from heat the second it gets there.
+## Making Cuts That Don't Crumble — Millionaire Slice Technique
 
-Now the careful part. Pour in one 300 milliliter can of sweetened condensed milk. Add 40 grams butter. Add 3 milliliters salt. Stir it carefully. It will splatter. The mixture is hot. It's thick. Keep stirring until it's even.
+Here's the thing about caramel shortbread that nobody says: warm, it's fudgy and messy. Cold, it's perfect. So actually wait. Don't cut hot. Don't cut warm. Let it sit all the way.
 
-Fold in 225 grams dry roasted unsalted peanuts. Actually, you don't fold — you just stir the peanuts in until they're coated. Spread this over the cooled shortbread base using a spatula. Get it into the corners. Smooth the top or leave it rough. Both work.
+Use a sharp knife. Long blade. Dip it in hot water, wipe it dry between cuts. This helps more than you'd think. The moisture prevents sticking. Wipe. Cut. Wipe. Cut again. Straight lines or not—the taste doesn't care but straight lines look intentional.
 
-Bake 20 minutes at the same temperature. The caramel will bubble at the edges. Don't panic. That's normal. Remove the pan. Let it cool completely on a wire rack. This takes an hour. Don't rush this part.
+Dark chocolate melted over the top is optional but good. 70 grams. Melt it, spoon it in splatters. Random is better than neat. Let it set one hour at room temperature. Room temp chocolate sets slower but stays snappy. Fridge chocolate gets waxy sometimes.
 
-## Chocolate Topping and Cooling Time
+Store these in an airtight container. Room temperature. One week minimum, probably longer. I've never had them last past three days but the theory is one week.
 
-Melt 70 grams dark chocolate if you want to. Temper it or don't — honestly, doesn't matter much here. Spoon it over the cooled top in random splatters. No pattern. Just drizzle it. Let it set at room temperature for an hour.
+## Common Mistakes With Caramel Shortcake — What Actually Goes Wrong
 
-Cut into squares. They'll hold together fine. Store in an airtight container at room temperature. These last up to a week, though they won't last that long.
+Burned sugar tastes like charcoal. It happens. You look away for 45 seconds. When in doubt, pull it early. Light amber, not dark. If it looks too light, it'll harden more as it cools. That's fine. Underdone caramel is gooey. You can eat gooey. You can't eat burnt.
 
-## Common Mistakes — How to Avoid Them
+Shortbread that's too thin breaks when you cut it. Press it into the pan hard. Use the bottom of a measuring cup if your hands get tired. Thickness matters here—maybe 1 cm, maybe less. It's holding up caramel.
 
-Don't stir the caramel while it's melting. Stirring makes it crystallize and seize. You want that smooth amber color. Just watch it. The sugar will melt on its own.
+Peanuts that aren't roasted taste raw. Dry roasted. Salted. Unsalted. Pick one. I use unsalted because the salt's already in the caramel, but roasted is what matters. Not raw. Raw tastes like sadness.
 
-Don't let the condensed milk caramel mixture boil too long on the second bake. 20 minutes is enough. More than that and it gets hard. You want it chewy, not brittle.
+Caramel that's too hot when you pour it melts the shortbread. Wait. Let it cool 2 or 3 minutes on the counter. Still pourable. Not hot anymore.
 
-The shortbread base should be pressed firmly into the pan. If it's loose, the bars won't hold together when you cut them. Press hard. Use your palm.
-
-Cooling matters. Don't cut into them while they're warm. The caramel will smear everywhere. Wait the full hour. Actually, waiting longer doesn't hurt.
+If your cuts keep crumbling, the whole thing wasn't cool enough. Patience is the cheat code here. I know it's annoying.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can I skip the chocolate topping?**
-Yes. The bars work fine without it. Some people don't like extra chocolate on top of caramel and peanuts. Makes sense.
+**Can you make this without condensed milk?**
+Not really the same thing. Sweetened condensed milk is what makes millionaire shortbread work. Evaporated milk doesn't. Cream doesn't. You need that specific sweetness and texture. If you don't have it, make a different dessert.
 
-**What kind of peanuts should I use?**
-Dry roasted unsalted. Not the salted kind — you already have salt in the caramel. Not honey roasted. Just plain roasted peanuts.
+**How do you keep the peanuts from sinking to the bottom?**
+The caramel's thick when you fold them in. Not thin liquid. Thick. If you wait too long after making it, it hardens and the peanuts do sink. Work fast. Actually, some sinking is fine. It's all going to the same place anyway.
 
-**Why can't I stir the sugar?**
-Stirring causes crystallization. The sugar seizes and becomes grainy instead of smooth. You'll get a lumpy mess instead of caramel. It's not a mystery — it's chemistry. Just don't do it.
+**Should the shortbread base be completely cooled before adding caramel?**
+Slightly cool. Warm is okay. Hot—no. Hot base plus boiling caramel equals the whole thing turning into soup. Slight cool means you can still touch the pan but it's not warm to your hand. Maybe 5 minutes out of the oven.
 
-**How do I know when the caramel is the right color?**
-Light amber. Like a penny. Not dark brown. Not pale yellow. Once it hits that amber spot, you have maybe 30 seconds before it goes dark. That's when you pull it off heat.
+**What's the difference between this and regular millionaire shortbread recipe?**
+The peanuts. Most versions skip them or use peanut butter instead of whole roasted peanuts. The crunch changes everything. You're hitting three textures—buttery shortbread, creamy caramel, snappy peanuts. That's the upgrade.
 
-**Can I store these in the fridge?**
-You can. They'll keep longer cold. But they get harder when cold. Room temperature is better if you're eating them within a week. Airtight container. That's all you need.
+**Can you double this caramel shortcake recipe?**
+Yes. Use a 9x13 inch pan instead. Same temperatures. Maybe add 5 minutes baking time for the base since you're spreading it thinner. Everything else stays the same. The caramel will take longer to set—maybe 90 minutes instead of 60.
 
-**What if my caramel mixture seized or looks grainy?**
-You probably stirred it while it was melting. Can't really fix it. Next time, just watch it. Don't touch it. If it happened, start over with fresh ingredients. Takes 30 minutes, not an hour.
+**Why does the caramel sometimes crystallize?**
+It usually doesn't if you don't stir while the sugar melts. Stirring introduces sugar crystals that grow. Leave it alone. Watch it. Just don't mix it until you pull off heat. If it does crystallize, start over. Can't fix it.

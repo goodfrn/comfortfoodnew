@@ -1,23 +1,264 @@
 {
   "slug": "dairy-free-pesto-twist",
-  "title": "Dairy-Free Pesto Twist",
-  "seed_keywords": [],
+  "title": "Dairy-Free Pesto Twist with Cashews",
+  "seed_keywords": [
+    "dairy free pesto",
+    "cashew pesto recipe",
+    "vegan pesto sauce",
+    "basil pesto alternative",
+    "dairy free italian sauce"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "vegan pesto recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "make vegan pesto",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "pesto sauce recipe vegan",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "dairy free pesto",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "dairy free pesto sauce",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "cashew nut pesto",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
         "keyword": "cashew pesto",
-        "volume": 0,
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cashew pesto sauce",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "pesto sauce dairy free",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "pesto sauce with cashews",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cashew pesto recipe",
+        "volume": 1900,
         "competition": 0
       },
       {
-        "keyword": "nutritional yeast pesto",
-        "volume": 0,
+        "keyword": "cashew nut pesto recipe",
+        "volume": 1900,
         "competition": 0
       },
       {
-        "keyword": "vegan pesto",
-        "volume": 0,
+        "keyword": "vegan basil pesto",
+        "volume": 1300,
+        "competition": 63
+      },
+      {
+        "keyword": "basil pesto vegetarian",
+        "volume": 1300,
+        "competition": 63
+      },
+      {
+        "keyword": "dairy free pesto recipes",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan basil pesto sauce",
+        "volume": 1300,
+        "competition": 63
+      },
+      {
+        "keyword": "pesto no cheese",
+        "volume": 880,
+        "competition": 79
+      },
+      {
+        "keyword": "trader joe's vegan pesto",
+        "volume": 880,
+        "competition": 9
+      },
+      {
+        "keyword": "basil and cashew pesto",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "basil cashew pesto",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "basil pesto trader joe's",
+        "volume": 590,
+        "competition": 13
+      },
+      {
+        "keyword": "basil pesto with cashew nuts",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "cashew and basil pesto",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "trader joe's basil pesto",
+        "volume": 590,
+        "competition": 13
+      },
+      {
+        "keyword": "alternative for pesto",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "basil pesto vegan recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "basil substitute for pesto",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "trader joes vegan pesto",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "vegan pesto trader joe's",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "vegan pesto trader joes",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "gotham greens vegan pesto",
+        "volume": 320,
+        "competition": 68
+      },
+      {
+        "keyword": "basil and cashew pesto recipe",
+        "volume": 320,
         "competition": 0
+      },
+      {
+        "keyword": "basil cashew pesto recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "trader joe's kale pesto",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetarian pesto recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade pesto vegan",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "kale pesto vegan",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "vegan pesto barilla",
+        "volume": 260,
+        "competition": 71
+      },
+      {
+        "keyword": "vegan pesto walnuts",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "walnut vegan pesto",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "cashew pesto vegan",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "easy vegan pesto",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "simple vegan pesto",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach pesto vegan",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach vegan pesto",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "sun dried tomato pesto vegan",
+        "volume": 210,
+        "competition": 51
+      },
+      {
+        "keyword": "vegan kale cashew & basil pesto",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "dairy free basil pesto",
+        "volume": 170,
+        "competition": 54
+      },
+      {
+        "keyword": "plant based pesto",
+        "volume": 170,
+        "competition": 57
+      },
+      {
+        "keyword": "creamy pesto vegan",
+        "volume": 170,
+        "competition": 16
       }
     ]
   },

@@ -1,23 +1,264 @@
 {
   "slug": "curried-chicken-salad-toasts",
-  "title": "Curried Chicken Salad Toasts",
-  "seed_keywords": [],
+  "title": "Curried Chicken Salad Toasts with Turmeric",
+  "seed_keywords": [
+    "chicken salad",
+    "chicken sandwich",
+    "curried chicken recipes",
+    "chicken salad toast",
+    "turmeric chicken lunch"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "chick fil e",
+        "volume": 24900000,
+        "competition": 12
+      },
+      {
+        "keyword": "chick fil a near me",
+        "volume": 5000000,
+        "competition": 18
+      },
+      {
+        "keyword": "chick fil amenu",
+        "volume": 2240000,
+        "competition": 3
+      },
+      {
+        "keyword": "chickensaladchick",
+        "volume": 1220000,
+        "competition": 7
+      },
+      {
+        "keyword": "chick fil a chicken sandwich",
+        "volume": 368000,
+        "competition": 0
+      },
+      {
         "keyword": "chicken salad",
-        "volume": 0,
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken sandwich",
+        "volume": 246000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken curry",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and curry",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and salad",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken chicken curry",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken curry chicken",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken curry chicken curry",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken sammich",
+        "volume": 246000,
+        "competition": 6
+      },
+      {
+        "keyword": "curry chicken curry",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "wingstop chicken flavors",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "cobb salad",
+        "volume": 165000,
+        "competition": 13
+      },
+      {
+        "keyword": "chick fil a original chicken sandwich",
+        "volume": 165000,
         "competition": 0
       },
       {
-        "keyword": "turmeric",
-        "volume": 0,
+        "keyword": "chicken curry dish",
+        "volume": 165000,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken kari recipe",
+        "volume": 165000,
+        "competition": 3
+      },
+      {
+        "keyword": "chick fil s",
+        "volume": 135000,
+        "competition": 18
+      },
+      {
+        "keyword": "finger salad",
+        "volume": 135000,
         "competition": 0
       },
       {
-        "keyword": "almonds",
-        "volume": 0,
+        "keyword": "chicken sandwich near me",
+        "volume": 110000,
+        "competition": 26
+      },
+      {
+        "keyword": "chick fil a breakfast",
+        "volume": 110000,
+        "competition": 16
+      },
+      {
+        "keyword": "mcchicken",
+        "volume": 110000,
+        "competition": 3
+      },
+      {
+        "keyword": "popeyes chicken sandwich",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "chick fil s breakfast",
+        "volume": 110000,
+        "competition": 16
+      },
+      {
+        "keyword": "chick fil a salads",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "chickfila salad",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "chick fil la salads",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "recipe of thai green curry",
+        "volume": 90500,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken salad chick near me",
+        "volume": 74000,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken caesar salad",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "caesar dressing chicken",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken caesar dressing",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken for chicken caesar salad",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken salad sandwich",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "mccrispy",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "cari chicken",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "grilled chicken sandwich",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "curry recipe indian",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "4 fingers chicken",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "jalfrezi chicken",
+        "volume": 49500,
         "competition": 0
+      },
+      {
+        "keyword": "curried chicken recipes",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad near me",
+        "volume": 40500,
+        "competition": 35
+      },
+      {
+        "keyword": "chick fil a sandwich",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "grilled chicken nuggets chick fil a",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken nuggets chick fil a",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cooker chicken curry",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "making curry chicken",
+        "volume": 40500,
+        "competition": 4
       }
     ]
   },

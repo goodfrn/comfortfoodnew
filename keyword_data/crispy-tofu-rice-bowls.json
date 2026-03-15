@@ -1,23 +1,239 @@
 {
   "slug": "crispy-tofu-rice-bowls",
-  "title": "Crispy Tofu Rice Bowls",
-  "seed_keywords": [],
+  "title": "Crispy Tofu Rice Bowls with Snow Peas",
+  "seed_keywords": [
+    "crispy tofu bowls",
+    "tofu rice noodles",
+    "asian tofu recipes",
+    "cornstarch tofu coating",
+    "vegan snow pea bowls"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "tofu rice bowl",
-        "volume": 0,
+        "keyword": "asian tofu recipes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu recipe chinese",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu noodle recipes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu east asian canteen",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu in hoisin sauce",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy tofu bowls",
+        "volume": 1000,
         "competition": 0
       },
       {
-        "keyword": "crispy tofu",
-        "volume": 0,
+        "keyword": "asian marinade for tofu",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese tofu marinade",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian tofu",
+        "volume": 880,
+        "competition": 29
+      },
+      {
+        "keyword": "oriental tofu",
+        "volume": 880,
+        "competition": 29
+      },
+      {
+        "keyword": "tofu rice noodles",
+        "volume": 590,
         "competition": 0
       },
       {
-        "keyword": "rice noodles",
-        "volume": 0,
+        "keyword": "asian fried tofu",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "asian fried tofu recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chinese tofu",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "rice noodles and tofu",
+        "volume": 590,
         "competition": 0
+      },
+      {
+        "keyword": "easy chinese tofu recipes",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "soft tofu recipes asian",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer tofu asian",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "asian salad with tofu",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "rice noodle and tofu recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "rice noodle tofu recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "asian dishes with tofu",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "asian silken tofu recipes",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "oriental tofu recipes",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu and noodle recipes",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "asian style tofu recipes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese style tofu",
+        "volume": 260,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy tofu rice bowl",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy asian tofu",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry tofu recipe asian",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer tofu recipe asian",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "asian soft tofu recipes",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "asian stir fry tofu",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "asian stir fry tofu recipe",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "smoked tofu salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu hoisin stir fry",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "asian vegetarian recipes with tofu",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "best asian tofu recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan asian tofu recipes",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "asian sauce for tofu",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "asian style tofu",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "asian tofu salad recipe",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy tofu bowl recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "singapore noodles with tofu",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "thai style beancurd",
+        "volume": 110,
+        "competition": 1
       }
     ]
   },

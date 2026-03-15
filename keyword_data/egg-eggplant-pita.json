@@ -1,23 +1,264 @@
 {
   "slug": "egg-eggplant-pita",
-  "title": "Egg & Eggplant Pita",
-  "seed_keywords": [],
+  "title": "Egg & Eggplant Pita Sandwich",
+  "seed_keywords": [
+    "eggplant sandwich",
+    "fried eggplant pita",
+    "vegetarian mediterranean sandwich",
+    "egg eggplant recipe",
+    "tahini vegetable wrap"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "egg plant",
+        "volume": 550000,
+        "competition": 19
+      },
+      {
+        "keyword": "brinjal",
+        "volume": 201000,
+        "competition": 32
+      },
+      {
+        "keyword": "egg plant recipes",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "recipe using egg plant",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "egg plant parm",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "egg plant parm recipe",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "egg plant fried",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "egg plant roasted",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "chinese egg plant",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "chinese egg plant recipes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese egg plant",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "eggplant white",
+        "volume": 14800,
+        "competition": 69
+      },
+      {
+        "keyword": "egg plant grill",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "panera bread mediterranean veggie sandwich",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "easy egg plant recipe",
+        "volume": 9900,
+        "competition": 23
+      },
+      {
+        "keyword": "mediterranean veggie sandwich at panera",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted egg plant recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "egg plant dip",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "egg plant miso",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fried egg plant recipe",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "japanese egg plant recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed egg plant",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "egg plant parmigiana recipe",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "egg plant types",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "eggplant stuffing recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "dishes with egg plant",
+        "volume": 5400,
+        "competition": 31
+      },
+      {
+        "keyword": "italian egg plant recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "oven roasted egg plant",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "airfryer eggplant recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "aubergine egg plant",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "auberjean eggplant",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked egg plant parm",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "cook egg plant",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "egg plant casserole",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "egg plant small",
+        "volume": 4400,
+        "competition": 71
+      },
+      {
+        "keyword": "recipe chicken eggplant",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "asian egg plant",
+        "volume": 3600,
+        "competition": 57
+      },
+      {
+        "keyword": "best egg plant recipe",
+        "volume": 3600,
+        "competition": 20
+      },
+      {
+        "keyword": "egg plant meat balls",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "egg plant pasta recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "egg plant stir fry",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "eggplant bharta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "other name for egg plant",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "sauteed egg plant",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "simple egg plant recipe",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
         "keyword": "eggplant sandwich",
-        "volume": 0,
-        "competition": 0
+        "volume": 2900,
+        "competition": 1
       },
       {
-        "keyword": "fried eggplant",
-        "volume": 0,
-        "competition": 0
+        "keyword": "aubergine sandwich",
+        "volume": 2900,
+        "competition": 1
       },
       {
-        "keyword": "Mediterranean pita",
-        "volume": 0,
-        "competition": 0
+        "keyword": "best egg plant parmesan recipe",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "bitter egg plant",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "egg plant dip recipe",
+        "volume": 2900,
+        "competition": 3
       }
     ]
   },

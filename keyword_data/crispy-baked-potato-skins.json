@@ -1,29 +1,169 @@
 {
   "slug": "crispy-baked-potato-skins",
-  "title": "Crispy Baked Potato Skins",
+  "title": "Crispy Baked Potato Skins with Bacon & Cheddar",
   "seed_keywords": [
-    "crispy baked potato skins",
-    "bacon cheese potato skins",
-    "spiced baked potato appetizer",
-    "golden brown potato skins",
-    "smoky bacon potato skin recipe"
+    "potato skins",
+    "baked potato appetizers",
+    "bacon cheddar potatoes",
+    "crispy potato snacks",
+    "loaded potato skins"
   ],
   "keywords": {
     "all": [
+      {
+        "keyword": "baked potato jackets",
+        "volume": 201000,
+        "competition": 6
+      },
+      {
+        "keyword": "potato jackets",
+        "volume": 201000,
+        "competition": 6
+      },
+      {
+        "keyword": "potato skins",
+        "volume": 40500,
+        "competition": 23
+      },
+      {
+        "keyword": "loaded potato skins",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "sweet potato jackets",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "mashed potato with skins",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "mashed potatoes with skins red",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon baked potato",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon for baked potato",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "red potato skins",
+        "volume": 3600,
+        "competition": 26
+      },
+      {
+        "keyword": "sweet potato potato skins",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato skins",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "air fried potato skins",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "air fry potato skins",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer potato skins",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "potato boats",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "red mashed potatoes",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "baked potato skin",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "friday's loaded potato skins",
+        "volume": 1900,
+        "competition": 59
+      },
+      {
+        "keyword": "homemade potato skins",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "homemade tater skins",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "loaded potato skins tgif",
+        "volume": 1900,
+        "competition": 59
+      },
+      {
+        "keyword": "peeled sweet potato",
+        "volume": 1900,
+        "competition": 34
+      },
       {
         "keyword": "crispy baked potato skins",
         "volume": 1600,
         "competition": 9
       },
       {
-        "keyword": "roasting potatoes with skin on",
+        "keyword": "potato skins air fryer",
         "volume": 1600,
-        "competition": 2
+        "competition": 0
       },
       {
-        "keyword": "bacon cheese potato skins",
-        "volume": 1000,
-        "competition": 34
+        "keyword": "potato skins stuffed",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "tater skins",
+        "volume": 1300,
+        "competition": 17
+      },
+      {
+        "keyword": "bacon skins",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "fried potato skins",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "potato with bacon and cheese",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "sweet potato boats",
+        "volume": 1300,
+        "competition": 0
       },
       {
         "keyword": "bacon and cheese potato skins",
@@ -31,12 +171,17 @@
         "competition": 34
       },
       {
-        "keyword": "crispy potato skin",
+        "keyword": "bacon cheese potato skins",
         "volume": 1000,
-        "competition": 3
+        "competition": 34
       },
       {
-        "keyword": "crispy skin potatoes",
+        "keyword": "cheesy bacon potato skins",
+        "volume": 1000,
+        "competition": 34
+      },
+      {
+        "keyword": "crispy potato skins",
         "volume": 1000,
         "competition": 3
       },
@@ -46,64 +191,74 @@
         "competition": 3
       },
       {
-        "keyword": "bacon and cheddar potato skins",
-        "volume": 390,
-        "competition": 80
+        "keyword": "potatoes with skins",
+        "volume": 1000,
+        "competition": 0
       },
       {
-        "keyword": "bacon cheddar potato skins",
-        "volume": 390,
-        "competition": 80
+        "keyword": "texas roadhouse potato skins",
+        "volume": 1000,
+        "competition": 0
       },
       {
-        "keyword": "peeled baked potatoes",
-        "volume": 390,
-        "competition": 1
-      },
-      {
-        "keyword": "potato skins bacon cheddar",
-        "volume": 390,
-        "competition": 80
-      },
-      {
-        "keyword": "potato skins cheddar bacon",
-        "volume": 390,
-        "competition": 80
-      },
-      {
-        "keyword": "air fryer jacket",
-        "volume": 170,
-        "competition": 2
-      },
-      {
-        "keyword": "baked skin",
-        "volume": 170,
+        "keyword": "tato skins",
+        "volume": 880,
         "competition": 11
       },
       {
-        "keyword": "best air fryer jacket potato",
-        "volume": 170,
-        "competition": 3
+        "keyword": "tgi fridays loaded potato skins",
+        "volume": 880,
+        "competition": 35
       },
       {
-        "keyword": "best air fryer jacket potatoes",
-        "volume": 170,
-        "competition": 3
+        "keyword": "airfryer potato skins",
+        "volume": 880,
+        "competition": 0
       },
       {
-        "keyword": "potato skin recipes cheese and bacon",
-        "volume": 170,
-        "competition": 12
+        "keyword": "crispy potato chips",
+        "volume": 880,
+        "competition": 59
       },
       {
-        "keyword": "recipe potato skins cheese bacon",
-        "volume": 170,
-        "competition": 12
+        "keyword": "dogs and potato skins",
+        "volume": 880,
+        "competition": 10
       },
       {
-        "keyword": "baked potato crispy skin recipe",
-        "volume": 110,
-        "competition": 27
+        "keyword": "dogs potato skins",
+        "volume": 880,
+        "competition": 10
+      },
+      {
+        "keyword": "potato skins and dogs",
+        "volume": 880,
+        "competition": 10
+      },
+      {
+        "keyword": "potato skins in air fryer",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "loaded potato bites",
+        "volume": 720,
+        "competition": 29
+      },
+      {
+        "keyword": "best potato for potato skins",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "best potato skins",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "best potatoes for potato skins",
+        "volume": 720,
+        "competition": 7
       }
     ]
   },

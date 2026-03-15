@@ -1,23 +1,264 @@
 {
   "slug": "curried-chicken-veg-traybake",
-  "title": "Curried Chicken Veg Traybake",
-  "seed_keywords": [],
+  "title": "Curried Chicken Veg Traybake Recipe",
+  "seed_keywords": [
+    "curried chicken dinner",
+    "sheet pan chicken",
+    "roasted chicken vegetables",
+    "curry powder chicken",
+    "chicken couscous bowl"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "curried chicken",
-        "volume": 0,
+        "keyword": "sheet pan chicken fajita recipe",
+        "volume": 110000,
         "competition": 0
       },
       {
-        "keyword": "vegetable traybake",
-        "volume": 0,
-        "competition": 0
+        "keyword": "sheet pan meal",
+        "volume": 90500,
+        "competition": 4
       },
       {
-        "keyword": "broiler cooking",
-        "volume": 0,
-        "competition": 0
+        "keyword": "sheetpan dinners",
+        "volume": 49500,
+        "competition": 25
+      },
+      {
+        "keyword": "sheet pan fajita recipe",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken fajita sheet pan",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "sheet pan chicken fajita",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "sheet pan fajita chicken",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "fajita sheet pan",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "sheet pan fajita",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "sheet pan chicken",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken on a sheet pan",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "pan sheet chicken",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "spicy curry seasoning",
+        "volume": 18100,
+        "competition": 78
+      },
+      {
+        "keyword": "roasted chicken vegetables",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted chicken and vegetables",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and roast veg",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and vegetable sheet pan",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken roast veggies",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken vegetable sheet pan",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "roast chicken and roast vegetables",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "roast chicken and roasted vegetables",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "roast chicken roast vegetables",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "roast chicken veg",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted chicken & veggies",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "veggies for roast chicken",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "one pan chicken recipes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken sheet pan recipes",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "baked chicken and potatoes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "one pan chicken meals",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "1 pan chicken recipes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "1 pan chicken dishes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "1 pan chicken meals",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "bake chicken potatoes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "one pan chicken dishes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "roasted chicken and potatoes",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken potato roast",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "potatoes with roast chicken",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roast chicken on potatoes",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roast chicken potato",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roast potatoes with roast chicken",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roasting a chicken with potatoes",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken thigh sheet pan",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "oven roast chicken drumsticks",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "roasted pan chicken",
+        "volume": 8100,
+        "competition": 26
+      },
+      {
+        "keyword": "roasting drumsticks in oven",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "sheet pan chicken and vegetable recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "sheet pan chicken thigh",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "one pan dinner",
+        "volume": 6600,
+        "competition": 36
+      },
+      {
+        "keyword": "chicken sheet pan dinner",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "sheet pan chicken and veggies recipe",
+        "volume": 6600,
+        "competition": 1
       }
     ]
   },

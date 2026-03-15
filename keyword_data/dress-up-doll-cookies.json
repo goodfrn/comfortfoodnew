@@ -1,23 +1,264 @@
 {
   "slug": "dress-up-doll-cookies",
-  "title": "Dress-Up Doll Cookies",
-  "seed_keywords": [],
+  "title": "Dress-Up Doll Cookies with Butter & Egg",
+  "seed_keywords": [
+    "doll shaped cookies",
+    "decorated sugar cookies",
+    "butter egg cookies",
+    "hand molded cookies",
+    "cookie decorating ideas"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "doll cookies",
-        "volume": 0,
+        "keyword": "iced sugar cookie",
+        "volume": 90500,
+        "competition": 56
+      },
+      {
+        "keyword": "cookie sugar frosting",
+        "volume": 90500,
+        "competition": 56
+      },
+      {
+        "keyword": "iced frosting for sugar cookies",
+        "volume": 90500,
+        "competition": 56
+      },
+      {
+        "keyword": "recipe for sugar cookie cut outs",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "sugar cookie cut out recipes",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "sugar cookie for cut out recipe",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "cookie sprinkles",
+        "volume": 14800,
+        "competition": 60
+      },
+      {
+        "keyword": "eggless chocolate chip cookies",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "no egg chocolate chip cookies",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "egg less chocolate chip cookies",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "eggless choco chip cookies",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "royal cookie frosting",
+        "volume": 12100,
+        "competition": 69
+      },
+      {
+        "keyword": "royal frosting for sugar cookies",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "royal iced sugar cookies",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "decorate sugar cookie recipe",
+        "volume": 9900,
+        "competition": 56
+      },
+      {
+        "keyword": "royal frosting with meringue powder",
+        "volume": 9900,
+        "competition": 29
+      },
+      {
+        "keyword": "sugar cookies for decoration",
+        "volume": 9900,
+        "competition": 56
+      },
+      {
+        "keyword": "sugar cookie sprinkles",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "holiday cookie decorating",
+        "volume": 8100,
+        "competition": 40
+      },
+      {
+        "keyword": "christmas biscuits decoration",
+        "volume": 8100,
+        "competition": 40
+      },
+      {
+        "keyword": "cookie decorating for christmas",
+        "volume": 8100,
+        "competition": 40
+      },
+      {
+        "keyword": "cookie sugar sprinkles",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "decorate a christmas cookie",
+        "volume": 8100,
+        "competition": 40
+      },
+      {
+        "keyword": "decorate xmas cookies",
+        "volume": 8100,
+        "competition": 40
+      },
+      {
+        "keyword": "sugar cookies sugar sprinkles",
+        "volume": 8100,
+        "competition": 73
+      },
+      {
+        "keyword": "xmas decorated cookies",
+        "volume": 8100,
+        "competition": 40
+      },
+      {
+        "keyword": "christmas tree cookies",
+        "volume": 6600,
+        "competition": 40
+      },
+      {
+        "keyword": "cookie christmas tree",
+        "volume": 6600,
+        "competition": 40
+      },
+      {
+        "keyword": "peanut butter cookies without eggs",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter cookies no eggs",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "christmas cookies with christmas tree",
+        "volume": 6600,
+        "competition": 40
+      },
+      {
+        "keyword": "christmas tree with cookies",
+        "volume": 6600,
+        "competition": 40
+      },
+      {
+        "keyword": "no egg no butter peanut butter cookies",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "no egg peanut butter cookie recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter cookie recipe without egg",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter cookies without eggs and butter",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookie recipe without eggs",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookies without eggs",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cutout cookie",
+        "volume": 4400,
+        "competition": 42
+      },
+      {
+        "keyword": "christmas cookie decorating ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "3 ingredient peanut butter cookies no egg",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "xmas cookie decorating ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "best sugar cookie cut out recipe",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "christmas cookie decor ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "christmas decorating cookie ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "christmas decorating cookies ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cookie christmas decorating ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cookie decorating christmas ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "greek koulourakia recipe",
+        "volume": 3600,
         "competition": 0
       },
       {
-        "keyword": "baking project",
-        "volume": 0,
-        "competition": 0
-      },
-      {
-        "keyword": "hands-on activity",
-        "volume": 0,
-        "competition": 0
+        "keyword": "ideas for christmas cookie decorating",
+        "volume": 3600,
+        "competition": 47
       }
     ]
   },

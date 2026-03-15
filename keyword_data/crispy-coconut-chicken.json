@@ -1,23 +1,264 @@
 {
   "slug": "crispy-coconut-chicken",
-  "title": "Crispy Coconut Chicken Fingers",
-  "seed_keywords": [],
+  "title": "Crispy Coconut Chicken Fingers Recipe",
+  "seed_keywords": [
+    "coconut chicken fingers",
+    "baked chicken fingers",
+    "coconut panko chicken",
+    "pineapple mustard chicken",
+    "chicken finger recipes"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "coconut chicken",
-        "volume": 0,
-        "competition": 0
+        "keyword": "chicken tenders and",
+        "volume": 301000,
+        "competition": 37
       },
       {
-        "keyword": "crispy chicken fingers",
-        "volume": 0,
-        "competition": 0
+        "keyword": "chicken tenders chicken tenders",
+        "volume": 301000,
+        "competition": 37
       },
       {
-        "keyword": "oven baked chicken",
-        "volume": 0,
-        "competition": 0
+        "keyword": "tender chicken fingers",
+        "volume": 301000,
+        "competition": 37
+      },
+      {
+        "keyword": "chicken finger recipes",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken tenders recipe",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken recipes with chicken tenders",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken recipes with tenders",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken strips and",
+        "volume": 135000,
+        "competition": 47
+      },
+      {
+        "keyword": "chicken tender meat recipes",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken tender strips",
+        "volume": 135000,
+        "competition": 47
+      },
+      {
+        "keyword": "chicken tenderloin strips",
+        "volume": 135000,
+        "competition": 47
+      },
+      {
+        "keyword": "recipe for cooking chicken tenders",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "tender chicken tenders recipe",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken fingers and",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "air fry chicken tenders",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "4finger chicken",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "air fried chicken fingers",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "air fry chicken fingers",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "air fryer fried chicken tenders",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "airfryer chicken fingers",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken fingers in airfryer",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "raising cane's chicken fingers sauce recipe",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "baked chicken fingers",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken tenders",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken strips",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "tender baked chicken tenders",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken strips recipe",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken fillet strips recipe",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken tender strip recipes",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken tender strips recipe",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "recipes with chicken tenderloin strips",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "fried chicken tenders recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "fried chicken strips",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "baked chicken tenders recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "crispy chicken strips",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "fried chicken tenders",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "fried chicken strips recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "fried chicken fingers",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "baked chicken finger recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "baked chicken strip recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken crispy tenders",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "chicken finger fry",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken finger recipe fried",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken fried chicken strips",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken fried chicken tenders",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken tender crispy",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "chicken tender recipes oven baked",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tenders fries",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken tenders in fryer",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "crispiest chicken tenders",
+        "volume": 14800,
+        "competition": 25
       }
     ]
   },

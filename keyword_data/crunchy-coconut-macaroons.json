@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-coconut-macaroons",
-  "title": "Crunchy Coconut Macaroons",
-  "seed_keywords": [],
+  "title": "Crunchy Coconut Macaroons with Chocolate",
+  "seed_keywords": [
+    "coconut macaroons",
+    "chocolate dipped cookies",
+    "coconut cookies recipe",
+    "egg white desserts",
+    "bittersweet chocolate snacks"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "macaroons",
+        "volume": 450000,
+        "competition": 78
+      },
+      {
+        "keyword": "macaroon biscuits",
+        "volume": 450000,
+        "competition": 78
+      },
+      {
+        "keyword": "anzac cookies recipe",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for anzac biscuits",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
         "keyword": "coconut macaroons",
-        "volume": 0,
+        "volume": 49500,
+        "competition": 52
+      },
+      {
+        "keyword": "coconut macaroon cookies",
+        "volume": 49500,
+        "competition": 52
+      },
+      {
+        "keyword": "coconut macaroon biscuits",
+        "volume": 49500,
+        "competition": 52
+      },
+      {
+        "keyword": "coconut macaroons recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "7 layer bars",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "coconut cookies macaroons recipes",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for macaroon cookies with coconut",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "seven layer bar",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "cookies samoas",
+        "volume": 27100,
+        "competition": 60
+      },
+      {
+        "keyword": "magic cookie bars",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "frosting cookie recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "magic bars dessert",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "shortbread recipes easy",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "coconut cookies recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "cookie recipes using coconut",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate macaroons",
+        "volume": 6600,
+        "competition": 58
+      },
+      {
+        "keyword": "almond joy cookies",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "magic cookie bar recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "coconut chocolate chip cookies",
+        "volume": 5400,
+        "competition": 44
+      },
+      {
+        "keyword": "choc chip and coconut cookies",
+        "volume": 5400,
+        "competition": 44
+      },
+      {
+        "keyword": "chocolate chips coconut cookies",
+        "volume": 5400,
+        "competition": 44
+      },
+      {
+        "keyword": "chocolate chunk coconut cookies",
+        "volume": 5400,
+        "competition": 44
+      },
+      {
+        "keyword": "coconut and oat cookies",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "coconut and oatmeal cookies",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "coconut choc chip cookies",
+        "volume": 5400,
+        "competition": 44
+      },
+      {
+        "keyword": "coconut oat cookies",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "coconut oatmeal cookie",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "dipped oreos",
+        "volume": 4400,
+        "competition": 58
+      },
+      {
+        "keyword": "coconut flour cookies",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "dipped cookies",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "almond joy cookie recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut cookies coconut flour",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "coconut flour for cookies",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "cookies from coconut flour",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "cookies using coconut flour",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "crimble's",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "macaroon bars",
+        "volume": 3600,
+        "competition": 65
+      },
+      {
+        "keyword": "7 layer cookie bar",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "7 layer magic cookie bar",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "coconut biscuit recipe",
+        "volume": 3600,
         "competition": 0
       },
       {
-        "keyword": "egg white desserts",
-        "volume": 0,
-        "competition": 0
+        "keyword": "seven layer bar cookie",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "seven layer cookie bar recipe",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "white chocolate and ginger cookies",
+        "volume": 3600,
+        "competition": 3
       },
       {
         "keyword": "chocolate dipped cookies",
-        "volume": 0,
-        "competition": 0
+        "volume": 2900,
+        "competition": 71
+      },
+      {
+        "keyword": "haystack candy",
+        "volume": 2900,
+        "competition": 63
+      },
+      {
+        "keyword": "coconut macaroons with condensed milk",
+        "volume": 2900,
+        "competition": 1
       }
     ]
   },

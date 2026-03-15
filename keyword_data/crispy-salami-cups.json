@@ -1,23 +1,124 @@
 {
   "slug": "crispy-salami-cups",
-  "title": "Crispy Salami Cups",
-  "seed_keywords": [],
+  "title": "Crispy Salami Cups with Ricotta & Mozzarella",
+  "seed_keywords": [
+    "salami appetizers",
+    "baked cheese cups",
+    "mozzarella ricotta bites",
+    "crispy salami cups",
+    "italian cheese appetizers"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "salami cups",
-        "volume": 0,
+        "keyword": "appetizer with burrata cheese",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "burrata appetizers",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "burrata cheese appetizer",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese cup cake recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese cake cup cake recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "salami appetizers",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "burrata tomatoes appetizer",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "egg ham cheese cups",
+        "volume": 720,
+        "competition": 8
+      },
+      {
+        "keyword": "salami horderves",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "salami hors d oeuvres",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "crispy salami cups",
+        "volume": 320,
         "competition": 0
       },
       {
-        "keyword": "baked salami",
-        "volume": 0,
+        "keyword": "salami appetizer cups",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "salami cups appetizer",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato and burrata appetizer",
+        "volume": 320,
         "competition": 0
       },
       {
-        "keyword": "ricotta filling",
-        "volume": 0,
-        "competition": 0
+        "keyword": "appetizers with salami and cream cheese",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "brie and cranberry cups",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cranberry cups",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese salami appetizer",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "salami appetizers on a toothpick",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "salami appetizer ideas",
+        "volume": 140,
+        "competition": 13
+      },
+      {
+        "keyword": "baked mac and cheese cups",
+        "volume": 110,
+        "competition": 12
+      },
+      {
+        "keyword": "warm burrata appetizer",
+        "volume": 110,
+        "competition": 2
       }
     ]
   },

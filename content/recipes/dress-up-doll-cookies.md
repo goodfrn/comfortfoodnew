@@ -1,10 +1,10 @@
 ---
-title: "Dress-Up Doll Cookies with Butter & Egg"
+title: "Iced Sugar Cookie Recipe with Royal Icing"
 slug: "dress-up-doll-cookies"
-description: "Hand-shaped doll cookies made with flour, butter, and egg. Decorate with colorful gel food coloring and royal icing for a fun baking project the whole family enjoys."
-metaDescription: "Make doll cookies with butter, egg, and flour. Create colorful outfits using gel food coloring and royal icing. A hands-on baking activity kids love. Try it tonight."
-ogDescription: "Hand-shaped doll cookies decorated with gel food coloring and royal icing. A fun baking project for families."
-focusKeyphrase: "doll cookies"
+description: "Make iced sugar cookies with butter, egg, and almond extract. Decorate with gel food coloring and royal icing for beautiful hand-shaped treats."
+metaDescription: "Iced sugar cookie recipe using butter, egg, and royal icing. Perfect for decorating with gel food coloring. Make it tonight."
+ogDescription: "Hand-shaped iced sugar cookies with butter and egg, decorated with royal icing and gel food coloring."
+focusKeyphrase: "iced sugar cookie"
 date: 2025-07-17
 draft: false
 image: dress-up-doll-cookies.jpg
@@ -21,16 +21,16 @@ tags:
 - "homemade"
 - "vegetarian"
 keywords:
-- "doll cookies"
-- "baking project"
-- "hands-on activity"
-- "decorating cookies"
-- "sugar cookies"
-- "royal icing"
-- "gel food coloring"
-- "butter cookies"
-- "children's baking"
-- "edible crafts"
+- "iced sugar cookie"
+- "royal icing for sugar cookies"
+- "sugar cookie cut out recipes"
+- "decorate sugar cookie recipe"
+- "royal frosting for sugar cookies"
+- "recipe for sugar cookie cut outs"
+- "cookie sugar frosting"
+- "sugar cookies for decoration"
+- "cutout cookie"
+- "best sugar cookie cut out recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "230"
@@ -84,99 +84,64 @@ faq:
 
 ---
 
-Three hours of rainy afternoon. My daughter wanted to bake but also wanted a project. This was the answer—cookies you build, dress, decorate. Takes 49 minutes total but feels like you've done something.
+Three layers of dough. One becomes the doll. Three become the clothes. Bake them separate, assemble with royal icing. This is the kind of cookie that looks complicated—the kind you see at a party and think "okay, someone spent actual time here"—but it's just smart construction. Had a batch that fell apart the first time I tried assembling them. The icing wasn't thick enough. Fixed that, and now they hold together fine.
 
 ## Why You'll Love This
 
-Makes a mess in the best way. Cookies AND a hands-on activity wrapped into one. Kids actually engage instead of just eating.
+Takes 49 minutes total, mostly waiting around. You're not actually cooking the whole time. Great homemade gift, or just something fun to make with someone when you have an afternoon. Kids can help with the coloring and decorating—doesn't require perfect hands. Makes enough for a party spread without filling your entire kitchen with cookies.
 
-Vegetarian, obviously. Butter, egg, sugar. Nothing weird.
+## The Dough & Coloring Your Sugar Cookie Cut Outs
 
-Shows up at parties and people ask what they are. Then they eat three.
+All-purpose flour. Unbleached. Two-eighty milliliters. Baking powder—just two milliliters, barely there. Salt. A pinch.
 
-## What You'll Actually Need
+Butter needs to be soft. Softened. Not melted. Cream it with sugar and almond extract. That's the extract of choice here. Not vanilla. Almond. Swap it for vanilla if you hate almond, but almond extract hits different in sugar cookies for cut outs. Add one egg, beat until it's actually smooth. Not bumpy.
 
-Unbleached all-purpose flour. 280 ml. Sift it with 2 ml baking powder and a pinch of salt—actually matters here because you're working with thin dough.
+Fold your dry stuff in. Careful. Wooden spoon. Form the dough into a cylinder. Two thirds gets wrapped and chilled. The remaining third gets sliced into seven pieces. One drop of gel food coloring per slice. Use gloves. Use a clean spoon each time. The colors stay separate that way. Reshape into discs. Chill everything.
 
-Softened unsalted butter. 150 ml. Room temp. Cold butter won't cream right.
+## Rolling, Cutting & Baking Your Decorated Sugar Cookie Recipe
 
-Granulated sugar. 140 ml. The regular stuff.
+The uncolored dough third goes first. Roll it out to 3 millimeters thick. Cut four dolls—13 centimeters tall. Male and female shapes if you have the cutters. They all go on sheet one.
 
-5 ml almond extract. Not vanilla. The almond is why these taste different from every other sugar cookie. Subtle. But it's there.
+Roll each colored disc the same thickness. One doll per color. Then slice those dolls into pieces. Shirts, pants, skirts, hats, gloves, belts, shoes. Fluted cutter wheel on the edges if you want detail on the hems and rims. Lay the pieces flat on sheet two.
 
-One large egg.
+Bake at 175 Celsius for 7 to 12 minutes. Depends on size. Small pieces done faster. You're looking for the bottoms to turn light golden. Cool completely on racks. Do not rush this.
 
-Six to eight gel food coloring drops. Gel, not liquid. Liquid thins the dough. Gel colors without mess.
+## Royal Cookie Frosting & Assembly
 
-For the icing: one egg white, 280 ml powdered sugar, a few drops water. That's it.
+Whisk egg white and powdered sugar. It should get smooth and thick. Too stiff? Add water drops. One at a time. This is where most people go wrong—they add too much water and the icing won't hold the clothes pieces.
 
-Doll-shaped cookie cutters. Male and female both. You need both or the second set just looks weird. Get the small fluted wheel too—makes details on hats and dress hems look intentional instead of lazy.
+Pipe or spread the royal icing to assemble. The colored pieces go onto the uncolored dolls. Smaller pieces on top of those. Hats, gloves, shoes. Let it dry about 35 minutes before you touch them. The structure needs time.
 
-## How to Actually Build These
+If a piece falls while you're building, pick it back up, add more icing, hold it for a few seconds. Works fine. Patience is just the secret here. Not skill.
 
-Set the oven to 175°C. Mid-level rack. Line two sheets with parchment. This matters because the pieces bake unevenly and you need the second sheet for all those little clothing bits.
+## Cookie Decorating For Christmas & Beyond
 
-Cream the butter and sugar together until it's actually creamy—like two minutes, medium speed. Add the almond extract first, then the egg. Beat it until it's smooth. Shouldn't look grainy.
+Make a test doll first. Seriously. One of the plain ones. Figure out what thickness of icing holds pieces on your first try, not your fifth. Saves frustration.
 
-Fold the dry ingredients in by hand with a wooden spoon. Don't use a mixer. You'll overwork it. Fold maybe six times, until you can't see dry flour anymore.
+The colored dough discs should chill the full 25 minutes. Cold dough rolls cleaner. Warm dough sticks to everything. Don't skip the chill.
 
-Form the dough into a cylinder on a floured surface. Wrap two thirds in plastic. Chill it 25 minutes. Take the remaining third—that's your uncolored doll bodies.
+Gel food coloring is non-negotiable. Liquid food coloring makes the dough wet. It won't work. Gel sits on top, colors stay vivid.
 
-Slice that last third into seven pieces. Add one gel food coloring drop to each piece. Use clean hands or a spoon for each color or they'll all turn brown. Reshape them into flat discs. Cover. Chill another 25 minutes.
-
-Now the shaping part. Roll out the uncolored dough to about 3 mm thick. Cut four dolls—two male, two female, or whatever ratio you want. Put them on the first sheet.
-
-Roll out each colored dough disc. For each color, cut one doll shape. Then slice that doll into pieces—shirt, pants or skirt, hat, gloves, belt, shoes. Doesn't have to be perfect. Kids won't care. Actually, imperfect looks better.
-
-Use the fluted wheel to trim dress hems and hat edges. Makes them look less chunky. Arrange all the small pieces on the second sheet. Spread them out so they bake evenly.
-
-Bake 7 to 12 minutes depending on thickness. The bodies take longer than the tiny sleeves. Watch for the bottoms to turn lightly golden. They'll look slightly underdone on top and that's correct. They'll firm up as they cool. Cool everything completely on racks before touching.
-
-## Decorating—The Actually Fun Part
-
-Whisk the egg white and powdered sugar together until smooth. If it's too thick, add water drops one at a time. You want it thick enough to hold a shape but thin enough to pipe. This takes maybe three minutes of whisking.
-
-Pipe or spread icing onto the body dolls first. Use it like glue. Then arrange the colored clothing pieces on top of the icing. Press them down gently. The icing sets as it dries, holding everything in place.
-
-Pipe details if you want—faces, buttons, belts. Or don't. The cookies are already decorated enough.
-
-Let everything dry about 35 minutes before anyone touches them. The icing hardens and the pieces stay put. You can stack them after that without pieces sliding around.
-
-## Things That Go Wrong
-
-Dough too warm when you cut it. The shapes get fuzzy edges. Keep it in the fridge if this happens. Five minutes fixes it.
-
-Colored dough mixed unevenly. You get streaky cookies. Knead it more. Really work it in.
-
-Pieces burn on one sheet while the other sheet is pale. Your oven has hot spots. Rotate the sheets halfway through. Not a big deal.
-
-Icing too thin and the clothes slide off the bodies. Add more powdered sugar. Tiny spoon, tiny amounts.
-
-Icing too thick and you can't pipe it. Water. One drop. Stir. Try again.
-
-The bodies themselves are sturdy enough that thick icing won't cause problems. The real issue is the clothing pieces—they're light and will slide if the icing is basically soup.
+If your icing cracks while it's drying, it's too thick. Next time, add a bit more water. If it's sliding off the dolls, it's too thin. More powdered sugar.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can you use liquid food coloring instead of gel?**
-No. Liquid makes the dough wet and spongy. Gel colors without thinning anything out. The difference is noticeable.
+**Can you make these without the egg in the cookie dough?**
+The egg binds everything. Tried once without—dough was crumbly, cookies fell apart. Not worth skipping. The egg is essential.
 
-**How long do these actually stay fresh?**
-In an airtight container, about a week. The cookies get slightly softer but the icing hardens enough that pieces stay attached. After that they start tasting stale but they're not dangerous.
+**What if you don't have almond extract?**
+Vanilla works. Different flavor though. Almond extract tastes brighter in these. Straight up swap it 1:1 if vanilla is what you have.
 
-**Can you make the dough ahead?**
-Yeah. Wrap the uncolored cylinder and colored discs separately. They'll keep in the fridge for 2 days. Freeze them and they last a month. Thaw in the fridge before rolling.
+**Can you make the royal icing without egg white?**
+Meringue powder mixed with water works instead. Or—if you're nervous about raw egg—just don't. The cookies taste fine without icing, honestly. You lose the assembly part, but they're still cookies.
 
-**What if you don't have doll cutters?**
-Use gingerbread people cutters. Person cutters. They work fine. The shapes are just taller or shorter depending on what you have. The principle is the same—cut a body, cut clothes, ice them together.
+**How long do they stay fresh?**
+In an airtight container. Three, maybe four days. The royal icing hardens and everything keeps better sealed. Don't refrigerate them. They get weird and soft.
 
-**Why almond extract instead of vanilla?**
-Almond tastes less generic. Vanilla is fine. You can use it. But almond is why people ask what's different about these cookies. It's subtle and people notice it without knowing why.
+**What if the colored dough pieces break when you cut them?**
+They're fragile before baking. Handle them gently, transfer with a thin spatula, not your fingers. If one breaks, bake the pieces anyway—they still taste the same. Just assemble them differently.
 
-**Can the icing be made with something other than raw egg white?**
-Powdered egg white works. Meringue powder works. Aquafaba doesn't work as well—stays slightly grainy. If raw egg is a concern, use the powder versions. Most baking supply stores have them.
-
-**How much hands-on time is this actually?**
-42 minutes of real work. The 25-minute chills are waiting time. Decorating takes another 10 minutes once the cookies are cool. Not bad for a hands-on activity that keeps kids busy and produces something they actually want to eat.
+**Can you skip the chilling steps?**
+Not really. Thirty seconds shorter isn't worth it. Cold dough rolls cleaner, bakes flatter, holds shape. Do the chill.

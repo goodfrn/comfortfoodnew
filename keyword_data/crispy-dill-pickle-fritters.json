@@ -1,23 +1,264 @@
 {
   "slug": "crispy-dill-pickle-fritters",
-  "title": "Crispy Dill Pickle Fritters",
-  "seed_keywords": [],
+  "title": "Crispy Dill Pickle Fritters with Cornmeal",
+  "seed_keywords": [
+    "dill pickle appetizers",
+    "fried pickle recipes",
+    "cornmeal fried pickles",
+    "pickle fritters",
+    "deep fried snacks"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "dill pickle fritters",
-        "volume": 0,
+        "keyword": "fried pickle recipes",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "fried dill pickle recipe",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "dip for pickles",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "deep fried pickles",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "deep fried dill pickle",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "deep fried gherkins",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "fried pickles deep fryer",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "fried pickles in deep fryer",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "fried pickle dip",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "pickle fries",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "bdubs fried pickles",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "bww fried pickles",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "deep fried pork rind",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "deep fried pork skin",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "hot cheeto pickles",
+        "volume": 2900,
+        "competition": 77
+      },
+      {
+        "keyword": "pickles sauce",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "air fryer fried pickles",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "air fryer dill pickles",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "air fried dill pickles",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "air fryer fried pickle",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "fried dill pickles chips",
+        "volume": 2400,
+        "competition": 59
+      },
+      {
+        "keyword": "fried pickles in an air fryer",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "air fried pickles",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "fried dill pickles spears",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "deep fried dill pickle recipe",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "deep fried pickle recipe",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "texas roadhouse fried pickles",
+        "volume": 1600,
         "competition": 0
       },
       {
-        "keyword": "cornmeal fritters",
-        "volume": 0,
+        "keyword": "fried pickles air fryer",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "fried dill pickles",
+        "volume": 1300,
+        "competition": 24
+      },
+      {
+        "keyword": "easy fried pickle recipe",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for fried pickles easy",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "simple fried pickle recipe",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "dill pickle appetizers",
+        "volume": 1000,
+        "competition": 8
+      },
+      {
+        "keyword": "sonic fried pickles",
+        "volume": 1000,
         "competition": 0
       },
       {
-        "keyword": "southern fried pickles",
-        "volume": 0,
-        "competition": 0
+        "keyword": "air fried pickles recipe",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "chip deep fryer",
+        "volume": 1000,
+        "competition": 80
+      },
+      {
+        "keyword": "air fry pickle recipe",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "air fryer pickles recipe",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "batter for fried dill pickles",
+        "volume": 1000,
+        "competition": 10
+      },
+      {
+        "keyword": "batter for fried pickles",
+        "volume": 1000,
+        "competition": 10
+      },
+      {
+        "keyword": "battered pickle fries",
+        "volume": 1000,
+        "competition": 10
+      },
+      {
+        "keyword": "deep fried seaweed rolls",
+        "volume": 1000,
+        "competition": 25
+      },
+      {
+        "keyword": "dried pickle",
+        "volume": 1000,
+        "competition": 80
+      },
+      {
+        "keyword": "fried pickle dip recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "fried pickles air fryer recipe",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for fried pickles in air fryer",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "air fryer pickle chips",
+        "volume": 880,
+        "competition": 10
+      },
+      {
+        "keyword": "air fried pickle chips",
+        "volume": 880,
+        "competition": 10
+      },
+      {
+        "keyword": "air fryer pickles chips",
+        "volume": 880,
+        "competition": 10
+      },
+      {
+        "keyword": "crispy chicken corn flakes",
+        "volume": 880,
+        "competition": 1
       }
     ]
   },

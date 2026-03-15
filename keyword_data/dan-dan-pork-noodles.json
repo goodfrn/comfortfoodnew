@@ -1,23 +1,264 @@
 {
   "slug": "dan-dan-pork-noodles",
-  "title": "Dan Dan Pork Noodles",
-  "seed_keywords": [],
+  "title": "Dan Dan Pork Noodles with Sesame Sauce",
+  "seed_keywords": [
+    "dan dan noodles",
+    "sesame noodle sauce",
+    "pork noodle dishes",
+    "ground pork asian",
+    "sichuan peppercorn noodles"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "ground pork",
-        "volume": 0,
+        "keyword": "dan dan noodles",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "dan dan mein",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "dan dan mein noodles",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "dan dan mian noodles",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "dan noodle",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "noodles for dan dan",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "noodles for dan dan noodles",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "dan dan noodles recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "dan dan mein recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "dan dan mian recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "dan dan recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "dan dan noodles near me",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "dan dan mian",
+        "volume": 8100,
         "competition": 0
       },
       {
-        "keyword": "chili crisp",
-        "volume": 0,
+        "keyword": "dandan mian",
+        "volume": 8100,
         "competition": 0
       },
       {
-        "keyword": "Sichuan peppercorns",
-        "volume": 0,
+        "keyword": "pork ramen recipes",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "dandan dan",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "dan dan sauce",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "dan dan noodle sauce",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "dan dan mian sauce",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "asian mince pork recipes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "mince pork asian recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "pork and pasta",
+        "volume": 3600,
         "competition": 0
+      },
+      {
+        "keyword": "dandan near me",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "sauce asian noodles",
+        "volume": 2900,
+        "competition": 18
+      },
+      {
+        "keyword": "sichuan dan dan",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "sichuan dan dan noodle",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "sichuan dandan",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fried noodles with pork",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "szechuan dan dan noodle",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "pork noodle dishes",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "lo mein recipe pork",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "noodle and pork recipes",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "asian ground pork recipe",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "asian recipes using ground pork",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chow mein pork recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan dan dan noodles",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "oriental pork mince recipes",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asian pork and noodles",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian pork noodle",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese pork with noodles",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "cold noodle in sesame sauce",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "dan dan spicy noodles",
+        "volume": 1000,
+        "competition": 28
+      },
+      {
+        "keyword": "noodles tahini sauce",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "ba mee moo dang",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "dan dan chinese",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "ground pork chinese recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "minced pork pasta recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "sesame noodle sauce",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "pf chang's dan dan noodles",
+        "volume": 720,
+        "competition": 53
+      },
+      {
+        "keyword": "asian pork and noodle recipes",
+        "volume": 720,
+        "competition": 1
       }
     ]
   },

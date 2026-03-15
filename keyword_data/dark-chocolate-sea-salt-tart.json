@@ -1,23 +1,264 @@
 {
   "slug": "dark-chocolate-sea-salt-tart",
-  "title": "Dark Chocolate Sea Salt Tart",
-  "seed_keywords": [],
+  "title": "Dark Chocolate Sea Salt Tart Recipe",
+  "seed_keywords": [
+    "chocolate tart",
+    "dark chocolate desserts",
+    "salted caramel tart",
+    "ganache chocolate pie",
+    "sea salt chocolate"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "sea salt tart",
-        "volume": 0,
+        "keyword": "tart lemon",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate tart",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "choc tart",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "tartlet chocolate",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "brownie mini",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "tart with raspberries",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "caramel tart",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "pepper mint tart",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "sea salt and chocolate",
+        "volume": 5400,
+        "competition": 15
+      },
+      {
+        "keyword": "dark chocolate brownies",
+        "volume": 4400,
+        "competition": 55
+      },
+      {
+        "keyword": "brownies using dark chocolate",
+        "volume": 4400,
+        "competition": 55
+      },
+      {
+        "keyword": "dark brownies",
+        "volume": 4400,
+        "competition": 55
+      },
+      {
+        "keyword": "dark cocoa brownies",
+        "volume": 4400,
+        "competition": 55
+      },
+      {
+        "keyword": "dark chocolate mousse",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "dark choc mousse",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "nutella tart",
+        "volume": 2900,
+        "competition": 69
+      },
+      {
+        "keyword": "caramel dark",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "chocolate ganache for tart",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate ganache tart",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "dark forest chocolate cake",
+        "volume": 2900,
+        "competition": 63
+      },
+      {
+        "keyword": "ganache chocolate tart",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "dark chocolate desserts",
+        "volume": 2400,
+        "competition": 33
+      },
+      {
+        "keyword": "chocolate & raspberry tart",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate and raspberry tart",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "dark chocolate for dessert",
+        "volume": 2400,
+        "competition": 33
+      },
+      {
+        "keyword": "desserts using dark chocolate",
+        "volume": 2400,
+        "competition": 33
+      },
+      {
+        "keyword": "bars salt",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel and chocolate tart",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "caramel chocolate tart",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "magnum ice cream chocolate truffle",
+        "volume": 1900,
+        "competition": 30
+      },
+      {
+        "keyword": "salted caramel tart",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "fudge pop tart",
+        "volume": 1600,
+        "competition": 78
+      },
+      {
+        "keyword": "caramel tart recipe",
+        "volume": 1600,
         "competition": 0
       },
       {
-        "keyword": "chocolate caramel tart",
-        "volume": 0,
-        "competition": 0
+        "keyword": "choc orange tart",
+        "volume": 1600,
+        "competition": 1
       },
       {
-        "keyword": "brown butter crust",
-        "volume": 0,
-        "competition": 0
+        "keyword": "chocolate & orange tart",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate and orange tart",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "poptart sundae",
+        "volume": 1600,
+        "competition": 66
+      },
+      {
+        "keyword": "poptarts fudge",
+        "volume": 1600,
+        "competition": 78
+      },
+      {
+        "keyword": "salt and milk",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "salt milk",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate & salted caramel tart",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate and salted caramel tart",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate milk and salt",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate milk with salt",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate mini tart",
+        "volume": 1300,
+        "competition": 39
+      },
+      {
+        "keyword": "chocolate tart salted caramel",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "dark chocolate tart",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "jeni's dark chocolate ice cream",
+        "volume": 1300,
+        "competition": 41
+      },
+      {
+        "keyword": "small chocolate tart",
+        "volume": 1300,
+        "competition": 39
+      },
+      {
+        "keyword": "dark chocolate pudding",
+        "volume": 1000,
+        "competition": 23
       }
     ]
   },

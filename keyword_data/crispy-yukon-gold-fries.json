@@ -1,23 +1,264 @@
 {
   "slug": "crispy-yukon-gold-fries",
-  "title": "Crispy Yukon Gold Fries",
-  "seed_keywords": [],
+  "title": "Crispy Yukon Gold Fries with Pancetta",
+  "seed_keywords": [
+    "homemade french fries",
+    "crispy potato fries",
+    "twice fried potatoes",
+    "pancetta potato recipe",
+    "hand cut fries"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "Yukon Gold potatoes",
-        "volume": 0,
-        "competition": 0
+        "keyword": "potato sweet fries",
+        "volume": 135000,
+        "competition": 31
       },
       {
-        "keyword": "crispy fries",
-        "volume": 0,
-        "competition": 0
+        "keyword": "home potato fries",
+        "volume": 60500,
+        "competition": 1
       },
       {
-        "keyword": "frying tips",
-        "volume": 0,
-        "competition": 0
+        "keyword": "french fries recipe",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "roasting potato in air fryer",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade french fries",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "making sweet potato fries",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "fried sweet potato fries recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "fried sweet potato recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "mashed garlic potatoes",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade french fries in air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade fries in air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade fries air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade french fries in the air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "air fryer homemade fries",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "crispy oven roasted potatoes",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "home made french fries air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "home made french fries in air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "home made french fries in the air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade french fries air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade french fries airfryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade fries airfryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade fries in the air fryer",
+        "volume": 22200,
+        "competition": 34
+      },
+      {
+        "keyword": "baked sweet potato fries",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "baked sweet potato french fries",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "crinkles french fries",
+        "volume": 18100,
+        "competition": 39
+      },
+      {
+        "keyword": "crinkles fries",
+        "volume": 18100,
+        "competition": 39
+      },
+      {
+        "keyword": "homemade fries",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "home fries recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "home made fries",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "crispier fries",
+        "volume": 14800,
+        "competition": 64
+      },
+      {
+        "keyword": "parmesan truffle chips",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "roasting potatoes air fryer",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "sweet potato fries in oven",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "air fryer french fries recipe",
+        "volume": 12100,
+        "competition": 21
+      },
+      {
+        "keyword": "french fries recipe air fryer",
+        "volume": 12100,
+        "competition": 21
+      },
+      {
+        "keyword": "potato fried recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade fries oven",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "oven baked fries",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "oven baked french fries",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "fry potatoes in pan",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "home made french fries in the oven",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "home made french fries oven",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "home made fries in oven",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "home made oven baked fries",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "home made oven french fries",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade oven baked fries",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade potato fries in oven",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade seasoned fries",
+        "volume": 9900,
+        "competition": 56
+      },
+      {
+        "keyword": "make fries in oven",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "oven baked french fried potatoes",
+        "volume": 9900,
+        "competition": 8
       }
     ]
   },

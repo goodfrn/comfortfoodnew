@@ -1,22 +1,53 @@
 {
   "slug": "duck-gizzards-thyme",
   "title": "Duck Gizzards with Thyme-Citrus Twist",
-  "seed_keywords": [],
+  "seed_keywords": [
+    "duck gizzards",
+    "duck offal recipes",
+    "pan seared gizzards",
+    "citrus herb duck",
+    "duck appetizers"
+  ],
   "keywords": {
     "all": [
       {
         "keyword": "duck gizzards",
-        "volume": 0,
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "duck appetizers",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "duck horderves",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "confit gizzard",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "gizzard duck",
+        "volume": 170,
+        "competition": 9
+      },
+      {
+        "keyword": "duck breast appetizer",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "duck crostini",
+        "volume": 140,
         "competition": 0
       },
       {
-        "keyword": "smoked paprika",
-        "volume": 0,
-        "competition": 0
-      },
-      {
-        "keyword": "tarragon lemon zest",
-        "volume": 0,
+        "keyword": "duck confit appetizer",
+        "volume": 110,
         "competition": 0
       }
     ]

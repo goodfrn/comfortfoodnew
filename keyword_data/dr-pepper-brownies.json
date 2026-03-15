@@ -1,23 +1,264 @@
 {
   "slug": "dr-pepper-brownies",
-  "title": "Dr Pepper Brownie Remix",
-  "seed_keywords": [],
+  "title": "Dr Pepper Brownie Remix with Chocolate Chips",
+  "seed_keywords": [
+    "brownie recipes",
+    "chocolate brownies",
+    "dr pepper brownies",
+    "soda brownies",
+    "fudgy brownies"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "brownie mix",
-        "volume": 0,
-        "competition": 0
+        "keyword": "brownies",
+        "volume": 2240000,
+        "competition": 28
+      },
+      {
+        "keyword": "brownie recipes",
+        "volume": 550000,
+        "competition": 2
+      },
+      {
+        "keyword": "brownies recept",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "cosmic brownies",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "cocoa brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "brownie cosmic",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "easy brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "simple brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie cookies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cookies and brownies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "blondie recipe",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "easy chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "quick brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "easy to make brownies",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "basic chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie recipe with cocoa",
+        "volume": 74000,
+        "competition": 1
       },
       {
         "keyword": "fudgy brownies",
-        "volume": 0,
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "brownie cake",
+        "volume": 60500,
+        "competition": 62
+      },
+      {
+        "keyword": "brauni cake",
+        "volume": 60500,
+        "competition": 62
+      },
+      {
+        "keyword": "brownie pudding ina garten",
+        "volume": 60500,
         "competition": 0
       },
       {
-        "keyword": "Dr Pepper soda",
-        "volume": 0,
+        "keyword": "chocolate brownies fudgy",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "best brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "fudgy brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "brookie recipe",
+        "volume": 49500,
         "competition": 0
+      },
+      {
+        "keyword": "sweet potato brownies",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "best chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "fudgy chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "great brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato chocolate brownie",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "home made brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade chocolate brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "buckeye brownies",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "black bean brownies",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean chocolate brownies",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "fudge brownies",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "baking bars",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "brownie sizzling",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sizzle brownie",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan brownies",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "little debbie cosmic brownies",
+        "volume": 22200,
+        "competition": 19
+      },
+      {
+        "keyword": "homemade brownie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetarian brownies",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "brownie cookie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brownie in a mug recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "brownie and cookie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate brownie cookie recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "home made brownies recipe",
+        "volume": 22200,
+        "competition": 3
       }
     ]
   },

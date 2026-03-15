@@ -1,9 +1,9 @@
 ---
-title: "Earthy Truffle Aioli with Garlic & Mayo"
+title: "Truffle Aioli Recipe with Garlic & Mayo"
 slug: "earthy-truffle-aioli"
-description: "Truffle aioli made with fresh garlic, creamy mayo, and black mushroom tapenade. This rustic spread delivers intense umami flavor in just 10 minutes."
-metaDescription: "Truffle aioli recipe using garlic, mayo, and black mushroom tapenade for rich umami. Simple no-cook spread ready in minutes. Make it tonight."
-ogDescription: "Creamy truffle aioli blending garlic, mayo, and black mushroom tapenade for deep, earthy flavor."
+description: "Truffle aioli made with fresh garlic, mayo, and black truffle mushroom tapenade. This homemade aioli delivers intense umami flavor in just 10 minutes."
+metaDescription: "Make truffle aioli at home with garlic, creamy mayo, and black truffle mushroom tapenade. This homemade garlic aioli recipe takes just 10 minutes. Try it tonight."
+ogDescription: "Homemade truffle aioli with fresh garlic, mayo, and black mushroom tapenade. Rich umami flavor in 10 minutes."
 focusKeyphrase: "truffle aioli"
 date: 2025-12-01
 draft: false
@@ -22,12 +22,15 @@ tags:
 - "no bake"
 keywords:
 - "truffle aioli"
-- "garlic mayo spread"
-- "black mushroom tapenade"
 - "homemade aioli"
-- "truffle spread"
-- "garlic dip"
-- "mushroom spread"
+- "garlic sauce mayonnaise"
+- "truffle aioli recipe"
+- "homemade garlic aioli"
+- "black truffle aioli"
+- "garlic mayo homemade"
+- "garlic aioli dipping sauce"
+- "homemade aioli recipe"
+- "homemade aioli sauce"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "120"
@@ -67,60 +70,73 @@ faq:
 
 ---
 
-Three garlic cloves. A cup of mayo. Black truffle tapenade. That's it. Takes 12 minutes and tastes like you spent an hour on it. Had some leftover tapenade sitting in the fridge, didn't want to waste it, and this happened—now it's the thing I make when I want to seem like I know what I'm doing.
+Garlic and truffle. That's it. One bowl, 12 minutes, and you're done. Made this last week because store-bought aioli tastes like plastic and sadness. Homemade garlic mayo hits different—you actually taste the garlic, the earthiness, the salt working. Black truffle tapenade turns it into something you'd dip bread into while everyone's talking. No cooking. Just pulse, fold, taste.
 
 ## Why You'll Love This
 
-No cooking. Just a processor and a bowl. Done before you finish your coffee.
+Takes 12 minutes. No bake required. Done before anyone realizes you're making something.
 
-Works with literally anything—grilled steak, roasted carrots, crusty bread, a spoon if you're honest. Vegetarian and makes everything else better.
+Works on everything. Grilled chicken. Roasted vegetables. Bread. Fries. Whatever needs a condiment that isn't ketchup.
 
-Tastes expensive. Costs nothing. That earthy truffle funk hits different when it's homemade.
+Vegetarian. Also vegan if you swap mayo for cashew cream, but mayo is easier.
 
-Makes enough to stash in the fridge for a week of "I threw this together."
+Tastes homemade because it is. Trader Joe's truffle aioli costs more and tastes like less.
 
-## Why This Garlic Mayo Spread Works
+## Ingredients for Your Black Truffle Aioli
 
-Garlic cloves go in first—peeled, dropped straight into the food processor. Pulse. Fast. Until it's minced fine but still has texture, not a paste. You'll smell it immediately. That sharp, bright hit.
+Three garlic cloves. Peeled. Raw. Don't skip this part—roasted is sweeter but loses the bite that balances the truffle.
 
-Mayo comes next with sea salt. Just the fine kind. Blend until it's homogeneous and silky. Don't go crazy here. Overblending makes it thin and loose. You want thick. Spreadable. When you swirl it with a spatula, it should feel like it has weight.
+One cup of mayonnaise. Homemade if you're feeling it. Store-bought works fine, but homemade aioli tastes richer somehow. Makes a difference.
 
-The tapenade is hand-folded in. Don't processor it. Those little mushroom chunks need to stay intact—they're what give you that characteristic earthiness when you bite down. Release happens in your mouth, not in the bowl.
+Half a teaspoon of fine sea salt. Kosher salt's too coarse here—it won't distribute evenly through the mayo. Salt matters.
 
-Taste it now. Balance the garlic punch against the savory fungi. Salt to preference. Some people want more salt. Some want less. Your call.
+Three tablespoons of black truffle mushroom tapenade. That's where the earthiness lives. The tapenade holds chunks. Those chunks matter.
 
-Chill it minimum 15 minutes if you have time. Flavors meld. Everything gets friendlier. Rushed? It still rocks right away.
+## How to Make Homemade Garlic Truffle Aioli
 
-## How to Fix Common Mistakes
+Drop the garlic into a food processor. Pulse. Don't blend—pulse. You want minced garlic with some texture still, not a paste. It'll smell sharp. Good. That's what you're after.
 
-Garlic texture matters more than you think. If you pulse it wrong—too long, too short—the whole thing falls apart. Too long and it gets mushy, bitter, aggressive. Too short and it's chunky, raw, distracting. You want that small-grit texture. Rough enough to feel it on your tongue but small enough to blend smoothly with the mayo.
+Add the mayo and salt once the garlic's right. Blend until it's silky and smooth. Watch the texture. It should feel thick, spreadable, not thin like salad dressing. Don't overwork it. Overblending breaks the emulsion. You'll feel it get glossy and right—that's when you stop.
 
-Fresh garlic can be aggressive for some people. If it's too much, roast the cloves first until they're soft and sweet. Changes everything. Less bite, more mellow earthiness.
+Scrape everything into a bowl. Now the tapenade. Fold it in by hand. This is important. You don't blend tapenade in because those little mushroom pieces need to stay intact. When someone bites into this, those bits crack open and release that earthy mushroom flavor all at once. Blending kills that.
 
-Mayo is the base. Homemade mayo tastes deeper, richer, but it needs more care and attention. Store-bought works fine and is honestly the smarter move for most people. Greek yogurt swaps in if you want lighter. Not the same thing, but good in its own way.
+Taste it. Salt to preference. The garlic should punch through, but the truffle shouldn't disappear. It's a balance. Adjust if you need to.
 
-Over-salt and you kill the truffle. That subtle, earthy thing disappears under salt. Always err on the side of less. Add more if you taste it and want it. Impossible to fix if you go too far.
+Chill it minimum 15 minutes if you have time. The flavors marry. Aromas settle. If you're in a rush, it's fine now. Tastes better later, but works immediately.
 
-Storage—seal it tight. Aioli separates sometimes. Oil rises. Just whisk it before serving. Stays good for a week, maybe longer. Check for weird smells. If it smells off, it's off.
+## What Goes Wrong—And How to Fix It
+
+Garlic gets mushy. Happens if you pulse too long or blend instead of pulse. The whole thing tastes bitter then. Next time, stop when you still see grit. Half a second matters here.
+
+Over-salt kills the truffle. You can taste the salt but not the mushroom anymore. Always use less. Better to add than take out. Sea salt—not table salt, which is sharp and metallic.
+
+Mayo breaks and gets runny. Usually from blending too hard or too long. Keep it brief. Thick, not runny. If it separates slightly over time in the fridge, whisk it before serving. It comes back together.
+
+Tapenade chunks disappear. Only happens if you blend them in. Don't. Fold by hand. Those chunks are the point.
+
+Fresh garlic feels too aggressive? Roast it first. Soft, sweet, mellow. Loses some punch but some people prefer that. Greek yogurt swap works too—lighter, tangy, less mayo-heavy. Homemade mayo tastes better than store-bought for this, but it needs care. Don't skip the salt in mayo or it tastes flat.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can I use jarred minced garlic instead?**
-Not really. Jarred tastes sharp and chemical. Fresh changes the whole flavor. Worth the 30 seconds to peel and pulse it yourself.
+**Can I use roasted garlic instead of raw?**
+Absolutely. Roasted garlic's sweeter, less sharp. Different thing entirely, but works. Take the bite out of the dish though. Some people like that.
 
-**What if I don't have a food processor?**
-Mince the garlic fine with a knife. Whisk it with mayo and salt by hand. Takes longer but works. Tapenade still folds in gently by hand either way.
+**What's the difference between this and store-bought truffle aioli?**
+Fresh garlic tastes like garlic. The tapenade chunks stay intact instead of being pulped into nothing. Homemade version costs half as much. Trader Joe's truffle aioli is fine if you're rushed, but this beats it.
 
-**How long does it last in the fridge?**
-About a week sealed tight. Sometimes longer. Trust your nose more than a calendar.
+**Can I make this vegan?**
+Swap mayo for cashew cream or aquafaba mayo. Not the same texture, but close enough. Vegan mayo works too if you don't want to make cashew cream.
 
-**Can I make this ahead?**
-Yes. Actually tastes better the next day after flavors marry. Just whisk it before serving if it separated.
+**How long does it keep?**
+Sealed in the fridge, 5 days. After that, the garlic starts to turn funky. Mayo and tapenade are fine longer, but garlic gets weird.
 
-**Is this vegetarian?**
-Completely. Check your mayo brand if that matters to you—some use fish-derived ingredients.
+**Should I use fresh or dried truffle?**
+Tapenade. Dried truffle tastes like sadness. Tapenade has the earthiness actually concentrated.
 
-**What should I serve this with?**
-Grilled steak, roasted vegetables, crusty bread, potatoes, literally any appetizer that needs a dip. Works as a sandwich spread too.
+**Can I use white truffle aioli instead?**
+Different flavor. White truffle's more delicate, less earthy. Works if that's what you have. Black truffle's stronger and better for dipping.
+
+**What do I serve this with?**
+Grilled meats. Roasted vegetables. Bread. Fries. Literally anything that needs a sauce that isn't ketchup or mayonnaise with nothing in it.

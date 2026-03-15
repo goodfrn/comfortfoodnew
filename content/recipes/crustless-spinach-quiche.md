@@ -1,10 +1,10 @@
 ---
 title: "Crustless Spinach Quiche with Roasted Tomatoes"
 slug: "crustless-spinach-quiche"
-description: "Crustless quiche made with eggs, heavy cream, and tangy goat cheese. Layered with roasted cherry tomatoes, sautéed kale, and caramelized onion. Baked till set."
-metaDescription: "Crustless quiche recipe with eggs, roasted cherry tomatoes, kale, and goat cheese. No crust needed. Flexible, easy to make. Try it tonight."
-ogDescription: "Eggs, roasted tomatoes, and tangy goat cheese baked in a crustless quiche. Packed with fresh kale and caramelized onions."
-focusKeyphrase: "crustless quiche"
+description: "Crustless spinach quiche recipe with eggs, heavy cream, and tangy goat cheese. Roasted cherry tomatoes and sautéed kale make this egg bake dish satisfying and restaurant-quality."
+metaDescription: "Crustless spinach quiche recipe with eggs, goat cheese, and roasted cherry tomatoes. This easy egg bake is perfect for breakfast or brunch. Make it tonight."
+ogDescription: "Eggs, kale, and goat cheese come together in this elegant crustless quiche with roasted tomatoes. Simple, delicious, and ready in one dish."
+focusKeyphrase: "crustless spinach quiche recipe"
 date: 2025-10-13
 draft: false
 image: crustless-spinach-quiche.jpg
@@ -21,14 +21,16 @@ tags:
 - "spinach"
 - "roasted"
 keywords:
+- "crustless spinach quiche recipe"
+- "crustless quiche recipe"
+- "spinach quiche recipe"
+- "egg bake recipe"
 - "crustless quiche"
-- "roasted tomatoes"
+- "spinach quiche"
+- "baked egg dishes"
+- "easy egg breakfast bake"
 - "goat cheese quiche"
-- "kale quiche"
-- "cherry tomatoes"
-- "egg casserole"
-- "no crust quiche"
-- "quiche recipe"
+- "roasted tomato quiche"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "260"
@@ -74,78 +76,78 @@ faq:
 
 ---
 
-Had five cups of kale sitting there and no plan. Roasted some tomatoes. Threw it all in a bowl with eggs and cheese. This crustless spinach quiche twist came out perfect on the first try, which never happens.
-
-The thing about crustless quiche is it's not actually harder than the crust version—it's easier. No rolling. No blind baking. Just vegetables, custard, and time. The roasted tomatoes are what makes it different. They burst during cooking, their juice soaks into everything, and suddenly you've got depth instead of just eggs and cheese.
+Came home with a pint of cherry tomatoes and half a bag of kale. No pasta plans. So this happened. Fifteen minutes of prep, fifty minutes in the oven, and you've got a crustless quiche that actually tastes like something—not just eggs and cream. The roasted tomatoes burst. The goat cheese goes tangy. The spinach... well, kale, technically, but close enough.
 
 ## Why You'll Love This
 
-Takes 15 minutes to prep, 50 minutes in the oven. That's it. Real breakfast or lunch or whatever meal you want to call dinner.
+Takes 15 minutes to prep. Bake it while you shower, drink coffee, check your phone. Done.
 
-Works cold the next day. Works room temperature. Works reheated. Grab a slice, go. Vegetarian but filling enough that nobody notices.
+Works for breakfast, lunch, leftover dinner. Slice it cold. Reheat it. Freezes fine too.
 
-Roasted vegetables in the same oven means one appliance running. One oven rack used. Cleanup is two bowls and a skillet.
+One pan. One bowl. Greasing a quiche dish counts as cleanup.
 
-Uses goat cheese, which is tangy enough that the eggs don't taste bland. Actual flavor in a quiche instead of just texture.
+Vegetarian protein that doesn't need bacon or sausage to be interesting. The roasted tomatoes and goat cheese carry the whole thing.
 
-## Roasted Tomatoes and the Greens You Actually Have
+## Eggs, Cream, and Greens — No Crust Needed
 
-Seven large eggs beaten with a cup of heavy cream and half a cup of whole milk. Kosher salt and black pepper stirred in last. That's the base.
+Seven eggs beaten smooth. Heavy cream and whole milk stirred in until you've got something that looks like custard. One teaspoon kosher salt. Half a teaspoon black pepper. Taste it raw if you're gross like that—it should taste almost underseasoned now. Will even out once it bakes.
 
-Cherry tomatoes—a full pint spread on a rimmed baking sheet with no oil. Roast them until the skins blister and the whole kitchen smells like summer. Takes 12 to 18 minutes depending on how hot your oven really gets. They'll look almost broken. That's correct.
+Cherry tomatoes. A whole pint. Olive oil tossed with them. They're going to roast and blister and lose their firmness, which is the point.
 
-Spinach substitute kale works better here anyway. Five cups packed, washed, chopped rough. A medium yellow onion diced. The onion sweetens everything. Kale stays vibrant and doesn't turn to slime like spinach does.
+One medium yellow onion diced small. Kale—five cups packed. Crumbled goat cheese. Soft kind. The tangy kind. Not the dense log. That won't crumble.
 
-Crumbled goat cheese. A full cup. Soft and tangy. Not the chalky kind from the dairy case that's been sitting there three months. The stuff that actually smells like something.
+Light butter or oil for the quiche dish. Nothing fancy.
 
-Olive oil. Butter to grease the quiche plate. Nothing fancy. Nothing extra.
+## Roasting, Wilting, Building — The Actual Work
 
-## Cooking Method—Timing and Temperature Shifts
+Preheat to 410. Spread tomatoes on a rimmed baking sheet in a single layer. No piling. Roast 12 to 18 minutes. You're looking for the skins to blister and wrinkle. The pan will smell like concentrated tomato—sweet, almost caramelized. If they burst open, fine. If they're blackened, that's too far. Cool them on a wire rack so the bottoms don't keep cooking.
 
-Preheat to 410 first. Roast those tomatoes on a separate sheet while you prep everything else. They need to blister and cool slightly. The juices thicken in the pan while they sit there. Don't throw those pan drippings away later.
+Whisk eggs with cream and milk in a large bowl. Get it smooth. No lumps. Salt and pepper go in last—sounds dumb but seasoning clumps if you add it early. Set it aside. Don't chill it. Room temperature is better.
 
-Medium heat for the skillet. Olive oil in first, swirl it around. Onion goes in undisturbed for four minutes. Don't stir yet. Let the bottom edges soften and turn a faint gold. Then stir gently. You're looking for translucent, sweet-smelling onion. Not mushy. Not brown.
+Heat a large skillet medium. Pour in olive oil. Swirl to coat. Add the diced onion. Don't stir. Let it sit for 4 minutes. The edges soften, maybe brown slightly. Then stir gently. You want translucent, not mushy. Burnt doesn't smell sweet—it smells acrid. That's too far.
 
-Add kale handful by handful. This stops it from clumping. Stir as you go. It wilts fast—just three or four minutes. Leaves should stay vibrant green. Squeeze out every bit of excess moisture when it comes off heat. Soggy quiche is the mistake people make. Water ruins custard texture. Use a clean towel. Really squeeze.
+Add kale handful by handful. Stir it in as it wilts. The leaves shrivel but stay that bright green color. Three to four minutes max. Soggy kale makes a soggy quiche. Move it all to the bowl with the onion. Let it cool a bit. Then squeeze it. Get moisture out with a clean kitchen towel. This matters more than people think.
 
-While the vegetables cool slightly, reduce oven temp to 345. This matters. The lower heat means the custard sets without the outside edges drying out and cracking. Grease a nine-inch deep-dish quiche plate. No crust here, just butter or oil on the bottom and sides.
+Reduce oven to 345. Butter or oil a 9-inch deep-dish quiche plate. Grease the bottom and sides. This is your only defense against sticking—no crust means no barrier.
 
-Dump the kale and onion mixture in. Scatter goat cheese over top. Pour the egg mixture in slowly. Let it seep down through the greens and cheese. Don't shake the pan around trying to make it settle. Bubbles are fine. Lay the roasted tomatoes on top in a single layer. They're more for color and flavor than structure.
+Dump kale and onion into the dish. Spread it out. Scatter goat cheese over it. Pour the egg mixture slowly, letting it seep between the greens. Don't shake the pan. Bubbles are normal. Arrange roasted tomatoes on top in a single layer. They look good up there. They taste good too.
 
-Middle rack. 30 to 40 minutes. The timer is a suggestion. Check at 30. The center should be firm to a gentle poke. No wobble. Edges pull slightly from the pan but stay golden, not dry. The smell tells you when it's close—rich, tangy, roasted. Under-done means raw eggs running around inside. Over-done gets rubbery and tastes like sadness.
+Bake 30 to 40 minutes on the middle rack. At 30 minutes, poke the center gently. It should be firm. Not wobbling. Not liquid. The edges will pull slightly from the pan and look golden. The whole kitchen smells like tangy cheese and roasted vegetables by now. If the center is still jiggly, give it another 5 minutes. If it looks rubbery, you went too far. Undercooked is raw eggs—bad. Overcooked is dry quiche—also bad. The smell will tell you. Rich. Savory. Cheese-forward.
 
-Cool it 10 to 15 minutes before slicing. This matters more than people think. The custard finishes setting. Slices hold their shape instead of collapsing all over the plate. There's a slight jiggle left, but that goes away.
+Cool it 10 to 15 minutes on a wire rack before slicing. This is where the custard finishes setting. Slices should hold shape. No collapse. Slight jiggle is gone.
 
-## Fixes and Substitutions for What Goes Wrong
+## Fixes for When Things Go Wrong — And How to Prevent Them
 
-Kale can be tough and bitter sometimes. If yours tastes harsh, blanch it one minute in boiling water before sautéing. Changes everything. Softens it. Makes it sweet.
+Kale too bitter or tough? Blanch it one minute in boiling water before sautéing. Just one minute. Longer and it gets mushy.
 
-Goat cheese is tangy on purpose. If you hate that, use feta. Similar crumble. Similar strength. Goat cheese wins though because the tang balances the roasted tomato sweetness.
+Egg mixture looks too thick? Add a splash of milk. Too thin? Add another egg if you have one. It doesn't have to be perfect—just know it before you pour.
 
-Olive oil can be swapped for avocado oil if you like a higher smoke point. Doesn't change the flavor much. Both work fine.
+Goat cheese is strong. If you want less tang, use feta—same crumbly texture, slightly softer taste. Avoid aged hard cheeses. They don't distribute through the egg properly.
 
-The onion is yellow specifically because it caramelizes easier than white. White works but takes longer heat and more attention. Skip it if you're in a rush.
+Olive oil can swap for avocado oil if you want a higher smoke point. Don't bother with vegetable oil. It tastes like nothing.
 
-Roasted tomatoes are the whole point of calling this a "twist." Fresh tomatoes just sit there and don't add anything. Roasting concentrates everything. The juice in the pan underneath—pour that over before putting the tomatoes on top. Don't waste it.
+Tomatoes burst really early? They're fine. Means they're soft inside. Juices thickened in the pan anyway.
+
+Quiche splits or cracks on top while baking? That's just egg proteins tightening. Normal. Doesn't affect taste. Slice it anyway.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can I use fresh spinach instead of kale for this spinach substitute?**
-Spinach works but releases way more water. You'd have to squeeze it three times over to get it dry enough. Kale just doesn't hold that much moisture. If you're stuck with spinach, blanch it first, squeeze it, then squeeze it again. Actually—just buy kale.
+**Can I make this baked egg dish a day ahead?**
+Yes. Make it the night before, cover it, refrigerate. Bake the next morning. Add maybe 5 minutes to the bake time since it'll be cold. Works fine either way.
 
-**How do I know when the quiche is actually done cooking?**
-Poke the center gently with a fork. If it's still liquid, it needs more time. If the whole thing jiggles like gelatin, it's close but not there. Firm to the poke, barely any wobble at all, that's done. Smell matters too. When the goat cheese starts smelling strong and the tomatoes smell caramelized, you're at 30 to 35 minutes usually.
+**Is this quiche recipe better with spinach instead of kale?**
+Spinach's more tender, wilts faster. Use the same amount but cook it maybe 2 minutes instead of 3 or 4. Same result. Kale's slightly earthier. Both work.
 
-**Why does my quiche crack on top?**
-Oven's too hot. Happened to me twice. The top edges cook faster than the center sets, so they shrink and crack. Drop to 325 if yours keeps doing this. Slower is better than faster with custard.
+**How do I know when the egg bake is actually done?**
+Poke the center gently. Should feel firm. Not liquid. Not hard. The edges pull slightly from the pan. The wobble is gone. That's done. A meat thermometer reads 160 internally if you need certainty. Don't trust just the timer.
 
-**Can I make this the night before?**
-Yes. Don't bake it. Just prep everything, pour the egg mixture in the quiche plate, cover it, and stick it in the fridge. Bake it the next morning. Takes the same time. Might need an extra 5 minutes because it starts cold.
+**Can I freeze this egg casserole after baking?**
+Yes. Cool it completely first. Wrap it tight. Freeze up to three months. Reheat in a 325 oven for about 20 minutes, covered with foil. Or eat it cold straight from the fridge. Tastes fine cold.
 
-**What temperature should the roasted tomatoes reach?**
-Doesn't matter. You're roasting for blistering and concentration, not a specific internal temp. When the skins look wrinkled and burst, they're done. Some will burst earlier than others. That's fine. No blackening though. If they look charred, the oven's running too hot.
+**What's the best quiche and spinach recipe substitution for goat cheese?**
+Feta if you want the same tang. Ricotta if you want it creamier and milder. Gruyère if you want it richer. All work. Avoid anything hard or aged—it won't integrate into the egg.
 
-**Does the quiche have to cool before eating?**
-Ten to fifteen minutes minimum. You won't burn yourself but the custard won't be set inside. Slice it too soon and it falls apart on the plate. Wait the 10 minutes. It's worth it. Cold the next day is actually better texture anyway.
+**How long does this crustless quiche recipe keep?**
+Three days in the fridge, covered. After that the texture starts breaking down slightly. Still tastes fine but gets a little watery. Freezes better than it keeps fresh, honestly.

@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-broccoli-salad",
-  "title": "Crunchy Broccoli Salad Remix",
-  "seed_keywords": [],
+  "title": "Crunchy Broccoli Salad with Pancetta",
+  "seed_keywords": [
+    "broccoli salad",
+    "greek yogurt dressing",
+    "pancetta salad recipe",
+    "crunchy vegetable salad",
+    "broccoli bacon salad"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "gyro sauce recipe",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "recipe for greek gyro sauce",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
         "keyword": "broccoli salad",
-        "volume": 0,
-        "competition": 0
+        "volume": 201000,
+        "competition": 10
       },
       {
-        "keyword": "pancetta salad",
-        "volume": 0,
-        "competition": 0
+        "keyword": "broccoli and salad",
+        "volume": 201000,
+        "competition": 10
       },
       {
-        "keyword": "healthy salad",
-        "volume": 0,
-        "competition": 0
+        "keyword": "broccoli for salad",
+        "volume": 201000,
+        "competition": 10
+      },
+      {
+        "keyword": "broccoli salad broccoli salad",
+        "volume": 201000,
+        "competition": 10
+      },
+      {
+        "keyword": "broccoli salad salad",
+        "volume": 201000,
+        "competition": 10
+      },
+      {
+        "keyword": "brocolis salads",
+        "volume": 201000,
+        "competition": 10
+      },
+      {
+        "keyword": "broccoli salad recipe",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "broccoli casserole salad",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for dressing for greek salad",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "tzatziki dressing recipe",
+        "volume": 60500,
+        "competition": 20
+      },
+      {
+        "keyword": "broccoli cole slaw",
+        "volume": 14800,
+        "competition": 50
+      },
+      {
+        "keyword": "broccoli salad slaw",
+        "volume": 14800,
+        "competition": 50
+      },
+      {
+        "keyword": "broccoli salad with broccoli slaw",
+        "volume": 14800,
+        "competition": 50
+      },
+      {
+        "keyword": "coleslaw and broccoli salad",
+        "volume": 14800,
+        "competition": 50
+      },
+      {
+        "keyword": "gyros tzatziki sauce",
+        "volume": 14800,
+        "competition": 37
+      },
+      {
+        "keyword": "homemade gyro sauce",
+        "volume": 14800,
+        "competition": 18
+      },
+      {
+        "keyword": "greek yogurt dressing",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "greek yogurt salad dressing",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "broccoli cauliflower salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli slaw recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli cole slaw recipes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli salad and cauliflower salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "greek dressing yogurt",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "salad broccoli and cauliflower",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli bacon salad",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "greek yogurt ranch",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "greek yogurt ranch dressing",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "broccoli salad dressing",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "ranch dressing using greek yogurt",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "bacon and broccoli salad",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "broccoli salad salad dressing",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "broccoli salad sauce",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "broccoli salads with bacon",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "dressing for a broccoli salad",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "greek yogurt ranch salad dressing",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "ranch salad dressing with greek yogurt",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "raw broccoli",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken salad chick broccoli salad",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli & cauliflower salad recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli and cauliflower salad recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli salad chicken salad chick",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "greek yogurt ranch dip",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "yogurt salad dressing",
+        "volume": 5400,
+        "competition": 21
+      },
+      {
+        "keyword": "original broccoli salad recipe",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "greek yogurt and ranch dip",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "broccoli and cauliflower salad",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli salad recipe with bacon",
+        "volume": 5400,
+        "competition": 16
+      },
+      {
+        "keyword": "bacon and broccoli salad recipe",
+        "volume": 5400,
+        "competition": 16
       }
     ]
   },

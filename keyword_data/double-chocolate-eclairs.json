@@ -1,23 +1,264 @@
 {
   "slug": "double-chocolate-eclairs",
-  "title": "Double Chocolate Éclairs",
-  "seed_keywords": [],
+  "title": "Double Chocolate Éclairs Recipe",
+  "seed_keywords": [
+    "chocolate eclairs",
+    "homemade eclairs",
+    "choux pastry desserts",
+    "dark chocolate ganache",
+    "white chocolate cream filling"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "éclairs recipe",
-        "volume": 0,
+        "keyword": "eclairs",
+        "volume": 368000,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate eclairs",
+        "volume": 40500,
+        "competition": 34
+      },
+      {
+        "keyword": "a chocolate eclair",
+        "volume": 40500,
+        "competition": 34
+      },
+      {
+        "keyword": "choco eclairs",
+        "volume": 40500,
+        "competition": 34
+      },
+      {
+        "keyword": "chocolate eclair chocolate",
+        "volume": 40500,
+        "competition": 34
+      },
+      {
+        "keyword": "eclair cakes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate eclair cakes",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "mini eclairs",
+        "volume": 5400,
+        "competition": 59
+      },
+      {
+        "keyword": "eclair pastry",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "ganache recipe white chocolate",
+        "volume": 5400,
         "competition": 0
       },
       {
-        "keyword": "pastry cream",
-        "volume": 0,
+        "keyword": "miniature eclairs",
+        "volume": 5400,
+        "competition": 59
+      },
+      {
+        "keyword": "dark chocolate ganache",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "eclair doughnut",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "eclair choco",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "eclair s",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "eclairs patisserie",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "profiteroles dessert",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "whipped white chocolate ganache",
+        "volume": 2900,
         "competition": 0
       },
       {
-        "keyword": "chocolate dessert",
-        "volume": 0,
+        "keyword": "white chocolate whipped ganache",
+        "volume": 2900,
         "competition": 0
+      },
+      {
+        "keyword": "french eclair",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "eclair french pastry",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "white chocolate cream",
+        "volume": 1600,
+        "competition": 45
+      },
+      {
+        "keyword": "choux desserts",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "choux pastry eclair",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "eclairs filling",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "shoe pastry eclairs",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "eclair sweet",
+        "volume": 1300,
+        "competition": 49
+      },
+      {
+        "keyword": "eclairs caramel",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "sweet eclair",
+        "volume": 1300,
+        "competition": 49
+      },
+      {
+        "keyword": "chocolate eclairs near me",
+        "volume": 1000,
+        "competition": 79
+      },
+      {
+        "keyword": "cream eclair",
+        "volume": 1000,
+        "competition": 8
+      },
+      {
+        "keyword": "cream puff and eclairs",
+        "volume": 1000,
+        "competition": 24
+      },
+      {
+        "keyword": "cream puff eclairs",
+        "volume": 1000,
+        "competition": 24
+      },
+      {
+        "keyword": "johnny nation's chocolate eclair shop",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate cream filling for cake",
+        "volume": 880,
+        "competition": 31
+      },
+      {
+        "keyword": "mini chocolate eclairs",
+        "volume": 720,
+        "competition": 75
+      },
+      {
+        "keyword": "chocolate mini eclairs",
+        "volume": 720,
+        "competition": 75
+      },
+      {
+        "keyword": "eclair tesco",
+        "volume": 720,
+        "competition": 17
+      },
+      {
+        "keyword": "french profiteroles",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "gluten free profiterole",
+        "volume": 720,
+        "competition": 27
+      },
+      {
+        "keyword": "petit eclair",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "tesco eclair",
+        "volume": 720,
+        "competition": 17
+      },
+      {
+        "keyword": "chocolate eclair tesco",
+        "volume": 590,
+        "competition": 24
+      },
+      {
+        "keyword": "custard eclair",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "eclair ingredients",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "eclairs vegan",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "fancy eclairs",
+        "volume": 590,
+        "competition": 29
+      },
+      {
+        "keyword": "ice cream profiterole",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "pastry for profiteroles",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "tesco chocolate eclair",
+        "volume": 590,
+        "competition": 24
       }
     ]
   },

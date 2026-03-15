@@ -1,23 +1,264 @@
 {
   "slug": "double-chocolate-pancakes",
-  "title": "Double Chocolate Pancakes",
-  "seed_keywords": [],
+  "title": "Double Chocolate Pancakes with Egg Whites",
+  "seed_keywords": [
+    "chocolate pancakes",
+    "fluffy pancakes",
+    "pancakes with egg whites",
+    "buttermilk chocolate pancakes",
+    "double chocolate breakfast"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancake recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluff pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjack",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy flapjacks recipe",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fluffy fluffy pancakes",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy hotcake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffys pancake",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for fluffiest pancakes",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "american pancakes recipe",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese pancakes",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "soufflé pancakes",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "best pancakes recipe",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade pancakes recipe",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "fluffy japanese pancake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "fluffy pancake japan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan hotcakes",
+        "volume": 33100,
+        "competition": 36
+      },
+      {
+        "keyword": "pancakes from scratch recipe",
+        "volume": 22200,
+        "competition": 29
+      },
+      {
+        "keyword": "chocolate chip pancakes",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
+        "keyword": "japanese souffle pancakes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate chocolate chip pancakes",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
+        "keyword": "chocolate chunk pancakes",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
         "keyword": "chocolate pancakes",
-        "volume": 0,
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "japanese pancake recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate chocolate pancakes",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "chocolate for pancakes",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "chocolate on pancakes",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cocoa pancakes",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "american fluffy pancake",
+        "volume": 14800,
         "competition": 0
       },
       {
-        "keyword": "folded egg whites",
-        "volume": 0,
+        "keyword": "american style fluffy pancakes",
+        "volume": 14800,
         "competition": 0
       },
       {
-        "keyword": "buttermilk pancakes",
-        "volume": 0,
-        "competition": 0
+        "keyword": "american style pancakes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "best fluffy pancake recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "yummy pancakes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy japanese pancake recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy pancake recipe japanese",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "fuwa fuwa japanese pancake",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "good fluffy pancake recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "great pancake recipe fluffy",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "japan fluffy pancakes recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "japanese pancake recipe fluffy",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "souffle pancakes recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate chip pancake recipes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "soufflé pancakes recipes",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "fluffy pancake recipe easy",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "basic fluffy pancake recipe",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "buttery pancake",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "fluffy simple pancake recipe",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "fluffy american pancake recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "baguette & chocolat",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "light pancake",
+        "volume": 6600,
+        "competition": 59
       }
     ]
   },

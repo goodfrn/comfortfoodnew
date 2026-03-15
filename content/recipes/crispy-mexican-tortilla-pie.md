@@ -1,10 +1,10 @@
 ---
 title: "Crispy Mexican Tortilla Pie with Chorizo"
 slug: "crispy-mexican-tortilla-pie"
-description: "Crispy Mexican tortilla pie layered with smoky chipotle salsa, chorizo, cheddar and mozzarella cheese. Topped with cotija, roasted red peppers, and fresh cilantro for an easy weeknight dinner."
-metaDescription: "Make this crispy Mexican tortilla pie with flour tortillas, chorizo, chipotle salsa, and melted cheddar mozzarella cheese. Perfect for casual dinners. Try it tonight."
-ogDescription: "Layered crispy tortilla pie with chorizo, chipotle salsa, cheddar mozzarella, roasted peppers, and cotija cheese. Ready in 20 minutes."
-focusKeyphrase: "tortilla pie"
+description: "Crispy Mexican tortilla pie layered with smoky chipotle salsa, chorizo, cheddar cheese, and cotija. Features roasted red peppers and fresh cilantro for an easy weeknight dinner."
+metaDescription: "Make this crispy Mexican tortilla pie with chorizo, chipotle salsa, and cheddar cheese. Layered and baked to perfection. Try it tonight."
+ogDescription: "Layered Mexican tortilla pie with chorizo, smoky salsa, cheddar, and cotija cheese. Crispy, cheesy, and ready in minutes."
+focusKeyphrase: "taco casserole with tortillas"
 date: 2025-10-08
 draft: false
 image: crispy-mexican-tortilla-pie.jpg
@@ -21,18 +21,18 @@ tags:
 - "spicy"
 - "pie"
 keywords:
-- "tortilla pie"
-- "chipotle salsa"
-- "cheddar mozzarella mix"
-- "chorizo tortilla"
-- "Mexican tortilla pie"
-- "crispy tortilla bake"
-- "cheese tortilla casserole"
-- "easy Mexican dinner"
-- "roasted red peppers"
-- "cotija cheese"
-- "cilantro toppings"
-- "weeknight Mexican recipe"
+- "taco casserole with tortillas"
+- "mexican taco casserole with tortillas"
+- "taco bake casserole with tortillas"
+- "tortilla casserole"
+- "layered mexican casserole"
+- "enchilada layered casserole"
+- "easy taco casserole with tortillas"
+- "layered tortilla casserole"
+- "mexican casserole tortilla"
+- "tortilla bake"
+- "chorizo casserole"
+- "chipotle casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "290"
@@ -80,88 +80,106 @@ faq:
 
 ---
 
-Twelve tortillas. Salsa. Cheese. Chorizo. Bake until the edges crackle. That's a crispy Mexican tortilla pie. Had a pile of corn tortillas and no filling one night, remembered these exist, and suddenly dinner was done in 19 minutes.
+Got three pounds of chorizo on sale. Needed something fast that didn't taste like chorizo tacos again. This happened. Seven minutes of assembly. Twelve minutes in the oven. Crispy tortilla edges, melted cheese pulling apart, that smoky chipotle heat cutting through the fat. It's a taco casserole with tortillas but sharper. Better. The kind of Mexican casserole you don't need to overthink—just layer it, watch it bake, eat it hot.
 
 ## Why You'll Love This
 
-Takes 7 minutes to assemble, 12 minutes to bake. Actually quick.
+Takes 19 minutes total. Seriously. Prep is just chopping and arranging.
 
-One sheet pan. Cleanup is basically nothing.
+Spicy without being aggressive. Chorizo does the work. Chipotle salsa adds smoke instead of just heat.
 
-Spicy without being mean about it. Chipotle salsa does the work. You can dial it down or up depending on the bottle.
+Works for dinner, lunch, or feeding four people at once. A sheet pan Mexican casserole that doesn't pretend to be fancy.
 
-Easy dinner that tastes like you tried. Cheese pulls. Tortillas crisp. People eat it.
+No complicated steps. Layer, bake, eat. The crispy tortilla base is the whole point.
 
-## Building Your Layers Right
+## Building the Layers
 
-Flour tortillas. Not corn. They get crispier and hold toppings better.
+You need 12 medium flour tortillas. Not corn. Flour gets crispier and holds the toppings without shattering.
 
-Smoky chipotle salsa. A cup. Spread thin—thick sauce makes everything soggy and defeats the point. Enchilada sauce works if that's what you have, but chipotle's better here.
+Smoky chipotle salsa. One cup. Not enchilada sauce—that's thicker and won't crisp the base right. (Enchilada sauce works if you want more depth, less crunch.)
 
-Sharp cheddar and mozzarella mixed together. Two cups total. The cheddar gives you flavor and color. Mozzarella makes it stretch when you bite it. Swap one cup of cheddar for more mozzarella if you want extra pull. It won't hurt.
+Two cups sharp cheddar. It's the backbone. Swap one cup for mozzarella if you want the cheese to stretch more—cheddar gets hard when it cools, mozzarella stays a little loose.
 
-Chorizo. One cup. Already cooked and crumbled. Ground beef works but misses the spice you're after.
+One cup chorizo. Cooked. Crumbled. Buy the good stuff from the meat counter. Pre-packaged tastes like nothing.
 
-Red onion diced small. Half a cup. Pinto beans drained. Roasted red peppers. Cotija cheese crumbled on top—it's salty and crumbly and doesn't melt like cheddar does.
+Pinto beans. One cup. Drained. They soften up but keep shape. Black beans work too—doesn't matter.
 
-Sour cream and cilantro for the end. Flaky sea salt. Maldon works.
+Red onion, diced. Half a cup. Raw. It gets slightly softened but keeps its bite.
 
-## How to Make Them Actually Crispy
+Roasted red peppers. Half a cup, diced. From a jar is fine. Adds sweetness against the spice.
 
-Oven goes to 360. Hot enough to crisp tortillas fast. Too hot and the toppings burn before the base gets there. Too cool and you just reheat everything.
+Cotija cheese. Half a cup, crumbled. Salty. Crumbly. The finishing layer before it bakes. If you can't find it, feta works. Queso fresco works. Don't skip it.
 
-Lay tortillas flat on sheet pans. No overlap. Overlapping means steamed edges. You want air underneath them. If your pan's small, use two pans.
+Sour cream. Dollop it on after baking. Cools everything down.
 
-Spread salsa thin across each one. Like a glaze. Not a layer. Too much and the tortilla softens instead of crisps. You should see some of the tortilla color through the sauce.
+Flaky sea salt and cilantro. Finish with both. Maldon salt if you have it. Regular salt disappears.
 
-Scatter cheddar and mozzarella evenly. Hands work better than a spoon here. You'll feel when it's distributed right instead of clumpy in the middle.
+## How to Bake It So It Actually Crisps
 
-Chorizo goes next. Red onion. Peppers. Beans. Don't dump everything in one spot. Spread it out so every bite has texture.
+Preheat to 360 degrees. Not 400. Not 350. 360 lets the tortillas crisp without the cheese drying out and the veggies charring.
 
-Cotija on top of everything. The final cheese layer.
+Lay tortillas flat on sheet pans. Do not overlap. Even a little overlap steams them. Steamed tortillas are soft. Flat tortillas crisp.
 
-Bake for 12 to 15 minutes. Watch the edges. They should turn golden brown. The cheese will bubble. You'll hear tiny crackles from the tortilla drying out around the edges. That sound means it's working.
+Spread salsa thin on each one. This is the mistake everyone makes. Too much sauce and you're eating a soggy tortilla casserole, not a crispy one. Thin layer. You should still see tortilla through it.
 
-When the edges brown and the toppings look slightly blistered, it's done. Poke one with a fork. Should have some resistance. Not floppy. Not hard.
+Sprinkle the cheese blend evenly. Then chorizo. Then onion. Then peppers and beans. Then cotija on top. This order matters. Sauce first so it sticks. Chorizo and veggies in the middle so they don't dry out. Cotija last because it's already salty and crumbly—it doesn't melt into everything.
+
+Bake for 12 to 15 minutes. Watch the edges. They'll turn golden. The cheese will bubble and brown in spots. You'll hear tiny crackles from the tortilla edges getting crispy. That sound means it's working.
+
+Pull them out when the edges are brown and the toppings look blistered slightly. The tortilla should hold its shape but have actual resistance when you poke it. Not crunchy like a chip yet—that happens as it cools.
+
+Top immediately with sour cream and flaky salt. Cilantro scattered on last. Serve hot.
+
+Leftover slices? Re-crisp in a dry skillet or oven. Don't microwave it. You'll get sad.
 
 ## Common Mistakes and How to Fix Them
 
-Too much salsa drowns the whole thing. Makes the tortilla limp and sad. Next time use less. Thin layer. You want to taste the tortilla crisp.
+Too much sauce ruins everything. Too much heat on the tortilla, too much moisture. Thin layer. Seriously.
 
-Overlapped tortillas steam instead of crisp. Single layer. Air flow matters. It's not complicated.
+Overlapping tortillas steam instead of crisp. Lay them flat. Use two sheet pans if you have to.
 
-Forgot about them and they're dark. Lower the oven 25 degrees next time. Still works. Just not as dramatic.
+Skipping the finishing salt. Flaky salt. Not regular table salt. It actually tastes like something and adds texture.
 
-Toppings are soggy when you pull them out. Either too much sauce or the oven was too cool. Salsa thin. Temperature high. Also—don't add sour cream until the plate. It melts everything.
+Cooking too hot too fast. 360 is right. 400 dries the toppings. 350 is too slow and the tortilla stays soft.
 
-## Finishing and Serving
+Not letting it cool for 30 seconds before eating. It'll hold together better and the cheese won't burn your mouth as bad.
 
-Top immediately with sour cream. Generous dollop. Not timid. The cold sour cream against hot cheese and spicy chorizo is the whole point.
+Using pre-shredded cheese works but melts weird. If you use it anyway, toss it with a little cornstarch so it doesn't clump. Fresh shredded is worth the two minutes.
 
-Flaky sea salt sprinkled all over. Punches the flavors. Makes everything brighter.
-
-Cilantro scattered on top. Fresh. A little bitter. Cuts through the richness of melted cheese.
-
-Serve hot. If you have leftovers—and you might—re-crisp in a dry skillet or back in the oven. Microwave makes them sad.
+Chorizo that's raw or half-cooked tastes different. Cook it all the way, break it into small pieces, let it cool slightly before layering.
 
 {{< recipe-card >}}
 
 ## Frequently Asked Questions
 
-**Can I make these ahead?**
-Assemble them right before the oven. Salsa makes tortillas soft if they sit. You can prep all your ingredients in advance. Just don't layer them until you're ready to bake.
+**Can I make this with ground beef instead of chorizo?**
 
-**What if I don't have cotija cheese?**
-Feta works. So does crumbled queso fresco. You need something salty and crumbly that doesn't melt. Regular cheddar just melts into the rest.
+Sure. Brown a pound of ground beef with half a teaspoon of cumin, some garlic, salt. It works. Loses the spice though. You'd want hot salsa or jalapeños to make up for it.
 
-**Should I use fresh or frozen chorizo?**
-Fresh, cooked and crumbled. Frozen chorizo in a casing has to be thawed and still needs cooking. More work. Fresh is already done.
+**Is this a chicken tortilla casserole if I use chicken?**
 
-**Why does the recipe say cheddar and mozzarella mix?**
-Cheddar alone doesn't stretch. Mozzarella alone tastes like nothing. Together they do both things. The mozzarella melts smooth and pulls when you bite. The cheddar adds actual flavor and sharpness. Can't get that with one or the other.
+Technically. Shredded cooked chicken works. It's blander so you need more salsa, more cotija, more cilantro. Not the same vibe but not bad.
 
-**Is this actually spicy?**
-Depends on your salsa. Chipotle salsa is smoky-hot, not screaming-hot. You taste the smoke first. If you want hotter, use a habanero salsa instead. If you want less spicy, use enchilada sauce—still flavorful, barely any heat.
+**Can I use corn tortillas instead?**
 
-**How many does this serve?**
-Six people as a main. Eight if you serve sides. One person if you're hungry and tired.
+No. Corn tortillas are thinner, break easier, don't crisp the same way. You'll get a softer texture. They're better for enchilada casseroles with more sauce.
+
+**What's the difference between this and an enchilada layered casserole?**
+
+Enchiladas use corn tortillas, more sauce, bake longer. This is less sauce, crispy edges, faster. Think tortilla casserole that's actually crispy, not a saucy bake.
+
+**Can I prep this ahead and bake later?**
+
+Yeah. Assemble it. Cover it. Refrigerate up to 4 hours. Bake straight from cold—add 2-3 minutes to the time. Cold toppings take longer to heat through.
+
+**Why does the tortilla get crispy instead of soft?**
+
+Thin sauce, moderate heat, short cooking time. The tortilla edges dry out and curl slightly. The cheese weight keeps the center softer but the edges crisp. It's about balance.
+
+**Is this meatless if I skip the chorizo?**
+
+Yes. Call it a meatless Mexican casserole. The beans and cheese are hearty enough. Roast some mushrooms if you want texture.
+
+**Can I add jalapeños?**
+
+Add them fresh on top before baking or raw after. Cooked they get soft. Raw they stay bright and spicy.

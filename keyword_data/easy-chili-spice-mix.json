@@ -1,23 +1,264 @@
 {
   "slug": "easy-chili-spice-mix",
-  "title": "Easy Chili Spice Mix",
-  "seed_keywords": [],
+  "title": "Easy Chili Spice Mix with Smoked Paprika",
+  "seed_keywords": [
+    "homemade chili seasoning",
+    "chili spice blend",
+    "smoked paprika spice mix",
+    "chili powder cumin",
+    "chili spice mix"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "chili powder",
-        "volume": 0,
-        "competition": 0
+        "keyword": "spices for chili powder",
+        "volume": 74000,
+        "competition": 49
       },
       {
-        "keyword": "shallot powder",
-        "volume": 0,
-        "competition": 0
+        "keyword": "chili seasoning recipe",
+        "volume": 33100,
+        "competition": 14
       },
       {
-        "keyword": "smoked paprika",
-        "volume": 0,
-        "competition": 0
+        "keyword": "chili spices recipe",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "home chili seasoning",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "home made chili spices",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "homemade chili spice",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "chili seasoning",
+        "volume": 27100,
+        "competition": 65
+      },
+      {
+        "keyword": "spices for chili",
+        "volume": 27100,
+        "competition": 65
+      },
+      {
+        "keyword": "ancho chili pepper powder",
+        "volume": 27100,
+        "competition": 70
+      },
+      {
+        "keyword": "chili seasoning for chili",
+        "volume": 27100,
+        "competition": 65
+      },
+      {
+        "keyword": "chili powder recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade chili seasoning",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "spice for chili con carne",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "spices for a chilli con carne",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "spices in a chilli con carne",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "mccormick chili recipe",
+        "volume": 5400,
+        "competition": 29
+      },
+      {
+        "keyword": "mccormicks chili recipe",
+        "volume": 5400,
+        "competition": 29
+      },
+      {
+        "keyword": "chili con carne spice mix",
+        "volume": 5400,
+        "competition": 78
+      },
+      {
+        "keyword": "chili con carne seasoning mix",
+        "volume": 5400,
+        "competition": 78
+      },
+      {
+        "keyword": "chili con carne spice blend",
+        "volume": 5400,
+        "competition": 78
+      },
+      {
+        "keyword": "spice mix for chili con carne",
+        "volume": 5400,
+        "competition": 78
+      },
+      {
+        "keyword": "nanami togarashi",
+        "volume": 3600,
+        "competition": 77
+      },
+      {
+        "keyword": "chilli seasoning recipe",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "chili powder homemade",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "ichimi togarashi",
+        "volume": 2900,
+        "competition": 61
+      },
+      {
+        "keyword": "chili lime mexican seasoning",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "mccormick chili seasoning recipe",
+        "volume": 1900,
+        "competition": 40
+      },
+      {
+        "keyword": "mccormick chili seasoning mix",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "mccormick chili spice recipe",
+        "volume": 1900,
+        "competition": 40
+      },
+      {
+        "keyword": "mccormicks chili seasoning recipe",
+        "volume": 1900,
+        "competition": 40
+      },
+      {
+        "keyword": "red chili seasoning",
+        "volume": 1900,
+        "competition": 29
+      },
+      {
+        "keyword": "chili seasoning ingredients",
+        "volume": 1600,
+        "competition": 22
+      },
+      {
+        "keyword": "mccormick chili seasoning packet",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "chili spice ingredients",
+        "volume": 1600,
+        "competition": 22
+      },
+      {
+        "keyword": "mccormick chili powder packet",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "chili mix seasoning recipe",
+        "volume": 1300,
+        "competition": 12
+      },
+      {
+        "keyword": "chili recipe spice mix",
+        "volume": 1300,
+        "competition": 12
+      },
+      {
+        "keyword": "chili seasoning blend recipe",
+        "volume": 1300,
+        "competition": 12
+      },
+      {
+        "keyword": "chili spice blend recipe",
+        "volume": 1300,
+        "competition": 12
+      },
+      {
+        "keyword": "chili spice mix recipe",
+        "volume": 1300,
+        "competition": 12
+      },
+      {
+        "keyword": "spices for chilli concarne",
+        "volume": 1300,
+        "competition": 65
+      },
+      {
+        "keyword": "wick fowler's two alarm chili kit",
+        "volume": 1300,
+        "competition": 10
+      },
+      {
+        "keyword": "six gun chili mix",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "mccormick chili packet",
+        "volume": 1000,
+        "competition": 77
+      },
+      {
+        "keyword": "chili mix recipe",
+        "volume": 1000,
+        "competition": 24
+      },
+      {
+        "keyword": "spices to put in chili",
+        "volume": 1000,
+        "competition": 14
+      },
+      {
+        "keyword": "diy chili seasoning",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "6 gun chili mix",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "best chili seasoning recipe",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "best chili spice recipe",
+        "volume": 1000,
+        "competition": 5
       }
     ]
   },

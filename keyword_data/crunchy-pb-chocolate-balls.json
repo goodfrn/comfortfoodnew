@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-pb-chocolate-balls",
-  "title": "Crunchy PB Chocolate Balls",
-  "seed_keywords": [],
+  "title": "Crunchy PB Chocolate Balls No-Bake",
+  "seed_keywords": [
+    "no bake chocolate balls",
+    "peanut butter candy",
+    "chocolate almond bites",
+    "no bake treats",
+    "chocolate peanut butter balls"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "peanut butter substitute",
-        "volume": 0,
-        "competition": 0
+        "keyword": "reeses",
+        "volume": 450000,
+        "competition": 55
       },
       {
-        "keyword": "no bake dessert",
-        "volume": 0,
-        "competition": 0
+        "keyword": "reese's peanut butter cups",
+        "volume": 110000,
+        "competition": 69
       },
       {
-        "keyword": "chocolate coated balls",
-        "volume": 0,
-        "competition": 0
+        "keyword": "reeses peanut butter cups",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "hersheys reeses",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "reese's butter cups",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "peanut butter balls",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "pb balls",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "lemon square cake",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "reese's peanut butter puffs",
+        "volume": 49500,
+        "competition": 54
+      },
+      {
+        "keyword": "reesespuffs",
+        "volume": 49500,
+        "competition": 54
+      },
+      {
+        "keyword": "peanut butter balls recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate covered peanut butter balls",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "buckeyes candy recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "chocolate and peanut butter balls",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate covered peanut balls",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate covered peanut balls recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate covered peanut butter ball recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate covered peanut butter recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate peanut ball",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate peanut balls recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate peanut butter ball recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "pb ball recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "peanut and chocolate balls",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "peanut butter balls covered with chocolate",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "peanut butter protein balls",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "reese's candy",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "pb protein balls",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "candy reese",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "protein and peanut butter balls",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "take 5 candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "no bake desserts",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "take five candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "dessert recipes without baking",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "dessert without baking",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "reese's take 5 candy bar",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "buckeye recipe",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "peanut butter candy",
+        "volume": 12100,
+        "competition": 79
+      },
+      {
+        "keyword": "no bake oatmeal cookies no peanut butter",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "no cook oatmeal peanut butter cookies",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "easy no bake desserts",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "reese's pumpkins",
+        "volume": 9900,
+        "competition": 75
+      },
+      {
+        "keyword": "oatmeal peanut butter balls",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "easy bakeless desserts",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "easy dessert no oven",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "easy dessert recipes without baking",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "easy dessert without baking",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "easy dessert without oven",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "easy desserts no cooking",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "easy non cook desserts",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "oat and peanut butter balls",
+        "volume": 9900,
+        "competition": 2
       }
     ]
   },

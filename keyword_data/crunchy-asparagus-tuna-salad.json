@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-asparagus-tuna-salad",
-  "title": "Crunchy Asparagus Tuna Salad",
-  "seed_keywords": [],
+  "title": "Crunchy Asparagus Tuna Salad with Chickpeas",
+  "seed_keywords": [
+    "tuna salad",
+    "asparagus salad",
+    "tuna chickpea salad",
+    "canned tuna recipes",
+    "salad with eggs"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "asparagus salad",
-        "volume": 0,
-        "competition": 0
+        "keyword": "egg salad recipe",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "egg and salad recipe",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "egg salad salad recipe",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "salad with egg recipe",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for tuna salad",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for tuna fish salad",
+        "volume": 165000,
+        "competition": 10
       },
       {
         "keyword": "tuna salad",
-        "volume": 0,
-        "competition": 0
+        "volume": 110000,
+        "competition": 8
       },
       {
-        "keyword": "toasted garlic panko",
-        "volume": 0,
-        "competition": 0
+        "keyword": "salad with eggs",
+        "volume": 110000,
+        "competition": 5
+      },
+      {
+        "keyword": "egg and salad",
+        "volume": 110000,
+        "competition": 5
+      },
+      {
+        "keyword": "egg salad and",
+        "volume": 110000,
+        "competition": 5
+      },
+      {
+        "keyword": "egg salad eggs",
+        "volume": 110000,
+        "competition": 5
+      },
+      {
+        "keyword": "egg salad salad",
+        "volume": 110000,
+        "competition": 5
+      },
+      {
+        "keyword": "eggs for egg salad",
+        "volume": 110000,
+        "competition": 5
+      },
+      {
+        "keyword": "salad and tuna",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna salad on salad",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna salad salad",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and tuna salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for tuna fish",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "noodle salad with tuna",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta salad with tuna fish",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna sandwich",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for tuna sandwich",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna for tuna sandwich",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "canned tuna recipes",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "canned tuna fish recipes",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "canned tuna dishes",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "canned tuna dishes recipes",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "canned tuna ideas",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "canned tuna uses",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "pasta and tuna fish recipes",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna pasta meal",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna macaroni salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni and tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "elbow macaroni tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "mac and tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni and tuna fish salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni salad with tuna fish",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna salad sandwich",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "egg salad recipe easy",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "potato salad recipe with egg",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "simple egg salad recipe",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "potato salad with egg",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "potato and egg salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "tuna fish salad sandwich",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "egg and potato salad recipe",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "egg salad potato salad",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "egg salad potato salad recipe",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "best egg salad recipe",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for tuna patties",
+        "volume": 14800,
+        "competition": 8
       }
     ]
   },

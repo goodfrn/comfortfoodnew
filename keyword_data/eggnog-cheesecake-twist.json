@@ -1,22 +1,263 @@
 {
   "slug": "eggnog-cheesecake-twist",
-  "title": "Eggnog Cheesecake Twist",
-  "seed_keywords": [],
+  "title": "Eggnog Cheesecake Twist with Speculoos",
+  "seed_keywords": [
+    "eggnog cheesecake",
+    "speculoos crust cheesecake",
+    "holiday cheesecake desserts",
+    "cheesecake with spices",
+    "orange liqueur cheesecake"
+  ],
   "keywords": {
     "all": [
       {
+        "keyword": "christmas cheesecakes",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "xmas cheesecake",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cheese cakes for christmas",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cheesecake christmas desserts",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "christmas cake cheesecake",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "christmas cheesecake dessert",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin pie cheesecake",
+        "volume": 5400,
+        "competition": 22
+      },
+      {
+        "keyword": "christmas cheesecake recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "gingerbread cheesecake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake for christmas recipes",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake ginger",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "christmas dessert recipes cheesecake",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "christmas holiday cheesecake recipes",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "festive cheesecake recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
         "keyword": "eggnog cheesecake",
-        "volume": 0,
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "christmas themed cheesecake",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "recipes for eggnog pie",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "holiday cheesecake",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake cinnamon",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "cheesecake for the holidays",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "egg nog cheesecake recipe",
+        "volume": 2400,
         "competition": 0
       },
       {
-        "keyword": "orange liqueur dessert",
-        "volume": 0,
+        "keyword": "spicy pumpkin cheesecake",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "thanksgiving cheesecake",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "thanksgiving cheesecake desserts",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "christmas cheesecake ideas",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "cheesecake ideas for christmas",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "christmas cheesecake dessert ideas",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "festive cheesecake ideas",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "xmas cheesecake ideas",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "christmas tree cheesecake",
+        "volume": 880,
+        "competition": 10
+      },
+      {
+        "keyword": "christmas cheesecake no bake",
+        "volume": 880,
         "competition": 0
       },
       {
-        "keyword": "cheesecake crust substitute",
-        "volume": 0,
+        "keyword": "christmas no bake cheesecake",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake cheesecake christmas",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake cheesecake for christmas",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake xmas cheesecake",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "apple and cinnamon cheesecake",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "christmas mini cheesecake",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "lime ginger cheesecake",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "mini xmas cheesecakes",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake recipe for thanksgiving",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate peppermint cheesecake cake",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "easter cheese cake ideas",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "eggnog cheesecake no bake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger and white chocolate cheesecake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger white chocolate cheesecake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "little debbie christmas tree cakes cheesecake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "little debbie christmas tree cheese cake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "mini cheesecakes easter",
+        "volume": 590,
+        "competition": 17
+      },
+      {
+        "keyword": "holiday cheesecake recipes",
+        "volume": 480,
+        "competition": 8
+      },
+      {
+        "keyword": "4th july cheesecake",
+        "volume": 480,
         "competition": 0
       }
     ]

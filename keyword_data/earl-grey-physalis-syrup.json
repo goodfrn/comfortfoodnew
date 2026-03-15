@@ -1,23 +1,264 @@
 {
   "slug": "earl-grey-physalis-syrup",
-  "title": "Earl Grey and Physalis Syrup",
-  "seed_keywords": [],
+  "title": "Earl Grey and Physalis Syrup Recipe",
+  "seed_keywords": [
+    "homemade simple syrup",
+    "flavored syrup recipes",
+    "earl grey syrup",
+    "tea infused syrup",
+    "physalis fruit syrup"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "physalis syrup",
-        "volume": 0,
+        "keyword": "sugar syrups",
+        "volume": 40500,
+        "competition": 80
+      },
+      {
+        "keyword": "toffee nut",
+        "volume": 18100,
+        "competition": 40
+      },
+      {
+        "keyword": "recipes for strawberry syrup",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "earl grey syrup",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "earl gray syrup",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "italian soda recipe",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "earl grey tea syrup",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "coffee syrup milk",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "earlgrey syrup",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "recipe brown sugar syrup",
+        "volume": 6600,
         "competition": 0
       },
       {
-        "keyword": "Earl Grey recipe",
-        "volume": 0,
-        "competition": 0
+        "keyword": "syrup cranberry",
+        "volume": 6600,
+        "competition": 64
       },
       {
-        "keyword": "simple syrup",
-        "volume": 0,
-        "competition": 0
+        "keyword": "vanilla syrup recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade syrups",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin spice syrup recipe for coffee",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "syrup apple",
+        "volume": 5400,
+        "competition": 80
+      },
+      {
+        "keyword": "vanilla simple syrup",
+        "volume": 4400,
+        "competition": 59
+      },
+      {
+        "keyword": "aldi maple syrup",
+        "volume": 4400,
+        "competition": 50
+      },
+      {
+        "keyword": "brown sugar simple syrup",
+        "volume": 4400,
+        "competition": 36
+      },
+      {
+        "keyword": "coffee maple syrup",
+        "volume": 4400,
+        "competition": 59
+      },
+      {
+        "keyword": "recipe for making syrup",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for syrup",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe of syrup",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "simply sirup",
+        "volume": 4400,
+        "competition": 44
+      },
+      {
+        "keyword": "starbucks mocha sauce",
+        "volume": 3600,
+        "competition": 78
+      },
+      {
+        "keyword": "raspberry torani syrup",
+        "volume": 3600,
+        "competition": 78
+      },
+      {
+        "keyword": "sugar syrup for bees",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "iced coffee flavouring",
+        "volume": 3600,
+        "competition": 37
+      },
+      {
+        "keyword": "raspberry syrup recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "recipes with raspberry syrup",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "shaved ice flavors",
+        "volume": 2900,
+        "competition": 78
+      },
+      {
+        "keyword": "monin elderflower syrup",
+        "volume": 2900,
+        "competition": 55
+      },
+      {
+        "keyword": "cherry syrup recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel syrup recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "make caramel syrup",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "peach in syrup recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe with caramel syrup",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade simple syrup",
+        "volume": 2400,
+        "competition": 26
+      },
+      {
+        "keyword": "blue curacao syrup non alcoholic",
+        "volume": 2400,
+        "competition": 58
+      },
+      {
+        "keyword": "chocolate mocha syrup",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "homemade vanilla bean syrup",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "mocha with chocolate syrup",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "pancake sugar free",
+        "volume": 2400,
+        "competition": 75
+      },
+      {
+        "keyword": "recipe for vanilla simple syrup",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "almond orgeat",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "dark caramel sauce starbucks",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "canned hershey's syrup",
+        "volume": 1900,
+        "competition": 36
+      },
+      {
+        "keyword": "grenadine homemade",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "hershey's canned syrup",
+        "volume": 1900,
+        "competition": 36
+      },
+      {
+        "keyword": "snow cone syrup recipe",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "caramel coffee syrup recipe",
+        "volume": 1600,
+        "competition": 8
       }
     ]
   },

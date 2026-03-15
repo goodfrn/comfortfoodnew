@@ -1,23 +1,264 @@
 {
   "slug": "crunchy-peanut-bars",
-  "title": "Crunchy Peanut Bars",
-  "seed_keywords": [],
+  "title": "Crunchy Peanut Bars with Corn Flakes",
+  "seed_keywords": [
+    "peanut butter bars",
+    "no bake candy",
+    "marshmallow chocolate treats",
+    "peanut butter chocolate",
+    "corn flakes snacks"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "peanut butter",
-        "volume": 0,
-        "competition": 0
+        "keyword": "reese's peanut butter cups",
+        "volume": 110000,
+        "competition": 69
       },
       {
-        "keyword": "corn flakes",
-        "volume": 0,
-        "competition": 0
+        "keyword": "reeses peanut butter cups",
+        "volume": 110000,
+        "competition": 69
       },
       {
-        "keyword": "marshmallows",
-        "volume": 0,
-        "competition": 0
+        "keyword": "hersheys reeses",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "reese's butter cups",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "reeses peanut cup",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "peanut butter pie",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "scotcharoos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "monster cookies",
+        "volume": 49500,
+        "competition": 17
+      },
+      {
+        "keyword": "pb pie",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "reeses peanut butter puffs",
+        "volume": 49500,
+        "competition": 54
+      },
+      {
+        "keyword": "reeses puffs reeses puffs",
+        "volume": 49500,
+        "competition": 54
+      },
+      {
+        "keyword": "peanut butter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut butter and chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "muddy buddy mix",
+        "volume": 40500,
+        "competition": 14
+      },
+      {
+        "keyword": "peanuts protein",
+        "volume": 40500,
+        "competition": 29
+      },
+      {
+        "keyword": "peanutbutter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate and peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "pb chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut and protein",
+        "volume": 40500,
+        "competition": 29
+      },
+      {
+        "keyword": "buckeye brownie",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "hershey kiss cookies",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "peanut bars",
+        "volume": 22200,
+        "competition": 65
+      },
+      {
+        "keyword": "reese candy",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "peanut butter protein ball",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "take 5 candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "take five candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "peanut butter rice krispie treats",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "hot cocoa marshmallows",
+        "volume": 18100,
+        "competition": 53
+      },
+      {
+        "keyword": "peanut butter rice krispie squares",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter rice krispie bars",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter rice crispy treats",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter rice crispy squares",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "hot chocolate marshmallow",
+        "volume": 18100,
+        "competition": 53
+      },
+      {
+        "keyword": "hot chocolate and marshmallow",
+        "volume": 18100,
+        "competition": 53
+      },
+      {
+        "keyword": "hot cocoa and marshmallows",
+        "volume": 18100,
+        "competition": 53
+      },
+      {
+        "keyword": "pb rice crispy treats",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "pb rice krispie treats",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter krispie treats",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "reese's take 5 candy bar",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "rice crispy bars peanut butter",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter brownie",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "cookies with marshmallows",
+        "volume": 14800,
+        "competition": 79
+      },
+      {
+        "keyword": "marshmallow inside cookie",
+        "volume": 14800,
+        "competition": 79
+      },
+      {
+        "keyword": "nutrio peanut butter",
+        "volume": 14800,
+        "competition": 45
+      },
+      {
+        "keyword": "peanut butter marshmallow squares",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "reese's peanut butter cups calories",
+        "volume": 12100,
+        "competition": 55
+      },
+      {
+        "keyword": "candy with peanut butter",
+        "volume": 12100,
+        "competition": 79
+      },
+      {
+        "keyword": "calories in reeses",
+        "volume": 12100,
+        "competition": 55
+      },
+      {
+        "keyword": "choco butter nut",
+        "volume": 12100,
+        "competition": 1
       }
     ]
   },

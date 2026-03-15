@@ -1,33 +1,264 @@
 {
   "slug": "crunchy-baked-chicken",
-  "title": "Crunchy Baked Chicken Twist",
-  "seed_keywords": [],
+  "title": "Crispy Baked Chicken with Asiago & Breadcrumbs",
+  "seed_keywords": [
+    "baked chicken breast",
+    "crispy chicken coating",
+    "chicken asiago cheese",
+    "breadcrumb crusted chicken",
+    "parmesan crusted chicken"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "baked chicken",
-        "volume": 0,
-        "competition": 0
+        "keyword": "parm chicken",
+        "volume": 368000,
+        "competition": 8
       },
       {
-        "keyword": "crispy chicken",
-        "volume": 0,
-        "competition": 0
+        "keyword": "parmesan cheese chicken recipe",
+        "volume": 301000,
+        "competition": 23
       },
       {
-        "keyword": "marinated chicken",
-        "volume": 0,
-        "competition": 0
+        "keyword": "chicken temperature when cooked",
+        "volume": 246000,
+        "competition": 7
       },
       {
-        "keyword": "breadcrumb crust",
-        "volume": 0,
-        "competition": 0
+        "keyword": "baked chicken breast",
+        "volume": 201000,
+        "competition": 12
       },
       {
-        "keyword": "oven baked chicken",
-        "volume": 0,
-        "competition": 0
+        "keyword": "baked chicken recipes",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "baked chicken breast recipes",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast recipes in oven",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "roasted chicken breast recipe",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "baked chicken breast dishes",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "baked chicken breast ideas",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "baked chicken breast meal",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "parmesan crusted chicken",
+        "volume": 60500,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken breast in oven",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "breast of chicken in oven",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken breast on the oven",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken parmesan crusted chicken",
+        "volume": 60500,
+        "competition": 12
+      },
+      {
+        "keyword": "parmesan cheese crusted chicken",
+        "volume": 60500,
+        "competition": 12
+      },
+      {
+        "keyword": "parmesan crusted chicken parmesan",
+        "volume": 60500,
+        "competition": 12
+      },
+      {
+        "keyword": "oven baked chicken breast",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "make chicken breast in oven",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "making chicken in the oven",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "temperature for chicken breasts",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "cook chicken breast in oven",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "temp of cooked chicken",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken breast recipes ideas",
+        "volume": 33100,
+        "competition": 30
+      },
+      {
+        "keyword": "slow cook chicken breasts",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "oven baked chicken breast recipes",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "baked boneless chicken thighs",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "baked turkey breasts",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "chicken casseroles with stuffing",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "internal temp for roast chicken",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "internal temperature for baked chicken",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "internal temperature roast chicken",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "oven cooked chicken breast recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "oven grilled chicken breast recipes",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "oven roast chicken breast recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "parmesan cheese chicken",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "roasted chicken breast",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "baking chicken tenderloin",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken tender baked",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "parmesan baked chicken recipe",
+        "volume": 22200,
+        "competition": 21
+      },
+      {
+        "keyword": "recipes using chicken fillets",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "cook chicken breast",
+        "volume": 18100,
+        "competition": 47
+      },
+      {
+        "keyword": "best ways to cook chicken breasts",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken breast temperature cooked",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken with panko",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "easy parm chicken recipe",
+        "volume": 18100,
+        "competition": 27
+      },
+      {
+        "keyword": "panko bread crumbs chicken",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "oven baked chicken recipes",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "oven roasted chicken breast",
+        "volume": 14800,
+        "competition": 10
       }
     ]
   },

@@ -1,23 +1,264 @@
 {
   "slug": "cucumber-gin-sparkler",
-  "title": "Cucumber Gin Sparkler",
-  "seed_keywords": [],
+  "title": "Cucumber Gin Sparkler Cocktail Recipe",
+  "seed_keywords": [
+    "cucumber gin cocktail",
+    "gin cocktails summer",
+    "cucumber juice drinks",
+    "elderflower gin fizz",
+    "mint gin sparkler"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "cucumber gin",
-        "volume": 0,
-        "competition": 0
+        "keyword": "cucumber lemonade",
+        "volume": 33100,
+        "competition": 55
       },
       {
-        "keyword": "elderflower tonic",
-        "volume": 0,
-        "competition": 0
+        "keyword": "cucumber juice",
+        "volume": 22200,
+        "competition": 62
       },
       {
-        "keyword": "agave syrup",
-        "volume": 0,
-        "competition": 0
+        "keyword": "pipino juice",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "lemon cucumber water",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon and cucumber water",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber juice drink recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber gin cocktail",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "cucumber gimlet",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "gin cucumber cocktail",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "gin and cucumber cocktail",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "cucumber gin drink",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "cocktail gin cucumber",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "cocktail with gin and cucumber",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "cucumber and gin drink",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "cucumber gimlet cocktail",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber gimlet martini",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "gin cocktails summer",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "summertime gin drinks",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "watermelon cucumber juice",
+        "volume": 2400,
+        "competition": 42
+      },
+      {
+        "keyword": "celery and cucumber juice",
+        "volume": 2400,
+        "competition": 55
+      },
+      {
+        "keyword": "celery cucumber juice",
+        "volume": 2400,
+        "competition": 55
+      },
+      {
+        "keyword": "cucumber and watermelon juice",
+        "volume": 2400,
+        "competition": 42
+      },
+      {
+        "keyword": "cucumber lemon mint water",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "summertime gin cocktails",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "watermelon cucumber mint juice",
+        "volume": 2400,
+        "competition": 42
+      },
+      {
+        "keyword": "cucumber gin and tonic",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "cucumber and lemon juice",
+        "volume": 1900,
+        "competition": 36
+      },
+      {
+        "keyword": "cucumber gin & tonic",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "cucumber juice with lemon",
+        "volume": 1900,
+        "competition": 36
+      },
+      {
+        "keyword": "cucumber tom collins",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "gin and tonic and cucumber",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "gin cucumber tonic",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon cucumber and ginger water",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon juice with cucumber",
+        "volume": 1900,
+        "competition": 36
+      },
+      {
+        "keyword": "lemon with cucumber juice",
+        "volume": 1900,
+        "competition": 36
+      },
+      {
+        "keyword": "apple and cucumber juice",
+        "volume": 1600,
+        "competition": 14
+      },
+      {
+        "keyword": "apple cucumber juice",
+        "volume": 1600,
+        "competition": 14
+      },
+      {
+        "keyword": "cucumber juice for weight loss",
+        "volume": 1000,
+        "competition": 11
+      },
+      {
+        "keyword": "cucumber gimlet recipe",
+        "volume": 880,
+        "competition": 9
+      },
+      {
+        "keyword": "beet and cucumber juice",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "beet cucumber juice",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "beetroot and cucumber juice",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "carrot and cucumber juice",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "cucumber and ginger juice",
+        "volume": 880,
+        "competition": 19
+      },
+      {
+        "keyword": "cucumber gimlet cocktail recipe",
+        "volume": 880,
+        "competition": 9
+      },
+      {
+        "keyword": "cucumber ginger juice",
+        "volume": 880,
+        "competition": 19
+      },
+      {
+        "keyword": "refreshing gin drinks",
+        "volume": 720,
+        "competition": 30
+      },
+      {
+        "keyword": "refreshing gin cocktails",
+        "volume": 720,
+        "competition": 30
+      },
+      {
+        "keyword": "refreshing drinks with gin",
+        "volume": 720,
+        "competition": 30
+      },
+      {
+        "keyword": "cucumber mint juice",
+        "volume": 720,
+        "competition": 14
       }
     ]
   },

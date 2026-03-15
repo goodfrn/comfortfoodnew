@@ -1,23 +1,264 @@
 {
   "slug": "double-dipped-onion-rings",
-  "title": "Double-Dipped Panko Onion Rings",
-  "seed_keywords": [],
+  "title": "Double-Dipped Panko Onion Rings Recipe",
+  "seed_keywords": [
+    "homemade onion rings",
+    "crispy fried onions",
+    "panko breaded vegetables",
+    "double breaded onion rings",
+    "fried appetizers"
+  ],
   "keywords": {
     "all": [
       {
-        "keyword": "onion rings",
-        "volume": 0,
+        "keyword": "french's fried",
+        "volume": 450000,
+        "competition": 18
+      },
+      {
+        "keyword": "french's onions",
+        "volume": 60500,
+        "competition": 14
+      },
+      {
+        "keyword": "lasagna fritta olive garden",
+        "volume": 22200,
         "competition": 0
       },
       {
-        "keyword": "panko breading",
-        "volume": 0,
+        "keyword": "homemade onion ring batter recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "lasagna fritta at olive garden",
+        "volume": 22200,
         "competition": 0
       },
       {
-        "keyword": "frying technique",
-        "volume": 0,
+        "keyword": "homemade onion rings",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "mac and cheese balls",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "home made onion rings recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade onion ring recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "mac & cheese balls",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "mac n cheese ball",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "air fryer mozzarella sticks",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fried mac & cheese balls",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "fried mac n cheese balls",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "easy recipe for onion rings",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "fried mozzarella chili's",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "simple onion rings recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "french's crispy fried onions",
+        "volume": 2400,
+        "competition": 63
+      },
+      {
+        "keyword": "air fryer stuffed mushroom",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy fried onions french's",
+        "volume": 2400,
+        "competition": 63
+      },
+      {
+        "keyword": "stuffed mushroom air fryer",
+        "volume": 1900,
         "competition": 0
+      },
+      {
+        "keyword": "breaded mozzarella sticks",
+        "volume": 1600,
+        "competition": 54
+      },
+      {
+        "keyword": "deep fried onion",
+        "volume": 1600,
+        "competition": 22
+      },
+      {
+        "keyword": "french's crispy fried onions original",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "frenchs original crispy fried onions",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "onion deep fry",
+        "volume": 1600,
+        "competition": 22
+      },
+      {
+        "keyword": "crispy onions tesco",
+        "volume": 1300,
+        "competition": 78
+      },
+      {
+        "keyword": "fried mac and cheese bites",
+        "volume": 1300,
+        "competition": 25
+      },
+      {
+        "keyword": "fried mac & cheese bites",
+        "volume": 1300,
+        "competition": 25
+      },
+      {
+        "keyword": "mac n cheese bites fried",
+        "volume": 1300,
+        "competition": 25
+      },
+      {
+        "keyword": "stuffed mushroom in air fryer",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "french's french fried onions",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "air fry homemade onion rings",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "air fryer homemade onion rings",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "air frying mozzarella sticks",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "fried onion in air fryer",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade onion rings air fryer",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade onion rings in air fryer",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "air fryer appetizers",
+        "volume": 880,
+        "competition": 34
+      },
+      {
+        "keyword": "air fry crispy onions",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "air fryer crispy onion",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "healthy air fryer snacks",
+        "volume": 720,
+        "competition": 40
+      },
+      {
+        "keyword": "best recipe for onion rings",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "crispy onion air fryer",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy onions air fryer",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "deep fried mozzarella sticks",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "fried appetizers",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "durkee fried onions",
+        "volume": 590,
+        "competition": 67
+      },
+      {
+        "keyword": "baked brie air fryer",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "best fried onions",
+        "volume": 590,
+        "competition": 17
       }
     ]
   },
