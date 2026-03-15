@@ -1,9 +1,9 @@
 ---
-title: "Blueberry Spinach Smoothie with Prickly Pear"
+title: "Blueberry Spinach Smoothie with Greek Yogurt"
 slug: "blueberry-spinach-shake"
-description: "5-minute blueberry spinach smoothie with frozen berries, Greek yogurt, and prickly pear juice. Creamy, packed with antioxidants, ready in one blender."
-metaDescription: "Blueberry spinach smoothie recipe with prickly pear juice. Creamy, nutrient-dense, and ready in 5 minutes. Make it tonight."
-ogDescription: "Quick blueberry spinach smoothie with a prickly pear twist. Frozen berries, Greek yogurt, banana, and almond milk blended smooth."
+description: "Make a blueberry spinach smoothie in 5 minutes with frozen blueberries, fresh spinach, banana, and Greek yogurt. Creamy and nutrient-packed."
+metaDescription: "Blueberry spinach smoothie recipe made with frozen blueberries, fresh spinach, banana, and Greek yogurt. Packed with antioxidants. Make it tonight."
+ogDescription: "Creamy blueberry spinach smoothie with frozen berries, banana, and Greek yogurt. Ready in 5 minutes. Save this one."
 focusKeyphrase: "blueberry spinach smoothie"
 date: 2026-02-12
 draft: false
@@ -23,9 +23,16 @@ tags:
 keywords:
 - "blueberry spinach smoothie"
 - "spinach and blueberry smoothie"
+- "banana blueberry and spinach smoothie"
+- "smoothie with blueberries and spinach"
 - "blueberry spinach smoothie recipe"
-- "banana blueberry spinach smoothie"
-- "berry spinach smoothie"
+- "berry spinach smoothie recipe"
+- "smoothie blueberry banana spinach"
+- "banana berries spinach smoothie"
+- "Greek yogurt smoothie"
+- "healthy blueberry smoothie"
+- "frozen blueberry smoothie"
+- "green smoothie with berries"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "140"
@@ -69,3 +76,67 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in sealed container. Separation happens fast. Shake vigorously before serving again. Consume within 24 hours for best color and flavor. Can freeze but texture changes; blend again after thawing to re-incorporate."
 
 ---
+
+Toss the spinach in first—it locks down, keeps the leaves from flying around the blender later. Frozen blueberries go next. They stay icy, won't water it down right away. Banana, Greek yogurt, almond milk, that prickly pear juice for color and weird sweetness. Five minutes total. Done.
+
+## Why You'll Love This Spinach and Blueberry Smoothie
+
+Tastes like berry, not like you're drinking a salad. Spinach disappears.
+Takes 5 minutes if you don't overthink it. Prep is almost nothing.
+Cold and thick. Stays cold because frozen blueberries. Stays thick because Greek yogurt actually works.
+Works for breakfast, snack, post-workout thing. Whatever you call it at 6 a.m.
+Leftovers in the fridge work cold the next day. Not ideal. Not bad either.
+
+## What You Need for a Smoothie With Blueberries and Spinach
+
+Fresh spinach. Two cups. The tender stuff, not the thick-ribbed kind. Frozen blueberries—a cup and a half. Don't thaw them. They keep it icy. Banana. One and a quarter. Overripe is sweeter but mutes the berry. Pick something in between. Unsweetened almond milk. A cup and a half. Oat milk works too. Coconut tastes off with the prickly pear. Greek yogurt. Half a cup. Plain. The creamy stuff makes it dense. Too much clumps. Prickly pear juice. A quarter cup. Not the syrup. The juice. Swapped it in for the usual fruit juice because it's subtle, weird in a good way, makes the color darker.
+
+## How to Make a Smoothie With Spinach and Blueberries
+
+Spinach goes in first. This matters. Toss it in, let the blender grip it before you add anything wet. Frozen blueberries next. Pour the almond milk after. Watch how thick it looks. Greek yogurt goes last—dollop it in. Then the prickly pear juice. Close the lid.
+
+Pulse on low for 10 seconds. Just a second. Gets the spinach moving without turning it into pulp. Then high for 25 to 30 seconds. Listen. The hum changes when it gets thicker. When you hear that, you're close.
+
+Stop. Open it. Stir if there are chunks stuck to the side. Blend a few more seconds if it's chunky. If it's thin, add three or four ice cubes. Or more frozen blueberries. Works either way.
+
+## How to Get the Texture Right on a Banana Blueberry and Spinach Smoothie
+
+Should coat a spoon but still pour. Not pudding. Not juice. Somewhere in between. The berry and spinach smoothie thickens fast once frozen fruit hits the blender, so watch it. If you blend too long it gets gluey. Not good.
+
+Taste it before serving. Berry tang should hit first. Banana sweetness underneath, not on top. If it tastes flat, pinch of cinnamon fixes it. If it needs brightness, squeeze of lime. Half a second of lime juice. Not more. Too much turns it sour and weird.
+
+Serve right away. Color dulls if you wait. The spinach oxidizes. It still tastes fine but looks gray instead of purple-green.
+
+## Smoothie With Blueberries and Spinach Tips and Common Mistakes
+
+Don't thaw the blueberries first. Everyone thinks they should. They shouldn't. Thawed berries turn to mush, water everything down. Frozen keeps structure, keeps it cold.
+
+Spinach amount feels like a lot. It's not. Melts into nothing once it hits the blender with liquid. Can't taste it.
+
+Greek yogurt clumps if you blend it too long on high. Add it last. Pulse it in. The banana smoothie and spinach thing gets creamy without the yogurt turning grainy.
+
+Prickly pear juice—get the actual juice, not the concentrate syrup. Concentrate is too sweet, too intense. The juice is bright, subtle, works with the berry.
+
+If you make this and it's too thick, add milk. A quarter cup at a time. Blender on low. If it's too thin, frozen berries work better than ice. Ice dilutes as it melts.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Blueberry and Spinach Smoothie
+
+**Can I use fresh blueberries instead of frozen?**
+No. Fresh berries turn to mush. Texture goes soupy. Frozen keeps it thick and cold.
+
+**What if I don't have prickly pear juice?**
+Orange juice works. Apple juice works but tastes more boring. Lime juice makes it too sharp. Haven't tried cranberry. Maybe that.
+
+**Does the spinach actually disappear?**
+Yeah. Melts into the liquid. You don't taste it at all. The blueberry dominates. That's the whole point.
+
+**Can I make this the night before?**
+Sort of. Tastes fine cold the next day but the color goes gray. Oxidation. Still drinkable. Not pretty.
+
+**How much does this make?**
+About 16 ounces. One big drink or two small ones. Depends on your glass.
+
+**Can I use frozen spinach instead of fresh?**
+Don't bother. It breaks down weird. The texture turns slimy. Fresh spinach is two minutes in the produce aisle.
