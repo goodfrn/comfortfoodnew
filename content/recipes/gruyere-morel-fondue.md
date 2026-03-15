@@ -1,10 +1,10 @@
 ---
-title: "Gruyère Morel Fondue"
+title: "Gruyère Morel Fondue with Pinot Gris"
 slug: "gruyere-morel-fondue"
-description: "Rich melty gruyère melds with rehydrated morels in white wine. Garlic-rubbed pot, cornstarch binds cheese and wine. Dip crisp bread cubes. Fewer morilles, swapped for fresh shiitakes; pinot gris for riesling. Tweaked timing; aroma signals readiness. Rustic, earthy, tangy. Wine soaking revives mushrooms, boosts depth. Stir constant; cheese strings summon patience. Caquelon sizzles softly, bubbles whisper doneness. Perfect crust? Avoid grit. Garlic rub essential; no bitterness. Long steep morilles, not mushy. Quick preheat, low simmer. Chunky bites soak, smile guaranteed. Refined simplicity with umami punch. Tested, toasted, and tasted—never bland."
-metaDescription: "Gruyère melds with soaked morels, slow melted in white wine. Rustic bread for dipping. Garlic-rubbed pot, cornstarch binds cheese and wine for smooth texture. 6 servings."
-ogDescription: "Earthy morels soaked in white wine, stirred into melty gruyère fondue. Low heat, garlic aroma, rustic bread cubes for dipping. Texture cues lead to readiness."
-focusKeyphrase: "Gruyère Morel Fondue"
+description: "Gruyère morel fondue blends creamy melted cheese with rehydrated dried morels in pinot gris white wine. Garlic-rubbed pot, cornstarch thickener, rustic bread cubes for dipping."
+metaDescription: "Gruyère morel fondue recipe: creamy cheese, dried morels, pinot gris wine, garlic, cornstarch, and crusty bread cubes. Make it tonight."
+ogDescription: "Creamy gruyère fondue with earthy dried morels and pinot gris. Garlic-rubbed pot, cornstarch binding, perfect bread cubes for dipping."
+focusKeyphrase: "gruyère morel fondue"
 date: 2025-08-11
 draft: false
 image: gruyere-morel-fondue.jpg
@@ -21,9 +21,16 @@ tags:
 - "appetizer"
 - "party"
 keywords:
-- "gruyère fondue"
-- "morels"
-- "cornstarch fondue"
+- "gruyère morel fondue"
+- "cheese fondue"
+- "morel mushroom fondue"
+- "white wine fondue with gruyère"
+- "mushroom fondue"
+- "party fondue recipe"
+- "fondue with dried morels and pinot gris"
+- "pinot gris fondue"
+- "crispy bread cubes fondue dipping"
+- "garlic fondue recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "450"
@@ -62,3 +69,91 @@ faq:
 - "q: How to store leftovers? a: Fondue can be refrigerated in airtight container for 1-2 days. Reheat on low with splash of wine to loosen. Avoid microwave or high heat to prevent cheese seizing. Reheat slow, stir often."
 
 ---
+
+Soak the morels in wine first — 35 minutes, while you prep everything else. They go plump but keep that chewy thing going. Don't skip this.
+
+## Why You'll Love This Cheese Fondue
+
+It's basically a party in a pot. One burner, people gathered around, bread going in and out. No fussing with individual plates.
+
+Morels change everything about cheese fondue. Not the store-bought button mushroom vibe. These taste smokey, earthy, like the forest decided to show up. Dried ones work better than fresh — more concentrated flavor.
+
+Setup takes 20 minutes. Actual cooking is maybe 18. People eat for an hour. The math works.
+
+Gruyère matters here, not a substitution situation. Melts smooth, doesn't get oily, tastes nutty in a way that plays off the morels without fighting them.
+
+Cold wine sitting in the pot from the soak — that's half your liquid already done. One less thing.
+
+## What You Need for Mushroom Fondue
+
+Twenty grams of dried morels. Rinse them, don't soak yet — that comes next. The wine does the soaking.
+
+Pinot gris or chasselas. Dry white, not sweet. About 260 milliliters. Gruyère comes next — 600 grams, grated before you start. Pre-grated melts weird. Grate it yourself.
+
+Cornstarch. Twenty-five milliliters. Coats the cheese so it doesn't clump when it hits the heat. Works. Arrowroot powder does the same thing if you have it.
+
+One garlic clove, halved. A loaf of rustic bread — something that holds together. Cut into cubes. You'll want about that much bread. Maybe more.
+
+## How to Make Cheese Fondue With Morels
+
+Soak the morels in the wine. Thirty-five minutes. They soften, expand, let the wine get this golden-brown thing going. Leave them in there — that liquid is going straight into the fondue.
+
+While that happens, grate your gruyère. Toss it with the cornstarch. Mix it hard. Separate every clump. This keeps the cheese smooth instead of grainy, instead of turning into one mass of stringy sadness.
+
+Rub the inside of your fondue pot with the garlic halves. Both sides, all over the bottom. Then leave them in there. Creates this background flavor that doesn't scream garlic. If you hate it, pull them out before the cheese goes in.
+
+## How to Get Creamy Cheese Fondue Texture
+
+Off heat. This matters. Pour the wine with the morels into the pot. Add the grated gruyère. Turn the heat to low. This is the opposite of rushing it.
+
+Stir constantly. Watch it the whole time. It should go from separated, chalky-looking stuff to smooth and glossy. Gentle bubbles on the edges. Not boiling. Not even close to boiling. Boiling breaks the cheese, separates the fat, ruins it.
+
+Takes maybe 8 minutes. Maybe 10. Depends on your stove. When the cheese is almost fully melted — still a tiny bit grainy looking — throw in the sliced morels. They went from soaking to plump. Stir them in. Their flavor blooms here, mushroomy and dark against the mild cheese.
+
+Transfer the pot to the burner you're using for serving. Keep it on low. It should jiggle a little when you shake it. Not solid. Not soup. That middle thing.
+
+If it thickens too much as people eat — and it will, because things cool down — splash some of the leftover wine in. Loosen it up. Stir.
+
+## Cheese Fondue Tips and Common Mistakes
+
+Start with hot bread or cold bread — doesn't matter much. Some people like it toasted for texture contrast. Works either way.
+
+Don't stir your bread in the pot. Spear it, dip it, pull it out. Keeps the fondue clean.
+
+Morels have grit sometimes. Rinse them before soaking. Not with soap — just water. Some people are weird about this. Doesn't hurt.
+
+Wine choice actually matters. Pinot gris gives you brightness. Chasselas is rounder, slightly sweet. Not a huge difference but noticeable. Don't use something heavy or oaky.
+
+Cleanup: soak the pot in hot water immediately. Cheese hardens like concrete if you let it sit. Five minutes in hot water and it comes clean.
+
+White wine fondue with gruyère gets better with aged cheese, not younger stuff. The nuttiness comes through. Younger gruyère tastes milky by comparison.
+
+Bread cubes can be done the day before. Just keep them in a bag so they don't stale too much. Room temperature bread works fine.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Gruyère Fondue With Morels
+
+**Can you use fresh morels instead of dried?**
+Not the same thing. Fresh ones are too watery. They dilute the flavor and make the fondue thin. Dried concentrate everything. That's the whole point.
+
+**What if the fondue breaks and gets oily?**
+Heat was too high, or you didn't stir enough. It happens. Scrape it into a new pot if you have one, start over with lower heat. If you don't have another pot — take the loss. Next time slower.
+
+**Can you make this ahead?**
+Soak the morels whenever you want. That part's fine. The actual fondue has to happen right before people eat. Cheese seizes up when it cools.
+
+**What bread works best for dipping?**
+Rustic, chewy stuff. Baguette, sourdough, focaccia. Soft bread falls apart in the fondue. Dense bread holds together. That matters.
+
+**How much wine do you actually need?**
+The 260 milliliters is exact. Don't try to wing it. Too little and it's thick and gluey. Too much and it's soup. It's a narrow window.
+
+**Is this actually an appetizer or more of a main thing?**
+Appetizer technically. But people eat a ton of bread. Could be dinner if you serve it with a salad and call it good. Works as a party starter, definitely.
+
+**What if you don't have a fondue pot?**
+Use a heavy-bottomed pot. Don't transfer it to a burner — just keep it on the stove at the lowest possible heat. It won't be as dramatic but it works fine.
+
+**Why cornstarch and not flour?**
+Flour makes it cloudy. Cornstarch stays clear. Also doesn't have the raw flour taste if something goes wrong. Cleaner.
