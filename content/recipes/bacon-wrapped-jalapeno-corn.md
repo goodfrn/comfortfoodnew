@@ -1,9 +1,9 @@
 ---
-title: "Bacon Wrapped Corn on the Cob with Jalapeño"
+title: "Bacon Wrapped Corn On The Cob Recipe"
 slug: "bacon-wrapped-jalapeno-corn"
-description: "Corn on the cob wrapped in crispy bacon with jalapeño heat and fresh herbs. Grilled until the fat renders and sizzles. Learn the technique that keeps it tender."
-metaDescription: "Bacon wrapped corn on the cob with jalapeño peppers, fresh herbs, and smoky paprika. Grilled until crispy. Try it tonight."
-ogDescription: "Corn wrapped in bacon and jalapeño. Grilled until the fat renders and the heat balances the sweet. Simple and smoky."
+description: "Bacon wrapped corn on the cob with jalapeño slices and fresh basil, grilled until crispy. This easy grilling recipe keeps corn tender while rendering bacon fat perfectly."
+metaDescription: "Bacon wrapped corn on the cob with jalapeño peppers and basil. Grilled to crispy perfection. Try it tonight."
+ogDescription: "Crispy bacon-wrapped corn with jalapeños and fresh basil. Grilled until the bacon sizzles and corn stays tender."
 focusKeyphrase: "bacon wrapped corn on the cob"
 date: 2025-12-14
 draft: false
@@ -23,9 +23,12 @@ tags:
 keywords:
 - "bacon wrapped corn on the cob"
 - "bacon wrapped corn"
-- "grilled corn recipes"
-- "jalapeño corn"
-- "grilled bacon corn"
+- "grilled corn on the cob"
+- "bacon corn recipe"
+- "how to grill corn"
+- "jalapeño corn recipe"
+- "herb grilled corn"
+- "crispy bacon corn"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "940"
@@ -72,3 +75,100 @@ faq:
 - "q: Best way to store leftover bacon wrapped corn? a: Wrap tight in plastic wrap, refrigerate max 2-3 days. Reheat gently on grill or low oven ensuring bacon doesn’t burn reheating quicker than corn warms. Can freeze before grilling but texture changes. Avoid microwaving or high heat that toughens bacon and mushes corn."
 
 ---
+
+Bacon strips overlapping, flattened into one layer, jalapeños scattered across, basil tucked in. Roll it tight around the corn. Twenty minutes on the grill and you've got something that tastes like summer got wrapped up and grilled.
+
+## Why You'll Love This Bacon Wrapped Corn
+
+Doesn't take long. Fifteen minutes of prep, twenty on the grill. Done.
+
+Bacon gets actually crispy — not chewy, not floppy. The flattening thing works. The fat renders slow and even, and you end up with edges that snap when you bite them.
+
+Jalapeños do something interesting here. Heat sits there at the back of your throat after the sweet corn and smoke fade. Not overwhelming. Just present.
+
+Works as a summer side or honestly as the main thing if you're eating outside and don't care about much else. Grilling season food. The kind of thing people actually want seconds of.
+
+## What You Need for Bacon Wrapped Corn
+
+Bacon. The good stuff. Six to seven slices per ear, about a pound and a half total. Cheaper bacon's too thin — falls apart when you flatten it. Doesn't have to be fancy. Just thick enough to hold.
+
+Corn. Husked. Four ears. Fresh matters. The sugar hasn't converted to starch yet, which is the whole point.
+
+Kosher salt and black pepper. A teaspoon of salt, half a teaspoon of pepper. Goes on the bacon raw so the seasoning starts working before it hits heat.
+
+Smoked paprika. A teaspoon. That's it. Adds color and a whisper of smoke before the grill even starts.
+
+Fresh basil. Chopped. A quarter cup total — about a tablespoon per ear. Cuts through the heaviness. Jalapeños would be too much on their own.
+
+Jalapeños. Two peppers, sliced thin. You only use about half of them across all four ears. More if you want it spicy, less if you're cooking for people who think salt is too intense.
+
+Oil for the grill grates. Doesn't matter which kind. Just something with a high smoke point that keeps things from sticking.
+
+## How to Make Bacon Wrapped Corn
+
+Get two sheets of plastic wrap. Lay them flat. Start arranging bacon strips on the bottom sheet overlapping them lengthwise — each new strip covers about a third of the one before it. You're building a rectangle that's the width of an ear of corn.
+
+Put the second sheet on top. Now pound it. Meat mallet, rolling pin, whatever you have. Go even across the whole thing. You're not trying to pulverize it. You're meshing the strips together so they act like one piece when you roll it. Takes a minute or two.
+
+Peel off the top plastic. The bacon should hold together now.
+
+Season the bacon while it's still flat. Salt. Pepper. Smoked paprika. Spread it even. The raw bacon absorbs the spices and they infuse the fat as it renders later.
+
+Lay jalapeño slices across the bacon lengthwise — spaced out so you get some in each bite but it's not overwhelming. About half of two peppers spread across all four ears. Adjust based on how much heat your people can handle.
+
+Sprinkle basil on top. Around a tablespoon per ear. Tear it a little if you want. Doesn't have to be perfect.
+
+## How to Crisp the Bacon on the Grill
+
+Place one ear of corn at the edge of the bacon closest to you. Use the plastic wrap underneath to guide it — grab the wrap and roll tight. You're wrapping the bacon around the corn. Not crushing it. Just tight enough that it stays.
+
+Wrap the whole thing in the plastic again. Stick it in the fridge. You can cook it right away but waiting — even a couple hours — lets the bacon stiffen up and the flavors settle into the corn. Up to eight hours if you're planning ahead.
+
+Heat the grill to medium-low. Around 290 to 340 degrees. Low heat is the thing here. You want the fat to render slowly and crisp up without the outside charring before the inside finishes.
+
+Oil the grates. Really oil them. Bacon sticks if you don't.
+
+Unwrap the corn carefully. Place each one seam side down first — that seals the edges and keeps everything from unraveling. If you've got a top rack on your grill, use it. Turn once halfway through. No top rack means turning every five or six minutes — a quarter turn each time. You're keeping the heat even so the bacon crisps uniform.
+
+Listen for the crackles. That sound is the fat breaking down. Watch for translucent fat that starts looking bubbly and a little darker at the edges. The smell shifts from raw pork to smoky and sweet with jalapeño cutting through.
+
+Twenty to twenty-five minutes total. The bacon should be reddish-brown at the edges with darker flecks scattered through. Tender. Crispy. Corn gives slightly when you press it with your finger but holds its shape. Not mushy.
+
+Pull it off and let it rest five minutes. The fat redistributes and the bacon stays crispy when you cut into it, not soggy.
+
+## Bacon Wrapped Corn Tips and Common Mistakes
+
+The flattening step matters. A lot. A lot a lot. Don't skip it. Whole bacon slices that just wrap around the corn stay chewy in the middle and crispy on the outside and it's two textures fighting each other. Flattened bacon renders evenly and becomes one thing.
+
+Medium-low heat is non-negotiable. Charred bacon is not good bacon. Neither is raw bacon with a burnt exterior. Slow heat wins.
+
+Seam side down first. That's where all the jalapeños and basil and seasoning are packed. Starting seam side down seals it against the grill so nothing falls out. Then you can flip it around however you want after that initial sear.
+
+Don't skip the rest. Five minutes sounds nothing but it actually matters. The corn finishes cooking from residual heat and the bacon fat firms up enough to stay crispy instead of weeping all over your plate.
+
+Lime or cotija cheese at the end changes the whole thing. Lime brightens it. Cotija adds salt and tang. Neither is necessary. Both are options.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Bacon Wrapped Corn
+
+**Can I prep this the night before?**
+Yes. Wrap it in plastic and stick it in the fridge up to eight hours. The bacon gets stiff, the flavors settle into the corn. Actually better than cooking right away.
+
+**What if I don't have a meat mallet?**
+Rolling pin works. Heavy can works. Bottom of a skillet. Anything flat and heavy. The goal is mashing the bacon strips together, not destroying them.
+
+**Can you make this without jalapeños?**
+Yeah. Basil and bacon is already good. Skip the heat if that's not your thing.
+
+**How crispy does the bacon actually get?**
+Actually crispy. Like snaps-when-you-bite-it crispy. Not like eating a chip, but not floppy. The flattening and the slow heat are why it works.
+
+**What heat setting if I don't have a thermometer?**
+Medium-low. You want to be able to hold your hand over the grates for five or six seconds comfortably. Not hot enough to sear, hot enough to cook slow.
+
+**Does the basil cook into the corn or stay fresh?**
+Bit of both. It wilts against the heat and blends with the bacon fat and corn, but it stays green and you get little pockets of fresh basil flavor. That's the point.
+
+**Can you grill these on a gas grill instead?**
+Same thing. Heat to medium-low, oil the grates, same timing. Gas or charcoal doesn't matter as long as the temp stays even and medium-low.
