@@ -1,9 +1,9 @@
 ---
-title: "Make Sweet Iced Tea at Home"
+title: "Make Sweet Iced Tea with Loose Black Tea"
 slug: "chill-brewed-sweet-tea"
-description: "Cold brew sweet tea without gritty syrup. Slow-steeped loose leaf with lemon for balanced flavor. Learn the technique that keeps it smooth."
-metaDescription: "Make sweet iced tea with cold steeping method. No grainy syrup, smooth flavor, fresh citrus balance. Try it tonight."
-ogDescription: "Cold brew sweet tea that stays smooth. Loose leaf, slow steeped, lemon-balanced. No gritty mess."
+description: "Make sweet iced tea with loose black tea and lemon using cold brewing. Dissolve cane sugar slowly for smooth, gritty-free flavor every time."
+metaDescription: "Make sweet iced tea with loose black tea and cane sugar using cold brewing method. No gritty syrup, perfect lemon balance. Try it tonight."
+ogDescription: "Cold-brewed sweet iced tea with loose black tea, cane sugar, and fresh lemon. Smooth, refreshing, and so easy to make."
 focusKeyphrase: "make sweet iced tea"
 date: 2026-02-12
 draft: false
@@ -23,9 +23,10 @@ tags:
 keywords:
 - "make sweet iced tea"
 - "brew sweet tea"
-- "cold brew sweet tea"
-- "homemade iced tea"
-- "loose leaf sweet tea"
+- "sweet iced tea recipe"
+- "cold brew tea"
+- "loose leaf iced tea"
+- "homemade sweet tea"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "370"
@@ -65,3 +66,71 @@ faq:
 - "q: How to store leftover tea? a: Keep sealed jar or pitcher in fridge. Stir before serving; syrup settles. Use within 24-48 hours best. Avoid reheating or warming repeatedly; tea dulls. Ice it just before drinking for best taste."
 
 ---
+
+Twelve hours in the fridge. That's how long it takes to turn tea bags into something actually worth drinking. Cold brewing kills the bitterness that hot water leaves behind — the thing that makes store-bought iced tea taste like it's been sitting in a truck bed.
+
+## Why You'll Love This Homemade Sweet Iced Tea
+
+Takes 10 minutes to set up. The rest is just time.
+Tastes like summer in a glass — lemon, sweetness, that specific kind of cold that only happens overnight.
+No bitter bite. Not like the hot-brewed stuff. Smooth all the way through.
+Works for a crowd or just one person drinking it all week. Lasts days if you keep it sealed.
+Costs almost nothing. Black tea, sugar, lemon. That's it. Way cheaper than anything bottled.
+
+## What You Need for Homemade Sweet Iced Tea
+
+Seven and a half cups of cold water. That exact amount. More water makes it taste watered down, less makes it too strong and weird.
+
+Two teaspoons of loose black tea in an infuser. Better than bags. The leaves expand properly and you actually taste the tea instead of the paper. A mesh ball works. A clip infuser. String tied around loose leaves works fine too.
+
+Half a cup of water for the syrup — just for heating, nothing fancy. Cane sugar instead of regular white sugar. Tastes less harsh, dissolves smoother. Three quarters of a cup total.
+
+Lemon wedges at the end. Not before. After.
+
+## How to Brew Sweet Iced Tea Cold
+
+Pour the seven and a half cups into a pitcher with a lid. Has to have a lid or you're just making room-temperature tea. Drop the infuser full of loose tea in there. Make sure it's sealed tight so nothing falls out when you move it around.
+
+Straight into the fridge. Twelve hours minimum. Around 11 to 12 hours is the actual sweet spot — the tea blooms slow, releases all the flavor without any of that sharp bitter taste that hot water gets. You'll smell it getting darker, richer, deeper. That's how you know it's working.
+
+## How to Get the Syrup Right and Finish the Tea
+
+Heat the half cup of water until it's just barely simmering — bubbles teasing the surface, not a rolling boil. Take it off heat. Don't overthink this part.
+
+Stir the cane sugar in while it's hot. Keep stirring until you can't see any grains left at the bottom. Should be completely clear and smooth. If you skip this step and dump it in cold, you're just making sweet water with sugar chunks floating around.
+
+Pull the pitcher out of the fridge. Squeeze the infuser gently if tea got stuck, then pull it out. If you see loose bits floating — happens sometimes — strain the whole thing through a fine sieve. Once is usually enough. Twice if it's cloudy.
+
+Pour the syrup into the cold tea. Stir it hard until it mixes all the way through. Taste it. If it's too sweet, add water. If it's not sweet enough, make more syrup and add that. It's not complicated.
+
+## Sweet Iced Tea Tips and What Goes Wrong
+
+Ice. Use a lot of it. Not watered-down tea. The syrup method means the sugar dissolves into the cold tea instead of just sitting on ice waiting to melt, so it actually stays balanced.
+
+The lemon wedges. Squeeze them in or just drop them in. Both work. Adds a brightness that cuts through all the sweetness and makes you actually taste the tea underneath.
+
+Leftover tea lasts for days if you keep it sealed and chilled. Stir before you pour — sometimes the sweetness settles weird at the bottom.
+
+Never use hot water to brew this. Hot brewing brings out tannins and bitter notes. That's the whole point of cold brewing. Patience does the work instead of heat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Sweet Iced Tea
+
+**Can I use tea bags instead of loose tea?**
+Yeah. Just use three or four instead of two teaspoons. The bags work the same way, just less elegant. And fish them out carefully so you don't tear them open at the bottom.
+
+**How long does it actually keep?**
+Five days if it's sealed in the fridge. After that it tastes off somehow. Not bad, just flat. Better to make a new batch.
+
+**What if I don't have 12 hours?**
+Six hours minimum. Not ideal. You'll get some bitterness back. But it works. Hot water is worse.
+
+**Can I add more lemon juice instead of wedges?**
+Sure. Fresh lemon juice works. Bottled tastes like plastic. Fresh or nothing.
+
+**Should I make the syrup ahead?**
+Yeah, actually. Cool syrup keeps in a jar for weeks. Just add it to cold tea whenever you want a glass. Faster that way.
+
+**What black tea works best?**
+Any black tea honestly. Doesn't have to be fancy. Assam, Ceylon, whatever's cheap. The cold brewing makes everything taste better than it probably tastes hot.
