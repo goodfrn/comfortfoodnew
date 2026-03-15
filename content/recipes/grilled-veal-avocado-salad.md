@@ -1,10 +1,10 @@
 ---
-title: "Grilled Veal with Avocado Beet Salad"
+title: "Grilled Veal Chops with Beet & Avocado"
 slug: "grilled-veal-avocado-salad"
-description: "Grilled veal chops paired with a vibrant beet and avocado salad. Mayonnaise herb sauce blends chives and tarragon for a zingy punch. Beets steamed in foil on low heat for tenderness while veal sears on hot grill. Tossed with butter lettuce and roasted pepitas for crunch. Adjust cooking by visual cues rather than strict timing. Dairy and gluten free, swapping Dijon for whole grain mustard, arugula replaces Boston lettuce for a peppery twist."
-metaDescription: "Grilled veal chops with avocado beet salad, herb mayo, and crunchy seeds. Watch for grill marks, steam beets just right, and rest meat to lock juices."
-ogDescription: "Sear veal chops on hot grill, steam thin beet slices in foil, toss with arugula avocados. Herb mayo ribbons and toasted seeds finish bold flavors."
-focusKeyphrase: "grilled veal with avocado beet salad"
+description: "Grilled veal chops topped with herb mayonnaise made from chives and tarragon, served over beets and creamy avocado. Arugula and roasted pepitas add crunch and nutrition."
+metaDescription: "Grilled veal chops with tarragon herb mayonnaise, fresh avocado, steamed beets, and arugula salad. Make it tonight."
+ogDescription: "Juicy grilled veal chops with creamy avocado, roasted pepitas, and a zesty tarragon herb sauce."
+focusKeyphrase: "grilled veal chops"
 date: 2025-08-14
 draft: false
 image: grilled-veal-avocado-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "healthy"
 - "summer"
 keywords:
-- "veal chops"
-- "beet salad"
-- "herb mayonnaise"
+- "grilled veal chops"
+- "veal chops with herb mayonnaise sauce"
+- "grilled veal with avocado beet salad"
+- "bone-in veal chops"
+- "veal recipes"
+- "summer grilling"
+- "healthy veal salad"
+- "grilled veal dinner"
+- "tarragon mayonnaise"
+- "avocado beet salad"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -85,3 +92,102 @@ faq:
 - "q: How store leftovers? a: Keep veal sealed wrapped in foil or airtight container, fridge up to 2 days. Beet salad separate container, avocado best fresh but if leftover, sprinkle lemon juice to slow browning. Mayo sauce in jar sealed, fridge. Reheat veal gently low heat or room temp slices to keep texture. Avoid microwaving hot; dries meat fast. Salad best fresh but chilled covered fine few hours."
 
 ---
+
+Set the grill hot. Really hot. The veal comes after, but grill heat matters more than anything else. Bought four bone-in chops at the butcher—maybe three quarters of an inch thick, which is exactly right—and thirty minutes later had a summer dinner that tastes like someone who knows what they're doing made it. Wasn't complicated. Just needed the grill ready before the meat touched it.
+
+## Why You'll Love This Grilled Veal
+
+Forty minutes total. Fifteen of those are actually cooking. Rest is setup and it's not even hard setup.
+The veal grills fast—4 to 5 minutes per side—so the meat stays juicy instead of drying out on a hot grate for twenty minutes like chicken does.
+Beets steam in foil packets on the cool side of the grill, so you're using both zones at once. One grill does everything.
+Herb mayonnaise goes on the meat before grilling. Then you use the rest cold as a drizzle. Two jobs, one sauce.
+Cold salad, warm veal. Avocado, peppery arugula, earthy beets, nutty seeds. Those textures actually work together.
+Summer grilling, but it's not just throwing meat on fire. There's something here.
+
+## What You Need for Grilled Veal Chops with Beet Salad
+
+Mayonnaise. Half a cup. Not the light kind. The real stuff.
+Chives and fresh tarragon. Both. Tarragon tastes like nothing dried. Don't bother.
+Whole grain mustard. The kind with visible seeds. Dijon is boring next to it.
+Lemon juice. Fresh. Bottled changes everything.
+Four veal chops. Bone-in. Ask the butcher to cut them about three quarters of an inch thick. That's the thickness that doesn't dry out.
+Medium red beets. Two. A mandoline gets them thin. A knife works if you're patient.
+Extra virgin olive oil for the beets. Not the cheap stuff. Use the good one.
+Arugula instead of lettuce. Peppery. Holds up to warm meat without wilting into nothing.
+Two avocados. Ripe but not brown inside. Slice them last minute.
+Roasted pumpkin seeds. Third of a cup. They stay crunchy in the salad.
+Pine nuts optional. Toasted. Adds a weird richness if you go that direction.
+
+## How to Make Grilled Veal Chops
+
+Start with the herb mayo because it needs time to sit cold. Pulse the mayo with chopped chives, tarragon, whole grain mustard, and lemon juice in a food processor or with an immersion blender. Pulse means pulse—five or six times, not until it's baby food. You want the herbs visible, not a green paste. Salt it. Pepper it. Split it in half. One half goes in the fridge right now. Don't touch it until the meat's almost done. The other half is going on the veal in about two minutes.
+
+Get the grill going on high. Actually hot. Leave it running empty for a few minutes. Oil the grate—one side heavily. This is the side the veal touches. Oil prevents sticking. Oil also creates those marks everyone wants.
+
+Smear the warm herb mayo—the half you didn't refrigerate—all over the veal chops. Be generous. Not so much it drips off, but visible. Salt and pepper the meat directly. Set it aside on a plate. The grill's still heating. Let it.
+
+While the grill's doing that, foil packets for the beets. Two big sheets of foil. Lay thin beet slices in the center of each. Drizzle olive oil over them. Salt. Pepper. Fold the foil tight—like you're trapping something. That trapped air becomes steam.
+
+The grill's hot now. Turn one side down to low. Leave the other half high and oiled. This is the setup. High side for the veal. Low side for the beets.
+
+Beet packets go on the low side first. Lid goes down. They steam for 10 to 12 minutes. You're looking for a fork to go through without pushing hard. Not mushy. Cooked but with a tiny bit of resistance still there.
+
+Right when the beets go on, veal hits the hot side. Let it sit. Don't poke it. Don't move it. Four minutes. Then flip it. Four to five minutes on the second side. The meat will feel slightly firm when you press it in the center. Not squishy. Not hard. That's medium-rare. The juices should just start coming up on the surface. That's the signal.
+
+Pull the veal off. Lay a piece of loose foil over it. Not tight. Loose. Let it rest for five minutes minimum. Longer is fine. This matters more than most people think.
+
+## How to Get Perfect Grilled Veal Chops with Beet Salad
+
+The beet packets come off carefully. Steam is trapped in there. It comes out hot. Don't burn your fingers opening the foil.
+
+Slice the rested veal off the bone. Thin slices. The meat's cooled slightly, so it won't fall apart.
+
+Arugula goes on the plate first. Fan the avocado slices over it. Scatter the beets. Lay the veal on top. Drizzle the cold herb mayonnaise in ribbons. Not pooled. Ribbons. Scatter the pumpkin seeds over everything. Chives and tarragon as garnish. That's it.
+
+Serve immediately. The veal's still warm. The salad's cold. The avocado's creamy. The seeds are crunchy. The beets taste like earth. It all makes sense together.
+
+## Grilled Veal Chops Tips and Common Mistakes
+
+If there's no grill use a heavy skillet or grill pan on the stove. High heat. The crust matters more than the method.
+
+Beets too soft? Overcooked. Slice thinner next time. They'll cook faster and stay firm. Too firm? Add a few more minutes. It's not exact.
+
+The mayonnaise can sit in the fridge a day before using. It gets better. The flavors sit together overnight.
+
+Avocados ripen at weird speeds. If they're hard, leave them on the counter. Give them a day. They go from rock to perfect to brown really fast.
+
+Whole grain mustard is the point. Dijon's smoother but it's boring here. The texture and slight tang matter. But if that's all there is, use it.
+
+Don't oil the grill too much. Excess smoke. Flare-ups. The veal gets charred wrong. Light oil. Once. That's enough.
+
+Doneness: press the center with your finger. Soft and squishy is rare. Slightly firm is medium-rare. Pushing hard means it's getting dry. The chops are thin, so they cook fast. Medium-rare happens in seconds.
+
+If the beets are still in the foil and the veal's done, just pull the veal off and keep the beets cooking. They're on the low side anyway. Nothing burns.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Veal Chops with Herb Mayonnaise
+
+**Can I use a different herb instead of tarragon?**
+Basil works. Chervil if you can find it. But tarragon's the one that tastes right here. Fresh only. Dried tarragon tastes like hay.
+
+**What if I can't find bone-in veal chops?**
+Boneless works. They cook in the same time, maybe faster. The bone helps with flavor though. If there's a choice, bone-in wins.
+
+**How do I know when the veal is done without cutting into it?**
+Press the center with your finger. Medium-rare feels slightly firm but still gives a little. Also the juices rise to the surface when it's close. Trust that signal.
+
+**Can I make the herb mayonnaise the day before?**
+Yes. It gets better actually. The flavors sit together overnight. Keep it in an airtight container in the fridge.
+
+**What do I do if the avocados aren't ripe yet?**
+Leave them on the counter. Check them daily. They ripen fast once they start. Once they're ripe, refrigerate them. They'll hold for a couple days.
+
+**Can I substitute the pumpkin seeds for something else?**
+Sunflower seeds work. Pepitas work. Even walnuts if you toast them. Anything crunchy and nutty. The seeds stay crispy longer though.
+
+**Should I oil the grill before or after it gets hot?**
+After. Hot grill. Oil the grate. Then the veal. Cold oil on a cold grate just sits there. Hot grill burns it off and creates a barrier that prevents sticking.
+
+**What if I don't have a mandoline for the beets?**
+A sharp knife works. Takes longer. You want thin slices so they cook through in the foil. Quarter inch maybe. Thicker and they won't be done when the veal is.
