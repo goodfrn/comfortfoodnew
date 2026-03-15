@@ -1,10 +1,10 @@
 ---
-title: "Altered Chocolate Berry Crêpes"
+title: "Chocolate Crepes with Dark Chocolate Sauce"
 slug: "altered-chocolate-berry-crepes"
-description: "Crêpes with a twist: less flour, more liquid. Swap butter for coconut oil, vanilla for almond extract, milk chocolate for dark. Blueberries and raspberries swap harmoniously with blackberries and sliced kiwi. Batter rests briefly for 15 minutes. Cook thin, quick: about a minute per side. Warm sauce made with dark chocolate melted with cream instead of milk, slightly thicker. Serve rolled crêpes smothered in sauce, crowned with fresh fruit. Balanced sweet and tangy, with texture contrast."
-metaDescription: "Altered Chocolate Berry Crêpes. Enjoy a unique twist with less flour, coconut oil, almond extract, and dark chocolate. Perfect for brunch or dessert."
-ogDescription: "Indulge in Altered Chocolate Berry Crêpes. Made with dark chocolate, coconut oil, and fresh fruits. A delightful twist on a classic recipe."
-focusKeyphrase: "chocolate berry crêpes"
+description: "Delicate chocolate crepes made with coconut oil, almond extract, and dark chocolate sauce. Topped with fresh blackberries, raspberries, and kiwi for a balanced sweet and tangy dessert."
+metaDescription: "Chocolate crepes recipe with dark chocolate sauce, fresh berries, and coconut oil. Light, elegant, and easy to make. Try it tonight."
+ogDescription: "Tender chocolate crepes with dark chocolate cream sauce and fresh blackberries, raspberries, and kiwi. Simple elegance in every bite."
+focusKeyphrase: "chocolate crepes"
 date: 2025-07-19
 draft: false
 image: altered-chocolate-berry-crepes.jpg
@@ -21,9 +21,18 @@ tags:
 - "blueberry"
 - "raspberry"
 keywords:
-- "crepes"
-- "chocolate sauce"
-- "berries"
+- "chocolate crepes"
+- "dark chocolate berry crepes"
+- "breakfast crepes"
+- "chocolate crepes recipe"
+- "berry desserts"
+- "dark chocolate sauce"
+- "coconut oil crepes"
+- "fresh berry crepes"
+- "homemade crepes"
+- "almond extract crepes"
+- "blackberry kiwi crepes"
+- "easy dessert recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "360"
@@ -66,3 +75,101 @@ faq:
 - "q: Can I use other fruits? a: Absolutely. Strawberries work well. Or bananas if wanting sweetness. Experiment, see what you like."
 
 ---
+
+Flour, sugar, salt, eggs, milk. Whisk it. Let it sit. Fifteen minutes sounds long but the batter needs to relax or it tears when you flip. Then heat the pan—medium, not hot—and pour a quarter cup in the center, tilt fast so it spreads thin. Fifty seconds and it's golden. Flip. Thirty more. That's the crêpe. The chocolate sauce is just dark chocolate and cream melted together in the microwave, which takes two minutes if you do it right.
+
+## Why You'll Love These Chocolate Crepes
+
+Takes fifty minutes start to finish. Twenty prep, thirty cooking. Doable on a weeknight breakfast or dessert whenever.
+
+Dark chocolate and fresh berries—raspberries, blackberries, kiwi—work because tart cuts through rich. The chocolate doesn't feel heavy.
+
+Almond extract instead of vanilla shifts the whole thing. Tastes like you knew what you were doing.
+
+One bowl, one pan. Not nothing to clean but not complicated either.
+
+Coconut oil replaces butter. Costs the same, gives a subtle tropical note you can't quite name. Works.
+
+## What You Need for Chocolate Crepes with Fresh Berries
+
+Half a cup flour. Unbleached. Doesn't matter much but it's there.
+
+An egg and a half per crêpe basically—two eggs total, mixed with milk and that almond extract. The extract matters. Don't skip it.
+
+A tablespoon and two-thirds of melted coconut oil goes into the batter. More for the pan between crêpes. Not much.
+
+Mixed berries—whatever's around. Blackberries, raspberries, sliced kiwi if you want something unexpected. Cold berries, warm crêpes. The temperature contrast actually works.
+
+Four ounces dark chocolate. Chopped up. Melted with heavy cream. That's the sauce. Nothing else.
+
+## How to Make Homemade Crepes with Coconut Oil
+
+Sift the flour into a bowl. Add sugar—it's one and a half tablespoons, hardly matters—and a pinch of salt. Crack two eggs directly in. Pour a little milk, maybe a quarter cup. Whisk until it's lumpy. Like, obviously lumpy. This is the moment people panic but it's fine.
+
+Slowly add the rest of the milk while you keep stirring. Don't rush. The lumps disappear. Last thing in is the melted coconut oil. Blend it all smooth. It'll be thin but slightly airy. Let it sit now. Fifteen minutes. This is not negotiable. The flour absorbs liquid and the batter gets less likely to tear.
+
+Heat a nonstick skillet—nine and a half inches—over medium heat. Medium. Not medium-high. People screw this up.
+
+Brush the pan with a tiny bit of coconut oil. Pour a quarter cup batter right in the center. Immediately start tilting the pan in circles so it spreads thin across the bottom. Don't overthink it. Just tilt.
+
+Watch the edges. When they lift and turn that specific tan color—maybe fifty seconds in—you flip. Carefully. The underside will be set enough. Another thirty seconds on the other side. Pull it out onto a plate.
+
+Cover the crêpes loosely with foil as you stack them. Keeps them warm and flexible. If they cool down completely they get stiff and snap when you roll them.
+
+Keep going until the batter's gone. You'll get about eight crêpes.
+
+## Dark Chocolate Berry Crepes—the Sauce and Assembly
+
+Chop the dark chocolate into small pieces. Doesn't have to be perfect. Throw it in a microwave-safe bowl with the heavy cream.
+
+Microwave in twenty-second bursts. Stir between each one. The chocolate melts into the cream slowly, which sounds inefficient but actually keeps it from seizing. When it's smooth and creamy—usually takes two minutes, maybe three—it's done.
+
+Too thick? Add a splash more cream. Whisk it in. The sauce should pour but coat, not be like water.
+
+Roll each crêpe gently. Doesn't matter how tight. Set them on plates. Spoon the warm chocolate sauce over each one generously. It seeps into the folds. Scatter the berries on top.
+
+Eat immediately. The sauce is warmest then and the berries stay semi-cold, which makes sense when you taste it.
+
+## Chocolate Crepes with Blueberries, Raspberries—Tips and What Can Go Wrong
+
+The batter rest is real. Skip it and you'll notice—the crêpes tear or don't spread right. Fifteen minutes sounds like nothing until you're hungry.
+
+Medium heat on the pan. Medium. This is where people burn them or leave them pale. Medium and they're golden and flexible.
+
+Tilting the pan circles, not in one direction. You need it even. One direction means one side's thick.
+
+The flip is the scary part. It's not actually scary. The underside sets in fifty seconds. By that point the crêpe holds itself. Flip fast or slow, doesn't matter. Just don't hesitate.
+
+Dark chocolate melts cleaner than milk chocolate. Less cocoa butter proportion means it doesn't seize as easy. Worth buying the good stuff.
+
+Kiwi adds color that blueberries alone won't give you. Texture too—something between crunchy and soft. Raspberries are fragile so add them last or they fall apart.
+
+Coconut oil behaves almost exactly like butter but costs the same and the tropical note is subtle enough nobody identifies it unless you tell them. Almond extract—this is the thing that makes people ask for the recipe. Don't skip it. Tastes like you thought about it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Crepes with Fresh Berries
+
+**Can I make the batter ahead?**
+Yeah. Mix it the night before, let it sit covered in the fridge. Might need to thin with a splash of milk before cooking but it's fine. Actually might be better—longer hydration time.
+
+**What if I don't have almond extract?**
+Vanilla works. But honestly it tastes different. Almond's the point of this recipe. If you don't have it, get it. Lasts forever.
+
+**Do the crepes have to be warm when served?**
+Best warm. Sauce seeps in better and the temperature contrast with cold berries hits different. Cold crepes work fine but they're sort of rubbery.
+
+**Can I freeze these?**
+Yeah. Let them cool, stack with parchment between each one, bag them. Three weeks maybe. Reheat in a dry pan over medium heat until warm. The sauce you make fresh.
+
+**Should I use milk chocolate instead of dark?**
+No. It's too sweet with the berries. Dark chocolate cuts through. Tried it once. Too much.
+
+**Why does the pan need to be nonstick?**
+It doesn't have to be but crêpes stick to regular pans unless you're really buttering them. Nonstick makes it actually doable. Saves time and oil.
+
+**Can I use regular milk instead of the amount listed?**
+The ratio matters more than the exact volume. If you go off by a splash either way it's fine. The batter should be thin but slightly airy. Pour a little, tilt the pan, it should coat the whole bottom without pooling. That's the test.
+
+**How do I know when to flip?**
+Fifty seconds in, the edges lift and the bottom's tan. That's it. Not brown. Tan. The flip side cooks faster—thirty seconds—because the pan's already hot and there's less batter to set.
