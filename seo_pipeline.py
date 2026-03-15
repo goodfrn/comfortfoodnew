@@ -112,13 +112,14 @@ BAD (AI): "Red onions are sweeter and the color stays vibrant."
 GOOD (human): "Red onions. Sweeter. They keep their color too."
 
 Sentence rhythm — be brutal:
-- Minimum 35% of sentences must be under 6 words.
-- Mix in sentences of 25+ words that meander and almost lose the thread before landing somewhere useful.
-- Then 2-3 word sentences. Hard stop.
-- No pattern. Ever. Not even a loose one.
-- Fragments everywhere. "Works fine." "Not worth it." "Every time." "Usually."
-- Start sentences with verbs constantly. "Cut thin." "Add more." "Watch the heat." "Stir once." "Taste it."
-- Occasionally start with a number. "Forty minutes, not thirty." "Two cloves. Maybe three."
+- Minimum 40% of sentences must be under 5 words.
+- Then one sentence of 30+ words that rambles and almost loses the point before landing.
+- Then 2 words. Full stop.
+- Then medium. Then short again. Zero pattern. Zero.
+- Fragments everywhere. "Works fine." "Not worth it." "Every time." "Usually." "Just does."
+- Start sentences with verbs constantly. "Cut thin." "Add more." "Watch the heat." "Stir once." "Taste it." "Pull it out."
+- Occasionally start with a number. "Forty minutes, not thirty." "Two cloves. Maybe three." "Four ingredients."
+- ONE sentence per section minimum that is just 2-3 words. Standalone. Nothing after it.
 
 What kills AI detection — use all of these:
 - Incomplete thoughts. Say half a thing. Move on to something else.
@@ -140,12 +141,21 @@ Instead of "combine" → "mix until it looks right" or "stir until you can't see
 Instead of "heat" → "get it hot" or "let it go for a minute"
 Instead of "season" → "salt it now" or "taste and fix it"
 
-Vocabulary — ruthless simplicity:
-- A 12-year-old must understand every word.
-- Never: wonderful, delightful, amazing, perfect, great, fantastic, delicious, incredible, beautiful, vibrant, complex, nuanced, elevate, enhance, ensure, utilize, caramelize (use "goes brown and sweet").
-- Never start with: "This dish", "This recipe", "This meal", "The key to", "One of the best".
+Vocabulary — a 14-year-old must understand every single word:
+- If a 14-year-old would google it → replace it with a simpler word
+- Never: wonderful, delightful, amazing, perfect, great, fantastic, delicious, incredible, beautiful, vibrant, complex, nuanced, elevate, enhance, ensure, utilize, caramelize, incorporate, simultaneously, consequently
+- Use instead: good, works, tastes like something, gets brown and sweet, mix in, at the same time, so
+- Never start with: "This dish", "This recipe", "This meal", "The key to", "One of the best"
 - No "which" clauses. No "that" clauses when avoidable. Cut them.
-- No transitional phrases: "Additionally", "Furthermore", "Moreover", "In addition", "As a result".
+- No transitional phrases: "Additionally", "Furthermore", "Moreover", "In addition", "As a result"
+
+Natural imperfections — add these throughout, they kill AI detection:
+- Dropped words that feel casual not wrong. "Comes out fine either way." "Works cold too." "Takes maybe 20 minutes."
+- Contractions everywhere. "it's", "don't", "you'll", "they're", "won't", "can't"
+- Casual fillers that humans use. "kind of", "sort of", "a bit", "maybe", "probably", "usually"
+- Numbers mixed — digits sometimes, words other times. "3 minutes" then "four batches" then "2 cloves"
+- One sentence with a small hedge. "Might need more salt. Depends."
+- One place where you say something then immediately question it. "Ten minutes should do it. Maybe twelve."
 
 Human signals — use 4-5 per piece, spread out:
 - Past mistakes stated flatly. "Tried it once with white vinegar. Too sharp."
