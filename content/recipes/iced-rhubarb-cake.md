@@ -1,10 +1,10 @@
 ---
-title: "Iced Rhubarb Cake"
+title: "Iced Rhubarb Cake with Crunchy Crumble"
 slug: "iced-rhubarb-cake"
-description: "Tangy rhubarb folded into airy batter, topped with a crunchy crumble. Bakes to a tender crumb beneath a slightly crackled surface. Natural tartness from fruit balances sweet undertones. Cooling transforms texture—gets almost creamy under the crisp top. A cake that demands patience but rewards with layered bites. Rustic, not polished. Good for mornings, coffee breaks, or dessert when you want something not too rich. No nuts here, so safe for nut allergies. Rhubarb can be swapped with sour cherries or even cranberries if rhubarb's missing. Watch baking close—the crumble tells you when to pull. Smells like spring, tastes like old-school charm."
-metaDescription: "Tangy rhubarb folds into airy batter topped with crunchy crumble. Rustic French-inspired cake that cools to creamy texture with crisp bite. 8 servings."
-ogDescription: "Tangy rhubarb pieces fold gently in batter topped by cinnamon crumble. Bake until golden crust cracks, cool for creamy, rustic bites. Patience pays."
-focusKeyphrase: "Iced Rhubarb Cake"
+description: "Tangy rhubarb cake with crunchy crumble topping, made with fresh rhubarb, eggs, and butter. Tender crumb with a crisp surface. Perfect for coffee breaks."
+metaDescription: "Make this rhubarb cake with fresh rhubarb, brown sugar crumble, and lemon juice. Tangy, tender, and topped with cinnamon crumble. Try it tonight."
+ogDescription: "Fresh rhubarb cake with a crunchy brown sugar and cinnamon crumble top. Tender crumb, tart flavor, homemade goodness."
+focusKeyphrase: "rhubarb cake"
 date: 2025-08-15
 draft: false
 image: iced-rhubarb-cake.jpg
@@ -22,8 +22,15 @@ tags:
 - "homemade"
 keywords:
 - "rhubarb cake"
-- "crumble topping"
-- "airy batter"
+- "iced rhubarb cake with lemon"
+- "rhubarb cake with crumble topping"
+- "homemade rhubarb cake"
+- "crunchy crumble cake"
+- "tart rhubarb dessert"
+- "crumble cake"
+- "tart dessert"
+- "brown sugar crumble"
+- "cinnamon crumble topping"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -91,3 +98,65 @@ faq:
 - "q: Crumble browning too fast? a: Tent with foil after 30-40 mins baking. Butter content makes faster-browning topping. Avoid oven door openings; temp drops cause collapse. Use light foil layer, no tight seal. Watch smell cues for doneness."
 
 ---
+
+Rhubarb gets soft, sits with sugar for 15 minutes, and the whole thing bakes into something that's tart and sweet at once under a cinnamon crumble you basically rub together with cold butter. That's the move. The cake itself stays moist — egg whites whipped separately, folded in at the end — and the top gets this crunchy, almost crisp thing going that doesn't belong on a cake but somehow works.
+
+## Why You'll Love This Iced Rhubarb Cake
+
+Takes just over an hour start to finish. Twenty minutes of actual hands-on time. The rest is oven doing the heavy lifting. Tastes like homemade rhubarb cake but feels like you spent all day on it. Crumble topping goes crunchy. The cake stays soft underneath. Works at room temp or chilled — tastes different both ways, both are good. Tart rhubarb dessert that doesn't taste like pure sugar the way most cakes do. You'll know what you're eating. The lemon juice thing sounds small. Changes everything.
+
+## What You Need for Homemade Rhubarb Cake
+
+Fresh rhubarb. The pink stalks. Three and a half hundred grams chopped into two-centimeter pieces — not tiny, not huge. Caster sugar does the work here. Half goes with the rhubarb upfront, half into the eggs. Don't swap it out. All-purpose flour, sifted. Baking powder. Two teaspoons. Whole milk. Unsalted butter, melted and cooled — let it actually cool or the eggs scramble. Three large eggs, separated. This matters more than you think. Vanilla extract. One teaspoon. Lemon juice. One tablespoon. Sounds weird in a cake. Do it anyway.
+
+Crumble topping: eighty grams plain flour, sixty grams light brown sugar, sixty grams cold unsalted butter diced into tiny pieces, one teaspoon ground cinnamon, extra sugar for sprinkling on top.
+
+## How to Make Iced Rhubarb Cake
+
+Start with the rhubarb. Chop it into chunks about as thick as your pinky. Combine with half the caster sugar and the lemon juice in a bowl. Sit it there for fifteen minutes. The sugar pulls juice out of the fruit. You'll see liquid pooling at the bottom. That's what you want. Drain it off but keep it — drizzle it over whipped cream later if you're feeling it. The rhubarb should still hold its shape. Not mush. Not falling apart.
+
+Separate your eggs now. Yolks in one bowl, whites in another, and don't get any yolk in the whites or the whites won't whip up right. In the large bowl, whisk the yolks with the remaining sugar until it's pale and creamy. Add the vanilla. Drizzle the melted butter in slowly while whisking. This prevents the eggs from scrambling. Pour in the milk. Sift the flour and baking powder together, then fold them into the wet stuff. Don't overwork it. Gluten builds fast and kills the tenderness.
+
+Whisk the egg whites separate. Go until they form stiff peaks — lift the whisk and they should stand straight up. Fold them into the batter in three additions. Slice through with a spatula, turn the bowl, slice again. You're trying to keep the air in there. That's what makes it rise.
+
+## How to Get Crunchy Crumble Topping on Your Rhubarb Cake
+
+Preheat to 180°C. Butter an eight-inch springform or regular cake pan. Line with parchment if you're not confident about sticking.
+
+Fold the rhubarb pieces into the batter gently. Don't mash them. Pour into the pan. Level the top with a spatula but don't smooth it to glass — rustic works here.
+
+Make the crumble topping now. Combine flour, light brown sugar, and cinnamon in a small bowl. Add the cold diced butter. Rub it between your fingers until it looks like breadcrumbs. Coarse. Not fine. Sprinkle it over the batter. Dust extra sugar on top for crunch.
+
+Bake for fifty minutes. Start checking after forty-five. The smell will shift — from batter-y to warm and sugary with this subtle tart rhubarb thing underneath. The top should be golden with tiny cracks. Insert a toothpick near the center. You want moist crumbs clinging to it. Never wet batter. If it looks too wet, add a few more minutes. If the crumble starts browning too fast, tent it loosely with foil. Don't open the oven door constantly — the temperature drops and the cake collapses.
+
+## Iced Rhubarb Cake Tips and Common Mistakes
+
+Cool on a wire rack immediately. Warm cake is fragile. It sets up as it cools and the crumble gets crispier. After twenty minutes, remove the springform if you used one. A slight sink in the middle is fine. That's moisture. That's good. Room temperature is fine. Chilled is better. The tartness mellows as it sits.
+
+All ingredients should be close to room temperature before you start. Cold butter takes forever to fold in. Cold milk seizes up with the flour. Egg whites whip faster if they're warm.
+
+Beat egg whites longer in humid kitchens. Add a tiny pinch of salt if they won't come together. Don't skip the lemon juice on the fruit. It brightens everything and cuts the raw rhubarb edge that can feel harsh otherwise. Some ovens run hot. Some run cold. Check at forty minutes if you have a fan oven. The toothpick test is more reliable than time.
+
+You could swap rhubarb for tart cherries or diced apple with cinnamon for a different season. Green apples work if rhubarb isn't around, but skip the lemon juice if you go that route. Butter could technically be neutral oil, but the cake gets denser and loses crumb structure. Not worth it. Whole milk could be skimmed or alternatives, but again — expect denser. The crumble can take oats or sliced almonds if you want texture. If allergies aren't a thing, it's nice.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Iced Rhubarb Cake
+
+**How do I know when the iced rhubarb cake is done baking?**
+Toothpick near the center. Moist crumbs on it — that's done. If it's wet batter, not just moist, give it another five minutes. The smell helps too. It'll go from raw to warm and sugary. Golden cracks on top.
+
+**Can I make this crumble cake ahead of time?**
+Bakes fully. Cooling takes about an hour before it's stable. Keeps fine at room temperature covered loosely. Better chilled overnight. The tart rhubarb dessert actually tastes better the next day — flavors settle.
+
+**What if my rhubarb is really tough?**
+That sugar sit does most of the work. Fifteen minutes minimum. If it's still stringy after baking, you got old rhubarb. Nothing fixes that. Doesn't happen often.
+
+**Can I use frozen rhubarb?**
+Yeah, but thaw it first and drain really well. It'll be mushier. The cake still works, just softer. The crumble topping stays crunchy regardless.
+
+**Why separate the eggs?**
+The whites whip into air. That air is what makes the cake light. Whole eggs won't do it. Folding them back in keeps the air there. Skip this step and you get something dense. Not bad. Just different.
+
+**Does the icing actually go on top?**
+Not really icing. Just extra sugar you sprinkle on the crumble before it bakes. Gets crunchy. Some people call it that, some don't. Either way, the tart rhubarb cake has enough going on without frosting. This topping is enough.
