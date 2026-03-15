@@ -1,10 +1,10 @@
 ---
-title: "Butternut Leek Rigatoni Gratin"
+title: "Butternut Squash Rigatoni Gratin with Leek"
 slug: "butternut-leek-rigatoni"
-description: "Roasted butternut squash cubes blended into a creamy leek sauce coat al dente rigatoni and fresh spinach. Topped with a sharp cheddar and Parmigiano crust, baked until golden. Aromatic garlic and onion anchor a velvety béchamel enriched with chicken broth and milk. Optional heat from chili flakes and a hint of nutmeg bring depth. Comfort food with a twist—a perfect balance of sweet squash and savory greens. Suitable for nut- and egg-free diets. Makes 8 to 10 portions, great for family meals or gatherings."
-metaDescription: "Butternut Leek Rigatoni Gratin baked golden with sharp cheddar crust, creamy leek sauce, roasted squash, fresh spinach. Rustic French-inspired comfort food."
-ogDescription: "Roasted squash and creamy leek sauce coat rigatoni and spinach. Sharp cheddar crust bakes golden brown; rustic, layered, home-style gratin for family meals."
-focusKeyphrase: "Butternut Leek Rigatoni Gratin"
+description: "Roasted butternut squash and leek sauce coats rigatoni with spinach, topped with sharp cheddar and Parmigiano crust. Baked until golden for comfort food perfection."
+metaDescription: "Butternut squash rigatoni gratin with creamy leek sauce, sharp cheddar, and spinach. Baked pasta comfort food that's nut-free. Make it tonight."
+ogDescription: "Creamy butternut squash and leek rigatoni baked with sharp cheddar and fresh spinach. Cozy pasta gratin ready to serve."
+focusKeyphrase: "butternut squash rigatoni gratin"
 date: 2025-09-21
 draft: false
 image: butternut-leek-rigatoni.jpg
@@ -21,9 +21,16 @@ tags:
 - "fall"
 - "roasted"
 keywords:
-- "rigatoni gratin"
-- "cheddar Parmigiano crust"
-- "creamy leek sauce"
+- "butternut squash rigatoni gratin"
+- "creamy leek and butternut squash pasta"
+- "butternut squash pasta gratin with cheddar"
+- "baked rigatoni with roasted squash and leek"
+- "pasta gratin with butternut squash"
+- "butternut squash pasta bake"
+- "comfort food pasta casserole"
+- "roasted butternut squash rigatoni"
+- "leek and squash pasta"
+- "cheddar pasta gratin"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -77,3 +84,88 @@ faq:
 - "q: Best way to store leftovers? a: Refrigerate airtight container up to 3 days. Reheat covered in oven or microwave, add splash milk if drying out. Freezing alters texture; bake fresh preferred for crust crispness."
 
 ---
+
+Roast the squash first while the oven's still heating up — it's the longest part and might as well run. Three-quarters of an hour total, most of that hands-off. Pasta, leeks, a roux, two cheeses melted on top. The kind of thing you put in a baking dish and forget about while it bubbles.
+
+## Why You'll Love This Butternut Squash Pasta Gratin
+
+Tastes like fall but doesn't need three trips to the farmer's market. Roasted squash gets sweet. Leeks go soft. Sharp cheddar doesn't disappear into the sauce — it crisps up on top.
+One dish to roast, one to boil pasta, one to make the sauce. That's it. No stockpot circus.
+Works as dinner by itself. Works as a side for ham, for roasted chicken, for nothing — just the gratin alone is enough.
+Leftovers reheat fine. Actually better the next day when flavors have sat overnight and gotten to know each other.
+Comfort food that's technically vegetables. The spinach melts in. Nobody notices it's there.
+
+## What You Need for Butternut Squash Rigatoni with Cheddar
+
+Butternut squash. About three and three-quarter cups, peeled and cut into chunks — not too small or they'll collapse, not huge or they'll still be hard when the pasta's done. Olive oil. Just to coat the sheet pan.
+Rigatoni. Dried is fine. The tube shape catches the sauce instead of letting it slide off. Three-quarter pound or so.
+Leeks. Two medium ones, sliced. The white and light green parts. Dark green goes in the compost. You need about three cups.
+One small onion and two garlic cloves. Minced. Adds backbone without being obvious.
+Butter and flour for the roux. A quarter cup of each. Whole milk and chicken broth — two cups and a cup and an eighth. The ratio matters because too much liquid and it never sets; too little and it's like wallpaper paste.
+Fresh spinach. Seven cups. Sounds like a lot. It's not — wilts down to almost nothing.
+Sharp cheddar and Parmigiano Reggiano. Seven-eighths cup and just over half a cup. The sharp cheddar's the main event. Parmigiano adds nutty undertone. Don't use mild cheddar. Defeats the purpose.
+Salt, pepper. Red chili flakes if you want heat. Nutmeg — just a dusting. Optional but it works.
+
+## How to Make Butternut Squash Rigatoni with Spinach and Cheese
+
+Oven to 410. Middle rack. Parchment on a sheet pan.
+
+Squash chunks go on the pan. Drizzle olive oil. Salt and pepper. Toss it around so everything's coated. Twenty-two minutes in, stirring halfway through. You want the edges golden and the insides soft enough to push through with a fork. Don't leave it in longer or it turns to mush and loses flavor. It'll still cook a bit more in the gratin anyway.
+
+While that's roasting, get a large pot of salted water boiling. Rigatoni goes in. Cook it one minute less than the box says — it should have a bite still, not be done done. Drain it. Drizzle a tiny bit of oil so it doesn't weld itself together. Cover it. Keeps warm.
+
+Same pot. Melt butter over medium heat. Add the sliced leeks, chopped onion, minced garlic, and a pinch of salt. This is the sweating stage. Eight minutes, maybe nine. You want everything translucent and soft. Not brown. Brown tastes bitter and you don't want bitter here.
+
+Sprinkle the flour over. Stir for a minute. Get the raw flour taste out.
+
+Whisk in the chicken broth and milk slowly. Sounds boring. It's the difference between lumpy sauce and smooth sauce. Once it's all in, turn up the heat slightly. Let it come to a soft boil. Then lower the heat and let it bubble gently for about six minutes. Watch the spoon — when the sauce coats it and doesn't immediately run off, it's thick enough. Should feel like heavy cream, not like soup.
+
+## How to Get Butternut Squash Pasta Gratin Creamy and Perfect
+
+Off heat now. This is where the immersion blender comes in. You're making the leeks disappear into the sauce. Run it until it's totally smooth. Chunks in there and the texture gets weird and grabby. So blend it till it's like velvet.
+
+Fold in the roasted squash. Fold in the pasta. The spinach goes in last and while everything's still hot it'll wilt down to nothing. If you add it cold, it tastes grassy and slightly bitter. You don't want that. So wait.
+
+Taste it. Fix the salt and pepper. The chili flakes and nutmeg do something strange and good — they add warmth without tasting spicy or nutmeggy. Optional but try it once.
+
+Spread it all into a 13-by-9 baking dish. Level the top a little. Cheddar and Parmigiano go all over. Be generous. The cheese is the whole point — without it, you've just got hot pasta in a dish.
+
+Oven for 24 to 27 minutes. The cheese bubbles. The edges crisp. You'll hear a tiny crackle when the top browns. That sound means it's done. Too long and the sauce dries out underneath. Too short and the cheese is melted but the sauce is still loose.
+
+Let it sit for fifteen minutes before you eat it. The sauce sets. The pasta absorbs what's left. It all comes together.
+
+Use a metal spatula. Scrape the bottom. That's where the crispy bits are — that's the reward.
+
+## Butternut Squash Pasta Gratin Tips and Common Mistakes
+
+Overcooked pasta is the death of this. It turns gummy inside the gratin. Cook it a minute under what the box says. Seriously.
+
+If your sauce is too thick before it goes in the oven, splash in a bit more milk or broth. If it's too thin, simmer it another couple minutes. You want it to flow a little but not slosh.
+
+The squash should be tender when you take it out but still hold its shape. If it's mushy, it won't puree right and the roasted pieces fall apart. If it's hard, the gratin won't feel done and the flavor stays stuck inside.
+
+Roast the squash and boil the pasta at the same time. Everything's ready at once instead of you standing around waiting. Way faster.
+
+The spinach is weird because you prep it ahead but add it right at the end. It's worth doing it that way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Butternut Squash Pasta Gratin
+
+**Can I make this ahead and bake it later?**
+Yeah. Assemble it in the dish, cover it, stick it in the fridge. When you're ready to eat, add maybe two or three extra minutes to the bake time since it's cold. Or let it come to room temperature first if you want it to bake faster.
+
+**What if I don't have an immersion blender?**
+Regular blender works. Do it in batches so it doesn't explode everywhere. Or just mash it with a fork if you don't mind some texture. Not ideal but it works.
+
+**Can I use frozen squash?**
+Probably. Thaw it first, drain it really well or it'll be watery. Won't roast the same way — you're looking for crispy edges. Might be softer. Still tastes fine.
+
+**Is there a vegetarian version?**
+Use vegetable broth instead of chicken broth. Everything else stays the same. The cheeses are already in there so it's fine.
+
+**What cheese should I use if I don't have sharp cheddar?**
+Gruyère works. Fontina works. Both are milder and slightly nutty. Don't use mild cheddar. Doesn't have the backbone. Parmesan on top is fine either way.
+
+**How long does it keep?**
+Three or four days in the fridge. Reheat it at 350 degrees, covered, for about ten minutes. It dries out if you go hotter or longer. Doesn't freeze well — the sauce gets weird and separates.
