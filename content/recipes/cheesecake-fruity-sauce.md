@@ -1,10 +1,10 @@
 ---
-title: "Ricotta Cheesecake Recipe with Berry Sauce"
+title: "Ricotta Cheesecake Recipe with Graham Cracker"
 slug: "cheesecake-fruity-sauce"
-description: "Ricotta cheesecake with graham cracker crust and homemade berry coulis. Lighter version using Greek yogurt and cornstarch for a tangy, creamy dessert."
-metaDescription: "Ricotta cheesecake recipe with fresh berry sauce. Lighter, creamier version with Greek yogurt. Make it tonight."
-ogDescription: "Ricotta cheesecake that's lighter but still creamy. Berry coulis on top. Skip the guilt."
-focusKeyphrase: "ricotta cheesecake recipe"
+description: "Ricotta cheesecake with graham cracker crust, cream cheese, Greek yogurt, and berry coulis. Creamy, tangy dessert that's lighter and easier to make."
+metaDescription: "Make ricotta cheesecake with graham cracker crust, cream cheese, and Greek yogurt. Tangy, creamy dessert with homemade berry sauce. Try it tonight."
+ogDescription: "Creamy ricotta cheesecake with graham cracker crust, Greek yogurt filling, and mixed berry coulis. Lighter, tangier cheesecake."
+focusKeyphrase: "ricotta cheesecake"
 date: 2025-07-30
 draft: false
 image: cheesecake-fruity-sauce.jpg
@@ -24,11 +24,15 @@ keywords:
 - "ricotta cheesecake"
 - "ricotta cheesecake recipe"
 - "baked ricotta cheesecake"
-- "cheesecake ricotta cream cheese"
-- "homemade ricotta cheesecake"
-- "italian ricotta cheesecake"
 - "creamy ricotta cheesecake"
-- "easy ricotta cheese cake recipe"
+- "homemade ricotta cheesecake"
+- "italian cheesecake"
+- "ricotta dessert"
+- "cheesecake with ricotta cheese"
+- "healthy ricotta cheesecake"
+- "ricotta and cream cheese cake"
+- "easy ricotta cheesecake recipe"
+- "italian ricotta cheesecake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -74,3 +78,89 @@ faq:
 - "q: How store leftovers best? a: Wrap cheesecake tightly with plastic wrap or use airtight container. Berry sauce separate in fridge. Keeps sauce fresh longer. Cheesecake lasts 3-4 days chilling. Not freezer friendly well."
 
 ---
+
+Ricotta cheesecake hits different because you're not waiting three hours for it to set — it's done in 1 hour 30 minutes total, and somehow it tastes like you spent all day on it. Three things happen at once: cream cheese gives you the richness, ricotta keeps it light, and that Greek yogurt trick means you actually taste the cheese instead of just sweetness.
+
+## Why You'll Love This Ricotta Cheesecake
+
+Takes 20 minutes to prep, then the oven does the work — basically a homemade ricotta cheesecake with zero fussing around.
+Actually tastes like Italian cheesecake. Not that dense American brick thing. This one has air.
+The crust stays crispy. Graham crackers plus brown sugar plus melted margarine — that's it, and it works every single time.
+Berry sauce on top. Not underneath buried in the cake. You actually taste both things.
+Doesn't crack. That Greek yogurt in the filling handles the heat better than just cream cheese alone.
+
+## What You Need for a Ricotta Dessert
+
+Graham crackers — 260 ml crushed. Get them actual crushed, not powdered into dust. Dust doesn't hold.
+
+Brown sugar. 50 ml. Not white. Brown gives it the right color and a tiny bit of molasses that matters.
+
+Melted margarine. 50 ml. Butter works too. They're the same thing here basically.
+
+Cream cheese — two packets, 250 g each, softened first. Cold cream cheese makes lumps. Leave it on the counter.
+
+Ricotta cheese. 125 ml. This is the point of the whole thing. Don't skip it for extra cream cheese. Different texture entirely.
+
+Sugar. 125 ml for the filling. Goes in with the cheese.
+
+Cornstarch. 30 ml. Keeps the filling from cracking when it bakes. That's really why it's there.
+
+Vanilla extract. 10 ml. Or don't use it. Doesn't matter much.
+
+Greek yogurt. 100 ml. Makes it lighter. Makes it less likely to break in the oven. Both things help.
+
+Eggs. Three. Room temperature if you can manage it, but honestly room temperature is overstated. Just use them.
+
+Frozen mixed berries. One 300 g can. Thawed. Mixed berries work — you're straining the seeds anyway.
+
+Sugar for the sauce. Depends on the berries. Taste it first.
+
+## How to Make a Homemade Ricotta Cheesecake
+
+Heat the oven to 175°C (350°F) first. Get it actually hot. Don't start mixing stuff and then turn the oven on later.
+
+Mix the crushed graham crackers with brown sugar and melted margarine in a bowl. Use your hands. Just press it together until it looks like wet sand. Nothing complicated.
+
+Press it firmly into a 20 cm springform pan with parchment underneath. Use the bottom of a measuring cup or a glass. Press hard — corners especially. Bake it for 12 minutes center rack. Not the bottom. Not the top. Center. Cool it completely before you do anything else.
+
+Beat the cream cheese with the ricotta cheese, sugar, and cornstarch with an electric mixer until it's creamy. Two or three minutes. You want it smooth, not lumpy. Add the vanilla, Greek yogurt, and eggs. Blend until combined. Don't overmix after the eggs go in — you're not whipping air into it. Just mix until you don't see streaks of egg white.
+
+Pour the filling onto the cooled crust. Smooth the top if you want to. Doesn't have to be perfect.
+
+## How to Bake a Ricotta Cake Without Cracks
+
+Bake for 55 minutes center rack. The filling will still jiggle a tiny bit in the very center when you shake the pan — that's correct. Not fully set. If it looks totally firm, you went too long.
+
+Turn the oven off. Leave the cheesecake inside for 10 minutes more. This stops the temperature from dropping too fast, which is what causes the cracks. Close the door, leave it alone.
+
+Remove it and let it cool completely. On the counter. Takes an hour or more. Don't rush this. Don't put it in the fridge yet.
+
+## Ricotta Dessert Tips and Common Mistakes
+
+The thing that breaks most people's ricotta cheesecake is temperature shock. That's it. You baked it in a hot oven, now you're taking it to cold air, the filling contracts too fast, it cracks. The 10 minutes in the turned-off oven fixes that.
+
+Strain the berry sauce through a sieve if you want it smooth. If you don't mind seeds, skip it. Blend the thawed berries until smooth first. That's the sauce. Add sugar if it needs it. Taste it before you serve.
+
+Don't use a water bath. Doesn't need one. Doesn't help here. Just don't overbake it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Ricotta Cheesecake
+
+**Can I make this as a vegan ricotta cheesecake?**
+Not with this exact recipe. The eggs and cream cheese aren't replaceable without starting over. Vegan ricotta exists but you'd need a different filling structure entirely.
+
+**How long does homemade ricotta cheesecake last in the fridge?**
+Four days. Maybe five. After that it gets watery around the edges. Freezes fine though — up to three months.
+
+**What's the difference between this and an Italian cheesecake recipe?**
+Mostly the ricotta ratio. Italian versions use more ricotta, less cream cheese. This one's a hybrid. Lighter than American, richer than pure ricotta.
+
+**Can I add lemon to a ricotta cheese cake?**
+Yeah. Zest of two lemons mixed into the filling. Maybe reduce the vanilla to 5 ml so the lemon takes over. Works.
+
+**Why does my ricotta dessert taste grainy?**
+Usually the cheese wasn't blended long enough. Beat it for three full minutes with the sugar and cornstarch. Or you overbaked it — cracks let moisture escape, changes the texture.
+
+**Do I need a springform pan?**
+Makes it easier to serve, but no. A regular cake pan works. Just cool it fully, run a knife around the edge, invert onto a plate. Needs more care but it works.
