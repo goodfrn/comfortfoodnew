@@ -1,9 +1,9 @@
 ---
-title: "Creamy Mashed Potatoes Twist"
+title: "Creamy Mashed Potatoes with Mushroom Stock"
 slug: "creamy-mashed-potatoes"
-description: "Starchy Irish potatoes simmered till fork tender. Swapped chicken broth with rich mushroom stock to deepen earthiness. Cream and butter warmed just enough to melt into fluffy potato clouds. A dollop of Greek yogurt replaces sour cream, lending tang and silkiness. Mix with care, not a blender frenzy, to keep textures fluffy yet creamy. Salt and cracked pepper finish. Recipe tuned with sensory cues, smell, and feel over strict times. Notes on rescue for watery mash and how to read doneness without timers. Four comforting servings, worldly yet homey."
-metaDescription: "Creamy Mashed Potatoes Twist uses mushroom stock and Greek yogurt for silky, fluffy mash with bold earthiness. Four servings tuned by feel and smell, no timer needed."
-ogDescription: "Fluffy mash with mushroom stock and Greek yogurt. Salt heavy, mix just right, skip blitzers that glue. Texture and aroma tell all. Four servings, rich earth tones."
+description: "Creamy mashed potatoes made with Russet potatoes, mushroom stock, heavy cream, butter, and Greek yogurt. Fork-tender potatoes mashed to fluffy perfection with earthy depth and silky tang."
+metaDescription: "Creamy mashed potatoes recipe using mushroom stock, heavy cream, and Greek yogurt instead of sour cream. Rich, fluffy comfort food. Make it tonight."
+ogDescription: "Fluffy mashed potatoes with mushroom stock, heavy cream, butter, and Greek yogurt. Earthy, creamy comfort on a plate."
 focusKeyphrase: "creamy mashed potatoes"
 date: 2025-11-05
 draft: false
@@ -21,10 +21,16 @@ tags:
 - "homemade"
 - "mushroom"
 keywords:
+- "creamy mashed potatoes"
 - "mashed potatoes"
-- "mushroom stock"
-- "Greek yogurt"
-- "creamy mash"
+- "homemade mashed potatoes"
+- "mushroom mashed potatoes"
+- "creamy mashed potatoes with greek yogurt"
+- "comfort food mashed potatoes"
+- "mashed potatoes with mushroom stock"
+- "creamy potato side dish"
+- "russet potatoes recipe"
+- "mashed potatoes with heavy cream"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "330"
@@ -67,3 +73,95 @@ faq:
 - "q: How to store leftovers? a: Store in airtight container refrigerated. Reheat with splash warmed cream or stock to soften or else dries out hard. Cover while warming keeps moist. Can freeze but texture changes, best eaten fresh within 2 days."
 
 ---
+
+Cut the potatoes first—Russets work better than Yukon Gold here, something about the starch breaks down different. Had three pounds sitting around and no real plan, so this happened. Takes 24 minutes total if you move. Most of that's just waiting for water to boil.
+
+## Why You'll Love This Creamy Mashed Potatoes
+
+Comfort food that actually tastes like something. Not just butter and sadness.
+
+The mushroom broth. Changes everything. Adds depth without tasting like mushrooms—just makes potatoes taste more like potatoes.
+
+Reheats fine. One of those side dishes that doesn't get weird in the fridge.
+
+Greek yogurt instead of sour cream keeps it silky without going sour. Tried sour cream once. Overpowering.
+
+Takes 24 minutes. Honestly faster than opening a box of instant.
+
+## What You Need for Homemade Mashed Potatoes
+
+Two pounds of starchy potatoes. Russets. Not Yukon Gold—those stay too waxy. The skin should come off easy when they're done but don't peel them early; hot potatoes steam themselves faster.
+
+Heavy cream. Half a cup. Cold cream from the fridge won't work—it cools everything down the second it hits the potatoes. Warm it first.
+
+Mushroom stock instead of chicken broth. Half a cup. Adds earthiness. Chicken broth works if that's what you have, but mushroom is better.
+
+Unsalted butter. Four tablespoons. Needs to be actual butter. Not margarine. The difference matters here.
+
+Greek yogurt. Quarter cup. This is the secret. Sour cream tastes too loud. Yogurt adds silk without the noise.
+
+Salt. Cracked black pepper. Both go in twice—once at the end, taste it, then again if needed.
+
+## How to Make Creamy Mashed Potatoes with Mushroom Broth
+
+Scrub the potatoes under cold water. Cut them into chunks—doesn't need to be perfect, just roughly the same size so they cook evenly. Toss them in a pot and cover with cold water. Cold water matters more than people think. Starts the cooking slow so the outside doesn't go mushy before the center actually cooks through.
+
+Put it on medium heat and let it come up slowly. You want a medium boil, not a rolling boil. Hard boiling breaks them apart before they're done. Takes about 15 to 17 minutes. Don't set a timer and walk away. Listen for it. Peek at maybe minute 13. Fork test—poke one. Should slide through with almost no pressure.
+
+The second it's done, drain it. Shake the colander a bit. Let the steam escape. Moisture is your enemy right now.
+
+While that's draining, microwave your cream and mushroom stock together. Like 20 seconds. Maybe 30 depending on your microwave. You want it warm, not boiling. Hot enough to blend smooth, not hot enough to scramble the potatoes.
+
+## How to Get Creamy Mashed Potatoes Perfectly Fluffy
+
+Add the butter while the potatoes are still hot. Residual heat melts it in seconds. Then pour in the warm cream and broth—all of it.
+
+Greek yogurt goes in last. The acidity wakes up the potato flavor but keeps it creamy instead of dense. Stir it together gently. Don't beat it. Hand mixer on low speed works. A ricer is better if you want zero lumps, but honestly, some lumps are good. A few potato chunks make it taste homemade instead of institutional.
+
+The moment you start overmixing, the starch activates and it turns gluey. You'll feel it. The sound changes—stops humming and gets loud and slappy. Stop before that happens.
+
+Taste it now. Add salt gradually. Potatoes need more salt than you think. Not till it tastes salty—till it tastes like potatoes again. Then crack black pepper on top. Fresh cracked, not ground. It's sharper.
+
+If it tastes flat after resting, add a pinch of garlic powder or some fresh chives. One of those fixes it. But usually the mushroom broth is enough.
+
+## Creamy Mashed Potatoes Tips and Common Mistakes
+
+Watery mash comes from undercooked potatoes or adding too much liquid. You can't fix undercooked, so poke early. Really early. If it's already watery, drain it in a fine sieve for 10 minutes. Moisture comes out.
+
+Too thick? Splash in a little warmed cream. Not cold cream. Cold cream just sits there clumpy.
+
+The lukewarm dairy thing isn't optional. Cold liquid on hot potatoes creates cold pockets that stay cold in the finished dish. Plus it takes longer to blend in. Warm liquid disappears.
+
+Don't peel the potatoes before cooking. Peel after. Hot potatoes give up their skin way faster and you waste less potato.
+
+If you're reheating, add a tiny splash of warmed cream and cover it. Refrigeration firms mashed potatoes into concrete. Heat and a little moisture bring them back.
+
+The Greek yogurt is crucial. Sour cream sounds better in theory but it overpowers the potato flavor. Yogurt adds creaminess without the sharpness. Trust me on this one.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Creamy Mashed Potatoes
+
+**Can I use Yukon Gold potatoes instead of Russets?**
+Not really. They stay waxy. They don't break down the same way. Russets have the right starch content for actual creamy mashed potatoes.
+
+**What if I don't have mushroom stock?**
+Chicken broth works. So does vegetable. The mushroom just adds something extra that you won't get from the other two. But it's not required.
+
+**Can I make these ahead?**
+Yeah. Cool them, store in the fridge. Reheat gently with a splash of warmed cream. They'll be fine.
+
+**Do I really need Greek yogurt?**
+It changes the texture. Sour cream works in a pinch but it tastes more sour, less creamy. Greek yogurt stays silky.
+
+**What if mine came out gluey?**
+You mixed it too much. Starch activates when you overmix. Can't undo it. Next time stop mixing when it still has a little texture. Takes practice.
+
+**Why does the broth need to be warm?**
+Cold liquid cools the potatoes down and takes longer to blend in. Warm liquid disappears into them immediately. Plus you get a smoother texture overall.
+
+**Can I use a food processor?**
+Don't. It overworks the potatoes. Hand mixer on low or a ricer. That's it.
+
+**How long do these last in the fridge?**
+Three days, maybe four. They get firmer but they don't spoil. Reheat with cream to loosen them up.
