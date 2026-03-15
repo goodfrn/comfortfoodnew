@@ -1,10 +1,10 @@
 ---
-title: "Billets with Haskap and Coconut"
+title: "Haskap Berry Billets with Coconut Cream"
 slug: "billets-with-haskap-coconut"
-description: "Billets rolled with haskap berry syrup and a whipped coconut cream. Uses egg whites beaten to firm peaks folded with cake flour and sweetened with berry syrup. The haskap, a wild northern berry, adds sharpness balanced by creamy coconut. Simple syrup strained gently, combined with lemon juice to brighten. Cake rolled tightly, then coated with coconut soaked in the berry juice giving a mauve tint. Whipped coconut cream flavored with honey and almond extract for a nutty twist. Stored chilled, sliced into bite-sized billets, a subtle contrast of tart, sweet, and creamy textures."
-metaDescription: "Billets rolled with tart haskap syrup and whipped coconut cream, a French Canadian inspired cake with deep purple hues and layered creamy textures."
-ogDescription: "Whipped egg whites fold into haskap syrup-sweetened batter, rolled tight then coated in coconut soaked with berry juice. Chill and slice into bites."
-focusKeyphrase: "Billets with Haskap and Coconut"
+description: "Haskap berry billets feature egg white sponge cake rolled with tart haskap syrup and creamy whipped coconut filling. Light, tangy, and perfectly balanced."
+metaDescription: "Haskap berry billets with coconut cream filling made with egg whites, haskap syrup, and whipped cream. Try it tonight."
+ogDescription: "Delicate haskap berry cake rolled with whipped coconut cream, lime juice, and almond extract. Tart meets creamy."
+focusKeyphrase: "haskap berry billets with coconut cream"
 date: 2025-08-11
 draft: false
 image: billets-with-haskap-coconut.jpg
@@ -21,9 +21,16 @@ tags:
 - "eggs"
 - "dessert"
 keywords:
-- "haskap syrup"
-- "meringue cake"
-- "coconut coating"
+- "haskap berry billets with coconut cream"
+- "haskap berry cake recipe"
+- "rolled haskap berry cake with coconut cream"
+- "haskap syrup cake with whipped coconut filling"
+- "coconut cake with berries"
+- "egg white sponge cake with fruit"
+- "whipped cream coconut cake"
+- "rolled cake dessert"
+- "coconut cake"
+- "vegetarian egg desserts"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "270"
@@ -88,3 +95,69 @@ faq:
 - "q: How to store leftovers? a: Keep wrapped airtight in fridge max 3 days. Coconut flakes get soft with moisture; consume soon. Freeze billets in sealed bag for longer keep. Thaw in fridge, texture alters slightly. Avoid room temp storage, cream spoils."
 
 ---
+
+Frozen haskap berries go in a pan with sugar and water—6 minutes tops—then you strain it, add lime juice, simmer the berries soft. That syrup does everything. Half goes in the cake batter, half coats your coconut. The cake itself is an egg white sponge—whipped, folded, baked on a sheet, then rolled with jammy fruit and whipped cream inside. Had a massive flat of haskapberries one July. No plan. Ended up making three of these in one afternoon and they all went immediately.
+
+## Why You'll Love This Rolled Haskap Berry Cake with Coconut
+
+Takes 1 hour 30 minutes total—an hour of that is just waiting for things to cool and chill.
+Looks impressive on the plate. Actually tastes better than it looks, which almost never happens.
+Coconut cake with berries is technically one thing but tastes like three different things at once—the fruit, the cream, the cake—and they don't fight.
+Works as a vegetarian egg dessert that feels fancier than what you actually did. Nobody needs to know you didn't make the cake four times to get it right.
+Leftovers stay good cold for three days. Probably longer but nobody's tested it.
+
+## What You Need for Haskap Berry Cake with Coconut Cream
+
+Frozen haskap berries—210 grams, about a cup and a third. Not fresh. Frozen works better here, breaks down faster. Five large eggs, separated. Not room temperature. Doesn't matter as much as people say but cold whites whip higher anyway. Granulated sugar—75 grams for the cake, 120 for the syrup. All-purpose flour. 120 grams. Unbleached. Bleached is fine but unbleached doesn't taste like cardboard. Whipping cream, 35 percent fat—240 milliliters. Anything less and it won't hold shape. Powdered sugar. 20 grams. Unsweetened shredded coconut. 60 grams. The long strands, not the fine dust. Water. 25 milliliters. Fresh lime juice. 20 milliliters, not bottled. Honey. 5 milliliters. Almond extract. 3 milliliters. That's it.
+
+## How to Make Haskap Syrup for Your Rolled Cake
+
+Pour the frozen berries straight into a saucepan with the sugar and water. Don't thaw them first—they go into the heat cold and that's fine. Medium-high heat. Within a minute you'll hear it start to crackle and pop as the sugar melts into the berries. Keep stirring. Around 6 minutes the whole thing thickens and the color deepens to something like old wine. Dark. That's when you pull it off the heat.
+
+Set a fine mesh sieve over a bowl and pour the syrup through slowly. Press the berries against the sieve with a spoon—just enough to squeeze flavor out. You want liquid, not pulp. Should get around 200 milliliters of syrup. If you get less, add a tiny bit of water. Now here's the thing: the berries left in the sieve aren't done. Pour them back into the pan with any juice that stuck to the sieve.
+
+Add the lime juice. The smell changes immediately—sharp, bright, cuts through the sweetness. Simmer it very gently for 3 to 4 minutes. The berries soften but shouldn't turn to mush. You're looking for them to hold shape but give when you press one. Let it cool in a bowl. By the time you're done with the cake, this'll be room temperature.
+
+## How to Get the Cake Texture Right—Sponge, Not Dense
+
+Preheat the oven to 185 degrees Celsius, which is 365 Fahrenheit. Slightly lower than you'd normally go. Helps the cake stay tender instead of drying out. Line a 45 by 33 centimeter baking sheet with parchment paper. Leave overhang on the long sides so you can grab it later.
+
+Separate your eggs carefully. Even a tiny bit of yolk in the whites and they won't whip up right. Whisk the whites lightly first—just to break them apart. Add 20 grams of sugar and start the mixer on medium speed. Watch them go from foamy to soft peaks. That takes maybe 3 minutes. Slowly drizzle in the rest of the sugar while the mixer runs. Turn it up to high speed. You're looking for stiff peaks but not dry—they should still look wet and glossy. This is where people mess up. Too long and they get grainy.
+
+Lower the mixer speed down. Drip in 180 milliliters of the cooled haskap syrup in a thin stream while you fold it in gently. A whisk works better than a beater here—you want to keep the air in. Whisk in the egg yolks one at a time. After each yolk, fold until you can't see it anymore. The batter should look pale and thick.
+
+Sift the flour right over the top. Fold it in slowly with a spatula. Don't overmix. You'll feel the difference—at first the batter's thick and dense, then it gets silky and lighter. That's when you stop. Spread it onto the sheet quickly and evenly. Tap the pan once hard to pop any big air bubbles on the surface.
+
+## Haskap Cake Baking and Rolling—Tips and Common Mistakes
+
+Into the oven it goes, center rack. Bake 18 to 22 minutes. The edges should look pale gold. The center should be springy—not wet, not hard. If you press it gently and your finger comes away with batter, it needs another minute or two. If you overbake this, it gets dry and cracks when you roll it.
+
+The moment it comes out, run a thin offset spatula around the edges to loosen it from the parchment. Invert it immediately onto fresh parchment. The bottom is now the top. Peel the original parchment off carefully. You want the smooth side facing up—that's your exterior when it rolls. Cut off the narrow crust strips along the long edges so everything's even thickness.
+
+While the cake cools, mix the 60 grams of coconut with the remaining 20 milliliters of syrup. Stir until the coconut's soaked and turned pale purple. Spread it out on a plate so it dries a bit and doesn't clump together.
+
+Beat the whipping cream with powdered sugar, honey, and almond extract until soft peaks form. Don't overbeat or it gets grainy and thick. Spread the cooled jammy haskap berries and any juice evenly over the cake. Then cover with three-quarters of the whipped cream—smooth it with a spatula, not too thick. Slice the cake in half crosswise. Roll each half tightly from the longer edge. You should feel resistance but no cracking. Parchment under and over helps keep the shape while you roll.
+
+Coat the rolled billets with the remaining cream, but don't slather it on. Less is more here. Roll them in the coconut mixture, pressing gently so the flakes stick. Chill for at least 30 minutes—the shape sets and firms up. Slice each billet into 3 pieces just before serving. Stays good in the fridge for 3 days max. The coconut might soften slightly but everything tastes fine.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Rolled Haskap Cake with Coconut
+
+**Can I use fresh haskap berries instead of frozen?**
+Sure. They'll break down faster, actually. Might need less time simmering. Frozen is just more reliable because they're consistent.
+
+**What if my egg whites won't whip to stiff peaks?**
+Even a speck of yolk ruins it. Start over with clean whites. Make sure your bowl's clean too—any grease and they won't whip.
+
+**Can I make this ahead?**
+Up to 3 days in the fridge. The cream and coconut stay good. The cake gets slightly softer but not in a bad way.
+
+**What's the difference between this and a regular coconut cake with berries?**
+It's rolled. The rolling compresses everything together and the flavors soak into each other. Texture's different too—creamy inside, cake outside, coconut coating. Three things instead of one.
+
+**Should I thaw the frozen haskap before cooking?**
+No. Cold berries go straight into the hot sugar. Works better actually. They hold their shape longer.
+
+**Can I skip the almond extract?**
+Yeah. It's subtle. You won't miss it if you don't use it, but it adds something if you do.
