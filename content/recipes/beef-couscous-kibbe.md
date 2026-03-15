@@ -1,10 +1,10 @@
 ---
-title: "Beef Couscous Kibbé"
+title: "Raw Beef Kibbé with Couscous & Mint"
 slug: "beef-couscous-kibbe"
-description: "Raw beef kibbé with couscous soaked in near-boiling water. Lean beef cut two ways for texture contrast. Fresh mint mingles with olive oil binding the raw blend. Accompanied by lemon slices, red onion rings, and toasted pine nuts. Chilled for a refreshing starter. Uses beef but lamb works fine. A Levantine dish, relying on texture and freshness, no cooking beyond soaking couscous. Takes around 20 minutes, mostly hands-off rest time."
-metaDescription: "Beef Couscous Kibbé chunks and crumbly mix with fresh mint, olive oil binding, chilled to firm up. Textures play off raw beef and bright lemon slices."
-ogDescription: "Raw beef Couscous Kibbé split ground, diced meat, mint, olive oil drizzle, pine nuts, lemon. Chill, enjoy fresh texture with no cook time."
-focusKeyphrase: "Beef Couscous Kibbé"
+description: "Raw beef kibbé combines lean beef with couscous, fresh mint, and olive oil for an authentic Levantine appetizer. Garnished with lemon, red onion, and pine nuts."
+metaDescription: "Raw beef kibbé with couscous, fresh mint, and olive oil—a no-bake Levantine appetizer ready in 20 minutes. Try it tonight."
+ogDescription: "Authentic raw beef kibbé with couscous, mint, and pine nuts. No cooking required, just fresh flavors."
+focusKeyphrase: "raw beef kibbé"
 date: 2025-09-13
 draft: false
 image: beef-couscous-kibbe.jpg
@@ -21,13 +21,16 @@ tags:
 - "mediterranean"
 - "no bake"
 keywords:
-- "kibbé"
-- "couscous"
-- "raw beef"
-- "Levantine"
-- "mint"
-- "olive oil"
-- "pine nuts"
+- "raw beef kibbé"
+- "beef couscous"
+- "mediterranean beef appetizer"
+- "beef kibbé with mint"
+- "no bake beef appetizer"
+- "levantine beef dish"
+- "couscous kibbé"
+- "raw beef with olive oil"
+- "beef appetizer"
+- "fresh mint beef recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"
@@ -70,3 +73,49 @@ faq:
 - "q: How to store leftovers? a: Cover tightly, keep in fridge max day or two. Raw meat risk rises fast. Don’t freeze, texture ruins. Best plated fresh. If ready made chill longer, expect softer texture, slightly dull aroma. If smelling off or slimy, discard. Serve cold, avoid room temp exposure over one hour."
 
 ---
+
+Three parts, raw beef, cold couscous, mint. That's it. Twenty-two minutes and you're done.
+
+## Why You'll Love This Beef Couscous Kibbé
+
+No heat required—just cold hands and a sharp knife. Works as an appetizer or a light dinner thing depending on how hungry you are. Fresh mint actually matters here, not just garnish. The lemon sits on the side so you control how much acid hits. Pine nuts get toasted but everything else stays raw, keeps the texture interesting. Cold food for hot days. Refrigerated beef kibbé tastes better the next day, kind of mellows into itself.
+
+## What You Need for Beef Couscous Kibbé
+
+Couscous—130 ml, medium grain. Warm water—130 ml. The ratio's exact because couscous is fussy about hydration. Lean fresh beef, 200 grams, something tender. Not ground yet. You'll do half of that yourself. Extra virgin olive oil, however much feels right—maybe 3 tablespoons, maybe more. Fresh mint, 10 leaves chopped fine. Red onion, thin slices. Lemon. Toasted pine nuts. Salt and pepper.
+
+## How to Make Beef Couscous Kibbé
+
+Heat water until steam rises steady. Not a rolling boil—just getting there. Pour it over the couscous in a bowl, cover tight with a plate or lid. Let it sit for 6 minutes. The grains swell and drink everything. Fluff it with a fork after, loosen any clumps. Let it cool all the way down before the meat touches it or the heat'll start breaking down the beef texture. Cold matters here.
+
+## Preparing the Beef for Raw Couscous Kibbé
+
+Half the beef goes through a grinder or food processor—pulse until crumbly, not paste. The other half you dice small, like a quarter-inch cubes if you can manage it. Two different textures in one bite. Keep it all cold. Room-temperature raw beef is how things go wrong fast. Chill it, work quick, don't let it sit around.
+
+## Building the Raw Beef with Couscous Bowl
+
+Combine the ground and diced beef in a mixing bowl. Scatter the chopped mint over top. Pour olive oil in slow—not drenching, just enough to coat and make it shine a little. Season with salt and cracked pepper right now. Mix gently with your hands, don't manhandle it. You want the ingredients to know they're separate, just touching.
+
+Cover the bowl. Refrigerate for about 20 minutes. That's enough time for flavors to settle together and the beef to firm back up from handling. Could be 15, could be 25—depends on your fridge temperature. Just check it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Beef Couscous Kibbé
+
+**Can you cook the beef instead of serving it raw?**
+Not really the same dish anymore. The whole point is texture and freshness. If raw beef makes you nervous, buy it from someone you trust and use it the same day.
+
+**What if you don't have a food processor?**
+Knife works. Takes longer. Pound it between plastic wrap if you want it fine. Coarse grinder is ideal but not required.
+
+**How long does it keep refrigerated?**
+Two days max. Beef kibbé with fresh mint starts losing brightness after that. Eat it cold, fresh, same day if possible.
+
+**Can you swap the pine nuts?**
+Pumpkin seeds work. Keep them dry and unsalted. Walnuts if you toast them. Just needs crunch and a bit of richness.
+
+**What if fresh mint isn't available?**
+Flat-leaf parsley and extra lemon juice. Tastes different. Still good. Not the same thing though.
+
+**Is the couscous texture supposed to be firm or soft?**
+Firm. Slightly grainy. Dry it out more than you think—couscous that's too wet makes the whole thing paste. Fluff it hard with the fork.
