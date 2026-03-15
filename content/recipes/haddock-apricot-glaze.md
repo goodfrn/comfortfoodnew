@@ -1,10 +1,10 @@
 ---
-title: "Haddock Apricot Glaze"
+title: "Seared Haddock with Apricot Glaze"
 slug: "haddock-apricot-glaze"
-description: "Lightly seared haddock fillets glazed in a tangy apricot-soy reduction with sautéed baby spinach. Uses chicken broth or veggie swap. Sesame seeds add crunch. Coriander optional. No dairy, nuts, eggs. Quick prep with hands-on sauce finish. Flexible textures, color contrast, fresh herbs for brightness."
-metaDescription: "Haddock Apricot Glaze with seared fish, tangy soy-apricot sauce, wilted baby spinach, toasted sesame crunch. Quick savory-fresh dish for 4 servings, vegan option."
-ogDescription: "Seared haddock with tangy apricot-soy sauce, fresh spinach wilted off heat, sesame seeds for crunch. Bright, quick fusion meal, easy swaps veggie or chicken broth."
-focusKeyphrase: "Haddock Apricot Glaze"
+description: "Seared haddock fillets glazed in tangy apricot-soy reduction with baby spinach and sesame seeds. Quick, dairy-free seafood dinner ready in minutes."
+metaDescription: "Seared haddock with apricot glaze, baby spinach, and sesame seeds. Tangy, dairy-free Asian-style seafood dinner. Make it tonight."
+ogDescription: "Pan-seared haddock fillets with apricot-soy glaze, baby spinach, and toasted sesame seeds. Quick, tangy Asian-style fish."
+focusKeyphrase: "seared haddock with apricot glaze"
 date: 2025-08-13
 draft: false
 image: haddock-apricot-glaze.jpg
@@ -21,9 +21,15 @@ tags:
 - "easy dinner"
 - "spinach"
 keywords:
+- "seared haddock with apricot glaze"
 - "haddock fillets"
-- "apricot preserves"
-- "toasted sesame seeds"
+- "haddock with soy apricot reduction"
+- "pan seared haddock and spinach"
+- "tangy apricot glazed fish"
+- "haddock with sesame seeds asian style"
+- "asian seafood dinner"
+- "gluten free haddock"
+- "dairy free fish dinner"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "220"
@@ -62,3 +68,76 @@ faq:
 - "q: Can leftovers be stored? a: Store fish and sauce separately if possible. Refrigerate up to 2 days max; fish loses texture quickly. Spinach wilts more when reheated; reheat sauce gently, avoid boiling. Freeze sauce only, seafood texture deteriorates. Reheat slowly on low heat. Avoid microwave for spinach, tends to get soggy fast."
 
 ---
+
+Cut the haddock into four pieces. Pan's already hot. Oil shimmers but doesn't smoke — that matters. Lay the fish away from you, three minutes until the bottom's golden and the whole kitchen smells like the ocean got sweet. Flip. Three more minutes. That's it. Done.
+
+## Why You'll Love This Asian Seafood Dinner
+
+Twenty minutes and you're eating. That's the whole thing.
+Gluten free without trying. No soy sauce substitution nonsense, no reading labels. Just tamari and fish and it works.
+The sauce is tangy but not sharp — apricot jam mellows the salt in a way that tastes complicated when it's actually just three ingredients going soft together. Spinach soaks it up instead of wilting into mush.
+Dairy free. No butter hiding anywhere. Just olive oil and a pan that knows what it's doing.
+
+## What You Need for Pan Seared Haddock and Spinach
+
+Haddock fillets — six hundred grams, four pieces, skinless. Cold from the store works fine. Warm it up right before the pan hits heat.
+
+Extra virgin olive oil. Forty milliliters. Not more. Not less. The amount matters because you want sear, not braise.
+
+Low sodium broth — vegetable or chicken. A hundred fifty milliliters. Cuts the salt from the tamari before it gets aggressive.
+
+Apricot preserves or peach jam. Fifty milliliters. Homemade is better. Store bought works. Don't overthink it.
+
+Tamari soy sauce. Fifty milliliters. Not regular soy. Tamari's got more soy, less wheat, and the flavor sits different on your tongue — deeper, rounder.
+
+Baby spinach. A liter. Washed. Remove the tough stems because they don't wilt. Everything else goes.
+
+Salt. Coarse. Black pepper cracked fresh. Sesame seeds toasted black. Cilantro if you want it. You don't have to.
+
+## How to Make Haddock with Soy Apricot Reduction
+
+Get the skillet large and nonstick. Medium-high heat. Pour the oil in and wait — you're watching for shimmer, that ripple across the surface. Not smoking. Never smoking. That's the tell that it's right.
+
+Lay the haddock down away from you so it doesn't splash. The crust forms in three minutes. You'll see the edges turn opaque first. That's normal. The bottom's browning whether you can see it or not. Flip once. Three minutes on the other side and the flesh flakes under a fork if you press it.
+
+Season it while it's hot — salt and pepper go in better when the fish is warm and can actually hold them. Pull it out of the pan. Drape foil over the pieces loose. Not tight. You want the steam to escape a little or the exterior gets soggy.
+
+## How to Get Crispy Pan Seared Haddock with Tangy Apricot Glaze
+
+Same pan. Don't wash it. Pour the broth in cold. It hits the hot surface and everything on the bottom — the brown bits, the fond, all of it — scrapes up with a wooden spoon. That's flavor.
+
+Add the jam. Add the tamari. Reduce heat to medium-low and watch the sauce start to bubble. Not a rolling boil. Tiny bubbles. Three minutes and it thickens just enough to coat the back of a spoon. Still pourable. Still fluid.
+
+The spinach goes in off heat. All of it. Just dump it in and stir gently with whatever heat's left in the pan. Takes maybe a minute before it collapses into something green and soft. Don't keep stirring. It turns into mush if you fuss with it.
+
+## Haddock with Sesame Seeds Tips and Mistakes
+
+The oil temperature is everything. Too cool and the fish steams instead of sears. Too hot and the outside burns before the inside cooks. Shimmer — that's the target. Not quite smoking.
+
+Don't move the fish while it's cooking. Leave it. The crust won't form if you're constantly checking. Three minutes per side. That's enough.
+
+The spinach wilts from residual heat. Don't put it on an active flame or it breaks down into something stringy. Off heat. Gentle stir. Done.
+
+Leftovers hold up. Cold haddock with the sauce and spinach tastes better the next day somehow. Maybe the flavors settle. Maybe you're just hungry. Probably both.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Gluten Free Haddock with Apricot Glaze
+
+**Can you make this with a different white fish?**
+Cod works. Halibut works. Pollock works. Flounder gets delicate. Probably fine but cook it a minute less per side. Salmon's too oily for this sauce. Don't bother.
+
+**What if you don't have tamari?**
+Use regular soy sauce. Tastes slightly sharper. You won't ruin it. Half a teaspoon less salt though because regular soy is saltier.
+
+**Can you do this without the apricot jam?**
+Technically yes. The sauce would just be soy and broth. Flat. Not worth it. The jam is the whole thing.
+
+**How do you know when the fish is actually done?**
+It flakes under a fork. Not mushy. Not translucent. Opaque all the way through. The edges curl up slightly. You'll feel it.
+
+**Does the spinach have to be baby spinach?**
+Regular spinach works but it takes longer to wilt and sometimes has grit. Baby's easier. Tougher stems are the only thing that doesn't cook down — that's why you pull them.
+
+**What do you serve with this?**
+Jasmine rice. Basmati. Something fluffy that breaks apart and catches the sauce. Doesn't have to be rice. Bread works if you like dipping. Couscous if that's in the house already. The sauce is the point though.
