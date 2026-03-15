@@ -1,9 +1,9 @@
 ---
 title: "Butternut Squash Tart with Goat Cheese"
 slug: "butternut-goat-cheese-tart"
-description: "Flaky puff pastry layered with caramelized butternut squash, crème fraîche, and goat cheese. Golden, tender, and naturally vegetarian—crispy edges, melted cheese, subtle sweetness."
-metaDescription: "Butternut squash tart recipe: puff pastry, goat cheese, crème fraîche. Caramelized edges, tender squash. Make it tonight."
-ogDescription: "Butternut squash tart with goat cheese and crème fraîche. Crispy puff pastry, caramelized squash, soft cheese. Vegetarian and refined."
+description: "Butternut squash tart with crispy puff pastry, creamy goat cheese, and sour cream. Caramelized squash meets melted cheese for elegant vegetarian comfort."
+metaDescription: "Make a butternut squash tart with puff pastry, goat cheese, and sour cream. Golden, flaky, and naturally vegetarian. Save this one."
+ogDescription: "Crispy puff pastry layered with caramelized butternut squash, goat cheese, and sour cream. Elegant and naturally vegetarian."
 focusKeyphrase: "butternut squash tart"
 date: 2025-09-28
 draft: false
@@ -24,8 +24,15 @@ keywords:
 - "butternut squash tart"
 - "butternut tart"
 - "butternut squash puff pastry tart"
-- "squash tartlets"
 - "butternut squash tart recipe"
+- "squash tartlets"
+- "goat cheese tart"
+- "puff pastry tart"
+- "vegetarian tart recipe"
+- "caramelized butternut squash"
+- "easy tart recipe"
+- "appetizer tart"
+- "fall squash recipes"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"
@@ -68,3 +75,89 @@ faq:
 - "q: Best way to store leftovers? a: Store wrapped in fridge, cool fully first. Reheat oven/toaster oven only; retains crisp. Microwave ruins crust. Leftover slices eat cold also fine, unwrap for freshness. Avoid stacking; cheese tends to smear when squeezed."
 
 ---
+
+Puff pastry, sour cream, butternut squash, goat cheese. That's the whole thing right there. Takes 55 minutes total and tastes like you spent way longer than you actually did.
+
+## Why You'll Love This Butternut Squash Tart
+
+Falls somewhere between appetizer and main course—works for either one. Good with a salad, good on its own, good cold the next day if it lasts that long.
+
+Vegetarian but doesn't feel like diet food. The goat cheese and butter handle that.
+
+Puff pastry does most of the work. You're really just layering things on top of it.
+
+Autumn thing but honestly works year-round. Kabocha or sweet potato in other seasons.
+
+Impresses people. Looks complicated. Isn't.
+
+## What You Need for Butternut Squash Puff Pastry Tart
+
+Half a pound of puff pastry—thawed slightly, nothing more. Room temperature or it tears when you roll.
+
+Sour cream. A third cup plus a tablespoon. It's the base. Spreads thin and stops the pastry from getting soggy underneath.
+
+One small French shallot, diced fine. Raw shallot has bite. The oven mellows it a bit but not completely. Matters.
+
+One small butternut squash. Peel it first—vegetable peeler works. The kind matters less than the size; small means thinner, cooks through faster. Mandoline is fastest if you have one. Sharp knife works fine too, just watch your fingers.
+
+Twenty milliliters of melted butter. A tablespoon plus a splash. That's for brushing the squash so it browns instead of steams.
+
+One thirty grams of fresh goat cheese. Break it into small rounds or crumbles. Cold from the fridge is fine.
+
+Salt. Black pepper, freshly ground. Thyme if you want it—optional but recommended. Changes the whole thing if you add it.
+
+Olive oil for drizzling at the end. Also optional. Adds something if you use it.
+
+## How to Make Butternut Squash Tart
+
+Oven rack goes low. Bottom third. Set heat to 400 and let it actually get there. Line a baking sheet with parchment. Takes longer to preheat than you think.
+
+Flour your workspace lightly. Roll the pastry into a rough square—about 10 inches. Doesn't have to be perfect. Transfer it to the sheet carefully; it tears and you're starting over if it does.
+
+Spread sour cream evenly across the dough. Leave a narrow border bare all around—that stops the edges from getting soggy. Scatter the diced shallot over the sour cream. This is your flavor base. Raw shallot going into a hot oven becomes something else. Mellower. Sweeter.
+
+## How to Get the Butternut Squash Layers Right
+
+Take the squash. Cut off the narrow top third first—that's the part with actual shape. Slice it paper-thin. Paper-thin. You're looking for something that cooks through without falling apart.
+
+Cut the bigger bottom half in half again. Scoop the seeds out with a spoon. Don't bother roasting them unless you want to. Slice that other half thin too. Consistency matters here. Thin slices cook at the same speed.
+
+Layer the bottom pieces on the dough overlapping slightly. Like roof shingles or scales. Completely covering the sour cream is the point. No gaps. Then layer the reserved thin slices on top, building height and making the surface look finished.
+
+Brush everything with melted butter. Gently. This is what gets them brown instead of pale and steamed. Salt it. Pepper it. Thyme leaves scattered through if you're doing that.
+
+Into the oven. 28 to 32 minutes. The pastry rises golden and flaky. Edges get crisp. Squash should yield when you poke it with a fork but still hold shape. Watch it. Ovens vary wildly. If one edge is browning too fast, shield with foil.
+
+When it's soft and golden, scatter the goat cheese over top. Don't pile it. Spread it. Back in for 4 to 6 minutes. We're warming the cheese, making it slightly melting. Not bubbling. Not running. That step takes 4 minutes usually.
+
+## Butternut Squash Tart Tips and Common Mistakes
+
+Rest it a few minutes before slicing. The pastry sets up slightly. The cheese cools enough it doesn't run everywhere. Serve it warm or room temperature. Both work.
+
+Soggy bottom happens when you overload the sour cream or use watery squash slices. If your squash is wet, pat it dry before layering. Chill the pastry before baking if you have time—stops shrinkage but isn't necessary.
+
+Can't find butternut? Sweet potato works. Kabocha works. Adjust the time slightly. Sweet potato cooks a bit faster. Tastes sweeter. Some people prefer it.
+
+The goat cheese temperature matters more than you'd think. Too hot and it breaks. Too cool and it doesn't meld with the squash flavor. Four to six minutes usually hits it. Watch it. Just watch.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Butternut Squash Tart
+
+**Can I assemble this ahead?**
+Yeah. Prep everything, layer it all on the pastry, cover it loosely with plastic, stick it in the fridge. Bake it straight from cold. Add a few minutes if you do. Might be 35 instead of 32.
+
+**What if the pastry shrinks?**
+Chilling it before baking helps. Doesn't always stop it completely. Shrinkage happens. Just means your tart's slightly smaller. Still tastes the same.
+
+**Can I use store-bought butternut squash that's already cut?**
+Sure. Check the moisture level. If it's wet in the package, pat it very dry or you'll get soup instead of tart.
+
+**Do I really need fresh goat cheese or can I use the crumbly kind?**
+Fresh is better. Crumbly stuff doesn't meld. It just sits there. Fresh actually warms and softens slightly. Changes the flavor.
+
+**How do I know when the squash is done?**
+Fork test. Poke it. No resistance means done. Shouldn't be mushy though. There's a small window. You'll feel it.
+
+**Can I make individual tartlets instead?**
+Yeah. Cut the pastry into smaller squares, scale everything down proportionally, reduce the bake time to maybe 20 minutes. Works fine.
