@@ -94,6 +94,16 @@ Fix: violently mix lengths. One 31-word sentence followed by "Done." followed by
 
 These two fixes matter MORE than any stylistic rule below.
 
+WHAT A 14-YEAR-OLD TEXTS LOOK LIKE — THIS IS YOUR TARGET VOICE:
+- Short. Like really short sometimes.
+- Doesn't finish every thought.
+- Says "kind of" and "sort of" a lot.
+- Uses "it" instead of naming things again.
+- Skips words that aren't needed. "Works fine." not "It works fine."
+- Contradicts themselves. "Takes 20 minutes. Maybe 25."
+- Starts sentences with "And" or "But" sometimes.
+- Uses "just" constantly. "Just stir it." "Just add more." "Just works."
+
 ── UNDETECTABLE AI RULES ────────────────────────────────────────────────────
 
 These rules are NON-NEGOTIABLE. If the text sounds like AI wrote it, it failed.
@@ -121,15 +131,20 @@ Sentence rhythm — be brutal:
 - Occasionally start with a number. "Forty minutes, not thirty." "Two cloves. Maybe three." "Four ingredients."
 - ONE sentence per section minimum that is just 2-3 words. Standalone. Nothing after it.
 
-What kills AI detection — use all of these:
-- Incomplete thoughts. Say half a thing. Move on to something else.
-- Non-sequiturs. Talk about the onions, then something about your knife, then back to the onions.
-- Opinions without justification. "White vinegar is too sharp. Just is."
+What kills AI detection — use ALL of these, every single piece:
+- Incomplete thoughts. Say half a thing. Move on to something else entirely.
+- Non-sequiturs. Talk about the pan, then something about your knife, then back to the pan.
+- Opinions with zero explanation. "White vinegar is too sharp. Just is."
 - Real contradictions. "Should take 30 minutes. Mine usually takes 45."
-- Self-corrections mid-sentence. "Add the garlic—actually, wait until the onions soften first."
-- Casual repetition that sounds intentional. "Stir it. Stir it again. You'll feel when it's right."
-- Trailing off. "You could use butter, but—"
-- Starting a new thought mid-paragraph with no bridge.
+- Self-corrections mid-sentence. "Add the garlic—actually, wait until the onions go soft first."
+- Casual repetition. "Stir it. Stir it again. You'll feel when it's right."
+- Trailing off with a dash. "You could add more garlic, but—"
+- "Just" used casually. "Just stir." "Just add more." "Just works."
+- "And" starting a sentence. "And that's kind of it."
+- "But" starting a sentence. "But don't overcrowd."
+- Hedges mid-thought. "Probably fine either way." "Maybe a bit less next time."
+- Skipped words. "Comes out good." not "It comes out good."
+- One place where you repeat the same word twice on purpose. "Hot. Really hot."
 
 HIGH-PERPLEXITY WORD SWAPS — force these throughout:
 Instead of "golden brown" → "the color of old wood" or "that specific tan"
@@ -301,6 +316,29 @@ Rules:
 - At least one that runs 6+ sentences with no clear structure.
 - 300-500 words total.
 
+── H2 SECTION TITLES — SEO RULES ────────────────────────────────────────────
+
+Every ## title must contain a keyword from the keyword list when possible.
+Think: what would someone type in Google to find this specific section?
+
+Good H2 examples:
+"## How to Make Air Fryer Cauliflower" ← exact search phrase
+"## Tahini Sauce for Roasted Vegetables" ← keyword + context
+"## Why Air Fryer Cauliflower Gets Crispy" ← question-style keyword
+"## Air Fryer Cauliflower Tips and Mistakes" ← keyword + intent
+
+Bad H2 examples:
+"## The Sauce" ← no keyword
+"## Let's Cook" ← meaningless
+"## Assembly" ← generic
+
+Rules:
+- Every H2 must read like something a person would actually search
+- Use the primary keyword in at least 2 H2 titles
+- Use secondary keywords in the other H2 titles
+- Never force a keyword that sounds unnatural — rephrase the title instead
+- Minimum 5 H2 sections before the FAQ (not counting FAQ itself)
+
 ── OUTPUT FORMAT ─────────────────────────────────────────────────────────────
 
 Return ONLY the markdown body. No YAML. No explanation. No backticks around everything.
@@ -313,21 +351,24 @@ Structure:
 
 [intro paragraph — starts mid-action or mid-thought, no setup]
 
-## Why You'll Love This
+## Why You'll Love This [Recipe Name / Primary Keyword]
 [broken structure — no parallel reasons, varying lengths, at least one hedged]
 
-## [Custom title using a keyword — ingredients angle]
+## [Keyword — ingredients angle, e.g. "What You Need for X"]
 [Ingredients rewritten as prose]
 
-## [Custom title using a keyword — technique/instructions angle]
-[Instructions rewritten as narrative]
+## [Keyword — how-to angle, e.g. "How to Make X"]
+[Instructions rewritten as narrative — first phase]
 
-## [Custom title — tips/mistakes angle, use a keyword]
-[Tips woven into narrative — biggest mistakes, how to fix them]
+## [Keyword — technique angle, e.g. "How to Get X Crispy / Perfect"]
+[Instructions continued — second phase or key technique]
+
+## [Keyword — tips angle, e.g. "X Tips and Common Mistakes"]
+[Tips woven into narrative]
 
 {{< recipe-card >}}
 
-## Frequently Asked Questions
+## Frequently Asked Questions About [Primary Keyword]
 [4-6 questions from keyword list]
 **Question?**
 Answer here.
@@ -594,7 +635,7 @@ def generate_body(client, title, yaml_content, unused_keywords):
 
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=3000,
+        max_tokens=4000,
         system=[{"type": "text", "text": CONTENT_PROMPT, "cache_control": {"type": "ephemeral"}}],
         messages=[{
             "role": "user",
