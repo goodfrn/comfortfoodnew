@@ -1,9 +1,9 @@
 ---
-title: "Candied Blood Oranges"
+title: "Candied Blood Oranges: Chewy Citrus Candy"
 slug: "candied-blood-oranges"
-description: "Slices of blood oranges slowly cooked in simple syrup until translucent and tender, then air-dried until chewy. Uses slight variations in sugar and timing to deepen flavor and texture. Ideal for garnishing desserts or snacking. Vegan, nut-free, gluten-free, dairy-free, egg-free. Substitutions suggested for water and sugar types. Technique focuses on visual cues and tactile feel rather than rigid clock times."
-metaDescription: "Candied Blood Oranges sliced thin, simmered slow in syrup, air-dried chewy. Techniques focus on texture cues, flavor depth, substitutes for sugar and water."
-ogDescription: "Thin blood orange slices simmered in syrup till translucent, air-dried chewy. Sugar variations, timing tips, rough guide for texture. No rush, watch edges change."
+description: "Candied blood oranges slow-cooked in sugar syrup until translucent, then air-dried to chewy perfection. This vegan treat uses just blood oranges and simple syrup for elegant dessert garnishes."
+metaDescription: "Candied blood oranges made with blood oranges and sugar syrup. Learn this simple technique for chewy, translucent citrus candy. Make it tonight."
+ogDescription: "Slow-cooked blood oranges in sugar syrup become chewy, translucent candy. Perfect vegan garnish or snack."
 focusKeyphrase: "candied blood oranges"
 date: 2025-09-26
 draft: false
@@ -21,9 +21,12 @@ tags:
 - "gluten free"
 - "dessert"
 keywords:
-- "blood oranges"
-- "simple syrup"
-- "air dried fruit"
+- "candied blood oranges"
+- "candied citrus"
+- "homemade candy"
+- "vegan dessert garnish"
+- "citrus candy recipe"
+- "preserved blood oranges"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "45"
@@ -60,3 +63,73 @@ faq:
 - "q: How to store candied oranges? a: Airtight jar, with parchment layers, cool dry place. Avoid humidity, sugar clumps or mold happens quick. Room temp preferred, fridge adds moisture. Can last weeks if proper dry storage."
 
 ---
+
+Cut off both ends. Slice thin—like 1/4 inch, maybe less. Blood oranges are already bitter if you mess with them. Seeds out but careful. Tearing the skin doesn't matter. Tearing into the flesh does.
+
+## Why You'll Love This Candied Blood Oranges
+
+Takes an hour and 20 minutes start to finish, but most of it's just waiting around while the syrup does the work. You're not standing there the whole time.
+
+Tastes like nothing else—citrus candy that's actually made of citrus. Not artificial. Not cloyingly sweet either. The bitterness stays a little bit.
+
+Vegan. Gluten free. Basically just fruit and sugar, which means it works for basically everyone. No weird ingredients hiding.
+
+Makes your kitchen smell incredible. Like a candy factory crossed with an orchard. Lingers for hours.
+
+## What You Need for Candied Blood Oranges
+
+Three blood oranges. Not regular oranges. The color matters and the flavor's different—deeper, a touch less acidic but more complex somehow. Scrub them clean.
+
+Granulated sugar. Nine hundred milliliters total. Sounds like a lot. Is a lot. But that's what turns the fruit into candy instead of just cooked fruit.
+
+Water. Seven hundred milliliters to start, then another 150 added later. Nothing special. Tap water's fine.
+
+That's it. Three things.
+
+## How to Make Candied Blood Oranges
+
+Slice the oranges first. Cut off both ends on a sturdy surface—gives you something to grip so your hand doesn't slip. Then slice into rounds. Thin ones. Around a quarter inch. Not paper-thin, not thick coins. Right in the middle. Pick out the seeds as you go. This part takes maybe 10 minutes if you're not rushing.
+
+Combine water and 750 ml of the sugar in a heavy pot. Matters that it's heavy—thin pots burn sugar unevenly. Get it hot. Rolling boil. You'll hear it before you see it. That sharp hiss. The bubbles stack on top of each other.
+
+Add the orange slices gently. Reduce heat way down. Low. Let it simmer and barely move. Watch for the edges to start softening—takes about 12 minutes. They shouldn't be mushy. Still should have some structure. Skim off the foam that rises if there's a bunch of it. Doesn't hurt to leave a little.
+
+Turn the heat off. Walk away. Leave the oranges in that syrup for roughly an hour and 20 minutes. The syrup will thicken on its own. The flavors seep into each other. Put a lid on it. Keep the steam in.
+
+## Getting That Glassy Candied Look
+
+Back on medium heat now. Stir in the remaining 150 ml of sugar. Bring it back to a gentle simmer—not a rolling boil, just a soft bubble. Let the slices cook for 6 minutes. Watch them. They should start looking translucent at the edges. Pull the pot off heat and let it cool with the lid off. Takes about an hour and 15 minutes.
+
+Do this two more times. Add sugar, simmer for 6 minutes, cool for an hour and 15. Same thing each round. By the end the slices are completely glassy. No longer opaque. Almost see-through but not quite. That's when you know they're done.
+
+## Candied Blood Orange Tips and Drying Process
+
+Remove them from the syrup on wire racks set over trays. Let them drip for a bit. Don't rush this.
+
+Then let them sit at room temperature for 26 hours. Flip them halfway through so the bottom dries too. Space them out. Don't let them touch or they'll stick together. It's annoying to separate later.
+
+After 26 hours they should feel dry on the outside. Maybe still slightly tacky in the center of the thick part, but that's okay. That's normal.
+
+Layer them with parchment paper in a jar. Airtight. Keep it somewhere cool and dry. Not the fridge. Not humid. Room temperature works. They'll last several weeks. Longer if you're lucky and your kitchen stays dry. Humidity ruins them. Makes them sticky and crystallized in a bad way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Candied Blood Oranges
+
+**Can I use regular oranges instead of blood oranges?**
+Yeah. Technically. Won't be the same though. Regular oranges are more acidic and less interesting. Blood oranges have this depth that regular ones don't have. If that's all you've got, it'll still work.
+
+**How thin should the slices be?**
+Around a quarter inch. Maybe a hair thinner. Thick enough to hold together. Thin enough that the syrup gets all the way through. Takes time to candied if they're too thick.
+
+**Why do I need to add sugar three times?**
+Gradual saturation. Absorbs better that way. If you dump all the sugar in at once, the outside gets over-concentrated and the inside stays less sweet. The back-and-forth builds texture. Makes them glassy instead of just sticky.
+
+**What if my slices fall apart while cooking?**
+Happens sometimes. Especially if you slice them thick or if the orange's been sitting around. Keep the heat gentle. Don't stir more than you have to. If they're already falling apart, just keep going—they'll dissolve into the syrup and you've got orange candy syrup instead of sliced candy. Not terrible.
+
+**Can I speed up the drying time?**
+Not really. 26 hours is 26 hours. You could use an oven on low with the door cracked but then you're babysitting it. Room temperature is easier.
+
+**What's the white stuff on the surface sometimes?**
+Sugar crystals. Harmless. Means they dried out properly. Scoop them off if they bother you or just leave them. They dissolve on your tongue anyway.
