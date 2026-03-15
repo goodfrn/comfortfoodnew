@@ -1,9 +1,9 @@
 ---
-title: "Air Fryer Cauliflower with Tahini Sauce"
+title: "Air Fryer Cauliflower with Tahini-Dijon Sauce"
 slug: "air-fryer-cauliflower-twist"
-description: "Crispy air fryer cauliflower with tahini-Dijon sauce, pomegranate seeds, and dates. Quick, smoky side dish that works as a snack. Ready in minutes."
-metaDescription: "Air fryer cauliflower recipe with tahini sauce, pomegranate, and dates. Crispy edges, tangy finish. Quick side dish or snack. Try it tonight."
-ogDescription: "Cauliflower roasted in the air fryer until crispy with a tangy tahini-mustard sauce. Pomegranate and dates add brightness. Quick and smoky."
+description: "Crispy air fryer cauliflower with smoked paprika, topped with tahini-Dijon sauce, pomegranate seeds, and dates. Quick, healthy side dish ready in minutes."
+metaDescription: "Air fryer cauliflower recipe with crispy florets, tahini-Dijon sauce, pomegranate seeds, and dates. Make it tonight."
+ogDescription: "Crispy air fried cauliflower with tahini-Dijon sauce, pomegranate seeds, and dates. Ready in minutes."
 focusKeyphrase: "air fryer cauliflower"
 date: 2025-12-17
 draft: false
@@ -22,12 +22,17 @@ tags:
 - "mediterranean"
 keywords:
 - "air fryer cauliflower"
-- "cauliflower in air fryer"
-- "air fryer cauliflower recipe"
-- "air fried cauliflower"
-- "roast cauliflower air fryer"
 - "air fryer cauliflower recipes"
-- "crispy air fryer vegetables"
+- "air fried cauliflower"
+- "cauliflower air fryer recipes"
+- "air fryer roast cauliflower"
+- "cauliflower recipes in airfryer"
+- "roast cauliflower air fryer"
+- "tahini sauce recipe"
+- "smoked paprika cauliflower"
+- "pomegranate seeds garnish"
+- "quick side dishes"
+- "healthy air fryer recipes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "125"
@@ -73,3 +78,81 @@ faq:
 - "q: Can I prepare ahead and store? a: Cauliflower best fresh out air fryer. Store leftovers in airtight container in fridge; texture softens overnight. Sauce can be made ahead, keep refrigerated. Garnish last minute only. For reheat, toss back in air fryer briefly to refresh crisp or warm in oven. Avoid microwaving—messes up crunch and soggy texture."
 
 ---
+
+Cut the florets small. Not tiny—small. There's a difference. Wash them dry, then oil and spice in a bowl until every piece glistens. Twelve minutes to prep. Twenty-two minutes in the air fryer. Thirty-four minutes total from counter to plate, and you have something that tastes nothing like boiled vegetables ever tasted.
+
+This is what happens when you stop thinking of cauliflower as a side dish and start thinking of it as a snack that happens to be good for you.
+
+## Why You'll Love This
+
+Takes 34 minutes flat. No babysitting once the basket goes in—just shake it.
+
+Tastes like something you'd order at a restaurant. Mediterranean flavors that aren't trying too hard. Sweet dates, tart lemon, smoky spice.
+
+Works cold the next day. Maybe better cold, actually.
+
+One bowl to wash. Air fryer does the work. That's it.
+
+Vegetarian. Vegan if you swap honey for maple syrup. Gluten-free without doing anything at all.
+
+## Cauliflower in the Air Fryer — Building the Base
+
+One large head of cauliflower, cut into small florets—quarter-inch to half-inch across. Too small and they desiccate. Too big and the inside stays pale while the outside chars. You need the middle ground where the edge crisps and the center gives.
+
+Three tablespoons of olive oil or avocado oil. Not coconut. Olive oil works, but avocado oil stays stable at 380 and doesn't taste like olives. Matters more than you'd think.
+
+Three-quarters teaspoon kosher salt. Coarse grain. It sticks to the oil instead of dissolving into nothing. Half a teaspoon of black pepper, freshly ground. Pre-ground tastes tired.
+
+Three-quarters teaspoon smoked paprika. Not regular paprika. Regular paprika is sweet and flat. Smoked paprika has depth—it tastes like something actually happened to it. This is the flavor anchor.
+
+Toss everything in a bowl until the florets shine with oil and the spice clings visibly. Every surface should be coated. Unevenly coated cauliflower roasts unevenly.
+
+## Roast Cauliflower in Air Fryer — The Heat Happens Here
+
+Set the air fryer to 380°F. Higher than a typical roast, but not by much. The temperature matters because it's the difference between crispy and steamed.
+
+Spread the florets in a single layer. Some overlap is fine. Stacked means trapped steam means pale, soggy, nothing. Space them so heat circles each piece.
+
+Air fry for 12 to 17 minutes total. Not a set timer—a guide. Shake or toss the basket every 4 minutes or so. You're chasing brown speckles on the florets, the edges that pull back and darken, the smell that goes from raw vegetable to toasted and warm. That's your real cue. When it smells nutty and smoky, it's done. When the paprika aroma fills the kitchen, pull the basket.
+
+The florets should be tender all the way through—a fork slides in without pressure. But the edges crisp, maybe blister a little. You want that contrast where one bite is springy and the next bite snaps.
+
+## The Sauce — Tahini-Honey-Lemon Brightness
+
+While the cauliflower roasts, whisk together 3 tablespoons of tahini, 1 tablespoon of Dijon mustard, 1¼ tablespoons of honey, and 2 tablespoons of fresh lemon juice in a small bowl.
+
+The sauce should flow off a spoon but hold its shape for maybe two seconds. Too thick and it clots. Add lemon juice one small splash at a time until it moves. Too thin means it slides off the roasted florets before flavor lands—more tahini fixes that, or a tiny pinch of dry mustard powder thickens without adding liquid.
+
+Taste it now. The mustard should bite. The honey should be present but not sweet like candy. The lemon should be bright, almost sharp. If one element drowns the others, adjust it. This is your only chance to balance before it hits the plate.
+
+## Air Fried Cauliflower Recipe — Assembly and Finish
+
+Transfer the roasted cauliflower to a serving dish or board. Pour the sauce over it or set it on the side for dipping—both work, depends on how saucy you want it.
+
+Quarter cup of chopped dates scattered over top. Chewy, sweet, almost jammy against the crisp florets. Three tablespoons of pomegranate seeds next—juicy bursts that cut through richness. Two tablespoons of fresh parsley, chopped loose, for color and green herb sharpness.
+
+Taste one floret. Adjust salt and pepper after the sauce lands if needed. The sauce brings salt too, so don't oversalt before. This control point keeps everything from tipping into too much.
+
+Serve it warm or room temperature. Cold works too. The flavors actually consolidate as it cools—it tastes better the next day, which doesn't happen often with roasted vegetables.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can I use a regular oven instead of an air fryer?**
+Yeah, but it takes longer and the edges won't crisp the same way. Four hundred degrees, 25 to 30 minutes, and you need to shake the pan halfway through. Not the same thing, but it works.
+
+**What if I don't have smoked paprika?**
+Regular paprika doesn't carry the same depth. You could try a tiny pinch of liquid smoke mixed into the oil, but smoked paprika is worth buying. Lasts forever.
+
+**Is the tahini sauce vegan?**
+Swap the honey for maple syrup and it is. Same ratio. One and a quarter tablespoons of maple syrup does what the honey does.
+
+**How do I store leftovers?**
+Airtight container, fridge, three days. Sauce separate if you want it to stay pourable. Or just toss them together and eat it cold straight from the container.
+
+**Can I make cauliflower in an air fryer ahead of time?**
+Roast it, cool it completely, store it. Reheat at 320°F for 3 to 5 minutes to warm through and restore some crisp. Tastes better fresh, but it holds.
+
+**What if my cauliflower florets keep drying out?**
+You're either cutting them too small or cooking them too long. Small florets means quarter-inch to half-inch. And pull them at 15 minutes if you're seeing brown edges faster than expected—air fryers vary wildly.
