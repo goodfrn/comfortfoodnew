@@ -1,9 +1,9 @@
 ---
-title: "Cheesy Zucchini Casserole with Crispy Topping"
+title: "Cheesy Zucchini Casserole with Cracker Crust"
 slug: "cheesy-zucchini-bake"
-description: "Tender zucchini layered with caramelized onions, sharp cheddar, and a buttery cracker crust. This baked cheese zucchini casserole stays moist without getting soggy. Make ahead friendly."
-metaDescription: "Cheesy zucchini casserole recipe with crispy cracker topping. Tender squash, caramelized onions, sharp cheddar. Make ahead, easy swaps. Save this one."
-ogDescription: "Zucchini and cheese casserole with caramelized onions and a golden cracker crust. Comfort food that's actually easy to make."
+description: "Tender zucchini layered with caramelized onions, sharp cheddar, and buttery cracker crust. This cheesy zucchini bake stays moist and is make-ahead friendly for easy dinners."
+metaDescription: "Cheesy zucchini casserole with caramelized onions, sharp cheddar, sour cream, and buttery cracker topping. Try it tonight."
+ogDescription: "Zucchini and cheese casserole with caramelized onions, sharp cheddar, and a crispy buttery cracker crust."
 focusKeyphrase: "cheesy zucchini casserole"
 date: 2025-10-15
 draft: false
@@ -24,8 +24,11 @@ keywords:
 - "cheesy zucchini casserole"
 - "zucchini and cheese casserole"
 - "baked cheese zucchini"
+- "cheesy zucchini bake"
 - "baked zucchini and cheese"
+- "courgette and cheese bake"
 - "zucchini casserole recipe"
+- "make ahead zucchini casserole"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"
@@ -73,3 +76,115 @@ faq:
 - "q: How store leftovers? a: Cool fully then cover airtight, fridge up to 3 days. Reheat in oven 350°F to restore topping crunch, not microwave unless in hurry—will lose crisp. Freezing not recommended; texture suffers, topping becomes mushy when reheated."
 
 ---
+
+Three medium yellow squash. One sweet onion. Two tablespoons of olive oil and you're already 20 minutes away from something that tastes like your mom knew what she was doing. Had a garden situation last summer. Zucchini everywhere. Too much to eat fresh. This happened.
+
+## Why You'll Love This Cheesy Zucchini Casserole
+
+Comfort food that actually fits on a weeknight. Forty minutes total, and most of that's the oven doing its thing.
+
+Tastes expensive. Costs almost nothing. Sharp cheddar does most of the work.
+
+Vegetarian but doesn't feel like you're missing anything. Nobody asks what's in it because they're too busy eating.
+
+Works cold the next day. Better cold, actually. The cheese sets right.
+
+Side dish that becomes the main thing people talk about. Happened three times this month alone.
+
+## What You Need for Baked Cheese Zucchini
+
+Three medium yellow squash — thin slices, not thick. The thin ones get slightly wrinkly when they cook. That's what you're after.
+
+One medium sweet onion. Not white. Sweet. It matters. The same treatment as the squash.
+
+Two tablespoons olive oil. Not more. Gets the pan hot enough.
+
+One large egg. Just one.
+
+Three-quarters cup whole milk. Not skim. The fat is important here.
+
+Three tablespoons melted unsalted butter. Pour it in warm.
+
+One-third cup sour cream. The tangy part. Works with the cheese.
+
+Kosher salt — a teaspoon and a quarter. Coarser grain. Stays on the food.
+
+Freshly ground black pepper. Half a teaspoon. Matters more than it sounds.
+
+Garlic powder — half a teaspoon. The dry kind. Works fine.
+
+One and a quarter cups sharp cheddar. Split it. Half goes in the sauce. Half goes on top.
+
+One cup buttery cracker crumbs. Crushed. Not dust. Still have texture.
+
+One teaspoon dried parsley. Barely noticeable until you taste it.
+
+## How to Make Baked Zucchini and Cheese
+
+Set the oven to 350. Spray a 3-quart casserole with oil. Do this first or forget it later.
+
+Get a heavy skillet hot over medium-high. Olive oil goes in. Wait for the shimmer — not smoking, just shimmering. That's the signal.
+
+Squash and onion go in. Do it in two batches or they steam instead of sauté. Each batch takes about 4 to 6 minutes. Watch the edges. When they start to wrinkle slightly and you hear that faint sizzle, pull them out. Don't let them go soft. That snap matters.
+
+Drain them hard. Use a colander. Press with a spatula. The water ruins everything if you skip this. Or use paper towels and pat them dry. Either way works.
+
+Transfer to a large bowl. The warm bowl, ideally.
+
+Small bowl. Whisk the egg first. Then milk, melted butter, sour cream, salt, pepper, garlic powder, and half the cheddar. Whisk until it's creamy and smooth. This is the custard that holds it together.
+
+Fold the wet mixture into the squash. Gently. You're not making mashed potatoes. Keep the chunks. Overmix and it falls apart.
+
+## How to Get Cheesy Zucchini Casserole Golden
+
+Pour everything into the casserole dish. Level it out with a spatula. Don't press down. Just level.
+
+Crackers on top. Spread them even. Then the remaining half cup of cheddar. Then the parsley. Done with assembly.
+
+Bake for 20 to 25 minutes. You're waiting for the cheese to bubble vigorously around the edges. The cracker topping goes golden brown with toasty hints. That's the visual cue. Not pale. Not dark. Golden.
+
+Pull it out. Let it sit for 7 to 10 minutes. The juices settle. The whole thing firms up. Then serve.
+
+## Baked Cheese Zucchini Tips and Common Mistakes
+
+The water is the enemy. If you don't drain those squash hard, the casserole goes watery and sad. Press them. Use paper towels if you have to. It takes an extra minute and changes everything.
+
+Don't use pre-shredded cheese. It has anti-caking agents. Melts weird. Shred your own. Takes three minutes.
+
+The sour cream sounds weird. It works. Adds tang. Cuts the richness. Don't skip it.
+
+Batch the vegetables. I learned this the hard way. All at once and they steam. Two batches and they get that slight wrinkle.
+
+Actually — check the squash while it cooks. Every pan is different. Some heat faster. Pull them when they look right, not when the timer says.
+
+Sweet onion is worth it. Yellow onions are sharper. White onions disappear. Sweet ones stay present but don't overpower.
+
+Buttery crackers specifically. Not saltines. The butter matters. The salt matters. Whole grain crackers work too. Haven't tried tortilla chips. Might work.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baked Zucchini and Cheese
+
+**Can I use regular zucchini instead of yellow squash?**
+Yeah. Works the same. The flavor's a tiny bit different — darker, earthier. Color comes out different too. But texture and everything else? Same.
+
+**How do I know when it's done?**
+Cheese bubbles around the edges. Actually bubbles. And the cracker topping is golden with brown spots. Slight char is fine. That's flavor.
+
+**Do I have to let it rest after baking?**
+Yes. The ten minutes matters. Lets everything set. You can eat it hotter if you want but it'll be soupy. The rest makes it hold together.
+
+**Can I make this ahead?**
+Assemble it the night before. Don't bake. Just cover it and refrigerate. Bake it the next day. Add a few minutes to the time because it's cold going in. Maybe 27 minutes instead of 25.
+
+**What do I do if the top gets too dark before it's done?**
+Lay foil over it loosely. Keeps the top from burning while the inside finishes. Usually takes another 5 to 8 minutes after that.
+
+**Can I use different cheese?**
+Sharp cheddar does the work here. Mild cheddar is blander. Gruyere works. Swiss gets weird. Monterey Jack is fine. Stick with sharp cheddar if you can. It's the backbone.
+
+**Is this actually vegetarian if it has eggs and dairy?**
+Yes. Vegetarian means no meat. Eggs and cheese are fine. The sour cream too.
+
+**How long does it keep?**
+Three days in the fridge. Covered. Reheats fine at 325 until warm. Or eat it cold straight from the container like I do sometimes.
