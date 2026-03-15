@@ -1,10 +1,10 @@
 ---
-title: "Calvados Cured Salmon"
+title: "Cured Salmon with Calvados & Juniper"
 slug: "calvados-cured-salmon"
-description: "Cured salmon with salt, sugar, crushed juniper berries, and white pepper. Infused with Calvados apple brandy for a fruity twist. Cure times adjusted for firmer texture and deeper flavors. Sliced thin. Serve with tangy labneh or whipped ricotta, not the usual spreads, plus crunchy rye toasts. No skin, fresh fillet. Aroma of apple, earthiness from juniper. Texture slightly firmed, translucent pink flesh. Simple, no fuss. A rustic but refined take on Nordic gravlax, with a French apple orchard touch."
-metaDescription: "Calvados cured salmon with juniper, salt, sugar, and white pepper. Chill 20 hrs. Slice thin, serve with labneh or ricotta, crunchy rye on side."
-ogDescription: "Salmon cured 20 hrs in Calvados, juniper, salt, sugar, cracked white pepper. Slice thin. Serve chilled with tangy labneh & rye toasts. Rustic Nordic-French mix."
-focusKeyphrase: "Calvados cured salmon"
+description: "Cured salmon with salt, sugar, juniper berries, and Calvados apple brandy. Sliced thin and served with labneh or whipped ricotta and toasted rye bread for elegant simplicity."
+metaDescription: "Cured salmon recipe with juniper berries, Calvados brandy, and white pepper. Served with labneh and rye toast. Make it tonight."
+ogDescription: "Salt-cured salmon with juniper berries and Calvados brandy. Paired with creamy labneh and crispy rye toast."
+focusKeyphrase: "cured salmon"
 date: 2025-08-19
 draft: false
 image: calvados-cured-salmon.jpg
@@ -21,9 +21,18 @@ tags:
 - "french"
 - "apple"
 keywords:
-- "calvados salmon"
-- "cured salmon recipe"
-- "juniper curing salmon"
+- "cured salmon"
+- "homemade cured salmon fillet"
+- "calvados cured salmon"
+- "juniper berry cured salmon"
+- "apple brandy cured salmon"
+- "salt cured salmon with juniper berries"
+- "cured salmon with calvados and white pepper"
+- "cured salmon with labneh and rye bread"
+- "salmon appetizer"
+- "french salmon"
+- "gravlax recipe"
+- "nordic salmon"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "210"
@@ -67,3 +76,105 @@ faq:
 - "q: How to store cured salmon leftovers? a: Wrap tightly in plastic wrap or airtight container. Keep fridge temp below 4°C, good up to 3 days. Freeze not recommended due to texture loss. Small batches better for freshness. Let rest room temp before serving after fridge."
 
 ---
+
+Rub the salt and sugar into the salmon first—not the other way around. Twenty minutes of prep, then twenty-four hours waiting. The flesh firms up. The color changes. Tiny juniper berries do most of the work.
+
+## Why You'll Love This Cured Salmon
+
+Tastes like something you'd pay forty dollars for at a French seafood bar. Costs way less.
+
+Twenty minutes hands-on. The rest is the fridge doing it for you.
+
+Calvados gives it this subtle apple note that doesn't taste sweet. Just there. Works cold straight out the dish—perfect for when people show up and you don't want to cook.
+
+You can slice it thin without it falling apart. That's the juniper. That's also why you don't crush it too much.
+
+Labneh on top. Toasted rye underneath. The contrast actually matters. Not just decoration.
+
+## What You Need for Homemade Cured Salmon
+
+Salt. Twenty milliliters. Kosher works. Sea salt works. Regular table salt gets weird—too fine, dissolves too fast, over-cures.
+
+Organic cane sugar. Twenty-five milliliters. Brown sugar doesn't work here. The molasses gets in the way.
+
+Juniper berries. Ten of them, maybe. Crush them just enough to split the skin. Over-crush and they turn bitter. You'll know—tastes like Pine-Sol.
+
+White peppercorns. Cracked. Not ground. The crack matters. You want texture, not dust.
+
+One kilogram of salmon fillet. Skin already off. Cold from the store, good quality. Farmed's fine. Wild's better but both work.
+
+Calvados. Fifty milliliters. That's apple brandy from Normandy. The apple part matters. Dry. Not sweet. If you can't find it, dry apple cider works. White rum works. Skip anything sweet—it ruins the whole thing.
+
+Labneh or whipped ricotta. Labneh's better. Creamier, tangier. Crème fraîche is too rich and masks everything. Don't use it.
+
+Toasted rye bread. Sliced thin. Rye has this earthy crunch that pairs with the salt cure. White bread tastes like nothing next to this.
+
+## How to Make Cured Salmon with Juniper Berries
+
+Mix the salt, sugar, juniper, and white pepper in a small bowl first. Don't skip this step. Mixing dry means the flavors distribute evenly instead of clumping in one spot.
+
+Take the juniper berries in your palm. Press them with something flat—the bottom of a measuring cup works. You want them cracked open, not pulverized. The goal is releasing the oils without breaking them into dust.
+
+Spread half the cure directly on the salmon. Press hard. Use your fingertips. It looks wet from the sugar-salt combo, almost shiny. That's right. Press until the cure sticks.
+
+Flip the salmon over. Spread the rest of the cure on the other side. Same pressure. Same firmness. The fish should feel encased.
+
+Pour the Calvados over top. Not a full fifty milliliters all at once. Pour a little, let it soak in, pour more. Too much liquid means the flesh gets mushy instead of curing properly. You want it wet but not swimming.
+
+Lay the salmon in a glass dish skin side down. Glass matters—plastic can leach into the cure, ceramic holds heat differently. Glass stays neutral.
+
+Cover it completely with plastic wrap. Make it tight. Refrigerate immediately. This is where the waiting starts.
+
+## How to Get Perfect Cured Salmon Texture
+
+Flip the salmon halfway through. That's around the ten-hour mark if you're going the full twenty-four. Don't skip this. One side will firm up faster than the other without flipping. You'll see the edges turn pale pink and the center stay translucent. That's the cure working.
+
+The texture changes visibly. The first flip, it still feels soft. The second time you touch it—maybe at eighteen hours—it's holding itself differently. Firmer at the edges. The center has resistance now but not rigid.
+
+Twenty hours hits the sweet spot. Not less. Not more. Less and the flesh won't set properly—too soft, slices fall apart. More and it dries out. I've tried twenty-two hours. Too salty. Tried eighteen. Still too soft in the middle.
+
+After the timer goes, pull it out. Pat it completely dry with paper towels. This step gets skipped and people wonder why their slices come out watery. The excess liquid sitting on the surface needs to go. Pat until there's nothing left to blot.
+
+## Cured Salmon with Calvados and White Pepper—Tips and Mistakes
+
+Slice it thin. Seriously thin. Use the sharpest knife in the kitchen—a fish knife if you have one. The blade should glide through without sawing. You're looking for translucent pieces that show the color gradient from the pale edges to the deeper pink flesh underneath.
+
+Angle the knife. Not perpendicular to the fillet—tilt it about forty-five degrees. Angled slices are wider, thinner, prettier.
+
+Serve it cold. Not room temperature. Not slightly chilled. Straight from the fridge. The fat needs to be firm or it tastes greasy.
+
+If the cure gets too aggressive and salt builds up too much, a quick rinse under cold water then pat dry helps. But don't rely on this. Better to nail the timing from the start. Monitoring the clock carefully beats fixing mistakes.
+
+Labneh is non-negotiable here. Crème fraîche is too heavy. Cream cheese doesn't have the tang. The sourness of labneh cuts through the salt and picks up the apple notes from the Calvados. They're supposed to work together.
+
+Rye bread. Toasted. The earthiness matters. It's not a neutral vessel. It's part of the dish.
+
+If Calvados isn't available—and it's not always—dry apple cider or white rum work. Skip anything with sweetness. Spirits like peach schnapps or apple liqueur kill this. The delicate curing flavors get buried. Not worth it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cured Salmon
+
+**Can I use salmon with skin on?**
+You can. But the cure won't penetrate skin evenly. The salt ends up caking on the outside instead of infusing. Skin off works cleaner.
+
+**What if I don't have Calvados?**
+Dry apple cider. White rum. Both work. Avoid anything sweet—peach schnapps, apple liqueur, anything marketed as smooth. The curing flavors disappear.
+
+**How long does cured salmon keep?**
+Four days. Maybe five if it's packed well. After that the salt pulls more moisture out and it gets too dry. Tightly wrapped in plastic. Coldest part of the fridge.
+
+**Do I really need juniper berries?**
+Yeah. They're the backbone of the cure flavor. Without them it's just salt and sugar on fish. The berries add something pine-forward and subtle that makes it taste like actual cured salmon instead of salted fish.
+
+**Can I make this with farmed salmon instead of wild?**
+Farmed works fine. Wild's richer but costs more. Both hold the cure the same way. Color might be less vibrant with farmed but the texture comes out identical.
+
+**What's the difference between labneh and whipped ricotta?**
+Labneh's tangier and thicker from being strained. Ricotta's creamier and milder. For this dish labneh's better. The sourness plays off the Calvados. Ricotta tastes one-note next to it.
+
+**Can I cure a larger piece?**
+The timing changes. A thicker fillet needs closer to thirty hours. A thinner one maybe eighteen. The salt takes longer to penetrate thick flesh evenly. Best to stick with standard thickness—about an inch and a half.
+
+**Why does the recipe say not to crush the juniper too much?**
+Over-crushing releases bitter compounds along with the good oils. Subtle cracking opens the berry and lets the flavor out without bitterness. You learn this the hard way once.
