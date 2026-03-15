@@ -1,10 +1,10 @@
 ---
-title: "Grilled Peach Burrata"
+title: "Grilled Peach Appetizer with Burrata"
 slug: "grilled-peach-burrata"
-description: "A fresh take on burrata with grilled peaches and confit cherry tomatoes, sweetened with honey and brightened with basil. Smoke from the grill meets the creamy cheese, smoky fruit, and tart-sweet tomatoes cooked down to a tender collapse in parchment packets. A hint of spice from smoked paprika replaces piment d’Espelette. White balsamic vinegar swapped for aged sherry vinegar brings a nutty tang. Served with crisp crostini toasted with garlic and rosemary. Balanced acidity, smoky-sweetness, creamy texture, and a fresh herbal kick. A mix of sweet, tart, smoky, creamy, and crunchy--a game changer on the patio or anytime."
-metaDescription: "Grilled Peach Burrata with smoky confit cherry tomatoes, honey drizzle, fresh basil, and garlic-rosemary crostini. Sweet meets creamy with smoky undertones."
-ogDescription: "Smoky grilled peaches paired with creamy burrata, confit cherry tomatoes tanged by sherry vinegar, honey, and fresh basil served with garlic rosemary toast."
-focusKeyphrase: "Grilled Peach Burrata"
+description: "Grilled peach appetizer featuring creamy burrata, confit cherry tomatoes, and fresh basil. Smoky grilled peaches meet tangy aged sherry vinegar and wildflower honey for an unforgettable summer starter."
+metaDescription: "Grilled peach appetizer with burrata, confit cherry tomatoes, basil, and honey. A smoky-sweet summer starter with charred stone fruit and creamy cheese. Make it tonight."
+ogDescription: "Charred peaches meet creamy burrata, confit tomatoes, and wildflower honey. A smoky-sweet summer appetizer that impresses every time."
+focusKeyphrase: "grilled peach appetizer"
 date: 2025-08-17
 draft: false
 image: grilled-peach-burrata.jpg
@@ -21,11 +21,14 @@ tags:
 - "summer"
 - "appetizer"
 keywords:
-- "grilled peaches"
-- "burrata cheese"
-- "sherry vinegar"
-- "smoked paprika"
-- "confit tomatoes"
+- "grilled peach appetizer"
+- "grilled peaches with burrata"
+- "burrata appetizer with confit tomatoes"
+- "burrata with honey and basil"
+- "charred peaches and creamy cheese"
+- "summer grilling recipes"
+- "vegetarian grilling ideas"
+- "grilled stone fruit with fresh mozzarella"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"
@@ -88,3 +91,115 @@ faq:
 - "q: No burrata, use what? a: Stracciatella cheese inside mozzarella pouch available sometimes; less rich but creamy. Fresh mozzarella okay last resort, misses creamy center punch. Flavor and texture change but dish still works. Room temp before serving applies."
 
 ---
+
+Brush the peach quarters with oil. Listen for that gentle crackle when they hit the grill. Four to six minutes, flipping halfway through. You'll know because the fruit softens but doesn't ooze. Not yet.
+
+## Why You'll Love This Grilled Peach Appetizer
+
+Takes 35 minutes total—20 minutes of prep, 15 on the grill. Summer entertaining, done.
+Vegetarian grilling that actually works. Not a side dish trying to be important. This is the main event.
+Burrata cheese goes soft in the heat. Honey pools around it. Basil scattered everywhere. Warm fruit, creamy center, crispy toast with garlic. It all happens at once and it works.
+The confit cherry tomatoes cook in foil. Smoked paprika gives them something deep. You're not fighting heat or flare-ups. Just time and gentle temperature. Cleanup's minimal too—everything's wrapped.
+Cold peaches won't work. They'll split. Ripe ones that yield slightly when you press them. That's the moment.
+
+## What You Need for Grilled Peach Burrata
+
+Three medium peaches. Pit them. Quarter them. Don't peel—skin holds the fruit together on heat.
+
+Two hundred grams of cherry tomatoes halved. Cherry tomatoes matter here because regular ones fall apart. Halved, they shrink without disappearing.
+
+Burrata. Two hundred grams. One ball. Drained and sitting at room temperature for thirty minutes before you start. Cold burrata tastes muted. Room temperature burrata tastes like something.
+
+Extra-virgin olive oil. Not light olive oil. The kind that tastes like olives. You need fifty-five milliliters total—thirty-five for the peaches, twenty for finishing.
+
+Aged sherry vinegar. Not white vinegar. Not balsamic. Sherry has depth that actually belongs here. Twenty milliliters.
+
+Maple syrup. Fifteen milliliters. It thickens the tomato glaze better than honey alone. Also tastes less aggressive than regular sugar.
+
+Wildflower honey. Twenty milliliters. Goes over the whole plate at the end. Cuts the acid. Balances the smoke.
+
+Sea salt. Three milliliters for the tomatoes. Fleur de sel for finishing the plate. They're different—coarser flakes stick to food instead of dissolving into nothing.
+
+Smoked paprika. One milliliter. That warm smoky note. Not hot. Just there.
+
+Basil leaves. Fresh. Torn. As much as you want, honestly.
+
+Black pepper. Freshly ground. Pre-ground tastes like dust here.
+
+Baguette or country bread. Sliced. Toasted. Rubbed with a cut garlic clove and sprinkled with rosemary. Holds up to the juices without falling apart.
+
+## How to Make Grilled Peach Burrata
+
+Get your grill to medium-low. That matters. High heat and the peaches split before they soften. Medium-low is where they caramelize without burning.
+
+Oil the grates with a paper towel soaked in olive oil. Use tongs. Not a brush. Brush leaves fibers behind. Soak it deep, drag it across twice. The grates should shine.
+
+Toss the halved tomatoes in a bowl with thirty-five milliliters olive oil, twenty milliliters sherry vinegar, fifteen milliliters maple syrup, three milliliters sea salt, and one milliliter smoked paprika. Stir it around. Let it sit twenty minutes. The liquid pools at the bottom. That's the glaze thickening.
+
+Drain the tomatoes thoroughly. Don't throw away the liquid—keep it for drizzling on other things. Burrata salad. Bruschetta. It's useful.
+
+Make two foil packets. Bottom layer heavy-duty foil. Top layer parchment. Parchment doesn't stick to tomatoes the way foil does. Put the tomatoes in the center of each, fold the edges tight. Seam facing up so steam doesn't escape where you don't want it.
+
+Place them on the indirect heat side of the grill. Not directly over flame. You want gentle heat. Twelve to fifteen minutes. Listen—you should hear a soft sizzle. Not a roar. A roar means something's burning.
+
+The tomatoes should just start shrinking. Soft but still holding their shape. When you open the foil, steam escapes and it smells like smoke and maple and vinegar all at once.
+
+## How to Get Grilled Peaches with Burrata Charred Right
+
+Brush the peach quarters with twenty milliliters olive oil. Not drenched. Just even coverage. They should glisten.
+
+Grill them on direct heat. Listen for the crackle. Four to six minutes total, flipping halfway through. You're looking for caramelized grill marks. Deep color. The fruit just barely softens under your finger when you press it.
+
+If the peaches start oozing liquid onto the grill—you waited too long. They're cooked. Pull them off.
+
+Slice the burrata in half carefully. The creamy inside spills out if you're rough about it. Cut it on the serving plate to catch whatever leaks. It's all good. It's all getting eaten anyway.
+
+Place the halved burrata in the center of your serving dish. Warm. Just enough to start thinking about melting.
+
+Nestle the warm tomatoes and peaches around it. Pour the remaining twenty milliliters olive oil from the peaches plus twenty milliliters honey over everything. The honey cuts the acid from the vinegar and tomatoes. Brings everything into balance. Not sweet. Just less aggressive.
+
+Scatter basil leaves everywhere. Don't be delicate about it. Torn, loose, piled on top.
+
+Season the whole plate with fleur de sel and freshly cracked black pepper. Taste it first if you can. Adjust. It should taste like stone fruit and smoke and creamy cheese all happening at once.
+
+Serve immediately with the toasted bread rubbed with a cut garlic clove. Light sprinkle of rosemary. The bread needs to be warm enough that it holds up to the juices without falling apart. Cold bread just soaks and falls apart. Wrong texture entirely.
+
+## Grilled Stone Fruit with Fresh Mozzarella Tips and Mistakes
+
+Burrata temperature actually matters. Too cold and the flavor gets muted. Too warm and it becomes a puddle. Room temperature is the target—thirty minutes at room temp if it came straight from the fridge. Not an approximation. Actually do it.
+
+Ripe peaches are everything here. The ones that yield slightly when you press them. Firm peaches won't caramelize. They'll just sit there. Overripe peaches turn into mush the second they hit heat. The middle ground is the only place where grilling works.
+
+Overcrowding the foil packet means uneven cooking. Tomatoes in the middle stay cold while edges char. Leave space. Let heat move.
+
+Don't skip the sherry vinegar. White vinegar is too sharp. Balsamic is too heavy. Sherry has this middle depth that actually belongs in the dish. Not negotiable.
+
+The garlic-rubbed toast is not optional. Creamy burrata needs something to push against texture-wise. Plain bread is just carbs. Garlic and rosemary bread is contrast. It matters.
+
+Reserve the tomato marinade. Seriously. Drizzle it on salad later. Spread it on more bruschetta. It's basically a vinaigrette you already made.
+
+If you don't have a grill, the oven broiler works fine. Watch it carefully. Closer to the heat means faster cooking. Peaches under a broiler need maybe three to four minutes per side. The tomatoes still want foil packets. Same timing. Lower heat if your broiler runs hot.
+
+Burrata isn't always available. Stracciatella in a mozzarella pouch works as a substitute. Not as rich. Not as creamy. But it covers the job. Fresh mozzarella straight up is too firm for this dish. Needs the creamy center.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Peach Burrata with Cherry Tomatoes
+
+**Can I make the tomatoes ahead?**
+Yes. Cook them the morning of. Keep them in the foil packet. They actually taste better after sitting a few hours—flavors settle in. Reheat them gently on the grill for three minutes wrapped up. Don't unwrap early or they'll dry out.
+
+**What if my peaches are too firm?**
+Leave them on the grill longer. Keep listening for softness. Push one with your finger—if it gives, you're done. If it's solid, keep going. Sometimes it's eight minutes instead of six. Depends on the grill temperature.
+
+**Do I have to use wildflower honey?**
+Not really. Regular honey works. Wildflower just tastes less one-note. If that's all you have, use it. Won't ruin anything.
+
+**Can I prep the burrata in advance?**
+No. Room temperature burrata starts falling apart after thirty minutes. Make it work right before you grill. And keep it out of direct sun. Heat kills it faster.
+
+**What's the deal with the parchment in the foil packets?**
+Parchment stops the tomatoes from sticking to foil. Foil alone and you're scraping charred bits off fruit. Parchment slides. Also tomato acid doesn't react with parchment the way it does with foil. One less thing to worry about.
+
+**Can I use regular mozzarella instead of burrata?**
+It's not the same dish. Regular mozzarella is too firm. Burrata's the whole point—that creamy center melting into everything. If you can't find it, stracciatella works. Fresh mozzarella doesn't.
