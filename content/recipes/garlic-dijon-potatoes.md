@@ -1,10 +1,10 @@
 ---
-title: "Garlic-Dijon Hasselback Potatoes"
+title: "Hasselback Potatoes with Cheddar and Pancetta"
 slug: "garlic-dijon-potatoes"
-description: "Crispy skinned russet potatoes sliced thin but held intact, brushed with a savory butter Dijon garlic glaze, baked to crackling perfection then stuffed with melted cheddar. A chive sour cream and smoky pancetta topping finishes it off. Uses Yukon golds instead of all russets for creamier texture. Adjusted bake times for size variations. Salt and pepper seasoning upfront, garlic powder in butter mix for punch. Thin slits mean easy layering but watch not to cut through. Butter Dijon blend seeps into slits, amps flavor, vital step. Cheese melts in the last few minutes, avoid drying out. Visual separation of slices signals perfect stage for glazing. Crispy, golden edges with soft creamy center. Adaptable toppings suggested, plus tips on slicer steadiness and oil brushing depth."
-metaDescription: "Garlic-Dijon Hasselback Potatoes with Yukon golds sliced thin, brushed with butter-mustard garlic glaze, baked crisp, stuffed with cheddar, topped sour cream pancetta."
-ogDescription: "Thin-sliced Yukon gold potatoes brushed with savory butter-mustard-garlic, baked crisp, stuffed with cheddar, topped sour cream pancetta. Crunchy edges, creamy inside."
-focusKeyphrase: "Hasselback Yukon gold potatoes"
+description: "Hasselback potatoes sliced thin, brushed with garlic butter and Dijon mustard, then topped with melted cheddar, sour cream, chives, and crispy pancetta bits."
+metaDescription: "Make hasselback potatoes with Yukon golds, cheddar cheese, and pancetta. Crispy edges with creamy centers. Try it tonight."
+ogDescription: "Garlic butter hasselback potatoes layered with sharp cheddar, pancetta, and sour cream. Crispy and delicious."
+focusKeyphrase: "hasselback potatoes"
 date: 2025-12-02
 draft: false
 image: garlic-dijon-potatoes.jpg
@@ -21,9 +21,18 @@ tags:
 - "bacon"
 - "side dish"
 keywords:
-- "Hasselback potatoes"
-- "Yukon gold potatoes"
-- "baked potatoes"
+- "hasselback potatoes"
+- "roasted potato dish"
+- "roasted potatoes in oven"
+- "potato bake"
+- "twice baked potato bake"
+- "baked garlic potatoes"
+- "crispy potato bake"
+- "easy potato bake"
+- "roasted fingerling potatoes"
+- "sliced and baked potatoes"
+- "accordion potatoes"
+- "baked potato casserole"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "350"
@@ -76,3 +85,74 @@ faq:
 - "q: How best to store and reheat leftovers? a: Refrigerate in airtight container. Crispy texture lost after reheating. Warm gently in oven or toaster oven to revive edges but expect softer skin. Microwave heats faster but makes skin soggy. Leftovers good for next day mash or skillet frying for crisp patches again. Not ideal reheated straight as baked."
 
 ---
+
+Cut them thin—parallel slits, maybe a quarter inch apart. Stop before you slice all the way through. This is hasselback potato territory, but loaded. Yukon golds because they hold up. The skin gets actually crisp while the insides go soft and butter-soaked. Takes 75 minutes total, most of it just sitting in the oven while you do nothing.
+
+## Why You'll Love This Roasted Potato Dish
+
+Hot and crispy on the outside, creamy in the middle—that's the texture contrast that makes this work.
+Bacon and cheddar are already in there. Not on top. Stuffed into the slits so they get toasted by the time everything else is done.
+Sour cream dollop at the end. Cold against hot. Sort of like a loaded baked potato but better because the whole thing is crunchy.
+Weeknight side that feels fancy. Takes planning, but actual work time is maybe 20 minutes.
+Tastes even better the next day cold. Well, the texture goes soft. But the flavor sticks around.
+
+## What You Need for a Hasselback Roasted Potato Dish
+
+Four large Yukon gold potatoes. Not russets—they fall apart when you slice them like this. Not reds either.
+Three tablespoons of olive oil. Real olive oil. Not the light stuff. Gets brushed between every single slit.
+Coarse sea salt and cracked black pepper. Both matter. The salt seals the skin and makes it crisp faster.
+Three tablespoons unsalted butter, softened. Gets mixed with garlic powder and whole grain mustard. Dijon works but the grainy kind is better—more texture, less smooth.
+Half a cup of sharp cheddar, shredded. Not pre-shredded if you can help it. The stuff in the bag has starch and doesn't melt as clean.
+Four tablespoons sour cream. Cold dollop at the end.
+Fresh chives, chopped. Or skip it. Works either way.
+Three tablespoons pancetta bits. Bacon too, if that's what's in the fridge. Cooked already, not raw.
+Smoked paprika optional. Just a pinch on top at the end.
+
+## How to Roast Potatoes with Thin Slices
+
+Get the oven to 420. Middle rack. Not high, not low. Your oven probably runs hot anyway.
+Pat the potatoes completely dry. This part actually matters. Wet skin steams instead of crisps. Use paper towels, really rub them down.
+Find a damp towel and lay it flat. Potato sits on top—keeps it from rolling while you're making all those cuts. Use a sharp knife. Rest it against the potato and make parallel cuts about a quarter inch apart, maybe a fifth of an inch if you want them tighter. Stop just before you hit the cutting board. The bottom stays whole. It's holding everything together.
+Olive oil goes on heavy. Brush it all over the outside, but really get it into those slits. You want it seeping down between every layer.
+Sprinkle sea salt and black pepper over the whole thing. Generously. Not shy about it.
+
+## How to Get Roasted Potatoes Crispy and Golden
+
+Forty to 50 minutes in the oven. You'll see the slices start to open up and the edges go golden. That's when you know it's getting there.
+While that's happening, mix the butter with garlic powder and mustard in a small bowl. Whisking helps. Keep it soft so it spreads easy.
+Pull the potatoes out. Brush that butter mixture all over—outside and deep into those slits. This is coating everything, adding fat and flavor.
+Back in the oven for another 15 to 20 minutes. Layers start crisping up more, the whole thing goes a deeper golden. Bigger potatoes take longer.
+Turn off the oven but leave them inside for a few minutes. Not a long time. Just enough so the texture consolidates and nothing dries out. You're getting that final crisp without overcooking the middle.
+Now stuff the cheese into the slits. Push it down with the back of a spoon so it gets in there, not just sitting on top. Return to the warm oven for maybe a minute or two. Watch it. Cheese should melt, not burn.
+Top with sour cream dollops, chives, the pancetta. Smoked paprika if you have it. Hot. Serve immediately.
+
+## Roasted Potato Tips and Common Mistakes
+
+Potatoes resist the knife sometimes. That means they're too warm. Chill them for 20 minutes and try again. Cold potato slices cleaner, doesn't break apart as easy.
+Don't skip patting them dry. Seriously. This is what separates crispy from soggy.
+The salt amount looks like a lot. It's not. It's seasoning the whole potato from the outside in, plus it helps the skin crisp.
+Cheese melts at the very end. Don't stuff it in earlier or it leaks out and burns on the sheet pan.
+Leftovers are fine. Cold is actually good. But that crispy skin texture goes. So make them fresh when you can.
+You can switch up the toppings. Caramelized onions instead of bacon. Sautéed mushrooms. Truffle oil drizzle for something fancier. The roasted potato base is solid for whatever direction you want to go.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Potatoes
+
+**Can I prep these the night before?**
+Cut them, sure. Just leave them in water in the fridge so they don't oxidize and turn gray. Pat them dry right before they go in the oven. Timing's the same.
+
+**What if I don't have sharp cheddar?**
+Gruyère works. So does a younger cheddar, but you lose some of that bite. Honestly it's still fine.
+
+**How do I know when the slices have opened enough?**
+You can see the gaps between the slits. They're not tight anymore. Golden edges starting to crisp. That's the sign.
+
+**Can I make hasselback potatoes in a different way?**
+Air fryer them? Probably. Haven't tried it myself but the temp would be higher, time shorter. Maybe 25 minutes at 400. The edges might not get as crispy though.
+
+**Why does the skin get crisp but the inside stays soft?**
+Oil and salt seal the outside so moisture gets trapped. Inside stays steamy while the outside gets dry enough to crisp. The slit design helps the butter penetrate while keeping structural integrity.
+
+**Is there a best potato for this oven roasted potato bake?**
+Yukon gold every time. They have the right starch to moisture ratio. Russets crack and split. Waxy potatoes don't crisp as good.
