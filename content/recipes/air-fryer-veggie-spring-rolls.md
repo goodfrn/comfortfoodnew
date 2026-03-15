@@ -1,9 +1,9 @@
 ---
-title: "Air Fryer Spring Rolls with Crispy Veggies"
+title: "Air Fryer Spring Rolls with Cabbage"
 slug: "air-fryer-veggie-spring-rolls"
-description: "Homemade air fryer spring rolls stuffed with napa cabbage, shiitake mushrooms, carrots, and bean sprouts. Crispy outside, tender filling—no deep frying needed."
-metaDescription: "Air fryer spring rolls recipe with fresh vegetables and crispy rice paper shells. Skip takeout and make them at home tonight."
-ogDescription: "Crispy air fryer spring rolls loaded with stir-fried napa cabbage, mushrooms, and carrots. Healthier than deep fried."
+description: "Crispy air fryer spring rolls filled with napa cabbage, shiitake mushrooms, carrots, and bean sprouts. Homemade vegetarian recipe with no deep frying required."
+metaDescription: "Make air fryer spring rolls at home with napa cabbage, mushrooms, carrots, and bean sprouts. Crispy outside, tender filling. Try it tonight."
+ogDescription: "Homemade air fryer spring rolls with cabbage, mushrooms, carrots, and bean sprouts. Crispy and delicious."
 focusKeyphrase: "air fryer spring rolls"
 date: 2025-11-23
 draft: false
@@ -23,9 +23,16 @@ tags:
 keywords:
 - "air fryer spring rolls"
 - "spring roll air fryer"
-- "air fryer vegetable spring rolls"
-- "rice paper air fryer"
 - "homemade spring rolls"
+- "vegetable spring rolls air fryer"
+- "air fryer vegetable spring rolls"
+- "spring rolls recipe air fryer"
+- "crispy spring rolls"
+- "napa cabbage spring rolls"
+- "air fry spring rolls recipe"
+- "easy spring rolls"
+- "rice paper spring roll air fryer"
+- "cook spring rolls in air fryer"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "110"
@@ -71,3 +78,105 @@ faq:
 - "q: Can I store cooked rolls? a: Yes but lose crisp with fridge moisture. Store loosely covered on rack not stacked. Reheat air fryer few minutes or oven to revive crisp. Avoid sealed container unless cooled fully or moisture traps ruins shell texture."
 
 ---
+
+Lay the wrapper down like a diamond. One corner pointing at you. Brush that top corner with a tiny bit of slurry—just enough to seal later, not enough to make it wet. Three and a half tablespoons of filling in the center. Fold the bottom corner up over it, fold the sides in tight, roll it like you're rolling a burrito and actually mean it. Seal that edge hard. Then into the air fryer at 395°F for somewhere between 13 and 17 minutes, flipping halfway, until the whole thing goes gold and starts to blister and crackle. It works. Takes 38 minutes total if you move.
+
+## Why You'll Love These Air Fryer Spring Rolls
+
+Takes 38 minutes start to finish and you don't need a wok, just a regular pan.
+Vegetarian. Works as an appetizer or alongside anything Asian — made these with fried rice, with stir-fry, with nothing but a sauce.
+Tastes like you deep fried them. Crispy shell, steamed filling, zero actual oil mess. The air fryer does something that shallow frying can't — even heat all around.
+Filling stays moist inside while the wrapper crisps. Not sure why the cornstarch slurry works this well, it just does.
+Frozen ones exist and yeah, air fryer handles them fine in about 12 minutes. But homemade hits different.
+
+## What You Need for Homemade Spring Rolls
+
+Vegetable oil. Two tablespoons for the pan, more for brushing the rolls later. Doesn't have to be fancy.
+
+Napa cabbage. Two cups shredded. Not green cabbage. Napa's got the right texture — breaks down just enough without turning to mush.
+
+Bean sprouts. A cup and a half. Fresh. Dried ones don't work here.
+
+Carrots. Three quarters cup, julienned thin. Matchsticks. Thick ones don't cook through in time.
+
+Shiitake mushrooms. Half a cup chopped. Fresh or soaked dried — either works. Dried ones add more flavor if you've got the time.
+
+Green onions. Three of them, sliced thin. At the end. Not in the main stir-fry.
+
+Cornstarch slurry. Two tablespoons cornstarch mixed with a quarter cup water. Sounds weird. It's your filling binder and your wrapper glue. Can't skip it.
+
+Brown sugar. One teaspoon. Not table sugar. Brown sugar brings something different.
+
+Kosher salt. Half a teaspoon. Coarser than table salt. Stays on the food instead of disappearing.
+
+Black pepper. A quarter teaspoon, fresh ground. The kind you grind yourself. Pre-ground tastes like dust after a while.
+
+Spring roll wrappers. Twelve of them. The thin rice paper kind, not egg roll wrappers. Find them in the Asian aisle or online. The difference matters.
+
+## How to Make Spring Rolls in the Air Fryer
+
+Get a wok or a deep skillet hot over medium heat. When the oil shimmers — and I mean shimmers, not smokes — throw in the napa cabbage, bean sprouts, carrots, mushrooms all at once. Stir constantly. Not just occasionally. Constant. That's what keeps everything cooking evenly and stops one vegetable from going soggy while the rest is still raw. Watch the color change. Smell the aroma come up. Two to four minutes is usually enough. You want them soft but still crunchy. Not limp.
+
+Stir in the green onions, brown sugar, salt, pepper. Pour the cornstarch slurry in slowly while you keep stirring. This is where it gets tricky — you want enough slurry to coat everything without making it glue-thick. Takes another minute or two. If it looks too wet, leave it on the heat a bit longer and the cornstarch sets it up. If it looks right — moist, not dripping — pull it off the heat and let it cool a few minutes. Warm filling steams the wrappers. Cold filling stays crisp.
+
+Preheat the air fryer to 395°F. This matters. Too high and the outside burns before the inside cooks. Too low and they stay pale and chewy.
+
+Lay a wrapper in front of you so it looks like a diamond — one corner pointing straight at you. Brush that top corner with a thin line of cornstarch slurry. This is your seal. Too much glue makes it soggy. Too little and the whole thing opens mid-cook.
+
+Spoon the filling in the center — about three and a half tablespoons. Fold that bottom corner over the filling. Fold the left corner in, fold the right corner in, both snug against the filling. Now roll it upward like a baton, tight, all the way to that sealed corner. The pressure keeps it together. It should feel firm when you're done.
+
+Repeat for all twelve rolls. Brush both sides — and I mean both sides — with a very thin coat of vegetable oil. This is your crisp. Too much oil and they get greasy. Too little and the wrapper stays pale.
+
+## How to Get Spring Rolls Crispy in the Air Fryer
+
+Lay them in the basket with about half an inch between each roll. Overcrowding means steam builds up and you end up with limp spring rolls that taste steamed, not fried. Better to do two batches than ruin a whole batch.
+
+Air fry at 395°F for 13 to 17 minutes. Flip them halfway through so both sides get the heat. That's usually around the 7-minute mark but listen — when you open the basket and smell toasted, crunchy aroma rising, that's when you flip. Not a timer. A smell.
+
+Watch for the golden brown color. Not pale yellow. Gold. And slight blistering on the shell — that's the moisture hitting the heat and creating little bubbles. That's crispness.
+
+When they're even color all around, pull them out. Don't leave them in because "they might not be done." That's how you go from crispy to tough. Let them cool on a wire rack for about a minute — that's when the crispness actually sets. They keep crunching as they cool.
+
+## Air Fryer Spring Roll Tips and Common Mistakes
+
+Don't skip the slurry. It sounds like an extra step. It's not. It binds the filling so it doesn't fall apart, and it seals the wrapper so it doesn't open. Nothing else works quite right.
+
+Vegetables should be pre-cooked before they go in the rolls. Raw vegetables release too much moisture and make everything soggy. The pre-cook also softens them enough that they actually taste cooked, not raw.
+
+Spacing matters more than you think. Even a quarter inch between rolls makes a difference. Air fryers work by circulating hot air. Touching rolls block the air. You get one side crispy and one side pale.
+
+The oil brush is subtle. Like, barely there. You're not painting them. You're dusting them. Thin coating. That's all you need.
+
+Frozen spring rolls from the store work in an air fryer — about 12 minutes at the same temp, flipping halfway. They never get quite as crispy as fresh, though. The wrapper's thicker and they've already lost moisture in the freezer.
+
+Rice paper rolls are the same thing, different name. Chiko rolls are thicker and need a bit longer. Same temperature. Same method.
+
+If your rolls are opening during cooking, you didn't seal the corner tight enough, or the filling was too wet. Let it cool more next time. Also check the wrapper — sometimes they dry out before you can fill them. Keep them under a damp towel while you work.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Air Fryer Spring Rolls
+
+**How long do air fryer spring rolls take to cook?**
+13 to 17 minutes at 395°F, flipping halfway. So 6 or 7 minutes, then flip, then another 6 or 7. Depends on how hot your fryer runs and how thick you rolled them.
+
+**Can you cook frozen spring rolls in an air fryer?**
+Yeah. About 12 minutes, same temperature. They get crispy but not quite like fresh. The wrapper's already lost some moisture sitting in the freezer.
+
+**Why are my spring rolls soggy?**
+Either the filling was too wet when you rolled them, or they're touching in the basket and steaming each other. Space them out. And let the filling cool before filling the wrappers.
+
+**Can I make the filling ahead of time?**
+Absolutely. Make it the day before, keep it in the fridge. Reheat it gently or use it cold — doesn't really matter. Just don't let it sit wet for hours or the vegetables break down.
+
+**What's the best dipping sauce?**
+Chili-garlic is the standard. Sweet soy works. Peanut sauce if you're into it. Honestly, they're good with just salt.
+
+**Can you stack spring rolls in the air fryer?**
+Don't. They need air around them to crisp. One layer, spaced half an inch apart. Do two batches if you have to.
+
+**What if I don't have shiitake mushrooms?**
+Skip them. Or use button mushrooms. Or oyster. Doesn't really matter. They're there for a little earthiness, not essential.
+
+**Do spring rolls need to be sealed with cornstarch slurry?**
+Technically you could use egg wash or just water. But the slurry does double duty — it binds the filling and seals the wrapper. Worth it.
