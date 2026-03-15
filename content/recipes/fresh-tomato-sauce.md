@@ -1,10 +1,10 @@
 ---
-title: "Fresh Tomato Sauce Twist"
+title: "Spaghetti Sauce Bolognese with Fresh Tomatoes"
 slug: "fresh-tomato-sauce"
-description: "A fresh tomato sauce made from ripe garden tomatoes with a rustic texture. A garlic and shallot base, simmered slowly with olive oil, salt, and pepper. No fancy gadgets needed, just knives and pots. The sauce thickens until it clings to pasta or bread. Variations include swapping shallots with leeks and adding a pinch of dried oregano for a Mediterranean flair. Perfect for quick dinners when canned tomatoes aren't an option. Relies on sensory cues—look for deep red color and simmering bubbles that slow down. Ideal for vegan and gluten-free diets."
-metaDescription: "Fresh Tomato Sauce Twist made from garden tomatoes, garlic, shallots simmered low and slow. Chunky texture, vibrant color, simple ingredients, no blender needed."
-ogDescription: "Chunky fresh tomato sauce simmered gently with garlic, shallots, olive oil. Skins peeled, seeds squeezed out, bubbles slow down signaling done."
-focusKeyphrase: "fresh tomato sauce"
+description: "Spaghetti sauce bolognese made with fresh plum tomatoes, garlic, and shallots simmered in olive oil. This homemade tomato sauce thickens to coat pasta perfectly."
+metaDescription: "Spaghetti sauce bolognese recipe using fresh plum tomatoes, garlic, and shallots. Slow-simmered with olive oil for rich flavor. Make it tonight."
+ogDescription: "Fresh tomato bolognese sauce with garlic, shallots, and olive oil. Simple, rustic, and clings perfectly to pasta."
+focusKeyphrase: "spaghetti sauce bolognese"
 date: 2025-08-04
 draft: false
 image: fresh-tomato-sauce.jpg
@@ -21,9 +21,18 @@ tags:
 - "pasta"
 - "easy dinner"
 keywords:
-- "tomato sauce"
-- "fresh tomatoes"
-- "garlic shallot base"
+- "spaghetti sauce bolognese"
+- "homemade tomato sauce"
+- "tomato sauce recipe"
+- "marinara sauce recipe"
+- "sauce pomodoro"
+- "homemade spaghetti sauce"
+- "red sauce recipe"
+- "marinara recipe"
+- "fresh tomato sauce"
+- "pasta sauce recipes"
+- "homemade pasta sauce"
+- "recipe spaghetti sauce"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "110"
@@ -65,3 +74,55 @@ faq:
 - "q: How to store leftovers? a: Cool fully before refrigerating in airtight container. Lasts 3 days usually. Freeze in portions for months; good reheated slow in pan, add splash water if thickened too much. Don’t keep warm on stove too long or flavor dulls."
 
 ---
+
+Cut the tomatoes first. Twenty minutes of prep, fifty of actual cooking. Not complicated, just time. The sauce pomodoro comes together once you stop thinking about it and just work through the steps.
+
+## Why You'll Love This Spaghetti Sauce
+
+Takes 70 minutes total and tastes like you spent three hours. Literally tastes better the next day—I make it the night before. Vegan, homemade, no weird ingredients. Just tomatoes, garlic, oil. Works cold on bread, hot on pasta, as a pizza red sauce base. The consistency's perfect for coating—thick but it moves. One pan. You'll taste the actual tomatoes, not just salt and acid.
+
+## What You Need for Homemade Spaghetti Sauce
+
+Two and a half kilograms of fresh plum tomatoes—that's about 25. Doesn't seem like a lot once they're cooked down. Four garlic cloves. A medium shallot, chopped up. Eighty milliliters of extra virgin olive oil. That's roughly a third of a cup if you don't want to measure. Salt. Black pepper. Optional dried oregano—I skip it half the time. Nothing else. No tomato paste, no cream, no weird balancing acts.
+
+## How to Make Spaghetti Sauce Bolognese
+
+Score each tomato with a small cross at the base—just a scratch, nothing deep. Boil a big pot of water. Drop the tomatoes in for 25 seconds. That's it. Not longer. Watch them. The second the skins start separating, pull them out and dump straight into ice water. The cold stops everything immediately. Peel carefully starting at that scored spot—they come off easy once the skin loosens. Halve them. Squeeze out the seeds gently. Save the juice. All of it.
+
+Roughly chop the peeled tomatoes. Throw them in a bowl with crushed garlic and the chopped shallot. Don't puree this. Leave it chunky. That's where the fresh texture comes from. Heat the olive oil in a heavy-bottomed pan over medium until it shimmers slightly—not smoking, just warm and moving. Add the garlic and shallot. Stir often. You want them to soften and smell good, but not brown. Brown means bitter. That happens fast.
+
+Pour in the tomato mixture with all the juice. Stir to coat everything in oil. Turn the heat up to bring it to a gentle simmer—steady bubbles, not violent ones. Once it's going, lower the heat back down and leave it mostly alone. Stir every few minutes so it doesn't stick to the bottom. This takes 45 to 55 minutes. The sauce should reduce by about a third. You're looking for it to coat the back of a spoon, hold there for a second, then slide back. That's the tell. Season now with salt, pepper, and oregano if you're using it. Taste constantly. If it's too tart, add a pinch of sugar. A pinch. Not a teaspoon.
+
+Drag a spoon across the surface at the end. If it holds its shape briefly before filling back in, that's perfect. Too thick? A splash of reserved tomato juice fixes it instantly. Too thin? Just keep simmering. The longer it goes, the deeper it tastes.
+
+## Making Spaghetti Sauce Recipe Tips and Mistakes
+
+Use plum tomatoes. Not beefsteak, not cherry. Plums have less water and more seed cavity to squeeze out. The texture matters. Fresh tomatoes. Not canned. I've tried both. Fresh tastes like actual tomatoes. Canned tastes like a can. Don't skip the ice water shock. It's not a step you skip. The skins come off differently without it, and you'll spend ten minutes wrestling with them. The heat matters—medium for the garlic and shallot, gentle simmer after. Too hot and you're making tomato jam instead of sauce. Too low and you're just warming it for an hour. The oil goes in early so it carries flavor as things cook down. Not at the end. Don't do that. Taste before you season. The tomatoes already have salt in them—you might need less than you think. Actually, you probably will need less. And don't go heavy on oregano. A teaspoon for this much sauce is already almost too much.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spaghetti Sauce Pomodoro
+
+**Can I make this with canned tomatoes instead?**
+Technically yes. Won't be the same. Canned tomatoes are already broken down and cooked. This recipe relies on fresh tomatoes reducing and concentrating. You could try it with two cans of San Marzano, drain them, then skip the blanching step. But I wouldn't.
+
+**How long does this keep in the fridge?**
+Five days easy. Seven if it's sealed tight. Tastes better on day two. Something about the flavors settling overnight.
+
+**Can I freeze this?**
+Yes. Just use it within three months. I freeze it in portions, actually. One batch makes four dinners worth if you're not drowning the pasta in it.
+
+**What if my sauce is too thin after cooking?**
+Keep the heat on and let it go longer. Simmer another ten minutes. Or crank it to medium and watch closely—it'll reduce faster. Patience is the real ingredient here.
+
+**Do I have to use extra virgin olive oil?**
+Regular olive oil works. It won't taste quite as bright. The point of this sauce is simplicity, so the oil flavor matters. Not worth saving five dollars if you're spending an hour cooking it.
+
+**Can I add meat to make bolognese?**
+This isn't bolognese, technically. This is marinara recipe base. You could brown ground beef or pork first, then add the garlic and shallot to that, then proceed—but that's a different dish. This one's vegan and intentional about it.
+
+**Should I stir it constantly?**
+No. Every few minutes is fine. Constant stirring means you're cooling it down and stopping evaporation. Just enough to keep the bottom from catching. That's all.
+
+**What's the spoon test exactly?**
+Run a wooden spoon across the sauce. A proper pizza tomato sauce or red sauce will hold that line briefly, filling in slowly. If it fills in immediately, it's still too thin. If it doesn't fill in at all, it's too thick and probably overcooked.
