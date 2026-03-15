@@ -1,10 +1,10 @@
 ---
-title: "Beef Burger Deluxe"
+title: "Beef Burger with Smoked Cheddar & Chipotle"
 slug: "beef-burger-deluxe"
-description: "Beef patties thick and juicy. Toasted buns buttery. Mushrooms cooked in olive oil. Brie replaced by smoked cheddar. Aioli swapped for chipotle mayo. Red leaf lettuce and fresh oregano leaves. Drizzle of walnut oil instead of truffle. Cook time slightly longer for better sear."
-metaDescription: "Beef Burger Deluxe with thick sirloin patties, smoky cheddar, chipotle mayo, sautéed mushrooms, fresh oregano, walnut oil drizzle, toasted buttery brioche buns."
-ogDescription: "Rich sirloin patties grilled longer, topped smoky cheddar melted under cover. Chipotle mayo, sautéed mushrooms, oregano, walnut oil drizzle. Crunchy brioche buns."
-focusKeyphrase: "Beef Burger Deluxe"
+description: "Juicy beef burger recipe with ground sirloin, smoked cheddar, sautéed oyster mushrooms, and chipotle mayo on toasted brioche buns. Fresh oregano and walnut oil finish."
+metaDescription: "Make a beef burger with ground sirloin, smoked cheddar, oyster mushrooms, and chipotle mayo on brioche buns. Try it tonight."
+ogDescription: "Thick beef burger topped with smoked cheddar, oyster mushrooms, chipotle mayo, fresh oregano, and walnut oil drizzle."
+focusKeyphrase: "beef burger"
 date: 2025-07-28
 draft: false
 image: beef-burger-deluxe.jpg
@@ -22,8 +22,17 @@ tags:
 - "spicy"
 keywords:
 - "beef burger"
-- "smoked cheddar"
-- "chipotle mayo"
+- "burger recipe"
+- "smoked cheddar burger with mushrooms"
+- "chipotle mayo burger"
+- "beef burger with oyster mushrooms"
+- "brioche bun burger"
+- "ground sirloin burger"
+- "grilled burger"
+- "spicy beef burger"
+- "homemade burger recipe"
+- "gourmet beef burger"
+- "walnut oil burger"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "650"
@@ -63,3 +72,109 @@ faq:
 - "q: How store leftovers? a: Wrap loosely in foil or container. Refrigerate 1-2 days max. Reheat skillet or oven. Avoid microwave, makes buns rubbery. Mushrooms better added fresh if possible. Walnut oil added fresh after heating."
 
 ---
+
+Three-quarters of a pound of beef. One good skillet. Forty-five minutes and you're eating something that doesn't come from a box.
+
+## Why You'll Love This Beef Burger Deluxe
+
+Thick patties mean crust on the outside, pink in the middle. Not thin. Not fast food thin.
+
+Grilling happens in a skillet — no grill required. Works in January.
+
+Oyster mushrooms are different. Not a side thought. They get buttery and almost creamy when they sit on top of the hot beef. Lettuce would be boring.
+
+Fresh oregano isn't dried oregano. The flavor actually tastes like something. Like you're eating at someone's house, not eating cardboard.
+
+Walnut oil at the end. Just a few drops. Changes it. Hard to explain.
+
+Chipotle mayo sounds fancy. Takes three minutes if you have mayo already.
+
+## What You Need for a Smoked Cheddar Burger with Oyster Mushrooms
+
+Ground sirloin — two pounds. Not ground chuck. Not ground round. Sirloin's leaner. Matters.
+
+Four brioche buns. Good ones. The kind that are actually brioche, not sweet bread pretending.
+
+Unsalted butter. Salted burns different. Tastes wrong.
+
+Oyster mushrooms thinly sliced. Buy them fresh. A third of a pound. If you can't find oyster, cremini works but it's not the same.
+
+Extra virgin olive oil. A third cup. Half for toasting, half for the mushrooms.
+
+Smoked cheddar cheese. Eight slices. Regular cheddar doesn't have the flavor. White cheddar's too sharp.
+
+Chipotle mayo — a third cup. Make it yourself or buy it. Honestly doesn't matter. Mix mayo with a chipotle in adobo if you're making it. Blend it smooth.
+
+Red leaf lettuce. Eight leaves. Crunch matters. Keeps the whole thing from turning into mush.
+
+Fresh oregano. Three-quarters of a cup of leaves. Dried doesn't work here. The fresh stuff tastes bright. It's the point.
+
+Walnut oil. Just have it around. A drizzle per burger.
+
+Salt and pepper. Kosher salt. Use it twice — once on the raw patties, once after they're cooked.
+
+## How to Make a Thick Beef Patty Burger
+
+Shape the beef into four patties. Three and a half centimeters thick. Not thick-ish. Actually measure it. The difference between a puck and a real burger is real.
+
+Season hard. Salt and pepper. Both sides. The edges too. Set them on a cold plate while you prep everything else.
+
+Melt half the butter in your skillet. Medium-high. When it stops foaming, lay the buns in cut-side down. Toast until golden. Not brown. Golden. There's a difference. Maybe two minutes per side. Wrap them in foil to keep warm.
+
+Same skillet. Don't wash it. Add half the olive oil. When it shimmers, add the mushrooms. They'll give off water first — let them. Stir every thirty seconds or so. Four minutes total. They should go soft and start turning golden at the edges. Salt and pepper them. Move them to a bowl.
+
+This is important — don't crowd the pan. Add the remaining olive oil. Get it hot. Lay in the patties. Don't mess with them. Six to seven minutes on the first side. You'll see the edges go gray — that's the crust forming. Flip once. Six to seven more minutes on the other side. The internal temp should hit 160. Use a thermometer if you don't trust yourself.
+
+Last minute — lay a slice of smoked cheddar on top of each patty. Two slices per burger. Cover the pan. Lower the heat slightly. Let it sit two minutes. The cheese melts. That's it.
+
+## How to Get That Grilled Burger Crust in a Skillet
+
+Medium-high heat matters. Too low and the meat steams. Too high and it burns before the inside cooks.
+
+Don't salt the pan. Don't oil it if your beef is going in cold. The meat releases its own moisture and fat. Let that work for you.
+
+Press down once while it cooks. Just once. About halfway through. Locks in the sear.
+
+The crust happens because you're not moving it. Patience. Six to seven minutes without touching it.
+
+If it's sticking, it's not done yet. When it releases, it'll come up clean.
+
+## Beef Burger with Fresh Oregano and Walnut Oil Tips
+
+Buy fresh oregano the day you cook. It wilts. Get the whole leaves. Don't chop them small.
+
+Oregano on a warm burger is stronger than cold oregano. It releases flavor from the heat.
+
+Walnut oil goes on last — after assembly, right before the top bun. Never cook with it. It gets bitter.
+
+If you can't find smoked cheddar, regular sharp cheddar and a teaspoon of smoked paprika mixed into the mayo works. Not the same. Works.
+
+Mushrooms can sit in the pan a little longer if you like them more golden. Just watch them. They go from soft to mushy fast.
+
+The patties should have a little give when you press them. Not hard. If they're hard, they're cooked too far.
+
+Brioche buns get soggy. Toast them, yes. But eat fast. Don't let it sit.
+
+Leftover patties reheat in a 325-degree oven wrapped in foil. Five minutes. Doesn't dry out.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Beef Burger Deluxe
+
+**Can I make these ahead?**
+Shape the patties the morning of. Keep them on a plate in the fridge. Cook them cold — straight from the fridge. Takes maybe an extra minute per side.
+
+**What if I don't have walnut oil?**
+Skip it. Seriously. Don't substitute with olive oil. The burger's fine without it. Walnut oil is a flavor thing, not required.
+
+**Should I use a grill instead of a skillet?**
+Sure. Same timing. Same heat. Skillet just works in February.
+
+**Can I make the chipotle mayo ahead?**
+Yeah. It lasts a week in a jar. Actually gets better after a day or two.
+
+**Why smoked cheddar and not regular?**
+The smoke is the whole point. Regular cheddar tastes like nothing on a burger. If you hate smoked flavor, use sharp white cheddar instead. Just know it changes it.
+
+**Do the oyster mushrooms have to go on top?**
+Put them inside between the beef and lettuce if you want. They'll stay hotter that way. I like them on top because they don't get hidden.
