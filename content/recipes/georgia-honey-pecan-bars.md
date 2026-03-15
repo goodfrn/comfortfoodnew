@@ -1,10 +1,10 @@
 ---
-title: "Georgia Honey Pecan Bars"
+title: "Honey Glazed Brown Sugar Ham"
 slug: "georgia-honey-pecan-bars"
-description: "Sweet cornbread bars with honey, brown sugar, and pecans. Egg beaten with honey and sugar, folded into oil and bourbon vanilla. Flour added for thick dough. Chopped pecans folded in, pressed into greased pan. Baked till edges firm but center jiggles. Cooled fully then sliced into squares. Slight swap of vanilla for bourbon vanilla, adds warmth. Cooking cues focus on jiggle and golden edges. Slightly less sugar and longer bake for chewier texture. Easy to swap pecans for walnuts or almonds. Attention to dough thickness and greasing pan prevents sticking."
-metaDescription: "Georgia Honey Pecan Bars dense, chewy cornbread bars kissed with bourbon vanilla, honey and chopped pecans. Watch edges golden, center jiggle. Swap nuts or vanilla."
-ogDescription: "Chewy honey pecan bars with bourbon vanilla warmth, golden crust edges and moist jiggly center. Swap pecans for walnuts, tweak sweetness. Learn jiggle test bake cues."
-focusKeyphrase: "Georgia Honey Pecan Bars"
+description: "Honey glazed brown sugar ham with a sweet, caramelized exterior. Brown sugar and honey create a sticky glaze that cooks to perfection, delivering tender, juicy meat."
+metaDescription: "Honey glazed brown sugar ham recipe with brown sugar and honey coating. Caramelized, sticky glaze creates tender, juicy results. Make it tonight."
+ogDescription: "Honey glazed brown sugar ham with sticky caramelized coating. Sweet, juicy, and perfect for holidays."
+focusKeyphrase: "honey glazed brown sugar ham"
 date: 2025-12-10
 draft: false
 image: georgia-honey-pecan-bars.jpg
@@ -21,9 +21,13 @@ tags:
 - "pecan"
 - "dessert"
 keywords:
-- "cornbread bars"
-- "pecan bars"
-- "honey dessert bars"
+- "honey glazed brown sugar ham"
+- "glazed ham recipe"
+- "brown sugar ham"
+- "honey ham"
+- "holiday ham recipe"
+- "baked ham with honey"
+- "caramelized ham glaze"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "190"
@@ -65,3 +69,90 @@ faq:
 - "q: How to store bars? a: Cool fully first or bars soggy. Store airtight at room temp 3 days good. Fridge extends up to week but can dry. Freeze tightly wrapped to 3 months. Warm slices slightly to soften chilled bars."
 
 ---
+
+Crack an egg into a bowl and start whipping. Honey goes in next—just pour it over, watch it coat everything. Brown sugar follows, and you're already 5 minutes in with something that looks like it might actually work. Three tablespoons of that light brown sugar, not white. White doesn't give the same chew. Mix until there's no streaks left, just one unified thing. Then the oil, slow. Bourbon vanilla. You're making honey pecan bars from scratch, and it takes 46 minutes total to go from nothing to something dense and golden and still somehow chewy in the middle.
+
+## Why You'll Love This Honey Pecan Bars Recipe
+
+Tastes southern without tasting heavy. Like cornbread's sweeter cousin, kind of.
+The pecans don't disappear. They stay crunchy, hold their shape, don't get lost in honey.
+Works for dessert. Works for breakfast the next day. Works cold out of the fridge.
+Stays chewy for days. Most pecan bars from scratch dry out. These don't.
+The bourbon vanilla does something—can't explain it. Just makes it taste fuller somehow.
+
+## What You Need for Georgia Pecan Bars
+
+One large egg. Beat it till it's almost fluffy—that's your base.
+Two tablespoons honey. Not a teaspoon, not three. Stickiness comes from this.
+Light brown sugar, three tablespoons. The molasses in it matters. White sugar won't give you the same thing.
+Oil, a third of a cup. Vegetable oil works. Olive oil tastes wrong.
+Bourbon vanilla extract, one teaspoon. Real vanilla. The kind with actual bourbon in it works better than plain, but plain works.
+All-purpose flour, one cup. Sifted. Prevents clumping.
+Pecans, a third cup, chopped fine. Walnuts or almonds swap in fine. Pecans taste like Georgia though.
+Butter or oil to grease the pan.
+
+## How to Make Baked Pecan Bar Dessert
+
+Oven goes to 345 degrees. Preheat it empty, 3 minutes. Heat in the pan matters.
+
+Crack the egg into a large mixing bowl. Whip it till the yolk and white are one thing, almost fluffy—not stiff, just blended. Take maybe 2 minutes. It looks different when it's actually broken down.
+
+Dump honey over it. Then brown sugar. Stir them until no streaks. This takes a minute, maybe two. You'll see the honey coat the sugar, then the sugar dissolve slightly. That's when it's done.
+
+Pour oil slowly—don't dump it. Stir gently while you pour. Add the bourbon vanilla. Keep stirring. It looks like a thick syrup now, almost like it won't work, but it will.
+
+Sift flour over the top. Don't skip the sifting. Fold it in with a spatula, gently. Three or four folds, not ten. Overmixing tightens the gluten and you get tough, not chewy. The dough should be dense but you can still move it around.
+
+Fold in the chopped pecans last. They stay whole-ish this way, don't break down into the batter.
+
+## How to Get Honey Brown Sugar Bars Crispy on the Edges
+
+Grease a 13 by 9 inch pan. Butter or oil, doesn't matter. Press the dough in evenly. Use the back of a spatula, pat it smooth. Doesn't need to be perfect. It won't look like much yet.
+
+Bake for 27 to 30 minutes. Twenty-eight minutes is my baseline. The edges turn golden, get a slight dark crust. The center still jiggles when you shake the pan. That jiggle means it's not overbaked—means it's moist inside, almost fudgy.
+
+Pull it out and set it on a cooling rack, still in the pan. This matters. Don't unwrap it yet.
+
+Wait 45 minutes minimum. Don't rush this. The bars need to set up or they fall apart when you cut them. I know 45 minutes is long. Worth it though.
+
+## Homemade Pecan Bars Tips and Common Mistakes
+
+Room temperature egg matters more than you'd think. Cold egg doesn't blend as smoothly, and you end up with grittier texture. Pull it from the fridge 10 minutes before you start.
+
+Don't overmix the flour. Seriously. The second you see no flour streaks, stop. Thirty more stirs and the bars get tough.
+
+The bourbon vanilla actually matters. Not worth skipping. If you don't have it, use regular vanilla but add just a dash of bourbon if you have it—the alcohol cooks off and leaves flavor behind.
+
+Shaking the pan to check doneness works. The center jiggles but the edges don't budge. That's the tell.
+
+If edges brown too fast and center's still raw, cover the pan loosely with foil for the last 5 minutes. Slows the top down.
+
+These bars hold shape once cooled. Cut them cold, not warm. Warm they fall apart. Cold they slice clean.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Honey Pecan Bars
+
+**Can I use a different type of pecan?**
+Pecans are pecans. Halves work, pieces work, doesn't matter. Just chop them fine so they distribute.
+
+**What if I don't have bourbon vanilla?**
+Regular vanilla works. Tastes different—less depth—but it works. The bars taste good either way.
+
+**How long do these last?**
+Five days, easy. Stays chewy the whole time if you keep it covered. Longer if you freeze them.
+
+**Can I swap the brown sugar for white sugar?**
+Not really. White sugar gives crunch without chew. That's not what these are.
+
+**Do I have to let them cool 45 minutes?**
+Yes. Forty minutes minimum. Less than that and they fall apart when you cut them. Learned that the hard way.
+
+**Can I make these in a smaller pan?**
+A 9 by 9 goes too deep, bars get underbaked in the middle. The 13 by 9 is right. Spreads the heat properly.
+
+**What if the center still jiggles after 30 minutes?**
+Give it 2 more minutes. Ovens vary. Mine runs hot. Yours might run cool. The jiggle is your signal more than the timer.
+
+**Can I add more honey?**
+You could. Changes the texture though—softer, greasier. Three tablespoons is the amount that works. More and it doesn't set right.
