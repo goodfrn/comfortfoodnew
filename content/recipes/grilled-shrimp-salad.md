@@ -1,10 +1,10 @@
 ---
 title: "Grilled Shrimp Spring Rolls Salad"
 slug: "grilled-shrimp-salad"
-description: "A fresh, tangy salad combining fire-kissed shrimp with crisp veggies and chewy rice noodles tossed in a zesty, balanced dressing. Uses ginger-lime and sambal for heat; swaps cassonade with honey; and adds crunchy roasted peanuts for texture. Perfect grilled shrimp texture is key—watch for curl and slight char. Lettuce, mint, and cucumber layer cooling notes. Vermicelli soft but no mush. Dressing emulsifies quickly, clings just right. BBQ wok makes shrimp sing smoky notes. Timing is flexible when cues mastered; don’t overcook noodles or shrimp. Add crushed peanuts for contrast. Fresh lime wedges finish."
-metaDescription: "Grilled Shrimp Spring Rolls Salad mixes fire-charred shrimp, crisp veggies, vermicelli, fresh mint, and a zingy ginger-lime-sambal dressing with crunchy peanuts."
-ogDescription: "Fire-kissed shrimp, crisp lettuce, vermicelli, mint, peanuts tossed in zingy ginger-lime-sambal dressing. Char cues and texture tips included."
-focusKeyphrase: "Grilled Shrimp Spring Rolls Salad"
+description: "Grilled shrimp salad with rice vermicelli, cucumber, mint, and roasted peanuts tossed in a ginger-lime sesame dressing. Fresh, tangy, and satisfying."
+metaDescription: "Grilled shrimp spring rolls salad with rice noodles, cucumber, mint, and ginger-lime dressing. Light, fresh, and ready in 30 minutes. Make it tonight."
+ogDescription: "Grilled shrimp salad with rice vermicelli, cucumber, mint, roasted peanuts, and a zesty ginger-lime sambal dressing."
+focusKeyphrase: "grilled shrimp spring rolls salad"
 date: 2025-08-10
 draft: false
 image: grilled-shrimp-salad.jpg
@@ -21,9 +21,15 @@ tags:
 - "asian"
 - "spicy"
 keywords:
-- "grilled shrimp"
-- "vermicelli salad"
-- "sambal dressing"
+- "grilled shrimp spring rolls salad"
+- "shrimp salad with ginger lime dressing"
+- "asian shrimp salad with sambal and sesame oil"
+- "grilled shrimp rice vermicelli salad"
+- "shrimp salad with mint and cucumber"
+- "spicy shrimp salad recipe"
+- "asian noodle salad"
+- "shrimp salad"
+- "grilled shrimp with rice noodles"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -76,3 +82,97 @@ faq:
 - "q: Leftovers storage tips? a: Keep shrimp separate from vermicelli salad. Store dressing on side if possible. Refrigerate in airtight containers max 1 day. Reheat shrimp quick or eat cold. Noodles soften over time—best eaten fresh."
 
 ---
+
+Shrimp hits the wok still half-cold from the dressing. That sizzle is the whole thing.
+
+## Why You'll Love This Grilled Shrimp Rice Vermicelli Salad
+
+Takes 27 minutes total—15 to prep, 12 to cook. Actual grilling happens in maybe five minutes.
+Spicy without being mean about it. The sambal's heat gets softened by honey and sesame oil, so it tastes like something instead of just burning your face.
+Works as a main or a side. Eat it warm right after grilling, or chill it and eat it the next day—tastes different but good different.
+One bowl for everything. Dressing, salad, shrimp, all mixed together at the end. Cleanup is basically nothing.
+Summer thing but honestly works year-round. The grill part makes it feel special even if you're eating it in February.
+
+## What You Need for Asian Shrimp Salad with Sesame Oil and Sambal
+
+Soy sauce. Low sodium. Regular stuff is too salty and kills the honey's sweetness. Three tablespoons, basically.
+
+Honey. Cuts the sambal's edge. Forty milliliters. The warmth from the shrimp dissolves it instantly.
+
+Toasted sesame oil. Not the regular kind. The dark, nutty one that smells like actual toasted sesame seeds. Thirty-five milliliters. Worth buying the good bottle.
+
+Sambal oelek. The spicy paste thing. Six milliliters is enough—not drowning in heat, just there.
+
+Ginger and lime. Ginger gets grated fresh. Lime gets zested and juiced. Both matter.
+
+Medium shrimp. Peeled, tails on. Four hundred grams. Don't go huge—medium cooks fast and stays tender.
+
+Rice vermicelli. The thin kind. One hundred eighty grams. Boils in two and a half minutes flat.
+
+Red onion, iceberg lettuce, Lebanese cucumbers, fresh mint. The salad part. Thinness on the onion and cucumber matters—too thin and they burn on the grill, too thick and they don't soften.
+
+Roasted peanuts. Rough chop them. Sixty milliliters. Optional but don't skip it. Adds something.
+
+## How to Make Grilled Shrimp Spring Rolls Salad
+
+Start with the dressing. Whisk soy sauce and honey in a bowl until the honey actually dissolves—don't half-ass this part, it won't mix right if honey's still clumpy. Add sesame oil, sambal, ginger. The oil goes in last. It'll sit on top for a second, then as you whisk it starts to emulsify into something shiny. That's right. Lime zest and juice go in. Set it aside.
+
+Boil water. Get it actually boiling—rapid, not just steaming. Dump the vermicelli in and stir so it doesn't clump. Two and a half minutes. Maybe three if you like it softer. Drain it, rinse with cold water—actually cold, not lukewarm—drain again. The water that clings to it will cool down the noodles. Toss a splash of dressing through it so it doesn't stick together into one brick.
+
+Get the grill hot. If you have a wok, use that—cast iron works too. Put it on the grill over high heat. Wait for smoke. Actually wait for it. You need that heat or the shrimp won't get color, it'll just poach in its own juice.
+
+While the wok heats, toss the shrimp and red onion slices with three tablespoons of dressing. Coat them. Let them sit for like thirty seconds.
+
+Throw them on the hot wok. The sizzle should be loud. Turn the shrimp constantly—not obsessively, but don't leave them alone. Four to five minutes. Watch for the curl. They go from a flat line to a C shape. That's done. The color shifts from translucent to opaque with pink edges. Some darker spots where they hit the pan is good. That's char, that's flavor. Rubbery shrimp means you left them too long.
+
+## How to Get Grilled Shrimp Salad Crispy and Charred
+
+The char happens if the wok is actually hot. Not warm. Hot. If you're not seeing smoke when it's empty, it's not ready yet.
+
+The onion is the trick. Thin slices get sweet and almost caramelized. Too thin and they blacken. The shrimp protects them a bit—don't toss it solo or half your onion becomes ash.
+
+Don't let them sit in the dressing longer than a minute before they hit the heat. The acid starts breaking down the shrimp's muscle and it gets mushy.
+
+Vermicelli gets tossed cold. If it's still warm when it hits the dressing, the noodles go soft and blur together. Cold noodles stay distinct.
+
+## Grilled Shrimp Rice Vermicelli Salad Tips and Common Mistakes
+
+Sambal is optional but it's not. You can swap for sriracha if you have to—use less though, maybe a teaspoon instead, and cut the honey back a bit or it gets cloying.
+
+No grill? Use a grill pan inside. Has to be really hot. The heat is the whole point.
+
+Glass noodles work if you can't find vermicelli. Takes a bit longer to cook—maybe three minutes. Watch them. They shatter if you overdo it.
+
+The mint goes in twice. Half mixed into the salad at the base, half scattered on top after plating. Top mint doesn't wilt, stays bright. Bottom mint flavors the dressing.
+
+Peanuts rough chop. Don't powderize them or they disappear into the noodles. You want pieces you can actually taste.
+
+Leftovers are better cold. The flavors blend overnight. The dressing gets into the noodles properly. Eat it the next day and it tastes completely different—better, usually.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Shrimp Salad
+
+**Can you make this ahead?**
+Dressing keeps for three days easy. Cook the shrimp the day of—don't grill it ahead or it gets tough. Boil the vermicelli the morning of, keep it in the fridge. Chop the vegetables whenever. Assembly takes five minutes.
+
+**What if you don't have a grill?**
+Use a grill pan on the stove. Cast iron works. The heat has to stay high or you don't get the char. That char is the whole thing—don't skip it or you lose the point.
+
+**Is the sambal oelek really necessary?**
+Not if you don't want it spicy. The salad works without heat. But it's mild with the sambal—not punishing. If you skip it, add more lime juice instead. Brightens it the same way.
+
+**Can you use frozen shrimp?**
+Sure. Thaw them completely. Pat them dry. If they're wet they won't get color, they'll steam. Dry shrimp = brown shrimp.
+
+**Does the sesame oil have to be toasted?**
+Yes. Regular sesame oil tastes like nothing. Toasted sesame oil tastes like toasted sesame. Completely different thing. Not the same ingredient.
+
+**What about the noodles—can you use something else?**
+Thin rice noodles work. Glass noodles work. Regular spaghetti doesn't work—wrong texture, soaks up too much dressing. Stick with something delicate.
+
+**How spicy does it actually get?**
+Six milliliters of sambal is warm. Like, you notice it, but it doesn't hurt. The honey and sesame oil round it out. If you want it hotter, add more. If you want it cooler, use less or skip it.
+
+**Can you meal prep this?**
+Not really as a whole. But you can prep the dressing, cook the noodles, chop everything. Day of, boil water for vermicelli if it's not done, grill the shrimp, assemble. Fifteen minutes of actual work the day you eat it.
