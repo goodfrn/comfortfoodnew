@@ -1,10 +1,10 @@
 ---
-title: "Cold Salmon Taboulé Peas"
+title: "Cold Salmon Taboulé with Peas Recipe"
 slug: "cold-salmon-taboule"
-description: "Salmon gently cooked with garlic and lemon slices, chilled overnight. Fine bulgur soaked and mixed with tomatoes, fresh herbs and warming spices. Frozen peas blanched, cooled, served cold alongside. Simple oil and citrus dressing binds taboulé. Four servings. Slightly less oil and water than usual, spices swapped for cumin and coriander for a fresh twist. Cook times adjusted to keep salmon tender yet firm. All components prepped and portioned into airtight containers for easy grab-and-go meals."
-metaDescription: "Cold Salmon Taboulé Peas with tender salmon cooked gently, fresh herbs, cumin and coriander spiced bulgur, tangy citrus, vibrant peas. Four servings, chilled meals."
-ogDescription: "Tender salmon cooked with garlic, lemon. Fluffy bulgur taboulé with cumin, coriander. Blanched peas pop color. Ready cold, hearty, fresh Mediterranean taste."
-focusKeyphrase: "Cold Salmon Taboulé Peas"
+description: "Chilled salmon fillet with garlic and lemon pairs perfectly with herbed bulgur taboulé made with tomatoes, parsley, and mint. Blanched peas complete this fresh Mediterranean salad."
+metaDescription: "Salmon taboulé recipe with fresh herbs, tomatoes, and peas. Make this chilled Mediterranean dinner with lemon-garlic salmon and bulgur. Try it tonight."
+ogDescription: "Lemon-garlic salmon chilled overnight with fresh herb bulgur taboulé, tomatoes, and peas. Light, refreshing Mediterranean meal."
+focusKeyphrase: "salmon taboulé recipe"
 date: 2025-07-26
 draft: false
 image: cold-salmon-taboule.jpg
@@ -21,9 +21,16 @@ tags:
 - "salad"
 - "summer"
 keywords:
-- "cold salmon"
-- "bulgur taboulé"
-- "blanched peas"
+- "salmon taboulé recipe"
+- "cold salmon with bulgur"
+- "chilled salmon with lemon and garlic"
+- "salmon salad"
+- "mediterranean salmon"
+- "bulgur salad with fresh herbs and tomatoes"
+- "salmon peas recipe"
+- "summer salmon dinner"
+- "salmon bowl"
+- "fresh herb taboulé"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "350"
@@ -74,3 +81,84 @@ faq:
 - "q: How long keep assembled meals? a: Fridge 3 days usually safe. Airtight containers better. Separate compartments stop mixing moisture. Avoid reheating. Salad best cold or room temp. Check smell, texture before eating. Freeze not recommended for taboulé or peas texture. Salmon freezes okay but changes."
 
 ---
+
+Saumon froid. Taboulé. Petits pois. Done in 45 minutes, tastes like you spent all day on it.
+
+## Why You'll Love This Cold Salmon Taboulé
+
+Takes 25 minutes of actual work — the rest is sitting around waiting. Perfect for summer dinners when turning on the oven sounds impossible.
+
+Salmon comes out soft inside, skin crispy from the pan. Chilled overnight, it tastes better than it did fresh. Not sure why that happens.
+
+Taboulé isn't complicated. Bulgur soaks up lemon and herbs. Petite peas stay bright. Everything stays separate until you eat it — some people like it that way.
+
+Mediterranean flavors without fussing. Garlic, lemon, fresh herbs. The kind of salad that works cold straight from the fridge the next morning.
+
+## Cold Salmon with Lemon and Garlic
+
+Two garlic cloves, minced. Doesn't need more. Forty-five milliliters of olive oil — good olive oil. Two lemon slices. Six hundred grams of salmon, skin on, cut into four pieces.
+
+The skin matters. It gets crispy in the pan and stays that way when chilled. Don't skip it.
+
+Salt and pepper. Cumin and coriander go in the taboulé, not the fish. Keep the salmon clean.
+
+## How to Make Cold Salmon Taboulé
+
+Boil water first. One hundred fifty milliliters. The second it starts rolling, turn the heat off. Add sixty-five grams of bulgur. Cover it. Walk away for 12 to 17 minutes. It'll soak up the water and get tender without turning to mush.
+
+Fork it gently when it's done. Spread it on a plate to cool. Don't rush this part.
+
+While that's happening, get a non-stick pan hot. Medium heat. Not screaming. Add the minced garlic to oil — let it go for two, maybe three minutes. It should smell good. Not burned.
+
+Lay the lemon slices down. They keep the salmon from sticking and flavor the oil a little. Skin side down on the pan. Salt and pepper right then. Cover it. Six to eight minutes. You don't need to watch it.
+
+Flip once halfway through. Skin should be golden by now. The inside will still be soft — that's the point. It keeps cooking a tiny bit after you take it off heat.
+
+Let it cool in the pan. Then into the fridge. Minimum four hours. Overnight is better. The salmon firms up and the flavors settle.
+
+## Bulgur Salad with Fresh Herbs and Tomatoes
+
+Once the bulgur's cool, it's easy. One hundred twenty grams of cherry tomatoes cut in quarters. Fifty-five grams of parsley, chopped fine. Twenty-five milliliters of mint, sliced thin. Mix them together.
+
+Add the cooled bulgur. Pour in forty milliliters of lemon juice. Splash more olive oil — maybe thirty milliliters, doesn't matter exactly. A pinch of cumin. A pinch of coriander. Salt and pepper.
+
+Toss it gently. The bulgur breaks if you push too hard. It should hold together but feel light. Not mushy. Not dense.
+
+The petite peas go in after. But not yet. Wait until you're ready to serve or it gets watery.
+
+## Mediterranean Salmon and Couscous Salad Tips
+
+Blanch the peas last — one, two minutes in boiling water. Straight into ice water. This keeps them green and crisp. Lets them chill without getting soft.
+
+The salmon stays cold in the fridge for maybe three days. After that it starts tasting fishy. Don't push it.
+
+Assembly is four containers. Or one big bowl. Depends on your style. Stack them separate — saumon, taboulé, peas. Mix when you eat. Some people like it that way.
+
+Serve cold straight from the fridge. Or leave it on the counter 20 minutes if you like it less cold. Both work.
+
+The lemon juice in the bulgur keeps it bright. The garlic in the oil flavors everything softly. It all tastes like summer. That's the goal.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cold Salmon with Bulgur
+
+**Can I make this the night before?**
+Yes. Actually better the next day. The salmon gets firmer, the bulgur absorbs the lemon juice deeper. Assemble it cold straight from the fridge.
+
+**What if I don't have fresh mint?**
+Parsley alone works fine. Mint is nice but not essential. Don't bother with dried mint — tastes like nothing.
+
+**How do I know when the salmon is done cooking?**
+Press it gently with your finger. It should give a little but not fall apart. Six to eight minutes usually gets it right, but every pan's different. Firm but still soft in the middle is the goal.
+
+**Can I use another type of fish?**
+Trout works. Sea bass works. Anything with skin that crisps up. White fish gets dry when chilled. Salmon holds onto moisture.
+
+**Do the peas have to be frozen?**
+No, but frozen is easier. Fresh peas are better if you have them. Just blanch them either way. Two minutes in boiling water, straight into ice.
+
+**Why does the salmon taste better cold than warm?**
+The fat sets as it cools. It's more tender, less rubbery. The flavors calm down too instead of shouting at you. That's why overnight is better than a few hours.
+
+**Can I make the bulgur salad without the peas?**
+Yes. The peas add texture and sweetness but they're not essential. The bulgur, herbs, and tomatoes are what matters.
