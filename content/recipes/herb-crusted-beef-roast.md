@@ -1,10 +1,10 @@
 ---
-title: "Herb-Crusted Beef Rib Roast"
+title: "Herb Crusted Beef Roast with Smoked Maldon"
 slug: "herb-crusted-beef-roast"
-description: "Roast of beef rib with fresh herb crust including parsley, thyme and tarragon. Coarse sea salt swapped for smoked Maldon flakes. Black pepper replaced with pink peppercorns. Garlic swapped with shallots. Cooked on indirect heat on barbecue. Rested in foil. Sliced after bone removal. Yielding tender medium rare meat, around 1 hour 5 minutes cook time. Herb mix reserved for serving. Bold seasoning. Bone adds flavor. Smoky crust. No gluten, dairy, nuts, or eggs."
-metaDescription: "Herb-Crusted Beef Rib Roast with parsley, thyme, tarragon, smoked Maldon salt, pink peppercorns on barbecue. Bone-in, medium rare, smoky crust, tender juicy slices."
-ogDescription: "Bone-in beef rib roast rubbed with fresh herbs, smoked salt, pink peppercorns cooked indirect on grill. Rested, sliced, herb crust adds crunch and bold flavor."
-focusKeyphrase: "Herb-Crusted Beef Rib Roast"
+description: "Herb crusted beef roast featuring fresh parsley, thyme, and tarragon with smoked Maldon salt and pink peppercorns. Grilled on indirect heat until tender medium rare."
+metaDescription: "Herb crusted beef roast with fresh herbs, shallots, and smoked Maldon salt. Grilled to perfection. Make it tonight."
+ogDescription: "Herb crusted beef rib roast with parsley, thyme, tarragon, and pink peppercorns. Smoky, tender, and bold."
+focusKeyphrase: "herb crusted beef roast"
 date: 2025-07-26
 draft: false
 image: herb-crusted-beef-roast.jpg
@@ -21,9 +21,16 @@ tags:
 - "main dish"
 - "holiday"
 keywords:
-- "herb crust"
-- "bone-in beef roast"
-- "medium rare rib roast"
+- "herb crusted beef roast"
+- "beef rib roast"
+- "grilled beef roast"
+- "roasted beef rib with herbs"
+- "beef rib roast with fresh herbs"
+- "smoked Maldon crusted beef"
+- "pink peppercorns beef roast"
+- "tarragon beef roast"
+- "holiday beef rib roast"
+- "grilled beef rib roast"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "520"
@@ -60,3 +67,79 @@ faq:
 - "q: How to store leftovers? a: Wrap sliced meat loosely in foil or airtight container. Consume within 2 days for best flavor. Reheat gently in oven at low temp or covered skillet to avoid drying out. Leftover herb crust loses crunch fast, add fresh herbs on reheat. Bone can be kept refrigerated separately or added to stew stock later but not indefinitely in fridge."
 
 ---
+
+Oil the grill grate on the lit side, then move the roast to the cool side. That's the move. High heat on one half, nothing on the other—it's how you get the crust without burning through to the center before the inside even knows what's happening.
+
+## Why You'll Love This Herb Crusted Beef Rib Roast
+
+Takes just over an hour total, including rest time, and you're not actually working most of it.
+
+Holiday beef rib roast that tastes like you know what you're doing. The smoked Maldon and fresh herbs make it look fancy—way fancier than it actually is.
+
+Grilled beef rib with herbs that stay on the meat instead of falling into the fire. The crust holds because you're not moving it around constantly.
+
+Medium rare every time if you let it rest after. That's the thing nobody does. They slice it hot and all the juice runs out. Wait 15 minutes. Everything changes.
+
+Feeds people. One roast, maybe six servings depending on how hungry everyone is. Main dish that doesn't require five other things.
+
+## What You Need for Herb Crusted Beef Rib with Smoked Maldon Salt
+
+Mixed fresh herbs—parsley, thyme, tarragon. Chopped fine. Not a food processor situation; just a knife. Takes three minutes. Two shallots minced small. Smoked Maldon sea salt, not regular. The smoke matters. Pink peppercorns crushed, not powdered. A beef rib roast, bone-in, somewhere between 1.4 and 1.6 kilos. That's roughly three pounds. Get it from a butcher if you can. They'll trim it right.
+
+## How to Make Roasted Beef Rib with Fresh Herbs
+
+Mix the herbs and shallots with the smoked salt and crushed pink peppercorns in a bowl. That's your crust. Set aside a small handful—about 20 ml—for after it's cooked. Gets sprinkled on top. Looks intentional.
+
+Get half your barbecue screaming hot. The other half stays off. Oil the grate on the lit side so nothing sticks. Place the roast on a tray. Rub the herb mixture all over it. Every surface. Don't be shy. Let it sit for 12 minutes. Room temperature roast cooks more evenly.
+
+## Grilled Beef Rib Roast with Tarragon and Shallots
+
+Lay it on the cool side of the grill. Bone side down. Close the lid. This is it. One hour and five minutes for medium rare. Maybe a bit longer if your roast is on the heavier side. Internal temp should hit 58°C—that's 136°F if you're using Fahrenheit. Get a meat thermometer. Don't guess.
+
+When it's done, pull it off and wrap it loosely in foil. Loose. Not sealed up. Let it rest 12 to 16 minutes. This is non-negotiable. The fibers relax. The juice stays inside the meat instead of running all over your plate.
+
+Take the bone off carefully—it comes away clean if the roast is done right. Slice it. Thick or thin, doesn't matter as much as people think. Sprinkle that reserved herb mix on top. That's the finish.
+
+## Herb Crusted Beef Rib Roast Tips and Common Mistakes
+
+Don't skip the rest. Everyone skips it. Everyone regrets it. Just sit there for 15 minutes.
+
+Check the temperature in the thickest part, not near the bone. Bone conducts heat weird and gives you a false reading.
+
+The grill needs to actually be hot on the lit side. If it's not hot enough to make you back away, it's not ready.
+
+Smoked Maldon is the thing. Regular salt works. Tastes different though. Flatter. The smoke is worth hunting for.
+
+Pink peppercorns are optional but they add this brightness that black peppercorns don't have. They're not actually pepper. Doesn't matter. They work.
+
+If you don't have tarragon, use more thyme. Parsley is the base anyway. Parsley doesn't fail.
+
+Cold roast cooks uneven. Room temperature takes maybe 20 minutes longer than you think but it's more reliable.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Herb Crusted Beef Rib Roast
+
+**How do I know when it's actually done?**
+Temperature. 58°C for medium rare. 62°C if you want it slightly more done. Thermometer goes in the middle, away from the bone. Don't cut it open to check—you lose all the juice.
+
+**Can I do this in the oven instead of grilling?**
+Yeah. Preheat to 190°C. Same timing, basically. Doesn't get the same crust though. Grill makes it better.
+
+**How much does a 1.4 kg roast actually feed?**
+Five or six people as a main. Depends on what else you're serving. If there's sides, easier to stretch.
+
+**What if I can't find smoked Maldon?**
+Kosher salt works fine. Or sea salt. Lose the smoke thing but it's still good. Regular table salt is too fine, don't use it.
+
+**Should I sear it first on high heat?**
+Nope. You'll burn the crust before the inside cooks. Low and slow on the cool side is the whole point.
+
+**Can I prep the herb crust ahead?**
+Yeah, make it the morning before. Keep it covered in the fridge. Bring it to room temperature before you rub it on though. Cold herb crust means the roast cooks uneven.
+
+**What's the difference between this and regular beef roast?**
+The crust. The herbs stay on because you're not searing it hard. The taste is different—more complex. Smoked salt changes everything too.
+
+**Can I use a different cut?**
+Rib roast is best for this. You could use strip loin. Takes less time though—maybe 45 minutes instead of an hour. Tenderloin cooks even faster. Different shapes cook different.
