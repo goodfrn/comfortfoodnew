@@ -1,10 +1,10 @@
 ---
-title: "Heart Shaped Roasted Potatoes"
+title: "Crispy Roasted Potato Hearts with Garlic"
 slug: "heart-shaped-roasted-potatoes"
-description: "Roasted potato hearts shaped with cookie cutters. Parboiled for soft but firm texture. Coated in garlic-herbed oil mix with Parmesan sprinkle. Oven-roasted till golden brown then broiled to crisp edges. Serve with ketchup or fresh herbs. Simple ingredients swapped: rosemary to thyme for brightness. Timing adjusted slightly for perfect crisp. Visual and tactile cues prioritized over strict timing. Potato scraps used for mash to avoid waste. Prep involves peeling, boiling, cutting, oiling, roasting. Care taken not to overcook in water or oven. Ideal for a snack or side serving 8 people."
-metaDescription: "Heart shaped roasted potatoes with garlic-herbed oil and Parmesan sprinkle. Parboiled slices roasted then broiled for crisp edges; thyme swaps rosemary here."
-ogDescription: "Roast Yukon Gold potato hearts tossed in thyme, garlic powder, sprinkled with Parmesan then broiled for crisp edges; gentle parboil key for firm bite and no crumble."
-focusKeyphrase: "heart shaped roasted potatoes"
+description: "Crispy roasted potato hearts made with Yukon Gold potatoes, garlic, fresh thyme, and Parmesan. Parboiled then oven-roasted until golden and broiled for crispy edges. Perfect side dish."
+metaDescription: "Crispy roasted potato hearts with Yukon Gold potatoes, garlic, thyme, and Parmesan cheese. Golden and crispy. Try it tonight."
+ogDescription: "Garlic herb roasted potato hearts with Parmesan and smoked paprika. Golden, crispy, and delicious."
+focusKeyphrase: "roasted potatoes"
 date: 2025-10-21
 draft: false
 image: heart-shaped-roasted-potatoes.jpg
@@ -22,8 +22,15 @@ tags:
 - "comfort food"
 keywords:
 - "roasted potatoes"
-- "potato hearts"
-- "parboiled potatoes"
+- "crispy roasted potato hearts"
+- "parmesan roasted potatoes"
+- "garlic herb roasted potatoes"
+- "yukon gold potatoes with garlic and thyme"
+- "roasted potatoes with parmesan and smoked paprika"
+- "heart shaped potatoes"
+- "broiled potatoes with fresh herbs"
+- "potato appetizers"
+- "vegetarian potato appetizer"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "150"
@@ -80,3 +87,104 @@ faq:
 - "q: Can leftovers be stored and reheated? a: Store in fridge airtight. Reheat in oven or toaster oven for crisp return. Microwave makes soggy. Use scraps boiled again for mash, zero waste as backup."
 
 ---
+
+Cut them into slabs. Boil them just enough. Then roast them hot—that's where the magic happens. Three steps. That's it.
+
+## Why You'll Love These Roasted Potatoes
+
+Takes 55 minutes total. Most of that's just waiting for the oven. You're not doing anything.
+
+Comfort food that doesn't feel like a cop-out. Crispy on the outside, soft all the way through. Heart-shaped so it looks like you tried harder than you actually did.
+
+Works as an appetizer or a side. Cold the next day, maybe even better. Vegetarian, obviously. Pairs with literally anything—ketchup, mustard, nothing at all.
+
+Parmesan gets slightly melted. Thyme smells like home. Takes actual effort to mess this up.
+
+## What You Need for Parmesan Roasted Potatoes
+
+Six Yukon Golds. Not red potatoes. Not russets. These ones stay waxy enough to hold shape when you slice them thin.
+
+Three tablespoons of olive oil. Avocado works if you have it. Not butter—burns too fast.
+
+Fresh thyme. Two teaspoons. Dried works in a pinch but tastes like old cardboard. Garlic powder—one teaspoon, not fresh. Fresh garlic burns in the oven. Learned that the hard way.
+
+Smoked paprika. Half a teaspoon. Sounds like a lot. It's not. Salt and pepper.
+
+Half a cup of Parmesan. Grated. The stuff in the green can is fine. Don't overthink it.
+
+You'll need nonstick spray and a baking sheet. Aluminum foil helps. Water for boiling. That's everything.
+
+## How to Make Garlic Herb Roasted Potatoes
+
+Heat the oven to 410 degrees. Not 400. Not 425. There's a reason.
+
+Fill a pot with water—about a quart and a half. Add a teaspoon of salt. Get it boiling, then turn it way down. Just gentle bubbles. That's the whole point of the simmer. Too violent and they break apart. Too gentle and they take forever.
+
+Peel the potatoes. Do it carefully. They're going to get cut next, so you don't want to hack your hand. Slice them into half-inch slabs. Thinner than that and they fall apart before they hit the pan. Thicker and they stay crunchy inside. You want them to hold together but give when you push.
+
+Drop them into the water. Cook them four to five minutes. You'll know they're done because you can press a slice with your fingernail and it goes soft but doesn't collapse. That's the exact moment. Any longer and they're mush in the oven.
+
+Drain them. Cold water right after—stops them from cooking anymore. Cools them down enough to handle without burning yourself.
+
+## How to Get Them Crispy with Heart-Shaped Roasted Potatoes
+
+Now the fun part. You can use a heart-shaped cookie cutter if you have one. Press it into each slice. Some might not work perfectly—use those for scraps or throw them away. It doesn't matter that much.
+
+Mix the olive oil with the thyme, garlic powder, paprika, salt, and pepper in a bowl. Whisk it together till it looks like it's actually combined. Toss the potato pieces in there—just four to six minutes. Let them sit. The oil soaks into the edges. They'll start to glisten and smell like herbs.
+
+Spread them on a baking sheet. No crowding. They need space or they steam instead of roast. That ruins everything.
+
+Twenty-three to twenty-six minutes at 410 degrees. Flip them halfway through. Watch the edges. When they start to brown and you hear crackling—that's roasting right. You'll smell it too. Thyme and garlic and crispy potato. That's the signal.
+
+Optional: throw them under the broiler for four minutes on high. High heat. Watch it the whole time. You want them darkened and bubbly, not charred. Takes literally four minutes to go from golden to bitter. Not worth it if you burn them.
+
+Pull them out. Hot potatoes. Sprinkle the Parmesan all over while they're still warm. It melts slightly into the surface. Adds salt and crunch at the same time.
+
+Serve hot.
+
+## Roasted Potatoes with Smoked Paprika—Tips and Common Mistakes
+
+Tough potatoes after roasting? The oven was too low or the simmer wasn't gentle enough. Adjust next time.
+
+Soggy surface? Too much crowding or the oven ran cool. Single layer. That's the rule.
+
+Scraps from the cookie cutter go straight into mashed potatoes if you have butter and cream around. Otherwise just discard them.
+
+Rosemary doesn't work here. Tried it. Thyme is brighter. Lighter. Works better with the garlic powder without overwhelming it.
+
+Fresh garlic will burn. That's why the recipe uses powder. You can use fresh if you add it at the very end—last two minutes in the oven. But it's not the same. The powder is easier and tastes better in this context.
+
+Avocado oil instead of olive oil. Both can handle the heat. Olive oil is traditional. Avocado tastes different but still works.
+
+Don't soak the potato slices in water before boiling. That leeches the starch out and kills the flavor. Quick peel, quick slice, straight into the water.
+
+No heart cutter? Use a small round one or just trim the corners with a knife. Less whimsical but still good. Looks still matters a tiny bit.
+
+This whole thing relies on touch and sight—the nail test after boiling, the golden edges when roasting. More reliable than just setting a timer and hoping.
+
+Potato size varies. Moisture changes with the season. Storage matters too. So the times here are a starting point. You'll adjust.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Potatoes with Parmesan and Fresh Herbs
+
+**Can you use red potatoes instead of Yukon Gold?**
+Not really. Red potatoes are waxier. They won't crisp up the same way. Yukon Golds are the right choice here.
+
+**What if you don't have a heart-shaped cookie cutter?**
+Just roast them as slabs. Skip the cutter. They taste exactly the same. The shape is just for looks.
+
+**How long do leftovers last?**
+Three days in the fridge. They reheat okay in a 350-degree oven for about five minutes. Microwave works but makes them softer.
+
+**Can you prep them ahead of time?**
+Peel and slice them the morning you're cooking. Store them dry—not in water. Water makes them soggy. Parboil them two hours before roasting if you want.
+
+**What goes with these?**
+Ketchup. Mustard. Sour cream. A dipping sauce. They work as an appetizer or a side with literally any protein. Cold chicken, fish, nothing. All fine.
+
+**Why is the smoked paprika important?**
+Adds a depth that regular paprika doesn't have. Tastes warm. If you don't have it, just use regular paprika. Less interesting but still works.
+
+**Can you broil them longer than four minutes?**
+No. Four minutes on high is enough to caramelize. Anything longer burns them. The edges go black and bitter. Not fixable.
