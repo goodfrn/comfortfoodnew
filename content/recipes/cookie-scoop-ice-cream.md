@@ -1,9 +1,9 @@
 ---
-title: "Cookie Dough Ice Cream Recipe"
+title: "Cookie Dough Ice Cream with Chocolate Chips"
 slug: "cookie-scoop-ice-cream"
-description: "Homemade cookie dough ice cream with chocolate chip chunks and creamy vanilla base. No churn needed—fold in crumbled dough, freeze, and serve. Soft texture contrast."
-metaDescription: "Make cookie dough ice cream at home with simple ingredients. Creamy vanilla, chocolate chips, and chewy dough pieces. Try it tonight."
-ogDescription: "Homemade cookie dough ice cream. Creamy vanilla with chocolate chip cookie chunks. Easy no-churn recipe."
+description: "Make cookie dough ice cream at home with vanilla ice cream, chocolate chip cookie dough chunks, and whipped cream. No-churn method. Soft, creamy texture."
+metaDescription: "Cookie dough ice cream made with vanilla ice cream and chocolate chip cookie dough chunks. Easy no-churn recipe. Make it tonight."
+ogDescription: "Homemade cookie dough ice cream with chocolate chip chunks and creamy vanilla base. Soft texture, no churning required."
 focusKeyphrase: "cookie dough ice cream"
 date: 2025-09-25
 draft: false
@@ -23,9 +23,13 @@ tags:
 keywords:
 - "cookie dough ice cream"
 - "chocolate chip cookie dough ice cream"
-- "homemade cookie dough ice cream"
-- "cookie dough ice cream recipe"
+- "homemade ice cream"
 - "no churn ice cream"
+- "vanilla ice cream recipe"
+- "cookie dough chunks"
+- "ice cream dessert"
+- "frozen dessert"
+- "easy ice cream"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "280"
@@ -66,3 +70,71 @@ faq:
 - "q: How to store leftovers? a: Airtight container mandatory. Freeze tight, minimize air. Thaw on counter before scooping; avoid microwaving leftovers reheats unevenly. Texture shifts each freeze-thaw; best fresh but workable up to 3 days."
 
 ---
+
+Set the vanilla ice cream out 8-12 minutes before you start. Not thawed. Just soft enough that a spoon goes through without snapping. That's the whole trick right there.
+
+## Why You'll Love This Cookie Dough Chocolate Chip Ice Cream
+
+Tastes like Ben & Jerry's Half Baked but you made it in 12 minutes.
+No baking. No waiting around for dough to chill. The chocolate chip cookie dough goes straight in.
+Comfort food that doesn't feel like work. Literally fold and freeze.
+Cold cream on top, chewy dough chunks in the middle—textures actually matter here. Not just vanilla with stuff mixed in.
+Leftovers get better. Seriously. Day two tastes richer.
+
+## What You Need for Homemade Cookie Dough Ice Cream
+
+Three cups vanilla ice cream. Commercial. Don't make it from scratch. The point is speed.
+
+Two-thirds cup cold chocolate chip cookie dough. Buy it ready-made or use yours if you have it sitting around. Break it into chunks about the size of a marble. Not powder. Not ice-hard rocks. Uneven pieces work better—some bigger, some smaller.
+
+Heavy cream. Seven tablespoons. Whip it cold just before serving. Soft peaks. Not stiff. There's a difference.
+
+A whole cookie or cookie crumbs if you want garnish. Optional. Honestly works fine without.
+
+## How to Make Chocolate Chip Cookie Dough Ice Cream
+
+Pull the vanilla ice cream from the freezer first. Eight to twelve minutes. Watch for soft edges while the center stays frozen. Stir it gently every two minutes—the spoon should move through it easy but not slide like soup. You're looking for glossy. That specific sheen that means it's ready.
+
+While that happens, break the cold cookie dough into chunks. Hand-break it. Uneven. Bite-sized. This matters because uniform pieces melt faster. Irregular chunks stay chewier.
+
+Now the fold. This is where people rush and lose the game. Use a spatula. Wooden spoon. Something that gives you control. Gentle motions. You're not making a smoothie. Fold the dough in slow, lift from the bottom, turn the bowl. The ice cream should stay cold enough to hold together but soft enough to accept the dough without tearing apart.
+
+## Getting the Texture Right on Cookie Dough Chocolate Chip Ice Cream
+
+Transfer everything to a freezer container right after mixing. Level the top, seal it tight. Freezer burn ruins this faster than you'd think.
+
+Two hours minimum in the freezer. Check by pressing the container side—should feel firm but still scoop without cracking the bowl. This is scoopable consistency. Not rock solid. The cookie dough chunks prevent it from getting that hard anyway.
+
+When you're ready to serve, whip the heavy cream cold. This matters. Cold bowl. Cold cream. Soft peaks take maybe ninety seconds. Stop before it goes stiff. That curdled look means you went too far.
+
+Portion the ice cream into chilled bowls—cold bowls matter because the ice cream melts slower. Dollop whipped cream on top. Garnish with cookie pieces if you grabbed them. Serve immediately. The second you plate it, eat it. That textural contrast between creamy ice cream and chewy dough doesn't last long.
+
+## Cookie Dough Ice Cream Storage and Timing Tips
+
+Leftovers go in an airtight container. They keep about a week, maybe longer. Before you serve them again, let the container sit on the counter five minutes. Just five. Not a full softening. That's when it tastes best—slightly warmer than straight-from-the-freezer but still frozen enough to hold its shape.
+
+Don't skip the softening step at the start. Eight minutes feels arbitrary but it's the difference between creamy and chunky. The ice cream surface goes glossy when it's ready. That's your signal, not the clock.
+
+Cookie dough chunks stay chewy because they're not as frozen solid as the ice cream around them. This is why you break them uneven—some melt faster and coat your spoon, some stay firm. Mixed textures. That's the whole thing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cookie Dough Chocolate Chip Ice Cream
+
+**Can I use store-bought cookie dough from the tube instead of actual dough chunks?**
+Yeah. It works fine. The pieces won't be as defined but it'll taste the same. Avoid the stuff that's meant to bake though—different texture, greasier base.
+
+**How do I know the ice cream is softened enough before mixing?**
+Push your thumb into it. Should give easily but not sink all the way. The spoon moves through without resistance. If you have to saw at it, five more minutes.
+
+**Can I make this ahead and store it for a week?**
+Goes fine for about seven days. After that the cookie dough gets harder and the vanilla gets icy. Tastes stale. Not bad, just not great.
+
+**What if my cookie dough is too hard when I break it?**
+Leave it out for two minutes. Not on the counter at room temp—that makes it crumbly. Just sits while you prep the ice cream. That five-minute window while the cream softens? The dough softens too.
+
+**Do I have to whip cream fresh or can I make it ahead?**
+Make it right before serving. Whipped cream is only good for maybe thirty minutes before it starts breaking down. The bowl and beaters need to be actually cold.
+
+**Why does the Ben & Jerry's Half Baked version taste different?**
+Theirs is denser, colder, uses more dough. This is closer to soft-serve consistency because you're folding cold cream into it. Same idea, different mouthfeel. Some people like this better.
