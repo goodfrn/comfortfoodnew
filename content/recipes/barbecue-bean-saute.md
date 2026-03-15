@@ -1,10 +1,10 @@
 ---
-title: "Barbecue Bean Sauté"
+title: "Grilled Vegetables: Charred Three Bean"
 slug: "barbecue-bean-saute"
-description: "A charred medley of beans cooked over high heat on the grill. Uses a wok basket to toss three different colored beans dressed with oil, garlic, salt, and pepper. Cooked until beans blister and lightly blacken, releasing a smoky aroma and crisp texture. Best served alongside grilled meats or fish. The all-vegetable combo can be altered with easy swaps for seasonality or preference."
-metaDescription: "Barbecue Bean Sauté mixes yellow, green, and purple beans seared over high heat for blistered skins and smoky crunch. Fast garlic shallot finish adds punch."
-ogDescription: "Sizzle three bean colors on a blazing grill or hot pan until blistered, smoky, and crisp. A quick garlic and shallot toss pulls out aroma and sweetness."
-focusKeyphrase: "barbecue bean sauté"
+description: "Grilled vegetables featuring yellow, green, and purple beans charred in a wok basket with garlic, shallot, and avocado oil. Blistered and smoky."
+metaDescription: "Grilled vegetables with three beans, garlic, and shallot charred until blistered. Smoky, crisp summer side dish. Make it tonight."
+ogDescription: "Charred yellow, green, and purple beans grilled with garlic and avocado oil until blistered and smoky. Perfect summer side."
+focusKeyphrase: "grilled vegetables"
 date: 2025-08-12
 draft: false
 image: barbecue-bean-saute.jpg
@@ -21,9 +21,15 @@ tags:
 - "summer"
 - "easy"
 keywords:
-- "yellow wax beans"
-- "grill sauté beans"
-- "smoky bean side dish"
+- "grilled vegetables"
+- "easy grilled beans"
+- "bean side dishes"
+- "charred wax beans and green beans on grill"
+- "vegetarian grilling"
+- "summer vegetable side dish"
+- "grilled beans with garlic and oil"
+- "barbecue beans in wok basket"
+- "blistered purple beans yellow beans grilled recipe"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "90"
@@ -65,3 +71,76 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, fridge in airtight container. Reheat in hot pan or grill basket with little oil to revive crispness. Don’t microwave if you want to keep some snap. Can last 2-3 days. No freezer recommended – beans soften too much on thaw."
 
 ---
+
+Dump the beans straight into the hot wok. Spread them out. That's when you'll hear it — the sizzle that tells you something's actually happening.
+
+## Why You'll Love This Grilled Vegetable Side Dish
+
+Takes 27 minutes total. Fifteen to prep, twelve on the grill. Done before your steak even finishes.
+Works as a side for literally anything — grilled chicken, fish, steak, nothing at all. Just eat it cold the next day if you want.
+The char happens fast. Those blistered skins, the slight blackening on the yellow and purple beans — that's the whole point. Doesn't happen in a pan the same way.
+No special equipment really needed. A perforated wok basket is ideal but cast iron works, a grill-safe skillet works, even a regular basket on the grates works fine enough.
+Vegetarian and summer-ready. Pairs with literally any grilled protein or stands alone as the main if you're eating light.
+
+## What You Need for Easy Grilled Beans
+
+Yellow wax beans. One and a half cups. Not interchangeable with regular green beans — these stay firmer when heat-blasted.
+Green beans. Another cup and a half. The standard. They get snap even when overcooked, which helps.
+Purple beans. Cup and a half. They're milder than yellow, sweeter even. Go extra yellow if you can't find them.
+Avocado oil or vegetable oil — 40 ml, about two and a half tablespoons. Avocado oil doesn't smoke as fast. Olive oil burns. Just doesn't work here.
+One shallot, diced fine. Garlic would work but shallot adds something gentler.
+One clove garlic, minced. Maybe two if you're aggressive about it.
+Salt and pepper. Freshly ground black pepper matters more than you'd think.
+Smoked paprika or chili flakes — optional but they change everything. A teaspoon is enough.
+
+## How to Make Grilled Beans with Charred Edges
+
+Fire up the grill to high heat. Get it screaming. The wok or basket goes directly on the grates — perforated so air flows through, so beans don't sit in their own steam. No basket? Cast iron works. A grill-safe skillet works. Even a regular basket propped over the heat works if you watch it.
+
+While it's heating, toss every single bean with the oil, salt, pepper, and smoked paprika if you're using it. Work fast. The coating should be light and even, not pooling. The oil is everything here — it prevents sticking, it creates the blister, it makes the snap.
+
+Once the wok is actually hot — and you'll know because it's smoking and sounds angry — dump the beans in all at once. Spread them out. Single layer. Crowding kills the heat, kills the char, and you end up with steamed sad beans instead. If they don't fit, do batches.
+
+## How to Get Blistered Purple Beans and Charred Bean Sides
+
+Stir every 2 minutes with tongs or a wooden spoon. Not constantly — just enough to flip them, to make sure nothing's scorching flat to the metal. You want some blackening on the skins. That's the goal. That's flavor.
+
+Listen for the crackle. The pops. That's beans releasing water, beans getting dry on the outside, beans getting ready. Feel a stem. It should bend without snapping, but snap when you bite it. Tender-crisp. Not snappy raw, not floppy cooked.
+
+Around 9 minutes in — could be 8, could be 10, depends on your grill — add the minced shallot and garlic. They hit the heat and bloom immediately. The smell changes. It gets heavier, more complex. One more minute. Maybe two. Stir gently now. Garlic burns fast and tastes bitter when it does.
+
+Pull them off when you see blistered skins, when some beans have that slight char, especially the yellow and purple ones. The sound from the wok changes — less pop and crackle, more of a gentle sizzle. That's your signal. Taste it. Add more salt if it's flat. A squeeze of lemon if you have it.
+
+## Grilled Beans Tips and Common Mistakes
+
+Crowding the pan is the biggest one. You dump everything in at once thinking it'll be faster. Instead the temperature drops, the beans steam instead of char, and you get nothing. Work in batches if you have to. Takes the same amount of time either way.
+
+Don't walk away. This isn't a set-it thing. 12 minutes of actual attention. Watch the color. Listen for the sound changing. That's how you know.
+
+Overcooked beans are mushy beans. The point of the grill is the snap, the texture, the smell. You want tender inside but still some resistance when you bite. Once you've made it once, you'll feel it.
+
+If you don't have a grill, a very hot sauté pan works. Same prep, same timing, but you lose the char. You'll get blistering from the bottom of the pan but not the smoke and blackening. It's fine. Not the same, but fine.
+
+Swap the green beans for thin asparagus tips if you want. Shallot for spring onion. Smoked paprika for cumin powder, for za'atar, for nothing at all. More oil makes them silkier and richer but mutes the char flavor. Less oil and they dry out fast. Find your balance.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Beans
+
+**Can I make this bean side dish the night before?**
+Cold, yeah. The beans still have snap. Actually might taste better after a night in the fridge — the oil settles, flavors deepen. Warm them up or leave them cold. Doesn't matter.
+
+**What if I don't have a wok basket for the grill?**
+Cast iron skillet. Grill-safe pan. Even a regular basket propped on the grates works if you're careful. You lose a tiny bit of the char but it's fine.
+
+**Why do you add the shallot and garlic at the end instead of the beginning?**
+Garlic burns. Shallot burns. They cook in seconds at that temperature. Add them at the start and they're bitter char before the beans are done. Add them last and they bloom, they perfume everything, they stay fresh.
+
+**How do I know when the beans are actually done?**
+Bend one. It should fold without breaking but snap when you bite it. Sound matters too — the pan gets quieter, less pop and crackle. The smell changes, gets deeper. Once you've done it once you'll feel it.
+
+**Can I use regular olive oil?**
+No. It smokes too fast, burns before the beans char properly. Avocado oil, vegetable oil, grapeseed oil — anything with a higher smoke point. Olive oil just doesn't work here.
+
+**Do the purple beans taste different from the yellow ones?**
+Yeah. Purple is milder, almost sweet. Yellow is a bit more grassy. Green is just green. All three together gives you layers. If you can't find purple, double the yellow. Works fine.
