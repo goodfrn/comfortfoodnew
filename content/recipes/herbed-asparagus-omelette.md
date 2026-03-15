@@ -1,10 +1,10 @@
 ---
-title: "Herbed Asparagus Omelette Twist"
+title: "Herbed Asparagus Omelette with Manchego"
 slug: "herbed-asparagus-omelette"
-description: "Eggs whipped with calm confidence. Asparagus blanched just right, tender but with bite. Herbs swapped up—cilantro and basil sneak in for a twist. Aged manchego replaces washed-rind cheese, giving that sharp, nutty pop. Butter sizzles, eggs bubble, edges firming unevenly, inviting a fold. Timing's a dance—listen for that soft hiss, watch the eggs thicken without drying out. The omelette’s tender center still quivers, herby brightness bursting under the rich cheese topping. Quick, no fuss, but every step matters. No shortcuts around feeling the omelette with your spatula—too fast, and it cracks. Slow and steady yields that luscious, creamy bite."
-metaDescription: "Herbed Asparagus Omelette Twist with cilantro, basil, Manchego. Blanched asparagus crisp, eggs soft with slow fold. Nutty butter, fresh herbs brighten each bite."
-ogDescription: "Eggs whipped light, asparagus blanched just right. Fresh herbs scattered on top; sharp Manchego flakes finish. Slow cook, fold gentle. Creamy center, herb punch."
-focusKeyphrase: "Herbed Asparagus Omelette"
+description: "Asparagus omelette with cilantro, basil, and aged Manchego cheese. Blanched asparagus, fresh herbs, and butter create a tender, creamy breakfast with nutty depth."
+metaDescription: "Make this asparagus omelette with fresh cilantro, basil, and aged Manchego cheese. Blanched asparagus and herbs create a tender, herby breakfast. Try it tonight."
+ogDescription: "Tender asparagus omelette with fresh herbs and aged Manchego cheese. Blanched asparagus, cilantro, and basil bring herby brightness to creamy eggs."
+focusKeyphrase: "asparagus omelette"
 date: 2025-08-10
 draft: false
 image: herbed-asparagus-omelette.jpg
@@ -21,9 +21,15 @@ tags:
 - "cheese"
 - "vegetarian"
 keywords:
-- "omelette recipe"
-- "asparagus eggs"
-- "herb omelette"
+- "asparagus omelette"
+- "herb omelette with manchego cheese"
+- "asparagus omelette with cilantro and basil"
+- "manchego cheese omelette recipe"
+- "fresh herb egg omelette"
+- "vegetarian egg breakfast"
+- "blanched asparagus eggs"
+- "cilantro basil omelette with asparagus"
+- "asparagus and manchego breakfast"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
@@ -67,3 +73,84 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container. Reheat gently in low pan or microwave. But omelette loses creamy softness fast, becomes rubbery. Best eaten fresh. Can chop and fold into scrambled eggs next day for rescue."
 
 ---
+
+Boil water fast. Asparagus goes in for four minutes—just enough time to get tender without turning to mush. That's the trick. Everything else is just eggs and butter and knowing when to stop cooking.
+
+## Why You'll Love This Herbed Asparagus Omelette
+
+Breakfast that tastes like you actually tried. Takes 45 minutes total but most of that's just standing there watching it happen.
+Works cold too, if you're eating it later. The cheese gets this salty, nutty thing going that changes everything about the eggs.
+No mess. One skillet. Wipe it down and you're done.
+Fresh herbs make it feel like summer even if it's not. Cilantro, basil, parsley—pick what you have. They don't have to be fancy.
+Manchego is sharp enough that you don't need much. A little goes a long way.
+
+## What You Need for a Fresh Herb Omelette
+
+Water. Half a cup plus a tablespoon. Blanching water matters—it cooks the asparagus without making it soggy.
+
+Asparagus. Three and a half ounces, trimmed and cut into two-centimeter pieces. Don't use the woody bottoms. Snap them where they naturally break.
+
+Five large eggs. Room temperature is better, but cold works fine. The omelette still comes out good either way.
+
+Unsalted butter. One and a half tablespoons. The salt in the cheese is already enough. Salted butter pushes it too far.
+
+Mixed fresh herbs. Three tablespoons, finely chopped. Cilantro. Flat-leaf parsley. Basil. You could use dill. You could use tarragon. Whatever you have that's fresh.
+
+Aged Manchego cheese. Two tablespoons, in flakes. Not grated. Flakes stay on top instead of melting into everything. Don't swap it for cheddar. Different thing entirely.
+
+Salt and pepper. Regular amounts. Taste as you go.
+
+## How to Make an Asparagus and Manchego Breakfast
+
+Get the water going in a medium non-stick skillet. High heat. Let it almost boil—you want it hot but not violently bubbling. Add the asparagus pieces, toss them once so they're all in water, and cover it. This takes four minutes. The water should almost disappear. The asparagus should snap when you bite it but still have some resistance.
+
+Season it lightly. Salt and pepper. Take it out with a slotted spoon onto a plate. Wipe the skillet dry with a paper towel. This step matters because any water left behind will steam the eggs instead of cooking them.
+
+## How to Get a Perfect Herbed Asparagus Omelette Texture
+
+Break the five eggs into a bowl and whisk them hard. Keep going until they're pale and a bit foamy—maybe 30 seconds of real effort. Add salt and pepper to taste. Don't go crazy on the salt because the Manchego's already salty.
+
+Put the skillet back on medium heat and melt the butter. You'll know it's ready when it foams and smells slightly nutty. That's the smell you want. Not brown. Just nutty. Pour the eggs in and immediately start tilting the pan so the eggs spread evenly across the bottom.
+
+With a heatproof spatula, start pushing the still-liquid eggs at the edges toward the middle. Let the runny stuff from the center flood underneath. This prevents a burnt bottom and uneven cooking. Do this for two to three minutes until the surface looks set but the center is still wet.
+
+Now make a narrow strip with the asparagus down the middle of the omelette. Scatter the herbs everywhere on top. Don't be shy about it. The herbs release a tiny bit of moisture and that's what gives brightness.
+
+Lower the heat to medium-low. Watch the edges. They'll start firming up and pulling away from the skillet just slightly—that's your signal it's almost ready. Two to three minutes of this. Then fold the edges over the asparagus strip, making it into a wallet shape. The center should still be slightly unset. Almost custardy. Let it cook for another two minutes just to set the fold. You want a gentle wobble in the middle when you tilt the plate, not a dry, brown, overcooked thing.
+
+## Asparagus Omelette Tips and Common Mistakes
+
+Don't skip the blanching. It cooks the asparagus enough that it's done when the eggs are done. Raw asparagus in the center of the omelette is not good. Nobody wants that.
+
+The fresh herb omelette thing only works if the herbs are actually fresh. Dried cilantro tastes like dried regret. Don't bother.
+
+Slide it onto a plate using the spatula. Top it with the Manchego flakes right away. The heat from the omelette softens them slightly without actually melting them. That's the whole point.
+
+Serve it immediately. An omelette loses its magic in about four minutes. It gets rubbery. Eat it while it's still got that soft center.
+
+If your first one sticks, the pan wasn't seasoned right or you didn't use enough butter. Not a big deal. It still tastes good. Second one will be better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Herbed Asparagus Omelette
+
+**Can I make this cilantro basil omelette ahead of time?**
+Yeah, but it's better fresh. Cold omelette tastes fine. Room temperature is weird. Either eat it immediately or stick it in the fridge and reheat it gently in a low oven. Three hundred and fifty degrees for about four minutes.
+
+**What if I don't have Manchego cheese?**
+Aged Gouda works. So does Gruyère if you want something sharper. Don't use mozzarella. Tastes like nothing. Don't use cheddar. Wrong flavor entirely.
+
+**How do I know the eggs are actually done?**
+The wobble test. Tilt the plate slightly. If the center moves like liquid but doesn't pour, you're there. If it's completely still, you're done. If it pours, give it another minute.
+
+**Can I blanch the asparagus ahead of time?**
+Yeah. Do it the morning of, keep it in the fridge. Just don't leave it in water. Pat it dry or it'll get mushy.
+
+**What if I don't have fresh herbs?**
+Pick one. Not a mix. One fresh herb is better than a bunch of dried ones mixed together. Cilantro alone works great. So does just basil.
+
+**Can I use a regular pan instead of non-stick?**
+You could, but you'll need more butter and you'll probably have sticking issues. Non-stick makes this easier. If you're using regular, bump the butter to two tablespoons and watch it closely.
+
+**Is this vegetarian egg breakfast really done in 45 minutes?**
+Seventeen minutes prep if you're moving slowly. Twenty-eight minutes cooking. Some of that's just waiting. Yeah. Forty-five minutes.
