@@ -1,11 +1,11 @@
 ---
-title: "Baked Chicken Taquitos with Crispy Shells"
-focusKeyphrase: "baked chicken taquitos"
+title: "Homemade Taquitos with Chicken and Cheese"
+focusKeyphrase: "homemade taquitos"
 slug: "baked-chicken-taquitos"
-description: "Crispy baked chicken taquitos rolled with melted cheese, black beans, and Rotel tomatoes. Oil-brushed for crunch, oven-baked until golden. Quick prep with rotisserie chicken."
-metaDescription: "Baked chicken taquitos recipe with crispy shells and melted cheese. Black beans, Rotel, and easy oven method. Make them tonight."
-ogDescription: "Crispy baked chicken taquitos with cheese and black beans. Rotel tomatoes add moisture and zing. Oven-baked golden edges."
-focusKeyphrase: "baked chicken taquitos"
+description: "Homemade taquitos filled with shredded chicken, black beans, melted Oaxaca cheese, and Rotel tomatoes. Oil-brushed and oven-baked until crispy golden. Ready in minutes."
+metaDescription: "Make homemade taquitos with chicken, black beans, cheese, and Rotel tomatoes. Baked until crispy golden. Try it tonight."
+ogDescription: "Crispy baked chicken taquitos with black beans, melted cheese, and Rotel tomatoes. Golden, crunchy, and ready fast."
+focusKeyphrase: "homemade taquitos"
 date: 2025-10-13
 draft: false
 image: baked-chicken-taquitos.jpg
@@ -22,11 +22,18 @@ tags:
 - "snack"
 - "cheese"
 keywords:
+- "homemade taquitos"
 - "homemade chicken taquitos"
+- "baked chicken taquitos"
+- "baked taquitos"
 - "easy chicken taquitos recipe"
-- "baked chicken taquitos with cream cheese"
+- "oven baked taquitos"
+- "shredded chicken taquitos"
+- "baked taquito recipes"
 - "rotisserie chicken taquitos"
-- "crispy taquito recipe"
+- "taquitos oven temp"
+- "taquito cook time"
+- "homemade baked taquitos"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "64"
@@ -69,3 +76,90 @@ faq:
 - "q: How to store leftover taquitos? a: Cool fully before sealing. Fridge in air-tight container. Reheat in oven for 5-10 mins so shells crisp again. Microwave makes soggy shells. For longer storage freeze wrapped well; bake frozen 15-18 mins till internal heated and edges golden."
 
 ---
+
+Roll tight. Seal with a toothpick. 450 degrees for 15 minutes and they're done. Homemade chicken taquitos take 40 minutes total and taste nothing like the frozen ones. Had half a rotisserie chicken left over, a can of Rotel I'd forgotten about, some Oaxaca cheese. Rolled them up one night and now it's all I make when people come over.
+
+## Why You'll Love These Baked Chicken Taquitos
+
+Crispy outside, creamy inside—the cheese gets almost melty but the shell still snaps when you bite. Takes 25 minutes of actual work, then you just watch the oven. No deep frying. No splattering oil on your hands. Appetizer that works for game day, for snacks, for whenever you have leftover chicken. Cheese pulls when you pull the taquito—that's how you know it's working. Cold the next day tastes different, kind of better sometimes. Kids eat them. Adults eat more than they should.
+
+## What You Need for Homemade Baked Taquitos
+
+Four cups of shredded cooked chicken. Rotisserie works great. Don't shred it too fine—small chunks are better than threads.
+
+One can of Rotel. Not salsa. The diced tomatoes with the chili heat already in there. Drain it first or the filling gets wet and taquitos steam instead of crisp.
+
+Black beans. Canned. Drain and rinse them, then warm them up and mash them a little—not into paste, just enough so they stick to the tortilla and don't fall out the sides.
+
+Thirty-two corn tortillas. They tear if they're cold. Warm them wrapped in a damp towel or run them through a hot skillet one at a time.
+
+Oaxaca cheese. It shreds easier and melts better than regular mozzarella. If you can't find it, shredded mozzarella works. Not fresh mozzarella. That breaks apart.
+
+Two tablespoons of canola oil. Just enough to brush them so they get golden, not to soak them. Olive oil burns at this temp.
+
+Toothpicks. The kind you use for appetizers. Round works better than flat.
+
+## How to Make Baked Chicken Taquitos
+
+Start with the chicken and Rotel mixed together in a bowl. The tomato juice should coat everything but not pool at the bottom. If it looks soupy, drain more liquid out. You're looking for sticky, not sloppy.
+
+Heat the black beans in a bowl for 90 seconds in the microwave. They need to be warm so they spread easy. Mash them with a fork while they're still warm—leave the chunks in there. Smooth beans slide right out of the tortilla when you bite it.
+
+Warm the tortillas. This matters more than people think. Cold corn tortillas crack the second you try to roll them. Wrap them in a damp paper towel and microwave for maybe a minute, or heat them one at a time in a hot skillet for 10 seconds each side. They soften up. They actually bend without breaking.
+
+Preheat the oven to 450. Keep an eye on it. Heat moves different in every oven. The crispy happens faster at this temp than at 350.
+
+Lay a tortilla flat. Spoon a little of the warm black beans down the center—maybe a tablespoon. Not more. It's there to hold things together and add a layer, not to be the filling. Top that with about 1 to 2 tablespoons of the chicken mixture. Then about 1 tablespoon of cheese. Overstuff them and they split when you roll. Under-stuff and they fall apart when they bake.
+
+Roll it tight. Start from one side, fold it over the filling, keep rolling until it's sealed. Stick a toothpick through the seam to lock it. The seam goes down on the baking sheet so it stays closed.
+
+## How to Get Baked Taquitos Actually Crispy
+
+Line a baking sheet with parchment paper. Brush each taquito lightly with canola oil—and light is the word. You're not drenching them. Just enough so the exterior has something to go golden with. This is what makes the difference between crispy and chewy.
+
+Arrange them seam-side down so they don't unroll. Space them so they're not touching. If they touch, the sides steam instead of crisp.
+
+Bake for 12 to 15 minutes. The oven temp matters but so does watching. The tips will start to bubble. The cheese will melt inside. The tortillas go from pale to golden to deep golden. You want deep golden. Not brown. There's a difference and it happens in like 60 seconds.
+
+Pull them out when the tips are crispy and the color looks right. Let them sit for 5 minutes before you pull the toothpicks out. The filling sets up a little. The cheese cools enough that it doesn't slide right off. If you pull them out and immediately grab the toothpick, the whole thing's still molten and weird.
+
+## Baked Chicken Taquito Tips and Common Mistakes
+
+The beans are the glue. Don't skip that step. People do and then the filling just slides around inside and the taquito falls apart. Warm mashed beans hold everything together.
+
+Warm tortillas. Cold tortillas crack. That's non-negotiable.
+
+Don't overstuff. It looks like it won't be enough but it is. Too much filling and the tortillas split open when they bake and you've got a mess.
+
+The oil brush. Not a soak. Brush. Light. That's what keeps them from going tough and chewy.
+
+Watch the oven the last few minutes. Every oven's different. Yours might be done at 13 minutes. Mine's done at 15. The color tells you more than the clock.
+
+Toothpick through the seam. Seam down on the sheet. This is what keeps them rolled. Taquitos are just a chicken burrito cooked really fast at high heat. Nothing holds itself.
+
+Cream cheese works if that's what you have. Some people add a tablespoon mixed into the chicken. It doesn't hurt. Not required.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Baked Taquitos
+
+**Can I use flour tortillas instead of corn?**
+Yeah. They won't get crispy the same way. They'll be more like a burrito. If that's what you want, go for it.
+
+**What's the actual oven temperature and why does it matter?**
+450 degrees. Hotter means the outside crisps before the filling gets dry. Lower and you're waiting forever and they dry out anyway. 450 just works.
+
+**How do I keep the filling from falling out?**
+Mashed beans on the bottom. They're the anchor. Not too much filling. Roll it tight. Seam down on the sheet. Toothpick through the middle. Do all that and they stay together.
+
+**Can I make these ahead and bake later?**
+Yeah. Roll them, stick the toothpicks in, put them on a sheet, cover with plastic wrap, throw them in the fridge. Bake them cold—adds maybe 2 minutes. Or freeze them. Bake from frozen and add 5 minutes to the time.
+
+**Do I really need Rotel or can I use regular salsa?**
+Rotel's got the heat and the tomatoes both. Regular salsa's wetter. You'd have to drain it a lot and it loses flavor. Not worth it. Rotel works because of what it is.
+
+**Why can't I use fresh mozzarella?**
+It breaks apart when it gets hot. Shredded mozzarella melts and stays together. Fresh gets stringy and then separates. Different cheese for different things.
+
+**Can these be made without toothpicks?**
+They'll unroll. You could seal them with just being careful but toothpicks are a dollar for a box. Just use them.
