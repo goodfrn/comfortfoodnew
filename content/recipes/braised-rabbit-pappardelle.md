@@ -1,10 +1,10 @@
 ---
-title: "Braised Rabbit Pappardelle"
+title: "Braised Rabbit Pappardelle with White Wine"
 slug: "braised-rabbit-pappardelle"
-description: "Braised pieces of rabbit cooked in butter, white wine, and chicken broth with carrots, onion, garlic. Thickened with flour. Tossed with pappardelle pasta flavored with fresh parsley, rosemary, thyme, and topped with aged pecorino cheese. Slow simmered until tender. Rustic Italian style pasta main dish. No nuts, lactose, or eggs. Slightly adapted traditional ragù technique with altered spices and quantities."
-metaDescription: "Braised Rabbit Pappardelle with slow-simmered rabbit in wine, whole wheat flour-thickened sauce, fresh herbs, and pecorino over wide pasta. Rustic Italian main dish."
-ogDescription: "Rabbit chunks braised slow in wine, herbs, and stock. Tossed with fresh pappardelle and sharp pecorino. Earthy parsnips replace carrots. Italian rustic flavors."
-focusKeyphrase: "Braised Rabbit Pappardelle"
+description: "Braised rabbit pappardelle with tender rabbit, parsnips, and fresh herbs simmered in white wine and chicken stock. Tossed with pappardelle, rosemary, thyme, and pecorino romano."
+metaDescription: "Braised rabbit pappardelle recipe with rabbit, parsnips, white wine, and fresh rosemary. Slow-simmered Italian comfort food. Make it tonight."
+ogDescription: "Tender braised rabbit with parsnips, white wine, and fresh herbs tossed with pappardelle pasta and pecorino romano."
+focusKeyphrase: "braised rabbit pappardelle"
 date: 2025-07-29
 draft: false
 image: braised-rabbit-pappardelle.jpg
@@ -21,9 +21,16 @@ tags:
 - "slow cooker"
 - "main dish"
 keywords:
-- "rabbit braised pasta"
-- "pappardelle ragù"
-- "Italian rabbit recipe"
+- "braised rabbit pappardelle"
+- "rabbit pasta"
+- "rabbit pappardelle with white wine"
+- "italian rabbit ragù pasta"
+- "braised rabbit with rosemary and thyme"
+- "pappardelle with rabbit and parsnips"
+- "slow cooker rabbit ragù"
+- "italian pasta dishes"
+- "comfort food rabbit pasta"
+- "rabbit ragù recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "550"
@@ -75,3 +82,84 @@ faq:
 - "q: How to store leftovers? a: Cool quickly. Refrigerate in airtight container up to 3 days. Freeze if needed, separate pasta and ragù if possible. Reheat gently to avoid drying pasta or tough rabbit."
 
 ---
+
+Rabbit in the pan, sizzle immediately—that's when you know it's hot enough. Three pounds of meat, six pieces, browning fast. This isn't chicken. It tastes like something older, something wild but patient. Braise it long enough and it falls apart into strings, dissolves into a wine-dark sauce that coats fresh pappardelle like nothing else can. Comfort food that tastes like it took hours. Really takes about two hours total, but most of that's sitting there, doing nothing.
+
+## Why You'll Love This Braised Rabbit Pasta
+
+One bowl. Wine, stock, herbs from your garden or the grocery store—they all go in and do the work for you.
+The meat shreds itself if you wait long enough. No knife work at the end.
+Tastes better the next day. Cold fridge overnight, reheat it slow. Somehow deeper.
+Parsnips go soft and sweet, almost dissolve into the sauce. Not carrots. Parsnips change the whole thing.
+Slow cooker method works too—8 hours on low, same result, less heat in the kitchen.
+
+## What You Need for Braised Rabbit with Rosemary
+
+One rabbit. Six pieces, or four legs if that's all you can find. Butcher will do this. Ask them.
+Parsnips, diced small—half a centimeter. Not baby ones, not huge. Regular-sized parsnip, peeled, cubed. They disappear into the ragù.
+Onion and garlic. Three cloves minced fine. One medium onion chopped however. Doesn't matter.
+White wine—dry, something you'd drink. Not cooking wine. Actual wine. Matters.
+Chicken stock. The real kind if you have it. Box is fine. Don't use beef.
+Whole wheat flour. Just a tablespoon and a half. Thickens without tasting floury.
+Fresh rosemary, fresh sage, fresh thyme. One sprig of rosemary for the pot, then fresh herbs stirred in at the end. Dried doesn't work here—tastes dusty.
+Pappardelle. Four hundred grams. Fresh if you can get it. Dried works, takes longer to cook.
+Pecorino romano. Not parmesan. Different—salty, sharp, cuts through the richness.
+Olive oil. Good olive oil. Not premium, just not the bottom shelf.
+Salt and black pepper. Fresh pepper. Grind it yourself.
+
+## How to Make Braised Rabbit Ragù
+
+Heat the oil until it shimmers. Not smoking. Shimmering. Drop the rabbit in—it should hiss the second it hits. Brown it all over, maybe four minutes per side if the pieces are big. Season with salt and pepper as you go. Pull it out onto a plate.
+
+Same pan. Lower the heat slightly. The parsnips go in first—they're harder than onion, take longer. Stir for maybe two minutes before the onion goes in. Then the garlic. Seven minutes total until it softens and starts to smell like something is happening. Now the flour. Stir constantly for a minute and a half—you're coating everything, absorbing the oil, building a base.
+
+Pour the white wine in. The pan hisses again. Turn up the heat, get it to a real boil, and let it reduce—watch the liquid pull back. Should take five minutes, maybe six. You're cooking off the sharp edge of the wine. When it's reduced by half, it tastes less like alcohol and more like caramelized depth.
+
+Add the stock. Add the rosemary sprig. Bring it back to boil, then drop the heat to low—bare simmer, not even that. More like barely moving. Rabbit goes back in. Cover loosely. Let it go for an hour and twenty-five minutes. Maybe thirty if your rabbit is bigger or you're in no rush. The meat should shred when you press it with a fork.
+
+## How to Get Braised Rabbit Tender and Rich
+
+The slow cooker version: Brown the rabbit in a pan first—that step doesn't change. Then transfer everything to a slow cooker. Eight hours on low. Comes out the same. Actually comes out softer, less risk of overdrying it.
+
+Remove the rabbit and the rosemary sprig. Let the rabbit cool just enough to handle. Debone it—the meat pulls off the bones in sheets, some in small pieces. Back into the sauce. Stir it in. The ragù thickens now because the rabbit releases gelatin. If it looks too thin, let it simmer uncovered for another ten minutes. If it's thick and glossy, you're done. Taste it. Salt probably needs adjusting. Always does.
+
+Fresh pappardelle goes in boiling salted water for three, maybe four minutes if the pasta is thin and truly fresh. Dried pasta takes eight to ten. Drain it—save a half cup of pasta water just in case.
+
+Fold the pasta into the ragù. Low heat. The herbs go in now—the parsley, sage, thyme, all chopped and scattered. Stir gently. You're not mixing it aggressively. You're folding it in, warming everything through. One or two minutes. The pasta should coat, not swim.
+
+Plate it. Pecorino on top. Fresh crack of black pepper. Stir once, taste again.
+
+## Braised Rabbit Pappardelle Tips and Mistakes
+
+Don't skip browning the rabbit. That color matters. That's flavor you can't get back later.
+Parsnips, not carrots. Carrots stay too firm, won't dissolve into the sauce. Parsnips go soft and sweet, actually taste integrated.
+The wine has to reduce. If you skip that step or rush it, you get sharp, thin sauce instead of deep and round.
+Fresh herbs at the end change everything. The rosemary sprig cooks all day—that's the deep flavor. The fresh herbs at the very end—that's brightness. Both matter.
+Pappardelle sticks if you let it sit. Toss it with a tiny bit of oil if you're waiting more than a minute.
+The meat will shred. If it doesn't, it's not done yet. Give it another fifteen minutes. Overcooked rabbit is still tender. Undercooked rabbit is tough, wasted effort.
+Leftovers actually do taste better. Fridge overnight, reheat low and slow. The flavors integrate. It's worth the wait.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Braised Rabbit Pasta
+
+**Can you make this in a slow cooker?**
+Yeah. Brown the rabbit and vegetables in a pan first—don't skip that. Then dump everything into the slow cooker with the stock and wine. Eight hours on low. Same result, less hovering. House smells different though—slow cooker doesn't concentrate the aroma the same way.
+
+**Where do you find rabbit?**
+Butcher counter. Ask. Most places will order it if they don't have it fresh that day. Cost is higher than chicken but not outrageous. The taste is worth it—gamier, richer, falls apart in a completely different way.
+
+**Can you substitute chicken?**
+Technically, yes. But it's not the same dish anymore. Chicken gets stringy and loses flavor faster. Rabbit stays tender and dark and flavorful for the full braise. Try it if you want. You'll understand why rabbit is the right call.
+
+**Does dried pappardelle work?**
+Sure. Takes eight to ten minutes instead of three or four. Cook it separate, drain it, fold it in. Dried is actually more forgiving—less likely to turn to mush if you're not watching. Fresh is better if you can get it, but dried isn't a failure.
+
+**Can you make this ahead?**
+Make the ragù a day or two early. Reheat it gently on low. Cook the pasta fresh, fold it in. Or make everything, cool it, fridge it, reheat the whole thing together—the pasta won't dissolve that way, honestly holds up better than you'd think.
+
+**Should you use rosemary or thyme?**
+Both. Rosemary goes in the braising liquid early—cooks all day, gets mellow and integrated. Fresh thyme goes in at the very end, scattered over the pasta. Same with sage and parsley. The ones that cook long go in early. The ones that need brightness go in at the last second.
+
+**What if the sauce is too thin?**
+Let it simmer uncovered for ten minutes while the rabbit's cooling. The liquid reduces, gets thicker, coats better. If it's still loose, that's fine—starchy pasta water absorbs into it anyway. Not a disaster either way.
