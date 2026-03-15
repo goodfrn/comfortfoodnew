@@ -1,10 +1,10 @@
 ---
-title: "Baked Maple-Chai Donuts"
+title: "Baked Maple-Chai Donuts with Whole Wheat"
 slug: "baked-maple-chai-donuts"
-description: "Baked donuts with a maple syrup twist and chai spices. Swapped some flour for whole wheat and buttermilk for plain yogurt. Replaced canola oil with melted coconut oil for a subtle aroma and swapped baking soda for baking powder. Batter piped into a donut pan, baked at 175 C. Texture tender but with a hint of chew from whole wheat. Lightly sweet, earthy spices fill the nose as they bake. Perfect for those who want quick, less greasy treats without deep frying but still crave donuty vibes."
-metaDescription: "Baked Maple-Chai Donuts with whole wheat and coconut oil, tender crumb with subtle chew. Warm spices and maple syrup notes. Quick 30-minute bake, less greasy treat."
-ogDescription: "Light baked donuts with chai spice, maple syrup, and subtle whole wheat chew. Coconut oil and yogurt swap for moist texture. Fast bake, cozy flavors."
-focusKeyphrase: "baked maple chai donuts"
+description: "Baked maple-chai donuts made with whole wheat flour, yogurt, and coconut oil. Tender, lightly sweet treats with earthy spices—no deep frying required."
+metaDescription: "Baked maple-chai donuts made with whole wheat flour and plain yogurt for a tender, lightly sweet treat. Make it tonight."
+ogDescription: "Tender baked donuts with maple syrup, chai spices, whole wheat flour, and coconut oil. Quick, less greasy, and delicious."
+focusKeyphrase: "baked donuts"
 date: 2025-08-09
 draft: false
 image: baked-maple-chai-donuts.jpg
@@ -21,9 +21,16 @@ tags:
 - "vegetarian"
 - "chai"
 keywords:
-- "maple donuts"
-- "chai spice donuts"
 - "baked donuts"
+- "donut recipe"
+- "chai spice donuts"
+- "homemade baked donuts"
+- "whole wheat baked donuts recipe"
+- "maple syrup donuts"
+- "baked donuts with coconut oil and yogurt"
+- "chai donuts recipe"
+- "healthy baked donuts"
+- "vegetarian donut recipe"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "145"
@@ -69,3 +76,95 @@ faq:
 - "q: How store leftovers? a: Wrap airtight, fridge or room temp max day. Reheat briefly for softness—microwave few seconds or oven low heat. Freeze wrapped tightly, thaw and reheat same way. Donuts dry out fast if exposed air. Glaze cut shelf a bit shorter."
 
 ---
+
+Preheat to 175°C. Grease the donut pan. Not a step people skip, but—the sticky part matters. You'll see why in about 15 minutes when you flip them out warm.
+
+## Why You'll Love These Baked Maple-Chai Donuts
+
+Ready in 30 minutes start to finish. Not waiting for dough to rise. Not cooling overnight. Mix it, pipe it, bake it, eat it.
+
+Chai spice donuts taste like breakfast got fancy, except it didn't. Just donuts with actual flavor woven through, not sprinkled on top like an afterthought. The maple syrup keeps them soft while the whole wheat adds something you can't quite name—texture, maybe. Depth. Something.
+
+Homemade baked donuts cost less than one coffee shop donut and you get like eight. No judgment if you eat them all before anyone else knows they exist.
+
+Vegetarian. Gluten-forward if you care about that. Works cold too, though they're best warm from the pan when the chai spice smell is actually aggressive about getting your attention.
+
+## What You Need for Homemade Baked Donuts
+
+All-purpose flour—130 ml. Regular stuff. Unbleached if you have it, but honestly it doesn't matter that much.
+
+Whole wheat flour. 50 ml. Adds a tiny bit of nuttiness without making them taste like health food. Skip it if you want pure white donuts. They'll work.
+
+Baking powder. Six ml. Not baking soda. Not the same thing and this recipe needs the lift.
+
+Chai spice blend. Two ml. This is the whole point. Don't skip it. Some chai blends are stronger than others—start with two ml, taste the batter, add more if you want it louder.
+
+One egg. Large. Room temperature works better but cold works too if you're in a rush.
+
+Maple syrup. Sixty ml. Pure, not the pancake syrup kind. Different flavor entirely. Can't really swap it.
+
+Melted coconut oil. Thirty ml. Olive oil works. Vegetable oil works. Butter works but changes the texture slightly—they get less fluffy.
+
+Plain yogurt. One hundred twenty ml. Greek yogurt is thicker, thin it with a splash of milk if you use it. Buttermilk swaps in fine. Sour cream too.
+
+## How to Make Baked Maple-Chai Donuts
+
+Oven to 175°C, center rack. Grease the donut pan. Use coconut oil or nonstick spray. This matters more than you think—they'll stick otherwise and you'll burn the bottoms trying to force them out.
+
+Get a medium bowl. Whisk the flours together, baking powder, chai spice, salt. Just mix it. You'll smell the chai already. That's the preview.
+
+Separate bowl. Crack the egg. Add maple syrup. Whisk hard for about two minutes. It'll get lighter, almost frothy. This helps them rise evenly.
+
+Pour the melted coconut oil into the wet mix. Stir gently. Don't go crazy. Just until combined.
+
+Now the trickiest part—fold the dry ingredients into the wet in two batches. Add some flour mix, some yogurt, some flour mix, yogurt. Fold until the batter comes together. No lumps. But stop folding the second it looks smooth. Keep going and they get tough and dense.
+
+Transfer batter to a piping bag or a ziplock bag with the corner cut off. You need to pipe it into the donut pan cavity. Fill each one about three-quarters full. Wipe the edges clean—burned batter around the rim smells acrid and tastes bitter.
+
+Bake 13 to 15 minutes. Watch it after 13. The edges spring back when you touch them. The top goes golden but not dark. Don't rely on a toothpick—sometimes the maple syrup makes it stick weirdly. Press the top gently. It should bounce back. Should feel set.
+
+## How to Get Donuts Golden and Fluffy
+
+Pull them out while warm. Flip onto parchment or a clean cloth right away. This stops the bottoms from getting soggy—the air gets underneath.
+
+Don't wait too long before flipping though or they dry out on the pan side. Warm is the sweet spot.
+
+Let them cool at room temperature for 5-10 minutes. The tops firm up. The edges stay soft. The chai smell gets richer—the maple mellows and the spices come forward more. That's when they're best.
+
+These taste good the same day. Like, noticeably better the same day. Next day they're fine but they've lost the edge somehow.
+
+## Baked Maple-Chai Donuts Tips and Common Mistakes
+
+Batter thickness—if it won't pipe, add a tiny splash of yogurt or milk. Too runny? Add a spoon of flour. Small adjustments. The batter needs body or it spreads in the pan instead of staying up.
+
+Don't overmix the batter. Seriously. It's the thing that kills them. Overmix and you get dense hockey pucks instead of donuts. Mix until it barely comes together and stop.
+
+Temperature matters. If your oven runs hot, check at 13 minutes. If it runs cold, maybe 16. Watch the edges, not the timer.
+
+The chai spice blend—different brands are different strengths. Start conservative. You can always taste the batter and add more. You can't take it out.
+
+For a chai spice donuts with maple glaze situation, make a quick glaze while they cool. Sixty ml powdered sugar, 15 ml maple syrup, a splash of water or milk. Whisk until it's drizzle-able. Drizzle the cooled donuts. Gets shiny and sweet.
+
+Substitutions—yogurt can be buttermilk or sour cream. Coconut oil can be mild olive or vegetable oil. Baking powder is non-negotiable for the rise. Baking soda won't work alone here because the acidity changes everything.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baked Maple-Chai Donuts
+
+**Can I make these the night before?**
+Yeah, bake them the night before. Store in an airtight container. Eat them cold or microwave for 10 seconds. They're decent cold but they're better warm.
+
+**What if my batter is too thin?**
+Add a spoon of flour at a time. Mix gently. Keep going until it's thick enough to pipe without running everywhere. You'll feel when it's right.
+
+**Can I use a different yogurt?**
+Greek yogurt works. It's thicker so add a splash of milk to thin it. Regular yogurt is easier. Sour cream works too. Don't use flavored yogurt—vanilla yogurt changes the whole thing.
+
+**How do I know when they're done?**
+Touch the top gently. It should spring back. The edges go golden. The toothpick sometimes sticks because of the maple so don't trust that alone. Just feel it. It'll tell you.
+
+**Do I have to pipe the batter?**
+You could probably use a small spoon and fill each cavity but piping is cleaner. Ziplock bag with the corner cut is the cheapest piping bag that works.
+
+**Why do mine stick to the pan?**
+Didn't grease it enough. Greasing matters here more than other recipes. Use coconut oil or spray and actually get into the corners of each cavity.
