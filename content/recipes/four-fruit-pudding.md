@@ -1,10 +1,10 @@
 ---
-title: "Four Fruit Pudding"
+title: "Chocolate Pudding Fruit with Berries"
 slug: "four-fruit-pudding"
-description: "A fruit-forward pudding with a cakey top. Combines fresh strawberries, raspberries, rhubarb, and apples with a subtle twist of lemon zest. Cornstarch swapped for arrowroot for a cleaner gel. Slight sugar reduction helps the natural fruit tartness shine. Batter enriched with Greek yogurt instead of milk, lending a tender crumb and a slight tang. Bake until bubbly fruit juices rise and the top is golden with a subtle crust. Ideal for those who value texture contrasts and fresh, vibrant flavors."
-metaDescription: "Four Fruit Pudding combines tart rhubarb, sweet berries, and apples with lemon zest and Greek yogurt for a tangy top crust and juicy layers."
-ogDescription: "Juicy berries, rhubarb, apples topped with a cakey crust made with Greek yogurt. Watch bubbling juices, golden edges, subtle cracks for doneness clues."
-focusKeyphrase: "Four Fruit Pudding"
+description: "Fruit pudding combining strawberries, raspberries, rhubarb, and apples with lemon zest. Greek yogurt batter creates a tender crumb with golden cake top over bubbling fruit filling."
+metaDescription: "Chocolate pudding fruit dessert with fresh strawberries, raspberries, rhubarb, and apples. Greek yogurt batter, arrowroot thickening, lemon zest. Make it tonight."
+ogDescription: "Fruit-forward pudding with strawberries, raspberries, rhubarb, apples, and lemon zest. Golden cakey top over bubbly fruit filling."
+focusKeyphrase: "chocolate pudding fruit"
 date: 2025-09-08
 draft: false
 image: four-fruit-pudding.jpg
@@ -21,9 +21,18 @@ tags:
 - "apple"
 - "dessert"
 keywords:
+- "chocolate pudding fruit"
 - "fruit pudding"
-- "rhubarb dessert"
-- "Greek yogurt cake"
+- "strawberry pudding"
+- "apple and rhubarb crumble"
+- "berries pudding"
+- "puddings with strawberries"
+- "apple rhubarb crumble"
+- "apple and rhubarb crisp"
+- "fruit based puddings"
+- "chia pudding strawberry"
+- "banana pudding with strawberries"
+- "peach pudding"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "265"
@@ -77,3 +86,107 @@ faq:
 - "q: How to store leftovers? a: Cover well, fridge best. Keeps texture overnight still good. Reheat gently, avoid microwave explosion; use low oven or steamer. Freeze carefully by portion to keep smooth texture later. Fruit layer may separate a bit but reheats fine. Consume within 2 days best."
 
 ---
+
+Cut the fruit first—strawberries, raspberries, rhubarb, apple. Sugar, arrowroot, lemon zest going in the pan. The kitchen smells incredible within 10 minutes. Then comes the batter. Spoon it over while the fruit's still hot. Bake until the top cracks gold and the filling bubbles at the edges. That's when you know it's done.
+
+## Why You'll Love This Chocolate Pudding Fruit Dessert
+
+Takes 1 hour 16 minutes total but feels like less. Prep is the longest part — most of it just cutting fruit. The baking does itself.
+
+Tastes like something between a cobbler and a pudding. Warm fruit underneath, tender cake on top. The lemon zest cuts through everything so it's not heavy.
+
+Fresh strawberry, raspberry, and apple in one dish. Works cold the next day, maybe better. Rhubarb breaks down into something almost creamy.
+
+One bowl for batter. One pan for fruit. Cleanup isn't nothing, but it's fast.
+
+Greek yogurt keeps the cake moist without making it gummy. Dessert that doesn't dry out in the fridge.
+
+## What You Need for Chocolate Pudding Fruit
+
+Strawberries — 2 cups, quartered. Raspberries — 2 cups. Rhubarb — 2 cups sliced. Cortland apples, 2 medium, peeled and cubed. Not Granny Smith. These are softer. They break down better.
+
+Sugar. A cup minus a tablespoon for the fruit. Arrowroot powder — a teaspoon. Thickens the juices without turning them cloudy. Lemon zest from one lemon. Not juice. Zest. Makes everything taste brighter.
+
+For the batter: flour, baking powder, salt. Butter softened. Sugar again, but less this time. One egg. Greek yogurt instead of milk — keeps it tender. Vanilla extract. That's it.
+
+All-purpose unbleached flour works. The yogurt matters more than the flour type.
+
+## How to Make Chocolate Pudding Fruit
+
+Get a heavy-bottomed saucepan. Large one. Combine the sugar, arrowroot powder, and lemon zest first. Toss them together — they'll break up the clumps.
+
+Add all the fruit. Strawberries, raspberries, rhubarb, apples. Stir gently but get everything mixed through. Medium-low heat. Stir enough that the bottom doesn't scorch but not constantly — you want the heat to work its way through the fruit, not pulverize it immediately.
+
+Watch for the shift. The fruit starts releasing juice. The whole thing gets glossy and darker. The kitchen fills with steam and tartness. That's when you're close.
+
+Keep going another 6 to 8 minutes after it starts bubbling. That's when the juices thicken slightly. The fruit softens but hasn't turned to mush yet. Pull it off the heat before it does.
+
+Divide the fruit and juice between six ramekins, or pour everything into one large baking dish. Don't skimp here. The fruit layer should be deep and generous. Juicy is what you want.
+
+## How to Get the Crust Golden and Crispy
+
+Position the oven rack to mid-level. Preheat to 175°C (350°F). Slight temperature drop from standard stops the top from burning before the inside bakes through.
+
+Whisk flour, baking powder, salt in a medium bowl. Set it aside.
+
+Beat butter and sugar together with an electric mixer until it goes pale and fluffy. Takes about 3 minutes. Skip this step and the batter turns dense. Not worth it.
+
+Add the egg. Mix until it looks smooth and glossy. Stops the dry flour look immediately.
+
+Fold in the flour mixture and Greek yogurt alternately. Start with flour, end with flour. Batches. Low speed or fold by hand if you have the patience. Overdixing develops gluten and the cake gets tough. The batter should be thick but still spreadable. You can get a spoon through it without fighting.
+
+Spoon the batter over the fruit in each ramekin. Spread it gently across the surface but don't press down. Want a tender crust, not a dense cake layer.
+
+Set the ramekins on a baking sheet. Fruit bubbles over sometimes. The sheet catches it.
+
+Bake for 42 to 47 minutes. Watch after 40. The top goes golden, not burnt. The edges pull slightly away from the ramekin. You can touch it and it's firm but not hard. Insert a toothpick near the center — should pull out with a few moist crumbs clinging. Never wet batter. Never fully dry either.
+
+If you're using one large baking dish, expect 58 to 63 minutes. Same visual cues. Lower the rack position if the top browns too fast.
+
+Cool slightly before serving. The fruit should bubble through the sides. The top crust cracks delicately. Serve with cream or vanilla ice cream if you want. Can also stand alone — the tartness and fresh fruit make it bright enough without anything else.
+
+## Chocolate Pudding Fruit Tips and Common Mistakes
+
+Arrowroot powder thickens without cloudiness. Cornstarch works but leaves the juices slightly opaque. Doesn't change the taste. Does change how it looks.
+
+Frozen fruit works. Thaw it first and drain well. Excess liquid throws off the texture. Reduce the arrowroot powder to half a teaspoon if you're using frozen.
+
+Rhubarb is tart. If your batch is aggressive, add another tablespoon of sugar to the fruit. Taste before it hits the oven. Can't fix it after.
+
+Apple varieties matter slightly. Cortland breaks down faster than Honeycrisp. Granny Smith stays too firm. Pick what softens.
+
+The pudding mango version is just substitution — 2 cups cubed mango instead of rhubarb, skip the lemon zest, maybe add a pinch of cardamom. Adjust sugar down slightly.
+
+Blueberries, blackberries, peaches all work. Cut them roughly the same size as the strawberries. Adjust sugar based on what you pick — blueberries need less, peaches might need more.
+
+Don't overstir the fruit on the stove. You want it to break down and soften, not turn into jam. Stirring occasionally means actually occasionally. Maybe every 30 seconds, not constantly.
+
+The batter spreads easier if it's at room temperature. Cold batter gets thick and tears the fruit underneath. Let the butter soften for real before mixing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Pudding Fruit Dessert
+
+**Can I make this ahead?**
+Make it the morning of, bake it later. Keep the fruit covered in the fridge. Batter gets weird if it sits more than an hour — separates slightly. Won't taste wrong but texture gets grainy. Bake fresh.
+
+**What if the top browns too fast?**
+Lower the oven rack. Cover loosely with foil for the last 15 minutes if it's still darkening too much. Doesn't stop the browning entirely but slows it down.
+
+**Can I use canned fruit?**
+Technically yes. Drain it well. Use less arrowroot — canned fruit already releases liquid during processing. Taste won't be as bright as fresh strawberry and raspberry. Not worth it.
+
+**How long does it keep?**
+Three days in the fridge, covered. Tastes better on day two. The flavors settle. Can freeze it but the texture changes when it thaws — gets watery. Better to eat it fresh.
+
+**Do I have to use Greek yogurt?**
+Milk works. The cake gets slightly denser. Not bad, just different. Regular yogurt works too. Buttermilk makes it tang, which is nice with the fruit. Sour cream is too heavy.
+
+**Why lemon zest and not juice?**
+Juice adds liquid. Too much liquid and the fruit filling gets soupy. Zest gives brightness without changing the consistency. The oils in the zest matter more than the juice anyway.
+
+**Can I double it?**
+Yes. Use two baking dishes or more ramekins. Same baking time if you're doing ramekins. Large dish takes longer — closer to 70 minutes. Watch it.
+
+**What's the difference between this and apple and rhubarb crumble?**
+Crumble has a buttery oat topping. This has a cake batter. This pudding is softer, more custard-like underneath. Crumble is crunchy. Different eating experience.
