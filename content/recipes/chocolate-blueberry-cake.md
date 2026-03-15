@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Blueberry Pudding Cake"
+title: "Chocolate Blueberry Pudding Cake Recipe"
 slug: "chocolate-blueberry-cake"
-description: "A rich, baked chocolate pudding with fresh or frozen blueberries, layered with a cocoa-infused cake and topped with a luscious, thick chocolate sauce. Ingredients adjusted for unique twist with coconut oil replacing butter and maple syrup instead of cassonade. The pudding bakes slowly, about 55 minutes, until the cake sets and the chocolate sauce bubbles beneath. This dessert, vegetarian and nut-free, serves eight, blending tart berries with bittersweet chocolate in a rustic style."
-metaDescription: "Indulge in Chocolate Blueberry Pudding Cake, a rich dessert with layers of cake and gooey chocolate, ideal for impressing guests."
-ogDescription: "Chocolate Blueberry Pudding Cake layered with cocoa, blueberries, and a rich topping of dark chocolate. Perfect for any dessert lover."
-focusKeyphrase: "Chocolate Blueberry Pudding Cake"
+description: "Rich chocolate blueberry pudding cake baked with coconut oil and maple syrup. Fresh blueberries layer with cocoa cake and dark chocolate sauce for an indulgent dessert."
+metaDescription: "Chocolate blueberry pudding cake made with coconut oil, maple syrup, and dark chocolate. Bakes in 55 minutes. Try it tonight."
+ogDescription: "Decadent chocolate blueberry pudding cake with dark chocolate sauce, fresh blueberries, and maple syrup. Comfort food perfection."
+focusKeyphrase: "chocolate blueberry pudding cake"
 date: 2025-07-24
 draft: false
 image: chocolate-blueberry-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "chocolate pudding"
-- "blueberry cake"
-- "coconut oil recipe"
+- "chocolate blueberry pudding cake"
+- "chocolate cake with blueberries"
+- "pudding cake dessert"
+- "baked chocolate pudding with blueberries"
+- "chocolate blueberry dessert"
+- "dark chocolate pudding cake recipe"
+- "blueberry chocolate cake with cocoa sauce"
+- "comfort food chocolate cake"
+- "chocolate cake with maple syrup"
+- "cocoa pudding cake with fruit"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "390"
@@ -82,3 +89,70 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in an airtight container. Up to three days. Reheat gently before serving. Pudding tastes better as it sits."
 
 ---
+
+Batter goes in the pan first. Then the magic happens — you pour a whole chocolate sauce over the top and it somehow splits into two layers while it bakes. Cake on top, pudding underneath. Takes about an hour and a half start to finish, but most of that's just the oven doing the work.
+
+## Why You'll Love This Chocolate Blueberry Pudding Cake
+
+It's a comfort food dessert that feels fancy but tastes like something your grandmother would make if she wasn't thinking about impressing anyone.
+The blueberries stay whole and tart against the dark chocolate. Works cold the next day — maybe better.
+One bowl for the batter. One saucepan for the sauce. Cleanup isn't nothing, but it's fast.
+Coconut oil keeps it moist without that heavy feeling. The maple syrup gives it something that sugar alone won't.
+
+## What You Need for Chocolate Blueberry Pudding Cake
+
+For the cake itself: all-purpose flour, baking powder, baking soda, salt. Coconut oil — not butter. Not olive oil. The coconut oil matters. Maple syrup instead of sugar. One egg. Milk. And cocoa powder, unsweetened, about a tablespoon and a half.
+
+For the pudding part: more maple syrup, more cocoa powder, cornstarch (keeps it from being too thin), dark chocolate chopped up, water, heavy cream. And the blueberries — fresh or frozen, doesn't matter. Frozen actually works better because they don't bleed color as much.
+
+## How to Make Chocolate Blueberry Pudding Cake
+
+Get your oven to 350 degrees. Middle rack. Grease a square pan — 8 inches. Actually 20 centimeters if you're measuring that way. Place the whole thing on a rimmed baking sheet because the sauce will bubble over and you don't want that on your oven floor.
+
+Mix the dry stuff first. Flour, baking powder, baking soda, salt. Whisk it. Set it down.
+
+In a bigger bowl, beat the coconut oil with maple syrup and cocoa powder until it looks mixed. Add the egg. Stir until you can't see the streaks anymore. Now alternate — some dry mix, some milk, some dry mix, some milk. Don't overthink it. Just until it comes together. You want it textured still, not smooth like pudding.
+
+Pour it into the pan. Spread it flat with the back of a spoon.
+
+## How to Get the Sauce Right on Your Chocolate Blueberry Pudding Cake
+
+This part's important. Off the heat, whisk together the maple syrup, cocoa powder, and cornstarch in a saucepan. It'll be thick and weird looking. That's right.
+
+Stir in the chopped dark chocolate. Gradually add the water — do it slow so it actually incorporates instead of getting lumpy. Add the heavy cream last. Stir until smooth. It should look glossy and thin enough to pour but still have body.
+
+Put the pan on medium heat. Keep stirring. You're going to see it start to steam. Keep going. It needs to come to a boil — actual bubbles, not just steam. Let it bubble for like 15 seconds. Maybe 20. Then pull it off the heat.
+
+Pour this sauce directly over the cake batter. Don't mix it. Just pour. Scatter the blueberries on top. They'll sink a little. That's fine. Some float, some sink. Both work.
+
+## Chocolate Blueberry Pudding Cake Tips and Common Mistakes
+
+The oven temp matters. Too hot and the cake sets before the sauce can do its thing. 350 is right.
+
+Bake for 50 to 55 minutes. The top should feel set when you touch it but not hard. A toothpick in the center tells you everything — it comes out clean or with just a few moist crumbs. If it's totally wet, give it another 3 minutes. If the crumbs are totally dry, you've gone too far, but the cake's still fine.
+
+The blueberries — frozen or fresh. Frozen means they hold their shape better. Fresh means the flavor's a bit brighter. Neither one is wrong.
+
+Let it cool for like 10 minutes before you serve it. You'll get that moment where you spoon into it and the warm pudding oozes out from under the cake. That's the whole point.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Blueberry Pudding Cake
+
+**Can I use regular sugar instead of maple syrup in the pudding cake?**
+Yeah, but it won't be the same. Maple syrup adds this subtle thing that sugar doesn't. You'd need to use a bit less too — maybe three quarters the amount. Try it once with syrup first though.
+
+**Do the blueberries have to go on top, or can I mix them into the batter?**
+Don't do that. Mixing them in means they bleed color into everything and get kind of mushy. On top, they stay whole. They matter more that way.
+
+**How long does this chocolate blueberry dessert keep?**
+Two or three days in the fridge. Covered. The cake gets denser and the pudding gets thicker, which honestly makes it better cold. You can eat it straight from the fridge or warm it up.
+
+**What if my sauce breaks or gets lumpy when I heat it?**
+Pull it off the heat and whisk in a little more cream. Slowly. It usually smooths out. If it doesn't, strain it through a fine mesh. Looks weird but tastes the same.
+
+**Can I use milk chocolate or white chocolate instead of dark?**
+Milk chocolate changes the whole vibe — it gets too sweet. White chocolate doesn't have that cocoa flavor you're counting on. Dark chocolate is what makes it work.
+
+**Does this baked chocolate pudding work with frozen blueberries straight from the freezer?**
+Straight from the freezer, yeah. Don't thaw them first. They'll sink less and hold their shape better. Baking time stays the same.
