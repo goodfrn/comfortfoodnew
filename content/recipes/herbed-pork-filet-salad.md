@@ -1,10 +1,10 @@
 ---
-title: "Herbed Pork Filet Creamy Pasta Salad"
+title: "Pork Pasta Salad with Yogurt & Green Beans"
 slug: "herbed-pork-filet-salad"
-description: "Pork filet marinated with fresh herbs and lemon, roasted to juicy rosé, paired with a creamy yogurt pasta salad studded with green beans, olives, and a fresh herb kick. Substituted mint with basil, feta with ricotta salata. Added toasted pine nuts to salad for crunch and swapped garlic for shallots in marinade to mellow pungency. Revised cooking times slightly, emphasized texture cues, and reordered steps for efficiency. No em dashes, commas and semicolons guide. Balanced cool creamy salad against warm punchy pork; texture and taste layers. Recognize when pork skin just tightens, pasta still a bite away from mush. Always rinse green beans fast in ice water to keep snap; pasta rinse only if salad served cold, else toss warm. A dish to trust if you measure aroma, color, touch."
-metaDescription: "Herbed Pork Filet Creamy Pasta Salad with fresh basil, ricotta salata, pine nuts; juicy pork rosé, crunchy haricots verts, creamy zest-heavy yogurt dressing."
-ogDescription: "Juicy pork seared crust with vibrant herb pasta salad; basil swaps mint, ricotta replaces feta, pine nuts bring crunch. Cook and rest tips packed in."
-focusKeyphrase: "Herbed Pork Filet Pasta Salad"
+description: "Roasted pork filet with lemon and basil pairs with creamy yogurt pasta salad featuring green beans, olives, ricotta salata, and toasted pine nuts for a complete dinner."
+metaDescription: "Pork pasta salad with herb-roasted filet, creamy yogurt dressing, green beans, olives, and pine nuts. Fresh, balanced, and satisfying. Make it tonight."
+ogDescription: "Herb-roasted pork filet meets creamy yogurt pasta salad with green beans, olives, and toasted pine nuts. Fresh basil and lemon throughout."
+focusKeyphrase: "pork pasta salad"
 date: 2025-08-06
 draft: false
 image: herbed-pork-filet-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "summer"
 - "roasted"
 keywords:
-- "pork filet"
-- "pasta salad"
-- "ricotta salata"
+- "pork pasta salad"
+- "roasted pork filet"
+- "creamy pasta salad with pork"
+- "pork filet with yogurt pasta salad"
+- "herb roasted pork"
+- "pork dinner recipe"
+- "yogurt pasta salad"
+- "roasted pork with green beans"
+- "summer pork recipes"
+- "pork loin dinner"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "460"
@@ -91,3 +98,68 @@ faq:
 - "q: Can I swap ingredients? a: Yes. Basil for mint changes herb note; tarragon or chervil possible but strong. Ricotta salata swapped for young pecorino adds salt bite. Kalamata olives substitute with milder Castelvetrano. Pine nuts toasted bring crunch, walnuts or pecans workable but alter taste."
 
 ---
+
+Pork filet goes in the marinade overnight — not negotiable. Shallots, lemon, basil, parsley. No garlic; it burns. While that sits, you've got time to breathe. Then you sear it hard, finish it in the oven, slice thin. The pasta salad happens alongside — bright haricots verts, creamy yogurt dressing, ricotta salata, olives, pine nuts. Warm pork over cold salad. That's the contrast.
+
+## Why You'll Love This Roasted Pork Dinner
+
+Takes 50 minutes total if you're moving, but most of that's oven time and you're not doing anything. Marinate overnight and the pork filet gets tender in ways a quick cook can't do. 
+The salad works cold the next day. Maybe better.
+It's a summer meal that doesn't need a grill — just the oven sitting there doing the work while you set a table.
+Creamy, crisp, warm, cool all in one bowl. Pork gives you the protein hit, pasta and green beans fill you, herbs keep it light.
+
+## What You Need for Herb Roasted Pork Filet with Yogurt Pasta
+
+**For the pork:** 
+Olive oil — 25 ml for the marinade. Pork filet, around 475 grams; size matters less than thickness. Fresh lemon juice, 15 ml. Flat-leaf parsley and fresh basil, both chopped, 15 ml each. Fine sea salt — 3 ml, and this is where flavor lives. Crushed chili flakes. Two small shallots, finely chopped. Not garlic. Shallots are gentler, won't turn bitter.
+
+**For the pasta salad:**
+Haricots verts — the thin green beans, 225 grams, trimmed and cut into 1.5 cm pieces. Small pasta shells, 340 grams. Full-fat plain yogurt, 180 ml; don't cheap this. Ricotta salata, 60 grams, crumbled. Olive oil, 45 ml. Lemon — zest finely grated, 1 lemon, and 30 ml juice. Kalamata olives, 35 grams, pitted and chopped. Flat-leaf parsley and fresh basil, both torn, 45 ml each. One small shallot, diced. Toasted pine nuts, 30 grams.
+
+## How to Make Herb Roasted Pork Filet
+
+Mix the lemon juice, 15 ml olive oil, parsley, basil, salt, chili flakes, and shallots in a bowl. This is your marinade. Toss the pork filet in it, massage it in with your hands so the flavors actually touch the meat. Cover and chill. Six to twelve hours minimum. Overnight is better. Salt tenderizes; the acids and herbs seep in. Don't rush.
+
+When you're ready to cook — preheat the oven to 175C. Line a baking sheet with parchment. Heat a skillet to medium-high until it's just smoking. The oil you saved goes in now. Sear the pork on all sides until the crust darkens, about 7 minutes total. Too low heat and it shrinks. Too high and the outside burns while the inside stays raw. Watch the color. Deep golden means flavor building. This part's tricky but worth it.
+
+Move the filet to the baking sheet. Roast uncovered for 14 to 15 minutes. Use an instant-read thermometer — 57C inside means blush pink, juices running but not bloody. If you don't have a thermometer, cut a thin slice early and peek at the color. Rest the pork tented for 6 minutes; the meat firms as juices redistribute. Slice thin against the grain.
+
+## How to Get Crispy Green Beans and Creamy Yogurt Pasta
+
+Boil salted water. Cook the haricots verts for 3 to 4 minutes until bright and barely tender-crisp. Scoop them out with a slotted spoon and plunge them straight into ice water. This stops the cooking, keeps the vivid color, keeps the snap. Drain thoroughly.
+
+Same water — cook the pasta shells al dente. Firm under your bite, not chalky, not mushy. 8 to 10 minutes depending on size. Drain and rinse briefly in cold water if you're serving the salad cold. If you're eating it soon at room temperature, skip the rinse. The starches help hold the dressing. Always drain well. Watery salad is nobody's goal.
+
+In a large bowl, whisk together the yogurt, 45 ml olive oil, lemon zest, and lemon juice until creamy and shiny. Taste it. Salt and pepper now. Don't under-season. The acid dulls flavors; you need enough salt to balance it. Fold in the ricotta salata — creamy but not as salty as feta, pairs better with basil than mint. Add the olives, basil, parsley, shallot, pine nuts. Stir gently but thoroughly. Let it sit a minute if you have time. Flavors meld.
+
+## Roasted Pork with Green Beans and Olives — Tips and Common Mistakes
+
+Marinate overnight if possible. You can rush it to 3 hours but the flavor and tenderness won't be the same. The pork filet is lean; it dries fast if you overcook it. Use a thermometer. Test by touch if you have to — it should feel firm but with some give, like the fleshy part of your palm under your thumb. If it's hard, it's cooked through and losing juice.
+
+Resting the meat is non-negotiable. Six minutes tented. Juices redistribute through the meat. Skip this and the juice runs all over the plate instead of staying in the meat.
+
+Ricotta salata can be swapped for young pecorino if you want more salt bite. Basil can become tarragon or chervil if basil is gone, but stay away from overpowering herbs. Pine nuts burn fast — toast them lightly in a dry pan until golden and nutty smelling. Watch constantly.
+
+Haricots verts become mushy if you overcook them. 3 to 4 minutes in boiling water. The ice bath stops the cooking dead. Pasta shells need to be al dente; they soften slightly as they sit in the dressing. Drain the pasta completely. A fine-mesh strainer and a good shake. Watery salad means everything tastes watered down.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Pork Filet Pasta Salad
+
+**Can I marinate the pork for less than overnight?**
+Three hours works. But overnight is better. The salt and acid do more work when they have time. Flavor is softer, more distributed. Tenderness is better too.
+
+**What's the best way to tell if the pork is cooked through?**
+Instant-read thermometer, 57C for medium-rare. If you don't have one, cut a thin slice early and look at the juices. Pale pink is your target. Keep cooking if they're still red.
+
+**Can I make this salad ahead?**
+The salad yes — keeps overnight in the fridge. The pork is better warm, so cook it closer to eating. Slice it warm over the cold salad. That's the whole thing.
+
+**What if I don't have ricotta salata?**
+Young pecorino works. Feta works but it's saltier so back off on salt in the dressing. Goat cheese if you want something completely different.
+
+**Why not just use garlic in the marinade?**
+Shallots are milder. Garlic gets sharp and bitter if it sits overnight and then gets seared. Tried it. Not worth it.
+
+**Can I substitute the haricots verts?**
+Asparagus cut into pieces. Trimmed sugar snap peas. Regular green beans if they're all you have — just cook them longer, 5 to 6 minutes. Something needs that bright green crunch though.
