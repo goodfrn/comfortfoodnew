@@ -1,10 +1,10 @@
 ---
-title: "Honey Citrus Lamb Racks"
+title: "Honey Citrus Lamb Racks with Grapefruit"
 slug: "honey-citrus-lamb-racks"
-description: "Lamb racks pan-seared then oven-roasted in a honey-citrus-thyme glaze. Uses grapefruit juice and lemon instead of orange and lime, swapping butter for ghee for nuttier depth. Adjusts quantities for a bolder, more balanced sweet-acid punch. Cooking relies on scent and feel: caramelizing sauce to sticky syrup, lamb faintly springy for juicy medium-rare. Techniques to degrease lamb, save sauce residue, and rest meat explained. Ends with pairing tips. Six servings."
-metaDescription: "Honey Citrus Lamb Racks seared and roasted with grapefruit, lemon, thyme, and honey glaze. Balanced sweet-acid punch, clear fat trimmed, juicy medium-rare finish."
-ogDescription: "Sear lamb racks with honey, thyme, citrus glaze; caramelize sauce to sticky syrup; rest meat for juicy medium-rare. Citrus swaps, ghee for butter adds depth."
-focusKeyphrase: "Honey Citrus Lamb Racks"
+description: "Pan-seared honey citrus lamb racks glazed with grapefruit juice, lemon, and thyme. Roasted to juicy medium-rare using ghee for nuttier depth and sticky caramelized sauce."
+metaDescription: "Honey citrus lamb racks pan-seared then roasted with grapefruit juice, lemon zest, and fresh thyme. Juicy medium-rare with sticky glaze. Make it tonight."
+ogDescription: "Honey citrus lamb racks with grapefruit and lemon glaze. Pan-seared, roasted, and finished with fresh thyme. Serves six."
+focusKeyphrase: "honey citrus lamb racks"
 date: 2025-08-16
 draft: false
 image: honey-citrus-lamb-racks.jpg
@@ -21,9 +21,15 @@ tags:
 - "roasted"
 - "main dish"
 keywords:
-- "seared lamb racks"
-- "honey citrus glaze"
-- "medium rare lamb"
+- "honey citrus lamb racks"
+- "roasted lamb racks"
+- "pan-seared lamb racks with honey glaze"
+- "lamb racks with citrus thyme sauce"
+- "ghee roasted lamb with lemon zest"
+- "roasted lamb with grapefruit and lemon"
+- "herb roasted lamb racks citrus"
+- "lamb main dish"
+- "honey glazed lamb chops"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -69,3 +75,81 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly, fridge up to 3 days max. Sauce separate so meat keeps texture. Reheat gently in oven or pan low heat to avoid rubbery firm meat. Freezing possible but expect some moisture loss. Don’t microwave or harsh heat kills tenderness."
 
 ---
+
+Two lamb racks. One pan. Twenty minutes if you're moving. The citrus does something to the meat that you can't plan for—sweet, sharp, and it sticks.
+
+## Why You'll Love This Roasted Lamb Racks Recipe
+
+Lamb main dish that doesn't need much else. Citrus cuts through the richness without being sour about it. Takes an hour total, forty minutes is just prep. Pan-seared then roasted—you get the crust and the medium-rare in the same meal. The sauce thickens down to this glossy thing that coats everything. Cold tomorrow tastes better than hot today, weirdly. Not a restaurant trick. Just what happens.
+
+## What You Need for Pan-Seared Lamb Racks with Honey Glaze
+
+Two lamb racks—eight ribs each. Ask the butcher to clean the bones. You want them white, not covered in meat scraps. Olive oil and ghee both go in. Olive oil alone burns. Ghee alone doesn't sear the same. Use both.
+
+Lemon zest. Grate it first, set it aside. Don't use the bottled stuff. Three grapefruit. Cut them open and squeeze. Sounds like a lot. It condenses down. Two lemons for juice, save one for zest. Honey. Twenty-five milliliters. Not more.
+
+Garlic—three cloves, minced small. Thyme fresh. Twelve milliliters of actual leaves, not the dried herb. Salt and black pepper. That's it. No stock. No wine. The citrus is the liquid.
+
+## How to Make Roasted Lamb Racks with Citrus Thyme Sauce
+
+Oven goes to 175 degrees Celsius. Middle rack. Start it now.
+
+Trim the fat off the lamb. All of it. Pat it dry—moisture stops the crust. Season lightly with salt. Go easy. You'll add more later.
+
+Heavy skillet. Medium-high heat. Add the olive oil and ghee together. Wait for it to shimmer. Not smoking. Shimmering. That's the difference.
+
+Lamb goes in. Don't move it. Three to four minutes. Flip once. Three to four more minutes. The bottom should be dark. Not black. Dark. Remove it to a plate. It's not done yet. That's intentional.
+
+Lower the heat to medium. Garlic goes in the same pan. Stir. Wait for it to smell like something. Thirty seconds maybe. Not longer—burned garlic is not a flavor you want.
+
+## How to Get Roasted Lamb Racks Crispy Outside and Tender Inside
+
+Citrus zests go in next. Then the grapefruit juice. Lemon juice. Honey. Thyme leaves. Stir it all together and watch it bubble.
+
+You're reducing this sauce. Two-thirds reduction. That means it shrinks down. The liquid becomes thick. It coats the back of a spoon. Glossy. Takes about six minutes. Stir it. Scrape the brown bits off the bottom—that's flavor. Don't skip that part.
+
+Taste the sauce. Add pepper now. Salt if it needs it. Probably doesn't.
+
+Lamb goes back in. Roll it around in the sauce. Every side gets covered. This is glazing. The sauce hugs the meat. Then transfer everything to a shallow roasting pan. Spoon the extra sauce over top.
+
+Into the oven. Twelve minutes. Maybe thirteen. You're aiming for medium-rare. Touch test: press the meat with your finger. It should give a little but still feel firm. Not soft. Not hard. In between. If you have a thermometer, fifty-eight to sixty degrees Celsius. That's the target.
+
+Remove it. Don't skip the resting. Eight minutes minimum under foil. The meat keeps cooking slightly and the juices redistribute. Lamb that doesn't rest is dry lamb. Guaranteed.
+
+## Roasted Lamb Racks Tips and Common Mistakes
+
+Bone temperature reads different than meat temperature. Avoid the bones when you're checking doneness. You want the thickest part between the ribs.
+
+Don't overcrowd the pan when you sear. If your racks don't fit in one layer, work in batches. Crowding steams instead of sears. Bad.
+
+The sauce breaks if you add it too hot to the meat. Actually—add it after you glaze, not before. Less risk. Safer.
+
+Ghee roasted lamb with lemon zest works because ghee has a higher smoke point than butter. You could use regular butter. Tastes different. Might catch fire. Not worth it.
+
+Grapefruit honey glazed lamb does this thing where the sugar in the honey caramelizes but the acid keeps it from being cloying. That balance is the whole point. Can't skip either.
+
+Fresh thyme matters. Dried thyme is dust. Doesn't have the same brightness.
+
+Leftovers. Slice them cold the next day. The sauce sets up. Slice it thin, layer it with soft bread. Works cold for lunch, weird as that sounds.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lamb Racks with Citrus Thyme Sauce
+
+**Can I make the herb roasted lamb racks citrus sauce ahead of time?**
+Yes and no. The sauce keeps fine for a day in the fridge. But make it right before you glaze the lamb. It's thicker than you expect when it's cold. Reheat it over low heat if you need to loosen it.
+
+**What if I don't have grapefruit? Does lemon work alone for roasted lamb with grapefruit and lemon?**
+Lemon is sharper. You'd need more honey to balance it. So maybe add another tablespoon of honey and only use one grapefruit. Changes the flavor but it works. Haven't tried lime. Probably not the move.
+
+**How long does pan-seared lamb racks with honey glaze keep in the fridge?**
+Three days. Slice it cold or reheat it gently in the oven at 120 degrees Celsius for ten minutes. Don't use the microwave. Uneven. Ruins it.
+
+**Can I use lamb chops instead of racks for this ghee roasted lamb with lemon zest recipe?**
+Yes. Chops cook faster. Eight minutes in the oven instead of twelve. Everything else stays the same. Reduce the sauce the same way. Just watch the timing.
+
+**Do I need to trim all the fat like the recipe says?**
+You need to trim most of it. Some fat is fine—it's flavor. But thick caps of fat don't render in twenty minutes. They just sit there. Not appetizing. Trim close to the meat, not aggressively.
+
+**What temperature is medium-rare for lamb racks?**
+Fifty-eight to sixty degrees Celsius at the thickest part. If you like it pinker, go fifty-five. If you like it more cooked, sixty-five. After that it starts to get tough. The meat keeps cooking while it rests, so pull it out when the thermometer hits fifty-eight. It'll climb a few degrees.
