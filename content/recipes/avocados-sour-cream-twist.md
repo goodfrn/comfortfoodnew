@@ -1,9 +1,9 @@
 ---
-title: "Avocado Appetizer with Sour Cream"
+title: "Avocado Appetizer with Greek Yogurt"
 slug: "avocados-sour-cream-twist"
-description: "Fresh avocado appetizer with tangy sour cream, lime, and smoked paprika. Ready in 12 minutes. Light starter that works for any occasion."
-metaDescription: "Avocado appetizer recipe with sour cream and smoked paprika. Quick, fresh, gluten-free starter. Make it tonight."
-ogDescription: "Sliced avocados with creamy sour cream, lime juice, and smoked paprika. A quick appetizer ready in 12 minutes."
+description: "Fresh avocado appetizer with Greek yogurt, orange juice, and smoked paprika. Ready in 12 minutes for an elegant starter."
+metaDescription: "Make this avocado appetizer with Greek yogurt, orange juice, and smoked paprika. Light starter ready in 12 minutes. Try it tonight."
+ogDescription: "Fresh avocado halves topped with Greek yogurt, orange juice, and smoked paprika. Easy 12-minute starter."
 focusKeyphrase: "avocado appetizer"
 date: 2025-07-21
 draft: false
@@ -22,10 +22,15 @@ tags:
 - "citrus"
 keywords:
 - "avocado appetizer"
+- "avocado hors d oeuvres"
+- "avocado starter"
 - "avocado starter recipes"
 - "avocado appetizer recipe"
-- "avocado starter"
+- "avocado crostini"
+- "avocado appetizer ideas"
+- "avocado toast appetizer"
 - "appetizer recipes with avocado"
+- "avocado deviled egg"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "150"
@@ -61,3 +66,71 @@ faq:
 - "q What if I want to add more flavors? a Try garlic powder for kick. Or maybe some fresh herbs. Just be careful with flavor balance. Too intense? Overpowering."
 
 ---
+
+Cut the avocados lengthwise. Pit them. You've got maybe 12 minutes before they start looking sad and oxidized, so move. Greek yogurt mixed with orange juice goes in each half, then paprika on top. Done. Vegetarian, healthy, looks like you tried.
+
+## Why You'll Love This Avocado Appetizer
+
+Takes 12 minutes start to finish — mostly just waiting for flavors to wake up.
+Works as a light starter or a vegetarian side that actually has protein in it because of the yogurt.
+Citrus cuts through the richness instead of making you feel like you ate a brick.
+People think avocado appetizers are fussy. This one isn't. Five ingredients. No cooking.
+Looks intentional on a plate. Tastes like someone knew what they were doing.
+
+## What You Need for This Avocado Starter
+
+Greek yogurt. Not sour cream. Not regular yogurt. The thick kind stays put and doesn't water out.
+
+Orange juice. Fresh. Bottled works but tastes kind of flat. Lemon works too if oranges are gone.
+
+Two avocados. Ripe but not falling apart. If they're still hard, this goes badly. If they're brown inside, you're eating them raw instead.
+
+Smoked paprika. Regular paprika is nothing. Smoked paprika is the whole thing — gives it a kitchen-cooked feel even though you didn't cook anything.
+
+Salt and black pepper. Kosher salt. The coarser grind actually sticks instead of dissolving into nothing.
+
+## How to Make an Avocado Appetizer
+
+Grab a small bowl. Greek yogurt in there — about three teaspoons, which sounds small but looks like enough once it spreads. Pour the orange juice in. Stir it until it's smooth but still thick. Let it sit right there while you do the avocado part. Seven minutes. Not a timer rule, just — give the flavors a chance to actually meet each other. They do.
+
+Cut each avocado in half the long way. The pit comes out easy if you hit it with the knife blade and twist. Once the halves are sitting flat and exposed, season them. Salt, pepper. Not a lot. These are vegetables, not steaks. Just enough so you taste it.
+
+## How to Get the Texture Right on Avocado Hors d'Oeuvres
+
+The yogurt-orange mixture should be pourable but not runny. If it's too thin, the avocado gets slippery and it slides off the plate. If it's too thick, it clumps. You're looking for somewhere between those — the consistency of thick sauce. It clings but moves.
+
+Spoon it over each avocado half. Generous. Not swimming in it, but you want a good layer. The creamy sits in the hollow where the pit was. Perfect spot for it. Dust the paprika on top while the yogurt's still wet so it sticks. Smoked paprika grains are bigger than regular, so they actually add texture — little flecks you can see and taste.
+
+Serve it right now. Avocados wait for nobody. The longer it sits, the faster it oxidizes. You can prep the yogurt mixture five minutes ahead, but the assembled appetizer recipe goes straight to the table.
+
+## Avocado Appetizer Tips and Common Mistakes
+
+The flavor lives in that orange juice. Don't skip it. Don't use lime instead unless you know what you're doing — it gets bitter. Orange juice is sweet and bright and holds everything together.
+
+If your avocados are rock hard, leave them in a paper bag for a day. One day usually does it. If they're already mushy, eat them as is. They won't hold their shape for this.
+
+The paprika goes on last because it looks better when it's sitting on top, visible. It's a garnish and an ingredient at the same time. If you stir it in, it disappears and tastes like nothing.
+
+Want to add shrimp? Smoked salmon? It still works. The avocado hors d'oeuvres just become more of a meal. The yogurt-orange base holds with literally any protein. But on its own, it's a clean vegetarian appetizer that takes seven minutes of actual work.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Avocado Appetizers
+
+**Can I make the yogurt mixture ahead of time?**
+Yeah, up to a few hours. Keep it in the fridge. Stir it again right before you use it because the orange juice separates a bit.
+
+**What if I don't have Greek yogurt?**
+Regular yogurt works but it's thinner — less control. Sour cream's heavier and hides the citrus. Greek yogurt's the sweet spot because it's thick but still creamy.
+
+**Do I have to use orange juice?**
+Lemon works fine. Lime gets too aggressive. Haven't tried grapefruit but probably wouldn't. Stick with citrus that's actually bright.
+
+**How long does this appetizer recipe keep?**
+Eat it now. The avocado oxidizes in maybe 30 minutes even with the yogurt on top. It's not dangerous, just turns brownish and loses that fresh edge. Not worth saving.
+
+**Can I make avocado crostini instead?**
+Toast some bread, rub it with garlic, spread this mixture on top. Technically different, tastes great. Avocado toast appetizer format if you want people to grab it standing up.
+
+**Is this really vegetarian?**
+Yeah. Greek yogurt's it. No meat, no gelatin issue, no weird stuff. Actually has protein too, which most vegetarian starters don't.
