@@ -1,11 +1,11 @@
 ---
-title: "Creamy Chicken Rice Soup Recipe"
-focusKeyphrase: "creamy chicken rice soup"
+title: "Chicken Soup With Wild Rice Recipe"
+focusKeyphrase: "chicken soup with wild rice recipe"
 slug: "creamy-chicken-rice-soup"
-description: "Creamy chicken rice soup with tender chicken, soft vegetables, and rice simmered in broth. Half & half and soy sauce replace cream for balanced flavor. Finish with Parmesan."
-metaDescription: "Make creamy chicken rice soup with seasoned chicken, soffritto, and rice that thickens naturally. Ready in under an hour. Try it tonight."
-ogDescription: "Creamy chicken rice soup loaded with tender chicken, herbs, and a gentle kick. No roux needed—rice does the work."
-focusKeyphrase: "creamy chicken rice soup"
+description: "Creamy chicken soup with tender diced chicken breast, carrots, celery, and rice simmered in savory broth with half & half and fresh herbs for comfort food done right."
+metaDescription: "Chicken soup with wild rice recipe using diced chicken, carrots, celery, and creamy half & half broth. Make it tonight."
+ogDescription: "Creamy chicken and rice soup loaded with tender chicken, fresh vegetables, and aromatic herbs. Comfort in a bowl."
+focusKeyphrase: "chicken soup with wild rice recipe"
 date: 2025-11-21
 draft: false
 image: creamy-chicken-rice-soup.jpg
@@ -22,11 +22,16 @@ tags:
 - "rice"
 - "easy dinner"
 keywords:
+- "chicken soup with wild rice recipe"
 - "creamy chicken rice soup"
-- "cream of chicken and rice soup"
 - "chicken and rice cream soup"
+- "cream of chicken and rice soup"
 - "creamy chicken and rice soup recipe"
-- "cream of chicken rice"
+- "chicken rice cream soup recipe"
+- "homemade chicken rice soup"
+- "easy chicken and rice soup"
+- "chicken vegetable rice soup"
+- "comfort food soup recipe"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"
@@ -82,3 +87,101 @@ faq:
 - "q: Can I substitute half & half? a: Whole milk lighter texture; soup thinner but still creamy. Heavy cream richer, ups fat much. Use based on diet need. Soy sauce still needed for salt and flavor depth. Avoid watery milk-heavy combos or soup feels flat."
 
 ---
+
+Chicken breast goes in a bowl first. Salt, Italian seasoning, mustard powder, paprika, chili flakes—coat it all. Let it sit while you chop everything else. That's the whole prep game. Fifty-five minutes start to finish, and most of that's just simmering while you stand there thinking about dinner.
+
+## Why You'll Love This Chicken and Wild Rice Soup
+
+Comfort in a bowl. Real comfort—the kind that fills you up without being heavy. Leftovers taste better the next day because the rice keeps soaking up all that cream and broth. Takes 55 minutes total but you're not actually doing much after the first 15. One pot. One pot is the whole thing. The kind of soup that works on a weeknight when everyone's tired and nobody wants to think. Tastes like someone spent three hours on it. Didn't.
+
+## What You Need for Creamy Chicken Rice Soup
+
+Chicken breast or thigh meat. A pound and a half, diced. Thighs stay juicier if you're worried about that.
+
+Salt—kosher, a teaspoon to start. You'll add more later. Trust that.
+
+Italian seasoning, mustard powder, paprika, chili flakes. Not a lot of any of them. The chili flakes are optional unless you want it spicy. Most people want it.
+
+Butter. Four tablespoons. Not oil. Butter makes it taste like something.
+
+One large onion, three carrots, three celery stalks. Diced. The vegetables are what make this taste like actual soup and not just chicken in cream. Don't skip them small.
+
+Three garlic cloves, minced. More if you're that person. I am that person.
+
+Thyme and rosemary. Dried. Crushed rosemary if you've got it—the leaf stuff is too much.
+
+All-purpose flour. Three tablespoons. The roux. It thickens everything without making it weird.
+
+Chicken broth. Seven cups. Low sodium works better because you control the salt from there.
+
+Half and half. Two cups. Whole milk if you want it lighter. The difference isn't huge.
+
+Soy sauce and hot sauce. A tablespoon and a teaspoon. The soy sauce is doing the heavy lifting here—adds salt and depth you can't get another way.
+
+Rice. A cup and a quarter. Medium-grain. Arborio or jasmine. Rinsed first or it gets gummy.
+
+Parmesan, parsley, black pepper. For the top.
+
+## How to Make Cream of Chicken and Wild Rice Soup
+
+Start with the chicken in a bowl. Toss it with salt, Italian seasoning, mustard powder, paprika, chili flakes. Mix it until everything's coated. Set it down. This isn't urgent.
+
+Get your pot hot. Medium heat. Heavy pot—Dutch oven if you've got one. Melt the butter. Wait for it to foam. That foamy stage is when it smells best. Don't let it brown.
+
+Onion, carrots, celery go in. Pinch of salt. Stir it sometimes but not constantly. You want the vegetables to soften and the onion to turn clear. Seven to eight minutes. You'll see them start to sweat. That's what you're looking for. Not color—just soft and glistening.
+
+Garlic next. Stir it in. Thirty seconds, maybe forty. The second you smell garlic sharp in the air, you're done. Any longer and it tastes burnt. Bitter. Not worth it.
+
+The chicken. Spread it out. Don't crowd it. Let the edges brown a little. Stir sometimes. It needs to go from pink to opaque all the way through. Six to eight minutes probably. Thyme and rosemary scattered over at the end.
+
+Flour goes on everything. Stir fast. You're coating the chicken and vegetables and mixing it into the fats. This keeps lumps from happening when the liquid goes in.
+
+Pour the broth in slow. Stir the whole time. Break down anything that clumped. Then the half and half. Soy sauce. Hot sauce. This is where it stops being chicken and vegetables and starts being actual soup.
+
+## Simmering the Creamy Chicken Rice Soup
+
+Rice goes in now. Rinsed already. Stir it.
+
+Bring it up to a boil. Medium-high. Bubbles rising steady from the bottom. Then drop it down. Simmer. Low heat. The bubbles barely breaking the surface.
+
+Stir it often. Every couple minutes. The rice wants to settle on the bottom and stick. You don't want that. Twenty to twenty-five minutes if it's regular rice. Maybe longer if you used brown rice or something different. Watch it. The liquid reduces. The soup gets thicker. It turns luscious—that's the word. It turns luscious.
+
+If it gets too thick before the rice is done, add more broth. Or water. Just add something. The rice will keep soaking up liquid even after you're done cooking.
+
+Taste it before serving. Salt. Pepper. Hot sauce. Fix what needs fixing.
+
+## Tips and Common Mistakes With Cream of Chicken Rice Soup
+
+The flour is non-negotiable for the thickening. Don't skip it thinking you'll add cream and it'll be thick anyway. It won't. The flour does the work.
+
+Rinsed rice matters. Unrinsed rice turns to paste. Rinse it.
+
+Don't crowd the chicken when it's browning. Even if you want to rush, don't. Let the edges get a little color. It tastes better.
+
+Leftovers thicken up. The rice keeps absorbing liquid overnight. When you reheat, add broth or water. The soup gets better the second day but it needs liquid to stay pourable.
+
+Half and half versus whole milk—it's not a huge difference. Half and half is richer. Milk is lighter. Both work. Use what you've got.
+
+Hot sauce at the end. Not at the beginning. Tastes fresher that way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Creamy Chicken and Rice Soup Recipe
+
+**Can I use brown rice or wild rice instead?**
+Wild rice takes longer. Like 40 minutes maybe. It's grainier than arborio. Still works. Brown rice same thing—longer cook time. If you want wild rice specifically, that's what the recipe wants. Go for it. Just watch the pot.
+
+**What if the soup is too thick?**
+Add broth. Or water. Just add it. Stir. Takes a minute. The rice never stops drinking liquid.
+
+**How long does it keep?**
+Three days in the fridge easy. Four if you're careful. Reheat on the stove, not the microwave. Add broth when you do. The texture comes back.
+
+**Can I use chicken thighs?**
+Better idea than breast actually. More forgiving. They don't dry out. Same amount. Same cooking time basically.
+
+**Is there a substitute for the half and half?**
+Whole milk works. Cream if you want it richer. Even Greek yogurt if you stir it in at the very end after the pot's off heat. Don't boil it or it breaks.
+
+**Does the hot sauce stay visible or blend in?**
+Blends in. It's not about heat really—it's about depth. But you can add more at the table if someone wants actual spice.
