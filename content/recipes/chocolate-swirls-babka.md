@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Swirl Babka"
+title: "Chocolate Swirl Babka with Espresso"
 slug: "chocolate-swirls-babka"
-description: "A tender brioche dough braided with a luscious dark chocolate filling, enriched with unsalted butter and a hint of espresso. Yeast-risen, soft, and aromatic; chocolate mixed deep, dotted with dark chocolate chunks. Uses bread flour for stronger gluten, olive oil swaps for butter in filling, adding earthy notes. Twisted shape, golden glaze—egg wash with a splash of vanilla extract. Proofing varies with room warmth; stretch dough gently to preserve air bubbles. Baked until crust crackles when tapped, crumb moist and elastic. A treat for slow mornings, pairs with strong coffee. Expect subtle bitterness from cocoa balanced by sweetness and silky mouthfeel. Hands-on, not fussy. "
-metaDescription: "Chocolate Swirl Babka braided with brioche dough, dark chocolate filling rich with espresso hints, olive oil replaces butter in the filling, golden egg wash glaze"
-ogDescription: "Babka braided soft brioche with rich dark chocolate, espresso powder, olive oil filling, topped with vanilla egg wash. Crust crackles, crumb moist, aromatic treat"
-focusKeyphrase: "Chocolate Swirl Babka"
+description: "Chocolate swirl babka braided with dark chocolate, cocoa powder, and espresso. Made with bread flour, Greek yogurt, and unsalted butter for a tender, aromatic brioche loaf."
+metaDescription: "Chocolate swirl babka recipe with dark chocolate, Dutch-process cocoa, and espresso. Tender brioche dough enriched with Greek yogurt and butter. Make it tonight."
+ogDescription: "Tender chocolate babka braided with dark chocolate chunks, cocoa powder, and espresso. Greek yogurt brioche dough baked golden."
+focusKeyphrase: "chocolate swirl babka"
 date: 2025-08-16
 draft: false
 image: chocolate-swirls-babka.jpg
@@ -21,9 +21,16 @@ tags:
 - "homemade"
 - "dessert"
 keywords:
-- "babka"
-- "chocolate swirl"
-- "braided bread"
+- "chocolate swirl babka"
+- "chocolate babka"
+- "brioche bread"
+- "chocolate brioche recipe"
+- "dark chocolate babka with espresso"
+- "braided chocolate babka bread"
+- "greek yogurt brioche dough"
+- "homemade chocolate bread"
+- "cocoa powder chocolate bread"
+- "espresso chocolate babka"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
@@ -86,3 +93,102 @@ faq:
 - "q: Best way to store leftover babka? a: Wrap in linen or paper towel inside sealed container. Avoid plastic wrap long term or crust soggy. Refrigerate not ideal—dries crumb. Freeze sliced wrapped airtight if weeks. Reheat gently, short bursts, avoid overheating or crumb crush."
 
 ---
+
+Warm almond milk, measure it careful—38°C exactly, not hotter. Yeast dies if you rush. Mix flour and salt, make a well in the center like you mean it. Pour the milk over, sprinkle sugar and yeast on top, then wait five minutes. Watch the bubbles form. That's yeast waking up.
+
+## Why You'll Love This Chocolate Brioche Recipe
+
+Takes an hour and fifteen minutes total and feels way fancier than it is.
+Homemade chocolate bread that tastes like you spent all day on it. The dark chocolate swirls — actual visible layers inside — that's the braided chocolate babka technique working.
+No store-bought rivals this. Seriously.
+Soft inside. Buttery. Chocolate in every bite because you built it that way, not sprinkled it on top.
+Reheats better than it first came out. Warm it slightly the next morning and it's somehow softer, richer. Keep it wrapped.
+
+## What You Need for Homemade Chocolate Brioche
+
+Bread flour. Two and a quarter cups. Not all-purpose — the protein matters here.
+Fine sea salt. Just a quarter teaspoon. Doesn't sound like much.
+Almond milk, warmed. A little over half a cup. Cold milk won't activate the yeast properly.
+Superfine sugar. About a tablespoon and two-thirds. Feeds the yeast, doesn't overpower.
+Rapid-rise yeast. One and a quarter teaspoons. The kind that works fast.
+Two eggs plus one yolk. Room temperature works best. The yolk makes it richer than brioche usually is.
+High-fat Greek yogurt. A little over half a cup. Sounds weird. Adds tang, keeps the crumb tender.
+Unsalted butter. A quarter cup softened. Cut into pieces, add it gradually.
+
+For the chocolate layer — olive oil, unsweetened Dutch-process cocoa powder, brown rice syrup instead of corn syrup because it stays softer, chopped dark chocolate (seventy percent cacao minimum), and optional espresso powder if you want depth that nobody can identify but everyone tastes.
+
+Egg wash is just one egg, a splash of milk, vanilla. Brush it on before baking.
+
+## How to Make Chocolate Swirl Brioche Loaf
+
+The dough goes into the stand mixer. Flour and salt first, dry together. Make a well in the center — not just a suggestion, actually press a hole in there with your fingers. Pour warm milk into the well, sprinkle the sugar and yeast over the milk, then stop. Wait five minutes. Bubbles will form. That's the yeast doing what it should.
+
+Add the eggs, the egg yolk, the Greek yogurt. Paddle attachment on low speed, mix for two minutes until it's shaggy and there's no real structure yet, just wet flour clinging to itself. Switch to the dough hook. Medium speed, five to six minutes. The dough will go from rough to smooth. Add the butter pieces gradually — not all at once, piece by piece — and keep kneading until it feels silky. Slightly sticky but it pulls clean from the bowl when you're done. That's the feeling you want.
+
+Transfer it to an oiled bowl. Cover tight with plastic wrap. Find warmth. Near the oven if it's off. Wrap it in a kitchen towel. Proof until doubled. Takes roughly one hour and ten minutes depending on your kitchen temperature and how fresh the yeast is.
+
+## How to Get Dark Chocolate Babka with Perfect Swirls
+
+Make the chocolate filling while the dough rises. Olive oil, cocoa powder, brown rice syrup, espresso powder — mix until it's a smooth paste. No lumps. Set it aside.
+
+Turn the dough onto a floured surface. Roll it into a rectangle — fifty centimeters by twenty-two centimeters, about a quarter inch thick. You'll see the contrast immediately. White dough, about to disappear under dark chocolate.
+
+Spread the chocolate mixture evenly. Edge to edge. No missing spots means every bite has chocolate. Scatter chopped dark chocolate over the cocoa layer. Creates texture pockets. Creates something to bite into.
+
+Roll lengthwise. Gently but firmly. This is where people squeeze the air out and ruin it. Don't. You want layers intact.
+
+Cut the roll down the middle lengthwise. You'll see the swirls inside — that's the payoff. Twist the two strands delicately around each other, wrap the ends under. You get a rope with visible chocolate running through it. The braided chocolate babka shape. That's what people see when it comes out of the oven.
+
+Grease the loaf pan well. Fit the twisted dough inside snugly. Cover loosely with plastic. Proof for twenty-five to thirty-five minutes. The dough should rise about three centimeters over the rim. Not much more or it collapses. Not less or the crumb stays tight.
+
+Preheat to 175°C (350°F). Mix egg, milk, vanilla for the wash. Brush gently over the loaf's surface, into the corners. Don't wipe off what you just did.
+
+Middle rack. Bake thirty-five to forty minutes. Look for a deep golden crust. Small surface fissures will crackle slightly. If you have a thermometer, internal temp around 91°C (195°F). If browning too fast, tent loosely with foil the last ten minutes.
+
+Cool fifteen minutes in the pan. Then transfer to a wire rack. The warm dough feels soft with a slight spring back. Cocoa aroma mixed with butter underneath. That's how you know it worked.
+
+Slice only once it's fully cool or the residual steam inside squashes the crumb structure. Defeats the whole point.
+
+## Tips for Chocolate Brioche Bread and What Goes Wrong
+
+Don't let the milk get hot. Kills yeast. Forty degrees Celsius. Use a thermometer if you have one.
+
+The Greek yogurt throws people off but it's not a mistake. Adds structure without toughening. Adds tang that dark chocolate needs.
+
+Rolling too thin means you don't get those layers you spent time building. Roll to about a quarter inch. Measure it against your pinky if you don't have a ruler.
+
+If the chocolate filling seems thick, it's supposed to. Paste, not liquid. Lumps in the cocoa mean you didn't mix enough.
+
+The twist is delicate. You're not wrapping a present. Just let the two strands spiral around each other. The swirls visible inside matter more than neat braiding on the outside.
+
+Proofing is the hardest part because there's no exact time. Fifty-five minutes in summer. Ninety minutes in winter. Look at the dough. Three centimeters over the rim is the target. If you wait until it reaches the oven rack, it'll collapse when heat hits it.
+
+Store wrapped in linen cloth, not plastic. Plastic traps steam and makes it soggy. Linen lets it breathe. Keeps moist for three days. Reheat slightly — thirty seconds in a warm oven — to revive the softness.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Swirl Babka Bread
+
+**Can I use all-purpose flour instead of bread flour?**
+Not really. All-purpose doesn't have enough protein to hold the butter and build the layers right. Bread flour matters here.
+
+**What if my yeast doesn't activate in those first five minutes?**
+Toss it and start over. Dead yeast means no rise. Bubbles should form fast.
+
+**Do I have to use Greek yogurt?**
+Probably shouldn't skip it. Adds a flavor and texture you can't get from just eggs and butter. Sour cream works in a pinch but it's thinner — add maybe a tablespoon less almond milk if you swap.
+
+**Can I make this dough ahead?**
+Yes. Proof it halfway, then refrigerate overnight. Finish proofing the next morning at room temp, about forty minutes. Cold dough rises slower. That's fine.
+
+**What's the espresso powder actually doing?**
+Makes the chocolate taste like more chocolate. You won't taste coffee. Just deepness. Optional but honestly, do it.
+
+**How do I know when it's fully baked?**
+Color is golden, almost dark. Crust cracks slightly. If you have a thermometer, ninety-one Celsius internal. If not, gently tap the bottom — it should sound hollow. Takes about forty minutes usually.
+
+**Why can't I slice it warm?**
+Steam inside. Squashes everything. Wait until fully cool or you end up with cake texture instead of that soft brioche crumb.
+
+**How long does this keep?**
+Three days wrapped in linen. After that it dries out. Can freeze it for a month, thaw at room temp, reheat gently.
