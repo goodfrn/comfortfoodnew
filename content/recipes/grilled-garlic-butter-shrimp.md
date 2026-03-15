@@ -1,10 +1,10 @@
 ---
-title: "Grilled Garlic Butter Shrimp"
+title: "Grilled Garlic Butter Shrimp with Herb Butter"
 slug: "grilled-garlic-butter-shrimp"
-description: "Shrimp skewered and grilled with a punchy garlic herb butter. Hasselback-style baguette slathered in spiced garlic butter then charred on the grill. Zesty charred lemon for squeezing. Classic seafood meets smoky, buttery carbs. Simple, quick, bold flavors with herbaceous freshness and heat from cayenne. Ideal for outdoor cooking and those who love garlicky richness balanced by fresh lemon."
-metaDescription: "Grilled Garlic Butter Shrimp with smoky paprika, fresh herbs, charred lemon, and Hasselback baguette slathered in spiced garlic butter. Quick, bold seafood dish."
-ogDescription: "Bold shrimp grilled fast, brushed with herbed garlic butter, smoky paprika kick, charred lemon juice drizzle, and crusty Hasselback baguette on the side."
-focusKeyphrase: "Grilled Garlic Butter Shrimp"
+description: "Grilled garlic butter shrimp skewered and charred with herb-infused butter, parsley, and chives. Served with a hasselback baguette and lemon. Quick seafood dinner."
+metaDescription: "Grilled garlic butter shrimp with fresh parsley, chives, and smoked paprika. Charred baguette and lemon included. Make it tonight."
+ogDescription: "Garlic butter shrimp with herb infusion, smoked paprika, and charred lemon. Simple grilled seafood that's bold and fresh."
+focusKeyphrase: "grilled garlic butter shrimp"
 date: 2025-09-28
 draft: false
 image: grilled-garlic-butter-shrimp.jpg
@@ -21,9 +21,18 @@ tags:
 - "summer"
 - "easy dinner"
 keywords:
-- "grilled shrimp"
+- "grilled garlic butter shrimp"
 - "garlic butter shrimp"
-- "seafood grill recipe"
+- "grilled shrimp skewers"
+- "grilled shrimp"
+- "seafood grilling"
+- "easy shrimp dinner"
+- "summer grilled shrimp"
+- "herb butter shrimp"
+- "charred lemon shrimp"
+- "garlic herb butter"
+- "smoked paprika shrimp"
+- "grilled seafood recipe"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "320"
@@ -79,3 +88,71 @@ faq:
 - "q: How to store leftovers? a: Garlic butter freezes well, might separate but melts fine when reheated. Shrimp best next day, refrigerate quick. Reheat low and slow or brief pan warm. Bread loses crisp, toast again or eat as is. Leftover butter great on veggies or pasta. Freeze in ice cube trays portioned."
 
 ---
+
+Grill's still hot from yesterday. Shrimp goes on for maybe two minutes per side. Garlic butter melts into the meat while it's screaming on the grates. This is what summer tastes like.
+
+## Why You'll Love Grilled Garlic Butter Shrimp
+
+Takes 26 minutes total—15 minute prep, 11 on the grill. Seriously.
+Tastes like you spent hours planning dinner when you didn't. Just melted garlic butter and heat.
+The charred lemon actually changes everything. Not just acid. The grill caramelizes the sugars and you get depth.
+Works as an appetizer, a side, a whole meal depending on how hungry people are.
+Cleanup's fast. One skewer, one pan for the butter, one plate. Done.
+Summer energy without the fuss. Grilled shrimp should be this simple and taste this good.
+
+## What You Need for Grilled Garlic Butter Shrimp
+
+Unsalted butter. Seven tablespoons. Cold to soft, not room temperature—easier to brush and doesn't separate. Two garlic cloves minced fine. Parsley and chives, chopped. Fresh matters. Smoked paprika instead of cayenne. Less heat, more flavor. Salt and pepper, obviously.
+
+A pound of large shrimp, 16 to 20 count. Peeled, deveined, tails on. Tails matter—you grab them, dip in butter, eat. That's the whole point. Olive oil for the grates and a light coat on the shrimp. Half a baguette. Crusty, day-old is better. One lemon, halved.
+
+## How to Make Grilled Garlic Butter Shrimp
+
+Heat the grill to high. Not medium. High. While it comes up, make the butter. Melt it slow in a small pot—medium heat, watch the garlic. It sizzles and softens. That smell pops out and tells you it's done. Fast. Pull it off the heat the second the aroma hits because garlic turns bitter in like five seconds once it browns. Stir in the parsley, chives, smoked paprika, salt, pepper. Set it aside.
+
+Oil the grates. Seriously oil them. Shrimp sticks if you don't. Pat the shrimp dry, coat light with olive oil, salt and pepper both sides. If you want to thread them on skewers, do it. Easier to flip. But direct grill works fine too—just watch them closer.
+
+The bread goes first. Cut the baguette into thick slices but not all the way through. Like a Hasselback potato. Brush it heavy with garlic butter. Wrap it in foil, throw it on the grill for four to six minutes. The inside softens, the outside gets this crispy edge. Keep it warm wrapped in a towel off to the side.
+
+Lemon halves go cut side down. Two to three minutes. They char. The sugars caramelize. This is not optional. Sounds weird but a squeeze of grilled lemon over shrimp hits different.
+
+## How to Get Grilled Shrimp with Perfect Char and Tenderness
+
+Shrimp on the grates now. One and a half to two minutes per side. Watch the edges—they curl up and turn pink first. That's the sign. Slight char on the outside, firm and opaque inside. Don't wait for the whole thing to turn pink or they get rubbery. You'll know. It takes maybe ten times before you trust your eyes instead of the clock. Pull them off.
+
+Brush each shrimp with the leftover garlic butter while they're still hot. It melts into the meat. Squeeze the grilled lemon over everything. Serve it all on a warm plate. Bread alongside. Lemon halves on the side because you might want to squeeze again.
+
+## Grilled Shrimp Tips and Common Mistakes
+
+Don't melt the garlic too long. Bitterness is real and it ruins everything. Soft and fragrant—that's the window. Half a second too long and you're starting over.
+
+Butter mixed with herbs releases aroma better but again, don't let garlic cook past soft. Swap paprika for cayenne because smoked paprika matches the grill flavor better. Less heat, more smoke. Works.
+
+No grill? Cast iron on the stove gets hot enough. High heat. Shrimp sears in about two minutes per side. Brush butter constantly so it doesn't dry out. Bread goes under the broiler loosely wrapped in foil. Gets crispy, doesn't burn.
+
+Try cilantro instead of parsley. Or basil. Lime instead of lemon if you want something more tropical. Shrimp shells and scraps make quick stock if you save them. Soup base or risotto. Waste nothing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Garlic Butter Shrimp
+
+**Can you make this without a grill?**
+Yes. Cast iron on high heat. Two minutes per side, brush butter constantly. Bread under the broiler. Works fine.
+
+**Should you use skewers?**
+Easier to flip. But also overkill if you're paying attention. Direct grilling works if you watch them. Metal skewers matter more than wood—wood catches fire and doesn't heat evenly.
+
+**What size shrimp works best?**
+16 to 20 per pound. Big enough they don't fall through the grates. Smaller and they cook too fast and dry out. Larger takes longer and can be tougher.
+
+**How do you know when they're done?**
+Pink edges, slight curl, firm to touch. One and a half to two minutes per side. Overcooked shrimp is rubbery. Undercooked is slimy. There's like a ten-second window once you see the curl start.
+
+**Can you prep this ahead?**
+Make the garlic butter an hour or two ahead. Keep it covered. Shrimp should stay cold until you grill. Bread can be sliced and wrapped an hour before, buttered just before grilling.
+
+**What if the garlic butter burns?**
+Start over. It only takes five minutes to melt butter and stir in herbs. Burnt tastes like burnt. Not worth salvaging.
+
+**Does smoked paprika really matter or can you skip it?**
+Matters. It adds flavor that matches the grill. Cayenne is just heat and heat's aggressive. Smoked paprika layers with the char. Not the same thing without it.
