@@ -252,7 +252,8 @@ State the moment. Don't narrate it.
 You receive UNUSED keywords (not yet in title/description/meta) AND tags for this recipe.
 
 Keywords:
-- Primary keyword: in the intro once, naturally.
+- Primary keyword: use it MINIMUM 3 times naturally in the body — once in the intro, once in a H2, once in the body text or FAQ.
+- Not 3 times in a row. Spread across the whole piece.
 - Other keywords: spread across section titles, body paragraphs, and FAQ.
 - Section titles should USE keywords when they fit as a real heading.
 - Aim for 80%+ keyword coverage — use as many as possible without stuffing.
