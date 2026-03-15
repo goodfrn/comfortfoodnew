@@ -1,10 +1,10 @@
 ---
-title: "Carrot Tahini Broccoli Soup"
+title: "Creamy Carrot Soup with Tahini Sauce"
 slug: "carrot-tahini-broccoli-soup"
-description: "A creamy carrot soup with tahini sauce and tender broccoli florets. Uses vegetable broth and parsnip instead of potato for a twist. Roasting carrots intensifies flavor. Lightly toasted pumpkin seeds replace sesame seeds for crunch. A hint of smoked paprika replaces cumin, adding warmth. Tahini sauce sweetened with maple syrup. Blending soup in batches recommended. Garnish with steamed broccoli and drizzle of tahini sauce. Practical substitutions and timing tips included."
-metaDescription: "Carrot Tahini Broccoli Soup with roasted carrots, smoked paprika, and maple-sweetened tahini sauce. Blanched broccoli and toasted pumpkin seeds for texture and bite."
-ogDescription: "Roasted carrot soup with smoky paprika, tahini-maple drizzle, and broccoli crunch. Hearty, layered flavors and rich textures; warming, grounded, balanced bowl."
-focusKeyphrase: "Carrot Tahini Broccoli Soup"
+description: "Creamy carrot soup made with roasted carrots, parsnip, and vegetable broth. Topped with broccoli and tahini sauce drizzle for rich, satisfying flavor."
+metaDescription: "Creamy carrot soup recipe with tahini sauce, roasted carrots, parsnip, and broccoli florets. Gluten-free and vegetarian. Make it tonight."
+ogDescription: "Roasted carrot soup with tahini sauce, broccoli, and pumpkin seeds. Creamy, warming, and naturally gluten-free."
+focusKeyphrase: "creamy carrot soup with tahini sauce"
 date: 2025-08-07
 draft: false
 image: carrot-tahini-broccoli-soup.jpg
@@ -21,9 +21,16 @@ tags:
 - "roasted"
 - "gluten free"
 keywords:
-- "carrot soup"
-- "tahini sauce"
-- "broccoli soup"
+- "creamy carrot soup with tahini sauce"
+- "carrot soup with tahini"
+- "roasted carrot and parsnip soup"
+- "vegetable soup with tahini"
+- "tahini broccoli soup"
+- "gluten free vegetable soup"
+- "vegetarian carrot soup"
+- "smoked paprika carrot soup"
+- "pumpkin seed soup"
+- "roasted vegetable soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "140"
@@ -74,3 +81,100 @@ faq:
 - "q: How to store leftovers? a: Fridge in airtight container 3-4 days. Sauce thickens cold, stir before serving. Soup freezes well; use freezer-safe container. Thaw slow in fridge or warm gently on stovetop; reheat gently, avoid rapid boiling."
 
 ---
+
+Three pounds of carrots. One parsnip. A bowl of tahini and suddenly it's not just soup anymore.
+
+## Why You'll Love This Vegetable Soup
+
+Takes just over an hour start to finish. Gluten free, vegetarian—works for basically anyone showing up hungry.
+
+The tahini sauce. Sounds fancy. It's not. Four ingredients, one bowl, tastes like it took effort.
+
+Broccoli stays bright. Pumpkin seeds add crunch. Everything else is soft and easy to eat.
+
+Roasting the vegetables first means actual depth. Not that thin, watery soup taste. This one sits on your tongue.
+
+Tastes better cold the next day. Probably.
+
+## What You Need for Carrot Tahini Soup
+
+Carrots. A lot. They're the whole thing here—peel and slice them, not too thin or they disappear into the broth.
+
+One parsnip. Adds sweetness without being obvious about it. Skip it if you don't have it. Works fine either way.
+
+Vegetable broth. Six cups. That's the base. Store-bought is normal. Hot water and bouillon cubes work too.
+
+Olive oil. Two tablespoons. For the pan before everything else goes in.
+
+One onion. Large. Chop it rough. Size doesn't matter much as long as it's not in huge chunks.
+
+Smoked paprika. Half a teaspoon. This is the spice moment. Regular paprika tastes like nothing. Don't bother.
+
+Broccoli florets. Blanched and chopped. One cup. Or measure it loose—doesn't have to be exact.
+
+Toasted pumpkin seeds. A tablespoon scattered on top. Buy them already toasted. Raw ones taste like sadness.
+
+For the tahini sauce: tahini (creamy sesame paste), water, maple syrup, lemon juice. That's it. Tahini is weird—thin it out with water or it's wallpaper paste.
+
+Salt and black pepper. Season at the end, not the beginning.
+
+## How to Make Vegetable Soup
+
+Start with the tahini sauce. Mix everything in a small bowl—water, tahini, maple syrup, lemon juice. Stir until it looks smooth and pourable. Not thick. Not runny. Somewhere between. Set it aside. You're done with that part.
+
+Heat the olive oil in a big pot over medium-high. Not smoking hot. Just hot. Throw the onion in and stir. Keep moving it around. Three to five minutes, it goes translucent. Maybe a bit golden. That's when the sweet smell starts. Don't stop cooking yet—that smell means it's actually sweetening, not just sitting there. Another minute or two. The color shifts. That's caramelization starting. Stop before it turns brown. Brown is burned.
+
+Add the carrots and parsnip. Stir them around in the oil and onion bits. This is where you can choose: roast them in the pan for five minutes to get them more flavorful, or skip straight to adding the broth. Five minutes makes a difference. Really does. But you can go either way.
+
+Pour in six cups of vegetable broth. Sprinkle the smoked paprika over the top. Salt it. Not too much—you can always add more. Pepper it. Just a crack.
+
+Bring it to a boil. Actually boil. Then lower the heat and cover it. Simmer for 35 to 40 minutes. The vegetables need to be soft all the way through. Poke one with a fork. Should give instantly. Not mushy. Not firm. Soft.
+
+## How to Get Vegetable Soup Creamy and Silky
+
+Pull the pot off the heat. Let it sit for maybe a minute. Not essential. Just less splashy.
+
+Blend it. If you have an immersion blender, use that. Stick it in the pot. Hold the handle and don't let it touch the bottom—it'll splatter. Go slow at first, faster after. You're aiming for silky. Smooth. But a few tiny vegetable bits are okay. They look rustic. Actually look good.
+
+No immersion blender? Transfer it to a countertop blender in batches. Don't fill it halfway. Fill it a third of the way max or the lid comes off and hot soup goes everywhere. That's not fun. Happened once. Won't happen again but I'm careful now.
+
+Stir in half of the blanched broccoli. Just enough to warm it up. Keep the other half for garnish because brightness on the surface matters. The soup is orange. Green on top looks better.
+
+## Roasted Vegetable Soup Tips and Common Mistakes
+
+Don't skip the paprika. Regular paprika tastes like you used nothing. Smoked paprika is what makes this taste like actual food.
+
+The tahini sauce can break if it's hot when you add it. Make it cold. Add it cold. Or drizzle it on after everything's in the bowl. Safer that way.
+
+Tahini separates. Oil on top, paste on bottom. That's normal. Just stir it before using.
+
+Broccoli gets mushy fast in soup. Blanch it first—boil it for two minutes, ice bath, done. That way it stays bright green and crunchy instead of turning into mush.
+
+Pumpkin seeds sink to the bottom. Toast them first, they stay crispy longer. Also they taste like something instead of nothing.
+
+The soup thickens as it sits. Add water or broth if you want it thinner later. No big deal.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tahini Vegetable Soup
+
+**Can I make this gluten free vegetable soup ahead of time?**
+Yeah. Make it, let it cool, stick it in the fridge. Four days easy. Freeze it too. Just leave the tahini sauce for the end—drizzle it fresh when you reheat.
+
+**What's the difference between this and regular carrot soup?**
+The tahini. And the roasting step. Both make it taste less like you dumped a can into water. The paprika helps. But the tahini—that's where the richness comes from. It's creamier without cream.
+
+**Do I have to blanch the broccoli?**
+No. It'll just turn gray and soft. Still tastes fine. Looks worse though.
+
+**Can I use frozen vegetables instead?**
+Carrots, yeah. Thaw them first or cooking time gets weird. Broccoli frozen works but I'd skip blanching it then. Parsnips are harder to find frozen. Regular grocery stores don't carry them.
+
+**Why does my tahini sauce break?**
+Hot soup hitting cold tahini, or old tahini that's separated too much. Cold sauce, hot soup. Drizzle it on after. That's the safe move.
+
+**How much sodium is in this vegetable soup?**
+Depends on your broth. Most broths are salty. Taste it before adding salt. You probably don't need the full amount.
+
+**Can I make carrot tahini soup with different vegetables?**
+Parsnip could be sweet potato. Broccoli could be spinach or kale. Works. The core of it—carrots, broth, tahini—that's the actual recipe. Everything else is flexible.
