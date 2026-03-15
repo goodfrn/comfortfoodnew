@@ -1,10 +1,10 @@
 ---
-title: "Homemade Cauliflower Crust Pizza Recipe"
+title: "Homemade Cauliflower Pizza Crust Recipe"
 slug: "cauliflower-crust-pizza"
-description: "Make crispy homemade cauliflower crust pizza at home. Roast cauliflower first to eliminate moisture, swap flour for lighter alternatives, top with fresh herbs and sun-dried tomatoes. Avoid soggy crust."
-metaDescription: "Homemade cauliflower crust pizza that stays crispy. Roast first, use lighter flour, fresh thyme, smoked paprika. Skip the sogginess. Try it tonight."
-ogDescription: "Crispy homemade cauliflower pizza crust that actually works. Roast the cauliflower, lighter flour, real flavor. No soggy bottoms."
-focusKeyphrase: "homemade cauliflower pizza crust"
+description: "Make crispy cauliflower pizza at home with almond flour, provolone, mozzarella, and sun-dried tomatoes. Roast cauliflower to eliminate moisture for a perfect crust."
+metaDescription: "Homemade cauliflower pizza crust recipe with almond flour, provolone cheese, and fresh spinach toppings. Try it tonight."
+ogDescription: "Crispy homemade cauliflower pizza with almond flour crust, mozzarella, and sun-dried tomatoes. No soggy base."
+focusKeyphrase: "cauliflower pizza near me"
 date: 2025-08-17
 draft: false
 image: cauliflower-crust-pizza.jpg
@@ -21,16 +21,18 @@ tags:
 - "cauliflower"
 - "homemade"
 keywords:
+- "cauliflower pizza near me"
+- "cauliflower crust pizza near me"
 - "homemade cauliflower pizza crust"
+- "gluten free cauliflower pizza crust"
 - "cauliflower crust pizza"
 - "easy cauliflower pizza crust"
 - "cauliflower pizza crust recipe"
-- "gluten free cauliflower crust pizza"
-- "cauliflower rice pizza crust"
-- "crispy cauliflower crust"
 - "cauliflower pizza crust ingredients"
-- "pizza crust from cauliflower rice"
-- "frozen cauliflower crust"
+- "cauliflower rice pizza crust"
+- "cauliflower crust gluten free"
+- "best cauliflower pizza near me"
+- "pizza with cauliflower crust near me"
 breadcrumb: ["Home", "Recipes", "Pizza and Flatbreads"]
 nutrition: 
  calories: "310"
@@ -87,3 +89,95 @@ faq:
 - "q: Best storage method? a: Cool completely before fridge. Store wrapped tight or air-tight container. Reheat oven for crisp, microwave makes soggy. Freeze only if cooked, thaw fully to avoid excess moisture."
 
 ---
+
+Pulsed cauliflower. One egg. Cheese. That's the crust. Sounds fragile, turns out crispy—the kind of crispy that actually holds toppings instead of crumbling under them. Made this three times before the crust stopped turning into a wet mess. Fourth time worked. Then I started wondering why anyone buys frozen cauliflower pizza crusts when this takes 35 minutes total and tastes nothing like cardboard.
+
+## Why You'll Love This Gluten Free Cauliflower Pizza
+
+Takes under an hour from zero to eating. Homemade cauliflower crust pizza without the store-bought funk.
+
+Vegetarian. Gluten free. Neither tastes like a compromise.
+
+Works as lunch, dinner, or the thing you eat at 11 PM because you're tired of cereal. Cold the next day? Still fine. Better maybe.
+
+Uses ingredients you probably have or can grab without a special trip—no caulipower crust mix, no trader joe's hunt. Just make it.
+
+Spinach and sun-dried tomatoes together hit different. Not better than pepperoni, just different in a way that satisfies.
+
+## What You Need for Homemade Cauliflower Crust Pizza
+
+Cauliflower florets—220 grams, pulsed fine like couscous. Not a puree. Stop before it turns to paste.
+
+Grated provolone. 100 grams. Sharpness matters here. It's in the crust, holding everything together while it sets. Not just for flavor.
+
+Almond flour. 25 grams. Nuttier than chickpea flour, less dense. The texture shifts a bit. Try it once.
+
+One large egg. Binds everything. That's it.
+
+Thyme, smoked paprika, garlic powder—a light hand. Salt and pepper after tasting. Olive oil for the pan.
+
+Tomato sauce—homemade or store bought. About 100 milliliters. Whatever you have works.
+
+Mozzarella. Shredded. 90 grams. Not fresh mozzarella. Wrong texture.
+
+Baby spinach. 30 grams. Sun-dried tomatoes sliced thin. That's your toppings. Both of them. Sometimes less is the point.
+
+## How to Make Gluten Free Cauliflower Pizza Crust
+
+Heat to 215 Celsius. Lowest oven rack. Parchment on a baking sheet, brushed with olive oil so nothing sticks and burns later.
+
+Pulse the cauliflower until it's grainy. Couscous texture. Stop there. Transfer to a kitchen towel—cheesecloth works too—and squeeze. Hard. Keep squeezing. Water's the enemy of crispy. This step separates actual crust from wet sadness.
+
+Mix the squeezed cauliflower with provolone, almond flour, egg, thyme, paprika, garlic powder. Salt. Pepper. Taste it if you want but you can't really taste it raw and uncooked.
+
+Wet your hands. Press the mixture into a circle. 27 to 28 centimeters across. About 6 millimeters thick. Thinner crisps better. Thicker stays chewy in the middle.
+
+Brush the top with olive oil. The smallest brush, barely touching. Slide it onto the baking sheet—parchment underneath. Bottom rack. 18 to 22 minutes.
+
+Listen for crackling at the edges. Watch for golden. Not brown. Golden. The crust firms up as it cools so don't wait for it to feel crispy in the oven. That's how it gets overdone.
+
+## How to Get Cauliflower Crust Pizza Crispy and Actually Firm
+
+Pull the crust out carefully. Transfer parchment and all to a wire rack set over a pan. Let it sit for a minute. The steam that makes it soggy has to go somewhere. Air underneath fixes that. Not on the hot baking sheet still cooking from below.
+
+Spread tomato sauce. Even layer. Sprinkle mozzarella across. Scatter spinach. Lay the sun-dried tomatoes on top. Not raw cherry tomatoes. They water out. Sun-dried ones add sweetness and chew. They balance the spinach instead of fighting it.
+
+Back into the oven. Middle rack this time. 6 to 8 minutes. Cheese bubbles. You see faint gold spots. That's done. Longer and spinach turns into slime.
+
+Let it rest 3 minutes. Serrated knife. Slice it. Warm but not burning—helps the crust firm up after that second bake.
+
+## Cauliflower Pizza Crust Tips and What Goes Wrong
+
+Wet crust means wet cauliflower. Add another handful of almond flour next time and squeeze harder. Cauliflower varies. Some days it's watery, some days it's not.
+
+No food processor—grate it by hand, then squeeze in the towel multiple times. Takes longer. Works the same.
+
+Thyme carries better than oregano here. Fresh herbs on top after it comes out if you want that green pop without the bitter.
+
+Sun-dried tomatoes. They're sweet and chewy. Kalamata olives if you want something briney instead. Both work. Neither is wrong.
+
+Bottom crust too soft? Skillet on the stove, 2 minutes, just the bottom—extra crunch if you're after that. But it's not necessary. Pre-toasting is optional.
+
+The crust cracks? Still bakes fine. Seals up once the cheese goes on top. Don't stress it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cauliflower Pizza Crust
+
+**Can I make cauliflower crust pizza ahead?**
+Build the crust the day before, refrigerate it on the parchment. Bake it fresh when you want pizza. Crust doesn't last once toppings are on. Spinach wilts. Cheese gets weird. Make the toppings ahead, assemble when you're ready.
+
+**Is this actually gluten free?**
+Yes. Cauliflower, almond flour, egg, cheese. Nothing has gluten in it. Not a substitute for regular pizza—just different. Some people prefer it.
+
+**Why provolone and not something else?**
+It has enough sharpness to carry through the bake without going greasy. Cheddar works too but milder. Gruyère changes the whole vibe. Provolone's the middle ground.
+
+**Can I use trader joe's cauliflower instead of fresh?**
+Frozen works. Thaw it first, squeeze it dry. Same idea. Fresh is a bit nuttier but frozen doesn't fail.
+
+**What's the deal with thyme instead of oregano?**
+Oregano gets harsh when baked. Thyme stays subtle. The spinach already has some earthiness. Oregano fights that.
+
+**Do I need a food processor?**
+No. Box grater, squeeze in towel multiple times. Takes longer. Texture comes out the same.
