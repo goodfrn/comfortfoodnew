@@ -1,10 +1,10 @@
 ---
-title: "Fresh Egg Pasta Dough"
+title: "Carbonara Dish: Homemade Pasta with Eggs"
 slug: "fresh-egg-pasta-dough"
-description: "Fresh pasta dough made with egg yolks and whole eggs provides richer flavor and silkier texture. Uses olive oil for tenderness and a pinch of salt to enhance taste. Flour quantity adjusted for humidity and absorption. Ideal for stuffed pasta like squash agnolottis with earthy sauces. Attention to dough consistency is crucial—too sticky needs more flour, too dry needs water. Resting dough helps gluten relax for rollability. Substituting some all-purpose flour with semolina adds bite and structure. Switching olive oil for walnut oil adds a nutty aroma for a twist. Stepwise blending with a food processor speeds mixing but final kneading is tactile—feel, texture dictate readiness. Timing flexible, watch dough rather than clock. Leave dough covered to prevent drying out."
-metaDescription: "Fresh egg pasta dough made with yolks, whole eggs, olive oil. Adjust flour, semolina for texture. Rest dough well, knead just right. Great for stuffed pasta."
-ogDescription: "Rich fresh pasta dough with eggs, olive oil, semolina. Knead tactilely, rest gluten well. Use walnut oil swap for twist. Watch dough feel, not clock."
-focusKeyphrase: "fresh egg pasta dough"
+description: "Learn to make carbonara dish with fresh pasta dough using egg yolks, whole eggs, and semolina flour. Rich, silky texture with olive oil creates authentic Italian flavor."
+metaDescription: "Make carbonara dish at home with our pasta recipe using eggs, semolina flour, and olive oil. Authentic Italian technique. Try it tonight."
+ogDescription: "Homemade carbonara pasta with eggs and semolina flour. Silky texture, rich flavor, authentic Italian cooking."
+focusKeyphrase: "carbonara dish"
 date: 2025-08-12
 draft: false
 image: fresh-egg-pasta-dough.jpg
@@ -21,9 +21,18 @@ tags:
 - "eggs"
 - "vegetarian"
 keywords:
+- "carbonara dish"
+- "spaghetti carbonara"
+- "recipe spaghetti carbonara"
+- "how to make carbonara"
+- "homemade pasta recipe"
+- "how to make pasta"
+- "pasta dough recipe"
+- "fresh pasta with eggs"
+- "handmade pasta recipe"
+- "Italian carbonara recipe"
+- "semolina pasta dough"
 - "egg pasta dough"
-- "pasta dough with olive oil"
-- "hand kneaded pasta dough"
 breadcrumb: ["Home", "Recipes", "Pasta and Noodles"]
 nutrition: 
  calories: "320"
@@ -66,3 +75,86 @@ faq:
 - "q: How to store dough if not using immediately? a: Wrap well in plastic, refrigerate up to 24 hours. Let sit at room temp before rolling. Dough gets firmer cold, needs gentle warming. Avoid drying by flouring hands, not dough during handling."
 
 ---
+
+Cut the eggs in a bowl with oil. Whisk until it gets glossy—that's your base. Twenty-eight minutes total and you've got fresh pasta dough that actually works. Not some sad, overworked thing. This is the stuff that cooks in maybe two minutes once you shape it.
+
+## Why You'll Love This Homemade Pasta
+
+Makes real spaghetti or fettuccine without a pasta machine if you have patience.
+Vegetarian, actually tastes like eggs and flour did something together instead of tasting like nothing.
+Italian method. No water, no nonsense. Oil keeps gluten from getting angry and tight.
+Comes out silky if you rest it. Thirty-five minutes and the dough becomes soft without falling apart.
+Harder than it looks, easier than people say it is.
+
+## What You Need for Homemade Spaghetti Pasta Dough
+
+Four egg yolks. Three whole eggs. That's your binder—the yolks especially. Don't skip them.
+
+Olive oil. Twenty milliliters. That's about three tablespoons. Sounds small but it changes everything. Keeps the dough from drying out, slows down the gluten from locking up too tight. Use something you'd actually cook with. Not the fancy stuff. That's wasted here.
+
+All-purpose flour. Unbleached. Four-twenty grams. Most of your structure lives here.
+
+Fine semolina flour. Seventy grams. This is the one people forget. It adds grip, stops everything from turning into a wet paste. Not cornmeal. Semolina. Different thing entirely.
+
+Fine sea salt. Five milliliters—that's a teaspoon, basically. Salt now or salt later. Doesn't really matter much as long as you salt.
+
+That's it. Five ingredients for actual pasta.
+
+## How to Make Fresh Pasta Dough at Home
+
+Whisk the yolks and whole eggs together with the olive oil in a medium bowl. Go until it looks glossy. Actually glossy, not just mixed. This takes maybe two minutes of actual work.
+
+Drop the flours and salt into a food processor. Pulse it together—maybe ten pulses. You want everything mixed evenly. Flour needs to know it's getting salt now. Doesn't work as well if you don't combine them first.
+
+Pour that egg mixture into the dry stuff. Pulse for forty seconds. Don't overdo it. The dough will look lumpy and crumbly and nothing like dough. That's correct. That's exactly what it should look like.
+
+Open it up. Feel it with your fingers. Should break apart easily, feel tacky but not sticky or wet. If it's too wet and clumpy—actually sticking to the bowl—sprinkle in flour. Fifteen milliliters at a time. Pulse again. Check it. Add more if it needs it. This part requires you to actually pay attention. Nobody can tell you the exact amount because humidity and flour don't cooperate.
+
+If it's too dry and cracked, add water instead. Room temperature water. Ten to fifteen milliliters. Not much. Watch how it clumps together as you pulse. You'll see when it's right.
+
+## How to Knead Fresh Pasta for the Perfect Texture
+
+Dump the rough dough onto a lightly floured surface. Push the pieces together. Start folding it over itself. Use the heel of your hand to push it down and fold it back up. Knead for about seventy seconds. Max. More than that and you're working the gluten too hard and it gets angry.
+
+The dough should turn smoother. Less grainy. It'll have a silky sheen. Still pliable, not sticky. That's when you stop.
+
+Wrap it tight in plastic wrap. Press it flat slightly. Flattening it cuts down the resting time because it doesn't take as long for the center to relax.
+
+Let it sit at room temperature for twenty-five to thirty-five minutes. Gluten relaxes. The dough softens so you can actually roll it thin without it tearing and snapping back. This is not optional. The rest matters more than the kneading.
+
+## Tips for Making Spaghetti Carbonara Pasta and Common Mistakes
+
+After resting, cut the dough into chunks for rolling or shaping. Use it right then or wrap it and refrigerate it. Lasts about twenty-four hours. Day two it's still good. Day three, probably don't bother.
+
+Food processor is easier but not required. If you don't have one, mix the flours and salt in a bowl, make a well in the center, whisk the eggs and oil together, then slowly incorporate flour with a fork before you knead it. Takes longer. Works fine.
+
+Don't overwork it. Seriously. People always overknead thinking more work means better dough. It doesn't. Seventy seconds. That's enough. Over that and it gets tight and won't roll without snapping.
+
+Try toasted walnut oil instead of olive oil sometime. Adds a delicate woody thing. Changes it but not in a bad way. Just different.
+
+Room temperature water matters when you're fixing the dough. Cold water won't hydrate the flour the same way. Doesn't matter that much but it's easier if it's tepid.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Making Fresh Spaghetti Carbonara Pasta
+
+**What's the difference between this pasta and store-bought dried spaghetti?**
+This cooks in two minutes. Tastes like egg. Dried pasta takes ten minutes and tastes like nothing special. Also you made it. That matters.
+
+**Can I substitute the semolina flour with something else for this recipe?**
+Cornstarch doesn't work. Tried it. Goes gummy. You could use all all-purpose but the texture won't grip the same way. Semolina is fifteen grams more than typical flour in a store. Not hard to find.
+
+**How do I know if the dough is rested enough?**
+Poke it. If your finger makes a mark and the dough springs back super fast, it needs more time. If the mark stays there, it's ready. Usually thirty-five minutes does it.
+
+**What if I don't have a food processor—how do I make pasta?**
+Bowl, fork, hands. Mix the flours with salt. Make a well. Whisk eggs and oil in another bowl. Pour it in the well slowly. Stir with a fork until it clumps. Then knead on the counter. Takes longer but works.
+
+**Can I refrigerate the dough after making it?**
+Yes. Wrap it tight. Twenty-four hours maximum. After that it gets funky. Bring it back to room temp before you roll it—about fifteen minutes sitting out.
+
+**How thin should I roll the pasta dough?**
+Thin enough that you can almost see through it. Hold it up to the light. If light comes through, you're close. This takes practice. First time you'll probably roll it too thick. That's fine. It still cooks.
+
+**Do I have to use olive oil or can I use something else?**
+Olive oil is what the recipe wants. Vegetable oil works but tastes different. Toasted walnut oil works and tastes interesting. Don't use butter—it breaks down weird when you're processing the dough.
