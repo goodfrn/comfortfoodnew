@@ -1,9 +1,9 @@
 ---
-title: "Candy Cane Crumble Cookies with Dark Chocolate"
+title: "Candy Cane Cookies with Dark Chocolate"
 slug: "candy-cane-crumble-cookies"
-description: "Buttery candy cane cookies with crushed peppermint candies and dark chocolate. Crispy edges, tender centers, orange zest brightness, cinnamon sugar coating. Holiday baking made simple."
-metaDescription: "Candy cane cookies recipe with dark chocolate, crushed peppermint, and orange zest. Crispy-tender texture that keeps fresh for days. Make them tonight."
-ogDescription: "Candy cane crumble cookies. Dark chocolate, peppermint candies, orange zest, cinnamon sugar crust. Crisp edges, soft centers."
+description: "Buttery candy cane cookies with crushed peppermint candies, dark chocolate, and orange zest. Crispy edges, tender centers, cinnamon sugar coating for easy holiday baking."
+metaDescription: "Candy cane cookies recipe with crushed peppermint candies, dark chocolate, and orange zest. Buttery, crispy-edged treats perfect for the holidays. Make it tonight."
+ogDescription: "Buttery candy cane cookies with crushed peppermint candies and dark chocolate. Orange zest and cinnamon sugar coating make these holiday treats irresistible."
 focusKeyphrase: "candy cane cookies"
 date: 2025-08-17
 draft: false
@@ -22,10 +22,17 @@ tags:
 - "candy"
 keywords:
 - "candy cane cookies"
-- "candy cane cookie recipe"
 - "candy cane chocolate cookies"
-- "peppermint candy cane cookies"
+- "candy cane peppermint cookies"
+- "candy cane cookie recipe"
 - "candy cane crushed cookies"
+- "candy cane christmas cookie"
+- "sugar cookies with candy cane"
+- "almond candy cane cookies"
+- "peppermint kiss cookie"
+- "candy cane shortbread cookies"
+- "chocolate peppermint kiss cookie"
+- "candy cane sugar cookie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "150"
@@ -72,3 +79,101 @@ faq:
 - "q: How best to store leftover cookies? a: Airtight container on counter for up to one week works. Avoid fridge; dries cookies fast. Freeze dough tightly wrapped for 2 months– thaw overnight fridge. Bake fresh for best edges but safe to reheat gently."
 
 ---
+
+Crush the candy canes first. Six of them, pounded into rough pieces — some fine, some chunky. You'll need about 80 grams. The chocolate melts with butter, the peppermint stays sharp. That's the whole thing working.
+
+## Why You'll Love These Candy Cane Cookies
+
+Takes 35 minutes total, start to eating. Peppermint hits you first, then chocolate catches it. Not overly sweet even though there's literally crushed candy in the dough — the dark chocolate and orange zest dial it back somehow.
+
+Works cold. Works fresh from the oven. Works as a holiday cookie that doesn't taste like a dentist's office. The cinnamon sugar coating instead of straight peppermint is the move — lets the mint breathe instead of punching you.
+
+Soft centers. Crackly edges. That specific texture where it's still tender after it cools completely.
+
+## What You Need for Candy Cane Cookies
+
+Crushed peppermint candies. About six candy canes, crushed — doesn't need to be perfect powder. Leave some texture.
+
+All purpose flour, sifted. 180 grams. The sifting matters because it aerates and keeps things tender instead of dense.
+
+Almond flour. 50 grams. Swaps out 20 grams of the all purpose. Adds nuttiness that rounds out the peppermint somehow. You could skip it. Wouldn't be as good.
+
+Dark chocolate. 70 grams, chopped rough. 60 to 70 percent cocoa. Milk chocolate doesn't work. White chocolate definitely doesn't work. Dark only.
+
+Butter. 150 grams, soft. Not melted. Softened. Room temperature.
+
+Icing sugar. 60 grams. Just to cream with the butter. Not a ton of sweetness — the crushed candy handles that.
+
+Orange zest. Half an orange. Sounds weird. It's not. The citrus keeps the peppermint from tasting cloying.
+
+Sea salt. Just a tiny pinch. Teaspoon-wise, barely visible.
+
+Cinnamon sugar for rolling. 30 grams. Two parts cinnamon, one part sugar mixed together, or just use what feels right.
+
+## How to Make Candy Cane Cookies
+
+Oven to 190 C. Middle rack. Line a tray with parchment. Wait for it to preheat — don't skip that or the bottoms cook unevenly.
+
+Sift the flours together with the salt. This is where the nuttiness starts building — almond flour in there, just enough to change the texture. Not enough that you taste it specifically. Just enough that something's different.
+
+Butter goes into a bowl. Beat it with the icing sugar until it's pale and creamy. Two, three minutes. Electric mixer or a wooden spoon if you're going by hand. The butter should look fluffy, almost whipped. That's air — that's what makes them tender.
+
+Add the orange zest. Fold gently. Don't beat it. Just fold.
+
+Slow. Incorporate the flour mixture. Stop the second it comes together. Overmix and they get tough. You want it shaggy, barely holding. If it's too dry, you mixed too hard. If it's too wet, add flour a tablespoon at a time.
+
+Chop the chocolate rough. Fold in gently. Same rule — don't work it. Just distribute it evenly through the dough.
+
+## How to Get Candy Cane Cookies Crispy on the Outside, Soft Inside
+
+Shape balls. Thirty milliliters each — use a scoop if you have one, a spoon if you don't. They should all be about the same size or they bake unevenly.
+
+Roll each ball in cinnamon sugar. This is where you decide — you could press crushed candy cane on top before baking, but it melts into the dough and loses texture. The cinnamon sugar coating stays distinct. It cracks when you bite it.
+
+Space them apart. Generously. These spread. Not everywhere, just enough that air gets between them.
+
+Bake 13 to 15 minutes. Watch the edges. They should turn light golden, the surface should start cracking slightly. The centers stay soft. You want them underbaked if anything — they firm up as they cool on the tray and if they're fully firm in the oven they'll be hard.
+
+Cool completely on the tray. Don't move them. This is important. They're setting up as they sit there, and moving them breaks that. Twenty minutes maybe. Until they're room temperature.
+
+## Candy Cane Cookie Tips and Common Mistakes
+
+Don't skip the sifting. Flour gets packed. Sifting fixes that. Matters more than people think.
+
+The orange zest — if your orange smells good, use it. If it smells like nothing, it won't help. Not optional. It's tiny but it works.
+
+Chocolate size matters slightly. Too fine and it melts completely. Too chunky and it doesn't distribute. Rough chop works.
+
+Crushed candy cane in the dough or on top — not both. Too much peppermint is a problem. The candy cane sugar coating on the outside gives you the hit. Candy in the dough gives you texture. Pick one mostly.
+
+Storage — airtight container, up to a week. They soften slightly as they sit, which is fine. They're still good. Dough freezes. Two months. Thaw in the fridge overnight, bake from cold or room temperature, doesn't matter.
+
+They crack on top as they bake — that's correct. That's what you want. If they don't crack, either the oven was too low or you overmixed.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Candy Cane Cookies
+
+**Can I make a sugar cookie recipe with candy cane instead?**
+No, these are different. These have chocolate and almond flour. If you want a straight candy cane sugar cookie, this isn't it. This one has complexity because of the chocolate and orange.
+
+**How long does candy cane cookie dough keep in the fridge?**
+Three days, maybe four. After that it hardens and becomes harder to scoop. Freezer is better for longer storage.
+
+**Do these taste like peppermint kisses cookies or something store-bought?**
+No. They're not waxy or overly minty. The dark chocolate keeps it grounded. The orange keeps it from tasting like candy. They taste like what they are — a real cookie.
+
+**Can I skip the almond flour?**
+Yeah. Use 180 grams all purpose instead of 160 grams all purpose plus 50 grams almond. They'll be denser, less interesting. Not worth it in my opinion but it works.
+
+**What if I don't have dark chocolate?**
+Don't use milk chocolate. Doesn't work. The sweetness compounds. Use better chocolate or leave it out and do crushed candy cane instead. Or just don't make these.
+
+**Should I use crushed candy cane on top before baking?**
+No. Press it on after they cool if you want extra crunch. Or roll them in cinnamon sugar and call it done. Baking with candy on top means it melts into nothing.
+
+**How do I know when they're done?**
+Edges light golden, surface cracking. Centers still soft. Not firm. If you poke one and it bounces back slowly, that's right. If it springs back fast, it's overdone.
+
+**Do these work as a candy cane dessert for holiday baking?**
+Yeah. They're actually a real holiday cookie because of the peppermint and chocolate combination. Not as one-note as pure peppermint. The orange and almond add something.
