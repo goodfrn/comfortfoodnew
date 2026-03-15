@@ -1,10 +1,10 @@
 ---
-title: "Feta Tomato Fusilli Bake"
+title: "Ziti Bake with Feta and Cherry Tomatoes"
 slug: "feta-tomato-fusilli-bake"
-description: "A baked pasta featuring feta and cherry tomatoes with a kick of chili flakes and garlic. Fusilli tossed in the creamy, roasted feta-tomato sauce, garnished with fresh basil. Slight changes to ingredient ratios and additions make it tangier and richer. Quick desalting of feta reduces excess salt. Roasting brings out tomato sweetness and feta creaminess. Pasta cooked al dente and mixed right after baking to soak up flavors."
-metaDescription: "Baked feta and cherry tomatoes meld with fusilli, garlic, red pepper flakes, and fresh basil for a rustic Mediterranean pasta bake bursting with texture and tang."
-ogDescription: "Roasted feta and tomatoes with fusilli, garlic, basil, and olives. Salty, tangy, creamy, with heat from red pepper flakes. Rustic bake with bold Mediterranean notes."
-focusKeyphrase: "baked feta tomato pasta"
+description: "Creamy baked pasta with roasted feta cheese, cherry tomatoes, garlic, and Kalamata olives. Fusilli tossed in a tangy, herb-rich sauce finished with fresh basil and lemon zest."
+metaDescription: "Ziti bake with roasted feta, cherry tomatoes, garlic, and fresh basil. A creamy, tangy baked pasta dish that's easy to make. Try it tonight."
+ogDescription: "Roasted feta and cherry tomatoes create a creamy, tangy sauce for this baked pasta with Kalamata olives and fresh basil."
+focusKeyphrase: "ziti bake"
 date: 2025-08-16
 draft: false
 image: feta-tomato-fusilli-bake.jpg
@@ -21,9 +21,18 @@ tags:
 - "mediterranean"
 - "easy dinner"
 keywords:
+- "ziti bake"
+- "baked pasta"
+- "feta pasta"
+- "baked feta pasta"
+- "feta cheese pasta"
 - "feta tomato pasta"
-- "roasted cherry tomatoes"
-- "Mediterranean fusilli"
+- "roasted tomato sauce"
+- "pasta bake meals"
+- "feta pasta recipe"
+- "cherry tomato pasta"
+- "baked pasta recipes"
+- "vegetable pasta bake"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "620"
@@ -67,3 +76,93 @@ faq:
 - "q: How to store leftovers? a: Cool fully first. Add a small splash olive oil to stop drying. Refrigerate covered. Reheat gently in pan with little water or oil splash to bring creaminess back. Microwave dries sauce and ruins feta texture here — avoid if possible."
 
 ---
+
+Forty-five minutes from nothing to hot pasta. Three ingredients you probably have, one block of feta, olive oil, and the tomatoes that have been sitting in your bowl for two days. Roast it all together — the cheese goes soft, the tomatoes burst into something closer to jam, and then you mix it with hot pasta and suddenly it's dinner.
+
+## Why You'll Love This Ziti Bake
+
+Takes 50 minutes total and maybe 15 of those are actual work. Rest is just waiting.
+Vegetarian but tastes like it has meat in it. Something about the feta and roasted garlic does that.
+Works cold the next day — better, maybe. Doesn't get better, but it doesn't fall apart either.
+One dish. One baking pan. Cleanup is basically nothing.
+Mediterranean flavors without the pretense. Just tomatoes, cheese, oil, herbs.
+
+## What You Need for This Ziti Pasta Bake
+
+Feta cheese block — not crumbled. Block. The texture changes when it roasts, gets creamy instead of crumbly. 140 grams.
+
+Cherry tomatoes. Three and three-quarters cups. Stems on or off, doesn't matter. They get roasted down into almost a sauce.
+
+Garlic. Four cloves, sliced thin. More surface area means more of that roasted, sweet garlic flavor instead of sharp.
+
+Olive oil. Two-thirds cup. Sounds like a lot. It is. But the pasta drinks it, the tomatoes soften into it, it's where half the flavor lives.
+
+Fusilli pasta. Ten ounces. The shape matters here — the spirals catch sauce in a way that spaghetti won't.
+
+Fresh basil. Half a cup loosely packed. Torn, not chopped. Add it at the very end or it gets dark and weird.
+
+Lemon zest. One teaspoon. Cuts the richness. Without it the dish sits heavy.
+
+Kalamata olives. A handful, roughly chopped. Salty. Briny. Keeps it from being too soft and creamy.
+
+Red pepper flakes. However much you like heat. Add it now — it mellows as it roasts.
+
+Salt and pepper. You won't add salt to the mix because feta and olives already carry it. Pepper though — more than feels right. Ground fresh.
+
+## How to Make a Ziti Bake That Actually Works
+
+Heat the oven to 430 degrees. Middle rack. Let it sit for a few minutes until it stops humming and settles into steady heat.
+
+Quick thing with the feta — drop it in a bowl of cold water for 7 minutes. Sounds weird. Pulls some of the salt out, makes the final dish less aggressively briny. Pat it dry after or the whole thing gets watery. Dry matters.
+
+In a shallow roasting dish, put the feta block in the center. Scatter the tomatoes around it like you're not trying too hard. Add the sliced garlic between tomatoes. Red pepper flakes go in generously — this is when they wake up. Pour the olive oil over everything evenly. Add the lemon zest now while you're thinking about it.
+
+Scatter the chopped olives around. Don't add salt — the cheese and olives handle that. Grind pepper over it, heavier than you'd normally use. Put it in the oven uncovered.
+
+While that roasts — 35 minutes, not 30 — get a pot of water boiling. Salt it, but not heavily. Cook the fusilli just short of al dente. It'll soften more in the baking dish. Drain it but keep half a cup of the cooking water.
+
+## How to Get the Texture Right in Your Baked Ziti Pasta
+
+At 35 minutes the tomatoes should be bursting. Skins wrinkled. The feta should be soft, not firm anymore, edges going gold at the corners. The whole thing smells like roasted garlic and butter, even though there's no butter. That's just what hot oil and feta smell like when they've been in heat for a while.
+
+Pull it out. Remove any tough tomato stems if any are still clinging. Using a fork or wooden spoon, press the feta and tomatoes together. You're looking for creamy with chunks of tomato still visible — not a smooth sauce, not chunky, somewhere between. It should look like someone mashed it rough.
+
+Add the hot pasta. Toss it. The hot pasta absorbs the creamy feta-tomato mix, and that's where the magic happens. If it looks dry, add pasta water a splash at a time. Not all at once. You're looking for it to coat, not drown.
+
+Torn basil goes on last. Scatter it. Serve immediately. The sauce thickens fast once it sits.
+
+## Ziti Bake Tips and What Usually Goes Wrong
+
+Pasta texture — cook it just under al dente. It keeps cooking in the hot pan with the feta. Overcooked pasta in this dish turns into mush because it's also sitting in warm sauce.
+
+Feta texture — that 7-minute water soak actually matters. Skip it and your dish tastes like straight salt. The cheese mellows and the whole thing balances better.
+
+Tomatoes bursting — that's the visual cue. When they start to split is when you pull it. Not before, not after. Before and they're still kind of hard. After and they've gone to something weird and broken down.
+
+Leftovers — cool it completely first. When you reheat, add a splash of olive oil or water and go low and slow on the stove. Microwave kills the texture. The pasta gets weird and the feta dries out instead of staying creamy.
+
+Oil amount — yes, it's a lot. That's not a mistake. The pasta needs it, the tomatoes soften into it, it's supposed to be generous.
+
+Basil fresh — always. Dried doesn't work here. The point is that bright, alive flavor at the end.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Ziti Bake
+
+**Can I use a different pasta shape for this baked ziti dish?**
+Fusilli works best because the spirals grab sauce. Penne works. Rigatoni works. Don't use spaghetti — it tangles and doesn't hold the creamy feta mix as well. Avoid tiny shapes like ditalini.
+
+**How do I know when the feta cheese and pasta are done roasting?**
+Watch the tomatoes. When they're bursting and wrinkled and the feta is soft at the edges but still holds its shape, pull it out. Smell helps too — it should smell like roasted garlic and warm oil. Takes 35 minutes exactly if your oven is honest about temperature.
+
+**Can I make this baked pasta recipe ahead of time?**
+Cook it, cool it completely, refrigerate in the baking dish. Reheat gently on the stove with a splash of olive oil or water. Don't microwave it — the texture turns chalky. Takes about 10 minutes to warm through on low heat.
+
+**What if I don't have fresh basil for this feta pasta recipe?**
+Skip it or use a small handful of parsley. Don't use dried basil. The whole point is that fresh herb brightness at the end. Oregano doesn't work the same way — too strong and medicinal.
+
+**Can I add vegetables to this baked pasta dish?**
+Technically yes. In practice it gets crowded. If you want to, add something that roasts fast — zucchini sliced thin, bell peppers, maybe spinach mixed in at the end. But this one's better minimal.
+
+**Is this pasta bake meal vegetarian?**
+Yes. All vegetarian. No animal products except the feta cheese.
