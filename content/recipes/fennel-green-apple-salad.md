@@ -1,10 +1,10 @@
 ---
-title: "Fennel Green Apple Salad"
+title: "Salad Waldorf with Honeycrisp Apple"
 slug: "fennel-green-apple-salad"
-description: "Crunchy, bright salad. Fennel swapped for celery root for earthier tone. Apple variation to granny smith-tartness tweaked with honeycrisp for balance. Dressing adjusted with 20 ml olive oil, 5 ml apple cider vinegar, 10 ml maple syrup. Simple salad that relies on crisp textures and sharp-sweet contrasts, good for light starters or side. Tossing and seasoning key; prevents sogginess. Pea shoots substituted with micro arugula for slight peppery bite and color pop. Quick prep, focus on knife skills and dressing harmony. No nuts, no gluten, vegan, allergen-friendly, easy to swap ingredients."
-metaDescription: "Fennel Green Apple Salad swaps celery root for earthiness, honeycrisp for balance. Sharp, crisp, vegan. Quick prep, thin slices, layered seasonings, fresh bite."
-ogDescription: "Crunchy celery root and honeycrisp mix with micro arugula. Sharp vinegar, sweet maple glaze. Toss fast, serve fresh. Vegan, gluten-free salad with punch and texture."
-focusKeyphrase: "Fennel Green Apple Salad"
+description: "Refreshing waldorf salad featuring shaved honeycrisp apple, celery root, and micro arugula. Dressed with olive oil, apple cider vinegar, and maple syrup for crisp, bright flavors."
+metaDescription: "Make this waldorf salad with honeycrisp apple, celery root, and micro arugula tossed in apple cider vinegar dressing. Try it tonight."
+ogDescription: "Crisp waldorf salad with honeycrisp apple, shaved celery root, and peppery micro arugula. Light, bright, and allergen-friendly."
+focusKeyphrase: "salad waldorf"
 date: 2025-09-28
 draft: false
 image: fennel-green-apple-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "healthy"
 - "easy"
 keywords:
-- "celery root"
-- "honeycrisp apple"
-- "maple syrup vinaigrette"
+- "salad waldorf"
+- "waldorf recipe"
+- "apple salad recipe"
+- "fennel salad"
+- "apple cider vinegar salad dressing"
+- "apple salad"
+- "apple coleslaw"
+- "fall salad recipes"
+- "apple and fennel salad"
+- "apple & celery salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "95"
@@ -60,3 +67,60 @@ faq:
 - "q: How to store leftovers? a: Best eaten fresh but if needed stash in airtight container. Dressing separate preferred to avoid sogginess. Keep salad chilled; apple and celery root work well 24 hours but greens limp fast. Re-toss lightly before serve to redistribute dressing and freshen texture. Avoid freezing or long storage."
 
 ---
+
+Shave the apple and celery root thin—seriously thin. Mandoline if you have it. The whole thing takes 12 minutes, maybe less if you work fast. No cooking. Just assembly.
+
+## Why You'll Love This Apple Salad
+
+Comes together while you're still thinking about what to eat. One bowl, one knife, done. The dressing actually tastes like something—apple cider vinegar with maple syrup, not just oil and acid. Crispness doesn't fade if you add the greens last. Tastes the same cold or room temp. Works as a side for literally anything, or just eat it alone. Feels healthy but doesn't taste like you're being punished for it.
+
+## What You Need for This Apple Salad Recipe
+
+Olive oil—20 ml, about the size of a shot glass. Apple cider vinegar, not white. White vinegar is too sharp. Just 5 ml, really small amount. Maple syrup. Not honey. The maple matters. A medium celery root—mandoline it thin so it's almost see-through. One honeycrisp apple, same treatment. Micro arugula. The small stuff, not regular arugula. Salt and pepper. That's it.
+
+Optional: toasted pumpkin seeds if you want crunch. Shaved fennel fronds if you can find fennel bulb. Changes the whole thing if you go that route. Better, honestly.
+
+## How to Make a Waldorf Apple Salad
+
+Get a large bowl. Dump in the olive oil first. Add the apple cider vinegar. Stir. Add the maple syrup. Taste it before you do anything else. The balance shifts depending on your vinegar—some brands are sharper. This is the dressing. Salt and pepper it now. Taste again. Adjust.
+
+The second you finish the dressing, add the shaved celery root and honeycrisp apple. Don't wait. They oxidize fast. Toss gently but actually thoroughly—you want everything coated. Work quick.
+
+## How to Keep Your Apple Salad Crisp
+
+Last step. Add the micro arugula. Fold it in. Not aggressively. Just fold. The greens stay vibrant if you don't work them hard. Taste it. If it needs more salt or acid, add it now. Acidity dims once everything sits together—it's not a mistake, just how it works.
+
+Serve cold or at room temp. Crispness is the whole point. If the salad sits for a while before you plate it, toss it again lightly. Bring the arugula back to life. One shake. That's all.
+
+## Apple Salad Tips and Common Mistakes
+
+Don't skip the mandoline. Regular apple slices are too thick. They're boring. Thin changes everything. Don't use regular arugula if you can help it. Micro arugula stays delicate. Regular stuff gets limp and tastes peppery in a way that takes over.
+
+The fennel thing. If you find a fennel bulb and shave the fronds thin—paper thin—it's a different salad. Anise flavor comes through but not aggressive. Changes it in a good way. Not essential though. Works fine without it.
+
+Don't mix the dressing ingredients separately. Just throw them together and taste. Adjusting as you go beats getting it perfect on the first try. Tastes different on different days depending on your vinegar and apple.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Apple Salad
+
+**Can you make this ahead?**
+Not really. Assemble it right before you eat. The greens will. Apple slices last longer if they're thin and sit in the dressing, but the arugula gets sad. Make the dressing ahead. Shave the apple and celery root ahead. Toss 5 minutes before serving.
+
+**What if you don't have a mandoline?**
+A sharp knife works. Takes longer. Slice as thin as you can. The thinner the better.
+
+**Can you use a different apple?**
+Honeycrisp is sweet and stays crisp. Granny Smith works—more tart, less sweet. Changes the balance with the maple. You'll need to adjust the dressing. Try Honeycrisp first.
+
+**What about fennel bulb instead of just the fronds?**
+Shave the whole bulb thin like the apple. It gets bitter if it's not paper thin. Tastes like licorice in a way that either works or doesn't. Skip it if you're not sure.
+
+**Does this work as a slaw with apple?**
+Not really a slaw. Slaws usually have cabbage and sit longer. This is meant to be eaten right after you make it. Texture's completely different.
+
+**Can you add nuts or seeds?**
+Toasted pumpkin seeds work. Walnuts too, toasted. Not raw. Raw tastes like nothing. Toast them, let them cool, add at the very end so they stay crisp.
+
+**How long does apple cider vinegar dressing last?**
+The dressing keeps for days. The salad doesn't. Make the dressing whenever. Use it on other salads—any green salad with apple works.
