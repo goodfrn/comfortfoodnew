@@ -1,10 +1,10 @@
 ---
-title: "Banana Oat Breakfast Biscuits"
+title: "Vegan Banana Oat Biscuits with Chocolate"
 slug: "banana-oat-biscuits"
-description: "Simple banana oat biscuits with chocolate chunks. Vegan, gluten-free, no dairy or eggs. Uses flax and hemp seeds for texture and binding. Quick mix, bake until edges turn golden. Keep soft inside, slightly crisp outside. Perfect for breakfast or quick snack. Substitutions for oil and nut butter mentioned. Baking cues provided for timing and doneness. Two large biscuits from small batch."
-metaDescription: "Banana Oat Breakfast Biscuits with chocolate chunks, vegan and gluten-free. Uses flax and hemp seeds, baked until golden edges, soft inside, crisp outside."
-ogDescription: "Vegan banana oat biscuits with chocolate chunks. Flax and hemp bind, bake till golden edges, hold shape but stay tender. Fast snack or breakfast treat."
-focusKeyphrase: "banana oat breakfast biscuits"
+description: "Vegan banana oat biscuits made with flax seeds, hemp seeds, and dark chocolate chunks. Gluten-free, dairy-free, and egg-free. Soft inside, crisp edges."
+metaDescription: "Make vegan banana oat biscuits with flax seeds, hemp seeds, and chocolate chunks. Gluten-free breakfast cookies. Save this one."
+ogDescription: "Vegan banana oat biscuits with flax seeds, hemp seeds, and dark chocolate chunks. Gluten-free and dairy-free breakfast treat."
+focusKeyphrase: "vegan banana oat biscuits"
 date: 2025-08-17
 draft: false
 image: banana-oat-biscuits.jpg
@@ -21,9 +21,15 @@ tags:
 - "vegan"
 - "gluten free"
 keywords:
-- "banana biscuits"
-- "vegan breakfast biscuit"
-- "gluten-free snack"
+- "vegan banana oat biscuits"
+- "gluten free banana biscuits"
+- "vegan breakfast cookies"
+- "banana oat biscuits with flax seeds"
+- "dairy free banana biscuits"
+- "gluten free vegan breakfast biscuits"
+- "banana chocolate chunk oat cookies"
+- "no egg banana oat biscuits"
+- "vegan banana oat cookies with chocolate"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "290"
@@ -62,3 +68,77 @@ faq:
 - "q: How to store leftover biscuits? a: Airtight room temp best under 2 days. Fridge toughens nut butter, hardens texture. Freeze wrapped, thaw counter before eating keeps chew. Avoid fridge if soon snack. If chocolate melts too much baking adjust temp or press chunks right before bake start."
 
 ---
+
+Mash the banana while the oven preheats—actually, don't. Get the oven going first, then mash. Saves you standing around waiting. Two thick discs, chocolate pressed into the top, 25 minutes and they're done. The inside stays soft. The edges crisp up a bit.
+
+## Why You'll Love These Vegan Breakfast Biscuits
+
+Takes 18 minutes to prep if you're not slow about it. Then bake. That's it.
+Works cold the next day. Maybe better cold, actually.
+No eggs. No dairy. Just banana, oats, chocolate. The flax does the gluing—that's the trick nobody mentions.
+Gluten free banana cookies that don't taste like cardboard. They actually taste like something.
+One baking sheet. One bowl. Cleanup takes five minutes.
+
+## What You Need for Gluten Free Vegan Banana Biscuits
+
+A banana. Medium. Ripe enough that it's soft but not all brown spots. Mashed completely.
+
+Oat milk. Or almond milk. Or basically anything plant-based that's thin. Twenty milliliters. Not much.
+
+Ground flax seeds. Eighteen grams. This is the binder. It thickens up when it sits—don't skip waiting for that or the whole thing falls apart while baking.
+
+Hemp seeds. Five milliliters. Whole or crushed. Doesn't matter. Adds a little texture.
+
+Avocado oil or light olive oil. Not extra virgin olive oil—it burns. Twelve milliliters.
+
+Nut butter. Cashew or sunflower seed. Twenty milliliters. Creamy, not chunky. It makes the texture happen.
+
+Rolled oats. Forty-five grams. Large flakes, not instant. Instant turns into mush.
+
+Dark chocolate chunks. Eighteen grams. Sixty-five percent cacao minimum. Cheaper stuff doesn't hold up to the heat as well.
+
+## How to Make Dairy Free Banana Biscuits
+
+Line the baking sheet with parchment. Set oven to 175 Celsius—350 Fahrenheit. Center rack. Do this before you start mixing because you're going to want to bake these right after forming them.
+
+Mash the banana. Really mash it. No lumps. Add the plant milk, ground flax, and hemp seeds. Stir it together. Now stop. Wait six minutes. This is not optional. The flax absorbs the liquid and thickens everything up—this is what holds the biscuits together instead of eggs. If you skip this your biscuits crumble and you hate life.
+
+Pour in the oil and nut butter. Mix until it's creamy. You want it thick enough to hold shape but not so runny that it's pancake batter. Then add the oats. Stir until just combined. Don't overthink it. Overworking makes them dense and tough.
+
+## How to Get Banana Chocolate Chunk Oat Cookies Crispy and Soft at the Same Time
+
+Grab a spoon and form two thick discs directly on the parchment paper. About five inches across. Don't flatten them too much—the thickness is what gives you that contrast between crispy edges and soft center. Sprinkle the chocolate chunks over each biscuit. Press them down lightly. Not hard. Just enough so they stick but don't sink into the dough completely.
+
+Bake for 20 to 25 minutes. Watch the edges. When they turn a light golden color and the surface tightens—you'll see it stop looking wet—they're done. The inside should still feel soft when you poke it. That's correct. That's the texture you want. Remove them from the oven and let them cool on a rack instead of the sheet. Sheet cooling makes the bottom soggy because steam gets trapped.
+
+## No Egg Banana Oat Biscuits Tips and Storage
+
+The flax sitting for six minutes is non-negotiable. It's what replaces the egg. Skip it and nothing holds together.
+
+Don't overwork the dough once the oats go in. A few extra stirs makes them dense. One or two mixes and you're done.
+
+The biscuits stay soft for two days in an airtight container at room temperature. Don't refrigerate them. Nut butter hardens in the cold and the texture gets weird. If you need them to last longer, freeze them. They thaw fine.
+
+Chocolate can melt into the biscuit if your oven runs hot or the biscuits spend too long baking. Lower the temperature next time. Or press the chocolate in just before baking instead of right after forming—it sticks better that way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegan Banana Breakfast Biscuits
+
+**Can I make these without flax seeds?**
+The flax is the binder. Without it you need something else—like aquafaba or a regular egg if you're not vegan. Haven't tried it with other substitutes. Flax just works.
+
+**How thick should the discs be when I form them?**
+About half an inch. Maybe a little less. Thicker than a pancake, thinner than a scone. Thickness is what gives you that soft center with crispy edges. If they're flat they bake all the way through and you lose that texture.
+
+**Can I use instant oats instead of rolled oats?**
+No. Instant turns into paste. Use large rolled oats or this whole thing doesn't work right.
+
+**What if I don't have cashew butter?**
+Sunflower seed butter works the same. Almond butter works too. Peanut butter changes the flavor but it's fine. Just use something creamy. Chunky style doesn't blend right.
+
+**Do these need to cool completely before eating?**
+No. They're better slightly warm. Just let them cool enough that you don't burn your mouth. A few minutes on the rack is fine.
+
+**Can I freeze the dough and bake it later?**
+Yeah. Freezes fine. Bake straight from frozen—add 2 or 3 minutes to the time. Or thaw first and bake at regular time. Either works.
