@@ -1,10 +1,10 @@
 ---
-title: "Charred Red Pepper Dip Recipe"
+title: "Muhammara Recipe: Roasted Red Pepper Dip"
 slug: "charred-red-pepper-dip"
-description: "Roasted red pepper dip with golden peppers, sherry vinegar, and smoked paprika. Vegan, creamy, and tangy—serve with bread or crudités. Keeps a week refrigerated."
-metaDescription: "Charred red pepper dip recipe—creamy, tangy, vegan. Golden and red peppers roasted until blistered, blended with olive oil and smoked paprika. Try it tonight."
-ogDescription: "Charred red pepper dip that's creamy and tangy. Roasted peppers with smoked paprika, vegan and allergy-friendly. Perfect for bread or crudités."
-focusKeyphrase: "red pepper dip"
+description: "Muhammara is a creamy roasted red pepper dip made with golden peppers, sherry vinegar, and smoked paprika. This vegan-friendly appetizer is tangy, smoky, and perfect for serving with bread or vegetables."
+metaDescription: "Make muhammara with roasted red peppers, golden peppers, and sherry vinegar. This creamy, smoky dip is vegan and ready in minutes. Save this one."
+ogDescription: "Creamy roasted red pepper muhammara with golden peppers, sherry vinegar, and smoked paprika. A tangy, vegan dip that's restaurant-quality."
+focusKeyphrase: "muhammara"
 date: 2025-08-19
 draft: false
 image: charred-red-pepper-dip.jpg
@@ -20,11 +20,18 @@ tags:
 - "roasted"
 - "gluten free"
 keywords:
-- "red pepper dip"
-- "roasted red pepper dip"
 - "muhammara"
-- "red pepper dip recipe"
-- "charred red pepper dip"
+- "muhammara recipe"
+- "roasted red pepper dip"
+- "muhammara dip"
+- "red pepper dip"
+- "roasted bell pepper dip"
+- "red bell pepper dip"
+- "roasted red pepper hummus"
+- "red pepper walnut dip"
+- "vegan red pepper dip"
+- "smoky pepper dip"
+- "muhammara sauce"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "120"
@@ -63,3 +70,77 @@ faq:
 - "q: How long does dip keep? a: Fridge max 5 days sealed airtight. Separation may happen — give gentle stir before serving. Freeze not recommended, texture suffers. If dip smells off or mold appears discard immediately. Keep refrigerated promptly after serving to avoid spoilage."
 
 ---
+
+Roast the peppers skin-side up. Watch for the char — that uneven blistering, the way the skin cracks and pulls back from the flesh. Forty-five minutes, maybe 55. The smell gets smoky and you know it's right before you even look.
+
+## Why You'll Love This Muhammara Dip
+
+Takes 15 minutes to prep if you don't overthink it. The roasting does the work.
+Gluten free. No weird ingredients. Just peppers, oil, vinegar, paprika. Works as an appetizer for literally anyone — vegans, people avoiding gluten, people who just want something that tastes like something.
+Leftover red bell pepper hummus keeps for five days. Actually tastes better the next day, maybe because everything settles and the paprika's smokiness gets deeper.
+One bowl. Food processor. Done. Cleanup isn't much.
+Mediterranean flavors without fussing. Not complicated. Just roasted.
+
+## Roasted Red Pepper Hummus Ingredients
+
+Three large red bell peppers. Not the small ones. They're watery. Golden one too — adds sweetness without turning it orange.
+
+Fifty milliliters olive oil split two ways. Some for brushing the peppers before they go in. The rest goes in at the end when you're blending. Better oil distribution that way.
+
+Seven milliliters of sherry vinegar. Not red wine vinegar. Too sharp. Not white vinegar. Way too aggressive. Sherry sits between — brings brightness without the attack.
+
+Half a teaspoon smoked paprika. Not regular paprika. The smoke matters. It's the whole point of the roasting anyway.
+
+Salt and pepper. Coarse salt works better — sticks to everything instead of disappearing into the dip. Grind the pepper fresh.
+
+## How to Make Roasted Red Pepper Hummus
+
+Set your oven rack to center. Get it to 185 Celsius. Line a baking sheet with parchment because cleanup.
+
+Brush the peppers' skin with olive oil. Not much. Just enough so it glistens. Skin side up on the sheet. The cut side down.
+
+Roast 45 to 55 minutes. This is where time gets flexible. Your oven might run hot. Mine runs slow. Watch the skin — you want it blistering, bubbling, getting patchy char at the edges. Not black. Uneven char is right. The skin should be loosening from the flesh and smelling actually smoky. That faint aroma, kind of acrid in the best way.
+
+The second you pull them out — and they'll be hot, so be careful — throw them into an airtight container or cover a bowl tightly with plastic wrap. This traps the steam. It matters. Ten to 15 minutes and the skin comes off almost like you're just peeling it away.
+
+## Roasted Bell Pepper Dip Technique and Texture
+
+Peel the skin off with your fingers or a paring knife. Some people use their thumbs. It doesn't matter. The steam did the work already.
+
+Pat them dry with a paper towel. Any excess moisture makes the dip watery. You want creamy, not wet.
+
+Food processor. Add the peeled peppers, the remaining olive oil, sherry vinegar, smoked paprika. Pulse it. Don't blend it smooth. Slight chunkiness is good. You want it creamy but with some texture still there — something to feel in your mouth.
+
+Taste it now. Add salt a pinch at a time. Pepper too. Remember — the vinegar's sharpness and the paprika's warmth kind of expand after it sits for an hour. Don't oversalt.
+
+## Roasted Red Pepper Dipping Sauce Tips
+
+Transfer to a serving bowl. Drizzle a small swirl of oil on top if you want. Not necessary. Just looks intentional.
+
+Serve it with crusty bread or raw veggie sticks. Cold vegetables work better than you'd think. Carrots especially.
+
+Storage — covered in the fridge, five days easy. Sometimes the oil separates on top. Just stir it gently when you're ready to eat. It comes back together.
+
+If you want it thicker, use less oil. Want it thinner, add more. It's not precise. Depends how you like it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Red Pepper Hummus
+
+**Can I use jarred roasted red peppers instead of roasting my own?**
+Yeah, but don't. The roasted red pepper hummus from scratch tastes smokier. Jarred ones are kind of bland. If you're in a rush, sure. It'll work. But the roasting is why you make it.
+
+**How long does it take from start to finish?**
+Fifteen minutes prep. 55 minutes roasting if your oven runs normal. Cool time is 10 to 15 minutes. So total's about an hour and 10 minutes. Most of that's waiting though.
+
+**Can I make this ahead?**
+Three days in the fridge easy. Five if it's cold enough. Actually gets better on day two. The paprika settles in overnight.
+
+**What if I don't have sherry vinegar?**
+White wine vinegar works if you use less. Red wine is too much. Apple cider vinegar changes the flavor entirely — more sour, less complex. Sherry's really the one here.
+
+**Does this roasted bell pepper dip freeze?**
+Haven't tried freezing it. Oil separates weirdly when it thaws probably. Doesn't seem worth it. Make it fresh when you want it.
+
+**Can I use yellow or orange bell peppers instead of red?**
+Yellow works. Tastes brighter. Orange is fine too. Red just has more sweetness and depth. If you only have what you have, use it. The roasting technique matters more than the exact pepper color.
