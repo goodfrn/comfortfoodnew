@@ -1,10 +1,10 @@
 ---
-title: "Grilled Herb Asparagus Bundles"
+title: "Grilled Asparagus Bundles with Rosemary Skewers"
 slug: "grilled-herb-asparagus"
-description: "Charred asparagus bundles grilled over high heat deliver crunchy-tender spears with a smoky aroma. Using rosemary skewers instead of plain wooden pushes the flavor. Replacing olive oil with garlic-infused oil adds punch. Salt and cracked black pepper anchor the freshness. Cooking time improvised by watching color shifts and gentle char marks. Handles flare-ups and fragile stems. Method refined to avoid losing spears between grates with bundling technique. Tossing, flipping, resting. Ditched metallic skewers—too hot, too slick. Moisture managed with short soaking times. Bundles of 5 spears now, smaller but thicker, more concentration of flavor. Toasty rosemary needles add complexity, subtle pine note wakes the senses."
-metaDescription: "Grilled Herb Asparagus Bundles bring smoky charred green spears threaded on rosemary skewers, brushed with garlic-infused oil, salt, and fresh cracked pepper."
-ogDescription: "Crunchy asparagus bundles grilled on rosemary skewers with garlic oil and coarse salt. Char marks, pine aroma, and quick flips let green stay vibrant and fresh."
-focusKeyphrase: "Grilled Herb Asparagus Bundles"
+description: "Grilled asparagus bundles tied with rosemary sprigs and brushed with garlic-infused olive oil. Charred spears deliver smoky flavor with crispy edges and tender centers."
+metaDescription: "Grilled asparagus bundles with rosemary skewers and garlic-infused olive oil. Charred spears with smoky flavor. Make it tonight."
+ogDescription: "Charred asparagus bundles grilled with rosemary sprigs and garlic oil. Smoky, tender, and perfectly seasoned with sea salt and cracked pepper."
+focusKeyphrase: "grilled asparagus bundles with rosemary"
 date: 2025-08-15
 draft: false
 image: grilled-herb-asparagus.jpg
@@ -21,9 +21,15 @@ tags:
 - "summer"
 - "side dish"
 keywords:
-- "asparagus bundles"
+- "grilled asparagus bundles with rosemary"
 - "grilled asparagus"
-- "herb skewers"
+- "rosemary skewered asparagus"
+- "charred asparagus with garlic oil"
+- "asparagus side dish"
+- "summer grilled vegetables"
+- "vegetarian grilling recipes"
+- "grilled asparagus spears with herb skewers"
+- "garlic infused asparagus on the grill"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "80"
@@ -62,3 +68,71 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, refrigerate loosely wrapped. Reheat briefly at medium heat—avoid soggy. Best consumed within 1-2 days. Can repurpose in salads or quick sautés. Avoid wet dressings to keep texture intact."
 
 ---
+
+Set the grill hot. Really hot. Eighteen asparagus spears bundled tight with rosemary sticks that do double duty — they hold everything together and flavor the whole thing as it cooks. Twelve minutes to prep, seventeen on the grill, done. Three tablespoons of garlic oil. That's it.
+
+## Why You'll Love This Grilled Asparagus Side Dish
+
+Takes less than half an hour from start to plate.
+
+Vegetarian, naturally. Works for a weeknight side or throws onto a summer dinner spread without thinking twice. The bundles actually stay together — no spears dropping through the grates like last time you tried this.
+
+Charred edges. Tender middle. Snaps when you bite. Not mushy. The rosemary needles crisp up and kind of perfume everything around them.
+
+Cold the next day, maybe better. Squeeze of lemon if you want. Doesn't need it.
+
+## What You Need for Rosemary Skewered Asparagus
+
+Eighteen medium-thick green asparagus. Not the skinny ones. Thick enough to get some char without turning to mush. Snap the woody ends off first — they'll break right where they're supposed to if you bend them.
+
+Six rosemary sprigs. Strip the lower needles, leave the top bushy part. Those become your skewers and they actually work better than metal — the wood chars slightly and the aroma goes into the asparagus as everything cooks.
+
+Garlic-infused olive oil. Three tablespoons. Regular olive oil works but you lose the garlic punch. Coarse sea salt. Freshly cracked black pepper. Red chili flakes if you want heat — optional but they belong here.
+
+## How to Make Grilled Asparagus Bundles
+
+Heat the grill on high. Brush the grates with oil until they're slick. You'll hear a faint sizzle when you touch the metal. Good sign. Small wisps of smoke mean it's ready.
+
+Strip the lower needles off each rosemary sprig. Leave maybe two inches of needles at the top — that's your grip, that's what seasons the bundle as it cooks. The woody stem underneath is what threads through and holds everything together.
+
+Grab five spears. Thread one just below the spearhead. Place the next near the base. Alternate the direction slightly to keep them snug against each other. Now push the rosemary stick through the center of the bundle, horizontal, binding them like a raft. This prevents them from slipping between the grates and disappearing into the fire. Tried stacking them loose once. Spears fell straight through. Never again.
+
+## How to Get Charred Asparagus With Garlic Oil
+
+Brush the bundles generously with garlic oil. It pools in the crevices, smells herbaceous and sharp. Sprinkle coarse salt over top. Crack some pepper on there. Red chili flakes? A pinch. Optional. Let them sit for a minute — the oil soaks into the fibrous exterior. Don't skip this part.
+
+Place bundles directly over the hottest part of the grill. Expect a satisfying hiss the second they touch the metal. Watch for the bright green to shift glossy, dark grill marks forming across the length. The bottom edges start softening but should still hold some crunch. Four to five minutes. Don't flip constantly. Asparagus cooks unevenly if you keep messing with it.
+
+Flip gently using tongs. Hold the bundle firmly by the rosemary skewer — if it wobbles or the spears shift, regroup it before flipping. Another four to five minutes on the second side. Flames might lick the tips. Good sign. That's char not burn, concentrated heat, aroma from the charring. You'll hear intermittent pops from moisture escaping. That's normal.
+
+## Grilled Asparagus Tips and Common Mistakes
+
+Remove bundles carefully. Serve immediately or let them sit two to three minutes. The warmth calms the fresh snap fiber tension but keeps them crisp.
+
+The rosemary sprigs can stay on the plate or come off — depends on preference. For texture variation, squeeze lemon over top after plating. Toasted almonds work too. Don't drown it with dressing.
+
+Too thin and limp? Increase grill time by a minute. Watch the color and firmness. Thicker stalks might need the full five minutes per side or slightly more. Thinner ones need closer watching — they'll flip from perfect to mush fast.
+
+Charred ends? Move the bundles slightly off direct flame toward the cooler edges. Controls the intensity. No grill? Use a grill pan or oven broiler on high. Flip every three minutes and watch closely.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Asparagus Spears With Herb Skewers
+
+**Can I use a grill pan instead of an outdoor grill?**
+Yeah. Medium-high heat. Same timing, same results mostly. Watch it closer — indoor heat is more concentrated. Flip every three minutes instead of once halfway through.
+
+**What if the rosemary is too thick to thread through?**
+It will be. Use the pointy end or sharpen it a bit with a knife. Doesn't have to be perfect — just needs to hold the bundle together. A thin bamboo skewer works too if you have it.
+
+**Can I prep these the night before?**
+Bundle them yes. Don't oil them until you're about to grill. Oil sits overnight and gets weird. Everything else keeps fine in the fridge covered.
+
+**How do I know when they're actually done?**
+The spears bend but don't snap. The tips are glossy with char marks. Bite one — should be tender in the middle with some resistance. Not limp. Not crunchy like raw.
+
+**Does garlic-infused oil actually matter?**
+You can use regular olive oil. Garlic oil is better. It's like the difference between a vegetable side and something you actually want to eat. Not huge but noticeable.
+
+**What if my asparagus are really thin?**
+They'll cook in maybe three minutes per side. The thinner they are the faster they go from perfect to mushy. Stay close to the grill. Thicker spears give you more forgiveness.
