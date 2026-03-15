@@ -1,9 +1,9 @@
 ---
 title: "Air Fryer Grilled Cheese with Mayo"
 slug: "air-fryer-mayo-grilled-cheese"
-description: "Mayo-slicked grilled cheese in air fryer gets golden crispy outside, gooey melted cheese inside. Skip the skillet, no butter needed. Ready in under 9 minutes."
-metaDescription: "Air fryer grilled cheese recipe with mayo for crispy golden bread and melted cheese. Fast, easy, no skillet required. Try it tonight."
-ogDescription: "Golden, gooey air fryer grilled cheese made with mayo instead of butter. Crispy bread, melted cheese, zero skillet mess."
+description: "Air fryer grilled cheese made with mayo-slicked bread, sharp cheddar and mozzarella cheese for a golden crispy outside and gooey melted inside. Ready in 9 minutes."
+metaDescription: "Air fryer grilled cheese with mayo, cheddar and mozzarella gets crispy outside and gooey inside in under 9 minutes. Make it tonight."
+ogDescription: "Golden crispy grilled cheese sandwich made in the air fryer with mayo, cheddar and mozzarella. Ready in minutes."
 focusKeyphrase: "air fryer grilled cheese"
 date: 2025-12-11
 draft: false
@@ -24,13 +24,13 @@ keywords:
 - "air fryer grilled cheese"
 - "air fryer cheese sandwich"
 - "grilled cheese in air fryer"
+- "cheese toast in air fryer"
 - "air fryer toastie"
 - "air fryer cheese toast"
-- "cheese sandwich air fryer"
-- "air fry grilled cheese"
+- "grilled cheese sandwich air fryer"
+- "air fryer toasted cheese sandwich"
+- "toastie air fryer"
 - "air fryer grilled cheese recipe"
-- "toasties air fryer"
-- "cheese on toast air fryer"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "370"
@@ -68,3 +68,75 @@ faq:
 - "q: How should I store leftovers? a: Wrap airtight in fridge. Reheat low-temp air fryer or toaster oven to bring back crisp without drying. Microwave makes bread soggy fast. Eat within a day or two for best texture and taste."
 
 ---
+
+Mayo on every slice—not butter. That's the whole secret right there. Slather it thick because mayo crisps in ways butter just won't, and you want that crust to actually snap when you bite it. Takes 15 minutes total. Air fryer does the work.
+
+## Why You'll Love This
+
+Takes 6 minutes to prep, 9 to cook. Done.
+Comfort food that doesn't require a stovetop or a pan you have to babysit. Just set it and walk away.
+The cheese gets actually melty in the middle—not separated, not broken. Stays together.
+Mayo makes it crispier than any other method. Not greasy. Just crunchy all the way through.
+Works for lunch, dinner, snack at midnight when nothing else sounds good.
+
+## Air Fryer Cheese Sandwich Setup
+
+Hearty white bread or sourdough. Nothing soft—it falls apart. Mayo on one side of all four slices. Don't hold back. This is where the crispness comes from, and skipping it makes the whole thing worse.
+
+Sharp cheddar mixed with mozzarella. The cheddar gives you tang. The mozzarella melts smooth without breaking. Four ounces total, divided between two slices, kept away from the edges so it doesn't slide out when you flip. 
+
+You could use just cheddar. Melts fine. But it gets stringy sometimes. You could use just mozzarella. Gets bland. This mix works. Trust it.
+
+Parchment paper in the basket. Stops sticking. Stops the grease mess. Optional but smarter.
+
+## How to Air Fry Grilled Cheese Right
+
+Preheat to 375. Lower it to 365 if your bread's thin or your fryer runs hot—you'll know after the first one whether you need to dial it back.
+
+Lay the bread mayo side down on the cutting board. Cheese goes on two of the slices. Top each with another slice, mayo side facing up. This matters. Mayo outside, cheese protected inside.
+
+Into the basket. Parchment first. Both sandwiches fit fine if they don't overlap.
+
+Five minutes on the first side. You're waiting for deep golden crust, the kind that actually crackles a little when you touch it. The cheese edges start bubbling—not running yet, just starting. That's your signal.
+
+Flip with a spatula. Not your fingers. Spatula. Three to four minutes more. Watch for the color to go dark golden, almost tan. Press it gently with the spatula—it should flex slightly, which means the cheese inside is actually molten and not just warm.
+
+Pull it out. One to two minutes rest. Sounds wrong because you want to eat it now, but that minute lets the cheese settle just enough that it doesn't pour straight out when you bite down. Still hot though.
+
+Slice diagonally. This matters more than it sounds—something about the angle makes it easier to hold without the cheese escaping sideways. Serve immediately because the crust loses its snap as it cools.
+
+## Common Air Fryer Grilled Cheese Mistakes
+
+If cheese leaks through the basket, clean it right after. Burned cheese stuck to the mesh is its own problem.
+
+Cheese running out? Lower the temperature 10 degrees and cut the cook time by a minute. Browning too fast but cheese still cold in the middle? Same problem—it's cooking too hot, too quick. The outside goes before the inside gets there.
+
+Too much cheese is possible. Four ounces between two slices is the max before it starts sliding. More than that and it will find a way out.
+
+Soft bread and air fryer grilled cheese don't work together. The crust won't form. You'll get a warm bread sandwich with melted cheese, which sounds fine until you eat it and realize it's just mush.
+
+Butter instead of mayo means less crispness. People swear by butter for grilled cheese. Different method. Different result. This is mayo territory.
+
+Stacking the sandwiches? They steam. Don't do that.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions
+
+**Can you make air fryer cheese toastie with different bread?**
+Sourdough and hearty white are best. Whole wheat works if it's dense. White bread from a bag gets too soft. Doesn't hold up.
+
+**Does air fry grilled cheese work with butter instead?**
+It works. You get less crunch. Mayo just crisps better in the heat. If you're out of mayo, melted butter's fine—brush it on thin.
+
+**How long does it take to make an air fryer cheese sandwich?**
+6 minutes prep. 9 minutes cooking. 15 total. That's real time, not marketing time.
+
+**What cheese is best for grilled cheese in air fryer?**
+Sharp cheddar and mozzarella mixed. The cheddar tastes like something. The mozzarella actually melts. Cheddar alone gets stringy. Mozzarella alone tastes like nothing.
+
+**Can you add tomato or bacon to air fryer toastie?**
+Bacon, yes. Cook it first, put it inside. Tomato—only if you dry it out somehow, otherwise it steams the bread and you lose the crunch. Not worth it.
+
+**What temperature for air fryer cheese toast?**
+375 if your bread's normal thickness. Drop to 365 if it's thin or your fryer runs hot. You'll figure it out after the first one.
