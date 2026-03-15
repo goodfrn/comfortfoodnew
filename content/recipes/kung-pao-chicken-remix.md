@@ -1,10 +1,10 @@
 ---
-title: "Kung Pao Chicken Remix"
+title: "Kung Pao Chicken with Snap Peas"
 slug: "kung-pao-chicken-remix"
-description: "Chicken marinated with slightly less cornstarch, soy layers rebalanced. Bell peppers swapped for snap peas — crunch with subtle sweetness. Sauce stirred with tamari replacing soy for deeper umami. Marinating short, stir-fry steps shifted; timing loosened reflecting texture rather than clock. Peanuts remain, but toasted on pan edge for aroma swap. Cooking temperature cues, sizzle and color changes spotlighted. Tips on baking soda overuse, balancing sauce thickness, and alternate nuts share kitchen-tested wisdom. Seasoned cook’s intuition dripping through timing guesses and fallback moves for wet ingredients or dry peppers."
-metaDescription: "Kung Pao Chicken Remix with snap peas, toasted peanuts, and tamari. Marinate smart, watch for sizzle, catch crisp edges. Flavor, texture, timing reworked."
-ogDescription: "Sizzle, crunch, umami punch. Chicken tenderized with baking soda, snap peas swapped for peppers, peanuts toasted on pan edge, sauce thickens just right."
-focusKeyphrase: "Kung Pao Chicken Remix"
+description: "Kung pao chicken with snap peas, roasted peanuts, and tamari soy sauce. Tender chicken thighs marinated in cornstarch and shaoxing wine, stir-fried with garlic, ginger, and dried chiles for bold umami flavor."
+metaDescription: "Make kung pao chicken with snap peas and roasted peanuts tonight. Chicken thighs marinated in tamari soy sauce, cornstarch, and shaoxing wine. Easy stir-fry dinner. Try it tonight."
+ogDescription: "Kung pao chicken with snap peas, roasted peanuts, and tamari soy sauce. Bold, crispy, and packed with umami flavor."
+focusKeyphrase: "kung pao chicken"
 date: 2025-12-18
 draft: false
 image: kung-pao-chicken-remix.jpg
@@ -21,12 +21,15 @@ tags:
 - "easy dinner"
 - "peanut butter"
 keywords:
-- "Kung Pao chicken"
-- "stir fry chicken"
-- "Chinese cooking"
-- "snap peas"
-- "toasted peanuts"
-- "tamari sauce"
+- "kung pao chicken"
+- "asian chicken stir fry"
+- "spicy peanut chicken"
+- "kung pao chicken with snap peas"
+- "tamari soy sauce chicken stir fry"
+- "easy weeknight chicken dinner"
+- "chicken thighs stir fry"
+- "asian chicken dinner for two"
+- "crispy chicken thighs with hoisin and sesame"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"
@@ -81,3 +84,85 @@ faq:
 - "q: Can leftovers be reheated? a: Not really crisp after fridge. Soggy edges common. Microwave safe but textures weaken. Reheat gently in pan if possible but fresh is best for that sizzle, pop, aroma. Sauce thickens over time."
 
 ---
+
+Spread chicken pieces in a hot wok — don't crowd them. They need room to crisp, not steam. That's the whole thing right there.
+
+## Why You'll Love This Asian Chicken Stir Fry
+
+Takes 34 minutes total if you move. Prep 12, cook 22. That's it.
+Chicken thighs stay juicy even when you're not careful, which helps.
+Spicy peanut chicken that doesn't taste like takeout because you're not using bottled sauce — you built it in the pan.
+Works as an easy weeknight chicken dinner on a Tuesday when you have nothing planned, or a Friday when you want something faster than delivery.
+The sauce clings instead of pooling. That matters more than people think.
+
+## What You Need for Spicy Peanut Chicken
+
+Chicken thighs. A pound, boneless skinless, cut into chunks. Dark meat stays tender, doesn't dry out like breast does. Baking soda in the marinade sounds weird — it is — but it keeps edges from getting tough. Use half a teaspoon. More and it gets slimy.
+
+Tamari and soy sauce. Two teaspoons tamari, two tablespoons soy. Why both? Tamari's softer. Soy's sharper. Together they taste like something actually happened to the chicken.
+
+Shaoxing wine twice — once in the marinade, once in the sauce. Dry sherry works if you can't find it. Tastes slightly different but not worse.
+
+Cornstarch in the marinade and the sauce — gets cut slightly in the sauce so it thickens without turning gluey. One tablespoon for the chicken, one teaspoon for the pan. Rice vinegar, hoisin, sesame oil. Brown sugar. That's your sauce structure. Whisk it and let it sit.
+
+Snap peas instead of peppers — crunch holds up better. Celery. Garlic. Ginger. Green onions. Roasted peanuts. Dried red chiles — six to eight depending on how much heat you actually want. Vegetable oil for the pan.
+
+## How to Make Asian Chicken Stir Fry
+
+Toss chicken with half a teaspoon baking soda and one tablespoon cornstarch. Rough toss, not delicate. Pour in one tablespoon shaoxing wine and two teaspoons tamari. Toss again until everything's coated and slick. Let it sit. Eight to twelve minutes. Don't go longer — the cornstarch starts breaking down and your coating comes off in the pan instead of staying on the chicken.
+
+While it rests, get your vegetables cut. Snap peas. Celery sliced thin. Garlic minced. Ginger minced. Green onions chopped — white and light green parts, save the dark stuff for later if you want. Peanuts measured out. Chiles sitting somewhere you can grab them.
+
+Whisk the sauce. Two tablespoons soy sauce, one tablespoon rice vinegar, one tablespoon shaoxing wine again, one and a half teaspoons brown sugar, one tablespoon hoisin, one teaspoon sesame oil, one teaspoon cornstarch. Whisk it until the cornstarch dissolves mostly. It should look like something you'd actually want to eat, not like flour paste.
+
+## How to Get Kung Pao Chicken Crispy and Balanced
+
+Heat your wok or largest skillet over medium-high. Add three tablespoons vegetable oil. Watch it. When it shimmers and almost smokes — that specific moment where you're not sure if it's about to catch — it's ready. Temperature matters here because cold oil means steamed chicken, and you don't want that.
+
+Spread the chicken pieces out immediately when they hit the pan. Spread them. Don't stir. Don't touch them. Let them sit for two and a half minutes. You'll hear it popping. You'll watch the edges turn gold. That's crisping. That's what you waited for.
+
+Flip everything. Cook the other side another two to three minutes. Chicken puffs up when it's close to done, feels firm but still gives a little when you push it. Remove it to a plate. Tent it loosely with foil — loosely, not tight, because trapped steam makes it go soft.
+
+Same pan. Add snap peas and celery. That sizzle should still sing. Stir briskly for five to six minutes. You want them softening but still snapping under your teeth, color bright green, not dull. Now here's where it gets fast. Toss in garlic, ginger, green onions, the dried chiles, the peanuts. Push everything toward the edges so peanuts toast from the side heat without burning. Twenty to thirty seconds. That's how long fragrance takes to hit.
+
+You'll smell it. Garlic goes gold, ginger sweet, chiles release this dry heat into the air. Stop before the garlic turns brown and bitter. Bitterness ruins everything.
+
+Pour the sauce over chicken and vegetables. Toss carefully. Sauce should thicken and bubble within four to five minutes. Watch for glossy sheen on the back of a spoon — that's the signal you've got the texture right. Not gloopy. Not watery. Watch it.
+
+If it's reducing too fast, lower heat to low-medium. If it's thickening too early, dial back the heat immediately. Serve over steamed rice. Rice is essential. It balances the spice and catches the sauce.
+
+## Easy Weeknight Chicken Dinner Tips and Fixes
+
+Chicken overcooks and toughens sometimes. Use thigh meat always — it forgives you more than breast does. If it happened, it happened. Next time pull it off one minute sooner.
+
+Peanuts can stick or burn if the heat's too high on that initial toast. Pre-toast them separately on a dry pan if you're worried. Just doesn't matter much either way.
+
+Dried chiles vary in heat. Six will be medium. Eight will be spicy. Taste the sauce and adjust before serving if you need to.
+
+Shaoxing wine — if you can't find it, dry sherry works fine. Omit it if neither's around, but the sauce loses something. Not ruined, just less complex.
+
+Walnuts or cashews instead of peanuts. Works. Same amount. Toast them the same way.
+
+Baking soda in the marinade sounds sketch because it is, a little bit. But it works. Half a teaspoon. Don't go rogue and add more — you'll get slimy edges that feel wrong in your mouth.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Kung Pao Chicken with Peanut Butter Sauce
+
+**Can I use chicken breast instead of thighs?**
+You can. Doesn't work as well. Breast dries out faster even with the baking soda trick. Thigh stays juicy because there's actual fat in it. If you're using breast, pull it off heat a full minute sooner than the recipe says.
+
+**What if I don't have shaoxing wine?**
+Dry sherry. Same amount. Or honestly, just skip it and use more soy sauce — one extra tablespoon. Won't be quite the same but it's not ruined.
+
+**Does the sauce thicken more as it sits?**
+Yeah. It gets slightly thicker as it cools. If you're eating it right away it'll be looser. If you're holding it warm for a bit it tightens up. Plan accordingly.
+
+**Can I meal prep this?**
+Not really. Chicken gets soft from sitting in sauce, peanuts go mushy, snap peas get sad. Make it fresh and eat it fresh. Thirty-four minutes isn't long.
+
+**How spicy is this actually?**
+Depends on the chiles. Most dried red chiles are medium heat. Eight of them gets you warm, sweating a little. Four gets you flavor without the punch. Start with six and taste it — you can't un-spice it.
+
+**What soy sauce substitute should I use?**
+Tamari if you need gluten-free, which is what the recipe calls for. Coconut aminos if you're avoiding soy entirely — tastes different, sweeter, but it works. Regular soy sauce obviously works too if you're not avoiding it.
