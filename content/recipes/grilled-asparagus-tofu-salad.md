@@ -1,10 +1,10 @@
 ---
 title: "Grilled Asparagus Silken Tofu Salad"
 slug: "grilled-asparagus-tofu-salad"
-description: "A vibrant vegetarian salad combining grilled asparagus, tender silken tofu, radish, and red onion with a robust mustard-honey vinaigrette loaded with fresh herbs, olives, and pumpkin seeds. Quick grilling brings out smoky notes; the vinaigrette balances tartness and sweetness. No nuts, gluten-free, dairy-free, and egg-free. A main dish or light meal rich in protein and texture contrasts, served fresh with crispy kale and a sprinkle of fleur de sel."
-metaDescription: "Grilled Asparagus Silken Tofu Salad combines smoky flavors and fresh textures with a robust vinaigrette. Perfect for a healthy meal."
-ogDescription: "Discover a vibrant salad with grilled asparagus and silken tofu, dressed in a mouthwatering vinaigrette. Healthy and delicious."
-focusKeyphrase: "Grilled Asparagus Silken Tofu Salad"
+description: "Grilled asparagus silken tofu salad with radish, kale, pumpkin seeds, and olives. Mustard-honey vinaigrette with lemon brings bright flavor to this protein-rich vegetarian main."
+metaDescription: "Grilled asparagus silken tofu salad featuring radish, kale, pumpkin seeds, and olives with mustard-honey lemon vinaigrette. Vegetarian, gluten-free, dairy-free. Make it tonight."
+ogDescription: "Vibrant vegetarian salad: grilled asparagus, silken tofu, radish, kale, pumpkin seeds, olives with mustard-honey lemon vinaigrette."
+focusKeyphrase: "grilled asparagus salad"
 date: 2025-07-24
 draft: false
 image: grilled-asparagus-tofu-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "healthy"
 - "asparagus"
 keywords:
+- "grilled asparagus salad"
 - "asparagus salad"
-- "tofu recipes"
-- "vegan dishes"
+- "vegetarian salad"
+- "silken tofu salad"
+- "asparagus salad with pumpkin seeds and olives"
+- "grilled asparagus with tofu and radish"
+- "mustard vinaigrette salad"
+- "vegetarian grilling recipes"
+- "lemon vinaigrette"
+- "gluten-free salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -75,3 +82,87 @@ faq:
 - "q: Any substitutes for ingredients? a: Yes plenty. Use romaine for kale. Swap olives for different ones if unavailable. Adjust other herbs as you like it too."
 
 ---
+
+Grill's already hot. Throw the asparagus on. Fifteen minutes and you've got something that tastes like actual food — not a salad that apologizes for itself.
+
+## Why You'll Love This Grilled Asparagus Silken Tofu Salad
+
+Takes 35 minutes total. Seriously. Prep is maybe 20, cooking's 15, and most of that you're just standing there watching things char.
+
+Vegetarian grilling that doesn't feel like you're eating around the meat. Tofu's soft. Asparagus gets crispy on the outside. Radishes go sweet and tender in the wok. They work together.
+
+The vinaigrette. Lemon, mustard, toasted pumpkin seeds — it's the kind of thing you'll make again for other salads and forget where it came from.
+
+Healthy but not punishing. No weird ingredients. Stuff you probably have or can grab in ten minutes.
+
+## What You Need for Grilled Asparagus with Tofu and Radish
+
+The vinaigrette is where everything happens. Olive oil, lemon zest and juice, grainy mustard — that's your base. Then chives, parsley, sun-dried black olives finely chopped. Pumpkin seeds. Lightly toasted, crushed up. They get grainy when you bite them. Agave syrup. Just enough to round it out. Salt and pepper after.
+
+Asparagus. Five hundred grams. Trimmed. Thin ones cook faster. Thick ones get tender all the way through. Either works.
+
+Silken tofu. Room temperature. Tear it into chunks — don't cut it. Tearing keeps it soft.
+
+Radishes. Fifteen small ones. They get sweeter when you grill them. Seriously.
+
+One medium red onion, quartered. And kale. Shredded curly kind. Two hundred and eighty grams.
+
+Fleur de sel at the end. Finish with that, not regular salt.
+
+## How to Make Grilled Asparagus Salad
+
+Start with the vinaigrette. Bowl. Combine the olive oil, chives, parsley, those finely chopped sun-dried olives, pumpkin seeds you've already toasted and crushed, grainy mustard, agave. Lemon zest and juice. Whisk it. Not gently. Aggressive. You want it uniform. Season with salt and pepper. Set it aside.
+
+Get the grill ready. Barbecue wok on one side, medium-high heat. Oil the grate on the other side. Let it get hot.
+
+Toss the asparagus, radishes, and onion quarters with olive oil, salt, and pepper on a platter. Coat them. Everything should glisten.
+
+Radishes and onion go in the wok first. Ten to twelve minutes. Stir often. You're looking for charred edges. The vegetables soften. They'll go from raw to almost falling apart.
+
+Asparagus hits the grate at the same time. Turn it. Regularly. Six to seven minutes. It should be tender but still firm. Not mushy. Not raw either.
+
+## How to Get Grilled Asparagus Radish Salad Crispy and Tender
+
+The trick is two cooking zones. Radishes and onion can take the indirect heat and moisture of the wok — they soften slowly, develop char. Asparagus needs direct flame. Fast. High heat. That gives you the crispy outside.
+
+Don't stack the asparagus on the grate. Lay it out. Single layer. Room between each spear. They'll steam if you crowd them. They won't get that char.
+
+The radishes. Let them sit. Don't move them constantly. You want a flat side to caramelize. Then turn. Then another flat side chars. Movement's fine but not every ten seconds.
+
+Watch the asparagus. The moment the tips start to wrinkle slightly and go darker — that's done. Not when they're soft all the way through. That's overdone.
+
+## Grilled Asparagus Salad Tips and Common Mistakes
+
+If your radishes are huge, halve them before cooking. Small ones stay whole. Matters for even cooking.
+
+Tofu stays room temperature. Don't grill it. It'll fall apart and also doesn't need it.
+
+The lemon vinaigrette salad needs the mustard or it's just oil and acid. Don't skip it.
+
+Kale goes under everything. It'll wilt slightly from the warm vegetables on top. That's the point. Raw kale gets stuck in your teeth.
+
+The fleur de sel — finish with it, not mixed in. It adds texture. Crunch. Salt on regular kale is salt. Fleur de sel on warm asparagus and soft tofu tastes like something.
+
+Tried it with sherry vinegar once instead of lemon. Too thick. Not bright enough. Stick with lemon.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Asparagus Salad
+
+**Can I make this vegetarian grilling recipe ahead?**
+The vinaigrette holds overnight. Make it the day before if you want. Don't grill anything until you're ready to eat. Tofu stays soft longer if it's not under warm vegetables.
+
+**What's the best way to prep asparagus for grilling?**
+Trim the bottom inch. Toss with oil. That's it. Don't peel them.
+
+**How do I know when grilled asparagus is done?**
+Tender but still firm. The skin wrinkles a tiny bit. When you bend it, it bends — doesn't snap.
+
+**Can I use a different type of tofu?**
+Silken's soft. That matters here. Firm tofu works but it's not the same dish. Different texture entirely.
+
+**Should I grill the kale or use it raw?**
+Raw. Grilling it burns it. Just lay it down cold.
+
+**What if I don't have a barbecue wok?**
+Use a cast iron skillet on the grill grate. Same thing. Radishes and onion cook indirect heat that way.
