@@ -1,10 +1,10 @@
 ---
-title: "Citrus Lime Rice"
+title: "Citrus Lime Rice with Basmati & Cilantro"
 slug: "citrus-lime-rice"
-description: "Fragrant basmati rice infused with zesty lime and honey undertones. Cooked in spiced vegetable broth for depth. Shallots replace onions for a milder sweetness. Fresh cilantro swaps green onions for an herbal burst. Citrus twist with orange zest added alongside lime. Light oil for toasting brings nuttiness without browning. Balance of sweet, sour, and savory in a simple side. Flexible technique focused on sensory cues, not rigid timing. Adaptable to glutenfree, dairyfree needs. Substitutions for broth and sweeteners noted. Texture tacky but separate grains. Herbal brightness and citrus aroma complete dish."
-metaDescription: "Citrus Lime Rice with zesty lime and orange zest, toasted basmati in light oil; maple syrup for subtle sweet. Fresh herbs stirred last for bright herb aroma."
-ogDescription: "Zesty basmati rice toasted in light oil; maple syrup, citrus zests bring punch. Fresh shallots and cilantro folded in last keep herbs vibrant. Great side for grilled fare."
-focusKeyphrase: "Citrus Lime Rice"
+description: "Fragrant citrus lime rice made with basmati, fresh cilantro, and lime juice. Cooked in vegetable broth with shallots and orange zest for a bright, herbal side dish."
+metaDescription: "Make citrus lime rice tonight with basmati, cilantro, lime juice, and orange zest. Easy vegetarian pilaf cooked in vegetable broth. Try it tonight."
+ogDescription: "Fragrant basmati rice infused with lime juice, cilantro, and orange zest. Simple vegetarian side with vegetable broth and shallots."
+focusKeyphrase: "citrus lime rice"
 date: 2025-08-08
 draft: false
 image: citrus-lime-rice.jpg
@@ -21,9 +21,16 @@ tags:
 - "side dish"
 - "easy"
 keywords:
-- "basmati rice"
-- "lime zest"
-- "maple syrup"
+- "citrus lime rice"
+- "lime rice recipe"
+- "basmati rice side dish"
+- "fragrant cilantro lime rice pilaf"
+- "easy basmati rice with lime"
+- "citrus infused rice"
+- "shallot lime rice with vegetable broth"
+- "basmati rice with lime juice and cilantro"
+- "vegetarian rice pilaf"
+- "maple syrup basmati rice with orange zest"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "210"
@@ -67,3 +74,97 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, store airtight in fridge 3-4 days max. Reheat gently with splash water to loosen grains. Freezing possible but texture suffers, grains clump. Best to consume soon for texture and flavor retention."
 
 ---
+
+Rinse the rice first. Water runs clear, then stop. Toast it in the pan before the broth hits — that's where the nutty thing happens. Basmati rice with lime and orange zest, cilantro at the end. Takes 35 minutes total and it works as a side dish for everything.
+
+## Why You'll Love This Citrus Lime Rice
+
+Eight minutes of prep. That's it.
+Works cold the next day. Maybe better cold. The flavors sit overnight and get louder.
+Vegetarian, obviously. But tastes like it went somewhere. The maple syrup and citrus zests make it feel intentional.
+One pot. One saucepan. No extra cleanup.
+Pairs with literally anything — fish, roasted vegetables, grilled chicken. Doesn't try to be the main event.
+
+## What You Need for Easy Basmati Rice with Lime
+
+Basmati rice. Two cups. The grains stay separate — that matters here. Other rice gets mushy.
+
+Light olive oil or avocado oil. A tablespoon. Not extra virgin. Burns too fast. Not worth it.
+
+Vegetable broth. Three cups. Could use water, but broth keeps it from tasting like nothing. Boxed broth works fine.
+
+Maple syrup. One tablespoon. Balances the acid. Not sweet. Just rounds it out.
+
+Lime. One whole lime. Get the zest first — about two teaspoons. Then juice it at the end. Fresh only. Bottled tastes wrong.
+
+Orange. Half an orange. Just the zest. The citrus adds dimension without screaming "citrus."
+
+Shallots. Two, finely chopped. Not onion. Shallots are sweeter and they disappear better. Go through the food processor if you want them really small.
+
+Fresh cilantro. Three tablespoons, roughly chopped. Add it after heat stops. Cold cilantro tastes different. Fresher.
+
+White pepper. Not black. Doesn't fleck the rice. Salt too — use it sparingly because the broth is already salty.
+
+## How to Make Citrus Infused Rice
+
+Rinse the basmati rice under cold water. Stir it with your fingers. Watch the water go from milky to almost clear. Takes maybe two minutes. Drain it completely — excess water means mushy rice. No good.
+
+Heat the oil in a heavy saucepan on medium-low. Not hot yet. Just warm. Drop the rice in. Stir it around gently for about three minutes. You're toasting it. The grains should start to shimmer and smell nutty — like popcorn almost. Don't let it brown. That's the point where it goes from toasted to burned.
+
+Pour in the vegetable broth. Add the maple syrup. Scatter the lime zest and orange zest right over the top. Season with salt — go light, the broth is already salty — and white pepper. Just a pinch.
+
+Bring it to a lively simmer. You'll see bubbles breaking the surface steadily but not violently. That's the right level. Then — and this matters — lower the heat to absolute minimum. The lowest setting your stove has.
+
+Cover it tight. Do not lift the lid. This is where people mess up. You lift it once to check and the steam escapes and the rice doesn't cook evenly. Just don't. Let it sit for 18 to 22 minutes depending on how weird your stove is. After about 18 minutes you'll smell it. Sweet. Citrusy. That's how you know it's working.
+
+## How to Get Basmati Rice with Lime Juice Perfectly Tender
+
+After 18 minutes, lift the lid quick and test one grain. Squeeze it between your teeth. Should be tender all the way through but still have a tiny bit of resistance. Not crunchy. Not mushy. That middle ground.
+
+If it's still crunchy, cover it again for two more minutes. If it's already soft, turn off the heat.
+
+Turn off the heat. Leave it covered for another five to seven minutes. This sitting time — people skip it and it's a mistake. The rice keeps steaming gently. The moisture redistributes. The texture gets better. Actually better.
+
+Then fluff it with a fork. Don't stir aggressively. Just separate the grains. Add the chopped shallots and cilantro. Mix it through. The herbs are cold and they'll wake up the rice. Works warm or cold.
+
+Squeeze fresh lime juice over everything right before serving. Taste it. Check the salt. White pepper if you want it. The cilantro adds fresh bite so you might need less seasoning than you think.
+
+## Citrus Lime Rice Pilaf Tips and Common Mistakes
+
+Don't skip the rinsing step. People do and then their rice is sticky and broken. Grit stays in there too.
+
+The toasting matters. That three minutes when the rice is in the dry pan — that's where the flavor starts. Skip it and it tastes like regular rice.
+
+White pepper, not black. Black pepper flecks look wrong in white rice. White pepper dissolves into it.
+
+Shallots are softer than onion. They cook into the rice and you almost don't notice them. Onion stays too pronounced.
+
+Don't lift the lid while it's cooking. The steam does the work. You let it out and it takes longer and the rice gets uneven.
+
+The final rest is real. Five to seven minutes covered off heat. This is when it becomes rice instead of just grains in liquid.
+
+Maple syrup instead of white sugar because it dissolves faster and doesn't create grittiness.
+
+Cold this rice is good. Better maybe. The cilantro flavor gets stronger overnight.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Basmati Rice with Lime Juice and Cilantro
+
+**Can I make this in a rice cooker?**
+Yeah. Same ratio. Two cups rice, three cups broth. Add the zests and maple syrup and salt before you close it. Cilantro and lime juice after. Works fine. Toast the rice in a pan first if you want that flavor.
+
+**How long does this keep?**
+Five days in the fridge. In an airtight container. Reheats okay in the microwave — add a tablespoon of water so it doesn't dry out.
+
+**What if I don't have white pepper?**
+Regular black pepper works. Just know it'll show. Salt tastes slightly different without white pepper but you adjust and it's fine.
+
+**Can I use regular white rice instead of basmati?**
+Not really. Regular rice gets mushy with citrus juice. Basmati stays separate. That's the whole thing.
+
+**Do I have to use maple syrup?**
+Honey works. White sugar works too but dissolves weird sometimes and leaves grit. Maple is smooth.
+
+**What pairs with fragrant cilantro lime rice?**
+Grilled fish. Roasted vegetables. Chicken. Shrimp. Whatever. It's a side dish. Doesn't demand anything specific.
