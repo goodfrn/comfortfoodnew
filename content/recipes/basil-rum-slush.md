@@ -1,10 +1,10 @@
 ---
-title: "Basil Rum Slush"
+title: "Basil Rum Cocktail with Lemon & Ginger"
 slug: "basil-rum-slush"
-description: "A refreshing cocktail with rum, herbs, and citrus. It uses fresh basil and lime juice. The drink has a slushy texture. Crunchy ice blended with alcohol. Perfect for cooling down on hot days. A vibrant mix of flavors. A tropical twist for gatherings. It can be made in minutes. Serve in a fun glass for visual appeal."
-metaDescription: "Basil Rum Slush A refreshing cocktail with rum and fresh basil. Perfect for hot days. Quick to mix and serve in a fun glass."
-ogDescription: "Basil Rum Slush A vibrant cocktail blending rum, basil, and ginger. Great for gatherings or cooling down. Simple and slushy texture."
-focusKeyphrase: "Basil Rum Slush"
+description: "Basil rum cocktail blended with ice, fresh lemon juice, and ginger. This refreshing summer drink combines light rum, agave syrup, and aromatic basil leaves for a tropical flavor that cools you down instantly."
+metaDescription: "Basil rum cocktail recipe with fresh lemon juice, ginger, and basil leaves. Light rum blended with ice for a refreshing summer drink. Make it tonight."
+ogDescription: "Refreshing basil rum cocktail with lemon juice, ginger, and ice. Perfect blended slush for hot days."
+focusKeyphrase: "basil rum cocktail"
 date: 2025-07-16
 draft: false
 image: basil-rum-slush.jpg
@@ -21,9 +21,14 @@ tags:
 - "drink"
 - "party"
 keywords:
-- "cocktail recipe"
-- "rum cocktails"
-- "summer drinks"
+- "basil rum cocktail"
+- "ginger basil rum cocktail"
+- "fresh basil lemon rum slush"
+- "rum slush recipe"
+- "summer rum drinks"
+- "party cocktails"
+- "basil lime rum drink"
+- "blended rum slush with basil and ginger"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "210"
@@ -66,3 +71,70 @@ faq:
 - "q: What if I have no blender? a: Consider shaking ingredients with ice. Use a shaker instead. Not the same, but doable. Or crush ice by hand. Mix vigorously. Effort but worth it."
 
 ---
+
+Tear the basil first. Six leaves, rough, not careful. Ginger sliced thin. Then ice, rum, lemon, agave, and blend until it's actually smooth—not chunky. Pour it into a cold glass and you're done.
+
+## Why You'll Love This Basil Rum Cocktail
+
+Takes 20 minutes total. Mostly ice and waiting.
+Summer drinks don't get easier than this. No shaker. No technique. Blender does the work.
+Party cocktails that taste like you tried. Doesn't feel like it though.
+Cold. Really cold. The kind that hits right when you need it.
+Tastes like summer if summer was a drink—basil, ginger, lime, rum all at once.
+
+## Fresh Basil Lemon Rum Slush Ingredients
+
+Basil. Tear it. Not slice it. Torn leaves give off more smell.
+Light rum. 45ml. White rum works. Darker stuff tastes heavier in a blender drink.
+Lemon juice. Fresh. Bottled doesn't have the same snap.
+Agave syrup. Not honey. Honey sits at the bottom. Agave dissolves.
+Ginger. One slice, actually sliced thin. Thick chunks don't break down right.
+Ice. 150g. That's about a cup. Cold glass helps—run water over it first, dump it out.
+
+## How to Make a Blended Rum Slush with Basil and Ginger
+
+Start with the ice. Dump it in the blender first. Sounds weird but it matters. Ice goes in, then everything else sticks to it instead of sliding around.
+
+Pour the rum on top of the ice. Then lemon juice. Then agave. The order doesn't actually matter that much, but wet stuff after ice works cleaner.
+
+Tear the basil and add it now. Six leaves. More if you want it aggressive. Less if basil's too much for you.
+
+Slice the ginger thin and drop it in. One slice is enough. Could do two if you like ginger—affects the flavor way more than you'd think.
+
+Blend it. High speed. Listen for it. When the sound changes from chunky to smooth, that's when it's done. Usually takes maybe 30 seconds. Maybe 45. Depends on your blender.
+
+## Party Cocktails: Basil and Ginger Rum Slush Tips
+
+Don't blend it too long or the ice gets thin and it separates. You want it slushy, not drinkable soup.
+
+Chill your glass before you pour. Cold glass keeps it cold longer. Just run it under cold water or throw it in the freezer for a minute.
+
+Fresh basil matters more than you'd think. Dried basil is pointless here. Doesn't work.
+
+Ginger breaks down differently than basil. It doesn't dissolve. You'll still feel the pieces. That's fine. That's kind of the point.
+
+If it's too thick, add a tiny bit of water. If it's too thin, add more ice. But frozen ice goes in the blender again, so maybe just use less agave next time.
+
+The basil leaf on top—that's not just decoration. Breaks off as you drink. Tastes different once it's been sitting in the rum for a few seconds.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Summer Rum Drinks
+
+**Can I make this without a blender?**
+No. Shaking it doesn't work. Ice stays chunky. You need the blender to actually smooth it out.
+
+**How long does it keep if I make it ahead?**
+Not long. Pour it and drink it. Twenty minutes sitting around and the ice melts, it gets watery. Not worth it.
+
+**Can I use lime instead of lemon?**
+Yes. Changes the flavor—a bit rounder, less sharp. Some people like it better. I like lemon more here because basil pairs weird with lime.
+
+**What if I don't have agave?**
+Simple syrup works. Honey works too but settles. Sugar doesn't dissolve fast enough in a blender. Just use whatever you have. It'll taste different but still good.
+
+**Do I have to use light rum?**
+Dark rum works but tastes heavier. Spiced rum makes it weird. Light rum is cleaner. Light rum is the move here.
+
+**Can I make a bigger batch and freeze it?**
+Tried it. Doesn't work. The basil gets weird when it thaws. Just make it fresh each time. Takes five minutes anyway.
