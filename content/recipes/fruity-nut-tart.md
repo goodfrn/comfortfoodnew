@@ -1,10 +1,10 @@
 ---
-title: "Fruity Nut Tart Remix"
+title: "Pecan Tart Bars with Marzipan & Toasted Nuts"
 slug: "fruity-nut-tart"
-description: "A tart packed with toasted mixed nuts and dried fruits, bound with almond paste now swapped for marzipan for added depth. Adjusted nuts quantity slightly, replaced rum with brandy for a different kick. Prebake crust longer for a crisper base. Cook times tweaked, steps shuffled for methodical layering. Emphasis on tactile cues like crust firmness and golden edges, plus aroma clues when nuts toast right. Practical notes on nut substitutes and saving a too-wet fruit mix. Bright orange zest lifts, subtle brandy warmth. Dairy cream inclusion keeps filling rich and stable despite longer bake. A dessert relying on sensory reads beyond clocks. Always room for personal twist or use leftover nuts/fruits."
-metaDescription: "Fruity Nut Tart Remix swaps marzipan for almond depth with brandy warmth. Toast nuts carefully; tactile cues guide timing for crunch and golden crust."
-ogDescription: "Crunchy nuts toasted just right, marzipan blended with fruit, brandy adds warmth. Watch crust firmness and aroma—no timers alone here."
-focusKeyphrase: "fruity nut tart"
+description: "Pecan tart bars layered with toasted walnuts, pistachios, cashews, dried cranberries, and marzipan. Orange zest and brandy add warmth to this rich, crisply-baked dessert."
+metaDescription: "Pecan tart bars recipe with toasted mixed nuts, marzipan, dried fruit, and brandy. Crispy pastry base meets creamy filling. Make it tonight."
+ogDescription: "Rich pecan tart bars with marzipan, toasted nuts, dried cranberries, and orange zest. A sensory dessert experience."
+focusKeyphrase: "pecan tart bars"
 date: 2025-09-26
 draft: false
 image: fruity-nut-tart.jpg
@@ -21,9 +21,18 @@ tags:
 - "walnut"
 - "vegetarian"
 keywords:
-- "nut tart"
-- "marzipan"
-- "toasted nuts"
+- "pecan tart bars"
+- "pecan nut tart"
+- "pecan nut tart recipe"
+- "walnut tart"
+- "marzipan tart"
+- "dried fruit tart"
+- "nut tart recipe"
+- "french walnut tart"
+- "caramel walnut tart"
+- "nutty tart"
+- "toasted nut tart"
+- "orange brandy tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "370"
@@ -69,3 +78,93 @@ faq:
 - "q: Best storage method? a: Cover tart loosely with foil or plastic wrap. Avoid condensation to keep crust crisp. Fridge keeps fresh days; leftover nuts go into oats."
 
 ---
+
+Scatter nuts on a baking tray first—toast them at 175°C for 8 to 10 minutes, watching the whole time. Smell matters more than the timer. When the edges darken and the aroma gets nutty, pull them out. Over-toast equals bitter, and bitter ruins everything. Cool them completely. This tart is actually just a vehicle for toasted nuts and dried fruit held together by custard and marzipan, so don't skip the cooling part.
+
+## Why You'll Love This Pecan Nut Tart
+
+Takes just over an hour start to finish. Sounds fancy. Isn't at all.
+
+Works cold straight from the fridge or warmed up—either way tastes better the next day, maybe even the day after that.
+
+The filling has nuts, dried fruit, marzipan all in one bite. Texture keeps changing. Crunch, then chewy, then the custard underneath.
+
+Vegetarian. No butter in the filling, just cream and eggs and brandy doing the work. Feels indulgent without being heavy about it.
+
+Slices clean if you use a sharp serrated knife. Doesn't crumble apart the second you cut it. That's the marzipan doing that.
+
+## What You Need for a Walnut Tart Like This
+
+Sweet pastry base—about 350 grams, already made or thawed. Doesn't matter much which brand. The filling carries the whole thing.
+
+Toasted nuts. Not raw. Walnuts, pistachios, cashews—mixed works better than just one. About 400 milliliters lightly crushed so they don't all turn to dust.
+
+Dried fruit. Cranberries, raisins, diced cherries, apricots. Pick whatever sounds good. 230 milliliters total. The tartness cuts the richness.
+
+Marzipan—200 grams chopped up. Sounds weird in a tart. Works anyway. Adds almond punch and binds everything without being obvious about it.
+
+One egg plus one yolk. Heavy cream at 35% fat—not the whipped kind. 45 milliliters of brandy at room temperature. Orange zest from one large orange because brightness matters.
+
+55 milliliters granulated sugar. That's it. The dried fruit and marzipan already bring sweetness.
+
+## How to Make a Nutty Tart That Doesn't Fall Apart
+
+Press the sweet pastry into a 23-centimeter square pan with a removable bottom. Work it into the corners and edges so it's firm and even. Dock it fully with fork holes—actual holes everywhere, not just a few. Chill for 35 minutes minimum. This step prevents shrinking. Don't skip it.
+
+Preheat the oven to 200°C with the rack in the middle. Parbake the crust for 12 minutes. Watch the edges turn golden. The base should feel firm but not browned yet. Remove it and let it cool. A soggy base later means the whole thing falls apart.
+
+Lower the oven temperature to 160°C. This is the baking temperature for the filling. Longer and gentler so the custard sets without cracking down the middle.
+
+Combine the toasted nuts and dried fruit in a large bowl. Add the chopped marzipan. Stir it around so nothing's clumped. Marzipan breaks up as you mix anyway.
+
+In a food processor or just a regular bowl, blend the sugar with the eggs until it looks glossy and slightly thickened. Add the cream, brandy, and orange zest. Mix until it's homogeneous. The brightness from the orange is the point here—don't skip that part either.
+
+Pour the wet mixture into the nut and fruit bowl. Stir gently but thoroughly. The whole thing should be chunky but cohesive. No dense clumps. That's how you know you're done.
+
+## How to Get This Dried Fruit Tart Golden and Set
+
+Fill the cooled tart shell with the mixture, spreading it evenly. It should hold its shape but not look stiff and dry. The surface should be glossy with nuts and fruit visible on top.
+
+Bake at 160°C for 30 to 35 minutes. The edges will bubble slightly. The top goes golden brown with a light caramelized sheen. Do the jiggle test—the center should wobble just a little when you move the pan. That wobble means it's set but not overbaked.
+
+Let it rest in the pan while it cools. The filling firms up as the temperature drops. Don't try to remove it hot. You'll regret it.
+
+{{< recipe-card >}}
+
+## Pecan Nut Tart Recipe Tips and Common Mistakes
+
+Dock the pastry base properly. Not just a few holes. Full coverage. The steam has to escape or the base stays damp and the filling never sets right. Fork holes work. A docking roller works better if you have one.
+
+Don't skip the parbake step. Twelve minutes. That's not optional. It sets the base so the filling doesn't turn it into soup.
+
+Nuts get bitter fast. Watch them the whole time they're toasting. 8 to 10 minutes at 175°C. Cool them completely before mixing. Warm nuts will start cooking the marzipan before it even hits the oven.
+
+The brandy is not optional. It's not about getting drunk. It adds warmth and depth. Tastes flat without it. If you absolutely can't use alcohol, use the same amount of orange juice instead. Not the same, but okay.
+
+Orange zest matters. Microplane it. Use the whole zest from one large orange. Fresh brightness against the richness. Makes sense when you taste it.
+
+Marzipan looks like a weird ingredient. It's not. It adds almond flavor, binds the filling, keeps it from being a puddle of eggs and cream. Use good marzipan if you can find it. Cheap stuff tastes like sugar with an almond hint.
+
+The filling should be slightly glossy when you pour it in. If it looks thick and stiff, add a splash more cream. If it looks too wet, it probably isn't—trust the bake time to do the work.
+
+Serve it cold from the fridge or warmed slightly. Cold brings out the nut flavors. Warm brings out the dried fruit. Pick your mood.
+
+## Frequently Asked Questions About Pecan Nut Tart Recipes
+
+**Can I use all pecans instead of mixed nuts?**
+Sure. Pecans work great. They're buttery and milder than walnuts. The tart just won't have that pistachio-cashew complexity. All walnut works too. Pick what you like.
+
+**How long does this keep?**
+Covered in the fridge, about five days. The filling stays moist. The pastry stays crispy underneath. After that it starts drying out. Leftover nuts and fruit? Toss them in oats or yogurt. Don't waste it.
+
+**Do I have to use brandy?**
+Orange juice works. The tart tastes brighter, less warm. Apple cider works. Tastes more fall-ish. The brandy is best but not irreplaceable.
+
+**Can I make this without marzipan?**
+Technically yes. You'll need to add more egg yolk—maybe one more—to get the binding right. The tart loses the almond depth. Not worth skipping it honestly.
+
+**What if the center still jiggles too much after 35 minutes?**
+Bake it five more minutes. Every oven runs different. If the top's already golden and the edges are set, five more minutes won't hurt. The center firms as it cools anyway. Don't panic about a slight wobble.
+
+**Can I freeze this?**
+Freeze it before baking, sure. Thaw it in the fridge overnight, then bake normally. Freezing after baking works too. Wrapped tight, it keeps about two months. Thaw at room temperature for an hour before serving.
