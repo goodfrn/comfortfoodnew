@@ -1,10 +1,10 @@
 ---
-title: "Cinnamon Plum Tart"
+title: "Cinnamon Plum Tart with Custard Cream"
 slug: "cinnamon-plum-tart"
-description: "Sweet tart with cinnamon custard and macerated plums on a buttery short crust. Pastry dough baked blind till golden, filled with rich spiced cream thickened vigorously on stove and chilled. Red plums thinly sliced, soaked briefly in simple syrup before layering. Careful texture contrast, balance of tart and sweet. A twist with lightly toasted almond flour replacing some wheat for extra crumb. Egg yolks and whole egg included for creamy custard body. Oven temp adjusted a bit lower to prevent overbrowning. Quick maceration of plums preserves tartness without sogginess."
-metaDescription: "Cinnamon Plum Tart with crumbly shortcrust, spiced custard, tart-sweet macerated plums. Almond flour twist adds moist crumb, slow bake keeps crust crisp."
-ogDescription: "Cinnamon Plum Tart with buttery crust, cinnamon-laced custard, and thin plum slices soaked in syrup. Chill well to meld flavors and set filling right."
-focusKeyphrase: "Cinnamon Plum Tart"
+description: "Elegant cinnamon plum tart features buttery shortcrust pastry, spiced custard cream, and macerated red plums. Homemade with almond flour and fresh eggs."
+metaDescription: "Make this cinnamon plum tart with buttery shortcrust, silky custard cream, and sweet macerated plums. A sophisticated homemade dessert. Try it tonight."
+ogDescription: "Buttery shortcrust tart with cinnamon custard cream and fresh macerated plums. Elegant homemade dessert made simple."
+focusKeyphrase: "cinnamon plum tart"
 date: 2025-09-30
 draft: false
 image: cinnamon-plum-tart.jpg
@@ -21,9 +21,18 @@ tags:
 - "vegetarian"
 - "homemade"
 keywords:
-- "cinnamon tart"
+- "cinnamon plum tart"
+- "cinnamon custard tart"
 - "plum dessert"
+- "shortcrust pastry"
+- "homemade cinnamon plum tart"
+- "custard cream filling"
+- "macerated plums"
+- "buttery tart recipe"
 - "almond flour tart"
+- "plum tart recipe"
+- "cinnamon dessert"
+- "vegetarian tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "340"
@@ -94,3 +103,83 @@ faq:
 - "q: How to store leftover tart? a: Keep refrigerated covered. Custard and fruit don’t last long room temp, risk spoilage. Wrap tightly or place in airtight container. Can freeze whole tart but crust may soften. Best eaten within 2 days chilled."
 
 ---
+
+Shortcrust pastry. Cinnamon custard. Macerated plums that stain the cream with juice. Fifty minutes prep, forty-five in the oven, and you're holding something that tastes like it took all day. Doesn't actually take all day.
+
+## Why You'll Love This Cinnamon Plum Tart
+
+Tastes expensive. Isn't.
+The cinnamon custard is silky in a way that makes you slow down between bites — thick but not heavy, spiced just enough so you're not sure what's happening until the second one.
+Works as dessert for company or just Wednesday night when you need something that isn't cake.
+Plums macerate fast. Twenty minutes from "I should make this" to fruit going into syrup.
+Cold slice next day tastes better. The filling sets more. The flavors kind of meld overnight.
+
+## What You Need for a Cinnamon Custard Tart
+
+Flour and almond flour make the crust — all-purpose alone works, but the almond adds this moist crumb that holds without being dense. Baking powder goes in too. Not a ton. Just enough to lift it slightly.
+
+Butter should be cold but not hard. If it's too firm it won't mix smooth. If it's warm the dough gets greasy. Room temperature egg helps it come together without overbeating.
+
+Powdered sugar in the dough. Granulated won't dissolve as fast, and you'll feel grit. Doesn't matter as much as you'd think but powdered's smoother.
+
+The cinnamon pastry cream needs whole eggs plus yolks — the yolks give it that glossy richness, and the whole egg makes it set right. Cornstarch thickens it. Milk and cream, half and half. You could use all milk but the cream makes it taste like something.
+
+Plums. Not overripe. Firm, ripe ones. They shouldn't be soft already or they fall apart in the syrup. Red ones look better but any plum works.
+
+Sugar for the syrup. Water. That's it.
+
+## How to Make a Homemade Cinnamon Plum Tart
+
+Start with the pastry because it needs to chill. Sift flour, almond flour, baking powder together — actually, just whisk them. Same result. Sifting's not necessary unless you're paranoid about lumps, which is fine, be paranoid.
+
+Cream the butter with powdered sugar. Use an electric mixer. You're looking for it to turn pale and lose that dense yellow look. Takes maybe three minutes. Add the room temperature egg — if it's cold the mixture can break — and whip until it's smooth. Stop there. Don't keep going.
+
+Fold the dry ingredients in slowly at low speed. Use a wooden spoon if you want, or just fold by hand. You want everything combined but not worked. Dough holds together, slightly sticky but not wet. Press it into a nine-inch tart pan with a removable bottom. Get it even on the sides. Use your fingertips. Smooth it out.
+
+Chill for thirty-five minutes. Seriously. Cold dough doesn't shrink as much.
+
+Preheat the oven to 375. Dock the base with a fork — poke holes all over so the middle doesn't puff up. Line it with parchment. Fill with dried beans or baking beads. Bake eighteen minutes covered. Take off the weights and parchment. Bake seven more minutes until the edges go gold but not dark.
+
+## How to Make Cinnamon Custard That Actually Sets
+
+Off heat, mix sugar, cornstarch, cinnamon together. Add the whole egg and yolks. Whisk until it's smooth paste, no lumps. Slowly pour in milk and cream, whisking the whole time.
+
+Transfer to a saucepan over medium heat. Stir constantly. Scrape the bottom and sides so nothing sticks and burns. You're looking for it to thicken — it'll bubble gently and suddenly it holds a ribbon when you lift the whisk. That's when you pull it off the heat. Overcook it and the texture gets grainy. Just don't.
+
+Push it through a fine sieve. Catches any lumps you missed. Cover the surface with plastic wrap touching the custard — if you don't, skin forms on top and it's annoying to deal with. Chill minimum three and a half hours. Overnight's better. The filling gets thicker and the spice mellows just slightly.
+
+## Plum Tart Tips and Common Mistakes
+
+Bring water and sugar to a boil. Stir until sugar dissolves. Takes maybe three minutes. Remove from heat. Slice plums thin — three to four millimeters — and drop them in the hot syrup for exactly two to three minutes. Not longer. They'll start falling apart and bleeding color everywhere, which looks okay but tastes mushy. Use a slotted spoon to pull them out. Save the syrup. You can brush it on the fruit later for shine.
+
+Cool the crust completely to room temperature. This matters. Warm crust plus cold filling equals weird texture. Pour the chilled custard into the crust. Smooth the top gently with an offset spatula. Not rough. Just smooth.
+
+Scatter plum slices across the top. Tightly. Some overlap. They should mostly cover the cream. Random pattern, not geometric. That's the whole point of this — it looks like you just arranged them, not like you spent twenty minutes getting them perfect.
+
+Chill the tart for at least one hour. Longer is fine. The filling firms up just enough that you can slice clean wedges without dragging cream everywhere.
+
+A few things: if the crust browns too fast on the edges, cover them loosely with foil while it bakes. If the custard tastes starchy — chalky kind of — you didn't stir it enough or the heat was too high. If the plums turned to mush, the syrup was too hot or they sat too long. None of this ruins anything, just different next time.
+
+Peaches work instead of plums. Nectarines too. Adjust the sugar in the syrup if the fruit is already sweet. Almond flour can be swapped for regular flour one-to-one, but the tart gets slightly drier. If you can't make pastry cream, mascarpone under the plums does the same job. Different texture — thicker, less silky — but still good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cinnamon Plum Tart
+
+**How long does a cinnamon plum tart last?**
+Three days refrigerated. The filling stays creamy, the crust stays crisp because the fruit doesn't weep onto it much. After that the crust gets soft. Still tastes fine but loses the snap.
+
+**Can I make the pastry cream the day before?**
+Yes. Actually, overnight is ideal. Flavor develops and it sets thicker. Same with the crust — bake it a day ahead. Keeps in an airtight container. Just assemble when you're ready to serve.
+
+**What if my custard broke or got grainy?**
+Happened too fast or temperature was too high. Next time stir constantly and pull it off heat the moment it thickens. If it already broke, strain it through a sieve again and chill it. Texture won't be perfect but it's still edible. Or start over — faster than you think.
+
+**Do I have to blind bake the crust?**
+Yeah. Without baking weights the middle puffs up and you get a crater instead of a flat base. Not worth skipping. Dried beans work fine. Reuse them next time.
+
+**Can I use frozen plums?**
+Thawed plums are mushier and bleed too much color. The texture gets weird. Fresh is better. If that's all you have, macerate them longer in the syrup — they're already soft so two minutes tops.
+
+**Why does the recipe call for both whole eggs and yolks?**
+The yolks make it rich and glossy. The whole egg makes it set up without being too thick. It's a balance. You could use three yolks and skip the whole egg, but it gets more custardy and less mousse-like. Different thing entirely.
