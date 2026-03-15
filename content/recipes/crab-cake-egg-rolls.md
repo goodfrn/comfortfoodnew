@@ -1,10 +1,10 @@
 ---
-title: "Crab Cake Egg Rolls Recipe"
+title: "Crab Cake Egg Rolls with Sriracha Aioli"
 slug: "crab-cake-egg-rolls"
-description: "Crispy crab cake egg rolls with creamy Old Bay filling and sriracha aioli. Blue crab, cheese, and spices wrapped tight and fried golden. Make ahead and freeze."
-metaDescription: "Crab cake egg roll recipe with fresh blue crab, Old Bay seasoning, and sriracha aioli. Crispy outside, creamy inside. Try it tonight."
-ogDescription: "Crispy crab cake egg rolls with creamy filling and spicy aioli. Blue crab and Old Bay wrapped in wonton skins, fried golden."
-focusKeyphrase: "crab cake egg roll recipe"
+description: "Crispy crab cake egg rolls filled with lump blue crab, smoked gouda, and Old Bay seasoning. Served with homemade sriracha aioli for dipping. Make ahead and freeze."
+metaDescription: "Crab cake egg rolls recipe: lump blue crab, smoked gouda, and Old Bay in crispy wrappers with sriracha aioli. Make it tonight."
+ogDescription: "Crispy crab cake egg rolls with lump blue crab, smoked gouda, and Old Bay. Homemade sriracha aioli for dipping."
+focusKeyphrase: "crab cake egg rolls"
 date: 2025-12-02
 draft: false
 image: crab-cake-egg-rolls.jpg
@@ -21,11 +21,18 @@ tags:
 - "spicy"
 - "party"
 keywords:
-- "crab cake egg roll recipe"
 - "crab cake egg rolls"
-- "Old Bay crab filling"
+- "crab cake egg roll recipe"
+- "blue crab appetizer"
+- "Old Bay crab recipe"
+- "egg roll wrappers recipe"
+- "sriracha aioli dip"
+- "smoked gouda crab"
+- "lump crab meat recipe"
 - "fried crab rolls"
-- "sriracha aioli recipe"
+- "seafood appetizers"
+- "make ahead appetizers"
+- "crab cheese rolls"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"
@@ -97,3 +104,115 @@ faq:
 - "q: How to store leftover crab egg rolls and sauce? a: Rolls freeze well whole, no defrost needed—fry from frozen crisp. Refrigerate crab mix up to 2 days but best fresh or frozen. Sauce keeps ~1 week refrigerated, stir before serving. Leftover sauce freezes too—thaw gently."
 
 ---
+
+Fold the crab meat in gently—chunks should stay whole, not shredded into the filling. You'll know you're doing it right when you can still see flakes in there. Cream cheese goes in first, whipped soft. Then mayo, sour cream, all the spices. It's basically a fancy crab salad wrapped in a crispy shell.
+
+## Why You'll Love This Crab Cake Egg Roll
+
+Takes 40 minutes start to finish. Prep's the real work—actual frying is quick.
+
+Crispy outside, creamy and full of actual crab inside. Not filler. The smoked gouda melts into the filling and you taste it every bite.
+
+These work as an appetizer when people are standing around. They work at a party where you need something to eat and something hot at the same time. They're good cold the next day too, reheated in the air fryer.
+
+Spicy without being aggressive. The Sriracha aioli just hints at heat unless you drizzle extra. Scallions give a fresh snap that cuts through the richness.
+
+Freezes forever. Make them Sunday, fry them off whenever you want a snack or you've got people coming over unexpectedly.
+
+## What You Need for Crab Cake Egg Rolls
+
+Cream cheese, softened. Not melted—softened. There's a difference. Three ounces. Whip it until it looks almost silky and creamy.
+
+Mayo. Mayo and sour cream together. The mayo's a tablespoon and a half, sour cream is two. Both go in to make the filling stick without being wet. If it looks loose, you added too much mayo. Fix it.
+
+Worcestershire sauce—a teaspoon. Old Bay seasoning, same amount. That's what makes it taste like crab cakes and not just fried cheese. Ground white pepper, a quarter teaspoon. White pepper stays invisible in the filling instead of making black specks.
+
+Smoked gouda. A cup shredded. Gets you that sweet smoke flavor baked in. Regular cheddar works if you have it. Smoked gouda's better.
+
+Lump blue crab meat. A pound of it. The good stuff. The whole point. Don't buy the can if you can help it—get fresh or frozen-thawed from the seafood counter.
+
+Sixteen egg roll wrappers. The wonton wrappers are smaller—you want the actual egg roll size.
+
+One egg beaten with a tablespoon of water. That's your glue. Brush it on the wrapper edges.
+
+Vegetable oil. Three to four inches deep. Whatever neutral oil you have. Not olive—it'll smoke and break down.
+
+For the dipping sauce: mayo again. Three quarters cup. Sriracha, an ounce and a half. Half a teaspoon Old Bay. Quarter teaspoon kosher salt coarse. Sliced scallions for the plate. Extra Sriracha for drizzling if you want more heat.
+
+## How to Make Crab Cake Egg Rolls
+
+Start with the filling because it's got to sit a bit. Get your cream cheese soft first—take it out of the fridge twenty minutes before you start if it's cold. Whip it in a bowl until it looks almost silky. Not over-beaten. Just smooth and creamy.
+
+Dollop in the mayo and sour cream. Fold it. Don't stir—fold. Texture should stay thick and rich, not loose and drippy. If it looks soupy, you know you overpoured mayo. Cut it with less sour cream next time or don't use as much mayo.
+
+Sprinkle in the Worcestershire, Old Bay, white pepper. Stir until you see little specks of seasoning throughout. Smell it—should be sharp and briny, smell like the ocean basically, not overwhelming. That's the sign you got the balance right.
+
+Hand-fold the shredded gouda in. Then—and this part matters—hand-fold the lump crab. You're trying to keep chunks whole. Not shred them. If you stir it aggressive, it becomes paste. You want those crab flakes to show when someone bites into it.
+
+Set it in the fridge while you work on assembly. Or just start assembling. It'll firm up as you go.
+
+Lay out an egg roll wrapper diamond-shape in front of you. Keep the rest under a damp towel—dry wrapper edges tear and then you're starting over. Not fun.
+
+Brush the edges with egg wash. Room temperature egg wash goes on easier than cold. Dab it on light. You just need it to stick.
+
+Spoon about a half cup of filling towards the center. Not right at the center. Slightly lower. You need space around it or it'll burst out when you fold.
+
+Fold the bottom corner up first, snug. Then fold the sides inward—fold them tight enough to hold the filling but don't squeeze it out. Roll it up firmly from bottom to top. Should be tight and neat.
+
+Lay it seam-side down on a parchment-lined tray. Do the whole batch. Then stick it in the freezer. Minimum an hour. You can leave them in there for two months if you want—wrap them between parchment layers. Freezing stops the filling from leaking out when you fry. Warm filling leaks. Frozen filling stays put.
+
+## How to Get Crab Cake Egg Rolls Crispy
+
+Heat your oil to about 300 degrees. Use a thermometer. Too hot and the outside burns before the inside gets warm. Too cool and you get greasy soggy rolls that taste like grease. Three hundred is the sweet spot.
+
+Work in batches. Two or three rolls at a time. Don't overcrowd. They need room to move and fry evenly.
+
+Listen to the oil. Not a frantic loud crackle—gradual steady sizzling. That's the sound of it working right. Frantic is too hot.
+
+Flip after about two minutes once the bottom's golden. Cook until all sides are light golden-brown. Not dark. Not rushed. This takes maybe another two minutes. The shell should snap when you break it. Not bend. Not feel soft.
+
+Pull them out with a slotted spoon. Drain on a wire rack over paper towels so air gets underneath and the bottom stays crispy. Don't let them sit too long or steam from the hot filling softens the crust.
+
+They're best eaten warm. Not piping hot—warm. The filling's hot, the crust's crispy, the scallions are cold. That contrast is the whole thing.
+
+## Crab Cake Egg Roll Tips and Mistakes
+
+The filling can sit in the fridge a day or two but it's best fresh or frozen right after you make it. Flavors get weird if you wait too long.
+
+If you can't find lump crab, claw meat works. You won't get as much texture contrast. It's fishier and softer. But it's still crab and still good.
+
+Smoked gouda's your call. Sharp cheddar works if that's what you have. It might overpower the crab flavor a little but it's not ruined.
+
+Egg roll wrappers tear easy. If the towel's too cold and wet, it makes them stick and tear. If it's too dry, edges crack. Hand warmth and dexterity count here. Egg wash acts like glue—don't skimp on it.
+
+Freezing works great. Make them Sunday, fry them off anytime you want them. No thawing. Fry from frozen. Actually comes out crispier.
+
+Adjust frying temp visually if you don't have a thermometer. Bubbling too vigorous means overheat—turn the burner down. You want a steady moderate bubble. Like a soft boil. A quiet crackling sound.
+
+Leftover sauce keeps a week in the fridge. Sriracha settles so stir it before you use it.
+
+The sizzle tells you everything. Watch the color. Feel the weight in your spatula when you flip. Avoid soggy edges or burnt crispy.
+
+Oil reuse: filter it through cheesecloth, discard it once it smokes or smells rancid. Generally good for two or three fry sessions if you keep it clean.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Crab Cake Egg Rolls
+
+**Can I make these ahead of time?**
+Yes. Freeze them before frying, keep them frozen. Fry straight from frozen—takes maybe a minute longer but the shell's actually crispier. You can also fry them and reheat in the air fryer later. Not quite as good but close.
+
+**What if my filling is too wet?**
+You added too much mayo. Cut the mayo to a tablespoon. Or add more crab if you're comfortable with that. Or just drain the filling with cheesecloth for a few minutes. It'll firm up.
+
+**Can I use imitation crab?**
+Technically yes. But you're losing the whole point. Imitation crab is mostly fish paste. Go real crab or make a different appetizer.
+
+**How do I know when they're done frying?**
+Color's golden-brown all over. The shell snaps when you bite it, doesn't bend. And you've been watching the whole time—you know when something changes in how the oil sounds. That's when you know.
+
+**Why does my filling leak out when I fry?**
+Either the oil wasn't hot enough when you started, or you didn't freeze them long enough. Or you overfilled the wrapper. Try freezing minimum an hour next time. And don't skimp on the egg wash—it's your seal.
+
+**What should I serve with these?**
+Sriracha aioli. Sliced scallions. That's it. Maybe extra lime if you want acid. But honestly the sauce and scallions are enough.
