@@ -1,9 +1,9 @@
 ---
 title: "Garlic Mashed Potatoes Recipe with Roasted Garlic"
 slug: "creamy-garlic-mashed-potatoes"
-description: "Creamy garlic mashed potatoes made with roasted garlic, half-and-half, and fresh parsley. Skip the gummy texture with our gentle mashing technique and seasoning tips."
-metaDescription: "Garlic mashed potatoes recipe using roasted garlic and half-and-half for creaminess. Learn the mashing technique that prevents gummy texture. Try it tonight."
-ogDescription: "Roasted garlic mashed potatoes with half-and-half and fresh parsley. Creamy, sharp, no gumminess."
+description: "Creamy garlic mashed potatoes made with roasted garlic, Yukon Gold potatoes, half-and-half, and fresh parsley. Achieve silky texture without gumminess."
+metaDescription: "Garlic mashed potatoes recipe using roasted garlic, butter, and half-and-half for creamy results. Made with Yukon Gold potatoes and fresh herbs. Make it tonight."
+ogDescription: "Creamy garlic mashed potatoes with roasted garlic, Yukon Gold potatoes, butter, and fresh chives. Simple, silky side dish."
 focusKeyphrase: "garlic mashed potatoes recipe"
 date: 2026-01-03
 draft: false
@@ -22,10 +22,17 @@ tags:
 - "easy"
 keywords:
 - "garlic mashed potatoes recipe"
+- "garlic mashed potatoes"
 - "roasted garlic mashed potatoes"
 - "creamy garlic mashed potatoes"
 - "garlic whipped potatoes recipe"
-- "garlic mashed potatoes with cream"
+- "garlic smashed potatoes"
+- "garlic butter mashed potatoes"
+- "easy garlic mashed potatoes"
+- "mashed potatoes with roasted garlic"
+- "Yukon Gold mashed potatoes"
+- "garlic mash"
+- "best garlic mashed potatoes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "230"
@@ -70,3 +77,51 @@ faq:
 - "q: Can I store leftovers? a: Refrigerate in airtight container. Reheat gently on stove or microwave with splash liquid. Avoid drying out. Can freeze but texture changes, best fresh. Reheat with butter to regain richness."
 
 ---
+
+Yukon Gold potatoes. Cold water. That's where it starts. Three pounds broken into chunks, covered just barely, brought slow to a simmer—not a rolling boil like you're in a hurry. Twenty-two minutes of actual cook time, maybe twenty-five if your potatoes are chunky. The roasted garlic mashed in at the end is what makes this stop being regular mashed potatoes and become something people actually want.
+
+## Why You'll Love This Garlic Mashed Potatoes Recipe
+
+Comfort food that takes 34 minutes total. Tastes like someone spent all day on it. Side dish that works with literally anything—chicken, pork, fish, nothing. Leftovers actually taste better cold the next day. Creamy without feeling heavy. The roasted garlic doesn't taste sharp. Just sweet and buttery and kind of melts into the potatoes like it's always been there.
+
+## What You Need for Garlic Mashed Potatoes with Cream
+
+Yukon Gold. Not russet. The texture stays right—creamy but not mealy. Three pounds. Peel them, cut into chunks about the size of golf balls so they cook even. Half-and-half warmed beforehand. Cold cream seizes the potatoes. Doesn't work. Butter softened—not melted. Four tablespoons. Roasted garlic mashed fine. Four cloves. Fresh herbs matter here. Chives and parsley. Frozen doesn't do it. Fine sea salt and cracked black pepper. Not pre-ground. Crack it yourself if you have the time.
+
+## How to Make Garlic Mashed Potatoes
+
+Cold water in a pot. Big pot. Heavy-bottomed if you have it—heat distributes better. Potatoes go in covered by about an inch. Not drowning. Just covered. Bring it to a gentle simmer. This is the mistake most people make. They boil it hard. The outside falls apart before the inside's done. Gentle. Steady. Around eighteen minutes, start poking with a fork. The biggest chunk is your test. When it breaks through with zero resistance, you're there. Usually twenty to twenty-five minutes but every stove is different. Watch it.
+
+Drain fast in a colander. Let it sit for maybe thirty seconds. Not longer. Then back into the pot, off heat. The residual warmth dries the potatoes out. Watery mashed potatoes are the worst. This step prevents that.
+
+## How to Get Garlic Mashed Potatoes Creamy Without Lumps
+
+Warmed half-and-half goes in first. Then the softened butter. The roasted garlic mashed so fine it's almost paste. Salt and pepper. Then the mashing starts. Gently. With a potato masher or a ricer if you have one. A ricer makes them smoother but a masher works fine if you don't overdo it. Stop when the lumps disappear but texture remains. Some creaminess, some bite. Too much mixing and the starch breaks down. Gluey. Gummy. Wrong.
+
+If it's too stiff, add half-and-half one tablespoon at a time. Roughly textured, not soup. Taste it. Maybe another pinch of salt. Maybe black pepper. Trust what you taste.
+
+## Garlic Mashed Potatoes Tips and Common Mistakes
+
+Don't use cold cream. Doesn't blend. Seizes the potatoes. Warm it in a separate pot or microwave for thirty seconds. Roasted garlic is better than raw garlic. Raw's too sharp. Roasted goes sweet and mild. If you can't find roasted garlic, buy the jarred kind. Fresher is nicer but jarred works. The chives and parsley go on top at the end. Fresh herbs. Green colors fade if you stir them in. Keep them on top. Some butter on top too, okay. It melts into the steam. Don't cover the bowl tight after you serve it or a skin forms right away. Loose covering or no covering at all. Serve hot. Don't let it sit. Reheats fine though. Microwave or low oven if you need to hold it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Garlic Mashed Potatoes
+
+**Can you make roasted garlic mashed potatoes ahead?**
+Yeah. Make them, cool them, cover with plastic wrap. They keep three days in the fridge. Reheat in the microwave or a low oven with a splash of half-and-half stirred in. Texture comes back fine.
+
+**What if you don't have half-and-half?**
+Whole milk works. Makes them a bit lighter. Heavy cream makes them richer. A mix of both is probably best but any of those three work.
+
+**Can you use butter garlic mashed potatoes instead of roasted garlic?**
+You could add raw garlic but it'll taste sharp. Not the same. Roasted's mellower. If you have to use fresh, mince it fine and let it sit in the warm potatoes a few minutes before serving. Doesn't fully fix it though.
+
+**Should you peel the potatoes before or after cooking?**
+Before. Easier. They cool down enough to handle and peel faster raw. Cooked potatoes with skin slip around and it's annoying.
+
+**How do you know when the potatoes are actually done?**
+Fork test. Pierce the biggest chunk. If it falls apart or the fork goes through without any resistance, done. If you feel even a little firmness in the center—another minute or two.
+
+**Can you make seasoned mashed potatoes with less salt?**
+Yeah. Taste it at the end. The flavor flattens if there's not enough salt. You want that punch. Start with what the recipe says and adjust after. Salt's the thing that makes these taste like something.
