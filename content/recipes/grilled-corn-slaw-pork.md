@@ -1,10 +1,10 @@
 ---
-title: "Grilled Corn Slaw Pork Medallions"
+title: "Grilled Pork Medallions with Corn Slaw"
 slug: "grilled-corn-slaw-pork"
-description: "Pork medallions seared to a light crust paired with a crunchy slaw of cabbage mixed with charred corn kernels. A quick marinade for the pork adds a hint of tang and spice, while the salad features a splash of lime juice and toasted seeds for a smoky finish. The corn, grilled with husks removed, lends natural sweetness and char that cuts the richness of pork. A straightforward plate focusing on textures—crispy edges on the pork, crisp slaw with little soft spots—and bright, punchy notes. Swapped jalapeño for fresno chili for milder heat and used yoghurt in dressing instead of mayo to lighten things up."
-metaDescription: "Grilled Corn Slaw Pork Medallions with smoky charred corn and tangy yoghurt dressing; tender pork seared fast, crunchy slaw, fresh herbs for bold textures and flavors."
-ogDescription: "Pork medallions seared crusty, grilled corn kernels charred for sweet smokiness. Crisp cabbage slaw tossed in lime yogurt dressing, toasted seeds add crunch—bold texture play."
-focusKeyphrase: "Grilled Corn Slaw Pork Medallions"
+description: "Grilled pork medallions with smoked paprika and cumin, paired with a crunchy cabbage slaw featuring charred corn, lime juice, and Greek yoghurt dressing. Quick to prepare."
+metaDescription: "Grilled pork medallions with charred corn and cabbage slaw dressed in Greek yoghurt and lime. Smoked paprika and cumin seasoning. Make it tonight."
+ogDescription: "Seared pork medallions with crispy corn slaw, Greek yoghurt lime dressing, and fresh cilantro. Simple, bright, satisfying."
+focusKeyphrase: "grilled pork medallions"
 date: 2025-08-09
 draft: false
 image: grilled-corn-slaw-pork.jpg
@@ -21,9 +21,15 @@ tags:
 - "corn"
 - "easy dinner"
 keywords:
-- "pork tenderloin"
-- "corn slaw"
-- "smoked paprika"
+- "grilled pork medallions"
+- "pork tenderloin dinner"
+- "corn slaw pork"
+- "grilled pork with charred corn and cabbage slaw"
+- "pork medallions with lime greek yogurt dressing"
+- "smoked paprika cumin pork medallions"
+- "grilled pork tenderloin with corn salad"
+- "easy grilled pork"
+- "pork medallions and fresh cabbage slaw"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"
@@ -74,3 +80,108 @@ faq:
 - "q: How to store leftovers? a: Pork slices wrapped to keep moist, fridge 2 days max. Slaw gets soggy so add fresh seeds before serving again. Dressing may separate, whisk again. Freeze not advised for cabbage salad, pork can freeze separately but texture changes."
 
 ---
+
+Slice pork into thick medallions. Toss with oil and spices. Grill until the outside goes mahogany and the inside stays juicy. Meanwhile—corn on high heat until it gets black spots and smells nutty. Shred cabbage. Make a lime-yogurt sauce. Done in 55 minutes total.
+
+## Why You'll Love This Grilled Pork Tenderloin Dinner
+
+Fast. Thirty-five minutes of prep, twenty on the heat. Works for a weeknight or when people show up hungry.
+
+The corn goes smoky and sweet—nothing like boiled corn. Char changes everything.
+
+Slaw stays crunchy even after you dress it. The yogurt keeps it light instead of heavy mayo situation.
+
+Pork tenderloin cooks quick. Medium-rare is actually juicy here, not dry like people think pork gets.
+
+One grill or one pan. Cleanup isn't nothing, but minimal.
+
+## What You Need for Grilled Pork Medallions and Corn Slaw
+
+Pork tenderloin. Cut it yourself—two centimeters thick. Pre-cut medallions fall apart on the grill.
+
+Smoked paprika and cumin. Not together. Both. The cumin sits underneath, paprika browns on top. Works.
+
+Olive oil. Just enough to coat. Two tablespoons. More burns.
+
+Green cabbage. Not purple—different texture, wrong thing here. Finely shredded means thin enough to dress without turning to mush.
+
+Sweet corn. Two ears. Summer corn works. Winter corn is mealy. Skip it.
+
+Red onion. Thinly sliced. White onion is too sharp and doesn't add sweetness.
+
+Greek yogurt. Plain. Three tablespoons. Sour cream works. Mayo doesn't.
+
+Apple cider vinegar. Not white vinegar. Tastes less aggressive. A tablespoon—that's enough.
+
+Lime juice. One lime. Bottled works if you're desperate. Doesn't taste the same.
+
+Fresno chili. One, chopped small. Red jalapeño basically. Heat without overwhelming.
+
+Pumpkin seeds toasted. Crushed. Adds texture and a nutty undertone that binds the whole thing together. Sunflower seeds won't do it.
+
+Fresh cilantro. Two tablespoons chopped. You either like cilantro or you don't. If you don't—skip it completely.
+
+## How to Make Easy Grilled Pork Tenderloin
+
+Get your pork tenderloin out and slice it. Two centimeters thick. Not thinner—falls through grates. Not thicker—doesn't cook through.
+
+Toss the medallions with olive oil, smoked paprika, cumin, salt, and pepper. Let it sit ten minutes minimum. Longer if you have time—thirty minutes is even better. Spices penetrate. Meat relaxes.
+
+Heat cast iron over medium-high until the bottom's smoking slightly. You'll feel it. Lay the medallions away from you—listen for that sharp sizzle when they hit. Don't move them. Three to four minutes. That's when the edges brown mahogany and the bottoms stop sticking.
+
+Flip. Lower the heat if the pan's flaring. Three more minutes. The meat should feel firm but springy when you press it—not hard, not soft. Pull one out if you're unsure. Cut into the thickest part. Should be pale pink inside, not gray, not red. Sixty-five degrees Celsius if you have a thermometer.
+
+Pull them off. Let them rest covered loosely. Five minutes minimum. This is crucial. Fibers relax. Juice stays inside instead of running all over your plate.
+
+## How to Get Charred Corn and Make Crispy Pork Medallions
+
+Preheat the grill or grill pan to high. Real high. You need blackening, not just color.
+
+Corn on the grates, turning every two minutes. You're looking for black spots surrounded by golden brown. The smell changes—gets sweet and nutty with smoke underneath. Takes twelve to fifteen minutes. Don't rush it.
+
+Stand the ear on a flat side. Run a sharp knife down—kernels come off in strips. Do this over a bowl so you catch the juice. That juice goes into the slaw.
+
+The pork stays juicy because you're hitting medium-rare and resting it. People overcook pork thinking it needs to be white all the way through. It doesn't. Sixty-five degrees is the target. It's pale pink and tender. Overcooked pork turns rubbery and dry—nobody wants that.
+
+## Grilled Pork with Charred Corn Salad Tips and Common Mistakes
+
+Don't skip resting the pork. Five minutes feels like forever when you're hungry. Do it anyway. The difference between juicy and dry is literally those minutes.
+
+Corn needs high heat. Medium heat gives you soft corn with no char. Char is the whole point.
+
+The slaw dressing goes in when everything's cool enough to eat. Warm cabbage gets mushy. Cold corn, cold cabbage, cold dressing. Then assemble.
+
+Pumpkin seeds crushed, not whole. Whole seeds are too hard. Crushed stays on your fork.
+
+The yogurt-lime dressing separates if it sits too long. Make it last. Pour it in right before serving.
+
+If your pork medallions are thicker than two centimeters, they won't cook through before the outside burns. Slice thinner or lower your heat.
+
+Red onion stays sharp if you use it immediately. Some people soak it in lime juice first to soften the bite. Takes five minutes. Worth it if you don't like raw onion intensity.
+
+Cilantro at the very end. Heat kills it. Wilts it. Tastes like nothing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Pork Tenderloin Dinner
+
+**Can I use pork loin instead of tenderloin?**
+Loin's tougher. Works if you pound it thin or marinate longer. Tenderloin's more expensive but faster and actually stays tender.
+
+**What's the temperature inside supposed to feel like?**
+Springy. Not hard. Not soft. Press it with your thumb—should have some resistance but give a little. Sixty-five degrees Celsius is the target. Use a thermometer if you're unsure.
+
+**Do I have to grill the corn or can I boil it?**
+Boil it and you lose everything that makes this work. The char. The smoke. The sweetness that caramelizes. Don't bother. Grill it.
+
+**Can I make the slaw ahead?**
+Cabbage yes. Dress it no. Dressed slaw gets soggy and separates. Prep everything, dress five minutes before eating.
+
+**What if I don't like cilantro?**
+Leave it out completely. Don't add parsley or something else thinking it's the same. It's not. Just skip it.
+
+**How do I know when the corn's done?**
+Black spots and sweet smell. The kernels start shrinking slightly. That nutty aroma—you'll know it when you smell it. Twelve to fifteen minutes usually. Could be less on a super hot grill.
+
+**Can I make this in a cast iron skillet instead of a grill?**
+Yes. The corn won't char the same way—gets roasted instead. Pork cooks the same. Slaw's identical. Won't taste exactly the same but still tastes good.
