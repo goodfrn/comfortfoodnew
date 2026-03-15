@@ -1,10 +1,10 @@
 ---
-title: "Garlic Almond Soup Revisited"
+title: "Almond and Broccoli Soup Recipe"
 slug: "garlic-almond-soup"
-description: "A nutty, garlicky soup built on toasted almonds and garlic gently fried in olive oil. Bread cubes soak in a broth mix while simmering, then blended to a creamy texture. Garnished with crisped bread crumbs, sweet red grapes halved, and toasted almonds for crunch. Variations include swapping chicken broth for vegetable stock to keep it vegan, and using ciabatta bread for a chewier bite. The soup works hot or cold, with a drizzle of oil brightening the finish. Aromas of toasted nuts and garlic fill the kitchen. A humble classic transformed with tweaks to texture and flavor balance."
-metaDescription: "Garlic Almond Soup Revisited blends toasted almonds, garlic, and bread for creamy, nutty richness. Hot or cold, textured with grapes and lemon zest finish."
-ogDescription: "A nutty garlic almond soup with crusty bread, grapes, and lemon zest. Hot or cold. Savory layers, toasted aroma, and contrasting textures invite tasting."
-focusKeyphrase: "Garlic Almond Soup"
+description: "Silky almond and broccoli soup with toasted almonds, garlic, and bread cubes simmered in vegetable broth. Garnished with grapes and lemon zest for bright, nutty flavor."
+metaDescription: "Make almond and broccoli soup with toasted almonds, garlic, and vegetable broth. Creamy, nutty, and ready in under 30 minutes. Try it tonight."
+ogDescription: "Creamy almond soup with garlic, bread, and vegetable broth. Topped with grapes, toasted almonds, and lemon zest."
+focusKeyphrase: "almond and broccoli soup"
 date: 2025-08-16
 draft: false
 image: garlic-almond-soup.jpg
@@ -21,9 +21,18 @@ tags:
 - "mediterranean"
 - "easy"
 keywords:
+- "almond and broccoli soup"
+- "almond broccoli soup recipe"
 - "almond soup"
-- "garlic soup"
-- "vegan soup"
+- "creamy garlic soup"
+- "ajo blanco recipe"
+- "almond cream soup"
+- "gazpacho white"
+- "almond soup recipe"
+- "chilled almond soup"
+- "almond gazpacho"
+- "cold almond soup"
+- "creamy roasted garlic soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "180"
@@ -69,3 +78,64 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container. Soup thickens chilling; warm gently before serving but whisk well to reincorporate oil. Freeze possible but texture shifts slightly. Best within 2 days fridge. If freezing, thaw overnight in fridge, stir again."
 
 ---
+
+Get a heavy pan hot. Almonds and garlic in oil. Six minutes of constant stirring until the garlic smells alive but not burned — that's the whole first move. The broth goes in next and it should sizzle. Bread cubes follow. Salt. Pepper. Let it bubble for 15 to 20 minutes under a lid until everything's soft enough to blend into something smooth and almost creamy, which is what makes this almond broccoli soup work. It's not complicated. It takes 50 minutes total — 25 to prep, 25 to cook — and tastes like you spent longer on it.
+
+## Why You'll Love This Almond Soup
+
+Takes 25 minutes prep and 25 minutes cooking. Fast enough for Tuesday night.
+Feels like comfort food but tastes bright. Mediterranean without the pretension. Almonds do something weird and good here — rich but not heavy.
+Cold or hot. Worked both ways. Cold version maybe tastes better the next day, actually.
+One pot plus a blender. Cleanup isn't nothing, but the bowl's your biggest problem.
+
+## What You Need for Creamy Almond Soup
+
+Eighty grams of sliced blanched almonds — not roasted, not whole. The blanched ones puree smoother. A liter of vegetable broth. Stock. Whatever you've got. Five garlic cloves, minced fine. Forty-five milliliters of olive oil. Could use a bit less. Could use more. One hundred twenty grams of crustless white bread cubes for the soup itself. Thirty grams of crusty bread, diced smaller, for crisping later. Fourteen green seedless grapes, halved — sounds odd. Trust it. Toasted sliced almonds for the bowl. Smoked paprika. Not regular paprika. The smoky one changes something. Lemon zest. That's it.
+
+## How to Make Almond Broccoli Soup Base
+
+Medium-high heat. Pan gets hot. Throw the almonds and garlic in with the olive oil and don't stop stirring. Six minutes. Maybe seven if your stove runs cool. You're waiting for the garlic to smell fragrant — like it's actually doing something — but not brown. Brown tastes bitter. That nutty-garlicky smell is the signal.
+
+Pour the broth in. It should hit the hot pan and sizzle a little. Not violent. Just alive. Toss in the bread cubes. Salt now. Pepper now. Bring it to a rolling boil first, then drop the heat down to a simmer and cover it. Fifteen to twenty minutes. The bread absorbs liquid and breaks down. Foam might show up on top. Skim it if it bothers you.
+
+Let it cool for a few minutes before blending. Hot soup in a blender can get weirdly thick and gluey. Transfer to the blender in batches. Run it for four to six minutes minimum. Longer if your blender's weak. You want it totally smooth. No graininess. No chunks floating around. That's the point of this whole almond gazpacho vibe — pure texture.
+
+## How to Get This Almond Cream Soup Silky
+
+After blending, push it through a fine mesh strainer. Use a spatula and actually work it. Don't just let gravity do the job. This step kills the recipe or makes it. You end up with something that tastes like velvet instead of pasty. Takes five minutes. Worth it.
+
+While that's happening, get another pan medium-high and crisp the smaller bread cubes. A bit of oil. Smoked paprika. Salt. Pepper. Toss constantly for about six minutes. Bread burns faster than you think. You want them golden and crunchy. Almost like croutons but smaller and more aggressive.
+
+The soup goes in bowls. Scatter the bread crumbs over. Halved grapes. Toasted almonds on top. Grate lemon zest over the whole thing. Drizzle olive oil. Serve warm.
+
+## Almond Soup Recipe Tips and What Goes Wrong
+
+Garlic tastes too raw? Fry it longer. Let it actually soften and smell sweet before the broth hits. Bread stays tough? Simmer it longer than you think you need to. Sometimes 20 minutes isn't enough. Soak the bread in a bit of warm broth for five minutes before cooking if you're in a rush.
+
+Soup feels thick like paste? Add reserved broth slowly. Water works too. Thin it down until it moves. Too thin and watery? Blend in more soaked bread or ground almonds. The texture should move when you tilt the bowl but not slide.
+
+Cold version — and it works as a white gazpacho, basically — needs time in the fridge. Chill it completely. Oil congeals a little when it's cold. Stir it well before serving or warm it slightly for 30 seconds. Doesn't need much.
+
+Multitask. Toast the almonds and garlic while you cut the bread. Use warm broth from a kettle — simmer goes faster. Blend in small batches so the blender doesn't overheat and turn the ajo blanco bitter. It happens.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Almond Broccoli Soup
+
+**Can you make this ahead?**
+Yeah. Make it completely, chill it, reheat gently. Or make it cold and leave it cold. Both work. Taste it before serving — you might need more salt.
+
+**What if you don't have smoked paprika?**
+Regular paprika's fine. Different vibe. Less smoky. Still tastes good. Or skip it entirely and add a tiny pinch of cayenne instead.
+
+**How long does this almond cream soup last?**
+Three days in the fridge covered. Longer if it's the cold gazpacho version — maybe four days. The bread soaks liquid so it gets thicker. Thin it again when you reheat.
+
+**Can you freeze it?**
+Theoretically. Haven't done it. The texture after thawing gets weird and separated. Not impossible. Just weird.
+
+**Does this creamy garlic soup recipe work with a regular blender?**
+Takes longer. A Vitamix does it in four minutes. A regular blender needs six or seven. Just keep going until there's nothing to feel on your tongue.
+
+**Why add grapes?**
+Sweetness. Acid balance. Texture pop. It sounds strange. Tastes like something you can't quite name but want more of. Try it once before you skip it.
