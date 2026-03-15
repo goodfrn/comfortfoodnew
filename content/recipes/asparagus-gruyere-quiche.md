@@ -1,10 +1,10 @@
 ---
-title: "Asparagus Gruyère Quiche with Crisp Crust"
+title: "Gruyère and Asparagus Tart Recipe"
 slug: "asparagus-gruyere-quiche"
-description: "Asparagus Gruyère quiche with tender tips, caramelized onions, and a flaky shortcrust. Silky egg custard baked till just set. Serve warm or cold."
-metaDescription: "Asparagus Gruyère quiche recipe with caramelized onions and crispy edges. Rich, savory, and bakes in under an hour. Try it tonight."
-ogDescription: "Asparagus Gruyère quiche with caramelized onions and flaky pastry. Tender, savory, and works warm, cool, or room temperature."
-focusKeyphrase: "asparagus gruyere quiche"
+description: "Gruyère and asparagus tart with tender asparagus tips, caramelized leeks, and a flaky shortcrust pastry. Silky egg custard baked until just set."
+metaDescription: "Make this gruyère and asparagus tart with fresh asparagus, leeks, and a buttery shortcrust. Serve warm or cold. Try it tonight."
+ogDescription: "Asparagus tart with Gruyère cheese, leeks, and eggs in a crispy shortcrust pastry. Simple, elegant, delicious."
+focusKeyphrase: "gruyere and asparagus tart"
 date: 2025-08-04
 draft: false
 image: asparagus-gruyere-quiche.jpg
@@ -21,11 +21,16 @@ tags:
 - "vegetarian"
 - "eggs"
 keywords:
+- "gruyere and asparagus tart"
+- "asparagus gruyere tart"
 - "asparagus gruyere quiche"
-- "gruyere asparagus tart"
 - "asparagus tart recipe"
-- "cheese quiche"
-- "shortcrust quiche"
+- "gruyere cheese tart"
+- "leek and asparagus tart"
+- "savory asparagus tart"
+- "shortcrust pastry tart"
+- "cheese and vegetable tart"
+- "easy asparagus recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -90,3 +95,89 @@ faq:
 - "q: Best storage method? a: Cover quiche loosely or airtight; fridge for up to 3 days. Reheat in low oven to keep crust crisp. Leftovers good cold even. Avoid microwave unless no choice; ruins custard feel and crust crunch. Can freeze but texture shifts post thaw."
 
 ---
+
+Dock the bottom with a fork, chill it again, then blind bake until the edges just start turning golden. That's the move that keeps the crust from getting soggy when the filling goes in. Gruyère melts differently than cheddar — it stays creamy instead of getting stringy — which is why it matters here. Three eggs, a splash of milk, asparagus tips arranged on top like you actually care. Takes an hour twenty total. Worth it.
+
+## Why You'll Love This Gruyère and Asparagus Tart
+
+Tastes like you spent all day on it. Takes 25 minutes to prep, maybe 55 in the oven.
+Works for dinner, works for lunch the next day cold straight from the fridge.
+The crust is actually crispy — not a promise, an outcome. Blind baking does that.
+Gruyère doesn't get weird or rubbery like some cheeses. Stays smooth all the way through.
+You can make it vegetarian, you can add ham if you want. Flexible thing.
+
+## What You Need for Gruyère Asparagus Tart
+
+Flour and cold butter first — 260 ml flour, 110 grams butter diced into tiny pieces. Cold matters. Pea-sized crumbs, that's the texture you want. Salt. A pinch. Water, maybe 90 ml but add it slow, one tablespoon at a time. Dough should hold together but still feel crumbly.
+
+One medium leek, white and light green parts only, sliced thin. Olive oil — 30 ml, nothing fancy. Asparagus. 450 grams. Cut the stalks into 2 cm pieces and keep the tips whole. They go on top later.
+
+Vegetable broth. 120 ml. Three eggs, beaten loose. 200 ml whole milk. 150 grams Gruyère shredded — not the pre-shredded stuff, actual cheese you grate. Salt, black pepper, nutmeg if you want it. Handful of fresh chives chopped.
+
+That's it. Nothing surprising.
+
+## How to Make Gruyère and Asparagus Tart
+
+Pulse flour and salt first. The food processor does the work. Add the cold butter pieces and pulse until it looks like sand with tiny pea-sized bits still visible. Don't overwork it — that's how you get a tough crust. Add water one tablespoon at a time, pulsing between each one, until it barely holds together when you squeeze it. Wrap it in plastic, stick it in the fridge for at least 40 minutes. Longer is fine.
+
+Lightly flour the counter. Roll the dough out to a circle about 30 cm across, thinner at the edges. This is the part where you have to be gentle — rolling too hard means it shrinks in the oven. Ease it into a 23 cm tart pan, press it into the corners, trim the edges. Fork the bottom all over to stop it bubbling up.
+
+Chill it again. At least 20 minutes. This part keeps the shape.
+
+## How to Get Gruyère Asparagus Quiche Crispy and Set
+
+Preheat to 185°C, rack in the lower third. Line the shell with parchment, fill it with pie weights or dried beans. Blind bake for 15 to 18 minutes. You're watching for the edges to turn a light golden, but the center should still be pale. Take out the weights and parchment, put it back for 5 minutes more just to dry the base out. Cool it a little.
+
+Heat oil in a heavy skillet. Medium heat. Slice leek goes in now. Stir it for about 5 minutes, watching it go soft and translucent and golden. Don't let it brown dark or it gets bitter. Asparagus stalks in next — just 2 minutes, enough to lose the raw crunch. Salt and white pepper now.
+
+Pour the broth in, turn the heat up slightly, let it reduce down until almost nothing's left. That takes maybe 4 to 6 minutes. You want tender asparagus, not disintegrating. Let it cool.
+
+Whisk eggs and milk together gently in a large bowl. Add the Gruyère, the asparagus tips, the leek and stalk mixture, the chives, a pinch of nutmeg. Stir. Taste it. Fix the salt. You want something that tastes balanced and savory, not like a salt shaker exploded in there.
+
+Pour it into the tart shell. Arrange the asparagus tips on top — space them out so they brown evenly. Bake at 185°C for 43 to 48 minutes. Watch the crust edges. If they're getting too dark, tent it loosely with foil. The filling should be just set with a tiny bit of wobble in the center when you shake the pan gently. It'll firm up as it cools. Overbake it and you get rubbery custard. Not worth it.
+
+Rest it for at least 12 minutes before you cut into it. The custard needs that time to set up properly. Serve it warm, room temperature, or cold. Actually tastes better cold.
+
+## Gruyère and Asparagus Tart Tips and Mistakes
+
+Dough cracks? Patch it with a tiny piece of cold dough and a little water. Keep your hands cool or the butter melts into the flour and then nothing works right.
+
+Blind baking. Don't skip it. I learned that the hard way. Soggy bottom otherwise. Trust it.
+
+Use fresh asparagus. Frozen releases water and dilutes the custard. If you thaw frozen, drain it really well and maybe even pat it dry.
+
+Leeks soften slow. Medium heat, stir often, let them take their time getting golden. That's when the sweetness comes out.
+
+Custard looks too loose after baking? Stick it back for 5 to 7 minutes more, or just let it rest longer. Sometimes it just needs time.
+
+Leftover quiche gets reheated in a low oven. Microwave makes the crust soggy and the custard bounces around weird. Low oven, maybe 10 minutes, it comes back right.
+
+Gruyère stays creamy. Sharp cheddar works if you want something stronger but it melts different, gets a bit stringy. Your call.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Gruyère and Asparagus Tart
+
+**Can I make the dough ahead of time?**
+Yes. Wrap it, stick it in the fridge for a few hours or overnight. Pull it out 10 minutes before rolling so it's not too cold and cracks.
+
+**What if I don't have vegetable broth?**
+Water works fine. Low-sodium chicken broth too. Honestly just water with a pinch of dried herbs is the same thing.
+
+**Can I use frozen asparagus?**
+Not really. It releases too much water and the custard gets watery. If you have to, thaw it completely and squeeze it dry.
+
+**Should I bake the crust blind?**
+Yes. Do it. The filling is wet and the crust needs that head start or the bottom stays soggy. I tried skipping it once. Never again.
+
+**Can I add ham or bacon?**
+Yeah. Crisp it, chop it, throw it in with the filling. Changes nothing about the method.
+
+**How do I know when it's done baking?**
+The edges should be set. The center should have just a tiny wobble when you shake the pan gently. It'll firm up more as it cools. Overbaking makes it rubbery.
+
+**Can I use half and half instead of milk?**
+Go for it. The custard gets richer. Some people do half milk, half cream. Works either way.
+
+**How long does it keep?**
+Leftover quiche lives in the fridge for maybe 4 days. Reheats best in a low oven, not the microwave.
