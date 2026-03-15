@@ -1,10 +1,10 @@
 ---
-title: "Kale Blueberry Salad"
+title: "Kale Salad with Bulgur, Blueberries & Pecans"
 slug: "kale-blueberry-salad"
-description: "A lively kale salad with bulgur, sweet blueberries, crunchy pecans, and tangy feta. Dressed with a honey-red wine vinaigrette that softens fibrous kale. Snap peas add fresh snap and bright green color. The bulgur is cooked in broth for an earthy depth. The kale needs massaging for tenderness—don’t skip that. Blueberries pop with subtle sweetness, balancing the salty feta and nutty pecans. Prefer water or broth depending on pantry. Easy tweaks replace honey with maple syrup, pecans with walnuts if needed. A salad that grows on you with each bite, textures and flavors layering beautifully when tossed last minute. Good for make-ahead if you keep the dressing separate and toss before serving."
-metaDescription: "Kale Blueberry Salad with bulgur, pecans, feta. Massaged kale softens tough leaves; snap peas stay crisp. Honey-red wine dressing balances sweet and tangy flavors."
-ogDescription: "Massaged kale softens down tough stalks, blueberries burst sweet, crunchy pecans add earthiness. Bulgur cooked in broth, snap peas crisp. Toss last minute; fresh texture."
-focusKeyphrase: "Kale Blueberry Salad"
+description: "Kale salad with bulgur wheat, fresh blueberries, toasted pecans, and crumbled feta. Red wine vinaigrette with maple syrup and Dijon mustard tenderizes the kale perfectly."
+metaDescription: "Make this kale salad with bulgur, blueberries, pecans, and feta cheese. Red wine vinaigrette with maple syrup brings it together. Try it tonight."
+ogDescription: "Hearty kale salad with bulgur wheat, blueberries, pecans, feta, and snap peas. Tossed in a red wine vinaigrette."
+focusKeyphrase: "kale salad"
 date: 2025-10-10
 draft: false
 image: kale-blueberry-salad.jpg
@@ -22,11 +22,13 @@ tags:
 - "pecan"
 keywords:
 - "kale salad"
-- "blueberries"
-- "bulgur"
-- "snap peas"
-- "pecans"
-- "feta cheese"
+- "blueberry kale salad"
+- "kale salad with pecans and blueberries"
+- "salad with bulgur"
+- "vegetarian kale salad"
+- "kale bulgur salad with red wine vinaigrette"
+- "kale salad with snap peas and feta"
+- "bulgur kale salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "270"
@@ -76,3 +78,94 @@ faq:
 - "q: How to store salad? a: Keep dressing separate if making ahead. Kale massaged stays good but berries bruise soaking too long. Store bulgur, nuts, snap peas cold, dry. Toss just before serving. Salad can last 1-2 days chilled but textures shift fast. Not meant for long storage."
 
 ---
+
+Massage the kale first—that's the whole thing. Everything else is just supporting players. Raw kale shreds your mouth if you don't, and nobody wants that happening 20 minutes into lunch.
+
+## Why You'll Love This Kale Salad
+
+Doesn't taste like rabbit food. The blueberries are sweet, the pecans are crunchy, feta brings salt. Works as a side or a full meal depending on how hungry you are.
+
+Takes 45 minutes start to finish, and most of that is waiting for the bulgur to cool and the kale to soften under your hands. Not standing over a stove.
+
+Vegetarian, obviously. Also keeps for days—maybe even tastes better the next day when everything's had time to actually know each other.
+
+You can make it cold or room temp. Prep it in the morning, grab it for lunch. No reheating required.
+
+## What You Need for a Vegetarian Kale Salad
+
+Red wine vinegar. Not white vinegar. White's too sharp and tastes like cleaning fluid. A quarter cup.
+
+Maple syrup. Just 2 teaspoons. Not honey, not agave. Maple works with the vinegar in a way nothing else does.
+
+Shallots. Minced. They soften into the dressing and you basically don't see them, but you taste it. Two teaspoons' worth.
+
+Dijon mustard. A tablespoon. Keeps the vinegar from tasting like vinegar. Makes it into an actual dressing.
+
+Olive oil for the vinaigrette—a third cup. Then another teaspoon for cooking the bulgur. Different oils, same bottle.
+
+Bulgur wheat. One and a quarter cups. It absorbs the broth and gets tender without falling apart like rice does. You cook it in vegetable broth or water—doesn't matter which. About a cup and a half total.
+
+Kosher salt. Coarser than table salt. Stays on the food instead of disappearing. You'll use it twice—once in the bulgur water, once to taste at the end.
+
+Sugar snap peas. Eight ounces. You cook them barely, then ice bath them so they stay snappy. Not the stringy kind. The fat ones.
+
+Kale. One large bunch. Tear out the thick stems—they're bitter and tough. Just use the leaves. Chop them up, doesn't have to be perfect.
+
+Blueberries. Fresh. A cup. They burst a little when you toss everything together and that's fine. It stains your hands purple but it's worth it.
+
+Toasted pecans. Three quarters cup, roughly chopped. Don't buy the raw ones and toast them yourself unless you really want to. The bag says toasted, trust it.
+
+Feta cheese. Crumbled. Half a cup. It's salty so go easy on extra salt after you add it.
+
+Black pepper. Just grind it fresh. Matters more here than anywhere.
+
+## How to Make a Kale Bulgur Salad
+
+Start with the dressing because it needs time. Whisk the vinegar and maple syrup together in a bowl. Add the minced shallots and mustard. It should look like paste at this point. Then slowly—and this is key—slowly pour in the olive oil while you whisk. Not dumping. Drizzling. One hand does the oil, the other hand doesn't stop whisking. It thickens and gets creamy. That's emulsifying. It's not complicated. Season it with salt and pepper. Set it aside. It's going to taste better in 10 minutes than it does right now.
+
+Get the bulgur going. Boil a pot of water with the broth—a cup and a half total. Add half a teaspoon of salt and a teaspoon of oil. Once it's rolling, add the bulgur all at once. Stir it so the grains don't clump together. Lower the heat so it's just simmering, not a full boil. Cover the pot tight. Takes about 14 minutes. The liquid disappears and the grains go soft. Take it off heat. Keep the cover on. Wait 11 more minutes. The carryover cooking finishes the job. Fluff it with a fork. Spread it on a plate or a cutting board so it cools down faster. You need it room temp before you mix it in.
+
+Cook the snap peas while the bulgur's going. Salted water, bring it to a boil. Drop the peas in. Three minutes. Maybe four. You want them still snappy, not mushy. Pull them out straight into an ice bath—just a bowl of ice water. Stops the cooking immediately. Drain them. Pat them dry with a towel. Slice them in half lengthwise if you want, or leave them whole. Doesn't matter.
+
+## How to Get Kale Tender Without Chewing Forever
+
+This is the thing that separates this from a depressing salad. Pile the kale in a big bowl. Pour a quarter cup of that dressing over it. Don't use your hands yet. Use your hands now. Actually use them. Press the leaves, squeeze them, massage them like you're trying to get the attitude out of them. Do this for at least 25 minutes. Your hands will get tired. Keep going. The kale goes from bright green to kind of a darker, sadder color. The edges soften. The fibers break down. That's the whole point. This is why you don't eat it raw and hate it. After you do this, it's edible.
+
+## Kale Salad Tips and Common Mistakes
+
+Don't skip the ice bath on the peas. They keep their crunch and their color. Skipping it means they're soft and gray.
+
+Massage the kale. I know I said it already. Say it again. People don't massage enough and then the salad tastes like something you'd serve to someone you're mad at.
+
+The blueberries and pecans—add them right before you eat it, or at least right before you serve it. If they sit in the wet vinaigrette they start to disappear into mush. Blueberries especially. You want that burst, not that slurry.
+
+Let the bulgur actually cool all the way. Warm bulgur mixed into the dressing makes everything taste mushy and sad. Room temp changes everything.
+
+Feta's salty. Taste before you salt. You probably don't need as much as you think.
+
+The dressing separates if it sits for hours. Whisk it again before you serve. Or don't. Some people like the way it looks separated.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegetarian Kale Salad
+
+**Can you make this the night before?**
+Most of it, yeah. Make the dressing ahead. Cook the bulgur ahead. Massage the kale ahead. Don't add the blueberries and pecans until you're about to eat it or they get sad. The snap peas keep. Just don't mix it all together until you're actually serving it.
+
+**What if you don't have bulgur?**
+Farro works. Couscous works. Quinoa works if you're into that. Basically any grain that doesn't fall apart. Rice gets mushy. Don't use rice.
+
+**Can you use frozen blueberries?**
+They thaw and turn to mush. Fresh only. Or just leave them out and add something else—pomegranate seeds, dried cranberries, whatever.
+
+**Is this actually a healthy salad?**
+It's not boring, if that's what you mean. Full of vegetables. Whole grain. Has fat from the pecans and feta but it's the good kind. Vegetarian protein in the bulgur and cheese. Yeah, it's healthy in a way that doesn't taste like punishment.
+
+**What dressing do you use if you don't like red wine vinegar?**
+Sherry vinegar. Apple cider vinegar if you cut back a little. Not white vinegar. Not balsamic either—too sweet. Stick with the red wine vinegar. It's right.
+
+**How long does it actually keep?**
+Three, maybe four days in the fridge. After that the kale gets darker and kind of sad, even though it's technically fine to eat. Best the same day. Second day's still good. Third day, you're pushing it.
+
+**Can you make this vegan?**
+Skip the feta. Everything else is already there. It loses something without it—the salt and creaminess—so add a tiny bit more salt and maybe some tahini to the dressing if you want it richer. Or just leave it.
