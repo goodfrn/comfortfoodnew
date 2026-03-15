@@ -1,10 +1,10 @@
 ---
-title: "Fresh Fruit Salad Twist"
+title: "Fresh Fruit Salad with Lime Agave Dressing"
 slug: "fresh-fruit-salad-twist"
-description: "Bright mix of seasonal fruit tossed in a zesty lime agave dressing. Chill fruit first for vibrant flavor pop. Dressing whips up fast; mint adds fresh aroma. Replace honey with agave for vegan touch, swap kiwi for zucchini ribbons to add crunch and surprise texture. Toss gently to keep fruit intact. Watch for fruit juice pooling as chill deepens. Best served cold, right before fruit starts releasing too much water. Perfect for summer gatherings or a quick refreshing snack. Vibrant colors, fresh scents, and that snap of mint make it stand out. Slightly tweak fruit ratios based on ripeness; rindy lime aroma signals dressing’s ready. Easy to throw together but with nuances only a few spot at first bite."
-metaDescription: "Fresh Fruit Salad Twist bursts with chilled seasonal fruit, zesty lime, agave, and mint. Crunchy zucchini swap option. Toss gently, serve cold, avoid sogginess."
-ogDescription: "Bright fruit tossed in lime agave dressing with fresh mint. Chill fruit, toss lightly. Zucchini ribbons swap for crunch. Serve cold, watch juice pooling."
-focusKeyphrase: "Fresh fruit salad with lime dressing"
+description: "Bright fresh fruit salad with strawberries, blueberries, kiwi and pineapple tossed in zesty lime agave dressing. Refreshing summer side."
+metaDescription: "Fresh fruit salad recipe with strawberries, blueberries, kiwi, and pineapple in lime agave dressing. Make it tonight."
+ogDescription: "Strawberries, blueberries, kiwi and pineapple in a zesty lime mint dressing. Fresh, easy, and perfectly refreshing."
+focusKeyphrase: "fresh fruit salad"
 date: 2025-11-05
 draft: false
 image: fresh-fruit-salad-twist.jpg
@@ -21,9 +21,18 @@ tags:
 - "healthy"
 - "no bake"
 keywords:
-- "fruit salad"
-- "lime dressing"
-- "agave syrup"
+- "fresh fruit salad"
+- "fresh fruit salad recipe"
+- "fruit salad with fresh fruit"
+- "fresh fruit salad ideas"
+- "fruit and mint salad"
+- "dressing for a fresh fruit salad"
+- "seasonal fruit salad"
+- "fresh berry fruit salad"
+- "vegan fruit salad"
+- "fresh fruit mix"
+- "fruit salad ideas for summer"
+- "classic fruit salad recipe"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "75"
@@ -65,3 +74,85 @@ faq:
 - "q: Best way to store leftovers? a: Keep fruit and dressing separate in fridge. Dressing lasts few days but fruit texture declines fast. Add dressing just before eating small portions. Chilled bowl helps but not too long or juice dilutes. Avoid freezing salad; fruit goes mushy."
 
 ---
+
+Cut the strawberries first. Get them into quarters — doesn't have to be perfect. Blueberries next, kiwi, then pineapple. Fifteen minutes total, start to finish. No cooking. Just fruit and a lime dressing that pulls everything together. Summer at its simplest.
+
+## Why You'll Love This Fresh Fruit Salad
+
+Takes fifteen minutes flat.
+Tastes better the next day because flavors actually sit together overnight, especially if you keep the dressing separate until you're ready to eat.
+No bake. No heat. Works when your kitchen is already hot or you don't feel like turning anything on.
+Vegan. No dairy hiding anywhere — agave instead of honey, fruit instead of cream.
+Healthy without tasting like a health kick. Just tastes like summer.
+Works cold for days if you're smart about storage.
+
+## What You Need for a Fresh Fruit Salad
+
+Strawberries — a cup, hulled and quartered. Red ones. The ones that actually smell like something.
+Blueberries. Fresh or frozen and thawed. Frozen works fine, sometimes better because they're firmer.
+Kiwi. Peel it thin, slice it thin. One cup. Green, not the weird yellow kind.
+Pineapple. Fresh or canned in juice — not syrup. Juice keeps it from getting weird.
+Lime juice. Fresh. Three tablespoons, which is about two limes if you have them. Bottled doesn't hit the same way.
+Agave syrup. Two tablespoons. Vegan. Smoother than honey, dissolves faster. Honey works if you're not vegan.
+Mint. A tablespoon, chopped up fine. Fresh. Dried tastes like nothing.
+Optional zucchini ribbons instead of kiwi — peel them thin. Crunchy. Holds up better than soft fruit when it sits.
+
+## How to Make a Fresh Fruit Salad
+
+Get a glass or plastic bowl — not metal. Metal dulls the lime juice somehow. Nobody knows why it matters until you taste it both ways.
+
+Dump all the fruit in. Strawberries, blueberries, kiwi, pineapple. Mix it around loosely. Chill for about 25 minutes. Not until everything's rock hard. Just until it's cold and the juices start to pool a tiny bit at the bottom. Firm to the touch still.
+
+While that happens, make the dressing. Lime juice, agave syrup, mint. Whisk it in a small bowl until the agave dissolves and the whole thing tastes tangy but not mean. Sharp but smooth. That's the balance.
+
+## How to Get Fresh Fruit Salad Perfect
+
+Right before serving — and this matters — drizzle the dressing over the chilled fruit. Don't dump it. Drizzle. Then toss gently with two forks, folding everything together soft so the berries don't get crushed into mush. You want a glossy coat on every piece. Not a puddle at the bottom.
+
+Watch the texture as you go. The softer fruit like kiwi gets mushy fast if it sits too long in liquid. The zucchini ribbons, if you use them, stay crispy and hold everything up better. Blueberries stay firm. Strawberries go soft after a while but that's kind of the point.
+
+If your fruit seems dull or not quite ripe, hit it with a tiny pinch of salt before chilling. Just a grain or two. Brings out the natural juice in flat fruit. Learned that the hard way after batches that tasted like nothing.
+
+## Fresh Fruit Salad Tips and Common Mistakes
+
+Don't mix the dressing in too early unless you like soup. Keep it separate and drizzle right before eating. Mint stays bright that way. Fruit stays crisp.
+
+Lime aroma gets sharp after a while, especially in the heat. That's when you need to serve it. The salad's telling you it's ready.
+
+If you use frozen blueberries, thaw them first but don't let them sit. They break down fast once thawed.
+
+Zucchini ribbons are weird but work. They don't taste like zucchini, just stay crunchy and add nothing weird to the flavor. Totally different texture experience.
+
+Agave dissolves better than honey if you're vegan. Honey works but doesn't mix as smooth. Maple syrup works too for a woodsy note, but don't use too much.
+
+Chilled bowls help. Cold surfaces keep fruit firm longer. Some people throw ice around the bowl edges, not in the fruit. Keeps it cold without watering it down.
+
+Leftovers turn mushy fast. Plan ahead. Keep the dressing totally separate and drizzle on small portions as you eat them. The mint stays fresher that way. Fruit stays fruit instead of turning into jam.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fresh Fruit Salad
+
+**Can I make fresh fruit salad the night before?**
+Yeah, but keep the dressing separate. Mix them that morning, not the night before. Fruit gets soft and the whole thing gets watery.
+
+**What fruits work best in a fresh fruit cup?**
+Berries, kiwi, pineapple — anything that stays relatively firm. Bananas get mushy. Apples brown. Melons work if you cut them close to eating time.
+
+**Can you use frozen fruit for a fresh fruit salad recipe?**
+Blueberries, yes. Thaw them first. Other stuff — strawberries, kiwi — frozen gets mushy when thawed. Not worth it.
+
+**How long does a fruit salad with fresh fruit last?**
+Two, maybe three days if you keep the dressing separate. The fruit gets softer every day. The dressing keeps the mint fresh though.
+
+**What can I use instead of agave in fresh fruit salad?**
+Honey. Maple syrup. Even a bit of orange juice works if you want less sweetness. Agave just dissolves cleaner than honey.
+
+**Is fresh fruit salad vegan?**
+This one is because of agave. Swap honey back in and it's still vegan — everything else is fruit. No dairy, no hidden stuff.
+
+**Can you add other salad ideas to a fresh fruit base — like mint salad with quinoa?**
+Sure. Quinoa absorbs liquid fast though. Add it right before serving or it gets soggy. Mint stays bright. Fruit gets soft.
+
+**Does a fresh fruit cocktail need alcohol?**
+This one doesn't. You could add a splash of something if you wanted. Doesn't change much.
