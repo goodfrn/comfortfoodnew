@@ -1,10 +1,10 @@
 ---
-title: "Coconut Almond Cookies with Almond Flour"
+title: "Almond Joy Cookies Recipe with Coconut"
 slug: "coconut-almond-cookies"
-description: "Crispy coconut almond cookies made with almond flour, desiccated coconut, and aquafaba. Naturally sweetened with less sugar, baked gently at 175°C for perfect texture."
-metaDescription: "Coconut almond cookies recipe using almond flour and aquafaba instead of eggs. Crispy, less sugar, baked low and slow. Try it tonight."
-ogDescription: "Crispy coconut almond cookies made with almond flour. Aquafaba replaces eggs, less sugar, gently baked. A smarter take on the classic."
-focusKeyphrase: "coconut almond cookies"
+description: "Almond joy cookies made with desiccated coconut, almond flour, and aquafaba. Naturally sweetened with cinnamon and vanilla, these crispy treats are perfectly baked at 175°C."
+metaDescription: "Make almond joy cookies using desiccated coconut, almond flour, and aquafaba. Crispy, naturally sweetened with vanilla and cinnamon. Try it tonight."
+ogDescription: "Crispy almond joy cookies with desiccated coconut and almond flour, sweetened naturally with cinnamon and vanilla."
+focusKeyphrase: "almond joy cookies"
 date: 2025-07-16
 draft: false
 image: coconut-almond-cookies.jpg
@@ -21,12 +21,16 @@ tags:
 - "almond"
 - "cinnamon"
 keywords:
+- "almond joy cookies"
+- "almond joy cookie recipe"
 - "coconut almond cookies"
-- "almond flour coconut flour cookies"
+- "almond flour coconut cookies"
+- "coconut flour healthy cookies"
 - "almond meal coconut cookies"
-- "coconut flour cookies vegan"
+- "coconut flour keto cookie"
+- "almond coconut macaroon"
+- "coconut flakes cookies"
 - "almond and coconut cookies"
-- "almond coconut cookie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "120"
@@ -63,3 +67,79 @@ faq:
 - "q: How to adjust for baking? a: Watch closely after 10 minutes. Edges need golden brown. Middle should remain soft. Don't rush."
 
 ---
+
+Wet your hands. Roll into balls. That's the whole thing.
+
+## Why You'll Love These Almond Joy Cookies
+
+Takes 27 minutes total — 12 minutes of mixing, 15 in the oven.
+Vegan. No eggs, no butter, no dairy at all. Just coconut, almond flour, aquafaba. Works.
+Tastes like the candy bar but less heavy. The cinnamon does something.
+Cold the next day, maybe better. Texture gets a tiny bit firmer but still soft inside.
+Cleanup is basically nothing — one bowl, wet hands, done.
+
+## What You Need for Almond and Coconut Cookies
+
+Desiccated coconut unsweetened. That specific kind. Not the sweetened stuff. 175 ml.
+Sugar. Regular sugar. 100 ml.
+Almond flour. Not almond butter. Just the ground up almonds. 15 ml sounds tiny but it changes everything.
+Aquafaba — the water from a can of chickpeas. About 2 tablespoons, or 30 ml. The liquid, not the beans.
+Salt. A pinch. Just a pinch.
+Ground cinnamon. Half a teaspoon. Maybe a touch more if you like it.
+Vanilla extract. Half a teaspoon. The real kind works. Fake works too.
+
+That's it. Seven things.
+
+## How to Make Almond Coconut Flour Cookies
+
+Heat the oven to 175 degrees Celsius — that's 350 Fahrenheit. Center rack. Line your sheet with parchment paper. Doesn't have to be perfect.
+
+Dump the coconut into a bowl. Add the sugar. Add the almond flour, salt, cinnamon, vanilla. Stir it all together. Really mix it. You want everything combined or the cinnamon ends up in clumps.
+
+Pour the aquafaba in slowly. Stir as you go. This matters — you're looking for a dough that sticks together but isn't wet. It should feel tacky, not slippery. If it's still too dry, add a tiny bit more aquafaba. Like, a teaspoon. Taste doesn't change. Texture does.
+
+## How to Get Almond and Coconut Macaroons Crispy on the Edges
+
+Wet your hands under the faucet. Shake them off — you want them damp, not dripping. Scoop about 25 ml of dough into your palm. Roll it into a ball. They don't have to be perfect. Kind of lumpy is fine.
+
+Place them on the parchment about an inch and a half apart. They spread barely at all but you need space.
+
+Flatten each one a little with your palm or a fork. Not thin. Just flatten it down so it's more like a thick cookie than a golf ball. This is where they get crispy edges — the thinner parts brown, the thick center stays soft.
+
+Bake for 12 to 15 minutes. Start checking at 12. The edges should be turning golden brown — that color like dark honey — but the center should still look a bit pale and soft. That's when you pull them out.
+
+Leave them on the sheet. Don't move them yet. They set up as they cool. Five minutes in, you can move them if you want. Ten minutes is safer.
+
+## Almond Joy Cookie Tips and Common Mistakes
+
+Don't skip the wetting your hands part. It makes rolling way easier and keeps everything from sticking everywhere.
+
+The aquafaba is the binder here — it does what eggs do. You can't skip it. You can't replace it with milk either. Different thing entirely.
+
+Coconut flour cookies spread less than regular cookies. They stay pretty much where you put them. So spacing isn't as critical as it looks, but do it anyway. Bad habit to break.
+
+Golden brown but soft in the middle — that's the target. Overbaking makes them hard all the way through. Underbaking makes them kind of crumbly because nothing's set yet. You'll know after the first batch. It's maybe 30 seconds difference between perfect and too done.
+
+The cinnamon is not optional. It's what makes them taste less like straight coconut and more like something. Add it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Almond Joy Cookie Recipe
+
+**Can you make these vegan coconut macaroon cookies without aquafaba?**
+Not really. You need something to hold it together. Aquafaba is the binder. Milk doesn't work the same way.
+
+**How long do these coconut almond cookies stay fresh?**
+Three days in an airtight container. Maybe four if your kitchen's cool. After that they get harder and kind of dry. Doesn't mean they're bad — just different.
+
+**Can you freeze almond and coconut flour cookies?**
+Yeah. Stack them in a freezer bag. Up to a month. Thaw them at room temperature for maybe 20 minutes before eating.
+
+**What if your dough is too dry?**
+Add a teaspoon more aquafaba. Stir. Wait a minute. The coconut absorbs it slowly so sometimes it looks too dry and then it's fine.
+
+**Do these coconut macaroons with almonds work with coconut flour instead?**
+Not a direct swap. Coconut flour absorbs way more liquid. You'd need to add way more aquafaba and it changes the whole thing. Haven't tried it. Probably not.
+
+**Can you make these cookies without cinnamon?**
+You can. They taste more like straight coconut macaroons then. Nothing wrong with that. But the cinnamon is kind of the point — it makes them taste like the candy bar instead of just cookies.
