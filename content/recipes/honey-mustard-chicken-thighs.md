@@ -1,10 +1,10 @@
 ---
-title: "Honey Mustard Chicken Thighs"
+title: "Honey Mustard Chicken Thighs with Roasted Vegetables"
 slug: "honey-mustard-chicken-thighs"
-description: "Roasted chicken thighs glazed with a honey mustard sauce infused with smoked paprika and fresh thyme. Paired with spiced roasted Brussels sprouts, caramelized onions, and sweet baby carrots. Dual cooking dishes, timing staggered to get everything tender with crispy edges. Sauce balances sweet, tangy, and smoky heat; sambal oelek swapped for smoked paprika and fresh thyme to add earthiness. Technique prioritizes texture and aroma over clocks. Pan-sautéed aromatics build depth before adding sweet and acidic elements. Vegetables tossed in avocado oil for higher smoke point and subtle nuttiness. Check chicken by wiggling a leg and juices running clear. Familiar substitutions; swap Brussels sprouts for broccolini; Dijon for grainy mustard."
-metaDescription: "Honey Mustard Chicken Thighs roasted with smoky paprika and fresh thyme. Crispy skin, tender meat, roasted Brussels sprouts and baby carrots coated in avocado oil. Savory sauce brightened with ketchup and honey."
-ogDescription: "Skin crisp, juices running clear. Roasted chicken thighs with honey mustard sauce, smoked paprika, thyme. Veggies caramelized, onions sweet. Timing staggered, flavor depth layered."
-focusKeyphrase: "Honey Mustard Chicken Thighs"
+description: "Roasted chicken thighs glazed with honey Dijon mustard, smoked paprika, and fresh thyme. Served with caramelized onions, Brussels sprouts, and roasted carrots for a complete dinner."
+metaDescription: "Honey mustard chicken thighs with Brussels sprouts, carrots, and caramelized onions. Glazed with Dijon mustard, smoked paprika, and fresh thyme. Make it tonight."
+ogDescription: "Crispy roasted chicken thighs glazed with honey mustard sauce, served with caramelized onions, Brussels sprouts, and carrots."
+focusKeyphrase: "honey mustard chicken thighs"
 date: 2025-08-15
 draft: false
 image: honey-mustard-chicken-thighs.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "fall"
 keywords:
-- "chicken thighs"
-- "roasted vegetables"
-- "mustard glaze"
+- "honey mustard chicken thighs"
+- "roasted chicken thighs"
+- "honey mustard chicken"
+- "easy roasted chicken thighs"
+- "honey mustard chicken with brussels sprouts"
+- "roasted chicken thighs with caramelized onions"
+- "glazed chicken thighs with smoked paprika and thyme"
+- "honey dijon mustard roasted chicken thighs"
+- "chicken thighs with roasted vegetables"
+- "fall chicken dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "430"
@@ -74,3 +81,79 @@ faq:
 - "q: How to store leftovers? a: Cool fast, fridge keeps 3–4 days. Sauce might thicken; thin with water or stock reheating. Veggies best eaten day one but can reheat gently in oven or pan to revive edges. Freezing okay but affects texture; reheat slow."
 
 ---
+
+Chicken thighs go in the oven. Vegetables around them. Honey mustard sauce that gets sticky and deep. That's it.
+
+## Why You'll Love This Easy Roasted Chicken Thighs Dinner
+
+Takes just over an hour total and you're done. No babying. Skin comes out actually crisp—the kind that snaps. Brussels sprouts caramelize instead of turning to mush. The fall flavors hit different with smoked paprika and fresh thyme. Cold leftovers somehow taste better the next day. One pan for chicken, one for vegetables. Not nothing, but cleanup moves fast.
+
+## What You Need for Honey Mustard Chicken With Brussels Sprouts
+
+Six chicken thighs. Skin on. That's where the fat goes and why it matters.
+
+Three hundred grams of Brussels sprouts, halved. Rough cuts work. Two medium onions sliced thick—not thin. Thick pieces get caramelized, thin ones burn. Four hundred fifty grams of mini carrots, whole.
+
+Olive oil and avocado oil. Not the same thing. Olive oil in the pan for the sauce, avocado oil on the vegetables and chicken skin because it handles heat better without getting bitter.
+
+Honey. Fifteen milliliters. Dijon mustard and whole grain mustard. Whole grain one gives texture. Can't skip it. Smoked paprika, turmeric, fresh thyme leaves. Not dried. Fresh works different. Garlic, two cloves minced. Salt coarse. Black pepper cracked. Ketchup—yes, ketchup. Fifteen milliliters. Sounds weird. Adds sweetness and depth without being obvious about it.
+
+## How to Make Honey Mustard Chicken Thighs
+
+Heat the oven to 190 Celsius. Rack goes in the middle so heat moves around everything evenly.
+
+Small skillet on medium-high with olive oil. Wait until it shimmers. Drop in the onions and garlic. They'll sizzle right away. Listen for it. You want them soft with brown edges starting to show. Takes maybe five minutes. Stir in the smoked paprika and turmeric. The smell changes immediately. Deeper. Don't let it sit there burning though. One minute tops.
+
+Pull it off heat. Stir in honey, both mustards, ketchup, fresh thyme, cracked pepper. The sauce goes glossy and thick. That's right. Set it to the side and let it stay warm.
+
+Pat the chicken thighs dry. Rub salt and pepper all over them, especially the skin. Score the skin lightly—just shallow cuts—so the fat can render out while it roasts. Coat them with avocado oil on the skin side. That's what makes it crisp.
+
+## How to Get Crispy Skin on Roasted Chicken Thighs With Caramelized Onions
+
+Arrange the thighs skin-side up in a baking dish. They shouldn't touch or overlap. Space matters. Crowded pan means steamed skin, not crisp.
+
+Other baking dish gets the vegetables. Halved Brussels sprouts, thick onion slices, whole carrots. Toss everything with avocado oil, salt, pepper. Coat them—don't drown them. Even coating is what caramelizes them.
+
+Both dishes go in the oven side by side, slightly offset so air actually moves. Vegetables roast about forty minutes. Stir them halfway through. Stop them from burning on the bottom while keeping everything brown and caramelized.
+
+Chicken takes about fifty-five minutes. You're watching for the skin to turn crisp and dark brown. The juices should run clear when you nudge the thigh. Meat pulls from the bone easy.
+
+Last ten minutes, watch it close. If the skin goes dull instead of dark, hit it with the broiler for two minutes. Keep your eyes on it. Broiler moves fast.
+
+Five minutes of rest after it comes out. Just sitting there. Juices redistribute. Meat stays actually moist instead of dry.
+
+## Honey Mustard Roasted Chicken Thighs Tips and Common Mistakes
+
+The sauce can separate if it gets too hot. Keep it warm, not hot. That's the difference.
+
+Vegetables need salt and pepper before they go in. Not after. Seasoning before roasting means flavor goes into them, not sitting on top.
+
+Avocado oil matters more than you think. Regular olive oil gets bitter at roasting temperature. Not worth fighting it.
+
+If your Brussels sprouts turn out mushy instead of caramelized, the pan was too crowded or you didn't cut them thick enough. Halves, not quarters. And space between them.
+
+The skin won't crisp if the chicken is wet. Dry it first. Pat it. Matters more than anything.
+
+Smoked paprika and turmeric do the heavy lifting for fall flavor. Fresh thyme on top makes it brighter. They work together. Neither one alone gets you there.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Honey Mustard Chicken Thighs
+
+**Can I use chicken breasts instead of thighs?**
+Technically yes. They'll cook faster, maybe forty minutes instead of fifty-five. Skin won't crisp the same way though. Thighs have fat. That's why they work.
+
+**How do I know when the chicken is actually done?**
+Juices run clear. Meat pulls from the bone when you nudge it with a fork. Don't cut into it to check—you lose the juices. Internal temp is 165 if you have a thermometer.
+
+**What if I don't have both types of mustard?**
+Extra Dijon works. Add a pinch of dry mustard powder if you have it sitting around. Gives you texture back. Not exactly the same but close enough.
+
+**Do the vegetables have to cook at the same time?**
+Nope. Roast them after the chicken's done. But the dish comes together better when they finish together. Timing is why this works.
+
+**Can I make the sauce ahead?**
+Make it up to a few hours before. Store it covered in the fridge. Warm it gently before serving. Don't boil it or the emulsion breaks.
+
+**What do I do with leftovers?**
+Cold chicken and vegetables the next day. Better than hot, honestly. Reheating dries it out. Sauce over the cold chicken brings it back.
