@@ -1,10 +1,10 @@
 ---
-title: "Frozen Sangria Slush"
+title: "Sangria Recipe with Prosecco & Raspberries"
 slug: "frozen-sangria-slush"
-description: "A quick frozen sangria slush with frozen raspberries swapped in for strawberries, dry rosé replaced by prosecco for bubbles and brightness, and homemade maple syrup instead of cane syrup. Blended to icy slush with a drink machine but adaptable. Notes on flavor balance and texture cues plus substitutes and common pitfalls included."
-metaDescription: "Frozen Sangria Slush swaps raspberries for strawberries, prosecco for rosé, and maple syrup for cane. Icy slush texture cues, subtle fizz, and flavor balance in 6 minutes."
-ogDescription: "Frozen raspberries, prosecco bubbles, and maple syrup blend in pulses to a cold slush. Watch texture, frost signals, and syrup levels for a crisp summer chill."
-focusKeyphrase: "Frozen Sangria Slush"
+description: "Frozen sangria slush recipe with prosecco, maple syrup, and frozen raspberries. Blended to icy perfection for a bright, refreshing cocktail."
+metaDescription: "Sangria recipe made with prosecco, frozen raspberries, and maple syrup. This frozen slush cocktail is bright and refreshing. Try it tonight."
+ogDescription: "Frozen sangria with prosecco and raspberries. A bright, refreshing slush cocktail with maple syrup sweetness."
+focusKeyphrase: "sangria recipe"
 date: 2025-08-11
 draft: false
 image: frozen-sangria-slush.jpg
@@ -21,9 +21,18 @@ tags:
 - "party"
 - "raspberry"
 keywords:
+- "sangria recipe"
+- "white sangria recipe"
 - "frozen sangria"
-- "prosecco cocktail"
-- "raspberry slush"
+- "prosecco sangria"
+- "sangria cocktail recipe"
+- "raspberry sangria"
+- "easy sangria recipe"
+- "cava sangria"
+- "sangria drink recipe"
+- "sangria slush"
+- "simple sangria recipe"
+- "best sangria recipe"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "95"
@@ -57,3 +66,80 @@ faq:
 - "q: Storage options? a: Slush best fresh; melting ruins texture quickly. Store covered in freezer for short term but ice crystals clump. No refrigeration; melts too fast. Freeze glasses to slow melt on serving. Stir before drinking if separation happens."
 
 ---
+
+Frozen raspberries straight from the freezer. Prosecco over them. Maple syrup. Pulse until it's half-frozen, half-liquid—that's the whole thing.
+
+## Why You'll Love This Sangria Cocktail
+
+Takes six minutes flat. Not an exaggeration. Throw things in a blender and you're done.
+Summer drink that actually tastes like fruit, not like you drowned berries in cheap wine and waited three days.
+Works for one person or eight. Scale it up. The math doesn't get harder.
+Cold without watering itself down because it's frozen raspberries doing the work, not ice cubes. They melt into the drink instead of diluting it into nothing.
+Tastes like a cocktail but it's basically fruit and bubbles. Feels less heavy than actual sangria.
+
+## What You Need for Raspberry Sangria
+
+Frozen raspberries. A full cup or so—doesn't need to be exact. Thawed ones get mushy, so keep them frozen straight from the bag.
+
+Prosecco. Not champagne (too dry, too expensive). Not cava (works but it's weird). The carbonation is the point. Flat wine makes this sad.
+
+Maple syrup. Thicker than regular sugar. Dissolves into the cold liquid better. A tablespoon, maybe a bit more depending on how sweet you like things. Not cloying. Just enough that it's not tart.
+
+That's it. Three ingredients. This is a white sangria cocktail that doesn't pretend to be complicated.
+
+## How to Make Frozen Sangria
+
+Dump the frozen raspberries into a blender or food processor. Don't thaw them. The ice crystals matter—they keep it slushy instead of turning it into juice.
+
+Pour the prosecco over top. The carbonation brings something. Flat wine doesn't work the same way. You need the bubbles.
+
+Add the maple syrup. Start with less than you think you need. You can always add more. Can't take it out.
+
+## How to Get the Texture Right
+
+Pulse the blender. Short bursts. Not continuous blending or you'll pulverize it into a smooth slush that melts in thirty seconds. You want texture—tiny frozen bits with liquid moving through it.
+
+Listen for the machine to slow down. That's the sign. When the sound shifts and you see frosty bits still moving around the bowl, stop. Look inside. You're watching for that moment where it's still icy but starting to have liquid in it.
+
+The second it stops being completely frozen and the frosty cloud forms—that's done. Over-blend and you get syrup. That's not the point.
+
+Serve it right away. It melts. Fast. Five minutes sitting and you've got mostly liquid with some berries floating in it. You want the icy texture. Drink it cold.
+
+## Sangria Cocktail Tips and What Goes Wrong
+
+Don't use fresh raspberries. They fall apart. Frozen ones hold their structure.
+
+Prosecco matters more than you'd think. It's not just a mixer. It's the whole vibe. Something about the bubbles keeps it light.
+
+The maple syrup dissolves better than granulated sugar in cold liquid. Less granular texture at the end. Smoother.
+
+Can't scale this down much more than one drink without it being weird to blend. It's fast enough that making one at a time is actually fine.
+
+If it comes out too thick, you over-blended. Add a splash more prosecco and stir. If it's too thin, you didn't freeze the berries enough or you blended too long. Happens. Next time, shorter pulses.
+
+The color is deep red because raspberries. Not like a wine sangria. This is a drink. Looks like it matters. Tastes better than it looks, which is saying something.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sangria Sangria Recipe
+
+**Can I make this without a blender?**
+Not really. You need the blending to break up the frozen berries while keeping them icy. A fork doesn't work. You could try a food processor. Might be grainier. Blender is the move.
+
+**Does this work with other frozen fruit?**
+Frozen strawberries, yeah. Frozen blackberries, sure. Frozen mangoes would be weird with prosecco but probably fine. The texture changes based on the fruit. Raspberries stay chunky in a good way.
+
+**How long does it stay slushy?**
+Five, maybe ten minutes if it's really cold. It melts. That's the trade-off. You make it right before you drink it.
+
+**Can I use cava instead of prosecco?**
+White sangria made with cava works. It's drier, so adjust the maple syrup down a bit. Different vibe. Not worse, just different.
+
+**What if I want it sweeter?**
+Add more maple syrup. Start with half a tablespoon extra. Taste and go from there. Some people like it almost dessert-like. Some don't. No rules.
+
+**Can I make a big batch ahead?**
+You can mix the raspberry and syrup part in advance. Keep it frozen. Add prosecco right before blending. Don't blend ahead. It separates. The bubbles disappear. Defeats the whole purpose.
+
+**Does this work as a red sangria recipe too?**
+Not with raspberries. Red sangria is usually wine and whole fruit sitting for hours. This is different. This is a frozen raspberry cocktail drink. Totally different approach. Both good, just different things.
