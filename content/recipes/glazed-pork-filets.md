@@ -1,10 +1,10 @@
 ---
-title: "Glazed Pork Filets Fig Herbs"
+title: "Glazed Pork Filets with Apricot Jam"
 slug: "glazed-pork-filets"
-description: "Two pork filets about 240 g each, olive oil, salt, fresh herbs (rosemary and thyme replaced by oregano and basil), garlic cloves halved, apricot jam instead of fig jam, plus a splash of balsamic vinegar. Marinated briefly, seared on high heat with herbs and garlic, finished roasting until tender but pink inside. Rested, then glazed with jam mixture. Sliced thin, served with a spicy romesco asparagus side. Cooking times adjusted slightly for a tender bite, herb mix swapped, and fruity glaze switched for a different twist."
-metaDescription: "Glazed Pork Filets with oregano, basil, apricot glaze and balsamic vinegar. Sear, roast to 62 °C, rest 7 mins. Serve sliced with spicy romesco asparagus."
-ogDescription: "Pork filets rubbed with herbs, garlic, seared then roasted. Apricot jam glaze with balsamic vinegar adds fruit sharpness. Serve thin slices with romesco asparagus."
-focusKeyphrase: "Glazed Pork Filets"
+description: "Pan-seared pork filets glazed with apricot jam, oregano, basil, and balsamic vinegar. Tender, herb-infused dinner ready in 30 minutes."
+metaDescription: "Glazed pork filets with apricot jam, fresh oregano, basil, and garlic. Pan-seared and roasted to tender perfection. Make it tonight."
+ogDescription: "Tender pork filets glazed with apricot jam, oregano, basil, and balsamic vinegar for an easy mediterranean dinner."
+focusKeyphrase: "glazed pork filets with apricot jam"
 date: 2025-07-27
 draft: false
 image: glazed-pork-filets.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy dinner"
 - "main dish"
 keywords:
+- "glazed pork filets with apricot jam"
 - "pork filets"
-- "apricot jam glaze"
-- "herb marinated pork"
+- "pan seared pork with herbs and garlic"
+- "roasted pork filets oregano basil"
+- "pork filets with balsamic vinegar glaze"
+- "garlic herb crusted pork filets"
+- "roasted pork"
+- "mediterranean pork dinner"
+- "apricot jam glazed pork"
+- "herb roasted pork filets"
+- "easy pork filet recipes"
+- "weeknight pork dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -63,3 +72,92 @@ faq:
 - "q: Can leftovers be stored and reheated? a: Yes refrigerated within 2 hours, keep sliced or whole wrapped tight. Reheat gently to avoid drying; use oven at low temp or warm pan quickly. Glaze might get sticky or dry off; add small splash water or fresh glaze if needed. Consume within 2-3 days."
 
 ---
+
+Pan sears in under five minutes. Then the oven does the work while you do literally nothing. Pork comes out pink in the middle, caramelized on the edges, brushed with this sweet-sharp apricot glaze that shouldn't work but completely does.
+
+## Why You'll Love This Glazed Pork Filets
+
+Takes 37 minutes total. Most of that is hands-off roasting.
+
+One pan. Herbs go in at the start and stay there the whole time—they flavor the oil, the meat soaks it up. Not a lot of fussing.
+
+Looks fancy. Tastes like it took hours. People ask for the recipe. Then they don't make it because they think it's complicated, but it's not.
+
+The glaze is literally two ingredients mixed together. Apricot and vinegar. Sweet and sharp at the same time.
+
+Pink inside. Juicy. Most people overcook pork out of fear. This one doesn't let you.
+
+## What You Need for Mediterranean Pork Filets
+
+Two pork filets. Around 240 grams each—the thicker ones from the butcher, not the thin stuff from the grocery store. Matters for even cooking.
+
+Olive oil. Not the fancy cold-pressed kind, just regular. You're heating it anyway.
+
+Salt. Slightly less than a teaspoon. Distribute it so it actually touches the meat, not just sitting on top.
+
+Oregano and basil. Fresh. Two sprigs each. Dried doesn't have the same smell—doesn't work here.
+
+Two garlic cloves cut in half. That's it. Small pieces burn, whole cloves don't cook through.
+
+Apricot jam. About a tablespoon and a half. And balsamic vinegar. One teaspoon. Sounds random. It's not.
+
+## How to Make Pan Seared Pork with Herbs and Garlic
+
+Toss the herbs and garlic with olive oil and salt first. Let them sit. Oil gets all the flavor.
+
+Rub the pork down. Both sides. Get oil on every part. Then leave it on the counter for 10 to 15 minutes. Room temperature meat cooks more evenly. Cold meat from the fridge takes longer and dries out at the edges.
+
+Heat the oven to 200°C. That's about 390°F. Rack goes in the middle.
+
+Get a skillet hot. Like actually hot. You want a serious sizzle when the pork hits. High heat. 
+
+Place the filets in. The herbs and garlic go in with them. You'll hear it right away. That's good. Four to five minutes, not more. Don't move them around. Let one side get dark, flip, let the other side go dark. Caramelization is the goal here.
+
+## How to Get Roasted Pork Filets Oregano Basil Cooked Right
+
+Straight from the pan into the oven. Herbs and all.
+
+Roast for 17 to 18 minutes. Flip halfway through—that's around the nine-minute mark. The meat should feel a tiny bit soft when you press it, not firm. Temperature should hit 62°C inside. That's 143°F. Pink. Still juicy. This is where people mess up. They cook it to 70°C because someone told them to once, and then it's dry.
+
+While that's going, mix the apricot jam with the balsamic vinegar. Do it in a small bowl. Stir until there's no jam clump sitting alone. Should be loose, almost pourable.
+
+## Garlic Herb Crusted Pork Filets Tips and Common Mistakes
+
+Pull the pork out. Brush the glaze on top. Just the top. Both sides would be too much. 
+
+Let it rest seven minutes uncovered. This is real. The meat keeps cooking a little bit inside, and the juices settle. Cutting right away means they run all over the plate instead of staying in the meat.
+
+Carve thin. Against the grain if you can tell which way that is. If you can't, just go thin. Thick slices are chewy. Thin slices are tender.
+
+Serve it with asparagus or whatever vegetable. The glaze is already doing the sauce job, so don't overthink sides.
+
+Common thing: people don't let the pan get hot enough. You want a sizzle. If it just sort of quietly browns, the heat isn't there yet.
+
+Another thing: cooking it past 62°C. It doesn't get better after that. It gets drier. Start checking at 16 minutes, not 18.
+
+The herbs sit in the pan the whole time. They char a little. That's not a mistake. That's the point. If you hate charred oregano, you could pull them out after pan-searing, but they add something.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Apricot Jam Glazed Pork Main Dish
+
+**Can you make this with something other than pork filets?**
+Pork chops would work. Probably add a minute or two if they're thicker. Chicken breast too, but lower the temp to 190°C and watch it closer—dries out faster.
+
+**What if you can't find pork filets?**
+The tenderloin works. Cut it into two thick pieces. Butcher does it if you ask. Or pork chops from the rib section, just pick thick ones.
+
+**How hot should the pan actually be?**
+You want oil shimmering. Not smoking. Shimmering. When the pork hits it should sound aggressive. That sizzle means the surface is going to brown right.
+
+**Is there a substitute for apricot jam?**
+Fig jam does basically the same thing—sweet, slightly tangy. Peach works too. Don't use preserves with huge chunks. Texture gets weird. And don't use grape or strawberry. Doesn't match the herbs.
+
+**Why balsamic and not regular vinegar?**
+Regular vinegar is too sharp. Overpowers the apricot. Balsamic's sweet underneath the sour. Balances it.
+
+**Can you cook this on a grill instead?**
+Maybe. Heat would have to be really controlled. High for the sear, then move to lower heat. Most people's grills don't do that well. Oven's easier. More reliable.
+
+**Does it have to rest for seven minutes?**
+Five minutes minimum. Seven's better. Any less and the juices run out when you cut it. Tastes like nothing then.
