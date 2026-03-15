@@ -1,10 +1,10 @@
 ---
-title: "Garlic Herb Pull Apart Rolls"
+title: "Ciabatta Rolls with Garlic Herb Butter"
 slug: "garlic-herb-rolls"
-description: "Quick little pull-apart rolls using biscuit dough, tossed in garlic herb butter. Bite-sized and packed with Italian seasoning and fresh basil. Easy, but watch the butter mix; too much can drown the dough. The basil twist replaces oregano for a fresher hit. Muffin tins keep them contained and shapely, golden tops crisp, bottoms soft. A tweak on a classic, with a subtle hum of garlic powder and a pinch of salt balancing flavors. Not too dense but crunchy edges. Bite, tear, pull apart. Sounds crackle in the oven at around 355°F for best results. Pay attention as brown spots pop; that’s when they are just right. Hands-on rolling, stirring. Simple but worth the watch time. Makes six generous rolls."
-metaDescription: "Garlic Herb Pull Apart Rolls using quartered biscuit dough tossed in garlicky butter and fresh basil. Crispy edges, tender centers baked at 355 degrees for six rolls."
-ogDescription: "Biscuit dough torn, coated in garlic herb butter with fresh basil, baked in muffin tins. Crispy tops, soft middle, subtle garlic, Italian seasoning hum. Six bites ready fast."
-focusKeyphrase: "garlic herb pull apart rolls"
+description: "Make ciabatta rolls with biscuit dough, melted butter, and fresh basil. Italian seasoning and garlic powder create pull-apart rolls with crispy golden tops and soft centers."
+metaDescription: "Ciabatta rolls made easy with biscuit dough, garlic herb butter, and fresh basil. Italian seasoning adds authentic flavor. Make it tonight."
+ogDescription: "Pull-apart ciabatta rolls with garlic herb butter, fresh basil, and Italian seasoning. Crispy, golden, and irresistible."
+focusKeyphrase: "ciabatta rolls"
 date: 2026-01-28
 draft: false
 image: garlic-herb-rolls.jpg
@@ -21,9 +21,16 @@ tags:
 - "italian"
 - "easy"
 keywords:
+- "ciabatta rolls"
+- "pull apart bread"
+- "garlic butter bread"
+- "pull apart garlic bread"
+- "italian rolls"
+- "garlic dinner roll"
+- "butter garlic bread recipe"
 - "pull apart rolls"
-- "garlic herb biscuits"
-- "basil garlic rolls"
+- "italian seasoning bread"
+- "basil garlic bread"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "236"
@@ -62,3 +69,97 @@ faq:
 - "q: How to store leftovers? a: Keep rolls in airtight container to stop drying. Avoid fridge; makes crumb tough. Leftovers lose softness fast in microwave; toaster oven milder heat restores crisp edges without sogginess. Reheat warm but not hot to keep butter texture. Consume within a day or two for best tactile feel. Freeze if planning longer storage; thaw wrapped to keep moisture. Don’t leave out too long; butter can spoil in warm settings."
 
 ---
+
+Biscuit dough straight from the can. Cut each one into four pieces. Toss them in butter and garlic, salt them right, and 20 minutes later you've got ciabatta rolls that pull apart like they cost fifteen dollars at a bakery.
+
+## Why You'll Love This Ciabatta Bread Rolls Recipe
+
+Takes 12 minutes of actual hands-on work. The rest is just waiting for the oven.
+
+Pulls apart warm — that's the move. Doesn't work cold. Doesn't work the next day. Hot from the pan, still steaming, torn into chunks. That's when it works.
+
+One can of biscuit dough. Vegetarian. Nothing complicated. No yeast timing. No kneading. Italian seasoning does the heavy lifting on flavor.
+
+Muffin tin means six separate rolls that don't stick together — easier than baking on a sheet.
+
+Garlic butter coating stays put instead of pooling at the bottom like it does with regular dinner rolls.
+
+## What You Need for Italian Pull Apart Rolls
+
+One can of refrigerated biscuit dough, the kind that comes in eight pieces. Quarter each biscuit. They don't have to be perfect — rougher actually works better here.
+
+Melted butter. Not olive oil. Butter gets that sizzle at 355°F.
+
+Fine sea salt. Half a teaspoon. Coarser salt bounces off. Fine salt sticks.
+
+Italian seasoning. A teaspoon. Not oregano alone — the blend matters. Fresh chopped basil mixed in too. The fresh basil is the thing that makes this taste like actual bread, not just buttered dough.
+
+Garlic powder. Half a teaspoon. Real garlic burns. Powder doesn't.
+
+Red pepper flakes if you want heat. Optional. A pinch. Most people skip it.
+
+## How to Make Garlic Butter Pull Apart Bread
+
+Heat the oven to 355°F first. Not 350. That extra five degrees gets the outside crispy instead of soft.
+
+Break the biscuits apart. They separate naturally. Then quarter each piece. Rough chunks. Doesn't matter if they're different sizes.
+
+Drop everything into a large bowl. The butter goes in next — already melted, still warm. Add the salt, Italian seasoning, basil, garlic powder all at once. Whisk it together so nothing settles.
+
+Dump the biscuit pieces into the butter mixture. Toss until every chunk has butter on it. You want them glistening. It looks like too much butter. It's not.
+
+Red pepper flakes if you're using them. Just a pinch. Stir again.
+
+## How to Get Ciabatta Pull Apart Rolls Crispy and Perfect
+
+Grab a muffin tin. Six wells. Divide the buttered pieces evenly across them. Don't pack tight. They rise when they bake. Packed means they steam instead of crisping.
+
+Straight into the oven. 20 minutes. Watch around minute 18. The tops should turn golden — the color of old wood, almost tan. The edges might sizzle a little. That's the butter doing its thing.
+
+Dark spots are fine. Burnt is when they're black. Dark is when they're done.
+
+Let them sit for five minutes. Not ten. Not thirty seconds. Five minutes. They firm up just enough so they don't crumble when you grab them.
+
+Pull them out of the muffin tin while they're still warm. They come out easier when there's heat. They taste better warm too — the butter's still soft, the basil still bright.
+
+## Pull Apart Bread Tips and Common Mistakes
+
+Don't use olive oil instead of butter. Olive oil doesn't brown. Butter gets crispy edges.
+
+Packing the muffin wells tight kills the whole thing. They don't rise. They stay dense. Leave space.
+
+Fresh basil makes a difference. Dried basil tastes like paper. This one needs fresh.
+
+If you're adding the red pepper flakes, add them when the butter's still hot. Cold butter won't distribute them evenly.
+
+Trying to serve them cold doesn't work. Room temperature they're okay. Reheated they're better. Hot from the oven they're the move.
+
+355°F not 350°F. The extra heat matters for the crust. Tested this. Higher temp wins.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Ciabatta Rolls and Garlic Butter Bread
+
+**Can I make these ahead?**
+Yeah, but don't. Mix the butter sauce the night before. Assembly takes two minutes. Bake them fresh. They're not the same the next day — still fine, but dry.
+
+**What if I don't have Italian seasoning?**
+One teaspoon of dried oregano. Half a teaspoon of dried basil. Pinch of thyme. Close enough. The fresh basil is the part that really matters though.
+
+**Do these work with crescent roll dough?**
+Different texture. Crescent dough is more flaky. This recipe needs biscuit dough specifically — it breaks into chunks instead of flaking apart. They're two different things.
+
+**Can I use garlic instead of garlic powder?**
+Not really. Fresh garlic burns at 355°F. Powder doesn't. Tried it once. Burnt. Stick with powder.
+
+**Why muffin tins instead of a sheet pan?**
+Muffin tins keep them separated. Sheet pan and they merge into one mass. Muffin tins give you individual pull-apart rolls instead of one big piece.
+
+**How do I know when they're done?**
+Golden on top. Edges sizzle a little. They smell like garlic butter got hot. That's it. Doesn't need a thermometer.
+
+**Can I add cheese to the garlic butter bread?**
+Probably. Shredded mozzarella or parmesan mixed into the butter before tossing. Not tested it though. Seems logical.
+
+**How long do these stay good?**
+Room temperature maybe four hours. In the fridge, wrapped up, two days. After that they're stale. Reheat in a 300°F oven for five minutes if you're keeping them.
