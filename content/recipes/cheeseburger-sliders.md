@@ -1,10 +1,10 @@
 ---
-title: "Cheeseburger Sliders with Caramelized Onions"
+title: "Cheeseburger Sliders with Sharp Cheddar"
 focusKeyphrase: "cheeseburger sliders"
 slug: "cheeseburger-sliders"
-description: "Pan-seared ground beef with caramelized onions and Worcestershire layered with sharp cheddar in buttered Hawaiian rolls. Baked until golden with tangy burger sauce."
-metaDescription: "Cheeseburger sliders recipe with caramelized onions, sharp cheddar, and garlicky butter. Oven-baked Hawaiian roll sliders ready in 30 minutes. Make them tonight."
-ogDescription: "Melted cheddar, caramelized onions, and garlicky buttered rolls. These baked cheeseburger sliders are messy, packed, and impossible to stop eating."
+description: "Ground beef cheeseburger sliders topped with sharp cheddar and caramelized onions, baked on Hawaiian rolls with Worcestershire sauce and homemade burger sauce."
+metaDescription: "Cheeseburger sliders made with ground beef, sharp cheddar, and caramelized onions on soft Hawaiian rolls. Try it tonight."
+ogDescription: "Ground beef sliders with sharp cheddar, caramelized onions, and tangy burger sauce baked on Hawaiian rolls."
 focusKeyphrase: "cheeseburger sliders"
 date: 2025-10-13
 draft: false
@@ -24,14 +24,16 @@ tags:
 keywords:
 - "cheeseburger sliders"
 - "cheeseburger sliders hawaiian rolls"
+- "burger sliders hawaiian rolls"
+- "cheese burger slider recipe"
+- "ground beef hawaiian roll sliders"
 - "baked cheeseburger sliders"
-- "hamburger sliders recipe"
-- "burger sliders oven"
-- "ground beef sliders with hawaiian rolls"
 - "sheet pan cheeseburger sliders"
-- "easy cheeseburger slider recipe"
 - "cheeseburger sliders with worcestershire sauce"
-- "caramelized onion sliders"
+- "easy cheeseburger slider recipe"
+- "slider burger recipe"
+- "best cheeseburger sliders"
+- "hamburger sliders recipe with hawaiian rolls"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "280"
@@ -82,3 +84,89 @@ faq:
 - "q: Storage options after baking? a: Cool completely before wrapping tightly or place in airtight container. Refrigerate up to 2 days. Reheat gently in oven on low heat or covered skillet to restore texture. Microwave risks soggy bread and rubbery cheese. For longer keep, freeze assembled but unbaked sliders. Thaw overnight in fridge then bake as usual, maybe few extra minutes."
 
 ---
+
+Two pounds of beef. One skillet. Twelve sliders ready in 24 minutes flat. This is the kind of food that disappears before you finish plating it.
+
+## Why You'll Love These Cheeseburger Sliders
+
+Makes 12 sliders — that's appetizer-sized portions that work for crowd feeding or solo eating. Comfort food that tastes like you spent way more time than you actually did.
+Caramelized onions built right into the meat. No assembly theater. Just beef that already tastes like it came from somewhere.
+Baked, not fried. Still gets that golden, melted-cheese thing without the oil splatters. Cleanup's way faster than burger bar mode.
+Works as an appetizer or full meal. Serve three to a person at a party, or make it dinner with a side. Flexible like that.
+Tastes better the next day cold, somehow. Not that there's usually a next day.
+
+## What You Need for Cheeseburger Sliders
+
+Olive oil. One tablespoon. Warms the onions and keeps the skillet from sticking.
+A yellow onion sliced thin. Medium size. The edges caramelize first, which is the whole point.
+Ground beef — a quarter pound short of a pound and a half. 80/20 blend works. Don't use the super lean stuff; it'll taste like cardboard.
+Three garlic cloves minced. Not a food processor situation. A knife and a cutting board. Takes two minutes.
+Worcestershire sauce. Two teaspoons. This is what makes it taste like a real burger, not just cooked beef.
+Dijon mustard — a teaspoon and a half. Sharp. The yellow stuff doesn't work here. Different flavor entirely.
+Kosher salt for the meat, a quarter teaspoon short of two. Fine sea salt for the butter topping — one teaspoon. They're not the same thing.
+Black pepper. Three-quarters teaspoon. Freshly ground. Peppercorn mill or it doesn't count.
+Sixteen slices of sharp cheddar. Not mild. Not American cheese. Sharp cheddar or don't bother.
+Twelve small soft rolls. Most people use Hawaiian rolls. Work fine. Brioche rolls work too, more buttery. Some people use dinner rolls. Smaller rolls stay proportional to the slider size.
+Unsalted butter. Six tablespoons softened for assembly, plus for the topping. Salted butter will make it too salty — you're already adding salt to the topping mix.
+Garlic powder for the butter topping. One teaspoon. Not garlic salt. Powder only.
+Sesame seeds. One tablespoon. That crunch matters.
+Burger sauce: mayo, ketchup, yellow mustard, pickle juice. The ratios are tight. Third cup mayo. Two tablespoons ketchup. One tablespoon mustard. Two teaspoons pickle juice. If it's too thick, thin it with more pickle juice. If it's too tangy, add more mayo.
+
+## How to Make Cheeseburger Sliders
+
+Heat the oven to 345 degrees. This temperature matters — too hot and the tops burn before the inside is done. Too low and the cheese doesn't really melt.
+Butter the bottom of a rimmed baking sheet. Not a light coat. Actual butter, enough that you can see it. This is non-negotiable. Sliders will stick otherwise.
+Pour olive oil into a medium skillet. Turn heat to medium-high. Wait 30 seconds. The oil should shimmer.
+Toss in the sliced onions. Stir immediately. You'll hear the sizzle right away. Let them sit for about 4 minutes, stirring occasionally. Edges will turn golden and brown. Some pieces will almost blacken. That's correct.
+Add the ground beef. Break it apart with a wooden spoon. Keep breaking it as it cooks. You're aiming for crumbled, not chunks. Takes about 7 minutes. When the pink disappears, it's done. Don't overcook it to gray — you want juicy still.
+Drain the fat carefully. Pour it into a small bowl, not the sink. If there's a lot of liquid, tilt the pan and use a spoon to scoop it out. Soggy sliders happen when you skip this step.
+Stir in the minced garlic. Cook for maybe 30 seconds. You'll smell it immediately — sharp and warm. Add Worcestershire, Dijon mustard, salt, and pepper. Stir. Cook another 30 seconds. Done. Remove from heat.
+
+## How to Assemble and Bake Cheeseburger Sliders
+
+Slice the rolls in half. Lay the bottom halves on the buttered baking sheet, flat side up.
+Brush the underside of each bottom with softened butter. Just a light touch — you're not drowning them. This keeps them from drying out.
+Whisk together the 6 tablespoons of softened butter with garlic powder and fine sea salt. Set that bowl aside.
+Top each bottom roll with one slice of sharp cheddar. Eight slices total for the bottoms. Layer it flat, no wrinkles. Cheese is the glue here — it's got a job.
+Spoon the beef mixture onto the cheese. Not a ton. Maybe two tablespoons per slider. It'll spread a little under the weight.
+Top each beef pile with another slice of cheddar. Pat it down lightly. Don't press hard — you're not making a brick. Just snug enough that it holds together.
+Place the roll tops on the sliders. This is the assembly done.
+Brush the tops with the garlic butter. Generous brush. Every surface should have some. Sprinkle sesame seeds evenly over everything.
+Bake at 345 for 13 to 16 minutes. The cheese will bubble at the edges. The buns will turn golden — not dark brown. If they're browning too fast, lay a piece of foil loosely on top. This stops the tops from burning while the inside finishes.
+The real signal is the cheese. When it's fully melted and the edges are bubbling, they're done. Time is approximate. Your oven is probably different.
+
+## Cheeseburger Slider Tips and Common Mistakes
+
+Don't skip the butter on the baking sheet. Sliders stick, they tear, they fall apart. Not worth it.
+The onions should caramelize. If they're just translucent and pale, they need more time. The brown bits are flavor.
+Drain the beef fat. This is the single biggest thing that makes them soggy. The meat gives off more liquid than you'd think.
+Don't overstuff them. Two tablespoons of beef per slider is the max. Overstuffed ones fall apart when you try to cut them.
+Cheese between meat and buns matters. It acts like adhesive. Plus the melted cheese on top keeps everything moist.
+Sharp cheddar only. Mild cheddar tastes like nothing. American cheese is too plastic-y and mild.
+The burger sauce goes on the side. Don't build it into the slider. Serve it on the side for dipping or spreading. This keeps the buns from getting soggy during storage.
+If you can't find Hawaiian rolls, brioche works. Dinner rolls work too — might make them look slightly less slider-sized but they taste the same.
+Bake in a preheated oven. Cold oven means uneven cooking. The cheese won't melt right.
+These keep in the fridge for two days, covered. Reheat in a 300-degree oven for 5 minutes. Don't microwave them — the buns turn to rubber.
+You can freeze them unbaked. Assemble everything, cover tightly, freeze. Bake from frozen — add maybe 3 extra minutes to the bake time.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cheeseburger Sliders
+
+**Can I use Hawaiian rolls for hamburger sliders?**
+Yeah. That's what most people use. They're small enough to stay proportional and soft enough that the slider doesn't fall apart. Brioche rolls work too. Dinner rolls work. Anything small and soft works.
+
+**What temperature should I bake burger sliders on hawaiian rolls?**
+345 degrees. Not 350, not 400. 345. Higher temp burns the tops before the cheese finishes melting. Lower temp and the buns don't brown.
+
+**How long does it take to make cheeseburger sliders?**
+7 minutes prep. 17 minutes cooking. 24 minutes total if you move at a normal pace. Maybe faster if you're organized. Slower if you're chatting.
+
+**Can I make these sliders without bacon?**
+There's no bacon in this recipe. The Worcestershire sauce and caramelized onions give you that savory depth. Beef only. Tastes like a real burger without the extra meat.
+
+**Why do my ground beef hawaiian roll sliders fall apart?**
+Too much filling. Cheese not between the meat and buns. Insufficient butter on the baking sheet. Or the buns are the flimsy grocery store kind that are more air than structure. Pick better rolls.
+
+**What's the difference between copycat white castle sliders and this recipe?**
+White Castle sliders are steamed. These are baked. White Castle uses onions that get cooked into the meat and steamed with the bun. This method uses caramelized onions and actual heat on the top. Texture's different. Flavor's more developed here.
