@@ -1,9 +1,9 @@
 ---
-title: "Greek Yogurt Air Fryer Bagels"
+title: "Greek Yogurt Bagels Air Fryer: No Yeast"
 slug: "air-fryer-yogurt-bagels"
-description: "Quick air fryer bagels made with Greek yogurt—no yeast, no boiling. Chewy inside, crisp outside, ready in under 45 minutes with poppy and sesame seeds."
-metaDescription: "Greek yogurt air fryer bagels ready in 45 minutes. No yeast or boiling needed. Crispy-chewy with seeds. Try it tonight."
-ogDescription: "Air fryer bagels made with Greek yogurt. Chewy, crispy, and done faster than you'd expect."
+description: "Make chewy Greek yogurt bagels in your air fryer—no yeast or boiling needed. All-purpose flour, whole wheat flour, and plain Greek yogurt create bagels ready in 45 minutes."
+metaDescription: "Greek yogurt bagels air fryer recipe with all-purpose flour, whole wheat flour, and poppy seeds. No yeast required. Make it tonight."
+ogDescription: "No-yeast air fryer bagels made with Greek yogurt, whole wheat flour, and sesame seeds. Chewy, crispy, and ready in 45 minutes."
 focusKeyphrase: "greek yogurt bagels air fryer"
 date: 2025-08-18
 draft: false
@@ -23,9 +23,16 @@ tags:
 keywords:
 - "greek yogurt bagels air fryer"
 - "air fryer greek yogurt bagels"
+- "air fryer bagels with greek yogurt"
 - "yogurt bagels air fryer"
-- "no boil bagels"
+- "no yeast bagels"
+- "easy air fryer bagels"
+- "homemade bagel recipe"
 - "quick bagel recipe"
+- "whole wheat bagels"
+- "bagels without boiling"
+- "greek yogurt recipes"
+- "air fryer bread"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "220"
@@ -72,3 +79,82 @@ faq:
 - "q: How to store leftovers? a: Paper bag room temp keeps crust crisper but softens crumb a bit. Plastic wrap traps moisture; crust loses crunch fast. Refrigeration dries crumb out quickly; if must refrigerate, toast before eating. Freeze bagels sealed tight, thaw and toast restores texture best."
 
 ---
+
+Two cups of flour, Greek yogurt, and nothing else—sounds like a setup for disaster. Except it works. And takes 50 minutes total. The dough comes together sticky and rough, rolls into ropes, gets seeds stuck to it, and then the air fryer does the actual work. Bagels. Real ones. Crispy outside, chewy in, and nothing weird in the ingredient list.
+
+## Why You'll Love This Air Fryer Greek Yogurt Bagels
+
+Ready in 50 minutes flat—20 minutes hands-on, the rest just waiting.
+No yeast. No overnight fermentation. Just mix, shape, seeds, heat.
+Breakfast that tastes like an actual bakery made it, except you did and spent five bucks on ingredients.
+Cleanup is nothing. One bowl. One plate. Done.
+Works cold the next day, maybe better—seeds get crispier, the chew stays.
+
+## What You Need for Greek Yogurt Air Fryer Bagels
+
+All-purpose flour and whole wheat flour mixed—about a cup total. Unbleached matters slightly but not desperately.
+
+Greek yogurt. The 2% kind works fine. Full fat gets greasier, nonfat sometimes too dry. Three quarters of a cup plus a tablespoon.
+
+Baking powder, baking soda, salt, sugar. Small amounts. The baking powder does the rise, the soda helps browning, salt's salt. Don't skip any.
+
+Olive oil. Two tablespoons into the dough, extra for the basket. Not coconut oil. Not butter. Olive works because it doesn't brown too fast in the air fryer.
+
+One egg white beaten loose. That's your glue for seeds. The yolk gets oily, whites stay clean.
+
+Poppy seeds and sesame seeds. Two tablespoons each. Or swap for everything bagel seasoning if you want—crushed walnuts work too for crunch.
+
+## How to Make Air Fryer Greek Yogurt Bagels
+
+Mix the dry stuff first. Two flours, baking powder, sugar, salt, baking soda—whisk them together until it looks dusty and speckled. This matters because the powder and soda need spreading through or you get weird dense patches.
+
+Pour the yogurt in. Then oil. Stir with a spoon until it's shaggy and falling apart. Switch to hands and squeeze it together. The dough should feel sticky but hold, not wet. Takes a minute. Stop early. Over-kneading makes it tough.
+
+Split into 4 pieces. They don't have to match—rustic bagels are fine. Roll each one into a rope about 25 centimeters long. Actually take time here. Pinch the ends together tight enough that the circle holds. If you skip this, it unravels while cooking.
+
+## How to Get Air Fryer Greek Yogurt Bagels Crispy
+
+Pour seeds onto a plate. Beat the egg white in a small bowl—just loose, not foamy. Brush one side of each bagel with it, then press that side into the seeds. Really press. The egg white makes seeds stick without turning soggy. Flip and brush the other side lightly with olive oil. Not a lot. Just a thin coat.
+
+Spray the air fryer basket with oil. Not a soak. A quick spray. Heat it at 185°C (365°F) for a minute while you load. Place 2 bagels seed side up, spaced so air moves around. Cook 6 to 7 minutes. Listen for soft crackles. Watch for the golden brown—it creeps in fast toward the end.
+
+Flip with tongs. The bottom starts raw still. Cook another 5 minutes until it browns too. Tap one—it should sound hollow, crust firm but not hard like a rock. If it's still soft underneath, add a minute.
+
+Cool on a rack after. Don't rush. If you slice while steaming, inside gets gummy.
+
+## Air Fryer Greek Yogurt Bagels Tips and Common Mistakes
+
+The dough gets stiff as it sits. That's normal. If it's cracking when you roll, add a spoon of yogurt. If it's sliding all over, dust with flour—just a little, not a coat.
+
+Crowding the basket means steam instead of air-fry. Two at a time works. Three is pushing it.
+
+Preheating matters more than you'd think. Cold basket, cold cook, pale crust.
+
+The next day, slice them and toast them. Seeds crisp up more, the chew stays, the slight tang gets sharper somehow. Better than fresh.
+
+No air fryer? Bake them on parchment at 200°C (400°F) for 12 to 15 minutes, flipping halfway through. Watch the color. Darker than you think is okay but burnt tastes bitter and sticks around.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Air Fryer Greek Yogurt Bagels
+
+**Can you make these without an air fryer?**
+Yeah. Oven works—200°C (400°F), 12 to 15 minutes, flip halfway. Watch the color close because ovens vary.
+
+**What if the dough is too sticky?**
+Dust with flour. Not a handful—a pinch at a time. You want it barely less sticky, not dry.
+
+**Do the seeds have to be poppy and sesame?**
+No. Everything bagel seasoning works. Crushed walnuts add crunch. Coarse salt too if you want savory without seeds.
+
+**How long do these last?**
+Room temp, sealed bag, maybe 2 days before they get hard. Fridge extends it another day or two. Freezer holds them fine—thaw and toast.
+
+**Can you use regular yogurt instead of Greek?**
+Regular yogurt is wetter. The dough gets harder to handle. Greek's thickness matters. Could work with less liquid elsewhere but easier to just use Greek.
+
+**Why does the dough need pinched ends?**
+The circle unravels if the rope isn't sealed tight. Pinch where it connects and hold a few seconds. Shapes stay put that way.
+
+**What's the egg white for?**
+Glue. Seeds stick to wet. Without it they slide off or don't adhere well. Yolk's too oily.
