@@ -1,10 +1,10 @@
 ---
-title: "Apple Pecan Salad Recipe with Candied Nuts"
+title: "Wendy's Apple Pecan Salad Recipe"
 slug: "apple-pecan-salad"
-description: "Homemade apple pecan salad with candied pecans, crisp greens, blue cheese, and apple cider vinaigrette. Sweet, savory, and crunchy in every bite."
-metaDescription: "Apple pecan salad recipe with candied pecans, tart apples, and tangy dressing. Make it at home tonight."
-ogDescription: "Candied pecans, tart apples, blue cheese, and a bright cider vinaigrette. Layer of contrast in one bowl."
-focusKeyphrase: "apple pecan salad recipe"
+description: "Homemade Wendy's apple pecan salad with candied pecans, honeycrisp apples, blue cheese, dried cranberries, and apple cider vinaigrette dressing."
+metaDescription: "Make Wendy's apple pecan salad at home with candied pecans, honeycrisp apples, blue cheese, and cranberries. Try it tonight."
+ogDescription: "Candied pecans, fresh apples, blue cheese, and cranberries in a tangy apple cider vinaigrette. Homemade Wendy's salad."
+focusKeyphrase: "wendy's apple pecan salad"
 date: 2026-01-22
 draft: false
 image: apple-pecan-salad.jpg
@@ -21,11 +21,18 @@ tags:
 - "cheese"
 - "fall"
 keywords:
+- "wendy's apple pecan salad"
+- "wendy's apple pecan chicken salad"
+- "apple pecan salad recipe"
 - "apple pecan salad"
-- "apple and pecan salad"
 - "apple pecan chicken salad"
-- "candied pecans"
-- "apple cider vinaigrette"
+- "apple cranberry pecan salad"
+- "wendy's apple pecan salad recipe"
+- "apple pecan salad dressing"
+- "chicken salad with apples and pecans"
+- "salad with apples cranberries and pecans"
+- "apple pecan salad wendy's ingredients"
+- "apple pecan spinach salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "624"
@@ -75,3 +82,78 @@ faq:
 - "q: Any alternatives to vinegars in vinaigrette? a: White vinegar swapped with champagne vinegar softens acidity. Apple cider must remain for luck of flavor. Lime juice replaceable with lemon but brightness shifts. Pineapple juice essential for tropical sweet zing but unsweetened preferred. Adjust honey based on pineapple juice sweetness to balance."
 
 ---
+
+Melt the butter in a skillet over medium heat. Brown sugar goes in next—it'll look glossy and kind of wet before it sets. This is the part where it burns if you're not watching. Pecans get tossed in, stirred constantly, the sugar coating every edge till they crackle and smell like caramel. Then the cinnamon hits—sharp, warm, alive. Nine minutes and you've got candied pecans that snap when they cool. The salad part is just greens, apples, blue cheese, cranberries, and that vinaigrette that tastes like fall even when it's not.
+
+## Why You'll Love This Apple Pecan Salad
+
+Takes 31 minutes total. Most of it's waiting for nuts to cool.
+The apple pecan chicken salad formula—sweet, salty, sharp all at once. Works cold. Works the next day, probably better.
+Candied pecans are the whole thing. Burnt sugar, cinnamon, butter. They change everything.
+Wendy's apple pecan salad vibes but you control the dressing. No hidden stuff.
+Fall flavors—apple, pecan, cinnamon. Even in July it tastes like October.
+Cleanup is actually fast. One skillet, one bowl, one dressing jar.
+
+## What You Need for Apple Pecan Salad
+
+Butter and brown sugar for the pecans—melted together, not separately. Salt's in there too, just enough. Water helps it all meld instead of crystallizing. Pecan halves, a cup and a half. Cinnamon. Not the bitter kind.
+
+The vinaigrette is olive oil, apple cider vinegar, white vinegar mixed. Apple cider's sweeter; white vinegar's aggressive. Together they balance. Lime juice, pineapple juice—sounds weird, tastes right. Honey to smooth it out. Salt, pepper, garlic powder. That's it.
+
+Spring mix is the base. Two medium honeycrisp apples, sliced. Blue cheese crumbles. Dried cranberries. Cold from the fridge helps it all stay separate till you eat it.
+
+## How to Make the Apple Pecan Salad from Wendy's
+
+Oven goes to 350. Line a sheet with parchment—seriously, use it. No scrubbing later.
+
+Melt butter in a medium skillet. Medium heat. This matters. Too high and the sugar burns before the pecans are coated. The sugar and salt go in with a tablespoon of water. Stir till it looks glossy and loose, like wet sand. Maybe two minutes. Watch it. It accelerates fast.
+
+Pecans in. Stir constantly. Not optional. The heat is trying to toast them and coat them at the same time, and if you walk away the bottom layer chars and the top sits naked. Keep moving it. After three minutes—sometimes less—the sugar's clinging to every piece and the smell shifts from just-butter to buttered-caramel-and-heat. That's the smell you want.
+
+Pull from heat. Stir in the cinnamon immediately. It softens the pan's heat and blooms into something sharp and warm. Spread the pecans flat on the parchment sheet. Single layer. No piling.
+
+Bake four to six minutes. The house smells different now. Deeper. Spiced. You'll know when they're done because the smell stops getting better and starts getting tired. Cool them all the way. Warm pecans are stuck together. Cold pecans snap.
+
+## Apple Pecan Salad from Wendys Dressing and Assembly
+
+Whisk olive oil and both vinegars together first. The bowl should get kind of shimmery, like there's too much happening at once. Add the lime juice, pineapple juice, honey, salt, pepper, garlic powder. Whisk harder. Taste it. If it's too sharp—mouth-puckering—add a bit more honey. Not a lot. A quarter teaspoon at a time. If it's thick or muted, thin it with a splash of water or extra pineapple juice. I've done both. Both work.
+
+Greens in a large bowl. Apples. Blue cheese. Candied pecans—make sure they're cool. Cranberries. Drizzle vinaigrette slowly and toss gently. Too much dressing means wet greens, which means they'll collapse. If you oversaturate, scoop some off with the leaves before serving. The apple pecan chicken salad thing only works when there's contrast—crispy nuts, tender greens, crisp apples hitting together.
+
+Serve it immediately. Lettuce wilts. Apples brown. The moment you finish mixing is the moment to eat it.
+
+## Apple Pecan Salad Tips and Mistakes
+
+Don't skip cooling the pecans. Warm nuts are stuck in one clump. Useless. Cold nuts are individual, snapping pieces. Texture is everything here.
+
+Granny Smith apples instead of honeycrisp if you want more tart. Honeycrisp are sweet and juicy. Granny Smith are sharp and crisp. Different salad.
+
+White vinegar alone is too aggressive. Apple cider vinegar alone is too mild. Both together is actually smart, not overwrought.
+
+The pineapple juice—weird addition, but it's in there for a reason. Adds brightness without more acidity. Skip it and the dressing tastes flat. Just tastes like vinegar and oil.
+
+Walnuts work instead of pecans. But the butter and brown sugar ratio might need tweaking—walnuts are greasier, so they might not need as much fat. Haven't tried it extensively.
+
+Dried cranberries and blue cheese are a real pair. They're both tart and intense, so they don't overwhelm each other. One without the other and the salad loses structure.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Apple Pecan Salad
+
+**Can I make this salad ahead of time?**
+Make the candied pecans hours earlier. Make the dressing hours earlier. Don't dress the greens until you're about to eat. Wetted lettuce is sad lettuce.
+
+**What if I don't have apple cider vinegar?**
+White vinegar works if that's all you have. It'll be sharper, more aggressive. Add honey earlier to balance it. Not ideal. Apple cider's worth grabbing.
+
+**How long do the candied pecans last?**
+Few days in a sealed container if they actually stay crispy. Mine usually disappear in one because they're too good.
+
+**Can I use a different cheese instead of blue?**
+Goat cheese works. Feta works. Cheddar doesn't. Blue and goat are tangy enough to hold their own against the sweet nuts and tart apples. Cheddar gets lost.
+
+**Why does my vinaigrette break or separate?**
+It doesn't if you whisk it properly. Whisk the oil and vinegar together first, then add everything else. Don't add the liquids separately or it won't emulsify.
+
+**Is this recipe close to the Wendy's apple pecan chicken salad?**
+Same structure. The actual Wendy's version has grilled chicken on top and a different dressing. This one's the blueprint—apples, pecans, blue cheese, candied nuts. Add your own protein if you want it heavier.
