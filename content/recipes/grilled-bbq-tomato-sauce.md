@@ -1,10 +1,10 @@
 ---
-title: "Grilled BBQ Tomato Sauce"
+title: "Grilled BBQ Tomato Sauce with Fresh Basil"
 slug: "grilled-bbq-tomato-sauce"
-description: "Roasting tomatoes on the grill chars the skin, deepening flavor. This sauce blends smoky, sweet, tart notes enhanced by fresh basil and subtle laurel. Uses plum-style tomatoes though Roma or San Marzano works too. Slow simmer breaks down fibers; transforms the mix into a rustic, thick sauce. A good hit of olive oil brings richness and mouthfeel. Onions and garlic sweat first to layer savory depth. Peeling off charred skins and squeezing seeds out prevents bitterness and grainy texture. Basil comes in at the end to keep its brightness intact. Easily vegan, gluten-free, and adaptable. Great with pasta or as base for stews and meats. Hands-on prep, but rewarding. Alternatives include grilling peppers or adding a splash of balsamic for complexity. Watch for overcooking—they can ferment or turn grainy if neglected. Must stir. Ideal summer recipe when tomatoes are ripe and grill fired up."
-metaDescription: "Grilled BBQ Tomato Sauce with smoky charred plum tomatoes simmered slow with onions, garlic, basil, and bay leaves. Rustic, thick, rich, and versatile."
-ogDescription: "Roasted and grilled plum tomatoes bring smoky depth to a thick sauce simmered with herbs and garlic. Great base for pasta or stews, with bright basil finish."
-focusKeyphrase: "Grilled BBQ Tomato Sauce"
+description: "Grilled BBQ tomato sauce made with charred plum tomatoes, garlic, onions, and fresh basil. Slow-simmered with olive oil for a smoky, rustic depth that transforms summer grilling."
+metaDescription: "Grilled tomato sauce recipe using charred plum tomatoes, fresh basil, garlic, and olive oil. Smoky BBQ flavor perfect for pasta and grilling. Make it tonight."
+ogDescription: "Charred plum tomatoes meet fresh basil and garlic in this smoky grilled BBQ sauce. Rustic, slow-simmered, and utterly rewarding."
+focusKeyphrase: "grilled tomato sauce"
 date: 2025-09-03
 draft: false
 image: grilled-bbq-tomato-sauce.jpg
@@ -21,9 +21,18 @@ tags:
 - "vegan"
 - "condiment"
 keywords:
-- "grilled tomatoes"
-- "BBQ tomato sauce"
-- "slow simmer sauce"
+- "grilled tomato sauce"
+- "grilled tomato sauce with basil"
+- "charred plum tomato sauce with garlic"
+- "homemade bbq sauce"
+- "italian bbq sauce recipe"
+- "summer grilled tomato sauce"
+- "smoky bbq tomato sauce for grilling"
+- "vegan grilling condiment"
+- "grilled tomato sauce with bay leaves and basil"
+- "fresh basil tomato sauce"
+- "garlic tomato sauce recipe"
+- "slow-simmered tomato sauce"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "120"
@@ -70,3 +79,77 @@ faq:
 - "q: How store leftover sauce? a: Fridge up to 4 days air-tight container. Freeze ok but thaw gently to avoid separation. Reheat slow, don’t boil hard or oil breaks. For quick use, portion before freezing avoids reheating whole batch multiple times."
 
 ---
+
+Grill's hot. Tomatoes go on cut-side down. That crackle, that char—that's where the whole thing starts.
+
+## Why You'll Love This Grilled BBQ Tomato Sauce
+
+Takes 135 minutes total but most of it's just sitting there while the sauce does its thing.
+Works cold straight from the jar or hot on pasta. Works as a condiment, works folded into roasted vegetables, works as a grilling sauce for literally anything you want to brush it on.
+Vegan. No butter, no stock, no hidden animal stuff.
+Tastes like summer even when it's not. Tastes like smoke and sweet at the same time.
+The grilling part takes maybe 10 minutes. Everything else is just patience.
+
+## What You Need for Grilled Tomato Sauce with Basil
+
+Plum tomatoes. 6.5 kg halved. They're drier than other kinds, less water, more actual tomato flavor.
+Extra virgin olive oil. 170 ml total. First batch tosses the tomatoes before they hit the grill. The rest goes into the pot later.
+Yellow onions. Three medium ones, finely chopped. Not red. White ones work too but yellow's sweeter.
+Garlic. Four cloves minced. Not a ton. You want tomato to lead.
+Bay leaves. Two dried ones. They sit in the pot the whole time, come out before serving.
+Fresh basil. Just 12 grams, sliced thin. Goes in at the very end so it stays bright.
+Salt and cracked black pepper. Regular salt works. Kosher salt's better because the grains don't disappear.
+
+## How to Make Homemade BBQ Sauce on the Grill
+
+Heat the grill high. Make sure the grates are clean and oiled or the tomatoes stick and it's a mess. 
+Toss the tomato halves in 140 ml of that olive oil. Salt them. Pepper them. Get them evenly coated. This matters more than you think.
+Lay them cut-side down on the grill in a single layer. Don't stack. Don't crowd them. You want that blistered skin crackle, the char marks, the edges turning dark. Takes about 4 to 6 minutes. Watch for the color shift. That's your signal.
+Flip them carefully once the skin blisters. Another 4 to 5 minutes on the other side. The flesh should soften. The skin should loosen. You'll see it pull back from the flesh a little.
+
+## How to Get a Charred Plum Tomato Sauce with Garlic
+
+Pull the tomatoes off the grill with a spatula. Let them cool on a baking sheet until you can handle them without burning your hands. Maybe 5 minutes. Don't rush this part.
+Peel off the charred skin by hand. Slow. Careful. You lose sauce quality if you tear the flesh underneath trying to hurry.
+Squeeze each tomato half gently to push out the seeds. This step prevents the bitter watery finish that kills the whole thing. The juice that comes out—save it. You'll need it later if the sauce gets too thick.
+Coarsely mash the peeled tomatoes by hand or with a potato masher. No blender. The texture matters. You want chunky pulp, not purée.
+In a large heavy-bottomed pot over medium heat, warm the remaining 30 ml of olive oil. Add the chopped onions and minced garlic. Sweat them slowly until they're translucent and soft. Takes about 7 minutes. Don't let them brown or the sauce takes on a bitter turn.
+Add the mashed tomatoes. Add the bay leaves. Bring it to a low boil then drop the heat to medium-low. You want a gentle steady simmer. Stir every 10 minutes. This prevents sticking and lets you watch the sauce thicken.
+Simmer uncovered for approximately 2 hours. The texture should be thick but not dry. The skin bits dissolve. It glistens slightly. It smells deeply sweet and smoky. That's done.
+Taste it. Add more salt if it needs it. Crack more pepper in. Stir in the basil in the last 5 minutes so it stays green and the aroma doesn't cook off.
+Remove the bay leaves. Done.
+
+## Smoky BBQ Tomato Sauce Tips and Common Mistakes
+
+Peeling is a chore. It's worth it. Skins muddy the taste and texture if you skip it.
+If the tomatoes seem watery during the simmer, increase the heat briefly but watch closely. Burnt sauce tastes like nothing good. Consistency is key.
+If the sauce gets too thick, splash in some of that reserved tomato juice. Or water. Either works.
+You'll know it's done when a spoonful shows vibrant deep red, coats the back of a spoon thickly, and is glossy. Not dull. Not separated.
+Store leftovers in the fridge for up to 4 days or freeze in an airtight container. When you reheat, warm slowly. Don't blast it or it breaks.
+You can substitute up to 20% of the tomatoes with red bell peppers grilled the same way. Adds subtle sweetness and complexity. But don't go past 20% or the tomato flavor disappears.
+The grill time's not negotiable. You need those char marks. That's where the BBQ part of the BBQ sauce comes from.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Tomato Sauce with Bay Leaves and Basil
+
+**Can I make this sauce indoors without grilling the tomatoes?**
+Not really. The grill char is the whole point. You could broil them close to the flame, but it won't be the same. The flavor changes when you grill.
+
+**How long does this sauce actually take?**
+20 minutes prep, 115 minutes cooking. Total 135 minutes. Most of that's the simmer. You're not doing anything for 2 hours except stirring every 10 minutes.
+
+**What if I don't have fresh basil at the end?**
+Skip it. Don't use dried. Dried basil tastes like nothing and changes the whole thing. Fresh basil or nothing.
+
+**Can I use a different type of tomato?**
+Plum tomatoes work best because they're drier. Roma works. Beefsteaks are too watery. Cherry tomatoes will burn to nothing.
+
+**Does this work as a vegan grilling condiment?**
+Yeah. It's already vegan. No butter, no meat, no animal products. Brush it on grilled vegetables, grilled bread, whatever.
+
+**Can I freeze this for later?**
+Yes. Airtight container, freezes fine for months. Thaw in the fridge overnight, reheat slowly on the stove.
+
+**What's the deal with the bay leaves?**
+They sit in the sauce and flavor it subtly. You have to take them out before serving or people bite into them and it's weird. Don't forget.
