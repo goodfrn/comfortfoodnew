@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-herb-aioli",
+  "title": "Tangy Herb Aioli",
+  "seed_keywords": [
+    "herb aioli",
+    "homemade aioli",
+    "garlic mayo condiment",
+    "mustard aioli sauce",
+    "roasted garlic spread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "garlic mayonnaise",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "garlic and mayonnaise",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "roasted garlic aioli",
+        "volume": 6600,
+        "competition": 14
+      },
+      {
+        "keyword": "aioli mayonnaise",
+        "volume": 3600,
+        "competition": 26
+      },
+      {
+        "keyword": "aioli mayo",
+        "volume": 3600,
+        "competition": 26
+      },
+      {
+        "keyword": "aioli and mayonnaise",
+        "volume": 3600,
+        "competition": 26
+      },
+      {
+        "keyword": "garlic sauce mayonnaise",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "homemade aioli",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "aioli homemade",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "herb aioli",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "garlic aioli mayonnaise",
+        "volume": 1900,
+        "competition": 32
+      },
+      {
+        "keyword": "homemade garlic aioli",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "aioli mustard",
+        "volume": 1600,
+        "competition": 12
+      },
+      {
+        "keyword": "dijon aioli",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted garlic spread",
+        "volume": 880,
+        "competition": 19
+      },
+      {
+        "keyword": "garlic aioli dipping sauce",
+        "volume": 880,
+        "competition": 44
+      },
+      {
+        "keyword": "garlic mayo homemade",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade garlic mayo",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon herb aioli",
+        "volume": 720,
+        "competition": 77
+      },
+      {
+        "keyword": "garlic flavored mayonnaise",
+        "volume": 590,
+        "competition": 14
+      },
+      {
+        "keyword": "garlic and herb aioli",
+        "volume": 480,
+        "competition": 31
+      },
+      {
+        "keyword": "garlic herb aioli",
+        "volume": 480,
+        "competition": 31
+      },
+      {
+        "keyword": "garlic aioli trader joe's",
+        "volume": 390,
+        "competition": 47
+      },
+      {
+        "keyword": "homemade aioli recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade garlic aioli recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "trader joe's garlic aioli",
+        "volume": 390,
+        "competition": 47
+      },
+      {
+        "keyword": "trader joes garlic aioli",
+        "volume": 390,
+        "competition": 47
+      },
+      {
+        "keyword": "aioli garlic mustard sauce trader joe's",
+        "volume": 320,
+        "competition": 11
+      },
+      {
+        "keyword": "basil garlic aioli",
+        "volume": 320,
+        "competition": 17
+      },
+      {
+        "keyword": "chive aioli",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "heinz black garlic mayonnaise",
+        "volume": 320,
+        "competition": 19
+      },
+      {
+        "keyword": "herb aioli recipes",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "honey mustard aioli",
+        "volume": 320,
+        "competition": 17
+      },
+      {
+        "keyword": "trader joe's aioli",
+        "volume": 320,
+        "competition": 35
+      },
+      {
+        "keyword": "trader joe's aioli garlic mustard sauce",
+        "volume": 320,
+        "competition": 11
+      },
+      {
+        "keyword": "aioli mustard recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade aioli sauce",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic aioli mustard",
+        "volume": 210,
+        "competition": 67
+      },
+      {
+        "keyword": "garlic aioli recipe scratch",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic mayo salad dressing",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "garlic mayonnaise salad dressing",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "herb aioli sauce",
+        "volume": 210,
+        "competition": 27
+      },
+      {
+        "keyword": "mustard garlic aioli",
+        "volume": 210,
+        "competition": 67
+      },
+      {
+        "keyword": "roasted garlic for bread spread",
+        "volume": 210,
+        "competition": 28
+      },
+      {
+        "keyword": "roasted garlic spread for garlic bread",
+        "volume": 210,
+        "competition": 28
+      },
+      {
+        "keyword": "chilli garlic mayonnaise",
+        "volume": 170,
+        "competition": 69
+      },
+      {
+        "keyword": "garlic horseradish aioli",
+        "volume": 170,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic mayonnaise price",
+        "volume": 170,
+        "competition": 40
+      },
+      {
+        "keyword": "roasted garlic spread recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "black garlic mayo heinz",
+        "volume": 140,
+        "competition": 57
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

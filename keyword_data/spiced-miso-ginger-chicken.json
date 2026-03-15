@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-miso-ginger-chicken",
+  "title": "Spiced Miso Ginger Chicken",
+  "seed_keywords": [
+    "grilled chicken marinade",
+    "miso ginger chicken",
+    "asian chicken recipes",
+    "ginger marinade chicken",
+    "spiced grilled chicken"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken marinade",
+        "volume": 90500,
+        "competition": 20
+      },
+      {
+        "keyword": "marinated for chicken",
+        "volume": 90500,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken marinade recipes",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled chicken marinade",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "bbq chicken marinade",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken kabob recipe",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "barbecue chicken marinade",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "bar bq chicken marinade",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "greek marinades for chicken",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "marinade for chicken on the barbecue",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "marinade for chicken to barbecue",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken thigh marinade",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "marinade for chicken breast",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "asian grilled",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken chinese dishes recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken marinade breast",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "chicken marinade for thighs",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "noodle recipe for chicken and noodles",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes for chinese chicken",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "good chicken marinade",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "best marinate chicken",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken and yogurt marinade",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken marinade yogurt",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "copycat pf changs lettuce wraps",
+        "volume": 27100,
+        "competition": 23
+      },
+      {
+        "keyword": "marinade for chicken with yogurt",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "asian chicken recipes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "simple chicken marinade",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "greek yogurt chicken marinade",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "marinate chicken wings",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "asian chicken dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "asian food chicken recipes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chargrilled chicken marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "chicken marinade easy",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken marinade for bbq chicken",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "chicken marinade for grilled chicken",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "chicken marinade on the grill",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "chicken marinade using greek yogurt",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken marinade with greek yogurt",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken marinate for grill",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "chicken ramen noodle recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "marinate barbeque chicken",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "chicken kabob marinade",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken kebab marinade",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken marinade for kebab",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken marinade for kebabs",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "kebab marinade for chicken",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "marinade chicken kebabs",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "marinade for kebab chicken",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "pf chang lettuce wraps recipe",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "asian lemon chicken",
+        "volume": 14800,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-beef-stir-fry",
+  "title": "Spiced Beef Stir Fry",
+  "seed_keywords": [
+    "beef stir fry",
+    "marinated beef recipes",
+    "spiced beef dinner",
+    "stir fry with rice",
+    "cumin coriander beef"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beef and broccoli recipe",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "steak marinade",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "beef steak marinade",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "marinade a steak",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "marinated for steak",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "beef flank marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "beef flank steak marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "flank marinating steak",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "beef stir fry recipe",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef asada marinade",
+        "volume": 60500,
+        "competition": 23
+      },
+      {
+        "keyword": "beef stir fry dish",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef stir fry meals",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef stir fry meat recipe",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "make beef stir fry",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "marinade for carne asada meat",
+        "volume": 60500,
+        "competition": 23
+      },
+      {
+        "keyword": "meat stir fry recipe",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe beef stirfry",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "steak and stir fry recipes",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry beef meat recipes",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef stir fry",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "beef stir fry meat",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "beef and stir fry",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "steak and stir fry",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "stirfry with beef",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "wok fried beef",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef skirt marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "steak marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "beef steak marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "steakhouse marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "beef broccoli recipe",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "best steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "beef and broccoli stir fry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "beef and broccoli stirfry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "best beef steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best filet marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best marinate steak",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "broccoli and steak stir fry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "broccoli steak stir fry",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "fried rice veg recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry with beef and broccoli",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "easy marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "simple steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "quick steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "london broil marinade",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "basic marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "chinese stir fried rice recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "easy beef steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy quick marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

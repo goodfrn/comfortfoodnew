@@ -1,0 +1,267 @@
+{
+  "slug": "steamed-lobster",
+  "title": "Steamed Lobster Simple",
+  "seed_keywords": [
+    "how to steam lobster",
+    "steamed lobster recipe",
+    "lobster cooking methods",
+    "boiled lobster dinner",
+    "whole lobster seafood"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "best ways to make lobster tails",
+        "volume": 12100,
+        "competition": 22
+      },
+      {
+        "keyword": "steamed lobster",
+        "volume": 5400,
+        "competition": 24
+      },
+      {
+        "keyword": "how to steam lobster tails",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how long to steam lobster tails",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "how do i steam a lobster tail",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how do u steam lobster tails",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how do you steam a lobster tail",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how long to steam lobster tails in a steamer",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "how to cook lobster tail steam",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how to cook steam lobster tails",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how to make steamed lobster tails",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how to prepare lobster tail for steaming",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how to steam lobster tails in a steamer",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "how long steam lobster",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "how to steam lobster",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "steamed lobster tail",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "cook lobster tail steam",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "how do i steam a lobster",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "how do you steam a lobster",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "how to cook a steamed lobster",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "how to make steamed lobster",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "how to prepare steamed lobster",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "how to reheat a steamed lobster",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "steaming lobster tails in a steamer",
+        "volume": 2900,
+        "competition": 9
+      },
+      {
+        "keyword": "best way to make lobster",
+        "volume": 2400,
+        "competition": 21
+      },
+      {
+        "keyword": "boiled lobster recipe",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "lobster cook time steam",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "lobster steam time",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "how long do u steam lobster tails",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "how long do you steam a lobster tail",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "how long do you steam lobster tails in a steamer",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "lobster tail recipe steam",
+        "volume": 880,
+        "competition": 10
+      },
+      {
+        "keyword": "steamed lobster recipe",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "whole cooked lobster",
+        "volume": 720,
+        "competition": 77
+      },
+      {
+        "keyword": "cooking full lobster",
+        "volume": 720,
+        "competition": 77
+      },
+      {
+        "keyword": "cooking steamed lobster",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "how do you clean a lobster tail",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled lobster whole",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "how long do you steam a lobster",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "how long should you steam a lobster",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "lobster tail steam time",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "how long to steam 4 oz lobster tail",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "how long to steam a 4 ounce lobster tail",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "whole lobster price",
+        "volume": 320,
+        "competition": 76
+      },
+      {
+        "keyword": "how long do i steam a lobster tail",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "how long does it take to steam a lobster",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "how long does it take to steam a lobster tail",
+        "volume": 320,
+        "competition": 6
+      },
+      {
+        "keyword": "how long should i steam a lobster tail",
+        "volume": 320,
+        "competition": 8
+      },
+      {
+        "keyword": "how long to steam a frozen lobster tail",
+        "volume": 320,
+        "competition": 6
+      },
+      {
+        "keyword": "ways to make lobster",
+        "volume": 320,
+        "competition": 13
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-citrusy-grilled-chicken",
+  "title": "Spicy Citrusy Grilled Chicken",
+  "seed_keywords": [
+    "grilled chicken thighs",
+    "lemon butter chicken",
+    "spicy citrus marinade",
+    "grilled chicken skewers",
+    "paprika chicken grilling"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken kebab",
+        "volume": 110000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken skewers",
+        "volume": 60500,
+        "competition": 25
+      },
+      {
+        "keyword": "kabobs on bbq",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken kabob recipe",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken kebabs recipe",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken for kabobs",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken kabob marinade",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken kebab marinade",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken marinade for kebab",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "kebab marinade for chicken",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken shish kebab",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken skewers recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken satay skewer",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "make chicken skewers",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon butter chicken",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "butter and lemon chicken",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken with butter and lemon",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled chicken skewers",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken kabobs on grill",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken skewers bbq",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "barbecue chicken skewers",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "bbq chicken kabobs grill",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken kebab grilled",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken kebabs on grill",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken shish kabobs recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken shish kebabs recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken shish recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken skewers in grill",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled bbq chicken kabobs",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "skewers of grilled chicken",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "kebabs for bbq",
+        "volume": 4400,
+        "competition": 26
+      },
+      {
+        "keyword": "chicken shish kabobs",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken skewer marinade",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken kabobs greek",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken kebab greek",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken shish skewers",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken skewers greek",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken skewers teriyaki",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "marinate shish kabobs",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "teriyaki chicken kebab",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "teriyaki chicken on skewers",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken greek kebabs",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "the kabobs",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "simple marinade for chicken skewers",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken shish marinade",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "butter garlic lemon chicken",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "butter lemon garlic chicken",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken & pineapple kabobs",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and pineapple kabobs",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken kabob marinade easy",
+        "volume": 2400,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

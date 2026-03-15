@@ -1,0 +1,47 @@
+{
+  "slug": "veal-sweetbread-five-spice",
+  "title": "Veal Sweetbread Five-Spice",
+  "seed_keywords": [
+    "veal sweetbread recipe",
+    "seared sweetbreads",
+    "pan seared veal",
+    "five spice meat",
+    "asian glazed offal"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sweetbreads of veal",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "veal sweetbread recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "pan seared veal chop",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "pan seared veal chop recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy veal sweetbreads",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "roast veal sweetbread",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

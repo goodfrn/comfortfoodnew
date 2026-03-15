@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-carne-pizzaiola",
+  "title": "Twisted Carne alla Pizzaiola",
+  "seed_keywords": [
+    "sirloin steak recipes",
+    "beef steak mushrooms",
+    "carne alla pizzaiola",
+    "steak with tomato sauce",
+    "seared steak peppers"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sirloins",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "sirloin steak beef",
+        "volume": 246000,
+        "competition": 45
+      },
+      {
+        "keyword": "top sirloin beef steak",
+        "volume": 74000,
+        "competition": 48
+      },
+      {
+        "keyword": "roast a sirloin tip roast",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "roast sirloin tip",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted sirloin tip roast",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "sirloin beef tip roast",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "sirloin tip steak roast",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "sirloin steak recipes",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "beef sirloin dishes",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "beef sirloin recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "beef sirloin steak recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "dishes with sirloin steak",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "meals with sirloin steak",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for sirloin",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe using sirloin steak",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "sirloin filet recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "sirloin meat recipes",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "carne alla pizzaiola",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "sirloin tip steak",
+        "volume": 27100,
+        "competition": 19
+      },
+      {
+        "keyword": "beef sirloin steak tips",
+        "volume": 27100,
+        "competition": 19
+      },
+      {
+        "keyword": "sirloin beef tip roast recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "sirloin steak roast recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "beef sirloin how to cook",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "beef sirloin steak how to cook",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "top sirloin steak recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "beef top sirloin filet recipes",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "beef top sirloin recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "beef top sirloin steak recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for top sirloin",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe using top sirloin steak",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "sirloin coulotte steak",
+        "volume": 18100,
+        "competition": 20
+      },
+      {
+        "keyword": "sirloin top steak recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "top sirloin dishes",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "top sirloin filet recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "top sirloin steak meals",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "sirloin tip",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "grilled sirloin steak",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "barbecue sirloin steak",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "bbq sirloin steak",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "beef sirloin steak grill",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "beef sirloin steak tips recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "beef sirloin tip recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "beef steak with mushroom",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled beef sirloin",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "grilling a sirloin",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "mushroom for steaks",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for sirloin steak tips",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for sirloin tip",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with pork sirloin chops",
+        "volume": 14800,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

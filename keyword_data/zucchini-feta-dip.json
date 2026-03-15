@@ -1,0 +1,97 @@
+{
+  "slug": "zucchini-feta-dip",
+  "title": "Zucchini Feta Dip Redux",
+  "seed_keywords": [
+    "zucchini dip",
+    "feta appetizer dip",
+    "roasted garlic zucchini",
+    "mediterranean zucchini spread",
+    "zucchini feta dip"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "zucchini dip",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "zucchini and hummus",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini hummus",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "dip for fried zucchini",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "dipping sauces for fried zucchini",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "baba ganoush with zucchini",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "courgette dip",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic herb roasted potatoes carrots and zucchini",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini dip recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "zucchini spread",
+        "volume": 210,
+        "competition": 23
+      },
+      {
+        "keyword": "crostini feta",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted garlic zucchini",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "dip for zucchini sticks",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted zucchini dip",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach artichoke dip feta",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach artichoke zucchini bites",
+        "volume": 110,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

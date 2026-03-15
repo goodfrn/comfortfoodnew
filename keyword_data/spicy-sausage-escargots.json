@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-sausage-escargots",
+  "title": "Spicy Sausage Escargots",
+  "seed_keywords": [
+    "spicy sausage stew",
+    "sausage mushroom pasta",
+    "escargot recipes",
+    "one pot sausage",
+    "sausage tomato braise"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "escargot recipes",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "escargot dish recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "escargot snails recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "snail dish",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "sausage mushroom pasta",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "cook snails",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "mushroom and sausage pasta",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "sausage & mushroom pasta",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "french dish snail",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "french dish with snails",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "one pan pasta sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "one pan pasta with sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot pasta and sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot pasta sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "sausage one pot pasta",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "escargot french dish",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for snails",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "recipes with pan sausage",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "snail dishes recipes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for andouille sausage and pasta",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "sausage one",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "escargot sauce",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "escargot without shells",
+        "volume": 720,
+        "competition": 52
+      },
+      {
+        "keyword": "escargot butter garlic",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "escargot french recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "escargot garlic butter",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "escargot with butter and garlic",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "french snail recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "one pot meal with sausage",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "one pot rice and sausage",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "one pot sausage and rice",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "one pot sausage dish",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "one pot sausage recipe",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "one pot sausage rice",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "sausage casserole spices",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "bake escargot",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot smoked sausage pasta",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "preparing escargot",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "escargot de bourgogne recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "one pot italian sausage pasta",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot kielbasa pasta",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "one pot pasta with italian sausage",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot sausage casserole",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "sausage casserole one pot",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "baked snails",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy mushroom and sausage pasta",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy sausage mushroom pasta",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "escargot in mushroom caps recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "italian sausage and mushroom pasta",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "italian sausage mushroom pasta",
+        "volume": 320,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

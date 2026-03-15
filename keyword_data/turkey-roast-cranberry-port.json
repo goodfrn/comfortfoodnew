@@ -1,0 +1,267 @@
+{
+  "slug": "turkey-roast-cranberry-port",
+  "title": "Turkey Roast cranberry port",
+  "seed_keywords": [
+    "roasted turkey dinner",
+    "turkey with cranberry",
+    "holiday turkey recipes",
+    "port wine meat",
+    "slow roasted poultry"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "thanksgiving food",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "roasted turkey for thanksgiving",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "roasting a turkey for thanksgiving",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "thanksgiving sides",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "thanksgiving turkey",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "thanksgiving dinner sides",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "side dishes for thanksgiving dinner",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving side recipes",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanks giving side dishes",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving meal sides",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving day side dishes",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving dinner sides ideas",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving day sides recipes",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving side food",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving dinner meal",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "thanks giving day dishes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "thanksgiving dinner ideas",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving stuffing recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "wholefood thanksgiving dinner",
+        "volume": 22200,
+        "competition": 16
+      },
+      {
+        "keyword": "dressing thanksgiving recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffing dressing recipes thanksgiving",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffing recipe for thanksgiving dinner",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "thanks giving stuffing recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "thanksgiving day stuffing recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "thanksgiving food dinner",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "christmas turkey dinner",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "christmas roast turkey dinner",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "roast turkey christmas dinner",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "roast turkey xmas dinner",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey xmas dinner recipes",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "xmas dinner turkey",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "costco turkey dinner thanksgiving",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "thanksgiving dinner at costco",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "thanksgiving food ideas",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "thanksgiving turkey recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "vegetable side dishes for thanksgiving",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "traditional thanksgiving dinner menu",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "veggie sides for thanksgiving",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "thanksgiving menu traditional",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "thanksgiving sides vegetable",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "thanksgiving turkey dinner ideas",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "turkey dinner ideas for thanksgiving",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "typical thanksgiving dinner menu",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "usual thanksgiving menu",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted turkey dinner",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "christmas turkey",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "best thanksgiving sides",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "thanksgiving stuffing",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "best sides for thanksgiving dinner",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "best side dishes thanksgiving",
+        "volume": 9900,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

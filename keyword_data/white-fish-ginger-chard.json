@@ -1,0 +1,267 @@
+{
+  "slug": "white-fish-ginger-chard",
+  "title": "White Fish Ginger Chard",
+  "seed_keywords": [
+    "white fish recipes",
+    "soy ginger fish",
+    "asian fish broth",
+    "braised fish greens",
+    "ginger fish dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "white fish recipes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "fish recipes white fish",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "white fish dish",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "basa fillet recipes",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking basa fillet",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for basa fish fillets",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "basa fish recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "basa fish fillets",
+        "volume": 5400,
+        "competition": 73
+      },
+      {
+        "keyword": "fish and white sauce",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "fish in a white sauce",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "fish swai recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for cooking swai fish",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "white sauce for white fish",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "white fish fillet",
+        "volume": 4400,
+        "competition": 71
+      },
+      {
+        "keyword": "basa recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger and soy salmon",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger soy salmon",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "fish and white wine sauce",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "fish in a white wine sauce",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "flaky white fish",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "salmon in white sauce",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "white fish for fish tacos",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "white fish for tacos",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "white fish taco",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "white sauce and salmon",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "bake white fish",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "bake white fish recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for baked whitefish",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for halibut fillets",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "soy ginger fish",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "best white fish",
+        "volume": 1600,
+        "competition": 20
+      },
+      {
+        "keyword": "basa fish steak",
+        "volume": 1600,
+        "competition": 38
+      },
+      {
+        "keyword": "fish and white sauce recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fish in white sauce recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fish with ginger and soy",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "fish with soy and ginger",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "good white fish",
+        "volume": 1600,
+        "competition": 20
+      },
+      {
+        "keyword": "recipe for swai",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "swai dishes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "white cod fish",
+        "volume": 1600,
+        "competition": 41
+      },
+      {
+        "keyword": "baked swai",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "baked swai recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "easy recipe for white fish",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "easy white fish dishes",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "fish taco sauce white",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for white fish fillet",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "salmon and white wine sauce",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon in a white wine sauce",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon in white wine sauce",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "simple white fish recipe",
+        "volume": 1300,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

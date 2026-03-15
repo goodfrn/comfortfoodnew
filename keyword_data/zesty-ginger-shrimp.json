@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-ginger-shrimp",
+  "title": "Zesty Ginger Shrimp",
+  "seed_keywords": [
+    "ginger shrimp stir fry",
+    "pan seared shrimp",
+    "asian shrimp recipes",
+    "soy lime marinade",
+    "shrimp dinner ideas"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipes for shrimp dishes",
+        "volume": 201000,
+        "competition": 25
+      },
+      {
+        "keyword": "pasta shrimp recipes",
+        "volume": 74000,
+        "competition": 18
+      },
+      {
+        "keyword": "recipes with pasta and shrimp",
+        "volume": 74000,
+        "competition": 18
+      },
+      {
+        "keyword": "shrimp dinner ideas",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "easy shrimp recipes",
+        "volume": 27100,
+        "competition": 27
+      },
+      {
+        "keyword": "shrimp recipes for dinner",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "shrimp meals for dinner",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "dinner dishes with shrimp",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "dinner ideas using shrimp",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "dinner recipes using shrimp",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "easy and simple shrimp recipes",
+        "volume": 27100,
+        "competition": 27
+      },
+      {
+        "keyword": "easy quick shrimp recipe",
+        "volume": 27100,
+        "competition": 27
+      },
+      {
+        "keyword": "easy simple shrimp recipes",
+        "volume": 27100,
+        "competition": 27
+      },
+      {
+        "keyword": "recipes for pasta and prawns",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for pasta with prawns",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "delicious seafood pasta recipes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta and shrimp scampi recipe",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta seafood recipes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp recipe for the grill",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "shrimps in lobster sauce",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "healthy recipes for shrimp",
+        "volume": 12100,
+        "competition": 21
+      },
+      {
+        "keyword": "healthy shrimp recipe ideas",
+        "volume": 12100,
+        "competition": 21
+      },
+      {
+        "keyword": "shrimp scampi recipe easy",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "shrimp meal ideas",
+        "volume": 6600,
+        "competition": 28
+      },
+      {
+        "keyword": "easy prawn recipes",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "meals to cook with shrimp",
+        "volume": 6600,
+        "competition": 28
+      },
+      {
+        "keyword": "shrimp meal recipes",
+        "volume": 6600,
+        "competition": 28
+      },
+      {
+        "keyword": "shrimp on barbecue recipes",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "asian shrimp recipes",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and shrimp recipes",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian dishes with shrimp",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken & shrimp recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "easy pasta recipe with shrimp",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "easy recipe for shrimp and pasta",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "recipes for dinner with shrimp",
+        "volume": 5400,
+        "competition": 29
+      },
+      {
+        "keyword": "simple shrimp pasta recipes",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "easy shrimp recipes for dinner",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "easy shrimp dinner",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "asian prawn recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "dinner to make with shrimp",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "easy dinner ideas shrimp",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "easy quick shrimp dinners",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "easy shrimp dishes for dinner",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "meals with cooked shrimp",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "prawns recipe chinese",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes for shrimp and steak",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with shrimp and steak",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp & steak recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "simple shrimp dinner",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "simple shrimp dinner recipes",
+        "volume": 4400,
+        "competition": 30
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

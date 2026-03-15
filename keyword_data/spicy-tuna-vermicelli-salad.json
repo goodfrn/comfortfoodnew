@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-tuna-vermicelli-salad",
+  "title": "Spicy Tuna Vermicelli Salad",
+  "seed_keywords": [
+    "spicy tuna salad",
+    "vermicelli noodle salad",
+    "tuna noodle bowl",
+    "chilled asian noodles",
+    "spicy tuna vermicelli"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vermicelli noodle salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "vermicelli salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy tuna salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "chilled asian noodle salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "spices in tuna salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna spicy salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "spicy tuna fish sandwich",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "spicy tuna salad sandwich",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "spicy tuna sandwich",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "vermicelli salad vietnamese",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and vermicelli salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken vermicelli salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "vermicelli salad chicken",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy tuna fish salad recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy tuna salad recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "thai salad vermicelli",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for vermicelli salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "rice vermicelli noodle salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "rice vermicelli salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "vermicelli noodle salad dressing",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "vermicelli noodle salad sauce",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "dressing for vermicelli salad",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "vermicelli salad dressing",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "vermicelli salad sauce",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "vietnamese salad with vermicelli noodles",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy tuna melt sandwich recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "vermicelli salad bowl",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "vietnamese bun salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "beef and vermicelli noodle salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "beef vermicelli noodle salad",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy tuna salad sandwich recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy tuna sandwich recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "vermicelli noodle salad recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "vietnamese chicken salad vermicelli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "vietnamese chicken vermicelli",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "thai vermicelli salad dressing",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "asian salad with vermicelli noodles",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "asian vermicelli noodle salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and vermicelli noodle salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken vermicelli noodle salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chilled chinese noodles",
+        "volume": 170,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta salad with vermicelli",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "prawn vermicelli salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "vietnamese vermicelli salad dressing",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "vietnamese vermicelli salad sauce",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "cold vermicelli salad",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "vermicelli noodle salad near me",
+        "volume": 140,
+        "competition": 21
+      },
+      {
+        "keyword": "asian vermicelli salad",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "bean thread salad",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "beef and vermicelli salad",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

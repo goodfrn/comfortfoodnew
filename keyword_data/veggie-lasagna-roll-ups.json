@@ -1,0 +1,267 @@
+{
+  "slug": "veggie-lasagna-roll-ups",
+  "title": "Veggie Lasagna Roll-ups",
+  "seed_keywords": [
+    "vegetarian lasagna",
+    "zucchini noodle recipes",
+    "ricotta cheese pasta",
+    "mushroom lasagna roll",
+    "stuffed pasta shells"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pesto noodles",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffed shells",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "shells for stuffed shells",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "filled shells",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "shells for stuffing",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "stuffed shells stuffing",
+        "volume": 74000,
+        "competition": 16
+      },
+      {
+        "keyword": "zucchini noodles",
+        "volume": 49500,
+        "competition": 69
+      },
+      {
+        "keyword": "courgette noodles",
+        "volume": 49500,
+        "competition": 69
+      },
+      {
+        "keyword": "zucchini and noodles",
+        "volume": 49500,
+        "competition": 69
+      },
+      {
+        "keyword": "zucchini with noodles",
+        "volume": 49500,
+        "competition": 69
+      },
+      {
+        "keyword": "zoodles",
+        "volume": 40500,
+        "competition": 31
+      },
+      {
+        "keyword": "zucchini pasta",
+        "volume": 40500,
+        "competition": 20
+      },
+      {
+        "keyword": "vegetarian lasagna",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "zucchini lasagna",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "lasagne veg",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "veggies in lasagna",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "vegetarian lasagne",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "gnocchi ricotta cheese",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "gnocchi with ricotta",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "lasagne ricotta recipe",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "recipe for cannelloni pasta",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "ricotta cheese recipes lasagna",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "vegetable lasagne",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "spinach and ricotta cannelloni",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed shells with meat",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stuffed shells",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "cannelloni pasta spinach and ricotta",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for frying zucchini",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "ricotta cheese and spinach cannelloni",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed pasta shells",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "jumbo pasta shells",
+        "volume": 14800,
+        "competition": 44
+      },
+      {
+        "keyword": "baked ziti with ricotta",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "spinach and ricotta ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "stuffed shells ricotta",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "spinach ricotta ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "baked ziti with ricotta cheese",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "jumbo macaroni shells",
+        "volume": 14800,
+        "competition": 44
+      },
+      {
+        "keyword": "ricotta pasta",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "baked ziti and ricotta",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "cheese ricotta pasta",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese stuffed shells ricotta",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "cheese stuffed shells with ricotta",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "filled pasta shells",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "pasta shells filled with ricotta",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "pasta shells stuffed with ricotta",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "ricotta cheese and spinach ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "ricotta cheese in baked ziti",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "ricotta cheese spinach ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "ricotta filled shells",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "ricotta for baked ziti",
+        "volume": 14800,
+        "competition": 16
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

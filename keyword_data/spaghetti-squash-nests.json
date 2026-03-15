@@ -1,0 +1,267 @@
+{
+  "slug": "spaghetti-squash-nests",
+  "title": "Spaghetti Squash Egg Nests",
+  "seed_keywords": [
+    "egg muffin cups",
+    "spaghetti squash breakfast",
+    "baked egg nests",
+    "squash and eggs",
+    "vegetable egg bake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "egg muffins",
+        "volume": 201000,
+        "competition": 2
+      },
+      {
+        "keyword": "eggs and muffins",
+        "volume": 201000,
+        "competition": 2
+      },
+      {
+        "keyword": "breakfast egg muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "morning egg muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "egg muffins recipe",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "sausage and egg muffins",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "egg muffin sausage",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "bacon and egg muffin",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg muffin",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "egg muffin cups",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "egg cups recipe",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "egg muffin cups recipe",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "eggs in muffin tin",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg muffin pan",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg in muffin tin recipe",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "cupcake pan eggs",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "cupcake tin eggs",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg dish in muffin tin",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg in muffin pan recipe",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg mcmuffin cups",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "eggs cooked in muffin tin recipes",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "cottage cheese and egg muffins",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "cottage cheese egg muffins",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "egg and cottage cheese muffins",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "baked eggs in muffin tins",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "bake eggs in muffin pan",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked eggs cupcake pan",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked eggs in cupcake tins",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "muffin pan baked eggs",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetable breakfast casserole",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast egg muffins recipe",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "spinach egg muffins",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "spinach and egg muffins",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetable egg bake",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg cups",
+        "volume": 2400,
+        "competition": 18
+      },
+      {
+        "keyword": "breakfast egg cups",
+        "volume": 2400,
+        "competition": 46
+      },
+      {
+        "keyword": "bacon and cheese egg bake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "baked egg and vegetable casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg and veggie casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg vegetable casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg veggie casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs and vegetables",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs and veggies",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs in a cup",
+        "volume": 2400,
+        "competition": 18
+      },
+      {
+        "keyword": "baked eggs with veggies",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "breakfast egg cup recipe",
+        "volume": 2400,
+        "competition": 46
+      },
+      {
+        "keyword": "cheese and egg muffins",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cheese egg muffins",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "egg cheese and sausage muffins",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "egg cheese sausage muffin",
+        "volume": 2400,
+        "competition": 11
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "sweet-potato-chicken-bake",
+  "title": "Sweet Potato Chicken Bake",
+  "seed_keywords": [
+    "sweet potato chicken",
+    "baked chicken casserole",
+    "chicken and sweet potato",
+    "cheesy chicken bake",
+    "one pot chicken dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "a chicken casserole",
+        "volume": 135000,
+        "competition": 16
+      },
+      {
+        "keyword": "casserole chicken",
+        "volume": 135000,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken and rice casseroles",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "casserole rice chicken",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and rice casserole dishes",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken rice casserole dishes",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and rice casserole with broccoli",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken broccoli rice bake",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and pasta bake",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "bake chicken pasta",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken casserole broccoli rice",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "casseroles with chicken and broccoli",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and noodle casserole",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken soup casserole with noodles",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and stuffing casserole",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and rice bake",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken rice bake",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken and rice casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken & rice in oven",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken & stuffing casserole",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and rice bake recipes",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken casserole dressing",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken pot pie in casserole dish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken potpie casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot dinner ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "chicken and rice casserole recipes",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot supper ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "chicken and rice casserole ideas",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "one pot chicken & rice",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot chicken and rice dishes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot chicken rice dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken crock pot meal",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "one dish dinner ideas",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "chicken and sweet potato recipes",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot meals chicken",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken one pot recipes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "1 pot chicken meals",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken & sweet potato recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and sweet potato dish",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken one pot dishes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken parm bake",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "one pot chicken meal recipes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes using chicken and sweet potatoes",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato with chicken recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy chicken and rice bake",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken alfredo bake",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "one pan chicken meals",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "cheesy chicken rice bake",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon chicken ranch casserole",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "bake chicken and broccoli",
+        "volume": 12100,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

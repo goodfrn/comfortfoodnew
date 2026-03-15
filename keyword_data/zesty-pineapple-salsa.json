@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-pineapple-salsa",
+  "title": "Zesty Pineapple Salsa Remix",
+  "seed_keywords": [
+    "pineapple salsa",
+    "fresh salsa recipes",
+    "serrano pepper salsa",
+    "pineapple condiment",
+    "tropical salsa recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe for making salsa",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "pico de gallo recipe",
+        "volume": 135000,
+        "competition": 18
+      },
+      {
+        "keyword": "mexican pico de gallo recipe",
+        "volume": 135000,
+        "competition": 18
+      },
+      {
+        "keyword": "recipe with pico de gallo",
+        "volume": 135000,
+        "competition": 18
+      },
+      {
+        "keyword": "mango fruit salsa",
+        "volume": 90500,
+        "competition": 18
+      },
+      {
+        "keyword": "mango salsa recipe",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade salsa",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pineapple salsa",
+        "volume": 27100,
+        "competition": 16
+      },
+      {
+        "keyword": "mexican salsa recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pineapple salsa in a pineapple",
+        "volume": 27100,
+        "competition": 16
+      },
+      {
+        "keyword": "pineapple salsa sauce",
+        "volume": 27100,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade salsa recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "home made salsa recipes",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "home salsa recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe home made salsa",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "salsa with tomatoes",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "corn salsa recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "corn and salsa recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "fresh salsa recipes",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "salsa recipe easy",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "simple salsa recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "basic salsa recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "fresh made salsa recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "pineapple salsa recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pico de gallo ingredients",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "tomato salsa recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "salsa recipe tomatillo",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "tomato salsa dip recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "salsa recipe with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "fresh salsa",
+        "volume": 8100,
+        "competition": 31
+      },
+      {
+        "keyword": "pico recipe",
+        "volume": 8100,
+        "competition": 20
+      },
+      {
+        "keyword": "best salsa recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "fresh salsa dip",
+        "volume": 8100,
+        "competition": 31
+      },
+      {
+        "keyword": "fresh salsa recipe with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "fresh salsa sauce",
+        "volume": 8100,
+        "competition": 31
+      },
+      {
+        "keyword": "great salsa recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican salsa recipe with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "raw salsa recipe with tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for salsa using fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "salsa made from fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "salsa using fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "tomato salsa recipes with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "peach salsa recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican salsa fresca recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for salsa fresca",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "roma tomatoes for salsa",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "salsa from roma tomatoes",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "pineapple mango salsa",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "homemade pico de gallo",
+        "volume": 5400,
+        "competition": 24
+      },
+      {
+        "keyword": "mango and pineapple salsa",
+        "volume": 5400,
+        "competition": 20
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

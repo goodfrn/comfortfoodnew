@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-shrimp-tostada-cups",
+  "title": "Spicy Shrimp Tostada Cups",
+  "seed_keywords": [
+    "shrimp appetizers",
+    "tostada cups",
+    "spicy shrimp tacos",
+    "pan seared shrimp",
+    "guacamole shrimp bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shrimp toasts",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp appetizers",
+        "volume": 6600,
+        "competition": 24
+      },
+      {
+        "keyword": "appetizers using shrimp",
+        "volume": 6600,
+        "competition": 24
+      },
+      {
+        "keyword": "shrimp appetisers",
+        "volume": 6600,
+        "competition": 24
+      },
+      {
+        "keyword": "shrimp horderve",
+        "volume": 6600,
+        "competition": 24
+      },
+      {
+        "keyword": "shrimp egg rolls",
+        "volume": 5400,
+        "competition": 29
+      },
+      {
+        "keyword": "shrimp toast recipes",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp cocktail from costco",
+        "volume": 4400,
+        "competition": 45
+      },
+      {
+        "keyword": "shrimp appetizer recipes",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "shrimp appetizer dish",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "shrimp appetizer ideas",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "shrimp horderve recipes",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "pan seared shrimp",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "pan seared prawns",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "longhorn steakhouse wild west shrimp",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "longhorn wild west shrimp",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "wild west shrimp at longhorn",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "appetizer shrimp cocktail",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "chinese shrimp toast",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp roll chinese",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "spicy shrimp tacos",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "deviled egg shrimp",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "deviled eggs and shrimp",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "pan seared shrimp recipe",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp & crab dip",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp and crab dip",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp stuffed mushroom",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "cold shrimp appetizer",
+        "volume": 1000,
+        "competition": 16
+      },
+      {
+        "keyword": "cold shrimp horderves",
+        "volume": 1000,
+        "competition": 16
+      },
+      {
+        "keyword": "cold shrimp hors d oeuvres",
+        "volume": 1000,
+        "competition": 16
+      },
+      {
+        "keyword": "sear shrimp",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "wild west shrimp longhorn steakhouse",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "longhorn shrimp appetizer",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "longhorn steakhouse shrimp appetizer",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "longhorn steakhouse wild west shrimp recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "longhorn wild west shrimp recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "pan grilled shrimp",
+        "volume": 590,
+        "competition": 41
+      },
+      {
+        "keyword": "shrimp bite",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "easy appetizers with shrimp",
+        "volume": 480,
+        "competition": 26
+      },
+      {
+        "keyword": "easy shrimp horderves",
+        "volume": 480,
+        "competition": 26
+      },
+      {
+        "keyword": "make ahead shrimp appetizer",
+        "volume": 480,
+        "competition": 11
+      },
+      {
+        "keyword": "red lobster parrot isle jumbo coconut shrimp",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "simple shrimp appetizer",
+        "volume": 480,
+        "competition": 26
+      },
+      {
+        "keyword": "cajun deviled eggs shrimp",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese shrimp toast recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and shrimp appetizer",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "cucumber appetizers with shrimp",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "steamed shrimp shumai",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "olive garden shrimp appetizer",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "appetizer for seafood boil",
+        "volume": 320,
+        "competition": 12
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

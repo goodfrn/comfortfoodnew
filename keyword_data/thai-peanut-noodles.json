@@ -1,0 +1,267 @@
+{
+  "slug": "thai-peanut-noodles",
+  "title": "Thai Peanut Noodles Shrimp",
+  "seed_keywords": [
+    "thai peanut noodles",
+    "shrimp noodle dishes",
+    "peanut sauce pasta",
+    "almond butter noodles",
+    "asian shrimp pasta"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "noodles with peanuts",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta with peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut sauce for noodles",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut noodle dish",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp noodle dishes",
+        "volume": 6600,
+        "competition": 61
+      },
+      {
+        "keyword": "ramen noodle peanut butter",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "thai peanut noodles",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "thai noodles with peanuts",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "thai satay noodles",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp and noodle recipes",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "garlic shrimp noodle recipe",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "noodle with shrimp recipe",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "shrimp ramen recipes",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fried noodles with shrimp",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry with noodles and shrimp",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and peanut noodles",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken peanut noodles",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter noodles sauce",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut noodles and chicken",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "rice noodle with shrimp",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "rice noodles and shrimp",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "sesame peanut noodle",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp with noodles",
+        "volume": 1900,
+        "competition": 44
+      },
+      {
+        "keyword": "cold peanut noodles",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "noodles thai peanut sauce",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "peanut thai noodle recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy peanut butter noodles",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "thai noodle dish with peanut sauce",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "thai peanut noodle dish",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "thai peanut pasta sauce",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "thai peanut sauce and noodles",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "pad thai peanut",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with peanut",
+        "volume": 1000,
+        "competition": 40
+      },
+      {
+        "keyword": "peanut pasta",
+        "volume": 1000,
+        "competition": 40
+      },
+      {
+        "keyword": "peanut ramen",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for rice noodles and shrimp",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe shrimp rice noodles",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "rice noodle with peanut sauce",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "rice noodles and peanut sauce",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "rice noodles with shrimp recipes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "thai chicken peanut noodles",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "thai peanut chicken and noodles",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "easy peanut sauce for noodles",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "pancit shrimp",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with vegetables and shrimp",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "peanut butter chicken noodles",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter noodles thai",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut noodles tofu",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "thai peanut butter pasta",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "thai peanut satay noodles",
+        "volume": 880,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

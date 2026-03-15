@@ -1,0 +1,267 @@
+{
+  "slug": "vietnamese-pork-skewers",
+  "title": "Vietnamese Pork Skewers",
+  "seed_keywords": [
+    "pork skewers",
+    "grilled pork recipes",
+    "vietnamese pork dishes",
+    "ground pork grilling",
+    "asian pork marinade"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shredded pork bbq",
+        "volume": 450000,
+        "competition": 9
+      },
+      {
+        "keyword": "barbecued pulled pork recipe",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "bun cha",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "pulled pork bbq in crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq pulled pork slow cooker recipes",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq ribs",
+        "volume": 60500,
+        "competition": 27
+      },
+      {
+        "keyword": "pork chop marinade",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq ribs on bbq",
+        "volume": 60500,
+        "competition": 27
+      },
+      {
+        "keyword": "bbq pulled pork shoulder",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled pork chops",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "grilled pork loin chops",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "bun thit",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "marinate pork fillet",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "marinate pork loin",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "marinate pork tenderloin",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pork char siu",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chinese barbeque",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "bbq ribs recipe",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "bbq ribs on the grill",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "bbq pulled pork smoker",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "bbq ribs spice rub",
+        "volume": 22200,
+        "competition": 49
+      },
+      {
+        "keyword": "pork belly on smoker",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "grilled pork tenderloin",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "bbq rub pulled pork",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "babyback ribs in smoker",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "barbecue rib rub",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "bbq ribs recipe smoker",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "cook country style ribs",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled pork fillet",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "pork chop on smoker",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "grilled pork chop recipes",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "bbq pork chops",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "bbq pork",
+        "volume": 14800,
+        "competition": 22
+      },
+      {
+        "keyword": "barbecue pork chops",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "barbecue pulled pork",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "boston butt rub",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "bbq pork chinese",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "chopped pork bbq",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cook pork spare ribs",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "grilled pork chop ideas",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled pork loin chop recipes",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "pork meat marinade",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "pork riblets smoker",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "pork ribs on a smoker",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "shredded barbecue pork",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "moo ping",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue pork ribs",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "barbecue spare ribs",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "grilling pork",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "spare ribs bbq",
+        "volume": 12100,
+        "competition": 15
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

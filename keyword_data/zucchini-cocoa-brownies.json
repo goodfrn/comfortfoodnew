@@ -1,0 +1,267 @@
+{
+  "slug": "zucchini-cocoa-brownies",
+  "title": "Zucchini Cocoa Brownies",
+  "seed_keywords": [
+    "zucchini brownies",
+    "chocolate brownies",
+    "cocoa brownies with zucchini",
+    "vegetable brownies",
+    "chocolate desserts"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "profiteroles",
+        "volume": 550000,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate cake chocolate",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate cake with chocolate",
+        "volume": 450000,
+        "competition": 64
+      },
+      {
+        "keyword": "eclairs",
+        "volume": 368000,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate mousse",
+        "volume": 165000,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate pie",
+        "volume": 135000,
+        "competition": 56
+      },
+      {
+        "keyword": "chocolate german cake",
+        "volume": 135000,
+        "competition": 56
+      },
+      {
+        "keyword": "cocoa pie",
+        "volume": 135000,
+        "competition": 56
+      },
+      {
+        "keyword": "gateau au chocolate",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "cosmic brownies",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "cocoa brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "brownie cosmic",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "brownie cookies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cookies and brownies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "chocolate mousse cake",
+        "volume": 60500,
+        "competition": 50
+      },
+      {
+        "keyword": "chocolate cheesecake",
+        "volume": 60500,
+        "competition": 31
+      },
+      {
+        "keyword": "fudgy brownies",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "fudgy chocolate brownie",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "ina garten brownie pudding",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "tart lemon",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate lava cake",
+        "volume": 49500,
+        "competition": 25
+      },
+      {
+        "keyword": "flourless chocolate cake",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate pudding",
+        "volume": 49500,
+        "competition": 50
+      },
+      {
+        "keyword": "chocolate fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "scotcheroos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut butter pie",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "choc fudge cake",
+        "volume": 49500,
+        "competition": 46
+      },
+      {
+        "keyword": "chocolate cake in a cup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "cocoa pudding",
+        "volume": 49500,
+        "competition": 50
+      },
+      {
+        "keyword": "pavlova cookies",
+        "volume": 49500,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato chocolate brownie",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate eclair",
+        "volume": 40500,
+        "competition": 34
+      },
+      {
+        "keyword": "chocolate souffle",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "choco eclairs",
+        "volume": 40500,
+        "competition": 34
+      },
+      {
+        "keyword": "homemade chocolate brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate desserts",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "french silk pie",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "cookie skillet",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "choco lava cake",
+        "volume": 33100,
+        "competition": 21
+      },
+      {
+        "keyword": "choco flan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "7 layer bars",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "chocolate flan",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean chocolate brownies",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolat mousse",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "cocoa desserts",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "cooked chocolate pudding",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "seven layer bar",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "fudge brownies",
+        "volume": 27100,
+        "competition": 36
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

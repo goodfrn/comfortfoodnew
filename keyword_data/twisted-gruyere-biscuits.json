@@ -1,0 +1,57 @@
+{
+  "slug": "twisted-gruyere-biscuits",
+  "title": "Twisted Gruyère Thyme Biscuits",
+  "seed_keywords": [
+    "savory cheese biscuits",
+    "gruyere appetizers",
+    "herb biscuits spelt flour",
+    "cheese thyme crackers",
+    "twisted savory bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ina garten parmesan and thyme crackers",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "ina garten parmesan thyme crackers",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "gruyère thyme biscuits",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "spelt flour cheese biscuits",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "twisted savory biscuits",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked paprika cheese crackers",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "herb infused gruyère biscuits",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade cheese biscuits with thyme",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

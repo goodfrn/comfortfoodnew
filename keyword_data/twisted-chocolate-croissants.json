@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-chocolate-croissants",
+  "title": "Twisted Chocolate Croissants",
+  "seed_keywords": [
+    "chocolate croissants",
+    "homemade viennoiserie",
+    "croissant dough recipe",
+    "chocolate pastry baking",
+    "orange chocolate pastries"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pain au chocolat",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "chocolate croissants",
+        "volume": 49500,
+        "competition": 64
+      },
+      {
+        "keyword": "chocolate chocolate croissants",
+        "volume": 49500,
+        "competition": 64
+      },
+      {
+        "keyword": "cocoa croissant",
+        "volume": 49500,
+        "competition": 64
+      },
+      {
+        "keyword": "croissant and chocolate",
+        "volume": 49500,
+        "competition": 64
+      },
+      {
+        "keyword": "croissants nutella",
+        "volume": 22200,
+        "competition": 19
+      },
+      {
+        "keyword": "chocolate croissant near me",
+        "volume": 9900,
+        "competition": 58
+      },
+      {
+        "keyword": "croissant de chocolat",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "recipe with pillsbury crescent rolls",
+        "volume": 9900,
+        "competition": 27
+      },
+      {
+        "keyword": "recipes using pillsbury crescent dough",
+        "volume": 9900,
+        "competition": 27
+      },
+      {
+        "keyword": "croissant cocoa",
+        "volume": 8100,
+        "competition": 62
+      },
+      {
+        "keyword": "croissant rolling",
+        "volume": 8100,
+        "competition": 68
+      },
+      {
+        "keyword": "croissant pastry",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "chocolate croissant trader joe's",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "chocolate croissant trader joes",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "pizza made with crescent rolls",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "pizza using crescent rolls",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "trader joe's chocolate croissant",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "twisted croissant",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "crescent roll dough",
+        "volume": 4400,
+        "competition": 38
+      },
+      {
+        "keyword": "cinnamon crescent roll",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon roll crescent rolls",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon roll from crescent rolls",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon roll recipe crescent rolls",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon rolls recipe with crescent rolls",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon rolls using crescent rolls",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "dough crescent rolls",
+        "volume": 4400,
+        "competition": 38
+      },
+      {
+        "keyword": "dough for crescent rolls",
+        "volume": 4400,
+        "competition": 38
+      },
+      {
+        "keyword": "bauli croissants",
+        "volume": 3600,
+        "competition": 76
+      },
+      {
+        "keyword": "croissant choco",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "chocolate filled croissants",
+        "volume": 2900,
+        "competition": 75
+      },
+      {
+        "keyword": "cedric grolet croissant",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate stuffed croissant",
+        "volume": 2900,
+        "competition": 75
+      },
+      {
+        "keyword": "croissant puff pastry",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "croissant using puff pastry",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "croissant dough recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "french chocolate croissant",
+        "volume": 2400,
+        "competition": 15
+      },
+      {
+        "keyword": "crescent dough sheet recipes",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "brioche croissant",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "croissant cinnamon roll",
+        "volume": 2400,
+        "competition": 22
+      },
+      {
+        "keyword": "pillsbury crescent dough",
+        "volume": 1600,
+        "competition": 40
+      },
+      {
+        "keyword": "biscoff croissant",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "crescent roll dough pillsbury",
+        "volume": 1600,
+        "competition": 40
+      },
+      {
+        "keyword": "croissant cream",
+        "volume": 1600,
+        "competition": 32
+      },
+      {
+        "keyword": "pillsbury crescent dough sheet recipe",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "pillsbury crescent roll dough sheet recipes",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "refrigerated crescent roll dough",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolat croissant",
+        "volume": 1300,
+        "competition": 25
+      },
+      {
+        "keyword": "crêpes & croissants",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "almond chocolate croissant",
+        "volume": 1000,
+        "competition": 15
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

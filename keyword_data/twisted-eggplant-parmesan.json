@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-eggplant-parmesan",
+  "title": "Twisted Eggplant Parmesan",
+  "seed_keywords": [
+    "eggplant parmesan",
+    "pasta with eggplant",
+    "fried eggplant pasta",
+    "eggplant mozzarella",
+    "italian eggplant dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "spaghetti caponata",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant recipe",
+        "volume": 135000,
+        "competition": 21
+      },
+      {
+        "keyword": "eggplant parmesan",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant and parmesan",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant and parmesan cheese",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant eggplant parmesan",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant parmesan cheese",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant plant parmesan",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant parmesan recipe",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "alla parmigiana melanzane",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "eggplant and parmesan recipes",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "eggplant parmesan cheese recipe",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "aubergine rollatini",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "italian eggplant rollatini",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "rollatini eggplant",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "caponata italian recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "italian caponata recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "italian caponata eggplant",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta with eggplant",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "baked eggplant parmesan recipe",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "easy eggplant recipe",
+        "volume": 9900,
+        "competition": 23
+      },
+      {
+        "keyword": "baked eggplant parm recipe",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "baked eggplant parmigiana recipe",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "baked eggplant recipes parmesan",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "brinjal pasta",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "egg plant and pasta",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "recipes for eggplant parmesan with baked eggplant",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "eggplant parmesan near me",
+        "volume": 8100,
+        "competition": 21
+      },
+      {
+        "keyword": "aubergine with pasta",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "eggplant parm near me",
+        "volume": 8100,
+        "competition": 21
+      },
+      {
+        "keyword": "pasta and aubergine",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "baked eggplant recipes",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "aubergine parmesan",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "egg plant parmigiana recipe",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "eggplant rollatini recipe",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "italian eggplant rollatini recipe",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "italian eggplant dishes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "eggplant parmesan recipe easy",
+        "volume": 5400,
+        "competition": 13
+      },
+      {
+        "keyword": "aubergine parmesan recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "aubergine parmigiana recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "brinjal italian recipes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "easy eggplant parm recipe",
+        "volume": 5400,
+        "competition": 13
+      },
+      {
+        "keyword": "easy eggplant parmigiana recipe",
+        "volume": 5400,
+        "competition": 13
+      },
+      {
+        "keyword": "eggplant italian recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "melanzane parmigiana recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "parmigiana melanzane",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "simple eggplant parmigiana recipe",
+        "volume": 5400,
+        "competition": 13
+      },
+      {
+        "keyword": "baked eggplant parmesan",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "eggplant parmesan olive garden",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "eggplant parmesan at olive garden",
+        "volume": 4400,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

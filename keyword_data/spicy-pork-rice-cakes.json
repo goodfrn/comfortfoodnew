@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-pork-rice-cakes",
+  "title": "Spicy Pork Rice Cakes",
+  "seed_keywords": [
+    "spicy rice cakes",
+    "korean rice cakes",
+    "stir fried pork",
+    "pork rice bowl",
+    "gochujang pork noodles"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tteokbokki",
+        "volume": 823000,
+        "competition": 25
+      },
+      {
+        "keyword": "katsudon",
+        "volume": 165000,
+        "competition": 1
+      },
+      {
+        "keyword": "korean rice cakes",
+        "volume": 74000,
+        "competition": 32
+      },
+      {
+        "keyword": "tteokbokki recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dukboki recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "koreaanse rice cake",
+        "volume": 74000,
+        "competition": 32
+      },
+      {
+        "keyword": "koreaanse rice cakes",
+        "volume": 74000,
+        "competition": 32
+      },
+      {
+        "keyword": "korean food rice cake",
+        "volume": 74000,
+        "competition": 32
+      },
+      {
+        "keyword": "korean food tteokbokki recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "korean rice cake cake",
+        "volume": 74000,
+        "competition": 32
+      },
+      {
+        "keyword": "korean rice cake food",
+        "volume": 74000,
+        "competition": 32
+      },
+      {
+        "keyword": "korean tteokbokki recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "topokki korean food recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "topokki korean recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dukbokki near me",
+        "volume": 49500,
+        "competition": 54
+      },
+      {
+        "keyword": "fish cake korean food",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "tteok",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "rabokki",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "dduk korean",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "korean tteok",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "tteok korean",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "stir fried pork",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "fried pork stir fry",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "rose tteok bokki",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "stir fry using pork",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "pork stir fry recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pork stir fry dishes",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pork stir fry meat recipes",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pork stirfry recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for pork stirfry",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe pork stirfry",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry recipe using pork",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "korean cakes",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "songpyeon",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "korean tteokbokki",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "butadon",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "korean dish rice cake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "korean dish tteokbokki",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "korean food tteokbokki",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "korean recipe rice cake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "tteokbokki in korean",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "recipe for katsudon",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "tteokbokki sauce",
+        "volume": 8100,
+        "competition": 46
+      },
+      {
+        "keyword": "spicy rice cakes",
+        "volume": 5400,
+        "competition": 57
+      },
+      {
+        "keyword": "cheese tteokbokki",
+        "volume": 5400,
+        "competition": 63
+      },
+      {
+        "keyword": "garaetteok",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "cheese dukboki",
+        "volume": 5400,
+        "competition": 63
+      },
+      {
+        "keyword": "katsudon pork",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "sotteok",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bosong rice cake",
+        "volume": 4400,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

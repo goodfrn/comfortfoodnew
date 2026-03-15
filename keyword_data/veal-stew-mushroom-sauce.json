@@ -1,0 +1,267 @@
+{
+  "slug": "veal-stew-mushroom-sauce",
+  "title": "Veal Stew with Creamy Mushroom Sauce",
+  "seed_keywords": [
+    "veal stew",
+    "creamy mushroom sauce",
+    "slow cooker veal",
+    "braised veal mushrooms",
+    "veal stew recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "creamy mushroom sauce",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "cream and mushroom sauce",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "cream for mushroom sauce",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "mushroom & cream sauce",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "mushroom cream pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork chop and cream of mushroom",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom sauce recipes",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "sauce mushroom recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken with mushroom sauce",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken and cream mushroom",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and mushroom sauce",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken cream mushroom",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken cream of mushroom cream of chicken",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken with cream and mushroom",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "cream of mushroom cream of chicken",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "mushroom sauce for pasta",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "mushroom sauce and pasta",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "mushroom with cream",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "mushrooms and cream",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken and creamy mushroom recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and mushroom cream pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken creamy mushroom recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and creamy mushroom sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and mushroom in creamy sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken cream mushroom sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken mushroom with cream sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy chicken in mushroom sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy chicken with mushroom sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "cream and mushroom pasta sauce",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy mushroom pasta sauce",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy mushroom sauce with pasta",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy pasta sauce with mushrooms",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "mushroom and cream pasta sauce",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "mushroom creamy pasta sauce",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "pasta cream mushroom sauce",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "pork chop with cream of mushroom recipes",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "veal stew",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "veal stew meat",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "alfredo mushroom sauce",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "cream mushroom rice",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy garlic mushroom",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy pesto recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic and cream mushrooms",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "mushroom sauce for pork chops",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom sauce with pork chops",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta alfredo with mushrooms",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "blanquette of veal",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "cream and mushroom sauce for steak",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cream of mushroom sauce for steak",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cream of mushroom steak sauce",
+        "volume": 3600,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

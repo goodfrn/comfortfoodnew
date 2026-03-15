@@ -1,0 +1,267 @@
+{
+  "slug": "spaghetti-jambalaya-twist",
+  "title": "Spaghetti Jambalaya Twist",
+  "seed_keywords": [
+    "spaghetti jambalaya",
+    "cajun pasta dishes",
+    "sausage pasta one pot",
+    "jambalaya with pasta",
+    "chorizo spaghetti dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cajun chicken pasta",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and pasta",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun pasta dishes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun pasta recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun pasta shrimp",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp and pasta",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for cajun chicken pasta",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and pasta recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken pasta dishes",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken creamy pasta",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken alfredo",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "blackened chicken fettuccine alfredo",
+        "volume": 8100,
+        "competition": 30
+      },
+      {
+        "keyword": "cajun chicken fettuccine alfredo",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun jambalaya pasta cheesecake factory",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "cajun pasta sausage",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake factory jambalaya pasta",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for pastalaya",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "jambalaya with pasta",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "cajun cream pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun creamy pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "jambalaya noodles",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy cajun chicken pasta recipe",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "cajun pasta chili's",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "cajun pasta recipe shrimp",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp and pasta recipes",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp and sausage pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp sausage pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chili's cajun chicken pasta",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "cajun chicken alfredo recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "andouille pasta",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and sausage pasta",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken pasta with sausage",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun jambalaya pasta",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "cajun pasta with shrimp and sausage",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun sausage and chicken pasta",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp creamy pasta",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp sausage pasta",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and andouille sausage",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta andouille sausage",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken pasta crockpot",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "cajun chicken pasta slow cooker",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "cajun shrimp & chicken pasta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp and chicken pasta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "one pan pasta sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "one pan pasta with sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot pasta and sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot pasta sausage",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "sausage one pot pasta",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken pasta one pot",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "jambalaya pasta recipe",
+        "volume": 1600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

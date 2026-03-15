@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-pumpkin-squares",
+  "title": "Spiced Pumpkin Squares",
+  "seed_keywords": [
+    "pumpkin cake",
+    "pumpkin desserts",
+    "spiced pumpkin squares",
+    "pumpkin baking recipes",
+    "candied pumpkin seeds"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pumpkin for pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin for pumpkin pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin pie with pie pumpkin",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkins pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin des",
+        "volume": 90500,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin seeds for baking",
+        "volume": 74000,
+        "competition": 64
+      },
+      {
+        "keyword": "recipes that use pumpkin",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "roast pumpkin seeds",
+        "volume": 60500,
+        "competition": 39
+      },
+      {
+        "keyword": "baking pumpkin seeds",
+        "volume": 60500,
+        "competition": 39
+      },
+      {
+        "keyword": "pumpkin seed recipe roasted",
+        "volume": 60500,
+        "competition": 39
+      },
+      {
+        "keyword": "pumpkin cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin muffins",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin and cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "spice pumpkin pie",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "pumpkin cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "libby's pumpkin pie recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cake cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "roast pumpkin seeds how to",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "pumpkin cake",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin roll",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin and cake",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin bars",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "cake and pumpkin recipe",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin roasted",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin desserts",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "roast pumpkin soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin chocolate chip muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon pumpkin rolls",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "desserts using pumpkin",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "pumpkin and chocolate chip muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin chocolate chunk muffins",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin soup with roast pumpkin",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe pumpkin bars",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin dessert recipes",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "pumpkin scones",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin dessert ideas",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "pumpkin pie with sweetened condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "condensed milk pumpkin pie",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie using sweetened condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie made with condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "banana bread pumpkin",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin and banana bread",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin cup cake",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin pie using condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan pumpkin pie",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice cake",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin cheesecake bars",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake pumpkin cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bakeless pumpkin cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cake mix pumpkin spice cake",
+        "volume": 9900,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

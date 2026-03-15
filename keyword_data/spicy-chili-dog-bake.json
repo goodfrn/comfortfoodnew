@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-chili-dog-bake",
+  "title": "Spicy Chili Dog Bake",
+  "seed_keywords": [
+    "chili dog casserole",
+    "ground beef chili",
+    "baked chili cheese",
+    "spicy sausage chili",
+    "chili bake dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ground beef chili",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "chili ground meat",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "chili with hamburger meat",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "chili recipe ground beef",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili and ground beef recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili recipe using ground beef",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili recipe with hamburger meat",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chop meat chili recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "ground meat chili recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot slow cooker chili",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for beef chili",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "beef chilli recipes",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "chili hamburger",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker chili with turkey",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe ground turkey chili",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "turkey ground beef chili",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "beef and chili recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "beef bean chili recipe",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "hot dog casseroles",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for beef chilli",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chili dog casserole",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "beef crock pot chili",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "beef slow cooker chili",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "chili cheese dog casserole",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chili hot dog casserole",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chili with beef chuck",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker chili best",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "best beef chili recipe",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "beef chili recipes crock pot",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "chili bean recipe with ground beef",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "chili recipe beans and ground beef",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "chili recipe beef slow cooker",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "chili recipe ground beef and beans",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "good beef chili recipe",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "great beef chili recipes",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "ground beef with beans chili recipe",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "ground chuck chili",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "ground chuck for chili",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "hamburger chili beans recipe",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "recipe for chili beans ground beef",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "beef chuck chili recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "corn dog casserole",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "easy beef chili recipe",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "quick beef chili recipe",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "simple beef chili recipe",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooker chili and beans",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker chili beans",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "simple chili ingredients",
+        "volume": 1000,
+        "competition": 17
+      },
+      {
+        "keyword": "best beef chili",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "chili in the crock pot recipe with ground beef",
+        "volume": 880,
+        "competition": 10
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "tender-veggies-tomato-sauce",
+  "title": "Tender Veggies in Tomato Sauce",
+  "seed_keywords": [
+    "roasted vegetable dinner",
+    "tomato sauce vegetables",
+    "zucchini bell pepper",
+    "mediterranean vegetable stew",
+    "roasted vegetables tomato"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "seasoned tomato",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable side dishes for roast",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted vegetables for thanksgiving dinner",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "roman tomato sauce",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted vegetable dinner",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato sauce for lasagna",
+        "volume": 2900,
+        "competition": 39
+      },
+      {
+        "keyword": "roast veg for roast dinner",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted vegetables for dinner",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "veg for roast dinner",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "non tomato spaghetti sauce",
+        "volume": 2400,
+        "competition": 25
+      },
+      {
+        "keyword": "vegetable roast dinner",
+        "volume": 2400,
+        "competition": 44
+      },
+      {
+        "keyword": "christmas roast veg",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "christmas roasted veg",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "christmas veg roast",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "dinner ideas with carrots",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "roasted garlic and tomato",
+        "volume": 1600,
+        "competition": 12
+      },
+      {
+        "keyword": "roasted garlic tomatoes",
+        "volume": 1600,
+        "competition": 12
+      },
+      {
+        "keyword": "baked tomato and zucchini",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "baked zucchini with tomatoes",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "roast dinner vegetables",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "roast dinner veggies",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "roasted tomatoes in air fryer",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "veggie dinner roast",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "pasta in red sauce with vegetables",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta in tomato sauce with vegetables",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with red sauce and veggies",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with veggies and tomato sauce",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "red sauce pasta with veggies",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato sauce with vegetables for pasta",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato zucchini sauce",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "veg pasta in red sauce",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini in red sauce",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "zucchini with red sauce",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "hunt's fire roasted tomatoes",
+        "volume": 880,
+        "competition": 32
+      },
+      {
+        "keyword": "bell pepper and zucchini recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "bell pepper zucchini recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "garden tomato marinara sauce",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "kagome tomato ketchup",
+        "volume": 880,
+        "competition": 49
+      },
+      {
+        "keyword": "no tomato",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti sauce from frozen tomatoes",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato sauce from frozen tomatoes",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato sauce frozen",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato sauce with frozen tomatoes",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato sauce vegetables",
+        "volume": 720,
+        "competition": 32
+      },
+      {
+        "keyword": "air fryer roasted tomatoes",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "canning tomato sauce in water bath",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "chunky tomato sauce",
+        "volume": 720,
+        "competition": 78
+      },
+      {
+        "keyword": "hunt's diced fire roasted tomatoes",
+        "volume": 720,
+        "competition": 14
+      },
+      {
+        "keyword": "red sauce with vegetables",
+        "volume": 720,
+        "competition": 32
+      },
+      {
+        "keyword": "roast vegetables for sunday roast",
+        "volume": 720,
+        "competition": 12
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

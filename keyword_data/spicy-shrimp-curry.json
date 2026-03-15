@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-shrimp-curry",
+  "title": "Spicy Shrimp Curry Twist",
+  "seed_keywords": [
+    "spicy shrimp curry",
+    "shrimp curry recipes",
+    "coconut oil shrimp",
+    "eggplant curry dishes",
+    "asian shrimp dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shrimp in coconut",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "baingan bharta",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp curry",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "prawn curry recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp and curry",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp curry recipes",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "curry and shrimp recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "aubergine indian recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "eggplant recipes indian",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut prawn curry",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut and prawn curry",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "curry shrimp dishes",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "goan shrimp curry",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "prawn & coconut curry",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "prawn curry thai",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "prawn curry with coconut milk",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "brinjal fry",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut curried shrimp",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "curried prawn",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "curry thai shrimp",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "ennai kathirikai",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "prawn and coconut milk curry",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp and coconut curry",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "green thai curry prawns",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "red thai curry prawns",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut prawn",
+        "volume": 2400,
+        "competition": 13
+      },
+      {
+        "keyword": "curried eggplant recipes",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "curried prawn recipes",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "red curry shrimp",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "red curry shrimp thai",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut milk and shrimp",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut milk curry shrimp",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "coconut milk shrimp",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut shrimp coconut milk",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "green curry shrimp",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "green curry shrimp thai",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kerala prawn curry",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "kerala shrimp curry",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp with coconut milk curry",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "best prawn curry recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut curried shrimp recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut milk and shrimp recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "curried shrimp jamaican",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "mango and prawn curry",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "mango curry prawns",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "prawn mango curry",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp coconut milk recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp korma",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sri lankan aubergine curry",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sri lankan brinjal curry",
+        "volume": 1600,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

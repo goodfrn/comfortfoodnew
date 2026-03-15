@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-roast-fish",
+  "title": "Spiced Roast Fish with Carrot Purée",
+  "seed_keywords": [
+    "pan seared white fish",
+    "spiced roast fish",
+    "roasted fish fillets",
+    "carrot celery puree",
+    "fish with vegetable puree"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "baked salmon fish recipe",
+        "volume": 165000,
+        "competition": 13
+      },
+      {
+        "keyword": "salmon baking in oven",
+        "volume": 90500,
+        "competition": 11
+      },
+      {
+        "keyword": "cod baked recipe",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "cod fish baked recipe",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "baked cod fish in oven",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "baking cod in oven",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "baked trout recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "baking trout in oven",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "baking salmon fillet",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "baked fish in oven",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "baking a fish in the oven",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "flounder baked recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for sea bass fillets",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe red snapper fillet",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked salmon fillets in oven",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "baking a salmon fillet in the oven",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "recipe for baked salmon fillet",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "baked walleye in oven",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "snapper oven recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked cod fillet",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "baked cod fish fillet",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "sea bass cooked in oven",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "baked rainbow trout recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "rainbow trout in the oven",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "baked fish fillet",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "baked cod fillets in oven",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "fish fillet oven",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "fish recipe in oven",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "baked fish fillet recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "baked cod fillet recipe",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "baked fish in oven recipe",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "fish fillet in oven recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "red snapper oven recipe",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "best baked cod recipe",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "baked fish fillets in oven",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "baked fish fillets in the oven",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "oven baked trout recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "baked red snapper fillet recipe",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "baked sole",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "baked sole fish",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "baking red snapper in oven",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "baking snapper in oven",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "baking trout fillet",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "roast fillet of salmon",
+        "volume": 1000,
+        "competition": 11
+      },
+      {
+        "keyword": "baked cod from frozen",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "baked perch recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "baked red snapper fillet",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "baked trout recipe fillet",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "chilean sea bass recipe oven",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "oven roasted salmon steaks",
+        "volume": 880,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

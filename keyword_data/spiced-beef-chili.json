@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-beef-chili",
+  "title": "Spiced Beef Chili Kick",
+  "seed_keywords": [
+    "beef chili recipe",
+    "spiced ground beef",
+    "smoky chili with beans",
+    "beef chili variations",
+    "chipotle beef stew"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chili con carne dish",
+        "volume": 450000,
+        "competition": 5
+      },
+      {
+        "keyword": "chilli recipes",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "cook chilli con carne",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "make chili con carne",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "making a chilli con carne",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "ground beef chili",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "best recipe for chilli",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chili ground meat",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "chili with hamburger meat",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "chili recipe ground beef",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili and ground beef recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili recipe using ground beef",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili recipe with hamburger meat",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chop meat chili recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "ground meat chili recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for easy chilli",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe chilli beans",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "crock pot slow cooker chili",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "making chili in a crock pot",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "slow cooker chilli con carne",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chili carne slow cooker",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot recipe for chilli",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for chilli in slow cooker",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cook chili con carne",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker recipe chilli",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "beef chili recipe",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "beef chilli recipe",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "beef chili meat recipes",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "chili and beef recipe",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "best seasoned hamburger",
+        "volume": 18100,
+        "competition": 47
+      },
+      {
+        "keyword": "chilli crispy beef",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "seasoned hamburger recipe",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "chili hamburger",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "hamburger recipes spices",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "howto make chilli",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "simple recipe for chilli",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "slow cook chilli",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "seasoning for ground beef",
+        "volume": 9900,
+        "competition": 14
+      },
+      {
+        "keyword": "ground meat seasoning",
+        "volume": 9900,
+        "competition": 14
+      },
+      {
+        "keyword": "minced meat seasoning",
+        "volume": 9900,
+        "competition": 14
+      },
+      {
+        "keyword": "beef chili",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "crockpot turkey chili recipes",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "slow cooker chili with turkey",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "beef chilli",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "beef chili meat",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "beef for chili",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe ground turkey chili",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "chili con carne ingredients",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "beef and chili",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "best ground beef seasoning",
+        "volume": 5400,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

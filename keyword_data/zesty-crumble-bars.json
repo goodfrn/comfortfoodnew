@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-crumble-bars",
+  "title": "Zesty Crumble Bars",
+  "seed_keywords": [
+    "lemon bars",
+    "oat crumble bars",
+    "lemon dessert bars",
+    "condensed milk bars",
+    "crumble cake mix"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lemon bars",
+        "volume": 110000,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon dessert bars",
+        "volume": 110000,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon dessert squares",
+        "volume": 110000,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon square cake",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "lemon bar recipes",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "lemon bar dessert recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "lemon squares",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "lemonade squares",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "crumb mix",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon squares recipe",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "lemon square cake price",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "easy lemon square recipe",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "lemon bar shortbread crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon bars with shortbread cookie crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon squares shortbread crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "magic cookie bar recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "gluten free lemon bars",
+        "volume": 5400,
+        "competition": 23
+      },
+      {
+        "keyword": "lemon bars recipe easy",
+        "volume": 5400,
+        "competition": 19
+      },
+      {
+        "keyword": "lemon square cheesecake",
+        "volume": 5400,
+        "competition": 43
+      },
+      {
+        "keyword": "easy to make lemon bars",
+        "volume": 5400,
+        "competition": 19
+      },
+      {
+        "keyword": "gluten free lemon bar recipes",
+        "volume": 5400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten free lemon square",
+        "volume": 5400,
+        "competition": 23
+      },
+      {
+        "keyword": "simple lemon bar recipes",
+        "volume": 5400,
+        "competition": 19
+      },
+      {
+        "keyword": "lemon bars easy",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "easy lemon dessert bars",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "ina garten lemon bar",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "ina garten lemon squares",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon bar recipes ina garten",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese cake lemon bars",
+        "volume": 3600,
+        "competition": 23
+      },
+      {
+        "keyword": "graham cracker crust for lemon bars",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon bars with graham crust",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon blondies",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon square near me",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "lemon square with graham cracker crust",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "best lemon bars recipe",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "cream cheese lemon bar",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese lemon squares",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "eagle brand magic bar",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "eagle brand magic cookie bar",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon and cream cheese bars",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "magic bars by eagle brand",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "mars squares",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "vegan lemon bars",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cake lemon bars",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "cake mix lemon bars",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "cake mix lemon squares",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "classic lemon bar recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "good lemon bar recipe",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon and blueberry bars",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "lemon and raspberry bars",
+        "volume": 2400,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-ranch-firecrackers",
+  "title": "Spicy Ranch Firecrackers",
+  "seed_keywords": [
+    "spicy snack crackers",
+    "homemade ranch seasoning",
+    "seasoned oyster crackers",
+    "spicy ranch snacks",
+    "crispy flavored crackers"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "home made ranch",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade ranch seasoning",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "ranch seasoning recipe",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "ranch dressing seasoning recipe",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "ranch spice recipe",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "homemade ranch dip seasoning",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "homemade ranch dressing seasoning",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "ranch oyster crackers",
+        "volume": 6600,
+        "competition": 16
+      },
+      {
+        "keyword": "oyster crackers recipe",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "oyster cracker and ranch",
+        "volume": 6600,
+        "competition": 16
+      },
+      {
+        "keyword": "oyster cracker ranch dressing",
+        "volume": 6600,
+        "competition": 16
+      },
+      {
+        "keyword": "oyster crackers and ranch dressing",
+        "volume": 6600,
+        "competition": 16
+      },
+      {
+        "keyword": "ranch soup crackers",
+        "volume": 6600,
+        "competition": 16
+      },
+      {
+        "keyword": "spices in ranch dressing",
+        "volume": 5400,
+        "competition": 78
+      },
+      {
+        "keyword": "spicy rice crackers",
+        "volume": 5400,
+        "competition": 57
+      },
+      {
+        "keyword": "oishi prawn crackers",
+        "volume": 5400,
+        "competition": 72
+      },
+      {
+        "keyword": "oishi shrimp chips",
+        "volume": 5400,
+        "competition": 72
+      },
+      {
+        "keyword": "oishi shrimp crackers",
+        "volume": 5400,
+        "competition": 72
+      },
+      {
+        "keyword": "ranch oyster cracker recipe",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "hidden valley ranch oyster crackers recipe",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "oyster cracker and ranch dressing recipe",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "oyster cracker and ranch recipe",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "oyster cracker ranch dressing recipe",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "recipe for oyster crackers and hidden valley ranch",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "recipe for oyster crackers with ranch",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "recipe with oyster crackers and ranch dressing",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "spicy buffalo ranch doritos",
+        "volume": 3600,
+        "competition": 79
+      },
+      {
+        "keyword": "seasoned oyster crackers",
+        "volume": 2900,
+        "competition": 21
+      },
+      {
+        "keyword": "seasoned soup crackers",
+        "volume": 2900,
+        "competition": 21
+      },
+      {
+        "keyword": "ranch dressing mix recipe",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "ranch dip mix recipe",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "ranch mix recipe",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "oyster cracker snack recipe",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "ranch salad dressing mix recipe",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "dry ranch seasoning",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "ranch seasoning ingredients",
+        "volume": 1900,
+        "competition": 69
+      },
+      {
+        "keyword": "ranch dressing packet recipe",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "ranch dressing recipe with packet",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "spicy crackers",
+        "volume": 1900,
+        "competition": 71
+      },
+      {
+        "keyword": "diy ranch seasoning",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "ranch packets recipe",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "ranch dressing recipe packet",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "packet ranch dressing recipe",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "ranch dressing seasoning ingredients",
+        "volume": 1900,
+        "competition": 69
+      },
+      {
+        "keyword": "ingredients for ranch seasoning",
+        "volume": 1900,
+        "competition": 69
+      },
+      {
+        "keyword": "ranch dressing recipe from packet",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "crackers and ranch dressing",
+        "volume": 1900,
+        "competition": 69
+      },
+      {
+        "keyword": "dry ranch dressing seasoning",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "ingredients ranch seasoning",
+        "volume": 1900,
+        "competition": 69
+      },
+      {
+        "keyword": "oyster cracker seasoning recipe",
+        "volume": 1900,
+        "competition": 12
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

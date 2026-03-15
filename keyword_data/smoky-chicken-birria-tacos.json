@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-chicken-birria-tacos",
+  "title": "Smoky Chicken Birria Tacos",
+  "seed_keywords": [
+    "chicken birria tacos",
+    "chipotle chicken tacos",
+    "shredded chicken tacos",
+    "mexican chicken broth",
+    "smoked chicken dips"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe for chicken for tacos",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot chicken tacos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken in the crock pot for tacos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken taco meat crockpot",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken taco meat slow cooker",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker taco chicken",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "taco chicken in the crock pot",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "shredded chicken tacos",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pulled chicken tacos",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken tacos with shredded chicken",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pulled chicken taco's",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken taco meat",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken tacos crock pot",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot pulled chicken for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "mexican slow cooked chicken",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "pulled chicken for tacos slow cooker",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken for tacos slow cooker",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken in slow cooker for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken in the crockpot for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken slow cooker tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker mexican shredded chicken tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pulled chicken for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken al pastor chipotle",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "shredded chicken tacos recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "mexican shredded chicken taco recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pulled chicken for tacos recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe chicken tacos shredded chicken",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for shredded chicken taco meat",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "shredded chicken taco meat recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "taco chicken recipe slow cooker",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "chipotle chicken al pastor",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican pulled chicken",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken birria tacos",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken taco meat instant pot",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "instant pot chicken for tacos",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "instant pot chicken taco",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot mexican pulled chicken",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot shredded chicken mexican",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot shredded mexican chicken",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican pulled chicken slow cooker",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken birria",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "mexican pulled chicken recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chipotle chicken tacos",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken tacos with chipotle",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot birria",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "soft chicken tacos",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "taco bell shredded chicken burrito",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken birria taco recipe",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken shredded burrito taco bell",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken taco instant pot",
+        "volume": 1900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

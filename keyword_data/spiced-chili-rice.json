@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-chili-rice",
+  "title": "Spiced Chili Rice",
+  "seed_keywords": [
+    "spiced rice dishes",
+    "basmati rice pilaf",
+    "chili powder rice",
+    "rice with cumin",
+    "spiced chili rice"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "jeera rice",
+        "volume": 74000,
+        "competition": 18
+      },
+      {
+        "keyword": "spicy rice",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "making jeera rice",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with saffron rice",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "spice for rice recipe",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "cook spicy rice",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "make spicy rice",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy rice dishes recipes",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "nando's rice",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "rice with cumin",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cumin seed rice",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "jeera cumin rice",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "jeera pulao",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "spiced rice dishes",
+        "volume": 2400,
+        "competition": 58
+      },
+      {
+        "keyword": "chicken and rice spices",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken rice spices",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chilli garlic fried rice",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "basmati rice pilaf",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "basmati pilaf",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "rice pilaf with basmati rice",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken saffron rice",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "saffron chicken and rice",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and rice recipe spicy",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and rice seasoning",
+        "volume": 880,
+        "competition": 39
+      },
+      {
+        "keyword": "chicken and spicy rice recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken spicy rice recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "seasoned chicken rice",
+        "volume": 880,
+        "competition": 39
+      },
+      {
+        "keyword": "spicy chicken and rice dish",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "basmati pilau rice",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken with turmeric rice",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "easy spiced rice recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern rice pilaf",
+        "volume": 720,
+        "competition": 19
+      },
+      {
+        "keyword": "basmati jeera rice",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "jeera rice basmati",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "cumin rice in rice cooker",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "jeera rice cooker",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "jeera rice in rice cooker",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "jeera rice near me",
+        "volume": 480,
+        "competition": 17
+      },
+      {
+        "keyword": "indian rice pilaf",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "jeera rice instant pot",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "indian jeera",
+        "volume": 320,
+        "competition": 15
+      },
+      {
+        "keyword": "indian jeera rice",
+        "volume": 320,
+        "competition": 18
+      },
+      {
+        "keyword": "seeragam 1 kg price",
+        "volume": 320,
+        "competition": 38
+      },
+      {
+        "keyword": "basmati cumin rice",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "basmati pilaf recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "basmati rice pilaf recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "basmati rice with cumin seeds",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "indian cumin rice",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "indian rice with cumin seeds",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and saffron rice recipes",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

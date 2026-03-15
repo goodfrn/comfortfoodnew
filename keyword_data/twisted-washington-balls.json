@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-washington-balls",
+  "title": "Twisted Washington Balls",
+  "seed_keywords": [
+    "no bake candy",
+    "chocolate coconut balls",
+    "coconut pecan candies",
+    "condensed milk fudge",
+    "homemade chocolate truffles"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "condensed milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge recipe with condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened condensed milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "condensed fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge made from condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge using condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "make fudge with condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened condensed fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate coconut balls",
+        "volume": 5400,
+        "competition": 39
+      },
+      {
+        "keyword": "chocolate coconut nut balls",
+        "volume": 5400,
+        "competition": 39
+      },
+      {
+        "keyword": "coconut ball recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy fudge recipe with condensed milk",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "fudge made with sweetened condensed milk",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "3 ingredient fudge condensed milk",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "3 ingredient fudge with condensed milk",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "easy fudge recipe sweetened condensed milk",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "easy fudge recipe using condensed milk",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "easy to make fudge with condensed milk",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "fudge made with sweet condensed milk",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "fudge using condensed sweetened milk",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "fudge using sweet condensed milk",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "carnation fudge recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "condensed fudge recipe",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "easy make chocolate truffles",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "easy milk chocolate fudge recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "evaporated milk fudge recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "fudge evaporated milk",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "fudge made with condensed milk recipe",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "fudge made with evaporated milk",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "fudge recipe made with evaporated milk",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "fudge recipe sweetened condensed milk",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "fudge recipe using condensed milk",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "fudge recipe using evaporated milk",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "fudge using evaporated milk",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe fudge with sweetened condensed milk",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "simple fudge recipe condensed milk",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "eagle brand fudge",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "coconut truffles",
+        "volume": 2400,
+        "competition": 61
+      },
+      {
+        "keyword": "chocolate peanut butter balls no bake",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "condensed milk and peanut butter fudge",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fudge with sweetened condensed milk and peanut butter",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and condensed milk fudge",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter fudge made with condensed milk",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter fudge sweetened condensed milk",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter fudge using condensed milk",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter fudge with sweet condensed milk",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter fudge with sweetened condensed milk and peanut butter",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "sweetened condensed peanut butter fudge",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade chocolate truffles",
+        "volume": 1900,
+        "competition": 10
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

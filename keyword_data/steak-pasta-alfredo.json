@@ -1,0 +1,267 @@
+{
+  "slug": "steak-pasta-alfredo",
+  "title": "Steak Pasta Alfredo",
+  "seed_keywords": [
+    "steak pasta",
+    "cream sauce pasta",
+    "butter parmesan pasta",
+    "filet mignon dinner",
+    "seared steak alfredo"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "homemade alfredo pasta sauce",
+        "volume": 110000,
+        "competition": 19
+      },
+      {
+        "keyword": "pasta with a white sauce",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "mushrooms with sauce",
+        "volume": 60500,
+        "competition": 30
+      },
+      {
+        "keyword": "pasta cream",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "cream and pasta recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream in pasta",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "recipe for pasta with white sauce",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "steak pasta",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "beef steak and pasta",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "beef steak pasta",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta and steak",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream sauce pasta",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "creamy pasta sauce with cream",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "mushroom cream pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and cream sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta and creamy sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta with a creamy sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "carbonara recipe with cream",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "steak pasta recipes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "beef steak and pasta recipes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "beef steak pasta recipes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "carbonara recipe creamy",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "cream carbonara recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "cream tomato pasta recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy spaghetti carbonara recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "pasta and steak dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta and steak recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta dish with steak",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with tomato cream",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "carbonara with cream",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "cream and pesto pasta",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cream carbonara",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "cream spaghetti carbonara",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "creamy pasta and salmon",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta carbonara creamy",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "pasta pesto cream",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta with creamy pesto",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto pasta creamy",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto pasta with cream",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "salmon and cream pasta",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "salmon cream spaghetti",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "fettuccine alfredo heavy cream",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "heavy cream for fettuccine alfredo",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "heavy cream pasta alfredo",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "alfredo pasta cream cheese",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "alfredo pasta sauce with cream cheese",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream and tomato pasta sauce",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "cream and tomato sauce pasta",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "cream cheese fettuccine alfredo",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream for spaghetti sauce",
+        "volume": 12100,
+        "competition": 15
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

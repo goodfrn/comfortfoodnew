@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-pickle-chicken-salad",
+  "title": "Twisted Pickle Chicken Salad",
+  "seed_keywords": [
+    "chicken salad",
+    "chicken salad recipe",
+    "pickle chicken salad",
+    "mayo chicken salad",
+    "celery chicken salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chickensaladchick",
+        "volume": 1220000,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken salad recipe",
+        "volume": 368000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and salad recipe",
+        "volume": 368000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken salad salad recipe",
+        "volume": 368000,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken salad",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and salad",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken salad on salad",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "cobb salad",
+        "volume": 165000,
+        "competition": 13
+      },
+      {
+        "keyword": "finger salad",
+        "volume": 135000,
+        "competition": 0
+      },
+      {
+        "keyword": "chick fil a salads",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "chickfila salad",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "chick fil la salads",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken salad chick near me",
+        "volume": 74000,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken caesar salad",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "caesar dressing chicken",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken caesar dressing",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken caesar sauce",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken for chicken caesar salad",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken scissor salad",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken salad sandwich",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "curried chicken",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and salad sandwich",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken salad near me",
+        "volume": 40500,
+        "competition": 35
+      },
+      {
+        "keyword": "chick pea salad recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chick peas salad recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken salad sandwich recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled chicken salad",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "chinese chicken",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken chopped",
+        "volume": 33100,
+        "competition": 24
+      },
+      {
+        "keyword": "chicken salad sandwich ideas",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken salad with grilled chicken",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "grilled chicken and salad",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "simple chicken salad recipe",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "easy chicken salad recipe",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "basic chicken salad recipe",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "salads from panera",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "salads subway",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "best chicken salad recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "chinese chicken salad",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "good chicken salad recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "cobb salad chickfila",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "great chicken salad recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "awesome chicken salad recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "best chicken recipe for salad",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "coleslaw kentucky fried chicken",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "kentucky coleslaw",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "kentucky fried coleslaw",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "southwest salad",
+        "volume": 18100,
+        "competition": 51
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

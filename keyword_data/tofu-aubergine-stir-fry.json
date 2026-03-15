@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-aubergine-stir-fry",
+  "title": "Tofu Aubergine Stir-Fry",
+  "seed_keywords": [
+    "tofu stir fry",
+    "eggplant aubergine recipe",
+    "asian vegetable stir fry",
+    "tofu eggplant dish",
+    "thai basil tofu"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "eggplant s",
+        "volume": 550000,
+        "competition": 19
+      },
+      {
+        "keyword": "phad gra pao",
+        "volume": 165000,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "fried tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "stirfry with tofu",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu stirfry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "wok fried tofu",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "aubergine fried",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "aubergine air fryer",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "aubergines airfryer",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "white aubergines",
+        "volume": 14800,
+        "competition": 69
+      },
+      {
+        "keyword": "tofu stir fry recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "chinese string beans recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cook tofu for stir fry",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "prepare tofu for stir fry",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "air fry aubergine",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "miso eggplant",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese stir fried veg",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "chinese stir fried veggies",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "eggplant and miso",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetable stir fry asian",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "vegetables for asian stir fry",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "aubergine roast",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "stir fried tofu and vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried tofu with vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried veggies with tofu",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry tofu and veggies",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu and veggies stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu vegetable stirfry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu with vegetables stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable tofu stirfry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "aubergine baked",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese cauliflower",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "pickled aubergines",
+        "volume": 5400,
+        "competition": 40
+      },
+      {
+        "keyword": "stir fry recipe vegetarian",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry vegan recipe",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "veggie tofu recipe",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "asian stir fried vegetables recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "asian stir fry veggies recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "auberjean eggplant",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "chinese stir fried vegetables recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "chinese stir fry veggies recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "eggplant and brinjal",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "eggplant aubergine brinjal",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "eggplant brinjal",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry with chinese cabbage",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu eggplant dish",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "asian recipes vegetables",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "aubergine bharta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese water spinach recipe",
+        "volume": 3600,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

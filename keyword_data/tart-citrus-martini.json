@@ -1,0 +1,267 @@
+{
+  "slug": "tart-citrus-martini",
+  "title": "Tart Citrus Martini",
+  "seed_keywords": [
+    "citrus martini cocktails",
+    "vodka lemon drinks",
+    "fresh citrus cocktail",
+    "orange liqueur vodka",
+    "tangy sugar rim drink"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lemondrop martini",
+        "volume": 135000,
+        "competition": 41
+      },
+      {
+        "keyword": "lemon drops martini",
+        "volume": 135000,
+        "competition": 41
+      },
+      {
+        "keyword": "recipe hot toddy",
+        "volume": 110000,
+        "competition": 33
+      },
+      {
+        "keyword": "recipe lemon drop cocktail",
+        "volume": 90500,
+        "competition": 32
+      },
+      {
+        "keyword": "cocktail lemon drop",
+        "volume": 22200,
+        "competition": 32
+      },
+      {
+        "keyword": "lemon with vodka",
+        "volume": 22200,
+        "competition": 26
+      },
+      {
+        "keyword": "vodka lemon drop",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon drop vodka drink",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon vodka",
+        "volume": 12100,
+        "competition": 73
+      },
+      {
+        "keyword": "lemon drop shot recipe",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "deep eddy lemon vodka",
+        "volume": 9900,
+        "competition": 70
+      },
+      {
+        "keyword": "absolut lemon vodka",
+        "volume": 6600,
+        "competition": 27
+      },
+      {
+        "keyword": "vodka collins drink",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon and vodka drinks",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "vodka with lemon",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "lemon and vodka",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "citron vodka absolut",
+        "volume": 6600,
+        "competition": 27
+      },
+      {
+        "keyword": "drink with lemon and vodka",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "drinks with vodka and lemon",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "lemon martinis",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "citron vodka",
+        "volume": 4400,
+        "competition": 67
+      },
+      {
+        "keyword": "lemon flavored vodka",
+        "volume": 3600,
+        "competition": 32
+      },
+      {
+        "keyword": "cocktail with lime and vodka",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon flavoured vodka",
+        "volume": 3600,
+        "competition": 32
+      },
+      {
+        "keyword": "strawberry lemon drop drink",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "3 ingredient lemon drop martini",
+        "volume": 2900,
+        "competition": 28
+      },
+      {
+        "keyword": "vodka lemon cocktail",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "lemonade cocktail with vodka",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon vodka recipes",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "lavender lemon drop martini",
+        "volume": 2900,
+        "competition": 46
+      },
+      {
+        "keyword": "vodka and lemon cocktails",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon vodka drink recipes",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon and vodka drink recipes",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon and vodka recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "vodka and lemon recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for vodka collins",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "limon vodka",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "limoncello martini recipes",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "lemon drop martini limoncello",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "blueberry lemon drop martini",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "absolut vodka citron",
+        "volume": 1900,
+        "competition": 42
+      },
+      {
+        "keyword": "vodka and triple sec drinks",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "vodka triple sec",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "vodka and triple sec",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "triple sec with vodka",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "vodka with triple sec",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "french 75 with vodka",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "vodka lemon lime bitters",
+        "volume": 1600,
+        "competition": 62
+      },
+      {
+        "keyword": "vodka martini with lemon twist",
+        "volume": 1600,
+        "competition": 11
+      },
+      {
+        "keyword": "vodka martini twist",
+        "volume": 1600,
+        "competition": 11
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

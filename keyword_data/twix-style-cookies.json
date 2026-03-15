@@ -1,0 +1,267 @@
+{
+  "slug": "twix-style-cookies",
+  "title": "Twix Style Cookies",
+  "seed_keywords": [
+    "homemade caramel cookies",
+    "butter cream cheese cookies",
+    "chocolate caramel bars",
+    "cookie recipes",
+    "twix style cookies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate chip cookie recipe",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "make chocolate chip cookies",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "choc chip biscuits recipe",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate chocolate chip cookie recipe",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "choc chip biscuits",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "choco chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "chocolate chipless cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "cookie recipes",
+        "volume": 550000,
+        "competition": 7
+      },
+      {
+        "keyword": "brownies recipes",
+        "volume": 550000,
+        "competition": 2
+      },
+      {
+        "keyword": "macaroons",
+        "volume": 450000,
+        "competition": 78
+      },
+      {
+        "keyword": "sugar cookie recipe",
+        "volume": 450000,
+        "competition": 7
+      },
+      {
+        "keyword": "macaroon cookies",
+        "volume": 450000,
+        "competition": 78
+      },
+      {
+        "keyword": "sugar biscuit recipe",
+        "volume": 450000,
+        "competition": 7
+      },
+      {
+        "keyword": "peanut butter cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "peanut butter cookie recipe",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "cookie dough",
+        "volume": 246000,
+        "competition": 73
+      },
+      {
+        "keyword": "sugar cookies",
+        "volume": 246000,
+        "competition": 58
+      },
+      {
+        "keyword": "no bake cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "no bake cookie recipe",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "gingerbread men",
+        "volume": 246000,
+        "competition": 44
+      },
+      {
+        "keyword": "pb cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "pb cookie recipe",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "peanut cookie recipe",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "snickerdoodle recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "snickerdoodle",
+        "volume": 201000,
+        "competition": 5
+      },
+      {
+        "keyword": "snickerdoodle cookie recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "brookies",
+        "volume": 201000,
+        "competition": 6
+      },
+      {
+        "keyword": "christmas cookies",
+        "volume": 165000,
+        "competition": 38
+      },
+      {
+        "keyword": "cookie crumble",
+        "volume": 165000,
+        "competition": 21
+      },
+      {
+        "keyword": "gingerbread cookie recipe",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "oatmeal cookie recipe",
+        "volume": 165000,
+        "competition": 11
+      },
+      {
+        "keyword": "shortbread",
+        "volume": 165000,
+        "competition": 38
+      },
+      {
+        "keyword": "ginger cookies recipe",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "oat cookies recipe",
+        "volume": 165000,
+        "competition": 11
+      },
+      {
+        "keyword": "gingerbread cookies",
+        "volume": 135000,
+        "competition": 55
+      },
+      {
+        "keyword": "oatmeal cookies",
+        "volume": 135000,
+        "competition": 38
+      },
+      {
+        "keyword": "ginger cookies",
+        "volume": 135000,
+        "competition": 55
+      },
+      {
+        "keyword": "biscoff cheesecake",
+        "volume": 135000,
+        "competition": 14
+      },
+      {
+        "keyword": "shortbread recipe",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "oat cookies",
+        "volume": 135000,
+        "competition": 38
+      },
+      {
+        "keyword": "recipe for shortbread biscuits",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate cookies",
+        "volume": 110000,
+        "competition": 51
+      },
+      {
+        "keyword": "best chocolate chip cookie recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "oreo biscuits",
+        "volume": 110000,
+        "competition": 61
+      },
+      {
+        "keyword": "milk chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "best chocolate cookie recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "crumble cookie this week",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "peanut butter blossoms",
+        "volume": 90500,
+        "competition": 17
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "squash-fennel-veloute",
+  "title": "Squash Fennel Velouté",
+  "seed_keywords": [
+    "butternut squash soup",
+    "vegan fennel soup",
+    "roasted squash velouté",
+    "creamy vegetable soup",
+    "fennel squash recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "butternut squash soup",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "buttermilk squash soup",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "butternut and squash soup",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "butternut squash potage",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "soup from butternut squash",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "butternut squash soup recipe",
+        "volume": 90500,
+        "competition": 8
+      },
+      {
+        "keyword": "butternut soup recipe",
+        "volume": 90500,
+        "competition": 8
+      },
+      {
+        "keyword": "squash soup",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "squash and soup",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "squash in soup",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "squash soup recipe",
+        "volume": 27100,
+        "competition": 17
+      },
+      {
+        "keyword": "roasted butternut squash soup",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "baked butternut squash soup",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "butternut roasted soup",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "roasted winter squash soup",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin soup recipe roast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy vegetable soup",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "cream of veg soup",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "cream soup vegetable",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "cream vegetables soup",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "cream veggie soup",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "curried butternut",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "curried butternut squash",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut soup",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "butternut squash soup with coconut milk",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy mushroom soup",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "butternut and coconut milk soup",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "butternut coconut milk soup",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "butternut squash and coconut milk soup",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "winter squash soup with coconut milk",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "butternut squash and sweet potato soup",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut & sweet potato soup",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut and sweet potato soup",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut pumpkin and sweet potato soup",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut squash & sweet potato soup",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut squash with sweet potato soup",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "soup with butternut squash and sweet potato",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "easy butternut squash soup recipe",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "butternut squash puree",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "panera autumn squash soup",
+        "volume": 6600,
+        "competition": 48
+      },
+      {
+        "keyword": "panera bread autumn squash soup",
+        "volume": 6600,
+        "competition": 48
+      },
+      {
+        "keyword": "easy butternut soup recipe",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "butternut & carrot soup",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut and carrot soup",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut and carrot squash soup",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut carrot soup",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut carrot squash soup",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut squash soup with apple",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "best butternut squash soup recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted butternut squash soup recipe",
+        "volume": 5400,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

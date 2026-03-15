@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-buttered-rice",
+  "title": "Zesty Buttered Rice",
+  "seed_keywords": [
+    "lemon rice",
+    "buttered rice pilaf",
+    "jasmine rice side dish",
+    "herb rice with lemon",
+    "mediterranean rice dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lemon rice",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon and rice",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon rice dish",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean rice recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "greek lemon rice",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "greek chicken and rice",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "greek chicken rice",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "greek lemon chicken and rice",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "greek lemon chicken rice",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "greek rice and chicken",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean yellow rice",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "indian lemon rice",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon rice in tamil",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean rice pilaf recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon and herb rice",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "lemon herb rice",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "sukhi's lemon rice",
+        "volume": 880,
+        "competition": 66
+      },
+      {
+        "keyword": "lemon dill rice",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon rice side dish",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean rice pilaf",
+        "volume": 880,
+        "competition": 6
+      },
+      {
+        "keyword": "side dish with lemon rice",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic lemon rice",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "ingredients for lemon rice",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "ingredients of lemon rice",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon and garlic rice",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon pepper chicken and rice",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon pepper chicken rice",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon rice ingredients",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon rice south indian",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean yellow rice recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "rice cooker greek rice",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon turmeric rice",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean rice dishes",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "jasmine rice pilaf",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon pepper rice",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon rice cooker",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon rice in rice cooker",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "rice pilaf jasmine rice",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "authentic mediterranean rice recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "basmati lemon rice",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "chitranna rice",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon butter rice",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon fried rice",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon rice masala",
+        "volume": 320,
+        "competition": 79
+      },
+      {
+        "keyword": "mediterranean rice recipe basmati",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "spanish rice jasmine",
+        "volume": 320,
+        "competition": 6
+      },
+      {
+        "keyword": "authentic greek lemon rice",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon parsley rice",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean basmati rice",
+        "volume": 260,
+        "competition": 12
+      },
+      {
+        "keyword": "mediterranean style rice",
+        "volume": 260,
+        "competition": 15
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

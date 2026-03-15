@@ -1,0 +1,267 @@
+{
+  "slug": "strawberry-cinnamon-rolls",
+  "title": "Strawberry Cinnamon Rolls Remix",
+  "seed_keywords": [
+    "cinnamon rolls",
+    "homemade yeast rolls",
+    "cherry filling pastry",
+    "strawberry bread rolls",
+    "cream filled pastries"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cinnamon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnabons",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "cinnabon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnabon bakery",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "cinema rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnabon company",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "cinnamon bun rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnamon cinnamon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnamon r",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "rolling cinnamon rolls",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "sinnamon roll",
+        "volume": 1000000,
+        "competition": 11
+      },
+      {
+        "keyword": "cinna holic",
+        "volume": 201000,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon rolls near me",
+        "volume": 135000,
+        "competition": 26
+      },
+      {
+        "keyword": "cinnamon buns near me",
+        "volume": 135000,
+        "competition": 26
+      },
+      {
+        "keyword": "cinnamon buns",
+        "volume": 110000,
+        "competition": 13
+      },
+      {
+        "keyword": "roll of bread",
+        "volume": 90500,
+        "competition": 38
+      },
+      {
+        "keyword": "yeast rolls recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dinner rolls recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dinner roll recipe yeast",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe with dinner rolls",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade cinnamon rolls",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade cinnamon buns",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon roll sourdough",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "frosted cinnamon rolls",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade cinnamon scrolls",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "sourdough cinnamon buns",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon scrolls",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "cream puff cream recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "simple cinnamon bun recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "bread dinner rolls recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "pastry cream",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "cinnabon cinnamon rolls",
+        "volume": 22200,
+        "competition": 37
+      },
+      {
+        "keyword": "sweet rolls",
+        "volume": 22200,
+        "competition": 16
+      },
+      {
+        "keyword": "cinnabon cinnamon buns",
+        "volume": 22200,
+        "competition": 37
+      },
+      {
+        "keyword": "sweet roll bread",
+        "volume": 22200,
+        "competition": 16
+      },
+      {
+        "keyword": "pumpkin cinnamon rolls",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "yeast dinner rolls",
+        "volume": 18100,
+        "competition": 59
+      },
+      {
+        "keyword": "no yeast cinnamon rolls",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon buns no yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon roll recipe without yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon scrolls no yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade cinnamon bun recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "no yeast cinnamon scrolls",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin cinnamon buns",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "yeast bread roll",
+        "volume": 18100,
+        "competition": 59
+      },
+      {
+        "keyword": "vegan cinnamon rolls",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "vegan cinnamon buns",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "pastry cream recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yeast rolls recipe easy",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "dinner rolls recipe easy",
+        "volume": 14800,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

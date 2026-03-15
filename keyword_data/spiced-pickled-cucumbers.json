@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-pickled-cucumbers",
+  "title": "Spiced Pickled Cucumbers",
+  "seed_keywords": [
+    "pickled cucumbers",
+    "homemade pickle recipe",
+    "vinegar cucumber marinade",
+    "spiced pickled vegetables",
+    "quick cucumber pickles"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "gherkins",
+        "volume": 201000,
+        "competition": 15
+      },
+      {
+        "keyword": "a gherkin",
+        "volume": 201000,
+        "competition": 15
+      },
+      {
+        "keyword": "recipe for making tartar sauce",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "pickled cucumbers",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "cucumber and pickle",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "pickle is a cucumber",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "pickled pipino",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "pickling cucumbers for pickles",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "pickling pickle cucumbers",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "dill pickles recipe",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "making pickles recipe",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade tartar sauce",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "bread and butter cucumber pickle",
+        "volume": 40500,
+        "competition": 69
+      },
+      {
+        "keyword": "cucumber pickles refrigerator",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "fridge pickled cucumbers",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "gercan pickles",
+        "volume": 27100,
+        "competition": 52
+      },
+      {
+        "keyword": "gherkin and pickle",
+        "volume": 27100,
+        "competition": 52
+      },
+      {
+        "keyword": "gherkins for pickling",
+        "volume": 27100,
+        "competition": 52
+      },
+      {
+        "keyword": "fridge dill pickle recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "refrigerated pickle recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade pickles",
+        "volume": 14800,
+        "competition": 41
+      },
+      {
+        "keyword": "pickled cucumber spears",
+        "volume": 14800,
+        "competition": 66
+      },
+      {
+        "keyword": "quick cucumber pickles",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "canned dill pickle recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "canned pickles recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "dill spears canning recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "fast cucumber pickle",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickled cucumber",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickles cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "quick marinated cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "quick pickle for cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "quick pickled cukes",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "pickled pepperoncinis",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "quick cucumber pickle recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade pickle recipe",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "kirby cucumber",
+        "volume": 8100,
+        "competition": 56
+      },
+      {
+        "keyword": "pickled gherkins",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "tartar sauce recipe easy",
+        "volume": 8100,
+        "competition": 14
+      },
+      {
+        "keyword": "dill pickle recipe fermented",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "easy tartar sauce",
+        "volume": 8100,
+        "competition": 14
+      },
+      {
+        "keyword": "gherkin pickled cucumber",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "home made dill pickle recipe",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade cucumber pickle recipe",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade dill pickle recipe",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for home made pickles",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "sliced dill pickles",
+        "volume": 6600,
+        "competition": 69
+      },
+      {
+        "keyword": "easy recipe for pickles",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "kirby cucumbers for pickling",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "marinated cucumbers",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber relish",
+        "volume": 5400,
+        "competition": 18
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

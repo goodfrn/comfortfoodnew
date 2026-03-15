@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-stuffed-cabbage-soup",
+  "title": "Twisted Stuffed Cabbage Soup",
+  "seed_keywords": [
+    "cabbage soup",
+    "ground beef soup",
+    "barley soup recipe",
+    "beef and cabbage",
+    "stuffed cabbage soup"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "corned beef and",
+        "volume": 450000,
+        "competition": 57
+      },
+      {
+        "keyword": "cabbage soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "corned beef and cabbage",
+        "volume": 110000,
+        "competition": 7
+      },
+      {
+        "keyword": "and cabbage recipe",
+        "volume": 110000,
+        "competition": 18
+      },
+      {
+        "keyword": "and cabbage soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage and soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage and vegetable soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage and veggie soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage corned beef",
+        "volume": 110000,
+        "competition": 7
+      },
+      {
+        "keyword": "corned and cabbage",
+        "volume": 110000,
+        "competition": 7
+      },
+      {
+        "keyword": "corned cabbage",
+        "volume": 110000,
+        "competition": 7
+      },
+      {
+        "keyword": "salt beef and cabbage",
+        "volume": 110000,
+        "competition": 7
+      },
+      {
+        "keyword": "soup using cabbage",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage soup recipe",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cabbage and vegetable soup recipe",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cabbage in soup recipe",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cabbage soup ideas",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cook cabbage soup",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "soup recipes using cabbage",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "corned beef and cabbage recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking corned beef and cabbage",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage & corned beef recipes",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "corned beef and cabbage meals",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "make corned beef and cabbage",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "corned beef in crock pot",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "corn meat in slow cooker",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cook corned beef crock pot",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cook corned meat",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cooker corned",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cooking corned beef in a slow cooker",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "hamburger soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamb soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger and soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "soup using hamburger",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "corned beef recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef barley soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "hamburger soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "barley and beef soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "beef n barley soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "corned beef meals",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "hamburger beef soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "hamburger meat soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "soup recipes made with hamburger",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "soup recipes using hamburger",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage soup diet",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "beef barley soup",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef for beef barley soup",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage soup diet soup",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage soup for a diet",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage stew diet",
+        "volume": 33100,
+        "competition": 20
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "turkey-pineapple-roast",
+  "title": "Turkey Pineapple Roast",
+  "seed_keywords": [
+    "turkey breast roast",
+    "stuffed turkey recipes",
+    "pineapple turkey dinner",
+    "roasted turkey with fruit",
+    "holiday turkey stuffing"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pan roasted turkey",
+        "volume": 40500,
+        "competition": 44
+      },
+      {
+        "keyword": "stuffed turkey recipes",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "turkey dressing recipe",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "roasted turkey",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "turkey filling recipe",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "turkey breast roast",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "baked turkey breast",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "oven baked turkey",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "slow cook turkey breast",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "oven cooked turkey",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "slow cook turkey breast in crock pot",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "turkey breast for roasting",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "thanksgiving dressing recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "filled turkey",
+        "volume": 22200,
+        "competition": 30
+      },
+      {
+        "keyword": "stuffed turkey dressing",
+        "volume": 22200,
+        "competition": 30
+      },
+      {
+        "keyword": "oven roasted turkey breast",
+        "volume": 12100,
+        "competition": 45
+      },
+      {
+        "keyword": "rolled turkey",
+        "volume": 12100,
+        "competition": 45
+      },
+      {
+        "keyword": "cooking turkey breast in oven",
+        "volume": 12100,
+        "competition": 45
+      },
+      {
+        "keyword": "cook turkey in slow cooker",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "thanksgiving stuffing",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "pan roasted turkey breast",
+        "volume": 9900,
+        "competition": 19
+      },
+      {
+        "keyword": "stuffing thanksgiving food",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "turkey dressing",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "cooked turkey breast",
+        "volume": 6600,
+        "competition": 54
+      },
+      {
+        "keyword": "stuffed turkey",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "turkey breast bone in",
+        "volume": 6600,
+        "competition": 26
+      },
+      {
+        "keyword": "turkey and dressing",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "bell pepper stuffed ground turkey",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "ground turkey stuffed pepper",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed on thanksgiving",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "turkey breast bone",
+        "volume": 6600,
+        "competition": 26
+      },
+      {
+        "keyword": "oven roasted turkey",
+        "volume": 5400,
+        "competition": 46
+      },
+      {
+        "keyword": "dressing for thanksgiving",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "dressing at thanksgiving",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "stuffing for thanksgiving dinner",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "thanksgiving stuffing dressing",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "sliced turkey breast",
+        "volume": 4400,
+        "competition": 61
+      },
+      {
+        "keyword": "boneless turkey breast roast",
+        "volume": 4400,
+        "competition": 35
+      },
+      {
+        "keyword": "bake boneless turkey breast",
+        "volume": 4400,
+        "competition": 35
+      },
+      {
+        "keyword": "boneless turkey breast in crock pot",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cook boneless turkey breast",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "stuffed pepper turkey",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed turkey breast",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "best way to cook a turkey breast",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "seasoned turkey breast",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "best turkey dressing",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "turkey breast in oven",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "best thanksgiving dressing recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "best stuffed turkey",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "best way to bake a turkey breast",
+        "volume": 3600,
+        "competition": 12
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

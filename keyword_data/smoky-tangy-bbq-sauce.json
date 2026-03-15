@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-tangy-bbq-sauce",
+  "title": "Smoky Tangy BBQ Sauce",
+  "seed_keywords": [
+    "homemade bbq sauce",
+    "chipotle barbecue sauce",
+    "tangy smoky sauce",
+    "bbq sauce recipe",
+    "spicy condiment recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shredded pork bbq",
+        "volume": 450000,
+        "competition": 9
+      },
+      {
+        "keyword": "bbq slow cooked pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pulled pork bbq",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq sauce recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "bar bq sauce recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes with barbecue sauce",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "mexican hot sauce",
+        "volume": 60500,
+        "competition": 39
+      },
+      {
+        "keyword": "homemade bbq sauce",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "bar bq sauce homemade",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "barbecue marinade chicken",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "barbeque sauce home made",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "sauce bulgogi",
+        "volume": 33100,
+        "competition": 71
+      },
+      {
+        "keyword": "alabama white sauce",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "franks red hot sauces",
+        "volume": 27100,
+        "competition": 26
+      },
+      {
+        "keyword": "frank's redhot hot sauce",
+        "volume": 27100,
+        "competition": 26
+      },
+      {
+        "keyword": "pork ribs in crockpot",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "barbecue sauce recipe",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "chinese barbecue sauce",
+        "volume": 18100,
+        "competition": 46
+      },
+      {
+        "keyword": "bbq pulled pork rub",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "bbq wing",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "tabasco hot sauces",
+        "volume": 18100,
+        "competition": 44
+      },
+      {
+        "keyword": "wings on bbq",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "sriracha hot sauce",
+        "volume": 14800,
+        "competition": 65
+      },
+      {
+        "keyword": "homemade bbq sauce recipe",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade barbecue sauce recipe",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "barbecue pulled pork",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "barbecue sauce recipe homemade",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "home bbq sauce recipe",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "home made barbecue sauce recipe",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "home made bbq sauce recipe",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for home made bbq sauce",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade barbecue sauce",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "carolina gold bbq sauce",
+        "volume": 12100,
+        "competition": 77
+      },
+      {
+        "keyword": "white bbq sauce",
+        "volume": 12100,
+        "competition": 44
+      },
+      {
+        "keyword": "white barbecue sauce",
+        "volume": 12100,
+        "competition": 44
+      },
+      {
+        "keyword": "pulled pork bbq sauce",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "sauce for pulled pork",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "bbq sauce for chicken",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "pork ribs on bbq",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "barbecue sauce for chicken",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "barbecue sauce for pulled pork",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "bbq chicken with bbq sauce",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "sauce for shredded pork",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "pulled pork bbq",
+        "volume": 9900,
+        "competition": 14
+      },
+      {
+        "keyword": "bbq sauce for ribs",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "alabama white sauce recipe",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "barbecue sauce for ribs",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "bbq sauce how to make",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "rib marinades",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "bbq marinade",
+        "volume": 8100,
+        "competition": 80
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

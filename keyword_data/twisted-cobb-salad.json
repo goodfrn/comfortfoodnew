@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-cobb-salad",
+  "title": "Twisted Cobb Salad",
+  "seed_keywords": [
+    "cobb salad",
+    "greek yogurt salad",
+    "chicken bacon salad",
+    "feta cheese salad",
+    "chopped salad with eggs"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cobb salad",
+        "volume": 165000,
+        "competition": 13
+      },
+      {
+        "keyword": "feta and watermelon salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "feta cheese and watermelon salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "feta cheese watermelon salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for dressing for greek salad",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "salad with feta and watermelon",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "watermelon with feta cheese salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "cobb salad ideas",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "cobb salad recipes",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "cobb salad chick fil a",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "beetroot and feta salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "beet & feta salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "beet and feta salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "chick fil a cobb",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "feta cheese greek salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "feta greek salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cobb salad near me",
+        "volume": 14800,
+        "competition": 32
+      },
+      {
+        "keyword": "greek yogurt salad dressing",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "greek yogurt dressing",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "pasta greek salad recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "feta cheese salad",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "greek yogurt ranch dressing",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "feta salad",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "cobb salad ingredient",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "cucumber and tomato salad with feta",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber feta tomato salad",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber tomato feta cheese salad",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "feta in salad",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "greek yogurt ranch salad dressing",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "ranch salad dressing with greek yogurt",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "tomato cuke feta salad",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cobb salad dressing",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken salad with greek yogurt",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and greek yogurt salad",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "cobb dressing",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "feta cheese and watermelon salad recipe",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "feta cheese watermelon salad recipe",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "feta mint watermelon salad",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "greek yogurt as mayo",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "greek yogurt mayonnaise",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mayo with greek yogurt",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mayonnaise greek yogurt",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for feta and watermelon salad",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for feta watermelon salad",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for watermelon and feta cheese salad",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for watermelon salad with feta cheese",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "salad dressing for cobb salad",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "watermelon and feta salad with mint",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "watermelon feta cheese mint salad",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and feta cheese salad",
+        "volume": 6600,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

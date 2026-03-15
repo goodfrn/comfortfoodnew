@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-gaspacho-salad",
+  "title": "Twisted Gaspacho Salad",
+  "seed_keywords": [
+    "cold spanish salad",
+    "vegan gaspacho salad",
+    "olive oil vinaigrette salad",
+    "rye bread salad",
+    "vegetable seed salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lambs lettuce",
+        "volume": 27100,
+        "competition": 35
+      },
+      {
+        "keyword": "vinaigrette lemon",
+        "volume": 22200,
+        "competition": 26
+      },
+      {
+        "keyword": "bibb lettuce",
+        "volume": 18100,
+        "competition": 44
+      },
+      {
+        "keyword": "lettuce little gems",
+        "volume": 12100,
+        "competition": 68
+      },
+      {
+        "keyword": "snow lettuce",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "lettuce rocket",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "endives lettuce",
+        "volume": 5400,
+        "competition": 79
+      },
+      {
+        "keyword": "oak leaf lettuce",
+        "volume": 4400,
+        "competition": 33
+      },
+      {
+        "keyword": "mesclun lettuce",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "evoo vinegar dressing",
+        "volume": 2900,
+        "competition": 46
+      },
+      {
+        "keyword": "rocket arugula",
+        "volume": 2400,
+        "competition": 36
+      },
+      {
+        "keyword": "arugula and rocket",
+        "volume": 2400,
+        "competition": 22
+      },
+      {
+        "keyword": "mache corn salad",
+        "volume": 2400,
+        "competition": 36
+      },
+      {
+        "keyword": "planting corn salad",
+        "volume": 2400,
+        "competition": 36
+      },
+      {
+        "keyword": "mache lettuce",
+        "volume": 1900,
+        "competition": 57
+      },
+      {
+        "keyword": "red romaine lettuce",
+        "volume": 1900,
+        "competition": 70
+      },
+      {
+        "keyword": "beet and radish",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "green salad lettuce",
+        "volume": 1300,
+        "competition": 44
+      },
+      {
+        "keyword": "runner bean salad",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "lettuce leaf bowl",
+        "volume": 590,
+        "competition": 60
+      },
+      {
+        "keyword": "bibb butter lettuce",
+        "volume": 480,
+        "competition": 75
+      },
+      {
+        "keyword": "bibb lettuce butter lettuce",
+        "volume": 480,
+        "competition": 75
+      },
+      {
+        "keyword": "black lettuce",
+        "volume": 480,
+        "competition": 17
+      },
+      {
+        "keyword": "romaine lettuce chinese",
+        "volume": 480,
+        "competition": 21
+      },
+      {
+        "keyword": "lolla rosa lettuce",
+        "volume": 390,
+        "competition": 21
+      },
+      {
+        "keyword": "growing romaine lettuce indoors",
+        "volume": 320,
+        "competition": 67
+      },
+      {
+        "keyword": "beetroot and radish salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "green salad bowl lettuce",
+        "volume": 320,
+        "competition": 65
+      },
+      {
+        "keyword": "radish and beet salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "seasonal lettuce",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "white radish salad",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "lettuce with red veins",
+        "volume": 260,
+        "competition": 20
+      },
+      {
+        "keyword": "bull's blood lettuce",
+        "volume": 260,
+        "competition": 23
+      },
+      {
+        "keyword": "bulls blood lettuce",
+        "volume": 260,
+        "competition": 23
+      },
+      {
+        "keyword": "corn lettuce",
+        "volume": 260,
+        "competition": 33
+      },
+      {
+        "keyword": "lettuce gourmet",
+        "volume": 260,
+        "competition": 47
+      },
+      {
+        "keyword": "red iceberg lettuce",
+        "volume": 260,
+        "competition": 73
+      },
+      {
+        "keyword": "red stem lettuce",
+        "volume": 260,
+        "competition": 17
+      },
+      {
+        "keyword": "sprouted lettuce",
+        "volume": 260,
+        "competition": 74
+      },
+      {
+        "keyword": "corn salad lettuce",
+        "volume": 210,
+        "competition": 46
+      },
+      {
+        "keyword": "fastest growing lettuce",
+        "volume": 210,
+        "competition": 76
+      },
+      {
+        "keyword": "green batavia lettuce",
+        "volume": 210,
+        "competition": 80
+      },
+      {
+        "keyword": "rosso lettuce",
+        "volume": 210,
+        "competition": 44
+      },
+      {
+        "keyword": "growing lambs lettuce",
+        "volume": 170,
+        "competition": 24
+      },
+      {
+        "keyword": "mild lettuce",
+        "volume": 170,
+        "competition": 12
+      },
+      {
+        "keyword": "petite romaine lettuce",
+        "volume": 170,
+        "competition": 52
+      },
+      {
+        "keyword": "bowl of lettuce",
+        "volume": 140,
+        "competition": 6
+      },
+      {
+        "keyword": "corn salad growing",
+        "volume": 140,
+        "competition": 18
+      },
+      {
+        "keyword": "escarole chicory",
+        "volume": 140,
+        "competition": 20
+      },
+      {
+        "keyword": "radish tomato",
+        "volume": 140,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "smothered-beef-burritos",
+  "title": "Smothered Beef Burritos",
+  "seed_keywords": [
+    "ground beef burritos",
+    "beef enchilada casserole",
+    "ground beef dinner",
+    "smothered burritos",
+    "beef tortilla wraps"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "food recipes with ground beef",
+        "volume": 368000,
+        "competition": 31
+      },
+      {
+        "keyword": "dishes to make with hamburger",
+        "volume": 368000,
+        "competition": 31
+      },
+      {
+        "keyword": "dishes with ground meat",
+        "volume": 368000,
+        "competition": 31
+      },
+      {
+        "keyword": "groundbeefrecipes",
+        "volume": 368000,
+        "competition": 31
+      },
+      {
+        "keyword": "ground beef dinner ideas",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "dinner ideas using ground beef",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "ground beef dishes for dinner",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "dinner meals with ground beef",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "chop meat dinner ideas",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "supper ideas with hamburger meat",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "dinner ideas using hamburger",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "beef hamburger recipes for dinner",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "dinner suggestions with ground beef",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "dinner with hamburger meat ideas",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "good dinner with ground beef",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "great ground beef dinners",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "ground hamburger meat dinner ideas",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "hamburger dishes for supper",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "ideas with ground beef for dinner",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "ideas with hamburger meat for dinner",
+        "volume": 110000,
+        "competition": 44
+      },
+      {
+        "keyword": "meals to cook with ground beef",
+        "volume": 74000,
+        "competition": 42
+      },
+      {
+        "keyword": "dishes made with hamburger meat",
+        "volume": 74000,
+        "competition": 42
+      },
+      {
+        "keyword": "groundbeef ideas",
+        "volume": 74000,
+        "competition": 42
+      },
+      {
+        "keyword": "recipes with groundbeef",
+        "volume": 74000,
+        "competition": 42
+      },
+      {
+        "keyword": "meals to make with mince",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "mince meal ideas",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "beef meal recipe",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "dish with mince",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "dishes to make with mince",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "meals to cook with mince",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "ground beef recipes for dinner",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "hamburger recipes for dinner",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "dinners to make with ground beef",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "hamburger meat recipes for dinner",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "hamburger dishes for dinner",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "ground meat recipes for dinner",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "dinner recipes using ground beef",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "supper with ground beef",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "chop meat dinner recipes",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "ground hamburger dinner recipes",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "make dinner with ground beef",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "making dinner with ground beef",
+        "volume": 49500,
+        "competition": 41
+      },
+      {
+        "keyword": "easy dishes with ground beef",
+        "volume": 40500,
+        "competition": 32
+      },
+      {
+        "keyword": "easy meals made with ground beef",
+        "volume": 40500,
+        "competition": 32
+      },
+      {
+        "keyword": "easy dishes to make with ground beef",
+        "volume": 40500,
+        "competition": 32
+      },
+      {
+        "keyword": "easy food recipes with ground beef",
+        "volume": 40500,
+        "competition": 32
+      },
+      {
+        "keyword": "easy recipe ground beef",
+        "volume": 40500,
+        "competition": 32
+      },
+      {
+        "keyword": "healthy meals with ground beef",
+        "volume": 33100,
+        "competition": 24
+      },
+      {
+        "keyword": "healthy food recipes with hamburger meat",
+        "volume": 33100,
+        "competition": 24
+      },
+      {
+        "keyword": "healthy ground beef dishes",
+        "volume": 33100,
+        "competition": 24
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

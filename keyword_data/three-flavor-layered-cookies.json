@@ -1,0 +1,267 @@
+{
+  "slug": "three-flavor-layered-cookies",
+  "title": "Three-Flavor Layered Cookies",
+  "seed_keywords": [
+    "layered cookies",
+    "chocolate gingerbread cookies",
+    "butter chocolate dough",
+    "spiced cookie recipes",
+    "striped cookie dough"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ginger cookies recipe",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "ginger bread recipe cookie",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "ginger cookies",
+        "volume": 135000,
+        "competition": 55
+      },
+      {
+        "keyword": "ginger bread recipes",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "cookie recipe ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes with ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "pfeffernusse",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "7 layer bars",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "7 layer bar recipe",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for seven layer bars",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "seven layer bar",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "molasses cookies recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "ginger man cookie",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "ginger men cookie",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "ginger people cookies",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "magic cookie bars",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "ginger biscuit recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "italian tricolor cookies",
+        "volume": 14800,
+        "competition": 65
+      },
+      {
+        "keyword": "magic cookie bar cookies",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin spice cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "ginger molasses spice cookies",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "magic bars recipes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin cookies snickerdoodles",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cookies with pumpkin spice",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin snickerdoodles",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice pumpkin cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "7 layer cookies",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "seven layer cookies",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "7 layer cookie recipe",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "cookie pfeffernusse",
+        "volume": 9900,
+        "competition": 57
+      },
+      {
+        "keyword": "pumpkin pie cookies",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for seven layer cookie",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "spice cookies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "cookie spice",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "cookies with spices",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "easy ginger bread cookies",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy ginger cookie",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy ginger cookie recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "ginger soft cookies recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "simple ginger bread recipe",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "simple ginger cookie recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "simple ginger cookies",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "soft ginger cookie recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "soft ginger spice cookies",
+        "volume": 8100,
+        "competition": 53
+      },
+      {
+        "keyword": "spices cookie",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "gluten free ginger cookies",
+        "volume": 6600,
+        "competition": 66
+      },
+      {
+        "keyword": "autumn cookies recipes",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "best ginger cookie recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon and sugar cookies",
+        "volume": 6600,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "sugar-pie-in-jars",
+  "title": "Sugar Pie in Jars",
+  "seed_keywords": [
+    "sugar pie dessert",
+    "brown sugar custard",
+    "jar desserts",
+    "custard pie filling",
+    "no bake pie"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "strawberry rhubarb crisp",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "lemon icebox pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "ice box lemon pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "ice box pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "pecan pie without corn syrup",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "pecan pie no corn syrup",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "graham cracker crust cheesecake no bake",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "making creme caramel",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pecan pie made without corn syrup",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "no bake pumpkin cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake pumpkin pie no bake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cream and sugar pie",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "nobake pumpkin cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "unbaked pumpkin cheesecake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry rhubarb crumble",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "bakeless peanut butter pie",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake pb pie",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake peanut butter pie",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "no cook peanut butter pie",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "key lime no bake pie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "lime pie no bake",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "unbaked key lime pie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade apple pie filling",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "lemon icebox pie recipe",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "bakeless pumpkin pie",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "make oreo pie",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake pumpkin pie",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake pumpkin pie dessert",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for no bake strawberry cheesecake",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "unbaked pumpkin pie",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "easy pb pie",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "easy peanut butter pie",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake peanut butter pie recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin pie from sugar pumpkin",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin pie with sugar pumpkin",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "recipes for strawberry rhubarb crisp",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "simple peanut butter pie",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "sugar in pumpkin pie",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "no bake pie",
+        "volume": 2900,
+        "competition": 19
+      },
+      {
+        "keyword": "sugar free pumpkin pie",
+        "volume": 2900,
+        "competition": 25
+      },
+      {
+        "keyword": "berry pie fillings",
+        "volume": 2900,
+        "competition": 76
+      },
+      {
+        "keyword": "key lime pie no bake recipe",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "key lime pie recipe no cook",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "lemon no bake pie",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon no cook pie",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "lime pie recipe no bake",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "no bake german chocolate pie",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "no cook lemon pie",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "no oven pie",
+        "volume": 2900,
+        "competition": 19
+      },
+      {
+        "keyword": "unbaked key lime pie recipe",
+        "volume": 2900,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

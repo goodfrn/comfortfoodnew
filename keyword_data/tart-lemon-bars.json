@@ -1,0 +1,267 @@
+{
+  "slug": "tart-lemon-bars",
+  "title": "Tart Lemon Bars",
+  "seed_keywords": [
+    "lemon bars",
+    "lemon desserts",
+    "buttery lemon bars",
+    "citrus custard tart",
+    "lime lemon filling"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "meringue",
+        "volume": 368000,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon meringue pie",
+        "volume": 135000,
+        "competition": 12
+      },
+      {
+        "keyword": "lemon and meringue pie",
+        "volume": 135000,
+        "competition": 12
+      },
+      {
+        "keyword": "lemon margarine pie",
+        "volume": 135000,
+        "competition": 12
+      },
+      {
+        "keyword": "meringue for lemon meringue pie",
+        "volume": 135000,
+        "competition": 12
+      },
+      {
+        "keyword": "lemon bars",
+        "volume": 110000,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon pies",
+        "volume": 110000,
+        "competition": 12
+      },
+      {
+        "keyword": "lemon bar dessert",
+        "volume": 110000,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon dessert squares",
+        "volume": 110000,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon posset",
+        "volume": 90500,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon tart",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon square cake",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "lemon cheesecake",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "lemon meringue",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon cake cheesecake",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "lemon cheesecake recipes",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon desserts",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "lemon pound cake",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "lemon posset recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "desserts using lemons",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "lemon cake pound cake",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "posset",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon tart recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon bar recipes",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "lemon bar dessert recipes",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "lemon squares",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "limoncello tiramisu",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "citrus cheesecake no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "lemonade squares",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon pie recipe",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "7up cake",
+        "volume": 14800,
+        "competition": 18
+      },
+      {
+        "keyword": "lemon icebox pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon raspberry cake",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "ice box lemon pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon and raspberry cake",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "lemon box pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon dessert recipes",
+        "volume": 12100,
+        "competition": 28
+      },
+      {
+        "keyword": "lemon meringue tart",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "bundt cake lemon",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "lemon brownies",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon dessert ideas",
+        "volume": 12100,
+        "competition": 28
+      },
+      {
+        "keyword": "lemon cake lemon curd",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "lemon tiramisu",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "tart lemon meringue pie",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "lemon squares recipe",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "ricotta cake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon square cake price",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "lemon ricotta cake",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "easy citrus cake",
+        "volume": 9900,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

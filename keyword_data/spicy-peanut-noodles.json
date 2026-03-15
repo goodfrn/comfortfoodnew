@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-peanut-noodles",
+  "title": "Spicy Peanut Noodles",
+  "seed_keywords": [
+    "spicy peanut noodles",
+    "asian noodle dishes",
+    "peanut noodle recipes",
+    "chili garlic noodles",
+    "sesame noodle bowls"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chinese pasta noodles",
+        "volume": 90500,
+        "competition": 55
+      },
+      {
+        "keyword": "noodle recipes",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "ramen noodle recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "rice noodle recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian food noodles",
+        "volume": 33100,
+        "competition": 74
+      },
+      {
+        "keyword": "rice and noodle recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese noodles recipe",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chinese food noodle",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chinese food noodle recipes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chinese noodle dish recipe",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "simple ramen noodle recipes",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "buttered noodle recipes",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "easy ramen noodle recipe",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "pnut noodles",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "pnut noodle",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "singapore noodle recipes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "asian noodle dishes",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "asian noodle recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "asian food recipes noodles",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "asian noodle dish recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "asian noodle meals",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic noodle recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "noodle peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "noodles and peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "oriental recipes with noodles",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "noodle recipes easy",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "noodle recipes simple",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut sauce noodles",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "asian ramen noodle salad recipes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "easy simple noodle recipes",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "noodles and peanut sauce",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut dressing for noodles",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "vermicelli noodle recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut noodle recipes",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese noodle soup",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "chilli and garlic noodles",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese noodle soup dishes",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "chinese noodles in soup",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "chinese noodles with soup",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "chinese rice noodles",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "asian rice noodles",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "thai noodle salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter ramen",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chili oil noodles",
+        "volume": 6600,
+        "competition": 37
+      },
+      {
+        "keyword": "chinese rice pasta",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "peanut butter and ramen",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and ramen noodles",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter ramen noodle",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "thai pasta salad",
+        "volume": 6600,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

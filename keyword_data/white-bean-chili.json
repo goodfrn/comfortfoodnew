@@ -1,0 +1,267 @@
+{
+  "slug": "white-bean-chili",
+  "title": "White Bean Chili Twist",
+  "seed_keywords": [
+    "white bean chili",
+    "chicken chili recipe",
+    "white bean soup",
+    "creamy chicken stew",
+    "green chile chicken"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "white chicken chili",
+        "volume": 165000,
+        "competition": 8
+      },
+      {
+        "keyword": "white chicken chili recipe",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "white chicken chicken chili",
+        "volume": 165000,
+        "competition": 8
+      },
+      {
+        "keyword": "white chili chicken chili",
+        "volume": 165000,
+        "competition": 8
+      },
+      {
+        "keyword": "make chili con carne",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "a white bean",
+        "volume": 90500,
+        "competition": 64
+      },
+      {
+        "keyword": "chilli chicken",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken chilli chicken",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken chili recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "white chicken chili crockpot",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cooker white chicken chili",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and chili recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "chili made with chicken",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "white chili chicken in crock pot",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "bean soup beans",
+        "volume": 40500,
+        "competition": 14
+      },
+      {
+        "keyword": "white bean chicken chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken chili",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "crock pot chili",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken chilli",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "beans in white chicken chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cannellini beans chicken chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and cannellini bean chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and white bean chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken chili chicken chili",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken chili chili",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "chili chicken chili",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "chili with white beans and chicken",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "home made chili seasoning",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "soups with beans recipes",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "white beans for white chicken chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "white chicken chili white beans",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "white chicken chili with white beans",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "white chili bean chicken chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "white bean soup",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "white chili recipe",
+        "volume": 22200,
+        "competition": 19
+      },
+      {
+        "keyword": "white chicken chili crockpot recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "a white chicken",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot white chili recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "crockpot chicken white chili recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for white chicken chili in the crockpot",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for white chili in crock pot",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker white chicken chili recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "white chicken",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "white chicken chili recipe for slow cooker",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "whitebeansoup",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "white chili",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chilli chicken dish",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for cincinnati chili",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "white chili chili",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "white chilis",
+        "volume": 18100,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-orange-cocoa",
+  "title": "Spiced Orange Cinnamon Cocoa",
+  "seed_keywords": [
+    "spiced hot chocolate",
+    "orange cinnamon cocoa",
+    "dark chocolate drinks",
+    "cinnamon cocoa with almond milk",
+    "citrus chocolate beverage"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "spice and hot",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "hot spiced",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "dark hot chocolate",
+        "volume": 9900,
+        "competition": 77
+      },
+      {
+        "keyword": "dark chocolate hot chocolate",
+        "volume": 9900,
+        "competition": 77
+      },
+      {
+        "keyword": "chocolate with spices",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "cocoa spices",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "spice cocoa",
+        "volume": 8100,
+        "competition": 75
+      },
+      {
+        "keyword": "spiced hot chocolate",
+        "volume": 2900,
+        "competition": 58
+      },
+      {
+        "keyword": "spicy hot cocoa",
+        "volume": 2900,
+        "competition": 58
+      },
+      {
+        "keyword": "pumpkin spice hot chocolate",
+        "volume": 1900,
+        "competition": 79
+      },
+      {
+        "keyword": "pumpkin spice hot cocoa",
+        "volume": 1900,
+        "competition": 79
+      },
+      {
+        "keyword": "hot chocolate with pumpkin spice",
+        "volume": 1900,
+        "competition": 79
+      },
+      {
+        "keyword": "spiced pumpkin hot chocolate",
+        "volume": 1900,
+        "competition": 79
+      },
+      {
+        "keyword": "cinnamon hot chocolate",
+        "volume": 1600,
+        "competition": 35
+      },
+      {
+        "keyword": "cinnamon and hot chocolate",
+        "volume": 1600,
+        "competition": 35
+      },
+      {
+        "keyword": "cinnamon hot cocoa",
+        "volume": 1600,
+        "competition": 35
+      },
+      {
+        "keyword": "hot chocolate and cinnamon",
+        "volume": 1600,
+        "competition": 35
+      },
+      {
+        "keyword": "ginger bread hot chocolate",
+        "volume": 1300,
+        "competition": 66
+      },
+      {
+        "keyword": "hot chocolate ginger",
+        "volume": 1300,
+        "competition": 66
+      },
+      {
+        "keyword": "hot chocolate pumpkin",
+        "volume": 1300,
+        "competition": 18
+      },
+      {
+        "keyword": "pumpkin hot chocolate",
+        "volume": 880,
+        "competition": 64
+      },
+      {
+        "keyword": "chai hot chocolate",
+        "volume": 880,
+        "competition": 80
+      },
+      {
+        "keyword": "chai hot cocoa",
+        "volume": 880,
+        "competition": 80
+      },
+      {
+        "keyword": "pumpkin hot cocoa",
+        "volume": 880,
+        "competition": 64
+      },
+      {
+        "keyword": "whiskey dark chocolate",
+        "volume": 720,
+        "competition": 55
+      },
+      {
+        "keyword": "dark chocolate and whiskey",
+        "volume": 720,
+        "competition": 55
+      },
+      {
+        "keyword": "dark chocolate milk shake",
+        "volume": 720,
+        "competition": 31
+      },
+      {
+        "keyword": "whisky dark chocolate",
+        "volume": 720,
+        "competition": 55
+      },
+      {
+        "keyword": "spicy mexican hot chocolate",
+        "volume": 590,
+        "competition": 62
+      },
+      {
+        "keyword": "dark sugar hot chocolate",
+        "volume": 590,
+        "competition": 9
+      },
+      {
+        "keyword": "mexican spiced hot cocoa",
+        "volume": 590,
+        "competition": 62
+      },
+      {
+        "keyword": "spiced mexican hot chocolate",
+        "volume": 590,
+        "competition": 62
+      },
+      {
+        "keyword": "spices for mexican hot chocolate",
+        "volume": 590,
+        "competition": 62
+      },
+      {
+        "keyword": "spicy mexican chocolate",
+        "volume": 390,
+        "competition": 74
+      },
+      {
+        "keyword": "cinnamon stick hot chocolate",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon stick in hot chocolate",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "hot chocolate cinnamon stick",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "hot chocolate with cinnamon stick",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "spicy chocolate mexican",
+        "volume": 390,
+        "competition": 74
+      },
+      {
+        "keyword": "dark hot chocolate near me",
+        "volume": 320,
+        "competition": 32
+      },
+      {
+        "keyword": "turmeric hot chocolate",
+        "volume": 260,
+        "competition": 70
+      },
+      {
+        "keyword": "cinnamon sticks for hot chocolate",
+        "volume": 260,
+        "competition": 8
+      },
+      {
+        "keyword": "dark chocolate for cold",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "hot chocolate with turmeric",
+        "volume": 260,
+        "competition": 70
+      },
+      {
+        "keyword": "cardamom hot chocolate",
+        "volume": 210,
+        "competition": 22
+      },
+      {
+        "keyword": "cayenne hot chocolate",
+        "volume": 210,
+        "competition": 12
+      },
+      {
+        "keyword": "cayenne pepper hot chocolate",
+        "volume": 210,
+        "competition": 12
+      },
+      {
+        "keyword": "cayenne pepper hot cocoa",
+        "volume": 210,
+        "competition": 12
+      },
+      {
+        "keyword": "dark cocoa hot chocolate",
+        "volume": 210,
+        "competition": 70
+      },
+      {
+        "keyword": "hot chocolate and cayenne pepper",
+        "volume": 210,
+        "competition": 12
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

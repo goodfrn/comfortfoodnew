@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-beef-herbed-rice",
+  "title": "Spiced Beef with Herbed Rice",
+  "seed_keywords": [
+    "spiced beef rice",
+    "cajun beef dinner",
+    "pan seared beef",
+    "beef marinade recipes",
+    "herbed rice bowls"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "steak marinade",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "beef steak marinade",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "marinade a steak",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "marinated for steak",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "cast iron steak pan",
+        "volume": 74000,
+        "competition": 37
+      },
+      {
+        "keyword": "beef flank marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "beef flank steak marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "flank marinating steak",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "steak on a cast iron skillet",
+        "volume": 74000,
+        "competition": 37
+      },
+      {
+        "keyword": "beef asada marinade",
+        "volume": 60500,
+        "competition": 23
+      },
+      {
+        "keyword": "beef asada recipe",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "marinade for carne asada meat",
+        "volume": 60500,
+        "competition": 23
+      },
+      {
+        "keyword": "steak carne asada recipe",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef skirt marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "steak marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "beef steak marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "steakhouse marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "best steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "awesome steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best beef steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best filet marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best marinate steak",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "easy marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "simple steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "quick steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "london broil marinade",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "basic marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy beef steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy quick marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy simple steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "marinade a steak simple",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "pan seared beef steak",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "sear a steak in a pan",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "simple beef steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef steak pan fry",
+        "volume": 12100,
+        "competition": 53
+      },
+      {
+        "keyword": "beef steak seasoning recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef jerky marinade",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "beef marinade",
+        "volume": 9900,
+        "competition": 21
+      },
+      {
+        "keyword": "marinade for sirloin steak",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "steak kabob marinade",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef kabob marinade",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef kebabs marinade",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef marinade for kebabs",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef marinade for skewers",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef marinade for stir fry",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "beef marinate for stir fry",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "beef meat marinade",
+        "volume": 9900,
+        "competition": 21
+      },
+      {
+        "keyword": "beef sirloin marinade",
+        "volume": 9900,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

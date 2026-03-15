@@ -1,0 +1,57 @@
+{
+  "slug": "spicy-antipasto-mix",
+  "title": "Spicy Antipasto Mix",
+  "seed_keywords": [
+    "spicy antipasto",
+    "pickled vegetable appetizer",
+    "antipasto mix recipe",
+    "marinated olives chili",
+    "italian appetizer spread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chuck hughes antipasto",
+        "volume": 140,
+        "competition": 80
+      },
+      {
+        "keyword": "spicy antipasto mix",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "marinated artichoke heart appetizer",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted red pepper antipasto",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade antipasto platter",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "chili pepper olive mix",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "italian antipasto spread",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "make your own antipasto",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

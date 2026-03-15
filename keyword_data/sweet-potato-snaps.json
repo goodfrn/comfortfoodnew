@@ -1,0 +1,267 @@
+{
+  "slug": "sweet-potato-snaps",
+  "title": "Sweet Potato Snaps",
+  "seed_keywords": [
+    "sweet potato cookies",
+    "baked cookies with walnuts",
+    "sweet potato desserts",
+    "walnut cookie recipes",
+    "crispy edge cookies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "potato sweet recipes",
+        "volume": 301000,
+        "competition": 6
+      },
+      {
+        "keyword": "sweet potato pies",
+        "volume": 110000,
+        "competition": 13
+      },
+      {
+        "keyword": "sweet tater pie",
+        "volume": 110000,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe sweet potato pie",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "sweet potato baking recipes",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "pie potato",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "walnut cookie recipes",
+        "volume": 8100,
+        "competition": 29
+      },
+      {
+        "keyword": "cookie walnut",
+        "volume": 8100,
+        "competition": 29
+      },
+      {
+        "keyword": "recipes for southern sweet potato pie",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "sweet potato desserts",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "sweet potato cheesecake",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate chip walnut cookies",
+        "volume": 6600,
+        "competition": 34
+      },
+      {
+        "keyword": "choc chip and walnut cookies",
+        "volume": 6600,
+        "competition": 34
+      },
+      {
+        "keyword": "chocolate chip and walnut cookies",
+        "volume": 6600,
+        "competition": 34
+      },
+      {
+        "keyword": "chocolate chunk walnut cookies",
+        "volume": 6600,
+        "competition": 34
+      },
+      {
+        "keyword": "dessert using sweet potato",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "sweet potato cookies",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "patti labelle potato pie",
+        "volume": 5400,
+        "competition": 53
+      },
+      {
+        "keyword": "recipe for sweet potato cakes",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato pound cake",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "patti labelle pie",
+        "volume": 4400,
+        "competition": 77
+      },
+      {
+        "keyword": "sweet potato dog biscuits",
+        "volume": 4400,
+        "competition": 40
+      },
+      {
+        "keyword": "dog biscuit recipe sweet potato",
+        "volume": 4400,
+        "competition": 40
+      },
+      {
+        "keyword": "patti la belle pie",
+        "volume": 4400,
+        "competition": 77
+      },
+      {
+        "keyword": "patti labelle patti pies",
+        "volume": 4400,
+        "competition": 77
+      },
+      {
+        "keyword": "sweet potato dog cookie recipe",
+        "volume": 4400,
+        "competition": 40
+      },
+      {
+        "keyword": "sweet potato dessert recipes",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "creme brulee sweet potato",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "dessert recipes using sweet potatoes",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "potatoes pie recipes",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato brulee",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "best ever sweet potato pie",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "crust for sweet potato pie",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "pie crust for sweet potato pie",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "pie crust sweet potato pie",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "purple yam cookie recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate and sweet potato cake",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate cake with sweet potato",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate sweet potato cake",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "dessert with potatoes",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "potato pudding",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato cake chocolate",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potatoes pudding recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade sweet potato pie",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "chocolate chip and walnut cookie recipe",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate chip cookie recipe walnuts",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "condensed milk sweet potato pie",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "cookie potato",
+        "volume": 1900,
+        "competition": 26
+      },
+      {
+        "keyword": "potato cookie",
+        "volume": 1900,
+        "competition": 26
+      },
+      {
+        "keyword": "recipe for chocolate chip cookies with walnuts",
+        "volume": 1900,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

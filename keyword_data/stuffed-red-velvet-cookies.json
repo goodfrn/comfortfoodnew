@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-red-velvet-cookies",
+  "title": "Stuffed Red Velvet Cookies",
+  "seed_keywords": [
+    "cream cheese cookies",
+    "stuffed cookies",
+    "red velvet desserts",
+    "chocolate cocoa cookies",
+    "buttermilk baked goods"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "oreo oreos",
+        "volume": 823000,
+        "competition": 59
+      },
+      {
+        "keyword": "cocoa cookies",
+        "volume": 110000,
+        "competition": 51
+      },
+      {
+        "keyword": "cocoa and cookies",
+        "volume": 110000,
+        "competition": 51
+      },
+      {
+        "keyword": "cocoa brownies recipe",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cocoa crinkle cookies",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "oreo balls recipe",
+        "volume": 40500,
+        "competition": 13
+      },
+      {
+        "keyword": "chewy cocoa cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "make oreo balls",
+        "volume": 40500,
+        "competition": 13
+      },
+      {
+        "keyword": "oreo balls",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade cocoa cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "recipe for fruit pizza",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate no bake cookies oatmeal",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "cocoa no bake oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "cocoa oats no bake cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "doublestuff oreo",
+        "volume": 27100,
+        "competition": 74
+      },
+      {
+        "keyword": "unbaked chocolate oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "hot cocoa cookies",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "hot chocolate cookies",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "cocoa cookies vegan",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "cookie hot chocolate",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "cookies and hot chocolate",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "cookies for hot chocolate",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "cookies with hot chocolate",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "crispy cocoa cookies",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "hot chocolate and cookie",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "hot chocolate and cookies",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "hot chocolate with cookies",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for chocolate brownie cookies",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed cookies",
+        "volume": 18100,
+        "competition": 31
+      },
+      {
+        "keyword": "banana cocoa cookies",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese cake oreos",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "chocolate brownie mix cookies",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cocoa cookies healthy",
+        "volume": 18100,
+        "competition": 36
+      },
+      {
+        "keyword": "cookie stuffed",
+        "volume": 18100,
+        "competition": 31
+      },
+      {
+        "keyword": "cookie stuffed cookie",
+        "volume": 18100,
+        "competition": 31
+      },
+      {
+        "keyword": "cookies stuff",
+        "volume": 18100,
+        "competition": 31
+      },
+      {
+        "keyword": "nestle cocoa cookies",
+        "volume": 18100,
+        "competition": 40
+      },
+      {
+        "keyword": "red velvet cake from a cake mix",
+        "volume": 18100,
+        "competition": 36
+      },
+      {
+        "keyword": "cream cheese cookies",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "red velvet brownies",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "red velvet cake ice cream",
+        "volume": 14800,
+        "competition": 28
+      },
+      {
+        "keyword": "cream cheese frosting for red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cream cheese icing for red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cookies and cream cheese",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cookies and cream cheese cookies",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cookies and cream cheesecake cookies",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cookies that use cream cheese",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese for cookies",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese frosting for a red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cream cheese frosting for velvet cake",
+        "volume": 14800,
+        "competition": 14
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

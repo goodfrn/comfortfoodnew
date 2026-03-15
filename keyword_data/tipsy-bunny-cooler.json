@@ -1,0 +1,267 @@
+{
+  "slug": "tipsy-bunny-cooler",
+  "title": "Tipsy Bunny Cooler",
+  "seed_keywords": [
+    "rum cocktails",
+    "shaken lemonade drinks",
+    "raspberry daiquiri",
+    "white rum mixers",
+    "fruity punch cocktails"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mojito recipe",
+        "volume": 301000,
+        "competition": 13
+      },
+      {
+        "keyword": "cuba libre",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "mojito cocktail recipe",
+        "volume": 301000,
+        "competition": 13
+      },
+      {
+        "keyword": "mojito drink recipe",
+        "volume": 301000,
+        "competition": 13
+      },
+      {
+        "keyword": "amaretto sours",
+        "volume": 301000,
+        "competition": 5
+      },
+      {
+        "keyword": "pina colada recipe",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "pina colada cocktail recipe",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "dark and stormy drink",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "dark n stormy cocktail",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "dark & stormy drink",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "dark stormy cocktail",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "dark n stormy drink",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "mai tai recipe",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "mai tai cocktail recipe",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "mojito ingredients",
+        "volume": 74000,
+        "competition": 13
+      },
+      {
+        "keyword": "mojito cocktail ingredients",
+        "volume": 74000,
+        "competition": 13
+      },
+      {
+        "keyword": "rum runner",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "strawberry daiquiri recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "malibu drinks",
+        "volume": 49500,
+        "competition": 35
+      },
+      {
+        "keyword": "white rum for mojitos",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry daiquiri cocktail recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "clovers club",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "rum cocktails",
+        "volume": 40500,
+        "competition": 18
+      },
+      {
+        "keyword": "rum punch",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "mai tai ingredients",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "daiquiri recipe",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "piña colada ingredients",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "zombie cocktail",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "rum punch drink",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "white rum for pina colada",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "ingredients for pina colada cocktail",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "cocktails using rum",
+        "volume": 40500,
+        "competition": 18
+      },
+      {
+        "keyword": "rum and punch",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "mai tai cocktail ingredients",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "rum cocktail drinks",
+        "volume": 40500,
+        "competition": 18
+      },
+      {
+        "keyword": "daiquiri cocktail recipe",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "rum punch recipe",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "rum drinks",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "hurricane drink",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "rum and coke",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "bacardi mojito",
+        "volume": 33100,
+        "competition": 49
+      },
+      {
+        "keyword": "malibu cocktails",
+        "volume": 33100,
+        "competition": 32
+      },
+      {
+        "keyword": "mai tai cocktail",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "malibu drink recipes",
+        "volume": 33100,
+        "competition": 32
+      },
+      {
+        "keyword": "malibu rum cocktails",
+        "volume": 33100,
+        "competition": 32
+      },
+      {
+        "keyword": "rum punch drink recipe",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "rum coke",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "rum punch mix",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "malibu cocktail recipe",
+        "volume": 33100,
+        "competition": 32
+      },
+      {
+        "keyword": "drinks using rum",
+        "volume": 33100,
+        "competition": 29
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

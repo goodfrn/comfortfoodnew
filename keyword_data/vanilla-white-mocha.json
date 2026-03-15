@@ -1,0 +1,267 @@
+{
+  "slug": "vanilla-white-mocha",
+  "title": "Vanilla White Mocha Chill",
+  "seed_keywords": [
+    "cold coffee drinks",
+    "white chocolate mocha",
+    "vanilla cold foam",
+    "espresso milk drinks",
+    "iced coffee topping"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cold brew",
+        "volume": 301000,
+        "competition": 61
+      },
+      {
+        "keyword": "iced coffee",
+        "volume": 246000,
+        "competition": 52
+      },
+      {
+        "keyword": "iced coffee latte",
+        "volume": 135000,
+        "competition": 4
+      },
+      {
+        "keyword": "cold coffees",
+        "volume": 110000,
+        "competition": 31
+      },
+      {
+        "keyword": "iced coffee near me",
+        "volume": 90500,
+        "competition": 21
+      },
+      {
+        "keyword": "cold americano",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel macchiato iced coffee",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "starbucks cold caramel macchiato",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "white chocolate mocha",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "starbucks white chocolate mocha",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "cold coffee near me",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "white chocolate mocha coffee starbucks",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "chocolate white mocha",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "chocolate white mocha starbucks",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "starbucks drinks white chocolate mocha",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "starbucks white mocha chocolate",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "white chocolate for mocha",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "nitro cold brew",
+        "volume": 27100,
+        "competition": 42
+      },
+      {
+        "keyword": "starbucks nitro cold brew",
+        "volume": 27100,
+        "competition": 18
+      },
+      {
+        "keyword": "white mocha",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "nitro coffee starbucks",
+        "volume": 27100,
+        "competition": 18
+      },
+      {
+        "keyword": "nitro brew starbucks",
+        "volume": 27100,
+        "competition": 18
+      },
+      {
+        "keyword": "mocha white",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "mcdonald's iced coffee",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "vanilla sweet cream cold brew",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "cold brew with vanilla sweet cream",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "cappuccino iced coffee",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "cold brew with sweet vanilla cream",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "vanilla sweet cream cold brew coffee",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "dunkin iced coffee",
+        "volume": 18100,
+        "competition": 45
+      },
+      {
+        "keyword": "starbucks iced drinks",
+        "volume": 18100,
+        "competition": 43
+      },
+      {
+        "keyword": "starbucks vanilla sweet cream cold brew",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "starbucks iced latte",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "espresso with milk",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "espresso and milk",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "starbucks cold latte",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "starbucks sweet cream vanilla cold brew",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "iced coffee latte starbucks",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "starbucks cold brew with vanilla sweet cream",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "espresso and milk drink",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "espresso coffee milk",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "nitro in coffee",
+        "volume": 14800,
+        "competition": 36
+      },
+      {
+        "keyword": "starbucks cold brew coffee vanilla sweet cream",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "starbucks cold brew sweet vanilla cream",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "starbucks vanilla sweet cold brew",
+        "volume": 14800,
+        "competition": 17
+      },
+      {
+        "keyword": "dunkin donuts iced coffee",
+        "volume": 12100,
+        "competition": 49
+      },
+      {
+        "keyword": "iced coffee brewer",
+        "volume": 12100,
+        "competition": 49
+      },
+      {
+        "keyword": "dd iced coffee",
+        "volume": 12100,
+        "competition": 49
+      },
+      {
+        "keyword": "good starbucks drinks iced",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "iced dunkin coffee",
+        "volume": 12100,
+        "competition": 49
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

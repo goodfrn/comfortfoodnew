@@ -1,0 +1,267 @@
+{
+  "slug": "slow-cooker-rotel-beef-dip",
+  "title": "Slow Cooker Rotel Beef Dip",
+  "seed_keywords": [
+    "beef dip",
+    "slow cooker dips",
+    "ground beef appetizers",
+    "slow cooker cheese dip",
+    "rotel beef dip"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "french dip",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "french dip recipe",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "philippe french dip",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "buffalo wing dip slow cooker",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "dip for french dip",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "french dip dip",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "crabmeat dip recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "buffalo wing dip recipe crock pot",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "beef dip crock pot",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "beef dip in crock pot",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "beef dip in slow cooker",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "beef dip sandwich slow cooker",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot french dip",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot french dip sandwich",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "french dip in slow cooker",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach artichoke dip slow cooker",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach and artichoke dip crock pot",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "artichoke and spinach dip slow cooker",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "artichoke spinach crock pot dip",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker artichoke and spinach dip",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach and artichoke dip in slow cooker",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach artichoke slow cooker dip",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "beef dip",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "slow cooker dips",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "slow cooker for dips",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "dips for slow cooker",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "french onion pot roast",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "crock pot queso",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "queso in slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "beef dip crock pot recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "beef dip recipe slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot french dip recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot french dip sandwich recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "dip with dried beef",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "french dip recipe slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "french dip sandwich recipe slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach artichoke dip crock pot",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "taco dip with meat",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "beef taco dip",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker cheese dip",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese dip crock pot",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot spinach dip",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach artichoke dip recipe crock pot",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "beef dip recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese dip in the crock pot",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot artichoke spinach dip recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot queso dip",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot recipe for spinach artichoke dip",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot spinach and artichoke dip recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "dip with hamburger",
+        "volume": 2900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

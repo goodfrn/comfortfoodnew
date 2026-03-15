@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-kimchi-salad",
+  "title": "Tangy Kimchi Salad Toss",
+  "seed_keywords": [
+    "napa cabbage salad",
+    "kimchi style salad",
+    "korean cabbage recipes",
+    "fermented cabbage dish",
+    "gochugaru sesame dressing"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "kimchi recipe",
+        "volume": 135000,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe to make kimchi",
+        "volume": 135000,
+        "competition": 8
+      },
+      {
+        "keyword": "japanese cabbage salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "napa cabbage salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "napa lettuce salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "kimchi cabbage",
+        "volume": 5400,
+        "competition": 29
+      },
+      {
+        "keyword": "homemade kimchi",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "chinese cabbage salad",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "kimchi recipe authentic",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "kimchi recipe traditional",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "napa cabbage recipes salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "napa salad recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese cabbage recipe",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "baechu kimchi",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "napa cabbage kimchi recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "napa kimchi recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "korean cabbage recipes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage korean salad",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage salad korean",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cole slaw with napa cabbage",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade kimchi recipe",
+        "volume": 1600,
+        "competition": 14
+      },
+      {
+        "keyword": "korean cabbage dish",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "fermented korean cabbage",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "napa salad",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage kimchi recipe",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "dressing for japanese cabbage salad",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "japanese cabbage salad dressing",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "korean cabbage pancake",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese cabbage recipe salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "japanese cabbage salad recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "kimchi red cabbage",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "asian napa cabbage salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "asian napa salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "asian salad with ramen noodles and napa cabbage",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese napa cabbage salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "coleslaw recipe with napa cabbage",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "kimchi green cabbage",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "kimchi with regular cabbage",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "napa cabbage and ramen noodle salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa cabbage and ramen salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa cabbage oriental salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa cabbage ramen noodle salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa cabbage ramen salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa cabbage salad with ramen",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa cabbage slaw recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa coleslaw recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "napa salad with ramen noodles",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "sesame cabbage salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage korean side dish",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage side dish korean",
+        "volume": 590,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

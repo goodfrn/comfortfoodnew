@@ -1,0 +1,267 @@
+{
+  "slug": "sweet-potato-taboule",
+  "title": "Sweet Potato Taboulé Twist",
+  "seed_keywords": [
+    "quinoa salad",
+    "roasted sweet potato salad",
+    "mediterranean quinoa bowls",
+    "sweet potato goat cheese",
+    "taboulé variations"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "quinoa salad",
+        "volume": 135000,
+        "competition": 16
+      },
+      {
+        "keyword": "quinoa and salad",
+        "volume": 135000,
+        "competition": 16
+      },
+      {
+        "keyword": "quinoa quinoa salad",
+        "volume": 135000,
+        "competition": 16
+      },
+      {
+        "keyword": "quinoa salad recipes",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "quinoa salad dishes",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "quinoa salad re",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "salad recipes using quinoa",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "kumara and potato salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "potato salad with sweet potatoes",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "salad sweet potato",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato and salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato for salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato with salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean quinoa salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chick pea and quinoa salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chick pea quinoa salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chickpea salad with quinoa",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "garbanzo quinoa salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa & chickpea salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa garbanzo bean salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa with chickpeas salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa tabbouleh",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and quinoa dishes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "potato salad recipe with sweet potatoes",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa and tabbouleh salad",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa and tabouli salad",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa dishes with chicken",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "quinoa salad tabbouleh",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa tabouli salad",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "salad recipes with sweet potato",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "quinoa salad dressing",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "dressing for quinoa",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "kale & quinoa salad",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "kale and quinoa salad",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "mediterranean quinoa salad recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "quinoa salad mediterranean recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "quinoa salad with dressing",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe mediterranean quinoa salad",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "salad dressing for quinoa salad",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "salad with kale and quinoa",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "salad with quinoa and kale",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "costco quinoa salad",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken & quinoa salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and quinoa salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "greek quinoa salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean and quinoa salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean quinoa salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "mexican quinoa dish",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "mexican quinoa recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "quinoa tabbouleh recipe",
+        "volume": 3600,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

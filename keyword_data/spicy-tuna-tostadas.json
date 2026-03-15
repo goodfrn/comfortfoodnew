@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-tuna-tostadas",
+  "title": "Spicy Tuna Tostadas Twist",
+  "seed_keywords": [
+    "tuna tostadas",
+    "smoked mackerel recipes",
+    "seafood tostada recipes",
+    "tuna appetizers",
+    "avocado tuna bowls"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tuna tostadas",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked mackerel pate",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "mackerel paté",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "smoked mackerel recipes",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "hot smoked mackerel recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "meals with smoked mackerel",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked mackerel dishes",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "mackerel pate recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp tostada",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for smoked mackerel pate",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "salad with smoked mackerel",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked mackerel salad",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna appetizers",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "crab meat tostadas",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "prawn tostadas",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna fish appetizer",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna horderves",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "hot smoked mackerel",
+        "volume": 880,
+        "competition": 60
+      },
+      {
+        "keyword": "mackerel salad recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta smoked mackerel",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked mackerel and pasta",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "ahi tuna tostada",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "kedgeree smoked mackerel",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "river cottage smoked mackerel pâté recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp ceviche tostada",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna tostada recipe",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "ahi appetizer",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "ahi tuna appetizer",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "smoked mackerel fillet",
+        "volume": 590,
+        "competition": 59
+      },
+      {
+        "keyword": "smoking mackerel fillets",
+        "volume": 590,
+        "competition": 59
+      },
+      {
+        "keyword": "yellowfin tuna appetizer",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "kedgeree mackerel",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mackerel and potato salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mackerel pate mary berry",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mackerel potato salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "potato and mackerel salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "potato mackerel salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "ahi poke with avocado",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "ahi tostadas",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot and mackerel salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "mackerel and beetroot salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "mackerel beetroot salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked fish pate",
+        "volume": 390,
+        "competition": 16
+      },
+      {
+        "keyword": "smoked mackerel dip",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "jamie oliver mackerel recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "jamie oliver smoked mackerel pate",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "seafood tostada",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna tartare the keg",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cold smoked mackerel recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "peppered mackerel recipe",
+        "volume": 260,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

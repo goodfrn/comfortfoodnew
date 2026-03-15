@@ -1,0 +1,267 @@
+{
+  "slug": "vanilla-coconut-ice-cream",
+  "title": "Vanilla Coconut Ice Cream",
+  "seed_keywords": [
+    "vegan ice cream",
+    "coconut ice cream",
+    "no churn ice cream",
+    "vanilla coconut dessert",
+    "dairy free frozen dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegan ice cream",
+        "volume": 74000,
+        "competition": 58
+      },
+      {
+        "keyword": "vegan icecream",
+        "volume": 74000,
+        "competition": 58
+      },
+      {
+        "keyword": "veganicecream",
+        "volume": 74000,
+        "competition": 58
+      },
+      {
+        "keyword": "dairy free ice cream",
+        "volume": 60500,
+        "competition": 62
+      },
+      {
+        "keyword": "coconut ice cream",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "vegan ice cream near me",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "coconut icecream",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "coconut cream ice cream",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "ice cream vegan near me",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "coconut and ice cream",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "coconut ice cream with coconut cream",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "coconut ice ice cream",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "ice cream from coconut cream",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "ice cream in a coconut",
+        "volume": 49500,
+        "competition": 74
+      },
+      {
+        "keyword": "ice cream near me vegan",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "coco ice cream shop",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "dairy free ice cream near me",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "dairy free frozen dessert",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "coconut ice",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "homemade ice cream without machine",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade ice cream no machine",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade ice cream no maker",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade ice cream without ice cream machine",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan ben and jerry's",
+        "volume": 8100,
+        "competition": 35
+      },
+      {
+        "keyword": "so delicious dairy free ice cream",
+        "volume": 8100,
+        "competition": 50
+      },
+      {
+        "keyword": "coconut gelato",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "coco gelato",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "ben & jerry's ice cream vegan",
+        "volume": 8100,
+        "competition": 35
+      },
+      {
+        "keyword": "ben and jerry's vegetarian",
+        "volume": 8100,
+        "competition": 35
+      },
+      {
+        "keyword": "churn icecream",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "churns ice cream",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "gelato coco",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "no churn ice cream",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut milk ice cream",
+        "volume": 6600,
+        "competition": 72
+      },
+      {
+        "keyword": "dairy free sorbet",
+        "volume": 6600,
+        "competition": 60
+      },
+      {
+        "keyword": "ben & jerry's non dairy ice cream",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "tender coconut ice cream",
+        "volume": 6600,
+        "competition": 60
+      },
+      {
+        "keyword": "sorbetto dairy free",
+        "volume": 6600,
+        "competition": 60
+      },
+      {
+        "keyword": "coconut ice cream with coconut milk",
+        "volume": 6600,
+        "competition": 72
+      },
+      {
+        "keyword": "cream and condensed milk ice cream",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "ice cream condensed milk heavy cream",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "ice cream no churn",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "ice cream without a churn",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "ben and jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "vegan gelato",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "ben & jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "coconut ice cream near me",
+        "volume": 5400,
+        "competition": 40
+      },
+      {
+        "keyword": "cosmic bliss",
+        "volume": 5400,
+        "competition": 64
+      },
+      {
+        "keyword": "no churn ice cream recipes",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "ben jerrys vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

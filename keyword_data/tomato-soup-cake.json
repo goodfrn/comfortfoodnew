@@ -1,0 +1,267 @@
+{
+  "slug": "tomato-soup-cake",
+  "title": "Tomato Soup Cake With Cream Cheese Glaze",
+  "seed_keywords": [
+    "tomato soup cake",
+    "spiced cake recipes",
+    "cream cheese frosting",
+    "tomato based desserts",
+    "walnut pecan cake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cream cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "creamcheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese cream frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese icing with cream",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "frosting using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "icing using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting recipe",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "zucchini soice",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese icing",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "fennel cake recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "cream cheese frosting for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese frosting recipe for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing recipe for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake and cream cheese frosting",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake and cream cheese icing",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake cream cheese topping",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "icing for carrot cake cream cheese",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "soft cheese icing for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing recipe",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "ginger cake",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting for cinnamon rolls",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese icing for cinnamon rolls",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cake in cream",
+        "volume": 27100,
+        "competition": 35
+      },
+      {
+        "keyword": "cinnamon bun cream cheese frosting",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon bun cream cheese icing",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "frosting for cinnamon rolls with cream cheese",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "ginger and cake",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "icing for cinnamon rolls with cream cheese",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "carrotcake cupcakes",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "spice cake",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "chocolate cream cheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate cream cheese icing",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "apice cake",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "cake and spice",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "cake with cinnamon",
+        "volume": 18100,
+        "competition": 21
+      },
+      {
+        "keyword": "chocolate and cream cheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate creamcheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cocoa cream cheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin sump cake",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "spice cake spices",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "spide cake",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "spiced cake recipes",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "carrot cake icing",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "cream cheese frosting for red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

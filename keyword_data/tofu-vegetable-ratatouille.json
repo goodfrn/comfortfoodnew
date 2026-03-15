@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-vegetable-ratatouille",
+  "title": "Tofu Vegetable Ratatouille Remix",
+  "seed_keywords": [
+    "vegan ratatouille",
+    "tofu stir fry",
+    "vegetable ratatouille recipe",
+    "sautéed bell peppers tofu",
+    "mediterranean vegetable stew"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "fried tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "stirfry with tofu",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu stirfry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "wok fried tofu",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu stir fry recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "cook tofu for stir fry",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "prepare tofu for stir fry",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fried tofu and vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried tofu with vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried veggies with tofu",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry tofu and veggies",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu and veggies stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu vegetable stirfry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu with vegetables stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable tofu stirfry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "ratatouille vegetable",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "ratatouille vegetable dish",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fry recipe vegetarian",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry vegan recipe",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "veggie tofu recipe",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "eggplant with tofu recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli and tofu recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli and tofu stir fry",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli stir fry tofu",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "broccoli tofu recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "rice stir fry vegan",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "stir fry broccoli and tofu",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry tofu and broccoli",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "simple tofu marinade",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "noodle tofu stir fry",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "saute tofu",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "stir fry with tofu and noodles",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu fry",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "bok choy and tofu recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "bok choy tofu recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy stir fried tofu",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "eggplant ratatouille",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "eggplant stirfry recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "eggplant stirfry recipes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "marinade for tofu stir fry",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "sauce for tofu stir fry",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry sauce for tofu",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu recipe with vegetables",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu stirfry sauce",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu with oyster sauce",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "tokwa with oyster sauce",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan ratatouille",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "bok choy and tofu stir fry",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "bok choy stir fry tofu",
+        "volume": 1000,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

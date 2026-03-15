@@ -1,0 +1,267 @@
+{
+  "slug": "vanilla-custard-pie",
+  "title": "Vanilla Custard Pie",
+  "seed_keywords": [
+    "vanilla custard pie",
+    "homemade pie crust",
+    "custard pie recipe",
+    "vanilla bean dessert",
+    "custard tart baking"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "homemade pie shell recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "recipes with pie crust",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "custard pie",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "pie and custard",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade pie crust",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "home pie crust",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade dough for pie",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade pie shell",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "mcdonald holiday pie",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "pie crust home made",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "custard pie recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "making creme caramel",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "panna cotta vanilla bean",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "egg custard pie",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "pie dough made with butter",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "pie dough recipe butter",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "coconut custard pie",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "homemade pie crust recipe",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "rhubarb custard pie",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "coconut egg custard pie",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "homemade crust recipe",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "homemade pie dough recipe",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "homemade pie pastry recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for home made pie crust",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "rhubarb and custard pie",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "coconut custard pie recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "coconut egg custard pie recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "creme brulee vanilla",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "creme brulee vanilla bean",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "custard egg pie recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for an egg custard pie",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "flapper pie",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade graham cracker crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "apple & custard pie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and custard pie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken pot pie homemade crust",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "custard for apple pie",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "home made graham cracker pie crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "homemade chicken pot pie with homemade crust",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade chicken pot pie with pie crust",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade graham cracker pie crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "homemade graham crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "homemade graham pie crust",
+        "volume": 3600,
+        "competition": 24
+      },
+      {
+        "keyword": "pie crust no shortening",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "coco custard",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin egg custard",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe apple custard",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "vanilla bean cheesecake",
+        "volume": 2400,
+        "competition": 54
+      },
+      {
+        "keyword": "custard rhubarb pie recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin custard recipe",
+        "volume": 2400,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

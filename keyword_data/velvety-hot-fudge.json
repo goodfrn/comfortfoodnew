@@ -1,0 +1,267 @@
+{
+  "slug": "velvety-hot-fudge",
+  "title": "Velvety Hot Fudge",
+  "seed_keywords": [
+    "hot fudge sauce",
+    "chocolate peanut butter",
+    "homemade fudge recipe",
+    "butter cream chocolate",
+    "velvety hot fudge"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "reese's peanut butter cups",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "reeses peanut butter cups",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "hersheys reeses",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "reese's butter cups",
+        "volume": 110000,
+        "competition": 69
+      },
+      {
+        "keyword": "recipe for making fudge",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate buttercream frosting",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "chocolate buttercream icing",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "flourless",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "protein peanut",
+        "volume": 40500,
+        "competition": 29
+      },
+      {
+        "keyword": "fudge recipe easy",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "easy making fudge",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut bars",
+        "volume": 22200,
+        "competition": 65
+      },
+      {
+        "keyword": "reese candy",
+        "volume": 22200,
+        "competition": 56
+      },
+      {
+        "keyword": "hot fudge ice cream sundae",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "take 5 candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "hot fudge",
+        "volume": 18100,
+        "competition": 26
+      },
+      {
+        "keyword": "take five candy",
+        "volume": 18100,
+        "competition": 71
+      },
+      {
+        "keyword": "peanut butter rice krispie bars",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "nutrio peanut butter",
+        "volume": 14800,
+        "competition": 45
+      },
+      {
+        "keyword": "peanut butter candies",
+        "volume": 12100,
+        "competition": 79
+      },
+      {
+        "keyword": "choco butter nut",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "reese's pumpkins",
+        "volume": 9900,
+        "competition": 75
+      },
+      {
+        "keyword": "peanut butter twix",
+        "volume": 8100,
+        "competition": 72
+      },
+      {
+        "keyword": "pb twix",
+        "volume": 8100,
+        "competition": 72
+      },
+      {
+        "keyword": "homemade peanut butter cups",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "5 avenue candy bar",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "homemade pb cups",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade reese cups",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "hot chocolate fudge",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "hot fudge hot chocolate",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade fudge",
+        "volume": 6600,
+        "competition": 35
+      },
+      {
+        "keyword": "chocolate peanut butter bars",
+        "volume": 6600,
+        "competition": 57
+      },
+      {
+        "keyword": "abba zaba",
+        "volume": 6600,
+        "competition": 40
+      },
+      {
+        "keyword": "peanut butter and chocolate bars",
+        "volume": 6600,
+        "competition": 57
+      },
+      {
+        "keyword": "marshmallow cream fudge",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "fudge using marshmallow cream",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "white choc butter cream",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "hot fudge sauce",
+        "volume": 5400,
+        "competition": 56
+      },
+      {
+        "keyword": "homemade fudge recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "take 5 bar",
+        "volume": 4400,
+        "competition": 57
+      },
+      {
+        "keyword": "mini reese's peanut butter cups",
+        "volume": 4400,
+        "competition": 43
+      },
+      {
+        "keyword": "peanut butter eggs",
+        "volume": 4400,
+        "competition": 47
+      },
+      {
+        "keyword": "reese's peanut butter cups miniatures",
+        "volume": 4400,
+        "competition": 43
+      },
+      {
+        "keyword": "best recipe for fudge",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate peanut butter rice krispie bars",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "eggs and peanut butter",
+        "volume": 4400,
+        "competition": 47
+      },
+      {
+        "keyword": "eggs with peanut butter",
+        "volume": 4400,
+        "competition": 47
+      },
+      {
+        "keyword": "handmade fudge recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "home fudge recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade reese peanut butter cups",
+        "volume": 4400,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

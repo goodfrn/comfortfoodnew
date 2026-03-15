@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-bean-yogurt-salad",
+  "title": "Tangy Bean Yogurt Salad",
+  "seed_keywords": [
+    "bean salad",
+    "yogurt dressing recipe",
+    "chickpea salad",
+    "beans with yogurt",
+    "tangy bean salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "gyro sauce recipe",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "recipe for greek gyro sauce",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "chickpea salad",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "chickpeas in a salad",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "salad using chickpeas",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "bean salad",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for dressing for greek salad",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "tzatziki dressing recipe",
+        "volume": 60500,
+        "competition": 20
+      },
+      {
+        "keyword": "chickpea salad recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chick peas salad recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "cannellini",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "green bean salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "bean salad green beans",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "green salad beans",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "green salad with green beans",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "string bean salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "three bean salad",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "black bean salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean and corn salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "bean salad with black beans",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "black beans in a salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cornand black bean salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "3 bean salad",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "mediterranean chickpea salad",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "3 b3an salad",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "four bean",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "garbanzo bean mediterranean salad",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "gyros tzatziki sauce",
+        "volume": 14800,
+        "competition": 37
+      },
+      {
+        "keyword": "homemade gyro sauce",
+        "volume": 14800,
+        "competition": 18
+      },
+      {
+        "keyword": "mediterranean garbanzo salad",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "greek yogurt salad dressing",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "greek yogurt dressing",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "garbanzo bean salad",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "bean and chickpea salad",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "bean chickpea salad",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "bean salad with garbanzo beans",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "ceci bean salad",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "garbanzo salad",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "greek dressing yogurt",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "greek yogurt ranch dressing",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "ranch dressing using greek yogurt",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "ranch from greek yogurt",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "chickpea tuna salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chick pea and quinoa salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chick pea and tuna salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chick pea quinoa salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chickpea salad with quinoa",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "garbanzo quinoa salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "garbanzo tuna salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt ranch salad dressing",
+        "volume": 9900,
+        "competition": 20
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

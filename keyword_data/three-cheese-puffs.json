@@ -1,0 +1,267 @@
+{
+  "slug": "three-cheese-puffs",
+  "title": "Three Cheese Puffs",
+  "seed_keywords": [
+    "cheese appetizers",
+    "cheese puffs",
+    "baked cheese snacks",
+    "gougeres recipe",
+    "savory cheese dough"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brie and",
+        "volume": 165000,
+        "competition": 25
+      },
+      {
+        "keyword": "a cheese ball",
+        "volume": 135000,
+        "competition": 65
+      },
+      {
+        "keyword": "gougeres",
+        "volume": 90500,
+        "competition": 0
+      },
+      {
+        "keyword": "baked brie cheese",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "cheese doodles",
+        "volume": 22200,
+        "competition": 77
+      },
+      {
+        "keyword": "mac & cheese bites",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "macaroni and cheese bites",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "baked puff pastry brie",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "jalapeno poppers with cream cheese",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade mozzarella sticks",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "mac and cheese balls",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "cream cheese wontons",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "mac & cheese balls",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "mac n cheese ball",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "macaroni cheese ball",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "crockpot spinach artichoke dip",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "cheeseball with dried beef",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "potato and cheese balls",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "puffcorn kurkure",
+        "volume": 9900,
+        "competition": 32
+      },
+      {
+        "keyword": "smoked salmon horderves",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "cold crab dip",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "frozen mozzarella sticks",
+        "volume": 6600,
+        "competition": 55
+      },
+      {
+        "keyword": "air fryer mozzarella sticks",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "hot crab dip",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "crab dip warm",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "jalapeno poppers oven",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "mozzarella cheese sticks frozen",
+        "volume": 6600,
+        "competition": 55
+      },
+      {
+        "keyword": "farm rich mozzarella sticks",
+        "volume": 5400,
+        "competition": 51
+      },
+      {
+        "keyword": "hot spinach and artichoke dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "sausage cheese balls",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cheese ball snack",
+        "volume": 5400,
+        "competition": 73
+      },
+      {
+        "keyword": "planters cheese puffs",
+        "volume": 5400,
+        "competition": 30
+      },
+      {
+        "keyword": "baked nacho",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "brie and puff pastry bites",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie bites puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie bites with puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cheese puff pastry bites",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cranberry puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "burrata appetizer",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "burrata cheese appetizer",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheddar bay sausage balls",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese and sausage balls",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cheese ball mozzarella",
+        "volume": 5400,
+        "competition": 71
+      },
+      {
+        "keyword": "cream cheese cheese ball",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese stuffed mushroom",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "fried mac & cheese balls",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "fried mac n cheese balls",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "philadelphia cream cheese balls",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "puff pastry with brie and cranberry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach artichoke dip warm",
+        "volume": 5400,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-cake-mix-cookies",
+  "title": "Twisted Cake Mix Cookies",
+  "seed_keywords": [
+    "cake mix cookies",
+    "browned butter cookies",
+    "homemade cake cookies",
+    "twisted cookies",
+    "cake mix desserts"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brown butter chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "red velvet cake cookies",
+        "volume": 90500,
+        "competition": 28
+      },
+      {
+        "keyword": "red cake cookies",
+        "volume": 90500,
+        "competition": 28
+      },
+      {
+        "keyword": "cake mix cookies",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cake and cookie mix",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cake cookies from cake mix",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cake from cookie mix",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cake mix cookie cake",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cookie and cake mix",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cookie cake from mix",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cookie cake mix cookies",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cookie mix cookies",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cookie using cake mix",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "cake mix rum cake",
+        "volume": 49500,
+        "competition": 60
+      },
+      {
+        "keyword": "dump cake",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "cake mix dump cake",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "cake mix gooey butter cake",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "dump cake mix recipes",
+        "volume": 40500,
+        "competition": 20
+      },
+      {
+        "keyword": "recipe for how to make chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "recipes for dump cake",
+        "volume": 40500,
+        "competition": 20
+      },
+      {
+        "keyword": "brown butter butter cookies",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "peach dump cake",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "chocolate gluten free cake",
+        "volume": 18100,
+        "competition": 60
+      },
+      {
+        "keyword": "apple dump cake",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "brownie cake mix cookies",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "cake cookies with cool whip",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "cake mix and cool whip cookies",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "cake mix cookies with cool whip",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "cake mix grinch cookies",
+        "volume": 18100,
+        "competition": 26
+      },
+      {
+        "keyword": "cake mix peach dump cake",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "chocolate chip cookie cake bars",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cool whip cookies",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "dump cake with pumpkin",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "grinch cake cookies",
+        "volume": 18100,
+        "competition": 26
+      },
+      {
+        "keyword": "grinch cake mix cookies",
+        "volume": 18100,
+        "competition": 26
+      },
+      {
+        "keyword": "cookies made with cake mix",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "cherry dump cakes",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "strawberry cakemix",
+        "volume": 14800,
+        "competition": 44
+      },
+      {
+        "keyword": "pineapple upside down cake from box",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "peach cobbler with cake mix",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "pineapple upside down cake with box mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "box cake mix pineapple upside down cake",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "box cake peach cobbler",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "brown butter chocolate chip cookie recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cake batter peach cobbler",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "cake peach cobbler",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "peach cobbler and cake mix",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "peach cobbler made from cake mix",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "peach cobbler recipe made with cake mix",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "peach cobbler using cake mix",
+        "volume": 12100,
+        "competition": 15
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

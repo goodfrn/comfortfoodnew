@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-milk-buns",
+  "title": "Tangy Milk Buns",
+  "seed_keywords": [
+    "soft milk bread",
+    "homemade yeast buns",
+    "lemon flavored bread",
+    "avocado oil bread",
+    "tangy milk buns"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "dinner rolls recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "yeast roll recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dinner roll recipe yeast",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "bread dinner rolls recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "yeast dinner rolls",
+        "volume": 18100,
+        "competition": 59
+      },
+      {
+        "keyword": "bread recipe milk",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon roll recipe without yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "yeast rolls recipe easy",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "dinner rolls recipe easy",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "basic yeast roll recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "easiest dinner roll recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "easy hot rolls recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "simple yeast roll recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade yeast rolls",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade hot rolls",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "easy dinner rolls",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade rolls recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "home made bread rolls recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "home made dinner rolls recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "home made yeast rolls recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade hot roll recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade dinner rolls",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for soft dinner rolls",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "soft roll bread recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "soft yeast roll recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "bread rolls recipe with yeast",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "dinner rolls recipe quick",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "quick yeast roll recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "yeast bun recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "best dinner rolls recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "best dinner bun recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy home made dinner rolls",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "easy homemade dinner rolls",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "easy homemade rolls",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "easy homemade rolls recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for sweet dinner rolls",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "best yeast roll recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "good dinner roll recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "best yeast dinner rolls",
+        "volume": 2900,
+        "competition": 46
+      },
+      {
+        "keyword": "dinner buns no yeast",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "dinner roll recipes without yeast",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "no yeast dinner roll",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "dinner rolls easy quick",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "easy and quick dinner rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "easy fast dinner rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "fast and easy dinner rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "bun recipe no yeast",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "dinner roll from scratch",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "thanksgiving dinner rolls recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade cinnamon rolls no yeast",
+        "volume": 1300,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

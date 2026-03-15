@@ -1,0 +1,57 @@
+{
+  "slug": "tomato-ricotta-tartlets",
+  "title": "Tomato Ricotta Tartlets",
+  "seed_keywords": [
+    "tomato ricotta appetizer",
+    "ricotta tartlets",
+    "vegetarian cheese tarts",
+    "tomato herb tart",
+    "ricotta tomato bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ricotta tartlets",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach and ricotta tartlets",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato ricotta tartlets",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "ricotta tartlets with fresh tomatoes",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "panko crust tartlets",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "baked ricotta cheese tarts",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato and ricotta appetizers",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "herb ricotta tartlets",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-italian-pasta-salad",
+  "title": "Twisted Italian Pasta Salad",
+  "seed_keywords": [
+    "pasta salad",
+    "italian pasta salad",
+    "rotini salad",
+    "cold pasta dishes",
+    "pasta salad dressing"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pasta salad",
+        "volume": 301000,
+        "competition": 25
+      },
+      {
+        "keyword": "pasta and salad",
+        "volume": 301000,
+        "competition": 25
+      },
+      {
+        "keyword": "pasta for pasta salad",
+        "volume": 301000,
+        "competition": 25
+      },
+      {
+        "keyword": "pasta salad dish",
+        "volume": 301000,
+        "competition": 25
+      },
+      {
+        "keyword": "pasta salad re",
+        "volume": 301000,
+        "competition": 18
+      },
+      {
+        "keyword": "pasta salad salad",
+        "volume": 301000,
+        "competition": 25
+      },
+      {
+        "keyword": "salad for pasta",
+        "volume": 301000,
+        "competition": 25
+      },
+      {
+        "keyword": "salad macaroni pasta",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "salad with macaroni",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "one pasta pot",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "italian pasta salad",
+        "volume": 60500,
+        "competition": 17
+      },
+      {
+        "keyword": "tuna pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "orzo salad",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "orzo pasta salad",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "pasta and tuna salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "anti pasto salad",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "italian noodle salad",
+        "volume": 60500,
+        "competition": 17
+      },
+      {
+        "keyword": "pasta italiano salad",
+        "volume": 60500,
+        "competition": 17
+      },
+      {
+        "keyword": "tuna and noodle salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna fish pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna pasta dressing",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "salad with burrata",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pesto pasta salad",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta and pesto salad",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto noodle salad",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "easy pasta salad",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "ingredients of macaroni salad",
+        "volume": 33100,
+        "competition": 38
+      },
+      {
+        "keyword": "simple pasta salad",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "greek pasta salad",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy pasta salads",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "greek noodle salad",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "macaroni hawaiian salad",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "rotini salad",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta salad recipe italian",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna macaroni salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "rotini pasta salad",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "dill pickle pasta salad",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "italian noodle salad recipe",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "italian pasta recipe salad",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "italian salad recipe with pasta",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "macaroni and tuna fish salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta pickle salad",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "rotini noodle salad",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "salad rotini",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "salad with rotini pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna elbow macaroni salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna fish macaroni salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta salad dressing",
+        "volume": 22200,
+        "competition": 13
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

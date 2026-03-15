@@ -1,0 +1,62 @@
+{
+  "slug": "spicy-vinegar-infused-honey",
+  "title": "Spicy Vinegar-Infused Honey",
+  "seed_keywords": [
+    "spicy honey condiment",
+    "infused honey recipes",
+    "honey vinegar sauce",
+    "hot honey drizzle",
+    "asian honey glazes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "hot honey mustard",
+        "volume": 2400,
+        "competition": 79
+      },
+      {
+        "keyword": "hot honey mustard sauce",
+        "volume": 2400,
+        "competition": 79
+      },
+      {
+        "keyword": "infused honey recipes",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "hot honey mustard dressing",
+        "volume": 480,
+        "competition": 49
+      },
+      {
+        "keyword": "spicy mustard sauce",
+        "volume": 390,
+        "competition": 57
+      },
+      {
+        "keyword": "hot honey drizzle recipe",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "balsamic honey sauce",
+        "volume": 170,
+        "competition": 21
+      },
+      {
+        "keyword": "balsamic vinegar and honey sauce",
+        "volume": 170,
+        "competition": 21
+      },
+      {
+        "keyword": "honey and balsamic sauce",
+        "volume": 170,
+        "competition": 21
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

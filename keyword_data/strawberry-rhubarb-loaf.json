@@ -1,0 +1,267 @@
+{
+  "slug": "strawberry-rhubarb-loaf",
+  "title": "Strawberry Rhubarb Loaf",
+  "seed_keywords": [
+    "strawberry rhubarb bread",
+    "fruit loaf recipe",
+    "rhubarb strawberry cake",
+    "buttermilk fruit bread",
+    "quick bread baking"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "easy banana loaf recipe",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "easy and simple banana bread",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "quick bread recipes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "bara brith",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "quick breads",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "fruited bread",
+        "volume": 9900,
+        "competition": 52
+      },
+      {
+        "keyword": "bara brith recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "bara brith welsh recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for a tea loaf",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "tea cake loaf recipe",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit loaf recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit loaf",
+        "volume": 5400,
+        "competition": 52
+      },
+      {
+        "keyword": "fruit cake loaf recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bread instant yeast",
+        "volume": 4400,
+        "competition": 29
+      },
+      {
+        "keyword": "quick banana bread",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "banana bread quick bread",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "banana quick bread recipe",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "boiled fruit loaf",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "quick and easy banana bread",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "quick easy banana bread",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "fast and easy banana bread",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "fast easy banana bread",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "fruit loaf recipe mary berry",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "mary berry tea loaf recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "quick and simple banana bread",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "quick bread no yeast recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "quick simple banana bread",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "tea loaf recipes mary berry",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "rhubarb strawberry cake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "banana loaf cake recipes",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "banana loaf jamie oliver",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "bread recipes with fruit",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "rhubarb and strawberry cake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "light fruit loaf recipe",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "sourdough quick breads",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry fruit nut bread",
+        "volume": 1600,
+        "competition": 24
+      },
+      {
+        "keyword": "english fruit loaf",
+        "volume": 1600,
+        "competition": 55
+      },
+      {
+        "keyword": "feijoa loaf",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade quick bread",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "simple baked bread recipe",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "fruit cake loaf",
+        "volume": 1300,
+        "competition": 33
+      },
+      {
+        "keyword": "banana loaf recipe jamie oliver",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "best easy banana bread recipe",
+        "volume": 1300,
+        "competition": 10
+      },
+      {
+        "keyword": "easy quick bread",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "mary berry date and walnut loaf cake",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "pineapple fruit loaf",
+        "volume": 1300,
+        "competition": 61
+      },
+      {
+        "keyword": "quick banana bread muffins",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "quick bread yeast",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "banana bread quick bread recipe",
+        "volume": 1000,
+        "competition": 11
+      },
+      {
+        "keyword": "banana loaf simple recipe",
+        "volume": 1000,
+        "competition": 11
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

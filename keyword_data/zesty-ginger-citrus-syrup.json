@@ -1,0 +1,42 @@
+{
+  "slug": "zesty-ginger-citrus-syrup",
+  "title": "Zesty Ginger Citrus Syrup",
+  "seed_keywords": [
+    "ginger citrus syrup",
+    "homemade agave syrup",
+    "infused honey syrup",
+    "citrus syrup recipe",
+    "ginger lemon condiment"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "citrus syrup",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "orange peel in syrup",
+        "volume": 210,
+        "competition": 50
+      },
+      {
+        "keyword": "yuzu syrup recipe",
+        "volume": 210,
+        "competition": 15
+      },
+      {
+        "keyword": "citrus syrup recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "citrus simple syrup",
+        "volume": 110,
+        "competition": 26
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

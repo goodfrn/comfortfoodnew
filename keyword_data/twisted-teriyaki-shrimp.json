@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-teriyaki-shrimp",
+  "title": "Twisted Teriyaki Shrimp Stir-fry",
+  "seed_keywords": [
+    "teriyaki shrimp stir fry",
+    "shrimp stir fry",
+    "teriyaki shrimp",
+    "stir fry vegetables",
+    "shrimp bell peppers"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sauteed vegetables",
+        "volume": 49500,
+        "competition": 0
+      },
+      {
+        "keyword": "stir fry vegetables",
+        "volume": 33100,
+        "competition": 41
+      },
+      {
+        "keyword": "veg for a stir fry",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "shrimp stir fry recipe",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "shrimp stir fry dishes",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "shrimp stir fry",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp and stir fry",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "bok choy for stir fry",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fried chicken and broccoli",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fried chicken with broccoli",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry broccoli with chicken",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and vegetable stir fry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and veggie stir fry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "prawn stir fry",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and vegetable stirfry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and veggie stirfry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chinese stir fry vegetables",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "broccoli in stir fry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage stirfry",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese stir fry veg",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "green beans in stir fry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "sauteed shrimp dishes",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "shrimp saute recipe",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "stir fry french beans",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry string beans",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetable stir fry asian",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "vegetables for asian stir fry",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "wok fried broccoli",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian stir fry sauce",
+        "volume": 6600,
+        "competition": 27
+      },
+      {
+        "keyword": "fried vegetables",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "fried veg",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "stir fried tofu and vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried tofu with vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry tofu and veggies",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry veggies with tofu",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu and veggies stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "veg fry",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "sauteed bok choy",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "prawn stir fry recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetable stir fry noodles",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "broccoli fried",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage and chicken stir fry",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage chicken stir fry",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese cauliflower",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "noodle and vegetable stir fry",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "noodle veggie stir fry",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "prawn stirfry recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry veggies and noodles",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "veggie and noodle stir fry",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "stir fry mixed vegetables",
+        "volume": 4400,
+        "competition": 57
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

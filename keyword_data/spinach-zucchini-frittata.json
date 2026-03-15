@@ -1,0 +1,267 @@
+{
+  "slug": "spinach-zucchini-frittata",
+  "title": "Spinach Zucchini Frittata",
+  "seed_keywords": [
+    "spinach zucchini frittata",
+    "vegetable frittata",
+    "eggs with vegetables",
+    "zucchini spinach omelet",
+    "stovetop egg bake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "egg plant",
+        "volume": 550000,
+        "competition": 19
+      },
+      {
+        "keyword": "egg is vegetable",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "eggplant white",
+        "volume": 14800,
+        "competition": 69
+      },
+      {
+        "keyword": "vegetable frittata",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "frittata veg",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "frittata potato",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "egg plant types",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "eggs with vegetables",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "vegetable frittata recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "egg and vegetable",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "egg and veggies",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "egg veggies",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "egg with veggies",
+        "volume": 5400,
+        "competition": 14
+      },
+      {
+        "keyword": "frittata recipe veggie",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "pickled eggs recipe with beets",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for pickled eggs and beets",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage and egg",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "cabbage egg",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "egg plant aubergine",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "egg scramble with vegetables",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "egg vegetable scramble",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom and eggs",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "scarlet egg plant",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "scrambled eggs and vegetables",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "scrambled eggs and veggies",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "scrambled eggs with veggies",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "african eggplants",
+        "volume": 2400,
+        "competition": 50
+      },
+      {
+        "keyword": "baked eggs and vegetables",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs and veggies",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs vegetables",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs with veggies",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "broccolini frittata",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "egg plant vegetable",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "potato and eggs frittata",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "wild aubergine",
+        "volume": 2400,
+        "competition": 19
+      },
+      {
+        "keyword": "egg plant varieties",
+        "volume": 1900,
+        "competition": 72
+      },
+      {
+        "keyword": "frittata spinach feta",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata with feta and spinach",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "egg plant in chinese",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "globe eggplants",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "easter egg radish",
+        "volume": 1300,
+        "competition": 60
+      },
+      {
+        "keyword": "bitter gourd egg",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "veggie egg muffin",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "bell pepper frittata",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "egg plant with garlic sauce",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "frittata peppers",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata red pepper",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata roasted vegetable",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata with roasted vegetables",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "raw egg plant",
+        "volume": 1000,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

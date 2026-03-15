@@ -1,0 +1,267 @@
+{
+  "slug": "warm-soba-noodle-salad",
+  "title": "Warm Soba Noodle Salad",
+  "seed_keywords": [
+    "warm soba noodle salad",
+    "soba noodle bowl",
+    "vegan chickpea salad",
+    "spiralized zucchini salad",
+    "asian noodle salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "soba noodle dish",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian noodle salad ramen",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "ramen noodles salad",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian noodle salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "asian pasta salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "asian noodle pasta salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "bean chickpea salad",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "chinese noodle salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "ramen noodle salad recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chickpea tuna salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "asian ramen noodle salad recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "asian salad with ramen recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chick pea and tuna salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "garbanzo tuna salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "asian ramen salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "ramen salads",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan tuna",
+        "volume": 5400,
+        "competition": 78
+      },
+      {
+        "keyword": "asian cabbage salad with ramen noodles",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian salad with cabbage and ramen noodles",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "ramen noodle and cabbage salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "ramen noodle salad with cabbage",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian cole slaw with ramen",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cole slaw with ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian ramen noodle slaw",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian ramen slaw",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese coleslaw recipe with ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "coleslaw using ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "oriental coleslaw ramen",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "oriental coleslaw ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "ramen noodles coleslaw",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chick pea tuna",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "asian noodle salad recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "asian broccoli slaw with ramen",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "asian broccoli slaw with ramen noodles",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "asian cold noodle salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "asian pasta salad recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "asian salad recipe with noodles",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chilled asian noodle salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese cold noodle salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese noodle salad recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan tuna salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "crunchy asian noodle salad",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "asian crispy noodle salad",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "coleslaw and ramen salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy asian ramen noodle salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy asian ramen salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy chinese noodle salad",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "crunchy chinese noodles for salad",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "oriental crunchy noodle salad",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "ramen crunch salad",
+        "volume": 1900,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

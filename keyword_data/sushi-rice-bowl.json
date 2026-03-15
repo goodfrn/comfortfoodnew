@@ -1,0 +1,267 @@
+{
+  "slug": "sushi-rice-bowl",
+  "title": "Sushi Rice Fish Bowl",
+  "seed_keywords": [
+    "sushi rice bowl",
+    "poke bowl recipe",
+    "marinated raw fish",
+    "soy ginger fish",
+    "japanese seafood rice"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "poke re",
+        "volume": 110000,
+        "competition": 22
+      },
+      {
+        "keyword": "sushi bowls",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "chirashi",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "sushi & bowls",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "sushi rice for poke bowl",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "poke bowl recipe",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "bowl salmon",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "healthy poke bowl",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "salmon poke bowl",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "hawaiian ahi poke",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "poke hawaiian dish",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "poke recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "ahi poke recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "poke poke recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "poke ahi tuna",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "poke bowl ingredients",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "ingredient poke bowl",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "ingredients for poke bowl",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "ingredients in poke bowl",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "poke salads",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna poke recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna poke bowl recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "poke tuna bowl",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "ahi poke sauce",
+        "volume": 14800,
+        "competition": 29
+      },
+      {
+        "keyword": "ahi poke tuna recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "poke salad recipe tuna",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "sauces for poke",
+        "volume": 14800,
+        "competition": 29
+      },
+      {
+        "keyword": "tuna poke",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "salmon poke bowl recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "poke bowl salmon recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "poke recipe salmon",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "salmon poke salad recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "poke bowl sauce",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "chirashi sushi",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna rice bowl",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "poke hawaiian",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "ahi tuna poke bowl",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna and rice bowl",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna bowl",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "sauce poke bowl",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "sushi rice bowl",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "poke sauce recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ginger and soy salmon",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger soy salmon",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "poke bowls rezepte",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for poke sauce",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "rice bowl sushi",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "salmon sushi bowl",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "sushi bowl rice",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "poke bowl dressing",
+        "volume": 2900,
+        "competition": 10
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

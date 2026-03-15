@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-bbq-chicken-wings",
+  "title": "Smoky BBQ Chicken Wings",
+  "seed_keywords": [
+    "smoky bbq chicken",
+    "chicken wing marinade",
+    "roasted chicken wings",
+    "bbq chicken dinner",
+    "paprika chicken recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipes for chicken on the grill",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled chicken recipe on grill",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "baked chicken wings",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken paprikash",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "oven baked chicken wings",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "baking powder baked chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wing marinade",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "paprikash",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wing recipes baked",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "baked chicken wings crispy",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "baked chicken wing meals",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "baked chicken wingette recipes",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "baked crispy buffalo wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "baked crispy hot wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "baked crunchy chicken wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crispiest baked chicken wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crispy baked chicken drumettes",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "easy baked crispy chicken wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "hot wings baked crispy",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken tenders recipe baked",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "oven baked wings",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "recipes for grilled chicken breast",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for oven baked chicken wings",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "bbq chicken recipe on the grill",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "oven baked chicken wingettes",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "bake wings",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken thigh recipes for the grill",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "crispy oven baked chicken wings",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "best chicken recipe for the grill",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "crispy baked chicken wings in oven",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "crispy oven baked hot wings",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "good chicken recipes for the grill",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "great chicken recipes for the grill",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "side dishes for chicken bbq",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "baked wings recipe",
+        "volume": 5400,
+        "competition": 12
+      },
+      {
+        "keyword": "oven wings recipe",
+        "volume": 5400,
+        "competition": 24
+      },
+      {
+        "keyword": "baked wingette recipes",
+        "volume": 5400,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken hungarian paprikash",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "paprikash recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "paprika chicken recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken wing marinade recipes",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "baked chicken wing recipe oven",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked chicken wing recipes crispy",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "baked chicken wings recipe oven",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and paprika recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken recipe with paprika",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken recipes for the grill easy",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "crispy baked hot wings recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for baked chicken wings crispy",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "hot wings recipe baked",
+        "volume": 3600,
+        "competition": 12
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

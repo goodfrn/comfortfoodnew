@@ -1,0 +1,267 @@
+{
+  "slug": "two-bean-spicy-chili",
+  "title": "Two-Bean Spicy Chili",
+  "seed_keywords": [
+    "ground beef chili",
+    "two bean chili",
+    "spicy chili recipe",
+    "beef and beans",
+    "kidney bean chili"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ground beef chili",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "chili ground meat",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "chili with hamburger meat",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "mexican hot sauce",
+        "volume": 60500,
+        "competition": 39
+      },
+      {
+        "keyword": "chili recipe ground beef",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili and ground beef recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili recipe using ground beef",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili recipe with hamburger meat",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chop meat chili recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "ground meat chili recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chili made with chicken",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "crock pot slow cooker chili",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "homemade chili spicy",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "frank's red hot hot sauce",
+        "volume": 27100,
+        "competition": 26
+      },
+      {
+        "keyword": "korean chili paste gochujang",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "korean hot chili paste",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "recipe for beef chili",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "beef chilli recipes",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "sweet and chilli sauce recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet chili sauce recipes",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "hot sauce recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "hot hot sauce recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "hot sauce sauce recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chilli sauce recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "suraci hot sauce",
+        "volume": 14800,
+        "competition": 65
+      },
+      {
+        "keyword": "chili hamburger",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "hot hot dog sauce",
+        "volume": 12100,
+        "competition": 52
+      },
+      {
+        "keyword": "chinese chili sauce",
+        "volume": 9900,
+        "competition": 64
+      },
+      {
+        "keyword": "beef & black bean sauce",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "beef w black bean sauce",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "chilli sauce chinese",
+        "volume": 9900,
+        "competition": 64
+      },
+      {
+        "keyword": "china chilli sauce",
+        "volume": 9900,
+        "competition": 64
+      },
+      {
+        "keyword": "chinese chili pepper sauce",
+        "volume": 9900,
+        "competition": 64
+      },
+      {
+        "keyword": "chinese hot pepper sauce",
+        "volume": 9900,
+        "competition": 64
+      },
+      {
+        "keyword": "spicy chili powder recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chili crisp recipe",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooker chili with turkey",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "homemade hot sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "franks hot sauce for wings",
+        "volume": 6600,
+        "competition": 46
+      },
+      {
+        "keyword": "beef & black bean",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "beef and black bean",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "beef and black beans",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "beef in black bean",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "black beans and beef",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "black beans with beef",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chili con carne spice",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "chilli con carne spicy",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe ground turkey chili",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "spice for chili con carne",
+        "volume": 6600,
+        "competition": 12
+      },
+      {
+        "keyword": "honey hot sauce recipes",
+        "volume": 5400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

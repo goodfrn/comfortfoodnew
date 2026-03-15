@@ -1,0 +1,267 @@
+{
+  "slug": "snickers-apple-salad",
+  "title": "Snickers Apple Salad",
+  "seed_keywords": [
+    "apple dessert salad",
+    "no bake pudding",
+    "snickers apple dessert",
+    "candy bar salad",
+    "whipped topping apples"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "snicker salad",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "snicker candy bar salad",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "apple and snicker salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "apple salad snickers",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "snicker salad recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "snicker apple salad recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "apple and snickers salad recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "apple salad with snickers candy bar recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "bake banana pudding",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pudding no bake",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "non cook banana pudding",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "banana pudding no bake recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "banana pudding cheesecake no bake",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "banana pudding with coolwhip",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel apple salad snickers",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "snickers taffy apple salad",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "cream cheese dessert no bake",
+        "volume": 880,
+        "competition": 33
+      },
+      {
+        "keyword": "easy banana dessert no bake",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "bread pudding no eggs",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cool whip and pudding pie",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cool whip pudding pies",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "easy bread and butter pudding without cream",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "jello pudding cheesecake recipe",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "apple dessert salad",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "3 ingredient snicker salad",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "bake banana pudding recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "butterfinger grape salad",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "snicker pudding",
+        "volume": 480,
+        "competition": 58
+      },
+      {
+        "keyword": "chocolate pudding no bake pie",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate pudding pie no bake",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake pudding no bake",
+        "volume": 320,
+        "competition": 15
+      },
+      {
+        "keyword": "jello pudding pie with cool whip",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake cheesecake pudding",
+        "volume": 320,
+        "competition": 15
+      },
+      {
+        "keyword": "no bake cheesecake using pudding",
+        "volume": 320,
+        "competition": 15
+      },
+      {
+        "keyword": "snickers apple dessert",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and snickers dessert",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pudding no cook",
+        "volume": 260,
+        "competition": 22
+      },
+      {
+        "keyword": "no bake desserts with pudding",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "no bake pudding dessert",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "snicker bar salad",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake pudding",
+        "volume": 210,
+        "competition": 19
+      },
+      {
+        "keyword": "candy bar salad",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "apple snicker",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "banana pudding easy no bake",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "easy banana pudding no bake",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "easy pudding recipes without oven",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "grape salad with snickers",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake banana pudding cheesecake recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake pies with pudding",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "oven banana pudding",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

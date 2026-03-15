@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-chicken-soup",
+  "title": "Smoky Chicken Tortilla Soup",
+  "seed_keywords": [
+    "chicken tortilla soup",
+    "smoky chicken soup",
+    "chipotle chicken soup",
+    "fire roasted tomato soup",
+    "shredded chicken mexican"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken tortilla soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and tortilla soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tortilla soup with tortillas",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tortilla soup recipe",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken and tortilla soup recipe",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken corn tortilla soup recipe",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken tortilla soup receta",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "ck tortilla soup recipe",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "tortilla soup",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "tortilla soup soup",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "tortilla soup tortilla soup",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "tortilla soup recipe",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "make tortilla soup",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken enchilada tortilla soup",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tortilla soup crock pot",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken tortilla slow cooker soup",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken tortilla soup in a slow cooker",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken taco soup",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "chick fil a soup",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "soup from chick fil a",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "taco soup using chicken",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken crock pot mexican",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mexican slow cooker",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mexican soup",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken soup at chick fil a",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken soup from chick fil a",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker mexican shredded chicken tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken tortilla",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican shredded chicken taco recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "shredded taco chicken recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "shredded chicken mexican",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken taco soup recipe",
+        "volume": 8100,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken tortilla crockpot soup recipe",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken tortilla soup recipe slow cooker",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "mexican pulled chicken",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "tortilla soup near me",
+        "volume": 6600,
+        "competition": 19
+      },
+      {
+        "keyword": "creamy chicken tortilla soup",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken tortilla soup cream",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken tortilla soup cream of chicken",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mexican soup recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for chicken mexican soup",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken tortilla soup chick fil a",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "best chicken tortilla soup recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken tortilla soup at chick fil a",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "chick fil a soup chicken tortilla",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken crockpot taco soup",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken taco soup in slow cooker",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot mexican pulled chicken",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot mexican shredded chicken",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot shredded chicken mexican",
+        "volume": 4400,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

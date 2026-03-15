@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-shrimp-paella",
+  "title": "Smoky Shrimp Paella Remix",
+  "seed_keywords": [
+    "smoky shrimp paella",
+    "seafood paella recipe",
+    "saffron rice dishes",
+    "sausage shrimp rice",
+    "paella with salsa"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "saffron rice dishes",
+        "volume": 40500,
+        "competition": 13
+      },
+      {
+        "keyword": "saffron rice",
+        "volume": 40500,
+        "competition": 13
+      },
+      {
+        "keyword": "seafood paella",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "paella seafood dish",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "paella valenciana seafood",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "shellfish paella",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "seafood paella recipe",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "fish paella recipe",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "shellfish paella recipe",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "zereshk polow",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for saffron rice",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "saffron and rice recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "tahchin",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "basmati saffron rice",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "saffron in paella",
+        "volume": 2900,
+        "competition": 21
+      },
+      {
+        "keyword": "shrimp paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "barberry rice",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chorizo & prawn paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chorizo and prawn paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chorizo prawn paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "paella chorizo and prawn",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "paella prawn and chorizo",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "prawn & chorizo paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "best paella rice",
+        "volume": 1900,
+        "competition": 60
+      },
+      {
+        "keyword": "iranian saffron rice",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "paella de marisco recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "paella prawn",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "persian rice saffron",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "saffron rice iranian",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "squid ink paella",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "seafood paella recipe easy",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken & prawn paella",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and prawn paella",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "easy paella",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "quick seafood paella recipe",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "simple paella recipe seafood",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "best paella recipe seafood",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "best seafood piaya recipe",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken and chorizo and prawn paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken chorizo and prawn paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken chorizo prawn paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "lobster paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "paella chicken prawn chorizo",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "rice cooker saffron rice",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "rice with seafood spanish",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "saffron rice cooker",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "seafood paella recipe best",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "seafood paella spain",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "seafood rice spanish",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "spanish food with rice and seafood",
+        "volume": 1300,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-dark-ganache",
+  "title": "Twisted Dark Ganache",
+  "seed_keywords": [
+    "dark chocolate ganache",
+    "vegan ganache recipe",
+    "dairy free chocolate dessert",
+    "coconut cream chocolate",
+    "bittersweet chocolate coating"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "milk free dessert recipes",
+        "volume": 6600,
+        "competition": 21
+      },
+      {
+        "keyword": "dairy free brownie",
+        "volume": 5400,
+        "competition": 56
+      },
+      {
+        "keyword": "dairy free chocolate brownies",
+        "volume": 5400,
+        "competition": 56
+      },
+      {
+        "keyword": "dark chocolate ganache",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "dairy free chocolate cake",
+        "volume": 4400,
+        "competition": 23
+      },
+      {
+        "keyword": "chocolate cake lactose free",
+        "volume": 4400,
+        "competition": 23
+      },
+      {
+        "keyword": "dairy free chocolate mousse",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate mousse lactose free",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "egg free brownies",
+        "volume": 1600,
+        "competition": 20
+      },
+      {
+        "keyword": "chocolate ganache vegan",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate vegan ganache",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "egg free chocolate brownies",
+        "volume": 1600,
+        "competition": 20
+      },
+      {
+        "keyword": "ganache vegan",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "dairy free chocolate pudding",
+        "volume": 1000,
+        "competition": 72
+      },
+      {
+        "keyword": "lactose free chocolate pudding",
+        "volume": 1000,
+        "competition": 72
+      },
+      {
+        "keyword": "chocolate mousse recipe dairy free",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "banana pudding dairy free",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "haupia cream",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "thick chocolate ganache",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan ganache recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "dairy free chocolate dessert",
+        "volume": 390,
+        "competition": 34
+      },
+      {
+        "keyword": "haagen daz non dairy",
+        "volume": 390,
+        "competition": 77
+      },
+      {
+        "keyword": "godiva masterpieces dark chocolate ganache heart",
+        "volume": 390,
+        "competition": 29
+      },
+      {
+        "keyword": "lactose free brownies",
+        "volume": 390,
+        "competition": 44
+      },
+      {
+        "keyword": "non dairy chocolate chip cookies",
+        "volume": 390,
+        "competition": 73
+      },
+      {
+        "keyword": "dairy and chocolate free desserts",
+        "volume": 390,
+        "competition": 34
+      },
+      {
+        "keyword": "lactose free chocolate brownies",
+        "volume": 390,
+        "competition": 44
+      },
+      {
+        "keyword": "lactose free chocolate dessert",
+        "volume": 390,
+        "competition": 34
+      },
+      {
+        "keyword": "non dairy chocolate cookies",
+        "volume": 390,
+        "competition": 73
+      },
+      {
+        "keyword": "non dairy haagen daz",
+        "volume": 390,
+        "competition": 77
+      },
+      {
+        "keyword": "non dairy brownies",
+        "volume": 320,
+        "competition": 61
+      },
+      {
+        "keyword": "black ganache",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "brownies without dairy",
+        "volume": 320,
+        "competition": 61
+      },
+      {
+        "keyword": "chocolate cake no dairy",
+        "volume": 320,
+        "competition": 32
+      },
+      {
+        "keyword": "non dairy chocolate brownies",
+        "volume": 320,
+        "competition": 61
+      },
+      {
+        "keyword": "non dairy chocolate cake",
+        "volume": 320,
+        "competition": 32
+      },
+      {
+        "keyword": "vegan chocolate ganache recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate cake gluten free sugar free",
+        "volume": 260,
+        "competition": 76
+      },
+      {
+        "keyword": "chocolate mousse no dairy",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate mousse non dairy",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "dairy egg free chocolate cake",
+        "volume": 260,
+        "competition": 27
+      },
+      {
+        "keyword": "dairy free chocolate pudding recipes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "dairy free egg free chocolate cake",
+        "volume": 260,
+        "competition": 27
+      },
+      {
+        "keyword": "dairy free ganache recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "egg and dairy free chocolate cake",
+        "volume": 260,
+        "competition": 27
+      },
+      {
+        "keyword": "non dairy mousse",
+        "volume": 260,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate fondue dairy free",
+        "volume": 210,
+        "competition": 11
+      },
+      {
+        "keyword": "coconut bliss chocolate",
+        "volume": 210,
+        "competition": 13
+      },
+      {
+        "keyword": "egg free gluten free brownies",
+        "volume": 210,
+        "competition": 63
+      },
+      {
+        "keyword": "gluten and egg free brownies",
+        "volume": 210,
+        "competition": 63
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

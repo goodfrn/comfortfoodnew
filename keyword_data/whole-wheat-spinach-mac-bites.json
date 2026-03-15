@@ -1,0 +1,267 @@
+{
+  "slug": "whole-wheat-spinach-mac-bites",
+  "title": "Whole Wheat Spinach Mac Bites",
+  "seed_keywords": [
+    "mac and cheese bites",
+    "baked pasta appetizers",
+    "whole wheat mac cheese",
+    "spinach cheese pasta",
+    "cheesy pasta bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mac and cheese bites",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "mac n cheese bites",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "macaroni and cheese bites",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "cheesy macaroni bites",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "macaroni cheese bite",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "recipe for cannelloni pasta",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "spinach and ricotta cannelloni",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "cannelloni pasta spinach and ricotta",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "ricotta cheese and spinach cannelloni",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "cheese bites",
+        "volume": 14800,
+        "competition": 57
+      },
+      {
+        "keyword": "spinach and ricotta ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "spinach ricotta ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "ricotta cheese and spinach ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "ricotta cheese spinach ravioli",
+        "volume": 14800,
+        "competition": 31
+      },
+      {
+        "keyword": "ricotta ravioli",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "ravioli ricotta cheese",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "ravioli with ricotta cheese",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "ricotta lasagna spinach",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach and ricotta lasagna",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach ravioli",
+        "volume": 8100,
+        "competition": 58
+      },
+      {
+        "keyword": "spinach and ricotta pasta",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "pasta ricotta spinach",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "pasta with ricotta cheese and spinach",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "ravioli and spinach",
+        "volume": 8100,
+        "competition": 58
+      },
+      {
+        "keyword": "ricotta & spinach pasta",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "ricotta cheese spinach pasta",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "spaghetti ricotta spinach",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "spaghetti with ricotta and spinach",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "macaroni bites",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "spinach and ricotta tortellini",
+        "volume": 4400,
+        "competition": 53
+      },
+      {
+        "keyword": "cheese bite recipe",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "fried mac n cheese",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "ricotta spinach tortellini",
+        "volume": 4400,
+        "competition": 53
+      },
+      {
+        "keyword": "tortellini with ricotta and spinach",
+        "volume": 4400,
+        "competition": 53
+      },
+      {
+        "keyword": "tortellini with spinach and ricotta",
+        "volume": 4400,
+        "competition": 53
+      },
+      {
+        "keyword": "spinach and cheese ravioli",
+        "volume": 3600,
+        "competition": 79
+      },
+      {
+        "keyword": "mac and cheese bites recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "spinach cheese ravioli",
+        "volume": 3600,
+        "competition": 79
+      },
+      {
+        "keyword": "cannelloni spinach",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "cheese & spinach ravioli",
+        "volume": 3600,
+        "competition": 79
+      },
+      {
+        "keyword": "mac & cheese bites recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "mac and cheese bite recipes",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "mac n cheese bite recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "macaroni bites recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "macaroni cheese bites recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "ravioli spinach cheese",
+        "volume": 3600,
+        "competition": 79
+      },
+      {
+        "keyword": "spinach and cannelloni",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "cannelloni ricotta spinach recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "ricotta and spinach cannelloni recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "mac and cheese bites near me",
+        "volume": 2400,
+        "competition": 51
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

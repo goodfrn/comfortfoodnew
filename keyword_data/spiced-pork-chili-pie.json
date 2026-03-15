@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-pork-chili-pie",
+  "title": "Spiced Pork Chili Pot Pie",
+  "seed_keywords": [
+    "pork chili recipes",
+    "chili pot pie",
+    "ground pork chili",
+    "tortilla casserole",
+    "spiced pork dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chili verde recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chile verde recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chile pork verde",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "chili pork verde",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "green chile and pork",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "green chile and pork recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "green chile pork",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "green chile pork recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "pork with green chiles recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "taco casserole with tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "corn tortilla taco casserole",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican taco casserole with tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "taco bake casserole with tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "taco casserole using tortillas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "chile verde pork recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "chili verde pork recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "ground beef casserole mexican",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tortilla casserole",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and tortilla casserole",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chili pork",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "chop chili",
+        "volume": 2900,
+        "competition": 22
+      },
+      {
+        "keyword": "pork and chili",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "pork with chili",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "chilli pork",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "pork chilli",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "red chile sauce tamales",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "tamale red chile sauce",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "pork chili recipes",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "tortilla casserole",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chili pulled pork",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "chili with shredded pork",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "chilli pulled pork",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "chilli verde",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "shredded pork chili",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "pork verde",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "authentic chile verde recipe",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "authentic chili verde recipe",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "beef casserole mexican",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "chile verde crock pot recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "chile verde recipe slow cooker",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "mexican casserole tortilla",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "pork and salsa verde",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "pork en salsa verde",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "pork in salsa verde",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for chicken taco casserole",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for chili verde in slow cooker",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "red sauce for tamales",
+        "volume": 1300,
+        "competition": 25
+      },
+      {
+        "keyword": "salsa verde for pork",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "sauce for tamales red",
+        "volume": 1300,
+        "competition": 25
+      },
+      {
+        "keyword": "traditional chile verde recipe",
+        "volume": 1300,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

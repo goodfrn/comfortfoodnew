@@ -1,0 +1,267 @@
+{
+  "slug": "yogurt-flatbreads-twist",
+  "title": "Yogurt Flatbreads Twist",
+  "seed_keywords": [
+    "yogurt flatbread",
+    "flatbread without yeast",
+    "no yeast bread",
+    "yogurt baking powder bread",
+    "grilled flatbread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "no knead bread recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "pizza bread without yeast",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "cinnamon roll recipes without yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt flatbread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flat bread recipe with yoghurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flat bread with yoghurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread recipe with yogurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread recipe yoghurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread with yogurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread with yogurt recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread yogurt recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flat bread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flat bread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flatbread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flatbread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flatbreads recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt flat bread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt flat bread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt flatbreads recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "bread no yeast recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "bread recipe without yeast",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "no yeast recipe for bread",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "non yeast bread recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "bread without yeast",
+        "volume": 9900,
+        "competition": 37
+      },
+      {
+        "keyword": "yeastless bread",
+        "volume": 9900,
+        "competition": 37
+      },
+      {
+        "keyword": "no yeast bread",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "non yeast bread",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "no yeast baking",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "not yeast bread",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "bread recipe easy no yeast",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "easy bread recipe without yeast",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "simple bread recipe no yeast",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "flatbread greek yogurt",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread with greek yogurt",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yoghurt flatbread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt flat bread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt flatbread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "naan yogurt recipe",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for naan bread with yogurt",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "yeasted cinnamon rolls",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "gluten and yeast free",
+        "volume": 4400,
+        "competition": 52
+      },
+      {
+        "keyword": "gluten free yeast free",
+        "volume": 4400,
+        "competition": 52
+      },
+      {
+        "keyword": "naan bread recipe without yeast",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "naan recipes no yeast",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "no yeast pita bread",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "no yeast pita bread recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "no yeast pita recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "pita bread recipe without yeast",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "pita bread without yeast",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "pita recipe without yeast",
+        "volume": 3600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

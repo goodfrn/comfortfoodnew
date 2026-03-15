@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-zucchini-gratin",
+  "title": "Stuffed Zucchini Gratin",
+  "seed_keywords": [
+    "stuffed zucchini boats",
+    "zucchini gratin recipe",
+    "ground beef zucchini",
+    "baked zucchini cheese",
+    "vegetable gratin dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "zucchini boats",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini squash boats",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini boat recipes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed zucchini recipes",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "filled zucchini recipes",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for stuffed zucchini squash",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed zucchini",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "filled zucchini",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini stuffed zucchini",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "au gratin vegetables",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "stuffed zucchini boats",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffing for zucchini boats",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "zucchini boats with stuffing",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "vegetable gratin dishes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetable gratin",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked zucchini with parmesan cheese",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "beef mince and zucchini recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef and zucchini recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef recipes with zucchini",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef recipes zucchini",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for ground beef and zucchini",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe using ground beef and zucchini",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted zucchini with parmesan",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan gratin",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini and minced meat recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini parmesan",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini recipe with ground beef",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini recipes with hamburger meat",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini gratin",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe with shredded zucchini",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini crisps parmesan",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "ground beef and zucchini casserole",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef zucchini casserole",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for stuffed zucchini boat",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "zucchini ground meat casserole",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "filled zucchini vegetarian",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef zucchini boats",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "hamburger and zucchini casserole",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "hamburger zucchini casserole",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed courgette vegan",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed courgettes recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "stuffed vegan zucchini",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed vegetarian zucchini",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "ground turkey and zucchini recipes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "potato au gratin ina garten",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "root vegetable gratin",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "root veggie gratin",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli & cauliflower gratin",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and cauliflower gratin",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "cauliflower & broccoli gratin",
+        "volume": 1300,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

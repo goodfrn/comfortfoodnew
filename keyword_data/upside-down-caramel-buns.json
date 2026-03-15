@@ -1,0 +1,267 @@
+{
+  "slug": "upside-down-caramel-buns",
+  "title": "Upside-Down Caramel Buns",
+  "seed_keywords": [
+    "homemade cinnamon rolls",
+    "caramel sticky buns",
+    "yeast bread recipes",
+    "honey caramel sauce",
+    "upside down buns"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "homemade cinnamon rolls",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade cinnamon buns",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade cinnamon scrolls",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for whole wheat bread",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "cinnamon bun recipe easy",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "easy recipe for cinnamon rolls",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "easy to make cinnamon buns",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "simple cinnamon bun recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "no knead bread recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "best recipe for cinnamon buns",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "best recipe for cinnamon rolls",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "great cinnamon roll recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sourdough yeast rolls",
+        "volume": 27100,
+        "competition": 36
+      },
+      {
+        "keyword": "frozen dinner rolls",
+        "volume": 22200,
+        "competition": 80
+      },
+      {
+        "keyword": "naan recipe easy",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pizza bread without yeast",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe easy naan bread",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "yeast bread recipes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade cinnamon roll recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "yeast dinner rolls",
+        "volume": 18100,
+        "competition": 59
+      },
+      {
+        "keyword": "bread recipe using yeast",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "cinnamon roll homemade recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "cinnamon roll recipe without yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade cinnamon bun recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "yeast bread rolls",
+        "volume": 18100,
+        "competition": 59
+      },
+      {
+        "keyword": "yeast loaf recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "dinner rolls recipe easy",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "active dry yeast bread",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "yogurt flat bread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yeast bread",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "homemade bread recipes with yeast",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "yeast for bread machine",
+        "volume": 12100,
+        "competition": 30
+      },
+      {
+        "keyword": "bread maker yeast",
+        "volume": 12100,
+        "competition": 30
+      },
+      {
+        "keyword": "baked yeast",
+        "volume": 12100,
+        "competition": 63
+      },
+      {
+        "keyword": "bread and yeast",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "bread machine yeast bread",
+        "volume": 12100,
+        "competition": 30
+      },
+      {
+        "keyword": "bread no yeast recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "bread recipe without yeast",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "bread using yeast",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "non yeast bread recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "yeast of bread",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "yeastless bread recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "bread without yeast",
+        "volume": 9900,
+        "competition": 37
+      },
+      {
+        "keyword": "yeastless bread",
+        "volume": 9900,
+        "competition": 37
+      },
+      {
+        "keyword": "homemade pita bread",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "bread instant yeast recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "bread recipe using instant yeast",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "instant yeast recipes bread",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "no yeast bread",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "white bread recipe easy",
+        "volume": 8100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

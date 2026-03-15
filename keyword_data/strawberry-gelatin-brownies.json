@@ -1,0 +1,267 @@
+{
+  "slug": "strawberry-gelatin-brownies",
+  "title": "Strawberry Gelatin Brownies",
+  "seed_keywords": [
+    "strawberry desserts",
+    "gelatin cake recipes",
+    "no bake brownies",
+    "strawberry cake mix",
+    "cream cheese frosting"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "strawberry short cake",
+        "volume": 673000,
+        "competition": 24
+      },
+      {
+        "keyword": "cream cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "creamcheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese cream frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese icing with cream",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "frosting using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "icing using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "strawberry cake",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "cake strawberry cake",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "strawberry cake strawberry cake",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "strawberry cake with strawberries",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "eton mess",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry short cake recipes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese frosting recipe",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "strawberry cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cheesecake cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake strawberry cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "straw cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cake with cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "blueberry cheesecakes",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cream cheese icing",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "short cake",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "strawberry rhubarb pie",
+        "volume": 49500,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry and rhubarb pie",
+        "volume": 49500,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry pie",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "make strawberry cake",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "strawberry desserts",
+        "volume": 33100,
+        "competition": 22
+      },
+      {
+        "keyword": "cream cheese frosting for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese frosting recipe for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing recipe for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake and cream cheese frosting",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake and cream cheese icing",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake cream cheese topping",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake strawberries recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "dessert using strawberries",
+        "volume": 33100,
+        "competition": 22
+      },
+      {
+        "keyword": "icing for carrot cake cream cheese",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "soft cheese icing for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "strawberry cheesecake cake recipes",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "strawberry cheesecake dessert recipes",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing recipe",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "strawberry tart",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "strawberry rhubarb crisp",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "cream cheese frosting for cinnamon rolls",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese icing for cinnamon rolls",
+        "volume": 27100,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

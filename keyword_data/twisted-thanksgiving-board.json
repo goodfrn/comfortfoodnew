@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-thanksgiving-board",
+  "title": "Twisted Thanksgiving Board",
+  "seed_keywords": [
+    "charcuterie board",
+    "thanksgiving appetizers",
+    "cheese board ideas",
+    "chorizo charcuterie board",
+    "holiday grazing platter"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "charcuterie",
+        "volume": 368000,
+        "competition": 41
+      },
+      {
+        "keyword": "thanksgiving appetizers",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "charcuterie near me",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "christmas charcuterie board",
+        "volume": 18100,
+        "competition": 79
+      },
+      {
+        "keyword": "charcuterie board christmas",
+        "volume": 18100,
+        "competition": 79
+      },
+      {
+        "keyword": "thanksgiving appetizer ideas",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "halloween charcuterie board",
+        "volume": 12100,
+        "competition": 24
+      },
+      {
+        "keyword": "charcuterie board platter",
+        "volume": 12100,
+        "competition": 47
+      },
+      {
+        "keyword": "thanksgiving day appetizers",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "thanksgiving appetizer recipes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "appetizers for thanksgiving dinner",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "appetisers for thanksgiving",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "appetizer recipes for thanksgiving dinner",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "appetizers for thanksgiving meal",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "appetizers on thanksgiving",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "horderves thanksgiving",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "thanksgiving appetizer dishes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "thanksgiving appetizer menu",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "thanksgiving day appetizer recipes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "thanksgiving day horderves",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "thanksgiving food appetizers",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "thanksgiving holiday appetizers",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "thanksgiving hor dourves recipes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "thanksgiving horderves recipes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "thanksgiving hors d oeuvres recipes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "turkey day appetizers",
+        "volume": 12100,
+        "competition": 33
+      },
+      {
+        "keyword": "charcuterie board recipe",
+        "volume": 9900,
+        "competition": 14
+      },
+      {
+        "keyword": "costco charcuterie board",
+        "volume": 9900,
+        "competition": 55
+      },
+      {
+        "keyword": "charcuterie board costco",
+        "volume": 9900,
+        "competition": 55
+      },
+      {
+        "keyword": "butterboard",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "thanksgiving charcuterie board",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "vegetarian charcuterie board",
+        "volume": 8100,
+        "competition": 74
+      },
+      {
+        "keyword": "easy thanksgiving appetizers",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "easiest thanksgiving appetizers",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "easy appetizers for thanksgiving day",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "easy appetizers for thanksgiving dinner",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "easy horderves for thanksgiving",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "easy hors d oeuvres for thanksgiving",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "easy thanksgiving appetisers",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "easy thanksgiving hors d oeuvres",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "fruit charcuterie board",
+        "volume": 6600,
+        "competition": 80
+      },
+      {
+        "keyword": "breakfast charcuterie board",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "christmas tree charcuterie board",
+        "volume": 5400,
+        "competition": 51
+      },
+      {
+        "keyword": "christmas tree charcuterie boards",
+        "volume": 5400,
+        "competition": 51
+      },
+      {
+        "keyword": "best thanksgiving appetizers",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "charcuterie table",
+        "volume": 4400,
+        "competition": 64
+      },
+      {
+        "keyword": "turkey charcuterie board",
+        "volume": 4400,
+        "competition": 45
+      },
+      {
+        "keyword": "good thanksgiving appetizers",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "great thanksgiving appetizers",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "best appetizers for thanksgiving day",
+        "volume": 4400,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-jalapeno-tacos",
+  "title": "Smoky Jalapeño Flank Steak Tacos",
+  "seed_keywords": [
+    "flank steak tacos",
+    "grilled jalapeño steak",
+    "marinated flank steak",
+    "smoky paprika beef",
+    "avocado steak tacos"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "marinated flank steak",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "beef flank marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "beef flank steak marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "flank marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "marinade for flank",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "skirt steak for tacos",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "flank steak tacos",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "flank steak marinade recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "flat steak marinade",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "best flank steak marinade",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "fajita marinade skirt steak",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "good flank steak marinade",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "great flank steak marinade",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "balsamic marinated steak",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "flank steak marinade for tacos",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "skirt steak for tacos marinade",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "marinate skirt steak for carne asada",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "beef flap marinade",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "beef skirt steak marinade recipes",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "best marinade for skirt steak",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "fajita flank steak marinade",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "flap steak marinade",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "great skirt steak marinade",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "marinade for skirt steak recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "marinating steak in red wine",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "skirt steak recipes tacos",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "balsamic flank steak marinade",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "balsamic vinegar marinade for flank steak",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "fast flank steak marinade",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "flank steak grill marinade",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "flank steak marinade quick",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "flank steak marinade soy sauce",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "flank steak marinade with balsamic vinegar",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "flank steak recipes tacos",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "marinating steak in beer",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "simple flank steak marinade",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "asian flank steak marinade",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "easy flank steak marinade",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "easy marinade for skirt steak",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "flank steak marinade mexican",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "simple marinade for skirt steak",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "crockpot steak tacos",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "steak tacos slow cooker",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled marinated skirt steak",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "marinade for grilled skirt steak",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "meat marinade for flank steak",
+        "volume": 720,
+        "competition": 14
+      },
+      {
+        "keyword": "asian marinade for skirt steak",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "marinated hanger steak",
+        "volume": 590,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

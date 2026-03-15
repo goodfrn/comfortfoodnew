@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-pepper-slaw",
+  "title": "Spicy Pepper Slaw",
+  "seed_keywords": [
+    "cabbage slaw recipes",
+    "spicy coleslaw",
+    "hot pepper slaw",
+    "cabbage side dishes",
+    "grilled meat slaw"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "coleslaw",
+        "volume": 823000,
+        "competition": 4
+      },
+      {
+        "keyword": "coleslaw slaw",
+        "volume": 823000,
+        "competition": 4
+      },
+      {
+        "keyword": "slaw coleslaw",
+        "volume": 823000,
+        "competition": 4
+      },
+      {
+        "keyword": "coleslaw recipe",
+        "volume": 368000,
+        "competition": 8
+      },
+      {
+        "keyword": "cole coleslaw recipe",
+        "volume": 368000,
+        "competition": 8
+      },
+      {
+        "keyword": "coleslaw coleslaw recipe",
+        "volume": 368000,
+        "competition": 8
+      },
+      {
+        "keyword": "coleslaw recipe coleslaw recipe",
+        "volume": 368000,
+        "competition": 8
+      },
+      {
+        "keyword": "coleslaw recipe recipe",
+        "volume": 368000,
+        "competition": 8
+      },
+      {
+        "keyword": "coleslaw with salad dressing",
+        "volume": 135000,
+        "competition": 25
+      },
+      {
+        "keyword": "coleslaw dressing recipe",
+        "volume": 74000,
+        "competition": 13
+      },
+      {
+        "keyword": "coleslaw salad dressing recipe",
+        "volume": 74000,
+        "competition": 13
+      },
+      {
+        "keyword": "fried cabbage dish",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "fried cabbage meals",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe kfc coleslaw",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "coleslaw salad",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "slaw salad",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "coleslaw recipe easy",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade coleslaw",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "simple coleslaw recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "easy quick coleslaw recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "easy simple coleslaw recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "best coleslaw recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "braised red cabbage",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian coleslaw dressing recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "best rated coleslaw recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "excellent coleslaw recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for the best coleslaw",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "top rated coleslaw recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "coleslaw ingredients",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "fish tacos with slaw",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "coleslaw for fish tacos",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "red cabbage slaw",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "cole slaw red cabbage",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "coleslaw recipe using vinegar",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "coleslaw recipe vinegar",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "ingredients for slaw",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "mexican coleslaw for fish tacos",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes cabbage salad",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for creamy coleslaw",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "slaw with fish tacos",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "coleslaw mix",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "traditional coleslaw recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "apple cole slaw",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "classic coleslaw recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "coleslaw original recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "slaw with apple",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade coleslaw dressing",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "fish taco slaw recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "cole slaw for fish tacos recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "cole slaw mexican",
+        "volume": 9900,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

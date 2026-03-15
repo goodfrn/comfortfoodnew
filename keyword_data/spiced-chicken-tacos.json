@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-chicken-tacos",
+  "title": "Spiced Chicken Tacos Twist",
+  "seed_keywords": [
+    "ground chicken tacos",
+    "chicken taco recipes",
+    "chipotle chicken filling",
+    "mango chicken tacos",
+    "mexican chicken dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken tacos",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken tinga",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and tacos",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken for chicken tacos",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken in tacos",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "mexican chicken tinga",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken taco recipes",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken taco meat recipe",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker chicken tacos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "crockpot chicken tacos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken for tacos in the crockpot",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken in the crock pot for tacos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken tacos in a slow cooker",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "taco chicken in the crock pot",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "shredded chicken tacos",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pulled chicken tacos",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken tacos with shredded chicken",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pulled chicken taco's",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken taco meat",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken al pastor",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken tinga recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "mexican chicken tinga recipe",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "tacos ranch",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken taco seasoning",
+        "volume": 14800,
+        "competition": 45
+      },
+      {
+        "keyword": "chicken taco soup",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and taco seasoning",
+        "volume": 14800,
+        "competition": 45
+      },
+      {
+        "keyword": "chicken in taco seasoning",
+        "volume": 14800,
+        "competition": 45
+      },
+      {
+        "keyword": "chicken taco meat seasoning",
+        "volume": 14800,
+        "competition": 45
+      },
+      {
+        "keyword": "taco seasoning for chicken tacos",
+        "volume": 14800,
+        "competition": 45
+      },
+      {
+        "keyword": "taco soup using chicken",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "shredded chicken tacos crock pot",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken mexican crock pot",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot pulled chicken for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "mexican slow cooked chicken",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "pulled chicken for tacos slow cooker",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken for tacos slow cooker",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken in slow cooker for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken in the crockpot for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken slow cooker tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker mexican shredded chicken tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pulled chicken for tacos",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shredded chicken tacos recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy chicken taco",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "mexican chicken casserole",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken taco recipe slow cooker",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "crockpot chicken tacos recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken taco meat recipe slow cooker",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken taco recipe in slow cooker",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "mexican shredded chicken taco recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "pulled chicken for tacos recipe",
+        "volume": 9900,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

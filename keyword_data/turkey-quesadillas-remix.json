@@ -1,0 +1,267 @@
+{
+  "slug": "turkey-quesadillas-remix",
+  "title": "Turkey Quesadillas Remix",
+  "seed_keywords": [
+    "turkey quesadilla",
+    "leftover turkey dinner",
+    "mushroom cheese quesadilla",
+    "sautéed mushroom skillet",
+    "cranberry turkey sandwich"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "meals with leftover turkey",
+        "volume": 12100,
+        "competition": 43
+      },
+      {
+        "keyword": "recipe ideas for leftover turkey",
+        "volume": 12100,
+        "competition": 43
+      },
+      {
+        "keyword": "leftover turkey meal ideas",
+        "volume": 4400,
+        "competition": 47
+      },
+      {
+        "keyword": "cranberry turkey sandwich",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "thanksgiving leftover ideas",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "thanksgiving leftovers recipes",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "cranberry and turkey sandwich",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "leftover thanksgiving dinner ideas",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "meals with thanksgiving leftover",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "cranberry turkey sauce",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "leftover thanksgiving sandwiches",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey quesadilla",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "cranberry relish for turkey sandwiches",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry sauce for turkey sandwich",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey and cranberry sauce sandwich",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey cranberry",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "turkey sandwich with cranberry relish",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey with cranberry sauce sandwich",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "brie turkey cranberry sandwich",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey brie and cranberry sandwich",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey brie and cranberry sandwiches",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey brie sandwich cranberry",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey cranberry and brie sandwich",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey sandwich with brie and cranberry",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey thanksgiving sandwich",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "dinner ideas for leftover turkey",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "ideas for leftover thanksgiving meal",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "left over turkey dinner ideas",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "leftover thanksgiving food ideas",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "leftover turkey dinner recipe",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "turkey dinner leftover ideas",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "turkey leftover dinner ideas",
+        "volume": 720,
+        "competition": 48
+      },
+      {
+        "keyword": "cranberry turkey stuffing",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "ground turkey quesadilla",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "thanksgiving leftovers for breakfast",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom cheese quesadilla",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese and mushroom quesadilla",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cranberry sandwich sauce",
+        "volume": 320,
+        "competition": 34
+      },
+      {
+        "keyword": "cranberry sauce for sandwiches",
+        "volume": 320,
+        "competition": 34
+      },
+      {
+        "keyword": "cranberry turkey sandwich recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry turkey stuffing sandwich",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "leftover christmas dinner recipes",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for turkey cranberry sandwich",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "roast turkey cranberry sauce",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey and brie",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey and cranberry sandwich recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey brie",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey cranberry and stuffing sandwich",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey sandwich with stuffing and cranberry",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey stuffing and cranberry sandwich",
+        "volume": 320,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

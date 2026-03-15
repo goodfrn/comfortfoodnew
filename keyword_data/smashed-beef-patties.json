@@ -1,0 +1,267 @@
+{
+  "slug": "smashed-beef-patties",
+  "title": "Smashed Beef Patties with Mushrooms",
+  "seed_keywords": [
+    "beef patties mushroom",
+    "smashed beef patties",
+    "ground beef mushroom sauce",
+    "beef stroganoff",
+    "mushroom sauce dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beef stroganoff",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef beef stroganoff",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stroganoff dish",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stroganoff meat",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "meat for stroganoff",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "stroganoff beef stroganoff",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "stroganoff dish",
+        "volume": 450000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stroganoff recipe",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "beef beef stroganoff recipe",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "boeuf stroganoff recipe",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "meat stroganoff recipe",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for stroganoff beef stroganoff",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "steak stroganoff recipe",
+        "volume": 301000,
+        "competition": 9
+      },
+      {
+        "keyword": "beef str",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "strogan off",
+        "volume": 246000,
+        "competition": 3
+      },
+      {
+        "keyword": "beef stroganoff with chicken",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "beef stroganoff crock pot",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker beef stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "crockpot beef stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "beef slow cooker stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker steak stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "stroganoff recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "hamburger stroganoff recipe",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "ground beef stroganoff recipe",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff recipe hamburger",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for beef stroganoff with ground beef",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff recipe using ground beef",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff recipe using hamburger",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff recipe with hamburger meat",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "chop meat stroganoff recipe",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "easy ground beef stroganoff",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "ground stroganoff recipe",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff with ground beef",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "ground beef stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff with hamburger",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff hamburger meat",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff with chop meat",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef stroganoff with ground meat",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "gr beef stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "ground meat stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "hamburger meat stroganoff",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "stroganoff using ground beef",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "easy beef stroganoff recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "easy stroganoff recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "simple beef stroganoff recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "quick stroganoff recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "simple stroganoff recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "beef stroganoff recipe crock pot",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "beef stroganoff recipe slow cooker",
+        "volume": 22200,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

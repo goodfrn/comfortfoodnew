@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-cheeseburger-salad",
+  "title": "Twisted Cheeseburger Salad",
+  "seed_keywords": [
+    "beef salad recipes",
+    "cheeseburger salad",
+    "ground beef salad",
+    "salad with avocado",
+    "poppy seed dressing salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "salad with avocado",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "aguacate salad",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "avocado and salad",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "thai beef salad",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "beef salad thai food",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "beef salad thailand",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "beef steak salad",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "salad for steak",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "steak salad thai",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "thai meat salad",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "beef steak salad recipes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "thai beef salad recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "taco salad with doritos",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado dressing",
+        "volume": 12100,
+        "competition": 46
+      },
+      {
+        "keyword": "avocado salad recipes",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "avocado lime ranch salad dressing",
+        "volume": 12100,
+        "competition": 65
+      },
+      {
+        "keyword": "cucumber avocado salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado & egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado and egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado salad egg",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado with egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber with avocado salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "egg salad using avocado",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "salad with avocado and egg",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "seed salad",
+        "volume": 9900,
+        "competition": 23
+      },
+      {
+        "keyword": "beef salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "beef and salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef for taco salad",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "hamburger taco salad",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "salad and beef",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado salad dressing",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "avocado chicken salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade salisbury steak",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "avocado & mango salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado & shrimp salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado and shrimp salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado salad with mango",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken salad in an avocado",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "poppy seed salad dressing recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe poppy seed dressing",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "salad dressing for avocado salad",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "salad dressing using avocado",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "cheeseburger salad",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado salad dressing recipe",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for avocado dressing",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "avocado and tomato salad",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado tomato salad",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "make avocado dressing",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "tomato salad with avocado",
+        "volume": 5400,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

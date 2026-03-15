@@ -1,0 +1,267 @@
+{
+  "slug": "slow-cooker-honey-teriyaki",
+  "title": "Easy Crockpot Honey Teriyaki Chicken",
+  "seed_keywords": [
+    "crockpot chicken",
+    "slow cooker teriyaki",
+    "honey soy chicken",
+    "crockpot asian chicken",
+    "teriyaki chicken rice"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "crockpot chicken recipes",
+        "volume": 301000,
+        "competition": 14
+      },
+      {
+        "keyword": "slow cooker chicken recipes",
+        "volume": 301000,
+        "competition": 14
+      },
+      {
+        "keyword": "slow cooker chicken breast recipes",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "crockpot chicken breast recipes",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken breast crock pot ideas",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "easy crockpot ideas",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "crock pot chicken thighs",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker chicken thigh recipes",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "crock pot chicken thigh recipes",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken thighs in slow cooker",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "crock pot chicken and dumplings",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and dumplings in slow cooker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken dumplings crock pot",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken dumplings recipe crock pot",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken dumplings slow cooker",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "crockpot chicken",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken noodle soup crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker chicken soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker chicken noodle soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken soup crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle slow cooker",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "crockpot chicken and noodle soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker chicken",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "white chicken chili crockpot",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cooker white chicken chili",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "taco chicken crock pot",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken cooked in slow cooker",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker chicken curry",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "meals for slow cooker",
+        "volume": 40500,
+        "competition": 26
+      },
+      {
+        "keyword": "chicken curry crock pot",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot chili",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "whole chicken in crock pot",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "crock pot chicken pot pie",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker whole chicken",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker bbq chicken",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "healthy crock pot meal",
+        "volume": 33100,
+        "competition": 30
+      },
+      {
+        "keyword": "shredded chicken crock pot",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "barbecue chicken crock pot",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "barbecue chicken slow cooker",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken pot pie in slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "cook a whole chicken in a crock pot",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "healthy crock pot ideas",
+        "volume": 33100,
+        "competition": 30
+      },
+      {
+        "keyword": "slow cook whole chicken in crock pot",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "crockpot chicken and rice",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker chicken casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker chicken and rice",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker butter chicken",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "butter chicken crock pot",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken casserole crock pot",
+        "volume": 27100,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

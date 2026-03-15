@@ -1,0 +1,267 @@
+{
+  "slug": "smoked-salmon-rigatoni",
+  "title": "Smoked Salmon Rigatoni Cream",
+  "seed_keywords": [
+    "smoked salmon pasta",
+    "cream pasta dishes",
+    "rigatoni with salmon",
+    "garlic cream sauce",
+    "seafood pasta dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cajuan chicken pasta",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy chicken pasta",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream and chicken pasta",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe salmon pasta",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream pasta dishes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "boursin cheese pasta",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "cream for pasta",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "cream pasta recipe",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream and pasta",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "cream and pasta recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream in pasta",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "cream of pasta",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "creame pasta",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "creamy oasta recipe",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta dish",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta ideas",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for pasta with white sauce",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken garlic cream recipe",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy pasta mushroom",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta sauce with cream",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta cream mushroom",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "carbonara recipe cream",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "boursin cheese pasta recipes",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken mushrooms and pasta",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "cream tomato pasta",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom & pasta recipes",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom and pasta recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun pasta recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and cream pasta recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and creamy pasta recipes",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken cream pasta recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken creamy pasta dishes",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken creamy pasta recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream and salmon pasta",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy chicken and pasta dish",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy chicken recipes with pasta",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta with salmon",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta carbonara creamy",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "pasta chicken recipes creamy",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta creamy chicken recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta pesto cream",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto and cream pasta",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto pasta creamy",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "smoked salmon pasta",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy garlic sauce",
+        "volume": 14800,
+        "competition": 28
+      },
+      {
+        "keyword": "cream and garlic sauce",
+        "volume": 14800,
+        "competition": 28
+      },
+      {
+        "keyword": "cream garlic sauce",
+        "volume": 14800,
+        "competition": 28
+      },
+      {
+        "keyword": "garlic sauce with cream",
+        "volume": 14800,
+        "competition": 28
+      },
+      {
+        "keyword": "smoked salmonpasta",
+        "volume": 14800,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

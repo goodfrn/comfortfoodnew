@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-pumpkin-cookies",
+  "title": "Spiced Pumpkin Cookies",
+  "seed_keywords": [
+    "pumpkin cookies",
+    "spiced cookies",
+    "pumpkin cream cheese frosting",
+    "fall baking recipes",
+    "pumpkin desserts"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pumpkin for pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin for pumpkin pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin pie with pie pumpkin",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkins pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "ginger cookies recipe",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "ginger cookies",
+        "volume": 135000,
+        "competition": 55
+      },
+      {
+        "keyword": "ginger bread recipes",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin des",
+        "volume": 90500,
+        "competition": 14
+      },
+      {
+        "keyword": "pumpkin cookies",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "pumpkin cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate chip and pumpkin cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin and cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin chip cookie",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin chips cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin chocolate chunk cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "spice pumpkin pie",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "pumpkin cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "recipe for ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "ginger snaps cookie recipe",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "libby's pumpkin pie recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cake cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "recipes with ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "pfeffernusse",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "pumpkin cakes",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "molasses cookies recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin bars",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin desserts",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "ginger man cookie",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "cinnamon pumpkin rolls",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "desserts using pumpkin",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "ginger men cookie",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "ginger people cookies",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "recipe pumpkin bars",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "pumpkin dessert recipes",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "ginger biscuit recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin dessert ideas",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "pumpkin spice cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin pie with sweetened condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin cupcakes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "condensed milk pumpkin pie",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie using sweetened condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin pie made with condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin cookies snickerdoodles",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin pie using condensed milk",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin snickerdoodle",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin snickerdoodle cookie",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice pumpkin cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin sugar",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "pfeffernusse cookies",
+        "volume": 9900,
+        "competition": 57
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

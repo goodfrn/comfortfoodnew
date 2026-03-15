@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-tuna-salad-remix",
+  "title": "Spicy Tuna Salad Remix",
+  "seed_keywords": [
+    "tuna salad",
+    "tuna salad recipe",
+    "spicy tuna salad",
+    "tuna with dijon mustard",
+    "creamy tuna lunch"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tuna salad recipe",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna fish salad recipe",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna and salad recipe",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna salad salad recipe",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna salad",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "salad and tuna",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna salad on salad",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna salad salad",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna fish recipe",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna pasta salad recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and tuna salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "noodle salad with tuna",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta salad with tuna fish",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna sandwich recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna salad sandwich recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna sandwich",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "tuna fish sandwich recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna fish sandwich ideas",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna for tuna sandwich",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "tuna melt sandwiches recipe",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna salad sandwich ideas",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna sandwich idea",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna macaroni salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna macaroni salad recipe",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni and tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna nicoise salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna nicoise",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "elbow macaroni tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "mac and tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "mac salad recipe with tuna",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni and tuna fish salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni salad with tuna fish",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna macaroni pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "salade nicoise recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "nicoise recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "niswa salad recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna salad sandwich",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna fish salad sandwich",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "best tuna salad recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "best tuna fish salad recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "good tuna salad recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "chopped salad italian",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "great tuna salad recipe",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "mayo and tuna",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "mayo tuna",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "mayo with tuna",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for the best tuna salad",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna salad with egg",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna and egg salad",
+        "volume": 12100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

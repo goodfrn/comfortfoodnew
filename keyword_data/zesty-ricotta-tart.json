@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-ricotta-tart",
+  "title": "Zesty Ricotta Veggie Tart",
+  "seed_keywords": [
+    "ricotta vegetable tart",
+    "puff pastry tart",
+    "zucchini squash tart",
+    "baked ricotta appetizer",
+    "herb vegetable pies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "apple turnover with puff pastry",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "puff pastry apple recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "apple and puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff pastry tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple puff tart",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart using puff pastry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "apple tart with pastry puff",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "puff pastry tart",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "cheese ham puff pastry",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "puff pastry and tomato tart",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "puff pastry tart tomato",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato tart using puff pastry",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "morning pastry recipes",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "peach and puff pastry",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "peach in puff pastry",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "peach pastry puff recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "puff pastry recipe tart",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "fruit puff pastry tart",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "fruit tart using puff pastry",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "asparagus and puff pastry tart",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus in puff pastry tart",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus puff pastry tart",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "pear puff pastry tart",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "pear tart using puff pastry",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "puff pastry savoury tart",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "puff pastry veg tart",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "veg puff pastry tart",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "veg tart puff pastry",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "asparagus and puff pastry",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus in puff pastry",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "dough for tart",
+        "volume": 1300,
+        "competition": 58
+      },
+      {
+        "keyword": "jam puff pastry tarts",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "apple puff pastry tart recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "apple tart recipe using puff pastry",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus tart recipe",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom puff pastry tart",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "onion puff pastry tart",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "pear and puff pastry",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "pear in puff pastry",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "goat cheese in puff pastry",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "goats cheese and puff pastry",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "individual apple tarts with puff pastry",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "palmiers cookies recipe",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "peach and puff pastry recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "peach puff pastry tart",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "puff pastry and goats cheese",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "puff pastry and peach recipes",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "puff pastry pop tart",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "apple filo pastry tart",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "apple filo tart",
+        "volume": 720,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

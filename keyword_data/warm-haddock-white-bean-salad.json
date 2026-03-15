@@ -1,0 +1,267 @@
+{
+  "slug": "warm-haddock-white-bean-salad",
+  "title": "Warm Haddock White Bean Salad",
+  "seed_keywords": [
+    "warm haddock salad",
+    "white bean salad",
+    "air fryer fish",
+    "seafood bean salad",
+    "anchovy white bean"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cannellini",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "catfish fryer",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer fish",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fish in air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "air fryer and fish",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "air fryer fish fry",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fish fry in air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fish in a air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fish in an air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fish in an airfryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fish in the air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fish in the airfryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fried fish in air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fried fish in an air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fried fish in the air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fry fish air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "fry fish in air fryer",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "cooking salmon in air fryer",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "air fried cod",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "air fried cod fish",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry cod",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry cod fish",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry salmon fillets",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "air fryer cod fish",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer salmon fillets",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "airfryer cod fish",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cod fish air fryer",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cod in air fryer",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cod in airfryer",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cod in the air fryer",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cook salmon in the air fryer",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "fry fish recipes",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "air fried cod recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry cod fish recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry cod recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry tilapia",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cod air fryer recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fried tilapia in air fryer",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fryer salmon",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "tilapia in airfryer",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "tilapia in an air fryer",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "tilapia in the air fryer",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "white bean salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry frozen salmon",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "frozen salmon airfryer",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "frozen salmon in airfryer",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer fish recipes",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "air fried frozen fish",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fried tilapia recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry frozen fish",
+        "volume": 6600,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,132 @@
+{
+  "slug": "twisted-blt-stack",
+  "title": "Twisted BLT Stack",
+  "seed_keywords": [
+    "gourmet blt sandwich",
+    "pancetta avocado sandwich",
+    "grilled ciabatta sandwiches",
+    "bacon lettuce tomato",
+    "crispy pancetta lunch"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bacon lettuce",
+        "volume": 673000,
+        "competition": 1
+      },
+      {
+        "keyword": "lettuce and tomato",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "lettuce & tomato",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon lettuce tomato",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon lettuce tomato sandwich",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon lettuce and tomato",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon lettuce and tomato sandwich",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and tomato sandwiches",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "ciabatta grilled cheese",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled cheese on ciabatta",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled cheese with ciabatta bread",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "lettuce and tomato sandwich",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato lettuce sandwich",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon lettuce tomato sandwich near me",
+        "volume": 320,
+        "competition": 24
+      },
+      {
+        "keyword": "gourmet blt sandwich",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon and lettuce sandwich",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon lettuce and tomato sandwich recipe",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "bacon lettuce sandwich",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon lettuce tomato sandwich recipe",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "fancy blt",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled chicken ciabatta",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for bacon lettuce and tomato sandwich",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "avocado bacon lettuce tomato sandwich",
+        "volume": 140,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

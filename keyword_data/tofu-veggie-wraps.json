@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-veggie-wraps",
+  "title": "Tofu Veggie Wraps",
+  "seed_keywords": [
+    "tofu wraps",
+    "grilled vegetable wraps",
+    "sesame tofu recipes",
+    "marinated tofu grilling",
+    "vegetarian wrap recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "veggie wraps",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "veggie wrap recipes",
+        "volume": 9900,
+        "competition": 23
+      },
+      {
+        "keyword": "vegetarian wraps",
+        "volume": 9900,
+        "competition": 23
+      },
+      {
+        "keyword": "sesame seed tofu",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu sesame",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu with sesame seeds",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "vegetarian wrap recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian wrap ideas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "meatless wrap recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian sandwich wraps recipes",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian wrap recipe ideas",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu wraps",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage wraps vegan",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "hummus veggie wrap",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "lettuce tofu wraps",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "lettuce wraps vegetarian",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "sesame tofu recipes",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan wonton wrappers",
+        "volume": 1300,
+        "competition": 25
+      },
+      {
+        "keyword": "veggie tortilla",
+        "volume": 1300,
+        "competition": 78
+      },
+      {
+        "keyword": "veggie tortilla wraps",
+        "volume": 1000,
+        "competition": 39
+      },
+      {
+        "keyword": "vegan lettuce wraps",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu wrap recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "tortilla wraps vegetarian",
+        "volume": 1000,
+        "competition": 39
+      },
+      {
+        "keyword": "garlic sauce for tofu",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled vegetable wraps",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetarian wrap fillings",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "veggie wrap ideas",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and veg wraps",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and veggie wrap",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken vegetable wrap",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken veggie wrap",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled veggie wrap",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ideas for veggie wraps",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "meatless wrap ideas",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe tofu lettuce wraps",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "sesame tofu and broccoli",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "tropical smoothie veggie hummus wrap",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "vegan wraps fillings",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "lettuce wrap ideas vegetarian",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "lettuce wrap recipe vegan",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "lettuce wrap recipe vegetarian",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "sticky sesame tofu",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu tortillas",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "vegetarian lettuce wrap ideas",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy sesame tofu",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic sesame tofu",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "indian vegetarian wrap recipes",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "sesame crusted tofu",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "veg tortilla wrap recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan breakfast wraps",
+        "volume": 390,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-jiffy-cornbread",
+  "title": "Twisted Jiffy Cornbread Muffins",
+  "seed_keywords": [
+    "cornbread muffins",
+    "jalapeno cornbread",
+    "cheese cornbread muffins",
+    "cornbread baking",
+    "spicy cornbread recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cornbread muffins",
+        "volume": 27100,
+        "competition": 31
+      },
+      {
+        "keyword": "jiffy cornbread mix",
+        "volume": 27100,
+        "competition": 70
+      },
+      {
+        "keyword": "jiffy corn muffin mix",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "corn muffins",
+        "volume": 27100,
+        "competition": 31
+      },
+      {
+        "keyword": "jiffy corn muffin mix with corn",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "jiffy cornmeal muffin mix",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "jiffy mix corn muffin mix",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "jiffy mix cornbread mix",
+        "volume": 27100,
+        "competition": 70
+      },
+      {
+        "keyword": "corn muffin recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "corn bread homemade",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "corn bread recipe with jiffy",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "corn bread recipe with jiffy mix",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "corn muffin recipe with corn",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "jiffy corn bread with corn recipe",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "make corn muffins",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "make cornbread muffins",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "mexican cornbread recipe with corn",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican cornbread recipes",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "jalapeno cornbread",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "cornbread with jalapeno peppers",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "jalapeno cornbread recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "corn bread for chili",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "corn bread with jiffy mix and creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "corn muffins with creamed corn and jiffy mix",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "corn muffins with jiffy mix and creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "cornbread and jalapeno recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "cornbread with jiffy mix and creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy corn bread mix with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy corn bread with cream style corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy corn muffin with creamed corn",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "jiffy corn pudding recipes",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for corn pudding with jiffy mix",
+        "volume": 8100,
+        "competition": 10
+      },
+      {
+        "keyword": "cornbread skillet pan",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "sweet potato corn muffins",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "honey cornbread",
+        "volume": 5400,
+        "competition": 71
+      },
+      {
+        "keyword": "buttermilk corn bread",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheddar and jalapeno cornbread",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheddar cheese jalapeno cornbread",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheddar jalapeno corn bread",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cheddar jalapeno cornbread recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "corn bread made with honey",
+        "volume": 5400,
+        "competition": 71
+      },
+      {
+        "keyword": "cornbread with jalapenos and cheddar cheese",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "corn bread muffins",
+        "volume": 4400,
+        "competition": 33
+      },
+      {
+        "keyword": "corn bread from scratch",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "mexican cornbread bake",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "jalapeno corn bread jiffy",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "jalapeno corn muffins jiffy",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "jalapeno cornbread jiffy mix",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "jalapeno cornbread recipe jiffy",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "jiffy corn bread sour cream",
+        "volume": 2900,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

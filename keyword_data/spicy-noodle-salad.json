@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-noodle-salad",
+  "title": "Spicy Noodle Salad Pork Skewers",
+  "seed_keywords": [
+    "pork skewers",
+    "grilled pork marinade",
+    "noodle salad",
+    "asian pork salad",
+    "spicy vermicelli bowls"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "elbow noodle pasta salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "elbow noodle salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta salad elbow macaroni",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "pork chop marinade",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna pasta salad recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "italian noodle salad",
+        "volume": 60500,
+        "competition": 17
+      },
+      {
+        "keyword": "noodle salad with tuna",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna fish and pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna fish noodle salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna salad pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "easy noodle salad",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "marinade for a pork tenderloin",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "marinate pork fillet",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "marinate pork loin",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "buckwheat noodle recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "dill pickle noodle salad",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "italian noodle salad recipe",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "pickle noodle salad",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "rotini noodle salad",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "italian dressing noodle salad",
+        "volume": 22200,
+        "competition": 22
+      },
+      {
+        "keyword": "recipe for cold pasta salad",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "ramen noodle salad",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian noodle salad ramen",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chilled pasta salad",
+        "volume": 18100,
+        "competition": 28
+      },
+      {
+        "keyword": "chilled pasta salad recipe",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "ingredients for noodle salad",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "ramen pasta salad",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "salad using ramen noodles",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork meat marinade",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "noodle salad",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "asian noodle salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "soba noodle salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "moo ping",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "asian pasta salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "asian noodle pasta salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "buckwheat noodle salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese noodle salad",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy noodle salad",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "mediterranean noodle salad",
+        "volume": 12100,
+        "competition": 14
+      },
+      {
+        "keyword": "noodles and salad",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "salad soba",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "ramen noodle salad recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "ramen salad recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "asian ramen noodle salad recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "asian salad with ramen recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "blt noodle salad",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy noodle salad recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "elbow noodle salad recipes",
+        "volume": 9900,
+        "competition": 31
+      },
+      {
+        "keyword": "ramen pasta salad recipe",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for salad made with ramen noodles",
+        "volume": 9900,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

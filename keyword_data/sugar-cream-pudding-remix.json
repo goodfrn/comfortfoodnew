@@ -1,0 +1,267 @@
+{
+  "slug": "sugar-cream-pudding-remix",
+  "title": "Sugar Cream Pudding Remix",
+  "seed_keywords": [
+    "caramel pudding dessert",
+    "brown sugar pudding",
+    "molasses caramel sauce",
+    "cornstarch pudding recipe",
+    "baked pudding cake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caramel pudding",
+        "volume": 33100,
+        "competition": 39
+      },
+      {
+        "keyword": "karamel pudding",
+        "volume": 33100,
+        "competition": 39
+      },
+      {
+        "keyword": "egg pudding caramel",
+        "volume": 27100,
+        "competition": 17
+      },
+      {
+        "keyword": "flan pudding",
+        "volume": 4400,
+        "competition": 12
+      },
+      {
+        "keyword": "corn starch pudding",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cornflour pudding",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel cream pudding",
+        "volume": 2400,
+        "competition": 43
+      },
+      {
+        "keyword": "creme caramel pudding",
+        "volume": 2400,
+        "competition": 43
+      },
+      {
+        "keyword": "pudding creme caramel",
+        "volume": 2400,
+        "competition": 43
+      },
+      {
+        "keyword": "bread pudding caramel",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel custard pudding",
+        "volume": 1900,
+        "competition": 26
+      },
+      {
+        "keyword": "caramel pudding with bread",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "bread pudding and caramel sauce",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "bread pudding caramel sauce",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "apple and caramel pudding",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "apple caramel pudding",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "cornstarch pudding recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "caramel self sauce pudding",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "corn flour pudding recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "corn starch pudding recipes",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "salted caramel budino",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "self saucing pudding caramel",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "apple charlotte pudding",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon baked pudding",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "apple caramel bread pudding",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "caramel pudding sri lanka",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "starch pudding",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "salted caramel pudding",
+        "volume": 480,
+        "competition": 67
+      },
+      {
+        "keyword": "apple self saucing pudding",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "banana caramel pudding",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "bread pudding recipe with caramel sauce",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "caramel egg pudding",
+        "volume": 480,
+        "competition": 11
+      },
+      {
+        "keyword": "crème brûlée pudding",
+        "volume": 480,
+        "competition": 25
+      },
+      {
+        "keyword": "harnik caramel pudding",
+        "volume": 480,
+        "competition": 53
+      },
+      {
+        "keyword": "japanese caramel pudding",
+        "volume": 480,
+        "competition": 30
+      },
+      {
+        "keyword": "karamell pudding",
+        "volume": 390,
+        "competition": 29
+      },
+      {
+        "keyword": "rolo pudding",
+        "volume": 320,
+        "competition": 29
+      },
+      {
+        "keyword": "caramel apple pudding recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "caramel custard pudding recipe",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel pudding ingredients",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel pudding price",
+        "volume": 320,
+        "competition": 41
+      },
+      {
+        "keyword": "caramel sauce for sticky toffee pudding",
+        "volume": 320,
+        "competition": 22
+      },
+      {
+        "keyword": "caramel sticky toffee pudding",
+        "volume": 320,
+        "competition": 22
+      },
+      {
+        "keyword": "caramel treat recipe",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate cornstarch pudding",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake cheesecake pudding",
+        "volume": 320,
+        "competition": 15
+      },
+      {
+        "keyword": "kozy shack flan",
+        "volume": 260,
+        "competition": 75
+      },
+      {
+        "keyword": "brownie pudding cake",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "caramel chocolate pudding",
+        "volume": 260,
+        "competition": 28
+      },
+      {
+        "keyword": "caramel rice pudding",
+        "volume": 260,
+        "competition": 21
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

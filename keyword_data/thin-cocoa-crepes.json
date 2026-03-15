@@ -1,0 +1,267 @@
+{
+  "slug": "thin-cocoa-crepes",
+  "title": "Thin Cocoa Crepes",
+  "seed_keywords": [
+    "chocolate crepes",
+    "thin crepes recipe",
+    "whole wheat crepes",
+    "cocoa breakfast crepes",
+    "crepes with coconut sugar"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate crepes",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "choco crepe",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "chocolate for crepes",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "crepe and chocolate",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "thin pancake recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pancake thin",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "creperie chocolat",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "nuts choco crepe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "banana crepes with nutella",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "crepe with nutella and banana",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "crepe swissmilk",
+        "volume": 1300,
+        "competition": 16
+      },
+      {
+        "keyword": "chocolate crepe near me",
+        "volume": 1000,
+        "competition": 23
+      },
+      {
+        "keyword": "flat pancake recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "thin crepes recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "whole wheat crepes",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate filled crepes",
+        "volume": 880,
+        "competition": 73
+      },
+      {
+        "keyword": "hazelnut crepes",
+        "volume": 880,
+        "competition": 65
+      },
+      {
+        "keyword": "crepes with whole wheat flour",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "whole wheat flour crepes",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "banana and chocolate crepes",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "banana chocolate crepe",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "choco banana crepe",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "crêpe dentelles",
+        "volume": 590,
+        "competition": 48
+      },
+      {
+        "keyword": "chocolate and strawberry crepes",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "chocolate crepe tesco",
+        "volume": 480,
+        "competition": 65
+      },
+      {
+        "keyword": "chocolate crepes with strawberries",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "french chocolate crepe",
+        "volume": 480,
+        "competition": 80
+      },
+      {
+        "keyword": "thin french pancake",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "best thin pancake recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "crepe coklat",
+        "volume": 390,
+        "competition": 10
+      },
+      {
+        "keyword": "thin crepe",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "thin pancake batter",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "thin pancake mix",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "basic thin pancake recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate para crepes",
+        "volume": 320,
+        "competition": 59
+      },
+      {
+        "keyword": "easy thin pancake recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "hershey crepe",
+        "volume": 320,
+        "competition": 33
+      },
+      {
+        "keyword": "hershey's crepes",
+        "volume": 320,
+        "competition": 33
+      },
+      {
+        "keyword": "hersheys crepes",
+        "volume": 320,
+        "competition": 33
+      },
+      {
+        "keyword": "whole wheat crepe recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "godiva crepe",
+        "volume": 260,
+        "competition": 7
+      },
+      {
+        "keyword": "whole wheat flour for crepes",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "aldi chocolate crepe",
+        "volume": 210,
+        "competition": 41
+      },
+      {
+        "keyword": "crepe white chocolate",
+        "volume": 210,
+        "competition": 30
+      },
+      {
+        "keyword": "white chocolate crepe",
+        "volume": 210,
+        "competition": 30
+      },
+      {
+        "keyword": "chocolate chip crepe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate crepe roll",
+        "volume": 170,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate nutella crepes",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "skinny pancake recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "thin pancakes not crepes",
+        "volume": 170,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

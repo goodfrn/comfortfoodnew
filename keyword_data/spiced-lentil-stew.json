@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-lentil-stew",
+  "title": "Spiced Lentil Stew",
+  "seed_keywords": [
+    "lentil stew",
+    "spiced lentils",
+    "lentil soup recipes",
+    "slow cooked lentils",
+    "vegetarian stew dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lentil s",
+        "volume": 673000,
+        "competition": 33
+      },
+      {
+        "keyword": "lentil soup",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "lenteja soup",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "lentil and soup",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "soup of lentils",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "lentil soup recipes",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "lentil bean soup recipe",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "lentil soup ideas",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "pho recipe vietnamese",
+        "volume": 110000,
+        "competition": 3
+      },
+      {
+        "keyword": "red lentil",
+        "volume": 74000,
+        "competition": 77
+      },
+      {
+        "keyword": "red lentil soup",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "lentil red recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "lentil soup red lentils",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "lentil soup with red lentils",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "red lentil bean soup",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "curried lentil",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot and lentil soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot & lentil soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot & red lentil soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot and red lentil soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "carrot soup with lentils",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "lentil stew",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "lentil soup recipe easy",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "red lentil soup recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "simple lentil soup recipe",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "turkish lentil soup",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "curried red lentils",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "curry lentil recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "quick lentil soup recipe",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "turkish lentil stew",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking lentil soup in slow cooker",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot lentil soup",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot lentil stew",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "cullen skink recipes",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "dahl soup",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "dal soup",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "dhal soup",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "lentil and veg soup",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "lentil and vegetable soup",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "lentil slow cooker soup",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "lentil stew in slow cooker",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "lentils in vegetable soup",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooker soup lentil",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken & lentil soup",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and lentil soup",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "lentils in chicken soup",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "traditional lentil soup recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "best lentil soup recipe",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "lentil stew recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon & lentil soup",
+        "volume": 6600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

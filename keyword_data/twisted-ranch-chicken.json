@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-ranch-chicken",
+  "title": "Twisted Ranch Chicken Bake",
+  "seed_keywords": [
+    "chicken casserole",
+    "baked chicken tortillas",
+    "ranch chicken bake",
+    "creamy chicken enchiladas",
+    "tex mex chicken dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken casserole",
+        "volume": 135000,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken casserole recipes",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "a chicken casserole",
+        "volume": 135000,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken and rice casserole",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and rice hotdish",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken rice hotdish",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken broccoli rice casserole",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken broccoli and rice casserole",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken broccoli cheese rice casserole",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken broccoli rice bake",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and rice and broccoli casserole",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and pasta bake",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and broccoli rice bake",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "pasta bake chicken",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken divan",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken broccoli casserole",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken noodle casserole",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken enchilada casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "enchilada casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and noodle casserole",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken noodle soup casserole",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "creamy chicken dishes",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "enchilada hotdish",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker chicken shredded",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken pot pie casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and stuffing casserole",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and rice bake",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken casserole with stuffing",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken rice bake",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "baked chicken and rice casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker chicken casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and dressing casserole",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and rice bake recipes",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken casserole crock pot",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pot pie in casserole dish",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken rice casserole",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and rice casserole recipe",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken rice casserole recipes",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken enchilada white",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "poppy seed chicken",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken cordon bleu casserole",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and broccoli casserole",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken and ritz casserole",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and ritz cracker casserole",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken casserole ritz",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken parm bake",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "enchilada casserole recipes",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "million dollar chicken casserole",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy chicken and rice casserole",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken bacon ranch casserole",
+        "volume": 12100,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

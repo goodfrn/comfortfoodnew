@@ -1,0 +1,267 @@
+{
+  "slug": "wild-rice-chicken-pita",
+  "title": "Wild Rice Chicken Pita",
+  "seed_keywords": [
+    "chicken pita sandwich",
+    "wild rice chicken",
+    "chicken cranberry salad",
+    "stuffed pita pockets",
+    "chicken salad lunch"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "rice chicken soup",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for rice and chicken soup",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and wild rice soup",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken wild rice soup",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken & wild rice soup recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and wild rice recipe soup",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and rice creamy soup",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and wild rice soup creamy",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken rice creamy soup",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wild rice creamy soup",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "creamy chicken and wild rice soup",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "creamy rice and chicken",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy rice chicken",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and rice with mushroom soup",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken mushroom soup rice",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom soup rice and chicken",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "rice chicken and mushroom soup",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken cranberry salad",
+        "volume": 6600,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken and cranberry salad",
+        "volume": 6600,
+        "competition": 20
+      },
+      {
+        "keyword": "cranberries in chicken salad",
+        "volume": 6600,
+        "competition": 20
+      },
+      {
+        "keyword": "cranberry salad with chicken",
+        "volume": 6600,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken & rice soup crock pot",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and rice crock pot soup",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and rice slow cooker soup",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken rice slow cooker soup",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken soup with rice in crock pot",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "rice and chicken soup crock pot",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "rice and chicken soup slow cooker",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker chicken & rice soup",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken lunch ideas",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken salad recipe with cranberries",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cranberry walnut chicken salad",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and cranberry salad recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken cranberries",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken salad with cranberries and walnuts",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken salad with cranberries walnuts",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "cranberries and chicken",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry chicken salad with walnuts",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "cranberry nut chicken salad",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken salad lunch",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "panera chicken and wild rice soup",
+        "volume": 2900,
+        "competition": 34
+      },
+      {
+        "keyword": "chicken and wild rice crock pot soup",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken wild rice crockpot soup",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken wild rice soup crock pot",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken wild rice soup panera",
+        "volume": 2900,
+        "competition": 34
+      },
+      {
+        "keyword": "chicken wild rice soup slow cooker",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker wild rice chicken soup",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "wild rice and chicken soup crock pot",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberry pecan chicken salad",
+        "volume": 2400,
+        "competition": 18
+      },
+      {
+        "keyword": "chicken mushroom soup and rice recipe",
+        "volume": 2400,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

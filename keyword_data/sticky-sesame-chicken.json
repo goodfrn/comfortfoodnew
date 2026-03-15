@@ -1,0 +1,267 @@
+{
+  "slug": "sticky-sesame-chicken",
+  "title": "Sticky Sesame Chicken",
+  "seed_keywords": [
+    "sticky chicken recipe",
+    "asian chicken dinner",
+    "sesame chicken glaze",
+    "soy garlic chicken",
+    "chicken with ketchup sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sticky chicken",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian chicken dishes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic and honey chicken slow cooker",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "honey chicken soy",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "sticky chicken recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "sticky chicken dishes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "soy garlic chicken",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "honey and garlic wings",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "sticky wing",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken soy honey garlic",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "honey and soy chicken marinade",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "honey soy and garlic chicken",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "sticky chicken wings",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "sticky fried chicken",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "honey sticky chicken",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "korean sticky chicken",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "sticky chicky",
+        "volume": 3600,
+        "competition": 23
+      },
+      {
+        "keyword": "sticky wings recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "asian dinners easy",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken sticky rice",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "soy garlic",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "sticky chicken and rice",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "sticky chicken rice",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "honey garlic wing sauce",
+        "volume": 2400,
+        "competition": 32
+      },
+      {
+        "keyword": "asian sticky chicken",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese sticky chicken",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "sticky chicken thigh",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "sticky rib recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken sticky sauce",
+        "volume": 1600,
+        "competition": 26
+      },
+      {
+        "keyword": "chicken wing soy garlic",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken with sticky sauce",
+        "volume": 1600,
+        "competition": 26
+      },
+      {
+        "keyword": "garlic honey chicken stir fry",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic soy chicken wings",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "honey garlic sticky chicken",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sesame sticky chicken",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sticky honey garlic chicken",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sticky sesame chicken",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "honey soy garlic marinade",
+        "volume": 1300,
+        "competition": 14
+      },
+      {
+        "keyword": "bbq sticky chicken",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken sticky wings recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "easy sticky chicken recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "honey garlic recipe for wings",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "honey soy and garlic marinade",
+        "volume": 1300,
+        "competition": 14
+      },
+      {
+        "keyword": "honey soy chicken in slow cooker",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "honey soy crockpot chicken",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "korean fried chicken soy garlic",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "slimming world sticky chicken",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "sticky asian",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "sticky barbecue chicken",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "sticky sweet chicken",
+        "volume": 1300,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-cajun-shrimp-skewers",
+  "title": "Spiced Cajun Shrimp Skewers",
+  "seed_keywords": [
+    "grilled shrimp skewers",
+    "cajun shrimp recipes",
+    "spiced shrimp marinade",
+    "shrimp kabobs",
+    "smoky grilled seafood"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "grilled shrimp on grill",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "cajun shrimp pasta",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun seafood boil recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun dishes with shrimp",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun prawn",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "creole shrimp dishes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe cajun seafood boil",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe etouffee",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "shrimp skewers",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled shrimp marinade",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp etouffee recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "cajun recipes shrimp etouffee",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "prawn creole recipe",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe creole shrimp",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "skewer of shrimp",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "skewers for shrimp",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "shrimp kabobs",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "kabobs with shrimp",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp cajun gumbo",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "cajun shrimp recipes",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp meal",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled shrimp skewers",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp alfredo with fettuccine",
+        "volume": 6600,
+        "competition": 14
+      },
+      {
+        "keyword": "shrimp on barbecue recipes",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp on skewers on the grill",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp on the grill skewers",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "skewers for grilling shrimp",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "cajun recipe seafood",
+        "volume": 5400,
+        "competition": 19
+      },
+      {
+        "keyword": "cajun shrimp sausage gumbo",
+        "volume": 4400,
+        "competition": 11
+      },
+      {
+        "keyword": "prawns on a skewer",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "shrimp kabob recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp skewers recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "cajun pasta recipe shrimp",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp and pasta recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun shrimp recipes with pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta shrimp and sausage",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta shrimp sausage",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with sausage and shrimp",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for shrimp kebabs",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "sausage & shrimp pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp kebab recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp pasta with sausage",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp scures recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "cajun alfredo shrimp",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun fettuccine alfredo with shrimp",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp fettuccine alfredo cajun",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp marinades recipes",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "boiled cajun shrimp recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cajun creamy shrimp pasta",
+        "volume": 2400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

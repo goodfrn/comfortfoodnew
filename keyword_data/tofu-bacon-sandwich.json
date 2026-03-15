@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-bacon-sandwich",
+  "title": "Tofu Bacon Sandwich",
+  "seed_keywords": [
+    "vegetarian sandwich",
+    "tofu bacon",
+    "marinated tofu recipe",
+    "tofu lunch ideas",
+    "tofu blt sandwich"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tofu marinade",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "sandwich vege",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian sandwich",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "vegan sandwiches",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "meatless sandwiches",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "vegan sandwich ideas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetarian sandwich ideas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "veggie sandwich",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled vegetarian sandwich",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "veggie sub",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "cheese veggie sandwich",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese sandwich vegan",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegan sandwich cheese",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian cheese sandwich",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian grilled cheese",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "tofu bacon",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "marinated tofu recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "chick fil a vegan options",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and tofu",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "marinade recipe for tofu",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "marinated tofu ideas",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes with marinated tofu",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan chick fil a options",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan options at chick fil a",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian breakfast sandwich",
+        "volume": 2900,
+        "competition": 32
+      },
+      {
+        "keyword": "chick fil a vegan",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan banh mi near me",
+        "volume": 2900,
+        "competition": 28
+      },
+      {
+        "keyword": "breakfast sandwich vegan",
+        "volume": 2900,
+        "competition": 32
+      },
+      {
+        "keyword": "club sandwich veg",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "meatless panini",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "panini sandwich vegetarian",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "panini veg",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "panini vegetarian",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian panini sandwich",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "seasoned tofu",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "basic tofu marinade",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "best marinade for tofu",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "easy marinade for tofu",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "good marinade for tofu",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "meatless sandwich ideas",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "simple marinade for tofu",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan sandwich fillings",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "vegetarian sandwich fillings",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "fillings for vegan sandwiches",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "grilled cheese and veggie sandwich",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese veg sandwich",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "meatless sandwich fillings",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "veggie club",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu lunch ideas",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "best vegetarian sandwiches",
+        "volume": 1600,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

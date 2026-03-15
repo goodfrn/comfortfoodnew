@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-cuban-sliders",
+  "title": "Smoky Cuban Sliders",
+  "seed_keywords": [
+    "cuban sandwich",
+    "pulled pork sliders",
+    "smoked pork sandwich",
+    "gruyere pork sliders",
+    "cuban sliders"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cuban sandwich",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "cuba cuba sandwich",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "cuban sand",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "cubano sandwiches",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "cubano's",
+        "volume": 110000,
+        "competition": 9
+      },
+      {
+        "keyword": "cuban sandwich near me",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "cubano sandwiches near me",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "cuban bread pan cubano",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "cuban sandwich food near me",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "cubano bread",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "pan cubano bread",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "sandwich cubani",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "cubano sandwich",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork smoked",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "the cubano",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "cuban sandwich bread",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cuban bread for cuban sandwich",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cuban bread for sandwiches",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cubano sandwich bread",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "pulled pork sliders",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue pulled pork sliders",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork recipe smoker",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork slider",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "shredded pork sliders",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "slider pulled pork",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "enriqueta sandwich shop",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "cubanos near me",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "best cuban sandwich near me",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "havana sandwich shop",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "best cubano sandwiches near me",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "good cuban sandwich near me",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "cubano near me",
+        "volume": 3600,
+        "competition": 19
+      },
+      {
+        "keyword": "medianoche sandwich",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "pork sliders",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "pulled pork sliders recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "bbq pulled pork sliders recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cuban sandwich shops",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "cubano cheese",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "shredded pork sliders recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cuban bread rolls",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "el cubano to go",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cuban sliders",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cuban sandwich factory",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "cuban roast pork",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "the floridian cuban sandwich",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "aroma cafe cuban food and sandwiches",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "cuban sandwich to go",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "cubano style",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "traditional cuban sandwich",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "traditional cubano",
+        "volume": 1600,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

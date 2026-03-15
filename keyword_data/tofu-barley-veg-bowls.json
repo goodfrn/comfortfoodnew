@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-barley-veg-bowls",
+  "title": "Tofu Barley Veg Bowls",
+  "seed_keywords": [
+    "tofu bowl recipes",
+    "barley grain bowls",
+    "seared tofu glaze",
+    "roasted root vegetables",
+    "vegan barley bowl"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "root veggies",
+        "volume": 74000,
+        "competition": 14
+      },
+      {
+        "keyword": "parsnip dish",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "bake parsnips",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "baked carrots and parsnips",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "carrot and parsnip roast",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "carrot parsnip roast",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "parsnips roasting",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "roast parsnips & carrots",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "roasted root vegetables",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "bake root vegetables",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "baked root veggies",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes for rutabagas",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "roast root veg",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "honey roast parsnips",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey baked parsnips",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey roast carrots parsnips",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "parsnips how to prepare",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots and parsnips with honey",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted root vegetables recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked root vegetable recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for roasted root veggies",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with roasted root vegetables",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted root vegetable dish",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu bowl",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "bowl of tofu",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "parsnips recipes roasted",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "roast roots",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "celeriac roast",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cook a turnip",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "root vegetable recipes",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot parsnips",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "root veg recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "root vegetable dish",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot & parsnip recipes",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "carrot and parsnip recipe",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "carrot and parsnip recipes roasted",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "cook parsnips",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "honey roast carrots and parsnips",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "parsnip and carrot recipes roasted",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "parsnips and carrots roasted recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "parsnips with honey",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for roast carrots and parsnips",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "honey glazed carrots & parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed carrots and parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed carrots parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed parsnip and carrot",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu bowl recipes",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "best way cook parsnips",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "best way to make parsnips",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "best way to prepare parsnips",
+        "volume": 1600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

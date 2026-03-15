@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-korean-beef",
+  "title": "Spicy Korean Beef Twist",
+  "seed_keywords": [
+    "korean beef rice",
+    "ground beef stir fry",
+    "spicy korean beef",
+    "sesame beef recipe",
+    "beef with ginger garlic"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "korean beef bowl",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "beef bowl recipes",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "korean beef bowl recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for korean beef bowl",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "ground beef recipes korean",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "korean ground beef dish",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "korean beef ground",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "korean beef with ground beef",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "ground beef stir fry",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "korean bowl",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "korean rice bowls",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "ground meat stir fry",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "hamburger meat stir fry",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fry using ground beef",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bulgogi bowl",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef bowl",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "beef and broccoli with ground beef",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "beef mince stir fry",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "beef with sesame",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "beef with sesame seeds",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "mince beef stirfry",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "mince meat stir fry",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "mince stir fry",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "minced meat stir fry",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fried minced beef",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry beef mince",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry with beef mince",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "korean beef rice",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "ground beef recipes stir fry",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "hamburger stir fry recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "korean beef and rice",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "korean ground beef bowl",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "korean rice with beef",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "bulgogi and rice",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "bulgogi on rice",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "bulgogi rice",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cabbage and ground beef stir fry",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage ground beef stir fry",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "ground beef and rice bowl",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef rice bowl",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "korean beef and rice bowl",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "korean beef rice bowl",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "mince and cabbage stir fry",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "asian beef bowl",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "bulgogi rice bowl",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "ground beef bowl recipes",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean ground beef stir fry",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli and ground beef stir fry",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli ground beef stir fry",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "ground beef and broccoli stir fry",
+        "volume": 1900,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

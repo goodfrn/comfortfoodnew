@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-sweet-potato-bake",
+  "title": "Twisted Sweet Potato Bake",
+  "seed_keywords": [
+    "sweet potato casserole",
+    "baked sweet potato",
+    "sweet potato marshmallow",
+    "pecan sweet potato bake",
+    "sweet potato pineapple"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sweet potato casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "casserole with sweet potatoes",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "potato sweet potato casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet sweet potato casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet tater casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "baked potato sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "baking with sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "potato and sweet potato bake",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "sweet potato casserole recipe",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole dish",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato casserole ideas",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet roasted sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "baked sweet potatoes in oven",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "sweet potato baked in the oven",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "home potato fries",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potatoes in microwave oven",
+        "volume": 60500,
+        "competition": 33
+      },
+      {
+        "keyword": "baked sweet potato recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "sweet potatoes in oven",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "roasting sweet potatoes in oven",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "potato casserole",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted sweet potato recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "making sweet potato fries",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "fried sweet potato fries recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "cook sweet potato fries",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "potatoes for casserole",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted sweet potato dish",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweet baked",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet potato french fries recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "sweet potato frie recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipes using yams",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "sweet potato marshmallow",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato casserole with marshmallows",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato souffle",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "marshmallow and sweet potato",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "marshmallow and sweet potato casserole",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "marshmallow with sweet potato",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato mallow casserole",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potatoes and marshmellow",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "baked sweet potato fries",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "baked sweet potato french fries",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "potato casserole ideas",
+        "volume": 18100,
+        "competition": 14
+      },
+      {
+        "keyword": "sweet potato wedges",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "ruth chris sweet potato casserole",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "best way to prepare sweet potatoes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "best way to cook a sweet potato",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "best ways to make sweet potatoes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "chris ruth sweet potato casserole",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "potato bake with sweet potato",
+        "volume": 14800,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

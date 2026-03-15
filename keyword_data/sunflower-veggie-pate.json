@@ -1,0 +1,267 @@
+{
+  "slug": "sunflower-veggie-pate",
+  "title": "Sunflower Veggie Pâté",
+  "seed_keywords": [
+    "vegan pâté",
+    "plant based loaf",
+    "sunflower seed spread",
+    "vegetable terrine baking",
+    "gluten free appetizer"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "gluten free hors d oeuvres",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "gluten free horderves",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "gluten free hor d oeuvres",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "gluten free hor dourves",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "glutenfree appetizers",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "hors d oeuvres gluten free",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "gluten free dairy free appetizers",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten and dairy free appetizers",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten dairy free appetizers",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten free and dairy free appetizers",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "appetizers gluten and dairy free",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "dairy free horderves",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "dairy free hors d oeuvres",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "gf dairy free appetizers",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten & dairy free appetizers",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten and dairy free hors d oeuvres",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten dairy free hors d oeuvres",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten free dairy free hors d oeuvres",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "non dairy gluten free appetizers",
+        "volume": 2400,
+        "competition": 23
+      },
+      {
+        "keyword": "gluten free finger foods",
+        "volume": 1600,
+        "competition": 70
+      },
+      {
+        "keyword": "gluten free appetizer recipes",
+        "volume": 1600,
+        "competition": 26
+      },
+      {
+        "keyword": "gluten free appetizer ideas",
+        "volume": 1600,
+        "competition": 26
+      },
+      {
+        "keyword": "gluten free horderves recipes",
+        "volume": 1600,
+        "competition": 26
+      },
+      {
+        "keyword": "gluten free hors d oeuvres recipes",
+        "volume": 1600,
+        "competition": 26
+      },
+      {
+        "keyword": "gluten free party snacks",
+        "volume": 1000,
+        "competition": 46
+      },
+      {
+        "keyword": "easy gluten free appetizers",
+        "volume": 1000,
+        "competition": 26
+      },
+      {
+        "keyword": "easy gluten free hors d oeuvres",
+        "volume": 1000,
+        "competition": 26
+      },
+      {
+        "keyword": "recipe for vegan pate",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "gluten free party food recipes",
+        "volume": 880,
+        "competition": 31
+      },
+      {
+        "keyword": "gluten free spinach and artichoke dip",
+        "volume": 880,
+        "competition": 15
+      },
+      {
+        "keyword": "gluten free appetizer",
+        "volume": 720,
+        "competition": 25
+      },
+      {
+        "keyword": "vegan mushroom pate",
+        "volume": 720,
+        "competition": 76
+      },
+      {
+        "keyword": "best gluten free appetizers",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "gluten free party appetizers",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "best gluten free hors d oeuvres",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "gluten free stuffed mushroom",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "good gluten free appetizers",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "great gluten free appetizers",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "vegetarian appetizers gluten free",
+        "volume": 590,
+        "competition": 22
+      },
+      {
+        "keyword": "gluten free christmas appetizers",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "appetizers for christmas gluten free",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "christmas appetizer gluten free",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "christmas gluten free appetizers",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "gluten free appetizers christmas",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "gluten free christmas hors d oeuvres",
+        "volume": 480,
+        "competition": 7
+      },
+      {
+        "keyword": "little smokies gluten free",
+        "volume": 480,
+        "competition": 24
+      },
+      {
+        "keyword": "gluten free super bowl snacks",
+        "volume": 390,
+        "competition": 29
+      },
+      {
+        "keyword": "gf appetizers",
+        "volume": 390,
+        "competition": 26
+      },
+      {
+        "keyword": "gluten free starters and nibbles",
+        "volume": 390,
+        "competition": 53
+      },
+      {
+        "keyword": "gluten free thanksgiving appetizers",
+        "volume": 390,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

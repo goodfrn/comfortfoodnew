@@ -1,0 +1,267 @@
+{
+  "slug": "vanilla-white-chocolate-brownies",
+  "title": "Vanilla White Chocolate Brownies",
+  "seed_keywords": [
+    "white chocolate brownies",
+    "brownie recipes",
+    "cream cheese frosting",
+    "vanilla butter brownies",
+    "white chocolate desserts"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "brownies",
+        "volume": 2240000,
+        "competition": 28
+      },
+      {
+        "keyword": "brownie recipes",
+        "volume": 550000,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "creamcheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese cream frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese icing with cream",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "frosting using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "icing using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting recipe",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "brownies recept",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "cosmic brownies",
+        "volume": 90500,
+        "competition": 77
+      },
+      {
+        "keyword": "chocolate brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "cocoa brownies",
+        "volume": 90500,
+        "competition": 31
+      },
+      {
+        "keyword": "easy brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "simple brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie cookies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "cookies and brownies",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "blondie recipe",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "easy chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "quick brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "easy to make brownies",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "basic chocolate brownie recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "brownie recipe with cocoa",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese icing",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "brownie cake",
+        "volume": 60500,
+        "competition": 62
+      },
+      {
+        "keyword": "fudgy brownies",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "brauni cake",
+        "volume": 60500,
+        "competition": 62
+      },
+      {
+        "keyword": "brownie pudding ina garten",
+        "volume": 60500,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate brownie fudge",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "fudgy chocolate brownie",
+        "volume": 60500,
+        "competition": 22
+      },
+      {
+        "keyword": "best brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "fudgy brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "brookie recipe",
+        "volume": 49500,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato brownies",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "best chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "fudgy chocolate brownie recipe",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "great brownie recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato chocolate brownie",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "home made brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade chocolate brownies",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "buckeye brownies",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "black bean brownies",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese frosting for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

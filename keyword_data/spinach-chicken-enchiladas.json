@@ -1,0 +1,267 @@
+{
+  "slug": "spinach-chicken-enchiladas",
+  "title": "Spinach Chicken Enchiladas",
+  "seed_keywords": [
+    "chicken enchiladas",
+    "spinach chicken casserole",
+    "ground chicken mexican",
+    "baked chicken dinner",
+    "enchilada casserole"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken enchilada recipe",
+        "volume": 165000,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken enchiladas",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken and enchiladas",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken enc",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken for chicken enchiladas",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "sheetpan dinner",
+        "volume": 49500,
+        "competition": 25
+      },
+      {
+        "keyword": "dinner recipes using chicken",
+        "volume": 40500,
+        "competition": 35
+      },
+      {
+        "keyword": "enchilada casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken enchilada casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "casserole enchiladas chicken",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and enchilada casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "enchilada hotdish",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "ideas for chicken meals",
+        "volume": 33100,
+        "competition": 22
+      },
+      {
+        "keyword": "chicken enchilada soup",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken enchilada tortilla soup",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken enchiladas with soup",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "white chicken enchiladas",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "tortillas enchiladas",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "cheese for enchiladas",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy chicken enchilada recipe",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "enchilada casserole recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "simple chicken enchilada recipe",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "basic chicken enchilada recipe",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "enchilada bake recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "enchilada hotdish recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes for enchilada casseroles",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cook chicken dishes",
+        "volume": 12100,
+        "competition": 24
+      },
+      {
+        "keyword": "enchilada soup",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "green enchiladas",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "white chicken enchilada recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "easy chicken casserole dish",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "roasted chicken dinners",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "sour cream chicken enchiladas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "green chili chicken enchiladas",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "green chicken enchiladas",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "green enchilada recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "salsa verde enchiladas",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "chicken and sour cream enchiladas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken crockpot enchiladas",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy sour cream chicken enchiladas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "enchilada en salsa verde",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "enchilada recipe salsa verde",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "enchiladas in green sauce",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "green salsa enchiladas",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "salsa verde enchilada recipe",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "sour cream cream of chicken enchiladas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "easy chicken enchiladas",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "bake enchiladas",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "green chile chicken enchiladas",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken enchilada soup recipe",
+        "volume": 6600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

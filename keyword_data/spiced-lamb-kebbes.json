@@ -1,0 +1,102 @@
+{
+  "slug": "spiced-lamb-kebbes",
+  "title": "Spiced Lamb Kebbés",
+  "seed_keywords": [
+    "lamb kebbé",
+    "middle eastern lamb",
+    "stuffed lamb cones",
+    "fried lamb bulgur",
+    "spiced walnut lamb"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lamb dishes middle eastern",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "lamb middle eastern recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "middle eastern lamb",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "arab lamb dishes",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "arab lamb recipes",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "lebanese lamb",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "arab lamb",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "middle eastern lamb ottolenghi",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern minced lamb recipes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "lebanese lamb shawarma recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern lamb leg",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern leg of lamb",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern lamb chop recipe",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "middle eastern lamb roast",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern leg of lamb recipe",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "ground lamb middle eastern recipes",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "ground lamb recipes middle eastern",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

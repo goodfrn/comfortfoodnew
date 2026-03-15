@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-fiesta-chicken",
+  "title": "Spiced Fiesta Chicken",
+  "seed_keywords": [
+    "one pot chicken",
+    "chicken and rice",
+    "mexican chicken skillet",
+    "seared chicken thighs",
+    "spiced fiesta chicken"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken fried rice",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "hainanese chicken rice",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "hainanese chicken",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken for chicken fried rice",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken rice rice",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "fried chicken fried rice",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "hainan rice",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "hainanese chicken and rice",
+        "volume": 165000,
+        "competition": 2
+      },
+      {
+        "keyword": "rice with fried chicken",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and rice dishes",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken dishes with rice",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken rice",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "recipes for slow cooker chicken breast",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and rice",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and rice casseroles",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken casseroles with rice",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "making chicken fried rice",
+        "volume": 90500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken thigh crockpot recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "slow cooker recipes for chicken thighs",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken broccoli rice bake",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and rice soup",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "claypot chicken rice",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "baked chicken and rice",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "crockpot chicken and rice",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken rice bake",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker chicken and rice",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken over rice",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and rice baked",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken rice crock pot",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken rice oven",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken rice slow cooker",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "singaporean chicken rice",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot dinner ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "one pot chicken and rice",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot supper ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "easy chicken and rice dishes",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "1 pot chicken and rice",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken & rice one pot",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and rice one pot dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken one pot rice",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken with rice one pot",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "easy chicken and rice meals",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "one pot chicken rice dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot chicken with rice",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot rice and chicken",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot rice and chicken dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "rice and chicken one pot",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken rice soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken paella",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken curry and rice",
+        "volume": 18100,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

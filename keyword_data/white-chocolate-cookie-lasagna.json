@@ -1,0 +1,267 @@
+{
+  "slug": "white-chocolate-cookie-lasagna",
+  "title": "White Chocolate Cookie Lasagna",
+  "seed_keywords": [
+    "no bake desserts",
+    "chocolate lasagna dessert",
+    "cream cheese pudding",
+    "oreo cookie crust",
+    "white chocolate dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "no bake cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake recipe no bake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no cook cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "bakeless cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheese cake without baking",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheese cake without oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake no oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake unbaked",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheese cakes",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheesecake dessert",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no cook cheesecake recipe",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "none bake cheese cake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheesecake dessert recipes",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for unbaked cheesecake",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake recipe",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia cream cheese no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "lemon square cake",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "no bake philadelphia cream cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philly cheesecake recipe no bake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "keto desserts no bake",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "keto no bake dessert",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "no bake keto dessert",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "baked cheese cake",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "eclair cake",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "bake cheesecake recipe",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "no bake desserts",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "3 ingredient no bake cheesecake",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "no bake lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake sweets",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "bakeless desserts",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "cheesecake recipe lemon no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "citrus cheesecake no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "dessert without baking",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "dessert without oven",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "unbaked desserts",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "uncooked lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon icebox pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "white chocolate cheesecake",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "white chocolate raspberry cake",
+        "volume": 14800,
+        "competition": 29
+      },
+      {
+        "keyword": "white chocolate and raspberry cake",
+        "volume": 14800,
+        "competition": 29
+      },
+      {
+        "keyword": "white chocolate and raspberry cheesecake",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chocolate lasagna",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "ice box lemon pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "ice box pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "raspberry cake with white chocolate",
+        "volume": 14800,
+        "competition": 29
+      },
+      {
+        "keyword": "raspberry cheesecake with white chocolate",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "white choc and raspberry cake",
+        "volume": 14800,
+        "competition": 29
+      },
+      {
+        "keyword": "white choc and raspberry cheesecake",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "white chocolate and cheesecake",
+        "volume": 14800,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

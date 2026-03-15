@@ -1,0 +1,97 @@
+{
+  "slug": "strawberry-tart-sundae",
+  "title": "Strawberry Tart Sundae Remix",
+  "seed_keywords": [
+    "berry sundae",
+    "vanilla sundae toppings",
+    "homemade berry compote",
+    "raspberry strawberry dessert",
+    "tart berry crumble"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pavlova with raspberries",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "berry sundae",
+        "volume": 590,
+        "competition": 17
+      },
+      {
+        "keyword": "raspberry and strawberry cake",
+        "volume": 320,
+        "competition": 19
+      },
+      {
+        "keyword": "raspberry and strawberry pie",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry strawberry cake",
+        "volume": 320,
+        "competition": 19
+      },
+      {
+        "keyword": "raspberry strawberry pie",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry strawberry dessert",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "berry crumble tart",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "dessert with strawberries and raspberries",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "desserts with raspberries and strawberries",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "raspberry and strawberry cheesecake",
+        "volume": 170,
+        "competition": 12
+      },
+      {
+        "keyword": "raspberry and strawberry crumble",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry strawberry cheesecake",
+        "volume": 170,
+        "competition": 12
+      },
+      {
+        "keyword": "strawberry and raspberry cheesecake",
+        "volume": 170,
+        "competition": 12
+      },
+      {
+        "keyword": "strawberry raspberry crumble",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "sams berry sundae",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "tomato-bacon-pasta",
+  "title": "Tomato Bacon Pasta",
+  "seed_keywords": [
+    "pasta with bacon",
+    "tomato bacon pasta",
+    "bacon pasta sauce",
+    "sautéed onion pasta",
+    "canned tomato pasta"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken bacon ranch pasta",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon ranch chicken and pasta",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and bacon ranch pasta",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta chicken bacon ranch",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "carbonara recipe simple",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and bacon pasta",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon & chicken pasta",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "carbonara creamy",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "chicken with bacon pasta",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy pasta carbonara",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "pasta carbonara cream",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "bacon carbonara",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "pasta carbonara bacon",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "spaghetti carbonara with bacon",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon and pasta carbonara",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon in carbonara",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon macaroni and cheese",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "bacon and pasta",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon pasta recipes",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and pasta dish",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and pasta recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon pasta dish",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon carbonara recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "bacon & mushroom pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and mushroom pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon spaghetti carbonara recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "pasta bacon and mushroom",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe carbonara bacon",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken bacon carbonara",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon & pea pasta",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and cream pasta",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and pea pasta",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon cream pasta",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon creamy pasta",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon pasta peas",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "carbonara chicken and bacon",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and bacon spaghetti carbonara",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken bacon spaghetti carbonara",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy pasta and bacon",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with bacon peas",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti carbonara with chicken and bacon",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta with bacon",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato bacon pasta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and tomato pasta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and tomato pasta recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon tomato pasta recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and bacon creamy pasta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken bacon cream pasta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken bacon creamy pasta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy chicken pasta with bacon",
+        "volume": 3600,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

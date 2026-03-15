@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-kraut-soup",
+  "title": "Smoky Kraut Soup",
+  "seed_keywords": [
+    "kielbasa potato soup",
+    "sauerkraut soup",
+    "sausage cabbage soup",
+    "potato soup recipes",
+    "tangy kielbasa kraut"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "potato soup recipes",
+        "volume": 301000,
+        "competition": 8
+      },
+      {
+        "keyword": "potato soap recipe",
+        "volume": 301000,
+        "competition": 8
+      },
+      {
+        "keyword": "tater soup recipe",
+        "volume": 301000,
+        "competition": 8
+      },
+      {
+        "keyword": "potato soup",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "and potato soup",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "potato for soup",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "potatoes for potato soup",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "tato soup",
+        "volume": 165000,
+        "competition": 30
+      },
+      {
+        "keyword": "leek and potato soup",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "leek and tattie soup",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "potato leek soup",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "potato leek soup recipe",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "sweet potato soup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "loaded baked potato soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "potato soup crock pot",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker potato soup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "potato and sweet potato soup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "potato sweet potato soup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "sweet potato and soup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "zuppa toscana soup",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "baked potato soup",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "leek and potato soup recipe",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "loaded potato soup",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "ham and potato soup",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "ham & potato soup",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "potato soup recipe easy",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "potato soup recipe crock pot",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy to make potato soup",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "baked potato soup recipe",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "loaded potato",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for cream of potato soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon and potato soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon potato soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes with cream of potato soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "sweet potato soup recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "loaded potato soup recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken & potato soup",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and potato soup",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy potato mash",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "potato and sausage soup",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "potato sausage soup",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato soup ideas",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "toscana soup",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "easy potato soup",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "ham and potato soup recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "ham potato soup recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "sausage and potato",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream of potato soup",
+        "volume": 9900,
+        "competition": 22
+      },
+      {
+        "keyword": "simple potato soup recipe",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "carrot and sweet potato soup",
+        "volume": 9900,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

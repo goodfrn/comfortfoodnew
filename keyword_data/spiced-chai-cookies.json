@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-chai-cookies",
+  "title": "Spiced Chai Cookies Remix",
+  "seed_keywords": [
+    "chai spiced cookies",
+    "chai cookies",
+    "spiced cookie recipes",
+    "homemade chai cookies",
+    "cinnamon cookie baking"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ginger cookies recipe",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "ginger bread recipe cookie",
+        "volume": 165000,
+        "competition": 5
+      },
+      {
+        "keyword": "ginger cookies",
+        "volume": 135000,
+        "competition": 55
+      },
+      {
+        "keyword": "ginger bread recipes",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "cookie recipe ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes with ginger snaps",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "pfeffernusse",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "molasses cookies recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "ginger man cookie",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "ginger men cookie",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "ginger people cookies",
+        "volume": 18100,
+        "competition": 72
+      },
+      {
+        "keyword": "ginger biscuit recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin spice cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "ginger molasses spice cookies",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "pumpkin cookies snickerdoodles",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cookies with pumpkin spice",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "pumpkin snickerdoodles",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice pumpkin cookies",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "cookie pfeffernusse",
+        "volume": 9900,
+        "competition": 57
+      },
+      {
+        "keyword": "pumpkin pie cookies",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "spice cookies",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "cookie spice",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "cookies with spices",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "easy ginger bread cookies",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy ginger cookie",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy ginger cookie recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "ginger soft cookies recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "simple ginger bread recipe",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "simple ginger cookie recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "simple ginger cookies",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "soft ginger cookie recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "soft ginger spice cookies",
+        "volume": 8100,
+        "competition": 53
+      },
+      {
+        "keyword": "spices cookie",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "taylor swift chai cookies",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "chai cookies",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "gluten free ginger cookies",
+        "volume": 6600,
+        "competition": 66
+      },
+      {
+        "keyword": "autumn cookies recipes",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "best ginger cookie recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "chai tea cookie",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cinnamon and sugar cookies",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "cinnamon sugar cookie recipe",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "cookie chai",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cookies cinnamon sugar",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "frosted ginger cookie",
+        "volume": 6600,
+        "competition": 56
+      },
+      {
+        "keyword": "ginger bread cookie icing",
+        "volume": 6600,
+        "competition": 56
+      },
+      {
+        "keyword": "ginger cookie icing",
+        "volume": 6600,
+        "competition": 56
+      },
+      {
+        "keyword": "ginger frosted cookies",
+        "volume": 6600,
+        "competition": 56
+      },
+      {
+        "keyword": "iced ginger cookies",
+        "volume": 6600,
+        "competition": 56
+      },
+      {
+        "keyword": "cinnamon cookies recipes",
+        "volume": 5400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "slow-pork-confit",
+  "title": "Slow Pork Confit",
+  "seed_keywords": [
+    "pork confit",
+    "slow cooked pork",
+    "pork in fat",
+    "rendered goose fat cooking",
+    "mediterranean pork dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "slow cooker pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker bbq pulled pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq pulled pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "barbecue pulled pork slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq shredded pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot shredded pork",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork i slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork slowcooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "shredded pork in slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooked pulled pork crock pot",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooked pulled pork slow cooker",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "pulled pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "pulled pork crock pot recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork recipe slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "bbq pulled pork crock pot recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "shredded pork recipes slow cooker",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot pork chops",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker pork chops",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "crock pot pork loin chops",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "pork chops on slow cooker",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "pork loin chop slow cooker",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cook pork chops in slow cooker",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooked pork chops in crock pot",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooked pork chops in slow cooker",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for crock pot pork chops",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker pork chop recipes",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "pork tenderloin crock pot",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooker pork tenderloin",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "slow cooked pork shoulder",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "boston butt in a slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "cook pork shoulder in slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking pork tenderloin in slow cooker",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pork but",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot pork butt",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot tenderloin",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pork but slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pork butt in a slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pork fillet in slow cooker",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pork loin chop recipes crock pot",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "pork loin chop recipes slow cooker",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cook pork shoulder crock pot",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooked pork shoulder in slow cooker",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pork shoulder meals",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker riblets",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "pulled pork crock pot",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "pork roast in crock pot",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pork roast",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pork loin crock pot recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pork loin recipes",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pork tenderloin crock pot recipes",
+        "volume": 33100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

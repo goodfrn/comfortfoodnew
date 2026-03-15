@@ -1,0 +1,267 @@
+{
+  "slug": "vegan-pistachio-biscotti",
+  "title": "Vegan Pistachio Lemon Biscotti",
+  "seed_keywords": [
+    "vegan biscotti",
+    "pistachio lemon cookies",
+    "vegan cookies",
+    "twice baked cookies",
+    "pistachio biscotti"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegan chocolate chip cookies",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate chocolate chip cookies vegan",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "vegan chip cookies",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "vegan choc chip biscuits",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "vegan chocolate chip biscuits",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "vegansk chocolate chip cookies",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "vegan peanut butter cookies",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "vegan oatmeal cookies",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "peanut butter cookies no eggs",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "oat cookies vegan",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "oats cookies vegan",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "peanut butter cookies no butter no eggs",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan oat biscuits",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan oat meal cookies",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan oatmeal biscuits",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan pb cookies",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "vegetarian peanut butter cookies",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "vegan sugar cookies",
+        "volume": 5400,
+        "competition": 23
+      },
+      {
+        "keyword": "vegetarian sugar cookies",
+        "volume": 5400,
+        "competition": 23
+      },
+      {
+        "keyword": "vegan shortbread",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "vegan shortbread cookies",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "vegan short bread",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "vegan shortbread biscuits",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "vegan christmas cookies",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan gingerbread cookies",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan holiday cookies",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan christmas biscuits",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan ginger cookies",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan cookies for christmas",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "vegan ginger bread cookies",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan gingerbread man cookies",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan xmas cookies",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "plant based cookies",
+        "volume": 2900,
+        "competition": 32
+      },
+      {
+        "keyword": "eggless peanut butter cookies",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry pistachio biscotti",
+        "volume": 2900,
+        "competition": 37
+      },
+      {
+        "keyword": "vegan cookie butter",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "biscotti pistachio and cranberry",
+        "volume": 2900,
+        "competition": 37
+      },
+      {
+        "keyword": "chickpea and chocolate chip cookies",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan oatmeal raisin cookies",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "vegan snickerdoodles",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan snickerdoodle cookies",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "dairy and sugar free cookies",
+        "volume": 2400,
+        "competition": 32
+      },
+      {
+        "keyword": "oat and raisin cookies vegan",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "oat raisin cookies vegan",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "snickerdoodle cookies vegan",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan oat and raisin cookies",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "vegan chocolate cookies",
+        "volume": 1900,
+        "competition": 20
+      },
+      {
+        "keyword": "chocolate chip cookies egg free",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "eggless cookies oatmeal",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "eggless oat cookies",
+        "volume": 1900,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

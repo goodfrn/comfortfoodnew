@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-tomato-tuna-sauce",
+  "title": "Smoky tomato tuna sauce",
+  "seed_keywords": [
+    "tuna pasta sauce",
+    "smoky tomato sauce",
+    "charred tomato tuna",
+    "mediterranean tuna pasta",
+    "caper tuna pasta"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pasta tomato sauce tuna",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with tomato sauce and tuna",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti and tuna",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "carbonara recipe tuna",
+        "volume": 3600,
+        "competition": 18
+      },
+      {
+        "keyword": "pesto and tuna",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "pesto tuna",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "tuna and cream pasta",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna spaghetti carbonara recipe",
+        "volume": 3600,
+        "competition": 18
+      },
+      {
+        "keyword": "tuna pasta carbonara",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "carbonara with tuna",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "spaghetti carbonara tuna",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna pasta sauce",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "pasta and tuna sauce",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "pasta sauce tuna",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "pesto pasta recipe tuna",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "puttanesca tuna",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti sauce with tuna",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "tuna and pasta sauce",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "tuna fish pasta sauce",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "alfredo tuna",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "alfredo with tuna",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "fettuccine alfredo tuna",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna and alfredo",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "spaghetti and tuna sauce",
+        "volume": 1300,
+        "competition": 54
+      },
+      {
+        "keyword": "spaghetti with tuna and tomato sauce",
+        "volume": 1300,
+        "competition": 54
+      },
+      {
+        "keyword": "tuna fish spaghetti sauce",
+        "volume": 1300,
+        "competition": 54
+      },
+      {
+        "keyword": "tuna spaghetti red sauce",
+        "volume": 1300,
+        "competition": 54
+      },
+      {
+        "keyword": "tuna spaghetti tomato sauce",
+        "volume": 1300,
+        "competition": 54
+      },
+      {
+        "keyword": "caper tuna pasta",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta tuna and tomato sauce",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta tuna red sauce",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with tuna and capers",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti tuna capers",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato sauce tuna pasta",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna pasta with red sauce",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "alfredo pasta with tuna",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "alfredo tuna pasta",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna pasta with alfredo sauce",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "fettuccine tuna",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta tuna white sauce",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta with tuna and white sauce",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta with tuna white sauce",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna pasta in white sauce",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "white sauce for tuna pasta",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "smoky tomato sauce",
+        "volume": 390,
+        "competition": 44
+      },
+      {
+        "keyword": "tuna carbonara ingredients",
+        "volume": 390,
+        "competition": 22
+      },
+      {
+        "keyword": "carbonara ingredients tuna",
+        "volume": 390,
+        "competition": 22
+      },
+      {
+        "keyword": "pasta puttanesca tuna",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna napolitana sauce recipe",
+        "volume": 390,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna pasta puttanesca",
+        "volume": 390,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

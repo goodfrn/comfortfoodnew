@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-lime-fudge",
+  "title": "Zesty Lime Fudge",
+  "seed_keywords": [
+    "no bake fudge",
+    "lime desserts",
+    "white chocolate fudge",
+    "condensed milk fudge",
+    "citrus no bake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "key lime pie",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "k lime pie",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "key pie lime",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "lime pie key",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "quay lime pie",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "key pie recipe",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "keylime pie recipe",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "lime pie recipe",
+        "volume": 135000,
+        "competition": 6
+      },
+      {
+        "keyword": "key lime pie near me",
+        "volume": 27100,
+        "competition": 65
+      },
+      {
+        "keyword": "condensed milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge recipe with condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened condensed milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "citrus cheesecake no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "condensed fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge made from condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fudge using condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "make fudge with condensed milk",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened condensed fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweetened milk fudge",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "steves key lime pie",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "steve's authentic key lime pie",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "key lime cheesecake",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "lime pie",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "keelan pie",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "key lime cake",
+        "volume": 8100,
+        "competition": 40
+      },
+      {
+        "keyword": "lime cheesecake",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "key lime pie recipe easy",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "best ever key lime pie",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "best key lime pie recipes",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "best lime pie recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "easiest key lime pie recipe",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "easy lime pie recipe",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "great key lime pie recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for key lime pie easy",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "cakes with lime",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "key lime cake recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "lime custard",
+        "volume": 5400,
+        "competition": 32
+      },
+      {
+        "keyword": "make key lime cake",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "unbaked key lime pie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "key lime bars",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "key lime pie from key west",
+        "volume": 4400,
+        "competition": 15
+      },
+      {
+        "keyword": "key lime cheesecake recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "key lime pie bars",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "lime desserts",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "mini key lime pies",
+        "volume": 3600,
+        "competition": 41
+      },
+      {
+        "keyword": "easy fudge recipe with condensed milk",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "fudge made with sweetened condensed milk",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "3 ingredient fudge condensed milk",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "3 ingredient fudge with condensed milk",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "authentic key lime pie recipes",
+        "volume": 3600,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "sticky-chicken-salad",
+  "title": "Sticky Chicken Salad",
+  "seed_keywords": [
+    "asian chicken salad",
+    "soy ginger chicken",
+    "marinated chicken salad",
+    "sesame chicken bowls",
+    "caramelized chicken dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "asian chicken salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian chicken",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "asian chicken marinade",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "asian chicken salad recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken chinese salad recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "honey asian chicken",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy chinese chicken",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "italian salad dressing chicken marinade",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "marinate chicken italian dressing",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "applebees oriental chicken salad",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "oriental chicken salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian chicken sesame",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese chicken sesame",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese chicken with sesame seeds",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "oriental chicken",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken ginger honey",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken with ginger and honey",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese chicken marinade",
+        "volume": 2900,
+        "competition": 18
+      },
+      {
+        "keyword": "dressing chinese chicken salad",
+        "volume": 2900,
+        "competition": 28
+      },
+      {
+        "keyword": "chinese crunchy salad",
+        "volume": 2400,
+        "competition": 27
+      },
+      {
+        "keyword": "sauce for asian chicken",
+        "volume": 2400,
+        "competition": 15
+      },
+      {
+        "keyword": "soy ginger chicken",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese chicken salad near me",
+        "volume": 1900,
+        "competition": 22
+      },
+      {
+        "keyword": "ginger and soy chicken",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "ginger and soy sauce chicken",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "poached asian chicken",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "marinated chicken salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "applebee's oriental chicken salad recipe",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "asian chicken grilled",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asian chicken ramen salad",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "asian chicken salad with ramen noodles",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "asian chicken sesame salad panera",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asian sesame chicken salad from panera",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asian sesame chicken salad panera bread",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asian sesame salad with chicken panera",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asian sesame with chicken salad panera",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "caesar dressing chicken marinade",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "caesar salad chicken marinade",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken caesar salad chicken marinade",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken marinade for chicken caesar salad",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken marinade for chicken salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese chicken salad ramen noodles",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled oriental chicken",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "marinade for caesar salad chicken",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "marinade for chicken for salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "panera bread asian sesame chicken salad",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "panera bread asian sesame salad with chicken",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "panera asian sesame salad",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "zaxby's zensation zalad",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "asian sesame salad at panera",
+        "volume": 1000,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

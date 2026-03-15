@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-garlic-shrimp",
+  "title": "Spicy Garlic Shrimp Twist",
+  "seed_keywords": [
+    "spicy garlic shrimp",
+    "sautéed shrimp butter",
+    "asian shrimp dishes",
+    "shrimp with chili sauce",
+    "garlic shrimp stir fry"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sauteed shrimp dishes",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "shrimp sauteed recipe",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "asian shrimp dishes",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "asian recipe with shrimp",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chili garlic prawn",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "prawn chilli garlic",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian prawn recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "prawns recipe chinese",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese dishes with shrimp",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese food recipes shrimp",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese recipe for shrimp",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "coconut shrimp asian",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic prawn aglio olio",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "prawn spaghetti aglio olio",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "asian shrimp and broccoli recipes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp rice noodle recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy garlic shrimp",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic shrimp stir fry",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "prawns with sweet chili sauce",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "sweet chili sauce for coconut shrimp",
+        "volume": 880,
+        "competition": 11
+      },
+      {
+        "keyword": "sweet chili shrimp",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "butter garlic sauteed shrimp",
+        "volume": 720,
+        "competition": 11
+      },
+      {
+        "keyword": "chili garlic shrimp",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "saute shrimp in butter and garlic",
+        "volume": 720,
+        "competition": 11
+      },
+      {
+        "keyword": "sauteed shrimp easy recipes",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "singapore chilli prawn",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy shrimp scampi",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "thai chili shrimp",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp with chili sauce",
+        "volume": 480,
+        "competition": 14
+      },
+      {
+        "keyword": "butter sauteed shrimp",
+        "volume": 480,
+        "competition": 22
+      },
+      {
+        "keyword": "garlic shrimp stir fry recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "honey garlic shrimp stir fry",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "sautéed shrimp in butter",
+        "volume": 480,
+        "competition": 22
+      },
+      {
+        "keyword": "shrimp and chili sauce",
+        "volume": 480,
+        "competition": 14
+      },
+      {
+        "keyword": "simple sauteed shrimp",
+        "volume": 480,
+        "competition": 16
+      },
+      {
+        "keyword": "asian coconut shrimp recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "asian fried shrimp recipes",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "asian shrimp and rice recipes",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "asian shrimp recipes with rice",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic prawn and vegetable stir fry",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic prawn stir fry",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for sweet chili shrimp",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "sautéed shrimp seasoning",
+        "volume": 390,
+        "competition": 9
+      },
+      {
+        "keyword": "shrimp in sweet chili sauce",
+        "volume": 390,
+        "competition": 11
+      },
+      {
+        "keyword": "stir fry prawns with garlic",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet and chili shrimp recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "asian garlic shrimp recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "asian style shrimp recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chili garlic shrimp recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "coconut shrimp sweet chili sauce",
+        "volume": 320,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

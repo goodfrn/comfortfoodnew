@@ -1,0 +1,267 @@
+{
+  "slug": "southern-collard-greens",
+  "title": "Southern Collard Greens Revival",
+  "seed_keywords": [
+    "collard greens recipe",
+    "slow cooker collard greens",
+    "southern collard greens",
+    "ham hock greens",
+    "collard greens vinegar"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "collard green",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "coli greens",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "collard greens and",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "collard vegetable",
+        "volume": 246000,
+        "competition": 19
+      },
+      {
+        "keyword": "collard greens recipe",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking collard greens",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "collards recipe",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "cook collard greens recipe",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "make collard greens",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for cooking collards",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for making collard greens",
+        "volume": 90500,
+        "competition": 7
+      },
+      {
+        "keyword": "color greens",
+        "volume": 27100,
+        "competition": 24
+      },
+      {
+        "keyword": "collard greens how to prepare",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "southern collard greens recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "collards recipe southern",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "greens recipe southern",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "southern cooked collard greens recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "mustard greens cook",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "mustard greens recipes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "greens recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "fresh collard greens",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "black eyed peas and collard",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "black eyed peas and collard greens",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "black eyed peas and greens",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "black eyed peas collard greens",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "black eyed peas collards",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "black folks collard greens recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker collard greens",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "spring greens recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and greens recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon collard greens recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "best collard green recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "best collard recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "best southern greens recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "collard green crock pot",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "collard greens and bacon recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "collards crock pot",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "collards in slow cooker",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "cook spring greens",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking collard greens in slow cooker",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "crock pot greens",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "good collard green recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "great collard greens recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "greens in a crock pot",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "greens in slow cooker",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "greens recipe with bacon",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "southern collard greens",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "ham hock greens",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "collard green gumbo",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "collard green recipe vegan",
+        "volume": 2900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

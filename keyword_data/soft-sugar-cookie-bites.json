@@ -1,0 +1,267 @@
+{
+  "slug": "soft-sugar-cookie-bites",
+  "title": "Soft Sugar Cookie Bites",
+  "seed_keywords": [
+    "soft sugar cookies",
+    "almond cookies",
+    "bite sized desserts",
+    "sugar cookie dough",
+    "frosted cookie bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "almond cookies",
+        "volume": 40500,
+        "competition": 70
+      },
+      {
+        "keyword": "almond s cookies",
+        "volume": 40500,
+        "competition": 70
+      },
+      {
+        "keyword": "almond flour cookies",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "almond cookie with almond flour",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "almond cookies with almond meal",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "almond flour in cookies",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "almond meal cookie",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "almond powder cookie",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "cookies using almond flour",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "cookies using almond meal",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "amaretti biscuits",
+        "volume": 18100,
+        "competition": 65
+      },
+      {
+        "keyword": "amaretti cookies",
+        "volume": 18100,
+        "competition": 66
+      },
+      {
+        "keyword": "kourabiedes",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for chewy chocolate chip cookies",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "italian rainbow cookies",
+        "volume": 14800,
+        "competition": 65
+      },
+      {
+        "keyword": "soft sugar cookie recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "baking almond flour",
+        "volume": 14800,
+        "competition": 21
+      },
+      {
+        "keyword": "white chocolate and cranberry cookies",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "italian almond cookies",
+        "volume": 12100,
+        "competition": 38
+      },
+      {
+        "keyword": "italian almond biscuits",
+        "volume": 12100,
+        "competition": 38
+      },
+      {
+        "keyword": "cookie soft recipe",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "christmas cookies pillsbury",
+        "volume": 9900,
+        "competition": 66
+      },
+      {
+        "keyword": "almond flour chocolate chip cookies",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "almond flour chocolate cookie",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "almond flour cocoa cookies",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "almond meal chocolate chip cookies",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "almond meal chocolate cookies",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate chip cookies using almond flour",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "pillsbury xmas cookies",
+        "volume": 9900,
+        "competition": 66
+      },
+      {
+        "keyword": "ricotta cheese lemon cookies",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "ricotta lemon cookies",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese almond cookies",
+        "volume": 8100,
+        "competition": 42
+      },
+      {
+        "keyword": "almond biscuits chinese",
+        "volume": 8100,
+        "competition": 42
+      },
+      {
+        "keyword": "soft sugar cookies",
+        "volume": 6600,
+        "competition": 37
+      },
+      {
+        "keyword": "sugar dough",
+        "volume": 6600,
+        "competition": 24
+      },
+      {
+        "keyword": "chocolate chip cookie recipe without brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "almond butter cookies",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "chocolate chip cookies without brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookie recipe no brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookies no brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "almond joy cookies",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "almond and butter cookies",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "almond cookies with almond butter",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "butter almond cookie",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "buttery almond cookies",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "choc chip cookie recipe no brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookies made without brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe chocolate chip cookies without brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "sugar free chocolate chip cookies",
+        "volume": 5400,
+        "competition": 80
+      },
+      {
+        "keyword": "brown sugar chocolate chip cookies",
+        "volume": 5400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

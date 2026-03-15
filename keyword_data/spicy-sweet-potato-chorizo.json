@@ -1,0 +1,87 @@
+{
+  "slug": "spicy-sweet-potato-chorizo",
+  "title": "Spicy Sweet Potato Chorizo Bisque",
+  "seed_keywords": [
+    "spicy sweet potato soup",
+    "chorizo bisque",
+    "sweet potato bisque",
+    "cream soup chorizo",
+    "chipotle sweet potato"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "spicy sweet potato soup",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "potato soup spices",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "chipotle potato",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato bisque",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "potato adobo",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato bisque soup",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "chipotle sweet potato",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "potato bisque",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for sweet potato bisque",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "sweet potato bisque soup recipe",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "chipotle mashed sweet potatoes",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "spiced butternut squash and sweet potato soup",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "spiced carrot and sweet potato soup",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato and red pepper soup with coconut milk",
+        "volume": 140,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

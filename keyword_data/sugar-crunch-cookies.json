@@ -1,0 +1,267 @@
+{
+  "slug": "sugar-crunch-cookies",
+  "title": "Sugar Crunch Cookies",
+  "seed_keywords": [
+    "sugar cookies",
+    "butter cookies",
+    "homemade sugar cookies",
+    "colored sugar cookies",
+    "cookie dough recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "making chocolate chip cookies",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "choco chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "making sugar cookies",
+        "volume": 450000,
+        "competition": 7
+      },
+      {
+        "keyword": "sugar cookies",
+        "volume": 246000,
+        "competition": 58
+      },
+      {
+        "keyword": "peanut butter cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "cookie dough",
+        "volume": 246000,
+        "competition": 73
+      },
+      {
+        "keyword": "pb cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "cookie dough cookie",
+        "volume": 246000,
+        "competition": 73
+      },
+      {
+        "keyword": "no cook cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "sugar c",
+        "volume": 246000,
+        "competition": 58
+      },
+      {
+        "keyword": "milk chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "edible cookie dough recipe",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "oatmeal chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "frosted sugar cookies",
+        "volume": 90500,
+        "competition": 56
+      },
+      {
+        "keyword": "iced sugar cookies",
+        "volume": 90500,
+        "competition": 56
+      },
+      {
+        "keyword": "peanut butter blossom",
+        "volume": 90500,
+        "competition": 17
+      },
+      {
+        "keyword": "oat chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "cookie dough recipe to eat",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "make edible cookie dough",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "oat and chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal and chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal chocolate chip cookies with quick oats",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "cookie dough recipes",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "cookie dough cookie recipe",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "cookie mix cookies",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "3 ingredient peanut butter cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "3 ingredient pb cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "lotus biscoff cookie",
+        "volume": 60500,
+        "competition": 17
+      },
+      {
+        "keyword": "chip cookies",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "snickerdoodle cookies",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "pumpkin chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "butter biscuit",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "pumpkin and chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "best chocolate chip cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "peanut butter and chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanutbutter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "best chocolate chocolate chip cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "chewy chocolate chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chocolate and peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "pb chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut butter choc chip biscuits",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade chocolate chip cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "easy peanut butter cookies",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "easy chocolate chip cookies",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "easy pb cookies",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "gf chocolate chip cookies",
+        "volume": 33100,
+        "competition": 27
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

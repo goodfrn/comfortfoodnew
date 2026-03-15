@@ -1,0 +1,267 @@
+{
+  "slug": "spaghetti-squash-paella",
+  "title": "Spaghetti Squash Paella Twist",
+  "seed_keywords": [
+    "spaghetti squash paella",
+    "seafood paella recipe",
+    "low carb paella",
+    "spaghetti squash seafood",
+    "paella with mussels"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "seafood paella",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "paella seafood dish",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "paella valenciana seafood",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "shellfish paella",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "seafood paella recipe",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "fish paella recipe",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "shellfish paella recipe",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "shrimp paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chorizo & prawn paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chorizo and prawn paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chorizo prawn paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "paella chorizo and prawn",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "paella prawn and chorizo",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "prawn & chorizo paella",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "best paella rice",
+        "volume": 1900,
+        "competition": 60
+      },
+      {
+        "keyword": "paella de marisco recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "paella prawn",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "squid ink paella",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "seafood paella recipe easy",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken & prawn paella",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and prawn paella",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "easy paella",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "quick seafood paella recipe",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "simple paella recipe seafood",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "best paella recipe seafood",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "best seafood piaya recipe",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken and chorizo and prawn paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken chorizo and prawn paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken chorizo prawn paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "lobster paella",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "paella chicken prawn chorizo",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "rice with seafood spanish",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "seafood paella recipe best",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "seafood paella spain",
+        "volume": 1300,
+        "competition": 9
+      },
+      {
+        "keyword": "seafood rice spanish",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "spanish food with rice and seafood",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "spanish rice and seafood",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "spanish seafood recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "seafood paella ingredients",
+        "volume": 1000,
+        "competition": 14
+      },
+      {
+        "keyword": "piaya seafood",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken & seafood paella",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and fish paella",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and seafood paella",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "mussels and rice",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "spanish dish with rice and seafood",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "spanish rice dish seafood",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "arroz de marisco recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "paella broth",
+        "volume": 590,
+        "competition": 40
+      },
+      {
+        "keyword": "authentic paella recipe seafood",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken & shrimp paella",
+        "volume": 590,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

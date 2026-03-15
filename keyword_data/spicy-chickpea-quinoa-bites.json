@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-chickpea-quinoa-bites",
+  "title": "Spicy Chickpea Quinoa Bites",
+  "seed_keywords": [
+    "chickpea quinoa bites",
+    "vegetarian appetizers",
+    "pan fried chickpeas",
+    "gluten free bites",
+    "spicy chickpea recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegetarian appetizers",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "vegan appetizers",
+        "volume": 12100,
+        "competition": 40
+      },
+      {
+        "keyword": "vegetarian starters",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "vegetable egg roll",
+        "volume": 6600,
+        "competition": 32
+      },
+      {
+        "keyword": "vegetarian snack recipes",
+        "volume": 4400,
+        "competition": 33
+      },
+      {
+        "keyword": "vegetable hors d oeuvres",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "vegetarian snacks ideas",
+        "volume": 4400,
+        "competition": 33
+      },
+      {
+        "keyword": "appetizers veg",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "veg hors d oeuvres",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "veggie appetisers",
+        "volume": 4400,
+        "competition": 32
+      },
+      {
+        "keyword": "vegetarian stuffed mushrooms",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffed mushroom vegan",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "veggie egg rolls",
+        "volume": 2900,
+        "competition": 44
+      },
+      {
+        "keyword": "spiced chickpeas",
+        "volume": 2400,
+        "competition": 28
+      },
+      {
+        "keyword": "spiced garbanzo beans",
+        "volume": 2400,
+        "competition": 28
+      },
+      {
+        "keyword": "vegan appetizer recipes",
+        "volume": 1900,
+        "competition": 29
+      },
+      {
+        "keyword": "vegetarian appetizer recipes",
+        "volume": 1900,
+        "competition": 29
+      },
+      {
+        "keyword": "vegetarian snacks for party",
+        "volume": 1900,
+        "competition": 59
+      },
+      {
+        "keyword": "vegan party snacks",
+        "volume": 1900,
+        "competition": 31
+      },
+      {
+        "keyword": "vegetarian finger food",
+        "volume": 1900,
+        "competition": 42
+      },
+      {
+        "keyword": "meatless appetizers",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "veggie pizza appetizer",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "veggie finger foods",
+        "volume": 1900,
+        "competition": 42
+      },
+      {
+        "keyword": "meatless finger foods",
+        "volume": 1900,
+        "competition": 42
+      },
+      {
+        "keyword": "non meat finger foods",
+        "volume": 1900,
+        "competition": 42
+      },
+      {
+        "keyword": "vegetable appetizer pizza",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "vegan appetizers ideas",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "veggie appetizers easy",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "vegetarian appetizers for party",
+        "volume": 1600,
+        "competition": 55
+      },
+      {
+        "keyword": "vegetarian appetizer ideas",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "simple vegan appetizers",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "vegan appetizers for parties",
+        "volume": 1600,
+        "competition": 55
+      },
+      {
+        "keyword": "simple vegetarian appetizers",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "appetizers for party vegetarian",
+        "volume": 1600,
+        "competition": 55
+      },
+      {
+        "keyword": "easy meatless appetizers",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "hors d oeuvres recipes vegetarian",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "meatless appetizer ideas",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "meatless appetizer recipes",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "party vegetarian appetizers",
+        "volume": 1600,
+        "competition": 55
+      },
+      {
+        "keyword": "simple veggie appetizers",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "vegan horderves ideas",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "vegan hors d oeuvres ideas",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "vegan hors d oeuvres recipes",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "vegetarian appetizer dishes",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "vegetarian horderves recipes",
+        "volume": 1600,
+        "competition": 46
+      },
+      {
+        "keyword": "vegetarian hors d oeuvres easy",
+        "volume": 1600,
+        "competition": 29
+      },
+      {
+        "keyword": "veggie spring roll panda express",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan apps",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "vegan horderves",
+        "volume": 1300,
+        "competition": 28
+      },
+      {
+        "keyword": "veg snacks recipes",
+        "volume": 1300,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

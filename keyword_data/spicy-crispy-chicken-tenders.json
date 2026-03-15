@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-crispy-chicken-tenders",
+  "title": "Spicy Crispy Chicken Tenders",
+  "seed_keywords": [
+    "spicy fried chicken",
+    "crispy chicken tenders",
+    "buttermilk fried chicken",
+    "sriracha chicken recipe",
+    "homemade chicken tenders"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "korean chicken fried",
+        "volume": 368000,
+        "competition": 7
+      },
+      {
+        "keyword": "air fry chicken fingers",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "air fryer fried chicken tenders",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "buttermilk fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "kfc hot chicken wings",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "buttermilk and fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "buttermilk chicken fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "buttermilk in fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken fried chicken with buttermilk",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chicken using buttermilk",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "oven bake fried chicken",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk chicken",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk and chicken",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "kfc chicken fingers",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "kfc chicken stripes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "crispy chicken tenders",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "fried chicken tenders recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "fried chicken strips",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "crispy chicken strips",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "fried chicken strips recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "frying chicken tenders",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken crispy tenders",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "chicken fried chicken strips",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken fried chicken tenders",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken tender crispy",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "chicken tenderloin fried",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken tenderloin recipes fried",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken tenderloins fried",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "crispiest chicken tenders",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "crispy chicken finger",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "crispy chicken tenderloin",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "crispy tender chicken",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "crunch chicken tenders",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "crunchy chicken fingers",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "crunchy chicken stripes",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "fried chicken fingers recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "fried chicken recipe tenders",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "frying chicken fingers",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe for kfc chicken",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes with fried chicken tenders",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "tender crispy chicken",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "korean spicy chicken",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "homemade chicken tenders",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "buttermilk chicken recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "buttermilk fried chicken recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk and chicken recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "buttermilk chicken fried chicken recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk chicken recipe fried",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk southern fried chicken recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken fried chicken recipe buttermilk",
+        "volume": 9900,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

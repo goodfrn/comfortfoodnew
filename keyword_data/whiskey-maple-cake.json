@@ -1,0 +1,267 @@
+{
+  "slug": "whiskey-maple-cake",
+  "title": "Whiskey Maple Cake",
+  "seed_keywords": [
+    "spiced bundt cake",
+    "maple whiskey cake",
+    "whiskey soaked cake",
+    "cinnamon nutmeg cake",
+    "maple syrup cake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bundt cake pumpkin",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "bundt pumpkin",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin cake bundt cake",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin cake and pound cake",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "cinnamon bundt cake",
+        "volume": 1600,
+        "competition": 20
+      },
+      {
+        "keyword": "cinnamon bundt",
+        "volume": 1600,
+        "competition": 20
+      },
+      {
+        "keyword": "ginger bread bundt cake",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin spice bundt cake",
+        "volume": 1300,
+        "competition": 12
+      },
+      {
+        "keyword": "pumpkin spice bundt",
+        "volume": 1300,
+        "competition": 12
+      },
+      {
+        "keyword": "maple syrup cake",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger cake bundt recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "nothing bundt cakes pumpkin spice",
+        "volume": 880,
+        "competition": 31
+      },
+      {
+        "keyword": "maple cake recipes",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin spice nothing bundt cake",
+        "volume": 880,
+        "competition": 31
+      },
+      {
+        "keyword": "cinnamon pound cake",
+        "volume": 720,
+        "competition": 17
+      },
+      {
+        "keyword": "maple glazed cake",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for syrup cake",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "spiced bundt cake",
+        "volume": 590,
+        "competition": 26
+      },
+      {
+        "keyword": "apple and cinnamon bundt cake",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "apple cinnamon bundt",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "apple cinnamon bundt cake",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "bundt cake recipes cinnamon",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "cinnamon bundt recipe",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "maple and pecan cake",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "maple bundt cake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "pecan maple cake",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "spice cake bundt cake",
+        "volume": 590,
+        "competition": 26
+      },
+      {
+        "keyword": "bundt cake cinnamon swirl",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "bundt spice cake recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon roll pound cake",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin bundt cake from a mix",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "spice cake bundt cake recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cake recipe with maple syrup",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cinnamon pecan bundt cake",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin spice bundt cake recipe",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for pumpkin spice bundt cake",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "maple cheese cake recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "apple spice bundt",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "apple spice bundt cake",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "applesauce spice bundt cake",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "bundt cake nigella",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "butter tart recipe with maple syrup",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon pound cake recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "cinnamon swirl pound cake",
+        "volume": 260,
+        "competition": 10
+      },
+      {
+        "keyword": "ginger bread pound cake",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "ginger pound cake",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "maple pudding cake",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "nigella bundt",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger bundt cake",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "maple syrup cheese cake",
+        "volume": 210,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

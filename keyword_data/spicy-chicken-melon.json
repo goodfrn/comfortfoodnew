@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-chicken-melon",
+  "title": "Spicy Chicken with Melon and Chorizo",
+  "seed_keywords": [
+    "spicy chicken dinner",
+    "chicken with chorizo",
+    "melon chicken recipe",
+    "seared chicken breast",
+    "mexican chicken skillet"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pan seared chicken breast",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken & chorizo recipe",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and chorizo dish",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and chorizo meal",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and chorizo recipe",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken chorizo dish",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "chorizo with chicken recipes",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe using chicken and chorizo",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "choripollo",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken with chorizo",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and chorizo",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken pan seared",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "pan fry chicken breast",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "cooking chicken breast on skillet",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "pan broiled chicken breast",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "pan cook chicken breasts",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "chorizo dishes recipe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken breast frying pan recipes",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken sear",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken breast on a skillet",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "seared chicken breast",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken breast on skillet recipe",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken breast pan seared recipes",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken breast recipe pan seared",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe pan seared chicken breast",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken & chorizo slow cooker",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and chorizo in slow cooker",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken breast cast iron skillet",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken chorizo slow cooker",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken pan seared recipes",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and chorizo spanish",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "jamie oliver spanish chicken",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "reverse sear chicken breast",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "spanish chicken & chorizo",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "spanish chorizo and chicken",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "baked chicken and chorizo",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "baked chicken chorizo",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "baked chicken with chorizo",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken & chorizo skewers",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken and chorizo skewers",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken chorizo skewers",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "chorizo and chicken skewers",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "easy chicken and chorizo recipes",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "simple chicken and chorizo recipes",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken and chorizo recipes for slow cooker",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken chorizo slow cooker recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "joe wicks chicken and chorizo",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "pan seared chicken breast with pan sauce",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "pan seared chicken breast with sauce",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "pan seared chicken cutlets",
+        "volume": 480,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

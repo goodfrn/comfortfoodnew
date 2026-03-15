@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-ham-bean-soup",
+  "title": "Smoky Ham Bean Soup",
+  "seed_keywords": [
+    "ham bean soup",
+    "smoky ham recipes",
+    "bean soup with cream",
+    "ham soup vinegar",
+    "hearty bean soup"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ham and bean soup recipe",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "and bean soup",
+        "volume": 40500,
+        "competition": 14
+      },
+      {
+        "keyword": "beans for ham and bean soup",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "beans for ham soup",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "ham and bean recipe soup",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "ham and bean soup beans",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "ham soups with beans",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "make ham and bean soup",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for ham and split pea soup",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "ham beans",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "ham and beans recipe",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "ham and beans",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "bean soup with navy beans",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "beans for ham and beans",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "ham for beans",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "navy beans soup",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "ham bone soup",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "navy bean soup recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "15 beans soup recipe",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "ham soup from ham bone",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "ham soups",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "ham soups recipes",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "soup made from a ham bone",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "soup recipe with ham bone",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "soup using a ham bone",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "make ham bone soup",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "bean & ham crock pot soup",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "bean and ham crock pot soup",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "bean and ham soup slow cooker",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "bean soup in crock pot with ham",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "bean soup with ham in crock pot",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "bean soup with ham slow cooker",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "crock pot beans and ham soup",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "ham & bean soup slow cooker",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "ham smoker",
+        "volume": 8100,
+        "competition": 55
+      },
+      {
+        "keyword": "bean and ham bone soup",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "bean and ham soup with ham bone",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "bean ham bone soup",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "bean soup using ham bone",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "beans and ham hock",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "beans ham hock",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "ham & bean soup with ham bone",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "ham & navy bean soup",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "ham and bean soup with navy beans",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "ham and beans with ham hocks",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "ham and lentil bean soup",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and navy bean soup",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "ham bean soup with ham bone",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "ham hock soups",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "lentil bean soup with ham",
+        "volume": 6600,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

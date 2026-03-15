@@ -1,0 +1,267 @@
+{
+  "slug": "winter-tomato-salad-remix",
+  "title": "Winter Tomato Salad Remix",
+  "seed_keywords": [
+    "tomato salad",
+    "marinated tomato salad",
+    "chilled tomato recipes",
+    "tomato salad dressing",
+    "winter salad ideas"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caprese",
+        "volume": 368000,
+        "competition": 22
+      },
+      {
+        "keyword": "caprese cheese",
+        "volume": 201000,
+        "competition": 5
+      },
+      {
+        "keyword": "caprese salad salad",
+        "volume": 201000,
+        "competition": 5
+      },
+      {
+        "keyword": "italian caprese salad",
+        "volume": 201000,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber and tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "cuke tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "burrata salad",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "burrata cheese salad",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "tomato salad",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "caprese skewers",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "caprese recipe",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "caprese salad skewers",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "a tomato salad",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "beefsteak salad",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "caprice e salad recipe",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto pasta cold salad",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe caprese salad",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "salad and tomatoes",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "panzanella salad",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber tomato onion salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cucumber and onion and tomato salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cucumber and tomato onion salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cuke tomato onion salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta salad tortellini",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "caprese pasta salad",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "caprese salad pasta salad",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "italian caprese pasta salad",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato salad recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "panzanella recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cucumber & tomato salad recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber and tomato salad recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "italian panzanella recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for panzanella salad",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "winter salad ideas",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "tortellini salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "winter salad recipes",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "salad ideas winter",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "salads for winter recipes",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "caprese salad skewers recipe",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and tomato salad with feta",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber feta tomato salad",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber tomato feta cheese salad",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "pasta salad blt",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for caprese skewers",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato cuke feta salad",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "tomato mozzarella salad",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "basil tomato and mozzarella",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "burrata and tomato salad",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "burrata caprese",
+        "volume": 8100,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

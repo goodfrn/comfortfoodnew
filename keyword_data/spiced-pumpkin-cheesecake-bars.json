@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-pumpkin-cheesecake-bars",
+  "title": "Spiced Pumpkin Cheesecake Bars",
+  "seed_keywords": [
+    "pumpkin cheesecake bars",
+    "pumpkin desserts",
+    "cheesecake bars recipe",
+    "pumpkin spice baking",
+    "no bake cheesecake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "no bake cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no cook cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "bakeless cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheese cake without baking",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheese cake without oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake no oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake recipe no cook",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake recipe no oven",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake recipe without baking",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "cheesecake unbaked",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheese cakes",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake cheesecake dessert",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "non baking cheesecake recipe",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "none bake cheese cake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "pumpkin for pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin for pumpkin pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin pie with pie pumpkin",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkins pie",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin des",
+        "volume": 90500,
+        "competition": 14
+      },
+      {
+        "keyword": "no bake cheesecake recipe",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "bakeless cheesecake recipe",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesecake recipe not baked",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "no bake cheesecake dessert recipes",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for unbaked cheesecake",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "pumpkin cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake recipe",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia cream cheese no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "no bake philadelphia cream cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia cheese no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philly cheesecake recipe no bake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "pumpkin and cheesecake recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "spice pumpkin pie",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "pumpkin cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "libby's pumpkin pie recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin cake cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "pumpkin cakes",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "sopapilla cheesecake",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "baked cheese cake",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "mexican sopapilla cheesecake",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "bake cheesecake recipe",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "oreo cheese cake recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake cheesecake filling",
+        "volume": 22200,
+        "competition": 67
+      },
+      {
+        "keyword": "pumpkin bars",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "no bake cheese cake filling",
+        "volume": 22200,
+        "competition": 67
+      },
+      {
+        "keyword": "no bake cheesecake cake filling",
+        "volume": 22200,
+        "competition": 67
+      },
+      {
+        "keyword": "no cook cheesecake filling",
+        "volume": 22200,
+        "competition": 67
+      },
+      {
+        "keyword": "pumpkin desserts",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "3 ingredient no bake cheesecake",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "no bake lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

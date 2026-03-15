@@ -1,0 +1,267 @@
+{
+  "slug": "strawberry-nut-loaf",
+  "title": "Strawberry Nut Loaf",
+  "seed_keywords": [
+    "strawberry quick bread",
+    "pecan loaf cake",
+    "fruit nut bread",
+    "strawberry cinnamon loaf",
+    "homemade quick breads"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "easiest bread recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "simple recipes for bread",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "easiest homemade bread recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "easy home made bread",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "easy home made bread recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "simple garlic bread recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "dinner rolls easy",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "easy bread recipe without yeast",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "easy pita bread",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "easy yeast bread recipes",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "quick easy bread roll recipe",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe dinner rolls quick",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "easy homemade rolls",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "quick bread no yeast recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "quick bread recipe without yeast",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "bread recipe with quick yeast",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "dinner rolls easy quick",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "easy and quick dinner rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "easy fast dinner rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "easy quick bread rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "fast and easy dinner rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "fast bread recipe with yeast",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "quick and easy bread rolls",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "quick pita bread recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "simple bread machine recipes",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "simple bread maker recipes",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade quick breads",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "cranberry fruit nut bread",
+        "volume": 1600,
+        "competition": 24
+      },
+      {
+        "keyword": "fast homemade bread",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "quick home made bread",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "easy home bread recipe",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "easy to make bread recipe",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "quick and easy bread",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "quick bread rolls no yeast",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "quick dinner rolls no yeast",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "quick dinner rolls recipe no yeast",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "quick dinner rolls without yeast",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "simple home made bread recipe",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "simple homemade bread recipe",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "easy bread recipe with instant yeast",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "easy dinner rolls no yeast",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "home made garlic bread easy",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade dinner rolls quick",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "quick french bread recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "quick homemade bread rolls",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "simple homemade dinner rolls",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "bread machine recipes quick",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "bread recipe quick rise yeast",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "bread recipe rapid rise yeast",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "bread recipe using quick rise yeast",
+        "volume": 880,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "zucchini-avocado-mac",
+  "title": "Zucchini Avocado Mac",
+  "seed_keywords": [
+    "creamy pasta sauce",
+    "zucchini avocado pasta",
+    "vegetarian mac and cheese",
+    "blended vegetable pasta",
+    "avocado pasta dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pasta sauce white sauce",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "mushrooms with sauce",
+        "volume": 60500,
+        "competition": 30
+      },
+      {
+        "keyword": "white pasta sauce recipe",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and white sauce recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "creamy pasta sauce with cream",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "mushroom cream pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and cream sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta and creamy sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta with a creamy sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "creamy carbonara recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "carbonara recipe with cream",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "cream carbonara recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "cream tomato pasta recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with tomato cream",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy carbonara",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "carbonara with cream",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "creamy pesto pasta",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "avocado in pasta",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream and pesto pasta",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cream carbonara",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "cream spaghetti carbonara",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "creamy pasta and salmon",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta pesto cream",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta with creamy pesto",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto pasta creamy",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "pesto pasta with cream",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "salmon and cream pasta",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "salmon cream spaghetti",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "spaghetti carbonara easy recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "fettuccine alfredo heavy cream",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "heavy cream pasta alfredo",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "mushroom sauce for pasta",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "alfredo pasta cream cheese",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "alfredo pasta sauce with cream cheese",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cream and tomato pasta sauce",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "cream and tomato sauce pasta",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "cream for spaghetti sauce",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "cream tomato pasta sauce",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "creamy pasta and sausage",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy pasta tomato sauce",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "creamy red pasta sauce",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "creamy tomato pasta sauce recipe",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "creamy tomato spaghetti sauce",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "mushroom sauce and pasta",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "pasta cream tomato sauce",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "pasta tomato cream sauce recipe",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "pasta with cream and tomato sauce",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "pasta with heavy whipping cream",
+        "volume": 12100,
+        "competition": 44
+      },
+      {
+        "keyword": "pesto heavy cream sauce",
+        "volume": 12100,
+        "competition": 18
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

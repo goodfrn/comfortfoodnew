@@ -1,0 +1,202 @@
+{
+  "slug": "spiced-vegan-chai-brulee",
+  "title": "Spiced Vegan Chai Crème Brûlée",
+  "seed_keywords": [
+    "vegan crème brûlée",
+    "dairy free custard dessert",
+    "chai spice cake",
+    "soy milk pudding",
+    "vegan brûléed desserts"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegan crème brûlée",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan creme brulee",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan brulee",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "dairy free custard",
+        "volume": 2900,
+        "competition": 63
+      },
+      {
+        "keyword": "cake chai",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "chai cake",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "dairy free egg custard",
+        "volume": 2900,
+        "competition": 63
+      },
+      {
+        "keyword": "chai spice cake",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "soy milk pudding",
+        "volume": 1600,
+        "competition": 13
+      },
+      {
+        "keyword": "chai spiced tea cake",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "soymilk pudding",
+        "volume": 1600,
+        "competition": 13
+      },
+      {
+        "keyword": "lactose free custard",
+        "volume": 1300,
+        "competition": 57
+      },
+      {
+        "keyword": "chai cake recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "chai tea cake recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "chai cupcakes",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chai masala cake",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "chai tea cake",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "creme brulee recipe vegan",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "non dairy custard",
+        "volume": 260,
+        "competition": 78
+      },
+      {
+        "keyword": "eggless creme brulee",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "chai spice cake recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "chai cake vegan",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chai carrot cake",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chai spiced cupcakes",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "masala cake",
+        "volume": 170,
+        "competition": 3
+      },
+      {
+        "keyword": "vanilla chai cake",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "chai loaf cake",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin chai cake",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "rice pudding soy milk",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "soy pudding recipe",
+        "volume": 140,
+        "competition": 11
+      },
+      {
+        "keyword": "soya bean pudding recipe",
+        "volume": 140,
+        "competition": 11
+      },
+      {
+        "keyword": "soya milk rice pudding",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "apple chai cake",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "chai apple cake",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "chai coffee cake",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "soy milk pudding recipe",
+        "volume": 110,
+        "competition": 1
+      },
+      {
+        "keyword": "soy milk recipes dessert",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-cilantro-pepper-sauce",
+  "title": "Spicy Cilantro-Pepper Sauce",
+  "seed_keywords": [
+    "homemade hot sauce",
+    "cilantro pepper sauce",
+    "fresh herb condiment",
+    "serrano pepper recipe",
+    "mexican green sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "mexican salsa verde",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "mexican green salsa",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "mexican green salsa sauce",
+        "volume": 246000,
+        "competition": 15
+      },
+      {
+        "keyword": "serrano chile peppers",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "buffalo sauce recipe",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "buffalo wing sauce recipes",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "hot hot sauce recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade buffalo sauce",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade hot wing sauce",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "buffalo wing sauce homemade",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade buffalo chicken wing sauce",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade sauce for buffalo wings",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade hot sauce",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "mexican green sauce",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "serrano pepper recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes using serrano peppers",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "sauce for hot dogs recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "serrano chile recipes",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "serrano chili pepper recipes",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade sriracha",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade sriracha sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy buffalo sauce recipe",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade hot sauce recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "basic buffalo sauce recipe",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "buffalo wing sauce recipe easy",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "easy hot wing sauce recipe",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "home hot sauce recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade hot pepper sauce recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "simple buffalo sauce recipe",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "simple buffalo wing sauce recipe",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "authentic mexican green salsa recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "jalapeno coriander sauce",
+        "volume": 1600,
+        "competition": 11
+      },
+      {
+        "keyword": "pickle serrano peppers",
+        "volume": 1600,
+        "competition": 44
+      },
+      {
+        "keyword": "salsa serrano",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "salsa with serrano peppers",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "serrano chile salsa",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "best buffalo sauce recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "best buffalo wing sauce recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "best hot wing sauce recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "best mexican green salsa recipe",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "good buffalo sauce recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "good buffalo wing sauce recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "making hot sauce",
+        "volume": 1000,
+        "competition": 12
+      },
+      {
+        "keyword": "serrano sauce",
+        "volume": 1000,
+        "competition": 26
+      },
+      {
+        "keyword": "buffalo sauce recipe mild",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "homemade tabasco",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade tabasco pepper sauce",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade tabasco sauce",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "make hot pepper sauce",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "mild hot wing sauce recipe",
+        "volume": 1000,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

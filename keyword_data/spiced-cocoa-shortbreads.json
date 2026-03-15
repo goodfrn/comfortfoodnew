@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-cocoa-shortbreads",
+  "title": "Spiced Cocoa Vanilla Shortbreads",
+  "seed_keywords": [
+    "vanilla shortbread cookies",
+    "chocolate hazelnut cookies",
+    "spiced cocoa shortbread",
+    "rolled cookie dough",
+    "cocoa crumble cookies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "rolled out sugar cookie recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "rolling cookie",
+        "volume": 4400,
+        "competition": 24
+      },
+      {
+        "keyword": "chocolate hazelnut cookies",
+        "volume": 1900,
+        "competition": 60
+      },
+      {
+        "keyword": "rolled cookie dough",
+        "volume": 1900,
+        "competition": 69
+      },
+      {
+        "keyword": "chocolate and hazelnut cookies",
+        "volume": 1900,
+        "competition": 60
+      },
+      {
+        "keyword": "chocolate hazelnut biscuit",
+        "volume": 1900,
+        "competition": 60
+      },
+      {
+        "keyword": "cocoa hazelnut cookies",
+        "volume": 1900,
+        "competition": 60
+      },
+      {
+        "keyword": "sugar cookie roll",
+        "volume": 1600,
+        "competition": 24
+      },
+      {
+        "keyword": "hazelnut cookie recipes",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "rolling out sugar cookies",
+        "volume": 880,
+        "competition": 12
+      },
+      {
+        "keyword": "nut horn cookies",
+        "volume": 720,
+        "competition": 60
+      },
+      {
+        "keyword": "baci di dama recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "choc chip and hazelnut cookies",
+        "volume": 720,
+        "competition": 25
+      },
+      {
+        "keyword": "choc chip hazelnut cookies",
+        "volume": 720,
+        "competition": 25
+      },
+      {
+        "keyword": "chocolate chip and hazelnut cookies",
+        "volume": 720,
+        "competition": 25
+      },
+      {
+        "keyword": "chocolate chip cookies with hazelnuts",
+        "volume": 720,
+        "competition": 25
+      },
+      {
+        "keyword": "vanilla shortbread cookies",
+        "volume": 590,
+        "competition": 50
+      },
+      {
+        "keyword": "hazelnut biscotti",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "vanilla shortbread",
+        "volume": 590,
+        "competition": 34
+      },
+      {
+        "keyword": "cinnamon roll and cookie dough",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "cinnamon roll cookie dough",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "hazelnut shortbread",
+        "volume": 590,
+        "competition": 20
+      },
+      {
+        "keyword": "hazelnut shortbread biscuits",
+        "volume": 590,
+        "competition": 20
+      },
+      {
+        "keyword": "hazelnut shortbread cookie",
+        "volume": 590,
+        "competition": 20
+      },
+      {
+        "keyword": "pillsbury crescent roll cook time",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "vanilla shortbread biscuits",
+        "volume": 590,
+        "competition": 50
+      },
+      {
+        "keyword": "baci di dama cookies",
+        "volume": 480,
+        "competition": 44
+      },
+      {
+        "keyword": "biscotti chocolate hazelnut",
+        "volume": 480,
+        "competition": 42
+      },
+      {
+        "keyword": "chocolate and hazelnut biscotti",
+        "volume": 480,
+        "competition": 42
+      },
+      {
+        "keyword": "hazelnut oreos",
+        "volume": 390,
+        "competition": 35
+      },
+      {
+        "keyword": "sugar cookie dough roll",
+        "volume": 390,
+        "competition": 69
+      },
+      {
+        "keyword": "pillsbury cookie dough roll",
+        "volume": 390,
+        "competition": 62
+      },
+      {
+        "keyword": "ferrero rocher biscuit recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "roll out cookie",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "roll out cookie recipe",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "roll out cookie dough",
+        "volume": 320,
+        "competition": 46
+      },
+      {
+        "keyword": "oreo hazelnut",
+        "volume": 320,
+        "competition": 41
+      },
+      {
+        "keyword": "biscotti hazelnut recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "cookie dough roll out",
+        "volume": 320,
+        "competition": 46
+      },
+      {
+        "keyword": "chocolate and hazelnut cookies recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate hazelnut cookie recipe",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "roll out sugar cookie dough",
+        "volume": 260,
+        "competition": 45
+      },
+      {
+        "keyword": "vanilla shortbread cookie recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "vanilla shortbread recipe",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate hazelnut oreo",
+        "volume": 210,
+        "competition": 46
+      },
+      {
+        "keyword": "cookie cutter sugar cookie dough",
+        "volume": 210,
+        "competition": 19
+      },
+      {
+        "keyword": "hazelnut biscuit recipe",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "hazelnut brownies recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "oreo chocolate hazelnut",
+        "volume": 210,
+        "competition": 46
+      },
+      {
+        "keyword": "chocolate hazelnut biscotti recipe",
+        "volume": 170,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "vanilla-berry-salad",
+  "title": "Vanilla Berry Salad",
+  "seed_keywords": [
+    "fresh berry salad",
+    "vanilla fruit salad",
+    "berry salad recipe",
+    "mixed berries syrup",
+    "summer berry dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "salads with marshmallows",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "berries in salad",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "berries salad",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "salad berries",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "blue berry salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for summer pudding",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "berry spinach salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry and spinach salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry spinach salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry fluff salad recipe",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach and berry salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "trifle berry recipe",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "berries fruit salad",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "fruit and berry salad",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "fruit salad using vanilla pudding",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "fruit salad vanilla pudding",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "wheat berry salad",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry and strawberry salad",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry salad ideas",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry salads recipes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry strawberry salad",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "fruit salad using pudding",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "mary berry summer pudding",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "salad with raspberries",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "summer fruit pudding mary berry",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "berry salad recipe",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "blackberry salad recipes",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for frozen fruit salad",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "salad recipes with berries",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "wheat salad",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "berry summer salad",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry and watermelon salad",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry jell o salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry watermelon salad",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "summer trifle",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "tequila berry salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "berry cheesecake salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry and chicken salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry feta salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry kale salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken blueberry salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "kale and berry salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "kale and blueberry salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "mary berry waldorf salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry and spinach salad",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "raspberry spinach salad",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "salad with blueberries and feta",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "summer berries trifle",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "waldorf salad mary berry",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "berry chicken salad",
+        "volume": 390,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

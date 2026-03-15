@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-pepper-skillet-bake",
+  "title": "Stuffed Pepper Skillet Bake",
+  "seed_keywords": [
+    "stuffed pepper skillet",
+    "ground beef rice",
+    "one pot dinner",
+    "bell pepper casserole",
+    "beef tomato skillet"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "one pot meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pan meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one dish meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "1 pot meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot meals recipes",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "easy crock pot meal",
+        "volume": 74000,
+        "competition": 37
+      },
+      {
+        "keyword": "one pot meal ideas",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "single pan meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "0ne pot meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pan meals for one",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot dishes recipes",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot lunch",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot meals for one",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot one meal",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "single pot meal",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "ground beef and rice recipes",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "chop meat and rice recipes",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "ground beef recipe rice",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "ground meat and rice recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "ground meat recipes with rice",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger meat and rice recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger meat recipes with rice",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger meat with rice recipes",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "korean beef bowl",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe using ground beef and rice",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes with rice and hamburger meat",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed pepper casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "beef bowls recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot meal pasta",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "one pot pasta ideas",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed bell pepper casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed green pepper casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed red pepper casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot dinner ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "crock pot supper ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "one pot chicken & rice",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot chicken and rice dishes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot chicken rice dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pan dinner ideas",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one pot dinner ideas",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one pan dinner recipes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one pot recipes for dinner",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "chicken crock pot meal",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "one dish dinner ideas",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one dish dinner recipes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "1 pot dinner recipes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "korean beef bowl recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "one pot dinner dishes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "onepot dinner recipes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "recipe for korean beef bowl",
+        "volume": 18100,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

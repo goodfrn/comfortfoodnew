@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-pecan-pie-bars",
+  "title": "Twisted Pecan Pie Bars",
+  "seed_keywords": [
+    "pecan pie bars",
+    "shortbread bars",
+    "maple pecan filling",
+    "brown sugar bars",
+    "cinnamon pecan dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shortbread millionaire",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "millionaire shortbread cookie recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "millionaire slice recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "pie bars",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe millionaire shortbread",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "shortbread caramel recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "pecan pie bars",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "pecan pie dessert bars",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "pecan bars",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "pecan pie bars recipe",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "lemon bar shortbread crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon bars with shortbread cookie crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon squares shortbread crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "pecan nut bars",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "pecan bars recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "millionaire bars",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "bar millionaire",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "shortbread crust",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "shortbread bars",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "shortbread bar cookies",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheesecake pecan pie bars",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "millionaire bar recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "millionaire shortbread bar",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "millionaire's shortbread bar",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "caramel shortbread recipe easy",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "caramel squares recipes",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate shortbread caramel",
+        "volume": 1000,
+        "competition": 32
+      },
+      {
+        "keyword": "easy pecan pie bars",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "easy recipe for caramel shortcake",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry shortbread bars",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "raspberry shortbread cookie bars",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "raspberry shortbread squares",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "shortbread caramel and chocolate",
+        "volume": 1000,
+        "competition": 32
+      },
+      {
+        "keyword": "easy caramel shortcake",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon bar shortbread",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon shortbread squares",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "mary berry millionaires shortbread",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "pecan pie bars shortbread crust",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "pecan pie bars with shortbread crust",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "pecan pie squares with shortbread crust",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for shortbread bars",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for shortbread squares",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "shortbread bar cookie recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "shortbread square recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "tesco millionaires shortbread",
+        "volume": 880,
+        "competition": 43
+      },
+      {
+        "keyword": "chocolate pecan pie bars",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "easy pecan bar recipe",
+        "volume": 720,
+        "competition": 10
+      },
+      {
+        "keyword": "pecan pie bars pioneer woman",
+        "volume": 720,
+        "competition": 16
+      },
+      {
+        "keyword": "pecan square recipe",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "shortbread crumb",
+        "volume": 720,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

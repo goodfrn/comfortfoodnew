@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-chicken-goat-cheese",
+  "title": "Stuffed Chicken with Goat Cheese & Red Cabbage",
+  "seed_keywords": [
+    "stuffed chicken breast",
+    "roasted chicken cheese",
+    "chicken goat cheese",
+    "braised red cabbage",
+    "chicken and cabbage"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "stuffed chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast and stuffing",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast stuffed with stuffing",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast with filling",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken stuffed chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "filling for stuffed chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "stuffed chicken breast dishes",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "stuffed chicken breast recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken breast and stuffing recipe",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken breast filling recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken breast stuffed with stuffing recipe",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken breast with filling recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for stuffed chicken fillets",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed chicken breast meal",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken casseroles with stuffing",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe chicken fillets",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "braised red cabbage",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "braised redcabbage",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffed chicken",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "braising cabbage",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken & stuffing crockpot",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and stuffing crockpot",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and stuffing in a slow cooker",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken stuffed chicken",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken stuffed dishes",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken stuffed stuffing",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken stuffed with chicken",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "stuffed chicken filling",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "stuffed chicken in crock pot",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "braised red cabbage recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage & chicken recipes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage and chicken recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and cabbage dish",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and cabbage meals",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken cabbage dish",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken breast rolled in bacon",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken breast wrapped in bacon",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffed chicken breast with spinach",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken breast filled with spinach",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes with stuffing and chicken",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed chicken recipes",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "christmas red cabbage",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "cabbage recipes braised",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffed chicken dishes recipes",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed chicken meal",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "xmas red cabbage",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon wrapped stuffed chicken breast",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and stuffing slow cooker recipe",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken breast stuffed and wrapped in bacon",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken breast stuffed with stuffing wrapped in bacon",
+        "volume": 5400,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "snickerdoodle-cookies-twist",
+  "title": "Snickerdoodle Cookies Twist",
+  "seed_keywords": [
+    "snickerdoodle cookies",
+    "cinnamon sugar cookies",
+    "browned butter cookies",
+    "cardamom cinnamon cookies",
+    "homemade cookie recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "snickerdoodle",
+        "volume": 201000,
+        "competition": 5
+      },
+      {
+        "keyword": "snickerdoodle recipe cookies",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "brown butter chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "snickerdoodle cookies",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "snicker doodles cookie",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "recipe for how to make chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "homemade chocolate chip cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade chocolate cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "handmade chocolate chip cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "home made choc chip cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade cc cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade chip cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade chocolate chocolate chip cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade cocoa cookies",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade cookies",
+        "volume": 22200,
+        "competition": 32
+      },
+      {
+        "keyword": "brown butter butter cookies",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon cookie",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "shortbread recipe easy",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "shortbread cookie recipe easy",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "brownies recipe scratch",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cinnamon bun cookies recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "rolled cinnamon cookies",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "short bread recipe easy",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "shortbread biscuit recipe easy",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade sugar cookies",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "homemade sugar cookie recipe",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "home made sugar cookies",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "brown butter chocolate chip cookie recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "handmade sugar cookies",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "homemade cookies sugar cookies",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin cookies snickerdoodles",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin snicker doodle",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin snicker doodle cookies",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for soft cookies",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade cookie recipes",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "homemade peanut butter cookies",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "homemade pb cookies",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "broma bakery brown butter cookies",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "handmade cookies recipe",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "home peanut butter cookies",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "homemade peanut cookies",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "oatmeal creme pies recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "biscuits cinnamon",
+        "volume": 8100,
+        "competition": 46
+      },
+      {
+        "keyword": "cinnamon sugar cookies",
+        "volume": 6600,
+        "competition": 6
+      },
+      {
+        "keyword": "chocolate chip cookies without brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookies no brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "brown butter cookie recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "butter pecan cookie recipe",
+        "volume": 6600,
+        "competition": 50
+      },
+      {
+        "keyword": "chocolate chip cookies made without brown sugar",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "cinnamon and sugar cookie",
+        "volume": 6600,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

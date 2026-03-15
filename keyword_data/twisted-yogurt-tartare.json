@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-yogurt-tartare",
+  "title": "Twisted Yogurt Tartare",
+  "seed_keywords": [
+    "vegetable tartare",
+    "yogurt appetizer",
+    "quick pickled vegetables",
+    "radish salad",
+    "tartare without fish"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "radish salad",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber quick pickle",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast cucumber pickle",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickled cucumber",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickles cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "onion quick pickle",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "quick pickle for cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "radish for salad",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "radish on salad",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "pickled veggie recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "fast pickled carrots",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "instant pickled carrots",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickle carrots quickly",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickled carrots quick",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "radish salad recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber & radish salad",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and radish salad",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "radish & cucumber salad",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "radish salad ideas",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "salad with radish and cucumber",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "onion pickle in vinegar",
+        "volume": 2900,
+        "competition": 14
+      },
+      {
+        "keyword": "pickled onions with pickling vinegar",
+        "volume": 2900,
+        "competition": 14
+      },
+      {
+        "keyword": "pickling white onions",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "beets pickled quick",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "daikon in salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "easy refrigerator cucumber pickles",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "fast pickled beets",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "fast pickled onions",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "instant pickled beets",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "japanese radish salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickle cabbage quick",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "quick pickled beetroot",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "simple pickled cabbage",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fast pickled radish",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "pickled radish quick",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "quick pickled vegetables",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "cooked watermelon radish",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "easy pickled cucumber",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickled vegetables",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "pickled red cabbage quick",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "quick pickle veggies",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe watermelon radish",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "simple cucumber pickle",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "beet and radish",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "beet radish",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "beetroot radish",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "radish and beet",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "radish and carrot",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "easy pickled beets",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "simple easy pickled beets",
+        "volume": 1000,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

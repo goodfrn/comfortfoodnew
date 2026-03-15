@@ -1,0 +1,267 @@
+{
+  "slug": "veal-medallions-tomatoes",
+  "title": "Veal Medallions With Fresh Tomatoes",
+  "seed_keywords": [
+    "veal medallions",
+    "roasted asparagus potatoes",
+    "veal main dishes",
+    "white wine veal sauce",
+    "fresh tomato basil"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "basil mozzarella tomato",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "basil tomato and mozzarella",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mozzarella and tomato and basil",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mozzarella and tomato with basil",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato and mozzarella with basil",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mozzarella & tomatoes",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "fresh basil and tomato pasta",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "fresh basil tomato pasta",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "pasta recipe with basil and tomato",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "pasta with basil and tomatoes",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "fresh basil and pasta recipes",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh basil pasta recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "mozzarella and tomato",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "pasta tomato mozzarella",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta with tomatoes and mozzarella",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "veal medallions",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "medallion veal",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "italian recipes with basil",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "mozzarella and tomatoes recipe",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "tomato sauce basil recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted asparagus potatoes",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus and potato bake",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus potato bake",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "cherry tomatoes and basil pasta",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh basil and tomato recipes",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "roast potatoes and asparagus",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti with basil and tomatoes",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "asparagus and potatoes",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus potatoes",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus with potatoes",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus and potatoes recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with fresh tomatoes garlic and basil",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "basil tomato garlic pasta",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "basil tomato mozzarella pasta",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "fresh basil's trattoria",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta basil tomato garlic",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta with basil tomatoes and mozzarella",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta with garlic tomatoes and basil",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta with tomato basil and mozzarella",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato basil pasta mozzarella",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "bocconcini basil tomato",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "bocconcini tomato and basil",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "fresh mozzarella and tomato",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "fresh mozzarella tomato",
+        "volume": 480,
+        "competition": 5
+      },
+      {
+        "keyword": "white veal ragu",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "basil tomato mozzarella recipe",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "cherry tomato mozzarella",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cherry tomatoes and mozzarella",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "fresh basil and pasta",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "fresh basil in tomato sauce",
+        "volume": 390,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-cajun-chicken",
+  "title": "Spiced Cajun Chicken Fettuccine",
+  "seed_keywords": [
+    "cajun chicken pasta",
+    "creamy chicken fettuccine",
+    "cajun pasta dishes",
+    "chicken alfredo sauce",
+    "spiced chicken dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "alfredo and chicken",
+        "volume": 301000,
+        "competition": 5
+      },
+      {
+        "keyword": "alfredo with chicken",
+        "volume": 301000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken alfredo chicken",
+        "volume": 301000,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken alfredo recipe",
+        "volume": 201000,
+        "competition": 16
+      },
+      {
+        "keyword": "ck alfredo recipe",
+        "volume": 201000,
+        "competition": 16
+      },
+      {
+        "keyword": "cajun chicken pasta",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and pasta",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "olive garden chicken alfredo",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken fettuccine alfredo olive garden",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "alfredo and chicken pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "alfredo chicken and pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "alfredo sauce chicken pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo fettuccine pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo linguine",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo pasta dish",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo sauce olive garden",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and pasta with alfredo sauce",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "fettuccine alfredo with chicken olive garden",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "cajun pasta",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "easy alfredo recipes",
+        "volume": 33100,
+        "competition": 21
+      },
+      {
+        "keyword": "penne fettuccine alfredo",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken alfredo near me",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "chicken fettuccine alfredo",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken alfredo pasta fettuccine",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and fettuccine alfredo",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "fettuccine chicken alfredo pasta",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "cajun pasta dishes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun pasta recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "alfredo chicken crock pot",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "alfredo chicken slow cooker",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "alfredo crock pot chicken",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "cajun noodles recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun pasta shrimp",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun shrimp and pasta",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo in a crockpot",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo in a slow cooker",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo in the slow cooker",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken alfredo sauce in crock pot",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken fettuccine alfredo crockpot",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken with alfredo sauce in crock pot",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "simple chicken alfredo sauce recipe",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "slow cooker chicken alfredo sauce",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker chicken fettuccine alfredo",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker chicken with alfredo sauce",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "cajun chicken pasta recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken alfredo with broccoli",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "dairy free fettuccine alfredo",
+        "volume": 14800,
+        "competition": 76
+      },
+      {
+        "keyword": "recipe chicken alfredo pasta",
+        "volume": 14800,
+        "competition": 12
+      },
+      {
+        "keyword": "fettuccine alfredo with chicken and broccoli",
+        "volume": 14800,
+        "competition": 10
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

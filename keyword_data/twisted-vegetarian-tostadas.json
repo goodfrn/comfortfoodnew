@@ -1,0 +1,82 @@
+{
+  "slug": "twisted-vegetarian-tostadas",
+  "title": "Twisted Vegetarian Tostadas",
+  "seed_keywords": [
+    "vegetarian tostadas",
+    "black bean tostadas",
+    "guacamole chickpea bowls",
+    "mexican appetizer platter",
+    "tostada assembly ideas"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bean tostada",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean tostadas",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian tostadas",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "veggie tostada",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean tostada recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "meatless tostada recipe",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "tostada recipe vegetarian",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "tostada recipes vegetarian",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "bean tostada recipe",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan tostada recipe",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato tostadas",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "tostada with beans",
+        "volume": 110,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan tostada",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

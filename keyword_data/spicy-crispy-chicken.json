@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-crispy-chicken",
+  "title": "Spicy Crispy Chicken",
+  "seed_keywords": [
+    "crispy fried chicken",
+    "spicy chicken glaze",
+    "asian chicken dinner",
+    "chicken sriracha sauce",
+    "crispy chicken wings"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "crispy chicken",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy crispy chicken",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "making fried chicken",
+        "volume": 165000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wings in the air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken wings in an air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "air fryer fried chicken wings",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "air fry chicken wingettes",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken fried chicken in air fryer",
+        "volume": 90500,
+        "competition": 16
+      },
+      {
+        "keyword": "baked chicken wings",
+        "volume": 60500,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy fried chicken",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wings in oven",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "wings in air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "wings in an air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "wings in a air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "fried chicken in the oven",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "buttermilk and fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy chicken fried chicken",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "wings in an airfryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "chicken wings in air fryer",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "oven baked chicken wings",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken wing fryer",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "cooking chicken wings in the oven",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "making chicken wings in oven",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "baked buffalo wings baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baked chicken wings baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking chicken wings with baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking powder and chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking powder baked chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking powder chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "baking powder for chicken wings",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "buffalo wings baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wings and baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wings baked with baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken wings in baking powder",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "kfc chicken stripes",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "crispy chicken wings",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "crispy buffalo wings",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "crispy hot wings",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "asian chicken dishes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken fried chicken air fryer",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wings crunchy",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "fried chicken in a air fryer",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "southern fried chicken in air fryer",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wings air fryer",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "baked chicken wings crispy",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "fried chicken breast",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crunchy crispy chicken",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "baked crispy buffalo wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "baked crispy hot wings",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "buffalo wings deep fried",
+        "volume": 18100,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

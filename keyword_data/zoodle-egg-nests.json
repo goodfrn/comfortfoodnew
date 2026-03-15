@@ -1,0 +1,267 @@
+{
+  "slug": "zoodle-egg-nests",
+  "title": "Zoodle Egg Nests",
+  "seed_keywords": [
+    "egg muffin cups",
+    "zucchini egg bake",
+    "vegetable egg nests",
+    "baked eggs cheese",
+    "zoodle breakfast muffins"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "egg muffins",
+        "volume": 201000,
+        "competition": 2
+      },
+      {
+        "keyword": "eggs and muffins",
+        "volume": 201000,
+        "competition": 2
+      },
+      {
+        "keyword": "breakfast egg muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "morning egg muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "egg muffins recipe",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "sausage and egg muffins",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "cottage cheese and egg bake",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese and egg casserole",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese egg casserole",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese eggs bake",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "egg muffin sausage",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "bacon and egg muffin",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg muffin",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked eggs cottage cheese",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese eggs recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "egg muffin cups",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "egg cups recipe",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "egg muffin cups recipe",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "eggs in muffin tin",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg muffin pan",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg in muffin tin recipe",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "cupcake pan eggs",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "cupcake tin eggs",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg dish in muffin tin",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg in muffin pan recipe",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "egg mcmuffin cups",
+        "volume": 9900,
+        "competition": 20
+      },
+      {
+        "keyword": "eggs cooked in muffin tin recipes",
+        "volume": 9900,
+        "competition": 33
+      },
+      {
+        "keyword": "sausage egg and cheese casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "sausage egg cheese casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese sausage egg bake",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "egg and sausage and cheese casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "sausage and cheese egg casserole",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "cottage cheese and egg muffins",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "cottage cheese egg muffins",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "egg and cottage cheese muffins",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "baked eggs in muffin tins",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "bake eggs in muffin pan",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked eggs cupcake pan",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "baked eggs in cupcake tins",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "muffin pan baked eggs",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "breakfast egg muffins recipe",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "baked eggs with ham and cheese",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked ham egg and cheese casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "egg casserole with ham and cheese",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "egg cheese ham bake",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and cheese and egg casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and egg and cheese casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and egg cheese casserole",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "spinach egg muffins",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "spinach and egg muffins",
+        "volume": 2900,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

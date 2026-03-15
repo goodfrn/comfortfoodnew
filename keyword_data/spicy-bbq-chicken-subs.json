@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-bbq-chicken-subs",
+  "title": "Spicy BBQ Chicken Subs",
+  "seed_keywords": [
+    "spicy bbq chicken",
+    "pulled chicken sandwiches",
+    "bbq chicken subs",
+    "shredded chicken dinner",
+    "chicken sandwich recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken for sandwich",
+        "volume": 246000,
+        "competition": 6
+      },
+      {
+        "keyword": "sandwich chicken sandwich",
+        "volume": 246000,
+        "competition": 6
+      },
+      {
+        "keyword": "meals with shredded chicken",
+        "volume": 74000,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken salad sandwich",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken and salad sandwich",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken grilled sandwich",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken sandwich recipes",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "chick fil a sandwiches",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "chick fil grilled nuggets",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken sandwich ideas",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken sandwich meals",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled nuggets from chick fil a",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken salad sandwich recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "panera chipotle chicken avocado melt",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken chipotle avocado melt panera",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken salad sandwich ideas",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "chipotle chicken avocado melt panera bread",
+        "volume": 33100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken parmesan sandwich",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken parm sandwich",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken parmigiana sandwich",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken spicy sandwich",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "fried chicken sandwich",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "popeyes classic chicken sandwich",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken mayo",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "spicy chicken chick fil a",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "crispy chicken sandwiches",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken pesto sandwiches",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "buffalo chicken sandwiches",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "chick pea salad sandwich",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken panini sandwich",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "healthiest things at chick fil a",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "healthy meals from chick fil a",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "meals using shredded chicken",
+        "volume": 12100,
+        "competition": 42
+      },
+      {
+        "keyword": "panini with chicken",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "wendys spicy chicken burger",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "chick fil a chicken strip",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken cutlet sandwiches",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "chickfila peppermint shake",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "nashville hot chicken sandwiches",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "sandwich hot",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "fried chicken sandwich recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled chicken sandwich recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq chicken sandwich",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken mayo sandwich",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue chicken sandwich",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "blackened chicken tenders popeyes",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken & mayo sandwich",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and mayo sandwich",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and mayonnaise sandwich",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken fried steak cracker barrel",
+        "volume": 8100,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

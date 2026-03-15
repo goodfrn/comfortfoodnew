@@ -1,0 +1,267 @@
+{
+  "slug": "slow-roast-rib-beef",
+  "title": "Slow-Roast Rib Beef Twist",
+  "seed_keywords": [
+    "slow roasted beef",
+    "rib roast recipe",
+    "beef roast red wine",
+    "horseradish beef roast",
+    "low temperature beef cooking"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "roasted roast beef",
+        "volume": 368000,
+        "competition": 16
+      },
+      {
+        "keyword": "primerib",
+        "volume": 301000,
+        "competition": 40
+      },
+      {
+        "keyword": "rib roast prime rib",
+        "volume": 301000,
+        "competition": 40
+      },
+      {
+        "keyword": "standing rib roast prime rib",
+        "volume": 301000,
+        "competition": 40
+      },
+      {
+        "keyword": "mississippi pot roast",
+        "volume": 246000,
+        "competition": 21
+      },
+      {
+        "keyword": "pot chuck roast",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "prime rib recipe",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "short rib recipes",
+        "volume": 90500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker chuck roast",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chuck roast crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for cooking prime rib",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "beef brisket in a crock pot",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef chuck crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck in crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck in slow cooker",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck roast crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck roast in slow cooker",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chuck pot roast in slow cooker",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chuck slow cook",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "crock pot chuck",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "make prime rib",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cook chuck roast crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cooker pot roast",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cook pot roast crock pot",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cook pot roast in slow cooker",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "prime rib roast",
+        "volume": 60500,
+        "competition": 70
+      },
+      {
+        "keyword": "prime standing rib roast",
+        "volume": 60500,
+        "competition": 70
+      },
+      {
+        "keyword": "prime prime rib roast",
+        "volume": 60500,
+        "competition": 70
+      },
+      {
+        "keyword": "roast rib roast",
+        "volume": 60500,
+        "competition": 70
+      },
+      {
+        "keyword": "slow cooker roast beef",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker pot roast recipe",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "beef roast crock pot",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "mississippi pot roast recipe",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "cook roast beef in slow cooker",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cook beef roast crock pot",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cook roast beef in slow cooker",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooked beef slow cooker",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooked roast beef slow cooker",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker roast meat",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow pot roast beef",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow pot roast recipe",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "slow roast beef in slow cooker",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow roast beef slow cooker",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "braised beef short rib recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cook beef brisket recipe",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "prime rib roast recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "crock pot roast beef recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "roast beef recipe slow cooker",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "chuck roast recipes slow cooker",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for chuck roast in crock pot",
+        "volume": 33100,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

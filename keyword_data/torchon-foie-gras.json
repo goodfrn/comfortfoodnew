@@ -1,0 +1,57 @@
+{
+  "slug": "torchon-foie-gras",
+  "title": "Torchon Foie Gras Twist",
+  "seed_keywords": [
+    "foie gras appetizer",
+    "poached foie gras",
+    "french foie gras torchon",
+    "foie gras white wine",
+    "citrus foie gras"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "foie gras appetizer",
+        "volume": 210,
+        "competition": 25
+      },
+      {
+        "keyword": "foie gras appetizer recipe",
+        "volume": 110,
+        "competition": 2
+      },
+      {
+        "keyword": "foie gras torchon",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "how to make foie gras at home",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "torchon foie gras twist",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "foie gras terrine with white wine",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade foie gras cloth wrapping",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "foie gras cooking method",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

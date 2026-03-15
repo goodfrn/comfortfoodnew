@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-chai-latte-twist",
+  "title": "Spiced Chai Latte Twist",
+  "seed_keywords": [
+    "chai latte recipe",
+    "spiced tea latte",
+    "lavender chai tea",
+    "black tea simmer",
+    "vegan chai drink"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chai chai tea",
+        "volume": 165000,
+        "competition": 76
+      },
+      {
+        "keyword": "dirty chai drink",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chai latte dirty",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "tea chai latte starbucks",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "chai latte recipe",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "iced chai latte",
+        "volume": 18100,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for chai tea",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "recipes with chai tea",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "iced chai latte starbucks",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "starbuck chai latte",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "chai tea latte how to make",
+        "volume": 12100,
+        "competition": 31
+      },
+      {
+        "keyword": "iced chai latte from starbucks",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin chai latte",
+        "volume": 8100,
+        "competition": 46
+      },
+      {
+        "keyword": "pumpkin chai starbucks",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin chai tea latte",
+        "volume": 8100,
+        "competition": 46
+      },
+      {
+        "keyword": "ingredients in chai tea",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "pumpkin chai latte tea",
+        "volume": 8100,
+        "competition": 46
+      },
+      {
+        "keyword": "pumpkin chai tea starbucks",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "starbucks chai tea pumpkin",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chai tea latte recipe",
+        "volume": 5400,
+        "competition": 12
+      },
+      {
+        "keyword": "starbucks pumpkin chai latte",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chai latte starbucks recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "starbucks chai tea latte recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "chai latte ingredients",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "chai tea latte ingredients",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "chai concentrate recipe",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "chai latte concentrate recipe",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "chai latte contents",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "chai latte ice",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "chai tea concentrate recipe",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "chai tea recipe concentrate",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "chilled chai latte",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "iced tea chai latte",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for chai tea latte starbucks",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "pumpkin spice chai latte",
+        "volume": 3600,
+        "competition": 75
+      },
+      {
+        "keyword": "chai drink",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "chai latte pumpkin spice",
+        "volume": 3600,
+        "competition": 75
+      },
+      {
+        "keyword": "pumpkin spice chai tea latte",
+        "volume": 3600,
+        "competition": 75
+      },
+      {
+        "keyword": "chai tea drink",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "chai tea latte pumpkin spice",
+        "volume": 3600,
+        "competition": 75
+      },
+      {
+        "keyword": "pumpkin spice latte chai",
+        "volume": 3600,
+        "competition": 75
+      },
+      {
+        "keyword": "pumpkin spice latte with chai",
+        "volume": 3600,
+        "competition": 75
+      },
+      {
+        "keyword": "dirty chai latte recipe",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "iced chai latte recipe",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "iced chai tea latte recipe",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "chai tea latte iced recipe",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "chai tea milk",
+        "volume": 2900,
+        "competition": 19
+      },
+      {
+        "keyword": "cold chai latte recipe",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "cold chai tea latte recipe",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "dirty chai tea latte recipe",
+        "volume": 2900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

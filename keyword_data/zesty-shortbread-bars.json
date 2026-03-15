@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-shortbread-bars",
+  "title": "Zesty Shortbread Bars",
+  "seed_keywords": [
+    "lemon shortbread cookies",
+    "shortbread bars recipe",
+    "butter lemon bars",
+    "cornstarch cookie dough",
+    "citrus shortbread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shortbread millionaire",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "millionaire shortbread cookie recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe millionaire shortbread",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "shortbread caramel recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon shortbread cookies",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "lemon shortbread",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "lemon shortbread biscuit",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "lemon shortcake cookies",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "shortbread cookies with lemon",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "lemon bar shortbread crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon bars with shortbread cookie crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon squares shortbread crust",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "millionaire bars",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "bar millionaire",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon shortbread biscuit recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon shortbread cookie recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon shortbread recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "shortbread crust",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "shortbread bars",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "shortbread bar cookies",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "millionaire bar recipe",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "millionaire shortbread bar",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "millionaire's shortbread bar",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "caramel shortbread recipe easy",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "caramel squares recipes",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chocolate shortbread caramel",
+        "volume": 1000,
+        "competition": 32
+      },
+      {
+        "keyword": "easy recipe for caramel shortcake",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "raspberry shortbread bars",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "raspberry shortbread squares",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "shortbread caramel and chocolate",
+        "volume": 1000,
+        "competition": 32
+      },
+      {
+        "keyword": "shortbread bars recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "easy caramel shortcake",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "lavender and lemon shortbread",
+        "volume": 880,
+        "competition": 14
+      },
+      {
+        "keyword": "lavender lemon shortbread",
+        "volume": 880,
+        "competition": 14
+      },
+      {
+        "keyword": "lavender lemon shortbread cookies",
+        "volume": 880,
+        "competition": 14
+      },
+      {
+        "keyword": "lemon bar shortbread",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon shortbread squares",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "mary berry millionaires shortbread",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for shortbread squares",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "shortbread bar cookie recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "shortbread square recipe",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "tesco millionaires shortbread",
+        "volume": 880,
+        "competition": 43
+      },
+      {
+        "keyword": "shortbread crumb",
+        "volume": 720,
+        "competition": 9
+      },
+      {
+        "keyword": "lemon and rosemary shortbread",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon curd shortbread",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "lemon curd shortbread biscuits",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "lemon curd shortbread cookies",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "lemon rosemary shortbread",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon rosemary shortbread cookies",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon shortbread biscuits mary berry",
+        "volume": 590,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

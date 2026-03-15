@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-pepperoni-pizza-rolls",
+  "title": "Stuffed Pepperoni Pizza Rolls",
+  "seed_keywords": [
+    "pepperoni pizza appetizers",
+    "crescent roll pizza",
+    "stuffed pizza rolls",
+    "mozzarella pepperoni snacks",
+    "pizza dough rolls"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "croissant pizza",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "crescent roll pizza",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "pizza on crescent rolls",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "pizza rolls from crescent rolls",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "pizza using crescent rolls",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "crescent roll veggie pizza",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "crescent dough veggie pizza",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "crescent roll recipes veggie pizza",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "crescent roll vegetable pizza",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "vegetable pizza made with crescent rolls",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "vegetable pizza using crescent rolls",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "veggie pizza made with crescent rolls",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "veggie pizza using crescent rolls",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "crescent pizza",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "pepperoni pizza bread roll",
+        "volume": 1900,
+        "competition": 72
+      },
+      {
+        "keyword": "home made pizza pockets",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "pillsbury crescent roll dough sheet recipes",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "crescent pizza roll recipes",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "pizza roll recipe with crescent rolls",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable pizza pillsbury",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "pepperoni crescent rolls",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "crescent roll pepperoni roll",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "crescent rolls and pepperoni",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "pepperoni roll with crescent rolls",
+        "volume": 1000,
+        "competition": 5
+      },
+      {
+        "keyword": "pizza hut pizza roller",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "pizza puff pastry rolls",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for vegetable pizza made with crescent rolls",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe for vegetable pizza using crescent rolls",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe for vegetable pizza with crescent rolls",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe for veggie pizza using crescent rolls",
+        "volume": 1000,
+        "competition": 13
+      },
+      {
+        "keyword": "croissant pizza crust",
+        "volume": 880,
+        "competition": 72
+      },
+      {
+        "keyword": "roll out pizza dough",
+        "volume": 880,
+        "competition": 57
+      },
+      {
+        "keyword": "breakfast pizza with crescent rolls",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "breakfast pizza made with crescent rolls",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "breakfast pizza using crescent rolls",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "croissant dough pizza",
+        "volume": 880,
+        "competition": 72
+      },
+      {
+        "keyword": "rollin dough pizza",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "crescent pizza roll ups",
+        "volume": 720,
+        "competition": 6
+      },
+      {
+        "keyword": "crescent roll pizza roll ups",
+        "volume": 720,
+        "competition": 6
+      },
+      {
+        "keyword": "pizza bread roll",
+        "volume": 720,
+        "competition": 12
+      },
+      {
+        "keyword": "pillsbury crescent pizza rolls",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "pillsbury croissant pizza rolls",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "pillsbury recipe for veggie pizza",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "pizza from pillsbury crescent rolls",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "rhodes dinner roll pizza",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "rhodes pizza dough",
+        "volume": 480,
+        "competition": 44
+      },
+      {
+        "keyword": "appetizer with pepperoni",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "crescent vegetable pizza",
+        "volume": 480,
+        "competition": 13
+      },
+      {
+        "keyword": "crescent veggie pizza",
+        "volume": 480,
+        "competition": 13
+      },
+      {
+        "keyword": "pillsbury pizza roll",
+        "volume": 480,
+        "competition": 25
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

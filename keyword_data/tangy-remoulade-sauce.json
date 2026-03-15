@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-remoulade-sauce",
+  "title": "Tangy Remoulade Sauce",
+  "seed_keywords": [
+    "remoulade sauce",
+    "creamy condiment sauce",
+    "mayo mustard sauce",
+    "horseradish sauce recipe",
+    "tangy seafood sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "remoulade",
+        "volume": 165000,
+        "competition": 7
+      },
+      {
+        "keyword": "remoulade sauce",
+        "volume": 74000,
+        "competition": 15
+      },
+      {
+        "keyword": "horseradish sauce",
+        "volume": 60500,
+        "competition": 57
+      },
+      {
+        "keyword": "cocktail sauce recipe",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "recipes with cocktail sauce",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "horseradish sauce recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "horseradish sauce for prime rib",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "crab cakes with sauce",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "horseradish sauce for prime rib roast",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "horseradish sauce for rib roast",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "horseradish sauce for standing rib roast",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "prepared horseradish sauce recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "prime rib and horseradish sauce",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "sauce for prime rib roast horseradish",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "remoulade recipe",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "remoulade sauce recipe",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade cocktail sauce",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "prepared horse radish",
+        "volume": 8100,
+        "competition": 60
+      },
+      {
+        "keyword": "mayo mustard sauce",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "horseradish cream",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "mustard mayo",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "horseradish recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "horseradish and cream sauce",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "horseradish creme",
+        "volume": 6600,
+        "competition": 25
+      },
+      {
+        "keyword": "horseradish making",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "horseradish sauce heavy cream",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "japanese horse radish",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "mayo and mustard sauce",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "mayo with mustard",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "mayonnaise and mustard sauce",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "mayonnaise mustard sauce",
+        "volume": 6600,
+        "competition": 52
+      },
+      {
+        "keyword": "recipe for making horseradish",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy horseradish sauce",
+        "volume": 5400,
+        "competition": 39
+      },
+      {
+        "keyword": "crab cake remoulade sauce",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "crab cakes and remoulade sauce",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for cocktail sauce for shrimp",
+        "volume": 5400,
+        "competition": 15
+      },
+      {
+        "keyword": "cajun remoulade",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "creamed horseradish sauce recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "horseradish mayo",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "cocktail sauce ingredients",
+        "volume": 2900,
+        "competition": 11
+      },
+      {
+        "keyword": "aioli horseradish",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "dijon mustard mayo",
+        "volume": 2900,
+        "competition": 45
+      },
+      {
+        "keyword": "dijon mustard mayonnaise",
+        "volume": 2900,
+        "competition": 45
+      },
+      {
+        "keyword": "horse radish mayo",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "horse radish sauce for steak",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "horseradish and mayo",
+        "volume": 2900,
+        "competition": 49
+      },
+      {
+        "keyword": "remoulade for shrimp",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "steak and horseradish sauce",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "homemade horseradish sauce",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "cream horseradish recipe",
+        "volume": 1900,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

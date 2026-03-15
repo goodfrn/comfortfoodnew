@@ -1,0 +1,267 @@
+{
+  "slug": "sweet-ricotta-honey",
+  "title": "Sweet Ricotta with Honey Cinnamon",
+  "seed_keywords": [
+    "ricotta desserts",
+    "honey cinnamon cream",
+    "whipped ricotta",
+    "chilled ricotta dessert",
+    "creamy honey desserts"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "ricotta cheesecake",
+        "volume": 201000,
+        "competition": 38
+      },
+      {
+        "keyword": "whipped ricotta",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "ricotta whip",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "whipped ricotta cheese",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cannoli filling",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "ricotta cake",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon ricotta cake",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon and ricotta cake",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon cake with ricotta cheese",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan ricotta cheesecake",
+        "volume": 9900,
+        "competition": 48
+      },
+      {
+        "keyword": "recipe whipped ricotta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "ricotta desserts",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "italian cheesecake",
+        "volume": 6600,
+        "competition": 13
+      },
+      {
+        "keyword": "dessert with ricotta cheese",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "ricotta for dessert",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "baked ricotta cheesecake",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cannoli ricotta",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cannoli ricotta cheese",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "ricotta cheese bake",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "ricotta italian cookies",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "easter italian pie",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "low fat ricotta cheesecake",
+        "volume": 4400,
+        "competition": 76
+      },
+      {
+        "keyword": "ricotta cheese recipes dessert",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "dessert recipe with ricotta",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "dessert recipes using ricotta",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "dessert ricotta cheese recipes",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "desserts with ricotta recipes",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "lemon and ricotta cheesecake",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "lemon cheesecake with ricotta",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "lemon ricotta cheese cake",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "almond and ricotta cake",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "almond ricotta cake",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "baked lemon and ricotta cheesecake",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "baked lemon ricotta cheesecake",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "cannoli filling ricotta",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "ricotta cheese cannoli filling",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade ricotta cheesecake",
+        "volume": 2400,
+        "competition": 13
+      },
+      {
+        "keyword": "whipped honey ricotta",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "whipped ricotta and honey",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "italian ricotta cheesecake",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate ricotta mousse",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "italian cheese cake with ricotta cheese",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "italian cheesecake with ricotta cheese",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "pistachio and ricotta cake",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "pistachio ricotta cake",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "ricotta cheese chocolate mousse",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "ricotta cheese mousse",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "ricotta cheese tiramisu",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "ricotta mousse",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "ricotta pistachio cake",
+        "volume": 1900,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

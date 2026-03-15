@@ -1,0 +1,37 @@
+{
+  "slug": "smoky-bacon-onion-relish",
+  "title": "Smoky Bacon Onion Relish",
+  "seed_keywords": [
+    "bacon onion relish",
+    "caramelized onion condiment",
+    "bacon relish recipe",
+    "homemade condiment topping",
+    "crispy bacon spread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "caramelised onions relish",
+        "volume": 1000,
+        "competition": 64
+      },
+      {
+        "keyword": "bacon relish",
+        "volume": 480,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade hot dog relish",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "caramelized red onion relish",
+        "volume": 110,
+        "competition": 18
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

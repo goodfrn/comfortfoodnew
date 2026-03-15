@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-carbonara-twist",
+  "title": "Smoky Carbonara Twist",
+  "seed_keywords": [
+    "carbonara pasta",
+    "pancetta pasta",
+    "pasta with eggs",
+    "creamy linguine sauce",
+    "italian egg pasta"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "carbonara",
+        "volume": 1500000,
+        "competition": 6
+      },
+      {
+        "keyword": "cabonara",
+        "volume": 1500000,
+        "competition": 6
+      },
+      {
+        "keyword": "carbonaras",
+        "volume": 1500000,
+        "competition": 6
+      },
+      {
+        "keyword": "carbonara dish",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "pasta spaghetti carbonara",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "spageti cabonara",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "spaghetti and carbonara",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "spaghetti carbonara pasta",
+        "volume": 450000,
+        "competition": 8
+      },
+      {
+        "keyword": "pasta karbonara",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "carbonara food",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "carbonara pasta dish",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "italian carbonara pasta",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta carbonara pasta",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "carbonara recipe",
+        "volume": 301000,
+        "competition": 7
+      },
+      {
+        "keyword": "cavati pasta",
+        "volume": 110000,
+        "competition": 48
+      },
+      {
+        "keyword": "pasta fasoi",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "spaghetti carbonara recipe",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "italian spaghetti carbonara recipe",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "sauce for carbonara",
+        "volume": 74000,
+        "competition": 41
+      },
+      {
+        "keyword": "spaghetti alla carbonara recipe",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "carbonara pasta",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "la carbonara",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "carbonara ingredients",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "pasta carbonara recipe",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "fettuccine carbonara",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "spaghetti carbonara ingredients",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "pasta carbonara ingredients",
+        "volume": 33100,
+        "competition": 19
+      },
+      {
+        "keyword": "carbonara how to",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "carbonara how to cook",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "carbonara with fettuccine",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "fettuccine carbonara pasta",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "fettucini carbonara",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "italian pasta carbonara recipe",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pasta alla carbonara recipe",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "spaghetti carbonara how to make",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "carbonara near me",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "traditional carbonara recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "pasta carbonara near me",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "spaghetti carbonara near me",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "authentic carbonara recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "carbonara original recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "classic carbonara recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "authentic italian carbonara recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "authentic pasta carbonara recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "authentic spaghetti carbonara recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "original recipe carbonara",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "real carbonara italian recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "spaghetti carbonara original recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "spaghetti for carbonara",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "traditional italian carbonara recipe",
+        "volume": 27100,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

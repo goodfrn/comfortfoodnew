@@ -1,0 +1,57 @@
+{
+  "slug": "walnut-almond-honey-baklava",
+  "title": "Walnut Almond Honey Baklava",
+  "seed_keywords": [
+    "homemade baklava",
+    "walnut baklava",
+    "honey phyllo dessert",
+    "baklava with almonds",
+    "buttered phyllo pastry"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "walnut baklava",
+        "volume": 1900,
+        "competition": 36
+      },
+      {
+        "keyword": "homemade baklava",
+        "volume": 1000,
+        "competition": 10
+      },
+      {
+        "keyword": "baklava with almonds",
+        "volume": 480,
+        "competition": 43
+      },
+      {
+        "keyword": "baklava with pistachios and walnuts",
+        "volume": 210,
+        "competition": 42
+      },
+      {
+        "keyword": "pistachio and walnut baklava",
+        "volume": 210,
+        "competition": 42
+      },
+      {
+        "keyword": "pistachio walnut baklava",
+        "volume": 210,
+        "competition": 42
+      },
+      {
+        "keyword": "walnut and pistachio baklava",
+        "volume": 210,
+        "competition": 42
+      },
+      {
+        "keyword": "homemade baklava near me",
+        "volume": 110,
+        "competition": 68
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

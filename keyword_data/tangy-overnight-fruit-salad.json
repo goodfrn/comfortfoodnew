@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-overnight-fruit-salad",
+  "title": "Tangy Overnight Fruit Salad",
+  "seed_keywords": [
+    "fruit salad",
+    "overnight salad",
+    "custard fruit dessert",
+    "whipped cream fruit",
+    "marshmallow fruit salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fruit salad",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "fruit for fruit salad",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "fruit salad fruit salad",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "salad fruit salad",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "ambrosia salad",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "ambrosia fruit",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "ambrosia fruit salad",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "green papayas",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "salad watermelon",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "custard and fruit",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "custard and fruit dessert",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "custard fruit custard",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit custard fruits",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "mango salads",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "monstera fruits",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "winter fruit",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "lechen flan recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "monstera deliciosa fruit",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "salad with strawberries",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "salad apple",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "fruit salad near me",
+        "volume": 18100,
+        "competition": 27
+      },
+      {
+        "keyword": "pomegranate salads",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "buko salad",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "buko fruit salad",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "cream fruit",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "lime jello fruit salad",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "salads with pears",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken salad with grapes",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "peaches burrata salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "salad with peach",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "fruit salad dressing",
+        "volume": 9900,
+        "competition": 19
+      },
+      {
+        "keyword": "filipino fruit salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "fruit salad philippines",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "salad dressing for fruit salad",
+        "volume": 9900,
+        "competition": 19
+      },
+      {
+        "keyword": "mandarin orange salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "custard fruit",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "lemon dressing for salad",
+        "volume": 8100,
+        "competition": 29
+      },
+      {
+        "keyword": "creamy fruit salad",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "cream for fruit salad",
+        "volume": 8100,
+        "competition": 17
+      },
+      {
+        "keyword": "strawberries whip cream",
+        "volume": 8100,
+        "competition": 34
+      },
+      {
+        "keyword": "fresh fruit salad",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "avocado & mango salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "cool whip fruit salad",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fruit salad yummy",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "fruitsalad tree",
+        "volume": 6600,
+        "competition": 65
+      },
+      {
+        "keyword": "pine apple salad",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "pineapple in salad",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "salad orange",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "watermelon and blueberries",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple custard",
+        "volume": 5400,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

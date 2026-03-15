@@ -1,0 +1,267 @@
+{
+  "slug": "upside-down-banana-cake",
+  "title": "Upside-Down Banana Cake",
+  "seed_keywords": [
+    "banana cake recipes",
+    "upside down cake",
+    "caramelized fruit cake",
+    "brown sugar caramel",
+    "mashed banana dessert"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pineapple upside down cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "inverted pineapple cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple pineapple upside down cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple turn over cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple up and down cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple updown cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana and cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake banana",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "cake banana cake",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "cake cake banana",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "banana cake recipes",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "cake recipe using bananas",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "upside down pineapple",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "up side down pineapple",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "pineapple inside cake",
+        "volume": 60500,
+        "competition": 67
+      },
+      {
+        "keyword": "pineapple upside down cake recipe",
+        "volume": 49500,
+        "competition": 20
+      },
+      {
+        "keyword": "pineapple upside cake recipe",
+        "volume": 49500,
+        "competition": 20
+      },
+      {
+        "keyword": "banana loaf gluten free",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "cake mix pineapple upside down cake recipe",
+        "volume": 49500,
+        "competition": 20
+      },
+      {
+        "keyword": "magnolia bakery banana pudding",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "veganbanana bread",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "banana cake recipe easy",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "simple banana cake recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "basic banana cake recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "upside down cake",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "banana loaf mary berry",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "bananas frozen",
+        "volume": 22200,
+        "competition": 50
+      },
+      {
+        "keyword": "cake mix upside down cake",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "up side down cake",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "banana loaf with almond flour",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "banana pudding cake",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "banana cake with banana pudding",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "banana loaf with chocolate chips",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "banana pudding cake with cake mix",
+        "volume": 14800,
+        "competition": 77
+      },
+      {
+        "keyword": "pineapple upside down cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "chocolate banana cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "pineapple upside down cake from box",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake with box mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "banana and choc cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana and chocolate cake",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "banana cup cake",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "box cake mix pineapple upside down cake",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake from box cake",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake with box cake",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake with pineapple cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "easy pineapple upside down cake",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "moist banana cake recipe",
+        "volume": 9900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

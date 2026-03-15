@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-chicken-fruit-cake",
+  "title": "Stuffed Chicken Fruit Cake Twist",
+  "seed_keywords": [
+    "roasted whole chicken",
+    "stuffed chicken recipes",
+    "chicken with fruit",
+    "ground turkey stuffing",
+    "holiday chicken dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "roaster chicken",
+        "volume": 201000,
+        "competition": 11
+      },
+      {
+        "keyword": "roasting chicken recipe",
+        "volume": 165000,
+        "competition": 9
+      },
+      {
+        "keyword": "turduckens",
+        "volume": 110000,
+        "competition": 14
+      },
+      {
+        "keyword": "stuffed chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken stuffed chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "filling for stuffed chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "stuffed chicken breast dishes",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "baked chicken oven",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed chicken breast recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "roasting a chicken in the oven",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "baked roast chicken",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken breast filling recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed chicken breast meal",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed chicken fillet recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "whole chicken recipes",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "whole chicken in crock pot",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker whole chicken",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken recipes whole chicken",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "cook a whole chicken in a crock pot",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe using whole chicken",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cook full chicken",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cook whole chicken in crock pot",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cook whole chicken in slow cooker",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "whole chicken dish",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "whole chicken how long to cook",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken casserole with dressing",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "internal temperature of a roast chicken",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed chicken casserole",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "air fryer whole chicken",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "roast chicken cooking time",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "air fryer for whole chicken",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "roast chicken time",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "air fried whole chicken",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "air fryer a whole chicken",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken full roast",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "oven roast chicken time",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe chicken fillets",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "roast chicken bake time",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "roast chicken roasting time",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "whole chicken in a air fryer",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "whole chicken in an air fryer",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "whole chicken in the air fryer",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "whole roasted chicken recipe",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "whole baked chicken recipes",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "apricot and chicken",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "whole chicken in oven",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "stuffed chicken",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "roast chicken temperature",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cooking whole chicken in oven",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "oven roasted whole chicken",
+        "volume": 14800,
+        "competition": 16
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

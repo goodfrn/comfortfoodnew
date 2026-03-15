@@ -1,0 +1,267 @@
+{
+  "slug": "wild-rice-black-bean-salad",
+  "title": "Wild Rice Black Bean Salad",
+  "seed_keywords": [
+    "wild rice salad",
+    "black bean salad",
+    "grain and bean salad",
+    "rice salad with vegetables",
+    "citrus vinaigrette salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe for bean salad",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "black bean salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean and corn salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "bean salad with black beans",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "black beans in a salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cornand black bean salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "bean & corn salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "bean and corn salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean salad recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "bean mexican salad",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean salad ideas",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "black beans recipe salad",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for southwest salad",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "wild rice salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean corn salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "black bean and corn salad recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean corn salad recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean salad recipe with corn",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "black eyed bean salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "citrus vinaigrette",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "citrus salad dressing",
+        "volume": 3600,
+        "competition": 33
+      },
+      {
+        "keyword": "citrus dressing",
+        "volume": 3600,
+        "competition": 33
+      },
+      {
+        "keyword": "beans salad dressing",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "black bean and quinoa salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean quinoa salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "salad dressing for citrus salad",
+        "volume": 3600,
+        "competition": 33
+      },
+      {
+        "keyword": "bean corn",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "citrus vinaigrette recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado black bean corn salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado corn and black bean salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean and chick pea salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean and corn recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "black bean and corn salad with avocado",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean and garbanzo salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean chickpea salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean corn",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "black bean corn recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "black bean garbanzo salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "corn and black bean",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "honey lemon vinaigrette",
+        "volume": 1900,
+        "competition": 19
+      },
+      {
+        "keyword": "quinoa southwestern salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "salad with avocado corn and black beans",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "bean and quinoa salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bean quinoa salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "black eyed bean salad recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "black rice salad",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "black bean corn mexican salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "black salads",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "citrus dressing recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "citrus salad dressing recipe",
+        "volume": 1300,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

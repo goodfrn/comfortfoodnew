@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-chickpea-chicken",
+  "title": "Spiced Chickpea Chicken Fatteh",
+  "seed_keywords": [
+    "chicken fatteh",
+    "spiced chickpea bowls",
+    "yogurt chicken dishes",
+    "seared chicken chickpeas",
+    "middle eastern chicken"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "marinated chicken with yogurt",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "greek chicken marinade yogurt",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "middle eastern shawarma",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken greek yogurt recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "greek chicken and yogurt recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken & yogurt recipes",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with chicken and yogurt",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken middle eastern dishes",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken middle eastern recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern food recipes chicken",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "greek chicken yogurt sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "lebanese chicken shawarma recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "lebanese food recipes chicken",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken fatteh",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern chicken",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "arab chicken dish",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "arabic chicken recipes",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken marinade middle eastern",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "middle east chicken marinade",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "lebanese chicken marinade",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "arabic fried chicken",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken kabob middle eastern",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "fatteh aubergine",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "fatteh chicken",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean chicken yogurt marinade",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "baked greek yogurt chicken",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt marinated chicken baked",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken breast and greek yogurt recipes",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken breast recipes with yogurt",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "fatteh shawarma",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "lebanese chicken marinade yogurt",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern baked chicken",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern chicken thigh",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern roast chicken",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "shawarma fatteh",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken yoghurt recipes",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and yoghurt recipes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "eastern chicken",
+        "volume": 260,
+        "competition": 7
+      },
+      {
+        "keyword": "greece chicken",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled middle eastern chicken",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "middle eastern bbq chicken",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "middle eastern grilled chicken",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt chicken recipes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken fatteh recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken pasta greek yogurt",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken shawarma fatteh",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "lebanese chicken seasoning",
+        "volume": 210,
+        "competition": 35
+      },
+      {
+        "keyword": "middle east chicken breast recipe",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "middle eastern chicken kabob recipe",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "middle eastern chicken thigh recipe",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

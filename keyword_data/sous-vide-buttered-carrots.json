@@ -1,0 +1,137 @@
+{
+  "slug": "sous-vide-buttered-carrots",
+  "title": "Sous Vide Buttered Carrots Twist",
+  "seed_keywords": [
+    "sous vide carrots",
+    "butter garlic carrots",
+    "sous vide vegetables",
+    "shallot carrot side",
+    "seared buttered carrots"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sous vide carrots",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "carrot sous vide",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus sous vide",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sous vide asparagus",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "sous vide vegetables",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "garlic honey carrots",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "honey garlic carrots",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "sous vide veggies",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "vegetables in sous vide",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "veggies sous vide",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "sous vide carrot recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "sous vide recipes carrots",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "sous vide recipes vegetables",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "sous vide string beans",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "sous vide veggie recipes",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetable sous vide recipes",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "honey garlic butter roasted carrots",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic butter carrots",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "veggie sous vide recipes",
+        "volume": 260,
+        "competition": 11
+      },
+      {
+        "keyword": "cabbage sous vide",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "sous vide cabbage",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "glazed carrots sous vide",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "sous sous vegetable",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "sous vide parsnips",
+        "volume": 140,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

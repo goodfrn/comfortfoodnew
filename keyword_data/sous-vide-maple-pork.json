@@ -1,0 +1,267 @@
+{
+  "slug": "sous-vide-maple-pork",
+  "title": "Sous Vide Maple Pork Roast",
+  "seed_keywords": [
+    "sous vide pork",
+    "pork loin roast",
+    "maple honey pork",
+    "honey glazed pork",
+    "sous vide roast"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pork tender loin recipe",
+        "volume": 246000,
+        "competition": 14
+      },
+      {
+        "keyword": "recipes for pork fillet",
+        "volume": 246000,
+        "competition": 14
+      },
+      {
+        "keyword": "pork loin",
+        "volume": 135000,
+        "competition": 53
+      },
+      {
+        "keyword": "loin recipe",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "p0rk loin recipes",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pork loin and",
+        "volume": 135000,
+        "competition": 53
+      },
+      {
+        "keyword": "pork sirloin recipes",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "pork loin chops baked",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "pork tenderloin cook temp",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "pork fillet in the slow cooker",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pork loin chop in oven",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "pork tenderloin slow cooked",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for baked pork loin chops",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "tenderloin in crockpot",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pork loin roast recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "loin roast recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "pork sirloin roast recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "pork loin recipes slow cooker",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "crockpot recipes with pork loin",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "crockpot recipes with pork tenderloin",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "crockpot tenderloin recipes",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork tenderloin in slow cooker recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for pork fillet in slow cooker",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork loin roast",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "loin roast",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "roast pork loin roast",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "pork loin in oven",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "cooking a pork loin in a slow cooker",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pork sirloin in crock pot",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pork sirloin in oven",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "pork sirloin in slow cooker",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cook loin of pork",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe pork loin chops in oven",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "roast pork tenderloin",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for pork tenderloin in the oven",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "cook a pork tenderloin in the oven",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "internal temp for pork roast",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "pork fillet oven recipes",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "pork fillet roast",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "baked pork tenderloin",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "pork loin recipes oven",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "sous vide pork chops",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "pork roast in air fryer",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "pork loin cooking time",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "best way to cook pork tenderloin",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "best way to cook a pork loin",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "sous vide pork tenderloin",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "bake pork loin recipe",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "baked pork fillet",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "cook a pork fillet",
+        "volume": 12100,
+        "competition": 11
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

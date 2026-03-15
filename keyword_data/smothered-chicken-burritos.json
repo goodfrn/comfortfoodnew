@@ -1,0 +1,267 @@
+{
+  "slug": "smothered-chicken-burritos",
+  "title": "Smothered Chicken Burritos Remix",
+  "seed_keywords": [
+    "cheesy chicken burritos",
+    "smothered chicken burritos",
+    "baked chicken enchiladas",
+    "cheese sauce chicken",
+    "sautéed pepper chicken"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe for chicken enchilada",
+        "volume": 165000,
+        "competition": 7
+      },
+      {
+        "keyword": "casserole enchiladas chicken",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken cordon bleu sauce",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken bleu cordon sauce",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken cordon bleu and sauce",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "bake enchiladas",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "baked chicken enchiladas",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "blue cheese dipping sauce for buffalo wings",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "blue cheese dressing chicken wings",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "blue cheese dressing for buffalo wings",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "blue cheese sauce buffalo wings",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "blue cheese sauce chicken wings",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken parm sauce",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wings and blue cheese sauce",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken cordon bleu recipe sauce",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "alfredo parmesan chicken",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and cheese enchilada",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken parm with alfredo sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken parmesan alfredo sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "parmesan chicken with alfredo sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken green enchilada casserole",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken marinara parmesan",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken mornay",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken parm marinara sauce",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken parmesan marinara sauce",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese sauce chicken",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese sauce and chicken",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken and cheese sauce",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken and green chile casserole",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "easy chicken enchilada bake",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "easy enchilada bake",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "sheet pan enchiladas",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "enchilada cook time",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "cheese cream sauce for chicken",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy cheese sauce chicken",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "enchilada in oven",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "enchilada oven temp",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "enchiladas in oven temp",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "green enchilada bake",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "oven temp enchiladas",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "oven temp for enchiladas",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "parmesan cheese for chicken alfredo",
+        "volume": 1300,
+        "competition": 15
+      },
+      {
+        "keyword": "philadelphia cheese sauce for chicken",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "philadelphia cream cheese sauce for chicken",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "costco enchilada bake",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "layered enchilada bake",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "white chicken enchilada bake",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken enchilada casserole sour cream",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "healthy enchilada bake",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "healthy enchiladas casserole",
+        "volume": 880,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

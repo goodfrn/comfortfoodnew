@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-thai-seafood-soup",
+  "title": "Spiced Thai Seafood Soup",
+  "seed_keywords": [
+    "thai seafood soup",
+    "coconut shrimp soup",
+    "spiced thai broth",
+    "seafood coconut curry",
+    "thai soup recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "khao soi",
+        "volume": 201000,
+        "competition": 2
+      },
+      {
+        "keyword": "tum yum",
+        "volume": 201000,
+        "competition": 8
+      },
+      {
+        "keyword": "tom yum soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "shrimp tom yum soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "soup thai tom yum",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "soup tomyam",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "thai food tom yum",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "thailand tom yum soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tom tom soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tom tom yum soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tom yam thai soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tom yang soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tom yum dish",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tom yum yum soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tom yung soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tomyum soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tong yam soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "tum yum thai soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "yum tom soup",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "thai boat noodle",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "tom kha gai",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "gai tom kha",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "thai tom kha",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "tom yum soup recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "tom yum recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for thai soup tom yum",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for thai tom yum soup",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe tom yam",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp tom yum recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp tom yum soup recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "thai tom yam recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "thai tom yum recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "thai tomyam recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "tom yang recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "tom yang soup recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "tom yum kung soup recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "tomyum soup recipe",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "tom yum goong",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "tom kha soup",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "kha gai soup",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "soup tom kha gai",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "thai soup tom kha",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "thai soup tom kha gai",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "thai soup tom yum goong",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "tom ga soup",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "tom gai soup",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "tom ka soup",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "tom kha kha soup",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "tom yung goong soup",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "tong yum goong",
+        "volume": 40500,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-udon",
+  "title": "Tofu Udon with Green Beans",
+  "seed_keywords": [
+    "tofu noodle bowls",
+    "asian udon recipes",
+    "peanut butter noodles",
+    "tofu stir fry vegetables",
+    "udon noodle sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "peanut noodle",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter noodles",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "noodles and peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta peanut butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking tofu in stir fry",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "peanut sauce noodles",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "noodles and peanut sauce",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu stir fry vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter ramen",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and ramen",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and ramen noodles",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter ramen noodle",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fried tofu and vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried veggies with tofu",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry tofu and veggies",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu and veggies stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu vegetable stirfry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu with vegetables stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable tofu stirfry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut thai noodles",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "veggie tofu recipe",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "peanut spicy noodles",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter noodle recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "satay chicken noodle",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "broccoli and tofu stir fry",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry broccoli and tofu",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry udon recipe",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "udon noodle sauce",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken peanut noodles",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "easy udon noodle recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "noodle peanut butter sauce",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "noodles peanut sauce recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "peanut and sesame noodles",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "peanut sesame noodle",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with peanut sauce and noodles",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "udon sauce",
+        "volume": 1900,
+        "competition": 27
+      },
+      {
+        "keyword": "spaghetti peanut butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "yaki udon sauce",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli tofu stir fry",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "chili peanut noodles",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "peanut butter noodles spicy",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut thai sauce noodles",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "thai peanut sauce pasta",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "tofu recipe with vegetables",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "udon noodle recipe vegan",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "udon noodle recipe vegetarian",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "bok choy and tofu stir fry",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "bok choy tofu stir fry",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken udon noodle recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom and tofu stir fry",
+        "volume": 1000,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

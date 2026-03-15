@@ -1,0 +1,267 @@
+{
+  "slug": "sticky-ham-glaze",
+  "title": "Sticky Ham Glaze",
+  "seed_keywords": [
+    "ham glaze recipe",
+    "glazed ham",
+    "brown sugar ham",
+    "ham with mustard",
+    "spicy ham dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "honey baked ham ham",
+        "volume": 550000,
+        "competition": 20
+      },
+      {
+        "keyword": "honey honey baked ham",
+        "volume": 550000,
+        "competition": 20
+      },
+      {
+        "keyword": "ham glaze recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "glaze on ham recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "ham and glaze recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "ham glazed ham recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "honey glazed ham",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "glazed ham",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "brown sugar glaze for ham",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "honey baked ham recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes for baked ham",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
+        "keyword": "brown sugar and ham glaze",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brown sugar coated ham",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brown sugar for ham glaze",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brown sugar gammon glaze",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brown sugar on ham glaze",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "brown sugar topping for ham",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "gammon glaze brown sugar",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "glaze for ham using brown sugar",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "glazed ham glaze",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "honey baked ham company recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "honey baked recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "gammon recipes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "bake a ham in oven",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "gammon ham recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "honey glazed ham recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "honey ham recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "bake a precooked ham",
+        "volume": 14800,
+        "competition": 50
+      },
+      {
+        "keyword": "cooking a honey glazed ham",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "gammon honey glaze recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "ham honey glazed recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "honey glazed ham glaze recipe",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "make honey glaze for ham",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "christmas ham recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "pineapple glazed ham",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "xmas ham recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "ham and pineapple glaze",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "ham glazes with pineapple",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "ham with glaze and pineapple",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "hamsteak recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "ham smoker recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe spiral ham",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "ham glaze recipe brown sugar",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "maple glazed ham",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "gammon glaze",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "spiral ham in crock pot",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "ham hock recipes",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "brown sugar recipe for ham glaze",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "coca cola cooked ham",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "coca cola ham",
+        "volume": 8100,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

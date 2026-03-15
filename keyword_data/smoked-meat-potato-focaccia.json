@@ -1,0 +1,267 @@
+{
+  "slug": "smoked-meat-potato-focaccia",
+  "title": "Smoked Meat Potato Focaccia",
+  "seed_keywords": [
+    "focaccia bread recipes",
+    "potato focaccia",
+    "smoked meat bread",
+    "cheese potato bread",
+    "focaccia with potatoes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "focaccia",
+        "volume": 1500000,
+        "competition": 4
+      },
+      {
+        "keyword": "ficotta",
+        "volume": 1500000,
+        "competition": 4
+      },
+      {
+        "keyword": "focaccia recipe",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "focaccia italian recipe",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with focaccia",
+        "volume": 246000,
+        "competition": 2
+      },
+      {
+        "keyword": "focaccia bread",
+        "volume": 135000,
+        "competition": 14
+      },
+      {
+        "keyword": "ficotta bread",
+        "volume": 135000,
+        "competition": 14
+      },
+      {
+        "keyword": "fuchsia bread",
+        "volume": 135000,
+        "competition": 14
+      },
+      {
+        "keyword": "focaccia bread recipes",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "focaccia sandwich",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "ficotta bread recipe",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "focaccia bread for sandwiches",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "focaccia bread sandwich",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "focaccio recept",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "sandwich focaccia bread",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "focaccia pizza",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "focaccia bread pizza",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "pizza on focaccia bread",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "sourdough focaccia bread recipe",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "sourdough focaccia recipe",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "focaccia pan",
+        "volume": 18100,
+        "competition": 40
+      },
+      {
+        "keyword": "basic focaccia bread recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "basic focaccia recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "easiest focaccia bread recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "easy focaccia bread recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "easy focaccia recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "pan focaccia",
+        "volume": 18100,
+        "competition": 40
+      },
+      {
+        "keyword": "cheese potato bread",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "cheese and potato bread",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "focaccia no knead",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "no knead focaccia bread",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "potato bread cheese",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "rosemary focaccia",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "best focaccia recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "best recipe focaccia",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "best recipe for focaccia",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "focaccia bread rosemary",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "good focaccia recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast focaccia bread recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "fast focaccia recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "focaccia bread recipe quick",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "focaccia garlic",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "focaccia garlic bread",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "focaccia homemade",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade focaccia bread",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade focaccia recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "quick focaccia recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "sourdough discard focaccia",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "bread flour for focaccia",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "focaccia gluten free recipe",
+        "volume": 5400,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

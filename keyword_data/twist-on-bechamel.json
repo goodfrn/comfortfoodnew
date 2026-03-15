@@ -1,0 +1,267 @@
+{
+  "slug": "twist-on-bechamel",
+  "title": "Twist on Béchamel",
+  "seed_keywords": [
+    "béchamel sauce",
+    "creamy pasta sauce",
+    "olive oil béchamel",
+    "white sauce recipe",
+    "french mother sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "white sos",
+        "volume": 823000,
+        "competition": 3
+      },
+      {
+        "keyword": "bechamél",
+        "volume": 550000,
+        "competition": 2
+      },
+      {
+        "keyword": "béchamel sauce",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "bechamel food",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "bechamel sauce white sauce",
+        "volume": 368000,
+        "competition": 6
+      },
+      {
+        "keyword": "white sauce pasta",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta and white sauce",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta sauce white sauce",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta white",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "bechamel sauce recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "bechamel recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "besciamella sauce recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe with bechamel sauce",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "white sauce recipe",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "mushrooms with sauce",
+        "volume": 60500,
+        "competition": 30
+      },
+      {
+        "keyword": "white sauce",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "mornay sauce",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "a white sauce",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "white sauce pasta recipe",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and white sauce recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy pasta sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "alabama white sauce",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "mother sauces",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "lasagne white sauce",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "white sauce for lasagne",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "5 mother sauces",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "bechamel sauce for lasagna",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "lasagna white sauce",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "bechamel lasagne sauce",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "bechamel sauce for lasagne",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "creamy pasta sauce with cream",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "five mother of sauces",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "lasagne bechamel sauce",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "mushroom cream pasta",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta and cream sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta and creamy sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta with a creamy sauce",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "roux sauce for lasagne",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "sauce for lasagne bechamel",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "sauce lasagne bechamel",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "white sauce in lasagne",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "white sauce on lasagna",
+        "volume": 27100,
+        "competition": 14
+      },
+      {
+        "keyword": "creamy carbonara recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "carbonara recipe with cream",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "cream carbonara recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "cream tomato pasta recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with tomato cream",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "white chili crockpot recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "creamy carbonara",
+        "volume": 18100,
+        "competition": 42
+      },
+      {
+        "keyword": "carbonara with cream",
+        "volume": 18100,
+        "competition": 42
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

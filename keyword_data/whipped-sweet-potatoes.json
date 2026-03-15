@@ -1,0 +1,267 @@
+{
+  "slug": "whipped-sweet-potatoes",
+  "title": "Whipped Sweet Potatoes with Orange",
+  "seed_keywords": [
+    "sweet potato side dish",
+    "whipped sweet potatoes",
+    "roasted sweet potato puree",
+    "sweet potato orange",
+    "holiday sweet potato casserole"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "roasted potatoes sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole dish",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "mashed sweet potatoes",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "mashed potato sweet potato",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "sweet mashed sweet potatoes",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "oven roasted sweet potatoes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "mashed sweet potato dish",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "sweet potato souffle",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "candied sweet potatoes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "ruth chris sweet potato casserole",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "candied yams and sweet potatoes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "candied yams from sweet potatoes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "candied yams sweet potatoes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato recipes for thanksgiving",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for sweet potatoes thanksgiving",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe sweet potato for thanksgiving",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet potato dish for thanksgiving",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "thanksgiving day sweet potato recipes",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "thanksgiving recipes with sweet potato",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "canned candied yams",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "candied sweet potatoes from canned",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "candied sweet potatoes from canned sweet potatoes",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "candied sweet potatoes with canned sweet potatoes",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "candied sweet potatoes with canned yams",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "candied yams canned yams",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "candied yams with canned sweet potatoes",
+        "volume": 8100,
+        "competition": 80
+      },
+      {
+        "keyword": "canned yam sweet potato casserole",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "orange and sweet potato",
+        "volume": 8100,
+        "competition": 29
+      },
+      {
+        "keyword": "sweet potato casserole can yams",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole with canned sweet potatoes",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato souffle canned yams",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole easy",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "candied sweet potato marshmallow",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "candied yams and marshmallows",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "candied yams marshmallow",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "cook candied yams",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "make candied yams",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "preparing candied yams",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cooker sweet potato casserole",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole in crockpot",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole pecan",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "sweet potato casserole with pecans topping",
+        "volume": 5400,
+        "competition": 12
+      },
+      {
+        "keyword": "canned sweet potato casserole",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "twice baked sweet potatoes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole canned sweet potato",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet potato casserole with can",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet potato side dish",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "potato and sweet potato gratin",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "potato sweet potato gratin",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato accompaniments",
+        "volume": 3600,
+        "competition": 13
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

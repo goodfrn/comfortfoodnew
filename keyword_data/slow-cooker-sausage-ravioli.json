@@ -1,0 +1,267 @@
+{
+  "slug": "slow-cooker-sausage-ravioli",
+  "title": "Slow Cooker Sausage Ravioli",
+  "seed_keywords": [
+    "slow cooker pasta",
+    "sausage ravioli",
+    "ground sausage casserole",
+    "slow cooker italian",
+    "sausage pasta bake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "macaroni cheese in a crock pot",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni cheese in a slow cooker",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni cheese in slow cooker",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "lasagna crock pot",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "sausage pasta bake",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "baked pasta and sausage",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "casserole with sausage and pasta",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken fettuccine alfredo in crock pot",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken fettuccine alfredo in slow cooker",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta and sausage casserole",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker chicken fettuccine alfredo",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker pasta recipes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pasta recipes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pasta dish",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot pasta ideas",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta dish in slow cooker",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta dishes for slow cooker",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta dishes in a slow cooker",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta in a crock pot recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta slow cooker meals",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cooker pasta",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "crock pot spaghetti",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker pasta",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked ziti with sausage",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "baked ziti and sausage",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken crock pot spaghetti",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken spaghetti in slow cooker",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "crock pot chicken and spaghetti",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "sausage and ziti bake",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker chicken and spaghetti",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and pasta crock pot",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and pasta in slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and pasta slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken crock pot pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken pasta in slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cook spaghetti in slow cooker",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot meatballs and spaghetti",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot meatballs for spaghetti",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot pasta and meatballs",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot spaghetti and meatballs",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "meatball pasta slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "meatballs and pasta in slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta and meatballs slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta chicken slow cooker",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cook spaghetti",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cook spaghetti and meatballs",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cook spaghetti meatballs",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker chicken for pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker chicken with pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti and meatballs in the slow cooker",
+        "volume": 5400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

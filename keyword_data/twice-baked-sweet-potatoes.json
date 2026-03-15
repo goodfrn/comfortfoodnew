@@ -1,0 +1,267 @@
+{
+  "slug": "twice-baked-sweet-potatoes",
+  "title": "Twice-Baked Sweet Potatoes",
+  "seed_keywords": [
+    "sweet potato casserole",
+    "baked sweet potatoes",
+    "twice baked potatoes",
+    "marshmallow sweet potato",
+    "sweet potato side dish"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sweet potato casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "casserole with sweet potatoes",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "potato sweet potato casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet sweet potato casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet tater casserole",
+        "volume": 301000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked sweet potatoes",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "baked potato sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "baking with sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "potato and sweet potato bake",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "twice baked potatoes",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "sweet potato casserole recipe",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "double baked potato",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "double baked potato recipe",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "bake twice baked potatoes",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "double baked baked potato",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "double cooked baked potatoes",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "make twice baked potato",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "roasted potatoes sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato casserole dish",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato casserole ideas",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet roasted sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "twice baked potato bake",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "twice baked potato dish",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "twice baked potatoes and",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "twice cooked potatoes recipe",
+        "volume": 135000,
+        "competition": 19
+      },
+      {
+        "keyword": "baked sweet potatoes in oven",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "sweet potato baked in the oven",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "twice baked potato recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "mashed sweet potatoes",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "cook twice baked potatoes",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "double stuffed baked potato recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "mashed potato sweet potato",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for twice baked stuffed potatoes",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "sweet mashed sweet potatoes",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "twice baked baked potato recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "home potato fries",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potatoes in microwave oven",
+        "volume": 60500,
+        "competition": 33
+      },
+      {
+        "keyword": "baked sweet potato recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "sweet potatoes in oven",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "loaded baked potatoes",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "roasting sweet potatoes in oven",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "mashed sweet potato dish",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "potato casserole",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted sweet potato recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "making sweet potato fries",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "fried sweet potato fries recipe",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "cook sweet potato fries",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "potatoes for casserole",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "roasted sweet potato dish",
+        "volume": 33100,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

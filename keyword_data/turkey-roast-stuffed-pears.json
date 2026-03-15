@@ -1,0 +1,267 @@
+{
+  "slug": "turkey-roast-stuffed-pears",
+  "title": "Turkey Roast Stuffed Pears",
+  "seed_keywords": [
+    "stuffed pears recipe",
+    "turkey breast roast",
+    "roasted pork cranberry",
+    "fall poultry dishes",
+    "turkey stuffing dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pan roasted turkey",
+        "volume": 40500,
+        "competition": 44
+      },
+      {
+        "keyword": "roasted turkey",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "turkey breast roast",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "baked turkey breast",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "oven baked turkey",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "slow cook turkey breast",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "oven cooked turkey",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "slow cook turkey breast in crock pot",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "turkey breast for roasting",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "oven roasted turkey breast",
+        "volume": 12100,
+        "competition": 45
+      },
+      {
+        "keyword": "rolled turkey",
+        "volume": 12100,
+        "competition": 45
+      },
+      {
+        "keyword": "cooking turkey breast in oven",
+        "volume": 12100,
+        "competition": 45
+      },
+      {
+        "keyword": "cook turkey in slow cooker",
+        "volume": 12100,
+        "competition": 27
+      },
+      {
+        "keyword": "thanksgiving stuffing",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "pan roasted turkey breast",
+        "volume": 9900,
+        "competition": 19
+      },
+      {
+        "keyword": "cooked turkey breast",
+        "volume": 6600,
+        "competition": 54
+      },
+      {
+        "keyword": "turkey breast bone in",
+        "volume": 6600,
+        "competition": 26
+      },
+      {
+        "keyword": "turkey breast bone",
+        "volume": 6600,
+        "competition": 26
+      },
+      {
+        "keyword": "oven roasted turkey",
+        "volume": 5400,
+        "competition": 46
+      },
+      {
+        "keyword": "thanksgiving day stuffing",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "sliced turkey breast",
+        "volume": 4400,
+        "competition": 61
+      },
+      {
+        "keyword": "boneless turkey breast roast",
+        "volume": 4400,
+        "competition": 35
+      },
+      {
+        "keyword": "bake boneless turkey breast",
+        "volume": 4400,
+        "competition": 35
+      },
+      {
+        "keyword": "boneless turkey breast in crock pot",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cook boneless turkey breast",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "best way to cook a turkey breast",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "seasoned turkey breast",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "turkey breast in oven",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "best way to bake a turkey breast",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "best way to prepare a turkey breast",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "best way to prepare turkey breast",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "crockpot turkey loin",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "bernard matthews turkey roast",
+        "volume": 2400,
+        "competition": 21
+      },
+      {
+        "keyword": "butterball frozen turkey breast",
+        "volume": 2400,
+        "competition": 76
+      },
+      {
+        "keyword": "butterball turkey roast",
+        "volume": 2400,
+        "competition": 69
+      },
+      {
+        "keyword": "honey baked turkey breast",
+        "volume": 2400,
+        "competition": 18
+      },
+      {
+        "keyword": "cooking turkey breast in crock pot",
+        "volume": 2400,
+        "competition": 20
+      },
+      {
+        "keyword": "skinless turkey breast",
+        "volume": 2400,
+        "competition": 49
+      },
+      {
+        "keyword": "grilled turkey breast",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "bake bone in turkey breast",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "bone in roasted turkey breast",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "turkey roast bernard matthews",
+        "volume": 2400,
+        "competition": 21
+      },
+      {
+        "keyword": "honey baked turkey",
+        "volume": 1900,
+        "competition": 53
+      },
+      {
+        "keyword": "boned and rolled turkey",
+        "volume": 1900,
+        "competition": 47
+      },
+      {
+        "keyword": "butterball turkey breast cooking instructions",
+        "volume": 1900,
+        "competition": 15
+      },
+      {
+        "keyword": "deboned turkey roll",
+        "volume": 1900,
+        "competition": 47
+      },
+      {
+        "keyword": "bake a turkey breast in oven",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "bone and rolled turkey",
+        "volume": 1900,
+        "competition": 47
+      },
+      {
+        "keyword": "bone in turkey breast crock pot",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "boned rolled turkey",
+        "volume": 1900,
+        "competition": 47
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

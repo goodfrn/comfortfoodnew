@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-sweet-pepper-sauce",
+  "title": "Tangy Sweet Pepper Sauce",
+  "seed_keywords": [
+    "sweet pepper sauce",
+    "habanero hot sauce",
+    "bell pepper condiment",
+    "honey vinegar dipping sauce",
+    "spicy sweet glaze"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "piquante pepper",
+        "volume": 33100,
+        "competition": 71
+      },
+      {
+        "keyword": "hot pepper scorpion",
+        "volume": 22200,
+        "competition": 75
+      },
+      {
+        "keyword": "sweet chili pepper sauce recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "mango habanero",
+        "volume": 18100,
+        "competition": 43
+      },
+      {
+        "keyword": "mango habanero pepper",
+        "volume": 18100,
+        "competition": 43
+      },
+      {
+        "keyword": "thai chili red pepper",
+        "volume": 14800,
+        "competition": 69
+      },
+      {
+        "keyword": "red habanero",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "hot sauce with habanero peppers",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "wing stop mango habanero",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "aji dulce pepper",
+        "volume": 4400,
+        "competition": 79
+      },
+      {
+        "keyword": "red savina pepper",
+        "volume": 3600,
+        "competition": 48
+      },
+      {
+        "keyword": "savina pepper",
+        "volume": 3600,
+        "competition": 48
+      },
+      {
+        "keyword": "sweet chili peppers",
+        "volume": 2900,
+        "competition": 76
+      },
+      {
+        "keyword": "habanero hot",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "red bell sweet pepper",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "sweet chile peppers",
+        "volume": 2900,
+        "competition": 76
+      },
+      {
+        "keyword": "green habanero",
+        "volume": 2400,
+        "competition": 46
+      },
+      {
+        "keyword": "bdubs mango habanero",
+        "volume": 2400,
+        "competition": 67
+      },
+      {
+        "keyword": "green habanero pepper",
+        "volume": 2400,
+        "competition": 46
+      },
+      {
+        "keyword": "habanero ranch",
+        "volume": 1900,
+        "competition": 80
+      },
+      {
+        "keyword": "habanero ranch sauce",
+        "volume": 1900,
+        "competition": 80
+      },
+      {
+        "keyword": "habanero wing",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "mango habanero sauce wingstop",
+        "volume": 1600,
+        "competition": 24
+      },
+      {
+        "keyword": "trader joe's habanero hot sauce",
+        "volume": 1300,
+        "competition": 53
+      },
+      {
+        "keyword": "hot honey glaze",
+        "volume": 1300,
+        "competition": 30
+      },
+      {
+        "keyword": "habanero et aji",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "habanero hot sauce trader joe's",
+        "volume": 1300,
+        "competition": 53
+      },
+      {
+        "keyword": "habanero spicy",
+        "volume": 1300,
+        "competition": 39
+      },
+      {
+        "keyword": "peppadew sweet piquante peppers",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "trader joe's hot sauce habanero",
+        "volume": 1300,
+        "competition": 53
+      },
+      {
+        "keyword": "secret aardvark habanero hot sauce",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "spicy habanero sauce",
+        "volume": 1000,
+        "competition": 60
+      },
+      {
+        "keyword": "habanero mayo",
+        "volume": 1000,
+        "competition": 43
+      },
+      {
+        "keyword": "sweet pepper pasta sauce",
+        "volume": 1000,
+        "competition": 15
+      },
+      {
+        "keyword": "yellowbird habanero hot sauce",
+        "volume": 720,
+        "competition": 61
+      },
+      {
+        "keyword": "sweet habanero",
+        "volume": 720,
+        "competition": 67
+      },
+      {
+        "keyword": "peach habanero",
+        "volume": 720,
+        "competition": 65
+      },
+      {
+        "keyword": "habanero sweet",
+        "volume": 720,
+        "competition": 67
+      },
+      {
+        "keyword": "hot sauce with habanero",
+        "volume": 720,
+        "competition": 32
+      },
+      {
+        "keyword": "sweet habanero pepper",
+        "volume": 720,
+        "competition": 67
+      },
+      {
+        "keyword": "creamy habanero sauce",
+        "volume": 590,
+        "competition": 43
+      },
+      {
+        "keyword": "fermented habanero hot sauce",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "habanero fermented hot sauce",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "tabasco sweet",
+        "volume": 590,
+        "competition": 31
+      },
+      {
+        "keyword": "el yucateco green habanero hot sauce",
+        "volume": 480,
+        "competition": 27
+      },
+      {
+        "keyword": "smoked habanero",
+        "volume": 480,
+        "competition": 30
+      },
+      {
+        "keyword": "bell pepper relish",
+        "volume": 480,
+        "competition": 39
+      },
+      {
+        "keyword": "dominos mango habanero sauce",
+        "volume": 480,
+        "competition": 15
+      },
+      {
+        "keyword": "fresh habaneros",
+        "volume": 480,
+        "competition": 78
+      },
+      {
+        "keyword": "habanero black",
+        "volume": 480,
+        "competition": 31
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

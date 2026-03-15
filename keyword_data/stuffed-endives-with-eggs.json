@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-endives-with-eggs",
+  "title": "Stuffed Endives with Eggs Bacon",
+  "seed_keywords": [
+    "endive appetizers",
+    "bacon egg salad",
+    "stuffed endives recipe",
+    "cold appetizer ideas",
+    "hard boiled eggs bacon"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cold appetizer ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cold appetizer recipes",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cold horderves ideas",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cold appetisers recipes",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cold appetizer dishes",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cold horderves recipes",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "cold hors d oeuvres recipe",
+        "volume": 3600,
+        "competition": 47
+      },
+      {
+        "keyword": "easy cold appetizers",
+        "volume": 2900,
+        "competition": 50
+      },
+      {
+        "keyword": "cold finger foods",
+        "volume": 1900,
+        "competition": 72
+      },
+      {
+        "keyword": "bacon and egg potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg and potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "egg and bacon potato salad",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg salad",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and egg salad",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "egg and spinach salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "egg spinach salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "cold finger food ideas",
+        "volume": 1000,
+        "competition": 33
+      },
+      {
+        "keyword": "cold nibbles ideas",
+        "volume": 1000,
+        "competition": 33
+      },
+      {
+        "keyword": "finger food ideas cold",
+        "volume": 1000,
+        "competition": 33
+      },
+      {
+        "keyword": "endive appetizers",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "cold party finger food ideas budget",
+        "volume": 880,
+        "competition": 78
+      },
+      {
+        "keyword": "frisee lardon",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "cold christmas appetizers",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "easy cold canapes to make ahead",
+        "volume": 720,
+        "competition": 13
+      },
+      {
+        "keyword": "top rated cold appetizers",
+        "volume": 720,
+        "competition": 75
+      },
+      {
+        "keyword": "cold appetizers finger food",
+        "volume": 590,
+        "competition": 48
+      },
+      {
+        "keyword": "cold finger foods for party",
+        "volume": 590,
+        "competition": 80
+      },
+      {
+        "keyword": "cold appetizer skewers recipes",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "bacon and egg spinach salad",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg spinach salad",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "cold starters ideas",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "easy cold finger food recipes to make ahead",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "german potato salad with eggs",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "make ahead cold appetizers",
+        "volume": 480,
+        "competition": 45
+      },
+      {
+        "keyword": "cold appetizer example",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "cold appetizers for summer",
+        "volume": 390,
+        "competition": 24
+      },
+      {
+        "keyword": "bacon and egg salad sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "bacon egg salad sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "cold savory finger food",
+        "volume": 390,
+        "competition": 33
+      },
+      {
+        "keyword": "cold savoury finger food",
+        "volume": 390,
+        "competition": 33
+      },
+      {
+        "keyword": "cold appetizers to bring to a party",
+        "volume": 320,
+        "competition": 79
+      },
+      {
+        "keyword": "bacon and egg potato salad recipe",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon and egg salad recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon egg potato salad recipe",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon egg salad recipe",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "cold appetizers to take to a party",
+        "volume": 320,
+        "competition": 79
+      },
+      {
+        "keyword": "simple cold appetizers",
+        "volume": 260,
+        "competition": 35
+      },
+      {
+        "keyword": "cold snacks for party",
+        "volume": 260,
+        "competition": 67
+      },
+      {
+        "keyword": "appetizer recipes easy cold",
+        "volume": 260,
+        "competition": 38
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

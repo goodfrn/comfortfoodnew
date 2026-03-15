@@ -1,0 +1,77 @@
+{
+  "slug": "spicy-tangy-antipasto",
+  "title": "Spicy Tangy Antipasto",
+  "seed_keywords": [
+    "spicy antipasto",
+    "marinated vegetable appetizer",
+    "roasted red pepper appetizer",
+    "mediterranean olives recipe",
+    "chili marinated vegetables"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bell pepper bruschetta",
+        "volume": 1600,
+        "competition": 63
+      },
+      {
+        "keyword": "bruschetta with red peppers",
+        "volume": 1600,
+        "competition": 63
+      },
+      {
+        "keyword": "quinoa greek salad recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted red pepper appetizer",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean lemon olive oil dressing",
+        "volume": 260,
+        "competition": 17
+      },
+      {
+        "keyword": "mediterranean olive salad",
+        "volume": 260,
+        "competition": 51
+      },
+      {
+        "keyword": "red pepper appetizer",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted pepper appetizer",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "chuck hughes antipasto",
+        "volume": 140,
+        "competition": 80
+      },
+      {
+        "keyword": "red pepper crostini",
+        "volume": 140,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean olive bread",
+        "volume": 110,
+        "competition": 15
+      },
+      {
+        "keyword": "mediterranean tapenade",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

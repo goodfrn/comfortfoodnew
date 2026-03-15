@@ -1,0 +1,267 @@
+{
+  "slug": "thai-chicken-wraps-remix",
+  "title": "Thai Chicken Wraps Remix",
+  "seed_keywords": [
+    "thai chicken lettuce wraps",
+    "ground chicken stir fry",
+    "asian chicken wraps",
+    "tamarind chicken sauce",
+    "thai lettuce cups"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "copycat pf changs lettuce wraps",
+        "volume": 27100,
+        "competition": 23
+      },
+      {
+        "keyword": "pf chang lettuce wraps recipe",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "asian lettuce wrap",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "lettuce thai wraps",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "thai chicken lettuce wraps",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "asian chicken lettuce wrap recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chinese chicken in lettuce wraps",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "asian lettuce wrap recipe",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "thai lettuce wraps cheesecake factory",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "asian chicken lettuce wrap",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken thai wrap",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "ground chicken stir fry",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "pf chang's chicken lettuce wraps recipe",
+        "volume": 1900,
+        "competition": 19
+      },
+      {
+        "keyword": "stir fry ground chicken",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesecake factory lettuce wraps",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "asian wraps",
+        "volume": 1600,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for thai lettuce wraps",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "asian chicken wraps",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey asian lettuce wraps",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "thai wrap",
+        "volume": 1000,
+        "competition": 7
+      },
+      {
+        "keyword": "asian lettuce",
+        "volume": 880,
+        "competition": 36
+      },
+      {
+        "keyword": "asian lettuce wraps ground turkey",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for thai chicken lettuce wraps",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken thai wrap recipe",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese chicken lettuce wrap recipe",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "thai chicken peanut wraps",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "thai lettuce cups",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "asian lettuce cups",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesecake factory lettuce wraps recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken peanut lettuce wraps",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "ground chicken stir fry recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "asian chicken wrap recipe",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken lettuce wraps with peanut sauce",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "thai beef lettuce wraps",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "asian chicken wraps costco",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "asian ground chicken lettuce wraps",
+        "volume": 320,
+        "competition": 6
+      },
+      {
+        "keyword": "asian wraps recipe",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken peanut wraps",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese chicken wrap",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "hoisin chicken wrap",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "oriental wrap",
+        "volume": 320,
+        "competition": 2
+      },
+      {
+        "keyword": "asian wraps costco",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake factory thai chicken lettuce wraps",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese lettuce cups",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "chinese lettuce wrap recipe",
+        "volume": 260,
+        "competition": 14
+      },
+      {
+        "keyword": "ground chicken thai lettuce wraps",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "thai lettuce wraps pork",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "thai peanut wrap",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese lettuce wrap",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "ground turkey thai lettuce wraps",
+        "volume": 210,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

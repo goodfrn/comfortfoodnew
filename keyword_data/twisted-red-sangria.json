@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-red-sangria",
+  "title": "Twisted Red Sangria",
+  "seed_keywords": [
+    "red sangria",
+    "sangria with ginger beer",
+    "cranberry cocktail drinks",
+    "spiced tequila sangria",
+    "fruit punch cocktails"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cosmopolitan drink recipe",
+        "volume": 165000,
+        "competition": 18
+      },
+      {
+        "keyword": "cosmopolitan drinks",
+        "volume": 165000,
+        "competition": 18
+      },
+      {
+        "keyword": "cosmopolitan cocktail drink",
+        "volume": 165000,
+        "competition": 18
+      },
+      {
+        "keyword": "cosmopolitan cocktail",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "cosmo drink recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "cosmopolitan cocktail recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "cosmo martini recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "cosmo cocktail recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "cosmopolitan martini recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "recipe cosmos cocktail",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "cocktail cosmo recipe",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "cosmo recipe cocktail",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "recipe for cosmopolitan cocktail drink",
+        "volume": 74000,
+        "competition": 24
+      },
+      {
+        "keyword": "mimosa recipe",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "seabreeze cocktail",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "fruity red",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "sea breeze drinks",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "vodka cranberry",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "vodka and cranberry",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "cranberry vodka drinks",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "vodka cran",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "cranberry and vodka drink",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "cranberry & vodka drinks",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "drink vodka cranberry",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "limoncello liqueur recipes",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "vodka cranberry and",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "vodka cosmopolitan",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "cosmopolitan vodka drink",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "vodka cocktails cosmopolitan",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "bahama mamas recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "bacardi and cranberry",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "cosmopolitan cocktail how to make",
+        "volume": 18100,
+        "competition": 29
+      },
+      {
+        "keyword": "cosmopolitan drink how to make",
+        "volume": 18100,
+        "competition": 29
+      },
+      {
+        "keyword": "punch drink",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "cranberry vodka cocktail",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "vodka and cranberry cocktails",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "red wine sangria",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "cocktail with cranberry and vodka",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "fruit punch drink recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "red wine sangria cocktail",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "sangria wine red",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "vodka cocktail with cranberry",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "wodka cranberry cocktail",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "woo cocktail",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "red sangria",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "cranberry cocktail drinks",
+        "volume": 9900,
+        "competition": 27
+      },
+      {
+        "keyword": "cranberry cocktail",
+        "volume": 9900,
+        "competition": 27
+      },
+      {
+        "keyword": "cranberry juice cocktail",
+        "volume": 9900,
+        "competition": 59
+      },
+      {
+        "keyword": "cocktails made with cranberry juice",
+        "volume": 9900,
+        "competition": 59
+      },
+      {
+        "keyword": "cocktails using cranberry juice",
+        "volume": 9900,
+        "competition": 59
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

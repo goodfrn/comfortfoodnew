@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-veggie-stir-fry",
+  "title": "Tofu Veggie Stir-Fry Remix",
+  "seed_keywords": [
+    "tofu stir fry",
+    "vegetable stir fry",
+    "asian tofu recipes",
+    "stir fry with mushrooms",
+    "tofu broccoli cashew"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sauteed vegetables",
+        "volume": 49500,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable stir fry",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "veg for a stir fry",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "fried tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "stirfry with tofu",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu stirfry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "wok fried tofu",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable stir fry recipe",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "fried rice veg recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes with stir fry veggies",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry veg ideas",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "tofu stir fry recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "bok choy for stir fry",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese string beans recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cook tofu for stir fry",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "prepare tofu for stir fry",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fried chicken and broccoli",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fried chicken with broccoli",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry broccoli with chicken",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "asian tofu recipes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and vegetable stir fry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and veggie stir fry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and vegetable stirfry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and veggie stirfry",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "rice recipe with vegetables",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu recipe chinese",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese stir fry vegetables",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "broccoli in stir fry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage stirfry",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese stir fry veg",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "green beans in stir fry",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry french beans",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry string beans",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetable stir fry asian",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "vegetables for asian stir fry",
+        "volume": 8100,
+        "competition": 19
+      },
+      {
+        "keyword": "wok fried broccoli",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian stir fry sauce",
+        "volume": 6600,
+        "competition": 27
+      },
+      {
+        "keyword": "sauteed vegetables recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "fried vegetables",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "chinese vegetable recipes",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "chinese veggies recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fried veg",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "sauteed veggie recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fried tofu and vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried tofu with vegetables",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fried veggies with tofu",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "stir fry tofu and veggies",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu and veggies stir fry",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu vegetable stirfry",
+        "volume": 6600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

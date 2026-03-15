@@ -1,0 +1,267 @@
+{
+  "slug": "sugar-pepper-bacon-blast",
+  "title": "Sugar Pepper Bacon Blast",
+  "seed_keywords": [
+    "spiced bacon strips",
+    "maple glazed bacon",
+    "brown sugar bacon",
+    "bacon appetizers",
+    "crispy bacon snacks"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "bacon wrapped dates",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "jalapeno popper bacon wrapped",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
+        "keyword": "jalapeno poppers wrapped in bacon",
+        "volume": 22200,
+        "competition": 14
+      },
+      {
+        "keyword": "bacon wrapped water chestnuts",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon wrapped smokies",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon wrapped wieners",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon covered smokies",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "candied bacon recipe",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "rumaki",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "little smokies wrapped in bacon",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon wrapped dates recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "brown sugar bacon",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "bacon and brown sugar",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "bacon wrapped jalapeno poppers recipes",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "bacon wrapped smokies with brown sugar",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "jalapeno poppers with bacon",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "bacon wrapped smokies and brown sugar",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "bacon wrapped wieners in brown sugar",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "brown sugar and bacon wrapped smokies",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "smokies wrapped in bacon and brown sugar",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for little smokies wrapped in bacon",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "bacon wrapped dates with goat cheese",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "bacon wrapped dates and goat cheese",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe little smokies wrapped in bacon",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "recipes for rumaki",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon appetizers",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "bacon wrapped stuffed jalapenos",
+        "volume": 2400,
+        "competition": 12
+      },
+      {
+        "keyword": "appetisers with bacon",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "appetizers using bacon",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "bacon and cheese balls",
+        "volume": 2400,
+        "competition": 35
+      },
+      {
+        "keyword": "bacon horderves",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "bacon hors d oeuvres",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "bacon wrapped cocktail weenies",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "bacon wrapped weiner",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "devils on horseback recipe",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "hors d oeuvres with bacon",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "bacon wrapped jalapeno poppers oven",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "bake bacon wrapped jalapeno poppers",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "devils horseback",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "friday's loaded potato skins",
+        "volume": 1900,
+        "competition": 59
+      },
+      {
+        "keyword": "loaded potato skins tgif",
+        "volume": 1900,
+        "competition": 59
+      },
+      {
+        "keyword": "oven bacon wrapped jalapeno poppers",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "water chestnuts wrapped in bacon recipes",
+        "volume": 1900,
+        "competition": 9
+      },
+      {
+        "keyword": "bacon wrapped appetizers",
+        "volume": 1600,
+        "competition": 25
+      },
+      {
+        "keyword": "bacon ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon wrapped chicken bites",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "brown sugar bacon recipe",
+        "volume": 1600,
+        "competition": 21
+      },
+      {
+        "keyword": "bacon and brown sugar recipe",
+        "volume": 1600,
+        "competition": 21
+      },
+      {
+        "keyword": "bacon and ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon cheese ranch cheese ball",
+        "volume": 1600,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-thai-beef-bowls",
+  "title": "Spicy Thai Beef Bowls",
+  "seed_keywords": [
+    "thai beef bowls",
+    "ground beef noodles",
+    "spicy thai noodle",
+    "beef vermicelli bowls",
+    "asian ground beef"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "hamburger beef pasta",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "beef pasta",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe beef pasta",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "asian dish with ground beef",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "asian ground beef recipe",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "asian ground meat recipes",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "asian hamburger meat recipes",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "asian recipe using ground beef",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "hamburger ramen",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef & noodle recipes",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "ground beef and noodle dish",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "ground beef and noodle recipe",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "ground meat and noodle recipes",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "ground meat noodles recipe",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "hamburger meat noodles recipes",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "meals with ground beef and noodles",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "noodles with ground beef recipe",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "ground beef noodles",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "beef noodle casserole",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "ground beef and noodles",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "asian beef mince recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "asian mince recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "beef and noodle casserole",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "beef and noodles with ground beef",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "beef noodle hotdish",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "casserole with beef and noodles",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "chop meat and noodles",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "ground meat and noodles",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "ground meat noodles",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger meat and noodles",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger meat noodles",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "oriental minced beef recipe",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "hamburger noodle casserole",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "casserole with hamburger and noodles",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "egg noodle and ground beef recipe",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "egg noodle ground beef recipe",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "egg noodle with ground beef recipes",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "ground beef and ramen noodles",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef ramen noodles",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef with egg noodles recipe",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "hamburger meat and ramen noodles",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "hamburger noodle hotdish",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "mongolian ground beef noodles",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "nachos recipe ground beef",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "ramen noodles and hamburger meat",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe ground beef and egg noodles",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe using egg noodles and ground beef",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "recipes with hamburger meat and egg noodles",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "beef and elbow noodle casserole",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "burger and noodle recipes",
+        "volume": 2400,
+        "competition": 12
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

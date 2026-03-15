@@ -1,0 +1,267 @@
+{
+  "slug": "spinach-salad-shrimp",
+  "title": "Spinach Salad w Shrimp",
+  "seed_keywords": [
+    "warm bacon dressing",
+    "shrimp spinach salad",
+    "grilled shrimp salad",
+    "spinach salad bacon",
+    "seafood spinach recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "blt salad with pasta",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "hot bacon dressing for spinach salad",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "spinach salad with warm bacon dressing",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "hot bacon salad dressing for spinach",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "warm bacon dressing",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "hot bacon dressing",
+        "volume": 3600,
+        "competition": 15
+      },
+      {
+        "keyword": "shrimp caesar salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp spinach and pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp spinach pasta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "hot bacon dressing recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for warm bacon dressing",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "warm spinach salad",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "hot spinach salad",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled shrimp salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach salad bacon",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "bacon and spinach salad",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "grilled shrimp and salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled shrimp on salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach wilted salad",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon dressing for spinach salad",
+        "volume": 1600,
+        "competition": 23
+      },
+      {
+        "keyword": "bacon salad dressing for spinach salad",
+        "volume": 1600,
+        "competition": 23
+      },
+      {
+        "keyword": "dressing for spinach and bacon salad",
+        "volume": 1600,
+        "competition": 23
+      },
+      {
+        "keyword": "spinach and bacon salad dressing",
+        "volume": 1600,
+        "competition": 23
+      },
+      {
+        "keyword": "egg and spinach salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "egg spinach salad",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "hot bacon and spinach salad",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "hot bacon spinach salad",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "shrimp pasta tomatoes spinach",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach salad with warm bacon",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "warm bacon and spinach salad",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "bacon vinaigrette",
+        "volume": 880,
+        "competition": 19
+      },
+      {
+        "keyword": "spinach artichoke crab meat dip",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "warm bacon potato salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "dressing for warm spinach salad",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "hot dressing for spinach salad",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "hot salad dressing for spinach",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "spinach salad dressing warm",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "spinach salad mushrooms",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach salad with hot dressing",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "warm salad dressing for spinach salad",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "warm spinach dressing",
+        "volume": 720,
+        "competition": 21
+      },
+      {
+        "keyword": "shrimp spinach salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "hot bacon salad dressing",
+        "volume": 590,
+        "competition": 29
+      },
+      {
+        "keyword": "bacon and egg spinach salad",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg spinach salad",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon spinach salad recipe",
+        "volume": 590,
+        "competition": 12
+      },
+      {
+        "keyword": "hot spinach salad recipes",
+        "volume": 590,
+        "competition": 9
+      },
+      {
+        "keyword": "salad with warm bacon dressing",
+        "volume": 590,
+        "competition": 29
+      },
+      {
+        "keyword": "shrimp and corn salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp and spinach salad",
+        "volume": 590,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

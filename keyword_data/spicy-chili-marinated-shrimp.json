@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-chili-marinated-shrimp",
+  "title": "Spicy Chili Marinated Shrimp",
+  "seed_keywords": [
+    "spicy shrimp appetizers",
+    "marinated shrimp",
+    "chili lime shrimp",
+    "shrimp starters",
+    "grilled shrimp recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "grilled shrimp",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp and grill",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "grill shrimp on grill",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "grill shrimp on the grill",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "grilled shrimp and",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "grilled shrimp recipes",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "grill prawn recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "grilled shrimp dish",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "shrimp on a grill recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "bang bang shrimp at bonefish grill",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "bang bang shrimp bonefish",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "bone fish bang bang shrimp",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "marinated shrimp",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp skewers",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled shrimp marinade",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "grill prawn",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "marinated and grilled shrimp",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "skewer of shrimp",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "skewers for shrimp",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "shrimp kabob",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled shrimp skewers",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "bbq shrimp recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue shrimp recipe",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue shrimp skewers",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "bbq shrimps",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "scampi grilled",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp on barbeque",
+        "volume": 6600,
+        "competition": 9
+      },
+      {
+        "keyword": "shrimp on the grill skewers",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled shrimp near me",
+        "volume": 5400,
+        "competition": 16
+      },
+      {
+        "keyword": "prawns on a skewer",
+        "volume": 4400,
+        "competition": 10
+      },
+      {
+        "keyword": "bbq prawns",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp kabob recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp skewers recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "bang bang shrimp taco",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "barbecuing prawns",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for shrimp kebabs",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp caesar salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp kebab recipe",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "grilled shrimp tacos",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "marinated prawns",
+        "volume": 2900,
+        "competition": 18
+      },
+      {
+        "keyword": "grilled prawn tacos",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled shrimp for tacos",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "marinade for shrimp recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "marinade prawns",
+        "volume": 2900,
+        "competition": 18
+      },
+      {
+        "keyword": "shrimp in smoker",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "shrimp smoker",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "bbq shrimp new orleans recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "seasoning for grilled shrimp",
+        "volume": 1900,
+        "competition": 16
+      },
+      {
+        "keyword": "bbq prawn recipes",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "barbecue prawn recipe",
+        "volume": 1900,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

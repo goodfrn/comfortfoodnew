@@ -1,0 +1,267 @@
+{
+  "slug": "streusel-coffee-cake-cookies",
+  "title": "Streusel Coffee Cake Cookies",
+  "seed_keywords": [
+    "cinnamon streusel cookies",
+    "coffee cake cookies",
+    "butter cookie recipes",
+    "cinnamon swirl baking",
+    "crumb cake desserts"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chocolate chip cookie recipe",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "make chocolate chip cookies",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe to make chocolate chip cookies",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate chocolate chip cookie recipe",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "cookie chip cookie recipe",
+        "volume": 1000000,
+        "competition": 8
+      },
+      {
+        "keyword": "chocolate chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "choco chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "chip chocolate chip cookies",
+        "volume": 673000,
+        "competition": 22
+      },
+      {
+        "keyword": "peanut butter cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "peanut butter cookie recipe",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "no bake cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "pb cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "pb cookie recipe",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "peanut cookie recipe",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "peanut butter cookie recipe with butter",
+        "volume": 246000,
+        "competition": 10
+      },
+      {
+        "keyword": "no cook cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "best chocolate chip cookie recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "milk chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "brown butter chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "best chocolate chocolate chip cookie recipe",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut butter blossoms",
+        "volume": 90500,
+        "competition": 17
+      },
+      {
+        "keyword": "oatmeal chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "pb blossoms",
+        "volume": 90500,
+        "competition": 17
+      },
+      {
+        "keyword": "chocolate chip cookies with oats",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oat and chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal and chocolate chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal chip cookies",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "easy chocolate chip cookies recipe",
+        "volume": 74000,
+        "competition": 12
+      },
+      {
+        "keyword": "basic chocolate chip cookie recipe",
+        "volume": 74000,
+        "competition": 12
+      },
+      {
+        "keyword": "3 ingredient peanut butter cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "3 ingredient pb cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "lotus biscoff cookie",
+        "volume": 60500,
+        "competition": 17
+      },
+      {
+        "keyword": "recipe anzac biscuits",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut butter biscuits 3 ingredients",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "chip cookies",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "pumpkin chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "monster cookie",
+        "volume": 49500,
+        "competition": 17
+      },
+      {
+        "keyword": "pumpkin and chocolate chip cookies",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "butter cookie recipes",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "peanut butter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "best chocolate chip cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "nestles chocolate chip cookie recipe",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut butter and chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanutbutter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "best chocolate chocolate chip cookies",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "chewy chocolate chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chocolate and peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "oatmeal banana cookie recipe",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "pb chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

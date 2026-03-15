@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-fish-tacos",
+  "title": "Tangy Fish Tacos Twist",
+  "seed_keywords": [
+    "fish tacos",
+    "cod tacos",
+    "lime fish recipes",
+    "sautéed fish tacos",
+    "tropical fish tacos"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fish tacos",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "fish for fish tacos",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "fisch taco",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "fish and taco",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "fish for taco",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "fish tacos near me",
+        "volume": 90500,
+        "competition": 16
+      },
+      {
+        "keyword": "baja fish tacos",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "baja tacos",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "sauce for fish tacos",
+        "volume": 22200,
+        "competition": 28
+      },
+      {
+        "keyword": "taco ensenada",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "cod tacos",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "tacos baja",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "cod fish tacos",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled mahi mahi",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "cabos fish taco",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "cod for tacos",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "fish taco salmon",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled mahi mahi fish",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "salmon taco",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "fish tacos with slaw",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "coleslaw for fish tacos",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "fish taco mahi mahi",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "mahi fish taco",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "mahi mahi taco",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "mahi taco",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "slaw with fish tacos",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "fish taco slaw recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "best fish tacos",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "best fish for fish tacos",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "cole slaw for fish tacos recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "fish taco and slaw recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "good fish for fish tacos",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "good fish for tacos",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "baja california tacos",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "baja fish",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "blackened fish",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "rickys tacos",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "best fish tacos near me",
+        "volume": 6600,
+        "competition": 17
+      },
+      {
+        "keyword": "fish taco sauce recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "red fish taco",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "wahoo fish taco near me",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "wahoo fish tacos near me",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "wahoo tacos near me",
+        "volume": 6600,
+        "competition": 7
+      },
+      {
+        "keyword": "wahoo fish taco",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "wahoo tacos",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "fish tacos recipe cod",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "fried fish tacos",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "beer battered fish tacos",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "cod tacos recipe",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "bajamar seafood & tacos",
+        "volume": 5400,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

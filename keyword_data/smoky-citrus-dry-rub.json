@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-citrus-dry-rub",
+  "title": "Smoky Citrus Dry Rub",
+  "seed_keywords": [
+    "smoky dry rub",
+    "chipotle spice blend",
+    "citrus seasoning rub",
+    "dry rub recipes",
+    "lemon pepper seasoning"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "dry rub for ribs",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dry rub seasoning for ribs",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "dry rub spices for ribs",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken with lemon pepper",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon pepper on chicken",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon pepper wing",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "dry rub for chicken wings",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "buffalo wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "buffalo wing dry rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "buffalo chicken dry rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "chicken wing spice rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "hot wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "brisket rubs",
+        "volume": 22200,
+        "competition": 79
+      },
+      {
+        "keyword": "rub for ribs",
+        "volume": 22200,
+        "competition": 49
+      },
+      {
+        "keyword": "beef brisket rub",
+        "volume": 22200,
+        "competition": 79
+      },
+      {
+        "keyword": "pork rib rub",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "dry rub for pork ribs",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "rib rub recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "bbq rib spice rub",
+        "volume": 22200,
+        "competition": 49
+      },
+      {
+        "keyword": "beef brisket spice rub",
+        "volume": 22200,
+        "competition": 79
+      },
+      {
+        "keyword": "brisket seasoning rub",
+        "volume": 22200,
+        "competition": 79
+      },
+      {
+        "keyword": "pork rib spice rub",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "pork spareribs rub",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "rib rub for pork ribs",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "rib spice rub recipe",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "rub and ribs",
+        "volume": 22200,
+        "competition": 49
+      },
+      {
+        "keyword": "pulled pork rub",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "bbq rub for ribs",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "barbecue rub for ribs",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "dry rub pulled pork",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "bbq rub pulled pork",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "pork rub for pulled pork",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "barbecue dry rub ribs",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "bbq pulled pork dry rub",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "pulled pork seasoning rub",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "pulled pork spice rub",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "rib rub for grilling",
+        "volume": 18100,
+        "competition": 25
+      },
+      {
+        "keyword": "dry rub for brisket",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "pork butt rub",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "steak spice rub",
+        "volume": 14800,
+        "competition": 66
+      },
+      {
+        "keyword": "boston butt rub",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "dry rub for steak",
+        "volume": 14800,
+        "competition": 66
+      },
+      {
+        "keyword": "beef brisket dry rub",
+        "volume": 14800,
+        "competition": 16
+      },
+      {
+        "keyword": "beef steak rub",
+        "volume": 14800,
+        "competition": 66
+      },
+      {
+        "keyword": "boston butt dry rub",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "dry rub for pork butt",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "dry rub for tri tip",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "pork but rub",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "pork butt spice rub",
+        "volume": 14800,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

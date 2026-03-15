@@ -1,0 +1,267 @@
+{
+  "slug": "veggie-crunch-wrap-burrito",
+  "title": "Veggie Crunch Wrap Burrito",
+  "seed_keywords": [
+    "vegetable egg wraps",
+    "sautéed mushroom burritos",
+    "breakfast burrito recipes",
+    "spinach cheese wraps",
+    "pepper egg tortillas"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "breakfast burrito",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "break burrito",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "breakfast burr",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "breakfast burrito breakfast burrito",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "brekky burrito",
+        "volume": 246000,
+        "competition": 12
+      },
+      {
+        "keyword": "breakfast burrito recipes",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "break burrito recipe",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "breakfast wrap",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "toasties breakfast burritos",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "sonic breakfast burrito",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "best damn breakfast burrito",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast burritos from mcdonald's",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "breakfast wraps at mcdonald's",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "mcd breakfast burrito",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "mcdo breakfast wrap",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "starbucks feta spinach wrap",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "best breakfast burritos",
+        "volume": 8100,
+        "competition": 12
+      },
+      {
+        "keyword": "freezer breakfast burritos",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "chorizo breakfast burrito",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "breakfast burrito camping",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "breakfast burritos for the freezer",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "burrito chorizo",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "high protein breakfast burrito",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian breakfast burritos",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "burrito egg",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast wrap recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "healthy breakfast burrito",
+        "volume": 3600,
+        "competition": 17
+      },
+      {
+        "keyword": "make ahead breakfast burritos",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "breakfast tortilla",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "breakfast burrito freeze recipe",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "breakfast burrito frozen recipe",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "breakfast burrito mexican",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast burrito recipe for freezing",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "brekkie wrap recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "burritos healthy",
+        "volume": 3600,
+        "competition": 13
+      },
+      {
+        "keyword": "freeze ahead breakfast burritos",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe freezer breakfast burritos",
+        "volume": 3600,
+        "competition": 6
+      },
+      {
+        "keyword": "wendys breakfast burritos",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "wrap breakfast recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "breakfast burrito ingredients",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "spinach feta egg white wrap",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "ingredients in a breakfast burrito",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "protein burritos",
+        "volume": 2900,
+        "competition": 36
+      },
+      {
+        "keyword": "spinach feta and egg white wrap",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "simple breakfast burrito recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "best breakfast burritos recipe",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "sausage burrito",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "easy breakfast burrito recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast burrito sauce",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "amazing breakfast burrito recipe",
+        "volume": 2400,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

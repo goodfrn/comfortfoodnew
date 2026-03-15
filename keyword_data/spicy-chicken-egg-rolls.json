@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-chicken-egg-rolls",
+  "title": "Spicy Chicken Egg Rolls",
+  "seed_keywords": [
+    "chicken egg rolls",
+    "spicy chicken appetizers",
+    "buffalo chicken fried",
+    "crispy fried appetizers",
+    "wing sauce chicken"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "buffalo wing",
+        "volume": 301000,
+        "competition": 12
+      },
+      {
+        "keyword": "buffalo style wings",
+        "volume": 301000,
+        "competition": 12
+      },
+      {
+        "keyword": "air fryer buffalo wings",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "hot wings in air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "buffalo wings in air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "air fried hot wings",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "air fryer buffalo wing",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "hottest buffalo wings",
+        "volume": 90500,
+        "competition": 15
+      },
+      {
+        "keyword": "kentucky fried hot wings",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "garlic parmesan wings",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "buffalo wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "best flavor wingstop",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "best wingstop flavor",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic parm wings",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "hot wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "parmesan and garlic wings",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "wings parmesan garlic",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "buffalo style chicken wings",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wings marinades",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "air fryer hot wings recipe",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "franks red buffalo chicken dip",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "air fryer hot wing recipes",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "barbecue wing",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "bbq wing",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "buffalo wings deep fried",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken barbecue wings",
+        "volume": 18100,
+        "competition": 17
+      },
+      {
+        "keyword": "deep fried hot wings",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "spicy wing",
+        "volume": 18100,
+        "competition": 16
+      },
+      {
+        "keyword": "buffalo wild wings hot wing",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "buffalo wild wings hot wings",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken egg rolls",
+        "volume": 12100,
+        "competition": 34
+      },
+      {
+        "keyword": "chickenwing dip",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "flavored wings",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wings and dip",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "dip for buffalo wings",
+        "volume": 12100,
+        "competition": 15
+      },
+      {
+        "keyword": "garlic parmesan wings wingstop",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "kentucky fried chicken buffalo wings",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "original hot wingstop",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "traditional buffalo wild wings",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "franks red hot wings",
+        "volume": 9900,
+        "competition": 19
+      },
+      {
+        "keyword": "chicken wing sauces",
+        "volume": 9900,
+        "competition": 57
+      },
+      {
+        "keyword": "honey buffalo wings",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken garlic parmesan wings",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "franks red hot for wings",
+        "volume": 9900,
+        "competition": 19
+      },
+      {
+        "keyword": "garlic parm chicken wings",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "garlic parmesan hot wings",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "honey hot chicken wings",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "hooters hot wing",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "hot and honey wings",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "hot honey buffalo wings",
+        "volume": 9900,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

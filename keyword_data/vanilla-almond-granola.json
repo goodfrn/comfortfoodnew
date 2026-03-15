@@ -1,0 +1,267 @@
+{
+  "slug": "vanilla-almond-granola",
+  "title": "Vanilla Almond Granola Rework",
+  "seed_keywords": [
+    "homemade granola",
+    "almond granola clusters",
+    "granola with almonds",
+    "cinnamon oat granola",
+    "toasted oat clusters"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "granola recipe",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade granola",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "granola home made",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "granola bar recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "granola bar recipe with granola",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "handmade granola bars",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade granola bars",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "granola bars home made",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "home made granola bar",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade granola bars with granola",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "howto make granola",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "make granola bars at home",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "healthy granola recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade granola recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "home granola recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "home made granola recipe",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for home made granola",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "oat bars recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade healthy granola bars",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "healthy granola bar recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "healthy cereal bar recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "granola flapjack recipe healthy",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "healthy granola bars to make",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "healthy granola flapjack recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "healthy home made granola bars",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "home made granola bars healthy",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "home made healthy granola bars",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "make healthy granola bars",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "simple granola recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "granola recipe easy",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "easy simple granola recipe",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "best granola recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "best rated granola recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "great granola recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "muesli cereal bar recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "muesli granola bar recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "top rated granola recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "cereal bars recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "healthy homemade granola",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "homemade granola bar recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "homemade chewy granola bars",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chewy granola bar recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chewy cereal bar recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chewy oat bar recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "healthy home made granola",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "healthy oat bar recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "home made chewy granola bars",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "home made granola bar recipe",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "home made healthy granola",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "homemade oat bar recipe",
+        "volume": 3600,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

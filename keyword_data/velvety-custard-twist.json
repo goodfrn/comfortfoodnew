@@ -1,0 +1,267 @@
+{
+  "slug": "velvety-custard-twist",
+  "title": "Velvety Custard Twist",
+  "seed_keywords": [
+    "custard desserts",
+    "vanilla custard recipe",
+    "homemade custard sauce",
+    "cornstarch custard cream",
+    "creamy custard pudding"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "flan",
+        "volume": 673000,
+        "competition": 9
+      },
+      {
+        "keyword": "andy's frozen custards",
+        "volume": 450000,
+        "competition": 4
+      },
+      {
+        "keyword": "custard",
+        "volume": 368000,
+        "competition": 17
+      },
+      {
+        "keyword": "powdered custard",
+        "volume": 165000,
+        "competition": 74
+      },
+      {
+        "keyword": "creme caramel",
+        "volume": 135000,
+        "competition": 20
+      },
+      {
+        "keyword": "leche flan",
+        "volume": 90500,
+        "competition": 3
+      },
+      {
+        "keyword": "flan recipe",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "custard recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "making flan",
+        "volume": 74000,
+        "competition": 5
+      },
+      {
+        "keyword": "galaktoboureko",
+        "volume": 74000,
+        "competition": 0
+      },
+      {
+        "keyword": "frozen custard",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "andy's custards",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "italian zabaglione",
+        "volume": 49500,
+        "competition": 0
+      },
+      {
+        "keyword": "zabaglione",
+        "volume": 49500,
+        "competition": 0
+      },
+      {
+        "keyword": "cream custard",
+        "volume": 40500,
+        "competition": 29
+      },
+      {
+        "keyword": "custards near me",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "caramel puddings",
+        "volume": 33100,
+        "competition": 39
+      },
+      {
+        "keyword": "custard and fruit",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "fruit custard dessert",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "ted drewes custard",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "leche flan recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "egg custard",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "custard pie",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "custard cake",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "cake and custard",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "caramel custard",
+        "volume": 27100,
+        "competition": 17
+      },
+      {
+        "keyword": "abbott custard",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "abbotts frozen custard",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "cake and custard dessert",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "caramel egg custard",
+        "volume": 27100,
+        "competition": 17
+      },
+      {
+        "keyword": "custard and cake dessert",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "egg custard dessert",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "custard tarts",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "egg tarts near me",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "andy's custard ice cream",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "portuguese custard tarts",
+        "volume": 18100,
+        "competition": 11
+      },
+      {
+        "keyword": "vanilla slice",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "flan cake",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "pots de crème",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "vanilla custard",
+        "volume": 14800,
+        "competition": 35
+      },
+      {
+        "keyword": "leon custard",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "custard pudding",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "custard pie recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "creme caramel recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "anderson's custard",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "anderson's frozen custard",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "cocoa custard",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "custard and pudding",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "custard chocolate",
+        "volume": 12100,
+        "competition": 19
+      },
+      {
+        "keyword": "rhubarb and custard",
+        "volume": 9900,
+        "competition": 55
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

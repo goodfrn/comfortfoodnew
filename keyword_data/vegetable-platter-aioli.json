@@ -1,0 +1,267 @@
+{
+  "slug": "vegetable-platter-aioli",
+  "title": "Vegetable Platter with Garlic Aioli",
+  "seed_keywords": [
+    "vegetable platter",
+    "garlic aioli recipe",
+    "boiled vegetables appetizer",
+    "garlic mayo dip",
+    "raw vegetable dip"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "aioli",
+        "volume": 450000,
+        "competition": 3
+      },
+      {
+        "keyword": "crudite",
+        "volume": 110000,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic aioli",
+        "volume": 74000,
+        "competition": 17
+      },
+      {
+        "keyword": "aioli recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic aioli recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipes with garlic aioli",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic mayo",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "crudite platter",
+        "volume": 18100,
+        "competition": 22
+      },
+      {
+        "keyword": "garlic mayo recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "crudite veg",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "crudite veggies",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "aioli dip",
+        "volume": 5400,
+        "competition": 28
+      },
+      {
+        "keyword": "lemon aoli",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "garlic aioli sauce",
+        "volume": 3600,
+        "competition": 50
+      },
+      {
+        "keyword": "dip for veggie tray",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "garlic mayo sauce",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "aioli mayo",
+        "volume": 3600,
+        "competition": 26
+      },
+      {
+        "keyword": "veggies and dip platter",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "veggie dip platter",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "vegetable platter with dip",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "aioli sauce garlic",
+        "volume": 3600,
+        "competition": 50
+      },
+      {
+        "keyword": "aioli sauces recipes",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "allioli ingredients",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic sauce mayonnaise",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "ingredients aioli",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "sauce garlic mayo",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "turkey vegetable platter",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetable tray dip",
+        "volume": 3600,
+        "competition": 56
+      },
+      {
+        "keyword": "vegetable turkey tray",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "veggie turkey tray",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic mayo dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "easy aioli recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade aioli",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "aioli homemade",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic and mayo dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayo dip sauce",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayonnaise dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayonnaise dipping sauce",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "mayonnaise and garlic dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "simple aioli recipe",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon garlic aioli",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "alioli recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "christmas veg platter",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "christmas veggie platter",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "festive veggie trays",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic and lemon aioli",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "healthy dip for raw broccoli",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "veggie platter christmas",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "veggie platter for christmas",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "veggie tray christmas",
+        "volume": 2400,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

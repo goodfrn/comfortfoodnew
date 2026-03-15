@@ -1,0 +1,267 @@
+{
+  "slug": "strawberry-lemon-yogurt-bread",
+  "title": "Strawberry Lemon Yogurt Bread",
+  "seed_keywords": [
+    "strawberry bread",
+    "lemon yogurt cake",
+    "yogurt quick bread",
+    "strawberry lemon bake",
+    "fruit breakfast loaf"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "strawberry bread",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "yogurt cake recipe",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "bread strawberry",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "lemon yogurt cake",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon & yoghurt cake",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon and yoghurt cake",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon cake using yogurt",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon drizzle cake with yogurt",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon yoghurt cake",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt and lemon cake",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt and lemon cake",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and strawberry bread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread with strawberries",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "banana strawberry loaf",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy banana strawberry bread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for strawberry bread",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "panera bread strawberry poppyseed salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "panera bread strawberry poppy seed salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry poppyseed salad panera bread",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "blueberry yogurt cake",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry and yoghurt cake",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry and yogurt cake",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "yogurt and blueberry cake",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "yogurt cake with blueberries",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon and yoghurt cake recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon cake recipe with yogurt",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon yoghurt cake recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for lemon yoghurt cake",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe lemon yoghurt cake",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt cake recipe",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "jamie oliver lemon yogurt cake recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "strawberry short bread",
+        "volume": 1900,
+        "competition": 16
+      },
+      {
+        "keyword": "donna hay lemon yoghurt cake",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "donna hay lemon yogurt cake",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "strawberry shortcake bread",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "banana and strawberry bread recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread recipe with strawberries",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "bread for strawberry shortcake",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "ina garten lemon cake yogurt",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon yogurt cake by ina garten",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "shortcake bread",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "strawberry banana nut bread recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry loaf",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "strawberry short cake bread",
+        "volume": 1000,
+        "competition": 35
+      },
+      {
+        "keyword": "panera bread strawberry salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "blueberry lemon loaf with yogurt",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "greek lemon yoghurt cake",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "greek lemon yogurt cake",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt and lemon cake",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon yoghurt cake mary berry",
+        "volume": 880,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

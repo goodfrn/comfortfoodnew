@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-kung-pao-chicken",
+  "title": "Twisted Kung Pao Chicken",
+  "seed_keywords": [
+    "kung pao chicken",
+    "stir fry chicken",
+    "asian chicken dinner",
+    "chicken cornstarch coating",
+    "bell pepper chicken sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "kung pao chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken kung po",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken kung pow",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken pao",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "con pow chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "gongbao chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kam pao chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kampao chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "ko po chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kom po chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "koon po chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kung chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kung p",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kung pao chicken kung pao chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kung pao dish",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kung pao food",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kung po",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "kung po dishes",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "long pao chicken",
+        "volume": 301000,
+        "competition": 0
+      },
+      {
+        "keyword": "stirred fry",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "general tsos",
+        "volume": 201000,
+        "competition": 1
+      },
+      {
+        "keyword": "pad kra pao",
+        "volume": 165000,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe stirfry",
+        "volume": 135000,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken stir fry recipe",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for chicken stirfry",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken stir fry dish",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken stir fry meal",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe chicken stirfry",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and stir fry",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken in stir fry",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "stirfry with chicken",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "kung pao",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "kungpao",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "pao kung",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "velveted chicken",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "kung pao chicken panda express",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "asian chicken dishes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "gong bao",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "kung pao chicken at panda express",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "kung pao panda express",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "panda express kung pow chicken",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "stir fry chicken",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "kung pao chicken sauce",
+        "volume": 18100,
+        "competition": 38
+      },
+      {
+        "keyword": "chicken stir",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "fry chicken in pan",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "kung pow chicken sauce",
+        "volume": 18100,
+        "competition": 38
+      },
+      {
+        "keyword": "kungpao sauce",
+        "volume": 18100,
+        "competition": 38
+      },
+      {
+        "keyword": "stir fry chicken stir fry",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken stir fry sauce",
+        "volume": 12100,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken and broccoli stir fry",
+        "volume": 12100,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

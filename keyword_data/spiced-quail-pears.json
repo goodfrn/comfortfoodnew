@@ -1,0 +1,117 @@
+{
+  "slug": "spiced-quail-pears",
+  "title": "Spiced Quail and Pears",
+  "seed_keywords": [
+    "roasted game birds",
+    "spiced pear dessert",
+    "quail with pears",
+    "cinnamon roasted poultry",
+    "caramelized pears butter"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pheasant roast",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger and pear cake",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger pear cake",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "partridge roast",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger pear crumble",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "pear and ginger crumble",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "spice cake with pears",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pear with cinnamon",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger pear tart",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "poached pears with saffron",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "saffron poached pear",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "cinnamon poached pears",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger and pear trifle",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger pear trifle",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "sticky ginger and pear cake",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "ginger pear pie",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "pear and ginger pie",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "roast pheasant bacon",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pears with cinnamon and honey",
+        "volume": 110,
+        "competition": 0
+      },
+      {
+        "keyword": "baked pears with honey and cinnamon",
+        "volume": 110,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

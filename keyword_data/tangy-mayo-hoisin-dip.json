@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-mayo-hoisin-dip",
+  "title": "Tangy Mayo Hoisin Dip",
+  "seed_keywords": [
+    "asian dip recipes",
+    "mayo based dips",
+    "hoisin sriracha sauce",
+    "garlic mayo dip",
+    "tangy condiment spread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "garlic mayo",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "garlic mayo recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic mayo sauce",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "garlic sauce mayonnaise",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "sauce garlic mayo",
+        "volume": 3600,
+        "competition": 42
+      },
+      {
+        "keyword": "garlic mayo dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic and mayo dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayo dip sauce",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayonnaise dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayonnaise dipping sauce",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "mayonnaise and garlic dip",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "asian dipping sauce",
+        "volume": 1900,
+        "competition": 26
+      },
+      {
+        "keyword": "garlic mayo aioli",
+        "volume": 1900,
+        "competition": 32
+      },
+      {
+        "keyword": "garlic aioli from mayonnaise",
+        "volume": 1900,
+        "competition": 32
+      },
+      {
+        "keyword": "chinese dumpling sauce",
+        "volume": 1600,
+        "competition": 48
+      },
+      {
+        "keyword": "mayonnaise based sauce",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "chinese dipping sauce",
+        "volume": 1300,
+        "competition": 35
+      },
+      {
+        "keyword": "garlic mayo homemade",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic mayo sauce recipe",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "homemade garlic mayo",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "garlic aioli recipe with mayo",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "asian dipping sauce recipe",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic aioli recipe mayo",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "asian dumpling sauce",
+        "volume": 590,
+        "competition": 48
+      },
+      {
+        "keyword": "asian sauce for dumplings",
+        "volume": 590,
+        "competition": 48
+      },
+      {
+        "keyword": "hoisin sriracha sauce",
+        "volume": 480,
+        "competition": 74
+      },
+      {
+        "keyword": "thai chili dipping sauce",
+        "volume": 480,
+        "competition": 31
+      },
+      {
+        "keyword": "dipping sauces for chinese dumplings",
+        "volume": 480,
+        "competition": 20
+      },
+      {
+        "keyword": "hoisin sauce sriracha",
+        "volume": 480,
+        "competition": 74
+      },
+      {
+        "keyword": "hoisin sriracha",
+        "volume": 480,
+        "competition": 74
+      },
+      {
+        "keyword": "sriracha and hoisin sauce",
+        "volume": 480,
+        "competition": 74
+      },
+      {
+        "keyword": "asian dip",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese black vinegar for dumplings",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "chinese dipping sauce for dumplings",
+        "volume": 390,
+        "competition": 32
+      },
+      {
+        "keyword": "chinese dipping sauce recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese hot pot sauces",
+        "volume": 390,
+        "competition": 50
+      },
+      {
+        "keyword": "easy garlic mayo recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic dip recipe with mayo",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic mayo dipping sauce recipe",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "simple garlic mayo recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic mayo for fries",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic mayo fries",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "mayo based dips",
+        "volume": 260,
+        "competition": 7
+      },
+      {
+        "keyword": "mayo based chicken sauce",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mayonnaise based dip",
+        "volume": 260,
+        "competition": 7
+      },
+      {
+        "keyword": "mayonnaise based sauce for chicken",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "asian dipping sauce for dumplings",
+        "volume": 210,
+        "competition": 20
+      },
+      {
+        "keyword": "asian dipping sauce for spring rolls",
+        "volume": 210,
+        "competition": 6
+      },
+      {
+        "keyword": "chinese dumpling dipping sauce recipe",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "easy asian dipping sauce",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

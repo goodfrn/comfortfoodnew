@@ -1,0 +1,267 @@
+{
+  "slug": "strawberry-white-chocolate-bites",
+  "title": "Strawberry White Chocolate Bites",
+  "seed_keywords": [
+    "strawberry desserts",
+    "white chocolate pastries",
+    "strawberry white chocolate",
+    "chocolate pastry cream",
+    "summer fruit bites"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "strawberry short cake",
+        "volume": 673000,
+        "competition": 24
+      },
+      {
+        "keyword": "strawberry cake",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "cake strawberry cake",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "strawberry cake strawberry cake",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "strawberry cake with strawberries",
+        "volume": 165000,
+        "competition": 68
+      },
+      {
+        "keyword": "eton mess",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry short cake recipes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cheesecake cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "cheesecake strawberry cake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "straw cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry cake with cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "blueberry cheesecakes",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "short cake",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "strawberry rhubarb pie",
+        "volume": 49500,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry and rhubarb pie",
+        "volume": 49500,
+        "competition": 31
+      },
+      {
+        "keyword": "strawberry pie",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "make strawberry cake",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "strawberry desserts",
+        "volume": 33100,
+        "competition": 22
+      },
+      {
+        "keyword": "cheesecake strawberries recipe",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "dessert using strawberries",
+        "volume": 33100,
+        "competition": 22
+      },
+      {
+        "keyword": "strawberries white",
+        "volume": 33100,
+        "competition": 42
+      },
+      {
+        "keyword": "strawberry cheesecake cake recipes",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "strawberry cheesecake dessert recipes",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "strawberry tart",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "strawberry rhubarb crisp",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "recipes for strawberry pie",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "rhubarb and strawberry crisp",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "strawberry pound cake",
+        "volume": 22200,
+        "competition": 54
+      },
+      {
+        "keyword": "eton mess recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "pound cake and strawberries",
+        "volume": 22200,
+        "competition": 54
+      },
+      {
+        "keyword": "strawberry shortcake cake",
+        "volume": 18100,
+        "competition": 63
+      },
+      {
+        "keyword": "chocolate strawberry cake",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "strawberry pretzel dessert",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "choco strawberry cake",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "chocolate cake and strawberries",
+        "volume": 18100,
+        "competition": 54
+      },
+      {
+        "keyword": "pretzel and strawberry dessert",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "shortcake cake",
+        "volume": 18100,
+        "competition": 63
+      },
+      {
+        "keyword": "strawberry short cakes",
+        "volume": 18100,
+        "competition": 63
+      },
+      {
+        "keyword": "strawberry tres leches cake",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "strawberry tiramisu",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "strawberry tres leches",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "strawberry dessert recipes",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "strawberry cake filling",
+        "volume": 12100,
+        "competition": 48
+      },
+      {
+        "keyword": "strawberry dessert ideas",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "desserts to make with strawberries",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "dessert recipes using strawberries",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "strawberry cake with strawberry filling",
+        "volume": 12100,
+        "competition": 48
+      },
+      {
+        "keyword": "shortcake biscuits",
+        "volume": 9900,
+        "competition": 80
+      },
+      {
+        "keyword": "strawberry sorbet",
+        "volume": 9900,
+        "competition": 23
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-turkey-melt",
+  "title": "Smoky Turkey Melt",
+  "seed_keywords": [
+    "turkey bacon sandwich",
+    "grilled cheese sandwich",
+    "turkey ham melt",
+    "melted cheese sandwich",
+    "bacon turkey recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "grilled cheese",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "cheese for grilled cheese",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "cheese and sandwich",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "cheese in grilled cheese",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "grill and cheese",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "grilled cheese sandwich",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "grilled cheese near me",
+        "volume": 49500,
+        "competition": 18
+      },
+      {
+        "keyword": "chicken grilled sandwich",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "cheese sandwich near me",
+        "volume": 49500,
+        "competition": 18
+      },
+      {
+        "keyword": "cheese for grilled cheese sandwich",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "best cheese for grilled cheese",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "making grilled cheese",
+        "volume": 33100,
+        "competition": 18
+      },
+      {
+        "keyword": "grilled cheese how to",
+        "volume": 33100,
+        "competition": 29
+      },
+      {
+        "keyword": "cheese sandwich",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "best cheese for grilled cheese sandwich",
+        "volume": 33100,
+        "competition": 13
+      },
+      {
+        "keyword": "air fryer grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled sandwich",
+        "volume": 27100,
+        "competition": 26
+      },
+      {
+        "keyword": "cheese toastie",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "air fry cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "air fryer cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "airfry grilled cheese",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "airfryer grilled cheese sandwich",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "grilled cheese in a air fryer",
+        "volume": 27100,
+        "competition": 30
+      },
+      {
+        "keyword": "starbucks grilled cheese",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "starbucks grilled cheese sandwich",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "best grilled cheese",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "grilled cheese in air fryer",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "panera bacon turkey bravo",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "great grilled cheese",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "airfryer grilled cheese",
+        "volume": 14800,
+        "competition": 33
+      },
+      {
+        "keyword": "american cheese grilled cheese",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "american grilled cheese sandwich",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "best cheese for cheese sandwich",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "best cheese for grilling",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "best cheese in grilled cheese",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "best cheese sandwich",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "panera bread turkey bacon bravo",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "mayonnaise grilled cheese",
+        "volume": 9900,
+        "competition": 18
+      },
+      {
+        "keyword": "turkey club",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna cheese melt sandwich",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "turkey wrapped",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "turkey bacon in oven",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "gordon ramsay grilled cheese",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese gordon ramsay",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled cheese air fryer",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "grilled cheese sandwich near me",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "baked grilled cheese",
+        "volume": 6600,
+        "competition": 35
+      },
+      {
+        "keyword": "toasted ham and cheese sandwich",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "grilled cheese sandwich in oven",
+        "volume": 6600,
+        "competition": 35
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

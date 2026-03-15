@@ -1,0 +1,267 @@
+{
+  "slug": "turkey-rolls-quinoa-pumpkin-sauce",
+  "title": "Turkey Rolls Quinoa Pumpkin Sauce",
+  "seed_keywords": [
+    "turkey main dishes",
+    "stuffed turkey escalopes",
+    "roasted turkey quinoa",
+    "pumpkin sauce recipe",
+    "turkey pumpkin dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "butternut pumpkin pasta sauce",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "gnocchi and pumpkin",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "gnocchi with pumpkin",
+        "volume": 9900,
+        "competition": 17
+      },
+      {
+        "keyword": "pumpkin pasta sauce",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta and pumpkin sauce",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin sauce for spaghetti",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin sauce",
+        "volume": 4400,
+        "competition": 62
+      },
+      {
+        "keyword": "sauce pumpkin",
+        "volume": 4400,
+        "competition": 62
+      },
+      {
+        "keyword": "thanksgiving main dishes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "main course for thanksgiving",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "main course for thanksgiving dinner",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "main entree for thanksgiving",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "main thanksgiving food",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "spice hot chocolate",
+        "volume": 2900,
+        "competition": 58
+      },
+      {
+        "keyword": "gnocchi and pumpkin sauce",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "gnocchi in pumpkin sauce",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "gnocchi pumpkin sauce",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta sauce for pumpkin ravioli",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin ravioli and sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin ravioli sauce",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin sauce for ravioli",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin spaghetti",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "pumpkin spice syrup homemade",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta with pumpkin sauce recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "pesto pumpkin seeds",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes with pumpkin pasta sauce",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "meat dishes for thanksgiving",
+        "volume": 880,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin alfredo",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin alfredo sauce",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin fettuccine alfredo",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey main dishes",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "turkish main course",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "turkish main course dishes",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "turkish main meals",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin sauce recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "gnocchi pumpkin sage",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "gnocchi with pumpkin and sage",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin and sage ravioli",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "pumpkin ravioli sage",
+        "volume": 590,
+        "competition": 7
+      },
+      {
+        "keyword": "ricotta pumpkin ravioli",
+        "volume": 590,
+        "competition": 13
+      },
+      {
+        "keyword": "sage and pumpkin gnocchi",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "brown butter sauce for pumpkin ravioli",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy pumpkin pasta sauce",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta with pumpkin cream sauce",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "pepitas pesto",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin spice sauce recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin filled ravioli",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "pumpkin pesto sauce",
+        "volume": 390,
+        "competition": 13
+      },
+      {
+        "keyword": "pumpkin ravioli recipe sauce",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "best pasta sauce for pumpkin ravioli",
+        "volume": 320,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

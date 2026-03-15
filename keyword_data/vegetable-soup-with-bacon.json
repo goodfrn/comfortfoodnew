@@ -1,0 +1,267 @@
+{
+  "slug": "vegetable-soup-with-bacon",
+  "title": "Vegetable Soup with Bacon Croutons",
+  "seed_keywords": [
+    "vegetable soup recipes",
+    "bacon soup",
+    "cream of vegetable soup",
+    "sautéed vegetable broth",
+    "vegetable soup with bacon"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "soups with butternut squash",
+        "volume": 246000,
+        "competition": 9
+      },
+      {
+        "keyword": "vegetable soup recipes",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "vegetable soup",
+        "volume": 165000,
+        "competition": 19
+      },
+      {
+        "keyword": "veg soup recipe",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "making vegetable soup",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "make veg soup",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "soup potatoes",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "vegeta soup recipe",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "mushroom soup",
+        "volume": 110000,
+        "competition": 28
+      },
+      {
+        "keyword": "green bean casserole with canned green beans",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage and vegetable soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage vegetable soup recipe",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "split peas soup",
+        "volume": 74000,
+        "competition": 12
+      },
+      {
+        "keyword": "cauliflower in soup",
+        "volume": 74000,
+        "competition": 8
+      },
+      {
+        "keyword": "soup carrot",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "loaded baked potato soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "vegetable beef soup recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "baked potato soup loaded",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "baked stuffed potato soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef and vegetable soup recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef veg soup recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "peas soup",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "vegetable soup recipe with meat",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "roasted tomatoes soup",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable beef soup",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "asparagus in soup",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "soup asparagus",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "tomato & basil soup",
+        "volume": 27100,
+        "competition": 32
+      },
+      {
+        "keyword": "chicken and vegetable soup",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken veggie soup",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken and veggie soup",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "carrot soup ideas",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes for carrot soup",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken vegetable soup",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian soup recipes",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "chicken vegetable soup recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetarian soup",
+        "volume": 18100,
+        "competition": 33
+      },
+      {
+        "keyword": "roast pumpkin soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and vegetable soup recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken veg soup recipes",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "beef and vegetable soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon & potato soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "bacon and potato soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef and veg soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef soup with ground beef",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef veg soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "carrot & lentil soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and veg soup recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "lentil and carrot soup",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "meat for vegetable soup",
+        "volume": 18100,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

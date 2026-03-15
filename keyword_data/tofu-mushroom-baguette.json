@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-mushroom-baguette",
+  "title": "Tofu Mushroom Baguette",
+  "seed_keywords": [
+    "tofu sandwich",
+    "roasted mushroom sandwich",
+    "asian tofu recipes",
+    "crispy baguette sandwiches",
+    "tofu mushroom baguette"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "asian tofu recipes",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu recipe chinese",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu sandwich",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "tofu noodle recipes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu east asian canteen",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu egg salad",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe tofu sandwich",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu in hoisin sauce",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu sandwich ideas",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "asian marinade for tofu",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese tofu marinade",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian tofu",
+        "volume": 880,
+        "competition": 29
+      },
+      {
+        "keyword": "oriental tofu",
+        "volume": 880,
+        "competition": 29
+      },
+      {
+        "keyword": "asian fried tofu",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "asian fried tofu recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chinese tofu",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "easy chinese tofu recipes",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "soft tofu recipes asian",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer tofu asian",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "asian salad with tofu",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "bbq tofu sandwich",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled portobello sandwich",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "mendocino farms vegan banh mi",
+        "volume": 390,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe tofu egg salad",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "asian dishes with tofu",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "asian silken tofu recipes",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy tofu sandwich",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "fried tofu sandwich",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "marinated tofu for sandwich",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "oriental tofu recipes",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu and noodle recipes",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "tofu breakfast sandwich",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "asian style tofu recipes",
+        "volume": 260,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese style tofu",
+        "volume": 260,
+        "competition": 7
+      },
+      {
+        "keyword": "smoked tofu sandwich",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu salad sandwich",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "crispy asian tofu",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu egg salad vegan",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "air fry tofu recipe asian",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer tofu recipe asian",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "asian soft tofu recipes",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "asian stir fry tofu",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "asian stir fry tofu recipe",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "crispy chicken baguette",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled tofu sandwich",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "smoked tofu salad",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu hoisin stir fry",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "tofu sandwich vegan",
+        "volume": 170,
+        "competition": 1
+      },
+      {
+        "keyword": "asian vegetarian recipes with tofu",
+        "volume": 140,
+        "competition": 2
+      },
+      {
+        "keyword": "best asian tofu recipe",
+        "volume": 140,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

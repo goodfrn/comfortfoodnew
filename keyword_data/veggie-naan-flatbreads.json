@@ -1,0 +1,57 @@
+{
+  "slug": "veggie-naan-flatbreads",
+  "title": "Veggie Naan Flatbreads",
+  "seed_keywords": [
+    "veggie naan bread",
+    "grilled vegetable flatbread",
+    "zucchini asparagus lunch",
+    "mediterranean naan pizza",
+    "vegetable topped flatbreads"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "veggie naan flatbreads",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon basil mayo naan",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled vegetable flatbread",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "asparagus zucchini naan",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "greek yogurt basil spread",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade naan with vegetables",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "flatbread with roasted veggies",
+        "volume": 0,
+        "competition": 0
+      },
+      {
+        "keyword": "lemon herb vegetable naan",
+        "volume": 0,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

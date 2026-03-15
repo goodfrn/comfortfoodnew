@@ -1,0 +1,267 @@
+{
+  "slug": "tofu-parm-sandwich",
+  "title": "Tofu Parm Sandwich",
+  "seed_keywords": [
+    "vegan sandwich",
+    "tofu air fryer",
+    "crispy tofu recipes",
+    "vegan cheddar sandwich",
+    "plant based panko"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "air fryer tofu",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in air fryer",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in airfryer",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in an air fryer",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "fried tofu",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "fried tau fu",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "tofu fried tofu",
+        "volume": 33100,
+        "competition": 17
+      },
+      {
+        "keyword": "fried tofu stir fry",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan sandwich",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetarian sandwiches",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "crispy tofu",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "crispy bean curd",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "vegan egg sub",
+        "volume": 22200,
+        "competition": 53
+      },
+      {
+        "keyword": "tofu baking",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crispy tofu recipes",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "air fry tofu recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy tofu recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu air fryer recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan sandwich recipes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian sandwiches recipes",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "fried tofu recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "cook fried tofu",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried tofu dish",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried tofu stir fry recipe",
+        "volume": 12100,
+        "competition": 6
+      },
+      {
+        "keyword": "oven tofu recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe baked tofu",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu in oven recipe",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "tofu air fryer",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "good recipes for tofu",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan sandwich ideas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "veggie sandwich",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian sandwiches ideas",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu airfryer",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "tofu for sandwiches",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "vegan butter sub",
+        "volume": 6600,
+        "competition": 24
+      },
+      {
+        "keyword": "airfryer tofu",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "airfrying tofu",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "baked crispy tofu",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "baking tofu in oven",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "cooking tofu in oven",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy tofu air fryer",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe agedashi tofu",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan grilled cheese",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "cook for tofu",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "grilled cheese sandwich vegan",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "tofu nugget",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "vegan cheese for grilled cheese",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegan cheese sandwich",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian cheese sandwich",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetarian grilled cheese",
+        "volume": 4400,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

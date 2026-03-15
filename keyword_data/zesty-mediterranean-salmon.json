@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-mediterranean-salmon",
+  "title": "Zesty Mediterranean Salmon",
+  "seed_keywords": [
+    "mediterranean salmon",
+    "baked salmon lemon",
+    "salmon couscous bowl",
+    "oven baked fish",
+    "kalamata olive salmon"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipes for salmon in the oven",
+        "volume": 165000,
+        "competition": 13
+      },
+      {
+        "keyword": "salmon baking recipes",
+        "volume": 165000,
+        "competition": 13
+      },
+      {
+        "keyword": "bake salmon",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "baked salmon fish",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "bake salmon in oven",
+        "volume": 90500,
+        "competition": 11
+      },
+      {
+        "keyword": "make salmon in oven",
+        "volume": 90500,
+        "competition": 11
+      },
+      {
+        "keyword": "prepare salmon in oven",
+        "volume": 90500,
+        "competition": 11
+      },
+      {
+        "keyword": "cod recipes oven",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "baked cod dishes",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "baked cod fish recipe",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "cod fish oven recipe",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "baked cod",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "cod recipes baked",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "baked cod fish",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "cook salmon in oven",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "baked tilapia recipes",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "baked fish recipes tilapia",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "baked fish recipes",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "salmon in the oven",
+        "volume": 22200,
+        "competition": 9
+      },
+      {
+        "keyword": "baked tilapia",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "baked fish dish",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "baked fish meal",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "baked fish tilapia",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "oven salmon temperature",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "oven temp for salmon",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "bake cod in oven",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "cod in oven",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "cook cod in oven",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "oven baked cod fish",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "oven roast cod",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "baked halibut recipes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "baked salmon temp",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "baked salmon temperature",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "bake salmon at what temp",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "bake trout",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "bake trout in oven",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "bake trout recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "baked haddock recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cook trout in oven",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "easy recipe for baked salmon",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "haddock fish recipes baked",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "haddock oven recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "halibut in oven recipe",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for fish fillet",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "baking salmon fillet",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "oven baked fish",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "salmon fillet in oven",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "baked salmon temp and time",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "baked salmon temperature and time",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "flounder baked recipe",
+        "volume": 9900,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-sausage-orecchiette",
+  "title": "Spicy Sausage Orecchiette",
+  "seed_keywords": [
+    "spicy sausage pasta",
+    "orecchiette with sausage",
+    "italian sausage dinner",
+    "sausage tomato pasta",
+    "spicy pasta recipes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "arrabbiata sauce pasta",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "arrabiata sauce pasta",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta arrabbiata sauce",
+        "volume": 49500,
+        "competition": 1
+      },
+      {
+        "keyword": "gigi hadid pasta",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "gigi hadids pasta",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "penne arrabbiata sauce",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "penne arrabiata sauce",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "penne pasta arrabiata sauce",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "penne with arrabiata sauce",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "sausage and pasta dishes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "vodkapasta recipe",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "arrabiata recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "arrabiata sauce recipe",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "arrabbiata recipes",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "arrabiata sauce spaghetti",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "go chu jang pasta",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "cream sausage pasta",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp pasta diavolo",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy vodka pasta",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "gigi hadid vodka pasta",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy rigatoni",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "spicy rigatoni vodka",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "arrabbiata pasta recipe",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "arrabiata pasta recipe",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli orecchiette",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "cheesecake factory chicken chipotle pasta",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken andouille sausage pasta",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "gigi hadid pasta recipe",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "italian pasta arrabiata recipe",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "orecchiette and broccoli",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "spicy sausage pasta",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "spicy spaghetti sauce",
+        "volume": 6600,
+        "competition": 39
+      },
+      {
+        "keyword": "spicy sausage and pasta",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "italian sausage recipes for dinner",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "orecchiette with sausage and broccoli rabe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "italian sausage dinner ideas",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "broccoli orecchiette sausage",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli rabe sausage orecchiette",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "dinner recipes using ground sausage",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "dinner recipes using italian sausage",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "dinner to make with italian sausage",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "ground sausage recipe for dinner",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "italian sausage dinner dishes",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "italian sausage supper ideas",
+        "volume": 5400,
+        "competition": 20
+      },
+      {
+        "keyword": "orecchiette sausage and broccoli",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "orecchiette with broccoli and sausage",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "orecchiette with broccoli rabe & sausage",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta spicy",
+        "volume": 5400,
+        "competition": 11
+      },
+      {
+        "keyword": "sausage rabe orecchiette",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "orecchiette with sausage",
+        "volume": 4400,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

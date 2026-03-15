@@ -1,0 +1,82 @@
+{
+  "slug": "sole-filets-with-anchovy-mayo",
+  "title": "Sole Filets with Anchovy Lemon Mayo",
+  "seed_keywords": [
+    "sole filets pan seared",
+    "anchovy lemon sauce",
+    "white fish dinner",
+    "lemon mayo fish",
+    "pan seared sole"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "dill and mayo salmon",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon dill mayo",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "salmon with dill and mayo",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "white fish dinner ideas",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "white fish dinner recipe",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "pan seared sole",
+        "volume": 260,
+        "competition": 2
+      },
+      {
+        "keyword": "white fish dinner",
+        "volume": 210,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon mayo salmon",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "salmon with mayo and lemon",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "salmon with mayo and mustard",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "baked salmon mayonnaise dill",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "baked salmon with dill and mayo",
+        "volume": 170,
+        "competition": 0
+      },
+      {
+        "keyword": "pan seared dover sole",
+        "volume": 110,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

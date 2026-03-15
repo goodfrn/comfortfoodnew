@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-beef-steaks",
+  "title": "Spiced Beef Steaks",
+  "seed_keywords": [
+    "spiced beef steaks",
+    "grilled beef rubs",
+    "beef steak marinade",
+    "asian spiced meat",
+    "grilling steak seasoning"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beef steak marinade",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "steak marinade",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "marinade a steak",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "marinated for steak",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "marinating for steak",
+        "volume": 90500,
+        "competition": 29
+      },
+      {
+        "keyword": "beef flank marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "beef flank steak marinade",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "flank marinating steak",
+        "volume": 74000,
+        "competition": 4
+      },
+      {
+        "keyword": "beef asada marinade",
+        "volume": 60500,
+        "competition": 23
+      },
+      {
+        "keyword": "beef asada recipe",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "steak carne asada recipe",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef skirt marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "beef skirt steak marinade",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "montreal steak seasoning",
+        "volume": 33100,
+        "competition": 78
+      },
+      {
+        "keyword": "steak marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "montreal steak",
+        "volume": 33100,
+        "competition": 78
+      },
+      {
+        "keyword": "montreal steak rub",
+        "volume": 33100,
+        "competition": 78
+      },
+      {
+        "keyword": "montreal seasonings",
+        "volume": 33100,
+        "competition": 78
+      },
+      {
+        "keyword": "beef steak marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "seasoning montreal steak",
+        "volume": 33100,
+        "competition": 78
+      },
+      {
+        "keyword": "steakhouse marinade recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "best steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "awesome steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best beef steak marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best filet marinade",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "best marinate steak",
+        "volume": 22200,
+        "competition": 17
+      },
+      {
+        "keyword": "easy marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "simple steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "quick steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "london broil marinade",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "basic marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef fajita marinade",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "easy beef steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy quick marinade for steak",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "easy simple steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "fajita marinade steak",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "marinade a steak simple",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "marinade for fajita meat",
+        "volume": 18100,
+        "competition": 10
+      },
+      {
+        "keyword": "simple beef steak marinade",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef steak seasoning recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "beef marinade",
+        "volume": 9900,
+        "competition": 21
+      },
+      {
+        "keyword": "marinade for sirloin steak",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "beef kabob marinade",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef kebabs marinade",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef marinade for kebabs",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef marinade for skewers",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef marinade for stir fry",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "beef marinade kebabs",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "beef marinate for stir fry",
+        "volume": 9900,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

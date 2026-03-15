@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-spin-artichoke-dip",
+  "title": "Twisted Spin Artichoke Dip",
+  "seed_keywords": [
+    "spinach artichoke dip",
+    "baked cheese dip",
+    "artichoke dip recipe",
+    "spinach dip appetizer",
+    "creamy vegetable dip"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "spinach artichoke dip",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "spinach artichoke spinach dip",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "spinach dip and artichoke dip",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "spinach dip artichoke dip",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "spinach with artichoke dip",
+        "volume": 135000,
+        "competition": 13
+      },
+      {
+        "keyword": "spinach artichoke dip recipe",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "spinach and artichoke dip recipe",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "recipes with spinach artichoke dip",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "spanish artichoke dip recipe",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "spinach dip and artichoke dip recipe",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "spinach dip recipe with artichoke",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "spinach dip with artichoke recipe",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "artichoke dip",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "and artichoke dip",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "artichoke and dip",
+        "volume": 49500,
+        "competition": 11
+      },
+      {
+        "keyword": "artichoke dish",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "artichoke dip recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "recipes with artichoke dip",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "spinach and artichoke dip",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "olive garden spinach artichoke dip",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "olive garden artichoke and spinach dip",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "olive garden spinach and artichoke dip",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach artichoke dip slow cooker",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach and artichoke dip crock pot",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "artichoke and spinach dip slow cooker",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "artichoke spinach crock pot dip",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "slow cooker artichoke and spinach dip",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach and artichoke dip in slow cooker",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "spinach artichoke slow cooker dip",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "artichoke stuffed",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "artichoke spinach di",
+        "volume": 6600,
+        "competition": 16
+      },
+      {
+        "keyword": "hot spinach artichoke dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "warm spinach artichoke dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "hot spinach and artichoke dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "hot spinach dip with artichoke",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "spinach and artichoke dip warm",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "warm artichoke and spinach dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "warm spinach & artichoke dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "spinach artichoke dip easy",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "easy spinach and artichoke dip",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "simple spinach artichoke dip",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "alouette spinach artichoke dip",
+        "volume": 4400,
+        "competition": 70
+      },
+      {
+        "keyword": "artichoke baked",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "basic spinach artichoke dip",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "easiest spinach artichoke dip",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "spinach dip warm",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "spinach hot dip",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "easy spinach artichoke dip recipe",
+        "volume": 3600,
+        "competition": 12
+      },
+      {
+        "keyword": "spinach artichoke dip crock pot",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "best spinach artichoke dip recipe",
+        "volume": 3600,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "vanilla-frozen-yogurt-remix",
+  "title": "Vanilla Frozen Yogurt Remix",
+  "seed_keywords": [
+    "vanilla frozen yogurt",
+    "homemade frozen yogurt",
+    "coconut cream dessert",
+    "greek yogurt churned",
+    "vegan ice cream"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegan ice cream",
+        "volume": 74000,
+        "competition": 58
+      },
+      {
+        "keyword": "vegan icecream",
+        "volume": 74000,
+        "competition": 58
+      },
+      {
+        "keyword": "veganicecream",
+        "volume": 74000,
+        "competition": 58
+      },
+      {
+        "keyword": "dairy free ice cream",
+        "volume": 60500,
+        "competition": 62
+      },
+      {
+        "keyword": "vegan ice cream near me",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "ice cream vegan near me",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "ice cream near me vegan",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "coconut pie with cream of coconut",
+        "volume": 40500,
+        "competition": 22
+      },
+      {
+        "keyword": "creamy coconut pie",
+        "volume": 40500,
+        "competition": 22
+      },
+      {
+        "keyword": "dairy free ice cream near me",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "making frozen yogurt",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "coconut pie",
+        "volume": 9900,
+        "competition": 23
+      },
+      {
+        "keyword": "pie with coconut",
+        "volume": 9900,
+        "competition": 23
+      },
+      {
+        "keyword": "vegan ben and jerry's",
+        "volume": 8100,
+        "competition": 35
+      },
+      {
+        "keyword": "ben & jerry's ice cream vegan",
+        "volume": 8100,
+        "competition": 35
+      },
+      {
+        "keyword": "ben and jerry's vegetarian",
+        "volume": 8100,
+        "competition": 35
+      },
+      {
+        "keyword": "ben & jerry's non dairy ice cream",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "coconut cream cake",
+        "volume": 6600,
+        "competition": 35
+      },
+      {
+        "keyword": "coconut cake coconut cream",
+        "volume": 6600,
+        "competition": 35
+      },
+      {
+        "keyword": "coconut cream coconut cake",
+        "volume": 6600,
+        "competition": 35
+      },
+      {
+        "keyword": "make frozen yogurt in ice cream maker",
+        "volume": 6600,
+        "competition": 45
+      },
+      {
+        "keyword": "ben and jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "vegan gelato",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "ben & jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "ben jerrys vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "gelato vegan",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "gelato vegetarian",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "magnum vegan",
+        "volume": 4400,
+        "competition": 40
+      },
+      {
+        "keyword": "ben & jerry's dairy free ice cream",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "magnum vegetarian",
+        "volume": 4400,
+        "competition": 40
+      },
+      {
+        "keyword": "pichi pichi recipes",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade frozen yogurt",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "vegan magnum ice cream",
+        "volume": 3600,
+        "competition": 65
+      },
+      {
+        "keyword": "magnum ice cream vegan",
+        "volume": 3600,
+        "competition": 65
+      },
+      {
+        "keyword": "frozen yogurt at home",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "cheese cake coconut",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "froyo homemade",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "home made fro yo",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "vegan gelato near me",
+        "volume": 2900,
+        "competition": 13
+      },
+      {
+        "keyword": "coconut cream dessert",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "tofu ice cream",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "frozen yogurt recipe with ice cream maker",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "frozen non dairy desserts",
+        "volume": 2400,
+        "competition": 57
+      },
+      {
+        "keyword": "frozen yogurt ice cream machine recipe",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegan soft serve",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "swedish glace ice cream",
+        "volume": 1900,
+        "competition": 46
+      },
+      {
+        "keyword": "vegan soft serve ice cream",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "oatly dairy free ice cream",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "eighty7sweets vegan ice cream company",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "frozen yogurt ice cream recipe",
+        "volume": 1900,
+        "competition": 10
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

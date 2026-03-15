@@ -1,0 +1,67 @@
+{
+  "slug": "zucchini-feta-bruschettas",
+  "title": "Zucchini Feta Bruschettas",
+  "seed_keywords": [
+    "zucchini appetizers",
+    "grilled baguette",
+    "zucchini feta bruschettas",
+    "sautéed zucchini cheese",
+    "mediterranean vegetable toast"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "zucchini appetizers",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "appetizers using zucchini",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "zucchini horderves",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled baguette",
+        "volume": 720,
+        "competition": 61
+      },
+      {
+        "keyword": "appetizer recipes with zucchini",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "zucchini hors d oeuvres recipes",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "zucchini snack ideas",
+        "volume": 260,
+        "competition": 3
+      },
+      {
+        "keyword": "bisquick zucchini appetizer",
+        "volume": 140,
+        "competition": 0
+      },
+      {
+        "keyword": "best zucchini appetizer recipes",
+        "volume": 110,
+        "competition": 8
+      },
+      {
+        "keyword": "carrabba's zucchini fritte",
+        "volume": 110,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

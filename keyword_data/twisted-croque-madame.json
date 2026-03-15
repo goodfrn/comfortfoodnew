@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-croque-madame",
+  "title": "Twisted Croque-Madame",
+  "seed_keywords": [
+    "turkey sandwich",
+    "croque madame",
+    "open faced sandwich",
+    "baked cheese turkey",
+    "egg topped sandwich"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "croque madame",
+        "volume": 246000,
+        "competition": 1
+      },
+      {
+        "keyword": "crok madam",
+        "volume": 246000,
+        "competition": 1
+      },
+      {
+        "keyword": "smorrebrod",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "turkey sandwich",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "fried turkey sandwich",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "open faced sandwich",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "panera bacon turkey bravo",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "open face sandwiches",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "panera bread turkey bacon bravo",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey club sandwich",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "kentucky hot brown",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "ky hot brown",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey club",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey sandwich wrap",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "turkey sandwich near me",
+        "volume": 8100,
+        "competition": 22
+      },
+      {
+        "keyword": "turkey tom jimmy john's",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "croque madame vs croque monsieur",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "jimmy johns tom turkey",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "open sandwich",
+        "volume": 8100,
+        "competition": 3
+      },
+      {
+        "keyword": "turkey tom at jimmy johns",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "turkey pastrami",
+        "volume": 6600,
+        "competition": 67
+      },
+      {
+        "keyword": "horseshoe sandwich",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "thanksgiving sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey and cheese sandwich",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "turkey melt",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese for turkey sandwich",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "cheese with turkey sandwich",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "croque monsieur vs madame",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey & cheese sandwich",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "turkey and cheese melt",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey melt sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "arby's turkey sandwich",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon turkey bravo sandwich panera",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "hot brown sandwich",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "madame croque",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "panera bread bacon turkey bravo sandwich",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "panera turkey bacon bravo sandwich",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey club sandwich near me",
+        "volume": 3600,
+        "competition": 22
+      },
+      {
+        "keyword": "turkey avocado sandwich",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "hot turkey sandwich",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey cranberry sandwich",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey reuben",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado and turkey sandwich",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "cranberry and turkey sandwich",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "pesto turkey sandwich",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey and pesto sandwich",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey sub",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "turkey bacon club tim hortons",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "open faced sandwich recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "open sandwich recipes",
+        "volume": 2900,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

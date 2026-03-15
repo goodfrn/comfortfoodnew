@@ -1,0 +1,267 @@
+{
+  "slug": "tomato-basil-shrimp-pasta",
+  "title": "Tomato Basil Shrimp Pasta",
+  "seed_keywords": [
+    "shrimp pasta",
+    "garlic shrimp recipes",
+    "tomato basil pasta",
+    "shrimp with fennel",
+    "seafood pasta dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shrimp scampi",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "shrimp scampi recipe",
+        "volume": 201000,
+        "competition": 17
+      },
+      {
+        "keyword": "prawn scampi",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "shrimp and scampi",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "shrimp scampi dish",
+        "volume": 201000,
+        "competition": 17
+      },
+      {
+        "keyword": "shrimp scampi meals",
+        "volume": 201000,
+        "competition": 17
+      },
+      {
+        "keyword": "shrimp scampi scampi",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "shrimp pasta recipes",
+        "volume": 74000,
+        "competition": 18
+      },
+      {
+        "keyword": "shrimp and pasta recipes",
+        "volume": 74000,
+        "competition": 18
+      },
+      {
+        "keyword": "shrimp pasta dishes",
+        "volume": 74000,
+        "competition": 18
+      },
+      {
+        "keyword": "shrimp and pasta dishes",
+        "volume": 74000,
+        "competition": 18
+      },
+      {
+        "keyword": "shrimp pasta",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "shrimp alfredo",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "alfredo and shrimp",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "alfredo sauce and shrimp",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "fettuccine alfredo and shrimp",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "prawn alfredo",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "shrimp for alfredo",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "shrimp for fettuccine alfredo",
+        "volume": 60500,
+        "competition": 11
+      },
+      {
+        "keyword": "prawns recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta sauce tomato",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "prawn dishes recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "prawns dishes",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for shrimp alfredo",
+        "volume": 40500,
+        "competition": 22
+      },
+      {
+        "keyword": "garlic butter shrimp",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "butter and garlic shrimp",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "buttered shrimp",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "prawn pasta",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "prawn linguine",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "butter and shrimp",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "linguine and prawns",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "linguine prawn pasta",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta and prawn",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "prawn and linguine pasta",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "prawn and spaghetti",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "scampi pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "prawn pasta recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "easy recipe with shrimp",
+        "volume": 27100,
+        "competition": 27
+      },
+      {
+        "keyword": "pasta and prawn dishes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta dish with prawns",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "prawn and spaghetti recipe",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "prawn pasta ideas",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "prawns and pasta recipes",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "scampi and pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp dishes with rice",
+        "volume": 27100,
+        "competition": 8
+      },
+      {
+        "keyword": "garlic prawns",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "shrimp scampi pasta",
+        "volume": 22200,
+        "competition": 6
+      },
+      {
+        "keyword": "garlic butter shrimp recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp scampi recipe pasta",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "butter and garlic shrimp recipe",
+        "volume": 22200,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "zucchini-parmesan-waffles",
+  "title": "Zucchini Parmesan Waffles",
+  "seed_keywords": [
+    "zucchini waffles",
+    "vegetable waffles savory",
+    "waffle iron breakfast",
+    "cheese zucchini recipes",
+    "parmesan vegetable waffles"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "baked zucchini with parmesan cheese",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "roasted zucchini with parmesan",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini parmesan",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "zucchini parmesan recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "parmesan cheese zucchini",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "parmesan zucchini chips",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for grated zucchini",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for zucchini and parmesan cheese",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe with shredded zucchini",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini and parmesan",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini and parmesan chips",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "zucchini and parmesan recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini crisps parmesan",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "zucchini parmesan cheese recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "zucchini parmigiano",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffed courgettes recipe",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "zucchini waffles",
+        "volume": 1600,
+        "competition": 17
+      },
+      {
+        "keyword": "cheese zucchini bread",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesy zucchini bread",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "courgette and parmesan",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "grated zucchini",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "zucchini and cheese bread",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta ricotta zucchini",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta with ricotta and zucchini",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "pasta with zucchini and ricotta",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "hashbrown waffles",
+        "volume": 1000,
+        "competition": 22
+      },
+      {
+        "keyword": "ricotta and zucchini",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "ricotta cheese zucchini",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "ricotta zucchini",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "air fryer zucchini with parmesan",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "breaded zucchini parmesan",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "cheese and zucchini",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese zucchini",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "cheesy zucchini casserole",
+        "volume": 880,
+        "competition": 3
+      },
+      {
+        "keyword": "courgette & feta fritters",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "courgette and feta fritters",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "feta and courgette fritters",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "feta courgette fritters",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "zucchini and cheese",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "zucchini and feta pasta",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "zucchini cheese",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "zucchini feta pasta",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese zucchini recipes",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "baked zucchini parmesan",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "bbq zucchini parmesan",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cheese and zucchini casserole",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese and zucchini recipes",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese zucchini casserole",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "cheesy zucchini",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "feta and zucchini",
+        "volume": 720,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

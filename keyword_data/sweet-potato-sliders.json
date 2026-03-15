@@ -1,0 +1,267 @@
+{
+  "slug": "sweet-potato-sliders",
+  "title": "Sweet Potato Sliders Guacamole",
+  "seed_keywords": [
+    "sweet potato appetizers",
+    "roasted sweet potato",
+    "guacamole dip recipes",
+    "avocado sweet potato",
+    "sweet potato sliders"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "guacamole",
+        "volume": 1220000,
+        "competition": 8
+      },
+      {
+        "keyword": "guacamole recipe",
+        "volume": 450000,
+        "competition": 14
+      },
+      {
+        "keyword": "guacamole dishes recipes",
+        "volume": 450000,
+        "competition": 14
+      },
+      {
+        "keyword": "guacamole guacamole recipe",
+        "volume": 450000,
+        "competition": 14
+      },
+      {
+        "keyword": "guacamole recipe guacamole recipe",
+        "volume": 450000,
+        "competition": 14
+      },
+      {
+        "keyword": "guacamole recipe recipe",
+        "volume": 450000,
+        "competition": 14
+      },
+      {
+        "keyword": "baked sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "baked potato sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "baking with sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "potato bake sweet potato",
+        "volume": 165000,
+        "competition": 14
+      },
+      {
+        "keyword": "roasted sweet potato",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted potatoes sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted sweet po",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet roasted sweet potatoes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "baked sweet potatoes in oven",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "sweet potato baked in the oven",
+        "volume": 90500,
+        "competition": 24
+      },
+      {
+        "keyword": "guacamole how to",
+        "volume": 74000,
+        "competition": 20
+      },
+      {
+        "keyword": "howto make guacamole",
+        "volume": 74000,
+        "competition": 20
+      },
+      {
+        "keyword": "baked sweet potato recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "sweet potatoes in oven",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "baked potato sweet potato recipes",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "potato & sweet potato bake recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "roasting sweet potatoes in oven",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "simple guacamole recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "easy guacamole recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "guac recipe easy",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "roasted sweet potato recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "simple guac recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "make guacamole easy",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "easy quick guacamole recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "easy recipe to make guacamole",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "easy simple guacamole recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "roasted sweet potato dish",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "simply guacamole recipe",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "sweet baked",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "guacamole ingredients",
+        "volume": 27100,
+        "competition": 16
+      },
+      {
+        "keyword": "salsa guacamole",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "guac and salsa",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "salsa with guacamole",
+        "volume": 27100,
+        "competition": 40
+      },
+      {
+        "keyword": "best guac recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "best recipe for guacamole",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "good recipe for guacamole",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "great guacamole recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "good guac recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "best rated guacamole recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "ripe avocado for guacamole",
+        "volume": 22200,
+        "competition": 0
+      },
+      {
+        "keyword": "top rated guacamole recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade guacamole",
+        "volume": 18100,
+        "competition": 15
+      },
+      {
+        "keyword": "baked fried sweet potatoes",
+        "volume": 18100,
+        "competition": 12
+      },
+      {
+        "keyword": "best way to cook a sweet potato",
+        "volume": 14800,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

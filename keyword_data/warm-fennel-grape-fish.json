@@ -1,0 +1,267 @@
+{
+  "slug": "warm-fennel-grape-fish",
+  "title": "Warm Fennel Grape Fish Salad",
+  "seed_keywords": [
+    "warm fish salad",
+    "fennel salad recipe",
+    "white fish recipes",
+    "grapes lemon fish",
+    "cooked salad with fish"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fennel salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel bulb salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "white fish recipes",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "fish recipes white fish",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "white fish dish",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "basa fillet recipes",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking basa fillet",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel & orange salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and orange salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for basa fish fillets",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel salad recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "basa fish recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel bulb salad recipes",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fennel salad ideas",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fennel apple salad",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and fennel salad",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "basa fish fillets",
+        "volume": 5400,
+        "competition": 73
+      },
+      {
+        "keyword": "fish and white sauce",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "fish in a white sauce",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "fish swai recipe",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for cooking swai fish",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "white sauce for white fish",
+        "volume": 5400,
+        "competition": 10
+      },
+      {
+        "keyword": "white fish fillet",
+        "volume": 4400,
+        "competition": 71
+      },
+      {
+        "keyword": "basa recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel shaved",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "shaved fennel",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "shaved fennel bulb",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "fish and white wine sauce",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "fish in a white wine sauce",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "coleslaw fennel",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and apple coleslaw",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and orange salad recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel apple coleslaw",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel orange salad recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "flaky white fish",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "salmon in white sauce",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "white fish for fish tacos",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "white fish for tacos",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "white fish taco",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "white sauce and salmon",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "bake white fish",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "bake white fish recipe",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "citrus and fennel salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "citrus fennel salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for baked whitefish",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for halibut fillets",
+        "volume": 1900,
+        "competition": 10
+      },
+      {
+        "keyword": "best white fish",
+        "volume": 1600,
+        "competition": 20
+      },
+      {
+        "keyword": "basa fish steak",
+        "volume": 1600,
+        "competition": 38
+      },
+      {
+        "keyword": "fish and white sauce recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fish in white sauce recipe",
+        "volume": 1600,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

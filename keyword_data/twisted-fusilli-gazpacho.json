@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-fusilli-gazpacho",
+  "title": "Twisted Fusilli Gazpacho",
+  "seed_keywords": [
+    "cold pasta salad",
+    "fusilli salad recipes",
+    "cucumber tomato gazpacho",
+    "chilled pasta dishes",
+    "spicy jalapeño pasta"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken and pasta cold salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cold pasta salad",
+        "volume": 18100,
+        "competition": 28
+      },
+      {
+        "keyword": "cold pasta salad recipes",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "chilled pasta salad",
+        "volume": 18100,
+        "competition": 28
+      },
+      {
+        "keyword": "chilled pasta salad recipe",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "cold pasta dressing",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "cold pasta salad dishes",
+        "volume": 18100,
+        "competition": 28
+      },
+      {
+        "keyword": "cold pasta salad ideas",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "cold salad recipes pasta",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "good cold pasta salad",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "recipes for cold salads and pastas",
+        "volume": 18100,
+        "competition": 24
+      },
+      {
+        "keyword": "pasta salad spaghetti",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta salads for summer",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "summer noodle salad",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "vegetable pasta salads",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "spaghetti salad recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta salad recipe spaghetti",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "cold pasta recipes",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "cold pasta dishes",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "chilled pasta recipes",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "cold pasta dish ideas",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "cold pasta dish recipe",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "cold pasta meal",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "good cold pasta recipes",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "great cold pasta recipes",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "summer pasta salad recipes",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "cold pasta",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "chilled pasta",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "cold noodle pasta salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "summer pasta salad ideas",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "fusilli pasta salad",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "cold chicken pasta salad",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "cold tuna pasta salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cold spaghetti salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "chilled chicken pasta salad",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "chilled spaghetti salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cold pasta and tuna salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cold pasta spaghetti salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cold spaghetti salad recipe",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cold tuna and noodle salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cold tuna fish pasta salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "cold tuna noodle salad",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta salad for picnic",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "vegetable pasta salad recipes",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "cold tortellini salad",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "cold italian pasta salad",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "chilled macaroni salad",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "chilled tortellini salad",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "cold elbow macaroni salad",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "cold macaroni pasta salad",
+        "volume": 1900,
+        "competition": 13
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-lentil-beef-stew",
+  "title": "Spiced Lentil Beef Stew",
+  "seed_keywords": [
+    "beef lentil stew",
+    "lentil stew recipes",
+    "slow cooked beef",
+    "beef and mushroom stew",
+    "spiced lentil dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lentejas soup",
+        "volume": 246000,
+        "competition": 11
+      },
+      {
+        "keyword": "beef stew slow cooker",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stew recipe slow cooker",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "beef stew recipe crock pot",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "beef stew meat crock pot",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "beef stew meat recipe crock pot",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "pot chuck roast",
+        "volume": 110000,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker steak stew",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "steak stew crock pot",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker brisket",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cooker chuck roast",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chuck roast crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef brisket slow cooker",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef brisket crock pot",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef chuck crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck in crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck roast crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "beef chuck roast in slow cooker",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "brisket cooked in slow cooker",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "chuck pot roast in slow cooker",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chuck slow cook",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cook brisket in slow cooker",
+        "volume": 90500,
+        "competition": 4
+      },
+      {
+        "keyword": "slow cook chuck roast in crock pot",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cooker pot roast",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "cook beef short ribs",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cook pot roast in crock pot",
+        "volume": 74000,
+        "competition": 9
+      },
+      {
+        "keyword": "beef stroganoff crock pot",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker beef stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker stroganoff",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "corned beef in crock pot",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "stroganoff crock pot",
+        "volume": 60500,
+        "competition": 8
+      },
+      {
+        "keyword": "corned meat in slow cooker",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "slow cooked beef",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooker roast beef",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooker pot roast recipe",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "beef roast crock pot",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "mississippi pot roast recipe",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "slow cooker short ribs",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef short ribs slow cooker",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef for slow cooker",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "short ribs in crock pot",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef cooked in slow cooker",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "beef crock pot",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "beef short rib crock pot",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "cook roast beef in slow cooker",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cook beef roast in crock pot",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cooked beef in slow cooker",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooked roast beef in slow cooker",
+        "volume": 49500,
+        "competition": 8
+      },
+      {
+        "keyword": "crock pot beef stew",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker beef recipes",
+        "volume": 40500,
+        "competition": 13
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spaghetti-squash-marinara",
+  "title": "Spaghetti Squash Marinara Remix",
+  "seed_keywords": [
+    "spaghetti squash recipes",
+    "roasted vegetables marinara",
+    "squash noodle dishes",
+    "garlic tomato sauce",
+    "vegetarian italian dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "spaghetti squash",
+        "volume": 246000,
+        "competition": 34
+      },
+      {
+        "keyword": "spaghetti and squash",
+        "volume": 246000,
+        "competition": 34
+      },
+      {
+        "keyword": "spaghetti spaghetti squash",
+        "volume": 246000,
+        "competition": 34
+      },
+      {
+        "keyword": "spaghetti squash with spaghetti",
+        "volume": 246000,
+        "competition": 34
+      },
+      {
+        "keyword": "spaghetti squash recipes",
+        "volume": 135000,
+        "competition": 27
+      },
+      {
+        "keyword": "recipes using spaghetti squash",
+        "volume": 135000,
+        "competition": 27
+      },
+      {
+        "keyword": "recipe for spaghetti squash spaghetti",
+        "volume": 135000,
+        "competition": 27
+      },
+      {
+        "keyword": "spaghetti and squash recipe",
+        "volume": 135000,
+        "competition": 27
+      },
+      {
+        "keyword": "spaghetti marrow recipes",
+        "volume": 135000,
+        "competition": 27
+      },
+      {
+        "keyword": "spaghetti spaghetti squash recipes",
+        "volume": 135000,
+        "competition": 27
+      },
+      {
+        "keyword": "spaghetti squash recipes spaghetti",
+        "volume": 135000,
+        "competition": 27
+      },
+      {
+        "keyword": "squash bake casserole",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "baking spaghetti squash",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "baked spaghetti with spaghetti squash",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "butternut pumpkin pasta",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "pasta and butternut squash",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "cooking spaghetti squash",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "spaghetti squash in oven",
+        "volume": 14800,
+        "competition": 27
+      },
+      {
+        "keyword": "roasting spaghetti squash",
+        "volume": 14800,
+        "competition": 32
+      },
+      {
+        "keyword": "making spaghetti squash",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "cooking spaghetti squash for spaghetti",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "squash to make spaghetti",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "butternut squash pasta sauce",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "cooking spaghetti squash in oven",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "baking spaghetti squash in the oven",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "butternut pasta sauce",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "butternut pumpkin pasta sauce",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "butternut squash spaghetti sauce",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "making spaghetti squash in the oven",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "pasta sauce with butternut squash",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "sauce for butternut squash pasta",
+        "volume": 9900,
+        "competition": 15
+      },
+      {
+        "keyword": "squash spaghetti oven",
+        "volume": 9900,
+        "competition": 38
+      },
+      {
+        "keyword": "zucchini squash noodles recipe",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "microwave spaghetti squash",
+        "volume": 6600,
+        "competition": 33
+      },
+      {
+        "keyword": "cooking spaghetti squash in microwave",
+        "volume": 6600,
+        "competition": 33
+      },
+      {
+        "keyword": "carb in spaghetti squash",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "spaghetti squash how to cook it",
+        "volume": 6600,
+        "competition": 42
+      },
+      {
+        "keyword": "10 best spaghetti squash recipes",
+        "volume": 5400,
+        "competition": 23
+      },
+      {
+        "keyword": "cooking spaghetti",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "dishes with spaghetti squash",
+        "volume": 5400,
+        "competition": 40
+      },
+      {
+        "keyword": "garlic parmesan pasta",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "meals using spaghetti squash",
+        "volume": 5400,
+        "competition": 40
+      },
+      {
+        "keyword": "pasta and squash",
+        "volume": 5400,
+        "competition": 12
+      },
+      {
+        "keyword": "pasta squash",
+        "volume": 5400,
+        "competition": 12
+      },
+      {
+        "keyword": "preparing spaghetti",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "butternut squash and pasta recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "butternut squash pasta recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "dishes with spaghetti",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "shrimp recipes spaghetti",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "butternut squash spaghetti",
+        "volume": 3600,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-masala-chai",
+  "title": "Spiced Masala Chai Twist",
+  "seed_keywords": [
+    "masala chai recipe",
+    "spiced tea drinks",
+    "chai with coconut",
+    "cardamom cinnamon tea",
+    "creamy masala chai"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chai tea",
+        "volume": 165000,
+        "competition": 76
+      },
+      {
+        "keyword": "chai is tea",
+        "volume": 165000,
+        "competition": 76
+      },
+      {
+        "keyword": "the chai tea",
+        "volume": 165000,
+        "competition": 76
+      },
+      {
+        "keyword": "masaledar chai",
+        "volume": 74000,
+        "competition": 72
+      },
+      {
+        "keyword": "spiced chai",
+        "volume": 33100,
+        "competition": 22
+      },
+      {
+        "keyword": "masala chai recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "chai ka masala recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "chai masala tea recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "desi chai recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "make masala chai",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "masala chai preparation",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "traditional chai recipe",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "spiced masala",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "indian masala chai",
+        "volume": 9900,
+        "competition": 64
+      },
+      {
+        "keyword": "chai tea caffeinated",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "masala chai how to make",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "masala tea ingredients",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "masala chai ingredients",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "ingredients for chai masala",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "ingredients in masala chai",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "ingredients in tea masala",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "pumpkin chai tea starbucks",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "masala tea recipe",
+        "volume": 4400,
+        "competition": 23
+      },
+      {
+        "keyword": "ginger peach",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "make masala tea",
+        "volume": 4400,
+        "competition": 23
+      },
+      {
+        "keyword": "masala tea preparation",
+        "volume": 4400,
+        "competition": 23
+      },
+      {
+        "keyword": "me chai",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "milk chai",
+        "volume": 2900,
+        "competition": 19
+      },
+      {
+        "keyword": "indian spiced tea",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "indian chai tea recipe",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "chai recipe india",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "indian chai masala recipe",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "indian masala chai tea recipe",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "indian masala tea recipe",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "masala chai spices",
+        "volume": 1900,
+        "competition": 66
+      },
+      {
+        "keyword": "masala tea spices",
+        "volume": 1900,
+        "competition": 66
+      },
+      {
+        "keyword": "masala chai tea latte",
+        "volume": 1900,
+        "competition": 67
+      },
+      {
+        "keyword": "spices for masala chai",
+        "volume": 1900,
+        "competition": 66
+      },
+      {
+        "keyword": "authentic chai tea recipe",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "masala chai recipe authentic",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "authentic chai recipe",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "best chai masala recipe",
+        "volume": 1600,
+        "competition": 22
+      },
+      {
+        "keyword": "best masala tea recipe",
+        "volume": 1600,
+        "competition": 22
+      },
+      {
+        "keyword": "best tea masala recipe",
+        "volume": 1600,
+        "competition": 22
+      },
+      {
+        "keyword": "real chai recipe",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "real chai tea recipe",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "tea with cayenne pepper",
+        "volume": 1600,
+        "competition": 34
+      },
+      {
+        "keyword": "traditional chai tea recipe",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "traditional masala chai recipe",
+        "volume": 1600,
+        "competition": 15
+      },
+      {
+        "keyword": "indian chai recipe",
+        "volume": 1300,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

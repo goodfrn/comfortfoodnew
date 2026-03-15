@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-lemonade-syrup",
+  "title": "Twisted Lemonade Syrup",
+  "seed_keywords": [
+    "homemade lemonade syrup",
+    "honey lemon drink",
+    "ginger lemonade recipe",
+    "fresh squeezed lemonade",
+    "sparkling lemonade concentrate"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "hot toddy recipe",
+        "volume": 110000,
+        "competition": 33
+      },
+      {
+        "keyword": "recipe for whisky sour",
+        "volume": 90500,
+        "competition": 33
+      },
+      {
+        "keyword": "hot toddy with whiskey",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "ginger tea for sore throat",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "gold rush cocktail",
+        "volume": 14800,
+        "competition": 24
+      },
+      {
+        "keyword": "lemon honey tea",
+        "volume": 12100,
+        "competition": 76
+      },
+      {
+        "keyword": "lemon and honey tea",
+        "volume": 12100,
+        "competition": 76
+      },
+      {
+        "keyword": "honey and lemon tea for sore throat",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "honey and lemon tea sore throat",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "honey lemon tea for sore throat",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "hot tea honey and lemon",
+        "volume": 12100,
+        "competition": 76
+      },
+      {
+        "keyword": "hot tea with lemon and honey for sore throat",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon and honey in tea",
+        "volume": 12100,
+        "competition": 76
+      },
+      {
+        "keyword": "lemon and honey tea sore throat",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon with honey tea",
+        "volume": 12100,
+        "competition": 76
+      },
+      {
+        "keyword": "sore throat tea and honey",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "sore throat tea honey",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "honey hot water",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "warm water and honey",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "drinking honey lemon water",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "honey & lemon water",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "honey and lemon in warm water",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "honey and lemon tea for cough",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "honey and lemon water",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "honey lemon hot water",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "honey lemon tea cough",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "honey lemon warm water",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "hot honey and lemon water",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "hot lemon and honey water",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "hot lemon water and honey",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "hot tea lemon honey cough",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "hot tea with lemon and honey for cough",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon water & honey",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "tea honey lemon for cough",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "warm lemon water and honey",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "hot tea with honey for cough",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "honey and lemon drink",
+        "volume": 5400,
+        "competition": 13
+      },
+      {
+        "keyword": "lemon honey for sore throat",
+        "volume": 5400,
+        "competition": 15
+      },
+      {
+        "keyword": "lemon with honey drink",
+        "volume": 5400,
+        "competition": 13
+      },
+      {
+        "keyword": "fresh squeezed lemonade",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "gold rush drink",
+        "volume": 4400,
+        "competition": 22
+      },
+      {
+        "keyword": "fresh pressed lemonade",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "ginger and lemonade",
+        "volume": 4400,
+        "competition": 50
+      },
+      {
+        "keyword": "honey and lemonade",
+        "volume": 4400,
+        "competition": 17
+      },
+      {
+        "keyword": "lemon juice recipe for lemonade",
+        "volume": 4400,
+        "competition": 9
+      },
+      {
+        "keyword": "lemonade and ginger",
+        "volume": 4400,
+        "competition": 43
+      },
+      {
+        "keyword": "fresh squeezed lemon juice",
+        "volume": 3600,
+        "competition": 60
+      },
+      {
+        "keyword": "ginger tea flu",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "lemon and ginger tea recipe",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "honey lemon drink",
+        "volume": 2900,
+        "competition": 61
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

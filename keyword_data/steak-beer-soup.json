@@ -1,0 +1,267 @@
+{
+  "slug": "steak-beer-soup",
+  "title": "Steak Beer Soup Egg",
+  "seed_keywords": [
+    "beef and beer soup",
+    "steak soup recipes",
+    "caramelized onion broth",
+    "seared beef egg",
+    "beef tenderloin dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beef and vegetable soup recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "beef soup with barley",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "steak noodle soup",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "beef recipe soup",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "beef recipes with soup",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "steak pho recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "soup with ground beef recipes",
+        "volume": 9900,
+        "competition": 3
+      },
+      {
+        "keyword": "beef with mushroom cream",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "homemade veggie beef soup",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "steak soup",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "beef steak soup",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "soup and steak",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "steak and soup",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "steak in soup",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "flank steak pho",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "bulalo recipe beef",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "ground beef and cream of mushroom soup",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "potato and steak soup",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "potato soup with steak",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "potato steak soup",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "rare beef pho",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "steakhouse potato soup",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "steak soup recipes",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "beef and potatoes soup",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "beef steak soup recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "steak soup ideas",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "cream of mushroom soup and ground beef recipes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "onion soup with beef",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "beef cream of mushroom recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "flank steak for pho",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "french onion salisbury steak",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "french onion soup salisbury steak",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "onion soup salisbury steak",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "ramen beef soup",
+        "volume": 880,
+        "competition": 33
+      },
+      {
+        "keyword": "cream of mushroom cube steak",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cream of mushroom soup and cube steak",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cream of mushroom soup cube steak",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cube steak and cream of mushroom",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cube steak and mushroom soup",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cube steak in cream of mushroom soup",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cube steak in mushroom soup",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "pho steak",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe salisbury steak onion soup mix",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "salisbury steak recipe french onion soup",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "salisbury steak recipe using french onion soup",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "side dishes for beef tenderloin",
+        "volume": 720,
+        "competition": 27
+      },
+      {
+        "keyword": "beef potato soup",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesesteak soup",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "cream of mushroom and beef",
+        "volume": 590,
+        "competition": 6
+      },
+      {
+        "keyword": "cream of mushroom salisbury steak",
+        "volume": 590,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

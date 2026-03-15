@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-hawaiian-macaroni",
+  "title": "Tangy Hawaiian Macaroni Salad",
+  "seed_keywords": [
+    "hawaiian macaroni salad",
+    "macaroni salad recipes",
+    "creamy pasta salad",
+    "vinegar pasta salad",
+    "mayo macaroni salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "macaroni salad",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "mac salad",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "mac a roni salad",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "macaroni salad recipes",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "mac salad recipe",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "salad macaroni pasta",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "elbow noodle pasta salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "elbow noodle salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "mac and salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "mac salad pasta",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "macaroni for macaroni salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "macaroni for salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "macaroni salad dish",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "macaroni salad macaroni salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "macaroni salad salad",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "salad makaroni",
+        "volume": 135000,
+        "competition": 15
+      },
+      {
+        "keyword": "tuna pasta salad recipe",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "noodle salad with tuna",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta salad with tuna fish",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna & pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna fish and pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna noodles salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna salad pasta salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "hawaiian macaroni salad",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "macaroni salad ingredients",
+        "volume": 33100,
+        "competition": 38
+      },
+      {
+        "keyword": "macaroni salad recipe ingredients",
+        "volume": 33100,
+        "competition": 38
+      },
+      {
+        "keyword": "hawaii mac salad recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "ingredients for mac salad",
+        "volume": 33100,
+        "competition": 38
+      },
+      {
+        "keyword": "mac salad ingredients",
+        "volume": 33100,
+        "competition": 38
+      },
+      {
+        "keyword": "tuna macaroni salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna macaroni salad recipe",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni and tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "elbow macaroni and tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "elbow macaroni salad with tuna",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "mac and tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "mac n tuna salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "mac salad recipe with tuna",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni and tuna fish salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni salad with tuna fish",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "macaroni tuna pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "pasta salad with pickles",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "tuna with macaroni salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken macaroni salad",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and macaroni salad",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken mac salad",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken macaroni pasta salad",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken salad with elbow macaroni",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "creamy pasta salad",
+        "volume": 12100,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken macaroni salad recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and macaroni salad recipe",
+        "volume": 12100,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "tahitian-blue-rhum-punch",
+  "title": "Tahitian Blue Rhum Punch",
+  "seed_keywords": [
+    "tropical rum cocktails",
+    "blue curacao drinks",
+    "pineapple coconut rum",
+    "rum punch recipe",
+    "tiki cocktails"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "piña colada recipes",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for pina colada cocktail",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "pina colada recipe recipe",
+        "volume": 246000,
+        "competition": 7
+      },
+      {
+        "keyword": "blue lagoon cocktail drink",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "rum punch",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "rum punch drink",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "white rum for pina colada",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "rum and punch",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "pina colada with white rum",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "punch and rum",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "ron punch drink",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "rum for rum punch",
+        "volume": 40500,
+        "competition": 16
+      },
+      {
+        "keyword": "rum punch recipe",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "curacao drink",
+        "volume": 33100,
+        "competition": 33
+      },
+      {
+        "keyword": "rum punch drink recipe",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "rum punch mix",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "rum and punch recipe",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "rum malibu cocktails",
+        "volume": 33100,
+        "competition": 32
+      },
+      {
+        "keyword": "rum punch ideas",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "rum punch mixture",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "blue curacao drinks",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "blue curacao cocktails",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "light rum for pina colada",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "blue carousel drink",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "blue caruso drink",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "blue curacao liqueur drinks",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "curacao liqueur drinks",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "drinks using blue curacao",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "drinks with curacao liqueur",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "dark and stormy cocktail recipe",
+        "volume": 22200,
+        "competition": 13
+      },
+      {
+        "keyword": "planters punch",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "painkiller recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "planter's punch drink",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "blue lagoon cocktail recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "malibu rum pina colada",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "pina colada rum",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "blue lagoon drink recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "painkiller cocktail",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "blue cocktail drink",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "blue lagoon recipe cocktail",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "blue lagoon recipe drink",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cocktail blue lagoon recipe",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "malibu pineapple pina colada",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "malibu rum for pina colada",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "pina colada and rum",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "pina colada malibu pineapple",
+        "volume": 14800,
+        "competition": 63
+      },
+      {
+        "keyword": "pina colada rum drink",
+        "volume": 14800,
+        "competition": 40
+      },
+      {
+        "keyword": "malibu rum and pineapple juice",
+        "volume": 12100,
+        "competition": 54
+      },
+      {
+        "keyword": "malibu rum pineapple",
+        "volume": 12100,
+        "competition": 54
+      },
+      {
+        "keyword": "pineapple malibu drinks",
+        "volume": 12100,
+        "competition": 54
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

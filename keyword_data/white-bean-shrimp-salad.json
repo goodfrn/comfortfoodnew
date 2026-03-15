@@ -1,0 +1,267 @@
+{
+  "slug": "white-bean-shrimp-salad",
+  "title": "White Bean Shrimp Salad",
+  "seed_keywords": [
+    "white bean salad",
+    "grilled shrimp salad",
+    "shrimp bacon salad",
+    "warm shrimp cold beans",
+    "bean salad with shrimp"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cannellini",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "white bean salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean bean salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cannellini bean and tuna salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cannellini bean salad with tuna",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna & white bean salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna and white bean salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "bean and tuna salad",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "bean salad tuna",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "cannellini bean salad",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp caesar salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled shrimp salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna and beans",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "beans tuna",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "grilled shrimp and salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled shrimp on salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kale and cannellini bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kale and white bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kale cannellini bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kale white bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for white bean salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "bean salad italian",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cannellini bean salad italian",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "italian white bean salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean cannellini bean salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean white bean salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "salad white",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "white bean italian salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "bean and kale salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "bean kale salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cannellini bean recipes salad",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "marinated white bean",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "salad recipes with cannellini beans",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "tuscan bean salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "mediterranean beans",
+        "volume": 590,
+        "competition": 15
+      },
+      {
+        "keyword": "shrimp and corn salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "tuscan white bean salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled shrimp salad near me",
+        "volume": 480,
+        "competition": 15
+      },
+      {
+        "keyword": "cannellini bean and tomato salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "cannellini bean tomato salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled shrimp and salad recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled shrimp salad ideas",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "grilled shrimp salad recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato and cannellini bean salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato and white bean salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato white bean salad",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna and bean salad recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna bean salad recipe",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "beans and tuna recipe",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "cannellini bean pasta salad",
+        "volume": 390,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

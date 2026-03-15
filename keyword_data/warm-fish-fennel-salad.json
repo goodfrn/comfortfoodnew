@@ -1,0 +1,267 @@
+{
+  "slug": "warm-fish-fennel-salad",
+  "title": "Warm Fish Fennel Salad",
+  "seed_keywords": [
+    "warm fish salad",
+    "seared white fish",
+    "fennel salad recipe",
+    "fish with fennel",
+    "lemon fish dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "fennel salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel bulb salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel & orange salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and orange salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel salad recipe",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fennel bulb salad recipes",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fennel salad ideas",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "fennel apple salad",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "apple and fennel salad",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel shaved",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "shaved fennel",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "shaved fennel bulb",
+        "volume": 4400,
+        "competition": 0
+      },
+      {
+        "keyword": "coleslaw fennel",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and apple coleslaw",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and orange salad recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel apple coleslaw",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel orange salad recipe",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "citrus and fennel salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "citrus fennel salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "sliced fennel",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel grill",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "shaved fennel salad",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and salmon",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel salad ottolenghi",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "salmon with fennel",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "beet and fennel salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "beet fennel salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot and fennel salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot fennel salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and grapefruit salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel grapefruit salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel salad grapefruit",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "blood orange and fennel salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "blood orange fennel salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and fennel salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber fennel salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and pear salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel coleslaw recipes",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel pear salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel salad italian",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "fish with fennel",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "apple and fennel salad recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "apple fennel salad recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "celery and fennel salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "celery fennel salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and fish",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel and fish recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel and radicchio salad",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "fennel fish recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel radicchio salad",
+        "volume": 590,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

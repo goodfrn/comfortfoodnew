@@ -1,0 +1,37 @@
+{
+  "slug": "veal-cutlets-curry-pears",
+  "title": "Veal Cutlets with Curry Pears",
+  "seed_keywords": [
+    "veal cutlets pan seared",
+    "veal with pears",
+    "veal pasta dinner",
+    "curry spiced meat",
+    "pear wine sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "beef masala recipe",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "beef curry masala",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "beef garam masala",
+        "volume": 140,
+        "competition": 7
+      },
+      {
+        "keyword": "meat curry masala",
+        "volume": 140,
+        "competition": 56
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

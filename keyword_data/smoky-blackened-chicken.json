@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-blackened-chicken",
+  "title": "Smoky Blackened Chicken",
+  "seed_keywords": [
+    "blackened chicken breast",
+    "spicy chicken skillet",
+    "paprika crusted chicken",
+    "dry rub chicken",
+    "cast iron chicken dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "dry rub for chicken wings",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "dry rub buffalo wings",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "buffalo wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "buffalo chicken dry rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "chicken wing seasoning dry rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "chicken wing seasoning rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "chicken wing spice rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "hot wing rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "hot wing spice rub",
+        "volume": 27100,
+        "competition": 22
+      },
+      {
+        "keyword": "dry rub chicken",
+        "volume": 12100,
+        "competition": 51
+      },
+      {
+        "keyword": "chicken rub seasoning",
+        "volume": 12100,
+        "competition": 51
+      },
+      {
+        "keyword": "chicken spice rub",
+        "volume": 12100,
+        "competition": 51
+      },
+      {
+        "keyword": "chicken dry spice rub",
+        "volume": 12100,
+        "competition": 51
+      },
+      {
+        "keyword": "dry poultry rub",
+        "volume": 12100,
+        "competition": 51
+      },
+      {
+        "keyword": "meat rub for chicken",
+        "volume": 12100,
+        "competition": 51
+      },
+      {
+        "keyword": "bbq chicken rub",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "barbecue rub for chicken",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "bar bq chicken rub",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "barbecue chicken dry rub",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "barbecue chicken spice rub",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "barbeque chicken dry rub",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "bbq chicken rub seasoning",
+        "volume": 9900,
+        "competition": 34
+      },
+      {
+        "keyword": "wing rub",
+        "volume": 8100,
+        "competition": 20
+      },
+      {
+        "keyword": "dry rub wings",
+        "volume": 8100,
+        "competition": 20
+      },
+      {
+        "keyword": "chicken wing seasoning",
+        "volume": 5400,
+        "competition": 80
+      },
+      {
+        "keyword": "chicken rub recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken dry rub recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken rub seasoning recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken spice rub recipe",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wing rub for smoking",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken wing dry rub for smoking",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken wing rub smoker",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "dry rub for chicken wings in smoker",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "dry rub for smoked chicken wings",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "smoked dry rub chicken wings",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "smoked hot wings dry rub",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken rub for smoking",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "buffalo wing dry rub recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "buffalo wings rub recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken dry rub for smoker",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "chicken rub for smoked chicken",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "chicken wing dry rub recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken wing rub recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "dry rub hot wings recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "hot wings rub recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "smoked chicken spice rub",
+        "volume": 3600,
+        "competition": 30
+      },
+      {
+        "keyword": "chicken rub for grilling",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "buffalo wild wings buffalo dry rub",
+        "volume": 2900,
+        "competition": 24
+      },
+      {
+        "keyword": "buffalo dry rub bww",
+        "volume": 2900,
+        "competition": 24
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

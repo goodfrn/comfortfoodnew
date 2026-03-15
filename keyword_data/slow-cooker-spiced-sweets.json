@@ -1,0 +1,267 @@
+{
+  "slug": "slow-cooker-spiced-sweets",
+  "title": "Slow Cooker Spiced Sweets",
+  "seed_keywords": [
+    "slow cooker sweet potatoes",
+    "honey glazed vegetables",
+    "spiced sweet potato side",
+    "slow cooker side dishes",
+    "cinnamon honey vegetables"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "baked carrots honey",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "carrot roasted honey",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "glazed cooked carrots",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "carrot glazed honey",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker mashed potato",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "carrots in honey",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "candied carrots recipe honey",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "glazed carrots honey recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "green bean casserole for slow cooker",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe honey carrots",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "creamed corn crock pot",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "crock pot sweet potato casserole",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cook sweet potato casserole",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker creamed corn",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "sweet potato casserole for crock pot",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker sweet potatoes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crock pot recipe for sweet potatoes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "glazed carrots in oven",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for slow cooker sweet potatoes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for sweet potatoes in a crock pot",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for sweet potatoes in slow cooker",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for sweet potatoes in the crock pot",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato recipe in slow cooker",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato recipes crock pot slow cooker",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato recipes in a crock pot",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker side dishes",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot side dishes",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot recipes sides",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "side dishes in a crock pot",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "side dishes in slow cooker",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooker side",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "slow cooker side recipes",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot sweet potato",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked honey glazed carrots",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "corn casserole crock pot",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "corn casserole in crock pot",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "corn casserole slow cooker",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "crock pot corn bread casserole",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "honey glaze for parsnips",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "honey glazed carrots & parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed carrots and parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed carrots parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed carrots stovetop",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed parsnip and carrot",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "balsamic honey roasted carrots",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "candied sweet potato crock pot",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "candied sweet potatoes in slow cooker",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "candied yams crock pot",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "candied yams in a slow cooker",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "candied yams in slow cooker",
+        "volume": 1600,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

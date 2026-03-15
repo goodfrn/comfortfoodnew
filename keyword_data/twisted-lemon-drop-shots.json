@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-lemon-drop-shots",
+  "title": "Twisted Lemon Drop Shots",
+  "seed_keywords": [
+    "lemon vodka shots",
+    "citrus cocktail recipes",
+    "vodka lemon juice",
+    "sugar rimmed shots",
+    "lemon drop cocktails"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "lemon drop martini",
+        "volume": 135000,
+        "competition": 41
+      },
+      {
+        "keyword": "lemondrop martini",
+        "volume": 135000,
+        "competition": 41
+      },
+      {
+        "keyword": "lemonade drop martini",
+        "volume": 135000,
+        "competition": 41
+      },
+      {
+        "keyword": "lemon martini drop",
+        "volume": 135000,
+        "competition": 41
+      },
+      {
+        "keyword": "lemon drop martini recipe",
+        "volume": 90500,
+        "competition": 32
+      },
+      {
+        "keyword": "lemon drop drink recipe",
+        "volume": 90500,
+        "competition": 32
+      },
+      {
+        "keyword": "lemon drop cocktail recipe",
+        "volume": 90500,
+        "competition": 32
+      },
+      {
+        "keyword": "lemondrop martini recipe",
+        "volume": 90500,
+        "competition": 32
+      },
+      {
+        "keyword": "lemon drop shot",
+        "volume": 60500,
+        "competition": 18
+      },
+      {
+        "keyword": "lemon drop cocktails",
+        "volume": 22200,
+        "competition": 32
+      },
+      {
+        "keyword": "lemon drop drink",
+        "volume": 22200,
+        "competition": 32
+      },
+      {
+        "keyword": "lemon drop mixed drink",
+        "volume": 22200,
+        "competition": 32
+      },
+      {
+        "keyword": "vodka lemon drop",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon drop vodka drink",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon drop martini with vodka",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon drop shot recipes",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "lemon drop shot drink recipe",
+        "volume": 12100,
+        "competition": 13
+      },
+      {
+        "keyword": "cocktails with lemon",
+        "volume": 8100,
+        "competition": 13
+      },
+      {
+        "keyword": "limoncello martini",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "vodka and lemon drinks",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "drinks with lemon and vodka",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "drinks with vodka and lemon",
+        "volume": 6600,
+        "competition": 64
+      },
+      {
+        "keyword": "limoncello martini cocktail",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "lemon martini",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "lemon martini cocktail",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "lemon drop ingredients",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "lemon drop drink ingredients",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "3 ingredient lemon drop martini",
+        "volume": 2900,
+        "competition": 28
+      },
+      {
+        "keyword": "lemon drop martini ingredients",
+        "volume": 2900,
+        "competition": 37
+      },
+      {
+        "keyword": "lavender lemon drop martini",
+        "volume": 2900,
+        "competition": 46
+      },
+      {
+        "keyword": "yuzu cocktail",
+        "volume": 2900,
+        "competition": 8
+      },
+      {
+        "keyword": "raspberry lemon drop",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "lemon drop cocktail ingredients",
+        "volume": 2900,
+        "competition": 37
+      },
+      {
+        "keyword": "ingredients for a lemon drop cocktail",
+        "volume": 2900,
+        "competition": 37
+      },
+      {
+        "keyword": "ingredients for lemon drop martinis",
+        "volume": 2900,
+        "competition": 37
+      },
+      {
+        "keyword": "lavender lemon drop cocktail",
+        "volume": 2900,
+        "competition": 46
+      },
+      {
+        "keyword": "lemondrop martini ingredients",
+        "volume": 2900,
+        "competition": 37
+      },
+      {
+        "keyword": "raspberry lemon drop cocktail",
+        "volume": 2900,
+        "competition": 7
+      },
+      {
+        "keyword": "vodka lemon drink recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "best lemon drop martini recipe",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "blueberry lemon drop",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "limoncello martini recipe",
+        "volume": 2400,
+        "competition": 14
+      },
+      {
+        "keyword": "best lemon drop cocktail recipe",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "blueberry lemon drop drink",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "best recipe for a lemon drop martini",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "easy lemon drop martini recipe",
+        "volume": 1900,
+        "competition": 34
+      },
+      {
+        "keyword": "lemon drop martini limoncello",
+        "volume": 1900,
+        "competition": 17
+      },
+      {
+        "keyword": "blueberry lemon drop martini",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "lemontini",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "blueberry lemon drop cocktail",
+        "volume": 1900,
+        "competition": 11
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

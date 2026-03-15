@@ -1,0 +1,267 @@
+{
+  "slug": "veal-escalopes-marsala-spinach",
+  "title": "Veal Escalopes Marsala Spinach",
+  "seed_keywords": [
+    "veal marsala",
+    "veal escalopes",
+    "sautéed veal dishes",
+    "marsala wine sauce",
+    "spinach garlic main"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "marsala sauce",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "veal marsala",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "veal escalopes",
+        "volume": 9900,
+        "competition": 12
+      },
+      {
+        "keyword": "marsala sauce recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "marsala wine sauce recipe",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "italian veal marsala recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "marsala veal recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "beef escalope",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "cream marsala sauce",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy marsala sauce",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "marsala cream sauce",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "marsala wine sauce",
+        "volume": 2400,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken and marsala sauce",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "chicken in marsala sauce",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "chicken in marsala wine sauce",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "marsala and mushroom sauce",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "marsala mushroom sauce",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "marsala wine mushroom sauce",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "mushroom sauce with marsala wine",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "cream marsala",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "creamy marsala",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "marsala mushroom",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "mushrooms in marsala wine",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "mushrooms with marsala wine",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "marsala steak",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "veal marsala scallopini",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "veal scaloppine marsala",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken marsala sauce recipe",
+        "volume": 720,
+        "competition": 13
+      },
+      {
+        "keyword": "ingredients for marsala sauce",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "marsala wine sauce ingredients",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "marsala wine sauce recipe for chicken",
+        "volume": 720,
+        "competition": 13
+      },
+      {
+        "keyword": "breaded veal escalope",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "beef marsala sauce",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "marsala pasta sauce",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "marsala sauce for steak",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "marsala wine pasta sauce",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "marsala wine sauce for steak",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "scallopini marsala",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "traditional marsala sauce",
+        "volume": 320,
+        "competition": 11
+      },
+      {
+        "keyword": "veal marsala with mushrooms",
+        "volume": 320,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy marsala mushroom sauce",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom marsala cream sauce",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "best marsala sauce recipe",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "carrabba's marsala sauce recipe",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "easy marsala sauce",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "easy marsala sauce recipe",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "marsala cream sauce recipe",
+        "volume": 210,
+        "competition": 3
+      },
+      {
+        "keyword": "marsala demi sauce",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "marsala gravy",
+        "volume": 210,
+        "competition": 2
+      },
+      {
+        "keyword": "sauteed veal",
+        "volume": 210,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

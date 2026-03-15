@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-garlic-mash",
+  "title": "Twisted Garlic Mash",
+  "seed_keywords": [
+    "garlic mashed potatoes",
+    "creamy potato side dish",
+    "roasted garlic shallot mash",
+    "mashed potatoes with olive oil",
+    "twisted garlic mash"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "garlic mashed potatoes recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic whipped potatoes recipe",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic mashed potatoes",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "garlic mashed po",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "garlic whipped potatoes",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "mashed potatoes and garlic",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "creamy mashed potatoes",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "idahoan potato flakes",
+        "volume": 12100,
+        "competition": 70
+      },
+      {
+        "keyword": "creamy cheese mashed potatoes",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "creamy mashed potatoes cream cheese",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "potatoes garlic",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "mashed potatoes with heavy cream",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "mashed potatoes using heavy cream",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "mashed potatoes using sour cream",
+        "volume": 6600,
+        "competition": 4
+      },
+      {
+        "keyword": "potato colcannon",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted garlic mashed potatoes",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "roasted garlic smashed potatoes",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "roasted garlic whipped potatoes",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "smashed potatoes with roasted garlic",
+        "volume": 5400,
+        "competition": 7
+      },
+      {
+        "keyword": "mashed potato with boursin cheese",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic smashed potatoes",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "garlic mash",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "mash garlic",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "heavy whipping cream in mashed potatoes",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "mashed potatoes with olive oil",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy scalloped potatoes",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "creamy garlic mashed potatoes",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic cream mashed potatoes",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic mashed potatoes with cream",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "olive oil whipped potatoes",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "seasoned mashed potatoes",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "best garlic mashed potatoes",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "butter and garlic mashed potatoes",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "butter garlic mashed potatoes",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic and parmesan mashed potatoes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic butter for mashed potatoes",
+        "volume": 1600,
+        "competition": 4
+      },
+      {
+        "keyword": "garlic mashed potatoes best",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "garlic mashed potatoes red",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic mashed potatoes red potatoes",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "garlic mashed potatoes with parmesan cheese",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic parm mashed potatoes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic parmesan mashed potatoes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic smashed red potatoes",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "good garlic mashed potatoes",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "great garlic mashed potatoes",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "mashed potato roasted",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "parmesan garlic smashed potatoes",
+        "volume": 1600,
+        "competition": 9
+      },
+      {
+        "keyword": "red skin mashed potato recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "red smashed garlic potatoes",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "smashed garlic parmesan potatoes",
+        "volume": 1600,
+        "competition": 9
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

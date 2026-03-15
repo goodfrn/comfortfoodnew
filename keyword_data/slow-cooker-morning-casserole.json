@@ -1,0 +1,267 @@
+{
+  "slug": "slow-cooker-morning-casserole",
+  "title": "Slow Cooker Morning Casserole",
+  "seed_keywords": [
+    "slow cooker breakfast",
+    "breakfast casserole recipe",
+    "egg sausage casserole",
+    "make ahead breakfast",
+    "overnight breakfast bake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "breakfast casserole",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "break casserole",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "breakfast casserole recipe",
+        "volume": 110000,
+        "competition": 15
+      },
+      {
+        "keyword": "breakfast casserole dishes",
+        "volume": 110000,
+        "competition": 15
+      },
+      {
+        "keyword": "casserole hash browns",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "hashbrown bake casserole",
+        "volume": 110000,
+        "competition": 4
+      },
+      {
+        "keyword": "sausage casseroles",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "hashbrown breakfast casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "egg bake recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "tater tot breakfast casserole",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast casserole recipes with hash browns",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast hash brown casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast bake with hash browns",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "tater tot breakfast casserole recipes",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast casserole using hash browns",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast bake with tater tots",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast casserole using tater tots",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast hash casserole",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast tater tot hotdish",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "brunch casserole with hash browns",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "egg breakfast dish",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "hashbrown bake breakfast",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "potato tot breakfast casserole",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "tater tot brunch casserole",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "egg casserole",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "egg casserole recipe",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "overnight french toast casserole",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "egg casserole dishes",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "egg casserole ideas",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "french toast bake casserole overnight",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "easy breakfast casserole",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "sausage breakfast casserole",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "easy breakfast casserole recipe",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "sausage breakfast casserole recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast casserole using sausage",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "easy breakfast casserole ideas",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "meal prepping lunch ideas",
+        "volume": 22200,
+        "competition": 51
+      },
+      {
+        "keyword": "sausage casserole crock pot",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "breakfast casserole with hash browns",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "egg casserole with hash browns",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "egg bake with hash browns",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "crockpot breakfast casserole",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "hash brown casserole with eggs",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "biscuits and gravy casserole",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast egg casserole with hash browns",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "breakfast egg bake with hash browns",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "crockpot breakfast casserole recipes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "biscuit & gravy casserole",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast bake in crock pot",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast casserole for slow cooker",
+        "volume": 18100,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

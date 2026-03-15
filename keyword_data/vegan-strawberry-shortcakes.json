@@ -1,0 +1,267 @@
+{
+  "slug": "vegan-strawberry-shortcakes",
+  "title": "Vegan Strawberry Shortcakes",
+  "seed_keywords": [
+    "vegan strawberry shortcake",
+    "vegan desserts",
+    "coconut cream frosting",
+    "dairy free baking",
+    "whipped coconut cream"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegan desserts",
+        "volume": 60500,
+        "competition": 48
+      },
+      {
+        "keyword": "vegetarian desserts",
+        "volume": 60500,
+        "competition": 48
+      },
+      {
+        "keyword": "vegan desserts near me",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "vegan sweets near me",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "vegetarian desserts near me",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "vegan cheesecake",
+        "volume": 22200,
+        "competition": 35
+      },
+      {
+        "keyword": "nondairy whipped cream",
+        "volume": 22200,
+        "competition": 74
+      },
+      {
+        "keyword": "nondairy whipped topping",
+        "volume": 22200,
+        "competition": 74
+      },
+      {
+        "keyword": "vegetarian cheesecake",
+        "volume": 22200,
+        "competition": 35
+      },
+      {
+        "keyword": "vegan chocolate cake",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "vegan chocolate gateau",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "vegetarian chocolate cake",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "vegan pastry",
+        "volume": 12100,
+        "competition": 48
+      },
+      {
+        "keyword": "vegan dessert options",
+        "volume": 12100,
+        "competition": 20
+      },
+      {
+        "keyword": "chocolate mousse tofu",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan pumpkin pie",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "vegan apple crumble",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegan ricotta cheesecake",
+        "volume": 9900,
+        "competition": 48
+      },
+      {
+        "keyword": "chocolate mousse silken tofu",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "silken tofu mousse",
+        "volume": 8100,
+        "competition": 0
+      },
+      {
+        "keyword": "whipped coconut cream",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "dairy free dessert recipes",
+        "volume": 6600,
+        "competition": 21
+      },
+      {
+        "keyword": "ben & jerry's non dairy ice cream",
+        "volume": 6600,
+        "competition": 15
+      },
+      {
+        "keyword": "coconut cream whipped cream",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "dairy free dessert ideas",
+        "volume": 6600,
+        "competition": 21
+      },
+      {
+        "keyword": "coconut cream for whipped cream",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "coconut cream for whipping",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "coconut whipped cream with coconut cream",
+        "volume": 6600,
+        "competition": 44
+      },
+      {
+        "keyword": "dairy free dessert options",
+        "volume": 6600,
+        "competition": 21
+      },
+      {
+        "keyword": "free sugar free dessert recipes",
+        "volume": 6600,
+        "competition": 41
+      },
+      {
+        "keyword": "lactose free whipped cream",
+        "volume": 5400,
+        "competition": 65
+      },
+      {
+        "keyword": "ben and jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "ben & jerry's vegan ice cream",
+        "volume": 5400,
+        "competition": 26
+      },
+      {
+        "keyword": "vegan chocolate mousse",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "raw cakes",
+        "volume": 5400,
+        "competition": 28
+      },
+      {
+        "keyword": "vegetarian chocolate mousse",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "panna cotta with agar",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "easy vegan desserts",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "vegan puddings",
+        "volume": 4400,
+        "competition": 69
+      },
+      {
+        "keyword": "ben & jerry's dairy free ice cream",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "vegan panna cotta",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "easy vegan sweets",
+        "volume": 4400,
+        "competition": 20
+      },
+      {
+        "keyword": "panna cotta vegetarian",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "vegetarian pudding",
+        "volume": 4400,
+        "competition": 69
+      },
+      {
+        "keyword": "dairy free whipped topping",
+        "volume": 3600,
+        "competition": 44
+      },
+      {
+        "keyword": "vegan meringue",
+        "volume": 3600,
+        "competition": 44
+      },
+      {
+        "keyword": "vegan custard",
+        "volume": 3600,
+        "competition": 39
+      },
+      {
+        "keyword": "vegan apple pie",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "gluten free dairy free dessert recipes",
+        "volume": 3600,
+        "competition": 33
+      },
+      {
+        "keyword": "gluten and dairy free dessert recipes",
+        "volume": 3600,
+        "competition": 33
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

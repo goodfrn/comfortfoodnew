@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-pork-skewers",
+  "title": "Spiced Pork Skewers",
+  "seed_keywords": [
+    "pork skewers",
+    "grilled pork marinade",
+    "spanish pork recipes",
+    "paprika marinated meat",
+    "spiced meat skewers"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pork chop marinade",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "marinade for a pork tenderloin",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "marinate pork fillet",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "marinate pork loin",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "spanish pork",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "spanish for pork",
+        "volume": 27100,
+        "competition": 2
+      },
+      {
+        "keyword": "pork meat marinade",
+        "volume": 14800,
+        "competition": 9
+      },
+      {
+        "keyword": "moo ping",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "marinate pork ribs",
+        "volume": 8100,
+        "competition": 8
+      },
+      {
+        "keyword": "pork skewers",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "pork chop marinade recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "best marinade for pork chops",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "good marinade for pork chops",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "best pork loin chop marinade",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "good marinades for pork chop",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "great marinade for pork chops",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "marinate pork belly",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "pork chops spanish",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "pork steak marinade",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "marinate pork recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "grilled pork loin chop marinade",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "pork kebab",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "simple marinade for pork chops",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pork loin marinade for grilling",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pork tenderloin marinade for grilling",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "best marinated pork tenderloin",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "easy marinade for pork chops",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "marinate pork loin recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "marinate pork tenderloin recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "marinated and grilled pork tenderloin",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "marinated pork fillet recipe",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "pork chop quick marinade",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pork shoulder spanish",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "pork tenderloin marinade for the grill",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "pork tenderloin on the grill marinade",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "spanish belly pork",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "spanish pork belly",
+        "volume": 3600,
+        "competition": 4
+      },
+      {
+        "keyword": "grilled pork chops marinade",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "barbecue marinade for pork",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "barbeque marinade pork",
+        "volume": 2900,
+        "competition": 16
+      },
+      {
+        "keyword": "bbq pork chops marinade",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "barbecue marinade for pork chops",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "filipino barbecue pork",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "filipino bbq pork",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pinoy barbecue pork",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pork chop barbeque marinade",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "best pork chop marinade for grilling",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "filipino barbecue pork skewers",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "filipino pork skewer",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "good marinade for grilled pork chops",
+        "volume": 1900,
+        "competition": 11
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

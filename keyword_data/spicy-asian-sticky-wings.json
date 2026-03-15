@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-asian-sticky-wings",
+  "title": "Spicy Asian Sticky Wings",
+  "seed_keywords": [
+    "crispy fried wings",
+    "asian chicken wings",
+    "hoisin glazed wings",
+    "garlic chili wings",
+    "sticky chicken wings"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken wings in the air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken wings in an air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "air fryer fried chicken wings",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "air fry chicken wingettes",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "fried chicken wings with air fryer",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "wings in air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "wings in an air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "wings in a air fryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "wings in an airfryer",
+        "volume": 40500,
+        "competition": 19
+      },
+      {
+        "keyword": "chicken wings in air fryer",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "chicken wing fryer",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken wings crunchy",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken wings air fryer",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken wing recipes air fryer",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wings recipe air fryer",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "air fryer hot wings recipe",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "recipe air fryer chicken wings",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wing recipe for air fryer",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "airfryer recipes chicken wings",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "buffalo wings deep fried",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "deep fried chicken wingettes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "deep fried hot wings",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fried chicken wings deep fryer",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "fry chicken wings in deep fryer",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for chicken wings in airfryer",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "fried chicken wings recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried wings recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "fried chicken hot wings recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "wing in the oven",
+        "volume": 12100,
+        "competition": 12
+      },
+      {
+        "keyword": "air fryer chicken wings crispy",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy air fryer chicken wings",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "deep fryer for chicken wings",
+        "volume": 9900,
+        "competition": 25
+      },
+      {
+        "keyword": "air fried crispy chicken wings",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "air fry wings recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "crispy chicken wings airfryer",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "crispy chicken wings in airfryer",
+        "volume": 9900,
+        "competition": 7
+      },
+      {
+        "keyword": "chicken wing chinese",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "making crispy chicken wings in the oven",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "sticky wings",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "crispy air fryer chicken",
+        "volume": 5400,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken wing air fryer time",
+        "volume": 5400,
+        "competition": 9
+      },
+      {
+        "keyword": "oven fried chicken wings",
+        "volume": 4400,
+        "competition": 8
+      },
+      {
+        "keyword": "air fryer chicken wing recipe",
+        "volume": 4400,
+        "competition": 16
+      },
+      {
+        "keyword": "crispy air fryer wings",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "buffalo wing recipe deep fried",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken wing deep fried recipes",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken wing recipe chinese",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "crispy wings air fryer",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "deep fried hot wing recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "deep fried wing recipe",
+        "volume": 4400,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

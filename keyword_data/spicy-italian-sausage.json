@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-italian-sausage",
+  "title": "Spicy Italian Sausage Twist",
+  "seed_keywords": [
+    "homemade italian sausage",
+    "spicy pork sausage",
+    "how to make sausage",
+    "pork sausage casings",
+    "italian sausage fennel"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "andouille sausage",
+        "volume": 135000,
+        "competition": 60
+      },
+      {
+        "keyword": "nduja sausages",
+        "volume": 27100,
+        "competition": 26
+      },
+      {
+        "keyword": "how to make sausage gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "fennel sausage",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "how do you make sausage gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "how to make sausage and gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "how do i make sausage gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "frankfurters how to cook",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "how do you make sausage and gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "how to cook frankfurter hot dogs",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "how to cook sausage and gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "how to cook sausage gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "how to make gravy for sausage and gravy",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "sausages and fennel",
+        "volume": 18100,
+        "competition": 19
+      },
+      {
+        "keyword": "how to make biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how to make gravy for biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how to make gravy for biscuits",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how do you make biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how do you make gravy for biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "bratwurst sausage how to cook",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "how cook bratwurst",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "how do i cook bratwurst",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "how do i cook chorizo",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "how do i make biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how do i make bratwurst",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "how do i make chorizo",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "how do i make gravy for biscuits",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how do i make gravy for biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how do you cook a bratwurst",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "how do you cook chorizo",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "how do you make biscuit gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how do you make chorizo",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "how to cook a bratwurst sausage",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "how to cook bratwurst sausage",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "how to make biscuits for biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how to make gravy biscuits and gravy",
+        "volume": 14800,
+        "competition": 23
+      },
+      {
+        "keyword": "how to make sausage rolls",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "how do i cook sausages",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "how do i make sausage rolls",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "how do you cook a sausage",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "how do you make a sausage roll",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "how to cook a sausage",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "how to make sausage roll recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "how to make sausage rolls recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "how to make sausage rolls with sausages",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "how to prepare sausage",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "how to make sausage",
+        "volume": 9900,
+        "competition": 29
+      },
+      {
+        "keyword": "how to cook italian sausage",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "how do you make sausage",
+        "volume": 9900,
+        "competition": 29
+      },
+      {
+        "keyword": "how to make homemade sausage",
+        "volume": 9900,
+        "competition": 29
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "veggie-poutine-twist",
+  "title": "Veggie Poutine Twist",
+  "seed_keywords": [
+    "vegetarian poutine",
+    "roasted vegetable fries",
+    "mushroom cheese sauce",
+    "root vegetable side dish",
+    "feta poutine twist"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "parsnip dish",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "roasted carrots and parsnips",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "roasted carrots parsnips",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "honey roasted carrots and parsnips",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "honey roasted carrots parsnips",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted carrots and parsnips with honey",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetable gratin",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetarian poutine",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "vegan poutine",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "honey glazed carrots & parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed carrots and parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "honey glazed carrots parsnips",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "mashed parsnip and carrot",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "honey carrots and parsnips",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "honey carrots parsnips",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "mashed parsnip and potato",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "mashed potato with parsnip",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "oven roasted root vegetables",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "oven roasted root veggies",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "root vegetable gratin",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "celeriac mashed potatoes",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "mashed potato and celeriac",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "mashed potato and turnip",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "mashed potatoes turnips",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "glazed carrots and parsnips",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "glazed carrots parsnips",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "roasted carrots and turnip",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "mushroom cheese sauce",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "cheese and mushroom sauce",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken with roasted root vegetables",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "cream cheese and mushroom sauce",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cream cheese mushroom sauce",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy cheese mushroom sauce",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "oven roasted carrots and parsnips",
+        "volume": 480,
+        "competition": 6
+      },
+      {
+        "keyword": "poutine recipe vegetarian",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "poutine vegetarian recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "vegan poutine recipe",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "blue cheese and mushroom sauce",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "blue cheese mushroom sauce",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "mashed potato and rutabaga",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom cream cheese pasta",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "mushrooms with blue cheese sauce",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "best roasted carrots and parsnips",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "honey roasted carrots and parsnips air fryer",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "mashed parsnips and cauliflower",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted carrots and parsnips air fryer",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted potatoes and parsnips",
+        "volume": 320,
+        "competition": 0
+      },
+      {
+        "keyword": "celery root mashed potatoes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "mashed parsnips and sweet potatoes",
+        "volume": 260,
+        "competition": 0
+      },
+      {
+        "keyword": "roasted carrots parsnips and potatoes",
+        "volume": 260,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

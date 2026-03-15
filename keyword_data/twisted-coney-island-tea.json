@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-coney-island-tea",
+  "title": "Twisted Coney Island Tea",
+  "seed_keywords": [
+    "elderflower cocktails",
+    "mezcal drinks",
+    "iced tea cocktails",
+    "apple fizz drink",
+    "coney island cocktail"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "long island iced tea",
+        "volume": 368000,
+        "competition": 8
+      },
+      {
+        "keyword": "arnold palmer cocktail",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe for hugo spritz",
+        "volume": 90500,
+        "competition": 13
+      },
+      {
+        "keyword": "long island iced tea recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "long island cocktail",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "long island tea recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "saint germain drink",
+        "volume": 74000,
+        "competition": 51
+      },
+      {
+        "keyword": "st germain drink",
+        "volume": 74000,
+        "competition": 51
+      },
+      {
+        "keyword": "long iced tea recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "liit recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "li iced tea recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "island iced tea recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "cocktail long iced tea",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "long island iced recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "long island island iced tea recipe",
+        "volume": 74000,
+        "competition": 11
+      },
+      {
+        "keyword": "st germain spritz",
+        "volume": 60500,
+        "competition": 36
+      },
+      {
+        "keyword": "tequila mezcal worm",
+        "volume": 40500,
+        "competition": 37
+      },
+      {
+        "keyword": "st germain elderflower liqueur",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "elderflower st germain",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "drinks with st germain elderflower liqueur",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "long island cocktail drink",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "saint germain elderflower liqueur",
+        "volume": 33100,
+        "competition": 34
+      },
+      {
+        "keyword": "french elderflower liqueur",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "st germain cocktails",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "long island recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "long island cocktail recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "long iced tea",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "long island drink recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "st germain liqueur cocktails",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "island iced tea",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "long island iced tea cocktail",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for long island iced tea cocktail",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "long island tea cocktail",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "long island iced",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "cocktails using st germain",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "cocktail long island iced tea recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "cocktail long island recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "drink long island iced tea",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "drink recipe long island iced tea",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "island iced tea cocktail",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "island tea recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "liit cocktail",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "liit cocktail recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "long iced tea cocktail",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "long iced tea cocktail recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "long island ice drink",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "long island iced cocktail",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "long island iced drink",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "long island iced tea recipe cocktail",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "long island iced tea with iced tea",
+        "volume": 22200,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

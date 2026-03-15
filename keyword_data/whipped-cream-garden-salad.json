@@ -1,0 +1,267 @@
+{
+  "slug": "whipped-cream-garden-salad",
+  "title": "Whipped Cream Garden Salad",
+  "seed_keywords": [
+    "whipped cream salad",
+    "green salad dressing",
+    "cucumber salad",
+    "creamy garden salad",
+    "whipped cream dressing"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cucumber salad",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "pipino salad",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cuc salad",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and salad",
+        "volume": 368000,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber salad recipe",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "cuke salad recipes",
+        "volume": 201000,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber pickled",
+        "volume": 110000,
+        "competition": 29
+      },
+      {
+        "keyword": "cucumber tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber and tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "asian cucumber salad",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cuke salad",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cuke tomato salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "oriental cucumber salad",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "tomato and cuke salad",
+        "volume": 74000,
+        "competition": 3
+      },
+      {
+        "keyword": "green goddess dressing",
+        "volume": 60500,
+        "competition": 31
+      },
+      {
+        "keyword": "creamy cucumber salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "creamy cuke salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and cream salad",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "watermelon salads with feta cheese",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "green goddess salad",
+        "volume": 49500,
+        "competition": 18
+      },
+      {
+        "keyword": "salad with green goddess dressing",
+        "volume": 49500,
+        "competition": 18
+      },
+      {
+        "keyword": "cucumber recipes",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "cucumber with lemon",
+        "volume": 33100,
+        "competition": 55
+      },
+      {
+        "keyword": "smashed cucumber salad",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber tomato onion salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "asian cucumber salad recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "cucumber and onion and tomato salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cuke tomato onion salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "green salads recipe",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "juicing a cucumber",
+        "volume": 22200,
+        "competition": 62
+      },
+      {
+        "keyword": "green goddess dressing recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "japanese cucumbers",
+        "volume": 18100,
+        "competition": 56
+      },
+      {
+        "keyword": "watermelon cucumber salad",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber and watermelon salad",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber japanese salad",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "green dressing recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "green goddess recipes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "green goddess sauce recipe",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes with green goddess dressing",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "cucumber onion salad",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "china cucumber salad",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "chinese cucumber salad",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and pineapple salad",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and tomato salad recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber pineapple salad",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "easy cucumber salad",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "basic cucumber salad",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "carb cucumber",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber and vinegar salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber in vinegar salad",
+        "volume": 12100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

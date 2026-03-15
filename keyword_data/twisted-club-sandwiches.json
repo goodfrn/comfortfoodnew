@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-club-sandwiches",
+  "title": "Twisted Club Sandwiches",
+  "seed_keywords": [
+    "club sandwich",
+    "bacon egg sandwich",
+    "baked eggs sandwich",
+    "crispy bacon toast",
+    "layered club sandwich"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "club sandwich",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "club club sandwich",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "club sandwich club",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "club sandwich sandwich",
+        "volume": 301000,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg and cheese",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon and egg and cheese",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon and egg cheese",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "sandwich club",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "club sandwich near me",
+        "volume": 27100,
+        "competition": 19
+      },
+      {
+        "keyword": "chicken club",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "clubhouse sandwich",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg and cheese near me",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "club house sandwich",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg cheese near me",
+        "volume": 22200,
+        "competition": 18
+      },
+      {
+        "keyword": "chicken club sandwich",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "lobster club",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken clubhouse sandwich",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "the chicken club",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "turkey club sandwich",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon and egg mcmuffin",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg mcmuffin",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg and cheese muffin",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey clubhouse sandwich",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg and cheese sandwich",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "turkey club",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and egg and cheese sandwich",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon and egg cheese sandwich",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon egg & cheese",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon egg and cheese grilled cheese",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon egg cheese",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "double smoked bacon cheddar & egg sandwich starbucks",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "egg cheese and bacon sandwich",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "breakfast baconator",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "club sand",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "thesandwichclub",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "bacon egg sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon and egg sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon gouda & egg sandwich starbucks",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "abc club sandwich",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "bacon cheese egg sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon egg & cheese sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "egg & bacon sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "sandwich bacon egg",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "sandwich with egg and bacon",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "bacon egg and cheese croissant",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "bacon gouda starbucks",
+        "volume": 4400,
+        "competition": 11
+      },
+      {
+        "keyword": "bacon egg cheese croissant",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "bacon egg and cheese on a croissant",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "croissant bacon egg and cheese",
+        "volume": 4400,
+        "competition": 30
+      },
+      {
+        "keyword": "croissant with bacon egg and cheese",
+        "volume": 4400,
+        "competition": 30
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

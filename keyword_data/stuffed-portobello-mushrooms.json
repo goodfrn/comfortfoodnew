@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-portobello-mushrooms",
+  "title": "Stuffed Portobello Mushrooms",
+  "seed_keywords": [
+    "stuffed portobello mushrooms",
+    "roasted portobello recipes",
+    "bacon asparagus dinner",
+    "stuffed mushrooms recipe",
+    "portobello mushroom main course"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "stuffed mushrooms",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "filled mushroom",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "mushrooms for stuffed mushrooms",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "mushrooms stuffed with stuffing",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "stuffed mushroom dish",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "stuffed mushrooms and",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "stuffed mushrooms recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "filled mushroom recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "stuffed mushroom filling recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "portobello mushrooms recipes",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "stuffed portobello mushrooms",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "crab stuffed mushrooms",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "crab filled mushrooms",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "filled portobello mushrooms",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "filling for portobello mushrooms",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "portobello caps stuffed",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "portobello stuffed",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed mushroom with crabmeat",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "stuffed mushrooms portabella",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed portabellas",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed mushrooms with sausage",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed portobello mushroom recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "filled portobello mushroom recipes",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "grilled portobello mushroom",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "portobello recipes stuffed",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for stuffed portabella",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for stuffed portabella mushroom",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "sausage and stuffing stuffed mushrooms",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "sausage filled mushrooms",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "sausage stuffing stuffed mushrooms",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed mushroom recipe portobello",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed portobello caps recipe",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "mushroom caps",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "crab meat stuffed mushroom recipe",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "crab stuffed mushroom recipe",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for crab meat stuffed mushrooms",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for stuffed mushrooms with crab meat",
+        "volume": 8100,
+        "competition": 9
+      },
+      {
+        "keyword": "stuffed mushrooms with cream cheese",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "large stuffed mushroom recipes",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "big stuffed mushroom recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese filled mushrooms",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "mushrooms filled with cream cheese",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed mushrooms using cream cheese",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "stuffed mushrooms with stuffing and cream cheese",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "easy stuffed mushroom recipes",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "basic stuffed mushroom recipe",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe stuffed mushrooms easy",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed mushroom caps",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "vegetarian stuffed mushrooms",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "large mushrooms",
+        "volume": 3600,
+        "competition": 23
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-shrimp-ramen",
+  "title": "Spicy Shrimp Ramen Stir",
+  "seed_keywords": [
+    "shrimp ramen",
+    "spicy shrimp stir fry",
+    "asian noodle bowls",
+    "shrimp noodle dishes",
+    "garlic sriracha shrimp"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shrimp noodle dishes",
+        "volume": 6600,
+        "competition": 61
+      },
+      {
+        "keyword": "shrimp and noodle recipes",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "asian bowl noodles",
+        "volume": 3600,
+        "competition": 36
+      },
+      {
+        "keyword": "garlic shrimp noodle recipe",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "noodle bowl asian",
+        "volume": 3600,
+        "competition": 36
+      },
+      {
+        "keyword": "noodle with shrimp recipe",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "shrimp ramen recipes",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "stir fried noodles with shrimp",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry with noodles and shrimp",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "rice noodle with shrimp",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "rice noodles and shrimp",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "shrimp with noodles",
+        "volume": 1900,
+        "competition": 44
+      },
+      {
+        "keyword": "maruchan shrimp",
+        "volume": 1600,
+        "competition": 69
+      },
+      {
+        "keyword": "tempura ramen",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "maruchan ramen shrimp",
+        "volume": 1300,
+        "competition": 80
+      },
+      {
+        "keyword": "lime chili shrimp",
+        "volume": 1300,
+        "competition": 13
+      },
+      {
+        "keyword": "maruchan ramen noodles shrimp",
+        "volume": 1300,
+        "competition": 80
+      },
+      {
+        "keyword": "maruchan shrimp ramen noodles",
+        "volume": 1300,
+        "competition": 80
+      },
+      {
+        "keyword": "red bowl noodle",
+        "volume": 1300,
+        "competition": 5
+      },
+      {
+        "keyword": "maruchan chili ramen",
+        "volume": 1000,
+        "competition": 61
+      },
+      {
+        "keyword": "recipe for rice noodles and shrimp",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe shrimp rice noodles",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "rice noodles with shrimp recipes",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "authentic asia shrimp wonton ramen",
+        "volume": 880,
+        "competition": 66
+      },
+      {
+        "keyword": "pancit shrimp",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "pasta with vegetables and shrimp",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "prawn ramen",
+        "volume": 880,
+        "competition": 4
+      },
+      {
+        "keyword": "maruchan lime chili shrimp",
+        "volume": 720,
+        "competition": 34
+      },
+      {
+        "keyword": "asian noodles for stir fry",
+        "volume": 720,
+        "competition": 17
+      },
+      {
+        "keyword": "authentic asia shrimp wonton soup",
+        "volume": 590,
+        "competition": 61
+      },
+      {
+        "keyword": "shrimp wonton ramen",
+        "volume": 590,
+        "competition": 34
+      },
+      {
+        "keyword": "shrimp tempura ramen",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "egg noodles and shrimp recipe",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "lime chili shrimp flavor",
+        "volume": 480,
+        "competition": 12
+      },
+      {
+        "keyword": "prawns with rice noodles",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for shrimp stir fry with noodles",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp egg noodle recipe",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "cajun shrimp ramen noodles",
+        "volume": 390,
+        "competition": 80
+      },
+      {
+        "keyword": "cajun shrimp ramen",
+        "volume": 390,
+        "competition": 80
+      },
+      {
+        "keyword": "chinese noodles with shrimp",
+        "volume": 390,
+        "competition": 15
+      },
+      {
+        "keyword": "shrimp and zucchini noodles recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "shrimp zucchini noodles recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "simply asia noodle",
+        "volume": 390,
+        "competition": 48
+      },
+      {
+        "keyword": "thai noodle shrimp",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "thai shrimp and noodles",
+        "volume": 390,
+        "competition": 4
+      },
+      {
+        "keyword": "vietnamese pho noodle bowl",
+        "volume": 390,
+        "competition": 79
+      },
+      {
+        "keyword": "spicy shrimp stir fry",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "pad thai shrimp noodles",
+        "volume": 320,
+        "competition": 4
+      },
+      {
+        "keyword": "ramen shrimp flavor",
+        "volume": 320,
+        "competition": 75
+      },
+      {
+        "keyword": "rice noodle shrimp stir fry",
+        "volume": 320,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

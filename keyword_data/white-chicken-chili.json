@@ -1,0 +1,267 @@
+{
+  "slug": "white-chicken-chili",
+  "title": "White Chicken Chili",
+  "seed_keywords": [
+    "slow cooker chili",
+    "white chili",
+    "chicken chili recipe",
+    "slow cooker chicken soup",
+    "bean chili"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "white chicken chili",
+        "volume": 165000,
+        "competition": 8
+      },
+      {
+        "keyword": "white chicken chili recipe",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "white chicken chicken chili",
+        "volume": 165000,
+        "competition": 8
+      },
+      {
+        "keyword": "white chili chicken chili",
+        "volume": 165000,
+        "competition": 8
+      },
+      {
+        "keyword": "white chili chicken chili recipe",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "white meat chicken chili recipe",
+        "volume": 165000,
+        "competition": 12
+      },
+      {
+        "keyword": "make chili con carne",
+        "volume": 135000,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetarian chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "meatless chili",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chili veggie",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chilli chicken",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken chilli chicken",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe best chili",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker chicken soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle soup crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker chicken noodle soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken soup crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "ben chili",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and noodle soup crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken and noodle soup slow cooker",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle in slow cooker",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle slow cooker soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle soup for slow cooker",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken noodle soup on crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken soup on crock pot",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken soup with slow cooker",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "crock pot chicken and soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker noodle soup",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken chili recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "chili recipe with beans",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "white chicken chili crockpot",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for chili beans",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "slow cooker white chicken chili",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "bean chilli recipe",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken and chili recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "chili and bean recipe",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "chili bean chili recipe",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "chili made with chicken",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "make chili crock pot",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe chicken chili recipe",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "recipe for bean chilli",
+        "volume": 49500,
+        "competition": 13
+      },
+      {
+        "keyword": "white chili chicken in crock pot",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "slow cooker chili",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "white bean chicken chili",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken chili",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "chili recipe slow cooker",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot chili",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken chilli",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "chili recipe crock pot",
+        "volume": 33100,
+        "competition": 14
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

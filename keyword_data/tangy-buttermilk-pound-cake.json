@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-buttermilk-pound-cake",
+  "title": "Tangy Buttermilk Pound Cake",
+  "seed_keywords": [
+    "buttermilk pound cake",
+    "lemon pound cake",
+    "butter cake recipe",
+    "buttermilk cake",
+    "pound cake with lemon"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe buttercream",
+        "volume": 201000,
+        "competition": 9
+      },
+      {
+        "keyword": "cake butter",
+        "volume": 60500,
+        "competition": 27
+      },
+      {
+        "keyword": "butter scotch cake",
+        "volume": 60500,
+        "competition": 52
+      },
+      {
+        "keyword": "butter and cake",
+        "volume": 60500,
+        "competition": 27
+      },
+      {
+        "keyword": "butter butter cake",
+        "volume": 60500,
+        "competition": 27
+      },
+      {
+        "keyword": "cake and butter",
+        "volume": 60500,
+        "competition": 27
+      },
+      {
+        "keyword": "recipes for chocolate lava cake",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "gooey butter cake",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "cake mix gooey butter cake",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "gooey butter",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "gooey butter bar",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "gooey gooey butter cake",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "gooey gooey cake",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "butter milk pie",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "buttericing",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "lemon pound cake",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "butter cake recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "pound cake with lemon",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "ooey gooey butter cake",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "doggie cake recipe",
+        "volume": 27100,
+        "competition": 66
+      },
+      {
+        "keyword": "batar cake recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "buttercreamicing",
+        "volume": 27100,
+        "competition": 26
+      },
+      {
+        "keyword": "lemon cake pound cake",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "lemon lb cake",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "ooey gooey butter",
+        "volume": 27100,
+        "competition": 25
+      },
+      {
+        "keyword": "lemon pound cake recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for flourless chocolate cake",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "lemon lb cake recipe",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe lemon loaf",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip cookie cake",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "peanut butter cake",
+        "volume": 14800,
+        "competition": 37
+      },
+      {
+        "keyword": "7up cake",
+        "volume": 14800,
+        "competition": 18
+      },
+      {
+        "keyword": "cake chocolate chip cookies",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "cake with chocolate chip cookies",
+        "volume": 14800,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate chip cookies cake recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "mochi butter",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "pb cake",
+        "volume": 14800,
+        "competition": 37
+      },
+      {
+        "keyword": "lemon bundt cake",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "butter cake recipe gooey",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "buttercream frosting with butter",
+        "volume": 12100,
+        "competition": 10
+      },
+      {
+        "keyword": "gooey butter recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "gooey cake recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "gooey gooey butter cake recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "gooey gooey cake recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "lemon bundt",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "lemon cake bundt cake",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "chocolate peanut butter cake",
+        "volume": 9900,
+        "competition": 44
+      },
+      {
+        "keyword": "peanut butter cheesecake",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "chocolate and peanut butter cake",
+        "volume": 9900,
+        "competition": 44
+      },
+      {
+        "keyword": "butter cake frosting",
+        "volume": 9900,
+        "competition": 25
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

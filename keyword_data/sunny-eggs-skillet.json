@@ -1,0 +1,267 @@
+{
+  "slug": "sunny-eggs-skillet",
+  "title": "Sunny Eggs Skillet",
+  "seed_keywords": [
+    "fried egg skillet",
+    "sunny side up eggs",
+    "eggs with olive oil",
+    "cast iron egg cooking",
+    "soft yolk breakfast eggs"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "sunny side up eggs",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "egg fried sunny side up",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "fried egg sunny side",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "sunny egg side up",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "sunny side fried egg",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "sunny side up",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "sunny up side",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "non stick pan for scrambled eggs",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "egg sunny",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "sunnyside up egg",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "egg sunny side",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "egg cast iron skillet",
+        "volume": 3600,
+        "competition": 80
+      },
+      {
+        "keyword": "egg fried in olive oil",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "egg sunny side down",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "cooking eggs with olive oil",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "olive oil scrambled eggs",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "scrambled eggs in olive oil",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "sunny up egg",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "perfect sunny side up eggs",
+        "volume": 1000,
+        "competition": 27
+      },
+      {
+        "keyword": "sunny side up egg cooker",
+        "volume": 1000,
+        "competition": 52
+      },
+      {
+        "keyword": "cast iron eggs",
+        "volume": 1000,
+        "competition": 48
+      },
+      {
+        "keyword": "extra virgin olive oil for cooking eggs",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "eggs with olive oil",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "egg and olive oil",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "egg pan fry",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "sunny side up egg recipe",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "egg side up",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "microwave egg sunny side up",
+        "volume": 720,
+        "competition": 10
+      },
+      {
+        "keyword": "nonstick skillet for eggs",
+        "volume": 720,
+        "competition": 22
+      },
+      {
+        "keyword": "side up egg",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "sunny set up",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "sunny side up egg in the microwave",
+        "volume": 720,
+        "competition": 10
+      },
+      {
+        "keyword": "non stick frying pan for eggs",
+        "volume": 590,
+        "competition": 79
+      },
+      {
+        "keyword": "non stick egg skillet",
+        "volume": 590,
+        "competition": 79
+      },
+      {
+        "keyword": "best way to make sunny side up eggs",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "best way to cook a sunny side up egg",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "best way to cook eggs sunny side up",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "best way to make a sunny side up egg",
+        "volume": 590,
+        "competition": 35
+      },
+      {
+        "keyword": "cast iron egg fryer",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "cast iron fried egg",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "fry egg cast iron",
+        "volume": 590,
+        "competition": 16
+      },
+      {
+        "keyword": "sunny side up egg how to",
+        "volume": 590,
+        "competition": 24
+      },
+      {
+        "keyword": "sunny side up recipe",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "2 sunny side up eggs",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "olive oil for eggs",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "best sunny side up eggs",
+        "volume": 390,
+        "competition": 26
+      },
+      {
+        "keyword": "make a sunny side up egg",
+        "volume": 390,
+        "competition": 37
+      },
+      {
+        "keyword": "sun up egg",
+        "volume": 390,
+        "competition": 11
+      },
+      {
+        "keyword": "type of sunny side up eggs",
+        "volume": 390,
+        "competition": 0
+      },
+      {
+        "keyword": "fry eggs in cast iron skillet",
+        "volume": 320,
+        "competition": 13
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

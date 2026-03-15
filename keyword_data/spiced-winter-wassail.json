@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-winter-wassail",
+  "title": "Spiced Winter Wassail",
+  "seed_keywords": [
+    "warm apple cider",
+    "spiced winter drinks",
+    "apple cider wassail",
+    "slow heated cider",
+    "mulled apple punch"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "wassail recipe",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "hot apple cider",
+        "volume": 9900,
+        "competition": 58
+      },
+      {
+        "keyword": "apple cider drink hot",
+        "volume": 9900,
+        "competition": 58
+      },
+      {
+        "keyword": "hot cider drink",
+        "volume": 9900,
+        "competition": 58
+      },
+      {
+        "keyword": "hot cider spiked",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "warm apple cider",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "apple cider hot tottie",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "hot tottie with apple cider",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "hot whiskey apple cider",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "hot spiced cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "hot spiced apple cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "apple cider hot spiced",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "spiced warm apple cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "spiced warm cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "spiked hot apple cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "hot spiked cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "spiked warm apple cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "spiked warm cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "warm apple cider spiked",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "warm spiked cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "hot mulled cider",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "apple cider warm drink",
+        "volume": 720,
+        "competition": 57
+      },
+      {
+        "keyword": "cider hot drink",
+        "volume": 720,
+        "competition": 57
+      },
+      {
+        "keyword": "cider warm",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "warm cider drink",
+        "volume": 720,
+        "competition": 57
+      },
+      {
+        "keyword": "apple cider bourbon hot",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "bourbon apple cider hot",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "bourbon hot apple cider",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "hot apple cider and bourbon",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "hot apple cider bourbon",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "hot bourbon cider",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "warm apple cider bourbon",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "warm bourbon apple cider",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "warm bourbon cider",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "warm cider bourbon",
+        "volume": 590,
+        "competition": 11
+      },
+      {
+        "keyword": "hot cider with spiced rum",
+        "volume": 480,
+        "competition": 11
+      },
+      {
+        "keyword": "spiced rum hot cider",
+        "volume": 480,
+        "competition": 11
+      },
+      {
+        "keyword": "hot apple cider with rum",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "hot rum cider",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "hot cider and rum",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "hot apple cider and rum",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "crockpot wassail recipe",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "hot apple cider rum drink",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "hot apple drink",
+        "volume": 390,
+        "competition": 75
+      },
+      {
+        "keyword": "hot apple juice",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "hot apple juice drink",
+        "volume": 390,
+        "competition": 7
+      },
+      {
+        "keyword": "hot apple rum cider",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "hot mulled cider with rum",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "hot rum and apple cider",
+        "volume": 390,
+        "competition": 3
+      },
+      {
+        "keyword": "rum and hot apple cider",
+        "volume": 390,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

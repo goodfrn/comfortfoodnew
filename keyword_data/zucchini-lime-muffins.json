@@ -1,0 +1,267 @@
+{
+  "slug": "zucchini-lime-muffins",
+  "title": "Zucchini Lime Muffins",
+  "seed_keywords": [
+    "zucchini muffins",
+    "muffin recipes",
+    "grated zucchini baking",
+    "lime zucchini muffins",
+    "zucchini bread muffins"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "muffins",
+        "volume": 823000,
+        "competition": 14
+      },
+      {
+        "keyword": "blueberry muffin recipe",
+        "volume": 246000,
+        "competition": 5
+      },
+      {
+        "keyword": "egg muffins",
+        "volume": 201000,
+        "competition": 2
+      },
+      {
+        "keyword": "blueberry muffins",
+        "volume": 165000,
+        "competition": 15
+      },
+      {
+        "keyword": "english muffin",
+        "volume": 165000,
+        "competition": 54
+      },
+      {
+        "keyword": "banana muffins",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "banana muffin recipe",
+        "volume": 165000,
+        "competition": 3
+      },
+      {
+        "keyword": "muffin recipes",
+        "volume": 135000,
+        "competition": 5
+      },
+      {
+        "keyword": "banana chocolate chip muffins",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana choc chip muffin",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and choc chip muffins",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and chocolate chip muffins",
+        "volume": 90500,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate chip muffins",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate chip muffin recipe",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "choc chip muffins",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate choc chip muffins",
+        "volume": 60500,
+        "competition": 15
+      },
+      {
+        "keyword": "chocolate chocolate chip muffin recipe",
+        "volume": 60500,
+        "competition": 1
+      },
+      {
+        "keyword": "pumpkin muffins",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate muffins",
+        "volume": 49500,
+        "competition": 28
+      },
+      {
+        "keyword": "pumpkin muffin recipe",
+        "volume": 49500,
+        "competition": 2
+      },
+      {
+        "keyword": "english muffin recipe",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "cocoa muffins",
+        "volume": 49500,
+        "competition": 28
+      },
+      {
+        "keyword": "zucchini muffins",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "banana bread muffins",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "breakfast egg muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate muffin recipe",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "healthy banana muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "apple muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "banana oatmeal muffins",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "applesauce muffins",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "banana oat muffins",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and oat muffins",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana and oatmeal muffins",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "banana bread muffins healthy",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "muffins zucchinis",
+        "volume": 40500,
+        "competition": 3
+      },
+      {
+        "keyword": "egg muffins recipe",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "lemon poppy seed muffins",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "lemon and poppy seed muffin",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "jiffy cornbread mix",
+        "volume": 27100,
+        "competition": 70
+      },
+      {
+        "keyword": "jiffy corn muffin mix",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "sourdough english muffins",
+        "volume": 27100,
+        "competition": 45
+      },
+      {
+        "keyword": "breakfast muffins",
+        "volume": 27100,
+        "competition": 26
+      },
+      {
+        "keyword": "cornbread muffins",
+        "volume": 27100,
+        "competition": 31
+      },
+      {
+        "keyword": "corn muffins",
+        "volume": 27100,
+        "competition": 31
+      },
+      {
+        "keyword": "apple cinnamon muffins",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "apple and cinnamon muffins",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "sourdough english muffin bread",
+        "volume": 27100,
+        "competition": 45
+      },
+      {
+        "keyword": "bran muffins",
+        "volume": 22200,
+        "competition": 27
+      },
+      {
+        "keyword": "easy blueberry muffins",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "blueberry muffin recipe easy",
+        "volume": 22200,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-yogurt-flatbread",
+  "title": "Tangy Yogurt Flatbread",
+  "seed_keywords": [
+    "yogurt flatbread",
+    "flatbread recipes",
+    "no yeast bread",
+    "greek yogurt dough",
+    "labneh bread"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "naan",
+        "volume": 301000,
+        "competition": 10
+      },
+      {
+        "keyword": "naan bread",
+        "volume": 135000,
+        "competition": 59
+      },
+      {
+        "keyword": "naan bread recipe",
+        "volume": 90500,
+        "competition": 2
+      },
+      {
+        "keyword": "naan flatbread recipe",
+        "volume": 90500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe with naan bread",
+        "volume": 90500,
+        "competition": 2
+      },
+      {
+        "keyword": "naan recipe",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "socca",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cheese naan bread",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "make naan",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe with naan",
+        "volume": 74000,
+        "competition": 2
+      },
+      {
+        "keyword": "flatbread recipes",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "pan pita recipe",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for flat bread",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe with flatbread",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "flat bread",
+        "volume": 49500,
+        "competition": 52
+      },
+      {
+        "keyword": "flatbread pizza",
+        "volume": 40500,
+        "competition": 14
+      },
+      {
+        "keyword": "lefse",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "no knead bread recipe",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "american flat bread",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "basic naan bread recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese flatbread",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "easiest naan recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "easy naan bread recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "easy naan recipe",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "pizza bread without yeast",
+        "volume": 22200,
+        "competition": 11
+      },
+      {
+        "keyword": "flat bread recipes",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cinnamon roll recipes without yeast",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "folded flatbread recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "yogurt flatbread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "naan pizza",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "garlic naan recipe",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "naan flatbread pizza",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "flat bread recipe with yoghurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flat bread with yoghurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread recipe with yogurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread recipe yoghurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread with yogurt",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread with yogurt recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "flatbread yogurt recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "garlic naan bread recipe",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "making garlic naan",
+        "volume": 14800,
+        "competition": 0
+      },
+      {
+        "keyword": "naan bread for pizza",
+        "volume": 14800,
+        "competition": 11
+      },
+      {
+        "keyword": "yoghurt flat bread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flat bread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flatbread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flatbread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yoghurt flatbreads recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt flat bread",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt flat bread recipe",
+        "volume": 14800,
+        "competition": 1
+      },
+      {
+        "keyword": "yogurt flatbreads recipe",
+        "volume": 14800,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "wild-rice-salad-pork",
+  "title": "Wild Rice Salad with Grilled Pork",
+  "seed_keywords": [
+    "wild rice salad",
+    "grilled pork salad",
+    "pork chops recipes",
+    "asian sesame salad",
+    "grilled pork dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pork chops recipes",
+        "volume": 368000,
+        "competition": 17
+      },
+      {
+        "keyword": "pork chops",
+        "volume": 246000,
+        "competition": 24
+      },
+      {
+        "keyword": "pork c",
+        "volume": 246000,
+        "competition": 24
+      },
+      {
+        "keyword": "air fryer pork chops",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "pork chops in an air fryer",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "air fryer fried pork chops",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "fried pork chops in air fryer",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "baked pork chops",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "crock pot pork chops",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker pork chops",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "bake pork loin chops",
+        "volume": 90500,
+        "competition": 10
+      },
+      {
+        "keyword": "crock pot pork loin chops",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "pork loin chops in slow cooker",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "chop suey recipe",
+        "volume": 74000,
+        "competition": 7
+      },
+      {
+        "keyword": "asian cucumber salad",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "baked pork chop recipes",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "pork chops in oven",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "pork chop marinade",
+        "volume": 60500,
+        "competition": 4
+      },
+      {
+        "keyword": "crockpot pork chop recipes",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "slow cooker pork chop recipes",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "oven pork loin chops",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "boneless pork chop recipes",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "smothered pork chops",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "boneless pork loin chop recipes",
+        "volume": 49500,
+        "competition": 12
+      },
+      {
+        "keyword": "oven baked pork chops",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "fried pork chops",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "fried pork loin chops",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "fried porkchop",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "making pork chops in the oven",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "oven baked pork loin chops",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled pork chops",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pan fried pork chops",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "grilled pork loin chops",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "pan fried pork chop recipes",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "frying pork chops in skillet",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "pan fried pork loin chops",
+        "volume": 33100,
+        "competition": 6
+      },
+      {
+        "keyword": "pork chop cutlets",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "breaded pork chops",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "brining pork chops",
+        "volume": 27100,
+        "competition": 11
+      },
+      {
+        "keyword": "asian cucumber salad recipe",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "breaded pork loin chops",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "breaded porkchop",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed pork chops",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "seasoning for pork chops",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "air fryer pork chop recipes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "mushroom soup pork chops",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "cream of mushroom pork chops",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "pork chops with cream of mushroom soup",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "pork chop air fryer recipes",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "air fry pork chop recipe",
+        "volume": 22200,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-corn-avocado-salad",
+  "title": "Zesty Corn Avocado Salad",
+  "seed_keywords": [
+    "corn avocado salad",
+    "fresh corn salad",
+    "avocado salad recipes",
+    "mexican corn salad",
+    "cilantro lime dressing"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "avocado salad",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "aguacate salad",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "avocado and salad",
+        "volume": 49500,
+        "competition": 7
+      },
+      {
+        "keyword": "mexicancorn",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "mexican corn recipe",
+        "volume": 33100,
+        "competition": 4
+      },
+      {
+        "keyword": "salad mexican",
+        "volume": 33100,
+        "competition": 9
+      },
+      {
+        "keyword": "mexican street corn salad",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "mexican st corn salad",
+        "volume": 27100,
+        "competition": 13
+      },
+      {
+        "keyword": "mexican corn salad",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "cilantro lime dressing",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "cilantro lime salad dressing",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "cilantro and lime dressing",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "cilantro and lime salad dressing",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "coriander lime dressing",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "lime and coriander salad dressing",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "lime coriander salad dressing",
+        "volume": 18100,
+        "competition": 50
+      },
+      {
+        "keyword": "cilantro lime sauce",
+        "volume": 14800,
+        "competition": 53
+      },
+      {
+        "keyword": "cilantro and lime sauce",
+        "volume": 14800,
+        "competition": 53
+      },
+      {
+        "keyword": "avocado salad recipes",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "avocado dressing",
+        "volume": 12100,
+        "competition": 46
+      },
+      {
+        "keyword": "avocado lime ranch",
+        "volume": 12100,
+        "competition": 65
+      },
+      {
+        "keyword": "esquites recipe",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado ranch lime dressing",
+        "volume": 12100,
+        "competition": 65
+      },
+      {
+        "keyword": "elote salad",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "avocado lime ranch salad dressing",
+        "volume": 12100,
+        "competition": 65
+      },
+      {
+        "keyword": "mexican salads recipe",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "cucumber avocado salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "street corn salad",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "avocado & egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado and egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado salad egg",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado with egg salad",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "corn street salad",
+        "volume": 9900,
+        "competition": 9
+      },
+      {
+        "keyword": "cucumber with avocado salad",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "egg salad using avocado",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "salad with avocado and egg",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado salad dressing",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "avocado chicken salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado & mango salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado & shrimp salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado and shrimp salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "avocado salad sauce",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "avocado salad with mango",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken salad in an avocado",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "mexican pasta salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "mexican street corn pasta salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "salad dressing for avocado salad",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "salad dressing using avocado",
+        "volume": 6600,
+        "competition": 38
+      },
+      {
+        "keyword": "street corn pasta salad",
+        "volume": 6600,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

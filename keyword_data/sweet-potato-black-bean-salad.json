@@ -1,0 +1,267 @@
+{
+  "slug": "sweet-potato-black-bean-salad",
+  "title": "Sweet Potato Black Bean Salad",
+  "seed_keywords": [
+    "sweet potato salad",
+    "black bean salad",
+    "roasted sweet potato corn",
+    "lime yogurt dressing",
+    "mexican bean salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipe for bean salad",
+        "volume": 40500,
+        "competition": 5
+      },
+      {
+        "keyword": "sweet potato salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "kumara and potato salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "kumara potato salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "potato and sweet potato salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "potato salad sweet potato",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato and salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato for salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato with salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean and corn salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "bean salad with black beans",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "black beans in a salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "cornand black bean salad",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "japanese potatoes salad",
+        "volume": 12100,
+        "competition": 0
+      },
+      {
+        "keyword": "potato dressing salad",
+        "volume": 9900,
+        "competition": 14
+      },
+      {
+        "keyword": "sweet potato salad recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "bean & corn salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "bean and corn salad",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "potato and sweet potato salad recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "potato salad recipe with sweet potatoes",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "sweet potato salad ideas",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican bean salad",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "black bean salad recipe",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "black bean salad ideas",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "black beans recipe salad",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "japanese potato",
+        "volume": 5400,
+        "competition": 36
+      },
+      {
+        "keyword": "korean potato salad",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for southwest salad",
+        "volume": 5400,
+        "competition": 5
+      },
+      {
+        "keyword": "black bean corn salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "black bean and corn salad recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean corn salad recipe",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "black bean salad recipe with corn",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "black eyed bean salad",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "beans salad dressing",
+        "volume": 3600,
+        "competition": 3
+      },
+      {
+        "keyword": "black bean and quinoa salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean quinoa salad",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "bean corn",
+        "volume": 2900,
+        "competition": 12
+      },
+      {
+        "keyword": "kale & sweet potato salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "kale and sweet potato salad",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "kale salad sweet potato",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "roast sweet potato salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "avocado black bean corn salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "avocado corn and black bean salad",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "beet and sweet potato salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "beet sweet potato salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot and sweet potato salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "beetroot sweet potato salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "black bean and chick pea salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "black bean and corn recipe",
+        "volume": 1900,
+        "competition": 5
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

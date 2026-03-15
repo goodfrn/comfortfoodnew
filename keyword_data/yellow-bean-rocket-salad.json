@@ -1,0 +1,267 @@
+{
+  "slug": "yellow-bean-rocket-salad",
+  "title": "Yellow Bean Rocket Salad",
+  "seed_keywords": [
+    "yellow bean salad",
+    "rocket salad recipes",
+    "blanched vegetable salad",
+    "sherry vinegar dressing",
+    "green bean tomato salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "rocket salad",
+        "volume": 49500,
+        "competition": 30
+      },
+      {
+        "keyword": "rocket leaves",
+        "volume": 22200,
+        "competition": 50
+      },
+      {
+        "keyword": "arugula rocket lettuce",
+        "volume": 8100,
+        "competition": 33
+      },
+      {
+        "keyword": "pear and rocket salad",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "pear & rocket salad",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "salad rocca",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "rocket salad recipes",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "rocca salad recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "rocket salad ideas",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "roquette salad recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "sherry vinaigrette",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "green bean and tomato",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "green bean tomato",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "pesto rocket",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "rocket and arugula",
+        "volume": 2400,
+        "competition": 22
+      },
+      {
+        "keyword": "sherry wine vinaigrette",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "parmesan and rocket salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "parmesan rocket salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "rocket & parmesan salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "pear and parmesan rocket salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "pear parmesan rocket salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "pear rocket and walnut salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "pear rocket salad walnut",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "pear rocket walnut salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "rocket and parmesan salad pear",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "rocket pear salad walnut",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "walnut pear rocket salad",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "green bean tomato salad",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "green bean and tomato salad",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "rocket leaves salad",
+        "volume": 1300,
+        "competition": 64
+      },
+      {
+        "keyword": "beet rocket salad",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "beetroot and rocket salad",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "dressing for rocca salad",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "dressing for rocket",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "dressing for rocket salad",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "pear and rocket salad recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "pear rocket salad recipe",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "pumpkin & rocket salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin and rocket salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe pear and rocket salad",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "salad dressing for rocket",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "wild rocket salad",
+        "volume": 590,
+        "competition": 44
+      },
+      {
+        "keyword": "sherry vinegar dressing",
+        "volume": 480,
+        "competition": 9
+      },
+      {
+        "keyword": "dressed rocket",
+        "volume": 480,
+        "competition": 74
+      },
+      {
+        "keyword": "fennel and rocket salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "fennel rocket salad",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "italian rocket salad",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "rocket and parmesan",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "rocket and spinach salad",
+        "volume": 480,
+        "competition": 10
+      },
+      {
+        "keyword": "rocket and tomato salad",
+        "volume": 480,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

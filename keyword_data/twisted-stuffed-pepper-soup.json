@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-stuffed-pepper-soup",
+  "title": "Twisted Stuffed Pepper Soup",
+  "seed_keywords": [
+    "stuffed pepper soup",
+    "ground beef soup",
+    "bell pepper soup",
+    "beef tomato soup",
+    "one pot dinner"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "one pot meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pan meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one dish meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "1 pot meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot meals recipes",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "easy crock pot meal",
+        "volume": 74000,
+        "competition": 37
+      },
+      {
+        "keyword": "one pot meal ideas",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "single pan meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "0ne pot meals",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pan meals for one",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot dishes recipes",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot lunch",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot meals for one",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "one pot one meal",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "single pot meal",
+        "volume": 74000,
+        "competition": 25
+      },
+      {
+        "keyword": "hamburger soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamb soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger and soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "soup using hamburger",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "hamburger beef soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "hamburger meat soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "soup recipes made with hamburger",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "soup recipes using hamburger",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "stuffed pepper soup",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "filled pepper soup",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed red pepper soup",
+        "volume": 33100,
+        "competition": 5
+      },
+      {
+        "keyword": "one pot meal pasta",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "one pot pasta ideas",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot dinner ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "crock pot supper ideas",
+        "volume": 22200,
+        "competition": 36
+      },
+      {
+        "keyword": "pepper soup",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "beef soup ideas",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "one pot chicken & rice",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot chicken and rice dishes",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "one pot chicken rice dish",
+        "volume": 22200,
+        "competition": 1
+      },
+      {
+        "keyword": "soup recipes with beef",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "ground beef soup",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "one pan dinner ideas",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one pot dinner ideas",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one pan dinner recipes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one pot recipes for dinner",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "chicken crock pot meal",
+        "volume": 18100,
+        "competition": 30
+      },
+      {
+        "keyword": "one dish dinner ideas",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "one dish dinner recipes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "1 pot dinner recipes",
+        "volume": 18100,
+        "competition": 23
+      },
+      {
+        "keyword": "beef and vegetables soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef hamburger soup",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef mince soup",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef soup with ground beef",
+        "volume": 18100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

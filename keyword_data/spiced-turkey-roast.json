@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-turkey-roast",
+  "title": "Spiced Turkey Roast with Carrots",
+  "seed_keywords": [
+    "spiced turkey roast",
+    "roasted turkey dinner",
+    "turkey with chickpeas",
+    "curry roasted vegetables",
+    "stuffed turkey breast"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "dressing for turkey recipe",
+        "volume": 33100,
+        "competition": 15
+      },
+      {
+        "keyword": "christmas roast turkey dinner",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "roast turkey christmas dinner",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "roast turkey xmas dinner",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "rolled turkey",
+        "volume": 12100,
+        "competition": 45
+      },
+      {
+        "keyword": "roasted turkey dinner",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "roast dinner turkey",
+        "volume": 9900,
+        "competition": 16
+      },
+      {
+        "keyword": "stuffed turkey breast",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "filled turkey breast",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "stuffing stuffed turkey breast",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "turkey breast and stuffing",
+        "volume": 3600,
+        "competition": 16
+      },
+      {
+        "keyword": "cooked turkey for thanksgiving",
+        "volume": 2900,
+        "competition": 38
+      },
+      {
+        "keyword": "cooking turkey on thanksgiving",
+        "volume": 2900,
+        "competition": 38
+      },
+      {
+        "keyword": "rolled deboned turkey",
+        "volume": 1900,
+        "competition": 47
+      },
+      {
+        "keyword": "pre cooked turkey for thanksgiving",
+        "volume": 1600,
+        "competition": 30
+      },
+      {
+        "keyword": "recipe for stuffed turkey breast",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "roast turkey spices",
+        "volume": 1600,
+        "competition": 19
+      },
+      {
+        "keyword": "seasoned roast turkey",
+        "volume": 1600,
+        "competition": 19
+      },
+      {
+        "keyword": "stuffing recipe for turkey breast",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "turkey breast and stuffing recipe",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "turkey breast recipe with stuffing",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "stuffed turkey roll",
+        "volume": 1300,
+        "competition": 19
+      },
+      {
+        "keyword": "recipe for turkey roulade",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "rolled turkey recipe",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "stuffing for turkey roll",
+        "volume": 1300,
+        "competition": 19
+      },
+      {
+        "keyword": "turkey and stuffing roll",
+        "volume": 1300,
+        "competition": 19
+      },
+      {
+        "keyword": "turkey stuffed roll",
+        "volume": 1300,
+        "competition": 19
+      },
+      {
+        "keyword": "cooking time for turkey breast roll",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "rolled turkey cooking time",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "turkey stuffing recipes with sausage",
+        "volume": 880,
+        "competition": 12
+      },
+      {
+        "keyword": "rolled stuffed turkey breast",
+        "volume": 720,
+        "competition": 19
+      },
+      {
+        "keyword": "rolled and stuffed turkey breast",
+        "volume": 720,
+        "competition": 19
+      },
+      {
+        "keyword": "stuffed and rolled turkey breast",
+        "volume": 720,
+        "competition": 19
+      },
+      {
+        "keyword": "stuffing for rolled turkey breast",
+        "volume": 720,
+        "competition": 19
+      },
+      {
+        "keyword": "turai ki sabzi",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cooked turkey for thanksgiving near me",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "ordering cooked turkey for thanksgiving",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "buying cooked turkey for thanksgiving",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "butterflied turkey breast",
+        "volume": 590,
+        "competition": 20
+      },
+      {
+        "keyword": "cranberry stuffed turkey",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for turkey breast roll",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "turkey roulade ina garten",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "curry roasted vegetables",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "turkey breast for christmas dinner",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "cooked turkey dinner thanksgiving",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cooking a rolled turkey",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "cooking a turkey breast roll",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "cooking rolled breast of turkey",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot turkey breast and dressing",
+        "volume": 480,
+        "competition": 3
+      },
+      {
+        "keyword": "crock pot turkey breast and stuffing",
+        "volume": 480,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

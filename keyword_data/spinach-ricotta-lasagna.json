@@ -1,0 +1,267 @@
+{
+  "slug": "spinach-ricotta-lasagna",
+  "title": "Spinach Ricotta Lasagna Revamp",
+  "seed_keywords": [
+    "whole wheat lasagna",
+    "spinach ricotta filling",
+    "baked spinach cheese",
+    "lasagna with thyme",
+    "smoked gouda lasagna"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "warm artichoke spinach dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "spinach and artichoke dip warm",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "warm artichoke and spinach dip",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "spinach dip warm",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe baked feta",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe spinach ricotta",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "warm spinach dip recipe",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "ravioli cheese filling ricotta",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "ravioli ricotta filling",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "egg bake with cottage cheese and spinach",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach cottage cheese egg bake",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "baked spinach artichoke dip",
+        "volume": 1300,
+        "competition": 7
+      },
+      {
+        "keyword": "baked spinach cheese",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "baked spinach dip",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "baked artichoke dip",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "bake spinach with cheese",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "baked spinach and cheese",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for manicotti with spinach",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "ricotta filled pasta",
+        "volume": 1000,
+        "competition": 19
+      },
+      {
+        "keyword": "barilla whole wheat lasagna noodles",
+        "volume": 720,
+        "competition": 31
+      },
+      {
+        "keyword": "barilla whole grain lasagna noodles",
+        "volume": 720,
+        "competition": 31
+      },
+      {
+        "keyword": "cottage cheese spinach bake",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "cottage cheese spinach casserole",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "filling for ravioli ricotta and spinach",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "ravioli filling ricotta spinach",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "ricotta and spinach filling for ravioli",
+        "volume": 720,
+        "competition": 3
+      },
+      {
+        "keyword": "ricotta stuffed pasta",
+        "volume": 720,
+        "competition": 17
+      },
+      {
+        "keyword": "artichoke and spinach dip baked",
+        "volume": 590,
+        "competition": 5
+      },
+      {
+        "keyword": "baked spinach and ricotta",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "cannelloni filling recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "egg bake with spinach and cheese",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "egg cheese and spinach casserole",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "egg cheese spinach bake",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "egg cheese spinach casserole",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "egg spinach feta bake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "feta spinach tomato pasta",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "ricotta spinach bake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach and cheese egg bake",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "spinach and feta egg bake",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach ricotta filling",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "cream of spinach casserole",
+        "volume": 480,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for baked spinach dip",
+        "volume": 480,
+        "competition": 4
+      },
+      {
+        "keyword": "ricotta and spinach filling",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "spinach and feta bake",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "spinach feta bake",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "artichoke spinach dip recipe baked",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "baked spinach and artichoke dip recipe",
+        "volume": 390,
+        "competition": 6
+      },
+      {
+        "keyword": "cannelloni filling",
+        "volume": 390,
+        "competition": 2
+      },
+      {
+        "keyword": "pasta filled with spinach and ricotta",
+        "volume": 390,
+        "competition": 34
+      },
+      {
+        "keyword": "ravioli spinach filling",
+        "volume": 390,
+        "competition": 46
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

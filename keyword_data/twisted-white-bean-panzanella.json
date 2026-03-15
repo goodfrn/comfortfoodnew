@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-white-bean-panzanella",
+  "title": "Twisted White Bean Panzanella",
+  "seed_keywords": [
+    "white bean salad",
+    "panzanella salad",
+    "roasted tomato bread salad",
+    "pancetta salad recipes",
+    "summer italian salad"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "panzanella",
+        "volume": 165000,
+        "competition": 1
+      },
+      {
+        "keyword": "panzanella salad",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cannellini",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "panzanella recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "panzanella salad recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "italian panzanella recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "white bean salad",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "bread salad",
+        "volume": 5400,
+        "competition": 16
+      },
+      {
+        "keyword": "mediterranean bean salad",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "cannellini bean and tuna salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "cannellini bean salad with tuna",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna & white bean salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "tuna and white bean salad",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "bean and tuna salad",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "bean salad tuna",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "cannellini bean salad",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "ina garten panzanella",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "ina garten panzanella salad",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna and beans",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "beans tuna",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "bread salad italian",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "kale and cannellini bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kale and white bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kale cannellini bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "kale white bean salad",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "recipe for white bean salad",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "bean salad italian",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "bread salad with tomatoes",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "jamie oliver panzanella",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "jamie oliver panzanella salad",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato & bread salad",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "tomato and bread salad",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "bread for panzanella",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "bread salad panzanella",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "cannellini bean salad italian",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "italian bread salad panzanella",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "italian white bean salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean cannellini bean salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "mediterranean white bean salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "salad white",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "tomato panzanella",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "tuscan panzanella",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "tuscan panzanella salad",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "white bean italian salad",
+        "volume": 880,
+        "competition": 1
+      },
+      {
+        "keyword": "bean and kale salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "bean kale salad",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "bread salad recipe",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "burrata panzanella",
+        "volume": 720,
+        "competition": 0
+      },
+      {
+        "keyword": "cannellini bean recipes salad",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken panzanella",
+        "volume": 720,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

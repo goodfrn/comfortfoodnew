@@ -1,0 +1,267 @@
+{
+  "slug": "vonnassienne-potato-crepes",
+  "title": "Vonnassienne Potato Crêpes",
+  "seed_keywords": [
+    "potato pancakes",
+    "french crêpes",
+    "mashed potato pancakes",
+    "potato flour pancakes",
+    "vonnassienne potato crêpes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "latkes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "jewish latkes",
+        "volume": 135000,
+        "competition": 1
+      },
+      {
+        "keyword": "potato pancakes",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "potato pancakes and",
+        "volume": 74000,
+        "competition": 6
+      },
+      {
+        "keyword": "potato cakes",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "potato pancake recipes",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "cooked potato pancakes",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "make potato pancakes",
+        "volume": 40500,
+        "competition": 11
+      },
+      {
+        "keyword": "latkes recipes",
+        "volume": 33100,
+        "competition": 7
+      },
+      {
+        "keyword": "potato cakes recipe",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "boxty",
+        "volume": 27100,
+        "competition": 0
+      },
+      {
+        "keyword": "cook potato cakes",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "french food crepes",
+        "volume": 27100,
+        "competition": 7
+      },
+      {
+        "keyword": "make potato cakes",
+        "volume": 27100,
+        "competition": 10
+      },
+      {
+        "keyword": "potato latkes",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "latke potato pancake",
+        "volume": 22200,
+        "competition": 5
+      },
+      {
+        "keyword": "parisian crepe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "mashed potato pancakes",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "sweet potato pancakes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "potato pancakes with mashed potatoes",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "breakfast mashed potato pancakes",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "pancakes with mashed potatoes",
+        "volume": 18100,
+        "competition": 18
+      },
+      {
+        "keyword": "sweet potato breakfast pancakes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweet potato potato pancakes",
+        "volume": 18100,
+        "competition": 3
+      },
+      {
+        "keyword": "sweet potato potato cakes",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "german potato pancakes",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "german latkes",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "german potato latkes",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "make potato latkes",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "potato latke recipes",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "recipes for latkes potato pancakes",
+        "volume": 9900,
+        "competition": 8
+      },
+      {
+        "keyword": "mashed potato cakes",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "mashed potato potato cakes",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "potato pancakes polish",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "hanukkah and latkes",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "hanukkah food latkes",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "hanukkah potato pancake",
+        "volume": 6600,
+        "competition": 0
+      },
+      {
+        "keyword": "polish potato latkes",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes for sweet potato pancakes",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "leftover mashed potato pancakes",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "boxty recipes",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "left over mashed potato pancakes",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "leftover mashed potatoes potato pancakes",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "pancakes from leftover mashed potatoes",
+        "volume": 5400,
+        "competition": 18
+      },
+      {
+        "keyword": "the french crêpe",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "boxty ireland",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "boxty irish",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "boxty irish food",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "easy latke recipes",
+        "volume": 3600,
+        "competition": 11
+      },
+      {
+        "keyword": "jewish potato latkes",
+        "volume": 2900,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

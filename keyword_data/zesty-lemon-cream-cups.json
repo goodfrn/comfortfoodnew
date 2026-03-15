@@ -1,0 +1,267 @@
+{
+  "slug": "zesty-lemon-cream-cups",
+  "title": "Zesty Lemon Cream Cups",
+  "seed_keywords": [
+    "no bake lemon desserts",
+    "cream cheese frosting",
+    "lemon chilled treats",
+    "whipped cream desserts",
+    "frozen lemon cups"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cream cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "creamcheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese cream frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese icing with cream",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "frosting using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "icing using cream cheese",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "philadelphia cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese frosting",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "soft cheese icing",
+        "volume": 201000,
+        "competition": 13
+      },
+      {
+        "keyword": "cream cheese frosting recipe",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "cream cheese icing",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "lemon square cake",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "cream cheese frosting for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese frosting recipe for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing recipe for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake and cream cheese frosting",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake and cream cheese icing",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake cream cheese topping",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "icing for carrot cake cream cheese",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "soft cheese icing for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing recipe",
+        "volume": 27100,
+        "competition": 12
+      },
+      {
+        "keyword": "cream cheese frosting for cinnamon rolls",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cream cheese icing for cinnamon rolls",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cake in cream",
+        "volume": 27100,
+        "competition": 35
+      },
+      {
+        "keyword": "cinnamon bun cream cheese frosting",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "cinnamon bun cream cheese icing",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "frosting for cinnamon rolls with cream cheese",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "icing for cinnamon rolls with cream cheese",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "carrotcake cupcakes",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "chocolate cream cheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate cream cheese icing",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesecake recipe lemon no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate and cream cheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate creamcheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "citrus cheesecake no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cocoa cream cheese frosting",
+        "volume": 18100,
+        "competition": 1
+      },
+      {
+        "keyword": "lemon cheesecake unbaked",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon no cook cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "unbaked lemon cheesecake recipe",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "uncooked lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "whipped toppings",
+        "volume": 18100,
+        "competition": 78
+      },
+      {
+        "keyword": "lemon icebox pie",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "whipped cream cake",
+        "volume": 14800,
+        "competition": 64
+      },
+      {
+        "keyword": "carrot cake icing",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "cream cheese frosting for red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cream cheese icing for red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

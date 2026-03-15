@@ -1,0 +1,267 @@
+{
+  "slug": "yellow-pepper-gazpacho",
+  "title": "Yellow Pepper Gazpacho",
+  "seed_keywords": [
+    "chilled pepper soup",
+    "gazpacho recipe",
+    "roasted yellow peppers",
+    "cucumber gazpacho",
+    "cold vegetable soup"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "gazpacho",
+        "volume": 550000,
+        "competition": 2
+      },
+      {
+        "keyword": "gazpacho recipe",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "gazpacho soup",
+        "volume": 12100,
+        "competition": 5
+      },
+      {
+        "keyword": "watermelon gazpacho",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "gazpacho soup recipe",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "gazpacho ingredients",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "gazpacho soup ingredients",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "traditional gazpacho recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "authentic gazpacho recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "authentic gazpacho soup recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "cold spanish soup",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "gazpacho original",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "gazpacho original recipe",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "gazpacho recipe authentic",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "tomato cold soup",
+        "volume": 2900,
+        "competition": 0
+      },
+      {
+        "keyword": "cucumber gazpacho",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "gazpacho near me",
+        "volume": 2400,
+        "competition": 20
+      },
+      {
+        "keyword": "best gazpacho recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "gazpacho tomato",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "good gazpacho recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "great gazpacho recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "top rated gazpacho recipe",
+        "volume": 2400,
+        "competition": 5
+      },
+      {
+        "keyword": "alvalle gazpacho",
+        "volume": 1900,
+        "competition": 35
+      },
+      {
+        "keyword": "andalusian gazpacho",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "gazpacho green",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "gazpacho recipe watermelon",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "gazpacho spain",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "spanish food gazpacho",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "gazpacho recipe easy",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "basic gazpacho recipe",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "easiest gazpacho recipe",
+        "volume": 1600,
+        "competition": 3
+      },
+      {
+        "keyword": "el gazpacho",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "gazpacho jamie oliver recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "gazpacho soup recipe jamie oliver",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "gazpacho with melon",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "melon gazpacho",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "ajo blanco recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "chilled gazpacho soup",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "cold gazpacho soup",
+        "volume": 1300,
+        "competition": 1
+      },
+      {
+        "keyword": "nyt gazpacho",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "new york times gazpacho",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "ajo blanco sauce",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "gazpacho by ina garten",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "gazpacho new york times",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "gazpacho nyt",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "gazpacho recipe spain",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "gazpacho white",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "cold tomato soup spain",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "gazpacho mexican",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "cold canape recipe",
+        "volume": 720,
+        "competition": 25
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

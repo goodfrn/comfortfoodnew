@@ -1,0 +1,267 @@
+{
+  "slug": "white-chocolate-cran-pistachio-bars",
+  "title": "White Chocolate Cran-Pistachio Bars",
+  "seed_keywords": [
+    "white chocolate bars",
+    "no bake chocolate bars",
+    "chocolate pretzel mix",
+    "cranberry pistachio bars",
+    "white chocolate granola bars"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "unbaked cookie recipe",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "bake bars",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "milkybar",
+        "volume": 22200,
+        "competition": 51
+      },
+      {
+        "keyword": "no bake peanut butter bars",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "white bueno",
+        "volume": 6600,
+        "competition": 77
+      },
+      {
+        "keyword": "bakeless peanut butter bars",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake pb bars",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake peanut bar",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "oat peanut butter bars",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "unbaked peanut butter bars",
+        "volume": 6600,
+        "competition": 2
+      },
+      {
+        "keyword": "cadbury's dream",
+        "volume": 2900,
+        "competition": 55
+      },
+      {
+        "keyword": "no bake oatmeal bars",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "cornflake peanut butter bars",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "no bake chocolate oat bars",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake oat bars",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate oatmeal bars no bake",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake chocolate oatmeal squares",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "peanut butter and cornflake bars",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut butter cornflake squares",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut cornflake bars",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "no bake chocolate peanut butter bars",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "peanut butter oatmeal bars no bake",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate peanut butter bars recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate and peanut butter bars recipe",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "chocolate and peanut butter no bake bars",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "chocolate no bake peanut butter bars",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "hershey white",
+        "volume": 1900,
+        "competition": 61
+      },
+      {
+        "keyword": "no bake chocolate and peanut butter bars",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake chocolate peanut bars",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake chocolate peanutbutter bars",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "no bake oat bars with peanut butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake oat peanut butter bars",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake oatmeal and peanut butter bars",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake oatmeal bars peanut butter",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake peanut butter oatmeal squares",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "no bake reese bars",
+        "volume": 1900,
+        "competition": 77
+      },
+      {
+        "keyword": "no bake reese peanut butter bars",
+        "volume": 1900,
+        "competition": 77
+      },
+      {
+        "keyword": "peanut butter and chocolate no bake bars",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "reese no bake bars",
+        "volume": 1900,
+        "competition": 77
+      },
+      {
+        "keyword": "bars white",
+        "volume": 1600,
+        "competition": 10
+      },
+      {
+        "keyword": "lion bar white",
+        "volume": 1600,
+        "competition": 45
+      },
+      {
+        "keyword": "white hershey bar",
+        "volume": 1300,
+        "competition": 70
+      },
+      {
+        "keyword": "hershey's white chocolate bar",
+        "volume": 1300,
+        "competition": 80
+      },
+      {
+        "keyword": "no bake bars",
+        "volume": 1300,
+        "competition": 22
+      },
+      {
+        "keyword": "no bake peanut butter bar recipe",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "peanut butter squares recipe no bake",
+        "volume": 1300,
+        "competition": 0
+      },
+      {
+        "keyword": "white chocolate bar hershey",
+        "volume": 1300,
+        "competition": 80
+      },
+      {
+        "keyword": "cadbury dream bar",
+        "volume": 1000,
+        "competition": 71
+      },
+      {
+        "keyword": "graham cracker peanut butter bars",
+        "volume": 1000,
+        "competition": 8
+      },
+      {
+        "keyword": "milka chocolate cow",
+        "volume": 1000,
+        "competition": 78
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

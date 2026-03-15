@@ -1,0 +1,267 @@
+{
+  "slug": "stuffed-nicoise-buns",
+  "title": "Stuffed Niçoise Buns",
+  "seed_keywords": [
+    "tuna sandwiches",
+    "french tuna salad",
+    "stuffed sandwich buns",
+    "tuna niçoise salad",
+    "asparagus tuna filling"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "tuna melt",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna fish melt sandwich",
+        "volume": 135000,
+        "competition": 2
+      },
+      {
+        "keyword": "tunafish recipe",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna sandwiches",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "tuna melt recipe",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna sandwich recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna salad sandwich recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna fish sandwich recipe",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna melt sandwich recipe",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "ideas for tuna sandwiches",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe sandwich tuna",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna and sandwich",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "tuna fish melt sandwich recipe",
+        "volume": 49500,
+        "competition": 10
+      },
+      {
+        "keyword": "tuna fish sandwich ideas",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna for tuna sandwich",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "tuna salad sandwich ideas",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "tuna sammich",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "tuna niçoise salad",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna nicoise",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "salade nicoise recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "nicoise recipe",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna salad sandwich",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna fish salad sandwich",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna and salad sandwich",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna salad sand",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "tuna melt near me",
+        "volume": 12100,
+        "competition": 17
+      },
+      {
+        "keyword": "tuna sandwich near me",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "tuna fish sandwich near me",
+        "volume": 12100,
+        "competition": 23
+      },
+      {
+        "keyword": "tuna and egg salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "egg salad tuna",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna fish and egg salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna fish egg salad",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "tuna melt sandwich",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "sandwich tuna melt",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "tuna cheese melt sandwich",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "tunacado",
+        "volume": 9900,
+        "competition": 0
+      },
+      {
+        "keyword": "tuna fish sandwich",
+        "volume": 8100,
+        "competition": 7
+      },
+      {
+        "keyword": "subway sandwich tuna",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "subway tuna fish sandwich",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna fish sandwich subway",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "subway tuna",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna egg sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "egg and tuna sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna & egg sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "tuna fish and egg sandwich",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "best tuna sandwich recipe",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "tuna mayo sandwich",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "tuna sub",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "best recipe for tuna fish sandwich",
+        "volume": 4400,
+        "competition": 7
+      },
+      {
+        "keyword": "good tuna sandwich recipe",
+        "volume": 4400,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

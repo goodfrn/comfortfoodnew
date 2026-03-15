@@ -1,0 +1,267 @@
+{
+  "slug": "sweet-potato-pepper-frittata",
+  "title": "Sweet Potato Pepper Frittata",
+  "seed_keywords": [
+    "sweet potato frittata",
+    "frittata with vegetables",
+    "roasted sweet potato eggs",
+    "vegetable egg bake",
+    "cheese and pepper frittata"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "frittata with vegetables",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "frittata veg",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "frittata potato",
+        "volume": 8100,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetable frittata recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "frittata recipe veggie",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "vegetable breakfast casserole",
+        "volume": 4400,
+        "competition": 3
+      },
+      {
+        "keyword": "vegetable egg bake",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg and vegetable casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg and veggie casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg vegetable casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked egg veggie casserole",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs and vegetables",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs and veggies",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "baked eggs with veggies",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "broccolini frittata",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "potato and eggs frittata",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "sweet potato frittata",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "egg & veggie casserole",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "egg and vegetable casserole",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "egg and veggie casserole",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "egg casserole vegetable",
+        "volume": 1900,
+        "competition": 2
+      },
+      {
+        "keyword": "frittata spinach feta",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata with feta and spinach",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "kumara frittata",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "bell pepper frittata",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "breakfast casserole with veggies",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "frittata peppers",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata red pepper",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata roasted vegetable",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata with roasted vegetables",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "roast veg frittata",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "veggie breakfast bake",
+        "volume": 1000,
+        "competition": 2
+      },
+      {
+        "keyword": "frittata leek",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "leek frittata",
+        "volume": 880,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable frittata recipe jamie oliver",
+        "volume": 720,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata with tomatoes",
+        "volume": 720,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and cheese frittata",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese broccoli frittata",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "egg bake recipe veggie",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "frittata spinach tomato",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "frittata with spinach and tomatoes",
+        "volume": 590,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for vegetarian egg casserole",
+        "volume": 590,
+        "competition": 3
+      },
+      {
+        "keyword": "sweet potato omelette",
+        "volume": 590,
+        "competition": 0
+      },
+      {
+        "keyword": "vegetable egg bake recipe",
+        "volume": 590,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus and egg bake",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "baked eggs asparagus",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "egg casserole asparagus",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "eggs and asparagus casserole",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "frittata swiss chard",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "frittata with swiss chard",
+        "volume": 480,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

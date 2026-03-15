@@ -1,0 +1,267 @@
+{
+  "slug": "spelt-cauliflower-gratin",
+  "title": "Spelt Cauliflower Gratin",
+  "seed_keywords": [
+    "cauliflower gratin",
+    "spelt grain recipes",
+    "baked cauliflower cheese",
+    "vegetarian grain bake",
+    "creamy cauliflower dishes"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cauliflower gratin",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "baked cauliflower cheese",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked cauli and cheese",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "baked cauliflower and cheese",
+        "volume": 6600,
+        "competition": 5
+      },
+      {
+        "keyword": "cauliflower au gratin",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and cauli bake",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cauliflower & broccoli bake",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "cauliflower cheese jamie oliver",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "bread recipe spelt",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "spelt loaf recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "spelt wheat bread recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "baked broccoli and cauliflower with cheese",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "baked cauliflower parmesan",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "broccoli & cauliflower cheese bake",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and cauliflower cheese casserole",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "cauliflower cheese roasted",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cauliflower parmesan roasted",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "cauliflower roasted with cheese",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cheesy broccoli and cauliflower bake",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "cream of cauliflower soup recipes",
+        "volume": 2900,
+        "competition": 11
+      },
+      {
+        "keyword": "roasted cauliflower and cheese",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted cauliflower and parmesan",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted cauliflower with parmesan cheese",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "spelt flour recipes",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "cauliflower and broccoli bake",
+        "volume": 2400,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe using spelt flour",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "spelt flour bread",
+        "volume": 1900,
+        "competition": 60
+      },
+      {
+        "keyword": "cheesy cauliflower bake",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "au gratin cauliflower recipe",
+        "volume": 1900,
+        "competition": 8
+      },
+      {
+        "keyword": "broccoli and cauliflower cheese",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "cauliflower gratin recipe",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "cheesy cauliflower dish",
+        "volume": 1900,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for sourdough spelt bread",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe for spelt sourdough bread",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe spelt sourdough bread",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "sourdough spelt recipe",
+        "volume": 1600,
+        "competition": 2
+      },
+      {
+        "keyword": "spelt grain recipes",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "spelt recipes",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "baking with spelt flour",
+        "volume": 1300,
+        "competition": 28
+      },
+      {
+        "keyword": "broccoli & cauliflower gratin",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "broccoli and cauliflower gratin",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "cauliflower & broccoli gratin",
+        "volume": 1300,
+        "competition": 4
+      },
+      {
+        "keyword": "recipes using spelt",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "spelt dishes",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "spelt meals",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "spelt pancake",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "spelt wheat recipes",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "baked cauliflower and cheese recipe",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked cauliflower cheese recipe",
+        "volume": 1000,
+        "competition": 4
+      },
+      {
+        "keyword": "baked pasta with cauliflower",
+        "volume": 1000,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

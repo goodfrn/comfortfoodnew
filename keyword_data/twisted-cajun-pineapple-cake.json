@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-cajun-pineapple-cake",
+  "title": "Twisted Cajun Pineapple Cake",
+  "seed_keywords": [
+    "pineapple cake",
+    "walnut cake recipes",
+    "coconut pineapple dessert",
+    "baked pineapple desserts",
+    "cajun spiced cake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "pineapple upside down cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "inverted pineapple cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple pineapple upside down cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple turn over cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple up and down cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "pineapple updown cake",
+        "volume": 201000,
+        "competition": 22
+      },
+      {
+        "keyword": "upside down pineapple",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "pineapple cake",
+        "volume": 60500,
+        "competition": 67
+      },
+      {
+        "keyword": "chia te bakery",
+        "volume": 60500,
+        "competition": 14
+      },
+      {
+        "keyword": "painpal cake",
+        "volume": 60500,
+        "competition": 67
+      },
+      {
+        "keyword": "pineapple cake pineapple cake",
+        "volume": 60500,
+        "competition": 67
+      },
+      {
+        "keyword": "pineapple pineapple cake",
+        "volume": 60500,
+        "competition": 67
+      },
+      {
+        "keyword": "coffee and walnut cake",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "upside down cake",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "cake mix upside down cake",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "coffee walnut",
+        "volume": 22200,
+        "competition": 12
+      },
+      {
+        "keyword": "pineapple cake decorating",
+        "volume": 14800,
+        "competition": 26
+      },
+      {
+        "keyword": "pineapple cake designs",
+        "volume": 14800,
+        "competition": 26
+      },
+      {
+        "keyword": "pineapple upside down cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "walnut cake",
+        "volume": 12100,
+        "competition": 39
+      },
+      {
+        "keyword": "pineapple upside down cake from box",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake with box mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "box cake mix pineapple upside down cake",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside cake using cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake made with cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake using a cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake using box cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake using box mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake with box cake",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "pineapple upside down cake with pineapple cake mix",
+        "volume": 12100,
+        "competition": 32
+      },
+      {
+        "keyword": "easy pineapple upside down cake",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "date and walnut cake",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "coffee & walnut cake recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "coffee and walnut cake recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "coffee and walnut recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "coffee walnut recipe",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "cupcake pineapple upside down cake",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "date & walnut cake",
+        "volume": 9900,
+        "competition": 10
+      },
+      {
+        "keyword": "easy pineapple upside cake",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "easy pineapple upside down",
+        "volume": 9900,
+        "competition": 13
+      },
+      {
+        "keyword": "pineapple upside down cup cake",
+        "volume": 9900,
+        "competition": 4
+      },
+      {
+        "keyword": "pineapple coconut cake",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "banana walnut cake",
+        "volume": 6600,
+        "competition": 41
+      },
+      {
+        "keyword": "pina colada cake",
+        "volume": 6600,
+        "competition": 10
+      },
+      {
+        "keyword": "banana nut bread from a cake mix",
+        "volume": 6600,
+        "competition": 18
+      },
+      {
+        "keyword": "cake with coconut and pineapple",
+        "volume": 6600,
+        "competition": 22
+      },
+      {
+        "keyword": "carrot & pineapple cake",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "carrot and pineapple cake",
+        "volume": 6600,
+        "competition": 3
+      },
+      {
+        "keyword": "carrot cake using pineapple",
+        "volume": 6600,
+        "competition": 3
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

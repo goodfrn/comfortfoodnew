@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-pecan-cheesecake",
+  "title": "Twisted Pecan Cheesecake",
+  "seed_keywords": [
+    "pecan cheesecake",
+    "cheesecake with pecans",
+    "graham cracker crust",
+    "cream cheese dessert",
+    "pecan pie cake"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cheesecakes no bake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "no cooking cheesecake",
+        "volume": 201000,
+        "competition": 80
+      },
+      {
+        "keyword": "strawberry cake with cheesecake",
+        "volume": 90500,
+        "competition": 48
+      },
+      {
+        "keyword": "graham cracker crust",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "graham cracker pie crust",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake recipe",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "philadelphia cream cheese no bake cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "cheesecake bread",
+        "volume": 49500,
+        "competition": 31
+      },
+      {
+        "keyword": "recipe for easy cheesecake",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "crust graham",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "graham cookie crust",
+        "volume": 49500,
+        "competition": 55
+      },
+      {
+        "keyword": "no bake philadelphia cream cheesecake",
+        "volume": 49500,
+        "competition": 61
+      },
+      {
+        "keyword": "lemon cheese cake",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "graham cracker crumbs for cheesecake",
+        "volume": 40500,
+        "competition": 0
+      },
+      {
+        "keyword": "pumpkin cake cheesecake",
+        "volume": 40500,
+        "competition": 33
+      },
+      {
+        "keyword": "graham cracker crust recipe",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "cream cheese icing for carrot cake",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot cake with cream cheese frosting",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "graham cracker pie crust recipe",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "cheese mango cake",
+        "volume": 33100,
+        "competition": 14
+      },
+      {
+        "keyword": "cheesecake sopapilla",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "crust graham recipe",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "lemon cheesecake recipes",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "recipes with graham cracker crust",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "recipes with graham pie crust",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "philadelphia cheesecake",
+        "volume": 27100,
+        "competition": 51
+      },
+      {
+        "keyword": "cheesecake cream cheese recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "neufchatel cheesecake",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "no bake cheesecake filling",
+        "volume": 22200,
+        "competition": 67
+      },
+      {
+        "keyword": "cheesecake brownies",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "carrot cake cup cake",
+        "volume": 22200,
+        "competition": 24
+      },
+      {
+        "keyword": "cheesecake and brownie",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "cheesecake brownie cake",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "oreo truffle",
+        "volume": 22200,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe eton mess",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "cheese cake oreo",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "cheesecake recipe lemon no bake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "lemon no bake cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe pumpkin bars",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "uncooked lemon cheesecake",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "turtle cheesecake",
+        "volume": 14800,
+        "competition": 57
+      },
+      {
+        "keyword": "philadelphia no bake cheesecake filling",
+        "volume": 14800,
+        "competition": 30
+      },
+      {
+        "keyword": "cream cheese frosting for red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "graham cracker crust for cheesecake",
+        "volume": 14800,
+        "competition": 2
+      },
+      {
+        "keyword": "cream cheese icing for red velvet cake",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "bailey cheese cake",
+        "volume": 14800,
+        "competition": 6
+      },
+      {
+        "keyword": "cheese cake homemade",
+        "volume": 14800,
+        "competition": 7
+      },
+      {
+        "keyword": "cheese cream for cheesecake",
+        "volume": 14800,
+        "competition": 24
+      },
+      {
+        "keyword": "cheesecake cinnamon rolls",
+        "volume": 14800,
+        "competition": 6
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

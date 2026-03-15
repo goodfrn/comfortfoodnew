@@ -1,0 +1,267 @@
+{
+  "slug": "vegetable-broth-remix",
+  "title": "Vegetable Broth Remix",
+  "seed_keywords": [
+    "homemade vegetable broth",
+    "vegetable broth recipe",
+    "mushroom herb broth",
+    "simmered root vegetables",
+    "smoked paprika broth"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "vegetable broth",
+        "volume": 40500,
+        "competition": 71
+      },
+      {
+        "keyword": "vegetable stock",
+        "volume": 27100,
+        "competition": 76
+      },
+      {
+        "keyword": "soup stock vegetables",
+        "volume": 27100,
+        "competition": 76
+      },
+      {
+        "keyword": "chicken veggies soup",
+        "volume": 22200,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken vegetable soup",
+        "volume": 18100,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken and vegetable soup recipes",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken soup vegetables recipe",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetable for pho",
+        "volume": 18100,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetable broth recipe",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "veggie broth recipe",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "basic vegetable soup recipes",
+        "volume": 12100,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for veggie broth",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe with vegetable broth",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "vegetable stock recipe",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "veggie stock recipe",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "recipe with vegetable stock",
+        "volume": 9900,
+        "competition": 11
+      },
+      {
+        "keyword": "vegetable broth soup",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "clear vegetable soup",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "clear veggie soup",
+        "volume": 8100,
+        "competition": 6
+      },
+      {
+        "keyword": "soup using vegetable broth",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "veg broth soup",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "vegetable broth for soup",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "vegetable soup vegetable broth",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "noodle vegetable soup",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "veg noodle broth",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "veg pho recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetable noodle broth",
+        "volume": 6600,
+        "competition": 11
+      },
+      {
+        "keyword": "vegetable pho recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetable pho soup recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "vegetable barley broth",
+        "volume": 5400,
+        "competition": 6
+      },
+      {
+        "keyword": "vegetable broth v stock",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "veggie stock",
+        "volume": 2900,
+        "competition": 48
+      },
+      {
+        "keyword": "spicy vegetable soup",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "homemade vegetable broth",
+        "volume": 2400,
+        "competition": 20
+      },
+      {
+        "keyword": "ramen broth vegetarian",
+        "volume": 1900,
+        "competition": 27
+      },
+      {
+        "keyword": "veggie ramen broth",
+        "volume": 1900,
+        "competition": 27
+      },
+      {
+        "keyword": "homemade vegetable stock",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "homemade veggie stock",
+        "volume": 1600,
+        "competition": 16
+      },
+      {
+        "keyword": "making vegetable stock",
+        "volume": 1300,
+        "competition": 26
+      },
+      {
+        "keyword": "making vegetable broth",
+        "volume": 1300,
+        "competition": 26
+      },
+      {
+        "keyword": "cooking vegetable stock",
+        "volume": 1300,
+        "competition": 26
+      },
+      {
+        "keyword": "make veg broth",
+        "volume": 1300,
+        "competition": 26
+      },
+      {
+        "keyword": "vegetarian pho broth",
+        "volume": 1000,
+        "competition": 42
+      },
+      {
+        "keyword": "vegetable soup with chicken broth",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "veggie stock from scraps",
+        "volume": 1000,
+        "competition": 16
+      },
+      {
+        "keyword": "asian vegetable soup",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and veg broth soup",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and vegetable broth soup",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken broth and veggie soup",
+        "volume": 1000,
+        "competition": 6
+      },
+      {
+        "keyword": "recipe for vegetable broth soup",
+        "volume": 1000,
+        "competition": 4
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

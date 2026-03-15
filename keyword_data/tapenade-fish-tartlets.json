@@ -1,0 +1,267 @@
+{
+  "slug": "tapenade-fish-tartlets",
+  "title": "Tapenade Fish Tartlets",
+  "seed_keywords": [
+    "puff pastry appetizers",
+    "cod fish tartlets",
+    "olive tapenade fish",
+    "baked fish with dill",
+    "mediterranean seafood tartlets"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "recipes puff pastry",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "puff pastry appetizers",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "puff pastry appetizer recipes",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "appetisers with puff pastry",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "appetizer using puff pastry",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "appetizers in puff pastry",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "hor d oeuvres with puff pastry",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "horderves with puff pastry",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "hors d oeuvres puff pastry",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "hors d oeuvres with puff pastry",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "puff pastry appetizer ideas",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "puff pastry hors d oeuvres",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "baked brie in puff pastry",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "baked brie and puff pastry",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "baked brie cheese in puff pastry",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "puff pastry for baked brie",
+        "volume": 14800,
+        "competition": 10
+      },
+      {
+        "keyword": "savory pastry puff recipes",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "brie & cranberry in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie and cranberries in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie and puff pastry bites",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie bites in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie bites with puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cheese puff pastry bites",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cheese puff pastry cranberries",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cranberry puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberries and brie in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberry brie in puff pastry",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "puff pastry bites with brie",
+        "volume": 5400,
+        "competition": 3
+      },
+      {
+        "keyword": "brie and cranberry puff pastry bites",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "brie cranberry puff pastry bites",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberry brie bites puff pastry",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberry brie bites with puff pastry",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cranberry brie puff pastry bites",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "cream cheese puff pastries",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "feta and spinach pastry",
+        "volume": 2900,
+        "competition": 43
+      },
+      {
+        "keyword": "feta spinach pastry",
+        "volume": 2900,
+        "competition": 43
+      },
+      {
+        "keyword": "puff pastry brie cranberry bites",
+        "volume": 2900,
+        "competition": 3
+      },
+      {
+        "keyword": "baked brie in puff pastry recipe",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "recipe for baked brie with puff pastry",
+        "volume": 2400,
+        "competition": 10
+      },
+      {
+        "keyword": "salmon puff",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "savory puff pastry recipes easy",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "puff pastry bites",
+        "volume": 1300,
+        "competition": 48
+      },
+      {
+        "keyword": "brie en croute recipe",
+        "volume": 1300,
+        "competition": 11
+      },
+      {
+        "keyword": "cheese and spinach pastry",
+        "volume": 1300,
+        "competition": 53
+      },
+      {
+        "keyword": "cheese spinach pastry",
+        "volume": 1300,
+        "competition": 53
+      },
+      {
+        "keyword": "phyllo recipes savory",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "savory phyllo dough recipes",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "savory phyllo recipes",
+        "volume": 1300,
+        "competition": 8
+      },
+      {
+        "keyword": "easy puff pastry appetizers",
+        "volume": 1000,
+        "competition": 25
+      },
+      {
+        "keyword": "baked brie in phyllo",
+        "volume": 1000,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

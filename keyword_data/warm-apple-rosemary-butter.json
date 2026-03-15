@@ -1,0 +1,267 @@
+{
+  "slug": "warm-apple-rosemary-butter",
+  "title": "Warm Apple Rosemary Butter Mocktail",
+  "seed_keywords": [
+    "warm apple cider",
+    "apple mocktail drinks",
+    "simmered apple juice",
+    "rosemary butter beverage",
+    "cinnamon apple drink"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "hot apple cider",
+        "volume": 9900,
+        "competition": 58
+      },
+      {
+        "keyword": "apple cider drink hot",
+        "volume": 9900,
+        "competition": 58
+      },
+      {
+        "keyword": "hot cider drink",
+        "volume": 9900,
+        "competition": 58
+      },
+      {
+        "keyword": "hot cider spiked",
+        "volume": 4400,
+        "competition": 13
+      },
+      {
+        "keyword": "apple cider and fireball",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cider and fireball drink",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cider cinnamon whiskey",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cider fireball drink",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "drink with fireball and apple cider",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball and apple cider drink",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball and cider",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball apple cider",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball apple cider drink",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball whiskey and apple cider",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball whiskey drinks with apple cider",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball whiskey with apple cider",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball with apple cider",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "apple cider vinegar and cinnamon drink",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "apple cider vinegar drink cinnamon",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "cinnamon apple cider vinegar drink",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "cinnamon with apple cider vinegar",
+        "volume": 2400,
+        "competition": 37
+      },
+      {
+        "keyword": "warm apple cider",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "apple cider mocktail",
+        "volume": 1900,
+        "competition": 3
+      },
+      {
+        "keyword": "apple cider hot tottie",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "hot tottie with apple cider",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "hot whiskey apple cider",
+        "volume": 1600,
+        "competition": 8
+      },
+      {
+        "keyword": "hot spiced cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "hot spiced apple cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "apple cider hot spiced",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "spiced warm apple cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "spiced warm cider",
+        "volume": 1300,
+        "competition": 36
+      },
+      {
+        "keyword": "spiked hot apple cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "apple cider and cinnamon drink",
+        "volume": 1000,
+        "competition": 43
+      },
+      {
+        "keyword": "apple cider cinnamon drink",
+        "volume": 1000,
+        "competition": 43
+      },
+      {
+        "keyword": "cinnamon apple cider drink",
+        "volume": 1000,
+        "competition": 43
+      },
+      {
+        "keyword": "hot spiked cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "spiked warm apple cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "spiked warm cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "warm apple cider spiked",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "warm spiked cider",
+        "volume": 1000,
+        "competition": 3
+      },
+      {
+        "keyword": "green apple mocktail",
+        "volume": 880,
+        "competition": 8
+      },
+      {
+        "keyword": "hot mulled cider",
+        "volume": 880,
+        "competition": 5
+      },
+      {
+        "keyword": "apple cider warm drink",
+        "volume": 720,
+        "competition": 57
+      },
+      {
+        "keyword": "apple juice and fireball",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "apple juice cinnamon whiskey",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "apple juice fireball",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "cider hot drink",
+        "volume": 720,
+        "competition": 57
+      },
+      {
+        "keyword": "cider warm",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "fireball apple juice",
+        "volume": 720,
+        "competition": 2
+      },
+      {
+        "keyword": "fireball whiskey and apple juice",
+        "volume": 720,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "watercress-basil-vinaigrette",
+  "title": "Watercress Basil Vinaigrette",
+  "seed_keywords": [
+    "homemade vinaigrette",
+    "watercress salad dressing",
+    "basil vinaigrette recipe",
+    "pistachio vinaigrette",
+    "green goddess dressing"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "green goddess dressing",
+        "volume": 60500,
+        "competition": 31
+      },
+      {
+        "keyword": "green goddess salad",
+        "volume": 49500,
+        "competition": 18
+      },
+      {
+        "keyword": "salad with green goddess dressing",
+        "volume": 49500,
+        "competition": 18
+      },
+      {
+        "keyword": "greengoddess",
+        "volume": 22200,
+        "competition": 42
+      },
+      {
+        "keyword": "homemade dressings for salad",
+        "volume": 14800,
+        "competition": 19
+      },
+      {
+        "keyword": "dressing olive oil lemon",
+        "volume": 8100,
+        "competition": 15
+      },
+      {
+        "keyword": "green goddess salad dressing",
+        "volume": 4400,
+        "competition": 66
+      },
+      {
+        "keyword": "panera green goddess dressing",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "panera bread green goddess dressing",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "green goddess dressing from panera",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "green goddess dressing panera bread",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "green goddess paleo dressing",
+        "volume": 4400,
+        "competition": 66
+      },
+      {
+        "keyword": "panera green dressing",
+        "volume": 4400,
+        "competition": 14
+      },
+      {
+        "keyword": "homemade vinaigrette",
+        "volume": 3600,
+        "competition": 9
+      },
+      {
+        "keyword": "homemade salad dressing recipe",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "homemade balsamic vinaigrette",
+        "volume": 3600,
+        "competition": 8
+      },
+      {
+        "keyword": "green salad dressing",
+        "volume": 3600,
+        "competition": 38
+      },
+      {
+        "keyword": "trader joe's green goddess dressing",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "green goddess dressing trader joe's",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "goddess dressing trader joe's",
+        "volume": 3600,
+        "competition": 21
+      },
+      {
+        "keyword": "home salad dressing recipe",
+        "volume": 3600,
+        "competition": 29
+      },
+      {
+        "keyword": "basil salad dressing",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "green goddess sauce",
+        "volume": 2900,
+        "competition": 10
+      },
+      {
+        "keyword": "salad dressing with fresh basil",
+        "volume": 2900,
+        "competition": 35
+      },
+      {
+        "keyword": "vegan green goddess dressing",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "basil vinaigrette",
+        "volume": 2400,
+        "competition": 30
+      },
+      {
+        "keyword": "vegan goddess dressing",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "green goddess vegan",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "simple salad dressings recipes",
+        "volume": 2400,
+        "competition": 11
+      },
+      {
+        "keyword": "vegan green goddess salad dressing",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "vegetarian green goddess dressing",
+        "volume": 2400,
+        "competition": 34
+      },
+      {
+        "keyword": "goddess dressing",
+        "volume": 1900,
+        "competition": 65
+      },
+      {
+        "keyword": "lemon basil vinaigrette",
+        "volume": 1900,
+        "competition": 76
+      },
+      {
+        "keyword": "homemade balsamic dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "avocado green goddess dressing",
+        "volume": 1900,
+        "competition": 43
+      },
+      {
+        "keyword": "homemade vinaigrette dressing",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "avocado goddess dressing",
+        "volume": 1900,
+        "competition": 43
+      },
+      {
+        "keyword": "avocado green goddess",
+        "volume": 1900,
+        "competition": 43
+      },
+      {
+        "keyword": "balsamic vinegar homemade dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "basic balsamic salad dressing",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "basic balsamic vinaigrette recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "homemade balsamic salad dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade balsamic vinegar dressing",
+        "volume": 1900,
+        "competition": 11
+      },
+      {
+        "keyword": "homemade salad dressing vinaigrette",
+        "volume": 1900,
+        "competition": 12
+      },
+      {
+        "keyword": "honey vinaigrette salad dressing",
+        "volume": 1900,
+        "competition": 73
+      },
+      {
+        "keyword": "simple balsamic salad dressing recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "simple balsamic vinegar dressing",
+        "volume": 1900,
+        "competition": 13
+      },
+      {
+        "keyword": "green goddess ranch dressing",
+        "volume": 1600,
+        "competition": 38
+      },
+      {
+        "keyword": "green goddess ranch",
+        "volume": 1600,
+        "competition": 38
+      },
+      {
+        "keyword": "goddess salad",
+        "volume": 1600,
+        "competition": 14
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

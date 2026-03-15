@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-kimchi-shrimp",
+  "title": "Spicy Kimchi Shrimp Sauté",
+  "seed_keywords": [
+    "spicy shrimp stir fry",
+    "kimchi shrimp",
+    "korean shrimp recipes",
+    "stir fried shrimp",
+    "shrimp with kimchi"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "shrimp stir fry recipe",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "shrimp stir fry dishes",
+        "volume": 22200,
+        "competition": 7
+      },
+      {
+        "keyword": "stir fried shrimp",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp and stir fry",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "prawns stir fry",
+        "volume": 9900,
+        "competition": 1
+      },
+      {
+        "keyword": "sauteed shrimp dishes",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "shrimp saute recipe",
+        "volume": 8100,
+        "competition": 16
+      },
+      {
+        "keyword": "prawn stir fry recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "prawn stirfry recipe",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "saeujeot",
+        "volume": 4400,
+        "competition": 21
+      },
+      {
+        "keyword": "broccoli and shrimp stir fry",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli shrimp stir fry",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "noodle shrimp stir fry",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "noodles and shrimp stir fry",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "shrimp & vegetable stir fry",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp & veggie stir fry",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp and stir fry vegetables",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp and veg stir fry",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "shrimp stir fry with veggies",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry veggies with shrimp",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "stir fry with noodles and shrimp",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "stir fry with shrimp and noodles",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "basic shrimp stir fry recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "cashew shrimp",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "easy recipe for shrimp stir fry",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "prawn noodle stirfry",
+        "volume": 1900,
+        "competition": 1
+      },
+      {
+        "keyword": "quick shrimp stir fry recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "sauce for shrimp stir fry",
+        "volume": 1900,
+        "competition": 16
+      },
+      {
+        "keyword": "shrimp and broccoli chinese",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp and cashews",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp broccoli chinese",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "shrimp with cashew nuts",
+        "volume": 1900,
+        "competition": 0
+      },
+      {
+        "keyword": "simple shrimp stir fry recipe",
+        "volume": 1900,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage and shrimp recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage shrimp recipes",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage with shrimp recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "rice and shrimp stir fry",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "rice shrimp stir fry",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry rice and shrimp",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "stir fry with shrimp and rice",
+        "volume": 1600,
+        "competition": 6
+      },
+      {
+        "keyword": "wok fried shrimp",
+        "volume": 1600,
+        "competition": 0
+      },
+      {
+        "keyword": "quick shrimp fried rice",
+        "volume": 1300,
+        "competition": 6
+      },
+      {
+        "keyword": "asian shrimp and broccoli recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asian shrimp broccoli recipe",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus and shrimp stir fry",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "asparagus shrimp stir fry",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli and shrimp stir fry recipe",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "broccoli shrimp recipe chinese",
+        "volume": 1000,
+        "competition": 1
+      },
+      {
+        "keyword": "broccoli shrimp stir fry recipe",
+        "volume": 1000,
+        "competition": 0
+      },
+      {
+        "keyword": "chicken & shrimp stir fry",
+        "volume": 1000,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

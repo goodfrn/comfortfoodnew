@@ -1,0 +1,267 @@
+{
+  "slug": "twice-dipped-fried-chicken",
+  "title": "Twice-Dipped Fried Chicken Sandwich",
+  "seed_keywords": [
+    "fried chicken sandwich",
+    "homemade fried chicken",
+    "buttermilk fried chicken",
+    "chicken breast recipes",
+    "crispy chicken sandwich"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "chicken breast recipes",
+        "volume": 550000,
+        "competition": 21
+      },
+      {
+        "keyword": "recipes using chicken breast",
+        "volume": 550000,
+        "competition": 21
+      },
+      {
+        "keyword": "chicken breasts",
+        "volume": 301000,
+        "competition": 79
+      },
+      {
+        "keyword": "chicken in crockpot recipe",
+        "volume": 301000,
+        "competition": 14
+      },
+      {
+        "keyword": "baked chicken breast",
+        "volume": 201000,
+        "competition": 12
+      },
+      {
+        "keyword": "air fryer chicken breast",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "air fryer fried chicken breast",
+        "volume": 165000,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken cutlets",
+        "volume": 135000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken tenderloins recipes",
+        "volume": 135000,
+        "competition": 9
+      },
+      {
+        "keyword": "baked chicken recipes",
+        "volume": 110000,
+        "competition": 10
+      },
+      {
+        "keyword": "slow cooker chicken breast recipes",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "crockpot chicken breast recipes",
+        "volume": 110000,
+        "competition": 11
+      },
+      {
+        "keyword": "chicken breast in air fryer",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "air fry chicken breasts",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken breast recipes for dinner",
+        "volume": 74000,
+        "competition": 29
+      },
+      {
+        "keyword": "baked chicken breast recipes",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast dinner ideas",
+        "volume": 74000,
+        "competition": 29
+      },
+      {
+        "keyword": "chicken fillets",
+        "volume": 74000,
+        "competition": 35
+      },
+      {
+        "keyword": "chicken breast recipes in oven",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast dinners",
+        "volume": 74000,
+        "competition": 29
+      },
+      {
+        "keyword": "roasted chicken breast recipe",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "dinners to make with chicken breast",
+        "volume": 74000,
+        "competition": 29
+      },
+      {
+        "keyword": "chicken breast dishes for dinner",
+        "volume": 74000,
+        "competition": 29
+      },
+      {
+        "keyword": "baked chicken breast ideas",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "baked chicken breast meals",
+        "volume": 74000,
+        "competition": 10
+      },
+      {
+        "keyword": "mccrispy",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "stuffed chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "grilled chicken breast",
+        "volume": 60500,
+        "competition": 14
+      },
+      {
+        "keyword": "chicken breast in oven",
+        "volume": 60500,
+        "competition": 6
+      },
+      {
+        "keyword": "recipes for chicken cutlets",
+        "volume": 60500,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken in a crockpot",
+        "volume": 60500,
+        "competition": 13
+      },
+      {
+        "keyword": "chicken breast and stuffing",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "chicken breast stuffed with stuffing",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "filled chicken breast",
+        "volume": 60500,
+        "competition": 10
+      },
+      {
+        "keyword": "easy chicken breast recipes",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "oven baked chicken breast",
+        "volume": 49500,
+        "competition": 9
+      },
+      {
+        "keyword": "easy meals with chicken breast",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "basic chicken breast recipes",
+        "volume": 49500,
+        "competition": 22
+      },
+      {
+        "keyword": "chicken healthy recipe",
+        "volume": 49500,
+        "competition": 23
+      },
+      {
+        "keyword": "kfc's fried chicken",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "recipes for chicken thighs boneless",
+        "volume": 49500,
+        "competition": 16
+      },
+      {
+        "keyword": "buttermilk fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "stuffed chicken breast recipes",
+        "volume": 40500,
+        "competition": 8
+      },
+      {
+        "keyword": "boneless skinless chicken breasts",
+        "volume": 40500,
+        "competition": 22
+      },
+      {
+        "keyword": "buttermilk and fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "buttermilk chicken fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "buttermilk in fried chicken",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken fried chicken with buttermilk",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "fried chicken using buttermilk",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "grilled nuggets from chick fil a",
+        "volume": 40500,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

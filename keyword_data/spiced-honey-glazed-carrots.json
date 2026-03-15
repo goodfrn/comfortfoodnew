@@ -1,0 +1,267 @@
+{
+  "slug": "spiced-honey-glazed-carrots",
+  "title": "Spiced Honey Glazed Carrots",
+  "seed_keywords": [
+    "honey glazed carrots",
+    "roasted carrots side dish",
+    "spiced carrot recipes",
+    "buttered cinnamon carrots",
+    "glazed vegetable sides"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "roasted carrots",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted carrots and",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "honey roasted carrots",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "baked carrots honey",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "carrots and honey roasted",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "carrots roasted with honey",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots and honey",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "honey glazed carrots",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "cooking glazed carrots",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "oven roasted carrots",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "roasted carrots & potatoes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots and potatoes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "carrot and honey",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "carrot honey",
+        "volume": 12100,
+        "competition": 4
+      },
+      {
+        "keyword": "candied carrots recipe honey",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "carrot honey glaze recipe",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "glazed carrots maple",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "glazed carrots maple syrup",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "glazed carrots recipe with honey",
+        "volume": 9900,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted carrots recipe with honey",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots with honey recipe",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted honey carrots recipe",
+        "volume": 8100,
+        "competition": 5
+      },
+      {
+        "keyword": "carrot and honey recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "carrot honey recipe",
+        "volume": 6600,
+        "competition": 8
+      },
+      {
+        "keyword": "carrot side recipes",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "carrot sidedish",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "glazed carrots with brown sugar",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "oven roasted carrots and potatoes",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots in air fryer",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "air fryer roasted carrots",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked glazed carrots",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "carrot dishes thanksgiving",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "carrot recipe for thanksgiving",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "glazed carrots baked in oven",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "glazed carrots in oven",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "maple roasted carrots",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "best roasted carrots",
+        "volume": 2900,
+        "competition": 6
+      },
+      {
+        "keyword": "brown sugar roasted carrots",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "carrot side dish recipe",
+        "volume": 2900,
+        "competition": 15
+      },
+      {
+        "keyword": "carrots dish",
+        "volume": 2900,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots air fryer",
+        "volume": 2900,
+        "competition": 2
+      },
+      {
+        "keyword": "carrots for thanksgiving",
+        "volume": 2400,
+        "competition": 2
+      },
+      {
+        "keyword": "balsamic roasted carrots",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "brown sugar glazed carrots stovetop",
+        "volume": 2400,
+        "competition": 7
+      },
+      {
+        "keyword": "crock pot glazed carrots",
+        "volume": 2400,
+        "competition": 8
+      },
+      {
+        "keyword": "glaze for roasted carrots",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted carrots and brussel sprouts",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted carrots balsamic vinegar",
+        "volume": 2400,
+        "competition": 4
+      },
+      {
+        "keyword": "roasted rainbow carrots",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "slow cooker glazed carrots",
+        "volume": 2400,
+        "competition": 8
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

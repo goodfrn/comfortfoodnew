@@ -1,0 +1,267 @@
+{
+  "slug": "vietnamese-fondue-sauces",
+  "title": "Vietnamese Fondue Sauces Remix",
+  "seed_keywords": [
+    "vietnamese hot pot",
+    "hot pot dipping sauce",
+    "fish sauce condiment",
+    "pineapple ginger sauce",
+    "vietnamese fondue sauce"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "prik nam pla",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "nam pla fish sauce",
+        "volume": 14800,
+        "competition": 25
+      },
+      {
+        "keyword": "nam prik nam pla",
+        "volume": 14800,
+        "competition": 3
+      },
+      {
+        "keyword": "hot pot sauce",
+        "volume": 8100,
+        "competition": 68
+      },
+      {
+        "keyword": "fish sauce soy sauce",
+        "volume": 6600,
+        "competition": 51
+      },
+      {
+        "keyword": "vietnamese hot pot",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "hot pot dipping sauce",
+        "volume": 3600,
+        "competition": 39
+      },
+      {
+        "keyword": "hot pot vietnamese food",
+        "volume": 3600,
+        "competition": 5
+      },
+      {
+        "keyword": "sabu sabu sauce",
+        "volume": 3600,
+        "competition": 71
+      },
+      {
+        "keyword": "sauce for shabu shabu",
+        "volume": 3600,
+        "competition": 71
+      },
+      {
+        "keyword": "hot pot sauce recipes",
+        "volume": 2400,
+        "competition": 6
+      },
+      {
+        "keyword": "nam pla prik",
+        "volume": 1900,
+        "competition": 5
+      },
+      {
+        "keyword": "hot pot dipping sauce recipe",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "hotpot dipping sauce recipes",
+        "volume": 1600,
+        "competition": 5
+      },
+      {
+        "keyword": "asian fish sauce",
+        "volume": 1300,
+        "competition": 71
+      },
+      {
+        "keyword": "fish sauce roman",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "roman fish sauce",
+        "volume": 1300,
+        "competition": 2
+      },
+      {
+        "keyword": "ginger pineapple",
+        "volume": 1000,
+        "competition": 49
+      },
+      {
+        "keyword": "sesame sauce for shabu shabu",
+        "volume": 1000,
+        "competition": 61
+      },
+      {
+        "keyword": "thai chili and fish sauce",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "thai chili fish sauce",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "garum fish sauce",
+        "volume": 880,
+        "competition": 24
+      },
+      {
+        "keyword": "shabu shabu dipping sauce",
+        "volume": 880,
+        "competition": 53
+      },
+      {
+        "keyword": "shabu dipping sauce",
+        "volume": 880,
+        "competition": 53
+      },
+      {
+        "keyword": "best hot pot sauce",
+        "volume": 720,
+        "competition": 7
+      },
+      {
+        "keyword": "fish sauce mayonnaise",
+        "volume": 590,
+        "competition": 4
+      },
+      {
+        "keyword": "shabu shabu sauce recipes",
+        "volume": 590,
+        "competition": 25
+      },
+      {
+        "keyword": "hai di lao dipping sauce recipe",
+        "volume": 480,
+        "competition": 31
+      },
+      {
+        "keyword": "hot pot recipe vietnamese",
+        "volume": 480,
+        "competition": 0
+      },
+      {
+        "keyword": "hot pot sesame sauce",
+        "volume": 480,
+        "competition": 43
+      },
+      {
+        "keyword": "sesame paste for hot pot",
+        "volume": 480,
+        "competition": 11
+      },
+      {
+        "keyword": "chinese hot pot sauce",
+        "volume": 390,
+        "competition": 50
+      },
+      {
+        "keyword": "hot pot dips",
+        "volume": 390,
+        "competition": 27
+      },
+      {
+        "keyword": "vietnamese hot pot near me",
+        "volume": 390,
+        "competition": 23
+      },
+      {
+        "keyword": "best dipping sauce for hot pot",
+        "volume": 320,
+        "competition": 17
+      },
+      {
+        "keyword": "making fish sauce",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "peanut sauce shabu",
+        "volume": 320,
+        "competition": 53
+      },
+      {
+        "keyword": "southeast asian fish sauce",
+        "volume": 320,
+        "competition": 17
+      },
+      {
+        "keyword": "tartar sauce mcdonald's",
+        "volume": 320,
+        "competition": 1
+      },
+      {
+        "keyword": "hot pot dipping sauce sesame",
+        "volume": 260,
+        "competition": 51
+      },
+      {
+        "keyword": "peanut sauce hotpot",
+        "volume": 260,
+        "competition": 34
+      },
+      {
+        "keyword": "prik nam pla sauce",
+        "volume": 260,
+        "competition": 5
+      },
+      {
+        "keyword": "simple hot pot dipping sauce",
+        "volume": 260,
+        "competition": 16
+      },
+      {
+        "keyword": "ancient roman fish sauce",
+        "volume": 210,
+        "competition": 4
+      },
+      {
+        "keyword": "sesame hotpot sauce",
+        "volume": 210,
+        "competition": 60
+      },
+      {
+        "keyword": "vietnamese fermented fish sauce",
+        "volume": 210,
+        "competition": 16
+      },
+      {
+        "keyword": "chinese hot pot dipping sauce",
+        "volume": 170,
+        "competition": 29
+      },
+      {
+        "keyword": "hai di lao hot pot dipping sauce",
+        "volume": 170,
+        "competition": 67
+      },
+      {
+        "keyword": "haidilao hot pot dipping sauce",
+        "volume": 170,
+        "competition": 67
+      },
+      {
+        "keyword": "shabu shabu dipping sauce recipe",
+        "volume": 170,
+        "competition": 10
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

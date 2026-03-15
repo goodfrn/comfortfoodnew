@@ -1,0 +1,267 @@
+{
+  "slug": "toasted-crunchy-slaw",
+  "title": "Toasted Crunchy Asian Slaw",
+  "seed_keywords": [
+    "asian cabbage slaw",
+    "crunchy noodle salad",
+    "toasted almond slaw",
+    "asian slaw recipe",
+    "cabbage salad dressing"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "coleslaw with salad dressing",
+        "volume": 135000,
+        "competition": 25
+      },
+      {
+        "keyword": "coleslaw salad",
+        "volume": 27100,
+        "competition": 6
+      },
+      {
+        "keyword": "asian slaw",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "asian slaw recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "asian cole slaw dressing recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "asian slaw dressing recipe",
+        "volume": 18100,
+        "competition": 0
+      },
+      {
+        "keyword": "ingredients coleslaw",
+        "volume": 14800,
+        "competition": 8
+      },
+      {
+        "keyword": "redcabbage salad",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cole slaw",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "asian cabbage salad",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cole slaw recipe",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "salad dressing recipe for coleslaw",
+        "volume": 6600,
+        "competition": 20
+      },
+      {
+        "keyword": "asian cole slaw dressing",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian dressing for slaw",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian slaw salad dressing",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "asian slaw sauce",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "coleslaw dressing asian",
+        "volume": 5400,
+        "competition": 2
+      },
+      {
+        "keyword": "coleslaw recipe with red cabbage",
+        "volume": 5400,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cabbage salad with ramen noodles",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "crunchy noodle salad",
+        "volume": 3600,
+        "competition": 36
+      },
+      {
+        "keyword": "asian cole slaw ramen",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian cole slaw ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian ramen noodle slaw",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "asian ramen slaw",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese coleslaw recipe with ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chinese salad with cabbage",
+        "volume": 3600,
+        "competition": 0
+      },
+      {
+        "keyword": "coleslaw using ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "crunchy noodles on salad",
+        "volume": 3600,
+        "competition": 36
+      },
+      {
+        "keyword": "oriental coleslaw ramen",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "oriental coleslaw ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "oriental coleslaw recipe ramen noodles",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "salad crunchy noodles",
+        "volume": 3600,
+        "competition": 36
+      },
+      {
+        "keyword": "vegan cole slaw",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "cabbage coleslaw recipe",
+        "volume": 2900,
+        "competition": 4
+      },
+      {
+        "keyword": "cole slaw with pineapple",
+        "volume": 2900,
+        "competition": 1
+      },
+      {
+        "keyword": "cabbage salad dressing",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "crispy noodle salad",
+        "volume": 2400,
+        "competition": 13
+      },
+      {
+        "keyword": "asian broccoli slaw with ramen",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "asian broccoli slaw with ramen noodles",
+        "volume": 2400,
+        "competition": 0
+      },
+      {
+        "keyword": "coleslaw dressing no mayo",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "coleslaw dressing no mayonnaise",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "no mayo slaw dressing",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "non mayonnaise coleslaw dressing",
+        "volume": 2400,
+        "competition": 1
+      },
+      {
+        "keyword": "salad dressing for cabbage salad",
+        "volume": 2400,
+        "competition": 9
+      },
+      {
+        "keyword": "crunchy asian noodle salad",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "asian cole slaw salad",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "asian crispy noodle salad",
+        "volume": 1900,
+        "competition": 25
+      },
+      {
+        "keyword": "asian salad slaw",
+        "volume": 1900,
+        "competition": 6
+      },
+      {
+        "keyword": "cabbage cole slaw",
+        "volume": 1900,
+        "competition": 14
+      },
+      {
+        "keyword": "chinese crispy noodle salad",
+        "volume": 1900,
+        "competition": 25
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

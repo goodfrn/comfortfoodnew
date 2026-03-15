@@ -1,0 +1,127 @@
+{
+  "slug": "twisted-fruity-sundae",
+  "title": "Twisted Fruity Sundae Brunch",
+  "seed_keywords": [
+    "frozen yogurt sundae",
+    "blueberry strawberry breakfast",
+    "greek yogurt bowls",
+    "fruit compote brunch",
+    "berry sundae recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "greek yogurt bowls",
+        "volume": 6600,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt bowl recipe",
+        "volume": 1600,
+        "competition": 1
+      },
+      {
+        "keyword": "high protein yogurt bowl",
+        "volume": 1300,
+        "competition": 3
+      },
+      {
+        "keyword": "protein yogurt bowl",
+        "volume": 1000,
+        "competition": 9
+      },
+      {
+        "keyword": "healthy yogurt bowl",
+        "volume": 880,
+        "competition": 7
+      },
+      {
+        "keyword": "yogurt recipes breakfast",
+        "volume": 720,
+        "competition": 5
+      },
+      {
+        "keyword": "greek yoghurt bowl",
+        "volume": 590,
+        "competition": 2
+      },
+      {
+        "keyword": "greek yogurt breakfast bowl",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt protein bowl",
+        "volume": 480,
+        "competition": 1
+      },
+      {
+        "keyword": "greek yogurt fruit bowl",
+        "volume": 390,
+        "competition": 1
+      },
+      {
+        "keyword": "oatmeal with blueberries and strawberries",
+        "volume": 390,
+        "competition": 8
+      },
+      {
+        "keyword": "oatmeal with strawberries and blueberries",
+        "volume": 390,
+        "competition": 8
+      },
+      {
+        "keyword": "greek yogurt bowl ideas",
+        "volume": 320,
+        "competition": 3
+      },
+      {
+        "keyword": "yogurt protein bowl",
+        "volume": 320,
+        "competition": 14
+      },
+      {
+        "keyword": "savory greek yogurt bowl",
+        "volume": 210,
+        "competition": 0
+      },
+      {
+        "keyword": "yogurt bowl ingredients",
+        "volume": 210,
+        "competition": 1
+      },
+      {
+        "keyword": "high protein greek yogurt bowl",
+        "volume": 170,
+        "competition": 2
+      },
+      {
+        "keyword": "protein yoghurt bowl",
+        "volume": 170,
+        "competition": 8
+      },
+      {
+        "keyword": "acai greek yogurt",
+        "volume": 140,
+        "competition": 59
+      },
+      {
+        "keyword": "acai bowl with greek yogurt",
+        "volume": 110,
+        "competition": 5
+      },
+      {
+        "keyword": "greek yogurt acai bowl",
+        "volume": 110,
+        "competition": 5
+      },
+      {
+        "keyword": "high protein yoghurt bowl",
+        "volume": 110,
+        "competition": 7
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

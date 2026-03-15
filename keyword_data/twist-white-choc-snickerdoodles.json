@@ -1,0 +1,267 @@
+{
+  "slug": "twist-white-choc-snickerdoodles",
+  "title": "Twist White Choc Snickerdoodles",
+  "seed_keywords": [
+    "white chocolate cookies",
+    "snickerdoodle recipe",
+    "brown sugar snickerdoodles",
+    "almond extract desserts",
+    "cinnamon sugar cookies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "snickerdoodle recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "snickerdoodle",
+        "volume": 201000,
+        "competition": 5
+      },
+      {
+        "keyword": "snickerdoodle cookie recipe",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "snickerdoodle recipe for cookies",
+        "volume": 201000,
+        "competition": 7
+      },
+      {
+        "keyword": "snickerdoodle cookies",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "snicker doodles cookie",
+        "volume": 49500,
+        "competition": 21
+      },
+      {
+        "keyword": "black white cookies",
+        "volume": 40500,
+        "competition": 62
+      },
+      {
+        "keyword": "cookies black and white",
+        "volume": 40500,
+        "competition": 62
+      },
+      {
+        "keyword": "white chocolate macadamia nut cookies",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "white chocolate macadamia cookies",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "white chocolate and macadamia cookies",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "chocolate white chocolate macadamia nut cookies",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "macadamia nut and white chocolate cookies",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "macadamia white chocolate biscuits",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "white choc & macadamia cookies",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "white choc and macadamia cookie",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "white choc macadamia biscuits",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "white chocolate mac nut cookies",
+        "volume": 33100,
+        "competition": 23
+      },
+      {
+        "keyword": "macadamia cookies",
+        "volume": 22200,
+        "competition": 31
+      },
+      {
+        "keyword": "rolled wafer",
+        "volume": 22200,
+        "competition": 80
+      },
+      {
+        "keyword": "white chocolate chip cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "macadamia nut cookies",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "chocolate and white chip cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate and white chocolate chip cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chip and white chocolate chip cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chip and white chocolate cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chip cookies white chocolate",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chip cookies with white chips",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chip cookies with white chocolate",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chip cookies with white chocolate chips",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chip white chocolate cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chocolate chip cookies with white chocolate chips",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate chocolate white chocolate chip cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate cookie with white chocolate",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "chocolate white choc chip cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "cinnamon cookie",
+        "volume": 18100,
+        "competition": 32
+      },
+      {
+        "keyword": "mac nut cookies",
+        "volume": 18100,
+        "competition": 35
+      },
+      {
+        "keyword": "white and chocolate cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "white choc chip biscuits",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "white chocolate chip and chocolate chip cookies",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "white chocolate chip biscuits",
+        "volume": 18100,
+        "competition": 13
+      },
+      {
+        "keyword": "white chocolate cranberry cookies",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cinnamon bun cookies recipe",
+        "volume": 14800,
+        "competition": 4
+      },
+      {
+        "keyword": "cookie raspberry white chocolate",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "cookies white chocolate and raspberry",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "cookies white chocolate raspberry",
+        "volume": 14800,
+        "competition": 13
+      },
+      {
+        "keyword": "cookies with cranberries and white chocolate",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "craisin and white chocolate cookies",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cranberry and white choc biscuits",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cranberry and white chocolate biscuits",
+        "volume": 14800,
+        "competition": 14
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

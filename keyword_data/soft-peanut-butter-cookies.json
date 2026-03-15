@@ -1,0 +1,267 @@
+{
+  "slug": "soft-peanut-butter-cookies",
+  "title": "Soft Peanut Butter Cookies",
+  "seed_keywords": [
+    "peanut butter cookies",
+    "homemade peanut butter",
+    "soft chewy cookies",
+    "peanut butter desserts",
+    "brown butter cookies"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "peanut butter cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "no bake cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "pb cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "no cook cookies",
+        "volume": 246000,
+        "competition": 8
+      },
+      {
+        "keyword": "peanut butter with cookies",
+        "volume": 246000,
+        "competition": 20
+      },
+      {
+        "keyword": "brown butter chocolate chip cookies",
+        "volume": 110000,
+        "competition": 2
+      },
+      {
+        "keyword": "peanut butter blossoms",
+        "volume": 90500,
+        "competition": 17
+      },
+      {
+        "keyword": "pb blossoms",
+        "volume": 90500,
+        "competition": 17
+      },
+      {
+        "keyword": "3 ingredient peanut butter cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "3 ingredient pb cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "3 ingredient peanut cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "three ingredient pb cookies",
+        "volume": 60500,
+        "competition": 9
+      },
+      {
+        "keyword": "scotcheroos",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "peanut butter pie",
+        "volume": 49500,
+        "competition": 14
+      },
+      {
+        "keyword": "peanut butter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "soft cookies",
+        "volume": 40500,
+        "competition": 71
+      },
+      {
+        "keyword": "chewy chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "peanut butter and chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chewy chocolate cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "peanutbutter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chewier chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chewy chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy choc chip biscuits",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chocolate chip biscuits",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chocolate choc chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chocolate chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chocolate chocolate cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy chocolate chunk cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chewy cocoa cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "chocolate and peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip and peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate chip peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "chocolate peanut butter chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "pb chocolate chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut butter and choc chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut butter choc chip biscuits",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "peanut butter peanut butter chip cookies",
+        "volume": 40500,
+        "competition": 9
+      },
+      {
+        "keyword": "recipe for how to make chocolate chip cookies",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "easy peanut butter cookies",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "buckeye brownies",
+        "volume": 33100,
+        "competition": 11
+      },
+      {
+        "keyword": "easy pb cookies",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "homemade chocolate chip cookie",
+        "volume": 33100,
+        "competition": 16
+      },
+      {
+        "keyword": "buckeye dessert recipe",
+        "volume": 33100,
+        "competition": 10
+      },
+      {
+        "keyword": "east peanut butter cookies",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "easy simple peanut butter cookies",
+        "volume": 33100,
+        "competition": 12
+      },
+      {
+        "keyword": "gluten free soft chocolate chip cookies",
+        "volume": 33100,
+        "competition": 27
+      },
+      {
+        "keyword": "no bake chocolate oatmeal cookies",
+        "volume": 27100,
+        "competition": 9
+      },
+      {
+        "keyword": "molasses cookie recipe",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "peanut butter oatmeal cookies",
+        "volume": 27100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

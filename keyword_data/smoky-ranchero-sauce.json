@@ -1,0 +1,267 @@
+{
+  "slug": "smoky-ranchero-sauce",
+  "title": "Smoky Ranchero Sauce",
+  "seed_keywords": [
+    "smoky chipotle sauce",
+    "homemade salsa recipe",
+    "chipotle tomato sauce",
+    "ranchero sauce",
+    "grilled tomato salsa"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "making salsa",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for making salsa",
+        "volume": 165000,
+        "competition": 4
+      },
+      {
+        "keyword": "ranchero dressing",
+        "volume": 90500,
+        "competition": 64
+      },
+      {
+        "keyword": "ranchero sauce",
+        "volume": 33100,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade salsa",
+        "volume": 33100,
+        "competition": 3
+      },
+      {
+        "keyword": "howto make salsa",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade salsa recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "home made salsa recipes",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "home salsa recipe",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "make canned salsa",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "making salsa to can",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican salsa canning recipe",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "recipe home made salsa",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "salsa recipes to can",
+        "volume": 22200,
+        "competition": 2
+      },
+      {
+        "keyword": "fresh salsa recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "salsa recipe easy",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "simple salsa recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "basic salsa recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "easy made salsa",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "easy make salsa",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "easy salsa sauce recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "fresh made salsa recipe",
+        "volume": 14800,
+        "competition": 5
+      },
+      {
+        "keyword": "homemade salsa chips",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "salsa chip recipe",
+        "volume": 12100,
+        "competition": 3
+      },
+      {
+        "keyword": "ingredients for salsa sauce",
+        "volume": 9900,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for tomato salsa",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "salsa recipe with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "best recipe for salsa",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "best salsa sauce recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "fresh salsa dip",
+        "volume": 8100,
+        "competition": 31
+      },
+      {
+        "keyword": "fresh salsa recipe with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "fresh salsa sauce",
+        "volume": 8100,
+        "competition": 31
+      },
+      {
+        "keyword": "good salsa recipe",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "great salsa recipes",
+        "volume": 8100,
+        "competition": 2
+      },
+      {
+        "keyword": "mexican salsa recipe with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "recipe for salsa using fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "tomato salsa recipes with fresh tomatoes",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "homemade pico de gallo",
+        "volume": 5400,
+        "competition": 24
+      },
+      {
+        "keyword": "make and can salsa",
+        "volume": 5400,
+        "competition": 52
+      },
+      {
+        "keyword": "pico de gallo homemade",
+        "volume": 5400,
+        "competition": 24
+      },
+      {
+        "keyword": "restaurant style salsa",
+        "volume": 4400,
+        "competition": 54
+      },
+      {
+        "keyword": "fresh tomato salsa",
+        "volume": 4400,
+        "competition": 4
+      },
+      {
+        "keyword": "taco bell spicy ranch sauce",
+        "volume": 3600,
+        "competition": 53
+      },
+      {
+        "keyword": "canned homemade salsa",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "canned homemade salsa recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "home canned salsa recipe",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "home made salsa to can",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade salsa and canning",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "homemade salsa to can",
+        "volume": 3600,
+        "competition": 1
+      },
+      {
+        "keyword": "chili's salsa recipe",
+        "volume": 2900,
+        "competition": 0
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

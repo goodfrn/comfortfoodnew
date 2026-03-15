@@ -1,0 +1,267 @@
+{
+  "slug": "tangy-pickled-carrots",
+  "title": "Tangy Pickled Carrots",
+  "seed_keywords": [
+    "pickled carrots",
+    "carrot side dishes",
+    "vinegar pickled vegetables",
+    "quick pickled vegetables",
+    "tangy carrot condiment"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "roasted carrots",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted carrots and",
+        "volume": 110000,
+        "competition": 6
+      },
+      {
+        "keyword": "honey roasted carrots",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "baked honey carrots",
+        "volume": 49500,
+        "competition": 5
+      },
+      {
+        "keyword": "cook glazed carrots",
+        "volume": 40500,
+        "competition": 12
+      },
+      {
+        "keyword": "glazed carrots with honey",
+        "volume": 40500,
+        "competition": 6
+      },
+      {
+        "keyword": "roasted carrots in oven",
+        "volume": 40500,
+        "competition": 10
+      },
+      {
+        "keyword": "recipes for pickling cucumbers",
+        "volume": 33100,
+        "competition": 1
+      },
+      {
+        "keyword": "pickled carrots",
+        "volume": 22200,
+        "competition": 63
+      },
+      {
+        "keyword": "roasted carrots & potatoes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots and potatoes",
+        "volume": 18100,
+        "competition": 5
+      },
+      {
+        "keyword": "candied carrots",
+        "volume": 14800,
+        "competition": 24
+      },
+      {
+        "keyword": "carrot and daikon",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "carrot daikon",
+        "volume": 12100,
+        "competition": 9
+      },
+      {
+        "keyword": "carrot souffle",
+        "volume": 12100,
+        "competition": 2
+      },
+      {
+        "keyword": "cucumber quick pickle",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast cucumber pickle",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickled cucumber",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "fast pickles cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "onion quick pickle",
+        "volume": 12100,
+        "competition": 11
+      },
+      {
+        "keyword": "quick pickle for cucumbers",
+        "volume": 12100,
+        "competition": 1
+      },
+      {
+        "keyword": "candied carrots maple syrup",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "glazed carrots maple",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "glazed carrots maple syrup",
+        "volume": 9900,
+        "competition": 2
+      },
+      {
+        "keyword": "pickled veggie recipe",
+        "volume": 8100,
+        "competition": 4
+      },
+      {
+        "keyword": "carrot side dishes",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "carrot pickle vietnamese",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "carrot side recipe",
+        "volume": 5400,
+        "competition": 8
+      },
+      {
+        "keyword": "fast pickled carrots",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "instant pickled carrots",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickle carrot vietnamese",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickle carrots quickly",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "pickled carrots quick",
+        "volume": 5400,
+        "competition": 0
+      },
+      {
+        "keyword": "sauteed carrots",
+        "volume": 5400,
+        "competition": 4
+      },
+      {
+        "keyword": "brown sugar glazed carrots",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "carrot and daikon pickle",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "carrot daikon pickle",
+        "volume": 4400,
+        "competition": 6
+      },
+      {
+        "keyword": "carrot pickle recipe",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "oven roasted carrots and potatoes",
+        "volume": 4400,
+        "competition": 5
+      },
+      {
+        "keyword": "roasted carrots and broccoli",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted carrots broccoli",
+        "volume": 4400,
+        "competition": 1
+      },
+      {
+        "keyword": "roasted carrots in air fryer",
+        "volume": 4400,
+        "competition": 2
+      },
+      {
+        "keyword": "fermented carrots",
+        "volume": 3600,
+        "competition": 14
+      },
+      {
+        "keyword": "air fryer roasted carrots",
+        "volume": 3600,
+        "competition": 2
+      },
+      {
+        "keyword": "baked glazed carrots",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "carrot dish for thanksgiving",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "carrot recipe for thanksgiving",
+        "volume": 3600,
+        "competition": 10
+      },
+      {
+        "keyword": "glazed carrots baked in oven",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "glazed carrots in oven",
+        "volume": 3600,
+        "competition": 7
+      },
+      {
+        "keyword": "maple roasted carrots",
+        "volume": 3600,
+        "competition": 1
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

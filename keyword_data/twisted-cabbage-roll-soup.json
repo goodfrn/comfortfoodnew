@@ -1,0 +1,267 @@
+{
+  "slug": "twisted-cabbage-roll-soup",
+  "title": "Twisted Cabbage Roll Soup",
+  "seed_keywords": [
+    "cabbage roll soup",
+    "ground beef soup",
+    "beef cabbage stew",
+    "one pot beef",
+    "cabbage soup recipe"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "cabbage soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "and cabbage soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage and soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage and vegetable soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage and veggie soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage soup soup",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "soup using cabbage",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "cabbage soup recipe",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cabbage and vegetable soup recipe",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cabbage in soup recipe",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cabbage soup ideas",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "cook cabbage soup",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "soup recipes using cabbage",
+        "volume": 90500,
+        "competition": 12
+      },
+      {
+        "keyword": "hamburger soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamb soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger and soup",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "soup using hamburger",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "hamburger soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "hamburger beef soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "hamburger meat soup recipe",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "recipe for crock pot beef brisket",
+        "volume": 40500,
+        "competition": 4
+      },
+      {
+        "keyword": "soup recipes made with hamburger",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "soup recipes using hamburger",
+        "volume": 40500,
+        "competition": 7
+      },
+      {
+        "keyword": "cabbage soup diet",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage soup diet soup",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage soup for a diet",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage stew diet",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "diet cabbage soup diet",
+        "volume": 33100,
+        "competition": 20
+      },
+      {
+        "keyword": "beef soup ideas",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "crock pot ideas for ground beef",
+        "volume": 22200,
+        "competition": 3
+      },
+      {
+        "keyword": "recipe for beef stroganoff in the crock pot",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "recipe for stroganoff in slow cooker",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "slow cook beef stroganoff recipes",
+        "volume": 22200,
+        "competition": 8
+      },
+      {
+        "keyword": "soup recipes with beef",
+        "volume": 22200,
+        "competition": 4
+      },
+      {
+        "keyword": "cabbage roll soup",
+        "volume": 18100,
+        "competition": 4
+      },
+      {
+        "keyword": "ground beef soup",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef and vegetables soup",
+        "volume": 18100,
+        "competition": 7
+      },
+      {
+        "keyword": "beef hamburger soup",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef mince soup",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef soup with ground beef",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "beef soup with hamburger meat",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "hamburger meat soup",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "soup using ground beef",
+        "volume": 18100,
+        "competition": 2
+      },
+      {
+        "keyword": "cabbage soup diet recipe",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage diet recipe",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "beef hot pot recipe",
+        "volume": 14800,
+        "competition": 14
+      },
+      {
+        "keyword": "cabbage soup diet and recipe",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage soup diet soup recipe",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage soup recipe diet recipe",
+        "volume": 14800,
+        "competition": 20
+      },
+      {
+        "keyword": "cabbage soup recipe for cabbage soup diet",
+        "volume": 14800,
+        "competition": 20
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}

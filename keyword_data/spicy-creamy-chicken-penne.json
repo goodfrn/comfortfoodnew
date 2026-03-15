@@ -1,0 +1,267 @@
+{
+  "slug": "spicy-creamy-chicken-penne",
+  "title": "Spicy Creamy Chicken Penne",
+  "seed_keywords": [
+    "spicy chicken pasta",
+    "creamy penne sauce",
+    "cajun chicken dishes",
+    "chicken pasta recipes",
+    "cream sauce pasta"
+  ],
+  "keywords": {
+    "all": [
+      {
+        "keyword": "al fredo pasta",
+        "volume": 201000,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken pasta recipes",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken pasta dishes",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken and pasta dishes",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "chicken and pasta meal",
+        "volume": 110000,
+        "competition": 8
+      },
+      {
+        "keyword": "homemade alfredo pasta sauce",
+        "volume": 110000,
+        "competition": 19
+      },
+      {
+        "keyword": "chicken pasta",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "recipe for chicken spaghetti",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken and spaghetti recipes",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "chicken paa",
+        "volume": 90500,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken spaghetti dishes",
+        "volume": 90500,
+        "competition": 9
+      },
+      {
+        "keyword": "pasta with a white sauce",
+        "volume": 90500,
+        "competition": 6
+      },
+      {
+        "keyword": "cajun chicken pasta",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "cajun chicken and pasta",
+        "volume": 74000,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken spaghetti",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken pasta bake",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy chicken pasta",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken and pasta bake",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and pesto pasta",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken and cream pasta",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "chicken pesto noodles",
+        "volume": 60500,
+        "competition": 3
+      },
+      {
+        "keyword": "creamy chicken and pasta",
+        "volume": 60500,
+        "competition": 2
+      },
+      {
+        "keyword": "mushrooms with sauce",
+        "volume": 60500,
+        "competition": 30
+      },
+      {
+        "keyword": "recipe tortellini",
+        "volume": 60500,
+        "competition": 16
+      },
+      {
+        "keyword": "chicken alfredo pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken fettuccine alfredo olive garden",
+        "volume": 49500,
+        "competition": 3
+      },
+      {
+        "keyword": "chicken alfredo linguine",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken and pasta alfredo",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "chicken spaghetti carbonara",
+        "volume": 49500,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken with alfredo sauce and pasta",
+        "volume": 49500,
+        "competition": 6
+      },
+      {
+        "keyword": "pasta cream",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "cream and pasta recipes",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "cream in pasta",
+        "volume": 40500,
+        "competition": 15
+      },
+      {
+        "keyword": "pasta cajun",
+        "volume": 40500,
+        "competition": 1
+      },
+      {
+        "keyword": "recipe for pasta with white sauce",
+        "volume": 40500,
+        "competition": 2
+      },
+      {
+        "keyword": "penne fettuccine alfredo",
+        "volume": 33100,
+        "competition": 2
+      },
+      {
+        "keyword": "cream sauce pasta",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "chicken pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "chicken and pasta salad",
+        "volume": 27100,
+        "competition": 4
+      },
+      {
+        "keyword": "bacon chicken ranch pasta",
+        "volume": 27100,
+        "competition": 3
+      },
+      {
+        "keyword": "carbonara recipe traditional",
+        "volume": 27100,
+        "competition": 5
+      },
+      {
+        "keyword": "chicken & chorizo pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and chorizo pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and orzo",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken and orzo pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken orzo pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "chicken with orzo",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "creamy pasta sauce with cream",
+        "volume": 27100,
+        "competition": 15
+      },
+      {
+        "keyword": "lemon chicken orzo pasta",
+        "volume": 27100,
+        "competition": 1
+      },
+      {
+        "keyword": "mushroom cream pasta",
+        "volume": 27100,
+        "competition": 2
+      }
+    ]
+  },
+  "seo_done": false,
+  "content_done": false
+}
