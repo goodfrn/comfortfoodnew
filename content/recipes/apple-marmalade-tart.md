@@ -1,10 +1,10 @@
 ---
-title: "Apple Marmalade Tart"
+title: "Apple Tart with Apricot Jam & Pâte Brisée"
 slug: "apple-marmalade-tart"
-description: "Break flour, sugar, salt. Cold butter chunks, pulse fast. Water, just enough, to gather dough. Chill two discs. Roll thin, line 23cm pan. Slit second disc center, fridge 30 min. Mix brown sugar, a bit less flour. Swap marmalade for apricot jam, tangier twist. Dense Cortland and tart McIntosh, peeled slices, fold into jam mix. Layer filling, seal edges tight, fork marks tell it’s sealed. Brush with milk, bakes at 190C for 55 min — bubbly edges, golden crust crackle. Cool a bit, smell of baked fruit and caramel notes fills kitchen. Skip eggs, no nuts, straightforward technique but watch butter temp, no melting! Treat dough lightly, don’t overwork or tough crust."
-metaDescription: "Apple Marmalade Tart with flaky brisé dough, tart-sweet apples, and apricot jam. Cold butter, chilled dough, vented top for golden crust and bubbling filling."
-ogDescription: "Flaky apple tart with apricot jam, crunchy crust from cold butter. Vent top, bake till bubbly edges crackle. Tart-sweet apples combine, no nuts, no eggs."
-focusKeyphrase: "Apple Marmalade Tart"
+description: "Classic apple tart with Cortland and McIntosh apples, apricot jam filling, and buttery pâte brisée crust. Golden, flaky pastry baked until edges bubble."
+metaDescription: "Apple tart recipe with apricot jam, Cortland and McIntosh apples, and homemade pâte brisée crust. Make it tonight."
+ogDescription: "Golden apple tart with apricot jam, tender apple slices, and buttery homemade crust. Simple, elegant dessert."
+focusKeyphrase: "apple tart with apricot jam"
 date: 2025-09-10
 draft: false
 image: apple-marmalade-tart.jpg
@@ -20,9 +20,16 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "apple tart"
-- "brisé pastry"
-- "apricot jam"
+- "apple tart with apricot jam"
+- "homemade apple tart"
+- "pâte brisée crust"
+- "Cortland apples"
+- "McIntosh apples"
+- "butter crust apple tart"
+- "apple dessert"
+- "homemade tart"
+- "apple tart recipe"
+- "baked apple tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -84,3 +91,99 @@ faq:
 - "q: How best store leftovers? a: Room temp wrapped or fridge overnight. Cover loose or airtight container. Cold keeps filling firmer but chills crust slightly. Reheat gently to refresh crisp without drying."
 
 ---
+
+Butter has to stay cold. Food processor on pulse. Dough comes together in maybe two minutes if you're paying attention — way faster than hand-mixing and you get an actual flaky crust instead of tough. Two types of apples. Cortland won't turn to mush, McIntosh brings sweetness and breaks down just enough. The filling needs brown sugar and apricot jam instead of marmalade because marmalade's too bitter, too pectin-heavy. Turns everything into jam sludge instead of layered fruit.
+
+This is a 90-minute homemade apple tart from start to bite. Looks like you spent all day on it.
+
+## Why You'll Love This Homemade Apple Tart
+
+Makes your kitchen smell like an actual bakery for two hours straight while it bakes.
+The butter crust apple tart cracks open and releases steam and caramelized apples and that's the whole reason you made it.
+Cortland and McIntosh mixed together — one stays firm, one softens. They work together instead of fighting. Nobody over-mushes. Nobody stays too crisp. It's balanced.
+Cooling all the way down means the filling sets and slices clean. Warm but not molten. Room temperature the next day tastes better than fresh.
+Sharp cheddar on the side sounds weird. Tastes exactly right. Salty against sweet. You don't have to do it. You'll want to.
+
+## What You Need for Apple Tart Paste Brisée
+
+Flour. Three-fifty milliliters. All-purpose, unbleached if you can get it. Tablespoon of sugar. Pinch of salt. Eleven tablespoons of cold unsalted butter — cold matters more than anything else here. Cut it into cubes before you start. Ice water, about half a cup, but add it slowly because you don't know your humidity.
+
+Brown sugar for the filling. Packed. Three tablespoons plus a teaspoon. Regular all-purpose flour again — just two and a half tablespoons, thickens the juices so they don't wreck the crust. Three-quarters cup of apricot jam. Not marmalade. Marmalade's too sharp and it has all that peel texture. Apricot jam goes smooth and subtle.
+
+Cortland apples. Two and three-quarter cups, peeled, sliced thin. They stay firm. McIntosh apples, same amount. They're softer, sweeter, they break down just a bit. Together they're the point. Milk for brushing the top. That's it. Literally that.
+
+## How to Make Homemade Apple Tart Crust
+
+Flour, sugar, salt into the food processor. Pulse. Like three pulses, not more. Add the cold butter cubes. Quick pulses again until it looks like coarse sand with some pea-sized chunks still visible. This is where people screw up — they keep going and the butter warms and melts and you get a tough crust instead of flaky. Watch it carefully. Stop early.
+
+Pour the ice water in slowly while pulsing. You're looking for dough that barely holds together when you squeeze it. It should still look rough and shaggy. Not smooth. Rough means flaky later.
+
+Press the dough with your hands — don't knead it, just press — into two flat discs. Wrap them, chill for at least 30 minutes. You need this. The gluten relaxes, the butter stays cold, the whole thing works.
+
+Flour your surface. Roll one disc thin. About 3 millimeters. Fit it into a 23-centimeter tart pan. Smooth it down the sides gently. You'll have cracks. Patch them fast with a little water and leftover dough.
+
+Roll the second disc. Make an X or a small hole in the center — steam has to escape or you get an explosion. Refrigerate this for 30 minutes while you deal with the filling. Keeps it from shrinking everywhere.
+
+## How to Get Apple Tart Crust Flaky and Sealed
+
+Preheat the oven to 190 Celsius. Middle rack for even heat. Not the bottom yet. You'll move it.
+
+Brown sugar mixed with flour. Add the apricot jam, whisk until it's blended and smooth. Changed from marmalade because it tastes like actual jam instead of bitter leaf water.
+
+Fold in the apple slices. Both kinds. Make sure they're coated but not drowning — if they're too wet, pat them dry with a paper towel. Soggy apples steam instead of bake.
+
+Spread everything into the lined shell. Don't mound it. Flat-ish matters because wet heat cooks unevenly and you'll get a cold center.
+
+Brush the rim with milk. This seals. Matters more than you think. Place the second dough on top. Crimp the edges hard with your fingers or fork tines. If you don't seal it tight, juices leak all over the oven.
+
+Brush the top with milk. Optional: sprinkle fine sugar if you want crunch. Bake starting near the bottom rack — 55 minutes.
+
+Watch for golden brown crust. Look for filling bubbling through the vent. The edges pull away from the pan slightly when it's done. It'll keep cooking a tiny bit after you pull it out, so don't wait for it to look perfect in the oven.
+
+## Apple Tart Tips and Avoiding a Soggy Crust
+
+Butter stays cold or the crust won't flake. Work fast. Chill between steps if you need to.
+
+Dough cracks. It happens. Water and extra flour make a patch. Press it in.
+
+Flour in the filling thickens the apple juice. Skip it and the whole tart gets soggy and sad. Don't skip it.
+
+Food processor isn't mandatory. Pastry cutter works. Two knives works. Just keep your hands out of it as much as possible or the warmth from your hands melts the butter.
+
+No apricot jam. Marmalade's the obvious swap but it's too bitter and the pectin locks everything into a hard layer. Apple jelly works. Peach jam works. Raspberry doesn't. Too runny.
+
+Cortland and McIntosh specifically. Cortland holds shape. McIntosh goes soft and sweet. Other combos either all mush or all mealy. These two together is the mix that works.
+
+Don't trust the timer. Trust the crust color and the filling bubbling at the vent. Every oven's different. Some run hot. Some don't.
+
+Cool it completely if you can. Warm is fine. Molten juice running all over the plate means it wasn't ready. Room temperature actually tastes better the next day.
+
+Seal the edges tight. Tight. If you halfass it, filling erupts everywhere during bake and makes a mess and tastes burnt.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Apple Tart
+
+**Can I make the dough the day before?**
+Wrap it, stick it in the fridge. Two days is fine. Three gets weird. Let it sit 15 minutes at room temp before rolling or it fights you.
+
+**The crust is tough. What went wrong?**
+Butter warmed up. Too much mixing. Use cold butter, pulse quick, don't overthink it. Also chill before baking. Matters more than people think.
+
+**Can I use all Granny Smith? Or all Honeycrisp?**
+All Granny Smith you get mealy mush. All Honeycrisp stays too firm and kind of bland together. The mix is the whole point. One breaks down, one doesn't. That's what makes it good.
+
+**How do I know when it's actually done?**
+Crust is golden. Filling bubbles through the vent. That's the real timer. Look every 50 minutes or so. Don't just stare at the clock.
+
+**My filling is runny when I slice it. What happened?**
+Didn't cool it down. Or the apples were too wet going in. Or you skipped the flour. Any of those three. Cool completely next time. It sets when cold.
+
+**Can I use puff pastry instead of paste brisée?**
+Yeah. It works. Won't be the same. Puff pastry rises and gets airy. Paste brisée stays compact and flaky and actually tastes like butter. Try it if you want less work. Different thing though.
+
+**What's the deal with the apricot jam instead of marmalade?**
+Marmalade tastes like bitter orange peel and the pectin makes everything gelatinous and wrong. Apricot jam is subtle. Smooth. Doesn't fight the apples. Just try it.
+
+**Can I make this in a different pan?**
+23-centimeter tart pan is what the recipe is built for. Smaller pan means thicker, longer bake. Bigger pan means thinner, faster. Do it if you want. Timing changes. Filling density changes. It'll still be apple tart though.
