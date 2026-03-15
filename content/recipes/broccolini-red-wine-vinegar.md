@@ -1,9 +1,9 @@
 ---
-title: "Charred Broccolini with Red Wine Vinegar"
+title: "Charred Broccolini with Garlic & Red Wine"
 slug: "broccolini-red-wine-vinegar"
-description: "Broiled charred broccolini with red wine vinegar, garlic, and Maldon salt. Crispy-edged florets, tender stalks, and a sharp acidic bite. Ready in minutes."
-metaDescription: "Charred broccolini recipe with red wine vinegar and garlic. Broiled until blistered, finished with Maldon salt. Quick, bold veggie side. Try it tonight."
-ogDescription: "Broiled charred broccolini with red wine vinegar and garlic. Crunchy edges, sharp tang, ready in minutes."
+description: "Charred broccolini recipe with crispy florets, garlic, and red wine vinegar. Broiled until tender with Maldon salt and olive oil for a simple side dish."
+metaDescription: "Charred broccolini recipe featuring garlic, red wine vinegar, and Maldon salt. Crispy-edged florets ready in minutes. Make it tonight."
+ogDescription: "Broiled charred broccolini with garlic, red wine vinegar, and Maldon salt. Crispy edges, tender stalks, sharp acidic bite."
 focusKeyphrase: "charred broccolini"
 date: 2026-01-23
 draft: false
@@ -23,9 +23,14 @@ tags:
 keywords:
 - "charred broccolini"
 - "charred broccolini recipe"
+- "broccolini recipe"
+- "roasted broccolini"
+- "garlic broccolini"
 - "broiled broccolini"
-- "broccolini with vinegar"
-- "roasted green vegetables"
+- "broccolini with garlic"
+- "crispy broccolini"
+- "broccolini side dish"
+- "red wine vinegar broccolini"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "85"
@@ -68,3 +73,70 @@ faq:
 - "q: How to store leftovers? a: Not great for reheating. Best eaten fresh. If needed, cool quickly and refrigerate in airtight container up to 2 days. Reheat in hot pan to avoid soggy texture but expect some loss of crisp. Microwaves kill crunch, so avoid."
 
 ---
+
+Rinse the broccolini first. Pat it dry—like, actually dry. Wet vegetable steams instead of chars, and that's the opposite of what we want here. If the stalks are thick, cut them lengthwise. Woody ones get a quick blanch—45 seconds in boiling salt water. Not fun to chew otherwise.
+
+## Why You'll Love This Charred Broccolini
+
+Takes 19 minutes total and most of that is you standing there watching it blister.
+Works as a side for basically anything—fish, pasta, just by itself with bread.
+Healthy without tasting like you're being good. The char tastes like actual food, not virtue.
+One pan. One sheet. Cleanup takes longer than you'd think, but it's fast.
+Leftovers don't really work, so eat it all while it's hot and crispy.
+
+## What You Need for Charred Broccolini
+
+Broccolini. A pound and a half. The thin kind if you can find it—less work.
+Olive oil. Three tablespoons total, split between the pan and the finish. Extra virgin. It matters here because the oil's the whole flavor at the end.
+Garlic. Two cloves. Thin slices. Raw garlic goes on at the end so it doesn't burn and go bitter.
+Red wine vinegar. Two tablespoons. Could use sherry vinegar. White vinegar's too sharp.
+Honey or maple syrup. Just a teaspoon. Balances the vinegar so it's not all pucker.
+Maldon salt. The flakes kind. They stay on top instead of dissolving everywhere. Black pepper. Cracked fresh.
+
+## How to Make Charred Broccolini
+
+Get your broiler as hot as it goes. Rack should sit about 5 or 6 inches from the element. That distance matters—too close and everything burns, too far and you just get warm vegetables, which defeats the purpose.
+
+Oil a rimmed baking sheet with a tablespoon of olive oil. Spread the broccolini in one layer. Don't crowd it. That's the thing people do wrong—they pack it all in thinking it'll cook faster and it just steams in its own moisture. Spread it out. Give it room to breathe.
+
+Slide it under the broiler. Three minutes. You're listening for that crackling sound, watching for brown spots starting to show up on the tops and edges curling slightly. Not black. Brown. There's a difference and it matters.
+
+## How to Get Broccolini Actually Crispy
+
+Pull it out. Flip each stalk with tongs—not a spatula, tongs. You need control here. Back under for another four minutes, maybe closer to five on this side. The second side takes longer because you want it just as crispy as the first but it's already lost some moisture.
+
+When it comes out the second time, it should have spots of actual char. Burnt-looking brown. The stems should feel hollow when you squeeze them lightly, like they'd snap if you bent them.
+
+## Charred Broccolini Tips and Common Mistakes
+
+The garlic goes on after everything's cooked. Raw garlic, hot broccolini—the heat softens it enough that you don't get that aggressive bite. If you cook the garlic with the broccolini it turns bitter and hard. Don't do that.
+
+The vinegar also goes on when it's hot. Heat opens up the flavors and helps it coat everything evenly. Taste it right away and add more vinegar if it needs it. Salt it while it's warm too—absorbs better that way.
+
+Blanching the thick stalks sounds annoying. Do it anyway. Nobody likes biting into something woody. Forty-five seconds in boiling salted water softens them just enough that they cook through without turning into mush.
+
+Pat the broccolini completely dry before it goes on the sheet. Moisture is the enemy here. Takes an extra minute but saves you from steamed vegetables masquerading as roasted ones.
+
+Don't walk away while it's under the broiler. Even two minutes in, things can go from perfect to charcoal. Stay in the kitchen. Keep watching.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Charred Broccolini
+
+**Can I roast this in a regular oven instead of using the broiler?**
+Not the same thing. Regular oven won't get hot enough on top to char. Broiler is the whole point—that direct high heat from above. Oven roasting gets you soft and cooked through, which is fine but it's not this.
+
+**How do I know when it's actually done?**
+Listen for it. Crackling sound. Brown spots on the tops. When you squeeze a stalk lightly it should feel mostly hollow and the leaves should be papery. Takes about 7 minutes total if your broiler runs hot. Maybe 10 if it doesn't. The look matters more than the timer.
+
+**Can I prep this ahead of time?**
+You can trim and blanch the thick stalks earlier. Keep them in a container in the fridge. Then oil and broil right before eating. Don't blanch it all the way through though—just enough to soften the tough parts.
+
+**What if I don't have Maldon salt?**
+Regular salt works. Won't be as pretty because flake salt sits on top and regular salt dissolves into everything. Kosher salt's the next best option. At least it's coarser than table salt.
+
+**Can I add other things to this?**
+Sure. Almonds that you toasted separately. Chili flakes. A squeeze of lemon instead of vinegar if you want it less sour. The core—broccolini, heat, char—that's what matters. The rest is flexible.
+
+**Why does mine always come out soft instead of crispy?**
+Water. Either you didn't dry it well enough going in, or it's too crowded on the pan and steaming in its own moisture. Could also be sitting in the pan too long after cooking before eating. Crispy broccolini waits for nobody.
