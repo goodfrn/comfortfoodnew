@@ -1,10 +1,10 @@
 ---
-title: "Corn Flour Savory Crêpes"
+title: "Corn Flour Savory Crêpes with Smoked Paprika"
 slug: "corn-flour-savory-crepes"
-description: "Simple crêpes using corn flour instead of cornmeal. Eggs, almond milk swapped for cow milk plus pinch of smoked paprika. Slight twist in salt amount. Quick batter mix and easy pan cooking. About 4-6 crêpes per batch. Dairy-free option if butter replaced with oil. Slightly thicker texture from almond milk. Golden brown, flexible, mild corn flavor but less gritty. Useful for brunch or light meal. Keeps warm under foil, cooked on nonstick pan with gentle butter or coconut oil. Ready in about 15-20 minutes. No gluten or nuts. Easily adapt with herbs or spices for savory or sweet fillings."
-metaDescription: "Delight in these Corn Flour Savory Crêpes. A gluten-free recipe with almond milk, corn flour, and smoked paprika. Perfect for brunch."
-ogDescription: "Savor these Corn Flour Savory Crêpes made with almond milk and smoked paprika. A gluten-free treat ideal for light meals and brunch."
-focusKeyphrase: "Corn Flour Savory Crêpes"
+description: "Make gluten-free savory crêpes with corn flour, eggs, and almond milk. Light, flexible crêpes with smoked paprika ready in 15 minutes for brunch."
+metaDescription: "Corn flour savory crêpes made with eggs and almond milk, seasoned with smoked paprika. Gluten-free and dairy-free. Try it tonight."
+ogDescription: "Savory crêpes made with corn flour, eggs, and almond milk. Topped with smoked paprika for an easy gluten-free brunch."
+focusKeyphrase: "corn flour savory crêpes"
 date: 2025-07-18
 draft: false
 image: corn-flour-savory-crepes.jpg
@@ -21,9 +21,15 @@ tags:
 - "eggs"
 - "corn"
 keywords:
+- "corn flour savory crêpes"
+- "gluten free crêpes"
 - "savory crêpes"
-- "corn flour"
-- "almond milk"
+- "corn flour crêpes with almond milk"
+- "egg crêpes with corn flour"
+- "gluten free breakfast crêpes"
+- "savory crêpes with smoked paprika"
+- "almond milk crêpes"
+- "dairy-free crêpes"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "140"
@@ -67,3 +73,76 @@ faq:
 - "q: How can I make the crêpes sweeter? a: Add sugar or maple syrup in batter. Maybe vanilla extract enhances. Play with flavor profiles."
 
 ---
+
+Whisk the eggs first. They go in before the milk, not after. This is how you get crêpes that actually hold together instead of tearing when you flip.
+
+## Why You'll Love These Corn Flour Crêpes
+
+Takes 18 minutes total. Seriously. Prep plus cook.
+Gluten free without tasting like you're eating paper. Most gluten free crêpes feel dense. These don't.
+One bowl, one pan. Cleanup takes longer than cooking them, which is saying something.
+Works for breakfast, lunch, whatever. Load them with eggs, cheese, sautéed greens. Or just eat them plain and they're still good.
+The edges get this crispy-brown thing that's actually better than soft. Not crunchy — just got some texture to them.
+
+## What You Need for Corn Flour Crêpes
+
+Two large eggs beaten loose in a bowl. Not frothy. Just mixed.
+220 milliliters of unsweetened almond milk. Coconut milk works too. Regular milk definitely works, just not the point here.
+200 milliliters corn flour. This is your flour, not the thickener. Different thing. The actual grain.
+Smoked paprika. A teaspoon and a half. Gives it this warm color and a background flavor you can't quite name but know is there.
+Half a teaspoon of fine salt. Kosher salt dissolves slower. Fine salt's cleaner.
+Softened coconut oil for the pan. A tiny amount. You're not deep frying. The oil's just there so it doesn't stick.
+
+## How to Make Gluten Free Corn Flour Crêpes
+
+Beat those eggs first until they stop looking separated. Takes like 30 seconds. Pour the almond milk in slowly while you keep mixing. This part matters — dumping it all at once makes lumps that won't smooth out no matter how hard you whisk.
+
+In a different bowl — and this is important — mix the corn flour, salt, and smoked paprika together first. Dry ingredients alone. Then gradually add this to the wet stuff, whisking as you go. No lumps. This is where people mess up. Take your time. Actually matters.
+
+Let it sit for five minutes. The batter thickens a tiny bit. Just barely. But you'll feel the difference when you pour.
+
+## How to Get Corn Flour Crêpes Thin and Perfect
+
+Heat a 23-centimeter non-stick skillet on medium-low. This is one of those things people get wrong. Too hot and they brown too fast on the outside while staying raw inside. Too cool and they're just sitting there doing nothing.
+
+Brush the pan with softened coconut oil. Not melted. Softened. There's a difference. Melted oil gets absorbed. Softened oil coats and stays put.
+
+Pour about 100 milliliters of batter in the center. Immediately grab the back of a spoon and spread it in a circle. Gentle. You're not trying to break it. Just coax it into shape. It'll spread a little on its own from the heat too.
+
+Wait. This is the hardest part because it feels like nothing's happening. Around 90 seconds you'll see bubbles starting to pop on the surface. That's when you know it's close. The edges firm up first — you can tell because they separate slightly from the pan and start to look a different color.
+
+Flip it. Just do it quick. Don't second-guess. The other side takes like a minute, maybe less. You're looking for golden-brown spots. Not dark. Not pale. That tan-gold thing.
+
+## Corn Flour Crêpes Tips and Common Mistakes
+
+The batter should be thinner than pancake batter but thicker than crepe batter from a box mix. If it's too thick, add a splash more milk. Too thin, add more corn flour. Seriously simple.
+
+Don't skip the five-minute rest. The corn flour absorbs the liquid. If you go straight from mixing to cooking, they tear.
+
+The oil in the pan matters. Butter burns too fast. Olive oil doesn't work here. Coconut's the right one. You need something stable at medium-low heat.
+
+Some crêpes will tear. This happens. Throw it back in the pan and press it back together. Sounds wrong. Works anyway.
+
+Store leftovers stacked between parchment paper in a container. They stay soft for three days easy. Maybe four. Reheat them flat in a skillet for like 20 seconds per side.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Gluten Free Corn Flour Crêpes
+
+**Can you make egg crêpes with corn flour ahead of time?**
+Yeah. Stack them between parchment, cover with foil, they're fine in the fridge for three days. Reheat in the pan for 20 seconds a side if you want them warm.
+
+**What can you add to corn flour crêpes if they taste bland?**
+They're not bland if the paprika goes in. But if you want more — garlic powder, a pinch of cayenne, fresh herbs mixed into the wet ingredients. Chives work great. Just keep it light.
+
+**Do gluten free crêpes with almond milk work with regular milk instead?**
+Yeah. Exact same recipe. Dairy milk might make them slightly less delicate but honestly probably not enough to notice.
+
+**Why do my almond milk corn flour crêpes fall apart?**
+Either the batter's too thin, the pan's too hot, or you're being too rough when you flip. Could also be you skipped the rest. That five minutes actually matters.
+
+**How much does the smoked paprika change the flavor?**
+It's subtle. Without it they taste plain but not bad. With it they taste like something. It's the difference between eggs-and-flour and actual food. Worth it.
+
+**Can you make these in a crêpe maker instead of a skillet?**
+Haven't tried it personally. Probably works if your maker can handle 23 centimeters wide. The heat might be different so watch the first one.
