@@ -1,10 +1,10 @@
 ---
-title: "Instant Pot Shrimp Biryani"
+title: "Instant Pot Shrimp Biryani with Basmati Rice"
 slug: "instant-pot-shrimp-biryani"
-description: "Shrimp cooked with spices, herbs, and basmati rice in an Instant Pot. Aromatic whole spices toasted in butter, layered with fresh aromatics, tomato, yogurt, and herbs. Quick pressure cooking keeps shrimp tender and infuses rice with flavor. Subtle heat with chili powder and fragrant garam masala. Use seafood broth for richness, fresh lime for brightness at end. A one-pot riff balancing textures, colors, and bold spices. Experience the crackle of cumin seeds, softened onions, and the aroma of fresh ginger garlic. Swap shrimp for scallops or chicken. Swap broth for vegetable stock. Cook with patience, watch for visual doneness cues rather than strict timers."
-metaDescription: "Instant Pot Shrimp Biryani layered with whole spices, tangy yogurt, seafood broth, and fresh herbs. Quick pressure cooking keeps shrimp tender, rice fluffy."
-ogDescription: "Shrimp meets spices, yogurt, and basmati rice in an Instant Pot. Aromatic, layered, tender shrimp and fluffy grains, done fast and full of flavor."
-focusKeyphrase: "Instant Pot Shrimp Biryani"
+description: "Instant Pot shrimp biryani layers basmati rice, tender shrimp, yogurt, and tomato with aromatic spices. Cumin seeds, cardamom, and garam masala infuse this one-pot Indian dish with bold flavor."
+metaDescription: "Make instant pot shrimp biryani tonight with basmati rice, yogurt, tomato, and warm spices. Quick pressure cooking keeps shrimp tender. Try it tonight."
+ogDescription: "Instant pot shrimp biryani with basmati rice, cardamom, cinnamon, and fresh herbs. Tender, aromatic, and ready in minutes."
+focusKeyphrase: "instant pot shrimp biryani"
 date: 2025-12-29
 draft: false
 image: instant-pot-shrimp-biryani.jpg
@@ -21,9 +21,16 @@ tags:
 - "spicy"
 - "one pot"
 keywords:
-- "Shrimp Biryani"
-- "Instant Pot recipe"
-- "Basmati rice biryani"
+- "instant pot shrimp biryani"
+- "shrimp biryani"
+- "instant pot biryani"
+- "one pot shrimp biryani"
+- "shrimp biryani with basmati rice"
+- "instant pot indian shrimp"
+- "spicy shrimp biryani"
+- "indian shrimp rice"
+- "shrimp biryani recipe"
+- "basmati rice shrimp"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -80,3 +87,91 @@ faq:
 - "q: How store leftovers? a: Refrigerate in airtight container 2-3 days max. Reheat gently with splash water or broth, cover tight. Freeze in portioned bags ok too but texture loss on shrimp likely. Best eaten fresh but fridge works short term"
 
 ---
+
+Seal the lid. Six minutes on low pressure. That's it.
+
+Most Indian food takes hours. This one doesn't. Instant pot shrimp biryani cooks in 22 minutes once everything's in the pot, and the rice stays separate, the shrimp stays tender, and honestly the spice flavor hits different when it's all steaming together instead of stewing for half the day. Had frozen shrimp and leftover basmati. Made this instead of ordering out. Now it's the thing I make when people are coming over and I want them to think I actually know what I'm doing.
+
+## Why You'll Love This Instant Pot Biryani
+
+One pot. Literally one. Sauté, layer, seal, go.
+The spices bloom fast — cumin, cardamom, cinnamon — and they actually stick to the rice instead of floating around loose in broth.
+Takes 34 minutes total. Twelve to prep if you're moving. Twenty-two to cook. Not a whole evening thing.
+Works with frozen shrimp. Just thaw it. Cold is fine.
+Tastes spicy without being mean about it. Adjustable.
+
+## What You Need for Instant Pot Shrimp Biryani
+
+Basmati rice — two cups. Rinse it until the water stops looking cloudy. Soak it ten to twenty minutes. Matters.
+Butter. Two tablespoons. Unsalted. Salted will mess with the seasoning math.
+Whole spices — cumin seeds, bay leaves, black cardamom, green cardamom, cloves, cinnamon stick, star anise, black peppercorns. Buy them whole. Ground spices taste flat after sitting in the cupboard for two years. You can get all of these at any Indian grocery store for five bucks total.
+One large white onion sliced thin. Red works. Not as good.
+Fresh ginger and garlic — tablespoon of ginger, two cloves of garlic. Minced or grated. Either works.
+One large tomato chopped. Canned if fresh isn't around.
+Salt. Chili powder. Turmeric. Garam masala. One teaspoon, quarter teaspoon, one teaspoon. Standard stuff.
+Greek yogurt — quarter cup. Keeps the shrimp from getting tough. Also makes the sauce stick to everything.
+Fresh mint and cilantro. A third cup each. Chopped. The green stuff is what makes this taste alive.
+One pound large shrimp. Frozen is fine. Thaw it first. Don't use tiny shrimp — they disappear.
+Two cups seafood broth. Low sodium. Or chicken broth. Or vegetable broth if seafood isn't happening. Water works too but the flavor gets quieter.
+
+## How to Make Instant Pot Shrimp Biryani
+
+Rinse your rice three, four times. Until the water's clear. Soak it. Ten to twenty minutes. Drain it well. Set it to the side.
+
+Press sauté on the Instant Pot. Butter goes in and melts. You'll hear it sizzle softly. Add all the whole spices at once — cumin seeds, bay leaves, both cardamoms, cloves, cinnamon, star anise, peppercorns. Stir them constantly. One to two minutes. The second you smell them — really smell them, like spicy incense hitting the back of your nose — they're done. Don't let them brown. Brown is burnt. Burnt is sharp and wrong.
+
+Throw in the sliced onion. Listen for the crackle. Sauté it three to five minutes. You want it soft and translucent. Just the edges going golden. It releases its sweetness when it sweats. Don't let it turn jammy or brown.
+
+Ginger and garlic go in next. Stir it. One to two minutes max. The smell will be intense. You'll know. Add tomato, salt, chili powder, turmeric, garam masala. Mix it. Stir it occasionally. The tomato softens and the juices start forming a thick paste. Three to four minutes total.
+
+Fold in the yogurt carefully. Don't dump it. That burst of green — mint and cilantro — goes on top. Add the shrimp, spread it out in a single layer. Pour the broth over everything evenly. Don't stir after the liquids in. The layering is what keeps the flavor separate and clean.
+
+Rice goes on top. Spread it out. No stirring.
+
+## How to Get Perfect Instant Pot Shrimp Biryani Every Time
+
+Seal the lid. Vent closed. Manual low pressure. Five to seven minutes. Six is the sweet spot. Shrimp cooks fast. Rice steams gently. Nothing gets rubbery.
+
+When it beeps quick release the vent. Listen for the hiss. Steam everywhere. Open the lid away from your face or it will burn.
+
+Pull out the cinnamon stick and star anise. They're flavor workers, not edible. The rest stays.
+
+Fluff it with a fork. Gently. The grains should be separate. The shrimp should be pink and plump but not rubbery. If they're gray and bouncy you overcooked it. If they're pale and soft you didn't cook it enough. Pink with just a tiny bit of firmness is right.
+
+The one thing nobody mentions — pat your frozen shrimp dry before adding them. If they're too watery the pot ratio gets weird. Paper towel. Quick pat. That's all.
+
+## Instant Pot Shrimp Biryani Tips and Common Mistakes
+
+Don't stir after you add the broth and rice. I know it looks like it needs stirring. It doesn't. The whole point of biryani is that everything steams separately and then comes together. Stirring breaks that.
+
+If your seafood broth situation isn't happening, use vegetable broth. Or dilute chicken stock. Water works but the flavor gets quieter. It's still food. Just less interesting.
+
+Frozen shrimp that's too watery will throw off the liquid ratio. Thaw it. Pat it dry. Problem solved.
+
+For more heat add fresh green chilies when you add the onion. Or swap the chili powder for cayenne. Or both. Just taste it after and fix the salt.
+
+For texture add toasted cashews or sautéed raisins at the very end. Right before you serve. Heat softens them weirdly if they're in while it cooks.
+
+The spice smell will be aggressive. That's right. That's supposed to happen.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About One Pot Shrimp Biryani
+
+**Can I use regular white shrimp instead of large?**
+Small shrimp disappears into the rice. It works texture-wise but you lose the whole point of seeing the shrimp. Stick with large.
+
+**What if I don't have seafood broth?**
+Chicken broth works fine. Vegetable broth too. Water if that's literally all you have — it cooks, just quieter. Dilute chicken stock works best after broth.
+
+**How do I know when the shrimp is actually done?**
+Pink and firm but not bouncy. If it's gray and bouncy it's overdone. If it's pale and mushy it needed more time. Pink with just a tiny bit of resistance is right.
+
+**Can I make this ahead?**
+Cold the next day it's still good. Different texture — rice gets a bit firmer — but the flavor's actually sharper. Reheat it gently or eat it cold. Both work.
+
+**What if my rice comes out mushy?**
+You either didn't drain it well after soaking or you cooked it longer than six minutes. Six is the number. Don't go longer. And really drain it.
+
+**Do I have to use all those whole spices?**
+You'll taste the difference if you skip them. But if you only have three or four, use what you have. Cumin and cardamom are the essentials. Everything else just adds layers.
