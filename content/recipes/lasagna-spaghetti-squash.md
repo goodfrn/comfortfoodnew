@@ -1,10 +1,10 @@
 ---
-title: "Lasagna Spaghetti Squash"
+title: "Spaghetti Squash Lasagna with Ground Turkey"
 slug: "lasagna-spaghetti-squash"
-description: "Baked spaghetti squash boats loaded with seasoned turkey meat sauce, ricotta basil mix, and melted mozzarella. Low carb twist on classic lasagna with Italian spices and a tangy balsamic punch."
-metaDescription: "Lasagna Spaghetti Squash baked boats with turkey meat sauce ricotta basil mix melted mozzarella. Low carb Italian-American twist balancing texture and bold spices."
-ogDescription: "Baked spaghetti squash boats loaded with seasoned turkey meat sauce ricotta basil mix melted mozzarella. Low carb twist with Italian spices and tangy balsamic punch."
-focusKeyphrase: "Lasagna Spaghetti Squash"
+description: "Spaghetti squash lasagna boats with seasoned ground turkey, ricotta basil mix, and mozzarella. Low carb Italian dish with balsamic vinegar and fresh basil."
+metaDescription: "Make spaghetti squash lasagna with ground turkey, ricotta, and mozzarella tonight. Low carb Italian recipe with fresh basil. Try it tonight."
+ogDescription: "Baked spaghetti squash boats stuffed with ground turkey sauce, ricotta basil mix, and melted mozzarella. Low carb lasagna."
+focusKeyphrase: "spaghetti squash lasagna with ground turkey"
 date: 2026-02-15
 draft: false
 image: lasagna-spaghetti-squash.jpg
@@ -21,9 +21,16 @@ tags:
 - "squash"
 - "healthy"
 keywords:
-- "spaghetti squash"
-- "turkey lasagna"
-- "low carb lasagna"
+- "spaghetti squash lasagna with ground turkey"
+- "ground turkey lasagna"
+- "spaghetti squash boats ricotta mozzarella"
+- "low carb italian dishes"
+- "healthy lasagna with spaghetti squash"
+- "baked spaghetti squash with turkey meat sauce"
+- "italian spaghetti squash casserole"
+- "ground turkey spaghetti squash bake"
+- "spaghetti squash recipes"
+- "spaghetti squash lasagna with basil ricotta"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -80,3 +87,97 @@ faq:
 - "q: How to store leftovers? a: Cool fully before fridge. Store in airtight container. Keeps 3-4 days. Reheat covered to avoid drying. Freeze well too, defrost overnight in fridge then bake to revive top cheese layer. Texture changes but flavors concentrate with time."
 
 ---
+
+Squash halves loaded with ricotta. Turkey meat sauce bubbling underneath. Cheese melting on top. Fifteen minutes of prep, thirty minutes in the oven, and you've got lasagna that doesn't need pasta.
+
+## Why You'll Love This Spaghetti Squash Lasagna
+
+Takes 45 minutes total — no boiling noodles, no waiting. Just chop, brown, layer, broil.
+
+Works warm or cold the next day. Maybe better cold, actually.
+
+Ground turkey keeps it light without tasting like diet food. The fennel and smoked paprika make it taste like something.
+
+Ricotta and basil make it feel fancy. It's really not.
+
+One sheet pan. One skillet. That's your whole cleanup.
+
+## What You Need for Spaghetti Squash Boats with Ricotta
+
+One medium spaghetti squash — halve it lengthwise. A pound of ground turkey. Swap it for ground chicken if that's easier, or mushrooms if you want it vegetarian. Doesn't matter much.
+
+Olive oil. One small onion diced fine. Three garlic cloves minced. Red pepper flakes — just a pinch. Crushed fennel seeds add the italian thing without tasting like herbs.
+
+One can of diced tomatoes. Two tablespoons tomato paste — this thickens everything and makes it darker. Roasted red pepper puree works if you want it sweeter.
+
+Dried Italian seasoning. Two bay leaves. Smoked paprika. Regular paprika works too if that's what's in your cabinet. Balsamic vinegar — one tablespoon. Salt, pepper.
+
+Ricotta cheese. One cup. Fresh basil chopped. Mozzarella shredded. One cup.
+
+That's it. Nothing weird.
+
+## How to Make Spaghetti Squash Lasagna
+
+Cut the squash in half lengthwise. Poke it with a knife first — it's thick, use real pressure. Roast it cut-side down at 400 for 25 to 30 minutes. Fork should slide through the flesh like butter. Don't pull out too early. The strands need to be soft enough that a fork actually separates them.
+
+If you're using an Instant Pot instead — 10 to 12 minutes high pressure, then natural release or quick release depending on size. Steam comes out hot. Be careful.
+
+While that's going, brown the turkey in a skillet over medium-high heat. Crumble it as it cooks. Don't leave it in chunks. Season with a pinch of salt and pepper. Maybe some garlic powder if you want it stronger. Cook until there's no pink left — about 7 to 9 minutes. If the pan looks like a pool, drain the excess. Meat should be crumbly but still a little moist.
+
+Turn heat down to medium. Add olive oil to a larger pan. Throw in the onion. Let it go soft and translucent — don't rush this, don't brown it. Takes about 5 minutes. Add garlic, red pepper flakes, and the fennel seeds. Cook for a minute until it smells sharp. Garlic burns fast. Don't let it sit there.
+
+Add the browned turkey back in. Add the whole can of tomatoes. The tomato paste. Italian seasoning. Bay leaves. Smoked paprika. Balsamic vinegar. Salt and pepper. Stir it together. Bring it to a simmer — low heat, gentle bubbling. Let it go while the squash finishes. Sauce gets thicker and the flavors actually blend instead of just sitting next to each other.
+
+## How to Build Spaghetti Squash Lasagna Boats
+
+While the meat sauce is simmering, make the ricotta mix. Bowl. Ricotta. Chop basil. Stir it together until it looks creamy and green speckled. Don't overmix or the basil turns dark. Just combine it.
+
+Squash is done when a fork slides through the flesh easily and the strands pull apart without resistance. Pull it out. Use a fork to fluff the inside — gently, you're not mashing it, just loosening the strands so they're separate.
+
+Spoon ricotta basil into each half. A lot of it. This is comfort food. Top with meat sauce. Pile mozzarella on top. Don't skim on cheese.
+
+Put the whole thing under the broiler. 1 to 3 minutes. Watch it. Cheese should bubble and brown in spots — that's when it tastes good. Should smell nutty and sweet. Pull it out when it looks gold and angry.
+
+Let it sit 5 minutes. Everything sets. Easier to eat. Fish out the bay leaves before anyone takes a bite — nobody wants that.
+
+## Spaghetti Squash Lasagna Tips and Common Mistakes
+
+Squash size matters. Medium is 3 to 4 pounds. Too small and there's not enough room for filling. Too big and the skin gets thick and takes forever.
+
+Don't skip the fennel. It makes this taste like italian food without tasting like dried herbs. One teaspoon crushed. That's it.
+
+Turkey versus chicken — they cook the same time. Ground chicken is slightly wetter so you might need to drain more. Mushrooms take longer to brown and release more liquid. Both work. Just adjust.
+
+Bay leaves get pulled out before serving. Every single time. One gets left behind, it ruins a mouthful. Just remember.
+
+Broiler heat is violent. Stay in the kitchen. You're looking at 1 to 3 minutes depending on your broiler. Some are hotter. Some aren't. The smell tells you when it's done — nutty and caramelized.
+
+Sauce thickness — if it's too watery after simmering, let it go another few minutes. Tomato paste thickens it naturally over time. If it looks thick but tastes thin, you need more salt. Salt brings out flavor.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spaghetti Squash Lasagna
+
+**Can I make this ahead?**
+Assemble it the morning of, keep it covered in the fridge, broil it when you're ready to eat. Or make it totally done and reheat it. Cold version is actually good.
+
+**Does this work with regular ground beef?**
+Yeah. Beef is fattier so drain more liquid before the sauce step. Tastes richer. Not lighter.
+
+**What if I don't have smoked paprika?**
+Regular paprika works. Chili powder works if you want heat. Neither is essential. The fennel and bay leaves do most of the heavy lifting.
+
+**Can I add spinach or other vegetables?**
+Chop them fine. Mix into the meat sauce while it's simmering. Spinach wilts down fast. Zucchini needs a few extra minutes to soften.
+
+**Why do the squash strands separate better with a fork than a spoon?**
+A fork's tines actually grab and pull. Spoon just pushes. Fork works.
+
+**Is this low carb?**
+Spaghetti squash itself is lower carb than pasta. The squash does have carbs though. Turkey and ricotta add protein. It's healthier than lasagna with noodles. That's the point.
+
+**How long do leftovers last?**
+Fridge for 4 days covered. Freezes fine. Thaw overnight and reheat at 350 until warm through.
+
+**What's the difference between this and regular lasagna?**
+No noodles. Less flour. More vegetables just from the squash. Takes the same time to make and tastes better to some people. To others it's just different. Not worse, different.
