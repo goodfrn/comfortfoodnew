@@ -1,10 +1,10 @@
 ---
-title: "Creamy Herb Ranch Mash"
+title: "Creamy Herb Ranch Mash with Greek Yogurt"
 slug: "creamy-herb-ranch-mash"
-description: "Peel russet potatoes, cube roughly, and boil in cold water until tender enough to pierce easily. Drain, return to warm pot to evaporate moisture. Mash with butter, Greek yogurt replacing sour cream for tang and texture variation, add ranch seasoning mix slightly dialed down. Fold in fresh dill and chives. Melted butter drizzled on top providing gloss and indulgence. A twist of smoked paprika brings subtle earthiness to the mix. Adjust seasoning by feel and taste. Invite herbs to shine without overpowering. Mash for texture: creamy, but still with some rustic bite. Satisfaction in every spoonful guaranteed. Yield enough for a hungry group. Simple ingredients. Flexible. A mash with character, not a bland side note."
-metaDescription: "Creamy Herb Ranch Mash mixing russets, Greek yogurt, fresh dill, and chives; smoky paprika edges, ranch seasoning tempered. Rustic bite with creamy feel."
-ogDescription: "Mash russets rough, simmer till fork slides. Butter, yogurt, dill, chives mix bright. Ranch seasoning pulled back. Smoky paprika hints. Rustic but creamy."
-focusKeyphrase: "Creamy Herb Ranch Mash"
+description: "Creamy herb ranch mash made with russet potatoes, Greek yogurt, and fresh dill. Buttery, tangy comfort food side dish that's simple to make."
+metaDescription: "Make creamy herb ranch mash with russet potatoes, Greek yogurt, fresh dill and chives. This comfort food side dish is ready in 30 minutes. Make it tonight."
+ogDescription: "Russet potatoes mashed with Greek yogurt, butter, fresh dill and chives. A tangy, herby comfort food side that's anything but bland."
+focusKeyphrase: "herb mashed potatoes"
 date: 2025-11-26
 draft: false
 image: creamy-herb-ranch-mash.jpg
@@ -21,9 +21,15 @@ tags:
 - "vegetarian"
 - "easy dinner"
 keywords:
+- "herb mashed potatoes"
 - "mashed potatoes"
-- "Greek yogurt mash"
-- "smoked paprika mash"
+- "creamy mashed potatoes with greek yogurt"
+- "ranch mashed potatoes with fresh herbs"
+- "potato side dish"
+- "comfort food mashed potatoes"
+- "russet potato mash with butter and greek yogurt"
+- "smoked paprika mashed potatoes with dill and chives"
+- "vegetarian potato side dish"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "250"
@@ -67,3 +73,87 @@ faq:
 - "q: How to store leftovers? a: Cool completely before fridge. Store in airtight container. Reheat gently on stovetop adding little butter or yogurt to rehydrate. Microwave with intervals but watch texture shift. Freeze possible but slight texture loss likely; best fresh. Stir well after reheating; herbs fade so add fresh if possible after heating."
 
 ---
+
+Set the pot on high, cold water covering the potatoes by two inches. That matters more than people think. Rolling boil takes maybe 12 minutes, then 18 minutes at a hard simmer. Fork should slide through like butter—not mushy, not hard. That's the window.
+
+## Why You'll Love This Creamy Herb Ranch Mash
+
+Tastes like comfort food without feeling heavy. Greek yogurt does that—creamier than it should be for something that light.
+
+Takes 30 minutes total if you move steady. Twelve minutes prep, 18 in the pot.
+
+Works as a side for literally anything. Roasted chicken, grilled fish, a quiet Tuesday night with nothing else going on.
+
+Smoked paprika and fresh dill make it feel like you tried. You did, but not much.
+
+Cleanup isn't nothing—one pot, one bowl, done. Beats a stand mixer any day.
+
+## Mashed Potatoes Made Creamy With Ranch and Greek Yogurt
+
+Five pounds of russets. Peel them or don't—skin gets soft anyway, but peeled looks cleaner. Cut into chunks about an inch and a quarter. Smaller ones get mushy. Bigger ones cook uneven.
+
+Twelve tablespoons butter total—ten goes in during mashing, two for finishing. Unsalted. Salted butter's harder to control.
+
+One cup Greek yogurt full fat. Not the nonfat kind. That stuff's too thin. Sour cream works if you have it, but Greek yogurt has tang without the weight.
+
+Two tablespoons ranch seasoning mix. The packet version. Cut it down from three—original amount gets bitter. Trust me on this one.
+
+Smoked paprika. One teaspoon. Changes everything about how this tastes. Not hot. Just smoke.
+
+Fresh dill and fresh chives. Two tablespoons each, chopped. Not dried. Dried tastes like nothing.
+
+Salt and black pepper. Add after. Never before.
+
+## How to Make Creamy Herb Mashed Potatoes
+
+Cut potatoes into those rough cubes—one and a quarter inch, not smaller. Dump them in a big pot. Cover with cold water about two inches over the top. Cold water starting point actually matters. Helps them cook even. Prevents mushy edges and hard centers.
+
+High heat. Wait for the roar. That rolling boil takes maybe 12 minutes. When it hits, you'll hear it before you see it. Keep it boiling hard for about 18 minutes. Don't trust a timer completely. Fork test instead. Slide the fork in. Should go through easy but not fall apart. That's done.
+
+Drain everything. Get all that water out. Put the pot back on low heat. Stir the potatoes for three or four minutes while they're still in there. Let the steam escape. Sounds boring. Isn't. This step keeps the mash from turning into potato soup.
+
+## Getting Your Herb Mashed Potatoes Creamy Without The Heaviness
+
+Ten tablespoons butter goes straight into the hot potatoes. Stir it for maybe one minute. Coats everything. Then fold in the Greek yogurt. Fold, don't beat. That's the difference between creamy and gluey.
+
+Ranch seasoning gets sprinkled in now—two tablespoons, not three. Less is actually better here. Too much and it tastes bitter. Same goes for the smoked paprika. One teaspoon is enough. Gives you that warm smoke without taking over.
+
+Grab a masher. Actually mash it. Leave some lumps. Small ones. Keeps texture interesting. If you want silkier, use a ricer. If you want more rustic bite, smash it less. Stop before you turn it into wallpaper paste.
+
+## Potato Side Dish Tips and What People Get Wrong
+
+Fresh herbs go in last. Dill and chives. Two tablespoons each. They're delicate. Heat kills them. Add them after everything else comes together and the pot's off the stove. You'll smell it immediately. That's how you know.
+
+Salt and pepper in pinches. Taste after each one. Potatoes are blank canvas. You're the one making the flavors work. Underseasoned's better than oversalted. You can't fix oversalted.
+
+That last two tablespoons of butter? Melt it separate. Drizzle it on top of the mash when you serve. Looks good. Tastes better. Adds shine.
+
+Temperature matters. Serve warm, not blazing. Flavors actually come through better that way. Cold mash is tough to eat and tastes flat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Creamy Herb Mashed Potatoes
+
+**Can I make this ahead?**
+Yeah. Reheat gently in a pot with a splash of milk stirred in. Or microwave in short bursts, stirring between. Texture comes back fine.
+
+**What if I don't have Greek yogurt?**
+Sour cream works. So does heavy cream if you want it richer. Regular yogurt gets thin. Don't bother.
+
+**How long do leftovers last?**
+Three or four days in the fridge covered. Taste gets better actually. Flavors settle overnight.
+
+**Should I peel the potatoes?**
+Doesn't matter much. Russet skin gets soft and disappears. Peeled looks nicer. Unpeeled's faster.
+
+**Can I use a different potato?**
+Russets are starchy. Gives you that fluffy texture. Yukon Gold's creamier but denser. Red potatoes stay too waxy. Stick with russets.
+
+**What if the ranch seasoning's too salty for me?**
+Use one tablespoon instead of two. Or skip it entirely and add salt and herbs yourself. Works either way.
+
+**Does smoked paprika taste spicy?**
+No heat at all. Just warmth and smoke. One teaspoon's subtle. You'll taste it in the finish, not upfront.
+
+**Can I freeze this?**
+Freezing changes the texture. Gets grainy when thawed. Not worth it.
