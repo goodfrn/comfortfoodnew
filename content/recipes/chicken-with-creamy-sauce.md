@@ -1,10 +1,10 @@
 ---
-title: "Chicken with Creamy Pan Sauce"
+title: "Pan Seared Chicken Breast with Creamy Sauce"
 slug: "chicken-with-creamy-sauce"
-description: "Split chicken breasts horizontally into roughly 3/4 to 1-inch thick pieces. Season with salt pepper and granulated onion powder instead of garlic powder. Pan-sear in batches over medium heat until internal temp hits 165°F with a nice golden crust. Rest covered loosely while you make a tangy pan sauce with butter chicken broth and cream cheese. Stir in whole grain mustard and simmer till thick coat. Return chicken coat with sauce. Add extra broth if sauce firms too much. Serve right away for best texture and flavor balance."
-metaDescription: "Chicken with Creamy Pan Sauce uses simple seasoning and a quick, rich sauce from broth, cream cheese, mustard. Thinly sliced breasts cook fast, juicy finish."
-ogDescription: "Thin chicken breasts seared crisp, rested, then bathed in a creamy mustard pan sauce made from broth and cream cheese. Quick, rich, layered flavors come alive fast."
-focusKeyphrase: "chicken with creamy pan sauce"
+description: "Pan seared chicken breast with a creamy pan sauce made from butter, chicken broth, and cream cheese. Tangy whole grain mustard adds depth to this easy comfort food dinner."
+metaDescription: "Pan seared chicken breast with creamy pan sauce. Butter, cream cheese, and whole grain mustard create an easy weeknight dinner. Make it tonight."
+ogDescription: "Juicy pan seared chicken breast smothered in a creamy mustard sauce with butter and cream cheese. Pure comfort food."
+focusKeyphrase: "pan seared chicken breast with creamy sauce"
 date: 2025-11-05
 draft: false
 image: chicken-with-creamy-sauce.jpg
@@ -21,9 +21,16 @@ tags:
 - "main dish"
 - "roasted"
 keywords:
-- "chicken breasts"
-- "pan sauce"
-- "whole grain mustard"
+- "pan seared chicken breast with creamy sauce"
+- "chicken with cream sauce"
+- "creamy pan seared chicken"
+- "easy chicken breast recipes"
+- "chicken breast with creamy pan sauce"
+- "comfort food chicken"
+- "pan seared chicken breast"
+- "mustard cream cheese chicken"
+- "creamy chicken dinner"
+- "weeknight chicken recipes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "520"
@@ -66,3 +73,93 @@ faq:
 - "q: How to store leftovers? a: Keep chicken and sauce separate in airtight containers to avoid sogginess. Reheat sauce gently over low heat, add broth if stiff. Microwave or stove work but low temp keeps creamy texture intact. Chicken reheats fast; avoid overcooking again. Use within 2-3 days max. Freeze option possible but texture shifts."
 
 ---
+
+Slice the chicken in half first—aim for 3/4 inch thick, maybe an inch. Pat it dry. This matters more than people think. Salt, pepper, onion powder on both sides. Let it sit while the pan heats up.
+
+## Why You'll Love This Easy Chicken Breast Recipe
+
+Takes 39 minutes total. Eighteen minutes of prep, twenty-one in the pan. Weeknight dinner, no stress.
+Cream cheese melts into the pan sauce and makes it velvety without any flour or cream. One skillet. One pan.
+Looks like you fussed. Tastes like restaurant food. Isn't either of those things.
+Leftovers reheat fine. Cold chicken with sauce is honestly kind of good the next day, maybe better. Not sure why.
+Comfort food that doesn't feel heavy. The mustard cuts through everything. Keeps it from being too rich.
+
+## Ingredients for Chicken with Cream Cheese Pan Sauce
+
+Two large chicken breasts, boneless and skinless. Slice them in half horizontally—makes them cook evenly. Trim any excess fat while you're at it.
+
+Salt and pepper. Kosher works but granular salt won't clump. A teaspoon of each, roughly. Granulated onion powder—one teaspoon. Not garlic powder. Different thing. The onion powder goes subtle and almost sweet when it hits heat.
+
+Olive oil or avocado oil. Two tablespoons. Avocado oil if you're worried about smoke. Olive oil works fine though—medium heat won't burn it.
+
+Unsalted butter. Two tablespoons. Not salted. You're controlling the salt yourself.
+
+One cup low sodium chicken broth. Low sodium matters because the broth reduces and concentrates. Regular broth gets too salty.
+
+Cream cheese in chunks. Three ounces. Cut it up before you start cooking. Smaller pieces melt faster and smoother.
+
+Whole grain mustard. One tablespoon. The texture matters. Smooth mustard won't give you those little seed bits that catch in your teeth.
+
+## How to Pan Sear Chicken Breast with Cream Sauce
+
+Pat the chicken completely dry. Water on the surface steams instead of searing. Rub salt, pepper, and onion powder on both sides. Let it sit on the cutting board for a minute while you get the skillet hot.
+
+Heavy skillet. Medium heat. Add the oil and swirl it around to coat the bottom evenly. You want it shimmering, almost smoking, but not quite there. Drop the chicken in. Immediate sizzle—that's what you're after.
+
+Don't move it. Let it sit. Five to six minutes. The bottom gets deep brown, edges start going opaque and pale. Flip once. Other side another five to six minutes. Internal temp hits 165°F—use a thermometer in the thickest part. Don't guess.
+
+Remove the chicken to a plate and tent it loosely with foil. It keeps cooking a little under there and stays warm. Resting locks the juices in. Skip this and the chicken dries out.
+
+Turn the heat down to medium-low. Butter goes in the pan now. Let it foam and melt completely. Don't let it brown. You want pale butter, foaming gently.
+
+Pour the broth in slowly, scraping the bottom with a wooden spoon to pull up all the browned bits stuck to the pan. That's flavor. That's your sauce base right there. Smells like something serious is happening. It is.
+
+## How to Make a Creamy Mustard Chicken Skillet
+
+Add the cream cheese pieces while stirring constantly. Use a whisk if you have one. Wooden spoon works. Small, slow circles until the chunks disappear into the sauce. No lumps at all. If it's not melting smooth, lower the heat a tiny bit. Too hot and it breaks and gets grainy.
+
+Whisk in the mustard. One tablespoon. Stir it through completely so you don't get pockets of mustard flavor—it should be even throughout. Taste the sauce. Salt and pepper if it needs them. Usually doesn't because the broth and cream cheese both have salt hiding in there.
+
+Keep it at a low simmer. Two to three minutes until it coats the back of a spoon. You'll see it thicken gradually. Watch it. Sauce can go from perfect to thick and gluey fast if you're not paying attention. You want pourable, glossy. Not paste.
+
+Nestle the rested chicken back into the skillet. Spoon the sauce over the top so it coats everything. Don't submerge it completely or you're basically poaching at that point.
+
+Serve right away. The sauce keeps thickening as it cools, so now is better than five minutes from now. If it gets too thick somehow—add a splash more broth to loosen it up. Easy fix.
+
+## Easy Chicken Dinner Tips and Common Mistakes
+
+Don't skip resting the chicken. Everyone wants to skip it. The juices redistribute instead of running out onto your plate. Five minutes under foil is all it takes.
+
+Even thickness matters. Thick parts take longer. Thin parts dry out. Slice them level and they cook at the same rate.
+
+Whole grain mustard—don't swap it for yellow mustard or spicy mustard without knowing what you're changing. Dijon works. Spicy brown works. Yellow mustard tastes like hot dogs. It'll work but it's different.
+
+If the sauce breaks and gets grainy when you add the cream cheese, lower the heat. Sometimes it needs to be barely warm, almost cool. Cream cheese hates aggressive heat.
+
+Pat the chicken dry before seasoning. Not just a quick wipe—actually dry. Moisture steams the chicken instead of searing it. No golden crust if there's water on the surface.
+
+Avocado oil has a higher smoke point if you're nervous about burning. Grapeseed oil too. Olive oil is fine at medium heat though. Medium-high is where it gets nervous.
+
+Crème fraîche instead of cream cheese makes a different sauce—tangier, thinner. Sour cream does similar. Both need to go in off the heat or they curdle. Experiment. The mustard changes the whole personality depending on what kind you use.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken With Cream Sauce
+
+**Can I use chicken thighs instead of breasts?**
+Yes. They're more forgiving. Thighs take a couple minutes longer—maybe 7 minutes per side. They're fattier so the sauce gets richer. Works great.
+
+**What if my sauce is too thick?**
+Add broth. A splash at a time. Stir it in and let it heat for a minute. Thins right out. Better to do it at the end than during cooking because you can always add more.
+
+**Does this reheat okay?**
+Fine in the microwave. The sauce might thicken more when it's cold. Just add broth when you reheat and it loosens up again. Tastes good cold too actually.
+
+**Can I use regular cream instead of cream cheese?**
+Not really the same. Cream doesn't thicken the sauce the way cream cheese does. You'd need flour or cornstarch then. Stick with cream cheese.
+
+**What's the internal temperature supposed to be?**
+165°F. That's the safe temp for chicken. Use a meat thermometer in the thickest part, not touching bone. Don't guess by color. Chicken looks done way before it actually is.
+
+**Can I substitute the mustard?**
+Yeah. Dijon is smoother and less seedy. Spicy brown mustard adds heat. Yellow mustard works but it tastes like different food. The whole grain mustard gives you texture and flavor without being aggressive.
