@@ -1,10 +1,10 @@
 ---
-title: "Asparagus Romesco Twist"
+title: "Roasted Asparagus with Hazelnut Romesco"
 slug: "asparagus-romesco-twist"
-description: "Roasted red pepper romesco sauce paired with oven-roasted asparagus and scallions. Almonds replaced with hazelnuts for earthier crunch. Bread crumbs swapped for toasted quinoa for nuttiness and crunch. Touch of smoked chili flakes adds heat depth. Oven roasted peppers loose their skin easy when enclosed in warm airtight container immediately. Sauce blended until partly chunky keeps rustic texture alive. Asparagus roasted to tender but still firm, tossed mid roast for even caramelization. Simple salad dressing finish on scallions keeps brightness. Sauce doubles as dip or glaze."
-metaDescription: "Asparagus Romesco Twist with roasted peppers peeled by steam, hazelnuts, toasted quinoa. Rustic sauce chunky with smoky heat. Roasted asparagus crisp, caramelized."
-ogDescription: "Romesco sauce with peeled roasted peppers, hazelnuts, toasted quinoa. Asparagus roasted tender-crisp, scallions sweetened. Rustic, smoky, textured flavors."
-focusKeyphrase: "Asparagus Romesco"
+description: "Roasted asparagus topped with hazelnut romesco sauce made from red peppers, hazelnuts, and toasted quinoa. Smoked paprika adds depth while scallions bring brightness to this vegetarian dish."
+metaDescription: "Roasted asparagus with hazelnut romesco sauce—red peppers, hazelnuts, and toasted quinoa create a nutty, textured side. Try it tonight."
+ogDescription: "Roasted asparagus and scallions with hazelnut romesco. Red peppers, hazelnuts, and toasted quinoa crunch."
+focusKeyphrase: "roasted asparagus with hazelnut romesco"
 date: 2025-08-02
 draft: false
 image: asparagus-romesco-twist.jpg
@@ -21,9 +21,18 @@ tags:
 - "hazelnut"
 - "spicy"
 keywords:
-- "romesco sauce"
-- "roasted asparagus"
-- "toasted quinoa"
+- "roasted asparagus with hazelnut romesco"
+- "hazelnut romesco sauce recipe"
+- "roasted asparagus recipe"
+- "red pepper romesco with hazelnuts"
+- "vegetarian romesco sauce"
+- "roasted asparagus and scallions"
+- "hazelnut romesco with roasted asparagus"
+- "charred asparagus with hazelnut romesco"
+- "toasted quinoa crunch"
+- "smoked paprika asparagus"
+- "vegetarian roasted asparagus dinner"
+- "roasted red pepper sauce"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "180"
@@ -76,3 +85,73 @@ faq:
 - "q: How to store leftover sauce? a: Fridge is best, thickens. Thin later with splash olive oil or water. Avoid microwaving; kills aroma and texture. Serve cold or room temp. Use within few days."
 
 ---
+
+Red peppers blackening in the oven. Three jars of stuff in the blender. Asparagus that actually snaps. Had leftover hazelnuts and cherry peppers. This happened.
+
+## Why You'll Love This Roasted Asparagus Recipe
+
+Takes just over an hour start to finish.
+The sauce tastes spicy and complex — but it's literally five ingredients blended together. Works as a side for grilled chicken or fish. Stands alone as a vegetarian dinner too. Hazelnuts give it something nobody expects. Toasted quinoa adds a crunch that shouldn't exist in a sauce. Tastes better the next day. Maybe best cold.
+
+## What You Need for Hazelnut Romesco with Roasted Asparagus
+
+Two red bell peppers. Skin side up, halved, seeded. One hot cherry pepper — whole. Not optional if you want the spicy part to actually work. A quarter cup of olive oil plus a tablespoon more. One medium plum tomato, chopped. Not cherry tomatoes. Different flavor. A quarter cup of toasted hazelnuts — buy them that way, don't bother toasting yourself. One garlic clove. Smoked paprika. A quarter teaspoon. Ground cumin. An eighth. Three tablespoons of toasted quinoa. It sounds weird. Do it anyway. Two teaspoons sherry vinegar. Salt and black pepper. A small pinch of smoked chili flakes if you like heat more than the cherry pepper gives you.
+
+One and a half pounds of asparagus, trimmed. One bunch of scallions. A tablespoon of olive oil. Salt. Pepper.
+
+## How to Make Roasted Asparagus with Red Pepper Romesco
+
+Oven goes to 225 Celsius—that's 440 Fahrenheit. Rack in the middle. Line your sheet with parchment. Doesn't matter much but cleanup's easier.
+
+Place the bell pepper halves skin side up on the sheet. Whole hot pepper too. Drizzle with a tablespoon of olive oil. Toss it around so everything's coated. Roast for 30 minutes. Watch the last 5 minutes. Skin should bubble and blister. Black spots are good. Actually burned is not. You'll know the difference.
+
+Transfer everything to a bowl. Cover it tight with foil. Let it sit 10 to 15 minutes. Steam does the work here—skins separate from flesh without you doing anything. Peel them off with your fingers. A paring knife if your fingers get tired.
+
+Blender time. Rough blend the peppers, tomato, hazelnuts, garlic, smoked paprika, cumin, quinoa, vinegar, and the remaining quarter cup of olive oil. Don't over-blend. Semi-smooth. Keep some texture. Looks rustic, not like baby food. Season with salt and pepper. Add chili flakes if you want it spicier.
+
+## How to Get Charred Asparagus with the Right Snap
+
+Same baking sheet. Wipe it if there's too much char. Toss asparagus and scallions with a tablespoon of olive oil, salt, pepper. Spread in one layer.
+
+Roast 12 to 18 minutes. Turn them halfway through. Thinner spears finish sooner. Watch those. Tips should caramelize—browning at the edges. The stalk bends but doesn't fall apart. That snap matters. Overcooked asparagus tastes like wet string.
+
+Pull them out when they're done.
+
+## Vegetarian Roasted Asparagus Dinner Tips and Common Mistakes
+
+The peppers won't fully char if you skip the steam step. Don't rush that 10 minutes. Just don't. The skin won't come off clean and you'll end up with specks in your sauce that shouldn't be there.
+
+Blend the romesco the day before if you want. Tastes better with time. Flavors settle.
+
+Asparagus gets soggy if you leave it on the sheet after roasting. Transfer it right away. Or roast it first, let it sit, then reheat with the sauce if you're not eating immediately.
+
+The sauce breaks a little if it gets too hot again. Serve warm or room temperature. Cold works too. Actually works better cold.
+
+Scallions burn faster than asparagus. Thinner. Watch them. Pull them out first if they're getting too dark.
+
+Toasted quinoa does something no other grain does here. It's not a substitute situation. It's the actual ingredient. Buy it toasted or toast it yourself for five minutes in a dry pan.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Asparagus Romesco
+
+**Can I make the romesco sauce ahead?**
+Yeah. Day before is fine. Flavors get better, actually. Store it in a jar, sealed, in the fridge. Lasts about five days. Might get thicker—just stir in a teaspoon of water if it does.
+
+**What if I can't find hot cherry peppers?**
+Jalapeños work. Half a jalapeño. They're spicier. Or use a teaspoon of chili flakes blended in. Won't give you the same pepper flavor but the heat works.
+
+**Can I roast everything at once instead of doing peppers first?**
+No. Peppers need 30 minutes. Asparagus needs 12 to 18. They don't time together. You could theoretically do peppers for 15 minutes first, then add asparagus for the last 12 to 15. Honestly? Separate pans. Cleaner.
+
+**Is this actually vegetarian?**
+Yes. No meat anywhere. The hazelnut romesco is the whole dish. Asparagus is the canvas. Works as a main or a side. Serve it with grilled chicken if you want protein. Doesn't need it though.
+
+**Do I have to use toasted hazelnuts or can I toast them myself?**
+Buy them toasted. Toasted hazelnuts have flavor. Raw ones taste like nothing. If you only find raw, toast them in a 350-degree oven for 8 minutes, stirring once. Cool before blending.
+
+**Can I make this less spicy?**
+Skip the hot cherry pepper entirely. Use a regular red pepper instead. Still 6 peppers total, just no heat. The smoked paprika stays because that's not spicy, it's flavor. Chili flakes are optional anyway.
+
+**Does this reheat okay?**
+The sauce reheats fine. The asparagus? Better cold or room temperature. Reheating makes it softer. If you want it warm again, do it in a low oven for 5 minutes. Not the stovetop.
