@@ -1,9 +1,9 @@
 ---
-title: "Corn Black Bean Salad Recipe"
+title: "Corn Black Bean Salad with Red Wine Vinaigrette"
 slug: "corn-black-bean-salad"
-description: "Corn and black bean salad with bell pepper, cucumber, and red wine vinaigrette. Vegan, gluten-free, and ready in 20 minutes. Flavors deepen after 2 hours."
-metaDescription: "Corn black bean salad recipe with fresh vegetables and tangy vinaigrette. Vegan, gluten-free, and customizable. Make it tonight."
-ogDescription: "Corn and black bean salad with crisp vegetables and a bright vinaigrette. Vegan and gluten-free."
+description: "Corn black bean salad featuring fresh corn, black beans, bell pepper, and zucchini tossed in red wine vinaigrette. Vegan, gluten-free, and ready in 20 minutes."
+metaDescription: "Make this corn black bean salad with fresh corn, black beans, bell pepper, and zucchini in red wine vinaigrette. Vegan and gluten-free. Try it tonight."
+ogDescription: "Fresh corn, black beans, bell pepper, and zucchini in a simple red wine vinaigrette. Vegan, gluten-free, and ready in 20 minutes."
 focusKeyphrase: "corn black bean salad"
 date: 2025-08-19
 draft: false
@@ -23,9 +23,16 @@ tags:
 keywords:
 - "corn black bean salad"
 - "black bean and corn salad"
-- "black bean and corn salad recipe"
 - "bean and corn salad"
+- "black bean and corn salad recipe"
+- "black bean corn salad recipe"
+- "vegan corn salad"
+- "gluten-free corn salad"
+- "fresh corn salad recipe"
+- "red wine vinaigrette salad"
 - "easy black bean and corn salad"
+- "mediterranean black bean and corn salad"
+- "corn and black bean relish"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "220"
@@ -69,3 +76,81 @@ faq:
 - "q: How long can leftovers keep? a: Store covered in fridge 2-3 days max. Beans absorb dressing, thickens over time; fresh oil or splash vinegar revives flavor next day. Stir well before serving to re-coat."
 
 ---
+
+Corn kernels go in first—actually, the dressing does. Three parts oil, one part vinegar, a touch of maple. That's the base. Everything else builds from there.
+
+## Why You'll Love This Black Bean and Corn Salad
+
+Vegan. Naturally vegan. No dairy hiding anywhere, just plants and oil.
+Takes 20 minutes of actual work if you buy corn already cooked. The rest is resting time—you're not standing there doing anything.
+Gluten free without trying. Salads usually are.
+Summer food that tastes better the next day. Flavors settle overnight, vegetables soften just enough to hold dressing without going mushy.
+Works cold straight from the fridge or room temperature. Doesn't matter. Eats fine either way.
+
+## What You Need for Black Bean and Corn Salad
+
+Olive oil. 80 ml. Not extra virgin—just regular. Extra virgin gets bitter when you use too much.
+Red wine vinegar. 45 ml. White vinegar's too sharp. This one's smoother.
+Maple syrup. 10 ml. Honey works. So does agave. Just needs something to round out the tang.
+Fresh corn. Six ears, cooked and kerneled. If ears are small—some farmers markets have them small—maybe add two more. If you use frozen, it's fine. Drain it well though.
+One can black beans. 400 ml. Rinsed. Drained. The liquid makes everything soggy.
+Orange bell pepper. One. Diced. Red tastes the same, but orange looks brighter and the flavor's sweeter, less sharp.
+Zucchini. Medium. Peeled and diced. Cucumber gets waterlogged. Zucchini stays crisp.
+Fresh basil. 45 ml chopped. Not dried. Dried tastes like dust.
+Fresh thyme. 10 ml chopped. Small amount but it matters.
+Salt and pepper. Start light. The beans already carry salt.
+
+## How to Make Black Bean and Corn Salad
+
+Whisk the oil, vinegar, and maple syrup together in a bowl—medium size, nothing huge. This dressing is the whole thing. If it tastes too sharp, add more syrup. Too sweet, add vinegar. Taste it before it goes near the vegetables. This is your only chance to fix it.
+
+Dump in the corn and black beans. Toss them around so the dressing starts clinging. This takes maybe a minute. The beans are already cooked, so you're just coating everything.
+
+Add the orange pepper and zucchini next. Mix gently but thoroughly—you want the dressing on every piece, not sitting at the bottom. This is where people drown it. Don't. You're coating, not making soup.
+
+## How to Get the Best Flavor in Black Bean and Corn Salad
+
+Chop the basil and thyme fine. Not super fine. Just so it distributes evenly. Sprinkle it in and fold gently a few times so the herbs spread through.
+
+Season now with salt and pepper. But lightly. Always lightly. The beans have salt already hiding inside—you taste it after everything sits together. Add more later if you need it. Easier to add than to take out.
+
+Cover the bowl. This is important. Let it sit in the fridge for at least 2 hours. Maybe three. The vegetables soften slightly but keep their snap. The flavors meld instead of sitting separate. When you lift the lid, the smell hits different—deeper, more herbal, more itself.
+
+Stir it once halfway through if you remember. Redistributes the dressing so the bottom pieces don't sit dry. Midway through you'll notice the vegetables have shrunk slightly and the dressing clings tighter.
+
+## Black Bean and Corn Salad Tips and Common Mistakes
+
+Serve it cold or room temperature—whatever. Cold tastes fresher. Room temp tastes more flavorful. Both work.
+
+A dash of cayenne flakes at the end if you want heat. Not required. Just there if you want it. Lime squeeze works too—changes everything if you're into that.
+
+Leftovers hold fine for days. Stir them again before you eat. The dressing settles.
+
+Don't skip the resting time thinking it'll taste fine immediately. It won't. Taste fine, I mean. It tastes fine immediately but better later. Patience pays here.
+
+The corn has to be good corn. Not bad corn sitting in the salad waiting to get better. It won't.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Black Bean and Corn Salad
+
+**Can I make this salad with avocado?**
+Yeah. Add it at the end, right before serving. Sooner and it browns. Cut it up, toss gently so you don't mash it.
+
+**Can I use canned or frozen corn instead?**
+Frozen works fine—thaw and drain it well so there's no water. Canned corn is mushier but still edible. Fresh is better. Frozen is fine.
+
+**How long does black bean and corn salad last?**
+Five days, maybe six in the fridge. Stir before serving. It gets better for two days, then starts getting kind of tired.
+
+**Can I make this without the maple syrup?**
+Honey. Agave. Even a tiny bit of sugar. Something to balance the vinegar. Without it, too sour.
+
+**Is this salad gluten free?**
+Yeah. Everything here is naturally gluten free. No grains, no sneaky stuff.
+
+**What can I swap the zucchini for?**
+Cucumber if you don't mind soggy after a day. Radishes if you want crunch that holds. Both work but zucchini's the best option.
+
+**Can this be a side dish for a mexican black bean and corn salad spread?**
+It works as a side. Works as the main too. Toss it on rice, wrap it in a tortilla, eat it cold straight from the bowl. Mexican black bean and corn salad gets called different things but this is basically it.
