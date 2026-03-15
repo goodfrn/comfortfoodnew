@@ -1,10 +1,10 @@
 ---
-title: "Creamy Chicken Veggie Stew"
+title: "Creamy Chicken Stew with Potatoes & Dill"
 slug: "creamy-chicken-veggie-stew"
-description: "Chicken thighs browned in butter. Yukon Gold potatoes chunked big. Garlic minced. Chicken broth split in two. Stir-fry veggie mix replaced by fresh diced carrots and frozen green beans. Cornstarch thickens with cream. Parsley swapped for chopped dill. Simmer in covered pan. Thick sauce clings to tender meat and crisp-tender veggies. No skin. No bones. Gluten and nuts free. Slightly longer cooking times. Lots of savory and creamy textures meld. Hearty and uncomplicated."
-metaDescription: "Creamy Chicken Veggie Stew with boneless thighs, Yukon Gold potatoes, fresh carrots, frozen green beans, and dill in a thickened cream sauce. Hearty, savory, gluten free."
-ogDescription: "Boneless chicken thighs browned in butter with chunky Yukon potatoes, carrots & green beans. Cream-thickened sauce, fresh dill. Simple, hearty, no bones no fuss."
-focusKeyphrase: "Creamy Chicken Veggie Stew"
+description: "Creamy chicken stew made with tender boneless chicken thighs, Yukon Gold potatoes, carrots, and green beans. Silky cream sauce thickened with cornstarch and fresh dill. Perfect comfort food."
+metaDescription: "Make this creamy chicken stew with chicken thighs, potatoes, carrots, and fresh dill. Comfort food that's easy and hearty. Try it tonight."
+ogDescription: "Tender chicken thighs in a creamy dill sauce with Yukon Gold potatoes, carrots, and green beans. Comfort food made simple."
+focusKeyphrase: "creamy chicken stew"
 date: 2025-07-29
 draft: false
 image: creamy-chicken-veggie-stew.jpg
@@ -21,9 +21,16 @@ tags:
 - "stew"
 - "one pot"
 keywords:
-- "chicken thighs"
-- "Yukon Gold potatoes"
-- "cornstarch cream sauce"
+- "creamy chicken stew"
+- "chicken stew with potatoes"
+- "easy chicken stew"
+- "one pot chicken dinner"
+- "chicken thighs recipe"
+- "comfort food stew"
+- "dill chicken stew"
+- "creamy chicken and vegetable stew"
+- "Yukon Gold potato chicken stew"
+- "gluten free chicken stew"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "490"
@@ -67,3 +74,94 @@ faq:
 - "q: How long does it keep? a: Store covered in fridge up to 3 days. Reheat gently—microwave or stovetop. Can freeze but sauce texture changes slightly, may need whisk to recombine. Best fresh for cream and dill flavor."
 
 ---
+
+Brown the chicken thighs first—butter in a hot pan until the skin gets that specific tan and the edges crisp. Takes about 12 minutes flipped once. Everything else builds from there.
+
+## Why You'll Love This Creamy Chicken Veggie Stew
+
+One pot. Literally everything happens in the same skillet. No transfer, no cleanup nightmare.
+Tastes like you spent actual time on it—comfort food that hits different, especially cold nights when you need something warm and soft and exactly what you want to eat.
+Takes 65 minutes total. 20 minute prep, 45 minute cook. Not fast, but not a project either.
+Chicken thighs stay tender all the way through. Not dry. They don't fall apart either—they hold together and actually taste like something.
+Works for weeknight dinner. Works for feeding people who show up. Works cold the next day if there's any left, which there usually isn't.
+
+## What You Need for Butter Braised Chicken Thighs with Cream
+
+Chicken thighs. Not breasts. The thighs stay moist and have flavor. Boneless, skinless—500 grams total.
+
+Yukon Gold potatoes. Three large ones, peeled and cut into chunks. They break down a little at the edges but hold their shape mostly. Starchy enough to thicken the sauce without cornstarch doing all the work. Not russets—those get mealy.
+
+Butter. 25 ml. Goes in first for browning the chicken. Matters more than you'd think for flavor.
+
+Garlic. Three cloves minced. Add it with the potatoes so it doesn't burn but still gets soft and sweet.
+
+Carrots. Two large ones, diced. They soften but keep a bit of resistance. Not mushy.
+
+Frozen green beans. 200 grams. Don't thaw them. Straight from the bag. They stay bright and crisp if you don't overcook them.
+
+Chicken broth. 375 ml total—180 ml first, the rest mixed with the cream at the end. Don't use the salty kind. It concentrates.
+
+Half-and-half cream. 100 ml. Not heavy cream. Not milk. The middle ground is what makes this work.
+
+Cornstarch. 20 ml. Thickens without making it gluey if you do it right.
+
+Salt, pepper, fresh dill. Dill goes on top. Changes everything about how this tastes.
+
+## How to Make One Pot Chicken Dinner
+
+Heat the skillet on high. Don't wait for it to warm up slowly—actually hot. Add the butter. Let it foam and get nutty smelling. Drop the chicken thighs in.
+
+They should sizzle immediately. If they don't, the pan isn't ready. Once they hit the pan, don't move them for a few minutes. You want brown, not gray. Flip once, halfway through. Takes about 12 minutes total. The skin side gets darker than the other side—that's correct. Pull them out onto a plate.
+
+Same pan—don't clean it. Add the potato chunks and minced garlic. Stir often because the bottom gets dry fast. About 6 minutes. Salt and pepper now. Actually taste it. The potatoes still feel raw inside—that's what you want.
+
+Pour in 180 ml of broth. It'll sizzle and stick a little where the chicken was. That's flavor—don't wipe it. Cover the pan. Boil it. Set a timer for 20 minutes. The potatoes need to go soft but not falling apart. Check around 18 minutes. They should be barely tender, like a fork goes through with just a little push.
+
+## How to Get This Creamy Chicken Stew Tender
+
+Dump in the carrots and the frozen green beans while the potatoes are still in there. Don't thaw the beans first. Stir everything around so it's not one pile. Cover again. Cook 8 minutes. The beans should still snap a little when you bite them. Carrots stay slightly firm too. This part goes wrong when people cook it too long trying to get everything soft. Don't. Soft is not the goal.
+
+Meanwhile—mix the cornstarch with the cream and the remaining broth. Stir it until there's no lumps. Cornstarch clumps if you rush it. A whisk works. A fork works. Just break it up completely.
+
+Uncover the skillet. It should smell like butter and chicken and potato. Pour the cream mixture in slowly while you stir. Keep stirring. The sauce thickens almost immediately once it hits the heat. Cook 4 minutes. It goes from thin and cloudy to creamy and slightly glossy. Stop before it gets thick—thick is too thick. It keeps thickening a tiny bit after you turn off the heat.
+
+Sprinkle dill on top. Fresh dill. The dried stuff doesn't work here. Serve hot in bowls with the broth.
+
+## One Pot Chicken Dinner Tips and Mistakes
+
+Brown the chicken properly. This takes time and you can't rush it. If the butter smokes and blackens instead of browning, the heat's too high. Medium-high is better than full high, actually. The chicken comes out better that way.
+
+Don't skip the first broth boil with the potatoes. This is where the potatoes get soft enough to hold the rest of the cooking time without disintegrating later.
+
+The cream mixture—cornstarch and cream and broth—goes in last. Once it heats, don't stir constantly. Just let it set for a minute. Over-stirring breaks the sauce. It gets thin again. Stir occasionally, not constantly.
+
+Green beans are frozen for a reason. Fresh ones change texture when they sit. Frozen keeps them intact. Use straight from the bag.
+
+Dill on top matters more than you think. It's not garnish. It's flavor correction. It makes the whole thing taste right.
+
+Taste at the end. Salt and pepper one more time. The broth might be salty already. Might not be. Doesn't matter what the recipe says—fix what's actually in your bowl.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Creamy Chicken Veggie Stew
+
+**Can I use chicken breasts instead of thighs?**
+Works but tastes less interesting. Breasts go stringy and dry faster. Thighs stay creamy even if you accidentally overcook them. Not worth swapping.
+
+**How long does this keep?**
+Three days easy. Four if you're lucky. Reheats fine—medium heat, add a splash of broth so it doesn't dry out. Sauce gets slightly thicker when it sits overnight. That's fine.
+
+**What if I don't have half-and-half cream?**
+Heavy cream works. Use less—maybe 75 ml. Milk doesn't work. Too thin. Greek yogurt works but stir it in after you turn off the heat or it breaks.
+
+**Can I add more vegetables?**
+Mushrooms work great. Celery too. Add them with the carrots and green beans. Zucchini gets mushy—skip it. Broccoli turns weird. Onions are fine if you sauté them with the potatoes from the start.
+
+**What's the difference between easy chicken stew and other recipes?**
+This one's a skillet the whole time. No transferring. No multiple pans. Everything develops together instead of separately. That's why it tastes like it belongs together.
+
+**Do I really need the cornstarch?**
+Yeah. Without it the sauce stays thin. You could skip it and just use cream, but it won't coat the chicken and vegetables the same way. The starch helps it stick. Not a thickener—just a helper.
+
+**Can I make this ahead?**
+Cook it through. Cool it. Store it. Reheat gently the next day. Don't freeze it—the potatoes get weird and mealy when they thaw. The chicken stays fine. Just the potatoes break down wrong.
