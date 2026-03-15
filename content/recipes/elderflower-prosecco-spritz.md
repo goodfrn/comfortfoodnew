@@ -1,10 +1,10 @@
 ---
-title: "Elderflower Prosecco Spritz"
+title: "Limoncello Spritz Cocktail Recipe"
 slug: "elderflower-prosecco-spritz"
-description: "A light, floral spritz mixing elderflower liqueur with sparkling Prosecco and a splash of soda water for brightness. Fresh mint muddled gently brings a subtle herbal aroma, while citrus zests or berries can lift it further. The drink balances sweetness and effervescence, great for quick gatherings or unwinding. Easy to adjust ratios for personal taste or ingredient availability, with options for replacing soda water or the liqueur. Experience shows muddling mint too harsh ruins delicate scents. Watch the bubbles settle visually and tap to hear that satisfying fizz – the marker for freshness."
-metaDescription: "Elderflower Prosecco Spritz blends floral liqueur with sparkling bubbles, fresh mint, and citrus for a bright, lightly sweet cocktail with berry options and soda lift."
-ogDescription: "Floral elderflower liqueur meets chilled Prosecco, fresh mint, citrus splash, bubbles hold tight. Berries or herbs twist the taste, fizz signals freshness every time."
-focusKeyphrase: "Elderflower Prosecco Spritz"
+description: "Make a refreshing limoncello spritz with Prosecco, elderflower liqueur, soda water, and fresh mint. This light spritz balances citrus brightness with floral notes."
+metaDescription: "Limoncello spritz cocktail recipe using Prosecco, elderflower liqueur, and mint. Light, refreshing, and perfect for gatherings. Make it tonight."
+ogDescription: "A bright, floral spritz with Prosecco, elderflower liqueur, soda water, and fresh mint. Light and perfect for any occasion."
+focusKeyphrase: "limoncello spritz cocktail"
 date: 2026-01-22
 draft: false
 image: elderflower-prosecco-spritz.jpg
@@ -21,9 +21,18 @@ tags:
 - "mint"
 - "party"
 keywords:
-- "elderflower liqueur"
-- "Prosecco"
-- "mint muddling"
+- "limoncello spritz cocktail"
+- "st germain spritz"
+- "elderflower liqueur cocktails"
+- "prosecco spritz"
+- "st germain cocktails"
+- "elderflower spritz"
+- "elderflower cocktail"
+- "hugo spritz recipe"
+- "gin and elderflower cocktail"
+- "limoncello prosecco"
+- "prosecco cocktail"
+- "mint cocktail recipe"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "120"
@@ -59,3 +68,50 @@ faq:
 - "q: Best way to store leftovers? a: If any—cover tightly with plastic wrap or stopper, fridge only. Bubbles disappear usually within an hour. No use saving soda mix separately. Some use sealed bottles with carbonation caps but fizz still fades. Fresh lime or lemon squeezed later can revive brightness a bit but texture lost entirely."
 
 ---
+
+Elderflower liqueur goes in first. Not Prosecco. Not the ice. Liqueur. Then everything else happens around it.
+
+## Why You'll Love This Limoncello Spritz Recipe
+
+Six minutes and you've got something that tastes like you actually know what you're doing. Works at a party or a Tuesday night. The citrus keeps it light — nothing heavy sitting in your stomach. Mint's optional, but it changes the whole thing. Berries just floating around make it look better than it is. Cold Prosecco does most of the work. St Germain liqueur. That's the secret part nobody thinks about. You can make ten of these in the time it takes to overthink one cocktail.
+
+## What You Need for a St Germain Spritz
+
+Elderflower liqueur — St Germain is the one everyone uses. Not strictly necessary, but it's different from everything else. Tastes like flowers without tasting flowery. Prosecco. Chilled. Not room temperature. The bubbles matter more than the alcohol. Soda water if you want it lighter. Skip it if you don't. Mint — fresh, a few leaves, optional. Lime or lemon wedge. Squeeze it or drop it in. Berries. Handful. Raspberries work. Strawberries too. Blueberries if that's what's there.
+
+## How to Make a St Germain Cocktail
+
+Elderflower liqueur first. About a tablespoon. That's your base. If you're using mint, just put the leaves in there — don't smash them. Barely move them around. You want the smell, not the bitter parts. Pour the Prosecco slow. Like actually slow. It's got bubbles and they'll explode everywhere if you're careless. Add it over the liqueur, watch it happen. Should be mostly full by now. Taste it at this point if you want. See if it's sweet enough. See if you like it.
+
+## How to Get Your St Germain Drink Crisp and Bright
+
+Soda water goes in last — just an inch or so along the side of the glass. That keeps the fizz alive. If you're skipping it, you're done. If not, pour it down the glass wall, not into the middle. Squeeze your citrus over the top. Lime's sharper. Lemon's a bit rounder. Either one works. The juice needs to land on top so it stays visible. Drop berries in. They float around. Look pretty. Add a little flavor. That's it. Nothing else needs doing.
+
+## St Germain Drink Tips and Mistakes to Avoid
+
+Cold glass helps. Ice optional — it melts and dilutes things, so maybe don't. Mint bruises fast so barely touch it. Your hands are warm. Mint knows. Don't use dried herbs. Tastes like nothing. St Germain is the expensive part so don't cheap out there — the whole thing falls apart without it. Prosecco matters too but not as much. Any dry sparkling wine works. French, Italian, doesn't matter. Just not sweet. Sweet makes it cloying. The ratio's flexible depending on how strong you want it and how much you actually like bubbles. Some people want more soda. Some people want none. Figure out what you like by the second one.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About St Germain Cocktails
+
+**What's the difference between this and an Aperol Spritz with Prosecco?**
+Different liqueur entirely. Aperol's orange and herbal. St Germain's elderflower. This one's lighter, more floral. Less bitter. Not as red. Pretty different drinks even though they're built the same way.
+
+**Can I use other elderflower liqueurs instead of St Germain?**
+Yeah. Just tastes slightly different. St Germain's kind of the standard so that's what most people expect. Others work. Might be sweeter or drier. Adjust soda water if it's too much.
+
+**Does this Hugo Spritz recipe need ice?**
+Not really. Ice melts into it and makes it watery. Cold glass is enough. Cold Prosecco does the work.
+
+**Can you make these ahead for a party?**
+The liqueur goes in early. Prosecco and soda water go in right before you hand it over. Berries and mint can go in first. Don't let it sit — the bubbles leave.
+
+**What if I don't have fresh mint?**
+Skip it. Rosemary sprig works. Basil leaf too. Even without any of it, it's still good. Mint's just nice.
+
+**How long does this recipe take?**
+Six minutes if you're moving. Most of that's pouring slow so the bubbles don't go everywhere. Faster if you skip the mint muddle part.
+
+**What's a good French elderflower liqueur to use?**
+St Germain's French and it's the most common one. That's what you want. If you can't find it, look for other French elderflower liqueurs but honestly St Germain's everywhere now.
