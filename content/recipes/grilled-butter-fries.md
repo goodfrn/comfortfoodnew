@@ -1,9 +1,9 @@
 ---
-title: "Grilled Butter Fries"
+title: "Grilled Butter Fries with Melted Cheddar"
 slug: "grilled-butter-fries"
-description: "Frozen fries tossed in melted butter, wrapped in foil boats, then grilled over indirect heat until crispy with a golden brown crust. Finished with American cheese melted inside the foil for gooeyness. Easy, smoky, and loaded with gooey cheese, these fries embrace a campfire vibe. Butter adds richness, crispness comes from indirect grilling, and the foil traps heat and steam for tender insides. Cheesy layer melts to a creamy blanket sealing flavors in. Salt and butter balance, minimal fuss, no deep fry mess."
-metaDescription: "Grilled Butter Fries wrapped in foil boats with melted cheddar cheese, crispy edges, and tender insides. Smoky, buttery, gooey, and simple to grill outdoors."
-ogDescription: "Crispy grilled butter fries with cheddar cheese melting inside foil packets. Smoky, tender, golden edges, and that subtle crackle from indirect heat on the grill."
+description: "Grilled butter fries topped with sharp cheddar cheese, cooked in foil packets over indirect heat. Frozen fries tossed in melted ghee turn crispy and golden with creamy melted cheese inside."
+metaDescription: "Grilled butter fries recipe with sharp cheddar cheese, cooked in foil packets over indirect heat for crispy, cheesy comfort food. Make it tonight."
+ogDescription: "Frozen fries tossed in melted ghee and sharp cheddar cheese, grilled in foil for crispy, gooey camping comfort food."
 focusKeyphrase: "grilled butter fries"
 date: 2025-10-10
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "comfort food"
 - "side dish"
 keywords:
-- "grilled fries"
-- "butter fries"
-- "cheddar cheese fries"
+- "grilled butter fries"
+- "cheese fries recipes"
+- "grilled frozen fries indirect heat"
+- "crispy butter fries melted cheddar"
+- "camping foil packet potatoes"
+- "grilled fries with butter and cheese"
+- "foil wrapped fries with cheese"
+- "grilled potato side dishes"
+- "outdoor grill potato side dish"
+- "grilled comfort food potato recipes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "790"
@@ -66,3 +73,69 @@ faq:
 - "q: Can I store leftover grilled fries? a: Store cool, airtight container fridge up to 2 days. Reheat wrapped in foil at low grill temp or oven to regain crisp. Microwave soggy fries worse; skip if possible. For freezer, flash cool fries, pack airtight, freeze max 1 month. Reheat slower to avoid dryness."
 
 ---
+
+Frozen fries on a grill sounds stupid until you actually taste them. The ghee hits the heat, the edges go crispy, the middle stays soft, and then the cheese melts into every single ridge. It's four ingredients and a foil packet. Takes 35 minutes total.
+
+## Why You'll Love These Grilled Butter Fries
+
+Crispy outside, melted cheese inside — no oven required. Works cold too if you've got leftovers, which is weird but fine. The ghee browns way better than regular butter, less likely to burn. Takes 28 minutes on the grill, which means you're actually hanging out outside instead of stuck in the kitchen. Sharp cheddar gives it bite that American cheese doesn't. One foil packet per person, so cleanup is basically nothing. Camping trips — this is the move. Your regular side dish setup but tastes like you actually tried.
+
+## What You Need for Grilled Potato Side Dishes
+
+Frozen crinkle cut fries. That's the base. Four cups. Don't thaw them.
+
+Ghee. Four tablespoons, melted. Coats better than butter, higher smoke point, browns instead of burns. Butter works if you're out. Just watch it closer.
+
+Sharp cheddar cheese. Eight slices. Two per packet. The tang matters. American cheese is softer, melts faster — swap if you want, but sharp cheddar's got character.
+
+Salt. Black pepper optional. You don't need much. The cheese and ghee do most of the work.
+
+## How to Make Grilled Fries with Butter and Cheese
+
+Toss the fries with warm melted ghee first. Medium bowl. Coat them all evenly — ghee clings, doesn't slide off like oil does. Hit them with salt and pepper. Light hand. You're seasoning potatoes, not making french fries at a diner.
+
+Grab four sheets of heavy-duty foil. Twelve inches each. Divide the fries between them. Keep them spread out but snug — not packed, not scattered. Fold the sides up like you're making a packet, then pinch the edges. Leave a small slit or vent on top. Steam's going to build and you need somewhere for it to go, or everything gets soggy.
+
+## How to Get Crispy Butter Fries on the Grill
+
+Place packets over indirect heat. This is key. Not directly over flame. If you've got a two-zone grill, use the cool side. Campfire? Edge of the grate, not in the hottest spot.
+
+Listen for a gentle sizzle. That's the ghee working. Watch the edges of the packets. You'll see golden brown showing through after about 18 to 22 minutes. Pick one up carefully — the foil's going to be hot — and toss the fries around inside without opening it all the way. Check if they're getting crispy. Brown spots develop naturally. That's good.
+
+Once they're there, open each packet enough to lay two slices of sharp cheddar over the fries. Close it quick. The residual heat melts the cheese in maybe five to seven minutes. You'll know because it gets stringy and gooey when you poke it with a fork.
+
+## Grilled Comfort Food Potato Tips and Mistakes
+
+The ghee substitution isn't optional if you care about taste. It adds this nutty richness and it just doesn't burn the way butter does. Higher smoke point. Less risk. If you've only got butter, lower your heat slightly and watch constantly.
+
+If the fries get crispy before the cheese melts, remove the foil tops, lower the heat, and cover loosely with a foil tent. Slows the crisping. Lets the cheese catch up.
+
+Don't pack the fries tight. Space matters. They need to get hot on all sides.
+
+Crinkle cut fries work because the surface area's there. Waffle fries work too. Steak fries take longer. Shoestring fries cook too fast, get too crispy, fall apart.
+
+Sharp cheddar versus American — American's softer, melts first, tastes mild. Sharp's got bite. Pick based on what you want. Both work.
+
+Let them rest a few minutes after the cheese melts. Steam settles, fries firm up slightly. Serve from foil or slide onto a platter. They're better hot but they're not bad cold.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Butter Fries
+
+**Can you use fresh potatoes instead of frozen fries?**
+Yeah, but they'll take longer. Cut them thin — like fry-sized thin — or they won't cook through before the outside burns. Frozen fries are frozen for a reason. Already par-cooked. Just works.
+
+**What if you don't have ghee?**
+Butter. Works fine. Just stays on the heat and watch it. Burns easier. Lower the temp slightly.
+
+**How do you know when they're done?**
+Golden brown on the edges, soft inside when you poke one. Takes 18 to 22 minutes usually. Mine takes closer to 25. Depends on your grill.
+
+**Can you make these ahead?**
+Assemble the packets, refrigerate them. Cook when you're ready. Cold packets take a few extra minutes but it works.
+
+**What if the cheese doesn't melt?**
+Close the foil tent. Trap the heat. It'll get there. Or use American cheese next time — melts faster. Sharp cheddar just needs a couple extra minutes sometimes.
+
+**Are these actually crispy or just soft in foil?**
+Crispy. The vent lets steam out instead of making everything soggy. That's the whole thing. No vent, no crispy. The slit matters.
