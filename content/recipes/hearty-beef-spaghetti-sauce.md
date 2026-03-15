@@ -1,10 +1,10 @@
 ---
-title: "Hearty Beef Spaghetti Sauce"
+title: "Beef Spaghetti Sauce with Tomato Bouillon"
 slug: "hearty-beef-spaghetti-sauce"
-description: "Ground beef browned till just right, onions softened with a blend of spices. Tomato bouillon dissolved in hot water adds depth. Tomato sauce and paste make it saucy, simmered slowly for flavors to meld. Served with garlic bread and salad. Nutritionally heavy in carbs and protein with moderate fat and high sodium levels. Simple, no fuss, with a punch of heat. Basic pantry staples except for tomato bouillon cube which can be swapped. Spaghetti cooked to tender perfectness. Forty-five minutes total time but watch the pot, smells tell all."
-metaDescription: "Hearty Beef Spaghetti Sauce with browned ground beef, layered spices, simmered tomato base. Balanced carbs and protein. Garlic bread and salad on side. Forty-five minutes cook time."
-ogDescription: "Ground beef browned well, herbs and garlic singing. Tomato bouillon for depth. Sauce simmers slow, thickens rich. Pasta tender but firm. Optional cheese twist."
-focusKeyphrase: "Hearty Beef Spaghetti Sauce"
+description: "Ground beef spaghetti sauce simmered with onions, garlic, tomato sauce and paste. Italian seasoning and Worcestershire add depth. Ready in 45 minutes."
+metaDescription: "Make beef spaghetti sauce with ground beef, onions, garlic, tomato bouillon and Italian seasoning. Homemade comfort food in 45 minutes. Try it tonight."
+ogDescription: "Homemade beef spaghetti sauce with ground beef, onions, garlic, and tomato bouillon. Slow-simmered comfort food."
+focusKeyphrase: "beef spaghetti sauce"
 date: 2025-12-30
 draft: false
 image: hearty-beef-spaghetti-sauce.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "one pot"
 keywords:
-- "spaghetti sauce"
-- "ground beef"
-- "tomato bouillon"
+- "beef spaghetti sauce"
+- "ground beef pasta sauce"
+- "easy beef spaghetti sauce"
+- "homemade tomato beef sauce"
+- "ground beef spaghetti with tomato sauce"
+- "beef spaghetti sauce with garlic"
+- "slow simmered beef pasta sauce"
+- "beef spaghetti with italian seasoning"
+- "beef pasta sauce with onions"
+- "comfort food beef tomato sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "724"
@@ -75,3 +82,77 @@ faq:
 - "q: How to store leftover sauce? a: Refrigerate in airtight container 3-4 days max. Freeze up to 3 months, thaw overnight fridge. Reheat gently with splash water or broth to loosen consistency; sauce thickens in fridge. Stir during reheat avoid burning bottom. Can also cool, freeze in portions for single meals."
 
 ---
+
+Brown the beef first—don't drain it completely. The crust on the bottom of the pan is where the flavor lives. One pound goes a long way when you let it get brown spots before you even touch it.
+
+## Why You'll Love This Easy Beef Spaghetti Sauce
+
+Done in 45 minutes. Not slow cooker time. Not simmer-all-day time. Weeknight time.
+Tastes like you simmered it for hours. The Knorr cube does something—not sure exactly why it works better than just opening stock, but it does.
+One pot for the sauce. Pasta goes in its own water. Cleanup's not nothing, but it's two pans instead of four.
+Works cold the next day. Probably better cold. Freezes fine too.
+Ground beef spaghetti sauce with actual depth. Not thin. Not watery. The kind that sticks to the noodles instead of pooling at the bottom of the bowl.
+
+## What You Need for Homemade Ground Beef Spaghetti Sauce
+
+A pound of ground beef. Doesn't matter what fat percentage—85/15 works, 80/20 works. Just brown it.
+One cup of chopped onion. Yellow onion. Not white, not red. The regular kind.
+Two cloves of garlic minced. Or three if you like garlic more. Not a problem.
+Salt and pepper. A teaspoon of salt. A quarter teaspoon of pepper.
+Italian seasoning, dried parsley, garlic powder, dried oregano. These go in all at once after the beef's done. It's just what makes it taste right.
+Red pepper flakes if you want a kick. Small amount—an eighth teaspoon. Builds.
+Worcestershire sauce. A teaspoon. Then maybe another splash at the end if it needs it.
+Sugar. One teaspoon. Cuts the tartness without tasting sweet.
+Knorr Tomato Bouillon Cube. One. It dissolves in hot water and becomes the base. Nothing fancy. Just works.
+Two cans of tomato sauce. The regular size—15 ounces each. One can of tomato paste—6 ounces. These are your backbone.
+Eight ounces of spaghetti noodles. Whatever you have.
+Parmesan cheese at the end if you want it. Freshly grated. A quarter cup stirred in off the heat melts into the sauce in a way that powder never does.
+
+## How to Make Ground Beef Spaghetti Sauce
+
+Heat a large saucepan over medium-high heat. Drop the ground beef in—don't break it up yet. Let it sit there for a minute. That crust matters.
+Use a meat masher or wooden spoon. Break it up into chunks. Keep cooking until it's brown with darker spots showing. Don't drain it yet—and actually, don't drain it at all. The fat has flavor. The browned bits stuck to the pan have flavor. Scrape them up when you add the onions.
+Throw in the chopped onion. The minced garlic. All the salt and pepper. Italian seasoning, parsley, garlic powder, the red pepper flakes, Worcestershire, sugar, oregano. Stir everything together. Watch it. The onions will start to soften and go translucent. Smell changes—should be sweet and a little pungent, not burnt. If it smells burnt, heat was too high. Lower it.
+While that's happening, microwave a cup of water for close to 3 minutes. Until it's steaming. Toss the Knorr cube into a bowl and stir until it dissolves completely. This is your shortcut. It's not stock. It's not trying to be. It's just a richer tomato base than water, and it works.
+
+## How to Get the Sauce Thick and Deep
+
+Pour in both cans of tomato sauce. The tomato paste. The bouillon water you just made. Stir hard to break up the paste so it doesn't sit in lumps.
+Bring it to a boil. You'll see bubbles breaking the surface fast. Then cover the pot most of the way—leave a crack for steam to escape—and drop the heat to low. Let it simmer. Stir every 7 or 8 minutes. Don't stir constantly or it won't thicken.
+This takes about 25 to 30 minutes. The sauce will darken. It'll go from thin and bright to thick and deep. The smell changes to something earthy and complex—that's when you know it's almost there.
+Meanwhile, boil a large pot of salted water for the spaghetti. Cook the noodles how the package says, but start testing early. You want them tender but still slightly firm when you bite. Not mushy. Drain them well. Don't rinse them unless you like cold pasta.
+
+## Beef Spaghetti Sauce Tips and Common Mistakes
+
+Taste it before you serve it. If it's too tart, add a pinch more sugar—not honey, just a little sugar. If it needs more savory depth, a splash more Worcestershire works. Don't oversalt. You can always add more.
+The optional Parmesan at the end—stir it in after the heat's off. If the sauce is still boiling when you add cold cheese, it seizes up. Off heat, it melts into something glossy and almost creamy.
+The sauce comes out thick enough to coat the noodles but still saucy. There's liquid, not paste. If yours is too thick after it cools, add a little water next time or don't let it simmer the full 30 minutes. If it's too thin, simmer longer—it'll keep thickening.
+Freezes perfectly. Cool it completely first. Frozen in a container it lasts 3 months easy. Thaw it overnight in the fridge or heat it straight from frozen over medium-low, stirring often.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Beef Spaghetti Sauce
+
+**Can I use fresh garlic instead of the minced garlic from a jar?**
+Yeah. Three or four cloves, minced. Fresh is always better if you have time. Doesn't change the cook time.
+
+**What if I don't have a Knorr Tomato Bouillon Cube?**
+Beef broth works. Or chicken broth. Or just hot water with a little extra Worcestershire and maybe a teaspoon of tomato paste stirred in. The cube's convenient but not essential. Sauce just won't taste quite as deep.
+
+**How long does this keep in the fridge?**
+Four days easy. Five if you're careful. After that it gets a thin surface film. Not worth it. Freeze it instead.
+
+**Can I add vegetables like mushrooms or peppers?**
+Sure. Diced mushrooms go in when the onions do. Bell peppers too—give them a few extra minutes to soften. Won't change the cook time much.
+
+**Should I use ground chuck or ground sirloin?**
+Doesn't matter much. Chuck has more fat and adds flavor. Sirloin's leaner. Both work. Use whatever's on sale.
+
+**What does the Worcestershire sauce do exactly?**
+Adds savory depth. Umami. Makes it taste meatier and less one-note. You could skip it but then add a splash more salt and maybe a pinch more sugar.
+
+**Can I make this in a one pot beef pasta sauce by cooking the noodles in the sauce?**
+Technically yes. They'll absorb liquid and come out softer. Texture gets different—less distinct noodles, more combined dish. I don't prefer it but people do it.
+
+**Why not just use jarred pasta sauce?**
+This tastes better because of the beef and the bouillon and sitting there 25 minutes developing flavor. Jarred's fine if you're in a rush. This isn't complicated but it is intentional.
