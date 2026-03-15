@@ -1,10 +1,10 @@
 ---
-title: "Chunky Reese's Peanut Butter Cookies"
+title: "Peanut Butter Reeses Cups Cookies"
 slug: "chunky-reeses-pb-cookies"
-description: "Buttery cookies loaded with chopped Reese's cups and peanut butter chips. Crisp edges, chewy centers, and a glossy melted topping. Bake by color, not time."
-metaDescription: "Reese's peanut butter cookies with chunky candy pieces. Dense chewy centers, crisp edges, melted peanut butter chip topping. Recipe inside."
-ogDescription: "Chunky Reese's peanut butter cookies with crisp edges and chewy centers. Loaded with candies and topped with melted peanut butter chips."
-focusKeyphrase: "reese's peanut butter cookies"
+description: "Peanut butter Reeses cups cookies with creamy peanut butter, chopped Reese's cups, and peanut butter chips. Crisp edges, chewy centers, glossy finish."
+metaDescription: "Peanut butter Reeses cups cookies loaded with chopped Reese's cups and peanut butter chips. Crispy-chewy homemade treat. Make it tonight."
+ogDescription: "Loaded with chopped Reese's cups and peanut butter chips. Crisp edges, chewy centers, irresistible homemade cookies."
+focusKeyphrase: "peanut butter reeses cups"
 date: 2026-01-18
 draft: false
 image: chunky-reeses-pb-cookies.jpg
@@ -21,15 +21,16 @@ tags:
 - "candy"
 - "dessert"
 keywords:
-- "reese's peanut butter cookies"
 - "peanut butter reeses cups"
+- "reese's peanut butter cookies"
 - "peanut butter cup cookies"
-- "reese cup cookies recipe"
-- "peanut butter cookies with pb cups"
-- "reese's peanut butter baking chips"
-- "chunky peanut butter cookies"
-- "reese's chocolate cookies"
+- "reese's peanut butter cup cookies"
+- "peanut butter cookies with reese cups"
+- "peanut butter chips cookies"
+- "reese peanut butter chip cookies"
 - "cookie recipe with reese's peanut butter cups"
+- "homemade reese's cookies"
+- "chewy peanut butter cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -83,3 +84,94 @@ faq:
 - "q: How store leftovers? a: Airtight container room temp 3-4 days fine. Layer with parchment so no sticking. Freeze single layers wrapped or sealed for months. Defrost gently to keep topping from weeping or softening too much."
 
 ---
+
+Cut the butter into chunks first—room temperature matters more than you'd think. Mix it with peanut butter and both sugars until it's actually fluffy, not just combined. Takes a few minutes. That's where the tender crumb lives. Then fold in chopped Reese's cups—don't smash them. You want whole pockets of chocolate and peanut butter studded throughout, not a paste.
+
+## Why You'll Love These Reese's Peanut Butter Cookies
+
+Tastes like you bought them at a candy store. Except you made them. Takes 20 minutes of actual work.
+Chocolate topping hardens with that specific snap—texture contrast that makes them hit different than regular cookies.
+Works as a dessert or a weird breakfast. No judgment either way.
+Stays soft in the middle even after the edges crisp up. Not dry. Most peanut butter cookies are kind of dense—these aren't.
+Freezes great if you scoop the dough first. Bake straight from frozen, add maybe a minute.
+
+## What You Need for Reese's Peanut Butter Cup Cookies
+
+Three and a half cups flour. All-purpose. Nothing fancy.
+Half cup unsalted butter at room temperature. Cold butter means tough cookies. Soft butter means they spread right.
+Half cup creamy peanut butter. Chunky doesn't work here. The cookies already have texture from the Reese's pieces.
+Light brown sugar and powdered sugar mixed together. The brown sugar adds depth. The powdered sugar keeps them tender and controls spread. Both matter.
+One teaspoon vanilla. Baking powder. Cream of tartar. These three do the lifting and keep edges from cracking prematurely.
+Two large eggs. Room temperature too. Cold eggs don't incorporate right.
+Half cup chopped Reese's peanut butter cups. Just chop them roughly. Halves work. Thirds work. Doesn't have to be precise.
+One cup Reese's peanut butter chips for the topping. These melt smoother than regular chocolate chips. One teaspoon coconut oil to thin it.
+
+## How to Make Reese's Peanut Butter Cup Cookies
+
+Preheat to 345 degrees. Lower than normal. Peanut butter burns easier and the butter edges get dark fast at 350. Line a heavy cookie sheet with parchment.
+
+Whisk flour, baking powder, cream of tartar together in a bowl. Actually whisk it. Don't just dump. The air breaks up the flour so the leavening hits even. Prevents cracks.
+
+Cream the butter in a mixer until it goes pale and fluffy. Three or four minutes on medium speed. Watch the color change. That's air getting whipped in. Air equals tender cookies later.
+
+Add peanut butter, brown sugar, powdered sugar. Mix until it looks homogenous but don't go crazy. Overmix toughens the dough. Scrape the bowl sides as you go or you'll have dry bits around the edges.
+
+Beat in vanilla and eggs until no streaks show. But stop there. Overbeat and the dough gets loose and spreads too thin. You want it to hold together when you scoop it.
+
+Fold in the chopped Reese's cups by hand with a spatula. Be gentle. Want the candy in pockets, not obliterated into everything.
+
+## How to Get Reese's Peanut Butter Cookies Crispy on the Edges
+
+Scoop using a large cookie scoop—about two tablespoons worth. Make ten balls. Leave two and a half inches between each one. They spread more than you think. Overcrowd them and they steam instead of bake and the texture gets ruined.
+
+Flatten each ball gently with the bottom of a glass. Get them to about half an inch thick. Too thin and they burn fast. Too thick and the centers stay doughy while edges crisp.
+
+Bake nine to eleven minutes. Not twelve. The edges should turn golden brown but the centers stay pale and slightly puffed. This is the part where people mess up. You think they need another minute but they don't. Cookies firm up as they cool. Pull them early if you're uncertain.
+
+Cool completely on the sheet before you touch them. This matters. If you move them hot, they fall apart. If you top them while they're warm, the peanut butter chips melt too fast and run off.
+
+Microwave the peanut butter chips and coconut oil in 25-second bursts, stirring between. Finish when it's just melted and creamy. Coconut oil thins it so it drizzles instead of sitting in a blob. Can't find coconut oil? Vegetable oil works. Same result.
+
+Spoon or drizzle the topping over each cookie. Generous. The chips will harden as they set and get that slight shine that makes them look like they cost money.
+
+Sprinkle extra chopped Reese's cups on top immediately. Before the topping sets. They'll stick.
+
+Let them sit at room temperature for twenty to thirty minutes. Or chill them if you can't wait. The topping firms faster cold.
+
+## Reese's Peanut Butter Cup Cookie Tips and Storage
+
+Dough scoops fine cold. If you want to make it ahead, scoop the dough balls, freeze them on a sheet, then move to a bag. Bake straight from frozen. Add a minute or maybe two. Temperature matters less when they're cold starting.
+
+Butter temperature makes a real difference. Use it straight from the counter if your kitchen's warm. Slightly cooler if it's hot. You need it soft enough to cream but not greasy.
+
+The brown sugar and powdered sugar combo is important. Don't swap one for the other. Brown sugar = flavor depth. Powdered sugar = tenderness and spread control. Both.
+
+Store airtight at room temperature up to four days. Longer than that and they get stale. Freeze them for longer storage. Single layers separated by parchment so they don't stick together. They defrost fine at room temperature.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Reese's Peanut Butter Cup Cookies
+
+**Can I use chunky peanut butter instead of creamy?**
+No. The cookies already have texture from the Reese's chunks. Chunky peanut butter makes it gritty. Creamy only.
+
+**What if I don't have cream of tartar?**
+Cookies flatten more without it. Still work but edges crack easier. Don't bother substituting. Just leave it out and flatten them thinner.
+
+**How do I know when they're actually done baking?**
+Golden edges. Pale center that looks slightly puffy. That's it. Don't go by time. Every oven's different. Nine minutes might be enough, might need eleven. Watch them.
+
+**Can I refrigerate the dough?**
+Yeah. Overnight's fine. Cold dough spreads less so they bake thicker. Might need an extra minute in the oven.
+
+**The topping won't harden. What did I do wrong?**
+Not enough coconut oil. Or you used too much and it won't set. Either way, put them in the fridge for ten minutes and it'll firm up. Room temperature just takes longer.
+
+**Can I use regular chocolate chips for the topping instead of peanut butter chips?**
+Can. Won't taste the same. Peanut butter chips melt smoother and taste like the filling. Regular chocolate chips get grainy sometimes. If you go that way, add a tiny bit more coconut oil.
+
+**How long do these actually last?**
+Four days airtight at room temperature before they get stale. Frozen they're fine for weeks. Defrost on the counter. Don't microwave them or the topping gets weird and greasy.
+
+**Do I have to use Reese's branded cups and chips?**
+No. Store brand works. tastes almost identical. Save money if you want. The quality difference isn't worth it here.
