@@ -1,10 +1,10 @@
 ---
-title: "Green Tahini Yogurt Sauce"
+title: "Green Tahini Yogurt Sauce with Parsley"
 slug: "green-tahini-yogurt-sauce"
-description: "A herbaceous sauce combining parsley and mint, with olive oil and tahini for creaminess. Lemon juice and garlic add brightness. Greek yogurt smooths all flavors. Quick blending. Versatile for dips and dressings."
-metaDescription: "Green Tahini Yogurt Sauce, herbaceous and creamy. Bright lemon and garlic with fresh herbs. Quick blend for dips or dressings."
-ogDescription: "Whip up this Green Tahini Yogurt Sauce. It's fresh, creamy, and packed with flavor. Perfect for a dip or drizzle."
-focusKeyphrase: "Green Tahini Yogurt Sauce"
+description: "Creamy green tahini yogurt sauce with fresh parsley, mint, lemon juice, and garlic. Greek yogurt base with olive oil creates a versatile herb dip and dressing ready in minutes."
+metaDescription: "Green tahini yogurt sauce made with parsley, mint, Greek yogurt, and lemon juice. Perfect herb dip for vegetables and grains. Make it tonight."
+ogDescription: "Herbaceous tahini yogurt sauce with fresh parsley, mint, and Greek yogurt. Bright, creamy, and ready in minutes for dipping."
+focusKeyphrase: "green tahini yogurt sauce"
 date: 2025-07-21
 draft: false
 image: green-tahini-yogurt-sauce.jpg
@@ -21,9 +21,16 @@ tags:
 - "condiment"
 - "mint"
 keywords:
-- "tahini recipe"
-- "yogurt sauce"
-- "fresh herbs sauce"
+- "green tahini yogurt sauce"
+- "tahini yogurt dip with fresh herbs"
+- "parsley mint tahini yogurt sauce"
+- "greek yogurt sauce with tahini and lemon"
+- "herb yogurt sauce"
+- "tahini sauce"
+- "mediterranean herb dip"
+- "healthy tahini yogurt dip"
+- "vegetarian tahini sauce"
+- "green sauce with tahini and yogurt"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "150"
@@ -64,3 +71,87 @@ faq:
 - "q: Storage tips? a: Store in airtight container. Keep cold. Use within a week. Flavor’s better in few days; it doesn't spoil fast but aim for freshness."
 
 ---
+
+Parsley and mint go in first. Not yogurt. That's the move.
+
+## Why You'll Love This Green Tahini Yogurt Sauce
+
+Takes 12 minutes flat — just chop, blend, fold. No cooking.
+Works as a dip. Works on roasted vegetables. Works on literally anything that needs something green and tangy.
+Mediterranean vibes without the fuss. Healthy actually tastes good here.
+Stays fresh in the fridge for a week. Maybe longer.
+Makes enough for leftovers — tastes better the next day when the herb yogurt sauce gets deeper somehow.
+
+## What You Need for This Tahini Yogurt Dip
+
+Flat-leaf parsley — a third of a cup chopped. Not the curly kind. Curly's bitter.
+
+Mint leaves. Fresh. About a third cup too. This is what makes it actually taste like something.
+
+Extra virgin olive oil. Three tablespoons. Cheap oil tastes cheap here. Don't bother.
+
+Tahini. One tablespoon. Just enough to give it body without making it taste like tahini.
+
+Lemon juice. A tablespoon and a third. Bottled works. Fresh is better. Honestly either one.
+
+One small garlic clove minced. Small. Not medium. One medium clove and it's aggressive.
+
+Greek yogurt. Three quarters of a cup at first, then another three eighths after. Both amounts matter — the split does something.
+
+Salt. Taste it first, then add more.
+
+## How to Make Green Tahini Yogurt Sauce
+
+Get a food processor or blender — doesn't have to be fancy. Throw the parsley, mint, olive oil, tahini, lemon juice, and that one small garlic clove in there. Don't start yet.
+
+Add the first batch of yogurt — the three quarters cup. Now pulse it. Not blend. Pulse. You want it mixed but still chunky, still has some texture to it. Takes about 7 or 8 minutes of pulsing on and off. Stop before it gets smooth. That's the mistake people make.
+
+Scrape it into a bowl.
+
+## How to Get the Texture Right on Herb Yogurt Sauce
+
+Fold in the remaining yogurt slowly. Not stirring. Folding. Big gentle motions with a spatula. You're trying to keep the green from getting totally beaten down. It'll come together — you'll see where the yogurt stops looking separate and just becomes part of it.
+
+Salt it. Generously. Stir once. Let it sit for five minutes. The flavors need that time to actually connect — the mint gets quieter, the garlic melts in, the lemon stops tasting sharp. You can taste the difference.
+
+## Tahini Yogurt Dip Tips and Common Mistakes
+
+Don't over-blend. The second you think it might be done, stop. Over-blending makes it weird and separated.
+
+Fold gently. Rough stirring breaks up the herbs and turns the whole thing gray. You want green.
+
+The second batch of yogurt goes in after blending. Don't dump it all in at the start — it changes how the blending works. Trust the process.
+
+Taste before serving. Maybe it needs more salt. Maybe it needs more lemon. Depends on your yogurt and your lemon.
+
+Cold is fine. Room temperature is better. This is a mediterranean herb dip — it shouldn't be ice cold.
+
+Works on everything. Roasted vegetables. Grilled chicken. Flatbread. Eggs. Potatoes. Just sits there on the plate looking useful.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Green Tahini Yogurt Sauce
+
+**Can I make this without a food processor?**
+Mince everything really small by hand. Mix it with the oil and lemon juice to make a paste first, then fold in the yogurt. Takes longer but works fine. Not worth buying a processor just for this.
+
+**How long does it keep?**
+Five days in the fridge, maybe six. The herbs brown after that. Doesn't taste bad but looks less mediterranean herb dip and more like something that's been sitting.
+
+**What if I don't have Greek yogurt?**
+Regular yogurt works. You'll get more liquid so the tahini yogurt sauce thins out. Add less regular yogurt than the recipe says. Maybe use less of both batches — like half cup then a quarter cup.
+
+**Can I use dried mint or parsley?**
+No. Tastes like hay. Just don't.
+
+**Is this vegetarian?**
+Yeah. Obviously. No meat anywhere.
+
+**Can I double it?**
+Sure. Times stay the same. Blend longer if you're doing double the batch because the processor gets fuller.
+
+**What do I serve it with?**
+Vegetables. Chicken. Fish. Bread. It's a mediterranean healthy tahini sauce. Serve it with whatever needs green.
+
+**Does the mint overpower it?**
+Not if you chop it fresh and fold gently. If you over-blend it gets minty-aggressive. The fresh herbs need their texture to stay balanced.
