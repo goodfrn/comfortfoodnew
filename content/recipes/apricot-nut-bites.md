@@ -1,10 +1,10 @@
 ---
-title: "Apricot Nut Bites"
+title: "Apricot Nut Bites with Dark Chocolate"
 slug: "apricot-nut-bites"
-description: "Sweet and crunchy treats. Dried apricots mixed with nuts and dark chocolate. No gluten or eggs here. Simple to make. Perfect for snacking or dessert. Ready in about 30 minutes. Keeps well in a sealed container. Good for sharing."
-metaDescription: "Apricot Nut Bites are sweet crunchy snacks. Dried apricots coated with chocolate and nuts. A delightful treat for any occasion."
-ogDescription: "Enjoy Apricot Nut Bites. Dried apricots coated in chocolate. Crunchy nut mixture makes for a perfect snack. Simple to prepare."
-focusKeyphrase: "Apricot Nut Bites"
+description: "Apricot nut bites combine dried apricots, toasted hazelnuts, pecans, and semi-sweet chocolate. Gluten-free no-bake snacks ready in 30 minutes. Perfect for sharing."
+metaDescription: "Make apricot nut bites with dried apricots, hazelnuts, pecans, and dark chocolate. Gluten-free no-bake snacks that keep well. Try it tonight."
+ogDescription: "No-bake apricot bites with hazelnuts, pecans, sunflower seeds, and dark chocolate. Gluten-free and ready in 30 minutes."
+focusKeyphrase: "apricot nut bites"
 date: 2025-07-16
 draft: false
 image: apricot-nut-bites.jpg
@@ -21,9 +21,16 @@ tags:
 - "gluten free"
 - "no bake"
 keywords:
-- "apricot snacks"
-- "chocolate bites"
-- "nutty treats"
+- "apricot nut bites"
+- "no bake snacks"
+- "gluten free chocolate snacks"
+- "apricot chocolate bites"
+- "chocolate treats"
+- "dried apricot pecan chocolate clusters"
+- "hazelnut sunflower seed chocolate bites"
+- "vegetarian no bake dessert"
+- "make ahead gluten free chocolate treats"
+- "dark chocolate apricot bites with nuts"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "120"
@@ -68,3 +75,71 @@ faq:
 - "q: How do I melt chocolate? a: Use microwave or double boiler. Melt slowly. Stir often to prevent burning. Once smooth, work quickly. Time is key here."
 
 ---
+
+Dip the apricot, coat it three quarters, pile on the nuts. Chocolate hardens in ten minutes if you're impatient, 45 if you're not. No oven needed.
+
+## Why You'll Love These Apricot Nut Bites
+
+Takes 15 minutes to make, actually. Rest of the time is just waiting for chocolate to set.
+Gluten free and vegetarian without tasting like either one — tastes like chocolate and nuts and apricots, which it is.
+No bake snacks are either too sweet or too boring. These hit different. The salt pushes the chocolate darker. The apricot stays chewy inside the shell.
+Make ahead for literally a week. Grab one when you want something that's not a candy bar but kind of is.
+Works cold straight from the fridge or room temperature — doesn't matter.
+
+## What You Need for Apricot Chocolate Bites
+
+Almond flour. Fifty grams. Toasted hazelnuts, chopped — thirty. Sunflower seeds, forty. Pumpkin seeds crushed down, thirty grams. Pecans chopped up, forty grams. Mix those five together and you're halfway done.
+
+Semi-sweet chocolate, two hundred grams. Chop it up first — melts faster and more even. Twenty dried apricots. Not the soft ones in a tub. The ones that actually feel like apricots. Sea salt. One teaspoon. That's it.
+
+You can swap the hazelnuts for almonds if you want. Sunflower and pumpkin are pretty locked in — they give texture. Pecans could be walnuts. Dark chocolate works instead of semi-sweet if you're into that. The apricots are the apricots. Don't mess with that.
+
+## How to Make Apricot Nut Bites
+
+Line a sheet with parchment. Doesn't matter if it's fancy or wrinkled. Chocolate doesn't care.
+
+Melt a hundred grams of the chocolate first. Microwave-safe bowl, 30-second bursts, stir between each one. Doesn't need to be perfect. Once it's mostly liquid, add the rest of the chocolate gradually while stirring. The residual heat finishes it off. Stir until smooth. Takes maybe two minutes total.
+
+Combine the nut mixture in a separate bowl — all the almonds, hazelnuts, sunflower, pumpkin, pecans, and salt. Stir it. Make sure the salt's distributed or you'll get one bite that's aggressively salty.
+
+Now the actual part. Take an apricot. Dip it in the chocolate — not all the way. Leave a quarter of it uncovered so you can hold it without melting your fingers. Place it on the parchment. While the chocolate's still wet, sprinkle the nut mixture on top. Generous. Press it down slightly so it sticks. Repeat until all twenty apricots are coated.
+
+## How to Get These Crispy and Set
+
+Heat matters zero. Room temperature chocolate sets fine. Sit them on the counter for 45 minutes and they're solid. You want them faster? Fridge for ten minutes. Not freezer — too fast, gets brittle.
+
+The chocolate coating should snap when you bite it. The apricot inside stays chewy. That's the move. If you use milk chocolate instead of semi-sweet, it won't snap as clean — softer, sweeter. Different vibe, not worse.
+
+Don't stack them while they're setting. Just don't. They'll stick together and you'll have a situation.
+
+## No Bake Chocolate Treats Tips and Storage
+
+The nut mixture needs to be actually mixed. The salt especially. Tastes weird if it's all in one bite.
+
+Melting chocolate in the microwave works fine. Don't let it get hotter than you can touch — it'll burn and taste bitter. Low and slow. Or just do it in 20-second bursts like a normal person.
+
+Store them in an airtight container at room temperature. They last about a week, maybe longer if they make it that long. Haven't had a batch last longer than five days. They work cold from the fridge too — maybe even better. Chocolate's snappier.
+
+Make ahead works great. Do them on Sunday, grab them all week. Works for lunchboxes, works for after dinner, works for when someone asks if you have snacks.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Apricot Chocolate Bites
+
+**Can I use a different type of dried fruit?**
+Probably. Dates would work. Figs maybe. Apricots are tart and chewy though — most other stuff is either too soft or too sweet. Apricots are kind of perfect for this. Haven't tried anything else that works as well.
+
+**What if I don't have all the seeds and nuts listed?**
+Use whatever you have. The point is texture. You need something crunchy on top. Almonds, walnuts, sesame seeds, crushed pretzels if you're weird about it. Just don't skip the salt. That's the part that matters.
+
+**Do these need to be refrigerated?**
+No. Room temperature's fine. Fridge makes the chocolate snap better though. If your kitchen's hot, yeah, fridge them. They won't melt at room temp if you're not in direct sun or anything.
+
+**Can I make these dairy free?**
+The chocolate's where the dairy usually is. Dairy free chocolate exists. Use that instead. Same melting process. Same result.
+
+**How long do they actually last?**
+A week in an airtight container, room temperature. Probably longer but I never make them last that long. Fridge extends it if you really want to hoard them.
+
+**Can I use dark chocolate instead of semi-sweet?**
+Yeah. It'll be less sweet, snappier when it sets. The apricot tartness comes through more. Good trade if you don't want something too sugary. Same amount, same method.
