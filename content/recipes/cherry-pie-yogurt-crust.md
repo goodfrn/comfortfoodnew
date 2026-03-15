@@ -1,10 +1,10 @@
 ---
-title: "Cherry Pie with Yogurt Crust"
+title: "Cherry Pie with Yogurt Crust Recipe"
 slug: "cherry-pie-yogurt-crust"
-description: "A tart filled with juicy cherries thickened with minute tapioca crushed fine, encased in a flaky yogurt-enriched pâte brisée. The dough gets a tangy lift from plain yogurt instead of all butter or cream. Roses cut from the top crust dance on the fruit bed, brushed with egg wash for golden sheen. Baking till crust blisters golden and filling bubbles through, releasing that warm cherry aroma that perfumes the kitchen. Chilling dough matters here, so it shatters rather than shrinks. Tapioca swells, locking juices; sugar balances the tartness. A tablespoon of lemon juice cuts sweetness and brightens colors. The recipe shifts timing a few minutes from usual, because ovens vary and fruit moisture leaks differ."
-metaDescription: "Cherry Pie with Yogurt Crust, tangy yogurt dough, crushed tapioca thickened filling, fresh cherries, golden flower-top crust; bake for warm, bubbling fruit aroma."
-ogDescription: "Tart crust from yogurt dough; crushed tapioca swells in bubbling cherry filling. Flowers top, bake to golden crisp. Watch aroma, texture, and browning cues."
-focusKeyphrase: "Cherry Pie with Yogurt Crust"
+description: "Cherry pie with a tangy yogurt-enriched crust and fresh cherry filling thickened with tapioca. Golden, flaky pastry with decorative roses and a lemon-brightened filling."
+metaDescription: "Cherry pie with yogurt crust filled with fresh cherries and tapioca. Learn how yogurt creates a flaky, tender pastry. Make it tonight."
+ogDescription: "Golden cherry pie with a yogurt-enriched pâte brisée crust and juicy fresh cherry filling thickened with tapioca."
+focusKeyphrase: "cherry pie with yogurt crust"
 date: 2025-09-29
 draft: false
 image: cherry-pie-yogurt-crust.jpg
@@ -21,9 +21,15 @@ tags:
 - "vegetarian"
 - "homemade"
 keywords:
+- "cherry pie with yogurt crust"
 - "cherry pie"
-- "yogurt crust"
-- "tapioca thickener"
+- "homemade cherry pie from scratch"
+- "cherry pie with tapioca filling"
+- "yogurt enriched pastry crust"
+- "fresh cherry pie recipe"
+- "pate brisee with yogurt"
+- "homemade pie"
+- "vegetarian tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -73,3 +79,105 @@ faq:
 - "q: How to store leftovers? a: Loosely cover room temp, avoid fridge if possible—fridge toughens crust. Eat within 2 days. Reheat gently to avoid drying crust. Chilling makes filling firm but crust soggy next day. If chilling overnight, bring to room temp before serving for softer crust feel. Wrap loosely—plastic traps moisture, lose crispness fast."
 
 ---
+
+Yogurt in the crust. Sounds wrong. Works. The acid breaks down the flour differently—you get these shards of butter suspended in dough that shouldn't even hold together but somehow flake like nothing else. Had butter-only crusts for years. Switched once and didn't go back.
+
+## Why You'll Love This Homemade Cherry Pie
+
+Takes 1h 27 min total but most of that's waiting and baking—you're not doing anything.
+Fresh cherries work. Frozen work better, actually—less watery.
+The yogurt crust is a real homemade pie advantage. Crisp where butter-only gets greasy. Tastes like something actually happened in your kitchen.
+Vegetarian. Every part of it.
+Tapioca thickens without tasting like starch. No cornstarch grit. No weird texture.
+Looks fancy with the flower cutouts. Sounds complicated. Takes maybe 2 minutes with a cookie cutter.
+
+## What You Need for a Yogurt Enriched Pastry Crust
+
+Flour first. All-purpose. 360 grams, which is about 2 and a third cups if you're measuring.
+
+Cold butter. 160 grams. Cubed. Cold is actually important here—warm butter means a greasy mess. Keep it in the freezer until you need it.
+
+Yogurt. Plain. 90 milliliters. That's roughly 6 tablespoons. The acid matters. Greek yogurt works. Regular yogurt works. Thick, thin—doesn't much matter. The live cultures are what does something to the gluten structure.
+
+Salt. Just a pinch. 1.5 milliliters.
+
+For the filling: 900 grams of cherries. Fresh or frozen. Halved. 200 grams of sugar. 20 milliliters of lemon juice—bottled is fine, fresh is better. And tapioca. 60 grams of the quick kind. You'll grind it finer.
+
+Egg for wash. One egg. Water. Just a tablespoon.
+
+## How to Make a Homemade Cherry Pie from Scratch
+
+Pulse the flour and salt first. Food processor. Just a few pulses—you're not mixing yet, you're just breaking up any lumps.
+
+Add the cold butter cubes. Pulse again. Short bursts. Stop when it looks like coarse sand with some pea-sized chunks still in there. You want some butter pieces to survive. That's what makes it flake. Too long and the butter warms up and everything gets greasy and flat.
+
+Pour in the yogurt. Pulse until the dough just starts clumping together. Don't keep going. The flour hydrates fast once the yogurt hits. You'll see clumps forming and that's when you stop.
+
+Scrape the whole thing onto a work surface. Divide in half. Make two disks—flat, not balls. Wrap each in plastic. Refrigerate them. Minimum 35 minutes. Longer is fine.
+
+Meanwhile, grind your tapioca. Mortar and pestle if you have one. A spice grinder works. You want it fine—smaller than the original granules. This step gets skipped and then you bite into grit. Don't skip it.
+
+Heat your oven to 205 Celsius. That's 400 Fahrenheit. Put the rack in the lower third. The bottom of the tart needs heat more than the top.
+
+## How to Get a Yogurt Crust Cherry Pie Actually Crispy
+
+Pull one dough disk out. Lightly flour the work surface. Roll it thin—about 3 millimeters. 28 centimeters across, which is 11 inches. Don't stretch it. If you stretch it, it shrinks when it bakes and you get sad.
+
+Lift it gently into a 23-centimeter tart pan. That's 9 inches. Press it into the corners. Use your fingers or the bottom of a glass. Pinch the edges—make little scallops with your thumb and forefinger. Looks intentional. Catches drips.
+
+Get both doughs back in the fridge on parchment. They need to be cold when they go in the oven. Cold dough stays flaky. Warm dough doesn't.
+
+Whisk your egg with the water. Brisk. Until it's one color. This seals the pastry and makes it golden.
+
+In a bowl, toss the cherry halves with the ground tapioca, the sugar, and the lemon juice. Lemon keeps them from browning too fast. Keeps them from being too sweet. Let it sit 10 minutes. The tapioca starts thickening right then.
+
+Pour the filling into the crust. Spread it even. Don't press down. The cherries need room to move, to bubble.
+
+This is the fancy part that sounds harder than it is. Take your second dough disk. Get a small flower-shaped cookie cutter. Stamp out flowers. Lay them on top of the cherries. Overlapping. Scattered. You're not trying to cover the whole thing—you're creating a pattern that looks intentional and lets steam escape.
+
+Brush egg wash on every flower. Brush it on the edges of the bottom crust that you can see. This prevents sogginess. Makes everything gold.
+
+Set the tart on a parchment-lined tray. Slide it into the oven.
+
+## Cherry Pie with Tapioca Filling Tips and Common Mistakes
+
+Bake for 47 minutes. Watch through the oven window. You're looking for the edges of the crust to turn deep golden. The flowers should puff slightly and glisten. The filling—you'll see it bubbling through the gaps.
+
+Don't poke it to check if it's done. The filling is molten. You can't tell anything from a fork.
+
+The real cue is color and bubbling. Dark edges. Steady bubbles. That's when you pull it out.
+
+Let it cool. Actually let it cool. 45 minutes at least. An hour is better. The filling firms up as the tapioca absorbs the cherry juice again. If you cut it warm, it runs everywhere. This is the hardest part of the whole thing because it smells incredible and you want to eat it immediately.
+
+Serve it warm or cold. Both work. Store it loose at room temperature. It'll stay good for two days before the crust starts to soften. After that it's not bad, just not the same.
+
+Frozen cherries—they actually work better. Less water than fresh. Same timing. Same result.
+
+Substitutions: You could use cornstarch instead of tapioca but tapioca tastes cleaner. Arrowroot works too. Some people use flour but you get a starchy taste.
+
+Don't skip the tapioca grinding step. That's where most people go wrong.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fresh Cherry Pie Recipe
+
+**Can I make the yogurt enriched pastry crust the day before?**
+Yeah. Wrap it tight. It'll last 2-3 days in the fridge. Just let it warm up 5 minutes before rolling or it cracks.
+
+**What if I don't have tapioca?**
+Cornstarch works. Use about 45 grams. You lose some of the clean taste but it thickens fine. Arrowroot is closer to tapioca. Flour doesn't work the same way—you get a pasty texture.
+
+**Do I have to use a tart pan?**
+No. Use a pie dish. Roll both disks. Line the bottom, add filling, lay the second one on top. Flute the edges. Bake the same time. The pate brisee with yogurt flakes the same way.
+
+**Can I use canned cherries?**
+Not really. They're too soft. They fall apart. Fresh or frozen. That's it.
+
+**Why does my crust come out greasy?**
+Butter wasn't cold enough, or you mixed it too long. The yogurt crust is less forgiving than butter-only because the yogurt is wet. Keep everything cold. Pulse short. Stop when you see granules, not when it's smooth.
+
+**How do I know if the filling is actually done?**
+You don't, really. It's molten when it comes out. You're looking for the crust to be golden and the fruit to bubble steadily. The tapioca does its job as it cools. Trust the cooling time more than anything else.
+
+**Can I make this vegetarian?**
+It already is. Flour, butter, yogurt, eggs, cherries, sugar, tapioca, lemon. Nothing there needs to be anything else.
