@@ -1,10 +1,10 @@
 ---
-title: "Homemade Brownie Mix Twist"
+title: "Homemade Brownie Mix with Dutch Cocoa"
 slug: "homemade-brownie-mix"
-description: "Quick dry mix for brownies with a tweak. Uses slightly less sugar, adding cornstarch instead of flour for better texture. Cocoa swapped with dutch-processed for richer color and deeper flavor. Dry ingredients combined thoroughly, pulsed for consistency. Makes one batch mix, stored airtight lasts weeks. Ideal for last-minute baking or gifting. Key steps avoid clumps, get that right crumb and fudgy chew. No boxed mix mystery, total control."
-metaDescription: "Homemade Brownie Mix Twist with less sugar, cornstarch for texture, dutch-processed cocoa for depth. Dry blend, pulse, store airtight. Watch edges and smell to bake."
-ogDescription: "Brownie dry mix with cornstarch, dutch-processed cocoa, less sugar. Pulse blend, store airtight. Bake by senses—wrinkled edges, cocoa aroma, soft center."
-focusKeyphrase: "Homemade brownie dry mix"
+description: "Make homemade brownie mix with dutch-processed cocoa, cornstarch, and reduced sugar for fudgy texture. Store airtight for weeks of fresh baking."
+metaDescription: "Homemade brownie mix recipe using dutch-processed cocoa and cornstarch for better texture. Less sugar, more flavor. Make it tonight."
+ogDescription: "Dutch cocoa brownie mix with cornstarch and reduced sugar. Fudgy, rich, and ready to bake anytime."
+focusKeyphrase: "homemade brownie mix"
 date: 2026-01-03
 draft: false
 image: homemade-brownie-mix.jpg
@@ -21,9 +21,14 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "brownie mix"
-- "dry mix brownies"
-- "cornstarch in brownies"
+- "homemade brownie mix"
+- "dutch cocoa brownies"
+- "cornstarch brownie mix"
+- "homemade brownies"
+- "brownie mix recipe"
+- "chocolate dessert"
+- "dry brownie mix"
+- "fudgy brownies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "150"
@@ -70,3 +75,81 @@ faq:
 - "q: Best storage for dry brownie mix? a: Airtight jar or container away from moisture, heat, sunlight. Room temp preferred. No fridge unless sealed very tight but condensation can cause clumps. Store small batches you can use within 3 weeks. Long term storage risky; freshness fades, powder clumps. Check mix before use—sift or pulse if needed."
 
 ---
+
+Mix this in 6 minutes. You've got a dry brownie base that sits in a jar for weeks—no eggs, no oil, no fridge. Just add liquid and heat when you want actual brownies.
+
+## Why You'll Love This Brownie Mix
+
+Whips up fast and lives in your pantry. Bake brownies in 20 minutes whenever the craving hits.
+Homemade chocolate flavor without the "from a box" taste. Dutch-processed cocoa makes it actually taste like something.
+The cornstarch does weird stuff—makes them chewier, not cakey. Texture's better than you'd expect.
+Works cold. Stores for three weeks. Perfect for last-minute gifts or just having brownies ready when you need them.
+Less sugar than most recipes. Doesn't sacrifice anything. Still tastes rich.
+
+## What You Need for Homemade Brownie Mix
+
+¾ cup sugar. Not a full cup—it's enough.
+
+3¾ tablespoons dutch-processed cocoa powder. Not regular. The Dutch version tastes deeper, almost smoky. Regular cocoa works but it's more bitter and thinner.
+
+6 tablespoons cornstarch. This is the secret move. Replaces some flour, keeps the texture different from a cake. Tapioca starch works too but cornstarch's better.
+
+5 tablespoons all-purpose flour. Just enough.
+
+½ teaspoon baking powder. Not baking soda. Powder.
+
+⅓ teaspoon fine sea salt. Fine salt dissolves better than kosher. Matters.
+
+## How to Make a Dry Brownie Mix
+
+Whisk everything together—hard. Not casual whisking. Actually force it. Sugar lumps disappear, everything gets powdery and even. Takes about a minute of real effort.
+
+If you see clumps, run it through a fine-mesh sieve. Push the cocoa lumps through with the back of a spoon. Takes another minute. Worth it—gritty brownies are wrong.
+
+Pulse it in a food processor or blender. Five or six quick pulses. Not more. You want it smoother but not heated or compressed. Think dusty chalk. Even color top to bottom.
+
+That's it. You're done mixing.
+
+## How to Store and Use Your Dutch Cocoa Brownie Mix
+
+Pour into an airtight container. Keeps for three weeks easy, sometimes longer if your kitchen's actually cool and dry. No fridge.
+
+When you want brownies, grab the mix. It'll probably have settled a bit—quick sift or five pulses in the processor and it's back to normal.
+
+Add the wet ingredients. Oil, water, egg, whatever the actual brownie recipe says. Bake at whatever temp you're using. Twenty minutes is standard but watch for it—don't trust time alone.
+
+## Brownie Mix Tips and Common Fixes
+
+Whisk with actual force. Sugar pockets ruin brownies. You'll feel the difference between "whisked" and "actually whisked" pretty fast.
+
+The food processor pulse thing—subtle. Don't blast it. Pulsing too hard oxidizes the cocoa and you lose flavor. Just a few quick hits.
+
+Sometimes the mix clumps after it sits. Just sift again or pulse a couple times. Totally normal.
+
+If your brownies turn out too dry, next time add 2 tablespoons melted butter and 3 tablespoons water—or coffee, which amplifies the chocolate without making it bitter. That fixes it.
+
+No dutch-processed cocoa? Regular cocoa works but add ¼ teaspoon baking soda to cut the acid. It'll taste sharper but it'll work.
+
+Gluten-free? Swap the flour for a gluten-free blend but keep the cornstarch amount the same. The cornstarch's doing the texture work, not the flour.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Brownie Mix
+
+**How long does the dry brownie mix actually last?**
+Three weeks easy if it's sealed tight in a cool spot. After that it starts losing punch but honestly it's still fine for a month. Just doesn't taste as chocolate-y after a while.
+
+**What if I don't have dutch-processed cocoa?**
+Use regular but add ¼ teaspoon baking soda. It won't taste exactly the same—more bitter, less smooth—but it works. Dutch cocoa's better though.
+
+**Can I swap out the cornstarch?**
+Tapioca starch works. Regular flour doesn't—you lose the chew. Cornstarch's the whole point here.
+
+**Do I need a food processor?**
+No. Just whisk hard and sift if you see lumps. Processor makes it smoother but not required. Takes an extra minute by hand.
+
+**Why is the sugar reduced?**
+¾ cup instead of a full cup keeps it from being cloyingly sweet. Still tastes rich and chocolate-y but you actually taste the cocoa.
+
+**Does the mix go bad before I use it?**
+Not really. Three weeks is just when it starts getting stale. After a month it's fine but tastes a bit less punchy. Store it sealed in a cool place and stop worrying about it.
