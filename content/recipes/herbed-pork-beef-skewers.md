@@ -1,10 +1,10 @@
 ---
-title: "Herbed Pork Beef Skewers"
+title: "Herbed Pork Beef Skewers with Sage & Coriander"
 slug: "herbed-pork-beef-skewers"
-description: "Pork and beef cubes threaded onto skewers, dusted with a bold herb salt blend including coriander and sage instead of pepper and rosemary. Grilled over high heat to juicy medium rare. Uses coarse salt for crust, swaps rosemary with sage for earthier aroma. Wood skewers soaked to prevent burning. Instructions emphasize tactile and visual doneness cues, not strict timing. Practical notes discuss meat temperature, grilling tips, and common mishaps like flare-ups and dry meat. Substitutions suggested for herbs, salt types, and skewer materials."
-metaDescription: "Herbed Pork Beef Skewers layered with toasted coriander and sage salt dusted on juicy grilled cubes. Use visual cues and tactile tests over timers for grilling success."
-ogDescription: "Grill alternating pork and beef cubes coated in chunky herb salt with coriander and sage. Watch for sizzle changes and springy firmness, juicy medium rare every time."
-focusKeyphrase: "Herbed Pork Beef Skewers"
+description: "Grilled meat skewers with pork tenderloin and beef sirloin cubed and dusted with herb salt blend of coriander, sage, and thyme. Coarse sea salt crust creates juicy medium rare results."
+metaDescription: "Grilled meat skewers featuring pork tenderloin and beef sirloin with coriander, sage, and thyme herb salt. Juicy, flavorful, and easy to grill. Make it tonight."
+ogDescription: "Pork and beef skewers with coriander-sage herb crust and coarse sea salt. Grilled to juicy medium rare perfection."
+focusKeyphrase: "grilled meat skewers"
 date: 2025-08-14
 draft: false
 image: herbed-pork-beef-skewers.jpg
@@ -21,9 +21,16 @@ tags:
 - "summer"
 - "party"
 keywords:
-- "grilled skewers"
-- "herb salt"
-- "medium rare pork beef"
+- "grilled meat skewers"
+- "pork and beef kabobs"
+- "herb crusted pork beef skewers"
+- "grilled pork tenderloin with herb salt"
+- "beef sirloin skewers with coriander and sage"
+- "summer grilling skewers"
+- "coarse sea salt herb blend for grilled meat"
+- "wooden skewer pork beef medium rare"
+- "party grilled skewers"
+- "sage and thyme grilled meat"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "310"
@@ -65,3 +72,80 @@ faq:
 - "q: Can leftovers be saved well? a: Reheat quickly on grill or pan to avoid drying out. Wrap loosely in foil when stored. Keep in fridge up to 2 days max. Skewers can lose texture if microwaved slow. Rest leftovers before eating. No soggy crust is key."
 
 ---
+
+Grill marks, the sizzle that changes from sharp to mellow, meat that bounces back when you press it. That's the whole thing right here. Pork and beef cubed, threaded onto skewers, hit with an herb salt that actually sticks—coriander seeds toasted until they smell like a spice market, mixed with sage and thyme, coarse crystals that stay on the meat instead of disappearing into it. Takes 35 minutes total. Ten of that is actually grilling.
+
+## Why You'll Love These Herbed Pork Beef Skewers
+
+Cooks in 10 minutes flat once they hit the grill.
+Summer party food that doesn't require babysitting or fancy equipment—just heat and meat and salt.
+The herb crust forms fast. That crunch from coarse sea salt, the warm coriander punch, sage that tastes earthy without being weird. Beef and pork together work because one stays juicy while the other gets dense, and together they're not boring.
+Wooden skewers soaked right means no charring handles, no fuss.
+Leftover herb salt works on literally anything else—fish, chicken, roasted vegetables, potatoes. One batch covers three dinners.
+
+## What You Need for Herb Crusted Pork Beef Skewers
+
+Coriander seeds—ten milliliters, roughly two teaspoons. Toast them first in a dry pan until fragrant. Not burnt. The difference matters.
+
+Dried sage and dried thyme. A teaspoon each. Doesn't have to be fancy. Grocery store stuff is fine.
+
+Coarse sea salt. Three tablespoons. The crystals stay rough—that's the point. They stick to meat and create a caramelized crust. Regular table salt dissolves. Not the same thing.
+
+One small pork tenderloin, about 350 grams. Cube it. Beef sirloin, also 350 grams, same size cubes. Pork gets softer, beef stays firm. That's why both.
+
+Wooden skewers. Four of them. Soak them 40 minutes in water or use metal. Metal's easier. No soaking, no worrying about the handles catching fire.
+
+## How to Make Pork and Beef Kabobs
+
+Toast the coriander seeds first. Dry pan, no oil. One to two minutes. You'll smell when it's right—that warm, almost sweet spice smell that says fragrant but not burnt. Let it cool a minute, then crush it rough with a mortar and pestle or a spice grinder. Rough crystals. Not powder. Then mix in the sage, thyme, and coarse salt. That's your herb salt.
+
+Fire up the grill to high. Serious heat. Smoke wisps rising off the grate means it's ready. Brush the grate lightly with oil so meat doesn't stick to metal.
+
+Thread the pork and beef cubes onto the skewers, alternating as you go. Don't crowd them. Each piece needs to touch the heat directly. Space them out a little. Sprinkle the herb salt over the skewers while they're sitting there, a minute before you grill. The smell hits different when it's fresh—earthy sage with that warm coriander underneath.
+
+## How to Get Summer Grilling Skewers Perfectly Cooked
+
+The skewers go on the grill for four to five minutes per side. Ten minutes total, that's it. The sizzle changes as you cook. Sharp at first—that's moisture hitting heat. Then it mellows as sugars caramelize and the meat firms up. Watch for grill marks, a gentle crust forming on the outside. Juicy bounce, not rubbery. That's medium rare.
+
+Press the meat lightly with tongs. It should feel springy, give a little, then spring back. If you go over 10 minutes total, pork dries out. Test earlier and adjust.
+
+Once they come off, rest them three minutes under foil. Don't skip this. The internal juices redistribute, surfaces soften slightly, and the meat tastes deeper. It's only three minutes but it changes everything.
+
+## Grilled Pork Tenderloin with Herb Salt Tips and Common Mistakes
+
+Wooden skewers burn if they're not soaked. Soak them 40 minutes. Metal skewers skip this step entirely.
+
+The coarse sea salt matters because it doesn't dissolve into the meat—it stays on the surface and creates actual crunch. You bite through herb crystals. Regular salt just vanishes.
+
+Char too far? Lower the grill temperature next time or flip earlier. Flame flare-ups happen, especially if meat drips. Shift the skewers slightly away from direct heat and keep going.
+
+The herb salt is rough on purpose. Don't crush the coriander fine. Coarse crystals stick to meat better and hit harder when you eat it.
+
+Alternate pork and beef because pork alone gets soft and beef alone is dense. Together they balance. One slice of each on every skewer.
+
+Rest them. This is where people fail. They're hot, they smell incredible, and everyone wants to eat right now. Three minutes. Under foil. It matters.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pork and Beef Kabobs
+
+**Can I prep these ahead?**
+Cube the meat the night before, cover it, stick it in the fridge. Make the herb salt in the morning or the day before—lasts forever in a jar. Thread the skewers maybe an hour before you grill, store them uncovered in the fridge. Don't salt them until right before they hit the grate or the salt dissolves into moisture.
+
+**What if I don't have wooden skewers?**
+Metal works better honestly. No soaking, no burnt handles, lasts forever. If you only have bamboo, soak them longer—an hour minimum.
+
+**How do I know when they're done?**
+Press the meat with tongs. Medium rare feels springy, gives a little, bounces back. The grill marks should be dark but not charred black. If you're unsure, cut into one. The pork should have maybe a sliver of pink inside, beef slightly more. Ten minutes total is the target.
+
+**Can I use a different cut of beef?**
+Sirloin works because it doesn't dry out fast. Tenderloin is pricey for cubes. Ribeye has too much fat and flares on the grill. Strip steak works fine too.
+
+**Why toast the coriander seeds?**
+Releases the oil. Raw seeds taste woody. Toasted for a minute and they smell like a spice market and taste warm. One to two minutes—don't burn them or they taste bitter and ashy.
+
+**What if I don't have a grill?**
+Cast iron skillet on high heat works. Takes maybe 12 minutes total instead of 10, depends on thickness and skillet temperature. Oven broiler at 500 degrees does it in about 8-10 minutes too, but you won't get the same crust and grill marks.
+
+**How long does the herb salt last?**
+Months. Store it in a jar with the lid on. Stays dry, stays good. Use it on roasted vegetables, fish, potatoes, eggs. One batch goes a long way.
