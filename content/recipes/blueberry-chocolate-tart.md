@@ -1,10 +1,10 @@
 ---
-title: "Blueberry Chocolate Tart"
+title: "Blueberry Chocolate Tart with Coconut Cream"
 slug: "blueberry-chocolate-tart"
-description: "Dark chocolate, fresh blueberries married in a layered tart with crumbly, buttery crust. White chocolate whipped cream topping balances rich filling. A fruit jelly glaze seals the deal. Refined sugars dialed back. Simple swaps bring new depth and texture. Timings shifted, steps reshuffled to suit flow and maximize flavor. Familiar technique but with twists—brown butter crust, coconut milk for cream, lavender notes in the jelly. A delicate balance—watch the custard. Chill just right, or it falls apart. Layering matters; every element speaks with its own texture and temperature. Fruit garnish optional but such a showstopper. Keep it fresh, store tight, eat within a few days. Satisfaction guaranteed if you pay attention to cues and don’t rush."
-metaDescription: "Blueberry Chocolate Tart layered with browned butter crust, coconut cream custard, white chocolate chantilly, and vibrant blueberry jelly glaze. French-Canadian style."
-ogDescription: "Crunchy browned butter crust meets coconut cream custard, whipped white chocolate, and shiny blueberry jelly. Textures layered, flavors build slowly. Must-watch custard cues."
-focusKeyphrase: "Blueberry Chocolate Tart"
+description: "Blueberry chocolate tart layers dark chocolate, fresh blueberries, and coconut cream with a brown butter crust. White chocolate whipped cream and blueberry jelly glaze finish this elegant dessert."
+metaDescription: "Blueberry chocolate tart recipe with dark chocolate filling, fresh blueberries, coconut cream, and white chocolate chantilly. Make it tonight."
+ogDescription: "Dark chocolate meets fresh blueberries in this elegant tart with coconut cream filling and white chocolate topping."
+focusKeyphrase: "blueberry chocolate tart"
 date: 2025-08-23
 draft: false
 image: blueberry-chocolate-tart.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "blueberry tart"
-- "chocolate custard"
-- "brown butter crust"
+- "blueberry chocolate tart"
+- "dark chocolate tart"
+- "blueberry dessert recipe"
+- "chocolate blueberry recipe"
+- "elegant tart recipe"
+- "white chocolate dessert"
+- "homemade chocolate tart"
+- "blueberry filling recipe"
+- "coconut cream dessert"
+- "no refined sugar tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "380"
@@ -115,3 +122,97 @@ faq:
 - "q: Storing leftovers? a: Wrap tart loose plastic or cake dome fridge max 3 days. Chantilly dries fast loose; berries soften. Bring out about 20 min before; softens cream and releases berry aroma. Can freeze crust separately but filling textures suffer."
 
 ---
+
+Chocolate cookie crumbs mixed with browned butter and pressed into a pan. Fifteen minutes in the oven. Already you're ahead. Dark chocolate filling, blueberries suspended in it like little flavor bombs, then a white chocolate chantilly that doesn't need a reason, and a blueberry glaze that catches the light. One hour and twenty-five minutes total. Looks intimidating. Isn't, really—just patience and watching for the moments that matter.
+
+## Why You'll Love This Blueberry Chocolate Tart
+
+Tastes homemade in a way that actually means something. The kind of dessert where someone asks for the recipe and you know they're going to try it because it looks possible.
+
+Layers. Three kinds of chocolate, two textures of berries, cream on top. Every bite is different.
+
+Crust stays crisp. Not just for the first day—actually crisp because you brown the butter first and let everything cool all the way down before the custard hits it.
+
+Works for company. Looks like you spent way more time than you did. Keeps in the fridge for days, though it's best the same day, so you can make it in the morning and plate it at night.
+
+Cold. Rich. Balanced. The blueberries keep it from being too heavy, the maple syrup in the custard stops it from tasting like a chocolate bar, the edible flowers are optional but they take it somewhere else visually.
+
+## What You Need for Blueberry Chocolate Tart
+
+Chocolate cookie crumbs—one and a half cups. Not chocolate chip. Actual chocolate cookies crushed up. Brown sugar goes in, just a tablespoon or so. Unsalted butter, browned and cooled. This matters more than you'd think. Brown it until it smells nutty, let it cool a bit, then use it. Fleur de sel. A pinch. Changes the whole thing.
+
+Fresh blueberries for the filling. One cup. They sit on the crust and the custard goes around them. Dark chocolate—seventy percent or close to it, chopped up fine. Coconut cream and whole milk mixed together. Maple syrup, not sugar. Three egg yolks. That's the custard.
+
+White chocolate for the chantilly. Heavy cream. Whip it together after you bloom the chocolate in hot cream.
+
+Blueberries again—half a cup, these ones for the glaze. Honey. Gelatin powder. Cornstarch. The glaze is where it gets shiny.
+
+Top it with fresh blueberries, blackberries if you want them, edible flowers if you're feeling it. Thin lemon zest works too if flowers aren't around.
+
+## How to Make Blueberry Chocolate Tart
+
+Start with the crust because it needs time. Oven to 345 degrees. Butter a ten-inch loose-bottom tart pan—important, loose-bottom, because getting it out without breaking it is the whole game.
+
+Brown the butter first. Watch it. It'll foam, smell like toast and nuts, then you pull it off the heat. Let it cool for a minute or two—not cold, just lukewarm. Mix the cookie crumbs with brown sugar and a pinch of fleur de sel in a bowl. Pour the browned butter in. Combine until it looks sandy. Press it into the pan—base and sides, tight, no gaps. Use the flat bottom of a cup to press it down even. Bake fifteen minutes until the edges toast. Cool it completely. Twenty-five to thirty minutes minimum. It has to be solid, no wobble.
+
+While the crust cools, get your custard ready. Warm the coconut cream, milk, and maple syrup together gently in a saucepan. Don't boil it. Just warm. Then off the heat, whisk in the egg yolks fast. Put it back on low heat, stirring constantly. Watch it. The second it thickens enough to coat the back of a spoon, pull it. Not scrambled eggs. You'll feel the change in the stirring—it gets heavier, more resistant. That's when you stop.
+
+Chop the dark chocolate fine, put it in a bowl. Pour the hot custard over it. Don't stir. Let it sit ninety seconds. The residual heat melts the chocolate without you forcing it. Then whisk it smooth. It should be glossy and velvety, no lumps at all.
+
+## How to Get Blueberry Chocolate Tart Crispy and Perfect
+
+The moment the crust is cold, arrange the blueberries over the base. Even distribution. They're going to suspend in the custard, so spacing matters. Pour the chocolate custard slowly over the berries, over the crust. Chill it. Minimum two hours. It should be firm but still yield slightly to finger pressure—not hard, not jiggly.
+
+The white chocolate chantilly. Chop white chocolate fine, place it in a medium bowl. Heat the heavy cream until it just starts to boil. Pour it over the chocolate. Wait one to two minutes. Then whisk gently until glossy and smooth. Cover it. Chill ninety minutes minimum. It'll be thick and cold but not set firm.
+
+The glaze is where precision matters. Sprinkle gelatin over cold water. Let it bloom—five to six minutes, just sitting there. Dissolve cornstarch in the remaining water separately. In a small saucepan, bring the blueberries and honey to a simmer. Crush them with the back of a spoon. Blend them smooth with a hand blender. Strain through a fine sieve, pressing hard to get all the juice. Discard what's left.
+
+Reheat the strained juice gently. Stir in the cornstarch slurry. Simmer whisking until it thickens and turns shiny. Off the heat, fold in the gelatin until it fully dissolves. Cool the glaze five to seven minutes. Still pourable but no longer hot. Pour it carefully over the dark chocolate filling. Spread it even with an offset spatula. Back in the fridge. At least one hour until set but still glossy.
+
+## Blueberry Chocolate Tart Tips and Common Mistakes
+
+Don't rush the crust cooling. Hot custard on warm crust equals soggy crust. Cold crust, then custard. That's the formula.
+
+Watch the egg custard like it owes you money. The second it thickens slightly, it's done. One more minute on the heat and it's scrambled. You'll feel the difference in the spoon—it goes from pourable to heavy.
+
+Brown butter instead of plain. It adds something nutty, complex. Not optional.
+
+Bloom the gelatin properly. Five to six minutes, sitting in cold water, until it looks spongy. Skip this or rush it and the glaze sets unevenly, texture gets weird.
+
+The white chocolate chantilly can separate if the kitchen's warm or you overwhip it. If it breaks, whisk in a small splash of hot cream to bring it back together. Carefully. Don't warm it up too much or it melts.
+
+If you can't find chocolate cookie crumbs, chocolate wafers work. Digestive biscuits work. Crush them fine.
+
+Strain the blueberry juice thoroughly. The glaze texture depends on it. If you skip straining, you get seeds in the glaze and it's grainy.
+
+Chill your piping tip if your kitchen runs warm. Peaks dissolve fast in heat and moisture.
+
+The tart holds for three days in the fridge. Best the same day because the crust stays crisp and the jelly stays vibrant. Pull it out twenty minutes before serving. The flavors open up as it warms slightly.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Blueberry Chocolate Tart
+
+**Can I make this the day before?**
+Yeah. Assemble everything except the chantilly piping the day before. Pipe the cream the morning of, or a few hours before serving. The crust gets softer overnight but it doesn't collapse.
+
+**What if my egg custard scrambles?**
+It's done. You have scrambled eggs in your tart. Strain it through a fine sieve if you want to salvage it—the texture might be grainy but the flavor's still there. Next time, pull it off heat faster.
+
+**Can I use a different type of chocolate?**
+Seventy percent. Don't go higher or it tastes bitter. Milk chocolate and you've lost what makes this tart interesting. Sixty percent is ideal.
+
+**Why does the glaze break?**
+Gelatin wasn't bloomed properly, or you poured it too hot over cold filling. Temperature shock. Bloom it, let the glaze cool to just warm, pour it slowly.
+
+**How do I know when the crust is baked enough?**
+Edges should be darker than the center. Toasted. Smell it—should smell like caramelized cookies. Fifteen minutes usually does it depending on your oven.
+
+**Can I freeze this?**
+Not really. Freezing breaks down the texture of the berries and the glaze. Chill it instead. Three days maximum and it tastes best the first day.
+
+**What if I don't have edible flowers?**
+Leave them off. Or use thin strips of lemon zest. Adds brightness, visual interest. Not necessary.
+
+**Why browned butter instead of regular?**
+Nuttiness. Complexity. The crust tastes like more than just butter and crumbs. Regular butter works but it's flat by comparison.
