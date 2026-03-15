@@ -1,9 +1,9 @@
 ---
-title: "Baked Eggplant Rollatini with Spinach"
+title: "Eggplant Rollatini With Spinach & Ricotta"
 slug: "baked-eggplant-rollatini"
-description: "Thin eggplant slices filled with ricotta, roasted red peppers, and wilted spinach, then baked with tomato sauce and melted cheese. Creamy, tender, and ready in under an hour."
-metaDescription: "Baked eggplant rollatini with spinach recipe. Ricotta and cheese filling, herbed tomato sauce, golden crust. Make it tonight."
-ogDescription: "Creamy ricotta and spinach stuffed eggplant, baked until golden with bubbly cheese. Italian comfort food that actually works."
+description: "Eggplant rollatini with spinach, ricotta, and roasted red peppers baked in tomato sauce. Tender slices filled with creamy cheese and wilted greens. Ready in under an hour."
+metaDescription: "Eggplant rollatini with spinach and ricotta cheese, roasted red peppers, baked in tomato sauce. Creamy, tender, and delicious. Make it tonight."
+ogDescription: "Tender eggplant filled with spinach, ricotta, and roasted red peppers, then baked until golden with melted mozzarella."
 focusKeyphrase: "eggplant rollatini with spinach"
 date: 2026-01-25
 draft: false
@@ -23,9 +23,7 @@ tags:
 keywords:
 - "eggplant rollatini with spinach"
 - "baked eggplant rollatini"
-- "eggplant rollatini recipe"
-- "ricotta spinach eggplant"
-- "italian eggplant dishes"
+- "fried eggplant rollatini"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -77,3 +75,107 @@ faq:
 - "q: How to store leftovers? a: Cool completely. Wrap airtight or use container. Refrigerate up to 3 days. Reheat covered in oven or microwave. For longer storage freeze in airtight container, thaw overnight in fridge."
 
 ---
+
+Slice the eggplant. Salt it. Wait. That moisture matters—it's the difference between tender and mushy. Fifteen minutes and a paper towel and suddenly you've got something that actually holds together instead of collapsing the second you roll it. This is comfort food that doesn't pretend to be anything else. Spinach, ricotta, cheese. Baked until the edges get that brown thing going on. Takes 60 minutes total if you move steady. Worth it.
+
+## Why You'll Love This Eggplant Rollatini
+
+Tastes like you spent all day cooking. Didn't though. Forty-five minutes in the oven and you're basically done.
+
+Vegetarian and nobody notices. The cheese does the work. Ricotta, mozzarella, Parmesan—just stacks flavor on top of flavor until it tastes like actual effort.
+
+Works as dinner. Works as a side. Works cold the next day, maybe better. Leftovers get better somehow.
+
+Spinach and roasted peppers inside. Doesn't feel heavy even with all that cheese. The eggplant's doing something there—holding it all without weighing you down.
+
+No special equipment. Mandoline's nice if you have one. Sharp knife works fine.
+
+## What You Need for Baked Eggplant Rollatini
+
+Two medium eggplants. Slice them lengthwise, about a third inch thick. Too thick and they don't cook through. Too thin and they shred when you roll them. That third inch is specific for a reason.
+
+Salt and pepper. Regular amounts. You'll use both twice—once on the raw slices to pull water out, again when you season the filling.
+
+Olive oil. Nothing fancy. Just enough to coat the baking sheets and cook the garlic and spinach.
+
+Three cloves garlic minced. Actually minced, not crushed. Crushed gets aggressive. You want it to dissolve into the spinach.
+
+Five cups fresh spinach. Rough chop it. It shrinks down to almost nothing once it hits heat, so don't be scared of the volume.
+
+Ricotta. Fourteen ounces. Make sure it's well drained—pat it dry with cheesecloth if you've got it, or just press it through a fine sieve. Water in ricotta ruins everything.
+
+Roasted red peppers. A third cup chopped. Jarred is fine. Drain them, pat them dry too.
+
+One egg beaten. Holds the filling together. That's it.
+
+Two cups tomato sauce mixed with a teaspoon of dried oregano. Just mix them together. Don't get fancy.
+
+One cup shredded mozzarella. Half a cup Parmesan. Both go on top. Mozzarella gets melty. Parmesan gets a little crispy at the edges.
+
+## How to Make Baked Eggplant Rollatini
+
+Heat the oven to 345. Spray two baking sheets with oil or just brush them. Doesn't matter which—just don't skip it or the eggplant sticks and tears.
+
+Slice the eggplant lengthwise. Use a mandoline if you have one. A sharp knife works but takes longer and the slices get uneven. Aim for that third inch. Seriously. Too thick and the inside stays raw when the outside burns. Too thin and they're just sheets that fall apart.
+
+Lay every slice flat on the baking sheets. Salt both sides. Pepper both sides. Then—and this is important—let them sit for 15 minutes. The salt pulls water out. You'll see it. Blot it with paper towels. Water in eggplant means water in your final dish, and it gets soggy.
+
+Bake them 13 to 15 minutes. Watch them. The edges should brown slightly. The whole slice should bend without snapping. If they snap, they're done for—too brittle. If they're still stiff, they need two more minutes. Pull them out and let them cool completely on a rack. Warm eggplant is too soft to roll. Cold eggplant holds shape.
+
+Heat olive oil in a skillet over medium. Add the garlic. Sizzle it for just a minute or two. Don't let it brown. Brown garlic tastes burned. Brown.
+
+Toss in all the spinach at once. Stir it constantly. It shrinks down fast—like, three seconds and it's half the size. Keep stirring until it's deep green and most of the liquid's gone. Then dump it into a fine sieve and let it drain.
+
+Here's the part most people skip: spread the drained spinach on paper towels and blot it again. Squeeze it a little. Extra water will absolutely wreck the texture when it bakes. Don't skip this.
+
+Drain the ricotta. Seriously drain it. Cheesecloth is ideal but a fine mesh sieve works. Press it through. Pat the roasted peppers dry too. Wet filling makes wet results.
+
+Mix the ricotta, peppers, spinach, and beaten egg in a bowl. Stir until just combined. Don't overmix it like you're making whipped cream or the filling gets tough and grainy. Just until you can't see the egg anymore.
+
+Lay an eggplant slice down on a clean surface. Spoon a tablespoon or two of filling near one edge. Not in the middle—near the edge. Fold the long sides in slightly, then roll it up tight. Seam goes down. If you overfill it, the whole thing bursts open in the oven. Learned that one.
+
+Oil a shallow baking dish. Lay each roll in there seam-side down, touching but not squished. They should fit snug enough that they don't roll around.
+
+Mix the tomato sauce with the oregano. Pour it over the rolls. Not like you're drowning them—just enough so they're sitting in a little sauce. The sauce keeps them moist and helps them brown underneath.
+
+Sprinkle mozzarella and Parmesan on top. Not crazy amounts—just enough that you can see the cheese. Too much cheese and the middle gets soggy. Too little and the eggplant dries out.
+
+Bake uncovered for 18 to 22 minutes. The cheese should bubble. The edges should go golden brown. Watch it toward the end because ovens are liars and times are rough estimates. If it's bubbling and browning, it's done.
+
+Let it rest in the pan for six to nine minutes before you pull it out and serve it. The resting time lets everything set up a little so the rolls don't fall apart when you lift them. Just sit there. Don't touch it. Hard, I know.
+
+## Tips for Eggplant Rollatini That Actually Works
+
+The moisture thing matters more than anything else. Eggplant holds water like a sponge. You've got to get it out—salt it, bake it, blot it, drain the spinach, press the ricotta. Every step is pulling water out. Skip one and the whole thing gets mushy.
+
+The baking temperature. 345 is lower than normal because you want the eggplant to stay tender and the cheese to melt without the outside charring. Sounds weird but it works. Higher temps and the eggplant gets tough.
+
+Don't overfill. I know the filling's good and you want a lot. Resist. A tablespoon, maybe two. That's the limit before they explode in the oven.
+
+Seam-side down. Always. It keeps the filling from leaking out and lets the bottom brown. Flip it to seam-side up and you're just asking for a mess.
+
+You can make these hours ahead and bake them later. Assemble them, cover with plastic wrap, stick them in the fridge. Bake from cold if you do this—just add a couple minutes to the time.
+
+Leftovers actually improve. The flavors settle. The texture firms up a little. Reheat gently in a 325 oven for about 10 minutes covered, or eat them cold straight from the fridge if you're that person.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Eggplant Rollatini
+
+**Can I use frozen spinach instead of fresh?**
+Yeah. Thaw it, squeeze all the water out—like actually squeeze it, in a towel—then use it. Fresh tastes better but frozen works if that's what you've got.
+
+**What if my eggplant slices break while I'm rolling them?**
+Happens. If they're just cracked a little, keep going. If they're in pieces, tear up the ricotta filling and layer it instead. Nobody sees it once the sauce goes on.
+
+**Can I make this without the roasted red peppers?**
+Works fine. They're mostly there for color and a subtle sweetness. Skip them and it's still good. Add more garlic if you want something going on.
+
+**How long does it keep?**
+Three, maybe four days in the fridge. Freeze it unbaked if you want to go longer—bake straight from frozen, just add like five extra minutes. Haven't tried it longer than that.
+
+**Do I have to use both mozzarella and Parmesan?**
+Not really. One cup of mozzarella works. Parmesan adds a sharper thing on top. But if you only have one, use what you've got. Still tastes like eggplant rollatini.
+
+**Why does mine come out watery?**
+Water. Either didn't blot the eggplant enough after salting, didn't drain the spinach well enough, or the ricotta had too much liquid. Each step pulls water. Skip one and everything gets wet. Do all of them and you're fine.
