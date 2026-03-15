@@ -1,10 +1,10 @@
 ---
-title: "Creamy Citrus Rice Pudding"
+title: "Creamy Rice Pudding with Lemon Zest"
 slug: "creamy-citrus-rice-pudding"
-description: "Silky rice pudding cooked low and slow with milk, honey, zest, and a bit of salt. Swapped orange zest for lemon for a sharper snap. Honey takes the edge off without overpowering. Butter stirred in cold at the end for that glossy finish. Egg yolk folded carefully to bind and thicken, not scramble. Chilling sets the pudding into a spoonable state, topped best with berry compote or tart jam."
-metaDescription: "Creamy Citrus Rice Pudding slow-cooked with honey, lemon zest, whole milk, butter, and egg yolk for silky texture and bright notes. Chill well for best spoonable set."
-ogDescription: "Slow simmered rice with honey and lemon zest, folded butter and tempered yolk give creamy texture. Chill then serve with berry compote or tart jam."
-focusKeyphrase: "Creamy Citrus Rice Pudding"
+description: "Silky creamy rice pudding made with whole milk, honey, and lemon zest. Slow-cooked comfort food with cold butter and egg yolk for a glossy finish."
+metaDescription: "Make creamy rice pudding with whole milk, honey, and lemon zest. This slow-cooked comfort food is silky and spoonable. Try it tonight."
+ogDescription: "Slow-cooked rice pudding with whole milk, honey, lemon zest, and butter. Silky, spoonable comfort in every bite."
+focusKeyphrase: "rice pudding"
 date: 2025-10-03
 draft: false
 image: creamy-citrus-rice-pudding.jpg
@@ -22,8 +22,13 @@ tags:
 - "eggs"
 keywords:
 - "rice pudding"
-- "citrus dessert"
-- "honey sweetened pudding"
+- "creamy rice pudding"
+- "honey lemon rice pudding"
+- "slow cooked rice pudding"
+- "comfort food rice pudding"
+- "rice pudding with lemon zest"
+- "creamy rice pudding with butter"
+- "whole milk rice pudding"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -65,3 +70,80 @@ faq:
 - "q: Can I substitute coconut milk? a: Yes but flavor richer, nuttier, less creamy dairy silk. Texture changes, pudding thickens differently. Adds tropical notes but lemon zest sharpness stays. Sweeten carefully; honey or maple may also be used. Cooling times might vary due to fat content."
 
 ---
+
+Rinse the rice first—really rinse it. Water runs clear, that's when you stop. Thirty-four minutes from there and you've got something that tastes like it took all afternoon.
+
+## Why You'll Love This Rice Pudding
+
+Tastes like the kind of thing your grandma made but better because of the lemon. Honey softens everything without tasting sweet the way sugar alone would. The egg yolk goes in at the end and suddenly it's not just rice in milk anymore—it's actual pudding. Comfort food that doesn't feel heavy. Citrus brightness cuts through the richness so you can eat more of it than you probably should. Butter melts in first, so the whole thing gets this silky thing going on. Leftovers reheat fine. Actually better cold from the fridge. Takes 34 minutes total, most of it just stirring.
+
+## What You Need for Creamy Rice Pudding
+
+Whole milk. Not two percent. The fat matters here. Four cups of it.
+
+Short-grain rice. Rinsed until the water's clear. Starch is the enemy—it makes everything gluey. Three-quarters cup after rinsing.
+
+Sugar and honey. Quarter cup sugar, three tablespoons honey. Honey gives you depth that granulated sugar can't do alone. Lemon zest—a full teaspoon, finely grated. That's what makes people stop and ask what's different about it. Vanilla extract. One teaspoon.
+
+Fine sea salt. A quarter teaspoon. Sounds tiny but it makes the whole thing taste like something instead of just sweet milk.
+
+Cold unsalted butter. Three tablespoons, cubed. Add it off heat so it stays clean and buttery, not greasy. One egg yolk. The yolk thickens it at the end, turns it pale yellow, makes it actually creamy. Just the yolk. Don't add the white.
+
+## How to Make Rice Pudding
+
+Start with the rice. Run it under cold water—keep going until the water isn't cloudy anymore. You're getting the starch out. Set it aside in a fine mesh strainer so it drains while you do the milk.
+
+Pour the milk, sugar, honey, salt, lemon zest, and vanilla into a wide pot. Non-stick if you have it. Medium heat. You're waiting for foam. Little bubbles that climb the sides. Once it gets foamy—not boiling, foamy—that's when you add the rice. Stir constantly. Wooden spoon. Don't stop.
+
+Immediately turn the heat down to low. It should barely simmer. Like the tiniest movement on the surface. If it's actively bubbling you've got the heat too high and the rice will scorch on the bottom and stick everywhere. Low heat. This is important.
+
+Stir frequently. Every minute or so. You're watching the rice puff up and the liquid get thicker. Twenty-five to thirty minutes. The rice should be soft all the way through when you bite a grain, not chalky in the center. The liquid should coat the spoon. That's when you know you're done.
+
+## How to Get Rice Pudding Perfectly Creamy and Rich
+
+Off heat. This matters. Drop the cold butter cubes in one at a time. Fold gently. Don't stir aggressively. The cold butter stays separate longer and melts in cleaner, gives you shine instead of a slick feeling.
+
+Now the egg yolk. This is the part that changes everything. Whisk the yolk in a small bowl. Take a spoon and scoop up some of the hot pudding—three or four spoonfuls—and slowly add it to the yolk while you're whisking. You're bringing the yolk up to temperature so it doesn't scramble when you add it to the pot. Then pour that yolk mixture back into the pudding pot, still off heat, and stir it in gently.
+
+It goes pale yellow. Thicker. Creamy in a way that's different from just butter and milk. That's the egg doing its thing.
+
+## Rice Pudding Tips and Mistakes to Skip
+
+Don't skip the rinsing. Starchy rice turns into wallpaper paste. Just rinse it.
+
+Heat matters more than time. If your burner runs hot, it'll be done in 25 minutes. If it's more medium, might be 30. Watch the rice, not the clock. When the grains are tender and the liquid is thick, you're there.
+
+The butter has to be cold when you add it. Warm butter just melts in without adding texture. Cold butter stays distinct for a second and then distributes evenly.
+
+Temper the yolk or it scrambles. Non-negotiable. Hot pudding into yolk while whisking, then yolk into pudding off heat. That's the order.
+
+Transfer it to a wide shallow container. Press plastic wrap right onto the surface while it cools. This keeps a skin from forming on top, which is good or bad depending on if you like that. I don't. The wrap prevents it.
+
+Chill it for at least 20 minutes. Tastes different cold than warm. Better, usually. You can eat it warm too. Either way works.
+
+Leftovers. Add a splash of milk when you reheat on the stove because it gets thick as it sits. Splash of milk, gentle heat, stir it back to loose and creamy. Microwave works too but the stovetop is smoother.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Honey Lemon Rice Pudding
+
+**Can you make this without eggs?**
+Probably. Skip the yolk step. It won't be quite as thick or as creamy but it'll still be rice pudding. Just pudding that's a little looser. Add an extra tablespoon of butter if you want to compensate for richness.
+
+**What if you don't have short-grain rice?**
+Arborio is fine. Carnaroli works. Anything that's meant to absorb liquid without falling apart. Long-grain rice gets mushy or stays separate. Don't use long-grain.
+
+**How long does it keep?**
+Three days in the fridge, covered. After that it starts tasting off. Could probably go four days. Not worth it though.
+
+**Can you use honey instead of sugar?**
+You could swap them. Use about three tablespoons honey total instead of the quarter cup sugar plus three tablespoons honey. Honey-heavy tastes different—more floral. Less like traditional rice pudding. Try it if you want. Haven't tested it extensively but it should work.
+
+**Do you have to chill it?**
+No. Eat it warm if you want. Most people like it cold or room temperature better. Flavors are sharper when it's cold.
+
+**What's the citrus rice pudding taste like?**
+Lemon zest is bright but not sour. Not bright like lemon juice would be. The zest gives you the aroma and the flavor without the acid. Tastes like something hit you but you can't quite name it. That's the lemon doing its job.
+
+**Can you serve it with something?**
+Berry jam works. Compote. Spoonful of fresh berries if you have them. Doesn't need anything though. The honey and lemon are enough sweetness and brightness. Stands on its own fine.
