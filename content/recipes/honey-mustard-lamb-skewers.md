@@ -1,10 +1,10 @@
 ---
-title: "Honey-Mustard Lamb Skewers"
+title: "Grilled Lamb Skewers with Honey Mustard"
 slug: "honey-mustard-lamb-skewers"
-description: "Lamb cubes threaded with tart Granny Smith apples, grilled over high heat with a sticky honey-mustard glaze infused with thyme. Quick marinating reduction simmers down syrupy, clings to meat’s edges. Char spots popping, caramelizing sugars, fresh herbal hits right before serving. Balanced sweet, savory, tart with fresh rosemary sprinkles. Efficient prep, minimal fuss. Serve with foil-wrapped roasted potatoes or grilled veggies. A slight twist on classic balsamic-mustard combos, swapping out vinegar varieties, fruit types, and herbs for an approachable, bold lamb dish free of nuts, gluten, dairy, or eggs."
-metaDescription: "Honey-Mustard Lamb Skewers with tart apples, grilled high heat. Sticky glaze reduced to syrup coats tender lamb cubes with fresh thyme punch. Rustic, sharp grilling."
-ogDescription: "Lamb cubes grilled with granny smith apples. Honey-mustard glaze thick, sticky, caramelizing fast. Fresh thyme scattered at end. Sharp, rustic flavors, quick grill sizzle."
-focusKeyphrase: "honey-mustard lamb skewers"
+description: "Grilled lamb skewers with Granny Smith apples, glazed in honey-mustard sauce with thyme. Tender cubes char beautifully over high heat for an easy summer meal."
+metaDescription: "Make grilled lamb skewers with honey mustard and Granny Smith apples tonight. Tender lamb cubes with fresh thyme and apple cider vinegar glaze. Try it tonight."
+ogDescription: "Tender lamb cubes with Granny Smith apples, honey-mustard glaze, and fresh thyme. Charred, caramelized, and ready in minutes."
+focusKeyphrase: "grilled lamb skewers"
 date: 2025-08-13
 draft: false
 image: honey-mustard-lamb-skewers.jpg
@@ -21,9 +21,14 @@ tags:
 - "apple"
 - "honey"
 keywords:
-- "lamb skewers"
-- "honey mustard glaze"
-- "grilled lamb recipes"
+- "grilled lamb skewers"
+- "honey mustard lamb"
+- "lamb skewers with apple"
+- "honey mustard grilled lamb skewers"
+- "lamb skewers with granny smith apple and thyme"
+- "grilled lamb cubes with apple cider vinegar glaze"
+- "honey dijon mustard lamb skewers recipe"
+- "summer grilling recipes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -66,3 +71,59 @@ faq:
 - "q: Can I store leftovers? a: Refrigerate wrapped air tight 2-3 days max. Reheat gently to avoid drying lamb. Cold skewers fine chopped in salads. Freeze not ideal glaze texture changes."
 
 ---
+
+Honey mustard hits the grill sizzling. That's when you know it's right.
+
+## Why You'll Love These Lamb Skewers
+
+Twenty minutes total of actual hands-on work. Grill does the heavy lifting. Granny Smith apples go soft and sweet but don't collapse. The lamb stays pink inside while the edges get those charred bits. Honey caramelizes and gets sticky—you eat it like candy on the outside of each bite. Summer grilling that tastes like you've been doing it forever. Works cold the next day. Maybe better.
+
+## What You Need for Honey Dijon Mustard Lamb Skewers
+
+Honey. Real honey. Three quarters of a cup. Dijon mustard—the grainy kind, not smooth. Two tablespoons. Apple cider vinegar. Not white. Five teaspoons. Salt and cracked black pepper. Not ground. Actual pepper corns cracked roughly.
+
+Six hundred grams of boneless leg of lamb. Cut into cubes about the size of a dice. Two Granny Smith apples. Firm. Dice them the same size as the meat. You want them to cook at the same rate. Wooden skewers. Six of them. Soak them twenty minutes first or they char through before the food cooks. Fresh thyme. One teaspoon. Chopped fine.
+
+## How to Make Honey Dijon Mustard Lamb Skewers
+
+Combine the honey, mustard, and apple cider vinegar in a small saucepan. Medium heat. Stir constantly. Don't walk away. The mixture thickens gradually—after about twelve minutes it coats a spoon like actual syrup. That's the signal. Pull it off the heat and let it cool for a minute. Not long. Just until you can touch the bottom of the pot without flinching.
+
+Get the grill smoking hot. High heat. Clean the grates with a wire brush if there's old debris. You want bare metal basically.
+
+## How to Get Grilled Lamb Skewers with Crispy Edges
+
+Thread the lamb and apples tightly on the skewers. Alternate. Lamb. Apple. Lamb. Apple. Keep them snug or the apple pieces slide around and fall into the coals. Season generously with salt and a ton of cracked black pepper. The pepper matters. Regular ground pepper disappears. Cracked pepper stays visible and tastes sharper.
+
+Grill marks form in about two to three minutes per side. Listen for the hiss and pop when you first set them down. That's the marinade hitting the heat. Watch the honey marinade bubble and darken but don't let it go black. After you flip, brush more marinade on. The lamb should still be pink when you cut into the center. The apples soften but hold their shape. They shouldn't be mushy.
+
+Remove to a plate. Scatter the fresh thyme over everything while it's still hot. The heat releases the oils. The smell is immediate and kind of aggressive in the best way.
+
+## Lamb Skewers Tips and Common Mistakes
+
+Soak the skewers or they burn through. Twenty minutes minimum. Dry wood catches fire before the food cooks. The apple cider vinegar matters more than you'd think. Tried it once with rice vinegar. Too mild. The acidity cuts through the richness of the lamb in a way other vinegars don't quite do.
+
+Don't overcrowd the grill. Two or three skewers at a time, depending on your grill size. Space matters. The heat needs to circulate or you steam instead of sear. The honey mixture thickens faster than you expect. Watch it. A minute too long and it goes from glaze to toffee that hardens. Still tastes fine but harder to eat.
+
+Granny Smith apples specifically. Red apples turn to mush. These hold up to the heat and stay slightly tart even after softening.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Honey Dijon Mustard Lamb Skewers
+
+**Can I prepare these ahead of time?**
+Cube the lamb and apple the morning of. Thread them on skewers no more than two hours before grilling or the wood starts to absorb moisture and the fruit gets soggy. The marinade keeps for a week refrigerated.
+
+**What if I don't have a grill?**
+Broiler works. High setting. Same time roughly. Won't get the same char but the honey marinade still caramelizes.
+
+**How do I know when the lamb is cooked through?**
+Medium rare is pink center. Two to three minutes per side on a hot grill. If you want it more done, maybe four minutes. The apples tell you when they're ready—they'll look soft and slightly translucent at the edges.
+
+**Can I use a different mustard?**
+Grainy Dijon specifically. Yellow mustard is too mild. Spicy brown mustard overpowers the apple. The graininess matters texture-wise too.
+
+**Does the marinade need to cool completely?**
+Just enough that you can handle the brush without burning your hand. Cold marinade sitting on hot meat keeps it from charring properly. Slightly warm is the sweet spot.
+
+**What apple should I use instead of Granny Smith?**
+Haven't tried others. Pink Lady probably works. Honeycrisp would dissolve. Don't bother experimenting here.
