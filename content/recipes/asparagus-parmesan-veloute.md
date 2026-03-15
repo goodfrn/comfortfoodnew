@@ -1,10 +1,10 @@
 ---
-title: "Asparagus Parmesan Velouté with Poached Egg"
+title: "Asparagus Soup with Poached Eggs"
 slug: "asparagus-parmesan-veloute"
-description: "Velvety asparagus soup with a cheesy punch from aged parmesan. Poached eggs sit on toasted sourdough croutons, creating a contrast of creamy and crisp. Tender asparagus heads finish the dish with a touch of freshness. Chicken broth is swapped for vegetable stock to lighten flavors, potatoes replaced with parsnips for earthier undertones. White wine vinegar sharpens poaching water; crème fraîche adds a subtle tang. Timings flexible, relying on texture cues from tender asparagus and softly set eggs. Ideal for a spring gathering or a cozy starter. Six servings."
-metaDescription: "Asparagus Parmesan Velouté with poached egg, velvety spring soup thickened with parmesan, blanched asparagus tips, toasted sourdough, and softly set eggs for six servings."
-ogDescription: "Velouté with tender asparagus, aged Parmesan, poached eggs on toasted sourdough, a touch of crème fraîche and vinegar-poached whites; layered with texture and depth."
-focusKeyphrase: "Asparagus Parmesan Velouté"
+description: "Creamy asparagus soup with aged Parmesan, topped with poached eggs on toasted sourdough croutons. Made with vegetable stock, parsnips, and crème fraîche for velvety texture and subtle tang."
+metaDescription: "Asparagus soup recipe with poached eggs, aged Parmesan, and crème fraîche. Vegetable stock base with parsnips creates earthy depth. Make it tonight."
+ogDescription: "Velvety asparagus soup with aged Parmesan, poached eggs, and crispy sourdough croutons. Creamy, elegant, and spring-ready."
+focusKeyphrase: "asparagus soup"
 date: 2025-08-10
 draft: false
 image: asparagus-parmesan-veloute.jpg
@@ -22,8 +22,17 @@ tags:
 - "asparagus"
 keywords:
 - "asparagus soup"
-- "parmesan velouté"
-- "poached egg garnish"
+- "creamy asparagus soup with aged parmesan"
+- "asparagus soup with poached eggs"
+- "asparagus parmesan soup with poached egg"
+- "vegetarian asparagus soup with poached eggs and croutons"
+- "cheesy asparagus velouté"
+- "asparagus soup with crème fraîche and parmesan"
+- "spring soup recipes"
+- "vegetarian soup with eggs"
+- "gourmet asparagus recipes"
+- "parmesan vegetable soup"
+- "elegant starter recipes"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"
@@ -75,3 +84,71 @@ faq:
 - "q: How store leftovers? a: Soup fridge sealed, reheat gently avoiding boil. Eggs best fresh but peeled hard-cooked keep short term. Croutons store separate, toast again if soggy."
 
 ---
+
+Cut the onion first. Garlic goes in next. Medium heat, butter, and you're basically done before you've started thinking about what comes after. The smell hits different when you're not rushing it—sweet, almost caramelized but still sharp. That's your signal.
+
+## Why You'll Love This Asparagus Soup
+
+Takes 70 minutes total. Most of that is just waiting, not actual work. Vegetarian but tastes heavy—like something that needed eggs and cheese to feel complete, and it does.
+
+Poached eggs on top. They fall into the soup when you break the yolk. That's the whole thing right there.
+
+Crème fraîche does something magic. Makes it taste less like a regular soup and more like something you sat down to actually eat.
+
+Works as a starter or lunch. Cold soup works too, though nobody believes you until they try it.
+
+## What You Need for Asparagus Soup with Parmesan
+
+Medium onion, chopped fine. Garlic—three cloves, maybe four if you're into it. Unsalted butter. The kind that's actually just butter, not spreadable mixed nonsense.
+
+Vegetable stock. A liter and some change. The quality matters here because there's not much hiding it. Parsnips—diced, not sliced. They disappear into the soup differently when they're cut smaller. Asparagus. Six hundred grams. Cut most of it into pieces but keep eighteen tips whole. The tips matter for the finish.
+
+Aged Parmesan, grated. Not the green can stuff. The real block. Crème fraîche—the tangy kind that lives in the dairy section, not sour cream trying to be something else. White wine vinegar. Six eggs. Fresh. Sourdough croutons toasted yourself. Store ones go soggy instantly.
+
+Salt. Black pepper you grind yourself right before eating. Parmesan shavings for the top.
+
+## How to Make Asparagus Soup
+
+Onion in the butter first. Let it go soft and translucent—maybe five minutes, not browning. You'll know because it smells sweet and the pieces are see-through. Garlic goes in after, two minutes max. The second it smells like garlic instead of onion, move on.
+
+Pour in the stock. Add the diced parsnips. Bring it up to a boil, then drop it way down. Just barely bubbling. Let it sit like that for about eighteen minutes while the parsnips get fork-tender. Don't stir constantly. Stirring breaks them apart and you lose the texture.
+
+Asparagus pieces—not the tips yet—go in next. Four minutes. That's it. You want them soft enough to blend but still holding their shape when you take them out raw. Test one.
+
+## How to Get the Texture Right
+
+Blend it now. Blender or immersion—whatever you have. I do immersion because I'm lazy about cleanup, but blender gets you smoother. If you want actually silky, actually run it through a fine sieve after. Not necessary. Perfectly good either way.
+
+Whisk in the crème fraîche. It cools the soup down a tiny bit and makes it taste less vegetable-forward and more like something with weight. Salt and pepper now. Taste it. Add more of either.
+
+Asparagus tips meanwhile—blanch them. Boiling salted water, two minutes, they go bright green and tender-crisp. Straight into ice water right after. That stops them cooking and keeps the color sharp instead of turning that dull olive. Drain them completely or they water down the bowl.
+
+## Poaching Eggs and Plating Your Asparagus Soup
+
+Water in a heavy pan. Gentle simmer. Add white wine vinegar. Critical part: the water should barely move. Not boiling. Violent water shreds eggs.
+
+Crack each egg into a small cup first. Don't crack directly into water like you're in a rush. Swirl the water gently—creates a little vortex—then slide the egg in. The white should set around the yolk in about three to four minutes. Remove with a slotted spoon. Drain on paper towel. Keep warm.
+
+Ladle soup into bowls. Actually warm the bowls first if you can—the soup stays hotter longer. Crouton in the center. Egg on top of that. Arrange the blanched asparagus tips around everything. They look better arranged than scattered. Parmesan shavings over the whole thing. Crack of black pepper. Serve immediately—the egg starts giving up if it sits.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Asparagus Parmesan Soup with Poached Eggs
+
+**Can I make the soup ahead?**
+Yeah. Make it, blend it, cool it completely, store it in the fridge for two days maybe. Reheat gently on the stove. Don't boil it or the crème fraîche can break and get grainy. The eggs though—make those fresh right before serving. Poached eggs don't hold up.
+
+**What if I don't want to poach eggs?**
+Then make a different soup. The egg is the point. You could do a soft-boiled egg instead if poaching feels too finicky, but the yolk breaking into hot soup is actually why this works. Doesn't taste the same with the egg on the side.
+
+**Can I use frozen asparagus?**
+Frozen asparagus is mushy soup. Fresh asparagus has that snap that matters. Not saying frozen doesn't work—everything works—but it tastes like something different.
+
+**What about substitutes for the parsnips?**
+Potato works. Celery root works better—same slight sweetness. Carrot if you want it sweeter. Not broccoli. Not other stuff. Those two.
+
+**How do I make it less rich?**
+Less crème fraîche. Or use Greek yogurt instead, though it's different. Or skip it and deal with a thinner soup. The Parmesan you probably can't skip without losing the whole thing.
+
+**Does this freeze?**
+Don't bother. Texture gets weird. You can do it, but the creaminess separates and the soup tastes thin when you thaw it. Make it fresh. Takes an hour and ten minutes. Not that long.
