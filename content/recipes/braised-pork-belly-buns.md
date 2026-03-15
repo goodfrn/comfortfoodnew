@@ -1,10 +1,10 @@
 ---
-title: "Pork Belly Bao Bun Recipe"
+title: "Belly Bao: Braised Pork Belly Buns"
 slug: "braised-pork-belly-buns"
-description: "Braised pork belly bao bun with star anise and plum sauce, slow-cooked until tender and lacquered. Steamed buns, crisp cucumber, fresh herbs. Sweet and savory."
-metaDescription: "Pork belly bao bun recipe with braised belly, star anise glaze, and steamed buns. Make it tonight."
-ogDescription: "Braised pork belly in spiced soy, lacquered with star anise and plum sauce. Steamed buns, cucumber, herbs."
-focusKeyphrase: "pork belly bao bun"
+description: "Braised pork belly bao with soy sauce, star anise, and plum sauce. Tender slow-cooked pork in steamed buns with cucumber and fresh coriander. Savory and sweet."
+metaDescription: "Belly bao recipe: braised pork belly with soy sauce, star anise, plum sauce, and fresh cucumber. Steamed buns with coriander. Make it tonight."
+ogDescription: "Braised pork belly bao buns with soy, star anise, plum sauce, cucumber, and coriander. Tender, lacquered, and delicious."
+focusKeyphrase: "belly bao"
 date: 2025-07-20
 draft: false
 image: braised-pork-belly-buns.jpg
@@ -21,11 +21,18 @@ tags:
 - "comfort food"
 - "appetizer"
 keywords:
-- "pork belly bao bun"
 - "belly bao"
-- "braised pork belly bun"
+- "pork belly bao bun"
+- "pork belly bao"
+- "braised pork belly bao"
+- "pork belly buns"
 - "pork belly bao recipe"
-- "bao pork belly"
+- "braised pork bun"
+- "pork belly steam bun"
+- "crispy pork belly bao"
+- "sticky pork belly bao buns"
+- "pork belly bun recipe"
+- "belly bao recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -74,3 +81,73 @@ faq:
 - "q: Can I make buns ahead of time? a: Yes, but steam right before serving. Keeps them soft. Storing in the fridge isn’t ideal. Use a steamer for best results."
 
 ---
+
+Cut the pork belly in half lengthwise — skin side up. Marinade hits different when you're not fighting it. Overnight minimum. Two hours and it's kind of there, but overnight means the soy goes all the way through, and that's what you want.
+
+## Why You'll Love This Pork Belly Bao
+
+Takes 2 hours 45 minutes total — most of that's just waiting. Oven does the actual work.
+Comfort food that doesn't feel heavy. Braised pork, soft bun, cucumber cooling it down. Works.
+One pot mostly. Honestly barely any dishes.
+Leftovers taste better the next day, maybe because the sauce sets overnight and the pork keeps absorbing it.
+Appetizer that looks like you did something complicated. You didn't.
+
+## What You Need for Pork Belly Bao Bun
+
+Dark soy. Not the light stuff — it won't have enough going on. Brown sugar. Salt. Just salt if you want, but the brown sugar rounds it out. Star anise. Ground, not whole pods. Way easier to not bite into a piece.
+
+Fresh pork belly — 875 grams, skin on. Ask the butcher. Tell them you're braising it. They'll cut it right. Green onions for the braise, more for the top. Low-sodium chicken broth. Regular works too if that's what you have.
+
+Small steamed buns. The bao bun pork belly game lives or dies on the bun. Get them warm, get them fresh. Don't buy them frozen two weeks ago. Plum sauce. English cucumber — thin slices, unpeeled. Fresh coriander. Sliced chili if you want heat. Optional means optional.
+
+## How to Make Pork Belly Bao
+
+Mix the soy, brown sugar, and star anise in a bowl. That's it. Pour it over the pork belly in something sealable. Press it down so the marinade touches everything. Cover it. Stick it in the fridge overnight minimum. Eight hours at least. Flip it if you remember. Doesn't matter that much.
+
+Next morning, drain it. Toss the old marinade — you're making fresh sauce in the pan later. Preheat the oven to 175°C. Mid-level rack.
+
+Get an ovenproof pot that's not nonstick if you can help it — nonstick works but the fond sticks less and you want the fond. Don't add oil. Just put the green onions in dry and let them blacken. Four to six minutes. Don't stir them. They need to actually char a bit.
+
+## How to Get Crispy Edges on Braised Pork Belly
+
+Pour the chicken broth in around the pork. Let it come to a boil on the stove — maybe two minutes. Then lid it and into the oven. Two hours. It's not going to look done halfway through. It will look like pork soup. That's right. Flip it at the hour mark if you want. Doesn't change much but it happens.
+
+Two hours and the pork should fall apart if you push it with a spoon. If it doesn't, give it another 15 minutes. Pull it out. Let it sit on a plate for 30 minutes uncovered — it cools down fast that way. Then into the fridge for at least an hour. Cold pork is way easier to slice.
+
+Cut it into 14 slices. Thin. Like half an inch. Lay them flat in a large nonstick pan. Pour that cooking liquid — the stuff you strained, onions gone — all over it. Medium-high heat. You're reducing that liquid down until it coats each slice and the pan's almost dry. Eleven minutes, maybe longer. Spoon it over the pork as it goes. Watch it. It goes from glossy to sticky to almost brown. Stop before it actually browns or it gets sharp.
+
+## Pork Belly Bao Tips and Common Mistakes
+
+Don't skip the overnight marinade. Four hours, six hours — doesn't work the same. Overnight. That's it.
+
+The braising liquid reduction is where people mess up. You're not trying to caramelize it hard. You want it sticky but still pourable. If the pan's hissing and smoking, pull it off. It's probably good.
+
+Use warm buns. Cold buns are chewy in a bad way. The bun pork belly balance breaks.
+
+Plum sauce inside. Not outside. It gets everywhere if it's outside.
+
+Cucumber goes second. Pork, then cucumber. Warm pork on cool cucumber. That's the point.
+
+Green onion sliced, coriander fresh — don't cook them. Cold raw stuff cools the whole bite down. That's why it works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pork Belly Bao
+
+**Can I use a different cut of pork?**
+Technically yes. Shoulder works. It won't have the same texture though — belly's fatty, gets kind of silky when you braise it. That's what you want. Shoulder gets stringy.
+
+**How long does the pork belly bao bun keep?**
+Three, four days in the fridge. The pork gets drier the longer it sits but the sauce helps. Buns go stale after a day so make those fresh or don't bake them yet.
+
+**What if I can't find the small steamed buns?**
+You need them or this falls apart. Check the freezer section. Asian markets have them. The kong bak bao needs that specific bun texture — soft, pillowy. Dinner rolls don't work. Regular bread doesn't work.
+
+**Do I have to marinate overnight?**
+Yes. Eight hours minimum. Seriously. The soy and star anise need time. Four hours and it tastes like you forgot something.
+
+**Can I make the pork belly steam bun filling ahead of time?**
+Yes. The whole braised pork part goes together two, three days before. Slice it, sauce it, keep it cold. Warm it gently when you're ready to assemble. Just don't let it dry out — add a splash of that cooking liquid back in if it looks tight.
+
+**Is there a substitute for star anise?**
+Not really. It's like two percent of the flavor but it's the two percent that makes it kong ba pau and not just braised pork. If you hate it, leave it out. But don't complain it tastes different.
