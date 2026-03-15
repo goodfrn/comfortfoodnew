@@ -1,10 +1,10 @@
 ---
-title: "Cookies and Cream Fudge Recipe"
+title: "Sundae Cookie Fudge with Oreos"
 slug: "cookies-and-cream-fudge"
-description: "Creamy white chocolate fudge loaded with crushed cookies and sweetened condensed milk. Salt-balanced, no-fuss homemade treat that sets perfectly without hardening solid."
-metaDescription: "Cookies and cream fudge made with white chocolate and condensed milk. Loaded with cookie pieces, salt-balanced, sets perfectly. Make it tonight."
-ogDescription: "White chocolate fudge studded with crushed cookies. Creamy, not grainy. Chills to perfect texture without overhardening."
-focusKeyphrase: "cookies and cream fudge"
+description: "Creamy sundae cookie fudge made with white chocolate chips, sweetened condensed milk, and crushed Oreos. No-bake treat with sea salt that sets perfectly every time."
+metaDescription: "Sundae cookie fudge recipe with white chocolate, sweetened condensed milk, and Oreo chunks. Easy homemade candy that never hardens solid. Make it tonight."
+ogDescription: "White chocolate fudge loaded with crushed Oreos and a pinch of sea salt. Creamy, no-bake sundae cookie treat."
+focusKeyphrase: "sundae cookie"
 date: 2025-11-08
 draft: false
 image: cookies-and-cream-fudge.jpg
@@ -21,11 +21,16 @@ tags:
 - "no bake"
 - "dessert"
 keywords:
+- "sundae cookie"
 - "cookies and cream fudge"
-- "cookies and cream fudge recipes"
 - "white chocolate fudge"
-- "cookie cream fudge"
-- "homemade fudge recipes"
+- "Oreo fudge"
+- "no-bake fudge"
+- "homemade fudge recipe"
+- "cookies and cream fudge recipes"
+- "candy recipes"
+- "easy fudge"
+- "Oreo dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "245"
@@ -63,3 +68,57 @@ faq:
 - "q: How long to store fudge? a: Refrigerate tightly covered weeks safe. Room temp a few days only, humidity risks. Freeze wrapped well; thaw in fridge for texture. Avoid moisture exposure; fudge absorbs odors, becomes sticky if uncovered."
 
 ---
+
+Lay out the foil first—makes pulling these out so much easier than peeling hardened fudge off a bare pan. White chocolate and condensed milk go into a medium saucepan on low heat. Just melt them together. Stir slow. Steady rhythm. No rush. Takes maybe 3 or 4 minutes until it goes glossy and swirls into one shiny pool. Off heat. Fold in the crushed Oreos and that half teaspoon of salt. Fold, don't stir. Salt quiets down the sickly sweetness—actually makes it taste like something. Spoon it into the pan. Spread with a rubber spatula or the back of a spoon. Not thin. You want it creamy still. Press the remaining cookies on top. Gently. They stay crunchy that way. Counter for about an hour until it's firm enough to touch. Then fridge. Two hours minimum. Cold fudge cuts clean. Warm fudge just smushes everywhere.
+
+## Why You'll Love This Cookies and Cream Fudge
+
+Takes 15 minutes of actual work. The rest is fridge time doing its thing.
+No baking. No oven. No excuses.
+Tastes like a sundae that somehow became solid. Crunchy cookies, creamy fudge, chocolate that melts on your tongue before you even chew.
+Looks fancy when you slice it. Those cookie pieces showing through—people think you did more than you did.
+Freezes forever. Or at least a couple weeks. Maybe longer but it never lasts that long.
+
+## What You Need for Cookies and Cream Fudge
+
+White chocolate chips—two cups. Not the fake stuff. Real white chocolate melts smooth. Condensed milk from a can, 14 ounces. The sweetened kind. Two cups of Oreos crushed up. Doesn't have to be perfect. Some chunks, some powder, some crumbs. Half a teaspoon of flaky sea salt. This part matters. Table salt disappears. Flaky salt hits different. And another half cup of crushed Oreos for the top. Save the bigger pieces for this part if you can. They show better.
+
+## How to Make Cookies and Cream Fudge
+
+Line an 8 by 8 pan with foil or parchment. Fold the sides up high. You'll be so glad you did this part. Medium saucepan. Low heat. Pour in the white chocolate and condensed milk at the same time. Let them melt together. Three, maybe four minutes. Stir slow. Not fast. A steady rhythm. You're not in a rush. Watch how it goes from lumpy to glossy. From separate to one smooth, shiny pool. That's when you stop. Don't let it boil. Boiling means grainy. Means burnt. Means starting over.
+
+Pull the pan off heat. Now fold in those two cups of crushed Oreos and the salt. Fold. Not stir. Folding turns things over gently. Keeps big chunks from breaking down. Stir would chop everything into powder. Fold keeps texture. Salt goes in here too. Half a teaspoon. That's enough to make you taste the chocolate instead of just sugar.
+
+Spoon the fudge into the lined pan. Grab a rubber spatula or the back of a wooden spoon. Spread it even. Not too thin. You want it thick enough to bite into but still creamy in the middle. The thickness makes the difference. Then the remaining cookies. Sprinkle them across the top. Not random. Spread them so every slice gets some. Press gently. Really gently. You're just tucking them in. Not pushing them down into the fudge where they disappear.
+
+## Cookie and Cream Fudge Tips and Common Mistakes
+
+Room temperature matters here. An hour on the counter usually works. Maybe less if your kitchen is cold. Maybe more if it's hot. Just touch it. When it feels set but still soft, you're done waiting. Then the fridge. Two hours. Don't skip this or cut it short. Cold fudge cuts clean lines. Warm fudge smears.
+
+Use a sharp knife. Dip it in hot water. Wipe it dry. Cut one square. Dip and wipe again. Every single cut. Takes longer but the edges come out clean instead of ragged and sad. If you mess up the first slice, that's fine. Cover it up. Nobody sees the first piece in the pan.
+
+Chocolate can seize if water gets in it. But here you're using condensed milk which is fine. Low heat and patience mean no scorched grainy disaster. Don't try to speed this up on medium heat. It won't work the same way.
+
+Oreo quality doesn't matter as much as you think. Regular Oreos work. Double Stuf works. Store brand works. You're crushing them anyway. The crush is what matters.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Oreo Fudge Cream
+
+**Can I make this with dark chocolate instead of white chocolate?**
+Yes. Totally different thing but it works. White chocolate is what makes it taste like a sundae. Dark chocolate is just fudge with cookies in it. Different vibe. Both good.
+
+**How long does this stay fresh?**
+In the fridge, a week easy. Two weeks probably fine. Freezer, months. But it doesn't last that long in my house.
+
+**Can I use crushed wafers or other cookies instead of Oreos?**
+Sure. Crushed graham crackers. Crushed brownies. Crushed pretzels. The base recipe stays the same. Just won't be cookies and cream fudge anymore. It'll be something else.
+
+**Why does mine feel grainy?**
+Chocolate got too hot or boiled. Or water got in it. Both create grains. Next time watch the heat. Keep it low. Stir steady. If condensed milk is old or separated, that can do it too. Check the can before you use it.
+
+**Can I make a bigger batch?**
+Double it. Triple it. Use a 9 by 13 pan for double. Same time. Same method. Might need an extra hour in the fridge to set all the way through if you go bigger.
+
+**What kind of knife works best for cutting?**
+Sharp. That's all. A chef's knife. A serrated knife. Doesn't matter. Sharp and hot and wiped clean between cuts. That's the whole thing.
