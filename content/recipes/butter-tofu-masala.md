@@ -1,9 +1,9 @@
 ---
-title: "Butter Tofu Masala: Creamy Tomato"
+title: "Tofu Butter Masala with Tomato Cream"
 slug: "butter-tofu-masala"
-description: "Tofu simmered in a spiced tomato-cream sauce with fresh aromatics and bold spices. Vegetarian butter masala that's gluten-free, ready for weeknight dinners."
-metaDescription: "Butter tofu masala recipe with creamy tomato sauce, fresh spices, and firm tofu. Vegetarian and gluten-free. Try it tonight."
-ogDescription: "Creamy spiced tofu in tomato sauce. Bold aromatics, buttery finish, ready in one pan. Vegetarian masala that actually tastes good."
+description: "Tofu butter masala with tender tofu in spiced tomato cream sauce. Made with butter, garam masala, fresh ginger and coriander for authentic flavor."
+metaDescription: "Tofu butter masala recipe with firm tofu simmered in tomato cream sauce with butter, garam masala, and fresh ginger. Try it tonight."
+ogDescription: "Tender tofu in a creamy tomato butter sauce with garam masala, ginger, and fresh coriander. Vegetarian comfort food."
 focusKeyphrase: "tofu butter masala"
 date: 2025-09-25
 draft: false
@@ -23,9 +23,14 @@ tags:
 keywords:
 - "tofu butter masala"
 - "butter tofu masala"
-- "vegetarian masala"
-- "creamy tofu curry"
+- "vegetarian butter masala"
+- "tofu curry recipe"
+- "tofu masala"
 - "tomato cream sauce tofu"
+- "garam masala tofu"
+- "weeknight tofu dinner"
+- "gluten-free tofu recipe"
+- "Indian tofu curry"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -80,3 +85,101 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in sealed container, slows flavor loss. Reheat gently to avoid breaking tofu. Sauce freezes well; cool fully first. Defrost in fridge overnight. Stir before warming to rebind cream and butter."
 
 ---
+
+Boil the tofu first — this is the trick that stops it from turning to mush. Most people skip it. Don't. Then you brown it in butter until it catches light gold, and that's when everything changes. The sauce is what makes this work though. Onions and garlic go into melted butter, gets soft and fragrant in about 5 minutes. Spices toast quick — paprika, garam masala, mace — just a minute so they lift but don't burn. Tomatoes go in, everything simmers down, cream swirls in at the end until it's thick and clinging. The whole thing takes 57 minutes. Comfort food that actually tastes like you spent way longer on it than you did.
+
+## Why You'll Love This Tofu Butter Masala
+
+Takes 25 minutes of actual hands-on work, the rest just simmers while you handle something else.
+
+Indian spices without the fuss — paprika, garam masala, a whisper of mace — they build into something warm and complex-tasting, but you're not juggling ten ingredients or hunting down obscure things.
+
+Works as a vegetarian dinner that doesn't feel like a compromise. People eat it and don't notice the tofu unless you tell them.
+
+Leftovers taste better the next day. Flavors meld overnight. Reheats in a pot on low, add a splash of water so it doesn't dry out.
+
+Spicy enough that it has something going on, but the cream keeps it from burning your mouth — easy to dial the chili flakes up or down depending on who's eating.
+
+## What You Need for Butter Tofu Masala
+
+Firm tofu — and it has to be firm, not silken. The cubes hold their shape through boiling and browning.
+
+An onion, medium size, chopped. Two garlic cloves minced. A tablespoon of fresh ginger grated. This base is everything.
+
+Butter. Thirty milliliters — two tablespoons — for the sauce base, then another tablespoon to brown the tofu after. It matters. Don't skip it for oil.
+
+Sweet smoked paprika, just over a teaspoon and a half. Garam masala, same amount. Ground mace — a quarter teaspoon, subtle thing, replaces nutmeg because nutmeg takes over the room.
+
+A quarter teaspoon of red chili flakes. Not a lot. More if you want it to actually hurt.
+
+One can of diced tomatoes, 398 milliliters. A cup and a half of water. A tablespoon of tomato paste. Heavy cream, either 15 percent or 35 percent fat — both work, 35 percent thickens faster.
+
+Fresh coriander for the finish. Green, bright, stops the whole thing from tasting heavy.
+
+Salt and pepper. Check the seasoning at the end.
+
+## How to Make Tofu Butter Masala
+
+Melt the butter in a wide pan over medium heat — keep it gentle, don't let it brown yet. Throw in the chopped onion, minced garlic, grated ginger, and red chili flakes. Stir it around. Watch it soften and go fragrant, edges starting to brown but still pale and milky-looking. This takes about 5 minutes but trust what you're seeing and smelling more than the clock.
+
+Now the spices. Paprika, garam masala, mace — dust them in and give it a quick stir. Toast for exactly one minute. You'll smell it lift, that toasted-spice smell. Don't walk away. Burnt spices taste bitter and there's no fixing it once it happens.
+
+Tomatoes in — the whole can with the juice. Tomato paste. Water. Stir hard and scrape the brown bits stuck to the bottom. Get everything off. Bring it to a rolling boil, big bubbles cracking the surface. Then turn the heat down to low. Lid slightly askew so steam escapes but not all of it. Let it bubble quietly for 17 minutes. The sauce gets darker, thicker, the tomatoes start to break down. Poke it with a spoon — parts should give easily when you press.
+
+Off heat. Take a potato masher or a sturdy spoon and smash the sauce gently. You want some texture left, not baby food smoothness, but no big tomato chunks either. Put the pan back on low heat and pour the cream in slow and steady, swirling as you go. It thickens up, gets glossy, little pearls of butter float on top. Taste it. Fix the salt and pepper. Set it aside somewhere warm.
+
+## How to Get Tofu Crispy in Butter
+
+Put a pot of salted water on to boil while the sauce is doing its thing. When it's rolling, drop the tofu cubes in gently. Let them boil for 6 minutes. This is the step people skip and then wonder why their tofu falls apart. Boiling firms it up, pulls moisture out, keeps it from crumbling when you flip it later. Drain it well. Pat it dry on paper towels until the surface is almost dry but the inside still feels a little moist.
+
+Large nonstick skillet, medium-high heat. Add a tablespoon of butter, wait for it to foam and then settle back down. Place the tofu cubes in. You should hear a sharp, distinct sizzle the second they touch the pan. Flip them halfway through, get them golden and lightly crusted on all sides. This takes about 8 minutes total. The key here is that the tofu has to be dry on the surface to brown — too much oil actually makes it sweat and steam instead of getting crispy. Don't overcrowd the pan. Be patient.
+
+Transfer the tofu to the warm sauce gently. Stir it so every cube gets coated. Let it simmer for 4 minutes just to warm through and let the flavors get to know each other. The sauce should cling thickly.
+
+## Tofu Butter Masala Tips and Common Mistakes
+
+Mace instead of nutmeg — this matters. Nutmeg overpowers everything. Mace is the delicate sibling.
+
+The boiling step. Don't skip it thinking you're saving time. You're not. You're trading 6 minutes for tofu that actually has texture instead of tofu soup.
+
+Burnt butter. Watch it when you're toasting the spices and when you're melting the first batch. Burnt butter tastes acrid and there's no fixing it. Quick swirl, don't leave it.
+
+Tomato paste — don't use it raw. Stir it in with the spices before adding the liquid, or just add it with the canned tomatoes. Either way, it needs to integrate, not clump.
+
+The cream goes in off heat or on the lowest heat. Too hot and it can break or get grainy. Swirl it in slow.
+
+Cream swaps work. Coconut milk adds sweetness — cut the chili flakes back if you go that route. Cashew cream works too. Heavy cream is richest.
+
+Coriander at the end, fresh. Dried just tastes like dust.
+
+Salt check at the end. Taste it. Masala needs salt to bloom. Not a lot. Just enough.
+
+Texture of the sauce — not smooth like baby food, but not chunky either. Mash the tomatoes until they mostly break down but you still see a little bit of what used to be a tomato. Not a purée.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tofu Butter Masala
+
+**Can I skip the boiling step?**
+Could. Textures suffer though. Tofu stays softer, mushier. The 6 minutes is insurance.
+
+**What if my tofu is too wet?**
+Pat it longer on paper towels. Seriously dry it. Wet tofu won't brown, just steams.
+
+**Can I use coconut milk instead of heavy cream?**
+Yeah. It changes the taste — sweeter, more coconut. Use less chili if you do that. Works fine.
+
+**How long does the sauce keep?**
+Fridge for 4 days easy. Freezes well if it cools fast — pour into a flat container so it freezes quick instead of taking forever. Thaw in the fridge overnight.
+
+**Do I have to use fresh coriander?**
+Should. Dried tastes nothing like it. If you don't have it, just don't add any. Don't sub dried. It's not the same thing.
+
+**What if I want it spicier?**
+Start with more chili flakes. Add a half teaspoon more than the quarter teaspoon called for. Taste it after it simmers. You can always add more at the end but you can't take it back out.
+
+**Can I add vegetables to this?**
+Carrots work — grate them fresh and stir them in at the final simmer for a little texture. Peas too. Spinach right at the end, wilts in seconds.
+
+**Does it need anything on the side?**
+Basmati rice soaks up the sauce. Naan bread too. Steamed vegetables on the side don't hurt. Just something to make it a full meal.
