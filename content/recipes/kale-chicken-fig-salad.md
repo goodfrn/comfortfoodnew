@@ -1,10 +1,10 @@
 ---
-title: "Kale Chicken Fig Salad"
+title: "Kale Chicken Salad with Goat Cheese"
 slug: "kale-chicken-fig-salad"
-description: "Chunks of seared chicken tossed with kale, sweet dried apricots, and vibrant herbs. Chickpeas add texture, while crumbled goat cheese sharpens flavors. Citrus and olive oil dress lightly, coating each leaf. A sprinkle of toasted pumpkin seeds brings an unexpected crunch. Bright colors, smoky-sweet aromas fill the kitchen. The interplay between chewy figs and crisp greens keeps each bite interesting. No eggs no nuts, gluten-free. A refined salad that bridges hearty and fresh, sharp and mellow. Quick cook, plenty of layered flavors and textures."
-metaDescription: "Kale Chicken Fig Salad swaps figs for tart dried apricots, tossing seared chicken with kale, chickpeas, goat cheese, and toasted pumpkin seeds. Bright, layered flavors."
-ogDescription: "Seared chicken hit with fennel, chili flakes, layered into kale, apricots, goat cheese, pumpkin seeds. Tangy lime juice wakes it all up. Crunch, chew, aroma mix."
-focusKeyphrase: "Kale Chicken Fig Salad"
+description: "Seared chicken tossed with kale, chickpeas, and dried apricots. Crumbled goat cheese and toasted pumpkin seeds add richness and crunch to this gluten-free salad."
+metaDescription: "Kale chicken salad with goat cheese, chickpeas, and dried apricots. Lime dressing, pumpkin seeds. Gluten-free and full of texture. Make it tonight."
+ogDescription: "Seared chicken, kale, goat cheese, chickpeas, dried apricots, and pumpkin seeds. Light lime olive oil dressing. Gluten-free."
+focusKeyphrase: "kale chicken salad with goat cheese"
 date: 2025-08-07
 draft: false
 image: kale-chicken-fig-salad.jpg
@@ -21,9 +21,15 @@ tags:
 - "gluten free"
 - "mediterranean"
 keywords:
-- "kale salad"
+- "kale chicken salad with goat cheese"
+- "chicken salad with dried apricots and chickpeas"
+- "gluten free chicken salad"
+- "mediterranean kale salad with seared chicken"
+- "warm kale chicken salad with pumpkin seeds"
+- "healthy chicken salad"
+- "chickpea salad with fennel and lime dressing"
 - "chicken salad"
-- "apricot salad"
+- "mediterranean salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "380"
@@ -64,3 +70,90 @@ faq:
 - "q: How to store leftovers best? a: Keep salad covered fridge max 12 hours. Store dressing separate if possible, pumpkin seeds toasted added fresh before serving. Room temp before plating—letting chill too long dulls aromas, kale soggy risk from residual oil."
 
 ---
+
+Sear the chicken first—don't move it. That's the whole move. Brown skin, then everything else follows.
+
+## Why You'll Love This Mediterranean Salad
+
+Takes 30 minutes flat. Protein that actually fills you up, not just sits there. Gluten free without tasting like you're eating cardboard. Kale softens as it sits, so it's not that tough chew thing. Tastes even better the next day—the lime and oil soak into everything, flavors get deeper. Works cold straight from the fridge or warm. And the goat cheese with the warm chicken is kind of perfect. You can make it Sunday, eat it all week.
+
+## What You Need for Mediterranean Kale Salad
+
+Chicken breast. Diced. 500 grams. Boneless, skinless—that's it.
+
+Extra virgin olive oil. 45 ml total. Not "about a splash." Measure it. The fat carries flavor here.
+
+Spring onions. Three of them, chopped. White and light green parts. The onion goes soft in the hot pan, melts into the chicken.
+
+Fennel seeds. Three ml, crushed lightly between your fingers. Releases the oil, changes everything. Tastes Mediterranean in one ingredient. Don't skip it.
+
+Red chili flakes. Two ml. Not much. Enough to feel it, not burn. Can always add more at the table.
+
+Dried apricots. 110 grams, diced. Not figs—the recipe name lied. But apricots work better. Soften in the lime and oil, become almost jam-like. Brings sweet to the whole thing.
+
+Fresh lime juice. 25 ml. Real limes. Not the bottle. The acidity matters—wakes up the apricots, cuts through the oil, keeps kale from sitting heavy.
+
+Kale. 200 grams. Chopped without the stems—the stems are tough, waste them. The leaves get tender as the salad sits. Don't skip the chopping part. Smaller pieces mean better texture.
+
+Chickpeas. Two cans, 540 ml total, rinsed and drained. The protein backbone. They stay firm, don't go mushy. Swap for white beans if you have them. Works fine either way.
+
+Goat cheese. 180 grams, crumbled. Tangy, creamy, breaks up the heat. Some goes soft when the chicken's still warm—that's the point. Feta works if you can't find goat cheese. Less creamy but it works.
+
+Toasted pumpkin seeds. 30 grams. Adds crunch that sticks around. Raw seeds soften too fast. Toast them yourself or buy them pre-toasted.
+
+Salt and pepper. Fresh ground. More than you think.
+
+## How to Make Mediterranean Kale Salad with Seared Chicken
+
+Heat the oil in a heavy pan on high. Twenty-five ml. You want shimmering—tiny bubbles racing across the surface. Not smoking. Not calm. Shimmering.
+
+Chicken goes in a single layer. Don't move it. Don't poke it. Don't flip it early. Four to five minutes. You'll hear it sizzle the whole time—that's good. That's the crust forming. The smell changes from raw chicken to something browned and complex. That's the signal.
+
+Toss in the spring onions, fennel seeds, chili flakes. All at once. Reduce heat to medium—the pan's hot enough now. Stir for four minutes. The chicken finishes cooking through, stays tender because you're not blasting it anymore. The onions soften, break down a little. The fennel and chili spread their heat around. The whole pan smells warm and spiced.
+
+Salt and pepper now. Early seasoning sticks better than salting at the end. Trust this. Remove from heat. Leave it in the pan, still warm but not cooking anymore.
+
+Meanwhile. Large bowl. Apricots with the remaining 20 ml oil and lime juice. Just sit together for five minutes. The acid softens the apricots, plumps them back up. They go from papery to juicy. The lime and oil start mingling, become a light dressing. This is where flavor gets built.
+
+Add kale, chickpeas, pumpkin seeds, goat cheese to the bowl. Fold in the warm chicken last. Fold gently—you want the cheese to stay chunky, not break apart into nothing. The warmth of the chicken wilts the kale slightly, helps the flavors marry faster. Taste it. Adjust salt and pepper with actual confidence. More lime if it needs brightness. Pinch more chili if it needs edge.
+
+Serve immediately if you want it warm. The kale's still firm, the cheese is creamy, the chicken's hot.
+
+## Warm Kale Chicken Salad Tips and Common Mistakes
+
+Let the chicken brown. Actually brown. Don't crowd the pan—if the pieces touch, they steam instead of sear. Work in batches if you need to. Takes longer but the crust is worth it.
+
+The apricots need that five-minute soak. Don't skip it thinking you'll save time. That's when they soften and the oil takes on their sweetness. Raw apricots in a salad just taste like cardboard.
+
+Don't chop the kale too big. It gets stuck between your teeth when it's in long pieces. Half-inch strips work. Smaller is better.
+
+Crumble the goat cheese by hand, don't use a knife. It breaks up better, goes further, looks less like you mashed it. If it's cold from the fridge, let it sit out five minutes first—easier to crumble.
+
+Toast your own pumpkin seeds if you can. Raw ones go soft too fast in the salad. If you're using pre-toasted, add them last, right before serving. That way they stay crispy instead of getting soggy.
+
+The salad tastes better cold after a few hours. Overnight is even better. The kale softens without getting mushy, the lime soaks into everything, flavors meld. Bring it back to room temperature before serving if it's been chilled—cold salad hits different than cold chicken. That 15 minutes on the counter changes the whole thing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mediterranean Kale Salad
+
+**Can I make this ahead?**
+Yes. Up to 12 hours. Cover it. The flavors get deeper—the lime soaks in, the kale softens. Bring it to room temperature before you eat it. Cold straight from the fridge is harsh. It needs to warm up a bit.
+
+**What if I don't have fennel seeds?**
+You could skip it. The salad still works. But it won't taste Mediterranean anymore—it'll just taste like a chicken salad. Find fennel seeds. They're in every grocery store, cost almost nothing. Worth it.
+
+**Is this actually gluten free?**
+Yeah. Everything here is gluten free. Chickpeas, kale, olive oil, goat cheese. No hidden gluten. If you're celiac, just watch your pumpkin seeds—some brands add stuff.
+
+**Can I use a different chicken cut?**
+Thighs work better, actually. They stay juicier. Breasts are leaner, which is fine if you're careful not to overcook them. Don't use pre-cooked chicken. It doesn't brown right.
+
+**How long does it keep?**
+Three days in the fridge, covered. After that the kale starts to really fall apart, gets too soft. But two days? Perfect. Two days is ideal.
+
+**Can I serve this warm?**
+Yeah. Right after you make it. The chicken's still warm, the goat cheese is creamy and soft, the kale hasn't wilted all the way yet. Different vibe than cold—less of a salad, more like a warm bowlful. Both work.
+
+**What can I swap for goat cheese?**
+Feta. Crumbly, tangy, similar vibe. Less creamy but it works. Ricotta's too soft. Don't use that.
