@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Marshmallow Roll"
+title: "Chocolate Marshmallow Roll Recipe"
 slug: "chocolate-marshmallow-roll"
-description: "A sponge cake baked thin and rolled with a fluffy marshmallow buttercream. Cocoa powder and a touch of baking powder bring air and lift to the base. The cake bakes quickly—watch the surface, it sets fast. Marshmallow fluff blends with butter for a sticky sweet filling, brightened by clear vanilla. Rolled tight to hold shape then chilled for a firm, sliceable treat. Garnished with mini marshmallows and chocolate syrup for gooey pockets and shine. Leftover variations and tips included for salvage and substitutions."
-metaDescription: "Chocolate Marshmallow Roll with airy cocoa sponge cake, sticky marshmallow buttercream, and mini marshmallow garnish. Rolled tight, chilled, sliceable treat."
-ogDescription: "Airy chocolate sponge folded with sticky marshmallow buttercream, rolled and chilled. Mini marshmallows peek through gooey layers. Slice clean with serrated knife."
-focusKeyphrase: "Chocolate Marshmallow Roll"
+description: "Chocolate marshmallow roll with cocoa sponge cake, marshmallow fluff buttercream, and mini marshmallows. Rolled tight, chilled firm, and ready to slice."
+metaDescription: "Chocolate marshmallow roll combines cocoa cake with marshmallow fluff buttercream filling. Quick to bake, easy to roll. Make it tonight."
+ogDescription: "Cocoa sponge cake rolled with marshmallow fluff buttercream, mini marshmallows, and chocolate syrup drizzle."
+focusKeyphrase: "chocolate marshmallow roll"
 date: 2026-01-08
 draft: false
 image: chocolate-marshmallow-roll.jpg
@@ -20,9 +20,14 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
-- "marshmallow fluff"
-- "chocolate roll"
-- "sponge cake"
+- "chocolate marshmallow roll"
+- "marshmallow fluff cake"
+- "cocoa sponge cake"
+- "chocolate roll cake recipe"
+- "homemade marshmallow roll"
+- "buttercream rolled cake"
+- "chocolate dessert"
+- "cake roll recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "513"
@@ -91,3 +96,123 @@ faq:
 - "q: Storing leftovers best method? a: Wrap tightly in plastic or foil. Refrigerate at least 4-6 hours before slicing for firm texture. Can freeze well in airtight wrap for up to one month. Thaw overnight in fridge wrapped to avoid condensation ruining surface. Keeping moisture balance critical to avoid soggy or dry cake. Leftover cake works great as base for parfaits or trifle."
 
 ---
+
+Warm cake. Marshmallow in the middle. Chocolate on top. Four hours and forty minutes total, most of it just sitting in the fridge.
+
+## Why You'll Love This Chocolate Marshmallow Roll
+
+Tastes like something you'd buy at a bakery. Costs maybe five bucks to make.
+The cake part stays soft — spongy, really — even after days. Doesn't dry out like regular sheet cakes.
+Mini marshmallows melt into the filling. Creates these pockets of gooey sweetness that hit different.
+Looks fancy enough to serve at dinner. Isn't complicated. Just feels that way.
+Actually improves overnight. The flavors flatten together into something better than the day you made it.
+
+## What You Need for a Chocolate Marshmallow Roll
+
+Flour. Cocoa powder. Baking powder. Salt. Standard stuff.
+
+Eggs — four of them. Room temperature works better but cold doesn't wreck it.
+
+Sugar. Three quarters cup in the cake. Three cups in the frosting. Yeah, it's a lot.
+
+Vegetable oil. Coconut oil if you have it, but vegetable's cleaner here. Doesn't fight the chocolate.
+
+Vanilla. Two different kinds actually — regular vanilla in the cake, clear vanilla in the buttercream. Keeps the frosting white instead of beige.
+
+Butter. Half a cup. Room temperature. Non-negotiable. Cold butter won't blend with the marshmallow fluff.
+
+Marshmallow fluff. Seven ounces. That's the jar kind, the stuff that comes pre-whipped. Half a cup of mini marshmallows for inside, plus more for the top.
+
+Half and half. Four tablespoons to start, adjust from there. Controls how thick the frosting gets.
+
+Chocolate syrup for drizzling. Just pick one. Doesn't matter which brand.
+
+Parchment paper. Spray. Powdered sugar for dusting. The unglamorous stuff that actually matters.
+
+## How to Make a Chocolate Marshmallow Roll
+
+Heat your oven to 345. Not 350 — 345. The lower temp bakes more evenly, especially on a thin sheet. Line the jelly roll pan with parchment, spray it lightly. Parchment's the whole game here. Without it, you're peeling cake.
+
+Sift together flour, cocoa powder, baking powder, salt. Sounds fancy. It's just breaking up lumps so the batter mixes right. Do it in a bowl.
+
+Beat eggs, sugar, oil, and vanilla on high. Actually high. Five to six minutes. The mixture should go pale yellow and thick. You're trying to whip air into this. If you skip that step, the cake stays dense. Doesn't work.
+
+Fold in the flour mixture. Use a spatula. Fold slowly. This is where people panic and stir, which deflates everything. Just fold. Slowly. Until you don't see white streaks anymore.
+
+Pour into the pan. Use an offset spatula to smooth it. The more even it spreads, the more even it bakes. Tap the pan once on the counter. Gets rid of air pockets.
+
+Bake for eleven to thirteen minutes. Watch the edges. They should pull slightly away from the sides. The top should look set with no jiggle in the middle. Overbake by a minute and it gets dry fast.
+
+Pull it out. Run a knife around the edges right away while it's hot. This stops it from sticking.
+
+Now the weird part. Dust a clean kitchen towel with powdered sugar. Seriously coat it. Don't skimp.
+
+Place the towel face down on top of the hot cake. Flip the whole thing. Cake lands on the towel. Parchment stays on top for a second.
+
+Peel the parchment off slowly. If it sticks, use a little steam from a kettle or just ease it up gently. Torn edges don't matter. You're rolling it anyway.
+
+Dust the top with more powdered sugar.
+
+## How to Get a Perfect Chocolate Marshmallow Roll
+
+Start rolling from the short end while it's still warm. Warm cake rolls without cracking. Roll it up like a sleeping bag, firm but not aggressive. Set it down still rolled and let it cool completely. Cooling it in the rolled state sets the shape.
+
+Once it's cool, make the frosting. Beat room temperature butter and clear vanilla together for about a minute and a half. Should look creamy.
+
+Add the marshmallow fluff. Beat for another minute. It'll look thick and sticky and kind of lumpy at first.
+
+Add powdered sugar slowly. Half cup at a time. Alternate with the half and half. Keep the speed medium so you don't coat your kitchen in sugar dust. The frosting should be thick but spreadable. Not like concrete. Not like soup. Somewhere in between. You control this by adjusting the half and half. Need it thicker? Skip the next splash. Need it looser? Add a tablespoon more.
+
+Unroll the cake slowly. Cracks happen. They're fine. Nobody sees the inside of a roll.
+
+Spread the frosting evenly over the whole thing. Use the offset spatula. Stay away from the edges a little — if frosting goes all the way to the edge, it squishes out when you roll.
+
+Scatter mini marshmallows all over the filling. Not packed tight. Just scattered. They melt slightly into the frosting later, which is the whole point.
+
+Roll it back up. Firmly but gently. Wrap it tight in plastic wrap.
+
+Chill it. At least four to six hours. Better overnight. The buttercream firms up so slicing stays clean instead of smushed.
+
+## Chocolate Marshmallow Roll Tips and Common Mistakes
+
+The sponge cake fails if you don't whip the eggs enough. People rush this. Don't rush it. Five minutes minimum. The batter needs to be pale and thick or the cake stays heavy.
+
+Some people fold in the flour too aggressively. They stir it. The cake ends up dense. Fold means fold. Use a spatula. Turn the bowl. Fold. Turn again. Takes thirty seconds longer. Matters.
+
+Overbaking kills it. Thirteen minutes is the max. The cake keeps cooking a tiny bit after it comes out, so pull it when the top looks barely set.
+
+The rolling works because the cake is warm. If you let it cool first, it cracks. Do the towel flip immediately. The warmth helps.
+
+Mini marshmallows are smaller than regular marshmallows. Use mini. Regular ones are lumpy in the frosting.
+
+Don't skip the chilling. Four hours minimum. Overnight is better. The buttercream sets up and the flavors settle together.
+
+Slicing works best with a serrated knife. Dip it in hot water, wipe it dry, slice, dip again. Warm knife cuts through buttercream without dragging.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Marshmallow Roll
+
+**How long does this last in the fridge?**
+Four or five days. Stays soft the whole time. Might get a little denser by day four, but still good. Freezes fine too — up to a month wrapped tight in plastic.
+
+**Can I use regular marshmallows instead of fluff?**
+Not the same thing. Fluff is already whipped and light. Regular marshmallows would need blending first and honestly, not worth the effort. Just get the fluff.
+
+**What if my cake cracks when I roll it?**
+Cracks happen. Roll it anyway. The frosting hides everything. If it's falling apart, you either overbaked it or didn't roll while warm. Next time, don't skip the warm rolling part.
+
+**Do I have to use clear vanilla in the frosting?**
+No. Regular vanilla works. The frosting just comes out beige instead of white. Tastes identical. Looks different though.
+
+**Can I make this ahead?**
+Yeah. Make it a day or two before. Wrap it tight. The flavors actually get better overnight. Just don't slice it until you're ready to serve. Whole roll keeps better than sliced pieces.
+
+**What's the difference between vegetable oil and coconut oil here?**
+Coconut oil adds a coconut taste. Vegetable oil doesn't add anything, just makes the cake tender. Pick vegetable oil if you want pure chocolate. Coconut oil if you want a hint of coconut. Both work.
+
+**How many pieces does this make?**
+About ten if you're doing half-inch slices. Maybe eight if you're hungry. Depends how you cut it.
+
+**Can I skip the mini marshmallows in the filling?**
+Sure. Frosting's good on its own. The marshmallows just add texture and sweetness. If you skip them, you've still got a solid chocolate roll.
