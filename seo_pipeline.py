@@ -2,29 +2,12 @@ import os
 import re
 import glob
 import json
-import time
-import base64
-import requests
 import anthropic
 from pathlib import Path
-from datetime import datetime, timedelta
 
 # ── CONFIG ────────────────────────────────────────────────────────────────────
-DFS_LOGIN    = os.environ.get("DATAFORSEO_LOGIN")
-DFS_PASSWORD = os.environ.get("DATAFORSEO_PASSWORD")
-DFS_API_URL  = "https://api.dataforseo.com/v3/keywords_data/google_ads/keywords_for_keywords/live"
-
 batch_size  = int(os.environ.get("BATCH_SIZE", 50))
 start_index = int(os.environ.get("START_INDEX", 0))
-
-MIN_VOLUME       = 100
-MAX_COMPETITION  = 80
-MAX_RESULTS_KEPT = 50
-
-GENERIC = {
-    "recipe", "food", "dinner", "recipes", "easy", "healthy",
-    "cooking", "make", "best", "how to", "homemade", "simple", "quick"
-}
 
 # ── PROMPTS ───────────────────────────────────────────────────────────────────
 
@@ -96,6 +79,21 @@ Return ONLY valid JSON. No markdown. No backticks. No explanation.
 
 CONTENT_PROMPT = """You are a food writer. Real person. You cook, you fail sometimes, you figure it out. You write like you're texting a friend who asked how to make something.
 
+── WHY AI GETS DETECTED — READ THIS FIRST ───────────────────────────────────
+
+GPTZero and similar tools measure two things: PERPLEXITY and BURSTINESS.
+
+PERPLEXITY = how unpredictable each word is. AI picks the most probable next word every time. That's what gets flagged.
+Fix: use unexpected word choices. Not weird words — just not the obvious ones.
+"The garlic goes soft" → too predictable.
+"Garlic goes kind of slack" → less predictable. Same meaning.
+"It smells done before it looks done" → high perplexity. Nobody writes that.
+
+BURSTINESS = how much sentence length varies. AI writes in uniform waves. Humans spike randomly.
+Fix: violently mix lengths. One 31-word sentence followed by "Done." followed by a 4-word fragment. Then a long one again. No rhythm at all.
+
+These two fixes matter MORE than any stylistic rule below.
+
 ── UNDETECTABLE AI RULES ────────────────────────────────────────────────────
 
 These rules are NON-NEGOTIABLE. If the text sounds like AI wrote it, it failed.
@@ -114,46 +112,105 @@ BAD (AI): "Red onions are sweeter and the color stays vibrant."
 GOOD (human): "Red onions. Sweeter. They keep their color too."
 
 Sentence rhythm — be brutal:
-- Minimum 30% of sentences must be under 6 words.
-- Mix in sentences of 20+ words that meander before landing.
-- Then 3-4 word sentences again. No pattern. Ever.
-- Fragments are fine. "Works fine." "Not worth it." "Every time."
-- Start sentences with verbs constantly. "Cut thin." "Add more." "Watch the heat." "Stir once."
+- Minimum 35% of sentences must be under 6 words.
+- Mix in sentences of 25+ words that meander and almost lose the thread before landing somewhere useful.
+- Then 2-3 word sentences. Hard stop.
+- No pattern. Ever. Not even a loose one.
+- Fragments everywhere. "Works fine." "Not worth it." "Every time." "Usually."
+- Start sentences with verbs constantly. "Cut thin." "Add more." "Watch the heat." "Stir once." "Taste it."
+- Occasionally start with a number. "Forty minutes, not thirty." "Two cloves. Maybe three."
 
-What kills AI detection:
-- Incomplete thoughts. Say half a thing. Move on.
-- Non-sequiturs. Talk about the onions, then something about your knife, then back.
+What kills AI detection — use all of these:
+- Incomplete thoughts. Say half a thing. Move on to something else.
+- Non-sequiturs. Talk about the onions, then something about your knife, then back to the onions.
 - Opinions without justification. "White vinegar is too sharp. Just is."
-- Contradictions that are real. "Should take 30 minutes. Mine usually takes 45."
+- Real contradictions. "Should take 30 minutes. Mine usually takes 45."
 - Self-corrections mid-sentence. "Add the garlic—actually, wait until the onions soften first."
-- Casual repetition. "Stir it. Stir it again. You'll feel when it's right."
+- Casual repetition that sounds intentional. "Stir it. Stir it again. You'll feel when it's right."
+- Trailing off. "You could use butter, but—"
+- Starting a new thought mid-paragraph with no bridge.
+
+HIGH-PERPLEXITY WORD SWAPS — force these throughout:
+Instead of "golden brown" → "the color of old wood" or "that specific tan"
+Instead of "crispy" → "crunchy in a way that holds" or "snaps when you bite"
+Instead of "tender" → "gives when you push it" or "soft all the way through"
+Instead of "flavorful" → "has something going on" or "tastes like it sat overnight"
+Instead of "coat" → "cover loosely" or "barely touch"
+Instead of "combine" → "mix until it looks right" or "stir until you can't see the—"
+Instead of "heat" → "get it hot" or "let it go for a minute"
+Instead of "season" → "salt it now" or "taste and fix it"
 
 Vocabulary — ruthless simplicity:
 - A 12-year-old must understand every word.
-- Never: wonderful, delightful, amazing, perfect, great, fantastic, delicious, incredible, beautiful, vibrant, complex, nuanced, elevate, enhance, ensure, utilize.
-- Never start with: "This dish", "This recipe", "This meal", "The key to".
+- Never: wonderful, delightful, amazing, perfect, great, fantastic, delicious, incredible, beautiful, vibrant, complex, nuanced, elevate, enhance, ensure, utilize, caramelize (use "goes brown and sweet").
+- Never start with: "This dish", "This recipe", "This meal", "The key to", "One of the best".
 - No "which" clauses. No "that" clauses when avoidable. Cut them.
+- No transitional phrases: "Additionally", "Furthermore", "Moreover", "In addition", "As a result".
 
-Human signals — pick 3-4 per piece, use sparingly:
+Human signals — use 4-5 per piece, spread out:
 - Past mistakes stated flatly. "Tried it once with white vinegar. Too sharp."
 - Strong opinions without explanation. "White onion doesn't work here."
 - Specific numbers from experience. "Takes me 40 minutes, not 30."
 - Uncertainty that's real. "Not sure why kosher salt works better here. It just does."
 - Self-interruption. "Pour the brine over—not all of it, maybe three quarters."
+- Memory that's incomplete. "Think I got this from somewhere. Doesn't matter."
 
 Structure rules — no exceptions:
 - No "First", "Then", "Next", "Finally", "In conclusion", "Overall", "Additionally".
-- No smooth transitions between paragraphs. Just stop. Start the next thing.
-- Paragraphs: 1 line or 8 lines. Avoid 3-4 line paragraphs — too regular.
+- No smooth transitions between paragraphs. Just stop. Start the next thing cold.
+- Paragraphs: 1 line OR 7+ lines. Never 3-4 lines — too regular, too AI.
 - Never ask the reader questions. Never.
 - No calls to action.
-- Start the intro mid-thought. Not with a setup sentence.
+- Start the intro mid-thought or mid-action. Not with a setup sentence. Not with context.
+
+── INTRO — SPECIFIC RULES ───────────────────────────────────────────────────
+
+The intro is where GPTZero hits hardest. Extra rules here:
+
+First sentence MUST be one of these patterns:
+- Start mid-action: "Cut the onions first—" or "Three garlic cloves." or "Salt goes in twice."
+- Start with a sensory detail: "Smells done before it looks done." or "The pan should be hissing."
+- Start with a number: "Forty-five minutes total." or "Two ingredients you already have."
+- Start with a contradiction: "Looks complicated. Isn't."
+
+Absolutely forbidden in the intro:
+- Any sentence that sets up the recipe ("Today we're making...")
+- Any sentence that explains why this recipe exists
+- Any sentence starting with "I" as the first word
+- Any sentence with "you'll love" or "you won't believe"
+- Any smooth, welcoming, onboarding tone
+
+The story goes HERE — woven in, not announced:
+"Had three pounds of cucumbers and no plan. This happened." ← good
+"I remember making this for the first time and..." ← banned
+
+── WHY YOU'LL LOVE THIS — SPECIFIC RULES ────────────────────────────────────
+
+This section gets detected because AI writes parallel bullet-style reasons with identical structure.
+BREAK the structure deliberately.
+
+Rules:
+- Each reason = different length. One is 4 words. One is 20 words. One is a fragment.
+- No two reasons start with the same grammatical structure.
+- At least one reason is slightly negative or hedged. "Cleanup isn't nothing, but it's fast."
+- At least one reason is oddly specific. "Works cold the next day, maybe better."
+- Each reason MUST reflect a tag from the recipe — no generic praise.
+- Never: "You'll love how...", "Perfect for...", "Great for..."
+
+BAD (AI parallel structure):
+"Quick to make. Easy to customize. Works for any occasion."
+
+GOOD (broken structure):
+"Takes 15 minutes if you move fast.
+Works as a side for literally anything — tried it with fish, with eggs, with nothing.
+No cleanup. One bowl.
+Leftovers taste better. Not sure why."
 
 ── STORYTELLING ─────────────────────────────────────────────────────────────
 
 Each recipe has a story. Not fake. Not sentimental. Just real.
 One specific moment. Brief. 2-3 sentences max.
-Weave it into the intro naturally.
+Weave it into the intro naturally — don't announce it.
 
 Examples of good storytelling:
 "Had three pounds of cucumbers and no plan. This happened."
@@ -188,23 +245,19 @@ Tags as intent modifiers — use them to shape the TONE and ANGLE of the content
 
 Tag placement rules:
 - ## Why You'll Love This → TAGS SHINE HERE. Each reason must reflect a tag angle directly.
-  If tag is "easy" → one reason about ease.
-  If tag is "summer" → one reason about seasonal fit.
-  If tag is "healthy" → one reason about nutrition or lightness.
-  If tag is "side dish" → one reason about versatility or pairing.
-  Make every tag count in this section.
 - Body sections → weave tag context into 1-2 sentences per section naturally
 - FAQ → at least 1 question that addresses a tag angle
 
 ── INGREDIENTS REWRITE ──────────────────────────────────────────────────────
 
 Rewrite the ingredients as flowing prose — NOT a list.
-Apply the SAME style as the FAQ answers — short, direct, irregular.
+Apply the SAME style as the FAQ answers — short, direct, irregular, high-perplexity.
 
 Examples of good ingredient writing:
 "Russets. Not Yukon Gold. The skin gets actually crispy."
 "Avocado oil. Olive oil burns too fast. Not worth it."
-"Kosher salt. Coarser. Stays on the food instead of disappearing."
+"Kosher salt. Coarser. Stays on the food instead of disappearing into it."
+"A tablespoon of butter at the end. Not during. After."
 
 Rules:
 - Group by component (sauce, main, garnish) when relevant.
@@ -212,25 +265,30 @@ Rules:
 - Substitutions stated bluntly. "Greek yogurt works. So does nothing."
 - Specific numbers when relevant. "A tablespoon. That's enough."
 - No smooth explanations. State the fact. Move on.
+- Use high-perplexity word choices — not the obvious description.
 - 150-250 words total.
 
 ── INSTRUCTIONS REWRITE ─────────────────────────────────────────────────────
 
 Rewrite the instructions as narrative prose — NOT numbered steps.
-Apply the SAME style as the FAQ answers — abrupt, sensory, honest.
+Apply the SAME anti-detection rules as everywhere else — abrupt, sensory, honest, unpredictable.
 
 Examples of good instruction writing:
 "Set it to 400. Let it run empty for 3 minutes. Basket heat matters more than air temp."
 "Lay them flat. Some overlap is fine. Stacked means steamed. Don't stack."
 "Listen for the crackle. That's when you flip. Not a timer — a sound."
 "Too dark? Lower temp next time. Too pale? Add a minute. It's not complicated."
+"The sauce goes in last — after the heat's off, or it breaks."
 
 Rules:
 - Each major phase = its own paragraph.
 - Tell what to watch for — sound, color, smell, texture. Not just what to do.
+- Use sensory language that's specific and slightly unexpected. Not "golden brown" — "the color of dark honey."
 - State what goes wrong in one line. No lectures.
 - Self-corrections welcome. "Add the garlic now — actually, wait until it stops sizzling."
-- Sentences can be 3 words or 25. Mix constantly. No pattern.
+- Sentences can be 3 words or 30. Mix violently. No pattern at all.
+- At least one instruction paragraph that's a single sentence.
+- At least one that runs 6+ sentences with no clear structure.
 - 300-500 words total.
 
 ── OUTPUT FORMAT ─────────────────────────────────────────────────────────────
@@ -243,18 +301,10 @@ Use **bold** for FAQ questions only.
 
 Structure:
 
-[intro paragraph — no title]
-Apply the FAQ style here too. Abrupt. Sensory. Direct.
-Mix 3-word sentences with longer ones. Story woven in. Primary keyword natural.
-No setup sentence. Drop straight into the dish.
+[intro paragraph — starts mid-action or mid-thought, no setup]
 
 ## Why You'll Love This
-3-4 reasons. Each one reflects a tag. Each one = 1-2 sentences max.
-Same style: short, direct, no smooth transitions between reasons.
-"Takes 15 minutes. That's it."
-"Works as a side for literally anything."
-"No cleanup. One bowl."
-Not: "You will absolutely love how easy this recipe is to prepare."
+[broken structure — no parallel reasons, varying lengths, at least one hedged]
 
 ## [Custom title using a keyword — ingredients angle]
 [Ingredients rewritten as prose]
@@ -276,51 +326,50 @@ Answer here.
 
 FAQ TOPIC RULE — ABSOLUTE:
 Every single FAQ question must be answerable using ONLY the ingredients and instructions of THIS recipe.
-If answering the question requires knowledge of another recipe (hash browns, burgers, pizza, corn dogs, chips...) → DELETE IT and replace with a question about this recipe.
-Allowed topics: timing, substitutions, storage, texture, doneness cues, equipment, seasoning, serving — all for THIS recipe only.
-Questions must come from the keyword list or from real cooking concerns about this specific dish.
+If answering the question requires knowledge of another recipe → DELETE IT. Replace with a question about this dish.
+Allowed topics: timing, substitutions, storage, texture, doneness cues, equipment, seasoning, serving.
 Zero tolerance for off-topic questions.
 
-FAQ answers must be WILDLY irregular:
-- Some answers = 1 sentence. "Just use less. That's it."
-- Some answers = 4-5 sentences with a tangent
-- Some answers start mid-thought. "Depends on your fridge."
-- End abruptly sometimes. "Haven't tried it. Probably fine."
-- Dashes — like this — sometimes. Fragments. Short stops.
+FAQ answers — MAXIMUM irregularity, maximum perplexity:
+- Some answers = 1 sentence. Period. Done.
+- Some answers = 5 sentences with a tangent that barely connects
+- Some answers start mid-thought. "Depends on your fridge." "Probably, yeah."
+- End abruptly. "Haven't tried it. Might work."
+- Dashes — like this — sometimes. Fragments. Hard stops.
 - At least one answer with real uncertainty. "Not totally sure why but it works."
-- At least one strong opinion. "Don't bother with dried. Tastes like nothing."
-- Never start two consecutive answers with the same word
-- Never use: "Absolutely", "Certainly", "Of course", "Great question", "Sure"
+- At least one strong opinion with zero explanation. "Don't bother with dried. Tastes like nothing."
+- At least one answer that contradicts common advice and doesn't explain why.
+- Never start two consecutive answers with the same word.
+- Never use: "Absolutely", "Certainly", "Of course", "Great question", "Sure", "Definitely"
+- Use unexpected phrasing: "goes soft" not "becomes tender", "falls apart" not "is fork-tender"
 
 ── GLOBAL IRREGULARITY RULES ────────────────────────────────────────────────
 
-These apply to the ENTIRE body, not just FAQ:
-- Intentional run-ons sometimes. A sentence that just keeps going because that's how you talk when you're actually thinking through something out loud.
-- Intentional incomplete thoughts. Like this.
-- Numbers written as digits sometimes, words other times. "3 minutes" then "four batches"
-- Typo-adjacent casualness — not actual typos, but informal contractions, dropped words. "Comes out fine either way."
-- At least one paragraph that's just 2 sentences. Isolated. Makes a point and stops.
-- At least one paragraph over 6 sentences with no clear structure
-- One moment of backtracking. Like: Actually — skip that. Do it the other way.
+Apply to the ENTIRE body:
+- Intentional run-ons sometimes — a sentence that keeps going because that's how you think when you're actually in the middle of cooking something and you don't stop to edit yourself.
+- Intentional incomplete thoughts. Like this one.
+- Numbers as digits sometimes, words other times. "3 minutes" then "four batches."
+- Dropped words that read as casual, not sloppy. "Comes out fine either way." "Works cold too."
+- At least one paragraph that's exactly 2 sentences. Isolated. Makes a point and ends.
+- At least one paragraph over 6 sentences with no clear structure, just observations stacking.
+- One moment of backtracking somewhere in the body. "Actually — do it the other way."
+- At least one sentence that trails off with a dash. "You could add more garlic, but—"
 
-PUNCHLINE RULE — IMPORTANT:
-Max 1-2 punchy one-liners per piece. Not every paragraph.
-"Dried corn tastes like sadness" is fine once. Five times = AI trying too hard.
-The writing must feel natural and useful, not like a collection of memorable quotes.
-Prioritize: sensory, practical, honest. Not witty."""
+PUNCHLINE RULE:
+Max 1-2 punchy one-liners per piece. Not every paragraph. Not every section.
+The writing must feel useful and real, not like a collection of memorable lines.
+Prioritize: sensory, practical, honest. Wit is a side effect, not a goal."""
 
 
 # ── YAML HELPERS ──────────────────────────────────────────────────────────────
 
 def extract_yaml_block(content):
-    """Ancien format — retourne (full_block, yaml_content)."""
     match = re.match(r'^---\n(.*?)\n---', content, re.DOTALL)
     if match:
         return match.group(0), match.group(1)
     return None, None
 
 def extract_yaml_and_body(content):
-    """Retourne (yaml_content, body) — sépare YAML et body markdown."""
     match = re.match(r'^---\n(.*?)\n---\n?(.*)', content, re.DOTALL)
     if match:
         return match.group(1), match.group(2).strip()
@@ -356,20 +405,6 @@ def replace_field(yaml_content, field, new_value):
         result = yaml_content.rstrip() + f'\n{new_line}'
     return result
 
-def replace_list_field(yaml_content, field, items):
-    def esc(s):
-        return s.replace('\\', '\\\\').replace('"', '\\"')
-    items_yaml = f"{field}:\n" + "\n".join(f'- "{esc(item)}"' for item in items)
-    result, count = re.subn(
-        rf'^{field}:\n(?:[ \t]*- .*\n)*',
-        items_yaml + "\n",
-        yaml_content,
-        flags=re.MULTILINE
-    )
-    if count == 0:
-        result = yaml_content.rstrip() + f'\n{items_yaml}'
-    return result
-
 def replace_keywords_field(yaml_content, keywords):
     def esc(s):
         return s.replace('\\', '\\\\').replace('"', '\\"')
@@ -391,18 +426,16 @@ def replace_keywords_field(yaml_content, keywords):
     return result
 
 def get_unused_keywords(yaml_content, all_keywords):
-    """Keywords pas encore placés dans les champs SEO."""
     seo_text = " ".join([
         get_field(yaml_content, "title"),
         get_field(yaml_content, "description"),
         get_field(yaml_content, "metaDescription"),
         get_field(yaml_content, "ogDescription"),
     ]).lower()
-
     return [kw for kw in all_keywords if kw["keyword"].lower() not in seo_text]
 
 
-# ── PIPELINE HELPERS ──────────────────────────────────────────────────────────
+# ── STATE HELPERS ─────────────────────────────────────────────────────────────
 
 def load_skip_list():
     skip_file = Path("seo_skip.txt")
@@ -418,18 +451,6 @@ def load_state(slug):
     with open(path, "r", encoding="utf-8") as f:
         return json.load(f)
 
-def save_state(slug, title, seeds, keywords):
-    Path("keyword_data").mkdir(exist_ok=True)
-    with open(f"keyword_data/{slug}.json", "w", encoding="utf-8") as f:
-        json.dump({
-            "slug": slug,
-            "title": title,
-            "seed_keywords": seeds,
-            "keywords": keywords,
-            "seo_done": False,
-            "content_done": False,
-        }, f, indent=2, ensure_ascii=False)
-
 def update_state(slug, **kwargs):
     path = Path(f"keyword_data/{slug}.json")
     with open(path, "r", encoding="utf-8") as f:
@@ -437,131 +458,6 @@ def update_state(slug, **kwargs):
     data.update(kwargs)
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
-
-def save_low_keyword(slug, title):
-    with open("low_keyword_recipes.txt", "a", encoding="utf-8") as f:
-        f.write(f"{slug} | {title}\n")
-
-
-# ── STEP 1 : FETCH KEYWORDS ───────────────────────────────────────────────────
-
-def get_date_range():
-    today      = datetime.today()
-    first_this = today.replace(day=1)
-    last_month = (first_this - timedelta(days=1)).replace(day=1) - timedelta(days=1)
-    return (
-        last_month.replace(day=1).strftime("%Y-%m-%d"),
-        last_month.strftime("%Y-%m-%d")
-    )
-
-def get_seeds(client, title, description, tags):
-    msg = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=120,
-        messages=[{
-            "role": "user",
-            "content": (
-                f"Recipe: {title}\n"
-                f"Description: {description[:300]}\n"
-                f"Tags: {tags}\n\n"
-                f"Generate exactly 5 SEO keyword phrases to use as DataForSEO seeds.\n"
-                f"CRITICAL RULES:\n"
-                f"- Seeds must be BROAD PARENT TERMS, not the exact recipe name\n"
-                f"- Think: what would someone search to find this TYPE of dish, not this exact recipe\n"
-                f"- At least 2 seeds must be broad category terms with high search volume\n"
-                f"- At least 2 seeds must be ingredient+method combos\n"
-                f"- 1 seed can be close to the recipe name\n"
-                f"- Lowercase only. One per line. No numbering. No bullets.\n"
-                f"- 2-4 words max per seed\n"
-                f"- No generic words: recipe, easy, healthy, best, quick, simple\n\n"
-                f"Example for 'Curried Chicken Salad Toasts':\n"
-                f"chicken salad\n"
-                f"chicken sandwich\n"
-                f"curried chicken salad\n"
-                f"cold chicken lunch\n"
-                f"chicken toast"
-            )
-        }]
-    )
-    lines = msg.content[0].text.strip().split("\n")
-    seeds = []
-    for line in lines:
-        line = line.strip().lstrip("-•123456789. ").strip()
-        if line and len(line) > 3:
-            seeds.append(line)
-    return seeds[:5]
-
-def generate_keywords_from_title(client, title, yaml_content):
-    """Génère 5-8 keywords logiques depuis le titre + ingrédients — zéro DFS."""
-    ingredients_text = format_ingredients_for_prompt(yaml_content)
-    msg = client.messages.create(
-        model="claude-haiku-4-5-20251001",
-        max_tokens=150,
-        messages=[{
-            "role": "user",
-            "content": (
-                f"Recipe: {title}\n"
-                f"Ingredients: {ingredients_text[:300]}\n\n"
-                f"Generate 6-8 SEO keyword phrases someone would search to find this recipe.\n"
-                f"Rules:\n"
-                f"- Mix broad terms and specific terms\n"
-                f"- Include main ingredient + cooking method combos\n"
-                f"- Lowercase only. One per line. No numbering.\n"
-                f"- No generic words: recipe, easy, healthy, best, quick, simple"
-            )
-        }]
-    )
-    lines = msg.content[0].text.strip().split("\n")
-    keywords = []
-    for line in lines:
-        line = line.strip().lstrip("-•123456789. ").strip()
-        if line and len(line) > 3:
-            keywords.append({"keyword": line, "volume": 0, "competition": 0})
-    return {"all": keywords[:8]}
-
-
-def fetch_dfs_keywords(seeds):
-    date_from, date_to = get_date_range()
-    payload = [{
-        "keywords": seeds,
-        "language_code": "en",
-        "sort_by": "search_volume",
-        "date_from": date_from,
-        "date_to": date_to
-    }]
-    credentials = base64.b64encode(f"{DFS_LOGIN}:{DFS_PASSWORD}".encode()).decode()
-    headers = {
-        "Authorization": f"Basic {credentials}",
-        "Content-Type": "application/json"
-    }
-    try:
-        response = requests.post(DFS_API_URL, headers=headers, data=json.dumps(payload), timeout=30)
-        data = response.json()
-
-        if data.get("status_code") != 20000:
-            print(f"    API error: {data.get('status_message')}")
-            return None
-
-        task = data["tasks"][0]
-        if task.get("status_code") != 20000:
-            print(f"    Task error: {task.get('status_message')}")
-            return None
-
-        all_kw = []
-        for item in (task.get("result") or []):
-            kw   = item.get("keyword", "").strip()
-            vol  = item.get("search_volume") or 0
-            comp = item.get("competition_index") or 0
-            if vol < MIN_VOLUME or comp > MAX_COMPETITION or kw.lower() in GENERIC:
-                continue
-            all_kw.append({"keyword": kw, "volume": vol, "competition": comp})
-
-        all_kw.sort(key=lambda x: x["volume"], reverse=True)
-        return {"all": all_kw[:MAX_RESULTS_KEPT]}
-
-    except Exception as e:
-        print(f"    Exception: {e}")
-        return None
 
 
 # ── STEP 2 : SEO OPTIMIZATION ─────────────────────────────────────────────────
@@ -571,6 +467,65 @@ def format_kw_for_prompt(kw_data):
         f"{kw['keyword']} (volume: {kw['volume']}/mo, competition: {kw['competition']})"
         for kw in kw_data.get("all", [])
     )
+
+def format_ingredients_for_prompt(yaml_content):
+    items = get_list_field(yaml_content, "ingredients")
+    lines = []
+    for item in items:
+        if "===" in item:
+            section = re.sub(r'===(.+)===', r'\1', item).strip()
+            lines.append(f"\n[{section}]")
+        else:
+            lines.append(f"- {item}")
+    return "\n".join(lines)
+
+def format_instructions_for_prompt(yaml_content):
+    items = get_list_field(yaml_content, "instructions")
+    lines = []
+    for item in items:
+        if "===" in item:
+            section = re.sub(r'===(.+)===', r'\1', item).strip()
+            lines.append(f"\n[{section}]")
+        else:
+            lines.append(item)
+    return "\n".join(lines)
+
+def generate_keywords_from_title(client, title, tags, yaml_content):
+    ingredients_text  = format_ingredients_for_prompt(yaml_content)
+    instructions_text = format_instructions_for_prompt(yaml_content)
+    description       = get_field(yaml_content, "description")
+    prep_time         = get_field(yaml_content, "prepTime")
+    cook_time         = get_field(yaml_content, "cookTime")
+    msg = client.messages.create(
+        model="claude-haiku-4-5-20251001",
+        max_tokens=250,
+        messages=[{
+            "role": "user",
+            "content": (
+                f"Recipe: {title}\n"
+                f"Description: {description[:200]}\n"
+                f"Tags: {tags}\n"
+                f"Prep: {prep_time} | Cook: {cook_time}\n"
+                f"Ingredients: {ingredients_text[:400]}\n"
+                f"Instructions: {instructions_text[:300]}\n\n"
+                f"Generate 8-10 SEO keywords for this recipe.\n"
+                f"Mix these types:\n"
+                f"- 2-3 broad parent terms (high volume, e.g. 'chicken pasta')\n"
+                f"- 2-3 intent modifiers from the tags (e.g. 'easy chicken pasta', 'healthy chicken pasta')\n"
+                f"- 3-4 long tail using real ingredients + method (e.g. 'chicken pasta with cream sauce and mushrooms')\n"
+                f"Lowercase only. One per line. No numbering.\n"
+                f"No generic standalone words: recipe, easy, healthy, best, quick, simple"
+            )
+        }]
+    )
+    lines = msg.content[0].text.strip().split("\n")
+    keywords = []
+    for line in lines:
+        line = line.strip().lstrip("-•123456789. ").strip()
+        if line and len(line) > 3:
+            keywords.append({"keyword": line, "volume": 0, "competition": 0})
+    return {"all": keywords[:10]}
+
 
 def optimize_seo(client, title, description, kw_data, yaml_content=""):
     kw_block = format_kw_for_prompt(kw_data)
@@ -598,47 +553,21 @@ def optimize_seo(client, title, description, kw_data, yaml_content=""):
 
 # ── STEP 3 : CONTENT REWRITE ──────────────────────────────────────────────────
 
-def format_ingredients_for_prompt(yaml_content):
-    items = get_list_field(yaml_content, "ingredients")
-    lines = []
-    for item in items:
-        if "===" in item:
-            section = re.sub(r'===(.+)===', r'\1', item).strip()
-            lines.append(f"\n[{section}]")
-        else:
-            lines.append(f"- {item}")
-    return "\n".join(lines)
-
-def format_instructions_for_prompt(yaml_content):
-    items = get_list_field(yaml_content, "instructions")
-    lines = []
-    for item in items:
-        if "===" in item:
-            section = re.sub(r'===(.+)===', r'\1', item).strip()
-            lines.append(f"\n[{section}]")
-        else:
-            lines.append(item)
-    return "\n".join(lines)
-
 def generate_body(client, title, yaml_content, unused_keywords):
-    """Génère le body markdown complet."""
     kw_list           = "\n".join(f"{kw['keyword']} ({kw['volume']}/mo)" for kw in unused_keywords[:20])
     ingredients_text  = format_ingredients_for_prompt(yaml_content)
     instructions_text = format_instructions_for_prompt(yaml_content)
     tags_list         = get_list_field(yaml_content, "tags")
     tags_str          = ", ".join(tags_list)
 
-    # Récupère les temps exacts du YAML
     prep_time  = get_field(yaml_content, "prepTime")
     cook_time  = get_field(yaml_content, "cookTime")
     total_time = get_field(yaml_content, "totalTime")
 
     def fmt_time(t):
-        """Convertit PT20M en '20 min', PT1H30M en '1h 30 min' etc."""
-        import re as _re
         t = t.strip()
-        h = _re.search(r'(\d+)H', t)
-        m = _re.search(r'(\d+)M', t)
+        h = re.search(r'(\d+)H', t)
+        m = re.search(r'(\d+)M', t)
         hours = int(h.group(1)) if h else 0
         mins  = int(m.group(1)) if m else 0
         if hours and mins:
@@ -676,9 +605,7 @@ def generate_body(client, title, yaml_content, unused_keywords):
 
     body = msg.content[0].text.strip()
 
-    # S'assure que le shortcode est présent
     if "{{< recipe-card >}}" not in body:
-        # L'insérer avant le FAQ si possible
         if "## Frequently Asked Questions" in body:
             body = body.replace(
                 "## Frequently Asked Questions",
@@ -693,8 +620,6 @@ def generate_body(client, title, yaml_content, unused_keywords):
 # ── MAIN ──────────────────────────────────────────────────────────────────────
 
 def main():
-    if not DFS_LOGIN or not DFS_PASSWORD:
-        raise ValueError("DATAFORSEO_LOGIN and DATAFORSEO_PASSWORD are required")
     api_key = os.environ.get("ANTHROPIC_API_KEY")
     if not api_key:
         raise ValueError("ANTHROPIC_API_KEY is required")
@@ -708,12 +633,9 @@ def main():
 
     print(f"Total     : {total}")
     print(f"Batch     : {len(batch)} (index {start_index} → {start_index + len(batch) - 1})")
-    print(f"Skip list : {len(skip_list)}")
+    print(f"Skip list : {len(skip_list)}\n")
 
-    date_from, date_to = get_date_range()
-    print(f"Date range: {date_from} → {date_to}\n")
-
-    stats = {"done": 0, "skipped": 0, "errors": 0, "low_kw": 0}
+    stats = {"done": 0, "skipped": 0, "errors": 0, "no_keywords": 0}
 
     for i, filepath in enumerate(batch):
         slug = Path(filepath).stem
@@ -724,7 +646,8 @@ def main():
             stats["skipped"] += 1
             continue
 
-        # Charger le fichier MD
+        state = load_state(slug)
+
         with open(filepath, "r", encoding="utf-8") as f:
             content = f.read()
 
@@ -743,110 +666,66 @@ def main():
             stats["skipped"] += 1
             continue
 
-        print(f"{label} {title}")
-
-        state = load_state(slug)
-
-        # ── STEP 1 : keywords ────────────────────────────────────────────────
-        state    = load_state(slug)
-        kw_valid = state and len(state.get("keywords", {}).get("all", [])) >= 3
-
-        if False:
-            pass
-
-        else:
-            if state and len(state.get("keywords", {}).get("all", [])) > 0:
-                print(f"  keywords : only {len(state['keywords']['all'])} found — refetching...")
-            else:
-                print(f"  keywords : fetching...")
-
-            seeds = get_seeds(client, title, description, tags)
-            print(f"  seeds    : {seeds}")
-
-            if not seeds:
-                print(f"  ERROR    : no seeds")
-                stats["errors"] += 1
-                continue
-
-            kw_data = fetch_dfs_keywords(seeds)
-            if kw_data is None:
-                print(f"  ERROR    : DFS API failed")
-                stats["errors"] += 1
-                continue
-
-            save_state(slug, title, seeds, kw_data)
-
-            kw_count = len(kw_data["all"])
-            if kw_count == 0:
-                # Zero DFS → Haiku génère tout
-                print(f"  LOW SEO  : 0 from DFS — generating with Haiku")
-                kw_data = generate_keywords_from_title(client, title, yaml_content)
-                save_state(slug, title, seeds, kw_data)
-                save_low_keyword(slug, title)
-                stats["low_kw"] += 1
-            elif kw_count < 3:
-                # 1-2 DFS → garde + complète avec Haiku
-                print(f"  LOW SEO  : only {kw_count} from DFS — completing with Haiku")
-                haiku_kw = generate_keywords_from_title(client, title, yaml_content)
-                # Combine DFS + Haiku, DFS en premier
-                combined = kw_data["all"] + [
-                    k for k in haiku_kw["all"]
-                    if k["keyword"] not in [x["keyword"] for x in kw_data["all"]]
-                ]
-                kw_data = {"all": combined[:8]}
-                save_state(slug, title, seeds, kw_data)
-                save_low_keyword(slug, title)
-                stats["low_kw"] += 1
-            else:
-                top = kw_data["all"][0]
-                print(f"  keywords : {kw_count} | top: '{top['keyword']}' ({top['volume']}/mo)")
-                time.sleep(4)
-
-        # Recharge state après fetch
-        state = load_state(slug) or {}
-
-        # ── STEP 2 : SEO ─────────────────────────────────────────────────────
-        if state.get("seo_done"):
-            print(f"  SEO      : already done")
-        else:
-            print(f"  SEO      : optimizing...")
-            try:
-                seo = optimize_seo(client, title, description, kw_data, yaml_content)
-
-                new_yaml = yaml_content
-                new_yaml = replace_field(new_yaml, "title",           seo["title"])
-                new_yaml = replace_field(new_yaml, "description",     seo["description"])
-                new_yaml = replace_field(new_yaml, "metaDescription", seo["metaDescription"])
-                new_yaml = replace_field(new_yaml, "ogDescription",   seo["ogDescription"])
-                new_yaml = replace_field(new_yaml, "focusKeyphrase",  seo["focusKeyphrase"])
-                new_yaml = replace_keywords_field(new_yaml,           seo["keywords"])
-
-                new_content = content.replace(full_block, f"---\n{new_yaml}\n---")
-                with open(filepath, "w", encoding="utf-8") as f:
-                    f.write(new_content)
-
-                # Recharger pour step 3
-                yaml_content = new_yaml
-                content      = new_content
-                full_block   = f"---\n{new_yaml}\n---"
-
-                update_state(slug, seo_done=True)
-                print(f"  SEO      : OK → focus: '{seo['focusKeyphrase']}' | {len(seo['keywords'])} keywords")
-
-            except Exception as e:
-                print(f"  SEO ERROR: {e}")
-                stats["errors"] += 1
-                continue
-
-        # ── STEP 3 : body markdown ───────────────────────────────────────────
-        if state.get("content_done"):
-            print(f"  content  : already done")
-            stats["done"] += 1
+        # Skip si body markdown existe déjà — vérification en premier
+        _, existing_body = extract_yaml_and_body(content)
+        if existing_body and len(existing_body.strip()) > 200:
+            print(f"{label} SKIP (body exists): {slug}")
+            if state:
+                try:
+                    update_state(slug, content_done=True)
+                except:
+                    pass
+            stats["skipped"] += 1
             continue
 
+        print(f"{label} {title}")
+
+        # Pas de keywords → générer avec Haiku en mémoire uniquement
+        if not state or len(state.get("keywords", {}).get("all", [])) == 0:
+            print(f"  keywords : no JSON — generating with Haiku...")
+            kw_data = generate_keywords_from_title(client, title, tags, yaml_content)
+            stats["no_keywords"] += 1
+        else:
+            kw_data = state["keywords"]
+
+        # Titre = top keyword (le plus cherché), pas de twist
+        top_kw = kw_data["all"][0]["keyword"] if kw_data.get("all") else title
+        top_kw_title = top_kw.title()
+        print(f"  focus    : '{top_kw_title}'")
+
+        # ── STEP 2 : SEO ─────────────────────────────────────────────────────
+        print(f"  SEO      : optimizing...")
+        try:
+            seo = optimize_seo(client, top_kw_title, description, kw_data, yaml_content)
+
+            new_yaml = yaml_content
+            new_yaml = replace_field(new_yaml, "title",           seo["title"])
+            new_yaml = replace_field(new_yaml, "description",     seo["description"])
+            new_yaml = replace_field(new_yaml, "metaDescription", seo["metaDescription"])
+            new_yaml = replace_field(new_yaml, "ogDescription",   seo["ogDescription"])
+            new_yaml = replace_field(new_yaml, "focusKeyphrase",  seo["focusKeyphrase"])
+            new_yaml = replace_keywords_field(new_yaml,           seo["keywords"])
+
+            new_content = content.replace(full_block, f"---\n{new_yaml}\n---")
+            with open(filepath, "w", encoding="utf-8") as f:
+                f.write(new_content)
+
+            yaml_content = new_yaml
+            content      = new_content
+            full_block   = f"---\n{new_yaml}\n---"
+
+            if state:
+                update_state(slug, seo_done=True)
+            print(f"  SEO      : OK → focus: '{seo['focusKeyphrase']}' | {len(seo['keywords'])} keywords")
+
+        except Exception as e:
+            print(f"  SEO ERROR: {e}")
+            stats["errors"] += 1
+            continue
+
+        # ── STEP 3 : body markdown ───────────────────────────────────────────
         print(f"  content  : generating body...")
         try:
-            # Recharger le fichier pour avoir le YAML SEO à jour
             with open(filepath, "r", encoding="utf-8") as f:
                 content = f.read()
             yaml_content, _ = extract_yaml_and_body(content)
@@ -854,15 +733,14 @@ def main():
             unused_kw = get_unused_keywords(yaml_content, kw_data["all"])
             print(f"  unused kw: {len(unused_kw)}/{len(kw_data['all'])}")
 
-            new_body = generate_body(client, title, yaml_content, unused_kw)
+            new_body = generate_body(client, top_kw_title, yaml_content, unused_kw)
 
-            # Reconstruit le fichier : YAML intact + nouveau body
             new_content = f"---\n{yaml_content}\n---\n\n{new_body}\n"
-
             with open(filepath, "w", encoding="utf-8") as f:
                 f.write(new_content)
 
-            update_state(slug, content_done=True)
+            if state:
+                update_state(slug, content_done=True)
 
             word_count = len(new_body.split())
             print(f"  content  : OK → {word_count} words")
@@ -872,15 +750,14 @@ def main():
             print(f"  CONTENT ERROR: {e}")
             stats["errors"] += 1
 
-        time.sleep(3)
-
-
+        # Push après chaque recette — GitHub Actions disque éphémère
+        os.system(f'git add content/recipes/{slug}.md 2>/dev/null; git diff --staged --quiet || git commit -m "process: {slug}"; git push 2>/dev/null')
 
     print(f"\n── DONE ──────────────────────────────────")
-    print(f"Done    : {stats['done']}")
-    print(f"Skipped : {stats['skipped']}")
-    print(f"Errors  : {stats['errors']}")
-    print(f"Low KW  : {stats['low_kw']}")
+    print(f"Done           : {stats['done']}")
+    print(f"Skipped        : {stats['skipped']}")
+    print(f"Errors         : {stats['errors']}")
+    print(f"Haiku keywords : {stats['no_keywords']} (no DFS JSON — keywords generated on the fly)")
 
 if __name__ == "__main__":
     main()
