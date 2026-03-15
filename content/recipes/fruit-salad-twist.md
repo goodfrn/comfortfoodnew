@@ -1,10 +1,10 @@
 ---
-title: "Fruit Salad Twist"
+title: "Açaí Bowl with Strawberries and Pineapple"
 slug: "fruit-salad-twist"
-description: "Fresh mixed berries swapped. Pineapple cubes instead mango. Maple-lime syrup swap. Crisp, refreshing. Quick fridge chill. Bright flavors. No nuts, dairy, eggs, gluten. Easy fruit dessert. Simple prep, no cooking. Cold, sweet, tangy. Great summer. Versatile, adaptable to available fruits. Healthy raw sugar alternative."
-metaDescription: "Fruit Salad Twist a refreshing summer dessert fresh berries pineapple maple syrup lime mint quick prep cool flavors"
-ogDescription: "Fruit Salad Twist fresh berries pineapple maple syrup tangy lime mint a delightful summer treat easy to prepare chilled quick to serve"
-focusKeyphrase: "Fruit Salad Twist"
+description: "Easy açaí bowl recipe with fresh strawberries, raspberries, and pineapple cubes. Topped with maple-lime syrup and mint. No cooking required—chill and serve."
+metaDescription: "Make this açaí bowl with fresh strawberries, raspberries, and pineapple in minutes. Maple-lime syrup adds brightness. Try it tonight."
+ogDescription: "Fresh strawberries, raspberries, and pineapple in a beautiful açaí bowl. Maple-lime syrup makes it shine."
+focusKeyphrase: "açaí bowl"
 date: 2025-07-17
 draft: false
 image: fruit-salad-twist.jpg
@@ -21,9 +21,18 @@ tags:
 - "summer"
 - "no bake"
 keywords:
-- "fruit salad"
-- "maple syrup"
-- "pineapple"
+- "açaí bowl"
+- "fresh fruit salad"
+- "strawberry raspberry bowl"
+- "pineapple fruit salad"
+- "fresh fruit bowl recipe"
+- "mixed berries bowl"
+- "vegan summer dessert"
+- "lime fruit salad"
+- "fresh fruit dessert"
+- "berry bowl recipe"
+- "mint fruit salad"
+- "no cook fruit recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"
@@ -61,3 +70,93 @@ faq:
 - "q: Storage options for leftovers? a: Keep in airtight container. Refrigerate but use quick. Eat within two days for best taste. Fresh fruits lose quality. Monitor for texture changes."
 
 ---
+
+Three pounds of berries and a lime. That's the entire thing. No blending, no cooking, no stress — just toss everything together and let it sit.
+
+## Why You'll Love This Açaí Bowl Recipe
+
+Takes 15 minutes to prep. Seriously. Cold after 20 minutes total.
+
+No actual cooking. Everything's raw. Just fruit, syrup, mint. Works for vegans. Works for gluten-free people. Works for literally anyone who wants something that tastes bright and cold without thinking about it too hard.
+
+Summer's the only time to make this. Berries cost nothing, taste like something. Winter berries taste like sadness.
+
+Cleanup takes longer than prep. One bowl, one spoon, done.
+
+Stores in the fridge if you don't eat it all immediately — which you will.
+
+## What You Need for a Fresh Fruit Salad
+
+Strawberries. The good kind. Hulls off, quartered. About a cup and a half matters more than exact numbers.
+
+Raspberries. Fresh. Don't even rinse them hard or they fall apart. A quarter teaspoon of care goes a long way here. Two cups, ish.
+
+Pineapple. Fresh cubes are better than canned, but canned works. Two cups. The juice adds flavor anyway — that's what people miss.
+
+Maple syrup. Half a cup. Real maple, not the brown sugar thing. Not negotiable.
+
+Lime juice. Fresh squeezed. Two tablespoons. Bottled doesn't have the snap.
+
+Mint. Fresh. A tablespoon chopped fine. Dried tastes like paper. Don't bother.
+
+## How to Make a Fresh Fruit Salad
+
+Rinse the berries. Gentle. Cold water. Drain them good — wet berries dilute everything later.
+
+Quarter the strawberries. Keeps them in pieces instead of dissolving into syrup sludge. Pineapple's already cubed. Raspberries stay whole. Don't smash them.
+
+Throw the fruit in a large bowl. Mix it cold first — the pieces stay separate longer when they're chilled. Sounds stupid but it matters.
+
+## How to Get the Perfect Fruit Salad Texture
+
+Make the syrup separate. Maple syrup and lime juice in a small bowl. Whisk it together until they actually mix — they don't want to at first. Takes maybe 20 seconds.
+
+Pour it over. Not all at once. Do half, toss. Then the rest. Toss again. Gently but thorough. Every piece gets coated. That's what makes it taste good.
+
+Mint goes on top last. Chop it fine. Stir it in light. You want it visible, not pulverized into the juice.
+
+Cover and refrigerate. 55 minutes is the sweet spot. Not 30 — too cold and the flavors haven't merged. Not 90 — berries start breaking down and it gets watery. 55 minutes is oddly specific because that's how long it actually takes.
+
+Serve it cold straight from the fridge. Optional mint leaves on top if you want to look like you tried.
+
+## Fresh Fruit Salad Tips and Common Mistakes
+
+Don't prep it the night before. That's the move with some salads but not this one. Berries release liquid overnight and it goes from fruit salad to berry juice with chunks. Make it the morning you eat it.
+
+Canned pineapple works. Everyone acts like it doesn't but it does. Fresh is better, yeah, but canned in its own juice is basically fine. Don't feel bad.
+
+Lime juice is non-negotiable. Lemon tastes wrong. Orange's too soft. Lime cuts through the sweetness and makes everything taste bright.
+
+Don't mess with the maple syrup ratio. Half a cup sounds like a lot. It's not. Less syrup and it tastes like sad cold fruit. More syrup and it's dessert soup.
+
+Some people add honey instead of maple. Don't. Honey dissolves slower and doesn't distribute right. Maple syrup is thinner and coats faster.
+
+Cold bowl before you start. Warm bowl means your fruit starts leaking liquid immediately. Stick the bowl in the freezer for five minutes while you prep everything.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Açaí Bowls and Fresh Fruit Salad
+
+**Can I use frozen açaí berries instead of fresh fruit?**
+Not really for this. Frozen açaí puree is thicker, different texture. This recipe is specifically fresh berries. Frozen açaí packets work if you want to make an actual açaí bowl — blend it with yogurt, pour it in a bowl, top it with granola. Different thing entirely.
+
+**What's the best fresh fruit cup setup for meal prep?**
+Make it same day you eat it. That's it. Doesn't keep well. The juice breaks everything down by day two. You could prep the fruit and keep it separate — berries in one container, pineapple in another, the syrup by itself — then mix it cold right before eating. But that defeats the purpose of ease.
+
+**Can I make this without maple syrup?**
+Agave works. Honey takes longer to mix. Neither tastes as good. If you skip sweetener entirely it just tastes like cold fruit with lime, which is fine but not the same thing. The syrup softens the tartness from the lime.
+
+**How long does a fresh fruit salad actually keep in the fridge?**
+Two days if you cover it. Three if you're pushing it and don't mind it being watery. After three days the berries collapse completely and it's basically compote. Not worth it.
+
+**Should I chill the bowl before making this salad?**
+Yeah. Five minutes in the freezer. Keeps everything colder longer and the fruit doesn't start weeping immediately. Small thing but it works.
+
+**Is this vegan and gluten free?**
+Yes. Everything's fruit, maple syrup, lime juice, mint. Nothing hidden. Naturally vegan. Naturally gluten free. Not a substitution thing — it just is.
+
+**Can I add acai frozen puree on top as a topping?**
+Sure. Blur a packet of frozen açaí with a little liquid, layer it on top like a base, then add the fruit salad over it. That's basically an açaí bowl with fresh fruit on top instead of granola. Works. Doubles the prep time though.
+
+**What's the difference between this and a salad with oranges?**
+The acid. Oranges are sweeter and softer. Lime juice is sharp. It cuts through the maple syrup and makes everything taste bright instead of just sweet. You could swap in salad oranges but the whole flavor changes. It becomes a different dish.
