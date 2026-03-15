@@ -1,10 +1,10 @@
 ---
-title: "Herb Egg Tea Sandwiches"
+title: "Herb Egg Tea Sandwiches with Cheddar"
 slug: "herb-egg-tea-sandwiches"
-description: "Eggs mashed with a tangy blend of mayo and hard cheese, layered between square white bread slices. A fresh kick from green onions swapped for shallots, the parmesan replaced with cheddar for sharpness. Dill and parsley take the herbal spotlight. Quick to prep, sliced into bite-sized triangles, topped with herby mayonnaise for garnish. A light vegetarian snack, nut and lactose free, ideal for tea-time or a casual buffet."
-metaDescription: "Herb Egg Tea Sandwiches with sharp cheddar, shallots, dill, parsley and mayo on white bread. Bite-sized, layered triangles. Light, fresh, quick prep snack."
-ogDescription: "Bite-sized herb egg sandwiches with sharp cheddar, shallots, fresh dill and parsley on soft white bread. Quick, layered, mayo-herb garnish. Simple buffet snack."
-focusKeyphrase: "Herb Egg Tea Sandwiches"
+description: "Herb egg tea sandwiches made with hard boiled eggs, sharp cheddar, and fresh dill and parsley on white bread. Quick vegetarian tea-time snack."
+metaDescription: "Make herb egg tea sandwiches with hard boiled eggs, cheddar cheese, and fresh herbs. Perfect for afternoon tea or buffets. Try it tonight."
+ogDescription: "Hard boiled eggs mixed with sharp cheddar, fresh dill, and parsley in delicious tea sandwiches. Light and herby."
+focusKeyphrase: "herb egg tea sandwiches"
 date: 2025-07-28
 draft: false
 image: herb-egg-tea-sandwiches.jpg
@@ -21,11 +21,14 @@ tags:
 - "eggs"
 - "sandwich"
 keywords:
-- "egg sandwiches"
-- "tea sandwiches"
-- "cheddar cheese"
-- "herbs"
-- "mayonnaise"
+- "herb egg tea sandwiches"
+- "egg salad sandwich"
+- "cheddar egg salad sandwich"
+- "hard boiled egg and cheese sandwich"
+- "vegetarian sandwich"
+- "egg mayo cheddar sandwich recipe"
+- "cheese sandwich"
+- "shallot herb egg sandwich filling"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "180"
@@ -65,3 +68,56 @@ faq:
 - "q: Can sandwiches be made ahead? a: Filling up to 3 hours before okay. Sandwiches better fresh for texture. Chill maximum 2 hours after garnish. Longer equals soggy bread and limp herbs. Store cold, covered to protect."
 
 ---
+
+Lay half the bread slices down. Spread the egg mixture. Stack. Cut into triangles. That's it. But the herbs on the outside—that's where it gets good.
+
+## Why You'll Love This Herb Egg Tea Sandwich
+
+Takes 43 minutes total and most of that's boiling eggs. The actual assembly is 10 minutes, maybe less if you move fast. Works as a snack, works as lunch, works as something to bring somewhere because it doesn't fall apart. Cheese makes it heavier than regular egg salad—in a good way, not in a sits-in-your-stomach way. The herbs are just decoration until you bite it and realize they're the whole thing. Cold straight from the fridge or at room temperature.
+
+## What You Need for an Herb Egg Salad Sandwich
+
+Five hard boiled eggs. Peel them while they're still a bit warm—easier that way. Forty-five milliliters of mayo. Not more. The mixture should stay chunky, not turn into paste. Sharp cheddar, shredded—45 milliliters of it. Not mild. Mild tastes like nothing. One small shallot, finely chopped. The onion bite matters here. It's the only thing that keeps it from being flat. Twelve slices of square white sandwich bread. Doesn't have to be fancy. The soft kind works fine. Salt and pepper. Taste it before you plate it—shallot can be sharp so you might not need much salt.
+
+For the outside: 100 milliliters of mayo mixed with 100 milliliters of fresh herbs. Dill, parsley, chives. All three if you have them. Just one if that's what's in the fridge. The herbs get pressed onto the cut edges so you see them when you pick it up.
+
+## How to Make Herb Egg Salad Sandwiches
+
+Boil water. Add eggs. Set a timer for 10 minutes. Don't overthink it. Once they're done, transfer to ice water and let them sit. This stops the gray ring from forming around the yolk. Peel them when they're cool enough to handle. Some people do this under running water—easier, less sticky. Takes maybe five minutes for all five.
+
+Rough mash the eggs in a large bowl. Not smooth. Chunks are good. Add the mayo, fold it in. Fold in the cheddar. Fold in the shallot. Season. Taste it. Salt it more probably. Shallots are aggressive so you need to be careful, but they're also the point of the thing.
+
+## How to Build and Garnish Herb Egg Sandwiches
+
+Lay six slices of bread flat on your counter or a cutting board. Something with space. Spread the egg mixture on each one—an even layer, not too thick. Place the remaining six slices on top. Press down gently but actually press. You want them to stick together enough that they don't slide around when you cut them.
+
+Cut each sandwich diagonally corner to corner, so you get four triangles. One diagonal cut won't do it—you need the two diagonals. The triangles stack better, look better, feel fancier than rectangles. It's stupid but true.
+
+Mix the mayo and herbs in a shallow bowl. The herbs get chopped fine so they actually stick. Arrange the triangles on a platter. Most of your sandwiches will have the cut edge facing up—that's where the herb coating goes. Spread a thin layer of the herb mayo on each cut edge. Not thick. Just enough so the herbs stick. Press the herbs on gently. They should coat the whole cut surface.
+
+Serve right away if you want maximum herb visibility. Or cover and chill up to two hours. Cold works better actually. The egg salad sets a bit and holds together cleaner.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Herb Egg Tea Sandwiches
+
+**Can I make the egg salad the night before?**
+Yeah. Store it in an airtight container. The cheese doesn't change anything about shelf life. Make the sandwiches the morning of though. Bread gets soggy if it sits overnight with the filling inside.
+
+**What if I don't have sharp cheddar?**
+Use something with flavor. Gruyere works. Aged cheddar works better. White cheddar is fine too. Mild cheddar tastes like cardboard so skip it.
+
+**Can I substitute the shallot?**
+Red onion works if you chop it finer because red onion is harsher. White onion is milder so use slightly more. Regular yellow onion is fine. Green onions don't do the same thing—they're too mild and fresh. Not the same vibe.
+
+**How far in advance can I decorate them with herbs?**
+Up to two hours before serving. The herbs stay bright and the mayo doesn't dry out. After that the mayo starts to look dull and the herbs go a bit brown.
+
+**Do I have to cut them into triangles?**
+No. Halves work. Rectangles work. Triangles just look nicer and they're easier to grab. The angle helps with stability when you're holding them.
+
+**Can I make these vegetarian cheddar cheese sandwiches ahead for a picnic?**
+Pack them in a single layer in a container. Don't stack them until you get there. The herb coating will smudge if they're pressed together. They stay good for about four hours in a cooler.
+
+**Should the hard boiled eggs be warm or cold when I mix them?**
+Cool is better. Hot eggs mash differently—kind of mealy. Let them chill completely, then mash.
