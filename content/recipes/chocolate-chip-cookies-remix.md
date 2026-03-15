@@ -1,10 +1,10 @@
 ---
-title: "Chocolate Chip Cookies with Cocoa Powder"
+title: "Chocolate Cookie Cocoa Powder Recipe"
 slug: "chocolate-chip-cookies-remix"
-description: "Fudgy chocolate chip cookies made with Dutch-processed cocoa powder for deep flavor. Tapioca starch adds chew, less sugar keeps them tender. Bake until edges firm, centers puffed."
-metaDescription: "Chocolate chip cookies with cocoa powder recipe. Dutch-processed cocoa, tapioca starch, and careful baking technique for fudgy centers and crispy edges. Try it tonight."
-ogDescription: "Dense, fudgy chocolate chip cookies made with Dutch-processed cocoa powder. Tapioca starch replaces cornstarch for better chew and texture."
-focusKeyphrase: "chocolate chip cookies with cocoa powder"
+description: "Fudgy chocolate cookies made with Dutch-processed cocoa powder and dark chocolate chips. Tapioca starch adds chew while brown sugar keeps them tender and chewy."
+metaDescription: "Make chocolate cookie cocoa powder treats with Dutch-processed cocoa and dark chocolate chips. Tapioca starch adds the perfect chew. Try it tonight."
+ogDescription: "Fudgy chocolate cookies with Dutch-processed cocoa powder, dark chocolate chips, and tapioca starch for perfect chewy texture."
+focusKeyphrase: "chocolate cookie cocoa powder"
 date: 2026-01-11
 draft: false
 image: chocolate-chip-cookies-remix.jpg
@@ -21,14 +21,14 @@ tags:
 - "homemade"
 - "dessert"
 keywords:
-- "chocolate chip cookies with cocoa powder"
 - "chocolate cookie cocoa powder"
-- "cocoa powder cookie recipes"
-- "dutch chocolate cookies recipe"
-- "chocolate cookie recipes with cocoa powder"
-- "chocolate cookies using cocoa powder"
 - "chocolate powder cookies"
+- "cocoa powder cookie recipes"
+- "chocolate chip cookies with cocoa powder"
 - "simple chocolate cookies with cocoa powder"
+- "dutch chocolate cookies recipe"
+- "chocolate cookies using cocoa powder"
+- "homemade chocolate chips with cocoa powder"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "182"
@@ -77,3 +77,111 @@ faq:
 - ""
 
 ---
+
+Butter goes in cold. Not soft. That changes everything.
+
+## Why You'll Love This Chocolate Cookie Cocoa Powder Recipe
+
+Takes 20 minutes to prep if you're not rushing. Then you wait — the chilling part matters more than you think, and it pushes the total to an hour and a half, but most of that's sitting in the fridge while you do something else.
+
+Homemade chocolate cookies that actually taste like chocolate. Not that watered-down cocoa flavor — Dutch-processed cocoa powder gives it something deeper, almost bitter in the good way.
+
+The texture. Soft center, crispy edges. Doesn't happen by accident. The egg white does something. The half-and-half does something. Both together is the point.
+
+Comfort food that comes out of your own oven. Tastes like you know what you're doing.
+
+## What You Need for Chocolate Cookies Using Cocoa Powder
+
+Flour. All-purpose. No bread flour, no cake flour — all-purpose works.
+
+Dutch-processed cocoa powder. Not the regular kind. The Dutch kind is darker, smoother. Regular cocoa tastes thin next to it.
+
+Baking soda and baking powder. Both. They do different things. Don't skip either.
+
+Tapioca starch. A tablespoon. Makes them tender. Corn starch works too if you don't have it. Honestly, you could skip it. Cookies just won't be quite as soft.
+
+Butter. Ten tablespoons. Softened but still cool — room temperature is too warm. Melted is way too warm. You want it to give when you press it, not feel like butter soup.
+
+Both sugars. One-third cup granulated, two-thirds cup brown. Brown sugar keeps them moist. Granulated gives them structure. Together they work.
+
+Vanilla extract. A teaspoon. Real vanilla. Not the imitation kind.
+
+One whole egg. One egg white beaten separately. The white keeps them lighter, fluffier. Not like cake. Like cookies that feel less dense.
+
+Half-and-half cream. One-third cup. Not milk. Not heavy cream. Half-and-half. It matters — the fat ratio changes the texture.
+
+Dark chocolate chips. One and a half cups, and you use some twice — most mixed in, some pressed on top while they're hot.
+
+## How to Make Chocolate Chip Cookies with Cocoa Powder
+
+Mix the dry stuff first. Flour, cocoa powder, baking soda, baking powder, tapioca starch. Whisk it until the color looks even — you shouldn't see any tan streaks or dark clumps. Takes maybe a minute. Set it aside.
+
+Cream the butter with both sugars. This is where the paddle attachment helps, but a bowl and a wooden spoon works too. You want it pale and kind of fluffy — like it grew. Two and a half minutes if you're using a mixer on medium. Longer if you're doing it by hand. Scrape down the sides halfway through or you'll have butter chunks stuck to the bowl.
+
+Pour in vanilla and the whole egg. Beat until it's all mixed. Then fold in the beaten egg white gently — you're trying to keep the air bubbles you just added. This is the only time you care about keeping things airy. Don't overbeat here or you'll tighten everything up.
+
+Lower the mixer speed now or go slower by hand. Add half the dry mixture. Then add half the half-and-half. Mix just until you can't see dry flour anymore. Stop immediately. You're not making a smooth batter — you want it still kind of shaggy.
+
+Repeat. Second half of dry stuff, second half of cream. Again, stop as soon as it holds together. Overworking at this point is how you get tough cookies.
+
+Stir the chocolate chips in by hand. No mixer. Just a spoon or a spatula. You want them spread throughout, not pulverized into the dough.
+
+## How to Get Chocolate Cookies Crispy Edges and Soft Centers
+
+Wrap the dough. Use plastic wrap or a cover. Chill it. Minimum one hour. Three hours is better if you have time. The butter gets firm, the flavors deepen, and the cookies spread less in the oven.
+
+Heat the oven to 350°F. Line your sheets with parchment or silicone mats. Don't grease them. Cookies hold their shape better on ungreased parchment.
+
+Scoop the dough. Use a mid-sized scoop if you have one, or a heaping tablespoon if you don't. Roll each one between your palms into a smooth ball. Smooth balls bake more evenly.
+
+Space them two inches apart. They're going to spread a little.
+
+Bake for about 10 minutes. The edges will look firm and darker. The center will still be soft, almost wet-looking. That's exactly right. Pull them out. They're not done baking yet — they finish cooking on the hot pan with carryover heat. Takes a couple more minutes.
+
+While they're still hot, press a few chocolate chips on top of each one. The residual heat melts them slightly. Creates that contrast between melty chips and the cookie underneath.
+
+Let them sit on the pan for a few minutes. Then move them to a rack to cool completely. Don't stack them while they're warm or they'll fuse together.
+
+## Chocolate Powder Cookies Tips and Common Mistakes
+
+Watch the color, not the clock. Smell them. When you catch that deep chocolate and caramelized sugar smell, they're close. That's your timer.
+
+Don't chill the dough for too long. Beyond three hours and it gets hard to scoop. If that happens, let it sit at room temperature for 10 minutes and it softens back up.
+
+The butter temperature matters. Cold butter creams slower but produces better texture. Warm butter creams faster but spreads too much in the oven.
+
+Simple chocolate cookies with cocoa powder come out better when you don't overbake them. Soft center is the whole point. Overbaked means hard cookies. They don't improve with time either.
+
+The egg white is doing work. Don't skip it just because it seems fussy. It's two minutes of effort and it changes everything about the texture.
+
+Brown sugar can clump. Pack it down when you measure it. A clump of brown sugar turns into a dense pocket in the cookie.
+
+Dutch cocoa powder is darker and more bitter than regular cocoa. If you can't find Dutch, regular works but the flavor won't be as rich. Try to get Dutch. It's worth it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Powder Cookies
+
+**Can I use regular cocoa powder instead of Dutch-processed?**
+Yeah, but they'll taste different. Regular cocoa is thinner, more acidic. Not bad. Just not the same. Dutch cocoa is deeper, more chocolate-forward. If you're only using cocoa powder cocoa flavoring, might as well go Dutch.
+
+**How long do these keep?**
+Three days in an airtight container. Maybe four if it's cold. After that they start to get hard. Not stale exactly — just dense.
+
+**Can I freeze the dough?**
+Absolutely. Wrap it airtight. Lasts a month, maybe longer. Thaw it in the fridge overnight before baking. Or bake straight from frozen — adds a couple minutes, but it works.
+
+**Why did mine spread too much?**
+Butter was too warm. Or you skipped the chilling step. Or the oven wasn't fully preheated. All three make them spread. Cold dough, hot oven.
+
+**Can I make these without the egg white?**
+Sure. Use a whole egg instead. They'll be less fluffy, denser. Still good cookies. Just different.
+
+**What if I don't have half-and-half?**
+Equal parts whole milk and heavy cream. Mix them and you basically have half-and-half. Or just use whole milk — slightly less rich but still works.
+
+**Can I add oatmeal or nuts?**
+Oatmeal works. Fold it in with the chocolate chips. Half cup maybe. Nuts work too but they compete with the chocolate flavor. These are chocolate cookies using cocoa powder first. Everything else is secondary.
+
+**Why add chocolate chips on top if they're already in the dough?**
+The ones on top get melty and gooey. The ones inside stay intact. Two different textures in one bite. That's the point.
