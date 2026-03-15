@@ -1,10 +1,10 @@
 ---
-title: "Grilled Whole Red Snapper"
+title: "Grilled Red Snapper with Lemon and Garlic"
 slug: "grilled-whole-red-snapper"
-description: "Grill a whole red snapper with lemon, garlic, and parsley. Diagonal slits help even cooking. Stuff fish with lemon slices, rub with herb mix inside and olive oil outside. Use lemon slices in grilling basket to prevent sticking and add brightness. Grill over medium heat about 9-12 minutes per side until slits turn opaque and flaky. Charred skin adds texture but watch for bones. Can substitute parsley with cilantro or oregano. Salt adjusted to taste. Lemon zest gives brightness, can swap with orange for twist. Visual cues and tactile feel more reliable than strict timing."
-metaDescription: "Grilled whole red snapper spiked with lemon and herbs, slits cut for even cooking, salt crust crisps skin. Watch slits for flaky flesh, charred edges add texture."
-ogDescription: "Grill a whole red snapper with lemon, garlic, herb rub. Cuts let heat in, salt crust crisps skin. Cook till slits turn flaky, charred skin is bonus texture."
-focusKeyphrase: "grilled whole red snapper"
+description: "Grilled red snapper stuffed with lemon slices, garlic, and fresh parsley. This whole fish recipe features olive oil and herbs for even cooking and charred skin that adds incredible texture and flavor."
+metaDescription: "Grilled red snapper recipe with lemon, garlic, and parsley. Learn to grill whole fish with herb seasoning and lemon slices for perfect results. Try it tonight."
+ogDescription: "Grilled whole red snapper with lemon, garlic, parsley, and olive oil. Perfectly charred skin and herb-stuffed for restaurant-quality flavor at home."
+focusKeyphrase: "grilled red snapper"
 date: 2025-10-15
 draft: false
 image: grilled-whole-red-snapper.png
@@ -21,10 +21,16 @@ tags:
 - "lemon"
 - "easy dinner"
 keywords:
-- "red snapper"
-- "grilled fish"
-- "herb rub"
-- "lemon slices"
+- "grilled red snapper"
+- "grilled whole fish with herbs"
+- "red snapper with lemon and garlic"
+- "lemon garlic grilled snapper"
+- "how to grill whole red snapper"
+- "whole fish recipes"
+- "grilled red snapper with parsley and lemon"
+- "grilled fish recipes"
+- "summer grilled fish"
+- "whole snapper on the grill with lemon slices"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "320"
@@ -66,3 +72,86 @@ faq:
 - "q: How to store leftovers? a: Wrap tight in foil or airtight container, fridge up to 2 days. Reheat gently to avoid drying out; steam or low oven temp works better than microwave. Can freeze cooked fish but texture changes; best eaten fresh or next day."
 
 ---
+
+Cut diagonal slits on both sides before anything else. Three-quarter inch apart, maybe two. This isn't decoration—it's how heat gets to the thick parts instead of just cooking the outside while the center stays raw. Whole fish on a grill can go either way fast.
+
+## Why You'll Love This Grilled Fish Recipe
+
+Takes 35 minutes start to finish. Twelve minutes prep, then straight to heat.
+The lemon slices do two jobs at once—they prop the fish up so it doesn't stick and they steam it from inside at the same time. Works.
+Summer dinner that tastes like you tried harder than you did.
+Skin gets crispy. Actually crispy. The salt crust does something. Not sure the exact science but it happens every time.
+One whole fish feeds two people easily, maybe three if there's other stuff. No fussy plating.
+Cleanup's minimal—basket goes in the sink, done. The grill barely needs it after.
+
+## What You Need for Grilled Red Snapper with Lemon
+
+One whole red snapper. Scaled. Cleaned. Size matters—1.5 to 2 pounds is right. Bigger and the inside stays cold when the outside chars. Smaller and it dries out.
+
+Fresh parsley. Chopped fine. Cilantro works if you have it, actually tastes good that way too. The dried stuff from a jar won't do anything.
+
+Three garlic cloves. Minced. Not sliced. You want it to spread through the herb mix and disappear into seasoning.
+
+Black pepper. Fresh ground. The pre-ground tastes like dust compared to this. 1.5 teaspoons.
+
+Sea salt. Two kinds, basically. One teaspoon goes inside with the herbs. The other 2.5 tablespoons goes on the skin after oil. They do different things—inside salt seasons the flesh, outside salt makes the crust.
+
+Lemon. Zest from one, then slice the rest. Eight to ten slices. Or orange zest if you want to see what happens. Changes the whole thing but in a good way.
+
+Extra virgin olive oil. Three tablespoons. Coats the outside before the salt hits. Avocado oil works if you want a higher smoke point. Grapeseed too.
+
+## How to Make Grilled Whole Fish
+
+Start with the slits. Both sides of the snapper. Angle them diagonal. Space them an inch and three-quarter inches apart, maybe two. Deep enough to open when the fish contracts but not deep enough to hit bone or slice through to the other side. Watch what you're doing.
+
+Mix the parsley, garlic, pepper, the teaspoon of sea salt, and lemon zest in a small bowl. Looks like wet herb paste. Rub half of it inside one cavity, half in the other. Don't overload—it'll leak out when it cooks and anyway the outside salt carries the punch. Inside is just background.
+
+Lemon slices go in next. Five or six per cavity. If they don't want to fold, cut them in half. Squeeze juice in too. Doesn't have to be a lot. Just moisture.
+
+Brush olive oil all over the outside. Every inch. Then scatter the 2.5 tablespoons of sea salt over the skin while the oil's still wet. It sticks better that way. The salt crust is doing something real—it crisps the skin and pulls moisture out in a way that makes the skin actually crunch instead of just being wet.
+
+## How to Get Grilled Red Snapper Crispy and Charred
+
+Set up your grilling basket. Lay lemon slices across the bottom in one layer. They're the bed. The fish sits on top of them so it's not touching hot metal directly and so it steams a little from the lemon juice instead of just drying out.
+
+Put the fish flat on the lemon bed. Layer more lemon slices on top. Closes it in. Infuses the whole thing with lemon scent.
+
+Preheat your grill to medium. Three-fifty to three-seventy-five degrees. Let the basket sit for a minute so the lemon gets going. Then close the top and let it run. Nine to twelve minutes per side. You're watching through those slits you cut. The flesh inside turns from translucent to opaque. That's the signal. Press it gently and it should flake when you do it. Skin gets lightly charred. Not black. Not burnt. Just browned dark.
+
+Five minutes rest after. Off heat. Carryover cooking finishes it. Keeps the juices locked in instead of running out when you cut it. The fish keeps cooking a tiny bit even after you pull it off.
+
+## Summer Grilled Fish Tips and Common Mistakes
+
+Don't stab too deep with those slits. You'll weaken it and it falls apart on the grill. The knife just needs to break the skin and crack the flesh underneath.
+
+Whole fish dries out faster than you think. The lemon slices help but don't go longer than twelve minutes per side if your grill runs hot. Check early. Better to pull it early than find out you've got fish jerky.
+
+The skin is edible. Crispy when it's done right. But bones hide under it. Eat slow. Spit them out. It's fine.
+
+If your grill flares up, move the basket to a cooler part. You want sizzle, not flames. Flames burn the outside before the inside cooks.
+
+Orange zest instead of lemon rewrites it. Sweeter. Softer edge. Try it once and you'll either hate it or do it every time.
+
+Tried adding chili flakes inside the herb mix. Changes the whole vibe. Not necessary but works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Fish Recipes
+
+**Can I use a different whole fish instead of red snapper?**
+Yeah. Branzino, sea bass, mackerel if you like something richer. Size still matters—keep it between 1.5 and 2 pounds. Bigger fish, longer cook, drier inside usually.
+
+**What if I don't have a grilling basket?**
+You can lay the fish directly on oiled grates if you're careful. Flip once, slowly, with two spatulas. Skin sticks though. The basket's the safer move.
+
+**How do I know when the fish is actually done?**
+Look through the slits. Meat goes from gray to white to opaque. Press it gently with your finger—should flake. If it's still translucent in the thickest part, give it two more minutes. Overcooked fish is worse than undercooked.
+
+**Does the lemon inside the cavity really matter?**
+It does something. Steams the inside, adds juice so it doesn't dry out. Could skip it but don't. Takes thirty seconds.
+
+**Can I make this without a grill?**
+You can do it in the oven at 425 degrees on a sheet pan lined with lemon slices. Twelve to fifteen minutes. Skin won't be crispy. Tastes fine but it's different.
+
+**Should the salt crust be thick or light?**
+Light. You're seasoning the skin, not making a salt block. Too much and it's inedible. 2.5 tablespoons for a 1.5 to 2 pound fish is right.
