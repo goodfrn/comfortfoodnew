@@ -1,9 +1,9 @@
 ---
-title: "Grapefruit Spritz with Aperol"
+title: "Grapefruit Spritz with Aperol & Prosecco"
 slug: "citrus-aperol-twist"
-description: "Bright grapefruit spritz with Aperol, sparkling wine, and fresh citrus. Bubbly, refreshing aperitif that takes two minutes to pour."
-metaDescription: "Make a grapefruit spritz with Aperol and sparkling wine. Citrusy, bubbly, and easy. Mix it tonight."
-ogDescription: "Grapefruit spritz with Aperol and bubbles. Bright, easy, ready in minutes."
+description: "Grapefruit spritz made with Aperol, prosecco, and fresh pink grapefruit juice. Bubbly aperitif with orange bitters and mint that's ready in minutes."
+metaDescription: "Grapefruit spritz recipe with Aperol, prosecco, and fresh grapefruit juice. Bubbly, refreshing aperitif perfect for entertaining. Make it tonight."
+ogDescription: "Bright grapefruit spritz with Aperol, prosecco, fresh grapefruit juice, and orange bitters. Bubbly and ready in two minutes."
 focusKeyphrase: "grapefruit spritz"
 date: 2025-07-20
 draft: false
@@ -23,14 +23,16 @@ tags:
 keywords:
 - "grapefruit spritz"
 - "aperol grapefruit spritz"
-- "grapefruit aperol"
-- "aperol spritz"
-- "citrus aperitif cocktail"
-- "sparkling wine cocktail"
+- "grapefruit aperol spritz"
+- "aperol grapefruit"
 - "aperol pink grapefruit"
-- "easy cocktail recipe"
-- "refreshing spritz"
-- "aperitif drink"
+- "grapefruit aperol"
+- "prosecco cocktail"
+- "aperitif cocktail"
+- "sparkling wine cocktail"
+- "pink grapefruit juice cocktail"
+- "easy spritz recipe"
+- "orange bitters cocktail"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "120"
@@ -71,3 +73,76 @@ faq:
 - "q: How do I store leftovers? a: Best consumed fresh. Can refrigerate for short time. Bubbles fade. If mixing ahead, separate components. Combine just before serving."
 
 ---
+
+Ice goes in first. Not the drink, the glass. Half full means the whole point—cold matters more than anything else here.
+
+## Why You'll Love This Grapefruit Aperol Spritz
+
+Takes 9 minutes total. Literally. Not because it's simple—because it's supposed to be.
+Summer drinks that don't taste like they're trying too hard. This one just works.
+Aperol grapefruit anything feels fancy. Isn't. Pink grapefruit juice and a couple bottles and you're done.
+Citrus and bubbles and a thing called Aperol that tastes like your mouth just got lighter somehow.
+Works before dinner, during, after. Haven't found a moment where this doesn't fit.
+
+## What You Need for an Aperol Pink Grapefruit Spritz
+
+Ice cubes. Lots. Cold glass matters—fill it halfway just with ice first.
+Sparkling rosé or brut prosecco. Either works. 40 ml. The prosecco stays quieter, the rosé's a bit louder.
+Aperol. That's the orange thing. 20 ml. Non-negotiable. Don't swap it.
+Fresh pink grapefruit juice. Squeezed. Not from concentrate—it tastes like different juice entirely.
+Club soda or tonic. 15 ml. Soda keeps it clean. Tonic adds a thing. Your choice. Either one's fine.
+Orange bitters. Three dashes. Sounds like nothing. Changes everything.
+Pink grapefruit slices. Two thin ones. Press them against the glass so they don't float away.
+Fresh mint. A sprig. On the rim or in the drink. Doesn't matter much.
+
+## How to Make an Aperol Grapefruit Spritz
+
+Fill the glass with ice first. Seriously. The coldness is the whole base here. You want that glass arctic before anything else touches it.
+
+Pour the sparkling rosé or prosecco in first. Gentle. Like you're pouring into something that'll break if you're rough. It needs bubbles to stay alive in there. The rosé goes in, then the Aperol after. Slow. Watch them layer a second before they blur together.
+
+Fresh pink grapefruit juice next. 20 ml. Or just pour until it looks right—like the whole thing's turned a little pale. Then club soda or tonic. Not much. Just 15 ml. The drink should still feel like it's mostly wine with feelings.
+
+Orange bitters. Three dashes. This is where it gets weird. The smell hits before the taste does. Do it now, while everything's still separate enough to notice the bitters doing their thing.
+
+## How to Get Your Grapefruit Aperol Spritz Cold and Perfect
+
+Stir it. Once. Maybe twice. Don't murder the bubbles. They're doing the work. You just need everything mixed enough that the next sip tastes like the first sip.
+
+The grapefruit slices go in now—or pressed against the side of the glass. They'll either stay there or float. Both look right. The mint goes on top or on the rim. Press it a tiny bit so it smells like mint when you drink it. Don't press hard. Just enough.
+
+Serve it right now. Not later. The bubbles are already thinking about leaving. Cold and immediate—that's when it's good. The whole thing's maybe 9 minutes from ice to finished. That's the time that matters.
+
+## Grapefruit Aperol Spritz Tips and What Can Go Wrong
+
+The juice has to be fresh. Not because I'm picky. Concentrate tastes like sweetener. Fresh grapefruit juice tastes like actual grapefruit. Different drink.
+
+Prosecco or rosé—pick one and stick with it for a round. Switching mid-way changes the whole vibe. Rosé's more delicate. Prosecco's more neutral.
+
+Too much soda and it tastes like soda. Too little and it's just wine pretending to be a spritz. 15 ml is the line. After that it's a guess.
+
+The ice melts. Obviously. But you want it to melt. That's how it stays cold all the way through the drink. Don't refill the glass with warm ice halfway through.
+
+Bitters aren't optional. They're not decoration. They're the thing that makes this taste like grapefruit and Aperol decided to get married instead of just hanging out.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grapefruit Aperol Spritz
+
+**Can I make this without fresh grapefruit juice?**
+Not really. Concentrate's a different drink. Bottled fresh works if you're stuck. Not the same thing though.
+
+**Which is better—prosecco or sparkling rosé?**
+Depends. Rosé's sweeter. Prosecco's cleaner. Try both. Rosé if you like the drink to taste like rosé. Prosecco if you want the grapefruit and Aperol to show up more.
+
+**What if I don't have pink grapefruit?**
+Yellow works. Tastes less sweet, more sour. The whole drink gets a different edge. Not bad. Just different. Red grapefruit doesn't exist in the way people think it does.
+
+**Does the orange bitters actually matter?**
+Yeah. It sounds small. Try it without once and you'll get it. The drink goes flat without it, flavor-wise.
+
+**Can I make this ahead for a party?**
+No. Pour them when people are there. The bubbles die fast. Everything tastes better cold and fresh—that's nine minutes. Not worth speeding up.
+
+**Is this actually a summer drink or can I make it year-round?**
+Summer's when it lands right. Winter it's fine. Just feels like it belongs outside with heat somewhere near.
