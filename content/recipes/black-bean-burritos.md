@@ -1,10 +1,10 @@
 ---
-title: "Black Bean Burritos Recipe with Rice"
+title: "Black Bean Burritos with Cilantro Rice"
 slug: "black-bean-burritos"
-description: "Black bean burritos loaded with garlic-smashed beans, cilantro rice, avocado, and crispy edges. Easy vegetarian burrito recipe with pico de gallo and real substitutions for busy cooks."
-metaDescription: "Black bean burritos recipe with rice, beans, avocado, and pico de gallo. Crispy, hearty, and vegetarian. Make it tonight."
-ogDescription: "Black bean burritos stuffed with refried beans, rice, avocado, and charred on all sides until crisp. Easy vegetarian dinner."
-focusKeyphrase: "black bean burrito recipe"
+description: "Black bean burritos filled with garlic-smashed beans, cilantro rice, avocado, sweet corn, and sharp cheddar. Easy vegetarian recipe with fresh pico de gallo."
+metaDescription: "Black bean burritos recipe with cilantro rice, avocado, and pico de gallo. Garlic-smashed beans, sweet corn, and cheddar in whole wheat tortillas. Make it tonight."
+ogDescription: "Black bean burritos with cilantro rice, avocado, pico de gallo, and crispy edges. Easy vegetarian recipe."
+focusKeyphrase: "black bean burritos"
 date: 2025-09-23
 draft: false
 image: black-bean-burritos.jpg
@@ -21,11 +21,16 @@ tags:
 - "avocado"
 - "corn"
 keywords:
-- "black bean burrito recipe"
-- "black bean burritos with rice"
+- "black bean burritos"
 - "bean burrito recipe"
-- "vegetarian burrito"
-- "black bean and rice burrito"
+- "black bean burrito recipe"
+- "vegetarian burritos"
+- "cilantro rice burrito"
+- "black beans and rice"
+- "easy burrito recipe"
+- "whole wheat burritos"
+- "homemade black bean burritos"
+- "avocado burrito recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -83,3 +88,104 @@ faq:
 - "q: Best way to store leftovers? a: Wrap burritos tight, fridge up to 3 days. Reheat in pan to refresh crisp edges. Microwave’s faster but soggy. Freeze wrapped well, thaw overnight fridge. Avoid soggy by re-crisping on stovetop."
 
 ---
+
+Lay the tortilla flat. Beans down the middle. Roll tight. That's the shape. What matters is what goes inside—rice that tastes like something, beans that are actually creamy, avocado that still has texture. This bean burrito recipe works because nothing fights. Everything belongs there.
+
+## Why You'll Love This Bean Burrito Recipe
+
+Takes an hour and change but you're doing other things half the time—rice cooks itself, pico sits in a bowl getting better. One of those easy dinner moves that doesn't feel like you rushed it.
+
+Vegetarian and actually filling. Not the sad-lettuce kind of vegetarian. Beans and rice and cheese and avocado that make you forget meat was ever an option.
+
+Corn in there makes it sweet. Cilantro makes it bright. The crispy tortilla shell from pan-browning? That's the part everyone asks about.
+
+Leftovers work cold or reheated in a dry pan. Tastes better the next day somehow.
+
+## What You Need for Black Bean Burritos
+
+Brown basmati rice—320 ml water to 140 g rice, tiny pinch of salt. Basmati stays separate instead of getting gummy.
+
+One can of black beans, drained and rinsed. Don't skip the rinsing. Canned liquid is starchy and thick.
+
+Garlic. Two cloves minced. Vegetable oil to cook it in—25 ml, maybe a bit more.
+
+One medium tomato diced small. One small onion, finely chopped. One lime. One jalapeño if you want heat, seeds out for less punch.
+
+Two ripe avocados. Lime juice for them too, keeps the brown away. Six large whole wheat tortillas. They hold better than white.
+
+Corn—140 g thawed frozen works perfect. Sharp cheddar, 90 g shredded. Fresh cilantro, 25 g. That's a small bunch.
+
+## How to Make Black Beans for Your Rice Bean Burrito
+
+Get water boiling with salt in a medium pot. Stir in rice once. Cover tight. Drop the heat all the way down. Let it sit there for around 38 minutes.
+
+Check it after 35. If water's gone and grains are soft but still separate—not mushy—you're done. Cover it for 5 more minutes off heat. The steam finishes the job.
+
+While rice goes, start the pico de gallo. Dice the tomato small. Chop the onion finer. Seed and mince the jalapeño. Throw it all in a bowl with lime juice. Salt it. Pepper it. Let it sit. Flavors get louder as it sits.
+
+Heat oil in a big pan over medium. Garlic in. Stir it around. Thirty seconds, maybe a minute, until it smells sharp and good but isn't brown yet. Pull the pan off heat. Add the drained beans. Use a potato masher or the back of a spoon and crush them roughly. Not a paste. Chunky. Add water. Put it back on heat and let it bubble. Lower the flame. Simmer 5 or 6 minutes until it gets thick and creamy. Oil shimmers on top. That's when it's done. Salt and pepper again.
+
+## How to Get Crispy Burritos Every Time
+
+Mash the avocados in a bowl with lime juice, salt, pepper. Should be creamy with some chunk still visible. Keep it green.
+
+Lay a tortilla flat on your board. Not warm—you'll tear it. Line of refried black beans down the center. Then avocado mash, thin layer. Rice next. Corn scattered over. Shredded cheese. Pico de gallo on top. Cilantro.
+
+Fold the sides in first, then roll away from you tight. Flip seam-side down so it stays together.
+
+Brush the top lightly with oil. Sprinkle salt on top.
+
+Get a big pan hot—medium-low, so it sizzles quiet but steady. Seam-side down goes in first. Press it gently a few times with the back of a spatula. Let it sit 2, 3 minutes. Flip. Other side gets the same treatment. Keep turning every couple minutes until all sides have golden freckles. Takes about 12 to 14 minutes per batch. The color should be warm brown with spots, nothing dark or charred. If it's getting too dark, lower the heat. Second batch goes in after. Same timing. Same gentle pressure.
+
+Pull them out when edges crackle. That's the sound of a proper burrito.
+
+## Black Bean Burrito Tips and Common Mistakes
+
+Don't skip rinsing the canned beans. The liquid makes everything starchy and thick. Rinsed beans give you that actual creamy texture.
+
+Rice matters more than people think. Brown basmati takes 38 minutes. White rice is faster but falls apart. If you're in a rush, quick soak brown rice for 30 minutes first—cuts time down. Rice should be tender with grains that separate, not mushy paste.
+
+Avocado browns if it sits. Prep it last. Squeeze extra lime juice on top if you need to wait.
+
+Tortillas that tear? Wrap them in a damp towel and warm in the microwave for 20 seconds. They soften. Roll tight or they fall apart while browning in the pan.
+
+Bean paste should cling to a spoon without sticking. If it's too thick, splash in more water and stir. If it's too thin, it keeps simmering until it catches up.
+
+Cheese—sharp cheddar works best here. Monterey Jack is fine too. Smoky cheese if that's what you like.
+
+No jalapeño? Mild poblano works. Or leave heat out entirely. Pico de gallo's bright enough without it.
+
+Heat control on the pan matters. Medium-low sizzle, not a roar. You want browning, not burning. Watch the color. Adjust down if needed.
+
+The garlic smell when it hits hot oil—that's your signal the pan's ready. It should be fragrant and soft, never brown.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Bean Burrito Recipe
+
+**Can I make black bean burritos vegetarian?**
+This whole recipe is vegetarian. Black beans, rice, corn, avocado, cheese—nothing needs meat. Works as a complete meal.
+
+**How long does it take to make a black bean and sweet potato burrito?**
+This version is 1 hour 35 minutes total—40 minutes prep, 55 minutes cooking. Most of that is rice simmering while you do other things.
+
+**Can I prepare bean burritos ahead of time?**
+Assemble them the night before and keep them covered in the fridge. Fry them the next morning. Or cook them fully and reheat dry in a pan. They're actually better the second day.
+
+**What's the best way to reheat black bean burrito leftovers?**
+Pan on medium-low, seam-side down. Few minutes per side until they warm through and the shell crisps again. Don't microwave—it makes them soggy.
+
+**How do I make a vegetarian mexican bowl without burritos?**
+Skip the tortillas. Layer everything in a bowl instead. Rice on bottom. Beans. Corn. Cheese. Avocado. Pico de gallo on top. Cilantro. Squeeze of lime. Sour cream on the side if you want.
+
+**What can I substitute for sharp cheddar in burrito bowls?**
+Monterey Jack is milder and creamy. Queso fresco crumbles on top instead of shredded. Smoky gouda if you want something darker. Swiss works but tastes different.
+
+**Why is my bean burrito falling apart when I cook it?**
+Rolling too loose. Roll tight from the start. Seam-side down in the pan keeps it sealed. If filling is too wet, the tortilla weakens—drier fillings hold better.
+
+**Can I use brown rice for black bean burrito bowl recipes?**
+Brown basmati is what this recipe uses. More nutritious, takes 38 minutes. Regular brown rice is chewier. White rice is faster but not as hearty. Pick what you have time for.
+
+**How do I tell when refried black beans are done?**
+They thicken to a creamy paste. Oil shimmers on the surface. When a spoon dragged through it leaves a trail that stays—that's done. If still runny, keep simmering. If too thick, add water and stir.
