@@ -1,10 +1,10 @@
 ---
-title: "Herbed Cheese Pull-Apart"
+title: "Herbed Cheese Pull-Apart Bread Recipe"
 slug: "herbed-cheese-pull-apart"
-description: "Soft brioche dough stuffed with cubes of a sharp white cheddar and herbs. Dough dipped in an aromatic herb and garlic oil, layered in a bundt pan, proofed, baked to a golden crust. Parmesan sprinkled on top, serve warm or room temp. Easy grab-and-go appetizer style portions. Yeast dough with olive oil, parsley, chives, rosemary infused oil. No eggs or nuts. Slightly altered yeast and hydration for texture. Sharp cheddar swapped in place of mozzarella, thyme replacing rosemary for a different herbal touch. Rise and bake times adjusted five minutes either way to tweak crumb. Button for freezing at cooling stage after baking. 10 to 12 servings from a 3-liter pan."
-metaDescription: "Herbed Cheese Pull-Apart with sharp cheddar, fresh herbs, garlic oil. Soft brioche-style balls baked in bundt pan. Serve warm or room temp. 10-12 portions."
-ogDescription: "Soft dough stuffed with sharp cheddar, dipped in herb garlic oil. Baked in bundt pan, parmesan finish. Pull-apart snack, serve warm or room temp. French-inspired."
-focusKeyphrase: "Herbed Cheese Pull-Apart"
+description: "Soft brioche pull-apart bread with sharp white cheddar cubes, fresh parsley, chives, and thyme in garlic herb oil. Golden, grab-and-go appetizer."
+metaDescription: "Herbed cheese pull-apart bread made with sharp cheddar, fresh herbs, and garlic oil. Soft brioche dough baked in a bundt pan. Make it tonight."
+ogDescription: "Soft brioche pull-apart with sharp cheddar, parsley, chives, and thyme-infused garlic oil. Warm, herby, and irresistible."
+focusKeyphrase: "herbed cheese pull-apart bread"
 date: 2025-07-27
 draft: false
 image: herbed-cheese-pull-apart.jpg
@@ -21,9 +21,16 @@ tags:
 - "party"
 - "brioche"
 keywords:
-- "pull apart bread"
-- "cheese stuffed dough"
-- "herb infused dough"
+- "herbed cheese pull-apart bread"
+- "cheese bread"
+- "brioche pull apart bread"
+- "garlic herb pull apart bread"
+- "sharp cheddar bread"
+- "party appetizer bread"
+- "herbed cheese bread"
+- "pull apart bread recipe"
+- "bundt pan bread"
+- "fresh herb bread"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "300"
@@ -86,3 +93,93 @@ faq:
 - "q: How to store leftovers? a: Keep cool and wrapped to stop crust drying. Room temp for 1-2 days best. Freeze after cooling, wrapped tightly foil or plastic wrap. Thaw slowly at room temp or warm gently in oven before serving to soften cheese pockets without drying dough."
 
 ---
+
+Divide the dough into 35 pieces — some small, some bigger. Stuff each one with sharp cheddar. Dip in herb oil. Stack them in a bundt pan and watch what happens.
+
+## Why You'll Love This Herbed Cheese Pull-Apart
+
+Takes two hours start to finish, but you're mostly waiting. Great for a party because people just pull chunks apart instead of slicing.
+
+Tastes like garlic bread and cheese had a baby. Warm, soft, shiny with herb oil.
+
+Works as an appetizer. Works as bread for dinner. Works cold the next day, maybe better.
+
+The dough's easier than it looks. Thirty-five pieces sounds like a lot until you realize you're just pinching off chunks and stuffing them. No shaping. No braiding.
+
+Brioche dough soaks up all that herb oil without getting greasy. It's how this actually works — the bread drinks it.
+
+## What You Need for Herbed Cheese Pull-Apart Bread
+
+**Herb oil:** Olive oil. Three quarters cup. Mix in chopped parsley, chives, fresh thyme, and grated garlic. Season with pepper. That's it — you're making the flavor foundation.
+
+**For the dough:** Unbleached all-purpose flour. Sugar. Instant yeast. Fine sea salt. Warm water. The basics.
+
+**Sharp cheddar.** Cut into small cubes — not shredded, not chunks. Cubes. They hold their shape when you stuff them into the dough balls, and that matters. You need about 160 grams.
+
+**Parmesan cheese.** Freshly grated. Sprinkle it on at the end. Pre-grated tastes like dust.
+
+**A bundt pan.** Three liters. Non-negotiable. The shape is the whole point — the bread rises around the center, and when you flip it, you get that dramatic hole in the middle.
+
+## How to Make Herbed Cheese Pull-Apart Bread
+
+Combine flour, sugar, yeast, and salt in a mixer bowl. Add warm water slowly. Low speed with the dough hook until you see clumps forming. Then turn it up. Knead six minutes until the dough goes smooth and elastic — you'll feel it stop being ragged and start being... cooperative.
+
+Now the herb oil goes in. Half of what you made, added in three parts. Keep the speed low. Knead a bit between each addition. The dough will absorb all of it, get shiny, get supple. It's weird how much oil it takes without getting slick. Then crank the speed back up. Four more minutes of kneading.
+
+Form it into a ball. Put it in an oiled bowl. Cover with plastic wrap. Let it sit somewhere warm and humid for an hour or until it doubles. Your kitchen probably works. A turned-off oven with the light on works too.
+
+Oil your bundt pan generously while you wait. This matters. Generous.
+
+Once the dough's risen, divide it into roughly 35 pieces. Don't be precious about it. Some small, some slightly bigger — it doesn't matter, the variation actually looks better when it's baked. Stuff each piece with one or two cubes of sharp cheddar. Seal it loosely around the cheese. Shape them into balls without overthinking it. Soft. Loose. Done.
+
+Dip each ball into the remaining herb oil. Coat it well. Layer them in the bundt pan, leaving small gaps between — not packed tight, just layered. Pour whatever oil's left in the bowl over the top. Cover with plastic again. Let it rest 40 minutes at room temperature.
+
+Or chill it overnight up to eight hours. That's actually better if you have time. Cold dough bakes more evenly.
+
+## How to Get Garlic Herb Pull Apart Bread Golden Brown
+
+Center rack. Preheat to 175°C (347°F). If your bundt pan is dark — the nonstick kind — watch closer, maybe pull it at 40 minutes. Light-colored pans take 45. Golden brown means golden brown, not pale, not dark.
+
+The moment it comes out, invert the pan onto a baking sheet. Don't wait. The bread needs to release while it's hot or it sticks. Wait five minutes. Then gently pull the pan away.
+
+Let it cool 15 minutes before serving. Or cool it completely if you're going to freeze it later.
+
+Sprinkle with freshly grated Parmesan the second it comes out of the pan or right after you invert it. The heat helps it stick.
+
+Serve warm or at room temperature. Both work. Freeze it wrapped tight if you're not eating it same day.
+
+## Brioche Pull Apart Bread Tips and Common Mistakes
+
+The herb oil needs to actually coat every ball. Don't skimp. The oil is how this becomes soft and flavorful — without it, it's just bread.
+
+Stuff the cheese inside. Don't sprinkle it in the pan. If it's loose, it melts out and pools at the bottom and burns. Inside the dough, it stays where it belongs.
+
+Don't overproof the second time. Forty minutes is right. Overnight is fine if you refrigerate. But if you let it sit at room temperature for two hours, it over-rises and collapses weird in the oven.
+
+The dough should be soft. Not sticky, but soft. If it's fighting you, it's too cold. If it's slipping everywhere, it's too warm. You want something that holds together but feels alive in your hands.
+
+If you don't have a bundt pan, a round cake pan works. Just less dramatic when you invert it.
+
+The thyme matters less than the garlic. If you don't have fresh thyme, skip it. Don't use dried. Dried tastes like nothing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Herbed Cheese Pull-Apart
+
+**Can I make this dough without a mixer?**
+Yeah. Hand knead it for longer — maybe 10 minutes to start, then 6 after the oil. Your arms get a workout. The dough's easier to work with once the oil's in, actually. Less resistance.
+
+**How long does leftover bread last?**
+Three days wrapped up. After that it goes stale. Freezes for a month though. Thaw it wrapped so it doesn't dry out, then warm it in a low oven.
+
+**What if I don't have sharp cheddar?**
+Gruyère works. Emmental works. Not mozzarella. Not mild cheddar. You need the actual flavor. Mild tastes boring in this.
+
+**Can I chill it overnight?**
+Yes. Preferred, actually. Cold dough's more stable, rises more evenly. Just take it out 20 minutes before baking so it's not ice cold going in.
+
+**Why does the recipe make 35 pieces specifically?**
+Honestly? That's the number that fits a three-liter bundt pan with slight gaps. More, and you're stacking too tight. Fewer, and there are big holes. Give or take a few pieces, you're fine.
+
+**Do I have to use a bundt pan?**
+No, but it's why this works. The hole in the middle makes it look special. You could bake it in a round cake pan, but it's just bread at that point. Not as much of a party moment.
