@@ -1,10 +1,10 @@
 ---
-title: "Funfetti Oreo Cookie Bars"
+title: "Chocolate Chip Cookie Bars with Oreos"
 slug: "funfetti-oreo-cookie-bars"
-description: "A mash of flours and Oreos makes cookie bars dense but tender. Butter whipped light, eggs added slow. White chocolate chips with rainbow sprinkles cut through sweetness. Baking’s a delicate balance—too long and edges crisp hard, too short and dough stays gummy. Breaking Oreos on top adds crunch contrast. Cooling is crucial. Use tactile and visual cues to find that sweet spot. Cake batter flavor swapped for vanilla almond extract for nutty depth. Split mixing of dry and wet cuts down overmix risk. Dust kitchen with sweet aroma, sprinkle colors pop. Hands-on pressing gets even thickness. The bars hold shape without toughness. Substitutions and fixes included for all kitchen mishaps."
-metaDescription: "Dense yet tender Funfetti Oreo Cookie Bars with white chocolate chips and rainbow sprinkles. Careful mixing, crushing Oreos on top, cool fully before cutting."
-ogDescription: "Crunchy Oreo topping meets soft, chewy cookie bars speckled with white chocolate chips and sprinkles. Watch edges, smell vanilla—read sensory cues."
-focusKeyphrase: "Funfetti Oreo Cookie Bars"
+description: "Chocolate chip cookie bars made with white chocolate chips, Oreos, and rainbow sprinkles. Creamy butter and eggs create tender, dense bars that stay soft without being gummy."
+metaDescription: "Make chocolate chip cookie bars with white chocolate chips, crushed Oreos, and rainbow sprinkles. Tender, chewy bars with perfect texture. Try it tonight."
+ogDescription: "Tender chocolate chip cookie bars loaded with white chocolate chips, Oreos, and colorful rainbow sprinkles for a fun, festive treat."
+focusKeyphrase: "chocolate chip cookie bars"
 date: 2025-10-12
 draft: false
 image: funfetti-oreo-cookie-bars.jpg
@@ -21,9 +21,18 @@ tags:
 - "dessert"
 - "comfort food"
 keywords:
+- "chocolate chip cookie bars"
+- "chip cookie bars"
 - "oreo bars"
-- "cookie bars"
-- "funfetti bars"
+- "white chocolate chip cookies"
+- "rainbow sprinkle cookies"
+- "cookie bar recipe"
+- "homemade cookie bars"
+- "soft cookie bars"
+- "oreo cookie bars"
+- "white chocolate cookies"
+- "sprinkle cookies"
+- "buttery cookie bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "210"
@@ -73,3 +82,95 @@ faq:
 - "q: How to store leftovers? a: Airtight container room temp fine for 4 days, fridge keeps longer but dry faster. Freeze well wrapped tight. Reheat slightly to soften cut edges but avoid microwave if possible—chips melt unevenly, mess up texture."
 
 ---
+
+Butter and sugar creamed until light. Eggs go in. Then flour—slow, quiet, no rush. Oreos crushed through the dough, white chocolate chips scattered, rainbow sprinkles pressed into the top. Bake low and slow at 320°F so the edges set but the center stays soft. That's the whole thing.
+
+## Why You'll Love These Chocolate Chip Cookie Bars
+
+Takes 20 minutes to throw together if you're not moving slowly, then another 18 in the oven. Means you get dessert before dinner even finishes.
+Comfort food but less work than actual cookies. One pan. Cut into squares. Done.
+The texture thing—crispy edges, chewy middle, crunchy Oreo bits on top. Tastes like someone spent time on it. You didn't.
+Room temperature stays good for four days. Freeze them wrapped and they last way longer. Works either way.
+White chocolate and sprinkles make it feel like a party happened. Kids eat these. Adults do too.
+
+## What You Need for Chocolate Chip Cookie Bars
+
+All-purpose flour—one and a quarter cups. Cake flour handles the other three quarters. Cake flour keeps things tender; straight all-purpose gets tough.
+Cornstarch. Just two tablespoons. Changes the structure so the middle doesn't bake solid.
+Baking soda and baking powder. Half teaspoon each. Different jobs, same direction.
+Fine sea salt. Not kosher, not coarse. Fine. Half teaspoon.
+Unsalted butter, softened. One cup. Cold butter won't cream right, and salted butter throws off the salt balance.
+Sugar. One and a quarter cups of granulated. Not brown. Granulated gives you the crisp edges.
+Eggs—two whole ones, then two more yolks. The yolks matter. They make it richer without adding more whites, which would make it rise too much.
+Vanilla almond extract. One teaspoon. Regular vanilla works if you don't have almond, but almond tastes like something.
+Oreo cookies. Twenty-five total. Fifteen get chopped into the dough, ten crumbled on top. Cookie sugar with sprinkles already built in.
+White chocolate chips. One cup. Melts slightly and holds everything together.
+Rainbow sprinkles. Quarter cup. Visual thing, mostly. Tastes fine but you're really here for the texture pop.
+
+## How to Make Chocolate Chip Cookie Bars
+
+Set the oven to 320. Not 350. This low heat slows the browning down. Means the middle stays moist while the edges firm up. Takes longer, tastes better.
+
+Get a large bowl. Whisk flour—both kinds—with cornstarch, baking soda, baking powder, and salt. Just mix it until you don't see pockets of anything. No lumps hiding in there. This is where the structure lives.
+
+Butter and sugar go into a stand mixer. Medium speed, about three minutes. You want it light and fluffy, no gritty sugar spots hanging around. Scrape down the sides halfway through or the top doesn't blend with the bottom.
+
+Add the eggs and egg yolks and vanilla almond extract. Mix on medium until everything merges. Don't overbeat or the bubbles collapse and you lose that tender thing. Spatula clears the paddle blade if dough sticks. Don't let it sit there.
+
+Slow the mixer down. Pour in the flour mixture quarter cup at a time. Mix until combined after each addition. This part takes actual restraint. Stop as soon as the streaks disappear. Overworking means tough bars. Not worth it.
+
+Fold in the chopped Oreos, white chocolate chips, and sprinkles by hand or a brief low-speed mix. Keep the bits intact so they stay distinct when you bite into it.
+
+Spray a 9x13 pan. Press the dough in evenly using clean hands or the flat base of a measuring cup. Uniform thickness means everything bakes at the same rate.
+
+Crumble the remaining ten Oreos and press them onto the dough surface. Adds crunch and looks like you thought about it.
+
+## Getting the Texture Right on Cookie Bars
+
+Bake for 18 to 20 minutes. Watch the edges. They should set and turn pale gold. Center stays moist—a toothpick poked in there comes out with crumbs clinging to it, not wet batter, but not clean either. You'll hear gentle crackling sounds and smell rich vanilla and baked sugar aromas drifting out. That's the signal.
+
+Cool completely in the pan before cutting. Doesn't matter if you're impatient. Cutting sooner leads to a saggy mess that falls apart. Cool, then cut. Takes an hour, give or take.
+
+Storage is easy. Airtight container at room temperature keeps them good for four days. Refrigerate if you live somewhere hot. Wrap and freeze them and they'll sit for months. Tastes fine either way, maybe better after a day when flavors settle.
+
+## Chocolate Chip Cookie Bars Tips and Common Mistakes
+
+Don't skip the cake flour. All-purpose alone gets dense. The cake flour mix is what keeps it tender.
+
+Creaming matters. Light, fluffy butter and sugar trap air. Rush this and the bars get flat. Three minutes minimum.
+
+The 320°F temp isn't a typo. Lower heat means slower edge browning. Center gets time to set gently instead of racing ahead. If your oven runs hot, watch it closer. Every oven's different.
+
+White chocolate melts easier than dark chocolate. That's fine. It holds the mix together and tastes like something sweet without chocolate overpowering everything.
+
+Oreos on top stay crunchier than the ones mixed in. The ones in the dough soften slightly. Both textures matter.
+
+Don't overbake chasing dark color. Pale is correct here. Dark means dry, and dry means nobody wants seconds.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Chip Cookie Bars
+
+**Can you use dark chocolate chips instead of white chocolate?**
+Yeah. Changes the taste completely, but it works. Dark's stronger, so white chocolate chips taste like nothing next to it. Your call.
+
+**How long does this actually take from start to eating?**
+Twenty minutes prep, eighteen minutes bake, then cooling. You're looking at an hour and a half minimum before cutting. Maybe twenty minutes more if your kitchen's cold.
+
+**Can you freeze the dough before baking?**
+Haven't tried it. Probably works if you thaw it first, but I just bake and freeze the bars instead. Easier.
+
+**What if you don't have vanilla almond extract?**
+Regular vanilla extract does the job. Won't taste exactly the same—almond adds something subtle—but fine on its own.
+
+**Why does it say bake at 320°F instead of 350?**
+Edges brown too fast at 350. Center stays raw. 320 gives everything time to bake evenly. The middle sets but stays soft.
+
+**Do you have to use Oreos?**
+Not really. Any cookie works. Crush up something good and fold it in. Reese's Pieces, Thin Mints, whatever. Changes the whole thing but it still works.
+
+**Can you make these into actual cookies instead of bars?**
+Could scoop them onto a sheet, yeah. Takes longer to bake individual cookies though. Bars are faster.
+
+**How do you get them out of the pan cleanly?**
+Cool completely first. Run a knife around the edges. Let them sit another ten minutes. Then cut. Parchment paper underneath helps too if you think ahead.
