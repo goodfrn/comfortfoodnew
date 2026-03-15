@@ -1,9 +1,9 @@
 ---
-title: "Jasmine Tapioca Kiwi"
+title: "Jasmine Tapioca Kiwi Dessert with Coconut Cream"
 slug: "jasmine-tapioca-kiwi"
-description: "Tapioca pearls steeped in fragrant jasmine-infused cream, paired with golden kiwi chunks. Uses plant milk and a twist with coconut cream instead of dairy. Infuse tea slowly, watch tapioca swell to translucent pearls. Chill well. Serve topped with tangy yogurt and drizzled honey, balancing creamy, sweet and fresh notes. Textures play well—soft tapioca, silky cream, and fresh kiwi pop."
-metaDescription: "Jasmine Tapioca Kiwi with fragrant tea-infused cream, soft tapioca pearls, and fresh golden kiwi. Plant-based, creamy treat, chilled with yogurt and honey drizzle."
-ogDescription: "Soft tapioca pearls soak jasmine tea notes, coconut cream, and golden kiwi chunks. Chill well, top with yogurt and honey for a creamy fresh bite."
+description: "Jasmine tapioca dessert made with oat milk, coconut cream, and golden kiwi chunks. Silky tapioca pearls infused with jasmine tea, topped with yogurt and honey for a fresh, creamy treat."
+metaDescription: "Jasmine tapioca dessert with coconut cream, oat milk, and golden kiwi. Plant-based tapioca pudding that's easy to make. Try it tonight."
+ogDescription: "Creamy jasmine tapioca pudding with coconut cream, tapioca pearls, and golden kiwi chunks. Plant-based and no-bake."
 focusKeyphrase: "jasmine tapioca kiwi"
 date: 2025-09-28
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "no bake"
 - "dessert"
 keywords:
-- "tapioca pearls"
-- "jasmine tea"
-- "golden kiwi"
+- "jasmine tapioca kiwi"
+- "tapioca dessert"
+- "coconut cream dessert"
+- "jasmine tea tapioca pearls"
+- "plant based tapioca pudding recipe"
+- "tapioca kiwi with coconut cream"
+- "no bake dessert"
+- "jasmine infused tapioca"
+- "coconut milk tapioca pudding"
+- "honey drizzled tapioca dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"
@@ -62,3 +69,81 @@ faq:
 - "q: How store leftovers? a: Keep refrigerated, airtight container only. Tapioca pudding thickens in fridge and firms up more overnight. Consume within 24 hours—can ferment or sour if left longer especially with yogurt topping. Re-stir well before serving. Add milk splash if too stiff. Avoid freezing, pearls lose texture."
 
 ---
+
+Drop the tea bags in, steep for 12 minutes. That's when the jasmine hits—floral and a little bit earthy, coating everything. The tapioca's already sitting there soaked and swollen, waiting. Then you mix it all together and suddenly you've got this creamy, glossy thing that tastes like nothing else. Takes 35 minutes total if you count the chilling, but most of that's hands-off.
+
+## Why You'll Love This Jasmine Tapioca Kiwi Dessert
+
+No bake component. The tapioca soaks while you steep the tea. Literally just stirring for a few minutes—that's the whole cooking part. Coconut cream makes it rich without being heavy. The jasmine's subtle. Not overwhelming. Just there.
+
+Golden kiwi at the end brings this bright tartness. Works against the sweetness. Honey drizzle or skip it—doesn't matter. Vegetarian obviously, but also plant-based milk means vegan if you use coconut yogurt instead. Tried it with regular yogurt. Also tried it with coconut. Both work. Chills for 3 to 4 hours so you can make it in the morning, eat it when you want.
+
+Cleanup's basically nothing—two pots, a bowl, a spoon.
+
+## What You Need for Coconut Cream Tapioca
+
+Oat milk. Two cups, split into 500 ml soaked with the tapioca and the rest heated with the coconut cream. Oat milk thickens slightly as it heats—that matters. Almond milk feels thinner.
+
+Quick-cooking tapioca pearls. About 40 grams. Regular tapioca takes forever. These swell in 15 minutes sitting in cold milk. Golden kiwis. Four of them. Green kiwi's sharper. Golden's rounder, almost like mango flavor. You can use regular kiwi. Just tastes different.
+
+Coconut cream. The thick kind from a can, 150 ml. Not coconut milk. Creamier. Sugar—70 grams, less than a third of a cup. Jasmine tea bags. Four of them. Steep them 12 minutes exactly. Longer and it turns bitter. Shorter and you barely taste it.
+
+Plain yogurt. Dairy or plant-based, 125 ml. Dolloped on top. Honey or agave for drizzling. Or don't drizzle. It's sweet enough without it.
+
+## How to Make Jasmine Tapioca Pudding
+
+Start with the tapioca and cold milk. Pour 500 ml oat milk into a bowl. Add the 40 grams of quick-cooking tapioca pearls. Just stir it once so nothing clumps immediately. Let it sit. Watch the pearls. They'll swell and turn translucent as they soak. This takes about 15 minutes. Don't rush it. Mushy tapioca tastes like nothing.
+
+Meanwhile, get your saucepan going. Pour the remaining oat milk in—that's about 250 ml left—and the coconut cream. 150 ml. Add the 70 grams of sugar. Medium heat. You're not boiling this, just bringing it close. You'll see tiny bubbles cluster around the edges. Sugar dissolves without any sound. That's when you know it's ready.
+
+Kill the heat. Drop all four jasmine tea bags in. Don't squeeze them yet. Let them steep for 12 minutes. The whole kitchen smells different now—that floral, almost woody jasmine scent filling everything. At 12 minutes, lift each bag out gently, press it against the side of the pan with a spoon. Squeeze out the tea. Discard the bags.
+
+## How to Get Jasmine Tapioca with Golden Kiwi Creamy and Perfect
+
+Now pour the infused cream mixture into the bowl with the soaked tapioca. Medium heat again. This is where you stir constantly. Not aggressively—just steady, slow circles. The tapioca's going to thicken. The pearls turn glossy and translucent. They should have a tiny bit of resistance when you bite them, not soft all the way through. This part takes about 4 minutes. Maybe 5 if your heat's lower. Watch for the mixture to become visibly thicker, coating the back of a spoon.
+
+Once it looks right, off heat. Here's the important part—you've got to cool it down stirring occasionally. Twenty minutes. You're preventing a skin from forming on top. Just stir every few minutes. Gentle. Then transfer everything into a bowl, press plastic wrap directly onto the surface so nothing can touch it, and put it in the fridge. Three to four hours minimum. Cold tapioca tastes completely different from warm. Creamier. More sophisticated somehow.
+
+Before you serve it, give it a stir to loosen it up. It'll have set slightly. Spoon it into bowls. Dollop the yogurt on top—cold yogurt on cold tapioca works. Scatter the golden kiwi pieces over everything. Honey or agave syrup if you want it. Drizzle a little or don't. The kiwi's already sweet and bright.
+
+## Jasmine Tapioca Pearls Tips and Common Mistakes
+
+Temperature matters more than time. If your heat's too high early on, you'll get mushy tapioca instead of that glossy, slight bite. Medium heat. Stay there.
+
+The tapioca soak time is non-negotiable. Fifteen minutes minimum. Shorter and the pearls stay hard. Longer than 20 minutes though and they start dissolving. Not actually a disaster, just less texture.
+
+Don't skip the plastic wrap on the surface while it chills. A skin forms instantly on tapioca. Plastic wrap blocks it. You'll thank yourself.
+
+Golden kiwi specifically—tried this with green kiwi twice. Less good. Green's too tart for something this creamy and coconut-forward. Golden tastes like it belongs here.
+
+Jasmine steep time. Twelve minutes. Not ten, not fifteen. Shorter and the flavor's whisper-quiet. Longer and you taste bitterness creeping in. Twelve is the sweet spot.
+
+If you want this faster, you could skip the chilling. It's edible at room temperature after cooling for 20 minutes. Texture's different though. Less silky. Less good. Worth the wait.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Jasmine Tea Tapioca Pudding
+
+**Can I make this ahead?**
+Yeah. Make it the day before. Store it covered. Stir it when you're about to eat. Stays good for maybe three days before it starts to get weird. The yogurt and kiwi go on fresh though—don't prep those ahead.
+
+**What if I don't have golden kiwis?**
+Use regular green kiwis. Tastes sharper. Some people like that better. Mango chunks work if you want something different. So does fresh pineapple. Not the same dessert, but still good.
+
+**Can I use regular milk instead of oat milk?**
+Dairy milk works. Coconut milk works. Almond milk gets too thin—texture suffers. Oat milk's thicker, which is why it works best here.
+
+**What's the point of the quick-cooking tapioca?**
+Regular tapioca takes 30 minutes to soften. Quick-cooking does it in 15. If you've only got regular, soak it longer. Maybe 30 minutes in the cold milk. Still works.
+
+**Do I have to chill it?**
+Technically no. You could eat it at room temperature after cooling. It won't have the same silky feel though. It's thinner. If you're in a rush, go for it. But chilled is better.
+
+**Can I use a different tea?**
+Chamomile works. Green tea works. Not jasmine and nothing tastes the same. The whole dessert's built around jasmine. Switch that out and you've got a different thing entirely.
+
+**Does this work without the yogurt?**
+Yeah. It's creamier with it, but the tapioca itself is already creamy. Yogurt's just a texture contrast. Skip it if you want.
+
+**How much honey should I drizzle?**
+Doesn't really matter. Depends on how sweet you like things. Drizzle a teaspoon. Taste it. Add more if you want. Some people don't drizzle at all and the golden kiwi's sweet enough. Your call.
