@@ -1,9 +1,9 @@
 ---
-title: "Baked Pizza Tortellini Casserole with Sausage"
+title: "Tortellini Casserole with Sausage & Pepperoni"
 slug: "baked-pizza-tortellini"
-description: "Layered tortellini casserole with browned sausage, pizza sauce, and melted cheddar cheese. Pepperoni and optional toppings make this hearty comfort dish bubbling and golden."
-metaDescription: "Baked pizza tortellini casserole recipe with Italian sausage, cheese, and pepperoni. Bold, cheesy, and ready in one dish. Try it tonight."
-ogDescription: "Layered tortellini casserole with browned sausage, pizza sauce, and melted cheese. Comfort food that actually delivers."
+description: "Cheesy tortellini casserole layered with browned Italian sausage, pizza sauce, mozzarella, and pepperoni. This comforting baked dish feeds a crowd."
+metaDescription: "Tortellini casserole recipe with Italian sausage, pizza sauce, and melted mozzarella cheese. Quick comfort food for families. Try it tonight."
+ogDescription: "Layered tortellini bake with sausage, pepperoni, and mozzarella cheese baked until golden and bubbling."
 focusKeyphrase: "tortellini casserole"
 date: 2026-01-05
 draft: false
@@ -25,7 +25,14 @@ keywords:
 - "cheese tortellini bake"
 - "baked tortellini casserole"
 - "pizza tortellini bake"
+- "tortellini bake with ground beef"
+- "cheesy tortellini bake"
 - "easy tortellini bake"
+- "ground beef tortellini casserole"
+- "recipe for tortellini casserole"
+- "tortellini casserole recipe"
+- "sausage tortellini bake"
+- "pepperoni tortellini casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "810"
@@ -67,3 +74,82 @@ faq:
 - "q: Can I store leftovers? a: Refrigerate in air-tight container 3-4 days. Reheat covered in oven or microwave but cheese top softens. Freeze raw mix before baking also possible, thaw overnight then bake slightly longer. Reheating sometimes dries sausage, add splash sauce if needed."
 
 ---
+
+Pound of sausage, tortellini uncooked straight from the bag, everything in one dish. That's the whole thing. Twenty minutes to prep, twenty-three in the oven, and you've got dinner that tastes like it took way longer than it did.
+
+## Why You'll Love This Tortellini Casserole
+
+Comfort food that actually works on a weeknight. Not some someday project. Make it Tuesday, eat it Wednesday too.
+Tastes like pizza and pasta had a kid. Sausage, pepperoni, mozzarella melting into everything. You get that melted-cheese satisfaction without turning on the grill.
+The casserole sits there looking like it's restaurant-quality — bubbly edges, golden cheese on top. Isn't complicated. Mostly isn't.
+Leftovers might be better cold the next day, or reheated. Haven't totally decided.
+
+## What You Need for This Cheesy Tortellini Bake
+
+A pound of refrigerated cheese tortellini — the kind in the pasta aisle, uncooked. Don't use frozen, doesn't cook right. Pizza sauce. Regular jarred stuff works. One cup.
+
+Condensed cheddar cheese soup. That's the binder. Makes it creamy without using cream. Swap it for mushroom soup if you want something earthier — totally different vibe but works.
+
+Italian sausage, ground. One pound. Brown it yourself in the pan — way better than the pre-browned kind.
+
+Half a large onion, diced. Three garlic cloves, minced. Salt. Not much — half a teaspoon.
+
+Mozzarella cheese, shredded. A full cup. Split it — half goes in the mix, half on top.
+
+Three-quarters cup sliced pepperoni. It's the flavor hit. The tiny crispy edges matter.
+
+Optional: olives, mushrooms, green peppers, Canadian bacon. You don't need them. Try them anyway if you feel like it.
+
+Nonstick cooking spray for the pan.
+
+## How to Make a Tortellini Casserole
+
+Heat the oven to 340. Get a 13-by-9 baking dish and spray it — light coating, just enough so the cheese doesn't glue the casserole to the pan when it bakes.
+
+Brown the sausage in a skillet over medium heat. Add the diced onion while it cooks. Break the sausage into small pieces as it goes — don't let it stay in chunks. Stir it every couple minutes. Watch the onion edges, they'll char if you let them sit too long. This takes about 5 minutes.
+
+Once the sausage is actually brown and there's no pink anymore, add the garlic. Minced, right? Let it sit there for a minute and a half. That's it. Just enough time for it to smell like garlic instead of raw. Any longer and it burns and tastes bitter. Tilt the pan to drain off the grease that pooled at the bottom. Use a spoon if you want, push the sausage to the side and let it run.
+
+## How to Get This Baked Tortellini Casserole Right
+
+Get a big bowl. Dump the uncooked tortellini in. Pour in the pizza sauce. Add the cheese soup — cheddar or mushroom, whatever you picked. Throw in the sausage mixture, three-quarters of the pepperoni, and half the mozzarella. Salt it now. Stir until everything's coated. The pasta pieces should be touching sauce, the sausage should be spread through, not in clumps. The mixture gets thick. Chunky. That's right.
+
+Transfer it all to the baking dish. Spread it out so it sits level. Scatter the rest of the mozzarella on top like a blanket. Drop the remaining pepperoni pieces across the surface — they'll crisp up and char slightly under the cheese. Add any optional toppings now if you're using them.
+
+Slide it into the oven. Twenty-three minutes minimum. Could go to twenty-eight depending on your oven, but watch it. You're looking for the edges to bubble up and the cheese on top to turn golden. Not brown. Golden. The tortellini softens but stays springy — poke one with a fork partway through and you'll feel it.
+
+When it comes out, the kitchen smells like melted cheese and sausage and toasted pepperoni. Let it rest five minutes. Sounds weird but it firms up enough that when you scoop it, it doesn't fall apart on the plate.
+
+## Tortellini Casserole Tips and Common Mistakes
+
+Don't use frozen tortellini. The water inside them doesn't cook out right and the casserole gets watery.
+
+Brown the sausage properly. If you skip this or rush it, you get gray meat instead of brown, and it doesn't taste like much.
+
+The soup is the entire point of why this works as a casserole instead of just baked pasta that's dry. Don't skip it. Don't substitute it with heavy cream or milk — totally different thickness.
+
+If your oven runs hot, it might finish in twenty minutes. If it runs cold, push it to twenty-five or so. Every oven is different. Watch the cheese — that's your timer, not the minutes.
+
+Pepperoni pieces add actual flavor and crispness. They're not decoration. Don't skip them.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baked Tortellini Casserole
+
+**Can I make this with chicken instead of sausage?**
+Yeah, works fine. Ground chicken tastes lighter but still tastes like something. Brown it the same way. Maybe add extra garlic so it doesn't fade.
+
+**What if I don't have cheddar cheese soup?**
+Mushroom's the swap I'd do — earthier, still creamy. Could try tomato soup but it changes the whole thing. Haven't tested cream of chicken. Probably fine.
+
+**Does it work with spinach tortellini?**
+Absolutely. Different flavor direction but it still works. The sausage and pepperoni stay the same.
+
+**Can I freeze it before baking?**
+Spray the dish, assemble everything, wrap it tight, throw it in. Thaw it overnight in the fridge or bake it straight from frozen — add five or six minutes. Cheese still melts right.
+
+**Do I have to use refrigerated tortellini?**
+The kind in the pasta aisle, uncooked? Yeah. Frozen ones have too much moisture. Dried tortellini takes too long and doesn't get tender in the time the casserole bakes. The refrigerated kind is built for this.
+
+**What if there's grease pooled on top after baking?**
+Tilt the dish and soak it up with a paper towel. It happens sometimes depending on the sausage. Not a problem, just pull it off.
