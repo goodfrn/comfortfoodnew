@@ -1,10 +1,10 @@
 ---
-title: "Frozen Wine Slushie Remix"
+title: "White Sangria Recipe with Strawberry & Pineapple"
 slug: "frozen-wine-slushie"
-description: "Frozen wine slushie made with white wine, simple syrup, and frozen fruit. Two fruit flavors combined in layered glasses. Simple syrup sweetens but no need to go overboard. Frozen fruit blends with ice for refreshing texture. Chill white wine beforehand for best consistency. Easy substitution with agave syrup or honey if you lack granulated sugar. A quick blitz in the blender gets it icy without melting. Knowing when sugar’s dissolved visually and from slight syrupy thickness key here. Layer strawberry and pineapple blends for contrasting sweet-tart layers. Visual and textural contrast makes the sip rather engaging. Garnish adds aroma and the whole thing drinks like chilly, fruity wine punch. 6 servings typically, but bigger glasses? Expect fewer. Nutrients from fruit and wine mostly carbs and some potassium. Low fat, low protein. Balance sweetness if fruit varies."
-metaDescription: "Frozen Wine Slushie Remix mixes chilled white wine, agave syrup, and frozen fruit for layered icy sips. Learn layering and blending tricks to balance tart and sweet."
-ogDescription: "Chilled white wine meets frozen strawberries and pineapple. Layered slush blends with agave syrup for icy, fruity contrast. Quick prep; sensory cues key."
-focusKeyphrase: "frozen wine slushie"
+description: "White sangria recipe using frozen strawberries, pineapple chunks, and dry white wine blended into a refreshing frozen slushie. Layered in glasses for visual appeal."
+metaDescription: "Make this white sangria recipe with frozen strawberries and pineapple chunks layered in glasses. Blend with white wine and agave syrup. Try it tonight."
+ogDescription: "Frozen white sangria with strawberry and pineapple slushie layers. Chill white wine and blend with fresh fruit for an easy refreshing cocktail."
+focusKeyphrase: "white sangria recipe"
 date: 2026-01-30
 draft: false
 image: frozen-wine-slushie.jpg
@@ -21,9 +21,18 @@ tags:
 - "party"
 - "no bake"
 keywords:
-- "frozen wine"
-- "white wine slushie"
-- "fruit slush cocktail"
+- "white sangria recipe"
+- "white sangria"
+- "wine slushie recipes"
+- "white wine cocktails"
+- "frozen strawberry cocktail"
+- "pineapple white sangria"
+- "wine slushie"
+- "fruit slushie"
+- "layered cocktails"
+- "white wine spritzer"
+- "refreshing sangria"
+- "easy sangria recipe"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "210"
@@ -62,3 +71,59 @@ faq:
 - "q: Storage options? a: Best fresh, but if storing, keep in freezer shallow container. Stir every 10 minutes to avoid separation. Avoid fridge; melts slush texture fast. If melted, remix and refreeze quickly. Use glass measuring cups with spouts for syrup to prep efficiently."
 
 ---
+
+Pour the water in a microwave-safe container. Fifty seconds. Watch for the small bubble stage — that's the sweet spot, not a full boil. Remove it carefully. Agave goes in now, and you stir until it thickens just slightly and clears. Set it aside to cool while you get the blender ready.
+
+## Why You'll Love This White Sangria
+
+Takes 8 minutes total. Literally no cooking involved after that first microwave heat.
+Works as a party drink that doesn't require bartending skills or complicated equipment — just a blender and frozen fruit.
+Cold white wine stays cold because you're blending it with frozen strawberries and pineapple, so the drink actually stays icy without watering down.
+Tastes like summer. Citrusy pine from the pineapple, berry sweetness, that unexpected ginger warmth if you add it.
+Makes enough for four people, or you can drink it yourself over the next few minutes before it melts.
+Cleanup is basically nothing. Rinse the blender. Done.
+
+## What You Need for White Sangria
+
+Water. Half a cup. Agave syrup instead of sugar — dissolves cleaner, less grainy when everything's cold. Two cups frozen strawberries. Don't buy them fresh and freeze them; frozen ones stay firmer. A cup of dry white wine. Doesn't have to be expensive. Two cups frozen pineapple chunks. Fresh pineapple thawed turns to mush. Ice cubes. A cup. Ginger, optional but worth it — half a teaspoon, fresh grated. Changes the whole thing if you use it. Fresh strawberries and pineapple wedges for the top.
+
+## How to Make White Wine Sangria
+
+Heat the water. Fifty seconds in the microwave. Small simmer, not boiling over. Add the agave syrup and stir until it thickens slightly and clears — no sediment sitting on the bottom. Let it cool while you work. This is your syrup base.
+
+Pour the wine into the blender first. Add the frozen strawberries — all two cups. Drop in the ice. If you're using ginger, add it now. A quarter cup of your cooled syrup goes in next. The cold syrup actually helps chill everything faster and balances the tartness of the fruit. Hit it on high or smoothie mode. Two and a half minutes. But stop and check the texture. You want velvety but still icy. No lumps. Listen for the clanking to fade. When the puree sounds soften, you're close. Over-blending makes it too thin and you lose that slush texture. If it's too thick, add a splash of cold water or more wine. Too thin, add more frozen fruit or ice. Trust what you see more than a stopwatch.
+
+## How to Layer White Sangria Perfectly
+
+Rinse the blender. Now do the pineapple batch. Same thing — one cup wine, two cups frozen pineapple, one cup ice, syrup. Skip the ginger this time. Pure tropical. Blend shorter here, about one minute forty-five seconds. Keep it cold. Don't let it sit or a watery layer separates.
+
+Glasses ready. Spoon half a cup of strawberry slushie to the bottom. Then gently layer half a cup of pineapple on top. The color contrast is visual gold. Use the back of a spoon to keep the layers separate, don't just pour. Fresh strawberry half and pineapple wedge on the rim. The smell hits first — citrusy pine and berry sweet all at once.
+
+## White Sangria Tips and Storage
+
+Serve it immediately. Slushies melt fast and lose texture. If you need to hold it, keep it in the freezer but stir every ten minutes so it stays even. Don't blend more than two minutes or the whole thing gets too thin. The frozen fruit is doing the work, not aggressive blending. Ginger is optional but it works. Really works. Most people don't expect it. Some white wine sangria recipes use fresh fruit instead of frozen — don't do that. Fresh thaws and turns to pulp.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About White Sangria Wine
+
+**Can you make this ahead of time?**
+Not really. The slush melts. You can make the syrup the night before and keep it in the fridge. You can freeze the fruit batches in the blender containers and just hit blend when you need them. But the actual drink itself needs to happen right before serving.
+
+**What if you don't have agave syrup?**
+Regular sugar works but it doesn't dissolve as clean. You'll feel graininess. Honey's too thick. Simple syrup if you have it. Otherwise just use sugar and stir longer.
+
+**Does the ginger really matter?**
+No. But yes. It's optional but it changes everything. Adds a warm note that makes the fruit taste sharper somehow. You don't taste ginger specifically — it just works in the background.
+
+**Can you use fresh strawberries and pineapple instead of frozen?**
+Technically. But they thaw as they blend and the whole thing gets watery and thin. Frozen is the right move. They stay firm. They chill the wine. It works.
+
+**What kind of white wine?**
+Something dry. Sauvignon Blanc, Pinot Grigio, something like that. Not sweet wine. Not expensive. You're blending it with fruit anyway.
+
+**How long does this keep in the freezer?**
+A few hours if you stir it every ten minutes. After that it separates and gets weird. Make it fresh each time.
+
+**Can you double this recipe?**
+Yeah. Just double everything and work in batches. Two batches strawberry, two batches pineapple. It'll take longer total but same process.
