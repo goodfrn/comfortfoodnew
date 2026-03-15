@@ -1,10 +1,10 @@
 ---
-title: "Grilled Beef Fillet Garlic Butter"
+title: "Grilled Beef Fillet with Garlic Butter Mushrooms"
 slug: "grilled-beef-fillet"
-description: "Beef fillets seasoned and grilled over medium-high heat till just right. Sautéed leeks, garlic, and mushrooms cooked in butter and olive oil create a rustic bed beneath juicy steaks. A twist of cognac butter replaced brandy for depth. Watch for color, texture shifts not just time. Rest meat to lock juices. Swap mushrooms for cremini or shiitake. Butter or oil tweaked slightly for sizzle control. Avoid overcooking or dry leeks by gentle sauté. Perfect mid-week upgrade—simple ingredients, big flavors, no fluff."
-metaDescription: "Grilled beef fillet with garlic cognac butter, seared medium rare atop sautéed leeks and mushrooms. Real texture, aroma cues guide timing and resting."
-ogDescription: "Beef fillets grilled medium rare with garlic cognac butter, sautéed leeks and mushrooms. Watch sizzle, color shifts, rest meat for juicy results."
-focusKeyphrase: "Grilled beef fillet garlic butter"
+description: "Grilled beef fillet topped with garlic butter and sautéed cremini mushrooms, leeks, and a hint of cognac. Tender steaks rest perfectly with rich, buttery flavors that deliver restaurant-quality results at home."
+metaDescription: "Grilled beef fillet with garlic butter, cremini mushrooms, and leeks. Simple ingredients, stunning flavors. Make it tonight."
+ogDescription: "Juicy grilled beef fillet with garlic butter, cremini mushrooms, and leeks. Restaurant-quality steak dinner at home."
+focusKeyphrase: "grilled beef fillet with garlic butter"
 date: 2025-12-01
 draft: false
 image: grilled-beef-fillet.jpg
@@ -21,9 +21,16 @@ tags:
 - "mushroom"
 - "easy dinner"
 keywords:
-- "beef fillet"
-- "garlic butter"
-- "grilled steak"
+- "grilled beef fillet with garlic butter"
+- "beef fillet dinner"
+- "grilled beef steak"
+- "mushroom garlic butter steak"
+- "garlic butter beef tenderloin"
+- "grilled beef fillet with mushrooms"
+- "leek mushroom steak dinner"
+- "cognac garlic butter beef"
+- "easy grilled steak"
+- "cremini mushroom beef"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -67,3 +74,68 @@ faq:
 - "q: Best way to store leftovers? a: Wrap tightly, fridge max two days. Reheat gently in skillet with butter or oven low temp not microwave. Or chill sauce separate to avoid melting off flavors."
 
 ---
+
+Heat the skillet first. Butter and oil together—that's the move. Leeks go in soft and sweet, mushrooms get their edges brown, garlic stays golden. This is where the whole thing comes together before the meat even hits the grill.
+
+## Why You'll Love This Grilled Beef Fillet Garlic Butter
+Takes 26 minutes total. Steak, vegetables, sauce all at once. No juggling three pans.
+Works for weeknight dinner or impressing someone. Same technique either way.
+Cognac butter melts into everything. You don't need it, but you'll want it next time.
+The leeks go soft in a way that makes sense with beef. Not just a side. Part of it.
+Rest the meat right and the center stays pink. Even if you're not great at the grill yet.
+
+## What You Need for Grilled Beef Fillet with Leeks and Cremini Mushrooms
+Four beef fillets. Six ounces each. Cold from the fridge when you start.
+Salt and pepper. Coarse, fresh cracked. Apply heavy before cooking.
+One and a half tablespoons unsalted butter plus three more tablespoons for the cognac butter. Two tablespoons extra virgin olive oil.
+Two medium leeks—white and light green parts only, sliced thin. Eight ounces cremini mushrooms, sliced. Three cloves garlic minced fine.
+One tablespoon brandy or cognac if you have it. Salt and pepper for the finished plates.
+
+## How to Make Grilled Beef Fillet with Mushrooms
+Take the fillets out of the fridge about 20 minutes before you start. Rough salt and pepper both sides generously. This temp change keeps the center tender, cooks evenly. Pat the flesh dry if it's damp—you need it dry for a good crust.
+
+Heat a skillet to medium. Drop the butter and oil in together. Butter mellows the heat, oil raises the smoke threshold. Best combo. Toss in the leeks, mushrooms, and garlic all at once. Stir, but slowly. Let the edges brown lightly. The aroma grows sweeter. Around 6 to 12 minutes. Don't rush the garlic or it'll burn and turn bitter.
+
+Fire up the grill to medium-high. If it's electric, preheat at least 10 minutes until it's hot but not smoking. Cast iron skillet works too—get that smoking hot instead. Lay the fillets on the grill. Don't move them. Four to six minutes. Look for deep grill marks, edges pulling away from the heat.
+
+## How to Get Grilled Beef Fillet Perfectly Cooked
+Flip when the surface feels springy but not soft. Another four to five minutes should land you at medium rare. Bigger fillets need a bit longer. Thinner ones finish fast.
+
+Pull everything off the grill. Crucial step—let the steak rest five to seven minutes. Juices redistribute or you lose them all when slicing. Cover loosely with foil. Timing here beats any thermometer. A chunk of meat cools, and a pull test should yield slight resistance. Not rock hard.
+
+While it rests, mix the softened butter with the minced garlic and cognac. Mix vigorously. Heat this just before serving—lightly melting butter wakes up the flavors.
+
+## Grilled Beef Fillet Tips and Common Mistakes
+Dry edges mean lower heat next time. Cook slower. Or baste the meat with olive oil during cooking—that helps.
+
+Overcooked the steak? Slice it thin and serve with extra butter sauce. Works cold in sandwiches too.
+
+Feel beats the clock. Learning how the meat responds when you touch it—that's the real skill. Thermometer is fine, but trust the springiness.
+
+Cremini mushrooms are standard. Shiitake works. Avoid waterlogged ones. Button mushrooms are fine if that's what you have.
+
+Cognac is nice but not essential. Mezcal swapped in once? Adds unexpected punch. Whiskey works. So does nothing—just butter and garlic.
+
+No grill? Cast iron skillet in the kitchen. Sear the fillets hard on both sides, finish in a hot oven at 400 for four to six minutes. Method shifts but intent stays the same—sear, rest, butter.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Beef Fillet with Garlic Butter
+
+**How long should beef fillet rest after grilling?**
+Five to seven minutes minimum. Longer isn't worse. The meat cools, juices stop moving around inside. Slice into it too early and they all run onto the plate instead of staying in the steak.
+
+**Can you make this with different mushrooms?**
+Cremini is what works here. Shiitake's fine. Portobellos work too—just slice thinner. Avoid anything waterlogged or it steams instead of browning.
+
+**What if the garlic burns?**
+It gets bitter and ruins the whole butter. Keep the heat at medium, stir often. If it starts turning dark, pull the pan off heat. Start over with a fresh batch.
+
+**Should you cover the steak while it rests?**
+Loosely. Foil tent, not wrapped tight. You want it to cool but not steam itself back to gray.
+
+**Can you substitute cognac or brandy?**
+Mezcal works. Whiskey works. Skip it entirely if you want. The butter and garlic carry the dish fine on their own. The brandy just adds a layer.
+
+**What's the difference between medium and medium-rare on the grill?**
+Medium rare is springy with slight give. Medium is firmer but still yields. Four to five minutes per side gets you medium rare on a good grill. Add a minute each side for medium. Touch it. That's faster than guessing.
