@@ -1,9 +1,9 @@
 ---
-title: "Cranberry-Orange Sticky Buns"
+title: "Cranberry-Orange Sticky Buns with Cinnamon"
 slug: "cranberry-orange-sticky-buns"
-description: "Sweet yeasted dough with a tangy cranberry-orange topping bakes into sticky buns. Uses scalded whole milk to coax the yeast awake. Butter-sugar mixture melds with fresh cranberries, orange zest, and juice for a bright, sticky base. Dough rolled thin, layered with a cinnamon-brown sugar sprinkle, then sliced and arranged over the fruit topping to rise again. Baking until golden, flipping out before serving locks in the sticky chaos underneath. A tweak with coconut oil replaces shortening for a subtle nutty note, balancing tart and sweet beautifully."
-metaDescription: "Cranberry-Orange Sticky Buns bake up tender layers with tart fruit and sticky syrup. Yeast proofed in scalded milk, coconut oil replaces shortening for texture and flavor balance."
-ogDescription: "Sticky buns loaded with cranberries and orange zest. Tangy, gooey, and baked golden. Uses scalded milk and coconut oil to wake yeast and add subtle nuttiness."
+description: "Cranberry-orange sticky buns feature yeasted dough with fresh cranberries, orange zest, and juice. Topped with cinnamon-brown sugar and baked until golden for a bright, tangy-sweet breakfast treat."
+metaDescription: "Make cranberry-orange sticky buns with fresh cranberries, orange juice, and cinnamon-brown sugar topping. Yeasted dough baked golden and flipped for sticky perfection. Try it tonight."
+ogDescription: "Yeasted sticky buns loaded with fresh cranberries, orange zest, cinnamon, and brown sugar. Bright, tangy-sweet breakfast bread baked golden."
 focusKeyphrase: "cranberry-orange sticky buns"
 date: 2025-12-13
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "cranberry"
 - "cinnamon"
 keywords:
+- "cranberry-orange sticky buns"
 - "sticky buns"
-- "cranberry sticky rolls"
-- "orange cinnamon buns"
+- "homemade sticky buns with cranberries"
+- "cranberry sticky buns with cinnamon brown sugar"
+- "yeasted dough sticky buns with orange zest"
+- "holiday breakfast bread"
+- "cinnamon rolls"
+- "breakfast bread with cranberry topping"
+- "orange juice sticky buns"
+- "fresh cranberry buns"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
@@ -76,3 +83,87 @@ faq:
 - "q: Best way to store leftovers? a: Wrapped loosely in foil or airtight container fridge. Reheat low temp wrapped in foil to bring back sticky glaze. Frozen dough slice can thaw and rise longer before baking. Keeps texture but might lose some shine if reheated fast or uncovered."
 
 ---
+
+Warm milk first—not boiling, just steaming. That matters. Mix the yeast, sugar, salt in the bowl, pour the milk over, and wait. Ten minutes. You'll smell it working. That's the yeast doing what it's supposed to do, and it's your signal that everything's on track before you add anything else.
+
+## Why You'll Love These Cranberry-Orange Sticky Buns
+
+63 minutes total—35 to prep, 28 in the oven. Makes 12. No standing around for hours.
+Fresh cranberries burst into the corn syrup and it gets this thick, sweet-tart coating that sticks to your hands when you eat them. Better that way.
+Cinnamon rolls are good. Holiday breakfast bread with an actual fruit in it tastes like you planned ahead. You didn't, but it looks like you did.
+The orange zest hits different than you'd think. Not overwhelming. Just makes the whole thing smell like something's actually happening in your kitchen.
+Freezes great. Thaw a slice, let it rise while the oven heats, and you've got fresh sticky buns on a random Tuesday. No planning required.
+
+## What You Need for Cranberry-Orange Sticky Buns
+
+Whole milk. A cup. You're warming it to activate the yeast—not boiling, just steaming.
+Active dry yeast. Two and a quarter teaspoons. Not instant. The timing depends on it working at a specific pace.
+Granulated sugar and salt—a quarter cup and half a teaspoon. Goes in with the yeast first.
+Two large eggs. Room temperature works better but cold doesn't break anything.
+All-purpose flour. Two and a half to three cups. You'll know when you add enough because the dough stops being a mess.
+Melted coconut oil instead of shortening. A quarter cup. Keeps things tender.
+Unsalted butter divided—six tablespoons total. Some for the filling, some for brushing the dough.
+Light corn syrup. Half a cup. This is what makes them sticky, not just sweet.
+Fresh or frozen cranberries. A cup and a half. Frozen works just as well. They burst the same way.
+Zest and juice from one large orange. Not concentrate. Not bottled. An actual orange.
+Packed brown sugar. Three quarters cup. For the filling layer.
+Ground cinnamon. Two teaspoons. The amount that makes sense.
+A pinch more salt for the filling.
+
+## How to Make Cranberry-Orange Sticky Buns
+
+Warm the milk in the microwave for about a minute until it's steaming. You're not boiling it. Just hot enough that it activates the yeast enzymes and gets everything working faster.
+
+Put the yeast, granulated sugar, and salt in your mixer bowl with the dough hook attached. Swirl them together. Pour the hot milk over top and let it sit for 10 to 12 minutes. The yeast will foam up and smell sweet and yeasty. That's it working.
+
+Add the eggs next. Mix until they're barely combined into the foamy yeast mixture. Then start adding flour slowly—about half of it first—until the dough barely clings to the hook. It'll drape a bit. That's right.
+
+Pour the melted coconut oil in, then add the remaining flour by the handful. Knead for four to six minutes. Watch it become stretchy and soft. It should be tacky but not sticky. If it's too wet, add a bit more flour. If it's too stiff, you've added too much and the buns will be dense. Slightly tacky is the target.
+
+Shape it into a smooth ball. Coat the inside of the bowl with cooking spray. Turn the dough over in it so all sides get coated. Cover with a damp cloth and let it rise for 35 to 40 minutes until it's doubled and jiggly when you jiggle it.
+
+While that's happening, make the topping. Warm the butter, sugar, and corn syrup in a saucepan. Toss in the cranberries, orange zest, and orange juice. Stir as the cranberries burst. The syrup will thicken slightly as it sits and cools. That's when the raw sugar grit goes away. Take it off heat and let it be.
+
+## How to Get Cranberry-Orange Sticky Buns Perfectly Sticky
+
+Mix the brown sugar, cinnamon, and a pinch of salt in a small bowl. Set it aside. You'll use this for the filling.
+
+Grease a 9 by 13 pan. Pour the cranberry-orange topping into the bottom and tip the pan to spread it evenly. Don't push the fruit toward the edges. Let it sit in a loose layer.
+
+Flour your work surface lightly. Turn the dough out and roll it gently to 14 by 22 inches. Brush it with four tablespoons of melted butter. Sprinkle the cinnamon sugar mixture evenly across the whole thing. Too much and the buns get overly sweet inside or soggy. You want enough to taste it, not enough to make them fall apart.
+
+Roll the dough tightly starting from the narrow edge. You're making one long log. Use a sharp serrated knife—a regular knife squeezes the dough and it doesn't cut clean. Cut it into 12 equal slices about an inch and three quarters thick. Arrange them cut side down, close together, on top of the cranberry layer in the pan.
+
+Cover with a cloth and let them rest for 25 to 30 minutes until they're puffy. Look for pillowy domes. If they overproof, they'll have big bubbles and the buns won't rise in the oven the way they should. You want them soft but not overblown.
+
+## Cranberry-Orange Sticky Buns Tips and Common Mistakes
+
+Preheat the oven to 375 degrees. Bake the buns for 27 to 30 minutes. Check the edges first—they should be golden brown and you should see the cranberry juices bubbling at the base. The top might brown faster than you want. If it does, tent it loosely with foil to keep it from burning while the inside finishes.
+
+Let them cool in the pan for exactly five minutes. Don't skip this. If you flip them right away, the topping's too hot and it'll all slide off.
+
+After five minutes, set a platter that's slightly larger than the pan over the top. Hold both with your hands and flip it quickly but carefully. The sticky fruit will want to cling to the inside of the pan. It does that. Use an offset spatula to gently coax any residual topping back onto the buns.
+
+Serve warm. Leftovers reheat beautifully under foil in a low oven—it restores the stickiness. You can also freeze the dough slices on a tray before baking. Thaw them, let them rise longer than usual, then bake. Fresh sticky buns whenever you want them.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Holiday Breakfast Bread with Cranberries
+
+**Can I use dried cranberries instead of fresh?**
+No. Dried ones are too tough and won't burst into the syrup the way fresh do. The whole point is that texture change. Not worth it.
+
+**What if I don't have coconut oil?**
+Shortening works. So does melted butter, but the texture comes out a bit different—slightly less tender. Coconut oil is the move.
+
+**How do I know if the dough is proofed enough?**
+Poke it gently with your finger. If the indent springs back slowly and leaves a small dent, it's done. If it bounces back fast, it needs more time. If it doesn't spring back at all, you've overproofed it.
+
+**Can I make these the night before?**
+Cut the buns and put them in the pan with the topping. Cover it, refrigerate overnight. In the morning, let them come to room temp for 30 minutes, then bake. They'll take a couple extra minutes. The cold dough rises slower.
+
+**Why is my filling too runny?**
+The orange juice was added cold maybe, or the syrup didn't thicken because you didn't let it sit after the cranberries burst. Let it cool completely before you spread it. If it's still too runny, the corn syrup ratio was off—but that's a next-time thing.
+
+**What happens if I overbake them?**
+The edges get hard and the sticky top turns crunchy instead of gooey. Check at 27 minutes. They don't need the full 30 if your oven runs hot.
