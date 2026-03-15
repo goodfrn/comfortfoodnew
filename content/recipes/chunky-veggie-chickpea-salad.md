@@ -1,9 +1,9 @@
 ---
 title: "Chickpea Couscous Salad with Feta"
 slug: "chunky-veggie-chickpea-salad"
-description: "Chickpea couscous salad with crisp veggies, warm spices, and creamy feta. Ready in 20 minutes. Fresh, filling, and naturally vegetarian."
-metaDescription: "Chickpea couscous salad recipe with cucumber, peppers, and feta. Fluffy grain, crisp vegetables, warm spices. Try it tonight."
-ogDescription: "Chickpea couscous salad loaded with fresh veggies and creamy feta. Cumin-spiced, ready fast, and genuinely good."
+description: "Chickpea couscous salad with cucumber, bell pepper, goat cheese, and warm cumin spices. Fresh, filling, and ready in 20 minutes for easy weeknight dinners."
+metaDescription: "Chickpea couscous salad recipe with cucumber, bell pepper, and creamy goat cheese tossed in cumin and cilantro. Make it tonight."
+ogDescription: "Fresh chickpea couscous salad with cucumber, feta, and warm spices. Ready in 20 minutes."
 focusKeyphrase: "chickpea couscous salad"
 date: 2025-08-06
 draft: false
@@ -22,10 +22,17 @@ tags:
 - "easy"
 keywords:
 - "chickpea couscous salad"
-- "couscous and chickpea salad recipe"
-- "couscous salad with feta and chickpeas"
+- "couscous salad with chickpeas and feta cheese"
+- "chickpea couscous recipe"
 - "moroccan chickpea couscous salad"
+- "couscous feta chickpea salad"
+- "couscous salad with feta and chickpeas"
 - "chickpea and cous cous salad"
+- "couscous garbanzo bean salad"
+- "vegetarian couscous salad"
+- "easy couscous salad recipe"
+- "cilantro couscous salad"
+- "cumin chickpea salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -68,3 +75,95 @@ faq:
 - "q: How to store leftovers properly? a: Airtight container in fridge best. Use within 2 days for freshness. Can freeze couscous separate but salad texture suffers. If fridge-stored, stir before serving; flavors settle unevenly. Leftover goat cheese may firm—crumbled again with fork."
 
 ---
+
+Onion goes in first, sizzles until the edges get dark. That's when you add the spices—cumin, coriander, garlic all at once. The whole skillet smells different after two minutes. Then broth, then couscous. Cover it. Walk away. Seven minutes later you've got something that tastes like it took actual effort.
+
+## Why You'll Love This Chickpea Couscous Salad
+
+Takes 40 minutes total. Not complicated. Just waiting.
+Vegetarian but doesn't taste like you're missing protein—chickpeas handle that part.
+Works cold the next day, maybe better. Flavors kind of settle overnight.
+One skillet, one bowl. Cleanup isn't nothing, but it's fast.
+Tastes better than it looks. Seriously.
+
+## What You Need for Chickpea Couscous Salad
+
+Red onion. Not white. The color stays and it's sweeter once it caramelizes. One small one, chopped fine.
+
+Olive oil. About three and a half tablespoons. Don't skimp. It's where the flavor lives.
+
+Cumin and coriander. Three-quarter teaspoon each, ground. Toasted in the oil first—that matters more than you'd think. Not the spice jar version. Actually toast them.
+
+One garlic clove, minced. Large. Small ones disappear.
+
+Hot broth. Vegetable or chicken. Has to be hot going in or the couscous won't absorb right. One and three-quarter cups.
+
+Couscous. The regular kind. Pearl couscous works but changes the texture. Not the same salad.
+
+One can of chickpeas. Rinsed. Drained. They come out of the can kind of slimy.
+
+Green bell pepper and two Lebanese cucumbers, both diced. Keep the skin on the cucumber. Goat cheese crumbled. Not pre-crumbled—it clumps. Cilantro fresh, chopped. A cup or so.
+
+Salt and black pepper. You'll need more than you think.
+
+## How to Make Chickpea Couscous Salad
+
+Medium heat. Skillet. Oil goes in first. When it's shimmering—not smoking, shimmering—add the red onion. Just stir it occasionally. Don't hover. Takes about eight minutes before the edges go brown and it smells sweet. That's when you know.
+
+Cumin, coriander, garlic. All three at once. Stir constantly for two, maybe three minutes. The spices bloom. The garlic won't burn if you keep moving. Your whole kitchen smells different now. That's the signal.
+
+Pour the hot broth in. It'll bubble. Bring it to a simmer—you want it moving, not rolling. Then pull the skillet off heat. Dump the couscous in, stir once, cover it tight with foil or a lid. Don't touch it. Set a timer for seven minutes.
+
+When time's up, lift the lid—steam will escape. All the liquid should be gone. If it's not, give it another minute. Fluff with a fork. Really fluff. Get between the grains. They want to be separate.
+
+Let it cool until it's mostly warm, not hot. Hot couscous tastes flat. Cool couscous tastes sharp. There's a window.
+
+## How to Get Chickpea Couscous Salad Actually Good
+
+The chickpeas go in a big bowl with the bell pepper, cucumbers, cheese, cilantro. Everything raw, everything cold. Then—and this matters—the couscous goes in last. Fold gently. You're not trying to break anything. You're trying to get the flavors mixing without squishing the vegetables into paste.
+
+Taste it now. Couscous absorbs salt like it's never going to eat again. You probably need more. Maybe pepper too. Add a little, taste, add a bit more. This step gets skipped and that's why salads taste flat.
+
+Serve it now or chill it. Room temperature works. Cold works better. Overnight is actually best—flavors kind of marry and deepen. The couscous softens into itself. It's weird but good.
+
+If you want to switch things up: halloumi instead of goat cheese if you want something firmer that doesn't disappear into the salad. Mint instead of cilantro for something brighter. Pine nuts toasted—I add those sometimes for crunch. Not necessary but nice.
+
+## Chickpea Couscous Salad Tips and Common Mistakes
+
+Don't let that couscous sit longer than seven minutes covered. It gets mushy. Eight minutes and you've crossed a line.
+
+The broth has to actually be hot. Cold broth and the couscous won't open up right. You'll get crunchy bits in the middle of soft bits. Just doesn't work.
+
+That cooling step where it goes from hot to warm—don't skip. The texture changes. The flavor changes. Actually matters.
+
+Rinsing the canned chickpeas is annoying but necessary. The liquid they come in is starchy and makes everything thick. Drain them, then rinse them. Difference is real.
+
+Leftovers keep in the fridge for three days easily. They don't get soggy because couscous keeps absorbing slowly. Day two tastes better than day one, which is rare for salads.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chickpea Couscous Salad
+
+**Can I use instant couscous?**
+It's already processed more. Comes out mushier. Regular couscous is better but instant works if that's what you have.
+
+**What if I don't have hot broth ready?**
+Boil water. Salt it heavily. Same result basically. The heat is what matters, not fancy broth.
+
+**Can I make this ahead?**
+Yes. Make it the morning of. It sits in the fridge fine. Actually tastes better after a few hours. Flavors settle.
+
+**Is this actually vegetarian?**
+Depends on your broth. Chicken broth obviously isn't. Vegetable broth is. Use vegetable broth if that matters to you.
+
+**What can I swap for the goat cheese?**
+Feta works. Crumbles differently but works. Halloumi if you want something that doesn't disappear. Honestly? Skip it entirely. Salad's still good.
+
+**Why does mine taste bland?**
+You didn't salt it enough. Couscous eats salt. Add salt. Taste it. Add more. You'll know when it's right.
+
+**Can I use fresh herbs instead of cilantro?**
+Mint is the move. Same amount. Different taste—brighter. Parsley works too but it's boring. Cilantro and mint are the interesting ones.
+
+**How long does it keep?**
+Three days in the fridge easy. After that the vegetables start breaking down and it gets weird. Chickpea and couscous salad is a three-day food.
