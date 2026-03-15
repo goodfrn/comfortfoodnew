@@ -1,10 +1,10 @@
 ---
-title: "Bulgur Chicken Soup Twist"
+title: "Bulgur Chicken Soup with Spiced Tomato Broth"
 slug: "bulgur-chicken-soup"
-description: "A rich, aromatic soup with tender chicken, fine bulgur, and hearty vegetables simmered in a spiced tomato broth. Combines warmth from cinnamon and turmeric with mild heat from cayenne. Chickpeas add texture and earthiness, balanced by fresh coriander. Adapted from traditional North African flavors with a twist replacing celery by fennel for subtle anise notes. Cooking balanced for aroma and texture, relying on sensory cues not just timers. Serves 6 comfortably, dairy-, nut- and egg-free."
-metaDescription: "Bulgur Chicken Soup Twist, a spiced North African-inspired broth with tender chicken, bulgur, fennel, chickpeas, warm spices and fresh coriander. Serves 6."
-ogDescription: "Spiced chicken, bulgur, fennel, chickpeas in tomato broth rich with cinnamon and turmeric. Fresh coriander brightens. Hearty, textured soup for those who watch, not just time."
-focusKeyphrase: "Bulgur Chicken Soup"
+description: "Bulgur chicken soup with tender chicken thighs, chickpeas, and courgettes in a spiced tomato broth. Fennel, cinnamon, and turmeric create warm North African flavors. Dairy-free and naturally wholesome."
+metaDescription: "Make bulgur chicken soup with chicken thighs, chickpeas, and courgettes in aromatic tomato broth. Spiced with cinnamon and turmeric. Try it tonight."
+ogDescription: "Spiced bulgur chicken soup loaded with chickpeas, courgettes, and fennel in tomato broth. Warm, hearty, and naturally dairy-free."
+focusKeyphrase: "bulgur chicken soup"
 date: 2025-09-25
 draft: false
 image: bulgur-chicken-soup.jpg
@@ -22,8 +22,17 @@ tags:
 - "comfort food"
 keywords:
 - "bulgur chicken soup"
+- "chicken soup"
+- "spiced soup"
+- "chickpea chicken soup"
+- "comfort food soup"
+- "one pot chicken soup"
+- "tomato broth soup"
+- "turmeric chicken soup"
 - "fennel chicken soup"
-- "spiced tomato broth"
+- "courgette chicken soup"
+- "North African chicken soup"
+- "cinnamon chicken soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "320"
@@ -69,3 +78,79 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container up to 3 days. Reheat gently on stove to avoid drying chicken. Can freeze but texture changes in bulgur; better fresh. Add fresh coriander at serving for brightness."
 
 ---
+
+Spread out the chicken pieces, get them touching the hot oil directly. That's when the spice goes in—coriander, cinnamon, the whole arsenal. One to two minutes and the kitchen smells completely different. This is a spiced soup that doesn't mess around.
+
+## Why You'll Love This Bulgur Chicken Soup
+
+Takes 1 hour 20 minutes total and you're done. One pot. Everything goes in stages but nothing fancy.
+
+Comfort food that actually has something going on—not just chicken and broth sitting there. The spices do the work. Coriander, cinnamon, turmeric, a little cayenne. Warm without being aggressive.
+
+Chickpeas and bulgur make it stick to your ribs. The soup thickens itself. No cream, no flour.
+
+Courgettes collapse into nothing. Fennel gets sweet. That's the angle—vegetables soften so much they almost disappear into the broth. Works cold the next day, maybe better.
+
+## What You Need for Chickpea Chicken Soup with Cinnamon
+
+Two onions, finely chopped. Not rough chunks. Fine. Courgettes diced small—they soften faster that way. One carrot, one fennel bulb. Fennel instead of celery. Sweeter. More interesting.
+
+Chicken thighs. Not breast. Thighs don't dry out sitting in broth. Cut them small so they cook fast and evenly.
+
+Spices: ground coriander, cinnamon, black pepper, turmeric, cayenne. Whole spices don't work here. Ground. You need them to dissolve into the broth.
+
+Chicken broth. Six cups. A can of diced tomatoes. A can of chickpeas, rinsed. Fine bulgur—not the coarse stuff. Coarse takes forever. Fine bulgur swells in 15 minutes.
+
+Olive oil twice. Some for cooking. More for finishing. Fresh coriander at the end. Not dried. The green matters.
+
+## How to Make One Pot Chicken Soup
+
+Heat the oil first. Medium-high. When it shimmers, onions go in. Add the courgettes, carrot, fennel. Stir. You're not browning anything here—just a gentle sweat. The smell goes sweet and mild. Six to eight minutes. Vegetables stay firm.
+
+Chicken pieces spread out. Press them into the hot oil. That contact matters. Sprinkle all the spices directly over the chicken. Coriander, cinnamon, pepper, turmeric, cayenne. Stir for one to two minutes until it's fragrant and the chicken loses the pink edges. Stop there. Don't cook it through yet.
+
+Pour the broth. Pour the tomatoes with their juice. The liquid loosens the brown bits stuck to the pot bottom. That's flavor. Turn the heat up. Wait for a rolling boil—actual bubbles, not steam. Then down to medium.
+
+Simmer. Watch it thicken slightly over the next 28 to 32 minutes. The aromas get deeper. The vegetables collapse into tender. The broth goes rich and spiced. Stir sometimes so nothing sticks to the bottom.
+
+## How to Get Fennel Carrot Chicken Soup Thick and Right
+
+Add the chickpeas now. Rinsed. Then the bulgur. Fine bulgur.
+
+This is where you pay attention. Bulgur swells fast. It soaks up liquid like nothing else. The soup thickens in front of you. Simmer another 13 to 17 minutes. The bulgur goes tender without turning to mush. The chicken stays tender with some bite. 
+
+Too thick? Splash water or broth. Not enough flavor? That happens with some broths. Add salt and pepper at the very end—the last minute. Salt early and the vegetables lose their sweetness. They collapse faster. Not worth it.
+
+## Tomato Broth Soup with Turmeric and Cayenne Tips
+
+Fennel does the heavy lifting here. It's not celery. Celery is sharp. Fennel is sweet. It rounds out the spices instead of competing with them.
+
+Courgette isn't a filler. It breaks down and thickens the broth on its own. No cream needed.
+
+Thighs matter. Chicken breast gets stringy and dry in soup. Thighs stay tender.
+
+One more thing—the bulgur. Don't let it sit in the pot after you serve. Leftovers thicken overnight. It's fine, actually better sometimes, but if you like it looser add broth when you reheat.
+
+The olive oil at the end isn't decoration. That fruity aroma changes everything. It sits on top of the warm soup and you smell it before you taste it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spiced Soup
+
+**Can I use regular celery instead of fennel?**
+Sure. It works. Tastes sharper, less sweet. Not the same soup but still good.
+
+**How long does this keep?**
+Five days in the fridge covered. Freezes fine too. The bulgur gets softer when frozen, but it's still soup.
+
+**What if my bulgur is coarse instead of fine?**
+Add it earlier. Maybe when you put the broth in. It needs the time. Fine bulgur is better though. Just is.
+
+**Can I add more spice?**
+Depends what spice. More cayenne? Sure, add a pinch. More cinnamon? I'd be careful. Goes from warm to Christmas-y fast.
+
+**Do I have to use chicken thighs?**
+Breast works if you cut it small and don't overcook it. Watch it close though. Takes less time. Maybe 35 minutes total simmer instead of 40. Thighs are less work.
+
+**What about the fresh coriander at the end?**
+Not optional if you have it. Dried coriander is already in the spice mix. Fresh is different. Green, bright. Changes the whole thing. Skip it if you have to. The soup's fine. Just less interesting.
