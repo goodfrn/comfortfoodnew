@@ -1,10 +1,10 @@
 ---
-title: "Tequila Sour Recipe with Citrus & Egg White"
+title: "Tequila Sour Cocktail Recipe"
 slug: "citrus-tequila-sour"
-description: "Tequila sour recipe with fresh citrus, fluffy egg whites, and agave. Balanced bitters and lime create a silky, vibrant cocktail made right."
-metaDescription: "Tequila sour recipe with fresh citrus, egg whites, and agave balance. Shake it up tonight for a smooth, tangy drink."
-ogDescription: "Citrus tequila sour with frothy egg whites, balanced bitters, and fresh lime. A silky, tangy cocktail that's ready in minutes."
-focusKeyphrase: "tequila sour recipe"
+description: "Tequila sour made with fresh lemon and lime juice, silky egg whites, and agave syrup. A balanced, vibrant cocktail perfect for home bartenders."
+metaDescription: "Tequila sour cocktail recipe with fresh citrus juice, pasteurized egg whites, and agave. Create a smooth, restaurant-quality drink. Make it tonight."
+ogDescription: "Silky tequila sour with fresh lemon juice, lime, and fluffy egg whites. Balanced and vibrant."
+focusKeyphrase: "tequila sour"
 date: 2026-02-12
 draft: false
 image: citrus-tequila-sour.jpg
@@ -23,9 +23,16 @@ tags:
 keywords:
 - "tequila sour"
 - "tequila sour cocktail"
-- "sour tequila drinks"
 - "tequila sour recipe"
+- "sour tequila drinks"
 - "tequila sour ingredients"
+- "homemade cocktail recipe"
+- "citrus cocktail"
+- "egg white cocktail"
+- "agave syrup cocktail"
+- "lime juice cocktail"
+- "lemon juice cocktail"
+- "sour cocktail recipe"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "260"
@@ -62,3 +69,77 @@ faq:
 - "q: How to store leftovers? a: Cocktail best fresh. If needed fridge short term, foam separates fast. Shake again before serving but texture lost. No ice storage; glass rinse warm avoids stuck foam residue."
 
 ---
+
+Shake this for 17-22 seconds and it builds itself. The egg whites do that — they turn the whole thing creamy, silky, almost dessert-like, but the citrus keeps it sharp. Three minutes total and you've got something that tastes like you actually know how to make cocktails.
+
+## Why You'll Love This Tequila Sour
+
+Takes literally three minutes. Not an exaggeration.
+The foam is what gets people. They drink it, the texture hits, and suddenly everyone wants one. Works at parties because you make them fast and they look expensive.
+Citrus forward but not in a sour-mix way — the fresh lemon and lime actually taste like something. Big difference.
+One drink, though, and you're done. Not a sipper situation. Hits different.
+Tastes good cold. Also tastes good warm if it sits for a minute. Not ideal but it works.
+
+## What You Need for a Tequila Sour Recipe
+
+Silver tequila. Two ounces. Blanco or reposado if you want something woodier — honestly both work fine. Agave syrup. One ounce. Or honey mixed with water, one-to-one, if that's all you have. Doesn't change it much.
+
+Lemon juice and lime juice. Three-quarters ounce each. Fresh squeezed. Don't use the bottled stuff — it tastes like plastic and the whole drink falls apart. Liquid egg whites. One ounce. Pasteurized so you don't get food poisoning. If you're vegan, aquafaba works. Use maybe three-quarters ounce instead.
+
+Bitters. Three dashes. Angostura is the standard. Orange bitters make it brighter. Either one's fine. Lime wheel for the rim or inside the glass — optional but that's kind of the point.
+
+## How to Make a Tequila Sour
+
+Pour the tequila into your shaker first. This matters because a clean pour means no backwash flavor. Add the lemon juice next, then the lime. The citrus order doesn't actually matter but it looks intentional.
+
+Splash the agave syrup in. Then the egg whites — pour slow so it doesn't splash everywhere. Top it with the bitters. That herbal lift changes everything.
+
+Secure the lid tight. Shake hard for seventeen to twenty-two seconds. You'll feel resistance as the egg whites expand — that thick swoosh is texture building. Don't lose grip. The pressure builds and lids pop off sometimes.
+
+## How to Get a Perfect Creamy Texture on Your Tequila Sour
+
+Stop shaking when you hear the sound change. That's when you know it's done.
+
+Lift the lid. Toss in a half cup of fresh cold ice. Not melted slush from yesterday. New ice. Slam the lid down. Shake again for about twenty seconds with the same aggression. Watch for froth rising, foam spilling slightly. That's how you know it's working.
+
+Strain it slow over a fine mesh strainer into a chilled ten-ounce glass. Keep the frothy head intact — that creamy cap is why people love this drink. It's not decoration. It's texture. It changes how you taste the whole thing.
+
+## Tequila Sour Tips and Common Mistakes
+
+Don't skip the second shake with ice. That's where the texture actually happens. First shake builds the foam, second shake makes it stable and cold.
+
+Use fresh citrus. Bottled lemon juice tastes like chemicals and you can't fix it. The whole drink depends on bright, actual juice.
+
+Chill your glass before you pour. Two minutes in the freezer works. Warm glass melts the foam and dilutes everything.
+
+The egg whites need to be liquid and pasteurized. Raw eggs are risky. Aquafaba is vegan but it foams differently — slightly less volume, which is why you use three-quarters ounce instead.
+
+Don't skimp on the shake time. Seventeen seconds is the minimum. Twenty-two is better. Less than that and it's thin. More than that and it starts to break down.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tequila Sour Drinks
+
+**Can I use margaritas with sour mix instead of fresh juice?**
+No. Sour mix tastes like nothing and it ruins the whole thing. The whole point is fresh citrus. That's the difference between this and a margarita.
+
+**What's the difference between this and a margarita with sweet and sour?**
+Margaritas have Cointreau or triple sec. This has just agave and bitters. Also the egg whites make it creamy. Totally different drink.
+
+**Do I have to use egg whites?**
+No. It works without them. Tastes thinner, more like a regular sour. The whites make it silky. Not the same without it.
+
+**Can I make this ahead?**
+Not really. The foam breaks down after a couple minutes. Make it fresh. Takes three minutes anyway.
+
+**What's aquafaba and does it work?**
+Chickpea liquid. The stuff in the can. It foams but differently — use three-quarters ounce instead of one. Bit less stable but it's fine. Vegan works.
+
+**Do I need bitters?**
+Technically no. But three dashes make it taste complete. Without them it's just tart and sweet. Bitters add depth. Worth it.
+
+**Can I use bottled lime and lemon juice?**
+You can. It's not good though. Tastes bottled. Tastes preserved. Fresh takes thirty seconds and it matters.
+
+**What if I don't have a shaker?**
+Get a jar with a tight lid. Works the same. Just make sure it doesn't leak when you shake hard.
