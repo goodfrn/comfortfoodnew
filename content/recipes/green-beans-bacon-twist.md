@@ -1,10 +1,10 @@
 ---
-title: "Green Beans Bacon Twist"
+title: "Bacon Green Beans with Burrata & Lemon"
 slug: "green-beans-bacon-twist"
-description: "Crispy bacon plays off tender green beans with a hit of lemon and fresh herbs. Caramelized onions build depth while a splash of broth steams beans just right. Burrata adds creaminess and pink peppercorns a gentle pop. Quick, mostly hands-off once started. Substitute turkey bacon for leaner version, swap mint for thyme if needed. Watch fat levels; too much grease kills vibrancy. Toss in a splash of white wine instead of broth for subtle zing. Simple tweaks have saved my ass mid-cook. Timing hinges on color and texture more than clock. Blink and the bacon’s burnt. Beans need bite, not mush. Notes on how to rescue overcooked veggies included."
-metaDescription: "Green Beans Bacon Twist with crispy bacon, caramelized onions, fresh herbs, lemon punch and creamy burrata. Quick, layered flavors with practical swaps."
-ogDescription: "Crunchy green beans with smoky bacon, lemon brightness, fresh herbs, creamy burrata and pink peppercorn pop. Hands-off once started. Skip mint if you want."
-focusKeyphrase: "Green Beans Bacon Twist"
+description: "Crispy bacon green beans with caramelized onions, fresh basil, mint, and creamy burrata. Bright lemon juice and pink peppercorns add depth to this easy side dish."
+metaDescription: "Easy bacon green beans recipe with burrata, caramelized onions, fresh basil and mint. Crispy, tender, and full of flavor. Make it tonight."
+ogDescription: "Crispy bacon meets tender green beans with burrata, lemon, and fresh herbs. Quick side dish that's anything but boring."
+focusKeyphrase: "bacon green beans with burrata"
 date: 2025-10-12
 draft: false
 image: green-beans-bacon-twist.jpg
@@ -21,12 +21,16 @@ tags:
 - "lemon"
 - "roasted"
 keywords:
-- "green beans"
-- "bacon"
-- "caramelized onions"
-- "burrata"
-- "lemon juice"
-- "fresh herbs"
+- "bacon green beans with burrata"
+- "bacon green beans recipe"
+- "easy bacon green beans"
+- "roasted green beans with bacon"
+- "lemon green beans with herbs"
+- "green beans with caramelized onions and bacon"
+- "crispy bacon green beans"
+- "green bean side dish"
+- "fresh basil mint green beans"
+- "burrata green beans"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "230"
@@ -68,3 +72,51 @@ faq:
 - "q: How to store leftovers? a: Fridge in sealed container. Eat within 3 days. Reheat in skillet to keep crisp bacon bits. Beans soften if microwaved too long. Bacon fat saved for eggs or potatoes, reuse good fat never wasted."
 
 ---
+
+Cut the bacon first. Green beans don't care if you mess up once. Had a bag of them, half a pack of thick-cut lying around, and some basil that needed killing before it died in the crisper. This happened.
+
+## Why You'll Love This Green Bean Side Dish
+
+Thirty-four minutes total and most of that's just standing there. Bacon does the heavy lifting — renders fat, flavors everything, then gets crispy on top. Works cold the next day, maybe even better. One skillet. Herbs go in at the end so they don't turn into sad green dust. The burrata melts slightly from the heat but stays creamy, which sounds like it shouldn't work but does. Caramelized onions are sweet against the lemon snap. Not complicated. Just layered.
+
+## What You Need for Lemon Green Beans With Herbs
+
+Thick-cut bacon. The thin stuff disappears. Eight ounces of green beans — doesn't have to be exactly that, more is fine. One medium yellow onion sliced thin. Two and a half tablespoons of fresh lemon juice. Not bottled. Salt it yourself after, because bacon salt is already happening. Two tablespoons of water or chicken broth — either works. Half cup of fresh basil and mint combined, chopped. Four ounces of burrata torn into chunks. One teaspoon of lemon zest. Pink peppercorns if you have them — crushed. If not, black pepper's fine.
+
+## How to Make Crispy Bacon Green Beans
+
+Heat the skillet on medium. Don't rush this. Toss in the chopped bacon and listen for the sizzle right away. That's when you know the heat's right. Let it render slowly. You're looking for crispy edges and that firm texture that holds up, takes about six or seven minutes. Pull it out with a slotted spoon, drain on paper towels. Leave the fat in the pan — that's your flavor base.
+
+Pour most of the bacon fat out. Keep one tablespoon. Add the sliced onion to what's left and stir it around. This is where patience matters. Let it caramelize until translucent and the edges turn golden. Seven to nine minutes depending on your heat. You'll smell it getting sweet before you see it. If it starts browning too fast, lower the heat. Burnt tastes like regret.
+
+## How to Get Green Beans Tender Yet Still Snap
+
+Throw the green beans in. Splash in the water or broth. Salt them now — not a lot, the bacon's already salty. Stir occasionally. They steam and sauté at the same time, takes about six minutes. Don't trust the clock. Bite one. You want it tender but still snaps under your teeth. That's the whole thing.
+
+## Green Beans With Bacon Tips and Mistakes
+
+Before you finish, stir in the lemon juice and half the basil and mint. The whole skillet brightens. The herbs wilt and release that fragrance. Pull it off heat immediately after — heat kills fresh herbs fast. Don't overcook the bacon trying to get it perfect. Slightly underdone, still pliable in the middle, is better. It'll finish cooking in residual heat and actually stays crispy instead of turning to ash.
+
+Plate it on whatever looks good. Mound the beans and onions. Scatter the bacon shards on top. Tear the burrata over everything — let the warmth just barely soften it. Grate the lemon zest last. Sprinkle the pink peppercorns if you've got them. Serve warm or at room temperature. Both work.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Green Bean Side Dish
+
+**Can I make this ahead?**
+Yeah. Everything except the burrata and final herbs. Reheat gently in a low skillet, add the fresh stuff at the end. Tastes almost the same.
+
+**What if my green beans came out limp?**
+Shock them in ice water next time. Takes the mush out. Then sauté them back in the skillet for a minute to warm through. Actually snaps that way.
+
+**Do I have to use burrata?**
+No. Cream cheese works. So does nothing. Some people add a dollop of sour cream instead. It's fine either way.
+
+**Can I swap the herbs?**
+Mint's the weird one so if you hate it, use oregano or parsley. Basil stays — it belongs here. Dill would probably work too but haven't tried it.
+
+**How do I store leftovers?**
+Fridge. Three days easy. The bacon stays crispy somehow. Don't freeze it. Beans get mushy when they thaw.
+
+**What if I add garlic?**
+Works. Throw minced garlic in with the onions. Start it the same time. Won't hurt anything. Some people do shallots instead of regular onion — also fine.
