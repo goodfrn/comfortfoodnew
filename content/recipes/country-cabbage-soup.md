@@ -1,10 +1,10 @@
 ---
-title: "Country Cabbage Soup"
+title: "Country Cabbage Soup with Gruyère Cheese"
 slug: "country-cabbage-soup"
-description: "Rustic cabbage soup featuring Savoy cabbage simmered with garlic and chicken broth. Toasted country bread rubbed with lemon replaces the traditional garlic clove for a bright twist. Mature Gruyère cheese melts over bread layered with sautéed cabbage. Slow braising and oven baking combine flavors. Adapted timings slightly shorter to maintain crunch in cabbage. Olive oil swapped with hazelnut oil for nutty notes, chicken broth replaced with vegetable broth to lighten. Hearty, simple, layered textures. Served warm, comfort food with a subtle zing from lemon and the creaminess of cheese. The bread base soaks up broth creating bite and warmth."
-metaDescription: "Country Cabbage Soup with Savoy cabbage braised slow, lemon-rubbed toasted bread, Gruyère cheese melted on top, hazelnut oil, and light vegetable broth."
-ogDescription: "Rustic French cabbage soup layered with lemon-rubbed bread, Gruyère cheese, and nutty hazelnut oil. Warm, hearty, with fresh brightness from lemon."
-focusKeyphrase: "Country Cabbage Soup"
+description: "Country cabbage soup with Savoy cabbage, Gruyère cheese, and toasted bread. Simmered in vegetable broth with hazelnut oil and lemon for bright, comforting flavors that warm you up."
+metaDescription: "Make country cabbage soup with Savoy cabbage, Gruyère cheese, and toasted bread simmered in vegetable broth. Comfort food at its finest. Try it tonight."
+ogDescription: "Rustic cabbage soup with Savoy cabbage, melted Gruyère, and toasted country bread. Simmered in vegetable broth with hazelnut oil and lemon."
+focusKeyphrase: "country cabbage soup"
 date: 2025-07-29
 draft: false
 image: country-cabbage-soup.jpg
@@ -21,9 +21,16 @@ tags:
 - "cabbage"
 - "bread"
 keywords:
+- "country cabbage soup"
 - "cabbage soup"
-- "Gruyère cheese"
-- "hazelnut oil"
+- "Savoy cabbage soup with Gruyère cheese"
+- "comfort food soup"
+- "creamy cabbage soup with bread"
+- "cabbage soup with toasted bread and lemon"
+- "vegetable broth cabbage soup"
+- "Gruyère cheese cabbage soup recipe"
+- "braised cabbage soup with hazelnut oil"
+- "country style bread cabbage soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"
@@ -64,3 +71,91 @@ faq:
 - "q: How store leftovers? a: Cool completely, keep covered in fridge up to 2 days. Bread might soften more then. Best reheated gently in oven not microwave to keep textures. Could freeze broth separately, but cheese texture may change."
 
 ---
+
+Set it to 190°C and grab a small Savoy cabbage—the soft leaves matter. This soup doesn't have a lot going on, which is the whole point. Cabbage gets braised soft, bread goes under everything like a raft, cheese melts over the top. Sounds like something from someone's grandmother's kitchen. It kind of is.
+
+## Why You'll Love This Country Cabbage Soup
+
+Takes an hour total. Feels like it took way longer.
+
+One bowl and you're full. The bread soaks it all up, the cheese gets stringy, the cabbage is almost disappearing into the broth. That's the comfort food thing—it's soft, it's warm, it's done.
+
+Hazelnut oil instead of the obvious choice. Not something you taste directly, but it changes everything. Quieter. Rounder.
+
+Lemon instead of garlic on the bread. Different angle on the same idea. Works.
+
+## What You Need for Savoy Cabbage Soup with Gruyère
+
+One small Savoy cabbage. Slice it thin. The softer leaves are the ones that cook down first—that's fine.
+
+Two cloves garlic, minced. Not a lot. Just enough.
+
+Hazelnut oil. Sixty milliliters. Olive oil works but it's sharper. Vegetable oil is fine if that's what's there. Not the same but it works.
+
+Vegetable broth. A quarter cup for braising, then seven cups for the actual soup. Use hot broth—temperature matters for the baking.
+
+Four slices of country-style bread. Thick slices. Thin bread disappears.
+
+One lemon, halved. You rub it on the warm toast.
+
+Eight slices of Gruyère cheese. About 200 grams. That's your layer. Don't skimp.
+
+Black pepper. Freshly ground. Kind of essential here.
+
+## How to Make Braised Cabbage Soup with Toasted Bread
+
+Heat the hazelnut oil over low heat. Medium-low, actually. You're not searing anything. Add the sliced cabbage and minced garlic. Pour in the quarter cup of broth. Cover it.
+
+This braises for about fifteen minutes. Stir it once. Maybe twice. The cabbage softens but doesn't fall apart—that's the goal. It should still hold shape when you stir.
+
+While that's going, preheat to 190°C. Toast the bread until it's actually crisp. Not just warm. Crisp. The surface should snap a little when you break it.
+
+Take the lemon halves and rub them all over the warm bread. Both sides. The whole surface. This takes a minute but it matters—the citrus soaks in while the bread is still hot.
+
+## How to Get Creamy Cabbage Soup with Cheese
+
+Grab an ovenproof casserole. Arrange the lemon-rubbed bread slices on the bottom. They should cover most of it. Some overlap is fine.
+
+Spread the braised cabbage over the bread. All of it. Then layer the Gruyère on top. Arrange the slices so they cover—they'll melt into each other anyway but it looks right when it goes in.
+
+Pour the hot vegetable broth evenly over everything. Not all at once from one corner. Slowly. Let it settle. Season with pepper. Just do it now, don't wait.
+
+Bake uncovered for 25 to 35 minutes. You're waiting for the cheese to melt completely, the broth to bubble at the edges, the whole thing to get a little thicker. The bread should be soft underneath but still hold the shape of the layers. Some broth will still be liquid. That's right.
+
+Serve immediately. It gets weird if it sits. The bread gets mushy in the bad way, the cheese gets rubbery. Straight from the oven to the bowl.
+
+## Cabbage Soup with Bread Tips and Common Mistakes
+
+Don't skip the braising step. If you throw the raw cabbage straight into the broth, it tastes raw. Fifteen minutes does something.
+
+The lemon on the bread is not optional. Tried it once without. Too heavy. The citrus lifts it.
+
+Hot broth matters. Cold or warm broth and the cheese doesn't melt right. It gets weird and chunky.
+
+Don't cover it while baking. You want the broth to reduce a little and the top to set. Covered and you end up with soup that's too thin.
+
+Hazelnut oil—if you don't have it, use vegetable broth and a tablespoon of butter at the end. Not the same but close. Olive oil and it's too loud.
+
+The bread thickness matters. Too thin and it dissolves. Too thick and it doesn't soak. Country-style bread is usually right.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Country Cabbage Soup
+
+**Can I make this ahead?**
+Don't. Assemble it and bake it fresh. The bread gets weird if it sits in broth overnight.
+
+**What if my cabbage is really big?**
+Use half of it. One small Savoy is the amount. A big cabbage makes too much volume and it doesn't cook the same way.
+
+**Does the vegetable broth need to be specifically vegetable?**
+Chicken works. It changes the flavor a bit but not bad. Something with salt and a little body—that's the main thing.
+
+**Can I use a different cheese?**
+Gruyère's important here because it melts smooth and doesn't break. Emmental works. Comté works. Cheddar gets grainy. Just doesn't.
+
+**What does the hazelnut oil do exactly?**
+Makes it rounder. Softer. Not something you taste directly but if you make it twice—once with hazelnut oil, once without—you'll feel the difference. Hard to explain.
+
+**Why lemon and not garlic on the bread?**
+Garlic is the obvious move. This one's different. Lemon's fresher against the richness of the cheese and broth. Both work. This one's better.
