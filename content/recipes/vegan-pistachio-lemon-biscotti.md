@@ -1,10 +1,10 @@
 ---
-title: "Vegan Pistachio Lemon Biscotti"
+title: "Pistachio Cookies with Lemon Zest"
 slug: "vegan-pistachio-lemon-biscotti"
-description: "Crunchy vegan biscotti with pistachios and bright lemon zest. Uses oat milk coffee creamer replaced with almond simplest. Flour slightly lowered for better bite; sugar tamed down a bit. Baked twice—first dense loaf then sliced and toasted until golden and crisp. Pistachios give texture; lemon zest wakes it up. No eggs, no dairy, no tricks. Perfectly dry slices for dunking. Watch color shifts, not the clock. Experimented with almond drink; holds moisture better. Oil maintains tenderness without greasiness. Expect a scent of nutty citrus while baking. Browned edges and clean toothpick signal readiness. A touch nutty, a bit tart, but firmly crisp. Keep stored airtight to avoid softening."
-metaDescription: "Crunchy vegan pistachio lemon biscotti made with almond creamer, fresh zest, twice baked for crispness. Nutty, tart, and perfect for dunking in warm drinks."
-ogDescription: "Vegan pistachio lemon biscotti baked twice—crispy, nutty, tart. Almond creamer swap, fresh zest, toasted nuts. Snack or dunk. Watch color not clock."
-focusKeyphrase: "vegan pistachio lemon biscotti"
+description: "Crispy vegan pistachio cookies made with roasted pistachios, bright lemon zest, and almond creamer. Twice-baked biscotti-style treats perfect for dunking."
+metaDescription: "Make pistachio cookies with roasted pistachios and fresh lemon zest. Vegan biscotti-style treats with almond creamer. Crispy, nutty, and delicious. Try it tonight."
+ogDescription: "Vegan pistachio cookies with roasted pistachios, lemon zest, and almond creamer. Crispy twice-baked biscotti you'll love."
+focusKeyphrase: "pistachio cookies"
 date: 2025-09-28
 draft: false
 image: vegan-pistachio-lemon-biscotti.jpg
@@ -21,9 +21,18 @@ tags:
 - "cookies"
 - "easy"
 keywords:
-- "pistachio biscotti"
-- "vegan dessert"
-- "twice baked biscotti"
+- "pistachio cookies"
+- "cookie recipes with pistachios"
+- "vegan biscotti"
+- "pistachio shortbread cookies"
+- "lemon vegan cookies"
+- "biscotti pistachio recipe"
+- "cookies with pistachios recipes"
+- "pistachio nut cookies recipe"
+- "roasted pistachio cookies"
+- "vegan pistachio biscotti"
+- "twice baked cookies"
+- "lemon pistachio biscotti"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "140"
@@ -65,3 +74,66 @@ faq:
 - "q: How to store biscotti best? a: Airtight container needed. Avoid moisture and air exposure—biscotti lose crunch fast otherwise. Cool completely before sealing or slices get gummy. Room temp okay; fridge no need but humidity risk. Can freeze in seal bags if longer storage. Bring back crisp in toaster if softened."
 
 ---
+
+Pistachio zest hitting you first. Not sweet. Not overpower. Just this bright thing underneath everything else. That's the whole move here.
+
+## Why You'll Love These Pistachio Cookies
+
+Makes 24 of them in just over an hour.
+Vegan. No eggs, no butter, nothing weird. Just pistachios, lemon, oil, and almond creamer doing the heavy lifting. Works every time.
+Dunks in coffee without falling apart. Gets softer, stays together. Other cookies don't do that.
+The pistachio nut flavor comes through without being fake or dusty tasting.
+They're actually easy. Not "easy for baking." Easy easy. Hand mix, shape, done.
+
+## What You Need for Pistachio Nut Cookies
+
+180 grams all-purpose flour. Unbleached works better here—tastes less powdery. 95 grams sugar. Granulated. 6 milliliters baking powder. That's just over a teaspoon. Keep it exact or they don't rise right.
+
+70 grams roasted, shelled pistachios. Raw ones don't have the same thing going on. Toast them yourself if you only find raw. Makes a difference. 130 milliliters almond coffee creamer. Not regular almond milk. Not heavy cream. The coffee creamer version. Different texture. 60 milliliters neutral oil. Vegetable, sunflower, doesn't matter. Not olive. Olive tastes wrong here. One lemon. Finely grated zest. The yellow part only. White stuff is bitter.
+
+## How to Make Pistachio Cookies
+
+Get your oven to 180 Celsius—350 Fahrenheit. Center rack. Line a baking sheet with parchment or silicone. Matters because these stick otherwise.
+
+Whisk flour, sugar, baking powder, and pistachios together in a bowl. Actually blend the pistachios in here. Don't skip that step. Pour in the almond creamer, oil, lemon zest. Mix with your hands. Flour them first so it doesn't stick to your palms. The dough comes together fast. Stop mixing the second it does. Overwork it and you get dense, tough biscotti. Not what we're doing.
+
+Shape the dough into a rough rectangle. About 30 centimeters by 10 centimeters. Right on the baking tray. Pat it gently. Slightly thick. Not flat like a cookie sheet would be.
+
+## How to Get Pistachio Cookies Crispy and Golden
+
+Bake 28 to 33 minutes. The corners turn light golden first. That's your signal. Stick a toothpick in the middle. Should come out mostly clean but with moist crumbs hanging on. Not wet. Moist. Different thing. Pull it out and let it cool on the rack for 5 minutes. Then move it to the counter. Another 10 minutes. Still warm but not hot.
+
+Get a serrated bread knife. Slice the loaf diagonally into 1-centimeter thick pieces. Keep the cuts neat. Ragged edges burn faster and taste bitter. Lay them flat on baking trays. Air needs to move around them. Bake at the same temperature—180 Celsius—for 14 to 18 minutes, flipping halfway through. Watch them. The second time around goes faster than you think. Golden edges and firm but not dark brown. Snap when you bend them. Not snap like a dry stick. Snap like they're done. Cool completely on the rack before you touch them again or they'll bend.
+
+## Pistachio Cookies Tips and Storage
+
+Pistachios get bitter if you toast them hot. Medium heat. That's it. The lemon zest is the whole thing that makes these not taste like regular biscotti. Don't skip it. Don't reduce it. Exactly as written.
+
+Store them airtight. Seriously. Leave them out and they get soft or worse—soggy if your air is humid. Glass container with a seal works. They last 5 days easy. Maybe longer but they won't survive that long anyway.
+
+The cookie recipes with pistachios you see everywhere usually use butter and eggs. These don't. Vegan doesn't mean sacrifice here. Actually tastes better because the pistachio comes through instead of getting buried in richness.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pistachio Nut Cookies Recipe
+
+**Can I skip the lemon zest?**
+No. That's the thing. Skip it and they taste like nothing special. Just almond and nut. The lemon is what makes pistachio cookies actually taste like pistachio cookies.
+
+**What if I only have raw pistachios?**
+Toast them first. Medium heat, 5 minutes, stir them around. Brings out the flavor. Raw ones are pale and don't have anything going on.
+
+**How thick should the rectangle be before baking?**
+Slightly thick. Like maybe half an inch. Thinner and it bakes too fast, doesn't cook through. Thicker and the inside stays dense.
+
+**Can I use regular almond milk instead of the creamer?**
+Won't work the same way. Regular almond milk is thinner. You'll end up with a wetter dough that spreads. The coffee creamer has more body. Different product entirely.
+
+**Do these actually stay vegan if I use chocolate chip and pistachio cookies instead?**
+Only if your chocolate chips are vegan. Most aren't. Shortbread cookies with cranberries and pistachios work too—just swap the cranberries in with the pistachios, use vegan butter, and follow the same method. Haven't tested it but probably fine.
+
+**How do I know when they're done baking the second time?**
+They should snap. Not bend. Actually snap when you break one. Golden on the edges, pale in the middle is fine. Dark brown means they're burned already.
+
+**Can I make pistachio shortbread cookies instead of biscotti?**
+Different thing. These are biscotti because you bake them twice. Shortbread is one bake. You'd need different proportions and butter. This recipe won't make shortbread cookies with pistachios.
