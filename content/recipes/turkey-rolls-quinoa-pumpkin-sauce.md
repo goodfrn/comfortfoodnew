@@ -1,10 +1,10 @@
 ---
-title: "Turkey Rolls Quinoa Pumpkin Sauce"
+title: "Butternut Pumpkin Pasta Sauce with Sage"
 slug: "turkey-rolls-quinoa-pumpkin-sauce"
-description: "Turkey escalopes stuffed with a spiced quinoa leek filling. Wrapped in foil, roasted. Served with a creamy puréed pumpkin sauce finished with grainy mustard. No nuts dairy gluten or eggs. Makes four servings. Cooking relies on texture and aroma not clocks. Changes: less quinoa, swapped butternut for kabocha squash, replaced cranberries with chopped dried apricots. Sauce enriched with fresh sage. Can swap chicken broth for vegetable if needed. Rolls flattened to a thinner rectangle, timing adjusted by 5 minutes each step. Simple, hearty, rustic flavors, aromatic spices brighten the dish."
-metaDescription: "Turkey Rolls Quinoa Pumpkin Sauce, spiced quinoa leek stuffed escalopes roasted in foil, creamy kabocha pumpkin puree with grainy mustard finish. Rustic French inspired dish."
-ogDescription: "Turkey escalopes rolled thin, stuffed with cinnamon-spiced quinoa & apricots. Roasted in foil, served with pumpkin mustard sauce. Rustic, hearty, and aromatic flavors."
-focusKeyphrase: "Turkey Rolls Quinoa Pumpkin Sauce"
+description: "Creamy butternut pumpkin pasta sauce enriched with fresh sage, garlic, and grainy mustard. This gluten-free sauce pairs perfectly with pasta or gnocchi for a simple, rustic dinner."
+metaDescription: "Butternut pumpkin pasta sauce with fresh sage and grainy mustard. Creamy, dairy-free, and ready in minutes. Try it tonight."
+ogDescription: "Creamy sage pumpkin sauce with kabocha squash, garlic, and grainy mustard. Simple, rustic, and naturally gluten-free."
+focusKeyphrase: "butternut pumpkin pasta sauce"
 date: 2025-08-10
 draft: false
 image: turkey-rolls-quinoa-pumpkin-sauce.jpg
@@ -21,9 +21,18 @@ tags:
 - "roasted"
 - "main dish"
 keywords:
-- "turkey rolls"
-- "quinoa filling"
-- "pumpkin sauce"
+- "butternut pumpkin pasta sauce"
+- "pumpkin pasta sauce"
+- "creamy pumpkin pasta sauce"
+- "pumpkin sauce with sage"
+- "gnocchi and pumpkin sauce"
+- "pasta with pumpkin sauce recipe"
+- "pumpkin sauce recipe"
+- "sage pumpkin sauce"
+- "pumpkin alfredo sauce"
+- "dairy-free pumpkin sauce"
+- "gluten-free pasta sauce"
+- "squash pasta sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -84,3 +93,106 @@ faq:
 - "q: How to store leftovers safely? a: Cool quickly, wrap tight in foil or airtight containers. Refrigerate up to 3 days. Reheat gently in oven wrapped to keep moisture; microwave dries edges fast. Sauce separately reheated with splash broth keeps texture. Freeze if needed but slice before freezing best for even reheating."
 
 ---
+
+Turkey escalopes stuffed with quinoa and apricots, wrapped and roasted till the filling swells against tender meat. The kabocha squash sauce—bright with mustard, warm with sage—pools underneath. Forty minutes to prep. Eighty minutes cooking. Not a weeknight thing.
+
+## Why You'll Love This Butternut Pumpkin Pasta Sauce
+Takes two hours total but most of it's hands-off roasting. The filling cooks while you make the sauce. Everything happens at once if you move right.
+
+Sounds complicated. The actual steps are simple—sweat the leek, simmer the quinoa, puree the squash, pound and stuff and wrap, roast. No timing juggling because nothing cares if you're five minutes late.
+
+Works as a main course for Thanksgiving or any dinner when you want something that looks like you tried. Cold leftovers taste better than hot, sliced thin with a salad.
+
+The pumpkin sauce itself works on gnocchi, on spaghetti, on basically any pasta if you skip the turkey entirely. Makes enough to save.
+
+Tastes sweet and savory at the same time—apricots, mustard, sage, cinnamon barely there. Most people can't name what they're eating.
+
+## What You Need for Butternut Pumpkin Sauce with Roasted Turkey
+
+Kabocha squash. Peel it raw or roast it first—raw's faster. The flesh goes soft in the broth. Not butternut. Kabocha has a different thing going on.
+
+One small shallot minced fine. Garlic—two cloves, crushed. Olive oil. Chicken or vegetable broth, two cups. Grainy mustard. Not smooth. The grains matter. Five sage leaves fresh. Salt and pepper.
+
+For the filling: white leek. Diced. Thyme. Olive oil again. More broth. Quinoa rinsed—this matters, gets the soap taste off. Cinnamon and nutmeg, just a pinch each. Dried apricots chopped. Four turkey escalopes, about five ounces each.
+
+That's it. Nothing hidden. If you don't have thyme, skip it. If you don't have apricots, use figs or dried cherries instead.
+
+## How to Make Butternut Pumpkin Pasta Sauce
+
+Start with the filling because it needs to cool. Medium-low heat, olive oil. The white leek goes in first. Thyme with it. Don't brown anything. Gentle. Four to five minutes till it starts to give. You're not cooking it hard—you're waking it up.
+
+Broth in. Quinoa rinsed and in. Cinnamon. Nutmeg. Just pinches. Bring it to a simmer. Cover the pot. Low heat. It bubbles slow now, around eighteen to twenty minutes. The grains swell. They get this tiny tail that sticks out—that's done. Not mushy. Not crunchy. The liquid disappears. 
+
+Stir in the apricots while everything's still warm. Let it sit uncovered. Cool it down because if the filling's hot when you stuff the turkey, the meat shrinks unevenly and tears. You need it room temperature, maybe cooler.
+
+Now the sauce. Medium heat, olive oil. Squash in—all of it, diced. Shallot. Garlic crushed. Stir often. Seven minutes and it smells like garlic and sage coming through. The squash starts to soften at the edges.
+
+Two cups broth. Five sage leaves torn up. Simmer uncovered. Twenty-two to twenty-five minutes. The squash falls apart when you push it with a spoon. The broth reduces. It's thicker now.
+
+Blend it. Do it in batches because hot puree spatters everywhere. Get it smooth. No fibrous bits. This matters. If you see strings, blend longer. Add the mustard last—after blending—or it gets bitter. Tastes punchy now. Salt it. Pepper. If it's thick like paste, add a splash more broth. It should move when you tilt the bowl.
+
+Keep it warm on low. Don't boil it again.
+
+## How to Get Turkey Escalopes Tender and Roasted Perfect
+
+Oven to 185°C (365°F). Middle rack. Let it heat while you prep.
+
+Two escalopes at a time. Lay one between two pieces of plastic wrap. Roll a rolling pin over it. Hard but not violent. Flatten it even. About twenty by fifteen centimeters. You want it thin enough that the filling shows through when you hold it up but thick enough it doesn't tear.
+
+Remove the top plastic. Salt lightly. Pepper. Spoon half the filling along the wider edge. Make a line. Roll it tight—start at the filled edge, roll it away from you, flatten as you go so the filling doesn't spill out the sides. About twenty centimeters long, four centimeters thick. Peel off the bottom plastic.
+
+Tear a piece of heavy aluminum foil. Lay the roll in the center. Wrap it tight. Twist the ends like you're wrapping a candy. This seals the steam inside. The turkey stays juicy.
+
+Set it on a baking sheet. Repeat with the other two escalopes.
+
+Roast fifty minutes minimum wrapped. Don't open it. Don't check. The foil holds everything. After fifty minutes, touch it through the foil—it should feel firm but give slightly when you press. Still juicy inside.
+
+Remove the foil. Roast exposed five to seven minutes. This dries the edges, browns them. Watch it close. It browns fast once exposed. Edges go dark quick.
+
+Rest five minutes. Just five. The juices lock back in. Slice with a sharp serrated knife—thick disks, not thin. Serve hot with the pumpkin sauce spooned over.
+
+## Tips and Common Mistakes with Turkey and Pumpkin Sauce
+
+Cool the filling completely before stuffing or the turkey shrinks uneven and the filling splits the meat open. This is the only rule that matters.
+
+Quinoa done when the grains look slightly translucent and you see a tiny tail curled around each grain. Too much broth and it goes mushy. Too little and it stays crunchy. The liquid should vanish exactly when the texture's right.
+
+Kabocha sometimes tastes bitter. If yours does, stir in extra apricots or a drizzle of honey into the warm sauce. It balances. Figs work instead of apricots. Dried cherries work. Doesn't matter which.
+
+Garlic burns fast. Medium heat. Stir constantly those first seven minutes. If it goes brown, start over with fresh cloves. Burnt garlic tastes acrid and ruins everything.
+
+Pounding the escalopes is a skill. Too thick and the filling disappears inside the meat. Too thin and it tears when you roll. Press down firm but steady. Gentle pressure. Takes practice.
+
+The foil wrapping is the thing that guarantees tender turkey. Steam gets trapped. Moisture stays. You can't dry it out no matter how long it sits in there.
+
+Blending the sauce—push it through a fine sieve if you're worried about texture. Any fiber shows. The mustard goes in after blending or heat breaks it down and kills the punch. This sauce should taste bright and sharp underneath the squash sweetness.
+
+Serve with wilted spinach or roasted baby potatoes tossed in rosemary. Cold leftovers slice thin and go on salad with mustard vinaigrette.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Butternut Pumpkin Pasta Sauce
+
+**Can I make the pumpkin sauce ahead of time?**
+Yeah. Make it the day before. Store it in a container. Reheat it low and slow on the stove. Add a splash of broth if it thickened too much. Sauce pumpkin keeps five days easy.
+
+**What if I don't have kabocha squash?**
+Butternut works. Takes longer to cook—maybe five extra minutes. Taste it as you go. The sauce should be smooth and sweet. Pumpkin sauce for spaghetti works the exact same way if that's what you have.
+
+**Can I skip the turkey and just serve the sauce?**
+Do it. The pumpkin sauce for pasta is good on its own. Gnocchi and pumpkin sauce. Gnocchi in pumpkin sauce. Spaghetti. Ravioli—pumpkin ravioli and sauce works perfect. The filling becomes irrelevant.
+
+**How do I know the turkey's cooked through?**
+Touch it. Firm but not hard. Not soft. If you're nervous, cut into one roll after the wrapped roasting and check inside—should be pale, no pink, cooked through. Rest it five minutes and the carryover heat finishes any pale spots.
+
+**Can I use store-bought pumpkin puree instead of cooking squash?**
+Probably. You'd skip the first part—sweating the squash. Go straight to adding the puree to the broth. One cup puree, maybe less. Taste it. Adjust. The texture might be different. Thicker. Add broth to thin it.
+
+**What about the gnocchi and pumpkin sauce combo?**
+Works perfect. Make the sauce. Cook store-bought gnocchi in salted water. Toss with the warm pumpkin sauce. This is a main course for Thanksgiving or any dinner. Faster than the turkey version.
+
+**Does the pumpkin spaghetti work with fresh pasta?**
+Yeah. Fresh cooks faster. Sauce pumpkin is thick enough that it coats it fine. The mustard keeps it from tasting too sweet.
+
+**Can I make this into pumpkin ravioli sauce without the turkey?**
+Yeah. Skip the turkey escalopes entirely. The pumpkin sauce for ravioli is exactly what you need. Stuff the ravioli with whatever—ricotta, sage, butter. The sauce pumpkin goes over top. Pumpkin ravioli sauce is basically this.
