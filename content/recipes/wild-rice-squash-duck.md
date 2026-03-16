@@ -1,10 +1,10 @@
 ---
-title: "Wild Rice Squash Duck Bowls"
+title: "Duck Confit with Wild Rice and Roasted Squash"
 slug: "wild-rice-squash-duck"
-description: "Wild rice simmered till soft, combined with roasted squash and caramelized shallots, then topped with earthy sautéed mushrooms and shredded duck confit. A punchy orange crema and peppery greens bring brightness. A confident mix of textures and deep flavors. Simple swaps for mushrooms and greens recommended. Timing guided by aromas and textures, not the clock. Perfect for hands-on home cooks wanting depth without fuss. Avoid soggy rice by rinsing, and don't rush roasting, watch for that golden crunch. Sauce balances richness—bright acidity needed. Duck confit heated gently to keep tender, not greasy. Rustic, well-layered, resilient to ingredient changes."
-metaDescription: "Wild rice with roasted kabocha, caramelized shallots, sautéed cremini mushrooms and shredded duck confit topped with punchy orange crema and peppery greens."
-ogDescription: "Wild rice layered with roasted squash and shallots, earthy mushrooms, shredded duck confit plus a bright orange crema for tang and a peppery green finish."
-focusKeyphrase: "Wild Rice Squash Duck Bowls"
+description: "Duck confit recipe with wild rice, roasted kabocha squash, cremini mushrooms, caramelized shallots, and bright orange crema. Rustic, layered flavors perfect for home cooks."
+metaDescription: "Duck confit recipe featuring wild rice, roasted squash, cremini mushrooms, and orange crema sauce. Complex flavors, simple execution. Make it tonight."
+ogDescription: "Shredded duck confit over wild rice with roasted squash, mushrooms, caramelized shallots, and citrus crema. Restaurant-quality depth at home."
+focusKeyphrase: "duck confit recipe"
 date: 2025-08-19
 draft: false
 image: wild-rice-squash-duck.jpg
@@ -20,9 +20,18 @@ tags:
 - "mushroom"
 - "roasted"
 keywords:
-- "wild rice"
+- "duck confit recipe"
 - "duck confit"
-- "roasted squash"
+- "shredded duck confit"
+- "confit duck leg recipe"
+- "wild rice bowls"
+- "french duck confit recipe"
+- "crispy duck confit"
+- "duck leg recipes"
+- "cassoulet duck recipe"
+- "confit cooking"
+- "roasted squash recipes"
+- "cremini mushroom dishes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "870"
@@ -81,3 +90,65 @@ faq:
 - "q: Can I store leftovers? a: Yes but best eaten next day. Keep components separate if possible—duck wrapped cool, rice rinsed and cooled, veggies cooled but drained. Reheat duck gently. Orange crema store chilled separately. Greens toss fresh to avoid wilting."
 
 ---
+
+Shredded duck confit over wild rice with roasted squash. That's basically it.
+
+## Why You'll Love This Duck Confit Recipe
+
+Takes under two hours from start to finish — 50 minutes prep, 55 minutes cooking. Roasted mushrooms hit different when they're caramelized hard on one side. The orange crema sounds weird but it's not. Squash gets soft. Rice stays chewy because you rinse it. Duck confit legs are already cooked, so you're just warming them — fat stays silky, meat falls apart. Spinach or arugula at the end keeps it from feeling heavy. Works as a weeknight dinner or something you'd actually serve people.
+
+## What You Need for Duck Confit Bowls
+
+Wild rice. Not long-grain. Use slightly less than the recipe says — 210 grams, rinsed first. Salt. Kabocha squash works best but acorn does fine too. 350 grams, diced. Olive oil — separate amounts for the squash and shallots. Fresh thyme or swap it for rosemary if that's what you have. Two medium shallots, thinly sliced. White wine vinegar. Cremini mushrooms, halved — replace white mushrooms with cremini every time. Soy sauce instead of Worcestershire if that matters to you. Four duck confit legs. Bones removed, shredded, then warmed gently. Spinach or arugula depending on how spicy you want it.
+
+Orange crema: sour cream, mayonnaise, fresh orange juice, white wine vinegar, finely grated orange zest. That's it.
+
+## How to Make Duck Confit with Wild Rice
+
+Start the rice first. Bring water, wild rice and salt to a boil in a covered pot — don't crank the heat though. Simmer gently. The grains split open but stay chewy around 35 to 45 minutes. Drain it, rinse under cold water. This stops the cooking and keeps everything separate, not mushy. Let it cool a bit.
+
+Position your oven rack in the center. Heat it to 230°C (450°F). Higher temp means more caramelization.
+
+Toss the squash with half the olive oil, thyme, salt and pepper. Spread it on half a baking sheet lined with parchment. Toss the shallots separately with vinegar, the remaining oil, salt and pepper — they go on the other half of the sheet. Roast 18 to 20 minutes. Squash edges should caramelize, stay tender but not falling apart. Shallots soften, edges light golden. Don't stir them. Let the roasting intensity do the work.
+
+## How to Get Crispy Roasted Mushrooms and Duck Confit Together
+
+High heat in a skillet. Small bit of oil. Mushrooms go in — don't overcrowd or they'll stew instead of brown. Stir occasionally until just browned, about 8 minutes. Add soy sauce, cook off the moisture completely. The flavor concentrates. Season with freshly cracked pepper. Shiny edges, slightly crisp.
+
+Duck confit legs come already cooked. Bone removed, shredded, warmed gently. The key is gentle — you want the fat solid but tender, not melted everywhere.
+
+## Duck Confit Assembly and Serving Tips
+
+Rice goes in the bowl first as the base. Place the squash, shallots, mushrooms in distinct sections. Don't mix them. Show the colors and textures separately. Pile the shredded duck confit on top — warm but not hot. Finish with fresh greens. Spinach works if arugula's too spicy.
+
+Drizzle orange crema generously. You can serve more on the side. The crema is sour cream, mayo, fresh orange juice, white wine vinegar, orange zest whisked together. Taste it — too tart? Add a touch of honey or maple syrup.
+
+Serve while vegetables are still warm. Rice is room temperature or slightly warm. Duck stays succulent. Watch for the textures hitting at once: firm rice, soft squash, tangy shallots, meaty mushrooms, rich duck, peppery greens, zesty sauce.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Duck Confit Recipes
+
+**Can I use a different cut of duck instead of confit legs?**
+Duck confit legs are already cooked in duck fat. Other cuts need cooking. If you want to use breast, cook it first — sous vide confit method works or roast it. But confit legs are easier. They're already there.
+
+**How do I store duck confit at home?**
+It comes in fat. That's the whole point. Keep it sealed in that fat, stays fresh for weeks in the fridge. If you're making it from scratch, cooking in duck fat means it keeps longer. Don't let it dry out.
+
+**Should I warm the duck confit or serve it cold?**
+Warm it gently. If the fat gets too hot it separates and the meat gets tough. Just warm enough that it's not cold — that's it.
+
+**Can I make this recipe with leg of duck confit I bought at the store?**
+Yes. That's the point of using confit duck leg — it's already done. Remove the bone, shred it, warm gently. You're just assembling.
+
+**What if I don't have orange juice?**
+Use lemon juice instead. The crema needs acid. Orange is better but lemon works. Skip the zest if you switch.
+
+**Does this work as a meal prep recipe?**
+The rice keeps fine. Roasted vegetables keep fine. Don't dress them until you eat — they get soft. Duck confit reheats gently. Keep the crema separate. Assemble cold, then warm the components individually. Takes five minutes.
+
+**Can I use white mushrooms instead of cremini?**
+You can. They'll be blander though. Cremini have more flavor. If that's all you have, cook them longer, get more color on them, add more soy sauce.
+
+**How do I know when the wild rice is done?**
+Grains split open. The center still has a slight chew. Not all the way soft. Taste one. If it's mushy it's overdone.
