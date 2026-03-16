@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Coulis French Toast"
+title: "French Toast with Strawberry Coulis"
 slug: "strawberry-coulis-french-toast"
-description: "A twist on classic French toast paired with a fresh strawberry coulis. Uses light brown sugar instead of cassonade for a subtle molasses note. Eggs and milk mix infused with cinnamon powder for extra warmth. Cook time slightly adjusted to get those golden crispy edges while keeping the inside tender. The strawberry coulis strained to remove gritty seeds ensures a velvet finish. Finished with powdered sugar dusting and little heart-shaped cutouts to add charm. Butter swapped for olive oil for a savory depth. Offers tips on avoiding soggy bread, recognizing doneness by scent and texture, plus ingredient substitutes like coconut milk or almond extract to play with flavors. Vintage technique meets modern tweaks and a few personal hacks."
-metaDescription: "Strawberry Coulis French Toast with a cinnamon infused custard and smooth seeded coulis. Olive oil crisp edges, heart cutouts, and powdered sugar dusting tip off textures."
-ogDescription: "Crunchy edges meet cinnamon warmth; strawberry coulis strained for silky finish. Olive oil swap, day-old bread, heart cut shapes. Watch timing by scent and crackle."
-focusKeyphrase: "Strawberry Coulis French Toast"
+description: "Classic French toast made with eggs, milk, and cinnamon, topped with homemade strawberry coulis. Golden, crispy edges with a tender center and powdered sugar finish."
+metaDescription: "French toast recipe with fresh strawberry coulis, eggs, and cinnamon. Golden, crispy outside and tender inside. Make it tonight."
+ogDescription: "Fluffy French toast with cinnamon and strawberry coulis. Crispy edges, tender center, powdered sugar finish."
+focusKeyphrase: "french toast"
 date: 2025-09-25
 draft: false
 image: strawberry-coulis-french-toast.jpg
@@ -21,9 +21,18 @@ tags:
 - "cinnamon"
 - "easy"
 keywords:
-- "French toast"
-- "strawberry coulis"
-- "olive oil cooking"
+- "french toast"
+- "french toast recipes"
+- "easy french toast recipe"
+- "best french toast recipe"
+- "french toast ingredients"
+- "simple french toast recipe"
+- "toast with cinnamon"
+- "baked french toast"
+- "brioche french toast"
+- "eggy bread"
+- "french toast casserole"
+- "overnight french toast"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
@@ -70,3 +79,83 @@ faq:
 - "q: How to store leftovers? a: Cover toast loosely; store coulis separately refrigerated. Warm toast in low oven to revive edges before serving. Don’t microwave covered toast—it steams, loses crisp. Coulis can keep a couple days sealed tight. Reheat gently or serve cold; acidity balances richness even cold."
 
 ---
+
+Submerge the bread until it's fully saturated but not falling apart. Day-old works best — fresh bread turns mushy. Hear the gentle hiss when it hits the hot skillet. That sound tells you everything.
+
+## Why You'll Love This French Toast Recipe
+
+Takes 32 minutes total, and most of that is just waiting around. Breakfast that looks fancy but isn't. The strawberry coulis tastes like you spent way longer on it than you actually did. Cinnamon does the heavy lifting — masks blandness, adds warmth, makes your kitchen smell like a bakery. Heart-shaped cutouts mean even scrambled mornings feel like something. Kids eat it without negotiating. Works just as well with coconut milk if you're skipping dairy.
+
+## What You Need for French Toast
+
+Strawberries. Fresh or thawed frozen. Two cups worth. Toss them with light brown sugar in a food processor and blitz until the sound shifts from chunky to smooth. Press it through a fine mesh sieve — gets the seeds out, prevents that gritty thing. Chill it while you do everything else.
+
+Whole milk or coconut milk. Half a cup plus a tablespoon. Dairy-free works the same.
+
+Two eggs. Large. Vigorously whisked is the only way.
+
+Light brown sugar — packed. A fifth of a cup. Same stuff in the strawberry situation, but you need it twice.
+
+Ground cinnamon. Important. Three-quarters of a teaspoon. Don't skip it. Seriously.
+
+Vanilla extract or almond extract if you want nuttier. Half a teaspoon vanilla. Two milliliters almond if you go that route.
+
+Four slices of white bread. Day-old preferred. Fresh bread falls apart. Old bread holds together.
+
+Olive oil. Extra virgin. Two tablespoons. Butter burns too fast on the griddle.
+
+Powdered sugar for dusting. And a small cookie cutter — heart-shaped or whatever shape you have lying around.
+
+## How to Make French Toast
+
+Whisk eggs with milk, sugar, vanilla, and cinnamon until it looks smooth. If it looks curdled, keep whisking. The mixture should be uniform — that's what gets you even coating. It smells faintly spicy right now. That'll deepen once it hits heat.
+
+Submerge each bread slice. Fully saturated. Not falling apart. Day-old bread resists sogginess. Fresh bread turns mushy fast. Let excess drip off — soggy causes limp toast. No good.
+
+Preheat the skillet on medium-low heat. Test by flicking water drops on it — should sizzle gently, not spit furiously. Add olive oil, swirling to coat evenly. Butter burns quickly. Olive oil heats steadier, adds subtle earthiness.
+
+## How to Get French Toast Crispy and Golden
+
+Place two slices at once. Hear gentle hiss. Cook approximately 2 to 3 minutes per side or until golden brown with crisp edges. Flip carefully with a thin spatula — saggy bread tears easily. The smell must be fragrant. Nutty. Sweet. Cinnamon perfume. Texture firm but yielding means it's ready. Transfer to a warm oven at 95°C (200°F) to keep it warm without drying out.
+
+Using your cookie cutter, punch heart shapes from each slice. Leftover bits are snack-worthy. Dust all with powdered sugar. Visually sharp contrast. Subtle sweetness. This step is all about presentation and actually having fun with breakfast.
+
+Spoon chilled strawberry coulis liberally on plates first. Vivid red shines beneath the toast. Adds juicy acidity to every bite.
+
+## French Toast Tips and Common Mistakes
+
+Serve immediately. Be wary of mixing too early. Soggy is enemy number one. The softness of bread restrained by crisp shell is what you're after.
+
+Adjust heat carefully. Too hot burns exterior while cold interior ruins texture. Practice listening. Listen for a subtle crackle and smell that tells the story. This matters more than watching.
+
+For dairy-free swaps, coconut milk and olive oil work best. Almond extract swaps for vanilla for nuttier notes. Bread substitutions like brioche or challah possible but soak times shorten — maybe 10 seconds less.
+
+Cold interior while the outside is dark. That's a heat problem. Lower the temperature next time. Listen for that crackle. Don't trust your eyes as much as your ears.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About French Toast
+
+**Can I make this the night before?**
+The coulis, yes. Chill it overnight — actually tastes better. The toast itself? No. Make it fresh. It doesn't reheat well. Gets soggy or rubbery depending on your method.
+
+**What if I don't have day-old bread?**
+Fresh bread works. Just don't submerge it as long. Maybe 3 seconds per side instead of 5. It absorbs faster and falls apart quicker.
+
+**Can I use brioche or challah instead?**
+Yeah. They're richer, more buttery. Soak time shortens because they're tender already. Test with 2 or 3 seconds. They'll go from dipped to disintegrating fast.
+
+**Why does my French toast come out pale?**
+Heat's too low. Medium-low is the start, but if yours isn't browning in 2 to 3 minutes per side, nudge it up slightly. Listen for a louder sizzle — not violent, just more pronounced.
+
+**Does almond extract taste totally different than vanilla?**
+Nuttier. More distinct. Some people prefer it. Try both ways. Vanilla is safer if you're unsure.
+
+**What if I don't have a heart-shaped cutter?**
+Just don't cut them. Or cut triangles. Or circles. The shape doesn't matter — it's just fun. The toast works exactly the same.
+
+**Can I use almond milk or oat milk instead of whole milk?**
+Almond milk works fine. Oat milk works too. Texture comes out basically identical. Dairy-free is the whole point of the swap anyway.
+
+**How long does the strawberry coulis keep?**
+Three to four days in the fridge. Probably longer. Hasn't gone bad on me yet.
