@@ -1,10 +1,10 @@
 ---
-title: "Maple Dijon Vinaigrette"
+title: "Apple Cider Vinegar Dressing Recipe"
 slug: "maple-dijon-vinaigrette"
-description: "An easy tangy dressing that whips up fast, mixing dijon mustard, a splash of apple cider vinegar, olive oil, and a touch of honey for sweetness. Whisk until it thickens and emulsifies. Salt and pepper to punch it up. Great slathered on greens, roasted roots, or charred veggies. Can swing savory or slightly sweet depending on vinegar choice. Watch the texture closely, a good shake or stir prevents separation. Swap vinegar to your fridge’s will. Balances acidity and sweetness without fuss. Works cold. Timing loose—trust the smell and shiny blend. A quick whip that packs punch. Next level salads come from little tweaks here."
-metaDescription: "Maple Dijon Vinaigrette sharp and silky blend of dijon, cider vinegar, olive oil. Honey or maple syrup tames acidity. Great on greens, roasted roots, grilled veggies."
-ogDescription: "Tangy maple dijon vinaigrette whips up fast. Drizzle slow oil, sharp mustard, sweet honey or maple. Punchy with balanced acid, works on salads, roots, charred veggies."
-focusKeyphrase: "maple dijon vinaigrette"
+description: "Make this easy apple cider vinegar dressing with dijon mustard, honey, and olive oil. Whisk together for a tangy vinaigrette that emulsifies beautifully."
+metaDescription: "Easy apple cider vinegar dressing made with dijon mustard, honey, and olive oil. Quick homemade vinaigrette for salads and roasted veggies. Make it tonight."
+ogDescription: "Tangy vinaigrette with apple cider vinegar, dijon mustard, honey, and olive oil. Homemade dressing ready in minutes."
+focusKeyphrase: "apple cider vinegar dressing"
 date: 2025-12-18
 draft: false
 image: maple-dijon-vinaigrette.jpg
@@ -21,9 +21,16 @@ tags:
 - "honey"
 - "vegetarian"
 keywords:
+- "apple cider vinegar dressing"
 - "vinaigrette"
-- "maple syrup dressing"
-- "emulsified dressing"
+- "easy salad dressing"
+- "dijon mustard vinaigrette"
+- "honey mustard vinaigrette"
+- "apple cider vinegar and honey dressing"
+- "homemade vinaigrette with olive oil"
+- "dijon mustard and apple cider vinegar dressing"
+- "salad dressing recipe"
+- "tangy vinaigrette"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "120"
@@ -58,3 +65,87 @@ faq:
 - "q: Alternatives for honey? a: Maple syrup is go-to swap, adds woody note, stronger flavor. Agave or mild syrup work but change taste profile. Don’t overdo sweet or vinegar dominance shifts. Try small batch adjustments to find balance with whatever sweetener used."
 
 ---
+
+Dump the mustard and honey in a bowl first—that's where it starts. Six minutes total and you've got a vinaigrette that actually tastes like something, not like you just mixed oil and sadness. The trick isn't complicated. It's just slow.
+
+## Why You'll Love This Salad Dressing
+
+Works on literally any green. Any vegetable. Cold chicken. Roasted root stuff. Even as a marinade if you're feeling ambitious.
+
+Makes enough for a massive salad and then some. One small bowl. Takes basically no time.
+
+Tastes sharp but balanced—the honey keeps the vinegar from slapping you in the face. Most store versions use corn syrup and sit in a plastic bottle for six months. This one uses real ingredients. Honey. Apple cider vinegar. Oil. That's it.
+
+Actually emulsifies. Gets thick and shiny instead of separating into two sad layers. People notice.
+
+You probably have everything already. Dijon. Honey. Vinegar. Oil. Salt. Done.
+
+## What You Need for a Honey Mustard Vinaigrette
+
+Dijon mustard—not yellow mustard, not spicy brown. Dijon. A tablespoon. It's the anchor.
+
+Honey. Two teaspoons. Cold honey moves slow so if yours is hard, that's fine, it softens as you work.
+
+Apple cider vinegar. Two tablespoons. Not white vinegar. Too harsh. Not balsamic. Wrong direction. Apple cider. The reason this tastes sharp without tasting mean.
+
+Olive oil. Five tablespoons. The actual amount matters here because oil's where the emulsion happens.
+
+Salt and black pepper. Freshly ground pepper. Pre-ground tastes like dust.
+
+That's the whole thing. No garlic powder. No dried herbs. No complexity you don't need. The vegetables carry flavor. The dressing just amplifies.
+
+## How to Make Easy Salad Dressing
+
+Start with a small bowl or measuring cup—doesn't matter which. Dump in the mustard and honey. If honey's cold and stubborn, just let it sit a second. It softens fast and mixes better when it's not rock hard.
+
+Pour the apple cider vinegar in next. Swirl it around a bit but don't go crazy. You're just mixing, not aerating.
+
+Now grab a fork or a tiny whisk—a regular fork works fine—and start whipping. Fast. You're building an emulsion here. Watch the color change. It goes from separated and separated to thick and glossy and stuck to the sides of the bowl.
+
+This is the crucial part. Drizzle olive oil in slowly. Not all at once. Seriously. One slow pour and you've broken it. Thin stream. Keep whipping. The oil gets pulled into the vinegar and mustard instead of just floating on top.
+
+Look for thickening. A shiny coat on the sides. When it starts to hold together instead of sliding back into itself, you know it's working.
+
+## How to Get Your Dijon Mustard Vinaigrette Thick and Shiny
+
+If it stays liquidy and breaks, you added oil too fast. Not a disaster. Start fresh with a new spoonful of mustard in a clean bowl and try again. Slower this time. Pour maybe a teaspoon of oil at a time.
+
+Season with salt and black pepper. Taste it. Must be sharp but balanced. If it tastes like you're eating vinegar straight, add more honey. Just a tiny bit. Or more oil to mellow it out. If it tastes flat, salt. Salt brings everything up.
+
+Whisk one more time to make sure everything's blended. Sometimes the salt needs a moment to integrate.
+
+Pour it over your salad immediately if you can. The fresher, the better. But if it sits and separates later—oil pooling on top—just whisk again before serving. Usually happens after a day in the fridge. Shake the jar or whisk in the bowl. Comes right back together.
+
+## Easy Salad Dressing Tips and Variations
+
+Keeps about three days in a mason jar in the fridge. After that the sharpness fades a bit. Fresh is actually better. Make what you need.
+
+Want to change it up. Add minced shallots. Just a teaspoon. Adds bite without being weird. Or smoked paprika—like half a pinch—for smoke without changing the taste completely.
+
+Swap honey for maple syrup if you want something woodsy instead of clean. Different angle. Works.
+
+Apple cider vinegar is the thing here but lemon juice works if you only have that. Brighter. Less mellow. Adjust the honey up a little because lemon's harsher than vinegar. Balsamic goes too dark and sweet. Swaps would need less honey and might need extra salt. Not worth it usually.
+
+Olive oil matters more than people think. Bad olive oil tastes like grass clippings. Good oil tastes like olives. Use something decent but you don't need the expensive stuff. Mid-range works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Vinaigrette with Olive Oil
+
+**Can you make this dressing ahead of time?**
+Yeah. Lasts three days in the fridge. Shake it or whisk it again before you use it because the oil separates. Fresh is better but it's fine.
+
+**What if the dressing breaks and won't emulsify?**
+You added oil too fast. Start over with one fresh teaspoon of mustard and go slower. Takes 30 seconds longer but it works. The mustard is what holds it together.
+
+**Can you use different vinegar?**
+Lemon juice works. Tastes brighter. Red wine vinegar gets weird. White vinegar's too sharp. Balsamic makes it too sweet and heavy. Apple cider is the best version but lemon's the only real swap.
+
+**What salads go with this dijon mustard vinaigrette?**
+Any green. Spinach, arugula, butter lettuce, mixed. Works on warm roasted vegetables. Cold chicken. Grains. Potatoes. Basically everything.
+
+**How much dressing do you get from this recipe?**
+About three quarters of a cup. Enough for a big salad or to have extra.
+
+**Can you use honey substitutes?**
+Maple syrup changes the flavor but it works. Agave's too thin. Won't emulsify the same way. Honey's the thing.
