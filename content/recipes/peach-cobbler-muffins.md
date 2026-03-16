@@ -1,10 +1,10 @@
 ---
-title: "Peach Cobbler Muffins"
+title: "Peach Cobbler Muffins with Crumb Topping"
 slug: "peach-cobbler-muffins"
-description: "Peach cobbler muffins packed with diced peach bits, a crunchy crumb topping, baked initially at a high temp for quick rise then lowered for even baking. Flour tossed peaches keep moisture controlled. Buttermilk swapped for plain yogurt for tang; butter cubed cold for crisp crumble. Muffin liners or greased pan to ease release. Watch muffin tops—golden with glossy peach pieces peek through. You want toothpick clean and tops springy, not dense or gummy. Combine dry and wet gently; lumps fine here, overmix kills fluff. Perfect for breakfast or snack, easy pantry pantry tweaks, forgiving batter if peaches too juicy or dry. Stay close to oven — aromas flickers of peach warmth and sweet butter. Fruity bursts, crumbly tops, tender crumb. Balanced sugar for sweet but not cloying."
-metaDescription: "Peach Cobbler Muffins with diced peaches, streusel topping, baked high then lower heat. Tangy yogurt, flour-tossed fruit, tender crumb and crunchy tops for breakfast or snack."
-ogDescription: "Crunchy streusel on soft muffins packed with diced peaches. Start hot, fold gently, toss fruit in flour, watch colors and aroma. Great for morning or snack use."
-focusKeyphrase: "Peach Cobbler Muffins"
+description: "Peach cobbler muffins loaded with canned peaches, yogurt, and a buttery crumb topping. High-temp baking creates fluffy muffins with crispy streusel."
+metaDescription: "Peach cobbler muffins made with canned peaches, plain yogurt, and a cold butter streusel topping. Easy homemade recipe. Make it tonight."
+ogDescription: "Fluffy peach muffins with canned peaches, yogurt base, and crispy crumb topping. Perfect for breakfast."
+focusKeyphrase: "peach cobbler muffins"
 date: 2025-11-13
 draft: false
 image: peach-cobbler-muffins.jpg
@@ -21,9 +21,15 @@ tags:
 - "comfort food"
 - "easy"
 keywords:
+- "peach cobbler muffins"
 - "peach muffins"
-- "streusel topping"
-- "yogurt based muffins"
+- "peach muffins with crumb topping"
+- "peach muffins with yogurt"
+- "homemade peach muffins"
+- "breakfast muffins"
+- "muffin recipes"
+- "canned peach muffins"
+- "streusel topping muffins"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "258"
@@ -76,3 +82,86 @@ faq:
 - "q: Can I use fresh peaches? a: Yes but dice finely like canned. Reduce flour toss amount slightly so crumb not dry. Fresh peaches vary in juice; soak up moisture with slight flour toss but watch texture. Adjust sugar too if peaches very sweet or tart."
 
 ---
+
+Oven goes to 430. Six minutes hot. Then you drop it. Sounds weird but that's how the tops get actually crispy while the inside stays soft.
+
+## Why You'll Love These Peach Cobbler Muffins
+
+Takes 22 minutes to throw together. No electric mixer. Just a bowl and a whisk.
+Breakfast that tastes like you planned something. Works cold the next day, maybe better.
+Canned peaches — not fresh. Keeps longer, no waste, and they're already sweet enough you don't need as much sugar.
+The streusel stays crunchy even after they cool. Not like other muffins where the top goes soft by noon.
+
+## What You Need for Peach Cobbler Muffins
+
+Two cups flour. Half teaspoon salt. Two teaspoons baking powder — whisk them together dry first, breaks up lumps.
+
+Two eggs, half cup sugar, quarter cup yogurt, half cup milk, two tablespoons peach juice (comes from the can), one teaspoon vanilla. Mix that until it's pale yellow and slightly bubbly. Not smooth like pudding — there should be tiny bubbles.
+
+Two cans of peaches in juice. Drain them. Dice small — like quarter-inch pieces. Large chunks sink and get soggy. Toss them with a tablespoon of flour. Keeps them from falling to the bottom.
+
+Streusel is a third cup flour, a third cup sugar, quarter cup cold butter cubed. Cut it together with a fork until it looks like wet sand. The butter has to be cold or it won't get crumbly.
+
+## How to Make Peach Cobbler Muffins
+
+Heat the oven to 430. Not 350. Not 375. 430. Line a muffin tin with papers or grease it.
+
+Sift the flour, salt, and baking powder together. This matters — the baking powder clumps and if you don't break it up the muffins won't rise evenly.
+
+Big bowl. Whisk the eggs and sugar together until they're pale. Add the yogurt, milk, peach juice, vanilla. Keep whisking. You want it to look bubbly and thick, not runny.
+
+Dump the dry mixture into the wet. Fold it. Gently. Some lumps are fine. Actually stir it and the muffins get dense and tight. That's the main mistake people make.
+
+Fold the floured peaches in. Don't go crazy stirring. The batter should be thick but still pourable — not like cake batter exactly, more like pancake batter that's thicker.
+
+## How to Get the Tops Actually Crispy
+
+Divide batter into 12 cups. Three-quarters full. Too full and they overflow. Too shallow and the edges get hard and weird.
+
+Scatter some diced peaches on top of each one. Like a quarter teaspoon. It gives you those little sweet bursts.
+
+Make the streusel — flour, sugar, cold butter, cut together until it looks like pea-sized bits. Sprinkle it on. Don't pile it thick or it won't brown right.
+
+Bake six minutes at 430. The oven gets steamy and loud. That initial blast is why the tops puff up and get actual air pockets underneath the crumb topping.
+
+Drop the temperature to 345. Bake 17 to 20 minutes more. They're done when they spring back if you poke the top, and a wooden skewer comes out mostly clean. A few wet crumbs are okay. Straight batter is not.
+
+Let them sit in the pan for five minutes. They pull away from the sides easier. Transfer to a rack. The tops stay crunchy if you don't stack them while they're warm.
+
+## Peach Muffin Tips and Common Mistakes
+
+Too wet? Drain the peaches better or use less peach juice. Try one tablespoon instead of two.
+
+Too dry? Add a splash more milk or peach juice next time. Start with a quarter cup milk and see how it goes.
+
+Streusel burned dark? Drop the initial temp by 10 degrees or cut the 430 time to five minutes instead of six. Every oven is different.
+
+Dense muffins mean you stirred too hard. Mix until you can't see streaks. That's it. Stop.
+
+The yogurt is important — not because it's healthy but because it keeps them tender. Buttermilk works the same way if that's what you have. Don't skip the acid.
+
+Canned peaches with juice are better than fresh here. They don't have to drain as long and they won't water out during baking like fresh ones will. Plus they're sweeter.
+
+Cold butter for the streusel. Room temperature and it won't get crumbly. You need it cold enough to cut, not smear.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Peach Muffins
+
+**Can I use fresh peaches instead of canned?**
+Yeah but they'll be more watery. Fresh peaches have juice that comes out in the oven. Drain them really well and maybe reduce the peach juice to one tablespoon. They'll still work.
+
+**Why 430 degrees at first?**
+High heat gets steam in the oven fast. Muffins expand quick before the edges set. Then you drop the temp so the insides bake through without burning the tops. It's why the streusel gets crispy instead of hard.
+
+**How long do they last?**
+Three days in an airtight container. Four if your kitchen's cold. After that they get stale but still taste fine toasted.
+
+**Can I make them ahead?**
+Make the batter and peach filling the night before. Keep them separate. Mix in the morning. They bake better fresh batter.
+
+**What if I don't have yogurt?**
+Use buttermilk. Same amount. Or regular milk with a tablespoon of lemon juice — let it sit two minutes so it gets sour.
+
+**Is the streusel necessary?**
+No. Muffins are fine without it. They won't be as good — the topping adds texture and crunch — but they still work.
