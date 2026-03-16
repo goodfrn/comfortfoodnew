@@ -1,10 +1,10 @@
 ---
-title: "Tangy Yogurt Flatbread"
+title: "Easy Naan Bread Recipe with Labneh"
 slug: "tangy-yogurt-flatbread"
-description: "Shifts classic 2-ingredient dough with 1 2/3 cups self-rising flour swapped for a mix of 1 cup self-rising and 2/3 cup whole wheat flour. Greek yogurt subbed with labneh for tang and moisture. Kneading is crucial—sticky means add flour; dough should be tacky but not offensive. Resting 25-35 minutes lets flour hydrate, crucial for elasticity. Uses include pan-frying or baking. Tactile cues like spring-back and sheen guide readiness rather than clock. Adaptable for savory or sweet finishes. Smells mildly yeasty, slightly sour milk. Cook time varies per use. Little flour on surface prevents sticking but avoid dusting too much, kills tenderness. Tried roasting with za’atar—aroma steals the show. Cracks or dryness means under-hydrated dough or over-floured. Handles folds better after brief rest post-knead. Practical, frustration-busting bread hack."
-metaDescription: "Tangy Yogurt Flatbread swaps Greek yogurt for labneh, blends self-rising and whole wheat flours for chewy, tangy bread with tactile kneading and resting cues."
-ogDescription: "Labneh-based flatbread blends whole wheat with self-rising flour. Knead till tacky, watch sizzle and bubbles for doneness. Savory or sweet finish. Break bread rules."
-focusKeyphrase: "Tangy Yogurt Flatbread"
+description: "Make naan bread at home with labneh, self-rising flour, and whole wheat flour. This easy flatbread recipe needs just kneading and pan-frying for tender, pillowy results."
+metaDescription: "Easy naan bread recipe using labneh and whole wheat flour. Learn how to make authentic flatbread at home in minutes. Try it tonight."
+ogDescription: "Homemade naan with labneh and whole wheat flour. Soft, pillowy flatbread ready in under an hour."
+focusKeyphrase: "naan bread recipe"
 date: 2025-10-29
 draft: false
 image: tangy-yogurt-flatbread.jpg
@@ -20,9 +20,18 @@ tags:
 - "easy"
 - "mediterranean"
 keywords:
-- "flatbread"
-- "labneh"
-- "whole wheat"
+- "naan bread recipe"
+- "naan bread"
+- "naan recipe"
+- "easy naan bread recipe"
+- "flatbread recipe with yogurt"
+- "naan flatbread recipe"
+- "make naan"
+- "yogurt flatbread recipe"
+- "homemade naan bread"
+- "whole wheat naan"
+- "pan-fried flatbread"
+- "labneh bread"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "280"
@@ -60,3 +69,67 @@ faq:
 - "q: How keep leftovers fresh? a: Wrap tightly airtight, fridge up to 2 days. Freeze if longer. Use soon after thaw, stale dough gets tough fast. Reheat gently to keep some softness intact."
 
 ---
+
+Three ingredients. No yeast. Dough comes together in like five minutes and then you basically just wait. The hard part is not eating it straight off the pan.
+
+## Why You'll Love This Naan Flatbread Recipe
+
+Takes 35 minutes start to finish. Most of that's resting — you're not actually doing much.
+Works cold. Works the next day. Works as a vehicle for literally anything.
+No special equipment. Just a pan and your hands.
+Vegetarian, naturally. Labneh's the whole thing — it makes the dough tender without any yeast nonsense.
+Tastes better when you make it twice. The second batch, you know when to stop kneading.
+
+## What You Need for This Naan Bread
+
+Self-rising flour. Not all-purpose. The leavening's built in.
+Whole wheat flour. Adds texture. All self-rising works but it's less interesting.
+Labneh. This is strained yogurt — thicker than regular, kind of like cream cheese but tangier. Greek yogurt works if that's what you have. Not as good, but it works.
+
+That's it. Three things.
+
+## How to Make Naan Flatbread
+
+Mix the flours together in a medium bowl. It looks dry and crumbly at first — that's right.
+Add the labneh gradually. Like, add half, fold it in with a spoon until you can't anymore, then add more. When it starts looking like actual dough, switch to your hands and just fold it together. Don't knead yet. Just get everything combined.
+Cover it with a damp cloth — a regular kitchen towel works, just dampen it — and stick it in the fridge. Or a cool spot. Doesn't matter. 25 to 35 minutes. The dough needs time to relax. Self-rising flour's got baking powder in it and it needs a second to activate.
+
+After the rest, turn it out onto a floured surface. Knead it gently. Not aggressive kneading. Like five or six times, just until it feels springy. If it's sticky, dust more flour on top. The dough should feel soft and tacky — like it could stick if you left it on the counter, but not when you're actually handling it.
+
+## How to Get Naan Flatbread Golden and Puffy
+
+Shape the dough however makes sense. Flat discs if you're pan frying. Rounds if you're doing it in the oven. Doesn't have to be perfect.
+Heat your skillet. Medium-high. You'll know it's ready because there's a slight sizzle when you lay the naan down. Not violent. Just a quiet hiss.
+The dough hits the pan and immediately starts bubbling. Watch for golden spots — they're the good part. Let it go until the spots spread, maybe two minutes. Flip it. Other side gets less time usually, like a minute, minute and a half. The edges start to crust and the whole thing puffs slightly. That puff means steam's trapped inside. That's when you know the texture's right.
+
+If your dough cracks when you're shaping it, just rest it another ten minutes. The gluten relaxes. It happens sometimes.
+
+## Naan Flatbread Tips and Common Mistakes
+
+Labneh's the key here. The yogurt proteins do most of the work. Without yeast, you're relying on the self-rising flour's baking powder and the moisture from the labneh to create any lift at all. That's why the resting time matters — the baking powder needs time to start working.
+Don't skip the rest. People always want to skip the rest. The dough gets better, more elastic, less likely to tear. Just don't skip it.
+The pan has to be hot enough that you hear it. If it's lukewarm, the naan steams instead of fries. Steamed naan is rubbery.
+If it sticks, your pan wasn't hot enough. Clean it, heat it higher, try again.
+Leftovers stay good in a tightly wrapped container for maybe two days. After that they get tough and a little stale. You can reheat them in a dry pan for like 30 seconds per side and they come back.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Naan Recipe
+
+**Can I make this naan flatbread recipe without labneh?**
+Greek yogurt. That's the actual swap. Not the same texture but close enough. Sour cream's thinner — add a bit less. Regular yogurt's too wet. Don't bother.
+
+**How thick should the naan bread dough be when I shape it?**
+Depends what you want. Quarter inch if you want it soft and chewy. Thinner if you want more crust. There's no wrong version.
+
+**Why is my flatbread coming out tough?**
+Either overworked dough or the pan's too cool. Knead it gentle. And make sure the pan's actually hot — the sizzle test is real.
+
+**Can I use this flatbread recipe to make pizza bread or appetizers?**
+Yeah. Shape it thinner, top it before it hits the pan or right after. The cheese gets weird if it's on there too long before cooking though. Better to fry it plain and top it after.
+
+**What's the difference between this naan and other flatbread recipes?**
+No yeast. That's the whole thing. Most flatbreads need a night to rise or a starter or something. This one works because labneh's already got tang and the self-rising flour does the lifting. It's basically the easiest flatbread you can make.
+
+**Can I freeze naan dough or baked naan?**
+Baked naan freezes fine — wrap it tight. Dough gets weird. The texture changes. Better to just make it fresh. Takes 35 minutes anyway.
