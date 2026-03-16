@@ -1,10 +1,10 @@
 ---
-title: "Twisted Firecracker Chicken"
+title: "Crispy Chicken with Chili Garlic Sauce"
 slug: "twisted-firecracker-chicken"
-description: "Chicken cut small, lightly fried, then baked in a tangy-spicy sauce. Cornstarch coats chicken for crispness but don’t fry fully—just enough to seal sauce. Sauce is tangy, sweet, with a spicy kick from chili garlic sauce instead of buffalo. Baked till sauce bubbles and thickens. Garnish with sesame seeds and sliced green onions. Simple, hands-on, with sensory cues guiding timing. Sub rice vinegar if apple cider missing. Watch oil temp—don’t crowd pan or chicken steams not fries. Toss chicken in egg after cornstarch coats. Perfect balance of crunch and sauce."
-metaDescription: "Twisted Firecracker Chicken bites coated in cornstarch, egg-washed, crisp-fried, then baked with spicy chili garlic sauce, sugar, and vinegar for bold tangy heat."
-ogDescription: "Crispy chicken pieces quick-fried, baked in sticky chili garlic glaze with hints of sweetness and vinegar tang. Green onions and sesame finish punch. Tactile cues guide timing."
-focusKeyphrase: "Firecracker Chicken"
+description: "Crispy chicken breast pieces coated in cornstarch and egg, lightly fried then baked in tangy chili garlic sauce with sesame seeds and green onions for a perfect balance of crunch and flavor."
+metaDescription: "Make crispy chicken with cornstarch coating and chili garlic sauce tonight. Lightly fried chicken breast pieces baked until sauce bubbles. Try it tonight."
+ogDescription: "Cornstarch-coated chicken breast with chili garlic sauce, sesame seeds, and green onions. Crispy outside, tender inside."
+focusKeyphrase: "crispy chicken"
 date: 2026-01-14
 draft: false
 image: twisted-firecracker-chicken.jpg
@@ -21,9 +21,16 @@ tags:
 - "appetizer"
 - "fried"
 keywords:
-- "chicken fried baked"
-- "chili garlic sauce"
-- "crispy chicken coating"
+- "crispy chicken"
+- "fried chicken breast"
+- "cornstarch fried chicken"
+- "crispy fried chicken"
+- "fried chicken in the oven"
+- "deep fried chicken"
+- "crunchy crispy chicken"
+- "breading for fried chicken"
+- "making fried chicken"
+- "oven baked fried"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "335"
@@ -77,3 +84,52 @@ faq:
 - "q: How to store leftovers? a: Fridge in airtight okay couple days. Reheat oven preferred to keep crunch. Microwave makes soggy fast. Sauce thickens cold—reheat gentle heat to loosen glaze without drying chicken."
 
 ---
+
+Cut the chicken into pieces. Dust with cornstarch. Fry it fast, sauce it, bake it. Fifty minutes total and you've got something that tastes like it came from a restaurant kitchen, except spicier and actually crispy.
+
+## Why You'll Love This Crispy Chicken
+
+Comes out crunchy in a way that holds through the sauce—not soggy, not breaded like KFC. The glaze is spicy without being aggressive about it. One sheet pan means cleanup is basically nothing. Works as an appetizer, works as a main, works cold the next day. The cornstarch thing actually works. And it's faster than you'd think for something that tastes this good.
+
+## What You Need for Crispy Fried Chicken
+
+One large chicken breast cut into one-inch pieces. Size matters here—uneven means some bits dry out while others stay raw. Cornstarch. Not flour. Cornstarch is the move for actual crispiness that doesn't get soggy when you coat it in sauce. Two eggs beaten up in a bowl. Vegetable oil for frying—about a quarter cup. Not olive oil. It breaks down funny at this temp. The sauce is chili garlic sauce. Buffalo wing sauce works. So does sriracha mixed with a bit of ketchup if you're stuck. Two tablespoons of sugar, one tablespoon of rice vinegar—apple cider works too, maybe a touch stronger. Salt and red pepper flakes for the sauce. Then green onions and toasted sesame seeds at the end because you want something to crunch into that isn't the chicken.
+
+## How to Make Crispy Fried Chicken
+
+Heat your oven to 395 degrees. Line a sheet pan with foil and spray it. The foil traps juice and makes cleanup happen without effort. The spray keeps it from sticking. Cut your chicken breast into one-inch pieces—doesn't have to be perfect, just consistent. Sprinkle cornstarch over the pieces in a large bowl and toss it. Every piece needs a thin coat. Too much and it clumps. Too little and you lose the crunch. Beat your eggs in a small bowl. Work in batches—drop three or four pieces into the egg, shake off the extra cornstarch first because that helps the sauce stick instead of sliding off. Arrange the coated chicken on a plate and repeat.
+
+Heat vegetable oil in a wide skillet over medium-high. It should shimmer. Not smoke. You're looking for around 350 degrees if you have a thermometer but honestly just watch for that shimmer. Add half the chicken pieces and spread them out. Don't touch them together or overcrowd it. Crowding cools the oil down and you end up with greasy soggy chicken, which is the opposite of what you want. Fry the first side about 1 to 2 minutes. Flip it. Another minute. You're not cooking it through here. Just sealing an envelope. Chicken should still be raw inside. That's the point. Drain it on paper towels. Repeat with the rest.
+
+## How to Get Crispy Chicken That Actually Stays Crispy
+
+Make your sauce by whisking together chili garlic sauce, sugar, rice vinegar, salt, and red pepper flakes. Taste it. Too sweet? Add vinegar. Too sour? Add a bit more sugar. It balances itself out pretty fast. Arrange the fried chicken in a single layer on your foil-lined sheet. Pour the sauce over it evenly. Use tongs or a spoon to toss the chicken gently so the sauce coats every piece. Work fast so it doesn't pool on the bottom. Bake 22 to 27 minutes. The sauce should bubble at the edges and start caramelizing. A sticky glossy coating forms. Too long and the chicken dries out. Too short and the sauce stays thin. Halfway through, toss the chicken again to redistribute the sauce and prevent sticking. When it's done the sauce thickens more as it cools. Shiny. Clings to everything. Transfer it to a serving dish with any juices from the pan. Sprinkle green onions and sesame seeds on top. The green onions stay bright. The sesame adds actual crunch.
+
+## Making Fried Chicken Wings and Crispy Chicken Tips
+
+Start with pieces the same size or you'll have timing problems. The cornstarch matters—it's the reason this gets crispy instead of just coating-textured. Don't skip the frying step even though you're baking it after. That quick sear in oil is what creates the crust that survives the sauce. The oven temp at 395 instead of 400 is gentler. The chicken cooks slower and the sauce bubbles without burning. If your pan gets crowded while frying, do fewer pieces. Takes longer but the result is infinitely better. Cold chicken from this works fine the next day for lunches. The sauce actually gets thicker as it sits overnight, which sounds weird but tastes right. The red pepper flakes are flexible—use more if you like heat, less if you don't. The dish survives either way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Crispy Fried Chicken
+
+**Why cornstarch instead of flour for making fried chicken?**
+Cornstarch gets actually crispy. Flour gets soft and absorbs the sauce too fast. Tried both. Cornstarch wins.
+
+**Can you make this crispy chicken in an air fryer instead of frying?**
+Not the same. The frying step creates a crust that the oven finish depends on. Air fryer won't do it. Oven and stovetop combo is the move here.
+
+**How do you know when the fried chicken is done baking?**
+Edges of the sauce bubble and start to brown. The glaze looks glossy and clings to the chicken. Around 22 to 27 minutes at 395. Your oven might run hotter or cooler so start checking at 20.
+
+**Does this crispy chicken wings recipe work with actual wings?**
+Drumettes and flats work the same way. Cut the chicken breast pieces to match wing size roughly—everything cooks evenly that way. The sauce sticks the same.
+
+**What if you don't have rice vinegar for this fried chicken?**
+Apple cider vinegar works. White vinegar is too sharp. Lemon juice works in a pinch. Adjust sugar up a tiny bit if you go that route.
+
+**Can you make crispy fried chicken the day before?**
+Fry and drain it. Store in the fridge without sauce. Sauce it and bake it the day you serve it. Cold fried chicken reheats unevenly. Fresh baking is better.
+
+**Why do you fry if you're baking it anyway?**
+The frying seals the outside. The baking finishes cooking inside and thickens the sauce. One or the other doesn't work. Both together works.
