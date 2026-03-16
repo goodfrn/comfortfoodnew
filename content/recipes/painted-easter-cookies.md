@@ -1,10 +1,10 @@
 ---
-title: "Painted Easter Cookies"
+title: "Painted Easter Cookies with Almond Extract"
 slug: "painted-easter-cookies"
-description: "Sugar cookies with a twist. Shortening swapped out for butter, eggs reduced slightly. Dough chilled for texture control. Shaped on floured surface, ‘cause sticky dough will fight you. Bake until edges just turn goldish. Icing is simple glaze, play with flour or milk for brush-on paint consistency. Timing flexed by color cues and dough feel. Vanilla replaced with almond extract for subtle nutty lift. Total bake minutes adjusted to 7–9 for slight chewiness without dryness. Steps reorganized to prep flour and surface first, saving time. Small tweaks, but they matter in cookie world."
-metaDescription: "Painted Easter Cookies with almond extract, brushed icing, soft chew, golden edges. Chilled dough, careful flour, subtle nutty aroma. Bake 7 to 9 mins; detailed tips inside."
-ogDescription: "Sugar cookies chilled for shape, almond twist, brush-on icing paint. Edges goldish, soft center. Watch dough stickiness, bake 7–9 mins for chewy, not dry."
-focusKeyphrase: "Painted Easter Cookies"
+description: "Make decorated Easter cookies with butter, almond extract, and powdered sugar icing. Soft sugar cookies painted with food coloring glaze for beautiful homemade results."
+metaDescription: "Painted Easter cookies made with butter and almond extract, topped with powdered sugar icing. Easy decorating with food coloring. Make it tonight."
+ogDescription: "Homemade Easter cookies decorated with powdered sugar icing and food coloring. Soft, buttery sugar cookies with almond extract."
+focusKeyphrase: "painted easter cookies"
 date: 2025-11-06
 draft: false
 image: painted-easter-cookies.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "homemade"
 keywords:
+- "painted easter cookies"
 - "sugar cookies"
-- "almond extract"
-- "brush-on icing"
+- "easter cookies"
+- "butter sugar cookies"
+- "homemade painted easter cookies"
+- "sugar cookies with almond extract"
+- "easy easter cookies"
+- "easter cookies with powdered sugar icing"
+- "decorated easter cookies with food coloring"
+- "almond extract cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"
@@ -72,3 +79,97 @@ faq:
 - "q: Best way to store leftovers? a: Airtight container crucial. Room temp short term fine. Refrigerate to prolong but can dry cookies faster. Freeze tightly wrapped dough or baked cookies. Avoid moisture or staleness. Warm cookies melt glaze avoid stacking."
 
 ---
+
+Dust your surface, flour ready before you touch anything. These butter sugar cookies stick hard if you're not prepared—but that's half the charm. Cut shapes, paint them with colors, and you've got Easter cookies that look homemade because they are. Takes 18 minutes active time. The rest is waiting and watching.
+
+## Why You'll Love These Painted Easter Cookies
+
+Comes together in under 20 minutes if the dough's already chilled. No crazy equipment, no strange ingredients. Just butter, sugar, eggs, and something to paint with.
+
+Almond extract instead of vanilla shifts the whole flavor—tastes like something you'd buy from a bakery, not generic. Not saying vanilla's bad. This is different.
+
+You can make these vegetarian easter cookies without thinking about it. One egg, one yolk. No weird substitutes. No compromise.
+
+The painting part is where kids get involved or you get weirdly focused for an hour. Either way, works.
+
+Stays soft for days if you keep them in an airtight container. Some cookies go stale. These don't.
+
+## What You Need for Homemade Painted Easter Cookies
+
+One cup of unsalted butter, softened. Not melted. Not cold. Soft the way you can press your thumb into it and it gives. Shortening used to be standard but butter tastes better and keeps texture right.
+
+One cup granulated sugar. Just that. Not brown, not turbinado—it needs to cream smooth with the butter.
+
+One large egg and one egg yolk. The extra yolk makes them richer without getting dense. Two whole eggs and they spread too thin and bake too fast.
+
+One teaspoon almond extract. Vanilla works but this is better—tastes like actual cookies, the kind from a bakery you can't quite identify. Lemon zest swaps in if you want bright instead of nutty.
+
+Half a teaspoon salt. Keeps sugar from being pure sweet and pulls the almond forward.
+
+Three cups all-purpose flour, divided. Not bread flour. Not cake flour. The standard stuff.
+
+For the icing, two cups powdered sugar. Four tablespoons milk, give or take. You'll adjust until it's thick enough to hold a stroke from a brush but thin enough to actually flow. Think toothpaste, not spackle. Food coloring or natural powdered pigments if you want color. Don't have to.
+
+## How to Make Painted Easter Cookies
+
+Cream the butter and sugar together first. Electric mixer works. Your arm works slower but it works. Get it pale. Really pale. Almost whipped-looking. Grittiness means you stopped too early—sugar crystals still visible means more time. Two to three minutes usually.
+
+Crack the egg and yolk in, beat again. The mixture should go from pale to paler somehow, airier. Almond extract goes in now. Then salt. Mix until you can't see the streaks anymore.
+
+Add two and a half cups of flour gradually. Don't dump it all at once or you'll overmix trying to get it combined. A cup, mix. Another cup, mix. Then the last half cup. Stop when the dough starts pulling away from the bowl sides. It should be soft but not sticky enough to stick to your fingers if you poke it.
+
+Turn it out onto a lightly floured board. If it's still too tacky, dust with the remaining flour and knead a few times. Don't knead it like bread—just enough to bring the flour in. Divide the dough into four chunks. Wrap each one tight in plastic wrap.
+
+Refrigerate at least 90 minutes. Longer is fine. Overnight is better. Cold dough doesn't spread. Doesn't stick. Doesn't fight you.
+
+## How to Get Painted Easter Cookies Perfect
+
+Preheat to 390°F, not 400. The hotter the oven, the faster the edges brown and the middle stays soft. 390 gives you a window where the whole cookie sets evenly. 400 and you're watching like a hawk to catch it before the edges burn.
+
+Take one dough chunk out, leave the rest cold. Dust your work surface with flour. Dust your hands instead of adding more flour to the surface—more flour baked in means tough cookies. Roll until about a quarter inch thick. Use cookie cutters, press down firm but not violent. Peel the excess dough away gently. If it tears, press it back together. Doesn't matter if it's not perfect.
+
+Space them out slightly on an ungreased baking sheet. They'll puff a tiny bit but not spread crazy.
+
+Bake 7 to 9 minutes. The edges should show a faint golden blush. The surface should look matte and feel firm when you touch it gently—not glossy, not soft. This is the hardest part because the middle will look slightly underdone, but it's not. It sets as it cools.
+
+Let them cool completely on a rack before you ice them. Warm cookies melt the glaze. You'll waste time and end up with a puddle instead of painted cookies.
+
+## Painted Easter Cookies Tips and Common Mistakes
+
+Whisk the powdered sugar with three tablespoons milk. The texture matters—you need it thick enough to sit on the brush but thin enough to flow off the bristles. If it's too thick, add milk a half teaspoon at a time. Too thin, sift in more sugar. You're aiming for somewhere between toothpaste and heavy cream. Sounds vague. Once you see it, you know it.
+
+Add food coloring if you want. One drop goes a long way. Natural powdered pigments work too if you're that person. Some people aren't. That's fine.
+
+Use a small paintbrush or a toothpick for details. Paint thick and it cracks as it dries. Paint thin. Layer if you need darkness. Multiple coats beat one heavy coat every time.
+
+Let it dry several hours or overnight before you stack them or wrap them. Fully dry means it won't crack when you move them around.
+
+Overbaking gives you hard cookies. Underbaking gives you soggy middles. The visual cues matter more than a timer—matte surface, firm to touch, faint golden blush. That's done.
+
+If your dough's too oily or sticky, chill it longer. Some butters are wetter than others. Some kitchens are warmer. Cold dough fixes most problems.
+
+Butter-based dough doesn't last as long as shortening, but it tastes exponentially better. Shelf life's maybe four days in an airtight container instead of a week. Worth it.
+
+Almond extract can swap with vanilla, lemon zest, or nothing. The flavor shifts but it works. Doesn't have to be exact.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Painted Easter Cookies
+
+**Can I make the dough the day before?**
+Yeah. Three days before, even. Longer the dough sits, the better it tastes. The flavors deepen. Plus you can make shapes on whatever day you actually have time.
+
+**What if my icing is too thick to paint with?**
+Add milk. A half teaspoon at a time. Stir it in. Don't just dump it all at once or you'll overshoot and have to add more sugar.
+
+**Do these vegetarian easter cookies contain eggs?**
+One egg and one yolk. So yes. If you need vegan, this isn't it—you'd need to rebuild the whole thing.
+
+**How long do painted easter cookies actually stay soft?**
+Four days easy if they're sealed tight. After that they start getting crumbly. Not bad, just less pleasant. Some people keep them longer anyway.
+
+**Can I use shortening instead of butter?**
+You can. Texture gets different though—more shelf-stable, less rich. Shortening's safer if you're baking days ahead and worried about storage. Butter tastes like butter.
+
+**Why does the icing crack?**
+Dried too fast, or too thick when it went on. Thin layers. Multiple coats if you need it dark. Patience.
