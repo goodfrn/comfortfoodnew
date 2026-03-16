@@ -1,10 +1,10 @@
 ---
-title: "Salted Caramel Blondies"
+title: "Salted Caramel Blondies with Butterscotch"
 slug: "salted-caramel-blondies"
-description: "A chewy blondie bar studded with butterscotch chips and a salted caramel drizzle. Uses a mix of brown and granulated sugars for texture. Vegetable shortening for shallow greasing. Slight tweak with one egg swapped for yolk. Baking by scent as timer varies. Coarse salt option instead of fleur de sel. Fluffy butter creamed well is key. Sifted flour combo prevents dense crumb. Clean toothpick dry but moist crumbs stick best. Caramel sauce added for richness and contrast. Sweet, deep, just enough salt bite."
-metaDescription: "Salted Caramel Blondies with chewy texture, butterscotch chips, and a rich caramel drizzle. Uses brown and granulated sugars, sifted flour, and special egg combo."
-ogDescription: "Chewy blondies packed with butterscotch chips and salted caramel drizzle. Watch for color, smell sugar caramelizing. Fluffy butter and sifted flour key."
-focusKeyphrase: "Salted Caramel Blondies"
+description: "Chewy salted caramel blondies loaded with butterscotch chips and a caramel drizzle. Made with brown sugar, butter, and all-purpose flour for rich texture."
+metaDescription: "Salted caramel blondies recipe with butterscotch chips and caramel sauce. Chewy bars made with brown sugar and butter. Make it tonight."
+ogDescription: "Chewy blondie bars with butterscotch chips, salted caramel drizzle, and a hint of sea salt. Simple recipe, amazing results."
+focusKeyphrase: "salted caramel blondies"
 date: 2025-12-11
 draft: false
 image: salted-caramel-blondies.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "dessert"
 keywords:
-- "blondies recipe"
-- "salted caramel dessert"
-- "butterscotch chips"
+- "salted caramel blondies"
+- "blondie bars"
+- "butterscotch chip blondies"
+- "chewy blondie recipe"
+- "butterscotch blondies with caramel drizzle"
+- "easy blondie bars"
+- "brown sugar blondies"
+- "homemade caramel blondies"
+- "butterscotch dessert"
+- "salted caramel bars"
+- "blondie recipe"
+- "caramel dessert bars"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "250"
@@ -69,3 +78,94 @@ faq:
 - "q: Best way to store blondies? a: Airtight container at room temp few days. Refrigeration prolongs but dries edges. Freeze slices in zip bags for weeks if needed. Flavor merges overnight. Avoid plastic wrap directly; traps moisture makes soggy."
 
 ---
+
+Bake at 350. Two sugars, three minutes of creaming—that's where the chew comes from. Don't skip it.
+
+## Why You'll Love These Salted Caramel Blondies
+
+Takes 50 minutes total. Most of that's waiting. Butterscotch chip blondies that actually taste like butterscotch, not just brown sugar with chips thrown in. The caramel drizzle isn't decoration—it's necessary. Coarse sea salt on top cuts through the sweetness in a way that makes you want another one. They're better the next day. Doesn't happen often with desserts, but it does with these. Easy enough that you won't stress, complicated enough that people think you tried.
+
+## What You Need for Butterscotch Chip Blondies
+
+Vegetable shortening. Just 1 1/2 teaspoons. Keeps the edges from getting weird and crispy. Butter doesn't do that—shortening does.
+
+Unsalted butter, 3/4 cup, softened. Not melted. Softened. The difference is air.
+
+Two sugars. Light brown sugar packed—2/3 cup—and granulated, 1/2 cup. Brown sugar alone tastes flat. Both together tastes like actual caramel.
+
+One large egg plus one yolk. The yolk is the thing that makes it fudgy. Skip it and they come out cake-like. Don't skip it.
+
+All-purpose flour, sifted, 2 cups. Sifting matters here because you're not adding much liquid. Lumps stay lumps.
+
+Baking soda, 1 teaspoon. Salt, 1/2 teaspoon kosher. These two are not optional.
+
+Butterscotch chips, 1 1/2 cups. Brown them slightly in a dry pan first if you want them to taste deeper. Optional but it works.
+
+Salted caramel sauce, 1/2 cup. Homemade or store-bought. Doesn't matter as long as it's actually salty.
+
+Coarse sea salt for sprinkling. Or fleur de sel if you want to be fancy about it. The coarse stuff hits harder.
+
+## How to Make Chewy Blondie Bars
+
+Grease the pan with shortening. Nine by thirteen. Lightly. You're not coating it like a cast iron—just enough so they don't stick to the edges.
+
+Heat oven to 350.
+
+Cream the butter and both sugars together. Use a stand mixer if you have one. If you don't, a hand mixer works. Beat for three minutes. This is not negotiable. You're aerating the butter. That air becomes chew. Stop before it looks fluffy and pale—that's the target. Takes exactly three minutes if your butter was already soft.
+
+Add the egg. Beat. Then add the yolk. Beat again. You'll see the mixture get shiny and a bit lighter. That's good.
+
+Whisk your dry stuff in a separate bowl. Flour, baking soda, salt. Get the lumps out.
+
+Add the dry to the wet gradually. Use low speed on the mixer or a spatula if you're doing it by hand. Stop mixing the second you can't see flour streaks anymore. Overmix and the blondies turn into hockey pucks.
+
+Fold in the butterscotch chips by hand. A spatula works. You're keeping them whole and keeping air in the batter.
+
+Scrape the batter into the pan. Smooth it out with an offset spatula. Tap the pan on the counter a couple times. Not hard. Just enough to settle everything. You want light, not dense.
+
+## How to Get Them Crispy-Edged and Chewy in the Middle
+
+Bake for 28 to 33 minutes. The edges should be golden. The center should still have a tiny bit of wobble. Your kitchen will smell like caramelizing brown sugar—that's the signal that you're close.
+
+Toothpick test: stick one in the middle. Pull it out. There should be tiny moist crumbs stuck to it. Not wet batter. Not completely clean. Somewhere between those two.
+
+Pull them out when they look slightly underbaked. They keep cooking in the pan. This is where most people mess up—they bake until the center looks set and then the whole thing ends up too cake-like.
+
+Let them cool completely in the pan on a rack. Completely. Not five minutes. Completely. The structure sets as they cool. Cut them too early and they fall apart. Cut them too late—actually, you can't cut them too late. They just get firm.
+
+## Brown Sugar Blondies Tips and Common Mistakes
+
+The caramel goes on after they cool. Drizzle it. Don't pour it. Let it pool in some spots and drip down the sides. Uneven is better.
+
+Sprinkle the coarse sea salt right after the caramel while it's still slightly warm. The salt sticks better. You get these little bursts of salt between bites of butterscotch and brown sugar and caramel.
+
+Store them airtight. In a container with a tight lid. They actually taste better the next day—the moisture redistributes and the flavors marry or whatever's happening, but they get softer and more chewy and more good.
+
+Make 16 squares. Cut them into quarters if you want smaller pieces, but 16 is the standard and it's the right size.
+
+Don't refrigerate these. Room temperature or nothing. Cold makes them dense and weird.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Salted Caramel Blondie Bars
+
+**Can you make these without the caramel drizzle?**
+Yeah, but why would you. The caramel's the whole point. Without it you just have butterscotch chip bars.
+
+**How long do these actually last?**
+Three days in an airtight container. They're still good after that but they start to taste stale. Mine never make it past day two.
+
+**What if you don't have butterscotch chips?**
+Brown sugar chips work. Chocolate chips too, though then you're not really making blondies anymore. You're just making something else.
+
+**Do you have to use a stand mixer?**
+No. Hand mixer works. Or a wooden spoon and your arm if you want. The three minutes of creaming is what matters, not the equipment.
+
+**Can these be frozen?**
+Yeah. Bake them, cool them, drizzle the caramel, then freeze in an airtight container. Thaw at room temperature for a few hours. They're fine. Not better, not worse.
+
+**What's the difference between sea salt and regular salt on top?**
+Coarse sea salt dissolves slower and hits harder. Fleur de sel is smoother and fancier. Regular table salt doesn't work—it disappears into the caramel. Doesn't matter which coarse salt you pick.
+
+**Why does the recipe use both brown sugar and granulated?**
+Brown sugar alone tastes one-note. Granulated dries things out. Together they taste like actual caramel and keep the texture chewy. Tried one or the other. Both is better.
