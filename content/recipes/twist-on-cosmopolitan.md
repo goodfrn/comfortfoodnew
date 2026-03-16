@@ -1,10 +1,10 @@
 ---
-title: "Twist on Cosmopolitan"
+title: "French 75 Cocktail with Gin and Cranberry"
 slug: "twist-on-cosmopolitan"
-description: "A shaken-up cocktail riff riffing on tradition. Vodka swapped for gin to wake up those botanicals. Slight juice ratio tweaks create brighter punch. Triple sec replaced by Cointreau for richer depth. Lime juice measured by feel not strict pour. Gently crushed ice for cold but not dilution. Serve spun in a chilled martini glass. Sharp cranberry tang mingles with citrus and herb notes. Marks quick prep but demands attention to texture and chill. Familiar yet surprising. Served cocktail bar style, with practical solutions for substitutions and common slip-ups."
-metaDescription: "Twist on Cosmopolitan swaps vodka for gin, tweaks juices for brighter punch. Crushed ice, chilled glass, sharp cranberry with citrus-herbal notes. Quick 6-min prep."
-ogDescription: "Gin replaces vodka. Fresh cranberry juice, Cointreau swaps triple sec. Crushed ice chills, no dilution. Sharp citrus and herb notes. Serve chilled martini glass."
-focusKeyphrase: "Twist on Cosmopolitan"
+description: "French 75 cocktail made with gin, fresh cranberry juice, Cointreau, and lime juice. Shaken with crushed ice for a bright, citrusy gin drink with herbal depth and crisp finish."
+metaDescription: "French 75 cocktail recipe with gin, cranberry juice, Cointreau, and fresh lime. Shaken and served cold. Try it tonight."
+ogDescription: "Gin-based French 75 with cranberry juice and Cointreau. Bright, crisp, and perfectly balanced. Make it tonight."
+focusKeyphrase: "french 75 cocktail"
 date: 2025-09-26
 draft: false
 image: twist-on-cosmopolitan.jpg
@@ -21,9 +21,18 @@ tags:
 - "citrus"
 - "easy"
 keywords:
-- "gin twist"
-- "cranberry juice"
-- "cocktail shaking"
+- "french 75 cocktail"
+- "french 75"
+- "gin 75"
+- "gin cocktails"
+- "gimlet cocktail"
+- "gin martini"
+- "tom collins cocktail"
+- "gin fizz"
+- "aviation cocktail"
+- "white negroni cocktail"
+- "gin and lemon"
+- "last word cocktail"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "120"
@@ -61,3 +70,66 @@ faq:
 - "q: Can I store this cocktail? a: Not really. Freshness depends on juices and ice. Bottled good few hours but flavour dulls quick. Keep chilled, no pulp. Best make fresh, chill glass before serve. Some keep mix separate then shake ice before pouring."
 
 ---
+
+Shake gin, cranberry juice, Cointreau, lime vigorously with ice. Listen. The dull slap changes tone when chill locks in. That's when you know it's done.
+
+## Why You'll Love This French 75 Cocktail
+
+Takes six minutes flat. Not six minutes of prep then waiting — you're done and drinking.
+Fresh lime juice makes it bright in a way bottled stuff can't touch. Cranberry keeps it balanced instead of sharp.
+Gin cocktails don't get easier than this. The technique matters more than the timing.
+Works as an aperitif or a late drink. Cold hits different either way.
+One shaker. One glass. No muddling, no layering, no equipment nonsense.
+
+## What You Need for a Gin 75
+
+Gin. Twenty-eight milliliters. Not vodka. Gin has the structure for this. Vodka just gets cold.
+Fresh cranberry juice. Thirty-two ml. Not the bottled cocktail mix. That's too sweet and tastes like plastic. Real cranberry juice — the kind that's just juice.
+Cointreau. Fourteen ml. Triple sec works if that's all you have, but Cointreau's smoother. The orange hits cleaner.
+Lime juice. Five ml. Fresh. Squeezed right then. Bottled lime juice curbs brightness — not worth it.
+Five ice cubes crushed just enough to soften the edges. Not powder. Not whole. Soft enough that they pack tight but still hold shape.
+A martini glass chilled in the freezer. Cold glass matters more than people think.
+
+## How to Make a Gin Fizz Cocktail
+
+Smash ice first. Not hard. Just enough to soften edges so they stack together and won't water everything down while you're shaking. The goal is chill, not melt.
+
+Put the gin, cranberry juice, Cointreau, and lime juice into a shaker with the crushed ice. Shake hard. Fast. Violent. Listen while you do it — that dull slap sound changes tone when the shaker gets cold enough. When the clink turns sharp and high, that's chill locked in. Stop then. Over-shaking just waters it down.
+
+## How to Strain a Gin Cocktail Properly
+
+Fine strain through mesh into the martini glass. Not a regular strainer. Mesh catches the tiny shards that slip through and ruin texture. Look through the glass as you pour — you want clarity. Even one small shard of ice sitting at the bottom changes how the cold hits your mouth.
+
+No garnish necessary. But if you're the type who needs one, lime twist over orange. The oils from the peel awaken the aromas. Orange just dulls it. Sip slowly. Watch how the first cold hits fade into tang.
+
+## Gin Cocktails Tips and What Goes Wrong
+
+Using vodka instead of gin? Stick to thirty ml but chill the bottle in the freezer beforehand. Vodka's thinner, so less of it and colder temperature keeps it balanced. Otherwise it tastes like cold nothing.
+
+No Cointreau? Triple sec is fine backup, but always use fresh juice. Bottled lime curbs brightness and that's the whole point of this drink. Fresh juice is three dollars. Don't skip it.
+
+The juice tastes too sweet? Add a tiny dash of fresh grapefruit juice to cut through. Just a splash. One ml maybe.
+
+Ice melts too fast and your shaker gets warm? Swap to newer cubes or use a metal shaker instead of glass. Metal holds cold longer and speeds chilling. You'll finish shaking faster.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About French 75 Gin Cocktails
+
+**Can I make a gimlet with these ingredients instead?**
+Not really. Gimlet is gin and lime juice, that's it. This has too much going on. Make it simple if you want gimlet.
+
+**Should I chill the glass?**
+Yes. Pre-chill matters here. Warm glass kills the drink before you even take a sip.
+
+**What if I don't have fresh cranberry juice?**
+Then make something else. Bottled cranberry cocktail mix is too sweet and tastes wrong. Haven't found a good substitute that works.
+
+**Can I batch this for a party?**
+Sure. Mix everything except ice beforehand, keep it cold. Shake with fresh ice per drink right before serving. Takes an extra minute but the texture stays right.
+
+**Is this the same as a gin and tonic?**
+No. Completely different. Gin and tonic is gin, tonic water, ice, lime. This is shaken and citrus-forward. Different drinks.
+
+**Why does the shaker sound matter?**
+Because you can't see the temperature. The sound changes when the ice chills everything enough. Once that tone shifts, stop shaking or you're just diluting it more.
