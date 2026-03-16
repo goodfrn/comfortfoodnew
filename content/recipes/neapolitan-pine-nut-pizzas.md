@@ -1,10 +1,10 @@
 ---
-title: "Neapolitan Pine Nut Pizzas"
+title: "Neapolitan Pine Nut Pizzas with Ricotta"
 slug: "neapolitan-pine-nut-pizzas"
-description: "Flatbread sandwiches baked on hot stone. Parmesan oil dressed dough folded. Ricotta, chopped pine nuts swapped for pistachios. Lemon zest brightens. Mortadella replaced by spicy soppressata. Arugula holds the peppery green spot. Quick 3 to 4 minute bake with rotations for even color. Garlic, rosemary, chili flakes in olive oil with fine Parmesan grated in for punch. Rustic, handheld, layered flavors with a touch of heat and crunch."
-metaDescription: "Neapolitan Pine Nut Pizzas are rustic sandwiches with bold flavors. Quick bake, rich textures. Perfect for handheld meals."
-ogDescription: "Enjoy Neapolitan Pine Nut Pizzas, a delicious blend of spicy soppressata and creamy ricotta. A quick bake for a tasty handheld sandwich."
-focusKeyphrase: "Neapolitan Pine Nut Pizzas"
+description: "Neapolitan pizza featuring creamy ricotta, toasted pine nuts, and spicy soppressata on hand-stretched dough. Bright lemon zest and peppery arugula add fresh contrast."
+metaDescription: "Make Neapolitan pizza with ricotta, pine nuts, and soppressata at home. Parmesan oil, lemon zest, and arugula bring rustic Italian flavors. Try it tonight."
+ogDescription: "Crispy Neapolitan flatbread with ricotta, pine nuts, soppressata, and fresh arugula. Finish with lemon zest for brightness."
+focusKeyphrase: "neapolitan pine nut pizzas"
 date: 2025-07-19
 draft: false
 image: neapolitan-pine-nut-pizzas.jpg
@@ -21,9 +21,16 @@ tags:
 - "appetizer"
 - "easy dinner"
 keywords:
-- "pizzas"
-- "soppressata"
-- "ricotta cheese"
+- "neapolitan pine nut pizzas"
+- "ricotta pizza"
+- "pine nut ricotta pizza"
+- "soppressata flatbread with parmesan oil"
+- "italian flatbread pizza"
+- "parmesan oil flatbread sandwich"
+- "neapolitan pizza with lemon zest and arugula"
+- "easy dinner pizza"
+- "appetizer pizza recipe"
+- "ricotta pizza with crispy soppressata and pine nuts"
 breadcrumb: ["Home", "Recipes", "Pizza and Flatbreads"]
 nutrition: 
  calories: "520"
@@ -72,3 +79,81 @@ faq:
 - "q: How to store leftovers a: Wrap tightly or put in a container. Keep for a day. Reheat on stone if possible. Keeps flavor and texture better."
 
 ---
+
+Stretch the dough thin. Brush both sides with that garlic-heavy Parmesan oil. Fold it in half like you're making a pocket, seal the edges, bake it until the outside gets golden and snappy—then fill it. That's basically it.
+
+## Why You'll Love This Neapolitan Pizza
+
+Takes 39 minutes total if you've got dough ready. Most of that's heating the oven anyway.
+Ricotta pizza that doesn't need a fork. Just fold and eat.
+The soppressata goes crispy at the edges. The arugula stays fresh. Cold pine nuts hit different against warm ricotta.
+Appetizer or easy dinner—works both ways. Made these for a crowd once and people asked for the recipe before they finished eating.
+
+## What You Need for Ricotta Pizza with Pine Nuts
+
+Olive oil—a good one, you'll taste it directly. About 7 tablespoons. Finely grated Parmesan, not the stuff in the green can. Fresh rosemary if you have it. Dried works but doesn't give you that same punch. Minced garlic—5 cloves, and mince them actually small, not chunky. Chili flakes for heat. Salt and pepper.
+
+Pizza dough balls. Four of them. If you don't have dough balls, buy them or make them the day before.
+
+Ricotta cheese, slightly softened so it spreads easier. Pine nuts—toast them yourself if you can. It changes the flavor completely. Lemon zest from one actual lemon, not the bottled stuff. Soppressata salami sliced thin. Arugula leaves. That's all.
+
+## How to Make Italian Flatbread Pizza
+
+Heat your pizza stone or the oven itself to high—the hottest setting it goes. Let it sit with the door closed for 25 minutes. Heat matters more than you think here.
+
+While that runs, make the Parmesan oil. Combine the olive oil, minced garlic, grated Parmesan, rosemary, and chili flakes in a bowl. Stir it until the Parmesan mostly dissolves. Season with salt and pepper. Taste it. Adjust it. It should taste rich and a little sharp.
+
+Once the oven's hot, lightly flour your work surface. Take one dough ball and roll it into a circle—about 10 and a half inches across. Not thick. Thin enough to see through if you hold it up. Brush both sides to get the excess flour off.
+
+Brush that dough generously with the Parmesan oil. Like you mean it. Fold the whole thing in half. Press the edges so they seal slightly. You're making a pocket.
+
+Use a pizza peel and get minimal flour on it. Slide the folded dough onto your preheated stone. It should immediately start sizzling. Bake it for 3 to 4 minutes, but rotate it five times while it bakes. Rotate means flip it, turn it around—whatever gets it browning evenly. Watch for golden, crispy edges. They'll curl slightly when they're right.
+
+## How to Get Neapolitan Pizza Crispy with Parmesan Oil
+
+Pull it out when the outside snaps when you bend it. That's the cue. Not a timer. The sound.
+
+Place the whole thing on a cutting board. Open it without tearing the sides apart. Brush more Parmesan oil inside the pocket—the warm surface will absorb it.
+
+Spread ricotta over the bottom half. Not thin. Enough that you see it but not so much it squeezes out. Sprinkle the toasted pine nuts on top. Add lemon zest. Layer the soppressata slices over that—they'll still be warm and slightly soft, so they won't stay flat, which is fine.
+
+Top with arugula leaves. Fold the pizza shut. Press down gently. Slice it in half. Serve it while it's warm or let it go to room temperature. Both work.
+
+## Pine Nut Ricotta Pizza Tips and Common Mistakes
+
+Toast your own pine nuts if you have time. They're already expensive—don't waste them on the pre-toasted ones that taste like nothing.
+
+Don't skip the Parmesan oil step. It's not just garnish. It's the whole flavor.
+
+The oven has to actually be hot. Twenty-five minutes minimum. Cold stone means soggy bottom, and you can't come back from that.
+
+Soppressata gets weird if you slice it thick. Thin. Let it overlap. It'll crisp up in places and stay soft in others.
+
+Arugula goes in last because it wilts. If you put it on before you fold, it becomes bitter slime. Not good.
+
+One dough ball at a time. Don't try to batch these. The stone cools down and you lose the crispy bottom. Make one, eat it, make the next.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Dinner Pizza
+
+**Can I make this ahead?**
+The Parmesan oil lasts three days in the fridge. Dough lasts overnight. The filled pizza doesn't hold—make it fresh. Takes 4 minutes to bake once everything's ready.
+
+**What if I don't have a pizza stone?**
+Use a baking sheet. Won't get as crispy on the bottom, but it'll work. The stone actually matters though. Might be worth getting one.
+
+**Can I use store-bought pizza dough?**
+Yeah. Let it come to room temperature first or it'll be dense. Most store dough works fine for this.
+
+**Is there a substitute for soppressata?**
+Prosciutto works. So does guanciale if you want to get fancy. Pepperoni gets too greasy. Don't do that.
+
+**Why do I rotate it five times?**
+The edges closest to where heat comes from cook faster. Rotating keeps it even. Less rotation means one side burns, the other stays pale.
+
+**Does the lemon zest actually matter?**
+It cuts through the richness. Without it the pizza feels heavy. Trust me on this one.
+
+**Can I make a vegetarian version?**
+Skip the soppressata, add more pine nuts, maybe some roasted red peppers. Haven't tried that specific combo. Probably works though.
