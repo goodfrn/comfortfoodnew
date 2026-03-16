@@ -1,10 +1,10 @@
 ---
-title: "Snow Crab Legs Guide"
+title: "How to Cook Snow Crab Legs: Boil, Steam, Bake"
 slug: "snow-crab-legs-guide"
-description: "How to cook snow crab legs by boiling, steaming, baking, or grilling. Adjust water levels, salt quantities slightly. Work in batches if using smaller pots. Pay attention to thawed vs frozen timings. Use coarse kosher salt or substitute sea salt for briny kick. Visual cues like shell brightening and steam signals help nail timing. Remove crab legs promptly to avoid overcooking. Drain excess water before cracking for cleaner eating. Aluminum foil traps natural moisture in baking. Oil grill grates to prevent sticking. Insights on efficiency, common pitfalls, and sensory cues included."
-metaDescription: "Snow Crab Legs Guide covers boiling, steaming, baking, grilling. Adjust salt, watch shells brighten, listen for cracks. Timing varies frozen vs thawed."
-ogDescription: "Cook snow crab legs by boiling, steaming, baking, or grilling. Salt levels matter. Watch steam, shell color and listen for subtle crackling to know doneness."
-focusKeyphrase: "snow crab legs"
+description: "Learn how to cook snow crab legs by boiling, steaming, baking, or grilling with kosher salt and cold water. Master timing, avoid overcooking, and enjoy perfectly tender crab."
+metaDescription: "How to cook crab legs perfectly every time using boiling, steaming, baking, or grilling methods with kosher salt. Try it tonight."
+ogDescription: "Master how to cook snow crab legs with kosher salt and cold water. Four methods for perfectly tender, delicious crab every time."
+focusKeyphrase: "how to cook crab legs"
 date: 2025-12-01
 draft: false
 image: snow-crab-legs-guide.jpg
@@ -21,9 +21,18 @@ tags:
 - "roasted"
 - "easy"
 keywords:
-- "crab legs cooking"
-- "seafood recipe"
-- "crab boiling steaming"
+- "how to cook crab legs"
+- "how to cook snow crab legs"
+- "how to boil crab legs"
+- "how to steam crab legs"
+- "how to bake crab legs"
+- "how to grill crab legs"
+- "cook crab legs frozen"
+- "cook crab legs thawed"
+- "snow crab legs recipe"
+- "crab legs kosher salt"
+- "perfectly cooked crab legs"
+- "crab leg cooking methods"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "160"
@@ -73,3 +82,63 @@ faq:
 - "q: How store leftover crab legs? a: Wrap tight, fridge good 1-2 days max. Freeze if longer. Covered plate with foil ok short term. Reheat gently, steam or oven low to avoid drying out meat. Cold crab legs tough to reheat cleanly."
 
 ---
+
+Drop them in boiling salt water. Five and a half minutes if they're frozen. Three and a half if they thawed overnight. That's it. Crab legs don't need much—just heat, salt, and the patience to not overcrowd the pot.
+
+## Why You'll Love This Crab Legs Recipe
+Takes 25 minutes total. Thawed or frozen, doesn't matter.
+Four different ways to cook them—boil, steam, bake, grill. Pick whatever fits your kitchen right now.
+Meat comes out tender and sweet. Not rubbery. Not waterlogged either if you actually drain them after.
+Seafood doesn't have to be complicated. This is the easiest thing you can make at a restaurant-quality grill or your stovetop at home.
+
+## How to Cook Snow Crab Legs—Your Best Methods
+Grab a big pot or Dutch oven. Stock pot works too. The thing is—don't crowd them. Uneven cooking kills everything. Half full of cold water. Add a tablespoon and a quarter of kosher salt. Not sea salt unless that's what you have. Brings it to a strong boil. You'll hear the bubbling roar before you see it.
+
+Drop the legs in carefully. Frozen? Five and a half minutes. Thawed? Three and a half. Watch the shells brighten. Steam billows. That's your signal something's happening. Shells go from dull to vivid orange-red. Pull them out onto paper towels on a rimmed tray. Drain everything stuck inside those shells or they get soggy and crack weird.
+
+Steaming works too. Same pot trick—don't crowd. Steamer basket is mandatory. Cold water just kisses the rim. Maybe a teaspoon or two of salt. Less water means more steam pressure. Keeps the meat moist instead of drying out. Lay the legs in the basket. Cover tight. Frozen takes seven and a half minutes. Thawed takes five and a half. You'll smell it—that ocean scent gets stronger when they're almost done. Tongs out. Hot steam bursts when you crack the lid early. Don't do that.
+
+## How to Bake or Grill Snow Crab Legs
+Oven at 350 degrees. Toss legs into a deep baking dish or rimmed sheet—piling is fine. Cover tight with foil. Traps everything. Thawed legs go nine to eleven minutes. Watch the foil balloon slightly as gas escapes. That's your hint it's working. Remove the foil carefully or steam hits your face. Legs plump. Shells turn that vivid red.
+
+Grill method hits different. Medium heat. Spritz the grates with oil or they stick. Lay legs right on. Lid closed. Three to four minutes. Listen for the crackling. Char adds smoke but don't overcook—shells harden fast and meat dries quick. Flip once mid-way or rotate if flames flare. Remove and serve hot.
+
+## Snow Crab Legs Tips and Common Mistakes
+Crowding is the biggest mistake. You do that and half of them steam while the other half actually boil. Uneven is guaranteed.
+
+Forget draining after boiling and you're eating soggy crab. Takes thirty seconds. Worth it.
+
+Don't open the steamer lid early. Steam escape means dry meat. Even three seconds matters.
+
+Oversalt the water and it tastes fishy. Undersalt and it's bland. A tablespoon and a quarter for boiling. Stick with that. You can always add more salt at the table.
+
+Frozen versus thawed changes timing by two or three minutes. Frozen always needs longer. Not negotiable.
+
+Grilling adds char but overcooking happens in seconds. Watch them. One flip. That's usually enough.
+
+Each method works. Boiling's fastest. Steaming keeps things moist. Baking's gentle. Grilling's dramatic.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About How to Cook Crab Legs
+
+**How do you boil crab legs so they don't get rubbery?**
+Salt water. Cold water first. Bring it to a boil. Drop them in. Frozen takes five and a half minutes. Thawed takes three and a half. Pull them out. Don't leave them sitting in hot water after. That's how they get rubbery.
+
+**Can you cook crab legs on a grill?**
+Yeah. Medium heat. Oil the grates first. Lay them flat. Lid down. Three to four minutes. Listen for the crackling. Flip once. Adds a smoky char but don't overcook—meat dries fast.
+
+**How long do crab legs take to cook?**
+Five and a half minutes frozen boiling. Three and a half thawed. Steaming takes seven and a half frozen, five and a half thawed. Baking at 350 is nine to eleven minutes for thawed. Grilling is three to four. Total prep and cook time across all methods is around 25 minutes.
+
+**Should you thaw crab legs before cooking?**
+Doesn't matter much. Frozen takes a bit longer—maybe two minutes more. Thawed cooks faster. Some say thawed drains cleaner. Haven't noticed a huge difference in taste either way.
+
+**What's the best way to cook snow crab legs?**
+Boiling if you want speed. Steaming if you want moisture. Baking if you want hands-off. Grilling if you want char. All work. Pick what your kitchen situation allows.
+
+**Can you cook crab legs in the oven?**
+Yeah. 350 degrees. Deep baking dish. Cover with foil tight. Thawed legs go nine to eleven minutes. Meat stays tender. Works fine.
+
+**How do you know when crab legs are done cooking?**
+Color. Shells go vivid orange-red when they're done. Steam gets intense. You can smell the ocean scent getting stronger. Meat firms up but stays sweet. Overcook and it gets tough and dry. Undercook and it stays translucent in spots. Done is when the shell's all that bright red.
