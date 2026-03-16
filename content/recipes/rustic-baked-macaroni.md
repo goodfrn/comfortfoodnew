@@ -1,10 +1,10 @@
 ---
-title: "Rustic Baked Macaroni Cheese"
+title: "Baked Mac and Cheese with Smoked Gouda"
 slug: "rustic-baked-macaroni"
-description: "A hands-on twist on classic baked mac and cheese with swapped ingredients and timing adjusted to coax out richer flavors and a golden crust. Uses scalded milk for quicker thickening. Emphasis on tactile cues like bubbling edges and cheese melt texture. Butter and flour cooked to a nutty blonde to avoid raw taste. Cheddar replaced with a combo of smoked Gouda for depth and reduced sharpness. Pasta stirred gently to avoid mushing. Baking done just long enough for crust crisp without drying out. Tips on rescuing grainy sauce or overcooked pasta included."
-metaDescription: "Rustic Baked Macaroni Cheese with smoked Gouda, mustard warmth, golden crust, and tactile cues for creamy inside and crackling top. American comfort food twist."
-ogDescription: "Hands-on baked mac and cheese swapping cheddar for smoked Gouda. Watch bubbling edges, amber crust, and creamy middle. Mustard adds depth; timing tricks included."
-focusKeyphrase: "baked macaroni cheese"
+description: "Rustic baked mac and cheese made with smoked Gouda, scalded milk, and Dijon mustard for rich flavor. Golden crust, creamy sauce, comfort food at its best."
+metaDescription: "Make baked mac and cheese with smoked Gouda and scalded milk for a creamy, golden-crusted comfort dish. Try it tonight."
+ogDescription: "Creamy baked mac and cheese with smoked Gouda, butter, and Dijon mustard. Golden crust, rich flavors."
+focusKeyphrase: "baked mac and cheese"
 date: 2025-10-13
 draft: false
 image: rustic-baked-macaroni.jpg
@@ -20,9 +20,18 @@ tags:
 - "pasta"
 - "homemade"
 keywords:
-- "macaroni cheese"
-- "baked pasta"
-- "smoked Gouda"
+- "baked mac and cheese"
+- "smoked gouda mac and cheese"
+- "homemade baked macaroni cheese"
+- "creamy mac and cheese recipe"
+- "macaroni and cheese with dijon mustard"
+- "elbow macaroni with smoked gouda"
+- "comfort food macaroni cheese"
+- "baked macaroni cheese with butter sauce"
+- "golden crust mac and cheese"
+- "scalded milk mac and cheese"
+- "rustic macaroni cheese"
+- "scratch made mac and cheese"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "440"
@@ -68,3 +77,87 @@ faq:
 - "q: How to store leftovers? a: Refrigerate tightly covered up to 3 days. Reheat gentle and slow, low oven or microwave intervals to avoid drying or cracking crust. Sauce thickens cold; add splash milk or broth if too thick. Can freeze but sauce may separate, thaw overnight carefully. Crunchy crust won't stay same."
 
 ---
+
+Butter the dish first. Heat the milk. The roux goes in and doesn't come back out until it's thick and ready. Forty-five minutes total if you move straight through, but the waiting is just oven time — you're done working after 18 minutes.
+
+## Why You'll Love This Baked Macaroni and Cheese
+
+Tastes like someone actually made it instead of opening a box. The smoked gouda does something to the sauce — not cheesy in that sharp way. Something deeper. Kind of smoky but you can't quite name it.
+
+Comes out of the oven with a crust. Not burned. Just that exact amber color where the cheese gets crispy and the inside stays creamy and the middle still jiggles a tiny bit when you shake the dish.
+
+No weird ingredients. Butter, flour, milk, cheese. Dijon mustard if you want to get specific, but it just rounds things out. Not something you taste — something you feel.
+
+Comfort food that doesn't feel like a project. Eighteen minutes of actual work. Everything else is heat.
+
+## What You Need for Homemade Baked Macaroni Cheese
+
+Whole milk. Heated. Not cold from the fridge — that's the point. Microwave it high for about 80 seconds. It doesn't need to boil. Just hot enough that you see steam.
+
+Unsalted butter. Four tablespoons. Medium heat, low heat works too, just slower. You want it to foam soft and stop sizzling before the flour goes in.
+
+All-purpose flour. Three tablespoons. Goes in all at once. Whisk immediately. Lumps kill everything.
+
+Smoked gouda cheese. Buy it shredded or shred it yourself — doesn't matter much. One and three quarters cups total, but you save a quarter cup for the top. That's the whole point. The top quarter cup makes the crust.
+
+Elbow macaroni cooked al dente. Ten ounces. Not soft. Not crunchy. That exact middle where it still has a tiny bit of push back when you bite it. Cooked pasta absorbs sauce. Overcooked pasta disappears into it.
+
+Kosher salt. Black pepper. Dijon mustard. A teaspoon of salt, half a teaspoon of pepper, two teaspoons mustard. The mustard isn't spicy. You won't taste it at all. It makes the cheese taste more like cheese.
+
+## How to Make Baked Macaroni and Cheese From Scratch
+
+Oven goes to 410. Not 400. Not 425. The temperature matters because at 410 the cheese on top gets golden in 21 minutes and the middle doesn't dry out trying to get there. If your oven runs hot or cold, this is where you figure it out. Take notes. Use those notes next time.
+
+Microwave milk high 1 minute 20 seconds. Stir halfway through so the bottom doesn't scald and the top doesn't grow a skin. Hot milk thickens the roux faster and the whole sauce comes together without lumps. That's why you do it.
+
+Melt butter in a heavy skillet or Dutch oven on low-medium. Watch it. The foam comes up and then it starts to subside and you'll see it bubble soft underneath — that's when you add the flour. All of it. At once. Whisk hard. No lumps. Fifty seconds. That's the target. Go longer and the roux browns and changes the flavor of everything that comes after.
+
+Pull it off heat. The milk goes in slow — a thin steady stream while you whisk like you're mad at the roux. Too fast and you get clumps or scorch spots or both. Go slow enough that you can incorporate each bit before the next bit arrives.
+
+Back on medium-low heat. Whisk constantly. This is the part people skip and then wonder why the sauce breaks. Don't skip it. After about five minutes it starts to thicken. Watch the texture. You're looking for something that coats the back of a spoon like velvet — not gluey, not runny. Thick enough to hold shape for a second before it runs back off.
+
+Hit it with mustard, salt, pepper. Stir. Then the gouda — one and a half cups. Stir until it melts and everything's velvety and smooth. The smoke in the cheese is subtle. It doesn't scream at you. It just makes the whole thing taste intentional.
+
+## How to Get Rustic Macaroni Cheese Golden and Creamy
+
+Fold the cooked pasta in gently. Not stirred hard. Folded. The noodles stay intact instead of breaking into small pieces that disappear into the sauce.
+
+Spoon it into a buttered two-quart baking dish. Even it out. That remaining quarter cup of smoked gouda goes on top — scattered loosely so it hits everywhere. This is what makes the crust. Hot cheese on top of hot sauce makes something crispy. This is non-negotiable.
+
+Into the oven for 21 minutes. Watch it. The edges will bubble first. The cheese on top will go from pale yellow to amber. Poke it gently with a fork — the edges should feel firm and the middle should jiggle just slightly when you shake the dish. Too jiggly means more time. Too firm and you waited too long and the center might be starting to break.
+
+Rest it five minutes before you eat it. The sauce sets slightly. Not much. Just enough that it holds together when you scoop it instead of sliding all over the plate like lava. Actually it's still a little like lava. That's the point.
+
+## Baked Macaroni Cheese Tips and Common Mistakes
+
+If the sauce turns grainy you fought lumps during the milk addition or the cheese overheated. Next time whisk longer when you're pouring milk in. Or lower the heat. Both work.
+
+If the pasta tastes dry after it's baked, the noodles absorbed too much sauce and there wasn't enough left. Toss the cooked macaroni with a splash of olive oil before it goes into the sauce — the oil creates a barrier and slows absorption. Don't add much. Just a little.
+
+The baking dish matters. Heavy ceramic or cast iron holds heat better than thin glass. Thin glass works. It's just slower and the timing shifts.
+
+You could use different cheese — cheddar works, gruyere works, sharp cheddar if you like it aggressive — but the smoked gouda does something. It doesn't taste like it's trying. It just tastes like someone knew what they were doing when they made it.
+
+Don't skip preheating. Don't skip the hot milk. Don't stir instead of folding the noodles. These aren't rules for a reason — they're rules because they make the dish work the way it's supposed to.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Comfort Food Macaroni and Cheese
+
+**Can I make this ahead and bake it later?**
+Cook everything through the folding step. Put it in the baking dish, cover it, stick it in the fridge. Bake it the next day — might add a minute or two because it's cold. Works fine.
+
+**What if I don't have smoked gouda?**
+Sharp cheddar works. Gruyere works. The sauce will taste different but it'll still be good. Smoked gouda is worth buying if you can find it. Not because you can't make mac and cheese without it — you can — but because it changes the whole thing in a way that's hard to explain.
+
+**How much is al dente for elbow macaroni?**
+Bite one. If it has a tiny bit of firmness in the center — that small white line when you break it in half — that's al dente. Cooked all the way through but not soft.
+
+**Can I use evaporated milk instead of whole milk?**
+Not really. Evaporated milk is concentrated and makes the sauce dense. Whole milk creates something creamy that's actually creamy, not thick and gluey.
+
+**What if the oven temperature varies?**
+Start checking at 18 minutes. Watch for the amber color on the cheese. Poke it gently. If the middle jiggles and the edges are set, pull it out. If it's pale and jiggly everywhere, give it another few minutes. Temperature matters less than watching it.
+
+**Can I double this recipe?**
+Yes. Use a three-quart baking dish instead of two-quart. Add maybe two minutes to the baking time. Everything else stays the same — the proportions work at scale.
