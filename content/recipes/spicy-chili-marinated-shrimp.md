@@ -1,10 +1,10 @@
 ---
-title: "Spicy Chili Marinated Shrimp"
+title: "Grilled Shrimp with Lime & Chili Marinade"
 slug: "spicy-chili-marinated-shrimp"
-description: "Shrimps soaked in a fiery marinade with chili flakes, lime juice, and a touch of honey. Marinated around half an hour, enough to infuse flavor but not overwhelm. Quick prep and minimal cook time with a punchy aroma that fills the kitchen. Great for casual appetizers or light starters. Whole peeled shrimp tossed in a zesty blend with garlic and fresh herbs, delivering a vibrant bite. Swap chili for smoked paprika if heat's a no-go. Always watch shrimp color and firmness for doneness. Avoid rubbery shrimp by timing carefully. Works well with gluten-free soy sauce alternatives and raw honey substitutes."
-metaDescription: "Spicy Chili Marinated Shrimp with garlic, lime, honey marinade; quick 33-minute prep; fresh herbs; swap chili for smoked paprika; watch shrimp color, texture for doneness."
-ogDescription: "Shrimp soaked in fiery lime and honey marinade, quick sauté or grill; smoky paprika option; vivid flavors, tender bite; watch pink edges curl for timing cues."
-focusKeyphrase: "Spicy chili marinated shrimp"
+description: "Grilled shrimp marinated in lime juice, fresh red chili, garlic, and raw honey. Quick 30-minute marinade infuses flavor perfectly. Tender, juicy shrimp with a zesty bite every time."
+metaDescription: "Grilled shrimp recipe with lime juice, red chili, garlic, and honey marinade. Ready in 30 minutes. Quick, easy, and delicious. Try it tonight."
+ogDescription: "Tender grilled shrimp marinated in lime, chili, garlic & honey. Ready in 30 minutes. Zesty, punchy, and perfectly cooked."
+focusKeyphrase: "grilled shrimp"
 date: 2025-09-26
 draft: false
 image: spicy-chili-marinated-shrimp.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "citrus"
 keywords:
-- "shrimp marinade"
-- "spicy shrimp"
-- "quick shrimp cooking"
+- "grilled shrimp"
+- "grilled shrimp marinade"
+- "marinated shrimp"
+- "grilled shrimp recipes"
+- "shrimp skewers"
+- "grilled shrimp skewers"
+- "grill shrimp on the grill"
+- "marinated and grilled shrimp"
+- "bbq shrimp recipe"
+- "shrimp kabob"
+- "grill prawn"
+- "barbecue shrimp recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "180"
@@ -69,3 +78,72 @@ faq:
 - "q: Storing leftover shrimp? a: Refrigerate in airtight container, covered. Use within day or two tops. Can reheat gently with leftover marinade warmed briefly. Avoid long storage, shrimp lose texture fast. Freeze option possible but damages bite—best fresh always."
 
 ---
+
+Shrimp goes in the pan still wet from the marinade—that's where the magic happens. Twenty-two minutes of actual work. Eleven to cook. Done.
+
+## Why You'll Love This Grilled Shrimp
+Takes 33 minutes total and half of that's just waiting. Spicy, bright, tastes like you know what you're doing—but you don't need to. Works as an appetizer or a side. Cold the next day tastes better. Not kidding. Cleanup is honestly nothing. One pan. Maybe a bowl.
+
+## What You Need for Grilled Shrimp and Marinade
+
+Four hundred grams of raw shrimp. Peeled and deveined. Don't buy the frozen ones that come pre-cooked. Gray means fresh. Pink means already dead and cooked.
+
+One fresh red chili. Finely chopped. The seeds stay in if you like heat. Remove them if you don't. Two cloves of garlic, minced. Lime juice—fresh. Bottled doesn't work here. A tablespoon of honey. Raw works. Agave syrup too. Extra virgin olive oil. Coarse salt. Smoked paprika if the chili gets too aggressive. Coriander for the top.
+
+## How to Make Grilled Shrimp
+
+Cold water first. Rinse them. Pat completely dry—the paper towel matters more than you think. Wet shrimp doesn't take color. Doesn't sear right. Just sits there.
+
+Garlic and chili go in a bowl. Add the lime juice and honey. Stir hard until the honey dissolves. It'll smell sharp and sweet at the same time. That's the smell of a working marinade. Now the olive oil. Slowly. Whisk as you pour. It gets slightly thick—that's what you want. Salt it now. Not much. Just enough to taste it. The balance matters here because everything else is loud already.
+
+Dump the shrimp in. Toss gently so each one gets coated. Twenty-five to thirty-five minutes maximum. Not longer. Overmarinate and the lime juice cooks them. Turns them rubbery. Game over.
+
+Get the skillet hot over medium heat. You'll hear the sizzle before anything else. That's your cue it's ready.
+
+Lightly oil the pan. Add shrimp in a single layer. Not crowded. Crowded means steam. You want sear. Two to three minutes per side. Watch the color shift—gray translucent to pink and opaque. Edges curl slightly. That's when you know. Don't time it. Look at it.
+
+## How to Get Grilled Shrimp Perfectly Tender
+
+Pull it off heat while it's still tender. This matters. The pan stays hot. The shrimp keeps cooking even after you remove it. Residual heat finishes the job. If you wait for it to look done on the pan, it'll be overdone on the plate.
+
+Warm the leftover marinade in the pan for maybe thirty seconds. Drizzle it over. Fresh coriander scattered on top. Serve right now or chill it briefly. Cold shrimp works. Tastes sharper cold. The spice hits different.
+
+## Grilled Shrimp Tips and Common Mistakes
+
+People ignore the doneness cues. They use a timer instead. Timers lie. Your eyes don't. Trust the color. Trust the curl. Trust how it feels when you poke it.
+
+Don't rinse the shrimp after marinating. The coating matters.
+
+If the chili's too much—and it will be for some people—swap it for smoked paprika. Gives you smoky and mellow instead of fiery. Honey can be maple syrup or brown sugar. Changes the flavor. Not wrong. Just different.
+
+Crowding the pan kills everything. Cook in batches if you need to. One layer. That's the rule.
+
+On skewers goes faster. Thread them on wood that's been soaking. Quick flash over the flame. Caramelizes the edges. Watch it constantly though. Two minutes per side maybe. Could be less.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Shrimp and Marinade
+
+**How long should I marinate shrimp before grilling?**
+Twenty-five to thirty-five minutes. That's it. After thirty-five, the lime juice starts actually cooking the shrimp. They get soft. Not in a good way.
+
+**Can I use frozen shrimp?**
+Sure. Thaw them first. Pat them dry or they'll be soggy. The texture won't be quite as good as fresh but it works.
+
+**What if I don't have fresh lime juice?**
+Don't use bottled. The flavor's different. Use lemon instead. Not the same thing but better than bottled lime.
+
+**Can I make this on a grill instead of a skillet?**
+Yeah. Skewers help because shrimp fall through the grates. Medium heat. Same timing. Watch them constantly—direct flame cooks faster.
+
+**Why does my grilled shrimp turn out chewy?**
+Left it in the pan too long or overmarinated. Both overcook it. Shrimp is fast. Two, three minutes per side. Pull it while it's still tender. The heat keeps cooking it after you remove it.
+
+**Can I prep the marinade the night before?**
+The marinade yes. Not the shrimp in it. Mix everything ahead. Add the shrimp the day you cook. Anything longer than thirty-five minutes and it falls apart.
+
+**Is this recipe actually an appetizer or a main dish?**
+Appetizer usually. Two or three shrimp per person. Works cold at a party. Could be a main if you add rice or something. Four or five per person then. On skewers makes it easier to eat standing up.
+
+**What's the spiciest part?**
+The chili. Remove the seeds if you want it less hot. Keep them if you like heat. The smoked paprika swap is basically a different dish—less spicy, more smoky.
