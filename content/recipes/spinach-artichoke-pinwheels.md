@@ -1,10 +1,10 @@
 ---
-title: "Spinach Artichoke Pinwheels"
+title: "Spinach Artichoke Dip Recipe with Puff Pastry"
 slug: "spinach-artichoke-pinwheels"
-description: "Flaky puff pastry swirls loaded with a creamy spinach and artichoke filling. Uses mayo, cheeses, and spices mixed right into chopped artichoke hearts and spinach. Rolled tight, chilled to firm up, sliced thick, baked till golden and puffy. Great appetizer, snack or party bite with that satisfying crunch and cheesy tang. Substitutions include Greek yogurt instead of mayo, or feta for sharpness swap. Timing flexible, watch dough color and filling set for perfect bake. Common slip: overstuffing makes cutting messy. Chill between rolling saves sanity and slicing ease. Garlic and onion powder give a quick punch, skip fresh for smoother melt-in-mouth filling."
-metaDescription: "Spinach Artichoke Pinwheels flaky puff pastry spirals loaded with creamy artichoke spinach cheese filling. Chill rolls, slice thick, bake till golden crunchy bites."
-ogDescription: "Creamy spinach artichoke filling rolled in flaky puff pastry. Chill logs first, slice thick, bake hot till golden. Crunchy, cheesy bites with hint garlic and sharp cheese."
-focusKeyphrase: "spinach artichoke pinwheels"
+description: "Spinach artichoke dip made with fresh spinach, artichoke hearts, mozzarella, and Greek yogurt in golden puff pastry. Creamy, cheesy appetizer ready in minutes."
+metaDescription: "Make spinach artichoke dip with fresh spinach, artichoke hearts, mozzarella, and puff pastry. Easy recipe for parties. Save this one."
+ogDescription: "Creamy spinach artichoke dip with puff pastry, fresh spinach, artichoke hearts, and mozzarella cheese. Perfect party appetizer."
+focusKeyphrase: "spinach artichoke dip recipe"
 date: 2025-10-14
 draft: false
 image: spinach-artichoke-pinwheels.jpg
@@ -21,9 +21,16 @@ tags:
 - "party"
 - "easy"
 keywords:
-- "spinach appetizers"
-- "artichoke recipes"
-- "puff pastry snacks"
+- "spinach artichoke dip recipe"
+- "spinach artichoke dip"
+- "easy spinach artichoke dip"
+- "spinach and artichoke dip recipe"
+- "puff pastry pinwheels"
+- "artichoke dip recipe"
+- "hot spinach artichoke dip"
+- "spinach dip recipe"
+- "easy spinach and artichoke dip"
+- "creamy spinach artichoke dip"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "110"
@@ -71,3 +78,49 @@ faq:
 - "q: How store leftovers? a: Cool completely. Refrigerate in sealed container up to 3 days. Reheat toaster oven or air fryer restores crisp in minutes. Don’t microwave or pastry soggy fast. Freeze logs pre-slice plastic wrapped well, thaw chilled before slicing and baking fresh."
 
 ---
+
+Roll puff pastry sheets tight around spinach and artichoke filling, slice into pinwheels, bake until golden. Twenty minutes of work. Fourteen minutes in the oven. That's it.
+
+## Why You'll Love This Spinach Artichoke Dip
+
+Shows up to parties looking fancy. Nobody needs to know it took you half an hour. Two sheets of puff pastry and whatever's in your pantry already. Works cold the next day if you reheat it in a toaster oven — actually better that way, the pastry gets crispy again instead of soft. The spinach and artichoke filling has enough going on that people keep eating them. Cheese. Garlic. That tang from Greek yogurt instead of mayo. Easy to make ahead, freeze the rolls, bake when guests arrive.
+
+## What You Need for Spinach and Artichoke Dip Pinwheels
+
+Canned artichoke hearts. Chop them loose, not a paste. Fresh spinach, chopped. Not frozen — the texture matters. Greek yogurt. Not all mayo. Mayo breaks easier when it bakes. Mozzarella and Parmesan. The mozzarella melts into strings, the Parmesan gets a little sharp. Onion powder and garlic powder. White pepper because black flecks show and people think it looks weird. Salt. Adjust it yourself at the end. Two sheets of puff pastry, thawed. Not frozen cold. Extra virgin olive oil for brushing.
+
+## How to Make Spinach and Artichoke Dip Pinwheels
+
+Pulse the artichokes first if they're chunky. You want pieces, not mush. Throw them in a bowl with the spinach. Add the yogurt, both cheeses, the powders, salt, pepper. Mix until everything's coated and creamy. No dry spots. Let it sit for a minute. Flavors catch up with each other.
+
+Roll out one puff pastry sheet on a floured surface. Don't go crazy with flour — just enough so it doesn't stick. Brush olive oil all over it. Every inch. This stops the bottom from getting soggy and adds actual crunch. Spread half the spinach mixture across it thick but leave an inch around all the edges. That margin matters for sealing. Roll it tight from one long end into a log. Go slow. Air pockets ruin the shape when it bakes. Wrap it in plastic and freeze for about 25 minutes. Firm, not rock hard. You want it to hold when you slice it without the filling squishing out everywhere. Do the same thing with the second sheet and the rest of the filling.
+
+## How to Get Spinach and Artichoke Dip Pinwheels Golden and Crispy
+
+Preheat to 395. Puff pastry needs real heat. Convection or fan setting if you have it. Faster browning that way. Pull the rolls out of the freezer and unwrap them careful. Use a serrated knife. Cut about an inch thick. You'll get roughly a dozen slices per roll. They should look like little spirals now. Lay them flat on a parchment-lined baking sheet. Don't crowd them. They puff and expand. Bake 14 to 16 minutes. Watch it. The pastry goes from pale to honey brown with slightly toasted edges. The filling bubbles a little but doesn't spurt everywhere. That's done. Pull them out and let them rest 4 or 5 minutes. Prevents burns and the filling firms up so it doesn't fall apart when you pick one up. Serve warm. Best day you make them.
+
+## Spinach and Artichoke Dip Tips and Common Mistakes
+
+Don't defrost the puff pastry all the way. Cold pastry layers better, gets flakier. If you thaw it too much it gets sticky and tears. Don't skip the olive oil brush. It does almost everything. Keeps the bottom from soaking up moisture, adds the crunch, browns the whole thing faster. Don't pack the filling too thick or it won't cook through before the pastry burns. That inch margin on the edges is doing work too — seals the whole thing so nothing leaks out onto the pan. Spinach releases water when it heats up. Fresh spinach not frozen handles this better. Frozen spinach works but squeeze it dry first. The pinwheels freeze beautifully. Make them days ahead, bake straight from frozen, add maybe 2 minutes to the time. Leftovers go in the toaster oven or air fryer. Microwave makes them rubbery. Don't bother.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spinach and Artichoke Dip
+
+**Can you make spinach and artichoke dip ahead?**
+Yeah. Roll everything, wrap it, freeze it. Keeps for like a week. Bake from frozen, just add a couple minutes. Actually better because the filling's solid when you slice it.
+
+**What if you don't have Greek yogurt?**
+Mayo works but it's heavier. Sour cream gets the tang without the density. Haven't tried cream cheese. Probably fine.
+
+**How many pinwheels does this make?**
+About two dozen if you cut them an inch thick. Maybe more if you slice thinner but then they're harder to handle.
+
+**Can you use frozen spinach?**
+Yes but squeeze out the water first. Frozen spinach releases moisture when it bakes and makes everything soggy.
+
+**What's the difference between using mozzarella and provolone?**
+Mozzarella's mild and stretchy. Provolone gets a little smoky and sharper. Mozzarella if you want it straight cheese flavor. Provolone if you want something with character.
+
+**Do you have to use puff pastry?**
+Technically no. Phyllo dough works if you're into that. Crescent roll dough too but it won't puff the same way. Puff pastry's easier and gets actually crispy.
