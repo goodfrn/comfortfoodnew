@@ -1,10 +1,10 @@
 ---
-title: "Peach White Chocolate Risotto"
+title: "Peach White Chocolate Risotto Recipe"
 slug: "peach-white-chocolate-risotto"
-description: "A slow-cooked creamy risotto using arborio rice simmered in gently sweetened milk and cream infused with peach schnapps. Fresh peaches slow-grilled to bring out caramel notes, mixed with white chocolate for a subtly lush dessert risotto. Takes over an hour to cook, requires attention to absorption and stirring, with hints of liquor and fruit in the aroma. A twist on typical creamy desserts, light on eggs and nuts, gluten-free, with tactile cues to judge doneness rather than strict timing."
-metaDescription: "Peach White Chocolate Risotto slow-cooks arborio rice in sweet milk and cream, grilled peaches caramelize with white chocolate melted in for a textured dessert dish."
-ogDescription: "Slow-cooked arborio rice bathed in warm milk and cream, folded with white chocolate, topped with grilled peaches caramelizing edges. A textured dessert for patient cooks."
-focusKeyphrase: "Peach White Chocolate Risotto"
+description: "Creamy peach risotto made with arborio rice, whole milk, and fresh grilled peaches. Silky white chocolate and peach liqueur create an elegant dessert risotto that's gluten-free."
+metaDescription: "Peach risotto recipe featuring arborio rice, fresh peaches, and white chocolate. Slow-cooked creamy dessert with peach liqueur. Make it tonight."
+ogDescription: "Silky peach risotto with white chocolate, grilled fresh peaches, and arborio rice. An elegant gluten-free dessert."
+focusKeyphrase: "peach white chocolate risotto"
 date: 2025-09-20
 draft: false
 image: peach-white-chocolate-risotto.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "slow cooker"
 keywords:
-- "white chocolate"
-- "peach schnapps"
-- "grilled peaches"
+- "peach white chocolate risotto"
+- "peach risotto"
+- "white chocolate risotto dessert"
+- "grilled peach risotto with white chocolate"
+- "chocolate dessert risotto"
+- "arborio rice peach dessert"
+- "peach liqueur risotto recipe"
+- "creamy arborio rice with peach and white chocolate"
+- "gluten-free risotto dessert"
+- "slow-cooked risotto"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "380"
@@ -72,3 +79,90 @@ faq:
 - "q: How to store leftovers? a: Refrigerate tightly covered; reheat gently with splash of milk or cream to loosen grains. Microwave can dry fast—stir halfway through. Consistency thickens; add warm liquid to loosen. Eat next day for texture best. Freeze not recommended; texture breaks down too much."
 
 ---
+
+Pour the schnapps in hot. Watch it sizzle down to almost nothing — that's when you know the rice is ready for the milk. Takes about 20 minutes of prep, then just over an hour of constant stirring, but it's worth it. Peaches, white chocolate, arborio rice all working together like they were meant for each other. Cold night, warm bowl. That's the whole idea.
+
+## Why You'll Love This Peach White Chocolate Risotto
+
+Tastes like a fancy dessert but it's just rice and fruit and chocolate. Creamy arborio rice that actually feels luxurious, not heavy. The grilled peaches on top get this caramelized sweetness that cuts through the richness perfectly. Works as a slow, warm dessert when you want something that isn't cake or ice cream. Chocolate dessert risotto that doesn't feel overly sweet — the peach keeps it balanced. And honestly, people think you spent three hours on it. You didn't. Just under 90 minutes total, most of it just stirring and waiting.
+
+## What You Need for Peach White Chocolate Risotto
+
+Four peaches. Ripe ones, halved and pitted. Two of them get diced fine and stirred in at the end. Two stay whole for grilling. 
+
+Arborio rice — that's the key. Regular rice won't work here. The starch in arborio is what makes it creamy without cream doing all the work.
+
+Whole milk, 600 ml. Cooking cream, 130 ml. That ratio matters. Not too much cream or it gets heavy.
+
+Granulated sugar. Just a quarter cup plus a teaspoon. The peaches bring sweetness too, so you're not oversweetening.
+
+Peach schnapps. 60 ml. The alcohol burns off, leaves behind fruit flavor. Apricot brandy works if schnapps is hard to find. Peach jam in a pinch if you're really stuck, but go light — a teaspoon, maybe less.
+
+White chocolate. 120 grams. Break it into chunks so it melts faster. Don't use the cheap stuff.
+
+Butter. One tablespoon. That's it. Enough to coat the rice before the milk goes in.
+
+## How to Make Peach White Chocolate Risotto
+
+Start with the milk. Pour it into a saucepan with the cream and sugar. Medium heat. You're looking for bubbles at the edges, not a rolling boil. It only takes a few minutes. Once it hits that point, pull it off. Keep it warm — you'll be adding it slowly, and cold liquid means your cooking time gets weird.
+
+Melt the butter in a heavy-bottomed pan. Medium heat. Add the arborio rice. Stir it constantly for about a minute. This is crucial. The grains get a slight gloss, almost translucent at the edges. You'll smell it change — toasted, nutty. That flavor matters.
+
+Pour the peach schnapps over the rice. It'll sizzle immediately. Don't walk away. Stir and watch until it's almost dry — the liquid gets absorbed and the fruity sharpness mellows. Two, maybe three minutes.
+
+Now the milk. Use a ladle. About half a cup at a time. Pour it over the rice and stir constantly. You're scraping the bottom, making sure nothing sticks, keeping the motion going. Wait until almost all the liquid gets absorbed before you add the next ladle. You'll hear it — a gentle simmering, not aggressive. If you add liquid when the last batch is still swimming, it takes forever to cook.
+
+This part takes 50 to 65 minutes. Keep doing the ladle, stir, wait rhythm. The milk-sugar combo takes longer than normal arborio because of how much liquid there is. The rice grains will get plump and soft but still have a slight bite — you don't want mushiness. If it looks too dry before you're done, add a splash of warm water or milk.
+
+Two minutes before the end, fold in the diced peach. Stir gently. The heat softens the fruit slightly but keeps the pieces intact and juicy.
+
+## How to Get White Chocolate Risotto Creamy and Silky
+
+Off heat. Break the white chocolate into chunks and fold it in. Don't rush this. Stir slowly until it melts completely and blends through. No lumps. The chocolate melts slowly on the warm risotto, adding this silkiness that doesn't make it taste overly sweet.
+
+While the risotto sits, grill the peach halves. Medium heat on a grill, or a ridged pan on the stove with just a bit of oil. Cut-side down. Seven to twelve minutes. You're watching for caramelized edges and flesh that's tender but not falling apart. The juices bubble around the edges — that's when you know they're ready. Pull them off.
+
+Serve warm in bowls. Top each one with a grilled peach half. The warm fruit against the creamy risotto is what this dish is about. Different textures, warm and cold contrast, peach and chocolate working together. Eat it before it cools down too much or the risotto firms up.
+
+## Peach Risotto Tips and Common Mistakes
+
+Use warm liquid always. Cold milk means the cooking time stretches out and the texture gets weird. That's why you keep the milk warm from the start.
+
+Constant stirring. Not optional. You're not standing there doing nothing — you're breaking down the starches, encouraging creaminess. Every minute of stirring matters.
+
+Don't skip the butter step. Too little and the rice clumps. Too much and it gets greasy. That one tablespoon is exactly right for coating the grains before anything else touches them.
+
+The schnapps needs to almost fully evaporate. If you add milk while it's still wet, the liquid ratio gets off. Wait until you smell it change.
+
+If schnapps is impossible to find, apricot brandy works. Peach jam as a last resort — one teaspoon, stirred in with the diced peach. Avoid going oversweet.
+
+For less richness, skip the white chocolate. You lose some of that luscious mouthfeel but the risotto still works. White chocolate chips melt faster than chunks if you're impatient.
+
+Heat too high and the bottom scorches. Low and steady wins. Medium, consistent, controlled.
+
+The final rest off heat lets the starches settle and flavors meld. Don't skip it. Don't serve immediately. Let it breathe a minute.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Peach White Chocolate Risotto
+
+**Can I make this in a slow cooker?**
+Not really. Arborio rice needs constant stirring and attention. The slow cooker doesn't give you that control. You need the stovetop for this one.
+
+**What if I can't find arborio rice?**
+Don't substitute. Arborio is what makes the risotto creamy. Regular white rice or jasmine won't work the same way. It's the starch in arborio that does the job.
+
+**How long does this actually take from start to finish?**
+Twenty minutes prep, then one hour and five minutes cooking. Total time is one hour and 25 minutes. Most of that is just stirring and waiting.
+
+**Can I use frozen peaches?**
+Frozen peaches work for the diced ones stirred in. For grilling, fresh is better because they hold their shape. Frozen ones get too soft.
+
+**Do I really need white chocolate, or can I use dark?**
+Dark chocolate changes everything. It's bitter, overpowers the peach. White chocolate is what balances this dish. If you want less chocolate flavor, use less white chocolate. Don't swap it out.
+
+**Can I make this ahead?**
+Not really. Risotto firms up as it cools. You can reheat it gently with a splash of milk, but it won't be the same texture. Make it fresh, serve immediately.
+
+**Is there a substitute for cooking cream?**
+Heavy cream works. So does half-and-half, but the risotto gets less silky. Regular milk alone is too thin. Stick with the cream if you can.
