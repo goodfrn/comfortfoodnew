@@ -1,10 +1,10 @@
 ---
-title: "Rustic Pistou Soup"
+title: "Vegetable Soup with Basil Pistou"
 slug: "rustic-pistou-soup"
-description: "A medley of summer vegetables simmered in savory broth, brightened by a punchy homemade pistou of basil, garlic, tomato, and cheese. Haricots blancs and green beans add texture. Potato and zucchini purée enrich body, balancing earthy sweetness with fresh herbs. Traditional French origins with tweaks for deeper aroma, creamier mouthfeel, and easier timing cues."
-metaDescription: "Rustic Pistou Soup simmers fresh veggies with basil, garlic, and pecorino in savory broth. Chunky textures, bold herb punch, simple French-inspired layers."
-ogDescription: "Chunky veggie soup meets punchy pistou of basil, garlic, pecorino. Rustic textures, simmer aromas, homemade French garden flavors. Layers not pureed."
-focusKeyphrase: "Rustic Pistou Soup"
+description: "Vegetable soup simmered with cannellini beans, green beans, zucchini, and sweet potato in savory broth. Fresh basil pistou with garlic and pecorino romano adds vibrant flavor and creaminess."
+metaDescription: "Make vegetable soup with cannellini beans, green beans, zucchini, and sweet potato. Topped with homemade basil pistou. Try it tonight."
+ogDescription: "French-inspired vegetable soup with cannellini beans, zucchini, sweet potato, and fresh basil pistou. Hearty and herbaceous."
+focusKeyphrase: "vegetable soup"
 date: 2025-09-29
 draft: false
 image: rustic-pistou-soup.jpg
@@ -21,9 +21,14 @@ tags:
 - "mediterranean"
 - "summer"
 keywords:
-- "pistou soup"
-- "vegetable broth soup"
-- "pecorino flower soup"
+- "vegetable soup"
+- "french vegetable soup with homemade basil pistou"
+- "pistou soup recipe"
+- "summer vegetable soup with beans"
+- "basil garlic vegetable soup"
+- "zucchini sweet potato soup with pistou"
+- "cannellini beans and green beans soup"
+- "mediterranean vegetarian soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "180"
@@ -68,3 +73,53 @@ faq:
 - "q: Can broth be substituted? a: Rich vegetable broth best but good chicken broth works too. Avoid watery broths - soup needs body. Storebought stock ok if high quality. If weak broth, concentrate by reducing slightly before adding veggies. Adds depth without extra seasoning fuss."
 
 ---
+
+Cut the vegetables first—not all at once though. Onion goes in the pot while the oil's still cold. Three quarters of an hour total if you move normally. Slower if you're chopping like you're thinking about something else. This is a French vegetable soup, thick and loose at the same time. The basil garlic pistou is where everything happens.
+
+## Why You'll Love This Vegetable Soup
+
+It's the kind of summer vegetable soup that tastes like you spent all day on it. Didn't though—35 minutes of actual cooking. The kind with zucchini and sweet potato that gets mashed straight into the broth so it's thick but still light. Cannellini beans and green beans give it texture. Nobody fights about texture. And then you hit it with pistou—fresh basil and garlic crushed with oil and cheese. That's the thing. Not complicated. Works cold too, which matters in summer. Makes a lot. Leftovers taste better the next day, which is weird because usually soup just flattens out.
+
+## What You Need for Mediterranean Vegetable Soup
+
+One medium onion. Chop it fine. Doesn't have to be perfect—it all softens anyway. Eighty milliliters of olive oil. That's a third cup plus a tablespoon. Don't cheap out here. Good oil changes the whole thing. One point two liters of broth. Vegetable or chicken. Rich one matters. Two small zucchini cut into chunks—not tiny, chunks. One medium sweet potato peeled and cubed. Large carrot, diced. Two hundred forty milliliters of canned cannellini beans, drained. Green beans cut into two centimeter pieces. Sixty milliliters of pecorino romano grated fine. Parmesan works if that's what you have. Four garlic cloves. Two large ripe plum tomatoes chopped up. One hundred ten milliliters of fresh basil leaves. That's half a cup if you're not measuring by weight. Salt. Black pepper. Cracked, not ground. Coarser stuff stays on the food instead of disappearing.
+
+## How to Make French Vegetable Soup
+
+Heat two tablespoons of olive oil in a heavy pot. Medium heat. Add the onion. Stir it around. Six minutes it takes to go from raw to translucent. Don't rush this. The smell changes—that's how you know. When it's not raw anymore but also not brown, you're there.
+
+Pour the broth in. The whole thing. Then add carrot, zucchini, and sweet potato. Bring it up to a gentle boil. Then lower the heat. Simmer covered for twenty-two minutes. The vegetables get soft. The zucchini especially—it goes yielding. Not mushy. Yielding. You can tell by pushing one with a spoon.
+
+Here's where it gets weird. Fish out the zucchini and sweet potato with a slotted spoon. Mash them rough. Like, actually rough. A potato masher or a fork works. You're going for chunks, not smooth. Put it back in the pot. This is what makes it thick. Stir in the beans—both kinds. The canned ones and the green beans. Six more minutes. The smell changes again. More vegetal. Sweeter.
+
+## How to Get the Pistou Just Right
+
+This is where it happens. Mortar and pestle or a food processor. Garlic, pecorino, tomatoes, fresh basil. Smash or blitz it. Then drizzle the remaining olive oil in while you're going. Slow. You want a thick sauce. Grainy. If you overblend it gets watery and sad. Stop before that happens.
+
+Fold the pistou into the soup. Gently. You're not trying to homogenize it. You want bits of basil visible. Three minutes off heat. The aromas settle. The oil floats on top, glossy. Taste it. Fix the salt. Add more basil if the soup tastes flat. Freshness fades fast—that matters here because basil gets kind of musty if it sits too long in hot soup.
+
+## Tips for Basil Garlic Vegetable Soup and What Goes Wrong
+
+The biggest mistake is brown onion. If you burn it, you get bitterness you can't get out. Low heat. Patience. Smash the vegetables but not to powder. The texture is half the point—if it's completely smooth it's just thick broth. Don't overblend the pistou or it breaks and releases water. You want it grainy and thick. Some people skip it entirely and just use basil as a garnish. Fine. Different soup but fine. The soup's thick but spoonable—if it's like porridge you used too much mash. Add more broth. If it's thin like regular soup you didn't mash enough or you skipped that step. Cold leftovers are actually better than hot ones. Flavors deepen overnight. Freeze it if you want. Thaws fine.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About French Vegetable Soup with Pistou
+
+**Can I use frozen vegetables?**
+Not really. The fresh stuff is why you're making this. Frozen zucchini gets mushy. Frozen green beans taste like the freezer. Canned beans are fine. Fresh everything else matters.
+
+**What if I don't have pecorino?**
+Use parmesan. Similar enough. Gruyère works too if you have it. Don't skip the cheese in the pistou—it changes the whole texture.
+
+**Do I have to mash the vegetables?**
+Yeah. That's what makes it thick. If you want clear broth with chunks just skip that step but then it's a different soup entirely.
+
+**Can I make this ahead?**
+Make it yesterday. Tastes better actually. Reheat gently. The pistou can go in fresh the day you eat it instead of the day before—basil gets a bit tired sitting in hot soup overnight.
+
+**Is this actually pistou or is it pesto?**
+Pistou. Pesto is Italian. This is Provençal French. No pine nuts. No basil-forward. It's more balanced. Texture's different too. Grainy, not smooth.
+
+**What if I don't have fresh basil?**
+Don't make this. Dried basil tastes like nothing. Just tastes like sadness in a soup that's supposed to be bright and alive. Wait for summer or use the frozen stuff in ice cubes if you can find it.
