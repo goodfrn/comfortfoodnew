@@ -1,10 +1,10 @@
 ---
-title: "Twisted Yogurt Tartare"
+title: "Radish Salad with Greek Yogurt & Pickled Radishes"
 slug: "twisted-yogurt-tartare"
-description: "A tangy tang with crisp crunch and creamy tang, yogurt stands in for mayo, swapping out cornichons for tangy quick-pickled radishes. Sharp shallots clash softly with chopped capers and lemon juice; balancing salty, sour, and fresh. No eggs, no nuts, no gluten. Chill for a brief spell, taste every step, season boldly or back down. Great on sandwiches, as dip, or dolloped on grilled veggies. Sensory guide more than exact minutes. Texture matters—bits visible and alive. Punchy, fresh, simple. Keep substitutions handy if yogurt’s not around or cornichons hide. Classic tartar, but reborn with attitude and a twist you’ll remember from the first tart bite."
-metaDescription: "Twisted Yogurt Tartare swaps mayo for tangy Greek yogurt, quick-pickled radishes, and chopped capers. Creamy with crunch and fresh lemon zest pop."
-ogDescription: "Tangy yogurt base, crisp pickled radish crunch, sharp shallots, capers, bright lemon zest. A French-inspired tartare with punch and simple fresh flavors."
-focusKeyphrase: "yogurt tartare"
+description: "Radish salad made with Greek yogurt, quick-pickled radishes, capers, and lemon zest. Tangy, crisp, and creamy—perfect as a dip or sandwich spread."
+metaDescription: "Make this radish salad with Greek yogurt, pickled radishes, and capers for a tangy, crisp side. Try it tonight."
+ogDescription: "Creamy radish salad with Greek yogurt, pickled radishes, capers, and fresh lemon. Tangy and crisp."
+focusKeyphrase: "radish salad"
 date: 2025-09-30
 draft: false
 image: twisted-yogurt-tartare.jpg
@@ -21,11 +21,18 @@ tags:
 - "gluten free"
 - "lemon"
 keywords:
-- "yogurt tartare"
-- "pickled radishes"
-- "Greek yogurt"
-- "chopped capers"
-- "lemon zest"
+- "radish salad"
+- "quick pickled radishes"
+- "Greek yogurt salad"
+- "pickled radish quick"
+- "fast pickled radish"
+- "radish salad recipe"
+- "quick pickled vegetables"
+- "easy radish side dish"
+- "tangy radish recipe"
+- "caper salad"
+- "pickled veggie recipe"
+- "lemon radish salad"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "110"
@@ -69,3 +76,95 @@ faq:
 - "q: How long can I store leftovers? a: Up to 2 days in fridge tightly sealed. Flavors meld but texture softens. Stir before serving. If separated, whisk gently. Avoid freezing. Best fresh but fridge storage still good for next day use."
 
 ---
+
+Shallots go in first—minced fine because size matters here. Three quarters of the work is just setup, chopping things small enough that they actually blend instead of sitting there like chunks. The radishes are already sharp and snappy from the pickle jar, so you're layering tang on tang, and that's the whole point.
+
+## Why You'll Love This Radish Salad
+
+Seven minutes total. Not a recipe, just assembly. No cooking involved, which means you can make it while you're thinking about something else entirely.
+
+Works as an appetizer straight—dollop it on toast. Works as a dip. Works spooned over grilled vegetables or fish and honestly tastes better the next day, when everything's had time to get to know each other.
+
+Gluten-free by default. Vegetarian. The kind of thing that looks like you put thought into it but didn't.
+
+Greek yogurt does the heavy lifting instead of mayo, so it's the lighter version of things. Sharpness comes from the radishes and lemon, not cream. The capers stay in the background—you feel them, not taste them overpowering everything.
+
+## What You Need for This Radish Salad
+
+Greek yogurt. The 3% fat kind. Thicker, tangier than regular yogurt. Don't use the super thick kind—that's dessert. Regular Greek yogurt from any store works fine.
+
+One medium shallot. Not half, not two. One. Minced ultra-fine because you want it to dissolve almost, not announce itself.
+
+Four small quick-pickled radishes. The ones from a jar, already done. Dice them small. Size of the shallot, roughly. You want texture in there, not domination.
+
+Pickle juice from that jar. A tablespoon and a third. Not more—it gets sour, tastes like vinegar instead of brightness. The juice does the acid work, so you don't need lemon to go crazy.
+
+Three-quarter teaspoon capers, chopped smaller. They're salty little things. Chopped means they scatter, don't pile up in one bite.
+
+Half a lemon's zest. Fresh. Not old. The oils matter—that's where the aroma comes from.
+
+Salt. A pinch or two. But go careful. The capers and pickle juice already brought salt. Easy to overdo it.
+
+Black pepper. The kind you crack fresh. Liberally. No skimping.
+
+## How to Make Radish Salad
+
+Chop the shallot first. Ultra-fine. The knife work matters because shallot is sharp and pungent, and if it's in chunks it stays aggressive. Fine means it starts to blend into everything else, becomes part of the tang instead of the villain.
+
+Dice the radishes next. Similar size to the shallot. You want the crunch to matter—want people to notice it—but not big chunks disrupting the smooth base. The texture contrast is the actual point here.
+
+Bowl goes next. Yogurt in first. Add lemon zest right away. Stir it together. Smell it. That citrus oil breaking into the yogurt—that's what you're building on. The bright foundation.
+
+Now the shallot and radishes go in. Stir gently but thoroughly. Don't overmix or the radishes lose their snap, yogurt gets watery. You're folding these in, not beating them into submission. Get them distributed and stop.
+
+Sprinkle the capers. Scattered. Taste it now. Their saltiness can sneak up on you. Go easy. You can always add more capers—can't really take them back.
+
+Pickle juice drizzles in next, but go slow. Better to add less at first, then adjust. Keep tasting, watch the acidity. Some pickle jars are more aggressive than others. This one probably isn't too bad, but you know your jar.
+
+Salt in small increments. Difficult to fix if you overshoot. A pinch. Taste. Maybe another pinch.
+
+Crack fresh black pepper over the top. Right now. The aroma should hit immediately—that peppery snap. Stir lightly once more, just to mix in the pepper.
+
+## Getting the Texture Right for Radish & Cucumber Salad
+
+Refrigerate at least 10 minutes. Ideally 15 to 20 if you've got the time. Flavors marry. Edges soften. The shallot mellows from aggressive to integrated. The tang settles in instead of shouting.
+
+The texture should be creamy but speckled. You want to see the radish pieces, the capers, things visible. Not a puree. Not a dip that's completely smooth. That speckling is the actual salad part—the crunch is the point.
+
+Serve chilled. Use it as an appetizer dip with toast points. Spread on thick bread. Dollop on grilled vegetables or fish. On top of a quick pickle situation with cucumber—lay thin slices of cucumber, layer this on top, suddenly you've got a radish salad with depth.
+
+Watch it in the fridge. The radishes stay crisp for maybe a day, then they start softening into the yogurt. That's fine. That's almost better if you're eating it the next day. But if you want full crunch, eat it fresh.
+
+## Radish Salad Tips and Common Mistakes
+
+Shallot size matters. Not because it's a rule, because it actually affects how the salad works. Big chunks mean sharpness; fine means integration. You want integration here.
+
+Pickle juice quantity—be conservative. Tastes like nothing until suddenly it tastes like vinegar. Start with less. Adjust up. This is the move.
+
+Don't use capers from a can if you can help it. The jar ones are smaller, less brined. They scatter instead of sitting there being obvious.
+
+The lemon zest has to be fresh. Not pre-zested from a jar. The oils oxidize and turn into dust. Fresh zest, just before you make it.
+
+Greek yogurt temperature matters. If it's cold from the fridge, everything else stays bright. If it's room temperature, it gets a little loose. Keep it cold.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Radish Salad Recipe
+
+**Can I make this ahead?**
+Yeah, but not too far ahead. The radishes start softening after maybe six hours. Make it the morning of, eat it for lunch. The flavors are actually better the next day, but the crunch fades.
+
+**What if I don't have pickled radishes?**
+Then you're making something different. The sharp, quick pickle is the whole thing. You could quick pickle radishes yourself—just radishes in vinegar for 30 minutes—but then you're waiting. Grab the jar ones.
+
+**Can I substitute the Greek yogurt?**
+Sour cream works. Tastes different—less tang, more sour. Cottage cheese is a mess. Mayo is not the same thing. Greek yogurt is doing the work here because it's thick and tangy both.
+
+**How long does it keep?**
+Three, maybe four days in the fridge. The radishes get softer. The capers get more aggressive as they sit. By day four it's basically a spread. Still tastes good, just different texture.
+
+**What goes with this?**
+Toast. Grilled fish. Vegetables. Meat. It's an appetizer that works basically anywhere you'd put a dip. Doesn't compete with anything.
+
+**Should I use fresh radishes instead of pickled?**
+No. Fresh radishes are different—milder, less sharp. This recipe is built on the pickle jar ones already being aggressive and briny. Fresh radishes would be a completely different salad.
