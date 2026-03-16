@@ -1,9 +1,9 @@
 ---
-title: "Mediterranean Lamb Leg Roast"
+title: "Mediterranean Lamb Leg Roast with Harissa"
 slug: "mediterranean-lamb-roast"
-description: "A slow-roasted boneless lamb leg infused with a robust mix of North African spices and Mediterranean aromatics. Cooked low and slow in red wine and vegetable broth, layered with a spicy-sweet tomato-harissa paste enhanced by fenugreek and cumin seeds. This recipe skips the usual coriander seeds for a smoky, earthy touch. Prepping the onion and garlic slowly softens their bite, developing deep aromas before the lamb returns to bathe in the broth and wine bath. Resting the meat is a must to let juices redistribute and the temperature gently climb; slicing thin keeps the rose-colored center intact. Served best with mint-apple couscous or a bright herb salad to cut through richness."
-metaDescription: "Mediterranean Lamb Leg Roast slow-cooked low and slow in red wine and fragrant spices; tender slices with mint-apple couscous serve bright contrast to rich, earthy layers."
-ogDescription: "Slow-roast boneless lamb leg with North African spices, fenugreek replacing coriander; honey-harissa glaze, soft onions, rest meat for juicy, pink slices; pair with fresh herb salad."
+description: "Slow-roasted boneless lamb leg with harissa, cumin, turmeric, and fenugreek seeds. Braised in red wine and vegetable stock with tomato paste, onions, and garlic for tender, aromatic results."
+metaDescription: "Mediterranean lamb leg roast infused with harissa, cumin, turmeric, and fenugreek. Slow-cooked in red wine and stock. Try it tonight."
+ogDescription: "Slow-roasted boneless lamb leg with harissa paste, cumin, turmeric, and fenugreek braised in red wine."
 focusKeyphrase: "Mediterranean lamb leg roast"
 date: 2025-08-17
 draft: false
@@ -21,9 +21,18 @@ tags:
 - "harissa"
 - "spice"
 keywords:
-- "lamb leg roast"
-- "fenugreek seeds"
-- "red wine roast"
+- "Mediterranean lamb leg roast"
+- "harissa lamb roast"
+- "slow cooked lamb"
+- "roasted lamb leg"
+- "spiced lamb leg roast"
+- "lamb roast with fenugreek"
+- "boneless lamb leg with cumin and turmeric"
+- "mediterranean lamb with red wine"
+- "north african inspired roasted lamb"
+- "lamb braised in red wine"
+- "low and slow lamb roast"
+- "tomato harissa lamb"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -71,3 +80,72 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly, fridge up to 3 days. Reheat gently in oven covered to keep moist. Freeze slices in vacuum bags or airtight containers max 2–3 months. Sauce thickens over time, add splash broth or water when reheating. Avoid microwave unless careful, dries edges fast."
 
 ---
+
+Two kilos of lamb. Red wine. Harissa. This is not a weeknight dinner—it's what you make when you actually want to sit down and eat something that tastes like it took time.
+
+## Why You'll Love This Mediterranean Lamb Roast
+
+Doesn't need a fancy cut or constant babying. Two hours and forty-five minutes total, most of it just sitting in the oven while you do something else. The harissa gives you that warm spice kick without tasting aggressive or one-note—fenugreek and turmeric round it out so it doesn't flatten. Leftovers are better the next day, cold or reheated. Crispy crust on the outside, pink inside. The pan sauce is basically its own thing by the end—you're not fighting to make it work.
+
+## What You Need for Roasted Lamb Leg
+
+Two kilos of boneless lamb leg. Trimmed means less fat to deal with, cleaner sear. Three and a half tablespoons of extra virgin olive oil—doesn't have to be precious, just good enough you'd eat it. Two medium onions, chopped fine. Three garlic cloves minced small. A tablespoon of tomato paste, generous. Honey or agave syrup. A teaspoon of harissa—that's the thing that makes it taste like it knows something. Half a teaspoon each of crushed fenugreek seeds, whole cumin seeds lightly crushed, ground turmeric. Ground black pepper. Sea salt. A cup of stock—chicken or vegetable. A cup of dry red wine, something you'd drink yourself, not the stuff that tastes like a science experiment.
+
+## How to Make Roasted Lamb Leg with Harissa
+
+Oven rack goes in the middle. Four hundred and sixty degrees Fahrenheit. Actually, that's not right—three hundred and twenty. Low and slow is the point here. Lamb doesn't rush.
+
+Heat half the oil in a skillet big enough to fit the whole thing—and it has to be ovenproof. Get the pan actually hot. Lay the lamb in and don't touch it for a minute. You're waiting for dark brown to happen on the bottom. Then turn it, sear the other side. The whole thing takes maybe five to seven minutes. You want that crust snapping when you push it with a finger. Skin should make a sound. That's where the flavor lives. Salt and pepper right now, while it's still hot.
+
+Pull the lamb out. In what's left of the oil, throw the onions and garlic in. Don't rush this part. Medium heat. You're waiting for them to go from raw to actually soft, kind of translucent and falling apart a little. Seven, maybe eight minutes. The smell changes—that's when you know it's working. Raw garlic smell disappears and something sweeter takes over. Skip this and the whole thing tastes harsh underneath everything else.
+
+Stir in the tomato paste. All the spices—harissa, fenugreek, cumin, turmeric. The honey. Stir until it looks like one thing instead of separate stuff. Everything darkens. The smell gets thicker, deeper. Salt and pepper again. Let it cool for a minute—doesn't have to be cold, just not burning your hand.
+
+## How to Get Slow Cooked Lamb Perfectly Pink and Tender
+
+Lay the lamb back in the pan. Spoon all that spice mixture over it, get it coated completely. Pour the wine and stock around it—not on top, you want that paste staying put. Cover with foil, make it tight, and slide the whole thing in the oven.
+
+One hour and forty minutes like that. Check it once, maybe twice. If the liquid's evaporating too fast, splash some more stock in. You're not looking for the pan to dry out.
+
+After an hour forty, pull the foil off. Crank the heat to three hundred and fifty-five. Fifteen more minutes, maybe twenty-five depending on how thick the roast is and your oven. You're hunting for fifty-six degrees Celsius in the center—that's medium-rare, pink all the way through but not cold. Use a thermometer if you have one. If you don't, press it with your finger. Should give but still have some resistance. Doesn't spring back like it's raw, doesn't feel like a hockey puck either.
+
+When it hits that temp, pull it out. Tent it loosely with foil—loose, not tight—and let it sit for twenty minutes. Just sit. Don't cut into it. The temperature climbs a few degrees while it rests, the inside keeps cooking a tiny bit, and the juices stop running everywhere when you slice it. Skip this part and you get dry. Every time.
+
+Slice it thin. Against the grain—that matters more than people act like it does. The pan stays on the stove, all that wine and spice and meat juice. That's your sauce. Reduce it if you want it thicker, serve it over the lamb if you don't. Couscous under it. Mint. Fresh lemon. Done.
+
+## Spiced Lamb Leg Roast Tips and Common Mistakes
+
+The oven temperature is not a suggestion. Low and slow means you actually have to be patient. Crank it up and the outside burns before the inside gets tender. It's the opposite of how you might cook other things.
+
+Brown the lamb properly. The color is where this whole thing lives. Five to seven minutes is not that long. Don't flip too early. Crust needs time to form.
+
+Don't skip resting the onions and garlic. That translucent, soft stage is important. Raw garlic tastes sharp no matter how long it cooks. Soft garlic tastes like something else entirely.
+
+Check your thermometer against a boiling cup of water before you use it. Half the time people swear their lamb is overdone when it's actually exactly right and their thermometer is lying.
+
+The pan sauce is the whole reason the wine and stock are there. Don't drain it or ignore it. That's where the flavor concentrates by the end.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mediterranean Lamb Leg Roast
+
+**Can I use a bone-in leg of lamb instead?**
+Yeah. It'll take longer—maybe thirty, forty minutes more. Bigger, harder to get the heat all the way through. Boneless is faster, more even, less fussing.
+
+**What if I don't have harissa?**
+You'll need something with kick. Cayenne and a bit of paprika works. Doesn't taste the same—harissa has depth that spices alone don't give you—but it's not broken. Four cups of ground cumin and turmeric are still doing the heavy lifting.
+
+**Can I make this ahead?**
+Brown and sear the lamb the day before, make the spice paste, stick them in a container. Next day, come back and finish roasting. Actually tastes better. The spices have time to think about each other.
+
+**How long will leftovers keep?**
+Three days in the fridge, covered. Slice thin, reheat gently in a low oven with a bit of the pan sauce. Meat gets tighter as it cools but loosens back up when you warm it. Cold slices are fine too—honestly better sometimes.
+
+**What's the difference between slow cooked lamb and regular roasted lamb?**
+Temperature. Regular is hotter, shorter. Slow is lower, longer. You're cooking the connective tissue gently instead of fast, so it breaks down into gelatin instead of just getting squeezed out. Texture's different. Tenderness is different. Worth the time.
+
+**Should I trim more fat off?**
+Some. Lamb carries a lot of fat and you don't need all of it sitting there. But leave a thin layer—that's where flavor lives. It also protects the meat from drying out in the oven. Trimmed means trimmed, not peeled.
+
+**Can I cook this in a slow cooker?**
+You can. Brown it in a pan first—that crust matters. Then slow cooker on low for six to eight hours with the same liquid and spices. Won't get that roasted crust on the outside, but the meat gets tender. Different dish. Both are fine.
