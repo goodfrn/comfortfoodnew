@@ -1,10 +1,10 @@
 ---
-title: "Velvety Custard Twist"
+title: "Creamy Flan Recipe with Half-and-Half"
 slug: "velvety-custard-twist"
-description: "A creamy custard thickened with cornstarch, sugar, and milk, infused with vanilla and butter. Adjusted slightly to swap milk for half cream to boost richness. Egg yolks tempered gently to avoid scrambling. Cooked until low bubbling, thickening visually rather than strictly timed. Plastic wrap pressed directly on surface, stops annoying skin formation. Finished with a quick strain to catch any bits—because clumps ruin the mouthfeel. Rest chilled, flavors deepen after at least 2 hours. Adds subtle almond extract instead of plain vanilla for nuanced aroma. Balanced sweetness—no candy overload here. Simple, reliable comfort-food staple with a little finesse. Good fallback for quick pastry cream, parfait layers, or spooned over fruit. Familiar kitchen smell—sweet, warm, buttery—with a whisper of nuttiness. Experience shows temperature control and stirring crucial for silky consistency."
-metaDescription: "Velvety Custard Twist uses half-and-half, almond extract, and cornstarch for a creamy, rich custard. Temper egg yolks slowly, strain well, chill two hours minimum."
-ogDescription: "Creamy custard, cornstarch thickened, tempered yolks. Almond extract swap. Strain, press plastic wrap. Chill 2+ hours. Silky texture, no lumps guaranteed."
-focusKeyphrase: "Velvety Custard Twist"
+description: "Make silky flan with egg yolks, half-and-half, and almond extract. This custard dessert uses cornstarch for perfect texture and butter for richness—no skin formation."
+metaDescription: "Creamy flan recipe made with egg yolks, half-and-half, and almond extract for a smooth custard dessert. Try it tonight."
+ogDescription: "Silky custard flan with egg yolks, half-and-half, butter, and almond extract. Make it tonight."
+focusKeyphrase: "flan"
 date: 2026-01-25
 draft: false
 image: velvety-custard-twist.jpg
@@ -20,9 +20,18 @@ tags:
 - "eggs"
 - "comfort food"
 keywords:
+- "flan"
+- "flan recipe"
+- "custard"
 - "custard recipe"
-- "half-and-half custard"
-- "tempering eggs"
+- "making flan"
+- "egg custard"
+- "cream custard"
+- "custard pudding"
+- "caramel custard"
+- "creme caramel"
+- "leche flan"
+- "pots de crème"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -72,3 +81,101 @@ faq:
 - "q: How long can custard be stored? a: Chill covered with plastic wrap pressed on surface. Keeps 2-3 days in fridge. Can freeze but texture changes. Reheat gently in double boiler. Avoid skin by leaving wrap on after serving."
 
 ---
+
+Custard thickens around seven minutes if you watch it. Not a timer thing. Watch the surface—bubbles at the edges, the whole thing goes from milk-thin to something that actually coats the whisk. That's when you know you're close. Three egg yolks. A pinch of salt. Two hours in the fridge and it becomes something else entirely—silky, set, the kind of dessert that doesn't need anything but maybe a berry on top.
+
+## Why You'll Love This Custard Recipe
+
+Takes 24 minutes of actual work. Then it sits. So you make it in the morning, eat it tonight. No stress.
+
+Tastes like comfort. Like the thing your grandmother might have made but simpler. Almond extract instead of vanilla—gives it something people can't quite name but they keep eating.
+
+Works as a base for literally anything. Fruit on top. Caramel drizzled over. Eat it plain cold from the fridge at midnight. Doesn't matter.
+
+The texture is what gets people. Creamy in a way that powdered custard mix never gets you there. Not grainy. Not thin. Just—right.
+
+Eggs, sugar, cornstarch, half-and-half. That's basically it. No crazy ingredients. No technique you can't handle.
+
+## What You Need for This Custard Recipe
+
+Half-and-half. Not milk. If that's what you have, fine, but the custard won't be as rich. Whole milk works in a pinch—just know it's a step down.
+
+Three egg yolks. The whites don't go in here. Save them or toss them. Depends on what you're making next.
+
+Granulated sugar and cornstarch mixed together first. The cornstarch stops lumps from forming. Use cornstarch, not flour. Flour makes it grainy. Not worth it.
+
+Unsalted butter—two tablespoons. Melts right in at the end. Adds richness you can taste.
+
+Almond extract. Half a teaspoon. Sounds weird but it's better than vanilla for this. Subtler. Pairs well with fruit desserts or just on its own. You could use vanilla if almond isn't sitting around. Works either way.
+
+Salt. A pinch. Makes everything taste like more of itself.
+
+## How to Make Flan: The Custard Base
+
+Heavy-bottom saucepan. Three or four quart. Matters because thin pans scorch the bottom and thick custard sticks when you're not paying attention.
+
+Combine the sugar, cornstarch, and half-and-half right in the pan. Whisk hard before you turn on any heat. Get the cornstarch broken up. Lumps now become grainy texture later and nobody wants that.
+
+Medium heat. Stand there. Don't walk away. The mixture stays thin for the first couple minutes. Boring. Then you see bubbles forming at the edges—low, slow bubbles, not a rolling boil. Around seven to nine minutes the whole surface starts to look different. Thicker. Like warm pudding consistency. That's the tell. Not a timer. Your eyes.
+
+If it's moving slow, increase heat just slightly. If the bottom's starting to stick, move faster with the whisk. Don't overthink it. The difference between perfect and scorched is maybe thirty seconds.
+
+## How to Get Flan Texture Perfect: Tempering the Eggs
+
+Off heat. This is the careful part but it's not actually complicated.
+
+Ladle about a cup of the warm custard into a separate bowl. Not the whole thing. Just a cup. Pour that cup into the egg yolks while whisking nonstop. Slow. You're warming the eggs gradually so they don't scramble into chunks. This is tempering. Sounds fancy. It's just being patient.
+
+Pour the egg mixture back into the pan with the remaining custard. Medium-low heat. Whisk constantly for three to four more minutes. The custard thickens again. Becomes glossy. Almost coats the whisk when you pull it out. That's done. That's the signal.
+
+Remove from heat the second it looks like that. Toss in the butter pieces. Whisk until they disappear. Stir in the almond extract and salt.
+
+Strain it through a fine-mesh sieve into a clean bowl. Sounds like extra work. It changes everything. Catches any cooked egg bits or lumps. The texture becomes velvety instead of just smooth. Worth two minutes of effort.
+
+Plastic wrap pressed directly onto the surface. No air gaps. Stops a skin from forming on top, which is annoying and looks wrong. Push it down so it touches the custard everywhere.
+
+Chill for at least two hours. The custard firms up. Flavors settle. That's when it becomes the thing you actually want to eat.
+
+## Making Flan: Tips and What Goes Wrong
+
+Cornstarch, not flour. This matters more than people think. Flour gives you graininess. Cornstarch gives you smooth. Different things entirely.
+
+Half-and-half makes a difference. Milk gets you there but it's thinner, less rich. Whole milk works if that's what's in the fridge. Coconut milk if you're going dairy-free, but it tastes like coconut and the texture shifts. Not bad. Different.
+
+Lumps happen sometimes. Usually from not whisking the sugar and cornstarch enough before heat. If they form anyway, whisk hard off heat or push through the sieve again. Both work.
+
+Timing tight during the egg tempering stage. Have your bowl and utensils ready before you start. It moves fast once you pour.
+
+Don't rush the initial cooking. Low bubbles beat a timer. Visual thickness beats the clock. The whisk coat test beats everything. You dip the whisk, look at whether it leaves trails on the back—that's done.
+
+Almond extract pairs better with stone fruits or berries than vanilla does. Subtler. But if vanilla's what you have, use vanilla. The custard still works. Still good.
+
+Keep the plastic wrap touching the surface the whole time it chills. That skin thing is real and it matters to texture.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Making Flan
+
+**Can I make this custard ahead of time?**
+Yeah. Make it in the morning, eat it that night. Or make it the day before. Keeps three, maybe four days in the fridge. The texture stays creamy. Flavors might even get better. Don't skip the plastic wrap though—that skin will form if you do.
+
+**What if I don't have almond extract?**
+Use vanilla. Half a teaspoon, same amount. Works fine. The flavor's slightly different—more vanilla than subtle almond—but it's still good. Haven't tried anything else. Probably don't bother.
+
+**Can I use milk instead of half-and-half?**
+Yeah. It thins out the custard a bit though. Less rich. Less creamy. Still edible. Still tastes like cream custard, just a lighter version. Whole milk is better than skim if you have the choice.
+
+**What's the difference between this and leche flan or creme caramel?**
+Those have a caramel shell. This is just the custard. This is simpler. Faster to make. Leche flan takes longer because of that caramel layer. Creme caramel too. This is the base of any of them if you wanted to add caramel on top later. But standing alone it's enough.
+
+**Why do I need the cornstarch?**
+Thickens the custard without needing extra eggs. Makes it smooth. Flour does the same job but grainier. Cornstarch is the move. Don't skip it and don't substitute.
+
+**How do I know when the custard is done cooking?**
+Watch for visual thickness around seven to nine minutes. Bubbles at the edges, the whole surface looks different from when you started. Then after tempering the eggs and cooking three to four more minutes, it should almost coat the whisk. That's it. Remove from heat.
+
+**What if I scrambled the eggs?**
+Then you strained it through a sieve and most of the chunks came out. That's why you strain. If it's really bad, just strain it again. Texture won't be perfect but it's still edible.
+
+**Can I serve this warm or does it have to be cold?**
+Cold is better. Flavors blend more when it sits. Texture sets firm. You could eat it warm but it's thin and loose and tastes like egg custard instead of the finished thing. Chill it.
