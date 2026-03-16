@@ -1,10 +1,10 @@
 ---
-title: "White Bean Shrimp Salad"
+title: "Cannellini Bean Salad with Grilled Shrimp"
 slug: "white-bean-shrimp-salad"
-description: "Chilly white beans tossed with warm grilled shrimp. Pancetta swaps for crispy smoked bacon. Cherry tomatoes join fresh thyme and parsley instead of basil and chives. Red wine vinegar stays but garlic swapped for shallots. A hint of smoked paprika replaces the sweet paprika. Quick grill. Crispy bacon crunch. Layers of textures and smoky undertones. Served immediately, best fresh."
-metaDescription: "Delight in a White Bean Shrimp Salad with warm shrimp, crunchy bacon, fresh herbs, and zesty flavor in every bite. A unique summer dish."
-ogDescription: "White Bean Shrimp Salad featuring smoky shrimp, crispy bacon, vibrant veggies. A quick, filling dish perfect for warm weather meals."
-focusKeyphrase: "White Bean Shrimp Salad"
+description: "Cannellini bean salad featuring grilled shrimp, crispy bacon, cherry tomatoes, fresh thyme and parsley with red wine vinegar. Smoky, fresh, ready to serve."
+metaDescription: "Cannellini bean salad with grilled shrimp, smoked bacon, cherry tomatoes, and fresh herbs. Light, protein-packed Mediterranean flavors. Make it tonight."
+ogDescription: "Grilled shrimp tossed with cannellini beans, bacon, cherry tomatoes, and fresh herbs in a red wine vinegar dressing."
+focusKeyphrase: "cannellini bean salad"
 date: 2025-07-24
 draft: false
 image: white-bean-shrimp-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "bacon"
 - "easy dinner"
 keywords:
-- "lighter meal"
-- "smoky flavors"
-- "summer salad"
+- "cannellini bean salad"
+- "white bean salad"
+- "grilled shrimp salad"
+- "mediterranean bean salad"
+- "tomato and white bean salad"
+- "tuscan white bean salad"
+- "italian white bean salad"
+- "bean salad recipe"
+- "grilled shrimp salad recipe"
+- "cannellini bean tomato salad"
+- "marinated white bean"
+- "mediterranean white bean salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -66,3 +75,82 @@ faq:
 - "q: Any other proteins work well a: Chicken, fish are options. But cook differently. Adjust cooking time based on size. Firm is preferred."
 
 ---
+
+Bacon hits the oven first. Shrimp goes in after. Everything else happens in one bowl while you're waiting for things to brown. 32 minutes total.
+
+## Why You'll Love This Shrimp and White Bean Salad
+
+Tastes like you tried. Didn't actually.
+Grilled shrimp stays tender all the way through — not rubbery, not mushy. Just works.
+Cold the next day, somehow better. The beans soak up the vinegar overnight and get this kind of flavor that wasn't there before.
+One bowl. Bacon goes in the oven so you're not standing there watching it. Everything else mixes while that's happening.
+Easy dinner. Real easy. Nineteen minutes of actual work, tops.
+Bacon. There's bacon. That's it.
+
+## What You Need for a Mediterranean Bean Salad
+
+Smoked bacon — six strips, cut into pieces. The kind that's still a little chewy in the middle.
+Medium shrimp. 500 grams. Tails off, already peeled. Frozen works fine, thaw it first.
+Two cans of white beans. Cannellini, chickpeas — doesn't matter much. Rinse them. Get the starchy stuff off.
+Cherry tomatoes. Halved. 500 ml. Red ones if you can. Yellow gets lost.
+Fresh thyme and parsley. Not dried. 30 ml each. Dried tastes like old paper.
+Red wine vinegar. 45 ml. Not white vinegar. Too sharp. Not balsamic. Too heavy.
+One small shallot, minced. Or half a regular onion if shallots aren't there.
+Smoked paprika. 5 ml. Regular paprika is basically food coloring. Smoked paprika has something going on.
+Olive oil. 45 ml total. Use the stuff you actually like drinking. Cheap oil tastes cheap.
+Cayenne pepper. Just a pinch. Salt and black pepper to taste.
+
+## How to Make Grilled Shrimp Salad
+
+Oven to 190°C. Center rack. That's 375°F if you're in the States. Line a baking sheet with parchment — bacon doesn't stick that way and cleanup is nothing.
+
+Spread the bacon out. Not piled. Single layer. Into the oven for 15 minutes. You'll know when it's done because it stops sizzling and smells like actual food instead of raw pork.
+
+While that's going, pat the shrimp dry. Really dry. Get a paper towel, press it. Wet shrimp doesn't sear right. Toss them with the smoked paprika, 30 ml of olive oil, salt, pepper. That's it. Don't overseasion — you're adding vinegar later.
+
+Heat a grill pan or skillet on medium-high. Should be hot enough that the shrimp hits it and immediately protests. 2 to 3 minutes per side. You'll see the color change from gray to opaque. Pull it off then. One second longer and it gets this rubbery thing happening that's hard to fix.
+
+## Getting the Beans Tender and the Flavors to Actually Stick
+
+The bowl is where it comes together. Large bowl — bigger than you think you need. Beans go in first. Then tomatoes, thyme, parsley, the vinegar, shallot, cayenne, and the remaining 15 ml of oil. Stir it. Doesn't take long. Tastes weird at this point. Don't worry.
+
+Hot shrimp goes in next. Broken-up bacon after that. Stir gently — shrimp breaks if you go too hard. Taste it. Salt more probably. Black pepper definitely.
+
+Serve it warm or cold. Hot shrimp on warm beans is one thing. Cold the next day is another thing. Better thing. The vinegar soaks in overnight and the whole salad tastes less like separate ingredients and more like something that sat in your fridge thinking about itself.
+
+## Tuna and White Bean Salad Tips and Mistakes
+
+The bacon can't be rubbery. If it's still chewy, it's not done. Roasting it separate from everything else means you can actually control that — don't skip the oven step.
+
+Shrimp cooks fast. Stupid fast. You'll undercook it if you're not watching. Three minutes per side. It goes from translucent to opaque, that's the line. Anything past that and texture goes bad.
+
+The vinegar amount sounds like a lot. It's not. White bean salad without enough acid is just warm beans. The vinegar is what makes it taste like something.
+
+Don't add the shrimp hours before serving. It's fine warm. It's fine cold later. But if you let it sit in the dressing hot for like two hours before eating, the texture gets a little soft. Not ruined, just softer than you want. Add the warm shrimp right before serving if you're eating it the same day.
+
+If you hate shallots, use red onion. If you hate red onion too, just add more salt and skip the allium thing entirely.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About White Bean Salad with Shrimp
+
+**Can you make this with canned tuna instead?**
+Yeah. Swap the shrimp for a can of tuna, drained. Add it at the end instead of warm. It won't be quite the same but it works. Tuna and white bean salad is basically this but cold from the start.
+
+**How long does it keep?**
+Three days in the fridge. The beans keep getting better. The shrimp gets a little softer but still eats fine.
+
+**Can you use frozen shrimp?**
+Already answered that. They work. Thaw them completely and pat them dry. Wet shrimp doesn't sear.
+
+**What if the beans are mushy?**
+You're overcooking them or you got a bad can. Rinse them better. Try a different brand. Some cans come out basically mush. Not worth it.
+
+**Can you grill the shrimp on an actual grill instead of a pan?**
+Yeah. Same timing. 2 to 3 minutes per side. It'll taste slightly better because of the char. That's it.
+
+**Is this a mediterranean bean salad or something else?**
+It's a grilled shrimp salad with white beans. Mediterranean because of the thyme, the vinegar, the beans. Doesn't matter what you call it.
+
+**Can you double it?**
+Sure. Bacon takes the same time. Shrimp takes the same time. Everything else just scales. Make it.
