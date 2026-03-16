@@ -1,10 +1,10 @@
 ---
-title: "Simplified Black Forest Cake"
+title: "Simplified Black Forest Cake with Griottes"
 slug: "simplified-black-forest-cake"
-description: "A deconstructed Black Forest variant with streamlined steps, swapping kirsch for rum and adding espresso notes for depth. Reduced sugar and replaced some wheat flour with almond flour for moisture and texture contrast. Cooling and resting times adjusted slightly, focusing on sensory cues over clocks. Emphasis on flexible assembly, vibrancy of griottes balanced by bittersweet chocolate, and a stabilized vanilla chantilly that won’t weep. Makes a rich, moist cake with layers that hold well but remain tender. Suitable for those avoiding nuts originally but now with mild almond flavor. Technique tips for even baking, avoiding grainy cream, and quick fixes for softer-than-expected batter."
-metaDescription: "Simplified Black Forest Cake swapping kirsch for rum, almond flour for moisture, espresso in cherry layer, stabilized chantilly, rich bittersweet chocolate, deep flavor layers."
-ogDescription: "Black Forest with rum & espresso punch, almond flour moisture, gelatin-stabilized chantilly, cherry griottes thickened. Layers hold but stay tender, rustic rich notes."
-focusKeyphrase: "Simplified Black Forest Cake"
+description: "Black forest cake made with almond flour, bittersweet chocolate, and griottes in dark rum syrup. Topped with stabilized vanilla chantilly cream for a moist, tender layer cake."
+metaDescription: "Black forest cake recipe with griottes, almond flour, and dark rum. Featuring espresso-infused chocolate layers and stabilized vanilla chantilly cream. Make it tonight."
+ogDescription: "Deconstructed black forest cake with griottes, dark rum, and espresso notes. Almond flour adds moisture; vanilla chantilly stays perfect."
+focusKeyphrase: "black forest cake"
 date: 2025-08-13
 draft: false
 image: simplified-black-forest-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "espresso"
 - "almond"
 keywords:
-- "Black Forest cake"
-- "almond flour cake"
-- "chantilly cream"
+- "black forest cake"
+- "chocolate cake"
+- "griottes cherry cake"
+- "almond flour chocolate cake"
+- "espresso chocolate dessert"
+- "dark rum cherry cake"
+- "chantilly cream cake"
+- "bittersweet chocolate layer cake"
+- "vanilla chantilly recipe"
+- "homemade black forest dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "420"
@@ -103,3 +110,89 @@ faq:
 - "q: How long and how to store leftovers? a: Keep in fridge under dome or cover for up to 3 days. If cream weeps on storage, stir gently and blot excess moisture. Let sit 20-30 mins at room temp before serving to wake flavors. Avoid freezing, cream texture suffers."
 
 ---
+
+Fifty minutes of actual work, then fifty more in the oven. Black forest cake sounds complicated — chocolate, cherries, espresso, chantilly cream stacked in layers. It's not. Just methodical. Each part separate. Then stack.
+
+## Why You'll Love This Chocolate Cake
+
+The espresso in the chocolate goes dark and bitter instead of sweet like you'd expect.
+Actual almond flour in the cake, not just flavor. Changes the crumb entirely — softer, holds moisture longer.
+Chantilly cream that stays firm because it's gelatin-stabilized. Won't weep in three hours.
+Makes a real dessert, not a project. Takes 1 hour 40 minutes total if you've got your mise in order.
+Cherries. Rum. Dark chocolate on top. Tastes expensive. Tastes like you know what you're doing.
+
+## What You Need for Espresso Almond Black Forest Cake
+
+The cake uses unbleached all-purpose flour mixed with almond flour — half a cup of each. All-purpose alone gets dense. The almond adds richness without heaviness. Cocoa powder, unsifted, does nothing. Sift it. Air in the powder matters.
+
+Two eggs, room temperature. Cold eggs don't emulsify right with oil. One-third cup neutral oil — vegetable works. Four ounces dark chocolate, chopped small. Hot coffee pulls the cocoa flavor forward and keeps the cake tender. Use strong coffee or espresso with hot water. The syrup that soaks the layers is just cocoa powder, water, sugar, and dark rum. Optional rum. Not really optional.
+
+For the cherry layer, buy griottes in a jar. Canned sour cherries. Saves time. Cornstarch thickens the syrup. Dark rum again. Espresso again. Yes, really. It layers the flavor, doesn't make it taste like coffee.
+
+Chantilly cream needs heavy cream — 35% fat minimum. Powdered gelatin keeps it from weeping. One vanilla bean split and scraped, or vanilla extract if you want to move faster. Gelatin blooms in cold water first. That's not optional either.
+
+## How to Make Espresso Almond Black Forest Cake
+
+Start with chantilly because it needs to chill. Sprinkle gelatin over cold water. Six milliliters powder. Thirty-five milliliters water. Let it sit seven minutes. It'll look spongy and weird. That's right.
+
+Warm cream with sugar and vanilla over medium heat. Don't boil it. Just warm enough the sugar dissolves and you see little bubbles around the edges. Take it off heat. Pour in the bloomed gelatin. Stir until it melts smooth and shiny. Pour into a shallow dish. Press plastic wrap directly on the surface so no skin forms. Cool at room temperature fifteen minutes. Then straight into the fridge for at least three hours. Overnight is better. This cream won't whip up if it's warm.
+
+For griottes, combine sugar and cornstarch in a saucepan. Whisk in the cherry syrup from the jar slowly — no lumps. Heat it gently, stirring, until it thickens and turns glossy. Small bubbles around the edges. Not a rolling boil. Off heat, stir in fifteen milliliters dark rum and espresso. Two teaspoons espresso. Let it cool all the way. Then fold in the cherries gently. Plastic wrap on the surface. Refrigerate at least two hours.
+
+The cake batter comes together fast. Preheat to 175 degrees Celsius — 350 Fahrenheit. Eight-inch springform pan, parchment on the base, oil the sides.
+
+Whisk dry ingredients together first: all-purpose flour, almond flour, baking powder, baking soda, salt. Sift cocoa powder in. This is where air gets into the cake. Don't skip it.
+
+Beat eggs, sugar, and oil until merged. Not fluffy — just mixed. Whisk hot coffee with cocoa powder in a separate bowl until the powder dissolves completely. Pour that into the eggs. Stir gently. Fold the dry ingredients in batches. Stop folding when you can't see streaks anymore. Overmixing makes it tough. Fold in the chopped chocolate last.
+
+Batter should be thick but pourable. Scrape it into the pan. Tap the pan gently on the counter a few times to release big air pockets.
+
+## How to Get Black Forest Cake Moist and Stable
+
+Bake forty-eight to fifty-two minutes. Test with a toothpick in the center. It should come out with moist crumbs. Not wet batter. The top should spring back when you press it lightly. If it's wet in the middle, it needs another three minutes.
+
+Cool on a wire rack about two and a half hours. Don't cover it. Condensation makes the top soggy and the crumb gummy.
+
+While it's cooling, make the cocoa syrup. Simmer water, sugar, and cocoa powder on medium heat until the sugar dissolves. Off heat, add rum if you want it. Let it cool to lukewarm. You'll brush this all over the cake. Don't be shy. The cake should be visibly wet.
+
+Remove the cake from the pan once it's cooled. Trim the dome off the top if it's domed — you want a level surface. Brush the cocoa syrup all over the top and sides. Moist crumb absorbs better. Let it sit a few minutes.
+
+Whip the chilled chantilly cream with an electric mixer to medium-firm peaks. Stiff but not grainy. If you overwhip, it turns buttery and separates. Watch it closely. Overwhipping happens faster than you think.
+
+## Espresso Almond Black Forest Cake Tips and Assembly
+
+Spread two-thirds of the chantilly over the cake top. Leave a shallow well in the center. Spoon the grioties and their thickened syrup into that well. A few reserved cherries scattered on top looks rustic and intentional.
+
+Cover with the remaining chantilly. Grate dark chocolate over everything with a microplane. Fine flakes. Looks good. Tastes better.
+
+Refrigerate uncovered for at least two hours. The flavors marry. The cream sets. If you're serving it the next day, cover it loosely with plastic wrap to prevent the cream from drying out.
+
+This cake keeps in the fridge for three days under a dome. If the cream starts to weep — liquid pooling around it — fold it gently and pat it dry with a paper towel before serving. Cold but not ice-cold. Flavor dulls when it's frozen.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Cake
+
+**Can you make this without the gelatin in the chantilly?**
+Not if you want it to hold. Without gelatin it weeps in two hours. The cream flattens. Gelatin stabilizes it for days.
+
+**What if you don't have dark rum?**
+Kirsch is traditional. Brandy works. Honestly, leaving it out changes nothing. The espresso and cherries carry it.
+
+**How do you know when the cocoa syrup is soaked in enough?**
+The cake looks wet. Visibly damp. Not dripping. If you're unsure, you didn't use enough. Dry cake = wasted effort.
+
+**Can you substitute the almond flour?**
+Not really. It changes the crumb texture. You could use all-purpose instead but it gets dense and tight. Not the same cake.
+
+**Should the chantilly be stiff peaks or medium peaks?**
+Medium-firm. Stiff peaks get grainy fast. Medium peaks hold shape but stay creamy.
+
+**How far in advance can you make this espresso almond black forest cake?**
+Day before is perfect. Night of assembly is fine too. After three days the cream starts breaking down. The flavor's still good but it looks deflated.
+
+**What if the espresso flavor is too strong?**
+Use less in the syrup. One teaspoon instead of two. But the cake itself needs the espresso — it balances the chocolate. Don't skip it there.
+
+**Can you freeze this chocolate cake?**
+Wrap it tight before the chantilly weeps. Thaws in the fridge overnight. The cream texture changes though. Less stable after freezing.
