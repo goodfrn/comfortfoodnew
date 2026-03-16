@@ -1,10 +1,10 @@
 ---
-title: "Ratte Potato Salad Twist"
+title: "Fingerling Potato Salad with Lemon & Fresh Herbs"
 slug: "ratte-potato-salad-twist"
-description: "A zesty salad featuring fingerling potatoes with a tangy vinaigrette, fresh herbs, and a salty crunch from crushed chips. Slightly tweaked quantities with lemon juice replacing cider vinegar and rosemary swapped for dill. Includes sweet touch of honey instead of maple syrup. Cooling red onion soak cuts sharpness. Emphasis on texture contrasts and timing guided by feel rather than precise minutes. A versatile vegan option, gluten free and dairy free, with detailed troubleshooting and substitutions for common kitchen scenarios."
-metaDescription: "Ratte Potato Salad Twist with fingerling potatoes, lemon-honey vinaigrette, fresh herbs, and crushed kettle chips for sharp crunch and rustic complexity."
-ogDescription: "Crunchy kettle chips on warm fingerling potatoes in a lemon-honey vinaigrette, layered with fresh herbs and red onion softened by ice water soak."
-focusKeyphrase: "Ratte potato salad"
+description: "Fingerling potato salad with lemon juice, fresh rosemary, parsley, and crushed chips for texture. Tangy Dijon mustard vinaigrette, honey sweetness, and chives create a vibrant summer side dish."
+metaDescription: "Make fingerling potato salad with lemon juice, fresh herbs, and crispy crushed chips. Easy, vegan, and gluten-free. Try it tonight."
+ogDescription: "Zesty fingerling potato salad with lemon vinaigrette, fresh rosemary and parsley, crushed chips, and Dijon mustard."
+focusKeyphrase: "fingerling potato salad"
 date: 2025-08-07
 draft: false
 image: ratte-potato-salad-twist.jpg
@@ -21,9 +21,18 @@ tags:
 - "vegetarian"
 - "easy"
 keywords:
-- "potato salad"
-- "vinaigrette salad"
-- "crushed chips"
+- "fingerling potato salad"
+- "potato salad with fresh herbs"
+- "fingerling potatoes with lemon vinaigrette"
+- "easy potato salad"
+- "summer potato salad"
+- "vegetarian potato salad"
+- "potato salad recipe"
+- "lemon herb potato salad"
+- "vegan potato salad"
+- "dijon mustard potato salad"
+- "gluten free potato salad"
+- "crushed chips potato salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "230"
@@ -68,3 +77,59 @@ faq:
 - "q: How do I store leftovers? a: Cooling then fridge best; flavors deepen cold next day but chip crunch lost. Keep chips separately to scatter fresh on top when serving again. Dressing may thicken, stir gently. Room temp short hours fine but not more; herbs wilt, texture flattens fast."
 
 ---
+
+Dump the potatoes whole into cold water—salt it first, a lot. They're going to absorb it as they boil. This twist uses fingerling potatoes because they hold their shape instead of turning into mush, and the lemon vinaigrette soaks in while they're still warm instead of sliding off. Warm potatoes drink the dressing. Cold ones just sit there.
+
+## Why You'll Love This Easy Potato Salad
+
+Takes 20 minutes prep, 30 minutes cooking. Fifty minutes total if you're moving, maybe less if you work fast. Perfect for summer when you don't want to heat up the kitchen for hours. Tastes better the next day, actually — flavors sit overnight and get deeper. No fancy equipment. One pot, one bowl, done. Works cold straight from the fridge or at room temperature. Vegetarian, so it goes with literally anything. The crushed chips on top — that crunch stays for maybe ten minutes before it softens, so add them right before people eat it. Cleanup's fast. One spoon. One bowl.
+
+## What You Need for Fingerling Potato Salad with Fresh Herbs
+
+Seven hundred grams of fingerling potatoes. Rinse them, don't peel them. The skin's part of the whole thing. One small red onion, sliced thin. Not thick. Thin enough you can almost see through it. Fifty milliliters of olive oil — not extra virgin, not the fancy stuff. Regular works fine. Twenty-five milliliters of fresh lemon juice. Has to be fresh. Bottled tastes like nothing. Fifteen milliliters of Dijon mustard. Seven milliliters of honey. Ten grams of chives, cut into two-centimeter pieces. Ten grams of parsley. Ten grams of rosemary needles — not the dried kind from the jar. Fresh rosemary. It's sharper, more like a punch. Fifty grams of lightly crushed kettle-cooked salt and vinegar chips. The salty kind. The vinegary kind. That matters. Salt and pepper.
+
+## How to Make Summer Potato Salad
+
+Cold water first. Cover the potatoes by like two fingers' worth. Dump salt in — you're not being careful here, you're being generous. Medium-high heat. Wait for bubbles. Not a rolling boil where it's going crazy. Just bubbles. Lid ajar. Twenty-five to thirty minutes. Poke one with a knife. If it goes through easy but doesn't fall apart, stop. Drain them. Spread them on a tray and let the steam come off for fifteen minutes. They'll cool just enough to handle but still warm enough to soak up the dressing. This is the part that matters.
+
+While the potatoes are going, slice the red onion. Put it in ice water. Seven to ten minutes. This sounds weird but it matters — onions go from sharp and aggressive to just onion. Not optional. Drain it. Pat it dry. Wet onion waters down the whole thing.
+
+Make the vinaigrette in a big bowl. Olive oil, lemon juice, mustard, honey. Whisk it hard. Keep going until it looks creamy and the oil's not sitting on top anymore. Salt and pepper now. This is when you season it, not later. Now. Taste it. If it's sharp, it should be. If it's flat, add more salt. You can fix it in a second but the foundation has to be right.
+
+## How to Get Potato Salad with Rosemary Actually Crispy and Tender
+
+Cut the warm potatoes in half. Not when they're hot. Wait until you can actually touch them. Hot potatoes fall apart. Warm ones stay together. Drop them into the vinaigrette with the onions. Use a wooden spoon and be gentle. You're not mixing soup. You're coating potatoes. The warm potatoes absorb the dressing like a sponge. This is why you don't use cold potatoes from the fridge — they just reject it.
+
+Now add the herbs. Chives, parsley, rosemary. Last thing. Add them last so they don't get beaten to death. The rosemary's piney and strong, not delicate. It needs to stay sharp. Taste it again. Is it salty enough? Add more. Is the lemon too bright? Add a pinch more honey. Is it flat? More salt. The salad sits for ten minutes now if you have time. Flavors marry. Textures settle. Everything gets better.
+
+Wait until you're actually serving it to add the chips. Right before. Crushed up just enough so they don't disappear. Soggy chips ruin this. Completely. They turn into paste and take the crunch with them.
+
+## Easy Potato Salad Tips and Mistakes to Skip
+
+Overcook the potatoes once and it's done. They turn mushy. Test them. Actually push the knife in instead of guessing. Fingerlings cook fast — usually hits that tender-but-firm spot right around twenty-eight minutes. Don't skip the onion soak. Sounds silly. Changes everything. Raw red onion is aggressive. Soaked red onion is just onion.
+
+Don't mix the chips in early. I know it feels right. It's not. They dissolve. Add them on top two minutes before eating. If you're making this ahead, don't add them until the last second — seriously, the last second. Lemon juice needs fresh, real juice. Bottled tastes metallic. Doesn't work.
+
+You could swap the rosemary for tarragon if you want something lighter, but rosemary's what makes this version different from every other vegetarian potato salad. The honey's optional technically but it balances the lemon. Without it, it gets sour. Not terrible. Just sour. White wine vinegar works if you don't have lemon but use less. Vinegar's sharper. Go easy. Prep while the potatoes boil. It saves time. No frantic assembling at the end. Warm potatoes absorb dressing faster than cold ones. That's physics, not opinion. The vinaigrette emulsifies better if you whisk it properly. Don't half-ass it. Spend thirty seconds actually whisking.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fingerling Potato Salad with Lemon Vinaigrette
+
+**Can I use regular potatoes instead of fingerlings?**
+Yukon Golds work. They're softer though. You have to be more careful or they turn into mush. Russets are too starchy. They absorb the dressing and turn thick. Fingerlings are built for this. Smaller, waxy, stays firm. Stick with fingerlings if you can.
+
+**How long does this keep?**
+Three days, easy. Maybe four. The dressing soaks in deeper each day, which is good. The chips obviously don't last past the first day — add fresh ones the next time you eat it.
+
+**Can I make it the night before?**
+Yeah. Just don't add the chips until you're eating it. Everything else is better cold overnight.
+
+**What if I don't have fresh rosemary?**
+Don't use the dried stuff. It's harsh and doesn't taste like rosemary, tastes like sadness. Use tarragon instead. Or fresh dill. Or just parsley and chives. It'll be different but it'll work.
+
+**Can I use bottled lemon juice?**
+Not really. It gets a weird metallic taste mixed with the mustard and honey. Fresh is five minutes of effort. Worth it.
+
+**Do I have to soak the onion?**
+Yes. Raw red onion is overwhelming. It dominates everything. Soaking for ten minutes kills the harsh bite and leaves you with actual onion flavor. Non-negotiable.
