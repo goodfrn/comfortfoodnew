@@ -1,10 +1,10 @@
 ---
-title: "Shrimp Pasta Salad Remix"
+title: "Pasta Salad With Shrimp and Lemon"
 slug: "shrimp-pasta-salad-remix"
-description: "Cook pasta just shy of done; shock with cold water to stop. Dice onions, celery, and red pepper, toss rough. Whisk dressing with oil, lemon, sweetener, garlic, Dijon, salt, pepper. Mix pasta and veggies first. Stir in shrimp raw or pre-cooked, your call. Coat all in dressing, chill for 20-35 minutes. Flavors meld. Serve cold or room temp. Substitute shrimp with grilled chicken or chickpeas; swap lemon juice with lime or vinegar. Less sugar or honey if preferred. Watch pasta for bite, avoid mush. Dressing thickens if cold garlic lingers too long. Perfect for leftovers or quick weeknight fix, a salty sweet tang in every bite."
-metaDescription: "Shrimp Pasta Salad Remix with fusilli, crisp veggies, and tangy lemon dressing. Chill to meld flavors, warm shrimp optional, swaps with chicken or chickpeas work well."
-ogDescription: "Chill a pasta salad with diced veggies, zesty dressing, and shrimp or chicken. Mix gently, shock pasta cold to stop cooking. Ready in under 30 minutes."
-focusKeyphrase: "shrimp pasta salad"
+description: "Shrimp pasta salad made with fusilli, fresh vegetables, and a zesty lemon dressing. Toss pasta, onion, celery, and bell pepper with cooked shrimp for a cold dish that's perfect for meal prep."
+metaDescription: "Make shrimp pasta salad with fusilli, bell pepper, celery, and a fresh lemon dressing. Chill and serve cold. Try it tonight."
+ogDescription: "Fresh shrimp pasta salad with fusilli, lemon dressing, and crisp vegetables. Cold, refreshing, and ready in 30 minutes."
+focusKeyphrase: "pasta salad with shrimp"
 date: 2026-01-11
 draft: false
 image: shrimp-pasta-salad-remix.jpg
@@ -21,9 +21,14 @@ tags:
 - "summer"
 - "lemon"
 keywords:
-- "pasta salad"
-- "shrimp salad"
-- "cold pasta recipe"
+- "pasta salad with shrimp"
+- "lemon shrimp pasta salad"
+- "cold pasta salad with shrimp and vegetables"
+- "shrimp pasta salad with bell pepper and celery"
+- "summer seafood pasta salad"
+- "fusilli pasta salad with lemon dressing"
+- "make ahead shrimp pasta salad"
+- "lemon vinaigrette shrimp pasta salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "280"
@@ -67,3 +72,91 @@ faq:
 - "q: How to store leftovers? a: Keep covered, fridge only. Consume within a day or two. Avoid soaking pasta too long; keeps bite. Re-toss gently if dressing separates after storage."
 
 ---
+
+Twelve ounces of pasta, still slightly undercooked. That's the whole thing. Pull it out too early, shock it in cold water—the starch rinses off instead of turning everything into a clump when the dressing hits.
+
+## Why You'll Love This Pasta Salad With Shrimp
+
+Takes 26 minutes total. That's the whole meal.
+Cold, fresh, tastes better the next day—which means you can make it now and forget about dinner tomorrow.
+The lemon cuts through everything without being sharp. Shrimp stays tender if you don't overthink it.
+Summer on a plate. Actually works in winter too. Not that it matters.
+Leftover-friendly. Flavors deepen sitting in the fridge, though the pasta softens a bit—not worth soaking longer than a day.
+
+## What You Need for Shrimp Pasta Salad With Vegetables
+
+Fusilli or rotini. Not spaghetti. The shape holds dressing better and doesn't go all stuck together. Twelve ounces.
+
+One medium onion, diced. Red or yellow. Doesn't matter much. Two celery stalks—the fresher the better, they stay crunchier. One red bell pepper because it's sweet and holds color. Yellow works too. Kind of.
+
+Twelve ounces cooked shrimp. Already peeled and deveined. Or grilled chicken breast, cubed, if shrimp isn't your thing—tastes different but works.
+
+Olive oil. Three tablespoons. Not extra virgin if you can help it. Burns easier, tastes peppery here.
+
+Fresh-squeezed lemon juice. Three tablespoons. Lime juice works. So does apple cider vinegar, though it reads different. Not white vinegar—too sharp.
+
+One teaspoon honey or light brown sugar. Balances the acid. Doesn't make it sweet, just rounds it.
+
+Two small garlic cloves, minced. Maybe one and a half if you don't love garlic. Maybe three if you do. It's forgiving that way.
+
+One teaspoon Dijon mustard. Adds body to the dressing. Regular yellow mustard doesn't cut it here. Salt and pepper. Taste as you go.
+
+## How to Make Cold Pasta Salad With Shrimp and Vegetables
+
+Boil a pot of salted water. Get it actually boiling—rolling boil, not just steam. Dump the pasta in and stir it immediately so nothing sticks. Stir a few times the first two minutes. Then you can kind of leave it.
+
+Watch for the moment it's almost done. Almost. Not fully done. You want tiny resistance when you bite it. That resistance disappears the second it hits cold water and sits with the dressing. Pull it out maybe a minute early—14 minutes total, usually. Time varies depending on the pasta shape.
+
+Strain it. Then the important part: run it under cold water until it stops steaming and looks dull instead of shiny. This stops the cooking and rinses off the starch that'd glue everything together. Don't skip this.
+
+While that's happening, throw your diced onion, celery, and red pepper into a big bowl. Rustic chunks are fine. Nobody cares if they're perfect. Give it a quick toss.
+
+Small bowl now. Whisk together the olive oil, lemon juice, honey, minced garlic, Dijon mustard, salt, and pepper. Whisk it hard. The garlic should smell sharp—not terrible, just sharp. If it smells too intense, let it sit three or four minutes. The rawness mellows.
+
+## How to Get Pasta Salad With Bell Pepper and Celery Perfectly Chilled
+
+Add the cold pasta to the vegetables. Fold it in gently, coating everything evenly with nothing. No dressing yet. Combine the pasta and vegetables first so you don't overthrow the shrimp later trying to mix everything.
+
+Now the shrimp or chicken. Stir it in. If you want the shrimp warm, add it right off heat and toss quickly—one or two minutes, just enough to warm through. Don't keep stirring or it gets tough. If it's already cold shrimp, just mix it in.
+
+Pour the dressing over everything. Toss carefully. The pasta should glisten. The vegetables should still snap. The shrimp should be plump, not broken apart. Overmixing kills the whole thing.
+
+Cover the bowl and refrigerate for at least 20 minutes. Ideally 30 or 35. The flavors actually marry together during that time. If you're rushed, 15 minutes works but the taste is flatter. Patience wins here.
+
+Serve it cold or slightly chilled. Just out of the fridge works great.
+
+## Lemon Vinaigrette Shrimp Pasta Salad Tips and Common Mistakes
+
+Don't fully cook the pasta. Ever. It'll turn to mush. Undercooked, then cold water. That's the move.
+
+Rinse the pasta. Don't skip it. Starch is the enemy.
+
+The shrimp goes in last for a reason. It's delicate. Shrimp breaks if you fold it in and then keep tossing while you're fixing something else.
+
+If it tastes flat, it's not the shrimp—it's the lemon. Add another squeeze. Taste it. Then salt. Salt brings everything forward.
+
+Make-ahead works great. The flavors taste better after sitting. The texture softens after two days, so try to eat it within 24 hours if texture matters to you. It still tastes good softened. Just different.
+
+Cold pasta salad with shrimp tastes better than warm. The freshness sticks around when it's chilled. Tried it warm once. Not the same.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Summer Seafood Pasta Salad
+
+**Can I make this ahead?**
+Yeah. Make it the night before. Flavors taste better actually. The pasta softens a tiny bit, but nothing dramatic. Eat it within a day though—after that it gets kind of mushy and the vegetables lose crunch.
+
+**What if I don't have fresh shrimp?**
+Frozen works. Thaw it first. Make sure it's fully thawed or it'll cool everything down. Grilled chicken breast is the swap if shrimp isn't happening. Or just no protein—still tasty as a vegetable pasta salad with lemon dressing.
+
+**How do I keep the pasta from getting mushy?**
+Don't fully cook it. Pull it out early. Rinse it in cold water until it stops steaming. That rinse matters. Starch causes the mushiness later, not the salad dressing.
+
+**Can I use lime juice instead of lemon?**
+Sure. Changes the flavor profile—tastes slightly more tropical. Apple cider vinegar works too. White vinegar doesn't. Too harsh.
+
+**Should the shrimp be warm or cold?**
+Cold works fine. You can add it warm right off heat and toss it quickly to warm through. Just don't let it sit on heat or it toughens up. Cold shrimp works honestly better for make-ahead versions.
+
+**How long does this keep?**
+A full day easily. After 24 hours the pasta softens and the vegetables lose their snap. Still edible, just textured different. Flavors taste better on day two though.
