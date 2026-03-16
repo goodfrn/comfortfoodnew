@@ -1,10 +1,10 @@
 ---
-title: "Marinated Bavette Steak"
+title: "Marinated Bavette Steak with Cilantro Sauce"
 slug: "marinated-bavette-steak"
-description: "Bavette steak soaked in a blend of vegetable oil, soy sauce, water, minced garlic, honey, kosher salt, and black pepper then grilled to your liking. Served sliced thin against the grain, topped with a herbaceous sauce combining parsley, cilantro, roasted red pepper, scallions, olive oil, and red wine vinegar, spiced with red pepper flakes. A method honed for maximum flavor penetration and texture contrast. Cooked over medium-high heat for a quick sear that locks in juices. The sauce adds brightness and heat, balanced by the savory marinade and tender meat. Adaptable in ingredients, timing, and tools for real kitchens."
-metaDescription: "Marinated Bavette Steak grilled medium-high with herb sauce. Juicy slices, herbal punch, quick sear. Maple syrup, garlic, chili heat layered in simple marinade."
-ogDescription: "Juicy Bavette grilled to sear, sliced thin against grain. Herbaceous sauce with parsley, cilantro, red pepper flakes brings bright heat and fresh bold notes."
-focusKeyphrase: "Marinated Bavette Steak"
+description: "Marinated bavette steak soaked in soy sauce, garlic, and maple syrup, then grilled and topped with a fresh cilantro and parsley sauce. Tender, flavorful, and ready in minutes."
+metaDescription: "Marinated bavette steak recipe with soy sauce and garlic marinade, finished with bright cilantro-parsley herb topping. Try it tonight."
+ogDescription: "Bavette steak marinated in soy sauce and garlic, grilled to perfection, topped with fresh cilantro and herb sauce."
+focusKeyphrase: "marinated bavette steak"
 date: 2026-01-13
 draft: false
 image: marinated-bavette-steak.jpg
@@ -21,11 +21,16 @@ tags:
 - "main dish"
 - "american"
 keywords:
-- "bavette steak"
-- "steak marinade"
-- "herb sauce"
-- "grilled beef"
-- "maple syrup marinade"
+- "marinated bavette steak"
+- "grilled bavette steak"
+- "bavette steak recipe"
+- "soy sauce marinated steak"
+- "grilled steak"
+- "easy steak dinner"
+- "bavette steak with garlic marinade"
+- "soy maple glazed bavette steak"
+- "grilled steak with herb topping"
+- "marinated bavette steak with cilantro"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -76,3 +81,63 @@ faq:
 - "q: How to store leftover bavette steak? a: Wrap tight in foil or airtight container. Fridge only a day or two max. Reheat gentle low heat or brief microwave pulses. Avoid high heat which toughens meat fibers fast. Freeze for longer if needed, thaw slow."
 
 ---
+
+Three cloves of garlic. Half a cup of oil. That's where it starts. Bavette steak gets marinated for hours, then hits the grill for 12 minutes and comes out sliced thin with this bright herb sauce on top. Tried it once with flank. Not the same. Bavette's got more marbling.
+
+## Why You'll Love This Grilled Steak
+
+Twelve minutes total cook time and you've got dinner. Meat stays tender because the soy sauce marinade breaks down the fibers — longer soak, softer bite. The herb topping isn't optional. It's what makes it actually good. Works cold the next day if there's any left. Grilling's the obvious move but a cast iron skillet works just fine, even in winter. One platter. One sauce. Done.
+
+## What You Need for Marinated Bavette Steak
+
+The marinade has four things going: vegetable oil to carry flavor, soy sauce for salt and depth, maple syrup for sweetness, and garlic for everything else. You could swap the syrup for honey. Brown sugar works too. Water's just there to stretch the soy — it's strong by itself.
+
+Bavette steak. 1.2 pounds of it. Butcher might call it sirloin flap or flap steak. It's lean, which is why the marinade matters. Kosher salt. Coarser than table salt. Pepper goes in twice — in the marinade and in the herb sauce.
+
+For the sauce: parsley and cilantro are the base. Not both the same amount — more parsley. Red wine vinegar gives it tang. Roasted red pepper adds sweetness and color. Scallions. Garlic. Red pepper flakes for heat. Olive oil holds it all together. Extra virgin. Not the cheap kind.
+
+## How to Make Grilled Bavette Steak
+
+Mix the oil, soy sauce, water, three minced garlic cloves, maple syrup, salt, and pepper in a shallow dish or zip-lock bag. Just stir it until the maple dissolves. Doesn't take long. Lay the bavette in there. Coat it. Get the marinade into every crevice. Chill it. Three hours works. Twenty hours is better. Don't go over a day or the meat gets mushy and weird — the salt and soy actually start breaking down the proteins too much.
+
+Pull the steak out 45 minutes before you cook. Room temperature meat cooks more evenly. Way more. This matters.
+
+## How to Get Grilled Bavette Steak Crispy and Perfect
+
+Heat your grill or cast iron skillet to medium-high. You want subtle wisps of smoke coming off the surface. Not thick smoke. Just — there. Dump the marinade into a bowl. Don't put the steak on wet. Pat it dry if it looks dripping.
+
+Sear it. Three to four minutes per side. Listen for that hearty sizzle the second it hits. That's the crust forming. Don't flip it three times. Flip it once. One per side. Let it sit. The edges crisp while the center stays rosy — that's medium rare. If you like it more done, add a minute. If you like it rarer, go shorter.
+
+Pull it off the heat. Rest it for six, seven minutes. Loosely tent it with foil. That's when the carryover heat works — the meat keeps cooking just enough. The juices redistribute instead of running all over the plate. Slice it thin. Across the grain. Sharp knife. You'll feel the difference.
+
+## Grilled Steak Tips and Common Mistakes
+
+The herb sauce — chimichurri style but not traditional — needs to sit. Cover it. Let it go for at least ten minutes. The flavors marry. Parsley and cilantro both oxidize if you make it too early. Make it right before you want to eat, or make it an hour ahead and let it actually sit. Nothing in between.
+
+Garlic in the marinade is minced. Garlic in the sauce is also minced. They're different — the marinated garlic mellows. The raw garlic in the sauce stays sharp. Both needed.
+
+Don't skip the rest. Every minute counts. The meat's still cooking from inside heat. Rushing it means juice everywhere and a drier bite.
+
+Bavette's a thin cut. It cooks fast. Longer isn't better. In and out. 12 minutes total, usually less. You're not trying to develop a thick crust like with a ribeye. You're trying to keep the inside barely warm and the outside seared. That's it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Marinated Bavette Steak
+
+**How long should I marinate the steak?**
+Three hours minimum. Twenty hours is better. The soy sauce and salt start breaking down the proteins, so it gets more tender the longer it sits. But don't go past a day — after that the meat gets mushy and the texture falls apart.
+
+**Can I use a different cut of steak?**
+Flank works. Skirt too. Anything thin and lean. Ribeye doesn't need this much help. It's got enough fat already. Bavette's lean, which is why the marinade actually matters here.
+
+**What if I don't have maple syrup?**
+Honey. Brown sugar. Even regular sugar works. You just need something sweet to balance the salt and soy. The maple adds a specific thing but it's not critical.
+
+**Should I cook it indoors or on the grill?**
+Grill's ideal. Cast iron skillet works fine though. Either way you need heat high enough to sear. That's what matters. The crust, not the method.
+
+**Can I make the herb sauce ahead?**
+Yeah. Make it an hour ahead and let it actually sit. Or make it right before. Don't do it 20 minutes early — the herbs start to brown and it tastes off. Parsley and cilantro oxidize fast.
+
+**How do I know when it's done?**
+Three to four minutes per side. Medium rare. You could use a thermometer — 130 internal — but honestly just cut into one and look. The color tells you everything. Rosy in the middle. That's right.
