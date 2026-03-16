@@ -1,10 +1,10 @@
 ---
-title: "Spiced Pumpkin Chex Mix"
+title: "Spices in Pumpkin Pie Snack Mix Recipe"
 slug: "spiced-pumpkin-chex-mix"
-description: "A crunchy blend with Cheerios, toasted nuts, and mini marshmallows, all cloaked in a honey-maple butter drizzle. Cinnamon plus pumpkin pie spice lends seasonal warmth. Baked until marshmallows just brown. Sweet, salty, and nutty with texture. Twist includes pepitas swapped for pecans. Adjust bake time watching marshmallows bubble and brown like tiny clouds. Honey syrup holds it all together without sogginess. Serves 14. Nutrients include moderate calories from fat and sugar balanced by fiber and protein in nuts and cereal."
-metaDescription: "Crunchy spiced pumpkin Chex mix tossed with marshmallows, honey-maple-butter glaze, and warm fall spices. Toasted golden edges, snacks with sweet salt nutty crunch."
-ogDescription: "Crunchy fall snack packed with Cheerios, nuts, marshmallows toasted golden. Honey-maple butter glaze coats spice dusted Chex mix for snack-size chew and crisp."
-focusKeyphrase: "spiced pumpkin Chex mix"
+description: "Spices in pumpkin pie season this crunchy snack mix with Cheerios, Chex, pretzels, almonds, pepitas, and mini marshmallows. Honey-maple butter drizzle adds sweetness."
+metaDescription: "Spices in pumpkin pie flavor this easy snack mix with Cheerios, Chex, pretzels, almonds, pepitas, and marshmallows. Make it tonight."
+ogDescription: "Crunchy fall snack mix with Cheerios, Chex, pretzels, almonds, pepitas, marshmallows, and pumpkin pie spices. Honey-maple drizzle."
+focusKeyphrase: "spices in pumpkin pie"
 date: 2025-12-11
 draft: false
 image: spiced-pumpkin-chex-mix.jpg
@@ -21,9 +21,18 @@ tags:
 - "snack"
 - "easy"
 keywords:
-- "Chex mix recipe"
-- "pumpkin spice snack"
-- "marshmallow snack mix"
+- "spices in pumpkin pie"
+- "pumpkin spice snack mix"
+- "fall snack mix"
+- "pumpkin pie spice blend"
+- "homemade cereal bars"
+- "chex mix fall recipe"
+- "autumn snack mix recipe"
+- "honey roasted almonds"
+- "pumpkin spice mix recipe"
+- "make your own pumpkin pie spice"
+- "marshmallow snack recipe"
+- "pumpkin spice seasoning"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "518"
@@ -71,3 +80,71 @@ faq:
 - "q: Can I change glaze ingredients? a: Butter, honey, and maple syrup balance flavors and stickiness. Substitute melted coconut oil for butter but glaze thinner, less binding. Swap maple for agave or golden syrup for similar. Avoid thick syrups that soak cereal. Test small batch before full mix."
 
 ---
+
+Dump Cheerios, Chex, broken pretzels into a bowl. Add almonds, pepitas, marshmallows, white chocolate chips. Toss with cinnamon and pumpkin pie spice blend until everything's coated. Then comes the honey glaze — melted butter mixed with honey and maple syrup — drizzled over the top. Twelve minutes in a 340°F oven and you've got a snack that tastes exactly like fall. No pumpkin pie spice recipe needed. Just the spice mix itself, already mixed in.
+
+## Why You'll Love This Pumpkin Spice Mix Snack
+
+Takes 32 minutes total — 20 to prep, 12 in the oven. Done before you even need an afternoon snack.
+Marshmallows go soft and puffy. White chocolate melts into the gaps. The almonds and honey create this sweet, crunchy base that actually holds together.
+One bowl. One pan. Cool it on the sheet and store it. Cleanup basically doesn't happen.
+Tastes like pumpkin pie spice seasoning but it's a snack you can eat with your hands. Not a dessert you have to sit down for.
+Works for parties. Works for after school. Works sitting alone at your kitchen counter at 10 p.m. on a Tuesday.
+
+## What You Need for This Pumpkin Spice Pie Mix
+
+Two cups Cheerios. Four cups Chex mix — original or multigrain, doesn't matter much. One cup pretzels broken into rod-sized pieces. Half a cup slivered almonds. Half a cup pepitas — that's the swap instead of pecans, earthier and less soft when toasted.
+
+One cup mini marshmallows. One cup white chocolate chips. These are the sweet binding part. The spices in pumpkin pie come from a teaspoon of ground cinnamon and a tablespoon of pumpkin pie spice blend — use the blended version, easier. Honey and maple syrup go together, a quarter cup each. Four tablespoons butter melted. That's it.
+
+If you don't have pepitas, pecans work. Watch the toasting time though — nuts vary in oil and some burn faster. Walnuts do the same thing.
+
+## How to Make Pumpkin Spice Blend Snack Mix
+
+Start by preheating to 340 degrees. Not 350. Lower heat keeps marshmallows from turning into char before the rest of the mix toasts through. Line a sheet pan with parchment or silicone — both prevent sticking equally fine.
+
+Dump everything dry into a huge mixing bowl. Cheerios, Chex, broken pretzels, almonds, pepitas, marshmallows, white chocolate chips. Toss them around. Sprinkle the cinnamon over top. Then the pumpkin pie spice mixture. Keep tossing until the dust coats everything evenly. You want no white spots, no bare pieces. It takes a minute of actual tossing.
+
+Small bowl. Whisk honey, maple syrup, and melted butter together. Should be runny. Not thick like caramel. Not syrupy like you're making sauce. Just loose enough to drizzle.
+
+## How to Get This Pumpkin Spice Seasoning Mix Toasted Right
+
+Spread everything on the sheet in one flat layer. Don't stack. Don't crowd it. Every piece touches air.
+
+Drizzle the honey mixture over the top. Use a spatula to gently move things around, coating loosely. Don't mash the marshmallows down. Just spread the glaze around so it reaches everything.
+
+Bake for 12 minutes. Maybe 14. Listen for soft crackling sounds. Watch the marshmallows puff up and turn golden at the edges. That's when you pull it out. They should still be chewy inside, crispy at the edges. Not melted flat. Not brown all over.
+
+Cool on the sheet for at least five minutes before moving it to a bowl. Hot marshmallows stick. Cooled ones release. The white chocolate sets up a bit. The whole thing gets crunchier as it cools down.
+
+## Pumpkin Pie Spice Mix Tips and What Goes Wrong
+
+The honey glaze temperature matters. Make it at room temperature. Too hot and it drips through the pieces without coating. Too cold and it won't spread right. It tightens as it cools, so catch it in that middle zone when you pour.
+
+Overbaking kills the chew. Marshmallows go hard and taste like sugar. Four minutes too long and the whole thing's basically candy. Timing is flexible — go by what you see, not a clock. Golden at edges. Still soft in the middle of the marshmallow.
+
+The pumpkin spice blend you use matters because some brands go heavy on clove, others on nutmeg. If yours tastes weird, that's why. Just use less next time or swap brands. A tablespoon is a starting point, not a law.
+
+Pepitas can burn if you're not watching. They're thinner than pecans. Easier to scorch. If they looked cooked at minute 10, pull the pan out at minute 11. Same goes for almonds.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pumpkin Spice Mix
+
+**Can I make this pumpkin pie spice recipe ahead of time?**
+Cool it completely, then store in an airtight container. Lasts about four days before the marshmallows get chewy in a bad way. The almonds and honey keep forever basically, but the marshmallows are the limiting thing.
+
+**What if I don't have white chocolate chips?**
+Butterscotch chips work. So does more honey drizzled on top instead. Haven't tried dark chocolate. Probably would be weird with the pumpkin spice seasoning ingredients. Just use white or swap it out entirely.
+
+**Can I use regular marshmallows instead of mini?**
+Yeah but cut them in half. They toast unevenly at full size. Mini ones are better because they get through the heat faster without burning.
+
+**How do I know when the marshmallows are done?**
+They puff. They turn golden at the edges. The top gets slightly crispy but the inside stays soft. If you're unsure, pull it out a minute early. Easier to throw back in than to salvage burnt marshmallows.
+
+**Should I use salted or unsalted butter?**
+Unsalted. The pumpkin pie spice mix already has salt in the seasoning blend, usually. Salted butter makes it oversalty. Not worth it.
+
+**Can I use a different pumpkin spice blend?**
+Some brands are heavier on clove than others. Tastes fine. Just adjust how much you use. Start with less, taste, add more.
