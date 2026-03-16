@@ -1,10 +1,10 @@
 ---
-title: "Spicy Tuna Salad Remix"
+title: "Tuna Salad Recipe with Dijon Mustard"
 slug: "spicy-tuna-salad-remix"
-description: "A tangy, creamy tuna salad with a surprising kick from Dijon mustard replacing wasabi, balanced acidity from agave and lemon, and an added crunch from diced cucumber. The dressing melds mayo with sharp Italian dressing to create a luscious coat. Tuna lumps+mayo, but never gloppy. Toss everything gently, not mashed into oblivion. Chill to let flavors blanket the fish. Keeps well for four days but best fresh. Serve in butter lettuce cups or hearty multigrain bread. A practical weekday staple with a zesty twist."
-metaDescription: "Spicy Tuna Salad Remix with creamy mayo, sharp Dijon, crisp cucumber crunch, and zesty lemon-agave tang. Luscious dressing coats chunky tuna for bold, fresh bites."
-ogDescription: "Creamy tuna lumps meet tangy Dijon and crunchy cucumber with lemon, agave, and Italian dressing blend. Chill, toss gently, serve crisp or hearty carbs."
-focusKeyphrase: "Spicy tuna salad"
+description: "Creamy tuna salad with mayo, Dijon mustard, lemon juice, and fresh cucumber. Light, zesty, and perfect for sandwiches or salad bowls."
+metaDescription: "Tuna salad recipe made with mayo, Dijon mustard, lemon juice, and cucumber. Fresh, tangy, and ready in minutes. Try it tonight."
+ogDescription: "Creamy tuna salad with mayo, cucumber, and Dijon mustard. Fresh, zesty, and easy to make."
+focusKeyphrase: "tuna salad recipe"
 date: 2025-10-11
 draft: false
 image: spicy-tuna-salad-remix.jpg
@@ -21,9 +21,18 @@ tags:
 - "lemon"
 - "easy dinner"
 keywords:
+- "tuna salad recipe"
+- "tuna fish salad recipe"
 - "tuna salad"
-- "Dijon mustard"
-- "creamy dressing"
+- "tuna fish recipe"
+- "tuna salad sandwich recipe"
+- "tuna sandwich recipe"
+- "best tuna salad recipe"
+- "creamy tuna salad"
+- "homemade tuna salad"
+- "tuna salad with mayo"
+- "easy tuna salad"
+- "fresh tuna salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -69,3 +78,72 @@ faq:
 - "q: How long keep salad? a: Up to four days fridge covered tightly. After that, quality drops fast, texture softens, flavors fade. If chilled longer, taste test for sour notes before serving. Chill doesn’t mean indefinite freshness; better fresh but can prep ahead for convenience."
 
 ---
+
+Twelve minutes to something you'll actually want to eat. Mayo, lemon, tuna straight from the can—that's the base. Everything else just makes it sing.
+
+## Why You'll Love This Tuna Salad Recipe
+
+Takes 12 minutes flat. No cooking, no stress, just a bowl and a fork.
+Works for lunch, dinner, or somewhere in between. Throw it on bread, eat it on greens, whatever.
+The spicy kick from Dijon and apple cider vinegar—it cuts through the mayo so it doesn't feel heavy.
+Fresh lemon keeps it bright instead of just mayo-heavy. One tablespoon. That's enough.
+Cucumbers add actual crunch and cool everything down. Watery, crisp contrast against the thick creamy base.
+
+## What You Need for Tuna Salad
+
+Half cup mayo. Not low-fat. Regular mayo. The thick kind that holds everything together.
+Dijon mustard—a teaspoon. Sharp, tangy, keeps the whole thing from tasting one-note.
+Fresh lemon juice. A tablespoon. Not bottled. Squeeze it yourself. Tastes brighter.
+Apple cider vinegar instead of white. Less aggressive. One tablespoon does the work.
+Agave syrup balances the acid. Just a teaspoon. Don't skip it.
+Two tablespoons Italian dressing because it adds herbs and tang you don't have to measure separately.
+Twelve ounces canned chunk light tuna, drained. Not solid white. Chunk light. It breaks apart easier and mixes better.
+Celery. A quarter cup diced. Adds crunch. Adds nothing else—just texture.
+Red onion. A quarter cup. Sharper than yellow. Prettier too.
+Cucumber. A quarter cup diced. Cold, watery, essential. Counterbalance to the mayo weight.
+Fresh parsley. Two tablespoons chopped. For color mainly. For a tiny bit of herb thing happening.
+Salt and pepper. Taste and adjust. Most of the sodium comes from the tuna already.
+
+## How to Make Tuna Salad
+
+Whisk the mayo, Dijon, lemon juice, apple cider vinegar, agave, and Italian dressing in a bowl first. Don't add the tuna yet. Watch for that creamy, glossy texture where everything's combined and there's no streaks of anything separate. Takes maybe a minute of whisking. No clumps. The dressing should look like one thing.
+
+Dump the tuna into a big bowl—different bowl—and break it up with a fork. Gently though. You want some chunks left. Lumpy tuna salad is better than mushed tuna salad. Texture matters more than you'd think.
+
+Add the celery, red onion, cucumber, and parsley all at once. Stir it around so you can see all the colors. The parsley gives visual pop. The cucumber gives actual crunch. Don't skip the cucumber—it adds fresh snap and that watery chill, balancing out how thick and mayo-heavy everything else is.
+
+Pour the dressing over everything. But start with less dressing than you think you need. You can always add more, but once it's mixed in you can't take it back. Fold gently at first. Toss to coat. Watch for that creamy coating on every bite, but it should still look chunky. Not pâté. Not soup. Somewhere in between.
+
+Taste it now. Add salt, crack some pepper. Maybe a sprinkle more mayo if it feels too thin, or a splash of lemon if it went too thick. It should taste bright and salty and a little sharp from the mustard.
+
+## Tuna Salad Sandwich and Storage Tips
+
+Serve it on butter lettuce as little cups. Or between bread slices. If you go bread route, toast it lightly first—adds texture and stops the bread from going soggy the second the mayo touches it. Matters more than you'd think.
+
+If you're not eating it right away, cover it and stick it in the fridge. Flavors round out after sitting for twenty minutes. Just watch for condensation pooling at the bottom. If too much liquid collects, drain it before serving or it gets watery.
+
+Keeps four days max. After that it starts tasting like old tuna. If it gets watery the next day—and it might—fold in a small spoonful of fresh mayo. Or add some crunch with fresh celery on top. Wakes it back up. The original celery gets soft sitting in the dressing overnight. Fresh celery fixes that.
+
+You can also do this over a bed of salad instead of on bread. Works cold. Works at room temperature too, though cold is better. Serve it with crackers. Put it in lettuce wraps. Spread it on toast points for something fancy. It's flexible like that.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tuna Fish Salad Recipe
+
+**Can I use solid white tuna instead of chunk light?**
+Yeah. But it's firmer, less watery, and it doesn't break apart as easy. Changes the texture. Chunk light is better here.
+
+**How much longer does tuna salad keep if I make it ahead?**
+Four days in the fridge, tops. The dressing breaks down after that. Tuna goes funky. Not a food safety thing—it just stops tasting good.
+
+**Do I have to use lemon juice or can I use vinegar instead?**
+Tried it. Vinegar's there already in the apple cider. More vinegar makes it sharp. Lemon keeps it balanced. Different thing.
+
+**Can I make this without mayonnaise?**
+Could use Greek yogurt. Not the same. Less creamy. Tangier. Works though. Probably fine either way.
+
+**What if I don't like spicy—can I skip the Dijon mustard?**
+Don't skip it. It's not spicy. It's tangy. It keeps the mayo from tasting flat. One teaspoon isn't hot. It just adds something.
+
+**Can I add hard-boiled eggs or other things to make it a more substantial tuna pasta salad?**
+Yeah. Eggs work. So do potatoes if you want to make it more of a tuna and salad situation instead of just tuna salad. Pasta works too if you're doing a tuna pasta salad. Cook the pasta first, let it cool, then toss everything together with less mayo since pasta soaks it up.
