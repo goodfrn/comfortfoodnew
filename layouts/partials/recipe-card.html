@@ -1,444 +1,146 @@
-{{/* layouts/shortcodes/recipe-card.html */}}
-{{ $recipe_page := .Page.Site.Data.config.recipe_page }}
-{{ $p := .Page }}
-{{ $img := $p.Params.image }}
-
-<div class="rc-wrap" id="recipe-card">
-
-  <style>
-    .rc-wrap {
-      font-family: 'Georgia', 'Times New Roman', serif;
-      max-width: 680px;
-      margin: 2rem auto;
-      border-radius: 14px;
-      overflow: hidden;
-      box-shadow: 0 4px 20px rgba(0,0,0,0.10);
-      background: #fffdf9;
-      border: 1px solid #e8e0d0;
-    }
-
-    /* ── HERO ── */
-    .rc-hero {
-      position: relative;
-      width: 100%;
-      height: 200px;
-      overflow: hidden;
-      background: #2b2016;
-    }
-    .rc-hero img {
-      width: 100%;
-      height: 100%;
-      object-fit: cover;
-      opacity: 0.85;
-      transition: opacity 0.4s;
-    }
-    .rc-hero-overlay {
-      position: absolute;
-      inset: 0;
-      background: linear-gradient(to bottom, rgba(0,0,0,0.08) 0%, rgba(0,0,0,0.55) 100%);
-    }
-    .rc-hero-content {
-      position: absolute;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      padding: 1rem 1.25rem 0.9rem;
-    }
-    .rc-title {
-      font-size: 1.2rem;
-      font-weight: 700;
-      color: #fff;
-      line-height: 1.25;
-      margin: 0 0 0.3rem;
-      letter-spacing: -0.01em;
-    }
-    .rc-author {
-      font-size: 0.72rem;
-      color: rgba(255,255,255,0.75);
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-    }
-    .rc-author span {
-      color: rgba(255,255,255,0.95);
-      font-weight: 600;
-    }
-
-    /* ── ACTIONS TOP ── */
-    .rc-actions {
-      display: flex;
-      gap: 0.5rem;
-      padding: 0.6rem 1.25rem;
-      background: #fff;
-      border-bottom: 1px solid #ede8df;
-      justify-content: flex-end;
-    }
-    .rc-btn {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.35rem;
-      padding: 0.35rem 0.85rem;
-      border-radius: 100px;
-      font-size: 0.72rem;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      font-weight: 600;
-      letter-spacing: 0.04em;
-      cursor: pointer;
-      transition: all 0.2s;
-      text-decoration: none;
-      border: none;
-    }
-    .rc-btn-print {
-      background: #f5f0e8;
-      color: #5a4a2f;
-      border: 1.5px solid #d9cdb8;
-    }
-    .rc-btn-print:hover { background: #ede4d0; }
-    .rc-btn-pin {
-      background: #e60023;
-      color: #fff;
-    }
-    .rc-btn-pin:hover { background: #c0001d; }
-    .rc-btn svg { width: 12px; height: 12px; flex-shrink: 0; }
-
-    /* ── STATS ── */
-    .rc-stats {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      background: #faf6ef;
-      border-bottom: 1px solid #ede8df;
-    }
-    .rc-stat {
-      padding: 0.6rem 0.4rem;
-      text-align: center;
-      border-right: 1px solid #ede8df;
-    }
-    .rc-stat:last-child { border-right: none; }
-    .rc-stat-label {
-      font-size: 0.6rem;
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
-      color: #9a8e7a;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      margin-bottom: 0.2rem;
-    }
-    .rc-stat-value {
-      font-size: 0.88rem;
-      font-weight: 700;
-      color: #2b2016;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-    }
-
-    /* ── BODY ── */
-    .rc-body {
-      padding: 1.25rem 1.25rem 1rem;
-      display: grid;
-      grid-template-columns: 1fr 1fr;
-      gap: 1.25rem;
-    }
-    @media (max-width: 560px) {
-      .rc-body { grid-template-columns: 1fr; gap: 1rem; }
-      .rc-stats { grid-template-columns: repeat(2, 1fr); }
-      .rc-stat:nth-child(2) { border-right: none; }
-      .rc-stat:nth-child(3) { border-right: 1px solid #ede8df; }
-      .rc-hero { height: 160px; }
-      .rc-title { font-size: 1rem; }
-      .rc-actions { padding: 0.5rem 1rem; }
-      .rc-body { padding: 1rem; }
-    }
-
-    .rc-section-title {
-      font-size: 0.62rem;
-      text-transform: uppercase;
-      letter-spacing: 0.12em;
-      color: #9a8e7a;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      font-weight: 700;
-      margin-bottom: 0.65rem;
-      padding-bottom: 0.4rem;
-      border-bottom: 2px solid #2b2016;
-      display: flex;
-      align-items: center;
-      gap: 0.4rem;
-    }
-    .rc-section-title svg { width: 11px; height: 11px; opacity: 0.5; }
-
-    /* ── INGREDIENTS ── */
-    .rc-ingredients ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-      gap: 0.35rem;
-    }
-    .rc-ingredients li {
-      font-size: 0.82rem;
-      color: #3a2e1e;
-      line-height: 1.4;
-      display: flex;
-      align-items: flex-start;
-      gap: 0.5rem;
-    }
-    .rc-ingredients li.section-header {
-      font-weight: 700;
-      font-size: 0.72rem;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: #7a6a4a;
-      margin-top: 0.5rem;
-      display: block;
-    }
-    .rc-dot {
-      width: 4px;
-      height: 4px;
-      border-radius: 50%;
-      background: #c8a96e;
-      flex-shrink: 0;
-      margin-top: 0.5em;
-    }
-
-    /* ── INSTRUCTIONS ── */
-    .rc-instructions ol {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-      display: flex;
-      flex-direction: column;
-      gap: 0.7rem;
-    }
-    .rc-instructions li {
-      display: flex;
-      gap: 0.65rem;
-      align-items: flex-start;
-    }
-    .rc-instructions li.section-header {
-      font-weight: 700;
-      font-size: 0.72rem;
-      text-transform: uppercase;
-      letter-spacing: 0.06em;
-      color: #7a6a4a;
-      display: block;
-      margin-top: 0.4rem;
-    }
-    .rc-step-num {
-      flex-shrink: 0;
-      width: 22px;
-      height: 22px;
-      border-radius: 50%;
-      background: #2b2016;
-      color: #fff;
-      font-size: 0.65rem;
-      font-weight: 700;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    .rc-step-text {
-      font-size: 0.82rem;
-      color: #3a2e1e;
-      line-height: 1.5;
-      padding-top: 0.15rem;
-    }
-
-    /* ── NUTRITION ── */
-    .rc-nutrition {
-      grid-column: span 2;
-      border-top: 1px solid #ede8df;
-      padding-top: 1rem;
-    }
-    @media (max-width: 560px) { .rc-nutrition { grid-column: span 1; } }
-    .rc-nutrition-grid {
-      display: grid;
-      grid-template-columns: repeat(4, 1fr);
-      gap: 0.5rem;
-      margin-top: 0.6rem;
-    }
-    @media (max-width: 560px) { .rc-nutrition-grid { grid-template-columns: repeat(2, 1fr); } }
-    .rc-nutr-item {
-      background: #faf6ef;
-      border: 1px solid #ede8df;
-      border-radius: 8px;
-      padding: 0.5rem 0.4rem;
-      text-align: center;
-    }
-    .rc-nutr-label {
-      font-size: 0.58rem;
-      text-transform: uppercase;
-      letter-spacing: 0.08em;
-      color: #9a8e7a;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-      margin-bottom: 0.2rem;
-    }
-    .rc-nutr-value {
-      font-size: 0.9rem;
-      font-weight: 700;
-      color: #2b2016;
-      font-family: 'Helvetica Neue', Arial, sans-serif;
-    }
-
-    /* ── ACTIONS BOTTOM ── */
-    .rc-actions-bottom {
-      display: flex;
-      gap: 0.5rem;
-      padding: 0.75rem 1.25rem 1rem;
-      justify-content: center;
-      background: #fffdf9;
-      border-top: 1px solid #ede8df;
-    }
-
-    @media print {
-      .rc-actions, .rc-actions-bottom { display: none; }
-    }
-  </style>
-
-  <!-- HERO IMAGE -->
-  <div class="rc-hero">
-    {{ if $img }}
-      <img src="/images/{{ $img }}" alt="{{ $p.Title }}" loading="lazy">
-    {{ else }}
-      <div style="width:100%;height:100%;background:linear-gradient(135deg,#2b2016,#5a4a2f);"></div>
+{{ $recipe := . }}
+<a href="{{ $recipe.RelPermalink }}" class="group block bg-white overflow-hidden hover:shadow-xl transition-shadow duration-300 rounded-lg">
+  
+  <!-- Image -->
+  <div class="relative overflow-hidden aspect-[4/3]">
+    {{ with $recipe.Params.image }}
+      {{ partial "recipe-image.html" (dict "image" . "title" $recipe.Title) }}
     {{ end }}
-    <div class="rc-hero-overlay"></div>
-    <div class="rc-hero-content">
-      <h2 class="rc-title">{{ $p.Title }}</h2>
-      {{ with $p.Params.author }}
-        <p class="rc-author">By <span>{{ . }}</span></p>
+    {{ with index $recipe.Params.categories 0 }}
+      <div class="absolute top-4 left-4 px-3 py-1.5 bg-white/90 rounded-full shadow-sm">
+        <span class="text-xs font-semibold tracking-wide uppercase" style="color: var(--primary);">{{ . }}</span>
+      </div>
+    {{ end }}
+  </div>
+  
+  <!-- Contenu -->
+  <div class="p-6 space-y-4">
+    
+    <h3 class="font-serif text-xl leading-tight font-medium" style="color: var(--color-text); font-family: 'Times New Roman', serif;">
+      {{ $recipe.Title }}
+    </h3>
+    
+    <p class="text-sm text-gray-500 mt-1">by {{ $recipe.Params.author | default "Chef" }}</p>
+    
+    <!-- Métriques -->
+    <div class="flex items-center justify-between pt-2 border-t border-gray-100">
+
+      {{ $rawTime := or $recipe.Params.totalTime $recipe.Params.cookTime $recipe.Params.prepTime }}
+      {{ $displayTime := "" }}
+
+      {{ if $rawTime }}
+        {{ $days := 0 }}
+        {{ $hours := 0 }}
+        {{ $minutes := 0 }}
+
+        {{ $iso := strings.TrimPrefix "P" $rawTime }}
+
+        {{ if strings.Contains $iso "D" }}
+          {{ $dParts := split $iso "D" }}
+          {{ $dStr := index $dParts 0 }}
+          {{ $dStr = replaceRE "^0+" "" $dStr }}
+          {{ if eq $dStr "" }}
+            {{ $dStr = "0" }}
+          {{ end }}
+          {{ $days = int $dStr }}
+
+          {{ if gt (len $dParts) 1 }}
+            {{ $iso = index $dParts 1 }}
+          {{ else }}
+            {{ $iso = "" }}
+          {{ end }}
+        {{ end }}
+
+        {{ $iso = strings.TrimPrefix "T" $iso }}
+
+        {{ if strings.Contains $iso "H" }}
+          {{ $hParts := split $iso "H" }}
+          {{ $hStr := index $hParts 0 }}
+          {{ $hStr = replaceRE "^0+" "" $hStr }}
+          {{ if eq $hStr "" }}
+            {{ $hStr = "0" }}
+          {{ end }}
+          {{ $hours = int $hStr }}
+
+          {{ if gt (len $hParts) 1 }}
+            {{ $rest := index $hParts 1 }}
+            {{ if and $rest (strings.Contains $rest "M") }}
+              {{ $mStr := strings.TrimSuffix "M" $rest }}
+              {{ $mStr = replaceRE "^0+" "" $mStr }}
+              {{ if eq $mStr "" }}
+                {{ $mStr = "0" }}
+              {{ end }}
+              {{ $minutes = int $mStr }}
+            {{ end }}
+          {{ end }}
+
+        {{ else if strings.Contains $iso "M" }}
+          {{ $mStr := strings.TrimSuffix "M" $iso }}
+          {{ $mStr = replaceRE "^0+" "" $mStr }}
+          {{ if eq $mStr "" }}
+            {{ $mStr = "0" }}
+          {{ end }}
+          {{ $minutes = int $mStr }}
+        {{ end }}
+
+        {{ $totalMinutes := add (mul $days 1440) (add (mul $hours 60) $minutes) }}
+        {{ $finalHours := div $totalMinutes 60 }}
+        {{ $finalMinutes := mod $totalMinutes 60 }}
+
+        {{ if and (gt $finalHours 0) (gt $finalMinutes 0) }}
+          {{ $displayTime = printf "%dh%02d" $finalHours $finalMinutes }}
+        {{ else if gt $finalHours 0 }}
+          {{ $displayTime = printf "%dh" $finalHours }}
+        {{ else if gt $finalMinutes 0 }}
+          {{ $displayTime = printf "%d min" $finalMinutes }}
+        {{ end }}
+      {{ end }}
+
+      {{ with $displayTime }}
+        <div class="flex items-center space-x-1.5">
+          <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
+            <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+          </div>
+          <span class="text-sm font-medium text-gray-700">⏱ {{ . }}</span>
+        </div>
+      {{ end }}
+      
+      {{ with $recipe.Params.recipeYield }}
+        <div class="flex items-center space-x-1.5">
+          <div class="w-4 h-4 rounded-full bg-gray-100 flex items-center justify-center">
+            <div class="w-1.5 h-1.5 rounded-full bg-gray-500"></div>
+          </div>
+          <span class="text-sm font-medium text-gray-700">{{ . }}</span>
+        </div>
+      {{ end }}
+      
+      {{ with $recipe.Params.nutrition.calories }}
+        <div class="flex items-center space-x-1.5">
+          <div class="w-4 h-4 rounded-full bg-orange-100 flex items-center justify-center">
+            <div class="w-1.5 h-1.5 rounded-full bg-orange-500"></div>
+          </div>
+          <span class="text-sm font-medium text-gray-700">{{ . }} cal</span>
+        </div>
       {{ end }}
     </div>
-  </div>
-
-  <!-- ACTIONS TOP -->
-  <div class="rc-actions">
-    <button class="rc-btn rc-btn-print" onclick="window.print()">
-      <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/></svg>
-      Print
-    </button>
-    <a class="rc-btn rc-btn-pin" href="https://pinterest.com/pin/create/button/?url={{ $p.Permalink }}&media={{ $p.Site.BaseURL }}images/{{ $img }}&description={{ $p.Title }}" target="_blank" rel="noopener">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
-      Pin
-    </a>
-  </div>
-
-  <!-- STATS -->
-  <div class="rc-stats">
-    {{ with $p.Params.prepTime }}
-      <div class="rc-stat">
-        <div class="rc-stat-label">{{ $recipe_page.summary_labels.prep }}</div>
-        <div class="rc-stat-value">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</div>
-      </div>
-    {{ end }}
-    {{ with $p.Params.cookTime }}
-      <div class="rc-stat">
-        <div class="rc-stat-label">{{ $recipe_page.summary_labels.cook }}</div>
-        <div class="rc-stat-value">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</div>
-      </div>
-    {{ end }}
-    {{ with $p.Params.totalTime }}
-      <div class="rc-stat">
-        <div class="rc-stat-label">{{ $recipe_page.summary_labels.total }}</div>
-        <div class="rc-stat-value">{{ . | replaceRE "\\s+" "" | replaceRE "0S$" "" | replaceRE "^PT([0-9]+)H([0-9]+)M$" "${1}h ${2}min" | replaceRE "^PT0H([0-9]+)M$" "${1} min" | replaceRE "^PT([0-9]+)H0M$" "${1}h" | replaceRE "^PT([0-9]+)H$" "${1}h" | replaceRE "^PT0M$" "0 min" | replaceRE "^PT([0-9]+)M$" "${1} min" }}</div>
-      </div>
-    {{ end }}
-    {{ with $p.Params.recipeYield }}
-      <div class="rc-stat">
-        <div class="rc-stat-label">{{ $recipe_page.summary_labels.servings }}</div>
-        <div class="rc-stat-value">{{ . }}</div>
-      </div>
-    {{ end }}
-  </div>
-
-  <!-- BODY -->
-  <div class="rc-body">
-
-    <!-- INGREDIENTS -->
-    <div class="rc-ingredients">
-      <div class="rc-section-title">
-        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2"/></svg>
-        {{ $recipe_page.sections.ingredients }}
-      </div>
-      <ul>
-        {{ range $p.Params.ingredients }}
-          {{ if strings.Contains . "===" }}
-            <li class="section-header">{{ . | replaceRE "===(.+)===" "$1" }}</li>
-          {{ else }}
-            <li><span class="rc-dot"></span>{{ . }}</li>
-          {{ end }}
+    
+    <!-- Tags -->
+    {{ if $recipe.Params.tags }}
+      <div class="flex flex-wrap gap-2 pt-3">
+        {{ range $recipe.Params.tags }}
+          <span class="px-2.5 py-1 bg-gray-50 rounded-full">
+            <span class="text-xs font-medium text-gray-600">{{ . }}</span>
+          </span>
         {{ end }}
-      </ul>
-    </div>
-
-    <!-- INSTRUCTIONS -->
-    <div class="rc-instructions">
-      <div class="rc-section-title">
-        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 10h16M4 14h16M4 18h16"/></svg>
-        {{ $recipe_page.sections.instructions }}
-      </div>
-      <ol>
-        {{ $step := 0 }}
-        {{ range $p.Params.instructions }}
-          {{ if strings.Contains . "===" }}
-            <li class="section-header">{{ . | replaceRE "===(.+)===" "$1" }}</li>
-          {{ else }}
-            {{ $step = add $step 1 }}
-            <li>
-              <span class="rc-step-num">{{ $step }}</span>
-              <span class="rc-step-text">{{ . | replaceRE "^[0-9]+\\.\\s*" "" }}</span>
-            </li>
-          {{ end }}
-        {{ end }}
-      </ol>
-    </div>
-
-    <!-- NUTRITION -->
-    {{ with $p.Params.nutrition }}
-      <div class="rc-nutrition">
-        <div class="rc-section-title">
-          <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
-          {{ $recipe_page.nutritionSection.title }}
-        </div>
-        <div class="rc-nutrition-grid">
-          {{ with .calories }}
-            <div class="rc-nutr-item">
-              <div class="rc-nutr-label">{{ $recipe_page.nutritionLabels.calories }}</div>
-              <div class="rc-nutr-value">{{ . }}</div>
-            </div>
-          {{ end }}
-          {{ with .proteinContent }}
-            <div class="rc-nutr-item">
-              <div class="rc-nutr-label">{{ $recipe_page.nutritionLabels.proteinContent }}</div>
-              <div class="rc-nutr-value">{{ . }}</div>
-            </div>
-          {{ end }}
-          {{ with .carbohydrateContent }}
-            <div class="rc-nutr-item">
-              <div class="rc-nutr-label">{{ $recipe_page.nutritionLabels.carbohydrateContent }}</div>
-              <div class="rc-nutr-value">{{ . }}</div>
-            </div>
-          {{ end }}
-          {{ with .fatContent }}
-            <div class="rc-nutr-item">
-              <div class="rc-nutr-label">{{ $recipe_page.nutritionLabels.fatContent }}</div>
-              <div class="rc-nutr-value">{{ . }}</div>
-            </div>
-          {{ end }}
-        </div>
       </div>
     {{ end }}
-
+    
+    <!-- Date -->
+    <div class="flex justify-end pt-4 border-t border-gray-50">
+      <time class="text-xs text-gray-400 font-medium" datetime="{{ $recipe.Date.Format "2006-01-02" }}">
+        {{ $recipe.Date.Format "Jan 2, 2006" }}
+      </time>
+    </div>
   </div>
-
-  <!-- ACTIONS BOTTOM -->
-  <div class="rc-actions-bottom">
-    <button class="rc-btn rc-btn-print" onclick="window.print()">
-      <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/></svg>
-      Print Recipe
-    </button>
-    <a class="rc-btn rc-btn-pin" href="https://pinterest.com/pin/create/button/?url={{ $p.Permalink }}&media={{ $p.Site.BaseURL }}images/{{ $img }}&description={{ $p.Title }}" target="_blank" rel="noopener">
-      <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 0C5.373 0 0 5.373 0 12c0 5.084 3.163 9.426 7.627 11.174-.105-.949-.2-2.405.042-3.441.218-.937 1.407-5.965 1.407-5.965s-.359-.719-.359-1.782c0-1.668.967-2.914 2.171-2.914 1.023 0 1.518.769 1.518 1.69 0 1.029-.655 2.568-.994 3.995-.283 1.194.599 2.169 1.777 2.169 2.133 0 3.772-2.249 3.772-5.495 0-2.873-2.064-4.882-5.012-4.882-3.414 0-5.418 2.561-5.418 5.207 0 1.031.397 2.138.893 2.738a.36.36 0 01.083.345l-.333 1.36c-.053.22-.174.267-.402.161-1.499-.698-2.436-2.889-2.436-4.649 0-3.785 2.75-7.262 7.929-7.262 4.163 0 7.398 2.967 7.398 6.931 0 4.136-2.607 7.464-6.227 7.464-1.216 0-2.359-.632-2.75-1.378l-.748 2.853c-.271 1.043-1.002 2.35-1.492 3.146C9.57 23.812 10.763 24 12 24c6.627 0 12-5.373 12-12S18.627 0 12 0z"/></svg>
-      Save to Pinterest
-    </a>
-  </div>
-
-</div>
+  
+</a>
