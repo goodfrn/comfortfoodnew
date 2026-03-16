@@ -1,10 +1,10 @@
 ---
-title: "Potatoes Stuffed with Snails"
+title: "Lyonnaise Potatoes with Escargots"
 slug: "potatoes-stuffed-with-snails"
-description: "Small new potatoes boiled till tender, scooped to hold a snail each. Butter whipped with cilantro, lime zest, lime juice, Tabasco, and chives for punch. Snail nestled in, butter dolloped to seal. Oven finish creates bubbling, sizzling, fragrant bites. Alt cooking time, freshness key. Flexible herbs, some swapped dill and parsley for a twist. Texture contrast potatoes and rich sea aroma from escargots. Savory, bright, spicy. A dish needing sharp knife, steady hand for scooping. Hot steam signals doneness. Patience on the butter mix. Messy, but worth it."
-metaDescription: "Potatoes stuffed with snails, butter whipped with fresh herbs, lime zest, and Tabasco. Crispy edges, bubbling butter, earthy, bright, savory bites."
-ogDescription: "Snails nestled in buttered new potatoes with herbs, lime, and heat. Watch for bubbling butter, crisp edges, and citrus-herb aroma before serving."
-focusKeyphrase: "Potatoes stuffed with snails"
+description: "Tender new potatoes stuffed with escargots and cilantro-lime butter. Fresh chives and Tabasco add brightness to this classic French dish for elegant dining."
+metaDescription: "Lyonnaise potatoes recipe with escargots, cilantro-lime butter, and fresh chives. A French classic that's impressive and surprisingly easy. Try it tonight."
+ogDescription: "New potatoes filled with escargots and vibrant cilantro-lime butter. A stunning French dish that's restaurant-quality at home."
+focusKeyphrase: "lyonnaise potatoes"
 date: 2025-09-26
 draft: false
 image: potatoes-stuffed-with-snails.jpg
@@ -20,9 +20,16 @@ tags:
 - "potato"
 - "easy"
 keywords:
-- "stuffed potatoes"
-- "escargots"
-- "herb butter"
+- "lyonnaise potatoes"
+- "french potato dishes"
+- "french potato recipe"
+- "french style potatoes"
+- "escargots recipe"
+- "potato appetizer"
+- "french cuisine"
+- "cilantro lime butter"
+- "new potatoes recipe"
+- "classic french potatoes"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "120"
@@ -70,3 +77,97 @@ faq:
 - "q: Can leftovers be stored and reheated? a: Not great reheated, edges get soggy or dry. Store butter mix covered separately in fridge for few days. Prepare fresh, fill just before oven for best texture."
 
 ---
+
+Boil them till they're tender but still holding their shape. Not mushy. That's the whole thing right there.
+
+Twenty-four small potatoes, scooped hollow, stuffed with escargot, buried in herb butter, and into the oven. Looks fancy. Takes 55 minutes total—25 to prep, 30 to cook. Easier than it sounds. This is what French cooking actually does: takes something simple and makes it look like you spent all day on it.
+
+## Why You'll Love This Lyonnaise Potatoes Recipe
+
+Tastes like you went to culinary school. Didn't.
+
+Takes 55 minutes start to finish—mostly waiting. No stress. Prep, bake, done.
+
+Works as an appetizer or a side that makes the whole meal feel intentional. People ask for the recipe. They always do.
+
+The herb butter's the thing. Fresh cilantro, lime, chives, a dash of Tabasco. It goes soft and bubbly in the oven. Smells like a French kitchen, whatever that means.
+
+Cold potatoes work. Leftovers are fine cold the next day, though reheating breaks the butter texture. Not ideal either way, but it happens.
+
+## Ingredients for Stuffed Lyonnaise Potatoes
+
+Twenty-four small new potatoes. Waxy ones. They hold their shape instead of falling apart when you hollow them out.
+
+Seventy milliliters of softened butter. Salted. Already salted is simpler than figuring out when to add salt yourself.
+
+Fresh cilantro, chopped. Fifty milliliters. Not dried. Dried tastes like old hay.
+
+One lime. Just the zest and juice. Lemon works too if you're out of lime—same acidity, slightly different pitch.
+
+Tabasco. Not much. Just to the point where you taste it without being hit by heat. Maybe a quarter teaspoon if you're being careful. Maybe more if you like it that way.
+
+Forty-five milliliters of fresh chives. Thin slices. They dissolve almost into the butter during baking.
+
+Salt and pepper. Taste it first, then add more.
+
+Twenty-four canned escargots. Rinsed. They come in that weird briny liquid. Drain it. Rinsed ones don't taste like the can.
+
+Substitute the escargot with chopped mushrooms sautéed with garlic if you want earthy without the snail. Works. Different, but works.
+
+## How to Make Lyonnaise Potatoes
+
+Get a pot of salted water boiling. Drop the potatoes in. You're looking for tender but firm—a fork goes through without resistance but they don't collapse. Takes about 20 minutes depending on the size. Don't overdo it.
+
+Pull them out when they're cool enough to handle but still warm. This matters. Hot and they're too soft to hollow. Cold and they're harder to work with and the butter won't seep in.
+
+Get your melon baller or a small spoon and hollow out a pocket in each one. Don't go all the way through the bottom. Leave a base so it doesn't roll around. If one's sitting weird, slice a thin layer off the bottom and it'll stay flat.
+
+Heat the oven to 175 degrees Celsius. Three-fifty Fahrenheit if you're measuring that way.
+
+## How to Get the Herb Butter Right
+
+In a bowl, take that softened butter and blend it with the cilantro, lime zest, lime juice, Tabasco, chives. Whisk it till it's whipped—soft enough to spread but holds its shape when you pipe or smear it. This texture is the whole thing. Too soft and it runs all over the pan during baking. Too firm and it won't blend smooth.
+
+Salt it. Pepper it. Taste a small bit on your finger. Fix it.
+
+Nestle one escargot into each hollowed potato. Don't squish it. Keep it whole.
+
+Spread the herb butter over and into each cavity, covering the snail fully. You can pipe it with a pastry bag if you want it to look precise. You can smear it with a spoon if you don't care. Both work the same.
+
+Pat it down slightly so the butter seats into the potato and doesn't leak all over the baking sheet during the 10 to 12 minutes in the oven.
+
+Lay them snug on a baking sheet. Space matters—heat needs to circle around them or the bottom stays pale.
+
+## Lyonnaise Potatoes Tips and Common Mistakes
+
+Watch the oven. Ten to twelve minutes. The butter should bubble at the edges. Small brown spots start creeping up the sides of the potato. The smell shifts—herb and citrus notes come forward. The snail's earthiness gets buried under butter and lime. That's when it's done.
+
+Pull them out and serve immediately. The butter's still moving inside. One warning: it's hot. Not the potato itself—the butter. A knife tip can test for bubbling without you burning yourself.
+
+Make the butter mixture the day before. Just don't add the Tabasco until right before you stuff the potatoes. Tabasco gets more aggressive over time. By tomorrow it tastes like all you can taste. Add it fresh.
+
+Don't try to reheat leftovers. Cold the next day is fine. Reheated, the butter splits and the texture gets wrong. Not worth the effort.
+
+The potatoes themselves are always the same. It's the butter that determines if this works. That's where your attention goes.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lyonnaise Potatoes
+
+**Can I use regular russet potatoes instead of new potatoes?**
+Not really. Russets fall apart when you hollow them out. New potatoes are waxy. They hold. If that's all you have, boil them longer so they're sturdier.
+
+**What if I can't find fresh escargots?**
+Mushrooms. Chopped, sautéed with garlic until the water cooks off. Same earthy hit without the snail. Some people swear by it.
+
+**How long do these keep?**
+Cold the next day is fine. Don't reheat. The butter breaks. If you're making them for guests, do it fresh and eat them hot.
+
+**Can I make the herb butter ahead?**
+Yes. Day before is fine. Just don't add the Tabasco. It gets sharper sitting in butter. Add it the day of, right before filling.
+
+**What's the texture supposed to be like?**
+The potato stays firm. The butter goes soft and bubbly. The escargot is—escargot. Chewy and slight. It all happens in two bites.
+
+**Do I have to use cilantro?**
+Parsley works. Different taste—more herb, less citrus. But cilantro is better here. If you hate cilantro, use parsley and call it something else.
