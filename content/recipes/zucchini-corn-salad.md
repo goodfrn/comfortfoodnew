@@ -1,10 +1,10 @@
 ---
-title: "Zucchini Corn Salad Remix"
+title: "Corn Salad with Zucchini and Feta"
 slug: "zucchini-corn-salad"
-description: "A fresh zucchini and corn salad tossed in a tangy honey-lime dressing. Spiralized zucchini swaps with chickpeas for added texture. Tomatoes, kidney beans, and crumbled feta finish it off, fresh parsley scattered on top. Quick, tactile prep with visual cues, small blade for delicate spirals. Dressing whisked till glossy, coats every strand and kernel. Bright, crunchy, slightly sweet, and savory. Kitchen sounds—corn kernels pop lightly in pan, zucchini threads whisper as tossed gently. A few seconds more or less, watch for zucchini soften but not soggy. Parsley adds herbal bite; feta lends salt balance. Adjust lime and honey depending on acidity and sweetness preferences. Real-world fix: no spiralizer? Use a julienne peeler, chop fine. Kidney beans swapped for black beans for earthier tone, chickpeas add bite—texture variation crucial here to keep things lively. Dive in with fork, relish crunch and zing."
-metaDescription: "Zucchini Corn Salad Remix with spiralized zucchini, sweet corn, chickpeas, and tangy honey-lime dressing. Fresh parsley and feta add bite and creaminess."
-ogDescription: "Crunchy zucchini and corn tossed in bright honey-lime dressing with chickpeas, tomatoes, parsley, and feta. Delicate strands, fresh flavors, quick prep."
-focusKeyphrase: "zucchini corn salad remix"
+description: "Fresh corn salad with spiralized zucchini, chickpeas, tomatoes, and crumbled feta tossed in a tangy honey-lime dressing. Quick and crunchy."
+metaDescription: "Make this corn salad with spiralized zucchini, chickpeas, and feta in a honey-lime dressing. Fresh, crunchy, and ready in minutes. Try it tonight."
+ogDescription: "Spiralized zucchini, fresh corn, chickpeas, and feta in a bright honey-lime dressing. Crunchy, tangy, and delicious."
+focusKeyphrase: "corn salad"
 date: 2026-01-09
 draft: false
 image: zucchini-corn-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "zucchini"
 - "corn"
 keywords:
-- "zucchini salad"
 - "corn salad"
-- "honey lime dressing"
+- "corn salad recipes"
+- "zucchini salad"
+- "corn and tomato salad"
+- "black bean and corn salad"
+- "summer corn salad"
+- "grilled corn salad"
+- "bean and corn salad"
+- "corn salad ideas"
+- "mexican corn salad"
+- "charred corn"
+- "zucchini salad recipes"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "220"
@@ -73,3 +82,79 @@ faq:
 - "q: Can I store leftovers? a: Best eaten fresh or within 1 day refrigerated. Zucchini softens, salad weeps over time. Keep dressing separate if possible and toss just before serving. Room temp serving improves texture; cold dulls flavors and crunch. Stir before eating, add fresh lime juice if needed."
 
 ---
+
+Spiralize the zucchini on the tiniest blade—almost vermicelli thin. The whole thing takes 20 minutes prep if you move. Eight minutes of heat. Then it's done.
+
+## Why You'll Love This Corn Salad
+
+Fresh corn and raw zucchini that actually tastes like something. Not mushy. Not boring.
+Vegetarian. Healthy without feeling like a punishment. One bowl, maybe 28 minutes total if you don't overthink it.
+Cold the next day. Better the next day, actually. Zucchini softens just right.
+No cooking skills required. Spiralize, sauté corn, mix it. That's the whole thing.
+Feta and lime make it taste like you tried harder than you did.
+
+## What You Need for This Corn Salad
+
+Two medium zucchini. Spiralized on the smallest blade—that matters. A knife or julienne peeler works if you don't have the tool.
+
+One and a quarter cups of fresh corn kernels. Not frozen, not canned. Fresh corn changes everything. You sauté it lightly in a dry pan, just to soften it a bit.
+
+Half cup chopped tomatoes. Cherry tomatoes work better—they hold up. Regular tomatoes get watery.
+
+Half cup canned chickpeas. Rinse them first. Drain them completely. They stay firmer that way.
+
+Lime juice—three tablespoons. Fresh. Bottled tastes like nothing. Honey goes in next, just a tablespoon. Dijon mustard, a half teaspoon. That's what holds the dressing together instead of it falling apart.
+
+Extra virgin olive oil. Quarter cup. Garlic powder instead of fresh—it dissolves better into the dressing. Salt and pepper. Two tablespoons of fresh parsley. A third cup of feta cheese, crumbled.
+
+## How to Make Corn Salad
+
+Spiralize first. Smallest blade. Aim for threads so thin they're almost delicate—you want them to mix without getting crushed into mush. If you don't have a spiralizer, use a sharp knife. Julienne peeler works too. The point is thin strands. Not ribbons. Not chunks.
+
+Heat a pan to medium. Throw the corn in dry or barely oiled. Listen for the popping sound. That's when you know it's working. Six to eight minutes and the kernels soften but still have a bite to them. If they start to blacken, the heat's too high—lower it next time.
+
+Dump the zucchini into a medium bowl. Add the warm corn. The warmth matters a little. Chopped tomatoes. Rinsed chickpeas. Toss it carefully. Zucchini shreds are fragile. Mix until everything's combined but not crushed into a sad paste.
+
+## How to Get the Dressing Right for Zucchini Salad
+
+Small bowl. Whisk the lime juice, honey, olive oil, mustard, garlic powder, salt and pepper together. Whisk hard until it looks glossy and slightly thicker than it was. The mustard does something—it emulsifies, keeps the oil from separating. Skip it and the dressing breaks apart into greasy puddles.
+
+Pour it over gradually. Use two forks or salad spoons, something gentle. Toss it until every strand and kernel gets coated. The dressing has to marry everything or it tastes flat in some bites.
+
+Scatter parsley on top. Crumble the feta. The herbal stuff cuts through the raw zucchini's mildness. The salty cheese does the same thing.
+
+Serve right away or let it sit ten to fifteen minutes. Zucchini softens slightly, flavors blend together. Don't wait longer than that. Too much sitting and the whole thing gets watery. The zucchini releases liquid and drowns everything.
+
+## Corn Salad Tips and Common Mistakes
+
+Zucchini bruises if you're rough with it. Bruised zucchini turns into a watery mess fast. Fold gently. Use salad spoons instead of stirring aggressively like you're mad at it.
+
+Feels flat? Hit it with more lime juice. Or coarse sea salt sprinkled on top—the crunch helps. Sometimes the salad just needs salt. It's usually salt.
+
+Swap chickpeas for kidney beans if you want. Creamier. More earthy. Black beans work too—adds depth. Honey can be agave or maple syrup. Changes the sweetness slightly but it works.
+
+Fresh corn matters more than anything else here. Frozen is fine if that's what you have. Canned tastes like nothing. Fresh corn and this salad become something real.
+
+The dressing holds for two days in a jar. The salad itself is best the day you make it or the next morning. After that it gets mushy. Feta gets weird. Make it fresh or make it small.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Corn Salad
+
+**Can you make this salad a day ahead?**
+Kind of. The salad gets watery overnight. Zucchini keeps releasing liquid. Make it the morning of or the night before, but eat it within 12 hours. The feta gets weird and the zucchini falls apart after that.
+
+**What if you don't have a spiralizer?**
+Sharp knife. Julienne peeler. Mandoline if you're careful not to take your fingers off. Thin strands are the goal. They don't have to be perfect.
+
+**Can you use frozen corn instead?**
+Yeah, but fresh is better. Frozen works. Thaw it first, then sauté it the same way. Won't have the same pop to it.
+
+**Is this actually vegetarian?**
+Yes. Completely. No meat anywhere. Feta's vegetarian too unless you get the weird kind.
+
+**How long does this keep in the fridge?**
+Maybe two days maximum. The zucchini gets mushy. The feta gets weird and chalky. Make it fresh or make it small so you finish it.
+
+**Can you add grilled chicken to this?**
+Probably. Haven't tried it. Would work fine as a side then instead of a main. Wouldn't need the chickpeas anymore.
