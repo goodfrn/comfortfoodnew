@@ -1,10 +1,10 @@
 ---
-title: "Peas and Pasta Remix"
+title: "Pasta with Peas, Butter & Aged Cheese"
 slug: "peas-and-pasta-remix"
-description: "Simple, quick pasta with peas tossed in butter and aged cheese. Frozen peas, no thawing fuss. Boil salted water until lively, watch for rolling bubbles. Swap pasta shapes freely. Butter melts into warm spaghetti, cheese adds bite. Microwave peas to retain snap and color. Drain well or risk soggy mush. Toss fast; butter clings, cheese melts uneven, fruity aromas hit. Timing flexible, trust sight and feel over clocks. Classic upgraded with zippy preserved lemon zest, cuts richness, wakes taste buds. No frills, no fluff, just what works. Kitchen-tested and tweaked for texture and flavor balance. Fail-safe. Staples on hand, swaps suggested for flaky butter and parmesan stand-ins. No em dashes; commas or semis only."
-metaDescription: "Peas and Pasta Remix blends frozen peas, aged cheese, and butter in a quick, textured pasta dish with zesty preserved lemon for contrast and punch."
-ogDescription: "Quick pasta tossed with cold butter, frozen peas, and sharp cheese. Preserved lemon zest cuts richness; timing tricks keep fresh textures and bright flavors."
-focusKeyphrase: "peas and pasta with butter and cheese"
+description: "Quick pasta with peas tossed in butter and aged Asiago cheese. Frozen peas, no thawing needed. Buttery spaghetti with fresh lemon zest cuts richness beautifully."
+metaDescription: "Pasta with peas made easy: frozen peas, butter, and aged Asiago cheese tossed with spaghetti. Lemon zest adds brightness. Save this one."
+ogDescription: "Buttery spaghetti with frozen peas and aged Asiago. Quick, pantry-friendly, and brightened with lemon zest."
+focusKeyphrase: "pasta with peas"
 date: 2025-12-19
 draft: false
 image: peas-and-pasta-remix.jpg
@@ -22,8 +22,14 @@ tags:
 - "comfort food"
 keywords:
 - "pasta with peas"
-- "butter pasta sauce"
-- "asiago cheese pasta"
+- "butter pasta with cheese"
+- "easy weeknight pasta with frozen peas"
+- "pasta with aged asiago and peas"
+- "frozen peas pasta with lemon zest"
+- "spaghetti with butter melted peas and parmesan"
+- "vegetarian pasta dinner"
+- "quick pasta dinner with grated cheese"
+- "comfort food pasta using pantry ingredients"
 breadcrumb: ["Home", "Recipes", "Pasta and Noodles"]
 nutrition: 
  calories: "400"
@@ -69,3 +75,53 @@ faq:
 - "q: How to store leftovers to keep texture? a: Cool fast, store airtight. Reheat gently with small splash water to loosen sauce; avoid microwave overheat or sauce separates. Can also refresh on stovetop low heat, stirring often. Peas may soften but flavors last."
 
 ---
+
+Salt the water when it's lukewarm—not cold, not boiling. Then crank the heat and let it roar. Frozen peas go in the microwave while the pasta cooks. Butter, cheese, pasta water, done. Seventeen minutes total if you move.
+
+## Why You'll Love This Easy Weeknight Pasta Dinner
+
+Comes together faster than ordering takeout. No fancy ingredients — just butter, cheese, pasta, frozen peas. Sits in your pantry already. Cold butter cubes melt into the hot pasta and create these tiny pockets of richness instead of one greasy slick. The preserved lemon zest cuts through all that butter and cheese so it doesn't feel heavy. Works on a Tuesday night when you've got nothing planned. Leftovers taste better the next day, which never happens with pasta.
+
+## What You Need for Pasta With Aged Asiago and Peas
+
+Spaghetti. Or penne. Honestly any pasta works — just use twelve ounces. Kosher salt. More than you think. Three-quarters of a teaspoon just for the water. Cold butter cut into cubes — three tablespoons, unsalted. The cold matters. Aged Asiago or Parmesan, finely grated. One-third cup. Not pre-grated from a shaker. The real stuff. Frozen peas. One cup. Don't thaw them first. Preserved lemon zest if you want that brightness, but it's optional. Black pepper you crack yourself. Red pepper flakes if you're into heat.
+
+## How to Make Frozen Peas Pasta With Lemon Zest
+
+Fill the pot halfway. Cold water. When it's lukewarm, add the salt — tastes like seawater, that's the target. Now crank it. The water needs to boil hard. Bubbles everywhere. Can't ignore it. Add the pasta, push it down if it sticks up, stir right away so nothing clumps. Stir occasionally while it cooks. Eight to nine minutes in, test a piece. Should have a tiny bit of resistance when you bite it. Chalk means you went too far.
+
+Dump the frozen peas into a bowl. Cover with just enough cold water so they're barely swimming. Microwave on high for four to six minutes depending on your microwave — if yours runs hot, dial back to four. If it's weak, go six. Listen for them popping and the water bubbling. Over that and they turn to mush. Strain them in a fine mesh strainer. Let them sit for a second so they dry out a bit. Wet peas dilute everything later.
+
+## Quick Pasta Dinner Technique — Getting the Sauce Right
+
+When the pasta's almost done, grab a half cup of the starchy water before you drain it. Pour the hot spaghetti straight into a big mixing bowl — don't rinse it. Dump the cold butter cubes in immediately. Hot pasta melts them unevenly, creates silky spots and tiny lumps. The smell gets rich and soft. Stir in the cheese and the peas. Add the preserved lemon zest now if you're using it. That citrus cuts right through the richness. Tastes sharp all of a sudden.
+
+If it looks dry or sticky, add the pasta water one tablespoon at a time. That starch makes the cheese and butter cling to the pasta instead of sliding around. Taste it. Crack black pepper over the top. Maybe some red pepper flakes if you want a surprise bite. Serve it right away or it gets stiff.
+
+## Easy Butter Pasta Tips and Common Mistakes
+
+Under-salt the water and the pasta tastes like nothing. Sounds obvious. People still do it. Too much pasta water and you get a watery mess instead of a sauce. The peas are the texture point — overcook them and they fall apart. You lose the snap. Cold butter is the move because it melts into pockets instead of blending into one greasy thing. Warm butter just slides into everything and gets gross. Don't thaw the peas first. Frozen works better because they stay firmer. Grate your own cheese. Pre-grated sits in anti-caking powder and tastes like cardboard. Parmesan works. So does Pecorino Romano if you want saltier. Olive oil replaces butter if you want lighter, but you lose the richness. Regular peas work just as well as frozen — fresh peas are brighter but you have to shell them yourself. Not worth the effort most nights.
+
+The goal is pasta clinging to the peas, to the cheese, to the butter. Not swimming in liquid. If you prep the peas while the water heats, you save a few minutes.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegetarian Pasta Dinner
+
+**How long does this actually take?**
+Seventeen minutes from cold water to plate. Six minutes prep, eleven minutes cooking. Faster if you've got your peas ready before the pasta goes in.
+
+**Can I use fresh peas instead of frozen?**
+Sure. Shell them first though. Fresh taste brighter but frozen saves time and texture's actually better — they don't overcook as easy.
+
+**What if I don't have preserved lemon zest?**
+Skip it. Or zest a fresh lemon. Either works. It's optional. The pasta's good without it.
+
+**Does this reheat?**
+Yeah but pasta gets stiff fast. Add a splash of water and warm it gently or just eat it cold the next day. Cold actually works.
+
+**Can I use pre-grated cheese?**
+Technically yes. Tastes like nothing though. The powder they coat it with ruins everything. Grab a wedge and grate it yourself.
+
+**What about substituting the butter?**
+Olive oil works. Lighter. Less rich. Not the same thing. Ghee's actually better if you've got it — doesn't burn, tastes richer.
