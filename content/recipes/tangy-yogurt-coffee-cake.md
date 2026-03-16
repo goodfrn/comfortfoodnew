@@ -1,10 +1,10 @@
 ---
-title: "Tangy Yogurt Coffee Cake"
+title: "Buttermilk Pie with Cinnamon Streusel"
 slug: "tangy-yogurt-coffee-cake"
-description: "A moist, crumbly coffee cake with a tart yogurt twist and cinnamon streusel topping. Swapping half the milk for buttermilk adds tang and lifts the crumb. The streusel mixes dry and crumbly, topping the cake in generous layers. Butter and sugars creamed light and fluffy, eggs added slow, flour alternating with dairy keeps the batter light but structured. Oven preheated to 345°F; baking until toothpick comes out with few moist crumbs not wet. Resting after baking key to settle flavors and ease slicing. Streusel cinnamon aromatic, slightly salty to balance sweetness. Adapted ingredients for depth and moisture, tips on substitutions and spotting doneness from a cook who's tested many versions."
-metaDescription: "Tangy Yogurt Coffee Cake with crumbly cinnamon streusel, Greek yogurt and buttermilk for moisture and tang. Golden, tender crumb with aromatic spice topping."
-ogDescription: "Moist crumb and tang from yogurt; butter-sugar creamed light; cinnamon streusel crisp. Bake till golden top, edges pull slightly, streusel scent signals done."
-focusKeyphrase: "Tangy Yogurt Coffee Cake"
+description: "Moist buttermilk cake with Greek yogurt, cinnamon streusel topping, and creamed butter. Tangy buttermilk and yogurt create tender crumb; cinnamon-sugar topping adds depth."
+metaDescription: "Buttermilk pie recipe with Greek yogurt, eggs, and cinnamon streusel topping. Moist, tender crumb with aromatic spice. Make it tonight."
+ogDescription: "Buttermilk cake with Greek yogurt and cinnamon streusel topping. Creamed butter, eggs, and tangy dairy create moist, tender crumb."
+focusKeyphrase: "buttermilk pie"
 date: 2025-10-28
 draft: false
 image: tangy-yogurt-coffee-cake.jpg
@@ -20,9 +20,18 @@ tags:
 - "breakfast"
 - "easy"
 keywords:
-- "coffee cake"
-- "yogurt cake"
+- "buttermilk pie"
+- "butter milk pie"
+- "buttermilk cake recipe"
+- "cinnamon streusel coffee cake"
+- "butter milk cake"
+- "coffee cake with cinnamon streusel"
 - "streusel coffee cake"
+- "buttermilk pound cake"
+- "cinnamon streusel"
+- "breakfast cake recipe"
+- "coffee cake using buttermilk"
+- "buttermilk desserts recipes"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
@@ -85,3 +94,97 @@ faq:
 - "q: How to store cake best? a: Wrap tightly in plastic wrap or air-tight container. Keeps crumbs moist; streusel crisp lost after 24 hours. Refrigerate if warm kitchen; cover prevents drying. Reheat slices briefly restores softness."
 
 ---
+
+Butter, sugar, eggs, buttermilk. Heat. Forty-five minutes later you've got something that tastes like it took real effort. Doesn't.
+
+## Why You'll Love This Buttermilk Cake
+
+Coffee in the morning hits different when there's cake on the plate. Takes 25 minutes to get it in the oven. Fifty-eight minutes baking.
+
+Cinnamon streusel stays crunchy for a few hours — after that, it softens but honestly tastes better. The cake itself keeps getting more tender as it sits.
+
+Buttermilk's the secret. Greek yogurt too. Together they make it almost impossible to dry out. You'd have to actually try.
+
+Breakfast cake. Not fancy. Just better than what you'd normally grab. Works cold the next day from the fridge.
+
+## What You Need for Buttermilk Cake
+
+Softened butter. A full cup. Not melted, not cold — soft enough that your finger leaves an indent.
+
+Two sugars. White and brown. The brown sugar keeps things moist. Doesn't dry out fast like plain white.
+
+Baking powder. Salt. Vanilla. The obvious stuff.
+
+Greek yogurt and buttermilk — half cup each. This is where the tang comes from. Not aggressive. Just noticeable. Regular milk won't do the same thing.
+
+Three eggs. All-purpose flour, sifted. One and a quarter cups of whole milk that goes in near the end.
+
+The streusel topping: more flour, more sugar, cinnamon — two teaspoons, which is enough to actually taste it — butter cut into chunks, and a pinch of salt. Cinnamon streusel coffee cake is what this becomes once you bake it.
+
+## How to Make Buttermilk Cake
+
+Heat the oven to 345. Middle rack. Grease a 9x13 pan — butter works better than spray. Doesn't stick the same way.
+
+Cream the butter with both sugars until it's pale and fluffy. Listen to it change sound. Maybe three to four minutes. Don't skip this step. The cake's texture depends on air getting whipped in.
+
+Blend in salt, baking powder, vanilla. Keep the mixer on medium. Avoid going crazy or the crumb gets weird.
+
+Greek yogurt and buttermilk go in together. Mix until it's shiny and smooth. The tang from the yogurt balances the sweetness. Buttermilk adds tenderness.
+
+Eggs. One at a time. Pause between each one and scrape the bowl. This matters. The eggs are emulsifying. They're stabilizing the structure.
+
+Now alternate. Flour. Milk. Flour. Milk. End with flour. Low speed or you'll toughen the whole thing. Stop the second no streaks show.
+
+Spoon half the batter into the pan. Spread it level with a spatula. Doesn't have to be perfect.
+
+## Getting the Cinnamon Streusel Right
+
+Flour, sugar, cinnamon, salt — stir them together in a bowl. Two teaspoons of cinnamon. That's real. Not a whisper.
+
+Cut cold butter into chunks. Add to the dry. Use a pastry cutter or two forks and break it apart. You want pea-sized lumps. Uneven. Texture should be crumbly. If it feels wet, chill it for 10 minutes.
+
+Scatter half this streusel over the batter. Don't press. Keep those clumps loose and separate.
+
+Spoon the rest of the batter on top. It won't cover everything. That's right. You want patches of batter and streusel showing.
+
+Top with the remaining streusel. Press down just a little. Keep it loose.
+
+Fifty-five to sixty minutes in the oven. Watch it. The top goes golden. The edges pull from the pan. The cinnamon smell deepens — that's the real cue. Not the clock.
+
+Toothpick test: push one near the center. You should get moist crumbs stuck to it. Not raw batter. Not dry cake either. There's a middle ground and that's the goal.
+
+Cool in the pan for 15 to 20 minutes. The aroma gets deeper. The crumb settles.
+
+## Buttermilk Cake Tips and Mistakes
+
+Room temperature buttermilk. Cold milk does something different. Not terrible. Different.
+
+Don't overbeat after the flour goes in. Overmixing makes it tough. You're not kneading bread.
+
+The streusel tastes best fresh. After a day it goes soft. Still good — just not crunchy. Wrap leftovers tight to keep the cake itself moist.
+
+Reheat slices for 20 seconds in a microwave if you want the butter to warm up. The cake tastes richer hot.
+
+Cake made with buttermilk recipe variations: could probably work with sour cream instead of Greek yogurt. Haven't tried it. Might change the flavor slightly.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Buttermilk Cake
+
+**Can I use regular milk instead of buttermilk?**
+Not really. Buttermilk's acidic. It reacts with the baking powder and makes the crumb tender. Regular milk doesn't do that. You'd get something denser.
+
+**Why does this need Greek yogurt if it already has buttermilk?**
+They do different things. Buttermilk adds tang and helps with rise. Yogurt adds moisture and keeps it from drying out. Together they're better.
+
+**How do I know when it's done baking?**
+Toothpick comes out with moist crumbs attached. Not wet batter. Not bone dry. And the kitchen smells like cinnamon — that's your real timer.
+
+**Can I make this the night before?**
+Yeah. Wrap it tight. The cake stays moist for two days easy. The streusel gets soft but the cake itself is fine cold or reheated.
+
+**What if the top is browning too fast?**
+Lower the oven temp by 10 degrees next time. Or tent it loosely with foil halfway through. The inside needs 55-60 minutes. If the top's burning, slow everything down.
+
+**Does the buttermilk need to be room temperature?**
+Kind of. Cold buttermilk takes longer to blend in smoothly. Room temp mixes cleaner and faster. Not a huge deal either way.
