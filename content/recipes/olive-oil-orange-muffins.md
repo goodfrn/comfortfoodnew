@@ -1,10 +1,10 @@
 ---
 title: "Olive Oil Orange Rosemary Muffins"
 slug: "olive-oil-orange-muffins"
-description: "Muffins blending all-purpose and sprouted flour with a zing of orange juice and zest, fresh rosemary that’s swapped for dried, and olive oil for moistness. Egg and milk bind, baking soda and powder give lift. Lightly sweet, herbal, slightly tangy with a touch of bright citrus on top. Baked at moderate heat until golden, with that peel of orange warming the kitchen. Six big muffins, each topped with quartered fresh orange slices. Simple pantry staples, no sugar overload. A reliable mix for breakfast or snack. Time shifted by minutes; texture tuned by twitching the stir. A fresh twist, cardamom swapped in, leaves hints of spice along the piney rosemary."
-metaDescription: "Olive Oil Orange Rosemary Muffins with sprouted flour, fresh citrus zest, and cardamom spice. Moist texture, gentle fold, golden crust, topping fresh orange slices."
-ogDescription: "Herbal, tangy muffins with olive oil, fresh orange, rosemary, and a hint of cardamom. Lightly sweet, moist crumb, quick bake, topped with caramelized orange slices."
-focusKeyphrase: "Olive Oil Orange Rosemary Muffins"
+description: "Orange muffins made with all-purpose and sprouted flour, fresh rosemary, extra-virgin olive oil, and cardamom. Moist, citrusy, and herbal with bright orange zest."
+metaDescription: "Make olive oil orange rosemary muffins with sprouted wheat flour, fresh orange juice, and cardamom. Easy citrus breakfast recipe. Try it tonight."
+ogDescription: "Citrus breakfast muffins with rosemary, olive oil, orange zest, and sprouted flour. Herbal, moist, and perfectly balanced."
+focusKeyphrase: "olive oil orange rosemary muffins"
 date: 2026-01-21
 draft: false
 image: olive-oil-orange-muffins.jpg
@@ -20,9 +20,16 @@ tags:
 - "breakfast"
 - "easy"
 keywords:
+- "olive oil orange rosemary muffins"
+- "orange muffins"
+- "rosemary muffins"
 - "olive oil muffins"
-- "orange rosemary baking"
-- "moist muffins recipe"
+- "citrus breakfast muffins"
+- "easy orange muffins"
+- "sprouted wheat muffins"
+- "orange juice muffins"
+- "fresh rosemary citrus muffins"
+- "cardamom orange muffins"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "210"
@@ -77,3 +84,83 @@ faq:
 - "q: How to store muffins? a: Airtight container for 2 days tops. Paper bag keeps crust crisp but muffins soften faster. Reheat 5 min in hot oven restores edge crispness and scent. Plastic bags soften crust fast but keep moist inside longer."
 
 ---
+
+Spray the tin. Heat to 345. This is already better than your usual muffin situation because olive oil keeps things tender and orange juice does something that regular milk doesn't—it brightens everything without making it taste citrusy in a weird way.
+
+## Why You'll Love These Olive Oil Orange Muffins
+
+Takes 38 minutes total, 15 of that just measuring and mixing. Breakfast is basically done before your coffee gets cold.
+
+Not one of those dense, crumbly things that fall apart in your hand. Olive oil muffins stay together. They actually taste good the next day—maybe better.
+
+Fresh rosemary sounds fancy. Tastes it too. But it's not overpowering. Just there.
+
+Easy enough that you're not stressed about it. Hard enough that they don't taste like a box mix. Sprouted wheat flour makes a difference, but regular all-purpose works fine if that's what you have.
+
+## What You Need for Olive Oil Orange Muffins
+
+All-purpose flour and sprouted wheat flour—one cup each. If sprouted's not around, use regular wheat instead. Doesn't rise quite the same but it'll work.
+
+Olive oil. Good olive oil. A third cup. Butter burns in muffins. This doesn't.
+
+Two eggs. Fresh orange juice—a third cup. One tablespoon of zest. This is where the brightness lives.
+
+Salt, baking powder, baking soda. A teaspoon of dried rosemary. Not fresh—dried works better here, it doesn't go bitter when it bakes. Cardamom, a quarter teaspoon. Nobody expects it. That's why it works.
+
+Whole milk, half cup. Orange slices for the top—three or four per muffin. They caramelize slightly. Actually matters.
+
+## How to Make Olive Oil Orange Muffins
+
+Heat the oven to 345. Not 350. Not 375. 345. It matters. Spray a muffin tin while the oven preheats. Real spray, not the kind in a can—it's faster and your tin stays cleaner.
+
+Mix the flours together. Add rosemary, salt, baking powder, baking soda, cardamom. Stir until you don't see any clumps. Break them with your spoon if they're stubborn. Sift if you care about the rise. Most people don't. You should.
+
+Beat the eggs lightly. Just beat them enough that the white and yolk mix. Stir in the olive oil. Add milk and orange juice and zest. Whisk until it looks uniform. Don't go crazy here—you're not making mousse. Stop when you can't see the dry edges.
+
+Pour the wet into the dry. Fold. Gently. Until you can't see flour anymore and that's it. Stop. This is where people fail. They keep stirring. The muffins get dense. Don't be that person.
+
+## How to Get Olive Oil Citrus Muffins Perfectly Baked
+
+Fill each cup three-quarters full using a measure. Don't guess. Three-quarters full means they rise without spilling over. Lay three or four orange slices on top of each one, quartered. They sink a bit and get soft and sweet.
+
+Bake for 23 minutes. Not twenty. Not twenty-five. Watch the edges. When they're golden and the tops are just firm to the touch—not squishy, not hard—they're close. Toothpick goes in. A few moist crumbs stick. That's right. Wet batter means not done. Bone dry means you waited too long.
+
+Pull them out. Let them sit in the tin for 10 minutes. They keep cooking a little. Then tip them onto a rack or just eat them. They'll be tender but they won't collapse on you.
+
+The cardamom and rosemary are stronger when they're warm. They soften as they cool. So if you taste one hot and think it's too much—wait. It mellows.
+
+## Olive Oil Orange Muffin Tips and Mistakes
+
+Overmixing is the biggest problem. You can't unmix batter. Once the flour's incorporated, stop. Seriously.
+
+If they slump or spread too much, next time add an extra tablespoon of flour to the dry mix. If they're tough and dense—which means you mixed them too much—there's no fix but next time.
+
+Sprouted wheat flour is denser than regular. If you swap it out, use less. Try three-quarters cup sprouted and one and a quarter all-purpose. The balance changes depending on what you use. This takes one try to figure out.
+
+No fresh orange juice? Bottled works. Zest a lemon too—get the brightness from somewhere. Don't skip the olive oil thinking butter's the same. It's not. Butter makes these heavy. Olive oil keeps them open and tender.
+
+Want them sweeter? Drizzle a tablespoon of honey into the wet mix. Want crunch? Half cup pepitas or chopped nuts stirred into the dry. Don't go over half cup or they sink and don't distribute.
+
+The cardamom is optional. Some people hate it. Leave it out if you do. The muffins work without it. They're just less interesting.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Olive Oil Orange Muffins
+
+**Can I make these with whole wheat flour instead of sprouted?**
+Yeah. Use the same amount. They'll be denser and slightly earthier. Not bad, just different. Might need an extra minute in the oven.
+
+**Why 345 degrees and not the normal 350?**
+Lower temp, longer bake means they rise more evenly and don't brown too fast on top. Your oven probably runs hot anyway. 345 accounts for that.
+
+**How long do these last?**
+Two days in an airtight container and they're still good. After that the texture starts going stale. You can refresh them—five minutes in a 350 oven. Crust gets crispy again.
+
+**Do I have to use fresh orange or can I use juice from a bottle?**
+Juice works. The zest matters though. Fresh zest or nothing. Don't use dried zest—it tastes like dust.
+
+**What if my oven runs really cold?**
+Add a minute or two. Watch the color, not the clock. When the edges go golden and the top springs back when you touch it, you're done. Every oven's different.
+
+**Can I skip the rosemary?**
+Could. The muffins work without it. But they taste like plain orange citrus muffins instead of something with a little complexity. Wouldn't recommend it, but you can.
