@@ -1,10 +1,10 @@
 ---
-title: "Potato Gruyère Tart"
+title: "Cheese Casserole Potato with Gruyère"
 slug: "potato-gruyere-tart"
-description: "A thin potato tart layered with Gruyère and aged cheese, baked until golden and bubbly. Uses Yukon Gold replaced by red potatoes for texture contrast. Parmigiano swapped with aged Manchego for nuttier flavor. Vinaigrette replaces Worcestershire with soy sauce for depth, adds sherry vinegar; smoked paprika tosses in subtle heat. Simple, no-crust tart, quick setup. Watch for bubbling cheese and tender potatoes—not just time. Salad tossed in tangy dressing cuts richness. Great when oven heat wavers—foil keeps it moist. Serve warm, slices crisp at edges but soft inside."
-metaDescription: "Potato Gruyère tart layered thin with red potatoes, aged Manchego, browned butter, baked crisp edges and melty cheese. Tangy mesclun salad with smoky paprika vinaigrette."
-ogDescription: "Thin potato slices, layers of Manchego and Gruyère, browned butter, baked till bubbled golden. Serve with smoky paprika tossed baby greens—keeps crisp."
-focusKeyphrase: "Potato Gruyère tart"
+description: "Layered cheese casserole potato bake with thinly sliced red potatoes, Gruyère, and aged Manchego. Baked until golden and bubbly with a tangy vinaigrette featuring sherry vinegar and smoked paprika."
+metaDescription: "Cheese casserole potato recipe with red potatoes, Gruyère, and aged Manchego cheese. Golden, bubbly layers with sherry vinegar vinaigrette. Make it tonight."
+ogDescription: "Creamy cheese casserole potato with Gruyère and Manchego, red potatoes, and smoked paprika vinaigrette. Crispy edges, tender inside."
+focusKeyphrase: "cheese casserole potato"
 date: 2025-08-18
 draft: false
 image: potato-gruyere-tart.jpg
@@ -21,9 +21,16 @@ tags:
 - "vegetarian"
 - "appetizer"
 keywords:
+- "cheese casserole potato"
+- "cheese potato bake"
+- "gruyere au gratin potatoes"
+- "baked potato and cheese"
 - "potato tart"
-- "Gruyère cheese"
-- "vinaigrette salad"
+- "layered potato dish"
+- "cheesy au gratin potato recipe"
+- "potato dish with cheese"
+- "potatoes au gratin cheese"
+- "cheese onion and potato pie"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -69,3 +76,83 @@ faq:
 - "q: How to store leftovers? a: Cover and refrigerate promptly; crisp edges soften, cheese stiffens. Reheat in oven for few minutes on foil; edges won’t fully regain crispness. Microwave ruins textures. Best to eat immediate. Salad separate, toss fresh later. Avoid long storage."
 
 ---
+
+Mandoline and 20 minutes. That's all the prep. Three cheeses layered over paper-thin potato slices — Manchego first, then Gruyère, then heat. The edges crisp while the middle stays tender. Tart greens on top to cut through all that cheese.
+
+## Why You'll Love This Cheese Potato Bake
+
+Looks fancy but takes 45 minutes total — 20 of that is just slicing potatoes on a mandoline.
+Two kinds of cheese melting into each other. Manchego's nutty. Gruyère's sharp. Works.
+The vinaigrette is tangy, slightly mustardy, nothing sweet. Kills the richness without being angry about it.
+Serve it warm and the cheese is still gooey. Cool it down and it becomes something else — kind of a casserole that travels. Appetizer on a plate or a vegetarian main if you're hungry enough.
+Red potatoes. Waxy. They don't fall apart when you layer them thin like this. Russets would get mushy.
+
+## What You Need for a Cheese and Potato Bake
+
+Three large red potatoes sliced thin on a mandoline — you need the mandoline or the slices won't be even enough. Serrated knife doesn't work here.
+
+Manchego cheese, grated. Aged stuff. Not young. The aged version has texture, tastes like butter and almonds mixed. Don't use the mild version.
+
+Gruyère. Shredded. It melts first, it melts completely. Not Swiss. Not Emmental. Gruyère.
+
+Melted butter — half goes on the foil before layering, half dotted over the potatoes. It browns them. Matters.
+
+Mixed baby greens. Mesclun. That spring mix. The tender stuff. You're tossing it in a tart vinaigrette.
+
+For the vinaigrette: olive oil, whole grain mustard, sherry vinegar, soy sauce, brown sugar, smoked paprika. Salt and pepper. That's it.
+
+## How to Make a Cheese Potato Bake
+
+Oven at 185 Celsius. Mid-level rack. Line a 43 by 30 centimeter baking sheet with foil.
+
+Brush it. Generously. With half the melted butter. This stops sticking and it browns the bottom. The bottom matters.
+
+Slice your potatoes on the mandoline. Thin. Like, translucent at the edges. Lay them across the foil overlapping slightly — it looks like shingles on a roof. Keep the edges loose so they can crisp up. They will. Salt and pepper while you layer. Don't wait until the end.
+
+Dot the remaining melted butter across the top. Little pieces everywhere. This is what makes the edges brown and curl.
+
+## How to Get This Cheese Potato Casserole Crispy and Golden
+
+Manchego first. Sprinkle it. Thin layer. Even.
+
+Then Gruyère. This covers most of the Manchego. You want it completely covered or the edges burn. Not the whole thing — just the exposed bits.
+
+Slide it in. Set a timer for 25 minutes but start looking at 20. You're watching for golden. Actual golden. Not dark. The edges should curl and crisp. The potatoes underneath should give when you push with a fork but not fall apart. The cheese should be bubbling at the edges, melted everywhere else.
+
+Takes about 25 minutes usually. Maybe 30 depending on your oven. Ovens aren't reliable about this. Start checking early.
+
+## Cheese and Potato Bake Tips and Common Mistakes
+
+Don't overlap the potatoes too much. You want them to crisp. Crowded means steamed. Steamed potatoes are soft and pale.
+
+The bottom layer of potatoes never fully crisps if the butter's too thin. You need it to actually cover the foil. Slick.
+
+Manchego can taste dusty if it's not aged enough. Find the aged stuff. It says aged on the label. Or ask someone at the cheese counter. It matters more than the Gruyère actually.
+
+Make the vinaigrette while the potato bake is in the oven. The soy sauce is weird in there — it adds salt and umami but you can't taste the soy. Brown sugar balances the vinegar. Sherry vinegar specifically. White vinegar is too sharp. Red wine vinegar is too heavy.
+
+Toss the greens in the vinaigrette right before you serve. Not before. The leaves get soggy and sad. Just before.
+
+Cut it into four rectangles. Straight cuts. Serve it on warm plates so the cheese doesn't cool and get waxy. Greens on top or beside. Depends.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cheese Potato Appetizers
+
+**Can I use regular potatoes instead of red potatoes?**
+Russets get mushy when they're this thin. Yukon Gold works but they're almost too buttery. Red potatoes have just enough starch. They hold.
+
+**What if I don't have a mandoline?**
+Get one. A cheap one. Under ten dollars usually. A knife won't slice them evenly enough and the whole thing falls apart.
+
+**Can I make this ahead?**
+Yeah. Slice the potatoes, keep them in water so they don't brown. Assemble it in the morning, bake it later. Don't let it sit more than a few hours with the cheese on it — the moisture from the potatoes makes the bottom soggy.
+
+**How long does it stay good?**
+Tastes better cold, actually. Keeps two days in the fridge covered. Reheat at 160 Celsius for five minutes if you want the cheese gooey again.
+
+**Can I add ham or bacon?**
+You could. Diced. Scattered between layers. But this is vegetarian and the cheese is aggressive enough. Meat would fight it.
+
+**What's the deal with soy sauce in the vinaigrette?**
+Adds salt and depth. You won't taste the soy. It just makes the mustard taste mustardier. Don't skip it.
