@@ -1,10 +1,10 @@
 ---
-title: "Spiced Trout and Beet Salad"
+title: "Beetroot Salad with Trout and Fennel"
 slug: "spiced-trout-beet-salad"
-description: "A simple main course featuring trout fillets cooked with a hint of chili paste, paired with a fresh salad of golden and red beets, fennel, and spinach. Citrus and sambal oelek add brightness and heat. No gluten, dairy, nuts, or eggs. Ready in under 30 minutes."
-metaDescription: "Spiced Trout and Beet Salad with chili paste, citrus, fennel, and spinach. Quick, bright, gluten-and-dairy free meal ready under 35 minutes. Four servings."
-ogDescription: "Sear trout with chili-lime dressing tossed through golden and red beets, fennel, and spinach. Quick, spicy, fresh salad and fish combo for weeknight meals."
-focusKeyphrase: "Spiced Trout and Beet Salad"
+description: "Fresh beetroot salad with pan-seared trout fillets, golden and red beets, fennel, and spinach. Lime and chili paste add brightness and heat. Gluten-free and ready in 30 minutes."
+metaDescription: "Beetroot salad recipe featuring trout fillets, golden beets, fennel, and spinach with lime and chili. Gluten-free and quick. Make it tonight."
+ogDescription: "Pan-seared trout salad with roasted golden and red beets, fresh fennel, spinach, and lime-chili dressing. Ready in under 30 minutes."
+focusKeyphrase: "beetroot salad"
 date: 2025-07-29
 draft: false
 image: spiced-trout-beet-salad.jpg
@@ -21,11 +21,16 @@ tags:
 - "gluten free"
 - "beet"
 keywords:
-- "trout fillets"
-- "beet salad"
-- "chili paste"
-- "fennel salad"
-- "spinach salad"
+- "beetroot salad"
+- "beet salad recipes"
+- "roasted beets"
+- "beetroot salad recipe"
+- "roasted beet salad"
+- "beet and fennel salad"
+- "trout salad"
+- "gluten-free salad"
+- "golden beet recipe"
+- "lime beet salad"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "390"
@@ -68,3 +73,93 @@ faq:
 - "q: Can I prep in advance? a: Cook beets and slice fennel ahead; keep chilled. Dressing mixed and ready but add greens last to avoid soggy leaves. Cook trout fresh before serving. Warm fish right before plating for best texture. Do not leave fish in dressing."
 
 ---
+
+Trout hits the pan skin-side up. Don't move it. Four minutes gets you that golden sear, and the flesh stays tender underneath. Meanwhile, the beets and spinach are waiting—bright, earthy, ready for lime and heat.
+
+## Why You'll Love This Beet Salad
+
+Feels fancy but takes 35 minutes total. Comes together in one bowl while the fish cooks. The spice from chili paste cuts through the earthiness of roasted beets in a way that actually works. Raw fennel stays crisp. Spinach wilts just enough from the warm dressing. Gluten-free, no weird substitutions. Works cold the next day too—maybe even better.
+
+## What You Need for This Beet and Seafood Salad
+
+Trout fillets, skin removed. Four portions. Any white fish works but trout's got enough fat that it doesn't dry out.
+
+Olive oil. Half goes in the pan, half in the dressing. Not olive oil that tastes like grass—something neutral that lets the lime come through.
+
+Chili paste. Sriracha, sambal oelek, whatever. Three milliliters sounds tiny but it's enough. Too much and it's all you taste.
+
+Lime. Zest and juice. Both. The zest goes in the dressing, brightens everything.
+
+Golden beets and one red beet. Cooked already. If you're roasting them fresh, that's another 45 minutes. Not today. Buy them vacuum-packed or roast them ahead. Cube them. Size doesn't matter much.
+
+Two shallots minced small. Not red onions. Shallots are sweeter and they disappear into the dressing instead of announcing themselves.
+
+Fennel. One bulb, thin on a mandoline. Then the fronds—the feathery green top part. Most people throw those away. Don't. They're the best part.
+
+Baby spinach. A full handful. Raw. The warm dressing wilts it just enough.
+
+Salt and pepper.
+
+## How to Make Beet Salad with Trout
+
+Get the skillet hot. Medium-high heat. Pour in half the olive oil and let it shimmer.
+
+Trout goes in skin-side up. Don't touch it. Four minutes. You'll hear it sizzle for the first minute, then it settles into a quiet hiss. That's the sound of the skin crisping. The flesh underneath goes opaque from the outside in—you can see it happening through the side of the fillet.
+
+Flip it. Another four minutes. The second side cooks faster because the pan's hotter now and the fish is already warm. You're not trying to get the same color on both sides. The skin side gets the attention.
+
+Pull it off heat. It'll keep cooking on the plate for another minute. That matters.
+
+While that's happening, mix the rest of the oil with chili paste and lime zest in a bowl. Just whisk it. The oil will turn slightly red-orange. Add the juice. Taste it. Season with salt—not much, the fish brings salt—and pepper.
+
+Throw in the cubed beets, shallots, fennel slices, fennel fronds, and spinach. This is the only step where salad dressing actually coats food evenly—when the salad's raw and the leaves are small. Toss it until everything's got dressing on it.
+
+## How to Get Trout Crispy on the Outside
+
+The skin matters. Crispy skin means the salad isn't just a side thing—it's a texture contrast. Hot pan. Oil that's moving. Skin-side down. Patience.
+
+Don't press the fillet. Just let it sit. The moisture in the skin evaporates and the skin pulls away from the pan automatically. You'll feel it loosen. That's when you know it's done. Usually four minutes. Could be three if your heat's really high. Could be five if it's medium. Listen and watch.
+
+When you flip, the flesh side touches the hot pan and seals. This takes less time because fish flesh is delicate and you're not trying to crisp it—you're trying to keep it juicy.
+
+## Beet Salad Tips and Common Mistakes
+
+The beets stain everything. Use a cutting board you don't love, or accept that it's now a beet board. Doesn't matter.
+
+Fennel stays crispest if you slice it right before serving. If you slice it an hour ahead, it gets soft and nobody cares about it anymore.
+
+The lime is important. White wine vinegar would work. Lemon would work. But lime and chili paste have a thing going that makes sense together. Tried it with vinegar once. Flat.
+
+Raw spinach wilts from the warm dressing and warm fish. If you cook the spinach first, it gets mushy and takes up plate space without adding anything. Just use it raw.
+
+Trout cooks faster than thicker fish. Salmon would need five or six minutes per side depending on thickness. Cod would take longer. Adjust based on what you've got.
+
+The salad can sit for ten minutes before eating. The dressing keeps the spinach from turning to slime and the fennel stays mostly crisp. Beyond that, it gets soft.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Beet Salad with Trout
+
+**Can I make this without the fish?**
+Yeah. It becomes a roasted beet salad with fennel and it's still good. Loses the protein angle but the spice-and-earthy thing still works.
+
+**What if I don't have trout?**
+Any firm white fish. Halibut, cod, sea bass. Salmon works. Skin-side still up, but salmon needs five to six minutes because it's thicker.
+
+**How do I roast beets from scratch?**
+Oven to 400. Beets whole, unpeeled, on a sheet pan with a little oil. Takes 45 minutes for medium beets. Bigger ones take longer. Stab one with a fork—if it goes soft, they're done. Cool them, rub the skin off under cold water, cube them.
+
+**Can I prep the beets ahead?**
+Cook them the day before. Store them in the fridge covered. Cube them whenever. They taste the same cold.
+
+**Is this gluten-free?**
+Yes. Everything here is naturally gluten-free. Even the trout if you buy it plain. The only thing to check is whether your chili paste has anything weird in it. Most don't.
+
+**What pairs with this besides bread?**
+Nothing. The salad's complete on its own. Bread is just something to sop the dressing with if you want.
+
+**Can I use canned beets?**
+Not really. They're too soft and they taste like tin. Vacuum-packed or roasted. That's it.
+
+**Does the salad keep?**
+Leftovers last two days in the fridge. The fennel goes soft by day two. The beets stay the same. The fish gets drier but it's still edible cold.
