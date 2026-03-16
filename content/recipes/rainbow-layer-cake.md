@@ -1,10 +1,10 @@
 ---
-title: "Rainbow Layer Cake"
+title: "Rainbow Layer Cake with Buttercream Frosting"
 slug: "rainbow-layer-cake"
-description: "A classic rainbow layer cake with slight tweaks: reduced sugar, swapped canola oil for light olive oil, modified baking times. Layers baked in 20 cm pans, leveled for even stacking. Buttercream split and tinted for bright rainbow hues, with cocoa added to deepen red tone. Cooling done on wire racks, crumb coat chill before decorating. Emphasis on texture and visual cues over timing. Practical insights for substitutions, error fixes, and coloration tips included."
-metaDescription: "Rainbow Layer Cake with light olive oil, air-whipped eggs, deep red cocoa buttercream. Clear steps on batter, baking cues, layering, and vivid color tips."
-ogDescription: "Air whipped eggs, trimmed layers, red cocoa frosting. Baking cues, texture checks, and frosting tips for a striking rainbow cake with practical swaps."
-focusKeyphrase: "Rainbow Layer Cake"
+description: "Make a stunning rainbow layer cake with olive oil, eggs, and buttercream frosting tinted in vibrant colors. This homemade recipe delivers moist layers and smooth decorating."
+metaDescription: "Rainbow layer cake recipe with olive oil, fresh eggs, and colorful buttercream frosting. Learn professional decorating techniques. Make it tonight."
+ogDescription: "Vibrant rainbow layer cake with olive oil and buttercream frosting in six bold colors. Bake, level, and decorate like a pro."
+focusKeyphrase: "rainbow layer cake"
 date: 2025-09-27
 draft: false
 image: rainbow-layer-cake.jpg
@@ -21,9 +21,16 @@ tags:
 - "homemade"
 - "easy"
 keywords:
+- "rainbow layer cake"
 - "layer cake"
+- "cake recipe"
 - "rainbow cake"
-- "buttercream coloring"
+- "homemade rainbow layer cake"
+- "buttercream frosting layer cake"
+- "olive oil rainbow cake"
+- "multi-colored layer cake"
+- "from-scratch rainbow cake with buttercream"
+- "vegetarian layer cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "480"
@@ -100,3 +107,117 @@ faq:
 - "q: How to store leftovers? a: Wrap cake airtight; fridge recommended for buttercream. Can freeze layers separately wrapped tight. Chill before slicing prevents crumb mess. Room temp cake softens frosting, risk melt; handle accordingly. Shelf life about 3 days fridge."
 
 ---
+
+Trim the dome. That curved top is your enemy — steam trapped underneath, layers tilting when you stack them. Takes 30 seconds with a serrated knife. Worth it.
+
+This is a homemade rainbow layer cake that actually works. Not the kind where food coloring bleeds everywhere or the buttercream splits halfway through. Two sturdy cake layers, proper aeration, enough frosting to make the rainbow bands actually look like something. 2 hours 15 minutes total. You'll need patience on the whisking part — there's a reason the eggs take 9 to 11 minutes.
+
+## Why You'll Love This Homemade Rainbow Layer Cake
+
+It's straightforward vegetarian dessert. No weird egg replacements, no sketchy substitutions. Just eggs, flour, butter.
+
+Layers stay stable when you stack them. The cake's dense enough to hold frosting weight, tender enough that you can actually eat it without it being dry. Tried it once with cake flour. Too fragile. All-purpose is right.
+
+Food coloring doesn't bleed. Gel colors, not liquid. They're thick. Mix them in properly and the bands stay where you put them.
+
+Tastes good the next day. Actually tastes better. Buttercream firms up, flavors settle in. Pack it cold if you need to move it somewhere.
+
+The whipping part takes time but that's the whole thing. Air in the eggs, air in the butter. That's what separates it from a dense brick.
+
+## What You Need for a Rainbow Layer Cake
+
+Flour — 400 grams. All-purpose. Not cake flour unless you want it falling apart when you frost it. Baking powder, 18 milliliters. Salt, half a teaspoon.
+
+Four large eggs. Room temperature. Cold eggs won't whip properly no matter how long you beat them.
+
+Sugar — 380 grams. Vanilla extract, a tablespoon. Light olive oil, 180 milliliters. The oil matters more here than you'd think. It keeps the cake tender without making it greasy. Whole milk, 320 milliliters. Or buttermilk if you want tang. Same amount either way.
+
+Butter for frosting — 490 grams, softened. It has to be soft or you'll be beating it forever. Icing sugar, 740 grams. Vanilla, a teaspoon and a half.
+
+For the colors: cocoa powder for the red. Gel food coloring in red, purple, blue, green, yellow, orange. The small bottles. Liquid coloring won't work — too watery, too much liquid in the frosting.
+
+## How to Make a Homemade Rainbow Layer Cake from Scratch
+
+Oven to 175 Celsius. Middle rack. Grease two 20-centimeter springform pans and line them with parchment. The parchment matters. It pulls away clean instead of sticking to the bottom and ripping pieces off.
+
+Whisk together flour, baking powder, salt. Sift it if it's clumpy. Don't skip this. Sets the base for a clean crumb.
+
+Eggs and sugar in the big bowl. Whisk on high speed. This takes 9 to 11 minutes. Actually time it. The mixture should get pale, thick, ribbony when you lift the whisk — batter should trail off it like a thick ribbon and sit on the surface for a second before disappearing. That's aeration. That's what makes it light.
+
+Oil goes in slow. Keep whisking but softer now. Too fast and it won't blend properly. You'll get greasy pockets that ruin texture. Stream it in while whisking, don't dump it.
+
+Dry ingredients and milk alternate. Spatula now instead of whisk — fold, don't beat. Dry first, then milk, then dry, then milk, then dry. Start and end with flour. The batter should be smooth, pourable, thick but loose. Not stiff. Not runny.
+
+Split the batter evenly between pans. Scale if you have one. Tap the pans on the counter to knock out air bubbles. They pop during baking and leave sinkholes.
+
+Bake 52 to 58 minutes. Check at 50 minutes with a toothpick in the center. If wet batter comes out, keep checking every few minutes. When the toothpick has moist crumbs on it — not wet batter, actual crumbs — it's done. The whole kitchen smells sweet and vanilla-heavy when it's close.
+
+Cool in the pans for 20 minutes. The edges need to firm up. Then run a knife around the sides, pop them out, peel the parchment off, and let them cool completely on a rack. Frosting warm cake will melt the frosting and make it gloopy. Wait.
+
+## How to Get the Frosting Right and Layers Stable
+
+Butter goes in the mixer on medium speed. Beat it for 4 to 5 minutes until it's pale and fluffy. Air in the butter is half the frosting.
+
+Add vanilla, mix. Sift in half the icing sugar on low speed. Mix smooth. Add the rest of the icing sugar in stages — low speed, gradually. If it gets grainy or too stiff, add milk one teaspoon at a time. Should spread like butter, not like cement, and shouldn't be runny.
+
+Save about 1 liter of white frosting before you color anything. This matters. Too little and the colors turn watery and thin. Too much and you won't have enough white left for the crumb coat.
+
+Trim the cake tops with a serrated knife. Those domes trap steam and throw the stack off. Flat layers. Level. That's stability.
+
+Crumb coat goes on the first layer. 180 milliliters of white frosting spread thin across the top. Pop the second layer on top. Frosting the whole outside in white — not perfect, not smooth yet, just covered. Fridge for 20 to 30 minutes. The crumb coat locks the crumbs down. Then the colored frosting goes on without pulling cake apart.
+
+Colors: red frosting gets cocoa powder mixed in with the red gel color. The cocoa deepens it into scarlet instead of flat pink. Stir it thoroughly. Gel colors are thick — they don't mix like liquid. If the frosting gets stiff, add a tiny bit of milk or vanilla.
+
+For the other colors, divide the remaining frosting into 5 bowls. About 150 milliliters each. Add one gel color to each bowl — purple, blue, green, yellow, orange. Stir each one until the color's even.
+
+Spread 125 milliliters of red frosting across the top of the cake. Smooth it or leave peaks. That's your base.
+
+Piping tip on the pastry bag — large round. Pipe a dot of red frosting at the cake's edge to mark where you're starting. Use a small spatula or the back of a teaspoon to press and smooth that dot horizontally about an inch around the cake. Pipe the next color, smooth it, repeat. Each band overlaps slightly so cake doesn't show through.
+
+Red, purple, blue, green, yellow, orange. Around and around. Slow turns of the cake help. Chill for at least 30 minutes before you cut into it.
+
+## Rainbow Cake Tips and Common Mistakes
+
+Eggs have to be room temperature or they won't whip. Cold eggs don't aerate.
+
+Underwhipped eggs means dense cake. Don't skip the 9 to 11 minutes. The ribbon test is real.
+
+Never use butter instead of oil in the batter. Butter solidifies and changes the whole texture.
+
+Cake flour works but the layers get fragile. All-purpose holds the frosting weight better.
+
+If batter looks too thick, add milk one tablespoon at a time. Fold gently.
+
+If the cake browns too fast on top, tent it with foil halfway through.
+
+Buttermilk works for the milk — adds tang, makes it slightly more tender.
+
+Gel color stains everything. Dedicated spoons save time and mess.
+
+Frosting grainy or split? Warm it in your hands, then whip it at medium speed.
+
+If the crumb coat still shows crumbs after the fridge, put on a thin second one and chill again.
+
+Color gels need actual mixing to be even. Don't rush it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Rainbow Layer Cake
+
+**Can I make this cake ahead of time?**
+Bake it a day or two before. Cool completely, wrap each layer individually in plastic, freeze if you want. Frost it the day you're serving. Buttercream's fine in the fridge for weeks.
+
+**What if I don't have gel food coloring?**
+Liquid coloring makes the frosting too thin and watery. Don't bother. Order gel online or use what you have. The cake tastes the same without the rainbow — just frost it all white or one color.
+
+**Why does my cake sink in the middle?**
+Oven's too hot or you're opening it too much. Also underbaking — if it's not fully set, it collapses when it cools. Toothpick should have moist crumbs, not wet batter.
+
+**Can I use a different oil?**
+Olive oil works because it's light and stays tender. Avocado oil does too. Coconut oil changes the flavor. Vegetable or canola are fine but more neutral — you lose that subtle fruitiness olive oil adds.
+
+**How do I get clean frosting bands without colors bleeding?**
+Chill the crumb coat properly. Gel colors mixed thoroughly. Don't second-guess yourself while piping — smooth once, move on. If a band bleeds, chill the whole cake and gently scrape it off with a warm metal spatula.
+
+**Is this cake vegetarian?**
+Yeah. No animal products except eggs and butter and milk in the frosting. It's straightforward.
