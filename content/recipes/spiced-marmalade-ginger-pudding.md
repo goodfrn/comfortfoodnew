@@ -1,10 +1,10 @@
 ---
-title: "Spiced Marmalade Ginger Pudding"
+title: "Coconut Oil Baking: Ginger Steamed Pudding"
 slug: "spiced-marmalade-ginger-pudding"
-description: "Light ginger-infused steamed puddings with a marmalade glaze reduced with fresh ginger and lemon zest. Adjusted flour and sugar ratios for a soberer sweetness, swapped butter for coconut oil to bring a tropical warmth, replaced milk with almond milk for creaminess without dairy, and added cinnamon to deepen spice layers. Cooking times slightly extended for steady steaming. Best watched not by clock but by jiggle and toothpick test. Serve warm. A sticky, gingery syrup to pour on is non-negotiable."
-metaDescription: "Spiced Marmalade Ginger Pudding steamed softly with coconut oil and almond milk. Bright marmalade glaze thickened with fresh ginger and lemon zest. Warm comfort edible."
-ogDescription: "Ginger and marmalade meet in a softly steamed pudding. Coconut oil, almond milk, layer spices, plus syrup with fresh ginger and lemon zest. Jiggle test key."
-focusKeyphrase: "Spiced Marmalade Ginger Pudding"
+description: "Ginger steamed pudding made with coconut oil, almond milk, and orange marmalade glaze. Light, spiced sponge cake with fresh ginger and lemon zest for a tropical warmth."
+metaDescription: "Coconut oil baking pudding recipe with ginger, cinnamon, and tangy orange marmalade glaze. Steamed sponge cake using almond milk instead of dairy. Make it tonight."
+ogDescription: "Ginger steamed pudding with coconut oil, orange marmalade, and fresh ginger. Warm, sticky, spiced sponge cake made dairy-free with almond milk."
+focusKeyphrase: "coconut oil baking"
 date: 2025-08-09
 draft: false
 image: spiced-marmalade-ginger-pudding.jpg
@@ -20,9 +20,18 @@ tags:
 - "cinnamon"
 - "dessert"
 keywords:
-- "ginger pudding"
-- "marmalade glaze"
-- "coconut oil pudding"
+- "coconut oil baking"
+- "ginger steamed pudding"
+- "ginger steamed pudding recipe"
+- "ginger sponge pudding"
+- "cakes with coconut oil"
+- "orange marmalade dessert"
+- "marmalade desserts"
+- "virgin coconut oil for baking"
+- "ginger sponge"
+- "pressure cook christmas pudding"
+- "dessert with orange marmalade"
+- "marmalade cake easy"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "260"
@@ -70,3 +79,95 @@ faq:
 - "q: Best storage method? a: Covered fridge up to 3 days. Microwave under foil for 1-2 minutes or re-steam 3-4 mins. Cold pudding sticks unmold; warm puddings slide easier when plating."
 
 ---
+
+Softened coconut oil and sugar go into the bowl first—not together, stir them until it's creamy but don't overbeat it. Coconut oil works different than butter. That's the whole thing.
+
+## Why You'll Love This Coconut Oil Baking Pudding
+
+Takes 1 hour 25 minutes total—30 minutes prep, 55 minutes baking. One bowl for the batter. One saucepan for the syrup.
+
+Spiced. Citrus hits you on the second bite. The lemon zest and orange marmalade syrup isn't optional—without it, feels incomplete.
+
+Steamed pudding, so it stays moist inside no matter what. No dry cake energy. Reheats in the microwave and tastes almost the same.
+
+Warm. That's the whole point. Dessert that feels like something, not just sugar. Works cold too but it's different—less of a thing.
+
+Coconut oil keeps the crumb tender without being heavy. Not health food or anything. Just works better than butter here.
+
+## What You Need for Coconut Oil Baking Pudding
+
+All-purpose flour—105 grams, sifted. Baking powder, 6 ml. Ground ginger and cinnamon both matter; stale spices make it taste like nothing. Fresh ginger's in there too, grated, 10 ml. Don't skip that.
+
+Coconut oil. 75 grams, softened. Not melted. Softened. Big difference. Refined coconut oil works fine if you don't want the coconut flavor. Virgin coconut oil for baking works too—changes the taste slightly, nothing wrong with it.
+
+Raw cane sugar, 60 grams. Two medium eggs. Almond milk, 60 ml—any milk works, but almond keeps it light.
+
+Water for the bain-marie. 250 ml. That goes in the roasting pan, not the batter.
+
+The syrup: 150 ml orange marmalade, tangy kind. 10 ml grated ginger. Lemon zest, 5 ml, finely grated. Water to thin it out while it cooks.
+
+Ramekins. Six small ones, oven-safe. Foil to cover them. Deep roasting pan for the water bath.
+
+## How to Make Coconut Oil Baking Pudding
+
+Heat the oven to 175°C. Middle rack. Butter six small ramekins or coat them with coconut oil—oil's less sticky than butter, stays on better.
+
+Sift the flour, baking powder, ground ginger, and cinnamon into a bowl. This part matters. Fresh spices. If they've been sitting since last year, they're flat. Start over.
+
+Whisk the softened coconut oil and sugar until it looks creamy. Don't overbeat. Coconut oil breaks differently than butter does. Add eggs one at a time. Mix in well after each one. No streaks.
+
+Fold in the dry ingredients alternated with the almond milk. Fold. Not stir hard. The paste should be thick but still loose enough to drop from a spoon. No dry clumps hiding in there.
+
+Pour the batter into the ramekins. Fill about 3/4 full because it puffs up. Cover each one tightly with foil. This prevents a skin from forming on top while it steams—nobody wants that.
+
+## How to Get Coconut Oil Baking Pudding Perfectly Steamed
+
+Place the ramekins in a deep roasting pan. Pour boiling water into the pan until it comes halfway up the sides of the ramekins. No splashing into the batter. Water bath is just heat, that's all it does.
+
+Bake 50 to 60 minutes. Check around the 50-minute mark with a toothpick. It should come out with a few moist crumbs on it. Not wet. Not dry either. The puddings jiggle gently when you move the pan. They solidify as they cool. That's normal.
+
+While they're steaming, make the syrup. Combine the water, marmalade, grated ginger, and lemon zest in a saucepan. Bring it to a gentle boil. Lower the heat. Simmer until it reduces by roughly one-third. It should be thick and glossy. Sharp citrus-spice heat—that's the point.
+
+Remove the ramekins from the water bath carefully. Peel the foil off. Invert each pudding onto a plate while it's still warm. Warm puddings unmold easier. Cool ones stick.
+
+Drizzle the sizzling marmalade syrup over the top. The syrup is essential. Without it, the pudding feels dull. With it, it's complete.
+
+## Coconut Oil Baking Tips and Common Mistakes
+
+Don't use melted coconut oil. Softened. It changes how the batter comes together. Melted makes it dense.
+
+Refined coconut oil tastes like nothing. Virgin coconut oil for baking tastes like coconut. Pick depending on what you want. Both work.
+
+Stale spices ruin this. Ground ginger and cinnamon lose flavor after six months sitting open. Get fresh ones or don't bother.
+
+The water bath matters. It's what makes it steamed and moist instead of baked and dry. Don't skip it.
+
+Cover with foil or the top gets a weird skin. Tight. Don't half-cover it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Coconut Oil Baking Pudding
+
+**Can I use olive oil in brownies or desserts instead of coconut oil?**
+Olive oil works but tastes like olive oil. It's not a straight swap. Cakes with coconut oil stay tender. Olive oil makes them greasy. Just use coconut oil here.
+
+**How long does the pudding keep?**
+Three days in the fridge, covered. Reheats in the microwave under foil for 3 to 4 minutes or steam it again for the same time. Tastes almost the same reheated.
+
+**Can I make these as one big cake instead of individual ramekins?**
+Probably. Baking time changes though. Maybe 70 minutes instead of 55. You'd need to check it. A 9-inch cake pan maybe. Haven't tried it personally.
+
+**What if I don't have almond milk?**
+Any milk works. Whole milk, oat milk, coconut milk—doesn't matter. The almond milk just keeps it light. Use what you have.
+
+**Can I use baking using coconut oil in other recipes with this method?**
+This specific method—the water bath, the spices, the marmalade syrup—works best for steamed puddings. Regular baking using coconut oil works fine in cakes and cookies, different approach entirely. Totally different thing.
+
+**Is the marmalade syrup really necessary?**
+Yes. Without it, it's just a spiced sponge. With it, you get that sharp citrus-spice heat. The whole dessert needs it.
+
+**What about the best coconut oil for baking—does it have to be a specific brand?**
+Doesn't matter. Refined coconut oil for baking, virgin, whatever. As long as it's softened and fresh-ish. No rancid oil.
+
+**Can I pressure cook this instead of steam it in the oven?**
+Different equipment, different method entirely. Wouldn't work the same way.
