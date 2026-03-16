@@ -1,10 +1,10 @@
 ---
-title: "Meaty Cheesy Macaroni Bake"
+title: "Beef Macaroni Bake with Cheddar Mozzarella"
 slug: "meaty-cheesy-macaroni"
-description: "Macaroni tossed in a rich tomato-beef ragout, layered with creamy cheese sauce and browned mozzarella cheddar crust. Beef browned just right, sauce thickened not too thin or pasty, cheesy top melted and bubbly. Uses fresh thyme and a pinch of chili flakes for subtle punch. Oven finished to golden glory, broiling optional for that extra crust. Swapped Dijon mustard for grainy for texture and tang. Water reserved from pasta to loosen sauce if thickens too much. Fat content balanced with lean ground beef and moderate butter. No eggs, no nuts—simple, hearty, and gratifying."
-metaDescription: "Meaty Cheesy Macaroni Bake layered rich beef ragout, creamy cheese sauce, browned mozzarella cheddar crust. Savory thyme and chili flakes, baked golden brown."
-ogDescription: "Macaroni wrapped in thick tomato-beef sauce, creamy cheese, and crispy browned crust. Thyme, chili flicker, grainy mustard tang. Oven-baked comfort food."
-focusKeyphrase: "Meaty Cheesy Macaroni Bake"
+description: "Beef macaroni bake layers ground beef ragout, creamy cheese sauce, and sharp cheddar mozzarella crust. Made with tomato paste, fresh thyme, and grainy mustard for rich comfort food."
+metaDescription: "Beef macaroni bake combines lean ground beef, tomato sauce, and sharp cheddar mozzarella. Creamy, cheesy, and golden-topped. Make it tonight."
+ogDescription: "Layered beef macaroni with creamy cheese sauce, sharp cheddar, and mozzarella crust. Comfort food that's hearty and satisfying."
+focusKeyphrase: "beef macaroni bake"
 date: 2025-09-30
 draft: false
 image: meaty-cheesy-macaroni.jpg
@@ -21,9 +21,16 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "macaroni bake"
-- "beef pasta"
-- "cheese sauce"
+- "beef macaroni bake"
+- "macaroni and cheese with ground beef"
+- "cheesy beef pasta casserole"
+- "baked macaroni with tomato beef sauce"
+- "creamy cheese sauce beef macaroni"
+- "tomato beef ragout macaroni"
+- "ground beef macaroni comfort food"
+- "macaroni bake mozzarella cheddar"
+- "beef pasta casserole recipe"
+- "hearty macaroni beef dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "520"
@@ -79,3 +86,134 @@ faq:
 - "q: How to store leftovers best? a: Fridge in sealed container, consume 2-3 days. Reheat oven or microwave, add splash milk if dry. Freeze in portions okay but cheese crust may lose crispness. Defrost gently for best texture."
 
 ---
+
+Macaroni goes in undercooked. Beef gets browned crispy. Sauce goes over everything. Then it bakes until the top turns golden and the edges bubble. That's it. The whole thing takes 1 hour 20 minutes, but most of that's just waiting.
+
+## Why You'll Love This Meaty Cheesy Macaroni Bake
+
+Takes a long time but barely needs you for most of it.
+Beef actually tastes like beef — not ground-up nothing. You brown it hard, let the crust form.
+Cheese melts in two places. Inside the pasta. Then crusty on top. Different texture, same flavor.
+Comfort food without the guilt trip. Sharp cheddar and part-skim mozzarella — you get both. Balanced.
+Cold the next day. Tastes better somehow, maybe because the flavors settle overnight.
+Pasta stays chewy instead of turning to mush like it does in the pot.
+
+## What You Need for Meesy Beef Pasta Casserole
+
+Macaroni — 340 grams, the short curly kind. Regular pasta works but doesn't hold sauce the same way.
+
+Ground beef. 500 grams, lean. The fat matters less than the browning. Crusty bits are where flavor lives.
+
+Vegetable oil. 45 ml total — split it. Two tablespoons for beef, rest for onions. Olive oil burns at the temperature you need for browning meat.
+
+Onion and garlic. One medium onion minced small. Two cloves garlic. Not a spreadsheet ingredient — a flavor base that makes everything taste like food instead of recipe.
+
+Tomato paste. 45 ml. Not tomato sauce. The concentrated stuff. Different animal.
+
+Fresh thyme. Five ml loose leaves. Dried thyme tastes like hay compared to this. Not the same thing.
+
+Red pepper flakes. A quarter teaspoon. Barely there. Just a feeling.
+
+Canned tomatoes — 540 ml. The diced kind. Juice and all.
+
+Beef stock. 125 ml. Half a cup. Doesn't need to be fancy.
+
+Butter and flour for roux — 40 grams butter, 30 grams flour. Butter melts easier than searching for substitutes.
+
+Whole milk. 500 ml, two cups. Temperature matters less than people say. Just don't use skim.
+
+Cheese — 200 grams sharp cheddar, 200 grams part-skim mozzarella. Both grated. Sharp cheddar alone tastes sharp. Mozzarella alone tastes like nothing. Together they work.
+
+Grainy mustard. 15 ml, one tablespoon. Smooths everything out without tasting like mustard.
+
+Salt and pepper throughout. Not just at the end.
+
+## How to Make Cheesy Beef Pasta Casserole
+
+Get a big pot of salted water going. High heat. Let it actually boil — rolling boil, not a simmer. That matters for pasta texture.
+
+Dump the macaroni in. It'll take about 7 minutes to almost cook through. You want it with a tiny bite left. Chewy. Not soft. It'll finish in the oven.
+
+Before you drain it, scoop out half a cup of that starchy water. The best part. Looks useless. Fixes dry sauce later.
+
+Drain the pasta, set it aside.
+
+Large skillet, high heat. Pour in two tablespoons of oil — let it get hot, like actually shimmering. Drop in the ground beef. Don't touch it for a minute. Let it sit and brown. Then break it apart with a wooden spoon. You're hunting for crusty bits, the deep brown stuff that sticks to the pan. Eight minutes total, maybe more. Salt and pepper while it cooks. Flavor builds now, not later.
+
+Pull the browned beef out into a bowl.
+
+Same pan. Reduce heat to medium-high. Add the rest of the oil. Onion and garlic go in — let them soften, go translucent, smell sweet. About 4 minutes. Don't rush it.
+
+Tomato paste goes in next. Stir it around for a minute with the thyme and red pepper flakes. This is where it stops smelling raw.
+
+Tomatoes in. The juice too. Beef stock. Return the beef. Simmer it uncovered, stirring now and then, until the liquid mostly evaporates and you've got a sauce instead of soup. Fifteen minutes, roughly. Thick but still moist. Not paste.
+
+## How to Get the Cheese Sauce Right
+
+Stir the macaroni into the beef sauce. Coat every piece. Medium heat, keep stirring for 2 or 3 minutes. The sauce clings to pasta better when everything's warm and moving.
+
+Looks too dry? Use that pasta water you saved. Splash a little at a time. Watch it. Taste the salt now and adjust. Stop when it tastes right.
+
+Take it off heat.
+
+Use the same pot you cooked pasta in — saves a dish, and the bottom's already wet so nothing sticks as bad. Medium heat, melt the butter. Don't let it brown. Once it's liquid, whisk in the flour. Stir constantly for one minute. It'll smell nutty. That's the roux cooking out its raw taste.
+
+Milk goes in slowly while you whisk. Keep whisking — lumps form if you don't. Bring it to a gentle boil, and whisk hard until the sauce thickens. Takes about 2 minutes. It should coat a spoon.
+
+Off heat. Fold in half the cheddar and mozzarella plus the grainy mustard. Let it melt into smooth. The mustard dissolves completely. Salt and pepper to taste. It should taste creamy and sharp at the same time.
+
+Pour the cheese sauce over the beef pasta. Spread it so everything's coated. Sprinkle the rest of the cheese on top.
+
+## Baked Macaroni With Tomato Beef Sauce Tips
+
+Preheat to 215°C, that's 420°F. Center rack.
+
+Transfer everything to a baking dish if the skillet's not oven-proof. Doesn't matter which.
+
+Bake 12 to 15 minutes. You're waiting for the sauce to bubble hard around the edges and the top to turn golden. Not pale. Golden.
+
+Still looks pale? Switch to broil for 2 or 3 minutes. Don't walk away. Broil can burn it in seconds.
+
+Let it rest 5 minutes before you eat it. The sauce sets up more, holds together better. The cheese gets less stringy.
+
+Grainy mustard adds texture — swap for Dijon if you want smooth instead. Doesn't change much.
+
+Lean beef keeps the fat down, but pork or turkey work. Season them slightly more. They're blander.
+
+Pasta water is the trick nobody uses. Looks like nothing. Changes everything.
+
+Oven-proof skillet saves you from dirtying another dish. But a baking dish is fine. This isn't precious.
+
+Brown the beef hard. Let the crust form. Don't stew it gently.
+
+Fresh thyme tastes like an herb. Dried tastes like you're cooking from a container. Not the same.
+
+Watch the smell and the color. That's when you know it's ready — not a timer.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Macaroni and Cheese With Ground Beef
+
+**Can I use a different pasta instead of macaroni?**
+Sure. Penne, shells, anything that holds sauce. Macaroni traps sauce inside the tubes — that's why it works best. But nothing's going to ruin this.
+
+**How do I know when the beef is browned enough?**
+When it's not red anymore and you see crusty dark brown bits stuck to the pan. That brown stuff is flavor. Don't wash it out. Eight minutes if you're going hard. Sometimes longer.
+
+**Should I use whole milk or can I use 2% milk?**
+Whole milk makes a richer sauce. 2% works. It'll be slightly thinner. Skim doesn't work — tastes like nothing and won't thicken right.
+
+**Can I assemble this ahead and bake it later?**
+Yeah. Stick it in the fridge after you pour the cheese sauce on. It'll keep for a day. Bake it straight from cold — add maybe 3 more minutes. The cheese takes longer to heat through.
+
+**What if the cheese sauce is lumpy?**
+You didn't whisk while the milk went in. Too late now. Strain it through a fine sieve if it bothers you. Honestly it'll taste fine either way. Next time just keep the whisk moving.
+
+**Can I freeze the leftovers?**
+Freezes okay. Thaw it in the fridge overnight. Reheat it covered at 160°C until warm through — about 20 minutes. The cheese sauce gets a bit grainy when it freezes but still tastes good.
+
+**Why use part-skim mozzarella instead of whole milk?**
+Part-skim melts better and doesn't make the sauce greasy. Whole milk mozzarella clumps sometimes. Doesn't matter hugely but part-skim is easier.
+
+**What does grainy mustard actually do?**
+Adds texture and smooths out sharp cheese flavors. You don't taste mustard. It's just there. Dijon works if you prefer smooth.
