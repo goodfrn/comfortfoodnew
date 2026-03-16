@@ -1,10 +1,10 @@
 ---
-title: "Spinach Scallion Tomato Shrimp Omelette"
+title: "How Do You Make An Omelet with Shrimp"
 slug: "spinach-scallion-omelette"
-description: "A quick single-serving omelette featuring shrimp, spinach, scallions, tomatoes and mozzarella. Eggs whipped with cream for fluffiness. Butter-seared, bubbles pricked for even cooking, flipped gently. Mozzarella melted inside and on top, folded carefully to lock flavors. Substitution options, timing cues based on appearance and texture, and tips for common mishaps included."
-metaDescription: "Spinach scallion tomato shrimp omelette with fluffy eggs whipped with cream, butter-seared, mozzarella melted inside and on top, folded carefully to lock flavors."
-ogDescription: "Fluffy eggs with cream, butter-sizzled, shrimp and veggies folded with melting mozzarella. Timing cues, substitutions, practical tips included for cook's confidence."
-focusKeyphrase: "shrimp omelette"
+description: "Learn how to make an omelet with shrimp, spinach, and mozzarella. Fluffy eggs whipped with cream, butter-seared and folded perfectly for restaurant-quality results."
+metaDescription: "How do you make an omelet? Master this shrimp and spinach omelet with eggs, cream, and mozzarella cheese. Try it tonight."
+ogDescription: "Fluffy shrimp omelet with spinach, tomatoes, and melted mozzarella. Learn the perfect technique for restaurant-quality eggs."
+focusKeyphrase: "how do you make an omelet"
 date: 2025-12-16
 draft: false
 image: spinach-scallion-omelette.jpg
@@ -21,9 +21,16 @@ tags:
 - "spinach"
 - "easy"
 keywords:
-- "omelette recipe"
-- "shrimp eggs"
-- "spinach scallion tomato"
+- "how do you make an omelet"
+- "how to make an omelette"
+- "spinach omelette"
+- "how to make omelette fluffy"
+- "shrimp omelet"
+- "cheese omelet"
+- "how to cook an omelet"
+- "fluffy omelette recipe"
+- "mozzarella omelet"
+- "how many eggs for an omelet"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "320"
@@ -65,3 +72,80 @@ faq:
 - "q: How store leftovers? a: Refrigerate in airtight container, eats best same day. Reheat slow on pan to avoid rubbery eggs, microwave toughens quickly. Freeze not recommended; eggs lose texture. Leftover veggies tend to release water making soggy texture once reheated."
 
 ---
+
+Crack eggs into a bowl. Whisk until they're pale and just barely frothy—that air matters more than you'd think. Butter's already hot in the pan, that specific smell right before it burns. Pour it in. Watch the edges set while the middle stays loose. Shrimp goes on one half. Spinach. Mozzarella. Fold. Done. Eleven minutes start to finish.
+
+## Why You'll Love This Shrimp and Spinach Omelet
+
+Takes 11 minutes total. That's prep, that's cook, that's done. Easy breakfast on a Tuesday morning when you're half asleep.
+
+The shrimp makes it feel fancy but it's literally cooked shrimp from the store. Spinach disappears into the eggs—tastes better than it sounds. 
+
+Mozzarella melts into this soft, salty layer. Not cheddar. Different thing entirely.
+
+Works cold the next day if you actually have leftovers. Probably won't.
+
+Flipping it feels harder than it is. Actually does it in one motion once you try.
+
+## What You Need to Make an Omelet
+
+Two large eggs. Not medium. The size matters for the pan-to-fill ratio. Heavy cream or milk whisked right in—makes the eggs puff slightly when they hit heat. Regular milk works. So does nothing. Butter's non-negotiable. Unsalted. Clarified butter burns slower but regular unsalted is fine.
+
+Fifty grams of cooked shrimp. Cold from the fridge is okay. Smoked salmon works too. So does tofu if you're not eating shrimp. Crumbled, diced, whatever—just distributed.
+
+A quarter cup of spinach, chopped rough. Doesn't have to be perfect. Two scallions sliced thin. Five cherry tomatoes, each one quartered. A quarter cup of shredded mozzarella—and this one matters. Fresh mozzarella gets weird when you cook it. Low-moisture stuff like part-skim is what works here. Feta if you want tang instead.
+
+Salt. Black pepper. That's it.
+
+## How to Make an Omelette That Actually Works
+
+Medium skillet. Medium heat. Butter goes in and you watch it. Not brown. The foam subsides, still pale, and there's that gentle sizzling sound. That's your signal.
+
+Eggs get cracked into a bowl. Both of them. Cream or milk poured on top—doesn't have to be exact, two tablespoons is the range. Whisk it hard. Or use a blender for like five seconds. Either way, you're trapping air. The eggs should be pale and thickened, slight froth on top. This part's important even though it looks like nothing.
+
+Pour the whole thing into the hot pan evenly. Bubbles form at the edges immediately. Don't touch it. Fifty to fifty-five seconds, just sitting there. The edges firm up. The center stays soft. That's when you know.
+
+## How to Cook an Omelet With Shrimp and Spinach
+
+Sprinkle half the omelet with everything—shrimp, scallions, spinach, tomato. Mozzarella goes right on top of that. Salt and pepper scattered gently.
+
+The surface might bubble sporadically. Use a fork tip to pop the bubbles. Keeps the texture even. Listen for the faint sizzling. It slows down as you go.
+
+Slide a thin spatula under it. Loosen the edges. If the pan feels dry or it's sticking, add a small pat of butter. Now the flip. Swift movement. One motion. If you can't commit to it, do it in two parts—flip half over first, then fold the other side. Cook the second side one to one point five minutes. Watch for pale golden. Not brown. The cheese melting inside is the goal.
+
+## How to Make the Perfect Omelet — Tips and Common Mistakes
+
+Don't whisk the eggs half-heartedly. The air makes it fluffy. Slack eggs make a rubbery omelet. Also don't wait for the eggs to fully set in the pan—that's when it gets tough. You want soft center still.
+
+Overcrowding kills it. Too many fillings and the thing breaks apart when you flip. Half the pan is your limit. Save toppings for the fold.
+
+Butter temperature is everything. Smoking means it's too hot. No sizzle means it's too cold. That middle spot where it smells good and sounds right—that's the place.
+
+The flip is easier than you think. You're lifting the whole thing at once, not scraping. Confidence helps. Or just fold it slow.
+
+Second side cooks fast. Thirty seconds sometimes. Watch it. Dark spots mean you overshot.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About How to Make an Omelet
+
+**Can I make an omelet without cream?**
+Yeah. Water works. Milk works. Nothing works too. The cream just makes it puff a tiny bit more. Not essential.
+
+**What if I don't have shrimp?**
+Smoked salmon. Cooked chicken. Literally any protein. Tofu if that's your thing. The omelet doesn't care.
+
+**How do I flip it without breaking it?**
+One fast movement. Spatula under the whole thing, wrist flick, it lands. Or fold it in half while it's still in the pan. Slower but safer. Works just fine.
+
+**Should I use a nonstick pan?**
+Stainless steel works. Cast iron works. Nonstick is easier. Pick whatever you have.
+
+**What if the spinach is frozen?**
+Thaw it. Squeeze out the water. Too much liquid and the omelet gets soggy. Dry it as much as you can.
+
+**Can I make this ahead?**
+Not really. Omelets are one of those things you make right before eating. Reheats weird. Cold one the next day tastes fine—just different texture.
+
+**What's the difference between an omelet and scrambled eggs?**
+This one folds. Stays together. Scrambled eggs you break apart as you go. Different techniques, same eggs. Omelets look fancier for basically the same effort.
