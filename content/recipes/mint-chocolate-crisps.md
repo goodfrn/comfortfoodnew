@@ -1,9 +1,9 @@
 ---
-title: "Mint Chocolate Crisps"
+title: "Mint Chocolate Crisps with Peppermint Extract"
 slug: "mint-chocolate-crisps"
-description: "Crunchy chocolate mint cookies chilled for flavor depth then dipped in mint chocolate glaze. Sub in almond flour for a nutty twist. Rolled thin for just right snap. Peppermint extract swapped with spearmint brings a fresher note. Timing tweaks for chill time and bake help nail texture. Cookies start soft off the sheet, crisp up as they cool. Freeze leftovers to keep vibrant snap. Watch dough cohesion; flour blend key for clean cuts. Reshape scraps swiftly, avoid overwarming or they get sticky frustration. Melted wafers with oil for easy, even coating. Tap off excess, set on parchment, freeze to lock shine. Recipe yields about 48 crisp 2-inch cookies."
-metaDescription: "Mint Chocolate Crisps chill firm then bake crisp edges and soft centers. Rolled thin, dipped in thin mint chocolate glaze with peppermint punch. 48 cookies yield."
-ogDescription: "Crunchy mint chocolate crisps chilled till firm then baked crisp. Thin rolled snap cookies dipped in mint chocolate glaze with peppermint kick. Chill key."
+description: "Crispy mint chocolate cookies made with cocoa powder and peppermint extract, then dipped in mint chocolate wafers. Perfectly crunchy texture."
+metaDescription: "Make mint chocolate crisps with cocoa powder and peppermint extract. Crispy cookies dipped in mint chocolate glaze. Try it tonight."
+ogDescription: "Crispy mint chocolate cookies with peppermint extract and cocoa powder, dipped in mint chocolate wafers for shine."
 focusKeyphrase: "mint chocolate crisps"
 date: 2026-01-25
 draft: false
@@ -21,11 +21,14 @@ tags:
 - "no bake"
 - "dessert"
 keywords:
-- "mint cookies"
-- "chocolate crisps"
-- "chilled dough"
-- "peppermint extract"
-- "cookie rolling"
+- "mint chocolate crisps"
+- "chocolate mint cookies"
+- "peppermint extract cookies"
+- "crispy mint chocolate wafer cookies"
+- "cocoa powder cookies"
+- "mint chocolate dipped cookies"
+- "homemade chocolate mint desserts"
+- "peppermint chocolate cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "110"
@@ -77,3 +80,111 @@ faq:
 - "q: How to store cookies best? a: Freeze or fridge, both work. Freeze for crisp snap, keep in airtight container or zip bag, thaw few min before eating. Refrigerate wrapped tight for few days but cookies soften over time. Room temperature leads to softening from humidity. Chocolate coating keeps well chill or frozen without bloom if set fully."
 
 ---
+
+Cut the dough in half, roll it out between parchment. That's the move. Three garlic— wait, no. Peppermint extract. Two kinds of chocolate, basically. One melted into the dough, one crisped on top. Takes 34 minutes total if you don't overthink it.
+
+## Why You'll Love These Mint Chocolate Crisps
+
+No bake part means you're actually just mixing and rolling. The oven does the heavy lifting for 9 minutes while you do something else.
+
+Chocolate mint cookies that actually taste like mint — not that vague peppermint ghost flavor. You control the extraction.
+
+Works straight from the freezer. Cold cookies, cold chocolate shell. That snap when you bite into them. Doesn't happen with cookies at room temp.
+
+Crispy outside. Center stays soft enough that you don't feel like you're eating a hockey puck. Takes 20 minutes to set right after dipping.
+
+The wafers melt smooth. Not like chopped chocolate that gets grainy. One bowl. One fork for dipping. Cleanup is nothing.
+
+## What You Need for Mint Chocolate Dipped Cookies
+
+Flour. All purpose. Not cake flour.
+
+Cocoa powder — unsweetened. The dark kind. Hershey's works.
+
+Cornstarch. A tablespoon. Helps with the crispness. Skip it and the cookies get tender instead.
+
+Baking powder. A teaspoon.
+
+Salt. Half teaspoon. Sounds small. Matters.
+
+Butter unsalted. A cup. Room temperature means actually soft, not just cool. Cold butter won't cream right.
+
+Two sugars. Three quarters cup granulated, half cup brown packed tight. The brown adds a tiny molasses thing. You could use all granulated. Works. Not the same.
+
+One egg plus one yolk. The yolk does something to the richness. An extra yolk, basically.
+
+Vanilla extract. Pure. Peppermint extract too — three quarters teaspoon in the dough. That's what makes it taste like something.
+
+Mint chocolate melting wafers. Two cups. The kind that come in chips. Ghirardelli or Wilton. They melt without seizing.
+
+Vegetable oil. A tablespoon. Thins the melted chocolate so it coats smooth. Without it, it gets thick and clumpy.
+
+## How to Make Mint Chocolate Cookies
+
+Start with the dry stuff. Whisk together flour, cocoa, cornstarch, baking powder, salt in a bowl. Set it aside. This takes two minutes.
+
+Butter and sugars go in next. Paddle attachment or hand mixer on medium speed. Cream it for about two to three minutes until it looks pale and fluffy — not grainy anymore. Stop and scrape the bowl sides halfway through. That matters more than you think.
+
+Add the egg, the yolk, vanilla, peppermint extract. Beat it until the mixture looks glossy and totally smooth. The grainy sugar texture disappears. Takes another minute or so.
+
+Now the flour mixture. Add it on low speed. Mix until the dough comes together without any dry patches. It'll stick a tiny bit — that's correct. Don't overmix. You want it just combined.
+
+Split the dough in half. One half goes on parchment paper. Cover it with another sheet of parchment on top. Roll to a quarter inch thick — use a measuring stick if you need to. Repeat with the other half. If the dough gets warm while you're rolling, pop it in the fridge for ten minutes to firm up.
+
+Now stack everything. The rolled dough with parchment between the layers goes on a baking tray. Cover the whole thing and chill. Minimum two hours in the fridge. Forty-five minutes in the freezer works too. You can hold it chilled for 40 to 48 hours wrapped tight if you want to bake later.
+
+## How to Get Crispy Mint Chocolate Cookie Edges
+
+Preheat the oven to 350 degrees. Line baking sheets with parchment or silicone mats.
+
+Peel off the top parchment from your dough. Cut circles two inches diameter. Scalloped edges if you want to be fancy. Plain works just as well. Space them an inch and a half apart on the sheet — they spread a bit.
+
+Scraps get gathered up and rolled again. If the dough got warm, chill it quick. Cut more cookies. No waste.
+
+Bake for eight to nine minutes. Watch for the edges to set while the center stays slightly soft. Not raw, not baked through. Eight minutes usually. Nine if your oven runs cool.
+
+Let them sit on the hot sheet for five to eight minutes. They firm up off heat — that's where the crisp develops. Don't rush this part. Transfer to a wire rack after that and let them cool completely. The crispness keeps building.
+
+Melt the chocolate wafers with the vegetable oil in a microwave-safe bowl. Heat 30 seconds, stir, heat 30 seconds again. Keep going until it's smooth and thin enough to coat — it should be pourable but not watery. Stir in an extra quarter teaspoon of peppermint extract for a sharper punch if you want it.
+
+Use a fork to dip each cookie fully into the chocolate. Lift it out, tap the fork on the side of the bowl to shed the excess coating. Place it on parchment. Let it sit until the chocolate hardens — about 20 minutes at room temp. Freeze them for 5 minutes if you're impatient.
+
+## Mint Chocolate Cookie Tips and Common Mistakes
+
+Dough temperature ruins everything. If it's too warm, the rolled cookies spread when you cut them. If it's too cold, it cracks. There's a sweet spot. Keep parchment on top and bottom.
+
+The cocoa powder has to be unsweetened. Sweetened cocoa is different — less intense, less crisp. Completely changes the texture.
+
+Cornstarch gets skipped sometimes. People think it's optional. It's not. Removes cornstarch and the cookies get cakey. Keep it.
+
+Peppermint extract goes two places — in the dough and in the melted chocolate. Both. The dough one is subtle. The chocolate one is sharp. Together they balance out. One alone tastes flat.
+
+Don't overmix the flour in. Stop the mixer the second you don't see dry patches anymore. Another 30 seconds and the cookies get tough. The gluten network tightens.
+
+Baking time is the second most important thing after dough temp. Eight to nine minutes. Underbaked and the center is doughy. Ten minutes and the edges burn. Your oven probably runs hot or cool — adjust by a minute either way the second batch.
+
+The wafer melting matters. Too hot and the chocolate breaks. Too cool and it's thick. 30 seconds in, stir, repeat. Slow wins here.
+
+Don't skip the resting time on the baking sheet. That's where the snap comes from.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mint Chocolate Cookies
+
+**Can I use dark chocolate chips instead of mint chocolate wafers?**
+Chopped chocolate seizes up when it melts. Wafers don't. They have something in them that keeps them smooth. You could chop dark chocolate fine and add cocoa butter to thin it, but — wafers are easier. Just do wafers.
+
+**How do I know when the dough is cold enough to cut?**
+Touch it through the parchment. If your finger leaves an indent that doesn't bounce back, it needs more time. Should feel firm like cold butter. That's the moment.
+
+**Do these need to stay in the freezer?**
+Cold helps them stay crispy. Room temp and they soften after a day. Fridge for three days max. Freezer keeps them good for weeks. I always freeze them.
+
+**What if the chocolate coating cracks when I dip?**
+It's too cool. Melt it 10 more seconds. Or the cookies are too cold — let them warm up to room temp first. Cold plus cold equals shock and cracking.
+
+**Can I make these ahead for a party?**
+Make them five days before. Freeze uncoated. Dip them the day of. The chocolate stays fresher and the cookies don't absorb moisture from the air.
+
+**What's the difference between peppermint extract and peppermint flavoring?**
+Extract is pure. Flavoring is diluted with other stuff. Extract tastes sharper, more real. Extract. That's it.
