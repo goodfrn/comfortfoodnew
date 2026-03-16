@@ -1,10 +1,10 @@
 ---
-title: "Rich Caramelized Onion Pasta"
+title: "Caramelized Onion Pasta with Cream Cheese"
 slug: "rich-caramelized-onion-pasta"
-description: "Pasta tossed in deeply caramelized onions, hints of thyme, garlic, and a silky cream cheese sauce. Slow-cooked onions build robust flavor. Easy to tweak with wine or broth substitutes for pantry flexibility."
-metaDescription: "Rich Caramelized Onion Pasta loaded with deep, sweet onions, thyme, garlic, cream cheese sauce, slow-cooked flavor that’s flexible with wine or broth."
-ogDescription: "Deep caramelized onions, thyme, garlic tossed in creamy cheese sauce. Slow cooked bite with wine or broth options for flexible pantry twists."
-focusKeyphrase: "Caramelized Onion Pasta"
+description: "Rich caramelized onion pasta with cream cheese, garlic, and fresh thyme. Slow-cooked onions in beef broth create deep, savory flavor. Easy weeknight comfort food."
+metaDescription: "Caramelized onion pasta recipe with cream cheese, garlic, and thyme in a silky beef broth sauce. Try it tonight."
+ogDescription: "Slow-cooked caramelized onions meet creamy pasta with garlic, thyme, and Parmesan. Comfort on a plate."
+focusKeyphrase: "caramelized onion pasta"
 date: 2026-02-20
 draft: false
 image: rich-caramelized-onion-pasta.jpg
@@ -21,9 +21,15 @@ tags:
 - "easy dinner"
 - "vegetarian"
 keywords:
-- "caramelized onions"
-- "creamy pasta sauce"
-- "slow cooked onions"
+- "caramelized onion pasta"
+- "creamy caramelized onion pasta recipe"
+- "caramelized onion pasta with cream cheese"
+- "slow cooked onion pasta sauce"
+- "pasta with caramelized onions and thyme"
+- "beef broth pasta with onions"
+- "caramelized onions fusilli with garlic"
+- "creamy pasta recipes"
+- "vegetarian comfort food pasta"
 breadcrumb: ["Home", "Recipes", "Pasta and Noodles"]
 nutrition: 
  calories: "320"
@@ -70,3 +76,105 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, store airtight in fridge. Best eaten within 2 days or sauce thickens too much. Reheat gently on low with splash pasta water to loosen. Freeze not recommended—cream cheese and texture suffer on thaw."
 
 ---
+
+Butter hits the pan and stops sizzling the second it goes brown at the edges. That's when the onions go in — handfuls, not all at once. You'll be standing there for almost an hour waiting, and that's exactly the point.
+
+## Why You'll Love This Caramelized Onion Pasta
+
+Takes 67 minutes start to finish but maybe 15 of actual work. Rest of it's just stirring sometimes.
+
+Tastes like comfort. Like something that sat on a stovetop for hours even though it didn't. That's the caramel doing the work — onions turn sweet and dark and somehow they're better than when you started.
+
+Works cold the next day, maybe better. Leftovers don't dry out because the cream cheese keeps everything loose.
+
+One pot if you're willing to boil pasta first, then dump it in. Cleanup barely exists.
+
+Vegetarian but tastes like it shouldn't be. The beef broth — or vegetable, doesn't matter much — gives it weight. Then cream cheese makes it feel richer than butter alone ever could.
+
+## What You Need for Creamy Caramelized Onion Pasta
+
+Six tablespoons unsalted butter. Not margarine. Not olive oil first — butter is non-negotiable here. It browns, that's the flavor.
+
+Four large yellow onions. Thinly sliced. Not thin like paper, just — thin. The knife doesn't have to be fancy. Regular chef's knife works fine.
+
+Three cloves garlic, minced. Maybe four if you're into it. White or yellow garlic doesn't matter. Fresh thyme leaves — fresh, not dried. Dried tastes like hay next to this.
+
+One teaspoon chili flakes. Could be half. Could be more. Depends on your heat tolerance.
+
+Sea salt. Kosher salt works too. Two teaspoons, but you'll add more later. That's normal.
+
+Two tablespoons all-purpose flour. This isn't a thickener thing, it's more about body. Cornstarch works if you're out of flour.
+
+Five cups beef broth or vegetable broth. Low-sodium helps because you're salting anyway. Chicken broth also works but tastes different — less dark, less deep.
+
+Half cup dry white wine if you have it. Splash more to deglaze. Doesn't have to be expensive. Just not cooking wine from a bottle with salt already in it.
+
+Twelve ounces pasta. Fusilli, rigatoni, penne — anything that catches sauce. Not spaghetti. Too skinny, won't hold up.
+
+Six ounces cream cheese at room temperature. Not cold. Cold chunks won't melt smooth.
+
+Fresh parsley for the top. Pecorino or Parmesan — either one. The cheese matters more than you'd think.
+
+## How to Make Caramelized Onion Pasta
+
+Melt the butter in a heavy skillet over medium-high heat. Watch it. Swirl the pan so it browns evenly. The moment it stops foaming and the edges turn golden-brown, dump the onions in.
+
+Stir for three minutes. Just three. Then add another batch if you've got too many to fit. Keep stirring every couple minutes. The onions go from sharp white to glossy and soft. That takes about ten minutes total.
+
+Salt them now. Light sprinkle. The salt breaks down the cell walls, water comes out, they collapse faster. This is the only time you rush it.
+
+Lower the heat to medium-low. Now it gets boring. Stir every three to five minutes. You're waiting for them to turn deep amber. Not brown. Amber. Almost burnt but not quite. Takes around 50 minutes. The smell changes — from raw onion to sweet to almost jammy and caramel-like.
+
+If the bottom starts sticking and browning too dark, splash some wine or broth in and scrape it up. That's deglazing. You want those brown bits mixed back in because they taste incredible. But burnt bits taste bitter. There's a line.
+
+While the onions are doing their thing, boil pasta in salted water. Cook it until it's just shy of tender. Al dente means slight chew left in it, not mushy. Before you drain it, pull out two cups of the cooking water with a mug or measuring cup. You're going to need it.
+
+## How to Get Rich, Silky Caramelized Onion Pasta Sauce
+
+Add the minced garlic, fresh thyme leaves, chili flakes, and another small pinch of salt to the caramelized onions. Stir. Let it go for a minute or two on low heat so the garlic doesn't burn. The smell gets intense. That's right.
+
+Sprinkle the flour over everything. Stir so it coats the onions evenly. It'll bubble up a little and look waxy. That's the flour toasting. Good.
+
+Pour the broth in gradually — not all at once. You're fighting for control here. Stir and scrape the bottom of the pan as you go. Simmer for three to four minutes until it thickens slightly but still moves around the pan. It should look like loose gravy.
+
+Add the drained pasta directly to the skillet. Splash in half a cup of the reserved pasta water. Stir everything together so the noodles get coated in that onion sauce. Each strand should pick up the color and the flavor.
+
+Drop the cream cheese chunks in. Add another half cup of pasta water. Stir constantly until the cream cheese melts completely and the sauce turns velvety and smooth. Every noodle should be coated. If it feels thick or dry, splash more pasta water in. A quarter cup at a time.
+
+Taste it. Add more salt if it needs it. More chili flakes if you want more heat. The sauce should feel silky and cling to the pasta like it was made to be there.
+
+## Caramelized Onion Pasta Tips and Common Mistakes
+
+The biggest mistake is rushing the onions. You can't. Fifty minutes is minimum. Some ovens, some pans — it might take 60. Time doesn't matter. Color does. Dark amber, sweet, not burnt.
+
+Second mistake is adding all the onions at once. They steam instead of caramelize. Work in batches. It feels inefficient. It's not.
+
+Pasta water is everything. Don't dump it. Starchy water is what makes sauce cling instead of sliding off. If your finished pasta feels dry or clumpy, pasta water fixes it. Not more cream cheese. Not more broth. Pasta water.
+
+The white wine is optional but it helps. It adds brightness and lifts those browned bits off the bottom without making it taste boozy. But broth works fine. The taste just sits flatter.
+
+Cream cheese has to be soft or it won't incorporate smoothly. If you forgot to set it out, cut it into smaller pieces and it melts faster. Don't try to force it cold.
+
+Chili flakes are subtle here, not overwhelming. One teaspoon is a background warmth. Could go two. Beyond that it starts announcing itself.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Creamy Caramelized Onion Pasta
+
+**Can I make this without the cream cheese?**
+You could. It'll taste different — thinner, less luxurious. Mascarpone works better if you have it. Sour cream too, but stir it in off heat or it might break.
+
+**What if I don't have white wine?**
+Just use more broth. Doesn't need the wine. The wine's a luxury.
+
+**How much pasta water should I add at the end?**
+Depends on your pan, your noodles, how much sauce clings. Start with what I said — half cup then another half — then trust your eyes. Sauce should move. Shouldn't run.
+
+**Can I use a slow cooker for the onions?**
+Yeah. Four hours on low. Check it a few times. Stir. Takes longer but requires zero attention. Then finish the same way — garlic, flour, broth, pasta, cream cheese.
+
+**Is this actually vegetarian?**
+If you use vegetable broth instead of beef broth, totally vegetarian. Tastes different but still good. Beef broth gives it that savory depth. Vegetable is cleaner, lighter.
+
+**How long do leftovers last?**
+Three days in the fridge easily. Might need a splash of water when you reheat because it tightens up. Or heat it gently in the pan with a little broth. Freezes okay too but texture changes slightly — not bad, just different.
