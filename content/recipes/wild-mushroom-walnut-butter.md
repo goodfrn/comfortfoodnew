@@ -1,10 +1,10 @@
 ---
-title: "Wild Mushroom Walnut Butter"
+title: "Compound Butter with Mushrooms and Walnuts"
 slug: "wild-mushroom-walnut-butter"
-description: "A rustic compound butter blending rehydrated dried wild mushrooms and toasted walnuts. Cream whipped to separate butterfat ensuring richness; nuts toasted for crunch and aroma lift. Herbaceous fresh tarragon swapped for chives to bring sharpness. A pinch of smoked sea salt replaces fleur de sel; black pepper cracked fresh. The end texture spreadable but firm, rolled in parchment for storage. An earthy, nutty, herbaceous butter for breads or roasts."
-metaDescription: "Wild Mushroom Walnut Butter spins earthiness with toasted nuts and fresh tarragon; creamy, firm texture for breads or roasts stored rolled in parchment."
-ogDescription: "Earthy mushroom meets toasted walnut crunch with fresh tarragon. Creamy butter whipped, drained, chilled; rustic, spreadable, ready for savory breads or meats."
-focusKeyphrase: "Wild Mushroom Walnut Butter"
+description: "Compound butter recipe with dried wild mushrooms, toasted walnuts, and fresh tarragon. Whipped cream creates rich, spreadable texture perfect for bread or roasts."
+metaDescription: "Make compound butter with mushrooms, walnuts, and tarragon. Earthy, nutty flavors for steaks and roasts. Try it tonight."
+ogDescription: "Earthy compound butter with mushrooms, walnuts, and fresh tarragon. Perfect for bread and roasts."
+focusKeyphrase: "compound butter"
 date: 2025-08-06
 draft: false
 image: wild-mushroom-walnut-butter.jpg
@@ -21,9 +21,18 @@ tags:
 - "homemade"
 - "easy"
 keywords:
-- "wild mushroom butter"
-- "walnut butter"
-- "compound butter recipe"
+- "compound butter"
+- "compound butter recipes"
+- "compound butter for steak"
+- "herb compound butter"
+- "compound butter ideas"
+- "compound butter for bread"
+- "flavored butter recipes"
+- "compound butter for turkey"
+- "herb butter for steak"
+- "homemade flavored butter"
+- "rosemary compound butter"
+- "make compound butter"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "140"
@@ -68,3 +77,59 @@ faq:
 - "q: How to store leftovers? a: Wrapped tight in parchment or plastic wrap. Chill fridge for up to week. For longer, freeze but butter gets brittle. Avoid fridge smells; wrap tight. Thaw slow in fridge overnight before use."
 
 ---
+
+Steep mushrooms in warm cream first. That's where the whole thing starts. Everything else is just technique.
+
+## Why You'll Love This Compound Butter
+
+Takes 40 minutes total—18 to prep, 22 if you count the resting. Flavor comes from actual ingredients, not from jarred stuff you can't pronounce. The mushroom infusion gives it depth that regular herb butter doesn't touch. Walnuts add texture—a little crunch that catches you. Works on steak, works on turkey, works on literally anything hot. Made at home means you know exactly what's in it. Smoked salt shifts the whole thing. Not overwhelming. Just there.
+
+## What You Need for Homemade Compound Butter
+
+Cream—140 ml of it, 35% fat minimum. Lower fat and it won't separate right. Dried wild mushrooms, finely chopped. Five grams. Not much but it matters. Toasted walnuts, 50 ml chopped. Toast them yourself in a dry skillet—three minutes, watch them constantly or they burn and taste like charcoal. Fresh tarragon, 12 ml minced. Not dried. The fresh stuff has a brightness dried can't match. Smoked sea salt. Just a pinch. Freshly ground black pepper. That's it.
+
+## How to Make a Flavored Butter from Scratch
+
+Heat the cream with mushrooms in a small saucepan until it bubbles at the edges. Not a rolling boil. Just bubbles. Pour it into a bowl, cover it tight, let it sit until it's warm to the touch—around 25 minutes. Don't rush this. The mushrooms soften and infuse everything with this deep, earthy thing that tastes slightly bitter in the best way. The smell alone tells you when it's working.
+
+Add cold cream to the mushroom liquid. Beat it with an electric mixer on medium-high. Eight to ten minutes. You're waiting for curds to form, for the butterfat to actually separate from the buttermilk. It happens. You'll see clumps pulling away from the liquid, getting grainy. Don't overbeat or the whole thing goes greasy and won't come back. Stop when it looks curdled. Seriously.
+
+Drain the whey through a fine sieve lined with cheesecloth or a clean tea towel. Press gently. Squeeze out as much liquid as you can. Let the butter sit on a paper towel to catch whatever's left. This is the difference between spreadable and watery.
+
+## How to Get Compound Butter Right
+
+Transfer the butter to a mixing bowl. Fold in the walnuts and tarragon. Not stirring aggressively. Folding. The walnuts stay intact that way, keep their crunch. The tarragon spreads through evenly. Season it now—smoked salt, black pepper. Taste it. Salt levels vary. Some smoked salt hits different than others. Adjust.
+
+Shape it into a log on parchment or plastic wrap. Roll it tight. Press the seams together so no air gets trapped. Chill for at least an hour. It gets firm but still spreadable. Flavors marry. Butter solidifies without getting hard. Then you slice it, melt it over steak, over turkey, over roasted potatoes. Whatever.
+
+## Compound Butter Tips and Common Mistakes
+
+Dried wild mushrooms aren't all the same strength. Some are intense, some are mild. Adjust the amount or the steeping time depending on what you have. Don't steep longer than 30 minutes or bitterness creeps in and ruins the whole thing. Toast walnuts in a dry skillet over medium-low heat, stirring often, until fragrant with faint smoke. About three minutes. They burn fast. Watch them.
+
+Tarragon could swap for chives if you want—sharper, anise-note contrast. Use less though. Smoked salt could be fleur de sel instead, but the smoky echo is the point. Plain sea salt works. Fresh herbs matter. If you only have dried tarragon or parsley, use less. Dried is concentrated and tastes different.
+
+Don't skip the whey draining step. Too much moisture makes the butter soft, wrecks the spreadability, shortens how long it lasts in the fridge. Wrap it tight so it doesn't absorb fridge smells. Hand whisking works if you don't have a mixer but it's exhausting. You'll know when to stop—curdled texture, liquid separating.
+
+Cream needs 35% fat minimum or the separation doesn't happen. Fresh cream works better than cream that's been sitting. If it's too cold, whipping takes forever. Room temperature helps it along.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Compound Butter for Steak
+
+**Can you make compound butter without an electric mixer?**
+Yeah. Hand whisking works but your arm gets tired fast. Takes longer—maybe 15 minutes instead of 10. Visual cue's the same though. Curds form, liquid separates. You'll see it.
+
+**How long does homemade compound butter last?**
+Wrapped tight in the fridge, goes three to four weeks. Freezer, longer. Months. The whey draining matters here—too much moisture and it gets funky faster.
+
+**Can you substitute the tarragon for something else?**
+Chives work. Parsley. Even just the mushrooms and walnuts alone is good. Tarragon's bright but not mandatory. Fresh beats dried though. Dried tarragon tastes like straw.
+
+**What's the best way to use this as a finishing butter for steak?**
+Slice off a piece, drop it on the hot meat right when it comes off heat. It melts into the cracks and pools. Also works on turkey, grilled vegetables, roasted potatoes. Honestly works on everything.
+
+**Does the mushroom flavor stay strong after the butter chills?**
+It does. Actually gets deeper. The flavors marry while it sits. First hour it's subtle. After that it intensifies. That's why the chilling matters—not just for texture.
+
+**Can you use fresh mushrooms instead of dried?**
+Not the same. Fresh are mostly water. They'd need to cook down first and you'd lose half the mushroom. Dried is concentrated. That's the whole reason to use them. Porcini butter specifically—porcini mushrooms are intense, use half as much.
