@@ -1,10 +1,10 @@
 ---
 title: "Pasta with Roasted Peppers and Asparagus"
 slug: "pasta-with-roasted-peppers"
-description: "A vibrant pasta dish mixing roasted peppers and asparagus with a spicy harissa twist. Uses less oil and swaps onions for shallots to soften sweetness. Adds cherry tomatoes for acidity and fresh basil for brightness. Cooking steps emphasize sensory cues like the sizzle of peppers, translucence of shallots, and tender snap of asparagus—no timers blindly followed. Parmesan replaced with pecorino for sharper bite. Water saved from pasta cooking helps sauce cling, creating silky texture. Vegetarian, dairy-friendly with optional vegan cheese swap. Simple but full of depth through layering flavors and textures with minimal fuss."
-metaDescription: "Pasta with roasted peppers and asparagus tossed in spiced harissa sauce, pecorino cheese, fresh basil. Vegetarian, layered flavors with sensory cooking cues."
-ogDescription: "Roasted peppers meet asparagus and spicy harissa in pasta tossed with pecorino and fresh basil. Watch textures and aromas, no timers needed."
-focusKeyphrase: "pasta with roasted peppers and asparagus"
+description: "Vibrant pasta with roasted red peppers, asparagus, and cherry tomatoes tossed in spicy harissa. Fresh basil and pecorino romano create depth with minimal fuss."
+metaDescription: "Roasted red peppers asparagus pasta with harissa, cherry tomatoes, and pecorino romano. Fresh, vegetarian, and ready in one pan. Make it tonight."
+ogDescription: "Roasted red peppers meet tender asparagus in this harissa pasta with cherry tomatoes and pecorino. Simple, vibrant, vegetarian."
+focusKeyphrase: "roasted red peppers asparagus pasta"
 date: 2025-08-12
 draft: false
 image: pasta-with-roasted-peppers.jpg
@@ -21,9 +21,18 @@ tags:
 - "harissa"
 - "easy dinner"
 keywords:
-- "roasted peppers pasta"
-- "asparagus pasta"
-- "harissa sauce pasta"
+- "roasted red peppers asparagus pasta"
+- "pasta with roasted peppers and asparagus"
+- "harissa pasta recipe"
+- "roasted pepper pasta"
+- "vegetarian pasta"
+- "asparagus pasta with tomatoes"
+- "pasta with harissa and cherry tomatoes"
+- "easy vegetarian dinner"
+- "pecorino romano pasta"
+- "cherry tomato pasta recipe"
+- "shallot garlic pasta"
+- "spicy harissa vegetarian pasta"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "430"
@@ -65,3 +74,106 @@ faq:
 - "q: Leftovers store how? a: Refrigerate in sealed container up to 3 days. Reheat gently with splash of water or extra oil. Avoid microwave overheat or cheese seize up. Can freeze but texture changes; asparagus softens after thawing."
 
 ---
+
+Cut the peppers first. That's where the whole thing starts. Twelve minutes of gentle heat, watching them go from bright red to soft and kind of golden at the edges—this is what makes the sauce actually taste like something. Had a version once where I skipped that step, just threw everything in at once. Tasted flat. Never again.
+
+## Why You'll Love This Vegetarian Pasta
+
+Takes 45 minutes total. Twenty of that is just chopping. The actual cooking happens while you stand there, which means you can't mess it up.
+
+Harissa gives it something spicy and smoky without being aggressive. Not hot for the sake of hot. Works cold the next day, maybe better.
+
+One pot for pasta, one pan for peppers. Cleanup isn't nothing, but it's minimal.
+
+Tastes expensive. Costs about three dollars a serving. People always ask if you made it at a restaurant.
+
+The asparagus stays crispy even when you're not paying attention—it goes in at the last second. Cherry tomatoes burst but don't fall apart.
+
+## What You Need for Harissa Pasta with Roasted Peppers
+
+Red bell peppers—three of them, diced. Seeds out. The red ones matter. Green tastes different, not in a good way here.
+
+Shallots. Two. Finely chopped. They melt into the sauce instead of staying chunky like onions do.
+
+Three cloves of garlic. Maybe four if you like it aggressive. Minced small.
+
+Olive oil. A quarter cup. Not extra virgin. Regular olive oil. The good stuff burns.
+
+Harissa paste. A teaspoon. That's all. It's concentrated, spicy, smoky. You can find it at the grocery store now, usually near the international aisle.
+
+Short pasta. Penne, rigatoni, something that catches sauce. Not spaghetti. Doesn't work.
+
+Asparagus. Fourteen ounces. Cut into pieces about an inch long. The thicker stalks work fine.
+
+Cherry tomatoes. A cup of them, halved. They burst in the heat and add sweetness.
+
+Pecorino romano. Grated, not shaved. A cup total. Sharp. Salty. It's the backbone of the finish.
+
+Fresh basil if you have it. Torn by hand. Not required. Changes the tone if you add it.
+
+Salt. Pepper. Both matter twice—once for the peppers, once at the end.
+
+## How to Make Roasted Pepper Pasta with Harissa
+
+Get a large skillet hot over medium heat. Pour in the olive oil. Wait for it to shimmer—not smoke, just shimmer. That's when you add the peppers and shallots.
+
+Let them sit for about 12 minutes. Stir them sometimes, not constantly. You want the shallots to turn clear and the peppers to soften and get a little color on the edges. This is what builds the flavor. Don't rush it. The slower the better.
+
+Add your garlic now. Three minutes. Just until it smells good. Salt and pepper the whole thing. Then the harissa—a teaspoon, stirred in hard so it spreads through the oil. The smell gets intense. Spicy. Smoky. Lower the heat a tiny bit so nothing burns.
+
+While that's happening, get a big pot of salted water boiling. Like, really boiling. Add your pasta. Stir it once so nothing sticks. Cook until it's almost done—taste it after 7 minutes, taste it again. You want it to still have a tiny bit of bite.
+
+When there's about two minutes left on the pasta, dump your asparagus and tomatoes in the same pot. They cook in that same water, same heat. The asparagus stays bright green and snappy. The tomatoes soften but don't explode.
+
+Before you drain everything, grab a measuring cup and scoop out three quarters of a cup of that pasta water. You're going to need it.
+
+Drain the pasta and vegetables together. Pour it all back into the pot while it's still hot. The heat matters—you're not making cold pasta salad.
+
+Now pour the pepper mixture in. Start adding that pasta water slowly, stirring. The starch in the water plus the pecorino makes this glossy sauce that actually coats the pasta instead of sliding off. It's not creamy. It's not oily. It's just right.
+
+Dump in the cheese. Fold it all together. Taste it. Add more salt if it needs it. Black pepper. This is your chance to fix it.
+
+Tear in some basil if you've got it. That's the finish.
+
+Serve it hot. Watch the cheese get shiny from the heat.
+
+## Harissa Pasta Tips and Common Mistakes
+
+Overcooking the peppers kills the whole thing. You want them soft, not mushy. Twelve minutes is the target. Maybe thirteen if your stove runs cold. Not sixteen.
+
+Don't skip the pasta water. That starchy liquid is what makes the sauce coat the pasta. Without it, you just have peppers on top of pasta. Not the same thing.
+
+The harissa is strong. A teaspoon sounds small. It's enough. You can always add more next time if you want it spicier. Can't take it out.
+
+Pecorino is salty. Taste before you add more salt at the end. The cheese already did work.
+
+If your asparagus comes out limp, you're cooking the pasta too long. Asparagus goes in with two minutes left. Not three. Two.
+
+Use fresh basil if you have it. Dried basil in this dish tastes like nothing. Don't bother.
+
+The whole thing comes together in 45 minutes. If it's taking longer, you're either chopping too slowly or letting the peppers cook too long. Speed up or dial back. Either works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegetarian Pasta with Roasted Peppers
+
+**Can I make this ahead?**
+Yeah. Cook it, let it cool, stick it in a container. Reheat gently with a splash of water if it's dry. Actually tastes better the next day. The flavors sit overnight and get deeper.
+
+**What if I don't have harissa?**
+Don't substitute with something else. It won't be the same dish. Harissa is specific—spicy, smoky, not hot in the obvious way. Find it or skip it.
+
+**Can I use regular tomatoes instead of cherry tomatoes?**
+Sure. Dice them small. They'll fall apart faster than cherry tomatoes, so they go in later—maybe 30 seconds before draining. Not the same timing, but it works.
+
+**Does this freeze?**
+Probably. Haven't tried it. Pasta texture gets weird when it freezes, usually. Cold from the fridge is better.
+
+**Can I add protein?**
+Chickpeas work. A can of them, drained, stirred in at the end. Maybe some crumbled feta. Not required. It's fine as is.
+
+**What pasta shape works best?**
+Something short and chunky. Penne, rigatoni, fusilli. The sauce sticks to ridges. Spaghetti just slides off. You want the sauce to actually stay on each bite.
+
+**How spicy is this really?**
+Not very. It's smoky more than hot. If you eat spicy food all the time, you might not even notice the heat. The harissa is there for depth, not burn.
