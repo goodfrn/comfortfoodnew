@@ -1,10 +1,10 @@
 ---
-title: "Peach Mozzarella Salad Twist"
+title: "Peach Mozzarella Salad with Burrata & Harissa"
 slug: "peach-mozzarella-salad"
-description: "A chilled salad blending fresh peaches, nectarines, and apricots with mozzarella and creamy burrata. Spiced with a hint of harissa instead of sambal. Crisp prosciutto replaces saucisson for a milder saltiness. Fresh herbs—basil and mint—combine with scallions. The dressing balances olive oil with lime juice and a touch of honey for sweetness. Serve with a sprinkle of sea salt and black pepper. Prep just over 20 minutes. A fresh take on stone fruit and cheese salads for warmer days."
-metaDescription: "Peach Mozzarella Salad Twist combines stone fruits, creamy burrata, torn mozzarella, prosciutto, lime-honey dressing, fresh herbs, and harissa spice."
-ogDescription: "Lush stone fruits, creamy mozzarella, burrata, spicy harissa, crisp prosciutto, fresh herbs. Layered Mediterranean-French fusion salad ready in 30 mins."
-focusKeyphrase: "Peach Mozzarella Salad"
+description: "Peach mozzarella salad featuring fresh peaches, nectarines, apricots, creamy burrata, and crisp prosciutto. Tossed with basil, mint, and a lime-harissa dressing. Light and fresh."
+metaDescription: "Peach mozzarella salad with burrata, stone fruit, prosciutto, and harissa-lime dressing. Fresh basil and mint make it sing. Try it tonight."
+ogDescription: "Fresh peach and mozzarella salad with burrata, apricots, prosciutto, basil, mint, and harissa-lime dressing. Summer on a plate."
+focusKeyphrase: "peach mozzarella salad"
 date: 2025-07-29
 draft: false
 image: peach-mozzarella-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "summer"
 - "mediterranean"
 keywords:
-- "mozzarella salad"
-- "prosciutto salad"
-- "summer fruit salad"
+- "peach mozzarella salad"
+- "summer peach salad with burrata"
+- "stone fruit salad with burrata and lime dressing"
+- "peach salad with fresh mozzarella and basil"
+- "harissa peach salad with burrata cheese"
+- "chilled peach and nectarine salad"
+- "peach apricot salad mediterranean style"
+- "summer salad with cheese"
+- "mediterranean fruit salad"
+- "fresh mozzarella and peach salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "310"
@@ -67,3 +74,94 @@ faq:
 - "q: How to store leftovers? a: Salad best eaten immediately; burrata and fruit get soggy fast. Cover tightly, refrigerate if needed but separate dressing so fruits don’t get wet. Eat within hours, not overnight. No reheating, just chill."
 
 ---
+
+Three perfectly ripe peaches. A ball of burrata that's still cold. Thirty minutes and you've got something that tastes like a Mediterranean restaurant decided to happen in your kitchen.
+
+## Why You'll Love This Summer Peach Salad
+
+No cooking. Takes 30 minutes tops if you're actually paying attention to what you're doing — really more like 15 if you move fast.
+The burrata melts slightly into the warm fruit and it's kind of incredible. Not a dessert situation, but close.
+Works cold straight from the fridge the next day, maybe even better. Stone fruit keeps the dressing from getting soggy.
+Summer salad energy without feeling heavy. Cheese, fruit, a little spice from the harissa — everything's got something going on.
+
+## What You Need for a Mediterranean Peach Salad
+
+Olive oil. Good stuff. Four tablespoons. Bad olive oil makes this taste tinny.
+
+Lime juice. Fresh. Not bottled. The bottled kind tastes like plastic got involved.
+
+Harissa paste — half a teaspoon. That's the twist. Sounds weird with fruit. Isn't. Adds heat without tasting spicy-mean.
+
+Three peaches or nectarines, pitted and quartered. Peaches are softer. Nectarines hold their shape better. Either works. Pick what's actually ripe at your market.
+
+Three apricots, sliced. Not essential but they're sweeter than peaches, so the colors work better together.
+
+Two balls of fresh mozzarella, maybe 100 grams each. Torn, not sliced. Torn looks better and tastes better — something about the irregular surface catches the dressing.
+
+One ball of burrata. This is what makes it actually good. The creamy center pools into everything. Don't skip it. You can't replace it with regular mozzarella and expect the same thing.
+
+Fresh basil, about two tablespoons, torn. Not chopped. Torn.
+
+Mint, julienned — a tablespoon. Sounds fancy. Just means sliced thin. Mint can go weird if it sits too long so add it last.
+
+Scallions. A small bunch, sliced thin. The white and light green parts mostly.
+
+Three ounces of prosciutto, torn into rough pieces. It gets crispy-ish and salty against the soft fruit.
+
+Sea salt. Coarse. Finish with this, not table salt.
+
+Black pepper. Grind it fresh. Just does.
+
+## How to Make a Summer Peach Salad with Burrata
+
+Whisk the olive oil and lime juice together in a small bowl. Add the harissa paste. Stir it in. It'll look broken at first — it's not. Stir more. If you want it sweeter, add a tiny drizzle of honey. I usually skip it because the fruit's already sweet enough.
+
+Let that sit while you prep everything else.
+
+Cut the peaches in half, take out the pit, quarter them. Same with nectarines. Apricots get sliced. Don't make them perfect. Irregular sizes actually look better on the platter and the smaller pieces catch more dressing.
+
+Get a big platter — the bigger the better. Salad looks better spread out than piled. Start laying down fruit. Alternate colors so you're not just dumping all the peaches in one corner. Doesn't have to be a pattern, just think about it while you're arranging.
+
+## How to Build a Chilled Peach and Nectarine Salad
+
+Tear the mozzarella into rough chunks. Not too small — bigger pieces look better. Same with the burrata. Drop them around the platter, kind of scattered. Some clusters, some alone. It doesn't need to be even.
+
+Add the basil and mint. Scallions over top. Then the prosciutto torn into pieces. At this point it looks like salad.
+
+This is important — wait to add the dressing until right before you eat. The fruit will weep and everything gets soggy. Thirty seconds before serving, drizzle the dressing over everything. Not dumped. Drizzled. You want some spots with more dressing, some with less.
+
+Crack black pepper over the top. A few pinches of coarse sea salt. That's it.
+
+## Stone Fruit Salad Tips and Common Mistakes
+
+Burrata matters. Regular mozzarella is fine for other things but it doesn't do what burrata does — that creamy center changes everything.
+
+Don't slice the prosciutto. Tear it. Torn pieces are less uniform and they crisp up better.
+
+Peaches that aren't ripe yet are going to be mealy and sad. Wait for them. Or buy nectarines instead — they're more forgiving. You want them soft enough to cut with a dull knife.
+
+The dressing can hang out in the fridge for a few days. The salad itself needs to happen close to eating time or the fruit releases water and the whole thing gets watery.
+
+Harissa paste is the secret ingredient nobody expects. But it's barely there — just enough heat to make you wonder what you're tasting.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Peach Salad with Fresh Mozzarella
+
+**Can I make this ahead?**
+The dressing keeps fine for a few days. The actual salad needs to happen close to eating. Fruit starts breaking down after an hour or so and it gets soggy.
+
+**What if my peaches aren't ripe?**
+Wait. Or switch to nectarines. Unripe peaches taste like nothing and the texture's mealy. Not worth it.
+
+**Can I use frozen peaches?**
+No. They get mushy and release too much water. This whole thing depends on the fruit being firm.
+
+**Does the harissa really belong in a summer peach salad?**
+Yeah. It's subtle — you won't taste it as spicy, just something you can't quite identify. That's the point. Lime juice on fruit is obvious. Harissa makes it interesting.
+
+**Can I skip the burrata?**
+Technically. Use fresh mozzarella instead. You'll be eating a different salad. Not worse, just different. Burrata's creamy center is what makes this version actually great.
+
+**How long does it last?**
+In the fridge, maybe a day before the fruit starts falling apart. The flavors get better as it sits, but the texture gets weird. Eat it the same day if you care about texture.
