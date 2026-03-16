@@ -1,10 +1,10 @@
 ---
-title: "Sunflower Oil Pie Dough"
+title: "Pie Crust Recipe with Flax Egg and Canola Oil"
 slug: "sunflower-oil-pie-dough"
-description: "A reimagined pie dough using canola oil and oat milk for a tender crumb. Flour reduced by 25% for lighter texture. Lemon juice swapped with apple cider vinegar to brighten flavor subtly. Egg replaced with flax egg for vegan twist. Dough rests slightly less to keep pliable. Expect a rustic crust, flexible but sturdy enough for wet fillings. Tips on troubleshooting sticky dough or dry texture included. Preparation focuses on feel and look over strict timing."
-metaDescription: "Sunflower Oil Pie Dough with canola oil and flax egg. Tender crumb, rustic crust, no eggs, subtle tang from apple cider vinegar, flour reduced for lighter texture."
-ogDescription: "Vegan pie crust using canola oil and flax egg. Lighter flour, apple cider vinegar tweaks gluten, tactile dough cues guide you. Rustic, sturdy, and flexible."
-focusKeyphrase: "Sunflower Oil Pie Dough"
+description: "Make a tender pie crust recipe with canola oil, flax egg, and apple cider vinegar. This vegan pie dough uses less flour for a lighter, flakier texture perfect for any filling."
+metaDescription: "Pie crust recipe made with canola oil and flax egg instead of butter and eggs. Lighter vegan dough with apple cider vinegar. Try it tonight."
+ogDescription: "Vegan pie crust with canola oil, flax egg, and apple cider vinegar. Tender, flaky dough that works for any pie."
+focusKeyphrase: "pie crust recipe"
 date: 2025-08-16
 draft: false
 image: sunflower-oil-pie-dough.jpg
@@ -21,9 +21,18 @@ tags:
 - "bread"
 - "homemade"
 keywords:
-- "pie dough"
-- "vegan crust"
-- "flax egg"
+- "pie crust recipe"
+- "pie shell recipes"
+- "pie dough recipe"
+- "vegan egg substitute"
+- "flax egg substitute"
+- "flax eggs"
+- "homemade pie crust"
+- "crust pastry recipe"
+- "egg replacement flax"
+- "shortcrust pastry dough recipe"
+- "simple pie crust recipe"
+- "pie crust for chicken pot pie"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "250"
@@ -66,3 +75,91 @@ faq:
 - "q: How long can dough be stored? a: Refrigerate wrapped tight up to 24 hours before rolling. Longer storage risks drying or crumb toughening. Freeze option possible but thaw slowly, keep covered. Dough gets less pliable if overrested. Shorten chill time to 50 minutes if pliability desired. Real talk: prepping in advance works but expect texture changes, always check before shaping."
 
 ---
+
+Cut the flour and salt together first. Feels sandy, like damp beach sand. That matters more than you'd think.
+
+## Why You'll Love This Pie Crust Recipe
+
+Vegan, totally. No eggs, no butter, no stress.
+Works for literally any pie — fruit, savory, cream, doesn't matter. The crust stays tender either way.
+Comes together in 15 minutes of actual work. Rest time is just sitting in the fridge.
+Homemade tastes different. Crispier edges, softer inside, somehow lighter than store-bought. Can't explain it but you'll taste it.
+No special equipment. One bowl, a knife, your hands. That's the whole thing.
+
+## What You Need for a Vegan Pie Crust
+
+All-purpose flour — 560 ml, about 2 and a third cups. Don't sift it. Just measure and level flat.
+
+Cold water. 125 ml. This is non-negotiable. Warm water makes the dough gluey.
+
+Canola oil — 110 ml, which is 7 tablespoons. Olive oil won't work here. Burns and tastes weird.
+
+A flax egg. That's 1 tablespoon of flaxseed meal mixed with 3 tablespoons of water, sitting for 5 minutes until it gels. This is your egg replacement. Sounds weird. Works.
+
+Apple cider vinegar — 20 ml, roughly a tablespoon and a third. Not white vinegar. White vinegar is too sharp.
+
+Salt. Half a teaspoon. Kosher or table salt, doesn't matter much.
+
+## How to Make a Basic Pie Crust Recipe
+
+Mix the flour and salt in a large bowl. Stir it thoroughly until the salt disappears into the flour completely. This takes longer than you think.
+
+Combine the canola oil, cold water, flax egg, and apple cider vinegar in a separate small bowl. Don't rush this. Stir slowly until the liquids start to emulsify — you'll see a slight froth on top. That froth is important. It helps everything hold together.
+
+Make a well in the center of the flour. Pour the liquid mixture in slowly, not all at once. Use a butter knife or dough scraper to fold the flour inward from the sides. Work from the edges toward the middle. Don't overmix. That's the killer mistake — overmixing creates gluey lumps and tough crust.
+
+Keep folding until it looks shaggy and rough. Still some visible dry flour is fine. Then use your hands. Gather it into a loose ball. It should feel slightly damp but not sticky. If it clings to your fingers, sprinkle in a tablespoon of flour and mix again. Just one tablespoon though. More and you ruin it.
+
+## How to Get Crispy, Tender Pie Crust
+
+Wrap the dough ball tightly in plastic wrap. Refrigerate for 50 to 60 minutes. Not less. Less keeps it tender but then it's too soft to roll. More than an hour and it hardens up, gets harder to shape.
+
+Dust your work surface lightly with flour. Roll the dough gently from the center outward. It should spread easily but still resist tearing. If it tears, that's fine. You'll fix it in the pan. Flip the dough over every few rolls so it doesn't stick to the counter.
+
+Place it in a 9-inch pie pan. Press it in with your fingertips, working up the sides. Small holes happen from rolling. Patch them with scraps or wet fingers. They disappear when baked.
+
+Chill the dough again after fitting it into the pan. Optional technically. But it helps. Shrinkage during baking matters less when the dough's already cold.
+
+## Pie Crust Tips and Common Mistakes
+
+Overflouring. This is the enemy. You'll think you need more flour than you do. You don't. Light dust, flip the dough frequently instead. That's the move.
+
+If the dough cracks while you're shaping it, pinch it back together. Fast. Crust imperfections add character. They're fine.
+
+Cold water is not a suggestion. Room temperature water makes everything fall apart.
+
+The flax egg — it has to sit for 5 minutes minimum. Exactly. Before you mix it with the other liquids. Don't skip this.
+
+Don't add filling right after shaping unless you want to. Crust stays in the fridge until you're ready. You can bake it later in the day or the next day. Stays good.
+
+When baked, the edges turn golden and crisp but still tender. You'll smell it — the oil warming, flour lightly toasting. That's when you know it's done.
+
+No par-baking needed unless your filling is watery. Even then, just 10 minutes at 375°F. Most pies, you skip it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pie Crust Recipe
+
+**Can I use this pie shell recipe for savory pies like chicken pot pie?**
+Yes. Works the same. No changes needed. Maybe add a tiny bit more salt if you want, but the dough itself is neutral.
+
+**What's a good egg replacement in baking besides flax eggs?**
+Flax eggs work best here because of the consistency. Aquafaba (the liquid from canned chickpeas) can work too — use 3 tablespoons per egg. Haven't tried it myself but people do it.
+
+**How do I make shortcrust pastry without eggs?**
+This is it. You're making it right now. The flax egg plus the acid from the vinegar does what eggs do — binds everything without making it tough. Most shortcrust pastry recipes use butter and eggs. This swaps both out and it holds.
+
+**Can I freeze vegan pie dough?**
+Yeah. Wrap it tight, freeze for up to a month. Thaw in the fridge before rolling. Takes a couple hours.
+
+**Is this a basic pie crust recipe that works for lime pie?**
+Works for any pie. Lime, lemon, chocolate, fruit, cream. The crust stays the same. Just fill it with whatever you want.
+
+**Why do you use apple cider vinegar instead of lemon juice?**
+Consistency. Lemon juice is thinner, throws off the hydration. Vinegar is thicker, more stable. Apple cider vinegar specifically — white vinegar tastes wrong in a pie crust.
+
+**What if my dough is too sticky after mixing?**
+Sprinkle one tablespoon of flour. Not more. Mix it in. If it's still sticky after that, wait — sometimes it tightens up as it sits. Patience helps.
+
+**Does this baking egg substitute work in cookies or cakes?**
+Different things need different binders. This flax egg works great for pie crust. For cookies and cakes it gets trickier. Different ratios, different techniques. Stick with this for pastry.
