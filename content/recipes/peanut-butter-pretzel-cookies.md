@@ -1,10 +1,10 @@
 ---
-title: "Peanut Butter Pretzel Choc Cookies"
+title: "Peanut Butter Pretzel Chocolate Cookies"
 slug: "peanut-butter-pretzel-cookies"
-description: "Brown sugar, peanut butter, cocoa, bits of chocolate. Salted pretzels smashed up with roasted peanuts. Rolos or mini candy dropped in the center. Oven 175°C, 11 min bake. Dough scooped with 50 ml scoop, flattened, pressed into peanut-pretzel mix. 12 to 14 cookies. Snacks with sweet, salty, and melty caramel pockets. Uses baking soda for leavening. Mixes all dry separately. Creams sugars and fats. Egg and yolk. Chunks of chocolate inside. Rest on a wire rack after baking."
-metaDescription: "Peanut Butter Pretzel Choc Cookies with cocoa, peanut butter, smashed pretzels, chopped peanuts, and caramel centers baked at 175°C. Crunchy, salty, gooey bites."
-ogDescription: "Crunchy peanut pretzel cookies packed with dark cocoa, peanut butter, caramel-filled centers. Sweet salty hit with melty caramel pockets. Baked at 175°C for 11 mins."
-focusKeyphrase: "Peanut Butter Pretzel Choc Cookies"
+description: "Peanut butter cookies loaded with cocoa, semisweet chocolate chunks, roasted peanuts, and salted pretzels. Topped with melty Rolos for sweet, salty, caramel bites."
+metaDescription: "Peanut butter cookies with cocoa, chocolate, roasted peanuts, and crispy pretzels. Baked with Rolos for gooey caramel centers. Make it tonight."
+ogDescription: "Salted pretzel peanut butter cookies with cocoa, chocolate chunks, and roasted peanuts. Melty Rolos baked inside for caramel pockets."
+focusKeyphrase: "peanut butter pretzel chocolate cookies"
 date: 2025-07-29
 draft: false
 image: peanut-butter-pretzel-cookies.jpg
@@ -21,9 +21,16 @@ tags:
 - "pretzel"
 - "snack"
 keywords:
+- "peanut butter pretzel chocolate cookies"
 - "peanut butter cookies"
-- "pretzel cookies"
 - "chocolate cookies"
+- "pretzel peanut butter cookies"
+- "peanut butter chocolate chip cookies"
+- "salted pretzel peanut butter chocolate cookies"
+- "brown sugar peanut butter cookies"
+- "cocoa cookies"
+- "roasted peanut cookies"
+- "caramel chocolate cookies"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "220"
@@ -70,3 +77,85 @@ faq:
 - "q: How to store for best texture? a: Airtight container room temp only. Caramel centers sensitive to moisture. Refrigeration firms caramel and dulls crunch. Cookies lose crisp edges over days so best within 2 days. Can freeze dough balls before baking."
 
 ---
+
+Set the oven to 350. Line two sheets with parchment. You're making cookies with a soft center and something salty-crunchy happening on top—the kind that look almost too easy until you bite into them.
+
+## Why You'll Love These Peanut Butter Chocolate Chip Cookies
+
+Takes 31 minutes total. Twenty to prep, eleven in the oven. Done.
+
+Salty. Sweet. Chocolate. Peanut butter. Caramel in the middle that stays melty for a day. All of it in one cookie.
+
+No weird ingredients. Brown sugar, butter, peanut butter, an egg. Things you probably have right now.
+
+The pretzel coating actually works—it sticks, it stays crunchy even after they cool. Not like you're just sprinkling salt on top and hoping.
+
+Tastes better the next day. The caramel gets softer, the chocolate sets into the dough, it all comes together overnight.
+
+## What You Need for Peanut Butter Pretzel Chocolate Cookies
+
+All-purpose flour—a little more than three quarters of a cup. Cocoa powder. Baking soda. Just a half teaspoon.
+
+Brown sugar. Pack it down. Three quarters cup plus a tablespoon of butter, both softened. Natural peanut butter—not the sweetened kind. Three tablespoons.
+
+One egg and one yolk. The yolk matters. Butter in the dough, butter in the center.
+
+Semisweet chocolate chopped up. Roasted unsalted peanuts. Pretzels broken into actual chunks, not powder. Twelve to fourteen mini Rolos or caramel candies—these go in the middle and stay there while they bake.
+
+## How to Make Peanut Butter Cookies with Pretzels and Chocolate
+
+Center rack. Heat to 350. Parchment on both sheets.
+
+Whisk flour, cocoa powder, baking soda together. That's your dry stuff.
+
+In another bowl—a big one—beat brown sugar, softened butter, peanut butter until it gets light and fluffy. Takes maybe two minutes if your butter's actually soft. If it's cold, longer. Add the egg and yolk. Beat until you can't see streaks anymore.
+
+Fold the flour mix into the wet stuff. Gentle. You're not making bread. Just until combined. Then fold in the chopped chocolate.
+
+The peanuts and pretzels go in a shallow dish. This is your coating station.
+
+Scoop the dough into balls. Fifty milliliters each, or just eyeball it—a golf ball size works. Flatten each one with your hand. Not paper-thin. Maybe half an inch. Then roll the flat top into the peanut-pretzel mix. Press it down so it sticks.
+
+Space them out on the sheets. Five per sheet. They spread a little but not much.
+
+## How to Bake Peanut Butter Cookies with Cocoa and Pretzels
+
+One sheet at a time. Eleven minutes. That's it.
+
+You're watching for the edges to look set—like they've firmed up—while the center still looks soft. If it looks done, it's too done. The caramel center needs that soft dough around it or it'll harden into a rock.
+
+When you pull it out, the cookies might still look underbaked. They are. The center should feel like it could cave in if you pressed it. Leave them on the hot sheet for ten minutes. They keep cooking. Then move them to a rack and let them actually cool all the way.
+
+## Brown Sugar Peanut Butter Cookies with Rolos—Tips and Mistakes
+
+Don't use warm butter. Soft butter. Room temperature. Cold butter won't cream, and you'll be mixing forever.
+
+The Rolos have to go in the center while the dough's still dough. If you try to press them in after baking, the cookie's already set and they just sit on top like decoration. Press them in deep. The dough rises a tiny bit around them.
+
+If your peanut butter is the super-oily kind, drain some of it off first. Too much oil and the dough gets greasy and spreads into a flat mess instead of staying thick.
+
+Pretzel chunks, not pretzel dust. Big enough that you feel them when you bite. Crushed pretzels disappear.
+
+Only bake one sheet at a time. Two sheets in the oven at once and the bottom one browns too fast, the top one stays pale. One sheet, eleven minutes, perfect.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Peanut Butter Chocolate Chip Cookies
+
+**Can I use creamy peanut butter instead of natural?**
+Yeah. Creamy works fine. Might be slightly less texture, but it bakes the same way. The natural kind just adds a grittiness that's kind of good here.
+
+**What if I don't have mini Rolos?**
+Use full-size Rolos cut in half. Or a square of chocolate. Or caramel candy. Or nothing. The cookie works without it—you just lose that surprise center.
+
+**How long do these actually stay good?**
+Three to four days in an airtight container at room temp. Better within two days when the caramel's still soft. After that they're fine, just more like regular cookies. Freezer works too—they keep a month, maybe longer.
+
+**Why do you use both an egg and a yolk?**
+The yolk makes them richer and keeps the center soft longer. You could use just one whole egg if you want. Cookies'll be slightly less tender but still good.
+
+**Can I skip the cocoa powder?**
+You can. They'll taste different—more like straight peanut butter cookies with pretzels and chocolate. Less chocolate flavor without it. Not worse, just different.
+
+**Do these need to be refrigerated?**
+No bake pretzel cookies need nothing. Room temp in a container. Fridge is fine too, just makes them firmer faster. Cold them for fifteen minutes and they're easier to move if you're stacking them.
