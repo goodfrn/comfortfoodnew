@@ -1,10 +1,10 @@
 ---
-title: "Spinach Zucchini Frittata"
+title: "Vegetable Frittata with Spinach, Zucchini & Feta"
 slug: "spinach-zucchini-frittata"
-description: "Eggs mixed with sautéed spinach and shredded zucchini. Flavored with feta cheese and fresh herbs, cooked gently on stovetop then broiled briefly for a golden top. A twist on the traditional frittata with a fresh, veggie-forward profile. Ready in about 40 minutes, serves 4 to 6."
-metaDescription: "Try this Spinach Zucchini Frittata. A veggie-packed egg dish topped with feta. Ideal for breakfast or light lunches. Easy to whip up."
-ogDescription: "Delicious Spinach Zucchini Frittata made with fresh veggies and feta. Perfect for brunch or a light dinner. Enjoy a taste of the Mediterranean."
-focusKeyphrase: "Spinach Zucchini Frittata"
+description: "Make a vegetable frittata with sautéed spinach, zucchini, and crumbled feta cheese. This stovetop-to-broiler egg dish serves 4–6 in about 40 minutes."
+metaDescription: "Vegetable frittata recipe with fresh spinach, shredded zucchini, and feta cheese. Stovetop-cooked then broiled golden. Serves 4–6. Make it tonight."
+ogDescription: "Spinach and zucchini frittata topped with crumbled feta. Garlic-infused, herb-fresh, and ready in 40 minutes."
+focusKeyphrase: "vegetable frittata"
 date: 2025-07-20
 draft: false
 image: spinach-zucchini-frittata.jpg
@@ -21,9 +21,18 @@ tags:
 - "zucchini"
 - "omelet"
 keywords:
-- "spinach"
-- "zucchini"
-- "frittata"
+- "vegetable frittata"
+- "frittata spinach feta"
+- "eggs with vegetables"
+- "spinach zucchini frittata"
+- "feta cheese frittata"
+- "vegetable frittata recipe"
+- "egg and vegetable"
+- "frittata recipe veggie"
+- "baked eggs and vegetables"
+- "bell pepper frittata"
+- "frittata with feta and spinach"
+- "scrambled eggs and vegetables"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "210"
@@ -68,3 +77,71 @@ faq:
 - "q: How long does it last? a: Typically up to 3-4 days in fridge. Check for signs of spoilage though. Always trust your senses. Smell and look closely."
 
 ---
+
+Heat the skillet. Get the oil going. Three things happen fast after that — onions and garlic get soft, spinach wilts down to nothing, eggs go from runny to set under the broiler. Eighteen minutes of prep. Twenty-two minutes of cooking. Forty minutes total and you've got a vegetarian omelet that works for breakfast, lunch, or cold the next day.
+
+## Why You'll Love This Frittata
+
+Takes 40 minutes and most of that's waiting time, not actually doing something. Eggs with vegetables — spinach, zucchini, feta — all in one skillet. No flipping. No hovering. Spinach and eggs together taste like they were meant for each other, kind of the way mushroom and eggs just work. Cleanup isn't bad either. One pan. Maybe two bowls. Works cold too, which is weird but good. You can meal-prep it, slice it up, eat it for three days.
+
+## What You Need for This Egg and Vegetable Frittata
+
+Medium onion, chopped fine. Two cloves of garlic, minced — that's enough. Olive oil, 50 ml total. Sounds specific but it matters. Not the cheap stuff. Thirty ml of it goes in twice, in different stages.
+
+Fresh spinach. Two cups, packed. Doesn't stay that size long — wilts down to almost nothing. A cup of shredded zucchini. Not eggplant. Zucchini. They're different, even though people mix them up.
+
+Eight eggs. Feta cheese, crumbled. Not too much — two-thirds of a cup. A tablespoon of fresh dill. Salt and pepper. That's actually it. Nine ingredients. Maybe ten if you count salt.
+
+## How to Make a Frittata With Vegetables
+
+Oven rack goes to the top. Broiler on high. Do that first or you'll forget.
+
+Heat 20 ml of olive oil in a nine-inch nonstick skillet on medium. Pour the onion in with the garlic. Five minutes, stirring once or twice. You're looking for them to go kind of translucent, soft, not brown. Pull them out into a bowl. Let them cool a second.
+
+Same skillet. Don't wash it. Add another 30 ml of oil. Spinach goes in. Zucchini. Stir gently. Four minutes. It collapses. That's the whole point. The water comes out of the spinach and the zucchini just gets soft. Move it to a separate plate. Temperature of the pan matters more than you think.
+
+## How to Get This Eggs With Vegetables Crispy on Top
+
+Crack the eight eggs. Beat them. Add the feta and dill and that cooled onion-garlic mixture. Season it. Actually taste it before it hits the pan. Salt changes everything.
+
+Back on the skillet, medium heat. Pour the egg mixture in. Don't touch it. Forty-five seconds. Just leave it alone. Your instinct will be to stir. Don't.
+
+Spread the spinach and zucchini over the top. Even distribution. Now the eggs cook for six to seven minutes. The edges start browning. The base sets. The center's still a little soft. You can tell by looking, but if you're not sure, jiggle the pan — it should move but not slosh.
+
+Straight under the broiler. Seven minutes. Watch it. The top gets puffy and golden. No more jiggle. It's done when it looks set and feels firm when you touch the center — carefully, it's hot.
+
+Out of the oven. Let it sit for a minute. Two minutes is better. Slice it. Serve warm or cold.
+
+## Frittata Vegetable Recipe Tips and What Goes Wrong
+
+Spinach releases water. That's fine. It makes the eggs taste like spinach, which is what you want. If it seems too wet, drain it after wilting. Just push it against the side of the pan.
+
+Zucchini same thing. Shred it fine. The finer you shred it, the faster it cooks and the more it disappears into the eggs.
+
+Don't open the oven while the broiler's going. You'll let the heat out and it takes forever to come back. It's done when the top looks done. Golden. Puffed. Trust it.
+
+Temperature matters. Medium heat isn't suggestion. Medium heat. Too high and the bottom burns before the eggs set. Too low and it takes forever and the eggs get rubbery by the time the broiler finishes.
+
+Feta's salty. Taste before you add salt. You might need less than you think, or none at all.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Eggs With Vegetables
+
+**Can I add other vegetables to this egg and vegetable recipe?**
+Yeah. Mushroom and eggs work great. Cabbage egg too. Cook them down in the first step with the onions, or add them when the spinach goes in. Whatever takes about four minutes to soften. Eggplant takes longer — don't bother. Takes too long to cook.
+
+**Why does this recipe call for two stages of cooking?**
+The onions and garlic need to soften first. If you dump everything in at once, the garlic stays raw and sharp. Spinach goes in after because it cooks fast. Zucchini same thing. You're layering timing, not ingredients.
+
+**Can I make this ahead?**
+Make it the night before. Slice it cold. Reheats fine in a 300-degree oven for ten minutes if you want it warm. Actually tastes better cold, sometimes. Not sure why.
+
+**What oven-safe skillet do you need?**
+Nine-inch nonstick. You could use cast iron but then it sticks. Ceramic works. Just make sure the handle's oven-safe to at least 450 degrees. The broiler gets hot.
+
+**How do you know when the frittata is done under the broiler?**
+Puffed up. Golden on top. Jiggle the pan — no movement in the center. When you touch the middle, it should feel set. Still warm from being under the heat, but not liquid. That's it.
+
+**What's the difference between a frittata and an omelet?**
+Frittata you start on the stovetop and finish under the broiler. Omelet you keep on the stovetop and fold it. Frittata's easier. You don't have to flip anything.
