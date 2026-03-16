@@ -1,10 +1,10 @@
 ---
-title: "Spinach Basil Pesto Twist"
+title: "Fresh Basil Pesto Recipe with Pumpkin Seeds"
 slug: "spinach-basil-pesto"
-description: "A vibrant pesto blending fresh basil and spinach with a nutty parmesan note. Olive oil carries the flavors; lemon juice adds brightness. Quick blend, keeps texture lively. Salty, garlicky, aromatic. Refrigerate or freeze to extend life. Swapped pine nuts for toasted pumpkin seeds to avoid nut allergies and add a subtle earthiness."
-metaDescription: "Spinach Basil Pesto Twist blending fresh herbs and toasted pumpkin seeds with parmesan and lemon juice. Chunky texture, bright aroma, safe for nut allergies."
-ogDescription: "Chunky spinach basil pesto with nutty pumpkin seeds, parmesan, olive oil streamed slowly. Bright lemon juice cuts herb oiliness. Keeps fresh weeks refrigerated."
-focusKeyphrase: "spinach basil pesto"
+description: "Fresh basil pesto recipe blending basil, spinach, and toasted pumpkin seeds with extra virgin olive oil, Parmesan, and lemon juice. Nut-free, garlicky, and aromatic."
+metaDescription: "Fresh basil pesto recipe made with basil, spinach, pumpkin seeds, and Parmesan. Nut-free homemade pesto that's ready in minutes. Make it tonight."
+ogDescription: "Vibrant homemade pesto with fresh basil, spinach, and pumpkin seeds. Quick, nut-free, and bursting with garlic flavor."
+focusKeyphrase: "fresh basil pesto recipe"
 date: 2025-08-28
 draft: false
 image: spinach-basil-pesto.jpg
@@ -21,10 +21,18 @@ tags:
 - "lemon"
 - "vegetarian"
 keywords:
-- "spinach pesto"
-- "basil pesto"
-- "pumpkin seeds"
-- "homemade pesto"
+- "fresh basil pesto recipe"
+- "fresh basil pesto sauce recipe"
+- "homemade pesto sauce"
+- "pesto recipe without pine nuts"
+- "nut free pesto sauce recipe"
+- "spinach basil pesto"
+- "homemade basil pesto"
+- "fresh pesto recipe"
+- "pesto without nuts"
+- "recipe for spinach pesto"
+- "easy recipe for pesto sauce"
+- "green pesto recipe"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "210"
@@ -64,3 +72,82 @@ faq:
 - "q: What if I don’t have fresh lemon juice? a: Bottled juice possible but taste dull, less brightness. Adjust salt if acidic punch missing. Sometimes add splash vinegar if needed; reduces flatness but can alter aroma. Fresh squeeze always best for zip."
 
 ---
+
+Two cups of basil. Spinning for maybe 30 seconds. That's it. Everything else just follows.
+
+## Why You'll Love This Fresh Basil Pesto Sauce Recipe
+
+Takes 12 minutes total — most of that's chopping. Blender does the actual work.
+Works as a condiment for everything. Pasta, sandwiches, eggs, roasted vegetables, fish. Spread it on bread. Stir it into soups. Works cold the next day, maybe better.
+Spinach stretches the basil without tasting like spinach — keeps the green bright without needing extra basil you don't have.
+Pumpkin seeds instead of pine nuts. Cheaper. Nuttier somehow. People don't expect it.
+Lemon keeps it tasting alive instead of flat. Actually tastes like something when you make it fresh.
+
+## What You Need for Homemade Pesto Sauce
+
+Two cups of basil. Rough chop it — doesn't need to be perfect.
+Two cups baby spinach. Sounds like a lot. Disappears when it blends.
+A quarter cup of olive oil plus a teaspoon. Not less. Oil makes it glossy and keeps it from turning brown in the fridge.
+Two tablespoons Parmesan. Finely grated. The big shreds don't break down right.
+Lemon juice — the fresh kind. Not the bottled stuff. A tablespoon and a teaspoon.
+One garlic clove, peeled and halved. One. Not two. One.
+Thirty grams of toasted pumpkin seeds. Toasted matters. Raw ones taste like nothing.
+Salt and pepper. You'll adjust this at the end anyway.
+
+## How to Make Fresh Basil Pesto Sauce
+
+Pulse the garlic and pumpkin seeds first. Just until they break down but still feel chunky. The blender wants to pulverize everything — don't let it. Stop before you think you should stop.
+
+Add the basil, spinach, Parmesan, lemon juice, and half the olive oil. Blitz until it looks broken down but still has texture. This is the tricky part — stop when it still looks a little rough. Twenty seconds maybe. Not more.
+
+Watch what's happening in there. The leaves should get bruised and torn, not pureed into paste. Paste tastes bitter. Bitter is the mistake everyone makes.
+
+Stream in the rest of the olive oil while it's still going. Keeps everything loose. The texture should be thick but pourable — glossy on top like it caught the light. If it's too thick, add a splash more oil or a teaspoon of water. Just a touch.
+
+## How to Get Fresh Basil Pesto Sauce Bright and Perfect
+
+Taste it. Actually taste it. The lemon juice is carrying all the brightness here — salt and pepper just support it. Add more lemon if it tastes flat. Add salt if it tastes dull. Don't be shy. You can always add more.
+
+Scrape it into a container. Press plastic wrap directly onto the surface — right against the pesto, not floating above it. Air turns it brown. Brown tastes like the pesto sat in a cupboard for a year.
+
+It holds in the fridge for almost two weeks. Tastes the same on day one and day twelve. Freezes too. Cube it in ice trays. Pop them out frozen and toss them into hot pasta. Melts right in.
+
+## Pesto Sauce Tips and Common Mistakes
+
+Overprocessing is the number one problem. You pulse for 10 seconds and think you need to pulse again. You don't. It's already done. The second pulse ruins it.
+
+Bruised basil tastes bitter. Use leaves that are actually fresh and vibrant. If your basil's been sitting in the back of the fridge turning dark, start over.
+
+Chill your ingredients before you blend if you can. Cold basil doesn't oxidize as fast. Keeps the green greener longer.
+
+The pesto separates sometimes — oil on top, green on the bottom. Not a disaster. Just stir it back together. Happens because you didn't emulsify enough. Faster blending helps. Colder ingredients help more.
+
+Don't skip the lemon juice adjustment at the end. It's the difference between pesto and mushed green stuff. One more squeeze changes everything.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fresh Basil Pesto Sauce Recipe
+
+**Can you make homemade pesto sauce without pine nuts?**
+Already did. Pumpkin seeds. They're nuttier. Cheaper too. Pine nuts work fine if you have them — same amount — but there's no reason to hunt them down.
+
+**How long does homemade pesto sauce last?**
+Two weeks in the fridge, maybe three if you press that plastic wrap on tight. Freezes for months. Ice cube trays make it easy — pop a cube into whatever needs it.
+
+**Can you use regular spinach instead of baby spinach?**
+Not really. Baby spinach is tender and blends smooth. Regular spinach leaves are thick and stay chunky. You'll end up with bits that don't belong.
+
+**What's the best recipe for pesto sauce if you don't have a blender?**
+A food processor works the same way. So does a mortar and pestle if you're patient — actually tastes slightly better because you bruise less. Takes longer though.
+
+**Can you make pesto with carrot tops?**
+Yeah. They're a little peppery and sharper. Use half carrot tops, half basil. The basil keeps it from getting too weird. No spinach needed then.
+
+**Is this pesto recipe vegetarian?**
+Yes. Basil, spinach, pumpkin seeds, olive oil, lemon, Parmesan, garlic. Everything's plant or dairy. Vegetarian and easy.
+
+**Why does my homemade pesto sauce taste bitter?**
+Overblended basil. The longer you blend, the more bitter compounds break down. Stop early. Texture beats smoothness here.
+
+**Can you freeze fresh basil pesto sauce?**
+Freeze it in ice cube trays. Works great. Thaw it or drop it in hot food — doesn't matter. Flavor stays almost identical.
