@@ -164,7 +164,7 @@
 
         <!-- BODY MARKDOWN LIBRE (introduction, whyLoveThis, paragraphes custom, shortcodes ingredients/instructions, recipe-card, faq) -->
         <div class="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700">
-          {{ .Content }}
+          {{ .Content | replaceRE "(<h2[^>]*>.*?</h2>)" (printf "$1\n<div class=\"hb-ad-inpage\"><div class=\"hb-ad-inner\"><div class=\"hbagency_cls hbagency_space_301254\"></div></div></div>") | safeHTML }}
         </div>
 
         {{ partial "related-wide-scroll-random.html" . }}
