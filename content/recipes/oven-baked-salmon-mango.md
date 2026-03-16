@@ -1,10 +1,10 @@
 ---
-title: "Oven Baked Salmon with Mango Salsa"
+title: "Baked Salmon with Mango Salsa Recipe"
 slug: "oven-baked-salmon-mango"
-description: "Salmon baked until just translucent topped with bright mango salsa. Fresh, quick, simple. A fresh twist swaps strawberries for mango. Easy weeknight dish with vibrant flavors and straightforward technique."
-metaDescription: "Oven baked salmon fillets with bright mango salsa ready in under 20 minutes. Crispy skin, juicy flesh, fresh vibrant salsa with lime and honey notes."
-ogDescription: "Salmon baked with skin crisp, topped with chunky mango salsa. Easy timing cues, fresh ingredients, bold spice balance all in a quick cook."
-focusKeyphrase: "oven baked salmon with mango salsa"
+description: "Baked salmon fillets topped with fresh mango salsa made from diced mango, red onion, cilantro, and jalapeño. Quick weeknight dinner ready in minutes."
+metaDescription: "Easy baked salmon with mango salsa featuring fresh mango, cilantro, and lime juice. Healthy weeknight dinner that's simple to make. Try it tonight."
+ogDescription: "Salmon fillets baked with bright mango salsa—fresh cilantro, jalapeño, and lime create vibrant flavor in minutes."
+focusKeyphrase: "baked salmon with mango salsa"
 date: 2026-03-06
 draft: false
 image: oven-baked-salmon-mango.jpg
@@ -21,11 +21,16 @@ tags:
 - "summer"
 - "easy dinner"
 keywords:
+- "baked salmon with mango salsa"
+- "easy baked salmon"
 - "baked salmon"
-- "mango salsa"
-- "weeknight fish"
-- "crispy salmon skin"
-- "quick seafood meal"
+- "salmon with mango salsa"
+- "healthy salmon recipe"
+- "salmon dinner"
+- "baked salmon fillets"
+- "salmon recipe"
+- "weeknight dinner"
+- "fresh mango salsa"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -70,3 +75,79 @@ faq:
 - "q: Can leftovers be stored? a: Wrap tight, refrigerate up to 2 days. Salsa separate keeps skin less soggy. Reheat gently to avoid drying fish out. Mango salsa best fresh but will keep flavors decent cold for one day max."
 
 ---
+
+Salmon out of the fridge 20 minutes before you start. Cold fish hits hot pan and shrinks. Uneven cooking. Worse texture. Just let it sit. Takes almost no time and fixes a problem before it starts.
+
+## Why You'll Love This Salmon Dinner
+
+Takes 19 minutes flat. Six minutes of prep, then the oven does the work while you make the salsa.
+Mango salsa. Cilantro. Lime. Fresh and bright against the richness. Summer eating without the grill.
+One sheet pan. One mixing bowl. Cleanup's maybe five minutes.
+Works for a weeknight. Works for company. Looks like you planned it.
+Healthy salmon doesn't taste like you're making a choice. Just tastes good.
+
+## What You Need for Oven Baked Salmon Fillets
+
+Salmon fillets with skin on. Skin side down when it cooks—gets crispy, holds moisture in. Don't buy skinless. Different fish entirely.
+
+Kosher salt. A teaspoon for the fish. A pinch more for the salsa. Coarser than table salt. Stays put instead of disappearing.
+
+Black pepper and garlic powder. One half teaspoon each. Modest. Let the fish be the thing.
+
+Olive oil. One tablespoon. Not fancy. Just olive oil. Locks in moisture and gets the skin going.
+
+Mango, red onion, jalapeño, fresh cilantro, lime juice, honey. Dice the mango into chunks. Red onion chopped small. Jalapeño seeded—less heat that way. Cilantro minced. One tablespoon lime juice. Half a teaspoon honey. Salt it lightly. That's your salsa.
+
+## How to Make Pan Seared Salmon with Fresh Mango
+
+Set the oven to 380 degrees. Maybe 375 works too. Depends on your oven. I've tried both. The higher temp just crisps the skin faster and we're only in there 13 minutes anyway.
+
+Line a sheet pan with parchment. Lay the fillets skin side down. If the skin's damp, pat it dry. Dry skin crisps. Damp skin steams.
+
+Season with salt, pepper, and garlic powder. Not heavy. You can always add more after. You can't take it out.
+
+Drizzle olive oil over top. Not a pour. A drizzle. The oil helps the skin crisp and keeps the flesh from drying out.
+
+Slide the pan in. You'll hear it sizzle—a soft crackle at first. That's when you know the heat's doing something. Watch the edges of the fillets turn opaque. That's your sign things are moving.
+
+Don't flip. The skin needs 13 minutes undisturbed to actually crisp.
+
+## How to Get Salmon Fillets Crispy and Tender
+
+Between 11 and 14 minutes the fish goes from translucent to done. Poke the thickest part with a fork. If it's still spongy and pink in the middle, leave it. If it's slightly springy and barely translucent, it's where you want it. A thermometer reads around 140 to 142 degrees. A touch shy of what the government says but the texture is silky and the center still has moisture.
+
+Flip matters here. Don't. The skin side stays down the entire time. That's how it gets crispy. You flip it, you lose that.
+
+Three minutes out of the oven, just sitting on the counter. The residual heat finishes cooking it while the juices settle back in. Don't skip this. You'll lose subtle moisture if you go straight to plating.
+
+## Salmon with Mango Salsa Tips and Mistakes
+
+While the fish cooks, chop everything for the salsa. Mango into chunks. Red onion small. Jalapeño seeded and chopped fine. Cilantro minced. Mix it with lime juice, honey, and a pinch of salt.
+
+The honey matters more than it sounds. Balances the heat from the jalapeño. Acidity from the lime perks up every flavor. It's not a sauce. It's chunky. Fresh pieces on top of the fish. That texture contrast is half the point.
+
+Don't make the salsa too far ahead. It gets sloppy. Make it while the fish cooks. Top the salmon right before eating. Keeps the contrast between hot fish and cold fresh salsa alive.
+
+Serve it however. Solo. Over greens. Rice. Cold pasta. Whatever you have. The salsa works with everything.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Healthy Salmon Recipe
+
+**Can I use frozen salmon fillets?**
+Thaw it completely first. Wet a paper towel, wrap the fillet, stick it in the fridge overnight. Room temperature thaw and it cooks unevenly. Cold thaw works.
+
+**What if I don't have a thermometer?**
+Poke it with a fork. The fork should meet light resistance and the center barely translucent. Takes practice but you'll feel the difference.
+
+**Can I make the mango salsa ahead?**
+Not really. It gets watery. Make it while the oven runs. Takes three minutes.
+
+**Does the skin have to stay on?**
+Yeah. Skin side down is the whole setup. Skin crisps. Skinless means you're poaching it basically. Different thing entirely.
+
+**Can I grill this instead?**
+Sure. Medium-high heat. Skin side down first. Four minutes. Flip. Three more. Mango salsa on top after. Works.
+
+**Is there a substitute for mango?**
+Pineapple works. Peach in summer. Berries too if you want it less sweet. Not a strict rule here.
