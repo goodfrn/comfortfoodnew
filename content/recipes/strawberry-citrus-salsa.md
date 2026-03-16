@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Citrus Salsa"
+title: "Strawberry Salsa Recipe with Jalapeño"
 slug: "strawberry-citrus-salsa"
-description: "A quick fresh salsa mixing diced strawberries with lime juice and a touch of heat. Adjust sugar to balance strawberry sweetness. Refrigerate long enough for flavors to mingle but not so long it gets soggy. Substituted jalapeño for serrano for mild kick, added finely chopped fresh cilantro for brightness. Great on chips, grilled chicken, or as a summer salad topper. Texture contrast from juicy berries and crunchy veggies, zesty tang from lime, mild smoky heat. Key is not over-sugaring; strawberries carry their own natural sugar. Chill till cool and thickened slightly but still lively. Notes from trial and error on timing, cutting sizes and swaps included."
-metaDescription: "Strawberry Citrus Salsa bursts with fresh diced berries, tangy lime, and mild jalapeño heat. Chill to blend crunch and zing for lively summer bites."
-ogDescription: "Fresh diced strawberries meet zesty lime, mild jalapeño heat, and crisp onion. Chill for punchy bites with subtle sweetness and crunchy texture."
-focusKeyphrase: "Strawberry Citrus Salsa"
+description: "Fresh strawberry salsa with diced strawberries, jalapeño, red onion, lime juice and cilantro. Quick to make, perfect on chips or grilled chicken."
+metaDescription: "Make this easy strawberry salsa with fresh strawberries, jalapeño, lime juice and cilantro. Bright, zesty, and naturally sweetened. Try it tonight."
+ogDescription: "Fresh strawberry salsa with jalapeño heat, lime brightness, and cilantro. Serve on chips or chicken. Make it tonight."
+focusKeyphrase: "strawberry salsa"
 date: 2025-11-22
 draft: false
 image: strawberry-citrus-salsa.jpg
@@ -22,8 +22,15 @@ tags:
 - "summer"
 keywords:
 - "strawberry salsa"
-- "lime juice salsa"
-- "fresh cilantro salsa"
+- "salsa recipe pineapple"
+- "jalapeno strawberry salsa"
+- "strawberry jalapeno salsa"
+- "recipe for strawberry salsa"
+- "salsa recipe fruit"
+- "fresh strawberry salsa recipe"
+- "cilantro lime salsa"
+- "strawberry pico de gallo"
+- "easy fruit salsa"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "45"
@@ -68,3 +75,89 @@ faq:
 - "q: How long to store leftovers? a: Up to two days sealed tight fridge. Longer means juice dilutes texture, flavors dull. Do not freeze—fridge only. Stir before serving leftovers."
 
 ---
+
+Dice the strawberries first—about a quarter inch. Not pureed. You need chunks that hold their shape when the lime hits them. Three pounds of berries and no plan, so this happened instead.
+
+## Why You'll Love This Strawberry Salsa
+
+Takes 12 minutes flat. No cooking, no heat, just knives and a bowl.
+Works as an appetizer on chips, over grilled chicken, mixed into a corn salad—literally anything that needs brightness.
+Summer in a bowl. Tastes like it should cost money at a farmers market.
+Strawberries and citrus together. The maple syrup doesn't make it sweet, it just—rounds something off. Hard to explain.
+Leftovers work cold the next day. Sort of. They get softer but still taste good.
+
+## What You Need for Strawberry Appetizers
+
+Strawberries—fresh, the riper the better. Not mushy though. A quarter inch dice, rough is fine.
+
+Red onion. Half a small one. Minced fine. This is where the bite comes from. White onion doesn't work here.
+
+Jalapeño. Seeds in or out. Depends on how much heat you want. Start with seeds in half of it, taste, add more if it's not enough. Easier than pulling them out.
+
+Lime juice. Fresh. Not the bottle. Two tablespoons, maybe a bit more if your limes are small.
+
+Maple syrup. A tablespoon. Could use sugar. Maple just tastes better. Not too much or it gets sticky.
+
+Cilantro. Optional. Two tablespoons chopped. People either want it or they don't.
+
+Salt. A pinch. That's it.
+
+## How to Make Strawberry Salsa
+
+Prep the strawberries first. Cut them about a quarter inch—consistent enough that they cook at the same speed, if you want to serve them warm. Which you don't. But same principle. Not too small or they turn to mush when the lime juice hits. Not too big or they stay too firm. Quarter inch works.
+
+Mince the red onion fine. Like, finer than you think. This is the sharpness layer. The crunch stays better if the pieces are small. Takes maybe three minutes. Use a knife, not a processor.
+
+Jalapeño next. Cut it in half lengthwise. Scrape out the seeds if you want less heat—and you probably do unless you like pain. If you're keeping them in, just mince the whole thing. The seeds are where the capsaicin lives. Start conservative. You can always add more later.
+
+Throw everything in a medium bowl. Strawberries, onion, jalapeño, lime juice, maple syrup, cilantro if you're using it. Salt goes in now. Toss it gently but actually mix it. Not mashing—mixing. The lime starts breaking down the strawberries immediately, which is what you want, but not too much.
+
+Taste it. Strawberries vary wildly. Some are already sweet, some taste like nothing. Adjust the maple syrup now—a teaspoon at a time. Taste between additions.
+
+Cover it. Plastic wrap or a lid. Refrigerate for at least an hour. Not just cold. The flavors need time to actually marry. The onion sharpness mellows a tiny bit. The lime gets deeper. The berries keep their snap.
+
+After an hour, check it. Should smell bright. Should feel juicy with a bit of crunch from the onion still holding. Should have a slight tingle from the jalapeño.
+
+The liquid will gather slightly. That's good. It should not be pooling excessively. Oversit salsa gets soggy and everything flattens. Two days max in the fridge and the brightness fades. Fresh matters here.
+
+## Strawberry Salsa Tips and Common Mistakes
+
+Don't overwork the strawberries. They break down fast once the lime juice hits. Mix gently. You're not making a smoothie.
+
+The lime is the clock. Once it touches the berries, they start releasing water. An hour in the fridge is the sweet spot. Less than that and the flavors don't blend. More than that and it gets watery.
+
+Taste as you go with the heat. Jalapeño strength varies. Half with seeds works for most people. If you're unsure, leave them all out and add minced jalapeño on the side. People can add what they want.
+
+Cilantro is actually optional. Some people love it, some think it tastes like soap. Make two batches if you're serving a crowd—one with, one without. Not a big deal.
+
+Red onion is non-negotiable. White onion tastes thin. Yellow onion is too mellow. Red has the right amount of bite and stays visible, which matters for a salsa.
+
+Serve it cold or room temp. Cold is better. Room temp works if you're at a picnic and the cooler's empty.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Strawberry Salsa
+
+**Can I make this salsa recipe ahead of time?**
+An hour before, yeah. Two hours max. After that it gets watery and the strawberry texture softens too much. Make it morning-of if you need it for dinner.
+
+**What's the best way to store leftover strawberry salsa?**
+Sealed container, fridge, two days. That's it. Freshness drops fast. After day two the berries turn to mush and the brightness is gone.
+
+**Can I use frozen strawberries for this strawberry appetizers recipe?**
+No. They fall apart when they thaw and you'll end up with strawberry juice, not salsa. Fresh only.
+
+**Should I remove the jalapeño seeds?**
+Depends. Half the pepper with seeds = medium heat for most people. All seeds out = mild. All seeds in = actually spicy. Start with seeds in half and taste before you add more.
+
+**Can I add pineapple to make a pineapple strawberry salsa?**
+Could. The lime and pineapple together might be too acidic. Haven't tried it. Probably works if you skip some of the lime juice.
+
+**Does the maple syrup make this too sweet?**
+Not if you're careful with the amount. A tablespoon is just enough to round off the lime sharpness. Some strawberries are already sweet—taste before you add anything. You might skip it entirely.
+
+**What should I serve this mango and strawberry salsa with?**
+Tortilla chips, obviously. Grilled chicken. Fish. Corn salad. Mixed into yogurt. Cold shrimp. It's a versatile citrus salsa—basically works with anything that needs brightness.
+
+**Can I make a canned peach salsa recipe instead of this fresh version?**
+This isn't canned. It's fresh fruit salsa. Canned peaches are softer and taste different. Different recipe entirely.
