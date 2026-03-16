@@ -1,9 +1,9 @@
 ---
-title: "Lobster White Chocolate Soup"
+title: "Lobster White Chocolate Soup with Striped Bass"
 slug: "lobster-white-chocolate-soup"
-description: "A delicate seafood broth with a hint of white chocolate, blended with striped bass and lobster meat. The chocolate melts into the fumet creating a creamy texture without cream. Egg yolk thickens gently. The soup is finished with tender fish cubes and sweet lobster chunks. Pinches of green onion add brightness. Cooking low and slow keeps the fish firm and juicy. No nuts, gluten free, subtle sweetness meets briny richness. Lobster claws split for garnish, visual punch. Originally fish fumet, chocolate white replaced partly by white cocoa butter for softer sweetness and less dairy tone. Egg yolk swapped partly to mascarpone for silkier mouthfeel. 4 portions."
-metaDescription: "Lobster White Chocolate Soup blends delicate seafood broth, shredded lobster, striped bass with white chocolate and mascarpone for creamy, silky texture."
-ogDescription: "Gentle seafood broth with lobster, bass; white chocolate melts off-heat. Egg yolk plus mascarpone thickens. Claws garnish, scallion freshens at end."
+description: "Luxurious lobster white chocolate soup blending fish stock, striped bass, and shredded lobster meat. Egg yolk and mascarpone create silky richness without cream. Finished with scallion."
+metaDescription: "Lobster white chocolate soup recipe with striped bass, fish stock, and egg yolk. Elegant seafood broth without cream. Make it tonight."
+ogDescription: "Elegant lobster soup with white chocolate, striped bass, and fish stock. Creamy, briny, and sophisticatedly sweet."
 focusKeyphrase: "lobster white chocolate soup"
 date: 2025-09-26
 draft: false
@@ -21,9 +21,18 @@ tags:
 - "chocolate"
 - "eggs"
 keywords:
+- "lobster white chocolate soup"
 - "lobster soup"
-- "white chocolate broth"
-- "seafood fumet"
+- "white chocolate soup"
+- "seafood soup"
+- "lobster and striped bass soup"
+- "creamy lobster soup without cream"
+- "white chocolate lobster bisque"
+- "fish stock lobster soup"
+- "elegant seafood broth"
+- "striped bass soup"
+- "gourmet lobster recipe"
+- "gluten free seafood soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "210"
@@ -61,3 +70,51 @@ faq:
 - "q: How to store leftovers? a: Cool quickly refrigerate up to 2 days. Reheat gently low heat no boiling. Stir often. Lobster meat can dry out reheated too long. Claws better kept separate to maintain texture."
 
 ---
+
+Heat the stock until it barely bubbles. Pull it off immediately. White chocolate and egg yolk go in next — but not into boiling broth. That's how this breaks.
+
+## Why You'll Love This Lobster White Chocolate Soup
+
+Seafood soup that tastes like a restaurant made it. Takes 37 minutes total — 25 prep, 12 cooking. Creamy without cream. The white chocolate doesn't make it sweet. It just softens everything and makes the lobster taste more like itself. Served in coffee cups because it's that elegant. Leftovers taste different the next day. Better, maybe. Bass keeps the soup from being one-note. It's there but not in the way.
+
+## What You Need for This Creamy Lobster Soup Without Cream
+
+Fish stock. Real stuff. Not bouillon. 525 milliliters. White chocolate — finely chopped. 30 grams. Not a lot. One egg yolk. One tablespoon mascarpone mixed together. Striped bass or Chilean sea bass, diced. 150 grams. Cooked lobster about 600 grams — meat shredded, claws saved whole. One scallion, thin sliced. Salt. White pepper. That's it.
+
+## How to Make Lobster and Striped Bass Soup
+
+Get the stock heating in a saucepan. You want small bubbles appearing on the surface — that moment right there. Not a rolling boil. The second it starts to actually boil, pull it off the heat. Boiling reduces it too much and makes it bitter. Stop before you think you should.
+
+Whisk the egg yolk with mascarpone in a small bowl until it's combined. Just mix. Grab the white chocolate — it needs to go into the hot stock gradually while you stir constantly. Not all at once. The chocolate dissolves into the stock. Then the yolk mixture goes in slowly. Stir hard the whole time. This is what keeps it from breaking. The stirring matters more than you think.
+
+## How to Get the Texture Right in Seafood Soup
+
+Put the mixture back on very low heat. Add the diced bass. Add the shredded lobster meat. Stir it but don't let it boil. The fish is done when it turns opaque and flakes easy. Takes about 4 to 5 minutes. Too much heat and it gets rubbery. Low heat means it stays tender. Season now. Salt. A pinch of white pepper. Taste it. The white chocolate softens the flavor — the fish and lobster should still be the main thing. Don't oversalt. Adjust sparingly.
+
+## Lobster White Chocolate Soup Tips and Common Mistakes
+
+Halve the lobster claws lengthwise before serving. They go on top. Half a claw per bowl. It looks expensive. Serve it hot in medium-sized coffee cups or small bowls. Not soup bowls. Coffee cups make it feel intentional. The scallion goes on just before serving — it cuts the richness with something fresh. Try it without first though. Sometimes you don't need it.
+
+Don't skip the fish stock. Bouillon tastes like nothing. Don't boil the broth. It breaks. Don't stir the egg yolk in fast. Slow and constant. White chocolate chunks take a minute to dissolve but they will. The bass and lobster both need to go in at the same time. The bass seasons the soup while it cooks. Bass does something to the flavor that makes the lobster better. Not sure why exactly. Just does.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lobster White Chocolate Soup
+
+**Can I use a different fish instead of striped bass?**
+Sea bass works. Halibut works. Cod probably works too. Avoid anything with a strong flavor. The bass is there to be quiet. It seasons the broth more than it announces itself.
+
+**What if I don't have mascarpone?**
+Heavy cream works. Half the amount. The mascarpone is just there to help bind the egg yolk. It doesn't need to be mascarpone specifically.
+
+**Can I make this without white chocolate?**
+Not really. You could make a straight seafood soup with the bass and lobster. But the white chocolate does something to the mouthfeel. It rounds it. Without it, it tastes like it's missing something.
+
+**How do I know when the stock is ready to come off the heat?**
+Small bubbles. Tiny ones. Appearing at the edges and bottom. Not boiling. The moment it actually boils, pull it. You'll see the difference once you watch for it.
+
+**Does this keep overnight?**
+Yes. Refrigerate it. Reheat gently over low heat. The white chocolate and egg yolk — they're already cooked, so it's fine. Just don't let it boil when you reheat. Same rule.
+
+**Why egg yolk and mascarpone instead of cream?**
+Lighter. Silkier without the heaviness. Cream would work but it would taste like cream soup. This tastes like lobster and bass soup that happens to be creamy.
