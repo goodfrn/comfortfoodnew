@@ -1,10 +1,10 @@
 ---
-title: "Stuffed Niçoise Buns"
+title: "Tuna Melt with Asparagus & Radish"
 slug: "stuffed-nicoise-buns"
-description: "A savory blend of tuna, crunchy veggies, and tangy vinaigrette stuffed in tender buns. Haricots verts swapped with blanched asparagus tips for a fresh snap. Instead of red bell pepper, diced radish adds peppery crunch. Modified vinaigrette with sherry vinegar instead of red wine. Cooking times flexed for imperfect stovetop setups. Egg boiled by feel, cooking veggies alongside for efficiency. Mix of textures, vibrant colors, and punchy flavors captured in handheld bites. No mayo here—olive oil-based dressing keeps it bright and dairy free. The filling’s juicy enough to make you slightly mess but that’s part of the fun. Elevate sandwiches beyond bread, simple yet layered with bold Niçoise spirit."
-metaDescription: "Stuffed Niçoise Buns packed with tuna, asparagus, radish crunch; olive oil vinaigrette, boiled egg texture judged by feel. Handheld bites with bold flavors."
-ogDescription: "Tuna and asparagus stuffed buns with zesty vinaigrette, radish crunch, and jammy boiled egg. No mayo, no fuss, just layered textures and lively flavors."
-focusKeyphrase: "Stuffed Niçoise Buns"
+description: "Tuna melt sandwich loaded with asparagus tips, radish, cherry tomatoes, and sherry vinegar dressing. Dairy-free olive oil vinaigrette keeps it bright and fresh."
+metaDescription: "Tuna melt recipe with asparagus tips, radish, and sherry vinegar dressing. No mayo—just bright, fresh flavors. Make it tonight."
+ogDescription: "Tuna melt with asparagus, radish & sherry vinegar. Bright, dairy-free, and packed with fresh vegetables."
+focusKeyphrase: "tuna melt"
 date: 2025-09-26
 draft: false
 image: stuffed-nicoise-buns.jpg
@@ -21,9 +21,18 @@ tags:
 - "asparagus"
 - "easy"
 keywords:
-- "stuffed buns"
-- "vinaigrette dressing"
-- "boiled egg technique"
+- "tuna melt"
+- "tuna melt recipe"
+- "tuna sandwich recipe"
+- "tuna fish sandwich recipe"
+- "tuna melt sandwich recipe"
+- "tuna niçoise salad"
+- "tuna salad sandwich recipe"
+- "tuna egg sandwich"
+- "salade nicoise recipe"
+- "tuna fish sandwich"
+- "tuna and egg salad"
+- "tuna sandwiches"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "360"
@@ -77,3 +86,86 @@ faq:
 - "q: How to keep buns from soggy? a: Hollow out just before serving. Wrap filled buns tight if storing. Toast crumbs from hollowed part to add texture or use them to shellac crumb inside before adding filling. Quick assembly prevents wet bread."
 
 ---
+
+Slice the bun tops off. Hollow them out without going too deep. That's the first move—thick walls hold everything without falling apart. While you're doing that, get water boiling for the egg.
+
+## Why You'll Love This Tuna Melt
+
+Takes 45 minutes total if you're not rushing. Most of that's just sitting around.
+Works for lunch, dinner, or that weird 4pm meal nobody talks about.
+The egg yolk breaks into the dressing. Changes everything.
+Asparagus instead of lettuce. Crunchier. Stays that way even after it sits an hour.
+No mayo. The vinaigrette does the work—sherry vinegar hits different than whatever's usually in a tuna sandwich.
+Radish gives you peppery snap. Not the bland crunch you're used to.
+
+## What Goes Into a Tuna Melt Sandwich
+
+Olive oil first—about 50 ml. Sherry vinegar, 25 ml. Small garlic clove, minced fine. Anchovy paste or a chopped fillet. Salt and pepper. That's the vinaigrette. Tastes sharp at first. Mellows as it sits.
+
+Four small round buns. Ciabatta squares work too. One egg—boiled. Asparagus tips cut into 1 cm pieces, maybe 140 ml worth. Shredded radicchio, 500 ml—that's a lot. It wilts down. Cherry tomatoes halved. A radish quarter, diced small. One can of tuna, drained well. Green onion sliced thin. Black olives chopped. About 15 ml.
+
+That's it. Not a long list.
+
+## How to Make a Tuna Fish Melt Sandwich
+
+Get water boiling. Serious boil. Drop the egg in, let it go for maybe 7 minutes—depends on your stove. You'll know it's done when you shake it gently and the yolk feels solid but soft inside. Takes practice.
+
+Last 5 minutes, add the asparagus to the same pot. Pinch of salt. It should come out bright green. Still crunches when you bite it.
+
+Drain everything into a colander. Ice bath immediately. Cold water. Stops the cooking fast. Peel the egg under running water—peels slip off easier that way, doesn't stick to the white. Cut it into eighths. Drop it straight into the vinaigrette bowl.
+
+Add the asparagus now. Then the radicchio. Tomatoes. Radish. Tuna. Green onion. Olives. Toss gently. You want everything coated, not mushed. Let it sit 5 minutes. The dressing softens the radicchio edges a bit—takes the edge off the bitterness.
+
+## How to Get the Filling Right and Pack the Buns
+
+Spoon the filling in. Generous. Press it down a little so it fits, but don't crush the egg pieces into oblivion. The yolk should still be intact.
+
+Bun tops go back on. Wrap in parchment if you're eating it later. The filling's wet and smells strong—parchment keeps it from leaking everywhere.
+
+The egg texture matters. Overboil it and it gets crumbly. Underboil and it oozes everywhere. You want that barely-set yolk that breaks when you bite down.
+
+Asparagus has to snap. If it's soft, you overcooked it.
+
+## Tuna Sandwich Tips and When Things Go Wrong
+
+Radish does something the traditional tuna sandwich doesn't. Peppery crunch instead of bland celery or whatever. It actually works.
+
+Seasoning gets skipped a lot. Don't skip it. The vinaigrette needs salt. The filling needs more salt after it sits. Taste it before you wrap it.
+
+Sherry vinegar instead of white vinegar. White tastes sharp in a bad way. Sherry's softer.
+
+Can't find sherry vinegar? Red wine vinegar works. Different flavor but not bad.
+
+Tuna—drained well. Oil left in makes it too slick. If you're using salmon instead, it still works. Same logic. White beans if you don't want fish. Texture's different but the idea holds.
+
+Asparagus in a pinch—green beans. Snap peas. Whatever stays crunchy.
+
+Timing thing: prep the vinaigrette and chop everything while the egg boils. Then you're not standing around at the end. Hollow the buns right before you fill them. Too early and they get soggy from sitting.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tuna Melt Sandwich Recipe
+
+**Can you make this ahead?**
+Few hours max. The filling's wet. Buns start falling apart after that. If you're packing it for later, keep the bun and filling separate, assemble when you eat it.
+
+**What if you don't like anchovies?**
+Cut the paste in half. Or skip it. The vinaigrette works fine without it—just less depth. Less umami. But honestly, you barely taste it.
+
+**Why sherry vinegar?**
+Goes smoother than white vinegar. Not as aggressive. Has a sweetness that works with the tuna. White tastes thin.
+
+**How do you know when the egg's done?**
+Shake it gently. The yolk should feel solid but still move inside the white. Comes down to feel. Boil it a few times and you'll figure out your stove.
+
+**Can you swap out the radicchio?**
+Yeah. Lettuce works but it's blander. Arugula if you like peppery. Cabbage's softer than radicchio, soaks up dressing faster. All work.
+
+**What's a good tuna fish sandwich recipe substitution?**
+Salmon. White beans. Chickpeas if you want protein without fish. The vinaigrette works with anything.
+
+**Does the asparagus have to be fresh?**
+Fresh is better. Stays crisp. Frozen asparagus gets softer even if you undercook it. Not the same.
+
+**Why do the tuna salad sandwich flavors work this way?**
+The egg yolk breaks into the vinaigrette. Creates a sauce. Asparagus adds crunch. Radicchio adds bitterness that the egg and tuna balance out. It's not complicated but it works.
