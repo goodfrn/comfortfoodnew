@@ -312,7 +312,7 @@
 
   <!-- ACTIONS TOP -->
   <div class="rc-actions">
-    <button class="rc-btn rc-btn-print" onclick="window.print()">
+    <button class="rc-btn rc-btn-print" onclick="(function(){var w=window.open('','_blank');w.document.write('<html><head><title>Print<\/title><style>body{margin:0;font-family:Georgia,serif;}<\/style><\/head><body>'+document.getElementById('recipe-card').innerHTML+'<\/body><\/html>');w.document.close();w.print();w.close();})()">
       <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/></svg>
       Print
     </button>
@@ -432,7 +432,7 @@
 
   <!-- ACTIONS BOTTOM -->
   <div class="rc-actions-bottom">
-    <button class="rc-btn rc-btn-print" onclick="window.print()">
+    <button class="rc-btn rc-btn-print" onclick="(function(){var w=window.open('','_blank');w.document.write('<html><head><title>Print<\/title><style>body{margin:0;font-family:Georgia,serif;}<\/style><\/head><body>'+document.getElementById('recipe-card').innerHTML+'<\/body><\/html>');w.document.close();w.print();w.close();})()">
       <svg fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/></svg>
       Print Recipe
     </button>
