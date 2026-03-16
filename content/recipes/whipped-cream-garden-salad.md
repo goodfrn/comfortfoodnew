@@ -1,10 +1,10 @@
 ---
-title: "Whipped Cream Garden Salad"
+title: "Cucumber Salad with Whipped Cream"
 slug: "whipped-cream-garden-salad"
-description: "Light leafy greens meet airy whipped cream dressing with a crisp onion and cucumber crunch. Takes about 20 minutes. Serves 4 to 6. Cream whipped to soft peaks, tossed immediately to avoid wilting. Substitute romaine if frisée's nowhere. Thin slices of cucumber replace radish for softer bite, mint leaves added for fresh twist. Salt and pepper balance the sweetness of cream. Chill everything beforehand for best results. No eggs, nuts, or gluten. Perfect for a quick starter or side with a touch of unexpected creaminess."
-metaDescription: "Whipped Cream Garden Salad with crisp greens, mint, and cucumber. Light whipped cream dressing folded gently, keeping texture crisp and fresh. Quick prep; serves 4-6."
-ogDescription: "Light greens meet airy whipped cream, mint, and cucumber for a refreshing salad. Soft peaks cream, gentle toss; keep crisp, bright, and delicate. Ready in 20 minutes."
-focusKeyphrase: "Whipped Cream Garden Salad"
+description: "Cucumber salad with crisp endive, green onions, and fresh mint tossed in whipped cream dressing. Light, creamy side dish ready in 20 minutes."
+metaDescription: "Cucumber salad recipe with whipped cream dressing, endive, and fresh mint. Quick creamy side that's gluten-free. Make it tonight."
+ogDescription: "Crispy cucumber and endive salad with whipped cream dressing and fresh mint. Light, creamy, and ready in 20 minutes."
+focusKeyphrase: "cucumber salad"
 date: 2025-08-18
 draft: false
 image: whipped-cream-garden-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "summer"
 - "healthy"
 keywords:
-- "whipped cream salad"
-- "light garden salad"
-- "soft peak cream"
+- "cucumber salad"
+- "cucumber salad recipe"
+- "creamy cucumber salad"
+- "cucumber and cream salad"
+- "cucumber onion salad"
+- "easy cucumber salad"
+- "green salads recipe"
+- "cucumber recipes"
+- "basic cucumber salad"
+- "salad with green goddess dressing"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "80"
@@ -63,3 +70,81 @@ faq:
 - "q: How to store leftovers? a: Keep greens and whipped cream dressing separate in fridge. Dress salad only right before serving to keep leaves crisp. Cream can last a day cold but loses air, texture. Tossing in advance = soggy salad. Store airtight, use soon."
 
 ---
+
+Chill the bowl first. Ten minutes in the fridge. Cold matters here — the cream whips faster and gets properly billowy instead of thin and sad. Then slice the cucumber paper-thin. Like actually thin. The kind where light goes through it a little.
+
+## Why You'll Love This Cucumber Salad
+
+Takes 20 minutes total and most of that is just sitting around waiting. Actual work time is maybe 10 minutes of slicing and mixing.
+
+Summer salad that doesn't need a grill or three hours of marinating. Just vegetables and cream and you're done.
+
+Healthy without tasting like you're being punished. Cream makes it feel indulgent. Cucumber keeps it light. Both things at once.
+
+The mint does something. Can't quite explain it. Just makes you want another bite.
+
+## What You Need for a Creamy Cucumber Salad
+
+Heavy cream — 35% fat minimum. The lighter stuff won't whip properly. Just doesn't have the body for it.
+
+Curly endive. The ruffled lettuce. It's got texture that flat lettuce doesn't. Romaine works if that's what you have but it's milder and softer. Endive holds the dressing differently.
+
+One small cucumber peeled. Thin slices. Not ribbons, not chunks. Slices. The size matters because they need to stay crisp but absorb just enough cream to not be watery.
+
+Green onions sliced thin. Really thin. Mandoline thin if you can. Thick pieces just taste sharp and wrong here.
+
+Fresh mint. Chopped small. A tablespoon sounds like nothing but it spreads through everything. More than that and it takes over.
+
+Salt and black pepper. Fresh cracked pepper, not the dusty stuff that's been sitting open for a year.
+
+## How to Make Creamy Cucumber Salad
+
+Put the mixing bowl and beaters in the fridge for 10 minutes. Temperature changes everything with cream. Cold bowl means the cream whips faster and gets actual volume instead of turning to soup.
+
+Pour cold cream in. Start the mixer slow. Speed it up gradually. Watch it go from liquid to foamy to thick and billowy. Stop at soft peaks — when the cream holds a shape but still looks spreadable and airy. Not stiff peaks. That's when graininess happens and it gets all clumpy and you've basically made a mistake.
+
+Pinch of salt goes right into the whipped cream. Several grinds of black pepper. Fold gently with a spatula, not a whisk. The whisk breaks all the air bubbles you just spent time creating. Just fold until it's mixed through. The cream should look pale and speckled now.
+
+Tear the endive into pieces. Slice the cucumber thin. Slice the green onions thin. Chop the mint. Throw all of it in a big bowl. Look at it. The greens should be bright. Cucumber should smell fresh and cool. This is the part where you know whether you're making something good or something that's going to be fine.
+
+## How to Keep This Cucumber Salad Crisp and Fresh
+
+Add the whipped cream. Use a fork and spatula together — stir quickly but not aggressively. The goal is coating, not drowning. Lettuce wilts fast once it's wet. If you're mixing for more than 30 seconds you've already gone too long.
+
+Taste it now. Before you serve it. This is where you fix salt and pepper. Mint can sneak up. A tablespoon seemed small when you chopped it but it spreads everywhere. Add more salt if it tastes flat. More pepper if it needs bite.
+
+Serve immediately. Or no longer than 5 minutes after you add the cream. The endive stays crisp for maybe that long and then it gets soft and the whole thing falls apart texture-wise. If you're making this ahead, keep the greens separate from the cream until the last moment. It's the only way.
+
+## Cucumber Salad Tips and Mistakes to Avoid
+
+Don't whip the cream to stiff peaks. Everyone does this. It ends up grainy and hard and you're basically eating sweetened butter chunks at that point. Soft peaks. Look for the moment where it holds a gentle shape but still has give.
+
+Green onions must be sliced thin. Like actually thin. Thick chunks are sharp and aggressive and they taste nothing like thin slices. Use a sharp knife. Or a mandoline if you have one. It matters.
+
+If you don't have curly endive, romaine works. Iceberg works. Butter lettuce works. They're all milder and softer than endive so there's less texture contrast but the salad still comes together. Just know it'll be different.
+
+The cucumber is the cooling element here. Peeled and thin. It's almost delicate. Radishes would add more bite and more peppery flavor but that's a different salad entirely. This one leans into the mint and the cream and the gentle crunch.
+
+Cucumber recipes often get complicated. This one doesn't. There's six ingredients and 20 minutes and you're eating something that tastes like summer.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cucumber and Cream Salad
+
+**Can I make this ahead?**
+Keep the greens and the cream separate until right before serving. The endive gets soft fast. Five minutes max after they touch or it falls apart.
+
+**What if I don't have heavy cream?**
+Greek yogurt works but it's tangier. Sour cream is too thick unless you thin it. Whipped cottage cheese is weird but technically possible. Heavy cream is the thing though.
+
+**Can I use a different lettuce for this creamy cucumber salad?**
+Romaine, butter lettuce, iceberg — they all work. Endive's got the ruffles which hold cream better. Other lettuces are softer and milder but the salad still tastes good.
+
+**Should I peel the cucumber?**
+Yeah. The skin gets kind of tough once it sits in the cream. Peeled stays softer and more delicate. Unless it's a really small thin-skinned cucumber then it doesn't matter as much.
+
+**Can I skip the mint?**
+You can. But it does something weird and good that you don't get without it. Try it once with it. You'll understand.
+
+**How thin should the cucumber slices be?**
+Thin enough that light passes through a little. Thin enough that you can't stack them too thick or they get mushy. Mandoline thin is the sweet spot. A knife works but takes longer.
