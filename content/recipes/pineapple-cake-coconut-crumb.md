@@ -1,10 +1,10 @@
 ---
-title: "Pineapple Cake Coconut Crumb"
+title: "Pineapple Cake with Coconut Crumb Topping"
 slug: "pineapple-cake-coconut-crumb"
-description: "A moist pineapple cake with a nutty coconut crumb crust. Melted butter blends with fresh pineapple juice in the batter, creating subtle tang and moist crumb. Toasted pecans and shredded coconut hit top for crunch and aroma. Watch for cake sides pulling slightly back from pan edges and toothpick clean pull. Subtle caramel notes emerge during baking. Solid balance of sweet tropical fruit and nutty crunch. Adjust sugars or swap pecans for walnuts if stuck. Familiar with sticky soggy pitfalls, drainage of fruit crucial. This version tweaks ingredients and timing to avoid gumminess and dry edges. A midway riff off classic Southern-style pineapple desserts."
-metaDescription: "Pineapple Cake Coconut Crumb combines drained crushed fruit with toasted nuts and shredded coconut topping. Watch edges, juice drained, and brown sugar crackle crust."
-ogDescription: "Sticky coconut crumb with crushed pineapple, toasted nuts, brown sugar crust. Drain fruit long, watch edges pull slightly, toothpick clean in crumb inside."
-focusKeyphrase: "pineapple cake coconut crumb"
+description: "Moist pineapple cake made with crushed pineapple, coconut oil, and topped with toasted walnuts and shredded coconut crumb. Perfectly balanced tropical flavor."
+metaDescription: "Pineapple cake with coconut crumb made from crushed pineapple, toasted walnuts, and sweetened shredded coconut. Try it tonight."
+ogDescription: "Tropical pineapple cake with coconut crumb topping, toasted walnuts, and brown sugar. Moist and delicious."
+focusKeyphrase: "pineapple cake"
 date: 2025-11-06
 draft: false
 image: pineapple-cake-coconut-crumb.jpg
@@ -22,10 +22,15 @@ tags:
 - "dessert"
 keywords:
 - "pineapple cake"
-- "coconut crumb"
-- "toasted walnuts"
-- "baking tips"
-- "fruit drainage"
+- "pineapple coconut cake"
+- "coconut crumb pineapple cake recipe"
+- "pineapple cake with toasted walnuts"
+- "coconut dessert"
+- "moist pineapple cake with coconut crumb"
+- "pineapple cake with shredded coconut and walnuts"
+- "crushed pineapple cake"
+- "tropical cake recipe"
+- "coconut walnut cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -70,3 +75,59 @@ faq:
 - "q: How to store leftovers? a: Wrap tight in fridge for soft crumb days later. If topping crisp preferred, cover loosely room temp or fridge but expect quicker softening. Cake can dry if left uncovered too long. Reheat gently or eat cold as personal preference."
 
 ---
+
+Crush the pineapple first—that juice matters more than the fruit itself. Set your oven to 345 and spray a 9x13 pan. Most people skip the straining step. Don't. Let it sit in a mesh sieve for ten minutes, maybe more. That's where the moisture comes from, the thing that keeps every slice soft instead of crumbly.
+
+## Why You'll Love This Pineapple Cake with Coconut Crumb
+
+Takes 58 minutes total and tastes like you actually tried.
+The toasted walnuts and coconut on top get crispy and nutty and kind of caramelized in the brown sugar—doesn't stay soft, which means texture.
+Pineapple juice mixed into the batter instead of regular liquid. Changes everything. Cake stays moist for days without being wet.
+Works cold or warm. Leftovers are honestly better the next day.
+No mixer needed beyond hand whisk if you're slow about it.
+
+## What You Need for Pineapple Cake with Toasted Walnuts
+
+Two and a half cups flour. All-purpose. One and a quarter teaspoons baking powder, one teaspoon baking soda—sift these together or they clump. Half a cup melted coconut oil. Not butter. Coconut oil gives it something different. One and a third cups sugar. Three eggs. Room temperature works better but cold's fine too. A third cup pineapple juice from draining—that's the gold part. A cup and a half crushed pineapple, drained well. Don't skip the draining. Three-quarter cup packed brown sugar for the topping. Three-quarter cup chopped toasted walnuts—toast them yourself, seriously, makes the whole thing taste deeper. Three-quarter cup shredded coconut, sweetened.
+
+## How to Make Pineapple Cake with Coconut Crumb
+
+Oven at 345. Spray the pan and let it preheat a minute with the oven—helps the batter stick instead of sliding around. Crush your pineapple until it's actually crushed, not chunks. Dump it in a mesh sieve over a bowl and leave it alone. Ten minutes minimum. Sometimes I wait longer if I'm distracted. The juice pools at the bottom. That's what you need.
+
+Whisk the flour, baking powder, and baking soda together in a bowl. Aerate it. Melt the coconut oil until it's warm but not hot—you can touch it without flinching. Pour it in with the sugar and crack the eggs in. Hand mixer on low. Don't go crazy and whip air into the eggs or you get a dense cake. Slowly add the pineapple juice. The batter gets loose but stays heavy.
+
+Fold in the crushed pineapple gently. Not stirring—folding. Makes sure every bite has fruit without breaking it into smaller pieces. Spread it even in the pan with an offset spatula or the back of a spoon.
+
+## How to Get the Coconut Crumb Topping Crispy
+
+Mix the brown sugar, toasted walnuts, and coconut in a small bowl. Toast the walnuts before you use them—fifteen minutes at 325 if you haven't already. Cold nuts taste flat. Sprinkle the topping evenly over the batter. Heavier on the edges. It won't migrate as much that way.
+
+Center rack. Watch it. Around 28 minutes the edges start turning this light golden color and the sides shrink a little. At 33 minutes, stick a toothpick in the center. Should come out clean or with maybe five millimeters of crumb clinging. The center still jiggles slightly—that's right. That's moist.
+
+## Pineapple Cake Tips and Common Mistakes
+
+Don't skip the draining. Wet pineapple ruins the whole thing—gets mushy inside, the crumb turns gummy. Pat the fruit dry with a paper towel after straining if it's sitting in liquid. Swap the walnuts for pecans or macadamia. Works fine. Toast them first. Butter replaces coconut oil if you want—subtle coconut flavor disappears but the cake still works.
+
+Foil on top means soggy crust. Learned that the hard way. Just let it bake uncovered. The topping browns, the crust stays dry. Cool it 15 minutes before slicing—hot cake falls apart. Slice with a sharp knife, cut down and pull instead of sawing. Leftovers wrapped tight in the fridge stay soft. Loosely covered on the counter keeps the top crispy. Either way works. Depends what you want.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pineapple Cake with Coconut Crumb
+
+**Can I use fresh pineapple instead of canned?**
+Yeah. Crush it, strain it longer—maybe fifteen minutes. Fresh has more juice. You want it drained proper or the cake gets soupy inside.
+
+**What if I don't have coconut oil?**
+Butter works. Vegetable oil works. Coconut oil tastes better but it's not necessary. Skip it if you have to.
+
+**How long does it stay fresh?**
+Three days wrapped. After that the crumb gets soft and weird. Fridge extends it a couple days more but the topping loses its crisp.
+
+**Can I make this gluten-free?**
+Haven't tried it. Probably needs less baking soda if you swap the flour. Not worth guessing on.
+
+**Why does the juice matter so much?**
+Pineapple juice has acid and sugar both. Regular milk or water doesn't do that. Keeps the crumb soft without making it wet. It's the difference between a cake that lasts three days and one that's dry by day two.
+
+**Do the walnuts have to be toasted?**
+Not technically. Raw ones work. Toasted ones taste like something happened to them, kind of deeper. Worth the fifteen minutes in the oven.
