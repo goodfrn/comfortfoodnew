@@ -1,10 +1,10 @@
 ---
-title: "Tofu Veggie Wraps"
+title: "Veggie Wraps with Grilled Tofu & Sesame Mayo"
 slug: "tofu-veggie-wraps"
-description: "Grilled tofu and vegetables wrapped in tortillas with a tangy sesame mayo. Includes charred red peppers and zucchini slices, marinated tofu in lime and mirin, toasted with a basic sesame oil mayonnaise spread. Serves 4 large or 6 small wraps. Lacto- and nut-free vegetarian option."
-metaDescription: "Tofu Veggie Wraps recipe with grilled tofu, charred veggies, and sesame mayo. Perfect for a quick, flavorful meal packed with nutrition."
-ogDescription: "Grilled tofu and veggies wrapped in tortillas with sesame mayo. A nutritious, tangy vegetarian option for lunch or snack."
-focusKeyphrase: "Tofu Veggie Wraps"
+description: "Grilled tofu and vegetable wraps with charred red peppers, zucchini, and sesame mayo. Quick vegetarian wraps served with lettuce and lime-marinated tofu for a fresh, tangy meal."
+metaDescription: "Make veggie wraps with grilled tofu, red peppers, zucchini, and sesame mayo. Quick vegetarian wrap recipes that serve 4-6. Try it tonight."
+ogDescription: "Grilled tofu veggie wraps with charred peppers, zucchini, and tangy sesame mayo. Easy vegetarian wraps ready in 30 minutes."
+focusKeyphrase: "veggie wraps"
 date: 2025-07-21
 draft: false
 image: tofu-veggie-wraps.jpg
@@ -22,8 +22,17 @@ tags:
 - "grilling"
 keywords:
 - "veggie wraps"
-- "tofu recipes"
-- "vegetarian meals"
+- "vegetarian wraps"
+- "tofu wraps"
+- "grilled vegetable wraps"
+- "tofu sesame"
+- "vegetarian wrap recipes"
+- "lettuce tofu wraps"
+- "tortilla wraps vegetarian"
+- "sesame tofu recipes"
+- "veggie wrap recipes"
+- "grilled veggie wrap"
+- "vegetarian wrap ideas"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "270"
@@ -69,3 +78,67 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly in parchment, seal in airtight container. Refrigerate up to two days, best fresh and cold."
 
 ---
+
+Cut the tofu into 12 slices. Brush everything—peppers, zucchini, the tofu—with oil and salt it now. Grill burns the outside and it takes 20 minutes total, mostly cooling. You'll peel the pepper skin off after it steams, which sounds fussy but takes like two minutes.
+
+## Why You'll Love These Veggie Wraps
+
+Grilled tofu with sesame actually tastes like something—not like you're eating air. The mayo mixture hits different. Takes 38 minutes start to finish. Not a weekend project. Cleanup is basically running your grill pan under water. Works cold the next day, maybe better. Vegan but doesn't feel like you're missing anything. You make the wraps, wrap them in parchment, grab one at lunch. Done.
+
+## What You Need for Grilled Veggie Wraps
+
+Two red bell peppers halved and seeded. Not yellow. Red ones get sweeter. Firm tofu—318 grams, which is about 11 ounces, cut into 12 slices. Not silken. Firm or extra-firm. Two small zucchini sliced lengthwise, about 6 millimeters thick. That's roughly a quarter inch. Three tablespoons olive oil. One and a third tablespoons lime juice. One and a third tablespoons rice vinegar. Five tablespoons mayo. One tablespoon toasted sesame oil—not regular sesame oil, it burns. Four 10-inch flour tortillas. Five hundred milliliters shredded iceberg lettuce. Salt. Pepper.
+
+The mayo and sesame oil go together. That's your spread. The lime and rice vinegar dress the tofu while it's still warm—it soaks it in instead of sitting on top.
+
+## How to Make Grilled Veggie Wraps
+
+Heat your grill or grill pan to high. Doesn't matter which. Brush the peppers, tofu, and zucchini with olive oil. Season everything now—salt and pepper while the oil's still wet so it sticks. Place the pepper halves skin-side down on the grill. They'll char on that side. Eight to ten minutes. Don't move them around. The char is supposed to happen.
+
+When the peppers blacken enough, throw them in a sealed container—a bowl with plastic wrap works. They steam themselves as they cool. The skin pulls off after that like nothing. Set them aside in the fridge.
+
+Grill the tofu three minutes a side. Watch for grill marks, not color—tofu doesn't brown like meat does. The marks mean it's holding together. Three minutes each side. Don't flip it constantly. Then the zucchini. Three minutes each side. Same thing. You're looking for soft inside and char lines on the outside.
+
+Mix the lime juice and rice vinegar in a bowl. Add the tofu slices while they're still warm. Toss gently so they don't fall apart. Salt and pepper it. That's it. It soaks in.
+
+## How to Get the Mayo Layer Right
+
+Combine the mayo and toasted sesame oil in a small bowl. Mix until it's smooth and there's no streaks. This is what holds everything together. It's also what makes these wraps taste good instead of just tasting like vegetables.
+
+Lay your tortillas flat. Spread the mayo mixture evenly across the whole surface. Not thick. Just enough to see it. Then down the center to the right side, layer your tofu, the peppers, the zucchini, and lettuce. Don't overstuff. It won't roll tight. Roll each one tightly. Wrap it individually in parchment paper, fold the ends like a candy wrapper.
+
+Cut in half to serve.
+
+## Veggie Wrap Tips and Common Mistakes
+
+Your grill needs to be actually hot. Cold grill = steamed tofu, not grilled tofu. The char matters. Don't peel the pepper skin while it's hot or you'll burn yourself and also it won't peel clean. Wait until it's cooled. Five minutes usually.
+
+The tofu slices stay whole because you only flip once. If you keep poking at them they'll crumble. Leave them alone. Three minutes is enough. Don't go longer thinking it'll get crispier. It won't.
+
+Zucchini gets soft fast. Don't bake it. Three minutes each side is the limit. Some people like it barely cooked. That works too.
+
+The parchment wrapping isn't just presentation. It keeps the wraps from drying out and it keeps the parchment from sticking to the filling if you're eating it later. Cold wraps stay better when wrapped.
+
+If you don't have a grill pan you can use a cast iron skillet on high heat. Works the same. Takes the same time.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Veggie Wrap Recipes
+
+**Can you make these ahead?**
+Yeah. Make them the morning of or the night before. Keep them wrapped in parchment in the fridge. They hold for about two days. The tofu gets softer but it's still fine.
+
+**What if you don't have sesame oil?**
+Don't use regular sesame oil. It burns and tastes different. Just use mayo straight. Not the same but it works.
+
+**Can you substitute the tofu with something else?**
+Tempeh works. Chickpeas work. Grilled halloumi if you're not vegan. The point is something with texture. Lettuce wraps vegetarian work cold, but grilled vegetables are better.
+
+**Do you have to grill it or can you bake?**
+Bake works. 425 degrees, 15 minutes. You won't get the char. The flavor's different. Grilling's better but baking's faster.
+
+**How much does this make?**
+Four wraps. Eight halves. Feeds two people as a meal or four as an appetizer. The sesame tofu part is pretty filling.
+
+**Can you use different vegetables?**
+Zucchini and peppers are the main ones. You could add grilled eggplant. Grilled mushrooms. Keep them sliced thin so they cook in three minutes. Don't add raw lettuce to the grill. That's why it's added after.
