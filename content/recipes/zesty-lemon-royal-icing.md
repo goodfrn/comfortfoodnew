@@ -1,10 +1,10 @@
 ---
-title: "Zesty Lemon Royal Icing"
+title: "Cookies With Lemon Glaze: Vegan Royal Icing"
 slug: "zesty-lemon-royal-icing"
-description: "A citrusy twist on classic royal icing. Uses aquafaba instead of egg white. Reduced sugar for a lighter bite. Quick whip-up that sets firm yet glossy. Around 30 cookies worth. Perfect for those avoiding eggs and dairy. Lemon zest adds fresh punch; acid tames sweetness. Watch for consistency; too thick — cracks, too thin — runs off edges. Patience with drying ensures that satisfying snap. Based on experiments ditching raw egg, the texture benefits and shelf life improve. Aromas hit sharp, bright, with sugar crunch under fingertips. Glazes cookies that make noise when tapped, a sign of done. Ideal for gluten-free bakes needing sheen and hold."
-metaDescription: "Zesty Lemon Royal Icing whipped with aquafaba for egg-free cookies. Quick seven-minute prep, light sugar, bright lemon zest, dries firm with tactile snap. Gluten-free sheen."
-ogDescription: "Egg-free lemon royal icing whipped fast from aquafaba. Light sugar, sharp zest, dries glossy and firm. Great for gluten-free cookie glazes with snap and crunch."
-focusKeyphrase: "Zesty Lemon Royal Icing"
+description: "Glossy lemon cookies with vegan royal icing made from aquafaba and fresh lemon juice. Eggless, dairy-free glaze sets firm and shiny for a satisfying snap."
+metaDescription: "Cookies with lemon glaze using aquafaba royal icing instead of eggs. Fresh lemon juice and zest for brightness. Try it tonight."
+ogDescription: "Vegan royal icing made with aquafaba and lemon juice. Creates a glossy, firm glaze that's egg-free and beautiful."
+focusKeyphrase: "cookies with lemon glaze"
 date: 2025-08-07
 draft: false
 image: zesty-lemon-royal-icing.jpg
@@ -21,9 +21,18 @@ tags:
 - "no bake"
 - "easy"
 keywords:
-- "royal icing"
-- "aquafaba"
-- "lemon zest"
+- "cookies with lemon glaze"
+- "vegan royal icing"
+- "lemon cookies with lemon icing"
+- "royal icing no egg recipe"
+- "eggless royal icing"
+- "aquafaba royal icing"
+- "lemon cookie frosting"
+- "icing for lemon cookies"
+- "lemon glaze for sugar cookies"
+- "egg free royal icing"
+- "vegan royal frosting"
+- "royal icing with lemon"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "25"
@@ -64,3 +73,79 @@ faq:
 - "q: Storing leftover glaze? a: Cover surface with cling wrap pressed tight to avoid crust. Refrigeration ruins texture, moisture causes weeping. Use within a day. Re-whip gently if some liquid separates."
 
 ---
+
+Whip the aquafaba first—that's the whole game. Two tablespoons of chickpea brine, a chilled bowl, about 3 minutes until it peaks. Soft peaks. Not sharp. Sharp ones dry out and crack. Then fold in the icing sugar, slow, don't rush it or the foam collapses. Lemon juice goes in last, just enough to thin it out but keep it thick enough to coat. That's basically it. Seven minutes, no oven, no mess.
+
+## Why You'll Love This Lemon Cookie Frosting
+
+No eggs. Vegan royal icing that actually works—sounds complicated, isn't.
+Dries hard and glossy. Like the real thing. Better than the real thing some days, probably.
+Takes seven minutes total if you move.
+Lemon flavor that tastes bright without being sharp. The zest helps. Optional but don't skip it.
+Cleanup is literally one bowl and a spoon.
+
+## What You Need for Lemon Cookie Icing
+
+Icing sugar. Start with 175 ml. Sift it—lumps ruin the whole thing.
+Aquafaba is the secret. That liquid from a can of chickpeas. Two tablespoons. Strain it first, get the grit out, chill the bowl before you whip.
+Fresh lemon juice. One tablespoon. Not bottled. Bottled tastes like plastic.
+Cream of tartar. Just a quarter teaspoon. Stabilizes everything so it doesn't weep later.
+Lemon zest. A teaspoon. Makes it taste like something. Optional but actually not.
+
+## How to Make Vegan Royal Icing With Lemon
+
+Get the aquafaba cold. Strain it into a bowl that's been in the freezer for at least five minutes—temperature matters more than people think. Whip it. Use an electric mixer if you have one, or a whisk and some arm strength. Three minutes, maybe four. Soft peaks. You'll know when you see them—they hold shape but flop over at the top. That's right. Sharp peaks look impressive and then they collapse and your glaze turns grainy.
+
+Sift the icing sugar into a separate bowl. Do this actually. Lumps in your glaze ruin the smooth finish and you can't fix it once it's mixed.
+
+Fold the sugar into the aquafaba slowly. Not stirring. Folding. Lift from the bottom, turn the bowl, keep the air in it. This is where you decide if it's going to work or break. Add the cream of tartar while you're at it—stabilizes the foam so it doesn't separate later and weep all over your cookies.
+
+Pour the lemon juice in gradually while you fold. Not all at once. Too much too fast and it gets thin and runny. You want it to coat the back of a spoon and flow slowly, not drip.
+
+Zest goes in last. Fold it lightly so you don't deflate everything you just built up.
+
+## How to Get Perfect Lemon Cookie Frosting
+
+The consistency test matters. Dip a spoon in, pull it out, watch it. Should coat the spoon and hold there for a second before it starts to run. Too thick and it won't spread. Too thin and it bleeds into the cookie edges and gets soggy.
+
+Dip the cookie tops. Just enough to cover. Don't overload them or the edges absorb too much and start to soften and everything falls apart.
+
+Set them on a wire rack. Not a plate. A rack. Air flows underneath.
+
+Room temperature, uncovered. Ten to fourteen hours. Around 20°C if you're thinking about it. Humidity is the enemy—too much and you get white haze on top like it's been in the fridge. Don't put it in the fridge. Condensation ruins the finish.
+
+Test doneness by tapping lightly. Should sound off. Feel slightly elastic but not wet.
+
+## Lemon Cookie Icing Tips and Mistakes to Avoid
+
+Don't use bottled lemon juice. Fresh is different. Tastes like actual lemon instead of that sharp chemical thing.
+
+Aquafaba temperature actually matters. Cold bowl, cold liquid. Room temperature aquafaba won't whip the same way.
+
+Humidity kills this glaze. Dry day is better than humid day. If it's sticky outside, wait for a drier one or work in air conditioning.
+
+Lumps in the icing sugar will show up in your glaze. Sift it. Takes thirty seconds. Worth it.
+
+Touching it before it's dry—even a little—marks it. Leave it alone. The longer you wait, the harder it gets.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Cookie Frosting
+
+**Can you make royal icing vegan without aquafaba?**
+Technically, maybe. Aquafaba is the only thing that actually whips like egg white though. Haven't found anything else that works the same way. Tried it once.
+
+**Does this royal icing recipe need to dry, or can you use it wet?**
+It needs to dry. That's the whole point. Wet it's just lemon frosting. Dry it's glossy and hard and lasts forever. Ten to fourteen hours minimum.
+
+**How long does this lemon icing for cookies last?**
+Once it's dry? Weeks. Months even. In an airtight container it stays crisp. Humidity softens it fast though. Keep it sealed.
+
+**Can you freeze cookies with lemon cookie frosting?**
+Freeze them unglazed and glaze after they thaw. Frost first then freeze and the condensation when they thaw ruins the finish.
+
+**What if your vegan royal icing won't hold peaks?**
+The aquafaba wasn't cold enough or the bowl wasn't cold. That's usually it. Chill everything first. Temperature matters.
+
+**Does lemon glaze for sugar cookies need anything else, or is this enough?**
+This is the whole thing. All you need. Some people add almond extract or vanilla, but—lemon's bright enough on its own. Doesn't need help.
