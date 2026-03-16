@@ -1,10 +1,10 @@
 ---
-title: "Veal Mustard Leeks Roast"
+title: "Baking Leeks with Roast Veal & Mustard"
 slug: "veal-mustard-leeks-roast"
-description: "Roast veal with a mustard glaze, slow-cooked leeks in cream, with a garlic-thickened sauce. Uses butter and olive oil for searing and roasting. Flour roasted for sauce builds depth. Aromatic garlic browns while thickening sauce. Leeks softened under foil, creamy but not soupy. Target an internal temp of 54°C for medium-rare, resting crucial. Swap veal loin for pork tenderloin or chicken breast for quicker, cheaper options. Mustard grain replaced by Dijon for smoothness; cream swapped for coconut milk for subtle twist and lactose intolerance. Cooking times flexible; watch aromas and meat texture for readiness. Sauce simmered until glossy with a velvety mouthfeel. Ideal for simple dinners with veggies or steamed potatoes."
-metaDescription: "Veal mustard leeks roast with coconut milk, seared crust, garlic-roasted sauce. Medium-rare target temp 54°C, buttery, earthy leeks, fragrant mustard glaze."
-ogDescription: "Seared veal roast rubbed with Dijon mustard, slow-cooked creamy leeks under foil. Garlic, toasted flour sauce thickened to satin texture; perfect medium-rare."
-focusKeyphrase: "veal mustard leeks roast"
+description: "Roasted veal sirloin with baking leeks in cream sauce, Dijon mustard glaze, and garlic-thickened stock. Tender, restaurant-quality dinner."
+metaDescription: "Baking leeks with roast veal sirloin, coconut milk cream, and Dijon mustard glaze. Elegant protein dinner ready in one pan. Make it tonight."
+ogDescription: "Roast veal with creamy baking leeks, Dijon mustard glaze, and rich garlic sauce. Simple, impressive dinner."
+focusKeyphrase: "baking leeks"
 date: 2025-08-07
 draft: false
 image: veal-mustard-leeks-roast.jpg
@@ -19,9 +19,18 @@ tags:
 - "roasted"
 - "easy dinner"
 keywords:
-- "veal roast"
-- "mustard glaze"
-- "creamy leeks"
+- "baking leeks"
+- "leek roasted"
+- "roast leeks oven"
+- "oven roasted leeks"
+- "oven baked leeks"
+- "veal with cream sauce"
+- "roasted leeks ottolenghi"
+- "oven braised leeks"
+- "baked leeks recipe"
+- "leeks in the oven"
+- "roast chicken leeks"
+- "potatoes and leeks roasted"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"
@@ -67,3 +76,100 @@ faq:
 - "q: How to store leftovers? a: Wrap meat tightly, keep separate from leeks if possible. Refrigerate 2-3 days max. Reheat gently in oven or covered pan to avoid drying. Sauce can thicken on standing; add water or stock to adjust. Freezing okay but affects leek texture."
 
 ---
+
+Veal goes in first — mustard crust, sizzling in oil until it's gold and smelling like dinner. Leeks underneath, soft from steam and butter, getting their edges brown while the roast cooks. Takes an hour forty-five total. Feels fancy. Isn't.
+
+## Why You'll Love This Roasted Veal and Leek Dinner
+
+One pan. Veal and leeks roast together, flavors mixing without extra work. You're not running between burners.
+
+The sauce happens while the meat rests — mustard, stock, that nutty flour. Coats everything. Takes maybe ten minutes and tastes like you planned it for days.
+
+Leeks get tender all the way through but the edges caramelize. Not mushy. Not crunchy either. That specific texture that only happens in the oven.
+
+Works as your actual dinner. Not a side dish situation. Potatoes on the plate, sauce over the meat and leeks, done. Easy enough for a Tuesday, looks good enough for company.
+
+Mustard crust on the veal stays even after it cooks. Doesn't wash off. Flavor sticks.
+
+## What You Need for Baking Leeks and Veal
+
+Four leeks, thick slices — about two centimeters. They shrink. Don't cut them thin. A 1.2 kilogram veal sirloin roast. Pork tenderloin works if that's what you have; texture's slightly different but close enough.
+
+Eighty milliliters each of butter and coconut milk or cream. Coconut milk tastes different — earthier, lighter. Cream's richer. Pick based on what you want the sauce to taste like.
+
+Dijon mustard. Not yellow mustard. The sharp one. Twenty-five milliliters mixed into a rub, then more goes in the sauce.
+
+Olive oil for searing. Not extra virgin — regular. Burns less aggressively.
+
+Garlic — four cloves minced. Toasted wheat flour or all-purpose flour you toast yourself in a dry pan first — fifty milliliters. The toasting changes everything. Raw flour tastes starchy. Toasted flour tastes like it belongs in a sauce.
+
+Seven hundred milliliters beef or vegetable stock. Whatever you have. Salt and black pepper. Oven-safe dish big enough to hold both the leeks and the veal roast.
+
+## How to Make Roasted Veal with Baked Leeks
+
+Oven goes to 185 to 190 degrees Celsius. Rack in the middle. Every oven runs different — watch the color, not just the time.
+
+Trim the leeks. Dark green part off. That part's tough and mostly grit anyway. Slice them thick — two centimeters — and rinse them hard under running water. Grit hides between the layers. Get it out or it's crunchy the wrong way.
+
+Scatter the leek slices in an oven-safe dish. Pour the coconut milk or cream over top. Dot with half the butter — literally just pieces scattered over. Salt and pepper generously. Cover the whole thing tight with foil. That traps steam. Leeks cook gently instead of drying at the edges.
+
+Pat the veal dry with paper towels. Moisture stops browning. Once it's dry, rub it all over with the Dijon mustard. Cover every surface. Salt and pepper it hard. I mean actually aggressive with the pepper. That crust matters.
+
+Get a heavy skillet hot — medium-high heat. Pour in the olive oil. Wait till it shimmers and moves around the pan easily but doesn't smoke. Too hot and the outside burns before the inside cooks. Too cold and you get pale meat instead of color.
+
+Sear the veal. All sides. Listen to that sizzle. The sound tells you the heat's right. Don't move it around constantly. Let it sit, get golden, then rotate. Should take maybe three minutes per side, depends on the shape. You want rich brown color, the mustard darkened and crusty.
+
+## How to Roast Leeks and Veal Together Until Done
+
+Transfer the seared veal directly on top of the leeks in the dish. Both go into the oven now. Fifty minutes total for the roast. Check the internal temperature around the forty-five minute mark if you have a meat thermometer — aim for 54 degrees Celsius. It'll climb a few degrees while resting.
+
+The leeks need forty minutes before you uncover them. After that, pull the foil off. Let the moisture evaporate. Another fifteen minutes uncovered so the tops brown. Watch them. The color should be golden and deepened, not black. They'll smell sweet and earthy and a little caramelized.
+
+Pull the veal out. Transfer it to a plate and tent it loosely with foil. Rest for fifteen minutes. This matters. The juices redistribute. The meat gets tender instead of tough. If you slice it right away, all that moisture ends up on the plate instead of staying in the meat.
+
+While the veal rests, make the sauce. Melt the remaining butter in a saucepan over medium heat. Add the minced garlic and the toasted flour. Stir gently. You're looking for the garlic to turn light golden and the flour to smell nutty and sweet. Don't rush this. Takes maybe three minutes. Garlic turns bitter if it burns.
+
+Pour in the stock slowly, whisking constantly. Add the remaining mustard. Keep stirring so lumps don't form. The sauce will come to a gentle boil. It thickens as it cooks — takes about eight to ten minutes. Satin texture, coats a spoon, tastes bright and savory and completely different from when you started.
+
+Taste it. Fix it. Too thick? Add water a splash at a time. Too thin? Simmer longer. Not enough mustard? Add more. It's not complicated.
+
+## Roasting Leeks and Veal Tips and Common Mistakes
+
+The leeks go underneath the veal, not on top. They steam from below, their moisture and the cream softening them while the veal roasts above. Some liquid will evaporate into the meat. That's intentional. The veal flavors the leeks, the leeks flavor the veal.
+
+Don't skip the resting time. I know it's hard to wait. Veal's expensive and you want to eat it. But fifteen minutes makes the difference between meat that's tender and meat that's tough and dry.
+
+Leek thickness matters. Too thin and they turn to mush. Too thick and they don't get tender all the way through by the time the veal's done. Two centimeters is the sweet spot. Not exact — an inch and a quarter works fine too.
+
+The mustard crust is the whole point. It protects the veal and tastes good. Don't skip it for something milder. The sauce balances the sharpness anyway.
+
+Toasting the flour changes its personality. Raw flour in sauce tastes chalky and starch-forward. Toasted flour tastes like it was meant to be there. Takes two minutes in a dry pan, medium heat, stir constantly so it doesn't burn. It'll smell nutty when it's right.
+
+Stock temperature doesn't matter much but cold stock takes longer to heat and thicken. Room temperature or warm stock works faster. Not a huge difference. Just a thing.
+
+Watch the oven color, not just the timer. 185 to 190 degrees gives you a range because ovens aren't consistent. The leeks should be golden and darkened at the edges. The veal should have color on top. If they look pale after forty-five minutes, your oven runs cool. Add five minutes. If they're browning fast, yours runs hot. Check at thirty-five minutes instead.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Veal and Baked Leeks
+
+**Can I use chicken instead of veal?**
+Yeah. Chicken breast dries out though. Use thighs or a whole chicken cut into pieces. Cook it less — maybe thirty-five minutes instead of fifty. Check the temperature. Chicken's done at 74 degrees Celsius. Leftovers are good cold too.
+
+**What if I don't have Dijon mustard?**
+Grainy mustard works. Yellow mustard's too mild and tastes flat. Whole grain changes the texture but flavor's similar. Dijon's best for this though. Worth getting.
+
+**How do I know the veal's actually cooked through?**
+Probe thermometer to 54 degrees Celsius for medium-rare. No thermometer? Cut into the thickest part. Should be pink inside, not red. Gray all the way through means it's overcooked.
+
+**Do I have to use cream or coconut milk for the leeks?**
+Cream and coconut milk are different. Cream makes it richer. Coconut milk's lighter and has earthier flavor. You could use just stock if you wanted. Leeks still get tender. Just less sauce and it's thinner. Not as good but it works.
+
+**Can I prep this ahead?**
+Trim and slice the leeks in the morning. Keep them in water so they don't oxidize. Pat the veal dry and rub it with mustard, salt, and pepper an hour before you cook. Can't sear it ahead — it'll be cold. The actual cooking has to happen when you're ready to eat.
+
+**How long does it keep?**
+Three days in the fridge covered. Veal stays tender. Leeks get softer. Reheats fine at 160 degrees Celsius for twenty minutes, covered. Sauce can break if you overheat it. Low and slow if you're reheating. Honestly better the next day cold with the sauce on the side.
+
+**What potatoes work best?**
+Waxy potatoes hold their shape — Yukon Gold, Charlotte. Russets get mealy and fall apart if you're boiling them. Roasted russets work fine. Boil or steam the waxy ones. Just plain, salted. The sauce is the star here.
