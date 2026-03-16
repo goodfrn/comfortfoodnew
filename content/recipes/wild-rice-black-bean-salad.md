@@ -1,10 +1,10 @@
 ---
-title: "Wild Rice Black Bean Salad"
+title: "Recipe For Bean Salad With Wild Rice"
 slug: "wild-rice-black-bean-salad"
-description: "A wild rice and black bean salad packed with fresh veggies, herbs, and a touch of citrus. Wild rice simmers down to a chewy, nutty base; black beans add creaminess. Crunch from celery and pepper. Sweet apple bits mingle with juicy corn. Red onion and fresh herbs lift it all. Lime juice and olive oil bring zing and silkiness. No dairy, gluten, or nuts. Easy, colorful, bright. Great alongside grilled meats or as a standalone light meal."
-metaDescription: "Wild Rice Black Bean Salad loaded with fresh herbs, crisp jicama, sweet pear, and tangy lemon juice. Nutty, chewy grains meet creamy beans, vibrant, light, gluten-free."
-ogDescription: "Chewy wild rice tossed with black beans, jicama crunch, pear sweetness, and bright lemon drizzle. Fresh herbs finish it off. No dairy, gluten, or nuts."
-focusKeyphrase: "Wild Rice Black Bean Salad"
+description: "Wild rice and black bean salad with fresh corn, jicama, and pear. Tossed with lemon juice and avocado oil for a bright, refreshing side dish."
+metaDescription: "Recipe for bean salad featuring wild rice, black beans, corn, and fresh vegetables with lemon dressing. Make it tonight."
+ogDescription: "Wild rice and black bean salad with corn, jicama, fresh herbs, and lemon-avocado dressing. Easy and colorful."
+focusKeyphrase: "recipe for bean salad"
 date: 2025-08-07
 draft: false
 image: wild-rice-black-bean-salad.jpg
@@ -21,11 +21,18 @@ tags:
 - "summer"
 - "citrus"
 keywords:
-- "wild rice"
-- "black beans"
-- "jicama"
-- "lemon juice"
-- "fresh herbs"
+- "recipe for bean salad"
+- "black bean and corn salad"
+- "black bean salad"
+- "wild rice salad"
+- "bean and corn salad"
+- "black bean salad recipe"
+- "black bean corn salad"
+- "bean salad with black beans"
+- "black bean and corn recipe"
+- "citrus vinaigrette"
+- "lemon dressing"
+- "fresh herb salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "220"
@@ -68,3 +75,115 @@ faq:
 - "q: How to store leftovers? a: Covered container fridge 2-3 days max. Taste shifts, herbs lose snap. Avoid freezing, grains get mushy. Can add fresh herbs before serving again to revive freshness."
 
 ---
+
+Spread the cooled rice on a plate first—this matters more than you'd think. Wild rice salad with black beans tastes better when everything's actually cold. Not warm. Not "room temperature." Cold.
+
+## Why You'll Love This Black Bean and Corn Salad
+
+Takes 1 hour 20 minutes total and most of it's just rice cooking while you do something else. Prep is 25 minutes, mostly dicing. The actual assembly takes like five minutes.
+
+Works as a side or a light meal depending on how hungry you are. Vegetarian, protein from the beans and rice. Summer thing, obviously — tastes sharper when it's hot outside.
+
+Citrus brightens everything without needing a heavy dressing. Stays fresh in the fridge. Better the next day, actually.
+
+## What You Need for Black Bean and Corn Salad
+
+Wild rice—200 ml, which is like 7/8 cup if you're measuring by hand. Not regular white rice. The texture's completely different. Chewy. Holds up.
+
+Salted water. 1.1 litres. About 4 1/2 cups. The salt matters for flavor, not just texture.
+
+Black beans straight from a can. Rinse them. Don't skip this—the liquid tastes metallic. 200 ml is roughly one standard can.
+
+Jicama instead of celery. 150 ml diced. Stays crunchy. Doesn't turn soft and sad like celery does after a day. Milder too.
+
+Yellow bell pepper. 150 ml. Red ones are sweeter but also sharper—yellow sits in the middle. Gentler.
+
+A small pear. Diced. One pear. Not a green apple. Pear's got more subtlety. Less aggressive.
+
+Fresh corn. 150 ml of kernels. Frozen works if fresh isn't around. Just thaw it first.
+
+Shallot. One small one, finely diced. 50 ml if you're measuring. Beats regular onion—doesn't punch as hard.
+
+Fresh basil. 25 ml chopped. Fresh only. Dried tastes like straw.
+
+Fresh parsley. 25 ml chopped. The flat-leaf kind. Not the curly one.
+
+Lemon juice. 40 ml. Fresh-squeezed. Not the bottled stuff—it tastes like plastic after a day.
+
+Avocado oil. 40 ml. Neutral. Silky. Olive oil muddies everything here. Too much flavor going on already.
+
+Salt and black pepper.
+
+## How to Make Wild Rice Salad with Black Beans
+
+Boil the water first. Get it actually boiling—full rolling boil. Throw the rice in. Stir once. Lower the heat to medium-low and cover it tight. Lid has to seal or steam escapes and rice stays crunchy.
+
+Let it go for 55 minutes. Maybe 50 if your stove runs hot. Watch the water level around minute 45—you want it almost gone but not completely evaporated. Smell it. You'll know when it's done. The grains puff and split slightly. Chewy but tender. Not mushy.
+
+Drain any water that's left. Don't rinse it. Spread the rice out on a plate or a sheet pan. Let it cool. This matters. Hot rice clumps. Cold rice stays separate and fluffy.
+
+While it cools—and this is where the 25-minute prep time lives—dice the jicama, the yellow pepper, the pear. All 150 ml chunks. Get the shallot thin. Finely diced. Corn kernels already separate if they're fresh. Black beans are already done.
+
+## How to Get the Best Texture in This Black Bean and Corn Salad
+
+Once the rice is cold, mix it with the black beans. Toss gently. The crisp stuff—jicama, pepper, corn—hits different against soft beans and chewy rice. That contrast is why this works.
+
+Basil and parsley go in last. Like right before you dress it. Herbs oxidize. They lose their punch if you mix them in too early. Five minutes later and they taste dull.
+
+Pour the lemon juice and avocado oil over everything. Stir until it coats evenly. The citrus brightens the whole thing. The oil binds without making it heavy. Neither one dominates.
+
+Let it sit for 15 to 20 minutes before serving. Flavors marry. Everything tastes more cohesive. Sounds weird but it works.
+
+Serve it cold or room temperature. Cold tastes sharper. Room temperature tastes richer. Both work.
+
+## Black Bean and Corn Salad Tips and Common Mistakes
+
+Don't skip the jicama swap. Celery turns to mush. Jicama stays crunchy for days.
+
+The pear-instead-of-apple thing—apple gets brown and oxidizes in the fridge. Pear stays pale and sweeter longer. Just pick one that's not rock-hard. Ripe enough to slice easy.
+
+Yellow pepper is milder but also sweeter than red. Better balance here. Red would overpower the citrus.
+
+Shallots, not onions. Onions are too sharp. They have this raw bite that doesn't play well with lemon and pear.
+
+The rice has to cool completely or everything else gets warm and the whole thing falls apart. Cold rice stays firmer. Keeps texture.
+
+Don't mix the herbs early. Seriously. It's the one step that actually matters for timing.
+
+If you're making this ahead, dress it right before serving. The lemon juice keeps everything bright. Do it too early and the acid starts breaking down the vegetables.
+
+Tastes better the next day. The salad sits overnight and the flavors meld. But it gets softer—less crisp. Make it for eating same-day if texture matters to you.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Wild Rice and Black Bean Salad
+
+**Can I use regular white rice instead of wild rice?**
+Not really. White rice falls apart in a salad like this. Wild rice holds together. The texture's completely different—wild rice stays chewy and separate. Regular rice gets mushy.
+
+**How long does this keep in the fridge?**
+Three to four days if it's covered. After that, jicama and pepper start to soften. The textures blur together.
+
+**Can I make this the night before?**
+Make everything the night before. Don't dress it until you're about to eat. Lemon juice sits there overnight and gets aggressive.
+
+**What if I don't have avocado oil?**
+You need something neutral. Not olive oil. Olive oil's too loud. Grapeseed oil works. Vegetable oil works. Just something that gets out of the way.
+
+**Can I add grilled chicken to this?**
+Yeah. It becomes a meal instead of a side. Cold chicken works better than hot. The whole thing stays cold longer.
+
+**Should I use fresh or frozen corn?**
+Fresh is better. Frozen works if that's what you have. Thaw it completely and drain it so you're not adding extra water.
+
+**Can I make this without the citrus?**
+The lemon juice is doing a lot of work here. Without it, everything tastes flat. You'd need a different dressing entirely. Doesn't make sense to build this recipe without it.
+
+**Why does my black bean and corn salad taste dull?**
+Salt. You're probably under-seasoning. Beans need more salt than you think. Taste it and fix it. It should taste slightly aggressive at first—it mellows as it sits.
+
+**Can I use dried herbs instead of fresh?**
+Don't. Dried basil tastes like hay. Parsley dried is okay but loses half its point. If fresh isn't available, just leave them out.
+
+**Does this work warm?**
+Technically yes. Tastes totally different though. Less bright. The citrus gets duller when it's warm. Make it cold.
