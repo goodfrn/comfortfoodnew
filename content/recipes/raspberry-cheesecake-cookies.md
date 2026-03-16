@@ -1,10 +1,10 @@
 ---
-title: "Raspberry Cheesecake Cookies Twist"
+title: "Raspberry Cheesecake Cookies with Milk Chocolate"
 slug: "raspberry-cheesecake-cookies"
-description: "Cookies filled with a tangy cream cheese center, wrapped in a tender dough packed with graham crackers and milk chocolate chips. A homemade raspberry glaze dipped and dusted in powdered sugar finishes it off. Adjusted flour quantities for balance and swapped white chocolate for milk chocolate for a richer taste. Techniques focus on texture cues, chilling to avoid gooey mess, and avoiding overbaking by watching edges. Glaze thickens quickly—watch closely. A hint of lemon zest in filling lifts it, making it less cloying. Yields 10 sizable cookies with an addictive blend of sweet and tart, crunchy and creamy layers."
-metaDescription: "Raspberry Cheesecake Cookies Twist filled with tangy cream cheese center, graham crackers, milk chocolate chips, and fresh raspberry glaze dusted in powdered sugar."
-ogDescription: "Tangy cheesecake centers frozen firm inside crumbly, buttery dough with chunky graham and gooey milk chocolate. Tart raspberry glaze dusted with sugar for finish."
-focusKeyphrase: "Raspberry cheesecake cookies"
+description: "Soft cookies with cream cheese filling, graham crackers, and milk chocolate chips, finished with a tangy raspberry glaze and powdered sugar dust."
+metaDescription: "Raspberry cheesecake cookies with cream cheese filling, milk chocolate chips, and graham crackers. Topped with homemade raspberry glaze. Make it tonight."
+ogDescription: "Cream cheese-filled cookies with milk chocolate chips, graham crackers, and a tangy raspberry glaze for a sweet and tart treat."
+focusKeyphrase: "raspberry cheesecake cookies"
 date: 2025-12-30
 draft: false
 image: raspberry-cheesecake-cookies.jpg
@@ -21,9 +21,16 @@ tags:
 - "chocolate"
 - "homemade"
 keywords:
-- "cheesecake cookies"
-- "raspberry glaze"
-- "graham crackers"
+- "raspberry cheesecake cookies"
+- "cheese cookies"
+- "cream cheese cookies"
+- "chocolate chip cookies"
+- "graham cracker cookies"
+- "milk chocolate cookies"
+- "raspberry glaze cookies"
+- "homemade cookies with cream cheese"
+- "powdered sugar cookies"
+- "cheesecake inspired cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "350"
@@ -92,3 +99,89 @@ faq:
 - "q: How to store leftover cookies? a: Airtight container in fridge recommended. Keeps filling creamy but firm. Layer with parchment paper to avoid sticking. Can freeze individually wrapped. Reheat gently in warm oven, low temp. Glaze lasts several days refrigerated; if glaze dries hard, re-dip quickly."
 
 ---
+
+Frozen cheesecake dollop in the center. That's the move. Everything else builds around keeping it sealed until the edges go golden and the center stays soft.
+
+## Why You'll Love These Raspberry Cheesecake Cookies
+
+Takes 1 hour 46 minutes total, but most of that's freezing the filling — actual work is maybe 30 minutes spread across the afternoon.
+Homemade cream cheese cookies with a twist nobody expects. Cheesecake center melts when you bite it.
+Graham cracker chocolate chip cookies that taste like three desserts at once — cookie, cheesecake, and that raspberry glaze on top.
+Fresh raspberries in the glaze mean they're actually good for you or something. At least that's what I tell myself.
+Milk chocolate stays soft against the creamy center. The contrast is why people ask for the recipe.
+
+## What You Need for Chocolate Chip Cookies with Cream Cheese Filling
+
+Start with the cheesecake part. Four and a half ounces of softened cream cheese. Three-quarter cup powdered sugar. One and a quarter teaspoons of all-purpose flour — just enough to keep it firm when frozen. Half a teaspoon vanilla. Eighth teaspoon salt. Zest of half a lemon. Whip it together until creamy but not loose. Too runny and it oozes out during baking.
+
+For the actual cookies. One and a quarter cups all-purpose flour, three-quarter cup cake flour (softer crumb, works better than all-purpose). One and a half tablespoons cornstarch. Half a teaspoon baking soda, half a teaspoon baking powder, quarter teaspoon salt. Mix those first, set them aside.
+
+Eleven tablespoons cold unsalted butter diced up. Half cup white sugar, half cup packed light brown sugar. One large egg, one egg yolk, one teaspoon vanilla. One cup graham crackers broken into rough chunks — don't crush them beforehand, the bigger pieces matter. Three-quarter cup milk chocolate chips.
+
+For the raspberry glaze. One cup fresh or thawed frozen raspberries. Third cup water. Half cup granulated sugar. One and a half teaspoons cornstarch. One tablespoon unsalted butter. Half teaspoon vanilla. Quarter cup powdered sugar. More powdered sugar for dusting on top.
+
+## How to Make Cream Cheese Powdered Sugar Cookies
+
+Beat the cream cheese mixture until it's firm but creamy. Spoon about a tablespoon into scoops on parchment. Freeze for at least an hour and a half. You can leave them overnight or up to three days — just means the filling stays solid when the dough hits the heat.
+
+Heat the oven to 380 fahrenheit. Line two baking sheets with parchment or silicone mats. Parchment helps them not stick and spreads heat evenly.
+
+In a large bowl whisk the dry ingredients together — both flours, cornstarch, baking soda and powder, salt. Gets all the rising agents mixed in so they work.
+
+Using a stand mixer with the paddle attachment, cream the cold butter with both sugars. Takes about three minutes until it's light and fluffy. This part adds air, which makes the cookies tender instead of dense.
+
+Add the whole egg, egg yolk, and vanilla. Mix just until it comes together. Don't overmix. Too much air in the dough makes them tough and cakey.
+
+Add the dry mixture gradually, mixing until you see no streaks. Stop when it just combines. Gluten builds fast and that's when cookies get hard.
+
+Fold in the graham crackers and chocolate chips. One last quick stir pulls everything together. Done.
+
+## How to Get Raspberry Glazed Graham Cracker Cookies with Cheesecake Center Sealed
+
+Scoop about two tablespoons of dough. Roll it into a ball. Flatten it gently into a thick disk — not thin. Place one of the frozen cheesecake scoops in the center. Top with another dough disk. Pinch the edges tight. Seal matters here. If it's loose, filling leaks out and the whole thing falls apart.
+
+Place them on the baking sheet. Flatten the cookie gently with your palm — don't squish the filling. Space them an inch or so apart. They'll spread a little.
+
+Bake 10 to 11 minutes. Watch the edges mainly. They go golden first and that's your signal. Tops should look slightly pale but set. Too brown means dry cookies. Too light means soft in the middle when they cool.
+
+Let them sit on the sheet for 5 to 8 minutes after you pull them out. They seem soft still. That's right. They firm up as they cool. Then move them to a wire rack to cool all the way down before you glaze.
+
+For the glaze, puree the raspberries smooth in a food processor. Strain the seeds out by pressing with a spatula. Discard the seeds. Stir in a third cup of water.
+
+In a small pot whisk together the sugar and cornstarch. Add the raspberry juice slowly while stirring. Heat over medium heat, stirring constantly. When it boils it thickens in about two or three minutes. Pull it off the heat. It thickens more as it cools.
+
+Wait 15 minutes until it's barely warm. Whisk in the butter, vanilla, and powdered sugar. Check the thickness — should be dip-able, not watery, not so thick it doesn't coat. Add more powdered sugar if it's too thin, more water if it's too thick.
+
+Dunk the cookies into the glaze. Dust with powdered sugar right after. The glaze might drip so put them on parchment again while they set. Extra glaze keeps refrigerated for days.
+
+## Raspberry Cheesecake Cookies Tips and Storage
+
+Don't skip the freezing step. I tried once without it. The filling melted straight into the dough and turned it into a mess.
+
+Graham crackers and chocolate together work because they're different enough. The salt in the crackers brings out the chocolate. They need each other.
+
+The cheesecake filling stays creamy inside even after baking because it's mostly frozen when the cookie bakes. It softens but doesn't separate or break.
+
+Store them in an airtight container in the fridge for a few days. The filling stays creamy and holds its shape. If they get a bit firm, warm them gently in the microwave for like 10 seconds.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Cream Cheese Cookies
+
+**Can I use frozen raspberries instead of fresh for the glaze?**
+Yeah. Thaw them first. Strain them if they're too wet. Works the same way.
+
+**What if my cheesecake filling is too soft to freeze solid?**
+Beat it less next time. You want it creamy but thick enough to hold shape. If it's still loose even after beating, add another teaspoon of flour and it'll firm up.
+
+**How long do these last?**
+Few days refrigerated in an airtight container. The filling stays good longer than the cookie part. Haven't tried freezing them finished but the dough freezes fine.
+
+**Can I swap the milk chocolate for dark chocolate?**
+Sure. Dark's more bitter so it changes how it tastes against the sweet filling. Might want less glaze or more powdered sugar to balance it out.
+
+**What if my glaze is too thick?**
+Add water one tablespoon at a time until it drips off a spoon without pooling. Too thick and it doesn't coat right.
+
+**Do I have to dunk them or can I just drizzle?**
+Dunking looks better and coats evenly. Drizzling works but you use more glaze and it doesn't look as neat. Dunking's faster anyway.
