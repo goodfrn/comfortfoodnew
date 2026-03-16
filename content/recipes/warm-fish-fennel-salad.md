@@ -1,10 +1,10 @@
 ---
-title: "Warm Fish Fennel Salad"
+title: "Fennel Salad with Seared White Fish"
 slug: "warm-fish-fennel-salad"
-description: "A light main dish combining seared white fish with a warm fennel and green grape salad. Uses Turkish oregano instead of coriander and adds toasted pumpkin seeds for crunch. Fish is gently cooked with shallots and flaked before mixing into a vibrant salad with lemon and fennel fronds. Slight adjustments in ingredient quantities and cooking times offer a fresher twist, with a balance of textures and bright flavors."
-metaDescription: "Warm Fish Fennel Salad with seared white fish, crisp fennel, green grapes, Turkish oregano, toasted pumpkin seeds. Light, fresh, bright flavors in 40 minutes."
-ogDescription: "Seared white fish meets crisp fennel, green grapes, and Turkish oregano. Toasted pumpkin seeds add crunch. Fresh, warm, and bright combination ready fast."
-focusKeyphrase: "Warm Fish Fennel Salad"
+description: "Light fennel salad with seared white fish, green grapes, and toasted pumpkin seeds. Fresh fennel bulb, Turkish oregano, and lemon create bright, vibrant flavors with satisfying crunch."
+metaDescription: "Fennel salad recipe with seared white fish, green grapes, and pumpkin seeds. Fresh, light main dish with lemon and Turkish oregano. Make it tonight."
+ogDescription: "Seared white fish with fresh fennel, green grapes, and pumpkin seeds. Bright, crunchy salad with lemon and Turkish oregano."
+focusKeyphrase: "fennel salad"
 date: 2025-07-28
 draft: false
 image: warm-fish-fennel-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "lemon"
 - "fennel"
 keywords:
-- "white fish fillets"
 - "fennel salad"
-- "toasted pumpkin seeds"
+- "fennel bulb salad"
+- "fish with fennel"
+- "fennel and fish"
+- "fennel salad recipe"
+- "shaved fennel"
+- "fennel salad ideas"
+- "white fish recipe"
+- "citrus fennel salad"
+- "lemon fennel salad"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -75,3 +82,108 @@ faq:
 - "q: Can leftovers be stored? a: Separate fish and salad best. Fish in airtight container fridge 1-2 days. Salad leaves last less well, best fresh same-day. If assembled, salad gets limp fast. Pumpkin seeds on top keep crunch better if added fresh before serving again."
 
 ---
+
+Fish goes in the pan hot. Shallot at the end, just enough to soften. While that cooks, the salad builds itself — lettuce, grapes that split when you bite them, fennel so thin it's almost translucent. Cold crunch against warm fish. That's the whole thing.
+
+## Why You'll Love This Fennel Salad
+
+Takes 40 minutes total — 25 to prep, 15 in the pan. No waiting around.
+
+Fish is healthy. Actual protein without feeling heavy. The lemon keeps it bright instead of oily.
+
+Grapes and fennel together is weird until it isn't. Sweet fruit next to that licorice bite. Works somehow.
+
+Shaved fennel softens as you eat. Doesn't stay raw and tough. Cooked fish warms it just enough.
+
+One bowl for the salad, one pan for the fish. Not much cleanup.
+
+## What You Need for a Shaved Fennel Salad with Fish
+
+Three white fish fillets — skin off. Cod, halibut, whatever's fresh. Doesn't matter too much.
+
+Olive oil. The kind you actually like to taste. Not the cheap stuff.
+
+One small shallot, finely minced. Red or white. Red's a bit sweeter.
+
+Two cups of mixed green leaf lettuce. Not iceberg. It needs to have something going on.
+
+One and three-quarter cups of green grapes, cut in half. They're sweeter than you'd think. That matters.
+
+Three-quarters of a fennel bulb, sliced thin. The thinner the better — you want it to bend instead of crack. Keep the fronds. They taste like fennel but lighter.
+
+Turkish oregano. Fresh. Not the dried kind in the jar. There's a difference.
+
+Two and a half tablespoons of olive oil for the dressing. Same oil as the cooking oil, probably.
+
+One and a half tablespoons of lemon juice. Fresh. Bottled doesn't work here.
+
+Thirty grams of pumpkin seeds, toasted. They add a crunch that stays.
+
+Salt. Pepper. That's it.
+
+## How to Make a Shaved Fennel Bulb Salad
+
+Medium-high heat. Nonstick pan. One and a half tablespoons of olive oil. Let it get warm — not smoking, but hot enough that a drop of water would jump.
+
+Season the fish. Salt. Pepper. Both sides. Don't be shy. Then lay it in.
+
+Four to five minutes. Don't move it. You'll know it's ready when the underside's pale gold and doesn't stick when you slide a spatula under. Flip. Another four to five minutes.
+
+Last two minutes, the shallot goes in. Stir gently around the fish. It softens fast and picks up the flavor from everything.
+
+Remove from heat. Let it sit for a second. Then break it into flakes with a fork. Doesn't need to be pretty. Doesn't need to be uniform. Just separated.
+
+While the fish cooks, lettuce goes in a big bowl. Grapes next. Then the shaved fennel bulb — slice it so thin you can almost see through it. Fennel fronds go in. Turkish oregano too.
+
+## How to Get Shaved Fennel Crispy and Tender
+
+This salad works because nothing's the same texture twice.
+
+The fennel stays crisp on the outside but the heat from the fish just touches it. Makes it soften slightly at the edges. Doesn't wilt. Just gives a little.
+
+Whisk the olive oil and lemon juice together. Salt. Pepper. Taste it. Adjust. The acid should hit first, then the oil. Not balanced — unbalanced. The lemon needs to win a little.
+
+Pour it over. Toss lightly. Don't go hard. The lettuce bruises. The fennel breaks.
+
+Fold the warm fish in carefully. Don't stir. Fold. It'll warm the salad without cooking it further. The grapes soften slightly from the heat. Not mush. Just less tense.
+
+Pumpkin seeds on top right before serving. If you do it too early they get soft. Pointless. You want that snap.
+
+## Fennel Salad Tips and Common Mistakes
+
+The fennel bulb thickness is everything. Too thick and it's tough. Too thin and it disappears into the dressing and becomes nothing. Aim for what a deli slicer would do. Or use a sharp knife and pay attention.
+
+Don't cook the fish past golden. It keeps cooking after you remove it from heat. Even sitting in the bowl. Pale gold is right. Dark gold is too much.
+
+The dressing ratio matters but not how you think. More oil usually makes things feel heavy. Here, lemon should lead. If you taste it and think "that's a lot of lemon," you're almost there.
+
+Cold fish doesn't work. Warm fish doesn't work either. It needs to be that specific temperature where it's not steaming but you can feel the warmth. About two minutes after you break it up. That's when it goes in.
+
+Citrus and fennel salad can go wrong if you use lime instead of lemon. Lime's too aggressive. Lemon's softer, lets the anise notes come through. Orange would be too sweet. Stick with lemon.
+
+The shallot at the end isn't for flavor. It's for texture and a tiny bit of bite that cuts through the grape sweetness. Skip it if you hate raw shallot. The salad still works. It's just less interesting.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fennel Salad
+
+**Can I make fennel and orange salad instead?**
+Orange would work. It'd be sweeter. Lemon's sharper, which is why it's here. Orange at the end if you want it — like, segments instead of grapes. Different dish though.
+
+**How do I slice fennel thin enough?**
+Mandoline's the easiest. You'll cut your hand eventually, but for a few seconds it's perfect. Knife works too if you're patient. Just go slow and let the knife do the work.
+
+**Can I use a different fish?**
+Anything white and flaky. Halibut, cod, sole. Not salmon. The oil in salmon competes with everything. Not tuna. Wrong texture entirely.
+
+**Do I have to use Turkish oregano?**
+It's specific because it tastes different from Italian oregano. Less piney. Softer. If you only have regular oregano, use less. Half the amount. Still works.
+
+**Can I prep this ahead?**
+Slice everything except the fish. Dressing stays separate. Fish cooks right before serving. Cold fish tastes wrong here. The warmth matters.
+
+**Why grapes and not apple for the fennel apple salad angle?**
+Both work. Grapes stay juicy. Apple gets mealy after an hour. Grapes keep their texture longer. Apple's better if you're eating it immediately. Grapes if you have any doubt about timing.
+
+**What if I don't have pumpkin seeds?**
+Sunflower seeds work. Pine nuts too but they're expensive. Walnuts if you want it. Not the same crunch but they add something. Toast them first though. Raw ones taste like nothing.
