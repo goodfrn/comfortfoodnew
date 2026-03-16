@@ -1,10 +1,10 @@
 ---
-title: "Million Dollar Mac Cheese"
+title: "Million Dollar Mac and Cheese with Gruyère"
 slug: "million-dollar-mac-cheese"
-description: "Mac with cavatappi pasta boiled to al dente, then coated in a homemade cheese sauce thickened with a browned butter roux. Sharp cheddar and Monterey jack meld with Dijon mustard and half & half for tang and creaminess. Layered with dollops of sour cream and gruyère, baked until bubbling golden crust forms. A crunchy seasoned topping finishes it off. Textures rich, sharp, creamy, slightly tangy. Real cheese taste, no shortcuts. Butter brushes before baking to prevent sticking, proper sauce whisking to avoid lumps. The method hinges on heating milk slow and steady, adding cheese in small increments, and layering the mix for pockets of gooey cheese and crispy topping. Serves 8, around 220 calories per serving."
-metaDescription: "Million Dollar Mac Cheese with cavatappi coated in browned butter roux cheese sauce, layered Gruyère, and smoked paprika crumb topping. Rich tang, crunchy crust."
-ogDescription: "Cavatappi baked in sharp cheddar, Monterey jack sauce layered with sour cream and Gruyère. Crunchy smoked paprika crumb topping, buttery crust, gooey pockets."
-focusKeyphrase: "Million Dollar Mac Cheese"
+description: "Million Dollar Mac and Cheese features cavatappi pasta in a creamy cheese sauce made with sharp cheddar, Monterey jack, and gruyère. Browned butter roux, half & half, and sour cream create richness. Topped with panko breadcrumbs for crunch."
+metaDescription: "Million Dollar Mac and Cheese recipe with sharp cheddar, Monterey jack, and gruyère in a creamy homemade cheese sauce. Baked with panko topping. Make it tonight."
+ogDescription: "Creamy mac and cheese with three cheeses, gruyère crust, and panko topping. Made with cavatappi pasta and browned butter roux."
+focusKeyphrase: "million dollar mac and cheese"
 date: 2025-11-29
 draft: false
 image: million-dollar-mac-cheese.jpg
@@ -21,9 +21,18 @@ tags:
 - "homemade"
 - "easy dinner"
 keywords:
-- "mac cheese"
-- "browned butter roux"
-- "Gruyère cheese"
+- "million dollar mac and cheese"
+- "mac and cheese"
+- "homemade mac and cheese"
+- "creamy mac and cheese recipe"
+- "baked mac and cheese with gruyere"
+- "cavatappi mac and cheese"
+- "mac and cheese with sharp cheddar and monterey jack"
+- "homemade cheese sauce"
+- "comfort food mac and cheese"
+- "pasta casserole"
+- "three cheese mac and cheese"
+- "panko topped mac and cheese"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "220"
@@ -81,3 +90,85 @@ faq:
 - "q: How to store leftovers? a: Cool completely before fridge. Store airtight up to 3 days. Reheat gently in oven or microwave with a splash of milk to loosen sauce. Sauce firms up cold. Freeze not recommended, texture degrades but can do if sealed well."
 
 ---
+
+Butter the pan first. Two tablespoons, room temp, brushed into every corner. Sounds fussy. Isn't. This is the difference between a crust that sticks and one that slides out perfect.
+
+## Why You'll Love This Million Dollar Mac and Cheese
+
+Takes 55 minutes total — 20 to prep, 35 in the oven. That's faster than you'd think for something that tastes like you spent all day on it. The cheese sauce doesn't break. No grit, no grease separating. Just happens. Three cheeses layer differently — sharp cheddar for bite, Monterey jack for smooth, Gruyère for that nutty thing that makes people ask what's in it. Sour cream adds tang without being weird about it. The topping stays crunchy even when the inside's still steaming. Homemade feels different from box mix, and this proves it.
+
+## What You Need for Homemade Mac and Cheese
+
+Cavatappi pasta — 2 1/2 cups. It's shaped weird, tubular, holds sauce. Elbow works. It's just less interesting. Butter matters here. Unsalted. Six tablespoons total — some soft for the pan, some melted for the roux. All-purpose flour — 1/4 cup. Thickens the sauce, nothing fancy. Milk and half & half — 2 cups of each. Whole milk's important. Low-fat breaks easier. Half & half makes it actually creamy, not just thick. Dijon mustard. One teaspoon. Cuts through the richness, adds sharpness nobody can identify but everyone tastes. Seasoned salt, dried parsley, black pepper — don't skip these. They're not filler. Sharp yellow cheddar, Monterey jack, Gruyère — 2 cups each. Buy blocks and shred them. Pre-shredded has cellulose coating that makes the sauce grainy. Sour cream. Half a cup. Cold straight from the fridge. For the topping: panko breadcrumbs, smoked paprika, garlic powder, dried parsley, melted butter. The paprika's the secret move.
+
+## How to Make Baked Mac and Cheese with Gruyère
+
+Preheat to 345. Not 350. Lower temp means it cooks slower, more even, less chance the top burns while the middle's still loose. Brush that casserole dish with softened butter — get into the corners, up the sides. Use a pastry brush if you have one. If not, your fingers work.
+
+Boil salted water. Lot of salt. Like ocean. Cavatappi goes in for 7 to 9 minutes — not quite al dente. It keeps cooking in the oven. Overcooked pasta now means mush later. Drain it. Put it right back in the empty pot so it stops cooking on itself. Don't let it sit in the colander.
+
+Melt butter in a heavy pan over medium heat. The kind that's thick and doesn't have hot spots. Stir in flour. Whisk constantly. This is the roux. Watch it go from pale to light brown — about 4 to 5 minutes. You'll smell it. That nutty thing. That's when you know it's ready. Too dark and it tastes burnt. Too light and the sauce won't thicken right.
+
+Turn the heat down to medium-low. Pour the milk and half & half in slow. Whisk like you mean it. The mixture will look lumpy and terrible for a second. Keep going. It smooths out around the 2-minute mark if you don't stop whisking. Stop whisking and it lumps up on you. Stir for 6 to 9 minutes total until it coats the back of a spoon. Run your finger across the spoon — the line stays. That's how you know.
+
+Add mustard, salt, parsley, pepper. Stir. Cook another 5 minutes. Small bubbles on the surface. Not rolling boil. Just sitting there bubbling softly. That's the right heat.
+
+## How to Get Creamy Mac and Cheese Sauce Perfect
+
+Kill the heat. This matters. Add cheese cold to hot sauce and it melts smooth. Add it to boiling sauce and it breaks, gets grainy, separates. Start with cheddar and Monterey jack. Add them one cup at a time. Stir until each cup melts completely before adding the next. Takes maybe 2 minutes per cup. Patience.
+
+Pour the cheese sauce into the pot with the pasta. Fold it gently until everything's coated. Doesn't need to be perfect. It'll mix more as it bakes.
+
+Half the noodles go into the buttered casserole. Then 1 1/2 cups Gruyère sprinkled over. Gruyère melts differently than the other two — slower, stays more textured, adds that slight grittiness that's actually good. Dollops of sour cream go next. Cold sour cream. Scatter it around, don't spread it. The spatula smooths it out without totally combining it. You want pockets of tang throughout.
+
+Rest of the noodles on top. Last 1/2 cup Gruyère over that. Finish it.
+
+Panko, smoked paprika, garlic powder, dried parsley, melted butter. Mix those in a bowl until the breadcrumbs are dark and wet. The paprika's not optional. It does something chemical — adds warmth, makes it taste deeper than it is. Sprinkle this over everything. Press it down gently so it doesn't blow off when the oven heat hits it.
+
+Bake 28 to 33 minutes. You're looking for golden brown on top and bubbling at the edges. The smell fills your kitchen like 20 minutes in. That toasted, buttery thing. When the bubbles are thick and slow at the edges, pull it out. The crust should snap when you touch it. Not burnt. Just crispy.
+
+Let it sit for 8 to 12 minutes. Not because the recipe says so. Because if you cut into it right now it'll be lava and the sauce will run all over the plate. Eight minutes and it holds together. Flavors settle too. Not sure why that matters but it does.
+
+## Comfort Food Mac and Cheese Tips and Mistakes
+
+Don't skip the roux. It's not extra. It's the foundation. Flour thickens. Butter carries flavor. Together they're why this isn't just hot cheese soup. Brown the roux enough that you smell it. Not black. Brown like old wood.
+
+Shred your own cheese. Pre-shredded has anti-caking stuff that makes the sauce grainy. Worth the 5 minutes to pull a block across a box grater.
+
+Don't let the sauce get too thick before you add cheese. It should coat a spoon but still move. If it's thick like pudding, add a splash of milk and stir.
+
+The milk and half & half ratio matters. All milk and it's thin. All cream and it's heavy, breaks easier. The mix is the balance.
+
+Bake uncovered. Covered and it steams. Soggy topping. Not worth it.
+
+Temperature matters. 345 instead of 375 means even cooking. Higher heat and the top browns fast while the inside's still loose. Lower heat takes longer but you're not rushing this anyway.
+
+If the sauce breaks — gets grainy or separates — you usually went too hot or added cheese too fast. Can't fix it mid-cook. Next time, slower. Temperature control is everything.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Million Dollar Mac and Cheese
+
+**Can I make this ahead and bake it later?**
+Yes. Assemble everything up to the topping, cover it, and refrigerate. Bake from cold — add maybe 5 extra minutes. The sour cream stays cold longer than you'd think. Works fine.
+
+**What if I don't have Gruyère?**
+Use more sharp cheddar or Monterey jack. Not as good. Gruyère does something specific. But it works. Different texture, less nutty.
+
+**Can I use evaporated milk instead of half & half?**
+Haven't tried it. Probably makes it thicker. Maybe use less flour if you do. Texture would change.
+
+**How do I keep the pasta casserole creamy and not dry?**
+Don't overbake it. The minute the edges bubble, pull it out. An extra 5 minutes and it breaks, separates, gets grainy. That 28 to 33 minute window is real. Check at 28.
+
+**Is the smoked paprika essential?**
+No. But it's weird how much it matters. Adds something smoky that people can't name. Regular paprika works. Tastes fine. Less interesting.
+
+**Can I freeze this?**
+Freeze after baking, yeah. Thaw in the fridge overnight. Reheat covered at 350 for maybe 15 minutes. The topping gets soft. Make fresh topping and add it before reheating if you want it crunchy.
+
+**Why do you cook the pasta not quite al dente?**
+Keeps it from turning to mush. It cooks more in the oven with the heat and the sauce. Stop when it's just slightly firm and you're golden.
+
+**What if the sauce lumps up?**
+Strain it through a fine mesh sieve. Takes time but fixes it. Better — don't let it happen. Whisk constantly from the second the milk goes in. Never stop.
