@@ -1,10 +1,10 @@
 ---
-title: "Snowmen Nutter Truffles"
+title: "Chocolate Snowman Truffles with Nutter Butter"
 slug: "snowmen-nutter-truffles"
-description: "Crunchy, creamy snowmen treats made from crushed Nutter Butters mixed with cream cheese, shaped into bodies and heads. Dipped in white and regular chocolate to form snowmen, decorated with piped chocolate details, orange noses, and licorice scarves. Oreos and mini marshmallows become tiny hats. Chill to set and freeze between steps for firm shape. Rich, sweet, fatty. Play with chocolate melting temps and textures to avoid graininess. Watch for crumb consistency; too wet means too sticky, too dry crumbles. A fun little project for winter or holiday parties, full of contrasting textures and playful presentation."
-metaDescription: "Crunchy creamy Snowmen Nutter Truffles - crushed Nutter Butters, cream cheese, dipped in white chocolate, decorated with chocolate, licorice, orange noses. Winter fun."
-ogDescription: "Crunchy snowmen truffles made from crushed Nutter Butters and cream cheese, dipped white and regular chocolate, with Oreo hats, licorice scarves, and piped details."
-focusKeyphrase: "Snowmen Nutter Truffles"
+description: "Make chocolate snowman truffles using crushed Nutter Butters, cream cheese, and melting chocolate. Dipped treats decorated with licorice scarves and orange noses for festive fun."
+metaDescription: "Chocolate snowman truffles made with Nutter Butters and cream cheese, dipped in white and dark chocolate. Festive holiday treats. Make it tonight."
+ogDescription: "Crunchy-creamy snowman truffles layered with Nutter Butters, cream cheese, and chocolate coating. Holiday party favorite."
+focusKeyphrase: "truffles"
 date: 2026-01-18
 draft: false
 image: snowmen-nutter-truffles.jpg
@@ -21,9 +21,16 @@ tags:
 - "peanut butter"
 - "holiday"
 keywords:
-- "Nutter Butter"
+- "truffles"
+- "butter truffles"
+- "chocolate truffles easy"
+- "oreo balls"
+- "oreo truffle balls"
+- "easy truffle"
 - "cream cheese truffles"
-- "chocolate dipped treats"
+- "homemade chocolate truffles"
+- "holiday truffles"
+- "snowman treats"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "747"
@@ -72,3 +79,99 @@ faq:
 - "q: How to store finished snowmen? a: Keep refrigerated on parchment or airtight container. Avoid humidity—causes chocolate bloom or dullness. Room temp too warm softens structure fast. Use fridge but remove 5-10 mins before serving to soften bite and reveal aroma. Freeze not recommended after chocolate sets."
 
 ---
+
+Crush the Nutter Butters first. Pulse them down until they look like actual crumbs, not powder — that texture matters way more than you'd think. Too coarse and it won't hold together. Too fine and the whole thing gets greasy and falls apart when you try to roll it.
+
+## Why You'll Love This Peanut Butter Truffle Recipe
+
+No bake. That's the whole thing right there. One hundred fifteen minutes total, but most of that is just sitting in the freezer while you do literally nothing.
+Makes a snowman. An actual edible snowman. Holiday candy that looks like you spent three hours on it when really you mostly just dipped things in chocolate.
+Peanut butter and chocolate. Works every time. Not complicated, not precious — just those two things in cookie form that people actually recognize and eat without hesitation.
+The kids can help with assembly if you don't mind chocolate on the walls.
+
+## What You Need for Chocolate Peanut Butter Truffles
+
+Nutter Butter cookies — twelve of them, crushed fine. Not powder. Crumbs.
+
+Cream cheese. Four ounces. Room temperature matters here. Cold cream cheese won't mix right and you'll end up with chunks. Let it sit out.
+
+White melting chocolate. Twenty-four ounces total. Split it — some for dipping the snowman, some for coating, some for backup because melted chocolate is unpredictable.
+
+Regular chocolate. Four ounces. For the hats. For piping details. For gluing things together basically.
+
+Shortening. Half a teaspoon first, then another teaspoon. Makes the chocolate shiny and easier to work with. Coconut oil works if that's what you have. Doesn't change anything.
+
+Mini marshmallows. Twelve. For the hat tops.
+
+Oreo cookies. Twelve. Twist them. Scrape out the filling with something dull — a knife back works. Just the cookie shells, empty.
+
+Orange melting chocolate. For carrot noses. Not critical. Could use orange food coloring in white chocolate if you want. Doesn't matter much.
+
+Licorice strips. Red or black. Tiny pieces for scarves.
+
+## How to Make Peanut Butter Oreo Truffles
+
+Mix the Nutter Butter crumbs with the softened cream cheese. Stir until it forms a ball. Don't overmix — that's when it gets greasy and loses structure and you're basically ruined. Just until combined.
+
+Roll half the dough into twelve large balls. Two inches. These are bodies. Smooth them out. Then roll twelve smaller balls for heads. One inch each. Size matters because they need to sit on top without rolling off.
+
+Line a tray with parchment. Space everything out. Freeze for about twenty-five minutes. Not fully frozen. Just firm enough that when you dip it in chocolate, the chocolate won't make it crack.
+
+Melt the white chocolate in a double boiler. Or a bowl over simmering water — same thing. Add one teaspoon shortening. Stir until it's velvety. Watch the edges. They'll burn if you're not paying attention.
+
+Dip the small head balls halfway into the white chocolate. Let the excess drip off. Press gently onto the big ball. Set on parchment. Freeze again for fifteen to twenty minutes. The joint needs to hold.
+
+## How to Get Chocolate Peanut Butter Oreo Balls Set Right
+
+Now dip the whole snowman. Full coating. Use a fork or skewer to lift it out. Let chocolate drip. Place it back on parchment. It should look shiny and smooth. Refrigerate until set. Maybe fifteen minutes. Could be twenty. Depends on how cold your fridge gets.
+
+For the hats, melt regular chocolate with half a teaspoon shortening. Glossy but not runny. Twist the Oreos open. Scrape the filling out. Dip a marshmallow in the chocolate. Stick it on top of the Oreo cookie half. That's the hat top. Chill that for ten minutes.
+
+Then dip the whole hat in regular chocolate. Coat it fully. Place on parchment. This takes longer — fifteen minutes or more — because regular chocolate sets slower than white.
+
+Pipe tiny chocolate dots for eyes. Mouth. Buttons. Thin chocolate lines for arms. This part requires patience. Hands shake. It happens. Do your best.
+
+Melt orange melting chocolate. Pipe small carrot noses before everything hardens completely. Timing's weird here. Too early and the nose falls off. Too late and you can't get it to stick.
+
+Attach the hats with tiny dabs of regular chocolate as glue. Before it's fully hard, tie a licorice scrap around the neck for a scarf. Warm the licorice in your hands if it's stiff — it'll bend instead of snap.
+
+Refrigerate until you serve them. They hold up fine unless the room is hot. Let them sit at room temperature a few minutes before eating. They taste better when they're not rock hard.
+
+## Oreo Ball Tips and Common Mistakes
+
+The chocolate temperature matters more than the exact time. If it's too hot, it'll make the filling inside sweat and weaken everything. If it's too cold, it won't coat smoothly. Around one hundred ten to one hundred twenty degrees is right. Use a thermometer if you have one. If you don't, it should feel warm but not hot to touch on the outer edge of the bowl.
+
+The dough can be made ahead. Like two days before. Keeps fine covered in the fridge. Just bring it back to room temperature before rolling, or it'll crack.
+
+Don't skip the parchment. Chocolate sticks to everything else.
+
+Marshmallows absorb humidity. If you live somewhere humid, keep these in an airtight container. They'll get sticky if they sit out too long.
+
+The licorice scarf is optional. Purely decoration. Some people use red fruit leather. Some skip it. Doesn't affect the taste.
+
+If the chocolate cracks when you dip, the filling was too cold. Warm it up slightly. Five more minutes at room temperature usually fixes it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Peanut Butter Truffles
+
+**Can I make these butter truffles ahead of time?**
+Make them up to three days before. Keep them in the fridge in an airtight container. Don't stack them or the chocolate cracks.
+
+**What if I don't have Nutter Butters?**
+Any peanut butter cookie works. Nutter Butters are just more peanut buttery. Regular Oreos with peanut butter filling work too. Doesn't have to be exact.
+
+**Can I use regular chocolate instead of melting chocolate?**
+Not really. Regular chocolate seizes up when you melt it. Melting chocolate has additives that keep it smooth. Different thing entirely.
+
+**How long do these stay good?**
+Refrigerated? A week easy. Maybe longer. I've never kept them past that because they get eaten. They don't go bad exactly — they just get sweaty if there's humidity.
+
+**Can I freeze them?**
+Yeah. Freeze them solid, then bag them. They keep for a month or two probably. Thaw in the fridge, not on the counter. Counter makes them weep.
+
+**What's the difference between candy melts and melting chocolate?**
+Candy melts are all shortening. Easier to use. Tastes slightly waxy. Melting chocolate has cocoa butter. Tastes better but needs more attention. Both work here.
+
+**Do I have to make them look like snowmen?**
+No. Just roll them into balls and dip them. Call them peanut butter chocolate oreo balls instead. The snowman shape is just one way to make them cute. Roll them flat. Dip in colored chocolate. Sprinkle stuff on. Do whatever.
