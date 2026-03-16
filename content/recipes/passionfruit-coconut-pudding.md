@@ -1,10 +1,10 @@
 ---
-title: "Passionfruit Coconut Pudding"
+title: "Passionfruit Coconut Pudding with Mango Sauce"
 slug: "passionfruit-coconut-pudding"
-description: "Tropical pudding with passionfruit and coconut flavors. Uses coconut milk as dairy substitute. Includes a tangy sauce with lime juice and fruit pulp. Baked soft cake resting on a fruit-based sauce. Coconut flakes sprinkled on top. Egg-based batter, lightly sweetened, with baking powder for rise. Sauced with thickened coconut milk, passionfruit pulp, and lime. Citrus and tropical balance. Can be served with vanilla ice cream. Free of nuts and lactose. Modified ingredient amounts and baking time for texture variation. Mango pulp and lemon juice swapped in for twist."
-metaDescription: "Delicious Passionfruit Coconut Pudding. Tropical flavors unite. Dairy-free option with coconut milk. Perfect dessert for any occasion."
-ogDescription: "Savor Passionfruit Coconut Pudding. Creamy, tropical dessert. Ideal treat for gathering. Easy to make, yet impressive."
-focusKeyphrase: "Passionfruit Coconut Pudding"
+description: "Tropical pudding with coconut milk, mango pulp, and lemon juice creates a tangy sauce. Soft baked cake with shredded coconut and eggs, naturally sweetened and dairy-free."
+metaDescription: "Passionfruit coconut pudding recipe with tropical mango sauce. Coconut milk, eggs, and lemon juice combine for a dairy-free dessert. Make it tonight."
+ogDescription: "Tropical baked pudding with coconut milk, mango pulp, and lemon juice. Dairy-free and delicious."
+focusKeyphrase: "passionfruit coconut pudding"
 date: 2025-07-21
 draft: false
 image: passionfruit-coconut-pudding.jpg
@@ -21,9 +21,16 @@ tags:
 - "coconut"
 - "no bake"
 keywords:
-- "pudding recipe"
-- "fluffy dessert"
-- "mango alternative"
+- "passionfruit coconut pudding"
+- "coconut milk pudding with mango sauce"
+- "tropical pudding"
+- "baked passionfruit pudding with coconut milk"
+- "coconut desserts"
+- "vegan tropical pudding with lemon and mango"
+- "dairy-free pudding recipe"
+- "coconut milk dessert"
+- "mango coconut pudding"
+- "easy tropical dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -74,3 +81,86 @@ faq:
 - "q: What to do with unused coconut milk? a: Freeze leftovers in small portions. Use in smoothies or curries later. Coconut works well in various dishes."
 
 ---
+
+Sauce goes in first, pudding on top, and forty-five minutes later you've got something that separates into two layers like magic. Warm or cold. Doesn't matter.
+
+## Why You'll Love This Coconut Pudding
+
+Takes 20 minutes to assemble, then the oven does the work. No bake means no stress.
+Coconut milk does the heavy lifting here—makes it vegan without tasting like you're forcing it.
+Two textures at once. Fluffy cake on top, mango-coconut sauce pooling underneath.
+Tastes better the next day. Cold from the fridge. Also works warm.
+Shredded coconut on top gets this specific crunch that shouldn't work but does.
+
+## Coconut Milk Pudding Ingredients
+
+Sugar and cornstarch mixed first—a third cup of sugar, a teaspoon and a quarter of baking powder, salt. Keep the dry stuff separate until you're ready.
+
+Coconut milk. A full cup in the sauce, then five tablespoons more in the pudding. Not the canned cream kind. The regular stuff. Matters more than you'd think.
+
+Mango pulp. Two mangoes blended or scooped. Lemon juice—an ounce and a half in the sauce, a teaspoon more in the batter. Both layers need it.
+
+Flour, unbleached all-purpose. Two eggs at room temperature—cold eggs don't whip right. Vegetable oil, three tablespoons. Shredded coconut, unsweetened, for the top.
+
+## How to Make Coconut Pudding with Mango Sauce
+
+Oven to 175 degrees. Middle rack. Line your baking sheet—silicone mat or parchment, either one works.
+
+Sauce first. Sugar and cornstarch go in the pan off heat, dry. Whisk them together. Add the coconut milk, mango pulp, lemon juice all at once. Whisk until it looks uniform—no lumps of cornstarch floating around. That's the part people mess up.
+
+Medium heat, keep stirring. Bring it to a boil. Once it bubbles, keep going for exactly one minute. It thickens fast. Pour it into your baking dish—eight inches square—and set it somewhere it won't tip over.
+
+Second bowl now. Eggs and the two tablespoons of coconut sugar. Electric mixer, five minutes. Watch it change color. It goes pale. It triples. You'll see a ribbon when you lift the whisk. That's when it's done. Most people stop too early.
+
+Oil goes in while the mixer's still running, but slow. Drizzle it. Not all at once.
+
+## Vegan Tropical Pudding—Building the Layers
+
+Dry stuff in its own bowl. Flour, baking powder, salt. Mix it.
+
+Fold it into the eggs. Low speed. Alternate—half the dry stuff, half the coconut milk and lemon juice mixed together, rest of the dry, rest of the liquid. Stops the mixture from being dense. Fold, don't beat.
+
+When it looks the same color all the way through, you're done mixing.
+
+Batter goes on top of that mango sauce. Spread it even. The sauce will bubble up around the edges while it bakes and that's right. Shredded coconut on top. Just scatter it.
+
+Set the baking dish on your lined sheet—protects the bottom from overcooking—and into the oven. Forty minutes. Maybe thirty-eight. Maybe forty-two. When a toothpick through the cake part comes out clean, it's done. The sauce underneath stays liquid. Don't wait for it to set.
+
+Cool it five minutes on the rack before you serve it. Warm is the move. Cold works if you're eating it tomorrow.
+
+## Baked Passionfruit Pudding Tips and Mistakes
+
+Eggs have to be room temperature or the whipping won't work right. Takes ten minutes if you leave them on the counter. Worth the wait.
+
+Coconut milk separates. That's normal. Stir it before you measure.
+
+Baking time depends on your oven. If your toothpick comes out with wet batter, not done. If it looks dry all the way down, you went too far. It's a narrow window but not impossible. Check at thirty-five minutes.
+
+The sauce will be watery going in. Cornstarch thickens it but it's not pudding-thick at first. Stays that way until heat hits it. Then it sets up. This confuses people constantly.
+
+Don't skip the middle rack thing. Too high and the top browns before the inside cooks through. Too low and the sauce never bubbles right.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Coconut Pudding Desserts
+
+**Can you make this vegan?**
+It already is if you swap the eggs. Aquafaba works—three tablespoons per egg, whip it the same way. Takes longer to triple, maybe eight minutes. Tastes almost identical.
+
+**How long does coconut pudding keep?**
+Three days in the fridge, covered. Gets firmer the longer it sits. Some people prefer it that way.
+
+**What if you don't have mango pulp?**
+Passionfruit pulp. Or straight passion fruit juice. Or more lemon juice and a tablespoon of honey. All work. The sauce just won't be the same color.
+
+**Do you have to use coconut milk?**
+Not technically. Heavy cream works but you lose the vegan angle. Oat milk is too thin. Stick with coconut.
+
+**Why is the toothpick test important here?**
+Because the batter sits on top of liquid sauce. A toothpick only tells you the cake is done, not the sauce. The sauce stays soft either way.
+
+**Can this be made no bake?**
+No. The batter needs heat to set. You could make a coconut mousse instead but it's not the same thing.
+
+**Does this work cold from the fridge?**
+Yeah. Better even. The two layers separate more when it's cold. More defined.
