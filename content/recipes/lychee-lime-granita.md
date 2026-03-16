@@ -1,10 +1,10 @@
 ---
-title: "Lychee Lime Granita Twist"
+title: "Lychee Lime Granita with Mango & Mint"
 slug: "lychee-lime-granita"
-description: "Granita from lychees and lime juice. Puree fruit with syrup, freeze, scrape crystals. Added mango for tropical hint, swapped lime for lemon zest. Slightly longer freeze time, raspberries garnish, extra zing from mint leaves. Serve icy, bright, refreshing. Vegan, gluten-free, no dairy or nuts. Cold treat, summer vibe. Light, fruity, tart with sweet balance."
-metaDescription: "Lychee Lime Granita Twist with mango, lemon zest, fresh mint, raspberries. Icy, tart, bright fruit granita. Vegan, gluten-free, no dairy or nuts. Chill hours, scrape crystals."
-ogDescription: "Chilled lychee granita with lemon, mango, mint, raspberries. Freeze, scrape ice crystals often for flaky texture. Vegan, fruity, tart, summer cold treat."
-focusKeyphrase: "Lychee Lime Granita"
+description: "Lychee lime granita made with canned lychees, fresh lemon juice, and mango puree. Freeze and scrape into icy crystals, then top with raspberries and mint for a refreshing vegan dessert."
+metaDescription: "Make lychee lime granita with mango puree and fresh lemon juice. This no-bake frozen dessert is vegan, gluten-free, and garnished with raspberries and mint. Try it tonight."
+ogDescription: "Refreshing lychee granita with mango puree, lemon juice, raspberries, and mint. A vegan, no-bake frozen treat that's bright and tart."
+focusKeyphrase: "lychee lime granita"
 date: 2025-07-26
 draft: false
 image: lychee-lime-granita.jpg
@@ -21,9 +21,15 @@ tags:
 - "gluten free"
 - "citrus"
 keywords:
-- "lychee granita"
-- "fruit granita"
-- "vegan frozen dessert"
+- "lychee lime granita"
+- "granita recipe"
+- "frozen dessert"
+- "vegan granita"
+- "no bake dessert"
+- "tropical mango lychee frozen dessert"
+- "lychee granita with mango and lemon"
+- "homemade granita with raspberries and mint"
+- "gluten free frozen dessert"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "95"
@@ -60,3 +66,83 @@ faq:
 - "q: What if no blender? a: Hand mash lychees and mango but texture chunkier, less smooth. Seed bits or fibrous mango parts harder to break down. Plan longer freeze and scraping to smooth texture. Strain may help remove big pieces if possible."
 
 ---
+
+Canned lychees and mango. Blender. Fork. That's it. Six and a half hours later you've got something that tastes like summer got cold and decided to stay.
+
+## Why You'll Love This Lychee Lime Granita
+
+Takes 15 minutes of actual work. Rest is just the freezer doing the job.
+No baking. No cooking. Vegan and gluten free without even trying — zero ingredients to worry about.
+Texture's different from sorbet. Fluffier. Lighter. Kind of like flavored ice that's still soft enough to eat with a spoon.
+Tastes like lychee and lime are having a conversation. The mango's just there keeping the peace.
+Raspberries and mint make it look like you tried. You barely did.
+
+## What You Need for Lychee Granita with Mango and Lemon
+
+Canned lychees in syrup — the syrup matters, don't drain it. Fresh lychees work if you have them, but canned is simpler and honestly just as good.
+
+Mango puree. Could be frozen, could be fresh blended up. A hundred twenty-five milliliters. Not a lot. Just enough to round everything out without making it taste like mango.
+
+Lemon juice. Fresh. A hundred milliliters. Not bottled. Bottled tastes like plastic.
+
+Lemon zest. One teaspoon. Finely grated. The smaller the bits, the more it spreads through instead of clumping.
+
+Fresh mint and raspberries. Both for after. Both optional but don't skip them — they make the difference between "frozen drink" and "actually thoughtful dessert."
+
+## How to Make a Vegan Granita with Mango and Lemon
+
+Dump everything that isn't garnish into the blender. Lychees and their syrup. Mango puree. Lemon juice. Zest.
+
+Blend until it's mostly smooth but still has some texture. Not a puree. Not a smoothie. Somewhere in the middle. Should look grainy, a bit chunky. You'll see flecks of lychee.
+
+Pour it through a fine sieve into a glass dish. Eight inches across. Not a huge thing. The liquid goes through. Any bigger chunks stay behind. Don't push it. Just let it drip.
+
+Cover it tight. Plastic wrap works. A lid works better.
+
+Freeze for four hours first. Don't touch it yet.
+
+## How to Get That Fluffy Icy Texture in Your Tropical Granita
+
+After four hours, pull it out. The edges should be frozen. Middle's still soft.
+
+Grab a fork. Scrape the whole surface. Get the frozen bits, break them up, stir them toward the middle. Everything should look rough now. Icy. Not smooth.
+
+Stick it back. Wait an hour. Scrape again. This is the part that matters — the scraping, not the waiting.
+
+Keep doing this every hour until it's all frozen through. Five times total, maybe six. Last scrape is right before serving. This one's important. You're taking something that was starting to get solid and turning it back into something that looks fluffy. Turns the texture from hard to almost creamy without adding cream.
+
+## Lychee Lime Granita Tips and Common Mistakes
+
+Don't skip the scraping. That's what makes it a granita instead of a popsicle.
+
+Mango puree quantity matters. Too much and it tastes like mango. Too little and the lychee gets sharp. A hundred twenty-five milliliters is the line.
+
+Canned lychees — check the syrup. Light syrup, heavy syrup, whatever. Light's less sweet if you care about that.
+
+The fine sieve actually matters here. Regular strainer leaves bits that freeze wrong. Fine sieve makes it smooth.
+
+Serve it cold. Like actually cold. Spoon should be cold. Cup should be cold. Granita melts fast.
+
+Mint and raspberries go on top right before eating. Not an hour before. They get weird sitting on top of frozen stuff.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About No Bake Granita Recipes
+
+**Can I use fresh lychees instead of canned?**
+Yeah. Peel them, blend them, strain out any pits. You'll get less syrup so add a tablespoon of sugar or honey to make up for it.
+
+**How long does it keep?**
+About four days in the freezer before it gets weird and grainy in the bad way. Not the fluffy kind of grainy.
+
+**What if I don't have mango puree?**
+Mango nectar works. Passion fruit works. Basically anything tropical that's soft. Pineapple would be too sharp.
+
+**Can I make this gluten free frozen dessert without the mint?**
+Yeah. Just looks less interesting.
+
+**Does the lemon zest have to be that fine?**
+No. Doesn't matter much. Finer just spreads better. Bigger chunks work, you'll just taste them more.
+
+**Can I skip the forking and just freeze it solid?**
+You can. It'll be ice instead of granita. Not terrible. Just different. Harder. Less fun to eat.
