@@ -1,9 +1,9 @@
 ---
-title: "Simple Peanut Cookies"
+title: "Peanut Butter Cookies with Honey"
 slug: "simple-peanut-cookies"
-description: "Fewer ingredients, quick mixing, sneak a hint of honey in place of brown sugar. Eggs beaten lightly to keep texture tender. Fork presses form that iconic crisscross pattern, essential for even spreading and baking. Oven heat invites edges to brown, the telltale sign the cookie's ready. Cool slightly on pan, firm but soft inside. Store airtight if you want them longer. Nutty, sweet, no fuss. Substitutes like natural peanut butter or almond butter change texture and flavor subtly. Watch carefully to avoid dry edges or underdone middles."
-metaDescription: "Simple Peanut Cookies with just 3 ingredients. Quick mix, fork press for shape, honey for sweetness and moisture. Crisp edges, tender soft centers. No flour needed."
-ogDescription: "Nutty, chewy, quick bake peanut cookies with honey and egg. Fork press marks set texture, watch browning edges for doneness. Simple, no fuss snacks."
+description: "Peanut butter cookies made with creamy peanut butter, honey, and just one egg. Quick mixing, tender texture, iconic fork crisscross pattern. Soft inside, lightly browned edges."
+metaDescription: "Peanut butter cookies with honey and creamy peanut butter—quick mixing, tender texture, minimal ingredients. Make it tonight."
+ogDescription: "Creamy peanut butter cookies with honey and one egg. Tender, nutty, easy. Fork crisscross pattern included."
 focusKeyphrase: "peanut butter cookies"
 date: 2025-11-29
 draft: false
@@ -21,10 +21,16 @@ tags:
 - "easy"
 - "comfort food"
 keywords:
-- "peanut butter"
-- "honey"
-- "no flour"
-- "easy cookies"
+- "peanut butter cookies"
+- "peanut butter honey cookies"
+- "easy peanut butter cookies"
+- "creamy peanut butter honey cookies"
+- "honey cookies"
+- "comfort food cookies"
+- "fork crisscross peanut butter cookies"
+- "tender peanut butter cookies with egg"
+- "quick peanut butter cookies"
+- "homemade peanut butter cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "190"
@@ -62,3 +68,79 @@ faq:
 - "q: What’s the best peanut butter type? a: Creamy preferred for uniform mix. Natural types split oil, crumbly. Chunky okay but chunk bits change texture. Some brands require stirring oil back in before measuring. Adjust mix speed and timing accordingly or dough won’t hold well."
 
 ---
+
+Three ingredients. That's it. Spoon peanut butter and honey into a bowl, crack an egg, mix until it's shiny, scoop onto a sheet, press with a fork, bake 8 minutes. Done. These aren't fancy — they're the kind of cookies that taste like they've been around forever because honestly they probably have, just maybe nobody made them this simple before.
+
+## Why You'll Love These Peanut Butter Cookies
+
+Takes 14 minutes total. Six to prep, eight to bake. Seriously.
+
+Comfort food that doesn't require brown sugar or vanilla or anything you have to hunt down. Just peanut butter, honey, one egg.
+
+The texture's chewy in the middle, slightly crispy at the edges — that thing that takes most cookies a whole ingredient list to achieve.
+
+Cold the next day they're even better. Not sure why. Flavor kind of settles.
+
+You actually feel full after eating one. Not a sugar crash thing — actual staying power.
+
+Makes about a dozen. Gone before you realize you made them.
+
+## What You Need for Easy Peanut Butter Cookies
+
+Creamy peanut butter. One cup. Not the natural kind that separates — too oily. Regular stuff works best.
+
+Honey. Three-quarters cup. Adds sweetness but also this subtle floral thing that brown sugar doesn't do. Makes the cookies chewier too.
+
+One large egg. That's your binder. That's your rise. That's your structure.
+
+That's actually everything.
+
+## How to Make Peanut Butter Cookies with Honey
+
+Get the oven going at 350. Give it time to actually heat — not just preheat and immediately shove cookies in. Five minutes minimum. Line a baking sheet with parchment paper so cleanup isn't a whole thing and nothing sticks.
+
+Dump the peanut butter and honey into a large bowl. Use a hand mixer if you have one, or just a sturdy spoon if you don't — doesn't matter much. Beat on medium-high for about two and a half minutes. You're looking for it to go shiny and smooth, almost fluffy. The honey needs time to fully work in with the peanut butter. You'll feel the difference.
+
+Crack the egg straight into the bowl. Stir on low speed, or just use the spoon. Stop as soon as you can't see any streaks or clumps. Maybe 30 seconds. Overmix and the cookies go dense and thick — not in a good way.
+
+## How to Get Fork Crisscross Peanut Butter Cookies Right
+
+Scoop the dough into tablespoon-sized balls. The dough's sticky but still firm enough to handle. Don't stress about perfect — slightly rounded works.
+
+Grease a fork with butter or cooking spray. Press one ball down onto the parchment, then turn the fork 90 degrees and press again — that classic crisscross pattern. You want even thickness so everything bakes at the same rate. The fork needs to slide through without sticking, which is why the grease matters.
+
+Slide the sheet onto the center rack. After 8 minutes, the edges should start browning. The middle stays soft. The whole thing should look slightly matte, like it's pulling back from the parchment just a tiny bit. That's done.
+
+Oven temps vary wildly. Trust what you see, not the timer. If it needs another minute or two, watch it. Close.
+
+## Easy Peanut Butter Cookies Tips and Mistakes
+
+Don't press the fork too hard or the cookies turn tough and dense. Light pressure. You're not flattening dough — you're marking it.
+
+Let them sit on the hot sheet for two to three minutes before moving them to a cooling rack. They're fragile right when they come out. Wait just a little and they'll hold together. Too long and they start soaking up moisture from the pan.
+
+Store them in an airtight container at room temperature. They last days without getting hard or losing flavor — the honey keeps them soft. Freezing works but the texture changes slightly over time, gets a bit different. Room temp is better.
+
+If they spread too much while baking, your oven runs hot or the dough was too warm when it went in. Chill the dough next time for 10 minutes before scooping.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Honey Peanut Butter Cookies
+
+**Can I use natural peanut butter instead?**
+You can but it's messier. The oil separates and the dough gets wet. Have to mix way longer. Regular peanut butter just works.
+
+**Do these actually only have three ingredients?**
+Yeah. Three. No flour, no baking soda, no vanilla. Just peanut butter, honey, egg. It's weird but it works.
+
+**How chewy are they really?**
+Soft in the middle, slight crunch at the edges. That chewy-but-not-dense thing. The honey does that. Store them in a container and they stay that way for days.
+
+**What if my cookies spread too thin?**
+Oven runs hot or dough was too warm. Chill the dough 10 minutes before scooping next time. Also make sure you're not mixing in too much air with the hand mixer — beat it but don't overdo it.
+
+**Can I add chocolate chips or something?**
+Probably. Half cup mixed in at the end wouldn't hurt. Switches the whole thing though — then it's not just comfort food, it's chocolate comfort food. Different vibe.
+
+**Why does the honey matter instead of just using sugar?**
+Honey keeps them chewy. Brown sugar would work but it's drier. Honey stays in the cookie, keeps it soft longer. Also adds flavor you don't get from regular sugar — something subtle and kind of floral.
