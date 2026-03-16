@@ -1,10 +1,10 @@
 ---
-title: "Soft Sugar Cookie Bites"
+title: "Almond Cookies Recipe with Butter & Vanilla"
 slug: "soft-sugar-cookie-bites"
-description: "Bite-sized sugar cookies with subtle almond twist. Rolled thick for a tender crumb. Easy to cut, freeze, and frost. Perfect for holiday decorating or casual snacking."
-metaDescription: "Soft Sugar Cookie Bites with tender crumb and subtle almond twist, rolled thick, chilled for clean cuts, topped with rich buttercream and festive sprinkles."
-ogDescription: "Bite-sized sugar cookies, sandy butter bits, thick rolled dough, chilled well, soft texture, frosting with bold gel colors. Rustic, flavorful, holiday-snack worthy."
-focusKeyphrase: "Soft Sugar Cookie Bites"
+description: "Tender almond cookies made with butter, flour, and vanilla extract. These soft sugar cookies feature a subtle almond flavor and freeze beautifully for holiday decorating."
+metaDescription: "Almond cookies recipe using butter, flour, and vanilla extract. Soft sugar cookies perfect for holidays. Make it tonight."
+ogDescription: "Soft almond cookies with butter and vanilla. Easy tender sugar cookies for any occasion."
+focusKeyphrase: "almond cookies"
 date: 2026-02-10
 draft: false
 image: soft-sugar-cookie-bites.jpg
@@ -21,9 +21,16 @@ tags:
 - "holiday"
 - "dessert"
 keywords:
-- "sugar cookie bites"
-- "buttercream frosting"
-- "cookie dough chilling"
+- "almond cookies"
+- "soft sugar cookies"
+- "sugar cookie recipe"
+- "butter cookies"
+- "vanilla almond cookies"
+- "holiday cookies"
+- "easy cookie recipe"
+- "almond butter cookies"
+- "tender sugar cookies"
+- "frosted cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "85"
@@ -77,3 +84,78 @@ faq:
 - "q: Proper storage methods? a: Store decorated cookies airtight room temp, avoids soggy crust. Refrigerator dries edges or makes sticky frosting. Freezing baked cookies works well—layer with parchment. Thaw fully frozen before frosting for best texture."
 
 ---
+
+Divide the dough in half. Roll it out thin between parchment—about half an inch. That thickness matters. Too thin and the edges go hard and snappy. Half an inch keeps them tender all the way through, even after they cool.
+
+## Why You'll Love These Almond Cookies
+
+Takes 27 minutes start to finish. Fifteen to prep, twelve in the oven.
+They're soft. Like, actually soft. The kind of cookie that's still chewy the next day.
+Works as a holiday dessert or just because. No special occasion required.
+Easy enough that a kid can help. Food processor does most of the work.
+You can make them plain or frosted and decorated. Both ways are good.
+
+## What You Need for Almond Cookies
+
+Two and a quarter cups all-purpose flour. Nothing fancy.
+Three quarters cup sugar. Granulated, not powdered—the dough comes together better that way.
+Half a teaspoon of salt. Kosher or fine. Fine dissolves better.
+A teaspoon of baking powder. Not baking soda. They're different.
+Twelve tablespoons of butter. Cold. Cut into pieces before you start. Cold is the whole thing.
+One egg plus one yolk. The yolk makes them richer.
+Vanilla extract. A teaspoon and a half. You already have this.
+Optional almond extract—a quarter teaspoon. Or lemon extract if you want something different.
+Milk. Just a splash. Maybe a tablespoon total. Only if the dough won't come together.
+
+## How to Make Almond Cookies
+
+Food processor is faster. Combine flour, sugar, salt, and baking powder. Pulse a few times. Just until it looks even.
+Toss in the cold butter pieces. Blitz again. You want it sandy. Still bits of butter visible. That's what gives you the tender crumb.
+Add the egg, yolk, vanilla, and almond extract if using. Pulse in short bursts. Stop as soon as the dough starts clumping. Overwork it and they toughen. Not worth it.
+Milk goes in only if it's too crumbly. Just a splash. Usually you don't need it.
+
+Or use a stand mixer. Combine sugar and salt. Beat in the cold butter on medium. Watch it turn creamy without melting. The butter should stay in distinct pieces that gradually blend, not turn into paste.
+Add the egg, yolk, and extract. Mix until combined.
+Switch to low speed. Fold in the flour and baking powder. Just until the dry stuff disappears.
+
+Either way, divide the dough in half. If it's rough, knead it gently on a floured surface just to bring it together. Don't overwork it. You're not making bread.
+
+## How to Get Tender Almond Cookies
+
+Sandwich each dough half between parchment sheets. Roll to half an inch thick. This is specific on purpose.
+Freeze both packs 15 to 25 minutes. Until firm but not rock solid. Cold dough cuts clean. Warm dough tears.
+Using a pizza cutter or sharp knife, slice into squares or rectangles. Sizes don't have to match. Re-roll scraps, chill again if they warm up.
+
+Bake at 345 to 350 degrees. Watch the edges. Golden. Centers still pale. About 12 minutes.
+If you're not sure if they're done, poke the center lightly. Should spring back just barely. Overbaking dries them out. That's the mistake everyone makes.
+Cool them fully before frosting.
+
+## Almond Cookies Tips and Common Mistakes
+
+The butter has to be cold. This is not negotiable. Cold butter stays in pieces. Those pieces create the tender crumb. Room-temperature butter and you get dense, tough cookies.
+Roll to half an inch. Not thinner. Not thicker. Half an inch.
+Don't overbake. Golden edges, pale center. That's it. Pull them out early rather than late.
+If you want to decorate—whip up some buttercream. Gel food coloring if you're going holiday colors. Red, green, white. Spread or pipe it on while the cookies are cool. Sprinkles go on while the frosting is still tacky.
+Store in an airtight container. They keep soft for days. Fridge not necessary unless it's hot where you live.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Almond Cookies
+
+**Can you use almond flour instead of regular flour?**
+No, not really. Almond flour cookies are a totally different texture. These need regular all-purpose flour to hold together and get that tender bite. If you want almond flour cookies, that's its own recipe.
+
+**Do these actually taste like almonds?**
+Only if you add the almond extract. And even then it's subtle. The vanilla is louder. Skip the almond extract if you prefer—they're still good. Lemon extract is actually better sometimes.
+
+**Can you make them ahead?**
+Dough keeps in the fridge three days. Roll it out, freeze it between parchment, then bake whenever. The frozen dough might need an extra minute in the oven.
+
+**Why are mine hard?**
+Baked too long. Every oven runs different. Check them at 10 minutes. If the edges look golden, pull them. They keep cooking after they come out.
+
+**Can you freeze the baked cookies?**
+Yeah. Airtight container, up to three months. Thaw at room temperature. Frost after if you're decorating.
+
+**What's the difference between almond and lemon extract?**
+Almond is nutty and warm. Lemon is bright. Use whichever sounds better to you. Or skip it entirely—vanilla carries the whole thing fine.
