@@ -1,10 +1,10 @@
 ---
-title: "Soy Bean Drink Remix"
+title: "Unsweetened Coconut Juice with Soybeans"
 slug: "soy-bean-drink-remix"
-description: "Yellow soybeans soaked long then blitzed with water, filtered through thick cotton cloth, and simmered to rich, lightly sweet drink. Uses less sugar, adds a hint of vanilla bean, swaps water for light coconut milk for silkiness. Boil to scald, not scorch, skim as bubbles foam. Filter twice for cleaner finish. Pulpy leftovers good for veggie stock. Keeps chilled a week, but fresh is best. A creamy, mildly nutty, vegan soy beverage without nuts, gluten, dairy, or eggs."
-metaDescription: "Soy Bean Drink Remix uses yellow soybeans, light coconut milk, vanilla bean, and gentle simmer for a creamy nutty vegan beverage without nuts or gluten."
-ogDescription: "Yellow soybeans soaked and blitzed, simmered with vanilla and coconut milk. Skim foam, strain twice, get a creamy soy drink with subtle sweetness and mild nuttiness."
-focusKeyphrase: "soy bean drink"
+description: "Make unsweetened coconut juice by blending soybeans with light coconut milk and vanilla bean. This creamy, vegan soy drink is naturally sweet, dairy-free, and ready to enjoy chilled."
+metaDescription: "Unsweetened coconut juice recipe: blend soybeans with coconut milk and vanilla bean for a creamy homemade soy drink. Make it tonight."
+ogDescription: "Homemade soy drink blended with soybeans, coconut milk, and vanilla bean. Creamy, vegan, and naturally sweet."
+focusKeyphrase: "unsweetened coconut juice"
 date: 2025-08-02
 draft: false
 image: soy-bean-drink-remix.jpg
@@ -21,9 +21,18 @@ tags:
 - "asian"
 - "coconut"
 keywords:
+- "unsweetened coconut juice"
+- "homemade soy milk"
 - "soy bean drink"
-- "yellow soybeans"
-- "vegan beverage"
+- "homemade soya bean milk"
+- "make soy milk from soybeans"
+- "soy bean juice"
+- "diy soy milk"
+- "homemade soy milk recipe"
+- "making soymilk"
+- "coconut beverage"
+- "soybean milk drink"
+- "coconut milk drink"
 breadcrumb: ["Home", "Recipes", "Beverages"]
 nutrition: 
  calories: "120"
@@ -62,3 +71,63 @@ faq:
 - "q: How long keep drink stored? a: Covered fridge 5 days typical. Tightly sealed best to avoid skins or fridge smells. Can freeze but texture changes on thaw. Reheat gently on stove, low heat. If drink thickens or separates, stir or add warmth before serving. Avoid long storage to keep fresh aroma and flavor intact."
 
 ---
+
+Cut the soybeans first. They need to soak overnight — actually 10 to 14 hours. Submerge them completely or they won't soften right. The water gets gross and murky. Drain it. Refill. That's just part of it.
+
+## Why You'll Love This Unsweetened Coconut Juice
+
+Homemade tastes nothing like the stuff in bottles. Cleaner. You control the sweetness — add sugar or don't. Goes in coffee. Tastes better than store coconut milk there. Vegan, obviously. No weird additives hiding in the label. Takes 45 minutes total, but most of that's soaking overnight, so you're not actually standing there. Cold or hot. Works either way. Stores five days and doesn't separate or go off like some homemade drinks do.
+
+## What You Need for Homemade Soy Bean Juice
+
+Yellow soybeans — 140 grams, dried. That's about three-quarters of a cup. Don't use the canned ones. Wrong texture entirely. Light coconut milk. A liter and a half. Filtered water works if you want it more neutral, but coconut milk gives it something. Sugar — 25 grams, roughly 2 tablespoons. Adjust at the end though. Some people want less. Vanilla bean scraped, optional. Half of one. Just for aroma. Cotton gauze or thick cheesecloth for straining — six to eight layers. That matters. Thin cloth doesn't catch the grit.
+
+## How to Make Unsweetened Soya Bean Milk
+
+Soak the soybeans in plenty of water for 10 to 14 hours. They swell. Get soft. The water will turn gray-brown and cloudy — that's normal. Drain it off and refill halfway through if you want, or just leave them. Rinse everything well before moving on.
+
+Line a fine mesh colander with the cotton gauze. Six to eight layers thick. Hang the edges over the sides so you can grab them later. Put a large heatproof bowl underneath.
+
+Divide the soybeans in half. Blitz the first half with 450 milliliters of coconut milk until it's an ultrafine slurry — basically liquid with tiny bean particles suspended in it. Pour the whole thing into the lined colander. Do the same with the second half and another 450 milliliters. Then slowly pour the remaining coconut milk through to rinse the pulp.
+
+Grab the corners of the cloth and twist it into a pouch. Press hard with a potato masher or heavy spoon. Get every bit of liquid out. You should extract just over 1.5 litres. Save the pulp for vegetable broth if you want. Don't waste it.
+
+## How to Get Unsweetened Coconut Drink Smooth and Clear
+
+Pour the extracted liquid into a heavy-bottomed pot. Add the scraped vanilla bean and sugar. Heat over medium-high.
+
+Watch it. When foam forms — thick, rising bubbles — skim it off frequently. This is what keeps the liquid clear instead of cloudy. Skim a lot. It's tedious but it works.
+
+Lower the heat to keep a gentle simmer. Stir occasionally. The edges will start looking matte and velvety when it's done, around 25 minutes in. The smell gets intense and aromatic — that's your signal. Turn off the heat before it boils hard. Boiling too long makes it bitter. The aroma tells you everything. Don't ignore it.
+
+Cool it a bit before serving. Drink it warm. Chill it. Pour it over ice. Stores covered in the fridge about five days without separating or losing flavor.
+
+## Soy Bean Juice Tips and Common Mistakes
+
+Too bitter? You boiled it too long. Next time, pull it off heat sooner. Or add a tiny pinch of baking soda near the end — smooths out the acids. Doesn't taste like baking soda. Just works.
+
+If it thickens too much as it cools, dilute with warm water or coconut milk to whatever texture you like. Sweetness is totally a matter of taste — don't commit to the sugar amount until you taste it. Add more at the very end. Way easier than pulling it back out.
+
+The coffee angle works better than you'd think. Homemade soy bean milk froths differently than store milk. Some people swear by it. Coconut milk iced coffee gets smoother with this. The texture is different.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Soy Milk
+
+**Can I skip soaking the soybeans overnight?**
+No. They won't blend into a fine slurry. You'll get gritty texture instead of smooth. 10 to 14 hours is the minimum.
+
+**What if I don't have cheesecloth?**
+Nut milk bags work. So does a thin kitchen towel folded multiple times. Needs to be thick enough that fine particles don't slip through, loose enough that liquid does.
+
+**Does this work as a soya bean drink alternative to store-bought soy milk?**
+Yeah. Tastes cleaner. Less beany if you skim the foam right. Doesn't have the weird aftertaste some brands do. Texture's slightly thinner — add a teaspoon of tapioca starch at the end if you want it richer.
+
+**Can I make this with just water instead of coconut milk?**
+Sure. You get a pure soybean juice then. No coconut flavor at all. Works fine. Not as creamy but it's still good. This is basically a homemade soya bean milk base either way.
+
+**How long does it actually stay good?**
+Five days covered in the fridge. It separates slightly — just shake it. Doesn't go off like you'd think. After five days, trust your nose. If it smells off, it is.
+
+**Will this work in coffee like coconut milk coffee does?**
+Yeah. Actually better than some store brands. The coconut milk version froths okay. Doesn't separate when it's hot. Coconut milk iced coffee stays smoother with this than with ultra-processed stuff.
