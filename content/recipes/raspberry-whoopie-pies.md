@@ -1,10 +1,10 @@
 ---
-title: "Raspberry Whoopie Pies"
+title: "Raspberry Whoopie Pies with Cream Cheese"
 slug: "raspberry-whoopie-pies"
-description: "Small sandwich cakes with raspberry jam filling. Uses a cocoa-based cake with mashed raspberries and cream cheese filling. Changed sugar quantity, swapped butter for oil, lemon zest added for brightness. Mixing technique adjusted for fluffier texture. Watch batter consistency carefully—too runny ruins shape. Bake until edges spring back and top mat surface tension. Filling thickened to prevent sliding. Makes around eight small pies, handheld size. A treat when chilled enough to hold shape but not frozen stiff. Raspberry tartness cuts through sweet dark cocoa bite."
-metaDescription: "Raspberry Whoopie Pies with rich cocoa cake and tangy cream cheese raspberry filling. Tender crumb, bright lemon zest, moist with careful folding and chilling."
-ogDescription: "Rustic raspberry whoopie pies, tender cocoa bases with cream cheese and chunky raspberry filling. Watch batter texture, bake cues, chill for clean holds."
-focusKeyphrase: "Raspberry Whoopie Pies"
+description: "Homemade whoopie pies featuring cocoa cake layers with mashed raspberries, cream cheese filling, and lemon zest. Soft, handheld treats with tartness balancing rich chocolate."
+metaDescription: "Make raspberry whoopie pies with cocoa cake, fresh mashed raspberries, and cream cheese filling. Homemade sandwich cakes with lemon zest brightness. Try it tonight."
+ogDescription: "Cocoa whoopie pies stuffed with mashed raspberries and tangy cream cheese. Handheld chocolate treats with fresh fruit filling."
+focusKeyphrase: "raspberry whoopie pies"
 date: 2025-08-06
 draft: false
 image: raspberry-whoopie-pies.jpg
@@ -21,9 +21,16 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "whoopie pies"
-- "raspberry dessert"
-- "cream cheese filling"
+- "raspberry whoopie pies"
+- "homemade whoopie pies"
+- "whoopie pie recipe"
+- "chocolate whoopie pies with mashed raspberries"
+- "cream cheese filled whoopie pies"
+- "cocoa cake with raspberry filling"
+- "raspberry chocolate whoopie pies"
+- "lemon zest chocolate whoopie pie recipe"
+- "chocolate cake dessert"
+- "raspberry jam sandwich cakes"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "220"
@@ -77,3 +84,103 @@ faq:
 - "q: Best way to store whoopie pies? a: Wrap individually tight in plastic wrap. Store refrigerated up to 3 days for firmness. Freeze flat in single layer in airtight container for longer; thaw slowly in fridge overnight. Avoid room temp stall or filling weeps and gets messy after a day or two."
 
 ---
+
+Two dozen chocolate cakes waiting for raspberry cream cheese. That's the whole idea.
+
+## Why You'll Love Raspberry Whoopie Pies
+
+Takes 70 minutes total but you're not standing there the whole time. Bake, cool, fill, done.
+
+Chocolate cake that's actually soft and stays that way—not dry like store-bought ones. The buttermilk matters.
+
+Filling tastes like you care. Fresh raspberries mixed right in with cream cheese. Not too sweet. Kind of fancy but actually simple.
+
+Messy to eat. Filling squishes out. Doesn't matter because it tastes worth it.
+
+Works cold straight from the fridge or room temp. Freezes fine if you wrap them tight.
+
+## What You Need for Raspberry Whoopie Pies
+
+Flour and cocoa powder. Regular all-purpose, unsweetened cocoa—not Dutch or sweetened. Makes a difference.
+
+Baking soda and salt. Both matter. Soda makes them rise right, salt stops them from tasting flat.
+
+Sugar, oil, one egg. Vegetable oil, not olive. Keeps the crumb tender instead of dense.
+
+Buttermilk and vanilla. If you don't have buttermilk, milk with a tablespoon of vinegar stirred in works. Not as good but fine.
+
+Lemon zest. Half a lemon. Sounds weird in chocolate but it wakes everything up. Don't skip it.
+
+Fresh raspberries, mashed lightly. Frozen ones work if you drain the juice first. Mushy raspberries are what you want here—don't worry about texture.
+
+Cream cheese softened, powdered sugar. Room temperature cream cheese mixes smooth. Cold cream cheese clumps.
+
+Raspberry preserves. Just two tablespoons. Acts like glue, flavor booster, everything at once.
+
+## How to Make Chocolate Whoopie Pies
+
+Heat oven to 350 degrees. Line a baking sheet with parchment. Sticking is not an option.
+
+Whisk flour, cocoa powder, baking soda, salt together in one bowl. Get all the lumps out. You'll feel them between your fingers if you're not sure.
+
+In a bigger bowl, beat sugar, oil, and egg together. Not fluffy. Just homogenous and glossy. Takes maybe two minutes.
+
+Pour in buttermilk, vanilla, lemon zest. Stir until combined. The zest goes suspended through everything—you'll see little flecks.
+
+Fold the dry mix into the wet with a rubber spatula. Slow. Stop the second you can't see flour streaks. Overmix and they get tough.
+
+Spoon batter onto the sheet in 16 mounds. Thumb-sized. Space them out a bit—they spread slightly but not much.
+
+Bake 27 to 33 minutes. Watch for the edges to look dry and the tops to turn matte. Press the center gently with your finger—should bounce back immediately, not stay dented.
+
+## How to Get Whoopie Pies Actually Tender
+
+The buttermilk is doing the work. It keeps them moist even after they cool.
+
+Don't overbake. That's the mistake everyone makes. Twenty-seven minutes sometimes. Sometimes 33. Depends on your oven. The toothpick test: stick one in the center. Should come out with moist crumbs, not wet batter, not completely clean either.
+
+Cool them completely on a wire rack. All the way. Patience kills you but filling melts into warm cake and nothing holds shape. If you're impatient, throw them in the fridge for ten minutes at least.
+
+## Raspberry Whoopie Pie Tips and Common Mistakes
+
+The filling. Whip cream cheese and powdered sugar until it's silky. Then blend in the preserves and mashed raspberries. Mash them rough—don't puree them into nothing. Texture matters.
+
+Smear or pipe a good dollop onto half the cooled cakes. Sandwich with the other half. Press lightly. You're not trying to make them stick permanently.
+
+Chill at least 45 minutes. The filling sets. The whole thing firms up but stays soft.
+
+Serve cold. Fridge temperature is best. Warm whoopie pies turn into a mess.
+
+If batter looks too loose, oven might be running cold. Grab an oven thermometer if you keep having trouble. Loose batter spreads too much and they come out flat.
+
+If they're dry and crumbly, they got overbaked. Next time pull them at 27 minutes and check. Every oven is different.
+
+Leftover pies wrap tight or freeze flat in a single layer first. Defrost slowly in the fridge or they get sweaty.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cream Cheese Filled Whoopie Pies
+
+**Can I make the batter ahead of time?**
+Not really. Mix it and bake it same day. Batter gets thick and weird sitting around. You could make the filling earlier though—keeps fine overnight.
+
+**What if I don't have buttermilk?**
+One cup milk with a tablespoon of vinegar stirred in. Let it sit for five minutes. Works basically the same.
+
+**How long do they actually stay good?**
+Three days at least in the fridge, covered. After that the cake gets stale but still edible. Frozen they last months if you wrap them tight.
+
+**Can I use frozen raspberries?**
+Yeah. Drain the juice first or filling gets weepy. Thaw them and press them a bit to get the liquid out.
+
+**Should the filling taste sweet?**
+Not super sweet. The preserves add sweetness but it's subtle. Taste it and add more powdered sugar if you want it sweeter. Not a big deal.
+
+**Why does the zest matter so much?**
+Bright note against chocolate. Without it they taste one-note. Doesn't make them taste lemony—just makes you go back for another one.
+
+**Can I bake these on a silicone mat instead of parchment?**
+Sure. Might take a minute longer to bake. They brown slower on silicone.
+
+**What's the deal with not overmixing?**
+Overmix and gluten develops. Gluten makes them tough instead of tender. Fold instead of beat and you're fine.
