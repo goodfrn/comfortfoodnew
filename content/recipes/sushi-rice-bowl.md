@@ -1,10 +1,10 @@
 ---
-title: "Sushi Rice Fish Bowl"
+title: "Poke Re: Sushi Rice Bowl with Marinated Salmon"
 slug: "sushi-rice-bowl"
-description: "A sushi rice bowl with marinated raw fish, blending tangy vinegared rice, soy-mirin-wasabi marinated fish, toasted sesame, and fresh garnishes. Technique-focused, emphasizing rice texture and fish freshness. Includes ginger, nori threads, green onion. Tweaked ingredient ratios and timing for better results. Uses white rice vinegar instead of rice vinegar, and swapped white sugar for honey for subtle depth."
-metaDescription: "Sushi Rice Fish Bowl with tangy white rice vinegar, honey-sweetened marinade, fresh sashimi, toasted sesame, nori, ginger, and delicate texture tips."
-ogDescription: "Master rice texture and fish freshness in this sushi rice fish bowl. Vinegar-honey mix, brief marinate, delicate layering, toasted sesame, nori, and fresh ginger."
-focusKeyphrase: "Sushi Rice Fish Bowl"
+description: "Poke re combines vinegared sushi rice with soy-mirin marinated salmon, topped with sesame seeds, pickled ginger, and nori. Fresh, technique-focused sushi bowl."
+metaDescription: "Poke re recipe: sushi rice bowl with marinated salmon, wasabi, sesame seeds, and pickled ginger. Make it tonight."
+ogDescription: "Poke re with sushi rice, marinated salmon, ginger, and toasted sesame. Simple sushi bowl packed with flavor."
+focusKeyphrase: "poke re"
 date: 2025-09-27
 draft: false
 image: sushi-rice-bowl.jpg
@@ -21,9 +21,18 @@ tags:
 - "seafood"
 - "sesame"
 keywords:
-- "sushi rice"
-- "marinated fish"
-- "white rice vinegar"
+- "poke re"
+- "sushi bowls"
+- "salmon poke bowl"
+- "poke bowl recipe"
+- "sushi rice bowl"
+- "chirashi"
+- "poke recipe"
+- "bowl salmon"
+- "sushi rice for poke bowl"
+- "salmon sushi bowl"
+- "poke bowl sauce"
+- "ginger soy salmon"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "440"
@@ -91,3 +100,75 @@ faq:
 - "q: How should leftovers be stored? a: Store fish and rice separately if possible. Rice cools to room temp, cover tight but no fridge long-term or texture suffers. Fish best eaten same day chilled well. Reheat rice gently by steaming, avoid microwaving dry. Wasabi and condiments fresh add fresh punch at serving."
 
 ---
+
+Forty-five minutes total. That's how long it takes to go from grocery bag to four perfect bowls. Rice first—that's where everything lives or dies.
+
+## Why You'll Love This Poke Bowl Recipe
+
+Takes an hour if you move slow, 45 minutes if you know what you're doing. Japanese rice technique meets Hawaiian poke, which somehow just works. One wooden bowl, one cutting board, one knife. Cleanup's not nothing, but you're eating sushi restaurant-quality fish in your kitchen. Cold rice kills it, so serve it warm—that sweet vinegar hits different when the rice is still soft. Sesame, nori, pickled ginger all pulling together in one bite. Works as a full meal or as lunch three days in a row.
+
+## What You Need for a Sushi Bowl With Poke
+
+Sushi rice. Not short-grain, not jasmine. Sushi rice. The starch matters—that's what holds the vinegar and gives it that specific stick without being glued together. Water, white rice vinegar, a bit of mirin, honey, salt. That's your rice seasoning right there.
+
+Sashimi-grade salmon or tuna—430 grams of it, sliced thin. Not thick. Thin enough to bend. Soy sauce, more mirin, prepared wasabi, toasted sesame seeds. Four green onions, a sheet of nori, pickled ginger. That's the fish marinade and the toppings.
+
+The pickled ginger matters. Sharp, cuts through the rich rice. Sesame seeds—toasted, not raw. Raw tastes like nothing. Nori shredded into those thin strips, not torn. Rough edges don't work here.
+
+## How to Make Poke Rice That Actually Tastes Right
+
+Rinse the rice cold water, bowl, swirl gently, drain. Do it again. And again. Four or five times until the water's almost clear but still a little cloudy—that's your signal the starch is gone but not stripped. Drain it in a strainer for 10 minutes minimum. Wet rice doesn't cook right.
+
+Pot, rice, measured water, stir once. Get it to a rolling boil medium-high heat. Bubbles forming fast, not creeping. Turn the heat down to the lowest setting the second steam starts rolling, cover tight, don't open it. Fourteen to sixteen minutes. That's it. That's the whole cooking part.
+
+Turn off heat. Keep it covered. Twelve minutes. Don't lift the lid. Steam finishing is real. The rice keeps absorbing moisture and the grains separate instead of clumping.
+
+While the rice is going, warm your vinegar mixture. Bowl, vinegar, mirin, honey, salt. Low heat, stir until honey dissolves. Three minutes. Don't boil it. Heat kills the brightness.
+
+Rice done. Large wooden or glass bowl. Pour the vinegar over it while it's still steaming. Wooden spatula, not a spoon—fold it with slicing motions, not stirring. You're not mashing. You're folding. The rice cools while you work, and that fanning motion—fan it with your hand or a piece of cardboard—that's what gives it the sheen. That glossy look. That's the texture.
+
+Let it sit covered until it reaches room temp. Room temp. Not cold. Cold rice is ruined rice.
+
+## How to Get the Fish and Marinade Perfect
+
+Soy sauce, mirin, wasabi in a bowl. Mix it smooth. Taste it. Adjust the wasabi—start mild, add more if you want heat. You can always turn up the spice at the table.
+
+Thin fish slices into the marinade. Toss once, twice. Don't go crazy. Marinate ten minutes max at room temperature. Longer and the fish texture goes soft and the color dulls. You want it to stay translucent and bright.
+
+Divide the rice into four bowls, loose mounds. Lay the fish over the top, overlapping. Generous. You paid for sashimi grade, show it off. If the fish looks dull instead of glossy, it's been sitting too long. You'll see it.
+
+Sesame seeds sprinkled on top. Green onions. Shredded nori. Pickled ginger on the side or right on top. Extra wasabi on the plate. Soy sauce for dipping.
+
+## Poke Bowl Tips and What Goes Wrong
+
+Rice comes out too sticky? Probably didn't rinse it enough. Do it five times next batch, drain it longer. Not sticky enough? Steam wasn't long enough. Add two minutes to the rest time.
+
+No sushi rice at the store? Short-grain rice works if you add a tablespoon more vinegar. Regular rice doesn't work. Don't bother.
+
+Mirin missing? Dry sherry works. Sweet marsala works. But then cut back the honey because the sweetness changes. Fish freshness is everything. Buy from a fishmonger who knows what sashimi grade means. Keep it cold until the second before you slice it.
+
+No wasabi paste? Horseradish mixed with a drop of soy replicates the heat. Ginger can be swapped for pickled daikon, but the flavor shifts. Nori's optional if you hate it—furikake or toasted seaweed flakes work instead.
+
+Fanning the rice while you fold it in the vinegar—that's not optional. That's the step where the texture becomes what it should be. Serving it cold ruins the whole thing. Room temperature.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sushi Bowls and Poke
+
+**Can I make this ahead?**
+Rice yes, fish no. Cook the rice hours ahead, let it cool, cover it. The fish marinade sits ten minutes max—do that right before you serve. Cold poke is cold rice, which kills it.
+
+**What's the best sashimi-grade fish for a healthy poke bowl?**
+Salmon or tuna. Salmon's fattier, richer. Tuna's cleaner. Both work. Just make sure it says sashimi grade. Your fishmonger will know.
+
+**Why is the rice seasoning so specific?**
+The vinegar, mirin, honey, salt balance—that's what makes sushi rice taste like sushi rice instead of just vinegary rice. The honey rounds the sharp edges. Mirin adds depth. You mess with it, you lose the whole thing.
+
+**Can I use regular rice instead of sushi rice?**
+Short-grain rice might work if you add more vinegar. Long-grain rice won't. Jasmine won't. The starch content's different. It won't hold the seasoning the same way.
+
+**How fresh does the fish need to be?**
+Sashimi grade. Bought today, used today. Buy it last, get home, into the fridge immediately, slice it right before the marinade. Don't mess around. Bad fish is worse than no fish.
+
+**Why do you fan the rice?**
+Cools it and dries the surface slightly. Gives it that glossy look and the right texture. You skip it, the rice stays wet and heavy. It's the invisible step that makes the difference.
