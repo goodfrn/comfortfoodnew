@@ -1,10 +1,10 @@
 ---
-title: "Spiced Honey Nut Mix"
+title: "Peanuts Roasted with Hot Honey Chex Mix"
 slug: "spiced-honey-nut-mix"
-description: "Crunchy cereal snack tossed in melted butter blended with spicy hot honey, lightly salted, baked till golden with a mix of nuts, pretzels, and bagel chips for contrasting textures. Adjust bake time by color and crunch, stirring midway to avoid burning. Swap peanuts for almonds or cashews to change flavor and texture. Hot honey can be switched to sriracha maple syrup for a maple heat kick. Uses a combo of Chex and Crispix for balanced crunch and less crumb. Toss gently to avoid shattering cereal pieces. Cool fully for crisp texture retention."
-metaDescription: "Crunchy spiced honey nut mix with crispy cereals, nuts, pretzels, and bagel chips baked low and slow. Hot honey heat balanced with salty butter and texture contrast."
-ogDescription: "Crunchy cereal and nut snack baked with hot honey and butter. Watch for golden edges and smell roasted nuts for doneness cues."
-focusKeyphrase: "spiced honey nut mix"
+description: "Roasted peanuts mixed with Chex cereal, pretzels, and bagel chips tossed in hot honey butter. A sweet and salty snack that's crunchy, golden, and perfectly seasoned with sea salt."
+metaDescription: "Peanuts roasted in hot honey butter with Chex cereal, pretzels, and bagel chips. Make this sweet and salty snack mix at home. Try it tonight."
+ogDescription: "Homemade honey roasted peanuts with Chex cereal, pretzels, and bagel chips. Sweet and salty perfection in every bite."
+focusKeyphrase: "peanuts roasted"
 date: 2025-11-25
 draft: false
 image: spiced-honey-nut-mix.jpg
@@ -20,9 +20,16 @@ tags:
 - "spice"
 - "pretzel"
 keywords:
-- "honey nut mix"
-- "spicy snack"
-- "toasted cereal mix"
+- "peanuts roasted"
+- "sweet and salty snack"
+- "chex mix recipe sweet and salty"
+- "homemade honey roasted peanuts"
+- "sweet and salty snack mix recipe"
+- "recipe for salty sweet chex mix"
+- "roasted spiced nuts"
+- "sweet and salty trail mix recipe"
+- "salty sweet snack mix recipes"
+- "oven roasted peanut"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "140"
@@ -79,3 +86,99 @@ faq:
 - "q: Best way to avoid crushed cereal pieces? a: Pour dry mix between two bowls while slowly drizzling hot honey butter. Stops clumps, crushed dust. Toss gently only once or twice mid bake. Over stirring breaks coating. Thin layer on pan crucial too—over crowding causes steam, soggy cereal."
 
 ---
+
+Pour the butter and honey in slowly while tossing—dry ingredients first, wet after. The pretzels go soft if you're not fast about it. Takes 39 minutes total, 32 of that in the oven, and the smell alone makes it worth the time.
+
+## Why You'll Love This Sweet and Salty Snack Mix
+
+Tastes like honey roasted peanuts but costs half as much and you control the spice level.
+
+The texture stays crispy for two weeks if you let it cool all the way. Most people don't. Crunch matters more than anything here.
+
+Works for Halloween snacks, Christmas parties, random Tuesdays when you need something to eat that isn't crackers or nothing. People ask for it.
+
+No fancy equipment. Just an oven and a bowl.
+
+Pretzel gets soft if you overbake it, but there's a window where everything hits at once—the cereal crisps, the nuts toast, the honey caramelizes. Land in that spot and you've got something good.
+
+## What You Need for Oven Roasted Peanut Mix
+
+Three cups Rice Chex. Three cups Crispix. Not one or the other—both. They crisp differently and together it works. One cup pretzel twists. The tight ones, not the knots. One cup bagel chips broken into pieces. Rough breaks are fine, not dust. Three-quarters cup dry roasted peanuts. Adds nuttiness without being overwhelming. Three-quarters cup unsalted butter. Not salted. You're controlling salt yourself. Half cup hot honey. This is the main flavor. Not regular honey—hot honey, the kind with heat in it. Trader Joe's has it. Most grocery stores now. Three-quarters teaspoon fine sea salt. Coarser salt sits on top and doesn't blend. Fine salt disappears into everything.
+
+Substitutions: Sunflower seeds swap for peanuts if allergies. Rye chips instead of bagel chips if you want darker, earthier. Spicy maple syrup works if you can't find hot honey—actually might prefer it. I tried chili garlic honey once. Better than expected but heat creeps up on you.
+
+## How to Make Sweet and Salty Chex Mix
+
+Set the oven to 280. Not 275. Not 300. Middle rack. Preheat it empty for a few minutes. Parchment on the sheet—foil makes everything stick and then cleanup becomes a nightmare. Better to plan ahead.
+
+Dump the cereals, pretzels, bagel chips, and peanuts into a big bowl. Something actually big. You need room to move these around without crushing everything into powder. 
+
+Melt the butter slowly. Microwave works fine—30 second bursts, stir between each one. Stovetop is slower but safer if you care about that. Don't let it brown. Once it hits that nutty smell, it's too far. Whisk in the hot honey and salt right after melting while the butter's still hot. Salt dissolves better that way.
+
+Here's the thing—don't dump the wet into the dry. That's how you get clumps and uneven coating. Pour from one bowl into another while drizzling the honey butter between them, slow and steady. Minimizes crushed bits. No one wants dust in the mix.
+
+## How to Get the Texture Crispy and Perfect
+
+Spread it thin on the baking sheet. Single layer. Things overlapping bake unevenly and go soft in the middle. Thin is key here for actual crunch.
+
+Bake 22 minutes. Watch the edges for a light golden shimmer. Shake the sheet gently around the 20-minute mark—you should hear it snap a little. Not loud. Just crunchy. Pull it out and stir gently with a wooden spoon. Scrape the bottom. Flip things that aren't getting color.
+
+Back in for 12 more minutes. The nuts should smell roasted now. Some pieces turn light golden. Not dark. Not brown. If things go too dark, pull earlier next time or lower the heat by 10 degrees. Every oven runs different. Smell is your dead giveaway.
+
+Cool it completely on the sheet. Warm mix is soft and disappointing. Cooling is what seals the crunch. This matters more than people think. Leave it alone for 20 minutes minimum.
+
+## Sweet and Salty Mix Tips and Common Mistakes
+
+Store it in glass or thick plastic airtight. Away from humidity or it gets soggy. Lasts about two weeks but honestly it doesn't last that long.
+
+Toss gently while it's still warm from that first pull. One gentle toss. Don't stir it to death—breaks cereal and softens the coating. After that, leave it alone.
+
+If it smells burnt, pull earlier. Oven variance is real. Light golden edges and shiny butter coating, not deep brown.
+
+Some people add smoked paprika after baking for a smoky hit. Don't bake with spice dust—it burns. Cool it first, dust it, toss in a bowl.
+
+Soggy after a few days? Re-toast it in a toaster oven for three minutes. Brings back crunch.
+
+Toast the peanuts separately in a dry pan until fragrant before mixing if you want deeper nuttier flavor. Adds something.
+
+Don't skip parchment. Sticky mess otherwise. Better than cooking spray or foil.
+
+Butter amount can shift. Less butter means lighter coating but less flavor adhesion. More butter means richer but greasier—don't go past three-quarters cup.
+
+Salt level depends on what you like. Kosher salt for visual crunch, fine salt to blend invisible. Taste the honey butter raw before adding if you're unsure.
+
+Test doneness by poking a piece. Should snap cleanly and sound hollow.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Peanut Snack Mix
+
+**Can I use regular honey instead of hot honey?**
+Not really the same. Regular honey tastes sweet and flat here. Hot honey has that spice kick that makes the whole thing work. Spicy maple syrup is a real substitute though. Chili garlic honey is crazier but good.
+
+**How do I know when it's actually done baking?**
+Shake the sheet gently. Should crackle. Smell it—roasted peanut scent means you're there. Color-wise, light golden, not brown. Poke a piece. Snaps cleanly. Doesn't bend.
+
+**Why does mine always come out soggy?**
+Either underbaked or bad storage. Cool it all the way on the sheet. Don't put it away warm. Store in airtight glass or thick plastic away from humidity. If it goes soft anyway, quick three-minute re-toast in a toaster oven fixes it.
+
+**Can I make this without the bagel chips?**
+Yeah. Use rye chips or small pita pieces instead. Changes the flavor profile but still works. Pretzels alone get boring texture-wise so swap with something crunchy.
+
+**Why does the pretzel get soft?**
+Pretzel absorbs moisture from the honey and butter. That's why timing matters. Hit that 22-minute mark, stir, 12 more minutes window. Miss it and pretzel goes limp. Learn your oven.
+
+**Can I double this recipe?**
+Yes but use two baking sheets and rotate them halfway through. One sheet gets the back corner heat, the other gets front. Swap them so everything crisps evenly.
+
+**What if I don't have fine sea salt?**
+Kosher salt works. Use less. Finer grain salt compacts more so a teaspoon of fine salt hits harder than a teaspoon of kosher. Taste and adjust.
+
+**Is this actually cheaper than store-bought honey roasted peanuts?**
+Way cheaper. Trader Joe's honey roasted peanuts cost more and this makes a ton. Costco honey roasted nuts are close price-wise but this has better texture control. You own the crunch level.
+
+**Can I add other things to this?**
+Smoked paprika after cooling. Powdered sugar for sweetness. Toasted sunflower seeds mixed in. Pumpkin seeds instead of peanuts. Don't add stuff during baking—burns. Cool it, add it, toss.
+
+**How long does it actually stay fresh?**
+About two weeks airtight. It eats faster than that in reality. Humidity kills it faster than time does.
