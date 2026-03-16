@@ -1,10 +1,10 @@
 ---
-title: "Tangy Overnight Fruit Salad"
+title: "Creamy Custard Fruit Salad with Pecans"
 slug: "tangy-overnight-fruit-salad"
-description: "A tangy, creamy fruit salad with custard tossed among mixed fruit, marshmallows, and pecans. Pineapple and mandarin juices blended, thickened with eggs and cornstarch for a luscious custard folded with whipped cream. Bananas added carefully last to avoid mush. Chilled overnight to marry flavors and firm custard. Balanced sweetness, slight tang from lemon, and crunchy pecans create layers of texture and taste. Refreshing, not overly sweet, bespeaks a rehearsal of trial and error on custard thickness, fruit ratios, and timing."
-metaDescription: "Tangy Overnight Fruit Salad with rich custard, whipped cream, and fresh fruit. Balanced tang and sweet layers, pecan crunch, chilled for firm texture and flavor meld."
-ogDescription: "Tangy fruit salad with custard custard thickened eggs & cornstarch, folded cream. Bananas last. Chill long. Textures play—crisp pecans, soft marshmallows."
-focusKeyphrase: "overnight fruit salad custard"
+description: "Creamy custard fruit salad made with pineapple, mandarin oranges, grapes, and pecans. Egg custard thickened with cornstarch and folded with whipped cream creates a luscious dessert salad."
+metaDescription: "Creamy custard fruit salad with pineapple, mandarin oranges, and pecans. Homemade egg custard dressing makes this dessert irresistible. Try it tonight."
+ogDescription: "Homemade custard fruit salad with pineapple, oranges, grapes, marshmallows, and pecans. Creamy, tangy, and perfectly chilled."
+focusKeyphrase: "creamy fruit salad"
 date: 2025-12-26
 draft: false
 image: tangy-overnight-fruit-salad.jpg
@@ -18,9 +18,16 @@ tags:
 - "banana"
 - "dessert"
 keywords:
-- "fruit salad"
-- "custard"
-- "overnight dessert"
+- "creamy fruit salad"
+- "custard fruit"
+- "ambrosia salad"
+- "fruit salad dressing"
+- "mandarin orange salad"
+- "custard and fruit"
+- "fresh fruit salad"
+- "pineapple salad"
+- "cool whip fruit salad"
+- "cream for fruit salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "290"
@@ -75,3 +82,76 @@ faq:
 - "q: How to store leftover salad? a: Airtight container in fridge best. Lasts 2 days max. Can freeze custard separately but fruit texture ruined. Stir gently before serving if juices separated."
 
 ---
+
+Combine the juices first — that's the whole trick right there. Pineapple and mandarin, measured exact, mixed with lemon. Then you cook it down into custard. The kind that coats the back of a spoon and tastes like dessert instead of fruit salad.
+
+## Why You'll Love This Ambrosia Fruit Salad
+
+Tastes like a dessert that happened to have fruit in it. Not the other way around.
+Sits overnight. Everything melds. Bananas stay firm because of the custard — nobody gets mush.
+Mini marshmallows. They soften just enough but keep their shape.
+Works as a side dish or the actual dessert. Cold, sweet, feeds a crowd.
+Custard and fruit together — sounds fancy. Takes 22 minutes of actual work and 12 hours of sitting.
+
+## What You Need for Ambrosia Salad
+
+Pineapple juice and mandarin orange juice — reserved from the cans. One cup total, no more. Top with water if it's short.
+Fresh lemon juice. Half a cup. Not bottled. Fresh matters here.
+Sugar and cornstarch. Three quarters cup and two tablespoons. They thicken the custard.
+Eggs. Four large ones. They cook into the juice and turn it into actual custard.
+Butter. Three tablespoons. Unsalted. Goes in after heat, makes it glossy.
+Heavy whipping cream. One cup. You whip it cold and fold it in last — that's what makes it light instead of dense.
+Pineapple chunks from a can. Drained. Mandarin oranges, same thing.
+Red seedless grapes. One and a half cups. Pecans, one cup chopped. Mini marshmallows — a cup and a half. They're the weird part that actually works.
+Bananas. Two medium. Slice them right before serving or they oxidize and brown.
+
+## How to Make Ambrosia Fruit Salad Custard
+
+Measure your juices first. Pineapple and mandarin from the cans — combined, you need exactly one cup. If it's short, add water. Pour into a medium saucepan.
+
+Whisk in the fresh lemon juice. Then whisk together the sugar and cornstarch in a separate bowl — no lumps. Dump it into the juice and stir until smooth. Crack in four eggs. Whisk hard until everything turns frothy and pale, like you've beaten it into submission.
+
+Set the pan over medium heat. This is where you don't leave it alone. Whisk constantly. The mixture will start to thicken. You'll see it go from loose liquid to something that coats the back of a spoon. It should bubble lightly — just barely. Watch close. Took me a minute or two longer than I expected the first time, so don't panic if the timer says five minutes and you're not there yet. Trust what you see, not what you were told.
+
+## How to Get the Custard Texture Perfect
+
+Pull it off heat the second it coats the spoon. Not stiff. Not runny. That middle ground.
+Whisk in three tablespoons of butter. It'll melt immediately and make everything glossy and smooth.
+Set it aside uncovered. Don't cover it — that traps steam and a skin forms on top. Let it cool for about 50 to 65 minutes. Stir occasionally. You're aiming for room temperature, maybe slightly cool.
+
+While that's happening, whip cold heavy cream to soft peaks. Cold matters. Use a cold bowl if you have one. When the custard's cool, fold the whipped cream into it gently. You want light, airy texture — don't stir it like you're making scrambled eggs. Fold. That's the word. Slow and gentle.
+
+## Ambrosia Fruit Salad Tips and Assembly
+
+Drain your canned fruit. Thoroughly. Watery fruit dilutes everything and makes the custard separate.
+In a big bowl, toss together the pineapple chunks, mandarin oranges, red grapes, pecans, and mini marshmallows. Everything but the bananas.
+Pour the cool custard over the fruit. Toss gently but thoroughly — every piece needs coating.
+Slice the bananas last minute. Right before you fold them in. They brown fast. Fold them carefully into the salad, making sure they get coated but don't get smashed into pieces.
+Cover the bowl with plastic wrap. Press the wrap lightly onto the surface so it touches the top of the salad — that traps moisture and keeps it from drying out overnight.
+Refrigerate for at least 12 hours. Overnight is better. The custard firms up, the flavors marry, the marshmallows soften just right.
+Before serving, give it a gentle stir. Any separated juices get redistributed. That's it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Fruit Salad Custard
+
+**Can I make this ahead beyond the overnight sit?**
+Yeah. Up to two days. After that the bananas start to brown no matter what, and the marshmallows get weird and grainy. But overnight to 24 hours — totally fine. Better than fine, actually.
+
+**What if my custard breaks or gets lumpy?**
+Strain it. Seriously. Push it through a fine mesh strainer into a clean bowl. Lumps gone. You lose a tiny bit of texture but it still works.
+
+**Do I have to use all four eggs?**
+Don't reduce them. That's what thickens it. You could use three if you want it looser — more of a sauce than a custard — but four is right.
+
+**Can I use fresh fruit instead of canned?**
+Sort of. Fresh pineapple and mandarin oranges won't work because you need the juice reserved. You'd have to juice them yourself, and fresh mandarin juice is thin. Canned is thicker, more flavorful. Fresh grapes work fine. Fresh fruit in general means it's waterier and the salad gets runny.
+
+**How long does this keep in the fridge?**
+Two days maximum before the bananas turn brown and the texture starts separating. It's fine to eat — just looks weird.
+
+**Can I substitute the heavy cream?**
+Not really. Whipped cream is what makes it light. Cool Whip works but it's chemical-tasting. Just use real cream, cold.
+
+**What do the marshmallows actually do?**
+Sweeten it more, add texture contrast. They soften overnight but stay distinct. It sounds weird — I know — but everyone asks for seconds because of them.
