@@ -1,10 +1,10 @@
 ---
-title: "Spiced Thai Seafood Soup"
+title: "Khao Soi: Thai Shrimp & Scallop Soup"
 slug: "spiced-thai-seafood-soup"
-description: "A lively Thai-inspired seafood soup with shrimp and scallops cooked in creamy coconut broth. Red bell pepper and corn add sweetness and crunch. Fresh lime juice, basil, ginger, and garlic layer in brightness and warmth. A touch of red curry paste for heat. Uses vegetable broth instead of seafood stock for accessibility. Cook seafood just until opaque or rubbery. Simmer coconut milk gently to avoid curdling. Maldon salt finish adds subtle crunch. Balanced textures and bold flavors, shaped by timing and technique. Simple but rewarding dish, ideal for quick weeknight meals or impressing guests without fuss."
-metaDescription: "Spiced Thai seafood soup with shrimp and scallops in a creamy coconut broth, layered flavors from red curry, lime, ginger, and fresh basil. Quick, bold, textured."
-ogDescription: "Shrimp and scallops simmered in coconut broth, kissed by red curry and lime. Crunchy bell pepper and corn mix texture, fresh basil lifts every bite. Clean, fast, bright."
-focusKeyphrase: "Thai seafood soup"
+description: "Khao soi features shrimp and scallops in creamy coconut broth with red bell pepper, corn, and fresh basil. Lime juice and red curry paste deliver bold Thai flavor."
+metaDescription: "Khao soi soup recipe with shrimp, scallops, coconut milk, and fresh basil. Quick Thai-inspired dish bursting with flavor. Make it tonight."
+ogDescription: "Creamy Thai khao soi with shrimp, scallops, corn, and fresh basil in coconut broth. Bold, balanced, and ready in minutes."
+focusKeyphrase: "khao soi"
 date: 2026-01-02
 draft: false
 image: spiced-thai-seafood-soup.jpg
@@ -21,9 +21,18 @@ tags:
 - "coconut"
 - "spicy"
 keywords:
-- "seafood soup"
-- "coconut milk soup"
-- "Thai curry soup"
+- "khao soi"
+- "tom yum soup"
+- "shrimp tom yum soup"
+- "thai tom yum recipe"
+- "tom yum recipe"
+- "tom kha gai"
+- "thai soup recipe"
+- "coconut shrimp soup"
+- "tom yum goong"
+- "thai seafood soup"
+- "red curry paste soup"
+- "fresh basil soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "350"
@@ -69,3 +78,57 @@ faq:
 - "q: How long can leftovers keep? a: Fridge 2-3 days sealed well, seafood best eaten sooner. Reheat gently, low stove or microwave in bursts to avoid rubbery seafood. Freeze not advised; texture breaks, coconut milk separates. Fresh lime juice freshens again after storage."
 
 ---
+
+Butter goes in hot. Scallops and shrimp follow — 2 minutes if you're watching close. The moment edges curl, pull them out. Too long means rubbery. This is the whole trick right here.
+
+## Why You'll Love This Thai Soup
+
+28 minutes total. Seafood stays tender because you're not drowning it in heat. The coconut milk smooths out the spice instead of letting it bite your face off. Cold night, you've got a soup that tastes like Thailand without the flight. Lime juice at the end cuts through everything — makes it taste bright even though it's creamy. Maldon salt flakes on top give you that crunch. Most soup doesn't have that. This one does.
+
+## What You Need for Thai Tom Yum Soup
+
+Butter. One tablespoon. Not oil. Butter gets the scallops and shrimp golden without drying them out. Full fat coconut milk — the kind that's thick at the top, not the canned stuff that's already been shaken. Red curry paste. This is your heat and your depth. Fresh ginger, minced small. Not powdered. Garlic, two cloves. Red bell pepper and red onion, diced separate because onion goes in first, pepper gets added later so it stays a little firm. Fresh basil — Thai basil if you find it, regular basil works. Vegetable broth, two cups. Lime juice, divided because some goes in the broth, some finishes the bowl. Scallions for the top. Corn kernels, fresh or frozen. Maldon salt flakes. Regular salt disappears. These flakes stay crunchy.
+
+## How to Make Thai Tom Yum Soup
+
+Heat butter in a medium saucepan over medium. Watch it until it stops foaming — that's when you toss in the seafood. Scallops first, then shrimp. Stir every few seconds. You're looking for the shrimp to turn from gray to pink and the scallops to go opaque at the edges. Edges curl up a little. This takes maybe two minutes if your heat is right. The second they look done, pull them onto a plate. Leaving them longer is a mistake — they keep cooking from the pan heat anyway.
+
+Same pan. Don't wash it. The brown bits matter. Red bell pepper goes in — a third of a cup — plus the red onion, garlic, and ginger. Medium heat. Listen. You want to hear that soft sizzle, smell something sharp and alive without any burnt edge. Two to three minutes. You're softening things just slightly. Then curry paste. Stir constantly. One minute. The paste goes from a dark blob to something that coats the whole pan bottom and smells like Thailand. That's when you stop.
+
+Pour in two tablespoons of lime juice. Stir. Add the basil, coconut milk, and vegetable broth. Whisk gently so there aren't lumps of coconut hiding anywhere. Bring it up to a low simmer — you should see small bubbles coming up around the edges but the whole surface shouldn't be agitated. If it's boiling hard, reduce heat. You want it loose but starting to thicken slightly. Nine to eleven minutes. The surface looks silky when it's right. Not glossy. Silky.
+
+While that simmers, mix the rest of the red bell pepper and the corn with the seafood you pulled out earlier. Don't break the scallops. They'll warm up from the hot broth in a second — no need to cook them again. That's the whole point.
+
+## How to Get Thai Tom Yum Soup Creamy and Balanced
+
+Divide the seafood and veggie mix into two bowls. Ladle the hot coconut broth over carefully. You'll hear it steam. Scallions go on top. Then Maldon salt flakes — enough so you can see them, not so much they're overwhelming. The remaining lime juice, a drizzle. This is what brings everything alive.
+
+Taste first. If it feels flat, more lime. If it needs salt, a pinch of Maldon flakes. The broth should balance between creamy and tart and spicy and savory all at once. If it leans too much one way, fix it. You've got lime, you've got salt, you've got that punch of curry paste already in there.
+
+## Thai Tom Yum Soup Tips and What Goes Wrong
+
+Don't overcrowd the pan when seafood goes in. Scallops and shrimp need room to brown. If they're stacked, they steam instead. That soft sizzle sound is your tell — if it's not there, you don't have enough heat. Shrimp cooks faster than scallops. Watch the shrimp especially. The moment it's pink all the way through, it's done. A few seconds longer and you're in rubber territory.
+
+Coconut milk can break if you boil it hard. That silky surface means you're at the right temp. Too hot and it separates. The broth should be a little loose when you ladle it. It thickens as it cools slightly anyway. Curry paste has salt in it already. Taste before you add more. Maldon flakes are not optional — regular salt won't work the same way. The flakes stay crunchy on top. They taste cleaner.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Thai Tom Yum Soup
+
+**Can I use frozen shrimp instead of fresh?**
+Yeah. Thaw them first. Pat them dry. Otherwise the extra water throws off your timing and they don't brown. The curry paste and coconut milk cover up any freezer taste.
+
+**What if I can't find red curry paste?**
+Yellow works. Green is spicier — use half the amount. Neither is ideal but both work. The flavor shifts though. Yellow's more mellow.
+
+**Should I peel the shrimp myself or buy them peeled?**
+Pre-peeled is fine. You're not using the shells for broth here. Saves 3 minutes if you buy them that way.
+
+**Can I substitute the coconut milk?**
+Heavy cream works. Tastes different. More French than Thai. Not worth swapping unless you have to. Full fat is the only option — light coconut milk is basically water.
+
+**How long does this keep?**
+Seafood gets weird in the fridge after a day. The broth itself keeps three days covered. Keep them separate. Warm the broth, add fresh seafood the next time, maybe add a scallion. It's not the same as day-one but it works.
+
+**Why lime juice at two different times?**
+The juice in the broth builds flavor. The juice at the end cuts through the richness right when you eat it. One timing does both jobs but not as clean.
