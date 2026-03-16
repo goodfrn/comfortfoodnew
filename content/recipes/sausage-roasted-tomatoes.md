@@ -1,10 +1,10 @@
 ---
-title: "Sausage Roasted Tomatoes"
+title: "Sausage Stuffed Tomatoes with Parmesan"
 slug: "sausage-roasted-tomatoes"
-description: "Halved large field tomatoes roasted at 190°C for 18 minutes until tender. Onion softened in 25 ml olive oil, seasoned. Spicy Italian sausage 520g browned, crumbled with garlic added. Stale bread 120g plus 25g combined with white wine 50 ml absorb flavors in pan. Parmesan 40g plus 25g for topping mixed with fresh chopped flat-leaf parsley 12g. Filling spooned into tomato halves. Topping of Parmesan and breadcrumbs baked 3 minutes under broil to golden crust. Six servings, savoury with crispy top and juicy tomato base."
-metaDescription: "Sausage Roasted Tomatoes. Juicy tomatoes filled with spicy sausage, garlic, and Parmesan. Perfect for starters or light dinners."
-ogDescription: "Sausage Roasted Tomatoes are tender tomatoes stuffed with spicy Italian sausage, topped with crunchy Parmesan. Great for entertaining."
-focusKeyphrase: "Sausage Roasted Tomatoes"
+description: "Sausage stuffed tomatoes roasted until tender with Italian sausage, garlic, breadcrumbs, and Parmesan. Crispy golden top with juicy tomato base."
+metaDescription: "Sausage stuffed tomatoes recipe with Italian sausage, garlic, white wine, and Parmesan crust. Make it tonight."
+ogDescription: "Roasted tomatoes stuffed with spicy Italian sausage, garlic, breadcrumbs, and Parmesan. Crispy and juicy."
+focusKeyphrase: "sausage stuffed tomatoes"
 date: 2025-07-23
 draft: false
 image: sausage-roasted-tomatoes.jpg
@@ -21,9 +21,14 @@ tags:
 - "side dish"
 - "easy dinner"
 keywords:
-- "Italian sausage"
-- "oven baked tomatoes"
-- "easy stuffed tomatoes"
+- "sausage stuffed tomatoes"
+- "roasted tomatoes with sausage"
+- "italian sausage stuffed tomatoes with fresh parsley"
+- "sausage tomatoes with bread crumbs and white wine"
+- "italian sausage dinner"
+- "stuffed roasted tomatoes italian sausage recipe"
+- "roasted tomatoes side dish"
+- "roasted tomato sausage casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -75,3 +80,95 @@ faq:
 - "q: Shelf life after cooking? a: Keep in fridge up to 3 days. Warm before serving. Can freeze but texture changes. Not the same after."
 
 ---
+
+Halve the tomatoes first. Scoop out the insides — seeds, the green core, all of it. Salt them while they're hollow. This matters more than it sounds.
+
+## Why You'll Love This Sausage Roasted Tomatoes Recipe
+
+Takes 49 minutes total. Most of that's just the oven running.
+Spicy Italian sausage does the work — you're not fighting bland here. Meat, breadcrumbs, wine, cheese. It tastes like someone spent hours on it.
+Works as a side dish for almost anything. Fish. Chicken. Nothing. Doesn't matter.
+Leftover tomatoes are actually better cold. Temperature doesn't break them apart.
+One pan for the filling. One dish. The cleanup's nothing.
+
+## What You Need for Roasted Tomatoes With Sausage
+
+Six large field tomatoes. The kind that sit flat, not cherry tomatoes.
+Two medium onions chopped up. Yellow or white. Red onion doesn't work here.
+Olive oil. 25 ml. That's about two tablespoons.
+520 grams of spicy Italian sausage meat. Four links, roughly. Get the stuff that comes in a casing and just squeeze it out.
+Three garlic cloves minced. Smaller pieces than you think.
+Stale bread. A cup and a quarter chopped up. Not fresh. Stale bread soaks up the wine without turning to mush. Fresh bread falls apart.
+50 ml dry white wine. A splash. Doesn't have to be expensive.
+Parmesan cheese. Grate it yourself — 40 grams for the filling, another 25 for on top. Pre-grated tastes like nothing.
+Fresh parsley. Three tablespoons chopped. Dried doesn't count.
+Breadcrumbs. 25 grams. Stale bread crumbs work. So does panko.
+
+## How to Make Sausage Roasted Tomatoes
+
+Get the oven to 190°C. Center rack. Let it heat while you prep.
+
+Slice tomatoes in half. Not at an angle — straight across. Trim a tiny bit off the flat bottom so they don't roll around in the dish. Scoop out the insides with a spoon. Get the seeds, the core, that greenish bit. Salt and pepper each half inside. Arrange them cut-side up in a wide baking dish. This part takes maybe five minutes if you're slow.
+
+Bake them 18 minutes. They'll start to collapse and go soft. You're not cooking them all the way yet — just softening them up so the filling has somewhere to live.
+
+While that happens, heat olive oil in a large skillet over medium-high heat. Throw in the chopped onions. Salt them. Let them sit for five minutes until they go translucent and soft. Stir once or twice. Don't fuss.
+
+Add the sausage meat. Crumble it with a spoon as it cooks. Eight minutes. Keep stirring so it browns evenly and doesn't clump up.
+
+Add the garlic. One minute. Anything longer and it burns.
+
+Pour in the chopped stale bread and white wine. Stir constantly. The wine's going to get absorbed into the bread and it'll form this thick, almost paste-like mixture. Takes three to four minutes. It should look cohesive. Not wet. Not dry.
+
+## How to Get Crispy Italian Sausage Roasted Tomatoes With Garlic and Parmesan
+
+Pull the pan off heat. Stir in the 40 grams of Parmesan and the parsley. Taste it. Fix the salt and pepper now — you won't get another chance.
+
+Take the tomatoes out of the oven. Bump it to broil. This happens fast.
+
+Spoon the filling into each tomato half. About 70 ml per tomato. Doesn't have to be perfect. Just fill them up.
+
+Mix the breadcrumbs and the remaining 25 grams of Parmesan in a small bowl. Sprinkle it on top of each tomato. Even coverage. This is what gets golden and crispy.
+
+Slide the whole dish under the broiler. Three minutes. Watch it. Don't look away. The crumbs go from golden to black in like 30 seconds.
+
+Pull it out. Let it sit for a minute. The bread crumbs keep crisping as it cools.
+
+## Stuffed Roasted Tomatoes Italian Sausage Tips and Mistakes
+
+Stale bread matters. Fresh bread will absorb the wine and turn into paste. Stale bread has structure. Let bread sit out overnight or toast it lightly. Both work.
+
+Don't skip halving the tomatoes first and baking them. They need that 18 minutes or they'll stay watery and fall apart when you stuff them.
+
+The wine needs to be fully absorbed into the bread mixture. If it's still wet, keep stirring. If it's dry, add a splash more wine. You're looking for something between.
+
+Broiler heat is uneven. Turn the dish halfway through if your tomatoes are browning unevenly. Or just watch them. Three minutes goes fast.
+
+Sausage meat varies. Some batches are spicier than others. Taste the filling before you stuff the tomatoes. Add salt if it's bland. Don't add more spice — you can't take it out.
+
+Grate the Parmesan fresh. Pre-grated has anti-caking stuff in it. Changes the texture.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Tomatoes With Sausage
+
+**Can I make these ahead?**
+Fill them in the morning. Cover with plastic wrap. Refrigerate. When you're ready to cook, add 5 minutes to the final broil time because they're cold. Or assemble them in the morning and bake just before eating. Both work.
+
+**What if I can't find spicy Italian sausage?**
+Sweet Italian sausage works. Less heat. More similar flavor than you'd expect. Don't bother with fennel sausage for this one.
+
+**Can I use fresh bread?**
+No. It'll turn to mush. Doesn't hold the wine.
+
+**How do I know when the broiler's done?**
+Golden brown on top. Takes three minutes if you're watching. Sometimes two if your broiler runs hot. The crumbs should crunch, not be soft.
+
+**Can I freeze these?**
+Haven't tried it raw. Cooked ones probably freeze fine. Reheat in a 175°C oven for 10 minutes covered. The crumbs won't be as crispy.
+
+**What's a good side dish to serve with sausage roasted tomatoes?**
+A salad. Something cold cuts the richness. Or crusty bread to soak up whatever liquid comes out of the tomatoes.
+
+**Do I have to use wine?**
+Probably. The wine makes the filling hold together. Chicken broth might work. Haven't tested it. Not worth skipping.
