@@ -1,10 +1,10 @@
 ---
-title: "White Chocolate Cookie Lasagna"
+title: "No Bake Cheesecake with Oreo Crust"
 slug: "white-chocolate-cookie-lasagna"
-description: "Layered no-bake dessert featuring a buttery chocolate cookie crust, fluffy cream cheese and whipped topping, rich pudding filling, finished with white chocolate curls. Prep involves pulsing Oreo crumbs with butter, folding lightened cream cheese mix, whisking instant pudding to a soft set, then building layers chilled to firm for easy slicing. Adjust stabilizers or toppings based on available ingredients. Serves a dozen, balances sweetness, texture, and creamy richness with crisp crust base."
-metaDescription: "White Chocolate Cookie Lasagna layers chocolate cookie crust, cream cheese, whipped topping, and pudding for rich, chilled, no-bake sweetness serving 12."
-ogDescription: "Layered no-bake dessert with Oreo crust, fluffy cream cheese, white chocolate pudding, and whipped topping. Chill well, slice with care, serve cold."
-focusKeyphrase: "White Chocolate Cookie Lasagna"
+description: "No bake cheesecake with crushed Oreos, cream cheese, and white chocolate pudding filling. Layered dessert chilled to perfection for easy slicing."
+metaDescription: "No bake cheesecake recipe with Oreo cookie crust, cream cheese filling, and white chocolate pudding. Easy no-oven dessert. Make it tonight."
+ogDescription: "Creamy no bake cheesecake featuring Oreo crust, fluffy cream cheese, and white chocolate pudding layers."
+focusKeyphrase: "no bake cheesecake"
 date: 2025-10-10
 draft: false
 image: white-chocolate-cookie-lasagna.jpg
@@ -20,9 +20,18 @@ tags:
 - "cookies"
 - "chocolate"
 keywords:
-- "no bake dessert"
-- "oreo cookie crust"
-- "white chocolate pudding"
+- "no bake cheesecake"
+- "no cook cheesecake"
+- "no bake cheesecake dessert"
+- "cheesecake recipe no bake"
+- "bakeless cheesecake"
+- "no bake desserts"
+- "white chocolate cheesecake"
+- "dessert without oven"
+- "unbaked desserts"
+- "cream cheese dessert"
+- "chocolate cookie crust"
+- "pudding cheesecake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "479"
@@ -69,3 +78,97 @@ faq:
 - "q: How best to store leftovers? a: Refrigerate wrapped for moisture retention, keep curls from melting and absorbing fridge smells. Avoid freezer, texture degrades and separation happens. Bring to room temp before serving but not too long—layers soften, shape lost. Cover or use airtight container."
 
 ---
+
+Oreos smashed into a crust. Cream cheese layer. White chocolate pudding on top. Whipped cream finish. Ninety minutes from start to plated, and zero heat involved—that's the whole thing. No oven required. Just a fridge and some layering patience.
+
+## Why You'll Love This No Bake Cheesecake
+
+Takes 35 minutes to assemble, then you wait. Actual hands-on time is maybe half that.
+No baking. No temperature guessing. No burnt edges or cracks that feel like a personal failure.
+Tastes good cold straight out of the fridge, and actually tastes better the next day—pudding sets firmer, layers don't separate when you cut.
+Cookies in the crust. Specifically Oreos. Not boring graham. That chocolate bite stays through the whole thing.
+Works for people who don't bake—this isn't a recipe, it's assembly. You need a mixer and a knife. That's it.
+
+## What You Need for No Bake Cheesecake
+
+Thirty-six Oreos. Cream removed or not, doesn't really matter—most people leave them in anyway. Chocolate wafers work if you're being precious about it, but Oreos are the standard.
+
+Twelve tablespoons unsalted butter melted. Coconut oil works fine, same amount. The crust just needs fat to hold the crumbs together.
+
+Eight ounces cream cheese softened—room temperature matters here. Cold cream cheese won't blend smooth and you'll taste the grit. Mascarpone if you want silkier, but it changes the flavor.
+
+One cup powdered sugar. Three quarters if you want less sweet. Depends on your tolerance.
+
+Two cups whipped topping divided. Cool Whip from the freezer. Or whipped cream if you want to feel fancy. Homemade works but you're adding time for no reason.
+
+One package white chocolate instant pudding mix, the small one, 3.4 ounces. Nothing fancy.
+
+Three cups whole milk. Almond milk technically works but pudding won't thicken the same way. Not worth the gamble.
+
+White chocolate curls or shavings for the top. Optional. Looks good but you can skip it.
+
+## How to Make No Bake Cheesecake
+
+Start with the crust. Grease a 9x13 dish. This matters—don't skip it. The crust sticks like it's glued down.
+
+Pulse the Oreos in a food processor until they're crumbs. Don't pulverize them into dust. Some small chunks are good. You want texture, not flour.
+
+Pour melted butter into the crumbs. Pulse a few more times until it holds together when you squeeze it. If it's still too dry, add a bit more butter. Just a splash.
+
+Press it all into the bottom of the dish. Firm. Dense. Even thickness. It needs to be packed tight or it'll crumble when you spread the next layer on top.
+
+Freeze it for 15 to 20 minutes. Just until it's solid enough. You're not freezing it completely—just firming it up enough that the next layer won't sink in.
+
+## How to Get Perfect Layers in Your No Cook Cheesecake
+
+While the crust is freezing, beat the cream cheese and powdered sugar together. Medium speed on the mixer, about 2 to 3 minutes. You're looking for it to get fluffy and light. This takes longer than you think. The mixer is smoothing out the sugar grains so you don't taste them later.
+
+Fold in half the whipped topping. Gently. Folding, not stirring. You're trying to keep the air in it. If you beat it, you lose the fluff and the whole thing gets dense.
+
+Spread it over the cold crust. Smooth it out. Back to the freezer for 15 minutes.
+
+Make the pudding while that's chilling. Whisk the pudding mix and milk together in a big bowl. Actually whisk it hard for about 2 minutes until it thickens. It should jiggle slightly but hold its shape. Not liquid. Not solid. Somewhere between.
+
+Spread the pudding on top of the cream cheese layer right away. Don't wait. If it sits, it'll set stiff and you'll have air pockets everywhere. Work fast but don't panic.
+
+Top the whole thing with the rest of the whipped topping. Spread it soft. Don't press hard or you'll compress the pudding layer. An offset spatula makes this look nicer but a regular knife works fine.
+
+Throw white chocolate curls on top if you're doing that. If not, just leave it. It's already good.
+
+## No Bake Cheesecake Tips and Common Mistakes
+
+Refrigerate for at least an hour. Longer is better. Two hours if you have it. The layers need time to firm up separately or they'll blend together when you cut.
+
+Use a sharp serrated knife and wipe it between cuts. Seriously. Cold cheesecake wants to be sliced clean, not smashed.
+
+Cream cheese temperature matters more than people think. Take it out of the fridge before you start. Cold cream cheese won't mix smooth.
+
+The pudding mix matters. White chocolate pudding is not the same as vanilla. Don't substitute. It's a different flavor.
+
+Leftovers keep for three days in the fridge, covered. After that the crust starts getting soggy from the layers above it. Not terrible but texture changes.
+
+Some people try to use a no-bake crust without freezing it first. Don't. It'll crumble through everything and you'll have Oreo dust in the pudding layer.
+
+The dish size matters. Nine by thirteen is standard. A springform pan works if that's what you have, but it needs an extra 15 minutes chill time because the sides aren't supporting the layers.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About No Bake Cheesecake Recipe
+
+**Can you make this cheesecake without baking if you don't have Cool Whip?**
+Whip your own cream. Heavy cream, sugar, vanilla, whip it until peaks form. Takes five minutes. Works exactly the same.
+
+**How long does no cook cheesecake last in the fridge?**
+Three days before the texture starts falling apart. Best if you eat it within two.
+
+**Can I use a different type of cookie for the crust in this cheesecake without oven?**
+Chocolate wafers work. So do graham crackers if you want less chocolate intensity. Needs the same amount of butter either way.
+
+**Does this unbaked cheesecake need to stay frozen or just refrigerated?**
+Just refrigerated. Freezing it makes it icy and changes the pudding texture. Don't freeze.
+
+**What if the pudding layer sets too fast on my no bake cheese cake recipe?**
+It thickens quickly, that's normal. Just spread it before it gets thick enough to hold its shape completely. If it hardens, throw it back in a bowl and whisk it for 30 seconds to loosen it up. Reuse it.
+
+**Can I substitute the white chocolate pudding in this cheese cake without baking?**
+Yeah. Chocolate pudding works. Vanilla too. Flavors will change but method's the same. Pudding is pudding.
