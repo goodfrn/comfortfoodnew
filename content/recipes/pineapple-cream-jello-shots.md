@@ -1,10 +1,10 @@
 ---
-title: "Pineapple Cream Jello Shots"
+title: "Pineapple Jello Shots with Rum"
 slug: "pineapple-cream-jello-shots"
-description: "Small creamy pineapple jello shots made with gelatin, pineapple juice, sweetened condensed milk, and a splash of rum instead of vodka. Chilled to set firm but still soft, topped with pineapple chunks for fresh bite. A tropical twist on classic party shots, balancing sweet, tart, and boozy vibes in tiny cups."
-metaDescription: "Pineapple Cream Jello Shots with gelatin, pineapple juice, condensed milk, and light rum. Soft but firm texture topped with fresh pineapple bites. Chill well."
-ogDescription: "Small creamy pineapple jello shots packed with tang, sweetness, and a boozy rum punch. Set firm yet tender, garnished with fresh pineapple chunks."
-focusKeyphrase: "pineapple cream jello shots"
+description: "Creamy pineapple jello shots made with pineapple gelatin, pineapple juice, sweetened condensed milk, and light rum. Topped with fresh pineapple chunks for a tropical party treat."
+metaDescription: "Make pineapple jello shots with pineapple juice, condensed milk, and rum. Creamy, tropical, and perfectly chilled. Try it tonight."
+ogDescription: "Tropical rum jello shots with pineapple juice, condensed milk, and fresh pineapple chunks. Creamy, boozy, and irresistible."
+focusKeyphrase: "pineapple jello shots"
 date: 2026-01-28
 draft: false
 image: pineapple-cream-jello-shots.jpg
@@ -21,9 +21,15 @@ tags:
 - "party"
 - "dessert"
 keywords:
-- "jello shots"
-- "pineapple gelatin"
-- "cream gelatin shots"
+- "pineapple jello shots"
+- "creamy pineapple jello shots"
+- "pineapple rum jello shots"
+- "rum jello shots"
+- "tropical jello shots with pineapple chunks"
+- "jello shots with condensed milk"
+- "pineapple juice and rum gelatin shots"
+- "party desserts"
+- "how to make pineapple cream jello shots"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "80"
@@ -60,3 +66,68 @@ faq:
 - "q: Can I freeze these? a: Not recommended. Freezing breaks gelatin matrix, turns rubbery or watery after thaw. If desperate, freeze quick, thaw slow in fridge but expect changed mouthfeel. Better to chill long than freeze."
 
 ---
+
+Dump the gelatin powder in while the water's still steaming. Whisk like you mean it — you'll feel the granules disappear.
+
+## Why You'll Love This Pineapple Jello Shot Recipe
+
+Takes 7 minutes to make. Four hours to set. That's your whole timeline.
+Works for basically any party — backyard, indoor, someone's birthday, whatever. Nobody says no to pineapple rum jello shots.
+The condensed milk makes it creamy instead of that clear, bouncy texture. Tastes like dessert first, alcohol second.
+Tropical vibe without having to actually leave. Pineapple chunks on top look intentional, taste sharp against the sweet.
+Cheap to throw together. Looks like you tried harder than you did.
+
+## What You Need for Tropical Jello Shots
+
+Pineapple gelatin. One package, 3 ounces. That's the base — doesn't work without it.
+Boiling water. One cup. Starts hot, cools down. Temperature matters here.
+Pineapple juice. Not concentrate. The juice. One cup. This is where the flavor actually lives.
+Sweetened condensed milk. Half a cup. Makes it creamy. Regular milk breaks the set, don't bother.
+Light rum. Three quarters cup. The amount where you taste it but it's not a burning sensation. Dark rum's heavier — lighter stuff works better here.
+Pineapple chunks. Fresh or canned. For the top. Adds texture and looks like you're paying attention.
+
+## How to Make Pineapple Rum Jello Shots
+
+Get water to a full rolling boil. Not almost boiling. Actually boiling.
+Pour it into a large mixing cup — one that's deep enough that you won't splash gelatin everywhere. Dump the powder in while it's still hot.
+Whisk fast. This takes maybe 30 seconds. You're looking for zero granules. Any powder left behind and your shots'll be gritty. Just doesn't work.
+Let it cool maybe two minutes. Not ice bath. Just sitting there.
+Mix in the pineapple juice. Then add the condensed milk slowly while you're whisking — it goes in thinner if you whisk while pouring. Then the rum.
+Keep whisking until it looks homogenous. The condensed milk'll want to clump. Don't let it. You want it creamy all the way through, not separated.
+
+## How to Get Pineapple Jello Shots Set Perfectly Firm
+
+Pour into small plastic shot glasses. Leave a gap at the top. Not full to the rim — you'll spill them moving them around.
+Straight into the fridge. Four hours is the target. Three hours 45 minutes minimum. Some fridges run cold, some don't — depends on yours.
+Touch one after three hours. Should feel firm but springy when you press it. Not liquid, not rock solid. That springy feeling means it's set.
+Right before serving — and this matters — add one pineapple chunk or skewer it with a toothpick and lay it on top. Cold against the warm-tasting sweetness. The sharp part keeps it from being too much.
+
+## Pineapple Jello Shot Tips and How to Fix Mistakes
+
+Don't skip the whisking step. Seriously. You'll taste it if the gelatin doesn't fully dissolve.
+Canned pineapple chunks work fine. Fresh is prettier but they sink if the jello's still warm when you add them.
+Can't find light rum? Use vodka. Different drink but honestly it works. Bourbon's too heavy. Don't do that.
+Make these the night before a party. They'll hold for two days in the fridge. Third day the texture gets weird.
+They thaw fast at room temperature — keep them cold until the actual moment someone wants one.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pineapple Rum Jello Shots
+
+**Can I use fresh pineapple juice instead of bottled?**
+Nope. Fresh pineapple has enzymes that break down gelatin. You'll end up with soup. Bottled only.
+
+**How long do these actually last?**
+Two days in the fridge max. After that they start separating, texture goes off.
+
+**What if the condensed milk clumped?**
+Heat it up again, whisk it back smooth, cool it, and pour. Doesn't ruin anything — just annoying.
+
+**Can I make pineapple juice and rum gelatin shots without the condensed milk?**
+Yeah. You'll get that clear jello texture instead of creamy. Less interesting but it works.
+
+**Do I need actual pineapple chunks for garnish?**
+No. Just looks better. Tastes fine without them.
+
+**Can you double this recipe?**
+Sure. Just do it in a bigger bowl. Whisking takes longer but same process. Still sets in 4 hours.
