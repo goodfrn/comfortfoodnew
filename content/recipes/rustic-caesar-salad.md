@@ -1,10 +1,10 @@
 ---
-title: "Rustic Caesar Salad"
+title: "Caesar Salad with Bacon and Butter Croutons"
 slug: "rustic-caesar-salad"
-description: "A remake on classic Caesar with altered ingredient ratios and a twist in anchovy use. Uses stale bread for robust croûtons fried in butter until golden with a toasty aroma. Bacon crisps rendered in the same pan—save those browned bits. Romaine torn, not chopped, for texture contrast. Anchovy pea paste swapped for umami-rich miso, adding complexity. Dressing emulsified slowly with egg yolk, lemon for brightness, garlic pungent but mellow with time. Capers and a smaller parmesan dose fold in near the end, sharp and salty. Mix at last minute to keep crunch alive. Bacon fat shadows linger, pepper freshly cracked on the top. All tactile, visual, aromatic cues prioritized over exact timing. Bacon, croûton, lettuce ratios slightly shifted—less fat, more snap. Fun in the kitchen, adjustments for real rough-and-ready cooks."
-metaDescription: "Rustic Caesar Salad with torn romaine, smoky bacon crisps, slow browned croûtons, and a miso-anchovy swap dressing. Crispy, layered textures and bright notes."
-ogDescription: "Torn Romaine coated lightly in bright miso-lemon dressing. Crispy bacon, butter-toasted croûtons. Mix last minute to keep crunch alive and flavors sharp."
-focusKeyphrase: "Rustic Caesar Salad"
+description: "Reinvented caesar salad with crispy bacon, butter-fried croutons, and romaine lettuce. Creamy miso dressing replaces anchovies for complex umami flavor. Fresh, crunchy, and ready in minutes."
+metaDescription: "Caesar salad with bacon and homemade dressing made with egg yolk, lemon, and miso paste. Butter-fried croutons add crunch. Try it tonight."
+ogDescription: "Crispy bacon, butter croutons, and torn romaine with creamy miso caesar dressing. A fresh, crunchy twist on the classic."
+focusKeyphrase: "caesar salad"
 date: 2025-09-28
 draft: false
 image: rustic-caesar-salad.jpg
@@ -21,11 +21,16 @@ tags:
 - "easy"
 - "homemade"
 keywords:
-- "Caesar salad"
-- "bacon crisps"
-- "miso paste"
-- "croûtons"
-- "salad dressing"
+- "caesar salad"
+- "bacon caesar salad"
+- "homemade caesar dressing"
+- "butter fried croutons"
+- "romaine salad with bacon"
+- "creamy caesar dressing"
+- "miso dressing salad"
+- "crispy bacon salad"
+- "easy caesar salad"
+- "fresh croutons recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "420"
@@ -73,3 +78,101 @@ faq:
 - "q: How to store leftovers without sogginess? a: Keep croûtons separate airtight. Refrigerate salad dry, no dressing. Bacon bits wrapped to preserve crisp. Dress only at serving. Re-toast croûtons if softened. Lettuce not good stored long dressed. Plan portion size carefully."
 
 ---
+
+Bread cubes in melted butter, bacon in the pan after. Twenty minutes and you've got a salad that actually tastes like something. Not the sad iceberg with bottled dressing situation.
+
+## Why You'll Love This Easy Bacon Caesar Salad
+
+Takes 35 minutes total. Most of that is just watching things get brown and crispy. Homemade dressing is four ingredients — egg yolk, lemon juice, garlic, oil. That's it. Better than anything from a jar because you control the salt.
+
+Bacon gets crispy. Croutons stay crunchy. The lettuce doesn't wilt if you dress it right. Works as a side or a meal depending on how hungry you are.
+
+Miso instead of anchovies. Same umami punch without the fish smell lingering in your kitchen. Still tastes like a real caesar.
+
+## What You Need for Homemade Caesar Dressing with Crispy Bacon
+
+Six slices of stale country bread—cubes, crusts off. Stale matters. Fresh bread just gets soggy.
+
+Three tablespoons butter. Unsalted. Salted butter burns too fast.
+
+Eight slices bacon, sliced thin. Thin. Thick bacon doesn't crisp right.
+
+One large head romaine. Tear it by hand. Knife bruises the edges.
+
+For the dressing: one egg yolk. Not the white, just the yolk. Room temperature works better — cold egg takes forever to emulsify.
+
+One tablespoon fresh lemon juice. Bottled doesn't cut it. Smells wrong.
+
+One clove garlic, minced fine. Like actually minced, not chopped.
+
+Three quarters cup neutral oil. Vegetable or grapeseed. Olive oil tastes too strong here.
+
+Two tablespoons capers, chopped.
+
+One teaspoon white miso paste. This replaces the anchovy. Gets you that salty, deep flavor without fishiness.
+
+Half cup Parmesan, freshly grated. Grated fresh. Pre-grated has cellulose or whatever keeps it from clumping. Tastes different. Not better.
+
+## How to Make Butter Fried Croutons and Bacon
+
+Melt the butter in a large skillet over medium heat. Not high. Medium.
+
+Toss in bread cubes. Wait. You'll hear it crackling within seconds. That's the sound of water leaving the bread. Watch the edges — they go from pale to golden to dark brown if you're not paying attention. Eight to twelve minutes usually. Toss them every few minutes so nothing burns on one side.
+
+When the edges look like old wood — that tan-brown color that means done — pull them off the heat. They'll keep crisping as they cool. This is important.
+
+Pour them onto a plate. Don't leave them in the hot pan.
+
+Same skillet, don't wash it. Add the bacon slices. Medium heat again. You want a steady sizzle, not a roar. Flip them every couple minutes. Bacon shrinks and curls as the fat renders. Keep flipping until the edges are dark and crispy. About ten minutes. Some people like it barely done. That's not crispy bacon.
+
+Drain on a paper towel. Don't throw away the pan. There's rendered fat and browned bits stuck to the bottom — that's flavor you'll use for the dressing.
+
+## How to Get Creamy Caesar Dressing with Capers and Lemon
+
+Pour the egg yolk into a bowl. Add the lemon juice and minced garlic. Whisk.
+
+Now the oil. This is where people mess up. Add it drop by drop at first. Seriously. Like four drops. Whisk. Four more drops. Whisk again. You're building an emulsion — the yolk's lecithin is grabbing the oil and water and holding them together. Rush it and it breaks. Then you're starting over.
+
+After about a quarter cup of oil goes in and it looks thick and pale, you can get brave and switch to a thin stream. Keep whisking. Add it slowly. It takes longer than you'd think — maybe three minutes total for all the oil.
+
+When it's done it should cling to the whisk and coat a spoon. Not runny. Not stiff either.
+
+Add the chopped capers. The miso paste. A pinch of salt — just a small one because miso is already salty. Taste it. Adjust if you need to.
+
+Fold in about a quarter of the Parmesan. Keep the rest for the top.
+
+## Caesar Salad with Crispy Bacon and Crouton Tips
+
+Tear the romaine into pieces. Chilled is fine. Put it in a large bowl.
+
+Pour half the dressing over it. Toss until every leaf has a light coating. Not drowning. You want to see the green.
+
+Add the bacon and croutons. Fold gently — don't shatter everything trying to mix it.
+
+Top with the rest of the Parmesan. Grind black pepper on top. A lot.
+
+Serve immediately. Croutons get soft if they sit. Lettuce starts wilting. Everything goes limp.
+
+If you want to prep ahead, keep the romaine, croutons, and bacon separate. Dress and assemble five minutes before eating. Works cold the next day, maybe better — the flavors meld overnight.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Bacon Caesar Salad
+
+**Can I make the dressing ahead of time?**
+Yeah. Keep it in the fridge. It'll separate a bit — just whisk it again before using. Lasts about three days. After that the garlic gets weird and bitter.
+
+**What if my dressing breaks?**
+Start over with a fresh yolk. Add the broken dressing to the new one drop by drop. Works every time. Don't waste ingredients trying to fix it — just redo it.
+
+**Do I have to use miso?**
+No. Use one anchovy fillet minced, or a teaspoon of anchovy paste if you have it. Same umami thing. But miso tastes cleaner to me.
+
+**Can I use a different lettuce?**
+Romaine's the only one that holds up. Iceberg's too watery. Arugula's too peppery. Butter lettuce wilts immediately.
+
+**Is the bacon raw or cooked?**
+Cooked. Crispy. If it's chewy you didn't cook it long enough.
+
+**How long does this keep?**
+Don't. Make it and eat it. Leftovers are soggy bread cubes and limp lettuce. Not worth it.
