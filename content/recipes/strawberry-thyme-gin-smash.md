@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Thyme Gin Smash"
+title: "French 75 Cocktail with Gin & Lemon"
 slug: "strawberry-thyme-gin-smash"
-description: "Fresh strawberries muddled with thyme leaves, combined with London dry gin, a splash of lemon juice, and a touch of honey syrup. Chilled and topped with crushed ice and soda water for a lively, herbaceous cocktail that’s bright and refreshing. Volume and texture hit right; thyme pulls earthy depth, contrasting sweet berries. An optional twist swaps honey for agave, lending a lighter sweetness. Shake or stir depends on energy. Visually vibrant; ruby red with flecks of green. Approachable yet complex."
-metaDescription: "Strawberry Thyme Gin Smash muddles fresh berries with bruised thyme gently. Gin, lemon, agave syrup blend chill with crushed ice and soda for bright herbaceous sips."
-ogDescription: "Bright, ruby red Strawberry Thyme Gin Smash blends muddled fruit, bruised thyme, gin, lemon, and agave. Crushed ice, soda bring fresh fizz and herbal depth."
-focusKeyphrase: "Strawberry Thyme Gin Smash"
+description: "French 75 gin cocktail muddled with fresh strawberries and thyme, combined with London dry gin, lemon juice, and agave syrup. Refreshing and herbaceous."
+metaDescription: "Make a French 75 cocktail with strawberries, thyme, gin, and lemon juice. This herbaceous drink is bright, refreshing, and easy to make. Try it tonight."
+ogDescription: "Strawberries and thyme muddled with gin, lemon juice, and agave. A bright, herbaceous French 75 that's refreshingly complex."
+focusKeyphrase: "French 75 cocktail"
 date: 2025-09-24
 draft: false
 image: strawberry-thyme-gin-smash.jpg
@@ -21,9 +21,18 @@ tags:
 - "drink"
 - "mint"
 keywords:
-- "gin smash"
-- "strawberry cocktail"
-- "fresh thyme"
+- "French 75 cocktail"
+- "gin cocktails"
+- "strawberry gin drink"
+- "thyme cocktail"
+- "gin and lemon"
+- "gimlet cocktail"
+- "gin fizz"
+- "tom collins cocktail"
+- "basil smash cocktail"
+- "gin beverages"
+- "bramble cocktail"
+- "negroni cocktail"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "140"
@@ -66,3 +75,57 @@ faq:
 - "q: How to store leftovers? a: Muddled fruit won’t last long, best same day use. Keep refrigerated sealed jar max 24 hours. Syrup base from leftovers stores better, can freeze even. Avoid long sit or muddled mix turns bitter and soggy fast."
 
 ---
+
+Muddle strawberries and thyme together—not smashing, just enough to bruise and wake them up. That's the whole secret right there. The rest is just gin, lemon juice, agave, crushed ice, and soda water. Twelve minutes total if you're not hunting for fresh thyme.
+
+## Why You'll Love This French 75
+
+Takes almost no time. Pulls together in under fifteen minutes even if you're moving slow. Goes down smooth—doesn't taste boozy even though it's a proper gin cocktail. Works as an aperitif, works at midnight, works when you've got two people or ten. Strawberry mellows the spirit without going sweet. Thyme does something weird to the whole thing. Hard to describe. Just tastes like you thought about it.
+
+## What You Need for a French 75 Cocktail
+
+Five ripe strawberries, chopped rough. Don't worry about sizing them—they're getting muddled anyway. Six thyme sprigs, fresh, bruised gently in your palm first. Sixty milliliters of London dry gin. Barrel-aged works if you want more depth, but dry gin is the move. Twenty milliliters of fresh squeezed lemon juice. Not bottled. The difference hits. Fifteen milliliters of agave syrup—honey works too if agave tastes flat to you. Crushed ice. Top it with soda water. Lemon wheel for garnish. Another thyme sprig. That's everything.
+
+## How to Make a French 75
+
+Muddle the strawberries and thyme together first. Hit them once, twice. Release the smell. Stop. You're not making jam. Add the lemon juice and agave syrup. One more gentle pulse. Stir it together or—better—grab a handful of ice and shake the whole thing for about ten seconds. Watch it go cloudy. That cloudiness is chill plus dilution doing the work.
+
+Grab a rocks glass. Fill it with crushed ice. Strain the mix over it, catching the solids. You don't want seeds crunching in your teeth. Pour the soda water in gentle. Fizz is doing the heavy lifting here. Don't stir it to death.
+
+Garnish with the thyme sprig flop and a lemon wheel. Press the thyme slightly when you pick it up—more scent releases. Drink it while the fizz is still happening.
+
+## Gin Fizz Tips and the Fixes That Work
+
+Too sweet already? Splash more lemon juice in. Too tart? Add a drizzle more syrup. Taste it. Adjust mid-drink. Balance is personal. Not a one-time thing.
+
+Forgot the soda water or ran out? Sparkling mineral water works. Tonic works but cut the syrup down—tonic's bitter and it fights the agave differently. Still tastes like something, just not the same thing.
+
+Too many strawberry seeds? Double strain with a fine mesh sieve. Gets them all out. No grit.
+
+Thyme is non-negotiable for this gin and fizz drink, but mint works in a pinch if that's what you have. Different. Still works. The gimlet comparison comes up sometimes—this isn't one. Gimlet's dry and bright. This one's fruity and soft.
+
+Leftover muddled strawberries in the bottom of your shaker? Don't toss them. Toast some bread. Smash them on top. Morning thing. Or save them for a simple syrup base if you're making these again tomorrow.
+
+The gin matters more than people think. London dry gin is the baseline. Barrel-aged gin for martini-adjacent depth. Tanqueray, Beefeater, Bombay Sapphire. Any of them work. They're not fancy moves. They're just consistent.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About French 75 Gin Cocktails
+
+**Can you make this gin fizz ahead of time?**
+Not really. The whole point is the fizz. Make the strawberry-thyme mixture earlier in the day, keep it cold, then add gin, ice, and soda when you're ready to drink. That takes three minutes.
+
+**What if you don't have fresh thyme?**
+Mint works. Basil even works but it's weird. Skip the herb if you've got nothing else. It's still a gimlet-adjacent gin cocktail without it. Just less interesting.
+
+**Does this gin and tonic style drink work with vodka?**
+Technically yes. It won't taste the same. Gin brings flavor. Vodka doesn't. If someone asks for vodka, make them a different drink.
+
+**How do you keep the crushed ice from melting into the gin?**
+You don't. It melts. That's how dilution happens and it's supposed to. The drink gets better as the ice melts. First sip is boozy. Last sip is balanced. Both are right.
+
+**Can you batch this for a crowd?**
+Sort of. Muddle all the strawberries and thyme together. Add all the lemon and agave. Mix that. Then when people want one, add their gin, ice, shake, crushed ice in the glass, soda water. Don't try to make twenty of these at once in a pitcher. The soda dies.
+
+**What's the difference between this and a gimlet cocktail?**
+Gimlet's just gin, lime juice, and syrup. Sharp. Cold. This one's gin plus strawberry plus thyme plus soda. Softer. More herb. Different animal. Similar vibe if you squint.
