@@ -1,10 +1,10 @@
 ---
-title: "Loaded Smashed Potatoes"
+title: "Loaded Smashed Potatoes with Bacon & Cheddar"
 slug: "loaded-smashed-potatoes"
-description: "Small red potatoes boiled till tender, smashed lightly, topped with a spicy butter garlic drizzle, sharp cheddar, crispy bacon, sour cream, and fresh scallions. The process focuses on texture contrast—crispy edges with soft insides. Variations include swapping bacon for smoked sausage or using a dash of smoked paprika instead of hot sauce. Monitoring visual cues like potato skins cracking and golden browning ensures no overbake. Butter infused with garlic and heat seeps into every crack, setting the stage for bold toppings."
-metaDescription: "Loaded Smashed Potatoes with crispy edges, golden skins, garlic butter heat, sharp cheddar, bacon crunch, sour cream cool, and fresh scallions brightening every bite."
-ogDescription: "Crunchy skin crackles, buttery garlic drips, sharp cheddar melts, smoky bacon sprinkles, and scallions freshen up. Rustic smashed potatoes rich in texture and flavor."
-focusKeyphrase: "Loaded Smashed Potatoes"
+description: "Loaded smashed potatoes made with red potatoes, sharp cheddar, crispy bacon, sour cream, and garlic butter. Soft inside, crispy edges, bold flavors."
+metaDescription: "Loaded smashed potatoes recipe with red potatoes, bacon, cheddar cheese, sour cream, and spicy garlic butter. Make it tonight."
+ogDescription: "Red potatoes smashed with sharp cheddar, bacon, sour cream, and spicy garlic butter for ultimate comfort food."
+focusKeyphrase: "loaded smashed potatoes"
 date: 2025-12-16
 draft: false
 image: loaded-smashed-potatoes.jpg
@@ -21,9 +21,18 @@ tags:
 - "bacon"
 - "side dish"
 keywords:
-- "red potatoes"
+- "loaded smashed potatoes"
 - "smashed potatoes"
-- "bacon cheddar potatoes"
+- "bacon cheddar smashed potatoes"
+- "smashed potatoes with garlic butter and bacon"
+- "spicy garlic butter smashed potatoes"
+- "red potatoes with sharp cheddar and scallions"
+- "potato side dishes"
+- "comfort food potato recipes"
+- "crispy bacon smashed potatoes with sour cream"
+- "loaded mashed potatoes"
+- "easy potato side dish"
+- "dinner side dishes"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "350"
@@ -66,3 +75,107 @@ faq:
 - "q: How to store leftovers? a: Store cool in airtight container. Reheat in oven or toaster oven for crisp edges. Microwave softens skins, loses texture. Can freeze but expect softer texture. Best eaten same day, edges soften and toppings lose freshness fast."
 
 ---
+
+Boil eight small potatoes. Smash them. Load them up. Sixty minutes total, and most of that's just waiting for water to boil.
+
+The skin stays on—that's the whole thing. Red potatoes have thin skin that gets actually crispy when you treat them right, not like russets that turn to powder. Butter goes spicy. Bacon goes on top. Cheddar melts from the heat. Sour cream cuts through everything.
+
+This is the version that shows up at every potluck and disappears first.
+
+## Why You'll Love These Loaded Smashed Potatoes
+
+Forty-five minutes from cold water to plate. Most of that is just the potatoes doing their thing while you sit around.
+
+Crispy skin on the outside, still soft enough inside that you don't need a knife. That texture thing doesn't happen by accident—you have to smash them flat and get them back in the oven.
+
+Works as a side for literally anything. Steak. Fish. Eggs. Nothing. Leftovers taste better the next day, which never makes sense but it's true.
+
+The bacon and cheddar make it feel fancy. It's not. Four ingredients on top of potatoes, basically.
+
+No fancy equipment needed. One pot. One baking sheet. One small plate to smash with. That's the whole operation.
+
+## What You Need for Loaded Smashed Potatoes
+
+Eight small to medium red potatoes. The size matters—smaller ones cook faster and have better skin-to-inside ratio. Don't use russets for this. They fall apart.
+
+Four tablespoons unsalted butter. Salted butter works but you're also adding salt separately, so might as well start clean.
+
+One teaspoon hot chili sauce. Sriracha, Frank's, whatever you have. The point is subtle heat, not a kick that makes people cough. If you hate spice, use half a teaspoon or skip it entirely and add smoked paprika instead.
+
+Two garlic cloves minced. Fresh. Not powder. The flavor disappears if you cook it too long, so it goes into the butter right before you pour it on.
+
+Salt and cracked black pepper—one teaspoon each. Fine sea salt dissolves better than kosher when it's mixed into soft butter.
+
+One-third cup sharp cheddar, shredded. Not mild. Sharp. It has an actual taste. Mild tastes like nothing melting into nothing.
+
+Three tablespoons crumbled cooked bacon. Cook it yourself if you're not using the pre-made stuff. Store-bought works fine. Crispy, not limp.
+
+One-third cup sour cream. Cold. Dolloped on top while potatoes are still hot so it stays thick instead of running everywhere.
+
+Two tablespoons scallions thinly sliced. Green parts mostly, some white. The fresh bite matters here—it's the only thing that's cold.
+
+## How to Make Loaded Smashed Potatoes
+
+Fill a medium saucepan three-quarters with water. Get it to a hard boil—not a simmer, an actual rolling boil. While that's heating, scrub the potatoes under cold water. Get the dirt off but don't peel them. The skin stays on.
+
+Drop them in once the water's fully boiling. They need eighteen to twenty-five minutes depending on size—smaller ones might be done in eighteen, bigger ones closer to twenty-five. You'll know because a fork slides through easy but the potato doesn't fall apart when you poke it. That's the line. Too soft and they turn to mush. Too firm and you're eating rocks.
+
+While they're boiling, preheat the oven to 390 degrees. This temperature does something specific—the outside crisps without the inside drying out. Any hotter and the skin burns before the inside gets hot again. Any cooler and nothing happens.
+
+Pull the potatoes out with a slotted spoon. They're hot and wet, which is the worst combination for crisping. Pat them dry on paper towels. Get them actually dry, not just damp. The water is the enemy right now.
+
+## How to Get Loaded Smashed Potatoes Crispy
+
+Line a baking sheet with parchment paper. Space the potatoes out—they need room for air to circulate around them, or the bottom just steams instead of crisping.
+
+Take the bottom of a small plate or a heavy glass and smash each potato once. Just once. You're not mashing them like mashed potatoes. You're cracking the skin and flattening them slightly so they have more surface area. The potato should still mostly hold together.
+
+Into the oven for about eighteen minutes. Listen. You'll hear crackling at the edges—that's the sound of skin crisping up. That's what you're waiting for.
+
+While they're in there, melt the butter gently in a small saucepan. Don't let it brown. Stir in the hot chili sauce, minced garlic, salt, and cracked pepper. Mix until it looks uniform. The garlic goes soft in the warm butter but doesn't cook all the way, so it stays bright and sharp instead of turning into garlic paste.
+
+Pull the potatoes out after eighteen minutes. They should look pale still, not brown yet. Drizzle the spicy butter mixture over them evenly. Every potato gets some. Put them back in for five to seven minutes. The butter seeps into the cracks you made when you smashed them. The skins start to turn golden and bubble at the edges.
+
+## Loaded Smashed Potatoes Tips and Common Mistakes
+
+Don't skip the drying step. I did once. The skins stayed pale and soft. Never again.
+
+The smash is a habit to build. One good pressure. Not five gentle taps. One decisive one. You'll feel the difference immediately.
+
+Cheddar and bacon go on the second they come out of the oven. The residual heat melts the cheese—you don't need it to be hot enough to brown. If the potatoes have cooled down, the cheese just sits there looking sad.
+
+Sour cream stays cold. Put it in the fridge until the last second, then dollop it on. If the potatoes are still steaming when you add it, the sour cream breaks down and becomes runny.
+
+Scallions last. They're the only fresh thing here. They go on right before serving or they wilt into nothing.
+
+If you're making these ahead, don't load them until you're ready to eat. Bake the potatoes, cool them completely, then reheat them at 350 for five minutes before you add everything else. Cheddar and bacon reheat fine. Everything else gets better fresh.
+
+The spicy butter is flexible. Too much heat from the chili sauce—use less next time. Want more flavor—add a quarter teaspoon of smoked paprika to the butter mix. Don't like garlic—use half a clove. This recipe is more a direction than a rule.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Loaded Smashed Potatoes
+
+**Can I make these ahead of time?**
+Boil and smash the potatoes in advance, sure. Cool them completely. Stick them in the fridge. Reheat at 350 for about five minutes, then load them up. The butter won't be as crispy the second time around but they're still good.
+
+**What if I don't have sharp cheddar?**
+Gruyère works. So does sharp white cheddar if you can find it. Mild cheddar tastes empty. Don't bother.
+
+**Can I use regular potatoes instead of red potatoes?**
+Russets get mushy. Yukon golds work but the skin is thicker so they don't crisp the same way. Red potatoes are actually worth the trip.
+
+**How do I know when they're done boiling?**
+Fork test. Push it through from the side. If it goes through without resistance, they're ready. But the potato shouldn't fall apart when you pick it up. That's overcooked. It's a tiny window. You'll get it the second time.
+
+**Is the spicy butter really necessary?**
+Technically no. Butter with just salt and pepper works. But the chili sauce adds something that regular butter doesn't—a little warmth that makes you want another bite. It's subtle. Try it once.
+
+**Can I use bacon bits from a jar?**
+The crispy ones taste fine. The soft ones taste like nothing. Real cooked bacon is better but jar bacon works if that's what you have. Cook it fresh if you can.
+
+**What's the best way to store leftovers?**
+In a container. They last three days in the fridge. Reheat gently in the oven at 350 for a few minutes if you want them warm. Cold they're still good—kind of a potato salad situation but with bacon and cheddar.
+
+**Can I add more toppings?**
+Sure. Jalapeños. Chives. A fried egg on top. More sour cream. Whatever. The base recipe is just potatoes and butter and cheese. Everything else is decoration.
