@@ -1,10 +1,10 @@
 ---
-title: "Pineapple Cilantro Slaw"
+title: "Pineapple Cilantro Slaw with Creamy Mayo"
 slug: "pineapple-cilantro-slaw"
-description: "Crunchy cabbage with bursts of tangy pineapple and a creamy, slightly sweet dressing built on mayo, apple cider vinegar, and a hint of poppy seeds. Bright fresh cilantro swapped parsley for a punchier herb. Handled with care so it doesn’t wilt before serving. Chill to marry flavors but not drown them. Results in a vibrant, textured salad that wakes up any meal; easily adjustable with ingredient swaps or timing tweaks."
-metaDescription: "Pineapple Cilantro Slaw bursts crunchy cabbage with tangy pineapple, creamy mayo dressing, and fresh cilantro. A textured, vibrant American side for any meal."
-ogDescription: "Crunchy cabbage meets tangy pineapple, creamy mayo, and bright cilantro in a textured slaw. Chill, toss gently, and taste for vibrant freshness."
-focusKeyphrase: "Pineapple Cilantro Slaw"
+description: "Crispy cabbage slaw with crushed pineapple, fresh cilantro, and a creamy dressing of mayo, apple cider vinegar, and poppy seeds. Bright, refreshing, and easy to make."
+metaDescription: "Make this pineapple cilantro slaw with cabbage, crushed pineapple, and creamy mayo dressing. Perfect summer side dish. Try it tonight."
+ogDescription: "Tropical coleslaw with crushed pineapple, fresh cilantro, creamy mayo, and apple cider vinegar. A vibrant, crunchy side dish."
+focusKeyphrase: "pineapple cilantro slaw"
 date: 2025-10-29
 draft: false
 image: pineapple-cilantro-slaw.jpg
@@ -21,9 +21,16 @@ tags:
 - "summer"
 - "easy"
 keywords:
-- "coleslaw"
-- "pineapple slaw"
-- "cilantro salad"
+- "pineapple cilantro slaw"
+- "creamy pineapple coleslaw"
+- "cabbage slaw"
+- "coleslaw recipes"
+- "tropical coleslaw with crushed pineapple"
+- "cilantro cabbage slaw"
+- "summer slaw with pineapple"
+- "easy coleslaw recipe"
+- "cabbage salad"
+- "pineapple slaw recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "180"
@@ -64,3 +71,64 @@ faq:
 - "q: Alternatives to apple cider vinegar? a: White vinegar or mild apple vinegar works but taste shift sharper. Use slightly less or add a pinch sugar. Lemon juice okay but changes bright acidity. Balance needed to not overpower mayo base."
 
 ---
+
+Coleslaw mix goes in the bowl first — five cups, straight from the bag if you want. Red onion chopped small, cilantro rough-chopped (it's going to break down anyway), black pepper, then the pineapple. Drained. This part matters. Too much juice and the whole thing gets soggy in thirty minutes.
+
+## Why You'll Love This Pineapple Cilantro Slaw
+
+Takes thirty minutes from start to fridge. No cooking. Just chopping and mixing.
+Summer side that actually tastes like something — not just mayo and cabbage.
+Works with literally any protein. Fish. Chicken. Tacos. Nothing. Just eats it cold straight from the bowl.
+Crisp but not raw-feeling. The cabbage softens a tiny bit. Stays interesting, doesn't get mushy.
+One bowl for dressing. Everything else is just tossing. Cleanup's fast.
+
+## Ingredients for Easy Pineapple Cilantro Slaw
+
+Coleslaw mix. Five cups. Pre-shredded saves time and honestly it's fine. Red onion — half a medium one, chopped small. Small matters here because it gets sharp raw.
+Fresh cilantro. A third cup, just rough-chopped. Don't overthink it. Canned pineapple, crushed, one cup. Drain it. This is important. Keep three tablespoons of that juice — the rest goes to the dressing.
+Mayo. Three-quarters cup. Apple cider vinegar. Two tablespoons. Not white vinegar. Apple cider has something going on that white doesn't. Dark brown sugar. A tablespoon. Salt. Half a teaspoon. Black pepper. Teaspoon, freshly cracked if you've got it. Poppy seeds. One teaspoon. Sounds weird. Don't skip it.
+
+## How to Make Creamy Pineapple Coleslaw
+
+Get a big bowl. Coleslaw mix in first. Toss the pepper on, then the red onion and cilantro and the drained pineapple. Mix it. Not aggressively. Just enough so it's all combined.
+
+In a separate bowl — and this matters, do it separate — whisk together mayo, two tablespoons of the pineapple juice you saved, apple cider vinegar, brown sugar, salt, and poppy seeds. Whisk until it looks like it actually came together. Not separated. Not thick. Creamy.
+
+Pour the dressing over. Then comes the folding part. Not stirring. Folding. Gentle. You want every strand coated but the cabbage stays intact, not shredded further. It should look fresh. Bright. Not drenched.
+
+## Cabbage Salad Texture and Timing Tips
+
+Cover it. Into the fridge. The waiting is real here — about fifty-five minutes total before it peaks. But check it after thirty. Smell it. The aromatics deepen. It goes from raw-smelling to something else. Something sharper and sweeter at the same time.
+
+The texture shift happens slow. First thirty minutes? Mostly still crisp. After forty-five? Softened. Still crunchy underneath but yielding. That's the sweet spot. Any longer and it starts to weep, which isn't disaster but it's not ideal.
+
+Taste it just before serving. Salt fades. Add more if it needs it. Cilantro fades too. Way more than you'd think. A fresh handful on top right before people eat it brings it back. Vinegar mellows, so if it tastes flat, a dash more wakes it up. Lime works too if you're into that.
+
+## Summer Coleslaw Mistakes and Fixes
+
+Too much pineapple juice at the start kills crunch in fifteen minutes. This is why you drain it. Why you only use two tablespoons in the dressing. The moisture's there but controlled.
+Over-crushing the pineapple does the same thing. It releases more juice. Just drain it straight from the can and leave the chunks mostly intact.
+Stirring instead of folding bruises the cabbage and makes everything feel broken. Fold. Gentle. Takes longer. Worth it.
+Skip the poppy seeds and it's just mayo-cabbage-pineapple. Flat. The seeds add texture and a subtle nutty thing that brings it together. Sounds small. Tastes different.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pineapple Cilantro Slaw
+
+**Can you make pineapple cilantro slaw ahead of time?**
+Yeah. Make it the morning of if you're eating dinner. The crunch fades by the next day. Not ruined, just softer. Tastes better fresh anyway.
+
+**What if you don't like mayo?**
+Greek yogurt works. Less mayo, more tang. Different texture but it holds together. Or don't use a binder at all — just the pineapple juice and vinegar and sugar. It's wetter but not bad. Haven't tried it that way actually. Maybe don't do that.
+
+**Can you substitute the apple cider vinegar?**
+Rice vinegar works. It's milder so you might need more. White vinegar is too sharp. Red wine vinegar gets weird. Lime juice instead — changes the whole thing but in a fine way if you want tropical.
+
+**Why crushed pineapple instead of fresh?**
+Fresh breaks down faster once the salt hits it. Crushed is already done breaking down. Plus the juice from crushed has more sugar dissolved in it. Balances the mayo better. Fresh pineapple works if you chop it small but timing gets tricky.
+
+**Does this work as a coleslaw recipe for barbecue?**
+Yeah. Bring it cold. Or make it the morning of and let it sit. The pineapple with cilantro is sweet enough that it doesn't fight with smoke or char. Works with pulled pork, brisket, chicken. Fish especially.
+
+**How long does it keep in the fridge?**
+Three days easy. Four if you don't mind it softer. After that the cabbage starts to taste off. Not spoiled, just tired. The cilantro goes dark. Make smaller batches if you're keeping it longer than three days.
