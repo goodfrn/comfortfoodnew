@@ -1,9 +1,9 @@
 ---
-title: "Saffron Aioli Twist"
+title: "Saffron Aioli with Tomato Paste & Garlic"
 slug: "saffron-aioli-twist"
-description: "A vibrant saffron aioli with tomato paste and garlic. Uses egg yolk base whipped with Dijon and oils, balanced with lemon juice. Timing flexible; texture the key. Swapped sunflower oil for vegetable oil for smoother taste. Garlic should smell pungent but not burnt; saffron blooms in warm lemon mixture. Holds 5 days refrigerated, thickens upon chilling. Classic rouille with subtle tweaks, taking shortcuts and flair from old kitchen lessons."
-metaDescription: "Saffron Aioli Twist made by slowly whisking egg yolk, Dijon, garlic, oils with lemon and saffron blooms. Holds chilled for days; texture cues critical."
-ogDescription: "Whisk egg yolk, Dijon, garlic. Drizzle oils slow. Lemon cuts sharp. Saffron blooms in lemon mix. Chill thickens; re-whisk if splits. Kitchen tested."
+description: "Saffron aioli recipe with egg yolk, Dijon mustard, tomato paste, and garlic. Creamy Mediterranean condiment balanced with lemon juice. Smooth, vibrant, and refrigerator-friendly."
+metaDescription: "Make saffron aioli with egg yolk, garlic, and tomato paste. Classic Mediterranean condiment with Dijon mustard and lemon juice. Try it tonight."
+ogDescription: "Creamy saffron aioli with egg yolk, garlic, and tomato paste. Mediterranean garlic mayonnaise balanced with lemon."
 focusKeyphrase: "saffron aioli"
 date: 2025-09-27
 draft: false
@@ -21,8 +21,13 @@ tags:
 - "mediterranean"
 keywords:
 - "saffron aioli"
-- "Dijon mustard aioli"
-- "garlic aioli"
+- "easy saffron aioli"
+- "saffron aioli with tomato paste"
+- "garlic mayonnaise"
+- "lemon garlic aioli"
+- "mediterranean condiment"
+- "homemade garlic mayonnaise with saffron"
+- "saffron aioli recipe with egg yolk and lemon"
 breadcrumb: ["Home", "Recipes", "Dips and Spreads"]
 nutrition: 
  calories: "230"
@@ -64,3 +69,57 @@ faq:
 - "q: How long store aioli? a: Airtight jar refrigerated best; 4 to 5 days usually. Separation normal, re-whisk. Avoid temperature swings; warmer temps cause breaking. Discard if smell sour or texture slimy."
 
 ---
+
+Egg yolk goes in first — that's the whole thing right there. Whisk the mustard and tomato paste in while it's still alone, get the garlic in before you even think about oil. That sharp garlic smell? That's when you know it's ready. Then oil. Dropwise. Seriously dropwise, or the whole thing breaks and you're starting over.
+
+## Why You'll Love This Easy Saffron Aioli
+
+Takes 20 minutes total and most of that's just waiting for the saffron to bloom. Condiment that works on literally anything — fish, eggs, bread, roasted vegetables, whatever you're eating that week. Lemon and garlic and that gold saffron threads make it taste Mediterranean restaurant, tastes like you planned it for hours. Keeps in the fridge for days. Makes about a cup. Homemade garlic mayonnaise costs almost nothing compared to the jarred stuff, and this one doesn't taste like vinegar and regret.
+
+## What You Need for Homemade Saffron Aioli
+
+One egg yolk — room temperature matters more than you'd think. Dijon mustard, 2 and a half teaspoons. Tomato paste, same amount. Two garlic cloves minced so fine they're almost a paste. Salt. A cup of oil — half olive oil, half sunflower oil. The mix is important. Sunflower softens the olive oil bite. Not the other way around. Lemon juice. Four saffron threads or a quarter teaspoon of ground saffron. That's it. Six ingredients plus the oil and suddenly you've got something that tastes like you spent all day on it.
+
+## How to Make Lemon Garlic Aioli With Saffron
+
+Bowl first. Egg yolk in. Whisk in the Dijon and tomato paste until it's smooth. Add the minced garlic and salt. The garlic should smell sharp and fresh, not raw like it's going to burn your mouth — that's your signal to move on. Don't skip this part. The emulsion starts here, not when the oil hits it.
+
+Oil now. Dropwise. A few drops at a time. Whisk constantly. It'll look broken at first, like it might never work, and then suddenly it gets thick and creamy and glossy all at once. That's when you know it's holding. That's when you can breathe. Once the mayonnaise texture starts, you can drizzle the rest of the oil steadily instead of drop by drop. Keep whisking the whole time. Vigorous. If it looks like it might split — if it gets grainy or breaks — stop. Add a drop of warm water. Whisk it back together. Happens. Not a disaster.
+
+## How to Get Mediterranean Saffron Mayo Perfect
+
+Pepper goes in lightly. Not much. Then lemon juice — and don't go overboard here because acid kills the texture, makes it thin out. Just enough to brighten it. Taste it. You'll know.
+
+Saffron is the last thing. Crush the threads with a little bit of lemon juice first — actually some people use water, doesn't matter — and let it sit for a minute. The color bleeds out, the smell gets intense. Fold it into the mayo gently. Don't whisk. Just fold. Watch it turn gold-orange slowly. It's worth watching for.
+
+Transfer to a jar or a covered bowl. Chill it. Ten minutes minimum but closer to 15 is better. Cold makes it thicker. Way thicker. If it's too thick when you pull it out, stir in a tiny bit of water to loosen it back up. Keeps airtight in the fridge for 4 to 5 days. If it separates later — and it might — just re-whisk it or add a drop of water and whisk again.
+
+## Easy Saffron Aioli Tips and Mistakes
+
+Garlic has to be fine. Not chopped. Fine. Coarse garlic makes grit. Texture falls apart. Patience with the mincing saves everything. Oil temperature too. Room temperature oils emulsify best. Cold oil is slower. Hot oil breaks it faster. Just leave them out.
+
+Sunflower oil matters because olive oil can be too sharp, too bitter. The sunflower softens it. You could use all olive oil if you wanted but I wouldn't. Tried it. Too aggressive. Sunflower is my go-to now. Keeps the flavor balanced instead of one-note.
+
+If the whole thing breaks while you're adding oil — and sometimes it does — stop. Add a drop of warm water. Whisk hard. It'll come back. Usually. If it doesn't, start over with a fresh egg yolk and slowly whisk the broken batch into it. Tedious but it works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Easy Saffron Aioli
+
+**Can I use a whole egg instead of just the yolk?**
+No. Whites dilute the emulsion. Just the yolk.
+
+**What if my aioli breaks while I'm making it?**
+Warm water. One drop. Whisk hard. Comes back most of the time. If not, grab a clean bowl and a fresh egg yolk and slowly whisk the broken batch into that. Tedious but it actually works.
+
+**Can I use ground saffron instead of threads?**
+Yeah. Quarter teaspoon instead of four threads. Doesn't bloom the same way visually but the flavor's there.
+
+**How long does this keep?**
+Four to five days in an airtight jar in the fridge. If it separates, just re-whisk it or add water.
+
+**What does the tomato paste do?**
+Adds body and a subtle sweetness. Keeps it from tasting too sharp. Honestly not totally sure why it works so well but it does.
+
+**Can I make this without the saffron?**
+Sure. It's just a lemon garlic aioli then. Still good. Still takes 20 minutes. But the saffron is what makes it feel special.
