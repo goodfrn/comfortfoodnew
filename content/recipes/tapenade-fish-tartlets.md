@@ -1,10 +1,10 @@
 ---
-title: "Tapenade Fish Tartlets"
+title: "Cod and Olive Tapenade Puff Pastry Bites"
 slug: "tapenade-fish-tartlets"
-description: "Half puff pastry square sliced into strips; black olive tapenade spread thick. Tilapia replaced by cod, sliced thin — skinless and mild. Shallots swap onion; adds slight sweetness. Fresh dill scattered last minute; bright and piney. Bake at hot 210 °C until puff blooms golden, crust crisp, and fish firm but yielding. Cut tartlets mid-warm—bite-sized, messy, sharp tapenade bites folded with flaky dough. Olive oil drizzle to finish, rich and glossy. Pantry hack: ready puff, easy weekend fix, pairs well with chilled white wine. Notice aroma shift; fish cooking, pastry transforming — smells to make hungry wait impatient. Rest small but tasty; perfect for snacking or starter bite. No nuts, lactose, eggs; crowd-pleaser with simple swaps."
-metaDescription: "Tapenade fish tartlets with flaky puff pastry, thin cod slices, black olive tapenade, and fresh dill drizzle. Crisp edges, tender fish, savory bites."
-ogDescription: "Flaky puff pastry with bold black olive tapenade and tender cod slices. Sharp shallots, fresh dill finish. Crisp bites, golden edges, olive oil shine."
-focusKeyphrase: "tapenade fish tartlets"
+description: "Crispy puff pastry appetizers topped with black olive tapenade, thin cod slices, and fresh dill. Golden, flaky bites perfect for entertaining or a simple weekend snack."
+metaDescription: "Make puff pastry appetizers with cod, black olive tapenade, and fresh dill. Baked golden and crispy. Easy, elegant, and ready in minutes. Try it tonight."
+ogDescription: "Flaky puff pastry bites with cod, black olive tapenade, and dill. Elegant appetizers that taste restaurant-quality but come together fast."
+focusKeyphrase: "puff pastry appetizers"
 date: 2025-08-09
 draft: false
 image: tapenade-fish-tartlets.jpg
@@ -21,9 +21,16 @@ tags:
 - "mediterranean"
 - "pesto"
 keywords:
-- "tapenade"
-- "fish tartlets"
-- "puff pastry"
+- "puff pastry appetizers"
+- "recipes puff pastry"
+- "puff pastry bites"
+- "easy puff pastry appetizers"
+- "savory puff pastry recipes easy"
+- "puff pastry appetizer recipes"
+- "hors d oeuvres with puff pastry"
+- "cod appetizers"
+- "olive tapenade recipes"
+- "seafood puff pastry"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "150"
@@ -67,3 +74,91 @@ faq:
 - "q: Messy tartlets, how fix? a: Don’t overpile fish or tapenade. Space slices, thin coats, keep pastry edges trimmed neat. Rest after baking crucial for filling firm up. Cutting warm not hot prevents filling squeeze out. Use sharp knife to slice cleanly."
 
 ---
+
+Pastry squares. Cod. Tapenade. That's the move.
+
+## Why You'll Love These Puff Pastry Appetizers
+
+Takes 55 minutes total—25 to prep, 30 in the oven. That's it. Looks fancy but you're not fussing with anything complicated.
+
+Works as an appetizer or a light dinner. Mediterranean flavors without needing to plan something fancy. Seafood on pastry just hits different.
+
+Cold the next day? Still good. Maybe better. Pastry stays crispy, fish doesn't dry out somehow.
+
+Easy to make—no special skills. Roll, spread, layer, bake. If you can do that, it works.
+
+## What You Need for Puff Pastry Appetizer Recipes
+
+Commercial puff pastry. Thawed. 280 grams. Don't mess with homemade unless you want to spend an entire day doing it.
+
+Black olive tapenade. About 3 and a half tablespoons. Coarse texture matters. The chunky kind with actual olives in it, not the smooth paste. Changes everything.
+
+Cod fillet. Small one. Around 130 grams. Cut thin crosswise, skin off. Could use halibut. Could use sea bass. Cod's just cleaner tasting.
+
+One small shallot. Minced fine. Not regular onion—shallot has something going on that regular onion doesn't.
+
+Fresh dill if you want it. Not mandatory. Optional. But it cuts through the richness.
+
+Extra virgin olive oil. Good stuff. You're drizzling it at the end where people taste it. Don't use the cheap bottle.
+
+Salt and cracked black pepper. Coarse black pepper. Not the ground stuff that tastes like dust.
+
+## How to Make Puff Pastry Appetizers with Seafood
+
+Oven to 210°C. Center rack. Line your baking tray with parchment. Burnt bottoms happen fast if you skip this.
+
+Flour your surface. Roll the pastry into a 28 centimeter square. Don't rush it. Pastry shrinks weird if you're rough with it. Just let it relax as you go.
+
+Trim the edges. Neat square. Cleaner it looks before baking, cleaner it'll look after.
+
+Slice lengthwise into 4 strips. About 7 centimeters wide each. Space them apart on the parchment so they're not touching. They puff up and need room to do it.
+
+Tapenade goes on now. Spread it generous and rustic. Not thin. Not smooth. Just coat it. But don't bury the fish under salt. There's a line.
+
+## How to Get Puff Pastry Appetizers Crispy and Golden
+
+Cod slices go perpendicular to the pastry strips. Lay them crosswise. Space them so the edges don't touch—sounds weird but they stick together when baked and it's annoying to separate.
+
+Shallot scattered over. Watch how much. Too much and the whole thing gets soggy and tart. A little goes a long way.
+
+Salt and pepper now. Light hand. Cod's subtle. Doesn't need much.
+
+Bake 25 to 30 minutes. Watch it. Pastry puffs and goes golden. Fish goes from translucent to opaque. You'll see it change color. When the edges are bronzed but not charred, pull it out.
+
+Let it cool a minute. Not long. Just enough that the filling sets and the crust gets fully crisp. Still warm when you cut it though.
+
+Cut each strip into rectangles. About 5 centimeters wide. One fish slice per piece. Neat bites.
+
+## Puff Pastry Hors d'oeuvres Tips and Common Mistakes
+
+Don't thaw the pastry on the counter all day. Thirty minutes and it's done. Too long and it gets puffy and weird before it hits the oven.
+
+The fish slices need to be thin. Thick pieces don't cook through before the pastry burns. Crosswise cuts work better than lengthwise—less chewy that way.
+
+Spacing matters. Fish touching fish means they steam instead of bake. Pastry strips touching pastry means they fuse. Give everything room.
+
+Tapenade's salty already. Don't oversalt on top of that. You can always add more. You can't take it out.
+
+Parchment under everything. Not foil. Foil conducts heat too much and the bottoms char while the tops are still pale.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Puff Pastry Appetizer Recipes
+
+**Can I make these ahead of time?**
+Prep them, throw them in the fridge for a few hours. Bake when you need them. They're better fresh but cold works fine too. Leftover baked ones stay crispy for about a day sealed up.
+
+**What if I don't have cod?**
+Halibut works. Sea bass works. Salmon's oilier but it works. Tilapia's too soft. Don't use tilapia.
+
+**How much olive oil should I drizzle?**
+Just enough so it glistens. A teaspoon per piece maybe. You're not drenching it. Just shine and flavor.
+
+**Do I need the dill?**
+No. But it helps. The fresh herb cuts the richness and the brininess of the tapenade. If you have it, use it. If not—doesn't break anything.
+
+**Can I use store-bought tapenade?**
+That's what the recipe is. Coarse texture's important though. If it's paste, try a different brand. Flavor matters more than brand honestly.
+
+**Why does mine turn out soggy?**
+Too much shallot. Too much tapenade. Not enough space between pieces. Fish too thick. One of those four things. Fix whichever one you did.
