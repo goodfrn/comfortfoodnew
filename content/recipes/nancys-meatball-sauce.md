@@ -1,10 +1,10 @@
 ---
-title: "Nancy's Meatball Sauce Mix"
+title: "Meatball Sauce with Beef, Veal & Fresh Basil"
 slug: "nancys-meatball-sauce"
-description: "A hearty sauce with meatballs and sausage, simmered long for deep flavor. Fresh basil, slow-cooked tomatoes, and a mix of beef and veal in the meatballs, soaked bread for moisture. Olive oil and garlic start the sauce and brown the balls. Sliced sausage joins the sauce midway. Time for simmering adjusted slightly. A touch of oregano replaces bay leaf. White wine added for acidity. Serves around 6-8. Perfect for long pasta strands."
-metaDescription: "Nancy's Meatball Sauce Mix blends beef, veal, sweet Italian sausage, fresh basil, and slow-simmered tomatoes in a rich, hearty sauce. Serves 6-8."
-ogDescription: "Meatballs with veal and beef, sweet sausage slices, basil, garlic, and slow-cooked tomato sauce. Long simmer, deep flavor. Best with spaghetti or linguine."
-focusKeyphrase: "Nancy's Meatball Sauce Mix"
+description: "Homemade meatball sauce simmered with beef and veal meatballs, Italian sausage, fresh basil, and tomatoes. Slow-cooked comfort food that's perfect for pasta."
+metaDescription: "Meatball sauce recipe with beef and veal meatballs, Italian sausage, fresh basil, and slow-cooked tomatoes. Make it tonight."
+ogDescription: "Slow-cooked meatball sauce with beef, veal, Italian sausage, fresh basil, and tomatoes. Comfort food done right."
+focusKeyphrase: "meatball sauce"
 date: 2025-07-28
 draft: false
 image: nancys-meatball-sauce.jpg
@@ -21,8 +21,17 @@ tags:
 - "comfort food"
 keywords:
 - "meatball sauce"
-- "Italian sausage sauce"
-- "slow simmer tomato sauce"
+- "meatball sauce with beef and veal"
+- "italian meatball sauce with fresh herbs and olive oil"
+- "meatball ragu with italian sausage"
+- "homemade meatball sauce with fresh basil"
+- "slow cooked tomato meatball sauce with sausage"
+- "italian meatball pasta"
+- "comfort food meatball recipe"
+- "beef and veal meatballs"
+- "fresh basil tomato sauce"
+- "italian sausage pasta sauce"
+- "slow cooked meatball ragu"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"
@@ -87,3 +96,71 @@ faq:
 - "q: How to store leftovers? a: Cool sauce quickly then fridge for up to 3 days. Freeze in airtight container 2-3 months max. Reheat slowly to avoid drying meatballs. Long pasta? Cook fresh; sauce reheats well but pasta can overcook. Stir occasionally while warming."
 
 ---
+
+Garlic hits the oil first. One minute—that's all. You're just waking it up, not burning it. Three and a half hours total, but most of that the sauce does the work. Meatballs go in after, then the whole thing sits low and slow until it tastes like somebody's been cooking since morning.
+
+## Why You'll Love This Italian Meatball Pasta
+
+Takes 55 minutes prep if you're moving. The slow cooker does the rest—basically three and a half hours but you're not standing there. Comfort food that actually feels homemade because it is. Beef and veal mixed together makes them taste like something more than just ground meat. Fresh basil at the end, not dried. Changes everything. Works for a weeknight if you start early. Also the kind of thing that gets better the next day, if there's any left.
+
+## What You Need for Homemade Meatball Sauce
+
+Five garlic cloves. Minced fine. Olive oil—don't cheap out here, you taste it raw for a second. Two big cans of whole Italian tomatoes. Crush them yourself, rough. Three small cans of tomato paste. Water. Vinegar—white wine, not the sharp stuff. Fresh thyme and oregano. One branch, one leaf. That's it. Three Italian sausages. Sweet, not hot. Basil comes in at the end.
+
+For the meatballs: breadcrumbs soaked in hot water until they fall apart. Eight hundred grams beef. Six hundred fifty of veal. Four garlic cloves, chopped small. Four eggs. Parmesan. Fresh parsley. Salt. Pepper. Olive oil to brown them.
+
+## How to Make Slow Cooker Meatball Sauce with Fresh Herbs
+
+Heat the oil. Garlic goes in—one minute, that's enough. You'll know because it smells like garlic, not like burned garlic. Add the tomatoes. Smash them with a spoon or just use your hands. Doesn't matter if they're uneven.
+
+Tomato paste next. Water. Vinegar. Herbs. Salt and pepper. Get it to a boil, then lower the heat way down. This is a simmer now. Fifty minutes, uncovered. Don't rush it.
+
+While that's going, boil the sausages. Six minutes in barely simmering water. Pull them out, let them cool enough to touch, slice thin. Set them aside. You'll add them later.
+
+## How to Make Perfect Beef and Veal Meatballs
+
+Breadcrumbs in hot water first. Three minutes. Then squeeze them out—you want them damp, not dripping. Mix everything in a big bowl. The meat, the bread, garlic, eggs, cheese, parsley, salt, pepper. Don't overmix. Your hands work better than a spoon.
+
+Scoop out about 40 milliliters each. Roll them once in your hands, set them down. Some will be slightly bigger. That's fine.
+
+Heat olive oil in a pan. Medium-high. Brown them in batches—don't crowd the pan or they steam instead of sear. Ten to twelve minutes per batch, turning so they get brown on all sides. Not cooked through yet. Just the outside. That's the point of this step.
+
+Drop them into the sauce. Add the sausage slices. Let it bubble gently for an hour and ten minutes. The sauce thickens, the flavors move into the meat. Smells unreal at this point.
+
+## Slow Cooked Tomato Meatball Sauce Tips and Common Mistakes
+
+Kill the heat. Pull out the herb stems and leaf. They've given what they can.
+
+Fresh basil now. Not dried. Dried tastes like paper compared to this. Stir it in, turn the heat back on, let it go for fifteen minutes. That's when basil actually happens—it's not immediate.
+
+Taste it. Usually needs salt. Maybe pepper. Adjust it now.
+
+The sauce should coat a spoon. Not thick like paste, but not thin like tomato juice either. If it's too thin, you either didn't simmer long enough or your tomatoes were super wet. Next time, use less water. If it's too thick, a splash of water fixes it.
+
+Sausage is optional if you want just beef and veal. Won't taste the same but it works. Some people skip the veal, use all beef. Cuts the cost. The veal gives it a different texture—almost sweet—but beef alone is fine.
+
+The herbs matter more than you think. Fresh thyme and oregano make sense. Dried will work in an emergency. Not the same thing though. Don't bother unless you have to.
+
+Serve it on long pasta. Spaghetti, linguine. Something that holds sauce. Not penne—it's too short and the sauce doesn't settle right on it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Italian Meatball Pasta
+
+**Can you make this in a slow cooker instead of simmering on the stove?**
+Yeah. Put the sauce in the slow cooker after step 4. Skip the simmer. Add the meatballs and sausage, cover it, set it to low for 4 hours or high for 2. The timing shifts but the outcome's the same. Maybe better because there's zero chance of burning it.
+
+**How do you know when the meatballs are actually done?**
+The sauce tells you. After an hour and ten minutes on a gentle simmer, they're done. Cut one open if you're paranoid—no pink inside. They keep cooking a little even after you stop. Don't overcook them or they get dense.
+
+**Do you have to use both beef and veal?**
+All beef works. Veal's milder, a bit sweeter. Gives the meatballs a different taste. If you skip it, use more beef, add maybe an extra egg so they don't get too dense.
+
+**What if you don't have fresh herbs?**
+Fresh makes a difference. If you only have dried, use half the amount. It's stronger. The basil at the end—that one matters most. If you don't have fresh basil, just skip it. Dried basil tastes wrong at the end, like an afterthought.
+
+**How long does this keep?**
+Three days in the fridge, easy. Freezes for three months. Reheats better the next day—flavors settle. Some people say it's better cold the second day with pasta that's cooled too. Haven't tried that. Might work.
+
+**Can you make the meatballs ahead?**
+Brown them the day before, keep them in the fridge. Drop them in the sauce when you're ready to simmer. Saves time if you're organized like that.
