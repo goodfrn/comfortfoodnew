@@ -1,10 +1,10 @@
 ---
-title: "Tuna Pasta Salad Remix"
+title: "Tuna Pasta Salad Recipe with Lime Dressing"
 slug: "tuna-pasta-salad-remix"
-description: "Cold pasta salad with flaky tuna, juicy cherry tomatoes, fresh corn, and crisp cucumber. Tossed with a zesty lime-herb dressing and a touch of sweetness. Uses fusilli and minibocconcinis but swaps feta for smoky manchego, and green onions for fresh chives. Ready in under 35 minutes. Light, bright, with texture contrast and layers of flavor. Great for lunches or casual dinners. No eggs or nuts. Simple pantry staples with a twist. Vibrant colors, chewy pasta, creamy cheese, and bursts of acidity balance the richness. Refreshing but filling, with a hint of smoky depth for a grown-up touch."
-metaDescription: "Tuna Pasta Salad Remix with fusilli, smoky manchego, fresh corn, and lime-herb dressing. Bright, textured, ready fast, no eggs or nuts, loads of fresh flavor."
-ogDescription: "Cold pasta packed with tuna flakes, manchego cubes, fresh corn crunch, lime-herb zing. Quick prep, layered flavors, chew and burst in every bite."
-focusKeyphrase: "Tuna Pasta Salad Remix"
+description: "Tuna pasta salad with fusilli, cherry tomatoes, fresh corn, and manchego cheese tossed in a zesty lime-herb dressing. Light, bright, and ready in 35 minutes."
+metaDescription: "Tuna pasta salad recipe made with fusilli, tomatoes, corn, and manchego cheese in a lime-herb dressing. Make it tonight."
+ogDescription: "Fresh tuna pasta salad with corn, tomatoes, and manchego. Zesty lime dressing. Ready in 35 minutes."
+focusKeyphrase: "tuna pasta salad"
 date: 2025-08-09
 draft: false
 image: tuna-pasta-salad-remix.jpg
@@ -22,8 +22,17 @@ tags:
 - "summer"
 keywords:
 - "tuna pasta salad"
-- "fusilli pasta salad"
-- "smoky manchego salad"
+- "tuna pasta salad recipe"
+- "pasta with tuna"
+- "tuna pasta recipe"
+- "cold pasta salad with tuna"
+- "tuna salad recipe"
+- "pasta and tuna salad"
+- "noodle salad with tuna"
+- "tuna fish pasta salad"
+- "easy tuna pasta"
+- "lime herb dressing"
+- "summer pasta salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "370"
@@ -72,3 +81,108 @@ faq:
 - "q: Salad storage options? a: Chill tightly covered up to 2 days. Pasta stiffs, herbs lose brightness after long fridge. Bring to room temp before serving; add fresh herbs or drizzle olive oil if dry. Avoid freeze—texture wrecked. Leftover revive with squeeze lime, fresh herbs."
 
 ---
+
+Drain the tuna first—that's where half the work lives. Three-quarters of an hour from fridge to table, 15 minutes actually moving around. The rest is just waiting for water to boil and pasta to soften up.
+
+## Why You'll Love This Tuna Pasta Salad
+
+Takes 30 minutes total, most of it just boiling water and letting things cool down. Actual hands-on time? Maybe ten minutes.
+
+Works cold or barely warm. Throw it together on a Tuesday night, eat it Wednesday. Tastes better the next day, honestly—flavors actually find each other.
+
+Summer food without feeling heavy. Fresh corn, lime, cucumber. No mayo coating everything. Manchego instead of bland cheese that disappears into itself.
+
+One bowl. Drain the pasta, dump everything in. Done.
+
+Honestly, cleanup is minimal. Pot, cutting board, one big bowl. That's the whole list.
+
+## What You Need for Tuna Pasta Salad
+
+Fusilli—not spaghetti, not penne. The shapes catch the dressing instead of letting it slide off.
+
+Cherry tomatoes cut in half. They burst when you eat them. Bigger tomatoes get weird and seedy.
+
+Cucumber—English, not the waxy kind. Slice it thin after you quarter it lengthwise. Removes most of the water but keeps the crunch.
+
+Fresh corn off the cob if you can find it. Two ears. Strip them with a knife. Frozen works. Blanch it first—three minutes in boiling water, no more. Thawed and sad doesn't cut it.
+
+Manchego cheese. Small cubes, about the size of a pea. It's slightly salty and kind of crumbly, which matters. Mozzarella bocconcini works if manchego's not around. Feta too, though it gets aggressive.
+
+One can of tuna. 180 grams. Water-packed. Drain it hard—shake it in the strainer twice. Oil-packed makes the whole thing greasy.
+
+Four chives. Fresh. Sliced thin. You could use green onion but chives taste less sharp.
+
+Olive oil—good stuff, not the cooking kind. Three and a half tablespoons total.
+
+One lime. Juiced. Not the bottled thing.
+
+Parsley or basil. Flat-leaf parsley's fresher. Basil works if that's what you have. A quarter cup, chopped.
+
+One teaspoon sugar. Sounds weird. Cuts the lime without making it sweet. Trust it.
+
+Salt. Pepper. The usual.
+
+## How to Make Tuna Pasta Salad
+
+Get water boiling first. A big pot, heavy salt. Like, more than feels right. The pasta needs it to taste like anything.
+
+Fusilli goes in when it's rolling. Watch it. Set a timer for whatever the box says, then steal a piece a minute before that. Bite it. Should bend but have a tiny bit of resistance. Not mushy. Not crunchy.
+
+Drain it immediately. Shake the strainer—get the water out. Drizzle with a tablespoon of olive oil, toss gently. This stops it from clumping into a ball.
+
+Dump it in a big bowl. Let it sit for about ten minutes. Warm pasta actually soaks up flavor. Cold pasta just sits there.
+
+While that happens, cut everything. Tomatoes in half. Cucumber thin. Corn off the cob if you're using fresh. Manchego into small cubes. Not huge chunks—they need to spread throughout.
+
+Tuna gets opened and drained. Shake it. If it smells too salty or fishy, rinse it under cold water. Some cans are more aggressive than others.
+
+Chives go in raw. So does the parsley or basil. Chop them now.
+
+## How to Make the Dressing for Tuna Pasta Salad
+
+Small bowl. Remaining olive oil. Lime juice. Teaspoon of sugar. Pinch of salt. Few cracks of pepper.
+
+Whisk it. Actually whisk it—the oil and lime should start looking slightly thick and cloudy instead of separated. The sugar mellows everything. Without it, the lime's too sharp.
+
+Taste it from a spoon. Adjust. More lime if it's boring. More salt if it tastes weak. More olive oil if it's too sharp.
+
+## Tuna Salad Pasta Tips and Common Mistakes
+
+Don't skip the cooling step. Warm pasta absorbs the dressing. You dump dressing on cold pasta, it just slides around. The whole thing ends up dry on the surface and wet at the bottom.
+
+Drain the tuna twice. Once when you open it, once more after it's been sitting in the strainer. Oil or brine makes everything slick.
+
+Manchego can be sharp. If it tastes too strong, use less. Half manchego, half mozzarella works. Or just swap it out.
+
+Corn—if using frozen, blanch it. Don't microwave and serve. Three minutes in the same pasta water. Gets it warm, softens it slightly, keeps it from tasting like the freezer.
+
+Don't chill it for hours. Twenty minutes at most. Pasta gets stiff and weird, cheese gets hard, herbs fade. Room temperature tastes better.
+
+Leftovers. Bring them back to room temperature before eating. Add a splash of olive oil and fresh herbs. It comes back alive.
+
+The lime goes in the dressing, not sprinkled on top. Sounds obvious. People squeeze it on at the end and it doesn't reach anything.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tuna Fish Salad Recipe
+
+**Can I make tuna salad pasta ahead of time?**
+Yeah. Up to six hours if you don't chill it too hard. Just add a splash of olive oil before serving—the pasta drinks it.
+
+**What can I use instead of manchego cheese?**
+Mozzarella bocconcini if you want soft. Feta if you want salty and crumbly. Skip cheese entirely and nobody complains. All three work.
+
+**How long does this tuna fish recipe last in the fridge?**
+Two days. After that the pasta gets mushy and the herbs turn gray. Not inedible. Not great.
+
+**Can I use canned corn instead of fresh?**
+You can. Drain it well. It's softer and sweeter. Fresh corn has more bite. Both end up in the same bowl just fine.
+
+**Should I use mayo in this tuna salad recipe?**
+No. This isn't that. The olive oil and lime are the whole dressing.
+
+**Can I swap the lime for lemon?**
+Yeah. Different flavor. Less bright. More mellow. Works fine.
+
+**Does this pasta and tuna salad need to be cold?**
+No. Warm tastes better, actually. Room temperature works. Cold works. Just don't let it sit chilled for hours.
