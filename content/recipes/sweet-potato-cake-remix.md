@@ -1,10 +1,10 @@
 ---
-title: "Sweet Potato Cake Remix"
+title: "Sweet Potato Cake with Walnuts & Marshmallow"
 slug: "sweet-potato-cake-remix"
-description: "Sweet potato cake with a twist brought by almond oil instead of vegetable oil plus chopped walnuts standing in for pecans. Baking a cake dense but light with cinnamon and baking soda. Frosted with marshmallow buttercream, whipped to balance sweetness and texture. Watch for batter consistency, folding sweet potatoes carefully not to deflate. Oven cues, like cake edges pulling away and clean toothpick, key signs here. Marshmallow buttercream needs patience; incorporate powdered sugar slowly to avoid dust cloud. Refrigerate to firm up frosting. Adaptable for missing ingredients and texture fixes with tips on timing and substitutions throughout."
-metaDescription: "Sweet Potato Cake Remix uses almond oil and walnuts for texture plus marshmallow buttercream frosting. Watch batter and baking cues for best crumb and flavor."
-ogDescription: "Dense yet light sweet potato cake with nutty almond oil, walnuts, marshmallow buttercream. Oven signals guide bake time. Patience key on frosting."
-focusKeyphrase: "Sweet Potato Cake Remix"
+description: "Sweet potato cake with almond oil, chopped walnuts, and warm cinnamon, topped with marshmallow buttercream frosting. Moist, tender layer cake."
+metaDescription: "Sweet potato cake recipe with almond oil, walnuts, and creamy marshmallow buttercream frosting. Easy baking instructions included. Make it tonight."
+ogDescription: "Moist sweet potato cake with walnuts and marshmallow buttercream. Made with almond oil and warm spices."
+focusKeyphrase: "sweet potato cake"
 date: 2026-01-21
 draft: false
 image: sweet-potato-cake-remix.jpg
@@ -21,8 +21,17 @@ tags:
 - "dessert"
 keywords:
 - "sweet potato cake"
-- "almond oil baking"
+- "sweet potato cake recipe"
+- "potato cake"
+- "sweet potato dessert"
+- "walnut cake recipe"
 - "marshmallow frosting"
+- "almond oil cake"
+- "cinnamon cake"
+- "sweet potato baked recipe"
+- "homemade cake with walnuts"
+- "layer cake recipe"
+- "buttercream frosting"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "830"
@@ -76,3 +85,94 @@ faq:
 - "q: How to store leftover cake? a: Fridge best for frosted. Wrap well. Can freeze unfrosted layers but frosting suffers. Bring fridge cake to room temp before eating, cold stiffens crumb and mutes flavor. Leftovers keep 3-4 days covered. Avoid freezer freeze-thaw cycles for texture."
 
 ---
+
+Cut the sweet potatoes first—roasted or boiled, doesn't matter much. Three hours before you even think about the mixer. This cake needs them cold. Or room temp. Honestly either works, but cold makes spreading frosting less of a mess.
+
+## Why You'll Love This Sweet Potato Cake
+
+Takes an hour and a half total. Most of that's oven time, so you're not standing around. 
+The cinnamon hits before anything else—just enough to make you wonder what that smell is, then you remember.
+Marshmallow frosting. Not buttercream. Not cream cheese. Actual marshmallow, which means it stays fluffy even after a day in the fridge.
+Walnuts in the batter and on top, which sounds redundant but isn't. One set softens into the crumb. The other stays crunchy.
+Works cold. Works room temperature. Tastes different both ways—richer when it's warm, lighter when it sits overnight.
+
+## What You Need for This Sweet Potato Dessert
+
+Flour—two cups, all-purpose. Nothing fancy.
+Baking soda. One teaspoon. Not baking powder. The difference matters here.
+Cinnamon. Ground. One and a half teaspoons. More if you want the spice louder.
+Sugar. Granulated. A cup and a quarter.
+Almond oil instead of vegetable. Adds something subtle. Vegetable oil works if you don't have it, but almond's better.
+Three eggs. Large. Room temperature helps them mix smoother.
+Two cups mashed sweet potatoes. Cooked. Cold is fine. The starch is what matters.
+Walnuts. Chopped. One cup, but save some for the top—half a cup maybe, unground.
+
+For the marshmallow frosting: unsalted butter (half cup, soft), marshmallow cream (seven ounces), powdered sugar (three cups), salt (just a pinch).
+
+## How to Make Sweet Potato Cake
+
+Heat your oven to 350. Spray a 9x13 pan. Light coat. Not dripping.
+
+Mix the dry stuff—flour, baking soda, cinnamon—in a big bowl. Sift it. Whisk it after. Lumps will ruin the texture. Takes two minutes. Worth it.
+
+Grab the mixer. Beat sugar and almond oil together until it looks glossy. Two minutes on medium speed. It should look bonded, slick. This is the base for everything that comes next.
+
+Crack eggs in one at a time. Beat after each one. Watch the batter—it'll firm up as the eggs incorporate. Stop when it looks smooth. Don't go crazy on the mixer or you'll work air out that you actually want.
+
+Dump all the flour mixture in at once. Low speed. Mix until barely combined. Overmix and the cake gets tough. It's a real problem. You'll regret it.
+
+Scrape the sides with a spatula twice. Get the flour that's sticking to the edges. Then fold in the mashed sweet potatoes by hand and the chopped walnuts. Folding keeps everything aerated. Folding is slower, better for this.
+
+## How to Get Sweet Potato Cake Perfectly Baked
+
+Pour everything into the pan. Smooth it out. Smack it gently once or twice to settle the air bubbles. Not hard. Just to level it.
+
+Slide it in the oven. 55 minutes. Give or take a few. Every oven runs hot or cold.
+
+Look for the edges pulling away slightly from the pan sides. The top should be golden brown with a slight crackle. Insert a toothpick near the center—clean is perfect, a few moist crumbs are fine too. If it's wet, give it another five minutes.
+
+Pull it out. Let it cool completely in the pan. This is non-negotiable. Warm cake plus frosting equals a disaster. Patience. Just wait.
+
+Once it's cold, frosting time.
+
+## Sweet Potato Cake Frosting and Tips
+
+Beat butter until pale and fluffy. Soft but not melting. Temperature is critical here—if it's too warm, the frosting breaks. If it's too cold, it stays grainy.
+
+Add the marshmallow cream. Mix steady and smooth. Don't overmix or it goes slimy and weird. You'll know when to stop.
+
+Add powdered sugar in thirds. Mix each batch before dumping the next. Last step: sprinkle salt. Cuts the sweetness so it's not cloying.
+
+Spread it on the cooled cake. Edges can be rustic. Doesn't matter. The marshmallow smell hits right away and that's when you know it's working.
+
+Top with the reserved walnuts. Crunch and presentation. Refrigerate for at least 30 minutes so the frosting sets up before slicing.
+
+Bring it to room temperature before serving. The cake firms when cold, flavor deepens too. Different cake than it was an hour after cooling.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sweet Potato Cake Recipe
+
+**Can I use canned sweet potato puree instead of making my own?**
+Yeah. One-to-one swap. Canned's thicker sometimes, so check consistency. If it looks too wet, drain it a bit. Works fine either way.
+
+**What if I don't have almond oil?**
+Vegetable or canola. The cake just won't have that walnut-y undertone. Not a big deal. Still tastes good.
+
+**How long does this keep?**
+Four days in the fridge, covered. Five if you're lucky. After that it dries out. Freezes fine for a month though.
+
+**Can I make this without walnuts?**
+Pecans work. Almonds work. Or just skip them and add nothing. Cake's still good. Just less texture.
+
+**Why marshmallow frosting and not regular buttercream?**
+Marshmallow stays fluffy. Buttercream gets dense when it sits. This frosting actually improves overnight—fluffier, lighter. Try it once and you'll see.
+
+**Does this work as a sheet cake for a crowd?**
+Yeah. Feeds maybe twelve people if you're cutting normal-sized pieces. Nine if everyone's hungry. The frosting covers the whole thing so presentation's easy.
+
+**Can I add chocolate to this?**
+Half a cup of cocoa powder mixed into the dry ingredients. Or chocolate chips folded in with the walnuts. Turns it into something between a sweet potato cake and chocolate brownie. Both versions work.
+
+**How do I know when it's actually done baking?**
+Edges pull away from the pan. Top's golden with a slight crack. Toothpick in the center comes out clean or with a few crumbs stuck. Don't wait for the toothpick to be completely dry or you'll overbake it.
