@@ -1,10 +1,10 @@
 ---
-title: "Stuffed Pepperoni Pizza Rolls"
+title: "Croissant Pizza with Pepperoni & Mozzarella"
 slug: "stuffed-pepperoni-pizza-rolls"
-description: "Rolls made from crescent dough filled with pepperoni, mozzarella, and classic pizza toppings. Baked till golden brown with a butter garlic finish. A handheld, melty snack with savory spices. Easy to adapt with different cheeses or meats. Quick bake time with visual cues for doneness. Crispy outside, cheesy inside, satisfying every bite. Useful tips for preventing sogginess and avoiding burning from the dough base. A tasty twist on pizza in convenient roll form."
-metaDescription: "Stuffed Pepperoni Pizza Rolls with golden crescent dough, melty cheese, and savory garlic butter. Crispy outside, gooey inside; quick bake with easy tips included"
-ogDescription: "Golden, crispy rolls filled with pepperoni and mozzarella. Brush butter after baking, watch dough thickness, spot doneness by hollow taps and slight puff"
-focusKeyphrase: "Stuffed Pepperoni Pizza Rolls"
+description: "Croissant pizza made with crescent roll dough, pepperoni, and melted mozzarella cheese. Baked golden brown with garlic butter finish. Quick, handheld pizza rolls ready in minutes."
+metaDescription: "Make croissant pizza with crescent rolls, pepperoni, and mozzarella cheese. Golden, buttery, and cheesy. Try it tonight."
+ogDescription: "Pepperoni and mozzarella croissant pizza rolls with garlic butter. Quick, melty, and delicious."
+focusKeyphrase: "croissant pizza"
 date: 2025-10-21
 draft: false
 image: stuffed-pepperoni-pizza-rolls.jpg
@@ -21,9 +21,18 @@ tags:
 - "snack"
 - "easy"
 keywords:
-- "pizza rolls"
-- "pepperoni snacks"
-- "crescent dough recipes"
+- "croissant pizza"
+- "crescent roll pizza"
+- "pepperoni crescent rolls"
+- "pizza on crescent rolls"
+- "crescent pizza roll ups"
+- "pepperoni pizza bread roll"
+- "homemade pizza pockets"
+- "pillsbury crescent pizza rolls"
+- "pizza puff pastry rolls"
+- "crescent roll recipes"
+- "easy pizza rolls"
+- "mozzarella crescent pizza"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "260"
@@ -64,3 +73,98 @@ faq:
 - "q: Best way to store leftovers? a: Cool fully then store airtight in fridge up to 3 days. Reheat in oven or toaster oven maintains crispness better than microwave. You could freeze after baking, wrap tightly; thaw and reheat same way. Avoid reheating directly from freezer or cheese melts unevenly, soggy texture follows."
 
 ---
+
+Separate the crescent dough into 8 triangles. Wide side stays on the baking sheet. That's your base. Pizza sauce first—thin layer, optional but better. Then pepperoni. Not a ton. Maybe 5 slices per triangle. Mozzarella goes on top. Now roll it from the wide end to the point, like you're actually making a croissant. Pinch the tip. Seriously pinch it. If it's not sealed, cheese leaks everywhere and burns the pan. Learned that one.
+
+## Why You'll Love This Crescent Roll Pizza
+
+Takes 30 minutes total. Fifteen to prep, fifteen to bake.
+
+Tastes like you actually made pizza but it's just crescent rolls and pepperoni. Works as an appetizer. Works as a snack. Works cold the next day, maybe better.
+
+Cleanup is basically nothing. One baking sheet. Done.
+
+Kids eat these without complaining. Adults too. It's cheese and pepperoni in a buttery shell—hard to mess that up.
+
+## What You Need for Crescent Roll Pizza
+
+One can of refrigerated crescent dough. That's it. Everything else is toppings.
+
+Pepperoni. 40 slices, or however many look right. Turkey pepperoni works. Vegetarian pepperoni works. Whatever's in your fridge.
+
+Mozzarella cheese. A cup shredded. Swap half with provolone or cheddar if you want it sharper. Makes a difference.
+
+Pizza sauce. A quarter cup. Store-bought is fine. Homemade is fine. Skip it entirely if you're in a mood—still tastes good, just less sauce-y.
+
+Melted butter. Two tablespoons. Brush it on top. Brush it on again after baking. Game changer.
+
+Garlic salt. A teaspoon. Not regular salt. This one matters.
+
+Optional: diced green bell pepper. Olives. Whatever. Keep it light or the dough won't roll right.
+
+Baking sheet. Silicone mat or parchment paper. Don't skip this part. I did once. Bottom burned. Pan was a mess.
+
+## How to Make Crescent Roll Pizza
+
+Heat the oven to 370 degrees. Not 400. Not 375. Crescent rolls burn easy. You want them golden, not charred on the bottom.
+
+Prep your baking sheet with silicone mat or parchment. Without it, the bottoms go too dark. I learned the hard way.
+
+Pop open the can of crescent dough. Separate it into 8 triangles. They'll come apart naturally if you just pull. Lay them wide-side up on the baking sheet.
+
+Pizza sauce goes on the wide edge. Thin layer. You're not drowning these. Then pepperoni. Layer it loosely. 5, 6 slices per triangle. Add any veggies if you're doing that. Green peppers. Olives. Whatever. Scatter the mozzarella on top. Be generous. Cheese is why you're doing this.
+
+## How to Roll and Seal Crescent Roll Veggie Pizza
+
+This is where most people mess up.
+
+Fold the long sides inward just a bit. Not a lot. Just enough so the toppings don't spill out when you roll. Then roll from the wide end toward the point. Tight. Like you actually mean it. Pinch the point super firmly when you get there. If it's not sealed—if there's any gap at all—the cheese oozes out, burns on the pan, makes a wreck. Trust me on this.
+
+Lay them point-side down on the baking sheet. Space them out evenly. They'll puff up a little.
+
+Brush melted butter on top if you want a golden crust. Optional but worth it.
+
+Bake 13 to 16 minutes. Ovens vary. Some run hot. Some don't. Look for golden brown on top. The dough should sound hollow when you tap it. That's the sign. Not the timer. The sound.
+
+Pull them out. Immediately—and I mean immediately—brush the rest of the melted butter on top. Locks the moisture in. Adds flavor. Sprinkle garlic salt across all of them.
+
+Let them sit 3 minutes before eating. Too hot and you'll burn your mouth. The cheese will still be gooey. That's the point.
+
+## Crescent Roll Recipes: Tips and Common Mistakes
+
+Sealing is the big one. People don't pinch hard enough. Cheese escapes. Pan burns. Just pinch.
+
+Don't overload the toppings. Tempting but wrong. Too much stuff and the dough won't roll properly. It'll tear or the ends won't seal. Less is more here.
+
+The oven temperature matters more than the timer. 370 is specific for a reason. Crescent dough is delicate. Too hot and the bottoms burn before the inside cooks. Too cool and they're pale and dense.
+
+Parchment or silicone mat. Not negotiable. The bottoms go dark without it. And yeah, parchment works better than foil. Foil conducts heat weird.
+
+Pizza sauce is optional. Some people do just cheese and pepperoni. Works. Tastes different but works.
+
+Leftover pizza sauce or marinara for dunking. That's the move. Warm sauce, warm croissant pizza, dunk it. No reason not to.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Crescent Roll Pizza
+
+**Can you use homemade dough instead of the canned crescent rolls?**
+Technically yeah. But it won't be the same. Crescent dough has butter layers built in. That's where the croissant texture comes from. Homemade dough takes way longer. If you want to try it—go ahead. It'll be more like pizza bread than pizza on a croissant.
+
+**What temperature should the oven be?**
+370. Not 400. Crescent rolls burn fast. 370 is low enough that the bottom doesn't char while the inside cooks. Your oven might run hot or cool, so watch them. Golden brown and hollow-sounding is the goal.
+
+**How do you know when they're done?**
+Look for golden brown on top. Tap one gently. Should sound hollow. Takes about 13 to 16 minutes. Don't trust the timer. Trust your eyes and ears.
+
+**Can you make these ahead and freeze them?**
+Yeah. Assemble them, freeze them on the baking sheet, then bag them. Bake from frozen—add maybe 3 minutes to the timer. They come out fine.
+
+**What if the cheese leaks out during baking?**
+Pinch the tip harder next time. That's it. If it's already happening, you didn't seal tight enough at the roll stage. Next batch, really pinch. Seal it like your life depends on it.
+
+**Can you use turkey pepperoni or vegetarian pepperoni?**
+Sure. Works the same. Regular pepperoni has more flavor but anything works. Some people do veggie versions with just green peppers and olives. Still tastes good.
+
+**Why brush butter on top after baking?**
+Locks moisture in. Adds flavor. Makes the crust stay soft and buttery instead of drying out. Do it when they come out of the oven. It'll melt right in.
