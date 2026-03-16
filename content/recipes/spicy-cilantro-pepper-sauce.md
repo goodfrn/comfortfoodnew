@@ -1,10 +1,10 @@
 ---
-title: "Spicy Cilantro-Pepper Sauce"
+title: "Mexican Salsa Verde with Serrano Peppers"
 slug: "spicy-cilantro-pepper-sauce"
-description: "A zesty blend of fresh herbs, aromatic spices, and heat. Coriander leaves and parsley form the base. Garlic and serrano pepper stand in for the jalapeño. Olive oil mixed with a splash of lime juice adds brightness. Ground coriander and smoked paprika replace cumin and clove for a smoky undertone. Sweetness from maple syrup balances the heat. Salt adjusts flavor. Versatile condiment, fridge-stable for days. Great on grilled fish, roasted veggies, or steamed corn."
-metaDescription: "Spicy Cilantro-Pepper Sauce is a zesty blend of herbs, spices, and heat. Perfect for grilled fish or roasted veggies. A versatile condiment with depth."
-ogDescription: "Discover Spicy Cilantro-Pepper Sauce - a vibrant, spicy mix for fish, veggies, or more. Smoky undertones with a hint of sweetness."
-focusKeyphrase: "Spicy Cilantro-Pepper Sauce"
+description: "Fresh Mexican salsa verde made with coriander, parsley, serrano peppers, and olive oil. Bright, herbaceous green sauce ready in minutes. Perfect condiment for grilled fish and roasted vegetables."
+metaDescription: "Mexican salsa verde recipe with fresh coriander, parsley, and serrano peppers. Herbaceous green sauce that keeps for days. Make it tonight."
+ogDescription: "Herbaceous green salsa made with fresh coriander, parsley, and serrano peppers. Bright, zesty condiment for any meal."
+focusKeyphrase: "mexican salsa verde"
 date: 2025-07-16
 draft: false
 image: spicy-cilantro-pepper-sauce.jpg
@@ -20,9 +20,16 @@ tags:
 - "easy"
 - "mexican"
 keywords:
-- "spicy sauce"
-- "condiment"
-- "grilled fish"
+- "mexican salsa verde"
+- "mexican green salsa"
+- "serrano chile salsa"
+- "fresh coriander sauce"
+- "green salsa recipe"
+- "serrano pepper recipe"
+- "homemade salsa verde"
+- "mexican green sauce"
+- "fresh herb salsa"
+- "homemade hot sauce"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "180"
@@ -65,3 +72,67 @@ faq:
 - "q: What's best way to store it? a: Sealed container is key. Fridge extends shelf life. Up to five days is fair. Can freeze it too. But texture changes, keep that in mind."
 
 ---
+
+Throw everything in a blender and hit pulse. That's the whole thing. Twenty minutes of prep, ten minutes if you count the blending, and then you wait for it to sit — which is where the real magic happens. Fresh coriander. Serrano. Oil. Water. Spices that actually belong together. Out comes something that tastes like it took hours but didn't.
+
+## Why You'll Love This Mexican Green Salsa
+
+Ready in 30 minutes total, most of that just sitting around.
+It's a condiment that works everywhere — fish, vegetables, grilled corn, eggs, basically anything that needs something green and spicy on top.
+Homemade hot sauce tastes completely different from store-bought. This one especially.
+One blender. One bowl for storage. Cleanup is nothing.
+Tastes better the next day, maybe even better two days in. Flavors just keep getting louder.
+
+## What You Need for Mexican Green Salsa Sauce
+
+Fresh coriander — 40 grams, leaves and stems. Don't skip the stems. That's where half the flavor lives. Flat-leaf parsley comes in at 12 grams. Not curly. Not a lot, just enough to round things out. One garlic clove, halved. One serrano chili pepper — deseeded if you want it less aggressive, seeds left in if you want it actually hot. Olive oil, 80 milliliters. Ground coriander seeds, 5 milliliters. Smoked paprika. Pure maple syrup — just 3 milliliters. Salt. Ground cardamom, a quarter teaspoon. Water rounds it out.
+
+The cardamom is weird. Don't skip it. It's what makes this taste like more than just "green stuff with heat."
+
+## How to Make Mexican Green Salsa
+
+Coriander and parsley go in first — leaves, stems, doesn't matter how you tear them up. Garlic clove, halved. Serrano in there next. Pulse it a few times. You're not making soup. You want chunks still visible when you're done.
+
+Then the wet stuff. Olive oil and water go in together. Ground coriander, smoked paprika, maple syrup, salt, cardamom — everything at once. Pulse again. The whole thing should look rough and chunky, like wet sand that has personality.
+
+Stop before it gets smooth. That's the thing people miss. One more second too long and it turns into green paste. You want to see bits of coriander leaf still in there.
+
+## How to Get the Texture Right
+
+Scrape the sides of the blender. Blend for maybe three seconds more — just enough to integrate everything without turning it into a complete puree. It should be coarse. Somewhat chunky. That's the whole point.
+
+Transfer it to whatever you're storing it in. A sealed container works. Mason jar. Doesn't matter.
+
+Then it sits. Minimum 2 hours in the fridge. Maximum 5 days. The flavors meld into something better than what you just tasted off the spoon. The serrano chili peppers get less sharp. The coriander deepens. The cardamom whispers instead of shouts. This is when you actually serve it.
+
+## Mexican Green Salsa Tips and Common Mistakes
+
+Don't overspin. Seriously. People see a blender and they just keep going. This isn't a sauce for buffalo wings — those get blended smooth. This stays textured.
+
+Serrano pepper recipe people use a lot gets the heat wrong. Too much or way too little. Deseeded is milder. Seeds left in is genuinely hot. Taste it after the first pulse if you're unsure. You can't unblend it.
+
+The maple syrup looks random but it's not. It's balancing the heat and the bitterness from the spices. Don't replace it with honey. Tried it once. Different thing entirely.
+
+Cold is non-negotiable. Room temperature salsa verde tastes flat. Cold is when it opens up.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mexican Green Salsa
+
+**Can I make this without a blender?**
+You could chop everything by hand and mash it together, but it'd take 20 minutes and taste slightly different — less integrated. Blender's worth it.
+
+**What if I can't find serrano peppers?**
+Jalapeños work. They're milder. Habaneros are hotter. Either one shifts the whole thing but it's still good. Thai chilies are too thin and sharp. Skip those.
+
+**How long does it actually last in the fridge?**
+Five days max before it starts looking tired and the flavor gets dull. Usually tastes best on day two or three though.
+
+**Is this the same as buffalo wing sauce?**
+No. Completely different thing. Buffalo sauce is hot sauce with butter and vinegar. This is a fresh condiment that happens to have heat in it.
+
+**Can I use dried coriander instead of fresh?**
+Dried coriander tastes like nothing compared to fresh. Not worth it. Pick up fresh or skip this recipe.
+
+**Should I remove the serrano chili seeds?**
+Depends how spicy you want it. Seeds are where the heat concentrates. Out = milder. In = actually hot. I leave them in and people adjust with less.
