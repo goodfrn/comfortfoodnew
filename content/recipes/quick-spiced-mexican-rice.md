@@ -1,10 +1,10 @@
 ---
-title: "Quick Spiced Mexican Rice"
+title: "Easy Mexican Rice with Cumin and Canned Tomatoes"
 slug: "quick-spiced-mexican-rice"
-description: "Heat liquids til boiling, then incorporate rice and tomato base. Simmer low, lid tight, causing rice to steam gently. Stir once halfway, fluff light at end. Olive oil swaps for avocado; canned diced tomatoes instead of salsa adds fresh tang. Timing flexible, visual clues key: liquid soaking down, grains tender but firm, steam escaping in soft hisses. Watch for scorched bits, shake pot gently if needed. Moist but not mushy, orange tinted, with faint charred aroma. Practice shows brisk boiling traps steam; no lifting lid too often—kills texture. Avoid overly acidic salsa, acid breaks down rice starch, sorrows mush over fluff. Good when edges crisp slightly, smell nutty yet savory. Learned these from burns and bland batches, now a steady burner staple."
-metaDescription: "Quick Spiced Mexican Rice cooks fluffy grains with cumin, tomato base, and avocado oil. Watch steam, listen to bubbles, fluff at rest for textured rice."
-ogDescription: "Fluffy Mexican rice with cumin, gentle simmer, tomato tang. Stir once, steam trapped, scent builds. Avocado oil seals grains. Watch edges crisp for depth."
-focusKeyphrase: "spiced Mexican rice"
+description: "Easy Mexican rice made with canned diced tomatoes, cumin, and avocado oil. This simple side dish steams to fluffy perfection with garlic and chili powder for authentic flavor."
+metaDescription: "Easy Mexican rice recipe with canned tomatoes, cumin, and avocado oil. Learn the foolproof method for fluffy grains every time. Make it tonight."
+ogDescription: "Fluffy Mexican rice with canned tomatoes, cumin, and warm spices. Steamed in avocado oil for authentic flavor and perfect texture."
+focusKeyphrase: "easy mexican rice"
 date: 2025-11-23
 draft: false
 image: quick-spiced-mexican-rice.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "spice"
 keywords:
-- "Mexican rice"
-- "spiced rice"
-- "fluffy rice"
+- "easy mexican rice"
+- "mexican rice"
+- "mexican rice with tomatoes"
+- "spanish rice"
+- "rice side dish"
+- "spiced rice side dish"
+- "cumin rice"
+- "canned tomato rice"
+- "avocado oil rice"
+- "white rice recipe"
+- "mexican side dish"
+- "garlic onion rice"
 breadcrumb: ["Home", "Recipes", "Rice and Grains"]
 nutrition: 
  calories: "210"
@@ -77,3 +86,82 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, fridge for 3-4 days best. Reheat with sprinkle water, covered microwave or stovetop steam. Freeze okay but texture might change. Avoid drying by sealing tightly. Use within a month if frozen."
 
 ---
+
+Set the water to a rolling boil. Actually—two cups exact, wide saucepan so the rice spreads out instead of piling up. Avocado oil goes in next, swirl it around fast so it coats everything before the rice hits.
+
+## Why You'll Love This Mexican Rice Side Dish
+
+Takes 30 minutes flat. Not 45. Not "somewhere around there."
+Works with literally any protein—chicken, fish, beans, nothing. Weeknight dinner ingredient that doesn't need babysitting.
+One pot. Cleanup is basically rinsing the lid.
+Tastes better the next day, maybe because the spices settle overnight. Cold or reheated.
+The spice isn't aggressive—cumin and chili powder whisper instead of yell, which means even people who don't love heat will eat it.
+
+## What You Need for Spiced White Rice with Garlic and Onion Powder
+
+Two cups water. That's the base.
+Avocado oil. A tablespoon and a half. Olive oil burns. Not worth switching. Avocado oil handles heat without getting bitter.
+Long grain white rice—a cup and a half. Short grain gets mushy. Don't bother.
+Canned diced tomatoes. One cup. Fresh tomatoes have too much water. Drain some juice if the can's really soupy.
+Ground cumin. Half a teaspoon. Maybe a bit less if you're sensitive to it.
+Garlic powder and onion powder—half a teaspoon each. Real garlic would be great but powder works here, distributes evenly.
+Salt. Half a teaspoon. Taste it after and add more if it's flat.
+Chili powder. Half a teaspoon. The kind from the spice aisle, not the seasoning blend. Different thing entirely.
+
+## How to Make Mexican Rice with Cumin and Chili Powder
+
+Boil the water first. This matters. Cold water and rice together means uneven cooking. The water has to be aggressive—that hard bubble sound, not a quiet simmer.
+
+Swirl in the avocado oil. Do it fast. Oil coats the grains so they don't stick together in one solid block. No oil, no separation. They clump.
+
+Dump in the rice. Stir hard for maybe 30 seconds. This toasts the grains slightly while the oil and heat are doing their thing. You'll hear the sizzle sharpen. The water re-boils in maybe a minute.
+
+Add the canned tomatoes—juice and all unless there's way too much. Sprinkle in the cumin, garlic powder, onion powder, salt, and chili powder. Stir once. Don't overdo it. One stir gets everything mixed. More than that bruises grains.
+
+## How to Get Spiced Rice Side Dish Perfectly Tender
+
+Lower the heat the second everything goes in. Not low—medium-low. The goal is a gentle simmer, barely there, with steam rising steady. Cover it tight. Use a lid that actually fits. Loose lid and steam escapes.
+
+Don't check it for 12 minutes. I know it's hard. The steam is doing work. Lifting the lid disrupts that. Let it sit.
+
+At 12 minutes, peek. The grains should be swelling, puffy. There's still some liquid clinging to them but not a pool. Stir once very gently—rough stirring breaks rice.
+
+Reseal the lid. Another 10 minutes minimum. By minute 22 or 23, test a grain. Push one against the side of the pot with your spoon. If it mashes easily, it's done. If it's chewy, reseal and give it 2 more minutes. Never needs longer than 25 total.
+
+If it's somehow still dry and chewy at 25 minutes, add a splash of water—maybe a quarter cup—cover, and sit for 3 more. Usually doesn't happen. But tomato juice varies.
+
+Remove from heat. Keep the lid on for 5 minutes. This lets the steam redistribute and the grains finish softening slightly from residual heat. Fork-fluff after. Real rice fluffs easy. Sticky rice fights the fork.
+
+## Rice Side Dish Tips and Common Mistakes
+
+The smell tells you everything. Earthy, toasted, faint tomato sweetness underneath. If it smells burnt, the heat was too high.
+
+Burnt bottom happens. Use medium-low next time instead of medium. Use a heavier pot if you have one—spreads heat more evenly, doesn't concentrate at the base.
+
+Too dry means the simmer was too hot or too long. Cut 2 minutes next time or use slightly more liquid. Too mushy is the opposite—less simmering time or less liquid next round. Adjust one variable at a time.
+
+If the canned tomatoes are obviously watery, drain some juice before adding them. Or switch to tomato paste—two tablespoons instead of a cup of diced. Different texture but same flavor direction.
+
+Leftovers reheat best with a splash of water and a damp paper towel sealed over the top in the microwave. Takes maybe 2 minutes. Stays fluffy instead of drying out.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mexican Rice with Tomatoes
+
+**Can you make this with brown rice?**
+Yeah, but timing changes. Brown rice takes closer to 45 minutes. Use three cups water instead of two. Same spices. Just way longer on the stove.
+
+**What if you don't have avocado oil?**
+Vegetable oil works. Olive oil gets bitter at this heat—avoid it. Ghee works too. Adds a different flavor but not bad.
+
+**Is this actually spicy?**
+Not really. Chili powder at half a teaspoon is mild. Cumin is earthy. If you want real heat, add more chili powder or a pinch of cayenne at the end.
+
+**Can you double the recipe?**
+Sure. Keep the water ratio the same—one and a third cups per cup of rice. Cooking time stays the same. Bigger pot, same heat, same timer.
+
+**How long does it keep?**
+Three days in the fridge, covered. Tastes fine cold, reheats fine with a bit of water. Freezes okay too but texture gets slightly grainy when thawed. Tastes right, just not quite as fluffy.
+
+**Why avocado oil specifically?**
+Handles high heat without breaking down or turning acrid. Olive oil smokes. Coconut oil adds flavor you probably don't want here. Avocado oil is neutral and stable.
