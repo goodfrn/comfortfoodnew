@@ -1,10 +1,10 @@
 ---
-title: "Lenten Brioche with Apricots"
+title: "Lenten Brioche with Apricots and Raisins"
 slug: "lenten-brioche-apricots"
-description: "Yeast dough enriched with eggs and butter, studded with plump golden raisins and chopped dried apricots. A soft, slightly sweet bread shaped into 12 individual buns, risen until puffed and baked until golden brown. A simple sugar glaze with a touch of milk piped in crosses on top, adding a subtle finish. A slight cinnamon aroma in the dough, balanced sweetness, and chewy dried fruit bits throughout. Yeast fermentation takes time but yields airy texture. Serve warm with butter or plain. Adapted from a classic brioche for Lenten celebrations. Minor ingredient swap: honey replaces half the sugar and cardamom replaces cinnamon for an aromatic twist."
-metaDescription: "Lenten Brioche with Apricots is a soft bread enriched with fruit. Golden buns topped with a simple glaze for a delightful treat."
-ogDescription: "Indulge in Lenten Brioche with Apricots. Soft, slightly sweet with a fragrant twist. Perfect for warm servings with or without butter."
-focusKeyphrase: "Lenten Brioche"
+description: "Soft brioche buns enriched with eggs, butter, golden raisins, and dried apricots. Cardamom-spiced yeast bread with a simple powdered sugar glaze. Perfect for Lenten celebrations."
+metaDescription: "Make brioche with apricots and golden raisins, enriched with eggs and butter. Cardamom-spiced soft buns with a sugar glaze. Try it tonight."
+ogDescription: "Enriched brioche buns with golden raisins, dried apricots, and warm cardamom spice. Soft, slightly sweet, and glazed."
+focusKeyphrase: "brioche with apricots"
 date: 2025-07-24
 draft: false
 image: lenten-brioche-apricots.jpg
@@ -21,9 +21,16 @@ tags:
 - "homemade"
 - "eggs"
 keywords:
-- "baking recipe"
-- "Lenten bread"
-- "apricot buns"
+- "brioche with apricots"
+- "brioche bread"
+- "homemade brioche buns"
+- "yeast bread"
+- "enriched yeast bread"
+- "cardamom brioche"
+- "dried apricots bread"
+- "golden raisins brioche"
+- "Lenten bread recipe"
+- "soft sweet brioche"
 breadcrumb: ["Home", "Recipes", "Breads"]
 nutrition: 
  calories: "280"
@@ -85,3 +92,104 @@ faq:
 - "q: What if my glaze is too thick? a: Add a few drops of milk gradually. It’ll help thin out. Mix until smooth but thick. If too runny, more sugar fixes it. Adjust slowly."
 
 ---
+
+Cut the dough in half. No wait—divide it into twelve pieces. That's the whole recipe right there. Golden raisins and chopped apricots already mixed in, cardamom doing something impossible to describe unless you've smelled it before. Milk and eggs making it rich in a way that doesn't feel heavy, just—buttery. Takes 55 minutes total if you're moving, which means prep plus baking, not the two-hour rise. That happens while you're not touching anything.
+
+## Why You'll Love This Lenten Brioche
+
+Soft. Actually soft the next day, which never happens with bread. The eggs and butter do that.
+
+Homemade brioche buns taste completely different from the bagged kind. Not better by just a little. Completely different. Like they aged in butter overnight.
+
+Works cold. Room temperature. Warm. Frozen and reheated. Doesn't get weird.
+
+One bowl and a mixer. Not—like, a massive production. Less cleanup than you think.
+
+The apricots and golden raisins stay chewy inside. The cardamom sneaks up. Nobody figures out what the flavor is until you tell them.
+
+## What You Need for Brioche With Dried Apricots and Raisins
+
+Warm milk—not hot. Like bathwater warm. Too hot kills the yeast. Too cold and nothing happens.
+
+Four large eggs. They're not an afterthought here. They're basically the whole point. This is enriched yeast bread, the kind that needs eggs to get that soft crumb.
+
+All-purpose flour. Three-fifty grams. Not bread flour. Not cake flour. The middle one.
+
+Sugar and instant yeast—a third cup and a teaspoon. Cardamom goes in the dry mix, half a teaspoon, and it's the thing that makes people pause mid-bite. Salt too. Half a teaspoon.
+
+Unsalted butter—softened, cut into cubes—goes in after the dough starts. This is key. Cold butter doesn't incorporate. It gets lumpy. Softened melts into the dough instead and makes it shiny.
+
+Golden raisins and dried apricots. Chopped apricots, finely. The raisins stay whole. Together they're sweet but not candy. Honey goes in the liquid mix—just a tablespoon.
+
+For the glaze: powdered sugar and milk. Whisked smooth. That's the whole thing.
+
+## How to Make Enriched Yeast Bread With Apricots
+
+Butter the pan first. Thirty-three by twenty-three centimeters—a standard rectangular one. Line it with parchment, let the edges hang over. That's for pulling the whole thing out later.
+
+Stir milk, eggs, and honey in a bowl. Just stir. Don't overthink it. Set it aside.
+
+Dump flour, sugar, yeast, salt, cardamom into the mixer bowl. Mix the dry stuff briefly—like thirty seconds. You're just combining it, not activating anything yet.
+
+Pour the wet in. Medium speed, about two minutes. The dough starts pulling together. It'll look shaggy. That's right.
+
+Now the butter. Add it in pieces—like five or six chunks—while the mixer runs. Keep going until it's all incorporated, around six minutes total. The dough goes from looking broken and greasy to shiny and elastic. You'll feel the difference when you touch the bowl. It becomes supple.
+
+Flour a surface. Dump the dough out. Fold in the raisins and apricots. Knead for maybe a minute, just enough so they're distributed and not all stuck in one corner.
+
+## How to Get Soft, Rich Brioche Buns Every Time
+
+Divide the dough into twelve pieces. That's roughly eighty grams each if you want to be precise. Eyeball it otherwise.
+
+Roll each piece under your palm on floured surface until it's a ball. This takes like thirty seconds per ball. Doesn't need to be perfect. Just round.
+
+Place them in the pan—spaced slightly apart. They won't touch yet. That's fine.
+
+Cover loosely with plastic wrap. Let them sit somewhere warm until they double and actually touch each other. Two hours and fifteen minutes usually. Could be less if your kitchen runs hot. Could be more if it's cold. You know it's done when they've doubled and they're pressed against each other.
+
+Heat the oven to two-oh-five Celsius—four hundred Fahrenheit. Rack in the middle.
+
+Brush the tops with water. Just a light brush. Use a pastry brush. Don't soak them.
+
+Bake twenty to twenty-two minutes. They'll be deep golden. Tap the bottom—they should sound hollow. If they don't, two more minutes.
+
+Cool them in the pan for fifteen minutes. They firm up enough to handle. Then eat them or glaze them.
+
+## Holiday Brioche Tips and Common Mistakes
+
+The butter has to be softened. Room temperature. If it's cold it won't blend and you get a weird texture. If it's too warm it melts and the dough gets greasy. Hit it with a mixer paddle a few times at room temp—that's enough.
+
+Don't skip the rise. Two hours fifteen minutes sounds long. It's not. The dough needs that time to develop. Rushing it means dense, heavy brioche. Not worth saving fifteen minutes.
+
+The apricots need to be chopped fine. Whole ones don't distribute and you get weird chunks. Finely chopped means they almost dissolve into the dough and add sweetness everywhere.
+
+Water on top before baking—that creates a thin crust that cracks a little, which is what you want. Makes it look bakery-style instead of homemade-dense.
+
+The glaze matters but not as much as you think. It's decorative. The brioche is already good. The glaze just makes it look right. Pipe it in crosses. Let it dry before serving.
+
+Cold butter straight from the fridge won't work. Soften it on the counter for thirty minutes. Test it with your finger—you should be able to press in easily but it shouldn't leave a dent.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Brioche Buns
+
+**Can I make cardamom brioche dough the day before and bake it the next day?**
+Yeah. Shape the buns, cover them, stick them in the fridge. They'll rise slowly overnight. Bake in the morning. Might take an extra few minutes in the oven since they're colder. Works fine.
+
+**What if my dough is too sticky after adding the butter?**
+Means the butter wasn't soft enough or the room's warm. Dust more flour on the work surface, not into the dough. Or just wait five minutes—sometimes it firms up. If it's actively sticking to your hands, a tablespoon more flour. Not more.
+
+**Can I use salted butter instead of unsalted?**
+You can. Just cut the salt in the recipe by half. The dough will be okay. But unsalted lets you control the salt, which matters here because brioche buns need balance. The eggs and butter are already rich. Too much salt throws it off.
+
+**How do I know when the brioche is fully baked?**
+Deep golden—that part matters. Tap the bottom. Hollow sound. If you're not sure, poke the thickest bun in the center with a knife. No wet dough clinging to it. Some slight moisture is fine. Wet isn't.
+
+**Do the apricots and raisins have to be that specific brand?**
+No. Use whatever golden raisins you have. Apricots—just make sure they're not the super-dense ones. Those take forever to soften. The typical dried apricots from the grocery store work perfect.
+
+**Can I make this brioche without the cardamom?**
+Yeah. Honestly—try it with. But if you hate cardamom, just leave it out. The bread's still rich and buttery. The cardamom just adds something. Not essential.
+
+**What's the difference between this and normal bread?**
+The eggs and butter. Enriched yeast bread means fat, eggs, sugar. Makes it sweet, soft, stays soft. Regular bread is flour, water, yeast, salt. Completely different thing.
