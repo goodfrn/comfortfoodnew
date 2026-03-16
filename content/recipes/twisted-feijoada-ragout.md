@@ -1,10 +1,10 @@
 ---
-title: "Twisted Feijoada Ragoût"
+title: "Black Bean Stew Recipe with Pork & Linguiça"
 slug: "twisted-feijoada-ragout"
-description: "Black beans soaked overnight. Pork shoulder picked clean, cubed. Bone kept for deep flavor. Sauté meat for smoky surface. Onion, garlic, but swap chorizo for smoky linguiça and add diced smoked paprika sausage; introduce a fresh jalapeño for heat. Bring to soft simmer, simmer low and slow. Mash part of beans with caramelized aromatics to thicken. Serve piping hot with fluffy rice, farofa, fresh orange wedges for brightness. No shortcuts. Real feijoada.)"
-metaDescription: "Twisted Feijoada Ragoût mixes black beans, pork shoulder with bone, smoky linguiça, and diced smoked paprika sausage simmered slow. Layered flavors rich and smoky."
-ogDescription: "Deep smoky beans, pork shoulder with bone, linguiça, and diced paprika sausage simmered low. Thickened with mashed beans and aromatics. Serve with rice and farofa."
-focusKeyphrase: "Feijoada Ragoût"
+description: "Black bean stew with pork shoulder, linguiça sausage, and jalapeño. Slow-simmered comfort food with deep, smoky flavors and tender beans that satisfy."
+metaDescription: "Black bean stew recipe with pork shoulder and linguiça sausage, slow-simmered with jalapeño for depth. Try it tonight."
+ogDescription: "Smoky black bean stew with pork shoulder, linguiça, and paprika sausage. Comfort in a bowl."
+focusKeyphrase: "black bean stew"
 date: 2025-08-11
 draft: false
 image: twisted-feijoada-ragout.jpg
@@ -20,9 +20,18 @@ tags:
 - "slow cooker"
 - "spicy"
 keywords:
-- "feijoada"
-- "linguiça sausage"
-- "slow simmer beans"
+- "black bean stew"
+- "recipe bean stew"
+- "black bean stew recipe"
+- "black bean stew brazilian"
+- "pork shoulder ragout"
+- "brazilian bean stew"
+- "smoked sausage beans"
+- "beans and smoked sausage"
+- "black bean and chorizo stew"
+- "slow cooker feijoada"
+- "brazilian black beans stew"
+- "black bean sweet potato stew"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "460"
@@ -74,3 +83,89 @@ faq:
 - "q: Is bone essential? a: Bone adds gelatin and depth, sure, but can skip if short on time—add pork broth concentrate or stronger stock instead. Bone marrow melts into broth, subtle richness not matched by spice or sausage alone. But stew remains good without."
 
 ---
+
+Drain the soaked beans. Rinse them—really rinse them. Three garlic cloves go in near the end, not the start. The pork shoulder's the thing that actually matters here. Bone stays in the pot because it's sitting in there for two hours and thirty-five minutes anyway, might as well work for you.
+
+## Why You'll Love This Pork Shoulder Stew
+
+Takes 3 hours total but you're barely doing anything for most of it—slow cooker energy without needing the slow cooker. Just set it and stir once in a while.
+
+Spicy without burning your mouth. The jalapeño and smoked sausages do the work, not heat that blindsides you.
+
+Tastes better the next day. Way better. Reheat it slow and the flavors have settled into something deeper.
+
+Works for a crowd or just Tuesday dinner. Freezes fine too if you make extra, which you will.
+
+The kind of pork shoulder stew that costs thirty dollars at a restaurant. This version costs maybe eight.
+
+## What You Need for Black Bean Stew
+
+Black beans—the dry kind, soaked overnight. Not canned. The texture matters here and canned gets mushy fast.
+
+Pork shoulder, bone-in. Around 1.6 kg. The bone isn't decoration; it thickens the broth as it sits. Butcher can leave it on and you debone it yourself, saves money and gives you control.
+
+Olive oil. 45 ml total, split three ways. Not extra virgin—save that for finishing. Just regular olive oil that can handle heat.
+
+Two medium onions chopped fine. One jalapeño seeded and chopped—or leave the seeds if you like it meaner. Three garlic cloves minced, but hold them for later.
+
+Dried salted beef. Around 180 grams. This is the salty anchor that holds everything together. Linguiça and smoked paprika sausage—both go in, both matter. Linguiça is the spicy Portuguese sausage; smoked paprika sausage is denser, smokier.
+
+Bay leaves. Two dried ones. Water—700 ml. Salt and black pepper at the end, after you taste it.
+
+## How to Make Black Bean and Sausage Stew
+
+Heat 15 ml of oil in a heavy pot over medium-high. The pork goes in now with the bone still attached. Listen for crackling. That sound means it's browning right, not steaming. Don't crowd the pan—give the meat room or it'll sit in its own moisture and won't brown. You want a dark crust on it. Five minutes per side maybe. Could be more. Watch it, not a timer.
+
+Once the pork's got color, set it aside. Leave the fat in the pot. This is where the flavor lives now.
+
+Add half the chopped onions, half the garlic, and the jalapeño to that same pot with the remaining 15 ml of oil. Sweat them gently—medium heat, lid off. About five minutes. You'll smell it when it's ready. That's not metaphorical. It'll smell aggressively spicy and translucent-looking.
+
+Return the pork and bone. Stir in the drained black beans, the dried salted beef, bay leaves. Pour in water just enough to barely cover everything. Too much water means watery stew. You're concentrating flavor, not making soup.
+
+Bring it to a rolling boil. Then immediately drop the heat. Lid askew so steam escapes but not everything does. This is where time works for you. Around 2 hours and 15 minutes, the beans will be soft—not falling apart, just yielding. The pork will pull apart with a spoon. Stir occasionally. Every 30 minutes maybe. Scrape the bottom so nothing sticks and turns bitter.
+
+Watch the liquid as it cooks. If it's evaporating faster than you'd expect, add small amounts of boiling water. Not cold water. Boiling.
+
+## How to Get Black Bean Stew Rich and Thick
+
+About 30 minutes before you think it's done, stir in the linguiça and smoked paprika sausage—both sliced thin. Thin slices meld into the stew instead of staying as chunks. They add fatty richness and that smoke that makes the whole thing click.
+
+While that's happening, scoop out about 200 ml of cooked beans with some of their liquid into a skillet. Add the leftover onion and garlic you didn't use and 15 ml of oil. Medium heat. Mash this with a wooden spoon until it's a coarse paste—not smooth, coarse. This is the trick that separates actual stew from watery beans with meat in them.
+
+Stir the bean paste back into the pot. The whole thing thickens immediately. Don't skip this step. Watery feijoada is the saddest outcome.
+
+Simmer 15 more minutes. The smell deepens. The sauce gets glossy. That's when you taste it.
+
+## Black Bean Stew Tips and What Actually Goes Wrong
+
+Salt is tricky here because the dried beef is already salty. Taste before you add anything. Usually you just need black pepper at the end. If you taste nothing, then salt, but start careful.
+
+The beans need to be actually soaked overnight. Unsoaked beans take forever and don't cook evenly.
+
+Leftovers are better. This isn't a problem—it's a feature. Reheat slowly. High heat dries out the pork and breaks the sauce.
+
+The bone matters. People skip it thinking it's hassle. It's not. It sits there and makes broth.
+
+Smoked sausage works if you can't find linguiça. It's less spicy but the stew still works. Red beans work instead of black beans, especially if you're making a red beans and andouille sausage version. Same method, same timing.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Black Bean Stew with Pork
+
+**Can I use a slow cooker for this pork shoulder stew?**
+Yeah. Brown the pork first on the stove, then throw everything into the slow cooker on low for 6 hours. The taste is almost the same. Almost. The stovetop version has more depth because the beans sit in the broth the whole time instead of sitting in bean-flavored water that's been diluted by condensation.
+
+**What if I don't have dried salted beef?**
+It changes things. You lose that sharp salty funk that makes feijoada actually feijoada. Bacon works as a substitute—maybe 150 grams, chopped. It's different but it works.
+
+**Do I really need both sausages?**
+No. One works fine. But both is better. The linguiça gives you heat and spice. The smoked paprika sausage gives you smoke and fat. Together they're deeper. If you have to pick one, linguiça. It's the traditional choice.
+
+**How long does this actually take from start to finish?**
+25 minutes to prep. 2 hours and 35 minutes to cook. So 3 hours total if you're doing the soaking the night before. If you're soaking the beans that morning, add 8 hours.
+
+**Can I freeze leftovers?**
+Yes. It freezes for maybe 2 months fine. Reheat on the stove over low heat, stirring occasionally. Don't nuke it—the pork gets weird and the sauce breaks.
+
+**What do I serve this with?**
+White rice. Fluffy rice, nothing fancy. Orange slices to cut the richness. Farofa if you have it—toasted cassava flour that sounds strange but it actually works. Honestly, rice and maybe hot sauce is enough.
