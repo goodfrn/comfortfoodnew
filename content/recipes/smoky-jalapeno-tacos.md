@@ -1,10 +1,10 @@
 ---
-title: "Smoky Jalapeño Flank Steak Tacos"
+title: "Marinated Flank Steak with Cilantro Avocado"
 slug: "smoky-jalapeno-tacos"
-description: "Marinated flank steak kissed by smoky paprika and fresh lime zest. Avocado yogurt sauce with a punch of cilantro sharpness. Tacos piled with sweet corn, crumbly queso fresco, and crunchy jalapeños. Oven broiled for that sizzling crust, juicy pink inside. Real talk: timing varies with thickness and oven quirks. The trick is watching the surface, not staring at the clock. Sauce creamy but lighten with water if too thick for spreading—flexibility key. Substitute flank with skirt or sirloin if needed. Jalapeño can be swapped or skipped depending on heat tolerance. Bright, spicy, creamy, and textured all in one messy handheld punch."
-metaDescription: "Smoky Jalapeño Flank Steak Tacos, quick marinated steak with smoky paprika and fresh lime. Creamy avocado cilantro sauce, corn, queso, jalapeño crunch piled high."
-ogDescription: "Sear flank steak with smoky paprika, stack with creamy avocado cilantro sauce and crunchy jalapeños. Corn and queso add bursts of sweet salt. Bite into heat and texture."
-focusKeyphrase: "Smoky Jalapeño Flank Steak Tacos"
+description: "Marinated flank steak with smoked paprika, lime zest, and garlic. Topped with creamy cilantro avocado sauce, grilled corn, queso fresco, and jalapeños for authentic tacos."
+metaDescription: "Marinated flank steak recipe with smoked paprika and lime. Served with cilantro avocado sauce, corn, and queso fresco. Make it tonight."
+ogDescription: "Smoky paprika flank steak tacos with creamy cilantro avocado sauce, grilled corn, and jalapeños. Fresh and flavorful."
+focusKeyphrase: "marinated flank steak"
 date: 2025-10-12
 draft: false
 image: smoky-jalapeno-tacos.jpg
@@ -21,9 +21,18 @@ tags:
 - "mexican"
 - "avocado"
 keywords:
-- "jalapeño tacos"
-- "smoky flank steak"
-- "Mexican-American tacos"
+- "marinated flank steak"
+- "beef flank steak marinade"
+- "flank steak tacos"
+- "skirt steak marinade"
+- "cilantro avocado sauce"
+- "flank steak marinade recipe"
+- "best flank steak marinade"
+- "easy flank steak marinade"
+- "smoked paprika marinade"
+- "flank steak recipes tacos"
+- "simple flank steak marinade"
+- "grilled marinated skirt steak"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -81,3 +90,107 @@ faq:
 - "q: How to store leftovers? a: Steak wraps tight fridge; sauce separate airtight jar. Tortillas best separate, microwave wrapped damp towel to revive softness. Make quesadillas or tacos next day. Avoid soggy tortillas, texture kills eating experience."
 
 ---
+
+Squeeze the lime over the steak, then into the marinade bowl with the garlic and serrano. This is where the flank gets its backbone — 35 minutes in that mix, not longer. Longer and you've got texture soup. Just the right amount of time to get spicy, get tender, get ready to sear.
+
+## Why You'll Love This Flank Steak Marinade for Tacos
+
+Takes 7 minutes to throw together. The steak does the work while you do literally anything else.
+
+Tastes like actual Mexican food. Not the chain restaurant version. The serrano and cilantro and lime zest sit right on the meat, not buried under some bottled thing. Spicy enough to matter.
+
+Char happens fast under the broiler. 8 minutes total and you've got edges that blacken and a middle that's still pink. Avocado oil doesn't smoke to death like olive does.
+
+The avocado cilantro sauce — it's not just a side. It's creamy and bright and cuts through the spice. Works on literally anything after this.
+
+Leftovers stay good cold. Slice the steak thin, wrap in a tortilla with yesterday's sauce. Lunch is done.
+
+## What You Need for This Beef Flank Marinade
+
+Flank steak — 2 pounds. The muscle matters here. Cheaper than ribeye, tougher if you cook it wrong, incredible if you don't. Slice across the grain at the end and it falls apart.
+
+Avocado oil. Not olive. Olive burns at broiler temps. Avocado oil stays calm.
+
+Smoked paprika — a tablespoon. The smoke part is what makes this taste like actual char even before you broil it. Regular paprika's flat. This one has something going on.
+
+Serrano chili, seeded and minced. One medium one. Hotter than jalapeño. If you hate spice, use half. If you hate mild, use two.
+
+Garlic and cilantro and lime zest. Four cloves garlic. Quarter cup cilantro. One lime zested. These three are your flavor base. Skip any of them and it tastes generic.
+
+Coconut sugar. A teaspoon. It's not health food, it just dissolves better than regular sugar in a raw marinade. Regular sugar works. Not as smooth going in.
+
+Black pepper. Fresh crack it. Half teaspoon.
+
+For the sauce: one ripe avocado, half cup Greek yogurt, more cilantro, lime juice, avocado oil, apple cider vinegar. Water to thin.
+
+For assembly: corn, queso fresco, jalapeños, pico de gallo. Fresh stuff. Canned corn doesn't cut it here.
+
+## How to Make Flank Steak Marinade for Tacos
+
+Mix the avocado oil and smoked paprika first in a big bowl. Gets warm from the oil, the paprika blooms a little. Then minced garlic. Then the serrano. Then coconut sugar. Then the black pepper and lime zest and cilantro.
+
+Dump the steak in. Make sure every side gets coated — the spice and oil have to touch the meat all over or you end up with bland patches. It's only 7 minutes of work.
+
+Now the wait. 35 minutes minimum. This is the science part — the lime juice and serrano are doing actual breakdown work on the muscle fibers. Less than 30 minutes and it's just a wet steak. More than 45 and you start losing structure. 35 to 40 is your sweet spot.
+
+While you wait, make the sauce. Ripe avocado — and it has to be actually ripe, not rock hard, not brown inside. Scoop it into a food processor with Greek yogurt and cilantro and lime juice and avocado oil and apple cider vinegar. Pulse 40 seconds. Not longer. You want it to have texture, not be baby food.
+
+Add water one tablespoon at a time until it spreads like thick sour cream but still has some body to it. Every avocado is different. Every yogurt brand is different. Just taste it and feel it and fix it.
+
+## How to Get Flank Steak Char and Tender
+
+Preheat your broiler. High heat. This is not a gentle cook situation.
+
+Position the rack about 4 to 5 inches from the heating element. Too close and the edges burn before the middle cooks. Too far and it steams instead of chars.
+
+Lay the steak on a broiler pan — or any rimmed sheet — with space underneath. You need air circulation. The steak shouldn't touch a cold surface and sweat. It should be hot and loud in there.
+
+Broil for 4 minutes. Don't watch it constantly. You'll psyche yourself out. Glance once, move on.
+
+Flip it at the 4-minute mark. This is when you hear the sizzle get serious. Second side gets 4 more minutes. Your meat thermometer should read 130 to 135 internal temp for that pink middle. If you like it more done, add another minute.
+
+The edges should bubble and blacken lightly. Not charred to ash. Lightly charred. There's a difference.
+
+Pull it out. Tent it loosely with foil — and loosely matters, not tightly sealed. You want some heat to escape but the meat to stay warm and relax. 8 to 10 minutes. This is where the magic happens. The muscle fibers that just got shocked by heat settle back down and reabsorb their own juices. You slice it right after broiling, it's tough and dry. You wait, it's tender and juicy.
+
+Squeeze the rest of that lime over the top while it rests.
+
+## Flank Steak Tacos Tips and Common Mistakes
+
+Slice the steak thin and against the grain. You can see which way the fibers run — cut perpendicular to that. Thin slices, maybe a quarter inch. That's the difference between tender and chewy.
+
+The sauce on the tortilla first. Acts like a moisture barrier so the tortilla doesn't get soggy from the warm steak. Also your flavor base. Tortilla by itself is just a vehicle.
+
+Corn adds sweetness. Counterbalance to the spice. You can roast your own or use grilled frozen corn — thaw it first, pan-sear it with a little oil until it gets brown spots.
+
+Queso fresco is salty and crumbly. Not mozzarella. Not feta. Queso fresco. It doesn't melt, which is the point.
+
+Jalapeños on top of the serrano in the marinade means you've got spice in two places. Stack them and the taco gets genuinely hot. Seed them if your tolerance is low.
+
+Pico de gallo has to be fresh. Tomato, onion, cilantro, lime, salt. Five minutes before you eat. Sitting around makes it sad and watery.
+
+Leftover steak gets better cold. Not worse. The flavors from that marinade keep opening up overnight. Slice it thin, pile it in a tortilla with yesterday's sauce. Technically lunch but tastes like dinner.
+
+Don't broil longer than 8 minutes total unless your steak is genuinely thick — like over 1.5 inches. The beef flank marinade does half the tenderizing work. The broil does the rest. You don't need both going at once.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Beef Flank Marinade
+
+**How long should you marinate flank steak?**
+35 minutes is the target. Go 30 to 40 and you're good. Anything less and the serrano doesn't have time to work. Anything more and the muscle starts breaking down too much — texture goes mushy.
+
+**Can you use this beef skirt steak marinade recipe instead?**
+Yeah. Skirt's thinner and more tender to start, so maybe back it down to 30 minutes in the marinade and watch the broil time — might need just 6 to 7 minutes instead of 8. The seasoning works the same either way.
+
+**What's the best marinade for skirt steak if I don't have avocado oil?**
+Olive oil works. It'll smoke a bit under the broiler but not enough to ruin anything. Coconut oil tastes weird here. Just don't use it.
+
+**Should I marinate the flank steak marinade for tacos longer?**
+Nope. 35 to 40 minutes. That's it. The recipe's balanced around that window.
+
+**Can you make this fajita marinade skirt steak ahead?**
+Mix the dry stuff and the oil and lime zest the night before. Add the wet ingredients — garlic, serrano, lime juice — the morning of. The garlic gets funky sitting around too long raw. Or just do the whole thing an hour before you cook.
+
+**What if the avocado cilantro sauce breaks or gets watery?**
+It happens. Avocado varies wildly. If it's too thin, add a splash more yogurt. If it broke and split, start over with a fresh avocado — literally takes 2 minutes. Not worth trying to salvage it.
