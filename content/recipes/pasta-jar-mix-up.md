@@ -1,10 +1,10 @@
 ---
-title: "Pasta Jar Mix Up"
+title: "Pasta Jar Mix with Sun-Dried Tomatoes"
 slug: "pasta-jar-mix-up"
-description: "Short pasta with sun-dried tomatoes, thyme, smoked paprika, garlic powder, bay leaves, and a pinch of cayenne. Packaged dry in a 750 ml jar. Cook by adding water, simmering until tender with aroma cues. Vegan, dairy-free, nut-free. Adapted herb blend and spices for different flavor profile. Simple layering, tight seal, labeling tips included."
-metaDescription: "Pasta Jar Mix Up with short pasta, sun-dried tomatoes, thyme, smoked paprika, and bay leaves. Layer dry, seal tight, cook by simmering. Vegan, nut-free, dairy-free."
-ogDescription: "Layer dry pasta, herbs, spices in jar. Simmer with water, watch bay leaves float, bubbles pop. Simple vegan meal, smoky paprika instead of basil."
-focusKeyphrase: "Pasta Jar Mix Up"
+description: "Make pasta jar mix with sun-dried tomatoes, smoked paprika, and dried herbs. This vegan seasoning blend layers perfectly in a jar for an easy homemade gift."
+metaDescription: "Pasta jar mix with sun-dried tomatoes, smoked paprika, garlic powder, and thyme. Vegan, layered dry mix. Make it tonight."
+ogDescription: "Vegan pasta jar mix layered with sun-dried tomatoes, smoked paprika, and dried herbs. Simple homemade gift."
+focusKeyphrase: "pasta jar mix with sun-dried tomatoes"
 date: 2025-08-08
 draft: false
 image: pasta-jar-mix-up.jpg
@@ -21,9 +21,15 @@ tags:
 - "easy"
 - "homemade"
 keywords:
-- "pasta jar"
-- "sun-dried tomatoes"
-- "smoked paprika"
+- "pasta jar mix with sun-dried tomatoes"
+- "dry pasta mix jar"
+- "vegan pasta seasoning mix"
+- "homemade pasta jar gift"
+- "sun-dried tomato pasta with smoked paprika"
+- "layered pasta mix in jar"
+- "vegan sun-dried tomato penne"
+- "pasta jar with dried herbs and spices"
+- "smoked paprika pasta mix homemade"
 breadcrumb: ["Home", "Recipes", "Pasta and Noodles"]
 nutrition: 
  calories: "350"
@@ -72,3 +78,86 @@ faq:
 - "q: How to store dry mix? a: Airtight jar best way; dry place. Use label with date to track freshness. Without jar seal, double bag tightly. Toss if moisture or odd color appears. Shelf life affected by herbs losing punch, swap fresh dried often. Don’t add wet ingredients inside jar."
 
 ---
+
+Grab a jar. Layer the pasta—don't pack it. Sun-dried tomatoes go next. Then the spices. Seal it. That's basically it. Comes out tasting like you spent way more time than 27 minutes.
+
+## Why You'll Love This Pasta Jar Mix
+
+Takes 12 minutes to make, zero mess after. Just layer and go.
+Vegan, obviously—no dairy hiding anywhere. Works for anyone.
+Seasoning's built in, so cooking is literally just water and heat. No tasting and fixing things halfway through.
+Smoked paprika does something interesting—makes it taste deeper without being spicy or sweet. Different from the standard oregano-garlic thing.
+Gift it. People actually want this. Looks homemade, tastes homemade, is homemade.
+Stores for months. Just works.
+
+## What You Need for a Vegan Pasta Jar Mix
+
+Short pasta—penne or rigatoni. Around 180 grams. Don't use angel hair. Too thin, falls apart.
+Sun-dried tomatoes, chopped small. About 70 milliliters. The pieces should be maybe the size of a pea or smaller.
+Dried thyme. Three milliliters. Not fresh. Fresh dies in a jar sitting around.
+Smoked paprika. Three milliliters. Regular paprika's different. Smokier. Better.
+Garlic powder and onion powder. Two and a half milliliters each. The stuff that tastes like actual garlic when it's in a dry mix, which is weird but works.
+Two bay leaves. Whole. They float around and somehow add something.
+One pinch of cayenne. Like, actually a pinch. Tiny. It's not supposed to be fire.
+
+## How to Make a Layered Pasta Mix in Jar
+
+Get a clean 750 milliliter jar. Glass works, plastic works, doesn't matter. Grab your pasta first. Dump it in without crushing it. Uneven's fine. Better, actually—air gets between pieces, flavors travel.
+
+Sun-dried tomatoes go on top. Spread them around, don't press down. The loose layering matters because when water hits it later, everything releases at different times instead of all at once.
+
+Sprinkle the thyme over the tomatoes. Then the smoked paprika—that smoky earthiness is doing most of the work here, replacing what basil would do if this was meant to sit for months. It's not. But the paprika holds.
+
+Garlic powder next. Onion powder after. Don't shake the jar trying to make them settle. Just scatter them. Toss the bay leaves in, loose. Top with the cayenne—literally just a tiny bit.
+
+Seal it tight. Get a piece of tape, write on it: "Boil 600 milliliters water. Add this jar. Simmer 15 minutes. Stir sometimes." Done.
+
+## How to Cook Vegan Sun-Dried Tomato Penne from the Jar
+
+Boil 600 milliliters of water in a pot. Just regular water, doesn't need to be fancy. Pour it in. Everything from the jar goes straight into the hot water. It's going to look weird for a second—dry and wet mixing.
+
+Bring it back to a simmer. Not rolling boil, simmer. Medium heat. Stir occasionally because pasta sticks sometimes, and you want the spices mixing into the water instead of sitting in corners.
+
+Cover it loosely. Not sealed. Just a lid sitting on top. Let it go for about 15 minutes. That's the exact time. Could be 14, could be 16 if your pasta was slightly thicker. Watch for the pasta swelling, bay leaves starting to bob around, tomato pieces softening and breaking down a bit. You'll smell the garlic and paprika getting hot and rounding out—like it's losing its sharp edges.
+
+Taste a piece of pasta from the rim of the pot. Should bend without snapping, but still have some resistance. That's the sweet spot.
+
+## Pasta Jar Mix Tips and Common Mistakes
+
+Don't substitute fresh herbs. I know you're thinking about it. Don't. They turn to dust in a dry jar after two weeks. Tastes like you're eating paper towel flavoring. Stick with dried.
+
+Smoked paprika's non-negotiable here. If you hate smoky flavors, fine, but then you're making a different thing. Use regular paprika or skip it. But the smoke is the whole angle.
+
+If your pasta's been sitting open for months, grab fresh. Stale pasta cooks weird—sometimes mush, sometimes chalky. Not worth it. Same with whole wheat—nuttier, which actually works with the sun-dried tomatoes if you want to go that direction.
+
+Cayenne can be swapped for black pepper if heat isn't your thing. Black pepper won't add much flavor, just heat. But it works.
+
+The jar lasts for months. Seriously. Sun-dried tomatoes are already preserved. Dried spices don't expire like people think. Just check before you make it—no moisture, no weird smell, no discoloration. If something looks off, toss it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Pasta Jar Mix
+
+**Can you use fresh basil instead of dried thyme?**
+No. Fresh wilts into nothing in a dry jar. You'd open it two weeks later and find brown dust. Stick with dried herbs for this.
+
+**How long does the dry mix actually last?**
+Months. Sun-dried tomatoes are already preserved, spices don't go bad fast. Just keep it sealed, cool, dark spot. If you see moisture, it's done.
+
+**What if you don't have smoked paprika?**
+Then make something different. Regular paprika's fine but it's not the same thing at all. The smoke's the whole point.
+
+**Can you double the recipe and layer more?**
+Yeah. Bigger jar, more of everything. Keep the ratios the same.
+
+**Does the water really get seasoned enough?**
+It does. The hot water pulls everything out of the spices and tomatoes. By minute 10 it tastes like you made actual sauce.
+
+**What if the pasta's still hard after 15 minutes?**
+Cook longer. Add a few minutes. Or your water wasn't hot enough when you poured it. Next time use a rolling boil.
+
+**Is this actually vegan?**
+Completely. No dairy, no animal stuff anywhere. Even the sun-dried tomatoes—check the label if you're paranoid, but they're just tomatoes and salt usually.
+
+**Can you add olive oil to the jar before sealing?**
+No. It goes rancid in a dry environment eventually. Add it after cooking if you want richness. Drizzle it in at the end.
