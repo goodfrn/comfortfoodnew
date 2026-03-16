@@ -1,10 +1,10 @@
 ---
-title: "Smoky tomato tuna sauce"
+title: "Pasta Tomato Sauce Tuna with Capers"
 slug: "smoky-tomato-tuna-sauce"
-description: "A smoky, tangy sauce with charred tomatoes and flaked tuna. Introduces capers and roasted red peppers instead of olives and celery for a briny, sweet depth. Uses shallots instead of green onions for subtler bite. Sautéing aromatics in olive oil to bloom flavors, then simmering with smoky tomato base until thickened and vibrant. Tuna folded in last to keep texture intact. Serve over any pasta shape, long or short, or as a sauce for grilled veggies. Quick, flexible, no gluten, lactose, nuts, or eggs. Rustic, bold, hands-on cooking approach with sensory cues and practical tips for every step."
-metaDescription: "Smoky tomato tuna sauce cooks long to layer flavor. Roasted red pepper instead of celery, capers not olives. Tuna folded gently for texture. Mediterranean style."
-ogDescription: "Charred tomato base simmers with shallots, roasted pepper, capers. Tuna folds in late for flakes. Serve over pasta or grilled veggies. Bold taste, rustic cues."
-focusKeyphrase: "smoky tomato tuna sauce"
+description: "Pasta tomato sauce tuna made with smoky charred tomatoes, capers, roasted red peppers, and flaked tuna. Quick, gluten-free, and packed with briny depth."
+metaDescription: "Pasta tomato sauce tuna recipe with capers and roasted red peppers. Smoky charred tomatoes paired with flaked tuna. Make it tonight."
+ogDescription: "Smoky charred tomato sauce with tuna, capers, and roasted red peppers. Bold, briny, and ready in minutes."
+focusKeyphrase: "pasta tomato sauce tuna"
 date: 2025-08-09
 draft: false
 image: smoky-tomato-tuna-sauce.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy dinner"
 - "condiment"
 keywords:
-- "tuna sauce"
+- "pasta tomato sauce tuna"
+- "pasta with tomato sauce and tuna"
+- "spaghetti and tuna"
+- "tuna pasta sauce"
+- "pasta with tuna and capers"
+- "tomato sauce tuna pasta"
+- "spaghetti tuna capers"
 - "smoky tomato sauce"
-- "capers recipe"
+- "tuna spaghetti tomato sauce"
+- "pasta tuna red sauce"
+- "puttanesca tuna"
+- "tuna napolitana sauce recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "220"
@@ -64,3 +73,88 @@ faq:
 - "q: How to store leftovers? a: Sauce keeps in fridge 2-3 days in sealed container. Reheat gently on low, add splash water or stock if thickened too much. Tuna texture softens but still good. Freeze not recommended; tuna flakes get mealy."
 
 ---
+
+Shallots and red pepper go in first—that's the smell you're chasing. Four to five minutes until they go soft and the kitchen smells like something's actually happening. Then the tomato sauce. The smoky part matters. After ten minutes simmering, you've got something thick enough to coat the spoon. Tuna goes in last, gentle, just to warm through. Twenty minutes total from here to pasta. Maybe less if you move.
+
+## Why You'll Love This Tuna Pasta Sauce
+
+Takes 35 minutes total. Actual cooking time, not recipe-blog time.
+
+Works cold the next day. Honestly tastes better then.
+
+Mediterranean flavors without pretending to be fancy. Just tuna, tomatoes, capers. The shallot does most of the work.
+
+Tuna pasta sauce that doesn't taste like a can. The grilled tomatoes—that smoky part—it changes everything.
+
+One medium saucepan. That's it.
+
+## What You Need for This Tuna and Pasta Sauce
+
+Roasted red pepper. The jarred kind works fine. Diced small.
+
+Shallot. One small one. Finely chopped. Matters more than garlic here—sweeter, less aggressive.
+
+Extra virgin olive oil. A tablespoon. That's enough.
+
+Smoky grilled tomato sauce. One litre. Make it yourself or buy it pre-made—broil tomatoes until charred, then blend. Or use a good canned version if you know one. The smoke is the whole thing.
+
+Capers. Two tablespoons, drained. They're salty. They're doing the work that olives do in other pastas. Don't skip it.
+
+Tuna chunks in oil. One can, seven ounces. Drain it. The oil's not needed here. Canned works. Fresh is better but frozen thawed is fine too.
+
+Basil. Fresh. Torn. Optional but you should do it.
+
+Salt and black pepper. Taste as you go.
+
+## How to Make Tuna Pasta Sauce
+
+Heat the olive oil in a medium saucepan. Medium heat. Add the shallot and red pepper. Stir it. You're waiting for the edges to soften—maybe four minutes, five if you're not pushing it. Don't rush. The flavor base is everything here. You'll smell it before it looks done. That's when you know.
+
+Pour in the tomato sauce. Stir it around. Add the capers now. They bring salt and tang—the thing that makes this taste alive instead of flat. Bring it to a gentle simmer. Tiny bubbles. Steam wisps. Let it go for ten minutes, stirring every couple minutes. The sauce gets thicker. Brighter. The edges go dark as the sugars do their thing. If it's too thick, splash some water in. Not much. Just enough. The sauce should coat a spoon. Coat it confidently.
+
+## How to Get the Texture Right with Tuna Pasta
+
+Reduce the heat to low. This matters because tuna breaks if you get rough with it. Fold the drained tuna in gently. Gently. The flakes should stay flakes. Warm it through for four to five minutes only. Too much heat and it gets tough. Tuna doesn't need cooking—just warming. Stir very gently now. The contrast between the sauce and the fish texture, that's the whole point.
+
+Taste it. Season with salt and black pepper. Remember the capers already brought saltiness. A pinch of sugar or a splash of vinegar can balance acidity if it needs it. Usually it doesn't. Off heat, stir in the fresh basil.
+
+Serve over pasta. Spaghetti or penne or whatever you have. The sauce clings. The noodles go glossy. You'll see the red pepper flecks and tuna throughout. A sprinkle of coarse black pepper finishes it. Doesn't need cheese—the flavors stand alone.
+
+## Tuna Pasta Sauce Tips and What Goes Wrong
+
+Don't overcook the tuna. That's the only thing that actually fails here. Four to five minutes on low heat. That's it.
+
+The shallot needs to go soft first. If you skip that step and dump the sauce in, it's sharp and wrong.
+
+Grilled tomato sauce is the difference between this tasting like a can and tasting like something you actually made. Worth the effort.
+
+Capers, not olives. Olives change the flavor profile and this isn't about that.
+
+If the sauce breaks or looks separated, it probably just needs a stir and time. Off heat. It settles.
+
+Store it cold. Three days in the fridge. Freezes fine too—just thaw it slow and warm gently.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tuna Pasta Sauce
+
+**Can I use fresh tuna instead of canned?**
+Yeah. Cut it into chunks, same size as the canned stuff. Add it the exact same way—low heat, just four to five minutes. Actually stays more tender that way than canned does. Don't ask me why.
+
+**What if I don't have smoked tomato sauce?**
+Regular sauce works. Not the same but it works. You lose the whole smoky thing. If you want that flavor back, char some tomatoes under the broiler, blend them, and use that instead of opening a can. Takes ten minutes. Changes everything.
+
+**Is this basically tuna pasta carbonara?**
+No. Carbonara is eggs and cheese. This is sauce and tuna. Different recipe. Different technique. People mix them up but they're not the same thing.
+
+**Can I add pesto to this tuna pasta sauce?**
+Not really. You'd be fighting flavors. The pesto overpowers the capers and the smoke. Pick one direction or the other. If you want pesto, make a different pasta. This one's about the tomato and the tuna working together.
+
+**How much pasta should I make?**
+This much sauce—one litre—covers one pound of dried pasta easily. Maybe slightly more. It's not a light sauce but it's not heavy either.
+
+**What if I don't like capers?**
+Then you're making the wrong pasta. Capers are the salt and the tang. Without them it's just tuna and tomato, which is fine but it's not this. If you really won't eat them, use a few good olives instead, but understand you're changing the recipe.
+
+**Do I need the fresh basil?**
+No. It's better with it but you can skip it if you don't have it. The sauce stands alone. The basil just adds a fresh thing at the end.
