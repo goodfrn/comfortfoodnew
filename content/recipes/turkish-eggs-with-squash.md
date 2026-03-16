@@ -1,10 +1,10 @@
 ---
-title: "Turkish Eggs with Roasted Squash Twist"
+title: "Egg Turkish with Delicata Squash & Goat Cheese"
 slug: "turkish-eggs-with-squash"
-description: "Roasted delicata squash slices topped with soft poached eggs, garlic-infused chili oil, creamy spiced labneh instead of yogurt, and crumbled feta swapped for tangy goat cheese. Toasted pumpkin seeds replaced with toasted pine nuts for a buttery crunch. Garnished with fresh dill and accompanied by warm naan breads. A twist on a classic, balancing soft creaminess and spice. Uses visual cues for doneness rather than strict timing. Includes practical tips for poaching eggs perfectly and managing squash texture."
-metaDescription: "Turkish Eggs with roasted delicata squash, creamy labneh, chili butter oil, goat cheese, pine nuts, dill, and warm naan breads for a bold Mediterranean spin."
-ogDescription: "Roasted delicata squash half-moons topped with poached eggs, chili butter oil, labneh, goat cheese, pine nuts, and dill. Warm naan to scoop and savor."
-focusKeyphrase: "Turkish eggs with roasted squash"
+description: "Egg Turkish features roasted delicata squash, poached eggs, labneh, goat cheese, and toasted pine nuts with chili oil. A creamy, spiced dish that's naturally elegant and utterly satisfying."
+metaDescription: "Egg Turkish recipe: roasted delicata squash, poached eggs, labneh, and goat cheese with garlic chili oil. Try it tonight."
+ogDescription: "Roasted delicata squash topped with poached eggs, creamy labneh, tangy goat cheese, toasted pine nuts, and spiced chili oil."
+focusKeyphrase: "egg turkish"
 date: 2025-08-03
 draft: false
 image: turkish-eggs-with-squash.jpg
@@ -21,9 +21,18 @@ tags:
 - "spice"
 - "roasted"
 keywords:
-- "delicata squash"
-- "chili butter oil"
-- "poached eggs"
+- "egg turkish"
+- "cilbir"
+- "turkish eggs recipe"
+- "turkish poached egg"
+- "roasted delicata squash"
+- "cilbir recipe"
+- "turkish breakfast egg"
+- "labneh eggs"
+- "goat cheese egg"
+- "turkish style eggs"
+- "poached eggs with yogurt"
+- "delicata squash recipe"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "350"
@@ -69,3 +78,108 @@ faq:
 - "q: Can other nuts replace pine nuts? a: Pumpkin seeds okay but flavor and texture differs. Toast carefully or get burnt flavor. Almond slivers possible but change buttery profile. Pine nuts give richness unique here."
 
 ---
+
+Delicata squash meets poached eggs and labneh — three things that shouldn't work together but absolutely do. This is cilbir, sort of. Turkish breakfast egg territory, anyway. Roasted instead of sautéed because the edges get better that way. Twenty-five minutes of prep, thirty in the oven, and you've got something that tastes like you spent way longer than you actually did.
+
+## Why You'll Love This Turkish Eggs Recipe
+
+Comes together in under an hour. Most of that is the oven doing the work while you poach eggs and make chili butter.
+
+Roasted squash instead of raw. Everything's caramelized, which means actual flavor instead of just texture.
+
+Works as a weekend breakfast or a light dinner. Good cold the next day too, though it's better warm.
+
+The yogurt base catches the chili oil so nothing gets wasted. Also hides the fact that you're eating something sort of healthy.
+
+Vegetarian, naturally. No meat means you can load it with cheese and butter without feeling weird about it.
+
+## What You Need for Turkish Eggs with Squash
+
+Two medium delicata squashes. Not butternut. The skin's thinner, sweeter, actually tastes good when it gets roasted.
+
+Three tablespoons olive oil split between the squash and the chili butter — one and a half for roasting, the rest for the oil that goes at the end.
+
+Four eggs. Room temperature matters. Cold eggs crack easier in hot water.
+
+One clove garlic, sliced thin. Just one. Burnt garlic is worse than no garlic.
+
+A quarter teaspoon red chili flakes. Sounds small. It's not.
+
+Two tablespoons unsalted butter. Salted butter works if that's what you have. Rinse it first, maybe. Or don't.
+
+One cup labneh. Greek yogurt if labneh's not around — the thick stuff, ten percent fat, not the thin runny kind.
+
+A third cup crumbled goat cheese. Feta works. Aged feta's better, tangier.
+
+Two tablespoons toasted pine nuts. These stay on top, no mixing. They're why the thing costs seven dollars at a restaurant.
+
+Fleur de sel. Regular salt if you don't have it. The final salt matters more than the salt while cooking.
+
+Fresh dill. A small handful. Dried doesn't work here.
+
+Four naan breads warmed. Or any bread. Pita. Flatbread. Toast if you want.
+
+## How to Make Turkish Menemen With Poached Eggs
+
+Heat the oven to 200 degrees Celsius. Middle rack. This matters. Top rack burns the edges, bottom rack steams the squash.
+
+Spread delicata slices on parchment. Toss with a tablespoon and a half of olive oil, salt, pepper. Make sure everything's separate — overlap means steamed, not roasted.
+
+Into the oven for 28 to 30 minutes. Look for the color of caramelized wood. Edges brown. Center still soft. Pierce with a fork — it slides through, but the squash doesn't fall apart. That's the moment you want.
+
+While that's going, water in a shallow pan on medium heat. Just simmering. Not a rolling boil — that breaks the eggs.
+
+Crack each egg into a spoon first, then slide it into the water gentle. Poach for four to five minutes. The white sets, the yolk stays liquid. Remove with a slotted spoon.
+
+Cold water bath for 30 seconds. Stops it cooking, helps the shell come off. The peeling's easier than you think.
+
+## How to Get Turkish Poached Egg Cilbir Crispy on the Edges
+
+Small skillet, remaining olive oil, medium heat. Add the garlic slices once the oil shimmers.
+
+Cook, stirring most of the time, until golden and crisp. Maybe three minutes. The second it looks burnt, it's already burnt. Move it to paper towels while the oil's still in the pan.
+
+Red chili flakes into that hot oil. Quick stir. Then off heat immediately. Add the butter and swirl until it melts. This chili oil is everything. It needs to stay warm but not cook further — hot butter browns fast and tastes like charcoal.
+
+The squash comes out when the edges are that specific tan that means caramelized but not burnt.
+
+## Turkish Menemen Recipe Tips and Mistakes
+
+Don't skip the cold water bath after poaching. The eggs keep cooking and the yolk goes firm, which defeats the whole point.
+
+Delicata skin isn't a mistake if some of it's soft. Actually good. Crunchier varieties of squash work too — butternut's fine, just less sweet.
+
+The labneh goes down first, smooth. This is the base. Everything sits on top of it.
+
+Squash next. Then eggs. Then cheese and nuts.
+
+The chili oil goes last, right before dill. If you drizzle it early, it gets absorbed into the labneh and disappears. If you do it last, it coats everything and you taste it in every bite.
+
+Naan's not optional if you want to eat with bread. Some people do it sauceless and that's fine, but the point is the bread soaking up the yogurt and oil at the bottom.
+
+Make this for menemen recipe searches but know it's really cilbir — poached eggs, not scrambled. Different enough that it matters.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cilbir Turkish Eggs
+
+**Can you make this ahead?**
+Roast the squash a few hours early. Poach the eggs an hour before if you have to. The chili oil should be made right before eating. Everything else comes together in maybe five minutes.
+
+**What if you don't have labneh?**
+Greek yogurt works. Sour cream works. Ricotta thinned with a splash of milk works. The point is something creamy to catch the chili oil. Don't use plain yogurt — it's too thin.
+
+**Does the poached egg have to be runny?**
+No. Five minutes is for runny. Want it more set? Six or seven minutes. Just know that's not really cilbir anymore, more like a regular poached egg situation.
+
+**Can you use a different squash?**
+Kabocha's good. Butternut's good. Acorn works but drier. Delicata's best because the skin tastes like something.
+
+**What's the deal with the fleur de sel?**
+It doesn't dissolve. Sits on top of the egg and gives you salt bursts instead of even seasoning. You can skip it and just salt while cooking, but the texture's different. Not better, just different.
+
+**How long does this keep?**
+Two days in the fridge. Reheat gently. The oil separates but stirs back in. The squash actually tastes better the next day — gets more concentrated. The egg's fine cold too, if you're into that.
+
+**Can you scramble the eggs instead of poach them?**
+That's menemen, which is the Turkish version without yogurt. Different dish. Do that if you want scrambled. This one's specifically cilbir because of the poached egg sitting on top of the yogurt.
