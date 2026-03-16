@@ -1,10 +1,10 @@
 ---
-title: "Squash Fennel Velouté"
+title: "Butternut Squash Soup with Fennel"
 slug: "squash-fennel-veloute"
-description: "Velvety butternut squash and fennel soup with hints of star anise and rosy pink peppercorns. A plant-based dish free from gluten, nuts, dairy, and eggs. Uses vegetable stock to deepen flavors. The aromatic fennel and squash soften into a silky texture. Star anise simmers gently to infuse subtle licorice notes. Pink peppercorns add brightness at finish. Parsley replaces fennel fronds for a fresh twist. Olive oil enhances mouthfeel. Roast paprika in butter for smoky depth instead of star anise. Pureed smooth, delicate, warming, balanced sweet and savory."
-metaDescription: "Squash Fennel Velouté with star anise or smoky paprika, velvety texture, fresh parsley, and pink peppercorn bursts. Rich veggie broth base, plant-based, gluten free."
-ogDescription: "Velvety butternut squash and fennel cooked slow, spiced with star anise or paprika, brightened with pink peppercorns and fresh parsley. Cozy French-inspired soup."
-focusKeyphrase: "Squash Fennel Velouté"
+description: "Silky butternut squash soup with fennel, star anise, and pink peppercorns. Velvety, plant-based, and gluten-free using vegetable broth for deep flavor."
+metaDescription: "Butternut squash soup recipe with fennel and star anise. Smooth, creamy, and naturally plant-based. Make it tonight."
+ogDescription: "Silky butternut squash and fennel soup with star anise and crushed pink peppercorns for brightness."
+focusKeyphrase: "butternut squash soup"
 date: 2025-08-27
 draft: false
 image: squash-fennel-veloute.jpg
@@ -21,9 +21,18 @@ tags:
 - "gluten free"
 - "comfort food"
 keywords:
-- "vegetable soup"
-- "star anise flavor"
-- "smoked paprika soup"
+- "butternut squash soup"
+- "butternut squash soup recipe"
+- "roasted butternut squash soup"
+- "squash soup recipe"
+- "creamy vegetable soup"
+- "plant-based squash soup"
+- "fennel soup"
+- "star anise soup"
+- "vegan butternut soup"
+- "easy butternut squash soup recipe"
+- "winter squash soup"
+- "vegetable broth soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "110"
@@ -63,3 +72,80 @@ faq:
 - "q: What if soup too thick or thin? a: Thin with broth bit by bit, or add cream/coconut cream if too watery. Too thick? Thin juices or broth help. Adjust salt after thinning. Sieving smooths texture, removes fibrous bits but optional."
 
 ---
+
+Peel the squash first — that's the annoying part. But once you do, the whole thing takes about an hour and makes enough soup to have around all week. Three vegetables. One pot. Tastes like something you'd order at a place that charges way too much for lunch.
+
+## Why You'll Love This Butternut Squash Soup
+
+Comes together in one hour total — 25 minutes prepping, 40 minutes cooking. Not checking every two seconds.
+Actually feels like comfort food. The kind you want when it's cold outside or you just feel like eating something soft that tastes like something.
+Vegan, gluten free, no weird ingredients. Fennel in there makes it taste more complex than it has any right to. Most people won't know what it is.
+Keeps for like five days in the fridge. Reheats fine. Freezes fine too — maybe add a splash of broth when you warm it back up.
+Can make it with butter or not. Nobody can tell. Works either way, which is kind of wild.
+
+## What You Need for Butternut Squash Potage
+
+Butternut squash — three cups, cubed, peeled. Gets soft fast once it heats up. Don't peel it raw unless you want to spend 20 minutes on just that.
+Fennel. One medium bulb, diced. This is the thing most people skip and shouldn't. Makes the soup taste like it has depth.
+One small onion, diced. Any kind works. White, yellow, red.
+Five cups vegetable broth. Not water. Broth matters.
+Three and a half tablespoons olive oil. Nothing fancy. The good stuff goes in at the end anyway.
+Star anise pod. One. Or smoked paprika if you don't have it — half a teaspoon. They do different things but both work.
+Pink peppercorns for the top. Crushed. Not necessary but they look nice and taste like almost-pepper.
+Fresh parsley. Chopped. The bright thing at the end.
+
+## How to Make Butternut Squash Soup
+
+Heat the oil in a big pot — heavy bottom matters because you're not browning anything, just sweating vegetables slowly. Medium heat. Drop in the onion, squash, and fennel all at once.
+
+Stir it every minute or so. You're waiting for the edges to go soft and the kitchen to smell like something's happening. Takes about 12 minutes. Onions turn kind of translucent. Squash stays mostly firm but starts to give. This part is easy to rush and it's the part you shouldn't rush.
+
+Pour in the broth. Add the star anise pod if you have it — or the smoked paprika if you don't. Bring it up to a simmer. Not a rolling boil. Just the kind of heat where bubbles break the surface slowly and keep breaking. You'll see it transition. Let it cook uncovered for 25 to 30 minutes. Everything gets fork-tender. The whole pot smells done before it is.
+
+Test with a skewer. Should slide through the squash with almost no resistance. If you feel pushback, give it five more minutes.
+
+## How to Get Butternut Soup Creamy and Smooth
+
+Pull out the star anise pod. Throw it away. Do this now or it'll end up in your blender.
+
+Work in batches. Ladle soup into a blender — don't fill it past halfway or you're cleaning hot liquid off your ceiling. Blend until velvety. And actually velvety, not chunky. This takes longer than you think. Do it properly.
+
+If you want it even smoother, pour it through a fine sieve after blending. Catches the fibrous bits that come from fennel skin. Not mandatory. But if you're serving this to someone, do it. The mouthfeel changes.
+
+Taste it now. Salt if it needs salt. If it tastes sweet and flat, hit it with black pepper or a tiny squeeze of lemon juice. If it's too thick, add more broth. This is the second time you have control over how this actually tastes — use it.
+
+## Butternut Squash Soup Tips and Common Mistakes
+
+Don't brown the vegetables in the first step. Sweating is different. Browning adds char. You don't want that here.
+
+If the squash seems watery after cooking, that's normal — it releases water as it breaks down. The blending handles it. If you end up with something that's soup-consistency but tastes diluted, you overcooked it or the broth was weak to begin with. Next time cook it a bit less or use better broth.
+
+The fennel is optional in theory. In practice, don't skip it. It's what makes this taste expensive.
+
+Serve it in warmed bowls. Cold bowls make warm soup cool down too fast and taste worse.
+
+Pink peppercorns on top. Maybe some parsley scattered. A thin drizzle of good olive oil — this is where the oil flavor actually matters. Not the cooking oil. The finishing oil.
+
+Some people add a dab of butter at the very end. Some add a splash of cream. Neither is needed. Both make it richer. Depends on what you want that day.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Butternut Squash Soup
+
+**Can I use pumpkin instead of butternut squash?**
+Pumpkin's wetter and less sweet. Soup comes out more watery and tastes flatter. Could work if you drain it and add extra broth, but squash is better here.
+
+**How long does this keep?**
+Five days in the fridge easily. Freezes for months. Thaw overnight in the fridge. Add a splash of broth when you reheat because it thickens as it sits.
+
+**Can I skip the fennel?**
+Yeah, but don't. That's the whole thing that makes it taste like more than just squash soup.
+
+**Is this actually vegan?**
+Yes. No butter, no cream, no animal products anywhere. Tastes like it though. The fennel and the technique do the heavy lifting.
+
+**What if I don't have star anise?**
+Use smoked paprika — half a teaspoon instead. Different flavor but it works. The paprika doesn't need to be removed, you just stir it in at the beginning.
+
+**Can I make this in a slow cooker?**
+Skip the sweating step. Just throw everything in. Cook on low for four hours or high for two. Then blend. It works but tastes less layered because you skipped building flavor at the start.
