@@ -1,9 +1,9 @@
 ---
-title: "Seafood Mac Cheese Reboot"
+title: "Seafood Mac and Cheese with Shrimp"
 slug: "seafood-mac-cheese"
-description: "Seafood pasta baked in a super creamy cheesy sauce that clings nicely thanks to a roux base. Pasta cooked slightly under done to avoid mushiness after baking. Onion and garlic sweated just to translucent, nothing brown. Cheese mixed off-heat to keep texture silky, not grainy. Panko topping tossed with oil and seasoning for crunch, not soggy. Baked until bubbly edges and golden top, let cool to thicken up. Substitute seafood for any firm fish or add spicy sausage for variation. Look for thickening clues not timers. Focused on aromas, surface bubbles, and golden hues as doneness signals."
-metaDescription: "Seafood Mac Cheese Reboot uses roux-based sauce, timing pasta pull, panko crunch, and off-heat cheese folding for creamy, firm layers with baked golden crust."
-ogDescription: "Creamy seafood mac and cheese with roux base, off-heat cheese stir, crunchy panko topping and baked golden edges. Timing, texture, aroma guide doneness."
+description: "Creamy seafood mac and cheese baked with shrimp, scallops, and crab in a rich cheddar-Parmesan sauce. Golden panko crust on top."
+metaDescription: "Seafood mac and cheese recipe with shrimp, scallops, and crab in creamy cheddar sauce. Baked with panko topping. Make it tonight."
+ogDescription: "Creamy baked seafood macaroni with shrimp, scallops, crab, sharp cheddar, and Parmesan. Golden panko crust."
 focusKeyphrase: "seafood mac and cheese"
 date: 2025-12-17
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "comfort food"
 - "easy dinner"
 keywords:
-- "mac cheese bake"
-- "seafood casserole"
-- "creamy cheese sauce"
+- "seafood mac and cheese"
+- "creamy mac and cheese with seafood"
+- "baked macaroni with cheddar and parmesan"
+- "seafood mac and cheese with shrimp and scallops"
+- "easy seafood pasta bake"
+- "creamy baked seafood macaroni"
+- "comfort food seafood pasta casserole"
+- "seafood mac and cheese with old bay seasoning"
+- "baked pasta with cheese"
+- "shrimp and scallops mac and cheese"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "410"
@@ -76,3 +83,100 @@ faq:
 - "q: Best way to store leftovers? a: Cool completely, cover tight to keep topping crisp. Reheat gently in oven low temp, avoid microwave for soggy topping. Freeze possible but expect texture loss in topping. Add fresh herbs after reheating to revive flavors."
 
 ---
+
+Pasta in salted water first — pull it a couple minutes before al dente. The pan finish does the rest. You want bite, not mush.
+
+## Why You'll Love This Seafood Mac and Cheese
+
+Takes 40 minutes start to finish. Shrimp, scallops, whatever you have. Actual comfort food that doesn't feel heavy after.
+
+Brownie points if you have sharp cheddar in the house already. The seafood seasoning does the work — Old Bay or whatever you've got. Not some elaborate thing.
+
+Works cold too, if you have leftovers. Tastes maybe better the next day when the flavors got to know each other.
+
+No fancy equipment. One pot for the sauce, one for pasta, one baking dish. Cleanup's fast.
+
+## What You Need for Baked Macaroni With Cheddar and Parmesan
+
+A pound of elbow macaroni. Nothing fancy. The shape matters more than the brand.
+
+Four tablespoons of butter — unsalted. Salted butter throws off seasoning math. Doesn't really matter in home cooking but might as well be honest.
+
+One small yellow onion, chopped fine. Not red. Yellow tastes sweeter when it cooks down. Garlic goes in after — two cloves, minced.
+
+Four tablespoons of all-purpose flour. This is your roux base. No substitutes here.
+
+Four cups of whole milk, warmed before you use it. Cold milk seizes up the roux and you get lumps. Takes two minutes in the microwave while you're doing other things.
+
+Sharp cheddar — three cups total, shredded. Three quarters of a cup Parmesan grated. The sharp cheddar is non-negotiable. Mild tastes like nothing in a casserole this big.
+
+A pound of mixed seafood. Shrimp, scallops, crab. Can be frozen. Thawed is fine. Don't use the tiny frozen kind — texture gets weird.
+
+Three tablespoons of olive oil for the panko topping. Pinch of nutmeg. One teaspoon of seafood seasoning — Old Bay works. Half a teaspoon white pepper. A cup and a half of panko breadcrumbs. Chives or parsley at the end, chopped.
+
+## How to Make Creamy Mac and Cheese With Seafood
+
+Heat your oven to 410 degrees. Spray a two-quart baking dish. That's it. Ready to go.
+
+Pasta goes into salted boiling water. Watch it. Pull it off heat about two minutes before you'd normally call it done — it should still fight back when you bite it. The oven finish cooks it the rest of the way. Drain it and shake it dry. Water pooling in the bottom ruins everything.
+
+Butter in a medium pan over medium heat. Add the chopped onion and garlic. Stir it around. You're looking for soft and fragrant — the onion goes translucent. This takes about three minutes. Don't let it brown. Brown onion tastes bitter and wrong.
+
+Whisk the flour in quickly. Forms a paste. That's the roux. Cook it for a minute or two, stirring constantly — you're burning off the raw flour taste. No lumps.
+
+Slowly whisk in the warm milk. Add the nutmeg. Add the seafood seasoning. Keep stirring. The whole thing thickens. You'll see tiny bubbles appear on top. It's not glue — you can drag a spoon through it and it doesn't immediate collapse back. Coat a spoon, basically. Low heat the whole time. When it looks right, pull it off heat.
+
+## How to Get the Seafood Baked Mac and Cheese Crispy and Creamy
+
+The cheese goes in next. No heat running. This is the thing people miss. Hot sauce plus cold cheese equals grainy disaster. Two cups of the cheddar and three quarters cup of the Parmesan go straight into the sauce. Stir until it melts into a glossy pool. Takes maybe a minute.
+
+Mix this cheese sauce with the hot pasta. The hot pasta matters — cold pasta won't absorb the sauce the same way. Add the seafood now. Cold seafood and hot sauce means it cooks through without being overcooked. Mix it all gently. Spread it into your baking dish evenly.
+
+For the topping: olive oil, panko, a pinch of the seafood seasoning, white pepper. Toss it in a bowl until the breadcrumbs are shiny and crumbly. The oil keeps it from drying out in the oven and adds crunch.
+
+Sprinkle the remaining cheese over the pasta first — that last cup of cheddar and quarter cup of Parmesan. Then mound the panko mix on top. Doesn't have to be even. Just cover it.
+
+Into the oven uncovered. Twenty-two minutes or so. Listen for a gentle crackle sound at the edges. Watch the color. It should go golden brown on top. Edges darken first. If it's browning too fast, lay foil loosely over it.
+
+Rest it seven minutes before serving. The sauce firms up. Flavors meld. Isn't some hot lava that burns your mouth immediately. Add fresh chives or parsley on top. Adds contrast. Adds a green note that cuts the richness.
+
+## Seafood Mac and Cheese Tips and Common Mistakes
+
+Cold pasta water pooling at the bottom dilutes the sauce. Shake your drained pasta really dry. This is the most common mistake and the easiest fix.
+
+Hot sauce plus cold cheese makes it grainy. Let the sauce cool maybe thirty seconds off heat before you add the cheese. If you already messed up, start over — grainy cheese sauce doesn't fix.
+
+The milk should be warm. Cold milk hitting the hot roux seizes it. You get lumps that don't ever fully dissolve. Warmth keeps it smooth.
+
+Don't overmix the panko topping or it clumps. Just toss until shiny. That's enough.
+
+Warm your milk while the pasta drains. Saves ten minutes and you're already standing there anyway.
+
+If you're short on seafood, swap half for firm white fish like cod. Andouille sausage works too — adds a whole different thing. The formula still holds.
+
+Half cream instead of all milk makes it richer but watch the thickening. Cream thickens faster than milk. Stir more.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Seafood Mac and Cheese With Shrimp and Scallops
+
+**Can you make this ahead and bake it later?**
+Yeah. Assemble it, cover it, stick it in the fridge. Bake it cold — add maybe five or six minutes. Or let it sit out for twenty minutes and bake it at regular time. Both work.
+
+**What if your seafood is still frozen?**
+Thaw it first. Cold frozen seafood in hot sauce lowers the temperature and throws off cooking. Not ideal.
+
+**Do you have to use sharp cheddar?**
+You don't have to. But mild tastes like nothing in a baked pasta this size. Half sharp, half mild works if you're not sure. Just don't skip the sharp entirely.
+
+**Why does the sauce break and get grainy?**
+Heat. You added cheese to a sauce that's still hot enough to scramble it. Let it cool slightly off heat. That's the only reason.
+
+**Can you substitute the seafood seasoning?**
+Old Bay's the obvious choice. Paprika and black pepper works. Garlic powder if you're desperate. The seasoning just needs to taste like the ocean a little bit.
+
+**How long does it keep?**
+Three days in the fridge covered. Reheats fine in a 350 degree oven for maybe ten minutes covered. Microwave works too but the topping gets soft.
+
+**What about freezing?**
+Don't freeze it baked. Freeze it assembled but unbaked. Thaw in the fridge overnight, then bake. Texture stays better that way.
