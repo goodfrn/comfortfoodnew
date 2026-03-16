@@ -1,10 +1,10 @@
 ---
-title: "Orange-Port Splash on Ice"
+title: "White Port Cocktail with Grapefruit"
 slug: "orange-port-splash"
-description: "A quick, refreshing mix with fortified wine, citrus twist, and subtle effervescence. Instead of Ruby or Tawny port, uses a youthful white port and bitters for complexity. Fresh grapefruit juice replaces orange juice, adding a sharp counterpoint. Perfect when chilled, ice clinks, aroma zesty. Simple yet layered. Classic citrus oils from thick peel elevate each sip. Served in a heavy tumbler, good cold, great for heat or post-meal. A twist on the traditional Porto à l’orange with added depth and fizz."
-metaDescription: "Orange-Port Splash on Ice with youthful white port, fresh grapefruit, and soda water. Crisp, zesty layers, carefully balanced bitterness and fizz for heat or after meals."
-ogDescription: "Bright citrus zing meets light fortified wine. Fresh grapefruit oil, soda sparkle, and ice melt pace this layered, aromatic sip ready anytime heat hits or night falls."
-focusKeyphrase: "Orange-Port Splash"
+description: "White port cocktail with fresh grapefruit juice, grapefruit peel, and soda water. A refreshing citrus drink that's quick to make and perfect for warm days."
+metaDescription: "White port cocktail with grapefruit juice and sparkling soda water. Fresh, zesty citrus aperitif ready in minutes. Try it tonight."
+ogDescription: "Refreshing white port and grapefruit cocktail with soda water. Citrus-forward, easy to make, perfect served ice-cold."
+focusKeyphrase: "white port cocktail with grapefruit"
 date: 2025-08-01
 draft: false
 image: orange-port-splash.jpg
@@ -21,9 +21,14 @@ tags:
 - "easy"
 - "summer"
 keywords:
-- "white port"
-- "grapefruit peel"
-- "soda water"
+- "white port cocktail with grapefruit"
+- "grapefruit juice and port wine drink"
+- "citrus cocktails"
+- "port wine drinks"
+- "refreshing citrus drinks"
+- "easy summer cocktails"
+- "sparkling cocktail with grapefruit peel"
+- "white port bitters cocktail recipe"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "150"
@@ -59,3 +64,58 @@ faq:
 - "q: Can this cocktail be stored? a: Not really. Carbonation lost fast, aromas fade hours after prep. If needed, keep refrigerated, sealed tightly, but fizz drops off. Best fresh pour. If pre-batching, keep soda separate, add at service. Rested 'cocktail' loses lift, becomes flat and dull."
 
 ---
+
+Six minutes. That's it. Pour white port over ice, add grapefruit juice, twist a peel, top with soda water—done. No shaker. No technique. Just cold and bright and ready to drink.
+
+## Why You'll Love This Orange-Port Splash
+
+Takes basically no time. Not even six minutes if you've got the juice squeezed already.
+Summer drink that doesn't feel heavy. Port's warm, soda water cuts it, citrus keeps it sharp.
+One glass. One person. Works just as well alone on a Tuesday as it does with a crowd.
+Grapefruit peel actually matters here—twist it, watch the oils hit the surface. Smells like something expensive for basically nothing.
+Easy enough that you can make it without thinking. Hard enough that it tastes intentional.
+
+## What You Need for a Citrus Aperitif with White Port and Soda Water
+
+Young white port—90 ml. Not tawny, not aged. The fresh kind. White vermouth if you can't find it.
+Grapefruit. One large one. Peel a spiral off with a vegetable peeler. Squeeze 15 ml juice fresh. Lemon works if grapefruit's gone, but grapefruit's better.
+Soda water or sparkling mineral water. 30 ml. The bubbles matter.
+Ice cubes. Proper cubes. Not crushed. Not shaved. Big enough to melt slow.
+
+## How to Make a Refreshing Citrus Drink with Port
+
+Fill a glass three-quarters full of ice. This isn't a suggestion. Three-quarters. The ratio controls everything—how fast it cools, how fast it melts, when the drink tastes finished instead of just cold.
+
+Pour the white port straight over ice. Then the grapefruit juice. Don't stir yet. Let them sit a second. This is when you smell it—that sharp citrus hit, almost tangy but bright at the same time. It matters that you notice.
+
+Drop the grapefruit peel in. But first—twist it slightly between your fingers. Not hard. Just enough to crack the oils loose. The oils go on the surface and that's where half the experience lives. Sounds dramatic. It's not. It's just how it works.
+
+## How to Get the Citrus Cocktail Crisp and Balanced
+
+Soda water goes in last. Pour it slow. Fast pour kills the bubbles before they do anything.
+
+Now one bar spoon through it. Fold once. Twice. That's all. You want uniform chill, not a shaken drink. Shaking would kill the bubbles and the aromas would disappear into nothing. One fold does what you need.
+
+Serve immediately. Look for the thin citrus oil sheen on top—you'll see it catch light. The bubbles should be lazy, lifting those lime-green hues around the edges. Drink it while the ice is still solid. That's when the dilution's perfect. That's when bitterness and sweetness actually balance instead of fighting.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Port Wine Drinks
+
+**Can I make this ahead?**
+No. Not really. The bubbles die and the aromas go flat. Make it when you're ready to drink it.
+
+**What if I don't have fresh grapefruit juice?**
+Lemon works. Not the same, but it works. Bottled grapefruit is too sweet. Don't bother.
+
+**Should I use aged or young white port?**
+Young. Aged port's too heavy here. You want bright. Aged makes it thick and dark.
+
+**Can I add bitters or anything else?**
+Could. Probably doesn't need it. The citrus is doing the work.
+
+**What if my ice melts too fast?**
+Bigger ice cubes help. Or colder glass—stick it in the freezer for a minute first. The ratio still matters more.
+
+**Is this actually a citrus aperitif or just a cocktail?**
+Both. It's light enough to drink before dinner. Fortified wine makes it more aperitif than mixer. Soda water brings it closer to a long drink. It's whatever you want to call it.
