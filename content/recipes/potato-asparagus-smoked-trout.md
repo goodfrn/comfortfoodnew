@@ -1,10 +1,10 @@
 ---
-title: "Potato Asparagus Smoked Trout Salad"
+title: "Smoked Trout Salad with Potatoes & Asparagus"
 slug: "potato-asparagus-smoked-trout"
-description: "Potatoes boiled till tender but firm. Crisp-tender asparagus tips tossed in tangy mustard-honey vinaigrette. Red onion's sharpness sliced thin, mingles with fresh chive and dill. Flakes of smoked trout replace salmon here, delicate, smoky richness. Topped with tiny spheres of trout roe for salty pops of texture. A light, fresh salad with layered flavors; no mayo or cream needed. Balanced acidity cuts through oil. A bright dish that cooks quick and looks colorful. Equally good room temp or chilled."
-metaDescription: "Potato Asparagus Smoked Trout Salad with crisp-tender asparagus, flaky smoked fish, bright mustard-maple vinaigrette, tossed gently for layered textures and flavors."
-ogDescription: "Crisp asparagus, tender fingerling potatoes, smoky trout, sharp mustard-maple dressing. Tossed light, fresh, layered flavors without mayo or cream."
-focusKeyphrase: "Potato Asparagus Smoked Trout Salad"
+description: "Smoked trout salad with fingerling potatoes, crisp asparagus, and fresh dill. Tangy mustard vinaigrette with trout roe garnish. Light, no-mayo seafood salad ready in minutes."
+metaDescription: "Smoked trout salad recipe with fingerling potatoes, asparagus tips, and mustard vinaigrette. Fresh dill and trout roe finish this elegant seafood dish. Make it tonight."
+ogDescription: "Fingerling potatoes, crisp asparagus, and shredded smoked trout tossed in mustard vinaigrette with fresh dill and trout roe."
+focusKeyphrase: "smoked trout salad"
 date: 2025-08-18
 draft: false
 image: potato-asparagus-smoked-trout.jpg
@@ -21,9 +21,18 @@ tags:
 - "asparagus"
 - "healthy"
 keywords:
-- "smoked trout"
-- "asparagus salad"
-- "potato salad"
+- "smoked trout salad"
+- "potato asparagus salad"
+- "fingerling potato salad with smoked trout"
+- "seafood potato salad"
+- "mustard vinaigrette potato salad"
+- "smoked trout with asparagus"
+- "trout roe salad"
+- "fresh dill potato salad"
+- "cold seafood salad"
+- "vinaigrette salad recipe"
+- "healthy trout recipe"
+- "elegant salad with fish"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "280"
@@ -69,3 +78,69 @@ faq:
 - "q: Can I use different herbs? a: Tarragon plus chives replace dill; no dill here. Basil or parsley possible but change flavor profile. Tarragon adds slight anise note, softer than dill’s punch. Freshness matters; dried herbs lose brightness in vinaigrette. Adjust amounts."
 
 ---
+
+Potatoes hit the boiling water first — 10 to 12 minutes, skin loose, fork clean through. The shock in ice water's the move. Keeps everything tight. Then you've got actual texture instead of mealy. Cold asparagus snaps right after, three minutes max. The mustard vinaigrette pulls it all together, not too sweet, sharp enough to cut through the richness. Smoked trout on top. Trout roe scattered over. Done in 27 minutes total.
+
+## Why You'll Love This Potato Asparagus Salad
+
+Comes together faster than you'd think — 15 minutes prep, 12 minutes cooking. Works for lunch, works for dinner, works cold the next day even better. The potatoes stay waxy and hold the dressing instead of absorbing it into nothing. Asparagus crisp. Trout adds actual protein without being heavy. Mustard vinaigrette's the thing here — bright, not too sweet, cuts through everything. No complicated techniques. Just boil, shock, dress, plate. The roe's optional but it's what makes people ask for the recipe.
+
+## What You Need for Potato Asparagus Salad
+
+Fingerling potatoes. Small ones. They cook faster and the skin stays on — that matters. Three hundred grams of asparagus tips, the tender parts. Not the tough stalks. Red onion thinly sliced — half a small one. Smoked trout fillet, shredded into flakes. About 120 grams. Fresh chives and tarragon. Not dried. Chives especially — dried tastes like nothing.
+
+For the dressing: grainy mustard, white wine vinegar, maple syrup, grapeseed oil. Salt and pepper. That's it. No lemon. Vinegar's sharper and it works better here.
+
+Trout roe for garnish — the kind that bursts when you bite it. Or salmon roe works. Optional but don't skip it. Changes the whole thing.
+
+## How to Make Potato Asparagus Salad with Smoked Trout
+
+Boil salted water. Enough to cover potatoes by two inches. Drop them in whole. Watch the skin — it loosens slightly when they're close. Fork test. Should slide through clean but not mushy. Ten to twelve minutes depending on size. You'll know.
+
+Drain. Plunge into ice water immediately. This stops the cooking. Keeps skins tight. Matters more than you'd think. When cool, drain again and cut into quarters or halves if they're tiny. Toss them in a large bowl.
+
+Meanwhile steam the asparagus. Three minutes, just until vibrant green and still snap crisp. Rinse under cold water or ice bath to stop it cooking further. Drain well. Pat dry. Water on there means the dressing won't stick.
+
+## How to Get Crisp Asparagus and the Right Mustard Vinaigrette
+
+The asparagus timing is tight. Three minutes. Not four. You want snap. Cold shock stops it dead — don't skip that part either.
+
+For the dressing: whisk mustard, vinegar, and maple syrup together in a small bowl. Slowly drizzle the oil while whisking. Emulsify it. The sharp acidity balanced with just a touch of sweet. Don't overdo the sweetness. That's where people mess up. A little maple. Not much. The vinegar should still dominate.
+
+Taste it before it hits the potatoes. Too sharp? Add a drop more maple. Too sweet? You're done. Can't fix that.
+
+Pour it over the potatoes, asparagus, thinly sliced onion, chives, and tarragon. Toss gently so the potatoes don't break apart but everything gets coated evenly. Taste again. Adjust salt and pepper now. It won't get better later.
+
+## Seafood Potato Salad Tips and Common Mistakes
+
+Don't cut the potatoes hot. Let them cool first or they'll fall apart. The ice water isn't optional — it's what keeps them firm.
+
+The asparagus needs to be dry when it hits the bowl. Water washes off the dressing. Drain it. Pat it. Then add it.
+
+Trout's delicate. Shred it gently. Big flakes look better than torn bits. If you're using pre-packaged smoked trout, squeeze any liquid out first. Soggy trout doesn't work.
+
+The vinaigrette has to emulsify. Slow drizzle. Whisk the whole time. If it breaks — if it looks separated and oily — start over with a fresh bowl. Don't try to fix it.
+
+Can chill it up to an hour before serving. But bring it back to room temperature. Cold potatoes taste like nothing. Flavors open up when they're warm.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Boiled Potato Salad with Crisp Asparagus and Trout Roe
+
+**Can I make this salad ahead?**
+Yeah. Up to an hour in the fridge. Bring it back to room temperature before serving or the potatoes taste flat. Dressing separates a little when it sits cold. Just toss it again.
+
+**What if I can't find smoked trout?**
+Smoked salmon works. Mackeral works. Actually any smoked fish works. Adjust the amount based on how smoky you want it. Trout's subtle. Salmon's stronger. Go lighter with it.
+
+**Do I have to use grapeseed oil?**
+No. Olive oil works but it's more assertive. Avocado oil's fine too. Just don't use walnut oil — too heavy for this. Something neutral or light. The vinegar needs to sing.
+
+**What's the deal with the ice water for potatoes?**
+Stops the cooking immediately. Keeps them from going mushy. The skin stays tight and the inside stays waxy instead of mealy. It's the difference between a good potato salad and one that falls apart. Do it.
+
+**Can I skip the maple syrup in the vinaigrette?**
+Could. But the salad gets sharp without it. Not balanced. A teaspoon's not much. That's all you need. If you hate maple, a touch of honey works instead.
+
+**Is the trout roe necessary?**
+No. But it's what makes people want the recipe. The burst of salt and brine against the soft potato. Worth it if you can find it. If not — the salad's still good. Just different.
