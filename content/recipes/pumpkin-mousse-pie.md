@@ -1,10 +1,10 @@
 ---
-title: "Pumpkin Mousse Pie Remix"
+title: "Canned Pumpkin Pie Recipe No Bake"
 slug: "pumpkin-mousse-pie"
-description: "A chilled pumpkin mousse pie with a graham cracker crust tweaked for texture and flavor. Uses crushed digestive biscuits instead of graham crackers for a less sweet, nuttier base. Brown sugar swapped for coconut sugar to add caramel notes. Incorporates a hint of cardamom with traditional pumpkin pie spice. Cream cheese and pumpkin puree mousse folded with a moderate amount of whipped topping for airy yet firm texture. Freezing the crust before filling keeps it crisp even after refrigeration. Garnished with extra whipped topping and cinnamon. Silent fridge patience pays off here – mousse sets visually and feels light to touch. Substitutions and knowledge shared for kitchen wins and to dodge soggy crusts, overly sweet filling, or flat mousse."
-metaDescription: "Pumpkin Mousse Pie Remix with crunchy digestive biscuit crust, cardamom twist, coconut sugar caramel tones, and airy whipped cream mousse chilled to firm lightness."
-ogDescription: "Chilled pumpkin mousse pie with crumbly digestive biscuit crust, subtle cardamom, coconut sugar base, and whipped cream for airy texture. Cool, wait, enjoy."
-focusKeyphrase: "pumpkin mousse pie"
+description: "No bake pumpkin pie with canned pumpkin puree, cream cheese mousse, and digestive biscuit crust. Coconut sugar and cardamom add depth to this easy, make-ahead dessert."
+metaDescription: "No bake pumpkin pie with canned pumpkin puree and cream cheese mousse. Digestive biscuit crust, whipped topping, and cardamom. Try it tonight."
+ogDescription: "Easy no bake pumpkin cheesecake with canned pumpkin, cream cheese, and a nutty digestive biscuit crust. Make it tonight."
+focusKeyphrase: "canned pumpkin pie recipe"
 date: 2025-11-11
 draft: false
 image: pumpkin-mousse-pie.jpg
@@ -21,9 +21,18 @@ tags:
 - "no bake"
 - "fall"
 keywords:
-- "pumpkin mousse"
-- "coconut sugar pie"
-- "no-bake pumpkin dessert"
+- "canned pumpkin pie recipe"
+- "no bake pumpkin cheesecake"
+- "pumpkin mousse pie"
+- "no bake pumpkin pie"
+- "pumpkin and cream cheese pie recipes"
+- "bakeless pumpkin cheesecake"
+- "pumpkin pie filling recipe"
+- "pumpkin mousse recipe"
+- "homemade pumpkin pie filling"
+- "no cook pumpkin cheesecake"
+- "pumpkin pie no bake recipe"
+- "unbaked pumpkin cheesecake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "290"
@@ -75,3 +84,96 @@ faq:
 - "q: How long keep leftovers? a: Best eaten within 2 days. Keep pie tightly wrapped to avoid fridge odors. Can freeze but texture may change; thaw slowly in fridge overnight. Mousse quality drops after multiple temperature changes."
 
 ---
+
+Digest the biscuits first—30 seconds, food processor, until mostly fine but still chunky in spots. That texture matters. Mix the melted butter and coconut sugar into the crumbs until it feels like wet sand. Not soggy. Not dry either. Press it into the pie dish firmly—bottom and halfway up the sides. Damp fingers work better than anything else. Freeze it while you do the rest. This step stops the sogginess later.
+
+## Why You'll Love This No Bake Pumpkin Cheesecake
+
+Takes 25 minutes hands-on. Everything else is waiting. No oven. No stress about baking times or overdone edges. Just chill it.
+
+Tastes like fall in a single bite—the pumpkin, the spices, the cream cheese tang underneath. But lighter than regular pie. The whipped cream folded through makes it almost mousse-like. Dense but not heavy.
+
+Works year-round, honestly. Most people think pumpkin is only for October. They're wrong. Make it in July if you want.
+
+Crust doesn't get soggy like it does with baked pies. The freezing stops that. You get actual texture at the bottom after six hours instead of a wet crumb situation.
+
+No bake means no heating the kitchen. Summer dessert, fall dessert, whenever. Doesn't matter.
+
+## Bakeless Pumpkin Cheesecake Ingredients
+
+Digestive biscuits—250g. Graham crackers work if that's what you have, but reduce the sugar in the crust slightly because grahams are already sweet. Crumbly texture is the goal.
+
+Unsalted butter. 110g melted. Not cold. Not hot. Just melted and pourable.
+
+Coconut sugar for the crust—50g. Brown sugar does the same job. One or the other.
+
+Cream cheese. 225g. Room temperature. This matters more than you think. Cold cream cheese makes lumps. Soft cream cheese blends smooth. Wait for it to actually soften instead of using it straight from the fridge.
+
+Pumpkin puree. 425g canned. Fresh cooked works too but canned is simpler. Just make sure it's puree and not pie filling—pie filling already has sugar and spices in it.
+
+Brown sugar for the mousse—75g.
+
+Vanilla extract. One teaspoon.
+
+Pumpkin pie spice. One teaspoon. And if you want to get weird with it, a quarter teaspoon of ground cardamom adds something. Not required. But good.
+
+Whipped cream. Four cups total. You fold two in, spread two on top at the end. Either homemade or the canned stuff. If homemade, whip it to soft peaks. Stiff peaks make the whole thing dense.
+
+Cinnamon for garnish. Dust it on before serving. Aroma and slight bite.
+
+## How to Make No Bake Pumpkin Pie Filling
+
+Combine the cream cheese and pumpkin puree in a mixer bowl or with a hand mixer. Low speed. Watch for lumps—you want it fully blended but no overmixing because you need air in this. Stop when it's smooth. Scrape the sides once.
+
+Add the brown sugar, vanilla, pumpkin pie spice, and the cardamom if you're using it. Mix gently. Low speed still. Keep it uniform.
+
+Fold in two cups of whipped cream with a rubber spatula. This is the part where patience helps. Fold carefully. You want light and airy but the mousse still needs to hold its shape. Overfold and it deflates.
+
+## How to Get Cheesecake Pumpkin Pie Perfectly Firm
+
+Pull the crust out of the freezer. Should be firm to touch, slightly frosty but not rock-hard icy.
+
+Spoon the mousse into the crust. Smooth the top with a spatula or the back of a spoon. No air pockets. Should sit even.
+
+Cover with plastic wrap. Refrigerate at least six hours. Ideally overnight. Don't rush this. The mousse firms up. The crust absorbs just enough moisture without going soggy. That balance takes time.
+
+When you're ready to serve, spread the remaining two cups of whipped cream on top. Generous layer but neat. Dust with cinnamon.
+
+## No Cook Pumpkin Cheesecake Tips and Common Mistakes
+
+Room temperature cream cheese is non-negotiable. Cold cream cheese gives you lumps. Actually wait for it to soften. It takes maybe 30 minutes on the counter.
+
+If the mousse is too runny after folding the whipped cream, refrigerate longer. Cold sets it. Air bubbles trap better cold. If it's still soft after six hours, add a tablespoon of instant vanilla pudding mix next time—that helps it firm up without changing the flavor much.
+
+The crust freezing step isn't optional. It stops everything from turning into a wet mess. Trust it.
+
+Watch your whipped cream brand. Some stabilize better than others. Homemade is fine but whip it only to soft peaks, not stiff. Stiff peaks make the whole mousse dense and heavy.
+
+Store it covered in the fridge. Best within two days for the freshest texture. After that it's still fine but the whipped cream starts to weep a little.
+
+The digestive biscuit texture—those slightly bigger bits matter. Don't over-pulse them into fine flour. You want some actual chunks in there for bite.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pumpkin Pie Recipe With Canned Pumpkin
+
+**Can I make this pumpkin no bake cheesecake recipe ahead of time?**
+Yes. Make it the day before. Keeps fine covered in the fridge for two days. Just don't add the whipped cream topping until you're ready to serve. That stays fresher that way.
+
+**What if I don't have digestive biscuits for this bakeless pumpkin pie?**
+Graham crackers work. Vanilla wafers work. Even ginger snaps if you want it spiced differently. Just reduce the crust sugar slightly if you go with something sweeter than digestives.
+
+**Is there a difference between canned pumpkin and pumpkin pie filling for this recipe?**
+Big difference. Pie filling already has sugar and spices. Use straight puree only. Check the label—should say "100% pumpkin" or "pumpkin puree," not "pie filling."
+
+**How long does this unbaked pumpkin cheesecake actually need to chill?**
+Minimum six hours. Overnight is better. The mousse needs time to set. The crust needs time to absorb moisture without getting soggy. Rushing it means it'll be too soft when you slice it.
+
+**Can I use cool whip instead of fresh whipped cream for this no bake pumpkin cheese cake?**
+Yeah. Cool whip works fine. Some people prefer it because it's more stable. Homemade is lighter but doesn't hold up as long in the fridge. Either way works.
+
+**What if my cheesecake pumpkin pie is too soft after chilling?**
+Refrigerate longer. Cold helps. If it's been six hours and still runny, add a tablespoon of instant vanilla pudding mix to the mousse next time—stabilizes it without changing the flavor. And make sure your whipped cream was only whipped to soft peaks, not stiff.
+
+**Can I freeze this no bake pumpkin pie dessert?**
+Not recommended. The whipped cream texture suffers. The crust gets weird. Make it fresh and eat it within two days.
