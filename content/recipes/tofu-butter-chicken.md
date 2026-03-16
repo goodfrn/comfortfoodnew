@@ -1,10 +1,10 @@
 ---
-title: "Tofu Butter Chicken Style"
+title: "Butter Chicken with Tofu and Cream Sauce"
 slug: "tofu-butter-chicken"
-description: "Tofu cooked like butter chicken with rich spices and creamy tomato sauce. Onion, garlic, ginger soften in butter, spices bloom releasing aroma. Tomatoes and cream add depth. Tofu blanched then seared until golden crust. Sauce blended smooth, simmered thick. Garnished with cilantro, served with rice or naan. Adapted for vegetarian diets, no nuts, gluten, or eggs. Perfect texture balance, spicy and creamy harmony."
-metaDescription: "Tofu simmered in spiced buttery tomato sauce with garlic, ginger, and cream. Blanched, seared cubes for texture. Cilantro finish. Vegetarian, no nuts or gluten."
-ogDescription: "Blanched tofu seared to golden crust, simmered in creamy tomato sauce spiked with garlic, ginger, red pepper flakes. Garnished cilantro. Vegetarian, hearty."
-focusKeyphrase: "Tofu Butter Chicken Style"
+description: "Butter chicken made with firm tofu, creamy tomato sauce, and warm spices. Onion, garlic, ginger, and paprika create rich flavor. Serve with rice or naan."
+metaDescription: "Butter chicken recipe with firm tofu, heavy cream, and aromatic spices. Quick-seared tofu in rich tomato sauce. Try it tonight."
+ogDescription: "Tofu butter chicken with creamy tomato sauce, butter, paprika, and fresh cilantro. Spiced, creamy, and satisfying."
+focusKeyphrase: "butter chicken"
 date: 2025-09-25
 draft: false
 image: tofu-butter-chicken.jpg
@@ -20,9 +20,18 @@ tags:
 - "spicy"
 - "vegetarian"
 keywords:
-- "tofu butter chicken"
-- "vegetarian Indian"
-- "tofu curry recipe"
+- "butter chicken"
+- "butter chicken recipe"
+- "butter chicken curry"
+- "indian butter chicken"
+- "makhani chicken"
+- "butter chicken masala"
+- "chicken makhani"
+- "simple butter chicken recipe"
+- "butter chicken ingredients"
+- "butter chicken and naan"
+- "slow cooker butter chicken"
+- "indian chicken makhani"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -78,3 +87,79 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in sealed container. Reheat on low, stir often. Sauce thickens when cold, add splash water or cream while warming to loosen texture. Avoid high heat to stop cream from splitting."
 
 ---
+
+Melt butter in a large skillet over medium heat. Onion, garlic, ginger, red pepper flakes go in—watch the edges brown slightly, takes about 5 minutes. Smoked paprika and curry powder next, stir for a minute until it smells sharp and earthy. Add the canned tomatoes, water, tomato paste. Let it boil, then simmer gently for 12 minutes. The whole thing thickens. Smash it with a potato masher until it's kind of smooth but still chunky. Cool for a second, then swirl in the cream on low heat.
+
+## Why You'll Love This Butter Chicken
+
+Takes 60 minutes total—25 minutes prep, 35 minutes cooking—and most of that's just waiting.
+Works as a vegetarian butter chicken because the tofu absorbs every bit of that spiced sauce like it's meant to. Not weird. Tastes like the real thing.
+The spices bloom in hot butter first. That's the trick. Doesn't taste like spice powder got dumped in water.
+Leftovers are better the next day. The cream settles, flavors kind of meld overnight.
+Not hard to mess up. Heat's low mostly. You're not stressing.
+
+## What You Need for Butter Chicken with Tofu
+
+One medium onion, chopped fine. Two cloves garlic, minced. Fresh ginger—a tablespoon. Red pepper flakes if you want heat, a quarter teaspoon. Unsalted butter, three tablespoons total. Smoked paprika and curry powder, a teaspoon and a half each. Nutmeg, just a pinch. A can of diced tomatoes and a tablespoon of tomato paste. Water—a cup and a half. Heavy cream or 15% cooking cream, three quarters of a cup. Firm tofu, about a pound and a third, cubed. Fresh cilantro for the end.
+
+The butter matters here. Don't use salted. The spices need to bloom in clean butter or they taste muted. Smoked paprika over regular—it's earthier, not just color. Curry powder instead of garam masala gives you something more versatile, less complex, but it works. The cream is the finish. Heavy cream tastes richer. Lighter cream still works if that's what you have.
+
+## How to Make Butter Chicken
+
+Heat butter in a large skillet over medium heat. Toss in the onion, garlic, ginger, and crushed red pepper. Watch it. The edges should brown slightly after about five minutes. Sprinkle the smoked paprika, curry powder, and nutmeg. Stir for a minute—the kitchen should smell sharp and earthy now, kind of warm. This step matters. Don't skip the toasting.
+
+Add the canned tomatoes, water, and tomato paste. Bring it to a boil. Then lower the heat and let it simmer gently for twelve minutes. The sauce thickens. Bubbles at the edges. The color deepens.
+
+Remove from heat. Take a potato masher and smash the sauce until it's mostly smooth but still has some chunks. That's fine. Pour it back on low heat and swirl in the cream. Simmer for four minutes—the sauce gets velvety. Taste it. Add salt and pepper until the brightness and spice balance out. Keep it warm.
+
+## How to Get Perfect Tofu Texture in Butter Chicken
+
+While the sauce simmers, boil salted water in a separate pot. Drop the tofu cubes in for six minutes. They firm up inside but don't get rubbery. Drain them and pat dry—really dry—with paper towels. Water is the enemy of browning.
+
+Melt butter in another skillet on medium-high. Lay the tofu cubes in a single layer. Don't crowd the pan or they steam instead of brown. Let them sit without moving until a golden crust forms on one side. That takes a few minutes. Turn them gently and brown the other sides. The whole thing is about eight minutes. That crust means texture contrast. No soggy tofu.
+
+Add the tofu to the warm sauce. Nestle the cubes in gently. Simmer together for four minutes. The tofu soaks up the flavor. Sprinkle cilantro on top. Serve with basmati rice or naan. Steamed greens or roasted cauliflower on the side if you want something light.
+
+## Butter Chicken Tips and Common Mistakes
+
+The tofu texture is critical. Firm tofu, not soft or extra-firm. If you grab extra-firm, press it first to get water out. The initial boiling firms the inside and kills that beany taste. Don't skip it.
+
+Spices burn fast in hot butter. Don't rush the toasting step or they turn bitter. A minute is enough. Not five.
+
+The sauce smashing isn't just looks—it breaks up sharp tomato seeds and makes the texture uniform. Chunky is fine too if you prefer it.
+
+Overcrowding the tofu in the pan means no crust. Work in batches or use a bigger skillet. Dry the tofu well or butter splatters everywhere.
+
+Cream curdles if you reheat too hot. Go low and slow. Sometimes the sauce thickens too much the next day. Add a splash of cream or water to loosen it. Taste after. It might need salt again.
+
+Curry powder versus garam masala—curry is milder and more earthy. Garam masala is warmer and complex. Either works. Curry is just more forgiving if you're new to this.
+
+If no fresh ginger, frozen works. Use a tiny bit less. The flavor's sharper. Adjust by taste.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Butter Chicken
+
+**Can you make this butter chicken recipe without cream?**
+Sort of. The sauce gets thinner and less velvety but it still works. Add another half cup of water or use coconut cream instead. Heavy cream is better though.
+
+**How long does butter chicken keep in the fridge?**
+Four days, easy. Keep it in an airtight container. Reheat on low heat or it breaks. Stir it constantly. Sometimes it needs a splash of water if it's thickened up too much.
+
+**What if you don't have firm tofu?**
+Don't use soft tofu. It falls apart. Extra-firm works if you press it well first—wrap it in a towel, sit something heavy on top for 30 minutes. Gets the water out. Then it browns fine.
+
+**Can you make this butter chicken in a slow cooker?**
+Make the sauce on the stove first. Toast the spices in the butter, add everything through the cream. Then transfer to the slow cooker. Cook the tofu separately and add it at the end—15 minutes on low. Don't slow cook the tofu or it gets mushy.
+
+**Is this butter chicken vegetarian?**
+Yes. It's already vegetarian. The tofu is the protein. You're not missing anything meat-wise. Tastes complete.
+
+**Can you freeze butter chicken leftovers?**
+Freeze the sauce and tofu together. It holds fine. Thaw it overnight in the fridge, reheat on low. The cream might separate a tiny bit but tastes the same. Stir it back together.
+
+**What if the sauce is too spicy?**
+Add more cream. And butter. Both calm down heat. A pinch of sugar works too if you have it. Start small—a half teaspoon.
+
+**Should you stir the sauce while it simmers?**
+Occasional stir is fine. Doesn't need constant attention. Just make sure nothing sticks to the bottom.
