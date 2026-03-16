@@ -1,10 +1,10 @@
 ---
-title: "Spiced Cocoa Vanilla Shortbreads"
+title: "Rolled Out Sugar Cookie Recipe with Hazelnut"
 slug: "spiced-cocoa-shortbreads"
-description: "Butter-rich vanilla dough rolled with a spicy cocoa crumble and hazelnut-chocolate spread. Cassonade swapped with coconut sugar; cayenne swapped for smoked paprika. Four logs chilled, sliced, baked to light golden edges. Textural contrast of soft crumb, crisp edges. Notes on dough cracks and freezing. Recipe about layering flavors and tactile cues during preparation and baking. Original quantities altered by 30 percent total. Techniques highlighted include dough shaping, rolling, and ideal slice thickness. Aroma cues important – cinnamon and smoked paprika fill kitchen. Oven rack positioning critical for even bake. Results about 5 dozen cookies or 4 logs sliced generously."
-metaDescription: "Spiced Cocoa Vanilla Shortbreads with tender vanilla dough rolled around spicy cocoa crumble and hazelnut spread, baked to golden edges. Rustic, fragrant bites."
-ogDescription: "Tender vanilla dough rolled with spicy cocoa crumble and hazelnut spread, baked golden. Aromas of cinnamon and smoky paprika fill the air. Slice thick or thin."
-focusKeyphrase: "Spiced Cocoa Vanilla Shortbreads"
+description: "Buttery vanilla sugar cookies rolled with spiced cocoa crumble and hazelnut-chocolate spread. Coconut sugar and smoked paprika add depth to this textured treat."
+metaDescription: "Rolled out sugar cookie recipe with hazelnut-chocolate spread, cocoa crumble, and warm spices. Crispy edges, soft centers. Make it tonight."
+ogDescription: "Vanilla sugar cookies with hazelnut-chocolate filling and spiced cocoa crumble. Golden, crispy edges with soft centers."
+focusKeyphrase: "rolled out sugar cookie recipe"
 date: 2025-08-16
 draft: false
 image: spiced-cocoa-shortbreads.jpg
@@ -21,9 +21,18 @@ tags:
 - "hazelnut"
 - "vanilla"
 keywords:
-- "shortbread"
-- "spiced cocoa"
-- "hazelnut filling"
+- "rolled out sugar cookie recipe"
+- "rolling cookie"
+- "chocolate hazelnut cookies"
+- "rolled cookie dough"
+- "hazelnut cookie recipes"
+- "rolling out sugar cookies"
+- "sugar cookie roll"
+- "cocoa hazelnut cookies"
+- "vanilla shortbread cookies"
+- "hazelnut shortbread cookie"
+- "roll out cookie recipe"
+- "chocolate hazelnut cookie recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "160"
@@ -100,3 +109,110 @@ faq:
 - "q: How long keep cookies stored? a: Store baked cookies airtight room temp 3 days max; they lose crispness after. Freeze baked for 1-2 weeks, wrapped well. Dough store frozen before baking longer, thaw fully before baking. Avoid moisture exposure; crumble soggy ruins crumb structure. Realistically, eat fast or freeze slices early."
 
 ---
+
+Butter creams. Powdered sugar goes in. Then the egg, then vanilla. This is how rolled out sugar cookies start—soft dough that needs time before it even touches a rolling pin. Forty-five minutes of mixing and resting before you roll anything out. Not complicated, but it's got steps.
+
+## Why You'll Love This Chocolate Hazelnut Cookies Recipe
+
+Takes an hour-ten total but most of that's chilling. Actual work? Twenty minutes, maybe thirty if you're slow with the knife.
+
+The spiced cocoa crumble. Cinnamon, ginger, orange zest—it's doing something. Not like regular sugar cookies. Has an edge to it.
+
+They're buttery the way shortbread is buttery. Vanilla dough, hazelnut chocolate spread trapped inside, crumble pressing into it. Works cold. Works room temp. Works with coffee or just standing in the kitchen at midnight.
+
+Freezes perfectly. Roll it out today, bake it in two weeks. Not many cookies do that without tasting stale.
+
+## What You Need for Chocolate Hazelnut Biscuit
+
+Butter—unsalted, softened. Not warm. Softened. Big difference. Powdered sugar sifted. Lumps don't disappear once they're in the dough.
+
+One egg. That's it. Adds moisture. Helps bind. Don't skip it unless you have to.
+
+All-purpose flour. Sea salt—small amount but salt matters here. Vanilla extract. Five milliliters. Don't eyeball it.
+
+The crumble part: coconut sugar (darker, deeper than brown), more flour, softened butter again, unsweetened cocoa powder, cinnamon, ground ginger, smoked paprika—optional but worth it, orange zest. This is the thing that makes it work. Zest from one medium orange. Not extract. Actual zest.
+
+Hazelnut-chocolate spread. Nutella or whatever version you have. Toasted hazelnuts if you want them, chopped fine. Optional.
+
+## How to Make Rolled Out Sugar Cookies
+
+Cream the butter and powdered sugar. Use a mixer. Medium speed. Watch it—takes maybe three minutes until it's light and fluffy. Sides of the bowl get stuck. Scrape it down. That fluffiness is air. Air makes the cookie tender.
+
+Beat in the egg. Then vanilla. Keep it on medium. Just until combined. Don't whip it like you're angry.
+
+Switch to low. Add flour and salt slowly. Mix just until you can't see white streaks anymore. Stop there. Overmixing toughens it. The dough holds together but it's not smooth like play-dough. That's right.
+
+Divide it into four pieces. Rough squares. Six inches across. Wrap each one in plastic. Put them in the fridge. Seventy-five minutes minimum. Longer is fine. This solidifies the fat. Hydrates the flour. Makes rolling easier.
+
+While that's happening, make the crumble. Same bowl works. Toss in the coconut sugar, flour, softened butter, cocoa powder, cinnamon, ginger, paprika, salt, orange zest. Medium speed on the mixer. It should be crumbly. Sandy. Small clumps here and there but not a paste. Leave it covered at room temp.
+
+## How to Get Rolled Cookie Dough Crispy and Perfect
+
+Pull one dough square from the fridge. Lightly floured surface. Roll it gently to a twenty-centimeter square. If it sticks, parchment underneath helps. Dust sparingly. Don't use too much flour—it dries the edges.
+
+Spread hazelnut spread on the bottom. One tablespoon-ish. Don't go all the way to the top edge. Leave two centimeters free at the top. That's how you seal the roll without spread leaking.
+
+Sprinkle the cocoa crumble over it. Fifty-five grams, give or take. Press it gently into the spread. Don't mash. You want texture to stay.
+
+Use the parchment to lift the bottom edge. Roll it upward slowly. Tight enough that crumble stays inside, loose enough that you're not squishing it. You end up with a cylinder. Five centimeters across, roughly.
+
+Pinch the seam tight. Use parchment to roll it on the counter. Smooths the shape. Rounds it out. Wrap it in plastic. Two hours minimum chill time. Overnight is better. Can freeze it here for up to a month.
+
+Repeat with the other three pieces of dough.
+
+Preheat oven to 175°C (347°F), middle rack.
+
+Sharp serrated knife. Dull knives squash the crumb. Slice the rolls into one-point-three centimeter thick discs. About half an inch. Rotate the knife gently. Saw motion. Don't press down like you're chopping.
+
+Arrange them on a lined baking sheet. Three centimeters apart. They'll spread slightly. Air circulation is crucial.
+
+Bake twelve to fifteen minutes. Edges go golden. Faint crackle sound when you tap one. Bottoms get brown. Smell toasted butter and spices.
+
+Watch the cues, not the clock. Overbaking dries it. Underbaking leaves the center too soft. Cool on the sheet ten minutes. Then transfer. They firm up while they cool.
+
+## Rolled Cookie Dough Tips and Common Mistakes
+
+Cracks on the surface while rolling. Normal. Dough's low moisture. Either chill it longer or add a teaspoon of cold water, knead it briefly, try again.
+
+Coconut sugar versus brown sugar. Coconut's deeper. Darker. Better caramel flavor. Brown works if that's what you have. Texture changes slightly. Not worse, just different.
+
+Smoked paprika. Optional. Adds smoky warmth without being hot. Cayenne's spicier. Risks drowning out the orange. Try smoked first.
+
+Can't slice cleanly. Freeze the roll thirty minutes. Keep the knife cold. Wet blade. Cleaner cuts. It's a real thing.
+
+Too soft after cooling. Not a mistake. Just how these are. They crunch on the outside, soft inside. If you need them crispy all the way through, bake another two minutes next time.
+
+Leftover hazelnut spread. Drizzle it on the warm cookies before they cool. Extra glaze. Works.
+
+Orange zest is non-negotiable. Extract doesn't do the same thing. Actual zest. That brightness. Don't skip it.
+
+Thickness matters. Thinner slices crisp faster. Thicker ones need patience. Pick a thickness and stick with it.
+
+Hot spots in your oven. Turn the sheet mid-bake. Watch for uneven browning. Fix as you go.
+
+These are buttery. Spice-rich. Heat's subtle. Hazelnut chocolate spread is the center point. Crumble texture. Vanilla shortbread base. It's a lot happening in a small cookie.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Rolling Cookie Dough
+
+**Can I make the hazelnut cookie recipes ahead of time?**
+Yeah. Roll and chill up to a month. Slice and bake fresh. Or bake them fully, store three days room temp airtight, freeze up to two weeks. Either way works.
+
+**What if I don't have cocoa powder for the spiced crumble?**
+Don't bother with a substitute. The cocoa is the thing. Skip the crumble entirely or do a cinnamon-ginger-orange version without it. Different cookie, still good.
+
+**Why does my chocolate hazelnut cookies dough crack when I roll it out?**
+Low moisture. Normal. Chill it longer—ninety minutes instead of seventy-five. Or add a teaspoon of cold water, knead it barely, try again. Humidity affects it too. Drier air, more cracks. Doesn't matter. Cracks don't hurt the final cookie.
+
+**How do I know when the rolled out sugar cookies are done baking?**
+Golden edges. Bottoms brown and toasted-looking. Tap one gently—faint crackle sound. That's done. The center will look barely set. That's right. It firms up while cooling. Overbaked means hard. Just watch the smell—toasted butter and spice. You'll know.
+
+**Can I use brown sugar instead of coconut sugar in the crumble?**
+Yeah. Expect slightly less depth, a bit more moisture. Texture changes slightly. Not worse. Still works. Coconut sugar's darker—gives more caramel flavor—but brown's fine.
+
+**Why is the orange zest important in this chocolate hazelnut biscuit recipe?**
+Brightness. The cocoa and hazelnut and spice are heavy. Orange zest cuts through it. Without it, it tastes flat. One medium orange's worth of zest. That's the amount. Don't skip it or extract it. Actual zest.
+
+**How thick should I slice the rolled cookie dough?**
+One-point-three centimeters. About half an inch. Thinner slices bake faster and crisp more. Thicker slices need a minute or two longer. Pick one thickness and stick with it. Consistency matters more than the exact size.
