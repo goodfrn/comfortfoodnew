@@ -1,10 +1,10 @@
 ---
 title: "Roasted Sweet Potato Broccoli Salad"
 slug: "roasted-sweet-potato-salad"
-description: "Chunks of roasted sweet potatoes teamed with tender-crisp broccoli and charred corn kernels. A vibrant combo of radishes and scallions tossed in a tangy, slightly sweet tangy dressing. Shredded cooked chicken folded in, with a bright sprinkle of toasted cashews and fresh herbs. Lime wedges add sharp citrus edge while a dollop of spicy commercial mayo brings creamy heat. Roasting sweet potatoes just right means soft inside, edges browning, a whisper of caramelization. Broccoli and corn quick-blanched then briefly marinated for brightness. Simple tweaks replace traditional ingredients with punchier alternatives for freshness and unexpected texture contrasts."
-metaDescription: "Roasted Sweet Potato Broccoli Salad with tender asparagus, tangy tamarind dressing, spicy chipotle mayo, and toasted cashews for crunch and sharp herbal notes."
-ogDescription: "Chunks of roasted sweet potatoes, crisp broccoli, spicy chipotle mayo, and marinated veggies tossed in tangy tamarind sauce with fresh herbs and crunchy nuts."
-focusKeyphrase: "Roasted sweet potato broccoli salad"
+description: "Roasted sweet potato broccoli salad with tender asparagus, radishes, and shredded chicken tossed in tangy tamarind dressing. Topped with cashews and fresh basil."
+metaDescription: "Roasted sweet potato broccoli salad recipe with asparagus, chicken, and spicy tamarind sauce. Fresh, protein-packed, and ready in 30 minutes. Make it tonight."
+ogDescription: "Sweet potato broccoli salad with roasted vegetables, chicken, and Thai tamarind dressing. Crunchy cashews and fresh basil. Make it tonight."
+focusKeyphrase: "roasted sweet potato broccoli salad"
 date: 2025-08-05
 draft: false
 image: roasted-sweet-potato-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "healthy"
 - "summer"
 keywords:
-- "sweet potato salad"
-- "broccoli salad"
-- "asparagus salad"
+- "roasted sweet potato broccoli salad"
+- "healthy roasted sweet potato salad"
+- "chicken salad with roasted vegetables"
+- "roasted sweet potato salad with thai dressing"
+- "summer chicken salad recipe"
+- "roasted vegetable salad"
+- "roasted vegetables with sriracha mayo"
+- "sweet potato asparagus salad"
+- "tamarind dressing salad"
+- "roasted sweet potato recipe"
+- "protein salad with roasted vegetables"
+- "cashew broccoli salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -70,3 +79,104 @@ faq:
 - "q: How to store leftovers? a: Keep components separate if possible. Roast potatoes reheat better than cold, can microwave or briefly oven-warm. Salad stays fresher refrigerated for 1-2 days but loses crunch fast. Mayo or sauce mixed late helps with texture retention. Lemon wedges keep fresh flavor but squeeze only before eating to avoid limpness."
 
 ---
+
+Preheat to 400. Sweet potatoes on a pan with oil, salt, pepper. Twenty minutes while you do everything else.
+
+## Why You'll Love This Roasted Sweet Potato Broccoli Salad
+
+Takes just over an hour total. Most of that's hands-off roasting time.
+Works for lunch the next day. Cold or room temp. Actually better cold.
+Healthy enough to feel good about it. Protein from chicken, vegetables that don't taste like punishment. Summer salad that doesn't wilt.
+One pan for the potatoes. One bowl for the rest. Not much cleanup.
+The tamarind dressing tastes complicated. Isn't. Takes five minutes.
+
+## What You Need for Roasted Sweet Potato Broccoli Salad
+
+Three medium sweet potatoes. Cut them big — not cubes. Chunks. Rough sizes work fine, some larger than others.
+
+Twenty-five milliliters of vegetable oil. Sunflower works too. Not olive. Burns at this heat.
+
+Broccoli florets. Chopped small. A hundred eighty grams. Fresh. The frozen stuff gets mushy.
+
+Asparagus tips. A hundred fifty grams. Fresh and blanched. Just a minute in boiling water. Not longer.
+
+Six radishes. Slice them thin after you quarter them. Gets you those pink rounds that stay crisp.
+
+Three scallions. The white and light green parts mostly. Slice thin.
+
+Sixty milliliters of spicy Thai tamarind sauce. Store-bought works. Or make nuoc-cham at home — it's just tamarind, fish sauce, lime, sugar, and heat.
+
+A hundred fifty grams of shredded chicken. Leftover turkey works. Rotisserie is easier. Deli chicken if you need it fast.
+
+Spicy chipotle mayo or sriracha mayo. As much as you want heat-wise. You control this part.
+
+Forty grams of fresh basil. Stems and all. Mint works if basil's gone. Cilantro too.
+
+Fifty grams of roasted cashews. Rough chop them. Toast them yourself if you want more flavor. Pepitas work instead. Peanuts. Whatever nut you have.
+
+One large lemon. Quarters. You squeeze it at the end.
+
+## How to Make Roasted Sweet Potato Broccoli Salad
+
+Set your oven rack to center. Get it to 400 degrees Fahrenheit — that's about 205 Celsius.
+
+Toss the sweet potato chunks with oil, salt, and cracked black pepper on a baking pan lined with parchment or foil. Make sure they're coated but not drowned in oil. They should have space around them, not crowded.
+
+Roast for about eighteen to twenty minutes. Flip them halfway through — you're looking for golden spots on the outside, some char at the edges. Poke one with a fork. Should give. Not mushy. Just soft inside with crispy skin.
+
+If they're browning too fast, lower the temp by fifteen or twenty degrees. Every oven runs different.
+
+While the potatoes roast, get water boiling. Salted water. Rapidly boiling. Drop the broccoli in first. Then the asparagus. Just one to one and a half minutes. You want them bright and still snappy. Pull them out, dump them straight into ice water. This stops the cooking immediately and keeps the color vibrant. That's the whole trick. Don't skip the ice bath.
+
+In a medium bowl, combine the broccoli, asparagus, radishes, and scallions. Pour the tamarind sauce over everything. Toss gently. Let it sit for twelve to fifteen minutes. Stir it once or twice while it's marinating. The vegetables should look like they're wearing the sauce, not swimming in it.
+
+## How to Get Roasted Sweet Potato Broccoli Salad Crispy and Perfect
+
+Drain the vegetables well. Seriously — squeeze them a bit. Excess liquid makes everything soggy later.
+
+Add the shredded chicken now. Mix gently. The heat and acid from the sauce wakes up the poultry in a way that matters.
+
+On your serving plates, spread the roasted sweet potatoes first. Warm or cooled down slightly — doesn't matter. Drizzle the chipotle or sriracha mayo over the potatoes. How much depends on how much heat you can handle. Go light if you're unsure. You can always add more.
+
+Top everything with the marinated vegetable salad. Sprinkle the cashews on. Scatter the fresh basil on top. Squeeze a lemon wedge over it right before you eat. That tartness is what ties it all together.
+
+Roasting times vary. Your oven might run hotter. The sign you're done? The skin's slightly blistered. The flesh gives when you poke it. Not soft like a sweet potato you've already mashed. Just soft enough.
+
+## Roasted Sweet Potato Broccoli Salad Tips and Common Mistakes
+
+Potato size matters more than you think. I cut mine bigger than most people do. Takes longer to roast but stays intact better. If you cut them into tiny pieces, they fall apart and your salad gets mushy.
+
+Don't skip the blanching. Water needs to be actually boiling. One minute and you pull them out. The ice bath stops everything. Hot broccoli keeps cooking in the residual heat — that's how you get mushy vegetables.
+
+The mayo goes on the potatoes, not the vegetables. The vegetables are already wet from the sauce. Mayo on those parts makes it a different dish. Creamy potato, bright vegetables. That's the balance.
+
+Leftover salad works cold. Tastes different — kind of better. The potatoes firm up slightly and the flavors settle.
+
+You can swap asparagus for green beans. Broccoli for bok choy. Cashews for pepitas or peanuts. The structure stays the same. It's flexible like that. Basil can be mint. Cilantro too. Same salad, different angle.
+
+Toast the cashews yourself if you want them crunchier and nuttier. Five minutes in a dry pan. Watch them. They burn fast.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Sweet Potato Broccoli Salad
+
+**Can I make this salad ahead?**
+Yeah. Roast the potatoes the day before. Keep them in the fridge. Blanch the vegetables the morning of. Dress them when you're close to serving. Don't mix everything together until just before you eat. Holds for a few hours that way.
+
+**What if I don't have tamarind sauce?**
+Make nuoc-cham. Tamarind paste, fish sauce, lime juice, a little sugar, Thai chili. Takes five minutes. Or use lime juice with a splash of soy sauce and sriracha. Not the same but works.
+
+**Does the chicken have to be warm?**
+No. Cold rotisserie chicken from the store is fine. Room temperature. Doesn't matter. The salad isn't hot by the time you eat it anyway.
+
+**Can I use frozen broccoli?**
+Haven't had good luck with it. Freezes kill the texture. Fresh broccoli stays crisp even after blanching. Frozen gets mushy.
+
+**How spicy is this actually?**
+Depends on the tamarind sauce and how much mayo you add. The tamarind brings heat but also sourness and sweetness. The mayo cools it down. You control the spice level. Start light on both if you're unsure.
+
+**What can I substitute for chicken?**
+Roasted tofu. Tempeh. Chickpeas. The salad doesn't need the chicken — it just needs protein. Turkey works. Fish works. Or leave it out and add more nuts.
+
+**Can I make the dressing differently?**
+Lime vinaigrette works. Ginger dressing works. The tamarind brings something specific though — that funky sweet-sour thing. If you're changing it, you're making a different salad. Not bad. Just different.
