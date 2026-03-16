@@ -1,10 +1,10 @@
 ---
-title: "Twisted Ratatouille"
+title: "Roasted Vegetable Medley with Smoked Paprika"
 slug: "twisted-ratatouille"
-description: "Chunky aubergine, sizzling onions, sharp garlic hit, mushrooms browned with a kick, peppers and courgettes sweat till tender. Tomatoes bring juice, fresh thyme infuses Earthiness, sudden basil freshness at finish. Vegan, gluten and dairy free, no nuts, no eggs. Classic roots with smoked paprika swap for heat instead of chili flakes, a new angle, subtle smoky depth. Cook stages by smell and sight, not just timers. Rustic, hearty, versatile with grains, grilled fish or tossed on pizza."
-metaDescription: "Twisted Ratatouille with smoky paprika, browned mushrooms, caramelized peppers, fresh basil finish. Layered texture, vivid flavors, vegan gluten dairy free, rustic French-Med style."
-ogDescription: "Chunky aubergine, smoky mushrooms, sweet peppers sweat slow. Basil fresh last step. Smoky paprika, no chili fire. Rustic layered veggie stew, vegan, hearty, layered taste."
-focusKeyphrase: "Twisted Ratatouille"
+description: "Roasted vegetable medley featuring aubergine, mushrooms, peppers, courgettes, and fresh herbs. This vegan side dish combines smoked paprika with tomatoes and basil for rich, earthy flavor."
+metaDescription: "Roasted vegetable medley with aubergine, mushrooms, peppers, and smoked paprika. Vegan, gluten-free, and versatile. Make it tonight."
+ogDescription: "Aubergine, mushrooms, and peppers roasted with smoked paprika and fresh basil. Vegan and gluten-free."
+focusKeyphrase: "roasted vegetable medley"
 date: 2025-09-23
 draft: false
 image: twisted-ratatouille.jpg
@@ -21,9 +21,16 @@ tags:
 - "eggplant"
 - "easy dinner"
 keywords:
-- "aubergine stew"
-- "smoked paprika ratatouille"
-- "vegan vegetable dish"
+- "roasted vegetable medley"
+- "veggie medley recipe"
+- "vegan ratatouille"
+- "roasted root vegetable medley"
+- "baked vegetable medley"
+- "mediterranean vegetable casserole"
+- "oven roasted vegetable medley"
+- "seasoned vegetable medley"
+- "roasted veggie medley recipe"
+- "grilled vegetable medley"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "160"
@@ -66,3 +73,63 @@ faq:
 - "q: What to substitute if no aubergine? a: Zucchini cubed, but less firm, needs gentler cook. Eggplant gives body and soak for cooking oil. Use extra mushrooms or peppers to bulk. Avoid watery substitutes like tomatoes alone; texture suffers."
 
 ---
+
+Set the oven to 400. Cube the eggplant. That's how this starts. You've got 35 minutes to get everything prepped, 30 in the oven, and then it's done. Had a bag of eggplant that needed using and no real plan. This happened.
+
+## Why You'll Love This Roasted Vegetable Medley
+
+Takes an hour total, most of it hands-off. One pan. Vegetarian without feeling like you're eating around something that's supposed to be meat. Works cold the next day — honestly tastes better then. Mediterranean flavors that don't require you to spell Mediterranean. Vegan if you care about that. No fancy equipment, no tricks. Just cubed vegetables and heat.
+
+## What You Need for a Veggie Medley Recipe
+
+Eggplant — one medium one, cubed. The kind with thin skin. Onion. Large. Chopped fine. Olive oil. 90 ml total, split into two batches. Use good oil. Not the expensive stuff, just actual olive oil. Garlic. Three cloves. Minced. White mushrooms — a quarter pound — quartered. Not sliced. Quarters hold their shape better. Smoked paprika. A quarter teaspoon. This replaces heat with something deeper. Bell peppers. Two yellow ones. Seeded and cubed. Yellow, not red. Red's too sweet here. Courgettes. Two. Cubed like the eggplant. Tomatoes from a can. The big can. 796 ml. Drained. Fresh thyme. Four sprigs, whole. Fresh basil. A quarter cup chopped. Add it at the end.
+
+## How to Make Roasted Vegetable Medley
+
+Heat 60 ml of olive oil in a large pan over medium-high. It should shimmer. Not smoke. Toss in the eggplant and onions. Stir often. The eggplant needs to brown on the edges — that takes time, maybe 8 to 10 minutes. The onions go soft but don't burn. Salt and pepper now. Generous. Once you see golden patches on the eggplant, stir in the garlic. One minute. That's it. You want fragrant, not colored. Scoop everything into a bowl.
+
+Same pan. Add the rest of the olive oil. Mushrooms go in next. Sprinkle the smoked paprika over them before you stir. This matters. It coats them. The paprika releases into the oil instead of sitting on top. Watch them turn golden — they'll release water, then the water disappears, about 7 minutes. That's when you know. Pull them out. Mix them with the eggplant.
+
+Peppers and courgettes now. If the pan's dry, splash more oil. Let them sit. Don't stir constantly. You want brown speckles on the peppers. The courgettes should go rosy, soft but still holding shape. Six minutes. Maybe seven.
+
+Everything goes back in. The eggplant, onion, garlic, mushrooms. Pour the drained tomatoes over. Toss in the thyme sprigs — whole, don't chop them. Mix through but don't beat it to death.
+
+## How to Get Roasted Vegetable Medley Perfect
+
+Bring it to a lively simmer. Then drop to medium-low. Let it bubble gently uncovered. This is the key part. 12 to 18 minutes. You're watching the liquid level. It should reduce but not disappear completely. Stir occasionally. The thyme will get shriveled and dark. Pull those sprigs out.
+
+Heat's off now. Sprinkle the basil over the whole thing. Fold it in gently. It wilts instantly from the heat still in the pan. Taste it. Fix the salt and pepper. That's it.
+
+Serve hot or warm. Over couscous. With pasta. Next to grilled fish or chicken. Or spread it on pizza dough before baking. Cold works too. Tastes different — sometimes better.
+
+## Roasted Veggie Medley Tips and Common Mistakes
+
+Don't stir the peppers and courgettes constantly. They need contact with the pan to brown. Stir too much and they steam. The smoked paprika actually matters — regular paprika or chili flakes will change the whole thing. Not wrong, just different. The eggplant is the slowest to soften. Start it first or you'll be waiting. Drained tomatoes, not the whole can with juice. The liquid from cooking is enough. Fresh basil at the end. Don't cook it. It gets bitter and turns black if it sits in heat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Vegetable Medley
+
+**Can I use regular paprika instead of smoked?**
+You can. Won't taste the same. Smoked gives depth. Regular paprika is just paprika. Not worth skipping.
+
+**What if I don't have fresh thyme?**
+Dried works. Maybe less of it — dried is stronger. Or just don't use it. The medley works without it.
+
+**How long does this keep?**
+Three days in the fridge. Maybe four. Tastes better after a day. The flavors settle.
+
+**Can I make this in the oven instead of on the stovetop?**
+Technically yes. Roast everything at 400 instead. Takes longer. You lose the browning on the first batch of vegetables. Pan method is faster.
+
+**Is this actually vegan ratatouille?**
+It's close. Ratatouille is a specific thing — usually layered, usually cooked longer. This is veggie medley with ratatouille vibes. Same Mediterranean feeling. Different structure.
+
+**Can I add potatoes or root vegetables to make a root vegetable medley?**
+You can. They'll need more time to soften than the others. Cube them small. Add them with the onions at the start, not halfway through.
+
+**Should I peel the eggplant?**
+No. The skin keeps it from falling apart. Thin eggplant skin is fine to eat.
+
+**What's the baked medley version?**
+Same ingredients, same method, but do it all in a baking dish at 400 instead of the stovetop. Stir halfway. Takes about 40 minutes. Less control over browning. Easier cleanup.
