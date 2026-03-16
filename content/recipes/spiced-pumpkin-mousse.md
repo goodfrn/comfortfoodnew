@@ -1,10 +1,10 @@
 ---
-title: "Spiced Pumpkin Mousse"
+title: "No Bake Cheesecake with Pumpkin & Vanilla"
 slug: "spiced-pumpkin-mousse"
-description: "A quick no-bake mousse blending pumpkin puree with instant vanilla pudding mix, warming fall spices, and a fluffy whipped topping substitute. Chill to let flavors marry and textures firm. Ideal for busy autumn evenings when oven time is a no-go. Uses a dollop of Greek yogurt instead of Cool Whip for tang and richness. Cinnamon on top, like a dusting of burnt sugar on top of crème brûlée, adds that final punch. Easy to tweak spice levels, swap vanilla pudding for chocolate, or tweak sweetness on the fly. Textures contrast creamy-smooth with airy lightness. Small effort, big comfort."
-metaDescription: "Spiced Pumpkin Mousse blends pumpkin puree, instant vanilla pudding mix, fall spices, and Greek yogurt for a creamy, airy dessert chilled to set flavors and texture."
-ogDescription: "Pumpkin puree mashed with vanilla pudding mix, warm spices, and Greek yogurt. Chill for air pockets and spice punch. Tweak sweetness, vegan swaps, add bourbon kicks."
-focusKeyphrase: "Spiced Pumpkin Mousse"
+description: "No bake cheesecake combining pumpkin puree, instant vanilla pudding mix, and Greek yogurt with warm cinnamon and nutmeg. Chill and serve."
+metaDescription: "No bake cheesecake made with pumpkin puree, vanilla pudding mix, and Greek yogurt. Ready in minutes. Make it tonight."
+ogDescription: "Creamy no bake pumpkin cheesecake with vanilla pudding and Greek yogurt. Spiced with cinnamon and nutmeg. No oven needed."
+focusKeyphrase: "no bake cheesecake"
 date: 2026-01-31
 draft: false
 image: spiced-pumpkin-mousse.jpg
@@ -21,9 +21,18 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "pumpkin puree"
-- "instant vanilla pudding"
-- "Greek yogurt"
+- "no bake cheesecake"
+- "no bake pumpkin cheesecake"
+- "cheesecake recipe no bake"
+- "no cook cheesecake"
+- "cheesecake no oven"
+- "no bake cheesecake dessert"
+- "no bake desserts"
+- "dessert without baking"
+- "unbaked desserts"
+- "easy no bake desserts"
+- "bakeless cheesecake"
+- "no bake sweets"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "120"
@@ -63,3 +72,80 @@ faq:
 - "q: How long store mousse? a: Fridge up to 2 days fine. Keep covered tight. Avoid freezer, texture ruins. Leftovers may lose airiness. Stir gently before serving if slightly separated. Serve cold always. No room temp sitting."
 
 ---
+
+Dump the pumpkin, pudding mix, and spices into a bowl. Stir until smooth. That's basically it—the hard part is waiting for it to chill.
+
+## Why You'll Love This No Bake Cheesecake
+Takes 7 minutes flat. No oven. No mixer. Just a spoon and a bowl.
+The Greek yogurt swap works. Lighter than cream cheese, tangier, doesn't need heavy whipping to get fluffy.
+Tastes like actual pumpkin pie filling but easier. Fall flavors, minimal effort.
+Cold straight from the fridge. Works as dessert, works as breakfast the next morning if you're that person.
+Texture gets better overnight. Pudding sets, flavors settle, everything clicks.
+
+## What You Need for This No Bake Cheesecake Dessert
+Pumpkin puree—two cups. Canned works fine. Don't grab the pie filling; that's already sweetened and spiced.
+Instant vanilla pudding mix. One 3.4-ounce packet. The instant kind, not the cooked version. Makes a difference.
+Ground cinnamon. Teaspoon of it. This is the star—don't skimp. Extra for dusting on top.
+Nutmeg and allspice. Half teaspoon cinnamon's worth of nutmeg. Quarter teaspoon allspice. They're the warmth underneath. You know the smell.
+Greek yogurt. Plain. One cup. Sour cream works too if that's what you have. Cool Whip is the easy way out but Greek yogurt tastes better and costs less.
+
+## How to Make This Unbaked Cheesecake
+Bowl first. Dump the pumpkin in. Add the pudding mix straight from the packet—don't mix it with milk or anything, just dry powder. Add cinnamon, nutmeg, allspice. All of it at once. Stir.
+
+Keep stirring until you can't see streaks. Don't go nuts though. Overstir and the pudding gets weird and grainy. You want smooth. Takes maybe two minutes of actual stirring.
+
+Now the yogurt. Fold it in slow. Spatula, not a spoon. Not an electric mixer. Folding is the move here—scoop from the bottom, bring it over the top, rotate the bowl, repeat. Keeps air in. If you beat it or whisk it hard, the whole thing gets soupy and watery. Not good.
+
+You'll feel when it's right. Fluffy but substantial. Spoon sinks in but holds its shape. Like mousse. Like clouds that don't fall apart.
+
+## How to Get This No Cook Cheesecake Perfectly Thick
+Dust cinnamon over the top first. Makes it look rustic and autumn-ish. Smell test—if it smells like pumpkin pie, you're there.
+
+Cover it. Plastic wrap. Container lid. Something. Gets it into the fridge.
+
+Thirty minutes minimum. The pudding powder sets up during this time. Textures lock in. Cold does work you can't rush.
+
+An hour is better if you've got time. Two hours is even better. Overnight is best—flavors meld, everything thickens slightly, tastes less like components and more like an actual thing.
+
+Don't skip the chill time trying to save fifteen minutes. It won't work. The texture falls apart if it's warm.
+
+## No Bake Cheesecake Tips and Common Mistakes
+Pumpkin puree hydration is weird—different cans have different water content. If the finished thing feels watery after chilling, pat the pumpkin with a paper towel first next time. Or just use a bit less yogurt. Two tablespoons less usually fixes it.
+
+Pudding mix brand matters slightly. Instant vanilla. Use that. Not the kind you cook. Not butterscotch or pistachio or whatever else they have. Instant vanilla. Check the box.
+
+Folding is real. Don't skip it. Don't whisk. Fold. There's a reason—the pudding and spice mixture has air in it already from stirring. Yogurt adds more air when you fold gently. Whisking beats all that out and makes it dense and heavy.
+
+Cinnamon clumps sometimes if you add it all at once to pumpkin. Mix it with the pudding powder first, then combine. Saves the double-stirring.
+
+Variations that work: Pumpkin pie spice blend instead of measuring cinnamon, nutmeg, allspice separately—easier, same result. Splash of bourbon or vanilla extract if you want an adult version. Silken tofu and coconut yogurt for vegan—texture changes slightly but works.
+
+Storage is fine. Fridge holds it for four days, maybe five. Freezes okay for a month, but texture gets icy when it thaws.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About No Bake Cheesecake Recipe
+
+**Can I use regular pudding mix instead of instant?**
+No. Cooked pudding needs heat and milk ratio it won't get here. Use instant vanilla. Non-negotiable.
+
+**How long does it actually need to chill?**
+Thirty minutes and it works. Barely. An hour is real. Overnight is when everything clicks together. Depends on how patient you are.
+
+**Can I substitute the Greek yogurt?**
+Sour cream works. Cool Whip works but it's sweeter and less interesting. Cottage cheese blended smooth works too. Haven't tried mascarpone but probably fine.
+
+**What if it turns out watery?**
+Overstirred the pudding, or the pumpkin was too wet, or the yogurt was thinner than usual. Next time fold the yogurt more carefully. Or pat the pumpkin dry with paper towels before starting.
+
+**Does this freeze okay?**
+Yeah. Month in the freezer. Thaw in the fridge overnight. Texture gets a tiny bit icy but tastes the same.
+
+**Can I make this without pudding mix?**
+Technically yes but why. Pudding mix is three dollars and does all the work for you. Without it you're making pumpkin mousse and having to thicken it somehow else. Not worth it.
+
+**Can I use canned pumpkin pie filling instead?**
+Don't. It's already sweetened and spiced. This recipe doesn't add any sugar or vanilla—the pudding mix handles that. Pie filling would be overkill and taste weird.
+
+**How much does this actually serve?**
+Depends. Small dessert cups, maybe six servings. Eaten straight from the bowl over two days, one person. It's not a huge amount but it's rich, so a little goes far.
