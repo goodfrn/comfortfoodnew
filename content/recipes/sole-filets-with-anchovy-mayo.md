@@ -1,10 +1,10 @@
 ---
-title: "Sole Filets with Anchovy Lemon Mayo"
+title: "Pan Seared Sole with Dill and Mayo"
 slug: "sole-filets-with-anchovy-mayo"
-description: "Pan-seared sole filets dusted with flour, served alongside broccoli florets browned in olive oil. Finished with a tangy sauce combining mayonnaise, fresh lemon juice, and umami-rich anchovy paste. Cherry tomatoes and zested lemon add a fresh pop. A balanced mix of textures and bright flavors. Uses simple pantry staples with a subtle twist on classic mayo sauce. Works well with fresh or thawed sole, and broccoli cooked al dente. Timing guided by visual and textural cues."
-metaDescription: "Sole filets pan-seared, broccoli steamed then browned, topped with anchovy lemon mayo. Bright lemon zest and tomatoes add fresh bursts in this textured catch dish."
-ogDescription: "Sole filets crisped in olive oil, steamed broccoli finished in pan, all coated with a tangy anchovy lemon mayo. Fresh tomato and lemon zest brighten every bite."
-focusKeyphrase: "Sole filets with anchovy lemon mayo"
+description: "Pan-seared sole filets with a creamy dill and mayo sauce made from fresh lemon juice and anchovy paste. Served with roasted broccoli and cherry tomatoes for a restaurant-quality white fish dinner."
+metaDescription: "Pan seared sole filets topped with a tangy dill mayo sauce using fresh lemon juice and anchovy paste. Roasted broccoli included. Make it tonight."
+ogDescription: "Crispy pan-seared sole with a zesty dill mayo sauce, broccoli, and cherry tomatoes. A simple white fish dinner ready in minutes."
+focusKeyphrase: "pan seared sole"
 date: 2025-09-28
 draft: false
 image: sole-filets-with-anchovy-mayo.jpg
@@ -21,9 +21,18 @@ tags:
 - "broccoli"
 - "mediterranean"
 keywords:
-- "sole filets"
-- "anchovy paste"
-- "lemon mayonnaise"
+- "pan seared sole"
+- "white fish dinner recipe"
+- "white fish dinner ideas"
+- "lemon mayo salmon"
+- "salmon with dill and mayo"
+- "pan seared dover sole"
+- "white fish dinner"
+- "sole with mayo and lemon"
+- "dill and mayo fish"
+- "easy sole recipes"
+- "broccoli sole"
+- "anchovy mayo sauce"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "310"
@@ -69,3 +78,91 @@ faq:
 - "q: How to store leftovers? a: Separate fish and broccoli if possible. Store in airtight containers. Fish best eaten within 24 hours, broccoli can last 2 days refrigerated. Sauce keep chilled, stir before use. Reheat fish gently in low oven or skillet, avoid microwave or it dries fast. Broccoli can be reheated in skillet too, add splash water if needed. Lemon zest best fresh but ok leftover."
 
 ---
+
+Sole filets dusted and into the pan. Two minutes per side and you're basically done. The mayo-anchovy sauce is where this gets good — salty, bright, kind of unexpectedly rich without being heavy. Works because the fish is so lean.
+
+## Why You'll Love This Dill and Mayo Salmon
+
+Takes 40 minutes total. Prep to plate.
+Feels fancy. Tastes even better. Mediterranean vibes without leaving your kitchen.
+One skillet, one bowl. Cleanup happens in five minutes.
+Works as an easy dinner on a Tuesday or something you'd serve to people you actually like. Same recipe either way.
+The anchovy paste — sounds weird. Changes everything. Not fishy. Just salty in a way that makes you want more.
+Broccoli gets nutty from the pan. Sole doesn't overcook because you're watching it the whole time.
+
+## What You Need for Pan-Seared Dover Sole
+
+Mayo. A quarter cup. Good quality matters here — texture stays smooth, flavor's cleaner.
+Lemon juice. Fresh squeezed. Bottled stuff tastes sharp in a bad way.
+Anchovy paste. A teaspoon and a quarter. Sounds like a lot. Isn't. Brings salt and depth to the sauce.
+Broccoli. Two medium heads. Steam them until they're done but still have snap — not the mushy kind.
+Sole filets. A pound and a third. Fresh or thawed. Thin, white, cooks fast. Dover sole if you can find it. Regular sole works fine.
+Flour. All-purpose. Just enough to coat. Too much and the pan gets gummy.
+Olive oil. Extra virgin. Three and a half tablespoons total — some for the fish, some for the broccoli after.
+Cherry tomatoes. Fourteen halves. Adds brightness. Cuts through the richness.
+Lemon zest. Finely grated. The finish.
+
+## How to Make Lemon Mayo Salmon
+
+Mix the mayo with lemon juice and anchovy paste in a small bowl. Stir until it looks smooth and tastes right — if the anchovy's too loud, back off. Chill it. You'll finish with this sauce, so taste as you go.
+
+Set up your steamer. Broccoli florets go in the basket, water simmering underneath, cover on tight. About six minutes and they should bend but not fall apart. Soggy broccoli defeats the whole point. Drain and set aside when they're done.
+
+While that's going, flour your sole. Light. Shake off the excess — flour sitting on the fish just absorbs moisture and makes a pasty crust. You want a thin coat that browns, not a shell.
+
+Heat two tablespoons of olive oil in a large nonstick skillet over medium-high. Wait for it to shimmer, then barely move. That's when you lay the filets down carefully. Should sizzle immediately. Not aggressively — just a clean, lively sound. That's how you know the pan's right.
+
+One and three-quarter minutes per side. Watch the underside. When it goes golden and the edges start lifting naturally, flip once. Other side gets the same time. Sole's thin and cooks fast. Overdo it by thirty seconds and it gets dry.
+
+Season with salt and pepper. Move it to a warm plate, tent loosely with foil to keep the heat in. Resting matters.
+
+## How to Get White Fish Dinner Right
+
+Same pan, no washing. Add the remaining olive oil. Broccoli goes in and you want it to brown, not steam. Stir often — three to four minutes, edges turning darker, texture shifting from steamed to nutty. If it starts sticking, splash of water or lower the heat.
+
+The fish rests, the broccoli browns, the sauce sits cold in the bowl.
+
+Plate it like this: broccoli first, then fish on top. Spoon the mayo-anchovy sauce over — it should coat, not drown. Scatter the tomato halves around. Zest the lemon over everything. Bright. Sharp. Finishing touch.
+
+Cut lemon wedges for the side. Some people want more acid. Some don't. Serve now.
+
+## Pan-Seared Dover Sole Tips and Mistakes
+
+Sole cooks in seconds. Watch it the whole time. A flake test — push the thickest part with your fork — tells you better than staring at it.
+
+Anchovy paste confuses people. Don't skip it. It's not a "fish sauce" situation. It disappears into salt and umami. The sauce would taste flat without it.
+
+Mayo temperature matters when you're mixing. If it's cold straight from the fridge, it doesn't blend smoothly. Warm it for thirty seconds — not hot, just room temp — and everything combines faster.
+
+Flour the fish right before it hits the pan. Earlier and the flour gets damp and weird. The crust won't crisp right.
+
+If you've never had sole, it's milder than salmon. More delicate. Cooks differently. Don't confuse the two in this recipe — the timing's built for sole specifically.
+
+Broccoli can swap for green beans or asparagus. Steam the same way. Tomatoes can roast for five minutes if you want them warm instead of raw.
+
+The sauce can go further with a drizzle of olive oil at the end, or a pinch of smoked paprika if you're in that mood.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Salmon with Dill and Mayo
+
+**Can I use mayo and mustard instead of just mayo?**
+Sure. Dijon works. Cuts the richness a bit. Changes the flavor profile — less about the anchovy, more about sharp mustard. Try it half and half first.
+
+**What if I don't have anchovy paste?**
+Minced olives work. Capers too. Both bring salt and briny depth. Not identical, but close enough that nobody notices.
+
+**How do I know when the sole is actually done?**
+The underside goes golden and the flesh flakes when you push it with a fork. Takes a minute and forty-five seconds to two minutes per side. Don't trust time — watch it.
+
+**Can I bake this instead of pan-searing?**
+Probably. Won't get the same crust though. If you go that route, 400 degrees, six to eight minutes total. Dust with flour and brush with olive oil first. Different texture entirely.
+
+**The broccoli gets mushy. How do I fix it?**
+Six minutes is approximate. Test it at five. If it bends easily, pull it out. If it's still too firm, another minute. Also matters how big your florets are. Smaller ones finish faster.
+
+**Do I really need the lemon zest at the end?**
+Yeah. It looks good but also tastes good. Brightness cuts through the mayo-anchovy richness. Finish without it and something's missing.
+
+**Can I prep this ahead?**
+The sauce yes, easily. Make it the morning of. Fish and broccoli need to cook fresh. Cooked sole sitting around gets drier.
