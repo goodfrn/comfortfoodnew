@@ -1,10 +1,10 @@
 ---
-title: "Vietnamese Pork Rice Rolls"
+title: "Vietnamese Spring Rolls with Pork"
 slug: "vietnamese-pork-rice-rolls"
-description: "Lean ground pork browned with scallions, toasted sesame oil and a splash of soy sauce. Wrapped in softened rice paper with vermicelli, pickled carrots, julienned cucumber, fresh cilantro, and a hoisin mayo dip. Chilled pork adds contrast versus hot filling. Seafood sauce is a common swap for the mayo, but hoisin mayo adds creamy umami. A fresh, hand-held roll with crunchy, tangy filling and chewy rice paper. Quick to assemble once pork cools. The texture interplay is what makes these stand out. Keep pork chunky, not minced fine. Hydrate rice paper just right — pliable but not mushy."
-metaDescription: "Vietnamese Pork Rice Rolls with chunky browned pork, tangy pickled carrots, soft rice paper wraps, and a creamy hoisin mayo dip. Fresh handheld bites with layered texture."
-ogDescription: "Chunky pork browned with sesame oil, wrapped in supple rice paper with pickled carrots, cucumber, vermicelli, and hoisin mayo. Texture matters. Chill pork first."
-focusKeyphrase: "Vietnamese pork rice rolls"
+description: "Vietnamese spring rolls filled with seasoned ground pork, vermicelli, pickled carrots, cucumber, and fresh cilantro. Wrapped in rice paper with hoisin mayo dip for a fresh, crunchy meal."
+metaDescription: "Vietnamese spring rolls with pork, vermicelli, pickled carrots, and hoisin mayo. Fresh, easy to assemble. Make it tonight."
+ogDescription: "Fresh Vietnamese spring rolls with seasoned pork, rice paper, vermicelli, and hoisin mayo. Crunchy, tangy, and chewy."
+focusKeyphrase: "vietnamese spring rolls"
 date: 2025-09-06
 draft: false
 image: vietnamese-pork-rice-rolls.jpg
@@ -21,9 +21,18 @@ tags:
 - "appetizer"
 - "rice"
 keywords:
+- "vietnamese spring rolls"
 - "rice paper rolls"
-- "ground pork rolls"
-- "Vietnamese street food"
+- "rice rolls"
+- "fresh springroll"
+- "spring roll rice paper"
+- "pork vietnamese roll"
+- "vietnamese rice paper rolls"
+- "sauce for vietnamese spring roll"
+- "fresh spring roll vietnamese"
+- "chicken rice paper rolls"
+- "rice paper wrappers for spring rolls"
+- "summer roll vietnamese"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "340"
@@ -75,3 +84,97 @@ faq:
 - "q: How to store rolls? a: Individually wrap in plastic, fridge up to 4 hours. Rice paper firms refrigerated; bring rolls close to room temp before eating to regain chew. Avoid freezing. Prep pork early, assemble close to serving time. Moist towels keep rice paper pliable."
 
 ---
+
+Dunk the rice paper fast. Like 4 seconds fast. Any longer and it tears when you roll, too short and it cracks like old plastic. That part matters more than people think.
+
+## Why You'll Love These Vietnamese Spring Rolls
+
+Takes 45 minutes total — 35 prepping, 10 cooking the pork. Most of that's just sitting around waiting, so it's actually fast.
+
+Fresh. Cold. Tastes bright because of the pickled carrots and that sharp vinegar cutting through the pork and mayo. Not heavy at all.
+
+Appetizer that works cold, travels fine, doesn't need reheating. Roll them ahead, wrap them up, they're good for four hours in the fridge. Grab one on your way somewhere.
+
+You can customize every single layer — swap the pork for shrimp if you want, add more cilantro, skip the mayo entirely, use peanut sauce instead. Works either way.
+
+Rice paper rolls have this texture thing going on. The paper gets soft but still holds itself together. Crispy noodles inside. Cold pork. It's all different feels in one bite.
+
+## What You Need for Vietnamese Rice Paper Rolls
+
+Ground pork — 225 grams, lean. Turkey works if you're skipping fat. Scallions sliced thin. Olive oil and sesame oil together make the cooking base. Tamari or soy sauce for salt and depth. Chili garlic sauce — sambal oelek or sriracha, doesn't matter which. Just a teaspoon. Five-spice powder barely — like an eighth teaspoon, or it overpowers everything.
+
+Rice paper sheets for the wrappers. The actual kind, not thin crepes. Eight of them if you're making four rolls. Lebanese cucumber julienned thin. Cooked rice vermicelli noodles — the kind that's already cooked or you cook fresh and chill it. Fresh cilantro. That matters. Don't skip it.
+
+Pickled carrots you make while the pork cooks — just julienned carrots, vinegar, water, salt, sugar, one garlic clove smashed. Hoisin mayonnaise for dipping or serving. Three parts mayo to one part hoisin, lime juice, minced garlic. That's it.
+
+## How to Make Vietnamese Spring Rolls
+
+Heat the oils together until they shimmer. Drop the pork in loose — don't break it into tiny bits, let it sit for a minute, get brown and chunky in some places. Stir once, maybe twice. You want crust, not just cooked ground meat.
+
+Scallions go in halfway through. When the pork looks opaque and a little dry around the edges, add soy sauce, chili sauce, five-spice. Stir once, fast, then pull it off heat immediately. Taste it. Too sharp? Add a pinch of sugar. Not spicy enough? More chili sauce. It should taste strong — the cold noodles and cucumber dilute it.
+
+Throw it in a bowl, cover it, refrigerate for at least 25 minutes. The cold makes it easier to roll and the flavors actually bond better sitting in the cold. This part is why people mess up — they try to roll hot pork and it falls apart.
+
+While that's chilling, julienne carrots finely. Same vinegar and water, equal parts, pinch of salt, dash of sugar, one garlic clove crushed. Let it sit 15 minutes minimum. The vinegar gets sharp and cuts through the richness of the pork and mayo perfectly. That's the balance.
+
+## How to Get Rice Paper Rolls Perfectly Tender and Taut
+
+Warm water, not hot. A large shallow dish works. Dunk one rice paper sheet for four to six seconds — watch the edges, they go translucent when they're almost there. Pull it out immediately to a flat surface. Damp tea towel, cutting board, doesn't matter.
+
+This is where most people fail. Too long and it tears. Too short and when you try to fold it, it cracks. The edges should look almost transparent but still have tension. You learn it by feel. The paper should snap a little when you first fold it, then soften as you work.
+
+Lay it flat. Spoon vermicelli onto the center third — about three tablespoons. Layer three tablespoons chilled pork over that. Pickled carrots, cucumber strips, cilantro on top. 
+
+Fold the short sides over the filling first. Tuck them tight. Then roll from one long end toward you, keeping everything snug, no gaps. Don't rip it, but don't roll it loose either. It shrinks as it sits so start tight.
+
+Serve immediately if you want the rice paper soft, or wrap them individually in plastic and refrigerate up to four hours. If you store them, let them come close to room temperature before eating — the rice paper firms up cold and gets chewy instead of tender. Hoisin mayo on the side.
+
+## Vietnamese Spring Roll Tips and Fixes
+
+The pork needs to be cold when you roll. Warm pork falls apart, gets mushy, releases juice that soaks the rice paper. Chill it. Don't skip it.
+
+Rice paper thickness varies. Thinner brands rip easier. Thicker ones need longer dunking. Watch the first one you do — feel how it behaves, adjust the next one.
+
+The pickled carrots aren't optional. They're sharp, they're crunchy, they cut the pork's salt and heaviness. Same with the cilantro. Both are why this tastes right.
+
+You can use collard leaves instead of rice paper for a gluten-free version. Works fine. Tougher to roll but possible. Blanch them first to soften.
+
+Noodles should be cooked and cooled already. Cold noodles, cold pork, cold everything. The temperature matters. Room-temperature rolls taste flat.
+
+The hoisin mayo gets thick if you don't add enough lime juice or mayo. Too thick and it doesn't coat your roll. Too thin and it runs off. You want it spreadable, not pourable, not paste.
+
+Fish sauce dip works instead of mayo. Nuoc cham. That's the traditional way. Or peanut sauce. All three work. Just not all three at once.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vietnamese Rice Paper Rolls
+
+**Can I make these ahead?**
+Yes. Up to four hours in the fridge, wrapped individually in plastic wrap. The rice paper firms up when cold so take them out maybe 10 minutes before eating. Otherwise they're chewy instead of supple.
+
+**What if my rice paper keeps tearing?**
+You're either dunking too long or not long enough. Four to six seconds. Watch the edges go translucent. That's your signal. Also make sure the water's warm, not hot. And lay them flat immediately on a damp cloth or cutting board — don't let them sit bunched up or they'll tear when you unfold them.
+
+**Can I swap the pork?**
+Ground turkey, ground chicken, shrimp — all work. Keep pork cold though, whatever you use. Cold rolling is the whole point. Fish makes it different. Different is fine.
+
+**What's the rice vermicelli for?**
+Texture. Crispy, almost, when it's cooled. Contrast to the soft pork and tender rice paper. You could skip it but it changes the whole roll.
+
+**Do I have to make the pickled carrots?**
+Technically no. But they're the thing that makes this taste balanced. The sharp vinegar cuts the pork's richness. Without it, it tastes one-note and heavy. Make them.
+
+**Can I use regular mayo instead of hoisin mayo?**
+Yes. Just mix in hoisin and lime juice so it's not boring. Hoisin mayo takes five minutes. Regular mayo is too bland on its own with this filling.
+
+**How long does the pork keep after cooking?**
+Three days in the fridge. Cold. Don't leave it out. You're keeping it cold anyway so just leave it in the container. Use it for other stuff too — rice bowls, lettuce wraps, whatever.
+
+**What if the filling leaks out when I roll?**
+Too much filling, probably. Three tablespoons pork, three tablespoons noodles. That's the ratio. Or the rice paper wasn't supple enough — it needs to be soft enough to move with the filling, not brittle.
+
+**Are these gluten-free?**
+If you use tamari instead of soy sauce and collard leaves instead of rice paper, yes. Rice paper is usually gluten-free already but check the box. Hoisin might have gluten. Use gluten-free hoisin or skip it.
+
+**Can I fry these instead?**
+You mean like fried spring rolls. That's a different thing — fried. These are summer rolls. You can fry them if you want but they're better cold and soft. The whole appeal is the tender rice paper. Frying changes it completely.
