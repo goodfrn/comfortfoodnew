@@ -1,10 +1,10 @@
 ---
-title: "Twist Veal Blanquette"
+title: "Veal Marsala: Tender Meat & Creamy Sauce"
 slug: "twist-veal-blanquette"
-description: "A slow-simmered veal stew with tender meat and rich, creamy sauce. Replaces celery and bouquet garni with fennel and sage for an herbal twist. Uses pearl onions and wild chanterelles instead of white mushrooms. Roux-based sauce thickened with butter and flour, finished with cream and egg yolk. Classic flavors, adjusted cooking times, and tips on texture and doneness. Ideal for a cozy dinner; serve with fluffy rice or crusty bread."
-metaDescription: "Twist Veal Blanquette slow-simmered veal stew with fennel, sage, pearl onions, and chanterelles in roux-thickened cream sauce. Tender meat, herbal, rich."
-ogDescription: "Slow cook veal cubes with fennel, sage, pearl onions, chanterelles. Creamy roux sauce thickened with egg yolk. Herbaceous, tender, textured, hearty French style."
-focusKeyphrase: "Veal Blanquette with fennel and chanterelles"
+description: "Veal marsala with tender veal cubes, wild chanterelles, and pearl onions in a silky cream sauce. Slow-simmered with sage and fennel for rich, herbaceous flavor."
+metaDescription: "Veal marsala recipe: tender veal cubes with wild chanterelles, pearl onions, and creamy sauce. Slow-cooked comfort food. Save this one."
+ogDescription: "Tender veal cubes with wild chanterelles and pearl onions in a silky cream sauce. Herbaceous, rich, and deeply satisfying."
+focusKeyphrase: "veal marsala"
 date: 2025-08-16
 draft: false
 image: twist-veal-blanquette.jpg
@@ -20,9 +20,18 @@ tags:
 - "comfort food"
 - "slow cooker"
 keywords:
-- "veal blanquette"
-- "fennel sage veal"
-- "wild mushroom veal stew"
+- "veal marsala"
+- "veal stew"
+- "blanquette of veal"
+- "veal stew meat"
+- "slow cooked veal"
+- "veal with mushrooms"
+- "blanquette sauce"
+- "veal and mushroom sauce"
+- "veal mushroom cream sauce"
+- "veal stew recipe"
+- "veal casserole"
+- "traditional veal blanquette"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "420"
@@ -76,3 +85,83 @@ faq:
 - "q: How to store leftovers properly? a: Refrigerate in airtight container. Use within 2-3 days. Freeze in portions for faster future meals. Thaw overnight in fridge before gentle reheating. Add broth or cream if sauce too thick after storage. Avoid rapid reheating to reduce curdling risk."
 
 ---
+
+Cut the veal into cubes. Drop them raw into cold water, bring it raging. Four to five minutes — just until the foam comes up and everything looks dirty. That's the whole thing. Drain, rinse, dry hard with paper towels. Gets the impurities out. Cleaner broth. Better flavor. Takes longer to make a veal stew recipe that's actually worth making, but this is how it starts.
+
+## Why You'll Love This Veal Marsala
+
+Takes two hours fifty from start to finish. Not fast, but you're not doing much — mostly just watching it simmer.
+Comfort food that tastes like someone spent the whole day on it. Tastes rich. Tastes like cream and wine and meat that falls apart when you touch it.
+Pearl onions and mushrooms get caramelized while the veal cooks — adds texture, sweetness. Not a one-pot thing, but cleanup isn't nothing either.
+Leftovers are better. Flavors settle overnight. Reheat gently and it's honestly superior to the first night.
+Works for dinner parties. Looks fancier than it is. People think you're more skilled than you actually are.
+
+## What You Need for This Veal Stew
+
+A kilogram of veal — shoulder or neck, cubed. Don't use scaloppini. This needs meat that breaks down. One medium onion studded with three whole cloves. Sounds weird. Trust it. Sage sprigs — fresh, not dried. Dried sage tastes like dust in this context. A small fennel bulb, roughly chopped. You could use celery. People do. Fennel's better though — sweeter, that licorice thing that brightens everything. One carrot in chunks. Two garlic cloves, just smashed. Two liters of broth. Chicken or vegetable. Cold broth from a box works fine.
+
+Pearl onions, about 284 grams. Peeled already if you can find them — saves fifteen minutes of tiny knife work. Wild chanterelle mushrooms, two hundred grams, cleaned and sliced. Cremini works if you can't find them. Tastes different. Not worse. Different. Unsalted butter — seventy grams total. Flour — forty grams. Heavy cream, one-fifty milliliters. One egg yolk. Salt and pepper.
+
+## How to Make Veal Marsala
+
+Start with the blanching. Veal cubes into a pot of cold water. Bring it to a hard boil — you want that foam rising, the surface getting cloudy with scum. Four to five minutes is all. Just that. Drain everything into a colander, rinse under cold running water until the water runs clear. Dry the meat with paper towels. This matters more than people think.
+
+Get a clean pot. Tie the sage sprigs together loosely — bundle them. Put the veal back in. Add the clove-studded onion, the sage bundle, the fennel, carrot chunks, smashed garlic. Pour in all two liters of broth. Bring it to a gentle simmer. Not a rolling boil. Gentle. You should hear subtle bubbling around the edges. Put the lid on but tilt it — doesn't seal. This controls how much evaporates. One hour fifteen minutes. Maybe a few minutes longer. The meat should feel tender but still hold its shape when you poke it with a fork.
+
+While that's happening, heat a skillet on medium-high. Melt two tablespoons of butter in it. Add the pearl onions and mushroom slices. Don't crowd the pan. They need to sizzle, not steam. Watch for golden spots on the onions, edges starting to crisp. Takes maybe eight minutes. Set them aside on a plate.
+
+When the veal feels right — tender but not falling apart — strain the whole pot through a sieve. Collect the broth in a bowl. You want exactly one liter. Discard everything else. The solids, the onion, the sage. All of it goes.
+
+## How to Get the Blanquette Sauce Rich and Velvety
+
+Return the empty pot to the stove on medium heat. Melt the remaining butter — about five tablespoons. Once it's foaming, sprinkle the flour in all at once. Whisk it constantly. Stir vigorously for a minute, maybe ninety seconds, until the raw flour smell cooks off but the roux stays pale blond. No browning. Don't let it brown.
+
+Pour in the strained broth slowly while whisking. Don't dump it. Whisk it in gradually to avoid lumps. Bring it to a boil and keep whisking until it thickens and gets glossy. The texture should coat the back of a spoon. Not gluey. Substantial though.
+
+Put the veal back in. Add the pearl onions and mushrooms. Simmer gently for five to seven minutes. Watch for the bubbles. The sauce should cling to the meat, velvety.
+
+In a small bowl, beat the egg yolk with the cream until smooth. This is the liaison — it's going to make the sauce rich. But you have to temper it. Drizzle some of the hot sauce into the yolk mixture while stirring hard. The heat brings it up gradually so it doesn't curdle. Once it's warm, pour it slowly into the stew off the heat. Stir it in. If it's too thick, add a splash of water. If it's too thin, let it sit for a minute.
+
+Taste it. Salt it. Pepper it. Season it properly. Don't boil it after you add the yolk — that's when it breaks. Don't.
+
+## Slow Cooked Veal Stew Tips and Mistakes
+
+This isn't technically a slow cooker recipe, but it can be — cook the veal and broth on high for four hours or low for six. The blanquette sauce needs to happen on the stove at the end though. Can't make a roux in a crock pot.
+
+Blanquette of veau — that's what this is officially called. It's French. Blanquette means pale, which is why you don't brown the roux. Light color, delicate flavor. That's the whole point.
+
+If the sauce firms up overnight in the fridge, reheat gently with a ladle of warm broth stirred in. Loosens it right up.
+
+Don't use veal scallopini for this. Wrong cut. Scaloppini is thin, pounded, meant for quick cooking. This needs shoulder or neck meat that breaks down over time. Crock pot veal stew works fine with the same cuts.
+
+Fennel is optional but it matters. It adds something that nothing else adds. Celery is the obvious swap but it's less interesting. Wild mushrooms are better than cremini but cremini works.
+
+The whole thing is better the next day. Seriously.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Veal Stew Meat
+
+**Can I use different cuts of veal for this veal stew?**
+Shoulder and neck are best. They break down. Leg meat gets tough. Breast works too — similar texture to shoulder.
+
+**What if I don't have heavy cream?**
+Crème fraîche works. Adjust the salt though — it's saltier. Sour cream breaks in the heat. Don't use it.
+
+**How long does this veal stew keep?**
+Four days in the fridge. Freezes fine for three months. Thaw overnight before reheating.
+
+**Can I make this in a slow cooker instead of on the stove?**
+Yeah. Cook the veal and broth on high for four hours. Then do the roux and sauce on the stove. Can't make a proper liaison in a crock pot.
+
+**What's the difference between this and veal scallopini with mushrooms?**
+Completely different thing. Scaloppini is thin, quick, pan-seared. This is braised. Low and slow. That's the whole point of a slow cooked veal dish.
+
+**Why blanch the veal first?**
+Removes the proteins and impurities that make the broth cloudy. Cleaner flavor. Cleaner looking. Matters more in a blanquette than any other veal stew recipe because the whole thing depends on clarity and delicacy.
+
+**Can I skip the egg yolk?**
+Use just cream but the sauce won't be as glossy or rich. The yolk emulsifies it, makes it silkier. Not the same without it.
+
+**How do I know when it's done?**
+Meat should feel tender when you poke it with a fork. Not falling apart. Just tender. Takes about ninety minutes after simmering starts.
