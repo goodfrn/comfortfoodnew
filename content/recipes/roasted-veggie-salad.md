@@ -1,10 +1,10 @@
 ---
-title: "Roasted Veggie Salad Feta Twist"
+title: "Roasted Vegetable Salad with Feta & Walnuts"
 slug: "roasted-veggie-salad"
-description: "A vibrant medley of roasted baby carrots, broccolini, and green beans tossed with scallion stalks, finished with creamy ricotta, crumbled feta, toasted walnuts, and a tangy sherry vinaigrette. Fast roast in a hot oven until just tender, veggies with char spots tell you when to pull. Ricotta swaps cottage cheese for creaminess, while sherry vinegar brightens the dressing differently from balsamic. Nutty texture from walnuts replaces pecans—gives a deeper roast flavor. Emboldens a simple salad, no fuss, no fluff, just honest, approachable veggies with cheese and crunch."
-metaDescription: "Roasted Veggie Salad Feta Twist with charred baby carrots, broccolini, green beans, ricotta, feta, toasted walnuts, and tangy sherry vinaigrette. Quick roast, bold flavors."
-ogDescription: "Crunchy roasted carrots, broccolini, and beans topped with ricotta, feta, walnuts, and sharp sherry vinaigrette. Char signals done; no mush, just bite and zing."
-focusKeyphrase: "Roasted Veggie Salad Feta Twist"
+description: "Roasted vegetable salad featuring baby carrots, broccolini, and green beans with creamy ricotta, crumbled feta, toasted walnuts, and sherry vinaigrette for a satisfying side dish."
+metaDescription: "Roasted vegetable salad with baby carrots, broccolini, green beans, ricotta, feta, and walnuts tossed in sherry vinaigrette. Make it tonight."
+ogDescription: "Charred roasted carrots, broccolini, and green beans with creamy ricotta, feta, walnuts, and tangy sherry vinaigrette."
+focusKeyphrase: "roasted vegetable salad"
 date: 2025-08-18
 draft: false
 image: roasted-veggie-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "cheese"
 - "walnut"
 keywords:
-- "roasted vegetables"
-- "ricotta salad"
+- "roasted vegetable salad"
 - "feta cheese salad"
+- "roasted carrots broccolini salad with feta"
+- "roasted green beans walnut salad"
+- "sherry vinaigrette roasted veggie bowl"
+- "roasted baby carrots ricotta salad"
+- "broccolini feta cheese roasted salad"
+- "roasted vegetables with walnuts and sherry vinegar"
+- "vegetarian roasted vegetables"
+- "walnut feta salad"
+- "roasted vegetable ricotta"
+- "garden salad with roasted vegetables"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "290"
@@ -72,3 +81,110 @@ faq:
 - "q: How to store leftovers? a: Airtight container mandatory. Reheat gently in oven or microwave to avoid mush. Or eat cold for different texture, crunch fades but flavors concentrate. Roasted veg hold flavor longer than steamed. Dressing can be stored separately to keep nuts crisp."
 
 ---
+
+Preheat to 455. Line a sheet pan. Carrots, broccolini, green beans, scallions — everything goes on at once. Twenty minutes of prep, fifteen in the oven, and you've got a salad that tastes like you cared.
+
+## Why You'll Love This Roasted Veggie Salad with Feta
+
+Takes 35 minutes total and most of that's just waiting for the oven.
+Vegetarian, naturally — no weird substitutions needed. Just vegetables and cheese doing what they do.
+Walnuts give it crunch. That matters more than it sounds.
+Roasted vegetables soften but don't go mushy. The high heat keeps them sharp.
+Feta and ricotta together. Creamy and salty at the same time, but they don't compete.
+Cold or warm. Tastes different both ways. Cold's probably better.
+
+## What You Need for Roasted Carrots Broccolini Salad with Feta
+
+Baby carrots — peeled, 400 grams. Regular carrots work if you halve them, but they take longer.
+
+Broccolini, 300 grams, trimmed and split down the middle. If you can't find it, broccoli florets work. They'll roast faster, so watch them.
+
+Green beans, 350 grams. Trim the ends. Both ends actually.
+
+Scallions. Six of them. Cut into four-inch pieces. The white parts soften, the green parts stay sort of crisp.
+
+Olive oil — 90 milliliters split between the pan and the dressing. Use one you don't hate. Extra virgin burns. Use regular.
+
+Sherry vinegar. 30 milliliters. White wine vinegar if that's all you have, but sherry's warmer. Apple cider works too. Not white vinegar. That's too sharp.
+
+Dried thyme. Two and a half milliliters. Fresh thyme loses everything in the heat. Don't bother.
+
+Ricotta cheese, 200 grams. Not the kind from a tub. Get the good stuff. It tastes like nothing if you cheap out.
+
+Feta, crumbled, 60 grams. Buy it crumbled. Life's too short.
+
+Toasted walnuts, 50 grams, roughly chopped. Roughly. Don't get particular. And they need to be toasted already or they taste like wood.
+
+Jarred roasted red peppers, chopped, 125 milliliters. The ones in the jar with liquid. Drain them. The peppers are spicy enough. You'll taste it.
+
+## How to Make Roasted Baby Carrots Ricotta Salad
+
+Oven rack in the middle. Heat to 455. This matters. Low heat means steamed vegetables. Nobody wants that.
+
+Line a sheet pan with parchment or just use silicone. Toss the carrots, broccolini, green beans, and scallions with 55 milliliters of olive oil. Salt and pepper generously. More than you think. The vegetables will take it.
+
+Spread them in a single layer. Don't crowd. If they're stacked, they steam instead of roast. Works against everything.
+
+Roast for 14 to 16 minutes. Stir halfway through. You'll hear faint sizzling and it'll smell sweet and roasted — that's when you know it's working. Push a green bean with a fork. Should give a little but snap if you bend it. That's the spot. Too soft and you missed it.
+
+While it's roasting, whisk the remaining 35 milliliters of olive oil with sherry vinegar, thyme, salt, and pepper. Let it sit. The thyme opens up a bit in the oil.
+
+## How to Get Roasted Vegetables with Walnuts and Sherry Vinegar Right
+
+Here's where it comes together.
+
+Divide ricotta into four shallow piles on plates. This is the base. Don't spread it thin. Let it sit there.
+
+Spoon the roasted vegetables right on top. Even it out a bit. The heat from the vegetables will warm the ricotta slightly. Just slightly.
+
+Scatter feta over everything. Then the walnuts. Then the chopped roasted red peppers. The peppers are spicy — they cut through the cream. That's the point.
+
+Drizzle the vinaigrette right before serving. Not before. Before means the vegetables get soggy. After means everything stays distinct.
+
+The sharp from the vinegar, the salt from the feta, the earthiness from the thyme, the walnut, the warmth of the roasted vegetables — they all show up separately then blur together. That's the whole thing.
+
+## Roasted Vegetables with Feta Tips and What Goes Wrong
+
+Don't overcrowd the pan. Even if you think you have space. If you can't see pan underneath, you're doing it wrong. Roast in batches if you have to. It takes the same amount of time anyway.
+
+Carrot thickness changes everything. Thin carrots roast in 12 minutes. Thick ones need 20. Size them first or stir more.
+
+Broccolini cooks faster than carrots. If you notice it browning too fast, rotate the pan to the back or pull it out two minutes early. It'll keep cooking a bit.
+
+Fresh herbs look good. They taste like nothing after heat. Dried thyme in the dressing is why this works. Don't skip it.
+
+No sherry vinegar. Use white wine or apple cider. Not white vinegar. That's a different thing entirely.
+
+No walnuts. Pistachios are better actually. So are sunflower seeds. Pecans work if you're desperate.
+
+No broccolini. Regular broccoli, cut small. Roast it less. A minute or two less. It'll be fine.
+
+Cold leftovers taste different. Better sometimes. Store everything separate — ricotta on the plate, vegetables in a container, dressing in a jar. Assemble when you eat. It keeps longer that way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Feta Cheese Salad
+
+**Can I use warm vegetables straight from the oven or do they need to cool?**
+Warm's better. The ricotta softens slightly and everything tastes less separate. Cool works fine if you're eating later.
+
+**What if the vegetables get too dark?**
+It happens. Lower the oven 15 degrees next time. They'll brown slower. Thirty seconds doesn't sound like much until you watch the broccolini char.
+
+**Does this keep overnight?**
+Vegetables stay good. Ricotta gets weird. Feta stays fine. Walnuts go soft. Assemble fresh. The dressing lasts forever.
+
+**Can I use goat cheese instead of ricotta?**
+Not the same thing. Goat cheese's too tangy. Ricotta's mild. You'd need to change the whole balance.
+
+**Is there a way to make this less creamy?**
+Skip the ricotta. Use more walnuts. It's less interesting but it works.
+
+**Do I really need thyme in the dressing?**
+Yeah. Try it without once and you'll see. The vegetables taste flatter without it.
+
+**Can I roast everything at once or do I need batches?**
+One sheet if you have space and don't mind it taking a minute longer. Two sheets if you want actual color. Crowded vegetables steam. Don't do that.
+
+**What if I don't have sherry vinegar?**
+Apple cider vinegar's close enough. White wine vinegar works. White vinegar tastes like nothing. Don't use that.
