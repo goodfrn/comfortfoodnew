@@ -1,9 +1,9 @@
 ---
-title: "Shrimp Sweet Potato Salad"
+title: "Shrimp Sweet Potato Salad with Lemon"
 slug: "shrimp-sweet-potato-salad"
-description: "Crunchy air-fried sweet potatoes meet juicy shrimp tossed in a bright citrus dressing with fresh greens. A simple, nut-free, dairy-free, egg-free meal with a twist of paprika and cumin replacing classic seasonings. Quick crisping in the air fryer keeps the potatoes tender inside, edges caramelized and smoky. Shrimp pan-seared with garlic and lemon zest for punch without overpowering the earthiness of the sweet potato. Add crunchy radishes and chopped herbs to cut softness. Visual cues like sizzling sounds and golden browning dictate cook time more than clocks. Easy, flexible, forgiving, no fuss for busy nights or casual lunches. Technique notes on getting shrimps not rubbery and potatoes crisp without oil overload. Adapt with other root vegetables or canned chickpeas if shimp unavailable."
-metaDescription: "Crunchy air-fried sweet potatoes meet garlicky shrimp tossed in a fresh citrus dressing with crisp radishes and herbs. Quick, nut and dairy free meal."
-ogDescription: "Air-fried sweet potatoes with garlic shrimp, radishes, and citrus dressing. Crisp edges, tender inside. Fast, flexible, french-inspired flavor combo."
+description: "Shrimp sweet potato salad features air-fried cubed potatoes, pan-seared shrimp, and fresh greens tossed in bright lemon dressing with paprika and cumin for an easy, dairy-free meal."
+metaDescription: "Make shrimp sweet potato salad with air-fried potatoes, garlic shrimp, and lemon citrus dressing. Dairy-free, nut-free, and ready in minutes. Try it tonight."
+ogDescription: "Crispy air-fried sweet potatoes meet pan-seared shrimp in this citrus salad with lemon dressing, radishes, and fresh herbs."
 focusKeyphrase: "shrimp sweet potato salad"
 date: 2025-08-17
 draft: false
@@ -20,9 +20,17 @@ tags:
 - "air fryer"
 - "citrus"
 keywords:
-- "shrimp salad"
-- "sweet potato salad"
-- "air fryer recipe"
+- "shrimp sweet potato salad"
+- "air fryer shrimp"
+- "shrimp salad with lemon dressing"
+- "citrus shrimp salad"
+- "dairy-free shrimp salad"
+- "air fryer sweet potato"
+- "pan-seared shrimp salad"
+- "nut-free shrimp salad"
+- "easy shrimp dinner"
+- "healthy shrimp recipe"
+- "paprika cumin shrimp"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "280"
@@ -68,3 +76,51 @@ faq:
 - "q: Best way to store leftovers? a: Separate components. Sweet potatoes air fried again quick burst avoids soggy mess. Store salad greens, onions, radishes separately fridge in airtight. Dressing can go separately too. Mix just before serving keeps crisp texture intact. Shrimp reheated tough, better cold or fresh."
 
 ---
+
+Set the air fryer to 180°C. Toss the sweet potatoes with oil and spices. That's where it starts—everything else happens while those are getting crispy. Shrimp cooks in maybe three minutes total. Salad comes together in maybe five. Fifty minutes door to door, but you're mostly waiting and watching.
+
+## Why You'll Love This Shrimp Salad
+
+Tastes like summer even when it's not. The citrus hits different when it's fresh-squeezed, and the air fryer sweet potatoes stay crispy instead of soggy like roasted ones get. Shrimp doesn't get boring here—the cumin and paprika make it taste like something, not just protein. Dairy-free. No cream, no cheese, nothing heavy. Works cold the next day, maybe even better. One bowl, one pan, done.
+
+## What You Need for Air Fryer Shrimp and Sweet Potato Salad
+
+Four hundred grams of shrimp. Tails off. Makes a difference in how they feel when you eat them. Two medium sweet potatoes cut into two-centimeter cubes—not smaller or they get mushy, not bigger and the edges burn before the middle softens. One small red onion, sliced thin. Two radishes. The peppery thing matters. Two cups of mixed greens, whatever you have. Olive oil, not vegetable oil—the smoke point's fine and it tastes better. Smoked paprika and ground cumin. Two cloves of garlic, minced. One lemon—zest it first, then juice it. Fresh parsley if you can grab it. Salt and pepper.
+
+## How to Make Air Fryer Shrimp and Sweet Potato Salad
+
+Get the sweet potatoes ready first. Toss the cubes with a tablespoon of oil, the paprika, cumin, salt, pepper. Spread them flat in the air fryer basket—don't pile them. Set it to 180 degrees. Twenty-five to thirty minutes. Shake it every ten minutes. You want the edges dark and the insides soft when you poke them with a fork. Some pieces will brown faster. That's fine. That's the point.
+
+While they're going, heat the other tablespoon of oil in a pan over medium-high. Not screaming hot—just hot enough that it moves around fast. Garlic goes in for thirty seconds. Don't wait. Add the shrimp before it browns. Single layer. Salt and pepper them. Two to three minutes. Flip halfway through, stir gently. They'll curl. They'll turn pink. When they're done, they're done. Let them go another minute and they're rubber.
+
+## Getting the Texture Right on Air Fryer Sweet Potatoes with Shrimp
+
+The sweet potatoes need movement. That shake every ten minutes isn't optional—it's why they get crispy and not half-cooked. Watch the edges. When they start looking like dark honey, you're close. Interior softness comes after—test with a fork. If it goes through easy, it's there. The shrimp part is simpler. Pink means cooked. The moment they lose that translucent look in the center, pull them. Overcooking by thirty seconds changes everything. They shrink. They get tough. You feel it in your teeth.
+
+The dressing matters for texture too. Lemon juice, zest, a pinch of salt, pepper, a drizzle of oil. Whisk it until it looks like it tastes like something—not separated. Toss the salad gently. The greens bruise if you're rough, and bruised greens turn into mush in ten minutes.
+
+## Shrimp Salad Tips and Common Mistakes
+
+Don't skip the shaking. The air fryer basket shake is the difference between crispy and steamed. Don't overcrowd the basket with sweet potatoes—they need space or they steam instead of roast. Shrimp cooks fast. Faster than you think. Get everything else ready before it goes in the pan. The citrus goes in at the end as dressing. Not cooked into anything. Just fresh. Red onion gets sliced thin because raw onion is sharp and you want it to back off a little. Radishes same thing. Parsley goes on last. Sits on top. The heat doesn't wreck the fresh flavor that way. If the dressing tastes flat, it's salt. Add a pinch. Not more lemon. Salt fixes that kind of flat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Air Fryer Shrimp and Citrus Salad
+
+**Can you make this dairy-free?**
+It already is. No cheese, no cream. Just oil and lemon.
+
+**How long does this keep?**
+Two days cold. The sweet potatoes stay crisp for about twenty-four hours. After that they soften. Shrimp's fine for two days in the fridge.
+
+**What if you don't have an air fryer?**
+Roast the sweet potatoes in a 200-degree oven for thirty-five to forty minutes. Shake the pan every ten minutes like you would the basket. Shrimp still cooks on the stovetop the same way.
+
+**Can you use frozen shrimp?**
+Yeah. Thaw it first. Pat it dry. Wet shrimp makes the pan steam. Defeats the point.
+
+**What's the cumin actually doing here?**
+Warming it up. Making it feel less like a salad and more like something. Without it, it's just greens with stuff on top.
+
+**Can you swap the lemon for lime?**
+Works. Different flavor. Lime's sharper. Lemon's rounder. Both work with the air fried sweet potatoes and citrus thing you've got going.
