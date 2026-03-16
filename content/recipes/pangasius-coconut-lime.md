@@ -1,10 +1,10 @@
 ---
-title: "Pangasius Coconut Lime"
+title: "Pangasius Coconut Lime with Lemongrass"
 slug: "pangasius-coconut-lime"
-description: "Chunks of pangasius poached gently in fragrant coconut milk infused with fresh ginger and ground coriander, brightened by lime zest and juice. Fish tender but firm, enveloped in creamy sauce with subtle spicy warmth from ginger and earthy tones of coriander. Served over jasmine rice with fresh greens and lime wedges. Adapted with turmeric replacing coriander, swapped ginger with lemongrass for sharper citrusy aroma. Perfect for those avoiding nuts, dairy, gluten, and eggs. Cooked just right so fish flakes without falling apart, sauce thickened slightly, aromas layered. Timing flexible relying on bubbles and softness rather than clock."
-metaDescription: "Pangasius chunks poached in creamy coconut milk with turmeric and lemongrass. Bright lime zest finishes. Served over jasmine rice with fresh greens."
-ogDescription: "Tangy lime and earthy turmeric meet tender pangasius in a coconut milk sauce, served with jasmine rice and fresh greens. Layers of aroma and texture."
-focusKeyphrase: "Pangasius Coconut Lime"
+description: "Poached pangasius in creamy coconut milk with lemongrass, turmeric, and lime. Tender fish in fragrant Asian sauce, gluten-free and dairy-free for easy weeknight dinners."
+metaDescription: "Pangasius poached in coconut milk with lemongrass, turmeric, and fresh lime. Tender fish in creamy Asian sauce. Make it tonight."
+ogDescription: "Pangasius chunks in fragrant coconut milk with lemongrass and turmeric. Easy, gluten-free Asian fish dinner with lime."
+focusKeyphrase: "pangasius coconut lime"
 date: 2025-08-17
 draft: false
 image: pangasius-coconut-lime.jpg
@@ -21,9 +21,15 @@ tags:
 - "healthy"
 - "easy dinner"
 keywords:
-- "pangasius"
-- "coconut milk"
-- "lemongrass"
+- "pangasius coconut lime"
+- "fish poached in coconut milk with lime"
+- "coconut lime fish with lemongrass"
+- "pangasius in coconut sauce with turmeric"
+- "healthy coconut poached fish"
+- "asian seafood curry"
+- "easy weeknight fish with coconut milk"
+- "coconut fish dinner"
+- "pangasius coconut milk recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "340"
@@ -60,3 +66,90 @@ faq:
 - "q: How to store leftovers? a: Cool fast, store covered in fridge up to 2 days. Reheat low and slow, add coconut milk splash to loosen sauce. Microwave risks overcooking fish—prefer stove top gently warming."
 
 ---
+
+Lemongrass hits the pan first—that's how you know it's going to smell right. Coconut milk goes in before the fish even comes out of the fridge. Twenty minutes of prep, eighteen minutes of cooking, done. This is the kind of dinner that looks like you tried harder than you actually did.
+
+## Why You'll Love This Coconut Fish Dinner
+
+Tastes like you spent an hour on it. Didn't.
+Takes 38 minutes total—that's faster than ordering Thai food. Actual Thai flavor, actual fish, actual nutrition.
+One pan. Seriously one. The cleanup takes longer than deciding what to eat.
+Works with frozen pangasius straight from the bag. No thawing. Drop it in.
+Lime cuts through the coconut richness so it doesn't feel heavy. Even at 9 PM on a Tuesday.
+
+## What You Need for Pangasius Coconut Milk Recipe
+
+Pangasius fillets—700 grams, cut into chunks that fit on a fork. White fish. Mild. Takes the coconut and lime without fighting back. Tilapia works. So does cod, but it's three times the price.
+
+Canned coconut milk. Full fat. The kind with the cream at the top. That's the part that matters. Light coconut milk is basically water with coconut flavor. Not worth it.
+
+Lemongrass. The white part. Only that. The green stuff tastes like grass clippings. Two tablespoons, finely chopped. Fresh. Dried tastes like nothing.
+
+Turmeric powder. Half a teaspoon. Earthy. Barely there. But it changes how everything tastes.
+
+Lime. One lime. Zest goes in first. Juice goes in last. The timing matters more than you'd think.
+
+Salt and pepper. Coarse salt works better than fine. Grinds of black pepper—not pre-ground. The difference is real.
+
+## How to Make Coconut Poached Fish
+
+Pour the coconut milk into a deep saucepan. Medium heat. Let it sit for maybe three minutes before you touch it, then add the lemongrass and turmeric. Stir until it stops looking separated.
+
+Watch it. You're waiting for small bubbles at the edges—not a rolling boil. You'll hear a gentle hissing sound. That's the signal. Usually takes five to seven minutes.
+
+Now lay the pangasius chunks in one layer. Don't stack. Overlapping's fine, but stacked means steamed and that's not what this is. Spoon some coconut milk over the top. Season lightly with salt and pepper. The sauce will season it more than you think.
+
+Cover with a lid. Drop the heat to low. The pan should barely bubble—you should hear it, not watch it rage.
+
+## How to Get Healthy Coconut Fish with Perfect Texture
+
+Set a timer for ten minutes. Check it then. The fish doesn't need to be completely opaque yet. You're looking for that moment where it starts to—when you touch it with a fork and it flakes a tiny bit. Another minute or two usually.
+
+Around twelve minutes total, it should be done. Opaque all the way through. Flakes easily. That's it. Don't overcook. Overdone fish tastes like sadness.
+
+If the sauce looks too thin—too much liquid still sitting there—pull the lid off. Let it simmer uncovered for three minutes. Concentrates the flavors. Makes the coconut taste more like coconut.
+
+Take it off the heat. Here's the part that feels weird but works: add the lime zest first. Just stir it in. Then juice the lime slowly, tasting after each squeeze. The bright cuts through the creamy in a way that's hard to explain. Just tastes better than if you just dumped it all in.
+
+Taste it. Fix it. More salt? More lime? You know what it needs.
+
+## Pangasius Coconut Sauce Tips and Common Mistakes
+
+Don't use light coconut milk. Just don't. Full fat changes everything.
+
+The lemongrass has to be finely chopped. Big chunks taste weird and fibrous. You're not eating lemongrass—you're borrowing its flavor.
+
+Fresh lemongrass. Dried tastes like dried grass. Honestly haven't tried it. But I wouldn't.
+
+Frozen pangasius is fine. Better than fine. Thaw it if you want. Don't bother. Cooks the same either way.
+
+Lime juice at the end, not the beginning. Temperature kills the brightness. You add it after heat and it stays sharp.
+
+The pan has to be covered while it cooks. Uncovered means the fish dries out. The steam matters.
+
+Serve it right away. Doesn't reheat great. It's better hot the first time anyway.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Healthy Coconut Poached Fish
+
+**Can I use a different fish instead of pangasius?**
+Yeah. Tilapia, cod, halibut—anything white and mild works. Salmon tastes off with the coconut lime thing. Don't do salmon.
+
+**What if I don't have lemongrass?**
+It changes. Ginger helps but it's different. Thai basil if you have it. Honestly just skip it and add more lime. Not the same dish but it's still good.
+
+**Does this freeze?**
+Probably not great. Freezes fine. Thaws weird. The fish gets kind of mealy. Eat it fresh.
+
+**Can I make it spicy?**
+Chili flakes after. Or fish sauce—that kicks it weird directions. Haven't done both at once.
+
+**How long does it take?**
+Twenty minutes prepping stuff. Eighteen minutes cooking. Thirty-eight minutes total if you move normal. Takes longer if you're also cleaning or dealing with other stuff.
+
+**What do I serve it with?**
+Jasmine rice. Steamed bok choy. Snap peas. Green beans. Whatever green vegetable you have. The sauce is rich so vegetables balance it. Lime wedges on the side to squeeze more if you want.
+
+**Is this actually healthy?**
+Full fat coconut milk has calories but it's not bad calories. The fish is lean. Lime and lemongrass add flavor without sugar. Way lighter than cream-based stuff. More vegetables on the side makes it lighter still.
