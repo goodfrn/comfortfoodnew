@@ -1,10 +1,10 @@
 ---
-title: "Vanilla Almond Cake"
+title: "Vanilla Cake Recipe with Sour Cream"
 slug: "vanilla-almond-cake"
-description: "A light vanilla cake with a subtle almond twist. Uses cake flour, sour cream, and almond extract for a tender crumb and moist texture. Optional buttery vanilla frosting added for richness. Bake until toothpick tests clean with gentle folding to avoid gluten development. Adjust baking time slightly to follow visual cues like golden edges and springy top. Substitutes include yogurt for sour cream and vegetable oil with melted butter for depth. Classic 8x8 pan, nonstick spray. Frosting depends on butter creaming and sugar incorporation balance for fluffiness. Best cooled completely before decorating. Watch batter consistency to avoid overmixing."
-metaDescription: "Vanilla Almond Cake with sour cream and almond extract for tender crumb, moist texture. Fold gently, bake until golden edges and springy top show doneness."
-ogDescription: "Light vanilla almond cake using cake flour, sour cream, almond extract. Fold carefully, watch golden edges and springy top for bake cues."
-focusKeyphrase: "Vanilla Almond Cake"
+description: "Tender vanilla cake made with cake flour, sour cream, and a hint of almond extract. Light, moist crumb with optional vanilla buttercream frosting for a classic dessert."
+metaDescription: "Vanilla cake recipe using sour cream, cake flour, and almond extract. Tender, moist crumb with optional buttercream. Make it tonight."
+ogDescription: "Tender vanilla cake with sour cream and almond extract. Moist crumb, optional buttercream frosting."
+focusKeyphrase: "vanilla cake recipes"
 date: 2025-10-12
 draft: false
 image: vanilla-almond-cake.jpg
@@ -21,9 +21,18 @@ tags:
 - "dessert"
 - "homemade"
 keywords:
-- "vanilla cake"
+- "vanilla cake recipes"
+- "vanilla sponge cake recipe"
+- "best vanilla cake recipe"
+- "simple vanilla cake recipe"
+- "easy simple vanilla cake recipe"
+- "sour cream pound cake"
 - "almond cake"
-- "folding batter"
+- "vanilla buttercream frosting"
+- "basic sponge cake recipe"
+- "good vanilla cake recipe"
+- "vanilla sponge cake"
+- "sour cream coffee cake"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "4200"
@@ -79,3 +88,113 @@ faq:
 - "q: How store cake? a: Airtight container room temp is fine 2 to 3 days. Frosted cake better refrigerated; bring to room temp before serving. Wrap well; condensation ruins crust or makes frosting greasy."
 
 ---
+
+Preheat to 345. Grease the pan. That's where it starts. Most people do 350 and their vanilla cake cracks down the middle before it even rises right. Lower temp, longer bake, actually works. The cake comes out level. Stays moist. This vanilla cake recipe does that because you're not blasting it.
+
+## Why You'll Love This Vanilla Cake
+
+Takes 44 minutes total. Twelve minutes of prep if you're not rushing.
+The crumb. Dense but not heavy. Sour cream does that — keeps it tender all the way through without feeling wet.
+Makes enough to actually eat. Not a tiny sad thing. Feeds people. Works frosted or plain.
+Almond extract is optional but it's there. Most vanilla cakes taste like one thing. This one has something else happening in the background. Doesn't taste like almonds. Just tastes less flat.
+Stores fine for days. Cold cake is sometimes better than warm cake — sweeter, easier to cut, frosting sets right.
+
+## What You Need for Simple Vanilla Cake
+
+Cake flour. Not all-purpose. Matters more than people think. Lower protein, softer crumb.
+
+Sugar. One cup. You can use less if you don't want it sweet — reduce by 2 tablespoons and it's still good, just quieter.
+
+Baking powder. One tablespoon. Make sure it's fresh. Old powder makes dense cake. Replace it every six months if you bake.
+
+Salt. Half a teaspoon. Sounds small. Makes vanilla taste like vanilla instead of sweet nothing.
+
+Oil. Half a cup vegetable oil. Can swap half of it for melted butter if you want more flavor. Butter alone makes it dense.
+
+Milk. Whole milk works. Buttermilk works too — adds tang. Either way, half a cup.
+
+Sour cream. Half a cup. Greek yogurt if that's what you have. Both keep the cake moist and add slight tang that cuts sweetness.
+
+Egg. One large egg. Just one. More eggs and it gets cakey in a bad way — bouncy, almost rubbery.
+
+Vanilla extract. One teaspoon. Pure vanilla. Not imitation. There's a difference.
+
+Almond extract. Quarter teaspoon. Optional. Adds a note that most people can't identify but notice. Skip it if you don't have it. Add it if you do.
+
+For the frosting — butter, vanilla, powdered sugar, milk. Optional but makes it better.
+
+## How to Make Vanilla Cake Step by Step
+
+Heat oven to 345 degrees. This matters. Grease your 8x8 pan with nonstick spray or parchment. The lower temperature means the edges don't set before the center rises, so the cake comes out level instead of cracked.
+
+Whisk together flour, sugar, baking powder, salt in a medium bowl. Mix it for a minute. You're distributing the baking powder evenly so you don't get bitter pockets where it settles. This step actually matters.
+
+Separate bowl. Combine oil, milk, sour cream, egg, vanilla, almond extract. Whisk but don't go crazy. You're mixing the wet ingredients, not aerating them. Too much whisking and you're adding air bubbles that collapse during bake.
+
+Fold the wet into the dry. Do this gently. Stop as soon as the flour disappears. Streaks are fine. Lumps are fine. Overmixing develops gluten and your vanilla cake gets tough. It's tight but pourable at this point.
+
+Pour into pan. Tap it on the counter once or twice. Settles the batter and gets rid of air pockets that would make holes.
+
+Bake 27 to 32 minutes. Start checking at 27. Toothpick should come out clean or with a few moist crumbs. The edges should pull away from the pan a tiny bit. Top should feel springy when you touch it — bounces back instead of staying pushed in.
+
+Cool completely in the pan. At least an hour. Maybe longer. Warm cake and frosting don't go together. The frosting melts and slides off. Wait.
+
+## How to Get Vanilla Cake Actually Moist
+
+The sour cream and oil combo is the thing. Oil keeps it tender longer than butter alone. Sour cream adds moisture and slight tang that makes vanilla taste better. They work together.
+
+Don't overbake. That's the other thing. Check at 27 minutes. If you wait until 35, it dries out. The last few minutes matter more than people think. A few crumbs on the toothpick is done. A clean toothpick means you're close but not there yet.
+
+Cool it all the way. Room temperature completely. This finishes the cooking gently. Warm cake is still cooking. Cool cake stops cooking and stays tender.
+
+If you make frosting — and you should — let the cake cool first. Frosting on warm cake slides. Frosting on cool cake sticks and spreads smooth.
+
+## Vanilla Cake Tips and Common Mistakes
+
+Fresh baking powder. Old powder makes dense cake. It stops working after a few months even in a sealed container. Replace it every six months if you bake regularly. More if you don't.
+
+Don't overmix the batter. Gluten develops and the cake gets tough. Mix just until the flour's gone. Takes maybe 10 seconds of folding. That's it.
+
+The 345 degree temperature isn't a typo. Most recipes say 350. That extra 5 degrees burns the edges before the center bakes. Go lower. Takes a few extra minutes. Comes out better.
+
+Sour cream versus Greek yogurt — both work. Greek yogurt is thicker, so the batter might be slightly thicker. Add a tablespoon more milk if it looks too thick. Sour cream is more traditional. Doesn't matter which one.
+
+Almond extract — use it or don't. A quarter teaspoon is all you need. More than that and it tastes medicinal. If you use it, it should be subtle. You shouldn't taste almond. Just something slightly less one-note.
+
+If the frosting cracks or looks greasy, refrigerate it for 10 minutes. Then try spreading again. Cold frosting spreads. Warm frosting doesn't.
+
+Storage — airtight container at room temperature keeps it moist for 2 to 3 days. Frosted cake goes in the fridge. Let it come back to room temperature before eating. Cold frosting is too firm.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vanilla Cake Recipes
+
+**What's the difference between this vanilla cake and basic sponge cake?**
+The sour cream and oil. Most sponge cake uses butter and is whipped. This one uses oil and sour cream — ends up moister, denser, stays soft longer.
+
+**Can I make this as cupcakes?**
+Yes. Same batter. Cupcakes bake faster though — maybe 18 to 22 minutes instead of 27 to 32. Check early and often. They dry out quick.
+
+**Why does my vanilla cake crack on top?**
+Temperature's too high usually. Try 345 like the recipe says. Also don't open the oven door until minute 25. Cold air hitting hot cake makes it crack.
+
+**How do I make this recipe for simple cake less sweet?**
+Reduce the sugar by 2 tablespoons. Sounds like nothing. Changes the whole thing. The vanilla comes through more.
+
+**Can I skip the almond extract?**
+Yes. Nothing happens if you do. It's optional. Most people don't notice it's missing.
+
+**How long does frosted vanilla cake last?**
+Three days in the fridge, covered. Room temperature it goes stale faster — maybe 24 hours. Cold is better for storage.
+
+**Is there an easy simple vanilla cake recipe without frosting?**
+This one is it. Cake's good plain. Dust it with powdered sugar if you want something on top. That counts as frosting sometimes.
+
+**What if my cake is dense?**
+Baking powder was old. Or you overmixed. Can't fix it this time. Next time use new baking powder and fold gently. Stop as soon as flour's gone.
+
+**Why use oil instead of butter?**
+Oil keeps it tender longer. Butter makes it crumble slightly. Oil and sour cream together — that's the combo that works.
+
+**Can I use almond flour instead of cake flour?**
+No. Different thing. Almond flour is mostly fat. Cake flour is starch and protein. They don't work the same way.
