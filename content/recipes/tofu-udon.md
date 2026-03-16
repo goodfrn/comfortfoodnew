@@ -1,10 +1,10 @@
 ---
-title: "Tofu Udon with Green Beans"
+title: "Peanut Noodle with Tofu and Green Beans"
 slug: "tofu-udon"
-description: "Firm tofu browned in vegetable oil with garlic and ginger. Green beans blanched, halved lengthwise. Fresh udon noodles boiled then mixed with a tangy sauce made from water, reduced-sodium soy sauce, peanut butter, ketchup, brown sugar, and a spicy chili paste. Finished with sliced green onions and crunchy roasted peanuts. Sauce thickened by simmering with tofu. Quick cook times and minimal prep for four servings. Plant-based, vegan, nut-free option possible by omitting peanuts or substituting butter. The dish balances protein, veggies, and chewy noodles in one bowl."
-metaDescription: "Tofu Udon with Green Beans features browned tofu, blanched green beans, fresh udon noodles, and a tangy peanut-soy sauce for a hearty vegan meal."
-ogDescription: "Browned tofu, crisp green beans, chewy udon noodles tossed in a tangy peanut-soy sauce. Quick vegan bowl with garlic, ginger, and optional chopped peanuts."
-focusKeyphrase: "Tofu Udon with Green Beans"
+description: "Peanut noodle dish with crispy tofu, green beans, and udon tossed in a tangy peanut butter sauce made with soy sauce, ketchup, and sambal oelek. Quick weeknight dinner."
+metaDescription: "Make peanut noodles with firm tofu and green beans in a homemade peanut butter sauce. Fresh udon, soy sauce, and spicy sambal oelek. Try it tonight."
+ogDescription: "Crispy tofu meets udon noodles in a zesty peanut butter sauce with green beans and roasted peanuts. Easy plant-based dinner."
+focusKeyphrase: "peanut noodle"
 date: 2025-07-30
 draft: false
 image: tofu-udon.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "one pot"
 keywords:
-- "tofu udon"
-- "green beans recipe"
+- "peanut noodle"
+- "peanut butter noodles"
 - "peanut sauce noodles"
+- "stir fry udon recipe"
+- "cooking tofu in stir fry"
+- "easy udon noodle recipe"
+- "tofu stir fry vegetables"
+- "udon noodle recipe vegan"
+- "noodle peanut butter sauce"
+- "peanut spicy noodles"
+- "udon noodle recipe vegetarian"
+- "peanut thai noodles"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -76,3 +85,78 @@ faq:
 - "q: Can leftovers be reheated? a: Store in airtight container up to 2 days fridge. Reheat gently in skillet adding reserved pasta water for sauce loosen. Microwave possible but dry risk. Not suitable for freezing due to noodles texture."
 
 ---
+
+Cut the tofu into chunks first. Then you're crumbling it. It browns faster when it's actually broken apart instead of sitting there in big blocks. One pot. Well, technically one skillet. That matters because this whole thing lives in one place from start to finish—no moving between pans, no extra cleanup. Takes 55 minutes total. 20 to prep, 35 to cook. Move fast on the prep and it's quicker.
+
+## Why You'll Love This Peanut Noodle Dish
+
+One pot means you're done in under an hour and washing dishes takes like five minutes.
+The tofu gets actually crispy—browned in oil, not steamed or sad. Changes everything.
+It's vegetarian but doesn't feel like you're missing the meat. The peanut sauce does that.
+Works as a quick weeknight thing or something you meal prep. Cold the next day, still good.
+Green beans stay green. Not mushy. That's the blanch-and-stop trick.
+Actually easy. Sounds complicated. Isn't.
+
+## What You Need for Peanut Butter Noodles and Tofu
+
+**Sauce stuff:** Water. Reduced sodium soy sauce—150 ml. Ketchup sounds weird but it rounds the whole thing out. Peanut butter, the real kind. Brown sugar. Sambal oelek if you want heat. You don't have to use it. Black pepper at the end.
+
+**Tofu and everything else:** Firm tofu, 500 grams, crumbled. Vegetable oil for the pan. Garlic—three cloves, minced. Fresh ginger, minced. Green beans, 200 grams, trimmed. Four packages of fresh udon noodles. They come in 180-gram packs. Green onions to finish. Roasted peanuts if you want them—optional but they add something. Rough chop them.
+
+## How to Make Peanut Noodle Pasta With Peanut Sauce
+
+Start with the sauce because it just sits there. Combine the water, soy sauce, ketchup, peanut butter, brown sugar, and sambal oelek in a medium bowl. Whisk it until smooth. No lumps of peanut butter floating around. Add black pepper. Set it aside.
+
+Heat the oil in a large non-stick skillet. Medium-high heat. Get it hot—you'll see the shimmer. Add the crumbled tofu. This is where the magic starts. Stir constantly for about 12 minutes. You're looking for deep brown. Not light brown. Dark. The corners get crispy. That's what you want. Stir often so nothing sticks to the bottom and burns black.
+
+Once the tofu looks right, stir in the garlic and ginger. Two more minutes. Keep moving it around so it doesn't burn. The smell gets really strong and that's good.
+
+## How to Get Peanut Butter Noodles Coated and Thick
+
+Pour the sauce into the pan with the tofu. It'll bubble up immediately. That's normal. Bring it to a boil—takes maybe a minute. Then lower the heat and let it simmer. Five to seven minutes. Stir often. The sauce gets thicker and starts clinging to the tofu pieces instead of running off. You'll see it coat the tofu. That's when it's ready.
+
+While that's happening, get your green beans going. Boil salted water in a separate pot. Add the green beans. Four minutes. Not more. Pull them out with a slotted spoon so you keep the water—you'll need it for the noodles. Rinse them under cold water. Stop them from cooking. Cut them in half lengthwise. They soften a tiny bit but stay firm.
+
+Same water, add the udon noodles. Four minutes. Fresh noodles cook fast. Before you drain them, grab a measuring cup and scoop out 250 milliliters of the pasta water. Save it. Drain the noodles. Don't rinse them.
+
+Add the noodles and green beans to the tofu and sauce. Toss gently. If it looks too thick, add some of that pasta water. A little at a time. Stir. It'll loosen up.
+
+## Peanut Noodle Stir Fry Tips and What Goes Wrong
+
+The oil has to actually be hot before the tofu hits the pan. Cold oil means the tofu steams instead of browns. Takes longer. Tastes different.
+
+Don't skip the blanching. People think it's extra. It's not. The beans stay bright green and firm instead of turning muddy and soft.
+
+Green beans cooked in the sauce the whole time get mushy. That's why you blanch them separate and add them at the end.
+
+The pasta water fixes everything. Too thick? Water. Too thin? Cook it down for another minute. You don't need fancy ratios. Just adjust.
+
+Sambal oelek is spicy. Start with less if you're not sure. You can add more. Can't take it out.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Peanut Butter and Ramen Noodles
+
+**Can I use silken tofu instead of firm?**
+No. It falls apart into mush. Firm or extra firm. That's it.
+
+**What if I don't have udon noodles?**
+Ramen noodles work. Regular pasta works. Rice noodles work. Any noodle that holds sauce. Fresh matters more than the exact type.
+
+**How do I know when the tofu is browned enough?**
+When it stops looking pale and starts looking like toast. Deep brown on the edges. Takes about 12 minutes if the heat's right and you keep stirring.
+
+**Can I make the sauce ahead?**
+Yeah. Make it the night before. Keeps in the fridge. Stir it before using.
+
+**Is the sambal oelek necessary?**
+No. It's heat. If you don't like spicy, skip it. The sauce works fine without.
+
+**Can I prep the tofu and vegetables the night before?**
+Crumbled tofu gets weird sitting in the fridge. Blanched green beans are fine overnight. Do the tofu the day of.
+
+**How long does it keep?**
+Three days in the fridge. Reheats fine on the stove. Add a splash of water if it's dry. Tastes better cold than you'd think.
+
+**Can I use peanut butter powder instead of real peanut butter?**
+Haven't tried it. Probably changes the texture. The real stuff is worth it.
