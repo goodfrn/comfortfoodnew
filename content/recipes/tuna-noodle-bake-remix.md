@@ -1,10 +1,10 @@
 ---
-title: "Tuna Noodle Bake Remix"
+title: "Tuna Casserole with Egg Noodles"
 slug: "tuna-noodle-bake-remix"
-description: "Classic tuna casserole with egg noodles, peas, cheddar, and a creamy mushroom base gets a tweak. Slightly altered ingredient quantities; swapped celery salt with smoked paprika for a subtle smoky kick. Steps reorganized and times adjusted to rely on sensory cues rather than clock-watching. Finish with golden browned breadcrumb topping for contrast. Emphasis on texture, aroma, and visual signals to nail doneness every time. Pro tips for common mishaps, ingredient swaps, and boosting flavor without extra fuss. Protein-packed, comforting weeknight dish with familiar flavors but subtle complexity."
-metaDescription: "Tuna Noodle Bake Remix with smoky paprika, gooey cheddar, and crunchy toasted breadcrumbs. Al dente noodles, bubbling edges, golden top, and creamy mushroom base."
-ogDescription: "Smoky paprika swaps celery salt. Al dente noodles, bubbling edges, crunchy browned crumbs, melted cheddar spots. Watch aroma and color to nail bake timing."
-focusKeyphrase: "Tuna Noodle Bake"
+description: "Classic tuna casserole with egg noodles, peas, cheddar cheese, and creamy mushroom soup. Golden breadcrumb topping and smoked paprika add depth to this comforting weeknight dinner."
+metaDescription: "Make tuna casserole with egg noodles, peas, and cheddar cheese. Creamy mushroom base with smoked paprika and crispy breadcrumb topping. Try it tonight."
+ogDescription: "Creamy tuna casserole with egg noodles, peas, and cheddar. Topped with buttery breadcrumbs and finished with smoked paprika."
+focusKeyphrase: "tuna casserole"
 date: 2026-01-10
 draft: false
 image: tuna-noodle-bake-remix.jpg
@@ -21,9 +21,17 @@ tags:
 - "cheese"
 keywords:
 - "tuna casserole"
-- "egg noodle bake"
-- "smoked paprika tuna"
-- "breadcrumb topping"
+- "tuna casserole recipe"
+- "tuna noodle casserole"
+- "baked tuna casserole"
+- "tuna casserole with egg noodles"
+- "tuna noodle casserole recipe"
+- "egg noodle and tuna casserole"
+- "tuna pasta bake recipe"
+- "tuna fish casserole recipe"
+- "tuna bake recipe"
+- "simple tuna casserole recipe"
+- "easy tuna casserole"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "380"
@@ -68,3 +76,101 @@ faq:
 - "q: How to store leftovers? a: Cover leftovers tightly, fridge fine for 3-4 days. Breadcrumb topping loses crunch fast refrigerated so add fresh crumbs before reheating. Microwave warms fast but steams topping soft; oven or toaster oven better for crisp. Freeze in airtight container up to 2 months but topping soggy after thaw."
 
 ---
+
+Warm noodles, still steaming. Dump in the tuna, the peas, the soup. Stir it all together and it already smells like dinner — that creamy, comforting thing you knew was coming. Forty-seven minutes from now it's done. Not complicated. Just good.
+
+## Why You'll Love This Tuna Casserole
+
+Takes 12 minutes to throw together. Seriously. Everything gets mixed in one bowl and goes straight into the oven.
+Cheese melted into the noodles, then more on top that gets actually crispy. Works as dinner on a Wednesday or Sunday or whenever you need something that tastes like home.
+One dish to wash. The baking dish. That's it.
+Leftover tuna casserole tastes better the next day. Cold or reheated. Both work.
+The kind of thing kids eat without complaining and adults actually want seconds of. Comfort food that doesn't feel like a cop-out.
+
+## What You Need for a Tuna Casserole Dish
+
+Egg noodles. Twelve ounces. Cook them al dente — still has a tiny bit of fight to it. They're going to keep cooking in the oven, so don't go soft.
+
+Frozen peas. One cup. Thawed. Don't bother cooking them. They thaw in the warm pasta.
+
+Two cans of tuna. Five ounces each. Drained. Oil or water doesn't matter much — just squeeze it out. More liquid means you add less milk later.
+
+Cream of mushroom soup. One can. Condensed. The kind in the red and white label. Not the "ready to serve" version.
+
+Milk. One cup. Whole is better. Two percent works fine. The soup plus the milk is what makes it creamy without being soup soup.
+
+Cheddar cheese. Mild. One and a quarter cups total. Shredded. Save a quarter cup for the top.
+
+Smoked paprika. Half a teaspoon. Gives it a tiny bit of something — not smoky loud, just a whisper. Celery salt works if that's what's there.
+
+Black pepper. Freshly cracked. Not the pre-ground stuff. Tastes actual.
+
+Parsley. Dried or fresh. A teaspoon dry, a tablespoon fresh. Honest optional. Does nothing and everything at the same time.
+
+Bread crumbs. Three quarters cup. Fresh white bread works. Panko works. Stale bread pulsed in a food processor works. Not the Italian seasoned kind.
+
+Butter. Three tablespoons. Melted. Toss it with the crumbs so they toast even.
+
+## How to Make a Tuna Casserole Recipe
+
+Heat the oven to 355. Not 350. The slightly higher temp gets the top browned without the insides staying cold. Grease a 9 by 13 dish. Oil or spray. Doesn't matter.
+
+Noodles go in a big bowl while they're still warm — that's the trick nobody talks about. Warm noodles soak up flavor faster. Stir in the peas. Then the tuna. Break it up a little but not so much it turns to paste. Pour the soup in. The milk. One cup of the cheese. The smoked paprika. Black pepper. Parsley if you're using it. Stir it until everything looks coated. Should be creamy but not runny. If it's too thick, splash more milk. If it looks soupy, you drained the tuna wrong.
+
+Dump it into the dish. Press it down so it's not all air pockets, but don't mash it like you're mad. Cover it tight with foil.
+
+Bake it covered for about 22 minutes. The edges will start bubbling. You'll smell the mushroom and cheese warming up. That's when you know it's working.
+
+## How to Get Tuna Casserole Crispy on Top
+
+While it's baking, mix the bread crumbs with the melted butter. Use your hands. Make sure every crumb gets coated. If it looks dry, add another half tablespoon of butter. The crumbs should look wet, not soaked.
+
+Pull the casserole out at 22 minutes. The foil comes off — steam comes out, watch your face. Sprinkle the buttery crumbs over the top in an even layer. Not thick. Just enough you can see the noodles underneath. Scatter the remaining quarter cup of cheese over it.
+
+No cover now. Move it to the upper rack — the top rack basically. The closer it is to the heat the more the crumbs brown. Bake it uncovered for 7 to 12 minutes. Watch it. The crumbs should turn golden, almost the color of butter in a hot pan. The cheese should bubble in spots. When it looks that way, it's done. Don't trust a timer for this part.
+
+Let it sit five minutes before you serve it. Not because it tastes better — it does, but that's secondary. It thickens the sauce. Cools it enough you won't burn your mouth.
+
+## Tuna Casserole Tips and Common Mistakes
+
+Don't overcook the noodles before the casserole goes in. They'll keep cooking. Overcooked noodles in the oven are mushy noodles. Al dente. That phrase means something.
+
+The oven rack position matters. Lower third for covered baking — even heat. Upper third for the crumb topping — direct heat so it actually browns instead of steaming.
+
+If your topping comes out pale, the oven's not hot enough or you didn't give it enough time. Turn it up to 365 next time. Or just bake it longer — it won't hurt the casserole underneath.
+
+Fresh bread crumbs brown better than panko. Panko is mostly air. Still works, just add a tiny bit more butter so they don't stay white.
+
+The tuna casserole gets better cold. Next day. Slice it, eat it straight from the fridge. The flavors meld overnight. Weird but true.
+
+Don't skip the smoked paprika. You won't taste "smoke" — you'll just taste like something's there that wasn't before. Without it, it's flat.
+
+Milk and water from the tuna cans is not the same. Drain the tuna actual. You control how creamy it gets.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tuna Casserole Recipe
+
+**Can you make a tuna casserole ahead of time?**
+Yes. Mix everything except the bread crumb topping. Cover it and put it in the fridge for up to 24 hours. When you're ready, add the topping and bake it. Might need an extra 5 minutes if it's cold going in.
+
+**What's the best way to reheat tuna casserole?**
+Three hundred fifty degrees. Covered. About 15 minutes until it's warm through. The covered part keeps it from drying out. You could also eat it cold straight from the fridge. Honestly better that way.
+
+**Can you freeze a tuna casserole?**
+Bake it first. Cool it all the way. Then wrap it tight and freeze it. Lasts about three months. Thaw in the fridge overnight, then reheat covered at 350 for 20 minutes.
+
+**What can you substitute for cream of mushroom soup?**
+Cream of chicken works. Cream of celery works. Cream of potato works. Just one can. Condensed. Don't use the ready-to-serve stuff — too much liquid and it breaks the ratio.
+
+**Is a tuna hotdish the same as a tuna casserole?**
+Same thing. Different regions call it different names. Hotdish is Minnesota. Casserole is everywhere else. Same noodle-based baked tuna pasta dish. Same concept.
+
+**Why does the tuna casserole topping get soggy?**
+Not enough butter on the crumbs. Or covered for too long after the topping goes on. The foil traps steam. Takes the crunch out. Once the crumbs are on, don't cover it again.
+
+**Can you add other vegetables to a tuna casserole?**
+Sure. Corn works. Carrots (cooked first). Celery (cooked first). Diced bell peppers (cooked first). Add them when you mix everything together. More vegetables means slightly less milk since they release water when baked.
+
+**What's the difference between tuna in oil and tuna in water?**
+Oil has more flavor. Water is lighter. Either works here. Just drain it well. Don't use the liquid no matter which kind you have.
