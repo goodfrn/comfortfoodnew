@@ -1,10 +1,10 @@
 ---
-title: "Zucchini Lime Muffins"
+title: "Zucchini Lime Muffins with Oat Flour"
 slug: "zucchini-lime-muffins"
-description: "A batch of zucchini lime muffins that rise light and moist. Uses grated zucchini softened first to avoid soggy texture. Lime zest and juice give a tangy brightness, balanced with honey instead of sugar for a subtler sweetness. Plain flour replaced partly with oat flour for a nuttier, denser crumb. Baking powder swapped out for double-acting powder to get better rise. Optional cream cheese lime glaze added for contrast. Tested with slight tweaks in mixing order and resting time for better texture and keeping them from collapsing. Ideal for brunch or snack, holds well in fridge or freezer."
-metaDescription: "Zucchini Lime Muffins with honey, oat flour, and double-acting baking powder. Tangy lime zest, moist crumb, optional cream cheese glaze. Holds well chilled or frozen."
-ogDescription: "Moist zucchini lime muffins using grated zucchini drained well, honey, oat flour for texture, plus optional cream cheese lime glaze. Watch cracks, not clock."
-focusKeyphrase: "zucchini lime muffins"
+description: "Zucchini lime muffins made with grated zucchini, honey, and fresh lime juice for brightness. Oat flour adds nuttiness while cream cheese glaze brings tangy contrast."
+metaDescription: "Zucchini lime muffins recipe using grated zucchini, honey, and fresh lime juice. Light, moist breakfast treat. Save this one."
+ogDescription: "Tender zucchini lime muffins with oat flour, honey, and cream cheese glaze for a tangy breakfast favorite."
+focusKeyphrase: "zucchini muffins"
 date: 2025-08-16
 draft: false
 image: zucchini-lime-muffins.jpg
@@ -22,8 +22,15 @@ tags:
 - "healthy"
 keywords:
 - "zucchini muffins"
+- "muffins"
+- "muffin recipes"
 - "lime muffins"
+- "oat flour muffins"
 - "honey muffins"
+- "cream cheese glaze"
+- "breakfast muffins"
+- "easy muffin recipe"
+- "zucchini recipe"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "260"
@@ -75,3 +82,79 @@ faq:
 - "q: Storing tips? a: Airtight fridge up to 5 days fine; keep moisture in. Freeze individually wrapped, thaw slowly. Glaze keeps better chilled. Avoid freezer moisture buildup; wrap tight."
 
 ---
+
+Grate the zucchini. Microwave it 2 and a half minutes covered. Drain it but not totally—keep some moisture. Too dry means dense. Too wet means soggy. That's the whole thing right there.
+
+## Why You'll Love These Zucchini Muffins
+
+Takes 35 minutes to prep if you're not slow. Then 30 minutes in the oven. Total hour and 5 minutes. Works for breakfast, for snacks, for when you want something with vegetables baked in and nobody has to know.
+
+Stays moist. Seriously—the zucchini does that. The honey helps too. And they work cold from the fridge, maybe even better than fresh.
+
+Lime makes it taste different from every other muffin recipe. Not overpowering. Just enough to make you think about it. The glaze is optional. Skip it if you want less sugar. Still good.
+
+Freezes perfectly. Wrap them individually and thaw at room temperature or just eat them cold. Lasts five days in an airtight container—haven't made them last longer than that.
+
+## What You Need for Zucchini Muffins
+
+Zucchini. Two hundred grams. Grated coarse. Microwave it covered for 2 and a half minutes, then drain it lightly—keeps some moisture but not enough to wreck the crumb.
+
+Honey. A hundred and fifty grams. Not sugar. Honey stays softer longer and adds something deeper. Matters.
+
+Butter. A hundred and twenty grams, softened. Room temperature. Cold butter means lumps in the batter.
+
+Two large eggs. That's it.
+
+Lime zest and juice. Two limes. Finely grated zest. Sixty milliliters of juice. Not lemon. Lime's sharper. Different thing.
+
+All-purpose flour. Two hundred grams. Oat flour. Sixty-five grams. The oat flour keeps it tender.
+
+Baking powder. Six milliliters. Bicarbonate of soda. Five milliliters. Sifted separately before folding in—prevents clumps, gets air distributed.
+
+For the glaze: thirty milliliters lime juice, a hundred and twenty grams powdered sugar, sixty grams cream cheese softened. Optional. The muffins work without it.
+
+## How to Make Zucchini Muffins
+
+Set your oven to 175°C. Middle rack. Get the muffin tin ready with paper liners in all 12 cups.
+
+Grate the zucchini coarse. Microwave it covered for 2 minutes, maybe 30 seconds more. Drain lightly. The goal is damp, not wet. Too much water kills the crumb every time.
+
+Toss the zucchini in a food processor with the honey and softened butter. Blitz until it's almost creamy—not perfectly smooth, but no lumps of butter visible. Add the eggs one at a time. Pulse between each one. Then the lime zest and juice. Pulse just to combine. Don't overmix. The batter should have some texture still.
+
+Sift the flours, baking powder, and soda separately. This matters more than people think. Sifting gets air in, prevents those hard spots that sometimes show up in muffins. Fold this into the wet mixture carefully. Fold, don't stir. Use a spatula. The batter should be thick and flecked with green.
+
+Spoon it into the muffin cups evenly. Fill to about three quarters full. Tap the tray sharply once on the counter. Releases air bubbles before they bake and leave holes. If the batter's resisting, a spatula swirl on top evens the surface. Don't overdo it.
+
+## How to Get Zucchini Muffins Perfectly Domed
+
+Bake 27 to 32 minutes. Not 30 minutes exactly. Watch them. You're looking for domed tops with light cracks on the surface. The edges should pull away slightly from the liners and turn golden. A toothpick in the center should come out clean or with moist crumbs. Raw batter means go longer. Dry means they're done.
+
+Cool them in the pan for 5 minutes. No longer. Too soon and they're fragile, fall apart when you unmold them. Wait too long and the edges stick to the liners and tear. Five minutes is the sweet spot.
+
+Move them to a cooling rack. Let them go fully cold before glazing.
+
+If you're doing the glaze—whisk the softened cream cheese until it's smooth. Add the powdered sugar gradually. Then the lime juice. Thin enough to drizzle but thick enough to hold shape. Spread it on when the muffins are completely cool. Or pipe it if you want. Put them in the fridge if it's warm out. The lime cuts through the sweetness.
+
+Store them airtight in the fridge. Five days. Freeze them individually wrapped and thaw gently. They keep their moisture that way.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Zucchini Muffin Recipes
+
+**Can you use frozen zucchini instead of fresh?**
+Thaw it first. Squeeze out the water. Probably works but it gets softer, might change the texture slightly. Fresh is better.
+
+**What if you don't have oat flour?**
+Use all all-purpose flour instead. They'll be slightly denser. Not bad. Just different.
+
+**Do the muffins actually taste like zucchini?**
+No. The lime's the main flavor. The zucchini keeps them moist and adds nothing you'd notice. That's the point.
+
+**Can you skip the glaze?**
+Yeah. The muffins are good without it. The glaze makes them sweeter and adds that sharp lime tang. Not necessary.
+
+**How do you know when they're actually done baking?**
+Domed tops. Light cracks on the surface. Edges pull away from the liners. Toothpick in the center comes out clean or with moist crumbs, not wet batter. If you're not sure, add a minute.
+
+**Can you make these muffins ahead?**
+Make them the day before. Store them airtight. Reheat gently if you want them warm or eat them cold. They actually taste better the next day—the lime flavor settles in.
