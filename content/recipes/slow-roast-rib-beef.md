@@ -1,10 +1,10 @@
 ---
-title: "Slow-Roast Rib Beef Twist"
+title: "Roasted Roast Beef with Thyme & Horseradish"
 slug: "slow-roast-rib-beef"
-description: "A slow-cooked rib roast that melds sweet shallots and fresh thyme with a splash of red wine. Low and slow at 140 ºC, replaced mustard with horseradish for a zing. Beef basted in pork fat, not butter—deeper flavor, richer crust. Roast until internal temp hits 56 ºC, let rest covered 15 minutes. Perfect tenderness comes from patience and watching juices run clear when poked. Substitutions: chicken stock swaps beef broth for a lighter base; garlic replaced with black garlic for mellow depth. Key is a well-browned exterior and fragrant roasting platter—smells fill the kitchen, a sign to start salivating."
-metaDescription: "Slow-Roast Rib Beef Twist cooks low at 140 C; horseradish rub, pork fat basted; watch for juice drops and 56 C internal temp for tender medium-rare beef."
-ogDescription: "Slow roast rib beef low at 140 C with pork fat and horseradish. Watch juices, rest 15 mins; slice thin for tender, juicy results every time."
-focusKeyphrase: "slow roast rib beef"
+description: "Roasted roast beef with fresh thyme, shallots, and horseradish basted in pork fat for a rich crust. Slow-roasted until perfectly tender."
+metaDescription: "Roasted roast beef recipe with fresh thyme, black garlic, shallots, and horseradish. Low-temperature roasting for tender, flavorful results. Try it tonight."
+ogDescription: "Slow-roasted beef with fresh thyme, shallots, and horseradish. Basted in pork fat for deep flavor and a golden crust."
+focusKeyphrase: "roasted roast beef"
 date: 2025-08-18
 draft: false
 image: slow-roast-rib-beef.jpg
@@ -21,9 +21,18 @@ tags:
 - "slow cooker"
 - "main dish"
 keywords:
-- "rib beef roast"
-- "slow cooking beef"
-- "black garlic shallots"
+- "roasted roast beef"
+- "rib roast prime rib"
+- "prime rib recipe"
+- "slow cooker roast beef"
+- "beef roast recipe"
+- "roast beef recipe slow cooker"
+- "prime rib roast recipe"
+- "slow roasted beef"
+- "tender roast beef"
+- "horseradish roast beef"
+- "thyme roasted beef"
+- "pork fat roasted meat"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -63,3 +72,97 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly, refrigerate within 2 hrs. Use within 3 days. Freeze in airtight container; lasts up to 2 months. Warm gently in oven or skillet later, avoid microwave to keep texture. Slice thin for even reheating."
 
 ---
+
+Two kilos of beef. Low heat. That's the whole thing. Oven to 140 C—slower than you'd think, which is exactly the point. Shallots go down first. Then the roast sits on top of them for almost two hours while everything else just happens.
+
+## Why You'll Love This Roasted Rib Roast
+
+Comes out so tender you barely need a knife. The slow cooking does that—pulls moisture back into the meat instead of driving it out.
+
+It's a main dish that feels like comfort food but doesn't need babysitting. Twenty minutes of work, then the oven takes over.
+
+Makes its own gravy. The pan juices alone are worth the time. No extra sauce required.
+
+Feeds a crowd. Two kilos goes far. Leftovers work cold or reheated—stays juicy either way, maybe better the next day.
+
+Not a fussy technique. No searing at screaming temperatures. No complicated timing. Just patience and a thermometer if you have one.
+
+## What You Need for a Perfect Rib Roast
+
+Two kilos of boneless rib beef. Tied with string or it falls apart during cooking. That matters.
+
+Four shallots, sliced thin. Not onions. Shallots. They caramelize differently—sweeter, less sharp. Onions get aggressive.
+
+Black garlic. Three cloves minced fine. Regular garlic works if that's what you have, but black garlic doesn't burn at low temps. Flavor goes deeper.
+
+Eighty milliliters of pork fat. Softened, not melted. That's roughly five tablespoons if you're measuring. Ghee works. Butter works but browns faster. Olive oil doesn't have the flavor.
+
+Seven hundred milliliters of chicken stock. Hot or cold doesn't matter much. It's humidity in the pan, not a braise. Don't drown the roast.
+
+Two tablespoons horseradish. The prepared kind. It forms a crust on the meat—holds flavors in, adds bite without being aggressive.
+
+Fresh thyme. Five sprigs. Strip the leaves off before tossing them in. The stems are just waste.
+
+Salt and cracked black pepper. Real black pepper. Pre-ground tastes like dust after this long.
+
+## How to Make a Roasted Rib Roast
+
+Get the oven to 140 C. That's 285 F if you're in Fahrenheit. Slow matters here. Standard roasting temps cook the outside faster than the inside can catch up—you get a grey band around the edges, which means overdone meat while the center's still figuring itself out. Low and slow coaxes juice back in instead of out.
+
+Heat half the pork fat in a skillet over medium. Not high. Medium. Throw in the sliced shallots and minced black garlic. Listen for the sizzle. You want them to go soft and start catching color at the edges—takes maybe five minutes. You'll smell the sweetness rising. That's caramelization, but gentle. Not rushed.
+
+Last minute, toss in the thyme leaves. Just the leaves, not stems. Let them warm for maybe a minute. They release their oil. Then slide the whole thing—shallots, garlic, thyme—into your heaviest roasting pan. Cast iron works perfect. A thick ceramic or metal pan also fine. Something that holds heat.
+
+Pat the beef completely dry with paper towels. This is crucial. Moisture on the surface means steam instead of searing. Even at low temps, a dry surface means better crust. Rub the remaining pork fat all over the roast. Get it everywhere. Then coat the top and sides with the horseradish paste. Not the bottom—that goes on the shallot bed. Season heavy with salt and pepper. Crack the pepper by hand if you can. This crust is your flavor shield.
+
+Nestle the roast fat side up on top of the shallot bed. Pour the chicken stock into the pan around the roast—not over it, not underneath. Around it. You want humidity, not a bath. The liquid sits in the bottom while the meat cooks above it, steaming gently.
+
+## How to Get a Roasted Rib Roast Actually Tender
+
+Insert a probe thermometer if you have one. Aim for the center of the roast, not touching bone. Set it to 56 C for medium-rare. That's 133 F.
+
+Roast for about an hour and forty-five minutes. But—and this matters—ignore the clock after an hour. Watch the meat instead. You'll start seeing juice droplets collecting on the surface. That's the roast telling you it's resting, which sounds wrong but happens partway through cooking. It rests, then cooks again. It's normal. Keep going until the internal temp hits your target.
+
+No thermometer? That's fine too. Test the firmness by pressing the meat gently. It should yield under pressure but bounce back. Not squishy. Not hard. A specific feeling you'll recognize once you do it.
+
+Remove the roast from the oven. Tent it loosely with foil—not tight, just draped over. This lets it keep some warmth without continuing to cook. Let it rest for fifteen minutes minimum. This intensifies flavor and locks in moisture. Real thing. Not optional. While it rests, stick the roasting pan on the stovetop over medium heat if you want pan jus. Simmer it for a few minutes. Skim fat off the top if you're feeling fancy. You don't have to.
+
+Slice the roast thin, against the grain. That matters for texture. Against the grain means shorter muscle fibers, which feels more tender in your mouth. Serve it with the roasted shallots and whatever juices came out of the pan. Potato mash cuts the richness. So do simple greens.
+
+## Roasted Rib Roast Tips and Mistakes
+
+The string matters. If the roast isn't tied, it spreads out as it cooks and the edges overdone before the middle catches up. Just tie it loosely enough that you can wiggle your finger underneath. Not a tourniquet.
+
+Don't sear it first. Some recipes do that. Skip it. The horseradish crust and low heat are enough. Searing adds time and doesn't improve anything here.
+
+The shallots soften as the roast cooks. By the end they're almost falling apart. That's correct. They add flavor to the pan jus and taste better when they've broken down.
+
+Black garlic doesn't burn, but regular garlic can. If you're using regular garlic instead, mince it smaller and toss it in during the last ten minutes of shallot cooking. Keeps it from turning bitter.
+
+Horseradish paste is sharper than fresh horseradish. Two tablespoons is the right amount. More and it tastes like condiment instead of seasoning. Less and you lose the flavor in two hours of cooking.
+
+The pan juices are going to taste salty because salt concentrates as liquid reduces. Start tasting before the roast is done if you're making gravy. You can dilute it with stock.
+
+Leftover roast stays good for three days in the fridge. Cold, it's excellent with mustard and bread. Reheated gently in a low oven with a splash of stock, it stays juicy.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Rib Roast
+
+**Can I make this in a slow cooker instead of the oven?**
+Yeah. Brown the shallots and horseradish crust on the beef the same way. Throw it all in the slow cooker on low. Takes about six hours instead of two. Check the internal temp after five. It'll still be tender—maybe even more so. The advantage of the oven is you get some browning. Slow cooker's all steam.
+
+**What if I don't have black garlic?**
+Use regular. Mince it fine. Add it during the last ten minutes of cooking the shallots, not at the beginning. Regular garlic browns and bitters over two hours. Black garlic doesn't. Makes a difference but not a dealbreaker.
+
+**How much does 2kg of beef actually feed?**
+Eight people as a main course if there are sides. Six if that's all there is. Depends on appetite. There's usually some left over, which is the point.
+
+**Can I use a prime rib instead of a rib roast?**
+Same thing basically. Prime rib just means it's graded higher. Cook it exactly the same way. Same time, same temperature. The horseradish crust works on any rib roast.
+
+**What happens if it goes over 56 C?**
+It gets grayer and tighter. Still edible. Still fine. Just not as pink or tender. Goes to like 63 C and it's legitimately cooked through but a bit firm. The two-hour window is pretty forgiving if you're within five degrees either way.
+
+**Can I do this with a chuck roast instead?**
+Sure. Chuck has more connective tissue so it actually benefits from low heat more than rib does. Might take closer to three hours though. Chuck's denser. Different cut entirely but the method works. Just adjust time based on size and shape, not the recipe.
