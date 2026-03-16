@@ -66,20 +66,12 @@ instructions:
 - "In reserved pancetta fat, add water, cover and bring to boil. Add fresh clams if using, cover and cook 4 to 8 minutes till shells open. Discard any unopened."
 - "Serve chowder in bowls topped with fresh clams and remaining pancetta. Sprinkle fresh chives liberally."
 - "Great with crackers or crusty bread."
-introduction: "Cold nights, warm chowder. Clams, creamy milk, that butter-thickened base. Carrots in place of leeks give subtle sweetness and a pink tint when steamed soft. Pancetta shifts the smoky taste from classic bacon to something richer, earthier. Cup your hands around a bowl, steam rising, bits of potato swimming amidst kernels of corn and tender clams. Slightly nutmeg-spiced, bay leaves lurking underneath. Slow steps mean flavors gentle, melding. Fresh clams poached in pancetta fat, shells cracked open juicy. A splash of liquid turns broth but with body. Earth meets sea meets cream. Chives cut through fat. Crunch, savory, salty. A rustic soup for everyday or weekends. No fuss but layers, bite by bite."
-ingredientsNote: "Onions and carrots form the mild aromatic foundation. Butter and flour cooked briefly build the thickened base, a classic French-Canadian roux approach but lighter with subtle color from carrot. Choose fresh or canned clams—both offer different textures; canned more tender, fresh brings briny snap. Pancetta’s saltiness and richness replace bacon yet keep smoky depth. Fresh corn kernels add sweetness and crispness, contrasting with soft potatoes which are diced slightly smaller to ensure thorough cooking within the simmer. Bay leaves and nutmeg add warmth and subtle layers, but can be adjusted to taste. Whole milk for creaminess, not too heavy. Water helps open fresh clams without dilution. Chives for freshness and color contrast as a finish."
-instructionsNote: "Start by sweating vegetables gently until translucent—don’t rush or let them brown. Roux formation is key, so stir flour into butter and cook enough for raw flour flavor to disappear but not brown. Slowly add clam juice to avoid lumps, whisking constantly. Potatoes go in with seasonings early so they soften well but maintain bite. Fresh corn near the end retains freshness and texture. Canned clams folded in off the heat prevent overcooking and rubberiness. Pancetta cooked until golden but tender—avoid crisping too much. Reserve some fat for poaching fresh clams if used, adding water to make steamy bath. Timing adjusted to 4-8 minutes ensures clams all pop open but stay tender. Let chowder rest before serving to develop flavor. Garnish with reserved pancetta and chopped chives for bright notes. Serve prompt. Warming. Rustic. Chunky chunks."
 tips:
 - "Sweat onions and carrots gently. Medium heat. Translucent means they're done. Don't brown them. Want sweetness to shine. Key point."
 - "When adding flour, stir constantly. Cook for two minutes. This forms a roux. Don't let it turn brown. Light and airy is the goal."
 - "Add clam juice slowly. Whisk to avoid lumps. Bring to boil. Then milk. Potatoes go in after. Cook till tender. Perfect texture needed."
 - "When adding fresh clams, look for shells that open. Timed cooking matters. Four to eight minutes max. Don't overcook, they'll get tough."
 - "Let chowder rest before serving. Flavors meld together better. Garnish with chives, pancetta on top. Freshness and crunch matter in every bite."
-faq:
-- "q: How to thicken chowder? a: Use more roux or simmer longer. Potatoes help too. Want body. Don’t rush this process. Careful simmer."
-- "q: Can I add other seafood? a: Yes, shrimp or scallops are good. Adjust cooking time. Might need shorter for delicate seafood."
-- "q: What to do with leftovers? a: Store in an airtight container. Refrigerate up to three days. Reheat slowly to prevent curdling."
-- "q: Why is my chowder grainy? a: It might be overcooked milk. Add milk slowly next time. Stir regularly. Keep heat moderate to avoid separation."
 
 ---
 

@@ -73,20 +73,12 @@ instructions:
 - "Bake 50 to 55 minutes. Cake's top should feel set. Insert a toothpick in the center; it must come out with only moist crumbs or clean."
 - "Remove from oven. Let cool slightly at room temperature before serving. Serve warm or room temp."
 - "Prepare to get some bubbling chocolate sauce from under the cake as you spoon serving."
-introduction: "Chocolate hits tart blueberries. Smooth and grainy textures. Coconut oil over butter brings subtle note. Maple syrup for deeper sweetness. Bubbles form in oven. Cake rises, sauce simmers underneath. Frozen berry batch needs longer. No flour lumps. Batter thick but pourable. Overlapping flavors, no shame in messiness. Serve in mismatched bowls or reheated from fridge—the pudding gets better with time. Contrasting bite of tart and bittersweet. Every spoon, surprise layers. Layers don’t separate but mingle. Warm or cold, both work. No one wanting to share. Missing spoon already."
-ingredientsNote: "Flour is unbleached, all-purpose. You want lightness from baking powder and some rise from baking soda because we have acidic elements like cocoa and maple syrup. Coconut oil gives a subtle tropical note plus moistness, though butter can be used if preferred. Maple syrup replaces traditional brown sugar for a lighter caramel taste and moisture. Cocoa powder balances sweetness with bitterness. For the topping, cornstarch thickens, and cream adds richness and silkiness to the sauce. Dark chocolate chunks melt down giving texture and depth. Fresh blueberries burst while baking. Frozen berries thaw and release extra liquid, thus extra baking time is accounted for."
-instructionsNote: "Work quickly mixing wet and dry to avoid overworking gluten. Use low speed or fold in dry ingredients gently to keep batter tender. Pour batter into pan, smooth top flat to allow even cooking and topping to set properly. Always place pan on a baking sheet; this pudding can bubble over and burn in the oven. Prepare topping off heat to avoid clumps—melting chocolate and cream smoothly is crucial. Bring topping to gentle boil while stirring fast to activate cornstarch. Pour topping over batter without mixing; it sinks during baking to form sauce underneath. Blueberries layered on top sink partially, creating pockets of fruit throughout. Bake until center feels set but still moist. Toothpick test critical, especially with frozen fruit. Cooling partially makes slicing easier; warm is best to serve for flowing sauce."
 tips:
 - "Pour chocolate batter smoothly into the pan. Get it even or risk uneven baking. Make sure to whisk well, but don’t overmix. Gluten can toughen."
 - "Use maple syrup—it's richer. For a lighter taste, switch to honey. Coconut oil is essential for texture. Other oils work, but try to match the flavor."
 - "Monitor temperature carefully while baking. It can bubble over if too hot. Always place the pan on a baking sheet. Avoid burning issues."
 - "Test center with a toothpick; it should come out with moist crumbs. Let cool slightly before serving. Warm enhances flavors; chocolate thickens."
 - "Don’t skip the blueberries—fresh or frozen adds moisture and tartness. The flavor balance is key. For frozen, expect longer baking time."
-faq:
-- "q: What if I don’t have coconut oil? a: Use butter instead for a different taste. Can soften the cake’s richness. Other oils could also work too."
-- "q: Can I use other fruits? a: Yes, try raspberries or cherries. Just adjust baking time. But blueberry flavor is unique. Texture changes too."
-- "q: Why does it overflow in the oven? a: Too much topping or batter. Baking soda may react too fast if mixed wrong. Keep an eye on the time."
-- "q: How to store leftovers? a: Refrigerate in an airtight container. Up to three days. Reheat gently before serving. Pudding tastes better as it sits."
 
 ---
 

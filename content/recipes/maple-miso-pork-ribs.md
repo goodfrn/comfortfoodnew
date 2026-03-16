@@ -69,20 +69,12 @@ instructions:
 - "Flip ribs, glaze again generously. Broil 5–6 min until dark caramel crust forms."
 - "Slice ribs between bones. Serve with remaining glaze spooned over."
 - "Consider sides: crisp roasted sweet potatoes, tangy red cabbage slaw with cider vinegar."
-introduction: "Pork ribs, hefty and rustic. Maple sugar with a pinch of salt, black pepper cracked coarse, mustard powder adds that tang. Chill. Patience kind. Removed membrane makes ribs tender, avoids toughness. Wrapped in foil, slow heat teasing meat till it's tender, almost falling off bone. The sauce changes game – shallots stir with garlic, butter melting golden. Plum sauce adds fruity depth, apple jelly sweetness, cider vinegar sharp tang, maple syrup warmth, miso saltiness, mustard bite. Blended till silky smooth. Then comes the broil: thick glaze slathered twice, back and front, caramelizing edges into sticky crisp. Serve chunky ribs with sharp slaw, orange sweet potatoes roasting beside. No fuss. Big flavor. Short prep, long cook, worth every minute."
-ingredientsNote: "Quantities adjusted upward by roughly 30% for richer taste and more sauce coating. Maple sugar replaces maple syrup for dry rub to prevent sogginess. White miso used to brighten umami without overpowering. Asian plum sauce swapped for ketchup to add fruity complexity, instead of ordinary tomato ketchup. Apple jelly kept but portion slightly decreased so tang of vinegar and soy flavors balanced and not cloying. Mustard changes to whole grain Dijon for texture in sauce, powder remains dry rub. Butter reduced a bit; butter softens sauce but too much dilutes flavor. Ensure ribs are fresh, membrane fully removed to prevent toughness during roast."
-instructionsNote: "Dry rub applied first and allowed to infuse for at least an hour, preferably overnight. Removing membrane is crucial for tenderness. Foil wrapping traps steam. Cooking temperature slightly lowered to 165 °C for slow even cooking. Sauce uses a shallot instead of onion—sharper, more refined. Simmering sauce longer for ten minutes concentrates flavors. Blending removes texture for sleek glaze that coats thickly. Broil step key: does not overcook, just caramelizes sugars on surface. Flip ribs once to get glaze both sides sticky and slightly charred. Rest ribs briefly before slicing for juices to settle. Serve with sides to cut richness, like vinegar dressing cabbage."
 tips:
 - "Remove membrane from ribs. Essential step. Membrane toughens meat. Use paper towel for grip. Get a clean pull. Check all sections."
 - "Chill after rub. Letting spices settle in is key. At least one hour. Overnight is better. Enhances flavor. Wrap tightly in fridge."
 - "Slow roast with foil. Keeps moisture in. Temperature matters. 165 °C is perfect. Not too hot. It helps render fat well. Meat stays juicy."
 - "When melting butter for glaze, do it on medium heat. Low can burn garlic, shallots fast. Sauté until soft. This is important for flavors."
 - "Broiling step crucial. After sealing in moisture, caramelization adds depth. Flip ribs halfway. Use glaze generously. Sticky is what you want."
-faq:
-- "q: Can I use other cuts? a: Yes you can. Spare ribs work too, maybe baby back. Just adjust cooking time. Check tenderness."
-- "q: What if glaze is too thick? a: Add warm water gradually. Just a bit, keep blending. You want a nice pour. Not soupy though."
-- "q: How can I store leftovers? a: Wrap tightly in foil or plastic. Fridge for up to three days. Can freeze too. Just seal well."
-- "q: Can I make sauce ahead? a: Yes, make it a day before. Flavors deepen. Store in fridge. Reheat gently when ready to use."
 
 ---
 

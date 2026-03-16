@@ -65,20 +65,12 @@ instructions:
 - "7. Spread batter evenly atop sauce in baking dish. Sprinkle shredded coconut over top."
 - "8. Place dish on lined baking sheet. Bake about 40 minutes or until toothpick inserted centers clean."
 - "9. Cool slightly on rack before serving warm. Optional: pair with vanilla ice cream."
-introduction: "Fruits and coconut. The base — thick, tangy sauce made from coconut milk and tropical pulps. Switched passionfruit with mango for sweetness and new depth. Citrus cuts through. Pudding’s light, egg-rich, hints of coconut inside. Lifting softly with baking powder, not heavy. Mixing lemon instead of lime, acidic punch remains balanced. Coconut flakes toast on the surface while baking, smells fragrant. Use electric mixer for the eggs, whipping air in, makes crumb light. Serve warm. Get spoons ready. Ice cream optional but recommended. Take simple ingredients, rearranged. Squeeze fresh lemon juice—freshness."
-ingredientsNote: "Sugar reduced for less sweet, balances mango pulp’s natural sweetness. Cornstarch quantity cut slightly for less gel stiffness, just enough to thicken. Mango pulp replaces passionfruit paste, smoother texture but equally tropical. Lemon juice swapped for lime for subtle tart difference. Flour quantity lowered; oil trimmed to keep pudding tender but not oily. Coconut milk used liberally in both parts for creamy dairy-free richness, important to buy full fat for best mouthfeel. Eggs at room temp whip better, aerate batter for final fluff. Coconut flakes added post-batter, not mixed in, for contrast and toasted aroma after baking. Parchment or silicone mat recommended on baking sheet to catch drips, easy cleanup."
-instructionsNote: "Sauce made first off heat, sugar and starch dry combined to prevent lumps. Slow heat brings gentle boil, constant stirring needed not to burn or stick. Pour sauce immediately into dish for pudding batter on top — layering is important here. Baking dish size exact, ensure consistency in soak and baking time. Batter dry mix to egg mix slow fold keeps air bubbles intact, crucial for cake rise. Baking time bumped to 40 minutes from 35 to accommodate thicker batter, test doneness with toothpick carefully. Let pudding rest a bit before slicing; too hot, sauce might be unstable. Immediate serving encouraged but can be reheated gently. Vanilla ice cream recommended but not mandatory — pudding stands alone with fruit punch. Keep oven temperature steady, no drafts, for even baking."
 tips:
 - "Use fresh ingredients. Quality coconut milk matters. Full-fat preferred for richness. If using mango, ripe fruit gives better taste. Room temperature eggs whip better. This improves pudding texture."
 - "Mix sugar and cornstarch before adding liquids. This prevents lumps. Cook sauce gently to avoid burning. Stir often. Pay attention to heat level. Pour sauce quickly into baking dish."
 - "Layering matters. Sauce first, batter on top. Important for texture contrast. Pudding rises, sauce remains soft. Keep oven steady. Avoid drafts during baking. Use thermometer if unsure."
 - "Monitor baking time. Test doneness with toothpick. Don’t let it overbake. Rest pudding before serving. Slices might be unstable right away. Warm is best for flavor."
 - "Consider substitutions. Lemon can replace lime. If mango not available, use other fruit purees like peach. The texture might vary but still delicious. Customize to taste."
-faq:
-- "q: How can I ensure pudding cooks evenly? a: Preheat oven fully before use. Place rack mid-level. Avoid opening oven door frequently. This drops temperature."
-- "q: What if I want to make this ahead? a: You can prep sauce early. Store separately. Combine before baking. Pudding is best fresh but can be reheated gently."
-- "q: How to store leftovers? a: Keep in airtight container. Refrigerate for 2-3 days. After that, texture may change. Reheat in microwave to warm."
-- "q: What to do with unused coconut milk? a: Freeze leftovers in small portions. Use in smoothies or curries later. Coconut works well in various dishes."
 
 ---
 

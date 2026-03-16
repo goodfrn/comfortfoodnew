@@ -64,20 +64,12 @@ instructions:
 - "=== Serve ==="
 - "On a large platter, combine the roasted sweet potatoes, chicken, and kale. Drizzle with the dressing."
 - "Finish with toasted walnuts on top. Enjoy warm or let cool slightly."
-introduction: "Sweet potatoes and pancetta. Got chicken too. Kale shines as a green base. Flavor and variety. Dressing brings it together. Creamy, tangy, a bit sweet. Pecans add a nice bite. Easy to make ahead. Great for lunches or dinner."
-ingredientsNote: "Sweet potatoes can vary. Choose firm ones for best texture. Prosciutto has a different taste than pancetta. Goes well with the earthy sweetness. Using kale is smart. Nutritious and hearty. Walnuts give a nice crunch. Other nuts can substitute. Greek yogurt makes a rich dressing."
-instructionsNote: "Roasting brings out sweetness in potatoes. Cumin adds warmth. Kale benefits from the oil massage. Prevents bitterness. Keep an eye on baking time. Overcooking can cause sogginess. Dressing can be made ahead. Combine just before serving for freshness."
 tips:
 - "Choose sweet potatoes that feel firm. Soft ones won't hold their shape well. Peel and cube before roasting. Aim for uniform size, helps cook evenly. Prosciutto provides saltiness. Adjust seasoning based on preference. Watch the baking time carefully. Too long, and they can be mushy."
 - "Kale needs some love. Massage acting like a tenderizer. Helps reduce bitterness. Olive oil is great for this. Just drizzle, then rub. Cut tough stems out for best texture. This makes salad easier to eat. Healthy fats from oil help absorption of nutrients."
 - "Dressing can be prepared ahead of time. Keeps in the fridge for a few days. Mix before serving to keep fresh. Whisk thoroughly, then taste. Adjust with salt or more honey if needed. Greek yogurt gives creaminess. Healthier than mayo too, filled with protein."
 - "Add different nuts for variation. Pecans, almonds, or even sunflower seeds work well. Toast nuts before adding texture and flavor. Can also swap chicken for another protein. Turkey or chickpeas could fit here. Mix things up according to needs."
 - "Serving warm enhances flavors. But this salad holds up well at room temp. Great for lunch containers. Packing for work? Use separate dressing, keep it fresh. Storing leftovers? Separated is key for best taste."
-faq:
-- "q: Can I use other greens? a: Yes, spinach or arugula. Both options give different tastes. Add at the end for crunch."
-- "q: What if I don't have Greek yogurt? a: Sour cream works too. Different flavor but still creamy. Also, mayo can substitute for more richness."
-- "q: How to store leftovers? a: Keep in airtight container. Fridge is best. Separate salad from dressing. Enjoy within three days."
-- "q: Can this be made vegan? a: Yes, replace chicken with beans. Use tempeh for protein. Adjust dressing with tahini instead of yogurt."
 
 ---
 

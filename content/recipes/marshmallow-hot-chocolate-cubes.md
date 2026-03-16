@@ -68,20 +68,12 @@ instructions:
 - "=== To Serve ==="
 - "13 Heat milk per portion until steaming."
 - "14 Place marshmallow-topped cube in cup, pour hot milk over. Stir until melted, drink immediately."
-introduction: "Dark chocolate bits melting slowly in swirls of creamy condensed milk and rich cream. Chill that to a firm, slice into neat cubes. Up next, marshmallow fluff whipped thick from gelatin, vanilla, and syrup, dusted with cocoa for bitter contrast. Pipe generous topping; toast if the mood strikes. Skewers inserted—fun, handheld. Pour hot milk over, stir vigorously until luscious drink forms. Swap ruby chocolate for a berry hue. Or honey for syrup, sweeter notes. A drink, a dessert, a playful bite. Interactive. Quick chill, no long wait. Sweet, bitter, creamy, puffed. Winter’s delight in cube form."
-ingredientsNote: "Dark chocolate around 65 to 70 percent suits best, balancing richness without overwhelming bitterness. Condensed milk sweetens and adds silkiness; heavy cream enriches texture. Gelatin needs blooming—sprinkle evenly on water, wait for it to swell for full activation. Golden corn syrup stabilizes marshmallow, making it pliable but firm once chilled. Natural cocoa powder dusted on provides contrast and prevents sticking. Vanilla extract adds depth to marshmallow. Quantities shifted slightly to moderate sugar intensity and improve whipping time. Warm milk complements but can be substituted with plant-based alternatives for lactose intolerance without losing creaminess."
-instructionsNote: "Start by preparing chocolate mixture fully melted and combined—use gentle heat. Set it in the fridge to firm up faster but watch consistency; do not freeze. Meanwhile, prepare marshmallow topping after gelatin blooms fully—this step ensures no granules. Mixing till soft peaks is key; too stiff can make piping difficult. Use parchment-lined pan for easy unmolding and neat edges. Cut cubes precisely to portion control. Piping marshmallow right after whipping prevents it from deflating; timing crucial. Optional torching must be quick, pulses only to avoid melting chocolate underneath. Cocoa dusting adds texture and flavor. Hot milk poured last melts cube smoothly into drink. Serve immediately for best texture contrast."
 tips:
 - "Use 65 to 70 percent dark chocolate. This balances flavor. Too rich overwhelms. Don’t skip heavy cream. It improves texture dramatically. Mix chocolate slowly. Avoid burning."
 - "Line pans properly with parchment. Avoid sticking issues. Helps in cleanup too. Keep an eye on gelatin. Blooming is key. Even sprinkle. Let it swell fully."
 - "Use an electric mixer for marshmallow. It transforms texture. Beat until soft peaks form. Timing is essential. Piping once whipped preserves fluffiness."
 - "Cocoa powder on cubes prevents sticking. Adds a nice visual too. Use mini skewers for easy serving. Fun and interactive for friends. Enjoy immediately for best texture."
 - "Adjust syrup based on preference. Honey can give interesting taste twist. Don’t freeze chocolate cubes. Quick fridge set is sufficient for ideal consistency."
-faq:
-- "q: How to store marshmallow hot chocolate cubes? a: Fridge is best. Up to a week. Without marshmallow topping. Keep them airtight. They last long."
-- "q: Can I use different types of chocolate? a: Yes, milk chocolate works. But it’s sweeter. Ruby chocolate? Yes! Adds a fun color. Be aware of sweetness."
-- "q: Why is my marshmallow topping too runny? a: Most likely gelatin not bloomed enough. Mix thoroughly when heating. Bowl should also be cold."
-- "q: Can I use non-dairy milk? a: Absolutely. Almond, oat, or coconut works fine. Maintain creaminess. Experiment with flavors. It doesn't lose richness."
 
 ---
 

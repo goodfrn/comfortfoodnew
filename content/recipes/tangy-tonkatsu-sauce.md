@@ -64,20 +64,12 @@ instructions:
 - "Transfer sauce to blender. Puree until smooth. Pass through fine mesh sieve into a bowl."
 - "Allow to cool at room temperature, about 20 minutes. Cover and refrigerate until fully chilled, roughly 2.5 hours."
 - "Shake or stir before serving. Refrigerate up to one week."
-introduction: "Sweet, sour, spicy. Fruit and vinegar spun into a thick sauce. Fruits not just sweetness—layers of flavor. Less cling than syrup, more bite than ketchup. Date and apricot swapped for prune, allspice swaps clove for warm undertone. Caramelizing sugar first builds deep notes, less harsh than straight sugar dump. Blending, straining, patience—the work pays off in a sauce thick, velvety, with speckled fruit hints. Keep it chilled, the flavors knit together. Great over pork or as dipping sauce. Mirin swapped with sake—less sweetness, more edge. Orange juice stands in for clémentine. Simple tweaks but big shifts. Takes about 45 minutes but worth the wait. No eggs, no dairy, purely vegan-friendly. Tangy but rounded overall."
-ingredientsNote: "Using more water than usual helps balance the sauce and keeps it pourable. Swapping sake for mirin cuts down on the sugar content and adds a slight acidity, matching the tartness from the rice vinegar. Fresh tomatoes bring tang while dried apricots replace prune to avoid overpowering richness but maintain fruity depth. Dates contribute sweetness and texture. Allspice replaces clove for subtle warmth without dominating the palate. Caramelizing demerara sugar brings sweetness and a roasted, deep flavor without bitterness. Cornstarch dissolved in water thickens the sauce without lumps. Use freshly squeezed mandarin or orange juice. Adjust fruit sizes or types depending on availability but follow the balance of sweet, sour, spicy for best results."
-instructionsNote: "Begin by mixing cornstarch slurry in a small bowl separate from the rest to prevent lumps. Soak the dried fruits briefly if very hard before chopping for better blend. Combine all bulky ingredients for flavor layering while melting sugar to save time. Heating sugar low and slow prevents burning and bitterness. When caramel amber is achieved, swiftly add the rest to stop sugar from solidifying. Bring to boil, then lower heat and simmer uncovered—concentrates flavors and softens ingredients. Add cornstarch slurry last to thicken gently; overcooking after starch addition risks breaking down and thinning sauce. Blend thoroughly to a fine puree for the signature silky texture. Pass through sieve to remove bits for smoothness. Allow to cool before refrigerating; flavors mellow and thicken further overnight. Shake well before use. Store in a sealed container. Reheat gently if needed, but best served cool or room temp."
 tips:
 - "Cornstarch slurry important. Mix it separately. Prevent lumps. This ensures a smooth sauce. Gets thick without clumps. Work quickly with it too."
 - "Caramelizing sugar requires patience. Low heat is essential. Watch it closely. Stir gently at times. Stop burning. This deepens the flavor greatly."
 - "Fresh fruits add freshness. Use ripe tomatoes. Chang up pears if needed. Choose fruits based on local availability. Maintain balance between sweet and tart."
 - "When blending, go all the way. Ensure everything purees nicely. Pass through a fine sieve. Takes away bits. Important for smooth texture in the end."
 - "Cool sauce is key. Let it develop flavors in the fridge. Time to chill matters a lot. Store well in a sealed container. Keeps it fresh longer."
-faq:
-- "q: What if my sauce is too thick? a: Add water gradually. Adjust thickness. Avoid clumping but fix the pourability. Not difficult. Make it work."
-- "q: Can I substitute any ingredients? a: Sure, use other fruits. But balance sweet and tang is key. Sake could swap out with rice wine too. Keep the essence."
-- "q: How long will this sauce last? a: In fridge about a week. But check for appearance. Never use if smell off. Fresh is best. When in doubt, toss."
-- "q: Can I freeze this sauce? a: Yes, freezing is fine. Use airtight containers for storage. Portions can help later. Thaw gently before using. Always check quality."
 
 ---
 

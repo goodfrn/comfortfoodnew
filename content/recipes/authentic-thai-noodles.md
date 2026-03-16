@@ -75,20 +75,12 @@ instructions:
 - "Pour the sauce into the skillet along with the soaked noodles. Toss continuously until the noodles absorb the sauce and are cooked through, around 5 minutes. Then mix in the chicken, eggs, and tofu until evenly distributed."
 - "=== For serving ==="
 - "Serve the noodle mixture in bowls. Top with bean sprouts and crushed peanuts. Add lime wedges on the side for extra zest."
-introduction: "Rice noodles. Marinated chicken and tofu. It's all mixed together in one pan. Flavorful sauce makes it taste amazing. Think lime and spice. The noodles are soft. Chicken is juicy. Tofu adds protein. Lots of crunch from peanuts and sprouts. Bright. Full of flavor. You get a nice mix of textures here. Serve warm with lime wedges. Good for lunch or dinner. Satisfying meal that’s gluten-free. It feeds a crowd."
-ingredientsNote: "Noodles are gluten-free. Adjust the spice by adding more or less Sriracha. Replace chicken with shrimp or keep it vegetarian. Tofu gives a hearty texture. Use fresh veggies for added flavor. Peanuts can be replaced with sunflower seeds for nut-free option. Choose fresh lime for juice, not bottled. Keep an eye on the noodles so they don’t over-soak. Marinate chicken for best taste. Have everything prepped before cooking. It saves time during the busy stage."
-instructionsNote: "Soak those noodles first. Can use a large bowl for ease. Chicken should marinate while prepping veggies. Cook chicken through before adding the rest. Use high heat for quick cooking. Stir eggs gently, don’t let them stick too long. The sauce should coat the noodles well. It’s important to adjust heat. Toss everything quickly for even cooking. When serving, combine sprouts and peanuts right on top."
 tips:
 - "Use warm water for soaking rice noodles. This helps them become pliable. Don’t let them soak too long. Could get mushy. Check texture often. Makes a big difference in cooking later. Prep sauce while noodles soak. Time saver. Keep an eye on everything. Mostly simple but can get chaotic."
 - "Chicken needs to marinate. Use a bowl for this. Mix well. Ideally, let it sit for 10 minutes. This allows flavors to penetrate. Use shallots for sweetness. They’re mild but aromatic. Slight crunch too. When cooking chicken, high heat helps. Brown it without overcooking. Keep it juicy."
 - "Add leeks after chicken. They need only a couple minutes. Cook until soft, bright flavor comes out. Eggs follow soon after. Stir gently. Don’t let them stick. Break them up lightly. Incorporate tofu when eggs are set. Pressed and cubed, fry until golden. Adds texture."
 - "For the sauce, whisk everything in a bowl. Combine water, lime juice, and Sriracha. Adjust according to spice preference. Taste as you mix. Important. The sauce should coat noodles well. Once added, toss quickly. Keep noodles moving. Helps them absorb flavor evenly. Key for a great dish."
 - "Serving garnishes matter. Fresh crunch from bean sprouts. Crushed peanuts bring nutty texture. Lime wedges cut through richness. Squeeze over right before eating. Flavor enhancer. Don’t skip this. Everything blends nicely together. Mix textures and tastes for that satisfying bite."
-faq:
-- "q: Can I use a different protein? a: Yes, substitute chicken. Try shrimp or go vegetarian. Tofu is filling. Easy options."
-- "q: What if I over-soak noodles? a: If too soft, can switch to fresh noodles. They cook quicker. Keep sauce light, adjust timing. Add less liquid."
-- "q: Can I prep this dish ahead? a: Yes, marinate chicken before. Soak noodles too. Keep separate though. Freshness matters when cooking."
-- "q: How to store leftovers? a: Place in an airtight container. In the fridge for about 3 days. Reheat on stove. Quick and easy. Avoid microwave."
 
 ---
 

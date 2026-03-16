@@ -51,20 +51,12 @@ instructions:
 - "Cook for 18 minutes, no peeking. Rice should absorb all liquid."
 - "Turn off heat, keep covered for 7 more minutes to steam and fluff."
 - "Lift lid slightly, fluff rice with fork ready to serve."
-introduction: "Butter melts. Spices hit hot pan. Basmati grains, dry, round up the party. Paprika for smoky red punch, cumin whispers earth and warmth. Water steams, bubbling to break rice open. No fuss. Nothing fancy. Just careful timing. Watch, don’t stir too much. Let steam do the heavy lifting. Twenty minutes or so. Then wait. Cover off, fork in. Fluffy. Slightly sticky. Rich with spice. No cream, no nuts, just simple pantry magic. Good for vegetarian nights, gluten-free too. Whip it up fast. Use as base or side. No eggs, no dairy but full flavor. Spin it your way after, throw fresh herbs or squeeze of lime. Rice done. Spice done. Silence the kitchen. Ready."
-ingredientsNote: "Cut margarine by a third here for lighter fat but replace with vegetable oil if preferred, keeps silky texture without butter taste. Swapped rice from étuvé to basmati for fragrant, non-sticky results. Chili powder replaced by smoked paprika and cumin beans to rotate spice profile, less heat, more complexity. Water slightly increased to prevent dry sticking and provide fluffier grains after simmer time. Margins are adaptable. Double seasoning if bold. Can add salt at start or end, but measuring carefully avoids oversalt. No nuts, no gluten, no eggs kept to maximize dietary access, simple pantry stuff. Ingredients easily found anywhere and flexible for add-ins like sautéed onions, garlic, or chopped tomato."
-instructionsNote: "Margarine melts faster at medium heat—watch for foaming not browning. Stir rice with spices quickly but thoroughly, short toast to bring up aroma without burning. Turn the burner slightly lower than medium right after boiling water in to keep gentle rolling bubbles; goes into simmer mode smooth and even. Keep lid closed tight; steam pressure cooks rice through evenly. Fluff after resting time without mixing or mashing to retain grain integrity. Adjust simmer time if altitude differs, longer for harder water areas. Use fork, not spoon, for fluffing after cooking. Can layer batch with chopped herbs or squeeze citrus post-cooking for freshness variation. Do not skip resting step to avoid sogginess or dryness. Can also try broth instead of water for savory depth."
 tips:
 - "Use unsalted margarine. Margarine melts faster, check for liquid. Stir quickly. Don't let it brown. This is key for flavor."
 - "Short toast rice with spices. Helps release aroma. Only 90 seconds. Move fast. Otherwise, it can burn. Careful timing is critical."
 - "Water matters. Adjust based on rice type and altitude. More water can help with fluffiness. No one wants dry rice. Follow these cues."
 - "Don't skip resting time. Seven minutes post-cooking. Traps steam, makes rice tender. Fluff with fork. Avoid overmixing the grains."
 - "Use broth instead of water for depth. Spice things up if desired. Add and layer with herbs or citrus. Easy ways to change it."
-faq:
-- "q: What's the best way to achieve fluffy rice? a: Proper water ratio. 1 and a half cups rice to 3 and a third cups water. Cover tightly while cooking."
-- "q: Can I add more spices? a: Yes, double the paprika, add garlic or onion. Just be cautious with heat levels. Adjust to taste."
-- "q: What if my rice is too sticky? a: Less water next time. Alternatively, reduce cooking time or fluff better. This should help."
-- "q: How to store leftovers? a: Place in airtight container. Refrigerate for three to four days. Reheat thoroughly before eating."
 
 ---
 

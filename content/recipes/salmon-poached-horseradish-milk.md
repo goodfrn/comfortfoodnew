@@ -50,15 +50,12 @@ instructions:
 - "Transfer salmon portions carefully to plates. Spoon horseradish milk over the fish with fresh dill sprinkled on top. Serve immediately alongside sautéed vegetables like asparagus or green beans and nutty wild rice or quinoa."
 - "If milk starts to bubble too strongly or boil, reduce heat to avoid curdling. Arrowroot thickens quicker and clearer than cornstarch but overheated milk still splits."
 - "Alternatively, try replacing dill with tarragon for a sharper note, or swap milk for half coconut milk plus water for a dairy-free twist. Keep poaching low and slow to retain silky texture."
-introduction: "Horseradish and salmon? Classic combo you don’t see often poached this way. Tried a dozen times before, sometimes curdled the milk or overpowered the delicate fish. Learned it’s all in the timing and heat control — milk needs to bubble slight, no more. Arrowroot replaces cornstarch for cleaner finish. Horseradish, creamy jar form works better than dry flakes — blends smooth. Dill over basil this time; freshness cuts the dairy richness.
 Poaching salmon in milk infuses flavor gently without drying out. Flip carefully — fish flesh changes visibly— pale, opaque, firm but not stiff. Ripest moment is when it flakes under gentle press with fork. Too fast, just blindly timing, ends chewy or bland.
 The horseradish milk sauce needs constant stirring to prevent skin. I use a wooden spoon; plastic spatula sticks.
 Ditch basil, was too sweet last batch. Dill adds brightness, herbal zip.
 Serve with asparagus, wild rice, or quinoa. Delicate, unpretentious dish for weeknights or when fancy seems too much."
-ingredientsNote: "Milk is base flavor carrier here; whole milk or 2% both work but whole gives richer mouthfeel. Creamier horseradish in jar avoids gritty texture; powder can be too sharp or uneven. Arrowroot powder chosen for clarity and quicker thickening vs cornstarch, but don't overheat or sauce breaks. Salmon should be skinless, fresh or thawed well—skin adds texture but my experiments showed skinless absorbs milk flavor better. Fresh dill better than dried; brightens the sauce and contrasts creamy milk.
 Salt and pepper essential but start modest; you can adjust later. You can swap dill for tarragon or chives for different herbal notes if desired. If dairy intolerant, substitute half milk with canned coconut milk and water but watch for coconut aroma, horseradish cuts through though.
 Scaling quantities easy; keep ratios steady for milk, horseradish, and arrowroot."
-instructionsNote: "Heat milk-horseradish- arrowroot mixture off heat first for smooth blend, then gently warm until you see small bubbles at edges. This signals near-simmer without burning milk.
 Poach salmon on gentle heat; hot milk ruins texture. Flip after about 4 minutes, fish will start to turn opaque and firm but not dry. Constant light stirring of milk minimizes thick skin forming on top.
 Taste sauce mid-way; horseradish can spike if added too early or too much. Adjust salt then.
 Serve salmon immediately, sauce thickened but not gloopy. Fresh dill sprinkled last adds aroma and crisp contrast.
@@ -71,11 +68,6 @@ tips:
 - "Taste midway: horseradish can spike quickly. Adjust salt and horseradish then, not at start. Fresh dill added at end for bright herbal lift, replaces basil’s sweetness from older tries. Tarragon or chives works if you want sharper or milder twist."
 - "If milk boils hard or bubbles agitatedly, reduce heat quick. Arrowroot thickens faster than cornstarch but overheated milk sauce breaks, becomes grainy or split. Skim milk surface gently if skin forms despite stirring; thicker skin ruins delicate texture."
 - "Try swapping half milk for canned coconut milk plus water to make dairy free. Coconut aroma noticeable but balanced with horseradish sharpness. Keep heat very low when poaching; too hot ruins silky texture. Keep stirring milk lightly throughout poach to keep sauce clear."
-faq:
-- "q: How to tell salmon is done without timer? a: Look for pale pink color, flesh turns opaque and firm but tender. Press gently with fork, it should flake easily but not mushy. Watch the milk for tiny bubbles creating slow movement, signals gentle heat."
-- "q: Can I use cornstarch instead of arrowroot powder? a: Yes use cornstarch but arrowroot thickens quicker and clearer. Cornstarch sauce can be cloudier, needs more careful simmer. Avoid boiling either; milk splits easily with high heat. Stir constantly, patience helps."
-- "q: Why does milk sometimes curdle during poaching? a: Usually from too high heat or boiling milk hard. Keep temperature low, watch for small bubbles not aggressive boil. Overheating makes proteins break down and separate. Stir often; avoid pauses. Alternative is adding small cream splash to smooth if splits."
-- "q: How to store leftovers? a: Refrigerate salmon and sauce separately if possible. Store in airtight container, keep sauce chilled tight to prevent thick skin formation. Reheat gently on low heat, stir milk sauce slowly. Avoid microwave high heat; sauces separate fast."
 
 ---
 

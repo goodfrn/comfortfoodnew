@@ -68,19 +68,11 @@ instructions:
 - "Arrange macerated strawberries evenly on top of mascarpone layer, letting juices drip."
 - "Chill tart for at least 45 minutes to set layers and meld flavors."
 - "Serve cold, slicing gently to keep layers intact."
-introduction: "Butter softened. Sugar sifted. Mix vanilla in. Flour nestles in quietly. Press dough into pan. The oven waits, heat steady, 175 degrees Celsius. Patience as crust browns slowly, about twenty-five minutes. Strawberries fresh, sliced, sugar sprinkled, lime zest grating sharp. Mascarpone swirled with cream and brown sugar, fluffing up just right, airy but thick. Cheese spread on the crust’s base, centre scooped slightly. Berry mix laid lavishly above. Chill for a bit. Layers set and rest. No waiting longer than needed. A tart that hums with sweet, tang, crunch; unexpected almond flop in crust. A table waits."
-ingredientsNote: "Butter choice matters: unsalted keeps control on saltiness here. Almond flour introduces texture and subtle nutty tone—replace about a sixth of the wheat flour grid. Powdered sugar ensures crust smoothness, no grainy bite. Vanilla boosts aroma but not overpowering. Lime zest instead of lemon for sharper citrus twist, refreshing with strawberry sweetness. Brown sugar in filling—not just plain sugar—adds molasses warmth to cream, balancing tart fruit. Fresh strawberries key, best ripe but firm to hold shape and juice. Chill the tart for layers to marry flavors properly."
-instructionsNote: "Cream butter first; it softens and traps air for tender crumb. Mixing flour carefully avoids toughness, mix on low speed until just combined. Pat dough evenly to prevent thick versus thin spots baking unevenly. Let crust cool fully before adding filling to avoid sogginess. Macerate berries with sugar and lime zest to draw out juices, adding bright notes. Whip mascarpone and cream well but keep slightly firm to hold filling. Hollower center allows filling to nestle without overflow. Layer fruit immediately after spreading cream to avoid sinking. Refrigerate to firm layers making slicing easier and flavors meld deeper. Serve chilled, delicate slices best eaten fresh within a day."
 tips:
 - "Use unsalted butter only for the crust. It’s about salt control. Too much salt, ruin flavor. Sift powdered sugar for smoothness. Avoid grainy crust. Mix butter and sugar until fluffy. Airiness is key. Slowly add flour mixtures. Just combine. Don’t overmix."
 - "Almond flour gives texture. Substitute a part of the wheat flour. Keeps it interesting. Vanilla extract is subtle but impactful. Boost aroma without dominating taste. Lime zest brightens strawberries. Skip plain lemon, use lime for sharper twist."
 - "Macarating strawberries is critical. Toss with sugar, lime zest. Draw out the juices. Wait about ten minutes. Layer berries right after cream spread. Avoid sinking issues. Spread mascarpone mixture carefully. Center should be slightly hollow. Smooth textures, but firm enough to hold layers."
 - "Chill the tart for at least 45 minutes. Allows flavors to meld. Makes slicing easier too. Use a sharp knife, slice gently. Clean cuts keep layers intact. Serve immediately for best flavor. Can be stored, but freshness decreases day by day."
-faq:
-- "q: How to keep the crust crunchy? a: Cool it fully before adding filling. Texture matters. Watch baking time. Golden edges mean success. Avoid sogginess. Let it sit longer."
-- "q: Can I replace strawberries? a: Other berries work well. Raspberries, blueberries. Consider firm fruits. Adjust sugar levels based on sweetness. Careful with juices."
-- "q: What's the best way to store leftovers? a: Keep covered in the fridge. Plastic wrap works. Use an airtight container. Consume within two days for freshness."
-- "q: Can I freeze the tart? a: Freezing is possible. But the texture changes. Best to freeze before adding fresh fruit. Wrap well in layers. Thaw before adding toppings."
 
 ---
 

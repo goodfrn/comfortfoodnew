@@ -69,9 +69,6 @@ instructions:
 - "Tactile cues—edges firm but not dried, when poked with finger there’s slight bounce, no wobble or mush."
 - "Patties will shrink slightly due to shrinkage mainly from fat rendering."
 - "Crumbled cooking works too—great for spicing up eggs or pasta topping."
-introduction: "Forget mushy bland sausage patties sold everywhere. Made these hundreds of times; lesson learned—the secret’s in the chill and spice balance. Dry vermouth, that subtle trip in liquor aisle, transforms pork from just meat to something aromatic. Don’t skip on crushing fennel seeds yourself, smell that released fragrant oils? Garlic isn’t just flavor, it fights dullness, keeps pork lively. Mix gently; overmix you get dense bricks. Pan sizzle tells tales. No greasy puddles, just caramelizing edges, juicy but firm. Pressing patties midcook? Rookie mistake stops crust forming. Patience here pays off in thick slightly crisp outside tender inside patties that sing alongside eggs or crusty bread. Learned by messing around with heating flipping times seasoning ratios—you want balance that’s not overpowering."
-ingredientsNote: "Changing up meat fat ratio changes juiciness drastically. Pork shoulder preferred for 20-25% fat content. Leaner meat means add olive oil or bacon fat for moisture. Flour replaced eggs; gentle binder, no dryness. Vermouth or dry white wine adds acidity complexity—skip or lemon juice splash alternative but careful on amount. Smoked paprika preferred for color and depth; sweet paprika fine. Freshly crushed fennel seeds release oils; stale ones fail. Chili flakes adjustable for heat. Fresh pepper brightens flavors. Garlic minced small avoid big raw bites. Olive oil chosen for good smoke point and flavor; cheap oils can burn easily."
-instructionsNote: "Mix with hands to feel combined but avoid overmixing—prevents toughness. Refrigerate minimum 4 hours to firm fat and meld spices; overnight better. Shape lightly compressed patties to avoid dryness or crumbly fall-apart. Heat oil till shimmering but not smoking; sizzle signals pan hot enough. Cook each side undisturbed till crust forms—looks browned and edges firming. Flip carefully, press slightly but gently. Test doneness by firmness and clear juices; cut open if needed. Rest off heat lets carryover cooking finish meat, juices settle. Use pan drippings for quick sauce or crumble for other dishes. Beware pressing patties too hard or flipping too soon—kills crust, dries meat."
 tips:
 - "Use hands to mix loosely; overmix and meat toughens up. Feel texture, keep it soft but combined enough to hold — chill firm up fat molecules and meld spices deep inside."
 - "Chill minimum 4 hours but overnight best. Patties get denser, flavors marry better. Cold meat hits pan, forms crust before rendering fat too fast. Resist pressing down; loses juices, dries edges quick."
@@ -83,11 +80,6 @@ tips:
 - "Lean pork shoulder better for fat balance, 20-25%. Leaner means add olive oil or rendered bacon fat for moisture. Garlic minced super fine to avoid raw chunks; chunks overwhelm or get bitter if burnt."
 - "Listen for pan sizzle cues. Starts quiet or no sound? Oil too cool. Loud crackle screams too hot, risk burning oil and meat surface. Adjust heat midway to prevent bitter burnt taste and soggy texture."
 - "Rest patties a few minutes after cooking off heat. Carryover cooking finishes meat gently; juices settle inside. Cutting too soon and juices run out means dry texture, missed structural snap in crust."
-faq:
-- "q: Why chill sausage mix? a: Firms fat for better patties. Spices blend deeper too. Cold meat makes crust in pan not mush. Skip chill and edges won’t crisp, texture flop."
-- "q: Can I use ground turkey? a: Yes. Add fat like olive oil or bacon fat or mix for moistness. Turkey leaner, so patties dry fast without extra fat. Flavor changes slightly—adjust seasonings."
-- "q: What if patties fall apart? a: Likely too loose or overmixed. Form lightly compressed not tight balls. Chill long enough, fat solidified. Flour helps moisture bind without eggs. Try re-chilling before cooking."
-- "q: How store leftovers? a: Refrigerate in airtight container 3-4 days. Reheat gently either pan or oven to keep crisp skin. Freeze patties shaped but uncooked up to 2 months; thaw fully before frying."
 
 ---
 

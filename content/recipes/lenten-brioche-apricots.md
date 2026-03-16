@@ -76,20 +76,12 @@ instructions:
 - "16. Transfer to a piping bag fitted with a fine round tip."
 - "17. Pipe crosses over each bun’s top allowing glaze to set before serving."
 - "18. Serve warm with salted butter or plain."
-introduction: "Frosted crosses on golden buns. Rich dough studded with fruit, lightly spiced. This variant takes the traditional Lenten brioche but swaps half sugar for honey for a subtle floral note, swaps cinnamon for cardamom — fragrant, slightly citrusy. Dough feels sticky — keep dusting flour sparingly, no tough cracking crust wanted. Raisins swell during rising, apricots soften yet hold shape. Time matters. Not hurrying rise gives air and flavor. Buns snug together, baking glimmer. Warm, with cow’s butter melting. Simple glaze adds sweet sheen and marks shape. Pieces to tear apart, not too dense, not too crumbly. Dessert and bread. Break fasting nicely. Satisfying yet light."
-ingredientsNote: "Warm milk less than usual to preserve yeast activity but avoid scalding eggs. Honey added partly instead of sugar for moisture-retaining sweetness and slight complexity, works with yeast well unless very active. Cardamom replaces cinnamon for a fragrant twist — powder fine, fresh ground preferred. Butter softened, not melted, to get silk smooth dough without oily spots. Flour slightly reduced from original to keep dough tender, helps hydration balance with honey. Raisins golden, fruity and plump, chopped apricots diced small for even distribution and bite contrast. Glaze thickens enough to pipe but softens over time. Adjust milk amount to get glaze consistency that holds shape but not stiff."
-instructionsNote: "Prepare pan first for easy removal. Mixing order key: dry then wet, then butter added gradually for baker’s dough strength. Knead in mixer short but intense for gluten development. Finished dough shiny, barely sticky. Add fruit last with light knead, fruit distribution essential so not bunched or sparse. Rest and rise covered, room temp usually 2 to 2.5 hours, patience required for air and volume; dough doubles, buns join sides gently. Oven hot, rack central for even bake, brush water on top pre-bake to enhance crust color but not make soggy. Bake 20 to 22 minutes, check early last 5 to avoid burning. Cool not fully then glaze. Glaze applied via piping bag for neat defined crosses, classic Easter symbol. Serve warm; sets glaze but keeps bun tender inside. Leftovers store wrapped at room temp, gently reheat."
 tips:
 - "Don’t rush the rising time. Temperature affects dough. Warmer space helps, cooler slows down. Wait until doubled. It gives nice texture. Air pockets form well this way. Shape matters too."
 - "Use room temp ingredients. Cold eggs or butter can slow things down. Yeast loves warmth. Check the milk too. Too hot kills yeast, too cold does nothing. Test before mixing. Let eggs sit out."
 - "Glaze consistency is key. Not too thick, not too runny. Adjust milk by small amounts. Or add powdered sugar. Use a piping bag for clean crosses. Let them set before serving."
 - "Knead well but light. Too much can toughen dough. Just enough for gluten. Look for a smooth and elastic texture. Avoid adding too much flour. It can make buns dense instead of fluffy."
 - "Use fresh spices for flavor. Cardamom packs a punch. Smell the spice before using. Old spices lose aroma, flavor fades. Keep them sealed and cool. Fresh means better flavor in the end."
-faq:
-- "q: What if the dough doesn’t rise properly? a: Check yeast freshness. Old yeast fails. It should bubble in warm water. If nothing, start over. Temperature matters again. Too cold is slow."
-- "q: Can I substitute with other dried fruits? a: Yes, options are many. Use cranberries, or figs instead of apricots. Balance flavors for mixing though. Each gives a different result."
-- "q: How do I store leftover buns? a: Wrap them in foil. Keep at room temperature. They last a few days. For longer, freeze them. Thaw slowly before reheating. Keeps flavor intact."
-- "q: What if my glaze is too thick? a: Add a few drops of milk gradually. It’ll help thin out. Mix until smooth but thick. If too runny, more sugar fixes it. Adjust slowly."
 
 ---
 

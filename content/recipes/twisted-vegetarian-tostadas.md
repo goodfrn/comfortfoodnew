@@ -52,20 +52,12 @@ instructions:
 - "Scatter shredded romaine lettuce across chickpeas."
 - "Spoon spicy corn relish gently over the lettuce."
 - "Finish with dollops of plain Greek yogurt on each tostada."
-introduction: "Guacamole. Lime. Salt. Creamy layer. Chickpeas swapped from black beans, milder, softer, less earthiness. Romaine shredded crisp, lighter bite. Corn relish spills sweetness with spice over crunchy base. Greek yogurt hugs atop for tangy cream. Seven tostadas, not eight. Quick to make—7 minutes prep, 8 minutes assembly. No stove, just rinse, shred, spread. Tostada crunch remains. Variation from normal. Simple. Bite after bite. Crunch. Cream. Heat. Sweet. Surprise."
-ingredientsNote: "Adjusted ingredient volumes for a lighter meal serving four instead of eight. Guacamole quantity lessened for proportional layering. Chickpeas chosen over black beans for softer texture and milder taste. Romaine lettuce shredded finer than iceberg for better mouthfeel. Corn relish swapped in to replace standard salsa, providing sweetness and subtle heat. Greek yogurt replaces sour cream to cut fats and introduce tang. Smaller tostadas selected for sturdiness and better handling."
-instructionsNote: "Spreading guacamole evenly prevents sogginess and balances flavor. Chickpeas drained fully, mashed if needed, layered to hold toppings. Romaine shredded thin to avoid bulky bites. Corn relish applied in measured spoonfuls so flavor bursts without overwhelming. Greek yogurt dotted last to cool palate against relish heat. Assemble close to serving time to maintain tostada crispness. Minimal cleanup since no cooking. Perfect for quick meals or snacks requiring no heat source."
 tips:
 - "Layering correctly is key. Spread guacamole in a thin layer. Hold structure. Avoid sogginess. Chickpeas should be well-drained. Mash lightly if you wish. This helps toppings stick."
 - "Romaine should be shredded finely. Cuts down on bulky bites. Keeps crisp texture. A fresh snap with each layer. Corn relish adds sweet and spicy notes. Use sparingly, don’t drown the tostadas."
 - "Greek yogurt can be flavored. Add lime zest or herbs for an extra kick. Cuts fat versus sour cream. Provides protein boost. A perfect pairing with spicy corn relish. Cooling contrast is nice."
 - "Assembly is important. Do it close to serving time. Keeps tostadas crispy. Quick meals need minimal cleanup. Just prep ingredients. Rinse, shred, and stack. Simple process, fresh bites."
 - "For leftovers, store components separately. Tostadas won’t stay crispy in a fridge. Keep the guacamole sealed. Chickpeas can be mashed for spreads. Corn relish can last well in jars."
-faq:
-- "q: How to keep tostadas crisp? a: Assemble right before eating. Store components separately. Tostadas lose crunch when wet. Prep ahead but keep layers apart. Just stack when ready."
-- "q: Can I substitute ingredients? a: Yes, chickpeas for black beans. They're milder. Salsa can be used instead of corn relish. But flavors are different. Fresh veggies can work too."
-- "q: What's the best way to store leftovers? a: Keep each ingredient isolated. Tostadas won't last soggy. Guacamole needs airtight sealing. Chickpeas can stay in fridge too. Best fresh, for quick snacking."
-- "q: Any tips for quick prep? a: Rinse chickpeas beforehand. Shred romaine ahead. Guacamole can be made early. Keeps well in the fridge. Just assemble when cravings hit. Saves time on busy days."
 
 ---
 

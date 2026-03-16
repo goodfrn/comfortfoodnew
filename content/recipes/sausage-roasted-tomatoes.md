@@ -64,20 +64,12 @@ instructions:
 - "Sprinkle evenly over stuffed tomatoes."
 - "Put under broiler for 3 minutes until crust turns golden brown. Watch closely to avoid burning."
 - "Rest briefly before serving."
-introduction: "Tomatoes sliced in half. Seeds scooped. Roasted just enough to soften but keep shape. Filling of spicy Italian sausage cooked with onions and garlic. Bread soaked in white wine to add moisture and texture. Parmesan cheese folded in for salty kick, fresh parsley for brightness. Stuffing spooned generously into each tomato. Topping is crunchy mix of Parmesan with bread crumbs. Quick broil melts and crisps the crust. Contrast juicy tomato and meaty filling. Robust and rustic. No fuss but rich flavors. Balanced textures, playful colors. Can serve as starter or light main. Easy to prep, good for weeknights too. Oven does all the work mostly. Filling done on stove in single pan. Leftover stuffing good warmed or in pasta next day."
-ingredientsNote: "Tomatoes best if firm, ripe and field grown type—not watery or mushy. Cutting a thin slice off bottom stabilizes in pan, keep cut sides open to roast properly. Onion softened before adding sausage helps melding flavors; don't rush browning step. Use spicy Italian sausage for characteristic kick—can swap for mild or sweet if prefer less heat. Bread must be stale or toasted to absorb wine well without turning to mush. White wine adds subtle acidity and moisture, but can omit or replace with chicken broth for non-alcoholic. Parmesan grated fresh, not powder, gives deep nutty flavor. Flat leaf parsley chopped fine releases fresh herbaceousness. Bread crumbs topping balances softness with crunch. Adjust salt carefully as Parmesan and sausage already salty."
-instructionsNote: "Oven to 190°C (375-400°F) to start for roasting tomatoes tender without drying out. 18 minutes slightly longer than usual to soften but not collapse. After roasting, higher broil heat crisps and browns the topping fast, just 3 minutes needed. Don't leave unattended under broiler or bread burns quickly. Pan cooking on medium high lets onion caramelize slightly before sausage adds juicy fat and seasoning. Crumbling sausage ensures even cooking. Adding garlic last keeps fresh aroma intact. Bread soaks wine in pan, foams briefly, thickens consistency. Stirring constantly prevents sticking or burning. Remove from heat to preserve cheese texture. Spoon filling carefully to avoid breaking tomatoes. Mixing bread crumbs with Parmesan makes topping cohesive and golden. Serve warm, not cold, to enjoy textural contrasts."
 tips:
 - "Choose firm, ripe tomatoes. Not too watery. Field grown type works best. A thin slice off the bottom keeps them stable. Keeps them upright."
 - "Cook onions till soft. Prevent burning by stirring often. Crucial step. Adds sweetness. Don’t rush this. It enhances the final flavor."
 - "Use stale bread. Fresh won't absorb wine. Should soak well. Toasting works in a pinch. White wine adds acidity but swap with broth if needed."
 - "Crumble the sausage finely while cooking. Ensures even browning. Avoid clumping. Garlic added last keeps its bright flavor intact."
 - "For the topping, mix breadcrumbs with Parmesan. Golden crust needed. Broil time is quick. Watch carefully to avoid burning. Enjoy warm, not cold."
-faq:
-- "q: Can I use other meats? a: Yes, ground turkey or chicken could work. Not as rich but lighter. Italian seasonings helpful for flavor."
-- "q: What if my tomatoes break? a: Choose more stable varieties next time. Roma or on-the-vine tomatoes hold shape better. Avoid overcooking."
-- "q: Can I prepare in advance? a: Yes, prep filling earlier. Stuff tomatoes before baking. Store in fridge until ready to broil. Great idea."
-- "q: Shelf life after cooking? a: Keep in fridge up to 3 days. Warm before serving. Can freeze but texture changes. Not the same after."
 
 ---
 

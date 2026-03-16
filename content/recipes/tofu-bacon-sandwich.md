@@ -64,20 +64,12 @@ instructions:
 - "Spread vegetable spread on each slice of bread."
 - "Layer lettuce, avocado, and crispy tofu. Close sandwiches with remaining bread."
 - "Cut sandwiches in half. Serve immediately or chilled."
-introduction: "Tofu bacon. It's a thing. Crispy marinated slices. Whole grains for the bread. Avocado adds creaminess. Packed with flavors. Quick and satisfying. Good for lunch or dinner. Great cold too. Layered just right. Lots of textures. Easy to prep ahead. Perfect for lazy weekends."
-ingredientsNote: "Firm tofu holds up well to baking. Cut into uniform slices for even cooking. Whole grain bread offers more nutrients than white. Choose a vegetable spread that fits your taste. Avocado brings healthy fats and creaminess. Adjust brown sugar for sweetness preference. Smoked paprika gives that bacon-like flavor. Keep leftovers in the fridge for later. Best fresh but still good cold."
-instructionsNote: "Marinating tofu is key. Don't rush this step. Let flavors soak in while preheating. Monitor cooking time for tofu, golden edges are ideal. Toasting bread makes it extra crunchy. Use fresh ingredients for maximum taste. Assemble quickly to keep everything fresh. Enjoy with a side salad or chips. Make extra if needed. Fun for gatherings."
 tips:
 - "Marinade is crucial. Don't rush it. Let tofu absorb flavors. Preheat oven. Whisk oil, vinegar. Mix sugar, paprika, onion salt. Get that balance right."
 - "Cut tofu evenly. 1/4 inch thick. This ensures crispy edges. Bake in one layer. Don't overcrowd the sheet. Brush with marinade halfway through. Keep an eye on it."
 - "Toasting bread is key. Golden and crisp. Use whole grain. Packed with nutrients. Spread vegetable mix on warm bread. For flavor and creaminess. Layer evenly."
 - "Fresh ingredients make a difference. Use ripe avocados. They add creaminess. Lettuce should be crisp. Not wilty. This makes a textural contrast. Balance is everything."
 - "Save leftovers carefully. Store in fridge. Use airtight container. Sandwiches can get soggy. Assemble right before eating. Or keep components separate."
-faq:
-- "q: Can I use another type of tofu? a: Yes you can. Silken won't hold. Firm is best. It cooks well. Better texture. Holds flavors nicely."
-- "q: What if I don't have smoked paprika? a: Use regular paprika. It works fine. But flavor changes. Try adding a bit of liquid smoke. Create that bacon taste."
-- "q: How long can I store leftovers? a: Up to three days in fridge. But best eaten fresh. Don't let sandwiches sit long. To avoid sogginess."
-- "q: Can I freeze the tofu bacon? a: Yes you can freeze it. Wrap tightly. Use within two months. Thaw in fridge. Reheat before serving for crunch."
 
 ---
 

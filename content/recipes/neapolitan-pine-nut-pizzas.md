@@ -63,20 +63,12 @@ instructions:
 - "6. Remove from oven. Place sandwich on board, open without tearing. Brush more Parmesan oil inside."
 - "7. Spread ricotta evenly. Sprinkle pine nuts and lemon zest. Layer soppressata slices then top with arugula."
 - "8. Fold sandwich, press lightly. Slice in half. Serve warm or room temp."
-introduction: "Hot stone baking. Pine nuts crunch instead pistachios. Soppressata adds spicy sea. Ricotta smooth balance. Lemon zest, garlic, chili flakes punch. Folded dough soaked with Parmesan oil. Quick bake, bubbles and browning. Arugula fresh snap. Simple layering with bursts of texture and flavor contrast. Not your usual cold sandwich. Rustic, warm, handheld. Dough soft outside, crisp edges. Garlic-infused oil seeps through. Easy prep, impressive serving. Notes inside for timing tweaks. Rotating the pizza bread ensures even cooking on stone. Quick, almost flip-style baking with bubbles popping. The open fold sandwiches embrace easy, rich combos. Rustic and modern together."
-ingredientsNote: "Adjust olive oil quantity for coating dough so it shines but isn't dripping. Parmesan finely grated for melting into oil. Garlic minced tiny so no chunks but strong flavor. Rosemary must be chopped fine; avoid big needles catching in your teeth. Chili flakes can be dialed down or up for heat. Swap pine nuts toasted for deeper flavor and crunch instead pistachios to twist nut profile. Soppressata provides spicy charcuterie alternative to mortadella. Ricotta must be softened for spreadability without runniness. Use fresh lemon zest only; dried zest dulls the brightness. Arugula rough if not fresh loses pepper bite. Dough balls sized evenly for consistent cooking and folding ease. Flour surface lightly but no extra leftover on dough to prevent burning."
-instructionsNote: "Start with preheated stone at high setting—critical for crispy bake. Knead dough gently on floured surface; stretch rather than roll for light crumb. Brush both sides lightly with oil to prevent sticking but avoid soaking that weighs dough down. Folding dough in half seals flavors and creates sandwich pocket. Transfer with lightly floured peel to avoid tearing. Bake quickly, about 3 to 4 minutes max, rotating evenly every 30 seconds to avoid one dark spot. Watch dough edges bubble and darken to golden brown. Remove and open gently without ripping to keep structure intact. Brush inside again with oil for moisture and flavor. Spread ricotta smoothly, then layer nuts and zest for texture contrast and brightness in bite. Place soppressata thinly so it melds with cheese texture rather than overpowering. Top with fresh arugula last to retain crunch and peppery bite. Fold sandwich closed with gentle press, slice to serve warm—cutting while warm keeps edges neat. Cool slightly if needed but serve soon to preserve textures."
 tips:
 - "Garlic mince finely. No big chunks allowed. Helps blend well in the oil. Enhances flavor in every bite. Parmesan must be finely grated. Melts better, combines well."
 - "Roll dough thin. Use flour, but light. Too much makes it tough to handle. Stretch instead of rolling. Preserves the crumb, keeps it light and airy."
 - "Rotate sandwiches. Every 30 seconds while baking. This helps achieve even browning. Golden edges are key. A crispy bite is essential."
 - "Brush oil generously inside. Adds moisture as soon as you open it. You want that rich flavor heightened. It isn’t about being messy."
 - "Use fresh ingredients. Fresh arugula, zest only. Dried just doesn't work. No flavor punch. Tiny details matter. Really bring those layers alive."
-faq:
-- "q: Best way to serve sandwiches a: Serve warm or at room temperature. Crispness shines best. Cut only when warm. Keeps edges neat."
-- "q: Can I prep dough in advance a: Sure. Dough can be made ahead. Chill it but let rise before using. Timing matters for texture."
-- "q: What if I'm out of soppressata a: Try other salami. Or even prosciutto. Just match the taste. Spicy works best to maintain balance."
-- "q: How to store leftovers a: Wrap tightly or put in a container. Keep for a day. Reheat on stone if possible. Keeps flavor and texture better."
 
 ---
 

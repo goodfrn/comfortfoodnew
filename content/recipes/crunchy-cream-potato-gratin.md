@@ -62,20 +62,12 @@ instructions:
 - "Heat large nonstick skillet on medium-high. Add half avocado oil and rosemary sprigs. Brown six gratin pieces in oil on all sides, turning carefully."
 - "Transfer browned pieces to baking sheet. Bake 7-9 minutes until hot inside and crispy all over."
 - "Repeat pan fry with remainder oil and gratins. Finish on sheet in oven same way."
-introduction: "Potatoes sliced thin, layered. Cream simmered with garlic, lemon zest mixed in — a twist on old creamy gratin. Slowly baked. Then pressed, packed down tight overnight. Turns creamy inside, firm to cut. Quick pan-fry in fragrant olive oil swapped for avocado oil here, rosemary sprigs in hot oil to perfume, crispy all around. Oven roast finish to heat through. Cuts into rectangles, easy size to handle. Can freeze before frying. No nuts, no gluten, no eggs. Timer nudged, cream fat tweaked to 18 or 30 percent. Parmesan replaced to keep vegetarian vibe. Lemon zest adds a bitter brightness, sharp edge. Rustic. Bit of crunch, creamy middle. Makes 12 portions."
-ingredientsNote: "Use Yukon Gold or white potatoes, uniform slices essential — mandoline at 4 mm. Thin enough to soften but keep shape. Crema cooking cream, chose between 18% or 30% fat; adjusts richness and bake time slightly. Garlic infuses cream, discarded after simmer. Lemon zest with grated Piave cheese amplifies aroma, replacing traditional parmesan. Avocado oil used instead of olive, milder flavor and higher smoke point, complements rosemary well. Fresh rosemary branches essential for oil fragrance while searing. Salt and freshly ground pepper only seasoning, keep taste clean, let ingredients shine."
-instructionsNote: "Line pan so gratin can lift out easily. Cream mixture strained to keep garlic bits from cluttering texture. Careful layering to avoid gaps. Cover tightly with parchment and foil to trap steam. Longer bake time by 5 minutes to fully tenderize with thicker potatoes. Cool slightly before pressing to avoid moisture pooling. Weighing down overnight firms gratin for clean cuts, prevents crumbling during frying. Trim edges for neat rectangle pieces. Fry in batches to avoid overcrowding pan, rosemary sprigs in oil infuse flavor while crisping sides. Finish baking on sheet to ensure consistent heat, cheese melts slightly, edges crisp further. Cooling and pressing are keys to texture contrast."
 tips:
 - "Use a mandoline for uniform cuts. Four mm thickness needed. Thin slices crucial. Allows quick cooking. Helps layering hold. Prevent gaps in pan."
 - "Choose cooking cream wisely. Options 18% or 30% fat. Adjust richness accordingly. Higher fat = richer flavor. But can alter bake time slightly."
 - "Infuse garlic well in cream. Simmer 6 minutes, then discard. Just enough flavor, not too strong. Brighten with lemon zest for a kick."
 - "Pressing overnight matters. Use weight to compact gratin. Helps with cutting later. Cool for a bit before pressing to prevent moisture."
 - "Pan-fry carefully. Oil on medium-high, don’t overcrowd. Rosemary in oil enhances flavors. Important for crisping sides while maintaining softness inside."
-faq:
-- "q: Best way to cut potatoes? a: Use mandoline for even slicing. Keeps layers uniform. Thinness helps cook evenly. 4 mm ideally."
-- "q: Can I make this ahead of time? a: Yes, freeze before frying. Just thaw and fry when ready. No loss of quality."
-- "q: What's the best oil substitute? a: Avocado oil works well. Higher smoke point. Milder flavor than olive oil, complements rosemary."
-- "q: How to store leftovers? a: Refrigerate for 3 days max. Reheat in oven to retain crispiness. Microwaving makes them soggy."
 
 ---
 

@@ -68,20 +68,12 @@ instructions:
 - "Make a small well and fill with prepared salsa."
 - "Sprinkle pumpkin seeds and cilantro leaves on guacamole."
 - "Serve with corn tortilla chips."
-introduction: "Avocados mashed with lime juice. Tang from Greek yogurt swirled in. Charred tomatillo salsa smoky, not pureed—chunky, fibrous. Poblano peppers swap mild heat for sharper Cayenne. Crunchy toasted pumpkin seeds sprinkled on top. Roasting brings out sharpness in tomatillos and mellows onion and garlic. Broiling adds smoky, slightly bitter edges. Chili heat softened but present. Cool salsa before mixing with avocado keeps flavors bright. Cilantro stems included, more punch than leaves only. Corn chips to scoop, perfect crisp contrast. Easy to prep. Layers of texture and flavor without complexity. Spoon in bowl, dip, repeat. Simple. Bright. With bite."
-ingredientsNote: "Tomatillos need husks peeled off before prepping. Look for firm, green fruit with slight stickiness. Roasting concentrates sugars, softens acidity. Poblano adds mild chili flavor but can be substituted with any green chili. Using stems and leaves of cilantro adds herbal depth often discarded. Avocados must be ripe but firm enough to mash smoothly. Greek yogurt adds creaminess and slight tang, a twist replacing sour cream for lower fat. Pumpkin seeds toast quickly—spread on dry pan, medium heat, stir until golden. Adds crunch and nutty flavor, complementing creamy guacamole. Olive oil enhances roasting and brings richness. Fresh lime juice essential for acidity and preventing avocado browning. Corn tortilla chips buy or homemade, for texture and serving."
-instructionsNote: "Start by roasting tomatillos and veggies to soften while releasing sugars. Tossing with oil and seasoning important before baking. Roasting time slightly longer for caramelization. Stir halfway to cook evenly. Broil at the end to char edges, mix smoky flavor with softness. Cooling and chilling the salsa is key for flavor melding and texture. Pulse cilantro and tomatillo mixture briefly to keep salsa rustic, avoid turning into smooth puree. Scrape sides to incorporate all bits. Clean processor before guacamole to prevent mixing flavors. Blend avocados quickly with lime to keep color bright, avoid overprocessing. Layer guacamole and yogurt in serving dish for visual appeal, swirl gently, not overmix. Create well in center for salsa, keeps flavors distinct. Garnish with toasted pumpkin seeds and fresh cilantro leaves last minute to preserve crunch and color. Serve immediately with chips for best texture contrast."
 tips:
 - "Choose ripe avocados. Not too soft though. Firm, dark green skin. They mash better. Check for slight give. Too soft is overripe. Balance is key."
 - "Tomatillos peel off husks. Look for smooth, firm ones. Stickiness indicates freshness. Roasting is essential. Brings out natural sweetness. Adds depth to flavors."
 - "Roasting and broiling times matter. Roast first to soften. Broil to char. Keeps veggies intact. Mix them up halfway. Get even cooking. Don't skip this step."
 - "Cilantro stems included. More flavor than leaves alone. Better depth. Pulse briefly in processor. Keep the texture chunky. Avoid smooth salsa; it gets boring."
 - "Add lime juice right after mashing. Prevents browning. Brightens flavors. Greek yogurt adds nice creaminess. Swap for sour cream if preferred. Keep it creamy."
-faq:
-- "q: Can I use other peppers? a: Yes absolutely. Any green chili works fine. Adjust heat level to preference. Poblano is mild but add Cayenne for kick."
-- "q: How long does it last in fridge? a: Store in airtight container. 2 days max with avocado. Browning occurs. Add lime juice to slow it down."
-- "q: Can I make it ahead? a: Yes, but keep salsa separate. Mix just before serving. Textures change otherwise. Don't leave too long."
-- "q: What's the best way to serve? a: Corn tortilla chips work best. Other dippers like veggies okay. But chips give nice crunch. Pair with drinks for fun."
 
 ---
 

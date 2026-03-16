@@ -65,20 +65,12 @@ instructions:
 - "=== For baking ==="
 - "Bake each tray for about 30 minutes or until golden brown and puffed up."
 - "Allow cooling slightly before serving. Enjoy warm."
-introduction: "Gougères. Savory and cheesy. Got a crunchy texture outside. Soft inside. Heat transforms the dough. Three cheeses get together. Mix shredded cheddar, feta, gouda. Don’t forget the herbs. Adds a layer of dimension. Perfect bites for gatherings. Can be served warm or at room temperature. Simple yet rewarding. Cheese lovers rejoice. Good for parties or snack time."
-ingredientsNote: "Use fresh ingredients. Cheese selection matters. Choose a mix that melts well. Feta adds tang. Consider aged cheddar for depth. Fresh herbs will elevate the dish. Can swap honey for sugar if desired. Use unsalted butter for better control of salt."
-instructionsNote: "Get the mixture right; it's crucial. The dough needs to be mixed thoroughly. Proper cooking time makes all the difference. Golden brown means success. Let them cool a bit before diving in. Good to serve them fresh. Can be made ahead, reheated in the oven."
 tips:
 - "Use high-quality cheese for best results. Mix cheeses with different textures. Shredded ones melt nicely. Feta gives tangy twist. Consider aged cheeses. Will add depth. Fresh herbs make flavors pop. Each cheese plays role. Don’t skimp."
 - "Get the dough consistency right. Too runny won’t puff. Too stiff won't spread. Stir until it forms ball. Keep it smooth. Heat changes texture. Don't rush this step. Must pull from pot sides. Ensure proper cooling."
 - "Spacing on baking sheet matters. They puff up. Don't overcrowd them. Give room to expand. Use parchment paper. Helps with clean-up. Also prevents sticking. Rotate trays if uneven browning. Pay attention to oven hot spots."
 - "Serve warm. Best flavor and texture. Let cool just a bit. Still warm but manageable. Can serve at room temperature. Perfect for gatherings. Great snack option. Can make ahead. Reheat before serving."
 - "Adjust herbs per preference. Try basil, oregano, or parsley. Each gives unique taste. Garlic powder essential but tweak amount. Taste along the way. Add salt sparingly. Cheese adds salt too. Control flavors."
-faq:
-- "q: How do I make them crispy? a: Bake until golden brown. Crispiness comes from cooking time. Don't rush the oven. Check color."
-- "q: Can I use different cheeses? a: Absolutely. Try mozzarella for stretch. Or parmesan for sharpness. Blend your favorites. Just balance flavors."
-- "q: What's the best way to store leftovers? a: Keep in airtight container. In fridge. Can freeze too. Just reheat to crisp them back."
-- "q: Can I prepare dough in advance? a: Yes. Make ahead and refrigerate. Let sit before baking. Avoid letting it dry out. Wrap well."
 
 ---
 

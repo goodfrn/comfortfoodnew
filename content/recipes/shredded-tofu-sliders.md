@@ -63,20 +63,12 @@ instructions:
 - "7 Divide tofu evenly over bottom halves of buns."
 - "8 Top each with cucumber slices and cilantro."
 - "9 Close sliders with top buns. Serve with raw veggie sticks if wanted."
-introduction: "Tofu shredded not mashed. Tossed with cornstarch. Spices dry first, paprika cumin chipotle faint heat. Oil drizzled to moisten before baking. Crispy edges develop inside oven heat. Flip once halfway through. Sauce made simple mixing ketchup maple syrup plus same spices. Salt pepper balanced. Toss tofu hot in sauce then pile high on brioche slider buns warmed bright. Cucumber crisp freshness. Cilantro leaves herbal burst. Easiest to eat as snacks. Little sandwiches. Great for party or quick meals. Vegan allergen friendly friendly: no nuts dairy eggs. Minimal fuss. Mostly roast and mix."
-ingredientsNote: "Firm tofu needs pressing or squeezing very well to remove moisture otherwise soggy texture. Grating tofu breaks block into shreds mimicking pulled meat. Cornstarch coats, drying surface for crisp roast. Smoked paprika and cumin classic smoky spices, chipotle powder optional for mild heat. Oil just enough to coat tray and tofu to promote browning. Maple syrup sweetens ketchup bases tangy tomato flavor, binding spice notes. Brioche buns soft slightly sweet pillowy texture contrast tofu's crisp. Cucumber thin rounds add crunch, cooling contrast next to spices. Cilantro leaves fragrant fresh herb topping. Quantities adjusted for 5 servings, feel free scaling. Keep buns warm by toasting or microwaving wrapped in damp cloth."
-instructionsNote: "Shred tofu by grating block vertically or breaking by hand into thin threads. Mix dry ingredients thoroughly ensuring tofu shreds coated. Oil baking sheet before tofu goes on - helps crisp and prevents sticking. Roast at high heat 210 °C - important for drying and starting browning. Flip tofu at 12 minute mark; uneven browning if left one side. Sauce made while tofu roasts to save time; mixing all components well avoids clumps. Toss tofu in sauce while hot so absorbs flavor quickly. Taste and season after mixing to balance sweet, smoky, and heat. Assemble sliders quickly while tofu and buns still warm for best mouthfeel. Adding cucumber late keeps crunch fresh, cilantro just before serving to maintain vibrancy and prevent wilting."
 tips:
 - "Press tofu very well or ends soggy. Squeeze out water hard before grating—helps keep crisp edges during roast. Grate tofu rather than crumble for pulled texture."
 - "Coat tofu shreds evenly in dry spices first to avoid clumping. Cornstarch binds moisture out, creates crisp layer, don’t skip or tofu stays soft."
 - "Drizzle oil lightly on tray not too much—just enough to stop sticking. Spread tofu in single layer so heat reaches all sides, roast hot 210 degrees Celsius."
 - "Flip tofu gently after 12 minutes, helps even browning. Don’t stir rough or pieces break. Crispness comes from dry surface and hot oven."
 - "Mix sauce while tofu roasts; ketchup maple syrup smoked paprika cumin salt pepper. Toss tofu hot so sauce clings and absorbs flavors fast. Add cucumber late to keep crunch."
-faq:
-- "q: Can I use soft tofu instead? a: No. Soft tofu too watery breaks apart. Won’t crisp or shred well. Firm or extra firm best. Press must be thorough too."
-- "q: Can I skip chipotle powder? a: Yes chipotle optional. Without it less heat, still smoky flavor from paprika cumin. Substitute mild chili powder if wanted. Adjust to taste."
-- "q: How to keep sliders from soggy? a: Press tofu well. Roast until edges crisp. Warm buns but not wet. Add cucumber right before serving to avoid moisture buildup."
-- "q: How to store leftovers? a: Cool tofu completely. Refrigerate in airtight container separate from buns. Reheat tofu oven or pan crisp again. Buns best fresh but can microwave wrapped briefly."
 
 ---
 
