@@ -1,10 +1,10 @@
 ---
-title: "Pork Medallions Cherry Spice"
+title: "Pork Medallions with Cherry Spice Sauce"
 slug: "pork-medallions-cherry-spice"
-description: "Pork medallions pan-seared, coated lightly in flour, served with a cherry spiced sauce thickened with a veal stock base. Uses star anise and five-spice powder for warmth and complexity. Red wine and sour cherries provide acidity and sweetness. Cooked with aromatics like shallots, carrots, and garlic to build flavor layers. Butter and olive oil achieve a balanced sear. Sauce reduced to syrupy thickness, finished with butter for silkiness. Serve with rice or steamed veggies. Adjust cook times slightly depending on pork thickness and pan heat. Cherry juice and veal fond key to body and tang. Simple but nuanced. Replaces star anise with cinnamon and uses chicken stock instead of veal for lighter notes. Carrots swapped to parsnips for earthiness. Adds fresh thyme for freshness."
-metaDescription: "Pork medallions seared with flour coating, cherry sauce slow-reduced with cinnamon, chicken stock, parsnips, and fresh thyme for balance and depth."
-ogDescription: "Sear pork medallions crisp coated flour. Cherry sauce reduced syrupy with cinnamon, wine, chicken stock, parsnips. Rest meat, finish with butter for gloss."
-focusKeyphrase: "Pork medallions cherry sauce"
+description: "Pan-seared pork tenderloin with sour cherries, five-spice powder, and cinnamon in a rich red wine sauce. Tender medallions served with cherry juice reduction over rice."
+metaDescription: "Pork medallions pan-seared with sour cherries, five-spice powder, and cinnamon in a silky red wine sauce. Make it tonight."
+ogDescription: "Pan-seared pork tenderloin with sour cherries and warm spices in a rich red wine reduction. Simple, elegant dinner."
+focusKeyphrase: "pork medallions with cherry sauce"
 date: 2025-08-05
 draft: false
 image: pork-medallions-cherry-spice.jpg
@@ -21,9 +21,16 @@ tags:
 - "main dish"
 - "easy dinner"
 keywords:
-- "pork medallions"
-- "cherry sauce"
-- "five-spice powder"
+- "pork medallions with cherry sauce"
+- "pork tenderloin main dish"
+- "pan-seared pork with spices"
+- "five-spice pork tenderloin recipe"
+- "pork with sour cherries"
+- "cherry spiced pork"
+- "pork tenderloin red wine sauce"
+- "pan-seared pork medallions"
+- "cinnamon pork dinner"
+- "pork medallions weeknight dinner"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "430"
@@ -69,3 +76,83 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, store airtight in fridge max 2 days. Sauce thickens on cooling, loosen with splash water or stock. Reheat gently in pan, avoid microwave overheating. Freeze optional but sauce texture changes; thaw slow for best results."
 
 ---
+
+Slice the pork into six pieces. Pat them dry—moisture is the enemy of crust. Pound them out a bit with your palm. Flour goes on next, shake off the excess. This isn't a thick breading situation.
+
+## Why You'll Love This Pork Medallions Cherry Spice Dinner
+
+Takes 55 minutes total. Thirty of that is actually cooking. The cherry sauce tastes like you spent way longer on it than you did.
+
+Weeknight dinner that doesn't feel like weeknight dinner. Sour cherries cut through the richness of pork. Five-spice powder and cinnamon make it taste like something from a restaurant kitchen.
+
+Seared pork stays tender if you don't mess with it. The sauce—wine reduced down, cherries folded in at the end, butter swirled through—clings to everything. Works with rice. Works with steamed vegetables. Works cold the next day if it even lasts that long.
+
+One pan. Well, you dirty one pan. But still.
+
+## What You Need for Pan-Seared Pork Medallions with Cherry Sauce
+
+Pork tenderloin, about 500 grams. Slice it yourself into six pieces roughly two centimeters thick. All-purpose flour. Just enough to coat light.
+
+Sour cherries from a jar, drained. Save the juice. Both matter.
+
+Butter. Half of 50 grams goes in the pan with olive oil. The rest finishes the sauce. Unsalted. The salt's coming later.
+
+One large shallot and one clove garlic, minced small. A parsnip diced up. Dry red wine. Chicken stock. Cinnamon sticks—two of them. Fresh thyme sprig. Ground five-spice powder. Salt and cracked black pepper.
+
+That's it. Not complicated.
+
+## How to Make Pan-Seared Pork Tenderloin with Red Wine Cherry Sauce
+
+Get the skillet hot. Medium-high. Add half the butter with olive oil. It should shimmer. Not smoke. Shimmering.
+
+Pat the pork dry again if it's sitting around. Dredge it in flour. Shake it off. This prevents gummy crusts. Put the medallions in.
+
+Three to five minutes per side. You want light browning and a slight firmness when you press it. Salt and pepper now. The internal color should have a faint blush. Not raw. Not gray. Just a hint of pink stays in there.
+
+Remove the pork. Tent it with foil. It keeps cooking for a minute or two—that's carryover cooking. It matters. A lot. This is where people lose juiciness.
+
+Same pan. Reduce heat to medium. Shallots, garlic, parsnips go in. Stir gently. Wooden spoon works best. Five to seven minutes until translucent. Don't let it brown. You want mellow here, not bitter.
+
+## How to Get Pork Medallions with Spices Actually Tender and Juicy
+
+Pour in the red wine and the reserved cherry juice. Scrape the bottom of the pan with your spoon. All those browned bits—that's flavor. Add the cinnamon sticks. Let it reduce down. The bubbles will slow. The liquid thickens. The kitchen smells insane.
+
+Pour in the chicken stock. Sprinkle in the five-spice powder. Drop the thyme sprig. Simmer. Not boiling. Gentle bubbles. It reduces to about two-thirds the original volume. The sauce concentrates. Layers happen.
+
+Taste it. Salt and pepper fix it. Remove the cinnamon and thyme—strain it or fish them out by hand. Return the sauce to heat. Fold in the sour cherries. One minute. Then turn the heat off.
+
+Swirl in the remaining butter. Whisk it. This creates something silky. The emulsification happens when you stop heating and just whisk. The sauce gets glossy.
+
+## Pork Medallions with Cherry Spice Sauce Tips and Common Mistakes
+
+Don't skip the resting. People always skip this. The pork needs three minutes under foil minimum. The carryover cooking is real. It brings everything to medium without drying it out.
+
+Pound the medallions even. Thickness matters more than you think. Two centimeters. Flatten them with your palm so they cook at the same rate.
+
+Don't brown the shallots and garlic. Low and slow here. You want the background sweet, not caramelized.
+
+If the sauce breaks when you add the butter, you got the heat too high. Turn it off first. Then whisk. Cold butter in hot liquid separates. Cold butter in warm liquid—it emulsifies.
+
+The cherry juice matters. Don't skip it. It adds acidity and depth. The wine alone gets flat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pork Tenderloin with Cherry Sauce
+
+**Can I make this ahead?**
+Cook the pork, make the sauce separate. Reheat gently. The pork shouldn't spend more than an hour sitting around after it's seared or it dries out. Sauce is fine in the fridge for three days.
+
+**What if I don't have five-spice powder?**
+Use cinnamon and a pinch of clove. Maybe some ginger. The five-spice gives you all that at once. You can approximate but it tastes different. Not worse. Different.
+
+**How do I know when the pork is actually done?**
+Internal temp is 145 Fahrenheit for medium. But honestly, feel the firmness. Raw pork is soft. Overcooked pork is hard. Done pork has some give. Press it with your finger. You'll know.
+
+**Should I use fresh cherries instead?**
+Haven't tried it. The sour cherry juice is important to the sauce balance. Fresh cherries are sweeter. You'd need to add wine or vinegar to compensate. Jarred ones are easier.
+
+**What pairs with this?**
+Rice soaks up the sauce. Steamed vegetables don't compete with the spices. Roasted root vegetables work too. Nothing too heavy.
+
+**Can I substitute the parsnip?**
+Carrots work. Celery if you want lighter. The parsnip adds a subtle sweetness that complements the cherry. But you're fine swapping it.
