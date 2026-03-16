@@ -1,10 +1,10 @@
 ---
-title: "Pastis Snail Mini Skewers"
+title: "Pastis Snail Mini Skewers with Garlic Butter"
 slug: "pastis-snail-skewers"
-description: "Small skewers of snails cooked in a rich butter sauce with herbs and a liquor twist. Uses garlic, shallots, and a blend of anise-flavored spirits. Quick grill finish for smoky char. Mildly creamy with mayonnaise and fresh tarragon. A casual French-inspired bite, suitable for appetizers without gluten, lactose or nuts."
-metaDescription: "Pastis Snail Mini Skewers, smoky grilled bites in buttery anise sauce with garlic, shallots, mayo, herbs. Gluten, nut, lactose friendly, quick prep."
-ogDescription: "Small snail skewers grilled fast with Pernod, herbs, garlic butter sauce. Creamy mayo, chives, smoky char. Great for gluten and nut-free starters."
-focusKeyphrase: "Pastis Snail Mini Skewers"
+description: "Grilled snail skewers with garlic, shallots, Pernod butter sauce, and fresh chives. French appetizers featuring escargot on wooden skewers with a smoky char finish."
+metaDescription: "Easy French snail appetizers with garlic butter, Pernod, white wine, and fresh chives. Grilled escargot skewers perfect for entertaining. Make it tonight."
+ogDescription: "Grilled snail skewers with garlic, butter, Pernod, and fresh chives. French appetizer perfection in minutes."
+focusKeyphrase: "snail skewers with garlic and anise"
 date: 2025-07-25
 draft: false
 image: pastis-snail-skewers.jpg
@@ -21,9 +21,18 @@ tags:
 - "grilling"
 - "easy dinner"
 keywords:
-- "snail skewers"
-- "butter sauce snails"
-- "anise flavor snails"
+- "snail skewers with garlic and anise"
+- "grilled escargot skewers with herbs and mayonnaise"
+- "french snail appetizers"
+- "grilled snails with pernod butter sauce"
+- "french appetizers"
+- "escargot with garlic butter"
+- "pernod snails"
+- "easy dinner appetizers"
+- "grilled seafood skewers"
+- "butter poached snails"
+- "white wine escargot"
+- "garlic snail recipe"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "85"
@@ -63,3 +72,71 @@ faq:
 - "q: Can I prepare skewers ahead? a: Yes but grill just before serving. Skewers assembled and sauce combined can wait a few hours refrigerated. Don't grill early or snails get tough. Warm serving best. Reheat briefly if needed but avoid overcooking."
 
 ---
+
+Soak the skewers first—seriously, thirty minutes minimum or they'll char before anything cooks. Three cloves of garlic, one shallot, finely chopped. Butter goes in the pan. That's where this starts.
+
+## Why You'll Love This Grilled Seafood Skewers Recipe
+
+Takes 45 minutes total. Sounds fancy. Isn't.
+Grilled escargot skewers with herbs and mayonnaise hits different as an appetizer—people think you spent all day on this when you didn't. Pernod does most of the work.
+Easy dinner starter, honestly. Just soak wooden skewers and you're set. The grill handles the rest.
+Tastes like you know what you're doing in the kitchen. You kinda do now.
+Works cold too if you have leftovers, which you won't.
+
+## What You Need for Snail Skewers with Garlic and Anise
+
+Two cans of snails. Drain them. Don't keep the liquid.
+One small shallot, finely chopped. Not minced into nothing—just fine.
+Three garlic cloves. Minced proper.
+Butter. Twenty-five ml. That's about two tablespoons if you're eyeballing it.
+Pernod—fifty ml. The anise flavor does something specific here. Don't skip it or substitute. It won't work the same.
+White wine. Dry. One hundred ml. Whatever you'd drink.
+Mayonnaise. Twenty ml. Just enough.
+Fresh chives. Twenty ml chopped. Dried works if you're desperate. Tastes different though.
+Wooden skewers soaked for thirty minutes. This matters. Dry wood burns.
+
+## How to Make Grilled Escargot Skewers with Herbs and Mayonnaise
+
+Heat the butter over medium. Not hot—medium. Let it melt slow.
+Add the shallot and garlic. Three minutes. Just let them go soft. The kitchen smells like something's happening now.
+Drop in the snails. Salt. Pepper. Stir once.
+Pour the Pernod in. Watch it—it might flame. That's fine. Pour the white wine after. Bring it up to a boil, then let it sit there and reduce. Eight minutes. Maybe nine. You're waiting for it to go nearly dry. The liquid shrinks down to almost nothing.
+Transfer everything to a bowl. Let it cool for a few minutes.
+
+## How to Get Snail Skewers with Perfect Char Marks
+
+Stir in the mayonnaise once it's cooled. Add the chives. Taste it. Fix the salt if it needs it.
+Preheat the grill high. Let it get hot—actually hot. Brush the grate with oil. One light coat.
+Thread four to five snails per skewer. They go on easy. Don't overthink the spacing.
+Grill them three minutes per side. You're watching for char marks, not cooking them through—they're already cooked. This is about heat and color.
+The outside gets that crust. The snails stay tender inside. Pull them off warm.
+
+## Butter Poached Snails with White Wine Reduction Tips
+
+Don't soak the skewers and then forget about them. You'll burn the house down trying to remember.
+The reduction is the key thing. Boil it hard, let it go nearly dry. Skipping this step makes the whole thing bland. The flavors need to concentrate.
+If the Pernod smell bothers you, open a window. It cooks off but the anise stays.
+Serve them warm. Not hot, not room temperature. Warm. That's when they taste right.
+The grill grates should be clean. Snails stick to a dirty grate. You'll lose half of them.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Grilled Snails with Pernod Butter Sauce
+
+**Can I use fresh snails instead of canned?**
+Could work. You'd need to clean them first, which is a whole thing. Canned is fine. Tastes good.
+
+**What if I don't have Pernod?**
+Don't use something else. Pernod is the point. Go buy it or don't make this.
+
+**How long do these keep?**
+Three days in the fridge. Four if you're pushing it. Reheat gently. They get rubbery if you're rough with them.
+
+**Can I make the snail mixture ahead?**
+Yeah. Mix it in the morning, refrigerate it, thread them an hour before you grill. Actually tastes better that way.
+
+**Why mayonnaise? Seems weird.**
+Keeps them from drying out. Sounds wrong. Works. Trust it.
+
+**Do I really need to soak the skewers?**
+Yes. Thirty minutes. They'll burn otherwise and everything falls apart on the grill. Soaking matters.
