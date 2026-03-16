@@ -1,10 +1,10 @@
 ---
-title: "Spicy Jerk Chicken Skewers"
+title: "Chicken Kebab with Jerk Marinade"
 slug: "spicy-jerk-chicken-skewers"
-description: "Bold jerk marinade with tweaks; olive oil swapped light grape seed oil; half marinade for later brushing; adds tangy mango for sweetness twist; chicken thighs cubed, marinated minimum 15 minutes up to overnight; skewered alternating chicken, pineapple chunks, red bell pepper, and red onion; grilled at medium-high heat with attention to sizzling sounds and grill marks; cooked till internal temp hits 160-165°F but also assess firmness and juices; finished with fresh cilantro topping for freshness punch."
-metaDescription: "Spicy Jerk Chicken Skewers with zesty jerk marinade, pineapple sweetness, and charred grill marks. Bold Caribbean flavors balanced with fresh cilantro finish."
-ogDescription: "Bold jerk marinade coats chicken, pineapple caramelizes on hot grill, crisp veggies add contrast. Listen for sizzle, watch for clear juices, finish with fresh cilantro."
-focusKeyphrase: "Spicy Jerk Chicken Skewers"
+description: "Grilled chicken kebab recipe featuring jerk marinade with pineapple juice, garlic, and spices. Skewered with pineapple, bell pepper, and red onion. Juicy, flavorful, and ready in 30 minutes."
+metaDescription: "Make chicken kebab with bold jerk marinade, pineapple juice, and fresh cilantro. Perfectly grilled with pineapple and bell pepper. Try it tonight."
+ogDescription: "Jerk-marinated chicken kebabs with pineapple juice, garlic, and allspice. Grilled to perfection with fresh cilantro."
+focusKeyphrase: "chicken kebab"
 date: 2025-11-26
 draft: false
 image: spicy-jerk-chicken-skewers.jpg
@@ -21,9 +21,18 @@ tags:
 - "caribbean"
 - "easy dinner"
 keywords:
-- "jerk chicken"
-- "grilled skewers"
-- "pineapple chicken"
+- "chicken kebab"
+- "chicken kebab marinade"
+- "chicken skewers"
+- "jamaican jerk chicken"
+- "chicken kabob recipe"
+- "jerk chicken marinade"
+- "grilled chicken skewers"
+- "chicken shish kebab"
+- "kabobs on bbq"
+- "chicken for kabobs"
+- "homemade jerk marinade"
+- "caribbean jerk chicken"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -76,3 +85,112 @@ faq:
 - "q: How store leftovers? a: Fridge in sealed container up to 3 days. Reheat gently to avoid drying. Could freeze cooked skewers but texture changes slightly. Best fresh for juiciest bites. Save marinade separately if raw."
 
 ---
+
+Cut chicken into cubes. Blend the marinade. Get them together for 15 minutes — or 10 hours if you've got time. Grill for 12 minutes total. That's it.
+
+This is Caribbean jerk chicken done fast, the kind you throw together on a Wednesday and suddenly dinner tastes like you planned it.
+
+## Why You'll Love This Chicken Kebab Recipe
+
+Takes 32 minutes start to finish — 20 to prep, 12 on the grill. Doesn't feel rushed.
+
+Spicy but sweet. The pineapple chunks balance the heat so it's not just fire. Works great for people who want flavor but not a mouthful of pain.
+
+Grilling these is easy. Skewers do the work. You're not fussing with a whole bird or thin cutlets that dry out. One-inch cubes stay juicy because they're small enough to cook through but thick enough to stay tender.
+
+Leftovers are better cold. Flavors settle overnight, taste deeper somehow.
+
+## What You Need for Caribbean Chicken Kebab
+
+Grape seed oil. Not olive oil — burns at grill temp and tastes off. A quarter cup.
+
+Pineapple juice. Fresh is better. Canned works. That tropical acid softens the chicken fibers.
+
+Five cloves of garlic, minced. Don't skip this. Half a teaspoon is not the same.
+
+Maple syrup — a tablespoon. Could use honey instead. Agave works too. Doesn't really matter which one.
+
+Lime juice. Two teaspoons. Not lemon. Lime has something different going on.
+
+Soy sauce — two teaspoons. The salt and funk it brings changes everything.
+
+Dried thyme, coarse sea salt, ground nutmeg, allspice, ginger, cinnamon — the spices that make this taste like the Caribbean and not just "grilled chicken." You need all of them. One teaspoon thyme, one teaspoon salt, half a teaspoon nutmeg, half a teaspoon allspice, a quarter teaspoon ginger, a pinch of cinnamon.
+
+One jalapeno minced and seeded — unless you want it fiery. Then keep the seeds.
+
+Six scallions chopped up. Just the green and white parts.
+
+A pound of boneless skinless chicken thighs. Thighs, not breasts. They don't dry out as fast.
+
+Two cups of pineapple cubes. Fresh if possible. Frozen works. Canned — drain it first.
+
+One red bell pepper and one red onion, both cut into chunks the same size as your chicken. One-inch pieces.
+
+Fresh cilantro at the end. The bright stuff that makes it taste alive.
+
+## How to Make Chicken Kebabs
+
+Pulse everything except the chicken and vegetables into a blender or food processor. The marinade should be thick and chunky — not smooth, not a puree. You want texture in there. Taste it. If it feels flat, add more lime juice. A teaspoon more usually does it.
+
+Toss the chicken cubes in a bowl with half the marinade. Make sure every piece gets coated. Cover and stick it in the fridge. Minimum 15 minutes if you're in a hurry. Ten hours is better. Don't go past 12 hours or the acid starts breaking things down too much and it gets mushy instead of tender.
+
+Grab eight metal skewers — sturdy ones. Spray them with cooking spray so nothing sticks.
+
+Thread them: chicken, pineapple, bell pepper, onion. Then repeat. That pattern matters because the sweet pineapple hits between the spicy chicken. Breaks up the heat. Gives you something else to think about while you're eating.
+
+Keep the other half of marinade. You'll brush it on while they cook.
+
+## How to Get Chicken Kebabs Crispy and Caramelized
+
+Heat the grill to medium or medium-high. Not nuclear. Just hot enough that when you hold your hand over it, you can only do it for a couple seconds.
+
+Spray the grates with oil. This matters more than people think.
+
+Put the skewers on. They should hiss — that sharp sizzle sound. If they don't, wait another minute. That sound means the grill is ready.
+
+Six minutes per side. Watch them though. Every grill runs hot or cool differently. You're looking for brown marks, not black char. The pineapple caramelizes fast — watch that it doesn't go from golden to burnt.
+
+Brush them once or twice with leftover marinade while they cook. Builds layers of flavor. Helps the sugar brown faster.
+
+Chicken's done when it's firm but springy when you press it, and the juices run clear instead of pink. If you're worried, cut a piece open and peek. Internal temp should be 160 to 165 degrees but carryover heat finishes it. Don't overcook by waiting for 165 in the middle — that's how you get dry.
+
+Pull them off. Let them sit for two minutes. The residual heat keeps cooking and everything stays juicy.
+
+## Chicken Kebab Tips and Common Mistakes
+
+If you don't have a grill, broil them. Highest rack, watch them close because the broiler is aggressive and sugar burns fast. Or pan sear them in a hot skillet, turning every minute or two until they're cooked through. Not ideal but it works.
+
+The jalapeno seeds are where the heat lives. If your crowd doesn't do spicy, take them out before blending. If you want it hotter, leave them in or add another quarter jalapeno.
+
+Soak wooden skewers in water for 30 minutes before using or they'll char on the tips and catch fire a little. Metal skewers don't have that problem. That's why I use metal.
+
+Don't overlap the pineapple chunks too much or they steam instead of caramelize. Space them out slightly.
+
+If the marinade is too thick and won't pour, add a tablespoon of water. Not a big deal.
+
+The chicken will keep marinating up to 12 hours. After that it starts getting weird. Texture changes. Not ruined, just not as good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken Kebab Marinade
+
+**Can I make the chicken kebab marinade ahead of time?**
+Yeah. Mix it the night before. Actually tastes a bit better because the spices meld. Keeps three days in the fridge.
+
+**How long do chicken kebabs need to marinate?**
+Fifteen minutes minimum. You can do it faster if you're in a rush — 10 minutes works. But 2 to 10 hours is the sweet spot. After 12 hours the meat gets soft in a mushy way instead of tender.
+
+**What if I don't have maple syrup for the jerk chicken marinade?**
+Honey. Agave. Brown sugar dissolved in a little water. They're not identical but close enough it doesn't matter.
+
+**Can I use chicken breasts instead of thighs for chicken skewers?**
+You can. They'll cook faster — maybe five minutes per side. They dry out easier though. If you go that route, don't marinate past four or five hours or the acid makes them stringy.
+
+**What temperature should the grill be for chicken kebabs on the BBQ?**
+Medium to medium-high. Around 400 degrees if your grill has a thermometer. Hot enough to sizzle but not screaming hot. The bottom of your hand over the grates — if you can only hold it there two seconds, you're good.
+
+**How do you know when jerk chicken kebab is done?**
+Press it. Feels firm but still has a little give. Clear juices, not pink. Cut one open if you're paranoid. Internal temp is 160 to 165 but carryover heat finishes it so don't wait for 165 in the thickest part.
+
+**Do you have to grill chicken kebabs or can you cook them another way?**
+Broil them on the highest rack. Watch close. Or pan sear in a hot skillet, turning every minute or so. Not as good as grilled but it works. The pineapple won't caramelize the same way but the flavor's still there.
