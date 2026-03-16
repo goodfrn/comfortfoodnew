@@ -1,10 +1,10 @@
 ---
-title: "Watermelon Tomato Basil Feta"
+title: "Watermelon Feta Salad with Basil & Mint"
 slug: "watermelon-tomato-salad"
-description: "A chilled salad stacking thick watermelon slices topped with tomatoes, herbs, and creamy cheese. Uses olive oil lime dressing tweaked with spices for brightness. Melon juicy and firm, tomatoes ripe but not mushy. Feta adds tang and salt, balanced by fresh herbs and a hint of curry powder. Simple yet layered flavors, best served cold and sliced like a pie. Refreshing bite contrast between soft melon and crisp tomatoes. Roughly 20 minutes prep but pay attention to texture cues to avoid watery mess or bland notes."
-metaDescription: "Watermelon Tomato Basil Feta salad layered thick with herbs, tangy cheese, citrus cumin dressing. Bright, fresh flavors, crisp textures. Ready in 15 minutes."
-ogDescription: "Stack thick watermelon slices with tomatoes, basil, mint, feta in tangy cumin-lemon dressing. Refreshing cold salad with juicy crisp contrast, herb punch."
-focusKeyphrase: "Watermelon Tomato Basil Feta"
+description: "Refreshing watermelon feta salad layered with heirloom tomatoes, fresh basil, and mint. Tossed in lemon olive oil dressing with cumin. Ready in 20 minutes."
+metaDescription: "Watermelon feta salad recipe with heirloom tomatoes, basil, mint, and lemon dressing. Fresh, chilled, and perfect for summer. Make it tonight."
+ogDescription: "Juicy watermelon meets creamy feta with tomatoes, basil, and mint in this bright, chilled summer salad."
+focusKeyphrase: "watermelon feta salad"
 date: 2025-08-19
 draft: false
 image: watermelon-tomato-salad.jpg
@@ -21,9 +21,18 @@ tags:
 - "cheese"
 - "mediterranean"
 keywords:
-- "watermelon salad"
-- "basil feta salad"
-- "heirloom tomato recipe"
+- "watermelon feta salad"
+- "watermelon feta mint salad"
+- "feta cheese watermelon salad"
+- "watermelon salad recipe"
+- "caprese salad"
+- "italian caprese salad"
+- "tomato mozzarella salad"
+- "basil tomato and mozzarella"
+- "fresh salad with feta"
+- "summer watermelon salad"
+- "lemon olive oil dressing"
+- "chilled salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "90"
@@ -62,3 +71,81 @@ faq:
 - "q: What if no heirloom tomatoes? a: Use firm tomatoes only. Roma or plum work if ripe but still hold shape. Avoid supermarket soft tomatoes, break down on toss. Flavor less complex but still ok. Add a pinch more salt to compensate."
 
 ---
+
+Slice the watermelon thick—2.5 cm, lengthwise. Not those thin paper rounds. Thick enough to hold the weight of what's going on top of it. Dry it off first. Water pooling on the plate is not the vibe.
+
+## Why You'll Love This Caprese Salad Salad
+
+Summer on a plate. Takes 15 minutes flat.
+Watermelon instead of tomato base — tastes lighter, juicier. Fresh basil and mint make it sing in a way regular caprese doesn't.
+Feta and watermelon together hit different. The salt, the creaminess, the cool. Works as a side for literally anything or just on its own with cold wine.
+Mediterranean flavors without the heat. Cumin instead of the usual stuff gives it something unexpected.
+Leftover tomato mixture works cold the next day. Maybe even better.
+
+## What You Need for a Watermelon Caprese Salad
+
+One medium watermelon, about 1.5 kg. Slice it lengthwise so you get those long, flat pieces. Not round coins.
+
+Three medium heirloom tomatoes. Quartered. The color matters less than ripeness—you want them firm enough to hold their shape but juicy inside.
+
+Extra virgin olive oil. 20 ml. It's not much, but it matters. The good kind.
+
+Fresh lemon juice. 25 ml. Fresh. Not bottled. Yuzu works too if you've got it—sharper, more interesting.
+
+Ground cumin. 1 ml. A tiny pinch. It sounds weird with watermelon. It works.
+
+120 grams of ricotta salata or feta, crumbled. Ricotta salata is firmer, creamier. Feta works if that's what you have. Just crumble it rough.
+
+Basil and mint. 40 ml of basil, 30 ml of mint chopped fine. Fresh. Not dried. Fresh is the whole point here.
+
+Salt and black pepper. To taste. You'll need more than you think.
+
+## How to Make a Feta Cheese Watermelon Salad
+
+Get the dressing right first. Whisk together the olive oil, lemon juice, ground cumin, salt, and pepper. Do it hard—vigorous. The cumin should smell alive, not dusty. Taste it. Is it sharp? Add more oil. Flat? More lemon. Balance it. This matters.
+
+While that's sitting, get your bowl. Tomatoes go in. Ricotta salata goes in. Basil and mint. Pour the dressing over everything and toss gently. Every piece should have a thin glossy coat. Not swimming. Watch the tomato skins—if they're splitting, you've been too rough or they were already too ripe.
+
+## How to Get the Watermelon Salad Perfect
+
+This is the careful part. Take your watermelon slices—they're lying flat on the platter, right?—and mound the tomato mixture in the center. Press it down a little. Just enough so it doesn't slide everywhere when you pick it up. Not so hard you compress the melon.
+
+Now cut the watermelon crosswise. Like you're slicing a cake into wedges. Six to eight pieces depending on your melon size. Do it clean. One motion per slice if you can.
+
+Juice pools at the plate. That's normal. Dab it gently with a paper towel before anyone sees it. The fruit shouldn't be drowning.
+
+Chill it if you can, but serve it within five minutes of assembly. Longer than that and the melon gets too wet, the basil starts to fade. The herbs need to be bright. The contrast between the cool melon, the salty cheese, the green herbs—that's what this is.
+
+## Watermelon Salad Tips and Common Mistakes
+
+Don't slice the watermelon too thin. It tears, it weeps, it becomes mush. 2.5 cm minimum. You need structure.
+
+Dried herbs won't cut it here. This salad is summer. It's fresh. Dried basil tastes like cardboard in comparison. Buy the fresh stuff.
+
+The cumin is optional if it bothers you, but don't replace it with curry powder. Different vibe entirely. Just skip it if you have to.
+
+Ricotta salata is worth hunting for. It's firmer than feta, doesn't dissolve into the dressing as fast. But feta works. So does burrata if you're feeling it—just know it'll get softer as it sits.
+
+Don't make this ahead. The whole point is the freshness. The contrast of temperatures. The herbs still bright. Do it when people are ready to eat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Caprese Salad Salad
+
+**Can I use regular tomatoes instead of heirloom?**
+Sure. They work fine. Heirlooms have more flavor and less juice, which matters here because you're already dealing with watermelon water. Regular tomatoes add more liquid. It's not bad, just different.
+
+**What if I can't find ricotta salata?**
+Feta. Fresh mozzarella crumbled works too but it gets soft. Goat cheese if you have it. The point is something salty and creamy to cut the sweetness of the melon.
+
+**Do I really need the cumin?**
+No. Leave it out if it feels wrong. The salad stands without it. But it's only 1 ml—barely tastes like cumin. Adds something you can't quite name.
+
+**Can I make this ahead?**
+Not really. 15 minutes max before serving. The watermelon gets soggy. The herbs fade. It's a right-now dish.
+
+**Is this salad burrata-friendly?**
+Yeah. Burrata instead of feta works. It'll soften and get creamy, which actually helps bind everything. Just tear it into pieces instead of crumbling.
+
+**Can I use a different citrus?**
+Yuzu instead of lemon is good—sharper, more floral. Lime is too aggressive. Grapefruit juice sounds weird but probably works. Stick with lemon or yuzu.
