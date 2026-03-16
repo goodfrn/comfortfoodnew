@@ -1,10 +1,10 @@
 ---
-title: "White Fish Ginger Chard"
+title: "White Fish Recipes with Ginger & Soy"
 slug: "white-fish-ginger-chard"
-description: "Tender white fish cooked in a fragrant broth of ginger, garlic, and soy-sauce infused chard leaves. The stems soften first to build texture. Broth seasoned with lime juice, fish sauce, and a touch of chili paste. Olive oil finishes the dish, adding subtle richness. Takes roughly 40 minutes from start to finish. Serves four. Ingredients adjusted for balance and spice. A bright, light main course often found in East Asian-inspired meals. Savory, aromatic, with fresh green vegetable notes from Swiss chard. Fish gently poached to maintain delicate texture. A recipe with minimal dairy, nut-free, egg-free, ideal for various diets."
-metaDescription: "Delicious White Fish Ginger Chard cooks in fragrant broth. Perfectly poached fish over tender chard. A fresh Asian-inspired main course."
-ogDescription: "Savor tender white fish in a ginger-infused broth with chard. Light and aromatic, a must-try for Asian cuisine enthusiasts."
-focusKeyphrase: "White Fish Ginger Chard"
+description: "Tender cod fillets poached in ginger and soy broth with Swiss chard, shallots, and a touch of chili. Light, aromatic, and ready in 40 minutes."
+metaDescription: "White fish recipes: Cod poached in ginger soy broth with Swiss chard, lime, and sambal oelek. Tender, aromatic, dairy-free. Try it tonight."
+ogDescription: "Ginger soy poached cod with Swiss chard, shallots, and chili. Light, fragrant, and ready in 40 minutes. Serves four."
+focusKeyphrase: "white fish recipes"
 date: 2025-07-21
 draft: false
 image: white-fish-ginger-chard.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy dinner"
 - "one pot"
 keywords:
-- "white fish"
-- "Swiss chard"
-- "ginger broth"
+- "white fish recipes"
+- "fish with ginger and soy"
+- "soy ginger fish"
+- "cod fillets"
+- "poached white fish"
+- "easy white fish dishes"
+- "ginger fish recipe"
+- "fish with Swiss chard"
+- "simple white fish recipe"
+- "Asian white fish"
+- "flaky white fish"
+- "tamari soy fish"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "220"
@@ -66,3 +75,49 @@ faq:
 - "q: What about spice levels? a: Adjust heat to your taste. Start with less. Add more chili if needed. Balance is key. Not overpowering. Keep it enjoyable."
 
 ---
+
+Set a wok over medium heat. Pour in the oil. Shallots go in first—then garlic, ginger, and chard stems. Six or seven minutes until everything softens. Broth comes next, then tamari and oyster sauce and lime. One pot. Thirty-five minutes total from cold stove to plated. Had leftover chard and no plan for protein. This happened.
+
+## Why You'll Love This White Fish Recipe
+
+Takes 65 minutes start to finish—25 to prep, 40 cooking. One pot means one thing to clean. The broth is bright without being aggressively salty. Works as actual dinner, not a side project. Healthy. Asian flavors but nothing fussy. Cod's the obvious choice but basa fillets work just as well, maybe better. Chard gets soft in the broth instead of staying aggressive. The fish stays moist because it steams in there. Cold the next day tastes different—kind of better. Not convinced about that one yet.
+
+## What You Need for This White Fish Fillet Dish
+
+Swiss chard. Stems and leaves both. Chop the stems fine, leaves rough. Shallot—one small one, sliced thin. Garlic. Ginger. Fresh ginger, not powdered. There's a difference. Avocado oil. Not olive. Burns too easy. Vegetable broth. Four hundred fifty milliliters. Salt matters more than you think. Tamari soy sauce. Not regular soy—less sodium, tastes cleaner. Oyster sauce. Twelve milliliters. Lime juice. Sambal oelek or fresh chili if you want heat. Six hundred grams of cod fillets. Swai works. Basa works. Anything white and flaky. Cut into portions so they cook even. Black pepper. Cracked, not ground.
+
+## How to Make White Fish in a White Sauce—Asian Style
+
+Heat the oil in a wok or deep skillet. Medium heat. Add the chard stems first. They take longest. Shallot goes in, then garlic and ginger. This takes about six minutes. Everything should soften but not brown. Pour the broth in. Add tamari, oyster sauce, lime juice, and your chili—sambal oelek or sliced fresh. Bring it to a gentle boil. Not aggressive. A gentle one. Cover it. Let it sit for seven minutes. The stems keep softening. The broth soaks them.
+
+Add the chard leaves now. Just the leaves. Stir briefly. Cover again. One minute. That's it. They wilt fast. Don't leave them. Lightly salt the fish fillets. This matters because the broth already has salt from the tamari and oyster sauce. Place them on top of the chard. Don't overlap. They need space so they cook through. Cover the pot. Four to five minutes. Spoon the broth over the fish every minute or so. This keeps it moist.
+
+## How to Get Flaky White Fish Cooked Right
+
+The fish cooks in the broth. Not in boiling water—in broth that already tastes good. The moisture comes from above and below. That's why you spoon it. The fillets should be opaque all the way through when you're done. They flake when you press them. Basa fish fillets cook faster than cod. Check at four minutes instead of five. Swai is somewhere in between. Color doesn't matter much—this isn't a seared fish situation. You're looking for opacity. Texture should give when you push. Not mushy. Just cooked through.
+
+## White Fish Recipe Tips and What Goes Wrong
+
+Don't overlap the fillets. Overlapping means the bottom one steams and the top one stays slightly raw on one side. Space them. The broth amount matters. Too much and the fish poaches in straight water. Too little and the stems don't soften. Follow the amounts. Chard stems take the time here. Don't skip the seven-minute simmer before you add the leaves. The broth needs to be hot enough that adding the leaves doesn't cool everything down. Fresh ginger changes everything. Powdered ginger tastes like nothing. Not worth it. Lime juice at the end brightens it all. Don't add it at the beginning or it breaks the oyster sauce flavor. The oil at the end is optional but changes the mouthfeel. Makes it richer.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About White Fish Recipes
+
+**Can I use a different white fish instead of cod?**
+Yeah. Basa fillets work great. Swai works. Any flaky white fish. Avoid anything thick like halibut. This recipe cooks in four to five minutes. Thick fish takes longer and the chard gets mushy.
+
+**How much heat should I use from the sambal oelek?**
+Start with half a teaspoon. Taste it. Add more if you want. Some batches of sambal are hotter than others. Fresh chili is easier to control—slice it thin, add a piece at a time.
+
+**Can I make this ahead?**
+The broth keeps three days. The fish doesn't keep well. Cook the broth and chard the day before, then add the fish fillets fresh when you want to eat. Reheats fine. The fish gets a bit soft on reheating but it's still edible.
+
+**What if I don't have tamari?**
+Regular soy sauce works. You'll get more salt. Use less. Start with one teaspoon instead of two and a half. The flavor changes—less umami, more salt-forward. Still tastes good.
+
+**Why does my fish stay moist?**
+It's steaming in the broth instead of sitting in dry heat. The cover traps moisture. The spoon-over part keeps the top from drying out. That's the whole thing.
+
+**Can I use frozen basa fish fillets?**
+Yeah. Don't thaw them. Frozen goes in still frozen. Add a minute to the cooking time. Maybe two. Check for opacity instead of timing.
