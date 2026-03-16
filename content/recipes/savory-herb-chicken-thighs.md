@@ -1,10 +1,10 @@
 ---
-title: "Savory Herb Chicken Thighs"
+title: "Roasted Chicken Thighs with Garlic & Rosemary"
 slug: "savory-herb-chicken-thighs"
-description: "Chicken thighs seared till skin crackles then roasted with herbs. Garlic and rosemary mingle with salt and pepper, all cooked in a hot pan then finished in oven heat. A twist with lemon zest brightens up the heavy earthiness. Uses olive oil but can swap for avocado or coconut for different smoke points. Timing by feel not clocks. Skin crisp tells you when to flip. Meat pulls back from bone gently. Perfect for quick weeknight but fancy enough for guests."
-metaDescription: "Savory herb chicken thighs seared till skin crackles crisp then oven roasted with garlic rosemary lemon zest for bold rustic flavor and juicy texture."
-ogDescription: "Juicy chicken thighs with crackling skin, garlic, rosemary, hints of lemon zest. Seared then oven finished. Rustic taste, smoky paprika optional, timing by feel."
-focusKeyphrase: "savory herb chicken thighs"
+description: "Crispy roasted chicken thighs with garlic, fresh rosemary, and lemon zest. Pan-seared skin turns golden, then finished in the oven for juicy, herb-infused meat that's restaurant-quality at home."
+metaDescription: "Roasted chicken thighs with garlic, rosemary, and lemon zest. Crispy skin, tender meat, and fresh herbs make this easy weeknight dinner. Save this one."
+ogDescription: "Pan-seared then roasted chicken thighs with garlic, rosemary, and bright lemon zest. Crispy skin. Perfect every time."
+focusKeyphrase: "roasted chicken thighs"
 date: 2026-01-31
 draft: false
 image: savory-herb-chicken-thighs.jpg
@@ -20,9 +20,15 @@ tags:
 - "lemon"
 - "main dish"
 keywords:
-- "chicken thighs"
-- "lemon zest"
-- "smoked paprika"
+- "roasted chicken thighs"
+- "lemon rosemary chicken thighs"
+- "crispy skin chicken thighs with garlic"
+- "pan seared chicken thighs oven roasted"
+- "garlic rosemary chicken thighs recipe"
+- "herb roasted chicken thighs with lemon"
+- "lemon zest roasted chicken thighs"
+- "crispy roasted chicken thighs with fresh herbs"
+- "herb chicken main dish"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -73,3 +79,112 @@ faq:
 - "q: How to store leftovers? a: Cool completely before fridge. Store sealed tight few days. Skin loses crisp but reheat oven 400°F on tray restores some crispness; avoid microwave too much rubbery. Freeze if long term; thaw slowly fridge overnight. Reheat straight from fridge short, medium heat oven to keep moisture; no high heat or dries out."
 
 ---
+
+Skin side down in a screaming hot pan. That's where it starts. Eight thighs, bone-in skin-on, and you're not moving them for almost ten minutes—just listening to that sizzle and watching the edges go gold. Had a whole chicken once that looked like it needed rescuing. Flipped too early. Skin stuck. Ruined it. This way works.
+
+## Why You'll Love This Roasted Chicken Thighs Recipe
+
+Thirty minutes total, mostly hands-off after the sear. Not a long dinner, not stressed cooking.
+
+Works as a main dish for four people or stretches to six with sides. Leftovers taste better cold the next day—crispy skin holds up.
+
+Lemon and rosemary go into the meat, not a sauce you have to make. Already there. No extra steps.
+
+The garlic turns sweet and soft instead of sharp. It's kind of the whole point. Gets almost buttery if you let it go right.
+
+Skin actually gets crispy. Doesn't happen by accident. Bone-in thighs hold moisture in the meat while the outside shatters. Boneless doesn't do that.
+
+## What You Need for Crispy Roasted Chicken Thighs
+
+Eight thighs. Bone-in, skin-on. Not boneless. The bone keeps everything juicy while the skin crisps up. Breasts dry out. Don't bother.
+
+Three cloves garlic, sliced thin. Or shallots if you want something milder—less aggressive flavor, sweeter when they roast. Either works.
+
+Two tablespoons olive oil. Avocado oil if your pan's getting hotter than usual—olive oil smokes around 375°F and that burns everything. Avocado holds higher heat without turning dark.
+
+Fresh rosemary. Finely chopped. Dried doesn't compare. The oils are gone by the time you buy it dried. Fresh actually tastes like something.
+
+Sea salt and cracked black pepper. Fine salt, because coarse doesn't stick to the skin right. It just rolls off.
+
+Lemon zest. Freshly grated. One teaspoon. It sounds small but it cuts through the heavy roasted meat in a way that feels almost bright. Bottled zest is basically nothing.
+
+Half a teaspoon smoked paprika if you want it. Adds a smoky depth that makes people ask what you did different. Optional but worth it.
+
+## How to Make Roasted Chicken Thighs
+
+Pat the chicken dry first. Not just a quick wipe. Actually dry. Wet skin won't crisp no matter what you do. Pat it again if you're unsure. Seriously.
+
+Slice the garlic thin. Chop the rosemary. Zest the lemon. Get it all sitting there before you turn the heat on. You won't have time once the pan's hot.
+
+Season the thighs now—salt, pepper, and lemon zest all over. Work it under the skin where you can reach. On top. In the crevices. Don't be shy about it.
+
+Heat the oil in a heavy skillet until it's sizzling. Not smoking. If it starts smoking, let it cool a second or switch to avocado oil. Smoking means it's about to burn.
+
+Place the chicken skin-side down. Press it with the spatula for a second. You want to hear that sizzle immediately. That's the sound that matters.
+
+Don't touch it for seven to nine minutes. That's where the magic is. The skin releases slowly, edges shimmer gold, the bottom of the pan darkens in little spots. Watch for bubbles on top of the skin—that's when you know the fat's cooking out.
+
+Flip it when the skin pulls from the pan easy. Use tongs. Twist it, don't tug. If it sticks, wait another minute.
+
+Throw the garlic slices around the thighs right after the flip. You'll hear them pop. Smell hits right away—that toffee-like toasted garlic smell. Stir them around so they brown evenly and don't burn on one side.
+
+Sprinkle the rosemary and paprika if you're using it. Give it a stir. The kitchen smells like a roastery at this point.
+
+Transfer the whole skillet to the oven at 400°F. About 18 to 22 minutes. Meat side down. Don't cover it. The oven finishes the cooking and the skin stays crispy.
+
+Check it around 18 minutes. Browned edges but still moist inside. Juices run clear when you poke it with a fork. The meat pulls back slightly from the bone—that's the signal. Not dried out, not pale.
+
+Pull it out and let it rest five minutes. Tented with foil if you want, but it's not essential. The skin tightens up a little. Juices redistribute through the meat instead of running out when you bite into it.
+
+## How to Get Crispy Roasted Chicken Thighs with Fresh Herbs
+
+The sear is everything. That first seven to nine minutes skin-side down is non-negotiable. That's where crispy happens. If you skip straight to the oven, you get roasted chicken. Not crispy.
+
+The pan matters too. Cast iron or heavy stainless. Thin pans cool down too fast. You need something that holds heat.
+
+Don't crowd the pan. Eight thighs in one skillet works. Nine thighs crammed in means they steam instead of sear. They touch each other and moisture builds up.
+
+Oil temperature matters more than you'd think. Cold pan, cold oil—chicken sticks. Hot pan, hot oil—it releases clean. Sizzle the second it touches the pan. If there's silence, wait longer.
+
+The meat's done when the thickest part at the thigh-drumstick joint reads 165°F on a thermometer. Or poke it with a fork. If clear juices come out, not pink, it's ready. Overcooked thighs turn dry and rubbery. Twenty-two minutes is pushing it.
+
+## Crispy Roasted Chicken Thighs Tips and Common Mistakes
+
+Wet skin ruins everything. Pat it three times if you have to. Moisture and crispy skin don't coexist.
+
+Don't flip too early. Seven minutes minimum. Usually closer to nine. It's the only thing you're going to feel tempted to mess with, and that's the one thing you can't mess with.
+
+Garlic burns if you add it at the start. It goes in after the flip when there's liquid fat in the pan to protect it. Add it when the pan's clean and hot and it chars before it softens.
+
+Salt the chicken before cooking, not after. It absorbs into the meat and seasons all the way through. Salt after and it just sits on the surface.
+
+Don't skip the lemon zest. It's not decoration. It's the thing that makes the herb roasted chicken thighs feel bright instead of heavy. One teaspoon does the job. More than that and it's too much.
+
+The oven temperature matters. Too low and the meat's done but the skin never fully crisps. 400°F is the right call. 375°F and you're pushing it. 425°F and edges burn while the inside's still cooking.
+
+Resting it is real. Five minutes. Don't cut into it right away. The meat keeps cooking a tiny bit and the juices settle. Slice it open immediately and juices run everywhere. Wait and it stays inside.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Herb Roasted Chicken Thighs
+
+**Can I use boneless chicken thighs?**
+Not really. They dry out. The whole point is that bone keeps the meat juicy while the skin gets crispy. Boneless thighs lose that balance. Roasted versus actually good are different things here.
+
+**What if I don't have fresh rosemary?**
+Skip it. Dried tastes like nothing. Thyme works—same amount. Oregano's too aggressive. Actually, just salt, pepper, and lemon zest works fine if you don't have herbs at all.
+
+**How do I know when the skin is crispy enough?**
+It should snap when you bite it. Not just brown—snaps. Skin still soft when it's done means you didn't sear it long enough at the start or the oven temp wasn't high enough.
+
+**Can I make this without the paprika?**
+Yeah. It's optional. Just adds a smoky note. The lemon rosemary chicken thighs work completely without it.
+
+**How long do leftovers last?**
+Three days in a container. Cold they're almost better than hot. Skin's still crispy somehow. Don't reheat—it ruins it. Just eat it cold or room temperature.
+
+**What sides work with this?**
+Anything. Roasted potatoes because the pan drippings season them. Green beans. A salad. Nothing fancy needed when the chicken's already got lemon and garlic going.
+
+**Why does the garlic smell like toffee?**
+The sugars in garlic caramelize when you heat them. It's not actually toffee but close. High heat turns it sweet and deep instead of sharp and raw. That's the whole reason you wait to add it after the flip.
