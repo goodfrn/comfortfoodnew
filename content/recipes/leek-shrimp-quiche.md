@@ -1,10 +1,10 @@
 ---
-title: "Leek Shrimp Quiche Remix"
+title: "Shrimp Quiche with Leeks and Tarragon"
 slug: "leek-shrimp-quiche"
-description: "A savory quiche with a flaky crust, packed with sautéed shrimp and tender leeks. The butter-flour combo creates a rich pâte brisée, while the filling blends eggs, cream, and herbs for depth. Roasting shrimp quickly seals flavor without toughening. Slightly caramelized leeks add sweetness and earthiness. The custard cooks until just set, with a golden top and gentle wobble beneath. Work fast with cold ingredients; warm dough is a trap. Substitute shrimp for lobster or scallops if fancy. Fresh thyme swaps well with tarragon or chives. Adjust baking time, watch crust edges—too brown means flavors skew bitter. Rest quiche to let filling thicken before slicing."
-metaDescription: "Leek Shrimp Quiche Remix with flaky pâte brisée, caramelized leeks, and tender shrimp. Roasted, custard set just right, subtle herbs. Six servings French-inspired dish."
-ogDescription: "Flaky crust meets caramelized leeks and quick-seared shrimp. Herb notes shift with tarragon or chives. Custard wobbles, golden edge. A kitchen tested quiche variant."
-focusKeyphrase: "Leek shrimp quiche"
+description: "Elegant shrimp quiche featuring sautéed leeks, fresh tarragon, eggs, and heavy cream in a flaky pâte brisée crust. Perfect for brunch or dinner."
+metaDescription: "Make shrimp quiche with leeks, tarragon, and cream. This elegant seafood recipe uses a buttery pâte brisée crust. Save this one."
+ogDescription: "Seafood quiche with roasted shrimp, sautéed leeks, fresh tarragon, eggs, and cream in a homemade pâte brisée."
+focusKeyphrase: "shrimp quiche"
 date: 2025-08-16
 draft: false
 image: leek-shrimp-quiche.jpg
@@ -20,9 +20,16 @@ tags:
 - "shrimp"
 - "eggs"
 keywords:
-- "quiche"
-- "shrimp recipe"
+- "shrimp quiche"
+- "shrimp quiche with leeks"
+- "seafood quiche"
+- "shrimp and leek quiche recipe"
+- "seafood quiche with tarragon"
+- "pate brisee quiche"
+- "egg tart"
+- "homemade quiche"
 - "leek quiche"
+- "tarragon shrimp recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -83,3 +90,92 @@ faq:
 - "q: How to store leftovers? a: Wrap tightly in foil or airtight container. Refrigerate up to 3 days. Reheat in oven 160 °C; microwave ruins flaky texture, often rubberizes shrimp and soggifies crust. Quiche freezes okay but texture softens; thaw overnight in fridge then warm oven reheat. Not ideal but acceptable."
 
 ---
+
+Heat the oil. Shrimp goes in — garlic, tarragon, barely a minute until they curl. Don't overcook them now; they finish in the oven. Had a batch turn rubbery once. That was the lesson. Cold dough matters more than you'd think. It shrinks less, holds its shape when the filling hits it. Forty minutes to chill, twenty-five more after you roll it out. Worth it.
+
+## Why You'll Love This Shrimp Quiche
+
+Seafood without the fuss. Shrimp cooks twice — first in the pan, then gently in the custard, so it stays tender and doesn't turn into rubber.
+
+The crust is actual pâte brisée. Takes time. Tastes completely different from store-bought — flaky, buttery, the kind of thing that makes people ask what you did.
+
+Leeks get soft and barely brown. Not caramelized. Just gentle. They're the backbone here, soft against the eggs and cream.
+
+Tarragon does something weird with seafood. Can't explain it. Works though — tried basil once, missed it.
+
+Forty minutes hands-on, fifty in the oven. Not a weeknight thing necessarily, but the actual work is light. Most of it's waiting.
+
+Reheats fine. Wrapped in foil at 160 degrees. Cold doesn't really work. Tastes better warm, the crust crisps back up a little.
+
+## What You Need for Shrimp Leek Quiche
+
+**Pâte Brisée:** All-purpose flour — 230 ml. Cold unsalted butter, cubed — 60 ml. One large egg. A tablespoon of ice water, maybe a bit more if the dough's dry. Salt. Just a third of a teaspoon.
+
+**For the filling:** Four hundred grams of shrimp, cleaned, chopped into half-inch pieces. Three garlic cloves, minced fine. A tablespoon of fresh tarragon, chopped. Avocado oil — 20 ml. Don't use olive oil for this part; it's too heavy. Grapeseed works. Light olive works. Avocado's better.
+
+Four large eggs beaten together with heavy cream — 200 ml total. Two hundred ml of leeks already sautéed — soft, translucent, barely browned. Salt and pepper after you taste it.
+
+## How to Make Shrimp Quiche with Fresh Tarragon
+
+Start with the crust because it needs time. Pulse the flour and salt in a food processor until it's mixed. Drop the cold butter in, cut into cubes, and pulse until it looks like sand. Not flour. Not chunks. Sand. That matters. Add the egg and ice water and pulse a few more seconds until the dough clumps together. Don't overwork it. Take the ball, wrap it in plastic, put it in the fridge for forty minutes minimum.
+
+When the dough's rested, flour a counter and roll it thin — about three millimeters. Transfer it to a 24-centimeter tart pan with a removable bottom. Press it into the corners, trim the edges. Take a fork and dock the bottom all over — little holes prevent bubbling. Back in the fridge for at least twenty-five minutes.
+
+Preheat the oven to 185 degrees Celsius with the rack low. The bottom of the crust needs direct heat; that's how it gets crisp instead of soggy. Line the crust with parchment paper and fill it with pie weights or dried beans — something to hold the sides up while it blind bakes. Twelve to fifteen minutes until it's pale gold. Remove the weights and give it five more minutes until the edges start to color. If the edges are burning, cover them with foil strips.
+
+## How to Get Shrimp Quiche Crispy and Set Perfectly
+
+Get a heavy skillet hot over medium-high heat. Add the avocado oil. When it shimmers, add the shrimp — chopped, not whole — along with the minced garlic and tarragon. Stir. Watch. It takes about ninety seconds, maybe two minutes, until the shrimp curl and turn that pinkish white. That's the cue. Pull it off heat immediately. Season it now with salt and pepper. Let it cool slightly while you handle the leeks.
+
+The leeks need their own pan. Slow heat, medium setting. They go in with butter or oil — doesn't matter much — and sit there for eight to ten minutes until they're soft, translucent, the edges just barely starting to brown. Don't let them go dark. Bitter tastes bad. Season them lightly. Set them aside.
+
+Whisk four eggs with the heavy cream in a bowl. Pour in the cooled shrimp first — temperature matters, cold shrimp into hot eggs creates pockets of uneven texture. Then the leeks. Stir gently. Taste it now. Season it hard. The custard should taste almost salty on its own because the crust won't flavor it. Pour it into the blind-baked crust, filling it just below the rim so it doesn't spill when you close the oven door.
+
+Bake in the lower third of the oven, 185 degrees, forty-five to fifty minutes. The top will blush gold. The center will jiggle slightly — that's right. The edges will be set. Insert a toothpick near the middle; if it comes out wet, give it more time. If cracks appear across the surface, the oven's too hot or you've gone too far. Pull it out and cool it on a rack for ten to fifteen minutes. The filling firms up, and you can actually slice it without it collapsing into custard soup.
+
+## Shrimp Quiche Tips and Common Mistakes
+
+Don't skip the dough rest. Even if you're impatient. Even if it seems pointless. It relaxes the gluten, makes the dough easier to work with, stops it from shrinking. Same thing with the second chill after rolling — that second rest is why the crust stays where you put it.
+
+Overcooked shrimp happen fast. Watch them in the pan like a hawk. The second they change color, they're done. They cook again in the oven, so pull them out early rather than late.
+
+Leeks need patience. Soft is the goal. Light browning on the edges is fine; going dark is bitter and ruins the whole thing. Render them slowly. It takes time.
+
+Cold ingredients matter for the crust. The butter needs to stay cold — cubed, pulled from the fridge cold — so the dough stays flaky. Warm dough is tough dough. It shrinks. Don't do it.
+
+If the crust shrinks anyway, dock it more next time and chill it longer. A baking stone helps, too — sits in the oven, keeps the temperature steady. Metal tart pans conduct heat too fast. Use ceramic or glass.
+
+The filling can use half-and-half instead of heavy cream if you want it lighter, but the texture changes — more custard-like, less creamy. Whole milk makes it even lighter. Experiment with your own preference.
+
+Substitutions: tarragon swaps with chives or basil. Avocado oil swaps with grapeseed or light olive. Don't use regular olive oil; it overwhelms everything.
+
+If the bottom stays soggy despite all your effort, your oven temperature might be off. Check with a separate thermometer. Consistent heat matters more than you'd think.
+
+Leftovers reheat well. Wrap in foil, 160 degrees until warm. Not good cold. Not worth serving cold.
+
+Egg wash on the crust edges before blind baking gives you that golden finish. Brush it on lightly — it matters visually, not much else.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Shrimp Quiche with Cream and Eggs
+
+**Can I make the pâte brisée ahead of time?**
+Yeah. Wrap it tight, fridge for a few days, or freeze it for weeks. Thaw in the fridge before rolling if you freeze it. The longer it sits the more relaxed the gluten gets, which is actually good — less shrinkage.
+
+**What if I don't have tarragon?**
+Chives work. Basil works. Dill works weird but kind of good. Tarragon's best though — it has this thing with shrimp nothing else does. If you don't have any fresh herbs at all, the quiche still works, it's just less interesting.
+
+**How do I know when the filling is done?**
+Jiggle in the center. Serious jiggle, like a whole inch in the middle. Set on the edges. The top starts to blush gold, maybe light brown. That slight underdone center firms up as it cools. If it looks completely set with no jiggle, you've overcooked it. It'll be rubbery.
+
+**Can I use frozen shrimp?**
+Thaw them completely first. Pat them dry. Wet shrimp steam instead of sear. Doesn't matter after that.
+
+**Should I pre-cook the leeks or just sauté them raw with butter?**
+Pre-cook. Render them slow, medium heat, eight to ten minutes until soft. Raw leeks in the custard stay kind of waxy. Cooked leeks integrate into the filling better, taste softer.
+
+**What's the difference between this and a regular egg tart?**
+Shrimp. The seafood changes everything — adds brininess, richness, that umami thing. The tarragon goes with it naturally. Regular egg tart is just custard and maybe some vegetables. This is heavier, richer, more lunch-or-dinner than breakfast.
+
+**Can I make this in a regular pie pan instead of a tart pan?**
+Yeah. The shape's different, the sides are higher, it might bake a bit slower. It works fine. Tart pans just make slicing cleaner.
