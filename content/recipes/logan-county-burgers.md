@@ -1,10 +1,10 @@
 ---
-title: "Logan County Burgers Twist"
+title: "Ground Beef Burger Recipe with Garlic"
 slug: "logan-county-burgers"
-description: "Ground beef mixed with egg, bold garlic, and powders forms thin patties that cook till just right. Onions browned in butter lend softness and sweetness. Buttered bread griddled golden, cheese melted perfectly with onions, then stacked with burger. Quick broil finish if cheese lags. Six sandwiches, hearty and well balanced in macros, with a savory punch and crisp bread exterior."
-metaDescription: "Logan County Burgers Twist uses thin, juicy patties, smoky paprika, browned onions, and crispy buttered bread for a savory burger cheese stack with bold flavors."
-ogDescription: "Juicy, thin beef patties with smoky paprika, caramelized onions, sharp cheddar, and crisp griddled sourdough bread stacked high. Use sensory cues for timing."
-focusKeyphrase: "Logan County Burgers"
+description: "Ground beef burger recipe with egg, garlic, and smoked paprika. Caramelized onions and sharp cheddar melt on buttered sourdough for satisfying homemade sandwiches."
+metaDescription: "Ground beef burger recipe featuring egg binder, garlic, and smoked paprika. Topped with caramelized onions and sharp cheddar on toasted sourdough. Make it tonight."
+ogDescription: "Homemade burger with ground chuck, egg, garlic, and smoked paprika. Sharp cheddar and buttered onions on sourdough bread."
+focusKeyphrase: "ground beef burger recipe"
 date: 2025-12-11
 draft: false
 image: logan-county-burgers.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "american"
 keywords:
-- "ground chuck burger"
-- "burger patties thin"
-- "cheddar melted onions"
+- "ground beef burger recipe"
+- "garlic cheddar burger with caramelized onions"
+- "sourdough griddle burger with sharp cheddar"
+- "ground chuck burger with egg binder"
+- "easy dinner burger"
+- "comfort food burger"
+- "smoked paprika beef burger"
+- "thin patty burger with buttered onions"
+- "homemade burger recipe"
+- "american burger recipe"
 breadcrumb: ["Home", "Recipes", "Sandwiches and Wraps"]
 nutrition: 
  calories: "390"
@@ -66,3 +73,89 @@ faq:
 - "q: How to store leftovers? a: Wrap tight fridge, a day or two max. Reheat skillet low heat preserves crisp bread. Microwave ruins crust. Freeze possible, but bread soggy after defrost. Best eaten fresh."
 
 ---
+
+Ground chuck. Egg binder. Salt twice — once in the mix, once when you taste it after. That's the move here.
+
+## Why You'll Love This Comfort Food Burger
+
+Twelve minutes to burger, twenty-two minutes total. Not fast food. Real fast.
+
+Works as a weeknight dinner that doesn't feel like you're eating the same thing again. Caramelized onions and sharp cheddar handle that. Buttered sourdough changes the whole bite — the bread isn't just a holder, it's actually part of it.
+
+Ground chuck with egg doesn't fall apart. Sounds weird. Isn't. You'll feel the difference the first time you bite through and the patty stays together instead of shattering.
+
+No grill? Skillet works fine. Actually works better sometimes — you get more control on the heat, watch the onions golden up right there in front of you.
+
+Comfort food that's simple to actually make. That matters more than complicated tastes good.
+
+## Ground Chuck Burger with Egg Binder — What You Need
+
+Two pounds of 80/20 ground chuck. Not leaner. Fat's the whole thing here. One large egg — binds it, keeps it from crumbling when you flip. Two cloves garlic minced fine, not a paste. Onion powder. Smoked paprika, not regular paprika — the smoke matters. Salt, pepper.
+
+One large onion chopped rough. Two tablespoons butter split between caramelizing and bread. Sourdough preferably, but any bread that's sturdy enough to hold weight. Six slices sharp cheddar — actual sharp, not mild. The flavor carries against the meat.
+
+That's it. Substitutions: skip the egg if you're doing it with a griddle instead of flipping, but I wouldn't. Ground sirloin works but it's drier. Smoked gouda instead of cheddar if you're out. Pepper jack if you want heat. Don't use American cheese. Just don't.
+
+## How to Make an American Burger Recipe That Holds Together
+
+Mix the egg, garlic, onion powder, smoked paprika, salt, and pepper first. Get it combined. Then add the ground chuck. Use your hands. Don't squeeze it. Don't overmix. Just fold it until the color goes uniform and you can't see the egg anymore. Takes maybe a minute.
+
+Shape into six patties. Make them thin — about a third inch. Thinner cooks faster. The juices seal in instead of running everywhere. Flatten them with your palm. Don't press with a spatula later; that kills everything you just built.
+
+Heat your cooking surface to medium-high. Could be a grill, electric grill, cast iron, whatever. Wait until it's actually hot. Not warm. Hot. You should hear a definite sizzle when the patty hits.
+
+Cook the patties without touching them. Just leave them. Watch the edges. When they firm up and you see the juices starting to come up through the top — pale pink, not red — flip once. One flip. That's all. Cook the other side until it firms too. Total time around six to eight minutes. Maybe seven. You'll know when it looks right.
+
+Drain on paper towels. Set aside. Don't cover them.
+
+## How to Get Smoked Paprika Beef Burger with Caramelized Onions Right
+
+Melt one tablespoon of butter in a skillet. Medium heat, not high. Add the chopped onion. Stir often. You're watching for translucent, soft, and slightly golden. Takes around eight minutes. The key is slow. If you rush this, you get bitter. If you burn it, it's ruined. Golden and soft is the target. Just golden and soft.
+
+While that's happening, butter one side of each bread slice. Even coat. Not thick. Just enough that it'll toast. Put them buttered side down in a cold pan. Now heat to medium. Watch them. When the bottom goes golden and crispy — three to four minutes — flip quick.
+
+Immediately after flipping, layer the onions on top. Then stack the cheese right on the onions. Let it melt. The other side of bread is toasting while this happens. When the cheese goes creamy and the bread side two is golden, you're there. If the cheese isn't melting fast enough, slide the whole thing onto a baking sheet, stick it under the broiler for two to three minutes. Watch it. Cheese should bubble, not burn.
+
+Plop the burger patty on one slice. Top with the other. Cheese side down so it touches the meat. Serve warm.
+
+## Thin Patty Burger Tips and Caramelized Onions Mistakes
+
+Don't press the patty with your spatula while it cooks. Every time you do, juice runs into the pan instead of staying in the meat. You made it thin and bound it with egg specifically so it wouldn't fall apart. Trust that.
+
+Onions get bitter fast if the heat's too high. Not caramelized. Just bitter and acrid. Medium heat. Stir. Wait. It's boring to watch but that's the whole thing.
+
+Sourdough bread holds up better than soft bread. Stands up to the weight, doesn't fall apart when the cheese melts and everything gets slick. But honestly, any bread thick enough works.
+
+The egg binder means you don't need breadcrumbs. You don't need milk. You don't need anything else. Just egg. It works.
+
+Sharp cheddar melts slower than mild, but the flavor's actually there. Smoked gouda if you want something different. Pepper jack if you want spice. But skip the plastic cheese. It's not worth it.
+
+Visual cues beat timers every time. Juices on the meat should look dull pink, not bright red and not clear. Onions when they start glossing over instead of looking dry. Bread when the bubbles form and the color goes that specific gold. Cheese when it pools and looks creamy, not shiny and flat.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Comfort Food Burger
+
+**Can I make these burgers ahead and cook them later?**
+Patties are fine raw in the fridge for maybe a day. After that they start oxidizing and taste off. Mix, shape, cook. Cooked burgers keep like three days but they're never as good as fresh.
+
+**What if the patty falls apart when I flip it?**
+Didn't bind enough. The egg wasn't mixed in fully, or you're using meat that's too lean. 80/20 ground chuck specifically. The fat holds it. Also don't flip too early — wait for those firm edges.
+
+**Do I have to use sourdough?**
+Nah. Any bread sturdy enough. Sourdough just has tang that works against the beef. Regular sandwich bread is fine. Brioche is too soft. Doesn't hold.
+
+**How thick should the patties actually be?**
+Third of an inch. Thinner. Not thick. You want them to cook through fast and get a seal on the outside without drying inside. Thick patties are for smashburgers, which is a whole different thing.
+
+**The onions keep burning.**
+Heat's too high. Medium. Watch them. Stir every minute or so. It takes eight minutes. If you're in a rush, this isn't the burger for you.
+
+**Can I use ground sirloin instead of chuck?**
+Leaner meat's drier. You can, but — have you ever had a burger that was tough? That's what happens. Chuck has the fat. The fat's why it tastes like something.
+
+**What do I do if I don't have a grill?**
+Cast iron skillet. Electric griddle. Doesn't matter. Medium-high heat, same timing. Actually easier to watch the onions this way since they're in the same pan.
+
+**Should I put toppings on these?**
+Lettuce works. Tomato works. But honestly the onions and cheddar are already doing the heavy lifting. Keep it simple. The beef should be the thing you taste.
