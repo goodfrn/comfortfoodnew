@@ -1,10 +1,10 @@
 ---
-title: "Salmon Mango Tartare Curry Sauce"
+title: "Salmon Mango Tartare with Curry Yogurt Sauce"
 slug: "salmon-mango-tartare"
-description: "Raw salmon diced finely, paired with sweet mango and subtle heat from harissa, layered with crisp pistachios and fresh mint. A yogurt curry sauce brings bright earthiness and cool balance, all nestled on papadums for crunch. Every element chilled properly keeps flavors sharp, textures vibrant. Timing’s flexible, but feel the fish’s firmness, the mango’s sweet aroma, and the silky curry interplay. No raw fish compromise here, freshness is king. Lime juice freshens, the turmeric curry powder tames harshness. Pistachios toasted for that nutty snap. This stands out with basil swapped from mint—notes I found cut through the dressing better, a riper hit against tart lime and the chili kick. The sauce keeps the tartare moist without drowning it. A riff on tartare, but I swapped steps and ingredients for clarity, punch, and balance."
-metaDescription: "Salmon Mango Tartare Curry Sauce with yogurt, fresh basil, harissa heat, crunchy pistachios, and lime brightness served on crisp papadums. Chilled, fresh, textured layers."
-ogDescription: "Raw salmon diced fine, mango sweetness, basil bites, harissa heat. Yogurt curry sauce keeps it cool; pistachios add snap. Serve with toasted papadums fast."
-focusKeyphrase: "Salmon Mango Tartare Curry Sauce"
+description: "Salmon mango tartare with harissa, yogurt curry sauce, and toasted pistachios on papadums. Fresh lime juice and turmeric balance sweet mango with spiced heat."
+metaDescription: "Salmon mango tartare recipe with curry yogurt sauce, harissa, and pistachios. Fresh salmon, ripe mango, and toasted nuts on papadums. Make it tonight."
+ogDescription: "Chilled salmon tartare with mango, harissa, and a silky curry yogurt sauce. Topped with pistachios and served on crispy papadums."
+focusKeyphrase: "salmon mango tartare"
 date: 2025-09-23
 draft: false
 image: salmon-mango-tartare.jpg
@@ -19,9 +19,16 @@ tags:
 - "salmon"
 - "harissa"
 keywords:
-- "raw salmon tartare"
-- "mango tartare recipe"
-- "papadums salmon dish"
+- "salmon mango tartare"
+- "salmon tartare with mango"
+- "harissa salmon tartare"
+- "raw salmon mango appetizer"
+- "salmon appetizer"
+- "curry yogurt sauce salmon"
+- "mango salmon tartare harissa"
+- "raw fish tartare"
+- "salmon tartare recipe"
+- "salmon tartare with pistachios"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "320"
@@ -65,3 +72,51 @@ faq:
 - "q: How long can leftovers last? a: Best same day, under 24 hrs max covered well. Keep chilled tightly. Papadums must serve fresh, no reheating crispness retained. Sauce can chill separately, but mixing >wait kills texture, moistness fades fast."
 
 ---
+
+Salmon's going in raw. Cold knife, colder bowl, colder hands. Everything matters here because there's nowhere to hide—no heat, no sauce to mask it, just you and the fish and whether you actually know what you're doing.
+
+## Why You'll Love This Salmon Tartare
+
+Makes an appetizer that looks like it took three hours but doesn't. Forty minutes tops, most of it waiting. The mango cuts the richness. Harissa gives it a kick that catches you off guard. Pistachios add texture nobody expects in raw fish. Works cold the whole time—no last-minute panicking. Serve it straight from the fridge to plates. Done.
+
+## What You Need for Raw Salmon Tartare
+
+Plain yogurt—seventy-five milliliters. Not Greek, not fancy. The curry and turmeric go in here while it's cold. Three milliliters curry powder. Two milliliters turmeric. Salt it now, not later. Fresh lime juice, thirty milliliters of it waits for the shallots to sit in first. Another fifteen milliliters for the tartare itself at the end. Six hundred seventy-five grams of salmon—skinless, fresh, sushi-grade or whatever your fishmonger actually has that day. Mango. One hundred forty grams diced. Not overripe. Slightly firm. The soft ones fall apart and become mush. Twenty-five grams toasted pistachios, chopped fine. Not ground. You want texture that holds. Forty-five milliliters olive oil. Shallots, thirty milliliters finely chopped. Fresh basil, fifteen milliliters. Five milliliters harissa paste, maybe more if you like heat. Papadums for the side. Cracked pepper. Sea salt. That's actually everything.
+
+## How to Make Salmon Tartare
+
+Yogurt first. Stir the curry powder into it, then the turmeric. Salt it well. This is your sauce base. Put it in the fridge and forget about it until plating. It needs time to chill. The shallots go into half the lime juice—that's fifteen milliliters—and just sit there. Four to six minutes. This softens them without actually cooking them. Drain them when they're ready. The rest of the lime juice waits on the counter.
+
+Ice bath setup matters more than you think. Big bowl, two-thirds full of ice. Smaller bowl fits inside it. This is where the salmon lives while you prep. Room temperature salmon is a mistake. Every degree counts. Get a sharp knife. Really sharp. Dull knives tear the fish and crush the cell structure. You want clean cuts. Dice the salmon into uniform cubes. Small cubes. Not chunks. Not mashed. Cubes. They go straight into that smaller chilled bowl. Keep it cold the entire time. Don't rush this part.
+
+When you're ready to plate—and only then—everything comes together. Salmon meets mango, drained shallots, chopped pistachios, olive oil, basil, harissa, that remaining lime juice. Salt and cracked pepper. Fold it gently. Thoroughly. Not like you're angry. Like you're actually thinking about what you're doing. The tartare shouldn't be mashed. It should hold together.
+
+## How to Get Salmon Tartare Right
+
+Spread the curry yogurt sauce thin on the plate first. Not thick. Thin. This isn't a bed. It's a base. Ring mold if you have one—keeps everything neat and compact. Shape the tartare in the mold, then lift it off. Drop fresh basil leaves on top. Not mixed in. On top. It looks better that way. Serve immediately. The tartare gets warmer the longer it sits. Papadums on the side, crisp, still crunchy. This is the whole thing.
+
+## Salmon Tartare Tips and Common Mistakes
+
+Salmon quality matters. Not optional. If your fishmonger looks confused when you ask for sushi-grade salmon, find a new fishmonger. Cold is non-negotiable. Every surface, every tool, every moment. A warm salmon tartare is a regret. Don't let it warm up. The pistachios should be toasted first—changes the flavor entirely. Raw pistachios taste like nothing. Toasted ones taste like something. Mango ripeness is specific. Not mushy. Not hard. That weird middle ground where it's soft enough to be sweet but firm enough to actually hold its shape. The harissa amount depends on your tolerance. Start with five milliliters. Taste it. Add more if you want more. You can't take it back. Don't skip the salt in the yogurt. Everyone does and then wonders why the sauce tastes flat. The basil goes on last, after plating. It bruises if you fold it in. It gets dark and sad. Don't do that.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Salmon Tartare
+
+**Can I make this ahead?**
+No. Prep everything separately—yogurt sauce, mango, shallots—and hold them cold. Assemble right before serving. Raw fish tartare doesn't improve overnight. It gets worse.
+
+**Is sushi-grade salmon the same as regular salmon?**
+Yes and no. It's handled differently and kept colder. Regular salmon's been frozen, thawed, frozen again maybe. Sushi-grade hasn't. Matters for raw preparations. Non-negotiable here.
+
+**What if I don't have a ring mold?**
+Use your hands. Shape it however. Honestly it tastes the same. The mold just makes it look tidier. Plating's optional.
+
+**Can I substitute the mango?**
+Pineapple works. Papaya works. Mango's better though. The sweetness balances the harissa in a specific way. Other fruits just don't hit the same.
+
+**How long can the tartare sit before eating?**
+Fifteen minutes maximum. After that the salmon starts oxidizing and the texture changes. Doesn't taste bad. Just different. Less bright.
+
+**What does the harissa actually do?**
+Heat. Depth. Something smoky underneath everything. It's not a garnish. It's part of the flavor. Start small. You can always add more.
