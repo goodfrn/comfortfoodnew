@@ -1,10 +1,10 @@
 ---
-title: "Veggie Lasagna Roll-ups"
+title: "Vegetarian Lasagna with Ricotta and Zucchini"
 slug: "veggie-lasagna-roll-ups"
-description: "A veggie packed lasagna with ricotta, fresh zucchini ribbons replacing some noodles, and mushrooms for texture. The tomato sauce simmers with aromatic onion, garlic, shallot—layered into each roll for moistness. Cheese mixture balanced with egg binds everything. Olive oil crucial for sautéeing; don’t skip salting your pasta water. Oven-baked until hot and bubbly, covered with foil to retain moisture. Visual cues over strict timing guide doneness. Serve topped with parsley for freshness. Good for eight hungry people warm and gooey."
-metaDescription: "Veggie Lasagna Roll-ups with zucchini ribbons, ricotta-egg cheese blend, mushrooms and simmered marinara. Oven-baked, tender rolls topped with fresh parsley."
-ogDescription: "Layers of zucchini slices, ricotta-egg filling, mushrooms nestled in lasagna noodles. Baked covered, bubbly marinara and melted mozzarella top off the warm rolls."
-focusKeyphrase: "Veggie Lasagna Roll-ups"
+description: "Vegetarian lasagna layered with ricotta, fresh zucchini ribbons, spinach, and cremini mushrooms. Marinara sauce simmers with garlic and shallot for rich flavor and tender texture."
+metaDescription: "Vegetarian lasagna made with ricotta, zucchini ribbons, spinach, and mushrooms. Baked until bubbly with marinara sauce. Try it tonight."
+ogDescription: "Creamy vegetarian lasagna with ricotta, zucchini, spinach, and mushrooms baked in marinara sauce."
+focusKeyphrase: "vegetarian lasagna"
 date: 2025-10-14
 draft: false
 image: veggie-lasagna-roll-ups.jpg
@@ -21,9 +21,18 @@ tags:
 - "ricotta"
 - "mushroom"
 keywords:
-- "lasagna roll-ups"
-- "vegetable pasta"
-- "baked ricotta lasagna"
+- "vegetarian lasagna"
+- "zucchini lasagna"
+- "ricotta lasagna"
+- "spinach and ricotta lasagna"
+- "vegetable lasagne"
+- "baked ziti with ricotta"
+- "zucchini noodles"
+- "lasagne ricotta recipe"
+- "mushroom lasagna"
+- "cheese ricotta pasta"
+- "homemade lasagna"
+- "meatless lasagna"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -73,3 +82,59 @@ faq:
 - "q: Storage and reheating tips? a: Cool completely then store covered in fridge up to 3-4 days. Reheat gently in oven covered to restore moisture. Roll-ups assembled cold bake longer. Sauce leftovers freeze well but separate cheese topping might texture change after thaw."
 
 ---
+
+Set it to 395 and let the oven heat. Lasagna noodles stuffed with ricotta, spinach, mushrooms—53 minutes total if you move. Three cloves of garlic going into hot oil right now, and the whole thing smells done before it looks done.
+
+## Why You'll Love This Vegetarian Pasta Dish
+
+Takes 53 minutes start to finish. Not bad for stuffed shells that actually taste like you spent an afternoon. Works as a weeknight dinner or a thing you make when people are coming over—same recipe either way. The ricotta stays creamy instead of drying out because the zucchini ribbons hold moisture, and the egg binds everything so rolls don't fall apart. Mushrooms add umami bite without meat. Fresh spinach gives subtle bitterness—frozen doesn't work here, it soaks into mush. Cheese gets melted and golden on top. Leftovers taste maybe better cold the next day, or reheated gentle. No fancy technique. Just assembly.
+
+## What You Need for Stuffed Shells with Ricotta
+
+Eight lasagna noodles. Cook them until tender but still firm—bite the edge, you should feel slight resistance. Two tablespoons olive oil. One small yellow onion chopped fine. Three cloves garlic minced. One shallot minced too. One jar marinara sauce, about 24 ounces. One medium zucchini peeled into ribbons—stop when you hit the watery seeds, those get bitter. Half a cup cremini mushrooms sliced. One cup ricotta cheese. One large egg. Half a cup grated Parmesan. One cup shredded mozzarella, plus extra for the top. One cup fresh spinach chopped. Salt. Black pepper. Fresh parsley for after. PAM spray or any cooking spray.
+
+## How to Make Stuffed Shells with Noodles
+
+Get a large nonstick pan and pour olive oil in. Medium heat. Onion, garlic, shallot go in now—let them go soft and fragrant, about 3 to 4 minutes, but don't brown them. Add the marinara sauce. Salt and pepper it lightly. The sauce simmers now, real gentle. Just bubbles. No stirring frenzy. This is where flavors marry. It thickens slightly and sweetens while you prep everything else.
+
+Big pot of water on high. Once it's boiling, salt it generously—tastes like seawater, no less. Add lasagna noodles one by one so they don't stick together. Cook until tender but still firm. Bite the edge to check. No crunch. Still slight resistance. Drain them and lay them flat on wax paper sprayed with PAM, or use a large clean plate greased lightly. They cool fast. Work quickly so they don't stick together.
+
+## How to Get Stuffed Shells Ricotta Filling Creamy and Perfect
+
+Medium bowl. Ricotta goes in. One egg. Parmesan. Mozzarella. Chopped fresh spinach. Salt and pepper, but not too much—cheese is already salty. The egg binds everything. The cheese melts into a creamy matrix that locks moisture inside the rolls. Fresh spinach gives subtle bitterness and texture. Frozen spinach soaks into mush. Set this aside while you do the zucchini.
+
+Vegetable peeler. Thin zucchini ribbons off the side of the zucchini—stop when the seeds look yellowish and watery inside. They're bitter and mushy beyond that point. Lay 2 to 3 strips over each noodle like a blanket. This keeps the pasta moist. Spoon about 1/4 cup of the cheese mix onto each noodle. Use clean hands. Spread evenly but not too thick. Mushrooms go next—sprinkle them over the cheese. They add umami bite and chew. Dollop some red sauce from the pan over the mushrooms, about 1 to 2 tablespoons. A pinch more mozzarella on top. Roll tightly jellyroll style. Tuck the edges so nothing leaks.
+
+## Stuffed Shells Tips and Assembly
+
+Grab a 13 by 9 baking dish. Spread a thin layer of red sauce on the bottom. This prevents sticking and gives a moisture base. Fit each noodle roll snugly but not crammed, seam side down. Seam down keeps the shape. Spoon remaining sauce on top. Spread it with the back of a spoon. More mozzarella sprinkles. Cover tightly with foil. Don't press the foil onto the cheese or it sticks.
+
+Bake at 395 for roughly 22 to 27 minutes. Check bubbling sauce through the foil edges. Steam should be escaping. Rolls should be hot all the way through. Cheese melted. Remove foil carefully. Watch the steam. Let it cool 5 minutes before serving—cut too soon and cheese oozes everywhere and the rolls fall apart. Top with fresh chopped parsley. The aroma is garlic and sauce mingled with toasted cheese and tender veggies. Serve warm.
+
+If sauce reduces too fast or tastes acidic, add a pinch of sugar next time or a splash of red wine for depth. Zucchini ribbons can swap for thin eggplant slices grilled first if you want meatiness without meat. Mushrooms can be cremini or shiitake for different chew. Can't find ricotta? Cottage cheese whipped smooth works but it's less creamy and less dense. Don't skip the egg. Without it, rolls might fall apart. Keep pasta warm and moist or brittle cracks happen.
+
+Pressed for time? Cook noodles the day before. Keep covered and moist in the fridge. Sauce can be made hours ahead. Flavors marry better that way. Roll ups can be assembled cold and baked longer to reach optimal heat throughout. Cover the dish well. Watch so the bottom doesn't scorch. Add a bit of water to the sauce if it's drying during the bake.
+
+Every batch I tweak salt and cheese quantities. Taste the cheese mix raw to judge saltiness before spreading. Too much cheese or sauce wrecks balance. Aim for neat rolls. Not bursting. No dryness. The zucchini strips act as a gentle vegetable wrapper inside the pasta. They stay tender with bite after the bake. Mushrooms caramelize slightly in the sauce layers. End result: multitextured bites melding creamy, soft, tangy, fresh, umami all rolled.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Stuffed Shells Ricotta Recipe
+
+**Can I use courgette noodles or zoodles instead of zucchini ribbons?**
+Zoodles are thinner and waterier. They'd turn to mush during the bake. The peeler ribbons are thicker, they hold their shape. Stick with those.
+
+**What if I can't find cremini mushrooms?**
+Shiitake works. Button mushrooms work. Chanterelles if you want to be fancy. Cremini just have better umami bite. Honestly, any mushroom you have laying around works fine.
+
+**Do I have to use fresh spinach?**
+Yes. Frozen spinach soaks into the cheese and becomes this watery mess. Fresh spinach gives bitterness and texture. It's the difference between good and mushy.
+
+**Can I make this the day before?**
+Yeah. Assemble it cold, cover it, stick it in the fridge. Bake it the next day. Takes maybe 5 to 10 minutes longer because everything starts cold. Watch the bottom so it doesn't scorch.
+
+**What if my sauce is too acidic?**
+Pinch of sugar. Or splash of red wine for depth. Add it to the pan while it's simmering. Taste and adjust. Works every time.
+
+**Can I use cottage cheese instead of ricotta?**
+Sort of. Whip it smooth first. It's less creamy and less dense, but it works. The rolls won't bind quite as well. Not ideal but possible.
