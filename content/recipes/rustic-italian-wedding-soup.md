@@ -1,10 +1,10 @@
 ---
-title: "Rustic Italian Wedding Soup"
+title: "Italian Wedding Soup with Veal Meatballs"
 slug: "rustic-italian-wedding-soup"
-description: "Meatballs made with rye bread swapped for panko, ground veal instead of pork for a lighter bite. Saute low and slow till veggies soften into sweet shadows. Broth with Parm rind dropped in early; that umami punch is no joke. Meatballs browned briefly—don’t crowd the pan or steam begins, texture lost. Baby kale instead of spinach; sturdier, adds bite and hold. Pasta added with meatballs—go small, like acini di pepe for texture contrast. Salt and pepper adjusted near finish—don’t overdo early, soup tightens as it simmers. Olive oil drizzle optional but worth it. Humble, rich, forgiving. Twelve servings, hour and change total."
-metaDescription: "Rustic Italian Wedding Soup with tender meatballs, baby kale, acini di pepe pasta simmered in rich broth with Parm rind. Simple steps for hearty, savory comfort."
-ogDescription: "Hearty Italian Wedding Soup with rye-panko meatballs, kale, and Parm rind broth. Layers of flavor build slow with careful seasoning; rustic, rich, and filling."
-focusKeyphrase: "Italian wedding soup"
+description: "Italian wedding soup with ground veal and beef meatballs, baby kale, and Parmigiano Reggiano broth. Low and slow cooking creates rich, savory flavor."
+metaDescription: "Make Italian wedding soup with veal meatballs, fresh vegetables, and Parmigiano Reggiano rind for deep umami flavor. Try it tonight."
+ogDescription: "Homemade Italian wedding soup with tender veal meatballs, baby kale, and rich Parm broth. Comfort in a bowl."
+focusKeyphrase: "italian wedding soup"
 date: 2025-10-06
 draft: false
 image: rustic-italian-wedding-soup.jpg
@@ -21,9 +21,14 @@ tags:
 - "veal"
 - "comfort food"
 keywords:
+- "italian wedding soup"
+- "veal meatball soup"
 - "meatball soup"
-- "rustic Italian soup"
-- "Parmigiano broth"
+- "homemade italian meatballs"
+- "comfort food soup"
+- "italian meatball soup with parmigiano reggiano"
+- "rustic italian meatball soup recipe"
+- "wedding soup with ground veal and beef"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "320"
@@ -77,3 +82,102 @@ faq:
 - "q: Can I use spinach instead of baby kale? a: Spinach softer, wilts fast, becomes mushy in long simmer. Add spinach last minute, off-heat even, delicate texture lost if overcooked. Kale sturdier, holds better with pasta and long simmer. If spinach only option, finish soup quickly after adding greens, serve immediately for best texture."
 
 ---
+
+Meatballs go in first—that's the trick. Everything else is just broth and vegetables sitting around waiting for them. Takes 40 minutes of prep, 33 minutes on the stove. Comfort food that doesn't feel heavy. Had this at my grandmother's place once, came home and made it wrong three times before getting close.
+
+## Why You'll Love This Italian Meatball Soup
+
+Actually tastes better the next day. Flavors just sit there overnight and get to know each other.
+
+Makes enough for leftovers. Real leftovers. Not the "I have two spoonfuls left" kind.
+
+One pot. One heavy pot. Cleanup is just rinsing. Not nothing, but close.
+
+The meatballs are small. Like marble-sized. They cook faster, more surface area gets golden. Hits different than the big ones.
+
+Works with what you have. No veal? Use all beef. Kale wilting weird? Spinach works. The broth carries it.
+
+## What You Need for Homemade Italian Meatballs
+
+Panko. Three cups. It holds moisture better than regular bread crumbs. The meatballs stay tender instead of dense.
+
+Ground veal and beef. Half a pound veal, three-quarters pound beef. The veal keeps things light. Beef alone tastes like a basic meatball soup. This tastes like someone's grandmother made it.
+
+One egg. Grated Parmigiano Reggiano—three-quarters cup. Fresh parsley. Minced garlic. The cheese is doing actual work here, not just sitting on top.
+
+Worcestershire sauce. One teaspoon. Sounds weird in meatballs. Changes everything.
+
+Kosher salt. Coarser. Stays on the surface longer so you taste it instead of it disappearing.
+
+For the broth itself: chicken broth. Twelve cups. Medium onion, two stalks celery, two carrots. Fresh sage. The Parmigiano Reggiano rind—don't skip this. Supermarket delis have them sometimes, ask for it.
+
+Acini di pepe pasta. Those tiny peppercorn-shaped things. They cook in the broth and get soft but not mushy. Regular pasta gets waterlogged. This doesn't.
+
+Kale. Four cups. Rough chop. It wilts in hot broth and doesn't turn to mush.
+
+## How to Make Italian Meatball Soup
+
+Bread crumbs, garlic, onion, parsley, cheese, salt, egg, Worcestershire. Mix it all in a large bowl until it looks even. Then add the veal and beef. Use your hands or a spoon but don't kill it. Overworking makes them tough. You're just folding it together, not kneading.
+
+Roll them into balls. Three-quarter inch. Tiny but you can still hold them. Wet your hands first—less sticky, easier to work. Or use a small melon baller if you're serious about consistency. Line a sheet with parchment.
+
+Heat one tablespoon olive oil in a large heavy pot over medium heat. Brown the meatballs in batches. Two minutes per side, maybe three. Just enough so the outside sets. They're not cooked through yet. Don't crowd the pot or they steam instead of sear. Set them aside on a plate.
+
+In the same pot, heat two more tablespoons olive oil over low heat. Add the onion, celery, carrots, salt, and pepper. This is sweating, not sautéing—low heat, let it take time. Fifteen to seventeen minutes. You're waiting for the edges to go translucent and golden. The smell changes. It goes sweet. That's when you know.
+
+Stir in the garlic and sage. One minute. Just until it smells like something happened.
+
+Pour the broth in. Toss the Parmigiano Reggiano rind in immediately. It sits there in the broth and the liquid picks up depth and richness. Bring it to a rolling boil. The rind is non-negotiable if you can get it. If you can't, the soup still works. It's just missing something you can't quite name.
+
+Drop the meatballs in carefully. They float. Wait until they're bobbing at the surface, then check one with a meat thermometer. Needs 145°F inside. Veal cooks faster but play it safe. Stir in the acini di pepe pasta now. These tiny things cook fast—five minutes, maybe six. They soak up the broth and taste like the soup instead of tasting like pasta.
+
+## How to Get the Broth Rich and the Kale Just Right
+
+Turn the heat down to medium-low. Add the kale. Stir it in until it wilts. This takes two minutes, maybe three. You're not trying to cook it down to nothing. You want it soft but still there.
+
+Taste it. Actually taste it. Salt it if it needs salt. Crack more pepper if it's flat. The Parmigiano Reggiano rind is doing a lot of work, so salt gets built in—don't oversalt early.
+
+Ladle the pasta into bowls first. Then spoon soup and meatballs over. The pasta settles at the bottom and the broth coats everything. Grate fresh Parmigiano Reggiano on top. A light drizzle of olive oil if you want it. Makes it glossy. Makes it richer.
+
+Serve it hot. It tastes like comfort. Leftovers sit in the fridge and the flavors marry overnight. Second day tastes better. That's just how it works.
+
+## Veal Meatball Soup Tips and Common Mistakes
+
+Don't skip the Parmigiano Reggiano rind. It sounds optional. It's not. If your supermarket deli has Italian staff, ask them. They keep them. They know what they're for.
+
+The meatballs should be small. Three-quarter inch. Not bigger. Bigger ones take longer to cook and the outside gets hard before the inside cooks through. Small ones cook evenly. The surface gets a little golden, the inside stays tender.
+
+Don't overwork the meat. I know I said it. Saying it again. Two minutes of mixing is enough. Your hands get the job done faster than you think.
+
+The vegetables sweating—that's not optional either. Rushing this step means the broth tastes like hot chicken water instead of tasting like something happened. Fifteen to seventeen minutes. Low heat. Watch it.
+
+Brown the meatballs. You could skip this. They'll cook in the broth either way. But browning builds flavor. A little crust forms. It matters.
+
+Acini di pepe cooks fast. Faster than you'd think. Check it at four minutes. It shouldn't be mushy. Should still have texture.
+
+Kale wilts quick too. One minute too long and it turns to slime. Two to three minutes. That's it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Veal Meatball Soup
+
+**Can I use all beef instead of the veal and beef combo?**
+Yeah. Tastes different though. More dense. The veal lightens it. Beef-only version is still good soup, just not this soup.
+
+**Do I have to brown the meatballs first?**
+Nope. Skip it if you're tired. They cook in the broth. But browning adds flavor. Five minutes of work for a better soup. Worth it.
+
+**What if I can't find a Parmigiano Reggiano rind?**
+Then you don't have one. Soup still works. It's missing a layer. Go to the deli counter and ask anyway—most places have scraps. If they really don't, go without. Just salt the broth a little more.
+
+**How long does it keep?**
+Three, maybe four days in the fridge. Tastes better on day two. The pasta absorbs more broth. The meatballs stay tender.
+
+**Can I freeze it?**
+Yeah. Thaw it in the fridge overnight. Reheat on the stove over medium heat. Stir occasionally so nothing sticks. The pasta gets softer when frozen, so go easy with the reheating time.
+
+**What pasta works besides acini di pepe?**
+Ditalini. Tiny shells. Anything small. Not spaghetti. Not penne. Small shapes that cook fast and don't drown the bowl.
+
+**Should the kale be raw when it goes in?**
+Yeah. Raw. Rough chopped. The hot broth wilts it in seconds. Don't pre-cook it.
