@@ -1,10 +1,10 @@
 ---
-title: "Pineapple Acerum Granita"
+title: "Pineapple Granita with Lime and Maple Spirit"
 slug: "pineapple-acerum-granita"
-description: "Granita with ripe pineapple and maple spirit, balanced acidity from lime, and a creamy coconut finish. A refreshing frozen dessert with a twist—no eggs or nuts, gluten-free. Notes on texture and freezing technique highlight an artisan approach. Whipped cream fold-in adds richness, toasted coconut for crunch. Experience the tropical sweetness tempered by bright citrus and warm vanilla. Spirit adds subtle warmth; can sub with spiced rum or aged tequila. Adjust sugar depending on pineapple ripeness. Freeze time flexible, texture cues crucial. Chill serving glasses to keep it icy longer. Simple but layered flavors make summer afternoons sing."
-metaDescription: "Pineapple Acerum Granita with ripe pineapple, lime, creamy coconut cream, maple spirit, and toasted coconut flakes. Chilled tropical frozen dessert with texture layers."
-ogDescription: "Ripe pineapple meets maple spirit and whipped coconut cream in this chilled granita. Crisp, grainy texture with citrus brightness and toasted coconut crunch."
-focusKeyphrase: "Pineapple Acerum Granita"
+description: "Pineapple granita recipe with fresh lime, maple spirit, and whipped cream. This gluten-free frozen dessert balances tropical sweetness with bright citrus and creamy coconut finish."
+metaDescription: "Make pineapple granita with lime juice, maple spirit, and toasted coconut. This gluten-free frozen dessert is refreshing and elegant. Try it tonight."
+ogDescription: "Pineapple granita with lime, maple spirit, and whipped coconut cream. Tropical, bright, and naturally gluten-free."
+focusKeyphrase: "pineapple granita"
 date: 2025-08-18
 draft: false
 image: pineapple-acerum-granita.jpg
@@ -21,11 +21,16 @@ tags:
 - "gluten free"
 - "no bake"
 keywords:
-- "granita"
-- "pineapple dessert"
-- "acerum"
-- "whipped cream topping"
-- "toasted coconut"
+- "pineapple granita"
+- "granita recipes"
+- "frozen desserts"
+- "gluten free desserts"
+- "no bake pineapple dessert"
+- "pineapple granita with lime and rum"
+- "frozen pineapple dessert coconut cream"
+- "maple spirit granita recipe"
+- "gluten free frozen treats with pineapple"
+- "coconut granita with maple"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "165"
@@ -81,3 +86,99 @@ faq:
 - "q: How to store leftovers? a: Airtight container best. Stir before scooping again to loosen ice. Freeze cold but don’t freeze solid or long periods, or ice hardens too much. Re-scoop into chilled glasses right before serving to re-activate texture contrast."
 
 ---
+
+Pulse the pineapple. Water, sugar, lime zest and juice. Vanilla. Blend until nothing's left but smooth—no chunks hiding anywhere. It should smell like pineapple and citrus just crashed into vanilla, sharp and sweet at once. Stir in the spirit. This is where it gets interesting. The alcohol cuts through the cold, keeps it from freezing into a solid brick. Too much and the whole thing won't set right. Just enough and it works.
+
+## Why You'll Love This Pineapple Granita
+
+No baking. No oven. Just a freezer and a fork.
+Takes 30 minutes of actual work spread over 6 hours. Mostly waiting. The texture—that snappy crunch—comes from scraping it three times while it freezes, which honestly sounds annoying but takes maybe two minutes each time and actually becomes kind of satisfying.
+Works as a dessert or a palate cleanser between courses, which is convenient because you'll make it for both.
+Gluten free by default. Dairy free if you use coconut cream instead of heavy cream, though it won't whip the same way.
+The coconut topping is toasted, not sweetened, so it doesn't turn the whole thing into sugar overload.
+
+## What You Need for Frozen Pineapple Dessert Coconut Cream
+
+Very ripe pineapple. About 400 grams. The color matters—closer to gold than yellow. Green pineapple means sour and harsh.
+
+Water and sugar. 200 ml water, 110 grams sugar. This ratio makes the base not too dense, not too thin.
+
+White acerum maple spirit or aged rum or blanco tequila. 50 ml. Pick one. The spirit keeps the granita from freezing solid and adds flavor. Rum if you want warmth. Tequila if you want something brighter.
+
+One medium lime. Zest it finely—a microplane works. Juice it. Both go into the base. You'll have extra zest for garnish.
+
+Vanilla bean or extract. The bean is better. Just the scraped insides. If extract, use half a teaspoon. Don't use both.
+
+Heavy cream. 250 ml, cold. Not whipping cream—it needs to be 35% fat or higher or it won't hold peaks.
+
+More sugar for the cream. 25 grams. Small amount.
+
+More of whatever spirit you picked. 15 ml. Goes into the whipped cream.
+
+Toasted unsweetened coconut flakes. 25 grams. This matters. Sweetened coconut turns it into candy. Unsweetened and toasted is different.
+
+## How to Make Pineapple Granita With Lime and Rum
+
+Blend the pineapple chunks with the water, sugar, lime zest, lime juice, and vanilla. Use a blender or food processor. Go until it's completely smooth. No texture left. Pour it through a fine sieve if chunks somehow got through anyway—they won't, but if they do, catch them.
+
+Taste it. Should be sharp and sweet at once, with citrus cutting through and vanilla just underneath. Add the spirit. Stir gently. This isn't something you whip in.
+
+Pour into a shallow metal or glass pan. Something about 20 centimeters square. Metal freezes faster. Glass works but takes longer. Cover loosely and put it in the freezer.
+
+Set a timer for 6 hours. Don't actually leave it there for exactly 6 hours—watch it. Around the 6-hour mark, the edges will be solid and the center will be mostly frozen but still slightly yielding in the middle. That's when you pull it out. If you wait until it's glass hard all the way through, you've gone too far.
+
+## How to Get Granita Crispy and Smooth—The Texture Secret
+
+Take the pan out. Get a sturdy fork. Scrape the surface hard, breaking up the frozen layer into crystals. Not powdery. Not snow. Coarse grains. Fluffy crystals that snap between your teeth.
+
+Back into the freezer uncovered. Set a timer for 45 minutes. Do this again. Scrape and break it up. Back in. 45 minutes more. One more scrape. This is what stops it from becoming a solid ice brick.
+
+Don't freeze it longer than 8 hours total. After that it gets dense. Dense is not what you want.
+
+While that's freezing, make the whipped cream. Cold bowl. Cold beaters. This matters more than people think. Whip the heavy cream with the 25 grams of sugar until soft peaks form. You'll feel it change under the whisk.
+
+Pour in the spirit while you keep whipping. Brisk. Fast. The alcohol will thin it out a little but the continued whipping firms it back up. Now it's got flavor in it. Stop before it becomes butter. You have maybe a 30-second window where it goes from perfect to separated. Know your whisk.
+
+Keep it in the fridge. If it softens before you serve, whip it again for 10 seconds.
+
+## Granita Tips and Frozen Desserts With Pineapple
+
+Ripe matters. If your pineapple is mostly yellow, almost gold, the sweetness is already there. You might even reduce sugar by 10 grams. If it's still greenish, don't buy it yet.
+
+The spirit is optional but don't skip it. Yes, it's alcoholic, but most of it stays in the granita and doesn't fully burn off because there's no heat involved. What remains is flavor. It cuts through the ice texture and makes the whole thing taste less one-note.
+
+Metal pans freeze faster than glass. If you only have glass, add 30 minutes to the timeline.
+
+Texture breaking is not optional. Skip it and you get an icy block instead of granita. The scraping is what makes it granita.
+
+Warm cream won't whip. If yours is room temperature, stick it in the freezer for five minutes before you start.
+
+Toasted coconut. Use a dry pan. Heat low. Stir constantly. It burns fast and tastes terrible burned. Maybe 3 minutes total. You want it golden and smelling nutty, not dark.
+
+Vanilla bean versus extract—if you use the bean, you get flecks and deeper flavor. Extract works if that's what you have. Don't use both or it gets too vanilla and no lime comes through.
+
+The glasses matter too. Freeze them for at least 20 minutes before serving. Cold serveware keeps the granita from melting into soup the second it hits the bowl.
+
+Leftovers in an airtight container stay fine for about a week. Stir them back together before serving again. Granita separates as it sits.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Frozen Pineapple Dessert
+
+**Can you use canned pineapple instead of fresh?**
+Not really. Canned is softer and sweeter and already has juice in it. You'd have to adjust the water down and it still wouldn't taste as sharp. Fresh is worth it here.
+
+**What if you don't have a blender?**
+Food processor works the same way. Or cut the pineapple into tiny pieces and mash it with a fork while mixing in the other ingredients. Takes longer. Texture won't be as smooth but honestly it's fine.
+
+**Does the alcohol cook off?**
+No cook step, so no. Most stays. If that's a problem, leave it out. The granita won't freeze quite as smoothly but it'll still work. Add maybe 30 minutes to the freezing time.
+
+**Can you make this dairy-free?**
+Use coconut cream instead of heavy cream. It whips but it's thicker and heavier. Mouthfeel changes. It works. It's just different.
+
+**How long does it actually take?**
+30 minutes of work. 6 hours of freezing with three 2-minute texture breaks. So technically 6 hours and 36 minutes. But you're not standing there the whole time. You're just walking back to the freezer three times.
+
+**What if the granita melts before you serve it?**
+It will. Granita melts fast. That's why the glasses go in the freezer first. That's why you serve it immediately. If it melts, stir it and eat it like a slush. Not as good but still tastes right.
