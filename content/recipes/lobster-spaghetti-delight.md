@@ -1,10 +1,10 @@
 ---
-title: "Lobster Spaghetti Delight"
+title: "Lobster Pasta with Cherry Tomatoes & White Wine"
 slug: "lobster-spaghetti-delight"
-description: "Pasta with fresh lobster, garlic, tomatoes, white wine, and herbs. Uses tagliolini instead of spaghetti for better sauce cling. Garlic and fennel seed add subtle anise aroma. Slow-simmered cherry tomatoes burst, creating sweet acidity. Lobster stock made from shells, layered flavors. Butter swapped with olive oil for lighter touch. Quick sauté keeps lobster tender, avoid rubbery bites. Wine simmers down, no harshness. Aromatics build complexity. Pasta cooks al dente, slightly firm to chew. Finished with lemon zest for brightness. A savory, textured dish hinting at the sea, balanced with fresh herbs and citrus notes."
-metaDescription: "Lobster Spaghetti Delight with tagliolini pasta, fresh lobster, garlic, fennel seeds, cherry tomatoes, white wine, and homemade lobster stock. Bright, textured, sea notes."
-ogDescription: "Lobster chunks, tender pasta, garlic-fennel aroma, wine reduced sharpness, tomato bursts. Tagliolini clings sauce, lemon zest finishes. Sea meets herbs and citrus punch."
-focusKeyphrase: "lobster tagliolini pasta"
+description: "Lobster pasta made with tagliolini, cherry tomatoes, garlic, and white wine sauce. Fresh lobster stock and fennel seeds create layered seafood flavor with bright lemon finish."
+metaDescription: "Lobster pasta recipe with tagliolini, cherry tomatoes, garlic, and dry white wine. Homemade lobster stock adds depth. Make it tonight."
+ogDescription: "Tender lobster, tagliolini, burst cherry tomatoes, and white wine create an elegant seafood pasta with subtle anise notes."
+focusKeyphrase: "lobster pasta"
 date: 2025-08-18
 draft: false
 image: lobster-spaghetti-delight.jpg
@@ -22,8 +22,14 @@ tags:
 - "fennel"
 keywords:
 - "lobster pasta"
-- "tagliolini"
-- "white wine sauce"
+- "seafood pasta"
+- "lobster pasta with cherry tomatoes and thyme"
+- "lobster tagliolini with white wine sauce"
+- "lobster pasta with garlic and tomatoes"
+- "homemade lobster stock pasta sauce"
+- "italian lobster dishes"
+- "tagliolini with fresh lobster and fennel"
+- "lobster spaghetti with white wine"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"
@@ -77,3 +83,79 @@ faq:
 - "q: How to store leftovers? a: Sauce and pasta separate best. Store lobster chunks safely cold. Sauce thicker next day, reheat gently adding water or olive oil. Freeze lobster stock in portions for next use. Leftover shells keep in freezer freeze batch stocks later. Reheat slow, no microwave blasts to prevent tough lobster textures."
 
 ---
+
+Shells go into the pot first—smash them rough, let them release into water for 35 minutes and you've got lobster stock that tastes like actual ocean, not fishy, not weird. Everything else is just a matter of not overcooking the meat and keeping the pasta moving. Takes about an hour fifteen total if you're timing it right.
+
+## Why You'll Love This Lobster Pasta
+
+Tastes expensive. Looks expensive. Costs less than you'd think if you break down the lobster yourself.
+
+Fennel seeds do something weird—kind of licorice, kind of Italian, kind of makes you wonder why more things don't have them. Cherry tomatoes burst on their own, no extra work.
+
+Tagliolini is thinner than fettuccine. Clings better to sauce. You get more of the good stuff per bite. White wine isn't optional—it cuts the richness, keeps it fresh.
+
+One pot for the sauce. One pot for pasta. Shells become stock. Nothing wasted.
+
+Actually tastes better the next day cold, kind of. Different texture but the flavor sits better.
+
+## What You Need for Lobster Pasta with Fennel and White Wine
+
+Tagliolini. If they don't have it, linguine works but it's thicker and the sauce clings differently. A whole lobster, around 700g, tail and claws already separated—saves your hands. Reserve the shells without question. Olive oil. Not the expensive stuff, just good olive oil.
+
+Garlic. Five cloves, thin slices. Thyme leaves, fresh. A small shallot. Fennel seeds—crushed, not ground. There's a difference. Cherry tomatoes. Halved. White wine. Sauvignon Blanc or something close, something you'd actually drink. Homemade lobster stock or fish broth if you're rushing. Lemon. One lemon for zest. Parsley. Salt and pepper. Chili flakes optional but worth considering.
+
+## How to Make Lobster Pasta with Fresh Lobster and Garlic
+
+Start with the stock. Smash the shells—doesn't have to be perfect, just break them enough so they release. Pot of water, 500ml, low heat. They'll sit there simmering for 35 minutes and the smell is the first sign you're doing it right. Deep. Ocean-like. Skim the froth that rises. Strain it at the end. Set it aside.
+
+Boil water for the pasta. Heavy on the salt. Tastes like seawater when you taste it. This isn't optional. Tagliolini cooks fast—watch it. Three minutes max once it hits the water. Al dente is the whole point. Nobody wants mushy lobster pasta.
+
+Wide pan. Two tablespoons olive oil. Medium-low heat. Garlic slices and crushed fennel seeds first. Listen for the gentle sizzle. Garlic softens, the pan fills with anise smell. Not burnt. Not dark. Just soft. Add the shallot. Stir. It goes translucent in maybe two minutes. The mix smells sweet, fennel rising up.
+
+## How to Get Lobster Tagliolini with White Wine Sauce Right
+
+Tomatoes go in next. Medium heat. Watch them. They'll soften and split on their own, juice releases, and the pan gets loose and wet. Watch that they don't catch and burn—that bitter thing ruins everything. When they're mostly soft, pour the white wine. Sharp hiss. Bubbles hard. Let it reduce by half. You'll see it happen. The pan gets less chaotic.
+
+Lobster stock goes in after. Medium heat, let it simmer. The sauce thickens as water evaporates. Threads form when it drips from a spoon. That's the sign. No timer. Just watch and smell it.
+
+Lobster meat. Cut into bite-sized chunks. Four minutes before serving, add it to the sauce. Do not overcook lobster. It shrinks. It toughens. Texture goes wrong. Four minutes is tight but it's the point. Salt and pepper now. Taste it. Chili flakes if you want heat—not much, just enough to notice.
+
+Turn off the heat.
+
+## Lobster Pasta with Cherry Tomatoes and Thyme Tips
+
+Pasta drains. Keep some water. Into the pan it goes. Toss it. Fast. The sauce and pasta need to marry. If it's dry, splash pasta water. A little at a time. Then olive oil—a third tablespoon, maybe, just to round everything out. Parsley scattered now. Lemon zest last. That brightness at the end matters. It punches through the richness.
+
+Plate it right away. Lobster chunks scattered. A few whole cherry tomatoes if you saved them—bursts of acid when you bite. Cracked black pepper on top. Lemon wedge on the side if someone wants it.
+
+One thing: don't crowd the pan when you're sautéing garlic and fennel. Low heat stays low. Burned garlic is bitter and there's no fixing it once it happens. Learned that once.
+
+Shells left over? Freeze them. Stock freezes for three months and works for other sauces later. Or make a second batch while you're thinking about it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lobster Pasta with White Wine
+
+**Can I use frozen lobster instead of fresh?**
+Works. Not ideal. Texture gets weird sometimes. Fresh is worth it if you can swing it.
+
+**What if I don't have homemade lobster stock?**
+Fish broth from a box. Not terrible. Chicken broth doesn't work—too bland. Vegetable stock is basically nothing.
+
+**How long does this actually take?**
+Stock takes 35 minutes while you do other things. Pasta and sauce together, maybe 20. Total is around an hour fifteen if you're moving steady.
+
+**Can I make the stock ahead?**
+Yeah. Three days in the fridge. Freezes for months. Honestly makes more sense to do it the day before.
+
+**Why fennel seeds and not fresh fennel bulb?**
+Seeds are concentrated. Bulb gets mushy and takes up space. Seeds give you the flavor without the texture problem. Fresh fennel is a different dish.
+
+**What happens if I overcook the lobster?**
+It gets tough and rubbery. Four minutes is tight but right. Don't mess with it once it's in.
+
+**Can I use a different pasta shape?**
+Linguine works. Fettuccine works. Spaghetti feels thin for this sauce. Tagliolini is perfect because the width holds sauce but it's still delicate. Don't use penne or tubes—wrong energy entirely.
+
+**Is the white wine taste strong in the final dish?**
+No. It reduces by half so the alcohol cooks off and you're left with acid and depth. Not a wine sauce you can taste wine in. Just something underneath that makes it less heavy.
