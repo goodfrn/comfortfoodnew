@@ -1,10 +1,10 @@
 ---
-title: "Provencal Garlic Egg Soup"
+title: "Olive Garden Bread Sticks with Garlic & Cheese"
 slug: "provencal-garlic-egg-soup"
-description: "Garlic-heavy chicken broth infused with fresh thyme and turmeric replaces sauge and saffron, adding earthy warmth and subtle brightness. Country bread crisped under the broiler, melting sharp raclette cheese instead of gruyere. Poached eggs nestled on hot cheesy toast, bathed briefly with steaming broth. Garlic softened slowly in olive oil, aromas hum slowly, avoid bitter scorch. Broth simmered gently 10-20 minutes, eyes on tiny bubbles. Egg poaching timed by feel, jiggle yolks still wobbly. Simple technique shifts, tweaks to make each mouthful deeply comforting yet fresh. A rustic, aromatic entrée that encourages scraping edges, savoring garlic goodness without heaviness. Expect aroma punch, textural play between crisp bread and tender yolks."
-metaDescription: "Provencal Garlic Egg Soup melds toasty garlic, fresh thyme, turmeric broth, raclette-melted bread, and tender poached eggs in a rustic French-Provençal bowl."
-ogDescription: "Garlic softens low and slow. Poached eggs wobble on raclette toast. Broth steams with thyme, turmeric warmth. Rustic bowl. Heavy on aroma, light on fuss."
-focusKeyphrase: "Provencal Garlic Egg Soup"
+description: "Homemade olive garden bread sticks with raclette cheese and roasted garlic cloves. Crispy country bread topped with melted cheese, perfect cheesy garlic bread appetizer."
+metaDescription: "Make olive garden bread sticks at home with garlic, raclette cheese, and country bread. Crispy, cheesy, and aromatic. Try it tonight."
+ogDescription: "Crispy cheesy garlic bread with raclette cheese and roasted garlic. Golden country bread brushed with olive oil."
+focusKeyphrase: "olive garden bread sticks"
 date: 2025-08-06
 draft: false
 image: provencal-garlic-egg-soup.jpg
@@ -21,9 +21,16 @@ tags:
 - "bread"
 - "cheese"
 keywords:
-- "garlic broth"
-- "poached eggs"
-- "rustic French soup"
+- "olive garden bread sticks"
+- "cheesy garlic bread"
+- "garlic bread cheese"
+- "garlic cheese bread"
+- "homemade cheesy garlic bread"
+- "cheese and garlic bread"
+- "raclette cheese bread"
+- "roasted garlic bread"
+- "crispy cheesy bread"
+- "garlic bread with cheese"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "380"
@@ -63,3 +70,98 @@ faq:
 - "q: Leftover soup handling? a: Broth heats well but bread loses crispness quickly. Store broth separately if possible. Reheat gentle, avoid boiling eggs again, yolks overcook, whites toughen. Bread-cheese toast best made fresh, reheat makes it soggy or rubbery."
 
 ---
+
+Halved garlic cloves, cut-side down. That's where everything starts. Low heat. Olive oil just barely moving. You'll smell it before anything looks different—that sweet, toasty thing. Don't walk away. The moment it starts to smell almost burnt, pull it off. That's the line between mellow and bitter.
+
+## Why You'll Love This Garlic Cheese Bread Soup
+
+Takes 45 minutes total but feels slower because you're actually watching things happen.
+
+Raclette melts into strings that hold the bread together. Greek yogurt works in a pinch but raclette's just better—it doesn't break into an oily mess.
+
+Poached eggs in hot broth. The yolk breaks into the soup. That's the whole meal right there.
+
+Thyme fresh from the garden or dried works. Dried needs less. Maybe half a sprig worth.
+
+Tastes like something you'd get at a Mediterranean dinner but you made it at home on a Tuesday. No reservations needed.
+
+## What You Need for Garlic Cheese Bread Soup
+
+Nine garlic cloves. Halved lengthwise. This matters—flat side down means even browning.
+
+Forty-five milliliters of olive oil. Good oil. Not extra virgin necessarily, but not the cheap stuff either. It's half the flavor here.
+
+Chicken stock. A liter and a third. Cold or room temperature doesn't matter much.
+
+Three thyme sprigs, fresh. Whole. Don't chop them. They bob in the broth and you fish them out after.
+
+One pinch of turmeric. Just a pinch. For color mostly. The earthiness is quiet.
+
+Four thick slices of country bread. Not sandwich bread. Something with actual structure. Sourdough works. Ciabatta works. White bread falls apart—don't bother.
+
+One hundred eighty grams of shredded raclette cheese. That's about a cup. Gruyère works if you can't find raclette. Cheddar's too sharp. Swiss is fine but less creamy.
+
+Four eggs. Fresh. Room temperature if you have time. Cold eggs take longer to poach.
+
+## How to Make Garlic Cheese Bread Soup
+
+Heat olive oil in a pot over medium-low. Medium-low matters more than you think. High heat means the garlic goes from sweet to burnt in thirty seconds.
+
+Lay the garlic halves flat-side down in the oil. Don't move them for at least three minutes. Listen for a subtle sizzle—not aggressive, just a whisper. The smell gets sweet and toasty. Lean in. That's the cue. The second it smells almost burnt, turn it off. Not quite golden. Just before.
+
+Pour the chicken stock in slowly. The garlic cloves stay in the oil at the bottom. Thyme sprigs go in whole—let them float and bob gently without breaking the leaves. Bring it to a bare simmer. Uncovered. About 12 to 18 minutes. The broth gets steamy and smells like garlic and fresh herbs had a quiet conversation in your pot.
+
+While that's going, fish out the thyme sprigs with a slotted spoon. Set aside. Now the garlic cloves. Use the back of a spoon to mash them into the broth. They're soft now. They break apart and release a creamy, mellow flavor into everything. Stir in the turmeric. It'll turn the broth golden. Mild earthiness. Nothing harsh.
+
+Toast the bread slices under the broiler until the edges char slightly but the centers stay flexible. Not crunchy hard. Still a little giving. Pull them out. Immediately cover each slice with the shredded raclette. The heat from the toast melts it—gooey and stringy and not oily the way some cheeses get.
+
+## How to Get Garlic Cheese Bread Soup Perfect
+
+Turn the broth down to a bare simmer. This part's crucial. Boiling breaks the poached eggs. The water should barely move.
+
+Crack each egg into a small cup first. Don't just drop it in. Create a gentle swirl in the broth with a spoon—not aggressive, just a slow circular motion. Slip the egg in. The whites firm up in about 3 to 4 minutes. The yolk stays soft. Check it. You'll see the white turn opaque and the yolk jiggle when you tap the bowl gently. That's done.
+
+Lift each poached egg onto a slice of cheese-topped bread in a deep warm bowl. Pour the hot garlic broth over it. Careful. You don't want to drown the cheese layer. The broth should come halfway up the bread. It steams. It smells incredible. That aroma hits the table before anything else.
+
+Serve immediately. Spoon broth between bites. The crisp edges of the bread get soft from the broth. The cheese pulls into strings. The yolk breaks and mixes with everything. Keep moving. Don't let the bread get soggy all the way through.
+
+## Garlic Cheese Bread Tips and Common Mistakes
+
+The garlic is where people mess up. They turn the heat too high and rush it. Medium-low is boring. But it's right. The sweetness takes time. Burnt garlic tastes bitter and there's no fix.
+
+Don't skip mashing the garlic into the broth. That's where the texture comes from. It's not a smooth soup—it's creamy because of mashed garlic cloves, not cream.
+
+The bread matters. Thin slices get soggy. Thick slices stay structured longer. Four slices for four people makes sense.
+
+Raclette isn't always in every grocery store. Gruyère works. Emmental works. Cheddar doesn't—too sharp and the flavor competes with everything else.
+
+Eggs need a gentle simmer. Boiling makes the whites rubbery. The yolk cooks around the edges if the water's too hot.
+
+Thyme can swap for marjoram. Similar vibe. Oregano's too strong. Dill's weird here but people try it.
+
+Turmeric's optional. It's for color and a subtle warmth. Skip it if you don't have it. The soup works fine without.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Garlic Cheese Bread Soup
+
+**Can I use dried thyme instead of fresh?**
+Yeah. Use about half of what you'd use fresh. Dried's stronger. Same with oregano if thyme's gone.
+
+**What if my eggs break in the broth?**
+Happens. Strain the broken bits out if you want. Or leave them. Scrambled egg in broth isn't terrible. Next time keep the simmer really gentle.
+
+**Can I make this ahead?**
+Make the broth ahead. Cool it. Reheat it gently. Toast the bread and add cheese right before serving. Poach the eggs last. That part has to be fresh.
+
+**Is there a substitute for raclette?**
+Gruyère. Emmental. Swiss works. Not cheddar. Cheddar's too sharp and breaks when it's hot. Mozzarella's too bland.
+
+**How thick should the bread slices be?**
+Thick. An inch, maybe more. Thin bread gets lost in the broth and falls apart. You want it to hold the cheese and egg and stay structured long enough to eat.
+
+**Can I use vegetable stock instead?**
+Sure. The flavor changes. Chicken stock has a richness that matters here. Vegetable's lighter. Both work. Depends what you want.
+
+**Why does the turmeric matter if it's just one pinch?**
+Color mostly. It turns the broth golden instead of clear. Mild earthiness too but quiet. Skip it if you don't have it.
