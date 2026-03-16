@@ -1,10 +1,10 @@
 ---
-title: "Rustic Chicken Parmesan"
+title: "Rustic Chicken Parmesan with Panko Crust"
 slug: "rustic-chicken-parmesan"
-description: "Chicken breasts pounded thin, dredged in seasoned bread crumbs with Parmesan and parsley. Browned in olive oil till golden, then baked under marinara and mozzarella. Uses panko instead of plain crumbs for crunch, a touch less salt. Oven at 355 degrees for even cooking. Mozzarella melts creamy, sauce bubbles around edges, aroma fills kitchen. Watch for internal temp 165 degrees or juices run clear. Serves four with spaghetti or any pasta. Protein rich, moderate fat, low carb, bold flavors, classic Italian-American comfort. Adjust breading thickness or cheese types for twist. Easy to double or halve portions. A weeknight staple, forgiving and straightforward. Comes together in under an hour with prep, cook time combined. Ideal for hands-on cooks who love crisp textures with melty cheese finish. Each bite crunchy, creamy, tangy, balanced. This version trims excess salt, adds fresh basil finish."
-metaDescription: "Rustic Chicken Parmesan with pounded thin breasts, panko-Parmesan crust browned in olive oil then baked under marinara and mozzarella, fresh basil finish. Crunch, melt, aroma."
-ogDescription: "Crunchy panko-Parmesan crust on chicken breasts browned then baked with bubbling marinara and gooey mozzarella. Fresh basil lifts, juicy chicken hits 165°F, aromas fill kitchen."
-focusKeyphrase: "Rustic Chicken Parmesan"
+description: "Chicken parmesan made with panko bread crumbs, Parmesan cheese, and fresh mozzarella. Pan-seared till golden, then baked in marinara sauce. Crispy outside, tender inside."
+metaDescription: "Chicken parmesan recipe with panko crust, marinara sauce, and melted mozzarella. Crispy and comforting Italian-American classic. Make it tonight."
+ogDescription: "Panko-crusted chicken parmesan baked in marinara with fresh mozzarella. Crispy, creamy, and ready in under an hour."
+focusKeyphrase: "chicken parmesan"
 date: 2026-01-22
 draft: false
 image: rustic-chicken-parmesan.jpg
@@ -22,8 +22,14 @@ tags:
 - "main dish"
 keywords:
 - "chicken parmesan"
-- "panko breaded chicken"
-- "baked mozzarella chicken"
+- "panko crusted chicken parmesan"
+- "chicken parmesan with marinara and mozzarella"
+- "homemade chicken parmesan with fresh mozzarella"
+- "crispy panko chicken with parmesan crust"
+- "baked chicken with cheese"
+- "italian chicken dishes"
+- "pan seared chicken parmesan recipe"
+- "comfort food chicken breast baked in marinara"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "448"
@@ -70,3 +76,100 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container. Eat within 2 days for best texture. Reheat in skillet or toaster oven for crunch, avoids soggy microwave. Freeze if needed; thaw well, re-toast quickly. Sauce thickens when cold, warm slow avoid dry edges. Leftover crust best fresh but doable."
 
 ---
+
+Pound the chicken thin first—everything else is just layering from there. Four breasts, halved if they're huge. Plastic wrap, heavy skillet, just tap until it's even. Takes maybe five minutes but it's the whole thing. Uniform thickness means no dry edges while the middle's still raw.
+
+## Why You'll Love This Rustic Chicken Parmesan
+
+Comfort food that actually works. Not some deconstructed thing—just breaded chicken, cheese, sauce, done. Tastes like someone who knows how to cook made it, except you did.
+
+Takes 52 minutes total. Thirty-two in the oven. The rest is coating and browning, which you can't mess up if you wait for the oil shimmer.
+
+Panko crust gets crispy in the pan, then stays crispy in the sauce. Didn't think that was possible until you try it.
+
+Homemade chicken parmesan with fresh mozzarella melts different than shredded. Softer. Doesn't get that hard rubbery thing.
+
+Leftovers are weird—sauce is good, crust gets soft. But throw it in a skillet for two minutes and the crispy comes back.
+
+## What You Need for Panko Crusted Chicken Parmesan
+
+Four chicken breasts. Halve the big ones. Doesn't matter much.
+
+Flour. Just all-purpose. Nothing fancy.
+
+Two eggs, beaten. Gets the crumb to stick.
+
+Panko bread crumbs mixed with half a cup of Parmesan. Parmesan's salty, so be light with extra salt—teaspoon total. Dried parsley goes in there. Garlic powder instead of fresh garlic. Tastes cleaner. Black pepper. That's the dry mix.
+
+Eight ounces fresh mozzarella shredded. Not the pre-shredded kind in the bag. It doesn't melt right. Fresh from the counter works.
+
+Marinara sauce. A cup and a half. Any brand. Homemade is better but nobody's judging.
+
+Olive oil for the pan. You need maybe half an inch in a large skillet. Don't skimp or the chicken steams instead of fries.
+
+Basil at the end. Fresh. Chopped. Green on top changes everything.
+
+## How to Make Baked Chicken with Cheese
+
+Oven goes to 355. Fan or regular. Doesn't matter much. Get it going before you do anything else.
+
+Set up three bowls in a line. Flour in the first. Beaten eggs in the second. The panko mix—panko, Parmesan, salt (just a teaspoon), pepper, parsley, garlic powder—all stirred together in the third. Mix the dry stuff really well. Garlic powder clumps if you don't.
+
+Chicken between plastic. Two sheets, one on top, one on bottom. Use a meat mallet if you have one. Don't have one? Heavy skillet works. Pound gently until it's about half an inch thick. Even thickness. That's the whole point. Some pieces cook in three minutes, some in six—you're stuck eating both.
+
+Work fast through the coating step. Dust the chicken with flour. Tap off the excess. You don't want a flour shell. Then into the eggs. Let the drips fall off—don't dump it. Then press it into the panko hard. Both sides. Actually get crumbs stuck to the meat.
+
+Large skillet, olive oil, medium heat. Wait for a shimmer. Not smoking. That shimmer. Once it's there, lay the chicken down. You'll hear it hiss. That's the sound of the crust forming. Four minutes, maybe three and a half if your heat runs hot. You want deep golden. Not pale. The edges should look crispy and brown. Flip once. Another three or four minutes. Don't flip twice. Once you flip, leave it alone.
+
+## How to Get Crispy Panko Chicken with Parmesan Crust
+
+The bake is the second half. Spread a cup of sauce on the bottom of a 9x13 pan. Lay the chicken on top, spaced out. Not touching.
+
+Spoon the rest of the sauce over each piece. Generous but not drowning. You want the crust visible. Scatter the mozzarella on top. Even coverage.
+
+Into the oven at 355 for 27 to 32 minutes. The sauce bubbles at the edges. The cheese goes golden and bubbly. A sharp knife slides through the thickest part with no resistance, or a thermometer hits 165. That's done. Juices are clear.
+
+Take it out. Sprinkle the fresh basil on top right then. Not before. Green on hot cheese looks right and tastes right.
+
+The whole thing—pan searing the chicken parmesan, then baking it with marinara and mozzarella—that's where rustic chicken parmesan actually happens. The sauce soaks into the bottom layer of the crust while the top stays crispy. If you cook it longer the crust softens more. If you cook it shorter maybe the crust stays crunchier but also maybe the chicken isn't fully done in the middle. There's a window. Usually right around 30 minutes is it.
+
+## Crispy Panko Chicken Parmesan Tips and Common Mistakes
+
+Don't skip pounding the chicken even. It seems stupid. It's not. Uneven thickness is the main reason something comes out half raw and half dry.
+
+The plastic wrap stops mess everywhere. Tap gently. You're not angry at the chicken.
+
+Panko crumbs get brown faster than regular bread crumbs. Watch it. Four minutes is about right on medium heat. Higher heat and it burns before the inside cooks.
+
+Pre-shredded mozzarella has stuff in it to keep it from clumping. It doesn't melt smooth. Get fresh from the cheese section. Costs more. Worth it.
+
+The oil needs to shimmer. Doesn't need to smoke. Smoking oil means burning oil means bad taste. Shimmer means hot enough that the crumb fries instead of soaking up oil.
+
+Marinara—cheap is fine. Sweet is fine. Whatever you like on pasta works here.
+
+Don't overcrowd the pan when you fry the chicken. Two pieces at a time maybe. It cools the oil. Chicken steams instead of crisps. Work in batches. Takes five minutes longer total. Doesn't matter.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Rustic Chicken Parmesan
+
+**Can I make this chicken parmesan with marinara ahead of time?**
+The crust gets soft overnight. Fry the chicken, let it cool, refrigerate that. Assemble the baking dish the next day. Re-fry in a hot skillet for two minutes per side to crisp it back up before you bake it.
+
+**What temperature should the oven actually be?**
+355. Not 350. Not 375. The recipe says 355. Lower temps take longer and dry it out. Higher temps brown the cheese before the sauce heats through.
+
+**How long does homemade chicken parmesan with fresh mozzarella keep?**
+Three days refrigerated. The crust goes soft no matter what. Reheat in a skillet—two minutes, medium heat, just until it warms. Toaster oven works too.
+
+**Can I use frozen chicken breasts?**
+Thaw first. Completely. Cold chicken in a hot pan cooks unevenly. Pan seared chicken parmesan needs even thickness and even heat.
+
+**Do I have to use fresh mozzarella?**
+No. Low-moisture mozzarella works. Won't melt quite as soft but it's fine. Pre-shredded stuff has anti-caking agents. It gets grainy. Not worth saving two dollars.
+
+**What if I pound the chicken too thin?**
+It cooks faster and gets tough. Half an inch thick is the target. Thinner and you're fighting it in the pan.
+
+**Can I bake this instead of pan-searing first?**
+No. Bread crumbs don't crisp in the oven. You get a soggy crust. The pan sear is non-negotiable.
