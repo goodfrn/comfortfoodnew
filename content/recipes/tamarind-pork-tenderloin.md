@@ -1,10 +1,10 @@
 ---
-title: "Tamarind Pork Tenderloin Twist"
+title: "Pork Tenderloin Marinade with Tamarind"
 slug: "tamarind-pork-tenderloin"
-description: "Pork tenderloin marinated in a tangy blend of citrus, tamarind, and hoisin with a kiss of fresh ginger and garlic. Grilled low and slow to medium rare. Sauce reduced from the reserved marinade. Switches cassonade for honey and orange juice for pineapple for more brightness. Adds fish sauce replacing soy for deeper umami. Charred broccoli optional, smoky, crunchy. Technique focused on resting meat for juicy slices. Attention to caramelization and sauce thickness to avoid bitterness. Sensory cues replace precise times for foolproof grilling."
-metaDescription: "Tamarind Pork Tenderloin Twist with tangy pineapple, honey, fish sauce glaze. Grilled low and slow for juicy medium rare, thick syrup sauce coats tender slices."
-ogDescription: "Grilled pork tenderloin marinated in tamarind, honey, pineapple juice, fish sauce. Thickened glaze, smoky char, juicy pink medallions, layered flavors punch through."
-focusKeyphrase: "Tamarind pork tenderloin"
+description: "Pork tenderloin marinade combining pineapple juice, tamarind paste, hoisin, and fish sauce with ginger and garlic. Grilled low and slow for juicy, tender slices with caramelized edges."
+metaDescription: "Pork tenderloin marinade with tamarind, pineapple juice, and fish sauce creates Asian-inspired grilled pork. Try it tonight."
+ogDescription: "Asian grilled pork tenderloin with tamarind and pineapple juice marinade. Juicy, caramelized, and perfectly seasoned."
+focusKeyphrase: "pork tenderloin marinade"
 date: 2025-08-14
 draft: false
 image: tamarind-pork-tenderloin.jpg
@@ -21,9 +21,16 @@ tags:
 - "honey"
 - "citrus"
 keywords:
-- "pork tenderloin"
-- "tamarind marinade"
-- "pineapple juice marinade"
+- "pork tenderloin marinade"
+- "grilled pork tenderloin"
+- "asian barbecue pork"
+- "pork fillet marinade"
+- "pork tender marinade"
+- "tamarind marinade pork"
+- "bbq pork tenderloin"
+- "grilled pork fillet recipe"
+- "asian pork recipes"
+- "pork tenderloin recipe grill"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -66,3 +73,101 @@ faq:
 - "q: How to store leftovers? a: Cooler airtight container fridge up to 3 days. Sauce separate better—reheat gentle, avoid microwave high heat or fast burn. Freeze pork sliced to keep texture but glaze might thicken intensely."
 
 ---
+
+Sear it hard on the hot side first—that's where the char happens. Three, four minutes per side, listening for the sizzle. Then move it to cooler heat and let it finish slow. Twenty-two minutes total if you're moving through the steps, not counting the 20 minutes of prep. Forty-two minutes start to finish including the 1.25-hour marinade.
+
+The real trick isn't the grill. It's the marinade. Tamarind and hoisin do something together—kind of sour, kind of sweet, kind of umami. Pineapple juice breaks down the muscle fibers so it stays tender instead of turning into a dense brick. Fish sauce already salts it, so you don't salt at the end. Just pepper.
+
+## Why You'll Love This Pork Tenderloin Marinade
+
+Takes 20 minutes to throw together. The actual grilling part is maybe 22 minutes if you don't mess around.
+
+Tastes like Asian barbecue but it's not complicated—honey and citrus with tamarind underneath. Works cold the next day too, which is weird but true.
+
+Two pork tenderloins feeds four people, maybe five if there's other stuff on the table. Girlfriend tested it. She's picky. She went back for seconds.
+
+Doesn't require a special technique once you get the two-zone grill going. Hot side, cool side. That's it.
+
+## What You Need for This Pork Fillet Marinade
+
+Pineapple juice. Not concentrate. The fresh stuff from a carton works fine—frozen is whatever, probably fine too. A quarter cup. That's what breaks down the meat.
+
+Honey. Two tablespoons. Helps it caramelize on the grill without burning if you're paying attention.
+
+Tamarind paste. The weird one. Thirty milliliters. Sour but not sharp. Tastes like it came from somewhere specific. Don't skip it. Substitute is like orange juice and vinegar but it's not the same.
+
+Hoisin sauce. The dark sweet one from the Asian aisle. Two tablespoons. Already has garlic in it but we're adding more anyway because.
+
+Fish sauce. Fifteen milliliters. Smells terrible in the bottle. Disappears into the marinade. This is where the salt comes from.
+
+Ginger. Fresh. Grated. One teaspoon. Not powder. Powder tastes like soap somehow.
+
+Two scallions. Chopped. The white and light green parts. Dark green goes in at the end if you're feeling it.
+
+One garlic clove. Minced. Could be two. Depends on the clove size and how much you like garlic.
+
+Two pork tenderloins. Around 300 grams each. Not pork chops. Not pork belly. The lean tender thing. If you can't find them exactly that size, whatever you get will probably work—just adjust the cooking time.
+
+## How to Make Pork Tenderloin with Asian Marinade
+
+Glass dish or resealable bag. Pour in the pineapple juice first. Then honey, tamarind, hoisin, fish sauce. Stir until the honey actually dissolves. You'll see it at the bottom trying to stay there until you break it up.
+
+Add the ginger. Minced garlic. Scallions. Mix once more. Now you have the marinade.
+
+Lay the pork in there. Get it covered in the wet part. If you're using a bag, try to get the air out. If you're using a dish, cover it. Refrigerate. One hour and fifteen minutes minimum. Overnight is better. The longer it sits, the more tender it gets—but it doesn't turn to mush. It just gets actually soft all the way through instead of firm in the middle.
+
+When you're ready to grill, pull the pork out. Save the liquid. This matters. Drain the pieces on a paper towel and pat them dry. Dry surfaces char instead of steam. Season with just black pepper. The fish sauce already handled salt. Don't oversalt it.
+
+## How to Get Pork Tenderloin Actually Crispy on the Grill
+
+Heat the grill high. Let it sit there. Actually hot. Oil the grates so it doesn't stick—oil burns off but it does the job.
+
+You need two zones. One side blazing hot. Other side medium-low. This is the secret. The hot side gets the sear. The cool side finishes it without drying out.
+
+Lay the pork on the hot side. Listen for immediate sizzle. Three, four minutes. Don't move it around. Flip once. Three, four more minutes. You want caramelization. Dark brown spots. Not black. Brown.
+
+Flip it to a different side—pork tenderloins have three surfaces basically. Do that for another two to three minutes if you want to get all sides. Could skip this. Doesn't matter much.
+
+Then move the whole thing to the cool side. Close the lid. Rotate every four or five minutes so it cooks even. This takes another ten, twelve minutes depending on how thick your pieces are and how accurate your grill thermometer is—most people don't have one so you're just guessing, which is fine.
+
+Feel it. Raw pork feels squishy and soft. Cooked pork feels firm but still springs back a tiny bit when you push it. Medium-rare is internal temp of 60°C, which is 140°F if you're doing that. Pink center visible when you slice it. That's the goal. Sixty-three Celsius and it starts getting dry. Don't go higher unless you like sad meat.
+
+## Pork Tenderloin Grilling Tips and Mistakes to Avoid
+
+The rest is not optional. Remove it from heat. Tent it loosely with foil. Ten minutes sitting there. The juices redistribute so when you slice it, the meat stays juicy instead of bleeding all over the plate. This is the second thing people skip that ruins everything.
+
+The reserved marinade goes in a small saucepan. Boil it hard first—gets hot enough to kill anything. Then reduce heat to medium-low. Let it simmer and reduce. Stir it. Takes about eight minutes. It thickens up and becomes shiny and kind of syrupy. That's the glaze. Watch it because burnt tamarind tastes burnt. There's no fixing that.
+
+Slice crossgrain. That means against the lines of the muscle. Shorter fibers tear easier so they feel more tender. You'll see pink in the middle if you did it right.
+
+The mistake people make—leaving it on high heat the whole time. Gets char on the outside, raw inside. That's why the two-zone thing matters.
+
+Other mistake—skipping the patting dry. If it's wet it steams. Steaming is the opposite of grilling.
+
+Third mistake—not moving it to cooler heat after the sear. You'll burn the outside trying to cook the inside.
+
+Slice immediately after resting. Get it on the plate. Spoon the glaze over. Serve with whatever—grilled broccoli tossed with sesame oil works, rice works, nothing works, doesn't matter.
+
+Optional scallions or cilantro on top for color. The cilantro adds brightness. Doesn't change the flavor much but it looks better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pork Tenderloin Marinade
+
+**How long does the marinade actually need?**
+One hour fifteen minutes minimum. Overnight is better. The longer it sits, the more the tamarind and fish sauce break down the muscle fibers. But it doesn't turn to mush after eight hours or anything. Just gets progressively more tender.
+
+**Can you use a different pork cut for this Asian barbecue pork marinade?**
+Pork loin works. Takes longer to cook. Pork chops work but they're thin so watch them—they dry out faster. Pork belly would be weird with this marinade but probably delicious. Haven't tried it.
+
+**What if you don't have tamarind paste?**
+Then it's not the same recipe anymore. Orange juice and vinegar gets you sour and sweet but tamarind has this funk to it that matters. If you can't find it, skip this and make something else.
+
+**Does the pork tenderloin recipe work in the oven instead of grilling?**
+Yeah. Four hundred and twenty-five degrees. About fifteen minutes until internal temp hits 60°C. You won't get the char marks but it'll be tender and juicy. Make the glaze the same way.
+
+**How do you tell when pork tenderloin is actually done without a thermometer?**
+Press it. Raw is soft and squishy. Medium-rare is firm but springs back a little when you let go. Well-done is hard like a hockey puck. You want the middle one. Or slice the thickest part. Pink inside means you're there. Gray inside means you waited too long.
+
+**Can you marinate pork fillet longer than overnight?**
+Two days is fine. Three days and the texture starts getting weird—too soft, almost mushy. The acid in the tamarind and the enzymes in the pineapple just keep breaking it down. There's a limit.
