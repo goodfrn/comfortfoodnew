@@ -1,10 +1,10 @@
 ---
-title: "Spicy Sweet Potato Chorizo Bisque"
+title: "Spicy Sweet Potato Soup with Chorizo"
 slug: "spicy-sweet-potato-chorizo"
-description: "A bisque melds smoky chorizo with sweet potatoes simmered in zingy lime and chipotle heat. Onions, garlic, and fresh ginger start the base, sautéed till fragrant. Pureed smooth, then enriched with cream and thinned to preference. Topped with browned chorizo, paprika dust, and a last splash of lime to brighten. A balance of textures and bold flavors that evolves with each spoonful—creamy, spicy, and slightly sweet."
-metaDescription: "Spicy Sweet Potato Chorizo Bisque with smoky chorizo, tangy lime, creamy texture and warming chipotle notes. Layered flavors, rustic but refined."
-ogDescription: "Bold bisque melding smoky chorizo, sweet potatoes, and chipotle heat. Creamy, zesty, with crispy topping and fresh lime brightness."
-focusKeyphrase: "Spicy Sweet Potato Chorizo Bisque"
+description: "Spicy sweet potato soup blending chorizo, chipotle, and lime. Creamy bisque with onions, garlic, ginger, and sweet potatoes simmered in vegetable broth, finished with cream and smoked paprika."
+metaDescription: "Spicy sweet potato soup recipe with chorizo, chipotle chili powder, and fresh lime. Creamy bisque with ginger and smoked paprika. Make it tonight."
+ogDescription: "Creamy sweet potato bisque with Mexican chorizo, chipotle heat, and fresh lime. Bold, spicy, and satisfying."
+focusKeyphrase: "spicy sweet potato soup"
 date: 2025-12-15
 draft: false
 image: spicy-sweet-potato-chorizo.jpg
@@ -21,9 +21,16 @@ tags:
 - "chorizo"
 - "mexican"
 keywords:
-- "chorizo bisque"
-- "sweet potato soup"
-- "chipotle chili powder"
+- "spicy sweet potato soup"
+- "sweet potato bisque"
+- "chipotle sweet potato"
+- "potato soup spices"
+- "chipotle potato"
+- "sweet potato bisque soup"
+- "potato bisque"
+- "recipe for sweet potato bisque"
+- "sweet potato bisque soup recipe"
+- "chipotle mashed sweet potatoes"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "320"
@@ -67,3 +74,55 @@ faq:
 - "q: What signals potatoes are ready? a: Edges soft, start to break down; centers should still hold some shape but yielding to fork pressure. Overcooked gluey, underdone raw starch sharp. Fork test best; poke largest cube to check. Visual cues like bubbling, gentle simmer; timing varies by size. Watch aroma; earthy potato smell changes with doneness."
 
 ---
+
+Butter hits the pan. Onions go in first—that earthy spice market smell that means you're doing it right. Twenty minutes of prep, thirty of actual cooking. Fifty total if you move steady. Had a pot of these potatoes sitting around on a Wednesday and three cloves of garlic just staring at me. This happened.
+
+## Why You'll Love This Spicy Sweet Potato Soup
+
+Comfort food that doesn't feel heavy. The soup gets silky without being boring—cream tempers the spice without burying it. Chorizo crisps on top. That's texture. That's flavor. Takes fifty minutes start to finish. Chorizo does most of the work while you're blending. Cold leftovers taste better the next day, maybe even better. Feeds four people or two people twice. Not sure why that matters except it does.
+
+## What You Need for Potato Soup Spices
+
+Three tablespoons of butter. Regular unsalted. Salted works if you cut back on salt later. One medium yellow onion diced—not minced, actual chunks. Garlic. Three cloves minced. One tablespoon of fresh ginger grated. The kind you peel, not the powder stuff. Four cups of sweet potatoes diced into one-inch cubes. Russets break down too much. Reds get mealy. Sweet potatoes actually stay whole-ish until you blend them. Four cups of vegetable broth. Chicken works. So does water if you've got nothing else. One tablespoon of chipotle chili powder. Not regular chili powder. Chipotle has smoke. Regular doesn't. Eight ounces of Mexican chorizo. Casing removed. Half a cup of half and half. Or heavy cream if that's what you've got. One teaspoon of smoked paprika. Lime wedges for the end. One tablespoon of fresh lime juice that goes in early. Not bottled. Fresh.
+
+## How to Make Spicy Sweet Potato Soup
+
+Melt the butter over medium heat. Don't let it brown. Add the onions, garlic, and ginger all at once. Stir constantly. The smell blooms fast—that spice market thing happens in maybe two minutes. Keep stirring. Onions go from opaque to translucent, shimmering, soft. Backs off browning completely. That's your sign to move forward. Takes about five minutes total.
+
+Pour in the lime juice immediately. Sounds random but it stops the cooking slightly and adds brightness later. Immediately dump in the sweet potatoes. Spread them around the pot so they sit in a single layer-ish. They'll soften at the edges first—centers stay firm. Five minutes for the edges. Then the broth goes in. All four cups. Sprinkle the chipotle chili powder over top. Stir hard. Make sure the chipotle distributes evenly or you'll get one spicy bite and then boring. Turn heat up to medium-high. Bring it to a boil. Then lower it immediately to a gentle bubble. Not a rolling boil. A bubble.
+
+Sweet potatoes break down. You watch them go soft, lose shape, start falling apart if you poke them. Takes about eighteen to twenty-two minutes depending on how big your cubes are. Fork test. Pierce the largest piece. If it melts a little under pressure, you're done.
+
+## How to Get Chipotle Sweet Potato Crispy—The Chorizo Part
+
+While potatoes stew, heat a medium skillet. Medium heat. Crumble the chorizo straight in—casing removed, just the meat. Don't stir too much. That's the mistake everyone makes. You stew it instead of crisping it. Let the edges brown. Let it sizzle. Oil releases. Nine to eleven minutes. Once the bits look darkened, crispy at the edges, scoop it out onto paper towels with a slotted spoon. Keep the skillet. You're done with it but keep it nearby because reasons.
+
+## Sweet Potato Bisque Soup Recipe—Blending and Finishing
+
+When sweet potatoes nearly fall apart—seriously, they should be collapsing—pull the pot off heat. Use an immersion blender. Blend it in the pot. Target texture is chunky applesauce. Not watery. Not smooth like pudding. Just in between. No immersion blender? Transfer it in batches to a food processor. Or a regular blender. Takes longer but same result. Check the texture before the next step. Too thick? Add more vegetable broth. Or apple juice if you want to lean into the sweetness. A splash of apple juice does something unexpected—fruity lift without thinning it out.
+
+Lower heat to low. Pour in the half and half slowly. Stir gently so it folds in silky-like. No boiling or the cream curdles and breaks. Just warm it through. Sixty seconds. Maybe ninety. You'll feel when the flavors meld. That's done.
+
+Serve warm. Spoon it into bowls. Scatter the crispy chorizo on top. Dust smoked paprika over everything for extra char aroma. Squeeze lime juice fresh from the wedge. If you want more spice, drizzle chili oil over top. Or swap half the chorizo for andouille next time—smokier, different note entirely.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chipotle Sweet Potato
+
+**Can you use canned sweet potatoes?**
+No. Actually—don't. They're already soft. This needs the texture shift from firm to falling apart. Fresh takes thirty minutes. Canned gets mushy-paste. Different soup.
+
+**What if the soup tastes too sweet?**
+Pinch of salt. Or vinegar—even a tiny splash. Lime juice helps too if you're not already using the full tablespoon. Salt usually fixes it though.
+
+**Does it freeze?**
+Yeah. Not with the cream though. Blend and freeze it plain. Add cream after reheating. Freezes cleaner that way.
+
+**Can you make this without chorizo?**
+Sure. Bacon crisps on top works. Seared tofu with smoked salt if you want that angle. But the chorizo does something—oils infuse the soup somehow. Not the same without it.
+
+**What about coconut cream instead of half and half?**
+Works. Changes the whole thing though. Goes tropical. Less comfort food, more resort menu. Not bad. Just different.
+
+**How much garlic is too much?**
+Three cloves is the line. More than that and it overpowers the chipotle and ginger. Haven't tried eight cloves. Probably a disaster.
