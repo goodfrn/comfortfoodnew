@@ -1,10 +1,10 @@
 ---
-title: "Wild Blueberry Cheesecake Twist"
+title: "Blueberry Cheesecake with Greek Yogurt"
 slug: "wild-blueberry-cheesecake-twist"
-description: "A reworked wild blueberry cheesecake blending tangy cream cheese with a hint of honey and lemon zest, plus a spiced graham crust. Uses fresh blueberries instead of frozen, swaps sour cream for Greek yogurt, and includes a rosemary-gelée topping instead of plain blueberry mirror. Baking in bain-marie for moist texture, topped with white chocolate drizzle infused with lime. The crust carries cinnamon and nutmeg, elevating the flavor complexity. Roughly 25 cubes serving size. A marriage of tart, sweet, herbal, and creamy, with a textured, slightly spiced crust."
-metaDescription: "Wild Blueberry Cheesecake Twist with spiced graham crust, Greek yogurt, rosemary gelée, white chocolate-lime drizzle. 25 cubes, French-inspired, slow baked bain-marie."
-ogDescription: "Spiced crust, fresh blueberries, Greek yogurt, and rosemary gelée stacked with cream cheese. Water bath baking, white chocolate-lime drizzle, chilled cubes for texture."
-focusKeyphrase: "Wild Blueberry Cheesecake"
+description: "Creamy blueberry cheesecake made with fresh wild blueberries, cream cheese, and Greek yogurt. Features a spiced graham crust with cinnamon and nutmeg, plus a rosemary-blueberry gelée topping."
+metaDescription: "Blueberry cheesecake recipe with fresh blueberries, cream cheese, and Greek yogurt. Spiced graham crust with cinnamon, nutmeg, and rosemary-blueberry topping. Make it tonight."
+ogDescription: "Fresh blueberry cheesecake with cream cheese, Greek yogurt, and a spiced cinnamon-nutmeg graham crust. Topped with rosemary-blueberry gelée."
+focusKeyphrase: "blueberry cheesecake"
 date: 2025-08-19
 draft: false
 image: wild-blueberry-cheesecake-twist.jpg
@@ -21,8 +21,17 @@ tags:
 - "lemon"
 keywords:
 - "blueberry cheesecake"
-- "bain-marie baking"
-- "white chocolate drizzle"
+- "greek yogurt cheesecake"
+- "lemon blueberry cheesecake"
+- "blueberry desserts"
+- "cheesecake with greek yogurt"
+- "no bake blueberry cheesecake"
+- "blueberry pie"
+- "blueberry tart"
+- "blueberry crumble"
+- "dessert recipes using blueberries"
+- "blueberry cobbler"
+- "blueberry crisp"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "280"
@@ -106,3 +115,106 @@ faq:
 - "q: How to store cheesecake cubes? a: Airtight container fridge preferred. Gelée softens quickly at room temp, fridge keeps tidy slices firm. Can freeze but texture changes. Thaw wrapped overnight; drizzle may dull. Best eaten within 5–7 days for fresh berry flavor."
 
 ---
+
+Set oven to 350. Butter a square pan. The spiced crust goes down first—graham crackers, brown sugar, cinnamon, nutmeg, melted butter pressed flat. That bakes 10 minutes while you make the filling.
+
+Three hundred grams of cream cheese at room temp. Sugar, flour, Greek yogurt instead of sour cream because it's tangier and doesn't split. Eggs. Honey. Lemon zest. Blend it until it's smooth but don't overbeat—you want dense, not airy.
+
+Fresh blueberries cooked down with lemon. Strained through a sieve. Half the berries go into the cheesecake layers. The juice becomes the gelée on top.
+
+Pour one-third of the cheese filling over the crust. Scatter the blueberry pulp. Cover with the rest. Water bath. Low oven—160 degrees Celsius. Watch the center. It jiggles slightly when it's done. That takes about an hour and 15 minutes.
+
+Cool it. Refrigerate. Then the gelée—gelatin bloomed in cold water, dissolved in warm blueberry juice with a bruised rosemary twig. Pour it on top. Back in the fridge overnight.
+
+White chocolate drizzled thin with lime zest across the surface. Slice into squares. That's it.
+
+## Why You'll Love This Blueberry Cheesecake
+
+Takes two hours and ten minutes total but most of that is waiting. Hands-on time is maybe 50 minutes if you move.
+The blueberry-cheesecake combination works because the tartness cuts the richness—lemon, honey, fresh berries all pulling in different directions and somehow making sense together.
+Spiced crust doesn't taste like regular cheesecake crust. Cinnamon and nutmeg do something.
+Greek yogurt instead of sour cream changes the texture. Lighter. Tangier. Not the heavy cream cheese wallop you expect.
+Gelée layer on top looks like you know what you're doing. Doesn't even taste that complicated—just blueberry juice set with gelatin and rosemary. People notice the rosemary though. They ask about it.
+
+## What You Need for Blueberry Cheesecake
+
+Graham cracker crumbs—130 grams. Brown sugar and butter mixed in. Cinnamon and nutmeg because the spice matters here, not an afterthought. Unsalted butter melted. Everything combines into a crust that smells buttery and warm.
+
+Fresh wild blueberries if you can get them—130 grams. They cook down with granulated sugar and fresh lemon juice. You strain out the pulp and keep the juice separate. If frozen is all you have, thaw them first and drain the excess liquid or the whole thing gets watery.
+
+Cream cheese. Three packages, 200 grams each, at room temperature. That's important. Cold cream cheese stays chunky and doesn't blend smooth. All-purpose flour. Greek yogurt—not sour cream. Tangier, thicker, less likely to split. Granulated sugar. Eggs and one egg yolk. A teaspoon of honey. Lemon zest.
+
+Gelatin powder. Cold water to bloom it. The reserved blueberry juice. One small rosemary twig, bruised so it releases flavor.
+
+White chocolate for the top. Heavy cream. Lime zest. The lime cuts the richness and adds brightness nobody expects.
+
+## How to Make a Blueberry Cheesecake Crust
+
+Set the rack to mid-level. Preheat to 175 Celsius, 350 Fahrenheit. Butter your pan and line it with parchment, leaving overhang on two sides so you can pull it out later. Seriously, use the parchment. Unmolding without it is stressful.
+
+Mix the graham crumbs, brown sugar, cinnamon, nutmeg in a bowl. Toss it around so the spice isn't clumped in one corner. Add the melted butter. Stir until everything looks evenly moistened—no dry spots. It should feel like sand that holds together.
+
+Press it firmly into the pan. Use the bottom of a glass or a measuring cup, something flat and heavy. Don't just use your hands. You need it actually compacted, not just pressed loosely.
+
+Bake 10 to 13 minutes. You're watching for golden edges and that buttery, warm spice smell. It'll look set but still feel slightly soft in the middle. That's right. Cool it on a rack. Lower the oven to 160 Celsius, 320 Fahrenheit.
+
+## How to Build the Blueberry Cheesecake Filling
+
+Combine the fresh blueberries, granulated sugar, lemon juice, and zest in a small saucepan. Heat it over medium until it bubbles gently—not a rolling boil, just moderate. That takes 3 to 4 minutes. Stir occasionally. The blueberries start to break down and the juice runs out.
+
+Remove from heat. Push the whole mess through a fine mesh sieve using the back of a spoon. The pulp stays in the sieve. The juice drips into a bowl underneath. Reserve the juice for the gelée later. The strained berries—those go into the cheesecake layers.
+
+Food processor next. Combine sugar and flour. Pulse briefly. Add cream cheese in chunks, not all at once. Pulse until smooth. Stop before you overbeat it. You want soft and fluffy without air bubbles worked in. Air bubbles rise in the oven and the cake cracks.
+
+Scrape down the sides. Add Greek yogurt, eggs, egg yolk, honey, and lemon zest. Pulse until just combined. Don't blend it to death. The mixture should be dense yet slightly airy, which sounds contradictory but you'll feel the difference. If you're nervous, use a spatula to fold once or twice instead of running the processor again.
+
+Pour about one-third of the cheese mixture over the cooled crust. Spread it gently—you don't want to break the crust or tear the parchment. Scatter the strained blueberry pulp evenly across. Cover with the remaining cheese mixture. Smooth the top with a spatula.
+
+## How to Bake Blueberry Cheesecake Perfectly
+
+Water bath. That's the secret to no cracks. Place the cheesecake pan inside a larger roasting pan. Pour hot water halfway up the sides of the cheesecake pan. The steam regulates temperature. It prevents the outside from setting too fast while the center stays soft. It's a slow, even bake.
+
+Slide into the oven. Bake 1 hour 15 minutes to 1 hour 25 minutes. Really watch the surface. The edges should look set and firm. The center should jiggle slightly—like gelatin, not like raw batter. Internal temperature: 63 to 65 Celsius, 145 to 150 Fahrenheit. That's creamy, not dry.
+
+Remove from the water bath carefully. Water spills are annoying. Cool uncovered on a rack for 1 hour. The surface will sink slightly. The texture firms up as it cools. Don't skip this step. You go straight to the fridge and the residual heat stays trapped inside.
+
+Refrigerate at least 1 hour before you add the gelée. Actually, overnight is better. The cheesecake sets fully and the flavors settle.
+
+## Blueberry Cheesecake Tips and Common Mistakes
+
+Gelatin bloom is critical. Sprinkle the powder over cold water. Let it sit 5 minutes—it'll soften and expand and absorb the water. Skip this or add dry gelatin to hot juice and the gelée turns grainy or rubbery. Not worth it.
+
+Heat the reserved blueberry juice with the bruised rosemary twig over low heat until just warm and aromatic—2 to 3 minutes. Remove the rosemary. Stir in the bloomed gelatin until it dissolves completely. Cool slightly but don't let it set. Pour gently over the chilled cheesecake. Return to the fridge.
+
+Chill 6 to 10 hours or overnight for the gelée to fully set. A skin might form on top if it's uncovered. Cover loosely with plastic wrap.
+
+Fresh blueberries are better than frozen for this. Frozen ones are watery and bleed too much juice into the filling. If frozen is what you have, thaw them first and drain for at least 30 minutes. Keeps the texture tight.
+
+Water bath prevents cracks. If your roasting pan doesn't fit your oven, wrap the cheesecake pan base tightly with foil to stop water leaks. Better to lose some water than have cracks. Use a thermometer instead of just counting minutes—oven temperatures vary wildly.
+
+White chocolate seizes if you overheat it. Microwave in 10-second bursts, stirring between each one. That's the only way. Once it's smooth, add the lime zest. The lime counters the richness with brightness.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Blueberry Cheesecake
+
+**Can I make this blueberry pie recipe without the gelée?**
+Yes. Skip it entirely. The cheesecake stands on its own. The gelée adds visual appeal and another layer of blueberry flavor, but it's not essential to the structure.
+
+**What's the difference between using Greek yogurt cheesecake versus sour cream?**
+Greek yogurt is tangier and thicker. Sour cream is heavier and can weigh the batter down or split if the temperature isn't right when you add it. Yogurt also cuts the fat slightly. Taste-wise, Greek yogurt gives you more of a bite.
+
+**Why do I need a water bath for this blueberry cake cheesecake?**
+The steam regulates temperature and prevents the top from setting too fast while the center is still cooking. Without it, you get cracks. Always. The water bath is why this recipe works.
+
+**Can I use frozen blueberries for the blueberry filling ideas?**
+Thaw them first. They release too much liquid when fresh-frozen. Drain them for at least 30 minutes before cooking down with the sugar and lemon.
+
+**How long does this blueberry dessert keep?**
+Best consumed within a week in an airtight container. It gets denser as it sits, which some people like. The gelée holds up fine in the fridge. Don't freeze it—the texture changes when it thaws.
+
+**Is there a blueberry tart version of this?**
+Not really this exact recipe. You could press the crust into a tart pan instead of a square pan, but the cheesecake layer and baking time stay the same. The proportions would be off though. Stick with the square.
+
+**Can I make blueberry pie filling ideas using this blueberry cooking method?**
+Sure. The technique of cooking blueberries, sugar, lemon juice, and zest then straining works for any pie filling. Just skip the gelatin part and it's a standard blueberry pie filling.
