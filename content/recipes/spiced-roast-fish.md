@@ -1,10 +1,10 @@
 ---
-title: "Spiced Roast Fish with Carrot Purée"
+title: "Baked Cod Fish Recipe with Carrot Purée"
 slug: "spiced-roast-fish"
-description: "A robustly spiced white fish fillet pan-seared to a crisp golden, paired with a creamy carrot and celery purée softened with garlic and shallots. Bettes à carde add quick blanched greens to balance textures. The paprika and celery salt meld into a smoky-sweet crust while the vegetable purée offers natural sweetness. Timing relies on sensory cues: silvery fish edges firming up, carrot tenderness, and aromatic garlic floating off the pan. Butter adds richness but can be swapped with olive oil or vegan spread. Adjust spice levels for heat tolerance; cayenne is optional. This dish riffs on tradition—simple, practical, with bursts of flavor."
-metaDescription: "Spiced roast white fish with carrot and celery purée, smoky paprika crust, blanched Swiss chard. Sensory cues guide timing; butter or oil option for richness."
-ogDescription: "Smoky paprika crusted roast fish with creamy carrot purée and crisp Swiss chard greens. Watch for silvery fish edges, soft carrots, and garlic aroma as cues."
-focusKeyphrase: "spiced roast fish with carrot purée"
+description: "Baked cod fish with smoked paprika crust, served with creamy carrot and celery purée, garlic, shallots, and blanched Swiss chard. Simple, flavorful weeknight dinner."
+metaDescription: "Baked cod fish recipe with paprika spice, carrot purée made with garlic and shallots, plus Swiss chard. Try it tonight."
+ogDescription: "Paprika-crusted baked cod with creamy carrot purée and blanched Swiss chard. Easy, restaurant-quality fish dinner."
+focusKeyphrase: "baked cod fish recipe"
 date: 2025-09-27
 draft: false
 image: spiced-roast-fish.jpg
@@ -21,10 +21,18 @@ tags:
 - "easy dinner"
 - "healthy"
 keywords:
-- "spiced fish"
-- "carrot purée"
-- "paprika crust"
-- "blanched greens"
+- "baked cod fish recipe"
+- "cod fish baked recipe"
+- "baked cod recipe"
+- "baking cod in oven"
+- "baked cod fillet"
+- "baked fish fillet recipe"
+- "baked fish in oven"
+- "baked salmon fillets in oven"
+- "fish fillet oven"
+- "best baked cod recipe"
+- "baked fish fillets in oven"
+- "oven baked trout recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "280"
@@ -78,3 +86,71 @@ faq:
 - "q: Storage tips? a: Purée stores refrigerated covered tight 2-3 days; reheat gently stirring to prevent drying. Fish better fresh but leftovers can freeze in airtight container. Swiss chard wilts fast refrigerated—try to eat day of prep. Reheat fish briefly to avoid drying flakes. Olive oil drizzle before serving revives moisture."
 
 ---
+
+Set the pan smoking hot. That sizzle when fish hits butter—that's when you know it's working. Carrots go in a pot first, 25 minutes to soft. Then everything comes together in maybe 30 more. Total time 55 minutes if you move without rushing.
+
+## Why You'll Love This Baked Salmon Fish Recipe
+
+Takes less than an hour start to finish. Spiced white fish, sweet carrot purée, blanched greens—looks like you spent all day on it.
+Actually healthy. Protein, vegetables, barely any oil. Doesn't feel like you're sacrificing anything.
+The spice crust is the thing. Brown sugar and paprika caramelize into something crispy that doesn't taste like seasoning, just tastes right.
+Works on a weeknight. No complicated techniques. Pan-searing a fish fillet or roasting salmon in the oven—both just mean heat and timing.
+Comes together in one skillet mostly. Cleanup isn't nothing, but it's fast.
+
+## What You Need for Baked Fish in the Oven
+
+Carrots—420 grams, sliced thin. Celery stalk, just one, chopped small. A shallot. Two garlic cloves. Chicken broth or vegetable broth, about 300 ml. Butter to finish it, 25 ml.
+
+The spice blend. Sweet smoked paprika, 14 ml. Granulated garlic powder, same amount. Brown sugar, 6 ml. Celery salt, 6 ml. Cayenne if you want heat—optional, just a pinch. Don't skip the paprika. It's not optional.
+
+Fish. 650 grams of white fish fillets—cod, haddock, whatever's fresh. Cut into four portions. Swiss chard, blanched 3 minutes in salted water. About 225 grams. Salt and pepper for the end.
+
+Butter or oil for the pan. Extra virgin olive oil if you want brightness at the plate. Lemon too, maybe.
+
+## How to Make Baked Cod Fish in the Oven
+
+Get a medium pot hot. Carrots, celery, shallot, garlic—toss them all in. Pour the broth over. Bring it to a rolling boil, then drop the heat to medium-low. Just a gentle simmer. Not angry. The carrots need 22 to 27 minutes to go completely soft. Don't watch the timer. Push with a fork. When it goes in without resistance, you're done.
+
+Drain the carrots but save some broth. You'll need it if the purée gets too thick. Into a blender or use an immersion blender right there in the pot. Smooth. All the way smooth—no fibrous bits left. Add the butter. Stir or pulse until it melts in. Taste it. Salt and pepper now. Keep it warm on very low heat, covered so it doesn't dry out.
+
+While that's going, make the spice mix. Paprika, garlic powder, brown sugar, celery salt. The cayenne goes in if you want it. Dump it all into a shallow dish. Taste a tiny pinch of the blend raw. Too salty for you? Hold back on the celery salt next time. Cayenne is there for warmth, not to make you cough.
+
+## Baking Cod in the Oven and Searing the Fish Fillet
+
+Heat a heavy nonstick pan or cast-iron skillet. Medium-high heat. Wait until it's almost smoking—you'll see it. Add butter or oil, enough to coat the bottom. When it's bubbling, lay the fish down spice-side first. It should sizzle immediately. That crackle means the pan's ready.
+
+Don't touch it. Let it sit for about 3 minutes. The edges turn opaque. The spice blend caramelizes into a crust. That's the moment. Flip carefully with a spatula. Cook the other side 3 minutes. Maybe a bit longer if the fillets are thick. The fish will flake when you push gently. That's done.
+
+Sprinkle salt and fresh cracked pepper lightly. Just a little—the spice blend already holds plenty of salt. Remove to a warm plate. Tent it loosely with foil if you're waiting to plate.
+
+## Baking a Salmon Fillet in the Oven—Tips and Serving
+
+Put the carrot purée in the center of your plate. Spoon the blanched chard around it or on top. The greens are wet, the purée is soft—the contrast matters. Lay the fish gently on top. Drizzle with extra virgin olive oil if you want brightness. A squeeze of lemon. Serve immediately.
+
+The fish stays tender if you pull it off heat right when it flakes. Leave it too long and it gets dry. The crust burning means the pan was too hot or it sat too long. You'll know next time.
+
+Swap the fish. Thinner fillets like sole cook faster—maybe 2 minutes per side. Forget the baked cod in oven thing if you want trout instead. Works the same way. Baking trout in the oven is identical to this. Same timing. Same spice mix.
+
+Vegan option—use vegetable broth and vegan margarine instead of butter. Still works. Add smoked chili powder if you want more depth. The Swiss chard can be spinach. Blanch it briefly so it stays bright green.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Baked Salmon Fish Recipe
+
+**Can I use other fish besides cod?**
+Absolutely. Haddock, sea bass, snapper, walleye—anything white and firm. Thinner fillets like flounder cook faster. Cut the time down. Salmon works too if you want it, but it's fattier so the crust won't crisp the same way. Trout's good. Red snapper's good. Just adjust based on thickness.
+
+**How do I know when the fish is done?**
+Push it gently with a fork or knife. It should flake apart easily without resistance. The center should be opaque, not translucent. If you're nervous, cook it a minute longer. Overcooked fish is dry. Undercooked is not worth the risk. You'll feel the difference once you've done it once.
+
+**Can I bake this instead of pan-sear?**
+Yeah. After you spice the fillets, put them on a lined baking sheet. 400 degrees Fahrenheit. About 12 to 15 minutes depending on thickness. The crust won't be as crispy but it works. Baking a fish in the oven is easier if you're making a lot of portions at once.
+
+**What if the carrot purée is too thick?**
+Splash in some of the reserved broth. A little at a time. Whisk it in. If you have cream and dairy's okay, that works too. Don't make it soup though.
+
+**Can I prep the carrot purée ahead?**
+Make it earlier in the day. Cover it. Reheat gently over low heat before plating. It'll thicken as it sits. Just loosen it with broth when you warm it up.
+
+**What about substituting the chard?**
+Spinach works. Blanch it 2 minutes so it stays green. Kale if you want something more sturdy. Just blanch it first so it's not tough. Honestly any green vegetable works with baked fish fillets.
