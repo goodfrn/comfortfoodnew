@@ -1,10 +1,10 @@
 ---
-title: "Zesty Buttered Rice"
+title: "Lemon Rice with Fresh Thyme & Jasmine"
 slug: "zesty-buttered-rice"
-description: "Jasmine rice lightly toasted in butter, simmered in savory broth with fresh lemon juice and thyme. Slow heat, steady simmer, lid tight to coax flavors and perfect texture. Adapted with olive oil instead of butter for a lighter finish. Lemon zest provides bright, aromatic punch. Watch rice closely to avoid sticking or mush. Low-sodium chicken broth balances salt and depth. Fresh thyme over dried to brighten notes. Cooking by sight and feel key here. No browning, just gentle aromas emerging, soft but separate grains at end."
-metaDescription: "Zesty Buttered Rice with jasmine, olive oil, lemon juice, thyme. Toasted grains simmered slowly in broth for bright, fresh aroma and tender bite. Watch heat close."
-ogDescription: "Jasmine rice toasted in olive oil, simmered low with lemon and thyme. Fluffy grains hold shape, bright notes pop. No rush, no mush; cook by feel here."
-focusKeyphrase: "zesty buttered rice"
+description: "Lemon rice made with jasmine rice, fresh lemon juice, and thyme simmered in chicken broth. Light, aromatic side dish with separate grains and bright citrus flavor."
+metaDescription: "Lemon rice recipe using jasmine rice, fresh lemon juice, and thyme in chicken broth. Easy Mediterranean-style side dish. Make it tonight."
+ogDescription: "Jasmine rice with fresh lemon juice and thyme. Mediterranean side dish with bright, aromatic flavors and perfect texture."
+focusKeyphrase: "lemon rice"
 date: 2026-01-30
 draft: false
 image: zesty-buttered-rice.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "mediterranean"
 keywords:
-- "jasmine rice"
-- "lemon thyme rice"
-- "olive oil rice"
+- "lemon rice"
+- "lemon rice dish"
+- "mediterranean rice recipe"
+- "jasmine rice pilaf"
+- "lemon herb rice"
+- "lemon and herb rice"
+- "lemon pepper rice"
+- "garlic lemon rice"
+- "lemon butter rice"
+- "mediterranean rice pilaf"
+- "lemon rice side dish"
+- "greek lemon rice"
 breadcrumb: ["Home", "Recipes", "Rice and Grains"]
 nutrition: 
  calories: "315"
@@ -63,3 +72,80 @@ faq:
 - "q: How to store leftovers? a: Cool rice fast first. Store in airtight container. Reheat with splash broth or olive oil to loosen grains or risk clumps. Microwave or stovetop both fine. Avoid freezing—texture changes and tends to become mushy when thawed."
 
 ---
+
+Set the rice to toast first—this changes everything. Two minutes in hot oil and it smells like something happening. Not just rice anymore.
+
+## Why You'll Love This Lemon Rice
+Takes 24 minutes start to finish. One pan. That's the whole thing.
+Works as a side dish for basically anything—chicken, fish, roasted vegetables. Mediterranean flavors without the fuss.
+Tastes better the next day, which almost never happens with rice. Leftovers stay light instead of turning dense.
+Not a complicated technique. Just rice, lemon, broth. Things work together.
+Weeknight dinner gets easier when you have this. Fills a plate without thinking.
+
+## What You Need for Lemon Rice
+Jasmine rice. Not long grain, not arborio. Jasmine has the right texture for this—stays separate instead of turning mushy.
+
+Olive oil. Two tablespoons. Enough to coat the rice before the broth goes in. Matters more than you'd think.
+
+Low sodium chicken broth. One and a half cups. You control the salt this way—crucial with the lemon hitting so bright.
+
+Lemon juice. Freshly squeezed. Three tablespoons. Bottled tastes thin. Fresh has this sharp clarity that actually changes the dish.
+
+Lemon zest. A teaspoon. Gets stirred in at the beginning so it infuses into everything.
+
+Fresh thyme. A teaspoon and a half of actual leaves. Dried thyme is different—grassy, sort of flat. Fresh stays alive through cooking.
+
+Salt and black pepper. Half a teaspoon salt, quarter teaspoon pepper. Adjust at the end. Always tastes different depending on your broth brand.
+
+## How to Make Lemon and Herb Rice
+Medium saucepan. Medium-high heat. Add the olive oil and swirl it around till it shimmers. Not smoking—shimmering. There's a moment between those two.
+
+Toss in the jasmine rice. Stir constantly. You're listening for this to change, watching the texture shift. Takes about a minute, maybe two. Tiny little pops sometimes. The smell goes nutty. That's your signal to stop—don't let it brown.
+
+Pour the chicken broth in. Add the lemon juice, zest, thyme, salt, and pepper all at once. Stir to break up any rice clumps sitting at the bottom. This matters because clumps won't cook evenly.
+
+Turn the heat up slightly and watch it. You're waiting for it to bubble hard across the whole surface, not just the edges. This takes maybe two minutes. Keep stirring occasionally so nothing sticks to the pan—but you're not constantly stirring, just every twenty seconds or so.
+
+## How to Get Lemon Rice Perfectly Tender
+The moment it's boiling vigorously, cover it with a tight lid and drop the heat to the lowest setting. Almost nothing moving on the surface. Just gentle bubbles.
+
+Eighteen minutes. Don't peek before that. The whole thing works because steam is trapped—trapped steam cooks rice evenly. Opening the lid breaks that.
+
+After eighteen minutes, lift the lid once. Rice should look plump. Liquid should be gone. Grains should give when you bite them but with a tiny bit of resistance still there. If there's still liquid sitting in the bottom, cover it again and let it sit off the heat for three minutes. Residual heat finishes the job.
+
+## Lemon Rice Tips and Common Mistakes
+Toast the rice first. This single step changes the texture completely. It prevents gumminess and adds this subtle flavor that makes people ask what you did differently.
+
+Use fresh lemon juice. Bottled juice sits in a bottle. Tastes like it. Squeeze it right before cooking if you can.
+
+Don't skip the zest. The oil in the zest is where the lemon actually lives. Juice alone tastes one-dimensional.
+
+The lid has to seal. Not sort of seal. Actually seal. A piece of foil works if your lid doesn't fit tight, but find something that keeps the steam in.
+
+Keep the heat low during cooking. Medium-low, even lower if your burner runs hot. If you hear aggressive bubbling, turn it down. The goal is gentle steam, not a rolling boil that shakes the pan.
+
+Fluff it with a fork after it's done. Don't stir it like pasta. Break up any clumps that formed, but respect the grains. They're fragile now.
+
+Leftover lemon rice gets stiff because the grains keep absorbing moisture. Add a splash of broth or olive oil when you reheat it, then fluff again with a fork. Comes back to life.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Rice
+
+**Can I use white rice instead of jasmine?**
+Not really the same. Jasmine has this slight sweetness that plays with the lemon. White rice gets mushy faster. Basmati works—longer grain, stays separate—but you're changing the dish.
+
+**What if I don't have fresh thyme?**
+Skip it instead of using dried. Dried thyme tastes different in ways that don't help here. Fresh herb is kind of the point.
+
+**Does this work as a mediterranean rice pilaf?**
+Yes. That's what it is. Add some diced vegetables if you want—tomatoes, olives, bell peppers—but the rice is the base. Treat it like a side dish for greek lemon chicken, for fish, for whatever.
+
+**Can I make this ahead?**
+Comes out fine cold. Tastes bright still. Reheat it or don't—up to you. Just add a bit of broth or oil when you warm it so it doesn't dry out.
+
+**How long does it keep?**
+Three days, easy. Store it covered in the fridge. The lemon flavor actually sharpens a bit by the next day.
+
+**Can I use vegetable broth instead?**
+Goes okay. Chicken broth has a subtle richness that supports the lemon. Vegetable is thinner. Either works—just know it'll taste different.
