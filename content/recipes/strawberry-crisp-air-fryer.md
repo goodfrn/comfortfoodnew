@@ -1,10 +1,10 @@
 ---
-title: "Strawberry Crisp Air Fryer"
+title: "Strawberry Rhubarb Crisp Air Fryer Recipe"
 slug: "strawberry-crisp-air-fryer"
-description: "A quick, rustic strawberry crisp using an air fryer. Uses fresh fruit thickened with arrowroot and a crunchy crumble topping made with oats, almond flour, and honey. Slightly tweaked from the classic version with less sugar, a hint of lemon zest, and a pinch of cinnamon. Great for small desserts, meals for four, ready in under 40 minutes total. Textures contrast warm, bubbling fruit beneath a golden, crispy oat topping. Moist but crumbly, semi-sweet, balanced. Substitutions suggested for dairy-free, nut-free options. Relies on sensory cues more than strict timings for best outcome."
-metaDescription: "Strawberry Crisp Air Fryer; fresh berries thickened with arrowroot, crunchy oat crumble with almond flour and honey, quick rustic dessert ready in 40 minutes."
-ogDescription: "Strawberries thickened with arrowroot, crisped under crunchy oat and almond flour crumble. Air fryer quick dessert. Watch bubbling juices and golden topping cues."
-focusKeyphrase: "Strawberry Crisp Air Fryer"
+description: "Strawberry rhubarb crisp made in your air fryer with fresh strawberries, oats, almond flour, and honey. Ready in under 40 minutes with a golden crispy topping."
+metaDescription: "Make strawberry rhubarb crisp in your air fryer using fresh strawberries, oats, and almond flour. Quick dessert with a crunchy topping. Try it tonight."
+ogDescription: "Air fryer strawberry rhubarb crisp with fresh fruit, oats, and honey crumble topping. Ready in 40 minutes."
+focusKeyphrase: "strawberry rhubarb crisp"
 date: 2025-08-03
 draft: false
 image: strawberry-crisp-air-fryer.jpg
@@ -21,9 +21,18 @@ tags:
 - "dessert"
 - "almond"
 keywords:
-- "strawberry crisp"
-- "air fryer recipes"
-- "fruit crumble"
+- "strawberry rhubarb crisp"
+- "air fryer desserts"
+- "strawberry crisp recipe"
+- "rhubarb and strawberry crisp"
+- "strawberry crumble recipe"
+- "dessert air fryer"
+- "air fryer dessert recipes"
+- "strawberry and rhubarb dessert"
+- "oat crumble topping"
+- "quick dessert recipe"
+- "almond flour dessert"
+- "honey dessert"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "215"
@@ -73,3 +82,89 @@ faq:
 - "q: Storing leftovers tips? a: Cool completely then cover loosely. Fridge keeps crisp but loses some crunch over time. Reheat 3-4 mins at 160ºC in air fryer revives crisp. Avoid microwave—makes topping soggy fast. Can freeze but texture changes."
 
 ---
+
+Four ramekins. Twelve minutes of air fryer heat, then the crumble goes on, then eleven more. That's the whole thing. Strawberries collapse into something between jam and fruit. The topping—oats, almond flour, honey, coconut oil—turns crunchy in a way that doesn't happen in a regular oven. Had rhubarb once. This version works better.
+
+## Why You'll Love This Strawberry Crisp
+
+Takes 40 minutes flat if you move.
+The air fryer does something actual ovens don't—the crumble gets genuinely crispy because heat hits it from everywhere. Not just brown. Actually crunchy. 
+Works cold the next day, maybe better.
+Almond flour in the topping. Not necessary, but it changes the texture into something you can't stop eating.
+No rhubarb needed. Strawberries do the job alone.
+
+## What You Need for Strawberry Crisp
+
+Strawberries—fresh, sliced. About a pound and a half. Don't use frozen here. It matters.
+Sugar. Three tablespoons. Regular granulated.
+Arrowroot powder. One and a half teaspoons. Thickens the juice without making it cloudy. Cornstarch does the same thing if you have that instead.
+Lemon juice. Just enough to cut the sweetness. A teaspoon and a quarter.
+Cinnamon. A quarter teaspoon. Or skip it.
+
+For the crumble: oats. Quick-cooking. Half a cup. They get soft if you use steel-cut, so don't.
+Almond flour. A quarter cup. Swap it for oat flour if you're avoiding nuts, or just add more oats.
+Honey. Three tablespoons. Maple syrup works if you're vegan.
+Coconut oil. Softened. Forty grams—about three tablespoons.
+Lemon zest. One teaspoon. Brightens everything.
+
+## How to Make Strawberry Crisp
+
+Slice the strawberries. Toss them in a bowl with the sugar, lemon juice, arrowroot, and cinnamon. Mix until everything's coated. Sit there. Let it for ten minutes. The berries start releasing juice. That's what you want.
+
+Divide the whole thing into four ramekins—the kind that hold about three quarters of a cup each. Don't cram it in. Air fryer needs space to work.
+
+Set them in the air fryer basket. Heat to 365 degrees. Twelve minutes. You'll hear gentle bubbling. The juice gets darker. Thicker on the edges. After twelve minutes, check it. If it still looks runny in the middle, two more minutes.
+
+While that's happening: mix oats, almond flour, lemon zest, and cinnamon in another bowl. Melt the coconut oil. Whisk in the honey. Pour it into the dry stuff and stir until it looks like wet sand—clumpy but sticking together. If it's too wet, add oats a teaspoon at a time.
+
+Basket comes out careful. Those ramekins are hot.
+
+Break the crumble into pieces. Not dust. Actual chunks. Scatter it over the fruit. Don't press it down hard. Leave gaps so steam rises through it and keeps the top crunchy instead of steamed.
+
+Back in the air fryer. Eleven minutes at 365 degrees. Watch for the crumble to turn golden with darker spots. You'll smell it get toasty. Listen for a little crackle from the oats crisping up. If it's still pale after eleven, add two more minutes. Check it.
+
+Pull it out. Let it sit uncovered. Five to seven minutes. The crumble firms up as the steam leaves. You'll see the juice bubbling at the edges. The top pulls back slightly from the ramekin sides. That's how you know it's done.
+
+## How to Get Strawberry Crisp Actually Crispy
+
+The five-minute rest is everything. Most people skip it. Don't. That's when the topping goes from soggy to crunchy.
+
+Coconut oil browns faster than regular butter. If your air fryer runs hot, drop the temperature down ten degrees. Too much heat and the edges burn while the middle stays pale.
+
+Don't overfill the ramekins. Three quarters full. Full to the rim and you get uneven cooking. The edges cook fast, the middle stays raw.
+
+If you're doing this in batches because your air fryer's small, that's fine. Cook one set, let them rest, then start the next ones. Timing doesn't change.
+
+The arrowroot thickens as it cools. So the fruit looks thinner, more jammy when it's hot. Wait five minutes and it's set up. This is the right texture, not a mistake.
+
+Strawberry rhubarb crisp recipes usually need rhubarb because rhubarb is tart. Strawberries alone? Add lemon juice. It does the same work.
+
+## Strawberry Crisp Tips and Common Mistakes
+
+Fresh berries. Not frozen. Frozen releases too much water and the filling breaks down into soup instead of holding a shape.
+Lemon zest in the crumble is optional. Sounds weird. It's not. It just—works.
+Serve warm, cold, room temperature. All three are different and all three are good. Cold it's more like a dessert. Warm it's more like breakfast.
+Ice cream. Coconut yogurt. Whipped cream. All work. None required.
+Store leftovers covered. They last three days in the fridge. Reheat at 320 degrees for three or four minutes if you want the crumble to crisp back up.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Strawberry Crisp
+
+**Can you make this with rhubarb and strawberry crisp instead?**
+Yeah. Use half strawberries, half rhubarb. Rhubarb releases more water, so watch the juice level during cooking. Might need an extra minute or two for it to thicken.
+
+**What if you don't have an air fryer?**
+Regular oven works. Same temperature, but bump the time to 35-40 minutes total. Fruit goes in first for 20 minutes, crumble goes on, then another 15-20 until golden. Air fryer just does it faster.
+
+**Does the almond flour change the recipe if you skip it?**
+Not really. Use more oats instead. The texture gets slightly less crispy but honestly it's still good. Haven't noticed a huge difference.
+
+**Can you double this?**
+Eight ramekins if your air fryer fits them. If not, two batches. Timing stays the same.
+
+**Why arrowroot instead of cornstarch?**
+Cornstarch works exactly the same. Arrowroot doesn't cloud the juice so you can actually see how pretty the berries are. That's the only reason.
+
+**How do you know when the crumble is crispy enough?**
+You hear it crackle a tiny bit when you stir. The edges look darker brown. The topping barely moves when you tilt the ramekin. If you're not sure, add two more minutes.
