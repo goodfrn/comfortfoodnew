@@ -1,10 +1,10 @@
 ---
-title: "Scratch Brownies Ganache"
+title: "Fudgy Brownies with Chocolate Ganache"
 slug: "scratch-brownies-ganache"
-description: "Dense chocolate brownies baked low and slow to avoid dryness; rich ganache thickened in fridge. Butter swapped slightly for oil to keep moist. Cocoa powder adjusted down a bit; salt a pinch less. Vanilla bean paste swaps for extract, deeper flavor. Chocolate chips folded in batter, melted into pockets of goo; ganache uses heavy cream warmed till almost boiling then poured over chips, sat till melted, butter stirred in for shine. Timing tweaked; watch surface dry, crackly edges but still moist center. Chill ganache well before spreading to avoid runny mess. Skill checks include batter texture, sheen of ganache, and precise cooling. Not for rushed hands."
-metaDescription: "Scratch Brownies Ganache dense fudgy with rich glossy ganache topping. Moist crumb, cracked crust, nuanced flavor from bean paste and Dutch cocoa."
-ogDescription: "Dense fudgy brownies low-temp baked with crackly crust. Thick ganache cooled firm but spreading smooth. Key: texture, timing and chill."
-focusKeyphrase: "Scratch Brownies Ganache"
+description: "Dense fudgy brownies made with butter, cocoa powder, and bittersweet chocolate chips, topped with silky ganache made from heavy cream. Low and slow baking keeps them moist."
+metaDescription: "Fudgy brownies with chocolate ganache recipe. Bittersweet chocolate chips, Dutch cocoa, heavy cream ganache. Make it tonight."
+ogDescription: "Rich fudgy brownies with bittersweet chocolate, creamy heavy cream ganache, and Dutch cocoa. Dense, moist, decadent."
+focusKeyphrase: "fudgy brownies with ganache"
 date: 2025-11-22
 draft: false
 image: scratch-brownies-ganache.jpg
@@ -21,9 +21,16 @@ tags:
 - "homemade"
 - "no bake"
 keywords:
-- "brownies"
-- "ganache"
-- "chocolate chips"
+- "fudgy brownies with ganache"
+- "chocolate ganache brownies"
+- "homemade brownies"
+- "bittersweet chocolate chip brownies"
+- "dense chocolate brownies"
+- "brownie recipe"
+- "chocolate brownies"
+- "Dutch cocoa brownies"
+- "ganache frosting"
+- "scratch brownies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -76,3 +83,113 @@ faq:
 - "q: How to store brownies with ganache? a: Room temperature two days covered airtight best for crust. Refrigerate longer but ganache firms and dulls. Warm slightly before serving to soften top. Avoid wrapping in plastic directly on ganache or marred surface."
 
 ---
+
+Cut the butter. Mix it with sugar. This is where it starts.
+
+Homemade brownies with ganache aren't some complicated thing — they're patient heat, good chocolate, and knowing when to stop. Twenty-two minutes of prep, thirty-eight in the oven, and you've got something that tastes like it came from somewhere that knows what it's doing. Made these once with store-bought brownie mix out of laziness. Threw them out halfway through. Decided to do it right.
+
+## Why You'll Love This Chocolate Brownies Recipe
+
+Takes just over an hour total. Most of it's waiting, not work.
+
+Fudgy brownies with ganache. The inside stays soft even after the ganache sets. Not dry. Not cakey. That specific dense thing that happens when you don't overmix.
+
+No bake element for the topping — cream and chocolate. That's it. Melts into this glossy layer that snaps a little when cold, gets soft when it hits your mouth.
+
+Works for a weeknight dessert or something you make Sunday and eat all week. Keeps fine. Better the next day, honestly.
+
+Dutch process cocoa actually matters here. Regular cocoa tastes flat by comparison. Not sure why but it does.
+
+## What You Need for Scratch Brownies with Ganache
+
+Butter. Six tablespoons softened — not melted, not cold. Room temperature works. Unsalted. The salt comes separate.
+
+Sugar. Three-quarters cup granulated plus a tablespoon of brown. The brown adds this moisture thing.
+
+Cocoa powder. Dutch process. Skip the regular stuff. Darker, richer, makes the whole thing taste different.
+
+Vanilla bean paste. A teaspoon. You can use extract but the paste actually adds something — tiny black specks, more flavor. Either works though.
+
+Two eggs. Large. Room temperature makes them mix easier.
+
+All-purpose flour. Three-quarters cup, sifted. Don't skip the sifting. Lumps break up, flour incorporates without overmixing.
+
+Kosher salt. A quarter teaspoon. Course grain. Matters for the amount you use.
+
+Bittersweet chocolate chips. One-third cup goes in the batter. Half cup more for the ganache. Choose something with actual cocoa butter — cheap chips won't melt right.
+
+Heavy cream. One-third cup. Full fat. Half and half doesn't work as well.
+
+One more teaspoon of unsalted butter for the ganache. Adds gloss.
+
+## How to Make Fudgy Brownies with Chocolate Ganache
+
+Heat your oven to 320. Not 350. Lower. The edges get hard at higher temps and you want them tender. Grease an 8 by 8 pan — butter or spray works. Dust it with cocoa powder. Keeps the crust from drying out.
+
+Soften the butter with both sugars and salt. Mix until it's grainy but combined. You're not whipping air in — that's the mistake. Thick and sandy, not fluffy.
+
+Break up any cocoa lumps. Stir it in thoroughly. Dry cocoa in the batter means rough texture. Take a second with this.
+
+Add vanilla. Then the eggs one at a time. Beat gently. Aggressive mixing means more air, means cakey instead of fudgy. You want dense.
+
+Fold in the sifted flour last. Stop when you can barely see streaks of flour. This is the critical part. Keep the batter thick.
+
+Stir in a third cup of chocolate chips. The batter should still look rich and luscious, not thin.
+
+Scrape it into the pan. Use a spatula to smooth the top but don't spread hard. Air bubbles and crumb texture matter.
+
+Bake 35 to 40 minutes. Start checking at 33 though. Every oven runs hot or cold. You're looking for the edges to pull slightly from the pan. The top should look dull, not shiny. When you touch it gently, it should be firm but still soft underneath.
+
+A toothpick — if it comes out with wet batter, not done. If it comes out clean, you went too far. Moist crumbs is the sweet spot. Some ovens have hot spots so turn the pan once halfway through for even baking.
+
+Cool completely on a wire rack. Completely. Don't touch it. Rushing this means the ganache slides off and the insides stay gooey in a bad way. Twenty minutes minimum. More is fine.
+
+## How to Get Dense Chocolate Brownies Every Time
+
+The density comes from three things. Not overmixing the batter. Using Dutch cocoa. Baking at low temp.
+
+That's it. Those three.
+
+Dutch cocoa looks darker, tastes deeper. You can taste the difference. Regular cocoa is flatter. The lower oven temp means the outside doesn't set faster than the inside — brownie stays moist and fudgy all the way through. Higher heat and you get a hard crust and dry interior. So don't do that.
+
+The batter should look thick. Like actual brownie batter, not cake batter. If it's thin, something went wrong. Overmixing or too much liquid — but the recipe doesn't have extra liquid so that's not it. Just overmixing. So fold that flour in and stop.
+
+## Ganache Tips and Common Mistakes
+
+Heat the cream until it steams. Watch for the bubbles forming at the edges. That's the sign it's ready. Don't let it boil. Boiling scorches it and ganache tastes burned.
+
+Pour it over the chocolate and walk away. Five to seven minutes. The chocolate softens. Let it sit. This is not the time to rush.
+
+Stir slowly at first. Breaking up chocolate into a thick mass takes a second. Add the teaspoon of butter. Stir until shiny. That's when you know it's emulsified right.
+
+Refrigerate it 30 to 60 minutes. Not frozen. Spreadable but set. Cold ganache doesn't slide off the brownies. Room temperature ganache does.
+
+Don't spread it too thick. It'll crack when you cut. A thin layer works better and melts better too.
+
+If it gets too hard in the fridge, let it sit out five minutes before spreading. Too soft, chill it again.
+
+Common mistake — using low-quality chocolate. Cheap chips have cocoa butter replacements. They don't melt smooth. They get grainy. Worth spending a couple dollars more.
+
+Other common thing — pouring cold cream over warm chocolate. Doesn't emulsify the same way. Let the cream heat. Let the chocolate sit after you pour it. No shortcuts.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chocolate Brownies with Ganache
+
+**Can I make these brownies ahead of time?**
+Yeah. Bake them, cool them, wrap them. They last two days at room temperature covered. Ganache helps — keeps them from drying out. Refrigerate if you want them to last longer but bring them back to room temp before eating.
+
+**What if my ganache broke or looks grainy?**
+Happened to me once. Cream was too hot. Pour it into a different bowl, add another tablespoon of cream, stir slowly. Sometimes it comes back. Sometimes it doesn't. Tastes fine either way, just looks rougher.
+
+**Can I use regular cocoa powder instead of Dutch process?**
+Not really. Different flavor. Flatter. Dutch process is worth the three dollars.
+
+**Should the brownie be gooey in the middle?**
+Depends on how fudgy you like it. If you want less gooey, bake three minutes longer. More gooey, pull it out a minute earlier. The toothpick test matters more than the timer.
+
+**How do I cut these cleanly?**
+Serrated knife. Wipe it between cuts. Cold brownies cut cleaner than room temperature ones. Let them chill first, cut them, then bring them back to room temp for serving.
+
+**Can I skip the ganache?**
+Sure. Brownies work fine without it. But ganache is where the magic is — glossy, melts on your tongue, looks intentional. Not much extra work either.
