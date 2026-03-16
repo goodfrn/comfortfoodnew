@@ -1,10 +1,10 @@
 ---
-title: "Silken Tofu Peanut Bowls"
+title: "Silken Tofu Peanut Bowl with Vermicelli"
 slug: "silken-tofu-peanut-bowls"
-description: "Silken tofu torn and mixed with rice vermicelli salad, cucumber, avocado, and peanuts. A tangy peanut garlic dressing with soy and rice vinegar. Quick soak vermicelli with cool rinse. Crunch from Lebanese cucumbers, softness of ripe avocado, and spicy chili crisp optional. No nuts beyond peanuts, vegan, no dairy, no eggs. Simple, fresh, balanced textures and flavors. Ready under 30 minutes, no cooking beyond boiling vermicelli. Dressing stays punchy with garlic, chili flakes, and a hint of sweetness. A vegan cold bowl with layers of crisp, silky, creamy, and spicy notes."
-metaDescription: "Silken Tofu Peanut Bowls make a balanced meal. Quick prep. Fresh flavors blend. Ready in under 30 minutes."
-ogDescription: "Enjoy Silken Tofu Peanut Bowls. Crunchy, creamy. Vegan delight with tangy dressing. Perfect for a quick meal."
-focusKeyphrase: "Silken Tofu Peanut Bowls"
+description: "Silken tofu peanut bowl with rice vermicelli, cucumber, avocado, and lettuce. Tangy peanut garlic dressing with soy and rice vinegar. Ready in 30 minutes."
+metaDescription: "Silken tofu peanut bowl recipe with rice vermicelli, cucumber, avocado, and peanut garlic dressing. Fresh vegan salad. Make it tonight."
+ogDescription: "Silken tofu torn with rice vermicelli, cucumber, avocado, and crispy peanut garlic dressing. Vegan, fresh, ready in 30 minutes."
+focusKeyphrase: "silken tofu peanut bowl"
 date: 2025-07-23
 draft: false
 image: silken-tofu-peanut-bowls.jpg
@@ -21,9 +21,14 @@ tags:
 - "asian"
 - "vegan"
 keywords:
-- "tofu recipes"
-- "cold salads"
-- "peanut dressing"
+- "silken tofu peanut bowl"
+- "vegan tofu peanut bowl"
+- "peanut garlic dressing"
+- "tofu salad recipe"
+- "rice noodle bowl with tofu and avocado"
+- "vegan asian salad"
+- "asian cucumber salad with peanut sauce and tofu"
+- "silken tofu vermicelli salad with peanut dressing"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "280"
@@ -70,3 +75,76 @@ faq:
 - "q: Can I use different nuts? a: Stick to peanuts in dressing. Alternatives might change flavor. Other nuts can be toppings. But keep it nut-free for base."
 
 ---
+
+Tear the tofu straight into the bowl. Rice noodles go in soft and kind of slippery. Everything works because the dressing does the heavy lifting — it's basically just peanuts, soy sauce, vinegar, and garlic fighting each other in the best way.
+
+## Why You'll Love This Silken Tofu Peanut Bowl
+
+Takes 28 minutes total, and most of that's just waiting for noodles to soften. The tofu doesn't need cooking — just drain it and tear it up, which is kind of perfect if you're moving fast.
+
+Cold salad that tastes better the next day. The silky tofu actually gets better when it's been sitting in the dressing. Textures shift. Flavors sharpen.
+
+Vegan and hits like you put real work in. Nobody believes it's this simple.
+
+Peanut sauce covers everything. Cucumbers, noodles, lettuce, tofu — it all just works together without you fussing.
+
+## What You Need for a Vegan Tofu Peanut Bowl
+
+**The dressing changes everything.** Roasted unsalted peanuts — 35 grams, finely chopped. Not peanut butter. The texture matters. One small garlic clove, grated fine so it dissolves almost. Fifty milliliters soy sauce (reduced sodium, or it gets too salty). Vegetable oil, 15 milliliters. Sugar, 12 milliliters — just enough to stop the vinegar from being aggressive. Rice vinegar, 10 milliliters. Red chili flakes. One and a quarter milliliters. Pepper at the end.
+
+**For the salad itself:** 80 grams rice vermicelli. The thin kind. Curly leaf lettuce, torn — 150 grams, roughly. Five Lebanese cucumbers halved lengthwise, then cut at angles so they're actual chunks, not just rounds. One firm ripe avocado, sliced thin. A whole block of silken tofu, 400 grams, drained and torn by hand. Two green onion stalks, sliced.
+
+That's it. Seven ingredients for the dressing. Five for the salad. The tofu is the secret because it doesn't need anything — just needs to be there, soft and plain, waiting for the peanut sauce to give it a reason to exist.
+
+## How to Make a Vegan Asian Salad with Tofu
+
+Water boils. Salt it lightly. Vermicelli goes in off the heat — don't actually boil them. Just soak for 5 minutes until they turn soft and give when you bend them. Drain. Rinse under cold water until they're actually cold. Drain again, really well, or they stay clumpy. Cut them into thirds with scissors or a knife. They'll be slippery. That's fine.
+
+Divide vermicelli on plates first. This matters because it's the base. Torn lettuce goes on top. Cucumbers scattered around. Avocado sliced and laid loose. Then the tofu — just tear it into rough pieces and scatter it everywhere. Don't be precious about it.
+
+## How to Get the Peanut Dressing Right
+
+Mix peanuts, garlic, soy sauce, oil, sugar, vinegar, and chili flakes in a bowl. Stir until it looks combined but still chunky from the peanuts. That's the point. Pepper goes in last — just crack some over it and taste. If it's too sharp, add a tiny bit more sugar. If it's not salty enough, more soy sauce.
+
+Drizzle it over everything while it's still kind of room temperature. The warmth helps it soak into the noodles a little. Green onions on top right before you eat. Chili crisp on the side if you want extra heat — optional but it works.
+
+Eat immediately or chill it briefly. Cold makes the tofu texture hit different — stays silky but gets firmer, and the cucumber snaps in your mouth instead of bending. The dressing thickens slightly cold. Both versions are right.
+
+## Silken Tofu Peanut Bowl Tips and Common Mistakes
+
+Don't use firm tofu here. Silken is the whole point. It's fragile and soft and that's why it works — the dressing does all the work because the tofu can't.
+
+Vermicelli texture depends on how long you soak. Five minutes is the mark. Four minutes and it's still a bit stiff. Six and it starts falling apart. Watch it after three minutes and pull it when it bends easily but still has a tiny bit of resistance.
+
+The avocado has to be ripe. Not hard. Not brown either. That specific moment where it gives when you press it and the skin is still bright green. If it's not ripe when you buy it, slice it anyway and let it sit out an hour. Sometimes works.
+
+Don't skip the rice vinegar. White vinegar is too sharp and too acidic. Apple cider works in a pinch but tastes different. Rice vinegar is specific for a reason.
+
+Lebanese cucumbers are smaller and thinner-skinned than regular ones. You could use regular cucumbers halved and seeded. But Lebanese ones have fewer seeds and more actual flavor. Worth hunting for if your store has them.
+
+The dressing makes or breaks this. The rest is just vegetables. Don't rush the dressing. Make sure the garlic is actually grated, not chunked. Make sure the peanuts are chopped fine. These two things matter way more than anything else.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tofu Salad Recipes
+
+**Can I make this ahead?**
+Noodles and dressing fine. Keep them separate. Add the dressing maybe an hour before eating. The avocado and tofu should go in right before you eat — avocado browns, tofu gets weird if it sits in dressing too long.
+
+**What if I don't have rice vinegar?**
+Apple cider works. Tastes slightly different but not bad. Don't use white vinegar. Too sharp.
+
+**Is this actually vegan?**
+Completely. No animal products. The peanuts are unsalted, the soy sauce is soy sauce. Green onions are green onions. Check your chili flakes — some brands add weird stuff but most are fine.
+
+**Can I use regular peanut butter instead of chopped peanuts?**
+Technically yes but the texture's wrong. It gets smooth and coats everything the same way. The chopped peanuts give you actual chunks that crunch. Different dish if you change that.
+
+**How much does this actually serve?**
+Two people, generously. One if you're hungry and want seconds. Doubles easy if you just double everything.
+
+**Does the tofu need to be pressed?**
+Silken tofu is already soft and has less water than firm tofu. Draining is enough. Pressing it would just destroy it.
+
+**Can I make the dressing spicier?**
+More chili flakes, yeah. Or add actual fresh chili. Or use the chili crisp on the side instead of mixing it in — gives you control over how hot your bite is.
