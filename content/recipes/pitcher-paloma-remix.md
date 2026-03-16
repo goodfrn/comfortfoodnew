@@ -1,10 +1,10 @@
 ---
-title: "Pitcher Paloma Remix"
+title: "Pitcher Paloma Remix with Yuzu & Grapefruit"
 slug: "pitcher-paloma-remix"
-description: "Grapefruit juice melds with tequila and lime in a chilled pitcher cocktail. Salt and simple syrup balance tartness while soda adds fizz. A twist swaps lime for yuzu, brightening sharp edges. Chill an hour or when cold enough to dull your fingertips. Prep glasses with salted rims using grapefruit wedge. Pour partly, top with grapefruit soda, garnish mint and wedge. Perfect for crowd, 8-10 servings. Watch ice amount—too much waters down, too little kills chill."
-metaDescription: "Pitcher Paloma Remix blends grapefruit, yuzu, tequila, salt, and soda chilled for 8-10 crowds. Chill time controls ice dilution and fizz balance."
-ogDescription: "Grapefruit and yuzu juice meet tequila in a cooler pitcher. Salt and syrup balance tartness. Chill an hour; watch ice for punch control."
-focusKeyphrase: "Pitcher Paloma Remix"
+description: "Pitcher paloma remix blends grapefruit juice, tequila blanco, and yuzu for a refreshing citrus cocktail. Grapefruit soda adds fizz to this crowd-pleasing party drink."
+metaDescription: "Make this pitcher paloma remix with grapefruit juice, tequila blanco, and yuzu juice. Perfect citrus cocktail for crowds. Try it tonight."
+ogDescription: "Grapefruit juice meets tequila blanco and yuzu in this refreshing pitcher cocktail. Crowd-pleasing citrus remix with grapefruit soda."
+focusKeyphrase: "pitcher paloma remix"
 date: 2026-01-16
 draft: false
 image: pitcher-paloma-remix.jpg
@@ -20,9 +20,16 @@ tags:
 - "drink"
 - "party"
 keywords:
-- "grapefruit juice"
-- "tequila blanco"
-- "simple syrup"
+- "pitcher paloma remix"
+- "grapefruit tequila cocktail"
+- "yuzu paloma remix"
+- "yuzu tequila cocktail"
+- "paloma cocktail recipe"
+- "party pitcher cocktail"
+- "citrus pitcher drink"
+- "grapefruit soda tequila cocktail"
+- "grapefruit juice tequila drink"
+- "fresh citrus pitcher cocktail"
 breadcrumb: ["Home", "Recipes", "Cocktails and Alcoholic Drinks"]
 nutrition: 
  calories: "140"
@@ -63,3 +70,53 @@ faq:
 - "q: How to store leftovers? a: Refrigerate pitcher covered. Stir before pour later or flavor separation. Drink doesn’t age well hours. Soda topping last minute. Avoid long times or fizz dies. Can store cocktail base separate from soda."
 
 ---
+
+Fifteen minutes of prep, then you basically ignore it for an hour. Three pounds of fresh grapefruit, a bottle of tequila blanco, and yuzu juice that tastes nothing like lime—it's sharper, almost floral. This is the pitcher drink that actually impresses people without being complicated.
+
+## Why You'll Love This Grapefruit Tequila Cocktail
+
+Makes enough for a crowd without you standing at the bar the whole time. Yuzu adds something lime can't—brightness without the sharp edge. Works cold straight from the pitcher, which means guests pour their own and you're not stuck playing bartender. Salt rim actually stays on because the grapefruit wedge keeps it wet. The soda goes in last so it stays fizzy—not flat by the time the third person pours. One pitcher feeds six easily, maybe more if people sip slow.
+
+## What You Need for a Fresh Citrus Pitcher Cocktail
+
+Thirty-two ounces of fresh grapefruit juice. Not bottled. Not from concentrate. Pulp settles fast, so strain it unless you like the grit. Three ounces of yuzu juice—that's the whole thing, this isn't a lime swap, yuzu is different. Ten ounces of tequila blanco. Something decent. Mixto tequila tastes like regret. Six ounces of simple syrup, reduced slightly because fresh citrus is already sweet enough. Kosher salt. The chunky kind, not table salt—it sticks better to the rim. Grapefruit soda to top. The real stuff, not diet, not flavored lemonade. Ice, solid cubes, not crushed. And grapefruit wedges plus fresh mint for the finish.
+
+## How to Make a Yuzu Paloma Remix
+
+Start by juicing. Fresh grapefruit, fresh yuzu. The smell tells you if something's off before you even taste it. Yuzu's sharper than anything you've mixed before—expect that floral brightness. Strain the grapefruit unless you actually want pulp floating around. Most people don't, but texture matters.
+
+Grab a fifty-ounce pitcher. Pour in the grapefruit juice, then tequila, then yuzu juice, then simple syrup, then salt. Stir with a bar spoon—the long kind—because salt distributes slowly and clumps form if you don't actually mix. Add a small handful of ice now. Not a full pitcher's worth. Just enough to cool it slightly. Too much ice early means dilution before people even drink it.
+
+Put it in the fridge. Fifty-five minutes minimum. I check by sticking a finger in—should feel cold but not icy cold yet. Cold enough that condensation beads on the pitcher. Don't rush this. Adding soda before it's chilled waters everything down.
+
+## How to Get the Grapefruit Soda Tequila Cocktail Right
+
+Glass prep matters more than people think. Pour kosher salt on a plate—the bigger crystals work better than fine salt because they don't dissolve the second they touch the juice. Take a grapefruit wedge and run it around the rim, all the way around. Wetness is key. Then dip the rim straight down into the salt pile. If it's too chunky, tap off excess or it'll slide off when people drink.
+
+Fill the glass with ice. Solid cubes, not crushed—crushed melts too fast and the drink gets watered down halfway through. Pour the cocktail from the pitcher until the glass is roughly two-thirds full. Then top with grapefruit soda, slowly. Soda fizzes and foams, so if you pour fast it overflows and you lose carbonation. Slow pour keeps the bubbles.
+
+Mint sprig and a grapefruit wedge. That's it. Mint releases its aroma as you sip—it actually matters. Over-garnish looks like you're trying too hard.
+
+Give the pitcher one last stir before serving the next round. The citrus and tequila separate naturally as it sits. That's fine. Stir once and flavors blend back. Don't shake the pitcher or the soda loses all its bubbles and you're stuck with flat punch.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Paloma Cocktail Recipe
+
+**Can I make this ahead the night before?**
+Mix everything except the soda. Chill overnight. The flavors actually get better—more cohesive. Add soda right before serving or it'll go flat.
+
+**What if I can't find yuzu juice?**
+Lime works but you'll lose that floral thing. Meyer lemon is closer to yuzu's brightness than regular lemon. Not identical, but closer. Haven't tried key lime. Probably fine.
+
+**How long does this actually last in the pitcher?**
+Stays good for maybe three hours. After that the ice melts into the drink and it gets diluted. If people aren't finishing it, pour the remainder into individual glasses so it doesn't keep watering down.
+
+**Is the salt rim necessary or just for looks?**
+Changes the whole drink. Salt hits your tongue first, balances the citrus acid, then the tequila. Without it, tastes one-note. Worth the extra thirty seconds.
+
+**Can I use canned or bottled grapefruit juice instead?**
+It works. Won't taste as bright. Fresh is sharper and that's what you're paying for here. Processed juice tastes muted against the yuzu.
+
+**Why does my salt rim keep sliding off?**
+Rim's too dry. The grapefruit wedge juice needs to stay wet the whole time you're dipping. Also if your salt is too fine it won't grip—kosher salt crystals catch on the glass better.
