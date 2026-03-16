@@ -1,10 +1,10 @@
 ---
-title: "Lemon Saffron Risotto"
+title: "Lemon Saffron Risotto with Roasted Fennel"
 slug: "lemon-saffron-risotto"
-description: "Lemon saffron risotto with roasted fennel and asparagus, toasted pine nuts, and a splash of white wine. Uses buttery sautéed onions, garlic, and creamy Arborio. Roasting veggies at high heat to get crisp edges, bringing out sweetness. Traditional risotto technique with slow broth absorption, aromatic saffron threads, and zesty lemon finish. Substitutions include chicken stock or vegetable broth alternatives and sun-dried tomato for a twist. Focus on watching rice texture and liquid evaporation rather than strict timing. Final dish bright, rich, with crunchy nuts and roasted veggie earthiness."
-metaDescription: "Lemon Saffron Risotto with roasted fennel and asparagus, creamy Arborio rice simmered slowly, toasted pine nuts, fresh lemon zest and juice, bright and textured dish"
-ogDescription: "Creamy Arborio rice, saffron warmth, roasted fennel and asparagus crunch, toasted pine nuts, bright lemon finish. Watch textures, timing flexible. Rustic Italian style risotto"
-focusKeyphrase: "Lemon Saffron Risotto"
+description: "Lemon saffron risotto made with creamy Arborio rice, roasted fennel and asparagus, toasted pine nuts, and white wine. Bright, rich comfort food."
+metaDescription: "Make lemon saffron risotto with Arborio rice, roasted fennel, asparagus, and toasted pine nuts. Creamy, zesty, and elegant. Try it tonight."
+ogDescription: "Creamy lemon saffron risotto with roasted fennel, asparagus, and toasted pine nuts. Elegant and easy."
+focusKeyphrase: "lemon saffron risotto"
 date: 2025-10-27
 draft: false
 image: lemon-saffron-risotto.jpg
@@ -21,9 +21,15 @@ tags:
 - "asparagus"
 - "easy dinner"
 keywords:
-- "risotto"
-- "saffron"
-- "lemon zest"
+- "lemon saffron risotto"
+- "risotto with lemon and saffron"
+- "lemon saffron risotto with roasted fennel"
+- "saffron risotto with asparagus and pine nuts"
+- "creamy arborio risotto with white wine"
+- "roasted asparagus and fennel risotto"
+- "lemon risotto with garlic and butter"
+- "vegetarian risotto dinner"
+- "saffron risotto recipe with roasted vegetables"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -74,3 +80,81 @@ faq:
 - "q: How to store leftovers? a: Store in airtight container, fridge up to 2 days. Reheat gently with splash broth or water, stir to loosen. Risotto thickens when cold; add liquid to loosen on reheat. Can freeze but texture changes, grain softens more. Best served fresh but reheats nicely with care."
 
 ---
+
+Heat the pan first. Fennel goes in raw. Three minutes of stirring and you already know if this is working — the onion should go translucent before anything else happens, the garlic won't burn because you're watching it, and the rice toasts until it smells a little nutty. That's when the wine goes in. Not before. Not after. Then the broth comes in ladle by ladle, and you stir the whole time because that's how risotto gets creamy. Fifty-three minutes total, but only if you move steady. Most of it is just standing there, stirring, tasting, adjusting.
+
+## Why You'll Love This Vegetarian Risotto Dinner
+
+Takes 53 minutes. Not fast. Worth it.
+The lemon and saffron hit different when they're both going — saffron goes deep and almost floral, lemon cuts through it and makes everything taste brighter. Works cold the next day too, though reheated is better.
+Roasted asparagus and fennel stay crispy on the edges even after they go in. Pine nuts add texture you don't expect.
+No cream. Butter and starch do all the work. One pan, one spoon, one pot for broth. Cleanup isn't nothing, but it moves fast.
+Vegetarian but tastes like you worked harder than you did.
+
+## Ingredients for Saffron Risotto with Roasted Vegetables
+
+Olive oil. Two tablespoons. That's the gloss on the vegetables — they should shine but not swim. Fennel bulb, sliced thin. Asparagus trimmed to two-inch pieces. Both get tossed with salt and pepper and hit the oven. They roast while you handle the risotto part.
+
+Vegetable broth works. Chicken too. Four cups total. Keep it barely bubbling in a pot off to the side — warm broth gets absorbed way better than cold broth. Temperature matters more than people think.
+
+Butter. Two tablespoons unsalted. Melt it first. Then the onion goes in — one medium yellow onion, chopped fine. Not brunoise, just fine. You want it to disappear into soft and sweet.
+
+Arborio rice. One and a half cups. Don't use regular rice. Don't use short grain unless that's all you have. Arborio releases starch and that's what makes it creamy. Three garlic cloves minced. Saffron threads — a pinch, about a quarter teaspoon. Soak them first in two tablespoons warm water. The water goes in too.
+
+Dry white wine. Three quarters of a cup. Lemon zest from one lemon. Lemon juice from one lemon. Save the juice for the end. Toasted pine nuts. Quarter cup. Toast them yourself if they're not already — tastes different.
+
+## How to Make Lemon Saffron Risotto
+
+Oven goes to 410. Toss the fennel and asparagus with olive oil, salt, pepper in a bowl. Make sure they're slicked but not drowning in oil. Transfer to a rimmed sheet. Roast 11 to 15 minutes — fennel goes soft and sweet smelling, asparagus gets tender with charred edges. Pull it out. Keep it warm.
+
+Put the broth in a small pot. Keep it barely bubbling. You want warm liquid ready to go, not a rolling boil. Low heat. Just moving.
+
+Butter in a big skillet. Medium-low. Let it melt slow. Onion goes in. Stir for three to five minutes until it's translucent and soft — you're looking for the smell of sweet onion, not browning. Add the garlic. Cook one to three more minutes. Stir constantly. Garlic should smell good. Not burned. Not brown.
+
+Pour the Arborio rice in. Stir non-stop. You want every grain coated in butter. Keep stirring until you smell something nutty coming off it — that takes about three to five minutes. The grains start to look a little translucent at the edges. Listen for tiny pops and crackles. That means it's ready.
+
+## How to Get Creamy Arborio Risotto with White Wine
+
+Saffron and its soaking water go in now. Also the wine. Stir until you can't smell the alcohol anymore — four to six minutes. The rice swells slightly. Absorbs the liquid. Doesn't dry out because you keep stirring.
+
+Warm broth comes in now. One ladle at a time. Stir constantly. Scrape the bottom of the pan so nothing sticks. Wait until the rice mostly absorbs the liquid before you add the next ladle. Keep going. Twenty to twenty-five minutes of this. The rice kernels get fatter. The whole thing starts to move like one mass instead of individual grains. That's the starch releasing. That's creamy.
+
+Near the end, stir in the lemon zest. Taste it. Salt if needed. Black pepper. Stir in the roasted vegetables and pine nuts. Everything gets mixed through gently but completely.
+
+Right before you plate it — squeeze the fresh lemon juice over the top. That brightness matters. One last stir.
+
+## Saffron Risotto Recipe Tips and Mistakes
+
+Don't skip toasting the rice. That nutty smell is real and it matters. Rush it and the dish tastes flat.
+
+Broth temperature is the thing nobody mentions. Cold broth added to hot rice locks the starch and stops things from getting creamy. Warm broth keeps everything moving.
+
+Stir constantly. Not because you're stirring for flavor — you're stirring because the rice releases starch into the liquid and that starch is what makes it creamy. Stop stirring and you get gluey. Never stop.
+
+The lemon zest goes in before the juice. Zest releases oils and flavor when it's warm. Juice goes at the very end because heat kills acid and you want that bright taste. Two different lemon moments.
+
+Saffron threads — soak them first. Cold water is fine. Two tablespoons. That soaking water is where all the color and flavor went. Don't throw it out.
+
+Fennel and asparagus stay crispy because they roast first. If you cooked them in the risotto they'd turn mushy. Roast, then stir in at the end.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Risotto with Lemon and Saffron
+
+**Can you make this ahead?**
+No. Not really. Risotto needs to be eaten immediately — it keeps getting thicker as it sits. Cold the next day works fine. Reheated is actually better than cold.
+
+**Can you substitute the saffron?**
+You could use turmeric. Won't be the same. Turmeric tastes earthy. Saffron tastes like something you can't describe. Don't bother with dried herbs — tastes like nothing. If you skip saffron entirely, add more lemon zest.
+
+**What if you don't have Arborio rice?**
+Carnaroli works. Vialone Nano works. Regular long-grain rice doesn't — it won't release enough starch and the whole thing stays gritty. Short grain rice gets mushy and sticky. Not worth substituting.
+
+**Does the broth have to be vegetable?**
+Chicken broth works better actually. Fish broth works too. Beef is too heavy. Whatever you use — keep it warm. That part matters more than what kind it is.
+
+**How do you know when it's done?**
+Taste a grain. Should be soft on the outside with a tiny tiny bit of resistance in the center. The whole risotto should move when you tilt the pan — creamy but not soup. Timing is usually around 25 minutes of broth addition but your stove might run hot or cold.
+
+**Can you add more vegetables?**
+Anything roasted goes fine. Mushrooms, zucchini, bell peppers. Raw vegetables don't work — they'll stay crunchy. Roast them first if you want texture, or stir them in at the very end if you want them soft.
