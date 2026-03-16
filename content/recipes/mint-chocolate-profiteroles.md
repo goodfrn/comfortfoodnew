@@ -1,10 +1,10 @@
 ---
-title: "Mint Chocolate Profiteroles"
+title: "Mint Chocolate Profiteroles with Dark Chocolate Sauce"
 slug: "mint-chocolate-profiteroles"
-description: "Choux filled with mint-infused whipped cream, topped with a rich dark chocolate sauce. Adjusted ingredient ratios to bring freshness and subtle acidity. Replaced gélatine with agar-agar for a simpler set, swapped sirop de maïs with honey for a natural sweetness variation. Textured chocolate dough with added espresso powder to deepen flavor. Baking times and temperatures slightly tweaked to get choux perfectly hollow and crisp. Sauce emulsified with gentle whisking post rest. Filling drained through tamis to avoid leaf bits but keep herbal hints. Classic French technique with a refreshing twist and hands-on approach."
-metaDescription: "Mint Chocolate Profiteroles with mint-infused Chantilly, textured chocolate choux, and honey-sweetened chocolate sauce. Crisp hollow puffs, layered freshness and rich taste."
-ogDescription: "Choux filled with mint whipped cream, rich chocolate dough with espresso, topped with honey-dark chocolate sauce. Crisp, aromatic, and bold flavors combined."
-focusKeyphrase: "Mint Chocolate Profiteroles"
+description: "Homemade profiteroles with crispy chocolate choux, fresh mint whipped cream filling, and rich dark chocolate sauce. Learn this classic French technique."
+metaDescription: "Make mint chocolate profiteroles at home with fresh mint whipped cream and dark chocolate sauce. Crispy choux pastry, easy steps. Try it tonight."
+ogDescription: "Chocolate profiteroles with fresh mint cream and dark chocolate sauce. Crispy choux, elegant homemade dessert."
+focusKeyphrase: "mint chocolate profiteroles"
 date: 2025-08-15
 draft: false
 image: mint-chocolate-profiteroles.jpg
@@ -21,11 +21,18 @@ tags:
 - "homemade"
 - "no bake"
 keywords:
-- "profiteroles"
-- "mint chantilly"
-- "agar agar"
-- "espresso powder"
-- "chocolate dessert"
+- "mint chocolate profiteroles"
+- "chocolate profiteroles"
+- "homemade profiteroles"
+- "mint whipped cream chocolate profiteroles"
+- "dark chocolate sauce profiteroles"
+- "choux pastry mint filling"
+- "chocolate profiteroles with mint cream"
+- "mint dessert recipe"
+- "fresh mint filling"
+- "dark chocolate sauce recipe"
+- "crispy choux pastry"
+- "French dessert recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "360"
@@ -101,3 +108,63 @@ faq:
 - "q: How long store profiteroles? a: In fridge max 4 hours to keep texture; beyond that shells soften. Serve soon after filling. Separate cream and sauce if prepping early. Room temp they dry out fast; no wrap tight or fillings sink. Sauce can keep longer warming gently. For leftovers, chilling plus reheating sauce only recommended."
 
 ---
+
+Crack the oven door with a wooden spoon and let them sit. That 12 minutes inside — that's where they get hollow. That's where they get crispy. Most people skip it and end up with dense, heavy choux. Don't.
+
+## Why You'll Love This Mint Chocolate Profiteroles Recipe
+
+Takes 1 hour 40 minutes total but most of it's waiting — the cream chilling, the choux cooling. You're not actually standing there the whole time. Homemade chocolate profiteroles sound fancy. They're not. Just choux, mint cream, chocolate sauce. Three components that come together in your kitchen, no mixer required if you don't want one. The mint stays bright instead of tasting like toothpaste — infuse it right and it's fresh. Dark chocolate sauce because bittersweet cuts through all that richness. Works as a show-off dessert or a Tuesday night thing. Texture matters here more than anywhere else. Crispy shell. Hollow interior. Whipped cream that holds shape. That contrast — it's what makes them actually good. No bake time for the cream itself, just steeping and chilling.
+
+## What You Need for Chocolate Profiteroles With Mint Cream
+
+Heavy cream. 35% butterfat specifically — whole cream works better than light cream, which breaks easier. Fresh mint leaves. Not dried. Dried tastes like nothing. Agar-agar powder — a thickener that sets the mint cream to a custardy texture without gelatin. Unsalted butter, because salt in choux can mess with the rise. Flour and cocoa powder combined, plus espresso powder which deepens chocolate without making it taste like coffee. Dark chocolate — 65% cacao is the right strength here. Milk, heavy cream, sugar, honey for the sauce. Eggs. Three of them, and they need to be room temperature or the dough won't emulsify right.
+
+## How to Make Chocolate Profiteroles
+
+Start with the mint cream because it needs time. Heat 150 ml cream with sugar and mint leaves over medium heat until small bubbles form at the edges. Not a rolling boil. Just simmering gently. Remove from heat and cover it. Let it steep 12 minutes. You want the mint flavor without bitterness from overheating the cream.
+
+Soak agar-agar in cold water for 7 minutes. Sprinkle it in — don't dump the powder or it clumps and refuses to dissolve. Reheat the mint cream to very hot, then stir in the agar fast. Do this part quickly or the agar sets in lumps and you're done. Add the remaining 125 ml cold cream and stir lightly. Pour into a bowl, cover the surface with plastic wrap tight against it so no skin forms. Chill minimum 6 hours. Overnight is better.
+
+Now the choux. Preheat oven to 195°C and line a baking sheet with parchment or silicone. Combine water, milk, butter, sugar, salt in a pot. Bring to a roaring bubble and watch it — remove immediately before it goes full boil or the butter starts to burn.
+
+Add flour, cocoa, espresso powder all at once. Stir fast with a wooden spoon until the dough pulls away from the sides and forms a smooth ball. About 2 minutes. It'll be sticky but firm.
+
+## How to Get Crispy Chocolate Profiteroles
+
+Return the pot to low-medium heat and keep stirring 3 to 5 minutes. You'll see a thin film develop at the bottom and around the ball. This is essential. That's what makes the interior crisp instead of cakey. Transfer to a mixing bowl and cool it 6 minutes, stirring occasionally so the eggs won't cook when you add them.
+
+Add the eggs one by one. Mix briskly but gently. The dough gets glossy, pipeable, holds its shape. Pipe 12 rounds about 3.5 cm across onto the sheet. Space them generously because they spread.
+
+Brush the tops lightly with beaten egg wash. Don't pool it — too much liquid breaks the crust. Bake 14 minutes at 195°C. Look for a steady rise and darkened color. Lower the temp to 175°C and bake another 13 to 14 minutes until the undersides are rich chocolate brown and feel dry.
+
+Crack the oven door ajar with a wooden spoon. Leave them inside 12 minutes. This is not optional. The hollow interior is everything. Cool completely on a rack. About 1 hour. Use a serrated knife to cut the caps off. Set them aside gently.
+
+## Chocolate Profiteroles Tips and Common Mistakes
+
+The chocolate sauce is last-minute. Place chopped chocolate in a heatproof bowl. Heat milk, cream, sugar, honey to just before boil. Pour it over the chocolate and wait 1.5 minutes without stirring. Then whisk until silky and uniform. It thickens as it cools but stays pourable. Keep it warm over barely simmering water if needed.
+
+Run the infused cream through a fine sieve pressing gently to strain out mint bits. Should be smooth and aromatic. Whip the chilled cream with a mixer on medium-high until medium peaks form — fluffy but not stiff. Transfer to a piping bag with a star tip. Pipe a generous swirl into the bottom half of each chou. Fill it fully but don't overstuff or it cracks.
+
+Place the caps back on gently. Arrange on plates. Spoon warm chocolate sauce over or serve on the side. Rich bittersweet offset by bright mint cream. Eat soon or store in the fridge up to 4 hours to preserve textures. Don't make them more than a few hours ahead or the choux absorbs moisture and gets soft.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mint Chocolate Profiteroles
+
+**Can I make the choux ahead of time?**
+Bake them the day before. Store in an airtight container. They'll soften slightly but still taste good. Fill them no more than a few hours before eating or the cream makes them soggy.
+
+**What if the choux doesn't rise?**
+Either the oven temp was off or the dough didn't get dried out enough in the pot. That 3 to 5 minute stir over heat — can't skip it. Temperature matters more than you think. Invest in an oven thermometer.
+
+**The mint cream broke when I whisked it. What happened?**
+Whisking too fast or the agar didn't dissolve fully. Stir the agar into hot cream more carefully next time. Whisk gently. Broken cream won't hold peaks.
+
+**Can I use a different mint filling?**
+Straight whipped cream works. Add extract if you want mint flavor. But then it's just mint chocolate profiteroles, not the infused version. Not the same.
+
+**How do I know when the choux is done baking?**
+Undersides should be dark chocolate brown and feel dry. Not pale. Not soft. Crisp. If you're not sure, bake another 2 minutes. Better overdone than underdone on choux.
+
+**Should I make the dark chocolate sauce in advance?**
+Make it up to 2 hours before. Reheat gently over barely simmering water. It hardens as it cools so keep it warm. Cold chocolate sauce is too thick.
