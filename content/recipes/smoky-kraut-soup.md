@@ -1,10 +1,10 @@
 ---
-title: "Smoky Kraut Soup"
+title: "Kielbasa Potato Soup with Sauerkraut"
 slug: "smoky-kraut-soup"
-description: "A smoky, tangy soup combining potatoes, kielbasa, sauerkraut with herb hints. Butter starts the base; onions and celery add crunch and aroma. Potatoes soften slowly, absorbing broth and juices from kielbasa. Apple cider vinegar swaps in place of apple juice for a sharper kick. Salt and pepper adjust balance; sour cream can mellow the acidity or serve as a garnish. A slow simmer melds flavors. This dish plays on contrasts: soft potatoes, tangy kraut, smoky sausage and herbal undertones. Rustic, satisfying midweek meal with hunter’s notes."
-metaDescription: "Smoky Kraut Soup with kielbasa, potatoes, sauerkraut, and marjoram. Slow simmer melds bold, tangy, smoky flavors for a rustic Eastern European meal."
-ogDescription: "Smoky kielbasa meets tangy sauerkraut and tender potatoes in this hearty soup. Herbal notes, bright vinegar, creamy sour cream optional."
-focusKeyphrase: "Smoky Kraut Soup"
+description: "Smoky kielbasa potato soup with sauerkraut, tangy apple cider vinegar, and sour cream. Russet potatoes, onions, and celery simmer in broth for a satisfying meal."
+metaDescription: "Kielbasa potato soup recipe with sauerkraut and apple cider vinegar. Smoked sausage, russet potatoes, and sour cream make this easy comfort dish. Try it tonight."
+ogDescription: "Smoky kielbasa potato soup loaded with sauerkraut, russet potatoes, and tangy apple cider vinegar. Comfort in a bowl."
+focusKeyphrase: "potato sausage soup"
 date: 2025-11-13
 draft: false
 image: smoky-kraut-soup.jpg
@@ -21,9 +21,18 @@ tags:
 - "cabbage"
 - "comfort food"
 keywords:
-- "smoky soup"
-- "kielbasa stew"
-- "sauerkraut dish"
+- "potato sausage soup"
+- "kielbasa potato soup"
+- "potato and sausage soup"
+- "easy potato soup"
+- "sausage and potato"
+- "loaded potato soup"
+- "potato soup recipe easy"
+- "cream of potato soup"
+- "ham and potato soup"
+- "slow cooker potato soup"
+- "bacon potato soup"
+- "chicken and potato soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "280"
@@ -69,3 +78,86 @@ faq:
 - "q: How to store leftovers? a: Cool before fridge. Soup thickens, add broth or water on reheat. Freezing works fine but texture softens more. Stir well after thaw."
 
 ---
+
+Butter melts in the pot first—listen for that gentle sizzle. Diced russets go in next, and you watch them soften at the edges while staying firm in the middle. That's the whole trick right there.
+
+## Why You'll Love This Potato Soup Recipe
+
+Tastes like someone spent hours on it. Takes 34 minutes total.
+Cold nights disappear when you've got a bowl of this. Sausage gives it substance—not vegetarian, not light, just real comfort food that fills you up.
+Sauerkraut does the heavy lifting here. Adds tang and this crispy texture thing that potato soup usually doesn't have. Works cold the next day, maybe better. Flavors blend overnight.
+One pot. No cleanup nightmare. Butter, vegetables, sausage—everything cooks in the same place.
+
+## What You Need for Potato Soup With Sausage
+
+Russet potatoes. Not Yukon Gold. They break down just enough but don't turn to paste. Three of them, diced small—size matters because smaller pieces cook through without getting mushy.
+
+Smoked kielbasa. Twelve ounces, sliced thin. This isn't about being subtle. The sausage carries the whole thing.
+
+Yellow onion and celery. One medium onion, chopped. Two stalks of celery. These sweat down and disappear into sweetness.
+
+Sauerkraut. Drained and squeezed. A cup and a half. This is what makes potato soup taste different than every other version. The vinegar, the crunch, the funk—all comes from here.
+
+Chicken broth. Four and a half cups. Low sodium. You're seasoning it yourself.
+
+Apple cider vinegar. Quarter cup. Not white vinegar. Too sharp. Apple cider's got something going on that softens the punch.
+
+Dried marjoram. One teaspoon. Could use thyme. But marjoram tastes more Eastern European, which is the point of this whole thing.
+
+Butter at the start—three tablespoons. Kosher salt and black pepper. Optional sour cream for the top.
+
+## How to Make Potato Soup That Actually Works
+
+Warm the butter over medium heat in a heavy pot. You want a gentle sizzle—not browning, not foaming out of control. Just butter melting into warmth.
+
+Throw the diced potatoes in. Stir every minute or so. Watch them. In about 5 minutes you'll see the edges start going translucent while the centers stay firm. This is textbook for potato soup—if you rush through this part, they get mushy later. If you skip it, they won't cook evenly. The broth won't emulsify right. Patience does something here.
+
+Onion and celery go in next. The kitchen shifts smell—sweet onion rising up, celery still crisp but giving way. Around 4 minutes and they're nearly tender. The onion stops biting your mouth. The celery's soft but still has shape. Don't let them brown. Don't let them go limp. That moment between, that's when you move forward.
+
+Kielbasa slices hit the pot next and the whole thing gets smoky. Sharp. Smells like Eastern Europe in here now. Toss the sauerkraut in with the marjoram. Quick stir—90 seconds, that's all. You want the flavors to say hello to each other, not for the kraut to shrink into sad strings. It's already been through enough.
+
+## How to Build Potato Soup Flavor Without Overcooking It
+
+Pour the chicken broth in. Lower the heat. You're looking for small bubbles—a gentle simmer, not a rolling boil. This part takes time, usually 7 to 12 minutes. Press a potato cube against the side of the pot with your spoon. It should collapse like it's tired. Creamy inside, no resistance. That's done.
+
+Stir in the apple cider vinegar. This is where the whole thing wakes up—the brightness hits and suddenly it's not just heavy. It's alive. If you want it less sharp, swap honey and water for the vinegar. Works fine either way.
+
+Now taste it. Salt and pepper. Go slow. The sauerkraut brought salt with it. The sausage brought salt with it. You're probably closer to done than you think. Better to add less and fix it later than dump in too much.
+
+Sour cream's optional. I swirl it on top when serving so people can choose. Calms the vinegar, adds a richness that makes it stick to your ribs. Some nights I skip it. Depends what else is happening.
+
+## Potato Soup Tips and Why It Goes Wrong Sometimes
+
+The butter can't brown. If it does, start over. Brown butter tastes nutty and wrong in this soup. You want clean butter flavor.
+
+Potatoes matter more than you think. Cut them small and even. Cook them halfway through with nothing else. This sounds tedious. It's not. It's 5 minutes and it's the difference between soup that feels right and soup that feels separated.
+
+Sauerkraut has to be squeezed. Liquid in the jar is acid and salt and old cabbage juice. Squeeze it like you're mad at it. Gets half the water out. The soup stays brothy instead of becoming pickle juice.
+
+Loaded baked potato soup gets thick because of cream. This soup stays pourable because we're not doing that. If yours gets thick overnight, add broth or water when you reheat. Everything melds better the next day anyway.
+
+Slow cooker version works. Eight hours on low with everything except the vinegar and sour cream. Add those at the end. Potatoes fall apart though—expect mushier soup, which some people like.
+
+Crock pot potato soup is the same thing. Low and slow. Results taste deeper but texture suffers. Trade-off.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Potato Soup Recipes
+
+**Can I use red potatoes instead of russets?**
+Red potatoes hold their shape too much. They won't break down and thicken the broth. Russets are starchy—they're built for soup.
+
+**What if I don't have smoked kielbasa?**
+Doesn't work the same. Kielbasa's got this smoky thing that plain sausage doesn't have. You could try smoked turkey sausage. Not as good but passable. Just use something smoked.
+
+**How long does this potato soup recipe keep?**
+Four days in the fridge, covered. Freeze it. Thaw it. Reheats fine. The flavors actually get better overnight when everything's had time to settle into each other.
+
+**Can I make this in a slow cooker?**
+Yeah. Eight hours on low. Everything goes in together except the vinegar and sour cream. Add those at the end. Potatoes get softer than the stovetop version—almost fall apart. If you like that texture, go for it.
+
+**Do I have to use apple cider vinegar?**
+Yes. White vinegar tastes aggressive and wrong. Wine vinegar's too fancy. Apple cider's got body. It mellows instead of stabs.
+
+**What's a good substitute for sauerkraut?**
+Nothing. This is what makes it different than every other potato soup. If you don't want sauerkraut, make a different soup. This soup is sauerkraut soup that happens to have potatoes in it.
