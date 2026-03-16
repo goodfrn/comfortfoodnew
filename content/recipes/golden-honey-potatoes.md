@@ -53,12 +53,20 @@ instructions:
 - "Potatoes should be very tender and glazed when done."
 - "Remove garlic cloves or squeeze softened garlic onto potatoes before serving."
 - "Serve with slices of pan-seared smoked turkey breast or your preferred protein."
+introduction: "Potatoes, sweet and sticky. Maple syrup instead of honey. Duck fat for richness, not butter. Shallots bring deeper onion flavor than usual onions. Peeling potatoes—the slow, steady work. Garlic cloves unpeeled, roasting inside skin to mellow. The smell when shallots sizzle in duck fat thick, rich. Broth adds moisture but keeps potatoes glossy and soft. Cook low and slow under cover, the steam created keeps insides tender and skins just sticky enough. Flip potatoes often or sugar burns. The garlic goes from sharp bite to buttery smooth. Side dish, but with smoky seared meats—winter dinner. Potatoes in the spotlight."
+ingredientsNote: "Replacing onions for shallots ups the complexity—more subtle, slightly sweet. Duck fat instead of butter adds a rounder, meaty flavor and higher smoke point. Maple syrup swaps honey for softer sweetness and a whisper of woodsy taste. Garlic left unpeeled to roast within protects it from burning and gives a spreadable texture when done. Use Yukon Gold for their waxy texture and buttery color—they hold shape yet yield softness. Chicken broth hydrates while imparting savory depth missing from water. Salt and pepper added to enhance natural flavors, not overpower. Quantities adjusted slightly for balance and new ingredients."
+instructionsNote: "Start by heating duck fat until shimmering; caramelizing shallots deeply develops savory base. Add potatoes and garlic, pour in liquids, seasoning carefully so potatoes absorb flavor but broth doesn’t drown them. Bring to boil ensures initial heat penetration. Covering skillet traps steam aiding in even cooking and glowing glaze formation. Oven temperature set slightly lower to preserve tender texture over extended cook. Flip potatoes multiple times so syrup coats all sides, prevents sticking or scorching. Use sturdy lid or foil to hold moisture tightly. Garlic softens completely during roasting—can be pressed out onto potatoes before serving, adds gentle pungency. Serve hot with a contrasting protein for balance."
 tips:
 - "Start with high heat. Shimmering duck fat? Perfect. Caramelizing shallots deeply? Builds flavor base. Avoid burning. Don't rush this part. Even browning is key."
 - "Remember to turn potatoes well. Every 20 minutes. Glaze formation? Important. Rolling them around gets even coating. Otherwise? Parts burn."
 - "Garlic left unpeeled works wonders. Protects from burning. Softens to spreadable goodness. Perfect topping. Use this technique often for roasted dishes."
 - "Covering with tight lid or foil traps steam. Helps cook evenly. Too much moisture, though? Not good. Maintain balance—just enough steam is ideal."
 - "Broth adds depth. It's not just water. Chicken broth enhances overall flavor. Adds savory richness. But don't drown the potatoes. Just a cup is plenty."
+faq:
+- "q: How long to roast Golden Honey Potatoes? a: About 1 hour 20 minutes. Turn every 20 minutes to coat. Ensure even tenderness and glaze. Check doneness."
+- "q: What if I don’t have duck fat? a: Substitute with olive oil. Or butter, though flavor differs. Taste changes a bit, but still good. Experiment with oils."
+- "q: Can I use other potatoes? a: Yes, but Yukon Gold preferred. Waxy texture holds well. Other types may fall apart. Adjust cooking times for them."
+- "q: How to store leftovers? a: Store in fridge. Airtight container works best. Use within 3 days. Can also freeze, but texture changes."
 
 ---
 

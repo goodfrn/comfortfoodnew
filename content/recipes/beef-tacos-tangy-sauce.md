@@ -67,6 +67,9 @@ instructions:
 - "Flip tacos carefully, add cheese slice on top. Cook additional 1-2 minutes until beef done and cheese melted."
 - "Remove from heat. Immediately spoon sauce over each taco, sprinkle lettuce and chopped pickles to taste."
 - "Fold tacos in half, serve hot."
+introduction: "Ground beef pressed thin on soft flour tortillas. Two pans, one taco per each, pressed hard with a spatula. Quick sizzling, juices squish out. Melted sharp cheddar orange on top, gooey. Then a cold sauce, tangy mayo mixed with chopped onions and pickle bits plus sweet pickle relish. Dijon mustard instead of ketchup—for bite. Salt and garlic powder in meat. Iceberg shredded fresh, crisp. Mix that crunchy pickle in. Fold tacos, serve fast before cheese congeals. Chilling sauce keeps fridge ready for days. Total under 45 minutes. Quick but funky flavors. Textural play—crispy edges, gooey cheese, tender meat, sharp fresh sauce. Perfect for a rushed dinner or casual bite with friends. Four servings."
+ingredientsNote: "Sauce swaps ketchup for Dijon mustard, deeper tang. Mayonnaise balances acidity. Diced onion adds bite, sweet pickle relish for texture and zing. Dill pickles chopped fine; hide them lightly in sauce and on tacos for surprise crunch. Ground beef lean but juicy enough. Garlic salt adds more than salt alone; a punch. Flour tortillas easy to fold and crisp up nicely in pan. Sharp orange cheddar cheese melts real quick—use existing sharp or mild cheddar for milder notes. Vegetable oil brushes keep tacos crisp, but can swap for avocado oil. Lettuce fresh and crunchy, shredded finely rather than big pieces. Keep all cold elements chilled until serving. Store sauce in airtight container. Can tweak sugar levels in sauce for sweetness tweak."
+instructionsNote: "Start with sauce, gives time for flavors to meld. Mix well, chill minimum 15 minutes but up to a week ahead. Combine beef and seasonings last to keep fresh. Spread thin on tortillas—less is more, easier to crisp. Heat two pans to save time. Light oil, medium heat; avoid smokey burn. Press tacos every 30 seconds for juices to seep out, yields crisp edges. Flip carefully, add sliced cheddar on top edges. Cook 1-2 more minutes to melt cheese and finish meat. Remove quickly to avoid overcooking. Immediately sauce and toppings add freshness. Fold neat, serve hot. Leftover sauce good for sandwiches or salads. Slight cooking time variance changes crispiness, adjust to preference within 1-3 minute range both sides. Serve with napkins, slight mess guaranteed."
 tips:
 - "Start by mixing the sauce. Use cold mayo. Chop onions real fine. Different sizes won't blend well. Let chill. Flavors meld. Can do a day ahead. Keeps a week."
 - "For the beef, lean is key. Too fatty won’t crisp. Use garlic salt. Better than regular. Add fresh pepper too. Mix well but don’t overwork it. Firm but not mushy."
@@ -74,6 +77,11 @@ tips:
 - "Flipping technique important. Use a spatula. Don’t drop. Cheese on top adds creaminess. Watch that cheese melt. Remove when golden edges show. Don’t overcook; tough meat."
 - "Sauce great on sandwiches too. Store in airtight. Easy to make more. Adjust sugar levels if needed. Sweetness not for everyone. Just keep cold till ready."
 - "Fresh lettuce for crunch. Shred it real fine. Big pieces won’t work. Keeps tacos neat. Pickles add bite. Mix chopped ones in sauce. Surprises in every bite."
+faq:
+- "q: How do you store leftovers? a: Refrigerate tacos wrapped. Keep sauce separate. Tacos soggy if mixed. Lasts a day or two. Longer? Components separate."
+- "q: Can I use other proteins? a: Sure. Ground turkey works. Chicken too. But beef has bold flavor. Adjust cook times for different meats. Mind the greasiness."
+- "q: What if I can’t find cornichons? a: Any pickles will do. Dill works well. Even sweet options. Slices or chopped. Just keep texture crunchy."
+- "q: Can this be made ahead? a: Yes focus on sauce. Make it earliest. Keeps flavors intact. Tortillas last well too. Cook meat the same day though."
 
 ---
 

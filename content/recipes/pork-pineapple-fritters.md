@@ -87,12 +87,20 @@ instructions:
 - "Bring to brief boil to marry flavors."
 - "Sprinkle generously with sesame seeds."
 - "Serve alongside crisp Asian vegetable salad."
+introduction: "Pork strips, pineapple, batter — mix. Sweet, sour, spicy, crisp. Sauce thickened with starch, star anise gives subtle licorice background. Smoked paprika instead of cayenne adds warm depth. Fried in hot peanut oil for crunch. Batter has more starch and flour, a bit more curry powder, more pineapple juice, water swapped slightly. Star anise remains, but the sauce is a touch sweeter with brown sugar, vinegar dosage raised. Fry time nudged to 4–6 minutes for perfect gold. Serve hot. Sesame seeds for crunch and nuttiness. Asian salad balances richness."
+ingredientsNote: "Measurements shifted up or down roughly 30%. Starches changed — tapioca and corn mix for sauce thickener. Brown sugar over white for richer caramel notes. Smoked paprika replaces cayenne to give smoky warmth, more mellow. Added curry powder increased slightly for paprika's flavor to shine. Water in batter balanced with pineapple juice for moisture and tang. Pork preference: thin-cut pork steaks maintain chew and absorb sauce better. Sesame seeds can be toasted black or white. Oil recommendations focus on peanut or vegetable due to high heat tolerance. Keep ingredients chilled for batter to crisp better on frying."
+instructionsNote: "Adjust heating times ±5% from original. Caramelizing sugar until amber is key for flavor base. Stir starch slurry in carefully or sauce lumps. Don't rush frying small batches; overcrowding lowers oil temp, soggy crust. Oven at 95 °C low temp keeps fritters crisp, warm without losing crunch. Toss pork in batter thoroughly for even coat but don't soak too long — prevents gummy texture. Quick boil after mixing sauce and beignets melds flavors. Final sesame sprinkle adds to aroma and texture contrast. Serve immediately with fresh, crisp salad for acidic bite."
 tips:
 - "Keep oil hot, about 180-190 °C. Check with a small batter drop. If it sizzles, ready. Don't overcrowd pan. Overcrowding lowers temp. Soggy instead of crispy."
 - "Pineapple juice adds sweetness but balance with other flavors. Use good quality fruit. Fresh is best. Adjust sauce sweetness to your taste. Add vinegar for tang."
 - "Batter mixing is important, but don’t overdo it. Whisk gently to avoid lumps. Too much mixing makes it tough. Chill batter beforehand. Cold helps achieve crispiness."
 - "Star anise in sauce gives a unique background taste. Don't skip it. Adds depth to sauce. Try using other spices if needed. But star anise works best here."
 - "Serve immediately. These fritters become soggy over time. The sauce is thick, coating well but timing is key. Make salad right before serving. Freshness is crucial."
+faq:
+- "q: How to store leftover fritters a: Keep in airtight container. Fridge is best. But they lose crunch. Can reheat in oven. Not in microwave."
+- "q: Can I use different meat a: Yes, chicken or shrimp works too. Both absorb flavors better than pork. Adjust cooking time for different meats."
+- "q: What if the batter is too thick a: Thin with more cold water. But make it too runny and fritters won't hold shape. Aim for smooth, coat should be even."
+- "q: Can I freeze these fritters a: Yes, freeze after frying. Use parchment paper between layers. Reheat straight from freezer but correct frying time."
 
 ---
 

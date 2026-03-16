@@ -71,12 +71,20 @@ instructions:
 - "Cook for another 10 minutes. Slowly pour the beaten egg into the steaming soup."
 - "Stir and cook for 1 minute. Adjust seasoning."
 - "Serve hot. Garnish with fresh cilantro and lemon wedges."
+introduction: "Rich and flavorful. Moroccan-inspired soup. Lamb and legumes combine nicely. Tasty spices make it aromatic. Hearty for cold days. Brightened with lemon."
+ingredientsNote: "Use dried green lentils. They hold up better. Kidney beans add creaminess. Adjust spiciness with chili paste. For a variation, add carrots or sweet potatoes. Use an alternative to lamb like beef or chicken. Can also make it vegetarian by removing meat. Use vegetable broth instead of water."
+instructionsNote: "Prepare all ingredients before cooking. This helps streamline the process. Use a large pot for better simmering. Make sure to stir frequently towards the end. This prevents sticking. Test lentils for doneness. They should be tender but not mushy. Add more water if soup becomes too thick."
 tips:
 - "Use dried green lentils. They hold up better than canned. Canned will get mushy. Rinse before using. Lentils need to be tender but not mushy. Test them while cooking for perfect doneness."
 - "Adjust spice level to your taste. Add more chili paste for heat. Less if you don't like spicy. Fresh herbs like cilantro add freshness. Saffron is bold but costly. Use wisely. Experiment with balance."
 - "Use broken spaghetti or vermicelli. Cook until al dente. It will continue to cook in the soup. Start with a small amount. Stir often to avoid sticking on the bottom. Add more if you need heartiness."
 - "If it thickens too much, add water slowly. Stir well. Soup should be soupy, not too thick. Keep an eye while simmering. The longer it simmers, the richer the flavor. Don’t forget to taste as you cook."
 - "For extra flavor, add a bay leaf while cooking. Remove it before serving. Carrots or sweet potatoes can be added for sweetness. They also work well with spices. Adjust cooking time as needed."
+faq:
+- "q: What can I use instead of lamb? a: You can try beef or chicken, but adjust cooking times. More tender cuts will cook quicker. Alternatively, make it vegetarian."
+- "q: Can I freeze the soup? a: Yes, portion it out first. It lasts 3 months in the freezer. Thaw overnight in the fridge. Reheat slowly on the stove. But avoid boiling."
+- "q: What to do if soup is too salty? a: Add more water or unsalted broth. This can balance flavors. You can also add potatoes to absorb saltiness. Cook until tender."
+- "q: How do I store leftovers? a: Keep in airtight containers. Refrigerate them within two hours. They last 3-4 days max. Reheat fully before eating. Again, stir well."
 
 ---
 

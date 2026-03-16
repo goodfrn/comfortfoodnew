@@ -71,12 +71,20 @@ instructions:
 - "Set on a baking sheet."
 - "Bake for 50 minutes until golden brown."
 - "Let it rest for 10 minutes before serving."
+introduction: "Potatoes and chicken. That's what this is. Creamy and cheesy. Layers of richness. The combination of flavors is great. Ham is good, chicken is better for a twist. Brie on top, melts down beautifully. Wine adds a nice depth. Bake it until golden."
+ingredientsNote: "Using unpeeled potatoes gives texture. Chicken instead of ham for lighter taste. Brie adds creaminess. Heavy cream makes it richer. Adjust seasonings to your liking. Serve warm for maximum flavor impact."
+instructionsNote: "Cooking is a bit of a process. Start with the potatoes. Then prepare the chicken mix. Layer everything carefully. Cream goes on top for richness. Pay attention to cooking time. Bake until the surface is bubbly."
 tips:
 - "Use firm potatoes. Texture matters. Russets are good for this. Wash them but don’t peel. Skin adds crunch. Helps with structure. Cut into rounds after cooking. Don’t slice too thin. Aim for a sturdy layer."
 - "Shallots add depth. They become sweet when cooked. Don’t rush cooking. Medium heat works best. They should turn golden. Toss in wine after. Evaporate it fully. Helps avoid sogginess in bake. Keep the layers light."
 - "Brie on top is important. Halved brie melts beautifully. Make sure it covers evenly. Rind side up helps it hold shape. Creaminess flows into potatoes. Heavy cream is rich. Pour it on generously."
 - "Check potato doneness with knife. It should be firm not mushy. Too soft means a mess later. If unsure, cook less time. Layer carefully in dish. Evenly distribute chicken. Balance flavors throughout bake."
 - "Baking time critical. Golden brown looks good. Rest before serving. Let flavors settle. Essential step for taste. Serve warm for best impact. Creamy and cheesy goodness. Keep leftovers stored cool."
+faq:
+- "q: Can I substitute chicken? a: Yes, ham works. Or turkey if needed. Adjust cook time a bit. Might change flavor profile. Chicken is lighter though. Try whatever you prefer."
+- "q: What if my bake is too runny? a: Check cream amount. Too much can drown layers. Also, allow to bake longer. Look for bubbling edges. Grab a ladle if excess appears."
+- "q: How to store leftovers? a: Store in fridge cool. Use airtight container. Keeps for 3-4 days max. Reheat in oven for best results. Microwave works but quality drops."
+- "q: Can you freeze this dish? a: Yes, up to 3 months works. Ensure it’s tightly sealed. Defrost in fridge overnight. Reheat thoroughly before eating. Texture may change a bit."
 
 ---
 

@@ -65,12 +65,20 @@ instructions:
 - "Heat large nonstick pan. Spread pork slices evenly. Pour reserved cooking liquid over. Boil and reduce, spooning liquid over pork as it thickens until sauce coats slices and evaporates, about 11 minutes."
 - "=== Assembly ==="
 - "Spread inside buns with plum sauce. Add pork slice. Top with cucumber, green onions, coriander, and chili if used."
+introduction: "Think pork belly, rich and fatty, soaking in a marinade dark with soy and sweetened by brown sugar. Star anise instead of five spice for sharper licorice notes. Patience key. Overnight soak. Then a long slow bath in broth with green onions blistered for smoky undertones. Baking till fat melts, meat tender but still sliceable. Chilling gives flavors time to marry, fat to firm up for neat slicing. Finish with a fierce reduction, sticky glaze clinging to each piece. Steamed buns, plump and soft, plum sauce salty-sweet in place of hoisin. Crunchy cucumber, fresh herbs, optional heat. Handheld bites of complex texture and tone. Not fussed on nuts, dairy or eggs here. Comfort but layered."
+ingredientsNote: "Soy sauce ensures salty depth; dark preferred but regular fine. Brown sugar swaps white to add molasses warmth. Star anise ground replaces the five-spice mix, less complex but floral and distinct. Pork belly cut yields layers of fat and meat; marinate thoroughly for flavor penetration. Green onions charred in dry pot give subtle smokiness to broth. Chicken broth adds savory body but kept low sodium so final sauce isn't overpowering. Buns steamed to softness and warmth holds fillings well. Plum sauce instead of hoisin for a tangy fruitiness that plays off rich pork. Cucumber unpeeled for textural contrast, thin slices crisp. Coriander fresh, leafy, herbaceous lift. Chili deseeded tempers heat but crucial for those wanting kick."
+instructionsNote: "Marinate fully for best infusion, lifting pork from time to time. Discard marinade—no risk of raw contamination. Oven heat steady at 175 °C ensures tender slow cooking; higher temps risk drying meat. Cook covered to trap moisture, flipping midway to promote even softness. Cooling step necessary before slicing to firm up pork and make neat pieces. Strain broth to remove burnt scallions, prevent bitterness in glaze. Reduce in pan carefully, slow boil to avoid burning sugars. Baste consistently so pork draws glaze evenly and develops lacquered surface. Assembly quick: spread plum sauce inside buns, layer fillings for textural balance. Serve immediately once assembled to keep buns soft."
 tips:
 - "Marinate pork belly fully. Key for flavor. Overnight soak best. Reduces time for infusing. Flip pieces if you can. Even coating helps deepen flavor."
 - "Oven at a steady 175 °C. Consistent heat prevents drying. Cover pot during baking. Keeps moisture in. Flip halfway for even cooking too. Watch timing."
 - "Chill pork after cooking. Resting lets fat firm up. Easier slicing. Don't skip this step. Strain broth after cooking. Avoid burnt bits in glaze."
 - "Reduce sauce carefully. Avoid burning sugars. Boil gently. Coat pork evenly while reducing. Takes time for perfect glaze. Be patient here."
 - "Assemble buns quickly. Spread plum sauce generously. Layer fillings neatly. Add fresh cucumber for crunch. Use herbs for brightness. Serve right away."
+faq:
+- "q: How long should I marinate pork? a: Minimum 8 hours is necessary. Overnight yields better flavor. Ensure even coverage with marinade. Flip meat if possible."
+- "q: Looking for alternatives to plum sauce? a: Try hoisin. Sweet and thick. Or use a spicy sauce for kick. Adjust based on preference. Balance sweetness with other flavors."
+- "q: What’s the best way to store leftover pork? a: Cool completely before storage. Freeze in airtight containers. Will last at least three months. Thaw before reheating."
+- "q: Can I make buns ahead of time? a: Yes, but steam right before serving. Keeps them soft. Storing in the fridge isn’t ideal. Use a steamer for best results."
 
 ---
 

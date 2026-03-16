@@ -101,12 +101,20 @@ instructions:
 - "Mix oil, vinegar, honey alternative, mustard in bowl."
 - "Add shallots; season with salt and pepper."
 - "Whisk thoroughly until emulsified."
+introduction: "Oils shifted a bit. Honey replaced by agave or maple in some. Vinegars tweaked—more balsamic, less white wine. Garlic swapped in for shallots in Catalina. Creamy yogurt gets Indian spices for a zing. Bacon dressing balanced with apple cider vinegar and maple syrup, bacon bits crisp. Whisk or shake, watch if emulsification forms. Blend sharpness with mellow oil. Little tweaks here, there. Swapped canola for corn in homemade to subtle change. Oregano tossed fresh rather dry. Spices mixed in tight. Pour over salads, dips. Cold or room temp. Multiple dressings, one style. Quick, simple. Salad not boring."
+ingredientsNote: "Adjust oils per preference. Walnut oil swaps lightly nutty flavor. Maple syrup replaces honey for deep caramel notes. Vinegars fluctuated—use red wine for tang, balsamic for sweetness. Garlic instead of shallot gives sharper bite. Yogurt spiced Indian style has warmth not creaminess only. Bacon dressing calls for crisp bits added last, preserve texture. Green onions fresh, not cooked. Measure carefully; some recipe amounts reduced 30% or increased 20% for balance. Double check fresh herbs. Alternative sweeteners impact thickness slightly. Combining oils blends flavor and mouthfeel. Whisk or shake in jar works fine."
+instructionsNote: "Emulsions need patience and vigor—slowly pour oil into acidic liquids. Bacon dressing base formed from bacon drippings mixed with oil and vinegar, better flavor. Let ingredients mingle a few minutes before serving. Yogurt version best chilled, flavors meld with time. Stir before dressing salads. For vinaigrettes without emulsifiers, whisk until blended but separate; shake before use. Maps of ingredients reordered per recipe. Timing per step slight ±5% variation—watch texture. Adding fresh herbs last preserves color and aroma. Garlic and onions chopped fine to disperse flavor but avoid large chunks. Small bowl batches recommended."
 tips:
 - "Use fresh herbs in dressings. Last minute adds flavor punch. Chop fine. Keeps color and aroma intact. Don't overload on one herb. Balance matters."
 - "When mixing oils, look for combinations that complement. Olive gives richness. Walnut adds nuttiness. Keep ratios in mind. Test different blends."
 - "Consider swapping vinegars for desired flavor. White for brightness. Balsamic for sweetness. Red wine adds tang. Play with proportions for varied results."
 - "Texture improves with chilling. Yogurt-based dressings need time to blend flavors. Refrigerate. Let sit. Serve cold or room temp."
 - "Measure effectively. Reductions and adjustments in recipe amounts can shift flavor. Be mindful of substitutions for best results. Small tweaks can alter outcomes."
+faq:
+- "q: Can dressings be made ahead? a: Yes, many can sit well in fridge. Flavors deepen. Stir before serving. Check consistency after chilling."
+- "q: What if dressing separates? a: Simple fix. Whisk or shake before using. Even emulsified dressings may need this step. Oil can float sometimes."
+- "q: Can I change the base ingredients? a: Absolutely. Try mixing different oils or vinegars. Experiment freely. Adjust sweetness based on your palate."
+- "q: How to store leftover dressings? a: Keep in airtight container, fridge. Some last a week. Others, check for fresh herbs. Monitor for spoilage."
 
 ---
 

@@ -67,12 +67,20 @@ instructions:
 - "Stir in cream, warm through. Adjust seasoning as needed. Reduce further if sauce too thin, aim for 430 ml."
 - "Slice veal, arrange on platter. Spoon mushroom sauce over slices."
 - "Serve with roasted colorful carrots and cauliflower purée."
+introduction: "Veal rack with herbs. Roasted slow but not too slow. Brown first, caramelized edges. Rest wait, temp rise. Mushrooms—porcini, chanterelles—dried, soak in hot water. Sauce thickens, marsala and veal stock, touch maple for sweetness. Cream gives silkiness. Sharp shallots softened in butter. Roasted veg: carrots, mix of colors to break monotony, sweet earthiness. Cauliflower mash for texture contrast. Semi-classic but tweak here: chanterelle replaces more common morels—earthier, woodsy twist. Maple less expected, adds warmth—play between sweet and savory. Timing precise, relocation of steps to optimize flow."
+ingredientsNote: "Cut quantities by roughly 30%. Veal now 1.1 kg, smaller rack, easier to handle for medium doneness. Herbs scaled down to 2 sprigs each, less overpowering. Garlic kept whole cloves, lightly smashed for flavor release but not burnt in pan. Switching dried mushrooms: porcini remains but substitute chanterelles for morels—different but wild, deeper umami flavor profile. Slightly less butter and flour for lighter roux sauce base—makes marsala shine instead of being overwhelmed by starch. Stock standard veal, two containers, consistent base flavor. Maple syrup down to 20 ml, subtle sweet note without masking mushrooms. Cream scaled back to 100 ml to keep sauce luscious but not too heavy."
+instructionsNote: "Start hydration of mushrooms early, 18 minutes minimum. Strain carefully, keep soaking liquid in sauce—packed with flavor. Oven set hotter at 205 °C, roasting time shifted slightly shorter, 45–50 minutes, internal temp target quest 54 °C to retain juiciness. Resting time constant; carryover heat brings to approx. 60 °C, slices juicier. Browning done in large skillet with good olive oil and garlic crushed, flavor foundation. Sauce built in steps: butter, then shallots softening, flour sprinkled and cooked gently—no burning. Marsala added gradually, whisked, boiling before liquids combined, allows reduction control. Reduction to 430 ml thick sauce, syrupy consistency, about 13 minutes simmer. Final cream addition warms, not boils. Season taste-test, adjust salt/pepper. Serve veal slices smothered with sauce. Side veggies chosen for color and earthiness—roasted carrots a sweet counterpoint, cauliflower purée creamy backbone. Timing staggered to keep warm everything, sauce last step. No resting veal uncovered; covered to avoid crust drying."
 tips:
 - "Start with mushrooms. Dried porcini, chanterelles. Soak them in boiling water 18 minutes. Don't skip this step. Flavor packed and depth increased."
 - "Oven temp key. Preheat to 205 °C. Essential for evenly roasting veal. Helps achieve that perfect medium doneness. Avoid opening door too often."
 - "Brown veal in skillet. High heat matters. Olive oil helps. Garlic smashed, not chopped. Adds subtle flavor. Avoid burning garlic; keep an eye."
 - "Rest the veal after roasting. Covered for 10 minutes. Carryover cooking brings temp up 60 °C. Juiciness maintained that way. Don’t rush this step."
 - "Making sauce - don’t burn. Start with butter, then shallots. Sprinkle flour, stir for minute. Key to smoothness. Marsala, stock added next; whisk well."
+faq:
+- "q: What if my veal is overcooked? a: Slice thick for more tender bits. Serve with lots of sauce. Layering can mask dryness. Consider drinking wine too."
+- "q: Can I use fresh mushrooms? a: Yes, fresh works but adjust amounts. Flavor profiles change. More depth with dried. Fresh adds different texture."
+- "q: How long can leftovers be stored? a: Store in fridge for 2-3 days. Reseal tightly. Reheat on low; prevent dryness. Saucing again helps restore moisture."
+- "q: Can I freeze this dish? a: Yes, freeze sauce separate. Make sure veal cools. Store in airtight. Will stay good 2-3 months. Thaw slowly in fridge."
 
 ---
 

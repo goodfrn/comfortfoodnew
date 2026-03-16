@@ -62,12 +62,20 @@ instructions:
 - "Shred the chicken. Half the sauce on it. Mix it around."
 - "Rice. Chicken. Rest of the sauce. Sesame seeds."
 - "Need to swap something — tips are below."
+introduction: "My cousin made this slow cooker honey teriyaki chicken for dinner one night. I ate three bowls. Asked her how she made it, she said crockpot, honey, soy sauce, that's basically it. Made it myself the next week. Threw everything in the crockpot and left. Came back three hours later and the whole kitchen smelled insane. That's the thing about this crockpot honey teriyaki chicken — you do almost nothing. Whisk the sauce, drop the chicken in, walk away. Sauce though — first time I just poured the liquid straight on the chicken. Watery. Sad. You gotta strain it, heat it up with cornstarch. Gets thick and glossy. Coats every strand. I switched from red wine vinegar to apple cider at some point. Brighter. Goes better with the honey. Kept doing it. For slow cooker teriyaki chicken the fork test is everything. Around 3 hours poke it. Falls apart easy — done. Doesn't — leave it more. Toast the sesame seeds too. 30 seconds in a dry pan. Trust me."
+ingredientsNote: "Low sodium soy sauce only. Sauce cooks down a lot — regular soy makes it way too salty. Garlic minced fine. Big pieces don't mix right. Yellow onion not white. Sweeter. Better for long cooks. Ground ginger not fresh. Fresh gets sharp after hours of heat. Cornstarch goes in cold water first. Always. Swaps in the tips."
+instructionsNote: "Whisk before the chicken goes in. Honey sinks. Uneven flavor if you skip it. Onion on top of the chicken drips into everything while it cooks. Strain it out after. Fork test over timer. Always. Strain the liquid before you thicken it. Bits in the sauce make it weird. Toss the chicken in the sauce while it's hot. Soaks in better."
 tips:
 - "Whisk the sauce first. Honey sits at the bottom. Doesn't mix itself. One minute of whisking and this slow cooker honey teriyaki chicken tastes even all the way through. Skip it and some bites are too sweet some too salty."
 - "Three hours is just when you start checking. Poke the thick part. Pulls apart easy — done. Still hard — ten more minutes. Check again. Every crockpot teriyaki chicken comes out a little different depending on your slow cooker."
 - "Cornstarch in cold water first. Stir till fully smooth. Then pour it slow into the hot sauce. Whisk the whole time. Dump dry cornstarch straight in and it clumps. Can't fix that."
 - "No apple cider vinegar — white vinegar works. Rice vinegar works too. No honey — maple syrup is close. Brown sugar also works but sweeter so use less soy."
 - "Toast the sesame seeds. Dry pan. Medium heat. 30 seconds. Shake so they don't burn. Raw ones taste like nothing. Toasted ones actually taste like something."
+faq:
+- "q: Can I skip straining? a: You can. But the sauce comes out gritty and won't thicken right. Takes 30 seconds. Just do it."
+- "q: Chicken won't shred, what now? a: Not ready. Ten more minutes. Should fall apart with almost no effort. If you're pulling hard it needs more time."
+- "q: Chicken thighs instead? a: Yeah. Actually easier to cook. Harder to mess up. Same time roughly."
+- "q: Brown sugar instead of honey? a: Works. Less shiny sauce. Sweeter too so go easy on the soy. This crockpot honey teriyaki chicken recipe is flexible like that."
 - "q: Storing leftovers? a: Sauce and chicken separate. Fridge four days. Freeze a month. Heat sauce first then add chicken."
 ---
 

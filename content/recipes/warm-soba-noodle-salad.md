@@ -55,12 +55,20 @@ instructions:
 - "In same skillet, add remaining oil. Sauté garlic and chickpeas with smoked paprika for 3 minutes or until chickpeas are crisp and fragrant. Remove from heat."
 - "Arrange noodles on serving plates. Top with zucchini and chickpeas. Scatter watercress and radish slices over. Drizzle creamy watercress dressing generously."
 - "Garnish with microgreens if using and lemon wedges for squeezing on top."
+introduction: "Noodles. Vegetables. Chickpeas. Flavor bombs. Warm versus crisp. Heat brings out nuttiness in chickpeas, turns a bit smoky with paprika swap. Zucchini spirals curl up at edges, tender but not mushy. Watercress for bite, peppery and fresh. Radishes for crunch, sharp and slightly spicy. Something creamy to tie it loosely, slip a watercress dressing over, smooth but light. Lemon on the side for a hit of brightness when desired. No gluten, no nuts, no dairy. Plant-based simplicity. Fast and unpretentious. Eat it warm. Or room temp if needed. Who wants fiddly? Not here. Make, mix, munch. Little steps, big contrast. Texture on constant hustle, no monotony."
+ingredientsNote: "Soba noodles—choose 100 percent buckwheat if gluten-free is a must. Remember, most commercial soba have wheat; check labels. Zucchini cut thick, spirals or wide ribbons, so they hold shape on quick sauté. Chickpeas canned work fine but drain well. Using smoked paprika instead of turmeric for a deeper, earthy flavor with a hint of smokiness. Garlic minced finely, not crushed, to avoid bitterness in quick cooking. Watercress fresh, loose leaves, well rinsed. Radishes thin to keep that crisp snap. Optional microgreens, like pea shoots or radish sprouts, add fresh green punch and subtle pepperiness. Lemon wedges optional but recommended for brightness at the end. Olive oil is key for cooking softness and gentle flavor, choose good quality."
+instructionsNote: "Start with water boiling early; soba takes less than 6 minutes. Avoid overcooking noodles to keep their snap. Toss with oil immediately after draining—prevents sticking and clumping. Heat your pan well before zucchini goes in, quick cooking, turning often. You want color, some caramelization, not mush. Use same pan for chickpeas and garlic—build flavor, no extra wash-ups. Add smoked paprika with chickpeas at the start to toast spices slightly; releasing aroma even if only briefly. Combine all plated ingredients just before serving for best texture contrast. Drizzle watercress dressing at last, avoid soggy parts. Microgreens or sprouts sprinkled on top add visual appeal and an extra subtle flavor layer. Lemon wedges on side to press over according to taste. Serve immediately, or at room temperature without losing much charm."
 tips:
 - "Cook soba noodles well, 5 minutes max. Rinse after draining. Toss with olive oil. This keeps them separate. No clumping, trusty trick."
 - "Zucchini spirals are key. Cut thick. Sauté fast. You need a hot pan. Soft but not mushy. Color adds flavor. Season with salt, pepper."
 - "Chickpeas add protein. Use canned, rinse well. Sauté with garlic. Smoked paprika enhances flavor. Crisp them for texture. Warmth brings out nuttiness."
 - "Arrange noodles first. Layer zucchini then chickpeas. Add watercress and radish last. To avoid sogginess. Drizzle dressing right before serving."
 - "Don’t forget the lemon. Squeeze on top. Brightness elevates dish. Optional microgreens for crunch. Check freshness. Visual appeal matters."
+faq:
+- "q: Can I use gluten-free soba? a: Yes, pick 100 percent buckwheat soba. Check labels, many have wheat. No gluten if strictly necessary."
+- "q: How do I store leftovers? a: Store in an airtight container. Refrigerate. Consume within two days. Reheat gently. Some texture changes."
+- "q: Chickpeas are bland? a: Proper seasoning solves this. Sauté with spices. Ensure crispy texture for contrast. Use lemon for brightness."
+- "q: What if I don't like watercress? a: Substitute arugula or spinach. Different flavor, still good. Add crunch with more radishes. Keep colors vibrant."
 
 ---
 

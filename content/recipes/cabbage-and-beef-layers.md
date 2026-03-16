@@ -66,12 +66,20 @@ instructions:
 - "=== Bake ==="
 - "Season with black pepper. Pour vegetable broth over all the layers."
 - "Cover with foil and bake for 1 hour 50 minutes. Uncover and bake for additional 30 minutes."
+introduction: "Hearty cabbage layers. Ground turkey at the base. Carrots add sweetness. Cabbage holds everything. Easy layering. Takes some time to bake. Flavor deepens as it cooks. Broth adds moisture. Great for dinner."
+ingredientsNote: "Ground turkey is lean. Can swap for beef or chicken if needed. Quinoa serves as great filler. Rinsing quinoa is key. Shredded cabbage can be tough. Use fresh for best results. Cabbage will soften in baking. Season layers well to balance."
+instructionsNote: "Start by browning the meat. Stir in garlic and carrots. Mix in quinoa next. Add crushed tomatoes. Layer carefully in the baking dish. Cover for the first part. Uncover to brown the top layer. Let it rest before serving. It will be hot!"
 tips:
 - "Layering is crucial. Distribute meat evenly. Cabbage should cover well. Don’t rush. Let the layers sit. Broth will add moisture. Avoid dry spots. Broth is key for flavor too. Consider using more broth based on taste."
 - "Carrots add a nice touch. Dice them small. This ensures they cook well. Sweetness balances the savory. Fresh ingredients really matter. Use seasonal cabbage. Older cabbage can be tougher."
 - "Cooking times matter. Foil first for even baking. Then uncovering makes it brown. Check halfway. If cooking uneven, rotate the dish. Oven variations found. Know your oven's quirks."
 - "Rest the dish before serving. It helps flavors meld. Hot dishes don't slice well. Wait 10-15 minutes. It cools slightly. Also easier to handle. Consider the heat when serving."
 - "Swap proteins easily. Ground turkey can change to chicken. Use lean meats for healthier options. Beef offers richer flavor. Adjust spices slightly with each type."
+faq:
+- "q: Can I use another meat? a: Yes, swap for chicken or beef if preferred. Be aware of flavor changes. Adjust seasonings based on meat. Lean meats like turkey work best."
+- "q: What if I overbake? a: Check earlier next time. Overbaking can dry out layers. Cover again if browning too fast. Monitor closely during last half hour."
+- "q: How can I store leftovers? a: Refrigerate tightly covered. Heat in oven or microwave later. Consider freezer for longer storage. But don't freeze the cooked dish, rather pack layers separately."
+- "q: Can I add more vegetables? a: Certainly, consider bell peppers or zucchini. Chop them small for even cooking. Adjust layering as needed. More veggies will also add moisture."
 
 ---
 

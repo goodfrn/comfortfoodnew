@@ -60,11 +60,19 @@ instructions:
 - "In a medium bowl, whisk together apple juice, cider vinegar, and maple syrup. Season with salt and pepper."
 - "=== For assembly ==="
 - "In a large bowl, combine roasted veggies, sliced pear, and fennel fronds. Pour the dressing over the top, toss gently to coat. Serve warm or at room temperature."
+introduction: "Roasting vegetables. Brings out their sweetness. Butternut squash shines here. Fennel adds an anise note. Red onions caramelize beautifully. Pear brings freshness. A burst of flavor. A tangy dressing ties it all together. Enjoy warm as a side."
+ingredientsNote: "Butternut squash is seasonal. Choose one that feels heavy for its size. Fennel offers a unique flavor. Pair with the right herbs. Fresh versions of pear work better. Avoid overly ripe ones. Adjust apple juice amount for sweetness."
+instructionsNote: "Keep an eye on roasting time. Stir vegetables mid-way. They need to caramelize but not burn. Adjust seasoning as per taste preference. Cooling slightly helps flavors meld. Enjoy it warm or at room temperature for better taste."
 tips:
 - "Choose a heavy butternut squash. It means it's fresh. Cut into 1 cm pieces for even roasting. Fennel can vary in flavor. Pairing with herbs matters. Fresh herbs brighten flavors. Garlic adds depth, use minced. Adjust olive oil based on personal taste."
 - "Monitor roasting time closely. Stir veggies halfway through. They need caramelization but avoid burning. Cooling slightly enhances flavor melding. Pear should be ripe but not overly soft. Fennel fronds add a nice touch. Different types of pears can change flavor."
 - "Consider your dressing sweetness. Adjust maple syrup accordingly. Use natural apple juice for freshness. The combination of apple and vinegar balances flavors well. Salt and pepper help enhance overall taste. Mix well but gently to avoid mashing."
 - "Enjoy this dish warm or at room temp. Reheating may alter texture slightly but it's still good. Consider serving next day for flavors to combine. Leftovers can be great on salads too. Experiment with other veggies in the mix."
+faq:
+- "q: How to ensure veggies roast well? a: Cut all veggies into uniform pieces. Avoid overcrowding the pan. Stir halfway for even cooking."
+- "q: What other fruits can I use? a: Try apples instead of pears. Or even use cranberries for tanginess. They add unique flavor."
+- "q: How to store leftovers? a: In an airtight container. Fridge is best. Use within three days for taste. Can reheat or add to salads."
+- "q: Can this dish be made ahead? a: Yes, prepare veggies earlier. Store in fridge. Roast just before serving. Freshness matters for taste."
 
 ---
 

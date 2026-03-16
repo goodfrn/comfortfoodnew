@@ -63,12 +63,20 @@ instructions:
 - "8. Add remaining rosemary sprig and cold maple taffy stick to glass."
 - "9. Strain cocktail through fine mesh strainer into glass over ice and garnish."
 - "10. Serve immediately."
+introduction: "Maple sweet, rosemary sharp, lemon bright. Vermouth apple hints ghost under gin’s crisp bite. Ice crushed to powder, cool and dense. Glass rimmed, sticky sugar with piney sparkle. Taffy cold, melty slow. Mix. Shake hard—herbs crushed, scents burst. Pour through fine sieve. Garnish with woody twigs and maple stick. Sip slow, taste layers unfold. Refreshing, green, woody sweet with tart lemon shake. Wooden aroma lingers after the last drop. Simple ingredients. Complex dance. Herbal, sweet, citrus weaving quick song in glass. No fluff or filler. Just parts talking. Let herbs talk loud."
+ingredientsNote: "Sugar mixed with rosemary finely chopped makes sharp sweet crust around glass edge. Lemon juice helps sugar stick and adds sour brightness. Using white apple vermouth adds fruity depth, not overpowering but subtle fruity undercurrent. Gin swapped with dry, herbal forward style for stronger botanical notes. Mapping syrup reduced slightly, not too sweet, just balance woodsy touch. Rosemary sprigs short, easy to muddle and also to use as aromatic garnish. Crushed ice finer than cubes melts slow, holds chill with texture. Maple taffy stick cold, slowly melting adds slow drip of sweetness, fun and unique touch replacing usual stir sticks or lemon twists."
+instructionsNote: "Start by preparing rosemary sugar to create aromatic coating on glass rim. Mix sugar and rosemary well so flavor distributes. Lemon wedge rubbed liberally to wet rim, press in sugar mix evenly. Setting rimmed glass aside lets sugar set while making cocktail. Add fresh sprig into shaker with liquids to bruise leaves gently, not pulverize, releasing bright piney notes. Shake vigorously enough to chill and mix without over bruising herbs. Strain over crushed ice to maintain texture and cooling sensation. Garnishing with fresh sprig plus maple taffy stick adds aroma and slow sweetness release as drinking. Serve immediately to enjoy aromatic rim and freshest herbal flavor. Using fine strainer keeps bits out, smooth sip while letting aromas on garnish shine. Crush ice just before use for best freshness and texture."
 tips:
 - "Crush ice right before use. Finer ice melts slower. Less dilution. Keeps the drink colder. Good texture for sipping. Makes the drink feel chill."
 - "Rosemary sugar is key. Mix finely chopped rosemary with sugar. Do it well. Makes rim flavorful. Lemon juice sticks. Sweet and sharp contrast."
 - "Shake hard, but not too long. Just twenty seconds. Helps release oils. Muddle gently for flavors. Don't obliterate rosemary. Light pressure works."
 - "Fresh rosemary sprigs are great for garnish. Serves double purpose. Aromatic and pretty. Adds herbal scent to drink. Use short sprigs, easy."
 - "Maple taffy stick is fun. Replaces traditional garnish. Melts slowly. Drips sweetness. Unique twist for cocktail. Get creative with flavors too."
+faq:
+- "q: How to adjust sweetness in the drink? a: Add more maple syrup for sweetness. Or cut down on it. Change balance according to taste."
+- "q: Best way to store leftover cocktail? a: Drink immediately for best flavor. Can chill for later. Shake well to mix before serving."
+- "q: Can I swap apple vermouth? a: Yes, other flavored vermouths work. But can change drink profile. Try different flavors, see how it goes."
+- "q: What's ideal serving glass? a: Use lowball whisky glass. Holds ice and drink well. Keeps the chill longer, supports rim decoration too."
 
 ---
 

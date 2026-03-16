@@ -56,12 +56,20 @@ instructions:
 - "6. Drizzle with olive oil. Cover with foil. Bake 22 to 27 minutes until juices run clear."
 - "7. Remove foil. Sprinkle cheese blend atop each breast. Slide under broiler, watch close, 3 to 5 minutes until cheese bubbles and browns."
 - "8. Serve hot. Drizzle pan juices over top."
+introduction: "Red cabbage, chicken, goat cheese. No fuss. Butter melts, cabbage sweats, vinegar sharpens. Chicken splits open like a book, cavity stuffed with warmth, tang, creaminess. The broth simmers slow, cabbage softens, mingling flavors that cling. Cheese tops it all, melts, bubbles. The foil tucks in moisture. Oven heat cooks through in phases; first covered, then exposed to flame’s kiss. A smoky hint from paprika takes place of salt—a subtle twist. Apple cider vinegar adds brightness replacing usual wine vinegar. Simple, minimal ingredients, slightly altered proportions to shift flavor balance and cooking time. Roasting then broiling; every step counts. Texture balances softness and crisp surface. Quick midweek meal or weekend indulgence."
+ingredientsNote: "Scaling down cabbage to 750 ml guarantees tender vegetables without overpowering filling. Butter reduced to keep richness subtle. Apple cider vinegar swaps out red wine vinegar to introduce lighter fruit tones that cut through heaviness. Chicken stock slightly lowered to 180 ml to prevent watery stuffing while retaining moisture. Smoked paprika replaces salt for a layered smoky undertone. Chicken breasts whole rather than halves ensures better filling volume, more hearty servings. Olive oil increased to 20 ml ensures sufficient coating for crisping. Cheese combines sharp cheddar with tangy goat cheese to blend creamy and bold flavors. Important to grate cheese finely for even melting. Using whole breasts requires careful butterflying; patience prevents tearing. All changes keep protein rich, carb moderate, fat higher for satiation."
+instructionsNote: "First step: soften cabbage in butter longer by 2 minutes, then vinegar for same, building gentle caramelization and acidity balance. Simmer time bumped up by 5 minutes ensures cabbage softness without mush, deeper flavor melding. Oven temperature slightly lowered by 5°C prevents drying out chicken. Butterflying chicken requires steady hand; cut slowly halfway without separating fully, creating pocket. Filling generously but not overstuffing for cooking stability. Tucking foil tight seals moisture during 22 to 27 minutes roast, time adjusted upward 2 minutes to account for bulkier breasts. Opening foil to top chicken with cheese, broiling quickly melts and browns cheese—watch constantly at this point to avoid burning. Final drizzle of pan juices adds gloss and flavor. Serve promptly to preserve contrast between warm tender stuffing and golden cheesy crust. Steps rearranged for logical flow from veg prep through to final finishing."
 tips:
 - "Butter the pan well. Not just a bit. Generous coating ensures better browning. Stickiness is a problem. Crisp skin needed."
 - "Cabbage needs careful cooking. Sauté longer. Build flavors with patience. Don’t rush simmering. Vinegar brings out sweetness."
 - "Grate cheese finely. Clumps don't melt well. Mix goat cheese with sharp cheddar. Creamy plus tangy. Classic combo works."
 - "Are the breasts thick? Adjust cooking time. Often thicker means longer in oven or broiler. Watch closely towards the end."
 - "Let the stuffed chicken rest. Important step. Juices settle inside. Keep flesh tender. Enjoy every bite of rich filling."
+faq:
+- "q: How should I store leftovers? a: Keep chicken in airtight container. Fridge works. Use within three days. Reheat gently to avoid dryness."
+- "q: What if I don't have goat cheese? a: Substitute with feta or cream cheese. Adjust to your taste. Creamy texture is key."
+- "q: Can I use different vegetables? a: Absolutely. Spinach works. Mix in mushrooms too. Explore other options. Keep it moist."
+- "q: What herbs can I add? a: Thyme or rosemary fits well. Add while cooking cabbage. Boosts flavor profile. Small amounts needed."
 
 ---
 

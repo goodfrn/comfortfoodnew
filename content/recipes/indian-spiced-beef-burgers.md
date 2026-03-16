@@ -68,12 +68,20 @@ instructions:
 - "Toast buns on the grill until golden."
 - "=== Assembly ==="
 - "Spread yogurt on the bottom of buns. Add lettuce, chopped cilantro, and beef patties. Top with mango sauce and pickled onions. Close the burgers. Serve hot."
+introduction: "Ground beef. Packed with Indian spices. Mango sauce on top. Grilled to perfection. The flavor pops. Fresh ingredients. Bold taste. Quick grilling."
+ingredientsNote: "Use ripe mango for the sauce. Can adjust sugar based on mango sweetness. Ground beef should ideally be lean. Pickling onions adds a sharp note. Adjust chili paste for heat levels. Fresh cilantro brings bright flavor."
+instructionsNote: "Start with the mango sauce for best results. Let the flavors meld. Prepare the pickled onions next. The sweetness contrasts nicely with the spice. Form beef patties afterward. Use high heat for the grill for a good sear. Don't overcook the patties. Toasting buns enhances their texture. Assembly is key for presentation and taste."
 tips:
 - "Use a ripe mango for sauce. Check the sweetness. Adjust sugar if it's tart. Mango adds flavor. Sweetness versus spice. Balance is key."
 - "Pickled onions elevate taste. Soak them in vinegar. Brown sugar gives texture. Let them steep for a while. Don’t skip this step."
 - "Ground beef should be lean. This makes patties healthier. Fat content can affect cooking time. Monitor grill heat closely."
 - "Toast buns really enhances flavor. Golden brown is the goal. They hold ingredients better. Don’t rush this process. It’s crucial."
 - "Chili paste adds heat. Adjust according to preference. Level one to ten, you choose. Start light if unsure."
+faq:
+- "q: How adjust spice level? a: Use less chili paste first. Taste as you go. Add more if needed. Spices can overwhelm quickly."
+- "q: Can I add cheese? a: Yes, add cheese near end of grilling. Melt it on patties. Cheddar works well."
+- "q: What if I have leftovers? a: Store in fridge. Use in salads or wraps. Reheat gently to maintain texture."
+- "q: Best way to grill patties? a: Preheat grill first. Pat each patty dry before grilling. Don’t press them too much."
 
 ---
 

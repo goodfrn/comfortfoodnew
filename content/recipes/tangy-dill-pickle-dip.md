@@ -54,6 +54,9 @@ instructions:
 - "Slide into fridge, chill till cold but don’t forget—dip needs to stiffen up a bit. About 25 minutes works."
 - "Serve with anything salty or fresh: potato chips, crackers, carrot sticks."
 - "If dip too runny, stir in tiny bit more cream cheese—never water or it flops."
+introduction: "Chubby dollops of tangy, cold, crunchy pickle dip. Dill-infused cream cheese base packed with snapping pickle bits and that punchy pickle brine liquor. An easy throw-together when snacks shout louder than meals. Tried sour cream once; creamy but lacks grip. Garlic powder edges just right but don’t get heavy-handed, or the balance tips south. Salt—trim it back; too much and it screams ‘salty pickle swamp.’ No longer than twenty minutes to chill, just enough to firm but lose that fresh cream cheese tang. The sound of a crunchy chip plunging into the dip, then the cold bite on your tongue is why I keep coming back."
+ingredientsNote: "Pickles are the heart. Use crunchy dill pickles, not sweet or bread-and-butter. They add snap and bright acidity. Cream cheese should be softened to room temp—cold clods kill the mixing groove and leave uneven bits. Garlic powder beats fresh garlic here—less volatile, blends smoother. Salt cautiously; brine already salty enough, more ruins it fast. If out of cream cheese, full-fat Greek yogurt can patch, but texture sags a little. Add pickle juice slow—too fast and dip thins out sloppy, losing grip on crunchy bits and chips alike. Measure by eye, scoop texture. If brine not vinegary enough, splash a hit of lemon juice or white vinegar to perk up."
+instructionsNote: "Chop pickles as fine or chunky as mood strikes; smell sharpens as you cut—signal to keep it dill-heavy. Cream cheese gets a quick mash to avoid lumpy clumps. Garlic powder next, sprinkled like seasoning a cast-iron pan—don’t overdo. Salt sparingly—taste mix before adding more after juice. Pour pickle juice incrementally, stir between additions; texture changes from sticky paste to luscious dip. Resting in fridge cools fat, firms dip, and lets flavors marry but no more than half-hour or fresh crunch starts sogging out. Serve cold—room temp kills that snap. If dip looks runny, rescue with bit more cream cheese or toss a handful of crushed crackers inside and stir gently."
 tips:
 - "Chop pickles rough or fine. Sharp smell tells when to stop cutting. Crunch depends on size so test by bite—not perfect chopping needed."
 - "Softened cream cheese is key. Cold clumps kill the mash rhythm. Mash lightly to avoid lumps but still keep some chunk texture in final dip."
@@ -63,6 +66,11 @@ tips:
 - "Rest dip in fridge less than 30 minutes. Cool firms fat, joins flavors but over chill dulls fresh cheese tang, sogs pickle crunch visibly."
 - "For runny dip add small extra cream cheese chunks or crushed crackers. Work some air in while stirring, not glide. Texture tightens quick."
 - "Cream cheese substitute: full-fat Greek yogurt can patch if out. Texture less dense; dip becomes softer, less cling but still tangy with brine."
+faq:
+- "q: Can I use sweet or bread-and-butter pickles? a: Nope. Dill balance lost. Sweet picks mute bright acidity. Dill type needed for tang and snap here."
+- "q: What if dip is too thick after brine? a: Add juice dropwise, stir slow. Or small splash lemon or white vinegar perks flavor without thinning too much."
+- "q: Why is my dip runny after chilling? a: Over brined or too much liquid added at once. Could mix in more softened cream cheese or chill less time next round."
+- "q: How long does dip keep? a: Stored in fridge sealed 3-4 days max. Clumps form if frozen, thaw messier. Best fresh cold; flavors dull over time, pickle sog loss."
 
 ---
 

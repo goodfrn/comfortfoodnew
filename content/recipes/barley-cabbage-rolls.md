@@ -66,12 +66,20 @@ instructions:
 - "Pour remaining tomato sauce over cabbage rolls. Top with crumbled feta."
 - "Cover dish with foil. Bake 1 hour covered, then remove foil and bake additional 35 minutes uncovered until top bubbles and rolls have slight crust."
 - "Rest 10 minutes before serving."
+introduction: "Cabbage leaves folded tight. Pearled barley bubbles under simmering broth, softening slow. Mushrooms bring earth, peppers pop red, zucchini fresh chunks in mix. Garlic bites sharper. Onion base sweetens. Wine sharp, reduces quick. Egg ties all. Tomato sauce blankets. Feta sprinkles tang. Layered textures, soft center, crisp edges when baked uncovered. Balsamic vinegar swapped in, thyme leaves fresh, aroma real. Cabbage leaves stripped of thick stems for easy folding. Cooking times slightly trimmed. Amounts cut for balance. Dinner waits."
+ingredientsNote: "Pearled barley reduced a bit for lighter stuffing. Broth choice flexible—vegetable or chicken, adjust salt accordingly. Cabbage leaves blanched just till flexible to avoid soggy rolls. Mushrooms diced fine to integrate texture. Red pepper adds sweetness and color; zucchini a subtle crunch. White wine option for deglazing, evaporation concentrates flavor. Egg necessary for binding filling but only one used for six rolls. Tomato sauce final layer moistens and simmers filling inside. Feta crumbles replace half original quantity for mild saltiness but less richness. Balsamic vinegar adds slight acid twist, fresh thyme a fragrant lift over original aroma profile."
+instructionsNote: "Simmer barley patiently, watch for softness. Blanch cabbage leaves precisely four minutes max; too long turns leaves soggy and tears when rolling. Cooling in ice water stops cooking instantly, preserves leaf color and texture. Saute veggies longer for better caramelization, especially onions and mushrooms. Reduce wine almost dry to cook off alcohol and concentrate flavor in filling. Vinegar and thyme added after reduction for fresh brightness. Egg folded in at end off heat prevents scrambling. Tomato sauce spread bottom to prevent sticking and add moisture. Foil cover during first bake seals in steam; second uncovered session crisps cheese topping and edges of rolls. Rest time before serving allows filling to set, easier to cut and eat."
 tips:
 - "Use fresh cabbage. The leaves need to be pliable but hold structure. Control blanching time. Ice bath crucial to stop cooking. Helps keep vibrant color."
 - "Sauté veggies well. Allows sugars to caramelize. Onions need time to sweeten, mushrooms for richness. Garlic last only a couple minutes. Avoid overcooking."
 - "Adjust filling ingredients. Customize spice or herbs. Add nuts for texture, swap feta with ricotta or goat cheese for alternatives. Always check seasoning before rolling."
 - "Pay pay attention to sauce. Tomato base is vital but use quality. If preferred, mix herbs in sauce too. Helps with flavor infusion during cooking."
 - "Rest time is essential. After baking, let rolls sit to cool. Filling sets properly. Easier to slice and serve. Prevents mess when plating."
+faq:
+- "q: How to store leftovers? a: Refrigerate rolls in airtight container. Best within three days. Alternatively, they freeze well. Separate layers with parchment."
+- "q: Can other grains be used? a: Yes, replace barley with quinoa or rice. Adjust cooking time accordingly. Each grain has unique flavor and texture."
+- "q: What if cabbage tears? a: Use extra leaves to patch. Or, layer torn pieces, still hold filling. No need for perfection; rustic look is charming."
+- "q: Can this dish be made ahead? a: Absolutely. Prepare filling and rolls, refrigerate before baking. Bake day of serving. Adjust time for cold temperature."
 
 ---
 

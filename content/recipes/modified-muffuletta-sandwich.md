@@ -68,12 +68,20 @@ instructions:
 - "Preheat oven to 190°C."
 - "Wrap the sandwich in foil and place it on a baking sheet."
 - "Bake for about 20 minutes until warm. Slice and serve hot."
+introduction: "Savory, bold, and in layers. Muffuletta sandwiches got meats. They got cheeses too. And olive salad, lots of it. A journey of tastes. Heaps of ingredients fill this one. Italian bread makes it sturdy. Nice for sharing or a solo meal. Built with favorites. Turkey, mortadella, and capicola all stack up. Cheeses melt into that mix. Tangy olives add a kick. A fast bake brings it together. Serve warm. Cut neatly for party style. Very rich but still good."
+ingredientsNote: "Some adjustments to classic happens here. Two different olives combined for depth. Another crunchy element added: carrots. Pickled peppers bring a different zing. Fresh basil brightens up the salad. Use quality green olives. Olive oil is essential for the right taste. Don't skip the oregano. Use a round bread for traditional shape. Look for fresh deli meats. Quality cheeses are good here. Gruyère melts nicely. Smoked gouda gives a different richness. Adjust sandwich meat as needed. Try other combinations too."
+instructionsNote: "Get chopping first. Toss olives, peppers, and carrot into the bowl. Mix them well with olive oil. You want a cohesive salad. The bread is next. Slice and prepare for the fillings. Layer meats and cheeses carefully. Stack them high. Don't forget the olive salad, spread it generously. Wrap up the sandwich for baking. Be sure it is tight to hold warmth. Bake until everything melds. Get a good crust on the outside. Slice after baking. Enjoy right away for best taste."
 tips:
 - "Start by chopping all vegetables. Focus on olive types. Balance is key. Green and Kalamata, great mix. Texture from chopped carrots. Add crunch."
 - "Measure olive oil precisely. Too much can make it soggy. Blend well. Oregano adds flavor depth. Don't skimp. Season well with salt."
 - "Use fresh ingredients. Quality deli meats essential. Gruyère melts effortlessly. Gouda adds a distinct taste. Mix and match fillings for variety."
 - "Preheat oven correctly. 190°C is a must. Baking should meld flavors nicely. Wrap it tightly. Keeps heat inside."
 - "Slice right before serving. Cut through crust. Neat pieces for sharing. Flavor peaks fresh. Reheat leftover? Keep moisture with foil."
+faq:
+- "q: How do I store leftovers? a: Wrap in foil. Keep in fridge. Use within two days."
+- "q: Can I change the meats? a: Yes, many options. Try ham or salami. Different flavor profiles."
+- "q: What if I don’t have green olives? a: Use black olives instead. Slightly different taste, but works."
+- "q: How to reheat a cold sandwich? a: Wrap in foil. Bake at low heat. Keep moist. Don’t dry out."
 
 ---
 

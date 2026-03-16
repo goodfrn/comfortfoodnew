@@ -61,12 +61,20 @@ instructions:
 - "3. Heat a skillet on high. When hot, sear beef cubes until browned outside but juicy inside, about 4-6 minutes total depending on size. Stir occasionally."
 - "4. Remove thyme from rice. Fluff with fork. Adjust seasoning."
 - "5. Plate rice, top with beef. Sprinkle parsley and roasted red peppers over for brightness and texture."
+introduction: "Beef cubes energize quickly with a spicy Cajun rub. Marinate briefly, just enough to touch the meat with lively heat and rich oil. Rice simmers gently, soaking garlic punch and subtle thyme notes. No fuss, no filler. Just meat, herb, and grain. The skillet's roar is the only sound before sear and sizzle begin. A plate with a rustic feel—rustling spinach? Maybe next time. Roasted peppers add sweet sharp contrast. Simple but robust. No allergens, no dairy, gluten or nuts. Hardly fancy, just a hungry fix."
+ingredientsNote: "Use top sirloin for lean tenderness; cubed small for fast cooking. Cajun spices swapped here instead of Montreal steak spice, sharper, with cayenne kick and herbs. Avocado oil replaces olive oil for higher smoke point. Rice cooked not just in water but broth—extra depth, umami rich. Fresh thyme sprig included for aromatic lift, easy to remove after cooking. Green onion and garlic input scent and mild bite. Optional roasted red peppers bring color, sweetness, crunch. Salt and pepper simple but essential, adjust per taste. Ingredients measured to feed two with hungry appetites, scalable."
+instructionsNote: "Start rice first—liquid to grain and seasoning go in cold; simmer low to avoid mushy rice. No stirring keeps grains separate, steaming steady. Marinate beef mid rice cook so timing aligns. High heat skillet crucial to brown meat quickly, locking juice. Turn beef cubes sparingly, want crusty edges. Remove the thyme sprig before fluffing rice. Plating straightforward: rice low mound, beef atop, scatter parsley and peppers for final flair. Total time adjustable by a few minutes, avoid overcooking beef."
 tips:
 - "Start by prepping the rice first. It's crucial. The cold broth method enhances flavor. Don't stir during cooking. Keep it separate. Let it steam."
 - "Beef marinade is key. Cajun spices offer heat. Avocado oil has a higher smoke point. Brown the meat quickly. Crusty edges are what you want. Juicy inside."
 - "Use low sodium broth. It allows for better control over saltiness. Adjust seasonings later. Add fresh thyme for aroma. Remove thyme sprigs before fluffing."
 - "Cooking times may vary. High heat skillet is essential. Sear beef cubes, want that brown, crispy outside. Turn only occasionally. Don't crowd the pan. Juices need space."
 - "Garnish with parsley and roasted peppers. Adds color, crunch, flavor depth. Always plate rice first. Then layer beef on top. It's about presentation and taste."
+faq:
+- "q: What can I substitute for beef? a: Consider chicken or tofu. Marinate the same way. Adjust cooking time. Still a great meal."
+- "q: How can I store leftovers? a: Refrigerate in airtight container. It'll keep for 3 days. Reheat gently. Might add a splash of broth."
+- "q: Can I make the rice ahead of time? a: Yes, cook and cool separately. Store properly. Reheat just before serving. Keep flavor intact."
+- "q: What to do if rice is mushy? a: Soak grains before cooking next time. Avoid high heat. Steaming is better. Fluff carefully."
 
 ---
 

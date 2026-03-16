@@ -56,12 +56,20 @@ instructions:
 - "Bring the mixture to a simmer. Cook for about 30 minutes."
 - "Season with salt and pepper."
 - "Use an immersion blender to puree until smooth."
+introduction: "Tomato soup. A classic dish. Roasted red peppers give it depth. Fresh basil for aroma. Quick to prepare. Finishing with a blender. Just a few ingredients."
+ingredientsNote: "Always choose quality tomatoes. Diced are fine. Roasted peppers add sweetness. Fresh basil brightens the dish. Chicken broth adds richness. If vegetarian, use vegetable broth."
+instructionsNote: "Make sure onions are sautéed well. Use medium heat for best results. Simmer for at least 30 minutes to blend flavors. Adjust seasoning before blending. Serve promptly for best taste."
 tips:
 - "Chop onion finely. Sauté until translucent. Don't rush. Medium heat is key. Garlic goes in next. Add it once onion is soft. Smell that fragrance? Perfect. Roast peppers yourself or use jarred."
 - "Use quality tomatoes. Canned are fine. Diced is best. Fresh basil? Yes please. Adds aroma and taste. Dry basil works in a pinch. Adjust seasoning after blending for best flavor."
 - "Let the soup simmer for at least 30 minutes. This is crucial. Flavors need time to meld. Stir occasionally. Avoid sticking at the bottom. Keep an eye on it. Blend thoroughly for smooth texture."
 - "For variations, try adding spices. Maybe a pinch of cayenne for heat. Croutons on top are great. Add a drizzle of cream for richness. Serve hot for best enjoyment."
 - "Leftovers are good too. Store in the fridge for up to three days. Reheat on low heat. Add water if too thick. Freezing is an option as well. Cool before freezing."
+faq:
+- "q: How to make tomato soup taste better? a: Use fresh ingredients. Roast peppers. Adjust seasonings. Add a splash of balsamic vinegar."
+- "q: What can I use instead of chicken broth? a: Vegetable broth is a great choice. Or water with seasoning. Keeps it vegan. Flavor will differ."
+- "q: How to store leftover soup? a: In airtight container. Refrigerate for up to three days. Freezing is possible. But ensure it's cool first."
+- "q: Can I add cream to this recipe? a: Yes, add it after blending. For a creamy version. Adjust to taste. Don't overdo it."
 
 ---
 

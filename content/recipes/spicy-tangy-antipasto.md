@@ -59,12 +59,20 @@ instructions:
 - "Refrigerate for 15 minutes at least, up to 30 if time allows."
 - "Serve chilled or room temperature in small bowls."
 - "Great with rustic bread or as part of a larger antipasti platter."
+introduction: "Chunks of artichoke, peppers sliced thick, olives pitted and tossed with fiery chili flakes. Garlic whispers, lemon's sharpness cuts through oil's richness. No need for hours. Fifteen minutes rest, flavors meld, bold without fuss. Mix fresh basil differently, add brightness at the last moment while the chill brings everything close. Perfect for when guests drop by or a lazy night nibble. Mediterranean sun in a bowl but with a spicy twist that snaps awake the palate. Simple, rustic, a bit messy, but worth every bite. No frills, just punchy taste and a touch of heat to keep it lively."
+ingredientsNote: "Swapping some olives for roasted red peppers brightens the texture and flavor profile. Artichoke hearts are key, but marinated or freshly prepared works; avoid watery jars to keep richness. Fresh basil at the end prevents dullness and keeps herbal notes alive. Chili flakes added for heat - adjust to your liking or swap for fresh minced chili if preferred. Lemon juice sharpens the acidity. Garlic crushed and infused ensures pungency without overpowering. Olive oil must be extra virgin, fruity, to add that Mediterranean depth. Salt and pepper - basic but essential. Mix and match amounts based on desired spice and tang."
+instructionsNote: "Combine olive oil with lemon juice and herbs first, this base brings all elements together. Toss the artichokes gently, avoid too much bruising to keep texture. Introduce the peppers and olives after coating with dressing, so they soak but maintain shape. Basil goes last to keep fragrance intact. Refrigerate loosely covered for faster marination; too long can soften veggies excessively. Serve cold or room temp to let oils bloom. Pairs well with crusty bread or alongside grilled meats. Adjust chili flakes carefully if sensitive, some like it smoky rather than fiery. Leftovers hold well, flavors intensify over time."
 tips:
 - "Use firm artichokes. They hold up. If using fresh, roast them. Adds depth. Maximum flavor for minimal effort. Drain well."
 - "Adjust chili flakes. Personal taste varies. Some like mild. Others, fiery. Start low. Add more if needed. Balance is essential here."
 - "Fresh produce matters. Quality olive oil, fruity and robust. A must. Bottled lemon juice? Not great. Use fresh for the best zing."
 - "Let flavors mingle. Ten to fifteen minutes is fine. Longer may soften too much. Cover bowl loosely to allow air flow. Chill well."
 - "Pair it wisely. Crusty bread, yes. Perfect for dipping. Not overpowering. Or add to grilled meats for a feast. Versatile side dish."
+faq:
+- "q: How long to marinate? a: Minimum fifteen minutes. Longer for deeper flavor. Refrigerate. But don't overdo it."
+- "q: What if too spicy? a: Reduce chili flakes next time. Or use bell peppers. Adjust to taste. A milder option stays great."
+- "q: How to store leftovers? a: Refrigerate, ideally in airtight. Flavors intensify. Use within three days. Don’t freeze."
+- "q: Any alternatives for ingredients? a: Swap olives with capers. Different taste. Red peppers? Skip if not available. Use more artichokes."
 
 ---
 
