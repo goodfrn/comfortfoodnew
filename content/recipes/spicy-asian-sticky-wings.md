@@ -1,10 +1,10 @@
 ---
-title: "Spicy Asian Sticky Wings"
+title: "Crispy Air Fryer Chicken Wings with Hoisin"
 slug: "spicy-asian-sticky-wings"
-description: "Juicy wings tossed with salt; dried in fridge uncovered to get skin brittle enough to fry crisp. Butter melted with fresh garlic browns fragrant; stirred with hoisin and korean chili paste for a bold sauce. Wings deep-fried in batches till skins crackle, internal temp steady at 165°F. Tossing wings hot in sticky glaze, garnished with scallions and black sesame seeds adds crunch. Keys: salt early and air-dry wings; don't crowd frying vessel; adjust sauce to taste if sweeter or fiery preferred. Sub hoisin for plum sauce if out. Watch wing edges for fist-sized bubbles signaling done. Oil temp best kept steady or wings soggy. Great for game nights or late bites when you want messy finger licking goodness balanced by savory heat."
-metaDescription: "Spicy Asian Sticky Wings, air-dried for crispy skin and tossed in garlicky, hoisin-sriracha glaze. Fry steady at 350°F, garnish with green onions and sesame seeds."
-ogDescription: "Air-dry wings for crispness; fry 9-11 mins at 350°F. Toss hot with buttery garlic hoisin-sriracha sauce. Garnish green onions, black sesame seeds. Messy fingers guaranteed."
-focusKeyphrase: "Spicy Asian Sticky Wings"
+description: "Crispy air fryer chicken wings coated in hoisin sauce, sriracha, garlic, and ginger. Salt-dried skin fries golden and crunchy, tossed hot with sesame oil and topped with scallions."
+metaDescription: "Air fryer chicken wings recipe with hoisin, sriracha, garlic & ginger glaze. Crispy skin, tender meat, bold Asian flavors. Make it tonight."
+ogDescription: "Crispy wings with sticky hoisin-sriracha glaze, garlic, ginger & sesame. Crunchy scallion garnish. Make it tonight."
+focusKeyphrase: "air fryer chicken wings"
 date: 2025-12-13
 draft: false
 image: spicy-asian-sticky-wings.jpg
@@ -21,9 +21,18 @@ tags:
 - "fried"
 - "appetizer"
 keywords:
-- "chicken wings"
-- "deep-fried wings"
-- "sticky wing glaze"
+- "air fryer chicken wings"
+- "chicken wings in the air fryer"
+- "crispy air fryer chicken wings"
+- "fried chicken wings recipe"
+- "sticky wings"
+- "chicken wing chinese"
+- "air fry wings recipe"
+- "crispy chicken wings airfryer"
+- "deep fried chicken wings"
+- "buffalo wings recipe"
+- "hoisin sauce wings"
+- "asian chicken wings"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "450"
@@ -64,3 +73,49 @@ faq:
 - "q: How to store leftovers? a: Cool completely. Store in airtight container fridge up to 2 days. Reheat in oven or air fryer to regain crispness; microwave makes soggy skin. Sauce thickens refrigerated; may need gentle warming and stirring."
 
 ---
+
+Drying the wings matters more than anything. Seriously. Two pounds, spread on a wire rack in the fridge—overnight if you can wait, 12 minutes if you can't. The moisture pulls off and the skin goes actually crispy instead of just kind of firm. Then the sauce. Butter, garlic, hoisin, sriracha, ginger, sesame oil. Four minutes on low heat. Not one second on high. After that it's just oil and timing. Not even hard.
+
+## Why You'll Love This Chicken Wings Recipe
+
+Takes 24 minutes total—12 to prep, 12 to cook. Crunchy in a way that snaps when you bite. Not greasy. The glaze sticks and gets glossy but doesn't slide off your hands like buffalo sauce does. Garlic and ginger come through. You'll taste the sesame. Works for a crowd or just yourself. People grab them faster than you can garnish them, which is its own kind of compliment.
+
+## What You Need for Crunchy Air Fryer Chicken Wings
+
+Two pounds of wings—flats and drumettes separated. Kosher salt, not table salt. Sticks around instead of dissolving into the meat like it's not there. Unsalted butter. Salted burns faster and you don't control the salt anymore. Three cloves of garlic, minced. A quarter cup of hoisin. Two tablespoons sriracha—or more if you want actual heat. A tablespoon of ginger, freshly grated. Not ground. Fresh tastes like ginger. Ground tastes like a spice cabinet. Sesame oil. The dark kind. Half a teaspoon would work. A tablespoon is right. Vegetable oil for frying—about a quart, depends on your pot. Green onions to slice. Black sesame seeds. Both are the garnish. They're why it looks intentional.
+
+## How to Make Chicken Wings in the Air Fryer
+
+Pat the wings dry first. Paper towels work. Lay them on a wire rack over a sheet pan—single layer, nothing stacked. Salt them. A teaspoon over two pounds. Put them in the fridge uncovered. The circulating air pulls moisture off the skin. Overnight is perfect. Even just a few hours helps. If you're short on time, skip it and pat them hard with fresh paper towels before frying. The wings won't be as crispy but they'll still work.
+
+Heat your oil to 350°F. Use a thermometer. Don't guess. If you don't have one, drop a tiny piece of wing skin in—it should bubble like crazy and float up right away. That's 350. Fry the wings in batches. Don't crowd the pan. Oil temperature drops when you do and then nothing gets crispy—everything gets soggy. Four or five minutes until they're golden, then flip. Four or five more. The whole thing is nine to eleven minutes depending on your pan and how hot your oil actually is. Pull them out when the skin is deep golden, bubbles all over it, and a meat thermometer says 165°F. Drain them on a wire rack sitting over paper towels. The rack keeps them off the towels so air gets underneath and skin stays crisp.
+
+## How to Make the Sauce for Air Fried Chicken Wings
+
+Melt butter in a small pan over medium heat. Don't let it brown. Add the minced garlic. One minute, maybe. You'll smell it when it's done. Garlic burns stupid fast at this stage so watch it. Stir in the hoisin. Then the sriracha. Then the ginger. Last is the sesame oil—just drizzle it in. The whole thing simmers for three to six minutes. You'll see it thicken and get shiny. That's when you stop. Take it off heat. Don't cook it more. Cooked sauce turns bitter and separates.
+
+## Air Fryer Chicken Wings Tips and Common Problems
+
+Wings limp? They were cold when they hit the oil. Oil temp dropped. Next time pat them again right before frying and wait for the oil to come back up to heat. Sauce too thick? Splash of water. Or lime juice works better—adds brightness and cuts the richness. Not spicy enough? More sriracha. A pinch of cayenne. Whatever you want. Garlic burnt? You cooked it too hot or didn't watch it. Low heat always. Watch like it's about to escape. Hoisin missing because you don't have it? Plum sauce works. Miso paste mixed with a little plum sauce works even better. It's different but it tastes good. Serve the wings right after you toss them. Skin softens if they sit. It happens fast. Grab them hot.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Chicken Wings in an Air Fryer
+
+**Can you actually make fried chicken wings in an air fryer instead of deep frying?**
+No. This is the deep fried version. Air fryers don't get the same skin texture because the heat comes from all angles instead of from oil surrounding them. You want deep fried wings, you use oil. Air fryer wings are different—lighter, less crispy. This recipe is deep fried. Real deep fried.
+
+**How long does it take to cook chicken wings in an air fryer if you insist on using one?**
+Maybe eight to ten minutes at 400°F, shaking the basket halfway. They'll be cooked through. Skin won't be that snappy crackle though. This recipe is the 24-minute version with actual results.
+
+**What's the best way to get fried chicken wings crunchy?**
+Dry them first. Fridge overnight if you have time. Oil at 350°F exactly. Don't crowd the pan. Nine to eleven minutes depending on size. Drain on a rack, not paper towels—if they sit on towels they steam and soften. Sauce them immediately while they're hot. Crispness is about moisture control, not magic.
+
+**Can you make buffalo wings deep fried the same way?**
+Different sauce. The technique is identical. Butter, hot sauce instead of hoisin and sriracha, maybe garlic. Heat it just enough to melt the butter. Don't simmer it. Toss hot wings in it. Same timing, same drying step, same everything else.
+
+**Should you pat chicken wings dry with paper towels before frying or just use the fridge method?**
+Do both. Fridge overnight pulls deep moisture out. Paper towels right before cooking grab the surface moisture so oil doesn't spatter as much and wings fry cleaner. Two minutes with paper towels after they come out of the fridge. Worth it.
+
+**What temperature should oil be for deep frying chicken wings?**
+350°F. Not 325. Not 375. The skin crisps at 350 without the inside staying raw. Lower and they absorb oil. Higher and skin burns before meat cooks through. Get a thermometer. Two dollars at any store. Better than guessing.
