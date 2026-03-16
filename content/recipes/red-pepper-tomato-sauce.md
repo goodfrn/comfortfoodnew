@@ -1,9 +1,9 @@
 ---
-title: "Red Pepper Tomato Sauce"
+title: "Red Pepper Tomato Sauce with Garlic"
 slug: "red-pepper-tomato-sauce"
-description: "A bright, slightly sweet tomato sauce with roasted red peppers and a touch of acidity from red wine vinegar. Vegetal notes from garlic and onion nestle beneath a rich, vibrant body. Cooked slowly to deepen flavors and meld textures. Dairy-free, gluten-free, vegan."
-metaDescription: "Red Pepper Tomato Sauce with roasted peppers, garlic, and sherry vinegar; slow-cooked to meld flavors, chunky rustic purée, vegan and allergen-friendly."
-ogDescription: "Roast, simmer, blend. A chunky red pepper tomato sauce with bold garlic, brown sugar balance, sherry vinegar tang. Slow cook for aromas and texture."
+description: "Vibrant red pepper tomato sauce made with roasted bell peppers, garlic, and onion. Slow-cooked with sherry vinegar for depth and complexity. Vegan, dairy-free, and gluten-free."
+metaDescription: "Red pepper tomato sauce with roasted peppers, garlic, onion, and sherry vinegar. Slow-cooked and naturally vegan. Make it tonight."
+ogDescription: "Slow-cooked red pepper sauce with crushed tomatoes, roasted peppers, garlic, and sherry vinegar. Vegan and naturally gluten-free."
 focusKeyphrase: "red pepper tomato sauce"
 date: 2025-09-26
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "easy"
 - "vegetarian"
 keywords:
-- "tomato sauce"
+- "red pepper tomato sauce"
+- "roasted red pepper tomato sauce"
+- "tomato sauce with garlic and onion"
+- "easy red pepper tomato sauce"
+- "homemade red pepper sauce with vinegar"
+- "vegan pasta sauce"
+- "slow cooked tomato sauce with roasted peppers"
 - "red pepper sauce"
-- "vegan sauce"
+- "mediterranean tomato sauce"
+- "tomato sauce"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "120"
@@ -62,3 +69,91 @@ faq:
 - "q: Storage and reheating tips? a: Keep refrigerated airtight jar up to 4 days; freeze in portions for months. Reheat low, stir often to prevent scorching. Sauce thickens as cools; add splash water or broth on reheating to loosen texture."
 
 ---
+
+Sizzle hits the pan the second the oil's ready. Onions go in. That's when you know something's actually happening.
+
+## Why You'll Love This Red Pepper Tomato Sauce
+
+Takes 35 minutes total. Sounds long. It's not. Mostly just waiting for things to get soft.
+
+Works as a vegan pasta sauce, dip, spread, base for soup—whatever. One bowl handles all of it.
+
+Mediterranean flavors but nothing fancy. Just onion, pepper, garlic, tomato, vinegar. Stuff that's already in your kitchen probably.
+
+No blending required if you don't want to. Chunky works. Smooth works. Depends what you're into.
+
+Tastes better the next day. Acidic edge softens. Flavors settle into something deeper.
+
+## What You Need for This Mediterranean Tomato Sauce
+
+Red bell pepper. One large one. Not yellow, not green. The red ones have sweetness.
+
+Onion—about a third cup, finely chopped. Size matters here. Smaller pieces cook faster and disappear into the sauce better.
+
+Three garlic cloves, minced. Not sliced. Minced melts. Sliced stays like chunks.
+
+Olive oil. Two tablespoons. That's the whole fat situation. Doesn't need more.
+
+Sherry vinegar. A tablespoon. Brightens everything. White vinegar is too sharp. Red wine vinegar works if you're desperate.
+
+One can of crushed tomatoes. 540 ml. Canned's better than fresh here—the acidity's already balanced.
+
+Brown sugar. A teaspoon. Not white sugar. Brown sugar has molasses, tastes less sharp.
+
+Salt and pepper. Finish with these. Taste as you go.
+
+## How to Make Easy Red Pepper Tomato Sauce
+
+Heat olive oil in a heavy pot over medium. Wait for it to shimmer—that thin, wavy layer on top. That's your signal.
+
+Onions go in. Listen for the sizzle. Stir often. You're not trying to caramelize them hard, just soften them. Takes about 7 minutes. They should look translucent. Edges go a bit golden. Not brown. There's a difference.
+
+Add the red pepper, garlic, brown sugar all at once. Stir. The raw edge of garlic disappears in about 6 minutes. You'll know because the smell changes—sweet and savory instead of sharp. If it smells burnt, heat was too high.
+
+Pour in sherry vinegar. Stir hard. Let it reduce down. Watch the pan. The vinegar should nearly disappear, the pan almost wiped clean. That's when the flavors concentrate. This is important.
+
+## How to Get the Perfect Texture in Your Homemade Red Pepper Sauce
+
+Crushed tomatoes go in now. Season with salt and pepper. Bring it to a gentle simmer—not a rolling boil. Small bubbles, not big ones. Cover it partially. Lower the heat.
+
+Let it sit for 12 minutes. Stir once or twice. The sauce thickens. The color gets deeper, more burgundy than bright red. Texture should be between chunky and saucy—not a soup, not a paste.
+
+Transfer to a blender or grab an immersion blender. Pulse it. You want rustic purée—some lumps are fine, actually better. Total smoothness makes it taste processed. Pulse until it looks right. You'll know.
+
+Back to the pan. Warm it through. Taste it. Fix it if needed. More salt? Add it now. Too acidic? A pinch of sugar or splash of olive oil calms it down.
+
+## Red Pepper Tomato Sauce Tips and Common Mistakes
+
+Don't rush the onions. They need to go soft. That foundation matters. Seven minutes minimum. More if you have time.
+
+Heat level stays medium. Too high and the garlic burns. Burnt garlic tastes bitter. Can't fix it. Start over.
+
+The vinegar reduction step—actually do it. Sounds fussy. It's not. The flavors get concentrated, sharper. The sauce tastes like actual sauce, not tomato soup.
+
+Blending is optional. If you like it chunky, leave it. If you like it smooth, blend longer. Just don't use a food processor. Comes out too thick.
+
+Storage: cool it completely, then airtight container in the fridge. Lasts five days, maybe six. Freezes fine too. Thaw in the fridge overnight.
+
+Reheating: gentle heat. Low flame. Stir it. High heat breaks the emulsion.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Red Pepper Tomato Sauce
+
+**Can I use roasted red peppers instead of fresh?**
+Yeah. They work. Flavor's a bit different—softer, sweeter. Skip the first couple minutes of cooking since they're already soft. Taste it and adjust the vinegar and sugar to balance.
+
+**Is this actually vegan pasta sauce?**
+Yes. Oil instead of butter. No cream. No cheese mixed in unless you add it yourself. Works on anything. Pasta, grains, roasted vegetables.
+
+**Can I skip the blending?**
+Totally. Leave it chunky. Some people prefer it that way. The sauce still tastes the same. Just looks different.
+
+**What if it's too acidic?**
+Sugar, a bit at a time. Or stir in a splash of olive oil. Either one calms it. Leave it overnight in the fridge too—the acidity softens by morning.
+
+**How long does it keep?**
+Fridge: five or six days in an airtight container. Freezer: couple months easy. Thaw in the fridge. Don't thaw on the counter.
+
+**Why sherry vinegar and not something else?**
+Sherry vinegar's got complexity. White vinegar's too sharp. Red wine vinegar works but tastes different. Apple cider's too fruity. Stick with sherry or don't bother.
