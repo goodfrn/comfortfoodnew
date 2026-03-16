@@ -29,6 +29,7 @@
       width: 100%;
       height: 100%;
       object-fit: cover;
+      object-position: center;
       opacity: 0.85;
       transition: opacity 0.4s;
     }
@@ -296,7 +297,7 @@
   <!-- HERO IMAGE -->
   <div class="rc-hero">
     {{ if $img }}
-      <img src="/images/{{ $img }}" alt="{{ $p.Title }}" loading="lazy">
+      {{ partial "recipe-image.html" (dict "image" $img "title" $p.Title "loading" "lazy") }}
     {{ else }}
       <div style="width:100%;height:100%;background:linear-gradient(135deg,#2b2016,#5a4a2f);"></div>
     {{ end }}
