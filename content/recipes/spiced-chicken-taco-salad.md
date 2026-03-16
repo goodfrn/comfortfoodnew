@@ -1,10 +1,10 @@
 ---
-title: "Spiced Chicken Taco Salad"
+title: "Bean Salad with Grilled Chicken & Mint"
 slug: "spiced-chicken-taco-salad"
-description: "A spicy twist on a fresh salad with grilled chicken breasts seasoned with smoked paprika. Includes shredded iceberg lettuce, diced red bell peppers, sliced cucumbers, and canned kidney beans. Tossed with a lemon-mint dressing featuring fresh mint, green onions, and a touch of serrano pepper. Served with crunchy tortilla chips and a dollop of Greek yogurt. Gluten-free, nut-free, and egg-free option. Preparation involves grilling chicken, assembling fresh veggies, and blending a zesty dressing. Cooling the chicken before slicing helps keep textures crisp and flavors distinct."
-metaDescription: "Spiced Chicken Taco Salad with grilled smoked paprika chicken, crunchy tortilla chips, lemon-mint dressing, kidney beans, cucumber, red bell peppers. Gluten-free, nut-free."
-ogDescription: "Grilled smoky chicken breast over shredded iceberg, crisp peppers, cucumber, kidney beans, tortilla chips. Lemon-mint dressing with a serrano kick. Light, crunchy, fresh."
-focusKeyphrase: "spiced chicken taco salad"
+description: "Spicy bean salad with grilled chicken, kidney beans, red peppers, and cucumber. Tossed with fresh mint and lemon dressing, topped with tortilla chips and Greek yogurt."
+metaDescription: "Bean salad recipe with grilled chicken, kidney beans, fresh mint, and lemon dressing. Gluten-free and nut-free. Make it tonight."
+ogDescription: "Grilled chicken bean salad with fresh mint, kidney beans, red peppers, and crispy tortilla chips. Zesty lemon dressing."
+focusKeyphrase: "bean salad"
 date: 2025-07-26
 draft: false
 image: spiced-chicken-taco-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "tacos"
 - "mexican"
 keywords:
-- "taco salad"
-- "smoked paprika chicken"
-- "lemon mint dressing"
+- "bean salad"
+- "bean salad recipes"
+- "grilled chicken salad"
+- "grilled chicken salad recipe"
+- "kidney bean salad"
+- "salad with kidney beans"
+- "chicken salad recipe"
+- "fresh mint salad"
+- "lemon dressing salad"
+- "gluten-free salad"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "320"
@@ -74,3 +81,125 @@ faq:
 - "q: What if no grill available? a: Use grill pan or broiler inside. Moderate heat, oil pan well. Watch cooking time same as grill. Avoid direct flame if indoors. Cook chicken fully, rest before slicing wants firm texture, no drying out. Toss smoky paprika right before cooking."
 
 ---
+
+Grill the chicken first. Everything else happens while it cools—mint dressing gets blended, lettuce gets shredded, beans get rinsed. Thirty-two minutes total and you've got a salad that actually fills you up. Not the sad kind you eat because you're supposed to.
+
+## Why You'll Love This Grilled Chicken Salad
+
+Feeds four people without feeling like you're eating nothing. The tortilla chips stay crunchy because you add them last.
+
+Spicy mint dressing. Works on literally anything—tacos, eggs, plain chicken, whatever. Made it once and stopped buying ranch.
+
+Takes 32 minutes. That's prep and cook. Most of it's just letting the chicken cool down so you don't burn your hands.
+
+Kidney beans. Makes it actual protein, not just lettuce. Stays good in the fridge for two days if you keep the chips separate.
+
+The Greek yogurt thing. You add as much or as little as you want. Some people hate it. Skip it.
+
+## Ingredients for Grilled Chicken and Bean Salad
+
+**Dressing first.**
+
+Mint leaves. Fresh only. Dried tastes like nothing. Stems included—don't bother picking them out. Half a bunch, rough count.
+
+Green onion, cut into chunks. One is fine. Two if it's a small one.
+
+Serrano chili, half of one, seeded. That's the baseline. Adjust up if you like fire. Adjust down if you hate your mouth burning.
+
+Small garlic clove. Not a whole bulb situation. One clove.
+
+Extra virgin olive oil. About three-quarters cup. Matters more than you'd think.
+
+Lemon juice. Fresh squeezed beats bottled, but bottled works. Three tablespoons.
+
+Salt and pepper. Obviously.
+
+**For the salad itself.**
+
+Two chicken breasts. Boneless, skinless. They cook faster that way.
+
+Smoked paprika. One teaspoon. Gives it that charred taste without actually charring.
+
+Iceberg lettuce. A whole head. Shred it however—knife, hands, box grater. Doesn't matter.
+
+Two medium red bell peppers. Diced. Not chopped. Diced matters here.
+
+One medium cucumber. Thin slices. Seeds usually end up in the dressing anyway.
+
+One can of kidney beans. Rinsed and drained. Don't skip the rinsing part—the liquid tastes like metal.
+
+Tortilla chips. Four cups or so. Crush them slightly if you hate huge shards.
+
+Greek yogurt. Have some around. Maybe you use it. Maybe you don't.
+
+## How to Make Grilled Chicken Salad
+
+Start with the dressing because it needs to chill and honestly you'll forget if you leave it for last. Mint, green onion, serrano, garlic into the food processor. Season it now—salt and pepper. Pulse until it looks chopped fine. Not smooth. Fine.
+
+Pour in the olive oil and lemon juice. Blend it until the oil stops separating. It should look kind of unified but still have flecks of green in it. That's the goal. Dump it in a bowl or jar and stick it in the fridge. It'll be fine sitting there for hours.
+
+Get your grill hot. Medium-high. If you're using a grill pan, same thing—let it get hot before you touch it. Oil the grates or the pan. Not much, just enough so the chicken doesn't stick to its own life.
+
+Season the chicken breasts. Salt. Pepper. Smoked paprika sprinkled on both sides. Don't be shy with the paprika.
+
+Grill them about 6 to 7 minutes per side. You'll know they're done when a knife goes through the thickest part and no pink comes out. Don't poke at them. Don't flip constantly. Just let them sit there and cook.
+
+Pull them off. Let them rest until you can hold them without swearing. Then wrap them and stick them in the fridge for 45 minutes. This part matters—cold chicken slices clean. Hot chicken falls apart like it's been through something.
+
+While the chicken chills, dice your peppers, slice your cucumber, shred your lettuce. Rinse your beans. All of this takes maybe ten minutes if you move at a normal human speed. Slower if you're texting. That's fine.
+
+## Getting the Grilled Chicken Salad Together
+
+Platter goes down first—big one. Lettuce in the middle, piled up a bit. Not flat like you're plating at a restaurant. Just mounded. Peppers, cucumber, beans around the edges. Scatter them. Doesn't need to be pretty.
+
+Slice the cold chicken. Not thin. Just slice it. Lay it over the lettuce.
+
+Salt and pepper the whole thing one more time. Tastes like nothing without it.
+
+Tortilla chips go on last. Right before people eat it. They stay crunchy that way. If you dump them on early they get soggy and weird.
+
+Dressing on the side. Greek yogurt on the side. Let people build their own thing—some people want just dressing, some people want both, some people want neither. Not your problem.
+
+## Grilled Chicken Salad Tips and Common Mistakes
+
+The chicken has to be completely cool before you slice it or it won't hold together right. Warm chicken is mush. Cold chicken is actual texture.
+
+Don't grill from frozen. Let it sit on the counter for maybe 20 minutes first. Even and fast matters more than starting cold.
+
+The dressing separates sometimes. Shake it before you use it. Or blend it again for 10 seconds. Doesn't break anything.
+
+If you hate serrano, use jalapeño. Milder. Or just leave the chili out and add more lemon. Works either way.
+
+Red kidney beans specifically because they don't fall apart. Black beans work too but they're softer and they stain everything.
+
+Iceberg gets a bad reputation but it stays crisp longer than other lettuces. That matters here.
+
+You could make this with just the salad part and skip the chicken entirely. Not a chicken salad then. A bean salad with lettuce. Still good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Bean Salad with Grilled Chicken
+
+**Can I make the dressing ahead of time?**
+Yeah. Make it the morning of. Keeps in the fridge for a few days. Just shake it before you use it because the oil will float.
+
+**What if I don't have a grill?**
+Pan works. Hot pan, same timing. Oven at 425 works too—about 15 minutes, flip halfway. Won't get the char but it'll be cooked.
+
+**Can I use a different bean?**
+Cannellini works. Black beans work. Chickpea salad situation would work too. Avoid canned beans that are already soft—they'll fall apart when you toss everything.
+
+**How long does this keep?**
+Two days if you keep the chips and dressing separate. The chips will get soggy if they sit with wet lettuce. The dressing makes the whole thing watery after a while.
+
+**Do I have to use Greek yogurt?**
+No. Half the people I've made this for don't touch it. Have it there. Don't force it.
+
+**Can I make this for tacos instead of a salad?**
+Literally yes. Shred the chicken more. Skip the lettuce base. Use the chips as a crunchy thing on top of regular taco shells. Use the dressing as sauce. Works with chicken tacos especially.
+
+**Is this actually spicy?**
+Depends on your serrano. Half a serrano with seeds removed is mild-medium spicy. You'll taste the mint more than the heat. If you want more heat, don't remove the seeds or use a whole one.
+
+**What's the difference between this and a three bean salad?**
+Three bean salad is usually green beans, wax beans, kidney beans. Cold salad. Served on its own. This is warm chicken on top of a fresh green salad that has kidney beans in it. Different structure. Different eating experience.
