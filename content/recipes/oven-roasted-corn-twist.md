@@ -1,10 +1,10 @@
 ---
-title: "Oven Roasted Corn Twist"
+title: "Oven Roasted Corn with Fresh Basil"
 slug: "oven-roasted-corn-twist"
-description: "Corn ears roasted in the oven at moderate heat. Coated with herb-infused fat for flavor and moisture retention. Halfway flip ensures even cooking, heating corn till kernels soften and caramelize slightly. Chives swapped for fresh basil, butter for grapeseed oil blend. Salt and pepper ground fresh. Hands-on tips to spot doneness without timing anxiety. Handles silk removal challenges and alternative fats. Slightly longer cook by 5 minutes to coax deeper roasting tone, visually evident in golden kernels and faint browned spots. Beware overcooking dryness; tactile softness test beats clock. Yield enough for a small gathering or family meal."
-metaDescription: "Oven Roasted Corn Twist cooks corn slow at 345F, coated with basil grapeseed fat. Flip halfway, listen for sizzle, test kernel softness, avoid dryness. Yields 6 servings."
-ogDescription: "Roast corn low and slow at 345F with basil-grapeseed oil blend. Flip at 18 mins. Look for golden kernels, sizzling sounds, and tender bite. Skip boil, embrace aroma cues."
-focusKeyphrase: "oven roasted corn"
+description: "Oven roasted corn coated with grapeseed oil and fresh basil. Herb-infused kernels caramelize beautifully with a halfway flip for even cooking and golden, tender results."
+metaDescription: "Oven roasted corn recipe with fresh basil and grapeseed oil for caramelized, tender kernels. Simple herb side dish that impresses. Make it tonight."
+ogDescription: "Perfectly caramelized oven roasted corn with fresh basil, grapeseed oil, and butter. Golden kernels, deep flavor."
+focusKeyphrase: "oven roasted corn recipe"
 date: 2025-10-10
 draft: false
 image: oven-roasted-corn-twist.jpg
@@ -21,9 +21,14 @@ tags:
 - "vegetarian"
 - "easy dinner"
 keywords:
-- "corn on the cob"
-- "oven roasted corn"
-- "basil herb corn"
+- "oven roasted corn recipe"
+- "roasted corn with basil"
+- "herb roasted corn"
+- "oven roasted corn with fresh herbs"
+- "corn side dish"
+- "caramelized corn with herbs"
+- "roasted corn"
+- "vegetarian corn side dish"
 breadcrumb: ["Home", "Recipes", "Side Dishes"]
 nutrition: 
  calories: "120"
@@ -67,3 +72,89 @@ faq:
 - "q: How to store leftovers? a: Wrap cooled corn tight foil or airtight container. Refrigerate up to 2 days. Reheat gently oven or microwave low power to avoid drying. Leftover herb oil can be stored separately then drizzled fresh before serving again."
 
 ---
+
+Husked corn goes straight on the sheet. 345 degrees. Basil oil brushed on every kernel. 35 minutes and you're watching it turn that specific tan color — not golden, not brown yet, just this in-between thing where it starts to smell like caramelized sugar. The twist is the grapeseed oil mixed with butter. Not all butter. That's the whole point.
+
+## Why You'll Love This Oven Roasted Corn with Basil
+
+Takes 42 minutes total. Seven of that is just prep — husking, brushing, done.
+
+Works as a side dish for basically anything. Grilled chicken, fish, nothing at all. Cold the next day, maybe even better.
+
+Vegetarian. Obviously. No hidden meat, no weird stuff.
+
+The basil stays bright because you're not boiling it to death. Fresh herbs don't go in the oven with the corn — they go in the oil first, stay fresh that way.
+
+Grapeseed oil doesn't burn like regular olive oil does. Stays clean. Butter adds richness without making everything slick.
+
+## What You Need for Herb Roasted Corn
+
+Six ears, husked. Silk removed under cold water — it comes off faster when it's wet, not dry.
+
+Grapeseed oil and butter mixed. Four tablespoons total. You could do all butter. It'll brown faster, might get darker. Grapeseed oil takes longer to caramelize, which sounds annoying until you realize that means more control.
+
+Three tablespoons basil, fresh, chopped fine. Not dried. Dried basil is just decoration at that point. Chives work too. So does dill if you want something different.
+
+Kosher salt. One teaspoon. Fresh cracked pepper, half a teaspoon. Both matter more than you'd think.
+
+## How to Make Oven Roasted Corn with Fresh Herbs
+
+Preheat to 345. Not 375. Not 400. Lower heat means slower browning, which means you catch it right when the kernels start turning that caramel color instead of rushing past it and ending up with burnt spots.
+
+Line your sheet with foil or parchment. Matters for cleanup, matters because the foil reflects heat up, cooks the bottom kernels without them sitting in a puddle of oil.
+
+Warm the grapeseed oil and a small piece of butter together. Microwave works. Stovetop works. Just don't get it smoking hot — you're about to mix the basil in, and you want it to smell alive, not cooked into submission.
+
+Stir the basil, salt, and pepper into that warm oil. Let it sit for a minute. The oil pulls the basil flavor while everything's still gentle.
+
+Brush every kernel. This is the part where people rush. Don't. Every missed spot gets dry. The oil is what makes the kernels steam and brown at the same time. Without it, you're just drying corn in an oven.
+
+## How to Get Corn Caramelized and Tender
+
+Lay the ears on the sheet spaced apart. They need air around them, not crowded. Hot air has to circulate or the bottoms steam and the tops stay pale.
+
+Around 18 minutes, flip them. You'll hear a gentle sizzle when you do if the oil's hot enough. Brush the other side if any spots look dry. The kernels should be turning that light golden color now, maybe a few darker speckles starting.
+
+Listen for a pop and crackle hint aroma around 30 minutes. That's the caramel starting. Not burnt. Not caramel yet. Just the beginning.
+
+Stick a fork into a kernel around 33 to 40 minutes. Should give when you bite it but not fall apart. If it's tough, keep it in. Three to five more minutes. But watch. There's a line between roasted and straw.
+
+Total time in the oven — about 35 minutes. Maybe 37. Not 42. The 42 is prep plus cook. People get confused.
+
+## Oven Roasted Corn Tips and Common Mistakes
+
+The biggest mistake is high heat. Everyone thinks hotter is faster. Hotter is burnt. Stick with 345.
+
+Don't skip the oil brushing. Dry corn is sad corn. Every kernel gets a coat.
+
+Grapeseed oil does take longer to brown than butter. That's not a failure. That's the point. You get more time to catch it.
+
+If you want to swap fats — all butter works, but watch it closer after minute 25. Olive oil works but it'll taste different, more peppery. Avocado oil's fine too. Don't use spray oil. Doesn't coat evenly.
+
+Basil's the obvious choice here. Try coriander if you want something grassy and slightly peppery. Dill if you want something fresh but different. Thyme if you want it earthy. One tablespoon if you're using something dried — fresh herbs pack way more flavor, so you need less of them, not more.
+
+Older corn has more silk stuck between the kernels. Cold water helps. So does gently scraping with the edge of a blade — careful not to gouge the kernels.
+
+Leftover oil drizzled on right before serving wakes it up. So does a squeeze of lemon, smoked paprika, or nothing. Cold corn's good plain.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Oven Roasted Corn
+
+**Can you make roasted corn with fresh herbs ahead of time?**
+Yep. Brush it, refrigerate it. Bring it to room temperature before baking or add 5 minutes to the cook time. The basil oil doesn't separate or go bad in a few hours. Day old corn tastes the same cold. Reheats fine at 325 for like 10 minutes if you want it warm again.
+
+**What temperature should oven roasted corn be cooked at?**
+345. Lower than you think. Caramelization happens slow, which is what you want. Higher temps brown the outside before the inside softens. Tried it at 375 once. Kernels got tough edges and pale middles. Don't bother.
+
+**Can you substitute the grapeseed oil in this corn side dish?**
+Butter works. Takes less time to brown. Avocado oil works. Olive oil tastes different but it works. Vegetable oil is boring but fine. Don't use coconut oil unless you want corn that tastes like sunscreen.
+
+**How do you know when oven roasted corn is done?**
+Fork test. Kernel should give a little when you bite it. Should not fall apart. You'll also hear it sizzling in the pan if it's done right. Color-wise, light golden with some darker speckles. Not all one color. Not pale. Takes around 35 minutes but check at 33.
+
+**Can you roast corn with basil in advance for meal prep?**
+Makes sense. Roast it. Cool it. Fridge it. Lasts maybe three days. Cold, it's its own thing — almost better. Warm it up if you want, but you lose some of that caramel crispness on the kernels.
+
+**What's the difference between grapeseed oil and butter for roasting corn?**
+Grapeseed oil browns slower, stays cleaner, lets you see what you're doing. Butter browns faster, tastes more like butter. That's it. Both work. Grapeseed gives you a wider window to catch doneness.
