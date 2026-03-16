@@ -1,10 +1,10 @@
 ---
-title: "Maple Butter Cookies"
+title: "Maple Butter Cookies with Orange Zest"
 slug: "maple-butter-cookies"
-description: "Sweet maple butter treats. Dough rests cold. Flour with baking powder and salt. Butter blended with maple sugar and vanilla. Egg binds it. Chill before rolling thin. Cut rounds, some with holes. Bake 9-13 minutes. Maple butter filling whipped cold, then creamy. Sandwich cookies with holey tops. Dust with icing sugar. Store a week airtight room temp. Reworked for less sugar, different fat, and a twist of citrus zest. Baking times tweaked slightly."
-metaDescription: "Maple Butter Cookies are sweet treats with a hint of maple and orange. Perfect for sharing with friends and family, they’re soft, delicious, and memorable."
-ogDescription: "Delight in Maple Butter Cookies, sweet with maple and orange zest. A perfect treat for any occasion, soft and flavorful. Great for sharing."
-focusKeyphrase: "Maple Butter Cookies"
+description: "Maple butter cookies made with all-purpose flour, maple sugar, and unsalted butter. Cream cheese filling topped with orange zest and icing sugar dusting. Homemade sandwich cookies perfect for gifting."
+metaDescription: "Maple butter cookies recipe featuring maple sugar, unsalted butter, and cream cheese filling with orange zest. Homemade sandwich treats. Make it tonight."
+ogDescription: "Homemade maple butter cookies with cream cheese filling, orange zest, and icing sugar. Sweet, buttery, and perfectly chilled."
+focusKeyphrase: "maple butter cookies"
 date: 2025-07-19
 draft: false
 image: maple-butter-cookies.jpg
@@ -19,9 +19,16 @@ tags:
 - "vanilla"
 - "homemade"
 keywords:
-- "cookies recipe"
-- "sweet treats"
-- "Canadian dessert"
+- "maple butter cookies"
+- "butter cookie recipe"
+- "maple sugar cookies"
+- "cream cheese filling cookies"
+- "orange zest cookies"
+- "homemade vanilla cookies"
+- "sandwich cookies recipe"
+- "maple cookies"
+- "chilled butter dough cookies"
+- "icing sugar cookies"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "140"
@@ -79,3 +86,49 @@ faq:
 - "q: Can I omit the orange zest? a: Yes, but flavor changes. It adds freshness, brightness. Consider vanilla or other citrus zest for alternative. Adjust sweetness if needed."
 
 ---
+
+Seventy minutes sounds long until you realize most of it's the dough sitting in the fridge doing the work for you. Roll, cut, bake, fill. The maple butter filling is where this stops being just another butter cookie recipe and becomes something people actually ask you to make again.
+
+## Why You'll Love These Maple Butter Cookies
+
+Takes 82 minutes total but you're barely active for 20 of them. Rest of the time the dough chills itself. Homemade vanilla cookies that taste like you went to culinary school. The maple sugar and orange zest keep them from tasting boring—most butter cookies do taste boring. Cream cheese in the filling sounds weird. Works perfectly. Store them up to seven days and they're still soft. Some cookies get stale. These don't.
+
+## What You Need for Maple Butter Cookies
+
+Unbleached all-purpose flour—300 grams. The brand matters less than the weight. Unsalted butter, softened, 140 grams. Cold butter won't cream properly. Maple sugar instead of regular—45 grams. Tastes different. Actually tastes like maple. Three milliliters baking powder. That's less than a teaspoon but be precise. Sea salt, 1.5 milliliters. Coarser than table salt. Stays on the cookie instead of disappearing. One large egg. Room temperature works better but honestly cold is fine. Vanilla extract, 2.5 milliliters. Real vanilla. The fake stuff tastes thin. Orange zest from one small orange, finely grated. Changes everything. For the filling—140 milliliters maple butter, chilled. Not maple syrup. Maple butter. Twenty milliliters cream cheese, softened. Icing sugar for dusting. The amount depends on how heavy you want to go.
+
+## How to Make Maple Butter Cookies
+
+Flour, baking powder, salt go in a bowl first. Whisk them together or just stir—doesn't matter much. In another bowl, beat the softened butter and maple sugar at medium speed until it goes creamy and pale. Takes maybe three minutes. Add the vanilla extract and orange zest. Beat again. Drop in the egg, mix until it disappears into the butter. Now add the dry stuff gradually on low speed. Keep the mixer moving so you don't end up with flour clouds everywhere. Once it forms a dough, gather it into a disc with your hands. Wrap it tight in plastic wrap. Refrigerate for 55 minutes minimum. People skip this step. Don't. Cold dough rolls smoother and holds its shape when it bakes.
+
+Center oven rack. Heat it to 175C (350F). Line your baking sheets with parchment. On a lightly floured surface, roll the dough to about 4 millimeters thick. Not too thin or they'll shatter. Not too thick or they won't bake through. Use a 4-centimeter round cutter—standard size—and cut circles. Half of them get cut again with a smaller cutter or piping tip to make the holes. Space them out on the sheets. Gather your scraps, reroll, cut more. Bake one sheet at a time for nine to 14 minutes. Edges should be golden but not dark. The centers look barely done. They firm up as they cool. Cool completely on racks—that takes about 50 minutes. Don't skip this either. Warm cookies break apart when you fill them.
+
+## How to Get the Filling Right on Maple Butter Cookies
+
+Whip the chilled maple butter and softened cream cheese together for three minutes. It should go pale and fluffy—that's the air getting worked into it. Chill the filling for 25 minutes. Then whip it again until firm peaks form. The peaks matter. Soft filling leaks out when you press the cookies together. Put the filling in a pastry bag with a round tip. Pipe it onto the bottoms of the solid cookies—not the ones with holes. Top each one with a hole cookie, press gently so they stick. Dust the surfaces with icing sugar before serving. The sugar doesn't stick to warm cookies, so wait until they're completely cool.
+
+## Maple Butter Cookies Tips and Common Mistakes
+
+Don't skip the initial chill. Room temperature dough spreads too much and your circles become weird shapes. If your dough is too soft to roll, it's too warm. Throw it back in the fridge for ten minutes. The orange zest is optional but don't actually skip it. Sounds strange with maple. Isn't. Balances it out. Store them airtight at room temperature—they keep up to seven days. Don't refrigerate them or the texture changes. The filling gets grainy sometimes if the cream cheese was too cold or if you overmixed it. If that happens, no fix. Just happens sometimes. Next time soften the cream cheese more. Some people add a pinch of maple extract to the filling. Haven't tried it. Probably works.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Maple Butter Cookies
+
+**Can I make the dough ahead?**
+Yes. Wrap it, refrigerate up to three days. Let it sit at room temperature for five minutes before rolling so it's not rock hard.
+
+**What if my dough is too sticky to roll?**
+Chill it longer. Or flour the counter more heavily. Some days humidity makes dough behave different.
+
+**Can I freeze the baked cookies?**
+Works fine. Thaw them at room temperature. Filling might separate if you're not careful—keep them in an airtight container while thawing so they don't dry out first.
+
+**Do I have to use maple sugar?**
+Technically you could use regular sugar. Won't taste the same though. Maple sugar has a specific flavor regular sugar doesn't replicate. Not worth the swap.
+
+**What can I use instead of cream cheese in the filling?**
+Mascarpone. Ricotta if you strain it first. They taste different but both work. Greek yogurt doesn't—it's too tangy and the texture's wrong.
+
+**How do I know when they're done baking?**
+Edges are golden. Centers look barely set. When you press the top gently it springs back. Slight resistance. Not rock solid. They firm up completely once they cool.
