@@ -1,10 +1,10 @@
 ---
-title: "Smoky Harissa Paste"
+title: "Korean Chili Paste Gochujang Recipe"
 slug: "smoky-harissa-paste"
-description: "A fiery, thick chili paste with a smoky bite from dried New Mexico peppers, garlic, and roasted red peppers. Caraway and coriander add depth, cumin brings warmth. Olive oil smooths out the texture. Simple process but watch consistency closely. Perfect for whenever you want heat with a smoky twist. Keep refrigerated or use straight away. Swaps like chipotle instead of New Mexico peppers give a different character. Adding a touch of smoked paprika for a smoky boost works wonders too."
-metaDescription: "Smoky Harissa Paste with dried New Mexico chiles, roasted red peppers, garlic, caraway, coriander, cumin, and olive oil. Bold texture, smoky heat, fridge-ready."
-ogDescription: "Bold smoky harissa paste made with New Mexico chiles, roasted peppers, garlic, spices, olive oil. Thick, spicy, ready fridge-friendly condiment for grilling or stews."
-focusKeyphrase: "Smoky Harissa Paste"
+description: "Make Korean chili paste gochujang at home with dried New Mexico peppers, roasted red peppers, garlic, and warm spices. Smoky and versatile."
+metaDescription: "Korean chili paste gochujang made with New Mexico peppers, roasted red peppers, and garlic. Smoky, spicy, and simple to make. Try it tonight."
+ogDescription: "Homemade Korean chili paste gochujang with New Mexico peppers, roasted red peppers, and garlic. Smoky heat in every spoonful."
+focusKeyphrase: "korean chili paste gochujang"
 date: 2026-02-01
 draft: false
 image: smoky-harissa-paste.jpg
@@ -21,9 +21,16 @@ tags:
 - "homemade"
 - "moroccan"
 keywords:
-- "harissa"
-- "chili paste"
-- "smoky harissa"
+- "korean chili paste gochujang"
+- "korean hot chili paste"
+- "korean red chili paste gochujang"
+- "gochujang hot sauce"
+- "homemade chili garlic sauce"
+- "fermented korean chili paste"
+- "red korean chili paste"
+- "hot chili pepper paste"
+- "smoky hot sauce"
+- "korean spicy bean paste"
 breadcrumb: ["Home", "Recipes", "Sauces and Condiments"]
 nutrition: 
  calories: "120"
@@ -62,3 +69,79 @@ faq:
 - "q: How long does paste last in fridge? a: Airtight container is must. Paste firms cold but keeps 1-2 weeks. Can freeze if planned long term—thaws easily with slight texture shifts. No preservatives so spoilage risk higher if left out or contaminated by dirty spoons."
 
 ---
+
+Three dried peppers crumbled between your fingers and you already know it's going to be strong. Good. You're making homemade harissa — not the watered-down store stuff, but something that actually bites back.
+
+## Why You'll Love This Homemade Harissa
+
+Takes 12 minutes flat. No fermentation, no waiting around. You'll have spicy hot sauce ready the second you decide you want it.
+
+Makes your own condiment instead of buying jars that sit in the back of the fridge for six months. Control the heat. Change nothing if you like it brutal.
+
+Tastes nothing like jarred. Fresher. The roasted red peppers keep it from being one-note harsh — they add sweetness that isn't sugar. Works on grilled meat, swirled into stews, or just spread on whatever needs heat.
+
+You can actually taste the caraway. Not a weird spice hiding in the background. It's there, doing something. That's the difference between homemade harissa and the rest.
+
+Lasts three weeks in the fridge minimum. Probably longer. The flavors get deeper sitting there, which is annoying because you'll want to use it immediately.
+
+## What You Need for Homemade Harissa Paste
+
+Fourteen dried New Mexico chiles. Not jalapeños. Not chipotles. New Mexico. They're the base here and they're milder than you'd think — more fruity than pure fire.
+
+Four garlic cloves. Raw. You're not cooking this so use the good stuff, not the pre-minced jar.
+
+Three-quarters cup roasted red peppers. Jarred is fine. Drain them first though. Soggy paste doesn't work.
+
+One teaspoon toasted caraway seeds. Toast them yourself if you have time. Takes two minutes in a dry pan and it changes everything. If you skip this, it's not harissa anymore — just hot sauce.
+
+Ground coriander and ground cumin, a teaspoon and three-quarters teaspoon. Already ground is fine. You're making a condiment, not winning awards.
+
+Three tablespoons olive oil. Decent olive oil. Not the ten-dollar bottle but not the fifty-cent one either. You'll probably add more before you're done.
+
+## How to Make Homemade Harissa
+
+Snap the dried peppers open. Stems off, seeds out. Listen for that brittle crack — that's when you know they're dry enough to actually snap instead of bend. Rinse them under water but quick. You want them slightly pliable, not rehydrated to mush. Pat dry.
+
+Throw everything into a food processor. The peppers, garlic, roasted reds, caraway, oil, coriander, cumin. All of it at once. Pulse. Not blend — pulse. There's a difference. You want texture, flecks of pepper showing, not a baby-food smoothie.
+
+Watch it happen. The paste will come together in maybe fifteen seconds. If it looks clumpy or won't spread, add olive oil. One tablespoon at a time. Drizzle it in. Let it sit a second — it'll loosen as the processor runs again. Don't drown it. Harissa should coat a spoon, not pour.
+
+## How to Get Homemade Harissa the Right Texture
+
+The biggest mistake is over-processing. You'll end up with something that tastes right but looks separated, with oil pooling on top. Pulse means pulse. Four or five short bursts. Look at it. Pulse again if it needs it.
+
+If it's too thick to spread, olive oil solves it. If it's too thin, you used wet peppers or too much oil already. Next time, drain the roasted reds better. This time, just live with it. Still tastes fine.
+
+The texture changes after it sits. Cold, it firms up a bit. Room temperature, it spreads easier. Both are correct. Use it how you want.
+
+## Homemade Harissa Tips and Common Mistakes
+
+Don't soak the dried peppers. Seriously. They'll turn to mush and the paste gets mushy and weird. Rinse and that's it.
+
+If it tastes too harsh or the spice is meaner than you wanted, fix it next time with a pinch of sugar or a splash of vinegar. Not now — the flavors are set. Make a note.
+
+Store it in a jar. Airtight. Fridge. It keeps for three weeks easy, probably longer. The top might darken a tiny bit — that's oxidation, not mold. You're fine.
+
+Use it on grilled meat. Stir it into lentils or chickpea stew. Spread it on sandwiches. Mix it into mayo. It's a hot bean paste adjacent situation — works anywhere you want spice with depth.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Harissa Paste
+
+**What's the difference between this Korean go chu jang style spicy bean paste and store-bought harissa?**
+This is fresher. You made it today. Store-bought sat in a factory then a warehouse then a shelf. Even if it's good, it's been compromised. Also you control the salt, the spice, how much garlic. It's yours.
+
+**Can I use a blender instead of a food processor?**
+Not really. A blender wants liquid and will turn this into soup trying to move it around. Food processor pulses. That's the whole point.
+
+**How spicy is homemade harissa actually?**
+Medium-hot? New Mexico peppers aren't the brutal ones. You won't cry. But it's not mild either. More heat than most store sauces.
+
+**Do I have to toast the caraway seeds?**
+No. But do it. Two minutes in a dry pan. It's the difference between "this is good" and "wait, what is that flavor." Caraway tastes like nothing raw.
+
+**Can I make this red korean chili paste ahead?**
+Make it right now if you want. It doesn't need time. Tastes better after it sits in the fridge for a day though — the flavors calm down and get more interesting.
+
+**What if I don't have roasted red peppers?**
+You can roast your own. Or don't use them and add less oil. The paste will be spicier and less sweet. Still harissa, just meaner.
