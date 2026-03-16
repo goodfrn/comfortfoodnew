@@ -1,10 +1,10 @@
 ---
-title: "Upside-Down Caramel Buns"
+title: "Homemade Cinnamon Rolls with Honey Caramel"
 slug: "upside-down-caramel-buns"
-description: "Sweet yeast dough rolled with cinnamon sugar, baked atop a rich caramel sauce. Buttermilk swaps for yogurt, light corn syrup replaced by honey. Dough soft, sticky; buttery caramel thickens in the pan. Let rise twice, first loose, then firm. A sticky, golden mess when inverted. Each bun pulls apart with chewy, sugary strands. Timings shifted slightly; texture taught by feel and sight. Cinnamon swap with cardamom for warmth. Honey adds floral depth to caramel. Twist with grapefruit zest in dough for bright counterpoint. Yeast bubbling signals action. Watch color, not just clocks. Butter glaze on top seals softness. Perfect for brunch or late night cravings."
-metaDescription: "Sweet yeast dough rolled with cinnamon sugar atop rich caramel glaze. Twice proofed, honey substitutes syrup, cardamom swaps cinnamon; textured, sticky, golden buns."
-ogDescription: "Golden caramel buns twice-risen, sticky mess pulls with sugary strands. Honey, cardamom tweak flavors; watch bubbles, color, aroma for baking cues."
-focusKeyphrase: "Upside-Down Caramel Buns"
+description: "Soft homemade cinnamon rolls made with yogurt dough and filled with cinnamon sugar. Baked in honey cardamom caramel sauce for rich, sticky texture."
+metaDescription: "Make homemade cinnamon rolls with yogurt dough, cinnamon filling, and honey caramel sauce. Soft, chewy, and perfect for brunch. Try it tonight."
+ogDescription: "Yogurt dough cinnamon rolls with honey caramel. Soft, chewy, and sticky—pure comfort in every bite."
+focusKeyphrase: "homemade cinnamon rolls"
 date: 2025-08-05
 draft: false
 image: upside-down-caramel-buns.jpg
@@ -21,9 +21,18 @@ tags:
 - "breakfast"
 - "honey"
 keywords:
-- "caramel buns"
-- "yeast dough"
-- "cinnamon sugar"
+- "homemade cinnamon rolls"
+- "homemade cinnamon buns"
+- "cinnamon bun recipe easy"
+- "easy recipe for cinnamon rolls"
+- "best recipe for cinnamon rolls"
+- "homemade cinnamon roll recipe"
+- "yeast bread recipes"
+- "bread recipe using yeast"
+- "simple cinnamon bun recipe"
+- "yogurt bread recipe"
+- "honey caramel rolls"
+- "cardamom cinnamon rolls"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "350"
@@ -88,3 +97,72 @@ faq:
 - "q: How to store leftovers? a: Wrapped airtight room temp couple days fine. Refrigerate slows staling but toughens crust. Warm gently before serving to restore softness; freeze option but lose some texture."
 
 ---
+
+Yogurt dough. Brown sugar caramel. Cardamom twist instead of the usual cinnamon in the sauce. Roll it tight, let it rise twice, bake 28 minutes and watch the caramel bubble up around the edges like it's alive.
+
+## Why You'll Love This Easy Cinnamon Rolls Recipe
+
+Takes 40 minutes hands-on, then mostly sitting around waiting. The yogurt in the dough makes it soft without being wet. Cardamom in the caramel instead of more cinnamon — sounds weird, tastes like honey and brown sugar got together and had something interesting happen. Breakfast smells like a bakery but you made it. Cold the next day they're kind of better, actually. Flip them upside down so the caramel side is on top. Sticky, syrupy, the opposite of dry. Not complicated to make. Just takes patience.
+
+## What You Need for Homemade Cinnamon Rolls
+
+Yogurt. Plain. The dough needs 300 ml — that's about 1 1/4 cups if your measuring is approximate. Granulated sugar, instant yeast, salt. All-purpose flour, 675 grams, which is 4 1/2 cups but the weight matters more because measuring flour is imprecise. Two eggs. Softened butter — not melted, softened. Grapefruit zest if you want it. You don't have to.
+
+Brown sugar for the caramel. Packed down. Melted butter, honey — not fake honey, actual honey — water, and ground cardamom. Not cinnamon here. It changes everything. For the filling, more brown sugar, ground cinnamon this time, and melted butter again. That's it.
+
+## How to Make Easy Homemade Cinnamon Rolls
+
+Yogurt, sugar, yeast, salt go in a bowl together. Wait 5 minutes. It'll smell sour and yeasty when the yeast wakes up. You'll see small bubbles. That means it's alive.
+
+In a big bowl, flour, eggs, and that yogurt mixture. Fold it together with a wooden spoon until lumps form. Not smooth. Not yet. Add the softened butter gradually — this part takes about 6 minutes either by hand or with a mixer. Dust with flour as you go, but don't be heavy-handed. The dough gets silky and a little tacky. Still manageable. If it's too sticky, barely dust more flour. Enough flour to handle it, not enough to make it stiff.
+
+Oil a bowl. Dough goes in. Cover it loose with a damp cloth. Let it sit somewhere warm for about 1 hour 10 minutes. It doubles. The jiggle test works — poke it gently and it springs back slow. That's doubled.
+
+## How to Get These Rolls Crispy and Caramel-Covered
+
+Brown sugar, melted butter, honey, water, cardamom — whisk that together in a heatproof bowl. Pour it into a greased 13 by 9 inch baking dish. Spread it so the bottom's covered evenly. It'll thicken when it bakes, turn sticky and shiny.
+
+Flour your counter heavy. Roll the dough to 20 by 14 inches — a rectangle, not a square. Brush the whole thing with melted butter. Sprinkle the cinnamon sugar filling evenly across it. If you're using grapefruit zest, press it in gently now. Sounds strange. Works.
+
+Roll it tight from the long side. One long log, 20 inches. Sharp knife cuts 12 slices. Press down, don't saw. You want the layers to stay layers.
+
+Arrange them on top of the caramel in the baking dish. Space them out so they're not packed tight. Cover loosely. Let them rise again in a warm spot for 55 minutes. Or refrigerate overnight if you want the flavor deeper and the slicing easier. The dough puffs, almost touches the edges.
+
+Heat the oven to 350°F. Center rack. Brush the risen buns with yogurt — that's for browning, for color. Bake 28 to 32 minutes. Watch for golden brown on top and the caramel starting to bubble around the edges. Listen for a slight crackle. The edges curl up a little when they're done.
+
+Cool it on the counter 10 minutes. Run a knife around the inside edges if anything's stuck. Put a large serving plate over the pan and flip it. Fast, decisive. The caramel pools around them, shiny and warm and syrupy. Sticky. Worth it.
+
+## Simple Cinnamon Roll Recipe Tips and What Goes Wrong
+
+Don't skip the second rise. You could rush it but it matters. The texture depends on it. The caramel sticks better when it's had time. Yogurt matters — it's not just a substitute for milk. It makes the crumb different. Softer. A little tangy.
+
+Cardamom instead of cinnamon in the caramel — half a teaspoon. That's the whole amount. More and it's cardamom rolls. Less and you lose it. Some people want straight cinnamon everywhere. Fine. Swap the cardamom for cinnamon in the caramel if you want. Doesn't change the method, just changes what it tastes like.
+
+Overnight rise in the fridge works better than rushing the second proof. The cold slows everything down, which means more flavor develops. You'd think the opposite but it's true. Bake it straight from the fridge — don't let it come to room temp first. It'll spread too much.
+
+The flip is the critical moment. If the caramel hasn't set but isn't hot anymore, it's perfect. Too hot and it's liquid. Too cool and it sticks. Ten minutes is usually right. One decisive flip. Not hesitant.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Homemade Cinnamon Rolls
+
+**Can I use whole wheat flour instead of all-purpose for this cinnamon roll recipe?**
+Whole wheat absorbs more water. The dough gets stiff. You'd need more yogurt or water. Not worth the adjustment. All-purpose works better here.
+
+**Why does the dough need yogurt instead of milk?**
+Yogurt has acid in it. Milk doesn't. The acid strengthens the dough, makes it rise different. The crumb stays softer. Tried milk once. Made them dense.
+
+**Can I make these cinnamon rolls ahead and freeze them?**
+Cut and arrange them in the baking dish, cover tight, freeze for up to 3 months. Bake from frozen — add maybe 5 minutes to the bake time. Caramel still pools right.
+
+**What if I don't have instant yeast?**
+Active dry yeast works. Use the same amount. It might take a minute or two longer to proof but it'll get there.
+
+**Should I really use cardamom in the caramel instead of cinnamon?**
+Yeah. Cinnamon everywhere is fine if you want it. But cardamom adds something honey and brown sugar don't usually have going on together. Try it once. If it's not your thing, cinnamon works.
+
+**How do I know when they're actually done baking?**
+Golden brown on top. The caramel bubbles around the edges — you'll see it. The sides puff slightly. Don't go by time alone. Every oven is different. Watch it after 25 minutes.
+
+**Can I use a different baking dish size?**
+Matters. Smaller dish means thicker rolls, longer bake. Bigger means flatter, faster bake. The 13 by 9 is standard. Stay with it if you can.
