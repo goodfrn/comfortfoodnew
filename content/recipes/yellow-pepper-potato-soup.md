@@ -1,10 +1,10 @@
 ---
-title: "Yellow Pepper Potato Soup"
+title: "Roasted Yellow Pepper Potato Soup Recipe"
 slug: "yellow-pepper-potato-soup"
-description: "Roasted yellow peppers blended with creamy potatoes and a smoky chile oil twist. Broiling chars the peppers for depth while simmering softens the spuds and onion just right. A hint of smoked cumin replaces paprika for complexity. Chicken broth swapped with veggie broth for lighter taste. Puree to velvety, not water thin. Garnish balances spice and earthiness. Simple, rustic, but layered flavors built by fire and simmer."
-metaDescription: "Yellow Pepper Potato Soup blends roasted peppers, creamy Yukon golds, and smoky cumin for layered, rustic flavors with a velvety texture and smoky chile oil finish."
-ogDescription: "Bright roasted yellow peppers mix with soft potatoes and smoky cumin. Puree smooth, drizzle chile oil to add heat and aroma. Rustic, layered, deeply savory."
-focusKeyphrase: "Yellow Pepper Potato Soup"
+description: "Roasted yellow pepper potato soup with smoky chile oil and Yukon gold potatoes. Charred peppers blended with creamy potatoes, red onion, and vegetable broth create velvety, layered flavors."
+metaDescription: "Roasted yellow pepper potato soup recipe with Yukon gold potatoes, charred peppers, and smoky chile oil. Simple, rustic, and deeply flavorful. Make it tonight."
+ogDescription: "Charred yellow peppers meet creamy Yukon gold potatoes in this velvety roasted soup with smoky chile oil and fresh lemon."
+focusKeyphrase: "potato soup recipes"
 date: 2025-08-18
 draft: false
 image: yellow-pepper-potato-soup.jpg
@@ -21,9 +21,18 @@ tags:
 - "roasted"
 - "healthy"
 keywords:
-- "yellow pepper soup"
-- "vegetable broth soup"
-- "smoky chile oil"
+- "potato soup recipes"
+- "potato soup recipe"
+- "roasted pepper soup"
+- "yellow pepper potato soup"
+- "creamy potato soup"
+- "vegetable soup recipe"
+- "roasted yellow pepper soup"
+- "smoky soup"
+- "easy potato soup recipe"
+- "comfort soup recipe"
+- "homemade potato soup"
+- "bell pepper soup"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "150"
@@ -69,3 +78,102 @@ faq:
 - "q: How to store leftovers? a: Cool quickly, refrigerate airtight 3-4 days max. Freeze in portioned containers, lasts 2-3 months. Reheat gently on stove, stir often. Thin with broth if thickened too much. Lemon juice add fresh after reheating, avoid curdle."
 
 ---
+
+Peppers char under the broiler. You smell it before you see the blackening. This roasted potato soup happens in 55 minutes — start to finish. No leek and potato soup comparisons needed. This one's different.
+
+## Why You'll Love This Roasted Potato Soup
+
+Takes 55 minutes total. Doesn't feel like cooking. Mostly waiting while the broiler does the work.
+The potatoes get soft without breaking down into mush — they stay there, you feel them. Some texture.
+Vegetarian, obviously. Works as a light dinner or a starter that doesn't fill you up too much before the next thing.
+Smoky chile oil at the end. That's where it lives. The soup's good, but the oil makes you go back for another spoonful.
+Roasted peppers instead of raw — sweeter, deeper, less harsh. Different angle than your standard baked potato soup.
+
+## What You Need for Potato Soup
+
+Yukon gold potatoes. Three medium ones, peeled, diced into chunks. Not too small or they dissolve. Not huge or they stay hard.
+
+Yellow bell peppers. Four large ones. Halves, deseeded. The roasting sweetens them, mellows any sharp edge.
+
+Red onion. One small one. Chopped. Not white. Red ones are sweeter and don't turn aggressive when you cook them slow.
+
+Vegetable broth. A litre. Use good stuff if you have it — the soup tastes like what you put in.
+
+Olive oil. Twice. Three tablespoons for the chile oil. One tablespoon for sweating the onion. Extra for brushing the peppers before broiling.
+
+Smoked ground cumin. One teaspoon. Non-negotiable. This is where the smoke comes from.
+
+Lemon juice. Five millilitres. A teaspoon. Cuts the richness at the end.
+
+Salt and pepper. Taste it at the end. Fix it then.
+
+## How to Make Roasted Potato Soup
+
+Start with the chile oil because it needs time. Small saucepan, medium heat. Three tablespoons olive oil goes in first. Wait for it to shimmer — not smoking, just hot enough.
+
+Stir in the smoked cumin. One teaspoon. Keep moving it around. Maybe 60 seconds. You'll smell it immediately — that's the cue. Pull it off the heat the second it smells done. Burnt cumin tastes like charcoal. Don't burn it. Set it aside in a small bowl. That's your finish.
+
+Broiler goes to high. Rack in the upper third of the oven. Line a baking sheet with foil because cleanup matters.
+
+Four yellow peppers. Halved, seeds out, skins dry. Brush them with a little olive oil — just barely cover them. The oil helps them char instead of shrivel.
+
+Cut side down on the sheet. Straight under the broiler. Ten to twelve minutes. You'll hear popping sounds. That's the skin blistering. You'll smell roasted pepper — sweet, almost caramel underneath. Don't walk away. Watch it.
+
+Peppers come out black and blistered. Some spots are nearly black. That's right. Transfer them to a sealed container — a bowl with plastic wrap works, a covered pot works, even a grocery bag works. Twenty minutes. The steam loosens the skin. Makes peeling almost easy.
+
+Peel them. Fingers work best if you don't mind slightly blackened hands. Cool water helps. Pull the skin off in strips. Some bits stick — that's fine, just get most of it. Rough chop the flesh. There's a pool of liquid inside each pepper half — mostly water. Ditch it.
+
+Deep pot. Medium heat. One tablespoon olive oil. Red onion goes in now — chopped, not too fine. Stir it around for about five minutes. It turns translucent, starts smelling sweet. Don't let it brown. You want sweet, not caramelized. Stir it.
+
+Diced potatoes. Roasted peppers. One litre vegetable broth. Everything goes in at once. Bring it to a boil — actually boiling, not just steaming. Then drop the heat down. Simmer gently.
+
+Watch for tiny bubbles around the edges. Not a rolling boil. Just bubbling. The potatoes soften in about eighteen minutes. Test one with a fork. It should break if you push it. Not mushy. Just soft.
+
+Pull it off the heat.
+
+Immersion blender if you have one. Blend it until nearly smooth — not completely smooth, some potato texture stays. Or use a regular blender. Work in batches. Be careful. It's hot.
+
+Five millilitres lemon juice. A teaspoon. Stir it in. Tastes different immediately — brighter, less heavy.
+
+Salt and pepper. Taste it. Add what it needs. Usually a teaspoon of salt. Crack some pepper in.
+
+Reheat gently if it cooled down. No boiling.
+
+## How to Get Roasted Potato Soup Perfect
+
+Broil the peppers until they're actually blackened — not just blistered, not just dark. Black. That's where the sweetness comes from. Undercooked peppers taste raw and thin.
+
+The steam after broiling matters. Don't skip it. Twenty minutes in a sealed container. It loosens the skin enough that you don't destroy your thumbs peeling them.
+
+Don't overcook the potatoes. They should be soft enough to break with a fork but they should still break — not dissolve. Five extra minutes and they turn to paste.
+
+Blend it mostly smooth but not completely. Leave some texture. Creamy soup with actual potato pieces in it tastes better than soup that's been beaten into submission.
+
+The lemon juice is important. Roasted pepper soup can taste heavy and rich. The acid wakes it up. Don't skip it.
+
+The chile oil at the end. That's the thing. Swirl it on top in a bowl. It hits different than if you mix it in. The warmth releases the smoke. You smell it before you taste it.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Potato Soup Recipes
+
+**Can you make this potato leek soup style?**
+Not really this one. Leeks are different — they're milder and more delicate. This soup is built around roasted peppers. You could swap them, but you'd lose the whole reason for doing it this way.
+
+**What if you don't have a broiler?**
+Oven at 450°F works. Takes longer — maybe 20 minutes instead of 12. Peppers should still blacken. Watch them. Or a grill if you have one.
+
+**Does this potato soup recipe freeze?**
+Yeah. Cool it first. Freeze it in containers. Thaw in the fridge. Reheat gently. The texture stays decent. The lemon juice fades a bit — add more when you reheat.
+
+**Can you use russets instead of Yukon gold potatoes?**
+Russets get starchy. They break down easier. This soup needs potatoes that hold their shape. Yukon gold just works better. Don't bother switching.
+
+**How long does it keep?**
+Three days in the fridge, probably four. It starts tasting less bright after day two. The lemon juice fades. Make fresh or add lemon when you reheat.
+
+**Can you make loaded baked potato soup with this base?**
+You could. Add crispy bacon, sharp cheddar, some green onion on top. It becomes something different — richer, heavier. The whole roasted pepper thing disappears. Better to make it as is or start over with a loaded baked potato soup recipe.
+
+**What about sweet potato and regular potatoes mixed?**
+Sweet potatoes are sweeter. The roasted peppers already sweet enough. All Yukon gold works better. Keeps the flavor linear.
