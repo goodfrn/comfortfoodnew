@@ -1,10 +1,10 @@
 ---
-title: "Quinoa Chicken Apricot Salad"
+title: "Quinoa Chicken Salad with Lemon & Feta"
 slug: "quinoa-chicken-salad"
-description: "Grain and protein salad mixing quinoa, diced cooked chicken, dried apricots, and crunchy nuts with fresh herbs. Visual cues dictate doneness of quinoa; lemon juice and zest brighten flavors while mayo binds ingredients. Swaps dried apricots for dried cherries and gouda for feta add tang and creaminess variation. Pacanes substituted with toasted sliced almonds for crunch contrast. Rough chopping herbs releases aroma, essential for flavor lift. Cold quinoa rinsing stops cooking and firms grains. Flavor balance adjusted on final mix. Textures range from soft quinoa to nutty crunch and juicy dried fruit pieces. Salt and pepper essential for background enhancement. Salad serves well cold as quick lunch or dinner protein boost."
-metaDescription: "Quinoa Chicken Apricot Salad blends nutty quinoa, juicy chicken, tart dried cherries, creamy feta, toasted almonds, fresh herbs, and zesty lemon for textured bites."
-ogDescription: "Nutty quinoa meets juicy chicken, tart dried cherries, creamy feta, toasted almonds, and fresh lemony herbs. Layered textures, bright bites, cold or room temp."
-focusKeyphrase: "quinoa chicken apricot salad"
+description: "Quinoa chicken salad combines rinsed quinoa, diced chicken, grated carrots, dried cherries, and toasted almonds with feta cheese. Lemon juice and zest brighten this protein-packed grain salad for easy lunches."
+metaDescription: "Make this quinoa chicken salad with lemon dressing, feta cheese, carrots, dried cherries, and toasted almonds. Perfect cold protein bowl. Save this one."
+ogDescription: "Quinoa chicken salad with lemon, feta, carrots, dried cherries, and almonds. Fresh, cold, and protein-packed."
+focusKeyphrase: "quinoa chicken salad"
 date: 2025-08-13
 draft: false
 image: quinoa-chicken-salad.jpg
@@ -21,12 +21,14 @@ tags:
 - "healthy"
 - "lemon"
 keywords:
-- "quinoa salad"
-- "chicken salad"
-- "dried cherries"
-- "toasted almonds"
-- "feta cheese"
-- "lemon vinaigrette"
+- "quinoa chicken salad"
+- "healthy chicken salad"
+- "lemon chicken quinoa salad"
+- "chicken quinoa salad with feta cheese"
+- "grain salad with chicken"
+- "quinoa salad with dried fruit"
+- "cold quinoa salad"
+- "protein salad recipe"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "420"
@@ -73,3 +75,107 @@ faq:
 - "q: How long keep salad? a: Up to 3 days fridge. Herbs wilt after day one but still flavor. Nuts soften. Chicken safe in fridge that long too. Cool well and cover. Room temp okay short term, but chill best."
 
 ---
+
+Quinoa still steaming when you pull it from the water. Cold shock stops it dead — grains stay separate, not mushy. This is the whole thing right here.
+
+## Why You'll Love This Quinoa Salad
+
+Takes 45 minutes start to finish. Twenty of that's just waiting for water to boil and quinoa to cook through. The actual assembly is stupid fast.
+
+It's a complete meal. Protein from the chicken, fiber from quinoa, healthy fats in the almonds. Not a sad desk lunch situation.
+
+Lemon and feta do something weird together — bright and salty at the same time. Makes everything taste like more than it is. Dried cherries add sweet but not too much.
+
+Tastes better the next day. Flavors kind of meld overnight. The nuts get softer though, so throw fresh ones on top if you're eating leftovers cold.
+
+Works room temp or cold. Makes it good for taking places. Summer thing, winter thing, doesn't matter.
+
+## What You Need for Lemon Chicken Quinoa Salad
+
+Quinoa, rinsed. Seriously rinse it. The stuff coating the grains tastes bitter if you don't.
+
+Mayonnaise — 3 tablespoons. Greek yogurt works if you mix it with a little olive oil and mustard, but mayo's easier. The lemon juice cuts through it so it doesn't sit heavy.
+
+One small shallot, minced fine. Not a regular onion. Shallot's milder and dissolves into the dressing instead of staying crunchy.
+
+Lemon. Both zest and juice. Fresh. Not that bottled stuff.
+
+Cooked chicken — about a cup and a third. Rotisserie's fine. Doesn't have to be perfect cubes. Just diced.
+
+Carrots grated thin. This matters. Fat carrot chunks compete with everything else. Thin means they disappear into the salad instead of dominating.
+
+Feta cheese. Get real stuff if you can. The sharp tang is the point. If it's too much, swap for fresh mozzarella, but it won't be the same salad.
+
+Dried cherries chopped up — not apricots, despite what the title might make you think. Apricots work too though. They're sweeter. Cherries have more bite.
+
+Toasted sliced almonds. Walnuts if you want, just watch the heat when you toast them. Burnt walnuts taste like ash.
+
+Fresh basil and parsley. The green stuff matters more than it looks.
+
+Salt and pepper.
+
+## How to Make Lemon Chicken Quinoa Salad
+
+Boil salted water first. Don't skip the salt — it seasons the quinoa as it cooks instead of after. Add the rinsed quinoa and watch it. Not constantly. Just check in. Takes about 20 minutes until the grains split open and turn kind of translucent. You'll see a little spiral tail pop out the side. That's when it's done.
+
+Drain it. Then rinse under cold water until it stops steaming. This kills the cooking. Shake it gently in the strainer to get water off but don't smash it.
+
+While that's going, mix mayo, minced shallot, lemon zest, and lemon juice in a big bowl. Salt and pepper it now. The acid from the lemon cuts through the mayo's richness, makes the dressing bright instead of heavy.
+
+Once the quinoa's cool and dry, add it to the dressing. Then add the chicken, grated carrots, feta, and chopped cherries. Toss gently. You want everything distributed, not turned into paste. Taste it. The dried cherries add sweetness, so you might need more salt to balance.
+
+Tear the basil and parsley and toss them in last, but barely. You're not trying to shred them. Just a light toss releases the herbal thing without bruising the leaves.
+
+Serve cold or room temp. Both work. Cold's better if it's hot outside.
+
+## How to Get Quinoa Salad Right Every Time
+
+The biggest thing is the quinoa texture. It should snap a little when you bite it, not mush. This is why the cold-water rinse matters — it stops the cooking immediately instead of letting residual heat turn everything soft.
+
+Visual cues beat the clock. Look for those translucent grains and the tiny spirals separating. If it looks mushy, it's mushy. Time doesn't matter.
+
+The grated carrots need to be thin. Not ribbons. Not chunks. Fine shreds that almost dissolve into the salad. Thick carrots sit there like separate things instead of blending.
+
+Feta can be sharp. If it tastes too salty or intense for you, use fresh mozzarella instead — milder, creamier. But the tang is what makes this work, so something's lost. Gouda makes it richer but heavier. Feta bounces off the lemon.
+
+The herbs go in last because they bruise. Basil especially gets dark and weird if you mess with it too much.
+
+Lemon juice and zest do different things. The zest is bright and kind of floral. The juice is sour and cuts through. Both matter.
+
+## Quinoa Salad Tips and Common Mistakes
+
+Don't skip rinsing the quinoa. The stuff on the outside is called saponin. Tastes chalky and bitter. One rinse isn't always enough — run it through a fine strainer under cold water until the water runs clear.
+
+Large carrot chunks are the death of this salad. They stay firm and chunky while everything else is soft. Grate them fine.
+
+If you're making this ahead, store it without the nuts. Nuts soften in the dressing overnight. Add fresh ones right before eating if you want that crunch back. Or just accept soft nuts. They're fine either way.
+
+Cold or room temp — doesn't matter much. But don't heat it. This is a cold salad.
+
+Greek yogurt swap works but changes the feel. Less rich, a bit tangier. If you go that route, thin it with olive oil so it coats instead of clumping.
+
+No mayo at home? Greek yogurt, little olive oil, mustard. Mix it. Close enough.
+
+You can eat this immediately but it's better tomorrow. Flavors kind of settle and taste more like something.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Quinoa Chicken Salad
+
+**Can I make this salad ahead of time?**
+Yeah. Just don't add the almonds until you're about to eat it. They soften overnight and lose the crunch thing they're doing. Everything else gets better — lemon and feta kind of meld, tastes deeper. Keeps like three or four days cold.
+
+**What if I don't have feta cheese?**
+Fresh mozzarella works. Milder, creamier, less tang. The salad won't taste the same but it's still good. Gouda's richer if you want that instead. Don't use something processed.
+
+**Can I use dried apricots instead of cherries?**
+Yeah. They're sweeter though, so taste it and maybe back off on salt until you know. Apricots and lemon are good together — less bright than cherries and lemon, more balanced.
+
+**How do I know when the quinoa is done?**
+Look for translucent grains with little spirals popping out the side. Takes about 20 minutes. The grains should split but not turn to mush. Bite one — it should snap a tiny bit, not turn to paste. Forget the timer, watch the texture.
+
+**Can I use store-bought rotisserie chicken?**
+Obviously. That's the whole point. Shred it or cube it, doesn't matter. Saves you 30 minutes.
+
+**What's the best way to store leftovers?**
+Cold container, airtight. Three days max before it gets weird. Nuts go soft though, so add fresh ones right before eating if you care about that. The salad actually tastes better on day two. Flavors settle.
