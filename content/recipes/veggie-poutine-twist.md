@@ -1,10 +1,10 @@
 ---
-title: "Veggie Poutine Twist"
+title: "Parsnip Dish with Roasted Root Vegetables"
 slug: "veggie-poutine-twist"
-description: "A vegetable-heavy poutine variant. Roasted root vegetables mixed with green beans replaced some traditional items. Thickened sauce made with beef and mushroom broth concentrate swapped for chicken and vegetable. Cheddar and cheese curds remain but with an added smoky feta crumble twist. Oven-roasting at a high point, slight timing shifts to coax sweetness from roots and get bite from beans. Starchy potatoes combined with sweet potato give contrast. Sauce roux browned longer for nuttier flavor. Garlic presence subtle but critical. Roasted veggies tossed in olive and sesame oil blend. Heaped layers, melted cheese, peppery cayenne for little kick. No eggs or nuts. Kitchen tips included for texture and flavor balance."
-metaDescription: "Veggie Poutine Twist with roasted root veggies, green beans, cheddar, cheese curds and smoky feta crumble. Savory sauce thickened with browned roux and garlic infusion."
-ogDescription: "Roast root vegetables and green beans with sharp cheddar, cheese curds, feta crumble. Browned roux sauce with garlic adds deep scent, texture, and flavor contrast."
-focusKeyphrase: "veggie poutine"
+description: "Roasted parsnips, carrots, and potatoes layered with cheddar cheese curds and creamy mushroom sauce. A savory vegetable dish with feta crumble and sesame oil."
+metaDescription: "Roasted parsnips and carrots with cheese curds in a rich mushroom sauce. Featuring sweet potato, green beans, and sharp cheddar. Try it tonight."
+ogDescription: "Roasted root vegetables with cheddar, cheese curds, and creamy mushroom sauce. A savory parsnip and carrot dish."
+focusKeyphrase: "parsnip dish"
 date: 2025-08-06
 draft: false
 image: veggie-poutine-twist.jpg
@@ -21,9 +21,17 @@ tags:
 - "side dish"
 - "mushroom"
 keywords:
-- "poutine alternative"
-- "vegetable roast"
-- "savory cheese topping"
+- "parsnip dish"
+- "roasted carrots and parsnips"
+- "roasted root vegetables"
+- "root vegetable gratin"
+- "mushroom cheese sauce"
+- "vegetable gratin"
+- "oven roasted carrots and parsnips"
+- "roasted potatoes and parsnips"
+- "roasted carrots parsnips and potatoes"
+- "cheese and mushroom sauce"
+- "mashed parsnips and sweet potatoes"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "350"
@@ -87,3 +95,71 @@ faq:
 - "q: How store leftovers? a: Sauce cool fully, fridge in sealed container 3-4 days. Veggies store separate, reheat oven 180 Celsius to crisp again. Cheese recombine on serving. Avoid microwave if possible, turns crispy veggies soggy."
 
 ---
+
+Cut the parsnips into sticks, toss them with the roasted carrots, pile on the cheese curds while everything's still hot. The gravy goes last—spoon it over like you mean it. Takes 35 minutes to prep, 50 in the oven. Total time you're looking at an hour and a quarter from bare counter to plate. Comfort food that actually tastes like something, not just warm.
+
+## Why You'll Love This Roasted Parsnips and Carrots Dish
+
+Pulls together in one afternoon. Oven roasted root vegetables need maybe 15 minutes of active work—chop, toss, walk away.
+Vegetarian poutine energy but with actual vegetables that hold their texture. Not mushy. The honey glazed carrots and parsnips get edges that crackle.
+Works as a side dish or eat it alone. Nobody judges.
+Cheese curds melt into the gravy, cheddar gets all melty and sharp, feta stays crumbly and salty in spots. Three cheeses doing three different things at once.
+Leftovers taste better the next day somehow. Not sure why.
+
+## What You Need for Roasted Carrots and Parsnips
+
+Three medium parsnips. Peel them, cut into sticks about half an inch thick. Four carrots same treatment. Three Russets for potato content—starchy ones work better here, holds up in the roast. One sweet potato because it caramelizes differently, adds sweetness without being obvious about it. Green beans, 225 grams, just trimmed.
+
+Butter—40 grams, that's almost three tablespoons. Cornstarch and water make a slurry, keeps the gravy from getting lumpy. All-purpose flour for the roux, chicken broth and mushroom broth both in cans because convenience and it actually works. One garlic clove minced fine. Pinch of cayenne.
+
+Oils: two tablespoons olive oil, one tablespoon toasted sesame oil because it adds something nutty that olive can't touch. Salt, pepper. Cheese curds—300 grams, they're the whole point. Sharp cheddar grated, 100 grams. Feta crumbled, 50 grams. That's not negotiable either.
+
+## How to Make a Vegetable Gratin with Roasted Root Veggies
+
+Melt the butter over medium heat. Once it's actually melted, not foaming anymore, sprinkle the flour in. Whisk. Don't stop. Six minutes, maybe seven. You're looking for that specific tan color—dark honey, not burnt. The kitchen smells nutty when it's right. Add the minced garlic, stir 30 seconds. Garlic moves fast in hot roux so don't look away.
+
+Pour both broths in slowly, whisking the whole time. Lumps happen if you pour fast. Bring it to a boil then drop the heat down. Simmer. Mix the cornstarch with cold water in a separate bowl first—no lumps—then stir that in slowly while the sauce bubbles. Keep stirring four to six minutes. It'll get thick and glossy. Coat the back of a spoon. The gravy thickens more as it cools so make it slightly runny right now. Cayenne goes in at the end, just a pinch. Taste it. Fix it.
+
+## How to Get Oven Roasted Root Vegetables Crispy
+
+Heat the oven to 230 Celsius. That's 446 Fahrenheit. Two racks in the middle.
+
+Chop everything uniform—one centimeter sticks, maybe half an inch. Same size means same cooking time. Toss parsnips, carrots, potatoes with one tablespoon olive oil on the first sheet. Salt and pepper. Spread them out flat. Crowding them steams everything instead of roasting it. Don't crowding. Sweet potato and green beans go on the second sheet with the remaining olive oil mixed with that tablespoon of sesame oil. Season that too.
+
+First tray goes in for 17 minutes. Edges should start crisping. Insides still firm. Flip everything. Pop the second tray in at the same time. Both roast together for 16 to 18 minutes more. The carrots and parsnips get golden in spots. Caramelized. The green beans should still have a snap to them, not cooked to nothing. Sweet potato's the color of old wood—dark, almost translucent at the edges.
+
+Check doneness with a fork. Pierce a carrot. Should push in but meet resistance. Not mushy. Not crunchy either. That middle ground.
+
+## Oven Roasted Root Vegetables Tips and Mistakes
+
+Space matters. More than you think. Vegetables packed tight steam. Steamed vegetables taste like the word "boiled." If your oven's crowded, roast in batches. Takes longer but it's better.
+
+The garlic in the roux is subtle. That's intentional. If you want garlic flavor to actually dominate, roast a whole bulb alongside the vegetables and mash it into the sauce after. But here, minced in the roux builds background. Quiet flavor.
+
+Cheese curds if you can find them. If not, sharp cheddar mixed with mozzarella mimics the melt and stretch. Not identical. Close enough.
+
+Sauce too thick after it sits? Thin it with a splash of broth or water. Too thin? Simmer it more but keep stirring. Cornstarch can scorch if the heat's too high and you look away.
+
+Plate it messy. Deep bowls or shallow ones. Vegetables first. Then scatter the curds and cheddar. Crumble feta on top so it stays visible and salty. Pour the gravy over while it's hot. If the cheese needs help melting, 3 or 4 minutes in a 200-degree oven. Watch it. Curds just start softening, feta stays crumbly but warm. Serve immediately.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Parsnips and Carrots
+
+**Can I use beef broth instead of chicken?**
+Yeah. Swap one for the other or use both. Beef pushes the flavor deeper, mushroom keeps it earthy. Both work.
+
+**How do I know when the gravy's actually done?**
+Coats the back of a spoon. You run your finger across it and the line stays. But remember—it thickens as it cools. Make it slightly runny on the stove.
+
+**Do the green beans have to roast or can I add them raw?**
+Roast them. Raw ones in hot gravy just stay raw and weird. Roasting takes the edge off, gives them some color.
+
+**What if I don't have sesame oil?**
+Use more olive oil. Sesame adds something nutty that you'll notice is missing but it's not worth hunting down if you don't have it.
+
+**Can I make the gravy ahead?**
+Make it, let it cool, store it. Reheat gently before serving. If it breaks or gets lumpy, strain it. Won't look perfect but tastes fine.
+
+**Why three different cheeses?**
+Each one does something different. Cheddar gets sharp. Curds stay stretchy and soft. Feta stays crumbly and salty. Together they're more interesting than one cheese doing all the work.
