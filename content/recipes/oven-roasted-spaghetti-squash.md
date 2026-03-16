@@ -1,10 +1,10 @@
 ---
-title: "Oven-Roasted Spaghetti Squash Twist"
+title: "Oven-Roasted Spaghetti Squash with Basil"
 slug: "oven-roasted-spaghetti-squash"
-description: "Spaghetti squash roasted at 410 F until fork-tender, coated lightly in olive oil, sprinkled with smoked paprika replacing garlic powder for a smoky twist. Sauce heated with fresh basil, minced garlic, and thyme instead of oregano, offering a herb variation. Cooking times adjusted slightly based on tactile cues, not strict clock-watching. Sauce simmers while squash cooks to save time. Fork test key to doneness. Quick heating method for sauce to avoid over-reducing. Eggplant puree optional instead of jarred sauce for creamier texture. Yields two servings, balances veggie fiber with tomato acidity and herb complexity."
-metaDescription: "Oven-roasted spaghetti squash with smoky paprika, fresh herbs, and a quick simmered sauce. Fork test key to texture, flexible herb swaps, yields two servings."
-ogDescription: "Roast spaghetti squash at 410 F; smoky paprika replaces garlic powder. Sauce simmers fast with fresh basil and thyme. Fork test guides doneness. Two servings."
-focusKeyphrase: "oven roasted spaghetti squash"
+description: "Oven-roasted spaghetti squash tossed with marinara, fresh basil, and smoked paprika for a smoky vegetarian twist. Fork-tender and ready in one pan."
+metaDescription: "Roasted spaghetti squash with marinara, fresh basil, garlic, and smoked paprika. Fork-tender vegetable pasta ready in 40 minutes. Make it tonight."
+ogDescription: "Smoky roasted spaghetti squash noodles with marinara, basil, and garlic. Easy vegetarian dinner that's ready fast."
+focusKeyphrase: "roasted spaghetti squash with marinara"
 date: 2025-12-02
 draft: false
 image: oven-roasted-spaghetti-squash.jpg
@@ -21,9 +21,15 @@ tags:
 - "easy"
 - "healthy"
 keywords:
-- "spaghetti squash roasting"
-- "smoked paprika seasoning"
-- "fresh herb tomato sauce"
+- "roasted spaghetti squash with marinara"
+- "spaghetti squash pasta"
+- "smoked paprika spaghetti squash"
+- "spaghetti squash with tomato basil sauce"
+- "oven roasted squash noodles"
+- "vegetarian squash dishes"
+- "low carb spaghetti squash marinara"
+- "roasted vegetable dinner"
+- "crispy roasted spaghetti squash recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "220"
@@ -69,3 +75,91 @@ faq:
 - "q: How to store leftovers properly? a: Squash strands fridge in airtight container—lasts 3-4 days but texture changes. Sauce separate or combined works. Reheat gently to avoid drying squash. Freeze possible but strands lose some integrity. Best fresh but leftover plan helps."
 
 ---
+
+Cut the squash lengthwise. Scoop the seeds. Three things done before you even preheat the oven. The real work happens while it roasts — 42 minutes, not thirty. Not fifty. The paprika does something weird that garlic can't do when it hits dry heat, and that's the whole point of this thing.
+
+## Why You'll Love This Roasted Spaghetti Squash
+
+Takes 52 minutes total, most of it hands-off.
+Vegetarian pasta that doesn't taste like you're eating a vegetable — tastes like you're eating something you actually wanted.
+One pan. Foil cleanup. Done in five minutes.
+The smoked paprika twist. Most people just salt it. This gets depth. Gets a little smoke underneath.
+Works cold the next day. Even better, honestly.
+Healthy enough that you don't feel weird about seconds. Filling enough that you want seconds anyway.
+
+## What You Need for Spaghetti Squash Pasta
+
+One medium spaghetti squash. Not the giant ones. Size matters here — medium cooks through without the edges going stringy and sad.
+
+Extra virgin olive oil. Two tablespoons. Brush it inside the halves generously. The oil caramelizes the edges. Keeps everything from drying out and turning into something that tastes like you failed at steaming.
+
+Smoked paprika. A teaspoon. Not regular paprika. The smoke does work that nothing else does — replaces what you'd normally get from garlic but garlic burns in a dry oven, which is why we're skipping it.
+
+Black pepper. Half a teaspoon. That's enough.
+
+Jarred marinara or tomato eggplant puree. Twelve ounces. Works cold from the jar if you're lazy. Works heated, which is better. Fresh basil chopped, one tablespoon. Fresh thyme leaves, a teaspoon. One garlic clove minced. These go in the sauce while the squash roasts, so they stay bright instead of burning.
+
+## How to Make Oven Roasted Squash Noodles
+
+Preheat to 410. Not 400. The extra ten degrees matters when you're trying to crisp the edges instead of just steam them.
+
+Halve the squash lengthwise. A knife straight down the middle. Scoop the seeds out gently — the flesh underneath is fragile until it gets heat. Don't gouge it. Just clear the seed cavity.
+
+Brush olive oil inside each half. Generously. This is what stops it from drying out. This is what helps the paprika do its thing. Don't skip this part thinking you're being healthy.
+
+Sprinkle smoked paprika and black pepper evenly on the flesh side. Inside and out if you're being thorough. The paprika adds mild heat and smoke. It replaces what garlic would give you, except garlic burns and paprika doesn't.
+
+Line a baking sheet with foil. Place the squash halves cut-side down on the foil. Foil makes cleanup stupidly easy and prevents sticking. Avoid a baking stone — the moisture can crack it and that's a pain.
+
+Roast for 42 minutes minimum. After 35, test by poking a fork into the flesh at the center. Should flake apart with slight resistance. Not mushy. Not dry either. The goal is stringy but tender. Over-roasting kills it.
+
+While it roasts, heat the sauce. Small saucepan over medium heat. Add the minced garlic. Watch for it to release that aroma — that's 7 to 8 minutes in. Throw in the basil and thyme. Stir occasionally. Let it thicken slightly, but don't reduce it too much or it gets bitter. If it thickens too fast, add a little water or wine to loosen it back up.
+
+## How to Get Crispy Roasted Spaghetti Squash Right
+
+The edges crisp because you're roasting, not steaming. Because you're starting at 410. Because you brush the oil and don't skip it.
+
+The foil underneath matters — it reflects heat up into the squash instead of just cooking the bottom flat. The cut-side down position matters too. You're caramelizing the inside flesh against the foil. That's where the good stuff happens.
+
+Check at 35 minutes. Push a fork straight through the flesh at the thickest part. Should give resistance. Should feel almost done but not quite. If you wait until it shreds at the slightest touch, you've gone too far. The strands fall apart into mush instead of staying long enough to twirl on a fork.
+
+When it comes out, let it cool for maybe 3 minutes. Hot squash is fragile. Scrape the strands out gently with a fork. You're loosening them, not shredding them. The difference between something that looks like pasta and something that looks like you melted it.
+
+## Spaghetti Squash Recipe Tips and Mistakes
+
+Biggest mistake: skipping the oil. People do this thinking they're being healthy. The squash comes out dry and tastes like sadness. The oil is why this works.
+
+Second biggest: overcooking. Three minutes too long and the texture flips from "strands" to "mush." Test early. Use your fork. Trust the texture.
+
+The foil cleanup thing is real. Scrub it immediately while the oil is still loose. Wait until it cools and you're fighting burnt bits that won't come off.
+
+If you don't have oven access — Instant Pot works. High pressure for 12 minutes, 5-minute natural release. Be more careful here. It's easier to overcook under pressure.
+
+Can skip the basil if you don't have fresh. Can't skip the thyme — it matters more than you'd think. The combination of paprika and thyme is what makes this not taste like nothing.
+
+Parmesan or nutritional yeast on top is optional. The sauce is enough without it. With it, it's more pasta-like. Without it, it tastes lighter and you're not pretending it's something it's not.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Spaghetti Squash Pasta
+
+**How do I know when the spaghetti squash is actually done?**
+Push a fork into the thickest part of the flesh after 35 minutes. Should flake apart with some resistance. Not mushy. Not rock hard. If it shreds too easily, you've cooked it past the point where the strands stay long.
+
+**Can I roast the spaghetti squash at a lower temperature?**
+You can do 375. Takes longer. Doesn't crisp the edges the same way. The point of 410 is that extra heat does work the paprika can actually show up for.
+
+**What if I don't have smoked paprika?**
+Regular paprika works. It won't have the smoke depth. Tastes fine, just different. White pepper if that's what you have instead of black — doesn't change much. Don't use garlic powder. Burns.
+
+**Is this actually low carb?**
+Lower carb than pasta. Still carbs though. One medium squash has maybe 20 grams net carbs depending on size. It's healthier than wheat pasta, not keto.
+
+**Can I make this ahead?**
+Roast it the night before. Store the squash halves in the fridge. Reheat in a 325 oven for like 10 minutes, or don't. It's honestly good cold with the sauce spooned on top, maybe even better.
+
+**Should I peel the skin or leave it on when I serve it?**
+Leave it. The skin holds the strands together when you scoop them out. Comes off easy in your mouth anyway. It's not tough once it's roasted.
+
+**What if my sauce is too thick or too thin?**
+Too thick — add water or wine a little at a time and stir. Too thin — let it simmer longer but watch it. Jarred sauce thickens faster than you think sometimes.
