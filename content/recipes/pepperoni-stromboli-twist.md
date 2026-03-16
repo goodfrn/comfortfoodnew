@@ -1,10 +1,10 @@
 ---
-title: "Pepperoni Stromboli Twist"
+title: "Chorizo Stromboli Recipe with Mozzarella"
 slug: "pepperoni-stromboli-twist"
-description: "Stromboli rolled tight with spicy chorizo swapped for pepperoni for a bolder kick. Cheese blend shifted to mozzarella and fontina for creamier melt and subtle nuttiness. Dough stretched uneven on purpose to get a rustic edge. Egg wash locks seams and flakes crust, Italian seasoning and parmesan dusted on top for savory crunch. Vents sliced to let out steam; golden crust signals it's done when it thumps hollow, not by timer alone. Leftovers reheat crisp in skillet, not microwave. Subtle shifts in timing and ingredient swap make this less pizza, more a sturdy rolled snack that stands up to dipping sauces. Always trust smell and sound over minutes. Expect bubbly cheese pockets, spicy aroma, and crispy edges. Watch dough closely during roll, dry or sticky dough ruins seal. Use parchment sprayed heavy or dough sticks."
-metaDescription: "Pepperoni Stromboli Twist with spicy chorizo, mozzarella and fontina meld in rustic dough. Egg wash seals, vents vent steam; golden crust signals done."
-ogDescription: "Spicy chorizo takes the place of pepperoni in this rustic stromboli twist. Melted mozzarella and fontina pockets with golden, crisp crust and aromatic top."
-focusKeyphrase: "Pepperoni Stromboli Twist"
+description: "Spicy chorizo stromboli recipe with mozzarella and fontina cheese, marinara sauce, and Italian seasoning. Crispy, rustic homemade stromboli that's perfect for dinner."
+metaDescription: "Make this chorizo stromboli recipe with mozzarella, fontina, and marinara sauce. Easy homemade stromboli with Italian seasoning and crispy crust. Try it tonight."
+ogDescription: "Homemade chorizo stromboli with mozzarella, fontina, and marinara. Spicy, cheesy, and crispy every time."
+focusKeyphrase: "chorizo stromboli recipe"
 date: 2025-10-15
 draft: false
 image: pepperoni-stromboli-twist.jpg
@@ -21,9 +21,16 @@ tags:
 - "chorizo"
 - "easy dinner"
 keywords:
-- "stromboli"
-- "chorizo recipe"
-- "egg wash crust"
+- "chorizo stromboli recipe"
+- "stromboli recipe"
+- "homemade stromboli with chorizo"
+- "spicy chorizo stromboli roll"
+- "stromboli with mozzarella and fontina cheese"
+- "easy stromboli dinner"
+- "pizza dough stromboli with marinara sauce"
+- "baked stromboli with italian seasoning"
+- "italian bread recipe"
+- "cheese stromboli"
 breadcrumb: ["Home", "Recipes", "Snacks"]
 nutrition: 
  calories: "480"
@@ -72,3 +79,97 @@ faq:
 - "q: How to store leftovers? a: Cool completely before storing in airtight container. Reheat in skillet over medium heat to crisp crust, avoid microwave which ruins texture. Can also freeze; thaw overnight fridge then reheat skillet. Avoid soggy crust by skipping microwave."
 
 ---
+
+Stretch the dough out to maybe 14 by 10 inches—don't stress if it's not perfect, rustic is better anyway. Chorizo goes thin, leaving like an inch and a half border all around. That matters more than you'd think.
+
+## Why You'll Love This Pepperoni Stromboli Twist
+
+Takes 45 minutes total. Fifteen to prep, thirty in the oven. One bowl, one baking sheet, done.
+
+Chorizo instead of straight pepperoni. Spicier. Has actual texture instead of just sitting there.
+
+Works cold the next day. Maybe better. Slice it thick and it holds together.
+
+Fontina melts different than mozzarella—creamier, slightly sweet. Not complicated but it changes things. Provolone works too if that's what you have.
+
+One knife. Serrated. Three minutes cleanup if you don't overthink it.
+
+## What You Need for Homemade Stromboli with Chorizo
+
+Pizza dough. One ball, 16 ounces. Store-bought. Don't make it from scratch—not worth the extra hour.
+
+Four ounces of chorizo. Sliced. Spicy kind. Pepperoni works in a pinch but chorizo's got more going on.
+
+Three quarters cup marinara. Your sauce. Don't overthink it. Whatever pizza sauce you like works.
+
+Mozzarella and fontina—cup of the first, half cup of the second. Fontina's key here, it melts smoother. Provolone's fine instead if that's easier to find.
+
+One egg beaten with a splash of water. Egg wash. Makes everything golden. Can't skip it.
+
+Teaspoon of Italian seasoning on top. Parmesan too—two tablespoons grated. These go on after, right before the oven.
+
+Oil or nonstick spray for the baking sheet. Parchment paper under that. Prevents the whole thing from sticking to the pan.
+
+## How to Make Easy Stromboli Dinner
+
+Oven goes to 405. Line the sheet with parchment and spray it. Heavy spray. You want it slick.
+
+Stretch the dough out on the parchment. Fourteen by ten inches, roughly. Don't get hung up on the exact size. Rustic is better for texture anyway. Uneven edges are fine.
+
+Chorizo goes down first—thin layer, leaving an inch and a half border all the way around. That border's where you seal it. Matters more than it sounds.
+
+Sauce next. Spoon it over the meat. Don't drown the dough. Lightly spread it. You want flavor, not sogginess.
+
+Mozzarella sprinkled even. Then fontina on top. Fontina melts creamier than mozzarella, gives you that slightly sweet kick you don't get with provolone. It's a small thing. Changes the whole taste.
+
+## How to Get Baked Stromboli with Italian Seasoning Crispy and Sealed
+
+Brush the exposed dough edges with egg wash. This is critical—it glues the edge when you roll it and adds that golden color to the crust.
+
+Roll it lengthwise from a long edge. Curl your hands gently to keep everything compact. Filling wants to push out, you want it to stay in. Gentle pressure. Not squeezing.
+
+Fold the short edges in. Tuck them under. This seals the ends so nothing leaks out during baking.
+
+Pinch that seam tight. Dough needs a snug seal or the filling oozes everywhere while it's cooking. This matters. Don't rush it.
+
+Flip the whole thing seam-side down onto the baking sheet. Brush the top generously with egg wash. Traps moisture inside, crisps the crust outside. Not just a light coat. Generous.
+
+Sprinkle Italian seasoning and Parmesan on top. Creates layers. Aromatic. Crunchy texture when it comes out.
+
+Cut four or five vents spaced evenly on the top. Strip pattern works. Steam needs somewhere to go or the crust stays gummy instead of crisp. The internal bubbles in the cheese will be visible through the vents as it bakes.
+
+Bake 25 to 35 minutes. Look for deep golden brown. Tap the top—should sound hollow. Not soft. Hollow.
+
+Cool 15 minutes. Not optional. The cheese inside is molten. You'll burn your mouth if you slice it hot. Thick rounds with a serrated knife. Thinner slices collapse or spill filling everywhere.
+
+## Stromboli Tips and Common Mistakes
+
+Don't rush the seal. If dough tears you're starting over. Keep it slightly tacky but not wet. Add flour only if you absolutely need it—too much flour on the edges means they won't stick.
+
+Chorizo is spicy. If you hate spice, use pepperoni. Sliced smoked sausage works too. Fontina's the move for melty, but provolone or gouda work depending on what you want flavor-wise. Provolone's sharper. Gouda's milder. Pick based on that.
+
+Leftovers go in a skillet over medium heat. Retains the crust. Microwave makes it gummy. Reheating right takes three minutes, tastes almost as good as fresh.
+
+The marinara matters less than people think—any pizza sauce works. Jarred is fine. Homemade is fine. It's in there, it all tastes good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Italian Bread Stromboli
+
+**Can I use store-bought pizza dough?**
+Yeah. That's the whole point. Literally why this works as an easy stromboli dinner.
+
+**How do I know it's done?**
+Golden brown crust. Tap the top—hollow sound. Not soft. You'll hear it. Also check the bottom if you can peel it up slightly. Same color.
+
+**What if the filling leaks out?**
+You didn't pinch the seam tight enough. Next time, really seal it. Also cut the vents after it's on the baking sheet, not before—less chance of tears.
+
+**Can I make it ahead?**
+Yeah. Assemble it, cover with plastic wrap, stick it in the fridge for a few hours. Might need an extra 5 minutes in the oven if it's cold.
+
+**Is fontina necessary or can I just use mozzarella?**
+Mozzarella works. Fontina just melts smoother and tastes slightly different—creamier, a little sweet. Not essential but it's better. Provolone's a fine swap too.
+
+**Why egg wash?**
+Makes it golden. Locks in moisture so the crust doesn't dry out. Also acts like glue when you're rolling it and sealing the edges.
