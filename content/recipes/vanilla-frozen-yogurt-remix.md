@@ -1,10 +1,10 @@
 ---
-title: "Vanilla Frozen Yogurt Remix"
+title: "Vegan Ice Cream with Coconut Cream"
 slug: "vanilla-frozen-yogurt-remix"
-description: "Chilled creamy dessert made with altered ingredient ratios. Greek yogurt replaced partly with coconut cream for richness. Agave syrup swaps corn syrup adding floral sweetness. Vanilla bean seeds remain for aroma. Blend till consistent, churn till softly firm then freeze. About 1 liter yield. Adjust texture by watching thickness, not clock. Simple, vegetarian, gluten egg nut free treat."
-metaDescription: "Vanilla Frozen Yogurt Remix blends Greek yogurt and coconut cream for a creamy, rich dessert with subtle floral sweetness and speckled vanilla bean flavor."
-ogDescription: "Cold blend of Greek yogurt and coconut cream churned slow till creamy scoopable state. Vanilla seeds speckled giving fresh aroma. Freeze firm but not rock hard."
-focusKeyphrase: "Vanilla Frozen Yogurt"
+description: "Creamy vegan ice cream blending Greek yogurt, coconut cream, and vanilla bean seeds. This dairy free ice cream uses agave syrup for natural sweetness and churns into smooth, dreamy texture."
+metaDescription: "Make vegan ice cream at home with coconut cream, Greek yogurt, and vanilla bean seeds. This dairy free ice cream recipe churns smooth and creamy. Try it tonight."
+ogDescription: "Homemade vegan ice cream made with coconut cream, Greek yogurt, and vanilla bean. Creamy, dairy free, and naturally sweetened with agave."
+focusKeyphrase: "vegan ice cream"
 date: 2025-08-12
 draft: false
 image: vanilla-frozen-yogurt-remix.jpg
@@ -21,9 +21,18 @@ tags:
 - "no bake"
 - "vegan"
 keywords:
-- "Greek yogurt"
-- "coconut cream"
-- "agave syrup"
+- "vegan ice cream"
+- "dairy free ice cream"
+- "coconut cream dessert"
+- "homemade frozen yogurt"
+- "vegan gelato"
+- "frozen yogurt recipe with ice cream maker"
+- "coconut cream cake"
+- "tofu ice cream"
+- "vegan soft serve ice cream"
+- "froyo homemade"
+- "frozen non dairy desserts"
+- "make frozen yogurt in ice cream maker"
 breadcrumb: ["Home", "Recipes", "Frozen Treats"]
 nutrition: 
  calories: "210"
@@ -62,3 +71,86 @@ faq:
 - "q: How long can I store frozen yogurt? a: 5-8 hours ideal freeze; less than 5 is soft and slump prone. More than 8 hours can harden too much. Store tight wrap or container; avoid freezer smell. Thaw 3-5 minutes before scooping."
 
 ---
+
+Cut the yogurt straight from the fridge. Cold is non-negotiable. Three ingredients that actually taste like something — coconut cream, real vanilla, the kind of sweetness that doesn't make your teeth ache. Five and a half hours later, you've got vegan ice cream that doesn't taste like compromise.
+
+## Why You'll Love This Vegan Ice Cream
+
+Takes 15 minutes of actual work. Everything else is the freezer doing the job.
+
+Tastes like it came from somewhere expensive. Vanilla bean flecks show up in every bite — that's the real thing, not vanilla extract doing its best impression.
+
+Works if you don't have an ice cream maker. Freeze it in a container, stir every 30 minutes for two hours. Messier, less smooth, but it happens.
+
+No bake. No eggs. No weird gums or stabilizers trying to make dairy-free taste normal. Just coconut cream holding it together like it's supposed to.
+
+Scoops easier than you'd expect. Most vegan ice cream goes rock-hard. This one softens a few minutes at room temp and gives without fighting back.
+
+## What You Need for Creamy Vegan Ice Cream
+
+Greek yogurt — 600 ml, the plain kind, has to be cold coming out of the fridge. Coconut yogurt doesn't work the same. Trust this part.
+
+Coconut cream. Not lite. Not coconut milk. The thick one. Chill it first or the whole thing gets warm and loses the point.
+
+Raw cane sugar — 80g. White sugar works if that's what you have. Brown sugar tastes different, don't use it unless you want that.
+
+Agave syrup, 50 ml. Honey won't work here. Something about the way it freezes different. Maple works, actually. Same amount.
+
+One vanilla bean. Scraped. The black flecks are what you're paying for — don't waste them by trying to scrape gently. Get them all out.
+
+## How to Make Vegan Ice Cream
+
+Everything cold first. Take the yogurt and coconut cream straight from the fridge into the blender. Don't let them sit out. Temperature matters before you even start.
+
+Pour in the sugar and agave. Pulse it — not blend, pulse — just enough times that the sugar stops being gritty. You'll hear the texture change. Stop there. Too much blending and you're just making foam, and air gets trapped, and your ice cream turns icy instead of smooth.
+
+Scrape that vanilla bean open and pull every seed out into the mix. The black stuff is flavor. The white part of the pod is also flavor but you can't blend it. Just the seeds. Make them count.
+
+Medium speed, watch what's happening, maybe 90 seconds. You want thick but pourable — like creamy soup, not like pudding, not like milk. If it looks too frothy, stop and let it rest for a minute. Air bubbles are the enemy here.
+
+## How to Get Vegan Ice Cream Smooth and Scoopable
+
+Pour it straight into the ice cream maker bowl. Straight. Don't let it sit on the counter first. The bowl's been in the freezer overnight, right? That matters.
+
+Churn for about 25 minutes. Listen for it — the sound changes when it's getting there. Soft churn sounds, kind of slow and thick. When the yogurt clings to the paddle but still moves, stop. If you go too long it gets grainy. Before long enough it's soup.
+
+Move it to a tight container immediately. Smooth the top with a spatula. Press plastic wrap right on the surface — that stops ice crystals from forming on top. It's a thing.
+
+Freeze it minimum five hours. Check it with your finger around hour five — slight resistance, like pushing into a firm pillow, means it's ready. Rock hard means you're waiting longer than needed. Test before you serve.
+
+## Vegan Ice Cream Tips and Common Mistakes
+
+Room temperature before scooping — sit it out for three to five minutes. Not ten. Just enough so it softens at the edges. The vanilla aroma releases. The scoop goes through without snapping the bowl.
+
+Don't skip the plastic wrap trick. Ice crystals ruin the whole texture. They form on top, then they melt into the ice cream, then it refreezes rough. Wrap it and skip that.
+
+Coconut cream separation is normal. Shake it or stir it before measuring. If it's gone weird and broken, start over with a new can.
+
+Making frozen yogurt in an ice cream maker works better than the freezer method. The paddle keeps it from getting icy. If you don't have the machine, freeze it, stir every 30 minutes for two hours, then leave it alone. Comes out grainier. Still edible.
+
+Store it maybe two weeks max. It gets icier after that. The yogurt separates slightly. Not ruined, just not what you made.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegan Ice Cream
+
+**Can you make vegan ice cream without an ice cream maker?**
+Yeah. Freeze it in a container, stir every 30 minutes for two hours with a fork, breaking up ice crystals. Then freeze solid. Texture's not as smooth but it works. Tastes the same.
+
+**Does this dairy free ice cream need an ice cream maker?**
+Not exactly. You get better results with one — smoother, less icy. Without it, you're just fighting ice crystals. Doable but annoying.
+
+**Can you use coconut milk instead of coconut cream?**
+No. Too thin. Goes runny in the freezer. Coconut cream's got the fat content that makes it freeze right.
+
+**How long does homemade vegan ice cream last?**
+Two weeks maybe. After that ice crystals take over. It's still there but texture gets wrong.
+
+**What if your ice cream maker bowl isn't cold enough?**
+It won't churn right. Stays soupy. The whole thing takes 45 minutes instead of 25. Chill the bowl overnight. Not four hours. Overnight.
+
+**Can you substitute the vanilla bean?**
+Vanilla extract, half a teaspoon. Doesn't taste the same. The bean's where the flavor is. Extract's fine if that's what you have but don't expect the same result.
+
+**Why does some vegan ice cream taste like coconut and this doesn't?**
+The coconut cream's not supposed to taste like you're eating a pina colada. It's the base. The vanilla's the flavor. If it tastes strongly coconut, you used lite coconut milk or the proportions got loose.
