@@ -1,9 +1,9 @@
 ---
-title: "Sesame Seared Tuna Volcano"
+title: "Sesame Seared Tuna with Volcano Sauce"
 slug: "sesame-seared-tuna"
-description: "Searing thick tuna steaks encrusted with mixed sesame seeds for a crust that snaps. Volcano sauce blends mayo with chili paste and a surprising touch of condensed milk, balancing heat with sweetness. Cooking over high heat triggers the sizzle, the spitting oil, and those telltale aromas that say 'almost there'. Adjust chili in the sauce gradually or swap out condensed milk for coconut cream to cut sweetness differently. Timing’s approximate; rely on surface color, firmness under finger. Garnish with scallions for a fresh pop. Teriyaki glaze slips on just before serving, sticky and rich. Sauce piped or dotted on side, personal heat dial on spoil. Smoke alarm diplomacy essential."
-metaDescription: "Sesame seared tuna steaks crisp it up, volcano sauce balances chili heat and sweetness. Teriyaki glaze melts on. Fresh scallions finish with bite and color pop."
-ogDescription: "Thick tuna packed in sesame seeds sears with crackle. Volcano sauce builds heat slow; teriyaki glaze melts warm top. Scallions add fresh crunch punch."
+description: "Sesame seared tuna steaks with a crispy mixed sesame crust. Volcano sauce combines mayo, chili garlic sauce, and condensed milk for sweet heat. Restaurant-quality results at home."
+metaDescription: "Sesame seared tuna steaks with volcano sauce made from mayo, chili garlic sauce, and condensed milk. Crispy, spicy, and perfectly balanced. Make it tonight."
+ogDescription: "Thick tuna steaks crusted in sesame seeds, seared until golden, topped with spicy mayo volcano sauce."
 focusKeyphrase: "sesame seared tuna"
 date: 2026-01-08
 draft: false
@@ -21,9 +21,16 @@ tags:
 - "asian"
 - "appetizer"
 keywords:
-- "seared tuna"
-- "sesame crust"
-- "spicy mayo sauce"
+- "sesame seared tuna"
+- "sesame crusted tuna"
+- "seared tuna steaks"
+- "tuna with volcano sauce"
+- "spicy tuna recipe"
+- "tuna steaks with chili mayo sauce"
+- "asian tuna appetizer"
+- "sesame tuna with condensed milk"
+- "tuna with sesame seeds"
+- "restaurant style seared tuna"
 breadcrumb: ["Home", "Recipes", "Seafood"]
 nutrition: 
  calories: "350"
@@ -70,3 +77,91 @@ faq:
 - "q: How to store leftovers? a: Wrap tuna tightly, keep in fridge max 1 day. Volcano sauce separate in airtight. Reheat low and quick or serve cold; avoids drying out. Teriyaki glaze can be reapplied fresh if dried or sticky on stored fish."
 
 ---
+
+Oil hits the pan almost smoking. Tuna goes in. Everything gets loud.
+
+## Why You'll Love This Sesame Seared Tuna Volcano
+
+Takes 23 minutes start to finish. Seriously.
+Looks like you spent three hours on it. The volcano sauce does that — pipe it on and suddenly it's restaurant food.
+Spicy but not mean. Chili garlic sauce mixed into mayo means you control the heat. Add slow. Taste as you go.
+Works cold the next day, maybe better. Leftovers don't really happen here, but if they do, eat them straight from the fridge.
+The sesame crust — white and black seeds together — adds this nutty, toasty thing that can't come from anywhere else. Crunch that stays even when it cools.
+
+## What You Need for Sesame Crusted Tuna
+
+Four tuna steaks. 1 1/2 inches thick. Don't go thinner — it'll dry out before the crust sets.
+
+White sesame seeds and black sesame seeds. Equal parts. One tablespoon each. Mixed together they look better and taste deeper than either alone.
+
+Vegetable oil — 1 1/2 tablespoons. Hot oil matters more than the type, but grapeseed or avocado oil burn cleaner if you have them.
+
+Mayonnaise. 1/3 cup. The base.
+
+Chili garlic sauce. 2 teaspoons to start. Add it slow into the mayo. Heat builds as you blend.
+
+Sweetened condensed milk. 2 tablespoons. This rounds out the spice, makes it less one-note. Coconut cream works if you need it different.
+
+Fine sugar. 1/2 teaspoon. Just balances.
+
+Teriyaki glaze — store-bought is fine. Homemade if you want that thing. Either way, warm it slightly before it goes on.
+
+Scallions. Chopped. Doesn't matter how much. Enough to see it.
+
+## How to Make Sesame Seared Tuna
+
+Start with the volcano sauce because it needs no heat and no rush. Pour mayo into a bowl — small food processor works best, or an immersion blender if that's what you have. Add chili garlic sauce slowly. A teaspoon. Blend. Taste. Another teaspoon. Blend again. The heat climbs fast. Stop when it's where you want to live with it, not where it takes over. Stir in condensed milk. Sugar. Done. Set it aside in a squeeze bottle if you have one, or just use a spoon later.
+
+Mix white and black sesame seeds in a flat dish. Spread them out.
+
+Pat the tuna completely dry with paper towels — water stops the crust from sticking. Press both sides hard into the sesame seeds so they coat like armor. They should stick, not slide off. If they're sliding, the tuna's still wet.
+
+Heat oil in a big frying pan or cast iron until it's almost smoking. You want to see the shimmer turn into ripples. This takes maybe a minute on high heat. The crackle when tuna hits it means you got it right.
+
+## How to Get Sesame Seared Tuna Cruspy and Perfectly Medium-Rare
+
+Drop tuna in carefully. Oil will spit. This is correct. Cover the pan to trap heat and steam but watch it — don't let it go too far. 2 1/2 to 3 1/2 minutes per side for that deep red inside wrapped in a dark crust. Thickness changes everything. A thin steak cooks in 2 minutes. A thick one needs the full 3 1/2. Peek if you must. Look for color — the outside should be dark brown, almost charred, and the inside should be ruby red with maybe a thin line of cooked flesh around the edge. That's medium-rare. Rarer? 2 minutes per side. More done? Push toward 4, but honestly, past that you're wasting the fish.
+
+Pull the tuna off heat immediately. Let it sit for maybe 60 seconds. Don't poke it. This keeps the inside from bleeding out.
+
+While it's still warm, slather teriyaki glaze on top. It melts into the crust and stays sticky and deep. One tablespoon per steak, roughly.
+
+## Sesame Tuna Appetizer Tips and Common Mistakes
+
+Smoke alarm goes off sometimes. Not a failure — a sign you seared right. Open a window. Clear the air. Keep going.
+
+Oil temperature is everything. Too cool and the sesame seeds sit there. Too hot and they burn black before the fish cooks through. That shimmer-to-ripple moment — that's the target.
+
+Don't flip more than once. In and out. Crusta forms on the first side in that 2 1/2 to 3 1/2 minutes. Flip. Do the other side. Done. Flipping twice breaks the crust and lets the inside dry out.
+
+Tuna keeps cooking after it leaves the pan. If it looks almost done, pull it early. It'll finish in that rest period.
+
+The volcano sauce can be piped — grab a plastic bag, fill it, snip a tiny corner, and squeeze. Or dollop. Both work. Piping just looks cooler, which matters at a dinner party, which is probably why you're making this anyway.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Sesame Crusted Tuna
+
+**How hot should the oil actually be?**
+Until it shimmers and moves in waves. Not smoking yet. One more 10 seconds and you're there. Temperature matters more than time — use a thermometer if you want exactness. Around 400°F for cast iron.
+
+**Can I make the volcano sauce ahead?**
+Yes. Sits fine for two days in the fridge. Bring it to room temp before serving or it gets stiff.
+
+**What if my sesame seeds won't stick to the tuna?**
+Tuna's wet. Pat it dry again. Seriously dry. The sesame needs a dry surface.
+
+**Is there a way to make this less spicy?**
+Start with 1 teaspoon chili garlic sauce instead of 2. Taste. Add more if you want heat. The condensed milk mellows it too — add a bit extra.
+
+**Can I use frozen tuna steaks?**
+Thaw completely. Thawing matters more than the source. Pat very dry after.
+
+**What does medium-rare look like inside?**
+Ruby red. Deep red. Almost purple in the center. A thin cooked line around the very edge. That's it. If it's gray all the way through, it's overcooked.
+
+**How long does this keep?**
+Eat it same day if you can. Leftovers work cold the next morning, but after that it gets fishy in a bad way.
+
+**Does the volcano sauce work with other fish?**
+Yeah. Salmon. Swordfish. Even shrimp. The spicy mayo is just spicy mayo — doesn't care what it sits next to.
