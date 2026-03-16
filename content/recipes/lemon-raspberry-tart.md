@@ -1,10 +1,10 @@
 ---
-title: "Lemon Raspberry Tart"
+title: "Lemon Raspberry Tart with Cornmeal Crust"
 slug: "lemon-raspberry-tart"
-description: "A tangy, vibrant tart with a golden crust filled with a lemon and raspberry jam custard. Tart and sweet notes mingle with a buttery base; whipped cream and fresh raspberries finish the dish. Uses cornmeal in crust for texture, swaps lemon juice for yuzu for an exotic twist, and replaces corn starch with arrowroot to lighten the filling. Chilling steps crucial for texture; baking cues highlight color and slight jiggle. Fine balance of sweetness and acidity in each bite."
-metaDescription: "Lemon Raspberry Tart with yuzu twist; flaky cornmeal crust, arrowroot-thickened filling, chilled for texture; topped with whipped cream and fresh raspberries."
-ogDescription: "Yuzu brightens the lemon raspberry filling; flaky cornmeal crust baked twice; whipped cream crowns the tart. Chill crucial, watch custard jiggle, slice sharp."
-focusKeyphrase: "Lemon Raspberry Tart"
+description: "Lemon raspberry tart featuring a buttery cornmeal crust, yuzu-kissed custard filling, and raspberry jam. Topped with whipped cream and fresh raspberries for bright, tangy flavor."
+metaDescription: "Make this lemon raspberry tart with cornmeal crust, yuzu juice, and raspberry jam custard filling. Elegant homemade dessert with whipped cream topping. Try it tonight."
+ogDescription: "Tangy lemon raspberry tart with cornmeal crust, raspberry jam filling, and fresh raspberries. Homemade elegance in every bite."
+focusKeyphrase: "lemon raspberry tart"
 date: 2025-08-05
 draft: false
 image: lemon-raspberry-tart.jpg
@@ -21,9 +21,14 @@ tags:
 - "dessert"
 - "easy"
 keywords:
-- "yuzu juice"
-- "cornmeal crust"
-- "arrowroot powder"
+- "lemon raspberry tart"
+- "cornmeal crust lemon custard tart"
+- "lemon custard tart with whipped cream"
+- "homemade tart recipe"
+- "buttery tart with raspberry jam filling"
+- "raspberry dessert"
+- "yuzu lemon raspberry dessert"
+- "easy lemon raspberry tart"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "320"
@@ -95,3 +100,89 @@ faq:
 - "q: Best way to store leftover tart? a: Cover loosely in fridge up to 2 days. Avoid airtight wrap directly on cream topping; slight breath needed. Can freeze crust separately, but filling texture suffers. Reheat tart not recommended. Fresh raspberries fridge keep bright; dry before storing."
 
 ---
+
+The crust goes in cold, the filling's a custard that almost breaks if you're not careful, and somehow it comes together as this sharp-sweet thing that tastes like summer in a slice. Tried it with regular lemon once. The yuzu changes everything — less aggressive, kind of floral. Had a baking disaster with cornstarch last year. Switched to arrowroot. Completely different texture now. This is the version that actually works.
+
+## Why You'll Love This Lemon Raspberry Tart
+
+Takes 70 minutes total, which sounds like a lot until you realize most of that is waiting — chilling, baking, the fridge time at the end. Actual hands-on time is maybe 30 minutes if you move slow.
+
+The crust has cornmeal in it. Sounds weird. It gives this subtle nutty crunch that you wouldn't expect in something this delicate.
+
+Raspberry jam and lemon custard together. Doesn't sound revolutionary, but the tartness cuts through the richness in a way that makes you want another slice. Leftovers taste better. Actually better, not like "still good."
+
+No fancy equipment. Food processor, a tart pan, a whisk. One mixing bowl if you're efficient about it.
+
+Works as an impressive dessert that doesn't look like you spent three hours. Serves people. Looks like you know what you're doing.
+
+## What You Need for a Lemon Raspberry Tart
+
+**For the crust:** Flour, cornmeal. The cornmeal substitutes some of the flour and gives texture. Cold unsalted butter, cubed — the cold part matters. One egg, yuzu juice (bright, less sharp than lemon), vanilla extract. Salt. A teaspoon of sugar. Water only if the dough's too dry.
+
+**For the filling:** Sugar reduced slightly because the jam brings sweetness already. Arrowroot powder, not cornstarch — it stays glossy and smooth. Raspberry jam, fresh lemon juice, four eggs, diced butter. That's it.
+
+**For the topping:** Heavy cream, a bit of sugar, fresh raspberries if you want them. Completely optional but they're nice.
+
+Substitutions that work: Lemon juice instead of yuzu if yuzu's hard to find, but add a tiny bit less sugar. Cornstarch instead of arrowroot works but the filling gets duller, thicker. You can skip the cornmeal and use extra flour — loses the crunch but still fine.
+
+## How to Make a Lemon Raspberry Tart
+
+**Building the crust first.** Pulse flour, cornmeal, sugar, salt in a food processor until it looks combined. Add the cold butter cubes. Pulse in short bursts — don't blend it smooth. Stop when the butter looks like pea-sized pieces. Cold bits matter. They're what makes the crust actually flaky.
+
+Add the egg, yuzu juice, vanilla. Pulse just until the dough barely comes together. It should clump, not be wet. If it's too sticky, add cold water one teaspoon at a time. Barely. Then shape it with your hands into a rough rectangle. Work fast. The less you handle it, the more tender the crust stays.
+
+On a floured surface, roll it out to about 3mm thick. Make it into a rectangle. If it's fighting you, chill it wrapped for 10 minutes, then try again. Press it into a 33 x 10 cm tart pan — the kind with a removable bottom. Patch any tears with dough scraps. Poke the bottom with a fork all over. This stops it puffing up during the blind bake.
+
+Chill it in the fridge for 25 minutes. This matters. The fats solidify, the gluten relaxes, it won't shrink in the oven.
+
+Preheat to 205°C (400°F) with the rack low.
+
+Line the crust with parchment paper. Fill it with pie weights or dried beans. Blind bake for 18 minutes. Remove the weights. Bake another 5 minutes until the bottom's dry and the edges are turning golden but not dark. Let it cool slightly. It should be crisp but still tender.
+
+Lower the oven to 190°C (375°F).
+
+**The filling is a lemon custard that needs attention.** In a saucepan, whisk sugar and arrowroot powder until smooth. No lumps. Add the raspberry jam, lemon juice, eggs, and diced butter all at once. This sounds backwards but it works. Heat to medium-high and whisk constantly. Don't rush. The mixture will thicken and bubble gently. Watch for the first rolling boil, then let it simmer 1 to 2 minutes until it coats the back of a spoon and looks glossy. Stop immediately. Overcooked and the eggs scramble into grains.
+
+Pass it through a fine sieve into a clean bowl. This removes any cooked egg bits or lumps. Makes it silky.
+
+Pour the filling into the baked crust. Smooth the top with a spatula if needed.
+
+Bake 10 minutes. The filling should look just set with a tiny wobble in the center. Don't overbake or it cracks. Cool on a rack until it's warm, maybe 20 to 30 minutes, then refrigerate uncovered for 3 hours or until it's completely chilled and firm. This long cooling is critical. You won't get clean slices without it.
+
+## Lemon Raspberry Tart Tips and Doneness
+
+Yuzu juice is the secret. It's bright and floral without being harsh like straight lemon. If you can't find it, use fresh lemon juice but subtract a tiny bit of sugar to compensate. The tart gets sharper without that floral note.
+
+Arrowroot powder stays glossy in a custard because it doesn't get broken down by prolonged heat the way cornstarch does. If you use cornstarch instead, the filling gets thick and slightly dull. It still works. Just different.
+
+Blind baking twice — parchment and weights for the first stretch, then naked for the second — this is what keeps the bottom from getting soggy. The custard is heavy. It needs a crust that's actually crisp.
+
+If the custard comes out grainy, you overheated the eggs. Lower the heat next time, keep whisking, don't leave it alone for a second. It'll thicken. It just takes a minute longer at a gentler temp.
+
+Cutting the tart cleanly. Use a sharp serrated knife. Warm it briefly under hot water and wipe it dry between cuts. Prevents the crust from crumbling and smearing the filling.
+
+Store it covered in the fridge. Lasts about 2 days, best the first day. Anything older and the crust loses crispness.
+
+The leftover crust scraps? Bake them with a sugar sprinkle at 190°C until golden. Eat them before the actual tart. They're better.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Lemon Raspberry Tart
+
+**Can I make this tart ahead of time?**
+Yeah. Make it the day before, keep it covered in the fridge. The filling sets more the next day. Crust stays good. Technically best eaten within 2 days, but it's still fine on day 2 if you keep it covered.
+
+**What if my custard breaks or looks grainy?**
+Overheating eggs. It happens. Lower your heat, whisk constantly, don't walk away. Takes longer but stays smooth. If it's already grainy, pass it through the sieve harder. Sometimes you can save it.
+
+**Can I use regular lemon juice instead of yuzu?**
+Yeah. Use the same amount, maybe cut the sugar by half a teaspoon. The tart gets sharper, less floral. Still works. Different vibe.
+
+**Do I have to blind bake the crust twice?**
+Yes. The first bake sets the structure, the second finishes it. One bake and the bottom gets soggy under the custard weight. Not worth the risk.
+
+**How do I know when the filling's done baking in the tart?**
+Look for a slight wobble in the very center. Not jiggly everywhere — just that tiny wobble in the middle. It'll firm up as it cools. If it looks completely set, you've overbaked it.
+
+**Can I substitute cornstarch for arrowroot?**
+You can. It'll work. The filling gets thicker and slightly cloudier instead of glossy. Arrowroot's better, but cornstarch won't ruin it.
