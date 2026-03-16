@@ -1,10 +1,10 @@
 ---
-title: "Mediterranean Chicken Crescents"
+title: "Mediterranean Chicken Crescents with Feta"
 slug: "mediterranean-chicken-crescents"
-description: "Chicken tenderloins cooked in olive oil with lemon, garlic, and herbs. Wrapped in crescent dough smeared with hummus, layered with feta, olives, and sun-dried tomatoes. Baked until golden, flaky crescents with savory melty filling. A quick, textured savory bake with a Mediterranean kick, balancing tart, salty, creamy, and tangy. Simple, adaptable, great for meal prep or last-minute dinners. Substitutions included for dietary variations."
-metaDescription: "Mediterranean Chicken Crescents with lemon, garlic, oregano chicken in olive oil; wrapped in thin crescent dough with hummus, feta, olives, sun-dried tomatoes."
-ogDescription: "Crispy golden crescents filled with herbed chicken, hummus barrier, feta, olives, and sun-dried tomatoes. Textured, tart, salty, creamy, tangy bite."
-focusKeyphrase: "Mediterranean Chicken Crescents"
+description: "Mediterranean chicken crescents with feta, kalamata olives, and sun-dried tomatoes wrapped in flaky crescent dough. Quick baked appetizer or dinner."
+metaDescription: "Mediterranean chicken crescents with hummus, feta cheese, kalamata olives and sun-dried tomatoes. Easy crescent roll recipe. Make it tonight."
+ogDescription: "Flaky crescent rolls stuffed with lemon garlic chicken, hummus, feta and olives. Mediterranean comfort in every bite."
+focusKeyphrase: "mediterranean chicken crescents"
 date: 2025-12-26
 draft: false
 image: mediterranean-chicken-crescents.jpg
@@ -21,9 +21,18 @@ tags:
 - "easy"
 - "bread"
 keywords:
-- "chicken crescent dough"
-- "Mediterranean chicken"
-- "savory crescent rolls"
+- "mediterranean chicken crescents"
+- "chicken crescent roll appetizers"
+- "chicken crescents with feta and olives"
+- "hummus stuffed chicken crescent rolls"
+- "sun-dried tomato chicken crescents"
+- "lemon garlic chicken appetizers"
+- "easy mediterranean chicken recipe"
+- "chicken crescents with hummus and sun-dried tomatoes"
+- "kalamata olives chicken recipe"
+- "crescent roll chicken dinner"
+- "feta cheese chicken appetizers"
+- "mediterranean chicken dinner ideas"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "320"
@@ -75,3 +84,108 @@ faq:
 - "q: How to store leftovers? a: Refrigerate in airtight container 2-3 days. Reheat in oven or toaster oven for crispness, microwave makes dough soggy. Freeze tightly wrapped rolls, thaw overnight in fridge, re-bake briefly. Avoid long storage to keep flaky texture."
 
 ---
+
+Unroll the crescents, flatten them out wider. Spread hummus thin—just enough to coat. Layer the feta, olives, sun-dried tomatoes. Then the chicken. Roll tight. Bake. Done in 20 minutes.
+
+This is the appetizer that looks like you spent an hour on it.
+
+## Why You'll Love These Mediterranean Chicken Crescents
+
+Takes 35 minutes to get them ready, 20 in the oven. That's it.
+Easy enough that you're not stressing while guests arrive—the hard part is just handling the dough without tearing it.
+Works as an appetizer, but also a lunch thing cold the next day.
+Hummus and feta mean it tastes like actual food, not just bread with chicken inside.
+One pan for cooking, one sheet for baking. Cleanup is nothing.
+
+## What You Need for Lemon Garlic Chicken Crescents
+
+Chicken breast tenderloins—a pound. They're thin already, which is why this works. Regular breasts take too long.
+
+Olive oil. Two tablespoons. Gets the garlic going, cooks the chicken without drying it out.
+
+Lemon juice. Fresh. A tablespoon. The acid cuts through the bread and the richness.
+
+Garlic cloves—two, minced. Goes in the oil first till it smells sharp. That smell matters.
+
+Oregano and thyme. A teaspoon each, dried. Not fresh—dried herbs here are stronger, which is what you want packed into chicken.
+
+Smoked paprika. Half a teaspoon. Gives it color and a flavor that says "Mediterranean" without tasting weird.
+
+Salt and black pepper. Half and a quarter teaspoon. Season the chicken before it hits the pan.
+
+One package of crescent roll dough. The refrigerated kind. Eight rolls. They need to stay cold or they get sticky.
+
+Hummus. Four tablespoons total. Thin spread, not thick. Acts like a glue and adds flavor without being obvious.
+
+Feta cheese, crumbled. Four teaspoons. Not a lot. Just enough to taste it.
+
+Kalamata olives, chopped. Four teaspoons. The salty, briny thing that makes this taste like something.
+
+Sun-dried tomatoes packed in oil. Four teaspoons, drained and chopped small. They're concentrated—too much overpowers.
+
+Oil spray for the sheet. Or just brush it. Either works.
+
+Fresh Italian parsley for the top. Just before serving.
+
+## How to Make Lemon Garlic Chicken Crescents
+
+Heat the oven to 380 degrees. Line a rimmed baking sheet with foil and spray it light with oil. Cold sheet, dry sheet—crescents won't stick as much.
+
+Warm the olive oil in a pan over medium heat till it's shimmery and moves fast when you tilt the pan. Drop in the minced garlic. Stir for about 30 seconds. You'll smell it get sharp—that's the signal to move on.
+
+Toss the chicken tenderloins in the pan. They should have oregano, thyme, paprika, salt, and pepper already on them. You'll hear them start to sizzle right away, a steady gentle sound. That means the pan's hot enough. If it's crackling and popping, turn it down. Flip after three to four minutes when the underside goes opaque and firm. Pour the lemon juice over the chicken while it's still cooking—doesn't matter which side. The acid seeps in. Cook until it's firm all the way through. Touch it, it shouldn't give when you press. Or hit 165 degrees inside if you care about that. Pull it out onto a plate and let it cool enough to handle.
+
+Unroll the crescent dough onto a floured surface. Each roll wants to stay in its triangle shape, but you're going to flatten it out wider and thinner without tearing it. It's fragile. Light hands. Roll it out till it's almost twice the size.
+
+Spread about a half teaspoon of hummus on each flattened crescent. Thin veil. Not a glob. This isn't a hummus sandwich.
+
+Layer on a half teaspoon of feta, a half teaspoon of chopped olives, a half teaspoon of sun-dried tomatoes. They should be small pieces. Then the chicken—cut the tenderloins lengthwise if they're thick, and use about a teaspoon of pieces per crescent. Don't overstuff or the dough tears when you roll it.
+
+Roll the crescents tight but don't squeeze. Seal the edges with a wet fingertip if they want to open back up. They need to stay sealed or the filling leaks everywhere during baking.
+
+## How to Get Mediterranean Chicken Crescents Golden and Crispy
+
+Arrange the rolls on the baking sheet with space between them. Not touching. They puff up. Spray the tops lightly with oil or brush with egg wash if you want them to brown faster.
+
+Bake 16 to 18 minutes. Watch for the edges to go crisp and golden spots to form on top. Tap one lightly—it should sound hollow-ish, not dense. If the bottoms look soggy, the pan was too crowded or the oven runs cool. Try spacing them out more next time or bumping the temp to 390.
+
+Let them rest for two or three minutes after they come out. The filling settles. They're easier to handle warm instead of right-out-of-the-oven hot.
+
+## Mediterranean Chicken Crescents Tips and Common Mistakes
+
+Don't let the dough warm up too much before baking or it gets sticky and won't brown right. Keep it cold. Refrigerated dough was built for this.
+
+The hummus is the glue. Without it, everything shifts around and the roll falls apart. But you don't need much—that thin veil is enough.
+
+Sun-dried tomatoes are concentrated. Chop them small. A quarter-teaspoon piece is different from a half-teaspoon piece.
+
+If the chicken pieces are too big, they don't cook evenly inside the roll. Slice them thin or use the tenderloins whole if they're small enough.
+
+The lemon juice goes in while the chicken's cooking, not after. It matters.
+
+Overcrowding the pan when you cook the chicken means it steams instead of sears. They need room.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Mediterranean Chicken Crescents
+
+**Can I make these ahead?**
+Yeah. Assemble them, cover with plastic, refrigerate up to eight hours. Bake straight from the fridge—might add two minutes. Cold dough browns better anyway.
+
+**What if I don't have hummus?**
+Greek yogurt mixed with lemon juice and garlic works. So does cream cheese thinned out. It's just a binder. The feta and olives are doing the flavor work.
+
+**Can I use regular chicken breasts instead of tenderloins?**
+You can. Pound them thin or they won't cook through in 20 minutes. Actually—don't bother. Tenderloins are four bucks and already the right thickness.
+
+**Does the feta have to be crumbled?**
+Yeah. Blocks won't spread. Crumbled melts slightly and stays in place better.
+
+**Can I substitute the sun-dried tomatoes?**
+Fresh tomatoes won't work—too wet. Roasted red peppers from a jar, drained, chopped fine. That's it. Different flavor but it works.
+
+**What temperature inside the chicken is actually safe?**
+165 degrees Fahrenheit at the thickest part. A meat thermometer takes the guessing out of it. Tenderloins are thin enough that if they look opaque and firm, they're done.
+
+**How long do leftovers last?**
+Three days in the fridge in an airtight container. Reheat in a 350-degree oven for five minutes. Don't microwave them—they get soggy.
