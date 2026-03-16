@@ -1,10 +1,10 @@
 ---
-title: "Spiced Lentil Beef Stew"
+title: "Lentejas Soup with Beef & Mushrooms"
 slug: "spiced-lentil-beef-stew"
-description: "Hearty lentils simmered with tender beef and mushrooms, infused with star anise and mild heat from red pepper flakes. Olive oil sautés onions and garlic, melding rich beef broth with fresh tomato and parsley for brightness. Slow-cooked until lentils soften, then finished with diced roast beef for protein and texture. A rustic, nut-free, dairy-free, gluten-free, egg-free soup with balanced spices and fresh herbs, warming and filling, perfect for chilly days or meal prep."
-metaDescription: "Spiced Lentil Beef Stew with tender beef, cremini mushrooms, star anise, and red chili flakes. Slow simmered for deep flavors and rich texture."
-ogDescription: "Hearty beef and lentil stew, mushrooms and star anise lend depth. Slow-cooked, spicy warmth with fresh coriander kick. Rich, filling, rustic bowl."
-focusKeyphrase: "Spiced Lentil Beef Stew"
+description: "Lentejas soup combines green lentils, tender beef roast, and cremini mushrooms simmered in beef stock with star anise. Fresh coriander and red pepper flakes add brightness and warmth to this hearty, slow-cooked meal."
+metaDescription: "Make lentejas soup tonight with green lentils, beef roast, and mushrooms in rich beef stock. Star anise and coriander create authentic flavor. Try it tonight."
+ogDescription: "Hearty lentejas soup with green lentils, beef roast, mushrooms, and star anise. Slow-cooked comfort in every bowl."
+focusKeyphrase: "lentejas soup"
 date: 2025-07-26
 draft: false
 image: spiced-lentil-beef-stew.jpg
@@ -21,9 +21,16 @@ tags:
 - "spice"
 - "comfort food"
 keywords:
-- "lentil beef stew"
-- "slow-cooked stew"
-- "spiced beef soup"
+- "lentejas soup"
+- "beef stew slow cooker"
+- "slow cooker pot roast"
+- "slow cooked beef"
+- "slow cooker roast beef"
+- "crock pot beef stew"
+- "slow cooker beef recipes"
+- "beef and lentil soup"
+- "mushroom beef soup"
+- "hearty beef soup recipe"
 breadcrumb: ["Home", "Recipes", "Soups"]
 nutrition: 
  calories: "320"
@@ -68,3 +75,82 @@ faq:
 - "q: How store leftovers? a: Cool quickly, fridge within two hours. Use airtight container. Keep 3-4 days. Reheat gently, low heat. Can freeze up to 3 months. Thaw overnight fridge. Stir well before serving. Bell pepper texture softens after freezing. Coriander best fresh after thaw."
 
 ---
+
+Olive oil in a pot. Onions, mushrooms, chili. Eight minutes until the kitchen smells like something's actually happening. That's where this starts.
+
+## Why You'll Love This Lentil Beef Stew
+
+One bowl and you're done eating for a while. Real protein. Real vegetables. Not some broth situation that leaves you hungry an hour later.
+Tastes better the next day. Flavors actually sit there overnight and figure themselves out.
+Takes 90 minutes total but most of it's just the pot doing the work while you're somewhere else.
+Spice level is yours to control. Add more chili flakes or don't. Depends what you can handle.
+Comfort food that doesn't feel heavy after. Lentils instead of just meat and potatoes.
+
+## What You Need for Lentil Beef Stew
+
+A large yellow onion, sliced. White onions are sharper. Yellow ones melt.
+250 grams of cremini mushrooms, chopped. Button mushrooms work. Cremini browns better and tastes like something.
+Green lentils. Not red. Red ones go to mush. These hold their shape.
+400 grams of cooked beef roast, diced. Leftover roast is ideal. Chuck roast, brisket—whatever you have. Already cooked matters.
+Two liters of beef stock. Chicken works in a pinch. Beef tastes right here.
+One small red bell pepper, seeded and chopped. Green if that's what you have. Doesn't matter as much as people say.
+Four garlic cloves, sliced thin. Whole cloves if you're rushing. They'll soften anyway.
+Fresh coriander, roughly chopped. Cilantro. Not parsley. Different thing entirely.
+Star anise. One whole one. Sounds weird. Just trust it.
+One and a half milliliters of crushed red chili flakes—actually closer to a quarter teaspoon. Adjust up if you like heat.
+Salt. Pepper. Extra virgin olive oil.
+
+## How to Make Lentil Beef Stew
+
+Heat 25 milliliters of olive oil in a large pot over medium heat. Let it actually get hot—not smoking, but warm enough that the onions sizzle when they hit the pan.
+
+Add the sliced onions, mushrooms, and chili flakes. Season right away with salt and pepper. Stir occasionally. This takes about eight minutes. You're waiting for the onions to go soft and the mushrooms to brown on the edges. They'll start releasing liquid—let that cook off. Once the color changes and things start smelling sweet, you're done with this step.
+
+Stir in the sliced garlic. One to two minutes, that's it. Garlic burns faster than you'd think. You want it soft and fragrant, not brown and bitter.
+
+Pour in the beef stock. Two liters. Add the green lentils and drop in that one star anise. Bring it to a boil—this usually takes five minutes if your heat is right. Once it's boiling, reduce the heat, cover the pot, and let it simmer. Forty minutes. The lentils should be just tender when you bite one. Not falling apart. Not hard.
+
+## How to Get the Flavors to Actually Meld
+
+Stir in the diced cooked beef, the red bell pepper, and half the fresh coriander. Leave the lid off now. Five more minutes. Just enough time for the beef to warm through and everything to start talking to each other.
+
+Taste it. Adjust the salt and pepper. This is the moment it matters—before you serve it. Sprinkle the remaining coriander on top when you pour it into bowls.
+
+The whole thing takes one hour and thirty minutes from start to finish. Twenty-five minutes of prep, sixty-five minutes of cooking. Most of that cooking is hands-off.
+
+## Beef Stew Tips That Actually Help
+
+Don't skip browning the onions and mushrooms. It takes eight minutes and makes the whole soup taste deeper. Raw onions just won't do it.
+
+The beef doesn't need to be hot when you add it—it's already cooked. You're just warming it through. If you throw it in too early, it gets tough. Add it at the very end.
+
+Star anise is the thing that makes this taste like something your grandmother made, even if she didn't. It's subtle. One whole one is enough. Two is too much.
+
+Lentils vary. Sometimes they're tender in thirty-five minutes. Sometimes forty-five. Taste one. If it falls apart when you bite it, you're past done. If it's hard, you need more time. Usually around forty minutes is right.
+
+The coriander goes in twice—half during cooking, half raw on top. The cooked stuff disappears into the broth. The raw stuff sits on top and tastes like actual herb, not just flavor somewhere in the soup.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Beef Lentil Stew
+
+**Can I make this in a slow cooker instead?**
+Yeah. Brown the onions and mushrooms on the stove first—that part matters. Then throw everything else in a slow cooker with the beef stock and lentils. Low for six hours, high for three. Add the beef and bell pepper in the last thirty minutes. Coriander stays on top at the end.
+
+**What if I don't have cooked beef?**
+You need meat that's already tender. Raw beef won't work in the time this takes. Chuck roast or brisket work—those need slow cooking anyway. Cut them into chunks, brown them in oil first, then follow the recipe. Adds time. Maybe two hours total instead of ninety minutes.
+
+**Is this actually a soup or a stew?**
+It's thick like stew, poured like soup. Call it whatever. Doesn't change how it tastes.
+
+**Can I use red lentils?**
+They'll disappear. Go to mush. Green ones hold their shape and actually taste like something. Worth it.
+
+**How long does it keep?**
+Five days in the fridge easy. Freezes fine. Tastes better on day two or three when everything's had time to sit together.
+
+**Do I have to use star anise?**
+Probably shouldn't skip it. It's one ingredient and it's the thing that makes this different. Not overwhelming. Just there.
+
+**What if I hate coriander?**
+Don't use it. Use parsley instead. Different but it works. Or use nothing. The soup doesn't need it.
