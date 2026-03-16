@@ -1,10 +1,10 @@
 ---
-title: "Twisted Fusilli Gazpacho"
+title: "Cold Pasta Salad with Fusilli & Jalapeño"
 slug: "twisted-fusilli-gazpacho"
-description: "Cold pasta meets a zesty cold sauce blending cucumber, tomato, and a kick of chili. Swaps out traditional peppers for jalapeños and balsamic vinegar for sherry. Cook fusilli al dente, chill. Blend cucumber, tomato, garlic, olive oil, jalapeño, balsamic, sugar, salt, and pepper. Fold in diced veggies and fresh herbs. Top with toasted breadcrumbs for crunch. Ready in under an hour with prep and chill times, serves four. Vegan, nut-free, dairy-free, egg-free. Bright, refreshing, and a tangy twist on a summer classic."
-metaDescription: "Twisted Fusilli Gazpacho, a cold pasta dish with cucumber, tomato, jalapeño, mint, and crunchy toasted breadcrumbs. Ready in 40 mins, vegan and refreshing."
-ogDescription: "Cold fusilli, chilled sauce of cucumber, tomato, garlic, jalapeño. Mint, crunchy breadcrumbs. Bright, fresh, vegan. Serve cold, easy summer Mediterranean dish."
-focusKeyphrase: "Twisted Fusilli Gazpacho"
+description: "Cold pasta salad featuring fusilli, cucumber, tomato, and a spicy jalapeño dressing with olive oil and balsamic vinegar. Topped with panko breadcrumbs for crunch."
+metaDescription: "Cold pasta salad recipe with fusilli, fresh cucumber, tomato, and jalapeño sauce. Ready in under an hour. Make it tonight."
+ogDescription: "Zesty cold pasta salad with fusilli, cucumber, tomato, jalapeño, and crispy panko breadcrumbs. Perfect summer side dish."
+focusKeyphrase: "cold pasta salad"
 date: 2025-07-27
 draft: false
 image: twisted-fusilli-gazpacho.jpg
@@ -21,9 +21,18 @@ tags:
 - "spicy"
 - "summer"
 keywords:
-- "fusilli pasta"
-- "cold gazpacho sauce"
-- "toasted panko breadcrumbs"
+- "cold pasta salad"
+- "cold pasta salad recipes"
+- "chilled pasta salad"
+- "fusilli pasta salad"
+- "vegetable pasta salads"
+- "pasta salads for summer"
+- "summer pasta salad recipes"
+- "cold pasta dressing"
+- "cold pasta recipes"
+- "pasta salad recipe spaghetti"
+- "cold italian pasta salad"
+- "summer noodle salad"
 breadcrumb: ["Home", "Recipes", "Pasta and Noodles"]
 nutrition: 
  calories: "320"
@@ -73,3 +82,96 @@ faq:
 - "q: How to store leftovers? a: Keep covered airtight in fridge. Best eaten within 24 hours cold. Pasta sauce mix softens over time. Breadcrumb crunch loses crispness fast, sprinkle fresh breadcrumbs before serving if possible. Not recommended to freeze, texture breaks down."
 
 ---
+
+Pasta goes in hot water. Sauce goes in a blender. Everything else goes in the fridge. That's the whole thing.
+
+## Why You'll Love This Cold Pasta Salad
+
+Takes 40 minutes total — 25 minutes of prep, 15 minutes for the pasta to cook and chill. That's it.
+Makes enough for like six people or three people with leftovers that somehow taste better the next day.
+Spicy enough to notice. Not spicy enough to ruin it. The jalapeño sits in the back of your throat.
+Works as an actual meal, not just a side thing.
+No cream. No mayo. Just blended vegetables and olive oil, which means it won't go weird and thick in your fridge.
+
+## What You Need for Cold Pasta Salad
+
+Fusilli. Three hundred fifty grams. The shape matters — spiral catches sauce better than straight pasta does.
+
+Cucumber, tomatoes, garlic. One of each going into the blender — whole cucumber (peeled and seeded), three tomatoes quartered, three cloves garlic. These get pureed into the base.
+
+Jalapeño. Half of one. Seeds out. It's the only spicy thing in here, so don't skip it or double it depending on your mood.
+
+Olive oil. Fifty milliliters. Not olive oil spray. Real oil. The kind you actually taste.
+
+Balsamic vinegar. Just fifteen milliliters. Sounds small. Changes everything.
+
+Sugar. One and a half teaspoons. Balances the acid without making it sweet. Don't taste sweet — you just stop noticing the vinegar.
+
+Salt and pepper. Add it twice — once in the sauce, once at the end when you can actually taste what you've made.
+
+For the top layer — red bell pepper diced small, another half cucumber diced, one tomato diced, forty milliliters of fresh mint (not dried, dried tastes like nothing), and sixty milliliters of toasted panko breadcrumbs. The breadcrumbs stay crispy. The mint stays green. Everything stays cold.
+
+## How to Make Chilled Pasta Salad
+
+Get water boiling with salt in it. Not a tiny pinch. Actual salt. Taste it — should be like seawater.
+
+Dump in the fusilli. Stir it once. Set a timer for ten minutes. Don't walk away completely, but don't hover either. When it's done, the pasta should bend without snapping but still have some resistance. Not mushy. Not crunchy.
+
+Drain it. Shake the colander a few times to get most of the water out. Toss with a splash of olive oil while it's still hot — this stops the pasta from clumping into one brick. Then cover it and get it in the fridge.
+
+While that's cooling, handle the sauce. Peel the cucumber — leave some skin on if you like the speckles. Cut it in half lengthwise, scoop out the watery center with a spoon. Sounds fussy. Takes thirty seconds. Matters because watery cucumber makes watery sauce.
+
+Quarter the tomatoes. Rough chop the jalapeño. Peel the garlic or don't — the blender doesn't care. Put everything in there with the olive oil, balsamic, sugar, salt, and a few grinds of black pepper.
+
+Blend until it's uniform. Not chunky. Not perfectly smooth either — there should be a slight texture to it, like there's still something solid in there. Taste it. Probably needs more salt. Add it now, not later.
+
+## Getting the Texture Right on Cold Pasta Salad
+
+The pasta has to be actually cold. Not room temperature. Cold. This means at least twenty minutes in the fridge, maybe longer if your kitchen is hot.
+
+Pull it out. Mix the sauce in. This is where most people go wrong — they pour it over and stir for five seconds. Fold it in. Actually mix it so every piece of pasta has sauce on it, but don't mash it. Takes maybe a minute of stirring.
+
+Now the fresh stuff. Diced red bell pepper, diced cucumber, diced tomato, torn mint. Fold these in gently. They're supposed to stay distinct, not disappear into the pasta.
+
+Taste it again. Salt usually needs more. Pepper sometimes needs more. You're eating it cold, so flavors are quieter than they are in hot food. Be aggressive.
+
+Right before you serve — and not before — sprinkle the toasted panko on top. If you do this too early, it goes soft and pointless. The breadcrumbs are the crunch. That's their whole job.
+
+## Cold Pasta Salad Tips and Common Mistakes
+
+The blender is non-negotiable. A food processor leaves chunks. A hand blender takes forever. Use a real blender.
+
+Don't seed the jalapeño completely if you like spice. Leave some of the ribs. They're where the heat actually lives.
+
+Red onion works instead of red bell pepper if that's what you have. Milder. Still good.
+
+The panko has to be toasted. Raw panko tastes like nothing. Toasted panko tastes like it was meant to be there. Takes two minutes in a dry pan over medium heat — just stir it around until it smells nutty.
+
+Cold pasta salad recipes usually call for chicken. This one doesn't. Add rotisserie chicken if you want protein — shred it, mix it in after the pasta's cold. Doesn't change the cooking time.
+
+Mint makes a difference. Don't substitute basil. Different vibe entirely. Mint is brighter.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Cold Pasta Salad
+
+**Can I make this the night before?**
+Yeah. Actually better the next day. The flavors sit together overnight and become more themselves. The pasta doesn't get soggy because there's no mayo. Just don't add the breadcrumbs until you're actually serving it.
+
+**What if I don't have a blender?**
+Food processor works but it'll be chunky. Doesn't matter as much as you think. Still tastes like something.
+
+**How long does it stay good in the fridge?**
+Three days easy. Four if you didn't use too much tomato. After that the pasta starts breaking down a little.
+
+**Can I use a different pasta shape?**
+Fusilli is best. Penne works. Spaghetti broken into pieces works. Avoid the tiny stuff — elbow, ditalini, whatever. Doesn't catch sauce right.
+
+**Is there a way to make it less spicy?**
+Use less jalapeño. Or none. It'll still taste like a chilled pasta salad, just without the heat sitting in the background.
+
+**Do I have to use fresh mint?**
+Yes. Dried mint tastes like paper. Buy fresh or skip it. The tomato and cucumber are already there, so you're not losing much if you leave the mint out entirely.
+
+**What's the best way to store leftovers?**
+Container in the fridge with a lid. The breadcrumb situation is going to get weird, but the salad itself stays good. Just add fresh breadcrumbs on top when you eat the leftovers.
