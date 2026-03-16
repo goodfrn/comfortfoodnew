@@ -1,10 +1,10 @@
 ---
-title: "Onion Soup Hamburger Steaks"
+title: "Hamburger Steaks with Onion Gravy"
 slug: "onion-soup-hamburger-steaks"
-description: "Ground beef tossed with garlic powder, onion powder, salt, pepper, and ground mustard, formed into patties. Cooked in a hot skillet until deeply browned on both sides to lock in juices. Onions sautéed in reserved drippings, then simmered with beef broth instead of dry soup mix and a splash of Worcestershire sauce. Patties returned to pan to soak up flavors. Simple, hearty. Great for weeknights. Cast iron skillet recommended for that perfect crust. Timing guided by color and smell, not just minutes. Onion broth rich, savory, slightly tangy. Serves 4 with robust, beefy aroma and tender inside."
-metaDescription: "Onion Soup Hamburger Steaks with browned beef patties, caramelized onions simmered in beef broth and Worcestershire sauce. Juicy, aromatic, hearty American meal serves four."
-ogDescription: "Juicy hamburger steaks seared to mahogany crust, onions cooked in beef broth with Worcestershire sauce. Robust aroma, layered flavors, ready in 33 minutes."
-focusKeyphrase: "Onion Soup Hamburger Steaks"
+description: "Hamburger steaks with ground beef, garlic powder, and onion powder, simmered in beef broth and Worcestershire sauce. Cast iron skillet creates a perfect crust and tender interior."
+metaDescription: "Make hamburger steaks with ground beef and caramelized onions in beef broth and Worcestershire. Comfort food dinner ready in 30 minutes. Try it tonight."
+ogDescription: "Ground beef hamburger steaks with sautéed onions, beef broth, and Worcestershire sauce. Hearty skillet dinner that's deeply savory and tender."
+focusKeyphrase: "hamburger steaks"
 date: 2025-12-06
 draft: false
 image: onion-soup-hamburger-steaks.jpg
@@ -22,7 +22,14 @@ tags:
 keywords:
 - "hamburger steaks"
 - "ground beef patties"
-- "onion gravy"
+- "ground beef with onions"
+- "hamburger steaks with onion gravy"
+- "skillet hamburger steaks with beef broth"
+- "salisbury steak with beef broth"
+- "easy hamburger steaks"
+- "comfort food dinner"
+- "ground beef patties with onion gravy"
+- "Worcestershire beef recipe"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "480"
@@ -67,3 +74,73 @@ faq:
 - "q: How to store leftovers? a: Cool patties then wrap tight. Fridge best within 2 hours; good 3-4 days. Reheat gently in skillet with some broth or gravy to keep moist. Freezer works too; seal airtight and thaw overnight in fridge. Avoid microwave—dries meat fast and kills crust texture."
 
 ---
+
+Pound them out thick. Four patties from a pound of beef. Season before you shape—garlic powder, onion powder, salt, pepper, mustard. Mix with a fork, don't overdo it or they get dense. The onions come after, seared until they're sweet and almost falling apart, then beef broth hits the pan and everything gets rich and sticky.
+
+## Why You'll Love This Hamburger Steaks Recipe
+
+Takes 33 minutes total. Twelve to prep, twenty-one in the pan. One skillet. That's it.
+
+Tastes like something your grandmother made but you actually understand what's in it. No cream soup out of a can. Just beef, onions, broth, Worcestershire. Four ingredients for the sauce.
+
+Works as a weeknight dinner that feels heavier than it is. Mashed potatoes underneath or crusty bread on the side. Either one works.
+
+The beef stays juicy if you don't fuss with it while it cooks. Press the center—if it springs back, it's done. Don't poke it fifty times. Just once.
+
+Cold leftovers are actually better the next day. Flavors get deeper. Meat stays tender somehow.
+
+## What You Need for Ground Beef Patties with Onion Gravy
+
+A pound of ground beef. Nothing fancy. Regular grocery store stuff works fine. Garlic powder and onion powder—a teaspoon each. Salt, half a teaspoon of black pepper, half a teaspoon of ground mustard. That's your seasoning. One large onion, sliced thin. Beef broth, one cup. Two tablespoons of Worcestershire sauce. Two tablespoons of olive oil or whatever fat renders out of the beef. Cast iron skillet if you have it. Makes a difference.
+
+## How to Make Ground Beef Patties
+
+Dump the beef in a bowl. Sprinkle the seasonings over top—all of it at once. Grab a fork. Mix gently. You're not making meatloaf. Just combine until it's even. Takes maybe two minutes. Divide into four portions. Shape into patties thick enough that they don't disappear in the pan. Like half an inch thick. Maybe a bit thicker.
+
+Heat your skillet over medium-high. Cast iron holds heat better but regular works. Wait until it's almost smoking. That's when you know it's ready. Lay the patties in. Don't move them. Don't poke them. Don't flip them early. Leave them alone for four to five minutes. You're building a crust. When you look, it should be dark. Deep mahogany. The edges should bubble with fat.
+
+Flip. Another four to five minutes on the other side.
+
+## How to Get Salisbury Steak with Beef Broth Perfectly Juicy
+
+Press the center of a patty with your finger. If it springs back but isn't mushy, it's done. That takes practice. The first time, cut one open and check inside. Pale pink in the middle is fine. Gray all the way through means you went too far.
+
+Pull them onto paper towels. They keep cooking a little bit. Now the onions. Pour off all but two tablespoons of fat from the pan. If there's not enough, add olive oil. Lower the heat to medium. Toss the sliced onions in. Stir them. Not constantly—just enough that they're touching the hot pan. They'll start to soften. They'll start to smell sweet instead of sharp. That takes three to four minutes. You're not caramelizing them crazy dark. Just softening them.
+
+Pour the beef broth in. Bring it to a simmer. You'll see it bubble at the edges. Add the Worcestershire sauce. Stir. Taste it. If it needs salt, add a pinch. If it needs pepper, grind some in. Usually it doesn't. The broth and sauce handle it.
+
+## Skillet Hamburger Steaks Tips and Common Mistakes
+
+Nestle the patties back into the gravy. Spoon it over them. Let it sit for three to five minutes. The meat absorbs it. The flavors blend. Don't skip this part.
+
+Don't overwork the meat mixture. That's the biggest thing. Compact, dense patties are bad. Handle it as little as possible. Shape and done.
+
+Don't crowd the pan when they're cooking. Four patties in a normal skillet is fine. If you stack them or crowd them, they steam instead of sear. No crust. No good.
+
+Watch the heat. Medium-high for the initial sear. If your stove runs hot, back it down. You want a crust, not charcoal. If it's not browning, turn it up.
+
+The onions should be soft and sweet, not crispy and charred. Lower your heat if they're blackening. They'll finish cooking in the broth anyway.
+
+Leftovers taste better the next day. Reheat gently in a low oven with foil over top. Or just eat them cold. The jelly that forms around the meat from the broth sets up when it cools. It's good.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Ground Beef Patties with Onion Gravy
+
+**Can I use a different cut of beef?**
+Ground beef is what works here. It's tender, it's fast, it absorbs the gravy. Chuck or sirloin ground is fine. Lean beef means less fat for the onions, so add the olive oil.
+
+**What if I don't have Worcestershire sauce?**
+The dish changes. Tastes less deep. Soy sauce works as a swap—less, though, maybe a tablespoon instead of two. Or just skip it and add more salt.
+
+**How do I know when they're done?**
+Press the center. Should give a little but feel firm. Not spongy. Not hard. If you're nervous, cut one open the first time. Better to know than guess.
+
+**Can I make this ahead?**
+Cook the whole thing. Let it cool in the gravy. Reheat tomorrow in a low oven with foil. It's actually better that way. The flavors settle into the meat more.
+
+**What goes under this?**
+Mashed potatoes. Egg noodles. Crusty bread for soaking the gravy. Rice works. Plain white rice pulls in all the sauce. Doesn't matter much as long as something catches the gravy.
+
+**Can I freeze leftovers?**
+Yeah. They freeze fine. Thaw in the fridge overnight. Reheat gently. The meat stays tender if you don't blast it hot.
