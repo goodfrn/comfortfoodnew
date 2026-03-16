@@ -1,10 +1,10 @@
 ---
-title: "Mini Pork Tourtières"
+title: "Mini Pork Tourtières with Flaky Butter Crust"
 slug: "mini-pork-tourtieres"
-description: "Mini savoury French-Canadian pork pies with a golden flaky crust. Using a flaky butter crust with baking powder for lift instead of traditional shortening. Filled with sautéed onions, garlic, finely chopped mushrooms, and ground pork seasoned with clove and savory. The pies are baked until crisp with a milk and egg wash for that signature glossy finish. Muffin tin shapes give perfectly handheld portion sizes. A rustic twist by swapping white vinegar for apple cider vinegar and ground veal for pork for added tenderness. Ideal for appetizers or snackable mains."
-metaDescription: "Mini Pork Tourtières with flaky butter crust, sautéed onions, garlic, mushrooms, and spiced ground pork. Rustic handheld French-Canadian bites baked to crisp gold."
-ogDescription: "Flaky golden mini pork pies with spiced veal or pork filling, sautéed mushrooms, onions, and garlic. Baked low and slow for crisp bottom crusts and juicy centers."
-focusKeyphrase: "Mini Pork Tourtières"
+description: "Mini pork tourtières filled with ground veal, sautéed onions, garlic, and mushrooms. Golden flaky butter crust with baking powder. Handheld French-Canadian pies perfect for appetizers."
+metaDescription: "Mini pork tourtières recipe with ground veal, mushrooms, onions, and garlic in a flaky butter crust. Classic French-Canadian hand pies. Make it tonight."
+ogDescription: "Handheld mini pork tourtières with ground veal, mushrooms, and onions in a golden flaky butter crust. French-Canadian comfort food."
+focusKeyphrase: "mini pork tourtières"
 date: 2025-09-29
 draft: false
 image: mini-pork-tourtieres.jpg
@@ -21,9 +21,16 @@ tags:
 - "pork"
 - "pie"
 keywords:
-- "Mini Pork Tourtières"
-- "pork pies"
-- "French-Canadian cooking"
+- "mini pork tourtières"
+- "pork pie recipe"
+- "french canadian meat pie"
+- "homemade pork tourtière with mushrooms"
+- "french canadian tourtiere filling recipe"
+- "pork hand pies with baking powder crust"
+- "mini tourtiere pies with flaky pastry"
+- "pork pie with sautéed onions and garlic"
+- "french canadian pork pie with butter crust"
+- "holiday pork pies"
 breadcrumb: ["Home", "Recipes", "Appetizers"]
 nutrition: 
  calories: "410"
@@ -89,3 +96,103 @@ faq:
 - "q: Can I store and reheat pies? a: Freeze unbaked pies wrapped airtight; thaw refrig overnight before baking. Baked pies last 2-3 days in fridge wrapped. Reheat low oven uncovered; restores shine, crisp edges. Avoid microwave; ruins crust texture, soggy underside. Leftovers reheat slow and steady best. Make ahead, freeze raw, bake fresh for best experience. Cooling after bake firms filling; reheating reactivates aroma and crunch."
 
 ---
+
+Cut the cold butter into the flour first—that's where the crust lives or dies. Three layers of pastry, savory meat, spice that tastes like someone's grandmother knew what she was doing. Takes about an hour and a half total, but most of that's waiting. These aren't complicated. They're just small enough to feel special.
+
+## Why You'll Love These Mini Pork Tourtières
+
+Takes ninety minutes start to finish—half of that is just chilling dough.
+Flaky crust. Actually flaky. Not the dense kind. The kind that shatters when you bite it and makes a mess and you don't care.
+Makes twelve at once. Freeze half. Bake straight from frozen on a random Tuesday in December.
+Holiday dinner without the stress. Looks fancy. Takes less time than a lasagna.
+Tastes better cold the next day. Not sure why. Just does.
+
+## French Canadian Pork Pie Filling and Pastry Ingredients
+
+**Pastry first.** All-purpose flour. Two and seven-eighths cups. Baking powder—one and three-quarter teaspoons, not more. Cold unsalted butter cubed. Seven ounces. Has to be cold. One beaten egg. Three and a half tablespoons of iced water, maybe. Apple cider vinegar. Four teaspoons. The vinegar matters more than people think.
+
+**For the filling.** Two medium onions, chopped fine. One garlic clove minced. Olive oil. Two tablespoons. Mushrooms—half a cup chopped small. Ground veal. One pound. Or use pork. Veal's softer but pork works. A quarter teaspoon of ground clove. Half a teaspoon dried savory. Salt and pepper. 
+
+**Glaze last.** Half a cup of whole milk. One egg. Whisk it together later.
+
+## How to Make Homemade Pork Tourtière Pastry
+
+Pulse the flour and baking powder in a food processor. Short bursts. Add the cold butter cubes. Pulse again—you want it to look like coarse sand with some pea-sized lumps still visible. Don't over-pulse. Butter needs to stay cold and separate or the crust gets greasy.
+
+Pour in the beaten egg. Add the iced water gradually while pulsing. A splash at a time. Add the vinegar. Pulse a few more times until the dough just barely comes together. It should still look crumbly. That's right. Overmixing kills it.
+
+Scrape everything out onto the counter. Form it into a disk with your hands. Wrap it tight in plastic wrap. Chill for fifty to sixty minutes. This isn't optional. Gluten relaxes, butter firms up again. Flakiness depends on it.
+
+While that sits, make the glaze. Whisk the milk and egg together in a small bowl. Stick it in the fridge.
+
+## How to Build the French Canadian Meat Pie Filling
+
+Heat olive oil in a skillet over medium-high. You'll hear it sizzle. That's when you know.
+
+Dump in the onions and garlic. Stir constantly. Let them go golden and soft—takes about six or seven minutes. Don't rush this part. The sugars need time to develop. The kitchen should smell deep and caramelized.
+
+Throw in the chopped mushrooms. Stir until the moisture evaporates and everything smells earthy and concentrated. Four minutes, maybe five. Crank the heat up slightly.
+
+Crumble the ground veal or pork into the pan. Break it apart with a spatula as it cooks. Brown it completely—no pink left anywhere. Eight to nine minutes total. The meat should look crumbly and golden.
+
+Season it now. Salt. Pepper. A quarter teaspoon of ground clove. Half a teaspoon of dried savory. Taste a small piece. If it tastes flat, add more salt. If it tastes clammy or wet, it's either undercooked or has too much liquid—keep cooking until it dries out.
+
+Transfer everything to a bowl and let it cool completely before you assemble. Hot filling will melt the butter in the dough.
+
+## Mini Tourtière Pies Assembly and Baking Tips
+
+Heat the oven to 175°C (350°F). Put the rack low. Low racks crisp the bottoms.
+
+Divide the chilled dough in half. Flour your work surface. Roll the first half to three millimeters thick. Using a five-inch round cutter—a regular cup works—stamp out twelve circles. Press each one into a greased muffin tin. Make actual shells, not flat discs.
+
+Repeat with the other half of dough.
+
+Spoon the cooled filling into each shell. Don't overfill. It'll burst out during baking and make a mess. A heaping tablespoon, maybe a tablespoon and a quarter.
+
+Roll out the remaining dough scraps. Cut twelve smaller circles—three and a half inches. These are your lids. Place one on top of each pie. Press the edges down firmly with your fingers or a fork. Seal them tight. Trim any excess dough hanging over. Brush the sealed edges with the milk-egg glaze—it acts like glue.
+
+Poke small vents in the top of each pie with a knife tip or skewer. Two or three. Steam needs somewhere to go.
+
+Brush the entire top of each pie with the remaining glaze. Golden shine comes from this step.
+
+Bake for forty-two to forty-eight minutes. Watch them. The crust should turn deeply golden brown—almost caramel-colored. Poke the top lightly. It should feel crisp, not doughy. The filling inside should feel springy when you press it gently. If the tops are browning too fast before the bottoms finish, tent them loosely with foil.
+
+Pull them out of the oven. Remove from the tin immediately. Soggy bottoms happen when they sit in the hot pan. Let them cool for a few minutes. They taste better when they're warm but not burning-hot. Flavors taste more complex once they cool slightly.
+
+## Pork Pie With Savory Spices—Common Mistakes and Fixes
+
+Dough cracks when you roll it? Rest it longer. Or add another splash of iced water when you're mixing. Just a teaspoon. Mix again.
+
+Crust comes out greasy? You either didn't keep the butter cold enough or you over-pulsed. Next time, use a colder work surface. Put the flour and butter in the freezer for ten minutes first.
+
+Filling too wet after cooking? The mushrooms or onions released water. Cook it longer on high heat. Let the liquid evaporate completely before you fill the pies.
+
+Ground veal makes the filling softer and more delicate. Ground pork works just as well but tastes slightly richer and less refined. Turkey dries out. Don't use turkey.
+
+Frozen pies bake the exact same way. Pull them straight from the freezer. Add maybe five minutes to the bake time. The crust still gets flaky.
+
+You could swap olive oil for butter in the filling if you want it richer. Butter browns deeper. Olive oil tastes cleaner.
+
+Want a visual twist? Sprinkle crushed fennel seeds on top before the egg wash. Just a pinch. Nobody will know what hit them.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Pork Tourtière Recipes
+
+**Can I make these ahead?**
+Yes. Make them up to the glaze step. Refrigerate for a day, bake when you're ready. Or freeze them unbaked and bake straight from frozen. Takes about five extra minutes.
+
+**What if I don't have veal?**
+Use pork. Ground pork works. Tastes different—richer, less delicate—but it's not worse. Just different.
+
+**How do I know the filling is cooked through?**
+Poke the top gently. It should spring back. No liquid should pool. The crust should sound crisp when you tap it.
+
+**Can I make the pastry in a regular bowl instead of a food processor?**
+Sure. Cut the butter into the flour with a pastry cutter or your fingertips. Takes longer. More effort. Same result if you don't overwork it.
+
+**Why apple cider vinegar in the pastry?**
+Keeps the dough tender. Inhibits gluten development. You end up with a more delicate crust. Regular vinegar works too.
+
+**Do these freeze well after baking?**
+Yeah. Cool them completely first. Stack them with parchment between each one. They last about three months frozen. Reheat in a 325°F oven for about eight minutes.
