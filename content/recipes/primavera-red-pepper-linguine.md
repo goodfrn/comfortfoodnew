@@ -1,10 +1,10 @@
 ---
-title: "Primavera Red Pepper Linguine"
+title: "Vegetable Pasta with Fresh Basil"
 slug: "primavera-red-pepper-linguine"
-description: "Fresh linguine mixed with sautéed red onion and garlic in olive oil. Bright vegetables: red and yellow bell peppers. Substitute snow peas with asparagus tips. Sun-dried tomatoes replaced by roasted red peppers. Broccoli remains, blanched. Tossed with fresh basil and ripe, chopped tomatoes. Creamy mozzarella instead of bocconcini. Salt and pepper to taste. Quick cook and toss pasta in veggie mix, with reserved pasta water to loosen. Serve piping hot, cheese slightly melted. Simple, light, colorful dish packed with texture and herbs."
-metaDescription: "Primavera Red Pepper Linguine is a colorful Italian dish. Fresh veggies, creamy mozzarella. Perfect for a quick dinner that's flavorful and light."
-ogDescription: "Primavera Red Pepper Linguine, a fresh and light dish. Packed with vibrant vegetables and creamy mozzarella. Ideal for a weeknight meal."
-focusKeyphrase: "Primavera Red Pepper Linguine"
+description: "Fresh linguine with sautéed red onion, garlic, roasted red peppers, bell peppers, asparagus, broccoli, tomatoes, and mozzarella. Tossed in olive oil with basil."
+metaDescription: "Vegetable pasta recipe featuring fresh linguine, roasted red peppers, bell peppers, asparagus, broccoli, and mozzarella. Light, colorful, and herbaceous. Make it tonight."
+ogDescription: "Fresh linguine tossed with roasted red peppers, bell peppers, asparagus, broccoli, tomatoes, and creamy mozzarella in olive oil."
+focusKeyphrase: "vegetable pasta recipe"
 date: 2025-07-23
 draft: false
 image: primavera-red-pepper-linguine.jpg
@@ -21,9 +21,18 @@ tags:
 - "healthy"
 - "mediterranean"
 keywords:
-- "linguine recipe"
-- "vegetables pasta"
-- "mozzarella dish"
+- "vegetable pasta recipe"
+- "vegetable pasta"
+- "pasta and vegetables"
+- "pasta vegetarian meals"
+- "vegetable pasta ideas"
+- "roasted red pepper pasta"
+- "pasta with roasted veggies"
+- "red pepper and pasta"
+- "creamy pasta and vegetables"
+- "pasta recipe with veggies"
+- "broccoli pasta"
+- "bell pepper pasta"
 breadcrumb: ["Home", "Recipes", "Pasta and Noodles"]
 nutrition: 
  calories: "420 kcal"
@@ -67,3 +76,99 @@ faq:
 - "q: Need a gluten-free version? a: Use gluten-free linguine. Check brands for best results. Cook separately, same timing. Adjust sauce consistency, lighter may be needed."
 
 ---
+
+Red onion goes in first—slow. Really slow. Twelve minutes over low heat until it's basically melting into the oil. That's the whole difference between this and pasta with raw vegetables thrown on top.
+
+## Why You'll Love This Vegetable Pasta
+
+Takes 45 minutes start to finish. Most of that's just water boiling.
+Tastes better the next day cold, honestly. Something about the oil and basil settling overnight.
+Fresh mozzarella melts just enough—doesn't turn into cheese sauce, just gets soft. Works as a quick weeknight thing or a Mediterranean side that doesn't feel like you're being healthy about it.
+No cream. No heavy sauce. Just olive oil and vegetables doing their thing.
+One pan for the veg, one pot for water. Cleanup's fast.
+
+## What You Need for Vegetable Pasta
+
+Spanish red onion, sliced thin. Not white. The sweetness matters.
+
+One garlic clove. Minced fine. More than one and it gets aggressive.
+
+Olive oil—150 milliliters. Good stuff. The pasta doesn't have anything else going on, so the oil needs to be drinkable.
+
+Roasted red peppers from a jar. Already soft, already have that char flavor. Fresh peppers work if you want to roast them first, but jarred saves 20 minutes.
+
+One red bell pepper and one yellow. Slice them thin. The thinner they are, the faster they soften and the better they coat the pasta.
+
+Asparagus tips. Blanched first—two minutes in boiling water, then into ice water. Stops them from getting mushy when they hit the hot pan.
+
+Broccoli florets. Same thing. Blanch them. Don't skip it. Raw broccoli in hot pasta is weird.
+
+Fresh basil. Chopped. Not dried. Dried tastes like old paper.
+
+Two medium tomatoes, chopped rough. Don't peel them. The skins give you something to bite into.
+
+Fresh linguine. 350 grams. The dried stuff works but fresh is worth it here—softer, picks up oil better.
+
+Fresh mozzarella. 200 grams. Sliced thick. The kind that comes in water, not shredded.
+
+Salt. Black pepper.
+
+## How to Make Vegetable Pasta
+
+Heat the oil low. Really low. Medium-low if your stove runs hot.
+
+Onion goes in first. Sliced thin. Stir it around every minute or so. Just let it soften. This takes 12 minutes, maybe more. You're not caramelizing—you're coaxing it into submission. Stop when it looks translucent and smells sweet.
+
+Garlic. One clove, minced. Stir for maybe 30 seconds. The second it smells like garlic you're done. Burn it and start over.
+
+Roasted red peppers and the fresh peppers—red and yellow—go in together. Stir for three minutes. They're already soft so you're just warming them through and getting them coated in oil.
+
+Now add the asparagus, broccoli, basil, and tomatoes. Stir. Put a lid on it. Five minutes. Nothing fancy. Just let them get warm and the flavors start talking to each other.
+
+While that's happening, boil the pasta water. Big pot. Salted water. Salt it like the sea. Bring it to a rolling boil.
+
+Linguine in the water. Cook until it just barely resists when you bite it. Eight to 10 minutes for fresh. Don't leave it in there hoping—test it at minute eight.
+
+Drain it. Save some of the starchy water in a mug. That water's your secret—it's what makes everything stick together.
+
+## How to Get Vegetable Pasta Silky Without Cream
+
+Toss the hot pasta with the vegetable mixture. Do this gently—you don't want mozzarella and basil broken into pieces before it even hits the plate.
+
+Add the pasta water. A splash. Stir. Add more if it looks dry. You want it slippery but not soup. The starch in the water emulsifies with the olive oil. That's it. That's the sauce.
+
+Season now. Salt. Pepper. Taste it. You'll know.
+
+## Vegetable Pasta Tips and Common Mistakes
+
+The vegetables need to be prepped before you start cooking the oil. Everything happens fast once the onion's done. Chop everything now, get it in bowls, breathe easy.
+
+Don't skip blanching the broccoli and asparagus. Raw vegetables in hot pasta steam instead of soften. They stay tough and bitter. Two minutes in boiling water. Ice bath. Done.
+
+The pasta water is not optional. That's the emulsifier. That's what makes the oil stick to the pasta instead of sliding off. You'll feel the difference the second you taste it.
+
+Fresh mozzarella melts better than block mozzarella. It's softer already. If your mozzarella is the kind in a plastic bag in the cheese section, it won't melt right—get the kind that comes floating in water.
+
+Serve it the second it's plated. Don't hold it in a bowl while you plate the next person. It gets gluey. One at a time, mozzarella on top, eat it hot.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Vegetable Pasta
+
+**Can I make this pasta and vegetables recipe ahead of time?**
+Cold the next day is actually good. Tastes different—less vibrant but richer. Reheat it gently with a splash of water or eat it straight. The mozzarella won't melt again though. Fresh cheese doesn't work that way.
+
+**What if I don't have fresh linguine?**
+Dried works. Takes longer—12 minutes maybe. Everything else stays the same. The sauce won't coat dried pasta the same way, so you might need a bit more pasta water.
+
+**Can I add protein to this vegetable pasta dish?**
+Chicken works. Cook it separate, slice it, add it at the end. Same with shrimp. Don't cook it in the oil with the onions—the pasta needs that oil to taste clean.
+
+**How do I keep fresh asparagus and broccoli tender in this pasta?**
+Blanch them first. Two minutes boiling, straight into ice water. It stops them from cooking further and keeps them bright. If you add raw vegetables they'll turn mushy and gray.
+
+**Is this vegetarian pasta healthy?**
+It's not low-calorie—there's a lot of oil. But it's not heavy either. Mediterranean diet stuff. Most of the calories are from olive oil, which is fine. Lots of fiber from the vegetables. The mozzarella's fresh, not processed.
+
+**What does pasta and roasted vegetables pair well with?**
+A salad on the side. Acidic vinaigrette cuts through the oil. Or serve it with crusty bread and nothing else. That's enough.
