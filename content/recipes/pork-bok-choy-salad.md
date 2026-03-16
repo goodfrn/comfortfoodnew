@@ -1,10 +1,10 @@
 ---
-title: "Pork Bok Choy Salad"
+title: "Pork Bok Choy Salad with Teriyaki Dressing"
 slug: "pork-bok-choy-salad"
-description: "A quick roast pork salad packed with crunchy bok choy, crisp green apple, and sweet carrots. Dressed in a sticky, tangy teriyaki glaze with a kick from sambal oelek. Aromatic shallots, fresh ginger, and garlic simmer into a syrupy sauce. Toasted peanuts add crunch and a nutty depth. Roasting pork at 200 C creates a juicy, caramelized crust while staying tender inside. Blanching bok choy softens stalks but keeps the leaves vibrant green. Lime juice brightens the mix. Simple, vibrant flavors balancing sweet, spicy, tart, and savory."
-metaDescription: "Pork Bok Choy Salad with punchy teriyaki glaze, crunchy apple, toasted peanuts. Roast pork juicy, bok choy bright green, bold mix sweet, spicy, tart, savory."
-ogDescription: "Juicy roast pork, crisp bok choy, and tart green apple tossed in sticky teriyaki glaze with roasted peanuts. Quick Asian-fusion salad packed with texture and bold flavors."
-focusKeyphrase: "Pork Bok Choy Salad"
+description: "Roasted pork salad with blanched bok choy, carrots, green apple, and peanuts tossed in tangy teriyaki dressing with sambal oelek for a perfect balance of sweet, spicy, and savory flavors."
+metaDescription: "Pork bok choy salad recipe with roasted pork tenderloin, crisp vegetables, and teriyaki dressing. Quick, fresh, and packed with flavor. Make it tonight."
+ogDescription: "Juicy roasted pork with blanched bok choy, carrots, and green apple in a sticky teriyaki sauce with peanuts and sambal oelek."
+focusKeyphrase: "pork bok choy salad"
 date: 2025-09-25
 draft: false
 image: pork-bok-choy-salad.jpg
@@ -21,9 +21,16 @@ tags:
 - "easy dinner"
 - "roasted"
 keywords:
-- "bok choy salad"
-- "teriyaki glaze"
-- "roast pork"
+- "pork bok choy salad"
+- "roasted pork salad with teriyaki dressing"
+- "teriyaki pork salad with bok choy"
+- "asian pork salad with sambal oelek"
+- "pork salad with green apple and carrots"
+- "roasted pork tenderloin salad"
+- "easy dinner pork salad"
+- "pork salad"
+- "asian salad"
+- "pork tenderloin salad with crispy vegetables"
 breadcrumb: ["Home", "Recipes", "Salads"]
 nutrition: 
  calories: "350"
@@ -76,3 +83,75 @@ faq:
 - "q: Storing leftovers? a: Pork reheat low and slow in pan or microwave covered. Salad best eaten fresh but if needed keep dressing separate. Store salad and pork in airtight containers, fridge max 2 days. Peanuts best fresh for crunch; toasted nuts soften storing. Lime juice freshness fades fast; add extra when serving."
 
 ---
+
+Pork hits the pan. That sizzle — that's flavor happening right now. Forty minutes total and you've got an Asian salad that actually tastes like something, not like you're eating air and good intentions.
+
+## Why You'll Love This Roasted Pork Bok Choy Salad
+
+Comes together in under 1 hour 15 minutes flat.
+The pork is medium-rare inside, the bok choy stays bright and tender instead of sad, and everything gets pulled into this teriyaki dressing that tastes like you sweated over it for days. You didn't. It's basically one pot.
+Cold the next day if you have leftovers — better actually, because the flavors sit together overnight.
+Works as an easy dinner when you need something that looks like you tried but tastes too good to be true.
+Apple and carrots give this thing actual crunch. Peanuts on top. That's the whole point.
+
+## What You Need for an Asian Pork Salad
+
+Soy sauce. The regular kind, not low-sodium — sodium is flavor. Brown sugar and molasses for the dressing base — molasses adds depth. Rice vinegar, not white vinegar. White is too sharp. Shallot, garlic, ginger, sambal oelek for heat that's not aggressive, just present.
+
+Pork tenderloin filets. Two of them, about 175 grams each. Olive oil for searing — gets hot enough to develop a crust without breaking down like butter does. Baby bok choy that you blanch for 30 seconds. Frozen works if fresh isn't around. Carrots and a tart green apple, both julienned so they're thin and have something to do texture-wise. Green onion. Lime juice. Peanuts. Salt. Pepper.
+
+That's it.
+
+## How to Make Roasted Pork Bok Choy Salad
+
+Start with the dressing because it needs to cool. Saucepan over medium heat — combine soy sauce, brown sugar, molasses, rice vinegar, shallot, garlic, ginger, sambal oelek. Let it come up to a boil. You'll see the sugar dissolve first. Then the whole thing breaks open and smells like someone cracked ginger over hot garlic. That's the sign.
+
+Turn it down to a simmer. Stir sometimes. Eight to ten minutes and it thickens. The back of a spoon should have sauce that coats it, not drips off. Too thin, keep simmering. Then off heat entirely. Let it cool all the way down — you don't want warm dressing hitting cold greens and wilting everything.
+
+Oven to 205 C (400 F), rack in the center. Get a heavy skillet hot over medium-high heat. Really hot. Shimmering. While that's happening, pat the pork completely dry. This is the only time you'll touch it before the pan.
+
+Rub with olive oil, salt, pepper. Into the hot pan. Don't move it. Listen for the sizzle — hard and aggressive, like something's actually happening. That's the Maillard reaction. The crust forming. Turn once the bottom's golden brown. All sides. Two minutes per side, maybe three. The whole pork should look like old wood color — deep brown.
+
+Skillet into the oven. Pork roasts 13 to 17 minutes. Pull at 62 to 64 C (145 to 147 F) internal temp if you have a thermometer. If not, the thickest part should feel like pushing the soft spot between your thumb and forefinger when your hand is relaxed. That's medium. Carryover heat keeps it from staying raw.
+
+Out of the oven. Foil over the top loosely. Let it sit. Eight to ten minutes. This step actually matters — juices redistribute and the meat gets juicy instead of turning dry and stringy as soon as you cut it.
+
+Slice across the grain. Thin. The slices should bend without breaking.
+
+While the pork rests, blanch the bok choy. Boiling salted water. Thirty seconds. That's enough. Green and tender but not soft. Drain. Some people shock it in ice water. It doesn't change much. Skip if you're already running late.
+
+Big bowl. Bok choy, carrots, apple, green onion all go in together. Pour half the teriyaki dressing over everything. Squeeze lime juice. Toss. Taste it. If it's flat, add more salt or more lime. The apple should taste tart, the carrots sweet, the bok choy just there supporting both. That's the balance.
+
+Plate the salad. Arrange it so there's shape to it, not just a heap. Pork on top. The remaining dressing drizzled over. Peanuts scattered on last — they stay crunchier that way, don't absorb sauce and turn soft. Serve immediately.
+
+## Roasted Pork Tips and Common Mistakes
+
+The pork temperature is the whole thing. Tenderloin dries out if you leave it in too long. Medium-rare or you're just eating something that tastes like commitment instead of pleasure. Slice it thin anyway — thinner slices feel more tender because they are.
+
+Don't blanch the bok choy for more than 30 seconds. One minute and it becomes mushy. Thirty seconds and it's just barely not raw anymore. Still has texture.
+
+The dressing needs to cool completely before it hits the greens, or the heat wilts everything into a pile. Make it first. That's the only hack.
+
+Lime juice right before eating. Not hours before. The acid gets weird and separated after a while.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Roasted Pork Bok Choy Salad
+
+**Can I make the teriyaki dressing ahead?**
+Yeah. Three days in the fridge. It gets a bit darker and sweeter as it sits — not bad. Just different. Shake it before using if the molasses settles.
+
+**What if I don't have pork tenderloin?**
+Pork loin works. Takes longer — maybe 25 minutes roasting instead of 17. Chicken breast is fine too, 15 minutes at the same temperature. Not the same dish but similar energy.
+
+**Do I have to blanch the bok choy?**
+No. Raw works. Stays crunchier. Some people prefer it that way. Blanching's just one choice.
+
+**Can I make this ahead for lunch?**
+The pork keeps cold, the vegetables stay okay, but the salad dressing breaks down after a few hours and the apple oxidizes brown. Slice and pack everything separately. Dress it right before eating.
+
+**What's the deal with sambal oelek?**
+Heat that doesn't yell. It's fermented, so it has depth instead of just spice. If you don't have it, skip it. Hot sauce works but tastes different — more vinegar. Just leave it out, honestly.
+
+**Can I use regular apples instead of green?**
+Red works. Granny Smith is sharper though, which is why. Red apples are sweeter. They're fine, just a different flavor. The salad isn't picky about it.
