@@ -1,10 +1,10 @@
 ---
-title: "Rustic Sweet Tart Dough"
+title: "Sweet Tart Dough with Spelt Flour & Ghee"
 slug: "rustic-sweet-tart-dough"
-description: "A reworked sweet dough for tart bases, swapping key ingredients for a unique flavor and texture. Uses spelt flour instead of all-purpose, coconut sugar in place of white. Butter swapped for cold ghee, eggs replaced with an egg yolk plus a splash of cream. Incorporates a pinch of cornstarch to tighten the crumb. Chopped freeze-dried strawberries added for subtle tartness and spots of color once baked. Prep plus chilling time roughly 25 minutes. Yields one 9-inch tart shell. Ideal for rustic fruit tarts or creamy filling bases."
-metaDescription: "Rustic Sweet Tart Dough swaps spelt flour, ghee, coconut sugar for a flaky, nutty base with freeze-dried strawberries. Chill dough, blind bake, get flaky crumb."
-ogDescription: "Flaky tart dough with spelt flour, cold ghee, and coconut sugar. Freeze-dried strawberries add texture. Chill, roll with parchment, blind bake just right."
-focusKeyphrase: "Rustic Sweet Tart Dough"
+description: "Sweet tart dough made with spelt flour, coconut sugar, and cold ghee for a rustic tart base. Topped with freeze-dried strawberries for tartness and color. Perfect for fruit tarts."
+metaDescription: "Sweet tart dough recipe using spelt flour, coconut sugar, and cold ghee. Includes freeze-dried strawberries for flavor. Make it tonight."
+ogDescription: "Rustic sweet tart dough with spelt flour, coconut sugar, and cold ghee. Freeze-dried strawberries add tartness and color."
+focusKeyphrase: "sweet tart dough"
 date: 2025-08-07
 draft: false
 image: rustic-sweet-tart-dough.jpg
@@ -20,9 +20,16 @@ tags:
 - "spelt"
 - "coconut"
 keywords:
-- "tart dough"
-- "spelt flour pastry"
-- "coconut sugar baking"
+- "sweet tart dough"
+- "tart crust recipe"
+- "spelt flour tart crust"
+- "coconut sugar tart crust"
+- "ghee butter tart base"
+- "freeze-dried strawberry tart dough"
+- "homemade tart shell"
+- "rustic tart dough"
+- "spelt flour dessert"
+- "tart base recipe"
 breadcrumb: ["Home", "Recipes", "Desserts"]
 nutrition: 
  calories: "350"
@@ -70,3 +77,51 @@ faq:
 - "q: Tips for blind baking without weights? a: Use flattened dried beans or clean rice in foil pouch. Weights keep dough flat, prevent puffing. Without them, dock extra and bake longer on lower rack to dry crust. Watch edges closely. Slight rise OK, but heavy bubbles cause breaks and bubbles inside crust."
 
 ---
+
+Cold ghee, diced. Spelt flour that crumbles between your fingers. A few freeze-dried strawberry bits. Ten minutes later you've got dough that bakes into something that actually tastes like butter, not the cardboard-crust version that comes from not paying attention. This spelt flour tart crust holds together because the cold matters and the resting matters and honestly because ghee does something butter just doesn't.
+
+## Why You'll Love This Spelt Flour Tart Dough
+
+Tastes nutty. Ghee does that—something almost browned, almost toasted even though nothing's actually brown yet. Takes 15 minutes active work, which isn't nothing but also isn't a production. The coconut sugar brings something quiet to it, not sweet-sweet, just a baseline that lets the crust flavor actually exist. Freeze-dried strawberries stay crispy even after baking. No soggy bits. The dough actually works cold, comes out flaky if you don't overthink it.
+
+## Ingredients for Your Spelt Tart Base
+
+Spelt flour—105 grams. Not all-purpose. It's more tender, browns faster, has this wheaty thing going on that regular flour doesn't. Coconut sugar, 30 grams. Darker than white sugar, tastes less aggressively sweet. A quarter teaspoon of cornstarch. Just enough to stop the dough from sticking without changing texture. Cold ghee—85 grams, cut into small chunks before you start, straight from the fridge. Ghee gives you that nuttier vibe that butter can't quite reach. If you only have butter, use unsalted and reduce any salt in your filling. One egg yolk. Heavy cream, 15 milliliters. Whisk them together first. Freeze-dried strawberries, 15 grams, chopped. They stay crispy. Don't use fresh—moisture kills everything.
+
+## How to Make Homemade Spelt Flour Tart Shell with Ghee
+
+Mix the spelt flour, coconut sugar, and cornstarch in a bowl. Food processor works too—pulse it, brief, just until the mixture looks gritty but not powdery. This matters. Then add the cold ghee chunks. Blitz until it looks sandy but with small pea-sized lumps still visible. Over-process and the gluten gets tough. Watch the texture. Stop when you still see lumps.
+
+Stir in the freeze-dried strawberries—those dry, crumbly bits—just fold them in. They stick like tiny crystals. Gives you subtle fruity pockets when it bakes. No extra moisture, which is the whole point. Whisk the egg yolk and cream together until blended, slightly thickened but still pourable. Drizzle it into the flour mix while mixing with a spatula. Pulse briefly if you're using a processor. The dough should just start clumping—shaggy, rough ball, not smooth. Don't overwork it. Warmth from your hands softens the fats, toughens the dough.
+
+## How to Get Your Spelt Tart Crust with Coconut Sugar Actually Flaky
+
+Scoop the dough onto parchment paper. Press it into a disk. Wrap it. Chill 10 to 15 minutes. The fridge firms the fats, stops shrinkage when it hits the oven. This part isn't optional. Take it out, dust your counter with flour—spelt dough's fragile when cold, breaks easily. Warm it slightly in your hands but keep the whole thing cool. Roll out between two sheets of parchment to about 3 millimeters thick, roughly 9 to 10 inches across. Remove the top paper. Invert it over your tart pan. Gently press the dough into the crevices—the pan has corners, the dough needs to follow them. Trim the edges with a sharp knife. Prick the base all over with a fork. That's the vent. Steam needs to escape.
+
+Preheat to 180°C—that's 350°F. Line the shell with foil. Fill it with pie weights or dried beans. Bake 8 to 10 minutes until the edges are pale golden and the base feels set but not colored. Remove the weights. Bake 2 to 3 minutes more until the bottom feels firm and actually dry to the touch. Cool it before adding filling. Hot shell plus wet filling equals soggy bottom. Not worth it.
+
+## Spelt Flour Tart Dough Tips and Common Mistakes
+
+Freeze-dried strawberries are optional. Could swap in chopped crystallized ginger instead. Dried lemon zest works. The point is something that adds flavor without moisture. Ghee's the move for nuttiness. Butter does work if that's what you have, but reduce any salt in the filling because salted butter's the default everywhere now. Coconut sugar's darker and moist—watch your dough texture as you mix. Might need a sprinkle more flour. Might not. Avoid over-blending. Dough gets tough fast when it's warmed up or worked too much. Patience with chilling beats exact timing every single time.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Tart Crust Recipe
+
+**Can I make this ahead?**
+Wrap and chill for up to three days. Freeze it for a month. Bake straight from frozen—add 2 to 3 minutes. Don't thaw.
+
+**Why use spelt flour instead of regular flour?**
+It's more tender. Browns faster. Has this wheaty flavor that all-purpose just doesn't. The crust tastes like something instead of tasting like a blank canvas.
+
+**Can I use butter instead of ghee?**
+Yeah. Cold unsalted works. You lose the nuttiness though. Ghee has this browned-butter depth that straight butter can't give you. Worth seeking out for this one.
+
+**What if my dough cracks when I roll it?**
+Spelt's delicate. Warm your hands slightly—like, actually hold the dough for 30 seconds before rolling. It becomes less brittle without getting soft. Don't rush it.
+
+**Does the dough need to rest in the fridge?**
+It does. 10 to 15 minutes minimum. The fats firm up. The gluten relaxes. Skip it and your crust shrinks in the oven. Not ideal.
+
+**Can I substitute the freeze-dried strawberries?**
+Totally. Chopped candied ginger. Dried lemon zest. Anything dry and flavorful. Fresh fruit adds moisture—changes everything. Avoid it.
