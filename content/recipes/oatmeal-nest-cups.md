@@ -1,10 +1,10 @@
 ---
-title: "Oatmeal Nest Cups"
+title: "Oatmeal Breakfast Cups with Walnuts"
 slug: "oatmeal-nest-cups"
-description: "No fluff oats baked into handheld nests. Baked in muffin tins, forming sturdy little cups that hold creamy Greek yogurt or whatever you fancy. A bit chewy, lightly golden edges, still tender inside. You’ll hear the subtle crackle at the edges when done—trust that. Don’t sweat perfect timing—watch for color and texture instead. A safer choice than muffins, stashes easily in fridge, breakfast on demand. Likes silcone liners for lift-off; grease if none. I tossed out part of oats, swapped honey with maple syrup—works fine, adds a new hint. A small tweak but sets it apart from usual oatmeal glob. Feels rustic, practical, slightly sweet, loads easy to tweak."
-metaDescription: "Oatmeal Nest Cups bake crisp edges with chewy centers; hold Greek yogurt, berries. Maple syrup sweetness, nut crunch, cinnamon warmth, easy handheld breakfast fix."
-ogDescription: "Crunchy oat cups with a chewy bite. Use maple syrup, nuts for texture. Press sides firm, bake till crackling edges. Cool right, fill with yogurt and berries."
-focusKeyphrase: "Oatmeal Nest Cups"
+description: "Baked oatmeal breakfast cups made with old fashioned oats, walnuts, and maple syrup. Sturdy muffin-tin cups perfect for Greek yogurt or your favorite topping. Make ahead."
+metaDescription: "Make oatmeal breakfast cups with oats, walnuts, and maple syrup in muffin tins. Creamy Greek yogurt pairs perfectly. Try it tonight."
+ogDescription: "Golden baked oatmeal cups with walnuts and maple syrup. Hold Greek yogurt or toppings. Make ahead breakfast done right."
+focusKeyphrase: "oatmeal breakfast cups"
 date: 2025-11-21
 draft: false
 image: oatmeal-nest-cups.jpg
@@ -21,9 +21,15 @@ tags:
 - "healthy"
 - "easy"
 keywords:
-- "oatmeal nests"
-- "baked oats"
-- "oat cups"
+- "oatmeal breakfast cups"
+- "baked oat cups"
+- "maple cinnamon oatmeal cups"
+- "walnut oatmeal muffin cups"
+- "make ahead oatmeal breakfast cups"
+- "oatmeal cups with greek yogurt"
+- "baked oats in muffin tin"
+- "greek yogurt oatmeal bites"
+- "high protein oatmeal breakfast bites"
 breadcrumb: ["Home", "Recipes", "Breakfast"]
 nutrition: 
  calories: "150"
@@ -67,3 +73,84 @@ faq:
 - "q: Storage tips? a: Airtight container in fridge up to 3 days. Nests firm best cold. Reheat briefly, 10 seconds max in microwave to regain crisp edge texture. Avoid reheating long or edges go soggy. Can fill fresh after reheating or cold."
 
 ---
+
+Two heaping tablespoons per cup—that's the whole thing. Press it down, form little walls, and 17 minutes later you've got breakfast for the week sitting in front of you. No blender. No stress. Just oats, nuts, and an egg doing exactly what you need them to do.
+
+## Why You'll Love These Oatmeal Breakfast Cups
+
+Takes 20 minutes to prep, 17 in the oven, then you're done for days. Stack five in a container. Grab one before work.
+
+Greek yogurt goes on top—berries too if you have them. Soft inside, crispy edges. That textural play is what makes it work.
+
+No bake part of the appeal. Once they cool, they sit in the fridge for three days easy. Reheat in the microwave for 10 seconds if you want the crunch back. Works fine cold too.
+
+High protein hits different when breakfast actually fills you until lunch. The egg does that. The nuts do that. Not some sad cereal situation.
+
+Healthy eating shouldn't taste like you're punishing yourself. These taste like a treat but your body knows what's up.
+
+## What You Need for Maple Cinnamon Oatmeal Cups
+
+Old fashioned oats. Not instant. Not quick. The texture falls apart otherwise.
+
+One and a half cups. That's the base. Walnuts work best—a third cup chopped up. Pecans or almonds if that's what you have. The crunch matters more than which nut exactly.
+
+Maple syrup. Not honey. Maple holds the moisture differently, keeps things tender instead of dense.
+
+One large egg. That's your binder. Non-negotiable. Half a cup of milk—cow milk, almond milk, oat milk. Doesn't matter much. Just something to hydrate the oats.
+
+Baking powder. A half teaspoon. Cinnamon too. A half teaspoon of that. Salt—a quarter teaspoon. The cinnamon's doing real work here. Don't skip it or swap it light. Vanilla extract, one teaspoon. That's it.
+
+## How to Make Baked Oat Cups in a Muffin Tin
+
+Heat your oven to 355. Not 350. That extra five degrees makes the edges crisp instead of chewy and soggy. Get a 12-cup muffin pan. Silicone liners if you have them—they peel right off and you never fuss with paper or stuck edges. No liners? Spray it hard with nonstick spray. Paper liners lock moisture wrong. Skip those.
+
+Whisk together your oats, nuts, baking powder, cinnamon, salt. Do this in one bowl. Get it mixed through so the spices aren't clumping anywhere.
+
+Different bowl now. Egg, syrup, vanilla, milk. Whisk it but don't overdo it. Lumps are fine. The whole point is to keep things rough. Pour the wet stuff into the dry stuff. Stir just until combined. You want to see texture, not batter smoothness.
+
+## How to Get Crispy Edges on Baked Oatmeal Nests
+
+This is where it gets specific. Fill each muffin cup with about two heaping tablespoons of mixture. Don't just plop it in. Press it down firmly—push against the bottom and the sides. You're creating little nest shapes with walls. This matters because later when you load it with Greek yogurt, those walls hold everything. Flat tops won't work. You need edges.
+
+Into the oven. Seventeen minutes is the target. Around 15 minutes, start listening. Faint crackling at the edges. The smell shifts—nutty, warm spices. Edges turn golden but nowhere near burnt. Inside stays tender but not gooey. That's when you pull it out. Mine usually takes 16 to 17 minutes. Your oven might be different. Watch it. The timing matters less than what you see and smell.
+
+Cool them in the pan for 12 minutes. Hot oat cups are delicate. They crack if you handle them rough. This rest firms everything up. After 12 minutes, lift gently. If you didn't use silicone liners, run a knife around the edges first. Transfer to a wire rack for another 10 minutes. Air circulation from below dries the bottom slightly. Prevents sogginess later.
+
+## Oatmeal Breakfast Cups Tips and Common Mistakes
+
+Batter too wet? Add more oats or nuts, a tablespoon at a time. You'll feel when the texture shifts to something that holds together when you press it.
+
+Not holding their shape? Push the mixture firmly against the sides and bottom. Don't be gentle. The pressure creates structure.
+
+Soggy bottoms are the worst. Crank the oven heat slightly next time or bake a minute longer. Oven quirks are real. Mine used to burn tops and leave bottoms raw until I figured out my oven runs cool on the bottom rack.
+
+Edges too dark? Lower the temp by five degrees and check at 16 minutes instead of waiting the full 17.
+
+Fill with Greek yogurt right after they cool completely. The contrast—crispy cup, soft yogurt, tart or sweet fruit on top. That layering is the whole thing. Berries work. Jam works. Honey works. Just don't skip this part.
+
+Storage: airtight container in the fridge. Best within three days. After that the cinnamon flavor gets weird, edges soften. Reheat gently if you want crisp back—10 seconds in the microwave, watch it close or they get soggy fast.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Oatmeal Breakfast Cups
+
+**Can I make these the night before?**
+Yeah. Actually better that way. Mix everything, fill the pan, cover it, stick it in the fridge overnight. Bake the next morning. The oats hydrate slow, so they come out more tender.
+
+**Do these freeze?**
+They do. Pop them in the freezer unfilled for up to two weeks. Reheat in the oven at 300 for five minutes. Or thaw them and microwave. Don't freeze them filled with yogurt—texture gets weird.
+
+**Can I use instant oats?**
+Not really. They turn to mush. Old fashioned oats hold their shape in the cup. That's the whole point.
+
+**What if I don't have walnuts?**
+Pecans work exactly the same. Almonds too. Anything nutty really. Even pumpkin seeds if you want. Just need something for texture and protein.
+
+**How long do these actually keep?**
+Three days in an airtight container, fridge. After that the cup gets soft and the cinnamon flavor goes flat. They don't last longer than that before something shifts.
+
+**Can I make these in regular muffin tins without liners?**
+Yeah but spray the hell out of it. Nonstick spray, not paper liners. Paper absorbs moisture and they stick. Silicone is honestly better but not necessary.
+
+**Do I have to top them with yogurt?**
+No. They're fine alone. But yogurt changes the whole thing—creamy against crispy, sharp against sweet. Once you go yogurt, you're not going back.
