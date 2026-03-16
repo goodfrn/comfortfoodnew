@@ -1,10 +1,10 @@
 ---
-title: "Roast Salmon Mushrooms Orange Twist"
+title: "Pan Seared Salmon with Wild Mushrooms"
 slug: "roast-salmon-mushrooms"
-description: "Salmon filets seared and topped with a rich medley of wild mushrooms simmered in a tangy orange-infused sauce. Mixed pleurotes, shiitakes, and button mushrooms roasted in butter. Diced sun-dried tomatoes add a slightly sweet, punchy note. Cornstarch thickens the broth to a glossy finish. Zest of fresh orange scattered on top gives a bright, citrus sharpness. Cook times adjusted. Two mushrooms swapped out for oyster and cremini. Pine nuts swapped for toasted almonds to give a crunch. A sprinkle of fresh thyme added for herbal aroma. Serve over herb-infused wild rice, optional but fits well."
-metaDescription: "Roast Salmon Mushrooms Orange Twist a flavorful dish with seared salmon, wild mushrooms in orange sauce, served over herb-infused wild rice"
-ogDescription: "Enjoy Roast Salmon Mushrooms Orange Twist with rich mushrooms and citrus sauce, a French-inspired delight perfect for dinner"
-focusKeyphrase: "Roast Salmon Mushrooms Orange Twist"
+description: "Pan seared salmon fillets topped with oyster, cremini, and shiitake mushrooms in an orange-infused chicken broth sauce. Sun-dried tomatoes add depth."
+metaDescription: "Pan seared salmon with wild mushrooms, sun-dried tomatoes, and bright orange sauce. Served over wild rice with toasted almonds. Make it tonight."
+ogDescription: "Salmon fillets with shiitake, oyster, and cremini mushrooms in citrus sauce. Orange zest, sun-dried tomatoes, and toasted almonds."
+focusKeyphrase: "pan seared salmon with wild mushrooms"
 date: 2025-07-19
 draft: false
 image: roast-salmon-mushrooms.jpg
@@ -21,9 +21,14 @@ tags:
 - "roasted"
 - "main dish"
 keywords:
-- "salmon recipe"
-- "wild rice"
-- "herb-infused"
+- "pan seared salmon with wild mushrooms"
+- "salmon mushroom recipe"
+- "orange glazed salmon with mushrooms"
+- "salmon with shiitake and cremini mushrooms"
+- "citrus salmon with sun-dried tomatoes"
+- "salmon fillets with orange chicken broth sauce"
+- "butter roasted mushrooms salmon"
+- "roasted salmon main dish"
 breadcrumb: ["Home", "Recipes", "Main Dishes"]
 nutrition: 
  calories: "450"
@@ -70,3 +75,105 @@ faq:
 - "q: Can I add other ingredients? a: Yes, try adding spinach or kale. Adds more vitamins. Mix in during last few minutes of cooking sauce. Or switch tomatoes for fresh ones."
 
 ---
+
+Set the pan hot. Butter first — it'll foam up in about 30 seconds. Mushrooms go in before it stops sizzling. Three types. Oyster, cremini, shiitake. Each one tastes different, cooks different. That matters here.
+
+## Why You'll Love This Roasted Salmon Mushroom Recipe
+
+Done in 50 minutes flat. Feels fancy enough for company, simple enough for Tuesday.
+The sauce — orange chicken broth with sun-dried tomatoes — tastes like you spent hours on it. Didn't. The mushrooms get dark and almost sweet.
+Salmon cooks in the same 20 minutes the sauce is building, so nothing sits around getting cold.
+Works as a main dish that actually fills you up. One plate. Protein, mushrooms, rice. Done.
+Citrus and earthy mushrooms together are weird at first. Then you can't stop eating it.
+
+## What You Need for Salmon Mushroom Recipe
+
+Mushrooms — 170 grams each of oyster, cremini, and shiitake. Not all the same type. Each one adds something. Oyster's soft, cremini's earthier, shiitake's kind of umami-forward. Mix them all. Cremini alone gets boring.
+
+Butter. 40 milliliters. Real butter. Not oil. The flavor changes everything here.
+
+Sun-dried tomatoes packed in oil. 50 milliliters. They already come in oil — that's the point. Don't drain them. The oil goes in the sauce.
+
+Chicken broth. 400 milliliters. Room temperature is fine. Cold straight from the fridge works too.
+
+Cornstarch and cold water. 12 milliliters cornstarch mixed with 20 milliliters water. Makes a slurry. Thickens the sauce without it tasting like flour.
+
+Salmon fillets. 700 grams, skinless, cut into 4 pieces. Wild-caught if you can. Farm-raised works. Just watch it doesn't dry out — the thinner parts cook faster.
+
+Olive oil. 25 milliliters. Not the fancy stuff. Regular olive oil burns less than extra-virgin.
+
+Orange zest. One orange. Get a microplane if you don't have one — makes a difference. Box grater works if that's all you have.
+
+Fresh thyme. Just the leaves. Dried thyme tastes like nothing here.
+
+Wild rice cooked. 100 grams. Can substitute regular rice. Brown rice works. White rice too if you're in a rush.
+
+Toasted almonds. 30 grams, chopped. Toast them yourself if you want them to taste like almonds. Store-bought toasted are fine. Skip them if you hate nuts.
+
+Salt and pepper. Obviously.
+
+## How to Make Orange Glazed Salmon with Mushrooms
+
+Heat the butter over medium-high until it stops foaming — that takes about a minute. You'll smell it. That nutty smell means it's ready.
+
+Throw all the mushrooms in at once. Oyster, cremini, shiitake. They look like way too much. They're not. They shrink. Stir them around for maybe 30 seconds to coat everything in butter, then let them sit. Don't stir constantly — they need contact with the hot pan or they steam instead of brown.
+
+After 3 minutes, stir once. After another 3 minutes, stir again. You're looking for spots that are dark tan, almost brown. Some pieces darker than others. That's right. Takes about 5 to 7 minutes total from when they hit the pan. Salt and pepper them now — doesn't matter if they're not done cooking, the seasoning goes in early.
+
+Add the sun-dried tomatoes with their oil. Stir for one minute. Maybe 90 seconds. That's it. You're not cooking them more — just warming them through.
+
+Pour in the chicken broth. It'll bubble hard. Let it. Once it hits a boil, turn the heat down to medium or medium-low. Simmer for 5 minutes. This part concentrates the broth flavor — makes it taste like something instead of just chicken water.
+
+While that's going, mix the cornstarch with cold water in a small bowl. Stir it with a fork until there are no lumps. If lumps stay, the sauce gets grainy. Stir hard.
+
+After the broth's been simmering for 5 minutes, pour the cornstarch slurry in slowly. Stir the whole time. The sauce will thicken almost immediately — it goes from looking like soup to looking like actual sauce in about 2 minutes. Keep stirring those 2 minutes or it'll clump. Then turn the heat to low. It's done.
+
+## How to Get Salmon Fillets with Orange Chicken Broth Sauce Crispy and Perfect
+
+While the sauce is simmering — not after, during — heat olive oil in another large skillet over medium-high. This is important timing-wise. You want the salmon done around the same time the sauce is done.
+
+Oil should shimmer. Not smoking. Just shimmering. Place the salmon in skin-side up — wait, it's skinless. Doesn't matter. Just place the salmon in the pan. Four pieces should fit without crowding. If your pan's small, work in batches.
+
+Don't touch it for 5 minutes. This is where people mess up. They flip it after 3 minutes thinking it's burning. It's not. It's building a crust. The crust is what makes it taste good.
+
+After 5 minutes, flip it. Cook another 5 minutes on the other side. The thickest part should be just barely opaque in the center. If you poke it with a fork, it should flake a little but not fall apart. Overcooked salmon is dry. Undercooked salmon is weird. Hit right in between and you're golden.
+
+Once it's out of the pan, sprinkle orange zest and fresh thyme on top while it's still hot. The heat brings out the oils in both. They smell incredible.
+
+## Salmon Fillets with Orange Chicken Broth Sauce Tips and Common Mistakes
+
+Don't skip the simmering step with the broth. People do. They think 5 minutes is pointless. It's not. That's what concentrates the flavor so the sauce doesn't taste watered-down.
+
+The cornstarch slurry matters more than you'd think. Mix it properly. Lumps ruin the texture. Looks grainy. Works fine taste-wise. Texture's wrong though.
+
+Salmon thickness varies. A thin fillet cooks in 4 minutes per side. A thicker one needs 6 or 7. Know your pan. Know your heat. Thinner fillets done first, thicker ones done last. Pull the thin ones out early if they're cooking too fast.
+
+Mushroom type actually changes the cooking time slightly. Shiitake take a minute longer than oyster. Doesn't matter much in a 5-minute cook, but if you only use one type, adjust a little. Some mushrooms release water and soften faster.
+
+The orange zest goes on while the salmon's hot. If you wait until the plate, it doesn't work the same way. Heat matters.
+
+Wild rice takes longer to cook than the recipe — usually 40 to 45 minutes. Start it before everything else. Brown rice takes 30 to 35 minutes. Regular white rice takes 15 to 20. Plan backward from when you want to eat.
+
+Toast the almonds yourself if you have time. Takes 5 minutes in a dry pan over medium heat. Stir them constantly. They go from toasted to burnt in about 30 seconds, so watch them.
+
+{{< recipe-card >}}
+
+## Frequently Asked Questions About Salmon Mushroom Recipe
+
+**Can you use different types of mushrooms instead of all three?**
+Yeah. Cremini alone works fine — comes out a bit earthier. All shiitake is good too. Oyster only gets softer but tastes fine. The mix is better because they cook at slightly different speeds and give you texture variation. But single type won't ruin it.
+
+**How do you know when the salmon is done?**
+Color change — goes from translucent to opaque from the outside in. The center should still look slightly wet when you cut into it. Not raw wet. Just not completely opaque. It'll keep cooking a tiny bit after you pull it off heat. Overcooked is dry. Undercooked is weird. Right in between is 5 to 6 minutes per side.
+
+**Can you make this with skin-on salmon?**
+Yeah. Put skin-side down first, cook 6 minutes. The skin crisps up. Flip and cook 4 more minutes. Skin-on fillets are thicker usually so add a minute to each side.
+
+**What if you don't have wild rice?**
+Brown rice. White rice. Couscous. Doesn't have to be fancy. The dish is good on anything. Wild rice just looks nicer and tastes slightly nuttier.
+
+**Does the sun-dried tomato oil matter or can you drain it?**
+Don't drain it. That oil is half the flavor. You're using 50 milliliters of the tomatoes with their oil specifically so the oil flavors the sauce. Draining it makes the sauce taste flat and the tomatoes taste like nothing.
+
+**Can you substitute the cornstarch?**
+Arrowroot works the same way. Tapioca starch works too — might need slightly less, maybe 10 milliliters. Never tried rice flour here. Probably works but the texture might be different. Plain flour works if you're desperate but the sauce tastes floury. Don't love it.
